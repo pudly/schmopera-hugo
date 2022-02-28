@@ -39,11 +39,9 @@ She says she is "opposed to this war", that she has friends in Ukraine "and the 
 
 It's not that her argument isn't valid -- I do think we have a bad habit of expecting fully fleshed-out political opinions from famous people -- but it's still a lot of words to say when those words don't include, "Putin's actions are wrong."
 
-It's becoming a familiar feeling, this unease I have with Anna. She leans into the stereotypical #divalife, full of jet-setting and famous theatres and designer wardrobes. She takes her work really seriously and considers opera to be a human necessity, a universal right.
+It just doesn't smell right. And this Anna-unease is becoming a familiar sensation.
 
-Is it me, or does this kind of stuff just not fly these days? 
-
-But putting all of that up against the last decade is tough to justify. For example: When Netrebko [posted a selfie](https://www.instagram.com/p/BydFhzEHR1l/?utm_source=ig_web_copy_link) in dark makeup as Aida and followers commented about blackface and racism, she responded with toilet emojis. Super charming.
+When Netrebko [posted a selfie](https://www.instagram.com/p/BydFhzEHR1l/?utm_source=ig_web_copy_link) in dark makeup as Aida and followers commented about blackface and racism, she responded with toilet emojis. Super charming.
 
 That preceded her response to the pandemic, which was full of complaining about socially distanced audiences and vague campaigns to ["#brackequarantine" because of a crowded airplane.](/guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane/) That's right: when the opera world was completely decimated by the pandemic, one of the industry's few stars with good earnings and lots of professional influence uses her platform not to model the kind of behaviour that might get us out of the darkness as quickly as possible, but to berate public heath restrictions and spread garbage information to her followers.
 
