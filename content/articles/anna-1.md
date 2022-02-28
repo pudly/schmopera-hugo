@@ -32,6 +32,10 @@ She says she is "opposed to this war", that she has friends in Ukraine "and the 
 
 It's not that her argument isn't valid -- I do think we have a bad habit of expecting fully fleshed-out political opinions from famous people -- but it's still a lot of words to say when those words don't include, "Putin's actions are wrong."
 
+So, look. In my opinion, Anna has been bad for the industry for a long time. It's all well and good to be a a Netrebko: you love to be onstage (read: need to be onstage), you take your art really seriously, you step with ease into the role of the modern-day diva, and you do nothing but exude glamour - reality be damned!
+
+But putting all of that up against the last decade is tough to justify.
+
 Are artists political?
 
 Met severing ties with Putin-friendly artists
