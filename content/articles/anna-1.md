@@ -33,7 +33,7 @@ Gergiev has already been dropped by Carnegie Hall, [Teatro alla Scala](https://m
 
 > For what it's worth, I don't think it's fair to superimpose political expectations upon artists.
 
-Netrebko said to her Instagram followers on Sunday, "forcing artists, or any public figure, to voice their political opinions in public and to denounce their homeland is not right," she wrote on Sunday. "I am not an expert in politics. I am an artist and my purpose is to unite people across political divides."
+"Forcing artists, or any public figure, to voice their political opinions in public and to denounce their homeland is not right," Netrebko wrote on Instagram on Sunday. "I am not an expert in politics. I am an artist and my purpose is to unite people across political divides."
 
 She says she is "opposed to this war", that she has friends in Ukraine "and the pain and suffering right now breaks my heart."
 
