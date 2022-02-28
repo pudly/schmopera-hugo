@@ -24,7 +24,9 @@ In a sly move, general manager Peter Gelb is letting the opera world ponder for 
 
 As for the rest of these artists supporting or supported by Putin, everyone is assuming the Met means conductor Valery Gergiev and soprano Anna Netrebko, both of whom have ties to Putin and haven't been great about condemning the Russian leader's invasion of Ukraine. Gergiev has already been dropped by Carnegie Hall and his own management, and if he doesn't denounce the invasion by today, he'll be fired from his post at the Munich Philharmonic.
 
-Netrebko has endorsed Putin in his election campaign, [suggested](https://www.npr.org/sections/deceptivecadence/2012/02/15/146942131/around-the-classical-internet-february-17-2012) she was attracted to his "strong, male energy", and was photographed with pro-Russian separatist leader Oleg Tsaryov, holding a separatist flag. 
+Netrebko has endorsed Putin in his election campaign, [suggested](https://www.npr.org/sections/deceptivecadence/2012/02/15/146942131/around-the-classical-internet-february-17-2012) she was attracted to his "strong, male energy", and was photographed with pro-Russian separatist leader Oleg Tsaryov, holding a separatist flag. She is set to sing in the [Met's _Turandot_](https://www.metopera.org/season/2021-22-season/turandot/) starting April 30, and I suppose that's when we'll know for sure whether Gelb is prepared to keep one of his few actual stars off the stage in the name of  human decency.
+
+On Instagram, Netrebko 
 
 Are artists political?
 
