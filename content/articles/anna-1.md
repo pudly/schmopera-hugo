@@ -39,7 +39,9 @@ She says she is "opposed to this war", that she has friends in Ukraine "and the 
 
 It's not that her argument isn't valid -- I do think we have a bad habit of expecting fully fleshed-out political opinions from famous people -- but it's still a lot of words to say when those words don't include, "Putin's actions are wrong."
 
-So, look. In my opinion, Anna has been bad for the industry for a long time. It's all well and good to be a a Netrebko: you love to be onstage (read: need to be onstage), you take your art really seriously, you step with ease into the role of the modern-day diva, and you do nothing but exude glamour - reality be damned!
+It's becoming a familiar feeling, this unease I have with Anna. She leans into the stereotypical #divalife, full of jet-setting and famous theatres and designer wardrobes. She takes her work really seriously and considers opera to be a human necessity, a universal right.
+
+Is it me, or does this kind of stuff just not fly these days? 
 
 But putting all of that up against the last decade is tough to justify. For example: When Netrebko [posted a selfie](https://www.instagram.com/p/BydFhzEHR1l/?utm_source=ig_web_copy_link) in dark makeup as Aida and followers commented about blackface and racism, she responded with toilet emojis. Super charming.
 
