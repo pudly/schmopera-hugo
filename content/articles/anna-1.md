@@ -36,7 +36,11 @@ So, look. In my opinion, Anna has been bad for the industry for a long time. It'
 
 But putting all of that up against the last decade is tough to justify. For example: When Netrebko posted a selfie in dark makeup as Aida and followers commented about blackface and racism, she responded with toilet emojis. Super charming. 
 
-During the pandemic alone, Netrebko's priorities have been utterly out of whack: whinging on Instagram about socially distanced audiences and how stupid they are and how we should ["#breakquarantine"](/guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane/), I suppose because she lives for the applause. I say "out of whack" because she's an actually wealthy, actually successful opera star who is able to financially survive the closures _and_ pick up more work since March 2020 than most of her colleagues could ever dream of. She out of all of us would be in the position to appreciate what she has and help circulate the information that will get us out of the darkness as quickly as possible. Nope, bitch about how things aren't like they were.
+That preceded her response to the pandemic, which was full of complaining about socially distanced audiences and vague campaigns to ["#brackequarantine" because of a crowded airplane.](/guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane/) That's right: when the opera world was completely decimated by the pandemic, one of the industry's few stars with good earnings and lots of professional influence uses her platform not to model the kind of behaviour that might get us out of the darkness as quickly as possible, but to berate public heath restrictions and spread garbage information to her followers. 
+
+For what it's worth, I don't think it's fair to superimpose political expectations upon artists. It really isn't what they signed up for, and we shouldn't necessarily put weight in what they have to say on global affairs.
+
+At the same time, 
 
 But I guess it really does come down to the question that Netrebko lobbed onto the field, the one about whether or not we should expect artist to have political opinions, and whether we do anything in response to those opinions. 
 
