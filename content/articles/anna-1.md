@@ -37,15 +37,13 @@ Netrebko said to her Instagram followers on Sunday, "forcing artists, or any pub
 
 She says she is "opposed to this war", that she has friends in Ukraine "and the pain and suffering right now breaks my heart."
 
-It's not that her argument isn't valid -- I do think we have a bad habit of expecting fully fleshed-out political opinions from famous people -- but it's still a lot of words to say when those words don't include, "Putin's actions are wrong."
+It's not that her argument isn't valid -- I do think we have a bad habit of expecting fully fleshed-out political opinions from famous people -- but it's still a lot to say when her words don't say plainly that she denounces Putin's action.
 
-It just doesn't smell right. And this Anna-unease is becoming a familiar sensation.
+I don't know Anna Netrebko; we've never met, I've never interviewed her. She seems like a really strong personality, which makes a lot of sense for a successful opera singer. I get disappointed when she gives off a vibe of backward-thinking, and this current topic isn't the first. 
 
-In 2019 when Netrebko [posted a selfie](https://www.instagram.com/p/BydFhzEHR1l/?utm_source=ig_web_copy_link) as Aida in dark makeup and followers commented about blackface and racism, she responded with toilet emojis. Super charming.
+In 2019 when Netrebko [posted a selfie](https://www.instagram.com/p/BydFhzEHR1l/?utm_source=ig_web_copy_link) as Aida in dark makeup and followers commented about blackface and racism, she responded with toilet emojis. 
 
-Later came her response to the pandemic, which was full of complaining about socially distanced audiences and vague campaigns to ["#brackequarantine" because of a crowded airplane.](/guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane/) 
-
-When the opera world was completely decimated by the pandemic, one of the industry's few stars with good earnings and lots of professional influence uses her platform not to model the kind of behaviour that might get us out of the darkness as quickly as possible, but to berate public heath restrictions and spread unreasonable information to her followers.
+During the pandemic, she complained about socially distanced audiences and urged her followers to ["#brackequarantine" because of a crowded airplane.](/guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane/) This one stung extra, because it was irresponsible advice being given by one of opera's true stars, someone who can not only financially survive all the cancelled shows, but who has worked a ton during the pandemic; that's quite the contrast to literally most of Netrebko's colleagues.
 
 > If the Met and Anna do end up splitting, what do you think? Does the end justify the means?
 
