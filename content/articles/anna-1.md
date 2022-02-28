@@ -28,6 +28,10 @@ Netrebko has endorsed Putin in his election campaign, [suggested](https://www.np
 
 It sure does seem like Netrebko is at risk for losing some major professional relationships, and she's understandably pissed about it. She wrote on Sunday, "Forcing artists, or any public figure, to voice their political opinions in public and to denounce their homeland is not right," she wrote on Sunday. "I am not an expert in politics. I am an artist and my purpose is to unite people across political divides."
 
+She says she is "opposed to this war", that she has friends in Ukraine "and the pain and suffering right now breaks my heart."
+
+It's not that her argument isn't valid -- I do think we have a bad habit of expecting fully fleshed-out political opinions from famous people -- but it's still a lot of words to say when those words don't include, "Putin's actions are wrong."
+
 Are artists political?
 
 Met severing ties with Putin-friendly artists
