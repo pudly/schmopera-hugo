@@ -3,18 +3,17 @@ author = ["authors/jenna.md"]
 categories = "Editorial"
 date = 2022-02-28T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1646072875/media/2022/02/sqAnnaNetrebko_z31li8.jpg"
 primary_image_credit = "Photo by Julian Hargreaves."
-related_articles = []
-related_companies = []
+related_articles = ["articles/crowded-flights.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
 related_people = []
 short_description = "For what it's worth, I don't think it's fair to superimpose political expectations upon artists. It really isn't what they signed up for, and we shouldn't necessarily put weight in what they have to say on global affairs."
-slug = "anna"
-title = "Anna"
+slug = "opera-politics-blurry-lines-being-kind"
+title = "Opera + politics + blurry lines + being kind"
 youtube_url = ""
 
 +++
