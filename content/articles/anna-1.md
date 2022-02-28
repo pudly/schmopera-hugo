@@ -41,11 +41,13 @@ It's not that her argument isn't valid -- I do think we have a bad habit of expe
 
 It just doesn't smell right. And this Anna-unease is becoming a familiar sensation.
 
-When Netrebko [posted a selfie](https://www.instagram.com/p/BydFhzEHR1l/?utm_source=ig_web_copy_link) in dark makeup as Aida and followers commented about blackface and racism, she responded with toilet emojis. Super charming.
+In 2019 when Netrebko [posted a selfie](https://www.instagram.com/p/BydFhzEHR1l/?utm_source=ig_web_copy_link) as Aida in dark makeup and followers commented about blackface and racism, she responded with toilet emojis. Super charming.
 
-That preceded her response to the pandemic, which was full of complaining about socially distanced audiences and vague campaigns to ["#brackequarantine" because of a crowded airplane.](/guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane/) That's right: when the opera world was completely decimated by the pandemic, one of the industry's few stars with good earnings and lots of professional influence uses her platform not to model the kind of behaviour that might get us out of the darkness as quickly as possible, but to berate public heath restrictions and spread garbage information to her followers.
+Later came her response to the pandemic, which was full of complaining about socially distanced audiences and vague campaigns to ["#brackequarantine" because of a crowded airplane.](/guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane/) 
 
-> f the Met and Anna do end up splitting, what do you think? Does the end justify the means?
+When the opera world was completely decimated by the pandemic, one of the industry's few stars with good earnings and lots of professional influence uses her platform not to model the kind of behaviour that might get us out of the darkness as quickly as possible, but to berate public heath restrictions and spread unreasonable information to her followers.
+
+> If the Met and Anna do end up splitting, what do you think? Does the end justify the means?
 
 For what it's worth, I don't think it's fair to superimpose political expectations upon artists. It really isn't what they signed up for, and we shouldn't necessarily put weight in what they have to say on global affairs.
 
