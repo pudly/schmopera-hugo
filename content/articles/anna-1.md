@@ -49,9 +49,9 @@ When the opera world was completely decimated by the pandemic, one of the indust
 
 > If the Met and Anna do end up splitting, what do you think? Does the end justify the means?
 
-For what it's worth, I don't think it's fair to superimpose political expectations upon artists. It really isn't what they signed up for, and we shouldn't necessarily put weight in what they have to say on global affairs.
+For what it's worth, I don't think it's fair to superimpose political expectations upon artists. It really isn't what they signed up for, and we shouldn't necessarily put weight in what they have to say about global affairs.
 
-At the same time, if you wear blackface in 2019, you've got to be quite stubborn indeed not to apologize for it. And if you insist that going to the opera shouldn't be interrupted by a pandemic, I think that you show a really low level of humility.
+At the same time, if you wear blackface in 2019, you've got to be quite stubborn indeed not to apologize for it. And if you're an opera singer who insists that opera-singing shouldn't be interrupted by a pandemic, I think that you show a really low level of humility.
 
 And: If you're giving off a pro-Putin vibe to the point where the Met is willing to professionally break up with you, how hard is it to condemn his invasion of Ukraine?
 
