@@ -25,11 +25,13 @@ General manager Peter Gelb is letting the opera world ponder for itself exactly 
 
 As for the rest of these artists supporting or supported by Putin, everyone is assuming the Met means conductor Valery Gergiev and soprano Anna Netrebko, both of whom have ties to Putin and haven't been great about condemning the Russian leader's invasion of Ukraine. 
 
+Netrebko has endorsed Putin in his election campaign, suggested she was attracted to his "strong, male energy", and was photographed with pro-Russian separatist leader Oleg Tsaryov, holding a separatist flag. 
+
 Gergiev has already been dropped by Carnegie Hall, [Teatro alla Scala](https://milano.repubblica.it/cronaca/2022/02/28/news/scala_milano_beppe_sala_gergiev_direttore_amico_di_putin_non_dirigera_la_dama_di_picche-339660325/#:\~:text=Giallo%20Netrebko%3A%20non%20sar%C3%A0%20in,motivi%20di%20salute%22%20%2D%20la%20Repubblica), and his own management, and if he doesn't denounce the invasion by today, he'll be fired from his post at the Munich Philharmonic.
 
-> For what it's worth, I don't think it's fair to superimpose political expectations upon artists.
+Netrebko is set to sing in the [Met's _Turandot_](https://www.metopera.org/season/2021-22-season/turandot/) starting April 30, and I suppose that's when we'll know for sure whether Gelb is serious about keeping one of his major stars off the stage.
 
-Netrebko has endorsed Putin in his election campaign, [suggested](https://www.npr.org/sections/deceptivecadence/2012/02/15/146942131/around-the-classical-internet-february-17-2012) she was attracted to his "strong, male energy", and was photographed with pro-Russian separatist leader Oleg Tsaryov, holding a separatist flag. She is set to sing in the [Met's _Turandot_](https://www.metopera.org/season/2021-22-season/turandot/) starting April 30, and I suppose that's when we'll know for sure whether Gelb is serious about keeping one of his major stars off the stage.
+> For what it's worth, I don't think it's fair to superimpose political expectations upon artists.
 
 It sure does seem like Netrebko is at risk for losing some major professional relationships, and she's understandably pissed about it. She wrote on Sunday, "Forcing artists, or any public figure, to voice their political opinions in public and to denounce their homeland is not right," she wrote on Sunday. "I am not an expert in politics. I am an artist and my purpose is to unite people across political divides."
 
