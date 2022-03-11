@@ -10,7 +10,7 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1647016879/media/2022/03/sqNighttown_DAN08131_iekuhk.jpg"
 primary_image_credit = "Nighttown, Lowell House Opera, 2022. Photo by Daniel Huang."
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/lowell-house-opera.md"]
 related_people = []
 short_description = "All I can say, is that I think this opera has an immense future in the opera house, and I cannot wait to see the life it is no doubt going to take."
 slug = "surreal-devastating-journeys-through-nighttown"
@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 As an opera critic, one of my favorite things to experience live is opera written within the last ten years or so: it is always interesting to see new opera make its way in the world, and even more so to see what composers are making up. Invariably, there are works that run the gamut of "serviceable but could use some tweaks" to "this is a great opera", but rarely do I ever get the sense that there is a work that is an instant classic of the repertory. I do not exaggerate when I say this, nor do I choose my words lightly: there is a new operatic classic in town, and it is young composer Benjamin Perry Wenzelberg's _Nighttown_.
 
-_Nighttown_ is billed by premiering company Lowell House Opera as a reimagining of James Joyce’s _Ulysses_: it takes Molly Bloom's 36-page soliloquy from the end of the novel and bases its run time on that, and on extracts from Chapter 15 earlier in the book: it uses both to explore themes of lust, death, extramarital affairs, and what home actually feels like. One might ask oneself how on Earth one goes about adapting the work of a writer whose prose is as dense and frequently impenetrable as James Joyce's can be; fortunately, Wenzelberg found a way, and it is a direction that works to _Nighttown_'s advantage.
+_Nighttown_ is billed by premiering company [Lowell House Opera](/scene/companies/lowell-house-opera/) as a reimagining of James Joyce’s _Ulysses_: it takes Molly Bloom's 36-page soliloquy from the end of the novel and bases its run time on that, and on extracts from Chapter 15 earlier in the book: it uses both to explore themes of lust, death, extramarital affairs, and what home actually feels like. One might ask oneself how on Earth one goes about adapting the work of a writer whose prose is as dense and frequently impenetrable as James Joyce's can be; fortunately, Wenzelberg found a way, and it is a direction that works to _Nighttown_'s advantage.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647017053/media/2022/03/Nighttown_DAN07375_nfg5qs.jpg){{% /md %}}
 
