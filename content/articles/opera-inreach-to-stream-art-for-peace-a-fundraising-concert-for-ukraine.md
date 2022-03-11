@@ -12,7 +12,7 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "\"Exploring themes of resilience, hope, and justice, Art for Peace aims to raise funds for Ukrainian individuals in need while also demanding peace in Ukraine,\" Opera InReach says of Art For Peace. The concert is also supported by the Ukrainian Art Song Project, Tapestry Opera, Against the Grain Theatre, and individual international artists."
 slug = "opera-inreach-to-stream-art-for-peace-a-fundraising-concert-for-ukraine"
 title = "Opera InReach to stream Art For Peace: A Fundraising Concert for Ukraine"
 youtube_url = ""
@@ -26,9 +26,9 @@ The concert will be streamed [at this link](https://www.operainreach.com/artforp
 
 "Exploring themes of resilience, hope, and justice, Art for Peace aims to raise funds for Ukrainian individuals in need while also demanding peace in Ukraine," Opera InReach says of _Art For Peace_. The concert is also supported by the Ukrainian Art Song Project, [Tapestry Opera](/scene/companies/tapestry-opera/), [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/), and individual international artists.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647013941/media/2022/03/OperaInReachAdministrationTeam_DaevydPepperAndrewAdridgeDanielaAgostino-DanielDenino_cka8q6.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Opera InReach administrative team (l-r): Daevyd Pepper, Andrew Adridge, and Daniela Agostino. Photo: Daniel Denino.</figcaption>  
 </figure
 
 If you're quick about it, Opera InReach's call for performer content is open until midnight; you can [submit right here](https://www.operainreach.com/artforpeace).
