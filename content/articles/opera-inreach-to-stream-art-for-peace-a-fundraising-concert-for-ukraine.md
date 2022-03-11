@@ -28,6 +28,6 @@ The concert will be streamed [at this link](https://www.operainreach.com/artforp
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647013941/media/2022/03/OperaInReachAdministrationTeam_DaevydPepperAndrewAdridgeDanielaAgostino-DanielDenino_cka8q6.jpg){{% /md %}}
 
 <figcaption>Opera InReach administrative team (l-r): Daevyd Pepper, Andrew Adridge, and Daniela Agostino. Photo: Daniel Denino.</figcaption>  
-</figure
+</figure>
 
 If you're quick about it, Opera InReach's call for performer content is open until midnight; you can [submit right here](https://www.operainreach.com/artforpeace).
