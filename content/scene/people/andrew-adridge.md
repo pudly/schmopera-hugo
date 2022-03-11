@@ -1,7 +1,6 @@
 +++
 discipline = "Baritone"
-draft = true
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1647014450/media/2022/03/AndrewAdridge_npfejs.jpg"
 primary_image_credit = ""
 related_companies = ["scene/companies/tapestry-opera.md", "scene/companies/the-banff-centre.md", "scene/companies/soundstreams.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/opera-inreach.md"]
 slug = "andrew-adridge"
