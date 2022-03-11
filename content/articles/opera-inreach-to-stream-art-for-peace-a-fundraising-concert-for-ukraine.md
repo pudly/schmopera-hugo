@@ -18,6 +18,8 @@ title = "Opera InReach to stream Art For Peace: A Fundraising Concert for Ukrain
 youtube_url = ""
 
 +++
+Over 40 artists
+
 _Art For Peace_ - streamed March 15, 6:30pm EST
 
 [https://www.operainreach.com/artforpeace](https://www.operainreach.com/artforpeace "https://www.operainreach.com/artforpeace")
