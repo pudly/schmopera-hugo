@@ -4,22 +4,18 @@ discipline = "Tenor"
 lastmod = "2017-06-14T07:40:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496367741159/2017-05-29---Scott-Headshot.jpg.jpg"
 publishDate = "2017-06-01T19:43:00-06:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/vlaamse-opera.md"]
+related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/vlaamse-opera.md"]
 slug = "michael-j-scott"
 title = "Michael J. Scott"
-website = "http://www.michaeljscott.nl/"
+website = "http://www.michaeljscott.com/"
 [[social_media]]
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MJScott_Tenor"
+
 +++
+Michael J. Scott’s current and future engagements include CASCA Battistelli’s _Julius Caesar_ (world premiere) **Teatro dell-Opera di Roma**, HOST OF THE BALL/ VESTOVOJ/IVANOV _War and Peace_ **Grand Théâtre de Genève** and PONTIO PILATO _Das Liebesverbot_ **Opera Zuid.**
 
-Michael J. Scott’s current and future engagements include POLICEMAN/OLD MAN/STUDENT *The Nose* Royal Opera House, Covent Garden, TITORELLI/FLOGGER/STUDENT Glass’ *The Trial* Theater Magdeburg and on tour to Opera Romana Craiova, as well as MONOSTATOS *Die Zauberflöte*, FATTY *Aufstieg und Fall der Stadt Mahagonny*, SOPEL Rimsky-Korsakov’s *Sadko* and SYPHAX *Der König Kandaules* Vlaamse Opera.
+Most recent work includes AHAB _Elias_ **Theater an der Wien**, SPOLETTA _Tosca_ **Nationale Reisopera**, and SLIMBROEK _Der Schmied von Gent,_ MARQUIS _The Gambler,_ MALCOLM _Macbeth,_ KOMMISSAR CLEMENS _Les Bienveillantes_ (world premiere) **Opera Vlaanderen,** LOGE _Der Ring des Nibelungen_ **Theater an der Wien,** LIPPO FIORENTINO _Street Scene_ **Teatro Real, Madrid,** POLICEMAN/OLD MAN/STUDENT _The Nose_ **Royal Opera House, Covent Garden,** FATTY _Aufstieg und Fall der Stadt Mahagonny_, MONOSTATOS _Die Zauberflöte_, SOPEL Rimsky-Korsakov’s _Sadko_, SYPHAX _Der König Kandaules,_ SCRIBE _Khovanshchina,_ SHABBY PEASANT _Lady Macbeth of Mtsenk_, ERSTER GEHARNISCHTER _Die Zauberflöte_, ABDALLO _Nabucco_, KNAPPE _Parsifal,_ HAUSHOFMEISTER _Der Rosenkavalier_ and roles in _Candide_ **Opera Vlaanderen, Antwerp**, , TITORELLI/FLOGGER/STUDENT Glass’ _The Trial_ **Theater** **Magdeburg**, as well as KNAPPE _Parsifal_ and HAUSHOFMEISTER _Der Rosenkavalier_ **Les Théâtres de la Ville de Luxembourg**_._ Other international engagements include ERSTER JUDE _Salome_ **Teatro Comunale di Bolzano**, **Teatro Comunale di Modena** and **Teatro Municipale di Piacenza**, RODOLFO _La Bohème_ **Nationale Reisopera Resident Artists Programme** and DON JOSÈ _Carmen_ **Co-Opera Co, London**.
 
-Most recent work includes SCRIBE *Khovanshchina*, TATTERED PEASANT *Lady Macbeth of Mtsenk*, ERSTER GEHARNISCHTER *Die Zauberflöte*, ABDALLO *Nabucco*, KNAPPE *Parsifal*, HAUSHOFMEISTER *Der Rosenkavalier* and roles in Candide Vlaamse Opera Antwerp, as well as KNAPPE *Parsifal* and HAUSHOFMEISTER *Der Rosenkavalier* Les Théâtres de la Ville de Luxembourg.
-
-Other recent engagements include ERSTER JUDE (cover NARRABOTH) *Salome* Teatro Comunale di Bolzano, Teatro Comunale di Modena and Teatro Municipale di Piacenza, RODOLFO *La Bohème* Nationale Reisopera Resident Artists Programme and DON JOSÈ *Carmen* Co-Opera Co’s production in London, continuing through the UK.
-
-Michael has a Bachelor of Music degree from the Manhattan School of Music and a Masters from the Royal College of Music. He made his debut in 2005 as DON CURZIO *Le Nozze di Figaro* New Jersey Opera Theater. He was a Resident Artist with Dicapo Opera Theatre in New York singing PARPIGNOL *La Bohème* and ELDER GLEATON *Susannah*. Other roles include MALE CHORUS *The Rape of Lucretia* with the MSM Accompanying Seminar, RODOLFO *La Bohème* Co-Operative Opera Company in London, the TENOR ROLES *Lost Childhood* IVAI-Tel Aviv, PASEK *The Cunning Little Vixen*, ERSTER GEHARNISCHTER *Die Zauberflöte*, and JENIK *The Bartered Bride* RCMIOS.
-
-On the concert platform he has sung Beethoven’s Ninth Symphony with the Bryn Athyn Symphony and the Cambridge Sinfonia and has given recitals in New York, Florence and London. Besides singing, Michael was a member of the first-ever Royal College of Music team that competed on BBC’s University Challenge.
+Michael has a Bachelor of Music degree from the **Manhattan School of Music** and a Masters from the **Royal College of Music**. He made his debut in 2005 as DON CURZIO _Le Nozze di Figaro_ **New Jersey Opera Theater**. Other roles include MALE CHORUS _The Rape of Lucretia_ with the MSM Accompanying Seminar, RODOLFO _La Bohème_ **Co-Operative Opera Company** in London, the TENOR ROLES _Lost Childhood_ **IVAI-Tel Aviv**, PASEK _The Cunning Little Vixen_, ERSTER GEHARNISCHTER _Die Zauberflöte_, and JENIK _The Bartered Bride_ **RCMIOS**.
