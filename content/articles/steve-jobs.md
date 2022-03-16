@@ -10,7 +10,7 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1647391858/media/2022/03/sqSteve_is_inspired_by_simplicity_bchuu5.jpg"
 primary_image_credit = "John Moore as Steve Jobs in The (R)evolution of Steve Jobs, Lyric Opera of Kansas City, 2022. Photo: Don Ipock for Lyric Opera of Kansas City."
 related_articles = []
-related_companies = ["scene/companies/lyric-opera-of-kansas-city.md"]
+related_companies = ["scene/companies/the-santa-fe-opera.md", "scene/companies/lyric-opera-of-kansas-city.md"]
 related_people = []
 short_description = "short"
 slug = "steve-jobs"
@@ -45,7 +45,7 @@ Mezzo soprano (*) [Sarah Larsen](/scene/people/sarah-larsen/) played Jobs' wife 
 
 <figcaption>John Moore as Steve Jobs in The (R)evolution of Steve Jobs, Lyric Opera of Kansas City, 2022. Photo: Don Ipock for Lyric Opera of Kansas City.</figcaption></figure>
 
-This production may have been postponed a year due to the pandemic, but that has not slowed the Lyric Opera down! The season closer is Tosca in early May, tickets can be purchased here: https://web.archive.org/web/20210629085739/https://kcopera.org/tickets/.
+This production may have been postponed a year due to the pandemic, but that has not slowed the Lyric Opera down! The season closer is [_Tosca_](https://kcopera.org/performances/tosca/) in early May — find the details at [LOKC's website](https://kcopera.org/performances/tosca/).
 
 <figure data-type="video">{{% md %}}<iframe width="1164" height="655" src="https://www.youtube.com/embed/mPlAmazgDwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
