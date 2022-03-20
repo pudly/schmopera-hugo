@@ -6,10 +6,10 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
-preamble = ""
+preamble = "Tenor [Pene Pati](/scene/people/pene-pati/) makes his San Diego Opera debut on March 26 in Charles Gounod’s Romeo et Juliette. Soprano Nicole Cabell will be Juliette. Matthew Ozawa is also making his San Diego Opera debut as the director. Yves Abel is the principal conductor. There will be additional performances on March 29, April 1, and April 3."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1647735387/media/2022/03/Pene_Pati_cok7el.jpg"
 primary_image_credit = "Tenor Pene Pati. Photo: Mark Leedom."
-related_articles = []
+related_articles = ["articles/talking-with-singers-eleazar-rodriguez.md", "articles/talking-with-singers-christian-van-horn.md"]
 related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/san-diego-opera.md"]
 related_people = []
 short_description = "\"I like having the feeling that I can bring a poster home from the Wiener Staatsoper or from the Met or from the San Francisco Opera and it has his name on it rather than mine. I feel like it's a good tribute to the man who’s raised me. I also sing for my island of Samoa and I sing for the Pacific people who don't really have this opportunity.\""
@@ -18,17 +18,15 @@ title = "Talking with singers: Pene Pati"
 youtube_url = ""
 
 +++
-Tenor [Pene Pati](/scene/people/pene-pati/) makes his San Diego Opera debut on March 26 in Charles Gounod’s Romeo et Juliette. Soprano Nicole Cabell will be Juliette. Matthew Ozawa is also making his San Diego Opera debut as the director. Yves Abel is the principal conductor. There will be additional performances on March 29, April 1, and April 3.
-
 ## On the San Diego Opera production of _Roméo et Juliette_
 
 "The other productions I've done of _Roméo et Juliette_ have been very classical. This one is quite unique. It's mixing in the old school idea of restrictions of lovers versus the new school idea of things being more free these days. However, the idea is still the same. Though society has changed, the idea of this love has really not changed since it was written. I'm really excited about this production. The color palette is fantastic, and it looks like it will appeal to everybody.
 
 "This is my first time in San Diego, my first time working with Matthew and my first time with Nicole, though I've admired Nicole for a long time from a distance. She has an incredible sound and an incredible voice. I'm very much looking forward to working with her."
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647735613/media/2022/03/SDO_PenePati_rehearsal_ifplob.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Pene Pati in rehearsal for Roméo et Juliette with San Diego Opera, 2022. Photo courtesy of San Diego Opera.</figcaption>  
 </figure>
 
 ## On singing in French
@@ -49,9 +47,9 @@ Tenor [Pene Pati](/scene/people/pene-pati/) makes his San Diego Opera debut on M
 
 "I sing for my dad and for my mom. I like having the feeling that I can bring a poster home from the Wiener Staatsoper or from the Met or from the San Francisco Opera and it has his name on it rather than mine. I feel like it's a good tribute to the man who’s raised me. I also sing for my island of Samoa and I sing for the Pacific people who don't really have this opportunity."
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647735766/media/2022/03/PenePati_SimonFowlerParlophone_a4vok1.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Tenor Pene Pati. Photo: Simon Fowler and Parlophone Records Ltd.</figcaption>  
 </figure>
 
 ## On how he started singing and opera in Samoa
@@ -59,6 +57,8 @@ Tenor [Pene Pati](/scene/people/pene-pati/) makes his San Diego Opera debut on M
 "Throughout the South Pacific, opera is nonexistent. However culturally, nothing is written down. Everything is sung to the next generation. You sing a legend and you sing a myth. You have this culture of singing, yet there's no opera. I got into classical music in New Zealand - and I actually was tricked into it because I was playing rugby at the time and they said you can get classes off if you join the school choir. I loved the school choir because I had been singing my entire life. 
 
 "As my love for music grew, I realized that Pacific people, the Polynesian cultures, are living an operatic life and they don't even know about it. When they explain what happened on Independence Day in 1952 in Samoa, they sing it to you. They don't say what happened, they actually have a song they sing to you, you learn it, and then you move on. The Pacific Islands have grown incredibly in the last ten years and people will understand that opera really is a part of their life. It's not just an art form anymore. They're going to see it as the way they’ve lived their entire life.
+
+> "I feel like _Pagliacci_ is the perfect opera for anybody who wants to get into opera."
 
 "I was introduced to opera because I was involved in choral music. I loved it. I was in community choirs and in the New Zealand National Choir. Someone convinced me to do classical singing at university. I thought who would do a degree in singing It would be so weird. I was doing science at the time. But I gave it a go. At the music class and I was the only Pacific Islander. I thought I was completely out of my league. I didn’t know any classical songs, nor any composers, not even Puccini nor Verdi. 
 
@@ -70,6 +70,8 @@ Tenor [Pene Pati](/scene/people/pene-pati/) makes his San Diego Opera debut on M
 
 "I feel also like people have appreciated the time off because we're always constantly moving from show to show, never taking time off to shield the voice. When they got back into singing, a lot of singers were anxious because they hadn’t sung in a while but at the same time, their voices were actually quite thankful for the rest.
 
+> "If I could go back in time, I would love to have heard in person Beniamino Gigli."
+
 ## On artists and politics
 
 "No one ever condones war or violence but it's such a slippery slope when we start adding politics to opera because art is very subjective and very personal. It still is something that only one person experiences and if they have a chance to share out, then OK. Even parts of _Roméo et Juliette_ are very political. To add politics on top of it makes it a very heavy load.  It really is a shame that we that we don't see art for itself and let art flourish on its own and let talent be itself. 
@@ -78,16 +80,16 @@ Tenor [Pene Pati](/scene/people/pene-pati/) makes his San Diego Opera debut on M
 
 "I both support the Metropolitan Opera and at the same time, I feel it's unfair to the artists.  I just hope that one day we can just do arts and let art be that.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647735859/media/2022/03/PenePati_SimonFowlerParlophone_2_alpqbh.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Tenor Pene Pati. Photo: Simon Fowler and Parlophone Records Ltd.</figcaption>  
 </figure>
 
 ## On his wildest operatic daydreams
 
-"If I could go back in time, I would love to have heard in person Beniamino Gigli - something about his voice that I was very curious about. He was bridging the Italianate proper sound.  He was the first version and Pavarotti was the next, more refined, version after Beniamino. I would have loved to hear Corelli live. Also, Nikolai Gedda. 
+"If I could go back in time, I would love to have heard in person Beniamino Gigli - something about his voice that I was very curious about. He was bridging the Italianate proper sound.  He was the first version and Pavarotti was the next, more refined, version after Beniamino.
 
-"Corelli had a unique technique that has never been replicated. But of course you don’t want to replicate someone’s technique or sound. It was so unique and so big. It was nuanced. I would have loved to hear that live to see how he actually sounded. Gedda was an incredible artist and he spoke all the languages. He just knew it inside out. I would have loved to have heard him in his prime. 
+"I would have loved to hear Corelli live. Corelli had a unique technique that has never been replicated. But of course you don’t want to replicate someone’s technique or sound. It was so unique and so big. It was nuanced. I would have loved to hear that live to see how he actually sounded.
 
 "Also, Monserrat Caballe.  If I could have heard Monserrat Caballe in her prime, I think I would have died. I think she was such a polished singer. No one in the modern day can even get to some of her singing. It's so beautiful.
 
