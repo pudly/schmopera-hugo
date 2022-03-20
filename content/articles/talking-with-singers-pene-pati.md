@@ -26,6 +26,11 @@ Tenor [Pene Pati](/scene/people/pene-pati/) makes his San Diego Opera debut on M
 
 "This is my first time in San Diego, my first time working with Matthew and my first time with Nicole, though I've admired Nicole for a long time from a distance. She has an incredible sound and an incredible voice. I'm very much looking forward to working with her."
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
 ## On singing in French
 
 "In the beginning, a lot of singers find French the most difficult to sing due to its nuances and closed and open vowels and nasal. But as you become more well-versed with the French language, you understand why the music was written in this way, because that's how they sing and how they approach their musicality. I find singing in French very natural. 
@@ -43,6 +48,11 @@ Tenor [Pene Pati](/scene/people/pene-pati/) makes his San Diego Opera debut on M
 "Now that I've got the means, and got the education for it, and the drive, I changed my name to Pene Pati on stage when my actual name, on my birth certificate, is Darren. I've been called Pene my entire life, Pene Junior to my father who is Pene Senior. I removed Junior and just use Pene Pati. This is because I would want everybody to see that my dad eventually made it out and sang around the world, through me.
 
 "I sing for my dad and for my mom. I like having the feeling that I can bring a poster home from the Wiener Staatsoper or from the Met or from the San Francisco Opera and it has his name on it rather than mine. I feel like it's a good tribute to the man who’s raised me. I also sing for my island of Samoa and I sing for the Pacific people who don't really have this opportunity."
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
 
 ## On how he started singing and opera in Samoa
 
@@ -68,6 +78,11 @@ Tenor [Pene Pati](/scene/people/pene-pati/) makes his San Diego Opera debut on M
 
 "I both support the Metropolitan Opera and at the same time, I feel it's unfair to the artists.  I just hope that one day we can just do arts and let art be that.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
 ## On his wildest operatic daydreams
 
 "If I could go back in time, I would love to have heard in person Beniamino Gigli - something about his voice that I was very curious about. He was bridging the Italianate proper sound.  He was the first version and Pavarotti was the next, more refined, version after Beniamino. I would have loved to hear Corelli live. Also, Nikolai Gedda. 
@@ -80,4 +95,4 @@ Tenor [Pene Pati](/scene/people/pene-pati/) makes his San Diego Opera debut on M
 
 "As I was studying, there was Diana Damrau, and now I’ve come to sing with her. We sang _Anna Bolena_ together at the Wiener Staatsoper. That was such a special feeling for me. I used to watch her on my phone as a student. To be singing on stage as her love interest blows my mind.
 
-"I would love to sing _Pagliacci_. It’s a dream role. Because it's only an hour long, I feel like _Pagliacci_ is the perfect opera for anybody who wants to get into opera. It's not long, it has everything. It has tragedy, it has love, and it has passion. It's everything you need in an opera, condensed into one heavy dose. Pagliacci himself goes through an incredible journey of being in love in the beginning, having fun as a clown, and then slowly he becomes heartbroken and the jealousy comes out. There are so many colors as an actor and as a singer that you can portray in this. The tenor is always the love interest and is sometimes boring. To be able to portray something like _Pagliacci_ would be an absolute dream."
+"I would love to sing _Pagliacci_. It’s a dream role. Because it's only an hour long, I feel like _Pagliacci_ is the perfect opera for anybody who wants to get into opera. It's not long, it has everything. It has tragedy, it has love, and it has passion. It's everything you need in an opera, condensed into one heavy dose."
