@@ -7,10 +7,10 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1647735387/media/2022/03/Pene_Pati_cok7el.jpg"
+primary_image_credit = "Tenor Pene Pati. Photo: Mark Leedom."
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/san-diego-opera.md"]
 related_people = []
 short_description = "\"I like having the feeling that I can bring a poster home from the Wiener Staatsoper or from the Met or from the San Francisco Opera and it has his name on it rather than mine. I feel like it's a good tribute to the man who’s raised me. I also sing for my island of Samoa and I sing for the Pacific people who don't really have this opportunity.\""
 slug = "talking-with-singers-pene-pati"
@@ -18,7 +18,7 @@ title = "Talking with singers: Pene Pati"
 youtube_url = ""
 
 +++
-Tenor Pene Pati makes his San Diego Opera debut on March 26 in Charles Gounod’s Romeo et Juliette. Soprano Nicole Cabell will be Juliette. Matthew Ozawa is also making his San Diego Opera debut as the director. Yves Abel is the principal conductor. There will be additional performances on March 29, April 1, and April 3.
+Tenor [Pene Pati](/scene/people/pene-pati/) makes his San Diego Opera debut on March 26 in Charles Gounod’s Romeo et Juliette. Soprano Nicole Cabell will be Juliette. Matthew Ozawa is also making his San Diego Opera debut as the director. Yves Abel is the principal conductor. There will be additional performances on March 29, April 1, and April 3.
 
 ## On the San Diego Opera production of _Roméo et Juliette_
 
