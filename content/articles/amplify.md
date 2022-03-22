@@ -1,0 +1,37 @@
++++
+author = ["authors/greg.md"]
+categories = "Review"
+date = 2022-03-21T04:00:00Z
+disclaimer = ""
+draft = true
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = ""
+primary_image_credit = ""
+related_articles = []
+related_companies = ["scene/companies/amplified-opera.md"]
+related_people = ["scene/people/marion-newman.md", "scene/people/aria-umezawa.md", "scene/people/teiya-kasahara.md"]
+short_description = "short"
+slug = "amplify"
+title = "Amplify"
+youtube_url = ""
+
++++
+Hello Schmop-Tops!
+
+Did ya miss me? I missed you. 
+
+It's been quite the long-haul here in the GTA but it's great to be back on the beat. After two years out of the habit, it was great to find myself at the Museum of Contemporary Art to check out Amplified Opera's first offering in their concert series - also after several delays - AMPLIFY 1.0. 
+
+The newest company-in-residence with the Canadian Opera Company, Amplified Opera, co-founded by Aria Umezawa, Teiya Kasahara, Asitha Tennekoon, and Marion Newman, has partnered with MOCA to present this series surrounded by the immersive exhibit I AM YOUR RELATIVE by Jeffrey Gibson. A vivid, explosion of colours, texts, and images all collected from his past decade of work prioritizing the voices of Indigenous, Black, Brown, and queer voices. The piece is intended to be used by MOCA to host a variety of interdisciplinary presentations.
+
+The scene was a clever juxtaposition for this concert series which was featuring artists whose voices Gibson's work has been, well, amplifying. AMPLIFY 1.0 featured three concerts performed in repertory and paired differently each night. 
+
+The first in the series for me was MisogyME. A piece examining a man's role and experiences with Toxic Masculinity. Performed by baritone Jonthan Christopher, pianist Topher Mokrzewski, and director Michael Mohammed, the programme was an interesting mix of Musical Theatre, Opera, and Performance Art. Featuring pieces from Nozze di Figaro to Hamilton and almost everything in between, the pieces were well-sung overall by Christopher, but it was clear that he felt more at home in the musical theatre genre. During Coalhouse's Soliloquy one could hear the influence of late 90s/early 00s broadway baritenors like Brian Stoke Mitchell and Norbert Leo Butz. Mokrzewski managed the shifts between the varied genres with incredible skill. The throughline of the piece did get a little disjointed as Mohammed led some of the curations. The points of interjection that consisted mainly of a single quote were more effective, but the longer and more informative they became the more it drew from the flow of the show. The show also featured a short panel conversation between the three of them. I felt this also disrupted the flow because it also featured a moment for the audience to break into small groups and ask each other questions prompted by a quote by Caitlin Moran. While this is great for a seminar, lecture situation, it felt a bit out of place, especially considering it took place two-thirds of the way through the programme and not at the end. I also found the narrative of the show focused more on men and toxic masculinity - which is a very important discussion to have - and less about actual misogyny, as the title seemed to imply. There were examples of Mozart Men who are known to audiences as problematic, but I felt that the examples chosen - while they worked well together musically - maybe didn't further the thesis the way they wanted it to. Another example was using Sweeney Todd's Epiphany to talk about toxic masculinity/misogyny when Judge Turpin's Johanna/Mea Culpa was right there. Overall the show was effective and brought up many important questions that we don't quite have the answers to yet, but need to continue to be discussed in order to get there. 
+
+Second up was WRECKONCILIATION featuring Cree-Metis Baritone Jonathon Adams and Kwagiulth and Sto:lo, First Nations Mezzo Marion Newman-Nege'ga alongside Violinist Kathleen Kajiokav, Cellist Keiran Campbell, and Harpsichordist Chirstopher Bagan performing the works of Henry Purcell alongside a piece composed by Newman-Nege'ga. The idea behind this show was that while the time Purcell was composing this music, the Beaver Wars were taking place on this side of the Atlantic. These pieces were chosen because of their historical chronology, but also because Purcell was known to write about Nature and the environment around him. Occupying this music as indigenous/First Nations artists, Adams and Nege'ga sang them using texts reimagined through an indigenous lens by writer Yvette Nolan. Adams sang with an elegant, delicate line and with exquisite ornamentation. Newman-Nege'ga sang with her characteristic richness while bringing out a brilliance over the top of her register. Interspersed among the Purcell were vignettes guiding us through the journey that brought us to where we are today and must we do to reach reconciliation before we wreck everything completely. The penultimate piece was KINANU but Newman-Nege'ga and sung in iher native tongue while accompanying herself on her drum. The chants echoed off the walls of the museum while being echoed in the images of Gibson's work itself. 
+
+Rounding out the programmes was SPOTLIGHT: Out on a Limb featuring Soprano Megan Miceli, Pianist/Trumpeter Jennifer Pols, and directed by Bridget Ramzy. Now this was quite the unique programme. SPOTLIGHT was a discussion centered around disability and the differently-abled. Both performers, Miceli and Pols, are missing one of their hands. Miceli opened with some powerful Handel that rang out high above the unfortunately distracting daily business of MOCA itself. I found Miceli to be warm and inviting. Her anecdotes were charming, funny, sincere and at times self-effacing which made her all the more endearing. Pols followed up with some Mozart that had been rearranged to accommodate her missing left-hand. In an incredibly informative interlude, Pols actually walked the audience through how she makes these musical accomodations without sacrificing the pursuit of excellence. A high point for me was when the two paired up for some Debussy. LA PLUS QUE LENTE was rearranged by Pols to include Miceli, in a soaring, virtuosic, vocalise that was at times pure Debussy magic and at times dancing with sounds more reminiscent of a Gershwin - a nice homage Pols background in Jazz from Humber College. Another great piece was HIGH THE VEILS WAVE by Lieke van der Voort commissioned specifically for Jennifer with her disability in mind. It employed incredible soundscapes alongside vocalisations from the pianist. It was ethereal, other-worldly, and conjured images of fog and fae. 
+
+All in all it was a great couple of evenings out, however, if heading to an event at MOCA I would suggest attending one during the evening as opposed to a matinee. While it's great to see a venue like MOCA busy, it was quite distracting to be watching a show with a busy cafe and gift shop ringing up customers in the same room.
