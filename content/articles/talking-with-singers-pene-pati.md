@@ -1,7 +1,7 @@
 +++
 author = ["authors/eva-cahen.md"]
 categories = "Interview"
-date = 2022-03-18T04:00:00Z
+date = 2022-03-21T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "San Diego Opera's production of [_Roméo et Juliette_](https://www.sdopera.org/season/2021-2022-season/romeo-et-juliette) runs through April 3. "
