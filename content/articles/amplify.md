@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/amplified-opera.md"]
 related_people = ["scene/people/marion-newman.md", "scene/people/aria-umezawa.md", "scene/people/teiya-kasahara.md"]
 short_description = "short"
-slug = "amplify"
-title = "Amplify 1.0"
+slug = "review-re-telling-stories-with-amplify-1-0"
+title = "Review: Re-telling stories with Amplify 1.0"
 youtube_url = ""
 
 +++
@@ -28,7 +28,7 @@ The newest company-in-residence with the [Canadian Opera Company](/scene/compani
 
 The scene was a clever juxtaposition for this concert series, which featured artists whose voices Gibson's work has been, well, amplifying. _AMPLIFY 1.0_ was three concerts performed in repertory and paired differently each night:
 
-The first in the series for me was _MisogyME_, a piece examining a man's role and experiences with Toxic Masculinity. Performed by baritone Jonthan Christopher, pianist Topher Mokrzewski, and director Michael Mohammed, the programme was an interesting mix of musical theatre, opera, and performance art.
+The first in the series for me was _MisogyME_, a piece examining a man's role and experiences with Toxic Masculinity. Performed by baritone Jonathan Christopher, pianist Topher Mokrzewski, and director Michael Mohammed, the programme was an interesting mix of musical theatre, opera, and performance art.
 
 Featuring pieces from _Le nozze di Figaro_ to _Hamilton_ and almost everything in between, the pieces were well-sung overall by Christopher, but it was clear that he felt more at home in the musical theatre genre. During Coalhouse's Soliloquy one could hear the influence of late 90s/early 00s Broadway baritenors like Brian Stoke Mitchell and Norbert Leo Butz. Mokrzewski managed the shifts between the varied genres with incredible skill.
 
