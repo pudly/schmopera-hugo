@@ -11,7 +11,7 @@ primary_image_credit = "Aria Umezawa and Teiya Kasahara, two co-founders of Ampl
 related_articles = ["articles/inaugural-watershed-festival-to-celebrate-opera-and-musical-theatre-in-kingston.md", "articles/good-ideas-rehearsalasperformance.md", "articles/aria-umezawa-opera-5s-die-fledermaus-with-surprises.md"]
 related_companies = ["scene/companies/amplified-opera.md"]
 related_people = ["scene/people/megan-miceli.md", "scene/people/marion-newman.md", "scene/people/aria-umezawa.md", "scene/people/teiya-kasahara.md"]
-short_description = "short"
+short_description = "It's been quite the long-haul here in the GTA, but it's great to be back on the beat. After two years out of the habit, it was great to find myself at the Museum of Contemporary Art to check out Amplified Opera's first offering in their concert series — after several delays — AMPLIFY 1.0."
 slug = "review-re-telling-stories-with-amplify-1-0"
 title = "Review: Re-telling stories with Amplify 1.0"
 youtube_url = ""
@@ -76,11 +76,5 @@ Miceli opened with some powerful Handel that rang out high above the unfortunate
 Pols followed up with some Mozart that had been rearranged to accommodate her missing left-hand. In an incredibly informative interlude, Pols actually walked the audience through how she makes these musical accommodations without sacrificing the pursuit of excellence.
 
 A high point for me was when the two paired up for some Debussy. "La plus que lente" was rearranged by Pols to include Miceli, in a soaring, virtuosic, vocalise that was at times pure Debussy magic and at times dancing with sounds more reminiscent of a Gershwin — a nice homage Pols background in Jazz from Humber College. Another great piece was _High the Veils Wave_ by Lieke van der Voort, commissioned specifically for Jennifer with her disability in mind. It employed incredible soundscapes alongside vocalisations from the pianist. It was ethereal, other-worldly, and conjured images of fog and fae.
-
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption>Photo: Dahlia Katz.</figcaption>
-
-</figure>
 
 All in all, it was a great couple of evenings out. However, if heading to an event at MOCA I would suggest attending one during the evening as opposed to a matinee. While it's great to see a venue like MOCA busy, it was quite distracting to be watching a show with a busy cafe and gift shop ringing up customers in the same room.
