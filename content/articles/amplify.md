@@ -3,15 +3,14 @@ author = ["authors/greg.md"]
 categories = "Review"
 date = 2022-03-23T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
-related_articles = []
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1648045042/media/2022/03/sqAmplified1_xcur8i.jpg"
+primary_image_credit = "Aria Umezawa and Teiya Kasahara, two co-founders of Amplified Opera. Photo: Dahlia Katz."
+related_articles = ["articles/inaugural-watershed-festival-to-celebrate-opera-and-musical-theatre-in-kingston.md", "articles/good-ideas-rehearsalasperformance.md", "articles/aria-umezawa-opera-5s-die-fledermaus-with-surprises.md"]
 related_companies = ["scene/companies/amplified-opera.md"]
-related_people = ["scene/people/marion-newman.md", "scene/people/aria-umezawa.md", "scene/people/teiya-kasahara.md"]
+related_people = ["scene/people/megan-miceli.md", "scene/people/marion-newman.md", "scene/people/aria-umezawa.md", "scene/people/teiya-kasahara.md"]
 short_description = "short"
 slug = "review-re-telling-stories-with-amplify-1-0"
 title = "Review: Re-telling stories with Amplify 1.0"
@@ -26,9 +25,9 @@ It's been quite the long-haul here in the GTA, but it's great to be back on the 
 
 The newest company-in-residence with the [Canadian Opera Company](/scene/companies/canadian-opera-company/), Amplified Opera, co-founded by [Aria Umezawa](/scene/people/aria-umezawa/), [Teiya Kasahara](/scene/people/teiya-kasahara/), [Asitha Tennekoon](/scene/people/asitha-tennekoon/), and [Marion Newman](/scene/people/marion-newman/), has partnered with MOCA to present this series surrounded by the immersive exhibit, _I AM YOUR RELATIVE_ by Jeffrey Gibson — a vivid, explosion of colours, texts, and images all collected from his past decade of work prioritizing the voices of Indigenous, Black, Brown, and queer voices. The piece is intended to be used by MOCA to host a variety of interdisciplinary presentations.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1648045123/media/2022/03/Amplified1_JonathonTopher_ifg6q2.jpg){{% /md %}}
 
-<figcaption>Photo: Dahlia Katz.</figcaption>
+<figcaption>Jonathan Christopher and Topher Mokrzewski in MisogyME, Amplify 1.0, Amplified Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
@@ -40,9 +39,9 @@ Featuring pieces from _Le nozze di Figaro_ to _Hamilton_ and almost everything i
 
 The through-line of the piece did get a little disjointed as Mohammed led some of the curations. The points of interjection that consisted mainly of a single quote were more effective, but the longer and more informative they became, the more it drew away from the flow of the show.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1648045168/media/2022/03/Amplified1_Panel_jyhfuh.jpg){{% /md %}}
 
-<figcaption>Photo: Dahlia Katz.</figcaption>
+<figcaption>Topher Mokrzewski, Jonathan Christopher, and Michael Mohammed is discussion for MisogyME, Amplifiy 1.0, Amplified Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
@@ -52,13 +51,13 @@ I also found the narrative of the show focused more on men and toxic masculinity
 
 Overall, the show was effective and brought up many important questions that we don't quite have the answers to yet, but need to continue to be discussed in order to get there.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+Second up was _WRECKONCILIATION_, featuring Cree-Metis baritone Jonathon Adams and Kwagiulth and Sto:lo First Nations mezzo Marion Newman-Nege'ga, with violinist Kathleen Kajiokav, cellist Keiran Campbell, and harpsichordist Chirstopher Bagan performing the works of Henry Purcell alongside a piece composed by Newman-Nege'ga.
 
-<figcaption>Photo: Dahlia Katz.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1648046268/media/2022/03/Amplified1_MarionJon_i6expm.jpg){{% /md %}}
+
+<figcaption>Marion Newman-Nege'ga and Jonathon Adams in WRECKONCILIATION, Amplify 1.0, Amplified Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
 </figure>
-
-Second up was _WRECKONCILIATION_, featuring Cree-Metis baritone Jonathon Adams and Kwagiulth and Sto:lo First Nations mezzo Marion Newman-Nege'ga, with violinist Kathleen Kajiokav, cellist Keiran Campbell, and harpsichordist Chirstopher Bagan performing the works of Henry Purcell alongside a piece composed by Newman-Nege'ga.
 
 The idea behind this show was that during the time Purcell was composing this music, the Beaver Wars were taking place on this side of the Atlantic. These pieces were chosen because of their historical chronology, but also because Purcell was known to write about nature and the environment around him. Occupying this music as indigenous/First Nations artists, Adams and Nege'ga sang them using texts reimagined through an Indigenous lens by writer Yvette Nolan.
 
@@ -66,9 +65,9 @@ Adams sang with an elegant, delicate line and with exquisite ornamentation. Newm
 
 Rounding out the programme was _SPOTLIGHT: Out on a Limb_, featuring soprano Megan Miceli, pianist and trumpeter Jennifer Pols, and director Bridget Ramzy. Now, this was quite the unique programme. _SPOTLIGHT_ was a discussion centered around disability and the differently-abled. Both performers, Miceli and Pols, are missing one of their hands.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1648046323/media/2022/03/Amplified1_Megan_bxuzlp.jpg){{% /md %}}
 
-<figcaption>Photo: Dahlia Katz.</figcaption>
+<figcaption>Megan Miceli and pianist Jennifer Pols in SPOTLIGHT: Out on a Limb, Amplify 1.0, Amplified Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
