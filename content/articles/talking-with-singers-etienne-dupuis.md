@@ -41,9 +41,15 @@ I’ve thought a lot about the singers and other performing artists, and the rea
 
 I spoke by phone with Dupuis last month, while he was happily back at the Met, singing in David McVicar’s looming, star-studded new production of Don Carlos alongside Jamie Barton, Matthew Polenzani, and Sonya Yoncheva. We talked about the complicated history of Verdi’s 1867 opera, which has dual identities as a four-act Italian masterpiece and a five-act work of French grand opera.
 
-Upon request, Dupuis gave me a glimpse of the opera’s history: its life in French (ballet included, bien sûr) and the ways one could argue that Verdi’s writing for the Italian version is better.
+Upon request, Dupuis gave me a glimpse of the opera’s history: its life in French (ballet included, _bien sûr_) and the ways one could argue that Verdi’s writing for the Italian version is better.
 
 But I was more interested in how loudly this production of Don Carlos spoke about the world’s current events. Dupuis felt it, too, in his opening scene as Rodrigo. His first lines are to Carlos, telling him about the war and blood he’s seen in Flanders, and wonders if the fighting is truly achieving peace. “And as I say that the orchestra has this ginormous chord - this noise, really, of the trombones blasting,” says Dupuis. “It’s like Verdi’s comment, saying ‘that’s what I think about that kind of war.’”
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1649353236/media/2022/04/MetOpera_DonCarlos_Dupuis_Polenzani_cvacq8.jpg){{% /md %}}
+
+<figcaption>Matthew Polenzani as Don Carlos and Etienne Dupuis as Rodrigue in Verdi's “Don Carlos.” Photo: Ken Howard / Met Opera.</figcaption>
+
+</figure>
 
 Even more pointed than Verdi’s commentary is the connection to war today. “Immediately, if I was in the audience, I’d be like, ‘I’m thinking of Ukraine right now.’”
 
