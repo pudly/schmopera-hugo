@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1649352664/media/2022/04/sqETIENNE_DUPUIS_DarioAcosta_itpnyr.jpg"
+primary_image_credit = "Photo by Dario Acosta."
 related_articles = []
 related_companies = []
 related_people = []
@@ -34,6 +34,11 @@ I’ve thought a lot about the singers and other performing artists, and the rea
 
 “I think for years now,” Dupuis predicts, “we're going to be saying to each other, ‘Hey, how was your pandemic? Where were you when the pandemic happened? How did you cope?’”
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1649352761/media/2022/04/ETIENNE_DUPUIS_DarioAcosta_o6qf3k.jpg){{% /md %}}
+
+<figcaption>Canadian baritone Étienne Dupuis. Photo by Dario Acosta.</figcaption>  
+</figure>
+
 I spoke by phone with Dupuis last month, while he was happily back at the Met, singing in David McVicar’s looming, star-studded new production of Don Carlos alongside Jamie Barton, Matthew Polenzani, and Sonya Yoncheva. We talked about the complicated history of Verdi’s 1867 opera, which has dual identities as a four-act Italian masterpiece and a five-act work of French grand opera.
 
 Upon request, Dupuis gave me a glimpse of the opera’s history: its life in French (ballet included, bien sûr) and the ways one could argue that Verdi’s writing for the Italian version is better.
@@ -51,6 +56,11 @@ Since he was right in the middle of it all when we spoke, I asked Dupuis about T
 Dupuis and I agreed that neither of us envy Met General Director Peter Gelb, who has effectively ousted one of his friends with his decision to keep Netrebko off the mainstage. And we mused on the idea that it might not have been safe for Netrebko to explicitly condemn the actions of Putin, with whom she has appeared allied in previous years. “Maybe we're asking too much of a single person,” Dupuis offers.
 
 And it may be that, in general, we ask too much of artists and their political views. I think Gelb made the right call regarding Netrebko - but as a general rule, do we really want to threaten a singer’s career because of their ideologies? Are we ready for the slippery slope? How easy is it to argue that being on one side of an issue is objectively “worse” or “better” than the other? Can we trust ourselves to approach the issue with a case-by-case-basis type of maturity?
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption>Photo by Dario Acosta.</figcaption>  
+</figure>
 
 For Dupuis, the good-natured baritone with no political controversy stealing his thunder, it’s clearer than ever that his work is meaningful and important. I asked him whether the pandemic had changed anything for him, if it had affected how he sees the performing arts and why he sings for a living. The short answer? No.
 
