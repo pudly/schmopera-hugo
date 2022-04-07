@@ -50,25 +50,26 @@ But I was more interested in how loudly this production of _Don Carlos_ spoke ab
 
 Even more pointed than Verdi's commentary is the connection to war today. "Immediately, if I was in the audience, I'd be like, 'I'm thinking of Ukraine right now.'"
 
-Since he was right in the middle of it all when we spoke, I asked Dupuis about the Met's response to Anna Netrebko, the Russian star soprano who was dropped by the company - and others, including her management - after she took decidedly too long to denounce the war in Ukraine.
+Since he was right in the middle of it all when we spoke, I asked Dupuis about the [Met's response to Anna Netrebko](/opera-politics-blurry-lines-being-kind/), the Russian star soprano who was dropped by the company - and others, including her management - after she took decidedly too long to denounce the war in Ukraine.
 
-“Political opinion is the same as a human opinion,” Dupuis says. He’s sympathetic to how artists are like everyone else, with varying political leanings; still, the Netrebko case seems more acute. “It's hard to justify saying, ‘No, it's cool that a country should invade its neighboring country.’”
+"Political opinion is the same as a human opinion," Dupuis says. He's sympathetic to how artists are like everyone else, with varying political leanings; still, the Netrebko case seems more acute. "It's hard to justify saying, 'No, it's cool that a country should invade its neighboring country.'"
 
-(It should be noted that after my conversation with Dupuis, Netrebko did offer a condemnation of the war in Ukraine, and it reportedly cost her a gig at the State Opera and Ballet Theatre in Siberia.)
+(It should be noted that after my conversation with Dupuis, [Netrebko did offer a condemnation](https://www.theguardian.com/music/2022/mar/30/russian-soprano-anna-netrebko-putin-ukraine-war-met-opera) of the war in Ukraine. It didn't get her back onstage at the Met, but it reportedly cost her a gig at the State Opera and Ballet Theatre in Siberia.)
 
-Dupuis and I agreed that neither of us envy Met General Director Peter Gelb, who has effectively ousted one of his friends with his decision to keep Netrebko off the mainstage. And we mused on the idea that it might not have been safe for Netrebko to explicitly condemn the actions of Putin, with whom she has appeared allied in previous years. “Maybe we're asking too much of a single person,” Dupuis offers.
+Dupuis and I agreed that neither of us envy Met General Director Peter Gelb, who has effectively ousted one of his friends with his decision to keep Netrebko off the mainstage. And we mused on the idea that it might not have been safe for Netrebko to explicitly condemn the actions of Putin, with whom she has appeared allied in previous years. "  
+Maybe we're asking too much of a single person," Dupuis offers.
 
-And it may be that, in general, we ask too much of artists and their political views. I think Gelb made the right call regarding Netrebko - but as a general rule, do we really want to threaten a singer’s career because of their ideologies? Are we ready for the slippery slope? How easy is it to argue that being on one side of an issue is objectively “worse” or “better” than the other? Can we trust ourselves to approach the issue with a case-by-case-basis type of maturity?
+And it may be that, in general, we ask too much of artists and their political views. I think Gelb made the right call regarding Netrebko - but as a general rule, do we really want to threaten a singer’s career because of their ideologies? Are we ready for the slippery slope? How easy is it to argue that being on one side of an issue is objectively "worse" or "better" than the other? Can we trust ourselves to approach the issue with a case-by-case-basis type of maturity?
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1649352761/media/2022/04/ETIENNE_DUPUIS_DarioAcosta_o6qf3k.jpg){{% /md %}}
 
 <figcaption>Canadian baritone Étienne Dupuis. Photo by Dario Acosta.</figcaption>  
 </figure>
 
-For Dupuis, the good-natured baritone with no political controversy stealing his thunder, it’s clearer than ever that his work is meaningful and important. I asked him whether the pandemic had changed anything for him, if it had affected how he sees the performing arts and why he sings for a living. The short answer? No.
+For Dupuis, the good-natured baritone with no political controversy stealing his thunder, it's clearer than ever that his work is meaningful and important. I asked him whether the pandemic had changed anything for him, if it had affected how he sees the performing arts and why he sings for a living. The short answer? No.
 
-“My answer was always the same, and I think confinement has just strengthened it,” Dupuis says. “It's because, emotionally, we need to share something communally.”
+"My answer was always the same, and I think confinement has just strengthened it," Dupuis says. "It's because, emotionally, we need to share something communally."
 
-“There’s something that happens when you put a bunch of people on stage, before the people in the audience, and we share this moment in time of beauty. It's slightly different for everybody but as a whole something happens that’s impossible to describe.”
+"There's something that happens when you put a bunch of people on stage, before the people in the audience, and we share this moment in time of beauty. It's slightly different for everybody but as a whole something happens that’s impossible to describe."
 
 Yep. I'm excited for intangible wonder, again, too.
