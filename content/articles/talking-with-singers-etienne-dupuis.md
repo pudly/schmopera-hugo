@@ -43,9 +43,11 @@ I spoke by phone with Dupuis last month, while he was happily back at the Met, s
 
 Upon request, Dupuis gave me a glimpse of the opera’s history: its life in French (ballet included, bien sûr) and the ways one could argue that Verdi’s writing for the Italian version is better.
 
-But I was more interested in how loudly this production of Don Carlos spoke about the world’s current events. Dupuis felt it, too, in his opening scene as Rodrigo. His first lines are to Carlos, telling him about the war and blood he’s seen in Flanders, and wonders if the fighting is truly achieving peace. “And as I say that the orchestra has this ginormous chord - this noise, really, of the trombones blasting,” says Dupuis. “It’s like Verdi’s comment, saying ‘that’s what I think about”that kind of war.’”
+But I was more interested in how loudly this production of Don Carlos spoke about the world’s current events. Dupuis felt it, too, in his opening scene as Rodrigo. His first lines are to Carlos, telling him about the war and blood he’s seen in Flanders, and wonders if the fighting is truly achieving peace. “And as I say that the orchestra has this ginormous chord - this noise, really, of the trombones blasting,” says Dupuis. “It’s like Verdi’s comment, saying ‘that’s what I think about that kind of war.’”
 
 Even more pointed than Verdi’s commentary is the connection to war today. “Immediately, if I was in the audience, I’d be like, ‘I’m thinking of Ukraine right now.’”
+
+> “There’s something that happens when you put a bunch of people on stage, before the people in the audience, and we share this moment in time of beauty."
 
 Since he was right in the middle of it all when we spoke, I asked Dupuis about The Metropolitan Opera’s response to Anna Netrebko, the Russian star soprano who was dropped by the company - and others, including her management - after she took decidedly too long to denounce the war in Ukraine.
 
