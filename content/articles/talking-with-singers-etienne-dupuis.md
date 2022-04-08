@@ -35,7 +35,7 @@ I've thought a lot about the singers and other performing artists, and the reall
 
 > "There’s something that happens when you put a bunch of people on stage, before the people in the audience, and we share this moment in time of beauty."
 
-I spoke by phone with Dupuis last month, while he was happily back at the Met, singing in David McVicar’s looming, star-studded new production of _Don Carlos_ alongside [Jamie Barton](/talking-with-singers-jamie-barton/), [Matthew Polenzani](/talking-with-singers-matthew-polenzani/), and [Sonya Yoncheva](/scene/people/sonya-yoncheva/). We talked about the complicated history of Verdi's 1867 opera, which has dual identities as a four-act Italian masterpiece and a five-act work of French grand opera.
+I spoke by phone with Dupuis last month, while he was happily back at the Met, singing in David McVicar’s looming, star-studded [new production of _Don Carlos_](https://www.metopera.org/season/2021-22-season/don-carlos/) alongside [Jamie Barton](/talking-with-singers-jamie-barton/), [Matthew Polenzani](/talking-with-singers-matthew-polenzani/), and [Sonya Yoncheva](/scene/people/sonya-yoncheva/). We talked about the complicated history of Verdi's 1867 opera, which has dual identities as a four-act Italian masterpiece and a five-act work of French grand opera.
 
 Upon request, Dupuis gave me a glimpse of the opera's history: its life in French (ballet included, _bien sûr_) and the ways one could argue that Verdi's writing for the Italian version is better.
 
@@ -65,7 +65,9 @@ And it may be that, in general, we ask too much of artists and their political v
 <figcaption>Canadian baritone Étienne Dupuis. Photo by Dario Acosta.</figcaption>  
 </figure>
 
-For Dupuis, the good-natured baritone with no political controversy stealing his thunder, it's clearer than ever that his work is meaningful and important. I asked him whether the pandemic had changed anything for him, if it had affected how he sees the performing arts and why he sings for a living. The short answer? No.
+Dupuis wrapped _Don Carlos_ last month, and now he's set to step into the title role of _Don Giovanni_, in a [new production for San Francisco Opera](https://www.sfopera.com/on-stage/don-giovanni) by fellow Canadian Michael Cavanagh. And for the good-natured baritone with no political controversy stealing his thunder, it's clearer than ever that his work is meaningful and important. 
+
+I asked him whether the pandemic had changed anything for him, if it had affected how he sees the performing arts and why he sings for a living. The short answer? No.
 
 "My answer was always the same, and I think confinement has just strengthened it," Dupuis says. "It's because, emotionally, we need to share something communally."
 
