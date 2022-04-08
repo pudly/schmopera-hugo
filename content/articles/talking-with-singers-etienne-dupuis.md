@@ -1,17 +1,16 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = 2022-04-07T04:00:00Z
+date = 2022-04-08T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1649352664/media/2022/04/sqETIENNE_DUPUIS_DarioAcosta_itpnyr.jpg"
 primary_image_credit = "Photo by Dario Acosta."
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/anna-1.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/etienne-dupuis.md"]
 short_description = "“My answer was always the same, and I think confinement has just strengthened it,” Dupuis says. “It's because, emotionally, we need to share something communally.” "
 slug = "talking-with-singers-etienne-dupuis"
 title = "Talking with singers: Étienne Dupuis"
