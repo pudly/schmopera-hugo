@@ -8,7 +8,7 @@ publishDate = "2015-09-29T16:29:00-04:00"
 related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/opra-national-de-paris.md", "scene/companies/staatsoper-berlin.md", "scene/companies/royal-opera-house.md", "scene/companies/wiener-staatsoper.md"]
 slug = "sonya-yoncheva"
 title = "Sonya Yoncheva"
-website = "http://sonyayoncheva.com/en/paris-mon-amour-2015-intro"
+website = "https://sonyayoncheva.com/"
 [[social_media]]
 platform = "Facebook"
 template = "social-media"
@@ -17,6 +17,14 @@ url = "https://www.facebook.com/sonyayonchevaofficial"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/sonyayoncheva"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/sonyayoncheva/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/TheShlupy"
 
 +++
 Superstar soprano Sonya Yoncheva has been heralded as one of the most acclaimed and exciting performers of her generation.
