@@ -12,7 +12,7 @@ website = "https://www.sydneybaedkesoprano.com/"
 [[social_media]]
 platform = "Instagram"
 template = "social-media"
-url = "https://www.instagram.com/sydthesop/"
+url = "https://www.instagram.com/sydneythesoprano/"
 [[social_media]]
 platform = "Facebook"
 template = "social-media"
