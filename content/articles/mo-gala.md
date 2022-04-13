@@ -18,15 +18,15 @@ title = "MO gala"
 youtube_url = ""
 
 +++
-This month's Gala Concert at Winnipeg’s Centennial Concert Hall, presented by Manitoba Opera (MOA), was a veritable cornucopia of operatic hits, featuring top Canadian talent supported by the Winnipeg Symphony Orchestra under the steady baton of Maestro Tyrone Paterson.
+This month's Gala Concert at Winnipeg's Centennial Concert Hall, presented by [Manitoba Opera](/scene/companies/manitoba-opera/), was a veritable cornucopia of operatic hits, featuring top Canadian talent supported by the Winnipeg Symphony Orchestra under the steady baton of Maestro Tyrone Paterson.
 
-It’s been a long, frustrating 28 months since Manitoba opera last staged a large-scale work on the mainstage, Carlisle Floyd’s Susannah in November of 2019. None of  us knew that our world was on the cusp of tumultuous change. The program presented last night was in fact a replacement of Rossini’s La Cenerentola,  which will now appear this fall. As a replacement concert, however, I am happy to report that it was pretty darn entertaining!
+It’s been a long, frustrating 28 months since Manitoba opera last staged a large-scale work on the mainstage, Carlisle Floyd's _Susannah_ in November of 2019. None of  us knew that our world was on the cusp of tumultuous change. The program presented last night was in fact a replacement of Rossini’s _La Cenerentola_, which will now appear this fall. As a replacement concert, however, I am happy to report that it was pretty darn entertaining!
 
-The evening started off with heartfelt appeal from MOA Chorus member George Nytepchuk in support of the people of Ukraine who are suffering through this insane war, and the singing of the Ukrainian and Canadian national anthem.
+The evening started off with heartfelt appeal from MO Chorus member George Nytepchuk in support of the people of Ukraine who are suffering through this insane war, and the singing of the Ukrainian and Canadian national anthem.
 
-Dynamic host James McLennan kept things moving briskly with entertaining banter delivered with humour and panache.  We were first treated to two selections from Rossini’s take on Cinderella: the whimsical overture, and later on, a big aria from the piece, Non più mesta, which was sung superbly by mezzo-soprano Lizzy Hoyt. Hoyt’s coloratura is nimble and clean, and she has plenty of power in her higher register.  MOA CEO Larry Durochers certainly had a good idea when he decided to include this excerpt, as a means of whetting the audience’s appetite for the fall 2022 production of this piece.
+Dynamic host [James McLennan](/scene/people/james-mclennan/) kept things moving briskly with entertaining banter delivered with humour and panache. We were first treated to two selections from Rossini’s take on _Cinderella_: the whimsical overture, and later on, a big aria from the piece, "Non più mesta", which was sung superbly by mezzo-soprano Lizzy Hoyt. Hoyt's coloratura is nimble and clean, and she has plenty of power in her higher register. MO CEO Larry Desrochers certainly had a good idea when he decided to include this excerpt, as a means of whetting the audience’s appetite for the fall 2022 production of this piece.
 
-Tenor David Pomeroy shone in his two excerpts: the famous Nessun Dorma from Puccini’s Turandot and Vesti la guibba from Leoncavallo’s I Pagliacci. Pomeroy possesses an exquisite instrument: clarion high notes, huge colour, and he employs great expressivity in his singing.
+Tenor [David Pomeroy](/scene/people/david-pomeroy/) shone in his two excerpts: the famous "Nessun Dorma" from Puccini’s Turandot and Vesti la guibba from Leoncavallo’s I Pagliacci. Pomeroy possesses an exquisite instrument: clarion high notes, huge colour, and he employs great expressivity in his singing.
 
 Baritone James Westman came out with élan and flair with the Torreador song from Bizet’s Carmen. Almost as famous as an opera aria can be, Westman brought his signature warm and ringing clarity to the role. In a situation such as this, where the orchestra is onstage (and not in the pit) I could have wished for more diction. But I also want to be generous and say that many of these performers have not been on stage for some time. Full disclosure: Westman sang the role of Louis Riel in my opera Li Keur, Riel’s Heart of the North (libretto by Suzanne Steele)  and so I’m trying my best to stay objective! For me, his most persuasive singing of the evening was in Germont’s aria Di Provenza il mar from Verdi’s La Traviata,  where he sang with great feeling, tenderness, power and passion.
 
@@ -40,7 +40,7 @@ Photos:
 
 Photo 1: Left to right: David Pomeroy, Lara Ciekiewicz, Catherine Daniel, Lizzy Hoyt, James Westman. Tyrone Pateron conducting the Winnipeg Symphony Orchestra
 
-Photo 2: Mezzo-soprano Catherine Daniel   
+Photo 2: Mezzo-soprano Catherine Daniel
 
 Photo 3: Tenor David Pomeroy and mezzo-soprano Catherine Daniel
 
