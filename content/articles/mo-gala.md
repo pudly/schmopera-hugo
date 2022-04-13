@@ -12,9 +12,9 @@ primary_image_credit = "Mezzo-soprano Catherine Daniel in Manitoba Opera's Gala 
 related_articles = []
 related_companies = ["scene/companies/manitoba-opera.md"]
 related_people = []
-short_description = "short"
-slug = "manitoba-gala"
-title = "MO gala"
+short_description = "The crowd rose to their feet after this aria, applauding and cheering an downright incredible performance. And her singing in the final quartet, from Verdi's Rigoletto, reminded me of Denyce Graves."
+slug = "daniel-shines-in-manitoba-operas-gala-concert"
+title = "Daniel shines in Manitoba Opera's Gala Concert"
 youtube_url = ""
 
 +++
