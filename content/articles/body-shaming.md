@@ -29,3 +29,11 @@ When readers rightly cried body-shaming ⁠— a dumb and persistent element tha
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjoel.ivany%2Fposts%2F10159093336983600&show_text=true&width=500" width="500" height="629" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 From what I could see, readers were frustrated with the unkind and totally unnecessary comments on a singer's physical appearance, and also with the fact that the original review made its way by _Opera Canada'_s editorial team in the first place.
+
+Joel Ivany, Artistic Director of Edmonton Opera and Against the Grain Theatre, summed it up well on Facebook:
+
+"Also, the show closed April 8. Generally we like the reviews to sell the show. This review came out April 19, which is more of a 'here's what you missed'.
+
+Unnecessary.
+
+As well, the statement apologizes to the artist, but he has not been emailed or called by anyone. So this blanket statement is that specific apology. He'd have to hear about it from his community."
