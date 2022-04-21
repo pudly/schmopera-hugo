@@ -3,13 +3,12 @@ author = ["authors/jenna.md"]
 categories = "Op-Ed"
 date = 2022-04-21T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1650558117/media/2022/04/sqBeNice_mbpfta.jpg"
 primary_image_credit = ""
-related_articles = []
+related_articles = ["articles/once-agan-shushing-meanies.md"]
 related_companies = []
 related_people = []
 short_description = " It's my thought that reviewers who disparage singers' bodies are only telling us some ugly shit about themselves: that they don't think fat people can fall in love or have romantic experiences, and that they don't have anything better to say about an opera production even after the two years of shit we all went through with stages being shuttered."
@@ -28,7 +27,7 @@ When readers rightly cried body-shaming ⁠— a dumb and persistent element tha
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjoel.ivany%2Fposts%2F10159093336983600&show_text=true&width=500" width="500" height="629" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-From what I could see, readers were frustrated with the unkind and totally unnecessary comments on a singer's physical appearance, and with the fact that the original review made its way by Opera Canada's editorial team in the first place.
+From what I could see, readers were frustrated with the unkind and totally unnecessary comments on a singer's physical appearance, and with the fact that the original review made its way by _Opera Canada_'s editorial team in the first place.
 
 Joel Ivany, Artistic Director of Edmonton Opera and Against the Grain Theatre, argued that the statement should be added to the review itself, in the spirit of transparency. He summed it up well in a Facebook comment:
 
@@ -44,4 +43,4 @@ I'll also say that in my own experience working with the magazine (I was Social 
 
 With this latest bit of negative buzz around _Opera Canada_, a few people have pointed out that the magazine seems due for a revamp in terms of its editorial guidelines and its journalistic standards for reviews. I would agree! I wonder if anyone at OC will read the comments...
 
-Anyway. It's my thought that reviewers who disparage singers' bodies are only telling us some ugly shit about themselves: that they don't think fat people can fall in love or have romantic experiences, and that they don't have anything better to say about an opera production _even after the two years of shit we all went through with stages being shuttered_. Bill Rankin, I'll say this: you need some perspective.
+Anyway. It's my thought that reviewers who disparage singers' bodies are only telling us some ugly shit about themselves: in this case, that they don't think fat people can fall in love or have romantic experiences, and that they don't have anything better to say about an opera production _even after the two years of shit we all went through with stages being shuttered_. Bill Rankin, I'll say this: you need some perspective.
