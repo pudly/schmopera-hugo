@@ -1,6 +1,6 @@
 +++
-author = []
-categories = ""
+author = ["authors/jenna.md"]
+categories = "Op-Ed"
 date = 2022-04-21T04:00:00Z
 disclaimer = ""
 draft = true
@@ -12,9 +12,9 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
-slug = "body-shaming"
-title = "Body shaming"
+short_description = " It's my thought that reviewers who disparage singers' bodies are only telling us some ugly shit about themselves: that they don't think fat people can fall in love or have romantic experiences, and that they don't have anything better to say about an opera production even after the two years of shit we all went through with stages being shuttered."
+slug = "opnion-critics-who-body-shame-are-bad-at-their-job"
+title = "Opinion: critics who body-shame are bad at their job"
 youtube_url = ""
 
 +++
