@@ -37,3 +37,5 @@ Joel Ivany, Artistic Director of Edmonton Opera and Against the Grain Theatre, s
 Unnecessary.
 
 As well, the statement apologizes to the artist, but he has not been emailed or called by anyone. So this blanket statement is that specific apology. He'd have to hear about it from his community."
+
+There's not much to add to this story, but I do feel the urge to offer an opinion, both as someone who has made her own mistakes in opera-critic-land, and someone who used to work for _Opera Canada_.
