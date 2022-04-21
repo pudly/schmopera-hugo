@@ -38,4 +38,10 @@ Unnecessary.
 
 As well, the statement apologizes to the artist, but he has not been emailed or called by anyone. So this blanket statement is that specific apology. He'd have to hear about it from his community."
 
-There's not much to add to this story, but I do feel the urge to offer an opinion, both as someone who has made her own mistakes in opera-critic-land, and someone who used to work for _Opera Canada_.
+There's not much to add to this story, but I do feel the urge to offer an opinion, both as someone who has made her own mistakes in opera-critic-land, and someone who used to work for _Opera Canada_. 
+
+I'll say first that the business of opera criticism in Canada is small. It's a relatively small scene that's covered by an even smaller group of people, and those people are under the auspices of, like, one editor. It might not seem like a lot, but I will say confidently that keeping an eye on every word of content that goes out on one's outlet is a big task, and some things will be missed. It's not an excuse, but it's a reason stuff like this happens.
+
+So just because _Opera Canada_ has been around for over 60 years and it's _de facto_ the biggest source of opera coverage in the country, that _by no means_ indicates a bustling office space with plenty of manpower and plenty of eyes on each article that goes out. You might know that currently, _Opera Canada_ is on the hunt for a new editor; so if we add a personnel change to a team that's already stretched thin, we get a bit of _disastro_.
+
+I'll also say that in my own experience working with the magazine (I was Social Media Manager, Digital Content Writer, and a contributor for several years), those who truly run _Opera Canada_ have not historically shown a great deal of interest in its digital content. I have plenty of theories on why that is, but the bottom line is that the quarterly print edition gets a good amount of attention. I'd argue that amount is disproportionate to how important it is to have a functioning digital presence. 
