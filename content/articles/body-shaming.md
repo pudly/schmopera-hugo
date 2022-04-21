@@ -17,7 +17,7 @@ title = "Opinion: critics who body-shame are bad at their job"
 youtube_url = ""
 
 +++
-Opera fans in Canada might have noticed a flurry of activity around _Opera Canada_ magazine, and the review they published by Bill Rankin of Calgary Opera's recent production of _La traviata_.
+Opera fans in Canada might have noticed a flurry of activity around _Opera Canada_ magazine, and the [review they published by Bill Rankin](https://operacanada.ca/calgary-opera-sets-la-traviata-in-the-roaring-20s/) of Calgary Opera's recent production of _La traviata_.
 
 The story so far is this: Rankin's original review included [the following paragraph](https://www.instagram.com/p/CcjsF1EsfCN/?utm_source=ig_web_copy_link), in reference to stellar Canadian tenor Andrew Haji's performance as Alfredo:
 
