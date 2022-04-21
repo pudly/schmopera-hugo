@@ -42,4 +42,4 @@ So just because _Opera Canada_ has been around for over 60 years and it's _de fa
 
 I'll also say that in my own experience working with the magazine (I was Social Media Manager, Digital Content Writer, and a contributor for several years), those who truly run _Opera Canada_ have not historically shown a great deal of interest in its digital content. I have plenty of theories on why that is, but the bottom line is that the quarterly print edition gets a good amount of attention. I'd argue that amount is disproportionate to how important it is to have a functioning digital presence. 
 
-With this latest bit of negative buzz around _Opera Canada_, a few people have pointed out that the magazine seems due for a
+With this latest bit of negative buzz around _Opera Canada_, a few people have pointed out that the magazine seems due for a revamp in terms of its editorial guidelines and its journalistic standards for reviews.
