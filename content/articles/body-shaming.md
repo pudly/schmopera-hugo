@@ -25,7 +25,7 @@ The story so far is this: Rankin's original review included [the following parag
 
 When readers rightly cried body-shaming ⁠— a dumb and persistent element that is still a problem in opera criticism ⁠—  _Opera Canada_ removed the problematic paragraph, but didn't indicate anywhere in the review that an edit had been made. When readers rightly cried editorial bungling, _Opera Canada_ posted a [statement-as-apology on social media](https://www.instagram.com/p/CclNZT_uPFV/), which went over like a lead balloon and got the comment section a-hoppin':
 
-<figure data-type="image">{{% md %}}<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjoel.ivany%2Fposts%2F10159093336983600&show_text=true&width=500" width="500" height="629" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" style="margin: 0 auto;"></iframe>{{% /md %}}
+<figure data-type="image">{{% md %}}<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjoel.ivany%2Fposts%2F10159093336983600&show_text=true&width=500" width="500" height="629" style="border:none;overflow:hidden;margin: 0 auto;display: block;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>{{% /md %}}
 
 </figure>
 
