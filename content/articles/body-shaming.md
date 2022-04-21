@@ -42,4 +42,6 @@ So just because _Opera Canada_ has been around for over 60 years and it's _de fa
 
 I'll also say that in my own experience working with the magazine (I was Social Media Manager, Digital Content Writer, and a contributor for several years), those who truly run _Opera Canada_ have not historically shown a great deal of interest in its digital content. I have plenty of theories on why that is, but the bottom line is that the quarterly print edition gets a good amount of attention. I'd argue that amount is disproportionate to how important it is to have a functioning digital presence. 
 
-With this latest bit of negative buzz around _Opera Canada_, a few people have pointed out that the magazine seems due for a revamp in terms of its editorial guidelines and its journalistic standards for reviews.
+With this latest bit of negative buzz around _Opera Canada_, a few people have pointed out that the magazine seems due for a revamp in terms of its editorial guidelines and its journalistic standards for reviews. I would agree! I wonder if anyone at OC will read the comments...
+
+Anyway. It's my thought that reviewers who disparage singers' bodies are only telling us some ugly shit about themselves: that they don't think fat people can fall in love or have romantic experiences, and that they don't have anything better to say about an opera production _even after the two years of shit we all went through with stages being shuttered_. Bill Rankin, I'll say this: you need some perspective.
