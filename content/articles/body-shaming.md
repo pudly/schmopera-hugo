@@ -25,7 +25,7 @@ The story so far is this: Rankin's original review included [the following parag
 
 When readers rightly cried body-shaming ⁠— a dumb and persistent element that is still a problem in opera criticism ⁠—  _Opera Canada_ removed the problematic paragraph, but didn't indicate anywhere in the review that an edit had been made. When readers rightly cried editorial bungling, _Opera Canada_ posted a [statement-as-apology on social media](https://www.instagram.com/p/CclNZT_uPFV/), which went over like a lead balloon and got the comment section a-hoppin':
 
-<figure data-type="image">{{% md %}}<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjoel.ivany%2Fposts%2F10159093336983600&show_text=true&width=500" width="500" height="629" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>{{% /md %}}
+<figure data-type="image">{{% md %}}<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjoel.ivany%2Fposts%2F10159093336983600&show_text=true&width=500" width="500" height="629" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" style="margin: 0 auto;"></iframe>{{% /md %}}
 
 </figure>
 
@@ -35,13 +35,13 @@ Joel Ivany, Artistic Director of Edmonton Opera and Against the Grain Theatre, a
 
 "As well, the statement apologizes to the artist, but he has not been emailed or called by anyone. So this blanket statement is that specific apology. He'd have to hear about it from his community."
 
-There's not much to add to this story, but I do feel the urge to offer an opinion, both as someone who has made her own mistakes in opera-critic-land, and someone who used to work for _Opera Canada_. 
+There's not much to add to this story, but I do feel the urge to offer an opinion, both as someone who has made her own mistakes in opera-critic-land, and someone who used to work for _Opera Canada_.
 
 I'll say first that the business of opera criticism in Canada is small. It's a relatively small scene that's covered by an even smaller group of people, and those people are under the auspices of, like, one editor. It might not seem like a lot, but I will say confidently that keeping an eye on every word of content that goes out on one's outlet is a big task, and some things will be missed. It's not an excuse, but it's a reason stuff like this happens.
 
 So just because _Opera Canada_ has been around for over 60 years and it's _de facto_ the biggest source of opera coverage in the country, that _by no means_ indicates a bustling office space with plenty of manpower and plenty of eyes on each article that goes out. You might know that currently, _Opera Canada_ is on the hunt for a new editor; so if we add a personnel change to a team that's already stretched thin, we get a bit of _disastro_.
 
-I'll also say that in my own experience working with the magazine (I was Social Media Manager, Digital Content Writer, and a contributor for several years), those who truly run _Opera Canada_ have not historically shown a great deal of interest in its digital content. I have plenty of theories on why that is, but the bottom line is that the quarterly print edition gets a good amount of attention. I'd argue that amount is disproportionate to how important it is to have a functioning digital presence. 
+I'll also say that in my own experience working with the magazine (I was Social Media Manager, Digital Content Writer, and a contributor for several years), those who truly run _Opera Canada_ have not historically shown a great deal of interest in its digital content. I have plenty of theories on why that is, but the bottom line is that the quarterly print edition gets a good amount of attention. I'd argue that amount is disproportionate to how important it is to have a functioning digital presence.
 
 With this latest bit of negative buzz around _Opera Canada_, a few people have pointed out that the magazine seems due for a revamp in terms of its editorial guidelines and its journalistic standards for reviews. I would agree! I wonder if anyone at OC will read the comments...
 
