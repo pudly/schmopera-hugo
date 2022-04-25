@@ -91,9 +91,9 @@ youtube_url = ""
 
 **LM:** It's interesting because this is my first Handel opera. Certainly, I've seen plenty of Handel stagings that have a ton of business and that that's how you sort of fill every moment, and that's how you get through the _da capo_ arias. I think the way that I've approached it has been a little bit more of thinking about time expanding and thinking about the things that happen, not happening in real time, so that we take and use _da capo_ arias, we just take a real dive into people's emotional states.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650896756/media/2022/04/BostonBaroque_AmandaForsythe_ydkatl.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650905732/media/2022/04/DanielaMackasDardano_PhotoCreditGBHProductionGroup_hhiyb2.jpg){{% /md %}}
 
-<figcaption>Soprano Amanda Forsythe in rehearsal for Boston Baroque's Amadigi di Gaula, 2022. Photo: Charles Butler for GBH.</figcaption>
+<figcaption>Daniela Mack as Dardano in Boston Baroque's Amadigi di Gaula, 2022. Photo: GBH Production Group.</figcaption>
 
 </figure>
 
