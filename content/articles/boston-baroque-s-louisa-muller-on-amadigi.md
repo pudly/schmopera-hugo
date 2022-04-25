@@ -36,23 +36,13 @@ youtube_url = ""
 
 **LM:** No. I think the thing that's special about is there's nothing in between the audience and the performance itself.
 
-Arturo Fernandez:
+**AF:** I also imagine that with a room like this, once the overhead lights go out, it's going to get pretty dark.
 
-I also imagine that with a room like this, once the overhead lights go out, it's going to get pretty dark.
+**LM:** Yeah, absolutely. Today was one of the first days that we had all the lights on. You can really feel like it's sort of focused in on the stage.
 
-Louisa Muller:
+**AF:** And also, it looks like it's going to be pretty close to the action.
 
-Yeah, absolutely. Today was one of the first days that we had all the lights on. You can really feel like it's
-
-sort of focused in on the stage.
-
-Arturo Fernandez:
-
-And also, it looks like it's going to be pretty close to the action.
-
-Louisa Muller:
-
-Yeah, really close.
+LM: Yeah, really close.
 
 Arturo Fernandez:
 
