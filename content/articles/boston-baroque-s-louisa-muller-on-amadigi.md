@@ -3,18 +3,17 @@ author = ["authors/arturo-fernandez.md"]
 categories = "Interview"
 date = 2022-04-25T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "As Boston Baroque geared up for its recent star-studded run of Handel's [_Amadigi di Gaula_](https://baroque.boston/handel-amadigi-di-gaula-2022), featuring Anthony Roth Costanzo and Daniela Mack, contributor Arturo Fernandez sat down with director Louisa Muller. xxxxxxx"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1650894886/media/2022/04/sq_BostonBaroque_a40dmk.jpg"
-primary_image_credit = "Boston Baroque in rehearsal for Amadigi, 2022. Photo: Charles Butler for GBH."
+primary_image_credit = "Boston Baroque in rehearsal for Amadigi di Gaula, 2022. Photo: Charles Butler for GBH."
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
-slug = "boston-baroques-louisa-muller-on-amadigi"
-title = "Boston Baroque's Louisa Muller on Amadigi"
+short_description = "\"I think the way that I've approached it has been a little bit more of thinking about time expanding and thinking about the things that happen, not happening in real time, so that we take and use da capo arias, we just take a real dive into people's emotional states.\""
+slug = "boston-baroques-louisa-muller-on-amadigi-di-gaula"
+title = "Boston Baroque's Louisa Muller on Amadigi di Gaula"
 youtube_url = ""
 
 +++
@@ -90,7 +89,7 @@ youtube_url = ""
 
 **AF:** And with Handel, I mentioned before with the abundance of _da capo_ arias, but I imagine keeping that in mind is even more critical because it can be really hard to sort of direct Baroque opera because of that particular idiosyncrasy of the style and the time.
 
-**LM:** It's interesting because this is my first Handel opera. Certainly, I've seen plenty of Handel stagings that have a ton of business and that that's how you sort of fill every moment, and that's how you get through the _da capo_ arias. I think the way that I've approached it has been a little bit more of thinking about time expanding and thinking about the things that happen, not happening in real time, so that we take and use da capo arias, we just take a real dive into people's emotional states.
+**LM:** It's interesting because this is my first Handel opera. Certainly, I've seen plenty of Handel stagings that have a ton of business and that that's how you sort of fill every moment, and that's how you get through the _da capo_ arias. I think the way that I've approached it has been a little bit more of thinking about time expanding and thinking about the things that happen, not happening in real time, so that we take and use _da capo_ arias, we just take a real dive into people's emotional states.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650896756/media/2022/04/BostonBaroque_AmandaForsythe_ydkatl.jpg){{% /md %}}
 
