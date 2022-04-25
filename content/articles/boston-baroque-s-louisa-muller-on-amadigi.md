@@ -6,8 +6,8 @@ disclaimer = ""
 image_gallery = []
 postamble = ""
 preamble = "As Boston Baroque geared up for its recent star-studded run of Handel's [_Amadigi di Gaula_](https://baroque.boston/handel-amadigi-di-gaula-2022), featuring Anthony Roth Costanzo and Daniela Mack, contributor Arturo Fernandez sat down with director Louisa Muller. xxxxxxx"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1650894886/media/2022/04/sq_BostonBaroque_a40dmk.jpg"
-primary_image_credit = "Boston Baroque in rehearsal for Amadigi di Gaula, 2022. Photo: Charles Butler for GBH."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1650905442/media/2022/04/sqDanielMack_PhotoCreditGBHProductionGroup_tec1jn.jpg"
+primary_image_credit = "Daniela Mack (right) as Dardano in Boston Baroque's in Amadigi di Gaula, 2022. Photo: GBH Production Group."
 related_articles = []
 related_companies = []
 related_people = []
@@ -27,7 +27,7 @@ youtube_url = ""
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650905285/media/2022/04/AmadigidiGaula_PhotoCreditGBHProductionGroup_k0cywb.jpg){{% /md %}}
 
-<figcaption>Anthony Roth Costanzo (front, centre) in Boston Baroque's Amadigi di Gaula, 2022. Photo: GBH Production Group.</figcaption>
+<figcaption>Anthony Roth Costanzo (front, centre) in the title role of Boston Baroque's Amadigi di Gaula, 2022. Photo: GBH Production Group.</figcaption>
 
 </figure>
 
@@ -55,9 +55,9 @@ youtube_url = ""
 
 **LM:** Yeah, exactly.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650896518/media/2022/04/BostonBaroque_MusicDirectorMartinPearlman_ectm0e.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650905499/media/2022/04/AmandaForsythe_DanielaMack_AnthonyRothCostanzo_PhotoCreditGBHProductionGroup_bphins.jpg){{% /md %}}
 
-<figcaption>Boston Baroque Music Director Martin Pearlman in rehearsal for Amadigi di Gaula, 2022. Photo: Charles Butler for GBH.</figcaption>
+<figcaption>(l-r) Daniela Mack as Dardano, Anthony Roth Costanzo as Amadigi, and Amanda Forsythe as Melissa in Boston Baroque's Amadigi di Gaula, 2022. Photo: GBH Production Group.</figcaption>
 
 </figure>
 
@@ -73,9 +73,9 @@ youtube_url = ""
 
 **LM:** Well, of course! We wouldn't want to disappoint. And some really great ones, you know?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650896648/media/2022/04/BostonBaroque_DanielaMack_veft8e.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650905602/media/2022/04/CamilleOrtizasOriana_PhotoCreditGBHProductionGroup_mung4a.jpg){{% /md %}}
 
-<figcaption>Mezzo-soprano Daniela Mack in rehearsal for Boston Baroque's Amadigi di Gaula, 2022. Photo: Charles Butler for GBH.</figcaption>
+<figcaption>Camille Ortiz as Oriana in Boston Baroque's Amadigi di Gaula, 2022. Photo: GBH Production Group.</figcaption>
 
 </figure>
 
