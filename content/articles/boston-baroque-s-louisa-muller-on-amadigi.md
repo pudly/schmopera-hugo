@@ -25,9 +25,9 @@ youtube_url = ""
 
 **LM:** Well, video is a large part of it. I mean, there's sort of two sides of it. One is that I think this opera, although it is a magic opera, that the magic isn't the central focus of it. It feels like the magic is always sort of really in support of story or sort of emotionally driven, so rather than making it about sort of special effects or about stage machinery, there's something that's really wonderful about creating this immersive world, which when all the lights are out and the video screens are really on, it feels like you're sort of in it. And then I think that aspect of the sort of emotional drive of the magic then makes more sense.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650896483/media/2022/04/BostonBaroque_StageDirectorLouisaMuller_aigdz8.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650905285/media/2022/04/AmadigidiGaula_PhotoCreditGBHProductionGroup_k0cywb.jpg){{% /md %}}
 
-<figcaption>Stage Director Louisa Muller, in rehearsal for Boston Baroque's Amadigi di Gaula, 2022. Photo: Charles Butler for GBH.</figcaption>
+<figcaption>Anthony Roth Costanzo (front, centre) in Boston Baroque's Amadigi di Gaula, 2022. Photo: GBH Production Group.</figcaption>
 
 </figure>
 
