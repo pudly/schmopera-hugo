@@ -47,6 +47,7 @@ fields:
   name: related_people
 pages:
 - content/scene/companies/amplified-opera.md
+- content/scene/companies/boston-baroque.md
 - content/scene/companies/boston-early-music-festival.md
 - content/scene/companies/boston-lyric-opera-1.md
 - content/scene/companies/boston-modern-orchestra-project.md
