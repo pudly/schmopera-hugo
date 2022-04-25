@@ -6,7 +6,7 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
-preamble = "As Boston Baroque geared up for its recent star-studded run of Handel's _Amadigi di Gaula_, contributor Arturo Fernandez sat down with director Louisa Muller. xxxxxxx"
+preamble = "As Boston Baroque geared up for its recent star-studded run of Handel's [_Amadigi di Gaula_](https://baroque.boston/handel-amadigi-di-gaula-2022), contributor Arturo Fernandez sat down with director Louisa Muller. xxxxxxx"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1650894886/media/2022/04/sq_BostonBaroque_a40dmk.jpg"
 primary_image_credit = "Boston Baroque in rehearsal for Amadigi, 2022. Photo: Charles Butler for GBH."
 related_articles = []
@@ -42,59 +42,19 @@ youtube_url = ""
 
 **AF:** And also, it looks like it's going to be pretty close to the action.
 
-LM: Yeah, really close.
+**LM:** Yeah, really close.
 
-Arturo Fernandez:
+**AF:** So I see that you've sort of created a kind of proscenium here, but I know that this is technically a recording studio for broadcast, right?
 
-So I see that you've sort of created a kind of proscenium here, but I know that this is technically a
+**LM:** Yeah. Television studio.
 
-recording studio for broadcast, right?
+**AF:** How do you pull that together in a space like this and what are some considerations that you have to do for sound and staging and all that?
 
-This transcript was exported on Apr 15, 2022 - view latest version here.
+**LM:** Well, we're lucky because we're coming at the end of Boston Baroque's whole season that has been in this space and so everyone's become really an expert on how to use this space, which is amazing. I think the sound is a very special thing and we have a great sound engineer to help us with that. But also, I mean, there's capabilities that this space has. It already has this whole lighting grid with so many instruments in it already in place. It has the capability of closing off with the black curtains. It already has sort of a lot of benefits. A lot of things that are built into the space and then we sorted out how we were using it. They've been having some version of this stage for all their concerts that they have, but we've expanded it quite a bit and added space all around the orchestra.
 
-Amadigi Interview (Completed 04/15/22)
+**AF:** I imagine that would help a lot with people just trying to move around \[the orchestra\] if it actually calls for it.
 
-Transcript by Rev.com
-
-Page 2 of 2
-
-Louisa Muller:
-
-Yeah. Television studio.
-
-Arturo Fernandez:
-
-How do you pull that together in a space like this and what are some considerations that you have to do
-
-for sound and staging and all that?
-
-Louisa Muller:
-
-Well, we're lucky because we're coming at the end of Boston Baroque's whole season that has been in
-
-this space and so everyone's become really an expert on how to use this space, which is amazing. I think
-
-the sound is a very special thing and we have a great sound engineer to help us with that. But also, I
-
-mean, there's capabilities that this space has. It already has this whole lighting grid with so many
-
-instruments in it already in place. It has the capability of closing off with the black curtains. It already has
-
-sort of a lot of benefits. A lot of things that are built into the space and then we sorted out how we were
-
-using it. They've been having some version of this stage for all their concerts that they have, but we've
-
-expanded it quite a bit and added space all around the orchestra.
-
-Arturo Fernandez:
-
-I imagine that would help a lot with people just trying to move around \[the orchestra\] if it actually calls
-
-for it.
-
-Louisa Muller:
-
-Yeah, exactly.
+**LM:** Yeah, exactly.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
@@ -102,37 +62,17 @@ Yeah, exactly.
 
 </figure>
 
-Arturo Fernandez:
+**AF:** Why _Amadigi_ in particular? I don't really know _Amadigi_ super well.
 
-Why Amadigi in particular? I don't really know Amadigi super well.
+**LM:** No one else does either.
 
-Louisa Muller:
+**AF:** So, that's probably the main thing.
 
-No one else does either.
+**LM:** Yeah. Martin Pearlman and I were talking about why has it not been done more? And we haven't really come up with a satisfactory answer because it's actually a real jewel of a piece. It has one aria that most people have heard, but besides that, it has lots of other really wonderful set pieces and it's just four singers. I mean, it feels eminently practical for sort of the moment that we're in with lit different spaces, and coming out of a big opera house.
 
-Arturo Fernandez:
+**AF:** They probably still do a million _da capo_ arias.
 
-So, that's probably the main thing.
-
-Louisa Muller:
-
-Yeah. Martin Pearlman and I were talking about why has it not been done more? And we haven't really
-
-come up with a satisfactory answer because it's actually a real jewel of a piece. It has one aria that most
-
-people have heard, but besides that, it has lots of other really wonderful set pieces and it's just four
-
-singers. I mean, it feels eminently practical for sort of the moment that we're in with lit different spaces,
-
-and coming out of a big opera house.
-
-Arturo Fernandez:
-
-They probably still do a million da capo arias.
-
-Louisa Muller:
-
-Well, of course! We wouldn't want to disappoint. And some really great ones, you know?
+**LM:** Well, of course! We wouldn't want to disappoint. And some really great ones, you know?
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
@@ -140,51 +80,17 @@ Well, of course! We wouldn't want to disappoint. And some really great ones, you
 
 </figure>
 
-Arturo Fernandez:
+**AF:** How do you cater a production to be able to be livestreamed while also keeping in mind a live audience?
 
-How do you cater a production to be able to be livestreamed while also keeping in mind a live audience?
+**LM:** I think some of the trick is in how we light it or how we prepare the space, but I am really firmly of the belief actually that a good opera performance of real dramatic commitment for the singers will work on a close-up and will work in a huge house. I really don't subscribe to the idea that you have to have an entirely different style of movement or acting for a screen. So I think the way we've prepared it is really how I would prepare something with-
 
-Louisa Muller:
+**AF:** Literally with anything else.
 
-I think some of the trick is in how we light it or how we prepare the space, but I am really firmly of the
+**LM:** Yeah, absolutely. Just really making sure that we are clear about the story that we're telling and we're clear about what each individual moment means and yeah.
 
-belief actually that a good opera performance of real dramatic commitment for the singers will work on
+**AF:** And with Handel, I mentioned before with the abundance of _da capo_ arias, but I imagine keeping that in mind is even more critical because it can be really hard to sort of direct Baroque opera because of that particular idiosyncrasy of the style and the time.
 
-a close-up and will work in a huge house. I really don't subscribe to the idea that you have to have an
-
-entirely different style of movement or acting for a screen. So I think the way we've prepared it is really
-
-how I would prepare something with-
-
-Arturo Fernandez:
-
-Literally with anything else.
-
-Louisa Muller:
-
-Yeah, absolutely. Just really making sure that we are clear about the story that we're telling and we're
-
-clear about what each individual moment means and yeah.
-
-Arturo Fernandez:
-
-And with Handel, I mentioned before with the abundance of da capo arias, but I imagine keeping that in
-
-mind is even more critical because it can be really hard to sort of direct Baroque opera because of that
-
-particular idiosyncrasy of the style and the time.
-
-Louisa Muller:
-
-It's interesting because this is my first Handel opera. Certainly, I've seen plenty of Handel stagings that
-
-have a ton of business and that that's how you sort of fill every moment, and that's how you get through
-
-the da capo arias. I think the way that I've approached it has been a little bit more of thinking about time
-
-expanding and thinking about the things that happen, not happening in real time, so that we take and
-
-use da capo arias, we just take a real dive into people's emotional states.
+**LM:** It's interesting because this is my first Handel opera. Certainly, I've seen plenty of Handel stagings that have a ton of business and that that's how you sort of fill every moment, and that's how you get through the _da capo_ arias. I think the way that I've approached it has been a little bit more of thinking about time expanding and thinking about the things that happen, not happening in real time, so that we take and use da capo arias, we just take a real dive into people's emotional states.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
@@ -192,28 +98,10 @@ use da capo arias, we just take a real dive into people's emotional states.
 
 </figure>
 
-Arturo Fernandez:
+**AF:** Is this your first Baroque opera you've been directing or not?
 
-Is this your first Baroque opera you've been directing or not?
+**LM:** I guess it is. I mean, I've done chunks of things.
 
-Louisa Muller:
+**AF:** Never an entire production?
 
-I guess it is. I mean, I've done chunks of things.
-
-Arturo Fernandez:
-
-Never an entire production?
-
-Louisa Muller:
-
-No. But it's something I've always wanted to do because I think there's something in the flip side of it
-
-being maybe sort of daunting to direct an opera like this. I think it's also really writing for a director
-
-because there's nothing prescriptive about it. So much of the storytelling is these sort of universal themes and I feel like you can really shape the narrative. It's much different than sort of something
-
-where it says exactly in the libretto exactly, which props that they're using and whatever. And so if you
-
-decide to not do that, you're making a real choice to sort of go against it. In this case, I think it's left so
-
-open, and that's exciting for a director.
+**LM:** No. But it's something I've always wanted to do because I think there's something in the flip side of it being maybe sort of daunting to direct an opera like this. I think it's also really writing for a director because there's nothing prescriptive about it. So much of the storytelling is these sort of universal themes and I feel like you can really shape the narrative. It's much different than sort of something where it says exactly in the libretto exactly, which props that they're using and whatever. And so if you decide to not do that, you're making a real choice to sort of go against it. In this case, I think it's left so open, and that's exciting for a director.
