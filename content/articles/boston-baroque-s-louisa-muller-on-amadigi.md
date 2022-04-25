@@ -1,0 +1,255 @@
++++
+author = ["authors/arturo-fernandez.md"]
+categories = "Interview"
+date = 2022-04-25T04:00:00Z
+disclaimer = ""
+draft = true
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = ""
+primary_image_credit = ""
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "short"
+slug = "boston-baroques-louisa-muller-on-amadigi"
+title = "Boston Baroque's Louisa Muller on Amadigi"
+youtube_url = ""
+
++++
+Arturo Fernandez:
+
+How many projector screens is that \[in the space\]?
+
+Louisa Muller:
+
+Let&#39;s see. Oh, it&#39;s a good question. So there&#39;s six in the back and then five on the sides and then we&#39;re
+
+still sorting out exactly what&#39;s happening across the front \[of the stage\]. I think those ones are all
+
+moving up to where that one is, but then and also it will just be the level of the stage.
+
+Arturo Fernandez:
+
+So how do you produce a magic opera in a space like this?
+
+Louisa Muller:
+
+Well, video is a large part of it. I mean, there&#39;s sort of two sides of it. One is that I think this opera,
+
+although it is a magic opera, that the magic isn&#39;t the central focus of it. It feels like the magic is always
+
+sort of really in support of story or sort of emotionally driven, so rather than making it about sort of
+
+special effects or about stage machinery, there&#39;s something that&#39;s really wonderful about creating this
+
+immersive world, which when all the lights are out and the video screens are really on, it feels like you&#39;re
+
+sort of in it. And then I think that aspect of the sort of emotional drive of the magic then makes more
+
+sense.
+
+Arturo Fernandez:
+
+Yeah. So the immersive side of it is more like you sort of just plunge the audience into it. You&#39;re not
+
+really thinking of it as, &quot;Oh, the singers are within the audience”.
+
+Louisa Muller:
+
+No. I think the thing that&#39;s special about is there&#39;s nothing in between the audience and the
+
+performance itself.
+
+Arturo Fernandez:
+
+I also imagine that with a room like this, once the overhead lights go out, it&#39;s going to get pretty dark.
+
+Louisa Muller:
+
+Yeah, absolutely. Today was one of the first days that we had all the lights on. You can really feel like it&#39;s
+
+sort of focused in on the stage.
+
+Arturo Fernandez:
+
+And also, it looks like it&#39;s going to be pretty close to the action.
+
+Louisa Muller:
+
+Yeah, really close.
+
+Arturo Fernandez:
+
+So I see that you&#39;ve sort of created a kind of proscenium here, but I know that this is technically a
+
+recording studio for broadcast, right?
+
+This transcript was exported on Apr 15, 2022 - view latest version here.
+
+Amadigi Interview (Completed 04/15/22)
+
+Transcript by Rev.com
+
+Page 2 of 2
+
+Louisa Muller:
+
+Yeah. Television studio.
+
+Arturo Fernandez:
+
+How do you pull that together in a space like this and what are some considerations that you have to do
+
+for sound and staging and all that?
+
+Louisa Muller:
+
+Well, we&#39;re lucky because we&#39;re coming at the end of Boston Baroque&#39;s whole season that has been in
+
+this space and so everyone&#39;s become really an expert on how to use this space, which is amazing. I think
+
+the sound is a very special thing and we have a great sound engineer to help us with that. But also, I
+
+mean, there&#39;s capabilities that this space has. It already has this whole lighting grid with so many
+
+instruments in it already in place. It has the capability of closing off with the black curtains. It already has
+
+sort of a lot of benefits. A lot of things that are built into the space and then we sorted out how we were
+
+using it. They&#39;ve been having some version of this stage for all their concerts that they have, but we&#39;ve
+
+expanded it quite a bit and added space all around the orchestra.
+
+Arturo Fernandez:
+
+I imagine that would help a lot with people just trying to move around \[the orchestra\] if it actually calls
+
+for it.
+
+Louisa Muller:
+
+Yeah, exactly.
+
+Arturo Fernandez:
+
+Why Amadigi in particular? I don&#39;t really know Amadigi super well.
+
+Louisa Muller:
+
+No one else does either.
+
+Arturo Fernandez:
+
+So, that&#39;s probably the main thing.
+
+Louisa Muller:
+
+Yeah. Martin Pearlman and I were talking about why has it not been done more? And we haven&#39;t really
+
+come up with a satisfactory answer because it&#39;s actually a real jewel of a piece. It has one aria that most
+
+people have heard, but besides that, it has lots of other really wonderful set pieces and it&#39;s just four
+
+singers. I mean, it feels eminently practical for sort of the moment that we&#39;re in with lit different spaces,
+
+and coming out of a big opera house.
+
+Arturo Fernandez:
+
+They probably still do a million da capo arias.
+
+Louisa Muller:
+
+This transcript was exported on Apr 15, 2022 - view latest version here.
+
+Amadigi Interview (Completed 04/15/22)
+
+Transcript by Rev.com
+
+Page 3 of 2
+
+Well, of course! We wouldn&#39;t want to disappoint. And some really great ones, you know?
+
+Arturo Fernandez:
+
+How do you cater a production to be able to be livestreamed while also keeping in mind a live audience?
+
+Louisa Muller:
+
+I think some of the trick is in how we light it or how we prepare the space, but I am really firmly of the
+
+belief actually that a good opera performance of real dramatic commitment for the singers will work on
+
+a close-up and will work in a huge house. I really don&#39;t subscribe to the idea that you have to have an
+
+entirely different style of movement or acting for a screen. So I think the way we&#39;ve prepared it is really
+
+how I would prepare something with-
+
+Arturo Fernandez:
+
+Literally with anything else.
+
+Louisa Muller:
+
+Yeah, absolutely. Just really making sure that we are clear about the story that we&#39;re telling and we&#39;re
+
+clear about what each individual moment means and yeah.
+
+Arturo Fernandez:
+
+And with Handel, I mentioned before with the abundance of da capo arias, but I imagine keeping that in
+
+mind is even more critical because it can be really hard to sort of direct Baroque opera because of that
+
+particular idiosyncrasy of the style and the time.
+
+Louisa Muller:
+
+It&#39;s interesting because this is my first Handel opera. Certainly, I&#39;ve seen plenty of Handel stagings that
+
+have a ton of business and that that&#39;s how you sort of fill every moment, and that&#39;s how you get through
+
+the da capo arias. I think the way that I&#39;ve approached it has been a little bit more of thinking about time
+
+expanding and thinking about the things that happen, not happening in real time, so that we take and
+
+use da capo arias, we just take a real dive into people&#39;s emotional states.
+
+Arturo Fernandez:
+
+Is this your first Baroque opera you&#39;ve been directing or not?
+
+Louisa Muller:
+
+I guess it is. I mean, I&#39;ve done chunks of things.
+
+Arturo Fernandez:
+
+Never an entire production?
+
+Louisa Muller:
+
+No. But it&#39;s something I&#39;ve always wanted to do because I think there&#39;s something in the flip side of it
+
+being maybe sort of daunting to direct an opera like this. I think it&#39;s also really writing for a director
+
+because there&#39;s nothing prescriptive about it. So much of the storytelling is these sort of universal
+
+This transcript was exported on Apr 15, 2022 - view latest version here.
+
+Amadigi Interview (Completed 04/15/22)
+
+Transcript by Rev.com
+
+Page 4 of 2
+
+themes and I feel like you can really shape the narrative. It&#39;s much different than sort of something
+
+where it says exactly in the libretto exactly, which props that they&#39;re using and whatever. And so if you
+
+decide to not do that, you&#39;re making a real choice to sort of go against it. In this case, I think it&#39;s left so
+
+open, and that&#39;s exciting for a director.
