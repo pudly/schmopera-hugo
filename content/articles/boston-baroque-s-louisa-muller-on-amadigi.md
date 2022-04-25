@@ -26,7 +26,13 @@ youtube_url = ""
 
 **LM:** Well, video is a large part of it. I mean, there's sort of two sides of it. One is that I think this opera, although it is a magic opera, that the magic isn't the central focus of it. It feels like the magic is always sort of really in support of story or sort of emotionally driven, so rather than making it about sort of special effects or about stage machinery, there's something that's really wonderful about creating this immersive world, which when all the lights are out and the video screens are really on, it feels like you're sort of in it. And then I think that aspect of the sort of emotional drive of the magic then makes more sense.
 
-**AF:** Yeah. So the immersive side of it is more like you sort of just plunge the audience into it. You're not really thinking of it as, "Oh, the singers are within the audience”.
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> Photo: Charles Butler for GBH.</figcaption>
+
+</figure>
+
+**AF:** Yeah. So the immersive side of it is more like you sort of just plunge the audience into it. You're not really thinking of it as, "Oh, the singers are within the audience".
 
 **LM:** No. I think the thing that's special about is there's nothing in between the audience and the performance itself.
 
@@ -100,6 +106,12 @@ Louisa Muller:
 
 Yeah, exactly.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> Photo: Charles Butler for GBH.</figcaption>
+
+</figure>
+
 Arturo Fernandez:
 
 Why Amadigi in particular? I don't really know Amadigi super well.
@@ -130,15 +142,13 @@ They probably still do a million da capo arias.
 
 Louisa Muller:
 
-This transcript was exported on Apr 15, 2022 - view latest version here.
-
-Amadigi Interview (Completed 04/15/22)
-
-Transcript by Rev.com
-
-Page 3 of 2
-
 Well, of course! We wouldn't want to disappoint. And some really great ones, you know?
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> Photo: Charles Butler for GBH.</figcaption>
+
+</figure>
 
 Arturo Fernandez:
 
@@ -186,6 +196,12 @@ expanding and thinking about the things that happen, not happening in real time,
 
 use da capo arias, we just take a real dive into people's emotional states.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> Photo: Charles Butler for GBH.</figcaption>
+
+</figure>
+
 Arturo Fernandez:
 
 Is this your first Baroque opera you've been directing or not?
@@ -204,17 +220,7 @@ No. But it's something I've always wanted to do because I think there's somethin
 
 being maybe sort of daunting to direct an opera like this. I think it's also really writing for a director
 
-because there's nothing prescriptive about it. So much of the storytelling is these sort of universal
-
-This transcript was exported on Apr 15, 2022 - view latest version here.
-
-Amadigi Interview (Completed 04/15/22)
-
-Transcript by Rev.com
-
-Page 4 of 2
-
-themes and I feel like you can really shape the narrative. It's much different than sort of something
+because there's nothing prescriptive about it. So much of the storytelling is these sort of universal themes and I feel like you can really shape the narrative. It's much different than sort of something
 
 where it says exactly in the libretto exactly, which props that they're using and whatever. And so if you
 
