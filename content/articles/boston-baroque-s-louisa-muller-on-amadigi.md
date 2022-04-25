@@ -6,7 +6,7 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
-preamble = "As Boston Baroque geared up for its recent star-studded run of Handel's [_Amadigi di Gaula_](https://baroque.boston/handel-amadigi-di-gaula-2022), contributor Arturo Fernandez sat down with director Louisa Muller. xxxxxxx"
+preamble = "As Boston Baroque geared up for its recent star-studded run of Handel's [_Amadigi di Gaula_](https://baroque.boston/handel-amadigi-di-gaula-2022), featuring Anthony Roth Costanzo and Daniela Mack, contributor Arturo Fernandez sat down with director Louisa Muller. xxxxxxx"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1650894886/media/2022/04/sq_BostonBaroque_a40dmk.jpg"
 primary_image_credit = "Boston Baroque in rehearsal for Amadigi, 2022. Photo: Charles Butler for GBH."
 related_articles = []
@@ -26,9 +26,9 @@ youtube_url = ""
 
 **LM:** Well, video is a large part of it. I mean, there's sort of two sides of it. One is that I think this opera, although it is a magic opera, that the magic isn't the central focus of it. It feels like the magic is always sort of really in support of story or sort of emotionally driven, so rather than making it about sort of special effects or about stage machinery, there's something that's really wonderful about creating this immersive world, which when all the lights are out and the video screens are really on, it feels like you're sort of in it. And then I think that aspect of the sort of emotional drive of the magic then makes more sense.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650896483/media/2022/04/BostonBaroque_StageDirectorLouisaMuller_aigdz8.jpg){{% /md %}}
 
-<figcaption> Photo: Charles Butler for GBH.</figcaption>
+<figcaption>Stage Director Louisa Muller, in rehearsal for Boston Baroque's Amadigi di Gaula, 2022. Photo: Charles Butler for GBH.</figcaption>
 
 </figure>
 
@@ -56,9 +56,9 @@ youtube_url = ""
 
 **LM:** Yeah, exactly.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650896518/media/2022/04/BostonBaroque_MusicDirectorMartinPearlman_ectm0e.jpg){{% /md %}}
 
-<figcaption> Photo: Charles Butler for GBH.</figcaption>
+<figcaption>Boston Baroque Music Director Martin Pearlman in rehearsal for Amadigi di Gaula, 2022. Photo: Charles Butler for GBH.</figcaption>
 
 </figure>
 
@@ -74,9 +74,9 @@ youtube_url = ""
 
 **LM:** Well, of course! We wouldn't want to disappoint. And some really great ones, you know?
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650896648/media/2022/04/BostonBaroque_DanielaMack_veft8e.jpg){{% /md %}}
 
-<figcaption> Photo: Charles Butler for GBH.</figcaption>
+<figcaption>Mezzo-soprano Daniela Mack in rehearsal for Boston Baroque's Amadigi di Gaula, 2022. Photo: Charles Butler for GBH.</figcaption>
 
 </figure>
 
@@ -92,9 +92,9 @@ youtube_url = ""
 
 **LM:** It's interesting because this is my first Handel opera. Certainly, I've seen plenty of Handel stagings that have a ton of business and that that's how you sort of fill every moment, and that's how you get through the _da capo_ arias. I think the way that I've approached it has been a little bit more of thinking about time expanding and thinking about the things that happen, not happening in real time, so that we take and use da capo arias, we just take a real dive into people's emotional states.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650896756/media/2022/04/BostonBaroque_AmandaForsythe_ydkatl.jpg){{% /md %}}
 
-<figcaption> Photo: Charles Butler for GBH.</figcaption>
+<figcaption>Soprano Amanda Forsythe in rehearsal for Boston Baroque's Amadigi di Gaula, 2022. Photo: Charles Butler for GBH.</figcaption>
 
 </figure>
 
