@@ -1,7 +1,7 @@
 +++
 author = ["authors/melissa-ratcliff.md"]
 categories = "Review"
-date = 2022-04-25T04:00:00Z
+date = 2022-04-26T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = ""
@@ -9,15 +9,15 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1650993862/media/2022/04/sqPOV_DG_139A3164_bmve1o.jpg"
 primary_image_credit = "Daniel Okulitch as Don Giovanni. Set & Costume Designer Christina Poddubiuk, Lighting Designer Bonnie Beecher. Photo by Tim Matheson. Pacific Opera Victoria, 2022."
 related_articles = []
-related_companies = []
-related_people = ["scene/people/cecile-muhire.md", "scene/people/owen-mccausland.md", "scene/people/daniel-okulitch.md", "scene/people/aviva-fortunata.md"]
+related_companies = ["scene/companies/pacific-opera-victoria.md"]
+related_people = ["scene/people/justin-welsh.md", "scene/people/tracy-cantin.md", "scene/people/cecile-muhire.md", "scene/people/owen-mccausland.md", "scene/people/daniel-okulitch.md", "scene/people/aviva-fortunata.md"]
 short_description = "The standout of the evening was Justin Welsh as Leporello. With comedic timing second to none, Welsh’s Leporello was long-suffering, but wily, and every scene he was in was hilarious with so much physical comedy it brought the house down."
 slug = "the-ensemble-from-heaven-sends-don-giovanni-to-hell"
 title = "The ensemble from heaven sends Don Giovanni to hell"
 youtube_url = ""
 
 +++
-In the first live production that Pacific Opera Victoria has staged since the COVID outbreak, their oft-thwarted _Don Giovanni_ opens this (mid) season of 2022. While the production was originally cast with baritone [Lucia Lucas](https://www.lucialucas.com/) in the title role, she was replaced at the last minute. No statement from the company has been released as of the date of printing.
+In the first live production that Pacific Opera Victoria has staged since the COVID outbreak, their oft-thwarted [_Don Giovanni_](https://pacificopera.ca/event/don-giovanni/) opens this (mid) season of 2022. While the production was originally cast with baritone [Lucia Lucas](https://www.lucialucas.com/) in the title role, she was replaced at the last minute. No statement from the company has been released as of the date of printing.
 
 Nevertheless, the title role was filled by Canadian bass-baritone [Daniel Okulitch](/talking-with-singers-daniel-okulitch/), and he filled it absolutely masterfully. His personification of the womanizing, devil-may-care Don was confident and filled with swagger - as if he couldn't imagine a world in which he wouldn't get whatever he wanted. His seduction of the myriad women in the cast was bold and fearless, as was his facing his ultimate fate. In the curtain call, Okulitch was met with a chorus of cheerful boos for the philandering cad, and he happily gestured for more.
 
