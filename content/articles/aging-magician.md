@@ -1,11 +1,11 @@
 +++
 author = ["authors/eva-cahen.md"]
 categories = "Interview"
-date = 2020-03-04T05:00:00Z
+date = 2022-04-26T04:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = "The West Coast premiere of [_Aging Magician_](https://www.sdopera.org/season/2019-2020-season/aging-magician) runs at the Balboa Theatre in San Diego, March 13-15."
-preamble = ""
+postamble = "SDO's production of [_Aging Magician_](https://www.sdopera.org/season/2019-2020-season/aging-magician) runs at the Balboa Theatre in San Diego, May 13-14, 2022."
+preamble = "**Note to readers:** this interview was originally published in March, 2020, shortly before San Diego Opera's _Aging Magician_ (and most other things) was postponed. The production has returned as part of SDO's 2021-22 line-up, and it's set to run at the Balboa Theatre for three performances, May 13-14, 2022. Contributor Eva Cahen spoke with librettist Rinde Eckert back in 2020, and it's an interview that ages well:"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1583344153/media/2020/03/sqSDOAgingMagicianASU_0485_oexepf.jpg"
 primary_image_credit = "Aging Magician at ASU. Photo by Jill Steinberg."
 related_articles = ["articles/talking-with-singers-stephen-costello.md", "articles/8-contemporary-roles-to-covet.md"]
