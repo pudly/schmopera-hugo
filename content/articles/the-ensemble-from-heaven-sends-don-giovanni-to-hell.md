@@ -28,9 +28,9 @@ Nevertheless, the title role was filled by Canadian bass-baritone [Daniel Okulit
 
 Donna Anna and Don Ottavio were played by the brilliant soprano [Aviva Fortunata](/scene/people/aviva-fortunata/) and tenor [Owen McCausland](/scene/people/owen-mccausland/) respectively. This duo was so well-matched; an absolute powerhouse of a couple with Fortunata's soaring coloratura, and McCausland's bright, full tenor. Even in the larger ensembles, their voices shone.
 
-<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650994194/media/2022/04/POV_DG_139A3059_zvejju.jpg){{% /md %}}
+<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650997481/media/2022/04/POV_DG_139A3059_fzdorm.jpg){{% /md %}}
 
-<figcaption>Aviva Fortuna as Donna Anna with Daniel Okulitch as Don Giovanni in Pacific Opera’s new production of Mozart’s classic. Set & Costume Designer Christina Poddubiuk, Lighting Designer Bonnie Beecher. Photo by Tim Matheson. Pacific Opera Victoria, 2022.</figcaption>  
+<figcaption>Aviva Fortuna as Donna Anna with Daniel Okulitch as Don Giovanni in Pacific Opera's new production of Mozart’s classic. Set & Costume Designer Christina Poddubiuk, Lighting Designer Bonnie Beecher. Photo by Tim Matheson. Pacific Opera Victoria, 2022.</figcaption>  
 </figure>
 
 The luckless Donna Elvira was played by soprano [Tracy Cantin](/scene/people/tracy-cantin/). Rather than portraying Elvira as a desperate dupe, Cantin brought the gravitas of a traumatized survivor to the difficult role. With beautiful clarion high notes, her precise and effortless handling of "Mi tradì quell'alma ingrata" brought cheers from the audience.
