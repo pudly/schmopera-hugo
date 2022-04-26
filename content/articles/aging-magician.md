@@ -17,7 +17,7 @@ title = "Magic everywhere in SDO's Aging Magician"
 youtube_url = ""
 
 +++
-"Our lives are very large worlds within very small frames. If you delve into us, we’re all heroes in our own story," says Rinde Eckert, the librettist of [_Aging Magician_](https://www.sdopera.org/season/2019-2020-season/aging-magician), which will be performed as part of San Diego Opera's dētour series for three West Coast premiere performances March 13 and 14. Eckert is also the titular Magician of the opera, which traces the large-world life and journey of Harold, a clockmaker in New York, who is also writing a book about an aging magician that he wants to leave as a legacy. As the story unfolds, at times the lines become blurred between Harold and the magician.
+"Our lives are very large worlds within very small frames. If you delve into us, we’re all heroes in our own story," says Rinde Eckert, the librettist of [_Aging Magician_](https://www.sdopera.org/season/2021-2022-season/aging-magician), which will be performed as part of San Diego Opera's dētour series for three West Coast premiere performances May 13 and 14. Eckert is also the titular Magician of the opera, which traces the large-world life and journey of Harold, a clockmaker in New York, who is also writing a book about an aging magician that he wants to leave as a legacy. As the story unfolds, at times the lines become blurred between Harold and the magician.
 
 > "He's creating a whole world in his shop."
 
