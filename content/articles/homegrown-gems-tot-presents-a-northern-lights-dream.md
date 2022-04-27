@@ -25,7 +25,7 @@ Running at the St. Lawrence Centre's Jane Mallett Theatre on **May 5 and 6 at 8p
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651089298/media/2022/04/TOT_ANLD_collage_jtmqd5.jpg){{% /md %}}
 
-<figcaption>Clockwise from top left: Gregory Finney (Taylor), Lauren Pearle (Robin), stage director Guillermo Silva-Marin, and composer Michael Rose, for Toronto Operetta Theatre's world premiere production of A Northern Lights Dream, 2022.</figcaption>  
+<figcaption>Clockwise from top left: Gregory Finney (Taylor), Lauren Pearl (Robin), stage director Guillermo Silva-Marin, and composer Michael Rose, for Toronto Operetta Theatre's world premiere production of A Northern Lights Dream, 2022.</figcaption>  
 </figure>
 
 "We also meet Taylor, the fabulous, skilled, and proudly gay dressmaker who brings Helen's creations to life. The Aurora Borealis are very important to everyone in this little hamlet, but they hold a tragic yet endearing significance for TOT's first gay character. TOT's fabulous, skilled, and proudly gay favourite Gregory Finney (he/him) steps into these historic shoes."
