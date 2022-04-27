@@ -32,4 +32,6 @@ Running at the St. Lawrence Centre's Jane Mallett Theatre on **May 5 and 6 at 8p
 
 If you're a frequent reader of ours, you'll recognize that last name: [Greg Finney](/authors/greg/), Toronto-based baritone, ubiquitous comprimario, and Schmopera contributor, will make a way overdue return to the stage. In case you needed a final shove to catch this new work, do yourself a favour and see Finney live. He'll share the stage with another Canadian favourite, soprano [Lauren Pearl](/scene/people/lauren-pearl/), as the Puck-inspired fairy, Robin Goodfellow.
 
+_A Northern Lights Dream_ is staged by Latino director and TOT General Director Guillermo Silva-Marin.
+
 "Representation matters. New works matter. Canadian works matter. We are proud to have the honour and privilege to give space to these characters and voices - and relish the opportunity to do more in the future."
