@@ -21,7 +21,7 @@ Next month, a Canadian world premiere! Join Toronto Operetta Theatre for the lon
 
 Running at the St. Lawrence Centre's Jane Mallett Theatre on **May 5 and 6 at 8pm, and May 7 at 3pm**, _A Northern Lights Dream_ marks a significant shift for the Canadian presenters of light opera.
 
-"LGBTQ+ characters are rarely represented in the traditional repertoire TOT has presented in the past," the company says in a press release. "That changes here. Out and proud composer Michael Rose, has brought a fresh, new score and libretto for TOT to share with our audiences. Our story features the heavily fraught relationship of Helen - a designer in the small hamlet of Shakespeare, Ontario - discovering her closeted husband's secret; and how they come to terms with each other, their past, and their future."
+"LGBTQ+ characters are rarely represented in the traditional repertoire TOT has presented in the past," the company says in a press release. "That changes here. Out and proud composer Michael Rose has brought a fresh, new score and libretto for TOT to share with our audiences. Our story features the heavily fraught relationship of Helen - a designer in the small hamlet of Shakespeare, Ontario - discovering her closeted husband's secret; and how they come to terms with each other, their past, and their future."
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651089298/media/2022/04/TOT_ANLD_collage_jtmqd5.jpg){{% /md %}}
 
