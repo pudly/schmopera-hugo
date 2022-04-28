@@ -18,7 +18,7 @@ title = "Talking with drag queens: Rosé"
 youtube_url = ""
 
 +++
-Call it an excuse to binge _Drag Race_ if you must, but there’s undoubtedly common ground in the worlds of drag and opera. [Jamie Barton](https://www.schmopera.com/talking-with-singers-jamie-barton/) knows it. [Stephanie Blythe](https://blo.org/blythely/) knows it (and so does Blythely Oratonio). Even [Canada’s indie opera scene](https://operacanada.ca/drag-and-opera/) knows it. And the cool thing is that these two artforms — both very into gender-bending, exaggerated drama and mixing the visual with the musical — are influencing each other and making each other better.
+Call it an excuse to binge _Drag Race_ if you must, but there’s undoubtedly common ground in the worlds of drag and opera. [Jamie Barton](https://www.schmopera.com/talking-with-singers-jamie-barton/) knows it. [Blythely Oratonio](https://blo.org/blythely/) knows it. Even [Canada's indie opera scene](https://operacanada.ca/drag-and-opera/) knows it. And the cool thing is that these two artforms — both very into gender-bending, exaggerated drama and mixing the visual with the musical — are influencing each other and making each other better.
 
 Living smack in the middle of that Venn diagram where opera intersects with the art of drag is [Rosé](https://omgheyrose.com/), the Scottish-born queen best known for being a finalist in season 13 of _RuPaul’s Drag Race_. She’s one-third of Stephanie’s Child, the group of singing drag queens that also includes [Lagoona Bloo](https://www.lagoonabloo.com/) and [Jan Sport](https://twitter.com/janjanjan) — meaning Rosé doesn’t just lip sync, but she real-life sings.
 
