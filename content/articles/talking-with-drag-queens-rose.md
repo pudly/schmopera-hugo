@@ -5,7 +5,7 @@ date = 2022-04-28T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "For tour dates, merch, and more, head to Rosé's website at [omgheyrose.com](https://omgheyrose.com/)."
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
@@ -76,4 +76,8 @@ So, I asked Rosé about meeting RuPaul Charles on the first day of filming _Drag
 
 But it was actually her latest brush with celebrity that most impressed Rosé, while filming an upcoming episode of _iCarly_, directed by Melissa Joan Hart. "I couldn't believe it," she recalls. "I was like, 'Holy shit, like Sabrina, the fucking Teenage Witch is like, like directing me in this camp show and I'm in drag, this is so crazy!" 
 
-And she loves the show, loves and loves us and was just so you know, that's obviously an actress, a person who are you know, as a viewer in the 90s like we we kind of saw grow up and we really feel like we know those people. And and obviously, you know, she's so lovable but in person she you know, now a little more mature. She was so so kind and so simple and and exactly how you know, she reads you know, on screen and I'd love to chat between takes and was just so much fun. And genuinely was just so happy to be there directing. So it was that was like a really cool experience and also like kind of nice to see to see somebody who I've admired and watched for years do something that they're not necessarily known for and kind of just, you know, kind of thinking in my own life like, Hmm, okay, so like, I wonder where my career can take me. 
+And once she got over the craziness, she did that thing that opera singers do when they settle into the idea of working with those they look up to: they learn from them.
+
+"That was a really cool experience, and also kind if nice to see somebody who I've admired and watched for years do something that they're not necessarily known for," Rosé says of Hart in the director's chair. "Kind of thinking in my own life like, 'Hmm, I wonder where my career can take me in the future.'"
+
+Though she's currently _Werqing_ her way around Europe and keeping her hustle alive, the only future I'm craving from Rosé is for her to bring that Bartoli lip sync to Canada. Please?
