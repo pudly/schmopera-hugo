@@ -18,19 +18,19 @@ title = "Talking with drag queens: Rosé"
 youtube_url = ""
 
 +++
-Call it an excuse to binge _Drag Race_ if you must, but there’s undoubtedly common ground in the worlds of drag and opera. [Jamie Barton](https://www.schmopera.com/talking-with-singers-jamie-barton/) knows it. [Blythely Oratonio](https://blo.org/blythely/) knows it. Even [Canada's indie opera scene](https://operacanada.ca/drag-and-opera/) knows it. And the cool thing is that these two artforms — both very into gender-bending, exaggerated drama and mixing the visual with the musical — are influencing each other and making each other better.
+Call it an excuse to binge _Drag Race_ if you must, but there's undoubtedly common ground in the worlds of drag and opera. [Jamie Barton](https://www.schmopera.com/talking-with-singers-jamie-barton/) knows it. [Blythely Oratonio](https://blo.org/blythely/) knows it. Even [Canada's indie opera scene](https://operacanada.ca/drag-and-opera/) knows it. And the cool thing is that these two artforms — both very into gender-bending, exaggerated drama and mixing the visual with the musical — are influencing each other and making each other better.
 
-Living smack in the middle of that Venn diagram where opera intersects with the art of drag is [Rosé](https://omgheyrose.com/), the Scottish-born queen best known for being a finalist in season 13 of _RuPaul’s Drag Race_. She’s one-third of Stephanie’s Child, the group of singing drag queens that also includes [Lagoona Bloo](https://www.lagoonabloo.com/) and [Jan Sport](https://twitter.com/janjanjan) — meaning Rosé doesn’t just lip sync, but she real-life sings.
+Living smack in the middle of that Venn diagram where opera intersects with the art of drag is [Rosé](https://omgheyrose.com/), the Scottish-born queen best known for being a finalist in season thirteen of _RuPaul’s Drag Race_. She's one-third of Stephanie's Child, the group of singing drag queens that also includes [Lagoona Bloo](https://www.lagoonabloo.com/) and [Jan Sport](https://twitter.com/janjanjan) — meaning Rosé doesn't just lip sync, but she real-life sings.
 
 For anyone with even a whiff of a theatre-kid background, watching Rosé kill it on that show made perfect sense: she showed up _ready_.
 
-“I've always been someone who is really into the study and preparation of a performance,” Rosé says in a phone call from Copenhagen, where she was between rehearsals for the [_RuPaul’s Drag Race Werq the World_](https://omgheyrose.com/#tour) tour. “I really liked to have everything so set and exhaust all of the control that I actually have over my body and my capabilities so that when the moment comes to actually perform it, I can truly let go and trust.”
+"I've always been someone who is really into the study and preparation of a performance," Rosé says in a phone call from Copenhagen, between rehearsals for the [_RuPaul’s Drag Race Werq the World_](https://omgheyrose.com/#tour) tour. "I really liked to have everything so set and exhaust all of the control that I actually have over my body and my capabilities so that when the moment comes to actually perform it, I can truly let go and trust."
 
-I remember spotting it early on, watching Rosé’s season of the show: she was the sort of queen who practiced technique, in the same way that opera singers do. They think, rehearse, repeat - and then onstage, they trust the preparation.
+I remember spotting it early on, watching Rosé's season of the show: she was the sort of queen who practiced technique, in the same way that opera singers do. They think, rehearse, repeat; and then onstage, they trust the preparation.
 
-Though she’s not the one who takes a technical approach to her art, Rosé is rare among working drag queens. “There's a lot of us now to be honest, but it's more uncommon to have someone who takes the process strategically and seriously as I still do.”
+Though she’s not the one who takes a technical approach to her art, Rosé is rare among working drag queens. "There's a lot of us now to be honest, but it's more uncommon to have someone who takes the process strategically and seriously as I still do."
 
-In her sixth year of doing drag, Rosé comes from a “dense education” in the performing arts. She attended Wichita State University — the same place that gave us Alan Held and Joyce DiDonato — with the intent to become an operatic tenor. (If you want to hear some of that great tenor sound, check out [“The Devil in the Details”](https://www.youtube.com/watch?v=vtFjN6x7aTc).)
+In her sixth year of doing drag, Rosé comes from a "dense education" in the performing arts. She attended Wichita State University — the same place that gave us Alan Held and Joyce DiDonato — with the intent to become an operatic tenor. (If you want to hear some of that great tenor sound, check out ["The Devil in the Details"](https://www.youtube.com/watch?v=vtFjN6x7aTc).)
 
 “I think what always attracted me to opera was first of all the drama, how dramatic everything is,” says Rosé. “It's so exciting to be in the room with voices that can carry that way.”
 
