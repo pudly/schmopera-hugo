@@ -67,3 +67,13 @@ Authenticity plus great technique has always been a winning combination onstage,
 At the beginning of Rosé, "the joke was that she was really rough around the edges," she says with a smile. "It really brought me a lot of joy to throw that stuff onstage and feed that to people for once."
 
 Drag marked an unfamiliar foray into imperfection for Rosé, but she took it as a challenge to bring her look up to the level of her onstage skills. "For me, when I started drag, the main challenge and still what I work on the most," she says, "is my aesthetic and my appearance, because it's obviously such a huge part of the art form."
+
+When I was debating whether or not to ask Rosé about RuPaul, I considered another connection between drag and opera: getting to work with one's idols. For an up-and-coming queen, the chance to work alongside someone like RuPaul Charles is akin to the young opera singer who gets to be Annina to Renée Fleming's Violetta, or Cassio to Pavarotti's Otello. 
+
+So, I asked Rosé about meeting RuPaul Charles on the first day of filming _Drag Race_.
+
+"RuPaul was there in full drag and it was completely shocking and _appalling_ how amazing she really looks in person!" Rosé laughs, before adding with a bit of venom, "Like, _so beautiful_."
+
+But it was actually her latest brush with celebrity that most impressed Rosé, while filming an upcoming episode of _iCarly_, directed by Melissa Joan Hart. 
+
+and I couldn't believe it sounds like holy shit. Like Sabrina, the Teenage Witch is like, like directing me in this like camp show and I'm like it drives us so crazy. And she loves the show, loves and loves us and was just so you know, that's obviously an actress, a person who are you know, as a viewer in the 90s like we we kind of saw grow up and we really feel like we know those people. And and obviously, you know, she's so lovable but in person she you know, now a little more mature. She was so so kind and so simple and and exactly how you know, she reads you know, on screen and I'd love to chat between takes and was just so much fun. And genuinely was just so happy to be there directing. So it was that was like a really cool experience and also like kind of nice to see to see somebody who I've admired and watched for years do something that they're not necessarily known for and kind of just, you know, kind of thinking in my own life like, Hmm, okay, so like, I wonder where my career can take me. 
