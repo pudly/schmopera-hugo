@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = 2022-04-28T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "For tour dates, merch, and more, head to Rosé's website at [omgheyrose.com](https://omgheyrose.com/)."
 preamble = ""
@@ -20,7 +19,7 @@ youtube_url = ""
 +++
 Call it an excuse to binge _Drag Race_ if you must, but there's undoubtedly common ground in the worlds of drag and opera. [Jamie Barton](https://www.schmopera.com/talking-with-singers-jamie-barton/) knows it. [Blythely Oratonio](https://blo.org/blythely/) knows it. Even [Canada's indie opera scene](https://operacanada.ca/drag-and-opera/) knows it. And the cool thing is that these two artforms — both very into gender-bending, exaggerated drama and mixing the visual with the musical — are influencing each other and making each other better.
 
-Living smack in the middle of that Venn diagram where opera intersects with the art of drag is [Rosé](https://omgheyrose.com/), the Scottish-born queen best known for being a finalist in season thirteen of _RuPaul’s Drag Race_. She has appeared on _The Voice_ and _America's Got Talent_, and she's one-third of [Stephanie's Child](https://www.instagram.com/stephanieschild/?hl=en), the drag queen girl group that also includes [Lagoona Bloo](https://www.lagoonabloo.com/) and [Jan Sport](https://twitter.com/janjanjan) — meaning Rosé doesn't just lip sync, but she real-life sings.
+Living smack in the middle of that Venn diagram where opera intersects with the art of drag is [Rosé](https://omgheyrose.com/), the Scottish-born queen best known for being a finalist in season thirteen of _RuPaul’s Drag Race_. She has appeared on _The Voice_ and _America's Got Talent_, and she's one-third of the drag queen girl group [Stephanie's Child](https://www.instagram.com/stephanieschild/?hl=en), alongside [Lagoona Bloo](https://www.lagoonabloo.com/) and [Jan Sport](https://twitter.com/janjanjan) — meaning Rosé doesn't just lip sync, but she real-life sings.
 
 For anyone with even a whiff of a theatre-kid background, watching Rosé kill it on that show made perfect sense: she showed up _ready_.
 
