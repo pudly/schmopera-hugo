@@ -8,7 +8,7 @@ image_gallery = []
 postamble = "For tour dates, merch, and more, head to Rosé's website at [omgheyrose.com](https://omgheyrose.com/)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1651345081/media/2022/04/sqRose_1_1_drlzmg.jpg"
-primary_image_credit = ""
+primary_image_credit = "Photo courtesy of Voss Events."
 related_articles = ["articles/talking-with-singers-jamie-barton.md", "articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md"]
 related_companies = []
 related_people = []
@@ -28,7 +28,7 @@ For anyone with even a whiff of a theatre-kid background, watching Rosé kill it
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345238/media/2022/04/Rose_pinkcar_1_nnsrld.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Photo courtesy of Voss Events.</figcaption>  
 </figure>
 
 I remember spotting it early on, watching Rosé's season of the show: she was the sort of queen who practiced technique, in the same way that opera singers do. They think, rehearse, repeat; and then onstage, they trust the preparation.
@@ -49,7 +49,7 @@ What does spark her joy, though, is paying homage to opera with that great perfo
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345264/media/2022/04/Rose_bw_2_3_eaitkp.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Photo courtesy of Voss Events.</figcaption>  
 </figure>
 
 I've always thought that the lip sync was a fascinating mode of expression. It's weird, because in one sense there's very little that's original about a lip-sync performance: it’s someone else's song and someone else's voice. But seeing an excellent lip-sync performance is like a lesson in something that any great opera singer is constantly chasing: precision, and subtext for days.
@@ -58,7 +58,7 @@ I've always thought that the lip sync was a fascinating mode of expression. It's
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345365/media/2022/04/Rose_red_1_62_tmjgu2.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Photo courtesy of Voss Events.</figcaption>  
 </figure>
 
 I asked Rosé who she loved lip syncing to best, and the answer is perfect: Barbra Streisand. "There's something about Barbra," she says in the understatement of the century. "Her voice is one of the most emotive voices I think we've ever had."
@@ -79,7 +79,7 @@ So I find it beautiful and surprising that, despite her technical approach to he
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345280/media/2022/04/Rose_suit_DSC01163-6_dfjvxy.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Photo courtesy of Voss Events.</figcaption>  
 </figure>
 
 Rather than being a product of traditional character analysis, Rosé was organic, "kind of like unleashing an explosion of all of the things that I had suppressed: a lot of femininity, a lot of profanity, a lot of stuff that makes me feel more myself."
@@ -106,9 +106,9 @@ And once she got over the craziness, she did that thing that opera singers do wh
 
 "That was a really cool experience, and also kind if nice to see somebody who I've admired and watched for years do something that they're not necessarily known for," Rosé says of Hart in the director's chair. "Kind of thinking in my own life like, 'Hmm, I wonder where my career can take me in the future.'"
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345567/media/2022/04/Rose_Mary_1_47_ysly8a.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Rosé as Mary, Queen of Scots. Photo courtesy of Voss Events.</figcaption>  
 </figure>
 
 Though she's currently _Werqing_ her way around Europe and keeping her hustle alive, the only future I'm craving from Rosé is for her to bring that Bartoli lip sync to Canada. Please?
