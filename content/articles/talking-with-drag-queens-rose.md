@@ -3,6 +3,7 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = 2022-05-02T04:00:00Z
 disclaimer = ""
+draft = true
 image_gallery = []
 postamble = "For tour dates, merch, and more, head to Rosé's website at [omgheyrose.com](https://omgheyrose.com/)."
 preamble = ""
@@ -35,6 +36,8 @@ I remember spotting it early on, watching Rosé's season of the show: she was th
 Though she's not the only one who takes a technical approach to her art, Rosé is rare among working drag queens. "There's a lot of us now to be honest, but it's more uncommon to have someone who takes the process strategically and seriously as I still do."
 
 In her sixth year of doing drag, Rosé comes from a "dense education" in the performing arts. She attended Wichita State University — the same place that gave us Alan Held and Joyce DiDonato — with the intent to become an operatic tenor. (If you want to hear some of that great tenor sound, check out ["The Devil in the Details"](https://www.youtube.com/watch?v=vtFjN6x7aTc).)
+
+<figure data-type="video">{{% md %}}<iframe width="919" height="517" src="https://www.youtube.com/embed/vtFjN6x7aTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}</figure>
 
 "I think what always attracted me to opera was first of all the drama, how dramatic everything is," says Rosé. "It's so exciting to be in the room with voices that can carry that way."
 
@@ -70,30 +73,33 @@ Rosé is clued into one of the big truths about great singers, which is that the
 
 One of the big overlaps between drag and opera comes in the creation of characters. Opera singers draw their characters from scores and text, and bolster their choices with input from historical figures ([Mary, Queen of Scots](https://youtu.be/Ij8E-Z6DMR4), anyone?), pop-culture influences, and a lot of careful thought.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345567/media/2022/04/Rose_Mary_1_47_ysly8a.jpg){{% /md %}}
+
+<figcaption>Rosé as Mary, Queen of Scots. Photo courtesy of Voss Events.</figcaption>  
+</figure>
+
 Drag queens take character development a step further, inventing what’s essentially an alter-ego for their professional life; every choice they make, from their look to their performing style, circles outward from their character.
 
 So I find it beautiful and surprising that, despite her technical approach to her art, the character of Rosé was born out of instinct.
 
 "When I started doing \[drag\], it was really a form of rebellion for me to kind of like, counteract, all of that rigidity that I had always kind of been taught to implement in everything I do," she says.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345567/media/2022/04/Rose_Mary_1_47_ysly8a.jpg){{% /md %}}
-
-<figcaption>Rosé as Mary, Queen of Scots. Photo courtesy of Voss Events.</figcaption>  
-</figure>
-
 Rather than being a product of traditional character analysis, Rosé was organic, "kind of like unleashing an explosion of all of the things that I had suppressed: a lot of femininity, a lot of profanity, a lot of stuff that makes me feel more myself."
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345280/media/2022/04/Rose_suit_DSC01163-6_dfjvxy.jpg){{% /md %}}
+
+<figcaption>Photo courtesy of Voss Events.</figcaption>  
+</figure>
 
 Authenticity plus great technique has always been a winning combination onstage, and it's part of why Rosé saw lots of immediate success when she started in drag. But I was curious about the elements of the artform that she had to work at:
 
 "I was absolutely fucking hideous!" Rosé hollers with a big, wide laugh.
 
-In Rosé', "the joke was that she was really rough around the edges," she says with a smile. "It really brought me a lot of joy to throw that stuff onstage and feed that to people for once."
+In Rosé, "the joke was that she was really rough around the edges," she says with a smile. "It really brought me a lot of joy to throw that stuff onstage and feed that to people for once."
 
 Drag marked an unfamiliar foray into imperfection for Rosé, but she took it as a challenge to bring her look up to the level of her onstage skills. "For me, when I started drag, the main challenge and still what I work on the most," she says, "is my aesthetic and my appearance, because it's obviously such a huge part of the art form."
 
-> "It really brought me a lot of joy to throw that stuff onstage and feed that to people for once."
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345280/media/2022/04/Rose_suit_DSC01163-6_dfjvxy.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651498345/media/2022/05/Rose_tartan_2_30_xq7hzl.jpg){{% /md %}}
 
 <figcaption>Photo courtesy of Voss Events.</figcaption>  
 </figure>
@@ -104,12 +110,12 @@ So, I asked Rosé about meeting RuPaul on the first day of filming _Drag Race_.
 
 "RuPaul was there in full drag and it was completely shocking and _appalling_ how amazing she really looks in person!" Rosé laughs, before adding with a bit of venom, "Like, _so beautiful_."
 
-<figure data-type="video">{{% md %}}<iframe width="919" height="517" src="https://www.youtube.com/embed/vtFjN6x7aTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}</figure>
-
 But it was actually her latest brush with celebrity that most impressed Rosé, while filming an upcoming episode of _iCarly_, directed by Melissa Joan Hart. "I couldn't believe it," she recalls. "I was like, 'Holy shit, like Sabrina, the fucking Teenage Witch is directing me in this camp show and I'm in drag, this is so crazy!"
+
+> "Hmm, I wonder where my career can take me in the future?"
 
 And once she got over the craziness, she did that thing that opera singers do when they settle into the idea of working with those they look up to: they learn from them.
 
-"That was a really cool experience, and also kind if nice to see somebody who I've admired and watched for years do something that they're not necessarily known for," Rosé says of Hart in the director's chair. "Kind of thinking in my own life like, 'Hmm, I wonder where my career can take me in the future.'"
+"That was a really cool experience, and also kind if nice to see somebody who I've admired and watched for years do something that they're not necessarily known for," Rosé says of Hart in the director's chair. "Kind of thinking in my own life like, 'Hmm, I wonder where my career can take me in the future?'"
 
 Though she's currently _Werqing_ her way around Europe and keeping her hustle alive, the only future I'm craving from Rosé is for her to bring that Bartoli lip sync to Canada. Please?
