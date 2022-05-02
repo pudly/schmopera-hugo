@@ -53,7 +53,7 @@ What does spark her joy, though, is paying homage to opera with that great perfo
 <figcaption>Photo courtesy of Voss Events.</figcaption>  
 </figure>
 
-I've always thought that the lip sync was a fascinating mode of expression. It's weird, because in one sense there's very little that's original about a lip-sync performance: it’s someone else's song and someone else's voice. But seeing an excellent lip-sync performance is like a lesson in something that any great opera singer is constantly chasing: precision, and subtext for days.
+I've always thought that the lip sync was a fascinating mode of expression. It's weird, because in one sense there's very little that's original about a lip-sync performance: it's someone else's song and someone else's voice. But seeing an excellent lip-sync performance is like a lesson in something that any great opera singer is constantly chasing: precision, and subtext for days.
 
 "Something that is a commonality between singing and lip syncing is \[that\] you must know the music. You have to know the music as though it's coming from you," Rosé says. With her training as a singer, she goes the extra step of showing the exaggerated physicality of a singer's breath, sound placement, and even their high-note vowel choice. "I sort of like, place my tongue down and start raising my soft palate like I'm singing," she laughs.
 
@@ -81,7 +81,7 @@ Drag queens take character development a step further, inventing what’s essent
 
 So I find it beautiful and surprising that, despite her technical approach to her art, the character of Rosé was born out of instinct.
 
-"When I started doing \[drag\], it was really a form of rebellion for me to kind of like, counteract, all of that rigidity that I had always kind of been taught to implement in everything I do," she says.
+"When I started doing \[drag\], it was really a form of rebellion for me to kind of counteract all of that rigidity that I had always been taught to implement in everything I do," she says.
 
 Rather than being a product of traditional character analysis, Rosé was organic, "kind of like unleashing an explosion of all of the things that I had suppressed: a lot of femininity, a lot of profanity, a lot of stuff that makes me feel more myself."
 
