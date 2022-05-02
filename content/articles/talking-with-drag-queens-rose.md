@@ -99,13 +99,15 @@ So, I asked Rosé about meeting RuPaul on the first day of filming _Drag Race_.
 
 "RuPaul was there in full drag and it was completely shocking and _appalling_ how amazing she really looks in person!" Rosé laughs, before adding with a bit of venom, "Like, _so beautiful_."
 
-But it was actually her latest brush with celebrity that most impressed Rosé, while filming an upcoming episode of _iCarly_, directed by Melissa Joan Hart. "I couldn't believe it," she recalls. "I was like, 'Holy shit, like Sabrina, the fucking Teenage Witch is like, like directing me in this camp show and I'm in drag, this is so crazy!"<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345280/media/2022/04/Rose_suit_DSC01163-6_dfjvxy.jpg){{% /md %}}
-
-<figcaption>Photo courtesy of Voss Events.</figcaption>  
-</figure>
+But it was actually her latest brush with celebrity that most impressed Rosé, while filming an upcoming episode of _iCarly_, directed by Melissa Joan Hart. "I couldn't believe it," she recalls. "I was like, 'Holy shit, like Sabrina, the fucking Teenage Witch is directing me in this camp show and I'm in drag, this is so crazy!"
 
 And once she got over the craziness, she did that thing that opera singers do when they settle into the idea of working with those they look up to: they learn from them.
 
 "That was a really cool experience, and also kind if nice to see somebody who I've admired and watched for years do something that they're not necessarily known for," Rosé says of Hart in the director's chair. "Kind of thinking in my own life like, 'Hmm, I wonder where my career can take me in the future.'"
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345280/media/2022/04/Rose_suit_DSC01163-6_dfjvxy.jpg){{% /md %}}
+
+<figcaption>Photo courtesy of Voss Events.</figcaption>  
+</figure>
 
 Though she's currently _Werqing_ her way around Europe and keeping her hustle alive, the only future I'm craving from Rosé is for her to bring that Bartoli lip sync to Canada. Please?
