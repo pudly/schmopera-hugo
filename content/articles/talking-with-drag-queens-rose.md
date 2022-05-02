@@ -68,7 +68,7 @@ Rosé is clued into one of the big truths about great singers, which is that the
 
 > "RuPaul was there in full drag and it was completely shocking and _appalling_ how amazing she really looks in person!"
 
-One of the big overlaps between drag and opera comes in the creation of characters. Opera singers draw their characters from scores and text, and bolster their choices with input from historical figures ([Mary, Queen of Scots](https://youtu.be/Ij8E-Z6DMR4), anyone?), pop-culture influences, and a really great director.
+One of the big overlaps between drag and opera comes in the creation of characters. Opera singers draw their characters from scores and text, and bolster their choices with input from historical figures ([Mary, Queen of Scots](https://youtu.be/Ij8E-Z6DMR4), anyone?), pop-culture influences, and a lot of careful thought.
 
 Drag queens take character development a step further, inventing what’s essentially an alter-ego for their professional life; every choice they make, from their look to their performing style, circles outward from their character.
 
