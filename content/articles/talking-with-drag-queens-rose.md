@@ -32,7 +32,7 @@ For anyone with even a whiff of a theatre-kid background, watching Rosé kill it
 
 I remember spotting it early on, watching Rosé's season of the show: she was the sort of queen who practiced technique, in the same way that opera singers do. They think, rehearse, repeat; and then onstage, they trust the preparation.
 
-Though she's not the one who takes a technical approach to her art, Rosé is rare among working drag queens. "There's a lot of us now to be honest, but it's more uncommon to have someone who takes the process strategically and seriously as I still do."
+Though she's not the pnly one who takes a technical approach to her art, Rosé is rare among working drag queens. "There's a lot of us now to be honest, but it's more uncommon to have someone who takes the process strategically and seriously as I still do."
 
 In her sixth year of doing drag, Rosé comes from a "dense education" in the performing arts. She attended Wichita State University — the same place that gave us Alan Held and Joyce DiDonato — with the intent to become an operatic tenor. (If you want to hear some of that great tenor sound, check out ["The Devil in the Details"](https://www.youtube.com/watch?v=vtFjN6x7aTc).)
 
@@ -53,7 +53,7 @@ What does spark her joy, though, is paying homage to opera with that great perfo
 
 I've always thought that the lip sync was a fascinating mode of expression. It's weird, because in one sense there's very little that's original about a lip-sync performance: it’s someone else's song and someone else's voice. But seeing an excellent lip-sync performance is like a lesson in something that any great opera singer is constantly chasing: precision, and subtext for days.
 
-"Something that is a commonality between singing and lip syncing is you must know the music. You have to know the music as though it's coming from you," Rosé says. With her training as a singer, she goes the extra step of showing the exaggerated physicality of a singer's breath, sound placement, and even their high-note vowel choice. "I sort of like, place my tongue down and start raising my soft palate like I'm singing," she laughs.
+"Something that is a commonality between singing and lip syncing is \[that\] you must know the music. You have to know the music as though it's coming from you," Rosé says. With her training as a singer, she goes the extra step of showing the exaggerated physicality of a singer's breath, sound placement, and even their high-note vowel choice. "I sort of like, place my tongue down and start raising my soft palate like I'm singing," she laughs.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345365/media/2022/04/Rose_red_1_62_tmjgu2.jpg){{% /md %}}
 
@@ -76,9 +76,9 @@ So I find it beautiful and surprising that, despite her technical approach to he
 
 "When I started doing \[drag\], it was really a form of rebellion for me to kind of like, counteract, all of that rigidity that I had always kind of been taught to implement in everything I do," she says.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345280/media/2022/04/Rose_suit_DSC01163-6_dfjvxy.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345567/media/2022/04/Rose_Mary_1_47_ysly8a.jpg){{% /md %}}
 
-<figcaption>Photo courtesy of Voss Events.</figcaption>  
+<figcaption>Rosé as Mary, Queen of Scots. Photo courtesy of Voss Events.</figcaption>  
 </figure>
 
 Rather than being a product of traditional character analysis, Rosé was organic, "kind of like unleashing an explosion of all of the things that I had suppressed: a lot of femininity, a lot of profanity, a lot of stuff that makes me feel more myself."
@@ -95,19 +95,17 @@ Drag marked an unfamiliar foray into imperfection for Rosé, but she took it as 
 
 When I was debating whether or not to ask Rosé about RuPaul, I considered another connection between drag and opera: getting to work with one's idols. For an up-and-coming queen, the chance to work alongside someone like RuPaul Charles is akin to the young opera singer who gets to be Annina to Renée Fleming's Violetta, or Cassio to Pavarotti's Otello.
 
-So, I asked Rosé about meeting RuPaul Charles on the first day of filming _Drag Race_.
+So, I asked Rosé about meeting RuPaul on the first day of filming _Drag Race_.
 
 "RuPaul was there in full drag and it was completely shocking and _appalling_ how amazing she really looks in person!" Rosé laughs, before adding with a bit of venom, "Like, _so beautiful_."
 
-But it was actually her latest brush with celebrity that most impressed Rosé, while filming an upcoming episode of _iCarly_, directed by Melissa Joan Hart. "I couldn't believe it," she recalls. "I was like, 'Holy shit, like Sabrina, the fucking Teenage Witch is like, like directing me in this camp show and I'm in drag, this is so crazy!"
+But it was actually her latest brush with celebrity that most impressed Rosé, while filming an upcoming episode of _iCarly_, directed by Melissa Joan Hart. "I couldn't believe it," she recalls. "I was like, 'Holy shit, like Sabrina, the fucking Teenage Witch is like, like directing me in this camp show and I'm in drag, this is so crazy!"<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345280/media/2022/04/Rose_suit_DSC01163-6_dfjvxy.jpg){{% /md %}}
+
+<figcaption>Photo courtesy of Voss Events.</figcaption>  
+</figure>
 
 And once she got over the craziness, she did that thing that opera singers do when they settle into the idea of working with those they look up to: they learn from them.
 
 "That was a really cool experience, and also kind if nice to see somebody who I've admired and watched for years do something that they're not necessarily known for," Rosé says of Hart in the director's chair. "Kind of thinking in my own life like, 'Hmm, I wonder where my career can take me in the future.'"
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345567/media/2022/04/Rose_Mary_1_47_ysly8a.jpg){{% /md %}}
-
-<figcaption>Rosé as Mary, Queen of Scots. Photo courtesy of Voss Events.</figcaption>  
-</figure>
 
 Though she's currently _Werqing_ her way around Europe and keeping her hustle alive, the only future I'm craving from Rosé is for her to bring that Bartoli lip sync to Canada. Please?
