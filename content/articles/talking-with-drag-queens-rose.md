@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = 2022-05-02T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "For tour dates, merch, and more, head to Rosé's website at [omgheyrose.com](https://omgheyrose.com/)."
 preamble = ""
