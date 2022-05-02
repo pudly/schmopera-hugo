@@ -32,7 +32,7 @@ For anyone with even a whiff of a theatre-kid background, watching Rosé kill it
 
 I remember spotting it early on, watching Rosé's season of the show: she was the sort of queen who practiced technique, in the same way that opera singers do. They think, rehearse, repeat; and then onstage, they trust the preparation.
 
-Though she's not the pnly one who takes a technical approach to her art, Rosé is rare among working drag queens. "There's a lot of us now to be honest, but it's more uncommon to have someone who takes the process strategically and seriously as I still do."
+Though she's not the only one who takes a technical approach to her art, Rosé is rare among working drag queens. "There's a lot of us now to be honest, but it's more uncommon to have someone who takes the process strategically and seriously as I still do."
 
 In her sixth year of doing drag, Rosé comes from a "dense education" in the performing arts. She attended Wichita State University — the same place that gave us Alan Held and Joyce DiDonato — with the intent to become an operatic tenor. (If you want to hear some of that great tenor sound, check out ["The Devil in the Details"](https://www.youtube.com/watch?v=vtFjN6x7aTc).)
 
@@ -93,6 +93,11 @@ Drag marked an unfamiliar foray into imperfection for Rosé, but she took it as 
 
 > "It really brought me a lot of joy to throw that stuff onstage and feed that to people for once."
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345280/media/2022/04/Rose_suit_DSC01163-6_dfjvxy.jpg){{% /md %}}
+
+<figcaption>Photo courtesy of Voss Events.</figcaption>  
+</figure>
+
 When I was debating whether or not to ask Rosé about RuPaul, I considered another connection between drag and opera: getting to work with one's idols. For an up-and-coming queen, the chance to work alongside someone like RuPaul Charles is akin to the young opera singer who gets to be Annina to Renée Fleming's Violetta, or Cassio to Pavarotti's Otello.
 
 So, I asked Rosé about meeting RuPaul on the first day of filming _Drag Race_.
@@ -105,9 +110,7 @@ And once she got over the craziness, she did that thing that opera singers do wh
 
 "That was a really cool experience, and also kind if nice to see somebody who I've admired and watched for years do something that they're not necessarily known for," Rosé says of Hart in the director's chair. "Kind of thinking in my own life like, 'Hmm, I wonder where my career can take me in the future.'"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345280/media/2022/04/Rose_suit_DSC01163-6_dfjvxy.jpg){{% /md %}}
-
-<figcaption>Photo courtesy of Voss Events.</figcaption>  
+<figure data-type="video">{{% md %}}<iframe width="919" height="517" src="https://www.youtube.com/embed/vtFjN6x7aTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}  
 </figure>
 
 Though she's currently _Werqing_ her way around Europe and keeping her hustle alive, the only future I'm craving from Rosé is for her to bring that Bartoli lip sync to Canada. Please?
