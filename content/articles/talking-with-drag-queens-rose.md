@@ -83,11 +83,11 @@ So I find it beautiful and surprising that, despite her technical approach to he
 
 Rather than being a product of traditional character analysis, Rosé was organic, "kind of like unleashing an explosion of all of the things that I had suppressed: a lot of femininity, a lot of profanity, a lot of stuff that makes me feel more myself."
 
-Authenticity plus great technique has always been a winning combination onstage, and it's part of why Rosé saw lots of immediate success when she started in drag. But I was curious about the elements of drag that she had to work at:
+Authenticity plus great technique has always been a winning combination onstage, and it's part of why Rosé saw lots of immediate success when she started in drag. But I was curious about the elements of the artform that she had to work at:
 
 "I was absolutely fucking hideous!" Rosé hollers with a big, wide laugh.
 
-At the beginning of Rosé, "the joke was that she was really rough around the edges," she says with a smile. "It really brought me a lot of joy to throw that stuff onstage and feed that to people for once."
+In Rosé', "the joke was that she was really rough around the edges," she says with a smile. "It really brought me a lot of joy to throw that stuff onstage and feed that to people for once."
 
 Drag marked an unfamiliar foray into imperfection for Rosé, but she took it as a challenge to bring her look up to the level of her onstage skills. "For me, when I started drag, the main challenge and still what I work on the most," she says, "is my aesthetic and my appearance, because it's obviously such a huge part of the art form."
 
@@ -104,13 +104,12 @@ So, I asked Rosé about meeting RuPaul on the first day of filming _Drag Race_.
 
 "RuPaul was there in full drag and it was completely shocking and _appalling_ how amazing she really looks in person!" Rosé laughs, before adding with a bit of venom, "Like, _so beautiful_."
 
+<figure data-type="video">{{% md %}}<iframe width="919" height="517" src="https://www.youtube.com/embed/vtFjN6x7aTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}</figure>
+
 But it was actually her latest brush with celebrity that most impressed Rosé, while filming an upcoming episode of _iCarly_, directed by Melissa Joan Hart. "I couldn't believe it," she recalls. "I was like, 'Holy shit, like Sabrina, the fucking Teenage Witch is directing me in this camp show and I'm in drag, this is so crazy!"
 
 And once she got over the craziness, she did that thing that opera singers do when they settle into the idea of working with those they look up to: they learn from them.
 
 "That was a really cool experience, and also kind if nice to see somebody who I've admired and watched for years do something that they're not necessarily known for," Rosé says of Hart in the director's chair. "Kind of thinking in my own life like, 'Hmm, I wonder where my career can take me in the future.'"
-
-<figure data-type="video">{{% md %}}<iframe width="919" height="517" src="https://www.youtube.com/embed/vtFjN6x7aTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}  
-</figure>
 
 Though she's currently _Werqing_ her way around Europe and keeping her hustle alive, the only future I'm craving from Rosé is for her to bring that Bartoli lip sync to Canada. Please?
