@@ -90,7 +90,7 @@ Rather than being a product of traditional character analysis, Rosé was organic
 <figcaption>Photo courtesy of Voss Events.</figcaption>  
 </figure>
 
-Authenticity plus great technique has always been a winning combination onstage, and it's part of why Rosé saw lots of immediate success when she started in drag. But I was curious about the elements of the artform that she had to work at:
+Authenticity plus great technique has always been a winning combination onstage, and it's part of why Rosé saw lots of immediate success when she started in drag. But I was curious about the elements of the art form that she had to work at:
 
 "I was absolutely fucking hideous!" Rosé hollers with a big, wide laugh.
 
