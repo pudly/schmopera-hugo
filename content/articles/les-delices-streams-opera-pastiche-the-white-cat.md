@@ -3,14 +3,13 @@ author = ["authors/john-hohmann.md"]
 categories = "Review"
 date = 2022-05-09T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "_The White Cat_ streams on Marquee.TV through June 30. For more information on the opera, including excellent program notes, go to [LesDélices.org](https://www.lesdelices.org/)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1652102052/media/2022/05/sqWhiteCat_6_gxwnwh.png"
 primary_image_credit = "White Cat puppet (foreground), gambist Rebecca Reed (left) and oboist Kathryn Montoya in The White Cat, Les Délices, 2022. Photo: Erica Brenner."
 related_articles = ["articles/les-delices-presents-song-of-orpheus-the-music-speaks-for-itself.md", "articles/les-delices-presents-women-of-genius-in-the-ancien-regime.md"]
-related_companies = []
+related_companies = ["scene/companies/les-delices.md"]
 related_people = []
 short_description = "Julie Andrijeski and Shelby Yamin (violins), Kathryn Montoya and Nagy (oboes and recorders), Rebecca Reed (viola da gamba) and Mark Edwards (harpsichord) all wear cat masks, a simple and delightfully conspiratorial gesture. These cats know how to work it."
 slug = "les-delices-streams-opera-pastiche-the-white-cat"
@@ -18,7 +17,7 @@ title = "Les Délices streams opera pastiche The White Cat"
 youtube_url = ""
 
 +++
-Les Délices, that Cleveland-based standard bearer of French baroque music, continues to hone its ability to shed the genre's esoteric reputation and make it more accessible. With _The White Cat_, their new opera pastiche, (streaming on Marquee.TV through June 30) the company takes an ambitious step forward. It is looking for children, that audience of tomorrow, in addition to the baroque and not so baroque-minded adults who are steadily succumbing to its impressive programming.
+[Les Délices](/scene/companies/les-delices/), that Cleveland-based standard bearer of French baroque music, continues to hone its ability to shed the genre's esoteric reputation and make it more accessible. With _The White Cat_, their new opera pastiche, (streaming on Marquee.TV through June 30) the company takes an ambitious step forward. It is looking for children, that audience of tomorrow, in addition to the baroque and not so baroque-minded adults who are steadily succumbing to its impressive programming.
 
 Artistic Director Debra Nagy has created a charming and seamless score with selections drawn from François Couperin and Jean-Baptiste Lully among others and several folk songs of the era. Happily it doesn't come off like a "greatest hits" list of the French baroque, as if there was such a thing. It melds with the wise and refreshingly straightforward libretto by Larry Rosenwald, based on a 17th-century story by Marie-Catherine D'Aulnoy, itself drawing on the fables of Aesop.
 
