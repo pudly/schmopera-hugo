@@ -1,7 +1,7 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Review"
-date = 2022-05-09T04:00:00Z
+date = 2022-05-10T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "_The White Cat_ streams on Marquee.TV through June 30. For more information on the opera, including excellent program notes, go to [LesDélices.org](https://www.lesdelices.org/)."
