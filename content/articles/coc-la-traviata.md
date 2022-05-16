@@ -12,8 +12,8 @@ related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "artic
 related_companies = ["scene/companies/houston-grand-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/canadian-opera-company.md"]
 related_people = ["scene/people/gregory-dahl.md", "scene/people/adam-luther.md", "scene/people/matthew-polenzani.md", "scene/people/simone-piazzola.md"]
 short_description = "Legato in spades and a magnetic presence on the stage that was at times hypnotizing, her \"Sempre libera\" (an aria that holds a particularly special place in the hearts of Queers in my generation) brought the house down."
-slug = "coc-la-traviata"
-title = "The COC's \"prima la musica\" La traviata, "
+slug = "review-the-cocs-prima-la-musica-la-traviata"
+title = "Review: the COC's \"prima la musica\" La traviata"
 youtube_url = ""
 
 +++
@@ -74,7 +74,7 @@ In my humble opinion: "Libiamo" is really the test in this show. Take it from a 
 <figcaption>Amina Edris as Violetta and Matthew Polenzani as Alfredo in the Canadian Opera Company’s production of La Traviata, photo: Michael Cooper.</figcaption>  
 </figure>
 
-Overall, I think the success of this production is in its musicality, even if it felt like everyone was just trying to keep up with the women on the stage — Edris in particular. There's a very "prima la voce" attitude towards the presentation, and given that this is considered to be among the height of _bel canto_, I get that - but we know these voices are gorgeous. I really lean into "prima la storia" — tell us the story; if you tell us the story well, we'll listen more closely to your beautiful singing.
+Overall, I think the success of this production is in its musicality, even if it felt like everyone was just trying to keep up with the women on the stage — Edris in particular. There's a very "prima la voce" attitude towards the presentation, and given that this is considered to be among the height of _bel canto_, I get that — but we know these voices are gorgeous. I really lean into "prima la storia" — tell us the story; if you tell us the story well, we'll listen more closely to your beautiful singing.
 
 And the singing is really beautiful. Especially in Edris, it's a voice tailor-made for Violetta.
 
