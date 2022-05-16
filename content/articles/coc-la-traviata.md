@@ -10,10 +10,10 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1652706078/m
 primary_image_credit = "Amina Edris (in front) as Violetta and Matthew Polenzani as Alfredo in the Canadian Opera Company’s production of La Traviata, 2022, photo: Michael Cooper."
 related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/la-traviata-shows-houston-how-to-arise.md", "articles/installation-la-traviata-intimate-and-effective-production.md"]
 related_companies = ["scene/companies/houston-grand-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/matthew-polenzani.md", "scene/people/simone-piazzola.md"]
+related_people = ["scene/people/gregory-dahl.md", "scene/people/adam-luther.md", "scene/people/matthew-polenzani.md", "scene/people/simone-piazzola.md"]
 short_description = "Legato in spades and a magnetic presence on the stage that was at times hypnotizing, her \"Sempre libera\" (an aria that holds a particularly special place in the hearts of Queers in my generation) brought the house down."
 slug = "coc-la-traviata"
-title = "COC La traviata"
+title = "The COC's \"prima la musica\" La traviata, "
 youtube_url = ""
 
 +++
@@ -58,7 +58,7 @@ A third notable debut comes in the form of baritone [Simone Piazzola](/scene/peo
 
 > There's a very "prima la voce" attitude towards the presentation.
 
-The supporting cast was all outstanding! And to see it loaded with Canadian players (a few who could very easily step into any of the above roles) was the cherry on the sundae. I have to say Adam Luther's Gastone was well-sung and engaging, Gregory Dahl's Barone was excellent — as we expect from Mr. Dahl. He's rarely (if ever?) not understood the assignment. Jamie Groote as Flora Bervoix was lovely and particularly adept at portraying elegant gossip — which is something dear to my heart. Midori Marsh as Annina is another standout among the comprimario roles. Always exquisitely sung, Marsh has a certainty and thorough understanding of her character that just puts you at ease as an audience member.
+The supporting cast was all outstanding! And to see it loaded with Canadian players (a few who could very easily step into any of the above roles) was the cherry on the sundae. I have to say [Adam Luther](/scene/people/adam-luther/)'s Gastone was well-sung and engaging, [Gregory Dahl](/scene/people/gregory-dahl/)'s Barone was excellent — as we expect from Mr. Dahl. He's rarely (if ever?) not understood the assignment. [Jamie Groote](/scene/people/jamie-groote/) as Flora Bervoix was lovely and particularly adept at portraying elegant gossip — which is something dear to my heart. [Midori Marsh](/scene/people/midori-marsh/) as Annina is another standout among the comprimario roles. Always exquisitely sung, Marsh has a certainty and thorough understanding of her character that just puts you at ease as an audience member.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1652706343/media/2022/05/COC_Traviata_21-22-01-MC-D-0497_shntto.jpg){{% /md %}}
 
