@@ -43,7 +43,7 @@ I found these tempi to be a little on the safe side. While they allowed for lots
 <figcaption>Matthew Polenzani as Alfredo and Amina Edris as Violetta in the Canadian Opera Company’s production of La Traviata, 2022, photo: Michael Cooper.</figcaption>  
 </figure>
 
-Making her COC mainstage debut was soprano [Amina Edris](/scene/people/amina-edris/), and what a debut it is. A warm, dark, full lyric tone that still manages brightness and some remarkable agility throughout Verdi's (sometimes) relentless melisma. Legato in spades and a magnetic presence on the stage that was at times hypnotizing, her "Sempre libera" (an aria that holds a particularly special place in the hearts of Queers in my generation) brought the house down.
+Making her COC mainstage debut was soprano [Amina Edris](/scene/people/amina-edris/), and what a debut it is. A warm, dark, full lyric tone that still manages brightness and some remarkable agility throughout Verdi's (sometimes) relentless melisma. Legato in spades and a magnetic presence on the stage that was at times hypnotizing, her "Sempre libera" (an aria that [holds a particularly special place in the hearts of Queers in my generation](https://youtu.be/ZreZzV7y18Y)) brought the house down.
 
 > Midori Marsh as Annina is another standout among the comprimario roles.
 
