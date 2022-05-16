@@ -4,7 +4,7 @@ categories = "Review"
 date = 2022-05-15T04:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = ""
+postamble = "The [COC's production of _La traviata_](https://www.coc.ca/productions/23083) runs through May 20, 2022."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1652706078/media/2022/05/sqCOC_Traviata_21-22-01-MC-D-0398_i9jqdc.jpg"
 primary_image_credit = "Amina Edris (in front) as Violetta and Matthew Polenzani as Alfredo in the Canadian Opera Company’s production of La Traviata, 2022, photo: Michael Cooper."
@@ -21,7 +21,7 @@ Hello, Schmop-Tops!
 
 While still riding the high from my first trip across the boards since the world shut down two years ago, my first fully-staged opera as an audience member/reviewer — in person — happened to be one of the best ones any opera lover could have asked for: Verdi's _La traviata_.
 
-The Canadian Opera Company is currently mounting their co-production with Houston Grand Opera and Lyric Opera of Chicago, which we last saw in 2015, directed by Arin Arbus and with COC Music Director Johannes Debus leading the orchestra. This production — while not particularly pushing many theatrical boundaries but employing some great lighting and use of shadow, thanks to the lighting team of designer Marcus Doshi and associate Siobhan Sleath — works well for such a highly focused storyline.
+The Canadian Opera Company is currently mounting their [co-production with Houston Grand Opera and Lyric Opera of Chicago](https://www.coc.ca/productions/23083), which we last saw in 2015, directed by Arin Arbus and with COC Music Director Johannes Debus leading the orchestra. This production — while not particularly pushing many theatrical boundaries but employing some great lighting and use of shadow, thanks to the lighting team of designer Marcus Doshi and associate Siobhan Sleath — works well for such a highly focused storyline.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1652706237/media/2022/05/COC_Traviata_21-22-01-MC-D-021_eydq4a.jpg){{% /md %}}
 
@@ -78,4 +78,4 @@ Overall, I think the success of this production is in its musicality, even if it
 
 And the singing is really beautiful. Especially in Edris, it's a voice tailor-made for Violetta.
 
-If you want a grande dose of grand opera, check this out, the music is glorious.
+If you want a grande dose of grand opera, [check this out](https://www.coc.ca/productions/23083), the music is glorious.
