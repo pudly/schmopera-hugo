@@ -12,7 +12,7 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "Legato in spades and a magnetic presence on the stage that was at times hypnotizing, her \"Sempre libera\" (an aria that holds a particularly special place in the hearts of Queers in my generation) brought the house down."
 slug = "coc-la-traviata"
 title = "COC La traviata"
 youtube_url = ""
@@ -22,17 +22,17 @@ Hello, Schmop-Tops!
 
 While still riding the high from my first trip across the boards since the world shut down two years ago, my first fully-staged opera as an audience member/reviewer — in person — happened to be one of the best ones any opera lover could have asked for: Verdi's _La traviata_.
 
-The Canadian Opera Company is currently mounting their co-production with Houston Grand Opera and Lyric Opera of Chicago, which we last saw in 2015, directed by Arin Arbus and with COC Music Director Johannes Debus leading the orchestra. This production — while not particularly pushing many theatrical boundaries but employing some great lighting and use of shadow, thanks to the lighting team of designer Marcus Doshi and associate Siobhan Sleath — works well for such a highly focused storyline. 
+The Canadian Opera Company is currently mounting their co-production with Houston Grand Opera and Lyric Opera of Chicago, which we last saw in 2015, directed by Arin Arbus and with COC Music Director Johannes Debus leading the orchestra. This production — while not particularly pushing many theatrical boundaries but employing some great lighting and use of shadow, thanks to the lighting team of designer Marcus Doshi and associate Siobhan Sleath — works well for such a highly focused storyline.
 
 The story of Alfredo, a young, impetuous man who falls in love with Violetta Valéry (a woman of questionable repute but quite wealthy) at a party. They agree to marry. Violetta is ill, because opera. Word gets back to Alfredo's dad, Giorgio Germont, of their upcoming union, of which he will be having none. Arguments and arias ensue, then in the most operatic of finales, our heroine expires from excess of emotion leaving the two men to deal with their words and actions.
 
 As far as opera plots go, this is one of the least convoluted. It is completely focused on one storyline; which opens it up to more intense scrutiny.
 
-The singing was, for the most part, splendiferous. The COC Chorus shows once again why they are one of the best in the biz, and I think it's high-time we had a COC Chorus gala concert where we get to let them really strut their stuff and be in the spotlight, but I digress. 
+The singing was, for the most part, splendiferous. The COC Chorus shows once again why they are one of the best in the biz, and I think it's high-time we had a COC Chorus gala concert where we get to let them really strut their stuff and be in the spotlight, but I digress.
 
 I found these tempi to be a little on the safe side. While they allowed for lots of bloom and ring in the house, we kinda missed out on one of the most thrilling parts of a Verdi score, which are the _presto_ and _prestissimo_ tempo markings — but this is a personal taste situation. (As is the whole review, if we're being honest friends. And I like being honest.)
 
-Making her COC mainstage debut was soprano Amina Edris, and what a debut it is. A warm, dark, full lyric tone that still manages brightness and some remarkable agility throughout Verdi's (sometimes) relentless melisma. Legato in spades and a magnetic presence on the stage that was at times hypnotizing. Her "Sempre libera" (an aria that holds a particularly special place in the hearts of Queers in my generation) brought the house down.
+Making her COC mainstage debut was soprano Amina Edris, and what a debut it is. A warm, dark, full lyric tone that still manages brightness and some remarkable agility throughout Verdi's (sometimes) relentless melisma. Legato in spades and a magnetic presence on the stage that was at times hypnotizing, her "Sempre libera" (an aria that holds a particularly special place in the hearts of Queers in my generation) brought the house down.
 
 Also making a COC mainstage debut is our Alfredo, tenor Matthew Polenzani. A strong, steely sound that is very at home in the Verdian milieu, he delivered an astounding "Di miei bollenti..." and musically the whole role was on point. However, I found his characterization of Alfredo to be a little too old. It read more as though he and Germont were brothers rather than father and son. I have no problem with a mature tenor singing Alfredo, as long as the impetuousness that comes from Alfredo's youth is in the forefront of thought at all times. It takes a mature voice to sing this role, and mature voices tend to come in mature bodies — which is great! — but the characterization needs to be accountable to given circumstances in the plot and narrative.
 
