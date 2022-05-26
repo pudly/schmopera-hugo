@@ -1,7 +1,7 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Review"
-date = 2022-05-25T04:00:00Z
+date = 2022-05-26T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "_Eden_ is available on Erato. Visit [joycedidonato.com](https://joycedidonato.com/) for more information. To learn more about the International Teaching Artists Collaborative and the Eden Project, visit [itac-collaborative.com](https://www.itac-collaborative.com/)."
