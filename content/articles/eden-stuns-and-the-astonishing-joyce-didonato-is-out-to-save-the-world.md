@@ -39,9 +39,7 @@ Of course there are bound to be cynics out there, be they climate change deniers
 
 > DiDonato submits that war isn't only bad for people but a crime against nature as well.
 
-_Eden_ flows with extraordinary unity but I found myself pausing after the first three tracks to marvel at how beautifully they coalesced. The next group begins with Biagio Marini's "Con le stelle in ciel che mai" a spacious piece filled with furious vitality, reflecting his association with Monteverdi. An outright eviction from _Eden_, as in the garden of, is threatened in Josef Myslivecek’s "Toglierò le sponde al mare" from _Adamo ed Eva_.
-
-Aaron Copland's setting of Emily Dickinson's "Nature, the Gentlest Mother" gently walks back the strident tone of its predecessor.
+_Eden_ flows with extraordinary unity but I found myself pausing after the first three tracks to marvel at how beautifully they coalesced. The next group begins with Biagio Marini's "Con le stelle in ciel che mai" a spacious piece filled with furious vitality, reflecting his association with Monteverdi. An outright eviction from _Eden_, as in the garden of, is threatened in Josef Myslivecek’s "Toglierò le sponde al mare" from _Adamo ed Eva_. Aaron Copland's setting of Emily Dickinson's "Nature, the Gentlest Mother" gently walks back the strident tone of its predecessor.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1653487310/media/2022/05/JoyceDiDonato_Il-Pomo-dOro_vawuj5.jpg){{% /md %}}
 
