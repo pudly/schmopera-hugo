@@ -24,13 +24,13 @@ Hello, Schmop-tops,
 
 I definitely felt this sentiment wholly this weekend. It was a phenomenal weekend for classical music here in Toronto. I only wish there were more versions of me to see them all.
 
-Sunday, June 5, I caught the closing performance of _R.U.R. A Torrent of Light_, presented by Tapestry Opera in collaboration with Ontario College of Art and Design (OCAD). It was a match made in digital heaven.
+I caught the closing performance of _R.U.R. A Torrent of Light_, presented by Tapestry Opera in collaboration with Ontario College of Art and Design (OCAD). It was a match made in digital heaven.
 
 Buckle up, grab a snack and a drink, this one's a doozy.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902075/media/2022/06/RURTorrentofLight-photobyDahliaKatz-6889_Fotor_kps1xo.jpg){{% /md %}}
 
-<figcaption> in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
+<figcaption>Peter Barrett (Dom) in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
@@ -38,9 +38,9 @@ With a score by Nicole Lizée and a libretto by Nicolas Billon, _R.U.R. A Torren
 
 Helena tells Dom, who is immediately upset. The implications of robots having autonomy could spark disaster for their business which relies on the robots carrying out direct orders. Helena agrees, reluctantly, as she comforts Dom telling him Alex is not networked.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902094/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7008_zrgjtw.jpg){{% /md %}}
 
-<figcaption> in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
+<figcaption>The robot chorus in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
@@ -50,19 +50,19 @@ Helena is outraged. She confronts Dom, who again calms her, and sways her. Until
 
 Then Helena exacts her revenge.
 
-Unfortunately, Krisztina Szabo was unable to perform the role of Helena (and we're sending her all our love) but I was able to see Jennifer Routhier who stepped into the role at the last minute.
+Unfortunately, [Krisztina Szabó](/scene/people/krisztina-szabo/) was unable to perform the role of Helena (and we're sending her all our love) but I was able to see Jennifer Routhier, who stepped into the role at the last minute.
 
-Routhier's mezzo is deep and rich and flexible. Her top blooms with a brightness that is unexpected, and her low notes, and let me tell you they were freaking low, were full of rich, warm tones and a fullness which is quite impressive. You would have had no idea that she got a call at 11AM that morning saying she would be taking the stage at 4. She seemed as though she'd been in the role from the jump. Her journey from altruistic programmer to calculated agent of vindication was nuanced and endearing. Her interactions with the robots especially with \[Alex\] and even with \[Helena\] are never missing care and concern added a layer of credibility to her performance.
+Routhier's mezzo is deep and rich and flexible. Her top blooms with a brightness that is unexpected, and her low notes -- and let me tell you they were freaking low -- were full of rich, warm tones and a fullness which is quite impressive. You would have had no idea that she got a call at 11AM that morning saying she would be taking the stage at 4PM. She seemed as though she'd been in the role from the jump. Her journey from altruistic programmer to calculated agent of vindication was nuanced and endearing. Her interactions with the robots especially with \[Alex\] and even with \[Helena\] are never missing care and concern added a layer of credibility to her performance.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902174/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7236_zzlfdr.jpg){{% /md %}}
 
-<figcaption> in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
+<figcaption>Krisztina Szabó (left, Helena) and Danielle Buonaiuto (\[Helena\]) in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
-As a Helena's partner Dom, baritone Peter Barrett also showed up to play. His singing was lyrical and powerful, as we come to expect from Barrett. I was particularly impressed at how will he portrayed Dom in the confrontation with Helena. He was very skilled at making you believe he was altruistic in his motives, until a few choice deliveries of repeated text made you feel as if something wasn't quite up to snuff. His transformation from benevolent genius intent on making the world a better place to disgraced marital partner was nuanced, intelligent, and complete.
+As a Helena's partner Dom, baritone [Peter Barrett](/scene/people/peter-barrett/) also showed up to play. His singing was lyrical and powerful, as we come to expect from Barrett. I was particularly impressed at how will he portrayed Dom in the confrontation with Helena. He was very skilled at making you believe he was altruistic in his motives, until a few choice deliveries of repeated text made you feel as if something wasn't quite up to snuff. His transformation from benevolent genius intent on making the world a better place to disgraced marital partner was nuanced, intelligent, and complete.
 
-In the role of \[Helena\], Soprano Danielle Buonaiuto had me enthralled. Her agile coloratura and ability to seamlessly meld a very active vibrato with a clear, almost viscous (this a VERY good thing) straight tone was a perfect match for not just \[Helena's\] vocal lines but for the piece as a whole. The score is laden with repeated syllables over creative crescendi and diminuendi that create a reverb effect, and I feel as though Buonaiuto was the most successful at this technique.
+In the role of \[Helena\], soprano [Danielle Buonaiuto](/scene/people/danielle-buonaiuto/) had me enthralled. Her agile coloratura and ability to seamlessly meld a very active vibrato with a clear, almost viscous (this a VERY good thing) straight tone was a perfect match for not just \[Helena's\] vocal lines but for the piece as a whole. The score is laden with repeated syllables over creative crescendi and diminuendi that create a reverb effect, and I feel as though Buonaiuto was the most successful at this technique.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
