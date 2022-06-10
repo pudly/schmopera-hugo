@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1654901952/media/2022/06/sqRURTorrentofLight-photobyDahliaKatz-7378_nkdwcv.jpg"
+primary_image_credit = " R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz."
 related_articles = []
 related_companies = []
 related_people = []
@@ -24,7 +24,7 @@ Hello, Schmop-tops,
 
 I definitely felt this sentiment wholly this weekend. It was a phenomenal weekend for classical music here in Toronto. I only wish there were more versions of me to see them all.
 
-Sunday, June 5, I caught the closing performance of RUR A TORRENT OF LIGHT presented by Tapestry Opera in collaboration with Ontario College of At and Design (OCAD). It was a match made in digital heaven.
+Sunday, June 5, I caught the closing performance of _R.U.R. A Torrent of Light_, presented by Tapestry Opera in collaboration with Ontario College of Art and Design (OCAD). It was a match made in digital heaven.
 
 Buckle up, grab a snack and a drink, this one's a doozy.
 
@@ -34,9 +34,9 @@ Buckle up, grab a snack and a drink, this one's a doozy.
 
 </figure>
 
-With a score by Nicole Lizée and a libretto by Nicolas Billon RUR: A TORRENT OF LIGHT tells the story of two Artificial Intelligence geniuses, husband and wife Helena and Dom. They live in their billion dollar compound with their phalanx of AI droids. We meet \[Alex\] and come to see that he is their prototype. He gets the software upgrades first as a test run as he is not networked to the other robots. Helena runs a protocol that allows asked to adjust certain parameters in the orders given to him, resulting in him making his first choice - to finish his puzzle rather than fetch his human a coffee.
+With a score by Nicole Lizée and a libretto by Nicolas Billon, _R.U.R. A Torrent of Light_ tells the story of two artificial intelligence geniuses, husband and wife Dom and Helena. They live in their billion dollar compound with their phalanx of AI droids. We meet \[Alex\] and come to see that he is their prototype. He gets the software upgrades first as a test run as he is not networked to the other robots. Helena runs a protocol that allows asked to adjust certain parameters in the orders given to him, resulting in him making his first choice - to finish his puzzle rather than fetch his human a coffee.
 
-Helena tells Dom who is immediately upset. The implications of robots having autonomy could spark disaster for their business which relies on the robots carrying out direct orders. Helena agrees, reluctantly, as she comforts Dom telling him Alex is not networked.
+Helena tells Dom, who is immediately upset. The implications of robots having autonomy could spark disaster for their business which relies on the robots carrying out direct orders. Helena agrees, reluctantly, as she comforts Dom telling him Alex is not networked.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
@@ -92,7 +92,7 @@ The orchestra and score itself is one of the most creative I've heard in a while
 
 I mention the "reverb" from the singers for a very specific reason. The singers were all amplified via microphone for the entirety of the piece so the reverb could have just been added at the board but nope. This tactic allowed Lizée to cultivate each reverb specifically.
 
-"Mic'd?"b*GAY GASP* "But it's a opera?" Hear me out. Using the digital orchestrations they'll have to come through a speaker. This coupled with the live orchestra being amplified to balance the aurality of it all, it's important to also mic the singers. Those gives a sonic consistency and relieves the work that the audience's eardrums have to do.
+"Mic'd?"b_GAY GASP_ "But it's a opera?" Hear me out. Using the digital orchestrations they'll have to come through a speaker. This coupled with the live orchestra being amplified to balance the aurality of it all, it's important to also mic the singers. Those gives a sonic consistency and relieves the work that the audience's eardrums have to do.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
