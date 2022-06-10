@@ -17,13 +17,13 @@ title = "A Torrent of Light: the future of opera"
 youtube_url = ""
 
 +++
-> "Pour a torrent of light into our dark world." - _Frankenstein_, by Mary Shelley.
+> "Pour a torrent of light into our dark world." \~_Frankenstein_, by Mary Shelley.
 
 Hello, Schmop-tops,
 
 I definitely felt this sentiment wholly this weekend. It was a phenomenal weekend for classical music here in Toronto. I only wish there were more versions of me to see them all.
 
-I caught the closing performance of _R.U.R. A Torrent of Light_, presented by Tapestry Opera in collaboration with Ontario College of Art and Design (OCAD). It was a match made in digital heaven.
+I caught the closing performance of [_R.U.R. A Torrent of Light_](https://tapestryopera.com/performances/r-u-r-a-torrent-of-light/), presented by Tapestry Opera in collaboration with Ontario College of Art and Design (OCAD). It was a match made in digital heaven.
 
 Buckle up, grab a snack and a drink, this one's a doozy.
 
