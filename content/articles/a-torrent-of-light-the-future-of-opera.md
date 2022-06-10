@@ -89,7 +89,7 @@ The orchestra and score itself is one of the most creative I've heard in a while
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902632/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7411_vgmdzw.jpg){{% /md %}}
 
-<figcaption> in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
+<figcaption>The team of R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
