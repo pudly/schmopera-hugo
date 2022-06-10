@@ -29,7 +29,7 @@ Buckle up, grab a snack and a drink, this one's a doozy.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902075/media/2022/06/RURTorrentofLight-photobyDahliaKatz-6889_Fotor_kps1xo.jpg){{% /md %}}
 
-<figcaption>Peter Barrett (Dom) in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
+<figcaption>Peter Barrett as Dom in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
@@ -39,7 +39,7 @@ Helena tells Dom, who is immediately upset. The implications of robots having au
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902094/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7008_zrgjtw.jpg){{% /md %}}
 
-<figcaption>Scott Belluz as \[Alex\] and the robot chorus in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
+<figcaption>Scott Belluz as Alex and the robot chorus in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
@@ -57,7 +57,7 @@ Routhier's mezzo is deep and rich and flexible. Her top blooms with a brightness
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902174/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7236_zzlfdr.jpg){{% /md %}}
 
-<figcaption>Krisztina Szabó (left) as Helena and Danielle Buonaiuto as \[Helena\] in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
+<figcaption>Krisztina Szabó (right) and Danielle Buonaiuto in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
@@ -79,7 +79,7 @@ The robot chorus - minus Routhier for this performance - was also captivating. F
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902510/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7267_xob0jm.jpg){{% /md %}}
 
-<figcaption>Krisztina Szabó (Helena) in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
+<figcaption>Krisztina Szabó as Helena in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
