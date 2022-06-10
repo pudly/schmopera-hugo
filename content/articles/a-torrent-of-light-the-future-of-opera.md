@@ -39,7 +39,7 @@ Helena tells Dom, who is immediately upset. The implications of robots having au
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902094/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7008_zrgjtw.jpg){{% /md %}}
 
-<figcaption>Scott Belluz (\[Alex\]) and the robot chorus in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
+<figcaption>Scott Belluz as \[Alex\] and the robot chorus in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
@@ -57,7 +57,7 @@ Routhier's mezzo is deep and rich and flexible. Her top blooms with a brightness
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902174/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7236_zzlfdr.jpg){{% /md %}}
 
-<figcaption>Krisztina Szabó (left, Helena) and Danielle Buonaiuto (\[Helena\]) in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
+<figcaption>Krisztina Szabó (left) as Helena and Danielle Buonaiuto as \[Helena\] in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
