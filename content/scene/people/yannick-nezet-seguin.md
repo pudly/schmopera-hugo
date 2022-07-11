@@ -4,7 +4,7 @@ discipline = "Conductor"
 lastmod = "2015-11-25T10:59:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448466990792/2015-11-25---Yannick-Nezet-Seguin.jpg.jpg"
 publishDate = "2015-11-25T10:59:00-05:00"
-related_companies = ["scene/companies/lopra-de-montral.md","scene/companies/the-metropolitan-opera.md","scene/companies/salzburg-festival.md","scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md"]
+related_companies = ["scene/companies/lopra-de-montral.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/salzburg-festival.md", "scene/companies/royal-opera-house.md", "scene/companies/teatro-alla-scala.md"]
 slug = "yannick-nezet-seguin"
 title = "Yannick Nézet-Séguin"
 website = "http://www.yannicknezetseguin.com/"
@@ -16,8 +16,16 @@ url = "https://www.facebook.com/pages/Yannick-N%C3%A9zet-S%C3%A9guin/10378232299
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/nezetseguin"
-+++
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/nezetseguin/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/channel/UCftkbCdeSHJzQueLYCbs5zA"
 
++++
 Yannick Nézet-Séguin has been Music Director of the Philadelphia Orchestra since September 2012 and of the Rotterdam Philharmonic Orchestra since 2008, as well as Artistic Director and Principal Conductor of the Orchestre Métropolitain (Montréal) since 2000.
 
 Mr. Nézet-Séguin works regularly with many other fine ensembles in Europe, including the Staatskapelle Dresden, Berlin Philharmonic, Staatskapelle Berlin, Bavarian Radio Symphony Orchestra, Vienna Philharmonic Orchestra and Chamber Orchestra of Europe. He has been invited to several festivals, including those in London (BBC Proms), Edinburgh, San Sebastian, Santander and Grafenegg (Vienna). In North America, he has conducted at the Lanaudière, Vail Valley, Saratoga Springs and Mostly Mozart (New York) festivals. He also regularly conducts at Carnegie Hall with the Philadelphia Orchestra.
