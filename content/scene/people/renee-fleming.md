@@ -5,7 +5,7 @@ lastmod = "2015-04-18T18:54:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429397499922/RF7_CREDIT_DECCA_ANDREWECCLES.JPG.JPG"
 primary_image_credit = "Photo by Andrew Eccles"
 publishDate = "2015-04-18T18:54:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/eastman-opera-theatre.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/eastman-opera-theatre.md"]
 slug = "renee-fleming"
 title = "Renée Fleming"
 [[social_media]]
@@ -16,24 +16,310 @@ url = "https://www.facebook.com/ReneeFlemingMusic?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/reneesmusings"
+
 +++
+Renée Fleming is one of the most highly acclaimed singers of our time, performing on the stages of the world’s greatest opera houses and concert halls. Honored with four Grammy® awards and the US National Medal of Arts, Renée has sung for momentous occasions from the Nobel Peace Prize ceremony to the Diamond Jubilee Concert for Queen Elizabeth II at Buckingham Palace.
 
-One of the most beloved and celebrated musical ambassadors of our time, soprano Renée Fleming captivates audiences with her sumptuous voice, consummate artistry, and compelling stage presence. At a White House ceremony in 2013, the President awarded her the National Medal of Arts, America's highest honor for an individual artist. Known as “the people’s diva” and winner of the 2013 Grammy Award for Best Classical Vocal Solo, she continues to grace the world’s greatest opera stages and concert halls, now extending her reach to include other musical forms and media. Over the past few seasons, Renée has hosted a wide variety of television and radio broadcasts, including the Metropolitan Opera’s Live in HD series for movie theaters and television, and Live From Lincoln Center on PBS. She brought her voice to a vast new audience in 2014, as the first classical artist to sing the National Anthem at the Super Bowl.
+In 2014, she brought her voice to vast new audience as the first classical artist ever to sing The Star
 
-As a musical statesman, Renée has been sought after on numerous distinguished occasions, from the 2006 Nobel Peace Prize ceremony to performances in Beijing during the 2008 Olympic Games. In 2012, in an historic first, she sang on the balcony of Buckingham Palace in the Diamond Jubilee Concert for HM Queen Elizabeth II. In January 2009, Renée was featured in the televised We Are One: The Inaugural Celebration at the Lincoln Memorial concert for President Obama. She has also performed for the United States Supreme Court and, in November 2009, celebrated the 20th anniversary of the Czech Republic’s “Velvet Revolution” at the invitation of Václav Havel. An additional distinction was bestowed in 2008 when, breaking a precedent, Renée became the first woman in the 125-year history of the Metropolitan Opera to solo headline an opening night gala.
+\-
 
-Renée began 2014 at the Metropolitan Opera with her acclaimed portrayal of the title character in Dvorak's *Rusalka*, under the baton of Yannick Nézet-Séguin. In April, she sang the title role of Strauss's *Arabella* at the Salzburg Easter Festival, and May marked the Los Angeles Opera debut of Renée's Blanche in André Previn's *A Streetcar Named Desire*. In July, Renée made her debut as an actress in a non-musical play, in Living On Love at the Williamstown Theater Festival. In autumn of 2014, Renée was seen as Countess Madeleine in Strauss's *Capriccio* at Lyric Opera of Chicago, under the baton of Sir Andrew Davis, and with conductor Christian Thielemann at the Semperoper Dresden. On New Year's Eve she sang the title role in a new production of Lehar's *The Merry Widow* at the Metropolitan Opera.  
+Spangled Banner
 
-Renée's recital schedule in recent years has spanned the globe, including Rio de Janeiro, São Paulo, Buenos Aires, Quito, Bogota,  Paris, Geneva, London, Vienna, Hong Kong, Beijing, Guangzhou, and Taipei. In 2013, she joined with the John F. Kennedy Center for the Performing Arts to present American Voices, a concert and 3-day festival celebrating the best American singing in all genres. The festival was the subject of a Great Performances documentary on PBS in January of 2015. Her 2014 recital calendar included performances in Tucson, Las Vegas, and Mesa, AZ. Concerts in 2014 included a duo evening with tenor Jonas Kaufmann at Lyric Opera of Chicago, another with tenor Michael Schade and the Dresden Philharmonic in Abu Dhabi, a concert at the New National Theatre in Tokyo, and Dresden concerts of Richard Strauss orchestral songs conducted by Christian Thielemann. 
+at the Super
 
-A four-time Grammy winner, Renée won the 2013 Best Classical Vocal Solo Grammy Award for Poèmes (Decca, 2012), a collection of 20th-Century French music, including works composed especially for her by Henri Dutilleux. Her first-ever holiday album, Christmas in New York, was released by Decca in October of 2014.  In June 2010, Decca and Mercury records released the CD Dark Hope, which features Renée covering songs by indie-rock and pop artists. Her recent opera dvds include Strauss's *Arabella* and *Ariadne auf Naxos*, and Donizetti's *Lucrezia Borgia*. Other recent DVD releases include Handel's *Rodelinda*, Massenet’s *Thaïs* and Rossini’s *Armida*, all three in the Metropolitan Opera Live in HD series, and Verdi’s *Traviata*, filmed at London’s Royal Opera House. Ms. Fleming's 2010 DVD Renée Fleming & Dmitri Hvorostovsky: A Musical Odyssey in St. Petersburg follows Renée and baritone Dmitri Hvorostovsky to Russia, where they explore and perform in some of St. Petersburg's most historic locations. In recent years, this fourteen-time Grammy nominated artist has recorded everything from Strauss’s complete *Daphne* to the jazz album Haunted Heart to the movie soundtrack of *The Lord of the Rings: The Return of the King*. She recorded Alexandre Desplat's theme song, "Still Dream" for the soundtrack of the Dreamworks Animation feature, Rise of the Guardians. Her recording honors range from the 2009 Echo Award for Strauss’s *Four Last Songs* to the Prix Maria Callas Orphée d’Or by the Académie du Disque Lyric for TDK’s DVD production of *Capriccio*. In February, 2012, Renée received the Victoire d’Honneur, the highest award conveyed by the French Victoires de la Musique.
+Bowl.
 
-Renée Fleming’s artistry has been an inspiration to many other prominent artists, such as Chuck Close and Robert Wilson, whose portraits of her were included in the Metropolitan Opera’s 2007 fundraising auction. Two portraits of Ms. Fleming were also created by Francesco Clemente, who revealed one in Salzburg in spring 2007, with the Metropolitan Opera displaying the other in 2008. Photographic portraits include works by Brigitte Lacombe and Irving Penn, among others. In June of this year, the Annie Leibowitz portrait of Renée was added to the permanent collection of the National Portrait Gallery in Washington, DC. 
+In 2008 Renée was the first woman in the 125
 
-Renée Fleming is a champion of new music and has performed works by a wide range of contemporary composers, including recent compositions by Anders Hillborg, Henri Dutilleux, Brad Mehldau, André Previn, and Wayne Shorter. Among her numerous awards are the Fulbright Lifetime Achievement Medal (2011); Sweden’s Polar Prize (2008); the Chevalier de la Légion d’Honneur from the French government (2005); Honorary Membership in the Royal Academy of Music (2003); and honorary doctorates from Carnegie Mellon University (2012), the Eastman School of Music (2011) and The Juilliard School (2003), where she was also commencement speaker.
+\-
 
-An advocate for literacy, Renée Fleming has been featured in promotional campaigns for the Association of American Publishers (Get Caught Reading), and the Magazine Publishers of America’s READ poster campaign for the American Library Association. She was honored by The New York Public Library as a “Library Lion.” Her book, The Inner Voice, was published by Viking Penguin in 2004, and released in paperback by Penguin the following year. An intimate account of her career and creative process, the book is also published in France by Fayard Editions, in the United Kingdom by Virgin Books, by Henschel Verlag in Germany, Shunjusha in Japan, and by Fantom Press in Russia.
+year history of the Metropolitan Opera to solo
 
-In addition to her work on stage and in recordings, Renée Fleming has represented Rolex timepieces in print advertising since 2001. In 2008, she launched La Voce by Renée Fleming, a fragrance designed for her, with the proceeds benefiting the Metropolitan Opera. Master Chef Daniel Boulud created the dessert “La Diva Renée” (1999) in her honor, and she inspired the “Renée Fleming Iris” (2004), which has been replicated in porcelain by Boehm. Having been added to Mr. Blackwell’s best dressed list, her concert gowns have been designed by Reem Acra, Gianfranco Ferré, John Galliano for Dior, Douglas Hannant, Christian Lacroix, Oscar de la Renta, Angel Sanchez and Vivienne Westwood. In June of 2014, the Smithsonian added the gown designed by Vera Wang for Renée's Super Bowl anthem performance to the permanent collection of the Museum of American History. In addition to serving as the face of opera for two public transit campaigns in New York and London, Renée has appeared on The Late Show with David Letterman, The Martha Stewart Show, Spectacle: Elvis Costello with…, The View and Prairie Home Companion as “Renata Flambé,” among numerous other media outlets.
+headline an opening night gala.
 
-Renée is currently a member of the Board of Trustees of the Carnegie Hall Corporation, the Board of Sing for Hope, the Board of Trustees of Asia Society, and the Artistic Advisory Board of the Polyphony Foundation, which works to bridge the divide between Arab and Jewish communities in Israel by creating a common ground where young people come together around classical music. In 2010, she was named the first-ever Creative Consultant at Lyric Opera of Chicago, where she is also a member of the Board and a Vice President. She is currently curating the creation of a world-premiere opera based on the best-seller Bel Canto for Lyric Opera's 2015-2016 season.
+Known for bringing new audiences to classical music and opera, Renée h
+
+as starred in and hosted an
+
+array of television and radio broadcasts, including The Met:
+
+Live in HD
+
+and
+
+Live from Lincoln Center
+
+.
+
+Her
+
+voice is featured on the soundtracks of Best Picture Oscar winners
+
+The Shape of Water
+
+and
+
+The Lord of
+
+the Rings: The Retur
+
+n of the King
+
+.
+
+This
+
+seven
+
+teen
+
+\-
+
+time Grammy nominated artist has recorded
+
+everything from complete operas and song recitals to jazz
+
+and indie rock
+
+.
+
+During the pandemic, Renée
+
+’s
+
+performances
+
+on digital platforms
+
+have included
+
+stream
+
+ed
+
+online
+
+concerts
+
+for the Metropolitan Opera,
+
+the Kennedy Center, Lyric Opera of Chicago,
+
+LA Opera,
+
+and
+
+the Baltimore Symphony Orchestra
+
+.
+
+In
+
+2020
+
+, Renée launched
+
+Music and Mind LIVE
+
+, a weekly online interview show exploring the
+
+intersection of music and arts with human h
+
+ealth and the brain.
+
+In 19 episodes, t
+
+he show
+
+amassed
+
+more
+
+than
+
+6
+
+50,000 view
+
+s
+
+, from
+
+7
+
+0 countries. Renée was inspired to launch the series by the Sound Health
+
+initiative she leads as Artistic Advisor to the John F. Kennedy Center for the Performing Arts, in
+
+partnership with the NIH and the NEA. She has given presentations with scientists and practitioners on
+
+the connection of arts and health
+
+around the world
+
+, and
+
+is a leading advocate for research in this field,
+
+winning
+
+the 2020
+
+Rosenfeld Award for Impact on
+
+Public Opinion.
+
+In addition to her work with the Kennedy Center,
+
+R
+
+enée leads
+
+SongStudio at
+
+Carnegie Hall, a
+
+n intensive
+
+program for young
+
+singers and pianists
+
+dedicated to
+
+the art of the song. S
+
+h
+
+e is C
+
+o
+
+\-
+
+Director of
+
+the Aspen
+
+Opera Center and VocalArts at
+
+the Aspen Music Festival.
+
+In 2019
+
+,
+
+Renée
+
+appeared opposite Ben Whishaw in
+
+Norma Jean Baker of Troy
+
+to open The Shed in New
+
+York City.
+
+Later that year
+
+, she performed world premieres
+
+by
+
+André Previn and Kevin Puts
+
+with the
+
+Boston Symphony Orchestra
+
+, and
+
+the
+
+London premiere of
+
+The Light in the Piazza
+
+, bringing
+
+the
+
+acclaimed
+
+production
+
+to Los Angeles and Chicago in the autumn. Renée earned a Tony Award nomination for her
+
+performance in the 2018 Broadway production of Rodgers and Hammerstein’s
+
+Carousel
+
+.
+
+Renée’
+
+s
+
+book,
+
+The Inner Voice
+
+, was published by Viking Penguin in 2004
+
+, and
+
+is now in its sixteenth
+
+printing
+
+. It
+
+is also published in France, the United Kingdom
+
+,
+
+Germany, Japan, Poland, Russia
+
+, and China
+
+.
+
+Renée’s
+
+other awards include
+
+the Fulbright Lifetime Achi
+
+evement Medal, Germany’s Cross of the Order
+
+of Merit,
+
+Sweden’s Polar Music Prize,
+
+France’s Chevalier de la Légion d’Honneur
+
+, and honorary
+
+doctorates from
+
+Yale, Northwestern
+
+, Harvard, Duke, and Carnegie Mellon Universities, and
+
+the
+
+University of Pennsylvani
+
+a
+
+,
+
+the Eastman School of Music
+
+,
+
+and The Juilliard School
+
+.
+
+www.reneefleming.com
