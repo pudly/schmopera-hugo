@@ -2,8 +2,8 @@
 date = "2015-06-22T21:28:00-06:00"
 discipline = "Bass-baritone"
 lastmod = "2015-06-22T21:29:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435030072163/RYAN_SPEEDO_GREEN-9220.jpg.jpg"
-primary_image_credit = "Dario Acosta"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1657550306/media/2022/07/Ryan_Speedo_Green_Credit_Dario_Acosta_1_gwcdih.jpg"
+primary_image_credit = "Dario Acosta."
 publishDate = "2015-06-22T21:29:00-06:00"
 related_companies = ["scene/companies/washington-national-opera.md", "scene/companies/fort-worth-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/cardiff-singer-of-the-world-competition.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/wolf-trap-opera.md", "scene/companies/the-juilliard-school.md"]
 slug = "ryan-speedo-green"
