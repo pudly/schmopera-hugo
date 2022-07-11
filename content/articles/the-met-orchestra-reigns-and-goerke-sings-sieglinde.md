@@ -11,7 +11,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1657549194/m
 primary_image_credit = ""
 related_articles = []
 related_companies = []
-related_people = []
+related_people = ["scene/people/missy-mazzoli.md", "scene/people/yannick-nezet-seguin.md", "scene/people/brandon-jovanovich.md", "scene/people/ryan-speedo-green.md", "scene/people/nadine-sierra.md", "scene/people/christine-goerke.md"]
 short_description = "The blazing orchestra doesn't so much compensate for the lack of the sword and tree but more accurately supplants the need for such paraphernalia."
 slug = "the-met-orchestra-reigns-and-goerke-sings-sieglinde"
 title = "The MET Orchestra reigns and Goerke sings Sieglinde"
@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 As the erotic energy of Strauss' _Don Juan_ gave way to its fateful conclusion, an audible gasp was heard in the audience. It diffused what was otherwise a profound and breathtaking moment of silence. The mighty MET Orchestra, reigning on stage for the second of its three concerts at Carnegie Hall, performed this complexly orchestrated tone poem with consummate power and precision that is arguably unmatched in the higher echelons of opera orchestras or symphony orchestras for that matter.
 
-The evening was headlined by Wagner's _Die Walküre_, Act I with soprano [Christine Goerke](/talking-with-singers-christine-goerke/), the MET's current Brünnhilde, singing Sieglinde for the first time. But is was the Strauss and Yannick Nézet-Séguin's conducting, thoughtful and gyroscopically nimble, that immediately captivated the full house.
+The evening was headlined by Wagner's _Die Walküre_, Act I with soprano [Christine Goerke](/talking-with-singers-christine-goerke/), the MET's current Brünnhilde, singing Sieglinde for the first time. But is was the Strauss and [Yannick Nézet-Séguin](/scene/people/yannick-nezet-seguin/)'s conducting, thoughtful and gyroscopically nimble, that immediately captivated the full house.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
@@ -29,7 +29,7 @@ The evening was headlined by Wagner's _Die Walküre_, Act I with soprano [Christ
 
 _Don Juan_ challenges a conductor to search beyond the spectacle of its requisite revelry and corrupted romance. Nézet-Séguin, while sacrificing none of the fireworks, infused it with beautifully rendered substance and emotion, most evident during the final moments but surfacing throughout. Recognizing individual musicians or even sections of this group is like asking parents which of their children they favor most but the superb solo work by concertmaster David Chen, principal oboist Nathan Hughes and the triumphant horns cannot go without mention.
 
-Prone to understatement and with congenial informality Nézet-Séguin described Missy Mazzoli's _Sinfonia (for Orbiting Spheres)_ as a considerably calmer piece than its concert predecessor. It shimmered with undulating repetitions leading this writer to contemplate beautifully enigmatic spheres of unknowable breadth, spheres that interacted in ways that defy definition. It appeared that all spheres may not be created equal. Even in a kaleidoscopic world there was, as in _Don Juan_, a sense of foreboding as if some sort of reckoning might await.
+Prone to understatement and with congenial informality Nézet-Séguin described [Missy Mazzoli](/scene/people/missy-mazzoli/)'s _Sinfonia (for Orbiting Spheres)_ as a considerably calmer piece than its concert predecessor. It shimmered with undulating repetitions leading this writer to contemplate beautifully enigmatic spheres of unknowable breadth, spheres that interacted in ways that defy definition. It appeared that all spheres may not be created equal. Even in a kaleidoscopic world there was, as in _Don Juan_, a sense of foreboding as if some sort of reckoning might await.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
