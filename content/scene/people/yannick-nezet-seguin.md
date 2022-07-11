@@ -2,7 +2,8 @@
 date = "2015-11-25T10:59:00-05:00"
 discipline = "Conductor"
 lastmod = "2015-11-25T10:59:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448466990792/2015-11-25---Yannick-Nezet-Seguin.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1657552291/media/2022/07/YannickNezetSeguin_ChrisLee_duedeu.jpg"
+primary_image_credit = "Chris Lee."
 publishDate = "2015-11-25T10:59:00-05:00"
 related_companies = ["scene/companies/lopra-de-montral.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/salzburg-festival.md", "scene/companies/royal-opera-house.md", "scene/companies/teatro-alla-scala.md"]
 slug = "yannick-nezet-seguin"
