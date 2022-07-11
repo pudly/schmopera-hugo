@@ -34,9 +34,9 @@ Prone to understatement and with congenial informality Nézet-Séguin described 
 
 <figcaption>Composer Missy Mazzoli, whose Sinfonia (for Orbiting Spheres) followed Strauss' Don Juan with the MET Orchestra at Carnegie Hall. Photo: Marylene May.</figcaption></figure>
 
-Mazzoli’s relationship with the MET extends beyond the concert stage to an opera commission in progress based on George Saunders's novel Lincoln In The Bardo. Nézet-Séguin reminded us that in the 2021-22 season the MET produced three new operas, _Eurydice_, _Fire Shut Up In My Bones_ and _Hamlet_, with more to come.
+Mazzoli's relationship with the MET extends beyond the concert stage to an opera commission in progress based on George Saunders's novel _Lincoln In The Bardo_. Nézet-Séguin reminded us that in the 2021-22 season the MET produced three new operas, _Eurydice_, _Fire Shut Up In My Bones_ and _Hamlet_, with more to come.
 
-Before Nézet-Séguin began _Die Walküre_, Act I he commented that Wagner would disapprove of a concert performance. Adding he didn’t care the maestro posited that a _Ring_ Cycle in concert might be an interesting idea. How true, especially if it served as a segue from the Robert Lepage cycle with that lamentable 45-ton machine.
+Before Nézet-Séguin began _Die Walküre_, Act I he commented that Wagner would disapprove of a concert performance. Adding he didn’t care the maestro posited that a _Ring Cycle_ in concert might be an interesting idea. How true, especially if it served as a segue from the Robert Lepage cycle with that lamentable 45-ton machine.
 
 Wagner's wishes notwithstanding, Act I is a natural for the concert stage. No need for scenery since Wagner does the scene painting, and what a job the MET Orchestra does in manipulating the paint. The stage action is confined to Siegmund and Sieglinde meeting, realizing their incestuous love and running away together after Sieglinde drugs Hunding, her hostile and suspicious husband. Of course there's the moment when Siegmund pulls the mystical sword from an ash tree. But the blazing orchestra doesn't so much compensate for the lack of the sword and tree but more accurately supplants the need for such paraphernalia.
 
