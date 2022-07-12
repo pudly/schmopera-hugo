@@ -6,7 +6,7 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = "For more in this series, see the related links below. To read Laura Attridge's _Tuning In_ newsletter, [start here](https://us5.campaign-archive.com/?u=22295b68044fd4abb2a3aa0b0&id=28fe261072)."
-preamble = ""
+preamble = "This essay is from a series titled \"The Things They Didn't Teach You At Conservatoire\" by director, writer, and Schmopera contributor Laura Attridge. They are originally [published through her newsletter](https://mailchi.mp/5ea38970a15a/tuning-in-issue-8952501),  crossposted and edited here with her permission."
 primary_image = ""
 primary_image_credit = ""
 related_articles = []
@@ -42,64 +42,36 @@ One of the best ways to contribute to this approach, and support your developmen
 
 Sticking with the idea of nourishing yourself artistically, one of the best ways to do this is to deliberately seek out diverse artists and practitioners to inspire and challenge you. Whether you simply engage with their artistic output as an audience member, listener, reader or viewer, whether you attend a talk or a practical workshop by them, whether you engage with them in conversation or even in artistic collaboration, your efforts to go beyond the safety of your own discipline, perspective or demographic will benefit both you and the future of the art form in which you work.
 
-When you go about seeking new relationships to add to your network, remember that "your people" (as I called them in a previous issue of this series) are not just the obvious candidates who already
+When you go about seeking new relationships to add to your network, remember that "your people" (as I called them in a [previous issue of this series](/essay-tuning-in-to-getting-ahead/)) are not just the obvious candidates who already operate in the same circles: "your people" can and should be people who expand and diversify those circles.
 
-operate in the same circles: &quot;your people&quot; can and should be people who expand and diversify those
+### 2. Teachers, mentors and coaches
 
-circles.
+The next part of your community needs to be a support team, in the form of mentors, teachers and/or coaches, and many of the same principles and questions apply here. Ask yourself: am I being challenged to grow and develop? Who do I trust to hold a safe space for me in which I can explore without judgement? Who is invested in my long-term growth and flourishing? Remember, this doesn't have to be a whole battalion of people with whom you constantly engage, but rather a community you can turn to when you need extra support or guidance. Furthermore, once you have a set of people whose opinions and feedback about your work you trust and respect, it frees you up from seeking validation from audiences, audition panels, and any others who haven't earned their place in your team and don't necessarily have your growth and development at the heart of their response to you.
 
-2\. Teachers, mentors and coaches
+### 3. Peers and colleagues
 
-The next part of your community needs to be a support team, in the form of mentors, teachers
+And, finally, a suggestion that strikes at the heart of the competitive messaging we are fed not only in our training environments but also in the industry: your peers can be an invaluable source of support, and a resource for growth and development. If you accept that every one of us has something unique to offer, it means that you simply cannot be in direct competition with others in your field: you may be applying or auditioning for some of the same opportunities, sure, but there's no use in comparing yourself to anyone else, because you are fundamentally offering completely different things.
 
-and/or coaches, and many of the same principles and questions apply here. Ask yourself: am I being
+Once I accepted this and began to see other directors and writers working in opera not as competition but as peers to celebrate, support and/or learn from, a profound shift happened in my mindset. I was able to step away from toxic narratives about comparison and jealousy (which had been terrible for my mental health!), and have since established many of my most prized connections and friendships with some of those artists that I would previously have seen as competitors. The support and feedback I share with them is particularly special because we have an intimate understanding and appreciation of one another&#39;s experiences. So, if you aren't already, start sharing with your peers - practice, tips, materials, recommendations, advice, and so on - and consider the ways you can resist that competitive messaging and instead lift one another up.
 
-challenged to grow and develop? Who do I trust to hold a safe space for me in which I can explore
+## Developing your process
 
-without judgement? Who is invested in my long-term growth and flourishing? Remember, this
+Here's a final "how" to consider: how you go about practising your craft, and by that I don't just mean technical practice, although that's a good place to start.
 
-doesn&#39;t have to be a whole battalion of people with whom you constantly engage, but rather a
+So let's do just that: whether you're an instrumentalist or a singer, an actor or a dancer, a painter or a photographer, a writer or a director, or any other kind of artist, how do you approach your technical practice? I'm not asking what that practice involves, but rather how you undertake it. How do you manage scheduling it or working it around other commitments? What is your mindset? What is your learning style? And how do you incorporate input from your community to best advantage?
 
-community you can turn to when you need extra support or guidance. Furthermore, once you have a
+Get curious about process: books like the classic _The Inner Game of Tennis_ are a great place to start for some suggestions about how you can transform your approach to practising. You might find ideas from other disciplines - whether artistic or not - really helpful, if you can't find the right ideas within your own circles.
 
-set of people whose opinions and feedback about your work you trust and respect, it frees you up
+And then what about when you're actually out there doing the work itself: _that_ sense of the word "practice"? What's your process there? If you're a singer, for example, how do you navigate your way through a rehearsal period and take responsibility for your own journey so that you're where you want to be by the time the show opens to the public? If you're a writer, how do you manage the process of drafting and refining towards the completion of a commission so that you're happy with what you end up with in the final version? Have you figured out the structures within which you work best?
 
-from seeking validation from audiences, audition panels, and any others who haven&#39;t earned their
+And thinking more generally, how do you manage your day-to-day, week-to-week, month-to-month practice in the broadest sense of the word? What are the structures in place to help you do that? Do you use goal-setting methods, a To Do List app (like [ToDoist](https://todoist.com/)), time-management techniques (like [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique)), weekly time-blocking, or longer-term scheduling? Do you know what time/s of day you are most focused or productive? Do you prefer an electronic or paper diary? What works best for you, for your lifestyle, your brain and your art, and what experiences can you learn from?
 
-place in your team and don&#39;t necessarily have your growth and development at the heart of their
+The more understanding you can gather about what works best for you, the better you can take responsibility for your practice, in all its manifestations, and work to your best abilities. In my experience, you can only make these discoveries through trial and error. What works for someone else won't necessarily work for you - and discovering that doesn't mean you're a failure; it just means you've received some really useful information to help you move forward.
 
-response to you.
+And remember, as we've established, you don't have to go it alone to figure this stuff out: use your community to help you explore and develop an approach that works best.
 
-3\. Peers and colleagues
+Again, this is all an exercise in a curiosity mindset: figuring out what works best for you takes time and energy and mistakes along the way, but if you commit to staying curious it will contribute to a joyful lifelong journey of getting to know yourself and your art better and better.
 
-And, finally, a suggestion that strikes at the heart of the competitive messaging we are fed not only
+So there you have it: a whistle-stop tour through just some of the areas of enquiry that come under "developing your craft". There are, of course, many, many more questions to be asked, but the most important thing is that you start by asking some of them and see where they take you.
 
-in our training environments but also in the industry: your peers can be an invaluable source of
-
-support, and a resource for growth and development. If you accept that every one of us has
-
-something unique to offer, it means that you simply cannot be in direct competition with others in
-
-your field: you may be applying or auditioning for some of the same opportunities, sure, but there&#39;s
-
-no use in comparing yourself to anyone else, because you are fundamentally offering completely
-
-different things.
-
-Once I accepted this and began to see other directors and writers working in opera not as
-
-competition but as peers to celebrate, support and/or learn from, a profound shift happened in my
-
-mindset. I was able to step away from toxic narratives about comparison and jealousy (which had
-
-been terrible for my mental health!), and have since established many of my most prized
-
-connections and friendships with some of those artists that I would previously have seen as
-
-competitors. The support and feedback I share with them is particularly special because we have an
-
-intimate understanding and appreciation of one another&#39;s experiences. So, if you aren&#39;t already, start
-
-sharing with your peers - practice, tips, materials, recommendations, advice, and so on - and
-
-consider the ways you can resist that competitive messaging and instead lift one another up.
+Good luck!
