@@ -26,7 +26,7 @@ Instead, the message - often delivered via unspoken means, which makes it even m
 
 This damaging messaging shows up in all sorts of ways and all sorts of places. I’ll explore just a few of them here.
 
-## What Makes You Unique?
+## What makes you unique?
 
 No one asked me this when I was at music college. No one ever even hinted that the things I brought to the table - my singular combination of skills, experiences, knowledge, passions, and so on - might be something to explore, much less celebrate. In fact, I was told multiple times, by multiple teachers and mentors, to "turn my brain off", because apparently no one wants an intellectual soprano. The message was clear: there are a set number of kinds of soprano you can be; we'll decide what kind you are and you can try to live up to that.
 
@@ -46,7 +46,7 @@ So what is it that you bring to the table? What is your specific combination of 
 
 Here's how I work with singers now: by starting from an assumption that what they have to offer is unique and beautiful, and that my job is to support the expression of that uniqueness and beauty by meeting it half way with my own artistry. Sometimes that looks like collaboration in a rehearsal room, sometimes it's the creation of a safe space for exploration in a workshop or coaching, and sometimes it's me being the first person to ask someone, without judgement, "what is it that you bring to the table?" Because it never gets old seeing someone step into their power by embracing what makes them _them_.
 
-## What Does Success Look Like?
+## What does success look like?
 
 If there are innumerable unique artists out there, the same can be said of how many ways there are to move through the world as an artist. The prevailing narrative that there are a limited number of ways to be a valid or valuable artist is, as I said before, complete and utter bullshit. It's also, when you really think about it, literally impossible, so for our training programmes to suggest that they're preparing students to follow a set path is, frankly, absurd.
 
