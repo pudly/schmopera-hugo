@@ -18,7 +18,7 @@ title = "Essay: Tuning In to Getting Ahead"
 youtube_url = ""
 
 +++
-> "The world is full of people who are grabbing and self-seeking. So the rare individual who unselfishly tries to serve others has an enormous advantage." ― Dale Carnegie
+> "The world is full of people who are grabbing and self-seeking. So the rare individual who unselfishly tries to serve others has an enormous advantage." ― [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie)
 
 There's a particular word in the English language that makes me feel a little sick anytime I read or hear it, and I'm sure I'm not the only one...
 
@@ -42,7 +42,7 @@ It has some other advantages, too...
 
 Here's what I've discovered in recent years: the more I prioritise pursuing authentic connections with people I'm genuinely interested in, the more work I make that is aligned with my own values, and the more I find satisfaction and validation as an artist through that work. That's because I'm making it with teams and collaborators who are, for want of a better phrase, "my people". And because that work is aligned with what really matters to me, it leads to more authentic connections, and those connections lead to more work. And so on, and so forth. It's a self-fulfilling system (more detail on this in a bit). If we're talking networking, it's building a strong network that's going to last you a long, long time.
 
-It's also an ingenious time-and-energy-saving device. Because the more I see how rich the vein of genuine connection is, the more confident I feel weeding out relationships that don't feel like that. Goodness knows I&#39;ve come out of enough meetings in my time feeling awkward or undervalued or misunderstood, and for a long time I thought that was my fault - that I wasn't trying hard enough to connect, or I hadn't prepared well enough, or my ideas weren't good enough. But now I know not to take it personally: I won't be for everyone, and not everyone will be for me, and that's OK. Coming out of a meeting feeling a bit "meh" (or, in some cases, worse than "meh") means that that person is simply not one of my people.
+It's also an ingenious time-and-energy-saving device. Because the more I see how rich the vein of genuine connection is, the more confident I feel weeding out relationships that don't feel like that. Goodness knows I've come out of enough meetings in my time feeling awkward or undervalued or misunderstood, and for a long time I thought that was my fault - that I wasn't trying hard enough to connect, or I hadn't prepared well enough, or my ideas weren't good enough. But now I know not to take it personally: I won't be for everyone, and not everyone will be for me, and that's OK. Coming out of a meeting feeling a bit "meh" (or, in some cases, worse than "meh") means that that person is simply not one of my people.
 
 Which brings me on to...
 
@@ -52,7 +52,7 @@ One of my favourite quotes to use with singers when talking about auditions is f
 
 I like to take the metaphor further, though, so stay with me: if you're a ripe, juicy peach but you're trying to be a crisp, shiny apple... you'll do neither fruit justice. So the panel members looking for an apple won't see what they're looking for, and meanwhile any panel members who just adore the taste of peaches will have no idea an incredible specimen has just stepped into the room.
 
-This applies outside of auditions, too, of course. If you move through the world trying to be something or someone you&#39;re not, trying to make connections that don't honour your authentic self, you risk not connecting with the people who are your people. You risk not being able to make the work you are capable of making. You risk building a flimsy network, or no network at all.
+This applies outside of auditions, too, of course. If you move through the world trying to be something or someone you're not, trying to make connections that don't honour your authentic self, you risk not connecting with the people who are your people. You risk not being able to make the work you are capable of making. You risk building a flimsy network, or no network at all.
 
 ## Planting seeds
 
