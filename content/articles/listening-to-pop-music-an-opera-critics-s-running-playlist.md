@@ -72,4 +72,8 @@ Because great artists are always self-aware, Panic! At The Disco also has a song
 
 </figure>
 
-## "Fuck You" by Ceelo Green
+## "Fuck You" by CeeLo Green
+
+<figure data-type="video"{{% md %}}<iframe width="1019" height="574" src="https://www.youtube.com/embed/pc0mxOXbWIU" title="CeeLo Green - FUCK YOU (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+
+</figure>
