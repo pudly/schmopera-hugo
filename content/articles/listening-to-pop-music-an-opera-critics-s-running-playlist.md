@@ -20,9 +20,9 @@ youtube_url = ""
 +++
 Now, I'm not saying you _can't_ get a [good workout while listening to opera](/the-opera-workout/) -- but I'll admit that it's not my go-to when I'm trying to get sweaty.
 
-I know it's fun for plenty of opera and classical music critics to make it seem like they lift to Wagner's _Ride of the Valkyries_ or spin to Ravel's _Bolero_, but I just can't make myself be that consistent in my love of the late greats. (Although I will recommend yoga to Glass, and I've found that Prokofiev's Piano Concertos are a solidly weird way to pump yourself up.)
+I know it's fun for plenty of critics to make it seem like they're so loyal to their opera and classical music beats that they lift to Wagner's _Ride of the Valkyries_ or spin to Ravel's _Bolero_. But despite my utter love for Wagner and Ravel and all the late-greats, I just can't make myself be that consistent in my listening. (Although I will recommend yoga to Glass, and I've found that Prokofiev's Piano Concertos are a solidly weird way to pump yourself up.)
 
-So, I listen to pop music. Like, the poppiest pop music that ever topped the pop charts. All the Lady Gaga, all the Beyoncé, Katy Perry doing whatever, "Despacito" remixes, Pitbull, Macklemore, Skrillex, all of it. 
+So, I work out to pop music. Like, the poppiest pop music that ever topped the pop charts. All the Lady Gaga, all the Beyoncé, Katy Perry doing whatever, "Despacito" remixes, Pitbull, Lizzo, Macklemore, Rihanna, Skrillex, all of it.
 
 (And yes, I am absolutely up for suggestions from you, readers, because I'm a 38-year-old woman and apparently no longer capable of discovering new music that's not already been out for several years. I joined the "All About That Bass" trend in 2019.)
 
