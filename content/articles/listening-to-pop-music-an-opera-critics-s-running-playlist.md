@@ -64,4 +64,8 @@ Always had high high hopes."
 
 Yup. And maybe subliminally, it's this message that makes this song _so freaking exciting_ to listen to; but for me, the woman who's always felt more for sheer sound, I think it's Urie's voice.
 
-He's got an incessant sound, and in "High Hopes" he spends a huge amount of time in that tenor sweet spot, the thrilling line between a gathered, resonant sound, versus pure screaming. 
+He's got an incessant sound, and in "High Hopes" he spends a huge amount of time in that tenor sweet spot, the thrilling line between a gathered, resonant sound, versus pure screaming. ****
+
+<figure data-type="video">{{% md %}}<iframe width="1054" height="441" src="https://www.youtube.com/embed/IPXIgEAGe4U" title="Panic! At The Disco - High Hopes (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+
+</figure>
