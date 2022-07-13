@@ -76,6 +76,8 @@ Because great artists are always self-aware, Panic! At The Disco also has a song
 
 He's the face of our 2016 article about [pop singers with serious pipes](/13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys/), and CeeLo Green is a staple on my running playlists. "Fuck You" (or "Forget You", in its clean version) is pretty darn old by pop music standards, released in 2010 on his album, _The Lady Killer_. 
 
+Even though it's a very pointed middle finger to a woman who apparently dumped CeeLo for someone with more money, I love this song because it's full of joy. And the cool thing is, I think you can only get to a breakup song full of joy by doing two things that great singers do: travel the emotional road all the way to the end, and have your chops in order.
+
 * vibrato control
 * backup singers
 * 
