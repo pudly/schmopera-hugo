@@ -74,7 +74,11 @@ Because great artists are always self-aware, Panic! At The Disco also has a song
 
 ## "Fuck You" by CeeLo Green
 
-He's the face of our 2016 article about [pop singers with serious pipes](/13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys/), and CeeLo Green is a staple on my running playlists. 
+He's the face of our 2016 article about [pop singers with serious pipes](/13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys/), and CeeLo Green is a staple on my running playlists. "Fuck You" (or "Forget You", in its clean version) is pretty darn old by pop music standards, released in 2010 on his album, _The Lady Killer_. 
+
+* vibrato control
+* backup singers
+* 
 
 <figure data-type="video"{{% md %}}<iframe width="1019" height="574" src="https://www.youtube.com/embed/pc0mxOXbWIU" title="CeeLo Green - FUCK YOU (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
