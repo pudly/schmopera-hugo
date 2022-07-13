@@ -42,7 +42,7 @@ I'll never let you sweep me off my feet"
 
 Singer Elly Jackson oozes 80's fierceness with her throaty sound, which soars over a cool, chaotic beat that's all synth and insistent bass thumps. It's this beat that does some of the best word painting in the song: it sounds like we're in some shipping container or underground warehouse-turned-rave-club, in which there are actual bullets ricocheting from wall to wall, a thrilling add-on to the laser lighting and dry ice surely in the air.
 
- You can just hear her giving a dismissive wave to whoever she's dumping, and the tone of her voice brilliantly straddles the opposing sentiments, "I don't care!" and "And another thing!" In the super-catchy chorus, Elly leans into straight tone and declares, 
+You can just hear her giving a dismissive wave to whoever she's dumping, and the tone of her voice brilliantly straddles the opposing sentiments, "I don't care!" and "And another thing!" In the super-catchy chorus, Elly leans into straight tone and declares,
 
 "This time, baby, I'll be bulletproof"
 
@@ -73,6 +73,8 @@ Because great artists are always self-aware, Panic! At The Disco also has a song
 </figure>
 
 ## "Fuck You" by CeeLo Green
+
+He's the face of our 2016 article about [pop singers with serious pipes](/13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys/), and CeeLo Green is a staple on my running playlists. 
 
 <figure data-type="video"{{% md %}}<iframe width="1019" height="574" src="https://www.youtube.com/embed/pc0mxOXbWIU" title="CeeLo Green - FUCK YOU (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
