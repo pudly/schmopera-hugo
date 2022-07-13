@@ -53,7 +53,7 @@ Do you believe her?
 
 ## "High Hopes" by Panic! At The Disco
 
-Since Panic! At The Disco first showed up in 2005, Brendan Urie has been on my radar as a legit singer in the mainstream music world (because, readers, sometimes famous singers aren't actually good, believe it or not). "High Hopes" was released in 2018, and it's proof that Urie has the real chops needed by any lead singer -- and he's kept them up for over a decade, which is nothing to scoff at.
+Since Panic! At The Disco first showed up in 2005, Brendan Urie has been on my radar as a legit singer in the mainstream music world (because, readers, sometimes famous singers aren't actually good, believe it or not). "High Hopes" was released in 2018 on _Pray for the Wicked_, and it's proof that Urie has the real chops needed by any lead singer -- and he's kept them up for over a decade, which is nothing to scoff at.
 
 This song rings true to most people who've ever worked at something that's hard to achieve - like success as a professional musician. The lyrics start painfully true:
 
@@ -64,7 +64,9 @@ Always had high high hopes."
 
 Yup. And maybe subliminally, it's this message that makes this song _so freaking exciting_ to listen to; but for me, the woman who's always felt more for sheer sound, I think it's Urie's voice.
 
-He's got an incessant sound, and in "High Hopes" he spends a huge amount of time in that tenor sweet spot, the thrilling line between a gathered, resonant sound, versus pure screaming. ****
+He's got an incessant sound, and in "High Hopes" he spends a huge amount of time in that tenor sweet spot, the thrilling line between a gathered, resonant sound, versus pure screaming. But over and over, Urie finds that high, high height and it feels like his voice is telling us that he doesn't just have hope, but he made it.
+
+Because great artists are always self-aware, Panic! At The Disco also has a song on the same _Pray for the Wicked_ album, called ["Hey Look Ma, I Made It"](https://www.youtube.com/watch?v=BzbxacRr5Gk).
 
 <figure data-type="video">{{% md %}}<iframe width="1054" height="441" src="https://www.youtube.com/embed/IPXIgEAGe4U" title="Panic! At The Disco - High Hopes (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
