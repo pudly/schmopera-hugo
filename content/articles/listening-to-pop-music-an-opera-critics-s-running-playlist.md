@@ -29,3 +29,39 @@ So, I work out to pop music. Like, the poppiest pop music that ever topped the p
 Anyway. The cool thing about being an over-educated musician listening to pop music while on a runner's high is that you can do what I call varsity-level listening. It just means that compared to how the average person who didn't do two degrees in Western classical music, you're listening to music with more tools in your ears. Readers, I bet you guys do this, too, and it's one of the coolest residual takeaways from studying music in a serious way.
 
 So, I'm starting a new mini-series, where I take you through a few of my favourite songs on my workout playlist, and tell you about what I hear. The point is to like the songs even more than on first hearing, and listen to them so hard until you need like five years off before hitting play again (I see you, "Hey Ya!")
+
+In this first instalment, I've picked three of my current favourites:
+
+## "Bulletproof" by La Roux
+
+Released in June 2009, "Bulletproof" is an awesome example of making a song sound like its meaning. It's a song about breaking up with someone who seems like they deserved to be broken up with. The lyrics kick off strong:
+
+"Been there, done that, messed around /  
+I'm having fun, don't put me down /  
+I'll never let you sweep me off my feet"
+
+Singer Elly Jackson oozes 80's fierceness with her throaty sound, which soars over a cool, chaotic beat that's all synth and insistent bass thumps. It's this beat that does some of the best word painting in the song: it sounds like we're in some shipping container or underground warehouse-turned-rave-club, in which there are actual bullets ricocheting from wall to wall, a thrilling add-on to the laser lighting and dry ice surely in the air.
+
+ You can just hear her giving a dismissive wave to whoever she's dumping, and the tone of her voice brilliantly straddles the opposing sentiments, "I don't care!" and "And another thing!" In the super-catchy chorus, Elly leans into straight tone and declares, 
+
+"This time, baby, I'll be bulletproof"
+
+Do you believe her?
+
+<figure data-type="video"{{% md %}}<iframe width="916" height="515" src="https://www.youtube.com/embed/Kk8eJh4i8Lo" title="La Roux - Bulletproof (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}  
+</figure>
+
+## "High Hopes" by Panic! At The Disco
+
+Since Panic! At The Disco first showed up in 2005, Brendan Urie has been on my radar as a legit singer in the mainstream music world (because, readers, sometimes famous singers aren't actually good, believe it or not). "High Hopes" was released in 2018, and it's proof that Urie has the real chops needed by any lead singer -- and he's kept them up for over a decade, which is nothing to scoff at.
+
+This song rings true to most people who've ever worked at something that's hard to achieve - like success as a professional musician. The lyrics start painfully true:
+
+"Had to have high high hopes for a living /  
+Shooting for the stars when I couldn't make a killing /  
+Didn't have a dime but I always had a vision /  
+Always had high high hopes."
+
+Yup. And maybe subliminally, it's this message that makes this song _so freaking exciting_ to listen to; but for me, the woman who's always felt more for sheer sound, I think it's Urie's voice.
+
+He's got an incessant sound, and in "High Hopes" he spends a huge amount of time in that tenor sweet spot, the thrilling line between a gathered, resonant sound, versus pure screaming. 
