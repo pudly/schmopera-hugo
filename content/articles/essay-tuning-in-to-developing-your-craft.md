@@ -5,7 +5,7 @@ date = 2022-07-12T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "For more in this series, see the related links below. To read Laura Attridge's _Tuning In_ newsletter, [start here](https://us5.campaign-archive.com/?u=22295b68044fd4abb2a3aa0b0&id=28fe261072)."
-preamble = "This essay is from a series titled \"The Things They Didn't Teach You At Conservatoire\" by director, writer, and Schmopera contributor Laura Attridge. They are originally [published through her newsletter](https://mailchi.mp/5ea38970a15a/tuning-in-issue-8952501),  crossposted and edited here with her permission."
+preamble = "This essay is from a series titled \"The Things They Didn't Teach You At Conservatoire\" by director, writer, and Schmopera contributor Laura Attridge. They are originally [published through her newsletter](https://us5.campaign-archive.com/?u=22295b68044fd4abb2a3aa0b0&id=28fe261072),  crossposted and edited here with her permission."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1657653841/media/2022/07/Essay_developingcraft_ikoszn.jpg"
 primary_image_credit = ""
 related_articles = ["articles/essay-tuning-in-to-looking-after-yourself.md", "articles/essay-tuning-in-to-getting-ahead.md", "articles/essay-tuning-in-to-what-makes-you-unique.md"]
