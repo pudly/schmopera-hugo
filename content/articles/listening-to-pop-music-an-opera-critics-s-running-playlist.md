@@ -74,13 +74,21 @@ Because great artists are always self-aware, Panic! At The Disco also has a song
 
 ## "Fuck You" by CeeLo Green
 
-He's the face of our 2016 article about [pop singers with serious pipes](/13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys/), and CeeLo Green is a staple on my running playlists. "Fuck You" (or "Forget You", in its clean version) is pretty darn old by pop music standards, released in 2010 on his album, _The Lady Killer_. 
+He's the face of our 2016 article about [pop singers with serious pipes](/13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys/), and CeeLo Green is a staple on my running playlists. "Fuck You" (or "Forget You", in its clean version) is pretty darn old by pop music standards, released in 2010 on his album, _The Lady Killer_.
 
 Even though it's a very pointed middle finger to a woman who apparently dumped CeeLo for someone with more money, I love this song because it's full of joy. And the cool thing is, I think you can only get to a breakup song full of joy by doing two things that great singers do: travel the emotional road all the way to the end, and have your chops in order.
 
-* vibrato control
-* backup singers
-* 
+CeeLo delivers his lyrics, peppered with hilarious snark, with the kind of crisp diction that thrills any voice coach:
+
+"Yeah, I'm sorry /  
+I can't afford a Ferrari /  
+But that don't mean I can't get you there"
+
+Hah, zing! I also love his nod to Mr. T, with "I pity the fool that falls in love with you", and the rhyme that not everyone can pull off: "If I was richer, I'd still be with ya". 10/10 for lyrics, and they're made even better by his The Temptations-esque backup singers.
+
+But what I love most is when CeeLo shows off the control he has over his instrument. There's the bridge section, where he remembers how sad he was when his ex first dumped him, wailing "Why?" in an exaggerated, wide vibrato. He brings that effect way up into his tenor range, and for a moment he turns his singing into sheer acting.
+
+You know it's a choice, because a measure later, when he snaps back into the chorus, his vibrato is back to its healthy focus, and those high notes fall out with that awesome reedy, masky sound that gives me a much-needed jolt of workout motivation. (I get a similar sensation when great tenors sing that gorgeous "M'ama!" moment in "Una furtiva lagrima" from _The Elixir of Love._)
 
 <figure data-type="video"{{% md %}}<iframe width="1019" height="574" src="https://www.youtube.com/embed/pc0mxOXbWIU" title="CeeLo Green - FUCK YOU (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
