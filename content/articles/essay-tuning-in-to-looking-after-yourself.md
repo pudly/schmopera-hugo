@@ -47,7 +47,7 @@ There were also quite a few suggestions related to water, including getting in t
 
 Like movement, this is another area where it’s easy - and understandable - to give one thing a go and decide you’re doing it wrong or it’s not for you, ultimately preventing yourself from reaping the benefits of a practice that's more tailor-made. I had some fantastic suggestions for ways that people have adapted a classic mindfulness practice to suit them; here are just a few:
 
-*  Find something active to do with your hands which allows your brain to take a break from everyday spirals of thinking and helps you get into a more mindful state. You could crochet, knit, draw, paint, chop vegetables, whittle, clean the bathroom, whatever works for you!
+* Find something active to do with your hands which allows your brain to take a break from everyday spirals of thinking and helps you get into a more mindful state. You could crochet, knit, draw, paint, chop vegetables, whittle, clean the bathroom, whatever works for you!
 * Make a mini-ritual to deliberately spend time alone with yourself: put your electronic devices away, light a candle, listen to some beautiful music or mindfully read a book. If you are so inclined, this could be an extension of an existing spiritual practice, or help form a new one.
 * Experiment with being in complete silence, allowing your brain to rest and recover from the onslaught of stimulation so many of us experience for a great deal of our day. Step away from distractions, take your headphones out, put your phone down, etc., and allow yourself to be in silence, however briefly. Just _be_ for a bit.
 * Explore various types of meditation or breathing through guided practice: there are all sorts of resources out there to help you find what kind practice might work for you; some free, some paid. Popular apps like [Ten Percent Happier](https://www.tenpercent.com/) and [Headspace](https://www.headspace.com/), for example, offer a wide range of different kinds of meditative practice so you can figure out what you like best!
@@ -135,4 +135,4 @@ There's so much more, of course, than there is room for in this article, but her
 * Massage and other therapies for the body are not just a luxury.
 * Spirituality - whether that's a religious faith or simply feeling part of something greater than oneself - offers connection, to others and to the world around us, and a sense of meaning.
 
-And there you have it. Just a few of the many ways available to explore to improve your wellbeing as an artist. We'll be digging a bit deeper into some of these ideas in the next issue; in the meantime I hope you've found something useful in the above!
+And there you have it. Just a few of the many ways available to explore to improve your wellbeing as an artist. Let me know how you get on.
