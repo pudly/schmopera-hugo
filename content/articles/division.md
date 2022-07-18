@@ -45,6 +45,10 @@ And I made the mistake of heading over to Anna's Instagram, just to see how her 
 
 There's certainly plenty of love for Anna on her [Instagram account](https://www.instagram.com/anna_netrebko_yusi_tiago/), as you'd expect there to be; and plenty of those Anna fans were quick to defend blackface, suggesting that sensitive Americans just didn't get the point of opera in Italy. When Anna herself did reply, it was to say that the choice to sport blackface wasn't hers (are we to imagine her being dragged, kicking and screaming, into the makeup chair against her will?), and that the singers who were crying outrage were just jealous of her success. Sigh.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1658159173/media/2022/07/Netrebko_instagram_screenshot2_fkjj7p.png){{% /md %}}
+
+</figure>
+
 So, back to the depressing thing that occurred to me: the opera world has become split in two, like so horrible microcosm of the rest of the globe. And it seems to stem from the actions of opera people who suck: those who continue to hire big-name singers [even though they faced accusations](https://www.reuters.com/article/us-spain-domingo/placido-domingo-apologizes-after-union-finds-he-sexually-harassed-women-idUSKCN20J113) of sexual harassment and assault by dozens of women over their entire career; those who [use their serious social media following](/guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane/) to tell people to do things that are ignorant and a public safety hazard; those who refuse to acknowledge that painting your face black in 2022 will piss some people off and that even singing Verdi's "greatest opera" doesn't give you the right to be an aggressive racist.
 
 >  It starts to require too many mental gymnastics, too much compartmentalization to say, "I adore the artform but I abhor the industry."
