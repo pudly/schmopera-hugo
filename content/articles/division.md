@@ -17,7 +17,7 @@ title = "A thoroughly divided opera world, great."
 youtube_url = ""
 
 +++
-Something depressing occurred to me over the weekend. It happened while I was reading star soprano Angel Blue's [now-viral announcement on social media](https://www.aljazeera.com/news/2022/7/16/us-soprano-angel-blue-slams-blackface-pulls-out-of-italy-opera) that she would be pulling out of Arena di Verona's upcoming production of _La traviata_, because of how the company handled (or didn't handle at all) Anna Netrebko's latest foray into actual blackface.
+Something depressing occurred to me over the weekend. It happened while I was reading star soprano Angel Blue's [now-viral announcement on social media](https://www.aljazeera.com/news/2022/7/16/us-soprano-angel-blue-slams-blackface-pulls-out-of-italy-opera) that she would be pulling out of Arena di Verona's upcoming production of _La traviata_, because of how the company handled (or didn't handle at all) Anna Netrebko's [latest foray into actual blackface](https://www.instagram.com/p/Cf1eK-rI_pV/?utm_source=ig_web_copy_link).
 
 "Let me be perfectly clear: the use of blackface under any circumstances, artistic or otherwise, is a deeply misguided practice based on archaic theatrical traditions which have no place in modern society," Blue wrote. "It is offensive, humiliating and outright racist."
 
