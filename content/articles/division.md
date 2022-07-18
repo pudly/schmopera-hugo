@@ -49,3 +49,7 @@ It's the kind of non-sensical non-argument that we've all seen in the last decad
 Today, the opera world is firmly divided in two: those who are with Angel Blue, and those who are with Anna Netrebko. These two sopranos have become the current faces of the current issue in the opera industry, and I've already started making gross generalizations about people who choose one side or the other. (I'm pro-Blue, in case you're wondering.)
 
 The division is the first step. The next step is losing fans. Because really, when an opera company -- and its star singer -- defends blackface in the name of tradition, deference to Verdi, and some other made-up shit that only matters to opera snobs, it becomes really difficult to call oneself an opera fan. It starts to require too many mental gymnastics, too much compartmentalization to say, "I adore the artform but I abhor the industry."
+
+So, Anna, for this current media cycle, I'm going to direct this to you: Shame on you for dividing our little world. You're a multilingual international traveler with more access to the world than most ever get (especially the average working artist!) and yet you _still_ insist on a tiny, xenophobic, self-centred viewpoint of the world. What an utter shame, and what a waste of a platform. 
+
+Some big questions are about to be tested: is Anna an anomaly, or among the norm? How many companies will refuse her stardom in the name of social progress? How many other singers will follow Angel Blue and sacrifice their own income for their convictions? I'm not sure I want to find out...
