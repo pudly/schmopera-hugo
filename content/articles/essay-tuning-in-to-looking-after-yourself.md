@@ -1,6 +1,6 @@
 +++
-author = []
-categories = ""
+author = ["authors/laura-attridge.md"]
+categories = "How-To"
 date = 2022-07-12T04:00:00Z
 disclaimer = ""
 image_gallery = []
