@@ -2,7 +2,7 @@
 date = "2015-02-03T23:18:00-05:00"
 email = "jenna@schmopera.com"
 lastmod = "2017-08-25T15:43:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1643468951/media/2022/01/JennaPic-2021_qt0vpo.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1658245042/media/2022/07/Jenna2022_square_cwhsjg.jpg"
 publishDate = "2015-02-03T23:18:00-05:00"
 short_bio = "Jenna is the editor and co-creator of Schmopera.com. She also writes for _The Globe and Mail_ and _Opera Canada_. She's also a pianist and vocal coach, and working with singers is how she fell in love with opera. Her favourite operas include _Peter Grimes_, _Ariadne auf Naxos_, _Tristan und Isolde_, _Written on Skin_, and _Anna Nicole_."
 slug = "jenna"
