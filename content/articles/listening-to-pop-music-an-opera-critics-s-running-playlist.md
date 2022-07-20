@@ -47,7 +47,7 @@ You can just hear her giving a dismissive wave to whoever she's dumping, and the
 
 Do you believe her?
 
-<figure data-type="video"{{% md %}}<iframe width="916" height="515" src="https://www.youtube.com/embed/Kk8eJh4i8Lo" title="La Roux - Bulletproof (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}  
+<figure data-type="video">{{% md %}}<iframe width="896" height="504" src="https://www.youtube.com/embed/Kk8eJh4i8Lo" title="La Roux - Bulletproof (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}  
 </figure>
 
 ## "High Hopes" by Panic! At The Disco
@@ -89,6 +89,6 @@ But what I love most is when CeeLo shows off the control he has over his instrum
 
 You know it's a choice, because a measure later, when he snaps back into the chorus, his vibrato is back to its healthy focus, and those high notes fall out with that awesome reedy, masky sound that gives me a much-needed jolt of workout motivation. (I get a similar sensation when great tenors sing that gorgeous "M'ama!" moment in "Una furtiva lagrima" from _The Elixir of Love._)
 
-<figure data-type="video"{{% md %}}<iframe width="1019" height="574" src="https://www.youtube.com/embed/pc0mxOXbWIU" title="CeeLo Green - FUCK YOU (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">{{% md %}}<iframe width="1019" height="574" src="https://www.youtube.com/embed/pc0mxOXbWIU" title="CeeLo Green - FUCK YOU (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
