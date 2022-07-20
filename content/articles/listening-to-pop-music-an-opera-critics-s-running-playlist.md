@@ -54,7 +54,7 @@ Do you believe her?
 
 Since Panic! At The Disco first showed up in 2005, Brendan Urie has been on my radar as a legit singer in the mainstream music world (because, readers, sometimes famous singers aren't actually good, believe it or not). "High Hopes" was released in 2018 on _Pray for the Wicked_, and it's proof that Urie has the real chops needed by any lead singer -- and he's kept them up for over a decade, which is nothing to scoff at.
 
-This song rings true to most people who've ever worked at something that's hard to achieve - like success as a professional musician. The lyrics start painfully true:
+This song rings true to most people who've ever worked at something that's hard to achieve -- like success as a professional musician. The lyrics start painfully true:
 
 "Had to have high high hopes for a living /  
 Shooting for the stars when I couldn't make a killing /  
