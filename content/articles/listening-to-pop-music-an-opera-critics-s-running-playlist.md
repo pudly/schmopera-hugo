@@ -83,7 +83,7 @@ CeeLo delivers his lyrics, peppered with hilarious snark, with the kind of crisp
 I can't afford a Ferrari /  
 But that don't mean I can't get you there"
 
-Hah, zing! I also love his nod to Mr. T, with "I pity the fool that falls in love with you", and the rhyme that not everyone can pull off: "If I was richer, I'd still be with ya". 10/10 for lyrics, and they're made even better by his The Temptations-esque backup singers.
+Zing! I also love his nod to Mr. T, with "I pity the fool that falls in love with you", and the rhyme that not everyone can pull off: "If I was richer, I'd still be with ya". I say it's a 10 outta 10 for lyrics, and they're made even better by his The Temptations-esque backup singers.
 
 But what I love most is when CeeLo shows off the control he has over his instrument. There's the bridge section, where he remembers how sad he was when his ex first dumped him, wailing "Why?" in an exaggerated, wide vibrato. He brings that effect way up into his tenor range, and for a moment he turns his singing into sheer acting.
 
