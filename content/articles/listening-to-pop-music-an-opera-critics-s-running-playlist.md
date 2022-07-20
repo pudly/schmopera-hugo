@@ -61,7 +61,7 @@ Shooting for the stars when I couldn't make a killing /
 Didn't have a dime but I always had a vision /  
 Always had high high hopes."
 
-Yup. And maybe subliminally, it's this message that makes this song _so freaking exciting_ to listen to; but for me, the woman who's always felt more for sheer sound, I think it's Urie's voice.
+Yup. And maybe subliminally, it's this message that makes this song _so freaking exciting_ to listen to; but for me, the woman who's always felt more for sheer sound than for lyrics, I think it's Urie's voice.
 
 He's got an incessant sound, and in "High Hopes" he spends a huge amount of time in that tenor sweet spot, the thrilling line between a gathered, resonant sound, versus pure screaming. But over and over, Urie finds that high, high height and it feels like his voice is telling us that he doesn't just have hope, but he made it.
 
