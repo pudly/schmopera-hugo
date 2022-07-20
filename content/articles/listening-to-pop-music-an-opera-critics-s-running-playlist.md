@@ -65,7 +65,7 @@ Yup. And maybe subliminally, it's this message that makes this song _so freaking
 
 He's got an incessant sound, and in "High Hopes" he spends a huge amount of time in that tenor sweet spot, the thrilling line between a gathered, resonant sound, versus pure screaming. But over and over, Urie finds that high, high height and it feels like his voice is telling us that he doesn't just have hope, but he made it.
 
-Because great artists are always self-aware, Panic! At The Disco also has a song on the same _Pray for the Wicked_ album, called ["Hey Look Ma, I Made It"](https://www.youtube.com/watch?v=BzbxacRr5Gk).
+(And because great artists are always self-aware, Panic! At The Disco also has a song on the same _Pray for the Wicked_ album, called ["Hey Look Ma, I Made It"](https://www.youtube.com/watch?v=BzbxacRr5Gk).)
 
 <figure data-type="video">{{% md %}}<iframe width="1054" height="441" src="https://www.youtube.com/embed/IPXIgEAGe4U" title="Panic! At The Disco - High Hopes (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
