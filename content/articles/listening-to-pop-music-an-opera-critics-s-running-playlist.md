@@ -25,9 +25,9 @@ So, I jog to pop music. Like, the poppiest pop music that ever popped onto the p
 
 (And yes, I am absolutely up for suggestions from you, readers, because I'm a 38-year-old woman and apparently no longer capable of discovering new music that's not already been out for several years. I joined the "All About That Bass" trend in 2019.)
 
-Anyway. The cool thing about being an over-educated musician listening to pop music while on a runner's high is that you can do what I call varsity-level listening. It just means that compared to how the average person who didn't do two degrees in Western classical music, you're listening to music with more tools in your ears. Readers, I bet you guys do this, too, and it's one of the coolest residual takeaways from studying music in a serious way.
+Anyway. The cool thing about being an over-educated musician listening to pop music while on a runner's high is that you can do what I call varsity-level listening. It just means that compared to the average person who didn't do two degrees in Western classical music, you're listening to music with more tools in your ears. Readers, I bet you guys do this, too, and it's one of the coolest residual takeaways from studying music in a serious way.
 
-So, I'm starting a new mini-series, where I take you through a few of my preferred songs on my workout playlist, and tell you about what I hear. The point is to like the songs even more than on first hearing, and listen to them so hard until you need like five years off before hitting play again (I see you, "Hey Ya!")
+So, I'm starting a new mini-series, where I take you through a few of my preferred songs on my workout playlist, and tell you about what I hear. The point is to like the songs even more than on first hearing, and listen to them so hard until you need like five years off before hitting play again (I see you, "Hey Ya!").
 
 In this first instalment, I've picked three of my current favourites:
 
