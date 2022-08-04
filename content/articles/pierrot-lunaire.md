@@ -18,6 +18,10 @@ title = "Pierrot Lunaire"
 youtube_url = ""
 
 +++
+If you're one of those folks who get creeped out by clowns, I offer a gentle content warning for the latest item out of Toronto-based chamber group, The Happenstancers.
+
+The ensemble is "the shared vision of clarinetist and visual artist Brad Cherwin, oboist Aleh Remezau, and cellist Sarah Gans", and they've made a name for themselves with their bent for the _avant garde_. And though it's 110 years old, Arnold Schoenberg's _Pierrot Lunaire_ 
+
 The Happenstancers have recorded five songs of _Three Times Seven Poems from Albert Girard's "Pierrot Lunaire"_
 
 Film by Jake Kovnat, produced by Brad Cherwin
