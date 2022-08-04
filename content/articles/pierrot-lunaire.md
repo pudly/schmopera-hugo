@@ -24,7 +24,7 @@ The ensemble is "the shared vision of clarinetist and visual artist Brad Cherwin
 
 The Happenstancers have released videos of five songs from _Three Times Seven Poems from Albert Girard's "Pierrot Lunaire"_; the film is by Jake Kovnat and produced by Brad Cherwin, and features conductor Simon Rivard on the podium, and soprano Danika Lorèn as everybody's favourite despondent clown, Pierrot.
 
-_Pierrot Lunaire_ translates eerily well to film, especially in the hands of this team. Shot in black and white and with moments of harsh _chiarioscuro_ in Adam Harris' lighting design, we're brought into the**
+_Pierrot Lunaire_ translates eerily well to film, especially in the hands of this team. Shot in black and white and with moments of harsh _chiarioscuro_ in Adam Harris' lighting design, we're brought into the delicate world of a chamber group set-up. Lorèn stands upstage, her exaggerated clown's ruff drawing the eye; downstage, Rivard is flanked by pianist Alexander Malikov, cellist Sarah Gans, violinist and violist Hee-See Yoon, clarinetist/bass clarinetist Brad Cherwin, and flautist/piccolist Rebecca Moranis.
 
 The Happenstancers have recorded five songs of _Three Times Seven Poems from Albert Girard's "Pierrot Lunaire"_
 
