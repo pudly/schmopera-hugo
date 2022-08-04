@@ -20,7 +20,9 @@ youtube_url = ""
 +++
 If you're one of those folks who get creeped out by clowns, I offer a gentle content warning for the latest item out of Toronto-based chamber group, The Happenstancers.
 
-The ensemble is "the shared vision of clarinetist and visual artist Brad Cherwin, oboist Aleh Remezau, and cellist Sarah Gans", and they've made a name for themselves with their bent for the _avant garde_. And though it's 110 years old, Arnold Schoenberg's _Pierrot Lunaire_ 
+The ensemble is "the shared vision of clarinetist and visual artist Brad Cherwin, oboist Aleh Remezau, and cellist Sarah Gans", and they've made a name for themselves with their bent for the _avant garde_. And though it's 110 years old, few things sound as cutting edge as Arnold Schoenberg's _Pierrot Lunaire_.
+
+The Happenstancers have released videos of five songs from _Three Times Seven Poems from Albert Girard's "Pierrot Lunaire"_; the film is by Jake Kovnat and produced by Brad Cherwin, and features conductor Simon Rivard on the podium, and soprano Danika Lorèn as everybody's favourite busted clown, Pierrot.
 
 The Happenstancers have recorded five songs of _Three Times Seven Poems from Albert Girard's "Pierrot Lunaire"_
 
