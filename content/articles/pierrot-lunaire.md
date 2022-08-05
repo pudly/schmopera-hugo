@@ -28,6 +28,8 @@ _Pierrot Lunaire_ translates eerily well to film, especially in the hands of thi
 
 The five songs are directed with beautiful attention to the text-music fusion. "Die Kreuze" blends the stark visual of a stained-glass cross with that eerie sound that only Schoenberg seems to get out of a chamber orchestra. It's transparent and light, but in a way that feels off, like sunlight shining through threadbare fabric or an abandoned cobweb dangling from one end. Here, Lorèn introduces us to the unique sound of _Sprechstimme_ -- where the singer inhabits the vocal limbo between singing and speaking -- and it's clear that this iconic piece of atonality is in excellent hands. 
 
+"Galgenlied" is a brief, robotic flash of a song; "Rote Messe" is thick and plodding, visualized by the camera's long pan in. "Der Mondfleck" is a 
+
 The Happenstancers have recorded five songs of _Three Times Seven Poems from Albert Girard's "Pierrot Lunaire"_
 
 Film by Jake Kovnat, produced by Brad Cherwin
