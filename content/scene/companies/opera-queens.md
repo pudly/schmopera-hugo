@@ -1,5 +1,6 @@
 +++
 address = ""
+draft = true
 email = "Queen@OperaQueens.ca"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1660311121/media/2022/08/Opera_Queens_Logo_ajfkef.png"
 primary_image_credit = ""
