@@ -21,7 +21,7 @@ Does your biography start with the words "hailed", "praised", or "lauded"? Is it
 
 Let us write for you!
 
-Our [People](/people/) and [Companies](/companies/) sections feature profiles of the artists and producing companies of today's opera world, and _they get seen_. Take your visibility one step further, with a **custom biography written by Schmopera's editor, Jenna Simeonov**. 
+Our [People](/scene/people/) and [Companies](/scene/companies/) sections feature profiles of the artists and producing companies of today's opera world, and _they get seen_. Take your visibility one step further, with a **custom biography written by Schmopera's editor, Jenna Simeonov**. 
 
 We offer traditional work in multiple word counts, handy for your website, social media bios, and performance programs. And if you're feeling adventurous, we're known for our **Honest Bios™** -- they're lighter on the name-dropping, but tailor-made to reflect your own personal style.
 
