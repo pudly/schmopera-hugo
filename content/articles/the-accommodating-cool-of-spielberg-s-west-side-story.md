@@ -18,53 +18,11 @@ title = "The Accommodating \"Cool\" of Spielberg’s West Side Story"
 youtube_url = ""
 
 +++
-"Cool," that jazzy number from _West Side Story_, is one of the
+"Cool," that jazzy number from _West Side Story_, is one of the most accommodating songs ever written for a Broadway musical. Leonard Bernstein's composition keeps its brazen, staccato tone but Stephen Sondheim's incisive lyric has come to support surprisingly different storylines. From the 1957 Broadway trailblazer to Robert Wise's lauded 1961 film and most recently in Steven Spielberg's revisionist remake, "Cool" has been used to convey vastly different messages but manages in the process to keep its own cool.
 
-most accommodating songs ever written for a Broadway
+Two years ago when we surveyed the major recording of this epic classic, a cast album of the newest Broadway revival and a soundtrack from the Spielberg film were anticipated. The revival didn't reopen after the pandemic shutdown and to our knowledge, remains unrecorded. For similar reasons the film's release was delayed a full year but now we have a distinctive new addition to the collection, albeit with issues that may rile those who find annoying a couple of fleeting "feel good" numbers that manage to work, just not in the score's context.
 
-musical. Leonard Bernstein’s composition keeps its brazen,
-
-staccato tone but Stephen Sondheim’s incisive lyric has come
-
-to support surprisingly different storylines. From the 1957
-
-Broadway trailblazer to Robert Wise’s lauded 1961 film and
-
-most recently in Steven Spielberg’s revisionist remake, “Cool”
-
-has been used to convey vastly different messages but
-
-manages in the process to keep its own cool.
-
-Two years ago when we surveyed the major recording of this
-
-epic classic, a cast album of the newest Broadway revival and a
-
-soundtrack from the Spielberg film were anticipated. The revival
-
-didn’t reopened after the pandemic shutdown and to our
-
-knowledge, remains unrecorded. For similar reasons the film’s
-
-release was delayed a full year but now we have a distinctive
-
-new addition to the collection, albeit with issues that may rile
-
-those who find annoying a couple of fleeting “feel good”
-
-numbers that manage to work, just not in the score’s context.
-
-On Broadway “Cool” was a pep talk sung by Jets leader, Riff,
-
-advising his gang to stay cool at their rumble with the Sharks. In
-
-Wise’s film Riff’s lieutenant, Ice, a character created for the film,
-
-sang it after Riff was killed in the rumble. Providing grief support
-
-and anger management, the song’s placement is also notable
-
-for the insight it gives us into the Jets women.
+On Broadway "Cool" was a pep talk sung by Jets leader, Riff, advising his gang to stay cool at their rumble with the Sharks. In Wise's film Riff's lieutenant, Ice, a character created for the film, sang it after Riff was killed in the rumble. Providing grief support and anger management, the song’s placement is also notable for the insight it gives us into the Jets women.
 
 Tony Kushner’s new screenplay takes a more socially
 
