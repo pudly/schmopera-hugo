@@ -36,52 +36,8 @@ The singing however triumphs over such matters. Several of the songs were sung "
 
 Then there's Ariana DeBose, Spielberg's Oscar-winning Anita. Her brief opener to "Dance at the Gym" almost says it all but she continues to impress with her brave and tragic "A Boy Like That." Ziegler’s response with "I Have A Love" touches deeply and their sad exchange is heightened by interspersed dialogue.
 
-DeBose along with David Alvarez as Bernardo show grit and spirit in the aforementioned "America." That other Oscar winning Anita from l961, Rita Moreno, here playing Valentina, a woman of hope among the hopeless and widow of Doc, who now runs the drug store where the Jets hang out, sings a wistful "Somewhere" with devastating fragility. Moreno rattles the cart
+DeBose along with David Alvarez as Bernardo show grit and spirit in the aforementioned "America." That other Oscar winning Anita from l961, Rita Moreno, here playing Valentina, a woman of hope among the hopeless and widow of Doc, who now runs the drug store where the Jets hang out, sings a wistful "Somewhere" with devastating fragility. Moreno rattles the cart of any lingering nostalgia with her soft and inimitable power.
 
-of any lingering nostalgia with her soft and inimitable power.
+Orchestrally Dudamel establishes his Bernstein credentials offering a spacious and compelling "Prologue" with orchestrations that at moments veer intriguingly from the expected. The maestro's buoyant "Dance at the Gym" sequence is quite simply a knock-out. Further evidence of the LA Phil's agility shows in the delicate post "Tonight" transition to Scherzo/Scherzo that is notable for the ensemble's exquisite string work and by a pulse-pounding "Rumble" fully realizing the violent musical detail within its nimble balletic framework.
 
-Orchestrally Dudamel establishes his Bernstein credentials
-
-offering a spacious and compelling “Prologue” with
-
-orchestrations that at moments veer intriguingly from the
-
-expected. The maestro’s buoyant “Dance at the Gym”
-
-sequence is quite simply a knock-out. Further evidence of the
-
-LA Phil’s agility shows in the delicate post “Tonight” Transition to
-
-Scherzo/Scherzo that is notable for the ensemble’s exquisite
-
-string work and by a pulse-pounding “Rumble” fully realizing the
-
-violent musical detail within its nimble balletic framework.
-
-Reports that Spielberg has fixed “I Feel Pretty,” heretofore a
-
-song that perhaps only Little Richard could pull off, are all true.
-
-If you missed the film during its theatrical run, find out how the
-
-song shakes off its sugary coating via major platforms including
-
-Disney+ and HBO Max. New Yorkers and late summer visitors
-
-can find out on August 26 when a free screening of West Side
-
-Story will be presented on the plaza at Lincoln Center (a space
-
-that will be chocked full of irony as well as people) as the
-
-Metropolitan Opera launches its summer series of outdoor HD
-
-broadcasts. A grand Ariadne auf Naxos with Lise Davidsen as
-
-Strauss’s mythic heroine and Terrance Blanchards’s scorching
-
-breakthrough opera, Fire Shut Up in My Bones are among the
-
-broadcasts that run through September 5, but that’s a whole
-
-other west side story.
+Reports that Spielberg has fixed "I Feel Pretty," heretofore a song that perhaps only Little Richard could pull off, are all true. If you missed the film during its theatrical run, find out how the song shakes off its sugary coating via major platforms including Disney+ and HBO Max. New Yorkers and late summer visitors can find out on August 26 when a free screening of _West Side Story_ will be presented on the plaza at Lincoln Center (a space that will be chocked full of irony as well as people) as the Metropolitan Opera launches its summer series of outdoor HD broadcasts. A grand _Ariadne auf Naxos_ with Lise Davidsen as Strauss's mythic heroine and Terrance Blanchard's scorching breakthrough opera, _Fire Shut Up in My Bones_ are among the broadcasts that run through September 5, but that's a whole other west side story.
