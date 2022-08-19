@@ -24,131 +24,19 @@ Two years ago when we surveyed the major recording of this epic classic, a cast 
 
 On Broadway "Cool" was a pep talk sung by Jets leader, Riff, advising his gang to stay cool at their rumble with the Sharks. In Wise's film Riff's lieutenant, Ice, a character created for the film, sang it after Riff was killed in the rumble. Providing grief support and anger management, the song's placement is also notable for the insight it gives us into the Jets women.
 
-Tony Kushner's new screenplay takes a more socially conscious approach to a neighborhood on the cusp of destruction to make way for the cultural hub that is now Lincoln Center. He deepens the story dramatically and “Cool” gets
+Tony Kushner's new screenplay takes a more socially conscious approach to a neighborhood on the cusp of destruction to make way for the cultural hub that is now Lincoln Center. He deepens the story dramatically and "Cool" gets refitted to show how guileless hope battles nihilistic attitudes that began to fester long before the bulldozers moved in.
 
-refitted to show how guileless hope battles nihilistic attitudes
+While the film seldom veers from this initial concept, it is never more powerfully or intimately rendered as when Tony, energized by his love for Maria, and the burned out Riff sing "Cool" as an anguished duet delineating their personal divide. "So 'Cool' became, in this version, that story arc," says Mike Faist who plays Riff with poignancy and gallows humor, in an interview with Jenna Busch at slashfilm.com. "Here's this friendship, what was. Here's where it is at. And here's where it’s going. It's them breaking up, letting go of each other and just the betrayal of the both of them and how they feel with each other." Quite a turn-around for a song intended to motivate a street gang but "Cool" is an iceberg with hidden depth like so many of the Sondheim's peerless lyrics.
 
-that began to fester long before the bulldozers moved in.
+Gustavo Dudamel conducts his Los Angeles Philharmonic with meticulous yet vibrant attention to the myriad influences running through the score. (The New York Philharmonic is also credited although it isn't apparent how the hometown orchestra was involved.) Dudamel knows his way around Bernstein so those annoying touches of the dreaded "pops" sound, showing up in "America" and "Gee, Officer Krupke" may well be the result of some insidious soundboard mixing in search of that "feel good" vibe.
 
-While the film seldom veers from this initial concept, it is never
+The problem doesn't stop there, though to be fair the annoyance is less so when listening to the soundtrack than watching the film. "America" is intended to convey the differing attitudes within the Puerto Rican community not only towards America but Puerto Rico as well. Here it comes off like a celebration of, well, everything and while the gorgeously orchestrated street jubilation is alluring, the number loses its bite and much of its sex appeal. Originally sung on a stoop, "Gee, Officer Krupke" is staged in an inordinately large police station and comes off like a rousing production number from the cast of "Newsies" rather than a group of disenfranchised young men and one nonbinary person dissing the authorities.
 
-more powerfully or intimately rendered as when Tony, energized
+The singing however triumphs over such matters. Several of the songs were sung "live" on set rather than syncing to footage in a studio. The sense of engagement is readily apparent and it's also reassuring to know that everyone is doing their own singing. Rachel Zegler has a voice of blissful refinement but her singing casts Maria as strong and increasingly independent, proper but hardly defined by that refined sound. Ansel Elgort's voice, though not of commanding depth, is nonetheless winning and we feel his rapture in a disarming "Something's Coming" and an ardent, energetic "Maria.? It would be unreasonable to expect these star-crossed lovers to create a more charmingly romantic balcony scene and "Tonight." They are literally heaven-sent when singing their vows in "One Hand, One Heart" amidst sunlight streaming through stained glass at the MET Museum’s Cloisters.
 
-by his love for Maria, and the burned out Riff sing “Cool” as an
+Then there's Ariana DeBose, Spielberg's Oscar-winning Anita. Her brief opener to "Dance at the Gym" almost says it all but she continues to impress with her brave and tragic "A Boy Like That." Ziegler’s response with "I Have A Love" touches deeply and their sad exchange is heightened by interspersed dialogue.
 
-anguished duet delineating their personal divide. “So ‘Cool’
-
-became, in this version, that story arc,” says Mike Faist who
-
-plays Riff with poignancy and gallows humor, in an interview
-
-with Jenna Busch at slashfilm.com. “Here’s this friendship, what
-
-was. Here’s where it is at. And here’s where it’s going. It’s them
-
-breaking up, letting go of each other and just the betrayal of the
-
-both of them and how they feel with each other.” Quite a turn-
-
-around for a song intended to motivate a street gang but “Cool”
-
-is an iceberg with hidden depth like so many of the Sondheim’s
-
-peerless lyrics.
-
-Gustavo Dudamel conducts his Los Angeles Philharmonic with
-
-meticulous yet vibrant attention to the myriad influences running
-
-through the score. (The New York Philharmonic is also credited
-
-although it isn’t apparent how the hometown orchestra was
-
-involved.) Dudamel knows his way around Bernstein so those
-
-annoying touches of the dreaded “pops” sound, showing up in
-
-“America” and “Gee, Officer Krupke” may well be the result of
-
-some insidious soundboard mixing in search of that “feel good”
-
-vibe.
-
-The problem doesn’t stop there, though to be fair the
-
-annoyance is less so when listening to the soundtrack than
-
-watching the film. “America” is intended to convey the differing
-
-attitudes within the Puerto Rican community not only towards
-
-America but Puerto Rico as well. Here it comes off like a
-
-celebration of, well, everything and while the gorgeously
-
-orchestrated street jubilation is alluring, the number loses its
-
-bite and much of its sex appeal. Originally sung on a stoop,
-
-“Gee, Officer Krupke” is staged in an inordinately large police
-
-station and comes off like a rousing production number from the
-
-cast of “Newsies” rather than a group of disenfranchised young
-
-men and one nonbinary person dissing the authorities.
-
-The singing however triumphs over such matters. Several of the
-
-songs were sung “live” on set rather than syncing to footage in
-
-a studio. The sense of engagement is readily apparent and it’s
-
-also reassuring to know that everyone is doing their own
-
-singing. Rachel Zegler has a voice of blissful refinement but her
-
-singing casts Maria as strong and increasingly independent,
-
-proper but hardly defined by that refined sound. Ansel Elgort’s
-
-voice, though not of commanding depth, is nonetheless winning
-
-and we feel his rapture in a disarming “Something’s Coming”
-
-and an ardent, energetic “Maria.” It would be unreasonable to
-
-expect these star-crossed lovers to create a more charmingly
-
-romantic balcony scene and “Tonight.” They are literally
-
-heaven-sent when singing their vows in “One Hand, One Heart”
-
-amidst sunlight streaming through stained glass at the MET
-
-Museum’s Cloisters.
-
-Then there’s Ariana DeBose, Spielbegr’s Oscar winning Anita.
-
-Her brief opener to “Dance at the Gym” almost says it all but
-
-she continues to impress with her brave and tragic “A Boy Like
-
-That.” Ziegler’s response with “I Have A Love” touches deeply
-
-and their sad exchange is heightened by interspersed dialogue.
-
-DeBose along with David Alvarez as Bernardo show grit and
-
-spirit in the aforementioned “America.” That other Oscar
-
-winning Anita from l961, Rita Moreno, here playing Valentina, a
-
-woman of hope among the hopeless and widow of Doc, who
-
-now runs the drug store where the Jets hang out, sings a wistful
-
-“Somewhere” with devastating fragility. Moreno rattles the cart
+DeBose along with David Alvarez as Bernardo show grit and spirit in the aforementioned "America." That other Oscar winning Anita from l961, Rita Moreno, here playing Valentina, a woman of hope among the hopeless and widow of Doc, who now runs the drug store where the Jets hang out, sings a wistful "Somewhere" with devastating fragility. Moreno rattles the cart
 
 of any lingering nostalgia with her soft and inimitable power.
 
