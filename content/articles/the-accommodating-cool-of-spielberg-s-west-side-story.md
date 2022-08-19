@@ -1,15 +1,14 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Review"
-date = ""
+date = 2022-08-19T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1660923486/media/2022/08/sqWWA_naivyt.jpg"
 primary_image_credit = "Ariana DeBose (Anita) and David Alvarez (Bernardo) energize \"America\" with grit and spirit in Steven Spielberg's remake of West Side Story. Photo: © Disney."
-related_articles = []
+related_articles = ["articles/a-definitive-hit-west-side-story-in-atlanta.md", "articles/the-emphatically-present-west-side-story.md"]
 related_companies = []
 related_people = []
 short_description = "It would be unreasonable to expect these star-crossed lovers to create a more charmingly romantic balcony scene and \"Tonight.\" They are literally heaven-sent when singing their vows in \"One Hand, One Heart\" amidst sunlight streaming through stained glass at the MET Museum’s Cloisters."
