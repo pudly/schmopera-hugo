@@ -22,15 +22,9 @@ youtube_url = ""
 
 Two years ago when we surveyed the major recording of this epic classic, a cast album of the newest Broadway revival and a soundtrack from the Spielberg film were anticipated. The revival didn't reopen after the pandemic shutdown and to our knowledge, remains unrecorded. For similar reasons the film's release was delayed a full year but now we have a distinctive new addition to the collection, albeit with issues that may rile those who find annoying a couple of fleeting "feel good" numbers that manage to work, just not in the score's context.
 
-On Broadway "Cool" was a pep talk sung by Jets leader, Riff, advising his gang to stay cool at their rumble with the Sharks. In Wise's film Riff's lieutenant, Ice, a character created for the film, sang it after Riff was killed in the rumble. Providing grief support and anger management, the song’s placement is also notable for the insight it gives us into the Jets women.
+On Broadway "Cool" was a pep talk sung by Jets leader, Riff, advising his gang to stay cool at their rumble with the Sharks. In Wise's film Riff's lieutenant, Ice, a character created for the film, sang it after Riff was killed in the rumble. Providing grief support and anger management, the song's placement is also notable for the insight it gives us into the Jets women.
 
-Tony Kushner’s new screenplay takes a more socially
-
-conscious approach to a neighborhood on the cusp of
-
-destruction to make way for the cultural hub that is now Lincoln
-
-Center. He deepens the story dramatically and “Cool” gets
+Tony Kushner's new screenplay takes a more socially conscious approach to a neighborhood on the cusp of destruction to make way for the cultural hub that is now Lincoln Center. He deepens the story dramatically and “Cool” gets
 
 refitted to show how guileless hope battles nihilistic attitudes
 
