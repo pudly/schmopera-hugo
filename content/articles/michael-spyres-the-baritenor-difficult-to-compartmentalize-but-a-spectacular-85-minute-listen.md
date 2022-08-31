@@ -1,0 +1,99 @@
++++
+author = ["authors/john-hohmann.md"]
+categories = "Review"
+date = 2022-08-31T04:00:00Z
+disclaimer = ""
+draft = true
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = ""
+primary_image_credit = ""
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "The recording, a luxurious and record-setting 85 minutes of burnished virtuosity, is spread over 18 arias spanning three centuries and 15 composers. Spyres straddles the tenor and baritone repertoires so stylishly as to approach a state of operatic titillation, if there was was such a thing."
+slug = "michael-spyres-the-baritenor-difficult-to-compartmentalize-but-spectacular-85-min-listen"
+title = "Michael Spyres the BariTenor, difficult to compartmentalize — but a spectacular 85-minute listen"
+youtube_url = ""
+
++++
+Michael Spyres, the extraordinary baritone, tenor (and, when called upon, countertenor) is not easily compartmentalized. Starting out as a baritone he spent several years in that vocal range before realizing his tenor capabilities. For the record the term baritone derives from the Greek meaning “heavy” while tenor is Latin for "to hold." Spyres, then, must combine the dark and _heavy_ lower range with the ability to produce and to _hold_ coloratura expressions. He does all of that—and more.
+
+Baritenor is not simply a clever name for _BariTenor_, the terrific new recording from Spyres. It's also a type of voice, albeit a rare one, that doesn't easily fit into the traditional "_Fach_" system (German for "compartment") used throughout the world but especially in German-speaking countries to classify the voices of opera singers. These types and sub-types, many overlapping each other, are assigned so as not to enlist a singer for a role unsuited to his or her voice. But in Spyres' case he needs multiple listings.
+
+The recording, a luxurious and record-setting 85 minutes of burnished virtuosity, is spread over 18 arias spanning three centuries and 15 composers. Spyres straddles the tenor and baritone repertoires so stylishly as to approach a state of operatic titillation, if there was was such a thing. This baritenor is by turns, dramatic, delightful and daring, though never self-consciously so. The voice may be rare, but he's a natural.
+
+Spyres displays not only superb technique but a deep understanding of the emotional and theatrical baggage accompanying the roles in these vocal classifications. Each aria, whether for tenor or baritone, is fully realized with assurance and great detail, as if he had a seasoned performance history for each role.
+
+This will come as no surprise to listeners of his highly praised Warner/Erato recording _Amici e Rivali_ in which he goes _mano a mano_ with fellow tenor Lawrence Brownlee in a group of Rossini arias, duets and, joined by a mezzo soprano and yet another tenor, trios.
+
+The sour intent behind the sweetly sung "Deh, vine all finestra" from _Don Giovanni_ is ever present. Together with Count de Luna's vengeful lament, "II balen del suo sorriso" from _Il trovatore_ and _Die lustige Witwe_'s delightfully insinuating (at least by the standards of operetta) "Da geh ich zu Maxim" they show evidence of a baritone in fine and nuanced form.
+
+No less can be said about the tenor arias. The opening "Fuor del mar" from _Idomeneo_ is performed with gravitas and tortured uncertainty. That high-flying "Ah! mes amis, quel jour de fête!" from _La fille du régiment_ floats as much coloratura delight as the fluidly sung "Aux bords lointains" (_In fernem Land_) from _Lohengrin_ does its solemn revelation.
+
+_BariTenor_ invites comparisons. Spyres takes on Mozart and Rossini, prompted, respectively, by Beaumarchais, with the charming, if disturbing, buffoonery of Count Almaviva's "Hai gia vinta la causa!" in _Le nozze di Figaro_. Later Figaro revels in giving  rapid-fire voice to his diverse clientele and his own indispensability in "Largo al factotum" from _Il barbiere di siviglia_, perhaps the showpiece among showpieces.
+
+Then there’s Spyres touched by Shakespeare.
+
+First there is Rossini’s rousing and triumphant
+
+“Ah! Is, per voi giá sento” from Otello and then
+
+the melancholy Dane attempting to drown his
+
+sorrows in drink with “O vin, dissipe la tristesse”
+
+from Thomas’ Hamlet. Spyres renders both on
+
+a grand scale with assistance from the
+
+exceptional Choeur de l’Opéra national du
+
+Rhin. The acclaimed Orchestra philarmonique
+
+de Strasbourg led by Marko Letonja, adapts
+
+with sensitivity and ease to the music’s
+
+formidable demands.
+
+Hailing from the Ozarks, Spyres presented a
+
+recital of four selections from BariTenor at the
+
+Ozark Lyric Opera in Springfield, Missouri, of
+
+which he is artistic director. Teaming with
+
+Warner/Erato, the performance was captured
+
+on video to celebrate its launch. Available on
+
+YouTube, it’s worth viewing to experience
+
+Spyres’ vocal versatility and stage presence
+
+with only piano accompaniment.
+
+Speaking of recitals, he’s giving one on
+
+September 7th and 9th at the Park Avenue
+
+Armory in New York. Accompanied by Mathieu
+
+Pordoy, the roster of intriguing works includes
+
+"Les nuits d'été" by Berloiz and Beethoven’s
+
+“An die ferne Geliebte.” Performing in the
+
+Armory’s Board of Officers Room, one of the
+
+city’s most intimate and elegant venues, seating
+
+approximately 100, it’s an extraordinary setting
+
+in which to experience this spectacular
+
+baritenor at work.
