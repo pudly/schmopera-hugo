@@ -24,18 +24,46 @@ Baritenor is not simply a clever name for _BariTenor_, the terrific new recordin
 
 The recording, a luxurious and record-setting 85 minutes of burnished virtuosity, is spread over 18 arias spanning three centuries and 15 composers. Spyres straddles the tenor and baritone repertoires so stylishly as to approach a state of operatic titillation, if there was was such a thing. This baritenor is by turns, dramatic, delightful and daring, though never self-consciously so. The voice may be rare, but he's a natural.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption>Baritenor, Michael Spyres in the studio. Photo: Warner/Erato.</figcaption>
+
+</figure>
+
 Spyres displays not only superb technique but a deep understanding of the emotional and theatrical baggage accompanying the roles in these vocal classifications. Each aria, whether for tenor or baritone, is fully realized with assurance and great detail, as if he had a seasoned performance history for each role.
 
 This will come as no surprise to listeners of his highly praised Warner/Erato recording _Amici e Rivali_ in which he goes _mano a mano_ with fellow tenor Lawrence Brownlee in a group of Rossini arias, duets and, joined by a mezzo soprano and yet another tenor, trios.
 
 The sour intent behind the sweetly sung "Deh, vine all finestra" from _Don Giovanni_ is ever present. Together with Count de Luna's vengeful lament, "II balen del suo sorriso" from _Il trovatore_ and _Die lustige Witwe_'s delightfully insinuating (at least by the standards of operetta) "Da geh ich zu Maxim" they show evidence of a baritone in fine and nuanced form.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption>The Orchestra Philharmonique de Strasbourg lead by Marko Letonja accompanies Michael Spyres on BariTenor along with Choeur de l'Opéra national du Rhin. Photo: Charlotte Aleman.</figcaption>
+
+</figure>
+
 No less can be said about the tenor arias. The opening "Fuor del mar" from _Idomeneo_ is performed with gravitas and tortured uncertainty. That high-flying "Ah! mes amis, quel jour de fête!" from _La fille du régiment_ floats as much coloratura delight as the fluidly sung "Aux bords lointains" (_In fernem Land_) from _Lohengrin_ does its solemn revelation.
 
 _BariTenor_ invites comparisons. Spyres takes on Mozart and Rossini, prompted, respectively, by Beaumarchais, with the charming, if disturbing, buffoonery of Count Almaviva's "Hai gia vinta la causa!" in _Le nozze di Figaro_. Later Figaro revels in giving  rapid-fire voice to his diverse clientele and his own indispensability in "Largo al factotum" from _Il barbiere di siviglia_, perhaps the showpiece among showpieces.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption>Spyres presented a recital of four selections from BariTenor at the Ozark Lyric Opera in Springfield, Missouri accompanied by piano. Photo:  Warner Classics.</figcaption>
+
+</figure>
 
 Then there's Spyres touched by Shakespeare. First there is Rossini’s rousing and triumphant "Ah! Si, per voi giá sento" from _Otello_ and then the melancholy Dane attempting to drown his sorrows in drink with "O vin, dissipe la tristesse" from Thomas' _Hamlet_. Spyres renders both on a grand scale with assistance from the exceptional Choeur de l’Opéra national du Rhin. The acclaimed Orchestra philarmonique de Strasbourg led by Marko Letonja, adapts with sensitivity and ease to the music's formidable demands.
 
 Hailing from the Ozarks, Spyres presented a recital of four selections from _BariTenor_ at the Ozark Lyric Opera in Springfield, Missouri, of which he is artistic director. Teaming with Warner/Erato, the performance was captured on video to celebrate its launch. Available on YouTube, it's worth viewing to experience Spyres' vocal versatility and stage presence with only piano accompaniment.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption>Michael Spyres will present a recital in the intimate and elegant Board of Officers Room at the Park Avenue Armory in New York on September 7th and 9th featuring works by Berlioz, Beethoven and Liszt. Photo: Park Avenue Armory.</figcaption>
+
+</figure>
+
 Speaking of recitals, he's giving one on September 7th and 9th at the Park Avenue Armory in New York. Accompanied by Mathieu Pordoy, the roster of intriguing works includes "Les nuits d'été" by Berlioz and Beethoven's "An die ferne Geliebte." Performing in the Armory's Board of Officers Room, one of the city's most intimate and elegant venues, seating approximately 100, it's an extraordinary setting in which to experience this spectacular baritenor at work.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+</figure>
