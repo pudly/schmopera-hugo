@@ -9,9 +9,9 @@ postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1661971487/media/2022/08/Michael_Spyres_Baritenor_CD_Digi_Cover_06_ydkh0f.jpg"
 primary_image_credit = "BariTenor, features a collection of 18 arias from the Baritone and Tenor repertoires spanning three centuries and 15 composers in a record-setting 85 minute recording. Photo: Warner/Erato."
-related_articles = []
+related_articles = ["articles/fachisms-stereotypes-for-a-reason.md", "articles/amici-e-rivali-two-gentlemen-and-friendly-rivalry-in-verona.md"]
 related_companies = []
-related_people = []
+related_people = ["scene/people/lawrence-brownlee.md", "scene/people/michael-spyres.md"]
 short_description = "The recording, a luxurious and record-setting 85 minutes of burnished virtuosity, is spread over 18 arias spanning three centuries and 15 composers. Spyres straddles the tenor and baritone repertoires so stylishly as to approach a state of operatic titillation, if there was was such a thing."
 slug = "michael-spyres-the-baritenor-difficult-to-compartmentalize-but-spectacular-85-min-listen"
 title = "Michael Spyres the BariTenor, difficult to compartmentalize — but a spectacular 85-minute listen"
@@ -32,7 +32,7 @@ The recording, a luxurious and record-setting 85 minutes of burnished virtuosity
 
 Spyres displays not only superb technique but a deep understanding of the emotional and theatrical baggage accompanying the roles in these vocal classifications. Each aria, whether for tenor or baritone, is fully realized with assurance and great detail, as if he had a seasoned performance history for each role.
 
-This will come as no surprise to listeners of his highly praised Warner/Erato recording _Amici e Rivali_ in which he goes _mano a mano_ with fellow tenor Lawrence Brownlee in a group of Rossini arias, duets and, joined by a mezzo soprano and yet another tenor, trios.
+This will come as no surprise to listeners of his highly praised Warner/Erato recording [_Amici e Rivali_](/amici-e-rivali-two-gentlemen-and-friendly-rivalry-in-verona/) in which he goes _mano a mano_ with fellow tenor Lawrence Brownlee in a group of Rossini arias, duets and, joined by a mezzo soprano and yet another tenor, trios.
 
 The sour intent behind the sweetly sung "Deh, vine all finestra" from _Don Giovanni_ is ever present. Together with Count de Luna's vengeful lament, "II balen del suo sorriso" from _Il trovatore_ and _Die lustige Witwe_'s delightfully insinuating (at least by the standards of operetta) "Da geh ich zu Maxim" they show evidence of a baritone in fine and nuanced form.
 
