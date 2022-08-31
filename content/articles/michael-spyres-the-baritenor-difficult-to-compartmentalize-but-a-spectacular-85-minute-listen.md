@@ -18,7 +18,7 @@ title = "Michael Spyres the BariTenor, difficult to compartmentalize — but a s
 youtube_url = ""
 
 +++
-Michael Spyres, the extraordinary baritone, tenor (and, when called upon, countertenor) is not easily compartmentalized. Starting out as a baritone he spent several years in that vocal range before realizing his tenor capabilities. For the record the term baritone derives from the Greek meaning “heavy” while tenor is Latin for "to hold." Spyres, then, must combine the dark and _heavy_ lower range with the ability to produce and to _hold_ coloratura expressions. He does all of that—and more.
+[Michael Spyres](/scene/people/michael-spyres/), the extraordinary baritone, tenor (and, when called upon, countertenor) is not easily compartmentalized. Starting out as a baritone he spent several years in that vocal range before realizing his tenor capabilities. For the record the term baritone derives from the Greek meaning “heavy” while tenor is Latin for "to hold." Spyres, then, must combine the dark and _heavy_ lower range with the ability to produce and to _hold_ coloratura expressions. He does all of that—and more.
 
 Baritenor is not simply a clever name for _BariTenor_, the terrific new recording from Spyres. It's also a type of voice, albeit a rare one, that doesn't easily fit into the traditional "_Fach_" system (German for "compartment") used throughout the world but especially in German-speaking countries to classify the voices of opera singers. These types and sub-types, many overlapping each other, are assigned so as not to enlist a singer for a role unsuited to his or her voice. But in Spyres' case he needs multiple listings.
 
@@ -36,17 +36,17 @@ This will come as no surprise to listeners of his highly praised Warner/Erato re
 
 The sour intent behind the sweetly sung "Deh, vine all finestra" from _Don Giovanni_ is ever present. Together with Count de Luna's vengeful lament, "II balen del suo sorriso" from _Il trovatore_ and _Die lustige Witwe_'s delightfully insinuating (at least by the standards of operetta) "Da geh ich zu Maxim" they show evidence of a baritone in fine and nuanced form.
 
+No less can be said about the tenor arias. The opening "Fuor del mar" from _Idomeneo_ is performed with gravitas and tortured uncertainty. That high-flying "Ah! mes amis, quel jour de fête!" from _La fille du régiment_ floats as much coloratura delight as the fluidly sung "Aux bords lointains" (_In fernem Land_) from _Lohengrin_ does its solemn revelation.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1661971989/media/2022/08/marko-letonja-est-de-retour-a-strasbourg-dr-photo-charlotte-aleman-1646753092_w5wqgx.jpg){{% /md %}}
 
 <figcaption>The Orchestra Philharmonique de Strasbourg lead by Marko Letonja accompanies Michael Spyres on BariTenor along with Choeur de l'Opéra national du Rhin. Photo: Charlotte Aleman.</figcaption>
 
 </figure>
 
-No less can be said about the tenor arias. The opening "Fuor del mar" from _Idomeneo_ is performed with gravitas and tortured uncertainty. That high-flying "Ah! mes amis, quel jour de fête!" from _La fille du régiment_ floats as much coloratura delight as the fluidly sung "Aux bords lointains" (_In fernem Land_) from _Lohengrin_ does its solemn revelation.
+_BariTenor_ invites comparisons. Spyres takes on Mozart and Rossini, prompted, respectively, by Beaumarchais, with the charming, if disturbing, buffoonery of Count Almaviva's "Hai già vinta la causa!" in _Le nozze di Figaro_. Later Figaro revels in giving  rapid-fire voice to his diverse clientele and his own indispensability in "Largo al factotum" from _Il barbiere di Siviglia_, perhaps the showpiece among showpieces.
 
-_BariTenor_ invites comparisons. Spyres takes on Mozart and Rossini, prompted, respectively, by Beaumarchais, with the charming, if disturbing, buffoonery of Count Almaviva's "Hai già vinta la causa!" in _Le nozze di Figaro_. Later Figaro revels in giving  rapid-fire voice to his diverse clientele and his own indispensability in "Largo al factotum" from _Il barbiere di siviglia_, perhaps the showpiece among showpieces.
-
-Then there's Spyres touched by Shakespeare. First there is Rossini’s rousing and triumphant "Ah! Si, per voi giá sento" from _Otello_ and then the melancholy Dane attempting to drown his sorrows in drink with "O vin, dissipe la tristesse" from Thomas' _Hamlet_. Spyres renders both on a grand scale with assistance from the exceptional Choeur de l’Opéra national du Rhin. The acclaimed Orchestra philarmonique de Strasbourg led by Marko Letonja, adapts with sensitivity and ease to the music's formidable demands.
+Then there's Spyres touched by Shakespeare. First there is Rossini’s rousing and triumphant "Ah! sì, per voi già sento" from _Otello_ and then the melancholy Dane attempting to drown his sorrows in drink with "O vin, dissipe la tristesse" from Thomas' _Hamlet_. Spyres renders both on a grand scale with assistance from the exceptional Choeur de l’Opéra national du Rhin. The acclaimed Orchestra philarmonique de Strasbourg led by Marko Letonja, adapts with sensitivity and ease to the music's formidable demands.
 
 Hailing from the Ozarks, Spyres presented a recital of four selections from _BariTenor_ at the Ozark Lyric Opera in Springfield, Missouri, of which he is artistic director. Teaming with Warner/Erato, the performance was captured on video to celebrate its launch. Available on YouTube, it's worth viewing to experience Spyres' vocal versatility and stage presence with only piano accompaniment.
 
