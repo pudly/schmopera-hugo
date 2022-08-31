@@ -33,7 +33,7 @@ Spyres displays not only superb technique but a deep understanding of the emotio
 
 This will come as no surprise to listeners of his highly praised Warner/Erato recording [_Amici e Rivali_](/amici-e-rivali-two-gentlemen-and-friendly-rivalry-in-verona/) in which he goes _mano a mano_ with fellow tenor Lawrence Brownlee in a group of Rossini arias, duets and, joined by a mezzo soprano and yet another tenor, trios.
 
-The sour intent behind the sweetly sung "Deh, vine all finestra" from _Don Giovanni_ is ever present. Together with Count de Luna's vengeful lament, "II balen del suo sorriso" from _Il trovatore_ and _Die lustige Witwe_'s delightfully insinuating (at least by the standards of operetta) "Da geh ich zu Maxim" they show evidence of a baritone in fine and nuanced form.
+The sour intent behind the sweetly sung "Deh, vieni alla finestra" from _Don Giovanni_ is ever present. Together with Count de Luna's vengeful lament, "II balen del suo sorriso" from _Il trovatore_ and _Die lustige Witwe_'s delightfully insinuating (at least by the standards of operetta) "Da geh ich zu Maxim" they show evidence of a baritone in fine and nuanced form.
 
 No less can be said about the tenor arias. The opening "Fuor del mar" from _Idomeneo_ is performed with gravitas and tortured uncertainty. That high-flying "Ah! mes amis, quel jour de fête!" from _La fille du régiment_ floats as much coloratura delight as the fluidly sung "Aux bords lointains" (_In fernem Land_) from _Lohengrin_ does its solemn revelation.
 
