@@ -62,7 +62,3 @@ Speaking of recitals, he's giving one on September 7th and 9th at the Park Avenu
 <figcaption>Michael Spyres will present a recital in the intimate and elegant Board of Officers Room at the Park Avenue Armory in New York on September 7th and 9th featuring works by Berlioz, Beethoven and Liszt. Photo: Park Avenue Armory.</figcaption>
 
 </figure>
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1661972227/media/2022/08/CDBack_tcdqc1.jpg){{% /md %}}
-
-</figure>
