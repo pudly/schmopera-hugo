@@ -12,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = ["scene/people/andrea-ludwig.md", "scene/people/caitlin-wood.md", "scene/people/justin-welsh.md", "scene/people/keith-klassen.md", "scene/people/roger-honeywell.md", "scene/people/lauren-eberwein.md"]
 short_description = "Our artist, Louise, invokes Canadian classical music icon Glenn Gould to guide her as she climbs to the apex. Interspersed with her journey we are offered a glimpse inside Gould's mind through a series of memories. "
-slug = "high-expectations-in-goulds-wall"
-title = "High expectations in Gould's Wall"
+slug = "high-expectations-and-opera-rock-climing-in-goulds-wall"
+title = "High expectations and opera + rock climbing in Gould's Wall"
 youtube_url = ""
 
 +++
