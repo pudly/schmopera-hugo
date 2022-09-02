@@ -47,13 +47,7 @@ _BariTenor_ invites comparisons. Spyres takes on Mozart and Rossini, prompted, r
 
 Then there's Spyres touched by Shakespeare. First there is Rossini’s rousing and triumphant "Ah! sì, per voi già sento" from _Otello_ and then the melancholy Dane attempting to drown his sorrows in drink with "O vin, dissipe la tristesse" from Thomas' _Hamlet_. Spyres renders both on a grand scale with assistance from the exceptional Choeur de l’Opéra national du Rhin. The acclaimed Orchestra philarmonique de Strasbourg led by Marko Letonja, adapts with sensitivity and ease to the music's formidable demands.
 
-<figure data-type="video">{{% md %}}<iframe width="835" height="470" src="https://www.youtube.com/embed/QjdaUNF0ihY" title="BariTenor – Michael Spyres live in concert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
-
-<figcaption>Spyres presented a recital of four selections from BariTenor at the Ozark Lyric Opera in Springfield, Missouri accompanied by piano. Photo:  Warner Classics.</figcaption>
-
-</figure>
-
-Hailing from the Ozarks, Spyres presented a recital of four selections from _BariTenor_ at the Ozark Lyric Opera in Springfield, Missouri, of which he is artistic director. Teaming with Warner/Erato, the performance was captured on video to celebrate its launch. Available on YouTube, it's worth viewing to experience Spyres' vocal versatility and stage presence with only piano accompaniment.
+Hailing from the Ozarks, [Spyres presented a recital](https://www.youtube.com/embed/QjdaUNF0ihY) of four selections from _BariTenor_ at the Ozark Lyric Opera in Springfield, Missouri, of which he is artistic director. Teaming with Warner/Erato, the performance was [captured on video](https://www.youtube.com/embed/QjdaUNF0ihY) to celebrate its launch. Available on YouTube, it's worth viewing to experience Spyres' vocal versatility and stage presence with only piano accompaniment.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1661972061/media/2022/08/PAA_Board_Of_Officers_Room_James_Ewing_05_amvya0.jpg){{% /md %}}
 
