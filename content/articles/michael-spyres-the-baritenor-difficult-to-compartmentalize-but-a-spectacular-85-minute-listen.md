@@ -55,7 +55,7 @@ Hailing from the Ozarks, Spyres presented a recital of four selections from _Bar
 
 </figure>
 
-Speaking of recitals, he's giving one on September 7th and 9th at the Park Avenue Armory in New York. Accompanied by Mathieu Pordoy, the roster of intriguing works includes "Les nuits d'été" by Berlioz and Beethoven's "An die ferne Geliebte." Performing in the Armory's Board of Officers Room, one of the city's most intimate and elegant venues, seating approximately 100, it's an extraordinary setting in which to experience this spectacular baritenor at work.
+Speaking of recitals, he's giving one on September 7th and 9th at the Park Avenue Armory in New York. Accompanied by Mathieu Pordoy, the roster of intriguing works includes "Les nuits d'été" by Berlioz and Beethoven's "An die ferne Geliebte". Performing in the Armory's Board of Officers Room, one of the city's most intimate and elegant venues, seating approximately 100, it's an extraordinary setting in which to experience this spectacular baritenor at work.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1661972061/media/2022/08/PAA_Board_Of_Officers_Room_James_Ewing_05_amvya0.jpg){{% /md %}}
 
