@@ -1,9 +1,8 @@
 +++
 author = ["authors/greg.md"]
 categories = "Review"
-date = 2022-09-01T04:00:00Z
+date = 2022-09-02T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -11,10 +10,10 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1662050439/m
 primary_image_credit = "Lauren Pearl in Gould's Wall, Tapestry Opera, 2022. Photo by Dahlia Katz."
 related_articles = []
 related_companies = []
-related_people = []
+related_people = ["scene/people/andrea-ludwig.md", "scene/people/caitlin-wood.md", "scene/people/justin-welsh.md", "scene/people/keith-klassen.md", "scene/people/roger-honeywell.md", "scene/people/lauren-eberwein.md"]
 short_description = "Our artist, Louise, invokes Canadian classical music icon Glenn Gould to guide her as she climbs to the apex. Interspersed with her journey we are offered a glimpse inside Gould's mind through a series of memories. "
-slug = "goulds-wall"
-title = "Gould's Wall"
+slug = "high-expectations-in-goulds-wall"
+title = "High expectations in Gould's Wall"
 youtube_url = ""
 
 +++
