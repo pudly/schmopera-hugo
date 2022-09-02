@@ -47,18 +47,18 @@ _BariTenor_ invites comparisons. Spyres takes on Mozart and Rossini, prompted, r
 
 Then there's Spyres touched by Shakespeare. First there is Rossini’s rousing and triumphant "Ah! sì, per voi già sento" from _Otello_ and then the melancholy Dane attempting to drown his sorrows in drink with "O vin, dissipe la tristesse" from Thomas' _Hamlet_. Spyres renders both on a grand scale with assistance from the exceptional Choeur de l’Opéra national du Rhin. The acclaimed Orchestra philarmonique de Strasbourg led by Marko Letonja, adapts with sensitivity and ease to the music's formidable demands.
 
-Hailing from the Ozarks, Spyres presented a recital of four selections from _BariTenor_ at the Ozark Lyric Opera in Springfield, Missouri, of which he is artistic director. Teaming with Warner/Erato, the performance was captured on video to celebrate its launch. Available on YouTube, it's worth viewing to experience Spyres' vocal versatility and stage presence with only piano accompaniment.
-
 <figure data-type="video">{{% md %}}<iframe width="835" height="470" src="https://www.youtube.com/embed/QjdaUNF0ihY" title="BariTenor – Michael Spyres live in concert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 <figcaption>Spyres presented a recital of four selections from BariTenor at the Ozark Lyric Opera in Springfield, Missouri accompanied by piano. Photo:  Warner Classics.</figcaption>
 
 </figure>
 
-Speaking of recitals, he's giving one on September 7th and 9th at the Park Avenue Armory in New York. Accompanied by Mathieu Pordoy, the roster of intriguing works includes "Les nuits d'été" by Berlioz and Beethoven's "An die ferne Geliebte". Performing in the Armory's Board of Officers Room, one of the city's most intimate and elegant venues, seating approximately 100, it's an extraordinary setting in which to experience this spectacular baritenor at work.
+Hailing from the Ozarks, Spyres presented a recital of four selections from _BariTenor_ at the Ozark Lyric Opera in Springfield, Missouri, of which he is artistic director. Teaming with Warner/Erato, the performance was captured on video to celebrate its launch. Available on YouTube, it's worth viewing to experience Spyres' vocal versatility and stage presence with only piano accompaniment.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1661972061/media/2022/08/PAA_Board_Of_Officers_Room_James_Ewing_05_amvya0.jpg){{% /md %}}
 
 <figcaption>Michael Spyres will present a recital in the intimate and elegant Board of Officers Room at the Park Avenue Armory in New York on September 7th and 9th featuring works by Berlioz, Beethoven and Liszt. Photo: Park Avenue Armory.</figcaption>
 
 </figure>
+
+Speaking of recitals, he's giving one on September 7th and 9th at the Park Avenue Armory in New York. Accompanied by Mathieu Pordoy, the roster of intriguing works includes "Les nuits d'été" by Berlioz and Beethoven's "An die ferne Geliebte". Performing in the Armory's Board of Officers Room, one of the city's most intimate and elegant venues, seating approximately 100, it's an extraordinary setting in which to experience this spectacular baritenor at work.
