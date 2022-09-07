@@ -20,21 +20,13 @@ youtube_url = ""
 +++
 Manitoba Underground Opera's new season aimed to provide an immersive theatrical experience that facilitated contemporary social commentary. The season, entitled "For Better or For Worse", featured the operas _Orphée and Eurydice_ and _The Marriage of Figaro_.	While I was unable to see _Orphée and Eurydice_, the production of _The Marriage of Figaro_ easily accomplished these goals, and then some.
 
-Community presence seemed to be large contributing factor when it came to MUO's success in ticket sales. Winnipeg summers are short and jam-packed with various shows, festivals, and activities. So, while people in 2022 are ready to experience art in person again, the sheer amount of live theatre in the city can make it difficult to draw a substantial crowd. However, MUO had won over Winnipeg's attendance,	as their website indicated sold out shows, with many audience members pairing up at tables to facilitate the audience members.
+Community presence seemed to be large contributing factor when it came to MUO's success in ticket sales. Winnipeg summers are short and jam-packed with various shows, festivals, and activities. So, while people in 2022 are ready to experience art in person again, the sheer amount of live theatre in the city can make it difficult to draw a substantial crowd. However, MUO had won over Winnipeg's attendance,	as their website indicated sold out shows.
 
 As a singer transitioning out of a performing role and into the role of an audience member, board member, and now reviewer, it is surreal to watch a company grow as a spectator on the outside. Looking at the program, I did not know as many names as I have in the past, and it was an exciting prospect to be able to hear	some of the voices in the next crop of Canadian singers.
 
-Club 200 is a local, queer-friendly space that prides itself in being one of Canada's longest running gay bars. During the show, audience members sat at tables around the club, and food and drinks were served. The atmosphere was relaxed, inclusive, and accessible. The choice of venue held a certain degree of interest, as it was evident from listening to the various conversations at nearby tables that there were a great deal of "firsts"—many of them a direct result of being in an unapologetic 2SLGBTQIA+ space. For example, some audience members were experiencing gender-neutral washrooms	for	the	first	time, and	others	were	asking
+Club 200 is a local, queer-friendly space that prides itself in being one of Canada's longest running gay bars. During the show, audience members sat at tables around the club, and food and drinks were served. The atmosphere was relaxed, inclusive, and accessible. The choice of venue held a certain degree of interest, as it was evident from listening to the various conversations at nearby tables that there were a great deal of "firsts"—many of them a direct result of being in an unapologetic 2SLGBTQIA+ space. Some audience members were experiencing gender-neutral washrooms for the first time, and others were asking questions about pronouns that they likely would not have asked otherwise. Paired with the audience members who had never been to an opera before, the air felt full of curiosity.
 
-questions	about	pronouns	that	they	likely	would	not	have	asked	otherwise. Paired
-
-with	the	audience	members	who	had	never	been	to	an	opera	before,	the	air	felt	full
-
-of	curiosity.
-
-Adam	Da	Ros’	setting	and	interpretation	fit	effortlessly	in	with	the	intention
-
-of	the	show	and	its	exceptional	English	translation.	The	show	itself	was	set	in	a	bar,
+Adam Da Ros' setting and interpretation fit effortlessly in with the intention of the show and its exceptional English translation. The show itself was	set	in	a	bar,
 
 with	the	Count	as	the	owner,	and	Figaro,	Susanna,	and	Cherubino	as	employees.	This
 
