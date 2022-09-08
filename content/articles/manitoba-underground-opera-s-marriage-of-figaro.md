@@ -1,9 +1,8 @@
 +++
 author = ["authors/andrea-lett.md"]
 categories = "Review"
-date = 2022-09-07T04:00:00Z
+date = 2022-09-08T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "manitoba-underground-operas-marriage-of-figaro"
-title = "Manitoba Underground Opera’s Marriage of Figaro"
+slug = "a-queer-friendly-figaro-out-of-manitoba-underground-opera"
+title = "A queer-friendly Figaro out of Manitoba Underground Opera"
 youtube_url = ""
 
 +++
