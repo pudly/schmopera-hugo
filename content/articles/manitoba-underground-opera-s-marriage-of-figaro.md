@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1662642469/media/2022/09/sqMUO_MF7_ikzqhx.jpg"
+primary_image_credit = "Matt Pauls as Bartolo in Manitoba Underground Opera's production of The Marriage of Figaro, 2022. Photo: Paul McKeen."
 related_articles = []
 related_companies = []
 related_people = []
@@ -26,7 +26,7 @@ As a singer transitioning out of a performing role and into the role of an audie
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>in Manitoba Underground Opera's production of The Marriage of Figaro, 2022. Photo: Paul McKeen.</figcaption>  
 </figure>
 
 Club 200 is a local, queer-friendly space that prides itself in being one of Canada's longest running gay bars. During the show, audience members sat at tables around the club, and food and drinks were served. The atmosphere was relaxed, inclusive, and accessible. The choice of venue held a certain degree of interest, as it was evident from listening to the various conversations at nearby tables that there were a great deal of "firsts"—many of them a direct result of being in an unapologetic 2SLGBTQIA+ space. Some audience members were experiencing gender-neutral washrooms for the first time, and others were asking questions about pronouns that they likely would not have asked otherwise. Paired with the audience members who had never been to an opera before, the air felt full of curiosity.
@@ -35,7 +35,7 @@ Adam Da Ros' setting and interpretation fit in effortlessly with the intention o
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>in Manitoba Underground Opera's production of The Marriage of Figaro, 2022. Photo: Paul McKeen.</figcaption>  
 </figure>
 
 Da Ros' use of the space delightfully included the audience as the performers mingled with tables and interacted with patrons around the club. The direction and choices were clear and inclusive in all senses, with mindfulness to the hosts and staff at Club 200, while still bringing the audience into the story for an immersive experience.
@@ -46,9 +46,9 @@ Chelsea Kutyn's voice sparkled with warmth and sincerity. Kutyn was quick, cleve
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>in Manitoba Underground Opera's production of The Marriage of Figaro, 2022. Photo: Paul McKeen.</figcaption>  
 </figure>
 
-Cherubino (played by Hailey Witt) was a non-binary character, emphasized with clear and deliberate they/them/their pronouns throughout the show. The English translation of "Voi, che sapete" was exceptionally well-crafted, and beautifully depicted the young teenager exploring their identity. Witt displayed thought, understanding, and sensitivity in the portrayal of Cherubino, and exhibited a natural versatility in both acting and singing. Kyle Briscoe was possibly one of the most charming Don Basilios I've seen, and balanced elegance and sass as he fueled the drama with gossip and scandal. Rosmarie Vanderhooft as Marcellina and Matt Pauls as Bartolo charismatically stole the audience's hearts and gaze with their fabulous costumes, flare, and vocal blend. Special mention should be made of Jolene Groundbeef, 	who consulted on Pauls' stunning drag outfit.
+Cherubino (played by Hailey Witt) was a non-binary character, emphasized with clear and deliberate they/them/their pronouns throughout the show. The English translation of "Voi, che sapete" was exceptionally well-crafted, and beautifully depicted the young teenager exploring their identity. Witt displayed thought, understanding, and sensitivity in the portrayal of Cherubino, and exhibited a natural versatility in both acting and singing. Kyle Briscoe was possibly one of the most charming Don Basilios I've seen, and balanced elegance and sass as he fueled the drama with gossip and scandal. Rosmarie Vanderhooft as Marcellina and Matt Pauls as Bartolo charismatically stole the audience's hearts and gaze with their fabulous costumes, flare, and vocal blend. Special mention should be made of [Jolean Groundbeef](https://www.instagram.com/joleangroundbeef/?hl=en), who consulted on Pauls' stunning drag outfit.
 
 Looking back on the night, everything seemed to be in its right place in MUO's _Marriage of Figaro_.	The sense of community, learning, and joy could not be ignored in the room. When looking at the future of opera, this small company seems to have figured out a thing or two, and their work would make any Winnipegger proud to be part of the arts community.
