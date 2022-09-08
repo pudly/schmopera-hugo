@@ -24,18 +24,18 @@ Community presence seemed to be large contributing factor when it came to MUO's 
 
 As a singer transitioning out of a performing role and into the role of an audience member, board member, and now reviewer, it is surreal to watch a company grow as a spectator on the outside. Looking at the program, I did not know as many names as I have in the past, and it was an exciting prospect to be able to hear	some of the voices in the next crop of Canadian singers.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1662642723/media/2022/09/MUO_MF1_kmdc1j.jpg){{% /md %}}
 
-<figcaption>in Manitoba Underground Opera's production of The Marriage of Figaro, 2022. Photo: Paul McKeen.</figcaption>  
+<figcaption>Heather Molloy (Figaro) and Chelsea Kutyn (Susanna) in Manitoba Underground Opera's production of The Marriage of Figaro, 2022. Photo: Paul McKeen.</figcaption>  
 </figure>
 
 Club 200 is a local, queer-friendly space that prides itself in being one of Canada's longest running gay bars. During the show, audience members sat at tables around the club, and food and drinks were served. The atmosphere was relaxed, inclusive, and accessible. The choice of venue held a certain degree of interest, as it was evident from listening to the various conversations at nearby tables that there were a great deal of "firsts"—many of them a direct result of being in an unapologetic 2SLGBTQIA+ space. Some audience members were experiencing gender-neutral washrooms for the first time, and others were asking questions about pronouns that they likely would not have asked otherwise. Paired with the audience members who had never been to an opera before, the air felt full of curiosity.
 
 Adam Da Ros' setting and interpretation fit in effortlessly with the intention of the show and its exceptional English translation. The show itself was set in a bar, with the Count as the owner, and Figaro, Susanna, and Cherubino as employees. This resonated particularly well, given that in some capacity, many folks working in the service industry have—at some point—dealt with sexual harassment in the workplace. Certain phrases like: "after all, I own the place" from the Count, or:	"I do this for a living…" from Susanna are, unfortunately, attitudes that are not uncommon in the service industry even today.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1662642782/media/2022/09/MUO_MF3_ici7pj.jpg){{% /md %}}
 
-<figcaption>in Manitoba Underground Opera's production of The Marriage of Figaro, 2022. Photo: Paul McKeen.</figcaption>  
+<figcaption>(l-r) Kyle Briscoe (Basilio) Matthew Pauls (Bartolo), Heather Molloy (Figaro) Chelsea Kutyn (Susanna) Rosemarie van der Hooft (Marcellina) in Manitoba Underground Opera's production of The Marriage of Figaro, 2022. Photo: Paul McKeen.</figcaption>  
 </figure>
 
 Da Ros' use of the space delightfully included the audience as the performers mingled with tables and interacted with patrons around the club. The direction and choices were clear and inclusive in all senses, with mindfulness to the hosts and staff at Club 200, while still bringing the audience into the story for an immersive experience.
