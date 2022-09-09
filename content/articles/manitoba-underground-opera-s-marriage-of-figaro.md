@@ -1,7 +1,7 @@
 +++
 author = ["authors/andrea-lett.md"]
 categories = "Review"
-date = 2022-09-08T04:00:00Z
+date = 2022-09-09T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = ""
@@ -17,11 +17,11 @@ title = "A queer-friendly Figaro out of Manitoba Underground Opera"
 youtube_url = ""
 
 +++
-Manitoba Underground Opera's new season aimed to provide an immersive theatrical experience that facilitated contemporary social commentary. The season, entitled "For Better or For Worse", featured the operas _Orphée and Eurydice_ and _The Marriage of Figaro_.	While I was unable to see _Orphée and Eurydice_, the production of _The Marriage of Figaro_ easily accomplished these goals, and then some.
+[Manitoba Underground Opera](/scene/companies/manitoba-underground-opera/)'s new season aimed to provide an immersive theatrical experience that facilitated contemporary social commentary. The season, entitled "For Better or For Worse", featured the operas _Orphée and Eurydice_ and _The Marriage of Figaro_.	While I was unable to see _Orphée and Eurydice_, the production of _The Marriage of Figaro_ easily accomplished these goals, and then some.
 
 Community presence seemed to be large contributing factor when it came to MUO's success in ticket sales. Winnipeg summers are short and jam-packed with various shows, festivals, and activities. So, while people in 2022 are ready to experience art in person again, the sheer amount of live theatre in the city can make it difficult to draw a substantial crowd. However, MUO had won over Winnipeg's attendance,	as their website indicated sold out shows.
 
-As a singer transitioning out of a performing role and into the role of an audience member, board member, and now reviewer, it is surreal to watch a company grow as a spectator on the outside. Looking at the program, I did not know as many names as I have in the past, and it was an exciting prospect to be able to hear	some of the voices in the next crop of Canadian singers.
+As a singer transitioning out of a performing role and into the role of an audience member, board member, and now reviewer, it is surreal to watch a company grow as a spectator on the outside. Looking at the program, I did not know as many names as I have in the past, and it was an exciting prospect to be able to hear some of the voices in the next crop of Canadian singers.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1662642723/media/2022/09/MUO_MF1_kmdc1j.jpg){{% /md %}}
 
