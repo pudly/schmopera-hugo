@@ -3,7 +3,6 @@ author = ["authors/john-hohmann.md"]
 categories = "Review"
 date = 2022-09-13T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
