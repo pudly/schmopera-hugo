@@ -17,7 +17,7 @@ title = "Michael Spyres at the Park Avenue Armory: big voice in an intimate room
 youtube_url = ""
 
 +++
-Michael Spyres' recent recital in the Board of Officers Room at the Park Avenue Armory marked his New York solo recital debut. It left no doubt that this powerhouse tenor, when taking on Mozart's _Idomeneo_ at the MET later this month, will fill the sprawling house with burnished sound and buoyant theatricality.
+[Michael Spyres](/scene/people/michael-spyres/)' recent recital in the Board of Officers Room at the Park Avenue Armory marked his New York solo recital debut. It left no doubt that this powerhouse tenor, when taking on Mozart's _Idomeneo_ at the MET later this month, will fill the sprawling house with burnished sound and buoyant theatricality.
 
 The room is intimate, the voice spectacularly large. And not until Listz's "Tre sonette del Petrarch" and the encores that followed, did he and the room finally coalesce. This is not to say that there weren’t moments of impressive sensitivity and vocal agility before taking on Liszt's Italianate sonnets and two encores, including Beethoven's somber "In questa tomba obscura" and the romantic if obsessive "Enfant, si j'étais roi" by Liszt, all neatly attuned to his surroundings.
 
@@ -39,7 +39,7 @@ Perhaps Mathieu Podrov's lovely solo turn, Liszt's "L’idée fixe" based on Ber
 
 But the sun broke through any lingering clouds from the Beethoven when Spyres embarked upon Liszt's Petrarch sonnets. Having refined the sonnet, Petrarca made the form ripe for composers. Liszt was drawn to these poems and in turn the _bel canto_ style of Bellini. Spyres was at home, in his element and began the downsizing process to serenade us with exquisite high notes that seemed to come out of nowhere only to blossom as the poet found his balance with love and the universe. The tenor adopted a more personal, animated and thoroughly charming troubadour mode. 
 
-The Board of Officers Room promises to be a perfect fit for Emily D'Angelo. The Canadian mezzo-soprano appears with pianist Sophia Muñoz in a program on September 16 and 18 featuring works by Missy Mazzoli and Hildegard von Bingen from [_erargeia_](https://www.deutschegrammophon.com/en/catalogue/products/enargeia-emily-dangelo-12353), her debut recording on Deutsche Grammophon. D'Angelo will also perform songs by other noted female composers plus excerpts from Copland's _Twelve Poems by Emily Dickinson_ and two songs by Schöenberg.
+The Board of Officers Room promises to be a perfect fit for [Emily D'Angelo](/scene/people/emily-dangelo/). The Canadian mezzo-soprano appears with pianist Sophia Muñoz in a program on September 16 and 18 featuring works by Missy Mazzoli and Hildegard von Bingen from [_erargeia_](https://www.deutschegrammophon.com/en/catalogue/products/enargeia-emily-dangelo-12353), her debut recording on Deutsche Grammophon. D'Angelo will also perform songs by other noted female composers plus excerpts from Copland's _Twelve Poems by Emily Dickinson_ and two songs by Schöenberg.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1663076160/media/2022/09/PAA_MichaelSpyres_recital_Emily-Dangelo_he7k2m.jpg){{% /md %}}
 
