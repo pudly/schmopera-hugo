@@ -3,15 +3,14 @@ author = ["authors/oliver-munar.md"]
 categories = "Interview"
 date = 2022-09-18T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
-postamble = ""
+postamble = "Calgary Concert Opera and Opera By Request co-present Donizetti's _Roberto Devereux_ on **September 17 in Okotoks, Alberta and September 19 in Calgary**. Tickets are available via [Calgary Concert Opera's website](https://calgaryconcertopera.com/upcoming-events)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1663515750/media/2022/09/sqDevereux_RamirezKing.jpeg_xcotv2.jpg"
-primary_image_credit = ""
+primary_image_credit = "Ernesto Ramírez (Devereux) and Barbara King (Sara) in Roberto Devereux, co-produced by Opera By Request and Calgary Concert Opera Company. Photo courtesy of Calgary Concert Opera Company."
 related_articles = []
-related_companies = []
-related_people = []
+related_companies = ["scene/companies/opera-by-request.md"]
+related_people = ["scene/people/ernesto-ramirez.md"]
 short_description = "\"This production of Roberto Devereux will be a really intimate performance for the audience,\" says King. \"In this format, you'll really feel the emotions Donizetti has woven so brilliantly in his music.\""
 slug = "calgary-concert-opera-returns-with-regal-love-triangle"
 title = "Calgary Concert Opera returns with regal love triangle"
@@ -65,5 +64,3 @@ King was introduced to performing opera in a concert format after being cast as 
 King also maintains her link to Bill Shookhoff of Opera By Request, who has come to Calgary numerous times as Music Director for a CCOC production, including _I Capuleti ed i Montecchi_ (2012), _Rigoletto_ (2014), _La Gioconda_ (2015), _Samson et Dalila_ (2019) and now this production of _Roberto Devereux_.
 
 "This production of _Roberto Devereux_ will be a really intimate performance for the audience," says King. "In this format, you'll really feel the emotions Donizetti has woven so brilliantly in his music."
-
-Calgary Concert Opera and Opera By Request co-present Donizetti's _Roberto Devereux_ on **September 17 in Okotoks, Alberta and September 19 in Calgary**. Tickets are available via [Calgary Concert Opera's website](https://calgaryconcertopera.com/upcoming-events).
