@@ -23,7 +23,7 @@ After two years away due to the COVID pandemic, [Calgary Concert Opera Company](
 
 King admits she was "really scared" to come back with _Roberto Devereux_ as the company's first production after COVID. "Everything kept getting shut down, we didn’t know what was going to happen," says King. "But it came to a point where we just decided to do it, and to ride the wave. If things happen, we'll adjust. It's been really exciting, but it's tough working around all these possibilities relating to COVID."
 
-<figure data-type="image">{{% MD %}}![](https://res.cloudinary.com/schmopera/image/upload/v1663515803/media/2022/09/Devereux_Shookhoff-King-McLeod_zucxqo.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1663515803/media/2022/09/Devereux_Shookhoff-King-McLeod_zucxqo.jpg){{% /md %}}
 
 <figcaption>(l-r) Opera By Request Director Bill Shookhoff, mezzo-soprano Barbara King, and soprano Cara McLeod in Roberto Devereux, co-produced by Opera By Request and Calgary Concert Opera Company. Photo courtesy of Calgary Concert Opera Company.</figcaption>  
 </figure>
