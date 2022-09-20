@@ -3,16 +3,15 @@ author = ["authors/arturo-fernandez.md"]
 categories = "Review"
 date = 2022-09-19T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1663629338/media/2022/09/sqWSP_CC-10_Kathy_Wittman_Ball_Square_Films_eamfjw.jpg"
 primary_image_credit = "White Snake Projects' production of Cosmic Cowboy, 2022. Photo by Kathy Wittman / Ball Square Films."
-related_articles = []
+related_articles = ["articles/star-trek-and-the-opera.md", "articles/opera-and-scifi-the-puritan-intersection.md"]
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "The score's harmonic language is relatively simple, but it is also quite full of little treasures like this, and I found myself enamoured by it by the end."
 slug = "cosmic-cowboy-a-strong-premiere-despite-a-cursed-opening-night"
 title = "Cosmic Cowboy a strong premiere, despite a cursed opening night"
 youtube_url = ""
@@ -76,4 +75,4 @@ Daniel Moody was every bit her match as Quingu in the first half and then Cooper
 
 Generally, the production also had a lot going for it as well: the costume design was quite excellent, in that it pulled together various science-fiction influences from _Star Trek_ to Flash Gordon and sort of created a very interesting aesthetic that was pleasing to look at. The projection mapping that doubled as set design also gave a really nice look to the whole production, and it was wonderful to see. The only real snag I could see in how the production was conceived was that I think the ending could have been staged a little more clearly: I had to read the synopsis to really make any sense of what happens when Tia manages to overcome Marduk's attempts to hunt her across the universe, but other than that the storytelling was generally clear and concise.
 
-And yes, I say that even in a production riddled with technical difficulties. I am very sympathetic to the struggles of the production crew: I imagine that if all had gone according to plan, I would have been blown away, and the tone of this review would be quite different. And after all, it is only one performance: _Cosmic Cowboy_ had two other performances, and there is hope that they went off without snags, and others in this city will be able to experience all it has to offer. It is still a crying shame that this performance was as cursed as it was, but even amidst the technical errors, I got the sense that it was all in service to a good story told with good music and good singing; the fact this came through at all given the circumstances is a testament to _Cosmic Cowboy_'s worth as an artistic piece.
+And yes, I say that even in a production riddled with technical difficulties. I am very sympathetic to the struggles of the production crew: I imagine that if all had gone according to plan, I would have been blown away, and the tone of this review would be quite different. And after all, it is only one performance: _Cosmic Cowboy_ had two other performances, and there is hope that they went off without snags, and others in this city were able to experience all it has to offer. It is still a crying shame that this performance was as cursed as it was, but even amidst the technical errors, I got the sense that it was all in service to a good story told with good music and good singing; the fact this came through at all given the circumstances is a testament to _Cosmic Cowboy_'s worth as an artistic piece.
