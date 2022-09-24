@@ -3,16 +3,15 @@ author = ["authors/arturo-fernandez.md"]
 categories = "Review"
 date = 2022-09-24T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1664056444/media/2022/09/sqBLO_Laboheme_OliviaMoon_2_aegigy.jpg"
 primary_image_credit = "Jesus Garcia (Rodolfo) and Lauren Michelle (Mimì) in Boston Lyric Opera's production of La bohème, 2022. Photo by Olivia Moon."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "short"
+related_articles = ["articles/blo-barber-brings-delightful-laughter-amid-overdesign.md", "articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md", "articles/bohemian-atg-boheme.md"]
+related_companies = ["scene/companies/boston-lyric-opera-1.md"]
+related_people = ["scene/people/edward-parks.md", "scene/people/lauren-michelle.md"]
+short_description = "It is surprising how little effectiveness Puccini's score loses when performed in reverse order, and the score still lands each emotional beat even when the context feels radically different."
 slug = "la-boheme-reliable-as-ever-even-in-reverse"
 title = "La bohème reliable as ever, even in reverse"
 youtube_url = ""
@@ -34,7 +33,7 @@ In the end, though, there was one gesture that occurred right at the end of the 
 <figcaption>(l-r) Chelsea Basler (Musetta), Lauren Michelle (Mimì), Jesus Garcia (Rodolfo), and Edward Parks (Marcello) in Boston Lyric Opera's production of La bohème, 2022. Photo by Olivia Moon.</figcaption>  
 </figure>
 
-It also does not hurt that Puccini's score is just as sumptuous in reverse as it is in proper performance order, and that the various callbacks that are situated throughout the score still land the way they should. It is surprising how little effectiveness Puccini's score loses when performed in reverse order, and the score still lands each emotional beat even when the context feels radically different due to the reverse order. It truly showed in my reaction to it, in that I found myself in tears at multiple points at all the points I find myself emotional when listening to this score on my own. That the score lost none of its power through the reversal of its order speaks to why this opera is still performed so often in the opera house, and does so in a very strange way.
+It also does not hurt that Puccini's score is just as sumptuous in reverse as it is in proper performance order, and that the various callbacks that are situated throughout the score still land the way they should. It is surprising how little effectiveness Puccini's score loses when performed in reverse order, and the score still lands each emotional beat even when the context feels radically different. It truly showed in my reaction to it, in that I found myself in tears at multiple points at all the points I find myself emotional when listening to this score on my own. That the score lost none of its power through the reversal of its order speaks to why this opera is still performed so often in the opera house, and does so in a very strange way.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1664056635/media/2022/09/BLO_Laboheme__OliviaMoon_4_tdcxtg.jpg){{% /md %}}
 
@@ -43,14 +42,14 @@ It also does not hurt that Puccini's score is just as sumptuous in reverse as it
 
 It further helps that the production design is mostly pared down, with all the action taking place on an inclined disc that rotated around. The mechanism on which the disc rotated was perhaps a little too loud and sometimes covered up the quieter moments of the orchestral playing, but the pared down production left the show feeling briskly paced, and it indeed had the intended effect of highlighting the kind of poverty the characters face through most of the show.
 
-And for the most part, the central cast carried the show quite well. [Lauren Michelle](/scene/people/lauren-michelle/) was particularly radiant as Mimì: her voice soared above the orchestral direction, and its more melancholic color suited Mimi’s journey quite well. [Edward Parks](/scene/people/edward-parks/) also made for a soulful Marcello, and it was a sore sight when he was not onstage to keep things going. I do think [Jesus Garcia](/scene/people/jesus-garcia/)’s voice perhaps does not quite project well enough as Rodolfo and I did feel he took a little too long to figure his character out, but he eventually found himself in the latter half of the performance, and he at the very least was a rather good actor. Among the rest of the cast, [Chelsea Basler](/scene/people/chelsea-basler/) made for a hilariously coquettish Musetta, and William Guanbo Su and Benjamin Taylor made for a playful Colline and Schaunard.
+And for the most part, the central cast carried the show quite well. [Lauren Michelle](/scene/people/lauren-michelle/) was particularly radiant as Mimì: her voice soared above the orchestral direction, and its more melancholic color suited Mimi’s journey quite well. [Edward Parks](/scene/people/edward-parks/) also made for a soulful Marcello, and it was a sore sight when he was not onstage to keep things going. I do think Jesus Garcia’s voice perhaps does not quite project well enough as Rodolfo and I did feel he took a little too long to figure his character out, but he eventually found himself in the latter half of the performance, and he at the very least was a rather good actor. Among the rest of the cast, [Chelsea Basler](/scene/people/chelsea-basler/) made for a hilariously coquettish Musetta, and William Guanbo Su and Benjamin Taylor made for a playful Colline and Schaunard.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1664056822/media/2022/09/BLO_Laboheme_OliviaMoon_5_cwg36y.jpg){{% /md %}}
 
 <figcaption>Jesus Garcia (Rodolfo) and Lauren Michelle (Mimì) in Boston Lyric Opera's production of La bohème, 2022. Photo by Olivia Moon.</figcaption>  
 </figure>
 
-Do I think the experiment was completely successful? I am still not sure. Starting the show in Act IV has the effect of making some characters feel much less fleshed out than they would have been in proper performance order (especially Colline and Schaunard and their relationship to Rodolfo and Marcello), and it does rob some of the impact of its finale to start with the death and then go backwards. I also feel that it still begs the question of why one would do this, even after the final curtain.  But on the other hand, the way the elements were handled at the very least kept the whole production from falling into the self-importance trap that these kinds of radical productions so frequently fall into, and as someone who generally hates the ‘let’s add subtext that is not in the source’ approach to directing that is a huge compliment. It may not be a La Boheme for the ages, but it had something interesting to say, and when trying to breathe new life into a well-worn classic that is the very least one can ask for.
+Do I think the experiment was completely successful? I am still not sure. Starting the show in Act IV has the effect of making some characters feel much less fleshed out than they would have been in proper performance order (especially Colline and Schaunard and their relationship to Rodolfo and Marcello), and it does rob some of the impact of its finale to start with the death and then go backwards. I also feel that it still begs the question of why one would do this, even after the final curtain.  But on the other hand, the way the elements were handled at the very least kept the whole production from falling into the self-importance trap that these kinds of radical productions so frequently fall into, and as someone who generally hates the "let's add subtext that is not in the source" approach to directing that is a huge compliment. It may not be a _La bohème_ for the ages, but it had something interesting to say, and when trying to breathe new life into a well-worn classic that is the very least one can ask for.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1664056842/media/2022/09/BLO_Laboheme_OliviaMoon_6_dc9lwb.jpg){{% /md %}}
 
