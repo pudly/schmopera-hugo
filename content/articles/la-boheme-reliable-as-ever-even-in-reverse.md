@@ -22,14 +22,14 @@ The first time I reviewed _La bohème_ with Boston Opera Collaborative's [lumino
 
 And yet, here we are, reviewing Boston Lyric Opera's attempt to solve the same question. And their attempt is certainly novel and, to a certain degree, a little sacrilegious: they opted to transfer [Yuval Sharon's production](https://blo.org/boheme/) from this year's Spoleto Festival, which involves performing _La bohème_ in reverse. They opened the show with Act IV, then worked backwards through the entire rest of the opera until the end of Act I. Their rationale? It is meant to evoke the question of "why it happens", rather than "what happens".
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1664056504/media/2022/09/BLO__La_boheme__OliviaMoon_1_fsov6h.jpg){{% /md %}}
 
-<figcaption> in Boston Lyric Opera's production of La bohème, 2022. Photo by Olivia Moon.</figcaption>  
+<figcaption>A scene from Boston Lyric Opera's production of La bohème, 2022. Photo by Olivia Moon.</figcaption>  
 </figure>
 
-In the end, though, there was one gesture that occurred right at the end of the performance that made the whole concept click for me. In what is technically the conclusion of Act I but was in practice almost the end of the evening, when Rodolfo is about to head off to Cafe Momus to join his friends, Mimi runs around the stage, and finds the Wanderer right in where her path is. Normally, he would have stopped the show to ask “what would’ve happened if X happened”, but here he simply says nothing, and for the first (and only) time in the whole production the Wanderer is acknowledged by one of the characters. After this brief second, Mimi turns and asks Rodolfo if she can join them, as she does in the opera, and so they walk off in each other’s arms. The question that hangs in the air felt very much like “how worth it is love even knowing that this whole story ends in tragedy”, and I have to admit that the end result at the very least made the whole conceit make some amount of sense on its own merits.
+In the end, though, there was one gesture that occurred right at the end of the performance that made the whole concept click for me. In what is technically the conclusion of Act I but was in practice almost the end of the evening, when Rodolfo is about to head off to Café Momus to join his friends, Mimì runs around the stage, and finds the Wanderer right in where her path is. Normally, he would have stopped the show to ask “what would’ve happened if X happened”, but here he simply says nothing, and for the first (and only) time in the whole production the Wanderer is acknowledged by one of the characters. After this brief second, Mimi turns and asks Rodolfo if she can join them, as she does in the opera, and so they walk off in each other’s arms. The question that hangs in the air felt very much like “how worth it is love even knowing that this whole story ends in tragedy”, and I have to admit that the end result at the very least made the whole conceit make some amount of sense on its own merits.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1664056525/media/2022/09/BLO_Laboheme_OliviaMoon_3_hfwvdl.jpg){{% /md %}}
 
 <figcaption> in Boston Lyric Opera's production of La bohème, 2022. Photo by Olivia Moon.</figcaption>  
 </figure>
