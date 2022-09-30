@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = "Baritone Alfredo Daza is Diego Rivera, soprano Maria Katzarava is Catrina, the keeper of the souls, and countertenor Key’mon W. Murrah is Leonardo. Lorena Maza is the director and Roberto Kalb is the conductor. There will be four performances at the San Diego Civic Theater: October 29, November 1, 4, and 6. _El ultimó sueño de Frida y Diego_ is a co-production between San Diego Opera and San Francisco Opera."
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1664560451/media/2022/09/sqSDO_ShowArt_Frida_y_Diego_b5onrj.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -24,7 +24,7 @@ _El último sueño de Frida y Diego_ explores the relationship between two of 
 
 The opera was composed by Grammy Award-winning composer and pianist Gabriela Lena Frank, with librettist Nilo Cruz, who won a Pulitzer Prize in 2003 for _Anna in the Tropics_.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1664560472/media/2022/09/KarliCadel_FridaDiegoWkshp_5550_vnnsoh.jpg){{% /md %}}
 
 <figcaption></figcaption>  
 </figure>
@@ -52,9 +52,9 @@ The marimba's sound is "very particular for Frida in the color that it brings," 
 
 Paz describes getting the role as a pinch-me moment. "Frida Kahlo was a Mexican icon, a woman, an artist, and a very courageous artist. She was a very original genius."
 
-"Singing is vital" to Paz. "I carry my emotions. I want to communicate with people. I want to share beauty. That's one of my goals and has always been, and I think it's going to be my goal forever. Whenever I have the chance to sing, it is to portray beauty and also to portray emotions, to communicate and create a relationship with the audience."
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1664560566/media/2022/09/SDO_Paz_Guadalupe_rw6jvr.jpg){{% /md %}}
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>  
+<figcaption>Guadalupe Paz, mezzo-soprano, who stars as Frida Kahlo in SDO's 2022 production of _El último sueño de Frida y Diego_.</figcaption>  
 </figure>
+
+"Singing is vital" to Paz. "I carry my emotions. I want to communicate with people. I want to share beauty. That's one of my goals and has always been, and I think it's going to be my goal forever. Whenever I have the chance to sing, it is to portray beauty and also to portray emotions, to communicate and create a relationship with the audience."
