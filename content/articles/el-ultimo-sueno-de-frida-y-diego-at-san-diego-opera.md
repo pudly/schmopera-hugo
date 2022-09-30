@@ -3,18 +3,17 @@ author = ["authors/eva-cahen.md"]
 categories = "Interview"
 date = 2022-09-30T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Baritone Alfredo Daza is Diego Rivera, soprano Maria Katzarava is Catrina, the keeper of the souls, and countertenor Key’mon W. Murrah is Leonardo. Lorena Maza is the director and Roberto Kalb is the conductor. There will be four performances at the San Diego Civic Theater: October 29, November 1, 4, and 6. _El ultimó sueño de Frida y Diego_ is a co-production between San Diego Opera and San Francisco Opera."
 preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1664560451/media/2022/09/sqSDO_ShowArt_Frida_y_Diego_b5onrj.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1664560874/media/2022/09/sqSDO_Frida-y-Diego_ldkbb5.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "el-ultimo-sueno"
-title = "El Ultimo Sueño de Frida y Diego at San Diego Opera"
+slug = "a-very-original-genius-guadalupe-paz-on-playing-frida-kahlo-at-san-diego-opera"
+title = "\"A very original genius\": Guadalupe Paz on playing Frida Kahlo at San Diego Opera"
 youtube_url = ""
 
 +++
