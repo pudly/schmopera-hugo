@@ -28,7 +28,7 @@ The opera was composed by Grammy Award-winning composer and pianist Gabriela Len
 <figcaption>Key'mon W. Murrah sings Leonardo in the orchestra workshop of El último sueño de Frida y Diego (The Last Dream of Frida and Diego), February 19, 2022. Photo by Karli Cadel.</figcaption>  
 </figure>
 
-Gabriela, a multi-racial Latina, was born in Berkeley, California. As a woman, as a person of color, and as a disabled person – she is partially deaf – she says she has gotten used to the challenges of firsts. "I almost don't feel the pressure anymore. It's just a constant, knowing that people are going to be curious how I do and what I do," she says. Writing an opera for the first time is no different.
+Frank, a multi-racial Latina, was born in Berkeley, California. As a woman, as a person of color, and as a disabled person – she is partially deaf – she says she has gotten used to the challenges of firsts. "I almost don't feel the pressure anymore. It's just a constant, knowing that people are going to be curious how I do and what I do," she says. Writing an opera for the first time is no different.
 
 She came to composition early on, when she took a program at the San Francisco Conservatory of Music in 1989. There, she not only learned composition but that "It's important to be a witness," she says. "I put what I witness in culture and politics, with the environment, and with relationships between human beings into the music."
 
@@ -37,9 +37,9 @@ She came to composition early on, when she took a program at the San Francisco C
 <figcaption>(standing) Maria Katzarava sing Catrina in the orchestra workshop of El último sueño de Frida y Diego (The Last Dream of Frida and Diego), February 19, 2022. Photo by Karli Cadel.</figcaption>  
 </figure>
 
-Her music is often an exploration of Latin American cultures. In _El último sueño de Frida y Diego_, there are "nods to the Mexican folkloric music," says Gabriela. "There's one scene that I had to draw on something that was more overtly quasi folklore. That's when Frida, for the first time in the world of the living when she reunites with Diego, gets to walk the streets of Mexico. She's seeing the vendors, she's seeing the strollers, and she's experiencing city life."
+Her music is often an exploration of Latin American cultures. In _El último sueño de Frida y Diego_, there are "nods to the Mexican folkloric music," says Frank. "There's one scene that I had to draw on something that was more overtly quasi folklore. That's when Frida, for the first time in the world of the living when she reunites with Diego, gets to walk the streets of Mexico. She's seeing the vendors, she's seeing the strollers, and she's experiencing city life."
 
-"The marimba in the opera is very important," says Gabriela. "The marimba makes an appearance in almost every scene, used in unusual ways. Sometimes you don't even realize that it's there. It’s played very softly, it just seems like a hum. It's played with the bow, like a bass bow. It sounds like a gorgeous tone, without the use of the typical mallets. So that's a nod to the quintessential ingredient of Central American music."
+"The marimba in the opera is very important," says Frank. "The marimba makes an appearance in almost every scene, used in unusual ways. Sometimes you don't even realize that it's there. It’s played very softly, it just seems like a hum. It's played with the bow, like a bass bow. It sounds like a gorgeous tone, without the use of the typical mallets. So that's a nod to the quintessential ingredient of Central American music."
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1664560964/media/2022/09/KarliCadel_FridaDiegoWkshp_5550_hjxlur.jpg){{% /md %}}
 
