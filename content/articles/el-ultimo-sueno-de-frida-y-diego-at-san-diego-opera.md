@@ -1,0 +1,47 @@
++++
+author = ["authors/eva-cahen.md"]
+categories = "Interview"
+date = 2022-09-30T04:00:00Z
+disclaimer = ""
+draft = true
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = ""
+primary_image_credit = ""
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "short"
+slug = "el-ultimo-sueno"
+title = "El Ultimo Sueño de Frida y Diego at San Diego Opera"
+youtube_url = ""
+
++++
+“It's kind of a dream come true for a Mexican singer, a woman, to sing this role,” says Mexican mezzo-soprano Guadelupe Paz, about her role as Frida Kahlo in El último sueño de Frida y Diego (The Last Dream of Frida and Diego), which premieres at the San Diego Opera on Saturday October 29.  “I relate to Frida very humbly because she too works with feelings, sentiment, and art, and she communicates with the spectator of her paintings, through the paintings and the pain that she's drawing. I communicate with the audience through my instrument, but we are drawing with emotions, so we work with the same materials.”
+
+El último sueño de Frida y Diego explores the relationship between two of Mexico’s greatest and most colorful artists, Frida Kahlo and Diego Rivera. Diego is at the end of his life in the opera and Frida comes back from the afterlife to help him cross over into the underworld. For twenty-four hours, they relive their tumultuous love, passion, and pain through their paintings. Set in 1957, the opera starts in a cemetery during día de los muertos (day of the dead) celebrations. Diego Rivera died about three years after Frida but we learn that her spirit stayed away from him because she was so angry about their relationship. Guadelupe Paz describes the opera as “a feast of colors and music and art and life.”
+
+The opera was composed by Grammy award winning composer and pianist Gabriela Lena Frank, with librettist Nilo Cruz, who won a Pulitzer Prize in 2003 for Anna in the Tropics.
+
+Gabriela, a multi-racial Latina, was born in Berkely, California. As a woman, as a person of color, and as a disabled person – she is partially deaf – she says she has gotten used to the challenges of firsts. “I almost don't feel the pressure anymore. It's just a constant, knowing that people are going to be curious how I do and what I do,” she says. Writing an opera for the first time is no different.
+
+She came to composition early on, when she took a program at the San Francisco Conservatory of Music in 1989. There, she not only learned composition but that “It's important to be a witness,” she says. “I put what I witness in culture and politics, with the environment, and with relationships between human beings into the music.”
+
+Her music is often an exploration of Latin American cultures. In El último sueño de Frida y Diego, there are “nods to the Mexican folkloric music,” says Gabriela. “There's one scene that I had to draw on something that was more overtly quasi folklore. That's when Frida, for the first time in the world of the living when she reunites with Diego, gets to walk the streets of Mexico. She's seeing the vendors, she’s seeing the strollers, and she’s experiencing city life.”
+
+“The marimba in the opera is very important,” says Gabriela. “The marimba makes an appearance in almost every scene, used in unusual ways. Sometimes you don't even realize that it's there. It’s played very softly, it just seems like a hum. It’s played with the bow, like a bass bow. It sounds like a gorgeous tone, without the use of the typical mallets. So that's a nod to the quintessential ingredient of Central American music.”
+
+The marimba’s sound is “very particular for Frida in the color that it brings,” agrees Guadelupe Paz, who is singing Frida.
+
+“Frida is very well portrayed in this music, which is fabulous,” says Guadelupe. “The music reflects the pain that she was suffering. It reflects the great courage that she had in life. She was a kind of mischievous rebel woman. That’s very clear in the score and musically.”
+
+“It has a lot of different harmonies, which are not the kind of music that I am used to singing because I \[usually\] sing bel canto, with legato lines and melody, very catchy kinds of things. In this case it was different and I have learned to love this, the contrast in the music and the colors.” 
+
+“This is precisely Frida. She was always looking for the effect, the surprise. I think Gabriela Frank put that into the music, this effect of provoking emotions.” 
+
+Guadelupe Paz describes getting the role as a pinch me moment. “Frida Kahlo was a Mexican icon, a woman, an artist, and a very courageous artist. She was a very original genius.”
+
+“Singing is vital,” to Guadelupe. “I carry my emotions. I want to communicate with people. I want to share beauty. That’s one of my goals and has always been, and I think it's going to be my goal forever. Whenever I have the chance to sing, it is to portray beauty and also to portray emotions, to communicate and create a relationship with the audience.” 
+
+Baritone Alfredo Daza is Diego Rivera, soprano Maria Katzarava is Catrina, the keeper of the souls, and countertenor Key’mon W. Murrah is Leonardo. Lorena Maza is the director and Roberto Kalb is the conductor. There will be four performances at the San Diego Civic Theater: October 29, November 1, 4, and 6. El ultimó sueño de Frida y Diego is a co-production between San Diego Opera and San Francisco Opera.
