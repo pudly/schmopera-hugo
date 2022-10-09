@@ -18,7 +18,7 @@ title = "Carmen doesn't quite commit at Lyric Opera of Kansas City"
 youtube_url = ""
 
 +++
-Lyric Opera of Kansas City opened their season with the classic opera _Carmen_. Rising star Ginger Costa-Jackson sang the title character with enthusiasm and energy, opposite Eric Fennel as Don José and Robert Mellon as Escamillo. Mellon's voice rang through the Kauffman Center with ease, and Andrea Carroll sang a sweet Micaëla, and she had a shimmering luxurious sound. 
+Lyric Opera of Kansas City opened their season with the classic opera _Carmen_. Rising star [Ginger Costa-Jackson](/scene/people/ginger-costa-jackson/) sang the title character with enthusiasm and energy, opposite Eric Fennel as Don José and Robert Mellon as Escamillo. Mellon's voice rang through the Kauffman Center with ease, and Andrea Carroll sang a sweet Micaëla, and she had a shimmering luxurious sound. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1665346940/media/2022/10/LOKC_2carmen_0472_jabwpi.jpg){{% /md %}}
 
