@@ -18,18 +18,18 @@ title = "Carmen doesn't quite commit at Lyric Opera of Kansas City"
 youtube_url = ""
 
 +++
-Lyric Opera of Kansas City opened their season with the classic opera _Carmen_. Rising star [Ginger Costa-Jackson](/scene/people/ginger-costa-jackson/) sang the title character with enthusiasm and energy, opposite Eric Fennel as Don José and Robert Mellon as Escamillo. Mellon's voice rang through the Kauffman Center with ease, and Andrea Carroll sang a sweet Micaëla, and she had a shimmering luxurious sound. 
+Lyric Opera of Kansas City opened their season with the classic opera _Carmen_. Rising star [Ginger Costa-Jackson](/scene/people/ginger-costa-jackson/) sang the title character with enthusiasm and energy, opposite Eric Fennell as Don José and Robert Mellon as Escamillo. Mellon's voice rang through the Kauffman Center with ease, and Andrea Carroll sang a sweet Micaëla, and she had a shimmering luxurious sound. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1665346940/media/2022/10/LOKC_2carmen_0472_jabwpi.jpg){{% /md %}}
 
-<figcaption>Robert Mellon (Don José) and Andrea Carroll (Micaëla) in Lyric Opera of Kansas City's production of Carmen, 2022. Photo: Don Ipock.</figcaption>  
+<figcaption>Eric Fennell (Don José) and Andrea Carroll (Micaëla) in Lyric Opera of Kansas City's production of Carmen, 2022. Photo: Don Ipock.</figcaption>  
 </figure>
 
 I always find the character of Micaëla an interesting thread in the _Carmen_ tapestry. She is the foil of Carmen, but ultimately pursues a man who just tolerates her, if anything. (Which, with the patriarchy of the time it is set in, is an inherently "unlady-like" thing to do.) "José, je vous le rends, comme je l'ai promis" ("José, I return it to you, as promised") saw Micaëla give him a less-than-motherly kiss. And at the end of the scene, he returns her affection with a chaste kiss on the forehead which was met with laughs from the audience.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1665346615/media/2022/10/LOKC_2carmen_3070_k7kqhq.jpg){{% /md %}}
 
-<figcaption>Eric Fennel (Don José) and Ginger Costa-Jackson (Carmen) in Lyric Opera of Kansas City's production of Carmen, 2022. Photo: Don Ipock.</figcaption>  
+<figcaption>Eric Fennell (Don José) and Ginger Costa-Jackson (Carmen) in Lyric Opera of Kansas City's production of Carmen, 2022. Photo: Don Ipock.</figcaption>  
 </figure>
 
 _Carmen_ is part of the operatic ABC's, and let's face it -- Bizet got the recipe right. But I forgot how fast the drama develops in the first act. I wasn't sensing enough tension during "Près des remparts de Séville" between Carmen and Don José. I think that Carmen is, of course, a master of seduction, and José needs to protest too much, have real condescension towards her to cover his attraction. I didn't quite get that in the pivotal first scene. 
@@ -46,7 +46,7 @@ I wasn't sure where Jackson's interpretation lands on the scale of "bad girl", w
 <figcaption>A scene from Lyric Opera of Kansas City's production of Carmen, 2022. Photo: Don Ipock.</figcaption>  
 </figure>
 
-In the same token, Fennel came onto the stage for the final scene with an eerie stillness, but didn't fully get out of that stillness to commit a crime of passion. Perhaps it was a dramatic approach by director ​​Anna Maria Bruzzese, for José to emphasize his undoing. Jackson's death was grotesque and gripping, with Fennel stabbing her once, then again and picking her up as he forced the knife under her ribs. Jackson screamed and then did at least five bone chilling and measured gasps and gurgles. A very memorable moment.
+In the same token, Fennell came onto the stage for the final scene with an eerie stillness, but didn't fully get out of that stillness to commit a crime of passion. Perhaps it was a dramatic approach by director ​​Anna Maria Bruzzese, for José to emphasize his undoing. Jackson's death was grotesque and gripping, with Fennell stabbing her once, then again and picking her up as he forced the knife under her ribs. Jackson screamed and then did at least five bone chilling and measured gasps and gurgles. A very memorable moment.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1665346680/media/2022/10/LOKC_2carmen_0994_u47umo.jpg){{% /md %}}
 
