@@ -18,7 +18,7 @@ title = "Carmen doesn't quite commit at Lyric Opera of Kansas City"
 youtube_url = ""
 
 +++
-Lyric Opera of Kansas City opened their season with the classic opera _Carmen_. Rising star [Ginger Costa-Jackson](/scene/people/ginger-costa-jackson/) sang the title character with enthusiasm and energy, opposite Eric Fennell as Don José and Robert Mellon as Escamillo. Mellon's voice rang through the Kauffman Center with ease, and Andrea Carroll sang a sweet Micaëla, and she had a shimmering luxurious sound. 
+Lyric Opera of Kansas City opened their season with the classic opera _Carmen_. Rising star [Ginger Costa-Jackson](/scene/people/ginger-costa-jackson/) sang the title character with enthusiasm and energy, opposite [Eric Fennell](/scene/people/eric-fennell/) as Don José and [Robert Mellon](/scene/people/robert-mellon/) as Escamillo. Mellon's voice rang through the Kauffman Center with ease, and Andrea Carroll sang a sweet Micaëla, and she had a shimmering luxurious sound.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1665346940/media/2022/10/LOKC_2carmen_0472_jabwpi.jpg){{% /md %}}
 
@@ -32,7 +32,7 @@ I always find the character of Micaëla an interesting thread in the _Carmen_ ta
 <figcaption>Eric Fennell (Don José) and Ginger Costa-Jackson (Carmen) in Lyric Opera of Kansas City's production of Carmen, 2022. Photo: Don Ipock.</figcaption>  
 </figure>
 
-_Carmen_ is part of the operatic ABC's, and let's face it -- Bizet got the recipe right. But I forgot how fast the drama develops in the first act. I wasn't sensing enough tension during "Près des remparts de Séville" between Carmen and Don José. I think that Carmen is, of course, a master of seduction, and José needs to protest too much, have real condescension towards her to cover his attraction. I didn't quite get that in the pivotal first scene. 
+_Carmen_ is part of the operatic ABC's, and let's face it -- Bizet got the recipe right. But I forgot how fast the drama develops in the first act. I wasn't sensing enough tension during "Près des remparts de Séville" between Carmen and Don José. I think that Carmen is, of course, a master of seduction, and José needs to protest too much, have real condescension towards her to cover his attraction. I didn't quite get that in the pivotal first scene.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1665346629/media/2022/10/LOKC_2carmen_1568_gzuoum.jpg){{% /md %}}
 
