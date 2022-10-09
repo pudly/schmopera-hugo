@@ -20,9 +20,9 @@ youtube_url = ""
 +++
 Lyric Opera of Kansas City opened their season with the classic opera _Carmen_. Rising star Ginger Costa-Jackson sang the title character with enthusiasm and energy, opposite Eric Fennel as Don José and Robert Mellon as Escamillo. Mellon's voice rang through the Kauffman Center with ease, and Andrea Carroll sang a sweet Micaëla, and she had a shimmering luxurious sound. 
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1665346940/media/2022/10/LOKC_2carmen_0472_jabwpi.jpg){{% /md %}}
 
-<figcaption> in Lyric Opera of Kansas City's production of Carmen, 2022. Photo: Don Ipock.</figcaption>  
+<figcaption>Robert Mellon (Don José) and Andrea Carroll (Micaëla) in Lyric Opera of Kansas City's production of Carmen, 2022. Photo: Don Ipock.</figcaption>  
 </figure>
 
 I always find the character of Micaëla an interesting thread in the _Carmen_ tapestry. She is the foil of Carmen, but ultimately pursues a man who just tolerates her, if anything. (Which, with the patriarchy of the time it is set in, is an inherently "unlady-like" thing to do.) "José, je vous le rends, comme je l'ai promis" ("José, I return it to you, as promised") saw Micaëla give him a less-than-motherly kiss. And at the end of the scene, he returns her affection with a chaste kiss on the forehead which was met with laughs from the audience.
