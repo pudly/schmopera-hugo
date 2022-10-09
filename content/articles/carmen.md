@@ -7,14 +7,14 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1665346842/media/2022/10/sqLOKC_2carmen_1824_b_skkqa7.jpg"
+primary_image_credit = "Ginger Costa-Jackson in the title role of Lyric Opera of Kansas City's production of Carmen, 2022. Photo: Don Ipock."
 related_articles = []
 related_companies = ["scene/companies/lyric-opera-of-kansas-city.md"]
-related_people = []
+related_people = ["scene/people/ginger-costajackson.md"]
 short_description = "I wasn't sure where Jackson's interpretation lands on the scale of \"bad girl\", which was the main tag the company used in advertisements. On one hand, there was an impressively choreographed fight in the beginning between Carmen and another factory girl, where we saw Carmen's aggression. "
-slug = "carmen"
-title = "Carmen"
+slug = "carmen-doesnt-quite-commit-at-lyric-opera-of-kansas-city"
+title = "Carmen doesn't quite commit at Lyric Opera of Kansas City"
 youtube_url = ""
 
 +++
