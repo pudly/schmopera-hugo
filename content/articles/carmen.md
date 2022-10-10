@@ -1,5 +1,5 @@
 +++
-author = ["authors/callie-cooper.md"]
+author = ["authors/jane-richardson.md"]
 categories = "Review"
 date = 2022-10-09T04:00:00Z
 disclaimer = ""
