@@ -2,7 +2,7 @@
 discipline = "Soprano"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666563165/media/2022/10/AndreaNunez_ufauft.jpg"
 primary_image_credit = "Brent Calis"
-related_companies = []
+related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md", "scene/companies/calgary-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/canadian-opera-company.md", "scene/companies/latelier-lyrique-de-lopra-de-montral.md", "scene/companies/lopra-de-montral.md", "scene/companies/pacific-opera-victoria.md"]
 slug = "andrea-nunez"
 title = "Andrea Nuñez"
 website = "https://www.andreanunezsoprano.com/"
