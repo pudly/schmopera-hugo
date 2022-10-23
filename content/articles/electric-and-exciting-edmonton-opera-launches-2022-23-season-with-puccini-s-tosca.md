@@ -32,9 +32,9 @@ Singing the role of Floria Tosca is American soprano Karen Slack in her company 
 
 Edmonton Opera's production of Puccini's _Tosca_, conducted by Simon Rivard and directed by Alison Moritz, will be performed at the Northern Alberta Jubilee Auditorium on October 22, 25 and 28. It will be performed in Italian with English subtitles.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666561104/media/2022/10/EO_Tosca_jthgcn.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Karen Slack, David Pomery (top) and Peter Barrett star in Edmonton Opera's production of Puccini's Tosca.</figcaption>  
 </figure>
 
 ## Christoph Gluck's _Orphée+_
