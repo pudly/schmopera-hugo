@@ -47,7 +47,7 @@ As part of making this production "brand new", Ivany says this production of _Or
 
 "We have a digital chorus, for example, by recording them all individually and having someone stitch it all together, as a precursor to what many of our artists may have experienced during COVID," says Ivany. "It's very simplistic but can illustrate the loneliness and isolation of what technology can provide and what’s important in life."
 
-Edmonton Opera’s production of _Orphée+_ will open January 28, with additional performances on January 31 and February 3. The production stars South Korean countertenor Siman Chung as Orphée, Ottawa-born soprano [Sharleen Joynt](/scene/people/sharleen-joynt/) as Eurydice, and Etta Fung as Amour. The production, to be sung in French with English subtitles, will be conducted by Sandra Horst and directed by Ivany.
+Edmonton Opera’s production of _Orphée+_ will open January 28, with additional performances on January 31 and February 3. The production stars South Korean countertenor [Siman Chung](/scene/people/siman-chung/) as Orphée, Ottawa-born soprano [Sharleen Joynt](/scene/people/sharleen-joynt/) as Eurydice, and Etta Fung as Amour. The production, to be sung in French with English subtitles, will be conducted by Sandra Horst and directed by Ivany.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
