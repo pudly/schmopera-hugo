@@ -54,6 +54,20 @@ Edmonton Opera’s production of _Orphée+_ will open January 28, with additiona
 <figcaption></figcaption>  
 </figure>
 
+## Pergolesi's _Stabat Mater_
+
+In its final mainstage of the season, Edmonton Opera will put a new spin on a work that is more traditionally performed in concert instead of a staged production. Giovanni Pergolesi's _Stabat Mater_, one of the Italian composer's most celebrated sacred works, was composed in 1736 as he was dying of tuberculosis in an Italian monastery. It is a setting of a 13th-century Christian hymn to Mary, which portrays her suffering as Jesus Christ's mother during his crucifixion.
+
+"The music is so heartbreaking and beautiful," says Ivany. "Once you accept the limitations of what the music is, there's so many colours in it."
+
+For Edmonton Opera's production, both the audience and performers will be on stage together, in what Ivany says will create an intimate experience. The singers and orchestra will also be joined by a pair of dancers who will bring another artistic element to the experience. 
+
+"Unlike _Tosca_, where you know what you’re getting, this will open people's eyes and ears to a new sound," says Ivany.
+
+The production stars soprano [Mireille Asselin](/scene/people/mireille-asselin/) and countertenor Magid El-Bushra, both of whom are making their company debuts with Edmonton Opera. "There's going to be that connection of the two of them, mother and son, and we’ll see the connection between them and how that connects to the music, the staging and choreography."
+
+Edmonton Opera's production of Pergolesi's _Stabat Mater_ will open March 30 and has three subsequent performances on March 31 and April 1, including a matinee (note: the performances on March 31 and the evening of April 1 are reportedly sold out). It will be directed by Jennifer Tarver.
+
 <figure data-type="image">{{% md %}}{{% /md %}}
 
 <figcaption></figcaption>  
