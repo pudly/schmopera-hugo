@@ -12,8 +12,8 @@ related_articles = ["articles/catharsis-is-the-wrong-word-brittens-war-requiem.m
 related_companies = []
 related_people = []
 short_description = "The attention to detail in the characterizations extended to everyone else afterwards, as well. Matthew DiBattista brought a certain hesitancy to the Younger Son that made him endearing, even when he sang more confidently."
-slug = "prodigal-son"
-title = "Prodigal Son"
+slug = "show-stealers-in-enigma-chamber-operas-prodigal-son"
+title = "Show stealers in Enigma Chamber Opera's Prodigal Son"
 youtube_url = ""
 
 +++
