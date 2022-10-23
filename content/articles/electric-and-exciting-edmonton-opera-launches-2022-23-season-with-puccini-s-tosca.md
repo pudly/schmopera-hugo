@@ -11,7 +11,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666561435/m
 primary_image_credit = "Karen Slack, David Pomeroy (top) and Peter Barrett star in Edmonton Opera's production of Puccini's Tosca. Photos courtesy of Edmonton Opera."
 related_articles = []
 related_companies = []
-related_people = []
+related_people = ["scene/people/adrianne-pieczonka.md", "scene/people/vartan-gabrielian.md", "scene/people/lauren-margison.md", "scene/people/siman-chung.md", "scene/people/sharleen-joynt.md", "scene/people/mireille-asselin.md", "scene/people/david-pomeroy.md", "scene/people/peter-barrett.md", "scene/people/karen-slack.md"]
 short_description = "On October 22, Edmonton Opera launches what it describes as an “electric and exciting” 2022-23 season with one of Giacomo Puccini’s well-known dramas: Tosca. "
 slug = "electric-exciting-edmonton-opera-launches-2022-23-season-with-puccinis-tosca"
 title = "“Electric and exciting”: Edmonton Opera launches 2022-23 season with Puccini’s Tosca"
@@ -73,10 +73,10 @@ Edmonton Opera's production of Pergolesi's _Stabat Mater_ will open March 30 and
 <figcaption>Mireille Asselin and Magid El-Bushra star in EO’s production of Pergolesi’s Stabat Mater.</figcaption>  
 </figure>
 
-Rumbold Vocal Prize (October 23-29)
+## Rumbold Vocal Prize (October 23-29)
 
 In addition to a full season on the mainstage, Edmonton Opera launches its inaugural Rumbold Vocal Prize, a new voice competition for emerging artists, from October 23-29, 2022. Thanks to the generosity of Grace and Arnold Rumbold, four finalists will participate in a week-long residential professional development experience. 
 
-“Emerging out of this pandemic, my heart goes out to emerging singers who are entering this industry with their eyes wondering what the future is,” says Ivany. “We hope this will be an opportunity for them to get on the ground running, to be put in front of people who can literally further their careers and financially support them.”
+"Emerging out of this pandemic, my heart goes out to emerging singers who are entering this industry with their eyes wondering what the future is," says Ivany. "We hope this will be an opportunity for them to get on the ground running, to be put in front of people who can literally further their careers and financially support them."
 
-This year’s finalists for the first-ever Rumbold Vocal Prize include Lauren Margison (soprano), Vartan Gabrielian (bass-baritone), Madison Montambault (mezzo soprano), and Spencer Britten (tenor). On October 29, the finalists will participate in a masterclass by renowned Canadian soprano Adrienne Pieczonka and a recital at the Northern Alberta Jubilee Auditorium. Judges for this year’s competition include Karen Slack (star of EO’s production of Tosca), Simon Rivard (conductor for EO’s production of Tosca) and Shannon Hiebert (EO Chorusmaster).
+This year’s finalists for the first-ever Rumbold Vocal Prize include Lauren Margison (soprano), Vartan Gabrielian (bass-baritone), Madison Montambault (mezzo soprano), and Spencer Britten (tenor). On October 29, the finalists will participate in a masterclass by renowned Canadian soprano Adrianne Pieczonka and a recital at the Northern Alberta Jubilee Auditorium. Judges for this year’s competition include Karen Slack (star of EO’s production of _Tosca_), Simon Rivard (conductor for EO’s production of Tosca) and Shannon Hiebert (EO Chorusmaster).
