@@ -37,6 +37,18 @@ Edmonton Opera's production of Puccini's _Tosca_, conducted by Simon Rivard and 
 <figcaption></figcaption>  
 </figure>
 
+## Christoph Gluck's _Orphée+_
+
+For its second of three mainstage productions, Edmonton Opera goes to the beginning of opera with a production of _Orphée+_ by German composer Christoph Gluck (1714-1787). The story is an adaptation of the Greek myth of Orpheus who ventures into the underworld to retrieve the soul of his deceased lover Eurydice.
+
+"It's heartbreaking because it’s something we can all relate to," says Ivany. "It's taking something very old and making it brand new."
+
+As part of making this production "brand new", Ivany says this production of _Orphée+_, which he also staged in a co-production between Against the Grain Theatre, the Banff Centre and Opera Columbus, will use technology both in the orchestra and on stage.
+
+"We have a digital chorus, for example, by recording them all individually and having someone stitch it all together, as a precursor to what many of our artists may have experienced during COVID," says Ivany. "It's very simplistic but can illustrate the loneliness and isolation of what technology can provide and what’s important in life."
+
+Edmonton Opera’s production of _Orphée+_ will open January 28, with additional performances on January 31 and February 3. The production stars South Korean countertenor Siman Chung as Orphée, Ottawa-born soprano [Sharleen Joynt](/scene/people/sharleen-joynt/) as Eurydice, and Etta Fung as Amour. The production, to be sung in French with English subtitles, will be conducted by Sandra Horst and directed by Ivany.
+
 <figure data-type="image">{{% md %}}{{% /md %}}
 
 <figcaption></figcaption>  
