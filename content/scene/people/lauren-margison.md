@@ -2,8 +2,9 @@
 date = "2015-04-27T21:43:00-04:00"
 discipline = "Singer"
 lastmod = "2015-05-03T22:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430706791861/coc-lauren-ed.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666568599/media/2022/10/MARGISON_IMG_8753_xppbun.jpg"
 publishDate = "2015-04-27T21:43:00-04:00"
+related_companies = ["scene/companies/toronto-operetta-theatre.md", "scene/companies/highlands-opera-studio.md", "scene/companies/latelier-lyrique-de-lopra-de-montral.md", "scene/companies/lopra-de-montral.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/canadian-opera-company.md"]
 slug = "lauren-margison"
 title = "Lauren Margison"
 website = "http://www.laurenmargison.com/"
@@ -19,18 +20,16 @@ url = "https://twitter.com/laurenmargison"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/laurenmargisonsinger"
+
 +++
+Recognized for her ability to communicate with an audience, soprano **Lauren Margison** is making her mark as a young artist of note. An alumna of the Canadian Opera Company’s Ensemble Studio, she was a member of the prestigious Atelier lyrique de l'Opéra de Montréal, laureate of Jeune Ambassadrice Lyrique, and the youngest finalist to appear in the prestigious and highly competitive Die Meistersinger von Nürnberg Vocal Competition. A finalist and prizewinner in the 2017 George London Foundation Awards, Lauren went on to take first prize in the 2018 competition, and, this past season, garnered prizes in the Metropolitan Opera Laffont Competition and was a semi-finalist in the Concours International Musical de Montréal.
 
-22-year-old Lauren Margison first attracted attention with her vocal abilities when she joined the Canadian Childrens' Opera Chorus in 1999 at the age of seven. Quickly promoted to the principal chorus of the CCOC (2000), usually reserved for young singers between the ages of 13 and 17, Lauren appeared in the mainstage production of the Canadian Opera Company's production of 'La Boheme' in that same year, resulting in an invitation to sing a solo recital at the International Childrens' Festival at the Harbourfront Centre (Toronto) and an invitation to make an appearance on The Tonight Show starring Jay Leno. 
+Lauren’s upcoming and recent engagements include Micaëla in Bizet’s _Carmen_ with Pacific Opera Victoria, Tatyana in Highland Opera Studio’s production of Tchaikovsky’s _Eugene Onegin_, Beethoven’s _Symphony No. 9_ for Orchestre symphonique de Québec, _The Csardas Princess_ with Toronto Operetta Theatre, and the title role in Barber’s _Vanessa_ with Opera in Concert (Toronto). Lauren also looks forward to debuting two roles this season - Nedda in Leoncavallo’s _Pagliacci_ and Anna in Puccini’s _Le villi_.
 
-Since that time, Lauren has performed extensively to critical acclaim both in Canada and internationally specializing in classical, jazz and pop repertoire. Some highlights to date include performances for Opera Ontario (2005, 2006, 2007, "..the spicy, seasoned voice of a 30-year-old..", Hamilton Spectator, 2006), the TD Toronto Jazz Festival (2006, 2007), The Beaches Jazz Festival (2007, 2008, 2009), The Ottawa Chamber Music Festival (2006), The Cincinnati Pops (2007), Hannaford Street Silver Band (2010), the noon hour concerts at the Four Seasons Centre for the Performing Arts, Richard Bradshaw Amphitheatre (2011, 2012), Ottawa Choral Festival Gala (2011), and the Venetian Ball (2011) under the baton of Marco Armiliato, (fundraiser for Villa Charities, Toronto) held on the main stage of the Four Seasons' Centre for the Performing Arts. 
+Margison has been featured as Mïcaela in _Carmen_ with the Brott Music Festival, Fiordiligi in _Così fan tutte_ with Highlands Opera Studio, and appeared in concert with the PRISMA Festival in Strauss’s _Four Last Songs_. She also appeared as Mimi in a special presentation of _La Bohème_ with Artists of the COC Ensemble at The Four Seasons Centre and was featured in the COC’s _Elektra._
 
-She was chosen as one of four singers to perform the music of Gordon Lightfoot for Gordon Lightfoot at the lifetime achievement Heart and Vision Awards ceremony and concert (2011), and was a featured soloist on the City TV Christmas Carol Sing which was aired across Canada in December 2011. She has shared the stage with such distinguished artists as Gordon Lightfoot, Rufus Wainwright, Russell Braun, Isabel Bayrakdarian, Measha Brueggergosman, Nicole Cabell, The Canadian Opera Company Orchestra, Louise Pitre, Sheila McCarthy, The Tenors, Jackie Richardson, Rex Harrington, John Fanning, Elaine Overholt, and her father, operatic tenor, Richard Margison. 
+During her 2017-2018 season, Lauren returned to Atelier lyrique and appeared as Clorinda in _La Cenerentola_ with l'Opéra de Montréal and Missia in the Atelier lyrique’s production of _La Veuve joyeuse._ Lauren has also appeared as a soloist in Hommage à Reynaldo Hahn with the Société d’art vocal de Montréal, in the new opera _Mishaabooz’s Realm_ with the Highlands Opera Studio and Atelier lyrique de l’Opéra de Montréal, and in Beethoven’s _Missa Solemnis_ and Mozart’s _Requiem_ with Vox Luminosa and Choeur de Laval.
 
-In addition, during January of 2007, Lauren appeared as a guest artist with Argentinian operatic tenor, Jose Cura, at the Pavilhao Atlantico in Lisbon, Portugal, performing before an audience of 8000 people and a television audience across Europe. 
+A versatile soprano, she has performed extensively both in Canada and internationally, specializing in classical, jazz and pop repertoire. Some highlights include performances for Opera Ontario, the TD Toronto Jazz Festival, The Beaches Jazz Festival, the Ottawa Chamber Music Festival, the Cincinnati Pops, Hannaford Street Silver Band, the noon hour concerts at the Four Seasons Centre for the Performing Arts – Richard Bradshaw Amphitheatre, Ottawa Choral Festival Gala, and the Venetian Ball under the baton of Marco Armiliato, (fundraiser for Villa Charities, Toronto) held on the main stage of the Four Seasons’ Centre for the Performing Arts.
 
-Lauren was also part of the 4-member female vocal group, 'The Real Divas' (www.BillKingMusic.com). Their first CD, 'Café Society', was released for international distribution in June, 2009. After a successful tour of British Columbia and appearing as guest performers on the CBCTV broadcast of the National Jazz Awards in May, 2009, the young women have appeared around the country, including a full concert in July, 2009, at the Beaches Jazz Festival. 
-
-In 2011 she attended the prestigious Castleton Festival in Castleton, Virginia, the brainchild of internationally acclaimed music director and composer, Lorin Maazel, as one of the youngest participants in the vocal division, and in August 2014 was the youngest member of the Highlands Opera Studio, run by Valerie Kuinka and Richard Margison.
-
-Currently, Lauren is performing across Canada with her father, Richard Margison, in their vocal duo act, 'Back to Back', and continuing her classical vocal studies also under the tutelage of Richard Margison and Valerie Kuinka. (www.margisonkuinka.com)
+An avid writer, between performances Margison contributes to Opera Canada magazine.
