@@ -43,9 +43,9 @@ And indeed, they did somewhat manage to find their way. For one thing, the atten
 
 The attention to detail in the characterizations extended to everyone else afterwards, as well. Matthew DiBattista brought a certain hesitancy to the Younger Son that made him endearing, even when he sang more confidently. David McFerrin imbued the Elder Son with just the right amount of rage, barking a few of his lines and acting the hell out of the part. But for my money, the one who stole the show was Omar Najmi as the tempter and the eventual abbot: Najmi was clearly having a ton of fun as the voice of the younger son’s temptation, with the way his vocal lines lilted playfully, and it was an absolute joy to watch.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666564026/media/2022/10/Enigma_ProdigalSon1_uvweif.jpg){{% /md %}}
 
-<figcaption> in Engima Chamber Opera's Prodigal Son, 2022. Photo by Ashlee Rose Scott.</figcaption>  
+<figcaption>(front, l-r) Omar Najmi and Matthew DiBattista in Engima Chamber Opera's Prodigal Son, 2022. Photo by Ashlee Rose Scott.</figcaption>  
 </figure>
 
 Overall, the individual performances grabbed me much more strongly in _Prodigal Son_, and this filtered into everything else in the production. Of course, with the way Britten opens and closes the show with Latin chanting, I don’t think they were ever going to fully get away from the religious themes at the core of the show, but I think they mostly managed to get it across because they accented what William Plomer's libretto already laid the groundwork for; the characterizations were incredibly strong, and it livened up a piece that certainly feels tricky to stage. I do not know if Enigma Chamber Opera hit the heights that they did with _Curlew River_, but I was still very pleased with the result in the end. Ultimately, it makes me excited to see what they do with _Burning Fiery Furnace_ next year, as they have announced they will do.
