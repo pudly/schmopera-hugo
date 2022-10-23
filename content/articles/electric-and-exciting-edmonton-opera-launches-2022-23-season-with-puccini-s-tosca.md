@@ -25,7 +25,7 @@ A pair of Newfoundland-born singers - tenor [David Pomeroy](/scene/people/david-
 
 "I floated the role by Peter and he asked to sing through parts of it to see how it felt," explains Ivany. "He absolutely rocked it as Marcello last season in Bohème and this is a wonderful chance to see how he approaches another fantastic role to his repertoire."
 
-Singing the role of Floria Tosca is American soprano Karen Slack in her company debut. "Tosca is one of those iconic roles that when you get into opera you dream of being able to sing one day," says Slack. "It's a dream role for me."
+Singing the role of Floria Tosca is American soprano [Karen Slack](/scene/people/karen-slack/) in her company debut. "Tosca is one of those iconic roles that when you get into opera you dream of being able to sing one day," says Slack. "It's a dream role for me."
 
 "I've known Karen for years and years and years and she's such an advocate for the equality we desire to seek in this industry," says Ivany. "Having her as Tosca, interacting with the cast, demonstrates that she is an artist that has something to say, is an important voice, and we want to introduce her to our company and to the city. On top of all that, she sings amazingly."
 
@@ -59,7 +59,7 @@ In its final mainstage of the season, Edmonton Opera will put a new spin on a wo
 
 "The music is so heartbreaking and beautiful," says Ivany. "Once you accept the limitations of what the music is, there's so many colours in it."
 
-For Edmonton Opera's production, both the audience and performers will be on stage together, in what Ivany says will create an intimate experience. The singers and orchestra will also be joined by a pair of dancers who will bring another artistic element to the experience. 
+For Edmonton Opera's production, both the audience and performers will be on stage together, in what Ivany says will create an intimate experience. The singers and orchestra will also be joined by a pair of dancers who will bring another artistic element to the experience.
 
 "Unlike _Tosca_, where you know what you’re getting, this will open people's eyes and ears to a new sound," says Ivany.
 
@@ -74,7 +74,7 @@ Edmonton Opera's production of Pergolesi's _Stabat Mater_ will open March 30 and
 
 ## Rumbold Vocal Prize (October 23-29)
 
-In addition to a full season on the mainstage, Edmonton Opera launches its inaugural Rumbold Vocal Prize, a new voice competition for emerging artists, from October 23-29, 2022. Thanks to the generosity of Grace and Arnold Rumbold, four finalists will participate in a week-long residential professional development experience. 
+In addition to a full season on the mainstage, Edmonton Opera launches its inaugural Rumbold Vocal Prize, a new voice competition for emerging artists, from October 23-29, 2022. Thanks to the generosity of Grace and Arnold Rumbold, four finalists will participate in a week-long residential professional development experience.
 
 "Emerging out of this pandemic, my heart goes out to emerging singers who are entering this industry with their eyes wondering what the future is," says Ivany. "We hope this will be an opportunity for them to get on the ground running, to be put in front of people who can literally further their careers and financially support them."
 

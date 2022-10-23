@@ -2,16 +2,15 @@
 date = "2015-07-17T10:40:00-06:00"
 discipline = "Mezzo-soprano"
 lastmod = "2015-07-17T10:40:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437151184171/Marjorie%20Maltais-%20mezzo-soprano.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666569118/media/2022/10/MarjorieMaltais_sv2svj.jpg"
 publishDate = "2015-07-17T10:40:00-06:00"
-related_companies = ["scene/companies/music-academy-of-the-west-voice-program.md"]
+related_companies = ["scene/companies/voicebox-opera-in-concert.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/music-academy-of-the-west-voice-program.md"]
 slug = "marjorie-maltais"
 title = "Marjorie Maltais"
 [[social_media]]
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MezzoMarjo"
-+++
 
-Carmen with the Windsor Symphony Orchestra. Other roles include Concepcion 
-in *L’Heure Espagnole* by Maurice Ravel, Dorabella in Mozart's *Così fan tutte*, Rosina in Rossini's *Il Barbiere di Siviglia* and Hermia in Britten's *Midsummer Night's Dream*. In addition to her operatic experience, she has also performed with various ensembles in Québec and Ontario. Selected concert works include Marc-Antoine Charpentier’s *Messe à huit voix et huit instruments* with the Tafelmusik Baroque Summer Institute Chamber Choir, Maurice Duruflé’s *Requiem*, *The Seven last words of Christ* by Dubois and Charpentier’s *Messe de minuit* with le Choeur Polyphonique de Charlevoix, Vivaldi’s *Gloria* with the King’s University College Chamber Choir and Beethoven's Symphony No.9 with the Guelph Symphony Orchestra. Marjorie will also be part of internationally acclaimed mezzo-soprano Marilyn Horne's Music Academy of The West Summer Music Festival.
++++
+Mezzo­soprano Marjorie Maltais is rapidly developing an excellent reputation on both concert and operatic stages throughout North America. A native of Clermont, Quebec, Marjorie won First Prize at the Ottawa Choral Society’s New Discoveries Competition in 2016, leading to engagements with Grand Philharmonic Choir, Chorus Niagara, Peterborough Singers and and Choeur­St­Laurent. This season, Marjorie debuts with Pacific Opera Victoria as Mercedes in Carmen and performs with Pennsylvania’s LyricFest in “A Singer’s Singer: Biography in Music” of Winnaretta Singer, American heiress and patroness in Paris. Marjorie is a frequent guest artist with Toronto’s Voicebox:Opera in Concert, most recently singing Erika in Vanessa. During the pandemic, Marjorie starred in “Everything comes to a Head”, the first in Decameron Opera Coalition’s series of short green­screen digital operas, and “Tales from a Safe Distance”, inspired by Boccaccio’s novellas written in the 14th Century to pass the time while sheltering from the plague in Florence. Marjorie is featured in several OperaBreaks videos directed by François Racine and produced by Domoney Artists during the pandemic. Recent highlights for this engaging young artist include a brilliant debut with Boston Early Music Festival in performances of “Versailles:Portrait of a Royal Domain” (Charpentier and Lalande), Messiah with Elmer Iseler Singers, Bach’s Magnificat with Thirteen Strings, and the premiere of Ian Cusson’s song cycle “Le récital des anges” (poetry by Emile Nelligan), at Richard Bradshaw Amphitheatre, Canadian Opera Company. Marjorie has appeared as a guest soloist with Les Boréades de Montréal, with Windsor Symphony, Boise Philharmonic, Regina Symphony Orchestra, Montréal’s Orchestre Metropolitain, Milwaukee Symphony Orchestra, and Edinburgh International Festival. Marjorie Maltais and tenor/accordionist Jacques Arsenault join their considerable talents as French Squeeze, presenting original arrangements of their favourite French songs from Canada and France in recent performances in Prince Edward Island and Toronto. In 2023, French Squeeze joins Kingston’s Cantabile Choirs in “La Vie en Rose”.
