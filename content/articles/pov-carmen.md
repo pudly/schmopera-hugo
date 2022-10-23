@@ -10,10 +10,10 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666562463/m
 primary_image_credit = "Carolyn Sproule as Carmen and Adam Luther as Don José. Costume Design by Sylvain Genois, Set Design by Olivier Landreville. Pacific Opera Victoria, 2022. Photo by David Cooper."
 related_articles = ["articles/carmen.md", "articles/carmen-don-juan-and-gender-reversal-pants-roles-indeed.md"]
 related_companies = ["scene/companies/pacific-opera-victoria.md"]
-related_people = ["scene/people/geoffrey-schellenberg.md", "scene/people/asitha-tennekoon.md", "scene/people/marjorie-maltais.md", "scene/people/jorell-williams.md", "scene/people/adam-luther.md", "scene/people/carolyn-sproule.md"]
+related_people = ["scene/people/andrea-nunez.md", "scene/people/geoffrey-schellenberg.md", "scene/people/asitha-tennekoon.md", "scene/people/marjorie-maltais.md", "scene/people/jorell-williams.md", "scene/people/adam-luther.md", "scene/people/carolyn-sproule.md"]
 short_description = "Pacific Opera Victoria’s season opener for 2022 is Carmen, taking a traditional look at a very traditional opera, but with a few excellent updates. "
-slug = "pov-carmen"
-title = "POV Carmen"
+slug = "sproule-sings-a-rich-effortless-carmen-in-victoria"
+title = "Sproule sings a rich, effortless Carmen in Victoria"
 youtube_url = ""
 
 +++
