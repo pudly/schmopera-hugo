@@ -80,3 +80,7 @@ In addition to a full season on the mainstage, Edmonton Opera launches its inaug
 "Emerging out of this pandemic, my heart goes out to emerging singers who are entering this industry with their eyes wondering what the future is," says Ivany. "We hope this will be an opportunity for them to get on the ground running, to be put in front of people who can literally further their careers and financially support them."
 
 This year’s finalists for the first-ever Rumbold Vocal Prize include Lauren Margison (soprano), Vartan Gabrielian (bass-baritone), Madison Montambault (mezzo soprano), and Spencer Britten (tenor). On October 29, the finalists will participate in a masterclass by renowned Canadian soprano Adrianne Pieczonka and a recital at the Northern Alberta Jubilee Auditorium. Judges for this year’s competition include Karen Slack (star of EO’s production of _Tosca_), Simon Rivard (conductor for EO’s production of Tosca) and Shannon Hiebert (EO Chorusmaster).
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666561645/media/2022/10/EO22-23_banner_website_Full_Season_Narrow_alvh9o.jpg){{% /md %}}
+
+</figure>
