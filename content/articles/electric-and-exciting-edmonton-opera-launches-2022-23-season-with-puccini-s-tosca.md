@@ -5,10 +5,10 @@ date = 2022-10-23T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "For more information, please visit the [Edmonton Opera website](https://www.edmontonopera.com/)."
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666561435/media/2022/10/sqEO_Tosca_j9cpny.jpg"
+primary_image_credit = "Karen Slack, David Pomeroy (top) and Peter Barrett star in Edmonton Opera's production of Puccini's Tosca. Photos courtesy of Edmonton Opera."
 related_articles = []
 related_companies = []
 related_people = []
@@ -34,7 +34,7 @@ Edmonton Opera's production of Puccini's _Tosca_, conducted by Simon Rivard and 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666561104/media/2022/10/EO_Tosca_jthgcn.jpg){{% /md %}}
 
-<figcaption>Karen Slack, David Pomery (top) and Peter Barrett star in Edmonton Opera's production of Puccini's Tosca.</figcaption>  
+<figcaption>Karen Slack, David Pomeroy (top) and Peter Barrett star in Edmonton Opera's production of Puccini's Tosca.</figcaption>  
 </figure>
 
 ## Christoph Gluck's _Orphée+_
@@ -49,9 +49,9 @@ As part of making this production "brand new", Ivany says this production of _Or
 
 Edmonton Opera’s production of _Orphée+_ will open January 28, with additional performances on January 31 and February 3. The production stars South Korean countertenor [Siman Chung](/scene/people/siman-chung/) as Orphée, Ottawa-born soprano [Sharleen Joynt](/scene/people/sharleen-joynt/) as Eurydice, and Etta Fung as Amour. The production, to be sung in French with English subtitles, will be conducted by Sandra Horst and directed by Ivany.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666561476/media/2022/10/EO_Orphee_f51ymt.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Siman Chung, Sharleen Joynt and Etta Fung star in EO’s production of Gluck’s Orphée+.</figcaption>  
 </figure>
 
 ## Pergolesi's _Stabat Mater_
@@ -68,12 +68,15 @@ The production stars soprano [Mireille Asselin](/scene/people/mireille-asselin/)
 
 Edmonton Opera's production of Pergolesi's _Stabat Mater_ will open March 30 and has three subsequent performances on March 31 and April 1, including a matinee (note: the performances on March 31 and the evening of April 1 are reportedly sold out). It will be directed by Jennifer Tarver.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666561373/media/2022/10/EO_StabatMater_ejzowq.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Mireille Asselin and Magid El-Bushra star in EO’s production of Pergolesi’s Stabat Mater.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+Rumbold Vocal Prize (October 23-29)
 
-<figcaption></figcaption>  
-</figure>
+In addition to a full season on the mainstage, Edmonton Opera launches its inaugural Rumbold Vocal Prize, a new voice competition for emerging artists, from October 23-29, 2022. Thanks to the generosity of Grace and Arnold Rumbold, four finalists will participate in a week-long residential professional development experience. 
+
+“Emerging out of this pandemic, my heart goes out to emerging singers who are entering this industry with their eyes wondering what the future is,” says Ivany. “We hope this will be an opportunity for them to get on the ground running, to be put in front of people who can literally further their careers and financially support them.”
+
+This year’s finalists for the first-ever Rumbold Vocal Prize include Lauren Margison (soprano), Vartan Gabrielian (bass-baritone), Madison Montambault (mezzo soprano), and Spencer Britten (tenor). On October 29, the finalists will participate in a masterclass by renowned Canadian soprano Adrienne Pieczonka and a recital at the Northern Alberta Jubilee Auditorium. Judges for this year’s competition include Karen Slack (star of EO’s production of Tosca), Simon Rivard (conductor for EO’s production of Tosca) and Shannon Hiebert (EO Chorusmaster).
