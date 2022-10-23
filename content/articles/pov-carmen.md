@@ -38,27 +38,22 @@ The ill-fated, hapless Don José was performed by tenor [Adam Luther](/scene/peo
 
 Baritone [Jorell Williams](/scene/people/jorell-williams/) as Escamillo was understated, rather than the strutting-peacock showing off for the crowds, he was gentle and amiable, with a vocal warmth that was seductive and beautiful.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption>Pacific Opera Victoria, 2022. Photo by David Cooper.</figcaption>  
-</figure>
-
 The duo of Dancaïro and Remendado, played by baritone [Geoffrey Schellenberg](/scene/people/geoffrey-schellenberg/) and [Asitha Tennekoon](/scene/people/asitha-tennekoon/) respectively were the comic relief of a show that can easily become far too serious. Schellenberg in particular was very funny, trying to herd his mischievous band around with little success, his beautiful baritone in contrast to his funny, long-suffering character.
 
 Frasquita and Mercédès, in turn, played by soprano [Andrea Nuñez](/scene/people/andrea-nunez/) and mezzo [Marjorie Maltais](/scene/people/marjorie-maltais/) respectively, were clever and canny, tackling the very difficult ensembles with humour and brilliance. Nuñez in particular was very funny in the card trio with her exclamation "il meurt!" and had the whole audience laughing at her comedy and loving her clarion voice.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666562675/media/2022/10/Carmen-POV3907_mhhiww.jpg){{% /md %}}
 
-<figcaption>Pacific Opera Victoria, 2022. Photo by David Cooper.</figcaption>  
+<figcaption>Adam Luther as Don José and Carolyn Sproule as Carmen, with members of the Pacific Opera Chorus in Carmen, Pacific Opera Victoria, 2022. Photo by David Cooper.</figcaption>  
 </figure>
 
 The only drawbacks in this production were directorial. Very little movement or action was given to principals and chorus alike, and most scenes were very stationary. During the tavern scene, the female chorus members were wandering around in their underwear and rolling around on the floor of the tavern, which took away from the other action on the stage. The whole conceit felt needlessly exploitative and confusing, especially with an entire stage of fully-dressed men.
 
 In addition, the few fights that were staged did not feel authentic, and the production could have benefited greatly from an intimacy director to bring the more romantic scenes to life. The final confrontation between Don José and Carmen was almost completely static - a scene that is supposed to be tempestuous and passionate to the point of murder instead felt anti-climactic, with the actors being given little to no action or direction to bring the passion that the scene deserves. The amount of talent on the stage could have the scenes absolutely sparkle with more intentional direction and movement.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666562720/media/2022/10/POVCarmen-4945_s16npw.jpg){{% /md %}}
 
-<figcaption>Pacific Opera Victoria, 2022. Photo by David Cooper.</figcaption>  
+<figcaption>Carolyn Sproule as Carmen and Adam Luther as Don José in Carmen, Pacific Opera Victoria, 2022. Photo by David Cooper.</figcaption>  
 </figure>
 
 The Victoria Symphony under the direction of Timothy Vernon in his final season with Pacific Opera Victoria led the ensemble with subtlety and depth. The orchestra underscored each moment perfectly, with a difficult score that felt light and bubbling, or dark and dramatic in equal measure.
