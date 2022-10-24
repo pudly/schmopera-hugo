@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 On October 22, Edmonton Opera launched what it describes as an “electric and exciting” 2022-23 season with one of Giacomo Puccini’s well-known dramas: _Tosca_.
 
-“Grand opera is back,” says Joel Ivany, Artistic Director of Edmonton Opera. “We’re not just trying to do it, we will do it. It’s important to remind our core patrons that these big operas mean a lot to a certain group of people. And for those who don’t know these big operas, this is a wonderful introduction to what this multicultural artform is."
+“Grand opera is back,” says Joel Ivany, Artistic Director of Edmonton Opera. "It's important to remind our core patrons that these big operas mean a lot to a certain group of people. And for those who don’t know these big operas, this is a wonderful introduction to what this multicultural artform is."
 
 Starring as Tosca is American soprano [Karen Slack](/scene/people/karen-slack/) in her Edmonton Opera debut. Ivany says Slack is a strong advocate for equality in this industry. "Having her as Tosca, interacting with the cast, demonstrates that she is an artist that has something to say, is an important voice, and we want to introduce her to our company and to the city," he says. 
 
@@ -46,7 +46,9 @@ The work of Intimacy Coordinator Janine Waddell and Lighting Designer Jason Hand
 <figcaption></figcaption>  
 </figure>
 
-Conductor Simon Rivard returns to the EO podium to again lead the Edmonton Symphony Orchestra in another Puccini masterpiece. On this night, Rivard led the ESO to an emotional yet grounded performance. The Edmonton Opera chorus, expertly prepared by Chorusmaster Shannon Hiebert, performed with confidence, vigor and precision.
+Conductor Simon Rivard returns to the EO podium to again lead the Edmonton Symphony Orchestra in another Puccini masterpiece. On this night, Rivard led the ESO to an emotional yet grounded performance. 
+
+The Edmonton Opera chorus, expertly prepared by Chorusmaster Shannon Hiebert, performed with confidence, vigor and precision.
 
 The night, however, belonged to tenor [David Pomeroy](/scene/people/david-pomeroy/) as the painter Mario Cavaradossi. Pomeroy has a voice that fills this hall with vibrancy and life — even when he is being tortured off stage. Edmonton Opera audiences celebrated him as Prince Calaf in the 2017 performance of _Turandot_ and were treated again to a masterful nuanced performance in _Tosca_. His on-stage chemistry with Slack is authentic while his singing is simply world-class. His rendition of the famous aria "E lucevan le stelle", which he sings as he awaits his execution, was a true highlight on this night. With such ease and fullness in his voice, especially in its higher register, Pomeroy thrills the audience with a commanding performance.
 
@@ -55,7 +57,7 @@ The night, however, belonged to tenor [David Pomeroy](/scene/people/david-pomero
 <figcaption></figcaption>  
 </figure>
 
-Edmonton Opera's production of Puccini's _Tosca_, conducted by Simon Rivard and directed by Alison Moritz, will be performed at the Northern Alberta Jubilee Auditorium on October 22, 25 and 28. It will be performed in Italian with English subtitles.
+Edmonton Opera's production of Puccini's _Tosca_, conducted by Simon Rivard and directed by Alison Moritz, opened October 22 at the Northern Alberta Jubilee Auditorium and will be staged again on October 25 and 28. It is performed in Italian with English subtitles.
 
 ## Christoph Gluck's _Orphée+_
 
