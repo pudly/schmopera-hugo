@@ -1,7 +1,7 @@
 +++
 author = ["authors/oliver-munar.md"]
 categories = "Op-Ed"
-date = 2022-10-23T04:00:00Z
+date = 2022-10-24T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "For more information, please visit the [Edmonton Opera website](https://www.edmontonopera.com/)."
