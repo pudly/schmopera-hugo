@@ -2,7 +2,7 @@
 date = "2018-01-29T18:05:00-05:00"
 discipline = "Soprano"
 lastmod = "2018-01-29T18:05:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546623525/media/2019/01/KarenSlack.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666615470/media/2022/10/KarenSlack_r7be3y.jpg"
 publishDate = "2018-01-29T18:05:00-05:00"
 related_companies = ["scene/companies/scottish-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/the-banff-centre.md", "scene/companies/opera-philadelphia.md", "scene/companies/edmonton-opera.md", "scene/companies/minnesota-opera.md", "scene/companies/arizona-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/des-moines-metro-opera.md"]
 slug = "karen-slack"
