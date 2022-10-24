@@ -21,7 +21,7 @@ On October 22, Edmonton Opera launched what it describes as an “electric and e
 
 “Grand opera is back,” says Joel Ivany, Artistic Director of Edmonton Opera. "It's important to remind our core patrons that these big operas mean a lot to a certain group of people. And for those who don’t know these big operas, this is a wonderful introduction to what this multicultural artform is."
 
-Starring as Tosca is American soprano [Karen Slack](/scene/people/karen-slack/) in her Edmonton Opera debut. Ivany says Slack is a strong advocate for equality in this industry. "Having her as Tosca, interacting with the cast, demonstrates that she is an artist that has something to say, is an important voice, and we want to introduce her to our company and to the city," he says. 
+Starring as Tosca is American soprano [Karen Slack](/scene/people/karen-slack/) in her Edmonton Opera debut. Ivany says Slack is a strong advocate for equality in this industry. "Having her as Tosca, interacting with the cast, demonstrates that she is an artist that has something to say, is an important voice, and we want to introduce her to our company and to the city," he says.
 
 On opening night, Slack carried herself with the right mix of grace and fire befitting one of opera's great diva roles. Blessed with luscious vibrant tones that reverberated through the auditorium, Slack embodied everything from deep passion for her beloved Cavaradossi, to desperation as Scarpia manipulates her into submission. Her performance of the famed Act II aria "Vissi d’arte" (in which her character reflects on her fate, how the life of Cavaradossi is at the mercy of Scarpia and why God has seemingly abandoned her) is heartachingly beautiful and a highlight of the evening.
 
@@ -37,7 +37,7 @@ In his role debut as Baron Scarpia, baritone [Peter Barrett](/scene/people/peter
 <figcaption>Peter Barrett as Baron Scarpia in Edmonton Opera's production of Puccini's Tosca, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
 
-The cast of supporting characters should be commended for making the most of their time on stage. As Angelotti in Act One, baritone Peter Monaghan provides the necessary desperation of a condemned man that sets the drama into motion. Tenor Zack Rioux (Spoletta) and baritone Giles Tomkins (Sciarrone) play their roles as Scarpia's henchmen masterfully, with Tomkins providing a gasp-worthy moment at the end of the opera (#nospoilers).
+The cast of supporting characters should be commended for making the most of their time on stage. As Angelotti in Act One, baritone Peter Monaghan provides the necessary desperation of a condemned man that sets the drama into motion. Tenor Zack Rioux (Spoletta) and bass-baritone Giles Tomkins (Sciarrone) play their roles as Scarpia's henchmen masterfully, with Tomkins providing a gasp-worthy moment at the end of the opera (#nospoilers).
 
 The work of Intimacy Coordinator Janine Waddell and Lighting Designer Jason Hand deserve special attention. Waddell's work in Act Two, in which Scarpia and his henchmen interact with increased violence toward both Cavaradossi and Tosca, is especially effective. Scarpia's advances on Tosca were especially menacing and spine tingling. And in some expert lighting on the "Vissi d'arte" aria, Tosca sings in a spotlight while the shadow of Scarpia looms on the wall behind her, which underscores the desperate situation about which she sings.
 
@@ -46,7 +46,7 @@ The work of Intimacy Coordinator Janine Waddell and Lighting Designer Jason Hand
 <figcaption>Karen Slack in the title role of Edmonton Opera's production of Puccini's Tosca, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
 
-Conductor Simon Rivard returns to the EO podium to again lead the Edmonton Symphony Orchestra in another Puccini masterpiece. On this night, Rivard led the ESO to an emotional yet grounded performance. 
+Conductor Simon Rivard returns to the EO podium to again lead the Edmonton Symphony Orchestra in another Puccini masterpiece. On this night, Rivard led the ESO to an emotional yet grounded performance.
 
 The Edmonton Opera chorus, expertly prepared by Chorusmaster Shannon Hiebert, performed with confidence, vigor and precision.
 
