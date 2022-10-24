@@ -7,7 +7,7 @@ image_gallery = []
 postamble = "For more information, please visit the [Edmonton Opera website](https://www.edmontonopera.com/)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666614289/media/2022/10/sqEO_01-Tosca_Karen_Slack_and_Cavaradossi_David_Pomeroy_Photo_by_Nanc_Price_bxjauz.jpg"
-primary_image_credit = "Karen Slack (Tosca) and David Pomeroy (Cavaradossi) in Edmonton Opera's production of Puccini's Tosca. Photo: Nanc Price."
+primary_image_credit = "Karen Slack (Tosca) and David Pomeroy (Cavaradossi) in Edmonton Opera's production of Puccini's Tosca, 2022. Photo: Nanc Price."
 related_articles = []
 related_companies = ["scene/companies/edmonton-opera.md"]
 related_people = ["scene/people/etta-fung.md", "scene/people/joel-ivany.md", "scene/people/adrianne-pieczonka.md", "scene/people/vartan-gabrielian.md", "scene/people/lauren-margison.md", "scene/people/siman-chung.md", "scene/people/sharleen-joynt.md", "scene/people/mireille-asselin.md", "scene/people/david-pomeroy.md", "scene/people/peter-barrett.md", "scene/people/karen-slack.md"]
@@ -27,14 +27,14 @@ On opening night, Slack carried herself with the right mix of grace and fire bef
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666614484/media/2022/10/EO_02-Tosca_Karen_Slack_Photo_by_Nanc_Price_xf43nx.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Karen Slack in the title role of Edmonton Opera's production of Puccini's Tosca, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
 
 In his role debut as Baron Scarpia, baritone [Peter Barrett](/scene/people/peter-barrett/) turns in a performance to be celebrated. Last seen by Edmonton Opera audiences as Marcello in the February 2022 production of Puccini's _La bohème_, Barrett demonstrates both vocal and acting versatility as the antagonistic chief of police. From his first appearance on stage, Barrett commands attention with a swagger and authoritative presence, and backs it up with vocals that make you sit up in your seat with interest. The role of Scarpia demands a performer of substantive ability, especially in Act Two when the character imprisons and tortures Cavaradossi and manipulates Tosca for his own sadistic means. Barrett’s interpretation and delivery of Scarpia is truly substantive and is a role debut to be remembered.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666614598/media/2022/10/EO_03-Scarpia_Peter_Barrett_Photo_by_Nanc_Price_vhynmo.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Peter Barrett as Baron Scarpia in Edmonton Opera's production of Puccini's Tosca, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
 
 The cast of supporting characters should be commended for making the most of their time on stage. As Angelotti in Act One, baritone Peter Monaghan provides the necessary desperation of a condemned man that sets the drama into motion. Tenor Zack Rioux (Spoletta) and baritone Giles Tomkins (Sciarrone) play their roles as Scarpia's henchmen masterfully, with Tomkins providing a gasp-worthy moment at the end of the opera (#nospoilers).
@@ -43,7 +43,7 @@ The work of Intimacy Coordinator Janine Waddell and Lighting Designer Jason Hand
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666614637/media/2022/10/EO_04-Tosca_Karen_Slack_Photo_by_Nanc_Price_fasfss.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Karen Slack in the title role of Edmonton Opera's production of Puccini's Tosca, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
 
 Conductor Simon Rivard returns to the EO podium to again lead the Edmonton Symphony Orchestra in another Puccini masterpiece. On this night, Rivard led the ESO to an emotional yet grounded performance. 
@@ -54,7 +54,7 @@ The night, however, belonged to tenor [David Pomeroy](/scene/people/david-pomero
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666614655/media/2022/10/EO_05-Cavaradossi_David_Pomeroy_and_the_Sacristan_Jin_Yu_Photo_by_Nanc_Price_fas5fg.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>David Pomeroy (Cavaradossi) and Jin Yu (Sacristan, right) in Edmonton Opera's production of Puccini's Tosca, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
 
 Edmonton Opera's production of Puccini's _Tosca_, conducted by Simon Rivard and directed by Alison Moritz, opened October 22 at the Northern Alberta Jubilee Auditorium and will be staged again on October 25 and 28. It is performed in Italian with English subtitles.
