@@ -4,7 +4,7 @@ categories = "Review"
 date = 2022-10-27T04:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = ""
+postamble = "Vancouver Opera's [production of The Pearl Fishers](https://www.vancouveropera.ca/whats-on/pearl-fishers/) runs through October 30, 2022."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666911626/media/2022/10/sqVO_-_Pearl_Fishers_-_Dancers_-_photo_by_Emily_Cooper_Photography_iankh4.jpg"
 primary_image_credit = "A Kandyan dancer in Vancouver Opera's production of The Pearl Fishers, 2022. Photo: Emily Cooper Photography."
@@ -12,8 +12,8 @@ related_articles = ["articles/division.md", "articles/forgiving-racism-onstage.m
 related_companies = ["scene/companies/vancouver-opera.md"]
 related_people = ["scene/people/vartan-gabrielian.md", "scene/people/phillip-addis.md", "scene/people/miriam-khalil.md"]
 short_description = "The projections describe how the librettists and composer themselves had never visited \"Ceylon\" (currently Sri Lanka) nor knew about the culture, and were writing from a place of ignorance. Then the curtain rises on the chorus, sets, costumes, and the opening in the tropical setting full of palm trees."
-slug = "pearl-fishers"
-title = "Pearl Fishers"
+slug = "great-singing-yet-vos-pearl-fishers-misses-its-mark"
+title = "Great singing, yet VO's Pearl Fisher misses its mark"
 youtube_url = ""
 
 +++
