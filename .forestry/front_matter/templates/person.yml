@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/aaron-blake.md
 - content/scene/people/aaron-sheehan.md
 - content/scene/people/adam-diegel.md
 - content/scene/people/adam-plachetka.md
