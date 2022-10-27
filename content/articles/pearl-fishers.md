@@ -12,8 +12,8 @@ related_articles = ["articles/division.md", "articles/forgiving-racism-onstage.m
 related_companies = ["scene/companies/vancouver-opera.md"]
 related_people = ["scene/people/vartan-gabrielian.md", "scene/people/phillip-addis.md", "scene/people/miriam-khalil.md"]
 short_description = "The projections describe how the librettists and composer themselves had never visited \"Ceylon\" (currently Sri Lanka) nor knew about the culture, and were writing from a place of ignorance. Then the curtain rises on the chorus, sets, costumes, and the opening in the tropical setting full of palm trees."
-slug = "great-singing-yet-vos-pearl-fishers-misses-its-mark"
-title = "Great singing, yet VO's Pearl Fisher misses its mark"
+slug = "a-confused-concept-pearl-fishers-in-vancouver"
+title = "A confused concept: Pearl Fishers in Vancouver"
 youtube_url = ""
 
 +++
