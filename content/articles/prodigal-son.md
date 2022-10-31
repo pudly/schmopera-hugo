@@ -4,7 +4,7 @@ categories = "Review"
 date = 2022-10-23T04:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = ""
+postamble = "Enigma Chamber Opera's production of _Prodigal Son_ is [available to stream](https://docs.google.com/document/d/1fPlkMXtqmO5u8X1YmlXadnQ0EcAKL3Zc1h2FJam23ys/edit) through November 4, 2022."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666563829/media/2022/10/sqEnigma_Matthew_DiBattista_in_Enigma_Chamber_Opera_s_PRODIGAL_SON_Photo_by_Ashlee_Rose_Scott_ml8lq3.jpg"
 primary_image_credit = "Matthew DiBattista in Enigma Chamber Opera’s PRODIGAL SON. Photo by Ashlee Rose Scott."
@@ -17,7 +17,7 @@ title = "Show stealers in Enigma Chamber Opera's Prodigal Son"
 youtube_url = ""
 
 +++
-In last year’s opera season, I had the chance to review [Enigma Chamber Opera](https://enigmachamberopera.org/)'s luminous production of Benjamin Britten’s [_Curlew River_](/enigma-operas-curlew-river-a-transcendent-experience/), a production that still lives on in my mind an entire year later. It is perhaps fortunate, then, that Enigma Chamber Opera has decided to dedicate its next offerings on producing the other two church operas in Britten's arsenal, and they have elected to start with _Prodigal Son_. It is always risky to go on a series in the same venue that uses a surprisingly similar staging conceit of performers using found objects as props in a church; unless the works are sufficiently different from each other, you are going to inevitably draw comparisons between all three.
+In last year’s opera season, I had the chance to review [Enigma Chamber Opera](https://enigmachamberopera.org/)'s luminous production of Benjamin Britten’s [_Curlew River_](/enigma-operas-curlew-river-a-transcendent-experience/), a production that still lives on in my mind an entire year later. It is perhaps fortunate, then, that Enigma Chamber Opera has decided to dedicate its next offerings on producing the other two church operas in Britten's arsenal, and they have elected to start with [_Prodigal Son_](https://docs.google.com/document/d/1fPlkMXtqmO5u8X1YmlXadnQ0EcAKL3Zc1h2FJam23ys/edit). It is always risky to go on a series in the same venue that uses a surprisingly similar staging conceit of performers using found objects as props in a church; unless the works are sufficiently different from each other, you are going to inevitably draw comparisons between all three.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666563933/media/2022/10/Enigma_The_cast_of_Enigma_Chamber_Opera_s_PRODIGAL_SON_Photo_by_Ashlee_Rose_Scott_icjcfr.jpg){{% /md %}}
 
