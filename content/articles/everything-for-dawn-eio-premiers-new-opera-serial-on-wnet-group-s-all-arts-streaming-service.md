@@ -14,49 +14,15 @@ related_companies = []
 related_people = []
 short_description = "short"
 slug = "everything-for-dawn-eio-premiers-new-opera-serial-on-wnet-groups-all-arts-streaming-service"
-title = "Everything For Dawn: EiO premiers new opera-serial on WNET Group’s all arts streaming service"
+title = "Everything For Dawn: EiO premiers new opera-serial on WNET Group’s All Arts streaming service"
 youtube_url = ""
 
 +++
-No we’re not on the cusp of rebooting Opera Seria but
+No we're not on the cusp of rebooting [_opera seria_](https://en.wikipedia.org/wiki/Opera_seria), but serialized opera, or at least one constituting a genuine mini-series, is waiting to be watched. If operas are perceived as long and attention spans most definitely short, this newest effort from the Brooklyn-based [Experiments in Opera](/scene/companies/experiements-in-opera/) might serve to level the playing field. The series is currently available on [All Arts](https://www.allarts.org/), the streaming service of The WNET Group and widely accessible, free of charge.
 
-serialized opera, or at least one constituting a genuine mini-
+_Everything for Dawn_ is an opera in 10 installments, each running 20 minutes or so, with talk-backs following most. Viewers then are obligated to only 30 minutes of viewing at a time. Six writers, who ostensibly worked in a dedicated writer's room, contributed the librettos. Further testing the spirit of collaboration, each installment, with titles like "Stick With Me, Brother," and "Into a White Box" is by a different composer.
 
-series, is waiting to be watched. If operas are perceived as long
-
-and attention spans most definitely short, this newest effort from
-
-the Brooklyn-based Experiments In Opera might serve to level
-
-the playing field. The series is currently available on All Arts, the
-
-streaming service of The WNET Group and widely accessible
-
-free of charge.
-
-Everything for Dawn is an opera in 10 installments, each
-
-running 20 minutes or so, with talk-backs following most.
-
-Viewers then are obligated to only 30 minutes of viewing at a
-
-time. Six writers, who ostensively worked in a dedicated writer’s
-
-room, contributed the librettos. Further testing the spirit of
-
-collaboration, each installment, with titles like “Stick With Me,
-
-Brother,” and “Into a White Box” is by a different composer.
-
-Like any serial, the plot grows increasingly complex. Set in a
-
-working-class suburb of Detroit, Dawn is a young woman living
-
-with her mother, a post office employee and new-age disciple
-
-who, after her husband Mac’s suicide, rents a room to an art
-
-student. “Everything for Dawn” is also the name of an unseen
+Like any serial, the plot grows increasingly complex. Set in a working-class suburb of Detroit, Dawn is a young woman living with her mother, a post office employee and new age disciple who, after her husband Mac's suicide, rents a room to an art student. “Everything for Dawn” is also the name of an unseen
 
 painting by Mac who discovered the medium, if not his potential,
 
@@ -167,3 +133,23 @@ free All Arts app on all major streaming platforms and
 @AllArtsTV on YouTube, Facebook, Instagram, Twitter and
 
 TikTok. For all the ways to watch, visit AllArts.org/Everywhere.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> Photo by Aaron Siegel.</figcaption>  
+</figure>
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> Photo by Aaron Siegel.</figcaption>  
+</figure>
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> Photo by Arielle Doneson.</figcaption>  
+</figure>
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> Photo by Reuben Radding.</figcaption>  
+</figure>
