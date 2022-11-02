@@ -3,13 +3,12 @@ author = ["authors/john-hohmann.md"]
 categories = "Review"
 date = 2022-11-01T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
-postamble = ""
+postamble = "All Arts is available online nationwide through AllArts.org, the free All Arts app on all major streaming platforms and @AllArtsTV on YouTube, Facebook, Instagram, Twitter and TikTok. For all the ways to watch, visit [AllArts.org/Everywhere](https://www.allarts.org/everywhere/)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1667351068/media/2022/11/EiO_Britt-Hewitt-and-Aaron-Engebreth-Photo-by-Aaron-Siegel-scaled_thqmgp.jpg"
 primary_image_credit = "Britt Hewitt and Aaron Engebreth in Experiments in Opera's production of Everything For Dawn. Photo by Aaron Siegel."
-related_articles = []
+related_articles = ["articles/living-up-to-its-name-experiments-in-opera.md", "articles/confessions-art-songs-that-are-deeply-personal.md"]
 related_companies = []
 related_people = []
 short_description = "short"
@@ -38,7 +37,7 @@ As the story unfolds [Britt Hewitt](/scene/people/britt-hewitt/) (Dawn), [Sishel
 <figcaption>Joshua Conyers and Aaron Engebreth. Photo by Aaron Siegel.</figcaption>  
 </figure>
 
-In a flashback to Mac's stay in a psychiatric hospital, we meet Ed, a fellow patient sung with dark gusto by [Joshua Conyers](/scene/people/joshua-conyers/), who attempts to befriend Mac during their art therapy sessions. Joy, the therapist, sung by [Meroe Khalia Adeeb](/scene/people/meroe-khalia-adeeb/), is a poignant and etherial presence countered by the menacing Dr. Slade, who for better or worse controls their destinies. Laura Strickling brings a sinister flair to Slade's clinical façade. It’s a brief but plum turn for Strickling who can also be heard on _Confessions_, her striking Grammy-nominated recording that we were pleased to review two years ago.
+In a flashback to Mac's stay in a psychiatric hospital, we meet Ed, a fellow patient sung with dark gusto by [Joshua Conyers](/scene/people/joshua-conyers/), who attempts to befriend Mac during their art therapy sessions. Joy, the therapist, sung by [Meroe Khalia Adeeb](/scene/people/meroe-khalia-adeeb/), is a poignant and etherial presence countered by the menacing Dr. Slade, who for better or worse controls their destinies. [Laura Strickling](/scene/people/laura-stricking/) brings a sinister flair to Slade's clinical façade. It’s a brief but plum turn for Strickling who can also be heard on _Confessions_, her striking Grammy-nominated recording that we were pleased to [review two years ago](/confessions-art-songs-that-are-deeply-personal/).
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1667351519/media/2022/11/EiO_Strickling_lrf7sb.jpg){{% /md %}}
 
@@ -57,5 +56,3 @@ EiO has conducted quite an experiment.
 
 <figcaption>EiO founders Aaron Siegel, Jason Cady, and Kamala Sankaram, all of whom were part of the composition and libretto writing teams behind Everything For Dawn. Photo by Reuben Radding.</figcaption>  
 </figure>
-
-All Arts is available online nationwide through AllArts.org, the free All Arts app on all major streaming platforms and @AllArtsTV on YouTube, Facebook, Instagram, Twitter and TikTok. For all the ways to watch, visit AllArts.org/Everywhere.
