@@ -22,91 +22,15 @@ No we're not on the cusp of rebooting [_opera seria_](https://en.wikipedia.org/w
 
 _Everything for Dawn_ is an opera in 10 installments, each running 20 minutes or so, with talk-backs following most. Viewers then are obligated to only 30 minutes of viewing at a time. Six writers, who ostensibly worked in a dedicated writer's room, contributed the librettos. Further testing the spirit of collaboration, each installment, with titles like "Stick With Me, Brother," and "Into a White Box" is by a different composer.
 
-Like any serial, the plot grows increasingly complex. Set in a working-class suburb of Detroit, Dawn is a young woman living with her mother, a post office employee and new age disciple who, after her husband Mac's suicide, rents a room to an art student. “Everything for Dawn” is also the name of an unseen
+Like any serial, the plot grows increasingly complex. Set in a working-class suburb of Detroit, Dawn is a young woman living with her mother, a post office employee and new age disciple who, after her husband Mac's suicide, rents a room to an art student. "Everything for Dawn" is also the name of an unseen painting by Mac, who discovered the medium, if not his potential, during art therapy sessions at a psychiatric hospital. Mac, who appears as an spectral presence, even when he alive, is sung with wrenching melancholy by Aaron Engelbreth.
 
-painting by Mac who discovered the medium, if not his potential,
+In addition to Englebreth, Dawn features a tremendously assured group of singers. They are cannily cast to look their parts but more importantly they embody them with convincing musical and theatrical naturalism. So in sync are they with director Allison Moritz's character-focused direction and Eric Thomas Paton's probing photography that the production often radiates the spontaneity of _cinéma vérité_.
 
-during art therapy sessions at a psychiatric hospital. Mac, who
+As the story unfolds Britt Hewitt (Dawn), Sishel Clavere (Gloria, Dawn's mother) and Eliza Bonet (Carla, the tenant) play off each other with a delicate balance of tact, desperation and uncertain intention. Anya, a Detroit gallerist, sung by Maggie Finnegan, disrupts their routine. This budding art mogul champions Mac's work as she becomes involved with Carla. Finnegan's Anya is visibly calculating, as every player in the art market must be. Her commitment to Mac's work and family versus her plan to use both towards making a splash in New York remains one of the opera’s more intriguing aspects. In a flashback to Mac’s stay in a psychiatric hospital, we meet Ed, a fellow patient sung with dark gusto by Joshua Conyers, who attempts to befriend Mac during their art therapy sessions. Joy, the therapist, sung by Meroe Khalia Adeeb, is a poignant and etherial presence countered by the menacing Dr. Slade, who for better or worse controls their destinies. Laura Strickling brings a sinister flair to Slade's clinical façade. It’s a brief but plum turn for Strickling who can also be heard on _Confessions_, her striking Grammy-nominated recording that we were pleased to review two years ago.
 
-appears as an spectral presence, even when he alive, is sung
+What unites the compositions and sustains our interest is the unalloyed freedom of the music. Finding its way through arioso, atonality, raw rhythm, wisps of bel canto and expressionistic passages, these fresh musical ideas from 10 composers are distinct but play as one. Conductor, David Bloom's taut five-piece ensemble consisting of piano, bass, percussion, viola and violin, greets the myriad styles and structures of the compositions with polished urgency.
 
-with wrenching melancholy by Aaron Engelbreth.
-
-In addition to Englebreth, Dawn features a tremendously
-
-assured group of singers. They are cannily cast to look their
-
-parts but more importantly they embody them with convincing
-
-musical and theatrical naturalism. So in sync are they with
-
-director Allison Moritz’s character-focused direction and Eric
-
-Thomas Paton’s probing photography that the production often
-
-radiates the spontaneity of cinéma vérité.
-
-As the story unfolds Britt Hewitt (Dawn), Sishel Clavere (Gloria,
-
-Dawn’s mother) and Eliza Bonet (Carla, the tenant) play off
-
-each other with a delicate balance of tact, desperation and
-
-uncertain intention. Anya, a Detroit gallerist, sung by Maggie
-
-Finnegan, disrupts their routine. This budding art mogul
-
-champions Mac’s work as she becomes involved with Carla.
-
-Finnegan’s Anya is visibly calculating, as every player in the art
-
-market must be. Her commitment to Mac’s work and family
-
-versus her plan to use both towards making a splash in New
-
-York remains one of the opera’s more intriguing aspects.
-
-In a flashback to Mac’s stay in a psychiatric hospital, we meet
-
-Ed, a fellow patient sung with dark gusto by Joshua Conyers,
-
-who attempts to befriend Mac during their art therapy sessions.
-
-Joy, the therapist, sung by Meroe Khalia Adeeb, is a poignant
-
-and etherial presence countered by the menacing Dr. Slade
-
-who for better or worse controls their destinies. Laura Strickling
-
-brings a sinister flair to Slade’s clinical facade. It’s a brief but
-
-plum turn for Strickling who can also be heard on Confessions,
-
-her striking Grammy-nominated recording that we were pleased
-
-to review two years ago.
-
-What unites the compositions and sustains our interest is the
-
-unalloyed freedom of the music. Finding its way through arioso,
-
-atonality, raw rhythm, wisps of bel canto and expressionistic
-
-passages, these fresh musical ideas from 10 composers are
-
-distinct but play as one. Conductor, David Bloom’s taut five-
-
-piece ensemble consisting of piano, bass, percussion, viola and
-
-violin, greets the myriad styles and structures of the
-
-compositions with polished urgency.
-
-Each libretto, however, springs from its own source. Spanning
-
-three time periods, characters are radically altered even if the
-
-changes are subtle. Though momentary reliance on gender
+Each libretto, however, springs from its own source. Spanning three time periods, characters are radically altered even if the changes are subtle. Though momentary reliance on gender
 
 stereotypes and a preponderance of art-speak (a vocabulary
 
