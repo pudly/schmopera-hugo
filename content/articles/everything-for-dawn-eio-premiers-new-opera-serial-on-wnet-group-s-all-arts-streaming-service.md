@@ -9,8 +9,8 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1667351068/media/2022/11/EiO_Britt-Hewitt-and-Aaron-Engebreth-Photo-by-Aaron-Siegel-scaled_thqmgp.jpg"
 primary_image_credit = "Britt Hewitt and Aaron Engebreth in Experiments in Opera's production of Everything For Dawn. Photo by Aaron Siegel."
 related_articles = ["articles/living-up-to-its-name-experiments-in-opera.md", "articles/confessions-art-songs-that-are-deeply-personal.md"]
-related_companies = []
-related_people = ["scene/people/eliza-bonet.md", "scene/people/britt-hewitt.md"]
+related_companies = ["scene/companies/experiments-in-opera.md"]
+related_people = ["scene/people/sishel-claverie.md", "scene/people/laura-strickling.md", "scene/people/meroe-khalia-adeeb.md", "scene/people/joshua-conyers.md", "scene/people/eliza-bonet-1.md", "scene/people/britt-hewitt.md"]
 short_description = "short"
 slug = "everything-for-dawn-eio-premiers-new-opera-serial-on-wnet-groups-all-arts-streaming-service"
 title = "Everything For Dawn: EiO premiers new opera-serial on WNET Group’s All Arts streaming service"
@@ -30,7 +30,7 @@ In addition to Englebreth, Dawn features a tremendously assured group of singers
 <figcaption>Maggie Finnegan, Eliza Bonet, Britt Hewitt, Sishel Clavere and Meroe Adeeb. Photo by Aaron Siegel.</figcaption>  
 </figure>
 
-As the story unfolds [Britt Hewitt](/scene/people/britt-hewitt/) (Dawn), [Sishel Claverie](/scene/people/sishel-claverie/) (Gloria, Dawn's mother) and [Eliza Bonet](/scene/people/eliza-bonet/) (Carla, the tenant) play off each other with a delicate balance of tact, desperation and uncertain intention. Anya, a Detroit gallerist, sung by Maggie Finnegan, disrupts their routine. This budding art mogul champions Mac's work as she becomes involved with Carla. Finnegan's Anya is visibly calculating, as every player in the art market must be. Her commitment to Mac's work and family versus her plan to use both towards making a splash in New York remains one of the opera’s more intriguing aspects.
+As the story unfolds [Britt Hewitt](/scene/people/britt-hewitt/) (Dawn), [Sishel Claverie](/scene/people/sishel-claverie/) (Gloria, Dawn's mother) and [Eliza Bonet](/scene/people/eliza-bonet/) (Carla, the tenant) play off each other with a delicate balance of tact, desperation and uncertain intention. Anya, a Detroit gallerist, sung by [Maggie Finnegan](/scene/people/maggie-finnegan/), disrupts their routine. This budding art mogul champions Mac's work as she becomes involved with Carla. Finnegan's Anya is visibly calculating, as every player in the art market must be. Her commitment to Mac's work and family versus her plan to use both towards making a splash in New York remains one of the opera’s more intriguing aspects.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1667351470/media/2022/11/EiO_Joshua-Conyers-and-Aaron-Engebreth-Photo-by-Aaron-Siegel-scaled_aidtko.jpg){{% /md %}}
 
