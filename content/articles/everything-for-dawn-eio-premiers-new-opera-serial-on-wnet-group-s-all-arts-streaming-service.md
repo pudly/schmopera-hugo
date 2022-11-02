@@ -26,7 +26,17 @@ Like any serial, the plot grows increasingly complex. Set in a working-class sub
 
 In addition to Englebreth, Dawn features a tremendously assured group of singers. They are cannily cast to look their parts but more importantly they embody them with convincing musical and theatrical naturalism. So in sync are they with director Allison Moritz's character-focused direction and Eric Thomas Paton's probing photography that the production often radiates the spontaneity of _cinéma vérité_.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1667351436/media/2022/11/EiO_Maggie-Finnegan-Eliza-Bonet-Britt-Hewitt-Sishel-Clavere-Meroe-Adeeb-Photo-by-Aaron-Siegel-scaled_fzlodq.jpg){{% /md %}}
+
+<figcaption>Maggie Finnegan, Eliza Bonet, Britt Hewitt, Sishel Clavere and Meroe Adeeb. Photo by Aaron Siegel.</figcaption>  
+</figure>
+
 As the story unfolds [Britt Hewitt](/scene/people/britt-hewitt/) (Dawn), [Sishel Claverie](/scene/people/sishel-claverie/) (Gloria, Dawn's mother) and [Eliza Bonet](/scene/people/eliza-bonet/) (Carla, the tenant) play off each other with a delicate balance of tact, desperation and uncertain intention. Anya, a Detroit gallerist, sung by Maggie Finnegan, disrupts their routine. This budding art mogul champions Mac's work as she becomes involved with Carla. Finnegan's Anya is visibly calculating, as every player in the art market must be. Her commitment to Mac's work and family versus her plan to use both towards making a splash in New York remains one of the opera’s more intriguing aspects. In a flashback to Mac’s stay in a psychiatric hospital, we meet Ed, a fellow patient sung with dark gusto by Joshua Conyers, who attempts to befriend Mac during their art therapy sessions. Joy, the therapist, sung by [Meroe Khalia Adeeb](/scene/people/meroe-khalia-adeeb/), is a poignant and etherial presence countered by the menacing Dr. Slade, who for better or worse controls their destinies. Laura Strickling brings a sinister flair to Slade's clinical façade. It’s a brief but plum turn for Strickling who can also be heard on _Confessions_, her striking Grammy-nominated recording that we were pleased to review two years ago.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1667351519/media/2022/11/EiO_Strickling_lrf7sb.jpg){{% /md %}}
+
+<figcaption>Laura Strickling sings the menacing Dr. Slade in Experiments in Opera's Everything For Dawn. Photo by Arielle Doneson.</figcaption>  
+</figure>
 
 What unites the compositions and sustains our interest is the unalloyed freedom of the music. Finding its way through arioso, atonality, raw rhythm, wisps of bel canto and expressionistic passages, these fresh musical ideas from 10 composers are distinct but play as one. Conductor, David Bloom's taut five-piece ensemble consisting of piano, bass, percussion, viola and violin, greets the myriad styles and structures of the compositions with polished urgency.
 
@@ -43,17 +53,7 @@ EiO has conducted quite an experiment.
 
 All Arts is available online nationwide through AllArts.org, the free All Arts app on all major streaming platforms and @AllArtsTV on YouTube, Facebook, Instagram, Twitter and TikTok. For all the ways to watch, visit AllArts.org/Everywhere.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1667351436/media/2022/11/EiO_Maggie-Finnegan-Eliza-Bonet-Britt-Hewitt-Sishel-Clavere-Meroe-Adeeb-Photo-by-Aaron-Siegel-scaled_fzlodq.jpg){{% /md %}}
-
-<figcaption>Maggie Finnegan, Eliza Bonet, Britt Hewitt, Sishel Clavere and Meroe Adeeb. Photo by Aaron Siegel.</figcaption>  
-</figure>
-
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1667351470/media/2022/11/EiO_Joshua-Conyers-and-Aaron-Engebreth-Photo-by-Aaron-Siegel-scaled_aidtko.jpg){{% /md %}}
 
 <figcaption>Joshua Conyers and Aaron Engebreth. Photo by Aaron Siegel.</figcaption>  
-</figure>
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1667351519/media/2022/11/EiO_Strickling_lrf7sb.jpg){{% /md %}}
-
-<figcaption> Photo by Arielle Doneson.</figcaption>  
 </figure>
