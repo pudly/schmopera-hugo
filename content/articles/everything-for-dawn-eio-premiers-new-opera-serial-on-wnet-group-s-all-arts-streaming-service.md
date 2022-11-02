@@ -12,8 +12,8 @@ related_articles = ["articles/living-up-to-its-name-experiments-in-opera.md", "a
 related_companies = ["scene/companies/experiments-in-opera.md"]
 related_people = ["scene/people/sishel-claverie.md", "scene/people/laura-strickling.md", "scene/people/meroe-khalia-adeeb.md", "scene/people/joshua-conyers.md", "scene/people/eliza-bonet-1.md", "scene/people/britt-hewitt.md"]
 short_description = "short"
-slug = "everything-for-dawn-eio-premiers-new-opera-serial-on-wnet-groups-all-arts-streaming-service"
-title = "Everything For Dawn: EiO premiers new opera-serial on WNET Group’s All Arts streaming service"
+slug = "everything-for-dawn-eio-premieres-new-opera-serial-on-wnet-groups-all-arts-streaming-service"
+title = "Everything For Dawn: EiO premieres new opera-serial on WNET Group’s All Arts streaming service"
 youtube_url = ""
 
 +++
