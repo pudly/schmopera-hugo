@@ -134,22 +134,22 @@ free All Arts app on all major streaming platforms and
 
 TikTok. For all the ways to watch, visit AllArts.org/Everywhere.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1667351436/media/2022/11/EiO_Maggie-Finnegan-Eliza-Bonet-Britt-Hewitt-Sishel-Clavere-Meroe-Adeeb-Photo-by-Aaron-Siegel-scaled_fzlodq.jpg){{% /md %}}
 
-<figcaption> Photo by Aaron Siegel.</figcaption>  
+<figcaption>Maggie Finnegan, Eliza Bonet, Britt Hewitt, Sishel Clavere and Meroe Adeeb. Photo by Aaron Siegel.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1667351470/media/2022/11/EiO_Joshua-Conyers-and-Aaron-Engebreth-Photo-by-Aaron-Siegel-scaled_aidtko.jpg){{% /md %}}
 
-<figcaption> Photo by Aaron Siegel.</figcaption>  
+<figcaption>Joshua Conyers and Aaron Engebreth. Photo by Aaron Siegel.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption> Photo by Arielle Doneson.</figcaption>  
-</figure>
-
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1667351543/media/2022/11/EIO-THE-DIRECTORS-FLEA-THEATER-BY-REUBEN-RADDING-6_kvs4sj.jpg){{% /md %}}
 
 <figcaption> Photo by Reuben Radding.</figcaption>  
+</figure>
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1667351519/media/2022/11/EiO_Strickling_lrf7sb.jpg){{% /md %}}
+
+<figcaption> Photo by Arielle Doneson.</figcaption>  
 </figure>
