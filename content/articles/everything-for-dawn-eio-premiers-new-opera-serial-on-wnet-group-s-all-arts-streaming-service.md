@@ -31,7 +31,14 @@ In addition to Englebreth, Dawn features a tremendously assured group of singers
 <figcaption>Maggie Finnegan, Eliza Bonet, Britt Hewitt, Sishel Clavere and Meroe Adeeb. Photo by Aaron Siegel.</figcaption>  
 </figure>
 
-As the story unfolds [Britt Hewitt](/scene/people/britt-hewitt/) (Dawn), [Sishel Claverie](/scene/people/sishel-claverie/) (Gloria, Dawn's mother) and [Eliza Bonet](/scene/people/eliza-bonet/) (Carla, the tenant) play off each other with a delicate balance of tact, desperation and uncertain intention. Anya, a Detroit gallerist, sung by Maggie Finnegan, disrupts their routine. This budding art mogul champions Mac's work as she becomes involved with Carla. Finnegan's Anya is visibly calculating, as every player in the art market must be. Her commitment to Mac's work and family versus her plan to use both towards making a splash in New York remains one of the opera’s more intriguing aspects. In a flashback to Mac’s stay in a psychiatric hospital, we meet Ed, a fellow patient sung with dark gusto by Joshua Conyers, who attempts to befriend Mac during their art therapy sessions. Joy, the therapist, sung by [Meroe Khalia Adeeb](/scene/people/meroe-khalia-adeeb/), is a poignant and etherial presence countered by the menacing Dr. Slade, who for better or worse controls their destinies. Laura Strickling brings a sinister flair to Slade's clinical façade. It’s a brief but plum turn for Strickling who can also be heard on _Confessions_, her striking Grammy-nominated recording that we were pleased to review two years ago.
+As the story unfolds [Britt Hewitt](/scene/people/britt-hewitt/) (Dawn), [Sishel Claverie](/scene/people/sishel-claverie/) (Gloria, Dawn's mother) and [Eliza Bonet](/scene/people/eliza-bonet/) (Carla, the tenant) play off each other with a delicate balance of tact, desperation and uncertain intention. Anya, a Detroit gallerist, sung by Maggie Finnegan, disrupts their routine. This budding art mogul champions Mac's work as she becomes involved with Carla. Finnegan's Anya is visibly calculating, as every player in the art market must be. Her commitment to Mac's work and family versus her plan to use both towards making a splash in New York remains one of the opera’s more intriguing aspects.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1667351470/media/2022/11/EiO_Joshua-Conyers-and-Aaron-Engebreth-Photo-by-Aaron-Siegel-scaled_aidtko.jpg){{% /md %}}
+
+<figcaption>Joshua Conyers and Aaron Engebreth. Photo by Aaron Siegel.</figcaption>  
+</figure>
+
+In a flashback to Mac's stay in a psychiatric hospital, we meet Ed, a fellow patient sung with dark gusto by [Joshua Conyers](/scene/people/joshua-conyers/), who attempts to befriend Mac during their art therapy sessions. Joy, the therapist, sung by [Meroe Khalia Adeeb](/scene/people/meroe-khalia-adeeb/), is a poignant and etherial presence countered by the menacing Dr. Slade, who for better or worse controls their destinies. Laura Strickling brings a sinister flair to Slade's clinical façade. It’s a brief but plum turn for Strickling who can also be heard on _Confessions_, her striking Grammy-nominated recording that we were pleased to review two years ago.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1667351519/media/2022/11/EiO_Strickling_lrf7sb.jpg){{% /md %}}
 
@@ -42,7 +49,7 @@ What unites the compositions and sustains our interest is the unalloyed freedom 
 
 Each libretto, however, springs from its own source. Spanning three time periods, characters are radically altered even if the changes are subtle. Though momentary reliance on gender stereotypes and a preponderance of art-speak (a vocabulary that doesn't travel well) give pause, the librettos pack emotional heft and emerge as a lucid if ambiguous, operatic memory play.
 
-If this sounds like melodrama, it isn’t. The position of the artist in society, our perceptions of what constitutes art entwined with its appreciation and commodification permeate Dawn. The work even entertains the concept of what constitutes an artist and who gets to be one.
+If this sounds like melodrama, it isn’t. The position of the artist in society, our perceptions of what constitutes art entwined with its appreciation and commodification permeate _Dawn_. The work even entertains the concept of what constitutes an artist and who gets to be one.
 
 EiO has conducted quite an experiment.
 
@@ -52,8 +59,3 @@ EiO has conducted quite an experiment.
 </figure>
 
 All Arts is available online nationwide through AllArts.org, the free All Arts app on all major streaming platforms and @AllArtsTV on YouTube, Facebook, Instagram, Twitter and TikTok. For all the ways to watch, visit AllArts.org/Everywhere.
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1667351470/media/2022/11/EiO_Joshua-Conyers-and-Aaron-Engebreth-Photo-by-Aaron-Siegel-scaled_aidtko.jpg){{% /md %}}
-
-<figcaption>Joshua Conyers and Aaron Engebreth. Photo by Aaron Siegel.</figcaption>  
-</figure>
