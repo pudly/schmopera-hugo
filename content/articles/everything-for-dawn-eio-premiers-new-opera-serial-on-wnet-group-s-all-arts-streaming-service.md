@@ -17,7 +17,7 @@ title = "Everything For Dawn: EiO premieres new opera-serial on WNET Group’s A
 youtube_url = ""
 
 +++
-No we're not on the cusp of rebooting [_opera seria_](https://en.wikipedia.org/wiki/Opera_seria), but serialized opera, or at least one constituting a genuine mini-series, is waiting to be watched. If operas are perceived as long and attention spans most definitely short, this newest effort from the Brooklyn-based [Experiments in Opera](/scene/companies/experiements-in-opera/) might serve to level the playing field. The series is currently available on [All Arts](https://www.allarts.org/), the streaming service of The WNET Group and widely accessible, free of charge.
+No we're not on the cusp of rebooting [_opera seria_](https://en.wikipedia.org/wiki/Opera_seria), but serialized opera, or at least one constituting a genuine mini-series, is waiting to be watched. If operas are perceived as long and attention spans most definitely short, this newest effort from the Brooklyn-based [Experiments in Opera](/scene/companies/experiements-in-opera/) might serve to level the playing field. The series is currently available on [All Arts](https://www.allarts.org/programs/everything-for-dawn/), the streaming service of The WNET Group and widely accessible, free of charge.
 
 _Everything for Dawn_ is an opera in 10 installments, each running 20 minutes or so, with talk-backs following most. Viewers then are obligated to only 30 minutes of viewing at a time. Six writers, who ostensibly worked in a dedicated writer's room, contributed the librettos. Further testing the spirit of collaboration, each installment, with titles like "Stick With Me, Brother," and "Into a White Box" is by a different composer.
 
@@ -48,7 +48,7 @@ What unites the compositions and sustains our interest is the unalloyed freedom 
 
 Each libretto, however, springs from its own source. Spanning three time periods, characters are radically altered even if the changes are subtle. Though momentary reliance on gender stereotypes and a preponderance of art-speak (a vocabulary that doesn't travel well) give pause, the librettos pack emotional heft and emerge as a lucid if ambiguous, operatic memory play.
 
-If this sounds like melodrama, it isn’t. The position of the artist in society, our perceptions of what constitutes art entwined with its appreciation and commodification permeate _Dawn_. The work even entertains the concept of what constitutes an artist and who gets to be one.
+If this sounds like melodrama, it isn’t. The position of the artist in society, our perceptions of what constitutes art entwined with its appreciation and commodification permeate [_Dawn_](https://www.allarts.org/programs/everything-for-dawn/). The work even entertains the concept of what constitutes an artist and who gets to be one.
 
 EiO has conducted quite an experiment.
 
