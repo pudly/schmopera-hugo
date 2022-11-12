@@ -38,4 +38,34 @@ After this, there is the matter of performing these songs, and the performers th
 
 And then there is Omar Najmi, who was given sole responsibility over singing all of Dichterliebe. Najmi’s tender, sensitive reading of Dichterliebe is worth the price of admission all on its own: I dare say that his Dichterliebe might easily rival the performances of some of the great lieder singers of the 20th Century. His voice wrang out pathos with how warm it was, its color was perfect for Schumann, and it was clear from how he inflected his voice around the text that he felt every word with an intensity you don’t usually see in lieder performances these days. Even if this was not a staged performance I had the feeling that it would carry through regardless, and that is the mark of any great performance of song cycles for me.
 
-    It ended up anchoring an evening that was interesting to experience in a good way. It is always a fraught enterprise to create a huge collaborative project when not all of the parts will talk to each other, but sometimes it yields rather good results, as it did with Love in the Time Of… There are certainly things I would have reconsidered, but ultimately it was a rather interesting night, and it framed one of the great Lieder performances quite beautifully.
+It ended up anchoring an evening that was interesting to experience in a good way. It is always a fraught enterprise to create a huge collaborative project when not all of the parts will talk to each other, but sometimes it yields rather good results, as it did with Love in the Time Of… There are certainly things I would have reconsidered, but ultimately it was a rather interesting night, and it framed one of the great Lieder performances quite beautifully.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
