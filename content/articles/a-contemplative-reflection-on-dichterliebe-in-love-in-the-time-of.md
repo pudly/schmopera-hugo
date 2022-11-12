@@ -40,32 +40,32 @@ And then there is Omar Najmi, who was given sole responsibility over singing all
 
 It ended up anchoring an evening that was interesting to experience in a good way. It is always a fraught enterprise to create a huge collaborative project when not all of the parts will talk to each other, but sometimes it yields rather good results, as it did with _Love in the Time Of…_ There are certainly things I would have reconsidered, but ultimately it was a rather interesting night, and it framed one of the great Lieder performances quite beautifully.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668284479/media/2022/11/BosOpColab110922-7066_s52i8m.jpg){{% /md %}}
 
 <figcaption>A scene from Boston Opera Collaborative's production of Love in the Time Of..., 2022. Photo: Dan Busler Photography.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668284493/media/2022/11/BosOpColab110922-7083_smreku.jpg){{% /md %}}
 
 <figcaption>A scene from Boston Opera Collaborative's production of Love in the Time Of..., 2022. Photo: Dan Busler Photography.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668284506/media/2022/11/BosOpColab110922-7127_rchdku.jpg){{% /md %}}
 
 <figcaption>A scene from Boston Opera Collaborative's production of Love in the Time Of..., 2022. Photo: Dan Busler Photography.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668284519/media/2022/11/BosOpColab110922-7178_kuvvu4.jpg){{% /md %}}
 
 <figcaption>A scene from Boston Opera Collaborative's production of Love in the Time Of..., 2022. Photo: Dan Busler Photography.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668284532/media/2022/11/BosOpColab110922-7206_vpesn3.jpg){{% /md %}}
 
 <figcaption>A scene from Boston Opera Collaborative's production of Love in the Time Of..., 2022. Photo: Dan Busler Photography.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668284545/media/2022/11/BosOpColab110922-7223_swec70.jpg){{% /md %}}
 
 <figcaption>A scene from Boston Opera Collaborative's production of Love in the Time Of..., 2022. Photo: Dan Busler Photography.</figcaption>  
 </figure>
