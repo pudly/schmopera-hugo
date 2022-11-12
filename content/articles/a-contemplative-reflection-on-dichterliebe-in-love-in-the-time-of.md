@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1668284417/media/2022/11/sqBosOpColab110922-7217_kbslp9.jpg"
+primary_image_credit = "A scene from Boston Opera Collaborative's production of Love in the Time Of..., 2022. Photo: Dan Busler Photography."
 related_articles = []
 related_companies = ["scene/companies/boston-opera-collaborative.md"]
 related_people = ["scene/people/junhan-choi.md", "scene/people/omar-najmi.md"]
@@ -42,30 +42,30 @@ It ended up anchoring an evening that was interesting to experience in a good wa
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>A scene from Boston Opera Collaborative's production of Love in the Time Of..., 2022. Photo: Dan Busler Photography.</figcaption>  
 </figure>
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>A scene from Boston Opera Collaborative's production of Love in the Time Of..., 2022. Photo: Dan Busler Photography.</figcaption>  
 </figure>
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>A scene from Boston Opera Collaborative's production of Love in the Time Of..., 2022. Photo: Dan Busler Photography.</figcaption>  
 </figure>
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>A scene from Boston Opera Collaborative's production of Love in the Time Of..., 2022. Photo: Dan Busler Photography.</figcaption>  
 </figure>
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>A scene from Boston Opera Collaborative's production of Love in the Time Of..., 2022. Photo: Dan Busler Photography.</figcaption>  
 </figure>
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>A scene from Boston Opera Collaborative's production of Love in the Time Of..., 2022. Photo: Dan Busler Photography.</figcaption>  
 </figure>
