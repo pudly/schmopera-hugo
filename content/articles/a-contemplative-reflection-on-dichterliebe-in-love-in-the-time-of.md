@@ -10,7 +10,7 @@ preamble = ""
 primary_image = ""
 primary_image_credit = ""
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/boston-opera-collaborative.md"]
 related_people = []
 short_description = "short"
 slug = "a-contemplative-reflection-on-dichterliebe-in-love-in-the-time-of"
@@ -18,7 +18,7 @@ title = "A Contemplative Reflection on Dichterliebe In Love In The Time Of…"
 youtube_url = ""
 
 +++
-There have been a number of times throughout the history of Western music of composers deciding to look back at an old masterwork and compose a response to it, and a similar trend does exist in poetry as well. Rarely, however, does an opera company back such a project, and rarely do they do so with more than one composer at a time. And yet, Boston Opera Collaborative decided to make a response by contacting eight composers and ten poets to respond to specific poems within Robert Schumann’s Dichterliebe. As their executive directors put it, as they received the songs a narrative seemed to emerge from what the poets and then composers responded with: what became a planned stream was instead saved for live performance, and it is with this result, which they have elected to title Love in the Time Of…, BOC has returned to live staged performance.
+There have been a number of times throughout the history of Western music of composers deciding to look back at an old masterwork and compose a response to it, and a similar trend does exist in poetry as well. Rarely, however, does an opera company back such a project, and rarely do they do so with more than one composer at a time. And yet, [Boston Opera Collaborative](/scene/companies/boston-opera-collaborative/) decided to make a response by contacting eight composers and ten poets to respond to specific poems within Robert Schumann's _Dichterliebe_. As their executive directors put it, as they received the songs a narrative seemed to emerge from what the poets and then composers responded with: what became a planned stream was instead saved for live performance, and it is with this result, which they have elected to title Love in the Time Of…, BOC has returned to live staged performance.
 
 One might have reason to approach such an undertaking with a certain amount of trepidation: as the old saying goes, “too many cooks can spoil the broth”, and any evening that centers around a massive variety of voices is always going to have some issues with quality across the whole. Additionally, I question how a narrative can form out of responses to Dichterliebe: for as great a song cycle as it is, it is a part of the vein of German lieder where there is a very short amount of setup right in the first few songs, which is then followed by the main character angsting about lost love for the entire rest of the cycle, and any responses to that run the risk of treading the same ground for so long that it gets old.
 
