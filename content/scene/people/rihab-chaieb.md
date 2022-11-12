@@ -2,8 +2,8 @@
 date = "2015-04-11T21:43:00-04:00"
 discipline = "Mezzo-soprano"
 lastmod = "2015-04-11T22:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1563653662/media/2019/07/RihabChaieb9-pc-FayFox.jpg"
-primary_image_credit = "Fay Fox"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1668288537/media/2022/11/Rihab_Chaieb_Daniel_Welch_qvel2f.jpg"
+primary_image_credit = "Daniel Welch"
 publishDate = "2015-04-11T21:43:00-04:00"
 related_companies = ["scene/companies/los-angeles-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/opera-philadelphia.md", "scene/companies/houston-grand-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/glyndebourne.md", "scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/canadian-opera-company.md", "scene/companies/opera-mcgill.md"]
 slug = "rihab-chaieb"
