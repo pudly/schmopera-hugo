@@ -1,7 +1,7 @@
 +++
 author = ["authors/arturo-fernandez.md"]
 categories = "Review"
-date = 2022-11-12T05:00:00Z
+date = 2022-11-13T05:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = ""
@@ -13,7 +13,7 @@ related_companies = ["scene/companies/boston-opera-collaborative.md"]
 related_people = ["scene/people/junhan-choi.md", "scene/people/omar-najmi.md"]
 short_description = "Najmi’s tender, sensitive reading of Dichterliebe is worth the price of admission all on its own: I dare say that his Dichterliebe might easily rival the performances of some of the great Lieder singers of the 20th century."
 slug = "a-contemplative-reflection-on-dichterliebe-in-love-in-the-time-of"
-title = "A Contemplative Reflection on Dichterliebe In Love In The Time Of…"
+title = "A contemplative reflection on Dichterliebe in Love In The Time Of…"
 youtube_url = ""
 
 +++
