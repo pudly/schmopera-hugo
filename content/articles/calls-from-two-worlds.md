@@ -5,11 +5,11 @@ date = ""
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Regina Opera Company's production of [_The Telephone_ and _The Medium_](http://www.reginaopera.org/menotti.htm) is double-cast.  The performers described in this review return on November 20th."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1668565280/media/2022/11/sqTheTelephone_StevenPisano__09512_wxvlzj.jpg"
 primary_image_credit = "Chris Drago Fistonich as Ben in The Telephone, Regina Opera Company, 2022. Photo: Steven Pisano."
-related_articles = []
+related_articles = ["articles/no-explanation-needed.md", "articles/counterculture.md", "articles/two-different-servings-from-the-opera-fest-menu.md"]
 related_companies = []
 related_people = []
 short_description = "Both The Telephone and The Medium end with an unexpected turn and so the two operas result in a night of surprises."
@@ -63,5 +63,3 @@ The 19-piece orchestra, featuring first-rate strings and horns was led expertly 
 Regina Opera should have considered an evening on a bare stage with black curtains. With no budget, the set truly looked like something from a junior high school production. The costumes were half-baked - some were authentic fun finds from the 1940’s while others appeared to be out of the performers’ closets.
 
 In a case like this, let the music speak for itself which it did here, and quite notably.
-
-The show is double-cast.  The performers described in this review return on November 20th.
