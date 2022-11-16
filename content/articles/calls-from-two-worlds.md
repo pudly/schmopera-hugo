@@ -18,26 +18,26 @@ title = "Calls From Two Worlds"
 youtube_url = ""
 
 +++
-Opera companies producing full productions post-pandemic are hard to find in New York outside of the Met at Lincoln Center.  Many companies have gone dormant so it’s very good news to report that the Regina Opera Company (now in its 53rd season) is still alive and singing.
+Opera companies producing full productions post-pandemic are hard to find in New York outside of the Met at Lincoln Center. Many companies have gone dormant, so it's very good news to report that the [Regina Opera Company](http://www.reginaopera.org/) (now in its 53rd season) is still alive and singing.
 
-It’s obvious from their choice of two short Menotti chamber operas (and the ultra-low budget production values of each) that the company has limited resources. However, as in the past, the singers and musicians are top tier.
+It's obvious from their choice of two short Menotti chamber operas (and the ultra-low budget production values of each) that the company has limited resources. However, as in the past, the singers and musicians are top tier.
 
-The Medium and The Telephone, with music and libretto by Gian Carlo Menotti, were a sensation in the late 1940’s. It’s hard to imagine this today, but the double bill was actually presented on Broadway. As a curtain raiser, the comedy of The Telephone is a wonderful contrast to the angst in The Medium which follows, and so the programming continues to be revived as a satisfying pairing.
+_The Medium_ and _The Telephone_, with music and libretto by Gian Carlo Menotti, were a sensation in the late 1940's. It’s hard to imagine this today, but the double bill was actually presented on Broadway. As a curtain raiser, the comedy of _The Telephone_ is a wonderful contrast to the angst in _The Medium_ which follows, and so the programming continues to be revived as a satisfying pairing.
 
-Both The Telephone and The Medium end with an unexpected turn and so the two operas result in a night of surprises.
+Both _The Telephone_ and _The Medium_ end with an unexpected turn and so the two operas result in a night of surprises.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668565523/media/2022/11/TheTelephone_-StevenPisano__00013_xkhzlj.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Brooke Schooley as Lucy and Chris Drago Fistonich as BEn in The Telephone, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
 </figure>
 
-Menotti enjoyed his greatest success from the late 1940’s through the 1950’s. In a sea of musical modernism, the composer lived on an ever-shrinking island where he had picked up the baton from Puccini and the verismo tradition. Though he rejected the atonality of his contemporaries, you can hear their influence in the spooky dissonance of The Medium, which, nevertheless, also contains beautiful melodic arias. 	The subject matter of The Telephone speaks to us today, even though technology has advanced to a cellular world where all noses seem to be buried in screens. You could see an opera like this being written today where the iphone is the main prop. But with a score that includes a rotary phone and a plot point involving ‘cutting the phone cord,’ The Telephone is clearly a period piece, albeit a timely one.
+Menotti enjoyed his greatest success from the late 1940's through the 1950’s. In a sea of musical modernism, the composer lived on an ever-shrinking island where he had picked up the baton from Puccini and the verismo tradition. Though he rejected the atonality of his contemporaries, you can hear their influence in the spooky dissonance of The Medium, which, nevertheless, also contains beautiful melodic arias. 	The subject matter of The Telephone speaks to us today, even though technology has advanced to a cellular world where all noses seem to be buried in screens. You could see an opera like this being written today where the iphone is the main prop. But with a score that includes a rotary phone and a plot point involving ‘cutting the phone cord,’ The Telephone is clearly a period piece, albeit a timely one.
 
 Splendid coloratura Brooke Schooley plays the gossipy Lucy, who can’t stay away from incoming calls, even as her boyfriend attempts to get her attention long enough to become her fiance. Schooley’s voice expertly trills and soars as her character fauns, cajoles, argues and laughs, sometimes like a comical singing hyena, with her unseen (and unheard) telephonic friends. Strong baritone Chris Drago Fistonich is the hapless boyfriend Ben who can’t compete with Lucy’s other lover - the one that’s constantly ringing. (The libretto notes that the phone has created a menage a trois.) The ending has an unexpected twist that gives you a well-needed chuckle before the drama unfolds in the second show of the evening.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>in The Telephone, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
 </figure>
 
 Schooley returns after the intermission to assume quite a different role in The Medium. Schooley plays Monica, the obedient daughter of fraudster “medium” Madame Flora (Lara Michole Tillotson.) The casting here of Schooley and Tillotson is somewhat problematic as we’re supposed to accept that Schooley is Tillotson’s daughter (with no attempt to age-up Tillotson who sings of being “old and sick.”) Fortunately, the talents of both actresses help to suspend our visual disbelief, but not completely.
