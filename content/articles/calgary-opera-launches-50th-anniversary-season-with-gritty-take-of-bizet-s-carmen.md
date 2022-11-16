@@ -10,7 +10,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1668567252/m
 primary_image_credit = "Calgary Opera's 2022 production of Bizet's Carmen stars mezzo-soprano Rihab Chaieb. Photo: Claire Picheyre."
 related_articles = []
 related_companies = ["scene/companies/calgary-opera.md"]
-related_people = ["scene/people/brenna-corner.md", "scene/people/rihab-chaieb.md"]
+related_people = ["scene/people/nmon-ford.md", "scene/people/david-pomeroy.md", "scene/people/brenna-corner.md", "scene/people/rihab-chaieb.md"]
 short_description = "Carmen was born in the wrong century,” says Chaieb. “She’s no queen, she doesn’t come from a family with a lot of money. But Carmen has power and decisiveness. And she is the only character from the beginning to the end of the opera who doesn’t change who she is and how she expresses herself.”"
 slug = "calgary-opera-launches-50th-anniversary-season-with-gritty-take-of-bizets-carmen"
 title = "Calgary Opera launches 50th Anniversary Season with gritty take of Bizet’s Carmen"
@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 In a lot of ways, Bizet’s _Carmen_ may be the ideal vehicle for opera companies to attract patrons back to live opera performance after two years of COVID. Arguably one of the most recognizable scores and stories in the operatic canon, Bizet’s score is full of earworms such as the "Habanera" or the "Toreador Song" that even the most passive music lover may recognize. What better way to launch the company’s golden anniversary season?
 
-But says director Brenna Corner, _Carmen_ offers much more than catchy music. "Bizet wrote a piece of theatre and just wrote all the subtext in the orchestra, and he wrote all the nuances of how he wanted it delivered in the musical line the singers sing," she tells Schmopera. "But _Carmen_ is a story of intimate partner abuse. Quite frankly, it's a dangerous and tragic story that still happens today to men and women alike, and that's a problem. We still have people who can’t be free, controlled by the people who are supposed to love them."
+But says director [Brenna Corner](/scene/people/brenna-corner/), _Carmen_ offers much more than catchy music. "Bizet wrote a piece of theatre and just wrote all the subtext in the orchestra, and he wrote all the nuances of how he wanted it delivered in the musical line the singers sing," she tells Schmopera. "But _Carmen_ is a story of intimate partner abuse. Quite frankly, it's a dangerous and tragic story that still happens today to men and women alike, and that's a problem. We still have people who can’t be free, controlled by the people who are supposed to love them."
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668567008/media/2022/11/CalgaryOpera_ChaiebCorner_lllhs1.jpg){{% /md %}}
 
