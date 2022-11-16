@@ -28,7 +28,7 @@ Both _The Telephone_ and _The Medium_ end with an unexpected turn and so the two
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668565523/media/2022/11/TheTelephone_-StevenPisano__00013_xkhzlj.jpg){{% /md %}}
 
-<figcaption>Brooke Schooley as Lucy and Chris Drago Fistonich as BEn in The Telephone, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
+<figcaption>Brooke Schooley as Lucy and Chris Drago Fistonich as Ben in The Telephone, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
 </figure>
 
 Menotti enjoyed his greatest success from the late 1940's through the 1950's. In a sea of musical modernism, the composer lived on an ever-shrinking island where he had picked up the baton from Puccini and the verismo tradition. Though he rejected the atonality of his contemporaries, you can hear their influence in the spooky dissonance of _The Medium_, which, nevertheless, also contains beautiful melodic arias. 	The subject matter of _The Telephone_ speaks to us today, even though technology has advanced to a cellular world where all noses seem to be buried in screens. You could see an opera like this being written today where the iPhone is the main prop. But with a score that includes a rotary phone and a plot point involving "cutting the phone cord", _The Telephone_ is clearly a period piece, albeit a timely one.
@@ -37,16 +37,16 @@ Splendid coloratura Brooke Schooley plays the gossipy Lucy, who can't stay away 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668565662/media/2022/11/TheTelephone_StevenPisano__9670_lonnny.jpg){{% /md %}}
 
-<figcaption>in The Telephone, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
+<figcaption>Chris Drago Fistonich as Ben and Brooke Schooley as Lucy in The Telephone, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
 </figure>
 
 Schooley returns after the intermission to assume quite a different role in The Medium. Schooley plays Monica, the obedient daughter of fraudster “medium” Madame Flora (Lara Michole Tillotson.) The casting here of Schooley and Tillotson is somewhat problematic as we’re supposed to accept that Schooley is Tillotson’s daughter (with no attempt to age-up Tillotson who sings of being “old and sick.”) Fortunately, the talents of both actresses help to suspend our visual disbelief, but not completely.
 
 The plot centers around Madama Flora and her con game conducting phony seances, where she is aided by her daughter Monica and an orphaned mute she has adopted named Toby. Milos Kleiman, as Toby, is excellent at managing the difficult task of a non-singing, non-speaking role. He evokes pathos as he offers love and loyalty but suffers abuse from Flora, who is revealed to be a half-mad alcoholic. Tillotson, who made a tremendous Azucena here in Il Trovatore is a powerful, tortured  and frightening Madame Flora, even though she gets no help in the make-up or costuming department.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668565736/media/2022/11/TheMedium_StevenPisano__01549_ycoa5j.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>(l-r) Chris Drago Fistonich (Mr. Gobineau), Monica Camafreita (Mrs. Gobineau), Lara Tillotson (Madam Flora), and Anna Viemeister (Mrs. Nolan) in The Medium, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
 </figure>
 
 Schooley again shines as she sings the famous hits from the show, “Monica’s Waltz” and “The Black Swan.” And her plaintive “mother, mother” as the fake ghost during the seance is, well, haunting.
@@ -55,7 +55,7 @@ Madame Flora’s three gullible customers are all tragic figures. They’ve all 
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>in The Medium, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
 </figure>
 
 The 19-piece orchestra, featuring first-rate strings and horns was led expertly by veteran conductor Gregory Ortega.
