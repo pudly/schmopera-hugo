@@ -40,22 +40,22 @@ Splendid coloratura Brooke Schooley plays the gossipy Lucy, who can't stay away 
 <figcaption>Chris Drago Fistonich as Ben and Brooke Schooley as Lucy in The Telephone, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
 </figure>
 
-Schooley returns after the intermission to assume quite a different role in The Medium. Schooley plays Monica, the obedient daughter of fraudster “medium” Madame Flora (Lara Michole Tillotson.) The casting here of Schooley and Tillotson is somewhat problematic as we’re supposed to accept that Schooley is Tillotson’s daughter (with no attempt to age-up Tillotson who sings of being “old and sick.”) Fortunately, the talents of both actresses help to suspend our visual disbelief, but not completely.
+Schooley returns after the intermission to assume quite a different role in _The Medium_. Schooley plays Monica, the obedient daughter of fraudster "medium" Madame Flora (Lara Michole Tillotson.) The casting here of Schooley and Tillotson is somewhat problematic as we’re supposed to accept that Schooley is Tillotson's daughter (with no attempt to age-up Tillotson who sings of being "old and sick.") Fortunately, the talents of both actresses help to suspend our visual disbelief, but not completely.
 
-The plot centers around Madama Flora and her con game conducting phony seances, where she is aided by her daughter Monica and an orphaned mute she has adopted named Toby. Milos Kleiman, as Toby, is excellent at managing the difficult task of a non-singing, non-speaking role. He evokes pathos as he offers love and loyalty but suffers abuse from Flora, who is revealed to be a half-mad alcoholic. Tillotson, who made a tremendous Azucena here in Il Trovatore is a powerful, tortured  and frightening Madame Flora, even though she gets no help in the make-up or costuming department.
+The plot centers around Madama Flora and her con game conducting phony séances, where she is aided by her daughter Monica and an orphaned mute she has adopted named Toby. Milos Kleiman, as Toby, is excellent at managing the difficult task of a non-singing, non-speaking role. He evokes pathos as he offers love and loyalty but suffers abuse from Flora, who is revealed to be a half-mad alcoholic. Tillotson, who made a tremendous Azucena here in _Il Trovatore_ is a powerful, tortured and frightening Madame Flora, even though she gets no help in the make-up or costuming department.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668565736/media/2022/11/TheMedium_StevenPisano__01549_ycoa5j.jpg){{% /md %}}
 
 <figcaption>(l-r) Chris Drago Fistonich (Mr. Gobineau), Monica Camafreita (Mrs. Gobineau), Lara Tillotson (Madam Flora), and Anna Viemeister (Mrs. Nolan) in The Medium, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
 </figure>
 
-Schooley again shines as she sings the famous hits from the show, “Monica’s Waltz” and “The Black Swan.” And her plaintive “mother, mother” as the fake ghost during the seance is, well, haunting.
+Schooley again shines as she sings the famous hits from the show, "Monica’s Waltz" and "The Black Swan". And her plaintive "mother, mother" as the fake ghost during the séance is, well, haunting.
 
-Madame Flora’s three gullible customers are all tragic figures. They’ve all lost children and long for a true connection to the afterlife. Monica Camafreita and Chris Drago Fistonich (from The Telephone), play Mrs. & Mr. Gobineau, and are actually happy, in a self-delusional way, believing that they are hearing their deceased two-year-old son laughing from the great beyond. Anna Viemeister plays a frightened Mrs. Nolan, who is attending her first seance, hoping to hear from her deceased teenage daughter. Camafreita, Fistonich and Viemeister form a moving trio and all three, especially Viemeister, have exceptional solo moments.
+Madame Flora's three gullible customers are all tragic figures. They've all lost children and long for a true connection to the afterlife. Monica Camafreita and Chris Drago Fistonich (from _The Telephone_), play Mrs. & Mr. Gobineau, and are actually happy, in a self-delusional way, believing that they are hearing their deceased two-year-old son laughing from the great beyond. Anna Viemeister plays a frightened Mrs. Nolan, who is attending her first séance, hoping to hear from her deceased teenage daughter. Camafreita, Fistonich and Viemeister form a moving trio and all three, especially Viemeister, have exceptional solo moments.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668566046/media/2022/11/TheMedium_StevenPisano__04737_tgblog.jpg){{% /md %}}
 
-<figcaption>in The Medium, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
+<figcaption>Lara Tillotson as Madam Flora and Milos Kleiman as Toby in The Medium, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
 </figure>
 
 The 19-piece orchestra, featuring first-rate strings and horns was led expertly by veteran conductor Gregory Ortega.
