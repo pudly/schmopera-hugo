@@ -22,6 +22,11 @@ In a lot of ways, Bizet’s _Carmen_ may be the ideal vehicle for opera companie
 
 But says director Brenna Corner, _Carmen_ offers much more than catchy music. "Bizet wrote a piece of theatre and just wrote all the subtext in the orchestra, and he wrote all the nuances of how he wanted it delivered in the musical line the singers sing," she tells Schmopera. "But _Carmen_ is a story of intimate partner abuse. Quite frankly, it's a dangerous and tragic story that still happens today to men and women alike, and that's a problem. We still have people who can’t be free, controlled by the people who are supposed to love them."
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668567008/media/2022/11/CalgaryOpera_ChaiebCorner_lllhs1.jpg){{% /md %}}
+
+<figcaption>Director Brenna Corner and mezzo Rihab Chaieb spoke with Schmopera.com about Calgary Opera’s grittier take of Bizet’s Carmen at the Southern Alberta Jubilee Auditorium on November 19, 23 and 25. Photos courtesy of Calgary Opera and Rihab Chiaeb.</figcaption>  
+</figure>
+
 As the iconic Carmen, [Calgary Opera](/scene/companies/calgary-opera/) has cast Tunisian-Canadian mezzo [Rihab Chaieb](/scene/people/rihab-chaieb/), a graduate of the prestigious Metropolitan Opera Lindemann Young Artist Program, in her company debut. "Carmen was born in the wrong century," says Chaieb. "She's no queen, she doesn't come from a family with a lot of money. But Carmen has power and decisiveness. And she is the only character from the beginning to the end of the opera who doesn't change who she is and how she expresses herself."
 
 ## Keeping the story of _Carmen_ relevant
@@ -35,6 +40,11 @@ Corner acknowledges that for a long time, the story of _Carmen_ was told in a sp
 For an opera as well-known as _Carmen_, Corner says the challenge is to ensure moments of profound intimacy are not overshadowed by the pomp and circumstance that comes with grand opera. Corner says it was especially important not to set the story of _Carmen_ in a world where the victim can or should be blamed. "The idea of being able to withdraw consent at any point is one of the big reasons why it’s important to keep telling this story," she says.
 
 "What I like about this staging is that I'm given _carte blanche_ to be playful," says Chaieb. "People are attracted to this character because of a certain _je ne sais quoi_ that is rooted in her power and confidence. She knows what she wants and knows her sexuality but is the victim of a very dark circumstance that still happens today." No spoilers on exactly how Chaieb's _Carmen_ will meet her end (after all, it’s opera), but both Chaieb and Corner say it is in keeping with how the story of _Carmen_ is about intimate partner abuse.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668567036/media/2022/11/CalgaryOpera_FordPomeroy_pgvemd.jpg){{% /md %}}
+
+<figcaption>Baritone Nmon Ford (Escamillo) and tenor David Pomeroy (Don José) also star in Calgary Opera’s production of Bizet’s Carmen to kick off the company’s 2022-23 season. Photos courtesy of Calgary Opera.</figcaption>  
+</figure>
 
 Chaieb plays opposite Panamanian-American baritone [Nmon Ford](/scene/people/nmon-ford/) as Escamillo (who is also making his debut with Calgary Opera) and Newfoundland tenor [David Pomeroy](/scene/people/david-pomeroy/) as Don José. Ford made his role and company debut as Crown in the English National Opera/Metropolitan Opera co-production of _Porgy and Bess_ and is the composer, librettist, and title-role performer for _House of Orfeus_, a 2024 co-production with Lincoln Center and Opera Carolina. Pomeroy was one of the company's guest artists in its 50th-anniversary celebration in mid-September and was celebrated as Prince Calaf in Calgary Opera's 2017 production of Puccini's _Turandot_. Asked how it felt to put together this intimate story of _Carmen_, Chaieb says it was likely more difficult on Pomeroy than for her.
 
