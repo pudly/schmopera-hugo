@@ -25,7 +25,7 @@ There is quite a bit of potential lost. Lori Laitman, who composed the music, is
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669042005/media/2022/11/Uncovered_LaitmanLax_vv8jfp.jpg){{% /md %}}
 
-<figcaption>Librettist Leah Lax (left) and composer Lori Laitman, creators of Uncovered, premiered at HERE Arts Center, 2022.</figcaption>  
+<figcaption>Librettist Leah Lax (left) and composer Lori Laitman, creators of Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022.</figcaption>  
 </figure>
 
 The true story of a Hasidic woman who broke away from her community, made for a popular TV show (_Unorthodox_). And the true story of a scandal involving a lesbian couple in the Jewish community made for a successful, often-produced play with music (Indecent.) Uncovered covers some of the same territory as a true story about a gay Hasidic woman. The libretto was written by Leah Lax, based on her published memoirs (as mentioned, this is a true story,) and she has written nine scenes that take us from her wedding to her divorce. Though the first three scenes take us in depth through one crucial night, the remaining six fly through a dozen years or more and the result is the feeling that something - or a few somethings - are missing.
@@ -34,7 +34,7 @@ Leah Lax, the librettist, tells us the story of Leah, the character, (first play
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669042073/media/2022/11/Uncovered_CarrPolicar_wyp7jj.jpg){{% /md %}}
 
-<figcaption>Chris Carr (Levi) and Rachel Policar (Leah), of Uncovered, premiered at HERE Arts Center, 2022.</figcaption>  
+<figcaption>Chris Carr (Levi) and Rachel Policar (Leah), of Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022.</figcaption>  
 </figure>
 
 The next scene takes us through a consummation of the marriage that is loving and sexually satisfying, but it ends with Levi being commanded to not touch his (formerly) virgin wife for twelve days. Not the start to a marriage either one of them wants - especially Leah who was hoping for a soft intimacy - but they "submit" to the laws of their religion and the stage is set for some difficult years to come.
@@ -43,7 +43,7 @@ Through a theatrical device, the role of the soprano Leah is then taken over by 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669042393/media/2022/11/Uncovered_EmilyBlair_mn3ot3.jpg){{% /md %}}
 
-<figcaption>Emily Blair (Leah) of Uncovered, premiered at HERE Arts Center, 2022.</figcaption>  
+<figcaption>Emily Blair (Leah) of Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022.</figcaption>  
 </figure>
 
 Life is hard for the Leah-Levi family - there are constant unpaid bills that seem to pile on one another as more and more children pile into their lives. Levi's day is filled with work and prayer and Leah's exhausting day is filled with doing everything else. But Leah has accepted her situation and even sings a sweet song of motherhood to the baby (the latest) that she holds in her arms.
@@ -60,7 +60,7 @@ Many of the singers prove to have deep acting chops to go along with their vocal
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669042302/media/2022/11/Uncovered_BraunsteinJones_vzsgn1.jpg){{% /md %}}
 
-<figcaption>(l-r) Rachel Braunstein (Grandmother/Mikvah Attendant) and Heather Jones (Mother) of Uncovered, premiered at HERE Arts Center, 2022.</figcaption>  
+<figcaption>(l-r) Rachel Braunstein (Grandmother/Mikvah Attendant) and Heather Jones (Mother) of Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022.</figcaption>  
 </figure>
 
 Also in very strong support are Pedroza as the Rabbi, and mezzo Rachel Braunstein in the dual role of Grandmother/Mikvah Attendant. Mezzo Heather Jones as the Mother is a gifted performer, always in the moment even when she isn't singing. As the Young Leah, soprano Rachel Policar is nothing short of ethereal as she manages to stay afloat in the very high vocal altitude written for her, but we need the supertitles to understand a lot of what she's singing.
