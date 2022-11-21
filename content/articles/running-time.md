@@ -24,18 +24,18 @@ _Uncovered_, a new opera with a running time of just under two hours (with no in
 
 There is quite a bit of potential lost. Lori Laitman, who composed the music, is one of the stars of the evening. Even without the vocal parts, Ms. Laitman has composed an exciting score for a quartet of piano, clarinet, cello and violin that is good enough to be played as a chamber piece in any concert hall. This is not to say that Ms. Laitman's vocal score is anything less. There are some beautiful solos and duets. Add to this some great chorus harmonies, and this should have added up to a new hit in the world of opera.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669042005/media/2022/11/Uncovered_LaitmanLax_vv8jfp.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Librettist Leah Lax (left) and composer Lori Laitman, creators of Uncovered, premiered at HERE Arts Center, 2022.</figcaption>  
 </figure>
 
 The true story of a Hasidic woman who broke away from her community, made for a popular TV show (_Unorthodox_). And the true story of a scandal involving a lesbian couple in the Jewish community made for a successful, often-produced play with music (Indecent.) Uncovered covers some of the same territory as a true story about a gay Hasidic woman. The libretto was written by Leah Lax, based on her published memoirs (as mentioned, this is a true story,) and she has written nine scenes that take us from her wedding to her divorce. Though the first three scenes take us in depth through one crucial night, the remaining six fly through a dozen years or more and the result is the feeling that something - or a few somethings - are missing.
 
 Leah Lax, the librettist, tells us the story of Leah, the character, (first played by soprano Rachel Policar,) a woman who knows she is gay but is pulled by a misplaced passion and goes through with a wedding to Levi, a Hasidic man (played by tenor Chris Carr.) Though Leah is longing for a female dream lover as her wedding night approaches, she dips herself into the ritual Jewish bath known as a mikvah, and decides to "sink and submit." Though she figuratively submerges her feelings, at the same time the warm waters of the mikvah remind her of a woman's touch. Clearly trouble is coming.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669042073/media/2022/11/Uncovered_CarrPolicar_wyp7jj.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Chris Carr (Levi) and Rachel Policar (Leah), of Uncovered, premiered at HERE Arts Center, 2022.</figcaption>  
 </figure>
 
 The next scene takes us through a consummation of the marriage that is loving and sexually satisfying, but it ends with Levi being commanded to not touch his (formerly) virgin wife for twelve days. Not the start to a marriage either one of them wants - especially Leah who was hoping for a soft intimacy - but they "submit" to the laws of their religion and the stage is set for some difficult years to come.
