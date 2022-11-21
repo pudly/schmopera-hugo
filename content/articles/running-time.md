@@ -51,10 +51,7 @@ Life is hard for the Leah-Levi family - there are constant unpaid bills that see
 
 Up until now, the opera is well structured and fleshed-out. We get inside the minds of the characters and they have our deepest sympathy and attention. The next scene is where the problems really begin, not only for the characters but for the audience. Leah goes from her loving lullaby in the previous scene to the agonized cry of "Get It Out" as she seeks an abortion.  Leah tells us that she believes that this pregnancy (her eighth) will be fatal, but there is no transition, no explanation of how she got here. Through the aid of their spiritual leader (bass-baritone Miguel Pedroza,) the couple has the abortion and avoids divorce. It's all jarring and feels like something was cut.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>  
-</figure>
+> The lyrics often use repetition, too, when we could have used some explanatory complexity.
 
 Then again in the next scene, the opera has a disorienting plot jump: Leah rediscovers her lesbian feelings and has an affair with a woman, leading to her ultimate separation from Levi and her Hasidic surroundings. Though she leaves, suitcase in hand, we are told that she has "come home." Are we to believe that Leah hasn’t experienced these feelings in the intervening years? Not since her wedding night? Again, no breadcrumbs in earlier scenes to help us get here and no transition.
 
