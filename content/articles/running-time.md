@@ -42,9 +42,9 @@ The next scene takes us through a consummation of the marriage that is loving an
 
 Through a theatrical device, the role of the soprano Leah is then taken over by mezzo soprano Emily Blair, effectively telling us that time has passed and Leah is now older. "Is it me?" asks the younger Leah as she sees and changes places with her future self; the tired, frumpy, mother of multiple children.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669042393/media/2022/11/Uncovered_EmilyBlair_mn3ot3.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Emily Blair (Leah) of Uncovered, premiered at HERE Arts Center, 2022.</figcaption>  
 </figure>
 
 Life is hard for the Leah-Levi family - there are constant unpaid bills that seem to pile on one another as more and more children pile into their lives. Levi's day is filled with work and prayer and Leah's exhausting day is filled with doing everything else. But Leah has accepted her situation and even sings a sweet song of motherhood to the baby (the latest) that she holds in her arms.
@@ -59,12 +59,12 @@ Ms. Lax's lyrics don’t often help. Where we hope to get some clarity, we often
 
 Many of the singers prove to have deep acting chops to go along with their vocal skills. Tenor Chris Carr, in particular, as Levi the hapless husband, is poignant in his expressions of love and anguished disappointment. Mezzo Emily Blair makes a booming case for Leah's anguish from the very depths of her body. Together they sing a heart-breaking duet after Leah's abortion where they envision their unborn child - he a son, she a daughter.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669042302/media/2022/11/Uncovered_BraunsteinJones_vzsgn1.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>(l-r) Rachel Braunstein (Grandmother/Mikvah Attendant) and Heather Jones (Mother) of Uncovered, premiered at HERE Arts Center, 2022.</figcaption>  
 </figure>
 
-Also in very strong support are Pedroza as the Rabbi, and mezzo Rachel Braunstein in the dual role of Grandmother/Mikvah Attendant. Mezzo Heather Jones as the Mother is a gifted performer, always in the moment even when she isn't singing. As the Young Leah, soprano Rachel Polcar is nothing short of ethereal as she manages to stay afloat in the very high vocal altitude written for her, but we need the supertitles to understand a lot of what she's singing.
+Also in very strong support are Pedroza as the Rabbi, and mezzo Rachel Braunstein in the dual role of Grandmother/Mikvah Attendant. Mezzo Heather Jones as the Mother is a gifted performer, always in the moment even when she isn't singing. As the Young Leah, soprano Rachel Policar is nothing short of ethereal as she manages to stay afloat in the very high vocal altitude written for her, but we need the supertitles to understand a lot of what she's singing.
 
 Conductor Jackson McKinnon brings out the best in his chamber group and Chorus Master Hannah Nacheman leads a small (but what turns out to be) mighty ensemble.
 
