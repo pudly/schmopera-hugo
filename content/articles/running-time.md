@@ -6,8 +6,8 @@ disclaimer = ""
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1669041607/media/2022/11/sqUncovered_BOOKCOVERFINAL_gwjrcp.jpg"
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1669126432/media/2022/11/sqUncovered__ChrisCarr_RachelPolicar_Altar_k9ieic.jpg"
+primary_image_credit = "Chris Carr (Levi) and Rachel Policar (Leah) in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022."
 related_articles = ["articles/counterculture.md", "articles/watch-with-headphones-rumspringawakening.md"]
 related_companies = []
 related_people = []
@@ -32,18 +32,18 @@ The true story of a Hasidic woman who broke away from her community, made for a 
 
 Leah Lax, the librettist, tells us the story of Leah, the character, (first played by soprano Rachel Policar,) a woman who knows she is gay but is pulled by a misplaced passion and goes through with a wedding to Levi, a Hasidic man (played by tenor Chris Carr.) Though Leah is longing for a female dream lover as her wedding night approaches, she dips herself into the ritual Jewish bath known as a mikvah, and decides to "sink and submit." Though she figuratively submerges her feelings, at the same time the warm waters of the mikvah remind her of a woman's touch. Clearly trouble is coming.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669042073/media/2022/11/Uncovered_CarrPolicar_wyp7jj.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669126422/media/2022/11/EmilyBlair_RachelPolicar_pif5jy.jpg){{% /md %}}
 
-<figcaption>Chris Carr (Levi) and Rachel Policar (Leah), of Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022.</figcaption>  
+<figcaption>Emily Blair (Older Leah) and Rachel Policar (Leah), in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022.</figcaption>  
 </figure>
 
 The next scene takes us through a consummation of the marriage that is loving and sexually satisfying, but it ends with Levi being commanded to not touch his (formerly) virgin wife for twelve days. Not the start to a marriage either one of them wants - especially Leah who was hoping for a soft intimacy - but they "submit" to the laws of their religion and the stage is set for some difficult years to come.
 
 Through a theatrical device, the role of the soprano Leah is then taken over by mezzo soprano Emily Blair, effectively telling us that time has passed and Leah is now older. "Is it me?" asks the younger Leah as she sees and changes places with her future self; the tired, frumpy, mother of multiple children.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669042393/media/2022/11/Uncovered_EmilyBlair_mn3ot3.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669126466/media/2022/11/HeatherJones_asMother_ck96cp.jpg){{% /md %}}
 
-<figcaption>Emily Blair (Leah) of Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022.</figcaption>  
+<figcaption>Heather Jones (Mother) in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022.</figcaption>  
 </figure>
 
 Life is hard for the Leah-Levi family - there are constant unpaid bills that seem to pile on one another as more and more children pile into their lives. Levi's day is filled with work and prayer and Leah's exhausting day is filled with doing everything else. But Leah has accepted her situation and even sings a sweet song of motherhood to the baby (the latest) that she holds in her arms.
@@ -58,9 +58,9 @@ Ms. Lax's lyrics don’t often help. Where we hope to get some clarity, we often
 
 Many of the singers prove to have deep acting chops to go along with their vocal skills. Tenor Chris Carr, in particular, as Levi the hapless husband, is poignant in his expressions of love and anguished disappointment. Mezzo Emily Blair makes a booming case for Leah's anguish from the very depths of her body. Together they sing a heart-breaking duet after Leah's abortion where they envision their unborn child - he a son, she a daughter.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669042302/media/2022/11/Uncovered_BraunsteinJones_vzsgn1.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669126489/media/2022/11/RachelPolicar_asYoungLeah_2_izxonu.jpg){{% /md %}}
 
-<figcaption>(l-r) Rachel Braunstein (Grandmother/Mikvah Attendant) and Heather Jones (Mother) of Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022.</figcaption>  
+<figcaption>Rachel Policar (Leah) in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022.</figcaption>  
 </figure>
 
 Also in very strong support are Pedroza as the Rabbi, and mezzo Rachel Braunstein in the dual role of Grandmother/Mikvah Attendant. Mezzo Heather Jones as the Mother is a gifted performer, always in the moment even when she isn't singing. As the Young Leah, soprano Rachel Policar is nothing short of ethereal as she manages to stay afloat in the very high vocal altitude written for her, but we need the supertitles to understand a lot of what she's singing.
