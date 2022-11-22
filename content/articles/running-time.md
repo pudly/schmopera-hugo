@@ -7,7 +7,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1669126432/media/2022/11/sqUncovered__ChrisCarr_RachelPolicar_Altar_k9ieic.jpg"
-primary_image_credit = "Chris Carr (Levi) and Rachel Policar (Leah) in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022."
+primary_image_credit = "Chris Carr (Levi) and Rachel Policar (Leah) in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022. Photo: Carol Rosegg."
 related_articles = ["articles/counterculture.md", "articles/watch-with-headphones-rumspringawakening.md"]
 related_companies = []
 related_people = []
@@ -34,7 +34,7 @@ Leah Lax, the librettist, tells us the story of Leah, the character, (first play
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669126422/media/2022/11/EmilyBlair_RachelPolicar_pif5jy.jpg){{% /md %}}
 
-<figcaption>Emily Blair (Older Leah) and Rachel Policar (Leah), in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022.</figcaption>  
+<figcaption>Emily Blair (Older Leah) and Rachel Policar (Leah), in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022. Photo: Carol Rosegg.</figcaption>  
 </figure>
 
 The next scene takes us through a consummation of the marriage that is loving and sexually satisfying, but it ends with Levi being commanded to not touch his (formerly) virgin wife for twelve days. Not the start to a marriage either one of them wants - especially Leah who was hoping for a soft intimacy - but they "submit" to the laws of their religion and the stage is set for some difficult years to come.
@@ -43,7 +43,7 @@ Through a theatrical device, the role of the soprano Leah is then taken over by 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669126466/media/2022/11/HeatherJones_asMother_ck96cp.jpg){{% /md %}}
 
-<figcaption>Heather Jones (Mother) in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022.</figcaption>  
+<figcaption>Heather Jones (Mother) in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022. Photo: Carol Rosegg.</figcaption>  
 </figure>
 
 Life is hard for the Leah-Levi family - there are constant unpaid bills that seem to pile on one another as more and more children pile into their lives. Levi's day is filled with work and prayer and Leah's exhausting day is filled with doing everything else. But Leah has accepted her situation and even sings a sweet song of motherhood to the baby (the latest) that she holds in her arms.
@@ -60,7 +60,7 @@ Many of the singers prove to have deep acting chops to go along with their vocal
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669126489/media/2022/11/RachelPolicar_asYoungLeah_2_izxonu.jpg){{% /md %}}
 
-<figcaption>Rachel Policar (Leah) in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022.</figcaption>  
+<figcaption>Rachel Policar (Leah) in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022. Photo: Carol Rosegg.</figcaption>  
 </figure>
 
 Also in very strong support are Pedroza as the Rabbi, and mezzo Rachel Braunstein in the dual role of Grandmother/Mikvah Attendant. Mezzo Heather Jones as the Mother is a gifted performer, always in the moment even when she isn't singing. As the Young Leah, soprano Rachel Policar is nothing short of ethereal as she manages to stay afloat in the very high vocal altitude written for her, but we need the supertitles to understand a lot of what she's singing.
