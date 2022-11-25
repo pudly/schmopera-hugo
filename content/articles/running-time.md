@@ -52,9 +52,9 @@ Up until now, the opera is well structured and fleshed-out. We get inside the mi
 
 > The lyrics often use repetition, too, when we could have used some explanatory complexity.
 
-Then again in the next scene, the opera has a disorienting plot jump: Leah rediscovers her lesbian feelings and has an affair with a woman, leading to her ultimate separation from Levi and her Hasidic surroundings. Though she leaves, suitcase in hand, we are told that she has "come home." Are we to believe that Leah hasn’t experienced these feelings in the intervening years? Not since her wedding night? Again, no breadcrumbs in earlier scenes to help us get here and no transition.
+Then again in the next scene, the opera has a disorienting plot jump: Leah rediscovers her lesbian feelings and has an affair with a woman, leading to her ultimate separation from Levi and her Hasidic surroundings. She leaves, suitcase in hand. Are we to believe that Leah hasn't experienced these feelings in the intervening years? Not since her wedding night? Again, no breadcrumbs in earlier scenes to help us get here and no transition.
 
-Ms. Lax's lyrics don’t often help. Where we hope to get some clarity, we often get mixed and, ultimately, mixed-up poetic metaphors such as "lips like a new morning." The lyrics often use repetition, too, when we could have used some explanatory complexity.
+Ms. Lax's lyrics don’t often help. Where we hope to get some clarity, we often get mixed and, ultimately, mixed-up poetic metaphors such as "your lips are like morning light." The lyrics often use repetition, too, when we could have used some explanatory complexity.
 
 Many of the singers prove to have deep acting chops to go along with their vocal skills. Tenor Chris Carr, in particular, as Levi the hapless husband, is poignant in his expressions of love and anguished disappointment. Mezzo Emily Blair makes a booming case for Leah's anguish from the very depths of her body. Together they sing a heart-breaking duet after Leah's abortion where they envision their unborn child - he a son, she a daughter.
 
