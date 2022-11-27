@@ -55,4 +55,9 @@ Navigating this epic undertaking was Music Director Naomi Woo, whose expertise a
 
 The ensemble deserves a special mention as their precision was incredible - moving set pieces constantly that were also used as projection screens, so having to hit precise marks over and over again was quite the task, but it was done quickly and quietly, with every set piece hitting their mark for the next technical setup. And the projections themselves were a huge highlight, both as underscoring, or action in the show - such as text messages from clients asking if the angels would “Do anything?”.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669564800/media/2022/11/AngelsBone_Production_10_Bagg_oul6mc.jpg){{% /md %}}
+
+<figcaption>Asitha Tennekoon (left) as Boy Angel and Eliza Bagg (right) as Girl Angel in Angel’s Bone. Photo by Jess MacAleese.</figcaption>  
+</figure>
+
 The ending of the show itself is no reprieve - it shows the continuing cycle of exploitation that ever continues, and the scars that will never truly heal. A lesson for us all of the insidious danger that this problem poses.
