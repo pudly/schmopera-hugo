@@ -7,7 +7,7 @@ image_gallery = []
 postamble = "Angel's Bone runs through November 27, 2022. [Full details are available here](https://reopera.ca/angels-bone/)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1669475041/media/2022/11/sqAngelsBone_Production_7_fty9nk.jpg"
-primary_image_credit = "Winona Myles (left) as Girl Angel and Asitha Tennekoon (right) as Boy Angel and in Angel’s Bone. Photo by Jess MacAleese."
+primary_image_credit = "Winona Myles (left) as Girl Angel and Asitha Tennekoon (right) as Boy Angel and in Angel’s Bone. Photo by Jess MacAleese. (Note: for this performance, Girl Angel was portrayed by Eliza Bagg.)"
 related_articles = ["articles/angel-s-bone.md"]
 related_companies = []
 related_people = ["scene/people/alexander-dobson.md", "scene/people/asitha-tennekoon.md"]
@@ -41,23 +41,18 @@ Alyssa Samson and Alexander Dobson as Mrs. and Mr. X.E. respectively had the dif
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669475173/media/2022/11/AngelsBone_Production_6_s0tbus.jpg){{% /md %}}
 
-<figcaption>From left: Turgut Akmete, Emma Parkinson, Chloé Hurst, Sergio Augusta, Alyssa Samson (front centre), Renee Fajardo, Yuhui Wang, Luka Kawabata, and Sarah Jo Kirsch in Angel’s Bone. Photo by Jess MacAleese.</figcaption>  
+<figcaption>From left: Turgut Akmete, Emma Parkinson, Chloé Hurst, Sergio Augusto, Alyssa Samson (front centre), Renee Fajardo, Yuhui Wang, Luka Kawabata, and Sarah Jo Kirsch in Angel’s Bone. Photo by Jess MacAleese.</figcaption>  
 </figure>
 
 The chorus played multiple roles throughout, from clients to passers-by, to narrators, all while navigating an intricate, challenging score with expert skill.
 
-Navigating this epic undertaking was Music Director Naomi Woo, whose expertise and incredible precision kept this massive piece and thousands of cues completely in place, reigning in some formidable forces and many technical challenges with the consummate skill of the musicians of Turning Point and Array Music behind her. 
+Navigating this epic undertaking was Music Director Naomi Woo, whose expertise and incredible precision kept this massive piece and thousands of cues completely in place, reigning in some formidable forces and many technical challenges with the consummate skill of the musicians of Turning Point and Array Music behind her.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669475201/media/2022/11/AngelsBone_Production_9_dvucyf.jpg){{% /md %}}
 
 <figcaption>Alyssa Samson (left) as Mrs. XE and Alexander Dobson (right) as Mr. XE in Angel’s Bone. Photo by Jess MacAleese.</figcaption>  
 </figure>
 
-The technical crew deserves a special mention as their precision was incredible - moving set pieces constantly that were also used as projection screens, so having to hit precise marks over and over again was quite the task, but it was done quickly and quietly, with every set piece hitting their mark for the next technical setup. And the projections themselves were a huge highlight, both as underscoring, or action in the show - such as text messages from clients asking if the angels would “Do anything?”.
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669475226/media/2022/11/AngelsBone_Production_5_vdnlnr.jpg){{% /md %}}
-
-<figcaption>Winona Myles (left) as Girl Angel and Alexander Dobson (right) as Mr. XE in Angel’s Bone. Photo by Jess MacAleese.</figcaption>  
-</figure>
+The ensemble deserves a special mention as their precision was incredible - moving set pieces constantly that were also used as projection screens, so having to hit precise marks over and over again was quite the task, but it was done quickly and quietly, with every set piece hitting their mark for the next technical setup. And the projections themselves were a huge highlight, both as underscoring, or action in the show - such as text messages from clients asking if the angels would “Do anything?”.
 
 The ending of the show itself is no reprieve - it shows the continuing cycle of exploitation that ever continues, and the scars that will never truly heal. A lesson for us all of the insidious danger that this problem poses.
