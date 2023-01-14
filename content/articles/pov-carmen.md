@@ -43,7 +43,7 @@ Frasquita and Mercédès, in turn, played by soprano [Andrea Nuñez](/scene/peop
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666562675/media/2022/10/Carmen-POV3907_mhhiww.jpg){{% /md %}}
 
-<figcaption>Adam Luther as Don José and Carolyn Sproule as Carmen, with members of the Pacific Opera Chorus in Carmen, Pacific Opera Victoria, 2022. Photo by David Cooper.</figcaption>  
+<figcaption>Adam Luther as Don José and Carolyn Sproule as Carmen, with members of the Pacific Opera Chorus in Carmen, Pacific Opera Victoria, 2022. Photo by Mackenzie Lawrence.</figcaption>  
 </figure>
 
 The only drawbacks in this production were directorial. Very little movement or action was given to principals and chorus alike, and most scenes were very stationary. During the tavern scene, the female chorus members were wandering around in their underwear and rolling around on the floor of the tavern, which took away from the other action on the stage. The whole conceit felt needlessly exploitative and confusing, especially with an entire stage of fully-dressed men.
@@ -52,7 +52,7 @@ In addition, the few fights that were staged did not feel authentic, and the pro
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666562720/media/2022/10/POVCarmen-4945_s16npw.jpg){{% /md %}}
 
-<figcaption>Carolyn Sproule as Carmen and Adam Luther as Don José in Carmen, Pacific Opera Victoria, 2022. Photo by David Cooper.</figcaption>  
+<figcaption>Carolyn Sproule as Carmen and Adam Luther as Don José in Carmen, Pacific Opera Victoria, 2022. Photo by Mackenzie Lawrence.</figcaption>  
 </figure>
 
 The Victoria Symphony under the direction of Timothy Vernon in his final season with Pacific Opera Victoria led the ensemble with subtlety and depth. The orchestra underscored each moment perfectly, with a difficult score that felt light and bubbling, or dark and dramatic in equal measure.
