@@ -1,6 +1,6 @@
 +++
-author = []
-categories = ""
+author = ["authors/loren-lester.md"]
+categories = "Review"
 date = 2023-01-13T05:00:00Z
 disclaimer = ""
 image_gallery = []
