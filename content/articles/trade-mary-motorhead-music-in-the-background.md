@@ -3,16 +3,15 @@ author = ["authors/loren-lester.md"]
 categories = "Review"
 date = 2023-01-15T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1673808959/media/2023/01/sq_Trade_Mary_Motorhead_Baranova-7347_dgub6p.jpg"
 primary_image_credit = "Naomi Louisa O'Connell in Trade/Mary Motorhead, Prototype Festival, 2023. Photo: Richard Termine."
 related_articles = ["articles/angel-s-bone.md", "articles/note-to-a-friend-matters-of-life-and-death.md"]
-related_companies = []
+related_companies = ["scene/companies/beth-morrison-projects.md"]
 related_people = []
-short_description = "short"
+short_description = "Their interaction is so believable that we feel as if we are peering through the keyhole of the motel room where they've met for their illicit encounter. We forget we're watching something on a stage."
 slug = "trade-mary-motorhead-music-in-the-background"
 title = "Trade/Mary Motorhead: music in the background"
 youtube_url = ""
@@ -38,7 +37,7 @@ It's all very theatrical. We get it from the words and we feel it. We don't need
 <figcaption>Naomi Louisa O'Connell in Trade/Mary Motorhead, Prototype Festival, 2023. Photo: Richard Termine.</figcaption>  
 </figure>
 
-Trade is another well-crafted play from Mark O'Halloran, this time brought to life by Kyle Bielfield and Marc Kudisch as a young male prostitute and his older customer, respectively. Though they've met for money and sex, Mr. Kudisch's character wants something much more: a real connection and the intimacy of true understanding. After a while we come to realize that  the young escort wants the same thing and so they find their way to each other through an hour or so of sharing their life stories and current circumstances. The dialogue is so good and authentic-sounding that it could stand on its own (and does since, as noted, it’s actually a play turned into a libretto.)
+Trade is another well-crafted play from Mark O'Halloran, this time brought to life by Kyle Bielfield and Marc Kudisch as a young male prostitute and his older customer, respectively. Though they've met for money and sex, Mr. Kudisch's character wants something much more: a real connection and the intimacy of true understanding. After a while we come to realize that  the young escort wants the same thing and so they find their way to each other through an hour or so of sharing their life stories and current circumstances. The dialogue is so good and authentic-sounding that it could stand on its own (and does since, as noted, it's actually a play turned into a libretto.)
 
 Mr. Kudisch is a Tony-nominated Broadway actor with a baritone worthy of an operatic stage. Mr. Bielfield boasts the punch of a superlative operatic tenor. But they are much more than that. It's one of those rare occasions when the talents run through the entirety of  the principal performers. Their interaction is so believable that we feel as if we are peering through the keyhole of the motel room where they've met for their illicit encounter. We forget we're watching something on a stage.
 
