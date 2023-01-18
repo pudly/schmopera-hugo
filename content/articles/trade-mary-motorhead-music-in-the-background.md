@@ -1,7 +1,7 @@
 +++
 author = ["authors/loren-lester.md"]
 categories = "Review"
-date = 2023-01-15T05:00:00Z
+date = 2023-01-18T05:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = ""
@@ -17,7 +17,7 @@ title = "Trade/Mary Motorhead: music in the background"
 youtube_url = ""
 
 +++
-When are operas more like plays with music? Answer: the double-bill _Trade/Mary Motorhead_ by Irish composer Emma O'Halloran, presented as part of the [Prototype Festival](https://prototypefestival.org/shows/trade/). The two one-act plays have compelling stories and while both are billed as operas, and both are sung-through, the music doesn't add much. In fact, in the one-person opener, the monodrama _Mary Motorhead_, the musical elements push things overboard, and in the two-hander _Trade_, even the singing feels like underscoring. It's no surprise that both pieces were originally well-written plays (by Emma's writer-uncle Mark O’Halloran) and so they form strong libretti.
+When are operas more like plays with music? Answer: the double-bill _Trade/Mary Motorhead_ by Irish composer Emma O'Halloran, presented as part of the [Prototype Festival](https://prototypefestival.org/shows/trade/). The two one-act plays have compelling stories and while both are billed as operas, and both are sung-through, the music doesn't add much. In fact, in the one-person opener, the monodrama _Mary Motorhead_, the musical elements push things overboard, and in the two-hander _Trade_, even the singing feels like underscoring. It's no surprise that both pieces were originally well-written plays (by Emma's writer-uncle Mark O'Halloran) and so they form strong libretti.
 
 What an extraordinary talent is Naomi Louisa O’Connell, who plays the titular Mary Motorhead. Her sonorous soprano and acting skills demand our attention for the entire half-hour running time of the piece. But it’s the performance and the story, the direction by Tom Creed and the co-starring lighting design by Christopher Kuhl that sell the proceedings. (The exact same thing can be said for _Trade_.)
 
