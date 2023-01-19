@@ -46,7 +46,7 @@ Thanks to the clever staging of director/librettist Michael Joseph McQuilken, Mr
 
 The libretto describes the hopes and optimism of an expectant father, but then takes a tragic turn. The heartbreak for real-life parents in this situation is unimaginable. But some subjects, no matter how dramatic or poignant, don't necessarily translate to the stage. Suffice it to say, this may be the first opera trying to tackle the issue of infantile organ donation.
 
-Mr. Gunn helped create this piece, so he does share the responsibility for the results. Program notes describe how drawn he was to the subject matter. Maybe in concert he will one day give us a brilliant performance as Billy Bigelow.
+Mr. Gunn helped create this piece, so he does share the responsibility for the results. Program notes describe how drawn he was to the subject matter. It would be preferable to hear him once again in concert singing Billy Bigelow.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1674058602/media/2023/01/IODE_Baranova-1902_srld2x.jpg){{% /md %}}
 
