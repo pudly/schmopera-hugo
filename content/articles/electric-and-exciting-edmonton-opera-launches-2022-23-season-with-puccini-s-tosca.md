@@ -1,6 +1,6 @@
 +++
 author = ["authors/oliver-munar.md"]
-categories = "Op-Ed"
+categories = "Review"
 date = 2022-10-24T04:00:00Z
 disclaimer = ""
 image_gallery = []
