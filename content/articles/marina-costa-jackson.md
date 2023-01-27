@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = ["scene/people/marina-costa-jackson.md", "scene/people/ginger-costajackson.md"]
 short_description = "short"
-slug = "marina-costa-jackson"
-title = "Marina Costa-Jackson"
+slug = "marina-costa-jackson-you-just-have-to-do-it-a-lot"
+title = "Marina Costa-Jackson: \"You just have to do it, a lot.\""
 youtube_url = ""
 
 +++
