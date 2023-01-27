@@ -5,30 +5,30 @@ date = 2023-01-27T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "[San Diego Opera's double-bill of _Suor Angelica_ and _Gianni Schicchi_](https://www.sdopera.org/shows/suor-schicchi-2022/) runs February 11-19, 2023 at the San Diego Civic Theatre."
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
 related_articles = []
 related_companies = []
-related_people = []
+related_people = ["scene/people/marina-costa-jackson.md", "scene/people/ginger-costajackson.md"]
 short_description = "short"
 slug = "marina-costa-jackson"
 title = "Marina Costa-Jackson"
 youtube_url = ""
 
 +++
-American-Italian soprano Marina Costa-Jackson will be singing the title role in _Suor Angelica_ and Lauretta in _Gianni Schicchi_ in a [double-bill at the San Diego Opera](https://www.sdopera.org/shows/suor-schicchi-2022/) on February 11, 2023, with additional performances on February 14, 17, and 19.
+American-Italian soprano [Marina Costa-Jackson](/scene/people/marina-costa-jackson/) will be singing the title role in _Suor Angelica_ and Lauretta in _Gianni Schicchi_ in a [double-bill at the San Diego Opera](https://www.sdopera.org/shows/suor-schicchi-2022/) on February 11, 2023, with additional performances on February 14, 17, and 19.
 
 ### On singing, stage fright, her sisters, and the pandemic
 
-"I sing because I love the music. I’m not the typical diva because I’ve had to work through some hard-core stage fright. That was the reason I didn't sing up until I was 21 years old. I was raised in a family with sisters who sang as well, [Ginger Costa-Jackson](/scene/people/ginger-costa-jackson/) and [Miriam Costa-Jackson](/scene/people/miriam-costa-jackson/), and they always wanted me to sing. I loved the music and I loved hearing them practice and work hard towards singing and opera. 
+"I sing because I love the music. I’m not the typical diva because I’ve had to work through some hard-core stage fright. That was the reason I didn't sing up until I was 21 years old. I was raised in a family with sisters who sang as well, [Ginger Costa-Jackson](/scene/people/ginger-costa-jackson/) and [Miriam Costa-Jackson](/scene/people/miriam-costa-jackson/), and they always wanted me to sing. I loved the music and I loved hearing them practice and work hard towards singing and opera.
 
 "But stage fright was always the reason why I didn't sing. It's been that love of the music that's driven me forward and given me a career. But I've had to work through lots of performance anxiety. You could say I love one aspect and hate the other but the music makes it all worth it.
 
 "What helped me get over stage fright is consistent exposure to performing with nerves. Your body chemistry is completely different when you're nervous, with that adrenaline pumping and the cortisol levels.  The Academy of Vocal Arts gave me so many opportunities to sing - patron events, weekend concerts, school performances and operas. I was put through the ringer, constantly stressed out about having to sing but that's really the only way. You have to just do it, a lot.
 
-"My mom's from Palermo, Italy, and my dad is from the States. He was in barbershop quartet. In college he loved musicals. We got all the great American musicals from my dad and from my mom's side, we got all the Italian tunes as well as opera. My dad loves opera as well. That combo meant I was raised with music. 
+"My mom's from Palermo, Italy, and my dad is from the States. He was in barbershop quartet. In college he loved musicals. We got all the great American musicals from my dad and from my mom's side, we got all the Italian tunes as well as opera. My dad loves opera as well. That combo meant I was raised with music.
 
 "Miriam, the youngest sister is the coloratura soprano. She started singing when she was 11 years old and somehow had this voice that was automatically already in opera placement. She would listen to the whole _I Puritani_. She started off the family by getting more intensely into opera. Ginger joined about a year later and she took off immediately. She got into the Lindemann Young Artist program and things picked up for her very quickly. Ginger introduced me to her voice teacher, Bill Schumann, and he saw that there was a talent there and helped foster it. Ginger paved the way as far as making connections with people who are mammoths in the business. Thanks to that, I was able to eventually get into the Academy of Vocal Arts, which really was a springboard for my career. That's the reason I was able to sign with the same agents I have now. I was able to get exposed and learn from great teachers and coaches and become a professional.
 
@@ -40,7 +40,7 @@ American-Italian soprano Marina Costa-Jackson will be singing the title role in 
 
 "Puccini really captured the raw emotionality of a mother. He always wrote his ladies so well but specifically, with Suor Angelica, there's a deep sorrow there that makes it very interesting to portray. Being a mother now, it gives me a new perspective on it. It connects on a deeper level. Frankly it's a very hard aria to get through with dry eyes. It is not just a vocal challenge as far as a role goes but also needs acting chops. I really enjoy that. What helps me best in my character is just throwing myself into the character and not being Marina anymore, being Suor Angelica and focusing on that aspect of it - rather than how Marina is feeling in the moment, which is nervous probably.
 
-"Puccini wrote this role of Suor Angelica perfectly. He wrote the grieving, the deep and utter sadness, and just how devout she is, and at the end, calling on the Madonna to forgive her for the mortal sin of taking her own life. Everything about the way he wrote it is spectacular. Musically, it portrays that eternal divine forgiveness so very well. If anyone there hasn't seen it before, they'll just absolutely fall in love with it and if they have, it'll do pretty much what it probably does most of the times, which is to completely rip out your heart. It is so cathartic and the music has so much beauty. 
+"Puccini wrote this role of Suor Angelica perfectly. He wrote the grieving, the deep and utter sadness, and just how devout she is, and at the end, calling on the Madonna to forgive her for the mortal sin of taking her own life. Everything about the way he wrote it is spectacular. Musically, it portrays that eternal divine forgiveness so very well. If anyone there hasn't seen it before, they'll just absolutely fall in love with it and if they have, it'll do pretty much what it probably does most of the times, which is to completely rip out your heart. It is so cathartic and the music has so much beauty.
 
 "I enjoy debuting new roles. Last year. I debuted two other big Puccini operas, _Tosca_ and _Manon Lescaut_. I was nervous for _Tosca_, but when I got done with it and moved on to _Manon Lescaut_, I realized Puccini is what my voice does really well. I'm not nervous to debut Suor Angelica. I'm in good hands with Puccini.
 
