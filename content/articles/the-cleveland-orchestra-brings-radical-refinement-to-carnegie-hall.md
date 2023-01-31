@@ -11,7 +11,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675133178/m
 primary_image_credit = "Franz Walser-Most, Music Director of the Cleveland Orchestra on the podium at Carnegie Hall. Photo: Roger Mastroianni."
 related_articles = []
 related_companies = []
-related_people = []
+related_people = ["scene/people/daryl-freedman.md", "scene/people/julian-pregardien.md"]
 short_description = "short"
 slug = "the-cleveland-orchesta-brings-radical-refinement-to-carnegie-hall"
 title = "The Cleveland Orchestra brings radical refinement to Carnegie Hall"
@@ -43,7 +43,7 @@ But it was Schubert's seldom-performed Mass No. 6 that brought this reviewer to 
 <figcaption>(l-r) Music Director Franz Welser-Möst, Choral Director Lisa Wong, bass-baritone Dashon Burton, tenors Martin Mitterrutzner and Julian Prégardien, soprano Joélle Harvey and mezzo-soprano Daryl Freedman. Photo: Carnegie Hall, Chris Lee.</figcaption>  
 </figure>
 
-Welser-Möst, who as a frequent opera conductor at the Salzburg Festival, knows a thing or two about voices, brought along a luxurious platoon of singers. Tenors Julian Prégardien and Martin Mitterrutzner, soprano Joélle Harvey, mezzo-soprano Daryl Freedman and bass baritone Dashon Burton were all consistently excellent, largely because the acted more as an ensemble than soloists. With so little to do they emerged as a unified force. One could only wish that Schubert had created more opportunity for the soloists, especially since the Mass lacks lines from the Catholic liturgical mass that usually appear in the Gloria and Credo sections.
+Welser-Möst, who as a frequent opera conductor at the Salzburg Festival, knows a thing or two about voices, brought along a luxurious platoon of singers. Tenors [Julian Prégardien](/scene/people/julian-pregardien/) and [Martin Mitterrutzner](https://www.martinmitterrutzner.com/), soprano [Joélle Harvey](/scene/people/joelle-harvey/), mezzo-soprano [Daryl Freedman](/scene/people/daryl-freedman/) and bass baritone [Dashon Burton](/scene/people/dashon-burton/) were all consistently excellent, largely because the acted more as an ensemble than soloists. With so little to do they emerged as a unified force. One could only wish that Schubert had created more opportunity for the soloists, especially since the Mass lacks lines from the Catholic liturgical mass that usually appear in the Gloria and Credo sections.
 
 An awkward logistical moment, and a minor one to be sure, occurred when Freeman, seated to one side of the podium while her fellow singers were on the other, traded places with Mitterrutzner for vocal effect. Even on Carnegie's vast stage space was tight but when filled with such radically refined music-making, a little maneuvering is easily forgotten.
 
