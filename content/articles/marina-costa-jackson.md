@@ -22,7 +22,7 @@ American-Italian soprano [Marina Costa-Jackson](/scene/people/marina-costa-jacks
 
 ### On singing, stage fright, her sisters, and the pandemic
 
-"I sing because I love the music. I’m not the typical diva because I’ve had to work through some hard-core stage fright. That was the reason I didn't sing up until I was 21 years old. I was raised in a family with sisters who sang as well, [Ginger Costa-Jackson](/scene/people/ginger-costa-jackson/) and [Miriam Costa-Jackson](/scene/people/miriam-costa-jackson/), and they always wanted me to sing. I loved the music and I loved hearing them practice and work hard towards singing and opera.
+"I sing because I love the music. I'm not the typical diva because I’ve had to work through some hard-core stage fright. That was the reason I didn't sing up until I was 21 years old. I was raised in a family with sisters who sang as well, [Ginger Costa-Jackson](/scene/people/ginger-costa-jackson/) and [Miriam Costa-Jackson](/scene/people/miriam-costa-jackson/), and they always wanted me to sing. I loved the music and I loved hearing them practice and work hard towards singing and opera.
 
 "But stage fright was always the reason why I didn't sing. It's been that love of the music that's driven me forward and given me a career. But I've had to work through lots of performance anxiety. You could say I love one aspect and hate the other but the music makes it all worth it.
 
