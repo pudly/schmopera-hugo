@@ -141,17 +141,7 @@ music-making, a little maneuvering is easily forgotten.
 <figcaption>(l-2) Portrait of Franz Schubert by Carl Jager; photograph of Alban Berg by Madame d'Ora.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675133120/media/2023/01/ClevelandOrchestra_DarylFreedman_FranzWelser-Most_ChrisLee_ebhqo2.jpg){{% /md %}}
 
-<figcaption></figcaption>  
-</figure>
-
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>  
-</figure>
-
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>  
+<figcaption>The Cleveland Orchestra and the all-volunteer Chorus of the Cleveland Orchestra with mezzo-soprano Daryl Freedman (seated) and Music Director Franz Welser-Möst. Photo: Carnegie Hall, Chris Lee.</figcaption>  
 </figure>
