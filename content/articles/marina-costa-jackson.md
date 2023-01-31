@@ -41,9 +41,9 @@ American-Italian soprano [Marina Costa-Jackson](/scene/people/marina-costa-jacks
 
 "During the pandemic, a lot of artists out there went without work for a long time. There were lots of things cancelled or rescheduled. This _Suor Angelica_ and _Schicchi_ were rescheduled. COVID made the momentum drop. I was to make my Royal Opera debut, which is now coming in 2024. And also my Paris debut as Mimì. The pandemic stopped the ball rolling for everybody. It was a moment for all artists to rebuild. Sadly, for the ones that felt like it wasn't financially stable enough, they've chosen a different path. I had a baby during that time so I was able as well to enjoy becoming a new mother. The pandemic made us all have to go back a few years and redo auditions and ask ourselves if this is something that we can plausibly continue to do. Thankfully I have been able to and I'm grateful for that, because without music, I think life is just not as good."
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675132106/media/2023/01/MarinaCosta-Jackson_SuzanneVinnik_xfpv1w.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Marina Costa-Jackson, soprano. Photo: Suzanne Vinnik.</figcaption>  
 </figure>
 
 ### On _Suor Angelica_ and _Gianni Schicchi_ at San Diego opera
@@ -56,9 +56,9 @@ American-Italian soprano [Marina Costa-Jackson](/scene/people/marina-costa-jacks
 
 I listen to Renata Scotto singing _Suor Angelica_ as an inspiration and a challenge. She colors it so well, and she's Italian and also so wonderful at her art. My agent is Filippo Anselmi and his mother is Renata Scotto. Every phrase Renata Scotto sings has so much intention. As an Italian speaker myself, I listen to her and I'm inspired to be able to really give every word the value that Puccini and the librettist were trying for with each phrase. I also love the beauty of Renata Tebaldi's tone in this role. She had such an angelic voice. Renata Tebaldi is always a go to for me as well.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675132168/media/2023/01/MarinaCosta-Jackson_w6f9zm.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Marina Costa-Jackson, soprano.</figcaption>  
 </figure>
 
 "_Gianni Schicchi_ is such a fun opera and it’s the perfect opera as an evening closer. It's a great opportunity and a really nice way to mend the hearts of the audience after breaking them in _Suor Angelica_, to leave them with a smile rather than on a downer. . I’m not your typical Lauretta. Usually that's more of a young _ingenue_ role but we're going to have fun with her. It might sound a little bit like Tosca but I can still play her sassy. It's a role I've done before so it'll just be fun to revisit her and sing "O mio babbino caro", which is just beautiful. I feel like every soprano probably has to sing that aria.
