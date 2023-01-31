@@ -28,9 +28,9 @@ American-Italian soprano [Marina Costa-Jackson](/scene/people/marina-costa-jacks
 
 "What helped me get over stage fright is consistent exposure to performing with nerves. Your body chemistry is completely different when you're nervous, with that adrenaline pumping and the cortisol levels.  The Academy of Vocal Arts gave me so many opportunities to sing - patron events, weekend concerts, school performances and operas. I was put through the ringer, constantly stressed out about having to sing but that's really the only way. You have to just do it, a lot.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675131983/media/2023/01/MarinaCosta-Jackson_DarioAcosta_ba86lj.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Marina Costa-Jackson, soprano. Photo: Dario Acosta./figcaption>  
 </figure>
 
 "My mom's from Palermo, Italy, and my dad is from the States. He was in barbershop quartet. In college he loved musicals. We got all the great American musicals from my dad and from my mom's side, we got all the Italian tunes as well as opera. My dad loves opera as well. That combo meant I was raised with music.
