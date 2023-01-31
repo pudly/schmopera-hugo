@@ -28,6 +28,11 @@ American-Italian soprano [Marina Costa-Jackson](/scene/people/marina-costa-jacks
 
 "What helped me get over stage fright is consistent exposure to performing with nerves. Your body chemistry is completely different when you're nervous, with that adrenaline pumping and the cortisol levels.  The Academy of Vocal Arts gave me so many opportunities to sing - patron events, weekend concerts, school performances and operas. I was put through the ringer, constantly stressed out about having to sing but that's really the only way. You have to just do it, a lot.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
 "My mom's from Palermo, Italy, and my dad is from the States. He was in barbershop quartet. In college he loved musicals. We got all the great American musicals from my dad and from my mom's side, we got all the Italian tunes as well as opera. My dad loves opera as well. That combo meant I was raised with music.
 
 "Miriam, the youngest sister is the coloratura soprano. She started singing when she was 11 years old and somehow had this voice that was automatically already in opera placement. She would listen to the whole _I Puritani_. She started off the family by getting more intensely into opera. Ginger joined about a year later and she took off immediately. She got into the Lindemann Young Artist program and things picked up for her very quickly. Ginger introduced me to her voice teacher, Bill Schumann, and he saw that there was a talent there and helped foster it. Ginger paved the way as far as making connections with people who are mammoths in the business. Thanks to that, I was able to eventually get into the Academy of Vocal Arts, which really was a springboard for my career. That's the reason I was able to sign with the same agents I have now. I was able to get exposed and learn from great teachers and coaches and become a professional.
@@ -35,6 +40,11 @@ American-Italian soprano [Marina Costa-Jackson](/scene/people/marina-costa-jacks
 "My sisters and I all have different voice types so we always say God took care of jealousy. The good thing is that all three of us have helped each other, even financially, to come up, get the voice lessons we needed and so on and so forth. Ginger paved the way. When I started winning competitions, I sent money to Miriam. My parents sacrificed every dime in order to get Ginger and all three of us to where we needed to be, technique wise and vocally, flying us here and there. We've learned from each other and we've aided each other. We talk about technique all the time. We're all financially and emotionally invested in each other's singing. My sister’s success is my success, mine is hers and so on and so forth.
 
 "During the pandemic, a lot of artists out there went without work for a long time. There were lots of things cancelled or rescheduled. This _Suor Angelica_ and _Schicchi_ were rescheduled. COVID made the momentum drop. I was to make my Royal Opera debut, which is now coming in 2024. And also my Paris debut as Mimì. The pandemic stopped the ball rolling for everybody. It was a moment for all artists to rebuild. Sadly, for the ones that felt like it wasn't financially stable enough, they've chosen a different path. I had a baby during that time so I was able as well to enjoy becoming a new mother. The pandemic made us all have to go back a few years and redo auditions and ask ourselves if this is something that we can plausibly continue to do. Thankfully I have been able to and I'm grateful for that, because without music, I think life is just not as good."
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
 
 ### On _Suor Angelica_ and _Gianni Schicchi_ at San Diego opera
 
@@ -45,6 +55,11 @@ American-Italian soprano [Marina Costa-Jackson](/scene/people/marina-costa-jacks
 "I enjoy debuting new roles. Last year. I debuted two other big Puccini operas, _Tosca_ and _Manon Lescaut_. I was nervous for _Tosca_, but when I got done with it and moved on to _Manon Lescaut_, I realized Puccini is what my voice does really well. I'm not nervous to debut Suor Angelica. I'm in good hands with Puccini.
 
 I listen to Renata Scotto singing _Suor Angelica_ as an inspiration and a challenge. She colors it so well, and she's Italian and also so wonderful at her art. My agent is Filippo Anselmi and his mother is Renata Scotto. Every phrase Renata Scotto sings has so much intention. As an Italian speaker myself, I listen to her and I'm inspired to be able to really give every word the value that Puccini and the librettist were trying for with each phrase. I also love the beauty of Renata Tebaldi's tone in this role. She had such an angelic voice. Renata Tebaldi is always a go to for me as well.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
 
 "_Gianni Schicchi_ is such a fun opera and it’s the perfect opera as an evening closer. It's a great opportunity and a really nice way to mend the hearts of the audience after breaking them in _Suor Angelica_, to leave them with a smile rather than on a downer. . I’m not your typical Lauretta. Usually that's more of a young _ingenue_ role but we're going to have fun with her. It might sound a little bit like Tosca but I can still play her sassy. It's a role I've done before so it'll just be fun to revisit her and sing "O mio babbino caro", which is just beautiful. I feel like every soprano probably has to sing that aria.
 
