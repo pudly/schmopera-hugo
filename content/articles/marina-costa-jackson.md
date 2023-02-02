@@ -1,18 +1,17 @@
 +++
 author = ["authors/eva-cahen.md"]
 categories = "Interview"
-date = 2023-01-27T05:00:00Z
+date = 2023-02-01T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "[San Diego Opera's double-bill of _Suor Angelica_ and _Gianni Schicchi_](https://www.sdopera.org/shows/suor-schicchi-2022/) runs February 11-19, 2023 at the San Diego Civic Theatre."
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675303536/media/2023/02/sqMarinaCosta-jackson_pzao3m.jpg"
 primary_image_credit = ""
 related_articles = ["articles/reliably-bubbly-belle-hélène-a-delight.md", "articles/carmen.md"]
 related_companies = ["scene/companies/san-diego-opera.md"]
 related_people = ["scene/people/miriam-costa-jackson.md", "scene/people/marina-costa-jackson.md", "scene/people/ginger-costajackson.md"]
-short_description = "short"
+short_description = "\"Puccini really captured the raw emotionality of a mother. He always wrote his ladies so well but specifically, with Suor Angelica, there's a deep sorrow there that makes it very interesting to portray. Being a mother now, it gives me a new perspective on it. It connects on a deeper level. Frankly it's a very hard aria to get through with dry eyes.\""
 slug = "marina-costa-jackson-you-just-have-to-do-it-a-lot"
 title = "Marina Costa-Jackson: \"You just have to do it, a lot.\""
 youtube_url = ""
