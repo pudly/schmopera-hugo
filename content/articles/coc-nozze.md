@@ -32,6 +32,8 @@ The singing though -- _chef's kiss_. For me, the utter standouts were Andrea Car
 
 Emily Fons was Cherubino incarnate; each time I hear her, Fons' voice gets warmer and richer, yet still she has the youth and sparkle that we want out of the insufferable teen boy. She was particularly adorable with Mireille Asselin as Barbarina; you can't really get much bubblier than bouncing curled pigtails, and Asselin creates her own show-stopping moment with her arietta in the last act.
 
+I think it's the casting of Gordon Bintner as the Count that laid out the most interesting psychology of the show. Next to Luca Pisaroni as Figaro -- a gorgeous one at that, with a round, house-filling sound and fab comic timing -- Bintner's Count seemed entirely out of control. We seem to meet him mid-breakdown, where he's having trysts with Susanna behind his wife's back (Susanna seems quite into it, minus the guilt afterward) but also losing his mind over his wife possibly having an affair, and also playing whack-a-mole with his insubordinate servants, and also having a substance abuse problem. When Bintner sing's the Count's famed third-act aria, he does it with Cherubim literally sitting on his shoulders; that's the weight of guilt and lust and jealousy right there, Guth says with a heavy hand.
+
 I thought the dynamic between Figaro and the Count was fascinating in this production. Luca Pisaroni is a gorgeous Figaro, with a round, house-filling sound and a fab sense of humour. 
 
  Carroll's Susanna was total perfection; smart, funny, and 
