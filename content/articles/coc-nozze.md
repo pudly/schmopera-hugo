@@ -32,6 +32,6 @@ The singing though -- _chef's kiss_. For me, the utter standouts were Andrea Car
 
 Emily Fons was Cherubino incarnate; each time I hear her, Fons' voice gets warmer and richer, yet still she has the youth and sparkle that we want out of the insufferable teen boy. She was particularly adorable with Mireille Asselin as Barbarina; you can't really get much bubblier than bouncing curled pigtails, and Asselin creates her own show-stopping moment with her arietta in the last act.
 
-I thought the dynamic between Figaro and the Count was fascinating in this production. Luca Pisaroni is a gorgeous Figaro, with a round, house-filling sound and a fab sense of humour. And Gordon Bintner as the Count was an amazing
+I thought the dynamic between Figaro and the Count was fascinating in this production. Luca Pisaroni is a gorgeous Figaro, with a round, house-filling sound and a fab sense of humour. 
 
  Carroll's Susanna was total perfection; smart, funny, and 
