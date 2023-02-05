@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 Claus Guth's _Nozze di Figaro_ is back at the Canadian Opera Company, and the little winged #$@! disturber is back at his old antics.
 
-This 2011 production, originally for the Salzburg Festival, revels in psychoanalyzing the archetypal characters in Mozart's opera. The psychoanalysis even gets personified in this production: actor Uli Kirsch as Cherubim, the silent addition Guth added that suggests that the plights of Susanna, Figaro, the Count, the Countess, and Cherubino, are pre-destined. 
+This 2011 production, originally for the Salzburg Festival, revels in psychoanalyzing the archetypal characters in Mozart's opera. The psychoanalysis even gets personified in this production: actor Uli Kirsch as Cherubim, the silent addition Guth added that suggests that the plights of Susanna, Figaro, the Count, the Countess, and Cherubino, are pre-destined.
 
 Everything is a symbol in this production, from Cherubim juggling apples (temptation!) to the endless locked doors (locked hearts!) to the dead bird carcass in the foyer (failed seductions?) -- even their house is clearly one where rich people live, but it's dirty and neglected, like the Count and Countess' marriage.
 
@@ -28,4 +28,10 @@ The symbols are neat, and if you're familiar with _Le nozze di Figaro_, Guth's p
 
 Like, I can handle some dramatic symbolism, some commentary on a piece that has enormous wisdom in it; I suppose it's because all the neat little ideas -- Cherubim rides a unicycle! Susanna is _obsessed_ with the Countess' fur coat! Figaro keeps leaping into an open pit in the floor! -- don't ever add up to something that's more profound than what Mozart and Da Ponte gave us.
 
-The singing though -- _chef's kiss_. For me, the utter standouts were Andrea Carroll as Susanna, and Lauren Fagan as the Countess. Carroll
+The singing though -- _chef's kiss_. For me, the utter standouts were Andrea Carroll as Susanna, and Lauren Fagan as the Countess. Fagan delivered moments of actual operatic perfection; her "Porgi amor" was textbook and spilling over with colour, and her "Dove sono" had me rooted to my seat. And Carroll was a stunning Susanna, all whip-smart and funny and, in this production, a completely desirable woman. Her "Deh vieni, non tardar" was the sexiest thing I've ever. heard. in. my. life.
+
+Emily Fons was Cherubino incarnate; each time I hear her, Fons' voice gets warmer and richer, yet still she has the youth and sparkle that we want out of the insufferable teen boy. She was particularly adorable with Mireille Asselin as Barbarina; you can't really get much bubblier than bouncing curled pigtails, and Asselin creates her own show-stopping moment with her arietta in the last act.
+
+I thought the dynamic between Figaro and the Count was fascinating in this production. Luca Pisaroni is a gorgeous Figaro, with a round, house-filling sound and a fab sense of humour. And Gordon Bintner as the Count was an amazing
+
+ Carroll's Susanna was total perfection; smart, funny, and 
