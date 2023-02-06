@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Review"
-date = 2023-02-05T05:00:00Z
+date = 2023-02-06T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "Like, I can handle some dramatic symbolism, some commentary on a piece that has enormous wisdom in it; I suppose it's because all the neat little ideas -- Cherubim rides a unicycle! Susanna is obsessed with the Countess' fur coat! Figaro keeps leaping into an open pit in the floor! -- don't ever add up to something that's more profound than what Mozart and Da Ponte gave us."
-slug = "coc-nozze"
-title = "COC Nozze"
+slug = "the-women-rule-in-cocs-nozze-di-figaro"
+title = "The women rule in COC's Nozze di Figaro"
 youtube_url = ""
 
 +++
@@ -28,7 +28,7 @@ The symbols are neat, and if you're familiar with _Le nozze di Figaro_, Guth's p
 
 Like, I can handle some dramatic symbolism, some commentary on a piece that has enormous wisdom in it; I suppose it's because all the neat little ideas -- Cherubim rides a unicycle! Susanna is _obsessed_ with the Countess' fur coat! Figaro keeps leaping into an open pit in the floor! -- don't ever add up to something that's more profound than what Mozart and Da Ponte gave us.
 
-The singing though -- _chef's kiss_. For me, the utter standouts were Andrea Carroll as Susanna, and Lauren Fagan as the Countess. Fagan delivered moments of actual operatic perfection; her "Porgi amor" was textbook and spilling over with colour, and her "Dove sono" had me rooted to my seat. And Carroll was a stunning Susanna, all whip-smart and funny and, in this production, a completely desirable woman. Her "Deh vieni, non tardar" was the sexiest thing I've ever. heard. in. my. life.
+The singing though -- _chef's kiss_. For me, the utter standouts were Andrea Carroll as Susanna, and Lauren Fagan as the Countess. Fagan delivered moments of actual operatic perfection; her "Porgi amor" was textbook and spilling over with colour, and her "Dove sono" had me rooted to my seat. And Carroll was a stunning Susanna, all whip-smart and funny and, in this production, a completely desirable woman. Her "Deh vieni, non tardar" was the sexiest thing I've ever heard. in. my. life.
 
 Emily Fons was Cherubino incarnate; each time I hear her, Fons' voice gets warmer and richer, yet still she has the youth and sparkle that we want out of the insufferable teen boy. She was particularly adorable with Mireille Asselin as Barbarina; you can't really get much bubblier than bouncing curled pigtails, and Asselin creates her own show-stopping moment with her arietta in the last act.
 
@@ -36,4 +36,4 @@ I think it's the casting of Gordon Bintner as the Count that laid out the most i
 
 It's a bit of a long-haul evening, but there is time well spent on the small roles in this _Nozze_. Megan Latham and Robert Pomakov are hilariously doddering as the aged Marcellina and Bartolo; Michael Colvin is a delightfully sinister Don Basilio; Doug MacNaughton's Antonio is blustering and OCD; and Jacques Arsenault's Don Curzio is wonderfully shrill and very Uncle Fester.
 
-My takeaway: the COC's _Nozze_ boasts world-class singing, and will pique fresh curiosity about this operatic staple. If you're new to _Nozze_, let yourself go along for the ride, and remember that even opera buffs still get confused by the plot. 
+My takeaway: the COC's _Nozze_ boasts world-class singing, and will pique fresh curiosity about this operatic staple. If you're new to _Nozze_, let yourself go along for the ride, and remember that even opera buffs still get confused by the plot.
