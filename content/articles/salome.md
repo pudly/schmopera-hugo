@@ -1,0 +1,43 @@
++++
+author = ["authors/greg.md"]
+categories = "Review"
+date = ""
+disclaimer = ""
+draft = true
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = ""
+primary_image_credit = ""
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "What's always drawn me to Braid on stage is her innate dramaticism. She understands character, nuance, backstory, and everything that an actor's actor loves to see another actor exercise on the stage."
+slug = "salome"
+title = "Salome"
+youtube_url = ""
+
++++
+Hello Schmop-Tops! I've missed you! I've been off doing a few shows and recovering from the dark times, and let me tell you: what a way to come back to the game. 
+
+Opening nights are always something special, no matter what side of the curtain you're on. There's a ton of hard work, sweat, and often tears that go into making a show of any kind. There's an electric buzz in the house - and any performer will tell you we can feel it backstage - that just heightens the magic of the spectacle coming. Closing nights have a somewhat similar vibe. 
+
+I was lucky because basically my first show back on the circuit was opening night of COC's SALOME by Richard Strauss. Acclaimed Canadian director Atom Egoyan helms this production with Johannes Debus leading the show from the pit. 
+
+Richard Strauss's SALOME is an adaptation of Oscar Wilde's 1891 French play of the same title. In it we are told the story of the beheading of John the Baptist (Jochanaan). In Wilde's rendition of the tale, there's a few deviations from what is found in the passages of the bible that deal with the end of the Baptist's life. Salome is being hounded by her step-father Herod and flees to find some solace. This is where she hears the calls of the imprisoned Jochanaan and is overcome with intrigue. Defying Herod's orders she demands to see him and when is brought before her she proceeds to obsess over him. She attempts to seduce him. He spurns and condemns her and she sends him back to his cell. King Herod is schooled in what the Jews think is an actual prophet and debate the matter loudly before the King. Herod turns his attentions back to Salome offering her any reward she wishes if she will dance for him. After much cajoling she agrees. She dances the Dance of Seven Veils for him and he asks for her wish. She demands the head of Jochanaan on a silver platter. 
+
+Since it's an opera, we pretty much know how this is going to go from here. 
+
+Alright let's get into it. SALOME was written for Ambur Braid and I will die on this hill. Yeah, yeah, the opera is over 100 years old and Ambur very much isn't, but I do believe some works are written WELL prior to when the performer it's meant for finds/learns/prepares it. The character of Salome is not an easy one to portray or spend time with, but throw in Strauss's incredible composition (does ANYONE write for sopranos this well?) and it's going to take a special kind of performer to do it justice. Let me tell you, dear reader: Justice. Was. Served. Braid's beautiful instrument is no stranger to the COC stage. I was introduced to her as Adele in DIE FLEDERMAUS what feels like a lifetime ago, and now, for something COMPLETELY different, Braid is still as accomplished a musician as she ever was. Her range is even throughout the massive distance it covers and her manipulation of dark vs. light coloured vowels, often in the same sentence or phrase, is a lesson in word painting. However, what's always drawn me to Braid on stage is her innate dramaticism. She understands character, nuance, backstory, and everything that an actor's actor loves to see another actor exercise on the stage. The journey we go on on with her from her ennui at being accosted regularly by Herod, to her immediate obsession with Jochanaan, and all the various puppet-strings she pulls throughout the show is masterfully dosed out. We don't experience a manic Salome, we see one that has had a tragic past, who is fully aware of the power she possesses and where it comes from. Nor is she afraid to use it. Braid's careful handling of this backstory shows us a Salome with layers other than just a spoiled princess. 
+
+It was my first time seeing and hearing Michael Kupfer-Radecky and I look forward to keeping him on my radar. His Jochanaan was dramatically voiced while not veering the serene baptist into a place of violence or aggression. His characterization remained firmly rooted in fervour and devotion. His steadfastness, a bane for Salome as she tries to seduce him away from his "virtue." We don't see much of Jochanaan. He's onstage for only one scene with Salome but that scene is electric and the music is outstanding. In this moment the audience realizes why he causes such a stir, why the soldiers are leery of him, why Nazarenes show up to vouch for him, and why Herod and the Five Jews really do fear him. It's a great piece of theatre. 
+
+Tenor Michael Schade was in a bit of a new element and I rather enjoyed it. Leaning more into a character tenor, his Herod was well sung and well acted. He was a very convincing Herod, his indulgence and excess on full display in Schade's hands. The relationship between him and his queen felt a little like it was from a classic sitcom a la Married With Children - only with much higher stakes. His work with both Braid and his Herodias - the legendary Karita Mattila - was quite entertaining and his portrayal of Herod's outbursts of panic, allowed him the opportunity to chew up a bit of the scenery and really dig into some great physical acting. Mattila as Herodias was also a striking figure on that stage. Gloriously sung as always, it was the way her passionate support of Salome's choice of reward that built into almost a frenzy the more Salome spurned their relationship. Finally taking the job into her own hands, Herodias is the one to present Salome with her trophy. 
+
+As the Five Jews (First - Owen McCausland, Second - Michael Colvin, Third - Jacques Arsenault, Fourth - Adam Luther, and Fifth - Giles Tomkins) were incredible to watch and hear. The devilish quintet which is known to cause much consternation to a lot of singers and conductors and repetiteurs alike, was carried off thrillingly with the five of them falling over each other not just vocally as Strauss composed but physically that followed the crescendo of their cacophony. The five singers handled the complex ensemble incredibly and it was a highlight of the show for me. Frederic Antoun and Carolyn Sproule (First Soldier and Herodias's Page respectively) sung well and were very compelling as they danced a silent version of Salome's Seduction of Jochanaan. 
+
+The cast is far too large to highlight every performance, everyone listed in the program was on the literal top of their game for this one. I would, however, be remiss if I didn't mention Egoyan's treatment of the Dance of the Seven Veils. As the orchestra figuratively take the stage for a remarkable piece of music, Egoyan chose to juxtapose videography of a young Salome prior to her being jaded and disillusioned and victimized by the world she was born into, with a ballet represented in shadow. The technical production of this part of the show was what really told you this was being directed by a filmmaker and their cohorts. The shadow performers (Clea Minaker and Faye Dupras) were choreographed by Julia Applin after Serge Bennathan's original, were lit by moving high-powered "flashlights" manipulated by performers, and the way the lights would pass off the projection to one-another created a really beautiful cross-fade effect - the kind you would see in a dance montage on film. It was one of the coolest theatre tricks I've seen in a while. 
+
+The score was in good hands with the COC Orchestra under Debus. They brought all the sturm-und-drang you wanted while still being able to play with Strauss's more delicate passages. The design and filmwork, also first-rate quality and execution, along with the orchestra, along with all these great performances on the stage bringing together the music, drama, technical prowess, technological advancement all coming together in this way, makes for an amazing night of theatre - the music is exquisite.
+
+Go see SALOME. It's 100 minutes of some of the best opera you'll see this year.
