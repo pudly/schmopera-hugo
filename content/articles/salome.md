@@ -1,26 +1,25 @@
 +++
 author = ["authors/greg.md"]
 categories = "Review"
-date = ""
+date = 2023-02-07T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
-postamble = ""
+postamble = "Salome runs at the Four Seasons Centre for the Performing Arts for [five more shows](https://www.coc.ca/productions/23495), February 9, 11, 17, 19, and 24, 2023."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675780472/media/2023/02/sqCOCSalome_22-23-04-MC-D-0670_hq4v4l.jpg"
 primary_image_credit = "Ambur Braid as Salome (front) and Karita Mattila as Herodias (back) in the Canadian Opera Company’s production of Salome, 2023, photo: Michael Cooper."
-related_articles = []
+related_articles = ["articles/mewsy-goes-to-the-opera.md", "articles/strange-sensual-energy-salome-at-roh.md"]
 related_companies = []
-related_people = []
+related_people = ["scene/people/carolyn-sproule.md", "scene/people/michael-colvin.md", "scene/people/jacques-arsenault.md", "scene/people/adam-luther.md", "scene/people/giles-tomkins.md", "scene/people/karita-mattila.md", "scene/people/michael-schade.md", "scene/people/owen-mccausland.md", "scene/people/ambur-braid.md"]
 short_description = "What's always drawn me to Braid on stage is her innate dramaticism. She understands character, nuance, backstory, and everything that an actor's actor loves to see another actor exercise on the stage."
-slug = "salome"
-title = "Salome"
+slug = "justice-is-served-in-the-cocs-salome"
+title = "Justice is served in the COC's Salome"
 youtube_url = ""
 
 +++
 Hello Schmop-Tops! I've missed you! I've been off doing a few shows and recovering from the dark times, and let me tell you: what a way to come back to the game.
 
-I was lucky, because basically my first show back on the circuit was opening night of COC's _Salome_. Acclaimed Canadian director Atom Egoyan helms this production with Johannes Debus leading the show from the pit.
+I was lucky, because basically my first show back on the circuit was opening night of [COC's _Salome_](https://www.coc.ca/productions/23495). Acclaimed Canadian director Atom Egoyan helms this production with Johannes Debus leading the show from the pit.
 
 Richard Strauss's _Salome_ is an adaptation of Oscar Wilde's 1891 French play of the same title. In it we are told the story of the beheading of John the Baptist (Jochanaan). Salome is being hounded by her step-father Herod and flees to find some solace. This is where she hears the calls of the imprisoned Jochanaan and is overcome with intrigue. Defying Herod's orders she demands to see him and when is brought before her she proceeds to obsess over him. She attempts to seduce him. He spurns and condemns her and she sends him back to his cell. King Herod is schooled in what the Jews think is an actual prophet and debate the matter loudly before the King. Herod turns his attentions back to Salome offering her any reward she wishes if she will dance for him. After much cajoling she agrees. She dances the Dance of Seven Veils for him and he asks for her wish. She demands the head of Jochanaan on a silver platter.
 
