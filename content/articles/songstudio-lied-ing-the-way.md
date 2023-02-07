@@ -18,25 +18,50 @@ title = "SongStudio: Lied-ing the way"
 youtube_url = ""
 
 +++
-Renee Fleming has been called “the people’s diva,” but her current moniker should be the ‘leader in lieder,’ or even ‘the high priestess of song,’ as a teacher to emerging singers. She has had her hand in a number of mentoring programs, including VOICES at the Kennedy Center in Washington, D.C., and VocalARTS in Aspen, Colorado.  
+Renée Fleming has been called "the people's diva," but her current moniker should be the "leader in lieder," or even "the high priestess of song," as a teacher to emerging singers. She has had her hand in a number of mentoring programs, including VOICES at the Kennedy Center in Washington, D.C., and VocalARTS in Aspen, Colorado.
 
-Since 2017 she has been the guiding force behind SongStudio, presented under the auspices of the Weill Music Institute at Carnegie Hall. Developing artists from all over the world are put through what is described as a “rigorous” audition process with ten pianists and ten vocalists making the final cut. Those lucky and talented few, receive one-on-one lessons from Ms. Fleming during the day for a week, and then master classes at night with other famous singer/musician teachers. The program concludes with a showcase recital at Carnegie’s Zankel Hall. Teachers of the four master classes in the just-concluded 2023 edition of SongStudio, featured soprano Golda Schultz, mezzo Jamie Barton, pianist Hartmut Holl and Ms. Fleming herself. This reporter was able to attend the master classes by Ms. Fleming and Ms. Barton and the concluding concert.  (The students also receive some instruction on how to market and produce their work.)
+Since 2017 she has been the guiding force behind [SongStudio](https://www.carnegiehall.org/Education/Programs/Workshops/Song-Studio), presented under the auspices of the Weill Music Institute at Carnegie Hall. Developing artists from all over the world are put through what is described as a "rigorous" audition process with ten pianists and ten vocalists making the final cut. Those lucky and talented few, receive one-on-one lessons from Ms. Fleming during the day for a week, and then master classes at night with other famous singer/musician teachers. The program concludes with a showcase recital at Carnegie's Zankel Hall. Teachers of the four master classes in the just-concluded 2023 edition of SongStudio, featured soprano Golda Schultz, mezzo Jamie Barton, pianist Hartmut Holl and Ms. Fleming herself. This reporter was able to attend the master classes by Ms. Fleming and Ms. Barton and the concluding concert.  (The students also receive some instruction on how to market and produce their work.)
+
+<figure data-type-"image"> {{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
 
 Since announcing her retirement from staged works (though she returned recently to the Met for the new opera, The Hours,) Ms. Fleming has toured the world in concert with programs consisting almost entirely of art songs. (In her master class, she told the audience that she prefers dropping the ‘art’ and just referring to the programming as ‘song.’) Half of her concert in Los Angeles (reviewed here 2/8/18), was devoted to German lieder, by Brahms. Upcoming concerts, where she will be accompanied by Evgeny Kissin, promise to have some focus on Russian music, including the prolific songwriter Sergei Rachmaninoff. Unlike opera, which has a large but finite canon, song is, in Ms. Fleming’s words, “infinite,” as there are countless songs in many languages which have already been written, with countless numbers to come.
 
 While opera can offer visual theatricality and a variety of voices, recitals of song (set to poetry,) rely on the talents of a solo singer, pianist and poet. Good poetry, by its very nature, can be filled with layers that only multiple readings can peel away. In song, the performer gets only one chance to convey the meaning. SongStudio offers the kind of training to help them get there.
 
+<figure data-type-"image"> {{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
 More than anything, Ms. Fleming and Ms. Barton blanketed their students with encouragement and positivity. She acknowledges that singing this kind of music is difficult and exhausting. But Ms. Fleming said singers should never tell themselves “don’t do that” when making mistakes or failing challenges (such as a mezzo having to hit an A or a tenor hitting a B-flat.)  She assured them that they will develop muscle memory to overcome chronic problems. “Singers don’t have psychologists like sports figures,” she said, and they can only overcome by ruminating and wrestling with these things in the practice room.” (Sitting in the practice room at Carnegie Hall one is reminded of the old joke about “how to get here.”)
 
 Singers try too hard, often pushing too much air into a phrase or attempting to “hold” their voices to maintain control. One singer was shaking, holding on during a long, sustained note. Ms. Barton taught that the key was actually freedom – letting go. And Ms. Fleming reminded them that success was actually counterintuitive – when it’s really good, it actually sounds smaller in your ear and so you think it’s wrong but you have to trust that it’s right.
+
+<figure data-type-"image"> {{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
 
 Ms. Fleming also gave helpful tips to the accompanists. During a Rachmaninoff piece, she told the pianist that Russian music must always have a ‘deeper’ quality and that even the marking in sheet music of ‘piano’ (as in ‘softly’,) is never completely "piano." (Note: the accompanists they have chosen for this program were clearly the best of the best candidates.)
 
 The SongStudio students chose their own material, and while both Ms. Fleming and Ms. Barton helped with technique and what Ms. Fleming referred to as ‘diva secrets,’ they both emphasized “storytelling” for each piece. The musical complexity and difficulty of many of the compositions naturally skew singers toward the notes, but as Ms. Barton put it, “strip away the score and remember what you’re saying.” Make audiences “hang on phrases,” wondering “what will happen next?” Ms. Fleming also encouraged the singers to animate the songs through the use of their faces and bodies, and to remember to give the songs “colors,” because the composers and poets were more like “painters.” She also encouraged the students to find a “personal connection” to the songs and to not be afraid of being “vulnerable.”
 
+<figure data-type-"image"> {{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
 Over the centuries, songs have been written in many languages. At SongStudio alone, you had German, Norwegian, Belgian, Spanish, Russian, French and English represented. The singers and pianists themselves represented no less than twelve countries. Many of the singers were multi-linguists – one of whom spoke seven languages. The training in this area was impressive – how remarkable, for example, to see a native Brazilian (baritone Vinicius Costa) sing with perfect German diction. It’s a big challenge, as Ms. Fleming pointed out, “to bring a language to life that isn’t your own.” Ms. Fleming’s favorite language to sing is French, and she taught her students to not “under-pronounce” – to “exaggerate the elegance of the language” and “explore each syllable.” Ms. Barton is a lover of German, and marvels at how there are “multiple expressions describing everything.”
 
 Though worldly in language, the themes of the songs here were quite similar. They abounded with references to the beauty of nature, often describing in detail meadows, rivers, flowers and trees, and the simple life of those who live in the pastoral world. Some of the songs are very sexy, such as “Heimlich Aufforderung” by Strauss, where a lover flirts at a dinner party while eating and drinking, and looks forward to leaving the party discreetly for an assignation in the garden.
+
+<figure data-type-"image"> {{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
 
 Love and lovemaking are a constant as are death and sadness, which frequently lurk beneath happier imagery. Ms. Fleming wondered why so many songs, especially folk songs, are so somber – she was told once that the sad songs give us “practice” so that we are able to deal with real tragedy when it comes our way.
 
