@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675780472/media/2023/02/sqCOCSalome_22-23-04-MC-D-0670_hq4v4l.jpg"
-primary_image_credit = ""
+primary_image_credit = "Ambur Braid as Salome (front) and Karita Mattila as Herodias (back) in the Canadian Opera Company’s production of Salome, 2023, photo: Michael Cooper."
 related_articles = []
 related_companies = []
 related_people = []
@@ -28,18 +28,18 @@ Since it's an opera, we pretty much know how this is going to go from here.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675780529/media/2023/02/COCsalome_22-23-04-MC-D-0094_ci7ne7.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Ambur Braid as Salome (top left), Michael Kupfer-Radecky as Jochanaan (below), and Frédéric Antoun as Narraboth (top right) in the Canadian Opera Company’s production of Salome, 2023, photo: Michael Cooper.</figcaption>  
 </figure>
 
-Alright let's get into it. _Salome_ was written for [Ambur Braid](/scene/people/ambur-braid/) and I will die on this hill. The opera is over 100 years old and Ambur very much isn't, but I do believe some works are written well prior to when the performer it's meant for finds/learns/prepares it. The character of Salome is not an easy one to portray or spend time with, but throw in Strauss's incredible composition (does _anyone_ write for sopranos this well?) and it's going to take a special kind of performer to do it justice. 
+Alright let's get into it. _Salome_ was written for [Ambur Braid](/scene/people/ambur-braid/) and I will die on this hill. The opera is over 100 years old and Ambur very much isn't, but I do believe some works are written well prior to when the performer it's meant for finds/learns/prepares it. The character of Salome is not an easy one to portray or spend time with, but throw in Strauss's incredible composition (does _anyone_ write for sopranos this well?) and it's going to take a special kind of performer to do it justice.
 
-Let me tell you, dear reader: Justice. Was. Served. Braid's beautiful instrument is no stranger to the COC stage. I was introduced to her as Adele in _Die Fledermaus_ what feels like a lifetime ago, and now, for something completely different, Braid is still as accomplished a musician as she ever was. Her range is even throughout the massive distance it covers and her manipulation of dark- versus light-coloured vowels, often in the same sentence or phrase, is a lesson in word painting. 
+Let me tell you, dear reader: Justice. Was. Served. Braid's beautiful instrument is no stranger to the COC stage. I was introduced to her as Adele in _Die Fledermaus_ what feels like a lifetime ago, and now, for something completely different, Braid is still as accomplished a musician as she ever was. Her range is even throughout the massive distance it covers and her manipulation of dark- versus light-coloured vowels, often in the same sentence or phrase, is a lesson in word painting.
 
 However, what's always drawn me to Braid on stage is her innate dramaticism. She understands character, nuance, backstory, and everything that an actor's actor loves to see another actor exercise on the stage. The journey we go on on with her from her _ennui_ at being accosted regularly by Herod, to her immediate obsession with Jochanaan, and all the various puppet-strings she pulls throughout the show is masterfully dosed out. We don't experience a manic Salome, we see one that has had a tragic past, who is fully aware of the power she possesses and where it comes from. Nor is she afraid to use it. Braid's careful handling of this backstory shows us a Salome with layers other than just a spoiled princess.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675780554/media/2023/02/COCsalome_Orcha-22-23-04-MC-D-1112_a6kgb2.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Ambur Braid as Salome (centre) in the Canadian Opera Company’s production of Salome, 2023, photo: Michael Cooper.</figcaption>  
 </figure>
 
 It was my first time seeing and hearing Michael Kupfer-Radecky and I look forward to keeping him on my radar. His Jochanaan was dramatically voiced while not veering the serene Baptist into a place of violence or aggression. His characterization remained firmly rooted in fervour and devotion. His steadfastness, a bane for Salome as she tries to seduce him away from his "virtue." We don't see much of Jochanaan. He's onstage for only one scene with Salome but that scene is electric and the music is outstanding. In this moment the audience realizes why he causes such a stir, why the soldiers are leery of him, why Nazarenes show up to vouch for him, and why Herod and the Five Jews really do fear him. It's a great piece of theatre.
@@ -48,28 +48,28 @@ Tenor [Michael Schade](/scene/people/michael-schade/) was in a bit of a new elem
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675780650/media/2023/02/COCsalome_22-23-04-MC-D-0270_gle4y1.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Michael Schade as Herod and Karita Mattila as Herodias in the Canadian Opera Company’s production of Salome, 2023, photo: Michael Cooper.</figcaption>  
 </figure>
 
 As the Five Jews (Owen McCausland, Michael Colvin, Jacques Arsenault, Adam Luther, and Giles Tomkins) were incredible to watch and hear. The devilish quintet which is known to cause much consternation to a lot of singers and conductors and repetiteurs alike, was carried off thrillingly with the five of them falling over each other not just vocally as Strauss composed but physically that followed the crescendo of their cacophony. The five singers handled the complex ensemble incredibly and it was a highlight of the show for me. [Frédéric Antoun](/scene/people/frederic-antoun/) and [Carolyn Sproule](/scene/people/carolyn-sproule/) (Narraboth and Herodias's Page respectively) sung well and were very compelling as they danced a silent version of Salome's seduction of Jochanaan.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675780634/media/2023/02/22-23-04-MC-D-0359_c8o0dn.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>A scene from the Canadian Opera Company’s production of Salome, 2023, photo: Michael Cooper.</figcaption>  
 </figure>
 
 The cast is far too large to highlight every performance, everyone listed in the program was on the literal top of their game for this one. I would, however, be remiss if I didn't mention Egoyan's treatment of the Dance of the Seven Veils. As the orchestra figuratively take the stage for a remarkable piece of music, Egoyan chose to juxtapose videography of a young Salome prior to her being jaded and disillusioned and victimized by the world she was born into, with a ballet represented in shadow. The technical production of this part of the show was what really told you this was being directed by a filmmaker and their cohorts. The shadow performers (Clea Minaker and Faye Dupras) were choreographed by Julia Applin after Serge Bennathan's original, were lit by moving high-powered "flashlights" manipulated by performers, and the way the lights would pass off the projection to one-another created a really beautiful cross-fade effect - the kind you would see in a dance montage on film. It was one of the coolest theatre tricks I've seen in a while.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675780576/media/2023/02/COCsalome_22-23-04-MC-D-0461-0459_khr2to.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>A scene from the Canadian Opera Company’s production of Salome, 2023, photo: Michael Cooper.</figcaption>  
 </figure>
 
 The score was in good hands with the COC Orchestra under Debus. They brought all the Sturm-und-Drang you wanted while still being able to play with Strauss's more delicate passages. The design and filmwork, also first-rate quality and execution, along with the orchestra, along with all these great performances on the stage bringing together the music, drama, technical prowess, technological advancement all coming together in this way, makes for an amazing night of theatre - the music is exquisite.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675780539/media/2023/02/COCsalome_22-23-04-MC-D-0200_qpfvg5.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Ambur Braid as Salome (top) and Michael Kupfer-Radecky as Jochanaan (below) in the Canadian Opera Company’s production of Salome, 2023, photo: Michael Cooper.</figcaption>  
 </figure>
 
 Go see _Salome_. It's 100 minutes of some of the best opera you'll see this year.
