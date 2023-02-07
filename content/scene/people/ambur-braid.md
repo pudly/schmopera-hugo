@@ -2,10 +2,10 @@
 date = "2015-04-06T20:07:00+01:00"
 discipline = "Soprano"
 lastmod = "2017-03-15T12:15:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442764751086/AmburBraid-pc-HeleneCyrResized.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675780969/media/2023/02/AmburBraid_AnyaShor_ybszgm.jpg"
 primary_image_credit = "Andrea Joynt"
 publishDate = "2015-04-06T20:07:00+01:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/opera-atelier.md","scene/companies/saskatoon-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/arizona-opera.md"]
+related_companies = ["scene/companies/oper-frankfurt.md", "scene/companies/canadian-opera-company.md", "scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/opera-atelier.md", "scene/companies/saskatoon-opera.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/arizona-opera.md"]
 slug = "ambur-braid"
 title = "Ambur Braid"
 website = "http://amburbraid.com/"
@@ -17,14 +17,16 @@ url = "https://www.facebook.com/AmburBraidCanadianSoprano"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MsAmburBraid"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/msamburbraid/"
+
 +++
+A series of sensational debuts have highlighted Canadian soprano Ambur Braid as a ​‘revelation’ (Das Opernmagazin, 2022). From Eva in Schreker’s _Irrelohe_ for Opéra de Lyon to Salome in Barrie Kosky’s production for Oper Frankfurt, her sumptuous voice and enigmatic stage presence continue to leave a striking impression on audiences and critics alike.
 
-Canadian soprano Ambur Braid is quickly establishing herself as an artist to watch and can “deliver the trifecta of crystalline high notes, blissfully graceful vocal cadenzas and deep emotional intensity” in the dramatic coloratura soprano roles she portrays (Toronto Star).
+This season, Ambur Braid makes her European debut as Tosca in Andreas Kriegenburg’s production conducted by Carlo Montanaro for Oper Frankfurt, where she is a current member of the ensemble. Elsewhere, Ambur Braid returns to the Canadian Opera Company as Salome in Atom Egoyan’s production under Johannes Debus.
 
-In the 2016-2017 season, Ambur Braid returns to the Canadian Opera Company as the Queen of the Night in *Die Zauberflöte* conducted by Bernard Labadie and Dalinda in Richard Jones’s production of *Ariodante* conducted by Johannes Debus. She also makes her German debut as the Queen of the Night at Oper Frankfurt. Ms. Braid recently made her UK debut as a formidable Queen of the Night in Simon McBurney's production of *The Magic Flute* at the English National Opera, a role she also sang for Calgary Opera. She debuted at Teatro de São Carlos in Lisbon as Anne Truelove in a new production of *The Rake's Progress* conducted by Joana Carneiro.
+Praised as an artist ​‘one would always wish for but seldom find’ (Das Opernglas), recent highlights have included Ambur Braid’s role and company debuts as both Eva in Schreker’s _Irrelohe_ for Opéra de Lyon and Stephana in Umberto Giordano’s rarely performed _Siberia_ for the Bregenzer Festspiele. In Frankfurt Ambur Braid has recently given her first performances as Norma conducted by Erik Nielsen, as well as Ariadne (_Ariadne auf Naxos_) under Thomas Guggeis. Recent concert highlights have included Schmitt’s _La Tragédie de Salomé_with Frankfurt Radio Symphony Orchestra under Alain Altinoglu and Beethoven’s Symphony No.9 with National Arts Centre Orchestra, Ottawa.
 
-Ms. Braid debuted the role of Konstanze in *Die Entführung aus dem Serail* at Opéra Atelier and Violetta in *La traviata* at Arizona Opera in recent seasons. She has covered the role of Elisabetta in Donizetti’s *Roberto Devereux* and the title role in *Semele* at the Canadian Opera Company. In her final season as a member of the ensemble at the Canadian Opera Company, Ms. Braid was seen in Christopher Alden’s new production of *Die Fledermaus* as Adele in which the Toronto Star called her “sexy, sparky, sensational.” and performed the role of Vitellia in the Ensemble Studio performance of *La clemenza di Tito*. 
-
-Other recent performances include the role of Stella in *Les contes d’Hoffmann* and she sang the title role in Handel’s *Semele* in the COC Ensemble Studio performance. She covered the role of Clémence in Kaija Saariaho’s *L’amour de loin* at the Canadian Opera Company and sang Queen of the Night in *Die Zauberflöte* at Opéra Atelier. Other recent appearances with the Canadian Opera Company include Amore in *Orfeo ed Euridice*, The Greek Woman in *Iphigénie en Tauride*, and the Danish Lady in *Death in Venice*. 
-
-Ms. Braid received degrees from the Glenn Gould School of the Royal Conservatory of Music and San Francisco Conservatory of Music. Her awards include the East Bay Opera Competition, San Francisco Conservatory Concerto Competition, and Palm Beach Opera Competition. 
+Ambur Braid has received degrees from the Glenn Gould School of the Royal Conservatory of Music in Toronto and San Francisco Conservatory and is a studio alumna and former ensemble member of the Canadian Opera Company.
