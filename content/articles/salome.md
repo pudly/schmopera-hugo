@@ -26,7 +26,7 @@ Richard Strauss's _Salome_ is an adaptation of Oscar Wilde's 1891 French play of
 
 Since it's an opera, we pretty much know how this is going to go from here.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675780554/media/2023/02/COCsalome_Orcha-22-23-04-MC-D-1112_a6kgb2.jpg){{% /md %}}
 
 <figcaption></figcaption>  
 </figure>
@@ -37,7 +37,7 @@ Let me tell you, dear reader: Justice. Was. Served. Braid's beautiful instrument
 
 However, what's always drawn me to Braid on stage is her innate dramaticism. She understands character, nuance, backstory, and everything that an actor's actor loves to see another actor exercise on the stage. The journey we go on on with her from her _ennui_ at being accosted regularly by Herod, to her immediate obsession with Jochanaan, and all the various puppet-strings she pulls throughout the show is masterfully dosed out. We don't experience a manic Salome, we see one that has had a tragic past, who is fully aware of the power she possesses and where it comes from. Nor is she afraid to use it. Braid's careful handling of this backstory shows us a Salome with layers other than just a spoiled princess.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675780576/media/2023/02/COCsalome_22-23-04-MC-D-0461-0459_khr2to.jpg){{% /md %}}
 
 <figcaption></figcaption>  
 </figure>
@@ -46,7 +46,7 @@ It was my first time seeing and hearing Michael Kupfer-Radecky and I look forwar
 
 Tenor [Michael Schade](/scene/people/michael-schade/) was in a bit of a new element and I rather enjoyed it. Leaning more into a character tenor, his Herod was well sung and well acted. He was a very convincing Herod, his indulgence and excess on full display in Schade's hands. The relationship between him and his queen felt a little like it was from a classic sitcom à-la-_Married With Children_ -- only with much higher stakes. His work with both Braid and his Herodias -- the legendary Karita Mattila -- was quite entertaining and his portrayal of Herod's outbursts of panic, allowed him the opportunity to chew up a bit of the scenery and really dig into some great physical acting. Mattila as Herodias was also a striking figure on that stage. Gloriously sung as always, it was the way her passionate support of Salome's choice of reward that built into almost a frenzy the more Salome spurned their relationship. Finally taking the job into her own hands, Herodias is the one to present Salome with her trophy.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675780529/media/2023/02/COCsalome_22-23-04-MC-D-0094_ci7ne7.jpg){{% /md %}}
 
 <figcaption></figcaption>  
 </figure>
@@ -55,7 +55,7 @@ As the Five Jews (Owen McCausland, Michael Colvin, Jacques Arsenault, Adam Luthe
 
 The cast is far too large to highlight every performance, everyone listed in the program was on the literal top of their game for this one. I would, however, be remiss if I didn't mention Egoyan's treatment of the Dance of the Seven Veils. As the orchestra figuratively take the stage for a remarkable piece of music, Egoyan chose to juxtapose videography of a young Salome prior to her being jaded and disillusioned and victimized by the world she was born into, with a ballet represented in shadow. The technical production of this part of the show was what really told you this was being directed by a filmmaker and their cohorts. The shadow performers (Clea Minaker and Faye Dupras) were choreographed by Julia Applin after Serge Bennathan's original, were lit by moving high-powered "flashlights" manipulated by performers, and the way the lights would pass off the projection to one-another created a really beautiful cross-fade effect - the kind you would see in a dance montage on film. It was one of the coolest theatre tricks I've seen in a while.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675780539/media/2023/02/COCsalome_22-23-04-MC-D-0200_qpfvg5.jpg){{% /md %}}
 
 <figcaption></figcaption>  
 </figure>
