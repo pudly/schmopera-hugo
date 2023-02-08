@@ -24,7 +24,7 @@ Since 2017 she has been the guiding force behind [SongStudio](https://www.carneg
 
 <figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824214/media/2023/02/Carnegie_Sun_CH11305106_rhldnt.jpg){{% /md %}}
 
-<figcaption>Zhuohan Sun, Tenor and Yuriko Watanabe, Piano, in masterclass with Renée Fleming, Weill Music Room, New York, February 2, 2023. Photo: Fadi Kheir.</figcaption>  
+<figcaption>Tenor Zhuohan Sun and pianist Yuriko Watanabe in masterclass with Renée Fleming, Weill Music Room, New York, February 2, 2023. Photo: Fadi Kheir.</figcaption>  
 </figure>
 
 Since announcing her retirement from staged works (though she returned recently to the Met for the new opera, _The Hours_) Ms. Fleming has toured the world in concert with programs consisting almost entirely of art songs. (In her master class, she told the audience that she prefers dropping the "art" and just referring to the programming as "song.") Half of her concert in Los Angeles ([reviewed here 2/8/18](/heavenly-voice-visits-the-city-of-angels/)), was devoted to German lieder, by Brahms. Upcoming concerts, where she will be accompanied by Evgeny Kissin, promise to have some focus on Russian music, including the prolific songwriter Sergei Rachmaninoff. Unlike opera, which has a large but finite canon, song is, in Ms. Fleming’s words, "infinite," as there are countless songs in many languages which have already been written, with countless numbers to come.
@@ -72,9 +72,9 @@ Two mezzos were the stars of the evening. Shannon Keegan programmed for herself 
 
 Likewise, mezzo Maire Therese Carmack effectively used every tool at her disposal. In the song "Animal Passion" by Jake Heggie, she used the piano to lean or pose suggestively to interpret the highly sexual imagery of poet Gini Savage, who describes the desire for a passionate love as frenzied and free as a wild cat. (Credit for some clever lyrics such as "let the voyeurs voyent.") Her other piece, "Befreit" ("Released") by Richard Strauss, was set to the text of Richard Dehmel, whose poems inspired songs by many German composers. Animating her face and body, as per the master class instructions, Ms. Carmack easily navigated the deliberate contradictions of the words. While the theme is death, the singer must also convey the joy that will come from it – literally, "O, Gluck" ("O, joy.") She built the dramatic tension of the song, ending with a long, stirring final note. Ms. Carmack has many opera credits and even prior to SongStudio, she clearly had some performance training.
 
-<figure data-type-"image"> {{% md %}}{{% /md %}}
+<figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824355/media/2023/02/Carnegie_Wajnberg_CH11305215_evrwui.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Soprano Charlotte Wajnberg and pianist Aaron Wajnberg, SongStudio Young Artists Recital , Zankel Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
 </figure>
 
 The same can be said for Belgian soprano Charlotte Wajnberg, accompanied by her husband Aaron Wajnberg. Again, you can see the seasoned actor who has appeared in a number of operas, rather than a career of recitals.
