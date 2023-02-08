@@ -29,18 +29,18 @@ Since 2017 she has been the guiding force behind [SongStudio](https://www.carneg
 
 Since announcing her retirement from staged works (though she returned recently to the Met for the new opera, _The Hours_) Ms. Fleming has toured the world in concert with programs consisting almost entirely of art songs. (In her master class, she told the audience that she prefers dropping the "art" and just referring to the programming as "song.") Half of her concert in Los Angeles ([reviewed here 2/8/18](/heavenly-voice-visits-the-city-of-angels/)), was devoted to German lieder, by Brahms. Upcoming concerts, where she will be accompanied by Evgeny Kissin, promise to have some focus on Russian music, including the prolific songwriter Sergei Rachmaninoff. Unlike opera, which has a large but finite canon, song is, in Ms. Fleming’s words, "infinite," as there are countless songs in many languages which have already been written, with countless numbers to come.
 
-<figure data-type-"image"> {{% md %}}{{% /md %}}
+<figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824592/media/2023/02/Carnegie_Hadetsyy_CH11305217_gd8p02.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Baritone Yuriy Hadzetskyy and pianist You Zhao, SongStudio Young Artists Recital, Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
 </figure>
 
 More than anything, Ms. Fleming and Ms. Barton blanketed their students with encouragement and positivity. She acknowledges that singing this kind of music is difficult and exhausting. But Ms. Fleming said singers should never tell themselves "don't do that" when making mistakes or failing challenges (such as a mezzo having to hit an A or a tenor hitting a B-flat.)  She assured them that they will develop muscle memory to overcome chronic problems. "Singers don't have psychologists like sports figures," she said, and they can only overcome by ruminating and wrestling with these things in the practice room. (Sitting in the practice room at Carnegie Hall one is reminded of the old joke about "how to get here.")
 
 Singers try too hard, often pushing too much air into a phrase or attempting to "hold" their voices to maintain control. One singer was shaking, holding on during a long, sustained note. Ms. Barton taught that the key was actually freedom – letting go. And Ms. Fleming reminded them that success was actually counterintuitive – when it's really good, it actually sounds smaller in your ear and so you think it's wrong but you have to trust that it's right.
 
-<figure data-type-"image"> {{% md %}}{{% /md %}}
+<figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824864/media/2023/02/Carnegie_Rognerud_CH11305211_Fotor_lqzls0.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Soprano Eirin Rognerud and pianist Malte Schäfer, SongStudio Young Artists Recital, Zanker Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
 </figure>
 
 Ms. Fleming also gave helpful tips to the accompanists. During a Rachmaninoff piece, she told the pianist that Russian music must always have a "deeper" quality and that even the marking in sheet music of "piano" (as in "softly") is never completely "piano." (Note: the accompanists they have chosen for this program were clearly the best of the best candidates.)
