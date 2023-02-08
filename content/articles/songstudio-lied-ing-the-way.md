@@ -29,11 +29,6 @@ Since 2017 she has been the guiding force behind [SongStudio](https://www.carneg
 
 Since announcing her retirement from staged works (though she returned recently to the Met for the new opera, _The Hours_) Ms. Fleming has toured the world in concert with programs consisting almost entirely of art songs. (In her master class, she told the audience that she prefers dropping the "art" and just referring to the programming as "song.") Half of her concert in Los Angeles ([reviewed here 2/8/18](/heavenly-voice-visits-the-city-of-angels/)), was devoted to German lieder, by Brahms. Upcoming concerts, where she will be accompanied by Evgeny Kissin, promise to have some focus on Russian music, including the prolific songwriter Sergei Rachmaninoff. Unlike opera, which has a large but finite canon, song is, in Ms. Fleming’s words, "infinite," as there are countless songs in many languages which have already been written, with countless numbers to come.
 
-<figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824592/media/2023/02/Carnegie_Hadetsyy_CH11305217_gd8p02.jpg){{% /md %}}
-
-<figcaption>Baritone Yuriy Hadzetskyy and pianist You Zhao, SongStudio Young Artists Recital, Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
-</figure>
-
 More than anything, Ms. Fleming and Ms. Barton blanketed their students with encouragement and positivity. She acknowledges that singing this kind of music is difficult and exhausting. But Ms. Fleming said singers should never tell themselves "don't do that" when making mistakes or failing challenges (such as a mezzo having to hit an A or a tenor hitting a B-flat.)  She assured them that they will develop muscle memory to overcome chronic problems. "Singers don't have psychologists like sports figures," she said, and they can only overcome by ruminating and wrestling with these things in the practice room. (Sitting in the practice room at Carnegie Hall one is reminded of the old joke about "how to get here.")
 
 Singers try too hard, often pushing too much air into a phrase or attempting to "hold" their voices to maintain control. One singer was shaking, holding on during a long, sustained note. Ms. Barton taught that the key was actually freedom – letting go. And Ms. Fleming reminded them that success was actually counterintuitive – when it's really good, it actually sounds smaller in your ear and so you think it's wrong but you have to trust that it's right.
@@ -56,16 +51,16 @@ Over the centuries, songs have been written in many languages. At SongStudio alo
 
 Though worldly in language, the themes of the songs here were quite similar. They abounded with references to the beauty of nature, often describing in detail meadows, rivers, flowers and trees, and the simple life of those who live in the pastoral world. Some of the songs are very sexy, such as "Heimlich Aufforderung" by Strauss, where a lover flirts at a dinner party while eating and drinking, and looks forward to leaving the party discreetly for an assignation in the garden.
 
-<figure data-type-"image"> {{% md %}}{{% /md %}}
+<figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675825021/media/2023/02/Carnegie_Costa_CH11305197_bnornh.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Bass-baritone Vinícius Costa and pianist Hikaru Kanki, SongStudio Young Artists Recital, Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
 </figure>
 
 In the final concert, it was the women who seemed to incorporate what they had learned and had the most effective performances. They presented the drama and comedy of the stories they were telling and used everything they had to get there, not just their well-oiled vocal chords. And while tenor Zhuohan Sun and baritone Yuriy Hadzetskyy exhibited vocal perfection (and Hadzetskyy in particular had a tremendous presence,) they seemed only slightly less uncomfortable then they were in the practice room. The same went for all the men, none of whom seemed quite sure what to do with their arms. Hadzetskyy could only match his expressive voice with his left hand.
 
-<figure data-type-"image"> {{% md %}}{{% /md %}}
+<figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824592/media/2023/02/Carnegie_Hadetsyy_CH11305217_gd8p02.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Baritone Yuriy Hadzetskyy and pianist You Zhao, SongStudio Young Artists Recital, Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
 </figure>
 
 Two mezzos were the stars of the evening. Shannon Keegan programmed for herself a mini-concert, Franz Schubert’s "Der Einsame," and Samuel Barber's "The Desire for Hermitage," with both songs exploring the happiness and sadness of finding oneself alone. Ms. Keegan is a tremendous vocalist, but proved herself to be an actress as well, able to find her way believably and honestly into the deep feelings in the text. At one point, during a piano interlude, she turned her back to the audience and looked down at the keyboard as if it were another character on stage with her.  In her class with Ms. Barton, Ms. Keegan laughed about her "musical theatre me," but she obviously got her acting chops from somewhere, and if it was musical theatre then it's nothing to laugh off. Next time, SongStudio might want to include an actual acting class as part of its master class week.
