@@ -1,15 +1,14 @@
 +++
 author = ["authors/loren-lester.md"]
 categories = "Review"
-date = 2023-02-07T05:00:00Z
+date = 2023-02-08T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675825296/media/2023/02/sqCarnegie_Sun_banner_CH11305206_xy2a2e.jpg"
 primary_image_credit = "Tenor Zhuohan Sun and pianist Yuriko Watanabe, SongStudio Young Artists Recital, Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor."
-related_articles = []
+related_articles = ["articles/the-met-s-at-home-gala.md", "articles/renee-fleming-brings-a-new-luster-to-dumbarton-oaks.md"]
 related_companies = []
 related_people = []
 short_description = "If opera can be seen as a circle struggling to widen the circumference of its audience, concerts consisting of song alone are a much smaller and much more esoteric circle. Ms. Fleming is trying to change that and is currently devoting her life to ensuring that there will be at least one more generation of song artists. "
