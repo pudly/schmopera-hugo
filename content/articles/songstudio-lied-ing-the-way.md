@@ -21,7 +21,7 @@ Renée Fleming has been called "the people's diva," but her current moniker shou
 
 Since 2017 she has been the guiding force behind [SongStudio](https://www.carnegiehall.org/Education/Programs/Workshops/Song-Studio), presented under the auspices of the Weill Music Institute at Carnegie Hall. Developing artists from all over the world are put through what is described as a "rigorous" audition process with ten pianists and ten vocalists making the final cut. Those lucky and talented few, receive one-on-one lessons from Ms. Fleming during the day for a week, and then master classes at night with other famous singer/musician teachers. The program concludes with a showcase recital at Carnegie's Zankel Hall. Teachers of the four master classes in the just-concluded 2023 edition of SongStudio, featured soprano Golda Schultz, mezzo Jamie Barton, pianist Hartmut Holl and Ms. Fleming herself. This reporter was able to attend the master classes by Ms. Fleming and Ms. Barton and the concluding concert.  (The students also receive some instruction on how to market and produce their work.)
 
-<figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824214/media/2023/02/Carnegie_Sun_CH11305106_rhldnt.jpg){{% /md %}}
+<figure data-type="image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824214/media/2023/02/Carnegie_Sun_CH11305106_rhldnt.jpg){{% /md %}}
 
 <figcaption>Tenor Zhuohan Sun and pianist Yuriko Watanabe in masterclass with Renée Fleming, Weill Music Room/Carnegie Hall, February 2, 2023. Photo: Fadi Kheir.</figcaption>  
 </figure>
@@ -34,7 +34,7 @@ More than anything, Ms. Fleming and Ms. Barton blanketed their students with enc
 
 Singers try too hard, often pushing too much air into a phrase or attempting to "hold" their voices to maintain control. One singer was shaking, holding on during a long, sustained note. Ms. Barton taught that the key was actually freedom – letting go. And Ms. Fleming reminded them that success was actually counterintuitive – when it's really good, it actually sounds smaller in your ear and so you think it's wrong but you have to trust that it's right.
 
-<figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824864/media/2023/02/Carnegie_Rognerud_CH11305211_Fotor_lqzls0.jpg){{% /md %}}
+<figure data-type="image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824864/media/2023/02/Carnegie_Rognerud_CH11305211_Fotor_lqzls0.jpg){{% /md %}}
 
 <figcaption>Soprano Eirin Rognerud and pianist Malte Schäfer, SongStudio Young Artists Recital, Zanker Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
 </figure>
@@ -43,7 +43,7 @@ Ms. Fleming also gave helpful tips to the accompanists. During a Rachmaninoff pi
 
 The SongStudio students chose their own material, and while both Ms. Fleming and Ms. Barton helped with technique and what Ms. Fleming referred to as "diva secrets," they both emphasized "storytelling" for each piece. The musical complexity and difficulty of many of the compositions naturally skew singers toward the notes, but as Ms. Barton put it, "strip away the score and remember what you're saying." Make audiences "hang on phrases," wondering "what will happen next?" Ms. Fleming also encouraged the singers to animate the songs through the use of their faces and bodies, and to remember to give the songs "colors," because the composers and poets were more like "painters." She also encouraged the students to find a "personal connection" to the songs and to not be afraid of being "vulnerable."
 
-<figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675825093/media/2023/02/Carnegie_Carmack_CH11305205_bgxw2s.jpg){{% /md %}}
+<figure data-type="image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675825093/media/2023/02/Carnegie_Carmack_CH11305205_bgxw2s.jpg){{% /md %}}
 
 <figcaption>Mezzo-soprano Maire Therese Carmack, SongStudio Young Artists Recital, Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
 </figure>
@@ -52,14 +52,14 @@ Over the centuries, songs have been written in many languages. At SongStudio alo
 
 Though worldly in language, the themes of the songs here were quite similar. They abounded with references to the beauty of nature, often describing in detail meadows, rivers, flowers and trees, and the simple life of those who live in the pastoral world. Some of the songs are very sexy, such as "Heimlich Aufforderung" by Strauss, where a lover flirts at a dinner party while eating and drinking, and looks forward to leaving the party discreetly for an assignation in the garden.
 
-<figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675825021/media/2023/02/Carnegie_Costa_CH11305197_bnornh.jpg){{% /md %}}
+<figure data-type="image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675825021/media/2023/02/Carnegie_Costa_CH11305197_bnornh.jpg){{% /md %}}
 
 <figcaption>Bass-baritone Vinícius Costa and pianist Hikaru Kanki, SongStudio Young Artists Recital, Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
 </figure>
 
 In the final concert, it was the women who seemed to incorporate what they had learned and had the most effective performances. They presented the drama and comedy of the stories they were telling and used everything they had to get there, not just their well-oiled vocal chords. And while tenor Zhuohan Sun and baritone Yuriy Hadzetskyy exhibited vocal perfection (and Hadzetskyy in particular had a tremendous presence) they seemed only slightly less uncomfortable then they were in the practice room. The same went for all the men, none of whom seemed quite sure what to do with their arms. Hadzetskyy could only match his expressive voice with his left hand.
 
-<figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824592/media/2023/02/Carnegie_Hadetsyy_CH11305217_gd8p02.jpg){{% /md %}}
+<figure data-type="image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824592/media/2023/02/Carnegie_Hadetsyy_CH11305217_gd8p02.jpg){{% /md %}}
 
 <figcaption>Baritone Yuriy Hadzetskyy and pianist You Zhao, SongStudio Young Artists Recital, Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
 </figure>
@@ -68,7 +68,7 @@ Two mezzos were the stars of the evening. Shannon Keegan programmed for herself 
 
 Likewise, mezzo Maire Therese Carmack effectively used every tool at her disposal. In the song "Animal Passion" by Jake Heggie, she used the piano to lean or pose suggestively to interpret the highly sexual imagery of poet Gini Savage, who describes the desire for a passionate love as frenzied and free as a wild cat. (Credit for some clever lyrics such as "let the voyeurs voyent.") Her other piece, "Befreit" ("Released") by Richard Strauss, was set to the text of Richard Dehmel, whose poems inspired songs by many German composers. Animating her face and body, as per the master class instructions, Ms. Carmack easily navigated the deliberate contradictions of the words. While the theme is death, the singer must also convey the joy that will come from it – literally, "O, Gluck" ("O, joy.") She built the dramatic tension of the song, ending with a long, stirring final note. Ms. Carmack has many opera credits and even prior to SongStudio, she clearly had some performance training.
 
-<figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824355/media/2023/02/Carnegie_Wajnberg_CH11305215_evrwui.jpg){{% /md %}}
+<figure data-type="image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824355/media/2023/02/Carnegie_Wajnberg_CH11305215_evrwui.jpg){{% /md %}}
 
 <figcaption>Soprano Charlotte Wajnberg and pianist Aaron Wajnberg, SongStudio Young Artists Recital , Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
 </figure>
