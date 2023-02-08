@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675825296/media/2023/02/sqCarnegie_Sun_banner_CH11305206_xy2a2e.jpg"
+primary_image_credit = "Tenor Zhuohan Sun and pianist Yuriko Watanabe, SongStudio Young Artists Recital, Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor."
 related_articles = []
 related_companies = []
 related_people = []
@@ -58,7 +58,7 @@ Though worldly in language, the themes of the songs here were quite similar. The
 <figcaption>Bass-baritone Vinícius Costa and pianist Hikaru Kanki, SongStudio Young Artists Recital, Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
 </figure>
 
-In the final concert, it was the women who seemed to incorporate what they had learned and had the most effective performances. They presented the drama and comedy of the stories they were telling and used everything they had to get there, not just their well-oiled vocal chords. And while tenor Zhuohan Sun and baritone Yuriy Hadzetskyy exhibited vocal perfection (and Hadzetskyy in particular had a tremendous presence,) they seemed only slightly less uncomfortable then they were in the practice room. The same went for all the men, none of whom seemed quite sure what to do with their arms. Hadzetskyy could only match his expressive voice with his left hand.
+In the final concert, it was the women who seemed to incorporate what they had learned and had the most effective performances. They presented the drama and comedy of the stories they were telling and used everything they had to get there, not just their well-oiled vocal chords. And while tenor Zhuohan Sun and baritone Yuriy Hadzetskyy exhibited vocal perfection (and Hadzetskyy in particular had a tremendous presence) they seemed only slightly less uncomfortable then they were in the practice room. The same went for all the men, none of whom seemed quite sure what to do with their arms. Hadzetskyy could only match his expressive voice with his left hand.
 
 <figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824592/media/2023/02/Carnegie_Hadetsyy_CH11305217_gd8p02.jpg){{% /md %}}
 
