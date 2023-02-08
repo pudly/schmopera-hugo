@@ -44,9 +44,9 @@ Ms. Fleming also gave helpful tips to the accompanists. During a Rachmaninoff pi
 
 The SongStudio students chose their own material, and while both Ms. Fleming and Ms. Barton helped with technique and what Ms. Fleming referred to as "diva secrets," they both emphasized "storytelling" for each piece. The musical complexity and difficulty of many of the compositions naturally skew singers toward the notes, but as Ms. Barton put it, "strip away the score and remember what you're saying." Make audiences "hang on phrases," wondering "what will happen next?" Ms. Fleming also encouraged the singers to animate the songs through the use of their faces and bodies, and to remember to give the songs "colors," because the composers and poets were more like "painters." She also encouraged the students to find a "personal connection" to the songs and to not be afraid of being "vulnerable."
 
-<figure data-type-"image"> {{% md %}}{{% /md %}}
+<figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675825093/media/2023/02/Carnegie_Carmack_CH11305205_bgxw2s.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Mezzo-soprano Maire Therese Carmack, SongStudio Young Artists Recital, Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
 </figure>
 
 Over the centuries, songs have been written in many languages. At SongStudio alone, you had German, Norwegian, Belgian, Spanish, Russian, French and English represented. The singers and pianists themselves represented no less than twelve countries. Many of the singers were multi-linguists – one of whom spoke seven languages. The training in this area was impressive – how remarkable, for example, to see a native Brazilian (baritone Vinicius Costa) sing with perfect German diction. It's a big challenge, as Ms. Fleming pointed out, "to bring a language to life that isn't your own." Ms. Fleming's favorite language to sing is French, and she taught her students to not "under-pronounce" – to "exaggerate the elegance of the language" and "explore each syllable." Ms. Barton is a lover of German, and marvels at how there are "multiple expressions describing everything."
