@@ -24,7 +24,7 @@ Since 2017 she has been the guiding force behind [SongStudio](https://www.carneg
 
 <figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824214/media/2023/02/Carnegie_Sun_CH11305106_rhldnt.jpg){{% /md %}}
 
-<figcaption>Tenor Zhuohan Sun and pianist Yuriko Watanabe in masterclass with Renée Fleming, Weill Music Room, New York, February 2, 2023. Photo: Fadi Kheir.</figcaption>  
+<figcaption>Tenor Zhuohan Sun and pianist Yuriko Watanabe in masterclass with Renée Fleming, Weill Music Room/Carnegie Hall, February 2, 2023. Photo: Fadi Kheir.</figcaption>  
 </figure>
 
 Since announcing her retirement from staged works (though she returned recently to the Met for the new opera, _The Hours_) Ms. Fleming has toured the world in concert with programs consisting almost entirely of art songs. (In her master class, she told the audience that she prefers dropping the "art" and just referring to the programming as "song.") Half of her concert in Los Angeles ([reviewed here 2/8/18](/heavenly-voice-visits-the-city-of-angels/)), was devoted to German lieder, by Brahms. Upcoming concerts, where she will be accompanied by Evgeny Kissin, promise to have some focus on Russian music, including the prolific songwriter Sergei Rachmaninoff. Unlike opera, which has a large but finite canon, song is, in Ms. Fleming’s words, "infinite," as there are countless songs in many languages which have already been written, with countless numbers to come.
@@ -74,7 +74,7 @@ Likewise, mezzo Maire Therese Carmack effectively used every tool at her disposa
 
 <figure data-type-"image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675824355/media/2023/02/Carnegie_Wajnberg_CH11305215_evrwui.jpg){{% /md %}}
 
-<figcaption>Soprano Charlotte Wajnberg and pianist Aaron Wajnberg, SongStudio Young Artists Recital , Zankel Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
+<figcaption>Soprano Charlotte Wajnberg and pianist Aaron Wajnberg, SongStudio Young Artists Recital , Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor.</figcaption>  
 </figure>
 
 The same can be said for Belgian soprano Charlotte Wajnberg, accompanied by her husband Aaron Wajnberg. Again, you can see the seasoned actor who has appeared in a number of operas, rather than a career of recitals.
