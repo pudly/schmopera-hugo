@@ -26,6 +26,11 @@ Opera – which Mr. Lang defines much more broadly than many – has consistentl
 
 That's not to say he isn’t a great fan of tradition. In fact, when he was in Latvia, he attended performances of the Latvia National Opera for an entire week seeing long-established productions which were still influenced by the Soviet music education system; the highest of standards, but the opposite of innovative. "I just relaxed and enjoyed it," he remembers, "no one was trying to shock us."
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
 He has seen plenty of unusual approaches to works from the past but, as he explains: "People are trying to innovate by changing the way we look at old stories. It's so much easier to innovate by finding new composers and inviting more and more compositional voices." He applauds the Met's announced determination to find such voices.
 
 But as much as Mr. Lang experiments – and he is constantly experimenting – he is a bit of a traditionalist in the sense that he continues to defy the atonal modernism that has gripped serious music for more than half-a-century, and seems to have an unlimited capacity to create original melody and harmony. When asked why it is that young opera composers assiduously avoid such aural pleasures, he replied "It's about what they’ve been exposed to…they write without knowing anything about theatre." Mr. Lang has helped reverse this course a little as a teacher at Yale, inspiring students such as Missy Mazzoli (_Breaking the Waves_, _Proving Up_) and Kevin Puts (_Silent Night_), who aren't afraid of euphonia.
@@ -45,6 +50,11 @@ Mr. Lang's most recent opera, _note to a friend_ ([reviewed here 1/13/23](/note-
 _note to a friend_ shines a light on a dark subject – suicide – which in this case, is suicide as an intellectual rather than spur-of-the-moment choice. Through eight arias, the lone singer explains how he has come to this decision and as noted in the review, "the music is tuned viscerally at exactly the right moments to complement the text and vice-versa. The result is both cerebral and emotional." Mr. Lang uses one of his favorite tools: repetition, not musically like Philip Glass (Mr. Lang was once a copyist for Mr. Glass), but in the text which is repeated while the musical line subtly or dramatically changes. "Repetition is really useful," he says. "In singing, the audience may miss something if you only say it once, and then when you change and add things, people notice."
 
 Mr. Lang also returns to one of his favorite themes – not just death, but _the exact moment of death_, which he has explored in a number of his operas, and in his song cycle _death speaks_ (2012). "Music," he explains, "is a good place to explore what you’re curious about that can’t be proved." To him, death is one such unexplained mystery as is music itself.  Despite all his accomplishments, he feels that "it's a mystery how music conveys something."
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
 
 Although he has written a breathtaking number of compositions, if the past is prologue for Mr. Lang, we can anticipate much more. In addition to an untold number of works-in-progress, he is currently collaborating with poet Anne Carson on an opera based on another story by Akutagawa. He is even writing something for the musical theatre stage and anticipates writing more film scores, which he does every other year or so. For the film _Truth_ (2015), he was nominated for an Oscar and won the Italian Oscar (The David di Donatello award) for both the score and the soul-stirring soprano aria "simple song #3."
 
