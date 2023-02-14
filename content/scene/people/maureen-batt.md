@@ -1,22 +1,24 @@
-+++
-date = "2015-07-23T11:40:00-04:00"
-discipline = "Soprano, Co-founder, Essential Opera"
-lastmod = "2015-07-23T16:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437665682700/Batt-Maureen.-Colour-Headshot.-.jpg.jpg"
-publishDate = "2015-07-23T16:01:00-04:00"
-related_companies = ["scene/companies/essential-opera.md","scene/companies/indie-opera-to.md"]
-slug = "maureen-batt"
-title = "Maureen Batt"
-website = "http://maureenbatt.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/maureen.batt.soprano?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/operaredhead"
-+++
+---
+date: "2015-07-23T11:40:00-04:00"
+discipline: Soprano, Co-founder, Essential Opera
+lastmod: "2015-07-23T16:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437665682700/Batt-Maureen.-Colour-Headshot.-.jpg.jpg
+publishDate: "2015-07-23T16:01:00-04:00"
+related_companies:
+- scene/companies/essential-opera.md
+- scene/companies/indie-opera-to.md
+slug: maureen-batt
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/maureen.batt.soprano?fref=ts
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/operaredhead
+title: Maureen Batt
+website: http://maureenbatt.com/
+_template: "people_single"
+---
 
 Noted by Opera Canada as a “young, lovely and captivating soprano, and by	the	Halifax	Herald	as	being “enthusiastically	at home on stage” and	having an “endlessly energetic and animated	interpretation,” Maureen Batt	
 is an accomplished concert and opera artist.	

@@ -1,17 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2016-01-02T21:32:00-05:00"
-lastmod = "2016-01-08T17:05:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452098827008/2016-01-05---Theatre.jpg.jpg"
-publishDate = "2016-01-06T12:19:00-05:00"
-related_articles = ["articles/theres-still-no-opera-on-netflix.md","articles/the-future-of-opera-is-indie.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/jay-hunter-morris.md","scene/people/stephanie-blythe.md","scene/people/deborah-voigt.md","scene/people/eric-owens.md","scene/people/richard-croft.md","scene/people/plcido-domingo.md","scene/people/anna-netrebko.md","scene/people/joseph-calleja.md","scene/people/bryn-terfel.md"]
-short_description = "This isn&#039;t a post about how singers need to become better actors. The problem of dual-audience opera is almost a microcosm of an issue that&#039;s becoming more in the foreground of what&#039;s demanded of opera singers today. Many of these same singers - who have all the right stuff for the world&#039;s largest stages, yet lack the refined acting skills that are required of the camera - would be equally out of their comfort zones in much of the so-called &quot;indie opera&quot; happening in small venues."
-slug = "a-tale-of-two-audiences"
-title = "A tale of two audiences"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2016-01-02T21:32:00-05:00"
+lastmod: "2016-01-08T17:05:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452098827008/2016-01-05---Theatre.jpg.jpg
+publishDate: "2016-01-06T12:19:00-05:00"
+related_articles:
+- articles/theres-still-no-opera-on-netflix.md
+- articles/the-future-of-opera-is-indie.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/jay-hunter-morris.md
+- scene/people/stephanie-blythe.md
+- scene/people/deborah-voigt.md
+- scene/people/eric-owens.md
+- scene/people/richard-croft.md
+- scene/people/plcido-domingo.md
+- scene/people/anna-netrebko.md
+- scene/people/joseph-calleja.md
+- scene/people/bryn-terfel.md
+short_description: This isn&#039;t a post about how singers need to become better
+  actors. The problem of dual-audience opera is almost a microcosm of an issue that&#039;s
+  becoming more in the foreground of what&#039;s demanded of opera singers today.
+  Many of these same singers - who have all the right stuff for the world&#039;s largest
+  stages, yet lack the refined acting skills that are required of the camera - would
+  be equally out of their comfort zones in much of the so-called &quot;indie opera&quot;
+  happening in small venues.
+slug: a-tale-of-two-audiences
+title: A tale of two audiences
+_template: article_single
+---
 
 Something about that nebulous week between Christmas and New Year's drew me to a marathon session of the full *Der Ring des Nibelungen*. So, I settled in to give a good viewing to Robert Lepage's *Ring Cycle* on the [Metropolitan Opera's On Demand](http://www.metopera.org/Season/On-Demand/) service. 
 

@@ -1,22 +1,28 @@
-+++
-date = "2017-10-11T16:05:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-10-11T16:06:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507752277227/10849721_10102349039198618_4784751503460562008_n.jpg.jpg"
-publishDate = "2017-10-11T16:05:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/opera-north.md","scene/companies/washington-national-opera.md","scene/companies/glimmerglass-festival.md"]
-slug = "michael-brandenburg"
-title = "Michael Brandenburg"
-website = "http://www.michael-brandenburg.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/MichaelBrandenburgTenor"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UC5FtKUTcmQYVWGARVAh8v_A"
-+++
+---
+date: "2017-10-11T16:05:00-04:00"
+discipline: Tenor
+lastmod: "2017-10-11T16:06:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507752277227/10849721_10102349039198618_4784751503460562008_n.jpg.jpg
+publishDate: "2017-10-11T16:05:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/opera-north.md
+- scene/companies/washington-national-opera.md
+- scene/companies/glimmerglass-festival.md
+slug: michael-brandenburg
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/MichaelBrandenburgTenor
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UC5FtKUTcmQYVWGARVAh8v_A
+title: Michael Brandenburg
+website: http://www.michael-brandenburg.com/
+_template: "people_single"
+---
 
 Tenor, Michael Brandenburg, is gaining recognition as one of the top young American tenors. He was the recipient of 2016 Grants from the Richard Tucker and Shoshana foundations; a winner of the 2015 George London Foundation Competition, Opera Index’s emerging artist award in their 2014 competition, and one of two Grand Finalists in the Bel Canto Competition in Chicago. In 2013 Brandenburg was a Grand finalist Winner in the Metropolitan Opera’s National Council Auditions.
  

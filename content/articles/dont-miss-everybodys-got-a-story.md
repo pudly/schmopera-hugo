@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2017-06-14T21:22:00-06:00"
-lastmod = "2017-06-14T22:09:00-06:00"
-preamble = "Clockwise from top left: Sarite Harris, Elena Juatco, Saccha Dennis, Michelle Bouey, and Kelly Holiff."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497496514722/2017-06-13---Women-in-Song.jpg.jpg"
-publishDate = "2017-06-14T22:09:00-06:00"
-related_articles = ["articles/women-in-the-arts-is-it-our-turn-yet.md","articles/fostering-maestras-the-institute-for-women-conductors-at-the-dallas-opera.md"]
-short_description = "Katie Edwards has conceived of this tribute to Canada&#039;s proud legacy of women singers and songwriters, and with the musical direction and arrangements by Jeannie Wyse, Everybody&#039;s Got a Story nods to greats like Joni Mitchell, Anne Murray, Celine Dion, Alanis Morissette, Shania Twain, Buffy Sainte-Marie, Jann Arden and Sarah McLachlan."
-slug = "dont-miss-everybodys-got-a-story"
-title = "Don&#039;t miss: Everybody&#039;s Got a Story"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2017-06-14T21:22:00-06:00"
+lastmod: "2017-06-14T22:09:00-06:00"
+preamble: 'Clockwise from top left: Sarite Harris, Elena Juatco, Saccha Dennis, Michelle
+  Bouey, and Kelly Holiff.'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497496514722/2017-06-13---Women-in-Song.jpg.jpg
+publishDate: "2017-06-14T22:09:00-06:00"
+related_articles:
+- articles/women-in-the-arts-is-it-our-turn-yet.md
+- articles/fostering-maestras-the-institute-for-women-conductors-at-the-dallas-opera.md
+short_description: Katie Edwards has conceived of this tribute to Canada&#039;s proud
+  legacy of women singers and songwriters, and with the musical direction and arrangements
+  by Jeannie Wyse, Everybody&#039;s Got a Story nods to greats like Joni Mitchell,
+  Anne Murray, Celine Dion, Alanis Morissette, Shania Twain, Buffy Sainte-Marie, Jann
+  Arden and Sarah McLachlan.
+slug: dont-miss-everybodys-got-a-story
+title: 'Don&#039;t miss: Everybody&#039;s Got a Story'
+_template: article_single
+---
 
 For Canada's sesquicentennial, Angelwalk Theatre presents the world premiere of [*Everybody's Got a Story: A Celebration of Canadian Women in Music*](https://www.angelwalk.ca/everybodys-got-a-story.html), **June 15-17, 8pm** at the Toronto Centre for the Arts' new Lyric Theatre.
 

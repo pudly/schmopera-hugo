@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-12-05T15:59:00+00:00"
-lastmod = "2016-12-12T09:17:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481282618509/2016-12-9---relax.jpg.jpg"
-publishDate = "2016-12-12T09:11:00+00:00"
-related_companies = ["scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
-short_description = "You&#039;re busier during your final years of school than in the first years of your career; without classes and school-produced concerts to keep you motivated (I&#039;ll admit, I took much of my school&#039;s resources for granted for too long), the early stages of a professional life can feel like you&#039;re twiddling your thumbs."
-slug = "skills-to-learn-downtime-on-the-job"
-title = "Skills to learn: downtime on the job"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-12-05T15:59:00+00:00"
+lastmod: "2016-12-12T09:17:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481282618509/2016-12-9---relax.jpg.jpg
+publishDate: "2016-12-12T09:11:00+00:00"
+related_companies:
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+short_description: You&#039;re busier during your final years of school than in the
+  first years of your career; without classes and school-produced concerts to keep
+  you motivated (I&#039;ll admit, I took much of my school&#039;s resources for granted
+  for too long), the early stages of a professional life can feel like you&#039;re
+  twiddling your thumbs.
+slug: skills-to-learn-downtime-on-the-job
+title: 'Skills to learn: downtime on the job'
+_template: article_single
+---
 
 Right up there with engineering students, and likely something leading to medicine, music students are some of the busiest academics in any post-secondary school. Their class load includes private lessons and performance-based classes where the weekly theory assignments and history papers also include learning the Poulenc *Sonata for Clarinet and Piano*, conducting a movement of a Mozart Symphony, and singing a concert with the choir.
 

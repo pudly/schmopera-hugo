@@ -1,11 +1,13 @@
-+++
-author = ["authors/jenna.md"]
-date = "2016-06-13T22:18:00-06:00"
-draft = true
-lastmod = "2016-06-13T22:18:00-06:00"
-slug = "conductors-vs-stem-field"
-title = "Conductors vs STEM field"
-+++
+---
+author:
+- authors/jenna.md
+date: "2016-06-13T22:18:00-06:00"
+draft: true
+lastmod: "2016-06-13T22:18:00-06:00"
+slug: conductors-vs-stem-field
+title: Conductors vs STEM field
+_template: article_single
+---
 
 Why aren't there more women conductors? This isn't a question that's leading towards accusations industry-wide gender inequality, thought it may very well be there. Perhaps it's because we're part of a younger generation of opera and classical music folks, but the idea of a woman taking the podium is not a controversial thing. No reasonable person would be opposed to the idea, and the only noteworthy thing about a *maestra* is the fact that she's rarer than a *maestro*.
 

@@ -1,29 +1,43 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2022-08-19T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1660923486/media/2022/08/sqWWA_naivyt.jpg"
-primary_image_credit = "Ariana DeBose (Anita) and David Alvarez (Bernardo) energize \"America\" with grit and spirit in Steven Spielberg's remake of West Side Story. Photo: © Disney."
-related_articles = ["articles/a-definitive-hit-west-side-story-in-atlanta.md", "articles/the-emphatically-present-west-side-story.md"]
-related_companies = []
-related_people = []
-short_description = "It would be unreasonable to expect these star-crossed lovers to create a more charmingly romantic balcony scene and \"Tonight.\" They are literally heaven-sent when singing their vows in \"One Hand, One Heart\" amidst sunlight streaming through stained glass at the MET Museum’s Cloisters."
-slug = "the-accommodating-cool-of-spielbergs-west-side-story"
-title = "The Accommodating \"Cool\" of Spielberg’s West Side Story"
-youtube_url = ""
+---
+author:
+  - authors/john-hohmann.md
+categories: Review
+date: '2022-08-19T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1660923486/media/2022/08/sqWWA_naivyt.jpg
+primary_image_credit: >-
+  Ariana DeBose (Anita) and David Alvarez (Bernardo) energize "America" with
+  grit and spirit in Steven Spielberg's remake of West Side Story. Photo: ©
+  Disney.
+related_articles:
+  - articles/a-definitive-hit-west-side-story-in-atlanta.md
+  - articles/the-emphatically-present-west-side-story.md
+related_companies: []
+related_people: []
+short_description: >-
+  It would be unreasonable to expect these star-crossed lovers to create a more
+  charmingly romantic balcony scene and "Tonight." They are literally
+  heaven-sent when singing their vows in "One Hand, One Heart" amidst sunlight
+  streaming through stained glass at the MET Museum’s Cloisters.
+slug: the-accommodating-cool-of-spielbergs-west-side-story
+title: The Accommodating "Cool" of Spielberg’s West Side Story
+youtube_url: ''
+_template: article_single
+---
 
-+++
 "Cool," that jazzy number from _West Side Story_, is one of the most accommodating songs ever written for a Broadway musical. Leonard Bernstein's composition keeps its brazen, staccato tone but Stephen Sondheim's incisive lyric has come to support surprisingly different storylines. From the 1957 Broadway trailblazer to Robert Wise's lauded 1961 film and most recently in Steven Spielberg's revisionist remake, "Cool" has been used to convey vastly different messages but manages in the process to keep its own cool.
 
 Two years ago when we surveyed the major recording of this epic classic, a cast album of the newest Broadway revival and a soundtrack from the Spielberg film were anticipated. The revival didn't reopen after the pandemic shutdown and to our knowledge, remains unrecorded. For similar reasons the film's release was delayed a full year but now we have a distinctive new addition to the collection, albeit with issues that may rile those who find annoying a couple of fleeting "feel good" numbers that manage to work, just not in the score's context.
 
 On Broadway "Cool" was a pep talk sung by Jets leader, Riff, advising his gang to stay cool at their rumble with the Sharks. In Wise's film Riff's lieutenant, Ice, a character created for the film, sang it after Riff was killed in the rumble. Providing grief support and anger management, the song's placement is also notable for the insight it gives us into the Jets women.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1660923594/media/2022/08/WSS_RiffTony_aqyiux.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1660923594/media/2022/08/WSS_RiffTony_aqyiux.jpg)
 
 <figcaption>Mike Faist (Riff) and Ansel Elgort (Tony) turn "Cool" into a bitter expression of their disintegrating friendship in Steven Spielberg's remake of West Side Story.  Photo: © Disney.</figcaption>  
 </figure>
@@ -34,7 +48,9 @@ While the film seldom veers from this initial concept, it is never more powerful
 
 Gustavo Dudamel conducts his Los Angeles Philharmonic with meticulous yet vibrant attention to the myriad influences running through the score. (The New York Philharmonic is also credited although it isn't apparent how the hometown orchestra was involved.) Dudamel knows his way around Bernstein so those annoying touches of the dreaded "pops" sound, showing up in "America" and "Gee, Officer Krupke" may well be the result of some insidious soundboard mixing in search of that "feel good" vibe.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1660923632/media/2022/08/WSS_MariaTony_mufjfl.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1660923632/media/2022/08/WSS_MariaTony_mufjfl.jpg)
 
 <figcaption>Ansel Elgort (Tony) and Rachel Zelger (Maria) declare their love in the balcony scene from Steven Spielberg's remake of West Side Story. Photo :© Disney.</figcaption>  
 </figure>
@@ -43,7 +59,9 @@ The problem doesn't stop there, though to be fair the annoyance is less so when 
 
 The singing however triumphs over such matters. Several of the songs were sung "live" on set rather than syncing to footage in a studio. The sense of engagement is readily apparent and it's also reassuring to know that everyone is doing their own singing. Rachel Zegler has a voice of blissful refinement but her singing casts Maria as strong and increasingly independent, proper but hardly defined by that refined sound. Ansel Elgort's voice, though not of commanding depth, is nonetheless winning and we feel his rapture in a disarming "Something's Coming" and an ardent, energetic "Maria." It would be unreasonable to expect these star-crossed lovers to create a more charmingly romantic balcony scene and "Tonight." They are literally heaven-sent when singing their vows in "One Hand, One Heart" amidst sunlight streaming through stained glass at the MET Museum’s Cloisters.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1660923684/media/2022/08/WSS-rita-moreno_sqzuub.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1660923684/media/2022/08/WSS-rita-moreno_sqzuub.jpg)
 
 <figcaption>Rita Moreno (Valentina) who plays a new character created for the film, won an Oscar for her Anita in Robert Wise's West Side Story. As Valentina she sings "Somewhere" with devastating fragility. Photo: © Disney.</figcaption>  
 </figure>
@@ -52,7 +70,9 @@ Then there's Ariana DeBose, Spielberg's Oscar-winning Anita. Her brief opener to
 
 DeBose along with David Alvarez as Bernardo show grit and spirit in the aforementioned "America." That other Oscar-winning Anita from 1961, Rita Moreno, here playing Valentina, a woman of hope among the hopeless and widow of Doc, who now runs the drug store where the Jets hang out, sings a wistful "Somewhere" with devastating fragility. Moreno rattles the cart of any lingering nostalgia with her soft and inimitable power.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1660923716/media/2022/08/WSS-mike-faist-david-alvarez_tqtsaj.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1660923716/media/2022/08/WSS-mike-faist-david-alvarez_tqtsaj.jpg)
 
 <figcaption>Mike Faist (Riff) and David Alvarez (Bernardo) confront each other in "Rumble" in which Gustavo Dudamel and the Los Angeles Philharmonic capture the violent musical detail amidst its nimble balletic framework. Photo: © Disney.</figcaption>  
 </figure>

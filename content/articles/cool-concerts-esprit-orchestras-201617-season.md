@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-08-30T20:05:00+01:00"
-lastmod = "2016-09-03T10:37:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472584619387/2016-08-30---EspritSzabo.jpg.jpg"
-primary_image_credit = "The Esprit Orchestra (left) and Krisztina Szabó, mezzo-soprano. Photos by Bo Huang."
-publishDate = "2016-09-02T09:08:00+01:00"
-related_articles = ["articles/dont-miss-accelerando-with-esprit-orchestra.md","articles/folk-songs-esprit-szabo.md","articles/new-season-offerings-from-esprit-orchestra.md"]
-related_companies = ["scene/companies/esprit-orchestra.md"]
-related_people = ["scene/people/krisztina-szab.md"]
-short_description = "On October 23, Power On celebrates Canadian great R. Murray Schafer, featuring three of his works, plus the Canadian premiere of Andrew Norman&#039;s Switch, for percussion and orchestra. Under Music Director Alex Pauk, the Esprit Orchestra is joined by mezzo-soprano Krisztina Szabó, flautist Robert Aitken, and percussionist Ryan Scott."
-slug = "cool-concerts-esprit-orchestras-201617-season"
-title = "Cool concerts: Esprit Orchestra&#039;s 2016/17 season"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-08-30T20:05:00+01:00"
+lastmod: "2016-09-03T10:37:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472584619387/2016-08-30---EspritSzabo.jpg.jpg
+primary_image_credit: The Esprit Orchestra (left) and Krisztina Szabó, mezzo-soprano.
+  Photos by Bo Huang.
+publishDate: "2016-09-02T09:08:00+01:00"
+related_articles:
+- articles/dont-miss-accelerando-with-esprit-orchestra.md
+- articles/folk-songs-esprit-szabo.md
+- articles/new-season-offerings-from-esprit-orchestra.md
+related_companies:
+- scene/companies/esprit-orchestra.md
+related_people:
+- scene/people/krisztina-szab.md
+short_description: On October 23, Power On celebrates Canadian great R. Murray Schafer,
+  featuring three of his works, plus the Canadian premiere of Andrew Norman&#039;s
+  Switch, for percussion and orchestra. Under Music Director Alex Pauk, the Esprit
+  Orchestra is joined by mezzo-soprano Krisztina Szabó, flautist Robert Aitken, and
+  percussionist Ryan Scott.
+slug: cool-concerts-esprit-orchestras-201617-season
+title: 'Cool concerts: Esprit Orchestra&#039;s 2016/17 season'
+_template: article_single
+---
 
 The [Esprit Orchestra](/scene/companies/esprit-orchestra/) has announced its 2016/17 season with a line-up that lives up to their mission of "developing a Canadian musical literature legacy." Four concerts (with catchy titles) present an impressive series of Canadian and world premieres, plus slightly older works by Thomas Adès, John Adams, and George Crumb. Each concert is preceded by a pre-show conversation, moderated by Canadian composer Alexina Louie.
 

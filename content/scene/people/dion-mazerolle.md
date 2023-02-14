@@ -1,20 +1,21 @@
-+++
-date = "2016-02-03T20:40:00-05:00"
-discipline = "Baritone"
-lastmod = "2016-02-04T09:27:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454550000926/2016-02-03---Dion-Mazerolle.jpg.jpg"
-primary_image_credit = "Veronika Roux"
-publishDate = "2016-02-03T20:40:00-05:00"
-related_companies = ["scene/companies/voicebox-opera-in-concert.md"]
-slug = "dion-mazerolle"
-title = "Dion Mazerolle"
-website = "http://www.domoneyartists.com/dion-mazerolle-baritone.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/DionMazerolleBaritone/"
-
-+++
+---
+date: "2016-02-03T20:40:00-05:00"
+discipline: Baritone
+lastmod: "2016-02-04T09:27:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454550000926/2016-02-03---Dion-Mazerolle.jpg.jpg
+primary_image_credit: Veronika Roux
+publishDate: "2016-02-03T20:40:00-05:00"
+related_companies:
+- scene/companies/voicebox-opera-in-concert.md
+slug: dion-mazerolle
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/DionMazerolleBaritone/
+title: Dion Mazerolle
+website: http://www.domoneyartists.com/dion-mazerolle-baritone.html
+_template: "people_single"
+---
 Acadian baritone Dion Mazerolle received critical acclaim for his "fine, resonant voice, an iron fist in a velvet glove" as Lord Cecil in Britten's _Gloriana_ with Toronto's Voicebox: Opera in concert.
 
 Recent opera credits include the Mandarin in Edmonton Opera’s production of _Turandot_, and a début with the Canadian Opera company in the role of F. X. Lemieux in their powerful 2017 production of _Louis Riel_, which was also performed at the National Arts Centre and the Opera de Quebec. He also stepped in at the last minute to star in Handel’s _Apollon et Daphne_, with Festival Montreal Baroque.

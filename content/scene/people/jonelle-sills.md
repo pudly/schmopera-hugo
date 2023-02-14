@@ -1,25 +1,24 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569868556/media/2019/09/JonelleSills_vpaecb.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/against-the-grain-theatre.md"]
-slug = "jonelle-sills"
-title = "Jonelle Sills"
-website = "https://jonellesills.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/jonelle.sills"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/jesills"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/jonellesills/"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569868556/media/2019/09/JonelleSills_vpaecb.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+slug: jonelle-sills
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/jonelle.sills
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/jesills
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/jonellesills/
+title: Jonelle Sills
+website: https://jonellesills.com/
+_template: "people_single"
+---
 Past highlights include her Residency at the Banff Centre for Arts and Creativity in Against the Grain Theatre’s “Opera in the 21st Century” program. In her  residency she premiered the role of Esther in Poala Prestini’s (Composer) and Royce Vavreck (Librettist) _Silent Light_ directed and designed by Thaddeus Strassberger.
 
 In April she made her company debut with Toronto’s Against The Grain Theatre in Vivier’s _Kopernikus_,  and winning a DORA award as a member of the ensemble.

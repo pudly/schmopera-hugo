@@ -1,18 +1,21 @@
-+++
-date = "2017-09-17T18:58:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-09-17T18:58:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505688897552/Daniel-Shirley-trees.jpg.jpg"
-publishDate = "2017-09-17T18:58:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/florida-grand-opera.md"]
-slug = "daniel-shirley"
-title = "Daniel Shirley"
-website = "http://danielshirleytenor.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/DSTenor"
-+++
+---
+date: "2017-09-17T18:58:00-04:00"
+discipline: Tenor
+lastmod: "2017-09-17T18:58:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505688897552/Daniel-Shirley-trees.jpg.jpg
+publishDate: "2017-09-17T18:58:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/florida-grand-opera.md
+slug: daniel-shirley
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/DSTenor
+title: Daniel Shirley
+website: http://danielshirleytenor.com/
+_template: "people_single"
+---
 
 Of his Carnegie Hall debut, the New York Concert Review noted, “Daniel Shirley’s voice soared over the large forces with strength and clarity.” The tenor continues to earn critical praise for insightful, dramatically affecting performances in concert, musical theater, and opera.
 

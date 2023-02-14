@@ -1,22 +1,22 @@
-+++
-date = "2016-08-01T19:18:00+01:00"
-discipline = "Composer"
-lastmod = "2016-08-02T13:44:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470075373878/2016-08-01---Gabriel-Dharmoo-HS---pc---Pierre-Leveille.jpg.jpg"
-primary_image_credit = "Pierre Léveillé"
-publishDate = "2016-08-02T13:44:00+01:00"
-slug = "gabriel-dharmoo"
-title = "Gabriel Dharmoo"
-website = "http://gabrieldharmoo.org/en/home"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCgXgNdCFwuVLK9ogW_Pjp-g/videos"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/gabrieldharmoo"
-+++
+---
+date: "2016-08-01T19:18:00+01:00"
+discipline: Composer
+lastmod: "2016-08-02T13:44:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470075373878/2016-08-01---Gabriel-Dharmoo-HS---pc---Pierre-Leveille.jpg.jpg
+primary_image_credit: Pierre Léveillé
+publishDate: "2016-08-02T13:44:00+01:00"
+slug: gabriel-dharmoo
+social_media:
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCgXgNdCFwuVLK9ogW_Pjp-g/videos
+- platform: Soundcloud
+  _template: social_media
+  url: https://soundcloud.com/gabrieldharmoo
+title: Gabriel Dharmoo
+website: http://gabrieldharmoo.org/en/home
+_template: "people_single"
+---
 
 Gabriel Dharmoo's musical practice encompasses composition, vocal improvisation and research.
 

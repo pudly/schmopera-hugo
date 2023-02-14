@@ -1,17 +1,37 @@
-+++
-author = ["authors/suzanne-vinnik.md","authors/sara-duchovnay.md"]
-categories = "How-to"
-date = "2016-09-11T16:51:00+01:00"
-lastmod = "2016-09-13T14:59:00+01:00"
-preamble = "All portraits by [S. Richards Photography](http://www.srichardsphotography.com/), shot at Sing for Hope Piano Studio, 28 Liberty. Hair and makeup by Olivia McKeldin of [Bombshell Studios](http://www.bombshellstudiosnyc.com/) NYC, LLC."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473683373809/FTK2-Square-Option.jpg.jpg"
-publishDate = "2016-09-13T14:30:00+01:00"
-related_articles = ["articles/a-letter-to-the-modern-diva.md","articles/dont-miss-boys-of-paradise.md","articles/whats-your-opera-dress-code.md","articles/singers-its-the-annual-tax-season-conundrum.md","articles/just-in-time-for-fall-shoperatic.md","articles/talking-with-singers-sara-duchovnay.md"]
-related_people = ["scene/people/amal-elshrafi.md","scene/people/jenna-siladie.md","scene/people/megan-brunning.md","scene/people/suzanne-vinnik.md","scene/people/sara-duchovnay.md","scene/people/sharin-apostolou.md","scene/people/elizabeth-westerman-yoder.md"]
-short_description = "Rather than recap, we decided to use our photoshoot to create a &quot;lookbook&quot; to serve as inspiration to empower the operatic community to make choices that serve your artistry."
-slug = "freetheknee-part-2-you-have-better-choices"
-title = "#FreeTheKnee Part 2: &quot;You have better choices.&quot;"
-+++
+---
+author:
+- authors/suzanne-vinnik.md
+- authors/sara-duchovnay.md
+categories: How-to
+date: "2016-09-11T16:51:00+01:00"
+lastmod: "2016-09-13T14:59:00+01:00"
+preamble: All portraits by [S. Richards Photography](http://www.srichardsphotography.com/),
+  shot at Sing for Hope Piano Studio, 28 Liberty. Hair and makeup by Olivia McKeldin
+  of [Bombshell Studios](http://www.bombshellstudiosnyc.com/) NYC, LLC.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473683373809/FTK2-Square-Option.jpg.jpg
+publishDate: "2016-09-13T14:30:00+01:00"
+related_articles:
+- articles/a-letter-to-the-modern-diva.md
+- articles/dont-miss-boys-of-paradise.md
+- articles/whats-your-opera-dress-code.md
+- articles/singers-its-the-annual-tax-season-conundrum.md
+- articles/just-in-time-for-fall-shoperatic.md
+- articles/talking-with-singers-sara-duchovnay.md
+related_people:
+- scene/people/amal-elshrafi.md
+- scene/people/jenna-siladie.md
+- scene/people/megan-brunning.md
+- scene/people/suzanne-vinnik.md
+- scene/people/sara-duchovnay.md
+- scene/people/sharin-apostolou.md
+- scene/people/elizabeth-westerman-yoder.md
+short_description: Rather than recap, we decided to use our photoshoot to create a
+  &quot;lookbook&quot; to serve as inspiration to empower the operatic community to
+  make choices that serve your artistry.
+slug: freetheknee-part-2-you-have-better-choices
+title: '#FreeTheKnee Part 2: &quot;You have better choices.&quot;'
+_template: article_single
+---
 
 [Opera Diva Dress Collection](https://web.facebook.com/groups/456489367792116/) and [Sing For Hope](http://www.singforhope.org/) teamed up for a special photoshoot to promote and celebrate the passionate, fashionable, entrepreneurial, and altruistic divas that make up ODDC, and showcase the 2016 Sing For Hope Pianos as the first joint project under our cultural partnership. 
 
@@ -23,7 +43,10 @@ Rather than recap, we decided to use our photoshoot to create a "lookbook" to se
 
 ***
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611006661/Resized---Megan-SFH.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611006661/Resized---Megan-SFH.jpg.jpg)
+
 <figcaption>[Megan Brunning](/scene/people/megan-brunning/) in Maggy London (size 4), from ODDC Collection. Piano: "Wildcats" by students of PS 48Q, placed at Riverton Charter School.</figcaption>
 </figure>
 
@@ -59,7 +82,9 @@ This versatile and feminine dress can brighten up the room when you're scheduled
 
 </ul>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473682864476/Resized---Orange-Jacket.jpg.jpg)<figcaption>This jacket is selling for $100 on ODDC!</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473682864476/Resized---Orange-Jacket.jpg.jpg)<figcaption>This jacket is selling for $100 on ODDC!</figcaption>
 </figure>
 
 ### Other Ways to Wear it for Fall...
@@ -73,7 +98,10 @@ This versatile and feminine dress can brighten up the room when you're scheduled
 
 </ul>
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611240108/Resized---Amel-Adrianna-SFH-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611240108/Resized---Amel-Adrianna-SFH-2.jpg.jpg)
+
 <figcaption>[Amal El-Shrafi](/scene/people/amal-el-shrafi/) in Adrianna Papell (size 10) from ODDC Collection. Piano: "Dearly Beloved" by Eric Inkala, placed at PS 81 Thaddeus Stevens.</figcaption>
 </figure>
 
@@ -122,7 +150,10 @@ Sara loves this dress because it is a modern play on a vintage look in a very cu
 
 </ul>
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611343942/Resized---Liana-SFH.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611343942/Resized---Liana-SFH.jpg.jpg)
+
 <figcaption>[Liana Guberman](/scene/people/liana-guberman/) in a vintage inspired dress from her closet. Piano: "Tiny People" by Arielle Trenk, placed at New York City Children's Center.</figcaption></figure>
 
 Liana arrived to the ODDC/Sing For Hope shoot wearing this adorable dress. We didn't have to do much to style this one, as the silhouette speaks for itself. After purchasing this dress in a larger size to accommodate her bust, she had it altered to highlight her waist. In keeping with the vintage style, Liana is wearing great foundation wear to create a long smooth line.
@@ -169,7 +200,10 @@ Liana arrived to the ODDC/Sing For Hope shoot wearing this adorable dress. We di
 
 </ul>
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473756160724/Resized---Amel-Betsey-SFH.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473756160724/Resized---Amel-Betsey-SFH.jpg.jpg)
+
 <figcaption>[Amal El-Shrafi](/scene/people/amal-el-shrafi/) in Betsey Johnson mid-length from her closet. Piano: "Music Machine #1" by Adam Kidder, placed at James Madison High School.</figcaption>
 </figure>
 
@@ -206,7 +240,10 @@ We both flipped when we saw Amal in this dress! As many of you know, Suzanne is 
 
 </ul>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473683028805/Resized---Cherisee_Cherissia-Shoes--Urban-Whimsy-Photography.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473683028805/Resized---Cherisee_Cherissia-Shoes--Urban-Whimsy-Photography.jpg.jpg)
+
 <figcaption>Shoes by Cherisse:Cherissia Shoes. Photo by Urban Whimsy Photography.</figcaption>
 </figure>
 
@@ -222,7 +259,10 @@ We both flipped when we saw Amal in this dress! As many of you know, Suzanne is 
 
 </ul>
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611389704/Resized---Sharin-SFH.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611389704/Resized---Sharin-SFH.jpg.jpg)
+
 <figcaption>[Sharin Apostolou](/scene/people/sharin-apostolou/) in Stop Staring (Size Medium) from ODDC Collection. Piano: "What's in a Name" by Melanie Schantz, placed at IS 93 Ridgewood.</figcaption>
 </figure>
 
@@ -271,7 +311,10 @@ Sara loves Stop Staring for their comfortably constructed, seductively flatterin
 
 </ul>
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611438752/Resized-0-Jenna-SFH.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611438752/Resized-0-Jenna-SFH.jpg.jpg)
+
 <figcaption>[Jenna Siladie](/scene/people/jenna-siladie/), "A Soprano in Pants" in a jumpsuit from her closet. Piano: "Nathan Sykes" by Nathan Sykes, placed at Manhattan Center for Science and Mathematics.</figcaption></figure>
 
 "Jumpsuit : 2016 Feminist :: Power Blazer : Moving and Shaking Women of the 1980s."(Sidebar: SAT has since removed verbal analogies…we are old). 
@@ -316,7 +359,10 @@ Suzanne is one of the ‘OG' supporters of this look, having worn a similar pant
 
 </ul>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611547300/Resized---Neon-Beautiful-Design-Jenna.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611547300/Resized---Neon-Beautiful-Design-Jenna.jpg.jpg)
+
 <figcaption>Earrings by Tracy Cox, Neon Beautiful Design.</figcaption>
 </figure>
 
@@ -334,7 +380,10 @@ Suzanne is one of the ‘OG' supporters of this look, having worn a similar pant
 
 </ul>
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473614001367/Resized---Elizabeth-SFH-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473614001367/Resized---Elizabeth-SFH-2.jpg.jpg)
+
 <figcaption>[Elizabeth Westerman Yoder](/scene/people/elizabeth-westerman/), "A Soprano in Pants" in a vintage Betsey Johnson (size 6) jacket from ODDC Collection available for rental, and textured pants from her closet. Piano: "Jackie O" by Tina Flaherty, placed at High School of Arts and Technology.</figcaption></figure>
 
 We love this look for its effortless mix of operatic glamour and modern style. This new mommy diva came to Suzanne to rent a dress, and left with this fabulous jacket for an upcoming concert. She paired it with a textured pant and open-toe red pumps to make the outfit really pop. This look would not only work for an audition, but would be perfect for a daytime recital of some newer, edgier works.

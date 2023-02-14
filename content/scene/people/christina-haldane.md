@@ -1,27 +1,28 @@
-+++
-date = "2017-06-01T21:53:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-06-01T21:55:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496368302513/2017-05-29---Full---Christina-Haldane-Headshot.jpg.jpg"
-primary_image_credit = "Kristen Hoebermann"
-publishDate = "2017-06-01T21:53:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/university-of-toronto-opera.md"]
-slug = "christina-haldane"
-title = "Christina Haldane"
-website = "http://www.christinahaldane.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/christinahaldanesoprano/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/crhaldane"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/crhaldane/"
-+++
+---
+date: "2017-06-01T21:53:00-04:00"
+discipline: Soprano
+lastmod: "2017-06-01T21:55:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496368302513/2017-05-29---Full---Christina-Haldane-Headshot.jpg.jpg
+primary_image_credit: Kristen Hoebermann
+publishDate: "2017-06-01T21:53:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/university-of-toronto-opera.md
+slug: christina-haldane
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/christinahaldanesoprano/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/crhaldane
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/crhaldane/
+title: Christina Haldane
+website: http://www.christinahaldane.com/
+_template: "people_single"
+---
 
 Soprano CHRISTINA RAPHAËLLE HALDANE has two nationalities, Canadian and British, and grew up speaking two languages, English and French. She works from London and Toronto. Christina enjoys an active performing career in the UK, Europe, Asia and North America. Recent highlights includ a return to the Royal Opera House, Covent Garden, to sing Fiorilla (cover) in Rossini’s *Il Turco in Italia* and Nella (cover) in Puccini’s *Gianni Schicchi*, a performance of Mercedes in Bizet’s *Carmen* for the Cambridge Philharmonic, as well as sell out recitals for Handel House London and the Oxford Lieder Festival. Her ‘Capturing Cuzzoni’ Handel program successfully toured the Maritimes and she joined the Kincardine Summer Festival for their 25th anniversary celebrations, performing in recital and singing the solos in Haydn’s The Seasons. For the upcoming 2016-17 season, Christina is thrilled to be part of the exciting new opera *The Exterminating Angel* by Thomas Adès, covering the role of Silvia, for both the Salzburg Festival and the Royal Opera House, Covent Garden.
 

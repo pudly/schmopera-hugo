@@ -1,15 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2014-03-18T08:00:00-04:00"
-lastmod = "2015-04-26T00:05:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430020976342/Marylin_Martin-1024x682.jpg.jpg"
-publishDate = "2014-03-18T08:00:00-04:00"
-related_people = ["scene/people/marilyn-horne.md"]
-short_description = "I was browsing through r/Opera (which should be your new favourite place), and noticed on the sidebar a welcome message, in italiano. The message was clearly the text of an aria, and I was more than a little miffed that I couldn&#039;t immediately identify it."
-slug = "my-train-of-clicks-led-me-to-marilyn-horne"
-title = "My Train of Clicks Led Me To Marilyn Horne"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2014-03-18T08:00:00-04:00"
+lastmod: "2015-04-26T00:05:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430020976342/Marylin_Martin-1024x682.jpg.jpg
+publishDate: "2014-03-18T08:00:00-04:00"
+related_people:
+- scene/people/marilyn-horne.md
+short_description: I was browsing through r/Opera (which should be your new favourite
+  place), and noticed on the sidebar a welcome message, in italiano. The message was
+  clearly the text of an aria, and I was more than a little miffed that I couldn&#039;t
+  immediately identify it.
+slug: my-train-of-clicks-led-me-to-marilyn-horne
+title: My Train of Clicks Led Me To Marilyn Horne
+_template: article_single
+---
 
 I was browsing through [r/Opera](http://www.reddit.com/r/opera) (which should be your new favourite place), and noticed on the sidebar a welcome message, _in italiano_. The message was clearly the text of an aria, and I was more than a little miffed that I couldn't immediately identify it. So Google and I did some hunting and we figured out that it was Orsini's Brindisi from [_Lucrezia Borgia_](http://en.wikipedia.org/wiki/Lucrezia_Borgia_(opera)). And then Google taunted me with a video thumbnail that showed Marilyn Horne on [_The Tonight Show with Johnny Carson_](http://www.imdb.com/title/tt1480176/) and before I knew it, I was watching this:
 

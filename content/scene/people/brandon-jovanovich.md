@@ -1,28 +1,43 @@
-+++
-date = "2017-09-15T21:14:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-09-15T21:17:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505524203854/Brandon_Jovanovich_pc_Kristen_Hoebermann_c_300dpi.jpg.jpg"
-primary_image_credit = "Kristin Hoebermann."
-publishDate = "2017-09-15T21:14:00-04:00"
-related_companies = ["scene/companies/los-angeles-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/gran-teatre-del-liceu.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/seattle-opera.md", "scene/companies/glyndebourne.md", "scene/companies/teatro-alla-scala.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/san-francisco-opera.md", "scene/companies/la-monnaie.md", "scene/companies/opernhaus-zurich.md", "scene/companies/opra-national-de-paris.md"]
-slug = "brandon-jovanovich"
-title = "Brandon Jovanovich"
-website = "http://brandonjovanovich.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/operabrandon/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/operabrandon"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/brandonjovanovich.tenor"
-
-+++
+---
+date: "2017-09-15T21:14:00-04:00"
+discipline: Tenor
+lastmod: "2017-09-15T21:17:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505524203854/Brandon_Jovanovich_pc_Kristen_Hoebermann_c_300dpi.jpg.jpg
+primary_image_credit: Kristin Hoebermann.
+publishDate: "2017-09-15T21:14:00-04:00"
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/seattle-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/la-monnaie.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/opra-national-de-paris.md
+slug: brandon-jovanovich
+social_media:
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/operabrandon/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/operabrandon
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/brandonjovanovich.tenor
+title: Brandon Jovanovich
+website: http://brandonjovanovich.com/
+_template: "people_single"
+---
 Praised by _The Wall Street Journal_ for his “ardent, heroic tenor and strong acting,” Brandon Jovanovich is sought after by the world’s finest opera companies for his passionate stage portrayals of leading roles in French, Italian, German, and Slavic opera.
 
 In the 2020-2021 season, Mr. Jovanovich returns to the Deutsche Oper Berlin as Siegmund in _Die Walküre_, to the Bayerische Staatsoper, Munich, in the title role of _Parsifal_, and to Opéra national de Paris as Herman in _The Queen of Spades_. Previously scheduled engagements include appearances at both the Metropolitan Opera and Washington National Opera as Florestan in _Fidelio_, and at Lyric Opera of Chicago as the title role in _Samson et Dalila_.

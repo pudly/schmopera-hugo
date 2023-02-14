@@ -1,15 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2016-03-18T17:43:00+00:00"
-lastmod = "2016-03-21T10:23:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458503262332/2016-03-20---Writers.jpg.jpg"
-publishDate = "2016-03-21T10:23:00+00:00"
-related_articles = ["articles/music-the-musicians-therapy-except-when-its-not.md","articles/once-agan-shushing-meanies.md","articles/catty-commentary-or-whats-not-useful-for-opera.md","articles/when-critics-are-jerks.md"]
-short_description = "Maybe it&#039;s the concept of the critic, or maybe it&#039;s the notebook itself, that can evoke suspicion. The notebook is open to record all the mistakes, and while the critic is scribbling in the dark, magic is happening onstage and they&#039;re missing it. It&#039;s not just a myth; these things happen, and critics can be relentlessly harsh, to the point where one wonders why they keep going to the opera, if they dislike everything they see."
-slug = "true-stories-the-critic-who-loves-opera-even-more-now"
-title = "True stories: the critic who loves opera even more now"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2016-03-18T17:43:00+00:00"
+lastmod: "2016-03-21T10:23:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458503262332/2016-03-20---Writers.jpg.jpg
+publishDate: "2016-03-21T10:23:00+00:00"
+related_articles:
+- articles/music-the-musicians-therapy-except-when-its-not.md
+- articles/once-agan-shushing-meanies.md
+- articles/catty-commentary-or-whats-not-useful-for-opera.md
+- articles/when-critics-are-jerks.md
+short_description: Maybe it&#039;s the concept of the critic, or maybe it&#039;s the
+  notebook itself, that can evoke suspicion. The notebook is open to record all the
+  mistakes, and while the critic is scribbling in the dark, magic is happening onstage
+  and they&#039;re missing it. It&#039;s not just a myth; these things happen, and
+  critics can be relentlessly harsh, to the point where one wonders why they keep
+  going to the opera, if they dislike everything they see.
+slug: true-stories-the-critic-who-loves-opera-even-more-now
+title: 'True stories: the critic who loves opera even more now'
+_template: article_single
+---
 
 Recently, I had a conversation with a fellow opera-goer, curious about the pen and notebook I whip out before the lights dim and the opera begins. A long-time attendee of the Royal Opera House, she told me that she would find it difficult to become removed enough from the action onstage to write coherently about it. The conversation sparked a question: do critics and reviewers have a lesser experience at the opera, precisely because they're charged with writing about it afterwards?
 

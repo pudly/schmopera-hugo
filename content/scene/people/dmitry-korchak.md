@@ -1,27 +1,34 @@
-+++
-date = "2017-09-10T11:22:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-09-10T11:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505056790947/1485164576.jpg.jpg"
-primary_image_credit = "Daniil Robovsky"
-publishDate = "2017-09-10T11:22:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/la-monnaie.md","scene/companies/semperoper-dresden.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/los-angeles-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/opernhaus-zurich.md","scene/companies/salzburg-festival.md"]
-slug = "dmitry-korchak"
-title = "Dmitry Korchak"
-website = "http://dmitrykorchak.com/index.php"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/DMITRY-KORCHAK/315279741913828"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/results?search_query=dmitry+korchak"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/dmitry-korchak/sets/dmitry-korchak"
-+++
+---
+date: "2017-09-10T11:22:00-04:00"
+discipline: Tenor
+lastmod: "2017-09-10T11:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505056790947/1485164576.jpg.jpg
+primary_image_credit: Daniil Robovsky
+publishDate: "2017-09-10T11:22:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/la-monnaie.md
+- scene/companies/semperoper-dresden.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/salzburg-festival.md
+slug: dmitry-korchak
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/pages/DMITRY-KORCHAK/315279741913828
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/results?search_query=dmitry+korchak
+- platform: Soundcloud
+  _template: social_media
+  url: https://soundcloud.com/dmitry-korchak/sets/dmitry-korchak
+title: Dmitry Korchak
+website: http://dmitrykorchak.com/index.php
+_template: "people_single"
+---
 
 Russian tenor Dmitry Korchak is one of the most exciting and sought-after voices of his generation acclaimed by critics worldwide and regarded as one of today’s best performers of bel canto repertoire. After winning the Francisco Viñas International Singing Competition in Barcelona and two prizes (4th Prize and the Zarzuela Prize) at Plácido Domingo’s Operalia Competition in Los Angeles, both in 2004, Dmitry Korchak has rapidly become a regular guest at the world’s most renowned opera houses and concert venues.
 

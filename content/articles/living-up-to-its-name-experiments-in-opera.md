@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-10-10T14:58:00-04:00"
-lastmod = "2017-10-23T00:04:00-04:00"
-preamble = "Since 2010, New York-based Experiments in Opera has set about \"re-writing the story of opera.\" They are a composer-run organization that fosters new works, and treats the genre of opera as something that can tell fun, engaging stories that challenge what it means to be relevant and experimental. Their current upcoming project is [*The Nubian Word for Flowers*](http://experimentsinopera.com/portfolio-item/nubian-word-for-flowers/), by Pauline Oliveros and IONE; with EiO and the International Contemporary Ensemble, IONE honours Oliveros' legacy with the opera's posthumous completion and world premiere.\n\nWe chatted with co-founders Aaron Siegel, Matthew Welch, and Jason Cady, about new opera, the composer's perspective on the workshop process, and how they define a \"successful\" opera."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508542413171/2017-10-20---EiO.jpg.jpg"
-primary_image_credit = "(l-r): Experiments in Opera co-founders Matthew Welch, Aaron Siegel, and Jason Cady. Photo: Reuben Radding."
-publishDate = "2017-10-22T21:37:00-04:00"
-related_articles = ["articles/american-opera-projects-youre-seeing-the-opera-in-microcosm.md","articles/new-opera-more-singer-input-needed.md","articles/old-meets-new-modularias-podcast-operas.md"]
-related_companies = ["scene/companies/experiments-in-opera.md"]
-short_description = "&quot;Our most successful projects are ones where we invite composers to make work in a community where everyone is being asked to respond to similar restraints of story, instrumentation, performers, etc. This way, we can create an artistic dialogue about the process, invite audiences to note the differences between each composers&#039; styles and approaches, and engage a wider and more diverse range of singers and instrumentalists who are flexible in terms of style, genre and technique.&quot;"
-slug = "living-up-to-its-name-experiments-in-opera"
-title = "Living up to its name: Experiments in Opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-10-10T14:58:00-04:00"
+lastmod: "2017-10-23T00:04:00-04:00"
+preamble: |-
+  Since 2010, New York-based Experiments in Opera has set about "re-writing the story of opera." They are a composer-run organization that fosters new works, and treats the genre of opera as something that can tell fun, engaging stories that challenge what it means to be relevant and experimental. Their current upcoming project is [*The Nubian Word for Flowers*](http://experimentsinopera.com/portfolio-item/nubian-word-for-flowers/), by Pauline Oliveros and IONE; with EiO and the International Contemporary Ensemble, IONE honours Oliveros' legacy with the opera's posthumous completion and world premiere.
+
+  We chatted with co-founders Aaron Siegel, Matthew Welch, and Jason Cady, about new opera, the composer's perspective on the workshop process, and how they define a "successful" opera.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508542413171/2017-10-20---EiO.jpg.jpg
+primary_image_credit: '(l-r): Experiments in Opera co-founders Matthew Welch, Aaron
+  Siegel, and Jason Cady. Photo: Reuben Radding.'
+publishDate: "2017-10-22T21:37:00-04:00"
+related_articles:
+- articles/american-opera-projects-youre-seeing-the-opera-in-microcosm.md
+- articles/new-opera-more-singer-input-needed.md
+- articles/old-meets-new-modularias-podcast-operas.md
+related_companies:
+- scene/companies/experiments-in-opera.md
+short_description: '&quot;Our most successful projects are ones where we invite composers
+  to make work in a community where everyone is being asked to respond to similar
+  restraints of story, instrumentation, performers, etc. This way, we can create an
+  artistic dialogue about the process, invite audiences to note the differences between
+  each composers&#039; styles and approaches, and engage a wider and more diverse
+  range of singers and instrumentalists who are flexible in terms of style, genre
+  and technique.&quot;'
+slug: living-up-to-its-name-experiments-in-opera
+title: 'Living up to its name: Experiments in Opera'
+_template: article_single
+---
 
 ## How is EiO's mission unique, compared to other organizations that foster new works?
 
@@ -28,8 +44,11 @@ In this way, we are as much a commissioning organization as we are a producing o
 
 **Matt**: I think it is underrepresented how much control the composer has over the libretto — they can be involved heavily in the libretto. Often some of the most organic text setting comes from words written or rephrased by the composer. The mythical idea of the libretto as some handed-down "sacred" text that the composer is slave to can be dismissed. Choosing who to collaborate with on the text is crucial, and ideally the work is fully generated in collaboration to best serve the expressiveness and clarity of the interdisciplinary elements so that they fuse into one. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507662457882/2017-10-10---Nubian-Word-Banner-v2.jpg.jpg)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507662457882/2017-10-10---Nubian-Word-Banner-v2.jpg.jpg)
+
+<figure>
 
 ### What does it mean to be a "composer-driven" organization? If composers are the visionaries of 21st-century opera, what roles do the artists and audiences have in workshopping new pieces?
 

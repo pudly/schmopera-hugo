@@ -2,3 +2,7 @@ public/
 public.zip
 resources/_gen/
 node_modules/
+
+.env.example
+
+node_modules

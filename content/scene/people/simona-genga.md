@@ -1,23 +1,27 @@
-+++
-date = "2018-12-02T10:47:00-05:00"
-discipline = "Mezzo-soprano"
-lastmod = "2018-12-02T10:47:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543765596542/img-6568edit_orig.jpg.jpg"
-primary_image_credit = "Avery's Lightworks Photography."
-publishDate = "2018-12-02T10:47:00-05:00"
-related_companies = ["scene/companies/opera-theatre-of-st-louis.md","scene/companies/university-of-toronto-opera.md","scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
-slug = "simona-genga"
-title = "Simona Genga"
-website = "http://www.simonarosegenga.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/SimonaRoseMezzo/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/artistalove/"
-+++
+---
+date: "2018-12-02T10:47:00-05:00"
+discipline: Mezzo-soprano
+lastmod: "2018-12-02T10:47:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543765596542/img-6568edit_orig.jpg.jpg
+primary_image_credit: Avery's Lightworks Photography.
+publishDate: "2018-12-02T10:47:00-05:00"
+related_companies:
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/university-of-toronto-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+slug: simona-genga
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/SimonaRoseMezzo/
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/artistalove/
+title: Simona Genga
+website: http://www.simonarosegenga.com/
+_template: "people_single"
+---
 
 Mezzo soprano Simona Genga, who is at once "compelling and technically confident" (*Opera Canada*) and "formidable" (*Saint Louis Dispatch*) is a recent graduate of the Opera School at the University of Toronto under the tutelage of Wendy Nielsen. 
 ​

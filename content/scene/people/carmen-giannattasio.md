@@ -1,19 +1,28 @@
-+++
-date = "2017-12-04T19:43:00-05:00"
-discipline = "Soprano"
-lastmod = "2017-12-04T19:43:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512434040898/IMG_1921.jpg.jpg"
-primary_image_credit = "Victor Santiago"
-publishDate = "2017-12-04T19:43:00-05:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/scottish-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/los-angeles-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/wiener-staatsoper.md"]
-slug = "carmen-giannattasio"
-title = "Carmen Giannattasio"
-website = "http://www.carmengiannattasio.com/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/CarmenGiannattasioFC"
-+++
+---
+date: "2017-12-04T19:43:00-05:00"
+discipline: Soprano
+lastmod: "2017-12-04T19:43:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512434040898/IMG_1921.jpg.jpg
+primary_image_credit: Victor Santiago
+publishDate: "2017-12-04T19:43:00-05:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/scottish-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/wiener-staatsoper.md
+slug: carmen-giannattasio
+social_media:
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/user/CarmenGiannattasioFC
+title: Carmen Giannattasio
+website: http://www.carmengiannattasio.com/
+_template: "people_single"
+---
 
 Hailed by the Telegraph as "the most talented of the younger Italian sopranos", Carmen Giannattasio has blazed a trail across stages the world over. Her unique talent has been in demand worldwide since her career was launched by taking First Prize and the Audience Award at Placido Domingo’s Operalia, Paris in 2002. Her lustrous soprano voice and her dramatic ability gained her immediate critical attention and a reputation as a chameleon, able to adapt her tune and skin to the different heroines she embodies.. It was her performance as Violetta in 2007 at Scottish Opera in *La Traviata* which catapulted her into the limelight with Rupert Christiansen commenting in the Daily Telegraph "…a deeply intelligent and profoundly affecting interpretation in the Cotrubas and Scotto mould."
 

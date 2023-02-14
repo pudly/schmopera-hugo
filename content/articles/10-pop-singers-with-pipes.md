@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-01-04T22:00:00-05:00"
-lastmod = "2016-01-06T13:50:00-05:00"
-preamble = "I'm a big old fan of opera singers and their alien skills. They can do anything at all with their voice, it seems. But of course, opera isn't the only place you'll find fantastic singing. We wanted to collect some proof of that statement, which definitely made for a fun day's work. I can't really say anything about the fact that 80% of our picks are women; that's just how it happened. In somewhat chronological order:\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452027764963/2016-01-05---BeyoncePiano.jpg.jpg"
-primary_image_credit = "Photo: Robin Harper/Invision for Parkwood Entertainment/AP Images"
-publishDate = "2016-01-06T09:40:00-05:00"
-related_articles = ["articles/singers-heres-how-to-use-social-media.md","articles/everything-i-know-about-the-piano-i-learned-from-singers.md","articles/13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys.md","articles/christina-aguileras-move-into-pedagogy.md","articles/adele-knowing-your-audience.md","articles/stop-shaming-adele.md"]
-short_description = "I&#039;m a big old fan of opera singers and their alien skills. They can do anything at all with their voice, it seems. But of course, opera isn&#039;t the only place you&#039;ll find fantastic singing. We wanted to collect some proof of that statement, which definitely made for a fun day&#039;s work."
-slug = "10-pop-singers-with-pipes"
-title = "10 pop singers with pipes"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-01-04T22:00:00-05:00"
+lastmod: "2016-01-06T13:50:00-05:00"
+preamble: |
+  I'm a big old fan of opera singers and their alien skills. They can do anything at all with their voice, it seems. But of course, opera isn't the only place you'll find fantastic singing. We wanted to collect some proof of that statement, which definitely made for a fun day's work. I can't really say anything about the fact that 80% of our picks are women; that's just how it happened. In somewhat chronological order:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452027764963/2016-01-05---BeyoncePiano.jpg.jpg
+primary_image_credit: 'Photo: Robin Harper/Invision for Parkwood Entertainment/AP
+  Images'
+publishDate: "2016-01-06T09:40:00-05:00"
+related_articles:
+- articles/singers-heres-how-to-use-social-media.md
+- articles/everything-i-know-about-the-piano-i-learned-from-singers.md
+- articles/13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys.md
+- articles/christina-aguileras-move-into-pedagogy.md
+- articles/adele-knowing-your-audience.md
+- articles/stop-shaming-adele.md
+short_description: I&#039;m a big old fan of opera singers and their alien skills.
+  They can do anything at all with their voice, it seems. But of course, opera isn&#039;t
+  the only place you&#039;ll find fantastic singing. We wanted to collect some proof
+  of that statement, which definitely made for a fun day&#039;s work.
+slug: 10-pop-singers-with-pipes
+title: 10 pop singers with pipes
+_template: article_single
+---
 
 ## Aretha Franklin
 

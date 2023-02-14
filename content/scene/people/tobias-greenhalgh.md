@@ -1,24 +1,25 @@
-+++
-date = "2015-11-28T18:04:00-05:00"
-discipline = "Baritone"
-lastmod = "2015-11-28T18:04:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569782988/media/2019/09/Greenhalgh_Sq_2513_koljpg.jpg"
-primary_image_credit = ""
-publishDate = "2015-11-28T18:04:00-05:00"
-related_companies = ["scene/companies/opera-theatre-of-st-louis.md", "scene/companies/the-juilliard-school.md"]
-slug = "tobias-greenhalgh"
-title = "Tobias Greenhalgh"
-website = "http://tobiasgreenhalgh.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Tobias-Greenhalgh-158402124358836/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/TobiasGreenhalgh"
-
-+++
+---
+date: "2015-11-28T18:04:00-05:00"
+discipline: Baritone
+lastmod: "2015-11-28T18:04:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569782988/media/2019/09/Greenhalgh_Sq_2513_koljpg.jpg
+primary_image_credit: ""
+publishDate: "2015-11-28T18:04:00-05:00"
+related_companies:
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/the-juilliard-school.md
+slug: tobias-greenhalgh
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Tobias-Greenhalgh-158402124358836/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/user/TobiasGreenhalgh
+title: Tobias Greenhalgh
+website: http://tobiasgreenhalgh.com/
+_template: "people_single"
+---
 Baritone Tobias Greenhalgh is a versatile singer on the rise, whom Opera News recently claimed was "so clearly headed for success.” Mr. Greenhalgh joins Boston Lyric Opera for his first performances of Silvio in _I Pagliacci_ in the 2019/20 season. He also joins the ensemble at Aalto-Musiktheater Essen where his roles will include the Count in _Le nozze di Figaro_, Valentin in _Faust_, and Ottokar in _Der Freischütz_. Last season, he sang his first performances of Don Giovanni with both Virginia Opera and Baltimore Concert Opera, Dr. Malatesta in _Don Pasquale_ with Opéra national de Montpellier, Dr. Falke in _Die Fledermaus_ with Palm Beach Opera, Tom Joad in _The Grapes of Wrath_ with Michigan Opera Theatre, Belcore in _L’elisir d’amore_ with Opera Las Vegas, and joined the Britten _Sinfonia_ for the world premiere of Joby Talbot’s cantata _A Sheen of Dew on Flowers_ at the Barbicon in London. 
 
 Recent performances include Figaro in _Il barbiere di Siviglia_ with the Glyndebourne Opera Tour, the title role in _Dido and Aeneas_ with Festival d’Aix-en-Provence, Cecil in _Maria Stuarda_ and Demetrius in _A Midsummer Night’s Dream_ with Theater an der Wien, Riff in _West Side Story_ with the Grand Teton Music Festival under Maestro Gerard Schwarz, Tom Joad in Gordon’s _The Grapes of Wrath_ with Opera Theatre of Saint Louis, Belcore in _L’elisir d’amore_ with the Orlando Philharmonic, a quartet of roles in King Arthur with Staatstheater am Gärtnerplatz, Maximilian in _Candide_ and Sam in _Pirates of Penzance_ with Palm Beach Opera, Jud Fry in _Oklahoma!_ with Charlottesville Opera, Ned Keene in _Peter Grimes_ and Littore and Tribuno in _L’incoronazione di Poppea_ at the Theater an der Wien, Escamillo in _Carmen_ and the Father in _Hänsel und Gretel_ at the Wiener Kammeroper, Doctor Falke in _Die Fledermaus_ at the Franz Lehár Festival in Bad Ischl, Austria and returned to Palm Beach Opera as Moralès in _Carmen_. 

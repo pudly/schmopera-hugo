@@ -1,15 +1,21 @@
-+++
-date = "2019-01-20T20:01:53+00:00"
-discipline = "Bass-baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548014424/media/2019/01/StephenLBryant.jpg"
-primary_image_credit = "David Kerzner"
-related_companies = ["scene/companies/the-santa-fe-opera.md", "scene/companies/spoleto-festival-usa.md", "scene/companies/arizona-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/san-francisco-opera.md", "scene/companies/soundstreams.md"]
-slug = "stephen-l-bryant"
-social_media = []
-title = "Stephen L. Bryant"
-website = ""
-
-+++
+---
+date: "2019-01-20T20:01:53+00:00"
+discipline: Bass-baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548014424/media/2019/01/StephenLBryant.jpg
+primary_image_credit: David Kerzner
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/spoleto-festival-usa.md
+- scene/companies/arizona-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/soundstreams.md
+slug: stephen-l-bryant
+social_media: []
+title: Stephen L. Bryant
+website: ""
+_template: "people_single"
+---
 Grammy nominee Stephen L. Bryant’s distinguished career in concert and opera has taken him around the world, with acclaimed performances in the United States, Europe, the Middle East and Asia. In the 2018-19 season, he performs in Charles Wuorinen's opera _Haroun and the Sea of Stories_, based on the novel by Salman Rushdie, with the Boston Modern Orchestra Project. In July 2019, he sings as a soloist with the Mendhelssohn Club of Philadelphia, in Tan Dun's _Water Passion after St. Matthew_.
 
 In the 2017-18 season he performed as soloist in Tan Dun’s _Water Passion after St. Matthew_ with Soundstreams Canada. His engagements during the 2016-17 season included Handel’s _Messiah_ with the Virginia and Pacific symphonies, Bach’s _B Minor Mass_ with Orchestra Iowa and the South Dakota Symphony Orchestra, as well as performing in a pair of concerts with the Grand Rapids Bach Festival.

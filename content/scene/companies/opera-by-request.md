@@ -1,22 +1,33 @@
-+++
-date = "2015-04-04T20:48:00-04:00"
-lastmod = "2015-04-04T20:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428194789514/OBRLogo.jpeg.jpeg"
-publishDate = "2015-04-04T20:48:00-04:00"
-related_people = ["scene/people/allison-arends.md","scene/people/rachel-krehm.md","scene/people/kira-braun.md","scene/people/nathan-keoughan.md","scene/people/janaka-welihinda.md","scene/people/kim-sartor.md","scene/people/abigail-freeman.md","scene/people/michael-robertbroder.md","scene/people/natalya-matyusheva.md","scene/people/naomi-eberhard.md","scene/people/andrey-andreychik.md"]
-slug = "opera-by-request"
-title = "Opera By Request"
-type_of_company = "Opera Company"
-website = "http://operabyrequest.ca/wordpress/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/OperaByRequest"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/OperaByRequest"
-+++
+---
+date: "2015-04-04T20:48:00-04:00"
+lastmod: "2015-04-04T20:48:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428194789514/OBRLogo.jpeg.jpeg
+publishDate: "2015-04-04T20:48:00-04:00"
+related_people:
+- scene/people/allison-arends.md
+- scene/people/rachel-krehm.md
+- scene/people/kira-braun.md
+- scene/people/nathan-keoughan.md
+- scene/people/janaka-welihinda.md
+- scene/people/kim-sartor.md
+- scene/people/abigail-freeman.md
+- scene/people/michael-robertbroder.md
+- scene/people/natalya-matyusheva.md
+- scene/people/naomi-eberhard.md
+- scene/people/andrey-andreychik.md
+slug: opera-by-request
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/OperaByRequest
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/OperaByRequest
+title: Opera By Request
+type_of_company: Opera Company
+website: http://operabyrequest.ca/wordpress/
+_template: "company_single"
+---
 
 <p>
 	At Opera by Request we perform all manner of operatic repertoire in concert format, not such an unusual concept. The twist is that the repertoire is decided by the participants, not the company directorate.

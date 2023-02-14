@@ -1,13 +1,28 @@
-+++
-date = "2019-03-11T00:12:29+00:00"
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552262966/media/2019/03/AlexeyDolgovpcJannisMayr.jpg"
-primary_image_credit = "Jannis Mayr"
-related_companies = ["scene/companies/seattle-opera.md", "scene/companies/scottish-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/los-angeles-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/gran-teatre-del-liceu.md", "scene/companies/l-opéra-de-montréal.md", "scene/companies/royal-opera-house.md", "scene/companies/the-dallas-opera.md", "scene/companies/opra-national-de-paris.md", "scene/companies/la-monnaie.md", "scene/companies/staatsoper-berlin.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/washington-national-opera.md"]
-slug = "alexey-dolgov"
-title = "Alexey Dolgov"
-
-+++
+---
+date: "2019-03-11T00:12:29+00:00"
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1552262966/media/2019/03/AlexeyDolgovpcJannisMayr.jpg
+primary_image_credit: Jannis Mayr
+related_companies:
+- scene/companies/seattle-opera.md
+- scene/companies/scottish-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/l-opéra-de-montréal.md
+- scene/companies/royal-opera-house.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/la-monnaie.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/washington-national-opera.md
+slug: alexey-dolgov
+title: Alexey Dolgov
+_template: "people_single"
+---
 The Siberian tenor Alexey Dolgov is currently celebrating one successful debut after another at important venues all around the world. His performances have gained him high critical acclaim for his ‘clarion tenor’ (_Montreal Gazette_), ‘naturalness and superb timing’ (_Metro Weekly_, Washington D.C); he also ‘shines as an actor’ (_Washington Post_).
 
 Alexey has worked with conductors such as Placido Domingo, Vasily Petrenko, Daniel Harding, Semyon Bychkov, Seiji Ozawa, Kirill Karabits, Gianandrea Noseda, Alexander Shelley, Philippe Auguin, Patrick Summers, Alain Altinoglu, Dan Ettinger, Leo Hussain,Robin Ticciati, Renato Palumbo, Omer Meir Wellber, Leopold Hager and Dmitri Jurowski.

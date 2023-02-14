@@ -1,17 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-24T18:14:00-04:00"
-lastmod = "2017-08-09T16:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502234500081/2017-08-09---Paul-Kwak.jpg.jpg"
-publishDate = "2017-08-09T13:09:00-04:00"
-related_articles = ["articles/stop-shaming-adele.md","articles/baby-opera-singers-getting-angry-for-the-right-reasons.md","articles/the-voice-teacher-series-edith-wiens.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/christine-goerke.md","scene/people/ailyn-prez.md","scene/people/jamie-barton.md"]
-short_description = "&quot;People have so much fear about injury or the discovery of pathology on the vocal cords,&quot; Kwak explains of common diagnoses like nodules, cysts, or polyps on the cords. &quot;I think a lot of it was borne out of this unscientific school of voice teaching.&quot;"
-slug = "talking-with-voice-docs-dr-paul-e-kwak"
-title = "Talking with voice docs: Dr. Paul E. Kwak"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-24T18:14:00-04:00"
+lastmod: "2017-08-09T16:47:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502234500081/2017-08-09---Paul-Kwak.jpg.jpg
+publishDate: "2017-08-09T13:09:00-04:00"
+related_articles:
+- articles/stop-shaming-adele.md
+- articles/baby-opera-singers-getting-angry-for-the-right-reasons.md
+- articles/the-voice-teacher-series-edith-wiens.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/christine-goerke.md
+- scene/people/ailyn-prez.md
+- scene/people/jamie-barton.md
+short_description: '&quot;People have so much fear about injury or the discovery of
+  pathology on the vocal cords,&quot; Kwak explains of common diagnoses like nodules,
+  cysts, or polyps on the cords. &quot;I think a lot of it was borne out of this unscientific
+  school of voice teaching.&quot;'
+slug: talking-with-voice-docs-dr-paul-e-kwak
+title: 'Talking with voice docs: Dr. Paul E. Kwak'
+_template: article_single
+---
 
 "My career, I would say, is a portrait of indecision," smiles Dr. Paul E. Kwak, laryngologist at New York's NYU Langone Medical Center. Kwak is also a graduate of the Juilliard School, where he studied Collaborative Piano with famed pianist and voice coach, Margo Garrett. Though medicine was always a probable career path, he adds, "I think the music piece was always a really important heart piece. I always loved playing."
 

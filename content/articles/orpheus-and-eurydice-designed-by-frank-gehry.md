@@ -1,15 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-04-10T21:00:00-04:00"
-lastmod = "2015-04-12T00:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713797758/GehryPrague.jpg.jpg"
-publishDate = "2015-03-31T09:00:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md"]
-short_description = "Canadian architect Frank Gehry will design a production of Gluck&#039;s Orpheus and Eurydice, to be directed by Jürgen Flimm, the Staatsoper&#039;s Intendant. At the podium will be Daniel Barenboim, in case the idea wasn’t impressive enough."
-slug = "orpheus-and-eurydice-designed-by-frank-gehry"
-title = "Orpheus and Eurydice, designed by Frank Gehry"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-04-10T21:00:00-04:00"
+lastmod: "2015-04-12T00:07:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713797758/GehryPrague.jpg.jpg
+publishDate: "2015-03-31T09:00:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+short_description: Canadian architect Frank Gehry will design a production of Gluck&#039;s
+  Orpheus and Eurydice, to be directed by Jürgen Flimm, the Staatsoper&#039;s Intendant.
+  At the podium will be Daniel Barenboim, in case the idea wasn’t impressive enough.
+slug: orpheus-and-eurydice-designed-by-frank-gehry
+title: Orpheus and Eurydice, designed by Frank Gehry
+_template: article_single
+---
 
 <p>
 	I read some 
@@ -19,7 +25,7 @@ title = "Orpheus and Eurydice, designed by Frank Gehry"
 	Gehry has designed once before for opera, when he created installations for a cool-looking production of 
 	<em>Don Giovanni</em>, directed by Christopher Alden, with the Los Angeles Philharmonic (in <a href="http://www.latimes.com/entertainment/arts/disneyhall/la-et-cm-disney-hall-hawthorne-dto-htmlstory.html" target="_blank" data-mce-href="http://www.latimes.com/entertainment/arts/disneyhall/la-et-cm-disney-hall-hawthorne-dto-htmlstory.html">Walt Disney Hall</a>, of course). Here's a quick look:
 </p>
-<figure data-type="image">{{% md %}}<a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713945882/GehryGiovanni.jpg">
+<figure data-type="image"><a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713945882/GehryGiovanni.jpg">
 <img data-resize-src="http://lh3.googleusercontent.com/wlBfa2gUxwQ_0oooN-5T-pNXiS-INuCkq5Imm0Nz9jM_7S79iwfMm65cw6eAppcEuyUwfqzO1UTTffpxHQMn8sC2G9ed" src="http://lh3.googleusercontent.com/wlBfa2gUxwQ_0oooN-5T-pNXiS-INuCkq5Imm0Nz9jM_7S79iwfMm65cw6eAppcEuyUwfqzO1UTTffpxHQMn8sC2G9ed=s1200">
 </a>
 <figcaption>

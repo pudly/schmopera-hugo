@@ -1,19 +1,26 @@
-+++
-date = "2016-04-11T10:02:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-04-11T10:02:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460365200144/2016-04-11---Sarah-Tynan-1---credit-Chris-Gloag.jpg.jpg"
-primary_image_credit = "Chris Gloag."
-publishDate = "2016-04-11T10:02:00+01:00"
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/scottish-opera.md","scene/companies/garsington-opera.md","scene/companies/english-national-opera.md","scene/companies/opera-north.md","scene/companies/salzburg-festival.md"]
-slug = "sarah-tynan"
-title = "Sarah Tynan"
-website = "http://www.sarahtynan.com/index.html"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/LaTynan"
-+++
+---
+date: "2016-04-11T10:02:00+01:00"
+discipline: Soprano
+lastmod: "2016-04-11T10:02:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460365200144/2016-04-11---Sarah-Tynan-1---credit-Chris-Gloag.jpg.jpg
+primary_image_credit: Chris Gloag.
+publishDate: "2016-04-11T10:02:00+01:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/scottish-opera.md
+- scene/companies/garsington-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/opera-north.md
+- scene/companies/salzburg-festival.md
+slug: sarah-tynan
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/LaTynan
+title: Sarah Tynan
+website: http://www.sarahtynan.com/index.html
+_template: "people_single"
+---
 
 Sarah Tynan’s exceptional versatility and engaging stage presence have earned her a place in the league of elite British sopranos. She enjoys huge success in baroque, classical and contemporary repertoire, and appears regularly with leading orchestras and ensembles. Last season Tynan received rave reviews for her “mesmerising” Manon Lescaut in Henze’s *Boulevard Solitude* at Welsh National Opera, a role for which she recently received the Welsh Theatre Award for Best Female in an Opera Production.
 

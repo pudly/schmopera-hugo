@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-06-29T18:23:00-06:00"
-lastmod = "2015-07-02T12:41:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435624376522/Vernon-bw-photo-by-Jo-Ann-Richards.jpg.jpg"
-publishDate = "2015-07-02T12:41:00-06:00"
-related_articles = ["articles/the-future-of-opera-is-indie.md"]
-related_companies = ["scene/companies/opera-lyra-ottawa.md","scene/companies/pacific-opera-victoria.md"]
-related_people = ["scene/people/timothy-vernon.md"]
-short_description = "If you&#039;ve not yet heard the news, Maestro Timothy Vernon has been appointed the new Artistic Director of Opera Lyra Ottawa. Vernon will begin immediately with the 2015/16 season, and he&#039;ll maintain his position as Artistic Director of Pacific Opera Victoria. A busy man just got busier."
-slug = "tim-vernon-artistic-director"
-title = "Tim Vernon, Artistic Director²"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-06-29T18:23:00-06:00"
+lastmod: "2015-07-02T12:41:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435624376522/Vernon-bw-photo-by-Jo-Ann-Richards.jpg.jpg
+publishDate: "2015-07-02T12:41:00-06:00"
+related_articles:
+- articles/the-future-of-opera-is-indie.md
+related_companies:
+- scene/companies/opera-lyra-ottawa.md
+- scene/companies/pacific-opera-victoria.md
+related_people:
+- scene/people/timothy-vernon.md
+short_description: If you&#039;ve not yet heard the news, Maestro Timothy Vernon has
+  been appointed the new Artistic Director of Opera Lyra Ottawa. Vernon will begin
+  immediately with the 2015/16 season, and he&#039;ll maintain his position as Artistic
+  Director of Pacific Opera Victoria. A busy man just got busier.
+slug: tim-vernon-artistic-director
+title: Tim Vernon, Artistic Director²
+_template: article_single
+---
 
 If you've not yet heard the news, Maestro Timothy Vernon has been appointed the new Artistic Director of [Opera Lyra Ottawa](/scene/people/opera-lyra-ottawa/). Vernon will begin immediately with the 2015/16 season, and he'll maintain his position as Artistic Director of [Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/). A busy man just got busier. 
 

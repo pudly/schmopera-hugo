@@ -1,17 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-04-10T20:50:00-04:00"
-lastmod = "2015-04-12T19:47:00-04:00"
-preamble = "On[ April 12th at Mazzoleni Concert Hall](http://amiciensemble.com/event/mireille-asselin-the-shepherd/), you can catch soprano [Mireille Asselin](http://www.mireilleasselin.com/) (just back from her Met debut as Poussette in _Manon_) in concert with the [Amici Chamber Ensemble](http://amiciensemble.com/about/), namely cellist David Hetherington, clarinetist Joaquin Valdepeñas, and pianist Serouj Kradjian. Entitled \"The Shepherd,\" the program will feature music by Schubert, Mikhail Glinka, John Tavener, and André Previn; I have a feeling this concert is not to be missed ([ticket info here](http://amiciensemble.com/event/mireille-asselin-the-shepherd/)). Mireille, David, and Serouj indulged some of my questions about their selection of music, and the intensity of collaborating as a chamber group."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713220950/AmiciMireill.jpg.jpg"
-primary_image_credit = "Bo Huang (Amici Ensemble) & Matthew Fried (Mireille Asselin)"
-publishDate = "2015-04-01T10:00:00-04:00"
-related_articles = ["articles/dont-miss-the-amici-ensemble-reimagines-don-giovanni.md"]
-short_description = "An interview with soprano Mireille Asselin and the Amici Chamber Ensemble, as they prepare to collaborate in concert on April 12th."
-slug = "5-questions-mireille-asselin-amici-chamber-ensemble"
-title = "5 Questions for Mireille Asselin &amp; the Amici Chamber Ensemble"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-04-10T20:50:00-04:00"
+lastmod: "2015-04-12T19:47:00-04:00"
+preamble: On[ April 12th at Mazzoleni Concert Hall](http://amiciensemble.com/event/mireille-asselin-the-shepherd/),
+  you can catch soprano [Mireille Asselin](http://www.mireilleasselin.com/) (just
+  back from her Met debut as Poussette in _Manon_) in concert with the [Amici Chamber
+  Ensemble](http://amiciensemble.com/about/), namely cellist David Hetherington, clarinetist
+  Joaquin Valdepeñas, and pianist Serouj Kradjian. Entitled "The Shepherd," the program
+  will feature music by Schubert, Mikhail Glinka, John Tavener, and André Previn;
+  I have a feeling this concert is not to be missed ([ticket info here](http://amiciensemble.com/event/mireille-asselin-the-shepherd/)).
+  Mireille, David, and Serouj indulged some of my questions about their selection
+  of music, and the intensity of collaborating as a chamber group.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713220950/AmiciMireill.jpg.jpg
+primary_image_credit: Bo Huang (Amici Ensemble) & Matthew Fried (Mireille Asselin)
+publishDate: "2015-04-01T10:00:00-04:00"
+related_articles:
+- articles/dont-miss-the-amici-ensemble-reimagines-don-giovanni.md
+short_description: An interview with soprano Mireille Asselin and the Amici Chamber
+  Ensemble, as they prepare to collaborate in concert on April 12th.
+slug: 5-questions-mireille-asselin-amici-chamber-ensemble
+title: 5 Questions for Mireille Asselin &amp; the Amici Chamber Ensemble
+_template: article_single
+---
 
 ## 1\. All of you have experience working in a large scale (symphony orchestras, large opera houses). What changes when the ensemble becomes small, as with this concert?  
 

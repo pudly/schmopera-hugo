@@ -1,18 +1,29 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2014-10-16T15:57:00-04:00"
-lastmod = "2015-04-14T14:14:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429035102925/Butterfly-MC-1291.jpg.jpg"
-primary_image_credit = "Patricia Racette as Cio-Cio San. Photo by MIchael Cooper"
-publishDate = "2014-10-16T15:57:00-04:00"
-related_articles = ["articles/talking-with-singers-elizabeth-deshong.md","articles/birdcalls-and-spoilers.md","articles/in-review-madam-butterfly-at-eno.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/elizabeth-deshong.md","scene/people/patricia-racette.md","scene/people/patrick-lange.md"]
-short_description = "On Wednesday, October 15th I made my way on over the Four Seasons Centre at University and Queen Street West to check out the Canadian Opera Company‘s production of Madama Butterfly by Giacomo Puccini (duh, Greg.)g"
-slug = "in-review-madama-butterfly"
-title = "In review: Madama Butterfly"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2014-10-16T15:57:00-04:00"
+lastmod: "2015-04-14T14:14:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429035102925/Butterfly-MC-1291.jpg.jpg
+primary_image_credit: Patricia Racette as Cio-Cio San. Photo by MIchael Cooper
+publishDate: "2014-10-16T15:57:00-04:00"
+related_articles:
+- articles/talking-with-singers-elizabeth-deshong.md
+- articles/birdcalls-and-spoilers.md
+- articles/in-review-madam-butterfly-at-eno.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/elizabeth-deshong.md
+- scene/people/patricia-racette.md
+- scene/people/patrick-lange.md
+short_description: On Wednesday, October 15th I made my way on over the Four Seasons
+  Centre at University and Queen Street West to check out the Canadian Opera Company‘s
+  production of Madama Butterfly by Giacomo Puccini (duh, Greg.)g
+slug: in-review-madama-butterfly
+title: 'In review: Madama Butterfly'
+_template: article_single
+---
 
 On Wednesday, October 15th I made my way on over the Four Seasons Centre at University and Queen Street West to check out the [Canadian Opera Company](http://www.coc.ca/Home.aspx)'s production of [_Madama Butterfly_](http://www.coc.ca/PerformancesAndTickets/1415Season/MadamaButterfly.aspx) by Giacomo Puccini (duh, Greg.)
 Let me preface this by saying one thing: the music is beautiful, the story is not. I don't have the emotional, visceral attachment to this piece that other people have. I can't explain why - well, actually I can, but that's a completely different piece for another time here at Schmopera.

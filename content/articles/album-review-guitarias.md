@@ -1,15 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-02-12T19:09:00-05:00"
-lastmod = "2015-04-27T22:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430189111304/Doug.jpg.jpg"
-publishDate = "2014-02-12T19:09:00-05:00"
-related_people = ["scene/people/doug-macnaughton.md"]
-short_description = "This week, Canadian baritone and guitarist Doug MacNaughton releases Guitarias. It&#039;s his debut recording on the guitar, fusing what&#039;s clearly been two important elements to Doug&#039;s life as a musician."
-slug = "album-review-guitarias"
-title = "Album Review: Guitarias"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-02-12T19:09:00-05:00"
+lastmod: "2015-04-27T22:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430189111304/Doug.jpg.jpg
+publishDate: "2014-02-12T19:09:00-05:00"
+related_people:
+- scene/people/doug-macnaughton.md
+short_description: This week, Canadian baritone and guitarist Doug MacNaughton releases
+  Guitarias. It&#039;s his debut recording on the guitar, fusing what&#039;s clearly
+  been two important elements to Doug&#039;s life as a musician.
+slug: album-review-guitarias
+title: 'Album Review: Guitarias'
+_template: article_single
+---
 
 This week, Canadian baritone and guitarist [Doug MacNaughton](http://www.dougmacnaughton.com/) releases _Guitarias._ It's his debut recording on the guitar, fusing what's clearly been two important elements to Doug's life as a musician.
 

@@ -1,18 +1,49 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-11-28T23:50:00+00:00"
-lastmod = "2016-10-18T21:00:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476820801008/2015-12-01---Nicole-Cabell---Devon-Cass.jpg.jpg"
-primary_image_credit = "Photo by Devon Cass."
-publishDate = "2015-12-01T13:52:00+00:00"
-related_articles = ["articles/talking-with-singers-elizabeth-caballero.md","articles/talking-with-singers-elizabeth-deshong.md","articles/talking-with-singers-peter-mcgillivray.md","articles/andrew-staples-messiah-and-multitasking.md","articles/talking-with-singers-leah-crocetto.md","articles/spotlight-on-michael-nyby.md","articles/spotlight-on-aidan-ferguson.md","articles/talking-with-singers-christine-goerke.md","articles/spotlight-on-rolando-sanz.md","articles/arianna-zukerman-youve-got-to-live-your-truth.md","articles/paul-appleby-telling-stories-at-wigmore-hall.md","articles/spotlight-on-lara-ciekiewicz.md","articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-christian-van-horn.md","articles/talking-with-singers-jamie-barton.md","articles/talking-with-singers-corinne-winters.md","articles/talking-with-singers-melody-moore.md","articles/what-weve-learned-by-talking-with-108-opera-singers.md","articles/talking-with-singers-keri-alkema.md","articles/talking-with-singers-marina-rebeka.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/nicole-cabell.md","scene/people/renee-fleming.md","scene/people/thomas-hampson.md"]
-short_description = "&quot;There&#039;s a part of me, and every singer I know, that wants to settle down and have a normal job and a family, and all that. But then there&#039;s this other part, and I think if you don&#039;t have this, you&#039;re gonna have a hard time. There&#039;s this other part where you&#039;re really restless if you&#039;re not aways going, and having crazy adventures. *Wanderlust*, I guess. I have that in me.&quot; "
-slug = "talking-with-singers-nicole-cabell"
-title = "Talking with singers: Nicole Cabell"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-11-28T23:50:00+00:00"
+lastmod: "2016-10-18T21:00:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476820801008/2015-12-01---Nicole-Cabell---Devon-Cass.jpg.jpg
+primary_image_credit: Photo by Devon Cass.
+publishDate: "2015-12-01T13:52:00+00:00"
+related_articles:
+- articles/talking-with-singers-elizabeth-caballero.md
+- articles/talking-with-singers-elizabeth-deshong.md
+- articles/talking-with-singers-peter-mcgillivray.md
+- articles/andrew-staples-messiah-and-multitasking.md
+- articles/talking-with-singers-leah-crocetto.md
+- articles/spotlight-on-michael-nyby.md
+- articles/spotlight-on-aidan-ferguson.md
+- articles/talking-with-singers-christine-goerke.md
+- articles/spotlight-on-rolando-sanz.md
+- articles/arianna-zukerman-youve-got-to-live-your-truth.md
+- articles/paul-appleby-telling-stories-at-wigmore-hall.md
+- articles/spotlight-on-lara-ciekiewicz.md
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/talking-with-singers-christian-van-horn.md
+- articles/talking-with-singers-jamie-barton.md
+- articles/talking-with-singers-corinne-winters.md
+- articles/talking-with-singers-melody-moore.md
+- articles/what-weve-learned-by-talking-with-108-opera-singers.md
+- articles/talking-with-singers-keri-alkema.md
+- articles/talking-with-singers-marina-rebeka.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/nicole-cabell.md
+- scene/people/renee-fleming.md
+- scene/people/thomas-hampson.md
+short_description: '&quot;There&#039;s a part of me, and every singer I know, that
+  wants to settle down and have a normal job and a family, and all that. But then
+  there&#039;s this other part, and I think if you don&#039;t have this, you&#039;re
+  gonna have a hard time. There&#039;s this other part where you&#039;re really restless
+  if you&#039;re not aways going, and having crazy adventures. *Wanderlust*, I guess.
+  I have that in me.&quot; '
+slug: talking-with-singers-nicole-cabell
+title: 'Talking with singers: Nicole Cabell'
+_template: article_single
+---
 
 "You know, if I suppose you let that pressure get to your head, you'd never sing," laughs Nicole Cabell, who's currently sharing the role of Hanna with fellow star soprano [Renée Fleming](/scene/people/renee-fleming/), in Lyric Opera of Chicago's [*The Merry Widow*](https://www.lyricopera.org/concertstickets/calendar/2015-2016/productions/lyricopera/the-merry-widow). 
 
@@ -22,7 +53,9 @@ Hanna is a role debut for Cabell, and Lehár's operetta is a departure from her 
 
 Cabell has had a long relationship with [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/), starting with the [Ryan Opera Center](https://www.lyricopera.org/ryanoperacenter) in 2002. She spent three seasons as a young artist, and has since returned for roles like Pamina (*Die Zauberflöte*), Leïla (*Les pêcheurs de perles*), and the Countess in *Le nozze di Figaro*. Cabell now lives in Chicago, and Lyric Opera is "sort of like my home company. It's really nice to live in a city where you can sing at home."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448771198882/2015-11-29---Nicole-Cabell-dress.jpg.jpg)<figcaption>Photo by Erika Dufour.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448771198882/2015-11-29---Nicole-Cabell-dress.jpg.jpg)<figcaption>Photo by Erika Dufour.</figcaption>
 </figure>
 
 ## Travel junkie
@@ -35,7 +68,10 @@ While most singers see travel as an industry perk, for Cabell, it's almost as if
 
 Not everyone has the same attitude, and Cabell knows she's fortunate to thrive off the nomadic lifestyle. "I think if you're sensitive or if you need company all the time, I don't know if it's for you, this career. You have to be really comfortable being alone, and you have to be pretty independent, just kind of fearless in getting by in a foreign country by yourself." It's something that Cabell understood early on about the life of a professional singer, "but I think a lot of people underestimate the amount of independence you have to have, and proactivity."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448771282843/amore-Cabell-denaBofill1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448771282843/amore-Cabell-denaBofill1.jpg.jpg)
+
 <figcaption>Cabell as Adina, with Àngel Òdena as Belcore, in *L'elisir d'amore*, Gran Teatre del Liceu, 2012. </figcaption>
 </figure>
 
@@ -49,7 +85,9 @@ Violetta in *La traviata* is another of those favoured soprano roles available t
 
 So, what does it feel like to be able to sing Juliette, or Adina, or the Countess? "Each job is like climbing a mountain, it's really challenging. But you get to the top, and there's a real adrenaline rush, and it's kind of an amazing thing to be able to do. And everybody's different; some people just really love the act of singing. I love all of it."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448771132354/LaTraviata-Michigan-Opera-Theater-November-20131.jpg.jpg)<figcaption>Nicole Cabell as Violetta in *La traviata*, Michigan Opera Theater, 2013.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448771132354/LaTraviata-Michigan-Opera-Theater-November-20131.jpg.jpg)<figcaption>Nicole Cabell as Violetta in *La traviata*, Michigan Opera Theater, 2013.</figcaption>
 </figure>
 
 Cabell is a free spirit when it comes to the future of her career. "I want to teach, for sure. I don't know where that's going to fit with the repertoire I get offered. I'm doing things this year I never thought I would do; I never thought I would sing *Alcina*, I never thought I would sing *Merry Widow*." Now, she's reaping the rewards of her exhaustive work, and she has the luxury of choice and curiosity with the roles she takes on. "I'm a lucky person because I can say that I've crossed everything off of my bucket list. Once I sang Mimì in Paris I said, 'Ok, that's it, everything else is just frosting.' I'm in a good place, because I don't have a plan. I know I'm lucky in saying that. I'm very grateful."

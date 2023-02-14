@@ -1,19 +1,43 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-11-07T16:45:00+00:00"
-lastmod = "2016-11-10T13:54:00+00:00"
-preamble = "This week American composer Kevin Puts, whose debut opera *Silent Night* earned him the 2012 Pulitzer Prize, will hear the premiere of his new song cycle *Letters from Georgia*, based on letters written by Georgia O'Keeffe to her eventual husband, photographer and art promoter Alfred Stieglitz, and to artist and suffragette Anita Pollitzer. \n\n*Letters from Georgia* will be premiered by Renée Fleming and the Eastman Philharmonia on [**November 12 at the Eastman Theatre**](http://eastmantheatre.org/events/eastman-philharmonia-with-renee-fleming/) in Rochester, NY and on [**November 14 at Alice Tully Hall**](http://www.lincolncenter.org/show/eastman-school-of-music-philharmonia) in Lincoln Center.\n\nWe spoke with Puts about his new song cycle, the success of *Silent Night*, and why he never gets writer's block."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478537715918/2016-11-08---Kevin_Puts-resized.jpg.jpg"
-primary_image_credit = "Photo by David White."
-publishDate = "2016-11-10T13:54:00+00:00"
-related_articles = ["articles/dean-burry-on-the-highwayman.md","articles/the-score-how-to-see-what-a-composer-sees.md","articles/talking-with-singers-craig-irvin.md","articles/elizabeth-cree-kevin-puts.md","articles/a-stunning-premiere-elizabeth-cree.md","articles/talking-with-composers-mark-adamo.md"]
-related_companies = ["scene/companies/minnesota-opera.md","scene/companies/the-atlanta-opera.md"]
-related_people = ["scene/people/renee-fleming.md","scene/people/kevin-puts.md"]
-short_description = "&quot;I begin with the libretto and I try not to overthink things. If there is a particularly powerful moment a few scenes down the road in the libretto, I will spend very little time looking at it in advance. I want to experience a fresh excitement when I arrive there, because this will lead to more inspired music and will translate well to what the audience might feel.&quot;"
-slug = "kevin-puts-i-know-who-i-am-as-a-composer"
-title = "Kevin Puts: &quot;I know who I am as a composer.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-11-07T16:45:00+00:00"
+lastmod: "2016-11-10T13:54:00+00:00"
+preamble: "This week American composer Kevin Puts, whose debut opera *Silent Night*
+  earned him the 2012 Pulitzer Prize, will hear the premiere of his new song cycle
+  *Letters from Georgia*, based on letters written by Georgia O'Keeffe to her eventual
+  husband, photographer and art promoter Alfred Stieglitz, and to artist and suffragette
+  Anita Pollitzer. \n\n*Letters from Georgia* will be premiered by Renée Fleming and
+  the Eastman Philharmonia on [**November 12 at the Eastman Theatre**](http://eastmantheatre.org/events/eastman-philharmonia-with-renee-fleming/)
+  in Rochester, NY and on [**November 14 at Alice Tully Hall**](http://www.lincolncenter.org/show/eastman-school-of-music-philharmonia)
+  in Lincoln Center.\n\nWe spoke with Puts about his new song cycle, the success of
+  *Silent Night*, and why he never gets writer's block."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478537715918/2016-11-08---Kevin_Puts-resized.jpg.jpg
+primary_image_credit: Photo by David White.
+publishDate: "2016-11-10T13:54:00+00:00"
+related_articles:
+- articles/dean-burry-on-the-highwayman.md
+- articles/the-score-how-to-see-what-a-composer-sees.md
+- articles/talking-with-singers-craig-irvin.md
+- articles/elizabeth-cree-kevin-puts.md
+- articles/a-stunning-premiere-elizabeth-cree.md
+- articles/talking-with-composers-mark-adamo.md
+related_companies:
+- scene/companies/minnesota-opera.md
+- scene/companies/the-atlanta-opera.md
+related_people:
+- scene/people/renee-fleming.md
+- scene/people/kevin-puts.md
+short_description: '&quot;I begin with the libretto and I try not to overthink things.
+  If there is a particularly powerful moment a few scenes down the road in the libretto,
+  I will spend very little time looking at it in advance. I want to experience a fresh
+  excitement when I arrive there, because this will lead to more inspired music and
+  will translate well to what the audience might feel.&quot;'
+slug: kevin-puts-i-know-who-i-am-as-a-composer
+title: 'Kevin Puts: &quot;I know who I am as a composer.&quot;'
+_template: article_single
+---
 
 ## Do you have a technique or process that's specific to writing opera? Where do you begin?
 

@@ -1,19 +1,56 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-08-02T13:11:00+02:00"
-lastmod = "2015-08-07T12:19:00+02:00"
-preamble = "[Keith Lam](/scene/people/keith-lam/) and I met in the way that many, many opera-loving Canadians meet: at Opera NUOVA. The Hong Kong-born, Toronto-based baritone is a member of the [Tafelmusik Chamber Choir](/scene/companies/tafelmusik-baroque-orchestra-chamber-choir/), and he has sung with the very excellent [Canadian Opera Company](/scene/companies/canadian-opera-company/) Chorus. As a soloist, Keith has lit up stages with [Against the Grain Theatre](/scene/companies/against-the-grain/), [The Banff Centre](/scene/companies/the-banff-centre/), Aspen Opera Theater, and he wrote me recently mid-rehearsals for *Le nozze di Figaro* at [Highlands Opera Studio](/scene/companies/highlands-opera-studio/). \n\nIf you know Keith, he has already charmed you. If you haven't yet met him, start by reading his frank and wise interview. \"Singing is my medicine,\" he says."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438514292073/KeithSquare.jpg.jpg"
-primary_image_credit = "Photo: Katie Jameson"
-publishDate = "2015-08-07T06:00:00+02:00"
-related_articles = ["articles/spotlight-on-kimberleyann-bartczak.md","articles/spotlight-on-william-ford.md","articles/spotlight-on-jeremy-hirsch.md","articles/spotlight-on-lida-szkwarek.md","articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-kelsey-vicary.md","articles/spotlight-on-peter-bass.md","articles/spotlight-on-emily-peragine.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-sara-schabas.md","articles/spotlight-on-michael-nyby.md","articles/spotlight-on-james-westman.md","articles/spotlight-on-alexander-hajek.md","articles/talking-with-singers-giles-tomkins.md","articles/spotlight-on-jacques-arsenault.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/keith-lam.md"]
-short_description = "Keith Lam and I met in the way that many, many opera-loving Canadians meet: at Opera NUOVA. The Hong Kong-born, Toronto-based baritone is a member of the Tafelmusik Chamber Choir, and he has sung with the excellent Canadian Opera Company Chorus. As a soloist, Keith has lit up stages with Against the Grain Theatre, The Banff Centre, Aspen Opera Theater, and he wrote me recently mid-rehearsals for Le nozze di Figaro at Highlands Opera Studio. "
-slug = "spotlight-on-keith-lam"
-title = "Spotlight on: Keith Lam"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-08-02T13:11:00+02:00"
+lastmod: "2015-08-07T12:19:00+02:00"
+preamble: "[Keith Lam](/scene/people/keith-lam/) and I met in the way that many, many
+  opera-loving Canadians meet: at Opera NUOVA. The Hong Kong-born, Toronto-based baritone
+  is a member of the [Tafelmusik Chamber Choir](/scene/companies/tafelmusik-baroque-orchestra-chamber-choir/),
+  and he has sung with the very excellent [Canadian Opera Company](/scene/companies/canadian-opera-company/)
+  Chorus. As a soloist, Keith has lit up stages with [Against the Grain Theatre](/scene/companies/against-the-grain/),
+  [The Banff Centre](/scene/companies/the-banff-centre/), Aspen Opera Theater, and
+  he wrote me recently mid-rehearsals for *Le nozze di Figaro* at [Highlands Opera
+  Studio](/scene/companies/highlands-opera-studio/). \n\nIf you know Keith, he has
+  already charmed you. If you haven't yet met him, start by reading his frank and
+  wise interview. \"Singing is my medicine,\" he says."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438514292073/KeithSquare.jpg.jpg
+primary_image_credit: 'Photo: Katie Jameson'
+publishDate: "2015-08-07T06:00:00+02:00"
+related_articles:
+- articles/spotlight-on-kimberleyann-bartczak.md
+- articles/spotlight-on-william-ford.md
+- articles/spotlight-on-jeremy-hirsch.md
+- articles/spotlight-on-lida-szkwarek.md
+- articles/spotlight-on-charlotte-knight.md
+- articles/spotlight-on-danielle-macmillan.md
+- articles/spotlight-on-kelsey-vicary.md
+- articles/spotlight-on-peter-bass.md
+- articles/spotlight-on-emily-peragine.md
+- articles/spotlight-on-maikai-nash.md
+- articles/spotlight-on-sara-schabas.md
+- articles/spotlight-on-michael-nyby.md
+- articles/spotlight-on-james-westman.md
+- articles/spotlight-on-alexander-hajek.md
+- articles/talking-with-singers-giles-tomkins.md
+- articles/spotlight-on-jacques-arsenault.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/keith-lam.md
+short_description: 'Keith Lam and I met in the way that many, many opera-loving Canadians
+  meet: at Opera NUOVA. The Hong Kong-born, Toronto-based baritone is a member of
+  the Tafelmusik Chamber Choir, and he has sung with the excellent Canadian Opera
+  Company Chorus. As a soloist, Keith has lit up stages with Against the Grain Theatre,
+  The Banff Centre, Aspen Opera Theater, and he wrote me recently mid-rehearsals for
+  Le nozze di Figaro at Highlands Opera Studio. '
+slug: spotlight-on-keith-lam
+title: 'Spotlight on: Keith Lam'
+_template: article_single
+---
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 
@@ -27,7 +64,9 @@ Simple as that. I wish everyone could pursue what he or she loves as a career, a
 
 To me, good singing means healthy singing. Nothing contrived. I believe in a good, solid, reliable vocal technique that will save your ass when you’re sick as a dog and you still have to perform because there’s no understudy.  Achieving good singing means you’re unstoppable as a performer, the possibilities are endless. That’s when you feel you’re making an "out of body" connection/experience with the audience and it doesn’t feel like you’re just "singing the notes on page".
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438515077442/Keith-13b.jpg.jpg)<figcaption>Photo by Katie Jameson.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438515077442/Keith-13b.jpg.jpg)<figcaption>Photo by Katie Jameson.</figcaption>
 </figure>
 
 ### 3. What do young singers need to do more of? What should they do less of? 
@@ -46,7 +85,9 @@ Have more confidence in yourself: if you make a mistake, don’t dwell on it.  F
 
 I’m happy to say that I do not have a bucket list role.  I worry if I do end up performing that role, then any role I perform afterwards would seem less satisfying. Schaunard from *La bohème* remains my favourite role to play. At this very moment, I would love to perform Riccardo Forth from Bellini’s *I Puritani*. Love me some beautiful and schmaltzy bel canto music. And just to add to the fun, a role I’d love to sing but never will is the Dutchman from Wagner’s *Der fliegende Hollaender*. "Die Frist ist um" is one of the most badass arias ever written.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438515099579/Keith%20Green%20Wall%201%20LG%20b.jpg.jpg)<figcaption>Photo by Phil Crozer.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438515099579/Keith%20Green%20Wall%201%20LG%20b.jpg.jpg)<figcaption>Photo by Phil Crozer.</figcaption>
 </figure>
 
 ### 5. How do you explain your job to non-music folks?

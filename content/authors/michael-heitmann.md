@@ -1,12 +1,16 @@
-+++
-date = "2018-09-27T21:15:00-04:00"
-lastmod = "2018-09-28T15:34:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538163128486/Chicago.jpg.jpg"
-publishDate = "2018-09-27T21:21:00-04:00"
-short_bio = "Mike Heitmann is a New York based singer, producer, librettist, podcaster, and operavangelist. His passion is making opera accessible to all by reimagining and producing operas in ways that have never been done before. His adaptations have been produced in Seattle, and will soon be coming to New York City, Chicago, and more. He’s the co-founder of Operamuse, and hosts Not Your Granny’s Opera Podcast."
-slug = "michael-heitmann"
-title = "Michael Heitmann"
-+++
+---
+date: "2018-09-27T21:15:00-04:00"
+lastmod: "2018-09-28T15:34:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538163128486/Chicago.jpg.jpg
+publishDate: "2018-09-27T21:21:00-04:00"
+short_bio: Mike Heitmann is a New York based singer, producer, librettist, podcaster,
+  and operavangelist. His passion is making opera accessible to all by reimagining
+  and producing operas in ways that have never been done before. His adaptations have
+  been produced in Seattle, and will soon be coming to New York City, Chicago, and
+  more. He’s the co-founder of Operamuse, and hosts Not Your Granny’s Opera Podcast.
+slug: michael-heitmann
+title: Michael Heitmann
+---
 
 Singer. Librettist. Producer. Podcaster. Operavangelist.
 
@@ -16,6 +20,7 @@ A regular concert and recital performer, he recently debuted his new recital *Lo
 
 <figure data-type="image">
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538163175709/1O6A0275.jpg)
+
 <figcaption>Michael Heitmann. Photo: Danielle Barnum.</figcaption>
 </figure>
 
@@ -23,4 +28,5 @@ He co-founded [Operamuse](https://www.facebook.com/operamuse/), which produces h
 
 <figure data-type="image">
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538163242677/Dehvieni.jpg)
-</figure>
+
+<figure>

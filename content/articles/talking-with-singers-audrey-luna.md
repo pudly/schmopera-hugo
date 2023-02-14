@@ -1,18 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-09-16T15:01:00+01:00"
-lastmod = "2016-09-19T19:12:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474035544822/2016-09-16---Audrey-Luna-credit-Brian-Kuhlmann.jpg.jpg"
-primary_image_credit = "Photo: Brian Kuhlmann"
-publishDate = "2016-09-19T09:22:00+01:00"
-related_articles = ["articles/talking-with-singers-othalie-graham.md","articles/spotlight-on-caitlin-wood.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/audrey-luna.md"]
-short_description = "&quot;I can be left depleted after something as intense as premiering Exterminating Angel,&quot; says Luna. She relishes the chance to return home to Hawaii, which grounds her between high-paced singing gigs. &quot;In some way, it just fills my cup back up, and then I&#039;m ready to go out again.&quot;"
-slug = "talking-with-singers-audrey-luna"
-title = "Talking with singers: Audrey Luna"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-09-16T15:01:00+01:00"
+lastmod: "2016-09-19T19:12:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474035544822/2016-09-16---Audrey-Luna-credit-Brian-Kuhlmann.jpg.jpg
+primary_image_credit: 'Photo: Brian Kuhlmann'
+publishDate: "2016-09-19T09:22:00+01:00"
+related_articles:
+- articles/talking-with-singers-othalie-graham.md
+- articles/spotlight-on-caitlin-wood.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/audrey-luna.md
+short_description: '&quot;I can be left depleted after something as intense as premiering
+  Exterminating Angel,&quot; says Luna. She relishes the chance to return home to
+  Hawaii, which grounds her between high-paced singing gigs. &quot;In some way, it
+  just fills my cup back up, and then I&#039;m ready to go out again.&quot;'
+slug: talking-with-singers-audrey-luna
+title: 'Talking with singers: Audrey Luna'
+_template: article_single
+---
 
 "That wasn't a decision," explains coloratura soprano [Audrey Luna](/scene/people/audrey-luna/) of her chosen life as an opera singer. "That wasn't a choice." 
 
@@ -26,7 +36,10 @@ The coloratura roles of Mozart and Strauss are nothing to scoff at; yet in recen
 
 "That specific production was so extremely physical," Luna recalls of Lepage, who seemed to find inspiration for Ariel in his work with Cirque du Soleil. "I think it was my very first day," she laughs, "there were circus acrobats holding me above their head by one hand on my sternum!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474035060345/2016-09-16---Luna-Ariel---Ken-Howard.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474035060345/2016-09-16---Luna-Ariel---Ken-Howard.jpg.jpg)
+
 <figcaption>Audrey Luna as Ariel in The Metropolitan Opera's *The Tempest*, 2012. Photo by Ken Howard.</figcaption>
 </figure>
 
@@ -62,7 +75,10 @@ She notes that a contract can include a fair amount of time not called to rehear
 
 What sort of singing does Luna see for herself in future seasons? "I'd like to sing more Handel," she offers. "I sang a lot of Handel in school, and I really enjoyed it. Alcina would be lovely." She considers it an "inevitable" part of her vocal trajectory that she'll add roles like Konstanze (*Die Entführung aus dem Serail*), Lulu (*lulu*), and Violetta (*La traviata*) to her repertoire. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474035042500/2016-09-16---Luna-Zerbinetta.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474035042500/2016-09-16---Luna-Zerbinetta.jpg.jpg)
+
 <figcaption>Audrey Luna as Zerbinetta in Virginia Opera's *Ariadne auf Naxos*, 2014.</figcaption>
 </figure>
 

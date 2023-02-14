@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2014-05-22T06:00:00-04:00"
-lastmod = "2015-04-23T19:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429832580907/Erraught.jpg.jpg"
-primary_image_credit = "Mezzo-soprano Tara Erraught"
-publishDate = "2014-05-22T06:00:00-04:00"
-related_articles = ["articles/true-stories-the-critic-who-loves-opera-even-more-now.md","articles/in-review-lucia-di-lammermoor-at-roh.md","articles/gimmicks-tactics-discouraging-the-new-.md","articles/sfo-tickets-for-tweets.md","articles/opera-meanies-the-august-edition.md"]
-related_companies = ["scene/companies/glyndebourne.md"]
-related_people = ["scene/people/tara-erraught.md"]
-short_description = "Der Rosenkavalier opened at Glyndebourne on May 17th, and the opening night reviews ticked off some opera fans. Ordinarily, one would be happy that a bunch of critics can&#039;t stop talking about Irish mezzo Tara Erraught&#039;s performance of Octavian."
-slug = "when-critics-are-jerks"
-title = "When critics are jerks"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2014-05-22T06:00:00-04:00"
+lastmod: "2015-04-23T19:44:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429832580907/Erraught.jpg.jpg
+primary_image_credit: Mezzo-soprano Tara Erraught
+publishDate: "2014-05-22T06:00:00-04:00"
+related_articles:
+- articles/true-stories-the-critic-who-loves-opera-even-more-now.md
+- articles/in-review-lucia-di-lammermoor-at-roh.md
+- articles/gimmicks-tactics-discouraging-the-new-.md
+- articles/sfo-tickets-for-tweets.md
+- articles/opera-meanies-the-august-edition.md
+related_companies:
+- scene/companies/glyndebourne.md
+related_people:
+- scene/people/tara-erraught.md
+short_description: Der Rosenkavalier opened at Glyndebourne on May 17th, and the opening
+  night reviews ticked off some opera fans. Ordinarily, one would be happy that a
+  bunch of critics can&#039;t stop talking about Irish mezzo Tara Erraught&#039;s
+  performance of Octavian.
+slug: when-critics-are-jerks
+title: When critics are jerks
+_template: article_single
+---
 
 _Der Rosenkavalier_ opened at [Glyndebourne](http://glyndebourne.com/production/der-rosenkavalier) on May 17th, and the opening night reviews ticked off some opera fans. Ordinarily, one would be happy that a bunch of critics can't stop talking about Irish mezzo [Tara Erraught](http://imgartists.com/artist/tara_erraught)'s performance of Octavian. But in this case, it's because the critics apparently couldn't stop from being mean. Not critical. Mean. They picked on Tara's appearance, because apparently her singing wasn't bad enough to pick on. They called her "dumpy", "stocky", and "unsightly and unappealing." Why? Because they're mean.
 Like this garbage about Tara's performance from _The Telegraph_'s opera critic [Rupert Christiansen](http://www.telegraph.co.uk/culture/music/classicalconcertreviews/10839018/Glyndebourne-2014-Der-Rosenkavalier-review.html): "Is [the director] simply trying to make the best of her intractable physique or is he trying to say something about the social-sexual dynamic?" Why, Rupert? Do you think it's a groundbreaking social statement to say that an "average looking" guy can score a pretty girl? I hope not, Rupert, for your sake.

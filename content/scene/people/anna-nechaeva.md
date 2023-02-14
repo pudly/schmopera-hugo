@@ -1,12 +1,14 @@
-+++
-date = "2019-03-11T00:00:13+00:00"
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552262200/media/2019/03/AnnaNechaeva.jpg"
-related_companies = ["scene/companies/staatsoper-berlin.md", "scene/companies/washington-national-opera.md"]
-slug = "anna-nechaeva"
-title = "Anna Nechaeva"
-
-+++
+---
+date: "2019-03-11T00:00:13+00:00"
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1552262200/media/2019/03/AnnaNechaeva.jpg
+related_companies:
+- scene/companies/staatsoper-berlin.md
+- scene/companies/washington-national-opera.md
+slug: anna-nechaeva
+title: Anna Nechaeva
+_template: "people_single"
+---
 ### Recent and upcoming engagements
 
 Anna’s recent and upcoming engagements include Manon in Puccini’s _Manon Lescaut,_ Mimi in _La bohème,_ Yaroslavna in _Prince Igor,_ Micaela in _Carmen_ (Bolshoi Theatre Moscow), Tatiana in _Eugene Onegin_ for Festival d'Aix en Provence and Savonlinna Opera Festival, the title role in _Iolanta_ for Savonlinna Opera Festival, Polina in _The Gambler_ (Opera Vlaanderen), soprano part in Britten’s _War Requiem_ at Staatsoper Berlin (conducted by Antonio Pappano), Liza in _The Queen of Spades_ at Teatro San Carlo di Napoli, Tatiana in _Eugene Onegin_ at Washington National Opera, Polish National Opera, Bolshoi Theatre, Moscow and Seiji Ozawa Matsumoto Festival, Japan.

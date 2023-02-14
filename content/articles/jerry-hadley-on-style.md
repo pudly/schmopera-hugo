@@ -1,16 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-06-04T15:04:00-04:00"
-lastmod = "2015-06-04T15:19:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433445038197/JerryHadley_Fotor.jpg.jpg"
-publishDate = "2015-06-04T15:19:00-04:00"
-related_articles = []
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-short_description = "On the recommendation of a colleague, I found this gem of an interview with the late and great tenor Jerry Hadley. At just under half an hour, it&#039;s not a big time commitment to listen to the whole thing. But I love what he says starting at 3:16, which is where I&#039;ve cued up this video below."
-slug = "jerry-hadley-on-style"
-title = "Jerry Hadley, on style"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-06-04T15:04:00-04:00"
+lastmod: "2015-06-04T15:19:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433445038197/JerryHadley_Fotor.jpg.jpg
+publishDate: "2015-06-04T15:19:00-04:00"
+related_articles: []
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+short_description: On the recommendation of a colleague, I found this gem of an interview
+  with the late and great tenor Jerry Hadley. At just under half an hour, it&#039;s
+  not a big time commitment to listen to the whole thing. But I love what he says
+  starting at 3:16, which is where I&#039;ve cued up this video below.
+slug: jerry-hadley-on-style
+title: Jerry Hadley, on style
+_template: article_single
+---
 
 On the recommendation of a colleague, I found this gem of an interview from 1995 with the late and great tenor Jerry Hadley. At just under half an hour, it's not a big time commitment to listen to the whole thing. But I love what he says starting at 3:16, which is where I've cued up this video below.
 

@@ -1,17 +1,40 @@
-+++
-author = ["authors/greg.md"]
-categories = ""
-date = 2016-01-07T02:26:00Z
-lastmod = "2016-01-07T17:01:00-05:00"
-preamble = "In reading [Jenna's awesome piece](/10-pop-singers-with-pipes/) on the 6th celebrating the skills of the pop singer, I found myself saying \"Wow, these ladies are awesome. I'm so glad we're celebrating them and their voices, but where are the boys?\"\n\nBefore I share my list (And yes Elton and Stevie would have been on it, if they hadn't been already fêted properly by Jenna) I'd like to take a moment to point out a dichotomy that seems to happen in pop music today. \n\nUsually, male musicians (by nature of being male) have an easier time (not that it's easy for anyone in this industry), however, in terms of pop singing males, I never hear people go on about their voices the way the do the ladies. *Every single one* of the ladies mentioned (and more - I'm looking at you Jessie J, Ella Fitzgerald, and Brittany Howard [of Alabama Shakes]) are phenoms of the first degree - but let's talk about (and maybe ogle) some of my favourites on the boys' team (not that it's a competition - Jesus, it's hard to keep this post egalitarian - just remember, this is about voice, not about which sex is better)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452136295705/2016-01-07---CeeLo-Green.jpg.jpg"
-publishDate = "2016-01-08T09:00:00-05:00"
-related_articles = ["articles/10-pop-singers-with-pipes.md", "articles/christina-aguileras-move-into-pedagogy.md", "articles/adele-knowing-your-audience.md"]
-short_description = "Usually, male musicians (by nature of being male) have an easier time (not that it&#039;s easy for anyone in this industry), however, in terms of pop singing males, I never hear people go on about their voices the way the do the ladies. Every. Single. One. of the ladies mentioned (and more - I&#039;m looking at you Jessie J, Ella Fitzgerald, and Brittany Howard [of Alabama Shakes]) are phenoms of the first degree - but let&#039;s talk about (and maybe ogle) some of my favourites on the boys&#039; team."
-slug = "13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys"
-title = "13 more pop singers with pipes: let&#039;s hear it for the boys"
-
-+++
+---
+author:
+- authors/greg.md
+categories: ""
+date: "2016-01-07T02:26:00Z"
+lastmod: "2016-01-07T17:01:00-05:00"
+preamble: "In reading [Jenna's awesome piece](/10-pop-singers-with-pipes/) on the
+  6th celebrating the skills of the pop singer, I found myself saying \"Wow, these
+  ladies are awesome. I'm so glad we're celebrating them and their voices, but where
+  are the boys?\"\n\nBefore I share my list (And yes Elton and Stevie would have been
+  on it, if they hadn't been already fêted properly by Jenna) I'd like to take a moment
+  to point out a dichotomy that seems to happen in pop music today. \n\nUsually, male
+  musicians (by nature of being male) have an easier time (not that it's easy for
+  anyone in this industry), however, in terms of pop singing males, I never hear people
+  go on about their voices the way the do the ladies. *Every single one* of the ladies
+  mentioned (and more - I'm looking at you Jessie J, Ella Fitzgerald, and Brittany
+  Howard [of Alabama Shakes]) are phenoms of the first degree - but let's talk about
+  (and maybe ogle) some of my favourites on the boys' team (not that it's a competition
+  - Jesus, it's hard to keep this post egalitarian - just remember, this is about
+  voice, not about which sex is better)."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452136295705/2016-01-07---CeeLo-Green.jpg.jpg
+publishDate: "2016-01-08T09:00:00-05:00"
+related_articles:
+- articles/10-pop-singers-with-pipes.md
+- articles/christina-aguileras-move-into-pedagogy.md
+- articles/adele-knowing-your-audience.md
+short_description: Usually, male musicians (by nature of being male) have an easier
+  time (not that it&#039;s easy for anyone in this industry), however, in terms of
+  pop singing males, I never hear people go on about their voices the way the do the
+  ladies. Every. Single. One. of the ladies mentioned (and more - I&#039;m looking
+  at you Jessie J, Ella Fitzgerald, and Brittany Howard [of Alabama Shakes]) are phenoms
+  of the first degree - but let&#039;s talk about (and maybe ogle) some of my favourites
+  on the boys&#039; team.
+slug: 13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys
+title: '13 more pop singers with pipes: let&#039;s hear it for the boys'
+_template: article_single
+---
 ## Otis Redding
 
 Number one on my list of men to listen to at home, en route, while writing - okay, seriously, while breathing - literally any time of day is the incomparable [Otis Redding](https://www.otisredding.com/). Although we lost him at the ripe young age of 26 years old, Redding left us with an astounding array of recordings both studio and live sessions. The original singer of Aretha Franklin's "Respect" and The Commodores "Try a Little Tenderness", he had the quintessential soul sound of the 60s: full-throated and raspy with the occasional screech for dramatic effect. If you want to really feel something as a listener, I would definitely be listening to this guy.

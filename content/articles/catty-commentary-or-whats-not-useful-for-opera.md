@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-06-22T09:51:00-06:00"
-lastmod = "2015-06-23T08:22:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435023936275/Regina.jpg.jpg"
-publishDate = "2015-06-23T08:05:00-06:00"
-related_articles = ["articles/in-defence-of-singers.md","articles/go-hear-the-tafelmusik-vocal-competition.md","articles/true-stories-the-critic-who-loves-opera-even-more-now.md","articles/operalia-advertising.md"]
-related_companies = ["scene/companies/cardiff-singer-of-the-world-competition.md"]
-related_people = ["scene/people/aviva-fortunata.md"]
-short_description = "The Cardiff broadcast looks a bit like a mix between mainstream talent shows (So-and-So-Country&#039;s Got Talent, etc.) and TSN; I&#039;m not opposed to the preamble, introducing the singers with an interview and building hype with all the backstage footage. What I didn&#039;t like was the commentary. I was appalled to hear what was being said about these young singers; perhaps the idea was to provide context and insider information for listeners, but I think it was just mean."
-slug = "catty-commentary-or-whats-not-useful-for-opera"
-title = "Catty commentary, or what&#039;s not useful for opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-06-22T09:51:00-06:00"
+lastmod: "2015-06-23T08:22:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435023936275/Regina.jpg.jpg
+publishDate: "2015-06-23T08:05:00-06:00"
+related_articles:
+- articles/in-defence-of-singers.md
+- articles/go-hear-the-tafelmusik-vocal-competition.md
+- articles/true-stories-the-critic-who-loves-opera-even-more-now.md
+- articles/operalia-advertising.md
+related_companies:
+- scene/companies/cardiff-singer-of-the-world-competition.md
+related_people:
+- scene/people/aviva-fortunata.md
+short_description: The Cardiff broadcast looks a bit like a mix between mainstream
+  talent shows (So-and-So-Country&#039;s Got Talent, etc.) and TSN; I&#039;m not opposed
+  to the preamble, introducing the singers with an interview and building hype with
+  all the backstage footage. What I didn&#039;t like was the commentary. I was appalled
+  to hear what was being said about these young singers; perhaps the idea was to provide
+  context and insider information for listeners, but I think it was just mean.
+slug: catty-commentary-or-whats-not-useful-for-opera
+title: Catty commentary, or what&#039;s not useful for opera
+_template: article_single
+---
 
 I love when big opera events are broadcast for the world to see. The BBC Cardiff Singer of the Year Competition is one of those big events, and I was doubly thrilled to hear soprano Aviva Fortunata representing Canada. 
 

@@ -1,22 +1,33 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = ""
-date = 2020-10-30T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Grab your subscription to Vancouver Opera's digital 2020-21 season [right here](https://digital.vancouveropera.ca/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1603924636/media/2020/10/sqVOLaVoixHumaine_dmx8uu.jpg"
-primary_image_credit = ""
-related_articles = ["articles/voix-humaine.md", "articles/intimate-voix-humaine-provides-a-way-forward.md"]
-related_companies = ["scene/companies/vancouver-opera.md"]
-related_people = ["scene/people/mireille-lebel.md"]
-short_description = "This production has been a huge redirect for VO, and they have coped with it with creativity and great success both artistically and technologically."
-slug = "vo-finds-its-voice-in-la-voix-humaine"
-title = "VO finds its voice in La voix humaine"
-youtube_url = ""
+---
+author:
+  - authors/melissa-ratcliff.md
+categories: ''
+date: '2020-10-30T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  Grab your subscription to Vancouver Opera's digital 2020-21 season [right
+  here](https://digital.vancouveropera.ca/).
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1603924636/media/2020/10/sqVOLaVoixHumaine_dmx8uu.jpg
+primary_image_credit: ''
+related_articles:
+  - articles/voix-humaine.md
+  - articles/intimate-voix-humaine-provides-a-way-forward.md
+related_companies:
+  - scene/companies/vancouver-opera.md
+related_people:
+  - scene/people/mireille-lebel.md
+short_description: >-
+  This production has been a huge redirect for VO, and they have coped with it
+  with creativity and great success both artistically and technologically.
+slug: vo-finds-its-voice-in-la-voix-humaine
+title: VO finds its voice in La voix humaine
+youtube_url: ''
+_template: article_single
+---
 
-+++
 It certainly goes without saying that 2020 has brought unfathomable change to the opera world, and performing arts in general. Some companies have closed their doors, announced crippling debts, insolvency, or are simply waiting out the pandemic to perform. [Vancouver Opera](/scene/companies/vancouver-opera/), on the other hand, has created and released an [entirely digital season](https://digital.vancouveropera.ca/), using local artists, unusual venues, and lesser-known small works to create something entirely different - an on-demand season.
 
 While large companies like the Met have seen success with on-demand opera services, many smaller companies have been unable or unwilling to compete with the behemoth that is Met-On-Demand. But necessity being the mother of invention, VO has launched their virtual season with flying colours in this intimate and soulful rendition of Poulenc's _La voix humaine_.
@@ -41,7 +52,9 @@ The performance was staged at the Chan Centre, though was unrecognizable with th
 
 Rather than the standard orchestral score, VO opted to accompany this production with piano, which suited the space and the intimacy of the production very well. Kinza Tyrrell on piano brought exquisite sensitivity to the difficult score, always matching the tone of each scene perfectly and seamlessly.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1604083257/media/2020/10/VO_La_Voix_Humaine_-_Rachel_Peake_Mireille_Lebel_Kinza_Tyrrell_1_lteaum.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1604083257/media/2020/10/VO_La_Voix_Humaine_-_Rachel_Peake_Mireille_Lebel_Kinza_Tyrrell_1_lteaum.jpg)
 
 <figcaption>(l-r) Rachel Peake, Mireille Lebel, and Kinza Tyrrell, of Vancouver Opera's 2020 production of La voix humaine.</figcaption>
 

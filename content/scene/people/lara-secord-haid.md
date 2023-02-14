@@ -1,21 +1,24 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1605193505/media/2020/11/LaraSecordHaid_mtibrd.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/the-banff-centre.md", "scene/companies/highlands-opera-studio.md", "scene/companies/opera-on-the-avalon.md", "scene/companies/manitoba-opera.md"]
-slug = "lara-secord-haid"
-title = "Lara Secord-Haid"
-website = "https://www.larasecordhaid.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/LaraSecord"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/larasecord/"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1605193505/media/2020/11/LaraSecordHaid_mtibrd.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/the-banff-centre.md
+- scene/companies/highlands-opera-studio.md
+- scene/companies/opera-on-the-avalon.md
+- scene/companies/manitoba-opera.md
+slug: lara-secord-haid
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/LaraSecord
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/larasecord/
+title: Lara Secord-Haid
+website: https://www.larasecordhaid.com/
+_template: "people_single"
+---
 Praised by international publications, soprano Lara Secord-Haid has been described as “possessing a rich and expressive overall quality” (Attencion San Miguel), “charismatic” (Opera Today) and was praised for her “flinty acuity” by the New York Times.
 
 Ms. Secord-Haid is enjoying a diverse and dynamic international career. Recent performances include Sophie in **_Werther _**with Manitoba Opera, concerts with the Jeonju International Sori Festival in Korea and Opera Helikon in Moscow, and a 15-city operatic concert tour throughout China. Recent performances include Cendrillon in **_Cendrillon_** with New York Lyric Opera, a solo concert with Opera San Miguel, Marsinah in **_Kismet_** with Little Opera Winnipeg, Miss Jessel in **_The Turn of the Screw_** at Opera on the Avalon, Marzelline in **_Fidelio _**with Manitoba Opera, **_3 Settings of Celan_** by Harrison Birtwistle with the AXIOM Ensemble at Lincoln Center, Miss Silverpeal in **_The Impresario_** at North Shore Music Festival, and _Tytania_ in **_A Midsummer Night's Dream_** for Opera on the Avalon.

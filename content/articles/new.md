@@ -1,22 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2020-08-11T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1596986230/media/2020/08/sqWellnessCheck_svtv17.jpg"
-primary_image_credit = ""
-related_articles = ["articles/in-defence-of-singers.md", "articles/crowded-flights.md", "articles/the-met-s-at-home-gala.md", "articles/covid.md"]
-related_companies = []
-related_people = []
-short_description = "I don't live in the vast world of opera, anymore, and it's fucking sad. I haven't had one of those heart-racing experiences at a live show since February. I haven't had that happy, vibrating commute home in the magical night-time after seeing something incredible; it's been a long time since I've felt the relief of taking off high heels at the end of the night, or placed those heels gently back on their shelf, for next time."
-slug = "tiny-worlds-admiring-singers-a-mid-pandemic-wellness-check"
-title = "Tiny worlds & admiring singers: a mid-pandemic wellness check"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Editorial
+date: '2020-08-11T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1596986230/media/2020/08/sqWellnessCheck_svtv17.jpg
+primary_image_credit: ''
+related_articles:
+  - articles/in-defence-of-singers.md
+  - articles/crowded-flights.md
+  - articles/the-met-s-at-home-gala.md
+  - articles/covid.md
+related_companies: []
+related_people: []
+short_description: >-
+  I don't live in the vast world of opera, anymore, and it's fucking sad. I
+  haven't had one of those heart-racing experiences at a live show since
+  February. I haven't had that happy, vibrating commute home in the magical
+  night-time after seeing something incredible; it's been a long time since I've
+  felt the relief of taking off high heels at the end of the night, or placed
+  those heels gently back on their shelf, for next time.
+slug: tiny-worlds-admiring-singers-a-mid-pandemic-wellness-check
+title: 'Tiny worlds & admiring singers: a mid-pandemic wellness check'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 So, readers: How the &$%# are you?
 
 Are you finding a quarantine groove, yet? I imagine plenty of you are now deft at making bread, ordering groceries online, and remembering to keep a mask handy. You probably have a now-acute sense of what six-feet-apart looks like. You're probably a little Zoomed out.
@@ -37,7 +50,9 @@ Maybe it's like survivor's guilt, this thing I'm feeling. I don't pay my bills b
 
 My life is tiny, surrounded by tiny things. Tiny condo, tiny little walks to the park with the tiny little person whom I've got to keep safe. Tiny joys (like a batch of new books for Tiny and I to read together) and tiny sadnesses (my watch broke...does it even matter, now? Who needs a watch in a pandemic?). I'm living along this tiny, squished spectrum of life experience, where the highs are capped at camping trips and toddler smiles (okay, those are pretty great) and the lows are, thankfully, restricted to rainy days and stress about too much screen time.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596986221/media/2020/08/AlexMask_nwalrz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1596986221/media/2020/08/AlexMask_nwalrz.jpg)
 
 <figcaption>Alex, rocking his mask.</figcation>
 
@@ -51,7 +66,9 @@ I know I've been a bit silent over here, lately. But I've been yammering away on
 
 But the performers I've talked to on the podcast - from the cerebral Barbara Hannigan to the too-real Christine Goerke - are all making their ways through this insane time like total champs. They're finding so much silver lining, staying so patient, checking in with their life decisions. If I were in their shoes, I'd be curled in a ball, angry and sad and lost. But these people, they're doing amazing things.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596986494/media/2020/08/TEWBOPartwork_cchf6t.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1596986494/media/2020/08/TEWBOPartwork_cchf6t.jpg)
 
 <figcaption>Original artwork for The Everything Will Be Okay Podcast, by singer and illustrator, Danika Lorèn.</figcaption>  
 </figure>

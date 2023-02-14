@@ -1,18 +1,55 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-09-25T11:56:00-04:00"
-lastmod = "2017-07-18T16:16:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443445066361/GrahamResizedSquare.jpg.jpg"
-primary_image_credit = "Photo by Devon Cass."
-publishDate = "2015-09-28T08:00:00-04:00"
-related_articles = ["articles/interviewing-the-greats-virginia-zeani.md","articles/talking-louise-with-leslie-ann-bradley.md","articles/talking-with-directors-operas-marvel.md","articles/talking-with-singers-elizabeth-caballero.md","articles/talking-with-singers-jorell-williams.md","articles/talking-with-singers-peter-mcgillivray.md","articles/talking-with-singers-leah-crocetto.md","articles/talking-with-singers-christine-goerke.md","articles/spotlight-on-rolando-sanz.md","articles/arianna-zukerman-youve-got-to-live-your-truth.md","articles/what-oscarssowhite-can-learn-from-opera.md","articles/spotlight-on-lara-ciekiewicz.md","articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-christian-van-horn.md","articles/talking-with-singers-jamie-barton.md","articles/talking-with-singers-corinne-winters.md","articles/talking-with-singers-melody-moore.md","articles/spotlight-on-angel-blue.md","articles/spotlight-on-musa-ngqungwana.md","articles/spotlight-on-will-liverman.md","articles/talking-with-singers-lise-lindstrom.md","articles/talking-with-singers-christopher-purves.md","articles/talking-with-singers-keri-alkema.md","articles/talking-with-singers-audrey-luna.md","articles/sidney-outlaw-stairs-success.md","articles/talking-with-singers-elza-van-den-heever.md","articles/talking-with-singers-robin-johannsen.md","articles/talking-with-singers-chen-reiss.md","articles/a-grand-night-out-at-vancouver-operas-turandot.md"]
-related_companies = ["scene/companies/nashville-opera.md"]
-related_people = ["scene/people/othalie-graham.md"]
-short_description = "&quot;If I&#039;m cast in something, I show up incredibly prepared, I&#039;m a very good colleague, and I do the things I can do to make it work. There&#039;s so much of it that we can&#039;t control, as you know. *So much* of it that you can&#039;t control. But I do the best that I can every day, I work really hard with the things I can control,&quot; she laughs. &quot;Which isn&#039;t a lot.&quot;"
-slug = "talking-with-singers-othalie-graham"
-title = "Talking with singers: Othalie Graham"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-09-25T11:56:00-04:00"
+lastmod: "2017-07-18T16:16:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443445066361/GrahamResizedSquare.jpg.jpg
+primary_image_credit: Photo by Devon Cass.
+publishDate: "2015-09-28T08:00:00-04:00"
+related_articles:
+- articles/interviewing-the-greats-virginia-zeani.md
+- articles/talking-louise-with-leslie-ann-bradley.md
+- articles/talking-with-directors-operas-marvel.md
+- articles/talking-with-singers-elizabeth-caballero.md
+- articles/talking-with-singers-jorell-williams.md
+- articles/talking-with-singers-peter-mcgillivray.md
+- articles/talking-with-singers-leah-crocetto.md
+- articles/talking-with-singers-christine-goerke.md
+- articles/spotlight-on-rolando-sanz.md
+- articles/arianna-zukerman-youve-got-to-live-your-truth.md
+- articles/what-oscarssowhite-can-learn-from-opera.md
+- articles/spotlight-on-lara-ciekiewicz.md
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/talking-with-singers-christian-van-horn.md
+- articles/talking-with-singers-jamie-barton.md
+- articles/talking-with-singers-corinne-winters.md
+- articles/talking-with-singers-melody-moore.md
+- articles/spotlight-on-angel-blue.md
+- articles/spotlight-on-musa-ngqungwana.md
+- articles/spotlight-on-will-liverman.md
+- articles/talking-with-singers-lise-lindstrom.md
+- articles/talking-with-singers-christopher-purves.md
+- articles/talking-with-singers-keri-alkema.md
+- articles/talking-with-singers-audrey-luna.md
+- articles/sidney-outlaw-stairs-success.md
+- articles/talking-with-singers-elza-van-den-heever.md
+- articles/talking-with-singers-robin-johannsen.md
+- articles/talking-with-singers-chen-reiss.md
+- articles/a-grand-night-out-at-vancouver-operas-turandot.md
+related_companies:
+- scene/companies/nashville-opera.md
+related_people:
+- scene/people/othalie-graham.md
+short_description: '&quot;If I&#039;m cast in something, I show up incredibly prepared,
+  I&#039;m a very good colleague, and I do the things I can do to make it work. There&#039;s
+  so much of it that we can&#039;t control, as you know. *So much* of it that you
+  can&#039;t control. But I do the best that I can every day, I work really hard with
+  the things I can control,&quot; she laughs. &quot;Which isn&#039;t a lot.&quot;'
+slug: talking-with-singers-othalie-graham
+title: 'Talking with singers: Othalie Graham'
+_template: article_single
+---
 
 "I did my training in Canada," says Canadian soprano [Othalie Graham](/scene/people/othalie-graham/), "but I've never sung in my own country. Much to the shock and surprise of many, many people, I have never ever sung in Canada. And I think a lot of people probably don't know that."
 
@@ -27,7 +64,10 @@ For Canadian singers, work in American opera houses is tempting; there are more 
 
 I mentioned that trope among Canadian singers, that it's easier to work way over in Europe than just next door in the United States. "Absolutely it is," says Graham. "I think it's easier for Canadians to go anywhere except the United States."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443407469557/Othalie-Graham---Turandot-2---Photo-courtesy-of-the-artist.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443407469557/Othalie-Graham---Turandot-2---Photo-courtesy-of-the-artist.jpg.jpg)
+
 <figcaption>Othalie Graham as Turandot. Photo courtesy of the artist.</figcaption>
 </figure>
 
@@ -41,7 +81,10 @@ So, just how *does* she feel at the end of a performance of *Turandot*? "Exhaust
 
 They get the great roles, sure, but large, dramatic voices are presented with plenty of temptation for too big, too soon. Graham admits to having a few roles on her resume that "maybe didn't fit the way I wanted them to, so I could have done without." She knows how difficult it can be to learn to say no, something that "is not always easy when you have a house to pay for." Yet, Graham's patience pays off onstage. "I'm fairly young in this repertoire, and *for* my repertoire, so through all the Turandots and all the other big repertoire, it's good to keep Aida and the Verdi *Requiem*, because it forces you to sing *pianissimo*, and sing high."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443407599319/Othalie-Graham---Turandot---Photo-courtesy-of-the-artist.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443407599319/Othalie-Graham---Turandot---Photo-courtesy-of-the-artist.jpg.jpg)
+
 <figcaption>Photo courtesy of the artist.</figcaption>
 </figure>
 

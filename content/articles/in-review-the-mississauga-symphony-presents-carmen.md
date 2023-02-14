@@ -1,16 +1,28 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2017-05-01T16:32:00-04:00"
-lastmod = "2017-05-02T13:59:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493744416965/2017-05-02---Carmen.jpg.jpg"
-publishDate = "2017-05-02T13:44:00-04:00"
-related_articles = ["articles/back-to-school-opera-a-practical-glossary.md","articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md","articles/in-review-stiffelio.md"]
-related_people = ["scene/people/beste-kalender.md","scene/people/andrew-tees.md","scene/people/romulo-delgado.md"]
-short_description = "This was a sold out house at the Living Arts Centre in Mississauga, and you could tell by the millings about that most of these people rarely, if ever, go to the opera. To be clear, this is really exciting. It shows the strength of the medium and that it, by no means, is a dying art. The overture started and the audience was still milling about excitedly, chatting and laughing and drinking."
-slug = "in-review-the-mississauga-symphony-presents-carmen"
-title = "In review: the Mississauga Symphony presents Carmen"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2017-05-01T16:32:00-04:00"
+lastmod: "2017-05-02T13:59:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493744416965/2017-05-02---Carmen.jpg.jpg
+publishDate: "2017-05-02T13:44:00-04:00"
+related_articles:
+- articles/back-to-school-opera-a-practical-glossary.md
+- articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md
+- articles/in-review-stiffelio.md
+related_people:
+- scene/people/beste-kalender.md
+- scene/people/andrew-tees.md
+- scene/people/romulo-delgado.md
+short_description: This was a sold out house at the Living Arts Centre in Mississauga,
+  and you could tell by the millings about that most of these people rarely, if ever,
+  go to the opera. To be clear, this is really exciting. It shows the strength of
+  the medium and that it, by no means, is a dying art. The overture started and the
+  audience was still milling about excitedly, chatting and laughing and drinking.
+slug: in-review-the-mississauga-symphony-presents-carmen
+title: 'In review: the Mississauga Symphony presents Carmen'
+_template: article_single
+---
 
 On Saturday night, I did something new. I went to see an opera in Mississauga. 
 
@@ -24,7 +36,10 @@ The orchestra under Delmonaco played well, although there were balance issues th
 
 Trust me, I know how exciting it can be to sing the Toreador Song with 30 of your closest friends and colleagues - but we still need to hear Escamillo over all that. The Act II finale was loud and exciting, but didn't seem to have any text. I would have also liked to feel more of a connection between the singers on stage and the conductor at the podium. I found myself uneasy during the quintet, not because it was bad, but because maestro seemed to pay no attention to the singers' needs to produce such a difficult ensemble (having sung Dancaïro in the past, I can confirm it's incredibly hard). It seemed like the orchestra started, and the singers just had to keep up; this seemed to be the default setting for this production, which unfortunately robbed it of a lot of the organic feel *Carmen* normally has when a synergy from stage and pit has been reached. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493744497304/2017-05-02---Beste-Kalender-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493744497304/2017-05-02---Beste-Kalender-1.jpg.jpg)
+
 <figcaption>Beste Kalender, mezzo-soprano. Photo courtesy of the Mississauga Symphony Orchestra.</figcaption>
 </figure>
 
@@ -32,7 +47,10 @@ Playing la Carmencita this time around is rising-star mezzo-soprano [Beste Kalen
 
 As the brigadier Don José, tenor [Romulo Delgado](/scene/people/romulo-delgado/) was in fine voice. A beautiful instrument with power to spare. Mr. Delgado's rendition of "La fleur que tu m'avais jetée" was delightfully tender and emotionally laden. While beautifully sung, I found there was a fair bit of stiffness in Delgado's portrayal that wasn't part of José's character. It seemed that there were times on stage when he was uncomfortable doing anything but looking at the maestro in the pit. It robbed his aria of a lot of the poignancy it could have had if he had chosen to deliver it to Carmen and not the orchestra.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493744505069/2017-05-02---Romulo-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493744505069/2017-05-02---Romulo-1.jpg.jpg)
+
 <figcaption>Romulo Delgado, tenor. Photo courtesy of the Mississauga Symphony Orchestra.</figcaption>
 </figure>
 

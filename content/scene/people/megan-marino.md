@@ -1,31 +1,33 @@
-+++
-date = "2018-06-18T14:49:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2018-06-18T14:49:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529347763566/IMG_1701.JPG.JPG"
-primary_image_credit = "Cory Weaver"
-publishDate = "2018-06-18T14:49:00-04:00"
-related_companies = ["scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/des-moines-metro-opera.md","scene/companies/lyric-opera-of-kansas-city.md"]
-slug = "megan-marino"
-title = "Megan Marino"
-website = "http://meganmarino.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/MeganMarinoMezzo"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/PiccolinaMarino"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/piccolinamarino/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCgDgcgYqhJQvaMSMDwMFsTA"
-+++
+---
+date: "2018-06-18T14:49:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2018-06-18T14:49:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529347763566/IMG_1701.JPG.JPG
+primary_image_credit: Cory Weaver
+publishDate: "2018-06-18T14:49:00-04:00"
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/lyric-opera-of-kansas-city.md
+slug: megan-marino
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/MeganMarinoMezzo
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/PiccolinaMarino
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/piccolinamarino/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCgDgcgYqhJQvaMSMDwMFsTA
+title: Megan Marino
+website: http://meganmarino.com/
+_template: "people_single"
+---
 
 Megan Marino is praised by Opera News as “a gifted actress with  a strong, appealing voice graced by a rich lower register.” In the 2017-18 season, she makes her debut with the Opéra national de Paris as Zweite Knappe in *Parsifal*.  She returns to the Metropolitan Opera as Myrtale in *Thais* as well as for its production of *Le nozze di Figaro*, Santa Fe Opera for her first performances of Suzuki in *Madama Butterfly*, and Lyric Opera of Kansas City for her role debut as Olga in *Eugene Onegin*. Never straying too far from bel canto repertoire, Ms. Marino also reprises Rosina in *Il barbiere di Siviglia* with Kentucky Opera.  Future seasons include her debuts with Dallas Opera, Atlanta Opera, and Opéra national de Bordeaux as well as returns to the Metropolitan Opera, Opéra national de Paris, and Utah Opera.  Last season she made debuts with the Lyric Opera of Kansas City as Hänsel in *Hänsel und Gretel*, Opera Delaware as Angelina in *La cenerentola*, Utah Opera as Jessie in Beck’s *The Long Walk*, Central City Opera as Despina in *Così fan tutte* and returned to Virginia Opera as Rosina in *Il barbiere di Siviglia*. She also returned to the Metropolitan Opera as the Second Wood Nymph in the company’s new production of *Rusalka* as well as for *Roméo et Juliette*.  On the concert stage, she joined the Fine Tuned Society of Boulder, Colorado for Brahms’ *Zwei Gesänge*.
 

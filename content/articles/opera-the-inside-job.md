@@ -1,14 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2014-10-06T12:09:00-04:00"
-lastmod = "2015-04-14T14:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429037748501/mole_2.jpg.jpg"
-publishDate = "2014-10-06T12:09:00-04:00"
-short_description = "When I started Schmopera, I started checking out how the &quot;pros&quot; do this blogging thing. What were they saying, and how? Were they talking about artists, concerts, recordings? Were they spreading the word about shows to see? Were they publishing profiles and reviews of artists? Were they vouching for the arts and bringing awareness to the current events that concern artists and art-lovers? "
-slug = "opera-the-inside-job"
-title = "Opera: the Inside Job"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2014-10-06T12:09:00-04:00"
+lastmod: "2015-04-14T14:56:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429037748501/mole_2.jpg.jpg
+publishDate: "2014-10-06T12:09:00-04:00"
+short_description: 'When I started Schmopera, I started checking out how the &quot;pros&quot;
+  do this blogging thing. What were they saying, and how? Were they talking about
+  artists, concerts, recordings? Were they spreading the word about shows to see?
+  Were they publishing profiles and reviews of artists? Were they vouching for the
+  arts and bringing awareness to the current events that concern artists and art-lovers? '
+slug: opera-the-inside-job
+title: 'Opera: the Inside Job'
+_template: article_single
+---
 
 When I started Schmopera, I started checking out how the "pros" do this blogging thing. What were they saying, and how? Were they talking about artists, concerts, recordings? Were they spreading the word about shows to see? Were they publishing profiles and reviews of artists? Were they vouching for the arts and bringing awareness to the current events that concern artists and art-lovers? The answer was "yes"; everyone was writing about opera, who was making it happen and whether or not they were doing a good job of it.
 

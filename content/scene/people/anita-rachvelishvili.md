@@ -1,22 +1,26 @@
-+++
-date = "2015-04-07T02:43:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-03-15T12:39:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428370832211/RachvelishviliAnita-pc-SalvoSportato.jpg.jpg"
-primary_image_credit = "Salvo Sportato"
-publishDate = "2015-04-07T02:43:00+01:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/teatro-alla-scala.md"]
-slug = "anita-rachvelishvili"
-title = "Anita Rachvelishvili"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/anitarachvelishvili2000"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/anitarachveli"
-+++
+---
+date: "2015-04-07T02:43:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2017-03-15T12:39:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428370832211/RachvelishviliAnita-pc-SalvoSportato.jpg.jpg
+primary_image_credit: Salvo Sportato
+publishDate: "2015-04-07T02:43:00+01:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/teatro-alla-scala.md
+slug: anita-rachvelishvili
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/anitarachvelishvili2000
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/anitarachveli
+title: Anita Rachvelishvili
+_template: "people_single"
+---
 
 Anita Rachvelishvili was born in Tbilisi, the capital of Georgia. She at first studied piano at the Mukhran Machavariani School and then singing at the Vano-Sarajishvili Conservatory with Manana Egadze. She received a stipend from the president of Georgia, Mikheil Saakashvili, and in 2007 won the Paata Burchuladze Prize. While still a student at the conservatory, she debuted at the Opera in Tblisi as Maddalena in *Rigoletto* and as Olga in *Eugen Onegin*, subsequently joining the ensemble of the theater in the fall of 2006. In 2007 she was invited to join the Accademia at the Teatro alla Scalla, it was there she was heard by Daniel Barenboim, who then invited her to star in the new production of Carmen which opened the 2009/2010 La Scala Season.
 

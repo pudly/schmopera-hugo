@@ -1,22 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = 2019-11-10T16:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "New Opera West's [_Pop-Up Opera @ Mimoda_](https://www.newoperawest.org/new-page-51) happens November 16-17."
-preamble = "[New Opera West](/scene/companies/new-opera-west/), the LA-based opera company with a mission to create and promote new works, is presenting a _Pop-Up Opera @ Mimoda_, showcasing five new mini-operas, November 16-17.\n\nWe spoke with NOW Co-Founders Emily Thebaut and Mark Lanz Weiser, about their call for new works, their love of comedic opera, and the company's place in LA's opera scene."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573415569/media/2019/11/sqNOWPopUp_udkqnb.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = ["scene/companies/new-opera-west.md"]
-related_people = []
-short_description = "\"The strength of any given piece is usually revealed fairly early in the process. Even a first run-through can indicate whether something is going to work or not.\""
-slug = "check-out-new-opera-west"
-title = "Check out: New Opera West"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Interview
+date: '2019-11-10T16:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  New Opera West's [_Pop-Up Opera @
+  Mimoda_](https://www.newoperawest.org/new-page-51) happens November 16-17.
+preamble: >-
+  [New Opera West](/scene/companies/new-opera-west/), the LA-based opera company
+  with a mission to create and promote new works, is presenting a _Pop-Up Opera
+  @ Mimoda_, showcasing five new mini-operas, November 16-17.
 
-+++
+
+  We spoke with NOW Co-Founders Emily Thebaut and Mark Lanz Weiser, about their
+  call for new works, their love of comedic opera, and the company's place in
+  LA's opera scene.
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1573415569/media/2019/11/sqNOWPopUp_udkqnb.jpg
+primary_image_credit: ''
+related_articles: []
+related_companies:
+  - scene/companies/new-opera-west.md
+related_people: []
+short_description: >-
+  "The strength of any given piece is usually revealed fairly early in the
+  process. Even a first run-through can indicate whether something is going to
+  work or not."
+slug: check-out-new-opera-west
+title: 'Check out: New Opera West'
+youtube_url: ''
+_template: article_single
+---
+
 ## How does New Opera West fit into LA's opera scene?
 
 **Emily Thebaut**: Los Angeles has an incredibly vibrant and evolving arts scene, which makes it the perfect place to launch New Opera West.  There are so many fantastic opera companies here that are doing really unique and avant-garde productions with the standard operatic repertoire and with new operas as well. We hope we can continue this trend of innovation within Los Angeles and make it a leading city in the promotion and creation of new music.
@@ -25,7 +42,9 @@ youtube_url = ""
 
 New Opera West is unique in that it seeks to promote the growth and professional development for new, up-and-coming composers, librettists and artists in the creation of new opera.  We are creating performances that will be showcasing multiple composers within one show, presenting many diverse works around timely and relevant subject matter, that we hope, will work towards attracting new opera audiences and the general sustainability of opera in the 21st century.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573155046/media/2019/11/sqNewOperaWest_il8whv.jpg){{% /md %}}  
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573155046/media/2019/11/sqNewOperaWest_il8whv.jpg)  
 <figcaption>The team for New Opera West's Pop-Up Opera at Mimoda, November 16-17, 2019. Image courtesy of New Opera West.</figcaption>
 
 </figure>
@@ -56,5 +75,7 @@ We were also interested in eclectic musical styles. Two of them have styles clos
 
 From an opera about a moose from the future who has come back to warn a couple about their impending catastrophe caused by their lack of care for the earth they live on, or an opera about Thomas Edison, a genius stifled by loneliness, we want these operas to captivate our audiences and create a more richer and meaningful experience for all involved.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573415631/media/2019/11/BannerNOW_pmetqz.jpg){{% /md %}}  
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573415631/media/2019/11/BannerNOW_pmetqz.jpg)  
 </figure>

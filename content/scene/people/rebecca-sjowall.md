@@ -1,23 +1,25 @@
-+++
-date = "2016-09-15T14:54:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-09-20T09:07:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473947584423/2016-09-14---Rebecca-Sjowall.jpg.jpg"
-primary_image_credit = "Kirsten Koromilas"
-publishDate = "2016-09-15T14:54:00+01:00"
-related_companies = ["scene/companies/arizona-opera.md","scene/companies/nashville-opera.md"]
-slug = "rebecca-sjowall"
-title = "Rebecca Sjöwall"
-website = "http://www.rebeccasjowall.com/index.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/RebeccaSjowallSoprano"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/sangerska"
-+++
+---
+date: "2016-09-15T14:54:00+01:00"
+discipline: Soprano
+lastmod: "2016-09-20T09:07:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473947584423/2016-09-14---Rebecca-Sjowall.jpg.jpg
+primary_image_credit: Kirsten Koromilas
+publishDate: "2016-09-15T14:54:00+01:00"
+related_companies:
+- scene/companies/arizona-opera.md
+- scene/companies/nashville-opera.md
+slug: rebecca-sjowall
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/RebeccaSjowallSoprano
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/user/sangerska
+title: Rebecca Sjöwall
+website: http://www.rebeccasjowall.com/index.html
+_template: "people_single"
+---
 
 Born and raised in Wisconsin, Rebecca Sjöwall has been lauded for her dramatic power as an actress ("electrifying," "striking," "a joy to watch") with a voice described as "luscious," "beautifully crisp," and "a powerhouse." Of her recent role debut with Nashville Opera as Mrs. P in Nyman's *The Man Who Mistook His Wife for a Hat*, ArtsNash declared, "Her climactic singing scream of 'Philistine!' at Dr. S is one of the most electrifying moments I've experienced in more than 40 years of attending live opera and theater performances."
 

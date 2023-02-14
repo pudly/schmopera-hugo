@@ -1,17 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-03-22T21:35:00+00:00"
-lastmod = "2017-03-23T11:31:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490266757538/2017-03-23---Stars.jpg.jpg"
-primary_image_credit = "From top left: Joyce DiDonato (Pari Dukovic), Jonas Kaufmann, Sonya Yoncheva (Gregor Hohenberg/Sony), Ellen's 2014 mega-selfie."
-publishDate = "2017-03-23T11:03:00+00:00"
-related_articles = ["articles/opera-spin-off.md","articles/5-people-who-would-make-great-opera-roles.md"]
-related_people = ["scene/people/sonya-yoncheva.md","scene/people/elizabeth-deshong.md","scene/people/sondra-radvanovsky.md","scene/people/gerald-finley.md","scene/people/christine-goerke.md","scene/people/alice-coote.md","scene/people/javier-camarena.md","scene/people/ailyn-prez.md","scene/people/diana-damrau.md","scene/people/kristine-opolais.md","scene/people/audrey-luna.md","scene/people/lawrence-brownlee.md","scene/people/ferruccio-furlanetto.md"]
-short_description = "Basically, if we were to tell you that Terrence Malick has made a new Netflix miniseries starring Meryl Streep and John C. Reilly, and that it was written by JJ Abrams, and that it features cameos by Alan Rickman, Uzo Aduba, and (maybe?) Stan Lee, you&#039;d go see it, right?"
-slug = "why-opera-fans-love-to-namedrop"
-title = "Why opera fans love to name-drop"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-03-22T21:35:00+00:00"
+lastmod: "2017-03-23T11:31:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490266757538/2017-03-23---Stars.jpg.jpg
+primary_image_credit: 'From top left: Joyce DiDonato (Pari Dukovic), Jonas Kaufmann,
+  Sonya Yoncheva (Gregor Hohenberg/Sony), Ellen''s 2014 mega-selfie.'
+publishDate: "2017-03-23T11:03:00+00:00"
+related_articles:
+- articles/opera-spin-off.md
+- articles/5-people-who-would-make-great-opera-roles.md
+related_people:
+- scene/people/sonya-yoncheva.md
+- scene/people/elizabeth-deshong.md
+- scene/people/sondra-radvanovsky.md
+- scene/people/gerald-finley.md
+- scene/people/christine-goerke.md
+- scene/people/alice-coote.md
+- scene/people/javier-camarena.md
+- scene/people/ailyn-prez.md
+- scene/people/diana-damrau.md
+- scene/people/kristine-opolais.md
+- scene/people/audrey-luna.md
+- scene/people/lawrence-brownlee.md
+- scene/people/ferruccio-furlanetto.md
+short_description: Basically, if we were to tell you that Terrence Malick has made
+  a new Netflix miniseries starring Meryl Streep and John C. Reilly, and that it was
+  written by JJ Abrams, and that it features cameos by Alan Rickman, Uzo Aduba, and
+  (maybe?) Stan Lee, you&#039;d go see it, right?
+slug: why-opera-fans-love-to-namedrop
+title: Why opera fans love to name-drop
+_template: article_single
+---
 
 Every time an opera company makes a season announcement, it predictably includes a whole lot of name dropping. Hardcore fans whip themselves into a frenzy when their favourite singers are set to perform, be it in something familiar (like when [Sondra Radvanovsky](/talking-with-singers-sondra-radvanovsky/) sings a Donizetti Queen), or something new (like when [Gerald Finley](/scene/people/gerald-finley/) announced he would be singing Verdi's Falstaff).
 

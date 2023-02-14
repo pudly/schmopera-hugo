@@ -1,15 +1,22 @@
-+++
-author = ["authors/greg.md"]
-categories = "News"
-date = "2016-12-08T18:36:00+00:00"
-lastmod = "2016-12-09T09:33:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481222612550/2016-12-8---Hvorostovsky.jpg.jpg"
-primary_image_credit = "Photo: Pavel Vaan & Leonid Semenyuk."
-publishDate = "2016-12-09T09:33:00+00:00"
-short_description = "After the discovery of a brain tumor in 2015, and taking a break to deal with his health last summer, he returned to the opera and recital stage to great reviews. Anthony Tommasini from the Times noted from Hvorostovsky&#039;s appearance in Il Trovotore at the Metropolitan Opera that his &quot;resplendent voice, with its distinctive mellow character and dusky veneer, sounded not at all compromised.&quot;"
-slug = "hvorostovsky-to-take-a-pause-in-my-operatic-career"
-title = "Hvorostovsky to take a &quot;pause in my operatic career&quot;."
-+++
+---
+author:
+- authors/greg.md
+categories: News
+date: "2016-12-08T18:36:00+00:00"
+lastmod: "2016-12-09T09:33:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481222612550/2016-12-8---Hvorostovsky.jpg.jpg
+primary_image_credit: 'Photo: Pavel Vaan & Leonid Semenyuk.'
+publishDate: "2016-12-09T09:33:00+00:00"
+short_description: After the discovery of a brain tumor in 2015, and taking a break
+  to deal with his health last summer, he returned to the opera and recital stage
+  to great reviews. Anthony Tommasini from the Times noted from Hvorostovsky&#039;s
+  appearance in Il Trovotore at the Metropolitan Opera that his &quot;resplendent
+  voice, with its distinctive mellow character and dusky veneer, sounded not at all
+  compromised.&quot;
+slug: hvorostovsky-to-take-a-pause-in-my-operatic-career
+title: Hvorostovsky to take a &quot;pause in my operatic career&quot;.
+_template: article_single
+---
 
 On December 8, 2016 the *New York Times* [reported](http://www.nytimes.com/2016/12/08/arts/music/dmitri-hvorostovsky-citing-brain-tumor-withdraws-from-opera.html?_r=0) that Russian baritone (and heartthrob) [Dmitri Hvorostovksy](/scene/people/dmitri-hvorostovsky/) will be withdrawing from operatic performances for the "foreseeable future".
 

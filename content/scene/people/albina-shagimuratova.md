@@ -1,31 +1,38 @@
-+++
-date = "2016-09-15T12:48:00+01:00"
-discipline = "Coloratura soprano"
-lastmod = "2017-03-15T11:23:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473940071168/2016-09-15---Shagimuratova--pc---Pavel-Vaan-Leonid-Semenyuk.jpg.jpg"
-primary_image_credit = "Pavel Vaan and Leonid Semenyuk"
-publishDate = "2016-09-15T12:48:00+01:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/houston-grand-opera.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/lyric-opera-of-chicago.md"]
-slug = "albina-shagimuratova"
-title = "Albina Shagimuratova"
-website = "http://www.albinashagimuratova.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/AlbinaShagimuratova"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/AShagimuratova"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/albinashagimuratova/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCsglc5l3mgGwIwamRST_4Dw"
-+++
+---
+date: "2016-09-15T12:48:00+01:00"
+discipline: Coloratura soprano
+lastmod: "2017-03-15T11:23:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473940071168/2016-09-15---Shagimuratova--pc---Pavel-Vaan-Leonid-Semenyuk.jpg.jpg
+primary_image_credit: Pavel Vaan and Leonid Semenyuk
+publishDate: "2016-09-15T12:48:00+01:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/lyric-opera-of-chicago.md
+slug: albina-shagimuratova
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/AlbinaShagimuratova
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/AShagimuratova
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/albinashagimuratova/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCsglc5l3mgGwIwamRST_4Dw
+title: Albina Shagimuratova
+website: http://www.albinashagimuratova.com/
+_template: "people_single"
+---
 
 Albina Shagimuratova has been hailed by Opera News as “a phenomenon that must be heard to be believed” and by the New York Times for her “riveting Lucia.” She first came to international attention as the Gold Medal winner in the 2007 Tchaikovsky Competition in Moscow. This was followed quickly by her European opera debut as the Queen of the Night at the Salzburg Festival under the baton of Riccardo Muti. She has come to be regarded as the world’s leading interpreter of the role, from Mozart’s *Die Zauberflöte*, and has sung it with the Metropolitan Opera, Royal Opera House – Covent Garden, Teatro alla Scala (available on DVD), Wiener Staatsoper, Bayerische Staatsoper, Deutsche Oper Berlin, San Francisco Opera, Bolshoi Theater, Los Angeles Opera, Houston Grand Opera, Hamburg Staatsoper, and the Lucerne Festival, among others.
 

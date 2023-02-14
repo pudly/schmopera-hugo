@@ -1,19 +1,30 @@
-+++
-date = "2015-09-29T19:15:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-09-10T11:53:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443568334861/PolenzaniAcostaSquare.jpg.jpg"
-primary_image_credit = "Photo by Dario Acosta"
-publishDate = "2015-09-29T19:17:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/opra-national-de-paris.md","scene/companies/san-francisco-opera.md","scene/companies/los-angeles-opera.md","scene/companies/seattle-opera.md"]
-slug = "matthew-polenzani"
-title = "Matthew Polenzani"
-website = "http://www.matthewpolenzani.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Matthew-Polenzani/107698779259705?fref=ts"
-+++
+---
+date: "2015-09-29T19:15:00-04:00"
+discipline: Tenor
+lastmod: "2017-09-10T11:53:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443568334861/PolenzaniAcostaSquare.jpg.jpg
+primary_image_credit: Photo by Dario Acosta
+publishDate: "2015-09-29T19:17:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/seattle-opera.md
+slug: matthew-polenzani
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/pages/Matthew-Polenzani/107698779259705?fref=ts
+title: Matthew Polenzani
+website: http://www.matthewpolenzani.com/
+_template: "people_single"
+---
 
 Tenor Matthew Polenzani is one of the most gifted and distinguished lyric tenors of his generation. His elegant musicianship, innate sense of style and dramatic commitment find him at virtually every leading operatic, concert and recital venue in the world.
 

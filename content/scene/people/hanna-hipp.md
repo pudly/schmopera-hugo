@@ -1,18 +1,22 @@
-+++
-date = "2017-03-20T12:51:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-03-20T12:51:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490014212795/2017-03-20---Hanna_Hipp_pc_Matthew_Plummer.jpg.jpg"
-primary_image_credit = "Matthew Plummer"
-publishDate = "2017-03-20T12:51:00+00:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/scottish-opera.md","scene/companies/glyndebourne.md"]
-slug = "hanna-hipp"
-title = "Hanna Hipp"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/HannaMoominHipp"
-+++
+---
+date: "2017-03-20T12:51:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2017-03-20T12:51:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490014212795/2017-03-20---Hanna_Hipp_pc_Matthew_Plummer.jpg.jpg
+primary_image_credit: Matthew Plummer
+publishDate: "2017-03-20T12:51:00+00:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/scottish-opera.md
+- scene/companies/glyndebourne.md
+slug: hanna-hipp
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/HannaMoominHipp
+title: Hanna Hipp
+_template: "people_single"
+---
 
 Mezzo-Soprano Hanna Hipp has a busy series of engagements and house debuts for the upcoming 2016/17 season. In August she makes her house debut at Seattle Opera as Isolier in Rossini’s *Le comte Ory*.  She then returns to Scottish Opera for Cherubino in *Le nozze di Figaro* as well as a concert performance of the role of Beppe in Mascagni’s *L’amico Fritz*. In 2017 she will perform at the Royal Opera House, Covent Garden as Magdalene in a new production of *Die Meistersinger von Nürnberg* directed by Kasper Holten and conducted by Sir Antonio Pappano. She will then record the role of Anna in *Les Troyens* for the Erato and Warner Classics label. Ms Hipp will also make her house debut at Dutch National Opera in Amsterdam in Richard Strauss’s *Salome* as the Page. In the summer of 2017 she returns to the Glyndebourne Festival to sing the role of the Composer in Richard Strauss’ *Ariadne auf Naxos*.
 

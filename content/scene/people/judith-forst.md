@@ -1,13 +1,23 @@
-+++
-date = "2015-07-12T19:08:00-06:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-07-12T19:08:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436749643589/7612519.jpg.jpg"
-publishDate = "2015-07-12T19:08:00-06:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/teatro-alla-scala.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/vancouver-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-dallas-opera.md"]
-slug = "judith-forst"
-title = "Judith Forst"
-+++
+---
+date: "2015-07-12T19:08:00-06:00"
+discipline: Mezzo-soprano
+lastmod: "2015-07-12T19:08:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436749643589/7612519.jpg.jpg
+publishDate: "2015-07-12T19:08:00-06:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/the-dallas-opera.md
+slug: judith-forst
+title: Judith Forst
+_template: "people_single"
+---
 
 Judith Doris Forst is a Canadian dramatic mezzo-soprano, and one of our most important and influential artists, ranked among Lois Marshall, Maureen Forrester, Teresa Stratas, Jon Vickers, Richard Margison and Ben Heppner in her achievement. She is known around the world for the musical integrity and dramatic intensity of her performances.
 

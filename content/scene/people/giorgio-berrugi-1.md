@@ -1,22 +1,29 @@
-+++
-date = "2019-02-19T00:27:42+00:00"
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550535721/media/2019/02/GiorgioBerrugiAlessandroMoggi.jpg"
-primary_image_credit = "Alessandro Moggi"
-related_companies = ["scene/companies/deutsche-oper-berlin.md", "scene/companies/royal-opera-house.md", "scene/companies/san-francisco-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/teatro-alla-scala.md", "scene/companies/opra-national-de-paris.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/oper-frankfurt.md"]
-slug = "giorgio-berrugi"
-title = "Giorgio Berrugi"
-website = "http://www.giorgioberrugi.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Giorgio-Berrugi-149564895133360/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/giorgioberrugi"
-
-+++
+---
+date: "2019-02-19T00:27:42+00:00"
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550535721/media/2019/02/GiorgioBerrugiAlessandroMoggi.jpg
+primary_image_credit: Alessandro Moggi
+related_companies:
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/royal-opera-house.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/oper-frankfurt.md
+slug: giorgio-berrugi
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Giorgio-Berrugi-149564895133360/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/giorgioberrugi
+title: Giorgio Berrugi
+website: http://www.giorgioberrugi.com/
+_template: "people_single"
+---
 Nominated by Placido Domingo as one of his heirs, Giorgio Berrugi is one of the most appreciated tenors of today for his unmistakable, warm Italian sound, his exceptional musicality and the expressive nuances of his interpretations.
 
 Berrugi has performed in the most important opera houses, auditoriums and music festivals such as the Teatro alla Scala, Royal Opera House in London, Lincoln Center in New York, Bolshoi Theatre in Moscow, Théâtre des Champs–Élysées in Paris, Deutsche Oper in Berlin, San Francisco Opera, Gewandhaus in Leipzig, Concertgebouw in Amsterdam, Suntory Hall in Tokyo, Wigmore Hall in London, Parco della Musica in Rome and Arena di Verona. He has worked with great conductors such as Zubin Mehta, Christian Thielemann, Fabio Luisi, Andriss Nelsons, Gustavo Dudamel, Daniel Oren, Gianandrea Noseda, Pinchas Steinberg, Nicola Luisotti, Myung-Whun Chung, Manfred Honeck, Roberto Abbado and Jaap van Zweden.

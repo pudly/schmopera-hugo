@@ -1,20 +1,29 @@
-+++
-date = "2015-05-25T22:01:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-05-25T22:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549934452/media/2019/02/NinaStemmeNedaNavaee2.jpg"
-primary_image_credit = "Neda Navaee"
-publishDate = "2015-05-25T22:03:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/opernhaus-zurich.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/wiener-staatsoper.md", "scene/companies/opra-national-de-paris.md", "scene/companies/teatro-alla-scala.md", "scene/companies/san-francisco-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/royal-opera-house.md"]
-slug = "nina-stemme"
-title = "Nina Stemme"
-website = "https://ninastemme.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ninastemme/"
-
-+++
+---
+date: "2015-05-25T22:01:00-04:00"
+discipline: Soprano
+lastmod: "2015-05-25T22:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549934452/media/2019/02/NinaStemmeNedaNavaee2.jpg
+primary_image_credit: Neda Navaee
+publishDate: "2015-05-25T22:03:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/royal-opera-house.md
+slug: nina-stemme
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/ninastemme/
+title: Nina Stemme
+website: https://ninastemme.com/
+_template: "people_single"
+---
 For years, Swedish born Nina Stemme has been considered a leading singer of the most challenging parts in major dramas: Isolde, Brünnhilde and Kundry, Salome and Elektra, Fanciulla and Turandot.
 
 That she initially shied away from these staggering heights of the soprano repertoire is a noteworthy – if not the defining – characteristic of her career. Mozart’s Cherubino is a far cry from Isolde and Turandot, a leap only few have mastered. Nina Stemme made the leap successfully by taking the time a development of this kind requires. When she was offered the part of Isolde, to be performed at the 2003 Glyndebourne Festival, she already had fourteen years of on-stage experience, having first taken lyrical parts such as Cherubino, Pamina, the “Figaro” Countess, Agathe and Eva, before moving on to increasingly lyrical-dramatic roles such as Mimi, Butterfly, Manon Lescaut, Tosca, “Tannhäuser” Elisabeth, Marschallin and Senta.   

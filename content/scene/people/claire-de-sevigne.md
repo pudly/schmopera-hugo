@@ -1,32 +1,34 @@
-+++
-date = "2015-04-07T15:43:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-10-18T10:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546193605/media/2018/12/Claire37.jpg"
-primary_image_credit = "Marie Sophie Caspar"
-publishDate = "2015-04-07T15:43:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/canadian-opera-company.md", "scene/companies/tapestry-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/opernhaus-zurich.md"]
-slug = "claire-de-sevigne"
-title = "Claire de Sévigné"
-website = "http://www.clairedesevigne.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Claire.de.Sevigne.Soprano/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ClairedeSevigne"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/clairedesevigne/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCFFIz8NbyNM-A1HYM4g6bxg"
-
-+++
+---
+date: "2015-04-07T15:43:00-04:00"
+discipline: Soprano
+lastmod: "2017-10-18T10:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546193605/media/2018/12/Claire37.jpg
+primary_image_credit: Marie Sophie Caspar
+publishDate: "2015-04-07T15:43:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/tapestry-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/opernhaus-zurich.md
+slug: claire-de-sevigne
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Claire.de.Sevigne.Soprano/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/ClairedeSevigne
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/clairedesevigne/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCFFIz8NbyNM-A1HYM4g6bxg
+title: Claire de Sévigné
+website: http://www.clairedesevigne.com/
+_template: "people_single"
+---
 Named one of CBC’s Top 30 Canadian Classical Musicians under 30, coloratura soprano Claire de Sévigné was recently nominated for a 2016 Classical Album of the Year JUNO award for her Naxos album of Vivaldi Cantatas featuring Maestro Kevin Mallon and the Aradia Ensemble. As the Queen of the Night with the Opera Theater of St. Louis, de Sévigné “dispatched the high-flown coloratura with laser-like precision and tonal beauty”. Her most recent success has been with the Savonlinna Opera Festival, Opernhaus Zürich and Théâtre des Champs-Élysées in the role of Blonde in _Die Entführung aus dem Serail_, in which she was hailed for her “sparkling top notes and vocal brilliance, lightness and finesse”.
 
 In the 2018-19 season, de Sévigné makes her debut with Royal Concertgebouw Orchestra Amsterdam as Vierge in Honegger’s _Jeanne d’Arc au Bucher_, reprises the role of Blonde in _Die Entführung aus dem Serail_ for Opernhaus Zurich, and sings _Messiah_ with Bilbao Orkestra Sinfonikoa and Toronto Symphony Orchestra. Further ahead she will return to the Savonlinna Festival Finland and to Opernhaus Zurich and perform a season at the Grand Théâtre de Genève.

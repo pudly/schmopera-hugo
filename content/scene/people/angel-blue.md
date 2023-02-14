@@ -1,32 +1,38 @@
-+++
-date = "2016-06-07T10:43:00+01:00"
-discipline = "Soprano"
-lastmod = "2017-03-15T12:27:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1658159309/media/2022/07/Dario_Acosta_2_sn2bcf.jpg"
-primary_image_credit = "Dario Acosta."
-publishDate = "2016-06-07T10:43:00+01:00"
-related_companies = ["scene/companies/english-national-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/royal-opera-house.md", "scene/companies/los-angeles-opera.md", "scene/companies/teatro-alla-scala.md", "scene/companies/san-francisco-opera.md"]
-slug = "angel-blue"
-title = "Angel Blue"
-website = "http://www.angeljoyblue.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/angeljoyblue"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/AngelJoyBlue"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/angeljoyblue/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/AngelJoyBlue"
-
-+++
+---
+date: "2016-06-07T10:43:00+01:00"
+discipline: Soprano
+lastmod: "2017-03-15T12:27:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1658159309/media/2022/07/Dario_Acosta_2_sn2bcf.jpg
+primary_image_credit: Dario Acosta.
+publishDate: "2016-06-07T10:43:00+01:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/royal-opera-house.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/san-francisco-opera.md
+slug: angel-blue
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/angeljoyblue
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/AngelJoyBlue
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/angeljoyblue/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/user/AngelJoyBlue
+title: Angel Blue
+website: http://www.angeljoyblue.com/
+_template: "people_single"
+---
 Angel Blue has emerged in recent seasons as one of the most important sopranos before the public today. On September 23, 2019 she opened the Metropolitan Opera's 2019-2020 season as Bess in a new production of George Gershwin's _Porgy and Bess_ for which she earned a Grammy Award in the Best Opera Recording category. She reprised this role at the Met in Fall 2021, which immediately followed her triumphant role debut as Destiny/Loneliness/Greta in the Met’s historic 2021-22 season opener of _Fire Shut Up In My Bones_, the first production at the Metropolitan Opera by a Black composer. Additionally, she became the first African-American to receive the Beverly Sills Award from the Metropolitan Opera in 2020, and is also a 2022 Richard Tucker Foundation Awardee. She has also been praised for performances in nearly every major opera house in the world, including Teatro alla Scala, Covent Garden, the Vienna State Opera, Semperoper Dresden, San Francisco Opera, Seattle Opera, Theater an der Wien, Oper Frankfurt, and San Diego Opera.
 
 The current season includes a wide range of repertoire which highlights her immense versatility and virtuosity on operatic and concert stages internationally. Following her return to the Metropolitan Opera with back-to-back productions, Angel Blue will appear in _La Traviata_ at Covent Garden, and in early summer 2022, she sings the role of Marguerite in _Faust_ at Paris Opera. Highlights of Ms. Blue’s recital and concert engagements include four performances of _Knoxville: Summer of 1915_ with the Philadelphia Orchestra and Yannick Nézet-Séguin, including one night at Carnegie Hall; and, she appears with the Dallas Symphony Orchestra conducted by Fabio Luisi performing Beethoven’s Symphony No. 9. She also gives recitals in Gstaad, Washington University in St. Louis, Cal Performances in Berkeley, and further engagements with the Philadelphia Orchestra in Saratoga, Edinburgh, and Hamburg.

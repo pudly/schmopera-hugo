@@ -1,24 +1,26 @@
-+++
-date = "2015-04-11T22:16:00-04:00"
-discipline = "Baritone"
-lastmod = "2015-04-11T22:16:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546831468/media/2019/01/ZacharyNelsonheadshot.jpg"
-primary_image_credit = "Dario Acosta"
-publishDate = "2015-04-11T22:16:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-santa-fe-opera.md"]
-slug = "zachary-nelson"
-title = "Zachary Nelson"
-website = "http://www.zacharynelsonbaritone.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ZacharyBaritone"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/zacharynelson410/"
-
-+++
+---
+date: "2015-04-11T22:16:00-04:00"
+discipline: Baritone
+lastmod: "2015-04-11T22:16:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546831468/media/2019/01/ZacharyNelsonheadshot.jpg
+primary_image_credit: Dario Acosta
+publishDate: "2015-04-11T22:16:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-santa-fe-opera.md
+slug: zachary-nelson
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/ZacharyBaritone
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/zacharynelson410/
+title: Zachary Nelson
+website: http://www.zacharynelsonbaritone.com/
+_template: "people_single"
+---
 Zachary Nelson, a native of Annapolis, Maryland, has been praised for his rich and powerful baritone, as well as his ability to embody dramatic and comic characters on the operatic stage.
 
 The baritone’s 2018-2019 season includes a return to Lyric Opera of Chicago as a soloist in their widely attended annual Millennium Park concert, followed by performances of Marcello in _La bohème._ Additionally, he joins Arizona Opera as the Count in _Le nozze di Figaro_, and returns to Santa Fe Opera as Marcello in _La bohème_. On the concert stage, he sings Peter in _Hansel and Gretel_ with the Oregon Symphony.

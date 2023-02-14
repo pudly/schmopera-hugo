@@ -1,14 +1,16 @@
-+++
-discipline = "Bass"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1636121645/media/2021/11/WilliamGuanboSu_qyrly2.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/houston-grand-opera.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "william-guanbo-su"
-social_media = []
-title = "William Guanbo Su"
-website = ""
-
-+++
+---
+discipline: Bass
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1636121645/media/2021/11/WilliamGuanboSu_qyrly2.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-metropolitan-opera.md
+slug: william-guanbo-su
+social_media: []
+title: William Guanbo Su
+website: ""
+_template: "people_single"
+---
 Heralded by the New York Times for “musical taste, honest execution of Handelian ornaments and bel canto filigree, and a solid voice,” William Guanbo Su is a 2019 Metropolitan Opera National Council Auditions Grand Finals winner.
 
 He is currently in his final year as a member of the Houston Grand Opera Studio. This season he sings Zuniga in _Carmen_, the First Officer in _Dialogues des Carmélites_, Second Armed Man _in Die Zauberflöte_—while also being responsible for Sarastro, Mandarin in _Turandot_—while also being responsible for Timur, and the Duke of Verona in _Roméo et Juliette_. Last season, he sang excerpts of Enrico in _Anna Bolena_ and the Commendatore in _Don Giovanni_ in the Houston Grand Opera Studio Showcase and later presented Schumann’s Liederkreis Op. 39; both programs were presented digitally. He made his company debut as the Usher in _Rigoletto_ before his performances of Sparafucile in outdoor performances of _Rigoletto_, Second Armored Man in _Die Zauberflöte_ were cancelled by the COVID-19 pandemic, as were the Second Knight in _Parsifal_, and the Sadistic Sailor in _Breaking the Waves_.

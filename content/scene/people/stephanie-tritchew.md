@@ -1,17 +1,19 @@
-+++
-date = "2016-06-19T15:05:00-06:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-06-19T15:05:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466370230235/2016-06-20--Tritchew-Headshot-1.jpg.jpg"
-publishDate = "2016-06-19T15:05:00-06:00"
-related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md"]
-slug = "stephanie-tritchew"
-title = "Stephanie Tritchew"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/StephT_mezzo"
-+++
+---
+date: "2016-06-19T15:05:00-06:00"
+discipline: Mezzo-soprano
+lastmod: "2016-06-19T15:05:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466370230235/2016-06-20--Tritchew-Headshot-1.jpg.jpg
+publishDate: "2016-06-19T15:05:00-06:00"
+related_companies:
+- scene/companies/calgary-opera-emerging-artist-development-program.md
+slug: stephanie-tritchew
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/StephT_mezzo
+title: Stephanie Tritchew
+_template: "people_single"
+---
 
 Mezzo-soprano Stephanie Tritchew is a recent graduate of the Emerging Artist program at Calgary Opera. She holds an Opera Diploma from the University of Toronto Opera School where she studied under the tutelage of Wendy Nielsen, as well as a BMus and MMus from the University of Western Ontario. 
 

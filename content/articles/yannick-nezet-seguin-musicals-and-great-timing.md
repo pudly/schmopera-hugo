@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-06-02T05:47:00-06:00"
-lastmod = "2016-07-06T16:12:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464980611100/2016-06-04---YNZ-2009002-Marco-Borggreve.jpg.jpg"
-primary_image_credit = "Photo by Marco Borggreve."
-publishDate = "2016-06-03T14:30:00-06:00"
-related_articles = ["articles/is-it-time-for-the-met-to-move.md","articles/elitism-irony-and-the-phantom-of-the-opera.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/yannick-nezet-seguin.md"]
-short_description = "With a few years of unsettled music direction, and a real need to try something actually new (perhaps veering towards what many opera fans would call &quot;pandering&quot;), it seems like a perfect opportunity for the Met to take a serious try at adding musicals to their heavy roster of over 20 productions per season. There&#039;s perhaps an untapped, enthusiastic potential audience that would love to pair the grandeur and the chandeliers with the kind of onstage action that is less foreign to their eyes and ears."
-slug = "yannick-nezet-seguin-musicals-and-great-timing"
-title = "Yannick Nézet-Séguin, musicals, and great timing"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-06-02T05:47:00-06:00"
+lastmod: "2016-07-06T16:12:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464980611100/2016-06-04---YNZ-2009002-Marco-Borggreve.jpg.jpg
+primary_image_credit: Photo by Marco Borggreve.
+publishDate: "2016-06-03T14:30:00-06:00"
+related_articles:
+- articles/is-it-time-for-the-met-to-move.md
+- articles/elitism-irony-and-the-phantom-of-the-opera.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/yannick-nezet-seguin.md
+short_description: With a few years of unsettled music direction, and a real need
+  to try something actually new (perhaps veering towards what many opera fans would
+  call &quot;pandering&quot;), it seems like a perfect opportunity for the Met to
+  take a serious try at adding musicals to their heavy roster of over 20 productions
+  per season. There&#039;s perhaps an untapped, enthusiastic potential audience that
+  would love to pair the grandeur and the chandeliers with the kind of onstage action
+  that is less foreign to their eyes and ears.
+slug: yannick-nezet-seguin-musicals-and-great-timing
+title: Yannick Nézet-Séguin, musicals, and great timing
+_template: article_single
+---
 
 A few weeks ago, we were [pondering](/is-it-time-for-the-met-to-move/) what The Metropolitan Opera could do about the too few butts in their seats and falling ticket revenue. We added our two cents to the myriad of suggestions proposed by people who don't want the Met to fail, but for some reason, one huge, glaring, and hopefully not novel idea didn't occur to us at the time: what if the Met did musicals?
 

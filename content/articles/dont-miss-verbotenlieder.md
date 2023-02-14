@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2018-12-10T10:23:00-05:00"
-lastmod = "2018-12-10T13:22:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544456053067/sqVerbotenliederposter.jpg.jpg"
-publishDate = "2018-12-10T10:35:00-05:00"
-related_companies = ["scene/companies/tongue-in-cheek-productions.md"]
-related_people = ["scene/people/michael-nyby.md","scene/people/aaron-durand.md"]
-short_description = "Launched in 2018 by baritones Michael Nyby and Aaron Durand, TICP is about unpacking and re-thinking the &quot;often stiff nature&quot; of classical music. With Verbotenlieder, they&#039;re upending two of opera&#039;s most ubiquitous traditions: gender and voice type."
-slug = "dont-miss-verbotenlieder"
-title = "Don&#039;t miss: Verbotenlieder"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2018-12-10T10:23:00-05:00"
+lastmod: "2018-12-10T13:22:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544456053067/sqVerbotenliederposter.jpg.jpg
+publishDate: "2018-12-10T10:35:00-05:00"
+related_companies:
+- scene/companies/tongue-in-cheek-productions.md
+related_people:
+- scene/people/michael-nyby.md
+- scene/people/aaron-durand.md
+short_description: 'Launched in 2018 by baritones Michael Nyby and Aaron Durand, TICP
+  is about unpacking and re-thinking the &quot;often stiff nature&quot; of classical
+  music. With Verbotenlieder, they&#039;re upending two of opera&#039;s most ubiquitous
+  traditions: gender and voice type.'
+slug: dont-miss-verbotenlieder
+title: 'Don&#039;t miss: Verbotenlieder'
+_template: article_single
+---
 
 On **December 19** at Toronto's Lula Lounge, [Tongue In Cheek Productions](/scene/companies/tongue-in-cheek-productions/) presents its second tradition-defying event, *Verbotenlieder*.
 
@@ -20,7 +28,10 @@ The all-women line-up of singers will offer their delightfully femininine - or m
 
 For opera veterans, *Verbotenlieder* is sure to be a hoot; and for the newcomers, there's a programme of excellent music, sung by some of Canada's must-hear talent.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544456092364/Verbotenliederposter.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544456092364/Verbotenliederposter.jpg.jpg)
+
 <figcaption>Image by Madison Angus.</figcaption>
 </figure>
 

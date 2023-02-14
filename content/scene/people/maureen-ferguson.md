@@ -1,22 +1,26 @@
-+++
-date = "2016-04-02T10:46:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-04-02T10:46:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459590350708/2016-04-02---Maureen-Ferguson.jpg.jpg"
-publishDate = "2016-04-02T10:46:00+01:00"
-related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md","scene/companies/calgary-opera.md","scene/companies/highlands-opera-studio.md","scene/companies/halifax-summer-opera-festival.md"]
-slug = "maureen-ferguson"
-title = "Maureen Ferguson"
-website = "http://www.maureenferguson.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/maureen.ferguson.182"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/mfergu26"
-+++
+---
+date: "2016-04-02T10:46:00+01:00"
+discipline: Soprano
+lastmod: "2016-04-02T10:46:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459590350708/2016-04-02---Maureen-Ferguson.jpg.jpg
+publishDate: "2016-04-02T10:46:00+01:00"
+related_companies:
+- scene/companies/calgary-opera-emerging-artist-development-program.md
+- scene/companies/calgary-opera.md
+- scene/companies/highlands-opera-studio.md
+- scene/companies/halifax-summer-opera-festival.md
+slug: maureen-ferguson
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/maureen.ferguson.182
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/mfergu26
+title: Maureen Ferguson
+website: http://www.maureenferguson.com/
+_template: "people_single"
+---
 
 Toronto based Soprano, Maureen Ferguson, is a recent graduate of the Emerging Artists Program at the Calgary Opera Company in Calgary, Alberta, Canada.
 Born into a very musical family, her father a professional trombone player, she started in music at a young age in choirs and bands. She holds a Masters of Music in Vocal Performance from the University of Michigan, and a B. M. in Vocal Performance from the University of Western Ontario.

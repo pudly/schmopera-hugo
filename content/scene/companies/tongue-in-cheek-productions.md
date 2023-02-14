@@ -1,22 +1,24 @@
-+++
-date = "2018-12-10T10:27:00-05:00"
-lastmod = "2018-12-10T10:28:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544455656074/40790118_1086096074881958_6038020330734223360_n.jpg.jpg"
-publishDate = "2018-12-10T10:27:00-05:00"
-related_people = ["scene/people/michael-nyby.md","scene/people/aaron-durand.md"]
-slug = "tongue-in-cheek-productions"
-title = "Tongue In Cheek Productions"
-type_of_company = "Concert presenter"
-website = "https://www.tongueincheekproductions.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/tongueincheekmusic/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/tongueincheekproductions/"
-+++
+---
+date: "2018-12-10T10:27:00-05:00"
+lastmod: "2018-12-10T10:28:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544455656074/40790118_1086096074881958_6038020330734223360_n.jpg.jpg
+publishDate: "2018-12-10T10:27:00-05:00"
+related_people:
+- scene/people/michael-nyby.md
+- scene/people/aaron-durand.md
+slug: tongue-in-cheek-productions
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/tongueincheekmusic/
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/tongueincheekproductions/
+title: Tongue In Cheek Productions
+type_of_company: Concert presenter
+website: https://www.tongueincheekproductions.com/
+_template: "company_single"
+---
 
 There are a multitude of passionate, deep, and committed performing artists in our city. From all walks of life, from incredibly diverse backgrounds, they choose to undertake a specialized profession with limited prospects in order to express real, tangible things that are common to us all. And most of it in a highly crystallized genre of art: classical music. We choose to honour their effort while simultaneously honouring our shared humanity through the refined nature of this music. To what end?
 

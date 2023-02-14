@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-10-03T10:14:00+01:00"
-lastmod = "2016-10-03T11:52:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475487845954/2016-10-03---Opera-Box-Podcast.jpg.jpg"
-publishDate = "2016-10-03T11:12:00+01:00"
-related_companies = ["scene/companies/chicago-fringe-opera.md"]
-related_people = ["scene/people/giovanna-jacques.md"]
-short_description = "So, for those well-balanced fans of opera and sports, there&#039;s Opera Box Score, the podcast that asks, &quot;what if opera – its performances, personnel and programming – could be demystified, discussed and promoted in such a way as to become as much a part of the public consciousness as sports?&quot;"
-slug = "fans-unite-opera-box-score"
-title = "Fans unite: Opera Box Score"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-10-03T10:14:00+01:00"
+lastmod: "2016-10-03T11:52:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475487845954/2016-10-03---Opera-Box-Podcast.jpg.jpg
+publishDate: "2016-10-03T11:12:00+01:00"
+related_companies:
+- scene/companies/chicago-fringe-opera.md
+related_people:
+- scene/people/giovanna-jacques.md
+short_description: So, for those well-balanced fans of opera and sports, there&#039;s
+  Opera Box Score, the podcast that asks, &quot;what if opera – its performances,
+  personnel and programming – could be demystified, discussed and promoted in such
+  a way as to become as much a part of the public consciousness as sports?&quot;
+slug: fans-unite-opera-box-score
+title: 'Fans unite: Opera Box Score'
+_template: article_single
+---
 
 As devoted as opera fans can be, the passion of a sports fan can be an impressive thing. And, as baffling as it may be for those of us deeply entrenched in band-geekdom, there are indeed opera fans who are *also* sports fans. Weird, right?
 

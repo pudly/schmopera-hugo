@@ -1,15 +1,22 @@
-+++
-date = "2017-02-03T12:41:00+00:00"
-discipline = "Tenor"
-lastmod = "2017-02-03T12:43:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486125546762/201-02-03---Schager-Credit-David-Jerusalem.jpg.jpg"
-primary_image_credit = "David Jerusalem"
-publishDate = "2017-02-03T12:41:00+00:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/bayerische-staatsoper.md","scene/companies/semperoper-dresden.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/oper-frankfurt.md"]
-slug = "andreas-schager"
-title = "Andreas Schager"
-website = "http://www.andreas-schager.com/"
-+++
+---
+date: "2017-02-03T12:41:00+00:00"
+discipline: Tenor
+lastmod: "2017-02-03T12:43:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486125546762/201-02-03---Schager-Credit-David-Jerusalem.jpg.jpg
+primary_image_credit: David Jerusalem
+publishDate: "2017-02-03T12:41:00+00:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/semperoper-dresden.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/oper-frankfurt.md
+slug: andreas-schager
+title: Andreas Schager
+website: http://www.andreas-schager.com/
+_template: "people_single"
+---
 
 Austrian tenor Andreas Schager has been acclaimed throughout Europe and North America for his performances of highly demanding parts of the Heldentenor repertoire.
 

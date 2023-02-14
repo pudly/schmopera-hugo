@@ -1,14 +1,15 @@
-+++
-date = "2015-11-04T17:17:00-05:00"
-discipline = "Tenor, pianist"
-lastmod = "2015-11-04T17:18:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446675160577/2015-11-04---Chris-Lysack---Square.jpg.jpg"
-primary_image_credit = "Photo: Rebecca Fay Photography"
-publishDate = "2015-11-04T17:17:00-05:00"
-slug = "chris-lysack"
-title = "Chris Lysack"
-website = "http://chrislysack.com/"
-+++
+---
+date: "2015-11-04T17:17:00-05:00"
+discipline: Tenor, pianist
+lastmod: "2015-11-04T17:18:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446675160577/2015-11-04---Chris-Lysack---Square.jpg.jpg
+primary_image_credit: 'Photo: Rebecca Fay Photography'
+publishDate: "2015-11-04T17:17:00-05:00"
+slug: chris-lysack
+title: Chris Lysack
+website: http://chrislysack.com/
+_template: "people_single"
+---
 
 Canadian tenor Chris Lysack brings a vast and unusual skill set to his craft. Initially having received his formal training at Indiana University as a concert pianist (Doctor of Music) and a literary scholar (PhD, French Literature) before completing his vocal studies at Manhattan School of Music, he is uniquely positioned to approach the most challenging repertoire with intellectual rigor and refined musicianship of the highest caliber.
 

@@ -1,22 +1,24 @@
-+++
-date = "2015-10-20T16:59:00-04:00"
-lastmod = "2015-10-20T17:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445374761002/YDEPCndC.jpeg.jpeg"
-publishDate = "2015-10-20T16:59:00-04:00"
-related_people = ["scene/people/dean-burry.md","scene/people/kyra-millan.md"]
-slug = "canadian-childrens-opera-company"
-title = "Canadian Children&#039;s Opera Company"
-type_of_company = "Children's Chorus"
-website = "http://www.canadianchildrensopera.com/index.php"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Canadian-Childrens-Opera-Company-110622059017962/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/OperaKidsCanada"
-+++
+---
+date: "2015-10-20T16:59:00-04:00"
+lastmod: "2015-10-20T17:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445374761002/YDEPCndC.jpeg.jpeg
+publishDate: "2015-10-20T16:59:00-04:00"
+related_people:
+- scene/people/dean-burry.md
+- scene/people/kyra-millan.md
+slug: canadian-childrens-opera-company
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Canadian-Childrens-Opera-Company-110622059017962/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/OperaKidsCanada
+title: Canadian Children&#039;s Opera Company
+type_of_company: Children's Chorus
+website: http://www.canadianchildrensopera.com/index.php
+_template: "company_single"
+---
 
 The Canadian Children's Opera Company (originally Chorus) was founded in 1968 by Ruby Mercer and Music Director Lloyd Bradshaw specifically to provide a stable source of child singers for productions of the Canadian Opera Company. 
 

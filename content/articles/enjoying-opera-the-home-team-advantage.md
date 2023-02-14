@@ -1,16 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-07-15T12:58:00-06:00"
-lastmod = "2016-07-17T09:28:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468768979928/2016-07-16---Lucretia.jpg.jpg"
-publishDate = "2016-07-17T09:23:00-06:00"
-related_companies = ["scene/companies/the-banff-centre.md","scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/emma-char.md","scene/people/iain-macneil.md","scene/people/chelsea-rus.md","scene/people/owen-mccausland.md","scene/people/vanessa-oudereimerink.md","scene/people/paul-curran.md","scene/people/christopher-mokrzewski.md"]
-short_description = "For the audience, the creative team can only wish listeners the richest experience when they go to see their work. Great operas have seemingly infinite moments of dramatic significance, of a musical changes that speaks volumes of the story; will the average audience notice those details, and feel moved by them?"
-slug = "enjoying-opera-the-home-team-advantage"
-title = "Enjoying opera: the home team advantage"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-07-15T12:58:00-06:00"
+lastmod: "2016-07-17T09:28:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468768979928/2016-07-16---Lucretia.jpg.jpg
+publishDate: "2016-07-17T09:23:00-06:00"
+related_companies:
+- scene/companies/the-banff-centre.md
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/emma-char.md
+- scene/people/iain-macneil.md
+- scene/people/chelsea-rus.md
+- scene/people/owen-mccausland.md
+- scene/people/vanessa-oudereimerink.md
+- scene/people/paul-curran.md
+- scene/people/christopher-mokrzewski.md
+short_description: For the audience, the creative team can only wish listeners the
+  richest experience when they go to see their work. Great operas have seemingly infinite
+  moments of dramatic significance, of a musical changes that speaks volumes of the
+  story; will the average audience notice those details, and feel moved by them?
+slug: enjoying-opera-the-home-team-advantage
+title: 'Enjoying opera: the home team advantage'
+_template: article_single
+---
 
 When you work on an opera, by opening night, you know it like the back of your hand. It can feel a little insane to know every corner of a show, to have a bar and a half worth of recit running around in your head, to be able to rattle off pages of a score at the slightest provocation. We opened [*The Rape of Lucretia*](http://calgaryherald.com/entertainment/music/emotional-powerful-britten-opera-performance-deeply-disturbs) here at The Banff Centre this weekend, and though it's not exactly a toe-tapper, Britten's chamber opera has nestled deeply into the brains of the creative team.
 

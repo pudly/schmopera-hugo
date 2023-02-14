@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-07-26T15:04:00-04:00"
-lastmod = "2016-07-27T08:02:00-04:00"
-preamble = "What do singers do well? Sing, obviously. But the career comes with plenty of extra skill-building opportunities. Not everyone is a master chef or a DIY pro, but working singers know that making sound with their throat is the tip of the iceberg."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469569370335/2016-07-27---Things-Collage.jpg.jpg"
-publishDate = "2016-07-27T08:01:00-04:00"
-related_articles = ["articles/three-big-things-we-can-all-learn-from-singers.md","articles/in-defence-of-singers.md"]
-short_description = "When singers travel for work, they&#039;re not just choosing to spend time alone; for weeks or months at a time, singers are on their own in a new city, often without friends or family to keep them company. Loneliness can set in, or even boredom, both dangerous things when your job depends on your physical and mental health."
-slug = "what-else-are-singers-great-at"
-title = "What else are singers great at?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-07-26T15:04:00-04:00"
+lastmod: "2016-07-27T08:02:00-04:00"
+preamble: What do singers do well? Sing, obviously. But the career comes with plenty
+  of extra skill-building opportunities. Not everyone is a master chef or a DIY pro,
+  but working singers know that making sound with their throat is the tip of the iceberg.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469569370335/2016-07-27---Things-Collage.jpg.jpg
+publishDate: "2016-07-27T08:01:00-04:00"
+related_articles:
+- articles/three-big-things-we-can-all-learn-from-singers.md
+- articles/in-defence-of-singers.md
+short_description: When singers travel for work, they&#039;re not just choosing to
+  spend time alone; for weeks or months at a time, singers are on their own in a new
+  city, often without friends or family to keep them company. Loneliness can set in,
+  or even boredom, both dangerous things when your job depends on your physical and
+  mental health.
+slug: what-else-are-singers-great-at
+title: What else are singers great at?
+_template: article_single
+---
 
 ## Meeting new people
 

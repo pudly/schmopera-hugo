@@ -1,17 +1,22 @@
-+++
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562204673/media/2019/07/SimonKeenlyside-UweArens.jpg"
-primary_image_credit = "Uwe Arens"
-related_companies = ["scene/companies/deutsche-oper-berlin.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/wiener-staatsoper.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/royal-opera-house.md"]
-slug = "simon-keenlyside"
-title = "Simon Keenlyside"
-website = "http://www.simonkeenlyside.info/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Simon-Keenlyside-160209774066057/"
-
-+++
+---
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1562204673/media/2019/07/SimonKeenlyside-UweArens.jpg
+primary_image_credit: Uwe Arens
+related_companies:
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+slug: simon-keenlyside
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Simon-Keenlyside-160209774066057/
+title: Simon Keenlyside
+website: http://www.simonkeenlyside.info/
+_template: "people_single"
+---
 Simon Keenlyside was born in London. He made his operatic debut at the Hamburg State Opera as Count Almaviva _Le Nozze di Figaro_. Simon appears in all the world’s great opera houses and has a particularly close association with the Metropolitan Opera New York, the Royal Opera House Covent Garden, and the Bavarian and Vienna State Opera houses where his roles include Prospero _The Tempest_, Posa _Don Carlo_, Germont Père _La Traviata_, Papageno _The Magic Flute_, Count Almaviva and the title roles in _Don Giovanni_, _Eugene Onegin_, _Pelléas et Mélisande_, _Wozzeck_, _Billy Budd_, _Hamlet_, _Macbeth_ and _Rigoletto_.
 
 Simon enjoys extensive concert work and has sung under the baton of many of the worlds’ leading conductors, appearing with the Chamber Orchestra of Europe, the City of Birmingham, London Symphony, Philharmonia and Cleveland Orchestras, and the Czech, Vienna and Berlin Philharmonic Orchestras.

@@ -1,14 +1,21 @@
-+++
-date = "2017-09-15T21:02:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-09-15T21:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505523709253/liv-redpath_portrait.jpg.jpg"
-publishDate = "2017-09-15T21:02:00-04:00"
-related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/the-juilliard-school.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-santa-fe-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/houston-grand-opera.md"]
-slug = "liv-redpath"
-title = "Liv Redpath"
-website = "http://www.livredpath.com/about/"
-+++
+---
+date: "2017-09-15T21:02:00-04:00"
+discipline: Soprano
+lastmod: "2017-09-15T21:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505523709253/liv-redpath_portrait.jpg.jpg
+publishDate: "2017-09-15T21:02:00-04:00"
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-juilliard-school.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/wolf-trap-opera.md
+- scene/companies/houston-grand-opera.md
+slug: liv-redpath
+title: Liv Redpath
+website: http://www.livredpath.com/about/
+_template: "people_single"
+---
 
 Soprano Liv Redpath just finished her first year as a Domingo-Colburn-Stein Young Artist at LA Opera, where she sang Olympia in *Les contes d'Hoffmann*, covered Konstanze and Blonde in *Die Entführung aus dem Serail*, and collaborated with Matthew Aucoin on a number of projects, including *Nosferatu* at the Ace Hotel, an After Hours concert of Britten Folk Songs and Joni Mitchell, and a wide ranging Mozart tour throughout the city. She will return to LA next season to sing Amour in *Orphée et Eurydice*, Frasquita in *Carmen*, and Countess Ceprano in *Rigoletto*. Liv will also cover Cunégonde in *Candide* and Gilda in *Rigoletto*. She will spend the summer at Santa Fe Opera as an Apprentice Singer, covering the Queen of Shemakha in *The Golden Cockerel*.
 

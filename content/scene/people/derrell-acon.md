@@ -1,13 +1,20 @@
-+++
-date = "2018-05-11T20:54:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2018-05-11T20:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526086391612/916938_4d1740926a734a4d93744412f5993a41~mv2_d_2400_2780_s_4_2.png.png"
-publishDate = "2018-05-11T20:54:00-04:00"
-related_companies = ["scene/companies/glimmerglass-festival.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/portland-opera.md","scene/companies/semperoper-dresden.md","scene/companies/des-moines-metro-opera.md","scene/companies/opera-north.md"]
-slug = "derrell-acon"
-title = "Derrell Acon"
-+++
+---
+date: "2018-05-11T20:54:00-04:00"
+discipline: Bass-baritone
+lastmod: "2018-05-11T20:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526086391612/916938_4d1740926a734a4d93744412f5993a41~mv2_d_2400_2780_s_4_2.png.png
+publishDate: "2018-05-11T20:54:00-04:00"
+related_companies:
+- scene/companies/glimmerglass-festival.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/portland-opera.md
+- scene/companies/semperoper-dresden.md
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/opera-north.md
+slug: derrell-acon
+title: Derrell Acon
+_template: "people_single"
+---
 
 Bass-baritone Derrell Acon is a uniquely accomplished performer whose repertoire ranges from the comic to the tragic and even the sensual. Recent roles include Leporello in *Don Giovanni* (which he has performed at the Hawaii Performing Arts Festival and Queen City Opera), Don Basilio in *Il barbiere di Siviglia* (which he has performed internationally with La Compagnia di BelCanto di Milano and also with New York City's Christman Opera Company), Sarastro in *Die Zauberflöte* (which he has performed as a young artist with the Glimmerglass Festival), and Ramfis in *Aïda* (which he covered at the Glimmerglass Festival). During the 2017–2018 season, Mr. Acon reprises Sarastro in Portland Opera to Go's touring production of *The Magic Flute* and makes two joint role and company debuts, first as Escamillo in Opera Ithaca's *Carmen*, and then as Rocco in Heartbeat Opera's *Fidelio*.
 

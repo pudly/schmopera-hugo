@@ -1,18 +1,27 @@
-+++
-date = "2018-10-21T21:01:00-04:00"
-discipline = "Baritone"
-lastmod = "2018-10-21T21:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540169992254/Thomas.T.Headshot.jpg.jpg"
-publishDate = "2018-10-21T21:01:00-04:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/florida-grand-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/manitoba-opera.md","scene/companies/palm-beach-opera.md","scene/companies/nashville-opera.md","scene/companies/opera-omaha.md"]
-slug = "todd-thomas"
-title = "Todd Thomas"
-website = "http://toddthomasbaritone.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/toddthomasbaritone/"
-+++
+---
+date: "2018-10-21T21:01:00-04:00"
+discipline: Baritone
+lastmod: "2018-10-21T21:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540169992254/Thomas.T.Headshot.jpg.jpg
+publishDate: "2018-10-21T21:01:00-04:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/manitoba-opera.md
+- scene/companies/palm-beach-opera.md
+- scene/companies/nashville-opera.md
+- scene/companies/opera-omaha.md
+slug: todd-thomas
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/toddthomasbaritone/
+title: Todd Thomas
+website: http://toddthomasbaritone.com/
+_template: "people_single"
+---
 
 Recognized by opera companies and critics alike as one of the true Verdi baritones gracing stages today, Todd Thomas continues his tenure as one of America’s most sought-after artists. In the title role of *Macbeth*, *Opera News* depicted his performance as “warm and centered in his tone with subtle phrasing that emphasized the introspective, almost poetic quality of the tormented king.”
 

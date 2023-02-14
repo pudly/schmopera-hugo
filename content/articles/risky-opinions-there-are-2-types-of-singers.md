@@ -1,15 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-12-10T09:22:00-05:00"
-lastmod = "2017-01-02T09:24:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483149756850/2016-12-31---Types.jpg.jpg"
-publishDate = "2017-01-02T09:24:00-05:00"
-related_articles = ["articles/how-i-acted-my-way-into-an-opera-career.md","articles/why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company.md","articles/audition-arias-101-the-young-singers-guide.md","articles/would-you-rather-prove-me-wrong.md"]
-short_description = "To be fair: maybe these singers can do subtle, and we just didn&#039;t get the chance to see it (and most of the above examples come from an arguably different era of directing opera). But they&#039;re still quite different from singers like Diana Damrau, Christopher Purves, Krisztina Szabó, Barbara Hannigan, Alice Coote, and Allan Clayton. These guys are versatile, and they really do pair their beautiful sounds with mature, layered dramatic performances that feel organic and believable, rather than hokey and overdone."
-slug = "risky-opinions-there-are-2-types-of-singers"
-title = "Risky opinions: there are 2 types of singers..."
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-12-10T09:22:00-05:00"
+lastmod: "2017-01-02T09:24:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483149756850/2016-12-31---Types.jpg.jpg
+publishDate: "2017-01-02T09:24:00-05:00"
+related_articles:
+- articles/how-i-acted-my-way-into-an-opera-career.md
+- articles/why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company.md
+- articles/audition-arias-101-the-young-singers-guide.md
+- articles/would-you-rather-prove-me-wrong.md
+short_description: 'To be fair: maybe these singers can do subtle, and we just didn&#039;t
+  get the chance to see it (and most of the above examples come from an arguably different
+  era of directing opera). But they&#039;re still quite different from singers like
+  Diana Damrau, Christopher Purves, Krisztina Szabó, Barbara Hannigan, Alice Coote,
+  and Allan Clayton. These guys are versatile, and they really do pair their beautiful
+  sounds with mature, layered dramatic performances that feel organic and believable,
+  rather than hokey and overdone.'
+slug: risky-opinions-there-are-2-types-of-singers
+title: 'Risky opinions: there are 2 types of singers...'
+_template: article_single
+---
 
 Even within a niche environment like opera, there are extremes, aesthetic poles that define subgenres within the larger art form. There are composers who write opera scores which are objectively beautiful to the ear; the music of *Madama Butterfly* or *Norma*, for example, is pleasing and memorable even out of context from the operas' plots. Conversely, there are composers whose operas have fewer hummable tunes, but instead try to find an exaggerated version of real-time drama with their scores; Britten, Monteverdi, Strauss, these guys took speech and turned it into a fantastical world of subtext and heightened emotions.
 

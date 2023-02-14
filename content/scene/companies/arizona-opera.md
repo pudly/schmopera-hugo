@@ -1,26 +1,52 @@
-+++
-date = "2015-06-05T22:39:00-04:00"
-lastmod = "2015-10-31T15:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446318663102/Logo---AZO.jpg.jpg"
-publishDate = "2015-06-05T22:39:00-04:00"
-related_people = ["scene/people/ambur-braid.md","scene/people/othalie-graham.md","scene/people/lyne-fortin.md","scene/people/john-fanning.md","scene/people/joseph-lattanzi.md","scene/people/corinne-winters.md","scene/people/rena-harms.md","scene/people/daniela-mack.md","scene/people/matthew-trevino.md","scene/people/rebecca-sjowall.md","scene/people/danielle-pastin.md","scene/people/laura-wilde.md","scene/people/karin-wolverton.md","scene/people/morgan-smith.md","scene/people/joshua-jeremiah.md","scene/people/noah-stewart.md","scene/people/jason-ferrante.md","scene/people/sarah-tucker.md","scene/people/susannah-biller.md","scene/people/corey-bix.md","scene/people/amber-wagner.md","scene/people/michael-chioldi.md","scene/people/karen-slack.md","scene/people/miles-mykkanen.md","scene/people/taylor-stayton.md","scene/people/chad-shelton.md","scene/people/kara-shay-thomson.md"]
-slug = "arizona-opera"
-title = "Arizona Opera"
-type_of_company = "Opera Company"
-website = "http://www.azopera.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/azopera"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/azopera"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://instagram.com/azopera/"
-+++
+---
+date: "2015-06-05T22:39:00-04:00"
+lastmod: "2015-10-31T15:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446318663102/Logo---AZO.jpg.jpg
+publishDate: "2015-06-05T22:39:00-04:00"
+related_people:
+- scene/people/ambur-braid.md
+- scene/people/othalie-graham.md
+- scene/people/lyne-fortin.md
+- scene/people/john-fanning.md
+- scene/people/joseph-lattanzi.md
+- scene/people/corinne-winters.md
+- scene/people/rena-harms.md
+- scene/people/daniela-mack.md
+- scene/people/matthew-trevino.md
+- scene/people/rebecca-sjowall.md
+- scene/people/danielle-pastin.md
+- scene/people/laura-wilde.md
+- scene/people/karin-wolverton.md
+- scene/people/morgan-smith.md
+- scene/people/joshua-jeremiah.md
+- scene/people/noah-stewart.md
+- scene/people/jason-ferrante.md
+- scene/people/sarah-tucker.md
+- scene/people/susannah-biller.md
+- scene/people/corey-bix.md
+- scene/people/amber-wagner.md
+- scene/people/michael-chioldi.md
+- scene/people/karen-slack.md
+- scene/people/miles-mykkanen.md
+- scene/people/taylor-stayton.md
+- scene/people/chad-shelton.md
+- scene/people/kara-shay-thomson.md
+slug: arizona-opera
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/azopera
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/azopera
+- platform: Instagram
+  _template: social_media
+  url: https://instagram.com/azopera/
+title: Arizona Opera
+type_of_company: Opera Company
+website: http://www.azopera.org/
+_template: "company_single"
+---
 
 INTRODUCTION
 

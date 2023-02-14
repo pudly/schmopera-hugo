@@ -3,28 +3,28 @@
   <section class="post--featured">
     <h2 class="pill">Featured</h2>
     <nav class="__right __notscrolled">
-  {{- range where $.Site.Pages "Type" "featured" -}}
-  {{- with .Params.articles -}}
-    {{- range $article := . -}}
-      {{- with $.Site.GetPage "page" $article }}
-      <a href="{{- .Permalink -}}" class="post--featured_item">
-        <header>
-          <h3><span title="{{- .Title | htmlUnescape -}}">{{- .Title | htmlUnescape -}}</span></h3>
-          {{- with .Params.categories }}
-          <em class="post--meta-category">{{- . -}}</em>
-          {{- end }}     
-        </header>
-  
-        <picture>
-          {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_555,h_395,c_fill,g_faces/" -}}
-          {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_1110,h_790,c_fill,g_faces/" }}
-          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
-        </picture>
-      </a>
+      {{- range where $.Site.Pages "Type" "featured" -}}
+      {{- with .Params.articles -}}
+        {{- range $article := . -}}
+          {{- with $.Site.GetPage "page" $article }}
+          <a href="{{- .Permalink -}}" class="post--featured_item">
+            <header>
+              <h3><span title="{{- .Title | htmlUnescape -}}">{{- .Title | htmlUnescape -}}</span></h3>
+              {{- with .Params.categories }}
+              <em class="post--meta-category">{{- . -}}</em>
+              {{- end }}     
+            </header>
+      
+            <picture>
+              {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_555,h_395,c_fill,g_faces/" -}}
+              {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_1110,h_790,c_fill,g_faces/" }}
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+            </picture>
+          </a>
+          {{- end -}}
+        {{- end -}}
       {{- end -}}
-    {{- end -}}
-  {{- end -}}
-  {{- end }}
+      {{- end }}
       <i class="icon-arrow-left"></i>
       <i class="icon-arrow-right"></i>
     </nav>
@@ -32,44 +32,44 @@
 
   <h2 class="pill">Latest Posts</h2>
 
-  {{- $paginator := .Paginate (where .Data.Pages "Type" "articles") -}}
+  {{- $paginator := .Paginate (where $.Site.RegularPages "Type" "articles") -}}
 
   {{- range $paginator.Pages }}
-    <a href="{{- .Permalink -}}" class="post--list-item">
-      <section>
-        <header class="post--list-header">
-          <picture class="post--list-image">
-            {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_740,h_490,c_fill,g_faces/" -}}
-            {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_1480,h_980,c_fill,g_faces/" }}
-            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
-          </picture>
-          <div class="post--list-title">
-            <h1><span title="{{- .Title | htmlUnescape -}}">{{- .Title | htmlUnescape -}}</span></h1>
-            {{- with .Params.categories -}}
-            <em class="post--meta-category">{{- . -}}</em>
-            {{- end -}}
-          </div>
-        </header>
-        
-        <p class="post--list-desc">{{- .Params.short_description | htmlUnescape -}}</p>
-
-        <footer class="post--list-meta">
-      {{- with .Params.author -}}
-        {{- range $author := . -}}
-          {{- with $.Site.GetPage "page" $author }}
-          <picture class="post--meta-author_image">
-            {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_40,h_40,c_fill,g_face/" -}}
-            {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_80,h_80,c_fill,g_face/" }}
-            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
-          </picture>
-          <em>{{- .Title -}}</em>
+  <a href="{{- .Permalink -}}" class="post--list-item">
+    <section>
+      <header class="post--list-header">
+        <picture class="post--list-image">
+          {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_740,h_490,c_fill,g_faces/" -}}
+          {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_1480,h_980,c_fill,g_faces/" }}
+          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+        </picture>
+        <div class="post--list-title">
+          <h1><span title="{{- .Title | htmlUnescape -}}">{{- .Title | htmlUnescape -}}</span></h1>
+          {{- with .Params.categories -}}
+          <em class="post--meta-category">{{- . -}}</em>
           {{- end -}}
-        {{- end -}}
-      {{- end }}
-          <span class="post--meta-date">{{ .Date.Format "Jan 2, 2006" }}</span>
-        </footer>
-      </section>
-    </a>
+        </div>
+      </header>
+      
+      <p class="post--list-desc">{{- .Params.short_description | htmlUnescape -}}</p>
+
+      <footer class="post--list-meta">
+        {{- with .Params.author -}}
+          {{- range $author := . -}}
+            {{- with $.Site.GetPage "page" $author }}
+            <picture class="post--meta-author_image">
+              {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_40,h_40,c_fill,g_face/" -}}
+              {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_80,h_80,c_fill,g_face/" }}
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+            </picture>
+            <em>{{- .Title -}}</em>
+            {{- end -}}
+          {{- end -}}
+        {{- end }}
+        <span class="post--meta-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+      </footer>
+    </section>
+  </a>
   {{- end -}}
 
   {{- partial "pagination.html" . -}}

@@ -1,11 +1,13 @@
-+++
-author = ["authors/jenna.md"]
-date = "2015-07-02T21:52:00-06:00"
-draft = true
-lastmod = "2015-07-02T22:04:00-06:00"
-slug = "newsletter-july"
-title = "Newsletter July"
-+++
+---
+author:
+- authors/jenna.md
+date: "2015-07-02T21:52:00-06:00"
+draft: true
+lastmod: "2015-07-02T22:04:00-06:00"
+slug: newsletter-july
+title: Newsletter July
+_template: article_single
+---
 
 This past month has been a delightful change of pace for the people at Schmopera. I write you all from the incomparably beautiful Banff Centre in Banff, AB, where I'm joining Against the Grain Theatre and the Canadian Opera Company in a new workshop of the new opera by Canadians James Rolfe and Anna Chatterton, *Crush*. AtG's Artistic Director Joel Ivany is also putting up *A Little Too Cozy*, based on Mozart's *Così fan tutte*, marking the third in his trilogy of "transladaptations" of the three Mozart/Da Ponte operas.
 

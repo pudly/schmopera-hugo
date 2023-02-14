@@ -1,16 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-04-29T15:46:00-04:00"
-lastmod = "2017-08-16T22:45:00-04:00"
-preamble = "Photo via [Ted Drake](https://www.flickr.com/photos/draket/10055170993) ([Flickr](https://creativecommons.org/licenses/by-nd/2.0/legalcode))."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502937937674/2017-08-17---Opera-Singer.jpg.jpg"
-publishDate = "2016-04-30T06:48:00-04:00"
-related_articles = ["articles/4-weird-rehearsal-moments-from-the-piano-bench.md","articles/4-secrets-for-better-high-notes.md","articles/4-tips-for-when-there-are-too-many-notes.md","articles/a-singer-and-her-ego.md"]
-short_description = "We always wonder, since it&#039;s right there and wide open, do singers ever find themselves staring into the mouth of their duet partner? Do they become mesmerized by a waving uvula or trembling tongue? Are they conscious of having someone stare directly into their cavernous oral orifice as they holler away? Is it a bonding experience for both parties?"
-slug = "4-weird-questions-for-opera-singers"
-title = "4 weird questions for opera singers"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-04-29T15:46:00-04:00"
+lastmod: "2017-08-16T22:45:00-04:00"
+preamble: Photo via [Ted Drake](https://www.flickr.com/photos/draket/10055170993)
+  ([Flickr](https://creativecommons.org/licenses/by-nd/2.0/legalcode)).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502937937674/2017-08-17---Opera-Singer.jpg.jpg
+publishDate: "2016-04-30T06:48:00-04:00"
+related_articles:
+- articles/4-weird-rehearsal-moments-from-the-piano-bench.md
+- articles/4-secrets-for-better-high-notes.md
+- articles/4-tips-for-when-there-are-too-many-notes.md
+- articles/a-singer-and-her-ego.md
+short_description: We always wonder, since it&#039;s right there and wide open, do
+  singers ever find themselves staring into the mouth of their duet partner? Do they
+  become mesmerized by a waving uvula or trembling tongue? Are they conscious of having
+  someone stare directly into their cavernous oral orifice as they holler away? Is
+  it a bonding experience for both parties?
+slug: 4-weird-questions-for-opera-singers
+title: 4 weird questions for opera singers
+_template: article_single
+---
 
 ## How do you not deafen yourself with the sound of your own voice?
 

@@ -1,22 +1,30 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Interview"
-date = "2019-02-13T17:34:22+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "I'm grateful to Magda Krance for arranging this meeting with Maestro Christie. For details and ticket information for LOC's _La traviata_, [click here](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550079017/media/2019/02/sqMichaelChristieJamesDaniel.jpg"
-primary_image_credit = "Photo: James Daniel."
-related_articles = ["articles/michael-christie-new-opera-that-the-box-office-loves.md"]
-related_companies = ["scene/companies/minnesota-opera.md", "scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/michael-christie.md"]
-short_description = "\"You know, thank goodness that we're beginning to deal more and more with questions and issues of diversity. But Young Artist Programs can't deal with the diversity questions if there isn't a pipeline beforehand.\""
-slug = "talking-with-conductors-michael-christie"
-title = "Talking with conductors: Michael Christie"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Interview
+date: "2019-02-13T17:34:22+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: I'm grateful to Magda Krance for arranging this meeting with Maestro Christie.
+  For details and ticket information for LOC's _La traviata_, [click here](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550079017/media/2019/02/sqMichaelChristieJamesDaniel.jpg
+primary_image_credit: 'Photo: James Daniel.'
+related_articles:
+- articles/michael-christie-new-opera-that-the-box-office-loves.md
+related_companies:
+- scene/companies/minnesota-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/michael-christie.md
+short_description: '"You know, thank goodness that we''re beginning to deal more and
+  more with questions and issues of diversity. But Young Artist Programs can''t deal
+  with the diversity questions if there isn''t a pipeline beforehand."'
+slug: talking-with-conductors-michael-christie
+title: 'Talking with conductors: Michael Christie'
+youtube_url: ""
+_template: article_single
+---
 When Schmopera first [interviewed conductor Michael Christie back in 2016](/michael-christie-new-opera-that-the-box-office-loves/), he was right in the thick of his tenure as Music Director of Minnesota Opera. Riding a stream of high-profile and highly lauded world premieres and commissions of new operas, Christie and the company established themselves among today's foremost new-music performers and as brilliant exemplars of what a 21st-century opera company could be.
 
 Maestro Christie is currently in Chicago to make his mainstage debut at Lyric Opera of Chicago with [Verdi's _La traviata_](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets). This venerable staple of the operatic canon might initially seem puzzling in light of Christie's skills and accomplishments with new music. (As of this writing, Christie has won a Grammy Award for his recording of Mason Bates' _The &#40;R&#41;evolution of Steve Jobs_ with Santa Fe Opera).
@@ -27,7 +35,9 @@ At the peak of the recent Polar vortex, I had the opportunity to catch up with M
 
 Christie works with some of today's most celebrated living composers. The names of Mason Bates, Mark Adamo, Osvaldo Golijov, Paul Moravec, Ricky Ian Gordon, and Kevin Puts (whose Pulitzer-Prize-winning opera _Silent Night_ was commissioned and premiered by Christie and Minnesota Opera) figure prominently and regularly on Christie's programming.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550191305/media/2019/02/LYR190213_196.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550191305/media/2019/02/LYR190213_196.jpg)
 
 <figcaption>Michael Christie in rehearsal for La traviata at Lyric Opera of Chicago. Photo: Todd Rosenberg.</figcaption>
 
@@ -45,7 +55,7 @@ Christie works with some of today's most celebrated living composers. The names 
 
 **MP**: Many of those ancient recordings are really incredible, especially by the likes of, say, Adelina Patti (1843-1919) singing bel canto. Verdi himself was a great admirer of hers! In this recording of, for example, "Ah, non credea mirarti" one is instantly swept away by her expression (even if the voice itself perhaps shows some of its age; it was recorded already toward the end of her life.)
 
-<figure data-type="video">{{% md %}}<iframe width="806" height="453" src="https://www.youtube.com/embed/w2LY6YLHn7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video"><iframe width="806" height="453" src="https://www.youtube.com/embed/w2LY6YLHn7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -59,7 +69,9 @@ As for general, but foundational, advice for young singers and conductors, Chris
 
 **MC**: I would say it's not dissimilar, actually. Of course there are different considerations, but that's typical of any score. But with a new work, something that I'm increasingly more aware of, is that in the earliest performances, we are laying a path toward a tradition in a certain sense. Consequently, I try to be a little bit careful with certain choices. I always like to call up the composer with questions, like "what exactly is the relationship between the stage and pit at this moment?" "Is it more atmospheric? More internal character? Emotionally driven?" Also, every time I open a new score, I say to it: "tell me about your language. How do you use the language?" When the use of the language or the expressivity of the language isn't obvious, that's when I start thinking "Hm, how are we going to make this work?"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550191443/media/2019/02/LYR190213_021.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550191443/media/2019/02/LYR190213_021.jpg)
 
 <figcaption>Michael Christie in rehearsal for La traviata at Lyric Opera of Chicago. Photo: Todd Rosenberg.</figcaption>
 

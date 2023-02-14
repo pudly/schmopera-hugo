@@ -1,17 +1,31 @@
-+++
-author = ["authors/kim-pensinger-witman.md"]
-categories = "Editorial"
-date = "2015-09-21T20:29:00-04:00"
-lastmod = "2015-09-22T19:01:00-04:00"
-preamble = "This is a cross-post from Wolf Trap Opera's great [blog](http://opera.wolftrap.org/2015/09/17/audition-season-2015-the-conversation/), where Kim Pensinger Witman, Senior Director of Opera & Classical Programming, talks all things auditions. The season is nigh, singers! You're working away on the great singing, but how do you tell your auditioners who you are? Read and learn."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442882112723/Stage.jpg.jpg"
-publishDate = "2015-09-23T08:00:00-04:00"
-related_articles = ["articles/5-tips-for-university-auditionees.md","articles/music-school-auditions-4-tips-for-parents.md","articles/what-to-wear-to-an-audition-via-the-red-carpet.md","articles/psychology-audition.md"]
-related_companies = ["scene/companies/wolf-trap-opera.md"]
-short_description = "This is a cross-post from Wolf Trap Opera&#039;s great blog, where Kim Pensinger Witman, Wolf Trap&#039;s Senior Director of Opera &amp; Classical Programming, talks all things auditions. The season is nigh, singers! You&#039;re working away on the great singing, but how do you tell your auditioners who you are? Read and learn."
-slug = "wolf-trap-audition-conversation"
-title = "via Wolf Trap Opera, Audition Season 2015: the conversation"
-+++
+---
+author:
+- authors/kim-pensinger-witman.md
+categories: Editorial
+date: "2015-09-21T20:29:00-04:00"
+lastmod: "2015-09-22T19:01:00-04:00"
+preamble: This is a cross-post from Wolf Trap Opera's great [blog](http://opera.wolftrap.org/2015/09/17/audition-season-2015-the-conversation/),
+  where Kim Pensinger Witman, Senior Director of Opera & Classical Programming, talks
+  all things auditions. The season is nigh, singers! You're working away on the great
+  singing, but how do you tell your auditioners who you are? Read and learn.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442882112723/Stage.jpg.jpg
+publishDate: "2015-09-23T08:00:00-04:00"
+related_articles:
+- articles/5-tips-for-university-auditionees.md
+- articles/music-school-auditions-4-tips-for-parents.md
+- articles/what-to-wear-to-an-audition-via-the-red-carpet.md
+- articles/psychology-audition.md
+related_companies:
+- scene/companies/wolf-trap-opera.md
+short_description: This is a cross-post from Wolf Trap Opera&#039;s great blog, where
+  Kim Pensinger Witman, Wolf Trap&#039;s Senior Director of Opera &amp; Classical
+  Programming, talks all things auditions. The season is nigh, singers! You&#039;re
+  working away on the great singing, but how do you tell your auditioners who you
+  are? Read and learn.
+slug: wolf-trap-audition-conversation
+title: 'via Wolf Trap Opera, Audition Season 2015: the conversation'
+_template: article_single
+---
 
 OK, singers, this is the time of year when the blog turns the full force of its attention on you. Yes, my friends, it’s audition season. We’ve been reviewing audition applications for 3 weeks now, and we’re almost done. But for you, the fun is only beginning.
 

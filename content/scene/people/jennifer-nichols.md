@@ -1,30 +1,31 @@
-+++
-date = "2015-12-19T11:03:00-05:00"
-discipline = "Dancer, choreographer"
-lastmod = "2015-12-19T11:03:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450541021128/Jennifer-Nichols.jpg.jpg"
-publishDate = "2015-12-19T11:03:00-05:00"
-related_companies = ["scene/companies/opera-atelier.md","scene/companies/against-the-grain-theatre.md","scene/companies/canadian-art-song-project.md"]
-slug = "jennifer-nichols"
-title = "Jennifer Nichols"
-website = "http://www.extensionmethod.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/TheExtensionRoom"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/JennEMethod"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/extensionmethod/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCXRj4GWPKbJUGVO8MQfNO8w"
-+++
+---
+date: "2015-12-19T11:03:00-05:00"
+discipline: Dancer, choreographer
+lastmod: "2015-12-19T11:03:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450541021128/Jennifer-Nichols.jpg.jpg
+publishDate: "2015-12-19T11:03:00-05:00"
+related_companies:
+- scene/companies/opera-atelier.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-art-song-project.md
+slug: jennifer-nichols
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/TheExtensionRoom
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/JennEMethod
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/extensionmethod/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCXRj4GWPKbJUGVO8MQfNO8w
+title: Jennifer Nichols
+website: http://www.extensionmethod.com/
+_template: "people_single"
+---
 
 Jennifer Nichols, professional dancer and founder of The Extension Method™, is a CanFit Certified Fitness Instructor, Personal Trainer and Elite Athletics Coach. She is a guest teacher for corporate fitness centres and schools, lecturer and presenter, recently appearing on City TV’s Breakfast Television and CBC’s ‘Living in Toronto’. Jennifer’s Extension Method Class has been profiled with glowing reviews in the National Post, The Toronto Star, FASHION Magazine, the KIT magazine, Best Health magazine and WHERE Toronto, and has been featured in online publications Fiterati.com and SweetSpot.ca.
 

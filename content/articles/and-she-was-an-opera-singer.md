@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-04-02T19:50:00+01:00"
-lastmod = "2016-04-04T10:04:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459709551762/2016-04-04---Julie-dAubigny.jpg.jpg"
-primary_image_credit = "Illustration: History Witch."
-publishDate = "2016-04-04T09:50:00+01:00"
-related_articles = ["articles/from-don-juan-to-unclejohn.md","articles/carmen-don-juan-and-gender-reversal-pants-roles-indeed.md"]
-short_description = "She got bored with Sérannes, and began an affair with a young woman, whose parents responded by shipping the girl off to a convent. Julie responded in turn by stealing the body of a dead nun, putting it in her lover&#039;s bed, and setting the convent on fire so they both could escape. Three months later, Julie&#039;s lover had had enough, and she went back to mum and dad. Julie had been charged for her crimes in absentia, but the authorities apparently didn&#039;t catch her because they thought she really was a man."
-slug = "and-she-was-an-opera-singer"
-title = "....AND she was an opera singer"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-04-02T19:50:00+01:00"
+lastmod: "2016-04-04T10:04:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459709551762/2016-04-04---Julie-dAubigny.jpg.jpg
+primary_image_credit: 'Illustration: History Witch.'
+publishDate: "2016-04-04T09:50:00+01:00"
+related_articles:
+- articles/from-don-juan-to-unclejohn.md
+- articles/carmen-don-juan-and-gender-reversal-pants-roles-indeed.md
+short_description: She got bored with Sérannes, and began an affair with a young woman,
+  whose parents responded by shipping the girl off to a convent. Julie responded in
+  turn by stealing the body of a dead nun, putting it in her lover&#039;s bed, and
+  setting the convent on fire so they both could escape. Three months later, Julie&#039;s
+  lover had had enough, and she went back to mum and dad. Julie had been charged for
+  her crimes in absentia, but the authorities apparently didn&#039;t catch her because
+  they thought she really was a man.
+slug: and-she-was-an-opera-singer
+title: '....AND she was an opera singer'
+_template: article_single
+---
 
 Readers, have you heard of [Julie d'Aubigny](https://en.wikipedia.org/wiki/Julie_d%27Aubigny)?
 

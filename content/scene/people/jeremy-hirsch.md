@@ -1,19 +1,22 @@
-+++
-date = "2015-07-21T13:56:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-05-21T17:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495403551180/DSC_4595.jpg.jpg"
-primary_image_credit = "Jiyang Chen"
-publishDate = "2015-07-21T13:56:00-04:00"
-related_companies = ["scene/companies/opera-on-the-avalon.md","scene/companies/songfest.md"]
-slug = "jeremy-hirsch"
-title = "Jeremy Hirsch"
-website = "http://www.jeremyhirschbaritone.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/JHirschMusic"
-+++
+---
+date: "2015-07-21T13:56:00-04:00"
+discipline: Baritone
+lastmod: "2017-05-21T17:52:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495403551180/DSC_4595.jpg.jpg
+primary_image_credit: Jiyang Chen
+publishDate: "2015-07-21T13:56:00-04:00"
+related_companies:
+- scene/companies/opera-on-the-avalon.md
+- scene/companies/songfest.md
+slug: jeremy-hirsch
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/JHirschMusic
+title: Jeremy Hirsch
+website: http://www.jeremyhirschbaritone.com/
+_template: "people_single"
+---
 
 New York City based bass-baritone Jeremy Hirsch, who “proved a compelling actor and singer” (Los Angeles Times) as the exiled poet in Hanns Eisler's *The Hollywood Songbook*, enjoys performing a wide range of opera, art song, and concert repertoire. Hirsch joined the Fire Island Opera Festival’s troupe for the East Coast premiere of Kurt Weill’s first opera *Der Protagonist*. The following year, he again teamed up with Fire Island Opera Festival, this time in Marfa, Texas, presenting a preview opening concert, a main stage concert: *A Musical Tour through the Seven Chakras*, and *Walk Opera*, a musical hike beginning at Mimm's Ranch culminating in a meditative circle overlooking the West Texas mountains. Arts and Culture: Texas described how Hirsch “stood out among the performers” in the first night’s concert, and was “especially good at interacting with individuals at close quarters while singing”.
 

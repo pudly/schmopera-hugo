@@ -1,23 +1,37 @@
-+++
-author = ["authors/suzanne-vinnik.md"]
-categories = "Op-ed"
-date = "2017-04-01T13:06:00+01:00"
-lastmod = "2017-04-03T13:17:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491048956597/2017-04-02---Taxes.jpg.jpg"
-publishDate = "2017-04-03T13:17:00+01:00"
-related_articles = ["articles/a-letter-to-the-modern-diva.md","articles/freetheknee-part-2-you-have-better-choices.md","articles/what-i-learned-about-money-from-enrico-caruso.md"]
-related_people = ["scene/people/lis-stevens.md"]
-short_description = "Unless you are fortunate enough to be a star in high demand you don&#039;t have to worry right? WRONG! Even then, you&#039;ve got bills not limited to agent commissions, AGMA fees, health insurance, travel, rent sometimes in multiple locations and those dreaded gigs that don&#039;t line up in the calendar year in a foreign country... even out of state poses challenges depending on your official place of residence."
-slug = "singers-its-the-annual-tax-season-conundrum"
-title = "Singers, it&#039;s the annual Tax Season Conundrum!"
-+++
+---
+author:
+- authors/suzanne-vinnik.md
+categories: Op-ed
+date: "2017-04-01T13:06:00+01:00"
+lastmod: "2017-04-03T13:17:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491048956597/2017-04-02---Taxes.jpg.jpg
+publishDate: "2017-04-03T13:17:00+01:00"
+related_articles:
+- articles/a-letter-to-the-modern-diva.md
+- articles/freetheknee-part-2-you-have-better-choices.md
+- articles/what-i-learned-about-money-from-enrico-caruso.md
+related_people:
+- scene/people/lis-stevens.md
+short_description: Unless you are fortunate enough to be a star in high demand you
+  don&#039;t have to worry right? WRONG! Even then, you&#039;ve got bills not limited
+  to agent commissions, AGMA fees, health insurance, travel, rent sometimes in multiple
+  locations and those dreaded gigs that don&#039;t line up in the calendar year in
+  a foreign country... even out of state poses challenges depending on your official
+  place of residence.
+slug: singers-its-the-annual-tax-season-conundrum
+title: Singers, it&#039;s the annual Tax Season Conundrum!
+_template: article_single
+---
 
 Forget December 31st as the last day of 2016.... Americans all should know by now that April 18th (thanks to the 15th being a Saturday followed by an observed holiday) is the real *Dies Irae*. Yes, it's dreaded tax season, that special time of year when we add Uncle Sam to our list of people who want our coins behind NYC voice teachers charging upwards of $200 for an hour of their time to teach us how to sing effortless tones with perfect technique and emotional prowess to secure that production that oftentimes pays a number too embarrassing to admit how much time we spent learning and rehearsing.
 
 Unless you are fortunate enough to be a star in high demand you don't have to worry right? WRONG! Even then, you've got bills not limited to agent commissions, AGMA fees, health insurance, travel, rent sometimes in multiple locations and those dreaded gigs that don't line up in the calendar year in a foreign country... even out of state poses challenges depending on your official place of residence.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491048456057/2017-04-02---ODDC-Tax-Season.jpg.jpg)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491048456057/2017-04-02---ODDC-Tax-Season.jpg.jpg)
+
+<figure>
 
 This time of year - no matter how much I think I've prepared for it - always punches me in the gut as a  "1099 Eb singing stylish soprano/dress hoarder/property manager/photographer/classical music influencer/everythingist!" I feel overwhelmed by various physical and mental states that I've worked in, and the various modes of accepting payments for my various professions that sadly/happily support my need to sing. I'm all for being a hustler. Go after what is yours to do what you want! I love making my own schedule and being the boss of my life! I wouldn't trade what I do for anything! 
 

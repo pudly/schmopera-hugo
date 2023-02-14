@@ -1,21 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-date = "2014-04-27T19:08:00-04:00"
-lastmod = "2015-04-27T18:06:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838235315/ChrisandMireille-1024x974.jpg.jpg"
-primary_image_credit = "Christopher Enns and Mireille Asselin in Opera Atelier's Persée. Photo by Bruce Zinger."
-publishDate = "2014-04-27T19:08:00-04:00"
-related_people = ["scene/people/aaron-ferguson.md"]
-short_description = "Ah, Opera Atelier. As far as Canada&#039;s opera scene goes, OA is really its own genre. For those unfamiliar, Opera Atelier produces 17th- and 18th- century ballet/opera; the shows are directed and choreographed by co-artistic directors Marshall Pynkoski and Jeannette Lajeunesse Zingg."
-slug = "in-review-perse"
-title = "In review: Persée"
-+++
+---
+author:
+- authors/jenna.md
+date: "2014-04-27T19:08:00-04:00"
+lastmod: "2015-04-27T18:06:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838235315/ChrisandMireille-1024x974.jpg.jpg
+primary_image_credit: Christopher Enns and Mireille Asselin in Opera Atelier's Persée.
+  Photo by Bruce Zinger.
+publishDate: "2014-04-27T19:08:00-04:00"
+related_people:
+- scene/people/aaron-ferguson.md
+short_description: Ah, Opera Atelier. As far as Canada&#039;s opera scene goes, OA
+  is really its own genre. For those unfamiliar, Opera Atelier produces 17th- and
+  18th- century ballet/opera; the shows are directed and choreographed by co-artistic
+  directors Marshall Pynkoski and Jeannette Lajeunesse Zingg.
+slug: in-review-perse
+title: 'In review: Persée'
+_template: article_single
+---
 
 Ah, Opera Atelier. As far as Canada's opera scene goes, OA is really its own genre. For those unfamiliar, Opera Atelier produces 17th- and 18th- century ballet/opera; the shows are directed and choreographed by co-artistic directors [Marshall Pynkoski](http://www.operaatelier.com/about/creative-team/) and [Jeannette Lajeunesse Zingg](http://www.operaatelier.com/about/creative-team/). I go to Opera Atelier shows because it's a chance for me to see and hear operas from this period, presented by artists who know what they're doing; under conductor [David Fallis](http://barczablog.com/2012/10/12/10-questions-for-david-fallis/), the [Tafelmusik Baroque Orchestra](http://www.tafelmusik.org/) is often in the pit, so that's a great start. Last night was opening night of Jean-Baptiste Lully's [_Persée_](http://www.operaatelier.com/season/13-14/persee/), based on the [Greek myth of Perseus](http://www.greekmythology.com/Myths/Heroes/Perseus/perseus.html) and his shenanigans with [Medusa](http://www.greekmythology.com/Myths/Creatures/Medusa/medusa.html), the lady with snakes for hair. With Zingg's complementary choreography (the artists of the Atelier Ballet were beautiful) and [Gerard Gauci](http://barczablog.com/2011/10/23/10for_gg/)'s truly impressive sets, this production of _Persée_ was great on the eyes as well as the ears.
 
 Marshall Pynkoski uses the device of [Baroque rhetorical gesture](http://www.operaatelier.com/education/opera-lovers/about-the-art/acting/) in his productions. I'm by no means an expert, but the short history is that the gestures were designed to accompany a word or a sentiment in the text, to add to its affect. It's a stylistic choice that has function. Pynkoski works with many of the same singers in each of his productions, and I'm sure it makes for a smoother rehearsal process if more people in the room are starting from the same point of aesthetic.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838248376/Gorgons-1024x756.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838248376/Gorgons-1024x756.jpg.jpg)
+
 <figcaption>l-r: Lawrence Wiliford, Curtis Sullivan, Olivier LaQuerre, Aaron Ferguson. Photo: Bruce Zinger.</figcaption>
 </figure>
 
@@ -25,7 +35,10 @@ As Andromède, the princess who loves Persée (he loves her back, don't worry), 
 
 Soprano [Peggy Kriha Dye](http://columbusblack.com/index.php?option=com_content&view=article&id=320:peggy-kriha-dye-named-general-manager-of-opera-columbus&catid=36:news) was a highlight onstage as Mérope, who also loves Persée (he doesn't love her back, oops). She sang beautifully and tragically, and she immediately had the audience on her side, despite the plot of the opera. I was impressed by her dramatic arc; it's a complicated thing to play the rival of a heroine, without playing a villainess. She broke my heart with her story of unrequited love, and her duet that Mérope sings with Andromède was, as a result, really stunning.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838327878/Persee-1024x580.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838327878/Persee-1024x580.jpg.jpg)
+
 <figcaption>Photo by Bruce Zinger.</figcaption>
 </figure>
 

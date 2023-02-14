@@ -1,22 +1,161 @@
-+++
-date = "2015-04-04T21:49:00-04:00"
-lastmod = "2018-05-04T11:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428198349327/SanFranciscoOperalogo.jpg.jpg"
-publishDate = "2015-04-04T21:49:00-04:00"
-related_people = ["scene/people/ailyn-prez.md","scene/people/alan-held.md","scene/people/alek-shrader.md","scene/people/anna-christy.md","scene/people/anna-netrebko.md","scene/people/antonio-pappano.md","scene/people/christian-van-horn.md","scene/people/christine-goerke.md","scene/people/david-cangelosi.md","scene/people/david-daniels.md","scene/people/deborah-voigt.md","scene/people/elizabeth-deshong.md","scene/people/gerald-finley.md","scene/people/heidi-melton.md","scene/people/james-westman.md","scene/people/leah-crocetto.md","scene/people/kyle-ketelsen.md","scene/people/robert-pomakov.md","scene/people/jamie-barton.md","scene/people/isabel-leonard.md","scene/people/patricia-racette.md","scene/people/philippe-sly.md","scene/people/sidney-outlaw.md","scene/people/sondra-radvanovsky.md","scene/people/tom-corbeil.md","scene/people/tracy-dahl.md","scene/people/john-relyea.md","scene/people/marilyn-horne.md","scene/people/plcido-domingo.md","scene/people/stephanie-blythe.md","scene/people/warren-jones.md","scene/people/luca-pisaroni.md","scene/people/nina-stemme.md","scene/people/judith-forst.md","scene/people/richard-margison.md","scene/people/daniel-belcher.md","scene/people/johan-botha.md","scene/people/peter-mattei.md","scene/people/matthew-polenzani.md","scene/people/nadine-sierra.md","scene/people/lise-lindstrom.md","scene/people/anthony-roth-costanzo.md","scene/people/jay-hunter-morris.md","scene/people/richard-croft.md","scene/people/mariusz-kwiecien.md","scene/people/rolando-villazon.md","scene/people/lucio-gallo.md","scene/people/jake-heggie.md","scene/people/talise-trevigne.md","scene/people/ain-anger.md","scene/people/juan-diego-florez.md","scene/people/scott-joiner.md","scene/people/peter-seiffert.md","scene/people/russell-thomas.md","scene/people/melody-moore.md","scene/people/angel-blue.md","scene/people/stuart-skelton.md","scene/people/rene-barbera.md","scene/people/elza-van-den-heever.md","scene/people/steven-cole.md","scene/people/daniela-mack.md","scene/people/matthew-trevino.md","scene/people/albina-shagimuratova.md","scene/people/marco-armiliato.md","scene/people/angela-brower.md","scene/people/eleazar-rodriguez.md","scene/people/robert-mcpherson.md","scene/people/brian-jagde.md","scene/people/ekaterina-semenchuk.md","scene/people/george-gagnidze.md","scene/people/curtis-sullivan.md","scene/people/jnai-bridges.md","scene/people/andrew-shore.md","scene/people/meredith-arwardy.md","scene/people/robert-dean-smith.md","scene/people/kristinn-sigmundsson.md","scene/people/michle-losier.md","scene/people/eliza-bonet.md","scene/people/angela-gheorghiu.md","scene/people/sir-john-tomlinson.md","scene/people/christopher-maltman.md","scene/people/anna-caterina-antonacci.md","scene/people/ginger-costajackson.md","scene/people/james-morris.md","scene/people/sasha-cooke.md","scene/people/kenneth-kellogg.md","scene/people/daniel-taylor.md","scene/people/lester-lynch.md","scene/people/sarah-castle.md","scene/people/lisette-oropesa.md","scene/people/alfred-walker.md","scene/people/janai-brugger.md","scene/people/anthony-clark-evans.md","scene/people/peter-bronder.md","scene/people/robert-orth.md","scene/people/ana-maria-martinez.md","scene/people/brandon-jovanovich.md","scene/people/soloman-howard.md","scene/people/sarah-tucker.md","scene/people/james-robinson.md","scene/people/alastair-miles.md","scene/people/zanda-svede.md","scene/people/alfredo-daza.md","scene/people/rod-gilfry.md","scene/people/clive-bayley.md","scene/people/jane-henschel.md","scene/people/susannah-biller.md","scene/people/corey-bix.md","scene/people/malin-bystrm.md","scene/people/morris-robinson.md","scene/people/riccardo-frizza.md","scene/people/heidi-stober.md","scene/people/ryan-mckinny.md","scene/people/mark-adamo.md","scene/people/clay-hilley.md","scene/people/atalla-ayan.md","scene/people/lucas-meachem.md","scene/people/blythe-gaissert.md","scene/people/greer-grimsley.md","scene/people/michael-chioldi.md","scene/people/karen-slack.md","scene/people/seth-carico.md","scene/people/dennis-petersen.md","scene/people/emily-pulley.md","scene/people/kostas-smoriginas.md","scene/people/brian-michael-moore.md","scene/people/claudia-mahnke.md","scene/people/piotr-beczala.md","scene/people/joshua-bloom.md","scene/people/erik-anstine.md","scene/people/michele-capalbo.md","scene/people/andrey-nemzer.md","scene/people/chad-shelton.md","scene/people/arturo-chaconcruz.md","scene/people/jennifer-williams.md","scene/people/ramon-vargas.md","scene/people/thomas-glenn.md","scene/people/alexander-elliott.md","scene/people/laquita-mitchell.md"]
-slug = "san-francisco-opera"
-title = "San Francisco Opera"
-type_of_company = "Opera Company"
-website = "http://sfopera.com/Home.aspx"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/SFOpera?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SFOpera"
-+++
+---
+date: "2015-04-04T21:49:00-04:00"
+lastmod: "2018-05-04T11:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428198349327/SanFranciscoOperalogo.jpg.jpg
+publishDate: "2015-04-04T21:49:00-04:00"
+related_people:
+- scene/people/ailyn-prez.md
+- scene/people/alan-held.md
+- scene/people/alek-shrader.md
+- scene/people/anna-christy.md
+- scene/people/anna-netrebko.md
+- scene/people/antonio-pappano.md
+- scene/people/christian-van-horn.md
+- scene/people/christine-goerke.md
+- scene/people/david-cangelosi.md
+- scene/people/david-daniels.md
+- scene/people/deborah-voigt.md
+- scene/people/elizabeth-deshong.md
+- scene/people/gerald-finley.md
+- scene/people/heidi-melton.md
+- scene/people/james-westman.md
+- scene/people/leah-crocetto.md
+- scene/people/kyle-ketelsen.md
+- scene/people/robert-pomakov.md
+- scene/people/jamie-barton.md
+- scene/people/isabel-leonard.md
+- scene/people/patricia-racette.md
+- scene/people/philippe-sly.md
+- scene/people/sidney-outlaw.md
+- scene/people/sondra-radvanovsky.md
+- scene/people/tom-corbeil.md
+- scene/people/tracy-dahl.md
+- scene/people/john-relyea.md
+- scene/people/marilyn-horne.md
+- scene/people/plcido-domingo.md
+- scene/people/stephanie-blythe.md
+- scene/people/warren-jones.md
+- scene/people/luca-pisaroni.md
+- scene/people/nina-stemme.md
+- scene/people/judith-forst.md
+- scene/people/richard-margison.md
+- scene/people/daniel-belcher.md
+- scene/people/johan-botha.md
+- scene/people/peter-mattei.md
+- scene/people/matthew-polenzani.md
+- scene/people/nadine-sierra.md
+- scene/people/lise-lindstrom.md
+- scene/people/anthony-roth-costanzo.md
+- scene/people/jay-hunter-morris.md
+- scene/people/richard-croft.md
+- scene/people/mariusz-kwiecien.md
+- scene/people/rolando-villazon.md
+- scene/people/lucio-gallo.md
+- scene/people/jake-heggie.md
+- scene/people/talise-trevigne.md
+- scene/people/ain-anger.md
+- scene/people/juan-diego-florez.md
+- scene/people/scott-joiner.md
+- scene/people/peter-seiffert.md
+- scene/people/russell-thomas.md
+- scene/people/melody-moore.md
+- scene/people/angel-blue.md
+- scene/people/stuart-skelton.md
+- scene/people/rene-barbera.md
+- scene/people/elza-van-den-heever.md
+- scene/people/steven-cole.md
+- scene/people/daniela-mack.md
+- scene/people/matthew-trevino.md
+- scene/people/albina-shagimuratova.md
+- scene/people/marco-armiliato.md
+- scene/people/angela-brower.md
+- scene/people/eleazar-rodriguez.md
+- scene/people/robert-mcpherson.md
+- scene/people/brian-jagde.md
+- scene/people/ekaterina-semenchuk.md
+- scene/people/george-gagnidze.md
+- scene/people/curtis-sullivan.md
+- scene/people/jnai-bridges.md
+- scene/people/andrew-shore.md
+- scene/people/meredith-arwardy.md
+- scene/people/robert-dean-smith.md
+- scene/people/kristinn-sigmundsson.md
+- scene/people/michle-losier.md
+- scene/people/eliza-bonet.md
+- scene/people/angela-gheorghiu.md
+- scene/people/sir-john-tomlinson.md
+- scene/people/christopher-maltman.md
+- scene/people/anna-caterina-antonacci.md
+- scene/people/ginger-costajackson.md
+- scene/people/james-morris.md
+- scene/people/sasha-cooke.md
+- scene/people/kenneth-kellogg.md
+- scene/people/daniel-taylor.md
+- scene/people/lester-lynch.md
+- scene/people/sarah-castle.md
+- scene/people/lisette-oropesa.md
+- scene/people/alfred-walker.md
+- scene/people/janai-brugger.md
+- scene/people/anthony-clark-evans.md
+- scene/people/peter-bronder.md
+- scene/people/robert-orth.md
+- scene/people/ana-maria-martinez.md
+- scene/people/brandon-jovanovich.md
+- scene/people/soloman-howard.md
+- scene/people/sarah-tucker.md
+- scene/people/james-robinson.md
+- scene/people/alastair-miles.md
+- scene/people/zanda-svede.md
+- scene/people/alfredo-daza.md
+- scene/people/rod-gilfry.md
+- scene/people/clive-bayley.md
+- scene/people/jane-henschel.md
+- scene/people/susannah-biller.md
+- scene/people/corey-bix.md
+- scene/people/malin-bystrm.md
+- scene/people/morris-robinson.md
+- scene/people/riccardo-frizza.md
+- scene/people/heidi-stober.md
+- scene/people/ryan-mckinny.md
+- scene/people/mark-adamo.md
+- scene/people/clay-hilley.md
+- scene/people/atalla-ayan.md
+- scene/people/lucas-meachem.md
+- scene/people/blythe-gaissert.md
+- scene/people/greer-grimsley.md
+- scene/people/michael-chioldi.md
+- scene/people/karen-slack.md
+- scene/people/seth-carico.md
+- scene/people/dennis-petersen.md
+- scene/people/emily-pulley.md
+- scene/people/kostas-smoriginas.md
+- scene/people/brian-michael-moore.md
+- scene/people/claudia-mahnke.md
+- scene/people/piotr-beczala.md
+- scene/people/joshua-bloom.md
+- scene/people/erik-anstine.md
+- scene/people/michele-capalbo.md
+- scene/people/andrey-nemzer.md
+- scene/people/chad-shelton.md
+- scene/people/arturo-chaconcruz.md
+- scene/people/jennifer-williams.md
+- scene/people/ramon-vargas.md
+- scene/people/thomas-glenn.md
+- scene/people/alexander-elliott.md
+- scene/people/laquita-mitchell.md
+slug: san-francisco-opera
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/SFOpera?fref=ts
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/SFOpera
+title: San Francisco Opera
+type_of_company: Opera Company
+website: http://sfopera.com/Home.aspx
+_template: "company_single"
+---
 
 <p>
 	A leader among international opera companies for nine decades, San Francisco Opera was founded by Gaetano Merola (1881–1953) and incorporated in 1923. The Company's first performance took place on September 26, 1923 in the City's Civic Auditorium (<i>La Bohème</i>, with Queena Mario and Giovanni Martinelli, conducted by Merola). Originally presented over two weeks, San Francisco Opera's season now contains approximately 75 performances of ten operas between September and July.

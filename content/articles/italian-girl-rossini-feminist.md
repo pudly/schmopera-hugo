@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-04-22T08:50:00-04:00"
-lastmod = "2017-04-22T09:45:00-04:00"
-preamble = "Next week, [MYOpera](/scene/companies/myopera/) opens its production of [*The Italian Girl in Algiers*](http://www.myopera.ca/algiers/), Rossini's famed comedy about a woman determined to save her lover from a cruel fate. Under the direction of [Anna Theodosakis](/scene/people/anna-theodosakis/) and music directed by [Natasha Fransblow](https://www.myopera.ca/our-team/#natasha), *The Italian Girl in Algiers* runs **April 28-30** at the Aki Studio, Daniels Spectrum, 585 Dundas Street East.\n\nWe spoke with Theodosakis about the fun of directing comedy, and why Rossini's opera is a true \"feminist celebration\"."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492865516458/2017-04-22---Algeri-Promo.jpg.jpg"
-publishDate = "2017-04-22T09:01:00-04:00"
-related_articles = ["articles/anna-theodosakis-directing-the-rape-of-lucretia.md","articles/metro-youth-operas-kate-applin-on-MYOBeaBen.md","articles/in-review-the-italian-girl-in-algiers-at-myopera.md"]
-related_companies = ["scene/companies/myopera.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/anna-theodosakis.md"]
-short_description = "&quot;I think when The Italian Girl in Algiers was written it was really ahead of its time. Composed in 1813 and based on a libretto by Angelo Anelli written in 1808, the opera has really progressive views on women at a time when they had very little rights or independence. It&#039;s a feminist celebration written by two 19th-century men that easily translates into the 21st-century. The heroine Isabella is a brave and adventurous woman who cannot be outwitted.&quot;"
-slug = "italian-girl-rossini-feminist"
-title = "The Italian Girl in Algiers: Rossini&#039;s &quot;feminist celebration&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-04-22T08:50:00-04:00"
+lastmod: "2017-04-22T09:45:00-04:00"
+preamble: |-
+  Next week, [MYOpera](/scene/companies/myopera/) opens its production of [*The Italian Girl in Algiers*](http://www.myopera.ca/algiers/), Rossini's famed comedy about a woman determined to save her lover from a cruel fate. Under the direction of [Anna Theodosakis](/scene/people/anna-theodosakis/) and music directed by [Natasha Fransblow](https://www.myopera.ca/our-team/#natasha), *The Italian Girl in Algiers* runs **April 28-30** at the Aki Studio, Daniels Spectrum, 585 Dundas Street East.
+
+  We spoke with Theodosakis about the fun of directing comedy, and why Rossini's opera is a true "feminist celebration".
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492865516458/2017-04-22---Algeri-Promo.jpg.jpg
+publishDate: "2017-04-22T09:01:00-04:00"
+related_articles:
+- articles/anna-theodosakis-directing-the-rape-of-lucretia.md
+- articles/metro-youth-operas-kate-applin-on-MYOBeaBen.md
+- articles/in-review-the-italian-girl-in-algiers-at-myopera.md
+related_companies:
+- scene/companies/myopera.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/anna-theodosakis.md
+short_description: '&quot;I think when The Italian Girl in Algiers was written it
+  was really ahead of its time. Composed in 1813 and based on a libretto by Angelo
+  Anelli written in 1808, the opera has really progressive views on women at a time
+  when they had very little rights or independence. It&#039;s a feminist celebration
+  written by two 19th-century men that easily translates into the 21st-century. The
+  heroine Isabella is a brave and adventurous woman who cannot be outwitted.&quot;'
+slug: italian-girl-rossini-feminist
+title: 'The Italian Girl in Algiers: Rossini&#039;s &quot;feminist celebration&quot;'
+_template: article_single
+---
 
 ## What do you think are the tricks to directing comedy? 
 
@@ -30,7 +46,10 @@ Characters use tactics to get what they want from others, these tactics often co
 
 While this can get very technical and detailed, it gives the effect of variety and keeps the audience interested.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492865551155/2017-04-22---Anna-Theodosakis.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492865551155/2017-04-22---Anna-Theodosakis.jpg.jpg)
+
 <figcaption>Anna Theodosakis, director of MYOpera's *L'italiana in Algeri*.</figcaption>
 </figure>
 

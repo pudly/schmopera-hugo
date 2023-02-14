@@ -1,22 +1,22 @@
-+++
-date = "2015-09-13T21:32:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-09-13T21:36:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442194487809/Zulimar_headshot1Resized.jpg.jpg"
-primary_image_credit = "Photo courtesy of Fletcher Artists."
-publishDate = "2015-09-13T21:36:00-04:00"
-slug = "zulimar-lopez-hernandez"
-title = "Zulimar López-Hernández"
-website = "http://www.zulimarlopez.com/#!"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/zulimarlopezsoprano?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/zulylopez07"
-+++
+---
+date: "2015-09-13T21:32:00-04:00"
+discipline: Soprano
+lastmod: "2015-09-13T21:36:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442194487809/Zulimar_headshot1Resized.jpg.jpg
+primary_image_credit: Photo courtesy of Fletcher Artists.
+publishDate: "2015-09-13T21:36:00-04:00"
+slug: zulimar-lopez-hernandez
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/zulimarlopezsoprano?fref=ts
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/zulylopez07
+title: Zulimar López-Hernández
+website: http://www.zulimarlopez.com/#!
+_template: "people_single"
+---
 
 Puerto Rican soprano Zulimar López-Hernández is celebrated for her lustrous timbre and charismatic portrayals of a wide range of roles.
 

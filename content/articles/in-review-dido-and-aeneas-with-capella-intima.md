@@ -1,15 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-04-10T23:00:00-04:00"
-lastmod = "2015-04-10T23:00:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428720890950/Jennifer-Enns-Modolo.jpg.jpg"
-primary_image_credit = "Mezzo-soprano Jennifer Ens Modolo"
-publishDate = "2015-03-07T10:14:00-05:00"
-short_description = "Capella Intima showed off some incredible solo and ensemble singing, supported by the exciting chamber ensemble of the Gallery Players of Niagara (Rona Goldensher and Julie Baumgartel, violins, Brandon Chui, viola, Margaret Gay, cello, Borys Medicky, harpsichord)."
-slug = "in-review-dido-and-aeneas-with-capella-intima"
-title = "In review: Dido and Aeneas with Capella Intima"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-04-10T23:00:00-04:00"
+lastmod: "2015-04-10T23:00:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428720890950/Jennifer-Enns-Modolo.jpg.jpg
+primary_image_credit: Mezzo-soprano Jennifer Ens Modolo
+publishDate: "2015-03-07T10:14:00-05:00"
+short_description: Capella Intima showed off some incredible solo and ensemble singing,
+  supported by the exciting chamber ensemble of the Gallery Players of Niagara (Rona
+  Goldensher and Julie Baumgartel, violins, Brandon Chui, viola, Margaret Gay, cello,
+  Borys Medicky, harpsichord).
+slug: in-review-dido-and-aeneas-with-capella-intima
+title: 'In review: Dido and Aeneas with Capella Intima'
+_template: article_single
+---
 
 <p>
 	Yesterday I went to Trinity-St. Paul's Centre to hear <a href="http://capellaintima.com/" target="_blank">Capella Intima</a> team up with the <a href="http://www.galleryplayers.ca/" target="_blank">Gallery Players of Niagara</a> for a night of Baroque tunes, including an in-concert performance of Purcell's <em>Dido and Aeneas</em>. I admit to feeling like an outsider in Toronto's Early Music scene, and besides an <a href="http://schmopera.com/bud-roach-on-capella-intima/" target="_blank">articulate and enthusiastic interview</a> given by Capella Intima founder Bud Roach, I had few expectations for the evening. Roach prefaced the concert by telling us that Italian Baroque was the usual repertoire for Capella Intima, and that a night of English music was a departure from the norm. I think it should become the norm, since the collaboration between the Gallery Players and Capella Intima was one of the more satisfying musical experiences I've had in a while.

@@ -1,19 +1,28 @@
-+++
-date = "2017-04-04T12:36:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-04-04T12:41:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491305890280/2017-04-04---Violeta-Urmana---pc---Ivan-Balderramo.jpg.jpg"
-primary_image_credit = "Ivan Balderramo"
-publishDate = "2017-04-04T12:40:00+01:00"
-related_companies = ["scene/companies/wiener-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/salzburg-festival.md","scene/companies/opra-national-de-paris.md","scene/companies/teatro-alla-scala.md","scene/companies/royal-opera-house.md","scene/companies/gran-teatre-del-liceu.md"]
-slug = "violeta-urmana"
-title = "Violeta Urmana"
-website = "http://www.violetaurmana.com/index.php/en"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Violeta-Urmana-110903638936558/"
-+++
+---
+date: "2017-04-04T12:36:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2017-04-04T12:41:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491305890280/2017-04-04---Violeta-Urmana---pc---Ivan-Balderramo.jpg.jpg
+primary_image_credit: Ivan Balderramo
+publishDate: "2017-04-04T12:40:00+01:00"
+related_companies:
+- scene/companies/wiener-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/salzburg-festival.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/royal-opera-house.md
+- scene/companies/gran-teatre-del-liceu.md
+slug: violeta-urmana
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Violeta-Urmana-110903638936558/
+title: Violeta Urmana
+website: http://www.violetaurmana.com/index.php/en
+_template: "people_single"
+---
 
 Born in Lithuania, Violeta Urmana is one of the most highly sought-after singers of dramatic German and Italian repertoire.
 

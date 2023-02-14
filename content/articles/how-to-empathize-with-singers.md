@@ -1,16 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-08-20T18:57:00+01:00"
-lastmod = "2016-08-22T13:22:00+01:00"
-preamble = "When you think about it, it's quite odd that singers and pianists work so closely together. They couldn't be more different with how they approach music and make sound with their instruments, yet the voice and the piano are the most traditional of duos.\n\nWhen pianists and singers work together, they're basically trying to connect to how the other approaches music, and combine their skills and ideas. For young pianists, it can be a huge learning curve to start to think like a singer. Fortunately (or unfortunately, for the shy), the fastest way to build your singer empathy is simply to become one. \n\nHere are three big ways that pianists can get a taste of what singers are trying to do, and become a better partner onstage as well as off."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471719698567/2016-08-21---Seagull.jpg.jpg"
-publishDate = "2016-08-22T12:57:00+01:00"
-related_articles = ["articles/how-to-lead-your-pianist.md","articles/pianists-3-tips-for-sounding-like-an-orchestra.md","articles/how-to-play-for-singers.md"]
-short_description = "When pianists and singers work together, they&#039;re basically trying to connect to how the other approaches music, and combine their skills and ideas. For young pianists, it can be a huge learning curve to start to think like a singer. Fortunately (or unfortunately, for the shy), the fastest way to build your singer empathy is simply to become one."
-slug = "how-to-empathize-with-singers"
-title = "How to empathize with singers"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-08-20T18:57:00+01:00"
+lastmod: "2016-08-22T13:22:00+01:00"
+preamble: "When you think about it, it's quite odd that singers and pianists work
+  so closely together. They couldn't be more different with how they approach music
+  and make sound with their instruments, yet the voice and the piano are the most
+  traditional of duos.\n\nWhen pianists and singers work together, they're basically
+  trying to connect to how the other approaches music, and combine their skills and
+  ideas. For young pianists, it can be a huge learning curve to start to think like
+  a singer. Fortunately (or unfortunately, for the shy), the fastest way to build
+  your singer empathy is simply to become one. \n\nHere are three big ways that pianists
+  can get a taste of what singers are trying to do, and become a better partner onstage
+  as well as off."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471719698567/2016-08-21---Seagull.jpg.jpg
+publishDate: "2016-08-22T12:57:00+01:00"
+related_articles:
+- articles/how-to-lead-your-pianist.md
+- articles/pianists-3-tips-for-sounding-like-an-orchestra.md
+- articles/how-to-play-for-singers.md
+short_description: When pianists and singers work together, they&#039;re basically
+  trying to connect to how the other approaches music, and combine their skills and
+  ideas. For young pianists, it can be a huge learning curve to start to think like
+  a singer. Fortunately (or unfortunately, for the shy), the fastest way to build
+  your singer empathy is simply to become one.
+slug: how-to-empathize-with-singers
+title: How to empathize with singers
+_template: article_single
+---
 
 ## Speak their text
 

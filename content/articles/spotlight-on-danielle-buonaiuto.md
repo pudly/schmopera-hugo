@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-06-22T12:23:00-06:00"
-lastmod = "2017-06-22T21:25:00-06:00"
-preamble = "Based in Brooklyn, NY, Canadian soprano [Danielle Buonaiuto](/scene/people/danielle-buonaiuto/) is one of those tirelessly versatile freelance artists of the 21st century. She sings in choral, chamber, and solo settings, and she is currently Executive Director of [Musica Viva NY](http://musicaviva.org/).\n\nBuonaiuto's artistic work comes out of a continuous search for projects which are collaborative, meaningful, and which lie outside of her comfort zone. In our latest Spotlight interview, she chats about what it means for classical music to be \"accessible\", and her striving for the \"full effect\" onstage."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498187030234/2017-06-22---Danielle-Buonaiuto.jpg.jpg"
-primary_image_credit = "Photo: Karjaka Studios."
-publishDate = "2017-06-22T21:14:00-06:00"
-related_articles = ["articles/talking-with-singers-sasha-cooke.md","articles/tenor-mezzo-transition.md","articles/spotlight-on-anush-hovhannisyan.md","articles/spotlight-on-danika-loren.md","articles/talking-with-singers-charlotte-mundy.md"]
-related_people = ["scene/people/danielle-buonaiuto.md"]
-short_description = "&quot;A successful performance is happening when I can make some eye contact, elicit laughter or other commentary, feel energy coming back from the audience - in short, when everyone in the room is engaged in the moment with me. After such a concert, I&#039;ll often have audience members want to connect with me directly to talk with me about the experience.&quot;"
-slug = "spotlight-on-danielle-buonaiuto"
-title = "Spotlight on: Danielle Buonaiuto"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-06-22T12:23:00-06:00"
+lastmod: "2017-06-22T21:25:00-06:00"
+preamble: |-
+  Based in Brooklyn, NY, Canadian soprano [Danielle Buonaiuto](/scene/people/danielle-buonaiuto/) is one of those tirelessly versatile freelance artists of the 21st century. She sings in choral, chamber, and solo settings, and she is currently Executive Director of [Musica Viva NY](http://musicaviva.org/).
+
+  Buonaiuto's artistic work comes out of a continuous search for projects which are collaborative, meaningful, and which lie outside of her comfort zone. In our latest Spotlight interview, she chats about what it means for classical music to be "accessible", and her striving for the "full effect" onstage.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498187030234/2017-06-22---Danielle-Buonaiuto.jpg.jpg
+primary_image_credit: 'Photo: Karjaka Studios.'
+publishDate: "2017-06-22T21:14:00-06:00"
+related_articles:
+- articles/talking-with-singers-sasha-cooke.md
+- articles/tenor-mezzo-transition.md
+- articles/spotlight-on-anush-hovhannisyan.md
+- articles/spotlight-on-danika-loren.md
+- articles/talking-with-singers-charlotte-mundy.md
+related_people:
+- scene/people/danielle-buonaiuto.md
+short_description: '&quot;A successful performance is happening when I can make some
+  eye contact, elicit laughter or other commentary, feel energy coming back from the
+  audience - in short, when everyone in the room is engaged in the moment with me.
+  After such a concert, I&#039;ll often have audience members want to connect with
+  me directly to talk with me about the experience.&quot;'
+slug: spotlight-on-danielle-buonaiuto
+title: 'Spotlight on: Danielle Buonaiuto'
+_template: article_single
+---
 
 ## Why do you pursue the arts, and why are you doing it professionally?
 	
@@ -24,7 +39,9 @@ In my administrative life, I work with organizations that have these aims at the
 
 A life as an artist is a vocation: it is sometimes - no, often - difficult to draw the line between who you are at work, and who you are. This can have its emotional challenges - especially if things aren't going so well. I'm someone who needs her work to be deeply meaningful, and I like that I can live my values through my work. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498187060589/2017-06-22---IMG_0258.jpg.jpg)<figcaption>Danielle Buonaiuto (left) and Lisa Perry, REXDuo. Photo: Tim Steenland.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498187060589/2017-06-22---IMG_0258.jpg.jpg)<figcaption>Danielle Buonaiuto (left) and Lisa Perry, REXDuo. Photo: Tim Steenland.</figcaption>
 </figure>
 
 ## What are your priorities when you step on stage? What does it feel like when you are successful in performance?
@@ -41,7 +58,9 @@ I think getting a chance to self-produce a few events is a great trial-by-fire f
 
 Another thing that young artists can think about is their contributions to the field beyond their own particular artistic practice. You can't expect support from the artistic community if you don't show up for that community. Examine your habits: whose concerts and shows are you attending? Are you making any donations, however small? Are you talking to other artists and asking insightful questions about their artistic projects? Are you listening to music by composers you know, and reading poetry by local writers, just in case you might want to commission them? Do you have a list of people you can recommend when you aren’t able to take a gig? There is, in fact, room for everyone in this field, and the days of every person for themselves are over - more active involvement in the field as a whole is what's needed for a healthy ecosystem.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498187068000/2017-06-22---Buonaiuto_Headshot_hires.jpg.jpg)<figcaption>Photo: Macbeth Studios.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498187068000/2017-06-22---Buonaiuto_Headshot_hires.jpg.jpg)<figcaption>Photo: Macbeth Studios.</figcaption>
 </figure>
 
 ## Do you have any "bucket list" items for your artistic career? 

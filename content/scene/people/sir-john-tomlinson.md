@@ -1,19 +1,32 @@
-+++
-date = "2017-02-10T14:20:00+01:00"
-discipline = "Bass"
-lastmod = "2017-03-09T12:13:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486732507549/Sir-John-Tomlinson-Photo-credit-Robert-Workman.jpg.jpg"
-primary_image_credit = "Robert Workman"
-publishDate = "2017-02-10T14:20:00+01:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/oper-frankfurt.md","scene/companies/semperoper-dresden.md","scene/companies/salzburg-festival.md"]
-slug = "sir-john-tomlinson"
-title = "Sir John Tomlinson"
-website = "http://johntomlinson.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/John-Tomlinson/103769829661942?rf=438029252956970"
-+++
+---
+date: "2017-02-10T14:20:00+01:00"
+discipline: Bass
+lastmod: "2017-03-09T12:13:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486732507549/Sir-John-Tomlinson-Photo-credit-Robert-Workman.jpg.jpg
+primary_image_credit: Robert Workman
+publishDate: "2017-02-10T14:20:00+01:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/semperoper-dresden.md
+- scene/companies/salzburg-festival.md
+slug: sir-john-tomlinson
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/pages/John-Tomlinson/103769829661942?rf=438029252956970
+title: Sir John Tomlinson
+website: http://johntomlinson.org/
+_template: "people_single"
+---
 
 John Tomlinson was born in Lancashire. He gained a B.Sc. in Civil Engineering at Manchester University before winning a scholarship to the Royal Manchester College of Music. He was awarded a C.B.E. in 1997 and knighted in the Queen’s Birthday Honours of 2005. He was awarded the Royal Philharmonic Society Music Award for Singer in 1991, 1998 and 2007 and in 2014 their Gold Medal.
 

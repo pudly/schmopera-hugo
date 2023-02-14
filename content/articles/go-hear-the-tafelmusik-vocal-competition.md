@@ -1,16 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-01-06T14:08:00-05:00"
-lastmod = "2016-01-09T13:48:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452108868479/2016-01-06---TrinityStPauls.jpg.jpg"
-publishDate = "2016-01-07T08:00:00-05:00"
-related_articles = ["articles/centre-stage-7-finalists-compete-in-the-cocs-ensemble-studio-competition-gala.md","articles/catty-commentary-or-whats-not-useful-for-opera.md","articles/the-2015-quilico-awards.md"]
-related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md"]
-short_description = "I always recommend opera lovers to go and hear voice competitions; it&#039;s always fascinating and the energy of the competitors is something that&#039;s quite different than seeing them in a production. The event is scheduled from 1-5:45pm, and there are two intermissions during which you can meet the singers and the jury members over some food and drink. Plus, if you stay for the full afternoon, you&#039;ll be able to vote for the Audience Choice Winner."
-slug = "go-hear-the-tafelmusik-vocal-competition"
-title = "Go hear the Tafelmusik Vocal Competition"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-01-06T14:08:00-05:00"
+lastmod: "2016-01-09T13:48:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452108868479/2016-01-06---TrinityStPauls.jpg.jpg
+publishDate: "2016-01-07T08:00:00-05:00"
+related_articles:
+- articles/centre-stage-7-finalists-compete-in-the-cocs-ensemble-studio-competition-gala.md
+- articles/catty-commentary-or-whats-not-useful-for-opera.md
+- articles/the-2015-quilico-awards.md
+related_companies:
+- scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md
+short_description: I always recommend opera lovers to go and hear voice competitions;
+  it&#039;s always fascinating and the energy of the competitors is something that&#039;s
+  quite different than seeing them in a production. The event is scheduled from 1-5:45pm,
+  and there are two intermissions during which you can meet the singers and the jury
+  members over some food and drink. Plus, if you stay for the full afternoon, you&#039;ll
+  be able to vote for the Audience Choice Winner.
+slug: go-hear-the-tafelmusik-vocal-competition
+title: Go hear the Tafelmusik Vocal Competition
+_template: article_single
+---
 
 Next Saturday, you can hear the final round of the inaugural [Tafelmusik Vocal Competition](http://www.tafelmusik.org/education/tafelmusik-vocal-competition), at 1pm in the Trinity-St. Paul's Centre Jeanne Lamon Hall, 427 Bloor St. W. **Admission is free!**
 

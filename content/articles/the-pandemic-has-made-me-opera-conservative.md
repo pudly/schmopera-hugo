@@ -1,22 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-Ed"
-date = 2021-09-20T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1632149907/media/2021/09/OperaConservative_hg3pyv.jpg"
-primary_image_credit = ""
-related_articles = ["articles/the-met-s-at-home-gala.md", "articles/covid.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/vancouver-opera.md"]
-related_people = []
-short_description = "My psuedo-psychological theory is this: I'm not so much anxious for the shows themselves (although, I can still feel the stomach-pangs that hit me all last year, each time a cancelled production popped up on my Google calendar); rather, I'm naïvely waiting on society to rewind, to go back to \"before\"."
-slug = "help-the-pandemic-has-made-me-opera-conservative"
-title = "Help! The pandemic has made me opera-conservative!"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Op-Ed
+date: '2021-09-20T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1632149907/media/2021/09/OperaConservative_hg3pyv.jpg
+primary_image_credit: ''
+related_articles:
+  - articles/the-met-s-at-home-gala.md
+  - articles/covid.md
+related_companies:
+  - scene/companies/the-metropolitan-opera.md
+  - scene/companies/canadian-opera-company.md
+  - scene/companies/vancouver-opera.md
+related_people: []
+short_description: >-
+  My psuedo-psychological theory is this: I'm not so much anxious for the shows
+  themselves (although, I can still feel the stomach-pangs that hit me all last
+  year, each time a cancelled production popped up on my Google calendar);
+  rather, I'm naïvely waiting on society to rewind, to go back to "before".
+slug: help-the-pandemic-has-made-me-opera-conservative
+title: Help! The pandemic has made me opera-conservative!
+youtube_url: ''
+_template: article_single
+---
 
-+++
 Readers, are any of you experiencing a strange sort of guilt, on the eve of an opera season that is looking - gasp! - normal?
 
 Here's the source of the guilt: when I see live seasons announced out of the world's major opera companies, I find myself hungrily scouring the production line-up for old standards. Why? What's wrong with me? Should I not be more excited for [_Fire Shut Up in My Bones_](https://www.metopera.org/season/2021-22-season/fire-shut-up-in-my-bones/) than I am for [_Madama Butterfly_ or _The Magic Flute_](https://www.coc.ca/subscriptions-preview)?

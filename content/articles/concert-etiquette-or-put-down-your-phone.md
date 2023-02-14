@@ -1,15 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-11-17T15:13:00-05:00"
-lastmod = "2017-09-24T10:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506263286924/2017-09-24---Phone.jpg.jpg"
-publishDate = "2015-11-19T08:30:00-05:00"
-related_articles = ["articles/singers-heres-how-to-use-social-media.md","articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md","articles/the-case-for-nomadic-opera.md","articles/united-we-stand-divided-we-fall.md","articles/the-coughing-phenomenon.md","articles/an-open-letter-to-a-rude-bunch-of-operagoers.md","articles/take-a-joke-have-a-nap.md","articles/arts-education-teaches-better-manners-more-preaching-to-the-choir.md","articles/4-new-years-resolutions-for-opera-fans.md"]
-short_description = "Alright, so I&#039;ve been thoroughly enjoying the 2015/16 season of opera and concerts so far, but I&#039;m a little dismayed that it&#039;s only November and we already need to talk about concert etiquette."
-slug = "concert-etiquette-or-put-down-your-phone"
-title = "Concert etiquette, or put down your phone"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-11-17T15:13:00-05:00"
+lastmod: "2017-09-24T10:28:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506263286924/2017-09-24---Phone.jpg.jpg
+publishDate: "2015-11-19T08:30:00-05:00"
+related_articles:
+- articles/singers-heres-how-to-use-social-media.md
+- articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md
+- articles/the-case-for-nomadic-opera.md
+- articles/united-we-stand-divided-we-fall.md
+- articles/the-coughing-phenomenon.md
+- articles/an-open-letter-to-a-rude-bunch-of-operagoers.md
+- articles/take-a-joke-have-a-nap.md
+- articles/arts-education-teaches-better-manners-more-preaching-to-the-choir.md
+- articles/4-new-years-resolutions-for-opera-fans.md
+short_description: Alright, so I&#039;ve been thoroughly enjoying the 2015/16 season
+  of opera and concerts so far, but I&#039;m a little dismayed that it&#039;s only
+  November and we already need to talk about concert etiquette.
+slug: concert-etiquette-or-put-down-your-phone
+title: Concert etiquette, or put down your phone
+_template: article_single
+---
 
 Alright, so I've been thoroughly enjoying the 2015/16 season of opera and concerts so far, but I'm a little dismayed that it's only November and we already need to talk about concert etiquette.
 
@@ -25,8 +38,11 @@ Recently, I went to see an opera, and the people in front of me spent whole firs
 
 It makes me think of that time Dylan Moran called out a phone-camera-wielder at one of his shows: "Would you please stop taking pictures on your tiny annoying fucking camera. This is happening to you in real time, you are having the experience. It's not much point to verify that you were at the event when you're actually here."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447898834726/2015-11-19---PhoneAddiction.jpg.jpg)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447898834726/2015-11-19---PhoneAddiction.jpg.jpg)
+
+<figure>
 
 I think that goes for using your phone during a live show, in general. I've gone to shows without my notebook, and instead used my phone, but I hate doing it because I can't watch the show while I type, and I get dirty looks from people who think I'm texting. So, maybe all the people who are fiddling with their phones in the dark are actually taking notes so they can blog about the show. Benefit of the doubt. Honestly, though, if you're checking your Facebook, sending a text, checking the time, can't it wait until later? I mean, *look up, for goodness sakes!* There are artists doing the thing they've trained to do their whole lives, right in front of you! Look at them!
 

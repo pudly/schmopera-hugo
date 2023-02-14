@@ -1,19 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-03-20T10:29:00+00:00"
-lastmod = "2017-03-22T16:36:00+00:00"
-preamble = "Israeli soprano [Chen Reiss](/scene/people/chen-reiss/) just finished singing Zdenka in the [Wiener Staatsoper](/scene/companies/wiener-staatsoper/)'s *Arabella*; she'll return to Vienna in May to sing Marzelline in Beethoven's *Fidelio*, following a stretch of beautifully varied concert work in Germany, Portugal, Switzerland, Turkey, and the United States.\n\nReiss earned her enviable international schedule the old-fashioned way, moving away from home and rising to the competitive standards of operatic hubs like New York and Munich. In her grounded, wise interview, Reiss chats about her disciplined regimen to stay healthy, the lessons learned during her maternity leave, and the years spent in New York, \"breathing music\"."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490027050589/2017-03-20---Chen-Reiss-square---Paul-Marc-Mitchell.jpg.jpg"
-primary_image_credit = "Photo by Paul Marc Mitchell."
-publishDate = "2017-03-22T16:34:00+00:00"
-related_articles = ["articles/talking-with-singers-anna-caterina-antonacci.md","articles/talking-with-singers-othalie-graham.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/chen-reiss.md"]
-short_description = "&quot;It is very important to leave a few weeks a year free from work so that I can truly rest, recharge and miss the stage. Saying NO to certain offers is not easy but sometimes necessary. I realized it during my maternity leave, in which I did not sing a tone for 6 months!! I did not even sing in the bath. It was wonderful but even more wonderful was coming back to the audience, to the theater, to the orchestras, I was so fresh and enthusiastic.&quot;"
-slug = "talking-with-singers-chen-reiss"
-title = "Talking with singers: Chen Reiss"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-03-20T10:29:00+00:00"
+lastmod: "2017-03-22T16:36:00+00:00"
+preamble: |-
+  Israeli soprano [Chen Reiss](/scene/people/chen-reiss/) just finished singing Zdenka in the [Wiener Staatsoper](/scene/companies/wiener-staatsoper/)'s *Arabella*; she'll return to Vienna in May to sing Marzelline in Beethoven's *Fidelio*, following a stretch of beautifully varied concert work in Germany, Portugal, Switzerland, Turkey, and the United States.
+
+  Reiss earned her enviable international schedule the old-fashioned way, moving away from home and rising to the competitive standards of operatic hubs like New York and Munich. In her grounded, wise interview, Reiss chats about her disciplined regimen to stay healthy, the lessons learned during her maternity leave, and the years spent in New York, "breathing music".
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490027050589/2017-03-20---Chen-Reiss-square---Paul-Marc-Mitchell.jpg.jpg
+primary_image_credit: Photo by Paul Marc Mitchell.
+publishDate: "2017-03-22T16:34:00+00:00"
+related_articles:
+- articles/talking-with-singers-anna-caterina-antonacci.md
+- articles/talking-with-singers-othalie-graham.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/chen-reiss.md
+short_description: '&quot;It is very important to leave a few weeks a year free from
+  work so that I can truly rest, recharge and miss the stage. Saying NO to certain
+  offers is not easy but sometimes necessary. I realized it during my maternity leave,
+  in which I did not sing a tone for 6 months!! I did not even sing in the bath. It
+  was wonderful but even more wonderful was coming back to the audience, to the theater,
+  to the orchestras, I was so fresh and enthusiastic.&quot;'
+slug: talking-with-singers-chen-reiss
+title: 'Talking with singers: Chen Reiss'
+_template: article_single
+---
 
 ## Why do you sing professionally?
 
@@ -25,7 +39,10 @@ Going to NY was a dream come true to me. I was very excited but soon realized th
 
 I was surrounded with good friends and people who believed in my talent and help me in many ways, I am forever grateful for the love and support my friends and family gave me. I built my career very gradually, started with relatively short and light roles and only later turned to the leading parts. Deciding to move to Germany in 2003 was a smart move. I gained a lot of experience being a Fest artist at the Bayerische Staatsoper in Munich. It was also a great platform to present myself and develop helpful contacts. I received many invitations following this 3-year residency.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490026789458/2017-03-20---Chen_Reiss_Photo_by_Paul_Marc_Mitchell.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490026789458/2017-03-20---Chen_Reiss_Photo_by_Paul_Marc_Mitchell.jpg.jpg)
+
 <figcaption>Chen Reiss. Photo by Paul Marc Mitchell.</figcaption>
 </figure>
 

@@ -1,19 +1,51 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-02-03T17:09:00-05:00"
-lastmod = "2017-08-20T11:29:00-04:00"
-preamble = "American lyric soprano [Amanda Majeski](/scene/people/amanda-majeski/) was named \"Best Breakout Star\" by *Chicago* magazine, and she's living up to the title. Roles like Vitellia in *La clemenza di Tito*, Eva in *Die Meistersinger von Nürnberg* and Countess Almaviva in *Le nozze di Figaro* have kept her busy in recent years; this summer, she made her debut as Cleopatra in *Giulio Cesare* at Teatro Colón.\n\nThis season, she'll bring her Vitellia to the Paris Opera in Willy Decker's production of *La clemenza di Tito*, before returning to the Metropolitan Opera to sing Fiordiligi in Phelim McDermott's new *Così fan tutte*. Majeski managed to find some time to give us a beautiful interview about singing, the importance of being multi-lingual, and her enormous dedication to her work."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503242661272/2017-08-20---Amanda-Majeski.jpg.jpg"
-primary_image_credit = "Photo: Fay Fox."
-publishDate = "2016-02-04T10:26:00-05:00"
-related_articles = ["articles/spotlight-on-christopher-james-ray.md","articles/talking-with-singers-elizabeth-deshong.md","articles/talking-with-singers-christine-goerke.md","articles/talking-with-singers-christian-van-horn.md","articles/spotlight-on-angel-blue.md","articles/spotlight-on-musa-ngqungwana.md","articles/spotlight-on-sydney-mancasola.md","articles/spotlight-on-beth-hagerman.md","articles/spotlight-on-stephanie-tritchew.md","articles/spotlight-on-whitney-mather.md","articles/spotlight-on-vanessa-oudereimerink.md","articles/spotlight-on-shelley-jackson.md","articles/spotlight-on-claire-kuttler.md","articles/talking-with-singers-marina-rebeka.md","articles/talking-with-singers-elza-van-den-heever.md","articles/talking-with-singers-jessica-pratt.md","articles/spotlight-on-jennifer-taverner.md","articles/spotlight-on-hyesang-park.md","articles/spotlight-on-anush-hovhannisyan.md","articles/simone-osborne.md","articles/talking-with-singers-kiandra-howarth.md","articles/rusalka-opera-at-its-most-operatic.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/amanda-majeski.md"]
-short_description = "&quot;There is truly something special that happens when all that work comes together for moments on a stage in front of an openhearted audience. For that evening, everyone in the room is held together by and shares that same music; there is something so beautifully uplifting about that. It’s truly infectious!&quot;"
-slug = "spotlight-on-amanda-majeski"
-title = "Spotlight on: Amanda Majeski"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-02-03T17:09:00-05:00"
+lastmod: "2017-08-20T11:29:00-04:00"
+preamble: |-
+  American lyric soprano [Amanda Majeski](/scene/people/amanda-majeski/) was named "Best Breakout Star" by *Chicago* magazine, and she's living up to the title. Roles like Vitellia in *La clemenza di Tito*, Eva in *Die Meistersinger von Nürnberg* and Countess Almaviva in *Le nozze di Figaro* have kept her busy in recent years; this summer, she made her debut as Cleopatra in *Giulio Cesare* at Teatro Colón.
+
+  This season, she'll bring her Vitellia to the Paris Opera in Willy Decker's production of *La clemenza di Tito*, before returning to the Metropolitan Opera to sing Fiordiligi in Phelim McDermott's new *Così fan tutte*. Majeski managed to find some time to give us a beautiful interview about singing, the importance of being multi-lingual, and her enormous dedication to her work.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503242661272/2017-08-20---Amanda-Majeski.jpg.jpg
+primary_image_credit: 'Photo: Fay Fox.'
+publishDate: "2016-02-04T10:26:00-05:00"
+related_articles:
+- articles/spotlight-on-christopher-james-ray.md
+- articles/talking-with-singers-elizabeth-deshong.md
+- articles/talking-with-singers-christine-goerke.md
+- articles/talking-with-singers-christian-van-horn.md
+- articles/spotlight-on-angel-blue.md
+- articles/spotlight-on-musa-ngqungwana.md
+- articles/spotlight-on-sydney-mancasola.md
+- articles/spotlight-on-beth-hagerman.md
+- articles/spotlight-on-stephanie-tritchew.md
+- articles/spotlight-on-whitney-mather.md
+- articles/spotlight-on-vanessa-oudereimerink.md
+- articles/spotlight-on-shelley-jackson.md
+- articles/spotlight-on-claire-kuttler.md
+- articles/talking-with-singers-marina-rebeka.md
+- articles/talking-with-singers-elza-van-den-heever.md
+- articles/talking-with-singers-jessica-pratt.md
+- articles/spotlight-on-jennifer-taverner.md
+- articles/spotlight-on-hyesang-park.md
+- articles/spotlight-on-anush-hovhannisyan.md
+- articles/simone-osborne.md
+- articles/talking-with-singers-kiandra-howarth.md
+- articles/rusalka-opera-at-its-most-operatic.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/amanda-majeski.md
+short_description: '&quot;There is truly something special that happens when all that
+  work comes together for moments on a stage in front of an openhearted audience.
+  For that evening, everyone in the room is held together by and shares that same
+  music; there is something so beautifully uplifting about that. It’s truly infectious!&quot;'
+slug: spotlight-on-amanda-majeski
+title: 'Spotlight on: Amanda Majeski'
+_template: article_single
+---
 
 ## Why do you sing, and why are you doing it professionally? 
 
@@ -23,7 +55,10 @@ I think early on I fell in love with the process of making music. I love woodshe
 
 I think I’m singing professionally because of a combination of hard work, luck, and timing. I have spent hours upon hours translating scores, working through phrases, digging into a character, etc. I owe so much of my success, however, to the amazing teachers, coaches and mentors who have stuck by me at crucial times in my training. I have been so lucky to find these people when I needed them, and they have not only helped me grow artistically, but have also been wonderful enough to vouch for me in front of others, so that new doors could open for me. I have somehow been lucky enough to sing decently for the right people at the right times, which started the "snowball" rolling. 
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454539187787/MajeskiCountessResized.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454539187787/MajeskiCountessResized.jpg.jpg)
+
 <figcaption>Amanda Majeski as Countess Almaviva in *Le nozze di Figaro* at Lyric Opera of Chicago. Photo by Todd Rosenberg.</figcaption>
 </figure>
 
@@ -39,7 +74,10 @@ Not only that, but as a professional singer, you will be travelling, a lot. All 
 
 Young singers should spend less time criticizing others. In the professional world, your fellow singers often become like family away from home, they’re the people who "get it," who are there for you when you need someone to talk with. It’s much less about "who’s singing the best" and much more about "how can we work together to put out the best art we can?" Singing is not easy, and takes so much courage, vulnerability, and inner strength. It’s not worth the effort to be mean or catty as someone is growing or working through a technical issue. Listen to others with encouraging and open ears, and discover how you can grow by what they’re doing. We’re all in this together, for the love of music!
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454539667170/Majeski_SemperoperDresden_Alcina_Matthias-CreutzigerResized.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454539667170/Majeski_SemperoperDresden_Alcina_Matthias-CreutzigerResized.jpg.jpg)
+
 <figcaption>As Alcina in Semperoper Dresden's *Alcina*. Photo by Matthias Creutziger.</figcaption>
 </figure>
 
@@ -53,7 +91,10 @@ Helena in *A Midsummer Night’s Dream*. The quartet of lovers seems like it wou
 
 Scarpia in *Tosca*. But only in the Zeffirelli production...because I’ve been in love with that role since watching the video of Tito Gobbi play it with Maria Callas as Tosca. Singing/acting at its finest!
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454539426783/Majewski---The-Passenger---PhotobyMichaelBrosilow1Resized.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454539426783/Majewski---The-Passenger---PhotobyMichaelBrosilow1Resized.jpg.jpg)
+
 <figcaption>As Marta in *The Passenger* at Lyric Opera of Chicago. Photo by Michael Brosilow.</figcaption>
 </figure>
 

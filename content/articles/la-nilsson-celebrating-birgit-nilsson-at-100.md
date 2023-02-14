@@ -1,25 +1,39 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Op-Ed"
-date = "2019-02-02T08:14:50+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548957086/media/2019/01/sqBNPg4.jpg"
-primary_image_credit = "Nilsson's mischievous personality comes through even in this formal portrait. Photo courtesy of Decca Classics."
-related_articles = ["articles/the-rose-elf-hot-times-in-the-cool-catacombs.md", "articles/summer-nights-at-the-opera-an-observation.md", "articles/the-medium-opera-as-film-noir.md"]
-related_companies = []
-related_people = []
-short_description = "The box seems to generate its own energy. Covered in sophisticated hues of copper and gray with a resplendent image of Birgit Nilsson as Brünnhilde, who had surely passed through hair and make-up before leaving Valhalla, it is of monolithic proportions."
-slug = "la-nilsson-celebrating-birgit-nilsson-at-100"
-title = "La Nilsson: celebrating Birgit Nilsson at 100"
-youtube_url = ""
+---
+author:
+  - authors/john-hohmann.md
+categories: Op-Ed
+date: '2019-02-02T08:14:50+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1548957086/media/2019/01/sqBNPg4.jpg
+primary_image_credit: >-
+  Nilsson's mischievous personality comes through even in this formal portrait.
+  Photo courtesy of Decca Classics.
+related_articles:
+  - articles/the-rose-elf-hot-times-in-the-cool-catacombs.md
+  - articles/summer-nights-at-the-opera-an-observation.md
+  - articles/the-medium-opera-as-film-noir.md
+related_companies: []
+related_people: []
+short_description: >-
+  The box seems to generate its own energy. Covered in sophisticated hues of
+  copper and gray with a resplendent image of Birgit Nilsson as Brünnhilde, who
+  had surely passed through hair and make-up before leaving Valhalla, it is of
+  monolithic proportions.
+slug: la-nilsson-celebrating-birgit-nilsson-at-100
+title: 'La Nilsson: celebrating Birgit Nilsson at 100'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 The box seems to generate its own energy. Covered in sophisticated hues of copper and gray with a resplendent image of Birgit Nilsson as Brünnhilde, who had surely passed through hair and make-up before leaving Valhalla, it is of monolithic proportions. The subtle click of padded magnets on the front gives the impression of substance and staying power, in short the essence of Nilsson.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548611271/media/2019/01/LaNilsson80652.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548611271/media/2019/01/LaNilsson80652.jpg)
 
 <figcaption>Image: Decca Classics.</figcaption>
 
@@ -33,7 +47,9 @@ Few, if any, opera singers have achieved the consistent critical acclaim and pub
 
 At the least this luxurious but not excessively packaged collection - let's call it Brünnhildian - offers the opportunity to worship this peerless operatic goddess from a single source. For those who are coming to know Nilsson only now, it is quite simply a treasure trove.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548609456/media/2019/01/sqBNPg84Elektra.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548609456/media/2019/01/sqBNPg84Elektra.jpg)
 
 <figcaption>Nilsson as the tormented Elektra. Her portrayal remains definitive. Photo Credit: Decca Classics.</figcaption>
 
@@ -43,7 +59,9 @@ But where does one start? Channeling the mischievous spirit that has long been a
 
 Franco Corelli and Dietrich Fischer-Dieskau join Nilsson in this _Tosca_ that has by some been termed a veritable shouting match. With a sexually harassed Tosca, a tortured Cavaradossi, and a sadistic Scarpia, there is plenty of reason to shout. The result however is three pitch-perfect singers who go for intensity and volume over characterization. Despite this wacky approach, the recording gels in its own unorthodox manner because the powerhouse singers are matched by the ferocious intensity with which Lorin Maazel propels the orchestra of the Accademia di Santa Cecilia. If nothing else, it's an ear-opener.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548610522/media/2019/01/BNPg24.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548610522/media/2019/01/BNPg24.jpg)
 
 <figcaption>A youthful Nilsson as Salome in Stockholm. Photo: Decca Classics.</figcaption>
 
@@ -59,7 +77,9 @@ This film, regarded as one of the best musical documentaries every made, provide
 
 An attendant luxury of _La Nilsson_ is the inclusion of still another _Ring_, this one from Wagner's own stage at Bayreuth and under the more relaxed baton of Karl Böhm. Within easy proximity we can hear how Nilsson's Brünnhilde adapts to each environment, most especially in her _Walküre_ Act III exchanges with the Wotans of Theo Adam on stage and George London in the studio. Clearly this additional _Ring_ is included not to encourage listeners to judge one over the other but to experience the voice, technique and interpretative prowess of Nilsson from a broad perspective. It would be folly to deny the pleasure and Wagnerian insight that _La Nilsson_ offers by deeming one superior to the other. This is a centennial birthday celebration after all, not a debate over a foregone conclusion.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548956581/media/2019/01/turandot1966-67.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548956581/media/2019/01/turandot1966-67.jpg)
 
 <figcaption>Nilsson's Turandot (1966-1967), arch and uncompromising, always soared over the orchestra. Photo courtesy of Decca Classics.</figcaption>
 
@@ -67,7 +87,9 @@ An attendant luxury of _La Nilsson_ is the inclusion of still another _Ring_, th
 
 One has a similar if less complex reaction to the two recordings of _Turandot_ included, both with the Teatro dell'Opera di Roma. The first, recorded in 1959 under Erich Leinsdorf, and borrowed for the collection from RCA, has the distinction of possessing Jussi Björling as Calaf and Renata Tabaldi as Liù. In the 1965 recording under Francesco Molinari-Pradelli, Nilsson is joined by Franco Corelli and Renata Scotto. When it comes to Nilsson, we know that her interpretation will revolve around an arch and uncompromising princess that was the _Turandot_ of her era. Recently Nina Stemme, who is in the process of becoming Nilsson's heir apparent, has done much to humanize this character. While Corelli is ardent, Björling is transcendent and listeners can compare the remastered Renatas with all of the scrutiny they care to apply. Perhaps this is _La Nilsson_'s contribution to rainy day fun.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548610352/media/2019/01/BNPg95.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548610352/media/2019/01/BNPg95.jpg)
 
 <figcaption>Sir Georg Solti, Birgit Nilsson, unidentified male and producer, John Culshaw during the 1960-61 recording of Un ballo in maschera at the Accademia di Santa Cecilia, Rome. Photo: Decca Classics.</figcaption>
 
@@ -77,7 +99,9 @@ Richard Strauss' two one-act operas, _Salome_ and _Elektra_, both recorded at th
 
 _Elektra_ retains a dramatic standard that has yet to be equaled. Here it assumes the role of a companion piece to the 1980 video from the Metropolitan Opera under James Levine. Leonie Rysanek as Chrysothemis joins Nilsson in a production that looks a bit frumpy by today's standards but is nonetheless a potent reminder of two powerful singing actresses. Additionally Mignon Dunn revels in Klytaemnestra's guilt and mines every bit of the role's gallows humor.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548611166/media/2019/01/NilssonSalome.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548611166/media/2019/01/NilssonSalome.jpg)
 
 <figcaption>Nilsson's Salome cover photo has endured since its original release on LP and appears in La Nilsson.</figcaption>
 
@@ -87,7 +111,9 @@ The cover photo for _Salome_, having survived several packaging concepts over th
 
 Stemme, by the way, was awarded the 2018 Birgit Nilsson Prize; a $1 million gift awarded every three years by the Birgit Nilsson Foundation, for artistic excellence that will stand the test of time. She has stepped with rare distinction into Nilsson territory with acclaimed interpretations of Elektra, Isolde and Salome in addition to Turandot. While on the subject of money, Nilsson appears as a benignly rendered Elektra on the 500 Kronor Swedish bank note. She joins the likes of Ingmar Bergman and Greta Garbo to put this recognition in cultural perspective.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548610567/media/2019/01/Nilsson7592.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548610567/media/2019/01/Nilsson7592.jpg)
 
 <figcaption>Nilsson is rendered as a benign Elektra on this 500 Kronor Swedish bank note. She joins the likes of Ingmar Bergman and Greta Garbo who also appear on Swedish currency. Photo: Sveriges Riksbank.</figcaption>
 
@@ -95,7 +121,9 @@ Stemme, by the way, was awarded the 2018 Birgit Nilsson Prize; a $1 million gift
 
 In addition to cooperating with _La Nilsson_, the foundation authorized the release of a set of live Nilsson recordings featuring _Die Walküre_ at the Metropolitan Opera under Herbert von Karajan, two _Tristans_, two _Elektras_ and a _Turandot_ conducted by Leopold Stokowski. Those inclined to listen for vocal strain in these live recordings will have their work cut out for them.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548956824/media/2019/01/BNPg57.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548956824/media/2019/01/BNPg57.jpg)
 
 <figcaption>Nilsson as Isolde in the 1966 Beyreuth Festival production under Karl Böhm. Photo courtesy of Decca Classics.</figcaption>
 

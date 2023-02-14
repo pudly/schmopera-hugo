@@ -1,17 +1,28 @@
-+++
-author = ["authors/greg.md"]
-categories = "Op-ed"
-date = "2014-04-15T10:23:00-04:00"
-lastmod = "2017-08-28T10:45:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503931309181/2017-08-28---Greg-Boheme.jpg.jpg"
-primary_image_credit = "Greg Finney as Alcindoro in AtG's La bohème, 2017. Photo by Darryl Block."
-publishDate = "2014-04-15T10:23:00-04:00"
-related_articles = ["articles/and-i-know-things-now.md","articles/the-life-of-a-comprimario-or-oh-youre-that-guy.md","articles/risky-opinions-there-are-2-types-of-singers.md","articles/5-ways-being-a-background-actor-helps-your-singing.md"]
-related_people = ["scene/people/gregory-finney.md"]
-short_description = "I remember when I first told my parents I wanted to be an actor. I had just performed in our school district’s Speech and Drama Festival and scored a near perfect mark for my portrayal of the Big Bad Wolf (of “Three Little Pigs” fame) telling the true account of what happened with those mischievous swine."
-slug = "how-i-acted-my-way-into-an-opera-career"
-title = "How I acted my way into an opera career"
-+++
+---
+author:
+- authors/greg.md
+categories: Op-ed
+date: "2014-04-15T10:23:00-04:00"
+lastmod: "2017-08-28T10:45:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503931309181/2017-08-28---Greg-Boheme.jpg.jpg
+primary_image_credit: Greg Finney as Alcindoro in AtG's La bohème, 2017. Photo by
+  Darryl Block.
+publishDate: "2014-04-15T10:23:00-04:00"
+related_articles:
+- articles/and-i-know-things-now.md
+- articles/the-life-of-a-comprimario-or-oh-youre-that-guy.md
+- articles/risky-opinions-there-are-2-types-of-singers.md
+- articles/5-ways-being-a-background-actor-helps-your-singing.md
+related_people:
+- scene/people/gregory-finney.md
+short_description: I remember when I first told my parents I wanted to be an actor.
+  I had just performed in our school district’s Speech and Drama Festival and scored
+  a near perfect mark for my portrayal of the Big Bad Wolf (of “Three Little Pigs”
+  fame) telling the true account of what happened with those mischievous swine.
+slug: how-i-acted-my-way-into-an-opera-career
+title: How I acted my way into an opera career
+_template: article_single
+---
 
 I remember when I first told my parents I wanted to be an actor. I had just performed in our school district’s Speech and Drama Festival and scored a near perfect mark for my portrayal of the Big Bad Wolf (of "Three Little Pigs" fame) telling the true account of what happened with those mischievous swine.
 

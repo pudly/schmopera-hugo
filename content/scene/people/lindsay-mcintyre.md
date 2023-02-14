@@ -1,17 +1,20 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633539224/media/2021/10/lindsaymcintyreheadshot_b5lauv.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/university-of-toronto-opera.md", "scene/companies/myopera.md", "scene/companies/soundstreams.md"]
-slug = "lindsay-mcintyre"
-title = "Lindsay McIntyre"
-website = "https://www.lindsaymcintyresoprano.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/lindsaymariamc/"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1633539224/media/2021/10/lindsaymcintyreheadshot_b5lauv.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/university-of-toronto-opera.md
+- scene/companies/myopera.md
+- scene/companies/soundstreams.md
+slug: lindsay-mcintyre
+social_media:
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/lindsaymariamc/
+title: Lindsay McIntyre
+website: https://www.lindsaymcintyresoprano.com/
+_template: "people_single"
+---
 Alberta-born soprano Lindsay McIntyre has been hailed as “a standout” (Ontario Arts Review) for her work in concert and on the stage. Recent concert performances include Buxtehude’s “Membra Jesu Nostri” and the Canadian premier of Craig Hella Johnson’s “Considering Matthew Sheppard” with the Grand Philharmonic Chamber Choir, Handel’s “Dixit Dominus” and BWV 4 & BWV 165 with the Theatre of Early Music, and Steve Reich’s contemporary masterwork “Music for 18 Musicians” with U of T graduate students and faculty for their New Music Festival. 
 
 Lindsay has worked with contemporary music company Soundstreams in their “Electric Messiah,” a reimagined version of Handel’s classic piece. She looks forward to continuing her work with the company with the music of Claude Vivier, performing “Love Songs” and “Musik für das Ende” on an international tour in 2022.  

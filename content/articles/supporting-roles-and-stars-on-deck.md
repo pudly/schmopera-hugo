@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-11-28T15:13:00-05:00"
-lastmod = "2015-12-02T08:14:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449028023499/2015-12-01---GlyndebourneCarmen.jpg.jpg"
-primary_image_credit = "l-r: Rihab Chaieb (Mercédès) and Eliana Pretorian (Frasquita) in Carmen, Glyndebourne Festival, 2015. Photo: Robert Workman."
-publishDate = "2015-12-02T08:14:00-05:00"
-short_description = "There are singers like Luciano Pavarotti, Monterrat Caballé, and Renata Scotto, whose professional debuts were as Rodolfo, Mimì, and Violetta, respectively. Clearly, this is not the usual career trajectory; even Maria Callas started off in supporting roles (much to the envy of her leading castmates). For opera singers, starting &quot;at the bottom&quot; is the only way to work towards title roles."
-slug = "supporting-roles-and-stars-on-deck"
-title = "Supporting roles, and stars on deck"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-11-28T15:13:00-05:00"
+lastmod: "2015-12-02T08:14:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449028023499/2015-12-01---GlyndebourneCarmen.jpg.jpg
+primary_image_credit: 'l-r: Rihab Chaieb (Mercédès) and Eliana Pretorian (Frasquita)
+  in Carmen, Glyndebourne Festival, 2015. Photo: Robert Workman.'
+publishDate: "2015-12-02T08:14:00-05:00"
+short_description: There are singers like Luciano Pavarotti, Monterrat Caballé, and
+  Renata Scotto, whose professional debuts were as Rodolfo, Mimì, and Violetta, respectively.
+  Clearly, this is not the usual career trajectory; even Maria Callas started off
+  in supporting roles (much to the envy of her leading castmates). For opera singers,
+  starting &quot;at the bottom&quot; is the only way to work towards title roles.
+slug: supporting-roles-and-stars-on-deck
+title: Supporting roles, and stars on deck
+_template: article_single
+---
 
 Like the person who keeps an eye on the extras in their favourite TV shows, operaphiles like to look twice at the supporting roles on the operatic stage. It can be a perfect window into the way opera gets cast, and how artists advance their careers. 
 

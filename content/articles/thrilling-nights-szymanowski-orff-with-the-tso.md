@@ -1,18 +1,31 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2017-06-25T10:24:00-06:00"
-lastmod = "2017-06-25T10:31:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498407974320/2017-06-25---Carmina---Nicola-Benedetti-Peter-Oundjian-Jag-Gundu.jpg.jpg"
-primary_image_credit = "Violinist Nicola Benedetti and TSO Music Director Peter Oundjian. Photo: Jag Gundu."
-publishDate = "2017-06-25T10:31:00-06:00"
-related_articles = ["articles/renee-fleming-tso.md","articles/the-tso-does-danny-elfmans-music-from-the-films-of-tim-burton.md","articles/oundjian-conducts-a-favourite-vaughan-williams-at-the-tso.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/phillip-addis.md","scene/people/aline-kutan.md","scene/people/daniel-taylor.md"]
-short_description = "The TSO played both scores beautifully. With sensitivity to soloists (Benedetti included) they brought all the volatility and humanity to these two scores - something that was prevalent in the writing of the 1930s - to the forefront with skill and unparalleled technique."
-slug = "thrilling-nights-szymanowski-orff-with-the-tso"
-title = "Thrilling nights: Szymanowski &amp; Orff with the TSO"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2017-06-25T10:24:00-06:00"
+lastmod: "2017-06-25T10:31:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498407974320/2017-06-25---Carmina---Nicola-Benedetti-Peter-Oundjian-Jag-Gundu.jpg.jpg
+primary_image_credit: 'Violinist Nicola Benedetti and TSO Music Director Peter Oundjian.
+  Photo: Jag Gundu.'
+publishDate: "2017-06-25T10:31:00-06:00"
+related_articles:
+- articles/renee-fleming-tso.md
+- articles/the-tso-does-danny-elfmans-music-from-the-films-of-tim-burton.md
+- articles/oundjian-conducts-a-favourite-vaughan-williams-at-the-tso.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/phillip-addis.md
+- scene/people/aline-kutan.md
+- scene/people/daniel-taylor.md
+short_description: The TSO played both scores beautifully. With sensitivity to soloists
+  (Benedetti included) they brought all the volatility and humanity to these two scores
+  - something that was prevalent in the writing of the 1930s - to the forefront with
+  skill and unparalleled technique.
+slug: thrilling-nights-szymanowski-orff-with-the-tso
+title: 'Thrilling nights: Szymanowski &amp; Orff with the TSO'
+_template: article_single
+---
 
 The Toronto Symphony Orchestra finished up their Decades Project last night by presenting two masterworks: Szymanowski's Violin Concerto No. 2 and Orff's main d'oeuvre *Carmina Burana*. 
 
@@ -22,7 +35,10 @@ After the pause, we were treated to one of my favourite oratorios - albeit it a 
 
 Joining forces with the Toronto Mendelssohn Choir under Noel Edison, The Toronto Children's Chorus under Elise Bradley, and soloists, soprano [Aline Kutan](/scene/people/aline-kutan/), baritone [Phillip Addis](/scene/people/phillip-addis/), and countertenor [Daniel Taylor](/scene/people/daniel-taylor/), the TSO brought the house down with their stylish and engrossing performance. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498408050448/2017-06-25---Carmina-Burana---Oundjian-Addis-Taylor-Kutan-TMC-TCC-Jag-Gundu.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498408050448/2017-06-25---Carmina-Burana---Oundjian-Addis-Taylor-Kutan-TMC-TCC-Jag-Gundu.jpg.jpg)
+
 <figcaption>Soprano Aline Kutan, baritone Phillip Addis, countertenor Daniel Taylor, the Toronto Mendelssohn Choir, the Toronto Children's Chorus, and the Toronto Symphony Orchestra under Peter Oundjian. Photo: Jag Gundu.</figcaption>
 </figure>
 

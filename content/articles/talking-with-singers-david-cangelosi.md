@@ -1,18 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2014-03-05T09:00:00-05:00"
-lastmod = "2015-04-27T18:44:00-04:00"
-preamble = "American tenor David Cangelosi has worked with, well, everyone. We're talking Conlon, Ozawa, Boulez, Zeffirelli, and Plácido himself, and he made his Met debut singing Wagner with James Levine. David has even graced the stage of the Four Seasons Centre here in Toronto, appearing most recently as Spoletta (_Tosca_, 2012) and Dr. Blind (_Die Fledermaus_, 2012).  [You may recall some bright green undies?](http://www.davidcangelosi.com/gallery/nggallery/photo-gallery/die-fledermaus-coc-2012/image/die-fledermaus-coc-2012-6/) David is that colleague whose enviable career easily makes him the most interesting man in the room. We couldn't wait to ask him about it."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430174437632/CangelosiSquare.jpg.jpg"
-publishDate = "2014-03-05T09:00:00-05:00"
-related_articles = []
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/david-cangelosi.md"]
-short_description = "American tenor David Cangelosi has worked with, well, everyone. We&#039;re talking Conlon, Ozawa, Boulez, Zeffirelli, and Plácido himself, and he made his Met debut singing Wagner with James Levine. David has even graced the stage of the Four Seasons Centre here in Toronto, appearing most recently as Spoletta (Tosca, 2012) and Dr. Blind (Die Fledermaus, 2012)."
-slug = "talking-with-singers-david-cangelosi"
-title = "Talking with Singers: David Cangelosi"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2014-03-05T09:00:00-05:00"
+lastmod: "2015-04-27T18:44:00-04:00"
+preamble: American tenor David Cangelosi has worked with, well, everyone. We're talking
+  Conlon, Ozawa, Boulez, Zeffirelli, and Plácido himself, and he made his Met debut
+  singing Wagner with James Levine. David has even graced the stage of the Four Seasons
+  Centre here in Toronto, appearing most recently as Spoletta (_Tosca_, 2012) and
+  Dr. Blind (_Die Fledermaus_, 2012).  [You may recall some bright green undies?](http://www.davidcangelosi.com/gallery/nggallery/photo-gallery/die-fledermaus-coc-2012/image/die-fledermaus-coc-2012-6/) David
+  is that colleague whose enviable career easily makes him the most interesting man
+  in the room. We couldn't wait to ask him about it.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430174437632/CangelosiSquare.jpg.jpg
+publishDate: "2014-03-05T09:00:00-05:00"
+related_articles: []
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/david-cangelosi.md
+short_description: American tenor David Cangelosi has worked with, well, everyone.
+  We&#039;re talking Conlon, Ozawa, Boulez, Zeffirelli, and Plácido himself, and he
+  made his Met debut singing Wagner with James Levine. David has even graced the stage
+  of the Four Seasons Centre here in Toronto, appearing most recently as Spoletta
+  (Tosca, 2012) and Dr. Blind (Die Fledermaus, 2012).
+slug: talking-with-singers-david-cangelosi
+title: 'Talking with Singers: David Cangelosi'
+_template: article_single
+---
 
 
 
@@ -24,7 +38,10 @@ What I love most about my career can be summed up in two words: “being relevan
 
 This is _my_ saying:  “There are no small roles in opera…only small voices.”  While this is meant to be humorous, and has indeed garnered many laughs over the years, it remains an absolute truism.  A chain is only as strong as its weakest link; and in the ever-competitive pastiche that is opera today, it is now even more important to bring everything you have to every role.  It is employing this exact philosophy that has kept me active for over two decades.  I have, and continue to do, opera’s ‘smaller’ roles, but always make an impact.  I also sing opera’s larger(est) roles, such as the aforementioned Mime (smaller role in _Rheingold_, HUGE role in _Siegfried_), Prunier (_Rondine_), Shuisky (_Godunov_), Pedrillo (_Abduction_).  They are not title roles, but if they are not done well, it can be a long night in the opera house while waiting for the star to sing again!  If they are done excellently, one will leave a bigger impression behind than the size of the role itself.  I am opera’s ‘utility baseball player’…I play every position really well…but no one expects me to crush the baseball each time while at bat.  When I do, which is most of the time (if I can say so humbly), it leaves a real impression.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430174563313/12-13-02-b-mc-d-3790.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430174563313/12-13-02-b-mc-d-3790.jpg.jpg)
+
 <figcaption>Jan Pohl and David Cangelosi in the COC's production of Die Fledermaus, 2012. Photo by Michael Cooper</figcaption>
 </figure>
 

@@ -1,14 +1,19 @@
-+++
-date = "2017-07-26T23:02:00-04:00"
-discipline = "Countertenor"
-lastmod = "2017-07-26T23:02:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501124473428/Wolfel-Martin-02.jpg.jpg"
-publishDate = "2017-07-26T23:02:00-04:00"
-related_companies = ["scene/companies/semperoper-dresden.md","scene/companies/opra-national-de-paris.md","scene/companies/welsh-national-opera.md","scene/companies/royal-opera-house.md"]
-slug = "martin-wolfel"
-title = "Martin Wölfel"
-website = "http://www.martin-woelfel.de/"
-+++
+---
+date: "2017-07-26T23:02:00-04:00"
+discipline: Countertenor
+lastmod: "2017-07-26T23:02:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501124473428/Wolfel-Martin-02.jpg.jpg
+publishDate: "2017-07-26T23:02:00-04:00"
+related_companies:
+- scene/companies/semperoper-dresden.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/royal-opera-house.md
+slug: martin-wolfel
+title: Martin Wölfel
+website: http://www.martin-woelfel.de/
+_template: "people_single"
+---
 
 Martin Wölfel was born and educated in Potsdam, and studied singing at the Carl Maria von Weber College of Music in Dresden. At first he concentrated on becoming a tenor before he found his true calling as a countertenor after visiting a recital given by Axel Köhler. After changing course he studied with Margret Trappe-Wiel until 1999, finally as a master student. He furthered his studies by taking master classes with such distinguished musicians as Paul Esswood, Axel Köhler, Jessica Cash and Brigitte Fassbaender. At the same time he undertook a lively series of concert activities.
 

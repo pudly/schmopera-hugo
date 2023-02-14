@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-11-25T13:17:00+00:00"
-lastmod = "2016-12-13T09:37:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481475651083/2016-12-11---Roses.jpg.jpg"
-publishDate = "2016-12-13T09:15:00+00:00"
-related_articles = ["articles/spotlight-on-danielle-buonaiuto.md","articles/moving-stories-as-one-at-chicago-fringe-opera.md"]
-related_people = ["scene/people/breanna-sinclaire.md"]
-short_description = "&quot;I was a very high tenor,&quot; she says, even recalling many conversations with her mentors and peers about pursuing a career as a countertenor. On a daily basis, Sinclairé &quot;always had this debate with myself&quot; about how to train her voice; though not an easy decision to make, there was at least one simple truth to the matter: &quot;I never felt comfortable playing tenor roles.&quot;"
-slug = "tenor-mezzo-transition"
-title = "From tenor to mezzo: one singer&#039;s path through gender transition"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-11-25T13:17:00+00:00"
+lastmod: "2016-12-13T09:37:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481475651083/2016-12-11---Roses.jpg.jpg
+publishDate: "2016-12-13T09:15:00+00:00"
+related_articles:
+- articles/spotlight-on-danielle-buonaiuto.md
+- articles/moving-stories-as-one-at-chicago-fringe-opera.md
+related_people:
+- scene/people/breanna-sinclaire.md
+short_description: '&quot;I was a very high tenor,&quot; she says, even recalling
+  many conversations with her mentors and peers about pursuing a career as a countertenor.
+  On a daily basis, Sinclairé &quot;always had this debate with myself&quot; about
+  how to train her voice; though not an easy decision to make, there was at least
+  one simple truth to the matter: &quot;I never felt comfortable playing tenor roles.&quot;'
+slug: tenor-mezzo-transition
+title: 'From tenor to mezzo: one singer&#039;s path through gender transition'
+_template: article_single
+---
 
 Though their sounds may seem drastically different, the physical differences in the instrument of the highest soprano and the lowest bass is mere millimetres in size. The sweet spot for working opera singers is found through a combination of nature and nurture, and for every singer who falls neatly into a vocal *Fach* pigeon hole, there seems to be another whose voice lies in the grey areas between mezzo and soprano, or between baritone and tenor.
 
@@ -24,7 +33,9 @@ Baltimore native and mezzo-soprano [Breanna Sinclairé](/scene/people/breanna-si
 
 "Singing in the tenor range, I was still battling with my gender and would envy sopranos because I knew this was the *Fach* I should be singing," Sinclairé recalls. "I hated the timbre of my tenor voice. It was flat, shaky, not a true tenor sound, and had no core. It didn't feel authentic."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481463731721/2016-11-24---Breanna-Sinclaire.jpg.jpg)<figcaption>Breanna Sinclairé.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481463731721/2016-11-24---Breanna-Sinclaire.jpg.jpg)<figcaption>Breanna Sinclairé.</figcaption>
 </figure>
 
 It's a question that piques curiosity: how does a singer, well, *sing* during a gender transition?

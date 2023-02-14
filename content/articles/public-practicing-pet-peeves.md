@@ -1,15 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-09-21T16:37:00+01:00"
-lastmod = "2016-08-12T09:38:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470991039278/2016-08-12---Bagpipes.jpg.jpg"
-publishDate = "2015-09-22T13:30:00+01:00"
-related_articles = ["articles/putting-on-show-instrumentalists.md","articles/three-big-things-we-can-all-learn-from-singers.md","articles/in-defence-of-singers.md","articles/in-defence-of-pianists.md"]
-short_description = "Singers, I love you all. You&#039;re brave folks, putting in literally endless hours of practice, taking all the criticism with a smile, getting up in front of bored-faced crowds to bare your souls. I always admire you guys, and never envy your jobs. But singers, let&#039;s chat about singing in undesignated areas."
-slug = "public-practicing-pet-peeves"
-title = "Public practicing &amp; pet peeves"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-09-21T16:37:00+01:00"
+lastmod: "2016-08-12T09:38:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470991039278/2016-08-12---Bagpipes.jpg.jpg
+publishDate: "2015-09-22T13:30:00+01:00"
+related_articles:
+- articles/putting-on-show-instrumentalists.md
+- articles/three-big-things-we-can-all-learn-from-singers.md
+- articles/in-defence-of-singers.md
+- articles/in-defence-of-pianists.md
+short_description: Singers, I love you all. You&#039;re brave folks, putting in literally
+  endless hours of practice, taking all the criticism with a smile, getting up in
+  front of bored-faced crowds to bare your souls. I always admire you guys, and never
+  envy your jobs. But singers, let&#039;s chat about singing in undesignated areas.
+slug: public-practicing-pet-peeves
+title: Public practicing &amp; pet peeves
+_template: article_single
+---
 
 Singers, I love you all. You're brave folks, putting in literally endless hours of practice, taking *all* the criticism with a smile, getting up in front of bored-faced crowds to bare your souls. I always admire you guys, and never envy your jobs. But, we should talk about one thing that many of you do, because it a) adds to the unfair stereotype that singers are unaware of much more than their own voices, and b) is exasperatingly charming at best and objectively annoying at worst.
 

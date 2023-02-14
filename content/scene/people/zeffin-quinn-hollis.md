@@ -1,31 +1,30 @@
-+++
-date = "2015-05-16T22:18:00-04:00"
-discipline = "Baritone"
-lastmod = "2015-05-16T22:18:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546831244/media/2019/01/ZeffinQuinnHollis.png"
-publishDate = "2015-05-16T22:18:00-04:00"
-related_companies = ["scene/companies/the-dallas-opera.md", "scene/companies/the-santa-fe-opera.md"]
-slug = "zeffin-quinn-hollis"
-title = "Zeffin Quinn Hollis"
-website = "http://www.zeffin.com/#!opera/c1w4l"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/zeffin"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/zeffin"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://instagram.com/zeffin/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/zeffinquinnhollis"
-
-+++
+---
+date: "2015-05-16T22:18:00-04:00"
+discipline: Baritone
+lastmod: "2015-05-16T22:18:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546831244/media/2019/01/ZeffinQuinnHollis.png
+publishDate: "2015-05-16T22:18:00-04:00"
+related_companies:
+- scene/companies/the-dallas-opera.md
+- scene/companies/the-santa-fe-opera.md
+slug: zeffin-quinn-hollis
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/zeffin
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/zeffin
+- platform: Instagram
+  _template: social_media
+  url: https://instagram.com/zeffin/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/user/zeffinquinnhollis
+title: Zeffin Quinn Hollis
+website: http://www.zeffin.com/#!opera/c1w4l
+_template: "people_single"
+---
 Actor, singer, director, teacher.
  
 Vast resume includes appearances in everything from opera to film & television to musical theatre.

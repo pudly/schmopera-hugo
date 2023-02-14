@@ -1,16 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-10-05T09:21:00+01:00"
-lastmod = "2016-10-05T12:51:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475656482596/2016-10-05---Don-Giovanni.jpg.jpg"
-primary_image_credit = "Photo:  Jonathan Pfahl."
-publishDate = "2016-10-05T12:51:00+01:00"
-related_companies = ["scene/companies/nashville-opera.md"]
-short_description = "Don Giovanni starts a curious season at Nashville Opera, which also includes Bizet&#039;s Carmen, Tom Cipullo&#039;s Glory Denied, and the world premiere of Robert Paterson&#039;s Three Way, a trio of one-acts (&quot;Think Sex and the City meets The Twilight Zone,&quot; say Nashville Opera)."
-slug = "dont-miss-don-giovanni-at-nashville-opera"
-title = "Don&#039;t miss: Don Giovanni at Nashville Opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-10-05T09:21:00+01:00"
+lastmod: "2016-10-05T12:51:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475656482596/2016-10-05---Don-Giovanni.jpg.jpg
+primary_image_credit: 'Photo:  Jonathan Pfahl.'
+publishDate: "2016-10-05T12:51:00+01:00"
+related_companies:
+- scene/companies/nashville-opera.md
+short_description: Don Giovanni starts a curious season at Nashville Opera, which
+  also includes Bizet&#039;s Carmen, Tom Cipullo&#039;s Glory Denied, and the world
+  premiere of Robert Paterson&#039;s Three Way, a trio of one-acts (&quot;Think Sex
+  and the City meets The Twilight Zone,&quot; say Nashville Opera).
+slug: dont-miss-don-giovanni-at-nashville-opera
+title: 'Don&#039;t miss: Don Giovanni at Nashville Opera'
+_template: article_single
+---
 
 This week, [Nashville Opera](/scene/companies/nashville-opera/) opens its "strikingly visual" production of [*Don Giovanni*](http://www.nashvilleopera.org/don-giovanni), starring baritone David Adam Moore in the title role.
 

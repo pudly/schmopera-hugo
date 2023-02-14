@@ -1,23 +1,22 @@
-+++
-address = ""
-email = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557799397/media/2019/05/uIzi-lCK_400x400.jpg"
-primary_image_credit = ""
-related_people = []
-slug = "city-lyric-opera"
-title = "City Lyric Opera"
-type_of_company = "Opera Company"
-website = "https://www.citylyricopera.org/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/CityLyricOpera"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCk7NMfXlIbt1ZzuAXTrufhw"
-
-+++
+---
+address: ""
+email: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1557799397/media/2019/05/uIzi-lCK_400x400.jpg
+primary_image_credit: ""
+related_people: []
+slug: city-lyric-opera
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/CityLyricOpera
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCk7NMfXlIbt1ZzuAXTrufhw
+title: City Lyric Opera
+type_of_company: Opera Company
+website: https://www.citylyricopera.org/
+_template: "company_single"
+---
 ## Mission Statement
 
 City Lyric Opera provides a one-of-a-kind experience for audience members by welcoming them to the operatic art form without judgment, expectation, or financial burden.

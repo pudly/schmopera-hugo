@@ -1,17 +1,30 @@
-+++
-author = ["authors/suzanne-vinnik.md","authors/sara-duchovnay.md"]
-categories = "Op-ed"
-date = "2017-09-12T19:44:00-04:00"
-lastmod = "2017-09-12T23:00:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505259968278/2017-09-12---Shoperatic.jpg.jpg"
-primary_image_credit = "Suzanne Vinnik (left) and Sara Duchovnay, creators of Shoperatic. Photo: Kaleigh Rae Photography."
-publishDate = "2017-09-12T22:41:00-04:00"
-related_articles = ["articles/a-letter-to-the-modern-diva.md","articles/freetheknee-part-2-you-have-better-choices.md"]
-related_people = ["scene/people/suzanne-vinnik.md","scene/people/sara-duchovnay.md"]
-short_description = "It&#039;s Suzanne Vinnik and Sara Duchovnay of Shoperatic.com! We&#039;re excited to announce that after talking about our new online peer-to-peer marketplace for what seems like eons, we are LAUNCHED and open for business! When we ran into a little technical snafu in beta testing, we reached out to our friends at Schmopera who were able to help us figure out the problem and got us back on track!"
-slug = "just-in-time-for-fall-shoperatic"
-title = "Just in time for fall: Shoperatic!"
-+++
+---
+author:
+- authors/suzanne-vinnik.md
+- authors/sara-duchovnay.md
+categories: Op-ed
+date: "2017-09-12T19:44:00-04:00"
+lastmod: "2017-09-12T23:00:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505259968278/2017-09-12---Shoperatic.jpg.jpg
+primary_image_credit: 'Suzanne Vinnik (left) and Sara Duchovnay, creators of Shoperatic.
+  Photo: Kaleigh Rae Photography.'
+publishDate: "2017-09-12T22:41:00-04:00"
+related_articles:
+- articles/a-letter-to-the-modern-diva.md
+- articles/freetheknee-part-2-you-have-better-choices.md
+related_people:
+- scene/people/suzanne-vinnik.md
+- scene/people/sara-duchovnay.md
+short_description: It&#039;s Suzanne Vinnik and Sara Duchovnay of Shoperatic.com!
+  We&#039;re excited to announce that after talking about our new online peer-to-peer
+  marketplace for what seems like eons, we are LAUNCHED and open for business! When
+  we ran into a little technical snafu in beta testing, we reached out to our friends
+  at Schmopera who were able to help us figure out the problem and got us back on
+  track!
+slug: just-in-time-for-fall-shoperatic
+title: 'Just in time for fall: Shoperatic!'
+_template: article_single
+---
 
 Dear Schmopera readers,
 
@@ -21,7 +34,10 @@ In a series of Schmopera posts that we wrote last year, we [urged singers to be 
 
 Auditions have become a place of camaraderie, where singers who have only known one another online through dress sales and a shared love of fashion, (and opera of course), meet for the first time and celebrate their friendship instead of viewing each other as competition. We've empowered countless "#divaswhohustle" to come out of the shadows and sell the amazing things they create and source! Shoperatic users have been able to put their hard-earned money back into their own community just by buying the things we already need. When we go to a homestay or give our family and friends gifts, we are now gifting them diva-made products. We can use diva-made skincare, light our favorite scents from [Golden Pineapple Candle Co.](https://shoperatic.com/vendor/golden-pineapple-candle-co/), buy gowns for performances, ensembles for auditions, clothes for our everyday life and most important - gifts for ourselves when we deserve something special!  We support our art from by supporting the artists behind all of our items. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505262381807/2017-09-12---oddc_fringie-shoot_2-745.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505262381807/2017-09-12---oddc_fringie-shoot_2-745.jpg.jpg)
+
 <figcaption>Products from [Golden Pineapple Candle Co.](https://shoperatic.com/vendor/golden-pineapple-candle-co/) Photo: Kaleigh Rae Photography.</figcaption>
 </figure>
  
@@ -29,7 +45,10 @@ While we were building the website this summer, we put together several [Sing Fo
 
 There will always be those who embrace the status quo, and there will always be those who think that because something has been done one way for so long, it is the only way to accomplish anything. Shoperatic.com isn't about that! We are about taking big risks, (even when they are terrifying), and seeing them pay off. During Shoperatic's early stages, every dollar that we earn in commission from sales will go directly back into building our reserves and making our site better so it can continue to evolve with the evolving needs of the community. Just since out BETA+ stage, we’ve improved upon many of the features on the site, and will continue to do so as our business grows and we have the means to make it happen. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505262430333/2017-09-12---BRG%2B2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505262430333/2017-09-12---BRG%2B2.jpg.jpg)
+
 <figcaption>MatchaMe Cosmetics' [Black Rosa Gold Serum and Makeup Primer](https://shoperatic.com/shop/black-rosa-gold-serum-and-makeup-primer-2-oz/). Photo: S. Richards Photography.</figcaption>
 </figure>
 

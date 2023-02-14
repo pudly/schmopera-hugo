@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-07-24T21:48:00-04:00"
-lastmod = "2018-02-15T09:32:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518705114701/-cB-jskSMzDU9F9tignoYQply1AN96wRj9BrtllaVaZTm0hJZcbIk7ZCHYJgRDuyINAteYEDsU8EqHnrVXA_F6YTu40%3Dw1360-h1360"
-primary_image_credit = "Photo: Sheila Rock."
-publishDate = "2016-07-25T10:18:00-04:00"
-related_articles = ["articles/placido-baritones-ripple.md","articles/catty-commentary-or-whats-not-useful-for-opera.md"]
-related_companies = ["scene/companies/los-angeles-opera.md"]
-short_description = "Promoting Domingo, in between the well-honed performances of the Operalia finalists, felt in opposition to the competition&#039;s mission. The business of advertising seemed to take over the air time between competitors. Perhaps it was the perfect opportunity for Domingo to promote his work, since the Operalia audience is the right demographic to purchase a documentary like &quot;My Greatest Roles&quot;."
-slug = "operalia-advertising"
-title = "Operalia &amp; advertising"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-07-24T21:48:00-04:00"
+lastmod: "2018-02-15T09:32:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518705114701/-cB-jskSMzDU9F9tignoYQply1AN96wRj9BrtllaVaZTm0hJZcbIk7ZCHYJgRDuyINAteYEDsU8EqHnrVXA_F6YTu40%3Dw1360-h1360
+primary_image_credit: 'Photo: Sheila Rock.'
+publishDate: "2016-07-25T10:18:00-04:00"
+related_articles:
+- articles/placido-baritones-ripple.md
+- articles/catty-commentary-or-whats-not-useful-for-opera.md
+related_companies:
+- scene/companies/los-angeles-opera.md
+short_description: Promoting Domingo, in between the well-honed performances of the
+  Operalia finalists, felt in opposition to the competition&#039;s mission. The business
+  of advertising seemed to take over the air time between competitors. Perhaps it
+  was the perfect opportunity for Domingo to promote his work, since the Operalia
+  audience is the right demographic to purchase a documentary like &quot;My Greatest
+  Roles&quot;.
+slug: operalia-advertising
+title: Operalia &amp; advertising
+_template: article_single
+---
 
 Congratulations to the winners of the 2016 Operalia competition!
 

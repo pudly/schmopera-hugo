@@ -1,18 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-09-15T13:02:00-04:00"
-lastmod = "2017-10-02T21:12:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494895761/2017-09-15---Fanning-Gotterdammerung---Gunther-Brunnhilde-0492.jpg.jpg"
-primary_image_credit = "John Fanning (Gunther) and Susan Bullock as (Brünnhilde) in the COC's production of Götterdämmerung. Photo: Michael Cooper."
-publishDate = "2017-10-02T20:51:00-04:00"
-related_articles = ["articles/talking-with-singers-gregory-kunde.md","articles/talking-with-singers-sir-john-tomlinson.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/john-fanning.md"]
-short_description = "&quot;Even geezer singers will take breaths they shouldn&#039;t,&quot; he says of the all-too-human aspect to singing live onstage. &quot;Those things never change, we just get better at dealing with them.&quot;"
-slug = "talking-with-singers-john-fanning"
-title = "Talking with singers: John Fanning"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-09-15T13:02:00-04:00"
+lastmod: "2017-10-02T21:12:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494895761/2017-09-15---Fanning-Gotterdammerung---Gunther-Brunnhilde-0492.jpg.jpg
+primary_image_credit: 'John Fanning (Gunther) and Susan Bullock as (Brünnhilde) in
+  the COC''s production of Götterdämmerung. Photo: Michael Cooper.'
+publishDate: "2017-10-02T20:51:00-04:00"
+related_articles:
+- articles/talking-with-singers-gregory-kunde.md
+- articles/talking-with-singers-sir-john-tomlinson.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/john-fanning.md
+short_description: '&quot;Even geezer singers will take breaths they shouldn&#039;t,&quot;
+  he says of the all-too-human aspect to singing live onstage. &quot;Those things
+  never change, we just get better at dealing with them.&quot;'
+slug: talking-with-singers-john-fanning
+title: 'Talking with singers: John Fanning'
+_template: article_single
+---
 
 "This role, it's a tricky little thing," says baritone [John Fanning](/scene/people/john-fanning/) of singing Waldner in [*Arabella*](http://coc.ca/PerformancesAndTickets/1718Season/Arabella.aspx), running at the Canadian Opera Company **October 5-28**. Fanning takes on the role of the Count who's "down on his luck", trying to solve his family's financial woes by marrying off his eldest daughter, Arabella, to a wealthy friend of his from Croatia. "He's pretty much lost everything," says Fanning of Waldner, whose habits have him now "living in a bit of a run-down hotel in Vienna because he's a gambler."
 
@@ -30,7 +39,10 @@ His role in *Arabella* is the most recent in Fanning's long history with the Can
 
 For any working opera singer, maintaining an over-30-year career like Fanning's is no accident. "Good advice was the big one," he says of the elements needed for longevity on the stage. His training came with plenty of advice about which roles to take and which to turn down. "I mostly sang roles I should have," he says, adding with a laugh, "with the odd exception to stretch things." Those roles have included everything from Figaro in *Il barbiere di Siviglia*, to Wotan in the COC's production of *Das Rheingold* (marking the opening of the Four Seasons Centre in 2007), to the title role in the world premiere of John Estacio's *Frobisher*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506991848467/Fanning%2C%20John%202.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506991848467/Fanning%2C%20John%202.jpg.jpg)
+
 <figcaption>John Fanning, Canadian baritone.</figcaption>
 </figure>
 

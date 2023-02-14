@@ -1,23 +1,28 @@
-+++
-date = "2017-03-03T16:08:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-03-03T16:10:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488557278977/2017-03-03---Chen-Reiss-3---Paul-Marc-Mitchell.jpg.jpg"
-primary_image_credit = "Paul Marc Mitchell"
-publishDate = "2017-03-03T16:10:00+00:00"
-related_companies = ["scene/companies/teatro-alla-scala.md","scene/companies/wiener-staatsoper.md","scene/companies/bayerische-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/royal-opera-house.md"]
-slug = "chen-reiss"
-title = "Chen Reiss"
-website = "https://www.chenreiss.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Chen-Reiss-Soprano-214507461934625/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/chenreiss"
-+++
+---
+date: "2017-03-03T16:08:00+00:00"
+discipline: Soprano
+lastmod: "2017-03-03T16:10:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488557278977/2017-03-03---Chen-Reiss-3---Paul-Marc-Mitchell.jpg.jpg
+primary_image_credit: Paul Marc Mitchell
+publishDate: "2017-03-03T16:10:00+00:00"
+related_companies:
+- scene/companies/teatro-alla-scala.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/royal-opera-house.md
+slug: chen-reiss
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Chen-Reiss-Soprano-214507461934625/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/chenreiss
+title: Chen Reiss
+website: https://www.chenreiss.com/
+_template: "people_single"
+---
 
 Soprano Chen Reiss performed leading parts at the Vienna State Opera, Bavarian State Opera, Théâtre des Champs-Élysées, Teatro alla Scala, Semperoper Dresden, Deutsche Oper Berlin, Hamburg State Opera, De Nederlandse Opera Amsterdam, Wiener Festwochen, Maggio Musicale Fiorentino, Opera Company of Philadelphia and the Israeli Opera.
 

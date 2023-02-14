@@ -1,22 +1,32 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-05-15T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557941305/media/2019/05/sqRoughforOpera17-SpeakRed-ClaireShovelton.jpg"
-primary_image_credit = "Speak Red, by Santa Bušs and Finn Beames. Presented at Second Movement's rough for opera #17, 2019. Photo: Claire Shovelton."
-related_articles = ["articles/fine-mess-composer-new-opera.md", "articles/talking-with-singers-heloise-werner.md"]
-related_companies = []
-related_people = []
-short_description = "We are talking about an indeterminate and ever-changing tradition that has been developing for over four hundred years. Perhaps it is time to cast form aside entirely and explore where it is headed for the future."
-slug = "fascinating-insight-rough-for-opera-17"
-title = "Fascinating insight: rough for opera #17"
-youtube_url = ""
+---
+author:
+  - authors/alessia-naccarato.md
+categories: Review
+date: '2019-05-15T04:00:00+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1557941305/media/2019/05/sqRoughforOpera17-SpeakRed-ClaireShovelton.jpg
+primary_image_credit: >-
+  Speak Red, by Santa Bušs and Finn Beames. Presented at Second Movement's rough
+  for opera #17, 2019. Photo: Claire Shovelton.
+related_articles:
+  - articles/fine-mess-composer-new-opera.md
+  - articles/talking-with-singers-heloise-werner.md
+related_companies: []
+related_people: []
+short_description: >-
+  We are talking about an indeterminate and ever-changing tradition that has
+  been developing for over four hundred years. Perhaps it is time to cast form
+  aside entirely and explore where it is headed for the future.
+slug: fascinating-insight-rough-for-opera-17
+title: 'Fascinating insight: rough for opera #17'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 Second Movement presented its 17th [_rough for opera_](https://secondmovement.org.uk/) scratch night for new opera at the Cockpit theatre with a set of three scenes that sought to question the way we typically perceive opera as an art form. A rare opportunity for creators of new opera, _rough for opera_ selects project proposals to participate in each year's scrap night providing the funding, venue, and creative freedom. Each piece is then workshopped and presented in front of an audience as a work in progress; a chance to test their work, discuss their process, and receive feedback. In many ways, it is a learning experience for both the creators and audience.
 
 The three "operas" presented this year though they differed greatly in their conception and execution, contained some similar thematic ideas in that they all brought to light some critical social issues. The first piece, _Speak Red_ was a selection of excerpts from a larger work composed by Santa Bušs with text by Finn Beames. The roughly 30-minute-long piece was more community theatre than opera and was originally conceived by Beames as a way of raising awareness around aphasia, the little known condition that effects speech and language due to (usually) stroke related brain damage.
@@ -31,7 +41,9 @@ Where I think the piece struggled though, was in the scene about Ruby Mcdonough 
 
 Bušs very cleverly made use of the instruments (piano and cello) in a non-traditional way to present an alternative means of communication that does not use words. This included dragging the hands down the back of a cello or over the lid of a piano to create a very evocative squeaking, using horsehair to bow the strings of the piano, and running a tuning fork along the keys of the piano. All of these alternative methods created an eerie and compelling image of a world without words. But the focus on the Ruby Mcdonough switched the focus to sexual assault when it should have been about disability and I think this is where they went wrong.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557941440/media/2019/05/RoughforOpera17-AFatherIsLookingForHisDaughter-ClaireShovelton.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557941440/media/2019/05/RoughforOpera17-AFatherIsLookingForHisDaughter-ClaireShovelton.jpg)
 
 <figcaption>A Father Looking for His Daughter, by Alex Mills and Gareth Mattey. Presented at Second Movement's rough for opera #17, 2019. Photo: Claire Shovelton.</figcaption>
 
@@ -45,7 +57,9 @@ The music was wonderful – captivating and very well prepared. a simple orchest
 
 Closing the evening was _Dreaming Clouds_, a short piece from composer Alex Ho and choreographer Julia Cheng. This piece was the least operatic of the night but by far the most emotionally engaged performance. The sacred nature of the performance space was established immediately as the performers entered in darkness and placed their instruments ceremoniously centre stage. The piece explored the basic elements of Chinese opera – dance, martial arts, folksong, and traditional Chinese instrumentation all while exploring themes of identity as a British-Chinese.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557941533/media/2019/05/RoughforOpera17-DreamingClouds-ClaireShovelton.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557941533/media/2019/05/RoughforOpera17-DreamingClouds-ClaireShovelton.jpg)
 
 <figcaption>Dreaming Clouds, by Alex Ho and Julia Cheng. Presented at Second Movement's rough for opera #17, 2019. Photo: Claire Shovelton.</figcaption>
 

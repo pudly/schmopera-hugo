@@ -1,24 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-04-10T21:36:00-04:00"
-lastmod = "2015-04-12T19:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428716069380/Lizee.jpg.jpg"
-primary_image_credit = "Steve Raegele"
-publishDate = "2015-03-21T09:36:00-04:00"
-related_articles = ["articles/go-see-this-tapex-metallurgy.md","articles/dont-miss-naomis-road.md","articles/dont-miss-century-song.md","articles/dont-miss-tapex-forbidden-we-are-tough-and-resilient.md","articles/a-wellexecuted-mashup-tapex-forbidden.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/carla-huhtanen.md","scene/people/michael-mori.md"]
-short_description = "Last night was the first of two performances of Tapestry&#039;s 2nd annual Tap:Ex (Tapestry Explorations/Experimentations), this time the program is Tables Turned,  featuring the music of Montréal-based composer and turn table artist Nicole Lizée, with percussionist Ben Reimer and the spectacular soprano Carla Huhtanen. "
-slug = "in-review-tapex-tables-turned-or-go-see-this-show"
-title = "In review: Tap:Ex Tables Turned, or Go See This Show"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-04-10T21:36:00-04:00"
+lastmod: "2015-04-12T19:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428716069380/Lizee.jpg.jpg
+primary_image_credit: Steve Raegele
+publishDate: "2015-03-21T09:36:00-04:00"
+related_articles:
+- articles/go-see-this-tapex-metallurgy.md
+- articles/dont-miss-naomis-road.md
+- articles/dont-miss-century-song.md
+- articles/dont-miss-tapex-forbidden-we-are-tough-and-resilient.md
+- articles/a-wellexecuted-mashup-tapex-forbidden.md
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/carla-huhtanen.md
+- scene/people/michael-mori.md
+short_description: 'Last night was the first of two performances of Tapestry&#039;s
+  2nd annual Tap:Ex (Tapestry Explorations/Experimentations), this time the program
+  is Tables Turned,  featuring the music of Montréal-based composer and turn table
+  artist Nicole Lizée, with percussionist Ben Reimer and the spectacular soprano Carla
+  Huhtanen. '
+slug: in-review-tapex-tables-turned-or-go-see-this-show
+title: 'In review: Tap:Ex Tables Turned, or Go See This Show'
+_template: article_single
+---
 
 Well, [Tapestry Opera](https://tapestryopera.com/) did it again. I go and see one of their shows, I come away wanting to tell everyone how they should _run_ to the Distillery District to see it, and I'm stuck to find the words to explain why. Last night was the first of two performances of Tapestry's 2nd annual _Tap:Ex _(Tapestry Explorations/Experimentations), this time the program is _Tables Turned_, featuring the music of Montréal-based composer and turn table artist [Nicole Lizée](http://www.nicolelizee.com/), with percussionist [Ben Reimer](https://twitter.com/bnreimer) and the spectacular soprano [Carla Huhtanen](http://www.carlahuhtanen.com/). Lizée's music was in two parts, the first nodding heavily towards iconic films and filmmakers, like Alfred Hitchcock's _The Birds_ and Stanley Kubrick's _The Shining_. The second half was centred on Maria Callas, and the roles of icons in the lives of aspiring artists. 
 
 It was a jarring effect at first, to hear acoustic and electronic instruments, but Lizée uses each respective sound world in an organic way. In this first set, entitled _The Criterion Collection_, Lizée pieces together clips of music and film, and isolates small moments using glitch loops, and deconstructs the audio and video. In the first set, Carla is seen in comfy clothes, sitting down to watch her favourite movies. Lizée focuses on a word or a physical gesture in the film, repeating it over and over at different speeds. Small moments from _The Shining_, "Come play with us, Danny," and Danny's facial expressions, are slowed down and pulled apart. Lizée even adds the image of herself, sitting beside Doris Day at the piano in _The Man Who Knew Too Much_. The last section of _The Criterion Collection_ is made up of moments from _The Sound Of Music_, like when the kids' new stepmother-to-be plays ball with them ("Baroness Plays Ball"), when Maria teaches the kids the do-re-mi song ("Solfège 101"), when they all get caught singing and dancing about their favourite things ("Dog Bites Canticle"), and the singing of the nuns ("A Clowder of Nuns"). What Lizée does with the nuns' music was pretty extraordinary, one of my favourite moments from the set. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428716148607/CarlaH.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428716148607/CarlaH.jpg.jpg)
+
 <figcaption>Soprano Carla Huhtanen.</figcaption>
 </figure>
 

@@ -1,13 +1,14 @@
-+++
-date = "2016-10-29T18:03:00+01:00"
-discipline = "Tenor"
-lastmod = "2017-02-10T20:00:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486756804148/2017-02-10---Alessandro-Fisher.jpg.jpg"
-publishDate = "2016-10-29T18:03:00+01:00"
-slug = "alessandro-fisher"
-title = "Alessandro Fisher"
-website = "http://alessandrofisher.com/index"
-+++
+---
+date: "2016-10-29T18:03:00+01:00"
+discipline: Tenor
+lastmod: "2017-02-10T20:00:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486756804148/2017-02-10---Alessandro-Fisher.jpg.jpg
+publishDate: "2016-10-29T18:03:00+01:00"
+slug: alessandro-fisher
+title: Alessandro Fisher
+website: http://alessandrofisher.com/index
+_template: "people_single"
+---
 
 Alessandro is a graduate of the Guildhall School of Music & Drama Postgraduate Vocal Studies course studying with Iris Dell'Acqua. He read Modern and Medieval Languages (Italian and German) at Cambridge University, where he was choral scholar in Clare College Chapel Choir.
 

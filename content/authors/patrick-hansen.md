@@ -1,22 +1,27 @@
-+++
-date = "2015-05-31T20:40:00-04:00"
-email = "patrick.j.hansen@mcgill.ca"
-lastmod = "2015-06-03T16:42:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433119527672/1WRoQ_FF.jpg.jpg"
-publishDate = "2015-05-31T20:46:00-04:00"
-short_bio = "Patrick Hansen continues his unique career throughout North America as an operatic conductor, vocal coach, and stage director. Mr. Hansen has been on the musical staffs of the Lyric Opera of Chicago, Pittsburgh Opera, Tulsa Opera, Opera Memphis, Des Moines Metro Opera, Ash Lawn Opera, The Juilliard Opera Center, and Glimmerglass Opera as well as being the Director of Artistic Administration for Florida Grand Opera during the opening of the 500 million dollar downtown Miami arts centre."
-slug = "patrick-hansen"
-title = "Patrick Hansen"
-website = "http://patricksoperablog.blogspot.ca/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/patrickjohnhansen?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/PJH1964"
-+++
+---
+date: "2015-05-31T20:40:00-04:00"
+email: patrick.j.hansen@mcgill.ca
+lastmod: "2015-06-03T16:42:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433119527672/1WRoQ_FF.jpg.jpg
+publishDate: "2015-05-31T20:46:00-04:00"
+short_bio: Patrick Hansen continues his unique career throughout North America as
+  an operatic conductor, vocal coach, and stage director. Mr. Hansen has been on the
+  musical staffs of the Lyric Opera of Chicago, Pittsburgh Opera, Tulsa Opera, Opera
+  Memphis, Des Moines Metro Opera, Ash Lawn Opera, The Juilliard Opera Center, and
+  Glimmerglass Opera as well as being the Director of Artistic Administration for
+  Florida Grand Opera during the opening of the 500 million dollar downtown Miami
+  arts centre.
+slug: patrick-hansen
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/patrickjohnhansen?fref=ts
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/PJH1964
+title: Patrick Hansen
+website: http://patricksoperablog.blogspot.ca/
+---
 
 Patrick Hansen continues his unique career throughout North America as an operatic conductor, vocal coach, and stage director. For his conducting of Bartok’s operatic masterpiece *Bluebeard’s Castle*, *New York Times* critic Anthony Tommasini praised his “lithe pacing and vivid colors” while Pulitzer prize-winning *Financial Times* critic Martin Bernheimer wrote “Hansen respected the delicate balance between passion and introspection. He made much of Bartok’s epic essay in psycho-sexual angst.” David Patrick Stearns in the *Philadelphia Inquirer* noted “Hansen revealed another side of the score: stroke after stroke of musical characterization that’s often obscured by dazzling orchestral color, skillfully drawing the ear into the two characters’ hearts of darkness.” 
 

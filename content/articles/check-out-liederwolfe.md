@@ -1,18 +1,40 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-09-02T13:36:00-04:00"
-lastmod = "2015-09-03T13:49:00-04:00"
-preamble = "I met Liederwölfe Opera Collective co-founders and delightful ladies [Francesca Perez](/scene/people/francesca-perez/) and [Lindsay Michael](/scene/people/lindsay-michael/) at the Banff Opera Colloquium this summer, where they wowed Canada's opera biggies with their proposal for *Opera Peep Show*. The premise is delicious: a ticket gets you into a hotel bar, where you can hear a few opera samples. From there, listeners can get keys to various rooms in the hotel, each featuring previews and excerpts from various other companies. Rightfully so, Liederwolfe's fresh ideas truly collaborative approach have made waves in Banff, and at the [LeanArts](http://www.leanperformingarts.com/) program earlier this year.\n\nFrancesca and Lindsay were kind enough to chat humbly about their work, and the place of  Liederwölfe Opera Collective among Canada's music and theatre scene."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441215350978/LiederwolfeSquare.jpg.jpg"
-publishDate = "2015-09-03T12:26:00-04:00"
-related_articles = ["articles/check-out-loose-tea-music-theatre.md","articles/check-out-urbanvessel.md","articles/check-out-the-friends-of-gravity.md","articles/check-out-opera-after-hours.md","articles/check-out-opera-5.md","articles/check-out-fawn-chamber-creative.md","articles/check-out-myopera.md","articles/opera-for-voyeurs-opera-peep-show.md"]
-related_companies = ["scene/companies/indie-opera-to.md","scene/companies/liederwolfe-opera-collective.md"]
-related_people = ["scene/people/francesca-perez.md","scene/people/lindsay-michael.md"]
-short_description = "I met Liederwölfe Opera Collective co-founders and delightful ladies Francesca Perez and Lindsay Michael at the Banff Opera Colloquium this summer, where they wowed Canada&#039;s opera biggies with their proposal for Opera Peep Show. The premise is delicious: a ticket gets you into a hotel bar, where you can hear a few opera samples. From there, listeners can get keys to various rooms in the hotel, each featuring previews and excerpts from various other companies. "
-slug = "check-out-liederwolfe"
-title = "Check out: Liederwölfe"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-09-02T13:36:00-04:00"
+lastmod: "2015-09-03T13:49:00-04:00"
+preamble: |-
+  I met Liederwölfe Opera Collective co-founders and delightful ladies [Francesca Perez](/scene/people/francesca-perez/) and [Lindsay Michael](/scene/people/lindsay-michael/) at the Banff Opera Colloquium this summer, where they wowed Canada's opera biggies with their proposal for *Opera Peep Show*. The premise is delicious: a ticket gets you into a hotel bar, where you can hear a few opera samples. From there, listeners can get keys to various rooms in the hotel, each featuring previews and excerpts from various other companies. Rightfully so, Liederwolfe's fresh ideas truly collaborative approach have made waves in Banff, and at the [LeanArts](http://www.leanperformingarts.com/) program earlier this year.
+
+  Francesca and Lindsay were kind enough to chat humbly about their work, and the place of  Liederwölfe Opera Collective among Canada's music and theatre scene.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441215350978/LiederwolfeSquare.jpg.jpg
+publishDate: "2015-09-03T12:26:00-04:00"
+related_articles:
+- articles/check-out-loose-tea-music-theatre.md
+- articles/check-out-urbanvessel.md
+- articles/check-out-the-friends-of-gravity.md
+- articles/check-out-opera-after-hours.md
+- articles/check-out-opera-5.md
+- articles/check-out-fawn-chamber-creative.md
+- articles/check-out-myopera.md
+- articles/opera-for-voyeurs-opera-peep-show.md
+related_companies:
+- scene/companies/indie-opera-to.md
+- scene/companies/liederwolfe-opera-collective.md
+related_people:
+- scene/people/francesca-perez.md
+- scene/people/lindsay-michael.md
+short_description: 'I met Liederwölfe Opera Collective co-founders and delightful
+  ladies Francesca Perez and Lindsay Michael at the Banff Opera Colloquium this summer,
+  where they wowed Canada&#039;s opera biggies with their proposal for Opera Peep
+  Show. The premise is delicious: a ticket gets you into a hotel bar, where you can
+  hear a few opera samples. From there, listeners can get keys to various rooms in
+  the hotel, each featuring previews and excerpts from various other companies. '
+slug: check-out-liederwolfe
+title: 'Check out: Liederwölfe'
+_template: article_single
+---
 
 ### 1. What is the mission behind Liederwölfe?
 

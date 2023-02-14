@@ -1,22 +1,26 @@
-+++
-date = "2015-05-04T13:14:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-05-04T13:14:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430759680674/WOODLEY-PHOTO_Fotor.jpg.jpg"
-publishDate = "2015-05-04T13:14:00-04:00"
-related_companies = ["scene/companies/tapestry-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/edmonton-opera.md", "scene/companies/canadian-art-song-project.md", "scene/companies/canadian-opera-company-ensemble-studio.md"]
-slug = "jacqueline-woodley"
-title = "Jacqueline Woodley"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/jacqueline.woodleysoprano.5?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/JacquelineWoodl"
-
-+++
+---
+date: "2015-05-04T13:14:00-04:00"
+discipline: Soprano
+lastmod: "2015-05-04T13:14:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430759680674/WOODLEY-PHOTO_Fotor.jpg.jpg
+publishDate: "2015-05-04T13:14:00-04:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/edmonton-opera.md
+- scene/companies/canadian-art-song-project.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+slug: jacqueline-woodley
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/jacqueline.woodleysoprano.5?fref=ts
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/JacquelineWoodl
+title: Jacqueline Woodley
+_template: "people_single"
+---
 Canadian soprano Jacqueline Woodley has been praised for her fearless versatility, changing styles fluidly from early music to contemporary, from opera to art song.
 
 Recent performances include her début at San Francisco Opera; singing Papagena (_Die Zauberflöte_), Waldvogel (_Siegfried_) and Cherubino (_Le nozze di Figaro_) with the Canadian Opera Company and both Belinda (_Dido and Aeneas/Aeneas and Dido_ Purcell/Rolfe double bill) and Daphne (_Apollo e Dafne_, Handel) for Toronto Masque Theatre. Other recent performances include her debut with the Montreal Symphony Orchestra under Kent Nagano; the Canadian premiere of _There was a Child_ (Jonathan Dove) with Kitchener-Waterloo Philharmonic Choir; the roles of Adele (_Die Fledermaus_) and Papagena (_Die Zauberflöte_) with Edmonton Opera; appearances at the Vancouver Early Music Festival and the Ottawa International Chamber Music Festival with Les Voix Baroques; a soprano and trumpet programme for Clavecin en Concert and La Fête de la Musique de Mont-Tremblant; and Handel’s _Messiah_ for groups such as the National Arts Centre Orchestra, Grand Philharmonic Choir, Aradia Ensemble, Symphony Nova Scotia and in a staged version for Against the Grain Theatre.

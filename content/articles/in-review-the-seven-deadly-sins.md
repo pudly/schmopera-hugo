@@ -1,18 +1,33 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2015-09-27T10:36:00-04:00"
-lastmod = "2015-09-28T10:26:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443364573977/SDSRickHarris.jpg.jpg"
-primary_image_credit = "Stephanie Conn as Anna in The Seven Deadly Sins. Photo by Rick Harris."
-publishDate = "2015-09-27T11:05:00-04:00"
-related_articles = ["articles/check-out-the-friends-of-gravity.md","articles/meet-the-friends-their-seven-deadly-sins.md","articles/the-future-of-opera-is-indie.md","articles/tomer-zvulun-the-atlanta-operas-intriguing-201718.md","articles/adi-braun-the-moderne-frau.md"]
-related_companies = ["scene/companies/the-friends-of-gravity.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/stephanie-conn.md","scene/people/scott-gabriel.md"]
-short_description = "I&#039;m always excited by Kurt Weill. Ever since my first exposure to Mahagonny and Down in the Valley (one of his American musicals) I&#039;ve been fascinated by his work with Bertolt Brecht. On Friday, September 25th I got to re-hear one of my favourites presented by The Friends of Gravity."
-slug = "in-review-the-seven-deadly-sins"
-title = "In review: The Seven Deadly Sins"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2015-09-27T10:36:00-04:00"
+lastmod: "2015-09-28T10:26:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443364573977/SDSRickHarris.jpg.jpg
+primary_image_credit: Stephanie Conn as Anna in The Seven Deadly Sins. Photo by Rick
+  Harris.
+publishDate: "2015-09-27T11:05:00-04:00"
+related_articles:
+- articles/check-out-the-friends-of-gravity.md
+- articles/meet-the-friends-their-seven-deadly-sins.md
+- articles/the-future-of-opera-is-indie.md
+- articles/tomer-zvulun-the-atlanta-operas-intriguing-201718.md
+- articles/adi-braun-the-moderne-frau.md
+related_companies:
+- scene/companies/the-friends-of-gravity.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/stephanie-conn.md
+- scene/people/scott-gabriel.md
+short_description: I&#039;m always excited by Kurt Weill. Ever since my first exposure
+  to Mahagonny and Down in the Valley (one of his American musicals) I&#039;ve been
+  fascinated by his work with Bertolt Brecht. On Friday, September 25th I got to re-hear
+  one of my favourites presented by The Friends of Gravity.
+slug: in-review-the-seven-deadly-sins
+title: 'In review: The Seven Deadly Sins'
+_template: article_single
+---
 
 I'm always excited by Kurt Weill. Ever since my first exposure to *Mahagonny* and *Down in the Valley* (one of his American musicals) I've been fascinated by his work with Bertolt Brecht. On Friday, September 25th I got to re-hear one of my favourites presented by [The Friends of Gravity](/scene/companies/the-friends-of-gravity/).
 
@@ -22,7 +37,10 @@ The stage was set in a claustrophobic bedroom scene with a shocking red sheet on
 
 A projection screen upstage obscured the cleverly arranged orchestra, and provided what would turn out to be some of my favourite visuals that I've seen in a projection since [Opera Erratica](http://erratica.org/projects/dido-and-aeneas)'s production of *Dido and Aeneas* years ago. We'll talk about them more in a bit.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443364773331/SDSResized.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443364773331/SDSResized.jpg.jpg)
+
 <figcaption>Stephanie Conn as Anna. Photo by Rick Harris.</figcaption>
 </figure>
 
@@ -36,7 +54,10 @@ The orchestra was great though. The arrangements by [Scott Gabriel](/scene/peopl
 
 The video was a mixture of surtitle translations and various vignettes in black and white that illustrated and supported what was happening on stage, rather than detract from it. #wellplayed
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443364712251/20150924-IMG_4593.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443364712251/20150924-IMG_4593.jpg.jpg)
+
 <figcaption>l-r: Christopher Wattam, Charles Fowler, Scott Gabriel, Will Lewans and Bryan Martin. Photo by Rick Harris.</figcaption>
 </figure>
 

@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-06-24T21:57:00-06:00"
-lastmod = "2016-07-06T16:10:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466826958963/2016-06-25---MOGVS.jpg.jpg"
-publishDate = "2016-06-24T22:45:00-06:00"
-related_articles = ["articles/delightfully-creepy-mahogany-opera-groups-the-rattler.md"]
-related_companies = ["scene/companies/mahogany-opera-group.md"]
-short_description = "A Mahogany creation, with the aim to test and challenge new ideas in opera and music theatre, Various Stages is an annual programme that offers selected artists the chance to put their projects through various workshops, sharings, and public showings, with support given along the way."
-slug = "call-for-submissions-mahogany-opera-groups-various-stages"
-title = "Call for submissions: Mahogany Opera Group&#039;s Various Stages"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-06-24T21:57:00-06:00"
+lastmod: "2016-07-06T16:10:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466826958963/2016-06-25---MOGVS.jpg.jpg
+publishDate: "2016-06-24T22:45:00-06:00"
+related_articles:
+- articles/delightfully-creepy-mahogany-opera-groups-the-rattler.md
+related_companies:
+- scene/companies/mahogany-opera-group.md
+short_description: A Mahogany creation, with the aim to test and challenge new ideas
+  in opera and music theatre, Various Stages is an annual programme that offers selected
+  artists the chance to put their projects through various workshops, sharings, and
+  public showings, with support given along the way.
+slug: call-for-submissions-mahogany-opera-groups-various-stages
+title: 'Call for submissions: Mahogany Opera Group&#039;s Various Stages'
+_template: article_single
+---
 
 [Mahogany Opera Group](/scene/companies/mahogany-opera-group/) is inviting artists to submit their ideas for their 2017 [Various Stages](http://www.mahoganyoperagroup.co.uk/productions/various-stages/) Festival.
 

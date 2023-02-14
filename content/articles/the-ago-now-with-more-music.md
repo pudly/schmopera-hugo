@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2015-11-01T11:16:00-05:00"
-lastmod = "2015-11-02T16:29:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446428910442/2015-11-01%20-%20SherkinNewmanSquare.jpg.jpg"
-publishDate = "2015-11-02T13:07:00-05:00"
-related_articles = ["articles/gregs-first-thursday-at-the-ago.md","articles/a-great-show-at-the-ago.md","articles/ago-friday-nights-nostalgia-and-newchoir.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/adam-sherkin.md","scene/people/michael-mori.md","scene/people/marion-newman.md"]
-short_description = "The AGO has partnered with Tapestry Opera to launch a new concert series on Friday evenings, each featuring music go to hand-in-hand with what&#039;s on at the Gallery. Yesterday the AGO launched J.M.W. Turner: Painting Set Free, an exhibition of over 50 large-scale paintings and watercolours by British artist Joseph Mallord William Turner (1775–1851)."
-slug = "the-ago-now-with-more-music"
-title = "The AGO, now with more music!"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2015-11-01T11:16:00-05:00"
+lastmod: "2015-11-02T16:29:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446428910442/2015-11-01%20-%20SherkinNewmanSquare.jpg.jpg
+publishDate: "2015-11-02T13:07:00-05:00"
+related_articles:
+- articles/gregs-first-thursday-at-the-ago.md
+- articles/a-great-show-at-the-ago.md
+- articles/ago-friday-nights-nostalgia-and-newchoir.md
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/adam-sherkin.md
+- scene/people/michael-mori.md
+- scene/people/marion-newman.md
+short_description: 'The AGO has partnered with Tapestry Opera to launch a new concert
+  series on Friday evenings, each featuring music go to hand-in-hand with what&#039;s
+  on at the Gallery. Yesterday the AGO launched J.M.W. Turner: Painting Set Free,
+  an exhibition of over 50 large-scale paintings and watercolours by British artist
+  Joseph Mallord William Turner (1775–1851).'
+slug: the-ago-now-with-more-music
+title: The AGO, now with more music!
+_template: article_single
+---
 
 Starting this week at the Art Gallery of Ontario, you can have your art with music on the side.
 

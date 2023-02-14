@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Review"
-date = "2014-11-17T12:16:00-05:00"
-lastmod = "2015-04-13T22:53:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428979939668/AprileMillo.jpg.jpg"
-publishDate = "2014-11-17T12:16:00-05:00"
-related_articles = ["articles/interviewing-the-greats-virginia-zeani.md","articles/in-review-sondra-radvanovsky-at-koerner-hall.md"]
-related_people = ["scene/people/aprile-millo.md","scene/people/dr-marylou-vetere.md"]
-short_description = "On Saturday night I went with go-to concert date Greg Finney to Trinity St. Paul&#039;s Centre on Bloor Street to hear the great Aprile Millo in recital. Upon opening sitting down and flipping through the programme, I was a little humbled to find out that I really should have known more about Aprile. "
-slug = "he-saidshe-said-aprile-millo-at-trinity-st-pauls"
-title = "He said/She said: Aprile Millo at Trinity St. Paul&#039;s"
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Review
+date: "2014-11-17T12:16:00-05:00"
+lastmod: "2015-04-13T22:53:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428979939668/AprileMillo.jpg.jpg
+publishDate: "2014-11-17T12:16:00-05:00"
+related_articles:
+- articles/interviewing-the-greats-virginia-zeani.md
+- articles/in-review-sondra-radvanovsky-at-koerner-hall.md
+related_people:
+- scene/people/aprile-millo.md
+- scene/people/dr-marylou-vetere.md
+short_description: 'On Saturday night I went with go-to concert date Greg Finney to
+  Trinity St. Paul&#039;s Centre on Bloor Street to hear the great Aprile Millo in
+  recital. Upon opening sitting down and flipping through the programme, I was a little
+  humbled to find out that I really should have known more about Aprile. '
+slug: he-saidshe-said-aprile-millo-at-trinity-st-pauls
+title: 'He said/She said: Aprile Millo at Trinity St. Paul&#039;s'
+_template: article_single
+---
 
 This is a joint review with contributor Greg Finney. [Read more by Greg](http://schmopera.com/author/greg/).
 

@@ -1,32 +1,35 @@
-+++
-date = "2018-10-10T21:25:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-10-10T21:26:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546222095/media/2018/12/pcLeonidSemenyukPavelVaan.jpg"
-primary_image_credit = "Leonid Semenyuk, Pavel Vaan."
-publishDate = "2018-10-10T21:25:00-04:00"
-related_companies = ["scene/companies/washington-national-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/wiener-staatsoper.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/the-santa-fe-opera.md"]
-slug = "venera-gimadieva"
-title = "Venera Gimadieva"
-website = "https://www.venera-gimadieva.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/SopranoGimadieva/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/VeneraGimadieva"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/venera_gimadieva/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCcwMHzTgRGdLN-y_Q7uyRIw"
-
-+++
+---
+date: "2018-10-10T21:25:00-04:00"
+discipline: Soprano
+lastmod: "2018-10-10T21:26:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546222095/media/2018/12/pcLeonidSemenyukPavelVaan.jpg
+primary_image_credit: Leonid Semenyuk, Pavel Vaan.
+publishDate: "2018-10-10T21:25:00-04:00"
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/the-santa-fe-opera.md
+slug: venera-gimadieva
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/SopranoGimadieva/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/VeneraGimadieva
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/venera_gimadieva/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCcwMHzTgRGdLN-y_Q7uyRIw
+title: Venera Gimadieva
+website: https://www.venera-gimadieva.com/
+_template: "people_single"
+---
 Russian soprano Venera Gimadieva has quickly become one of the most sought-after lyric coloratura sopranos in Europe. Having studied at the St Petersburg Conservatoire and on the young artist programme at the Bolshoi Theatre, Moscow, she now performs regularly at prestigious opera houses and venues across Europe and the USA.
 
 Gimadieva's signature roles include Violetta *La traviata* (the role in which she made her debuts at the Royal Opera House, Covent Garden and Glyndebourne Festival Opera, as well as her US debut with the LA Philharmonic Orchestra at the Hollywood Bowl); the title role of *Lucia di Lammermoor* (Semperoper Dresden, Teatro Real, Madrid and for her debut at the Bayerische Staatsoper) and The Queen of Shemakha *The Golden Cockerel* (La Monnaie, Brussels, Teatro Real, Madrid and for her US stage debut at Santa Fe Opera).

@@ -1,17 +1,20 @@
-+++
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1667353034/media/2022/11/ElizaBonet_JamesMichaelAvance_ic9ntq.jpg"
-primary_image_credit = "James Michael Avance."
-related_companies = ["scene/companies/nashville-opera.md", "scene/companies/the-atlanta-opera.md", "scene/companies/washington-national-opera.md"]
-slug = "eliza-bonet"
-title = "Eliza Bonet"
-website = "https://www.elizabonet.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/liza.with.an.e/"
-
-+++
+---
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1667353034/media/2022/11/ElizaBonet_JamesMichaelAvance_ic9ntq.jpg
+primary_image_credit: James Michael Avance.
+related_companies:
+- scene/companies/nashville-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/washington-national-opera.md
+slug: eliza-bonet
+social_media:
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/liza.with.an.e/
+title: Eliza Bonet
+website: https://www.elizabonet.com/
+_template: "people_single"
+---
 Caribbean-American Mezzo-Soprano Eliza Bonet continues to garner critical praise for her “sparkling, uninhibited delivery” (_SF Classical Music Examiner_) and “full, bright, warm sound” (Mercury News). Ms. Bonet recently made her Carnegie Hall debut singing selections from _Manos Indocumentados_ by Jorge Lockward with the Mimesis Ensemble. The program entitled "A Long Way From Home" explored migration journeys and the trials and tribulations one faces within them.
 
 Most recently, Ms. Bonet made a role and company debut with Opera Southwest as the title role in _Frida -_ an opera based on the life of famed Mexican Artist, Frida Kahlo.

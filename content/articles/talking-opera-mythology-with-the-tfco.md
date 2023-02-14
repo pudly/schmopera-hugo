@@ -1,17 +1,27 @@
-+++
-author = ["authors/greg.md"]
-categories = "Op-ed"
-date = "2016-06-03T10:22:00+01:00"
-lastmod = "2016-06-03T14:15:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464947482057/2016-06-03---King-Arthur.jpg.jpg"
-publishDate = "2016-06-03T13:12:00+01:00"
-related_articles = ["articles/tfco-opera-trek-the-next-generation.md","articles/the-tfco-a-young-peoples-opera-blitz.md"]
-related_companies = ["scene/companies/canadian-childrens-opera-company.md"]
-related_people = ["scene/people/dean-burry.md"]
-short_description = "Day led us through a survey of the similarities between the two subjects. He explained the idea of the sword as mystical icon, how the sword embedded in stone had its roots in Norse mythology, as Odin stuck his sword in the family tree and said only he who could remove it would rule. The dragon slaying, the underdog being worthy, etc., they are all related to the same source material."
-slug = "talking-opera-mythology-with-the-tfco"
-title = "Talking opera &amp; mythology with the TFCO"
-+++
+---
+author:
+- authors/greg.md
+categories: Op-ed
+date: "2016-06-03T10:22:00+01:00"
+lastmod: "2016-06-03T14:15:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464947482057/2016-06-03---King-Arthur.jpg.jpg
+publishDate: "2016-06-03T13:12:00+01:00"
+related_articles:
+- articles/tfco-opera-trek-the-next-generation.md
+- articles/the-tfco-a-young-peoples-opera-blitz.md
+related_companies:
+- scene/companies/canadian-childrens-opera-company.md
+related_people:
+- scene/people/dean-burry.md
+short_description: Day led us through a survey of the similarities between the two
+  subjects. He explained the idea of the sword as mystical icon, how the sword embedded
+  in stone had its roots in Norse mythology, as Odin stuck his sword in the family
+  tree and said only he who could remove it would rule. The dragon slaying, the underdog
+  being worthy, etc., they are all related to the same source material.
+slug: talking-opera-mythology-with-the-tfco
+title: Talking opera &amp; mythology with the TFCO
+_template: article_single
+---
 
 After having an awesome chat with ["the next generation of opera"](/tfco-opera-trek-the-next-generation/) this past Sunday, I eagerly attended a chat presented by the [Toronto Festival of Children's Opera](http://www.canadianchildrensopera.com/content/TFCO.html) called *Swords and Songs*.
 

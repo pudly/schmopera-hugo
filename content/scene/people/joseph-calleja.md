@@ -1,26 +1,34 @@
-+++
-date = "2016-01-06T11:58:00-05:00"
-discipline = "Tenor"
-lastmod = "2016-01-06T11:58:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452099343783/2016-01-05---Joseph-Calleja.jpg.jpg"
-publishDate = "2016-01-06T11:58:00-05:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/los-angeles-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/deutsche-oper-berlin.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/bayerische-staatsoper.md","scene/companies/salzburg-festival.md"]
-slug = "joseph-calleja"
-title = "Joseph Calleja"
-website = "http://josephcalleja.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/JosephCalleja.tenor/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MalteseTenor"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/JosephCallejaTenor"
-+++
+---
+date: "2016-01-06T11:58:00-05:00"
+discipline: Tenor
+lastmod: "2016-01-06T11:58:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452099343783/2016-01-05---Joseph-Calleja.jpg.jpg
+publishDate: "2016-01-06T11:58:00-05:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/royal-opera-house.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/salzburg-festival.md
+slug: joseph-calleja
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/JosephCalleja.tenor/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/MalteseTenor
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/user/JosephCallejaTenor
+title: Joseph Calleja
+website: http://josephcalleja.com/
+_template: "people_single"
+---
 
 Blessed with a golden-age voice that routinely inspires comparisons to “legendary singers from earlier eras: Jussi Björling, Beniamino Gigli, even Enrico Caruso” (Associated Press), Maltese-born Joseph Calleja has quickly become one of the most acclaimed and sought-after tenors today. His expansive discography and frequent appearances on the world’s leading opera and concert stages prompted NPR to hail him as “arguably today’s finest lyric tenor,” and led to his being voted Gramophone magazine’s 2012 Artist of the Year. A Grammy-nominated recording artist for Decca Classics, he recently released his fifth solo album for the label, *Amore*.
 

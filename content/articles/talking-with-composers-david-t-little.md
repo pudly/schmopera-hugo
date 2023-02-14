@@ -1,18 +1,33 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = "2018-10-10T20:55:00-04:00"
-lastmod = "2018-10-12T14:31:00-04:00"
-preamble = "David T. Little's opera, [*Soldier Songs*](https://www.laopera.org/season/1819-season-la-opera-season/soldier-songs/), is being co-presented by the LA Opera with the Ford Theatres and Beth Morrison Projects at the Ford Theatres in LA on Saturday October 13. *Soldier Songs* brings together opera, theater, rock, and film in an examination of the impact of war to the individuals fighting it. "
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539219151632/sqdavidtlittlecolor.jpg.jpg"
-primary_image_credit = "David T. Little, composer of Soldier Songs."
-publishDate = "2018-10-10T20:55:00-04:00"
-related_articles = ["articles/talking-with-composers-omar-daniel.md","articles/talking-with-composers-alexina-louie.md","articles/talking-with-composers-andrew-staniland.md","articles/san-diego-opera-takes-a-detour-with-all-is-calm.md"]
-related_companies = ["scene/companies/los-angeles-opera.md"]
-short_description = "&quot;As the composer, I try to see both the forest and the trees - to feel the small details and the small moments while making sure the text is right, the high notes are being approached in just the right way, and I&#039;m also monitoring the large-scale form while keeping the pacing moving. It&#039;s multi-tasking at an intense level.&quot;"
-slug = "talking-with-composers-david-t-little"
-title = "Talking with composers: David T. Little"
-+++
+---
+author:
+- authors/eva-cahen.md
+categories: Interview
+date: "2018-10-10T20:55:00-04:00"
+lastmod: "2018-10-12T14:31:00-04:00"
+preamble: 'David T. Little''s opera, [*Soldier Songs*](https://www.laopera.org/season/1819-season-la-opera-season/soldier-songs/),
+  is being co-presented by the LA Opera with the Ford Theatres and Beth Morrison Projects
+  at the Ford Theatres in LA on Saturday October 13. *Soldier Songs* brings together
+  opera, theater, rock, and film in an examination of the impact of war to the individuals
+  fighting it. '
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539219151632/sqdavidtlittlecolor.jpg.jpg
+primary_image_credit: David T. Little, composer of Soldier Songs.
+publishDate: "2018-10-10T20:55:00-04:00"
+related_articles:
+- articles/talking-with-composers-omar-daniel.md
+- articles/talking-with-composers-alexina-louie.md
+- articles/talking-with-composers-andrew-staniland.md
+- articles/san-diego-opera-takes-a-detour-with-all-is-calm.md
+related_companies:
+- scene/companies/los-angeles-opera.md
+short_description: '&quot;As the composer, I try to see both the forest and the trees
+  - to feel the small details and the small moments while making sure the text is
+  right, the high notes are being approached in just the right way, and I&#039;m also
+  monitoring the large-scale form while keeping the pacing moving. It&#039;s multi-tasking
+  at an intense level.&quot;'
+slug: talking-with-composers-david-t-little
+title: 'Talking with composers: David T. Little'
+_template: article_single
+---
 
 ### What can you tell us about the process of writing an opera that the average person might find surprising?
 
@@ -26,7 +41,10 @@ As the composer, I try to see both the forest and the trees - to feel the small 
 
 Finding balance with a normal life, supporting your colleagues, and not falling behind on email plus getting the piece done is an ongoing challenge. The big challenge is to transition out of being a student to being a full-time composer. Even though I teach, I consider myself a full-time composer. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539219301113/soldier-songs_hf14sd16_credit_ada-nieuwendijk.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539219301113/soldier-songs_hf14sd16_credit_ada-nieuwendijk.jpg.jpg)
+
 <figcaption>A scene from *Soldier Songs*. Photo by Ada Nieuwendijk.</figcaption>
 </figure>
 
@@ -44,7 +62,10 @@ Every piece that I write is exploring some idea and it usually is an idea that i
 
 There's an old quote by the composer and musicologist Charles Seeger from the 1930s, and I'm paraphrasing crudely, that it's not about whether the art is good but what art is good for. There was the question at that time about what music was good for. My doctoral dissertation is on music and politics. I came out of it thinking that it does matter to me that the art is good.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539219290972/soldier-songs_hf14sd2_credit_ada-nieuwendijk.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539219290972/soldier-songs_hf14sd2_credit_ada-nieuwendijk.jpg.jpg)
+
 <figcaption>A scene from *Soldier Songs*. Photo by Ada Nieuwendijk.</figcaption>
 </figure>
 

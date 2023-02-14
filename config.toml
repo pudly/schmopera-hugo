@@ -26,3 +26,7 @@ theme = "schmopera"
   name = "related_companies"
   toLower = true
   weight = 100.0
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = true

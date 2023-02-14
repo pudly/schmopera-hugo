@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-04-11T20:42:00-04:00"
-lastmod = "2015-04-11T21:17:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428798942950/Walkure-MC-1808_Fotor.jpg.jpg"
-primary_image_credit = "Michael Cooper"
-publishDate = "2015-02-05T09:41:00-05:00"
-related_articles = ["articles/in-review-siegfried.md","articles/in-review-gotterdammerung-at-the-coc.md","articles/die-walkure.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/heidi-melton.md","scene/people/christine-goerke.md","scene/people/aviva-fortunata.md","scene/people/atom-egoyan.md","scene/people/johannes-debus.md"]
-short_description = "Last night I finally got the chance to satisfy my curiosity, by seeing the Canadian Opera Company’s current production of Die Walküre, directed by Atom Egoyan (and running until Feb. 22). Since the 2014/15 season was announced, I had been eager to see Egoyan’s take on Wagner, and to hear Christine Goerke as Brünnhilde. "
-slug = "in-review-die-walkre-at-the-coc"
-title = "In review: Die Walküre at the COC"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-04-11T20:42:00-04:00"
+lastmod: "2015-04-11T21:17:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428798942950/Walkure-MC-1808_Fotor.jpg.jpg
+primary_image_credit: Michael Cooper
+publishDate: "2015-02-05T09:41:00-05:00"
+related_articles:
+- articles/in-review-siegfried.md
+- articles/in-review-gotterdammerung-at-the-coc.md
+- articles/die-walkure.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/heidi-melton.md
+- scene/people/christine-goerke.md
+- scene/people/aviva-fortunata.md
+- scene/people/atom-egoyan.md
+- scene/people/johannes-debus.md
+short_description: 'Last night I finally got the chance to satisfy my curiosity, by
+  seeing the Canadian Opera Company’s current production of Die Walküre, directed
+  by Atom Egoyan (and running until Feb. 22). Since the 2014/15 season was announced,
+  I had been eager to see Egoyan’s take on Wagner, and to hear Christine Goerke as
+  Brünnhilde. '
+slug: in-review-die-walkre-at-the-coc
+title: 'In review: Die Walküre at the COC'
+_template: article_single
+---
 
 <p>
 	Last night I finally got the chance to satisfy my curiosity, by seeing the <a href="http://www.coc.ca/PerformancesAndTickets/1415Season/DieWalkure.aspx" target="_blank">Canadian Opera Company's current production of <i>Die Walküre</i></a>, directed by Atom Egoyan (and running until Feb. 22). Since the 2014/15 season was announced, I had been eager to see Egoyan's take on Wagner, and to hear <a href="http://www.christinegoerke.com/" target="_blank">Christine Goerke</a> as Brünnhilde. The women singing the Valkyries themselves included a few friends and colleagues of mine, which always adds a new level of anticipation. I missed the earlier runs of this production, in 2004 and 2006, making me feel slightly out of some <em>Ring Cycle</em> loop. Maybe it's surprising that Wagner isn't my go-to choice for opera listening, but I've learned never to doubt the mesmerizing effect on me. <em>Die Walküre</em> certainly drew me in; now that I'm one quarter into the <em>Ring Cycle</em> loop, I kind of can't wait to see <em>Siegfried</em>.
@@ -37,7 +52,9 @@ title = "In review: Die Walküre at the COC"
 <p>
 	It never fails: the Act III entrance of the Valkyries gave me instant goosebumps. The terrifying music got my heart rate up, and one by one the eight singers got me more and more giddy. Soprano <a href="https://twitter.com/avivafortunata" target="_blank">Aviva Fortunata</a>, as Helmwige, started off the "ho-jo-to-ho" sequence with what were the most solid and satisfying octaves I've ever heard sung. It didn't stop as<a href="https://twitter.com/rihabchaieb" target="_blank">Rihab Chaieb</a> (Waltraute), <a href="http://www.lindsayammann.com/" target="_blank">Lindsay Ammann</a> (Schwertleite), <a href="http://www.monasomm.com/biographie/" target="_blank">Mona Somm</a> (Ortlinde), Laura Tucker (Siegrune), <a href="http://deanartists.com/artist/megan-latham/" target="_blank">Megan Latham</a> (Rossweisse) and <a href="https://twitter.com/burragec" target="_blank">Charlotte Burrage</a> (Grimgerde) piled onstage in hot dresses and big boots. Musically, it was full of gonads (ironically, I guess), and these Valkyries both intimidated me and made me want to be their friend. All the Valkyries were fantastic at establishing their strong, sisterly bond between each other, earning our sympathy when they were asked to disobey Wotan and protect Brünnhilde. They all deserve credit for negotiating a sketchy-looking set, with long dress trains, carrying dead bodies and fire. Brave, ladies.
 </p>
-<figure data-type="image"><a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428799233371/Walkure-MC-0127_Fotor_Fotor.jpg"><img data-resize-src="http://lh3.googleusercontent.com/kHcS1fPui7Mdfbk9rupCnVvo4bXdgCGoCSIxB4xTrpTMsfSdf2ItZU9m_hI3aRodLUILU79XI55x7O31CXjG_LNHynjYWA" src="http://lh3.googleusercontent.com/kHcS1fPui7Mdfbk9rupCnVvo4bXdgCGoCSIxB4xTrpTMsfSdf2ItZU9m_hI3aRodLUILU79XI55x7O31CXjG_LNHynjYWA=s1200"></a><figcaption>Dimitry Ivashchenko (Hunding) and Heidi Melton (Sieglinde)</figcaption></figure>
+<figure data-type="image"><a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428799233371/Walkure-MC-0127_Fotor_Fotor.jpg"><img data-resize-src="http://lh3.googleusercontent.com/kHcS1fPui7Mdfbk9rupCnVvo4bXdgCGoCSIxB4xTrpTMsfSdf2ItZU9m_hI3aRodLUILU79XI55x7O31CXjG_LNHynjYWA" src="http://lh3.googleusercontent.com/kHcS1fPui7Mdfbk9rupCnVvo4bXdgCGoCSIxB4xTrpTMsfSdf2ItZU9m_hI3aRodLUILU79XI55x7O31CXjG_LNHynjYWA=s1200"></a><figcaption>Dimitry Ivashchenko (Hunding) and Heidi Melton (Sieglinde)
+
+</figcaption></figure>
 <p>
 	The COC Orchestra under Music Director <a href="http://www.coc.ca/AboutTheCOC/CompanyMembers/Orchestra/JohannesDebus.aspx" target="_blank">Johannes Debus</a> played thrillingly all night, starting with those relentless and throbbing tremolos, and finishing with my beloved Ring of Fire music. The orchestra played as one when necessary, and as a chamber group of soloists at other times. I couldn't stop looking at the crowded pit and all the novelty instruments (four Wagner tubas!), and I got a small sense of the hugeness that is this score. In other exciting news, maestro Debus became a father for the first time, just hours before conducting <em>Die Walküre</em>. Congratulations, maestro! #Champ.
 </p>

@@ -1,27 +1,45 @@
-+++
-author = ["authors/molly-simoneau.md"]
-categories = "Review"
-date = 2019-11-03T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "WNO's production of [_The Magic Flute_](https://www.kennedy-center.org/calendar/event/OUOSB) is onstage through November 23."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572810634/media/2019/11/sqTenorDavidPortilloperformstheroleofTaminoinWNOsTheMagicFlute_ujipfw.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = ["scene/companies/washington-national-opera.md"]
-related_people = ["scene/people/kathryn-lewek.md", "scene/people/michael-adams.md", "scene/people/david-portillo.md", "scene/people/david-cangelosi.md", "scene/people/wei-wu.md", "scene/people/sydney-mancasola.md"]
-short_description = "A cast of charismatic singing actors with impeccable comic timing to go with their across-the-board excellent Mozartean singing are the whipped cream and cherry on top of this operatic ice cream sundae."
-slug = "treat-yourself-to-wnos-magic-flute"
-title = "Treat yourself to WNO's Magic Flute"
-youtube_url = ""
+---
+author:
+  - authors/molly-simoneau.md
+categories: Review
+date: '2019-11-03T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  WNO's production of [_The Magic
+  Flute_](https://www.kennedy-center.org/calendar/event/OUOSB) is onstage
+  through November 23.
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1572810634/media/2019/11/sqTenorDavidPortilloperformstheroleofTaminoinWNOsTheMagicFlute_ujipfw.jpg
+primary_image_credit: ''
+related_articles: []
+related_companies:
+  - scene/companies/washington-national-opera.md
+related_people:
+  - scene/people/kathryn-lewek.md
+  - scene/people/michael-adams.md
+  - scene/people/david-portillo.md
+  - scene/people/david-cangelosi.md
+  - scene/people/wei-wu.md
+  - scene/people/sydney-mancasola.md
+short_description: >-
+  A cast of charismatic singing actors with impeccable comic timing to go with
+  their across-the-board excellent Mozartean singing are the whipped cream and
+  cherry on top of this operatic ice cream sundae.
+slug: treat-yourself-to-wnos-magic-flute
+title: Treat yourself to WNO's Magic Flute
+youtube_url: ''
+_template: article_single
+---
 
-+++
 I have vivid memories of reading Maurice Sendak's classic [_Where the Wild Things Are_](https://en.wikipedia.org/wiki/Where_the_Wild_Things_Are) with my parents as a child and falling in love with the beloved illustrator's not-so-scary monsters. I think it would be hard to find a child of my generation who doesn't have a warm nostalgia for Sendak's works. On Saturday night, at the Kennedy Center's Opera House, when the curtain rose on the [Sendak-designed production of _The Magic Flute_](https://www.kennedy-center.org/calendar/event/OUOSB), I was immediately transported back to that childlike place, gazing on a gigantic Sendak story book come to life.
 
 The production which premiered in Houston in 1980, and now directed for Washington National Opera by Christopher Mattaliano, is a joyful, imaginative, detailed, whimsical, and outright beautiful telling of Mozart's fairy tale.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572810667/media/2019/11/AlexandriaShiner1stLadyDeborahNansteel2ndLadyMeredithArwady3rdLadyMichaelAdamsPapagenoDavidPortilloTaminoinWNOsTheMagicFlute_lbdvfi.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572810667/media/2019/11/AlexandriaShiner1stLadyDeborahNansteel2ndLadyMeredithArwady3rdLadyMichaelAdamsPapagenoDavidPortilloTaminoinWNOsTheMagicFlute_lbdvfi.jpg)
 
 <figcaption>Alexandra Shiner (1st Lady), Deborah Nansteel (2nd Lady), Meredith Arwady (3rd Lady), David Portillo (Tamino) and Michael Adams (Papageno) in WNO's production of The Magic Flute, 2019. Photo: Scott Suchman.</figcaption>  
 </figure>
@@ -32,7 +50,9 @@ A cast of charismatic singing actors with impeccable comic timing to go with the
 
 In any halfway decent _Flute_, Papageno should be a scene-stealer, and baritone Michael Adams both stole scenes and won over hearts in the role. From his first entrance, in the spectacular costume designed by Sendak, he charmed the opera house. His mastery of the clownish physical humor called for by the role made him one to watch, even when he wasn't the focal point of a scene.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572810780/media/2019/11/KathrynLewekQueenoftheNightSydneyMancasolaPaminaintheWNOsTheMagicFlute_dkvrer.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572810780/media/2019/11/KathrynLewekQueenoftheNightSydneyMancasolaPaminaintheWNOsTheMagicFlute_dkvrer.jpg)
 
 <figcaption>Kathryn Lewek (Queen of the Night) and Sydney Mancasola (Pamina) in WNO's production of The Magic Flute, 2019. Photo: Scott Suchman.</figcaption>  
 </figure>
@@ -41,7 +61,9 @@ Just the way he fidgeted, or became distracted, or entertained himself when he w
 
 And how refreshing it is to see a mature character tenor in the role of Monostatos. Cangelosi sang with a bright, pingy tone, and seemed to be having so much fun with the silly role.  Thankfully, Andrew Porter's translation smoothed over the more problematic issues with the character, and Cangelosi played him as a cartoonish scoundrel, akin to [Wile E. Coyotee](https://en.wikipedia.org/wiki/Wile_E._Coyote_and_the_Road_Runner).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572810804/media/2019/11/SydneyMancasolaPaminaDavidPortilloTaminointheWNOsTheMagicFlute_qbdj5v.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572810804/media/2019/11/SydneyMancasolaPaminaDavidPortilloTaminointheWNOsTheMagicFlute_qbdj5v.jpg)
 
 <figcaption>Sydney Mancasola (Pamina) and David Portillo (Tamino) in WNO's production of The Magic Flute, 2019. Photo: Scott Suchman.</figcaption>  
 </figure>
@@ -52,7 +74,9 @@ Bass [Wei Wu](/scene/people/wei-wu/) has become a familiar face on the WNO stage
 
 Alexandria Shiner, Deborah Nansteel, and Meredith Arwady, with their spears and robust voices may have been three Valkyries just as well as Three Ladies, and they seemed to be having the time of their lives clowning about in their wonderfully absurd costumes and harassing Papageno.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572810832/media/2019/11/TheWashingtonNationalOperapresentsTheMagicFlute_s9ld1v.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572810832/media/2019/11/TheWashingtonNationalOperapresentsTheMagicFlute_s9ld1v.jpg)
 
 <figcaption>Washington National Opera presents The Magic Flute, 2019. Photo: Scott Suchman.</figcaption>  
 </figure>

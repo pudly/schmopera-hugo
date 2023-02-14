@@ -1,14 +1,16 @@
-+++
-date = "2015-05-14T10:18:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-05-14T10:18:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431613088775/0003.jpg.jpg"
-publishDate = "2015-05-14T10:18:00-04:00"
-related_companies = ["scene/companies/tapestry-opera.md"]
-slug = "james-mclean"
-title = "James McLean"
-website = "http://www.jamesmclean.de/"
-+++
+---
+date: "2015-05-14T10:18:00-04:00"
+discipline: Tenor
+lastmod: "2015-05-14T10:18:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431613088775/0003.jpg.jpg
+publishDate: "2015-05-14T10:18:00-04:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+slug: james-mclean
+title: James McLean
+website: http://www.jamesmclean.de/
+_template: "people_single"
+---
 
 James McLean grew up in the city of Toronto, where he began his solo career with the Toronto Symphony, under the baton of Sir Andrew Davis, the Toronto Mendelssohn Choir and the Canadian Opera Company.
 

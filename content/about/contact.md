@@ -1,6 +1,5 @@
 ---
 title: Contact us
-
 ---
 ## Stay in touch!
 

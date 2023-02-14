@@ -1,23 +1,26 @@
-+++
-date = "2015-04-07T16:30:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-07T16:31:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428438597000/DeborahVoigt-pc-DarioAcosta.jpg.jpg"
-primary_image_credit = "Dario Acosta"
-publishDate = "2015-04-07T16:30:00-04:00"
-related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-dallas-opera.md"]
-slug = "deborah-voigt"
-title = "Deborah Voigt"
-website = "http://deborahvoigt.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/DeborahVoigt"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/debvoigt"
-+++
+---
+date: "2015-04-07T16:30:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-07T16:31:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428438597000/DeborahVoigt-pc-DarioAcosta.jpg.jpg
+primary_image_credit: Dario Acosta
+publishDate: "2015-04-07T16:30:00-04:00"
+related_companies:
+- scene/companies/san-francisco-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/the-dallas-opera.md
+slug: deborah-voigt
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/DeborahVoigt
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/debvoigt
+title: Deborah Voigt
+website: http://deborahvoigt.com/
+_template: "people_single"
+---
 
 <p>
 	Deborah Voigt is increasingly recognized as one of the world's most versatile singers and one of music's most endearing personalities. Through her performances and television appearances, she is known for the singular power and beauty of her voice, as well as for her captivating stage presence. Having made her name as a leading dramatic soprano, she is internationally revered for her performances in the operas of Wagner, Strauss, and more, and is also an active recitalist and performer of Broadway standards and popular songs. Besides boasting an extensive discography, she appears regularly as both performer and host in the Metropolitan Opera's Live in HD series, which is transmitted live to movie theaters around the world.

@@ -1,14 +1,16 @@
-+++
-date = "2015-10-28T11:34:00-04:00"
-lastmod = "2015-10-28T11:35:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446046542990/OSW.jpg.jpg"
-publishDate = "2015-10-28T11:35:00-04:00"
-related_people = ["scene/people/anthony-barrese.md"]
-slug = "opera-southwest"
-title = "Opera Southwest"
-type_of_company = "Opera Company"
-website = "http://www.operasouthwest.org/"
-+++
+---
+date: "2015-10-28T11:34:00-04:00"
+lastmod: "2015-10-28T11:35:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446046542990/OSW.jpg.jpg
+publishDate: "2015-10-28T11:35:00-04:00"
+related_people:
+- scene/people/anthony-barrese.md
+slug: opera-southwest
+title: Opera Southwest
+type_of_company: Opera Company
+website: http://www.operasouthwest.org/
+_template: "company_single"
+---
 
 ## Mission
 

@@ -1,17 +1,34 @@
-+++
-author = ["authors/emily-peragine.md"]
-categories = "Op-ed"
-date = "2016-12-01T09:39:00-05:00"
-lastmod = "2017-08-02T21:42:00-04:00"
-preamble = "New York-based soprano Emily Peragine was the subject of one of our [first-ever interviews](/spotlight-on-emily-peragine/). Now, she's a first-time contributor to Schmopera, so let us know if you want her to write some more. If you/your friend are interested in writing for us, get in touch at [contribute@schmopera.com.](mailto:contribute@schmopera.com)"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501724574422/2017-08-02---Day-job.jpg.jpg"
-publishDate = "2016-12-02T06:17:00-05:00"
-related_articles = ["articles/giving-up-caring-too-little-and-other-taboos.md","articles/in-defence-of-singers.md","articles/spotlight-on-emily-peragine.md","articles/stephen-bell-singer-by-night-coffeeshop-creative-by-day.md","articles/selfdoubt-the-accidental-manual.md"]
-related_people = ["scene/people/emily-peragine.md"]
-short_description = "But for real...for some reason, I have found that the &quot;day job&quot; has a negative connotation within the performing arts/musician community. As if accepting the day job is a form of &quot;giving up,&quot; a &quot;distraction.&quot; That because I am focusing my attentions on this alternative to support myself, (and you know… feed myself,) that somehow I have lost focus and am not giving the dream my all, that I am in a sense... throwing in the towel, or &quot;not working hard enough.&quot; "
-slug = "in-defense-of-the-day-job-"
-title = "In defense of the &quot;day&quot; job "
-+++
+---
+author:
+- authors/emily-peragine.md
+categories: Op-ed
+date: "2016-12-01T09:39:00-05:00"
+lastmod: "2017-08-02T21:42:00-04:00"
+preamble: New York-based soprano Emily Peragine was the subject of one of our [first-ever
+  interviews](/spotlight-on-emily-peragine/). Now, she's a first-time contributor
+  to Schmopera, so let us know if you want her to write some more. If you/your friend
+  are interested in writing for us, get in touch at [contribute@schmopera.com.](mailto:contribute@schmopera.com)
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501724574422/2017-08-02---Day-job.jpg.jpg
+publishDate: "2016-12-02T06:17:00-05:00"
+related_articles:
+- articles/giving-up-caring-too-little-and-other-taboos.md
+- articles/in-defence-of-singers.md
+- articles/spotlight-on-emily-peragine.md
+- articles/stephen-bell-singer-by-night-coffeeshop-creative-by-day.md
+- articles/selfdoubt-the-accidental-manual.md
+related_people:
+- scene/people/emily-peragine.md
+short_description: 'But for real...for some reason, I have found that the &quot;day
+  job&quot; has a negative connotation within the performing arts/musician community.
+  As if accepting the day job is a form of &quot;giving up,&quot; a &quot;distraction.&quot;
+  That because I am focusing my attentions on this alternative to support myself,
+  (and you know… feed myself,) that somehow I have lost focus and am not giving the
+  dream my all, that I am in a sense... throwing in the towel, or &quot;not working
+  hard enough.&quot; '
+slug: in-defense-of-the-day-job-
+title: 'In defense of the &quot;day&quot; job '
+_template: article_single
+---
 
 Some of us singers are lucky enough to emerge from undergrad/grad-school and jump straight
 into young artist programs, performance diplomas, summer stock - gigs that not only pay the

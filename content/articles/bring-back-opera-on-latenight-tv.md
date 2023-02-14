@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-05-18T11:48:00-04:00"
-lastmod = "2015-05-23T23:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432405067979/ReneeLettermanSquare.jpg.jpg"
-publishDate = "2015-05-23T14:18:00-04:00"
-related_articles = ["articles/netflix-why-not-opera.md","articles/roundup2014.md"]
-related_people = ["scene/people/renee-fleming.md"]
-short_description = "In an earlier post, I was hunting for operatic tributes to David Letterman as his retirement quickly approaches. Few and far between as they may be, there seems to have been a definite &quot;Golden Age&quot; of opera on late-night television. From the 1950s to the 80s, folks like Plácido Domingo, Marilyn Horne, Maria Callas, Leontyne Price, Richard Tucker, Martina Arroyo, and Beverly Sills made appearances on late-night shows with Johnny Carson, Ed Sullivan, and Merv Griffin."
-slug = "bring-back-opera-on-latenight-tv"
-title = "Bring back opera on late-night TV"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-05-18T11:48:00-04:00"
+lastmod: "2015-05-23T23:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432405067979/ReneeLettermanSquare.jpg.jpg
+publishDate: "2015-05-23T14:18:00-04:00"
+related_articles:
+- articles/netflix-why-not-opera.md
+- articles/roundup2014.md
+related_people:
+- scene/people/renee-fleming.md
+short_description: In an earlier post, I was hunting for operatic tributes to David
+  Letterman as his retirement quickly approaches. Few and far between as they may
+  be, there seems to have been a definite &quot;Golden Age&quot; of opera on late-night
+  television. From the 1950s to the 80s, folks like Plácido Domingo, Marilyn Horne,
+  Maria Callas, Leontyne Price, Richard Tucker, Martina Arroyo, and Beverly Sills
+  made appearances on late-night shows with Johnny Carson, Ed Sullivan, and Merv Griffin.
+slug: bring-back-opera-on-latenight-tv
+title: Bring back opera on late-night TV
+_template: article_single
+---
 
 In an earlier post, I was hunting for operatic tributes to David Letterman as his retirement quickly approaches. Few and far between as they may be, there seems to have been a definite "Golden Age" of opera on late-night television. From the 1950s to the 80s, folks like Plácido Domingo, Marilyn Horne, Maria Callas, Leontyne Price, Richard Tucker, Martina Arroyo, and Beverly Sills made appearances on late-night shows with Johnny Carson, Ed Sullivan, and Merv Griffin. Today's late-night hosts don't chat as much with opera singers, save for Kristin Chenoweth on Conan, Renée Fleming singing for Letterman's Top 10, Josh Groban singing Kanye West tweets on Jimmy Kimmel. Oh, and [Nathan Gunn talking Papageno with Stephen Colbert](http://www.ovguide.com/tv_episode/the-colbert-report-season-4-episode-61-nathan-gunn-365962).
 

@@ -1,32 +1,32 @@
-+++
-date = "2015-04-18T18:54:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-18T18:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1657552777/media/2022/07/ReneeFleming_ScenarioTwo_uksp3p.jpg"
-primary_image_credit = "Scenario Two."
-publishDate = "2015-04-18T18:54:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/eastman-opera-theatre.md"]
-slug = "renee-fleming"
-title = "Renée Fleming"
-website = "https://reneefleming.com/home/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ReneeFlemingMusic?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/reneesmusings"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/reneeflemingmusic/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/ReneeFlemingTV"
-
-+++
+---
+date: "2015-04-18T18:54:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-18T18:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1657552777/media/2022/07/ReneeFleming_ScenarioTwo_uksp3p.jpg
+primary_image_credit: Scenario Two.
+publishDate: "2015-04-18T18:54:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/eastman-opera-theatre.md
+slug: renee-fleming
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/ReneeFlemingMusic?fref=ts
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/reneesmusings
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/reneeflemingmusic/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/user/ReneeFlemingTV
+title: Renée Fleming
+website: https://reneefleming.com/home/
+_template: "people_single"
+---
 Renée Fleming is one of the most highly acclaimed singers of our time, performing on the stages of the world’s greatest opera houses and concert halls. Honored with four Grammy® awards and the US National Medal of Arts, Renée has sung for momentous occasions from the Nobel Peace Prize ceremony to the Diamond Jubilee Concert for Queen Elizabeth II at Buckingham Palace. In 2014, she brought her voice to vast new audience as the first classical artist ever to sing The Star-Spangled Banner at the Super Bowl. In 2008 Renée was the first woman in the 125-year history of the Metropolitan Opera to solo headline an opening night gala.
 
 Known for bringing new audiences to classical music and opera, Renée has starred in and hosted an array of television and radio broadcasts, including _The Met: Live in HD_ and _Live from Lincoln Center_. Her voice is featured on the soundtracks of Best Picture Oscar winners _The Shape of Water_ and _The Lord of the Rings: The Return of the King_. This seventeen-time Grammy nominated artist has recorded everything from complete operas and song recitals to jazz and indie rock. During the pandemic, Renée’s performances on digital platforms have included streamed online concerts for the Metropolitan Opera, the Kennedy Center, Lyric Opera of Chicago, LA Opera, and the Baltimore Symphony Orchestra.

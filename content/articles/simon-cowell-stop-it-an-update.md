@@ -1,15 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2014-03-15T23:33:00-04:00"
-lastmod = "2015-04-26T00:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430021215555/AmiraPav-1024x576.jpg.jpg"
-publishDate = "2014-03-15T23:33:00-04:00"
-related_articles = ["articles/simon-cowell-stop-it.md","articles/baby-opera-singers-getting-angry-for-the-right-reasons.md"]
-short_description = "Yesterday I posted a link to a ridiculous track from 10-year-old Amira Willighagen&#039;s new album, produced by Simon Cowell&#039;s label, Syco Entertainment. The track was a duet version of Puccini&#039;s &quot;Nessun dorma,&quot; which featured the dubbed and transposed voice of Luciano Pavarotti, taken without permission from one of his studio recordings of the aria."
-slug = "simon-cowell-stop-it-an-update"
-title = "Simon Cowell, stop it: An Update"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2014-03-15T23:33:00-04:00"
+lastmod: "2015-04-26T00:07:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430021215555/AmiraPav-1024x576.jpg.jpg
+publishDate: "2014-03-15T23:33:00-04:00"
+related_articles:
+- articles/simon-cowell-stop-it.md
+- articles/baby-opera-singers-getting-angry-for-the-right-reasons.md
+short_description: Yesterday I posted a link to a ridiculous track from 10-year-old
+  Amira Willighagen&#039;s new album, produced by Simon Cowell&#039;s label, Syco
+  Entertainment. The track was a duet version of Puccini&#039;s &quot;Nessun dorma,&quot;
+  which featured the dubbed and transposed voice of Luciano Pavarotti, taken without
+  permission from one of his studio recordings of the aria.
+slug: simon-cowell-stop-it-an-update
+title: 'Simon Cowell, stop it: An Update'
+_template: article_single
+---
 
 [Yesterday I posted a link to a ridiculous track](http://schmopera.com/simon-cowell-stop-it/) from 10-year-old Amira Willighagen's new album, produced by Simon Cowell's label, [Syco Entertainment](http://www.simoncowellonline.com/syco/4579192368).  The track was a duet version of Puccini's "Nessun dorma," which featured the dubbed and transposed voice of Luciano Pavarotti, taken without permission from one of his studio recordings of the aria.
 

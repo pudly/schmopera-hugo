@@ -1,17 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2015-11-09T16:57:00-05:00"
-lastmod = "2015-11-09T23:50:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447108720930/2015-11-09%20-%20SimoneRick%20-%20Square.jpg.jpg"
-primary_image_credit = "Soprano Simone Osborne (photo by Bo Huang) and Rick Mercer."
-publishDate = "2015-11-10T08:00:00-05:00"
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/simone-osborne.md"]
-short_description = "November is a great month for the Toronto Symphony Orchestra, and I figured I&#039;d share a couple of my picks for the coming weeks."
-slug = "short-list-this-month-with-the-tso"
-title = "Short list: this month with the TSO"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2015-11-09T16:57:00-05:00"
+lastmod: "2015-11-09T23:50:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447108720930/2015-11-09%20-%20SimoneRick%20-%20Square.jpg.jpg
+primary_image_credit: Soprano Simone Osborne (photo by Bo Huang) and Rick Mercer.
+publishDate: "2015-11-10T08:00:00-05:00"
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/simone-osborne.md
+short_description: November is a great month for the Toronto Symphony Orchestra, and
+  I figured I&#039;d share a couple of my picks for the coming weeks.
+slug: short-list-this-month-with-the-tso
+title: 'Short list: this month with the TSO'
+_template: article_single
+---
 
 November is a great month for the [Toronto Symphony Orchestra](/scene/companies/toronto-symphony-orchestra/), and I figured I'd share a couple of my picks for the coming weeks.
 

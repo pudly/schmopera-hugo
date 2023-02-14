@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2018-06-14T17:25:00-04:00"
-lastmod = "2018-06-15T08:41:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529011428617/sqNR-16-05-26-167-bw.jpg.jpg"
-primary_image_credit = "Photo: Nick Rutter."
-publishDate = "2018-06-14T17:25:00-04:00"
-related_articles = ["articles/talking-with-singers-heloise-werner.md","articles/in-review-scenes-from-the-end.md"]
-related_people = ["scene/people/heloise-werner.md"]
-short_description = "Werner is a Paris-born soprano with an extraordinary predisposition for creativity. Aided by a short gig as an au pair in the UK, and studying music at Cambridge University, the native French-speaker now also speaks fluent English. It&#039;s her bilingualism that inspired The Other Side of the Sea, a piece which uses the metaphor of the sea &quot;to explore the tension of an identity split linguistically&quot;."
-slug = "dont-miss-the-other-side-of-the-sea"
-title = "Don&#039;t miss: The Other Side of the Sea"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2018-06-14T17:25:00-04:00"
+lastmod: "2018-06-15T08:41:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529011428617/sqNR-16-05-26-167-bw.jpg.jpg
+primary_image_credit: 'Photo: Nick Rutter.'
+publishDate: "2018-06-14T17:25:00-04:00"
+related_articles:
+- articles/talking-with-singers-heloise-werner.md
+- articles/in-review-scenes-from-the-end.md
+related_people:
+- scene/people/heloise-werner.md
+short_description: Werner is a Paris-born soprano with an extraordinary predisposition
+  for creativity. Aided by a short gig as an au pair in the UK, and studying music
+  at Cambridge University, the native French-speaker now also speaks fluent English.
+  It&#039;s her bilingualism that inspired The Other Side of the Sea, a piece which
+  uses the metaphor of the sea &quot;to explore the tension of an identity split linguistically&quot;.
+slug: dont-miss-the-other-side-of-the-sea
+title: 'Don&#039;t miss: The Other Side of the Sea'
+_template: article_single
+---
 
 Following the critical acclaim of her 2016 one-woman opera, [*Scenes From the End*](/in-review-scenes-from-the-end/) [Héloïse Werner](/talking-with-singers-heloise-werner/) is set to present her new work for voice and cello, *The Other Side of the Sea*.
 

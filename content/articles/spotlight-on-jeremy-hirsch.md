@@ -1,18 +1,49 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-07-21T13:45:00-04:00"
-lastmod = "2017-11-29T21:53:00-05:00"
-preamble = "American baritone [Jeremy Hirsch](/scene/people/jeremy-hirsch) impressed me last season when he doubled up as both Bottom and Peter Quince in Britten's *A Midsummer Night's Dream* at [Opera on the Avalon](/scene/companies/opera-on-the-avalon/). Jeremy is comfortable on the opera stage, keeping busy with a mix of Mozart and new opera; he also has a great passion for song repertoire. He just finished several weeks at [Songfest](http://www.songfest.us/) (hi, Martin Katz!), and he has sung recitals at New York's Vanderbilt Manson, at the Romanian Embassy, and he even brought a tribute to Marc Blitzstein's music to Halifax, Nova Scotia. \n\nYou can hear Jeremy in the spring of 2016, as he creates the title role in Felix Jarrar's new opera, *The Fall of the House of Usher: a Chamber Opera in Four Scenes* (adapted from Edgar Allan Poe's short story of the same name). Jeremy gave me a wonderfully frank interview about respecting composers, and respecting the self."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512009363357/2017-11-30---Hirsch.jpg.jpg"
-publishDate = "2015-07-23T08:09:00-04:00"
-related_articles = ["articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-christopher-james-ray.md","articles/spotlight-on-lida-szkwarek.md","articles/spotlight-on-peter-bass.md","articles/spotlight-on-kelsey-vicary.md","articles/spotlight-on-michelle-siemens.md","articles/spotlight-on-emily-peragine.md","articles/spotlight-on-maeve-palmer.md","articles/spotlight-on-keith-lam.md","articles/spotlight-on-aidan-ferguson.md","articles/cautiously-aspirational-book-of-dreams.md","articles/review-alice-and-the-patriarchy.md"]
-related_companies = ["scene/companies/opera-on-the-avalon.md"]
-related_people = ["scene/people/jeremy-hirsch.md"]
-short_description = "American baritone Jeremy Hirsch impressed me last season when he doubled up as both Bottom and Peter Quince in Britten&#039;s A Midsummer Night&#039;s Dream at Opera on the Avalon. Jeremy is comfortable on the opera stage, keeping busy with a mix of Mozart and new opera; he also has a great passion for song repertoire."
-slug = "spotlight-on-jeremy-hirsch"
-title = "Spotlight on: Jeremy Hirsch"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-07-21T13:45:00-04:00"
+lastmod: "2017-11-29T21:53:00-05:00"
+preamble: "American baritone [Jeremy Hirsch](/scene/people/jeremy-hirsch) impressed
+  me last season when he doubled up as both Bottom and Peter Quince in Britten's *A
+  Midsummer Night's Dream* at [Opera on the Avalon](/scene/companies/opera-on-the-avalon/).
+  Jeremy is comfortable on the opera stage, keeping busy with a mix of Mozart and
+  new opera; he also has a great passion for song repertoire. He just finished several
+  weeks at [Songfest](http://www.songfest.us/) (hi, Martin Katz!), and he has sung
+  recitals at New York's Vanderbilt Manson, at the Romanian Embassy, and he even brought
+  a tribute to Marc Blitzstein's music to Halifax, Nova Scotia. \n\nYou can hear Jeremy
+  in the spring of 2016, as he creates the title role in Felix Jarrar's new opera,
+  *The Fall of the House of Usher: a Chamber Opera in Four Scenes* (adapted from Edgar
+  Allan Poe's short story of the same name). Jeremy gave me a wonderfully frank interview
+  about respecting composers, and respecting the self."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512009363357/2017-11-30---Hirsch.jpg.jpg
+publishDate: "2015-07-23T08:09:00-04:00"
+related_articles:
+- articles/spotlight-on-charlotte-knight.md
+- articles/spotlight-on-danielle-macmillan.md
+- articles/spotlight-on-christopher-james-ray.md
+- articles/spotlight-on-lida-szkwarek.md
+- articles/spotlight-on-peter-bass.md
+- articles/spotlight-on-kelsey-vicary.md
+- articles/spotlight-on-michelle-siemens.md
+- articles/spotlight-on-emily-peragine.md
+- articles/spotlight-on-maeve-palmer.md
+- articles/spotlight-on-keith-lam.md
+- articles/spotlight-on-aidan-ferguson.md
+- articles/cautiously-aspirational-book-of-dreams.md
+- articles/review-alice-and-the-patriarchy.md
+related_companies:
+- scene/companies/opera-on-the-avalon.md
+related_people:
+- scene/people/jeremy-hirsch.md
+short_description: American baritone Jeremy Hirsch impressed me last season when he
+  doubled up as both Bottom and Peter Quince in Britten&#039;s A Midsummer Night&#039;s
+  Dream at Opera on the Avalon. Jeremy is comfortable on the opera stage, keeping
+  busy with a mix of Mozart and new opera; he also has a great passion for song repertoire.
+slug: spotlight-on-jeremy-hirsch
+title: 'Spotlight on: Jeremy Hirsch'
+_template: article_single
+---
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

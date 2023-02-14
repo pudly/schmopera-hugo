@@ -1,22 +1,32 @@
-+++
-author = ["authors/matthew-hilton.md"]
-categories = "Humour"
-date = 2021-03-31T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1617231419/media/2021/03/sqHowNotToWriteAnOpera_gtmlop.jpg"
-primary_image_credit = ""
-related_articles = ["articles/how-to-really-learn-a-song.md", "articles/how-to-empathize-with-singers.md", "articles/how-to-throw-a-funeral-for-a-viola.md"]
-related_companies = []
-related_people = []
-short_description = "Time passed, life changed. But Mau Mau - the Opera had bitten deeper than I thought. I unburied all I'd written: the blocks of text, the scattered notes and sketches, laid them out, re-sequenced them, dropped and added and wrote a second version."
-slug = "how-not-to-write-an-opera"
-title = "How not to write an opera"
-youtube_url = ""
+---
+author:
+  - authors/matthew-hilton.md
+categories: Humour
+date: '2021-03-31T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1617231419/media/2021/03/sqHowNotToWriteAnOpera_gtmlop.jpg
+primary_image_credit: ''
+related_articles:
+  - articles/how-to-really-learn-a-song.md
+  - articles/how-to-empathize-with-singers.md
+  - articles/how-to-throw-a-funeral-for-a-viola.md
+related_companies: []
+related_people: []
+short_description: >-
+  Time passed, life changed. But Mau Mau - the Opera had bitten deeper than I
+  thought. I unburied all I'd written: the blocks of text, the scattered notes
+  and sketches, laid them out, re-sequenced them, dropped and added and wrote a
+  second version.
+slug: how-not-to-write-an-opera
+title: How not to write an opera
+youtube_url: ''
+_template: article_single
+---
 
-+++
 I don't know how it is with you, but when I get hit by heartbreak I busy myself with charity work. So there I was, unpacking books at the Amnesty International fair in Carcassonne, France, when right in front of me in silver letters on navy blue was: _Gangs & Countergangs_.
 
 I pulled the book out of the box; it opened at a photograph of a bunch of people posing with what looked like fake weapons. They looked as though they had dressed from a thrift shop: crumpled hats, raincoats tied with string and floppy trousers, posed like a corny sculpture in memory of something or other. Something in me clicked. I said: _opera_.

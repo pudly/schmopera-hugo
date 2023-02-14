@@ -1,16 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-08-16T10:19:00-04:00"
-lastmod = "2017-08-18T18:25:00-04:00"
-preamble = "Next month, [re:Naissance Opera](/scene/companies/renaissance/) & BC Living Arts present an adaptation of Handel's *Acis & Galatea* that's both contemporary, and century-spanning. [*Acis & Galatea: A Gender Liberation Opera*](https://www.reopera.com/acis-galatea) plays at the Orpheum Annex Theatre in Vancouver, **September 15-17**; Alan Corbishley directs the cast of Debi Wong (Acis), Rachel Fenlon (Galatea), and Peter Monaghan (Polyphemus).\n\n\"Our re-conceptualization, is set in the 19th but both Acis and Galatea are portrayed by and depicted as women.\" Handel's story of the two lovers pulled apart by Galatea's jealous admirer, is re-imagined as a tale of two people who search for a community that accepts their expressions of gender and sexual orientation, and of Polyphemus' violent opposition to their choices and love.\n\nWe spoke with Wong (who also adapted the libretto) and Corbishley about re:Naissance's *Acis & Galatea*, and the intertwined histories of opera and the LGBTQ+ communities."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502928514801/2017-08-16---Square---Acis-Galatea-Poster.jpg.jpg"
-publishDate = "2017-08-18T09:39:00-04:00"
-related_companies = ["scene/companies/renaissance.md"]
-short_description = "&quot;In the world of opera and classical music, we tell a version of history that neglects LGBTQ+ people (as well as women and people of colour) and this is not because these communities and identities did not exist. It&#039;s because they were not treated equally and therefore were not as prominent in society or they assumed or feigned other identities to fit into society. Today, we embrace and celebrate diverse identities, but this is not reflected enough in our storytelling and programming in the operatic world.&quot;"
-slug = "dont-miss-acis-galatea-a-gender-liberation-opera"
-title = "Don&#039;t miss Acis &amp; Galatea: A Gender Liberation Opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-08-16T10:19:00-04:00"
+lastmod: "2017-08-18T18:25:00-04:00"
+preamble: |-
+  Next month, [re:Naissance Opera](/scene/companies/renaissance/) & BC Living Arts present an adaptation of Handel's *Acis & Galatea* that's both contemporary, and century-spanning. [*Acis & Galatea: A Gender Liberation Opera*](https://www.reopera.com/acis-galatea) plays at the Orpheum Annex Theatre in Vancouver, **September 15-17**; Alan Corbishley directs the cast of Debi Wong (Acis), Rachel Fenlon (Galatea), and Peter Monaghan (Polyphemus).
+
+  "Our re-conceptualization, is set in the 19th but both Acis and Galatea are portrayed by and depicted as women." Handel's story of the two lovers pulled apart by Galatea's jealous admirer, is re-imagined as a tale of two people who search for a community that accepts their expressions of gender and sexual orientation, and of Polyphemus' violent opposition to their choices and love.
+
+  We spoke with Wong (who also adapted the libretto) and Corbishley about re:Naissance's *Acis & Galatea*, and the intertwined histories of opera and the LGBTQ+ communities.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502928514801/2017-08-16---Square---Acis-Galatea-Poster.jpg.jpg
+publishDate: "2017-08-18T09:39:00-04:00"
+related_companies:
+- scene/companies/renaissance.md
+short_description: '&quot;In the world of opera and classical music, we tell a version
+  of history that neglects LGBTQ+ people (as well as women and people of colour) and
+  this is not because these communities and identities did not exist. It&#039;s because
+  they were not treated equally and therefore were not as prominent in society or
+  they assumed or feigned other identities to fit into society. Today, we embrace
+  and celebrate diverse identities, but this is not reflected enough in our storytelling
+  and programming in the operatic world.&quot;'
+slug: dont-miss-acis-galatea-a-gender-liberation-opera
+title: 'Don&#039;t miss Acis &amp; Galatea: A Gender Liberation Opera'
+_template: article_single
+---
 
 ## What can you tell us about your newly adapted libretto for *Acis and Galatea*, and how it fits into the musical world created by Handel?
 

@@ -1,15 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-12-22T19:22:00-05:00"
-lastmod = "2015-12-28T11:23:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451315235708/2015-12-28---Netflix.jpg.jpg"
-publishDate = "2015-12-28T10:45:00-05:00"
-related_articles = ["articles/netflix-why-not-opera.md","articles/online-music-is-obscuring-opera.md","articles/a-tale-of-two-audiences.md","articles/yes-please-jonas-kaufmann-on-the-big-screen.md","articles/great-ideas-a-streamable-opera-miniseries.md","articles/pavarottis-nessun-dorma-the-trump-campaign.md","articles/the-brief-history-of-madefortv-opera.md"]
-short_description = "The idea that companies are teasing, luring new opera lovers to their theatres with a taste of Verdi online, is outdated. Opera will begin to be consumed in video form only; purists can argue all they want that this is a lesser experience (and I&#039;d agree with them), but the argument won&#039;t persuade people who aren&#039;t already into opera. "
-slug = "theres-still-no-opera-on-netflix"
-title = "There&#039;s still no opera on Netflix"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-12-22T19:22:00-05:00"
+lastmod: "2015-12-28T11:23:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451315235708/2015-12-28---Netflix.jpg.jpg
+publishDate: "2015-12-28T10:45:00-05:00"
+related_articles:
+- articles/netflix-why-not-opera.md
+- articles/online-music-is-obscuring-opera.md
+- articles/a-tale-of-two-audiences.md
+- articles/yes-please-jonas-kaufmann-on-the-big-screen.md
+- articles/great-ideas-a-streamable-opera-miniseries.md
+- articles/pavarottis-nessun-dorma-the-trump-campaign.md
+- articles/the-brief-history-of-madefortv-opera.md
+short_description: 'The idea that companies are teasing, luring new opera lovers to
+  their theatres with a taste of Verdi online, is outdated. Opera will begin to be
+  consumed in video form only; purists can argue all they want that this is a lesser
+  experience (and I&#039;d agree with them), but the argument won&#039;t persuade
+  people who aren&#039;t already into opera. '
+slug: theres-still-no-opera-on-netflix
+title: There&#039;s still no opera on Netflix
+_template: article_single
+---
 
 Over a year ago, we published an [article](/netflix-why-not-opera/) about the dearth of opera available on Netflix. The research for the piece took little time, and produced results that weren't surprising.
 

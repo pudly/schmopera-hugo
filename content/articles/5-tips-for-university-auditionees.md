@@ -1,17 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2015-04-11T19:01:00-04:00"
-lastmod = "2015-04-11T19:01:00-04:00"
-preamble = "<p>\n\tIt's that time of year! Music schools across North America are holding their entrance auditions over the next couple of months, and as someone who's been privy to more than a few in my own career, I wanted to extend some advice. Young singers, as you sing your hearts out for the faculties at the University of Toronto, GGS, Western University, McGill, Juilliard, Eastman, NEC, Peabody, Oberlin, Rice, and Curtis, I offer you tips from your audition pianist.\n</p>"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428793003564/UofT_Fotor.jpg.jpg"
-publishDate = "2015-02-17T09:01:00-05:00"
-related_articles = ["articles/how-to-really-learn-a-song.md","articles/what-to-wear-to-an-audition-via-the-red-carpet.md","articles/wolf-trap-audition-conversation.md","articles/psychology-audition.md","articles/audition-arias-101-the-young-singers-guide.md","articles/3-life-lessons-that-practice-rooms-can-teach-you.md","articles/rarities-opera-stage-parents.md","articles/4-myths-from-music-school.md","articles/honing-your-craft-opera-courses-at-the-associated-studios.md"]
-related_companies = ["scene/companies/university-of-toronto-opera.md"]
-short_description = "Young singers, as you sing your hearts out for the faculties at the University of Toronto, GGS, Western University, McGill, Juilliard, Eastman, NEC, Peabody, Oberlin, Rice, and Curtis, I offer you tips from your audition pianist."
-slug = "5-tips-for-university-auditionees"
-title = "5 Tips for University Auditionees"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2015-04-11T19:01:00-04:00"
+lastmod: "2015-04-11T19:01:00-04:00"
+preamble: "<p>\n\tIt's that time of year! Music schools across North America are holding
+  their entrance auditions over the next couple of months, and as someone who's been
+  privy to more than a few in my own career, I wanted to extend some advice. Young
+  singers, as you sing your hearts out for the faculties at the University of Toronto,
+  GGS, Western University, McGill, Juilliard, Eastman, NEC, Peabody, Oberlin, Rice,
+  and Curtis, I offer you tips from your audition pianist.\n</p>"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428793003564/UofT_Fotor.jpg.jpg
+publishDate: "2015-02-17T09:01:00-05:00"
+related_articles:
+- articles/how-to-really-learn-a-song.md
+- articles/what-to-wear-to-an-audition-via-the-red-carpet.md
+- articles/wolf-trap-audition-conversation.md
+- articles/psychology-audition.md
+- articles/audition-arias-101-the-young-singers-guide.md
+- articles/3-life-lessons-that-practice-rooms-can-teach-you.md
+- articles/rarities-opera-stage-parents.md
+- articles/4-myths-from-music-school.md
+- articles/honing-your-craft-opera-courses-at-the-associated-studios.md
+related_companies:
+- scene/companies/university-of-toronto-opera.md
+short_description: Young singers, as you sing your hearts out for the faculties at
+  the University of Toronto, GGS, Western University, McGill, Juilliard, Eastman,
+  NEC, Peabody, Oberlin, Rice, and Curtis, I offer you tips from your audition pianist.
+slug: 5-tips-for-university-auditionees
+title: 5 Tips for University Auditionees
+_template: article_single
+---
 
 <h2>1. Do your research, <em>then</em> find your pianist</h2>
 <p>

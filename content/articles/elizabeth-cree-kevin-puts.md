@@ -1,19 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-08-14T17:36:00-04:00"
-lastmod = "2017-08-14T22:07:00-04:00"
-preamble = "Next month at [Opera Philadelphia](/scene/companies/opera-philadelphia/)'s O17 Festival, opera goers can catch the world premiere of [*Elizabeth Cree*](https://www.operaphila.org/whats-on/on-stage-2017-2018/elizabeth-cree/), the new work by [Kevin Puts](/scene/people/kevin-puts/) and [Mark Campbell](https://www.operaphila.org/whats-on/on-stage-2017-2018/elizabeth-cree/librettist/) that stars mezzo-soprano [Daniela Mack](/talking-with-singers-daniela-mack/) in the title role. Well-known for the success of their earlier collaboration, *Silent Night*, the composer-librettist team have adapted Peter Ackroyd's novel, *The Trial of Elizabeth Cree* into a fascinating chamber opera straddling the worlds of London's 19th-century music halls, and a woman on trial for the alleged poisoning of her husband.\n\nIt was a total treat to chat with composer Kevin Puts about his newest opera; he offers appetizing details about his work, and the evolution of his creative partnership with Mark Campbell."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502746775347/2017-08-15---elizabeth_cree_1.jpg.jpg"
-primary_image_credit = "Daniela Mack as Elizabeth Cree. Photo: Dominic M. Mercier"
-publishDate = "2017-08-14T21:39:00-04:00"
-related_articles = ["articles/talking-with-singers-daniela-mack.md","articles/kevin-puts-i-know-who-i-am-as-a-composer.md","articles/a-stunning-premiere-elizabeth-cree.md","articles/ryan-mckinny-modern-meaning-in-a-gold-rushera-opera.md"]
-related_companies = ["scene/companies/opera-philadelphia.md"]
-related_people = ["scene/people/daniela-mack.md","scene/people/kevin-puts.md"]
-short_description = "&quot;Just before the noose tightens she sings, cryptically, &quot;Here we are again!&quot; We are then immediately thrust back to her trial, in which she is on the stand for the murder of her husband. She is sarcastic and grandiose, playing to the crowd.  Then she herself takes us back to the squalid reality of her childhood and we feel for her as she dreams of the music hall and its wonders. She is very complex and interesting.&quot;"
-slug = "elizabeth-cree-kevin-puts"
-title = "Elizabeth Cree: &quot;The story begins with her hanging.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-08-14T17:36:00-04:00"
+lastmod: "2017-08-14T22:07:00-04:00"
+preamble: |-
+  Next month at [Opera Philadelphia](/scene/companies/opera-philadelphia/)'s O17 Festival, opera goers can catch the world premiere of [*Elizabeth Cree*](https://www.operaphila.org/whats-on/on-stage-2017-2018/elizabeth-cree/), the new work by [Kevin Puts](/scene/people/kevin-puts/) and [Mark Campbell](https://www.operaphila.org/whats-on/on-stage-2017-2018/elizabeth-cree/librettist/) that stars mezzo-soprano [Daniela Mack](/talking-with-singers-daniela-mack/) in the title role. Well-known for the success of their earlier collaboration, *Silent Night*, the composer-librettist team have adapted Peter Ackroyd's novel, *The Trial of Elizabeth Cree* into a fascinating chamber opera straddling the worlds of London's 19th-century music halls, and a woman on trial for the alleged poisoning of her husband.
+
+  It was a total treat to chat with composer Kevin Puts about his newest opera; he offers appetizing details about his work, and the evolution of his creative partnership with Mark Campbell.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502746775347/2017-08-15---elizabeth_cree_1.jpg.jpg
+primary_image_credit: 'Daniela Mack as Elizabeth Cree. Photo: Dominic M. Mercier'
+publishDate: "2017-08-14T21:39:00-04:00"
+related_articles:
+- articles/talking-with-singers-daniela-mack.md
+- articles/kevin-puts-i-know-who-i-am-as-a-composer.md
+- articles/a-stunning-premiere-elizabeth-cree.md
+- articles/ryan-mckinny-modern-meaning-in-a-gold-rushera-opera.md
+related_companies:
+- scene/companies/opera-philadelphia.md
+related_people:
+- scene/people/daniela-mack.md
+- scene/people/kevin-puts.md
+short_description: '&quot;Just before the noose tightens she sings, cryptically, &quot;Here
+  we are again!&quot; We are then immediately thrust back to her trial, in which she
+  is on the stand for the murder of her husband. She is sarcastic and grandiose, playing
+  to the crowd.  Then she herself takes us back to the squalid reality of her childhood
+  and we feel for her as she dreams of the music hall and its wonders. She is very
+  complex and interesting.&quot;'
+slug: elizabeth-cree-kevin-puts
+title: 'Elizabeth Cree: &quot;The story begins with her hanging.&quot;'
+_template: article_single
+---
 
 ## What do you find most fascinating about the story of Elizabeth Cree?
 
@@ -21,7 +38,10 @@ It is different from anything I have done before. That is probably what made it 
 
 The story begins with her hanging. Just before the noose tightens she sings, cryptically, "Here we are again!" We are then immediately thrust back to her trial, in which she is on the stand for the murder of her husband. She is sarcastic and grandiose, playing to the crowd.  Then she herself takes us back to the squalid reality of her childhood and we feel for her as she dreams of the music hall and its wonders. She is very complex and interesting. And of course, the story's taking place in and around the music halls of 1880s London is extremely appealing because it invites more music into an already operatic story.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502746897418/2017-08-15---the-crypt-sessions-elizabeth-cree-credit-andrew-ousley-05.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502746897418/2017-08-15---the-crypt-sessions-elizabeth-cree-credit-andrew-ousley-05.jpg.jpg)
+
 <figcaption>Kevin Puts and Daniela Mack perform an excerpt of *Elizabeth Cree* in The Crypt. Photo: Andrew Ousley.</figcaption>
 </figure>
 

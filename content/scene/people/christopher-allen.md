@@ -1,23 +1,25 @@
-+++
-date = "2016-02-05T13:36:00-05:00"
-discipline = "Conductor"
-lastmod = "2016-02-05T13:36:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454697098493/ChristopherAllen_GabrielGastelum1---Square.jpg.jpg"
-primary_image_credit = "Gabriel Gastelum"
-publishDate = "2016-02-05T13:36:00-05:00"
-related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/english-national-opera.md"]
-slug = "christopher-allen"
-title = "Christopher Allen"
-website = "http://www.christophergallen.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Moallen86"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=xms__5qfkY4&list=PLGD5AXWxIXdylqX9dAfAuYDBT3fX-5T49"
-+++
+---
+date: "2016-02-05T13:36:00-05:00"
+discipline: Conductor
+lastmod: "2016-02-05T13:36:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454697098493/ChristopherAllen_GabrielGastelum1---Square.jpg.jpg
+primary_image_credit: Gabriel Gastelum
+publishDate: "2016-02-05T13:36:00-05:00"
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/english-national-opera.md
+slug: christopher-allen
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/Moallen86
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/watch?v=xms__5qfkY4&list=PLGD5AXWxIXdylqX9dAfAuYDBT3fX-5T49
+title: Christopher Allen
+website: http://www.christophergallen.com/
+_template: "people_single"
+---
 
 Christopher Allen is rapidly gaining attention as a rising conductor on the operatic and symphonic stages. Plácido Domingo and James Conlon brought him to Los Angeles Opera where he is currently Associate Conductor. His conducting career was launched when he received the Bruno Walter Conducting Award and Memorial Career Grant.
 

@@ -1,11 +1,13 @@
-+++
-author = ["authors/jenna.md"]
-date = "2015-10-06T20:27:00-04:00"
-draft = true
-lastmod = "2015-11-02T22:01:00-05:00"
-slug = "mt-how-directors-hear-music"
-title = "MT: How directors hear music"
-+++
+---
+author:
+- authors/jenna.md
+date: "2015-10-06T20:27:00-04:00"
+draft: true
+lastmod: "2015-11-02T22:01:00-05:00"
+slug: mt-how-directors-hear-music
+title: 'MT: How directors hear music'
+_template: article_single
+---
 
 One of the funny things about the opera rehearsal room is the delegation of tasks between the two "bosses," the conductor and director. It's hard to make a case one way or the other about whether the director or the maestro knows the opera the best. You could argue that the conductor has the advantage of being able to decipher both the text (one hopes) *and* the music. The director probably has more experience in discovering text and action than in discovering what's being said in the music itself, because it's relatively rare to work with a director who reads music well.
 

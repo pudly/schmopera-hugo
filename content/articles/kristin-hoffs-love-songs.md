@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-05-31T19:45:00-04:00"
-lastmod = "2015-06-02T08:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433116514188/HoffAna.jpg.jpg"
-publishDate = "2015-06-01T13:17:00-04:00"
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/kristin-hoff.md"]
-short_description = "As part of Sing! - The Toronto Vocal Arts Festival, I heard mezzo Kristin Hoff perform the one-woman vocal feat by Ana Sokolovic, Love Songs. The work was commissioned by Queen of Puddings Music Theatre (premiered in 2009 by Lauren Phillips), and it&#039;s a compilation of love poetry in over 100 hundred languages, all sung a cappella. "
-slug = "kristin-hoffs-love-songs"
-title = "Kristin Hoff&#039;s Love Songs"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-05-31T19:45:00-04:00"
+lastmod: "2015-06-02T08:52:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433116514188/HoffAna.jpg.jpg
+publishDate: "2015-06-01T13:17:00-04:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/kristin-hoff.md
+short_description: 'As part of Sing! - The Toronto Vocal Arts Festival, I heard mezzo
+  Kristin Hoff perform the one-woman vocal feat by Ana Sokolovic, Love Songs. The
+  work was commissioned by Queen of Puddings Music Theatre (premiered in 2009 by Lauren
+  Phillips), and it&#039;s a compilation of love poetry in over 100 hundred languages,
+  all sung a cappella. '
+slug: kristin-hoffs-love-songs
+title: Kristin Hoff&#039;s Love Songs
+_template: article_single
+---
 
 As part of [*Sing! - The Toronto Vocal Arts Festival*](http://www.singtoronto.com/), I heard mezzo [Kristin Hoff](/scene/people/kristin-hoff/) perform the one-woman vocal feat by Ana Sokolovic, *Love Songs*. The work was commissioned by [Queen of Puddings Music Theatre](http://www.queenofpuddingsmusictheatre.com/love-songs.htm), and it's a compilation of love poetry in multiple languages, all sung by a solo *a cappella* voice.
 

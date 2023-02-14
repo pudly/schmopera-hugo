@@ -1,15 +1,21 @@
-+++
-date = "2019-02-17T19:51:35+00:00"
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550433019/media/2019/02/StevenLaBrie.jpg"
-primary_image_credit = "Braddon Murphy"
-related_companies = ["scene/companies/san-diego-opera.md", "scene/companies/sarasota-opera.md", "scene/companies/florida-grand-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/opera-omaha.md"]
-slug = "steven-labrie"
-social_media = []
-title = "Steven LaBrie"
-website = "https://www.stevenlabrie.com/"
-
-+++
+---
+date: "2019-02-17T19:51:35+00:00"
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550433019/media/2019/02/StevenLaBrie.jpg
+primary_image_credit: Braddon Murphy
+related_companies:
+- scene/companies/san-diego-opera.md
+- scene/companies/sarasota-opera.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/opera-omaha.md
+slug: steven-labrie
+social_media: []
+title: Steven LaBrie
+website: https://www.stevenlabrie.com/
+_template: "people_single"
+---
 STEVEN LABRIE, a native of Dallas, Texas, is beginning to attract attention for his beautiful timbre, expressive singing and dramatic presence. Mr. LaBrie was named among the five leading lyric baritones to watch by Opera News.
 
 Engagements for the 2018-2019 season include his return to Opera Omaha in his role debut as Belcore in Donizetti's _L'Elisir d'Amore_, his company debut with Tulsa Opera in the title role of Rossini's _Il barbiere di siviglia,_ and his company and role debuts with San Diego Opera in Heggie's _Three Decembers_and Teatro Nuovo as Valdeburgo in Bellini's _La Straniera_.

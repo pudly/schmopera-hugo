@@ -1,18 +1,21 @@
-+++
-date = "2019-01-29T19:11:19+00:00"
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548789036/media/2019/01/BenSchaefer.jpg"
-primary_image_credit = "Simon Pauly"
-related_companies = ["scene/companies/glimmerglass-festival.md", "scene/companies/des-moines-metro-opera.md", "scene/companies/palm-beach-opera.md"]
-slug = "ben-schaefer"
-title = "Ben Schaefer"
-website = "https://www.benschaeferbaritone.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/benrschaefer/"
-
-+++
+---
+date: "2019-01-29T19:11:19+00:00"
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548789036/media/2019/01/BenSchaefer.jpg
+primary_image_credit: Simon Pauly
+related_companies:
+- scene/companies/glimmerglass-festival.md
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/palm-beach-opera.md
+slug: ben-schaefer
+social_media:
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/benrschaefer/
+title: Ben Schaefer
+website: https://www.benschaeferbaritone.com/
+_template: "people_single"
+---
 Des Moines, Iowa native, Ben Schaefer, will be joining the Glimmerglass Festival in 2018 where he will be performing the role of Fiorello and covering the title role in a new production of _Il barbiere di Siviglia_ as well as covering Lieutenant Audebert in Kevin Puts and Mark Campbell’s Pulitzer Prize-winning opera, _Silent Night_.
 
 He will also be joining Palm Beach Opera's Benenson Young Artist Program where he will perform as Eisenstein in _Die Fledermaus_ and Barone Duophol in _La traviata_, as well as covering the both title role and Masetto in _Don Giovanni_.

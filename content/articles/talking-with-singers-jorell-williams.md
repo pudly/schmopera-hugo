@@ -1,17 +1,37 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-11-12T13:58:00-07:00"
-lastmod = "2016-07-15T12:15:00-06:00"
-preamble = "[Jorell Williams](/scene/people/jorell-williams) is a baritone based in New York City, back home after a busy summer with Santa Fe Opera's Apprentice Program, singing in productions of *La fille du régiment*, *Rigoletto* and the world premiere of Jennifer Higdon's *Cold Mountain*.\n\nI first met Jorell in rainy St. John's, NL, while he was singing Schaunard in *La bohème*. We had a summer of great conversations about the realities of the opera industry, and so he has been on my must-interview list ever since. We spoke over Skype about some big topics, like being an African-American baritone in the United States, the decline of the operatic superstar, and helping people \"go somewhere that's not reality\" with his singing.\n\nYou can hear Jorell Williams sing Haydn's *Creation* with the Geneseo Symphony Orchestra on November 22nd (free admission, 3pm, Wadsworth Auditorium, Geneseo, NY), at Handel's [*Messiah*](http://www.branfordmessiah.org/index.html) with the Branford Chorale on December 20th (5:30pm, First Congregational Church, Branford, CT)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447424077771/2015-11-13---Jorell-Williams.jpg.jpg"
-publishDate = "2015-11-13T07:55:00-07:00"
-related_articles = ["articles/talking-with-singers-othalie-graham.md","articles/what-oscarssowhite-can-learn-from-opera.md","articles/talking-with-singers-bryan-register.md","articles/spotlight-on-diego-silva.md","articles/spotlight-on-will-liverman.md","articles/sidney-outlaw-stairs-success.md","articles/talking-with-singers-jnai-bridges.md","articles/cycles-of-my-being-this-is-their-story.md","articles/talking-with-singers-john-holiday.md"]
-related_people = ["scene/people/jorell-williams.md"]
-short_description = "Jorell Williams is a baritone based in New York City, back home after a busy summer with Santa Fe Opera&#039;s Apprentice Program, singing in productions of La fille du régiment, Rigoletto and the world premiere of Jennifer Higdon&#039;s Cold Mountain."
-slug = "talking-with-singers-jorell-williams"
-title = "Talking with singers: Jorell Williams"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-11-12T13:58:00-07:00"
+lastmod: "2016-07-15T12:15:00-06:00"
+preamble: |-
+  [Jorell Williams](/scene/people/jorell-williams) is a baritone based in New York City, back home after a busy summer with Santa Fe Opera's Apprentice Program, singing in productions of *La fille du régiment*, *Rigoletto* and the world premiere of Jennifer Higdon's *Cold Mountain*.
+
+  I first met Jorell in rainy St. John's, NL, while he was singing Schaunard in *La bohème*. We had a summer of great conversations about the realities of the opera industry, and so he has been on my must-interview list ever since. We spoke over Skype about some big topics, like being an African-American baritone in the United States, the decline of the operatic superstar, and helping people "go somewhere that's not reality" with his singing.
+
+  You can hear Jorell Williams sing Haydn's *Creation* with the Geneseo Symphony Orchestra on November 22nd (free admission, 3pm, Wadsworth Auditorium, Geneseo, NY), at Handel's [*Messiah*](http://www.branfordmessiah.org/index.html) with the Branford Chorale on December 20th (5:30pm, First Congregational Church, Branford, CT).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447424077771/2015-11-13---Jorell-Williams.jpg.jpg
+publishDate: "2015-11-13T07:55:00-07:00"
+related_articles:
+- articles/talking-with-singers-othalie-graham.md
+- articles/what-oscarssowhite-can-learn-from-opera.md
+- articles/talking-with-singers-bryan-register.md
+- articles/spotlight-on-diego-silva.md
+- articles/spotlight-on-will-liverman.md
+- articles/sidney-outlaw-stairs-success.md
+- articles/talking-with-singers-jnai-bridges.md
+- articles/cycles-of-my-being-this-is-their-story.md
+- articles/talking-with-singers-john-holiday.md
+related_people:
+- scene/people/jorell-williams.md
+short_description: Jorell Williams is a baritone based in New York City, back home
+  after a busy summer with Santa Fe Opera&#039;s Apprentice Program, singing in productions
+  of La fille du régiment, Rigoletto and the world premiere of Jennifer Higdon&#039;s
+  Cold Mountain.
+slug: talking-with-singers-jorell-williams
+title: 'Talking with singers: Jorell Williams'
+_template: article_single
+---
 
 "If I were sitting behind the table listening to people audition, what I'm used to is the drop the needle effect. You close your eyes and you listen to what the voice is doing. You're not looking at anyone, you're not looking at a photograph, you're not looking for anything else except what the voice does."
 
@@ -25,7 +45,10 @@ I echoed Williams' question back to him, and he assured me he didn't have an ans
 
 "I look at the rosters of the top management companies, whether it be CAMI, IMG, Bel Canto Global Arts, whatever it is, there really isn't a mix; there are some international faces on American rosters, but on the American rosters I don't see a lot of African-American singers." It's not that they're not there at all, but "two or three doesn't amount to the hundreds and hundreds of other singers that have potential."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447424831881/Syracuse%20Opera%20-%20Porgy%20and%20Bess.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447424831881/Syracuse%20Opera%20-%20Porgy%20and%20Bess.jpg.jpg)
+
 <figcaption>From Syracuse Opera's 2014 production of *Porgy and Bess*.
 </figure>
 
@@ -35,7 +58,10 @@ So, should opera follow suit with, say, a production of *Otello*? I asked Jorell
 
 Williams applies that old adage, about the three sides to every story ("there's your [side], there's theirs, and there's the truth"), to all the stuff he can't control in this business. "That's my personal issue that I've been dealing with for years now. That doesn't mean that I'm bitter about it, because I still do what I have to do, and I'm still working."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447424745808/Santa%20Fe%20Opera%20-%20Kate%20Russell%20Photography%20.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447424745808/Santa%20Fe%20Opera%20-%20Kate%20Russell%20Photography%20.jpg.jpg)
+
 <figcaption>Williams in Santa Fe Opera's 2015 production of *Les pêcheurs de perles*. Photo by Kate Russell.</figcaption>
 </figure>
 
@@ -47,7 +73,10 @@ The concept of the opera singer as an autonomous celebrity has lost steam, compa
 
 For Williams, getting competitive doesn't solve much. "All we have are each other in this business. It's similar to being a lawyer, doctor, or a school teacher. These are a few examples of professions (not meant to diminish the importance of others) that compare to performance practice. Many years in school, the equivalent to a residency (Young Artist Program) and endless hours of scrutiny and judgement. Very few are going to understand what we have to go through 24/7 because this is a 24/7 job, for the rest of our lives. Vacation? What's that?" It can be all-consuming, and it can make it hard for young artists to see clearly what they're striving for. "Every day is a step forward in understanding balance," echoes Williams.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447424965968/Urban%20Arias%20-%20Blue%20Viola.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447424965968/Urban%20Arias%20-%20Blue%20Viola.jpg.jpg)
+
 <figcaption>Williams in Urban Arias' 2015 world premiere of *Blue Viola*, by Peter Hilliard and Matt Boresi.</figcaption>
 </figure>
 
@@ -57,7 +86,10 @@ For Williams, getting competitive doesn't solve much. "All we have are each othe
 
 He brought up that Adam Sandler movie from last year, [*The Cobbler*](http://www.imdb.com/title/tt3203616/), where a little magic helps a cobbler spend time in his clients' shoes, figuratively *and* literally. "We get to put ourselves in people's shoes, and try to the best of our ability to create something that's realistic." Williams loves the transformation, too. "We have about 5-7 seconds to go from 'oh my God, I just spilled coffee on my shirt' backstage to someone who lived in 1783. We're challenged to put ourselves in the shoes of these people."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447425139074/La%20Boheme%20OOTA.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447425139074/La%20Boheme%20OOTA.jpg.jpg)
+
 <figcaption>Williams after a performance of *La bohème* (Schaunard) at Opera on the Avalon, 2014.</figcaption>
 </figure>
 

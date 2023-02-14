@@ -1,23 +1,25 @@
-+++
-date = "2018-05-07T11:43:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-05-07T11:43:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525707584980/Fay5.jpg.jpg"
-primary_image_credit = "Fay Fox."
-publishDate = "2018-05-07T11:43:00-04:00"
-related_companies = ["scene/companies/washington-national-opera.md","scene/companies/curtis-institute-of-music.md"]
-slug = "emily-pogorelc"
-title = "Emily Pogorelc"
-website = "http://www.emilypogorelc.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/EmilyPogorelc"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/emmypogo/"
-+++
+---
+date: "2018-05-07T11:43:00-04:00"
+discipline: Soprano
+lastmod: "2018-05-07T11:43:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525707584980/Fay5.jpg.jpg
+primary_image_credit: Fay Fox.
+publishDate: "2018-05-07T11:43:00-04:00"
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/curtis-institute-of-music.md
+slug: emily-pogorelc
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/EmilyPogorelc
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/emmypogo/
+title: Emily Pogorelc
+website: http://www.emilypogorelc.com/
+_template: "people_single"
+---
 
 Praised for her “lively, incisive soprano” by the *New York Times*, Emily Pogorelc is currently entering her fourth and final year at the Curtis Institute of Music, under the tutelage of Julia Faulkner. Following her academic year at the conservatory, Ms. Pogorelc will be joining the 2018-19 ensemble of the The Patrick G. and Shirley W. Ryan Opera Center at Lyric Opera of Chicago.
 

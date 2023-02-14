@@ -1,15 +1,27 @@
-+++
-date = "2019-01-30T01:50:23+00:00"
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1603157724/media/2020/10/StephenPowell-SueReno_ob0d9o.jpg"
-primary_image_credit = "Sue Reno."
-related_companies = ["scene/companies/l-opéra-de-montréal.md", "scene/companies/opera-philadelphia.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-atlanta-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/minnesota-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/seattle-opera.md", "scene/companies/portland-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/san-diego-opera.md", "scene/companies/odyssey-opera.md"]
-slug = "stephen-powell"
-social_media = []
-title = "Stephen Powell"
-website = "http://www.stephenpowell.us/"
-
-+++
+---
+date: "2019-01-30T01:50:23+00:00"
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1603157724/media/2020/10/StephenPowell-SueReno_ob0d9o.jpg
+primary_image_credit: Sue Reno.
+related_companies:
+- scene/companies/l-opéra-de-montréal.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/minnesota-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/portland-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/san-diego-opera.md
+- scene/companies/odyssey-opera.md
+slug: stephen-powell
+social_media: []
+title: Stephen Powell
+website: http://www.stephenpowell.us/
+_template: "people_single"
+---
 The dynamic American baritone Stephen Powell brings his “rich, lyric baritone, commanding presence, and thoughtful musicianship” to a wide range of music (Wall Street Journal). He recently made a successful debut performance as the title role in Macbeth with Michigan Opera Theatre, of which Opera News wrote “Powell’s undeniably powerful voice seethed with potential until his astonishing Act IV andante, when the gleaming beauty and sumptuous musicality of his rich baritone was finally given resplendent display."
 
 In the 2017-18 season, Mr. Powell made debuts with the Los Angeles Master Chorale in Carmina Burana, and with Odyssey Opera Boston as Bishop Pierre Cauchon in Dello Joio's The Trial at Rouen. He returned to Boston Baroque in Messiah, sang Count Almaviva in Le nozze di Figaro with Michigan Opera Theatre, Carmina Burana with the St. Louis Symphony Orchestra, Jochanaan in Salome with Minnesota Orchestra, and returned to Portland Opera as the title role in Rigoletto. In the summer of 2018, Mr. Powell joined the Orquestra Filarmonica de Minas Gerais in Brazil as soloist in a Bernstein centennial concert, performing Trouble in Tahiti and Arias and Barcarolles.

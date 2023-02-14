@@ -1,14 +1,15 @@
-+++
-date = "2017-01-05T12:00:00+00:00"
-discipline = "Baritone"
-lastmod = "2017-01-05T12:41:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483617622709/2017-01-05---John-Viscardi---Doneson.jpg.jpg"
-primary_image_credit = "Arielle Doneson"
-publishDate = "2017-01-05T12:00:00+00:00"
-slug = "john-viscardi"
-title = "John Viscardi"
-website = "http://www.johnviscardi.com/"
-+++
+---
+date: "2017-01-05T12:00:00+00:00"
+discipline: Baritone
+lastmod: "2017-01-05T12:41:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483617622709/2017-01-05---John-Viscardi---Doneson.jpg.jpg
+primary_image_credit: Arielle Doneson
+publishDate: "2017-01-05T12:00:00+00:00"
+slug: john-viscardi
+title: John Viscardi
+website: http://www.johnviscardi.com/
+_template: "people_single"
+---
 
 Baritone John Viscardi, New York native and graduate of the Academy of Vocal Arts (AVA), is a rising talent notably acknowledged for his diversity of vocal repertoire.
 

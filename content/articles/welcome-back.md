@@ -1,22 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2021-08-26T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1629903262/media/2021/08/WelcomeBack_egxkka.jpg"
-primary_image_credit = "Oh hi."
-related_articles = ["articles/music-the-musicians-therapy-except-when-its-not.md", "articles/covid.md"]
-related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/canadian-opera-company.md", "scene/companies/chicago-fringe-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/los-angeles-opera.md"]
-related_people = []
-short_description = "Maybe because of morbid curiosity, I'm oddly pumped for this season. It'll be like watching opera history happen: we've gotten used to digital opera, and there's more out-of-the-box thinking happening now than we've had in centuries."
-slug = "jennas-back-and-so-is-opera-we-think"
-title = "Jenna's back! And so is opera, we think?"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Editorial
+date: '2021-08-26T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1629903262/media/2021/08/WelcomeBack_egxkka.jpg
+primary_image_credit: Oh hi.
+related_articles:
+  - articles/music-the-musicians-therapy-except-when-its-not.md
+  - articles/covid.md
+related_companies:
+  - scene/companies/royal-opera-house.md
+  - scene/companies/canadian-opera-company.md
+  - scene/companies/chicago-fringe-opera.md
+  - scene/companies/the-metropolitan-opera.md
+  - scene/companies/los-angeles-opera.md
+related_people: []
+short_description: >-
+  Maybe because of morbid curiosity, I'm oddly pumped for this season. It'll be
+  like watching opera history happen: we've gotten used to digital opera, and
+  there's more out-of-the-box thinking happening now than we've had in
+  centuries.
+slug: jennas-back-and-so-is-opera-we-think
+title: 'Jenna''s back! And so is opera, we think?'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 I'll tell you this, readers: absence really does make the heart grow fonder.
 
 I've been absent from Schmopera, you might have noticed. Some reasons why:

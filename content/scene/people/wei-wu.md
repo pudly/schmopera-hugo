@@ -1,19 +1,24 @@
-+++
-date = "2018-04-30T21:30:00-04:00"
-discipline = "Bass"
-lastmod = "2018-04-30T21:30:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525138005083/WeiWu1.png.png"
-primary_image_credit = "Arielle Doneson"
-publishDate = "2018-04-30T21:30:00-04:00"
-related_companies = ["scene/companies/washington-national-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md"]
-slug = "wei-wu"
-title = "Wei Wu"
-website = "http://www.weiwubass.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/wu.wei.52056?viewer_id=647600890"
-+++
+---
+date: "2018-04-30T21:30:00-04:00"
+discipline: Bass
+lastmod: "2018-04-30T21:30:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525138005083/WeiWu1.png.png
+primary_image_credit: Arielle Doneson
+publishDate: "2018-04-30T21:30:00-04:00"
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/glyndebourne.md
+slug: wei-wu
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/wu.wei.52056?viewer_id=647600890
+title: Wei Wu
+website: http://www.weiwubass.com/
+_template: "people_single"
+---
 
 A native of China, bass Wei Wu recently made his company debut with the Santa Fe Opera, as Kobun in the world premiere production of *The (R)evolution of Steve Jobs*. Upcoming engagements this season include a return to Washington National Opera, singing Don Basilio in *Il barbiere di Siviglia*, and he joins the West Virginia Symphony in concert for Verdi’s *Requiem*.
 

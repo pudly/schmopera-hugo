@@ -1,21 +1,21 @@
-+++
-date = "2015-05-20T21:20:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-05-26T10:10:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432170978179/Janani.jpg.jpg"
-publishDate = "2015-05-20T21:20:00-04:00"
-slug = "janani-sridhar"
-title = "Janani Sridhar"
-website = "http://jananisridhar.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/JSOpera_Voice"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://instagram.com/JSOpera"
-+++
+---
+date: "2015-05-20T21:20:00-04:00"
+discipline: Soprano
+lastmod: "2015-05-26T10:10:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432170978179/Janani.jpg.jpg
+publishDate: "2015-05-20T21:20:00-04:00"
+slug: janani-sridhar
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/JSOpera_Voice
+- platform: Instagram
+  _template: social_media
+  url: https://instagram.com/JSOpera
+title: Janani Sridhar
+website: http://jananisridhar.com/
+_template: "people_single"
+---
 
 Janani Sridhar made headlines as the first ever Singaporean to win the first prize in the Vocal, Under 16 Category at the 58th Llangollen International Musical Eistedfodd. The competition, commonly billed as "The Musical Olympics" is held in Wales and had her competing against over 6,000 other global competitors. The jury described Janani as "a gifted singer who has a marvelous future in singing."
  

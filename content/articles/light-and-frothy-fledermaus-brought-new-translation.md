@@ -1,29 +1,40 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-04-07T00:08:43+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554595712/media/2019/04/sqDFpressimageAlfred.png"
-primary_image_credit = "Colin Campbell as Alfred in MassOpera's production of Die Fledermaus, 2019. Photo: Nile Scott Studios."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "In this regard, this adaptation takes advantage of every possibility of its updated New York setting for jokes. Rosalinda, for instance, is a star on an obvious Real Housewives knock-off in New York, and thus her husband's arrest and trial is very high-profile. "
-slug = "light-and-frothy-fledermaus-brought-new-translation"
-title = "Light and frothy Fledermaus brought new translation"
-youtube_url = ""
+---
+author:
+  - authors/arturo-fernandez.md
+categories: Review
+date: '2019-04-07T00:08:43+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1554595712/media/2019/04/sqDFpressimageAlfred.png
+primary_image_credit: >-
+  Colin Campbell as Alfred in MassOpera's production of Die Fledermaus, 2019.
+  Photo: Nile Scott Studios.
+related_articles: []
+related_companies: []
+related_people: []
+short_description: >-
+  In this regard, this adaptation takes advantage of every possibility of its
+  updated New York setting for jokes. Rosalinda, for instance, is a star on an
+  obvious Real Housewives knock-off in New York, and thus her husband's arrest
+  and trial is very high-profile. 
+slug: light-and-frothy-fledermaus-brought-new-translation
+title: Light and frothy Fledermaus brought new translation
+youtube_url: ''
+_template: article_single
+---
 
-+++
 With all of the serious productions of works being bandied around the Boston opera scene lately, I think one thing is more vitally important to recognize: sometimes, opera-goers just want to have a little bit of _fun_. When this is asked for, one can rarely go wrong with Johann Strauss II's _Die Fledermaus_, an operetta about people playing pranks on each other that is as silly as the music is bubbly. Thus, it has chosen the right time to come along in the Boston opera scene, considering what everyone else is doing.
 
 > In this regard, this adaptation takes advantage of every possibility of its updated New York setting for jokes.
 
 But even here, the people of MassOpera (formerly MetroWest Opera) have opted to do something new with this opera. This production of _Fledermaus_ also presents a premiere of a new "translation" of the work’s libretto by Sarah Ina Meyers. I say "translation" in quotes, because "translation" is a bit of a misnomer: this new script that Meyers has given her singer/actors to work is much more of an adaptation of Karl Haffner and Richard Genée's original script than it is a real translation owing to the fact it opts to also update a bunch of references for the modern day while sticking to the basic plot beats of the original.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554596418/media/2019/04/DFgroup.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554596418/media/2019/04/DFgroup.jpg)
 
 <figcaption>The Ensemble of MassOpera's production of Die Fledermaus, 2019. Photo: Nile Scott Studios.</figcaption>
 
@@ -37,7 +48,9 @@ But what really strikes me about this adaptation is not just that the references
 
 Perhaps the biggest indication of this is how Rosalinda is treated as a character: here, she starts the show as something of a fame hound who lives on social media, something that colors her interactions with Adele in a slightly different light. Thus, while she and her husband Eisenstein talk in disguise in the party at the center of Act II, Eisenstein complains about this to her face: this leads to a surprisingly sweet moment when they reconcile in Act III and Rosalinda opts to delete her Facebook page on the spot. I appreciate very much that this translation added something of real substance to the original libretto; it would have been all too easy to stop this "adaptation" at throwing in several pop culture references, and the fact that Meyers went above and beyond that speaks volumes about the quality of this adaptation.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554760769/media/2019/04/DF_Promo_020.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554760769/media/2019/04/DF_Promo_020.jpg)
 
 <figcaption>Brianna Meese in MassOpera's production of Die Fledermaus, 2019. Photo: Nile Scott Studios.</figcaption>
 
@@ -51,7 +64,9 @@ Does the whole adaptation work? I'm not so certain. There's a good chunk of time
 
 What also helps considerably is the stellar cast of young singers who populated the stage of the Plaza Theater, a vast majority of whom were committed to the material in a way I have rarely seen with a Strauss operetta. Kelley Hollis brought a neurotic energy to Rosalinda that really fit the character's newer arc in the adaptation, and she balanced this with a voice that effortlessly floated over Strauss' vocal writing with an ease that takes most professionals years to get.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554760749/media/2019/04/DF_Promo_015.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554760749/media/2019/04/DF_Promo_015.jpg)
 
 <figcaption>Kelley Hollis as Rosalinda in MassOpera's production of Die Fledermaus, 2019. Photo: Nile Scott Studios.</figcaption>
 

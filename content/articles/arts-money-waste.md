@@ -1,16 +1,26 @@
-+++
-author = ["authors/kristina-driskill.md"]
-categories = "Op-ed"
-date = "2017-03-08T18:45:00+01:00"
-lastmod = "2017-03-09T09:57:00+01:00"
-preamble = "This article was originally published by [here](http://kartsconsulting.com/2017/03/03/arts-waste-time-money/) by Kristina Driskill, and is re-posted with permission from the author."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488999518363/2017-03-08---Art.jpg.jpg"
-publishDate = "2017-03-09T09:57:00+01:00"
-related_articles = ["articles/art-is-not-action.md","articles/michael-fabiano-the-profound-effect-of-artsmart.md","articles/talking-with-singers-ailyn-perez.md"]
-short_description = "Go ahead and get rid of all the music on your phone and elsewhere. When you go into stores, no music will be playing, and you won&#039;t be hearing any while you work out at the gym. If you&#039;ve got tickets to a concert of any kind, throw those out. Musicians are artists, and you won&#039;t be needing any of that."
-slug = "arts-money-waste"
-title = "Are the arts &amp; other creative fields a waste of time &amp; money?"
-+++
+---
+author:
+- authors/kristina-driskill.md
+categories: Op-ed
+date: "2017-03-08T18:45:00+01:00"
+lastmod: "2017-03-09T09:57:00+01:00"
+preamble: This article was originally published by [here](http://kartsconsulting.com/2017/03/03/arts-waste-time-money/)
+  by Kristina Driskill, and is re-posted with permission from the author.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488999518363/2017-03-08---Art.jpg.jpg
+publishDate: "2017-03-09T09:57:00+01:00"
+related_articles:
+- articles/art-is-not-action.md
+- articles/michael-fabiano-the-profound-effect-of-artsmart.md
+- articles/talking-with-singers-ailyn-perez.md
+short_description: Go ahead and get rid of all the music on your phone and elsewhere.
+  When you go into stores, no music will be playing, and you won&#039;t be hearing
+  any while you work out at the gym. If you&#039;ve got tickets to a concert of any
+  kind, throw those out. Musicians are artists, and you won&#039;t be needing any
+  of that.
+slug: arts-money-waste
+title: Are the arts &amp; other creative fields a waste of time &amp; money?
+_template: article_single
+---
 
 In times of economic and political uncertainty, "non-essentials" are usually up for the budgetary chopping block. Almost always first on this list are the arts and other creative endeavors. Currently, there has been talk of eliminating the National Endowment for the Arts, and the arts have been cut in schools consistently whenever budget constraints are present.
 

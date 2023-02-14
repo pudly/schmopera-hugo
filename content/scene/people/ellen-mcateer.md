@@ -1,18 +1,22 @@
-+++
-date = "2015-04-22T20:44:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-22T20:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429749713842/McAteer.jpg.jpg"
-publishDate = "2015-04-22T20:44:00-04:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md","scene/companies/university-of-toronto-opera.md"]
-slug = "ellen-mcateer"
-title = "Ellen McAteer"
-website = "http://www.ellenmcateer.ca/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ellen_mcateer"
-+++
+---
+date: "2015-04-22T20:44:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-22T20:44:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429749713842/McAteer.jpg.jpg
+publishDate: "2015-04-22T20:44:00-04:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-banff-centre.md
+- scene/companies/university-of-toronto-opera.md
+slug: ellen-mcateer
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/ellen_mcateer
+title: Ellen McAteer
+website: http://www.ellenmcateer.ca/
+_template: "people_single"
+---
 
 Originally from Ottawa, Ontario, "young rising star, soprano Ellen McAteer," (CBC Radio) is the two-time recipient of the Richard Bradshaw Graduate Fellowship in Opera and has been awarded a Schulich Scholarship, the Gaelyne Gabora Memorial Prize and the E. M. Wirth Scholarship.
 

@@ -1,13 +1,17 @@
-+++
-date = "2017-12-19T17:58:00-05:00"
-discipline = "Baritone"
-lastmod = "2017-12-19T17:58:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513723954068/pic-platanias.png.png"
-publishDate = "2017-12-19T17:58:00-05:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/oper-frankfurt.md"]
-slug = "dimitri-platanias"
-title = "Dimitri Platanias"
-+++
+---
+date: "2017-12-19T17:58:00-05:00"
+discipline: Baritone
+lastmod: "2017-12-19T17:58:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513723954068/pic-platanias.png.png
+publishDate: "2017-12-19T17:58:00-05:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/oper-frankfurt.md
+slug: dimitri-platanias
+title: Dimitri Platanias
+_template: "people_single"
+---
 
 Born in Greece, he is now recognised as one of the foremost Verdi Baritones of the younger generation. Winning the Alexandra Trianti Scholarship enabled him to study in Italy under Masako Tanaka Protti and at the showcase concert for the winners of this bequest, Rodney Milnes said in *Opera Magazine*:
 

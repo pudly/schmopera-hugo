@@ -1,22 +1,47 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-10-23T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "MassOpera's presentation of [_Freedom Ride_](http://massopera.org/freedom-ride/) happens on November 3, 3pm, at The Strand Theatre in Dorchester, MA."
-preamble = "On its way to a 2020 world premiere at Chicago Opera Theatre, [Dan Shore's _Freedom Ride_](http://massopera.org/freedom-ride/) will be part of MassOpera's latest New Opera Workshop on **November 3**.\n\nNamed for the [1961 Freedom Riders](https://en.wikipedia.org/wiki/Freedom_Riders) of the segregated American south, the opera centres on one young student who is pulled into the Civil Rights Movement. We spoke with Shore, stage director Tazewell Thompson, and conductor/COT Music Director [Lidiya Yankovskaya](/talking-with-conductors-lidiya-yankovskaya/), about this MassOpera performance and the larger creation process of new operas like _Freedom Ride_."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571884605/media/2019/10/sqFreedomRide-resized_iym55h.jpg"
-primary_image_credit = "The cast of Freedom Ride at MassOpera, 2019. Photo: Nile Scott Hawver."
-related_articles = ["articles/talking-with-composers-alexina-louie.md", "articles/talking-with-conductors-lidiya-yankovskaya.md"]
-related_companies = []
-related_people = []
-short_description = "\"I hope that the audience members will see themselves in the characters on stage, that they will be moved and inspired by the stories those characters tell, and will come away reflecting on how those stories relate to our world today.\""
-slug = "operatic-journeys-massopera-presents-freedom-ride"
-title = "Operatic journeys: MassOpera presents Freedom Ride"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Interview
+date: '2019-10-23T04:00:00+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  MassOpera's presentation of [_Freedom
+  Ride_](http://massopera.org/freedom-ride/) happens on November 3, 3pm, at The
+  Strand Theatre in Dorchester, MA.
+preamble: >-
+  On its way to a 2020 world premiere at Chicago Opera Theatre, [Dan Shore's
+  _Freedom Ride_](http://massopera.org/freedom-ride/) will be part of
+  MassOpera's latest New Opera Workshop on **November 3**.
 
-+++
+
+  Named for the [1961 Freedom
+  Riders](https://en.wikipedia.org/wiki/Freedom_Riders) of the segregated
+  American south, the opera centres on one young student who is pulled into the
+  Civil Rights Movement. We spoke with Shore, stage director Tazewell Thompson,
+  and conductor/COT Music Director [Lidiya
+  Yankovskaya](/talking-with-conductors-lidiya-yankovskaya/), about this
+  MassOpera performance and the larger creation process of new operas like
+  _Freedom Ride_.
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1571884605/media/2019/10/sqFreedomRide-resized_iym55h.jpg
+primary_image_credit: 'The cast of Freedom Ride at MassOpera, 2019. Photo: Nile Scott Hawver.'
+related_articles:
+  - articles/talking-with-composers-alexina-louie.md
+  - articles/talking-with-conductors-lidiya-yankovskaya.md
+related_companies: []
+related_people: []
+short_description: >-
+  "I hope that the audience members will see themselves in the characters on
+  stage, that they will be moved and inspired by the stories those characters
+  tell, and will come away reflecting on how those stories relate to our world
+  today."
+slug: operatic-journeys-massopera-presents-freedom-ride
+title: 'Operatic journeys: MassOpera presents Freedom Ride'
+youtube_url: ''
+_template: article_single
+---
+
 ## What do you think is unique about the structure and aesthetic of _Freedom Ride_?
 
 **Dan Shore**: The storytelling and dramaturgy are actually very traditional, and the musical language tries to reflect the sounds that you would have heard in New Orleans in 1961, with lots of spirituals and gospel and protest songs. And if feels more like a musical from the 1960s than an opera from last week, that's fine with me.
@@ -25,7 +50,9 @@ youtube_url = ""
 
 **Lidiya Yankovskaya**: Dan really understands vocal writing. He uses the voice effectively to portray a variety of characters, driving the action forward with the music and allowing every word to shine through clearly, while remaining unafraid to push the boundaries of what the voice can do.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571844380/media/2019/10/FreedomRide3_tallzs.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571844380/media/2019/10/FreedomRide3_tallzs.jpg)
 
 <figcaption>(l-r) Kristen Buabin, Michael Merullo, Tatum Robertson, Todd McNeel, Jr., Melynda Davis, Ezra Joshua Sanders, and Ron Williams, the cast of Freedom Ride at MassOpera, 2019. Photo: Nile Scott Hawver.</figcaption>
 
@@ -45,7 +72,9 @@ In the history books and the newspapers and on TV, they are bold and victorious.
 
 **DS**: When you're writing, you're just one person sitting at home with a piano and a pad of paper and a bunch of pencils. And you think you're doing a decent job of creating realistic characters and a gripping story, but you don't really know. You never really know until you have actors and an audience. The actors can only bring a story to life if it connects with them emotionally, so the first thing you find out in a workshop is whether or not you gave them honest enough material, and what kind of changes you can make to help them perform their best. Once the audience files into the theater, you find out something else. If they're on the edge of their seats, hearts thumping, breathless with anticipation, you probably did an okay job. If they're bored and start looking at their watches, you have to go back to the piano and start rewriting.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571844396/media/2019/10/FreedomRide1_ukfaix.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571844396/media/2019/10/FreedomRide1_ukfaix.jpg)
 
 <figcaption>Tatum Robertson for Freedom Ride, MassOpera, 2019. Photo: Nile Scott Hawver.</figcaption>
 
@@ -65,7 +94,9 @@ In the history books and the newspapers and on TV, they are bold and victorious.
 
 The MassOpera workshop will be the last stop prior to the Chicago Opera Theatre world premiere in February, and it is extraordinarily significant. Composer and librettist, conductor and director will have a final opportunity to hear and see all the pieces pulled together through our own senses and through the ears and eyes of the audience. I am personally grateful for the opportunity MassOpera has afforded me to participate in this necessary workshop.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571844411/media/2019/10/FreedomRide2_p1sg6f.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571844411/media/2019/10/FreedomRide2_p1sg6f.jpg)
 
 <figcaption>The cast of Freedom Ride at MassOpera, 2019. Photo: Nile Scott Hawver.</figcaption>
 

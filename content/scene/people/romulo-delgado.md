@@ -1,13 +1,14 @@
-+++
-date = "2017-05-02T12:58:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-05-25T10:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495721248579/Delgado%20MSO%20pic.jpg.jpg"
-publishDate = "2017-05-02T12:58:00-04:00"
-slug = "romulo-delgado"
-title = "Romulo Delgado"
-website = "http://romulodelgado.com/09/"
-+++
+---
+date: "2017-05-02T12:58:00-04:00"
+discipline: Tenor
+lastmod: "2017-05-25T10:07:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495721248579/Delgado%20MSO%20pic.jpg.jpg
+publishDate: "2017-05-02T12:58:00-04:00"
+slug: romulo-delgado
+title: Romulo Delgado
+website: http://romulodelgado.com/09/
+_template: "people_single"
+---
 
 Romulo Delgado is a classically trained tenor and a world music multi instrumentalist. He was a region finalist at the Hans Gabor Belvedere International Opera competition in Vienna, Austria. He trained in Toronto at the Royal Conservatory Music and the Glenn Gould School. 
  

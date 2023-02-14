@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-05-20T15:36:00-04:00"
-lastmod = "2015-05-21T09:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432150505625/IMG_20150520_114809.jpg.jpg"
-publishDate = "2015-05-21T08:30:00-04:00"
-related_articles = ["articles/hat-trick-in-the-amphitheatre.md","articles/coc1516-the-new-ensemble-studio.md","articles/lovely-lunches-the-coc-ensemble-studio-in-recital.md","articles/going-out-in-style-sy-kwon-in-the-rba.md"]
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/owen-mccausland.md","scene/people/charlotte-burrage.md"]
-short_description = "At yesterday&#039;s noon-hour concert in the Richard Bradshaw Amphitheatre, COC Ensemble Studio member Owen McCausland had the stage (mostly) to himself. Owen sang a full recital, including 6 of the Janáček songs, plus selections from Ralph Vaughan Williams&#039; The House of Life and Benjamin Britten&#039;s Les illuminations."
-slug = "in-review-owen-mccauslands-recital-stunner"
-title = "In review: Owen McCausland&#039;s recital stunner"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-05-20T15:36:00-04:00"
+lastmod: "2015-05-21T09:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432150505625/IMG_20150520_114809.jpg.jpg
+publishDate: "2015-05-21T08:30:00-04:00"
+related_articles:
+- articles/hat-trick-in-the-amphitheatre.md
+- articles/coc1516-the-new-ensemble-studio.md
+- articles/lovely-lunches-the-coc-ensemble-studio-in-recital.md
+- articles/going-out-in-style-sy-kwon-in-the-rba.md
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/owen-mccausland.md
+- scene/people/charlotte-burrage.md
+short_description: At yesterday&#039;s noon-hour concert in the Richard Bradshaw Amphitheatre,
+  COC Ensemble Studio member Owen McCausland had the stage (mostly) to himself. Owen
+  sang a full recital, including 6 of the Janáček songs, plus selections from Ralph
+  Vaughan Williams&#039; The House of Life and Benjamin Britten&#039;s Les illuminations.
+slug: in-review-owen-mccauslands-recital-stunner
+title: 'In review: Owen McCausland&#039;s recital stunner'
+_template: article_single
+---
 
 At yesterday's noon-hour concert in the Richard Bradshaw Amphitheatre, COC Ensemble Studio member [Owen McCausland](/scene/people/owen-mccausland/) had the stage (mostly) to himself. Originally, the concert was to feature Owen along with mezzo Charlotte Burrage, splitting Janáček's cycle, *Diary of One Who Disappeared*. Instead, Owen sang a full recital, including 6 of the Janáček songs, plus selections from Ralph Vaughan Williams' *The House of Life* and Benjamin Britten's *Les illuminations*. 
 

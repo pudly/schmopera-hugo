@@ -1,17 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-10-03T15:25:00+01:00"
-lastmod = "2016-10-03T16:55:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475504936536/IMG_20161003_135652.jpg.jpg"
-publishDate = "2016-10-03T16:55:00+01:00"
-related_articles = ["articles/nick-fletcher-reps-at-the-roh.md","articles/the-coc-ensemble-studio-meet-the-newbies.md","articles/lieder-for-lunch-the-coc-ensemble-studio-in-recital.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/angela-simkin.md","scene/people/vlada-borovko.md","scene/people/jennifer-davis.md","scene/people/thomas-atkins.md","scene/people/nick-fletcher.md"]
-short_description = "Safe as the programme may have been, the singers and pianists impressed; some of our highlights were the performances by tenor Thomas Atkins, sopranos Jennifer Davis and Vlada Borovko, and tenor David Junghoon Kim. The quality of singing was quite high across the board, and yet it&#039;s always a fascinating exercise to notice recurring differences between artists who are so-called &quot;young,&quot; and those with more experience."
-slug = "opera-for-lunch-the-roh-young-artists-in-concert"
-title = "Opera for lunch: the ROH Young Artists in concert"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-10-03T15:25:00+01:00"
+lastmod: "2016-10-03T16:55:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475504936536/IMG_20161003_135652.jpg.jpg
+publishDate: "2016-10-03T16:55:00+01:00"
+related_articles:
+- articles/nick-fletcher-reps-at-the-roh.md
+- articles/the-coc-ensemble-studio-meet-the-newbies.md
+- articles/lieder-for-lunch-the-coc-ensemble-studio-in-recital.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/angela-simkin.md
+- scene/people/vlada-borovko.md
+- scene/people/jennifer-davis.md
+- scene/people/thomas-atkins.md
+- scene/people/nick-fletcher.md
+short_description: Safe as the programme may have been, the singers and pianists impressed;
+  some of our highlights were the performances by tenor Thomas Atkins, sopranos Jennifer
+  Davis and Vlada Borovko, and tenor David Junghoon Kim. The quality of singing was
+  quite high across the board, and yet it&#039;s always a fascinating exercise to
+  notice recurring differences between artists who are so-called &quot;young,&quot;
+  and those with more experience.
+slug: opera-for-lunch-the-roh-young-artists-in-concert
+title: 'Opera for lunch: the ROH Young Artists in concert'
+_template: article_single
+---
 
 Day one of [Meet the Young Artists Week](http://www.roh.org.uk/about/jette-parker-young-artists-programme/events/meet-the-young-artists-week) with the [Royal Opera House](/scene/companies/royal-opera-house/) was a delightful midday concert of arias and ensembles, showing off the singers and pianists of the [Jette Parker Young Artists Programme](http://www.roh.org.uk/about/jette-parker-young-artists-programme).
 

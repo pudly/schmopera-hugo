@@ -1,15 +1,23 @@
-+++
-author = ["authors/vanessa-chumbley.md"]
-categories = "Op-ed"
-date = "2016-12-22T16:03:00-05:00"
-lastmod = "2016-12-28T10:03:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482442424445/2016-12-22---Work.jpg.jpg"
-publishDate = "2016-12-28T10:03:00-05:00"
-related_articles = ["articles/how-lucky-are-we-the-children-of-opera.md"]
-short_description = "Is it okay for us to talk about this openly? Can we be honest for a minute about how difficult this is? After a while I started to notice that I wasn’t the only one feeling the strain, and I definitely am not the only one wondering if it&#039;s alright to talk about it. So I&#039;m here to talk about it. Openly, honestly, and publicly. And to invite others to be part of the real talk surrounding our endlessly difficult and confusing line of work."
-slug = "real-talk-the-unspoken-realities-of-a-professional-artistic-life"
-title = "Real talk: the unspoken realities of a professional artistic life"
-+++
+---
+author:
+- authors/vanessa-chumbley.md
+categories: Op-ed
+date: "2016-12-22T16:03:00-05:00"
+lastmod: "2016-12-28T10:03:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482442424445/2016-12-22---Work.jpg.jpg
+publishDate: "2016-12-28T10:03:00-05:00"
+related_articles:
+- articles/how-lucky-are-we-the-children-of-opera.md
+short_description: Is it okay for us to talk about this openly? Can we be honest for
+  a minute about how difficult this is? After a while I started to notice that I wasn’t
+  the only one feeling the strain, and I definitely am not the only one wondering
+  if it&#039;s alright to talk about it. So I&#039;m here to talk about it. Openly,
+  honestly, and publicly. And to invite others to be part of the real talk surrounding
+  our endlessly difficult and confusing line of work.
+slug: real-talk-the-unspoken-realities-of-a-professional-artistic-life
+title: 'Real talk: the unspoken realities of a professional artistic life'
+_template: article_single
+---
 
 We've all had those conversations with close friends and colleagues – the ones about how to navigate the finances of being a freelance artist, what it means for our taxes and health insurance, and how we're to build a life on this career. I feel like these topics come up more often than not over drinks with a few of my more trusted colleagues. 
 

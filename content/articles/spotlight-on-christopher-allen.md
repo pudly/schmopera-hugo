@@ -1,19 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-02-05T13:27:00-05:00"
-lastmod = "2016-02-17T09:49:00-05:00"
-preamble = "American conductor [Christopher Allen](/scene/people/christopher-allen/) is a rising figure in today's opera scene. He has assisted the likes of Robert Spano, Plácido Domingo, James Conlon, and Donald Runnicles, and he made his conducting debut with the Cincinnati Symphony, for the world premiere of Ricky Ian Gordon's *Morning Star*. As the newly named John L. Magro Resident Conductor for Cincinnati Opera, he'll conduct their production of *Tosca* in July 2016.\n\nAllen recently made his UK debut with [English National Opera](/scene/companies/english-national-opera/)'s production of [*The Barber of Seville*](http://www.christophergallen.com/events/enobarber), and in March, he conducts Donizetti's [*L'elisir d'amore*](http://www.christophergallen.com/events/kcelixir) at [Lyric Opera of Kansas City](/scene/companies/lyric-opera-of-kansas-city/). We had the chance to ask him about his work, about communication skills, and the role opera plays in his time on the podium."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454696977243/ChristopherAllen_GabrielGastelum1---Square.jpg.jpg"
-primary_image_credit = "Photo by Gabriel Gastelum"
-publishDate = "2016-02-09T09:00:00-05:00"
-related_articles = ["articles/spotlight-on-kimberleyann-bartczak.md","articles/spotlight-on-christopher-james-ray.md","articles/at-the-podium-jordan-de-souza.md","articles/potential-orchestra-mutiny-and-conductor-envy.md","articles/gordon-gerrard-music-doesnt-really-work-without-breath.md","articles/talking-with-conductors-harry-bicket.md","articles/talking-with-conductors-oliver-zeffman.md","articles/talking-with-conductors-riccardo-frizza.md","articles/elektra-and-parsifal-yannick-at-the-met.md"]
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/los-angeles-opera.md","scene/companies/lyric-opera-of-kansas-city.md"]
-related_people = ["scene/people/christopher-allen.md"]
-short_description = "Allen recently made his UK debut with English National Opera&#039;s production of The Barber of Seville, and in March, he conducts Donizetti&#039;s L&#039;elisir d&#039;amore at Lyric Opera of Kansas City. We had the chance to ask him about his work, about communication skills, and the role opera plays in his time on the podium."
-slug = "spotlight-on-christopher-allen"
-title = "Spotlight on: Christopher Allen"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-02-05T13:27:00-05:00"
+lastmod: "2016-02-17T09:49:00-05:00"
+preamble: |-
+  American conductor [Christopher Allen](/scene/people/christopher-allen/) is a rising figure in today's opera scene. He has assisted the likes of Robert Spano, Plácido Domingo, James Conlon, and Donald Runnicles, and he made his conducting debut with the Cincinnati Symphony, for the world premiere of Ricky Ian Gordon's *Morning Star*. As the newly named John L. Magro Resident Conductor for Cincinnati Opera, he'll conduct their production of *Tosca* in July 2016.
+
+  Allen recently made his UK debut with [English National Opera](/scene/companies/english-national-opera/)'s production of [*The Barber of Seville*](http://www.christophergallen.com/events/enobarber), and in March, he conducts Donizetti's [*L'elisir d'amore*](http://www.christophergallen.com/events/kcelixir) at [Lyric Opera of Kansas City](/scene/companies/lyric-opera-of-kansas-city/). We had the chance to ask him about his work, about communication skills, and the role opera plays in his time on the podium.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454696977243/ChristopherAllen_GabrielGastelum1---Square.jpg.jpg
+primary_image_credit: Photo by Gabriel Gastelum
+publishDate: "2016-02-09T09:00:00-05:00"
+related_articles:
+- articles/spotlight-on-kimberleyann-bartczak.md
+- articles/spotlight-on-christopher-james-ray.md
+- articles/at-the-podium-jordan-de-souza.md
+- articles/potential-orchestra-mutiny-and-conductor-envy.md
+- articles/gordon-gerrard-music-doesnt-really-work-without-breath.md
+- articles/talking-with-conductors-harry-bicket.md
+- articles/talking-with-conductors-oliver-zeffman.md
+- articles/talking-with-conductors-riccardo-frizza.md
+- articles/elektra-and-parsifal-yannick-at-the-met.md
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/lyric-opera-of-kansas-city.md
+related_people:
+- scene/people/christopher-allen.md
+short_description: Allen recently made his UK debut with English National Opera&#039;s
+  production of The Barber of Seville, and in March, he conducts Donizetti&#039;s
+  L&#039;elisir d&#039;amore at Lyric Opera of Kansas City. We had the chance to ask
+  him about his work, about communication skills, and the role opera plays in his
+  time on the podium.
+slug: spotlight-on-christopher-allen
+title: 'Spotlight on: Christopher Allen'
+_template: article_single
+---
 
 ## How does the role of the conductor differ between opera and symphonic work? 
 

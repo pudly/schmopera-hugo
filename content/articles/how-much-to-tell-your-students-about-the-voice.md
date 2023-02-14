@@ -1,17 +1,28 @@
-+++
-author = ["authors/kristen-seikaly.md"]
-categories = "Op-ed"
-date = "2016-08-04T10:47:00+01:00"
-lastmod = "2016-08-13T09:33:00+01:00"
-preamble = "This post was originally published by [Kristen Seikaly](/scene/people/kristen-seikaly) on [Operaversity](http://operaversity.com/teaching/how-much-tell-your-students-about-the-voice), a great resource for working singers and teachers. For more, follow Operaversity on [Twitter](https://twitter.com/Operaversity) and [Instagram](https://www.instagram.com/operaversity/)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470489153440/2016-08-06---Rubiks-Cube.jpg.jpg"
-publishDate = "2016-08-13T09:33:00+01:00"
-related_articles = ["articles/quick-tips-the-rolled-r-test.md","articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md"]
-related_people = ["scene/people/kristen-seikaly.md"]
-short_description = "Our style of learning may not suit our student, so sometimes we over explain technical concepts not because we&#039;re wrong, but because it loses our student. If you ever find yourself wondering why one student seems to understand an explanation perfectly well and another doesn&#039;t, this might be why."
-slug = "how-much-to-tell-your-students-about-the-voice"
-title = "How much to tell your students about the voice"
-+++
+---
+author:
+- authors/kristen-seikaly.md
+categories: Op-ed
+date: "2016-08-04T10:47:00+01:00"
+lastmod: "2016-08-13T09:33:00+01:00"
+preamble: This post was originally published by [Kristen Seikaly](/scene/people/kristen-seikaly)
+  on [Operaversity](http://operaversity.com/teaching/how-much-tell-your-students-about-the-voice),
+  a great resource for working singers and teachers. For more, follow Operaversity
+  on [Twitter](https://twitter.com/Operaversity) and [Instagram](https://www.instagram.com/operaversity/).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470489153440/2016-08-06---Rubiks-Cube.jpg.jpg
+publishDate: "2016-08-13T09:33:00+01:00"
+related_articles:
+- articles/quick-tips-the-rolled-r-test.md
+- articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md
+related_people:
+- scene/people/kristen-seikaly.md
+short_description: Our style of learning may not suit our student, so sometimes we
+  over explain technical concepts not because we&#039;re wrong, but because it loses
+  our student. If you ever find yourself wondering why one student seems to understand
+  an explanation perfectly well and another doesn&#039;t, this might be why.
+slug: how-much-to-tell-your-students-about-the-voice
+title: How much to tell your students about the voice
+_template: article_single
+---
 
 When it comes to teaching the voice, it can be difficult to explain certain concepts. Even though we *technically* have a physical instrument as singers, it ends up being so abstract. We can't see it. We can't really feel it. Instead, we must simply imagine the instrument and feel the sensations that come from using it.
 

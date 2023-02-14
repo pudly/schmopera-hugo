@@ -1,15 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-12T17:33:00-04:00"
-lastmod = "2017-07-16T10:46:00-04:00"
-preamble = "This year's performance season for [Summer Opera Lyric Theatre](/scene/companies/summer-opera-lyric-theatre/) (SOLT) kicks off on **July 28**, with a [Canadian double-bill](http://www.solt.ca/performances.html): John Beckwith's *Night Blooming Cereus* and Michael Rose's *A Northern Light's Dream*. The latter is a new SOLT commission that sees its world premiere this summer; it draws inspiration from Shakespeare's *A Midsummer Night's Dream*, and the Ontario-set *Northern Lights Dream* - a man's coming-out story, told from the vantage point of his wife - holds a similar balance of earthiness and magic.\n\nRose chats about storytelling, inspiration from the greats, and why opera should be seen and not simply heard.\n\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499895712218/2017-07-12---Michael-Rose.jpg.jpg"
-publishDate = "2017-07-16T10:21:00-04:00"
-short_description = "&quot;To tell the story of a wife coming to the realization that her husband is gay, you need a catalyst. Something must happen to put the idea into her head, when every fibre of her being wants to deny the possibility. Then she needs time to deal with it. To do all this within the limits of a one-act play is a huge challenge. &quot;"
-slug = "dont-miss-a-northern-lights-dream"
-title = "Don&#039;t miss: A Northern Lights Dream"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-12T17:33:00-04:00"
+lastmod: "2017-07-16T10:46:00-04:00"
+preamble: |+
+  This year's performance season for [Summer Opera Lyric Theatre](/scene/companies/summer-opera-lyric-theatre/) (SOLT) kicks off on **July 28**, with a [Canadian double-bill](http://www.solt.ca/performances.html): John Beckwith's *Night Blooming Cereus* and Michael Rose's *A Northern Light's Dream*. The latter is a new SOLT commission that sees its world premiere this summer; it draws inspiration from Shakespeare's *A Midsummer Night's Dream*, and the Ontario-set *Northern Lights Dream* - a man's coming-out story, told from the vantage point of his wife - holds a similar balance of earthiness and magic.
+
+  Rose chats about storytelling, inspiration from the greats, and why opera should be seen and not simply heard.
+
+
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499895712218/2017-07-12---Michael-Rose.jpg.jpg
+publishDate: "2017-07-16T10:21:00-04:00"
+short_description: '&quot;To tell the story of a wife coming to the realization that
+  her husband is gay, you need a catalyst. Something must happen to put the idea into
+  her head, when every fibre of her being wants to deny the possibility. Then she
+  needs time to deal with it. To do all this within the limits of a one-act play is
+  a huge challenge. &quot;'
+slug: dont-miss-a-northern-lights-dream
+title: 'Don&#039;t miss: A Northern Lights Dream'
+_template: article_single
+---
 
 ## What can you tell us about *A Northern Lights Dream*?
 
@@ -21,7 +32,9 @@ Originally, I wanted to use the same voice types that John Beckwith used in *Cer
 
 Musically, the piece is a hybrid, straddling sounds and structures that people will associate with opera and with musical theater. The degree of opera-ness and musical-ness depends on the nature of the character. The more other-worldly the character (a handmaiden to the goddess Aurora, for instance), the more operatic the sound. There is also a lot of spoken dialogue. In this sense, it has much in common with a play.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499896209895/2017-07-12---IMG_5748.jpg.jpg)<figcaption>In rehearsal for *A Northern Lights Dream*. Photo courtesy of Summer Opera Lyric Theatre.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499896209895/2017-07-12---IMG_5748.jpg.jpg)<figcaption>In rehearsal for *A Northern Lights Dream*. Photo courtesy of Summer Opera Lyric Theatre.</figcaption>
 </figure>
 
 ## How have you paired a contemporary, Canadian-set story with inspiration from Shakespeare and mythology?
@@ -36,7 +49,10 @@ I think opera, like any dramatic form, requires a story that needs to be seen an
 
 Opera, or any kind of music theatre must also have an inner emotional story that is best portrayed through music. But this could also be said of film. Music scoring for film is horribly undervalued. But it makes the art of film the closest relative to opera. Closer than plays, I would say. Most films would be as dull as dirt without the music. A brilliant film director – Hitchcock, for instance – knows its value. He may have been the most operatic of all film directors. Music can move things forward, create suspense, and let us feel in a direct way what the characters are feeling. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499896183948/2017-07-12---NorthernLightsCast.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499896183948/2017-07-12---NorthernLightsCast.jpg.jpg)
+
 <figcaption>The *Northern Lights Dream* team, clockwise from top left: Suzy Smith (music director & pianist), Grace Quinsey (Helen), Shaelyn Archibald (Helen), Logan Hickey (Taylor), Jenny Cohen (Mrs. Duke), Rosalind McArthur (Mrs. Duke).</figcaption>
 </figure>
 

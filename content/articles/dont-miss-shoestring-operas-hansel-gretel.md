@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-05-04T13:36:00+01:00"
-lastmod = "2016-05-04T14:08:00+01:00"
-preamble = "Toronto-based [Shoestring Opera](/scene/companies/shoestring-opera/) has been busy bringing opera to young audiences since 2004. They adapt classic works like *Carmen* and *The Magic Flute*, condense them to about 45 minutes in length, and spin the stories so they're entertaining, accessible, and appealing to kids. The results include \"glorious music, madcap humour and great storytelling. Irresistible to all ages!\"\n\nOn **Sunday, June 5** North York's [Solar Stage Children's Theatre](http://solarstage.on.ca/index.html), Shoestring Opera presents two performances of their very own adaptation of Humperdinck's *Hänsel and Gretel*, with a libretto by Mark Brownell. In their tale, Hansel and Gretel have an odd neighbour, who \"might be a witch, with an awful twitch, who rides the air with a broomstick switch!\" At 11am and 2pm, audiences can enjoy gorgeous music, learn some new dance moves, and hear a new take on a classic story.\n\nWe chat with cellist and Shoestring Opera Executive Producer Anne Rankin, about their upcoming *Hansel and Gretel*, and the fun of tailoring grown-up operas for young listeners."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546053071/media/2018/12/2016-05-05---HGDancingWitch.jpg"
-publishDate = "2016-05-04T14:08:00+01:00"
-related_articles = ["articles/music-matters-at-mini-mozarts-summer-music-camp.md", "articles/the-tfco-a-young-peoples-opera-blitz.md", "articles/dont-miss-schoolyard-carmen-at-tsmf.md"]
-related_companies = ["scene/companies/shoestring-opera.md"]
-short_description = "On Sunday, June 5 North York&#039;s Solar Stage Children&#039;s Theatre, Shoestring Opera presents two performances of their very own adaptation of Humperdinck&#039;s Hänsel and Gretel, with a libretto by Mark Brownell. In their tale, Hansel and Gretel have an odd neighbour, who &quot;might be a witch, with an awful twitch, who rides the air with a broomstick switch!&quot; At 11am and 2pm, audiences can enjoy gorgeous music, learn some new dance moves, and hear a new take on a classic story."
-slug = "dont-miss-shoestring-operas-hansel-gretel"
-title = "Don&#039;t miss: Shoestring Opera&#039;s Hansel &amp; Gretel"
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-05-04T13:36:00+01:00"
+lastmod: "2016-05-04T14:08:00+01:00"
+preamble: |-
+  Toronto-based [Shoestring Opera](/scene/companies/shoestring-opera/) has been busy bringing opera to young audiences since 2004. They adapt classic works like *Carmen* and *The Magic Flute*, condense them to about 45 minutes in length, and spin the stories so they're entertaining, accessible, and appealing to kids. The results include "glorious music, madcap humour and great storytelling. Irresistible to all ages!"
 
-+++
+  On **Sunday, June 5** North York's [Solar Stage Children's Theatre](http://solarstage.on.ca/index.html), Shoestring Opera presents two performances of their very own adaptation of Humperdinck's *Hänsel and Gretel*, with a libretto by Mark Brownell. In their tale, Hansel and Gretel have an odd neighbour, who "might be a witch, with an awful twitch, who rides the air with a broomstick switch!" At 11am and 2pm, audiences can enjoy gorgeous music, learn some new dance moves, and hear a new take on a classic story.
+
+  We chat with cellist and Shoestring Opera Executive Producer Anne Rankin, about their upcoming *Hansel and Gretel*, and the fun of tailoring grown-up operas for young listeners.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546053071/media/2018/12/2016-05-05---HGDancingWitch.jpg
+publishDate: "2016-05-04T14:08:00+01:00"
+related_articles:
+- articles/music-matters-at-mini-mozarts-summer-music-camp.md
+- articles/the-tfco-a-young-peoples-opera-blitz.md
+- articles/dont-miss-schoolyard-carmen-at-tsmf.md
+related_companies:
+- scene/companies/shoestring-opera.md
+short_description: On Sunday, June 5 North York&#039;s Solar Stage Children&#039;s
+  Theatre, Shoestring Opera presents two performances of their very own adaptation
+  of Humperdinck&#039;s Hänsel and Gretel, with a libretto by Mark Brownell. In their
+  tale, Hansel and Gretel have an odd neighbour, who &quot;might be a witch, with
+  an awful twitch, who rides the air with a broomstick switch!&quot; At 11am and 2pm,
+  audiences can enjoy gorgeous music, learn some new dance moves, and hear a new take
+  on a classic story.
+slug: dont-miss-shoestring-operas-hansel-gretel
+title: 'Don&#039;t miss: Shoestring Opera&#039;s Hansel &amp; Gretel'
+_template: article_single
+---
 ## How have you adapted your *Hansel and Gretel* to better suit a younger audience?
 
 Shoestring Opera's *Hansel and Gretel* is set on Halloween Night. Hansel and Gretel are home alone because their mum is at work. They struggle with sibling rivalry and disobedience, and make the mistake of going out trick or treating on their own after their mother has instructed them not to. It is after they return home and fall asleep, buzzing from their candy sugar high, that they have a dream of being lost in a forest. Our younger audience members are challenged to separate fantasy from reality in the dream sequence, during which emerges someone who strangely resembles the weird cello lady who lives next door... a Singing, Dancing, Wicked Witch Cellist!

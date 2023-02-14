@@ -1,17 +1,18 @@
-+++
-date = "2015-12-13T20:31:00-05:00"
-lastmod = "2015-12-13T20:31:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450056480651/2015-12-14---Megan-Moore.jpg.jpg"
-publishDate = "2015-12-13T20:31:00-05:00"
-short_bio = "Active as a singing actress, Megan sang the role of Blanche de la Force in Eastman Opera Theatre’s most recent production of *Dialogues of the Carmelites*. Other leading operatic roles include Mabel in *Pirates of Penzance* and the title role in Massenet’s *Cinderella*. Megan made her operatic debut singing La Suora Infermiera in Puccini’s *Suor Angelica*. Megan’s training and skills extend to musical theatre and dance. Musical theatre credits include Jo in *Little Women*, Hope in *Anything Goes*, and Belle in *Beauty and the Beast*. She is also no stranger to straight theatre, having performed the role of Mrs. Frank in *The Diary of Anne Frank*.\n"
-slug = "megan-moore"
-title = "Megan Moore"
-website = "http://www.meganmooreonline.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/meganmooresoprano?fref=ts"
-+++
+---
+date: "2015-12-13T20:31:00-05:00"
+lastmod: "2015-12-13T20:31:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450056480651/2015-12-14---Megan-Moore.jpg.jpg
+publishDate: "2015-12-13T20:31:00-05:00"
+short_bio: |
+  Active as a singing actress, Megan sang the role of Blanche de la Force in Eastman Opera Theatre’s most recent production of *Dialogues of the Carmelites*. Other leading operatic roles include Mabel in *Pirates of Penzance* and the title role in Massenet’s *Cinderella*. Megan made her operatic debut singing La Suora Infermiera in Puccini’s *Suor Angelica*. Megan’s training and skills extend to musical theatre and dance. Musical theatre credits include Jo in *Little Women*, Hope in *Anything Goes*, and Belle in *Beauty and the Beast*. She is also no stranger to straight theatre, having performed the role of Mrs. Frank in *The Diary of Anne Frank*.
+slug: megan-moore
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/meganmooresoprano?fref=ts
+title: Megan Moore
+website: http://www.meganmooreonline.com/
+---
 
 Mezzo-soprano Megan Moore hails from Cincinnati, OH. An Eastman School of Music Concerto Competition Winner, Megan has performed Berlioz’s *Les nuits d’été* at Kodak Hall with the Eastman School Symphony Orchestra. In a concert celebrating André Previn’s 85th birthday, Megan was chosen to be soloist with the Eastman Wind Ensemble in a special arrangement of Mr. Previn’s Vocalise. She was also featured as soloist in BWVs 80 and 179 in “Bach! A Cantata Series ” in Rochester, NY. Megan has been featured as soprano soloist in choral works with Miami University Chamber Singers, Miami University’s A Grand Night for Singing, and Westwood Presbyterian Chancel Choir.
  

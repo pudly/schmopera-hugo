@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-13T13:11:00-04:00"
-lastmod = "2017-07-20T12:24:00-04:00"
-preamble = "Orlando-born tenor and current [LA Opera](/scene/people/los-angeles-opera/) Young Artist [Carlos Enrique Santelli](/scene/people/carlos-enrique-santelli/) is spending his summer as an [Apprentice Singer](https://www.santafeopera.org/about-us/apprentice-opportunities/singers/2017-apprentice-singers) with [The Santa Fe Opera](/scene/companies/the-santa-fe-opera/). He'll sing the role of Arturo in [*Lucia di Lammermoor*](https://www.santafeopera.org/operas-and-ticketing/lucia-di-lammermoor) (onstage until **August 24**), and he'll spend his time between shows immersed in one of the world's highest-profile summer opera festivals.\n\nSantelli offers up a day-in-the-life of a SFO Apprentic Singer, and the fun of planning his upcoming nuptials via wi-fi.\n\n(Sidebar & moment of pride: I first met and worked with Carlos back when he was a first-year undergrad student at Oberlin Conservatory. Time does fly, & singers grow up quickly!)"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500399524073/2017-07-18---SANTELLI.jpg.jpg"
-publishDate = "2017-07-20T12:24:00-04:00"
-related_articles = ["articles/talking-with-singers-matthew-polenzani.md","articles/spotlight-on-william-ford.md","articles/young-singers-in-santa-fe-kasia-borowiec.md","articles/young-singers-in-santa-fe-jessica-e-jones.md"]
-related_companies = ["scene/companies/the-santa-fe-opera.md"]
-related_people = ["scene/people/carlos-enrique-santelli.md"]
-short_description = "&quot;A huge highlight for me this year has been making my Santa Fe Opera debut as Arturo in Lucia! If you would have told my family or myself 2 or 3 years ago that I would be singing on this stage so soon, I don&#039;t think we would have believed you. It gives me a great sense of pride to make them proud.&quot;"
-slug = "santa-fe-santelli"
-title = "Young singers in Santa Fe: Carlos Enrique Santelli"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-13T13:11:00-04:00"
+lastmod: "2017-07-20T12:24:00-04:00"
+preamble: |-
+  Orlando-born tenor and current [LA Opera](/scene/people/los-angeles-opera/) Young Artist [Carlos Enrique Santelli](/scene/people/carlos-enrique-santelli/) is spending his summer as an [Apprentice Singer](https://www.santafeopera.org/about-us/apprentice-opportunities/singers/2017-apprentice-singers) with [The Santa Fe Opera](/scene/companies/the-santa-fe-opera/). He'll sing the role of Arturo in [*Lucia di Lammermoor*](https://www.santafeopera.org/operas-and-ticketing/lucia-di-lammermoor) (onstage until **August 24**), and he'll spend his time between shows immersed in one of the world's highest-profile summer opera festivals.
+
+  Santelli offers up a day-in-the-life of a SFO Apprentic Singer, and the fun of planning his upcoming nuptials via wi-fi.
+
+  (Sidebar & moment of pride: I first met and worked with Carlos back when he was a first-year undergrad student at Oberlin Conservatory. Time does fly, & singers grow up quickly!)
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500399524073/2017-07-18---SANTELLI.jpg.jpg
+publishDate: "2017-07-20T12:24:00-04:00"
+related_articles:
+- articles/talking-with-singers-matthew-polenzani.md
+- articles/spotlight-on-william-ford.md
+- articles/young-singers-in-santa-fe-kasia-borowiec.md
+- articles/young-singers-in-santa-fe-jessica-e-jones.md
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+related_people:
+- scene/people/carlos-enrique-santelli.md
+short_description: '&quot;A huge highlight for me this year has been making my Santa
+  Fe Opera debut as Arturo in Lucia! If you would have told my family or myself 2
+  or 3 years ago that I would be singing on this stage so soon, I don&#039;t think
+  we would have believed you. It gives me a great sense of pride to make them proud.&quot;'
+slug: santa-fe-santelli
+title: 'Young singers in Santa Fe: Carlos Enrique Santelli'
+_template: article_single
+---
 
 ## Can you describe a day in the life of an apprentice singer at Santa Fe Opera?
 

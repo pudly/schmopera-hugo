@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-03-27T11:04:00+01:00"
-lastmod = "2017-03-28T11:40:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490615566318/2017-03-27---Dessay.jpg.jpg"
-primary_image_credit = "Photo: Brigitte Lacombe licensed to Warner Classics."
-publishDate = "2017-03-28T11:16:00+01:00"
-related_articles = ["articles/cecilia-bartoli-atonal-music-creates-a-barrier-between-composer-and-singer.md","articles/michael-fabiano-classical-music-deserves-better.md"]
-short_description = "Frankly, there are either examples of forward-looking operas, or there aren&#039;t. It&#039;s strange that Dessay dismisses the works of two of the great opera composers of the 20th and 21st centuries, as though their rarity makes them invalid. On top of the big names like Adams and Adès, a fair peruse of what&#039;s happening in places like Minnesota Opera, Opera Philadelphia, Lyric Opera of Chicago, and Houston Grand Opera can easily dispel the &quot;rare&quot; myth."
-slug = "natalie-dessay-opera-is-an-art-which-has-not-been-able-to-renew"
-title = "Natalie Dessay: &quot;opera is an art which has not been able to renew.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-03-27T11:04:00+01:00"
+lastmod: "2017-03-28T11:40:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490615566318/2017-03-27---Dessay.jpg.jpg
+primary_image_credit: 'Photo: Brigitte Lacombe licensed to Warner Classics.'
+publishDate: "2017-03-28T11:16:00+01:00"
+related_articles:
+- articles/cecilia-bartoli-atonal-music-creates-a-barrier-between-composer-and-singer.md
+- articles/michael-fabiano-classical-music-deserves-better.md
+short_description: Frankly, there are either examples of forward-looking operas, or
+  there aren&#039;t. It&#039;s strange that Dessay dismisses the works of two of the
+  great opera composers of the 20th and 21st centuries, as though their rarity makes
+  them invalid. On top of the big names like Adams and Adès, a fair peruse of what&#039;s
+  happening in places like Minnesota Opera, Opera Philadelphia, Lyric Opera of Chicago,
+  and Houston Grand Opera can easily dispel the &quot;rare&quot; myth.
+slug: natalie-dessay-opera-is-an-art-which-has-not-been-able-to-renew
+title: 'Natalie Dessay: &quot;opera is an art which has not been able to renew.&quot;'
+_template: article_single
+---
 
 In an interview with [*Forum Opéra*](http://www.forumopera.com/actu/natalie-dessay-je-veux-metonner-moi-meme), star soprano Natalie Dessay made some comments that got our attention. Translated from French:
 

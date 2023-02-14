@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-05-25T13:56:00+01:00"
-lastmod = "2016-02-29T19:11:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433177914389/ParisOpera.jpg.jpg"
-publishDate = "2015-06-02T14:18:00+01:00"
-related_articles = ["articles/who-cares-what-bring-on-the-why.md", "articles/arizona-opera-on-tradition.md", "articles/whats-on-at-the-met-201617.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md", "scene/companies/tapestry-opera.md", "scene/companies/indie-opera-to.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/ana-sokolovic.md", "scene/people/david-lang.md"]
-short_description = "We&#039;re talking about newbies, here; if everything is new, everything is on the table. I say then, let&#039;s first present opera in its most progressive form. Not to create a bias, but precisely because preconceptions about opera exist; the simplest way to break them down is to show them something, called opera, that doesn&#039;t fit the stereotypes."
-slug = "opera-for-first-timers-thinking-outside-the-box"
-title = "Opera for first-timers &amp; thinking outside the box"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-05-25T13:56:00+01:00"
+lastmod: "2016-02-29T19:11:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433177914389/ParisOpera.jpg.jpg
+publishDate: "2015-06-02T14:18:00+01:00"
+related_articles:
+- articles/who-cares-what-bring-on-the-why.md
+- articles/arizona-opera-on-tradition.md
+- articles/whats-on-at-the-met-201617.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/ana-sokolovic.md
+- scene/people/david-lang.md
+short_description: We&#039;re talking about newbies, here; if everything is new, everything
+  is on the table. I say then, let&#039;s first present opera in its most progressive
+  form. Not to create a bias, but precisely because preconceptions about opera exist;
+  the simplest way to break them down is to show them something, called opera, that
+  doesn&#039;t fit the stereotypes.
+slug: opera-for-first-timers-thinking-outside-the-box
+title: Opera for first-timers &amp; thinking outside the box
+_template: article_single
+---
 There's a lot written about what operas are great for first-timers. *Carmen*, *Don Giovanni*, *Tosca*, *The Barber of Seville*, *La bohème*, *La traviata*, these are all popular picks, apparently some of our best bets at luring new audiences to the opera (and having them come back again). The [Royal Opera House](http://www.roh.org.uk/news/opera-for-first-timers-your-suggestions) asked its Twitter followers what their suggestions for first-timers would be; their picks mirrored my examples above, plus a few votes of *Die Zauberflöte* and *L'elisir d'amore*.
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/RoyalOperaHouse">@RoyalOperaHouse</a> Tosca. It&#39;s all there: love, death &amp; a fabulous baddie with one of the best arias in opera!</p>&mdash; Penny Murphy (@PennyMurphy) <a href="https://twitter.com/PennyMurphy/status/288342173647265793">January 7, 2013</a></blockquote>

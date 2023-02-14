@@ -1,18 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-04-04T19:43:00+01:00"
-lastmod = "2016-04-05T10:33:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459795500620/2016-04-04---Anna-Devin.jpg.jpg"
-primary_image_credit = "Photo: Victoria Cadisch."
-publishDate = "2016-04-05T09:47:00+01:00"
-related_articles = ["articles/talking-with-singers-elizabeth-deshong.md","articles/talking-with-singers-leah-crocetto.md","articles/talking-with-singers-christine-goerke.md","articles/a-very-happy-20th-birthday-for-classical-opera.md"]
-related_companies = ["scene/companies/welsh-national-opera.md","scene/companies/teatro-alla-scala.md"]
-related_people = ["scene/people/anna-devin.md"]
-short_description = "Devin feels &quot;completely at home in Handel&quot; and relishes the collaborative process of pulling the music off the page. &quot;You can&#039;t actually be wrong; you can have a difference of opinion between you and the conductor, but there&#039;s nothing to say that you&#039;re wrong. And I quite like that, because it means we can have interesting discussions about why you should do one thing and why you shouldn&#039;t do another.&quot;"
-slug = "talking-with-singers-anna-devin"
-title = "Talking with singers: Anna Devin"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-04-04T19:43:00+01:00"
+lastmod: "2016-04-05T10:33:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459795500620/2016-04-04---Anna-Devin.jpg.jpg
+primary_image_credit: 'Photo: Victoria Cadisch.'
+publishDate: "2016-04-05T09:47:00+01:00"
+related_articles:
+- articles/talking-with-singers-elizabeth-deshong.md
+- articles/talking-with-singers-leah-crocetto.md
+- articles/talking-with-singers-christine-goerke.md
+- articles/a-very-happy-20th-birthday-for-classical-opera.md
+related_companies:
+- scene/companies/welsh-national-opera.md
+- scene/companies/teatro-alla-scala.md
+related_people:
+- scene/people/anna-devin.md
+short_description: Devin feels &quot;completely at home in Handel&quot; and relishes
+  the collaborative process of pulling the music off the page. &quot;You can&#039;t
+  actually be wrong; you can have a difference of opinion between you and the conductor,
+  but there&#039;s nothing to say that you&#039;re wrong. And I quite like that, because
+  it means we can have interesting discussions about why you should do one thing and
+  why you shouldn&#039;t do another.&quot;
+slug: talking-with-singers-anna-devin
+title: 'Talking with singers: Anna Devin'
+_template: article_single
+---
 
 Irish soprano [Anna Devin](/scene/people/anna-devin/) was enjoying a rare week at home, when she spoke with us between performances of Susanna in [Welsh National Opera](/scene/companies/welsh-national-opera/)'s touring production of *The Marriage of Figaro*. "When you're in the UK when you're not so far from home, you can spend an awful lot of time trying to get home for a night," says Devin. "When I've had the year that I've had," she says, "I need to maximize the time I have at home, otherwise I'd never see my husband."
 
@@ -28,7 +42,9 @@ Singing in *L'enfant* will add a bit of variety to Devin's calendar, which is mo
 
 Singing Handel, Devin revels in the endless options in his scores. "I love the fact that Handel gives you freedom to be a musician, and not just a singer," she explains. While some singers prefer the feeling of vocal spaciousness in the music of Puccini, Strauss, and other Romantics, Devin feels "completely at home in Handel" and relishes the collaborative process of pulling the music off the page. "You can't actually be wrong; you can have a difference of opinion between you and the conductor, but there's nothing to say that you're wrong. And I quite like that, because it means we can have interesting discussions about why you should do one thing and why you shouldn't do another."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459795840308/2016-04-04---Devin-Handel_Faramando.jpg.jpg)<figcaption>Anna Devin as Clotilde in Handel's *Faramondo*, Göttigen Handel Festival, 2014.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459795840308/2016-04-04---Devin-Handel_Faramando.jpg.jpg)<figcaption>Anna Devin as Clotilde in Handel's *Faramondo*, Göttigen Handel Festival, 2014.</figcaption>
 </figure>
 
 When a singer carves out a niche for oneself, finding comfort and affinity in certain repertoire, it's often a balance between capitalizing on one's strengths, and staying versatile. Devin spent time as a Jette Parker Young Artist the [Royal Opera House](/scene/companies/royal-opera-house/), where she took advantage of a diversity of roles. "I got to look at First Nymph in *Rusalka*, I did some Donizetti, some Puccini, I did Mozart, I did some contemporary music. I'm really glad I didn't just pigeon-hole myself into Early Music."
@@ -41,7 +57,9 @@ It can be an intimidating thing for a young singer to have a hunch about their v
 
 Devin has learned to differentiate between opinions and criticisms of her voice, verses of her person. "Not everyone's going to like you," she admits. "That's another thing we have to learn. Some people will really love you, and some people might really dislike your singing. And it's nothing to do with what you're doing, it's just that they don't like your voice, they don't have an affinity with the sound that you make."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459795920741/2016-04-04---JPYA_photo-Richard_H._Smith-3338_DEVIN_AS_MARIE_C_SMITH.jpg.jpg)<figcaption>Anna Devin as Marie in the Jette Parker Young Artists in the Linbury, 2012. Photo by Richard H. Smith.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459795920741/2016-04-04---JPYA_photo-Richard_H._Smith-3338_DEVIN_AS_MARIE_C_SMITH.jpg.jpg)<figcaption>Anna Devin as Marie in the Jette Parker Young Artists in the Linbury, 2012. Photo by Richard H. Smith.</figcaption>
 </figure>
 
 ## Roles to look forward to

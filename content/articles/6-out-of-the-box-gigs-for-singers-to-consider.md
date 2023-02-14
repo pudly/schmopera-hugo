@@ -1,22 +1,45 @@
-+++
-author = ["authors/donna-maurer.md"]
-categories = "How-To"
-date = 2020-05-10T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = "Singers are having a [difficult time right now](/isolation-blogging-its-out-there/), especially ones who are used to singing at large events to make ends meet. Gigs are essential to your well-being and it can be hard to navigate how to continue to perform. However, there may be some things that you as a singer are not considering, or maybe you just haven’t thought of them yet. There are multiple ways that you can utilize the digital online world to work in your favor as a singer.\n\nThe most important thing to remember is being [active on all social media platforms](https://sproutsocial.com/insights/social-media-for-musicians/) - it is super important right now to have an online presence so that people can see and respond to you. It’s also the easiest, fastest and a free way to advertise for any gigs!"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1589042267/media/2020/05/sqOutoftheBox_xuhqi8.jpg"
-primary_image_credit = ""
-related_articles = ["articles/4-unwritten-skills-professional-singers-need.md", "articles/the-top-5-things-your-music-instructor-wants-you-to-know.md"]
-related_companies = []
-related_people = []
-short_description = "The most important thing to remember is being active on all social media platforms - it is super important right now to have an online presence so that people can see and respond to you. It’s also the easiest, fastest and a free way to advertise for any gigs!"
-slug = "6-out-of-the-box-gigs-for-singers-to-consider"
-title = "6 out-of-the-box gigs for singers to consider"
-youtube_url = ""
+---
+author:
+  - authors/donna-maurer.md
+categories: How-To
+date: '2020-05-10T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: >-
+  Singers are having a [difficult time right
+  now](/isolation-blogging-its-out-there/), especially ones who are used to
+  singing at large events to make ends meet. Gigs are essential to your
+  well-being and it can be hard to navigate how to continue to perform. However,
+  there may be some things that you as a singer are not considering, or maybe
+  you just haven’t thought of them yet. There are multiple ways that you can
+  utilize the digital online world to work in your favor as a singer.
 
-+++
+
+  The most important thing to remember is being [active on all social media
+  platforms](https://sproutsocial.com/insights/social-media-for-musicians/) - it
+  is super important right now to have an online presence so that people can see
+  and respond to you. It’s also the easiest, fastest and a free way to advertise
+  for any gigs!
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1589042267/media/2020/05/sqOutoftheBox_xuhqi8.jpg
+primary_image_credit: ''
+related_articles:
+  - articles/4-unwritten-skills-professional-singers-need.md
+  - articles/the-top-5-things-your-music-instructor-wants-you-to-know.md
+related_companies: []
+related_people: []
+short_description: >-
+  The most important thing to remember is being active on all social media
+  platforms - it is super important right now to have an online presence so that
+  people can see and respond to you. It’s also the easiest, fastest and a free
+  way to advertise for any gigs!
+slug: 6-out-of-the-box-gigs-for-singers-to-consider
+title: 6 out-of-the-box gigs for singers to consider
+youtube_url: ''
+_template: article_single
+---
+
 ## Host an online "live" virtual concert
 
 Gather up some of your musician friends and create an online concert. You can get creative with this by pre-recording your vocals with backing tracks or having other musicians play certain parts to put the songs together. Do it solo or collaborate with other musicians that may also be looking for gigs, so that you can have a broader outreach.

@@ -1,15 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2015-04-22T21:14:00+01:00"
-lastmod = "2016-08-20T12:17:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471691859607/2016-08-20---Leader.jpg.jpg"
-publishDate = "2015-04-25T20:05:00+01:00"
-related_articles = ["articles/on-pianists-those-vicarious-opera-singers.md","articles/in-defence-of-pianists.md","articles/how-to-play-for-singers.md","articles/how-to-really-learn-a-song.md","articles/4-secrets-for-better-high-notes.md","articles/star-repetiteur-there-is-such-a-thing.md","articles/putting-on-show-instrumentalists.md","articles/quick-tips-the-rolled-r-test.md","articles/4-steps-to-taking-fixing-notes.md","articles/how-to-empathize-with-singers.md","articles/new-opera-repetiteur.md","articles/what-do-singers-want-in-a-pianist.md","articles/leonard-bernstein-nyfos-i-think-hed-be-pretty-proud-of-it.md","articles/playing-bel-canto-4-tips-for-pianists.md","articles/talking-with-pianists-james-cheung.md","articles/dont-miss-songfest-alumni-in-recital.md"]
-short_description = "Singers, how much do you love auditions? I know you&#039;re all troopers, experts at the art of wowing someone in two arias or less. It&#039;s really all about making your way through the huge list of Things You Can&#039;t Control. Often, one of those things is the prowess of your audition accompanist."
-slug = "how-to-lead-your-pianist"
-title = "How to lead your pianist"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2015-04-22T21:14:00+01:00"
+lastmod: "2016-08-20T12:17:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471691859607/2016-08-20---Leader.jpg.jpg
+publishDate: "2015-04-25T20:05:00+01:00"
+related_articles:
+- articles/on-pianists-those-vicarious-opera-singers.md
+- articles/in-defence-of-pianists.md
+- articles/how-to-play-for-singers.md
+- articles/how-to-really-learn-a-song.md
+- articles/4-secrets-for-better-high-notes.md
+- articles/star-repetiteur-there-is-such-a-thing.md
+- articles/putting-on-show-instrumentalists.md
+- articles/quick-tips-the-rolled-r-test.md
+- articles/4-steps-to-taking-fixing-notes.md
+- articles/how-to-empathize-with-singers.md
+- articles/new-opera-repetiteur.md
+- articles/what-do-singers-want-in-a-pianist.md
+- articles/leonard-bernstein-nyfos-i-think-hed-be-pretty-proud-of-it.md
+- articles/playing-bel-canto-4-tips-for-pianists.md
+- articles/talking-with-pianists-james-cheung.md
+- articles/dont-miss-songfest-alumni-in-recital.md
+short_description: Singers, how much do you love auditions? I know you&#039;re all
+  troopers, experts at the art of wowing someone in two arias or less. It&#039;s really
+  all about making your way through the huge list of Things You Can&#039;t Control.
+  Often, one of those things is the prowess of your audition accompanist.
+slug: how-to-lead-your-pianist
+title: How to lead your pianist
+_template: article_single
+---
 
 Singers, how much do you love auditions? I know you're all troopers, experts at the art of wowing someone in two arias or less. It's really all about making your way through the huge list of Things You Can't Control. Often, one of those things is the prowess of your audition pianist.
 

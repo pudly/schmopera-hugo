@@ -1,26 +1,25 @@
-+++
-date = "2017-10-16T13:20:00-04:00"
-discipline = "Violinist"
-lastmod = "2017-10-16T13:20:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508174313782/Jennifer_Pike_4_-_c_Tom_Barnes.jpg.jpg"
-primary_image_credit = "Tom Barnes"
-publishDate = "2017-10-16T13:20:00-04:00"
-slug = "jennifer-pike"
-title = "Jennifer Pike"
-website = "http://jenniferpike.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/jenniferpikeviolinist"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/JenniferPikeVLN"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/jennifer-pike-violin"
-+++
+---
+date: "2017-10-16T13:20:00-04:00"
+discipline: Violinist
+lastmod: "2017-10-16T13:20:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508174313782/Jennifer_Pike_4_-_c_Tom_Barnes.jpg.jpg
+primary_image_credit: Tom Barnes
+publishDate: "2017-10-16T13:20:00-04:00"
+slug: jennifer-pike
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/jenniferpikeviolinist
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/JenniferPikeVLN
+- platform: Soundcloud
+  _template: social_media
+  url: https://soundcloud.com/jennifer-pike-violin
+title: Jennifer Pike
+website: http://jenniferpike.com/
+_template: "people_single"
+---
 
 Renowned for her unique artistry and compelling insight into music from the Baroque to the present day, Jennifer Pike has established herself as one of today’s most exciting instrumentalists. 
 

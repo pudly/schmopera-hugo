@@ -1,23 +1,27 @@
-+++
-date = "2015-04-08T10:41:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-08T10:41:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428503938693/BRADLEY-PHOTO2HIRES.jpg.jpg"
-primary_image_credit = "Jillianathome.com"
-publishDate = "2015-04-08T10:41:00-04:00"
-related_companies = ["scene/companies/voicebox-opera-in-concert.md","scene/companies/toronto-symphony-orchestra.md","scene/companies/pacific-opera-victoria.md","scene/companies/saskatoon-opera.md"]
-slug = "leslie-ann-bradley"
-title = "Leslie Ann Bradley"
-website = "http://www.leslieannbradley.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/LeslieAnnBradleySoprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/LeslieABradley"
-+++
+---
+date: "2015-04-08T10:41:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-08T10:41:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428503938693/BRADLEY-PHOTO2HIRES.jpg.jpg
+primary_image_credit: Jillianathome.com
+publishDate: "2015-04-08T10:41:00-04:00"
+related_companies:
+- scene/companies/voicebox-opera-in-concert.md
+- scene/companies/toronto-symphony-orchestra.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/saskatoon-opera.md
+slug: leslie-ann-bradley
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/LeslieAnnBradleySoprano
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/LeslieABradley
+title: Leslie Ann Bradley
+website: http://www.leslieannbradley.com/
+_template: "people_single"
+---
 
 <p>
 	Canadian soprano Leslie Ann Bradley "brings the stage to life whenever she sets foot into the spotlight" (TORONTO STAR). Her 2014/15 season has her featured across Canada, opening with her Opéra de Québec debut as Missia Palmieri in Lehar's most well-known operetta LA VEUVE JOYEUSE (The Merry Widow). Other season highlights include MESSIAH with the Montreal Symphony, ELIJAH with the Kingston, Faure's REQUIEM with the Orchestra London, the title role in Charpentier's rare operatic gem LOUISE with VOICEBOX: Opera in Concert and a New Year's Operetta Gala for the Victoria Symphony.

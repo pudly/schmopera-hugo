@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-09-27T09:15:00+01:00"
-lastmod = "2016-09-27T11:17:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474964220163/2016-09-26---Alek-Shrader.jpg.jpg"
-primary_image_credit = "Photo: Peter Schaaf"
-publishDate = "2016-09-27T10:12:00+01:00"
-related_articles = ["articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md","articles/in-review-javier-camarena-at-wigmore-hall.md","articles/ian-rosenblatt-its-all-about-the-voice.md","articles/in-review-jamie-barton-at-wigmore-hall.md","articles/in-review-simone-piazzola-at-wigmore-hall.md","articles/in-review-la-colla-katzarava-in-recital.md","articles/ivan-magri-wigmore.md"]
-related_people = ["scene/people/alek-shrader.md"]
-short_description = "There seemed to be two versions of Alek Shrader, one who was invested in singing well and communicating deeply, and another who was humble, perhaps a bit shy, and who relished the chance to move the spotlight onto Vignoles for the fun piano part in Rossini&#039;s tarantella. "
-slug = "in-review-alek-shrader-at-wigmore-hall"
-title = "In review: Alek Shrader at Wigmore Hall"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-09-27T09:15:00+01:00"
+lastmod: "2016-09-27T11:17:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474964220163/2016-09-26---Alek-Shrader.jpg.jpg
+primary_image_credit: 'Photo: Peter Schaaf'
+publishDate: "2016-09-27T10:12:00+01:00"
+related_articles:
+- articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md
+- articles/in-review-javier-camarena-at-wigmore-hall.md
+- articles/ian-rosenblatt-its-all-about-the-voice.md
+- articles/in-review-jamie-barton-at-wigmore-hall.md
+- articles/in-review-simone-piazzola-at-wigmore-hall.md
+- articles/in-review-la-colla-katzarava-in-recital.md
+- articles/ivan-magri-wigmore.md
+related_people:
+- scene/people/alek-shrader.md
+short_description: 'There seemed to be two versions of Alek Shrader, one who was invested
+  in singing well and communicating deeply, and another who was humble, perhaps a
+  bit shy, and who relished the chance to move the spotlight onto Vignoles for the
+  fun piano part in Rossini&#039;s tarantella. '
+slug: in-review-alek-shrader-at-wigmore-hall
+title: 'In review: Alek Shrader at Wigmore Hall'
+_template: article_single
+---
 
 American tenor [Alek Shrader](/scene/people/alek-shrader/) opened the 2016/17 season of the [Rosenblatt Recitals](/ian-rosenblatt-its-all-about-the-voice/) series, with Roger Vignoles at the piano.
 

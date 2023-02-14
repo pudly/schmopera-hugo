@@ -1,19 +1,21 @@
-+++
-date = "2016-12-20T22:16:00-05:00"
-discipline = "Soprano"
-lastmod = "2016-12-20T22:16:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482290131742/2016-12-20---Yulia-Van-Doren-color-photo-by-Andrew-Schaff.jpg.jpg"
-primary_image_credit = "Andrew Schaff"
-publishDate = "2016-12-20T22:16:00-05:00"
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-slug = "yulia-van-doren"
-title = "Yulia Van Doren"
-website = "http://www.yuliavandoren.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/yuliavandoren"
-+++
+---
+date: "2016-12-20T22:16:00-05:00"
+discipline: Soprano
+lastmod: "2016-12-20T22:16:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482290131742/2016-12-20---Yulia-Van-Doren-color-photo-by-Andrew-Schaff.jpg.jpg
+primary_image_credit: Andrew Schaff
+publishDate: "2016-12-20T22:16:00-05:00"
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+slug: yulia-van-doren
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/yuliavandoren
+title: Yulia Van Doren
+website: http://www.yuliavandoren.com/
+_template: "people_single"
+---
 
 Recognized by *Opera* as “a star-to-be” following her Lincoln Center debut, young Russian-American soprano Yulia Van Doren’s debut with the Toronto Symphony Orchestra was acclaimed as a “revelation… a ravishing lyric voice and an ease with vocal ornamentation that turned her into an enchanted songbird” (*Toronto Star*). For her last minute step-in with the Cleveland Orchestra, the Cleveland Plain Dealer praised Van Doren as an artist of “melting poignancy” and added, “To Van Doren, one could easily have listened for hours.”
 

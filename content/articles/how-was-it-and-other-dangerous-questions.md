@@ -1,15 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-06-13T22:19:00-06:00"
-lastmod = "2016-07-06T16:11:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466000069409/2016-06-16---Hand.jpg.jpg"
-publishDate = "2016-06-15T21:22:00-06:00"
-related_articles = ["articles/in-defence-of-singers.md","articles/the-heart-and-the-art.md","articles/one-more-reason-we-dont-envy-singers.md"]
-short_description = "You&#039;re conscious of the difference between creation and reception, you respect things like lighting and acoustic and comic timing, and you&#039;re seeking the right balance of all the factors that add up to a great piece of art. But it&#039;s a risky way to seek that balance; by hungrily asking for feedback, you&#039;re saying to the world that you, the artist, aren&#039;t sure about your decisions."
-slug = "how-was-it-and-other-dangerous-questions"
-title = "&quot;How was it?&quot; and other dangerous questions"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-06-13T22:19:00-06:00"
+lastmod: "2016-07-06T16:11:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466000069409/2016-06-16---Hand.jpg.jpg
+publishDate: "2016-06-15T21:22:00-06:00"
+related_articles:
+- articles/in-defence-of-singers.md
+- articles/the-heart-and-the-art.md
+- articles/one-more-reason-we-dont-envy-singers.md
+short_description: You&#039;re conscious of the difference between creation and reception,
+  you respect things like lighting and acoustic and comic timing, and you&#039;re
+  seeking the right balance of all the factors that add up to a great piece of art.
+  But it&#039;s a risky way to seek that balance; by hungrily asking for feedback,
+  you&#039;re saying to the world that you, the artist, aren&#039;t sure about your
+  decisions.
+slug: how-was-it-and-other-dangerous-questions
+title: '&quot;How was it?&quot; and other dangerous questions'
+_template: article_single
+---
 
 Young artists are on the hunt, be it subtle or loud, for the stuff that separates the amateurs from the professionals. They're not blindly groping in the dark for this stuff; they're doing practical things like honing their technique, researching the business, improving their foreign language skills, and they're trying to show their work to as many people as possible. 
 

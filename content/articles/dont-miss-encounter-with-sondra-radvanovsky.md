@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-08-25T19:40:00+01:00"
-lastmod = "2016-08-27T16:17:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472150291675/2016-08-26---Radvanovsky.jpg.jpg"
-primary_image_credit = "Photo via Centre Stage Artist Management."
-publishDate = "2016-08-27T09:41:00+01:00"
-related_articles = ["articles/in-review-sondra-radvanovsky-at-koerner-hall.md","articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md","articles/dont-miss-rhiannon-giddens-at-merkin-concert-hall.md"]
-short_description = "Singers, sign up now; you don&#039;t want to pass on the chance to work with Radvanovsky, whose career speaks for itself. For singer fans, the October 22nd concert is a great chance to hear new voices at exciting stages of their development."
-slug = "dont-miss-encounter-with-sondra-radvanovsky"
-title = "Don&#039;t miss: Encounter with Sondra Radvanovsky"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-08-25T19:40:00+01:00"
+lastmod: "2016-08-27T16:17:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472150291675/2016-08-26---Radvanovsky.jpg.jpg
+primary_image_credit: Photo via Centre Stage Artist Management.
+publishDate: "2016-08-27T09:41:00+01:00"
+related_articles:
+- articles/in-review-sondra-radvanovsky-at-koerner-hall.md
+- articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md
+- articles/dont-miss-rhiannon-giddens-at-merkin-concert-hall.md
+short_description: Singers, sign up now; you don&#039;t want to pass on the chance
+  to work with Radvanovsky, whose career speaks for itself. For singer fans, the October
+  22nd concert is a great chance to hear new voices at exciting stages of their development.
+slug: dont-miss-encounter-with-sondra-radvanovsky
+title: 'Don&#039;t miss: Encounter with Sondra Radvanovsky'
+_template: article_single
+---
 
 This fall, 10 singers will have the chance to work with famed soprano [Sondra Radvanovsky](/scene/people/sondra-radvanovsky/) in Toronto, between performances of Bellini's *Norma* with the [Canadian Opera Company](/scene/companies/canadian-opera-company/).
 

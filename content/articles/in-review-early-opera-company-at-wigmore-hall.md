@@ -1,15 +1,22 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2017-03-31T09:52:00+01:00"
-lastmod = "2017-04-08T16:27:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490950206738/2017-03-31---Wigmore.jpg.jpg"
-publishDate = "2017-03-31T09:57:00+01:00"
-related_articles = ["articles/polish-composers-take-the-stage-at-wigmore-hall.md"]
-short_description = "For a group that plays so much with singers, it was shocking to see how little sensitivity they had towards Bevan and Hulett. We were watching the classy soprano try to make elegant choices in all of her arias, but those five violins were not responding to her well. While they reveled in their long flowing legato lines, they played without breathing or reacting to the singer."
-slug = "in-review-early-opera-company-at-wigmore-hall"
-title = "In review: Early Opera Company at Wigmore Hall"
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2017-03-31T09:52:00+01:00"
+lastmod: "2017-04-08T16:27:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490950206738/2017-03-31---Wigmore.jpg.jpg
+publishDate: "2017-03-31T09:57:00+01:00"
+related_articles:
+- articles/polish-composers-take-the-stage-at-wigmore-hall.md
+short_description: For a group that plays so much with singers, it was shocking to
+  see how little sensitivity they had towards Bevan and Hulett. We were watching the
+  classy soprano try to make elegant choices in all of her arias, but those five violins
+  were not responding to her well. While they reveled in their long flowing legato
+  lines, they played without breathing or reacting to the singer.
+slug: in-review-early-opera-company-at-wigmore-hall
+title: 'In review: Early Opera Company at Wigmore Hall'
+_template: article_single
+---
 
 One of the best things about Handel’s music is also one of the most confusing things: its power to sound like it could have come from anywhere. There are moments when listening to a Handel opera when, if listened in isolation, we could easily say, "Oh, that music is definitely by Lully," or, "Vivaldi had to have written this aria."
 

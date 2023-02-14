@@ -1,24 +1,42 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2018-02-16T21:30:00-05:00"
-lastmod = "2018-02-16T22:24:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518833177910/sq---cand_0016_pr.jpg.jpg"
-primary_image_credit = "Kelsey Grammer as Voltaire in LA Opera's 2018 production of Candide. Photo: Ken Howard/LA Opera."
-publishDate = "2018-02-16T21:30:00-05:00"
-related_articles = ["articles/too-many-jewels-the-search-for-meaning-pbos-candide.md","articles/candide-projecting-the-best-of-all-possible-worlds.md","articles/grappling-with-daily-life-wnos-candide.md"]
-related_companies = ["scene/companies/los-angeles-opera.md"]
-related_people = ["scene/people/peabody-southwell.md","scene/people/jack-swanson.md","scene/people/brian-michael-moore.md","scene/people/matthew-scollin.md","scene/people/erin-morley.md"]
-short_description = "All of Candide’s disasters could translate into a disastrous evening, but thanks to the clear and sure hand of director Zambello, the humor is allowed to speak for itself without too many additional bits and gags that often make a funny show tiresome and unwatchable."
-slug = "candide-the-best-of-all-possible-productions"
-title = "Candide: the Best of All Possible Productions?"
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2018-02-16T21:30:00-05:00"
+lastmod: "2018-02-16T22:24:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518833177910/sq---cand_0016_pr.jpg.jpg
+primary_image_credit: 'Kelsey Grammer as Voltaire in LA Opera''s 2018 production of
+  Candide. Photo: Ken Howard/LA Opera.'
+publishDate: "2018-02-16T21:30:00-05:00"
+related_articles:
+- articles/too-many-jewels-the-search-for-meaning-pbos-candide.md
+- articles/candide-projecting-the-best-of-all-possible-worlds.md
+- articles/grappling-with-daily-life-wnos-candide.md
+related_companies:
+- scene/companies/los-angeles-opera.md
+related_people:
+- scene/people/peabody-southwell.md
+- scene/people/jack-swanson.md
+- scene/people/brian-michael-moore.md
+- scene/people/matthew-scollin.md
+- scene/people/erin-morley.md
+short_description: All of Candide’s disasters could translate into a disastrous evening,
+  but thanks to the clear and sure hand of director Zambello, the humor is allowed
+  to speak for itself without too many additional bits and gags that often make a
+  funny show tiresome and unwatchable.
+slug: candide-the-best-of-all-possible-productions
+title: 'Candide: the Best of All Possible Productions?'
+_template: article_single
+---
 
 Since its debut/flop on Broadway in 1956, Leonard Bernstein's *Candide* has been revisited, revised, tinkered with, and cut and pasted. Different versions have appeared on Broadway, off-Broadway, and in quite a few opera houses. The current Glimmerglass production at LA Opera features a new book by John Caird and a number of the numbers have either been excised or shuffled like a deck of cards. 
 
 If you've never seen *Candide*, none of this matters, because the [LA Opera production](https://www.laopera.org/news/Gallery/201718-season/candide/) is a thoroughly satisfying feast of music and comedy (with a political undertone and a poignant, heartfelt finale). Starring the estimable Kelsey Grammer and national treasure Christine Ebersole, the enjoyable evening comes together courtesy of director Francesca Zambello, who also directed two of LA Opera's greatest triumphs, *Billy Budd* and *Florencia en el Amazonas*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834026571/cand_6792_pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834026571/cand_6792_pr.jpg.jpg)
+
 <figcaption>Jack Swanson (Candide), with Amber Liekhus (left) as the Queen of Eldorado and Robert Norman (right) as the King of Eldorado in LA Opera's 2018 production of *Candide*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
 
@@ -26,7 +44,10 @@ It would have been Leonard Bernstein's 100th birthday this year. *Candide* is an
 
 But this is not your mother's light opera - the story and songs depend on some very dark humor. Where else can you find an operetta with satirical songs about war, syphilis, greed and prostitution? There’s even a humorous story of cannibalism to explain why one of the characters has only one buttock. This is the satirical territory that would be mined in later years by musicals such as *Cabaret*, *Chicago*, *Urinetown*, etc.; Bernstein and his collaborators were way ahead of the curve. And in our current political climate, where political leaders paint pictures that are completely unconnected from reality, there is a message that is as strong as it was in the McCarthy 1950's.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834037953/cand_3079_pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834037953/cand_3079_pr.jpg.jpg)
+
 <figcaption>Erin Morley (Cundegonde), Brian Michael Moore (Governor of Montevideo) and Danny Lindren (Montevideo Priest) in LA Opera's 2018 production of *Candide*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
 
@@ -41,7 +62,10 @@ Both rich and poor<br>
 By danger are united!<br>
 (Till every wrong is righted!)"<br>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834049753/cand_1037_pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834049753/cand_1037_pr.jpg.jpg)
+
 <figcaption>Kelsey Grammer as Dr. Pangloss and Jack Swanson as Candide in LA Opera's 2018 production of *Candide*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
 
@@ -54,7 +78,10 @@ Characters who we thought were killed, continue to pop up at the most unexpected
 
 All of Candide’s disasters could translate into a disastrous evening, but thanks to the clear and sure hand of director Zambello, the humor is allowed to speak for itself without too many additional bits and gags that often make a funny show tiresome and unwatchable.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834061746/cand_1281_pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834061746/cand_1281_pr.jpg.jpg)
+
 <figcaption>Erin Morley as Cunegonde in LA Opera's 2018 production of *Candide*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
 
@@ -62,7 +89,10 @@ Candide and Cunegonde, like the boy and girl in *The Fantasticks*, have their ro
 
 Though a musical comedy in structure - most of the songs are short and sweet and don't linger too long like some opera arias are wont to do - the cast is almost entirely composed of opera singers. And they prove to be adept actors and comedians as well as first-class singers. Credit director Zambello here again for insisting on three-dimensional people (who happen to find themselves trapped in a two-dimensional world).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834076456/cand_1980_pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834076456/cand_1980_pr.jpg.jpg)
+
 <figcaption>Jack Swanson as Candide (with Brian Michael Moore, top centre, as the Grand Inquisitor) in LA Opera's 2018 production of *Candide*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
 
@@ -70,7 +100,10 @@ As Candide, [Jack Swanson](/scene/people/jack-swanson/) is very funny and endear
 
 In a role originated by the late, great Barbara Cook, [Erin Morley](/scene/people/erin-morley/) lives up to her predecessor as Cunegonde. Ms. Morley is not only a skilled actress, but her high E-flats (or even higher?) during the famously challenging "Glitter and Be Gay" brought down the house and reminded us that she is also a highly accomplished coloratura soprano.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834086379/cand_8674-pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834086379/cand_8674-pr.jpg.jpg)
+
 <figcaption>Jack Swanson (Candide), Christine Ebersole (Old Lady) and Erin Morley (Cunegonde) in LA Opera's 2018 production of *Candide*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
 
@@ -78,7 +111,10 @@ Christine Ebersole makes her LA Opera debut (as the inappropriately named "Old L
 
 Kelsey Grammer (Voltaire/Pangloss), who is no stranger to comedy (*Frasier*), is also no stranger to singing. Those of us who did not see him in *La Cage aux Folles* or *Finding Neverland* on Broadway, were introduced to his commanding singing voice here. He set the absolute right tone with his narration, allowing the action to speak at its own, often loud, volume. He also avoided the pitfall of trying to make Pangloss funnier than he is. Mr. Grammer gets all the laughs needed - nothing more or less.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834105812/cand_8885_pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834105812/cand_8885_pr.jpg.jpg)
+
 <figcaption>Peabody Southwell as Paquette in LA Opera's 2018 production of *Candide*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
 
@@ -86,7 +122,10 @@ Theo Hoffman as the narcissistic Maxmilian, [Peabody Southwell](/scene/people/pe
 
 The scenery by James Noone is a one-set affair, resembling a period backstage area with a platform, catwalk and spiral staircase. The action is allowed to remain fluid and fast-paced without interminable set changes and Noone delivers a simple and elegant solution.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834114688/cand_7371_pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518834114688/cand_7371_pr.jpg.jpg)
+
 <figcaption>Taylor Raven (centre) as Vanderdendur, with ensemble members  Tim Campbell (left) and Katherine Henly (right) in LA Opera's 2018 production of *Candide*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
 

@@ -1,17 +1,25 @@
-+++
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1601147897/media/2020/09/AdrianEroed_t5gm3u.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/semperoper-dresden.md", "scene/companies/oper-frankfurt.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/opra-national-de-paris.md", "scene/companies/teatro-alla-scala.md", "scene/companies/houston-grand-opera.md", "scene/companies/salzburg-festival.md", "scene/companies/opernhaus-zurich.md"]
-slug = "adrian-erod"
-title = "Adrian Eröd"
-website = "http://www.adrianeroed.com/?lang=en"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/AdrianEroed/"
-
-+++
+---
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1601147897/media/2020/09/AdrianEroed_t5gm3u.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/semperoper-dresden.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/salzburg-festival.md
+- scene/companies/opernhaus-zurich.md
+slug: adrian-erod
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/AdrianEroed/
+title: Adrian Eröd
+website: http://www.adrianeroed.com/?lang=en
+_template: "people_single"
+---
 The Austrian Baritone Adrian Eröd is a great favorite of public and press at his base, the Vienna State Opera, with his tremendous diversity, whether as Figaro in Rossini’s _Barber of Seville_, as Valentin in Gounod’s _Faust_, as Britten’s _Billy Budd_ or as Lescaut in Massenet’s _Manon_.
 
 His magnificent success with Christian Thielemann as Sixtus Beckmesser in Wagner’s _Meistersinger von Nürnberg_ led to an invitation to sing the role at the Bayreuth Festival. Since that time he sang the role of Beckmesser also in Zurich, Cologne, Leipzig, Tokyo and Amsterdam, he will perform it again at the Salzburg Easter Festival in 2019. 

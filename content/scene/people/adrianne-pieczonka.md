@@ -1,23 +1,24 @@
-+++
-date = "2015-03-30T04:20:00+01:00"
-discipline = "Soprano"
-lastmod = "2017-03-15T11:13:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489576112049/2017-03-15---Adrianne-Pieczonka-Photo-Bo-Huang.jpg.jpg"
-primary_image_credit = "Bo Huang"
-publishDate = "2015-03-30T04:20:00+01:00"
-related_companies = ["scene/companies/canadian-opera-company.md"]
-slug = "adrianne-pieczonka"
-title = "Adrianne Pieczonka"
-website = "http://www.adriannepieczonka.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Adrianne-Pieczonka/107837229246007"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/vatosca"
-+++
+---
+date: "2015-03-30T04:20:00+01:00"
+discipline: Soprano
+lastmod: "2017-03-15T11:13:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489576112049/2017-03-15---Adrianne-Pieczonka-Photo-Bo-Huang.jpg.jpg
+primary_image_credit: Bo Huang
+publishDate: "2015-03-30T04:20:00+01:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+slug: adrianne-pieczonka
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/pages/Adrianne-Pieczonka/107837229246007
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/vatosca
+title: Adrianne Pieczonka
+website: http://www.adriannepieczonka.com/
+_template: "people_single"
+---
 
 "Adrianne Pieczonka is a revelation, with a lavishly creamy
 voice capable of expressing all the emotions that Elektra

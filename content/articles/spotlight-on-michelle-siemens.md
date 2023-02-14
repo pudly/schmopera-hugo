@@ -1,18 +1,45 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-06-10T21:42:00-04:00"
-lastmod = "2015-06-15T15:19:00-04:00"
-preamble = "This interview is part of our ongoing series of features on young working artists in the opera industry. If you think you'd be a great candidate for an interview, or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433986864764/Michelle-Siemens-Headshot_1Square.jpg.jpg"
-publishDate = "2015-06-12T13:53:00-04:00"
-related_articles = ["articles/spotlight-on-julia-dawson.md","articles/spotlight-on-peter-bass.md","articles/spotlight-on-emily-peragine.md","articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-christopher-james-ray.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-kelsey-vicary.md","articles/spotlight-on-lida-szkwarek.md","articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-marjorie-maltais.md","articles/spotlight-on-william-ford.md","articles/spotlight-on-laurelle-jade-froese.md","articles/spotlight-on-jeremy-hirsch.md","articles/spotlight-on-maeve-palmer.md","articles/spotlight-on-sara-schabas.md"]
-related_companies = ["scene/companies/manhattan-school-of-music.md","scene/companies/halifax-summer-opera-festival.md","scene/companies/opera-on-the-avalon.md"]
-related_people = ["scene/people/michelle-siemens.md"]
-short_description = "Calgary-born mezzo-soprano Michelle Siemens was heard this past season on the Four Seasons Centre stage, as a finalist for the 2014 COC Ensemble Studio competition. Michelle has trained across Canada and in the United States, and I had the chance to work with her on one of her stops, singing Hermia in A Midsummer Night&#039;s Dream at Opera on the Avalon."
-slug = "spotlight-on-michelle-siemens"
-title = "Spotlight on: Michelle Siemens"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-06-10T21:42:00-04:00"
+lastmod: "2015-06-15T15:19:00-04:00"
+preamble: This interview is part of our ongoing series of features on young working
+  artists in the opera industry. If you think you'd be a great candidate for an interview,
+  or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433986864764/Michelle-Siemens-Headshot_1Square.jpg.jpg
+publishDate: "2015-06-12T13:53:00-04:00"
+related_articles:
+- articles/spotlight-on-julia-dawson.md
+- articles/spotlight-on-peter-bass.md
+- articles/spotlight-on-emily-peragine.md
+- articles/spotlight-on-charlotte-knight.md
+- articles/spotlight-on-christopher-james-ray.md
+- articles/spotlight-on-maikai-nash.md
+- articles/spotlight-on-kelsey-vicary.md
+- articles/spotlight-on-lida-szkwarek.md
+- articles/spotlight-on-danielle-macmillan.md
+- articles/spotlight-on-marjorie-maltais.md
+- articles/spotlight-on-william-ford.md
+- articles/spotlight-on-laurelle-jade-froese.md
+- articles/spotlight-on-jeremy-hirsch.md
+- articles/spotlight-on-maeve-palmer.md
+- articles/spotlight-on-sara-schabas.md
+related_companies:
+- scene/companies/manhattan-school-of-music.md
+- scene/companies/halifax-summer-opera-festival.md
+- scene/companies/opera-on-the-avalon.md
+related_people:
+- scene/people/michelle-siemens.md
+short_description: Calgary-born mezzo-soprano Michelle Siemens was heard this past
+  season on the Four Seasons Centre stage, as a finalist for the 2014 COC Ensemble
+  Studio competition. Michelle has trained across Canada and in the United States,
+  and I had the chance to work with her on one of her stops, singing Hermia in A Midsummer
+  Night&#039;s Dream at Opera on the Avalon.
+slug: spotlight-on-michelle-siemens
+title: 'Spotlight on: Michelle Siemens'
+_template: article_single
+---
 
 Calgary-born mezzo-soprano [Michelle Siemens](/scene/people/michelle-siemens/) was heard this past season on the Four Seasons Centre stage, as a finalist for the 2014 COC Ensemble Studio competition. Michelle has trained across Canada and in the United States, and I had the chance to work with her on one of her stops, singing Hermia in *A Midsummer Night's Dream* at [Opera on the Avalon](/scene/companies/opera-on-the-avalon/). She chats about singing strong, independent women, the magic of music.
 ***

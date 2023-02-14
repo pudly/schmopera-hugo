@@ -1,18 +1,28 @@
-+++
-author = ["authors/sung-jin-hong.md"]
-categories = "Op-ed"
-date = "2017-09-25T12:39:00-04:00"
-lastmod = "2017-09-26T21:25:00-04:00"
-preamble = "This is a cross-post originally published on [One World Symphony's blog](http://oneworldsymphony.org/news13BreakingBlog.shtml#Sep2517)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506434195343/2017-09-26---Hallasan_Jeju-Island.jpg.jpg"
-primary_image_credit = "Hallasan, Jeju Island."
-publishDate = "2017-09-26T10:11:00-04:00"
-related_articles = ["articles/fannibals-in-new-york-one-world-symphony-premieres-hannibal.md","articles/one-world-symphony-gets-defiant.md"]
-related_companies = ["scene/companies/one-world-symphony.md"]
-short_description = "If The Rite of Spring &quot;kissed the earth&quot; through a savagely primitive lens, that temple-food-inspired table celebrated our planet&#039;s primordial bounty from a more intimate perspective. The meal was prepared using centuries-old methods and crafted with ingredients that shared their origins with the mountains themselves. Traditional Korean cooking has nurtured a patient alchemy, where delicacies, seasoned with time to develop deep undercurrents of flavor, emerge transformed."
-slug = "sung-jin-hong-seoul-searching"
-title = "Sung Jin Hong: Seoul searching"
-+++
+---
+author:
+- authors/sung-jin-hong.md
+categories: Op-ed
+date: "2017-09-25T12:39:00-04:00"
+lastmod: "2017-09-26T21:25:00-04:00"
+preamble: This is a cross-post originally published on [One World Symphony's blog](http://oneworldsymphony.org/news13BreakingBlog.shtml#Sep2517).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506434195343/2017-09-26---Hallasan_Jeju-Island.jpg.jpg
+primary_image_credit: Hallasan, Jeju Island.
+publishDate: "2017-09-26T10:11:00-04:00"
+related_articles:
+- articles/fannibals-in-new-york-one-world-symphony-premieres-hannibal.md
+- articles/one-world-symphony-gets-defiant.md
+related_companies:
+- scene/companies/one-world-symphony.md
+short_description: If The Rite of Spring &quot;kissed the earth&quot; through a savagely
+  primitive lens, that temple-food-inspired table celebrated our planet&#039;s primordial
+  bounty from a more intimate perspective. The meal was prepared using centuries-old
+  methods and crafted with ingredients that shared their origins with the mountains
+  themselves. Traditional Korean cooking has nurtured a patient alchemy, where delicacies,
+  seasoned with time to develop deep undercurrents of flavor, emerge transformed.
+slug: sung-jin-hong-seoul-searching
+title: 'Sung Jin Hong: Seoul searching'
+_template: article_single
+---
 
 **Seoul-Searching Through the Mountains of Korea and Celebrating 1,700 Years of its Culinary Heritage with Buddhist Chef Beop Song and Venerable Soo Am**
 
@@ -35,7 +45,10 @@ This pilgrimage to my homeland during Chuseok — a time for giving thanks, cele
 
 He longed for us to be in the moment: past, present, future… time flowing eternally…
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506435017547/2017-09-25---SungJinHong_JVinsek3_SQ.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506435017547/2017-09-25---SungJinHong_JVinsek3_SQ.jpg.jpg)
+
 <figcaption>Sung Jin Hong. Photo: Jaka Vinsek.</figcaption>
 </figure>
 ***

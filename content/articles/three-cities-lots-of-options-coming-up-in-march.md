@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2018-02-27T21:56:00-05:00"
-lastmod = "2018-02-28T18:29:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519786182752/March.jpg.jpg"
-publishDate = "2018-02-27T21:56:00-05:00"
-related_articles = ["articles/littleknown-gems-ariane-et-bachus.md"]
-related_companies = ["scene/companies/haymarket-opera-company.md"]
-short_description = "The opera by composer Stewart Copeland and librettist Jonathan Moore is based on the novel by Adolfo Bioy Casares, &quot;La invención de Morel&quot;. An escaped fugitive ends up on a strange island, falls in love, is abandoned, and begins to unravel before meeting the mad scientist Morel."
-slug = "three-cities-lots-of-options-coming-up-in-march"
-title = "Three cities, lots of options: coming up in March"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2018-02-27T21:56:00-05:00"
+lastmod: "2018-02-28T18:29:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519786182752/March.jpg.jpg
+publishDate: "2018-02-27T21:56:00-05:00"
+related_articles:
+- articles/littleknown-gems-ariane-et-bachus.md
+related_companies:
+- scene/companies/haymarket-opera-company.md
+short_description: The opera by composer Stewart Copeland and librettist Jonathan
+  Moore is based on the novel by Adolfo Bioy Casares, &quot;La invención de Morel&quot;.
+  An escaped fugitive ends up on a strange island, falls in love, is abandoned, and
+  begins to unravel before meeting the mad scientist Morel.
+slug: three-cities-lots-of-options-coming-up-in-march
+title: 'Three cities, lots of options: coming up in March'
+_template: article_single
+---
 
 Whether you're dealing with lion- or lamb-like weather, March offers some good operatic and musical picks on both coasts (and a little bit the Midwest).
 
@@ -24,8 +31,11 @@ The National Chorale has performed for 50 seasons at David Geffen Hall, along wi
 
 Also in New York is the city's premiere of Johann Adolf Hasse's [*Piramo e Tisbe*](http://www.lotny.org/upcoming/), presented by [The Little OPERA Theatre of NY](http://www.lotny.org/), **March 22-25** at Baruch Performing Arts Center. Hasse's opera, set to a libretto by Marco Coltellini after Ovid's *Metamorphoses*, tells the proto-Romeo-and-Juliet story of doomed lovers and the wall that separates them. Elliot Figg conducts, and LOTNY Artistic Director Philip Schneidman directs. Tickets are $35, and [available here](https://web.ovationtix.com/trs/cal/35006).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519786252222/2ae2d071-e4b3-40fa-a09d-8a137bf726d8.jpg.jpg)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519786252222/2ae2d071-e4b3-40fa-a09d-8a137bf726d8.jpg.jpg)
+
+<figure>
 
 On the opposite coast, Long Beach Opera tells a "fantastical tale of the human heart" with [*The Invention of Morel*](https://www.longbeachopera.org/the-invention-of-morel), **March 17-25** at the Beverly O'Neill Theater, Long Beach, CA. The opera by composer Stewart Copeland and librettist Jonathan Moore is based on the novel by Adolfo Bioy Casares, *La invención de Morel*. An escaped fugitive ends up on a strange island, falls in love, is abandoned, and begins to unravel before meeting the mad scientist Morel. Ticket options are plentiful, so [click here for details](https://lbop-internet.choicecrm.net/templates/LBOP/?cts_legacy_app).
 
@@ -35,7 +45,10 @@ On the opposite coast, Long Beach Opera tells a "fantastical tale of the human h
 
 Finally, Los Angeles' newest not-for-profit opera company, [Hawkmore Lyric Opera](https://www.facebook.com/Hawkmore-Lyric-Opera-308021076269503/0), presents its inaugural production, Bellini's [*I Capuleti e i Montecchi*](https://www.facebook.com/events/1837910883173219/). Performances happen at the intimate Hudson Backstage Theater in Hollywood, **March 16-25**, featuring two casts of up-and-coming singers. Carson Gilmore directs. Tickets start at $15, [available here](https://hawkmorelyricopera.brownpapertickets.com/).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519860578012/Hawkmore-Cast-2.jpg.jpg)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519860578012/Hawkmore-Cast-2.jpg.jpg)
+
+<figure>
 
 Happy listening, readers!

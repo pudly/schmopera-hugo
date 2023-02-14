@@ -1,17 +1,24 @@
-+++
-date = "2015-12-31T12:36:00-05:00"
-discipline = "Bass"
-lastmod = "2015-12-31T12:36:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451583262087/2015-12-30---Jeremy-Bowes.jpg.jpg"
-publishDate = "2015-12-31T12:36:00-05:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/lopra-de-montral.md","scene/companies/pacific-opera-victoria.md","scene/companies/vancouver-opera.md","scene/companies/the-banff-centre.md","scene/companies/canadian-opera-company.md"]
-slug = "jeremy-bowes"
-title = "Jeremy Bowes"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = ""
-+++
+---
+date: "2015-12-31T12:36:00-05:00"
+discipline: Bass
+lastmod: "2015-12-31T12:36:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451583262087/2015-12-30---Jeremy-Bowes.jpg.jpg
+publishDate: "2015-12-31T12:36:00-05:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/vancouver-opera.md
+- scene/companies/the-banff-centre.md
+- scene/companies/canadian-opera-company.md
+slug: jeremy-bowes
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: ""
+title: Jeremy Bowes
+_template: "people_single"
+---
 
 Born in Victoria, Canada, bass Jeremy Bowes recently finished two seasons with the Sächsische Staatsoper Dresden. He has been described as, “a promising bass whose, I rage, I melt, I burn, was a highlight of the evening… [he is] easy on all the senses and moves with natural chemistry onstage…” (*Montreal Gazette*). His roles with the Semperoper included Colline in Puccini’s *La bohème*, Zuniga in Bizet’s *Carmen*, The King in Cui’s *Der gestiefelte Kater* and the Warden in Heggie’s *Dead Man Walking*. 
 

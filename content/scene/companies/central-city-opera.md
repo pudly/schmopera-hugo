@@ -1,30 +1,33 @@
-+++
-date = "2015-10-26T18:47:00-04:00"
-lastmod = "2015-10-31T14:06:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446314787849/Logo---CCO.jpg.jpg"
-publishDate = "2015-10-26T18:47:00-04:00"
-related_people = ["scene/people/elizabeth-caballero.md","scene/people/jennifer-rivera.md","scene/people/scott-joiner.md","scene/people/sharin-apostolou.md","scene/people/ryan-macpherson.md"]
-slug = "central-city-opera"
-title = "Central City Opera"
-type_of_company = "Opera Company"
-website = "https://centralcityopera.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/CentralCityOpera"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ccityopera"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://instagram.com/ccityopera/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/centralcityopera"
-+++
+---
+date: "2015-10-26T18:47:00-04:00"
+lastmod: "2015-10-31T14:06:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446314787849/Logo---CCO.jpg.jpg
+publishDate: "2015-10-26T18:47:00-04:00"
+related_people:
+- scene/people/elizabeth-caballero.md
+- scene/people/jennifer-rivera.md
+- scene/people/scott-joiner.md
+- scene/people/sharin-apostolou.md
+- scene/people/ryan-macpherson.md
+slug: central-city-opera
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/CentralCityOpera
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/ccityopera
+- platform: Instagram
+  _template: social_media
+  url: https://instagram.com/ccityopera/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/user/centralcityopera
+title: Central City Opera
+type_of_company: Opera Company
+website: https://centralcityopera.org/
+_template: "company_single"
+---
 
 ## ABOUT CENTRAL CITY OPERA
 

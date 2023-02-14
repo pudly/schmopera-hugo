@@ -1,23 +1,24 @@
-+++
-date = "2016-03-12T15:35:00+00:00"
-discipline = "Pianist"
-lastmod = "2016-03-12T15:35:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457796853680/2016-03-12---Peter-Dugan---Gerard-Collett.jpg.jpg"
-primary_image_credit = "Gerard Collett"
-publishDate = "2016-03-12T15:35:00+00:00"
-related_companies = ["scene/companies/the-juilliard-school.md"]
-slug = "peter-dugan"
-title = "Peter Dugan"
-website = "http://www.peterduganpiano.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/peterduganpiano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/peterduganpiano"
-+++
+---
+date: "2016-03-12T15:35:00+00:00"
+discipline: Pianist
+lastmod: "2016-03-12T15:35:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457796853680/2016-03-12---Peter-Dugan---Gerard-Collett.jpg.jpg
+primary_image_credit: Gerard Collett
+publishDate: "2016-03-12T15:35:00+00:00"
+related_companies:
+- scene/companies/the-juilliard-school.md
+slug: peter-dugan
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/peterduganpiano
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/peterduganpiano
+title: Peter Dugan
+website: http://www.peterduganpiano.com/
+_template: "people_single"
+---
 
 Pianist Peter Dugan has been praised by the *Capital Gazette* as “nothing short of superb” and by the *Baltimore Sun* as “spellbinding.”  Prizing versatility as the key to the future of classical music, Mr. Dugan is equally at home in classical, jazz, and pop idioms. He has appeared as a soloist throughout the United States, including performances in New York’s Carnegie Hall and Alice Tully Hall, and Philadelphia’s Academy of Music and Verizon Hall. He has also performed internationally in Canada, South America, the Cayman Islands, and across Europe.  This season, Mr. Dugan appears as a soloist with the New World Symphony under the baton of Michael Tilson Thomas.
 

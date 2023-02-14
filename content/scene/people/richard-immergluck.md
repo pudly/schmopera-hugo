@@ -1,17 +1,20 @@
-+++
-date = "2017-04-05T15:55:00+01:00"
-discipline = "Baritone"
-lastmod = "2017-04-05T15:55:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491403993226/5825eb287c59a.jpg.jpg"
-publishDate = "2017-04-05T15:55:00+01:00"
-related_companies = ["scene/companies/popup-opera.md","scene/companies/grange-park-opera.md"]
-slug = "richard-immergluck"
-title = "Richard Immerglück"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ImmergluckR"
-+++
+---
+date: "2017-04-05T15:55:00+01:00"
+discipline: Baritone
+lastmod: "2017-04-05T15:55:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491403993226/5825eb287c59a.jpg.jpg
+publishDate: "2017-04-05T15:55:00+01:00"
+related_companies:
+- scene/companies/popup-opera.md
+- scene/companies/grange-park-opera.md
+slug: richard-immergluck
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/ImmergluckR
+title: Richard Immerglück
+_template: "people_single"
+---
 
 Richard Immerglück received his BMus (Hons.) at the Guildhall School of Music and Drama studying under Robert Dean.
 

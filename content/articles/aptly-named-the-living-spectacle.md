@@ -1,17 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2015-11-07T09:40:00-05:00"
-lastmod = "2015-11-07T11:12:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446908247127/ecAgcw_sPg_IJoaBmOJToULecAKfASGVDXr1f7eUxUK0ax4rFjtFjlWiYDQ3DKs4fDOsG8gZKSIVFty-DduJU-orUZfX%3Dw680-h680-c"
-publishDate = "2015-11-07T10:37:00-05:00"
-related_articles = ["articles/squeezebox-at-soundstreams.md","articles/phillip-addis-emily-hamper-the-pilgrim-soul.md","articles/album-review-cloud-light.md"]
-related_companies = ["scene/companies/canadian-art-song-project.md"]
-related_people = ["scene/people/ambur-braid.md","scene/people/carla-huhtanen.md","scene/people/lawrence-wiliford.md","scene/people/david-james-brock.md","scene/people/jennifer-nichols.md","scene/people/steven-philcox.md"]
-short_description = "Tonight the Canadian Art Song Project presents The Living Spectacle, a recital of music, new and old, Canadian and otherwise. On paper, it may not look much different from other recitals; I had a chance to see the dress rehearsal of tonight&#039;s concert, and not only was it extraordinary in presentation, but it got me genuinely excited about Canadians who make music."
-slug = "aptly-named-the-living-spectacle"
-title = "Aptly named: The Living Spectacle"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2015-11-07T09:40:00-05:00"
+lastmod: "2015-11-07T11:12:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446908247127/ecAgcw_sPg_IJoaBmOJToULecAKfASGVDXr1f7eUxUK0ax4rFjtFjlWiYDQ3DKs4fDOsG8gZKSIVFty-DduJU-orUZfX%3Dw680-h680-c
+publishDate: "2015-11-07T10:37:00-05:00"
+related_articles:
+- articles/squeezebox-at-soundstreams.md
+- articles/phillip-addis-emily-hamper-the-pilgrim-soul.md
+- articles/album-review-cloud-light.md
+related_companies:
+- scene/companies/canadian-art-song-project.md
+related_people:
+- scene/people/ambur-braid.md
+- scene/people/carla-huhtanen.md
+- scene/people/lawrence-wiliford.md
+- scene/people/david-james-brock.md
+- scene/people/jennifer-nichols.md
+- scene/people/steven-philcox.md
+short_description: Tonight the Canadian Art Song Project presents The Living Spectacle,
+  a recital of music, new and old, Canadian and otherwise. On paper, it may not look
+  much different from other recitals; I had a chance to see the dress rehearsal of
+  tonight&#039;s concert, and not only was it extraordinary in presentation, but it
+  got me genuinely excited about Canadians who make music.
+slug: aptly-named-the-living-spectacle
+title: 'Aptly named: The Living Spectacle'
+_template: article_single
+---
 
 Tonight the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/) presents *The Living Spectacle*, a recital of music, new and old, Canadian and otherwise. On paper, it may not look much different from other recitals; I had a chance to see the dress rehearsal of tonight's concert, and not only was it extraordinary in presentation, but it got me genuinely excited about Canadians who make music.
 

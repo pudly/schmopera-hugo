@@ -1,19 +1,29 @@
-+++
-date = "2015-04-07T17:38:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2015-04-07T17:38:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551663306/media/2019/03/GordonBintnerCalis.jpg"
-primary_image_credit = "Brent Calis"
-publishDate = "2015-04-07T17:38:00-04:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md", "scene/companies/royal-opera-house.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/saskatoon-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/merola-opera-program.md", "scene/companies/lopra-de-montral.md", "scene/companies/opera-mcgill.md", "scene/companies/oper-frankfurt.md"]
-slug = "gordon-bintner"
-title = "Gordon Bintner"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/GordonBintner"
-
-+++
+---
+date: "2015-04-07T17:38:00-04:00"
+discipline: Bass-baritone
+lastmod: "2015-04-07T17:38:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551663306/media/2019/03/GordonBintnerCalis.jpg
+primary_image_credit: Brent Calis
+publishDate: "2015-04-07T17:38:00-04:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/saskatoon-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/merola-opera-program.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/opera-mcgill.md
+- scene/companies/oper-frankfurt.md
+slug: gordon-bintner
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/GordonBintner
+title: Gordon Bintner
+_template: "people_single"
+---
 The Grand Prize Winner of the OSM Standard Life Competition (2011) and First Prize and People’s Choice Award recipient of the Canadian Opera Company Ensemble Studio Competition (2012), Canadian Bass-Baritone Gordon Bintner appears internationally in a wide-range of operatic and concert repertoire.  
   
 This season Mr. Bintner returns to both his home companies, first to the Canadian Opera Company for the title-role in _Eugene Onegin_, then to the Oper Frankfurt for new productions of Smetana's _Dalibor_ (Vladislav) and of Schreker's _Der Ferne Klang_ (Count), along with revivals of _Ariadne auf Naxos_ (Harlekin), _Rinaldo_ (Argante), _Le Nozze di Figaro_ (Count) and _Die Zauberflöte_ (Papageno). In concert, Mr. Bintner will sing the Count in _Le Nozze di Figaro_ with the national Arts Centre and its Music Director, Alexander Shelley. Future projects include debuts at the Royal Opera House, Covent Garden, the Metropolitan Opera and the Lyric Opera of Chicago.  

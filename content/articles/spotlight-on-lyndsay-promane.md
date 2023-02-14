@@ -1,19 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = 2017-06-06T02:59:00Z
-lastmod = "2017-06-21T22:43:00-06:00"
-preamble = "Toronto-based mezzo-soprano [Lyndsay Promane](/scene/people/lyndsay-promane/) is an arresting presence on the opera stage, and a thoughtful concert artist. The UofT Opera graduate finds ease in traditional trouser roles like Hansel (*Hansel and Gretel*) and Bradamante (*Alcina*), and her recital programmes speak to a versatile, interested young singer.\n\nPromane heads this summer to New Brunswick for the St. Andrews-by-the-Sea Opera Workshop, led by in-demand Canadian voice teacher, [Wendy Nielsen](/wendy-nielsen-on-teaching-singing/). Ahead of her trip, she chats with us about her \"spirit animal, Oprah Winfrey\", and how she likes to \"sing your songs\"."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496718089649/2017-06-06---Lyndsay-Promane.jpg.jpg"
-primary_image_credit = "Photo: Self Limited Photography."
-publishDate = "2017-06-21T21:54:00-06:00"
-related_articles = ["articles/spotlight-on-stephanie-tritchew.md", "articles/spotlight-on-rihab-chaieb.md"]
-related_people = ["scene/people/lyndsay-promane.md"]
-short_description = "\"Much like Oprah Winfrey, I'm not a fan of surprises. Unfortunately, I chose the wrong career and the wrong planet since my favourite performances came my way when I was not expecting them at all. Saying \"yes\" is powerful, and it's something I'm learning to do more often.\""
-slug = "spotlight-on-lyndsay-promane"
-title = "Spotlight on: Lyndsay Promane"
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-06-06T02:59:00Z"
+lastmod: "2017-06-21T22:43:00-06:00"
+preamble: |-
+  Toronto-based mezzo-soprano [Lyndsay Promane](/scene/people/lyndsay-promane/) is an arresting presence on the opera stage, and a thoughtful concert artist. The UofT Opera graduate finds ease in traditional trouser roles like Hansel (*Hansel and Gretel*) and Bradamante (*Alcina*), and her recital programmes speak to a versatile, interested young singer.
 
-+++
+  Promane heads this summer to New Brunswick for the St. Andrews-by-the-Sea Opera Workshop, led by in-demand Canadian voice teacher, [Wendy Nielsen](/wendy-nielsen-on-teaching-singing/). Ahead of her trip, she chats with us about her "spirit animal, Oprah Winfrey", and how she likes to "sing your songs".
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496718089649/2017-06-06---Lyndsay-Promane.jpg.jpg
+primary_image_credit: 'Photo: Self Limited Photography.'
+publishDate: "2017-06-21T21:54:00-06:00"
+related_articles:
+- articles/spotlight-on-stephanie-tritchew.md
+- articles/spotlight-on-rihab-chaieb.md
+related_people:
+- scene/people/lyndsay-promane.md
+short_description: '"Much like Oprah Winfrey, I''m not a fan of surprises. Unfortunately,
+  I chose the wrong career and the wrong planet since my favourite performances came
+  my way when I was not expecting them at all. Saying "yes" is powerful, and it''s
+  something I''m learning to do more often."'
+slug: spotlight-on-lyndsay-promane
+title: 'Spotlight on: Lyndsay Promane'
+_template: article_single
+---
 ## Why do you sing, and why are you doing it professionally?
 
 The reason why I sing changes all the time. The answer that comes to me most often is because we, the singers, have a wonderful privilege to tell stories and explore dynamic characters that are so different from ourselves. Sharing and respecting these stories is incredibly exciting and joyful.
@@ -26,7 +36,10 @@ Good singing means marrying technique with artistry in a way that they never get
 
 Sing your songs the way you hear them in your head. Find perspective and leave fear at home. Enjoy yourself. Be real. Be gentle with yourself, but be honest. Be kind. Just keep singing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496718133577/2017-06-06---Promane---Brent-Calis-3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496718133577/2017-06-06---Promane---Brent-Calis-3.jpg.jpg)
+
 <figcaption>Lyndsay Promane, mezzo-soprano. Photo: Brent Calis.</figcaption>
 </figure>
 

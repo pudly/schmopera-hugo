@@ -1,23 +1,28 @@
-+++
-date = "2017-12-15T12:11:00-05:00"
-discipline = "Baritone"
-lastmod = "2017-12-15T12:11:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513357759438/Justin%20New%20headshot%20for%20web.jpg.jpg"
-publishDate = "2017-12-15T12:11:00-05:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md", "scene/companies/canadian-opera-company.md", "scene/companies/calgary-opera.md", "scene/companies/tapestry-opera.md", "scene/companies/soundstreams.md", "scene/companies/pacific-opera-victoria.md"]
-slug = "justin-welsh"
-title = "Justin Welsh"
-website = "http://www.justinwelsh.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Justin-J-Welsh-559016787461059/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/operuno1/"
-
-+++
+---
+date: "2017-12-15T12:11:00-05:00"
+discipline: Baritone
+lastmod: "2017-12-15T12:11:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513357759438/Justin%20New%20headshot%20for%20web.jpg.jpg
+publishDate: "2017-12-15T12:11:00-05:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/calgary-opera.md
+- scene/companies/tapestry-opera.md
+- scene/companies/soundstreams.md
+- scene/companies/pacific-opera-victoria.md
+slug: justin-welsh
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Justin-J-Welsh-559016787461059/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/user/operuno1/
+title: Justin Welsh
+website: http://www.justinwelsh.com/
+_template: "people_single"
+---
 The career of British Columbia baritone Justin Welsh has been highlighted by his performances as Crown in Porgy and Bess with Kent Nagano conducting l’Orchestre symphonique de Montréal and Queegueg in the Canadian premiere of _Moby Dick_ for Calgary Opera, praised by the Calgary Herald’s Kenneth Delong, who noted “Justin Welsh brings a finely drawn vocal technique to the part, his voice beautiful throughout the register. Dramatically, too, Welsh’s role was exceptionally well-realized, a major accomplishment as a singing actor.” He has also been heard as Marcello in _La bohème_ for l’Opéra de Montréal and Papageno in _The Magic Flute_ and Figaro in _Le Nozze di Figaro_ for Pacific Opera Victoria. Of particular note was Vivier’s _Musik für das Ende_ produced by Soundstreams, Flight for Pacific Opera Victoria, and he was also heard in Against the Grain’s on-going project, _Bound_.
 
 His 21-22 season includes performances with Tapestry Opera, Winnipeg Philharmonic Choir, White Snake Projects, and joining the Canadian Opera Company for their digital production of Puccini’s _Gianni Schicchi_. Justin joins Pacific Opera Victoria for both digital and in person productions with Raum’s _The Garden of Alice_ and Mozart’s _Don Giovanni_.

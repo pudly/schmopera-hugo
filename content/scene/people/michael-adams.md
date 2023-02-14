@@ -1,17 +1,25 @@
-+++
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572811660/media/2019/11/MichaelAdams_n1r8at.jpg"
-primary_image_credit = "Arielle Doneson."
-related_companies = ["scene/companies/des-moines-metro-opera.md", "scene/companies/utah-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/seattle-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/fort-worth-opera.md", "scene/companies/wolf-trap-opera.md", "scene/companies/washington-national-opera.md"]
-slug = "michael-adams"
-title = "Michael Adams"
-website = "http://www.michaeladamsbaritone.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/michaeladamsbaritone/"
-
-+++
+---
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1572811660/media/2019/11/MichaelAdams_n1r8at.jpg
+primary_image_credit: Arielle Doneson.
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/utah-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/seattle-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/fort-worth-opera.md
+- scene/companies/wolf-trap-opera.md
+- scene/companies/washington-national-opera.md
+slug: michael-adams
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/michaeladamsbaritone/
+title: Michael Adams
+website: http://www.michaeladamsbaritone.com/
+_template: "people_single"
+---
 Praised by Opera News for “brandishing a beautiful, evenly produced, nicely ripe sound,” Michael Adams debuts three roles in returns to companies in the 2019-20 season season: the title role of _Eugene Onegin_ with Seattle Opera, Papageno in _Die Zauberflöte_ with Washington National Opera, and Figaro in _Il barbiere di Siviglia_ with Utah Opera. He also debuts with the Metropolitan Opera as Kuligin in _Kát’a Kabanová_ and Arizona Opera as Edwin Cheney in Hagen’s Shining Brow and returns to The Glimmerglass Festival for the title role of _Don Giovanni_. On the concert stage, he joins the Fort Worth Symphony  for Beethoven’s Symphony No. 9. Last season he made role and company debuts as Zurga in _Les pêcheurs de perles_ at the Grand Teatre del Liceu, Enrico in _Lucia di Lammermoor_ with Knoxville Opera, and Gaylord Ravenal in _Showboat_ at The Glimmerglass Festival in the 2018-19 season. He also returned to Washington National Opera as Lieutenant Audebert in Puts’ _Silent Night_.  
 
 The baritone first joined Seattle Opera as Guglielmo in _Così fan tutte_ and made company debuts and subsequent returns with the Grand Théâtre de Genève as Melisso in _Alcina_, and Marcello in _La bohème_, and Masetto in _Don Giovanni_; Utah Opera as Marcello in _La bohème_, Silvio in _Pagliacci_, and Betto in _Gianni Schicchi_; and Des Moines Metro Opera as Lescaut in _Manon_, Ping in _Turandot_, Donald in _Billy Budd_. At Washington National Opera, where he is a former Domingo-Cafritz Young Artists, he has sung Melisso in _Alcina_, the Pilot in Portman’s _The Little Prince_, the title role of _Don Giovanni_, Prince Yamadori in _Madama Butterfly_, and the Motorcycle Cop and Prison Guard #1 in _Dead Man Walking_. He joined the Deutsche Oper Berlin for a season, singing a number of roles including Ping in _Turandot_, the Marquis in _La traviata_, Harašta in _The Cunning Little Vixen_, in addition to covering Neluso in _L’Africaine_. His concert performances include a Bernstein concert under the baton of Miguel Harth-Bedoya, Bach’s Cantata No. 29 and Handel’s _Te Deum_, all with the Fort Worth Symphony.

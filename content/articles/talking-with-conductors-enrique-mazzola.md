@@ -1,22 +1,36 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Interview"
-date = "2019-10-05T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Lyric Opera of Chicago's production of [_Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/) runs Oct. 12-31."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1570226877/media/2019/10/sqEnriqueMazzolaJean-BaptisteMillot_v2phae.jpg"
-primary_image_credit = "Photo: Jean-Baptiste Millot."
-related_articles = ["articles/3-ways-to-have-a-great-first-rehearsal.md", "articles/talking-with-conductors-harry-bicket.md", "articles/talking-with-conductors-lidiya-yankovskaya.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/enrique-mazzola.md"]
-short_description = "\"Luisa is a character totally surrounded by men who, in that time, control her life. But her father speaks up for her. This makes me think, 'Bravo, Giuseppe! You are speaking about important things for your time.'\""
-slug = "talking-with-conductors-enrique-mazzola"
-title = "Talking with conductors: Enrique Mazzola"
-youtube_url = ""
+---
+author:
+  - authors/michael-pecak.md
+categories: Interview
+date: '2019-10-05T04:00:00+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  Lyric Opera of Chicago's production of [_Luisa
+  Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/) runs
+  Oct. 12-31.
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1570226877/media/2019/10/sqEnriqueMazzolaJean-BaptisteMillot_v2phae.jpg
+primary_image_credit: 'Photo: Jean-Baptiste Millot.'
+related_articles:
+  - articles/3-ways-to-have-a-great-first-rehearsal.md
+  - articles/talking-with-conductors-harry-bicket.md
+  - articles/talking-with-conductors-lidiya-yankovskaya.md
+related_companies:
+  - scene/companies/lyric-opera-of-chicago.md
+related_people:
+  - scene/people/enrique-mazzola.md
+short_description: >-
+  "Luisa is a character totally surrounded by men who, in that time, control her
+  life. But her father speaks up for her. This makes me think, 'Bravo, Giuseppe!
+  You are speaking about important things for your time.'"
+slug: talking-with-conductors-enrique-mazzola
+title: 'Talking with conductors: Enrique Mazzola'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 [Enrique Mazzola](/scene/people/enrique-mazzola/) has been a hot topic lately in the opera world. And rightfully so. Just a few weeks ago, Lyric Opera of Chicago announced that the acclaimed Italian conductor will become the company's [new music director as of the 2021-22 season](https://www.lyricopera.org/about-lyric-opera/leadership/announcement/).
 
 Lyric audiences got to know Mazzola in recent seasons in Donizetti's _Lucia di Lammermoor_ (2016-17) and Bellini's _I puritani_ (2017-18). He's currently in town preparing Verdi's [_Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/), which opens October 12 at the Lyric Opera House, and which kicks off the company's early-Verdi series planned over the course of the next few years, and all to be conducted by Maestro Mazzola.
@@ -37,7 +51,9 @@ The plot of _Luisa Miller_ is a very beautiful romantic tragedy, but maybe there
 
 Theaters, then as now, preferred to present the more iconic titles for audiences and I think _Luisa Miller_ suffered for 150 years from this problem.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570227044/media/2019/10/Mazzola4-Jean-BaptisteMillot_iprwjo.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570227044/media/2019/10/Mazzola4-Jean-BaptisteMillot_iprwjo.jpg)
 
 <figcaption>Enrique Mazzola, conductor. Photo: Jean-Baptiste Millot.</figcaption>
 
@@ -67,7 +83,9 @@ Many times, we stop in rehearsal and someone says, "Maestro, this seems like _Ot
 
 As conductors, we have to accept that we are working with people, other human beings, who have developed their own ideas. For me, it is a pleasure to listen and to tie together all the ideas. This is what I feel my job is as the conductor, generally.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570227012/media/2019/10/Mazzola3Jean-BaptisteMillot_jcnpan.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570227012/media/2019/10/Mazzola3Jean-BaptisteMillot_jcnpan.jpg)
 
 <figcaption>Enrique Mazzola, conductor. Photo: Jean-Baptiste Millot.</figcaption>
 

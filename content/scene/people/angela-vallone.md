@@ -1,14 +1,17 @@
-+++
-date = "2017-10-09T19:06:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-10-09T19:06:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507590249291/DSC_3150.jpg.jpg"
-publishDate = "2017-10-09T19:06:00-04:00"
-related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/the-juilliard-school.md"]
-slug = "angela-vallone"
-title = "Angela Vallone"
-website = "http://www.angelavallone.com/"
-+++
+---
+date: "2017-10-09T19:06:00-04:00"
+discipline: Soprano
+lastmod: "2017-10-09T19:06:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507590249291/DSC_3150.jpg.jpg
+publishDate: "2017-10-09T19:06:00-04:00"
+related_companies:
+- scene/companies/oper-frankfurt.md
+- scene/companies/the-juilliard-school.md
+slug: angela-vallone
+title: Angela Vallone
+website: http://www.angelavallone.com/
+_template: "people_single"
+---
 
 Hailed by The New York Times for her "extraordinary virtuosity and elegance" and declared a "clear showstopper" by Boston Classical Review, American soprano Angela Vallone is currently pursuing her master’s degree at the Juilliard School under the tutelage of Edith Wiens.
 

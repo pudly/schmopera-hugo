@@ -1,21 +1,25 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1649422439/media/2022/04/NicoelCar_JanBleney_zjhj71.jpg"
-primary_image_credit = "Jan Bleney"
-related_companies = ["scene/companies/opera-australia.md", "scene/companies/opra-national-de-paris.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/royal-opera-house.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "nicole-car"
-title = "Nicole Car"
-website = ""
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/nicolecar_opera?lang=en"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/NicoleCarSoprano/"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1649422439/media/2022/04/NicoelCar_JanBleney_zjhj71.jpg
+primary_image_credit: Jan Bleney
+related_companies:
+- scene/companies/opera-australia.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+slug: nicole-car
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/nicolecar_opera?lang=en
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/NicoleCarSoprano/
+title: Nicole Car
+website: ""
+_template: "people_single"
+---
 Nicole Car has established herself as one of the world-leading sopranos, performing at the Royal Opera House Covent Garden, Metropolitan Opera, Dallas Opera, Deutsche oper Berlin, Opera Australia and Opera de Paris.
 
 Concert repertoire includes Brahms’ _Deutsches Requiem_, _Das Klagende Lied_, Mozart’s _Requiem_ and _St John Passion._

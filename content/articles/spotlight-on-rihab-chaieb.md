@@ -1,19 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-06-02T07:50:00-06:00"
-lastmod = "2017-06-05T07:23:00-06:00"
-preamble = "A graduate of the [Canadian Opera Company's Ensemble Studio Program](/scene/companies/canadian-opera-company-ensemble-studio/) and a member of the [Metropolitan Opera](/scene/companies/the-metropolitan-opera/)'s Lindemann Young Artist Development Program, Tunisian-Canadian mezzo-soprano [Rihab Chaieb](/scene/people/rihab-chaieb/) is currently  at the [Glyndebourne Festival](/scene/people/glyndebourne/) to sing the role of Flora in Verdi's [*La traviata*](http://www.glyndebourne.com/tickets-and-whats-on/events/2017/la-traviata/). This fall, she heads to Philadelphia to sing The Fairy Prince in the world premiere of David Hertzberg's [*The Wake World*](https://www.operaphila.org/whats-on/on-stage-2017-2018/the-wake-world/), as part of [Opera Philadelphia](/scene/companies/opera-philadelphia/)'s inaugural O17 Festival.\n\nChaieb is a lover of her work, inspired by the new places and faces that make up her career. In our latest Spotlight interview, she chats about the feeling of \"invincibility\" she gets from singing, and the meaning of patience."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496411375675/2017-06-02---Chaieb---Fox---square.jpg.jpg"
-primary_image_credit = "Photo: Fay Fox."
-publishDate = "2017-06-04T20:52:00-06:00"
-related_articles = ["articles/spotlight-on-stephanie-tritchew.md","articles/talking-with-singers-jamie-barton.md","articles/spotlight-on-christina-haldane.md","articles/spotlight-on-hannah-de-priest.md","articles/spotlight-on-hyesang-park.md","articles/spotlight-on-lyndsay-promane.md","articles/spotlight-on-emily-edmonds.md","articles/an-organic-integration-the-wake-world.md","articles/anticipation-cmim-aria-semifinals-part-i.md"]
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/the-metropolitan-opera.md","scene/companies/opera-philadelphia.md","scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/rihab-chaieb.md"]
-short_description = "&quot;I have so much love for music, opera, and singing, but I am also open to many other things. I will sing until I think it&#039;s either time to stop, or because I feel I have been fulfilled by it and had enough of it, and that my brain naturally craves something else. But right now, I am insatiable!&quot;"
-slug = "spotlight-on-rihab-chaieb"
-title = "Spotlight on: Rihab Chaieb"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-06-02T07:50:00-06:00"
+lastmod: "2017-06-05T07:23:00-06:00"
+preamble: |-
+  A graduate of the [Canadian Opera Company's Ensemble Studio Program](/scene/companies/canadian-opera-company-ensemble-studio/) and a member of the [Metropolitan Opera](/scene/companies/the-metropolitan-opera/)'s Lindemann Young Artist Development Program, Tunisian-Canadian mezzo-soprano [Rihab Chaieb](/scene/people/rihab-chaieb/) is currently  at the [Glyndebourne Festival](/scene/people/glyndebourne/) to sing the role of Flora in Verdi's [*La traviata*](http://www.glyndebourne.com/tickets-and-whats-on/events/2017/la-traviata/). This fall, she heads to Philadelphia to sing The Fairy Prince in the world premiere of David Hertzberg's [*The Wake World*](https://www.operaphila.org/whats-on/on-stage-2017-2018/the-wake-world/), as part of [Opera Philadelphia](/scene/companies/opera-philadelphia/)'s inaugural O17 Festival.
+
+  Chaieb is a lover of her work, inspired by the new places and faces that make up her career. In our latest Spotlight interview, she chats about the feeling of "invincibility" she gets from singing, and the meaning of patience.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496411375675/2017-06-02---Chaieb---Fox---square.jpg.jpg
+primary_image_credit: 'Photo: Fay Fox.'
+publishDate: "2017-06-04T20:52:00-06:00"
+related_articles:
+- articles/spotlight-on-stephanie-tritchew.md
+- articles/talking-with-singers-jamie-barton.md
+- articles/spotlight-on-christina-haldane.md
+- articles/spotlight-on-hannah-de-priest.md
+- articles/spotlight-on-hyesang-park.md
+- articles/spotlight-on-lyndsay-promane.md
+- articles/spotlight-on-emily-edmonds.md
+- articles/an-organic-integration-the-wake-world.md
+- articles/anticipation-cmim-aria-semifinals-part-i.md
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/rihab-chaieb.md
+short_description: '&quot;I have so much love for music, opera, and singing, but I
+  am also open to many other things. I will sing until I think it&#039;s either time
+  to stop, or because I feel I have been fulfilled by it and had enough of it, and
+  that my brain naturally craves something else. But right now, I am insatiable!&quot;'
+slug: spotlight-on-rihab-chaieb
+title: 'Spotlight on: Rihab Chaieb'
+_template: article_single
+---
 
 ## Why do you sing, and why are you doing it professionally?
 
@@ -27,7 +49,10 @@ When you're in "the zone" of good singing, it's almost like doing yoga or hittin
 
 I also get a feeling of invincibility. When your body and soul are open, yet strong, nothing is pushed, everything is *sul fiato*, it feels like you can sing forever, no matter what range. But good singing is also musicality, diction, pathos in the voice, and most important of all, uniqueness and honesty of self and voice. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496411512382/2017-06-02---Chaieb-2---Fox.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496411512382/2017-06-02---Chaieb-2---Fox.jpg.jpg)
+
 <figcaption>Rihab Chaieb, mezzo-soprano. Photo by Fay Fox.</figcaption>
 </figure>
 
@@ -49,7 +74,10 @@ I would also love to tackle the Handel's primo pants roles of Xerxes, Ruggiero (
 
 Unrealistically (but a gal can dream, right?): Amneris in *Aida* (Cossotto also sang Cherubino, just FYI), Salome (Maria Ewing sang it!), Maria Stuarda (her strength of character is just unmatched for me, and the music is to die for), Queen of the Night (my dream role after having done one singing lesson ever. I hit the reality wall soon after!), Brünnhilde, Elekra AND Elettra in *Idomeneo*. Basically, just bad-ass bitches.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496411524912/2017-06-02---Rihab-Chaieb---Fay-Fox.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496411524912/2017-06-02---Rihab-Chaieb---Fay-Fox.jpg.jpg)
+
 <figcaption>Rihab Chaieb, mezzo-soprano. Photo by Fay Fox.</figcaption>
 </figure>
 

@@ -1,21 +1,21 @@
-+++
-date = "2018-12-08T14:23:00-05:00"
-lastmod = "2018-12-08T14:23:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544296842792/Logo%20-%20Amore%20Opera.jpeg.jpeg"
-publishDate = "2018-12-08T14:23:00-05:00"
-slug = "amore-opera"
-title = "Amore Opera"
-type_of_company = "Opera Company"
-website = "http://www.amoreopera.org/index.php"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/AmoreOpera/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/AmoreOpera"
-+++
+---
+date: "2018-12-08T14:23:00-05:00"
+lastmod: "2018-12-08T14:23:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544296842792/Logo%20-%20Amore%20Opera.jpeg.jpeg
+publishDate: "2018-12-08T14:23:00-05:00"
+slug: amore-opera
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/AmoreOpera/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/AmoreOpera
+title: Amore Opera
+type_of_company: Opera Company
+website: http://www.amoreopera.org/index.php
+_template: "company_single"
+---
 
 Heralded as "an important tradition and a gift to the New York cultural scene," by Classical Music Editor Zachary Woolfe of *The New York Times*, Amore Opera has built a loyal following among opera lovers of all ages. Thanks to having inherited numerous sets and thousands of costumes from Amato Opera, Amore is able to offer fully-staged productions featuring a 30-member orchestra. Each year, Mr. Hull gives a platform to rising star singers, guest conductors, designers, directors, and, by maintaining a children's choir, offers opportunities for new opera aficionados and performers. In November 2017, in an interview for *Operawire*, Mr. Hull explained: "I'm really keen on educating the next generation of people on opera and classical music in general." In an effort to give more singers a chance to participate in a fully-staged live operatic production, Amore usually assigns several singers to each role, so the cast rotates with each performance.
 

@@ -1,15 +1,22 @@
-+++
-author = ["authors/greg.md"]
-categories = "News"
-date = "2015-06-17T16:27:00-04:00"
-lastmod = "2015-06-19T12:53:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434573126606/Breanna.jpg.jpg"
-publishDate = "2015-06-17T16:42:00-04:00"
-related_articles = ["articles/remember-me-but-ah-forget-my-fate.md"]
-short_description = "There&#039;s a lot going on these days with 25 year-old soprano Breanna Sinclairé. On June 17th, she will sing the US national anthem at the opening of the Oakland Athletics game against the San Diego Padres. A look at her YouTube page shows an aspiring young soprano with her head in the right places. Lots of Leontyne Price and Beyoncé. "
-slug = "trans-opera-singer-to-sing-national-anthem-at-oakland-as-game"
-title = "Trans opera singer to sing national anthem at Oakland A&#039;s game"
-+++
+---
+author:
+- authors/greg.md
+categories: News
+date: "2015-06-17T16:27:00-04:00"
+lastmod: "2015-06-19T12:53:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434573126606/Breanna.jpg.jpg
+publishDate: "2015-06-17T16:42:00-04:00"
+related_articles:
+- articles/remember-me-but-ah-forget-my-fate.md
+short_description: 'There&#039;s a lot going on these days with 25 year-old soprano
+  Breanna Sinclairé. On June 17th, she will sing the US national anthem at the opening
+  of the Oakland Athletics game against the San Diego Padres. A look at her YouTube
+  page shows an aspiring young soprano with her head in the right places. Lots of
+  Leontyne Price and Beyoncé. '
+slug: trans-opera-singer-to-sing-national-anthem-at-oakland-as-game
+title: Trans opera singer to sing national anthem at Oakland A&#039;s game
+_template: article_single
+---
 
 There's a lot going on these days with 25 year-old soprano [Breanna Sinclairé](https://twitter.com/bronzequeen2911). On June 17th, she will sing the US national anthem at the opening of the Oakland Athletics game against the San Diego Padres. A look at her YouTube page shows an aspiring young soprano with her head in the right places. Lots of Leontyne Price and Beyoncé. 
 

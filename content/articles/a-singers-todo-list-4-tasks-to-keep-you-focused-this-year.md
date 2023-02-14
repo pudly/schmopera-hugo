@@ -1,16 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2017-08-21T13:53:00-04:00"
-lastmod = "2017-08-21T21:16:00-04:00"
-preamble = "Readers, the beginning of a new school year is almost upon us. Some of you get excited by the autumn colours and the fresh notebooks, and some of you emit a strong sigh of \"here we go again.\" Whether you're a fan of the fall-to-spring grind or not, it's better spent with a good dose of focus. \n\nOn top of your general plan of becoming a more educated musician, we've got a few specific tasks that are worth some devoted time during this fresh academic year. (Hint: these tips apply for the non-students among you, too.)"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503341670837/2017-08-21---Tasks.jpg.jpg"
-publishDate = "2017-08-21T21:16:00-04:00"
-related_articles = ["articles/4-myths-from-music-school.md","articles/4-tips-for-when-there-are-too-many-notes.md","articles/vibrato-all-the-reasons-why.md"]
-short_description = "Readers, the beginning of a new school year is almost upon us. Some of you get excited by the autumn colours and the fresh notebooks; some of you emit a strong sigh of &quot;here we go again.&quot; Whether you&#039;re a fan of the fall-to-spring grind or not, it&#039;s better-spent with a good dose of focus. "
-slug = "a-singers-todo-list-4-tasks-to-keep-you-focused-this-year"
-title = "A singer&#039;s to-do list: 4 tasks to keep you focused this year"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2017-08-21T13:53:00-04:00"
+lastmod: "2017-08-21T21:16:00-04:00"
+preamble: "Readers, the beginning of a new school year is almost upon us. Some of
+  you get excited by the autumn colours and the fresh notebooks, and some of you emit
+  a strong sigh of \"here we go again.\" Whether you're a fan of the fall-to-spring
+  grind or not, it's better spent with a good dose of focus. \n\nOn top of your general
+  plan of becoming a more educated musician, we've got a few specific tasks that are
+  worth some devoted time during this fresh academic year. (Hint: these tips apply
+  for the non-students among you, too.)"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503341670837/2017-08-21---Tasks.jpg.jpg
+publishDate: "2017-08-21T21:16:00-04:00"
+related_articles:
+- articles/4-myths-from-music-school.md
+- articles/4-tips-for-when-there-are-too-many-notes.md
+- articles/vibrato-all-the-reasons-why.md
+short_description: 'Readers, the beginning of a new school year is almost upon us.
+  Some of you get excited by the autumn colours and the fresh notebooks; some of you
+  emit a strong sigh of &quot;here we go again.&quot; Whether you&#039;re a fan of
+  the fall-to-spring grind or not, it&#039;s better-spent with a good dose of focus. '
+slug: a-singers-todo-list-4-tasks-to-keep-you-focused-this-year
+title: 'A singer&#039;s to-do list: 4 tasks to keep you focused this year'
+_template: article_single
+---
 
 ## Develop a plan for drilling the tricky bits in your music
 

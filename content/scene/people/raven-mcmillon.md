@@ -1,17 +1,19 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1636122206/media/2021/11/RavenMcMillonjpeg_jhnlrt.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/cincinnati-opera.md", "scene/companies/houston-grand-opera.md"]
-slug = "raven-mcmillon"
-title = "Raven McMillon"
-website = "https://ravenmcmillon.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/raven.mcmillon.soprano/"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1636122206/media/2021/11/RavenMcMillonjpeg_jhnlrt.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/cincinnati-opera.md
+- scene/companies/houston-grand-opera.md
+slug: raven-mcmillon
+social_media:
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/raven.mcmillon.soprano/
+title: Raven McMillon
+website: https://ravenmcmillon.com/
+_template: "people_single"
+---
 Soprano Raven McMillon is a native of Baltimore, MD. Recently, Ms. McMillon was named a 2021 Grand Finals Winner of the Metropolitan Opera’s Eric and Dominique Laffont Competition. She returns to Houston Grand Opera as a second year studio artist for their 2021-2022 season as Frasquita in _Carmen_, Peter in Joel Thompson’s _The Snowy Day_, and Papagena in _The Magic Flute_. Elsewhere, she makes her house and role debut at Des Moines Metro Opera as Pamina in _The Magic Flute_ as well as a house and role debut at Opera Philadelphia as Gilda in _Rigoletto_.
 
 Ms. McMillon will join Cincinnati Opera in the summer of 2022 for her role debut as Musetta in _La Bohème_ as well as Ruthie in _Castor and Patience_, a much anticipated world premiere from composer Gregory Spears.

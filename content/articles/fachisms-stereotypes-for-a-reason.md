@@ -1,22 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-05-14T13:19:00-04:00"
-lastmod = "2015-05-15T13:42:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431628550797/KaufmannWestbroekSiegfried_Fotor.jpg.jpg"
-primary_image_credit = "Jonas Kaufmann and Eva-Maria Westbroek in The Met's Die Walküre, 2011. Photo: Ken Howard/Metropolitan Opera"
-publishDate = "2015-05-15T13:30:00-04:00"
-related_articles = ["articles/lets-hear-it-for-the-basses.md", "articles/taking-a-bow-curtain-calls-for-your-voice-type.md", "articles/hypothetical-operas-the-2016-presidential-election.md", "articles/women-in-the-arts-is-it-our-turn-yet.md"]
-related_people = ["scene/people/evamaria-westbroek.md", "scene/people/jonas-kaufmann.md"]
-short_description = "I do get the jokes. Stereotypes for a reason, and all that. It&#039;s interesting to note that even if singers of different voice-types don&#039;t align perfectly with the above cross-section, there are still a few fach-specific thought processes that I&#039;ve noticed from my seat at the piano. "
-slug = "fach-isms-stereotypes-for-a-reason"
-title = "Fach-isms &amp; stereotypes for a reason"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-05-14T13:19:00-04:00"
+lastmod: "2015-05-15T13:42:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431628550797/KaufmannWestbroekSiegfried_Fotor.jpg.jpg
+primary_image_credit: 'Jonas Kaufmann and Eva-Maria Westbroek in The Met''s Die Walküre,
+  2011. Photo: Ken Howard/Metropolitan Opera'
+publishDate: "2015-05-15T13:30:00-04:00"
+related_articles:
+- articles/lets-hear-it-for-the-basses.md
+- articles/taking-a-bow-curtain-calls-for-your-voice-type.md
+- articles/hypothetical-operas-the-2016-presidential-election.md
+- articles/women-in-the-arts-is-it-our-turn-yet.md
+related_people:
+- scene/people/evamaria-westbroek.md
+- scene/people/jonas-kaufmann.md
+short_description: 'I do get the jokes. Stereotypes for a reason, and all that. It&#039;s
+  interesting to note that even if singers of different voice-types don&#039;t align
+  perfectly with the above cross-section, there are still a few fach-specific thought
+  processes that I&#039;ve noticed from my seat at the piano. '
+slug: fach-isms-stereotypes-for-a-reason
+title: Fach-isms &amp; stereotypes for a reason
+_template: article_single
+---
 I saw this oldie-but-goodie making the rounds on Facebook today:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431626119851/classicoperacartoon.jpg%3Fw%3D640)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431626119851/classicoperacartoon.jpg%3Fw%3D640)
+
+<figure>
 
 This comic says (implies, I suppose) a few things.
 

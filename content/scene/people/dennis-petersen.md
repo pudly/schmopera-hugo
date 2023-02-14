@@ -1,14 +1,22 @@
-+++
-date = "2018-01-29T18:20:00-05:00"
-discipline = "Tenor"
-lastmod = "2018-01-29T18:23:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517267758202/Petersen.D.Headshot.jpg.jpg"
-publishDate = "2018-01-29T18:20:00-05:00"
-related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/minnesota-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-metropolitan-opera.md","scene/companies/washington-national-opera.md","scene/companies/seattle-opera.md","scene/companies/opera-theatre-of-st-louis.md"]
-slug = "dennis-petersen"
-title = "Dennis Petersen"
-website = "http://dpetersen.easywebcontent.com/"
-+++
+---
+date: "2018-01-29T18:20:00-05:00"
+discipline: Tenor
+lastmod: "2018-01-29T18:23:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517267758202/Petersen.D.Headshot.jpg.jpg
+publishDate: "2018-01-29T18:20:00-05:00"
+related_companies:
+- scene/companies/san-francisco-opera.md
+- scene/companies/minnesota-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+slug: dennis-petersen
+title: Dennis Petersen
+website: http://dpetersen.easywebcontent.com/
+_template: "people_single"
+---
 
 Hailed by The Chicago Tribune as a "Wonderfully natural singing actor," through his innate sense of style, command of languages, and superior acting abilities, tenor Dennis Petersen is sought after for a variety of operatic roles. More recently he is being noted for his foray into some of the most eminent dramatic tenor roles in the repertoire, such as Tristan in *Tristan und Isolde*, Florestan in *Fidelio*, the Captain in *Wozzeck*, Aegisth in *Elektra*, Canio in *Pagliacci*, and the title role in *Peter Grimes*.
 

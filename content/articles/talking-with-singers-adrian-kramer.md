@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-04-12T00:13:00+01:00"
-lastmod = "2017-03-29T23:13:00+01:00"
-preamble = "<p>\n\tLike many others in the Canadian opera scene, I first met <a href=\"https://twitter.com/aitkramer\" target=\"_blank\">Adrian Kramer</a> as a baritone in the COC Ensemble Studio. Recently, Adrian made a dramatic and successful shift into tenor singing, and I'm not the only person who heard a truly exciting leap forward. As a natural musician and a very smart singer, I was eager to ask Adrian about what it takes to change vocal fach. Whose idea was it to move from baritone to tenor, and what kind of work was involved? Adrian offers up some fascinating insight on the question of singing comfortably and voice types.\n</p>"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490825454330/2017-03-30---Adrian-Kramer.jpg.jpg"
-publishDate = "2015-02-17T14:12:00+00:00"
-related_articles = ["articles/cesaroni-isis-osiris-new-opera.md"]
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/adrian-kramer.md"]
-short_description = "​Like many others in the Canadian opera scene, I first met Adrian Kramer as a baritone in the COC Ensemble Studio. Recently, Adrian made a dramatic and successful shift into tenor singing, and I&#039;m not the only person who heard a truly exciting leap forward. "
-slug = "talking-with-singers-adrian-kramer"
-title = "Talking with singers: Adrian Kramer"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-04-12T00:13:00+01:00"
+lastmod: "2017-03-29T23:13:00+01:00"
+preamble: "<p>\n\tLike many others in the Canadian opera scene, I first met <a href=\"https://twitter.com/aitkramer\"
+  target=\"_blank\">Adrian Kramer</a> as a baritone in the COC Ensemble Studio. Recently,
+  Adrian made a dramatic and successful shift into tenor singing, and I'm not the
+  only person who heard a truly exciting leap forward. As a natural musician and a
+  very smart singer, I was eager to ask Adrian about what it takes to change vocal
+  fach. Whose idea was it to move from baritone to tenor, and what kind of work was
+  involved? Adrian offers up some fascinating insight on the question of singing comfortably
+  and voice types.\n</p>"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490825454330/2017-03-30---Adrian-Kramer.jpg.jpg
+publishDate: "2015-02-17T14:12:00+00:00"
+related_articles:
+- articles/cesaroni-isis-osiris-new-opera.md
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/adrian-kramer.md
+short_description: '​Like many others in the Canadian opera scene, I first met Adrian
+  Kramer as a baritone in the COC Ensemble Studio. Recently, Adrian made a dramatic
+  and successful shift into tenor singing, and I&#039;m not the only person who heard
+  a truly exciting leap forward. '
+slug: talking-with-singers-adrian-kramer
+title: 'Talking with singers: Adrian Kramer'
+_template: article_single
+---
 
 <h2>What do you call good singing?</h2>
 <p>

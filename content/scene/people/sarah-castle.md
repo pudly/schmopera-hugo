@@ -1,17 +1,26 @@
-+++
-date = "2017-07-26T22:50:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-07-26T22:50:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501123707455/Headshot-1.jpg.jpg"
-publishDate = "2017-07-26T22:50:00-04:00"
-related_companies = ["scene/companies/welsh-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/opera-north.md","scene/companies/san-diego-opera.md","scene/companies/san-francisco-opera.md","scene/companies/spoleto-festival-usa.md","scene/companies/seattle-opera.md","scene/companies/opera-australia.md"]
-slug = "sarah-castle"
-title = "Sarah Castle"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/sarahvcastle"
-+++
+---
+date: "2017-07-26T22:50:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-07-26T22:50:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501123707455/Headshot-1.jpg.jpg
+publishDate: "2017-07-26T22:50:00-04:00"
+related_companies:
+- scene/companies/welsh-national-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/opera-north.md
+- scene/companies/san-diego-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/spoleto-festival-usa.md
+- scene/companies/seattle-opera.md
+- scene/companies/opera-australia.md
+slug: sarah-castle
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/sarahvcastle
+title: Sarah Castle
+_template: "people_single"
+---
 
 New Zealand-born mezzo-soprano Sarah Castle has been gaining attention for her committed and idiomatic performances of a wide-ranging repertoire spanning over three-and-a-half centuries of different styles and composers.  Based in the UK, she has developed an ongoing relationship with London’s Royal Opera House Covent Garden, where she debuted in 2001 as Tisbe CENERENTOLA and has gone on to sing a variety of roles, including the Wagner roles of Flosshilde and Siegrune in Keith Warner’s production of DER RING DES NIBELUNGEN.
 

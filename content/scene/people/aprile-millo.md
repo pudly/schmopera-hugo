@@ -1,22 +1,26 @@
-+++
-date = "2015-04-06T22:03:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-06T22:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428372222699/AprileMillo.jpg.jpg"
-publishDate = "2015-04-06T22:03:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/teatro-alla-scala.md"]
-slug = "aprile-millo"
-title = "Aprile Millo"
-website = "http://www.aprilemillo.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/OfficialFanPageforAprileMillo"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MilloTweets"
-+++
+---
+date: "2015-04-06T22:03:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-06T22:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428372222699/AprileMillo.jpg.jpg
+publishDate: "2015-04-06T22:03:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/teatro-alla-scala.md
+slug: aprile-millo
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/OfficialFanPageforAprileMillo
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/MilloTweets
+title: Aprile Millo
+website: http://www.aprilemillo.org/
+_template: "people_single"
+---
 
 <p>
 	Aprile Millo holds the distinction of being considered today's true Verdi soprano. Critics worldwide have confirmed this unique position comparing her to such legendary artists as Renata Tebaldi, Claudia Muzio, Zinka Milanov, and Maria Callas for her seamless legato, Italianate color and beauty of voice wed to dramatic commitment.

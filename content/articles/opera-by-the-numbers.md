@@ -1,36 +1,61 @@
-+++
-author = ["authors/ashley-pearson.md"]
-categories = "Op-ed"
-date = "2017-01-10T13:41:00+00:00"
-lastmod = "2017-01-12T15:45:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484060491260/2017-01-10---Numbers.jpg.jpg"
-publishDate = "2017-01-12T10:04:00+00:00"
-related_articles = ["articles/missing-the-point-the-mets-201516-season.md","articles/can-opera-make-money.md"]
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/garsington-opera.md","scene/companies/opera-holland-park.md"]
-short_description = "If you’re anything like me, you&#039;re already dreaming about fresh strawberries and Prosecco, long summer evenings, and outdoor opera. While a chilly fog settles over London once again, I&#039;m getting curious about upcoming shows and trends, so here&#039;s a breakdown of what we&#039;ve got to look forward to at 2017&#039;s UK summer festivals."
-slug = "opera-by-the-numbers"
-title = "Opera by the numbers"
-+++
+---
+author:
+- authors/ashley-pearson.md
+categories: Op-ed
+date: "2017-01-10T13:41:00+00:00"
+lastmod: "2017-01-12T15:45:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484060491260/2017-01-10---Numbers.jpg.jpg
+publishDate: "2017-01-12T10:04:00+00:00"
+related_articles:
+- articles/missing-the-point-the-mets-201516-season.md
+- articles/can-opera-make-money.md
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/garsington-opera.md
+- scene/companies/opera-holland-park.md
+short_description: If you’re anything like me, you&#039;re already dreaming about
+  fresh strawberries and Prosecco, long summer evenings, and outdoor opera. While
+  a chilly fog settles over London once again, I&#039;m getting curious about upcoming
+  shows and trends, so here&#039;s a breakdown of what we&#039;ve got to look forward
+  to at 2017&#039;s UK summer festivals.
+slug: opera-by-the-numbers
+title: Opera by the numbers
+_template: article_single
+---
 
 If you’re anything like me, you're already dreaming about fresh strawberries and Prosecco, long summer evenings, and outdoor opera. While a chilly fog settles over London once again, I'm getting curious about upcoming shows and trends, so here's a breakdown of what we've got to look forward to at 2017's UK summer festivals.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484234272068/Composers.jpg.jpg)</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484234272068/Composers.jpg.jpg)
+
+</figure>
 
 We've got Mozart, we've got Puccini... we’ve got a smattering of Wagner and Janáček, among others, and even some Britten, Debussy and Gluck. But there’s something missing from this list.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484235655017/Commissions-Revivals.jpg.jpg)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484235655017/Commissions-Revivals.jpg.jpg)
+
+<figure>
 
 Of the over 30 new productions that will be gracing British stages this summer, only two are new commissions: *Hamlet* for Glyndebourne, and for Young Artists and community singers at Garsington, *Silver Birch*. The challenge of producing new opera is not a new topic, but it is thrown into stark relief when we take a look at the numbers for the upcoming year.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484235671244/New-Revivals.jpg.jpg)</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484235671244/New-Revivals.jpg.jpg)
+
+</figure>
 
 Things don't look so bad when we compare the number of new productions vs. revivals that are being produced this summer. Only the Grange Festival will be staging entirely new productions while Longborough will stage one revival (*Tristan und Isolde*) alongside three new productions. Glyndebourne, of their six productions, will stage one new commission (*Hamlet*) and two entirely new productions (*Hipermestra* and *La clemenza di Tito*.
 
 Perhaps most troubling is the fact that only one female conductor has been engaged on any of the shows. Sian Edwards, who will be conducting the revival of *Kát'a Kabanová* at Opera Holland Park, was the Musical Director for the ENO from 1993-1995, and has subsequently worked across Europe and around the world. She is currently the Head of Conducting at the Royal Academy of Music.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484235684400/Female-Male.jpg.jpg)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484235684400/Female-Male.jpg.jpg)
+
+<figure>
 
 There's been a lot of talk in recent years about the need for more female directors in opera, and while parity hasn’t yet been reached, things are clearly going better for female directors than conductors.
 

@@ -1,6 +1,5 @@
 ---
 title: Advertising
-
 ---
 ## SO MANY OPPORTUNITIES, SO LITTLE TIME.
 

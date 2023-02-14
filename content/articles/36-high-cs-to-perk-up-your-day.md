@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-03-29T13:22:00+01:00"
-lastmod = "2016-03-29T13:46:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459254464979/2016-03-29---Juan-Diego-Florez.jpg.jpg"
-primary_image_credit = "Photo: Decca / Josef Gallauer"
-publishDate = "2016-03-29T13:45:00+01:00"
-related_articles = ["articles/chiaro-vs-scuro-what-does-it-all-mean.md","articles/muppets-at-the-opera.md"]
-related_people = ["scene/people/juan-diego-florez.md","scene/people/javier-camarena.md"]
-short_description = "Tonight, we&#039;re pretty excited to hear Peruvian tenor Juan Diego Flórez in recital at Royal Albert Hall, as part of the Rosenblatt Recital series. The tenor is famous for his stratospheric singing, and although one of his signature arias, &quot;Ah, mes amis&quot; from Donizetti&#039;s La fille du régiment isn&#039;t listed on his programme, there&#039;s always the promise of an encore..."
-slug = "36-high-cs-to-perk-up-your-day"
-title = "36 high C&#039;s to perk up your day"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-03-29T13:22:00+01:00"
+lastmod: "2016-03-29T13:46:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459254464979/2016-03-29---Juan-Diego-Florez.jpg.jpg
+primary_image_credit: 'Photo: Decca / Josef Gallauer'
+publishDate: "2016-03-29T13:45:00+01:00"
+related_articles:
+- articles/chiaro-vs-scuro-what-does-it-all-mean.md
+- articles/muppets-at-the-opera.md
+related_people:
+- scene/people/juan-diego-florez.md
+- scene/people/javier-camarena.md
+short_description: Tonight, we&#039;re pretty excited to hear Peruvian tenor Juan
+  Diego Flórez in recital at Royal Albert Hall, as part of the Rosenblatt Recital
+  series. The tenor is famous for his stratospheric singing, and although one of his
+  signature arias, &quot;Ah, mes amis&quot; from Donizetti&#039;s La fille du régiment
+  isn&#039;t listed on his programme, there&#039;s always the promise of an encore...
+slug: 36-high-cs-to-perk-up-your-day
+title: 36 high C&#039;s to perk up your day
+_template: article_single
+---
 
 Tonight, we're pretty excited to hear Peruvian tenor [Juan Diego Flórez](/scene/people/juan-diego-florez/) in recital at Royal Albert Hall, as part of the [Rosenblatt Recital series](http://www.rosenblattrecitalseries.co.uk/recital.aspx?key=162). The tenor is famous for his stratospheric singing, and although one of his signature arias, "Ah, mes amis" from Donizetti's *La fille du régiment* isn't listed on his programme, there's always the promise of an encore...
 

@@ -1,22 +1,25 @@
-+++
-date = "2016-06-07T10:57:00+01:00"
-discipline = "S. Richards"
-lastmod = "2016-06-07T10:59:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465293222643/2016-06-07---Musa.jpg.jpg"
-publishDate = "2016-06-07T10:59:00+01:00"
-related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/washington-national-opera.md"]
-slug = "musa-ngqungwana"
-title = "Musa Ngqungwana"
-website = "http://www.musangqungwana.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Musa-Ngqungwana-120236317949/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/musa_ngqungwana"
-+++
+---
+date: "2016-06-07T10:57:00+01:00"
+discipline: S. Richards
+lastmod: "2016-06-07T10:59:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465293222643/2016-06-07---Musa.jpg.jpg
+publishDate: "2016-06-07T10:59:00+01:00"
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/washington-national-opera.md
+slug: musa-ngqungwana
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Musa-Ngqungwana-120236317949/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/musa_ngqungwana
+title: Musa Ngqungwana
+website: http://www.musangqungwana.com/
+_template: "people_single"
+---
 
 South African bass-baritone Musa Ngqungwana has been praised by the *New York Times* for his "rich, glowing voice and elegant legato." He makes a number of company debuts this season, most notably at Los Angeles Opera in the role of Queequeg in *Moby Dick*, followed by his first performances at The Glimmerglass Festival singing Gottardo in *La gazza ladra*, and at Palm Beach Opera as Zuniga in *Carmen*. He returns to Washington National Opera to sing the role of Stephen Kumalo in Kurt Weill’s *Lost in the Stars* and performs as bass soloist in Handel’s *Messiah* at the U.S. Naval Academy. 
 

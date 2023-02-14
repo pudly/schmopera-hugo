@@ -1,27 +1,41 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = 2019-11-02T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Opera Omaha's production of [_Madama Butterfly_](https://www.operaomaha.org/season-tickets/current-season/2020/madama-butterfly) runs through November 3."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572742481/media/2019/11/sqKanekoMB15_d5lpzx.jpg"
-primary_image_credit = "Opera Omaha's production of Madama Butterfly, 2019. Photo: Thomas Grady."
-related_articles = ["articles/when-art-is-not-enough-opera-activism.md", "articles/in-review-madam-butterfly-at-eno.md"]
-related_companies = ["scene/companies/opera-omaha.md"]
-related_people = []
-short_description = "\"Son's entire demeanor shifted in this scene from distraught mess to calm intensity. The effect was quite jarring, ending the opera with a truly tragic shock.\""
-slug = "karah-son-a-true-jewel-of-opera-omahas-madama-butterfly"
-title = "Karah Son a \"true jewel\" of Opera Omaha's Madama Butterfly"
-youtube_url = ""
+---
+author:
+  - authors/meghan-klinkenborg.md
+categories: Review
+date: '2019-11-02T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  Opera Omaha's production of [_Madama
+  Butterfly_](https://www.operaomaha.org/season-tickets/current-season/2020/madama-butterfly)
+  runs through November 3.
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1572742481/media/2019/11/sqKanekoMB15_d5lpzx.jpg
+primary_image_credit: 'Opera Omaha''s production of Madama Butterfly, 2019. Photo: Thomas Grady.'
+related_articles:
+  - articles/when-art-is-not-enough-opera-activism.md
+  - articles/in-review-madam-butterfly-at-eno.md
+related_companies:
+  - scene/companies/opera-omaha.md
+related_people: []
+short_description: >-
+  "Son's entire demeanor shifted in this scene from distraught mess to calm
+  intensity. The effect was quite jarring, ending the opera with a truly tragic
+  shock."
+slug: karah-son-a-true-jewel-of-opera-omahas-madama-butterfly
+title: Karah Son a "true jewel" of Opera Omaha's Madama Butterfly
+youtube_url: ''
+_template: article_single
+---
 
-+++
 Polka dots and Puccini! Opera Omaha's production of [_Madama Butterfly_](https://www.operaomaha.org/season-tickets/current-season/2020/madama-butterfly) is an intriguing marriage of modern art and musical drama. This opera classic intermingled with a kaleidoscope of colors and patterns to create a unique experience that celebrates collaboration between the visual and musical arts.
 
 This production is a revival of Opera Omaha's 2006 collaboration with Japanese ceramic artist and Omaha resident, Jun Kaneko. This was Kaneko's first foray into the art form, and his signature style was splashed across the stage from start to finish. The set design was minimalist but featured an overwhelming amount of color. At times the spiral shaped setting felt sterile and unwelcoming, and at other times, the use of multiple projections and colored streamers transformed the space into a chaotic cacophony.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572743117/media/2019/11/KanekoMB02_kqrxpf.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572743117/media/2019/11/KanekoMB02_kqrxpf.jpg)
 
 <figcaption>Opera Omaha's production of Madama Butterfly, 2019. Photo: Thomas Grady.</figcaption>
 
@@ -35,7 +49,9 @@ Kaneko's artistic style made for some striking vignettes, but Leslie Swackhamer'
 
 In spite of the strange choices, there were certain scenes that struck the audience to their core. Cio-Cio-San's death had the strongest impact, her slumped body highlighted beneath a bleeding red homage to the Japanese flag. These moments of musical and artistic unification are what opera is all about.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572743153/media/2019/11/KanekoMB03_q8uxvd.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572743153/media/2019/11/KanekoMB03_q8uxvd.jpg)
 
 <figcaption>Opera Omaha's production of Madama Butterfly, 2019. Photo: Thomas Grady.</figcaption>
 
@@ -45,7 +61,9 @@ The orchestra, under the direction of Joseph Rescigno, filled the theater with P
 
 The chorus in this opera is minimal and spends much of their performance singing from offstage. Chorus Master Sean Kelly's troupe of singers sang admirably, alternating between the shimmering tones and the sharper shocking scenes. My only disappointment was that their volume came across as perpetually softer than desired despite the healthy number of chorus members onstage. Oddly it was their offstage singing that had the greatest impact, a distant and atmospheric backdrop for Cio-Cio-San's anguish.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572743174/media/2019/11/KanekoMB07_xmbbxi.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572743174/media/2019/11/KanekoMB07_xmbbxi.jpg)
 
 <figcaption>Opera Omaha's production of Madama Butterfly, 2019. Photo: Thomas Grady.</figcaption>
 
@@ -59,7 +77,9 @@ Luis Ledesma portrayed Sharpless, the Consul and voice of reason in this opera. 
 
 Abby Roth was a stern but kind presence as Pinkerton's American wife, Kate. Her rich mezzo tone was ominous and calm in the face of Suzuki's anguish. I can only hope that Kate wises up, adopts the child, and divorces Pinkerton's ass as soon as she can.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572743191/media/2019/11/KanekoMB09_j7a2jq.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572743191/media/2019/11/KanekoMB09_j7a2jq.jpg)
 
 <figcaption>Opera Omaha's production of Madama Butterfly, 2019. Photo: Thomas Grady.</figcaption>
 
@@ -71,7 +91,9 @@ Kristen Choi was charming and sympathetic in the role of Suzuki. The mezzo's voi
 
 Alok Kumar sang the role of Pinkerton, the romantic lead and villain of this opera. Kumar's voice was well suited for Puccini, but the tenor lacked the vocal and physical swagger needed for Pinkerton. He flitted around the stage with a restless energy that lacked purpose. Pinkerton is egotistical and confident, and even when he finds himself giddy about his new plaything wife, he should maintain a predator's focus. Much of Kumar's dramatic murkiness was the result of staging choices, especially in the love duet with Cio-Cio-San. The chemistry in that scene was thrown off by unnecessary movement, and Pinkerton seemed like he was along for the ride when he should the driving force in the seduction.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572743229/media/2019/11/KanekoMB10_esmsga.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572743229/media/2019/11/KanekoMB10_esmsga.jpg)
 
 <figcaption>Opera Omaha's production of Madama Butterfly, 2019. Photo: Thomas Grady.</figcaption>
 
@@ -81,7 +103,9 @@ Kumar showed his true potential in the role when Pinkerton returned in the final
 
 > The effect was quite jarring, ending the opera with a truly tragic shock.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572743253/media/2019/11/KanekoMB12_tvfemu.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572743253/media/2019/11/KanekoMB12_tvfemu.jpg)
 
 <figcaption>Opera Omaha's production of Madama Butterfly, 2019. Photo: Thomas Grady.</figcaption>
 
@@ -91,7 +115,9 @@ The true jewel of this opera was rightfully Karah Son in the role Cio-Cio-San. A
 
 Son brought believable growth to Cio-Cio-San's story, evolving from bashful bride to devastated mother. Her most powerful dramatic moment of the opera occured when Cio-Cio-San resolves to kill herself. Son's entire demeanor shifted in this scene from distraught mess to calm intensity. The effect was quite jarring, ending the opera with a truly tragic shock.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572743307/media/2019/11/KanekoMB16_zbbes5.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572743307/media/2019/11/KanekoMB16_zbbes5.jpg)
 
 <figcaption>Opera Omaha's production of Madama Butterfly, 2019. Photo: Thomas Grady.</figcaption>
 

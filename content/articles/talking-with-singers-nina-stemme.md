@@ -1,22 +1,29 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Interview"
-date = "2019-02-12T01:14:34+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549934293/media/2019/02/sqNinaStemme.jpg"
-primary_image_credit = "Soprano Nina Stemme. Photo: Neda Navaee."
-related_articles = ["articles/la-nilsson-celebrating-birgit-nilsson-at-100.md", "articles/loc-elektra.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/nina-stemme.md"]
-short_description = "She cautions that even in a prestigious YAP or ensemble studio, the opera directors are juggling many priorities and they simply want \"to get the most out of your voice right now.\""
-slug = "talking-with-singers-nina-stemme"
-title = "Talking with singers: Nina Stemme"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Interview
+date: "2019-02-12T01:14:34+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549934293/media/2019/02/sqNinaStemme.jpg
+primary_image_credit: 'Soprano Nina Stemme. Photo: Neda Navaee.'
+related_articles:
+- articles/la-nilsson-celebrating-birgit-nilsson-at-100.md
+- articles/loc-elektra.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/nina-stemme.md
+short_description: She cautions that even in a prestigious YAP or ensemble studio,
+  the opera directors are juggling many priorities and they simply want "to get the
+  most out of your voice right now."
+slug: talking-with-singers-nina-stemme
+title: 'Talking with singers: Nina Stemme'
+youtube_url: ""
+_template: article_single
+---
 Disarmingly approachable, keen to give advice and loathe to self-aggrandize, [Nina Stemme](/scene/people/nina-stemme/) is beloved not only for her impeccable, honest artistry but for her thoughtful, deeply personal interpretations of opera's most psychologically complex heroines, including Isolde, Salome, Brünnhilde, and Elektra, which she is singing this month at the [Lyric Opera of Chicago](/stemmes-elektra-visible-in-every-wild-look-and-lurching-step/) in a long-overdue company debut.
 
 As charmed as her career appears from the outside, Stemme is quick to challenge the commonly-held assumption that she's had anything resembling a meteoric rise. She came to study opera relatively late, graduating from the Stockholm Opera Studio at 30. While she had a string of successes early in her career as a Mozart-and-Puccini soprano, (among them, being a finalist at the 1993 BBC Cardiff Singer of the World Competition and winning the inaugural Operalia competition), her move to the dramatic repertoire that now defines her was a slow, methodical transition.
@@ -27,7 +34,9 @@ Stemme credits early experiences with Mozart and Puccini as invaluable for secur
 
 In Stemme's unusually didactic official bio it is emphasized, "That she initially shied away from these staggering heights of the soprano repertoire is a noteworthy—if not the defining—characteristic of her career. Mozart's Cherubino is a far cry from Isolde and Turandot, a leap only few have mastered. Nina Stemme made the leap successfully by taking the time a development of this kind requires."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549934452/media/2019/02/NinaStemmeNedaNavaee2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1549934452/media/2019/02/NinaStemmeNedaNavaee2.jpg)
 
 <figcaption>Soprano Nina Stemme. Photo: Neda Navaee.</figcaption>
 
@@ -45,7 +54,9 @@ Over the course of our chat, Stemme was eager to emphasize the importance of fig
 
 For young singers today who face daunting pressure to be fully formed "products" or "brands" by the time they graduate college, the idea of taking two and a half years "off" is surely an agitating one. A role offer (even if it’s too big or just not the right role), might be accepted injudiciously by a singer feeling the pressure to appease a company’s top brass and cram a season chock full to keep pace with the competition. It's an unfortunate dilemma that Stemme acknowledged: an undeniable surge of young talent has led to a raising of the "general level" of music-making, "but at the same time, singers are so afraid of being sacked they won't share their true feelings, \[even\] if they're having a hard time."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549581135/media/2019/02/NinaStemme2ELEKTRALyricOperaofChicago.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1549581135/media/2019/02/NinaStemme2ELEKTRALyricOperaofChicago.jpg)
 
 <figcaption>Nina Stemme in Elektra, Lyric Opera of Chicago, 2019. Photo: Cory Weaver.</figcaption>
 
@@ -59,7 +70,9 @@ The only moment in our chat that Stemme turned visibly circumspect was at the me
 
 I’ll end this piece with one of the more direct and spontaneous recommendations Stemme made. Shared in the context of advice for young singers (but equally valuable for any person in any field), Stemme was clear and firm: "get to know yourself." Therapy, Stemme says, can be an invaluable tool. While she acknowledged that especially in the U.S., securing mental healthcare can be complicated and financially burdensome, its benefits are manifold. Stemme says she has sought out therapy a couple times over the course of her career, "in order not to stand in my own way." Certainly, the stresses and expectations of an operatic career are peculiar - the pressure to be always "on," lots of traveling, flitting in and out of different characters, plus long stretches of time spent in isolation, away from close friends and family. And then there's the omnipresent knowledge that it's all built on the shifting sands of a fundamentally unreliable resource: a human voice.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549934572/media/2019/02/NinaStemmeNedaNavaee.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1549934572/media/2019/02/NinaStemmeNedaNavaee.jpg)
 
 <figcaption>Soprano Nina Stemme. Photo: Neda Navaee.</figcaption>
 

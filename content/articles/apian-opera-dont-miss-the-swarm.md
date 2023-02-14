@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-01-27T11:57:00+00:00"
-lastmod = "2017-01-29T11:58:00+00:00"
-preamble = "Last autumn, we went to the Thames Tunnel Sinking Shaft at London's Brunel Museum to see [*The Swarm*](/actual-opera-buzz-the-swarm-in-review/), an all-women ensemble opera by Heloise Tunstall-Behrens and Roswitha Gerlitz. The opera tells the story of a swarm of bees, who are on the hunt for a safe, warm place to make their nest; the layered sound scape of *The Swarm* is meant to draw the audience into the collective swarm, to not only observe, but experience the story.\n\nOn **February 8-12**, *The Swarm* returns to London as part of the [VAULT Festival](http://www.vaultfestival.com/event/the-swarm/2017-02-08/). We spoke with composer Tunstall-Behrens about writing music for bees, and the opera's larger message of \"togetherness and love\"."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485518474452/2017-01-27---The-Swarm---Vaults.jpg.jpg"
-publishDate = "2017-01-29T10:56:00+00:00"
-related_articles = ["articles/actual-opera-buzz-the-swarm-in-review.md","articles/6-animals-who-love-opera-more-than-penguins.md"]
-related_companies = ["scene/companies/popup-opera.md"]
-short_description = "&quot;Our aim is for the audience to feel part of the colony and one of the bees.  The message is togetherness and love and we want the audience to be included within that.  Just as every bee has a role within the colony, so too does the audience.&quot;"
-slug = "apian-opera-dont-miss-the-swarm"
-title = "Apian opera: don&#039;t miss The Swarm"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-01-27T11:57:00+00:00"
+lastmod: "2017-01-29T11:58:00+00:00"
+preamble: |-
+  Last autumn, we went to the Thames Tunnel Sinking Shaft at London's Brunel Museum to see [*The Swarm*](/actual-opera-buzz-the-swarm-in-review/), an all-women ensemble opera by Heloise Tunstall-Behrens and Roswitha Gerlitz. The opera tells the story of a swarm of bees, who are on the hunt for a safe, warm place to make their nest; the layered sound scape of *The Swarm* is meant to draw the audience into the collective swarm, to not only observe, but experience the story.
+
+  On **February 8-12**, *The Swarm* returns to London as part of the [VAULT Festival](http://www.vaultfestival.com/event/the-swarm/2017-02-08/). We spoke with composer Tunstall-Behrens about writing music for bees, and the opera's larger message of "togetherness and love".
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485518474452/2017-01-27---The-Swarm---Vaults.jpg.jpg
+publishDate: "2017-01-29T10:56:00+00:00"
+related_articles:
+- articles/actual-opera-buzz-the-swarm-in-review.md
+- articles/6-animals-who-love-opera-more-than-penguins.md
+related_companies:
+- scene/companies/popup-opera.md
+short_description: '&quot;Our aim is for the audience to feel part of the colony and
+  one of the bees.  The message is togetherness and love and we want the audience
+  to be included within that.  Just as every bee has a role within the colony, so
+  too does the audience.&quot;'
+slug: apian-opera-dont-miss-the-swarm
+title: 'Apian opera: don&#039;t miss The Swarm'
+_template: article_single
+---
 
 ## Can you tell us the process of notating a score like *The Swarm*? Were there any unique challenges for the singers in learning and memorising it?
 
@@ -21,7 +32,11 @@ Most of the singers were more comfortable learning by ear, so learning the music
 
 Because of the interconnected nature of some of the movements, it was essential that every singer was there when we sang the pieces through - each singer has their own part and often takes cues from another singer, or is the one who gives the cues to the others.  It was funny reflecting on this and finding parallels with bees within a colony – everyone has their role and is just as important as all the others.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485690796942/2017-01-27---Heloise-Tunstall-Behrens.jpg.jpg)<figcaption>Heloise Tunstall-Behrens, composer of *The Swarm*.</figcaption></figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485690796942/2017-01-27---Heloise-Tunstall-Behrens.jpg.jpg)
+
+<figcaption>Heloise Tunstall-Behrens, composer of *The Swarm*.</figcaption></figure>
 
 ## What do you look for in a performance venue for *The Swarm*? How much does the piece change when it moves to a new venue?
 

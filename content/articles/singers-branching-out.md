@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2015-05-26T09:06:00-04:00"
-lastmod = "2015-06-17T15:23:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432836908224/ReneePlacidoNeil.jpg.jpg"
-primary_image_credit = "Shicoff in La Juive (Michael Pöhn), Domingo in Simon Boccanegra (Robert Millard), Fleming in Otello (Ken Howard)"
-publishDate = "2015-05-29T14:06:00-04:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/the-metropolitan-opera.md","scene/companies/los-angeles-opera.md"]
-related_people = ["scene/people/plcido-domingo.md","scene/people/renee-fleming.md","scene/people/neil-shicoff.md"]
-short_description = "Within the last few weeks, a few of today&#039;s most admired opera singers have announced how they keep making waves in the industry, this time from off-stage. "
-slug = "singers-branching-out"
-title = "Singers branching out"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2015-05-26T09:06:00-04:00"
+lastmod: "2015-06-17T15:23:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432836908224/ReneePlacidoNeil.jpg.jpg
+primary_image_credit: Shicoff in La Juive (Michael Pöhn), Domingo in Simon Boccanegra
+  (Robert Millard), Fleming in Otello (Ken Howard)
+publishDate: "2015-05-29T14:06:00-04:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/los-angeles-opera.md
+related_people:
+- scene/people/plcido-domingo.md
+- scene/people/renee-fleming.md
+- scene/people/neil-shicoff.md
+short_description: 'Within the last few weeks, a few of today&#039;s most admired
+  opera singers have announced how they keep making waves in the industry, this time
+  from off-stage. '
+slug: singers-branching-out
+title: Singers branching out
+_template: article_single
+---
 
 Within the last few weeks, a few of today's most admired opera singers have announced how they keep making waves in the industry, this time from off-stage. 
 

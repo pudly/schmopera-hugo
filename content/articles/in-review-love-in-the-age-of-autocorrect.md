@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-08-22T09:30:00-04:00"
-lastmod = "2015-04-16T17:37:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429220164469/AutoCorrectProgram-720x960.jpg.jpg"
-publishDate = "2014-08-22T09:30:00-04:00"
-related_articles = ["articles/in-review-dissociative-me.md"]
-related_companies = ["scene/companies/loose-tea-music-theatre.md"]
-related_people = ["scene/people/gregory-finney.md","scene/people/alaina-viau.md"]
-short_description = "Last night I went to the opening of Loose TEA Music Theatre‘s new production, Love in the Age of AutoCorrect. It was a double bill of updated takes on Stravinsky’s Mavra and Mozart’s Bastien und Bastienne, this time entitled Andrew and Andrea. It was out on the pretty terrace of Atelier Rosemarie Umetsu, with a friendly-looking bar to create a beautiful night of outdoor theatre. "
-slug = "in-review-love-in-the-age-of-autocorrect"
-title = "In Review: Love in the Age of AutoCorrect"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-08-22T09:30:00-04:00"
+lastmod: "2015-04-16T17:37:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429220164469/AutoCorrectProgram-720x960.jpg.jpg
+publishDate: "2014-08-22T09:30:00-04:00"
+related_articles:
+- articles/in-review-dissociative-me.md
+related_companies:
+- scene/companies/loose-tea-music-theatre.md
+related_people:
+- scene/people/gregory-finney.md
+- scene/people/alaina-viau.md
+short_description: 'Last night I went to the opening of Loose TEA Music Theatre‘s
+  new production, Love in the Age of AutoCorrect. It was a double bill of updated
+  takes on Stravinsky’s Mavra and Mozart’s Bastien und Bastienne, this time entitled
+  Andrew and Andrea. It was out on the pretty terrace of Atelier Rosemarie Umetsu,
+  with a friendly-looking bar to create a beautiful night of outdoor theatre. '
+slug: in-review-love-in-the-age-of-autocorrect
+title: 'In Review: Love in the Age of AutoCorrect'
+_template: article_single
+---
 
 Last night I went to the opening of [Loose TEA Music Theatre](http://looseteamusictheatre.com/)'s new production, [_Love in the Age of AutoCorrect_](http://looseteamusictheatre.com/current-productionautocorrect-operas/). It was a double bill of updated takes on Stravinsky's [_Mavra_](http://en.wikipedia.org/wiki/Mavra) and Mozart's [_Bastien und Bastienne_](http://en.wikipedia.org/wiki/Bastien_und_Bastienne), this time entitled _Andrew and Andrea_. It was out on the pretty terrace of [Atelier Rosemarie Umetsu](http://atelierrosemarieumetsu.com/home), with a friendly-looking bar to create a beautiful night of outdoor theatre. Rosemarie Umetsu also provided some costume items for the production, in addition to costumes by [Maureen Russell](http://looseteamusictheatre.com/past-productions/production-team/). The double bill is the work of Loose TEA's artistic director, Alaina Viau, and GM, Markus Kopp. She adapted these two short operas into a present-day context, allowing smartphones and Facebook feeds to play central roles in what became a night of social commentary. Alaina conducted the pieces as well, tucked away beside Assistant Music Director and pianist [Jennifer Tung](https://learning.rcmusic.ca/glenn-gould-school/programs-and-faculty/studio-faculty-biographies/jennifer-tung).
 

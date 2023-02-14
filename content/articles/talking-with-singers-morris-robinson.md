@@ -1,15 +1,25 @@
-+++
-author = ["authors/eva-cahen.md"]
-date = "2018-09-25T16:53:00-04:00"
-lastmod = "2018-09-25T18:55:00-04:00"
-preamble = "Morris Robinson, the American bass, is appearing as the Grand Inquisitor in [*Don Carlo*](https://www.laopera.org/season/1819-season-la-opera-season/don-carlo/) by Giuseppe Verdi September 22, 29, October 4, 7, 11, and 14 and as Parsi Rustomji in [*Satyagraha*](https://www.laopera.org/season/1819-season-la-opera-season/satyagraha/) by Philip Glass October 20, 27, November 1, 4, 8, and 11 at the LA Opera."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537916014869/sqMorrisRobinsonrig_2568pr-KenHowardLAOpera.jpg.jpg"
-primary_image_credit = "Morris Robinson as Sparafucile in LA Opera's 2018 production of Rigoletto. Photo: Ken Howard/LA Opera."
-publishDate = "2018-09-25T18:55:00-04:00"
-short_description = "&quot;At the age of 29, I auditioned for the Choral Arts Society in Washington where I sang some of the pieces I did in high school. Norman Scribner, the director for many years of the Choral Arts Society sat with his mouth open and told me there weren&#039;t many people who could make a sound like that.&quot;"
-slug = "talking-with-singers-morris-robinson"
-title = "Talking with singers: Morris Robinson"
-+++
+---
+author:
+- authors/eva-cahen.md
+date: "2018-09-25T16:53:00-04:00"
+lastmod: "2018-09-25T18:55:00-04:00"
+preamble: Morris Robinson, the American bass, is appearing as the Grand Inquisitor
+  in [*Don Carlo*](https://www.laopera.org/season/1819-season-la-opera-season/don-carlo/)
+  by Giuseppe Verdi September 22, 29, October 4, 7, 11, and 14 and as Parsi Rustomji
+  in [*Satyagraha*](https://www.laopera.org/season/1819-season-la-opera-season/satyagraha/)
+  by Philip Glass October 20, 27, November 1, 4, 8, and 11 at the LA Opera.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537916014869/sqMorrisRobinsonrig_2568pr-KenHowardLAOpera.jpg.jpg
+primary_image_credit: 'Morris Robinson as Sparafucile in LA Opera''s 2018 production
+  of Rigoletto. Photo: Ken Howard/LA Opera.'
+publishDate: "2018-09-25T18:55:00-04:00"
+short_description: '&quot;At the age of 29, I auditioned for the Choral Arts Society
+  in Washington where I sang some of the pieces I did in high school. Norman Scribner,
+  the director for many years of the Choral Arts Society sat with his mouth open and
+  told me there weren&#039;t many people who could make a sound like that.&quot;'
+slug: talking-with-singers-morris-robinson
+title: 'Talking with singers: Morris Robinson'
+_template: article_single
+---
 
 ### On singing
 
@@ -27,7 +37,10 @@ It takes a lot of discipline and drive. I'm not foreign to the idea of being dou
 
 Singing Philip Glass and in Sanskrit is like taking something that's really hard already - the musical score - and complicating it exponentially with a language that is incredibly hard to sing in. People sometimes don't think singers are intelligent, that we just sing, but it takes a degree of aptitude and discipline to pull this off. I'm doing it but it's very hard. It's the hardest thing I've ever done.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537916059532/MR1-LawrenceBrownlee.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537916059532/MR1-LawrenceBrownlee.jpg.jpg)
+
 <figcaption>Morris Robinson, bass. Photo by Lawrence Brownlee.</figcaption>
 </figure>
 
@@ -53,7 +66,10 @@ I [continue to] watch football non-stop. I hate it that opera happens during foo
 
 I'm singing with one right now. It's Ferruccio Furlanetto. [I just posted about him on Facebook](https://www.facebook.com/morris.robinson.927/posts/10156000908977989). He is one of my idols and I have looked up to him for years. In fact, when I was learning *Don Carlo*, I listened to a recording with Ferruccio Furlanetto and James Levine. Sam Ramey was the Inquisitor. Sam Ramey is another one of my idols. I've been blessed to perform with both of them now.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537909606360/MorrisRobinsondc_37a0913_pr-CoryWeaverLAOpera.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537909606360/MorrisRobinsondc_37a0913_pr-CoryWeaverLAOpera.jpg.jpg)
+
 <figcaption>Morris Robinson as the Grand Inquisitor and Ferruccio Furlanetto as King Philip II in LA Opera's 2018 production of *Don Carlo*. Photo: Cory Weaver/LA Opera.</figcaption>
 </figure>
 

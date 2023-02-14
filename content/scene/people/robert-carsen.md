@@ -1,12 +1,13 @@
-+++
-date = "2015-04-18T18:59:00-04:00"
-discipline = "Director"
-lastmod = "2015-04-18T18:59:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429397949450/12499471513_94bce8cb03.jpg.jpg"
-publishDate = "2015-04-18T18:59:00-04:00"
-slug = "robert-carsen"
-title = "Robert Carsen"
-+++
+---
+date: "2015-04-18T18:59:00-04:00"
+discipline: Director
+lastmod: "2015-04-18T18:59:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429397949450/12499471513_94bce8cb03.jpg.jpg
+publishDate: "2015-04-18T18:59:00-04:00"
+slug: robert-carsen
+title: Robert Carsen
+_template: "people_single"
+---
 
 Canadian director Robert Carsen made his Royal Opera debut in 2007 with *Iphigénie en Tauride* and returned in 2012 to direct *Falstaff*, for both of which he co-created the lighting design. In the 2013/14 Season the Company performed his award-winning production of *Dialogues des Carmélites*, originally created in 1997 for Nederlandse Opera.
 

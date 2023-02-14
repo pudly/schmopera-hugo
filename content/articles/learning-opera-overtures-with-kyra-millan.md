@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-01-06T15:37:00-05:00"
-lastmod = "2016-01-08T14:14:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452113312984/2016-01-06---RCM.jpg.jpg"
-publishDate = "2016-01-08T11:15:00-05:00"
-related_companies = ["scene/companies/royal-conservatory-of-music.md"]
-related_people = ["scene/people/kyra-millan.md"]
-short_description = "Soprano and opera comedienne Kyra Millan returns to the Royal Conservatory of Music for their Opera Overtures course, each Monday night from 7-8:30pm, March 21 to April 18. Over five weeks, partipants will &quot;learn about the history, the music, and the sublime and sublimely ridiculous elements that make opera so fabulous.&quot;"
-slug = "learning-opera-overtures-with-kyra-millan"
-title = "Learning: Opera Overtures with Kyra Millan"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-01-06T15:37:00-05:00"
+lastmod: "2016-01-08T14:14:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452113312984/2016-01-06---RCM.jpg.jpg
+publishDate: "2016-01-08T11:15:00-05:00"
+related_companies:
+- scene/companies/royal-conservatory-of-music.md
+related_people:
+- scene/people/kyra-millan.md
+short_description: Soprano and opera comedienne Kyra Millan returns to the Royal Conservatory
+  of Music for their Opera Overtures course, each Monday night from 7-8:30pm, March
+  21 to April 18. Over five weeks, partipants will &quot;learn about the history,
+  the music, and the sublime and sublimely ridiculous elements that make opera so
+  fabulous.&quot;
+slug: learning-opera-overtures-with-kyra-millan
+title: 'Learning: Opera Overtures with Kyra Millan'
+_template: article_single
+---
 
 Soprano and opera comedienne [Kyra Millan](/kyra-millan-arts-education-counts/) returns to the Royal Conservatory of Music for their [*Opera Overtures*](https://ca.apm.activecommunities.com/theroyalconservatory/Activity_Search/2079) course, each Monday night from 7-8:30pm, **March 21 to April 18**. Over five weeks, partipants will "learn about the history, the music, and the sublime and sublimely ridiculous elements that make opera so fabulous."
 

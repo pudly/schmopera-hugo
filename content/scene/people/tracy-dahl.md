@@ -1,13 +1,23 @@
-+++
-date = "2015-04-23T00:15:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-23T00:15:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429762433645/Press_Photo.jpg.jpg"
-publishDate = "2015-04-23T00:15:00-04:00"
-related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/houston-grand-opera.md","scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/manitoba-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/edmonton-opera.md","scene/companies/calgary-opera.md","scene/companies/vancouver-opera.md"]
-slug = "tracy-dahl"
-title = "Tracy Dahl"
-+++
+---
+date: "2015-04-23T00:15:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-23T00:15:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429762433645/Press_Photo.jpg.jpg
+publishDate: "2015-04-23T00:15:00-04:00"
+related_companies:
+- scene/companies/san-francisco-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/manitoba-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/edmonton-opera.md
+- scene/companies/calgary-opera.md
+- scene/companies/vancouver-opera.md
+slug: tracy-dahl
+title: Tracy Dahl
+_template: "people_single"
+---
 
 Canada’s premiere coloratura soprano Tracy Dahl has appeared throughout her career with such opera houses as the Metropolitan Opera, San Francisco Opera, Houston Grand Opera, Santa Fe Opera, Canadian Opera Company, Teatro alla Scala (Milan) and the Théâtre du Châtelet (Paris). Her upcoming performances during the 2014-2015 season include returns to Pacific Opera Victoria in the title role of Lucia di Lammermoor and Calgary Opera in the title role of Candide; concert performances of Candide with Bramwell Tovey and the Vancouver Symphony Orchestra; concert appearances with the Winnipeg Philharmonic Choir and Winnipeg Singers; and a recital at the Westben Arts Festival.
 

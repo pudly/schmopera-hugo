@@ -1,17 +1,25 @@
-+++
-author = ["authors/greg.md"]
-categories = "Op-ed"
-date = "2015-01-13T14:04:00-05:00"
-lastmod = "2015-04-11T23:29:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428809173592/GregBeard.jpg.jpg"
-primary_image_credit = "Geoff LaPaire"
-publishDate = "2015-01-13T14:04:00-05:00"
-related_articles = ["articles/safe-words-masquerades-nashville-opera-presents-three-way.md"]
-related_people = ["scene/people/gregory-finney.md"]
-short_description = "This post isn’t so much about singing or opera or theatre in the usual sense. I just wanted to talk about one of the parts of our industry that sort of gets taken for granted by the audience. I make that statement because I’m guilty of it. I also opened with that little bit of a diatribe so that I can hope make a point stronger."
-slug = "beardism-the-lumbersexual-and-the-young-performer"
-title = "Beardism, the Lumbersexual, and the Young Performer"
-+++
+---
+author:
+- authors/greg.md
+categories: Op-ed
+date: "2015-01-13T14:04:00-05:00"
+lastmod: "2015-04-11T23:29:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428809173592/GregBeard.jpg.jpg
+primary_image_credit: Geoff LaPaire
+publishDate: "2015-01-13T14:04:00-05:00"
+related_articles:
+- articles/safe-words-masquerades-nashville-opera-presents-three-way.md
+related_people:
+- scene/people/gregory-finney.md
+short_description: This post isn’t so much about singing or opera or theatre in the
+  usual sense. I just wanted to talk about one of the parts of our industry that sort
+  of gets taken for granted by the audience. I make that statement because I’m guilty
+  of it. I also opened with that little bit of a diatribe so that I can hope make
+  a point stronger.
+slug: beardism-the-lumbersexual-and-the-young-performer
+title: Beardism, the Lumbersexual, and the Young Performer
+_template: article_single
+---
 
 <p class="p1 intro">
 	You've seen the term a lot lately - <a href="http://www.urbandictionary.com/define.php?term=Lumbersexual" target="_blank">The Lumbersexual</a>. A "new" class of young, urban man who's upped his masculinity factor by wearing plaid and not shaving. I put <i>new</i> in quotation marks because I know of a good many young man here in Toronto from all areas of the sexuality spectrum rocking this look for quite some time now and I say "not shaving" instead of "sporting a beard" because the two are very, <i>very</i>, different. Sporting a beard requires a heckuva lot of grooming - probably more meticulous grooming than our clean-shaven counterparts. The trimming of the moustache so it stays out of your coffee cup/soup spoon/beer stein, the cleaning of neck hair so it doesn't get caught and pulled out in the weaves of your oxford shirt collar, the shampooing and conditioning (yes, one should do this to their beard - it's hair, after all) and then of course any of the other accoutrements - beard oil, sideburn matching, combing and brushing. These are all parts of responsible beard ownership.<br>

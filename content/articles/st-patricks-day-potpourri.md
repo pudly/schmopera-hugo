@@ -1,15 +1,19 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-04-10T22:23:00-04:00"
-lastmod = "2015-04-12T19:10:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428718691249/FourLeafClover.jpg.jpg"
-publishDate = "2015-03-17T10:23:00-04:00"
-related_people = ["scene/people/aprile-millo.md"]
-short_description = "​Happy St. Patrick&#039;s Day, everyone! To give an operatic nod to the patron saint of Ireland, here are some appropriately-themed clips via YouTube."
-slug = "st-patricks-day-potpourri"
-title = "St. Patrick&#039;s Day Potpourri"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-04-10T22:23:00-04:00"
+lastmod: "2015-04-12T19:10:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428718691249/FourLeafClover.jpg.jpg
+publishDate: "2015-03-17T10:23:00-04:00"
+related_people:
+- scene/people/aprile-millo.md
+short_description: ​Happy St. Patrick&#039;s Day, everyone! To give an operatic nod
+  to the patron saint of Ireland, here are some appropriately-themed clips via YouTube.
+slug: st-patricks-day-potpourri
+title: St. Patrick&#039;s Day Potpourri
+_template: article_single
+---
 
 Happy St. Patrick's Day, everyone! To give an operatic nod to the patron saint of Ireland, here are some appropriately-themed clips via YouTube. First up is Irish tenor [John McCormack](http://en.wikipedia.org/wiki/John_McCormack_(tenor)) (1884-1945), who had a pretty enviable career; he sang at Covent Garden, Royal Albert Hall, made tons of recordings. He [apparently](http://en.wikipedia.org/wiki/John_McCormack_(tenor)) had such great breath control that he could sing 64 notes in a row of Mozart's "Il mio tesoro" without taking a breath (that's a weird way of putting it, but that's [Wiki](http://en.wikipedia.org/wiki/John_McCormack_(tenor)) for you). So, here's John McCormack singing "Il mio tesoro".
 

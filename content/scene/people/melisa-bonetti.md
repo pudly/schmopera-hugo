@@ -1,14 +1,18 @@
-+++
-date = "2017-01-28T10:05:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-01-28T10:08:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485598034293/168024_10150141974745605_584820604_8495384_4095880_n.jpg.jpg"
-publishDate = "2017-01-28T10:08:00+00:00"
-related_companies = ["scene/companies/nashville-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/brooklyn-academy-of-music.md"]
-slug = "melisa-bonetti"
-title = "Melisa Bonetti"
-website = "http://melisabonettimezzo.com/"
-+++
+---
+date: "2017-01-28T10:05:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2017-01-28T10:08:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485598034293/168024_10150141974745605_584820604_8495384_4095880_n.jpg.jpg
+publishDate: "2017-01-28T10:08:00+00:00"
+related_companies:
+- scene/companies/nashville-opera.md
+- scene/companies/wolf-trap-opera.md
+- scene/companies/brooklyn-academy-of-music.md
+slug: melisa-bonetti
+title: Melisa Bonetti
+website: http://melisabonettimezzo.com/
+_template: "people_single"
+---
 
 Mezzo-Soprano, Melisa Bonetti, has been hailed by Opera today as “a warm, supple mezzo that struck all the right impressions” and as “commanding a wonderful presence in the lower middle voice but also easily soaring heavenward with a well-schooled top.” Ms. Bonetti's 2017 season proves to be exciting and diverse as it ranges from the premiere of a new opera to Mozart engagements. Melisa will perform as Tyler in the premiere of *Three Way* in a collaboration with Nashville Opera and American Opera Projects, first in Nashville and then at the Brooklyn Academy of Music this Summer. Melisa is excited to cover Carmen with Nashville Opera while still performing the role of Mercedes, which she will follow with a different production of *Carmen* with Opera Columbus, also in the role of Mercedes. 
 

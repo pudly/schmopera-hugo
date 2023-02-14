@@ -1,30 +1,48 @@
-+++
-date = "2015-10-26T17:54:00-04:00"
-lastmod = "2015-10-26T18:31:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445896321179/6dCte2_G.jpeg.jpeg"
-publishDate = "2015-10-26T17:54:00-04:00"
-related_people = ["scene/people/michael-colvin.md","scene/people/steven-cole.md","scene/people/matthew-trevino.md","scene/people/ryan-macpherson.md","scene/people/lauren-snouffer.md","scene/people/philip-cokorinos.md","scene/people/theo-hoffman.md","scene/people/peixin-chen.md","scene/people/jarrett-ott.md","scene/people/andrew-wilkowske.md","scene/people/james-robinson.md","scene/people/john-pickle.md","scene/people/weston-hurt.md","scene/people/zanda-svede.md","scene/people/susannah-biller.md","scene/people/blythe-gaissert.md","scene/people/emily-pulley.md","scene/people/kirk-eichelberger.md","scene/people/taylor-stayton.md","scene/people/megan-marino.md"]
-slug = "lyric-opera-of-kansas-city"
-title = "Lyric Opera of Kansas City"
-type_of_company = "Opera Company"
-website = "https://www.kcopera.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/kcopera"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/kcopera"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://instagram.com/kcopera/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/LyricOperaKC"
-+++
+---
+date: "2015-10-26T17:54:00-04:00"
+lastmod: "2015-10-26T18:31:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445896321179/6dCte2_G.jpeg.jpeg
+publishDate: "2015-10-26T17:54:00-04:00"
+related_people:
+- scene/people/michael-colvin.md
+- scene/people/steven-cole.md
+- scene/people/matthew-trevino.md
+- scene/people/ryan-macpherson.md
+- scene/people/lauren-snouffer.md
+- scene/people/philip-cokorinos.md
+- scene/people/theo-hoffman.md
+- scene/people/peixin-chen.md
+- scene/people/jarrett-ott.md
+- scene/people/andrew-wilkowske.md
+- scene/people/james-robinson.md
+- scene/people/john-pickle.md
+- scene/people/weston-hurt.md
+- scene/people/zanda-svede.md
+- scene/people/susannah-biller.md
+- scene/people/blythe-gaissert.md
+- scene/people/emily-pulley.md
+- scene/people/kirk-eichelberger.md
+- scene/people/taylor-stayton.md
+- scene/people/megan-marino.md
+slug: lyric-opera-of-kansas-city
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/kcopera
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/kcopera
+- platform: Instagram
+  _template: social_media
+  url: https://instagram.com/kcopera/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/user/LyricOperaKC
+title: Lyric Opera of Kansas City
+type_of_company: Opera Company
+website: https://www.kcopera.org/
+_template: "company_single"
+---
 
 ## OUR MISSION
 

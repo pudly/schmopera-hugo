@@ -1,15 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2014-03-03T12:26:00-05:00"
-lastmod = "2015-04-27T21:14:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430183618131/Rach.jpg.jpg"
-publishDate = "2014-03-03T12:26:00-05:00"
-related_articles = ["articles/public-practicing-pet-peeves.md","articles/emotional-extremes-bringing-your-work-home.md","articles/what-else-are-singers-great-at.md","articles/dont-miss-in-the-alps-with-the-aurora-orchestra.md"]
-short_description = "You know, after sitting at the piano through many, _many_ voice lessons, I&#039;ve never felt an urge to attempt to do what singers do. It&#039;s too difficult; and too many people have an opinion on how to do the difficult thing, and I honestly don&#039;t know how professional singers do it."
-slug = "three-big-things-we-can-all-learn-from-singers"
-title = "Three Big Things We Can All Learn From Singers"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2014-03-03T12:26:00-05:00"
+lastmod: "2015-04-27T21:14:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430183618131/Rach.jpg.jpg
+publishDate: "2014-03-03T12:26:00-05:00"
+related_articles:
+- articles/public-practicing-pet-peeves.md
+- articles/emotional-extremes-bringing-your-work-home.md
+- articles/what-else-are-singers-great-at.md
+- articles/dont-miss-in-the-alps-with-the-aurora-orchestra.md
+short_description: You know, after sitting at the piano through many, _many_ voice
+  lessons, I&#039;ve never felt an urge to attempt to do what singers do. It&#039;s
+  too difficult; and too many people have an opinion on how to do the difficult thing,
+  and I honestly don&#039;t know how professional singers do it.
+slug: three-big-things-we-can-all-learn-from-singers
+title: Three Big Things We Can All Learn From Singers
+_template: article_single
+---
 
 ## 1. How to take criticism like a pro.
 

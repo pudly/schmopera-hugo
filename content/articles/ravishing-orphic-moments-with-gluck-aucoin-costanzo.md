@@ -1,23 +1,37 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-05-14T21:24:00-04:00"
-lastmod = "2018-05-15T09:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526347404391/sqAT9A0573Orphic.jpg.jpg"
-primary_image_credit = "Bobbi Jene Smith and Anthony Roth Costanzo in Orphic Moments, National Sawdust, 2018. Photo: Eric Baiano."
-publishDate = "2018-05-14T21:24:00-04:00"
-related_articles = ["articles/futuristic-baroque-burlesque-orphe.md","articles/orpheus-eurydice-in-the-hands-of-a-theatrical-genius.md","articles/simulacrum-futuristic-angst-and-dance.md"]
-related_people = ["scene/people/anthony-roth-costanzo.md"]
-short_description = "The work has finally reached a larger New York audience with two performances in an elegantly expanded version at Lincoln Center&#039;s Rose Theater. It features the 130-member MasterVoices and the Orchestra of St. Luke&#039;s. Smartly directed by Zack Winokur, the production has a sleek and courtly feel, enhance by Stacey Berman&#039;s stylish costumes."
-slug = "ravishing-orphic-moments-with-gluck-aucoin-costanzo"
-title = "Ravishing Orphic Moments with Gluck, Aucoin &amp; Costanzo"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-05-14T21:24:00-04:00"
+lastmod: "2018-05-15T09:39:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526347404391/sqAT9A0573Orphic.jpg.jpg
+primary_image_credit: 'Bobbi Jene Smith and Anthony Roth Costanzo in Orphic Moments,
+  National Sawdust, 2018. Photo: Eric Baiano.'
+publishDate: "2018-05-14T21:24:00-04:00"
+related_articles:
+- articles/futuristic-baroque-burlesque-orphe.md
+- articles/orpheus-eurydice-in-the-hands-of-a-theatrical-genius.md
+- articles/simulacrum-futuristic-angst-and-dance.md
+related_people:
+- scene/people/anthony-roth-costanzo.md
+short_description: The work has finally reached a larger New York audience with two
+  performances in an elegantly expanded version at Lincoln Center&#039;s Rose Theater.
+  It features the 130-member MasterVoices and the Orchestra of St. Luke&#039;s. Smartly
+  directed by Zack Winokur, the production has a sleek and courtly feel, enhance by
+  Stacey Berman&#039;s stylish costumes.
+slug: ravishing-orphic-moments-with-gluck-aucoin-costanzo
+title: Ravishing Orphic Moments with Gluck, Aucoin &amp; Costanzo
+_template: article_single
+---
 
 Ravishing best describes the subtly titled *Orphic Moments*, the joining of Christoph Gluck's *Orfeo ed Euridice* and Matthew Aucoin's *The Orphic Moment*. First produced by the acclaimed countertenor, [Anthony Roth Costanzo](/scene/people/anthony-roth-costanzo/), who sings Orfeo, at Brooklyn's National Sawdust, it moved on to the Salzburg State Theater.
 
 The work has finally reached a larger New York audience with two performances in an elegantly expanded version at Lincoln Center's Rose Theater. It features the 130-member MasterVoices and the Orchestra of St. Luke's. Smartly directed by Zack Winokur, the production has a sleek and courtly feel, enhance by Stacey Berman's stylish costumes.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526347214601/AT9A0099Orphic.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526347214601/AT9A0099Orphic.jpg.jpg)
+
 <figcaption>Kiera Duffy and Anthony Roth Costanzo in *Orphic Moments*, Rose Theater, Lincoln Center, 2018. Photo: Eric Baiano.</figcaption>
 </figure>
 
@@ -25,7 +39,10 @@ Gluck's reformist opera and Aucoin's contemporary dramatic cantata seem as desti
 
 Aucoin composed it for Costanzo, who performs with lithe strength and beauty. Orefo is a role Costanzo knows well, having sung it throughout his career. His interpretation has achieved a level of authority that is deepened by the changes that Aucoin brings to the character. Costanzo's stage movement and florid gestures, executed with the grace of a dancer, are effective embellishments that suit both Orfeos perfectly.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526347227155/AT9A0415Orphic.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526347227155/AT9A0415Orphic.jpg.jpg)
+
 <figcaption>Kiera Duffy, Bobbi Jene Smith, and Anthony Roth Costanzo in *Orphic Moments*, Rose Theater, Lincoln Center, 2018. Photo: Eric Baiano.</figcaption>
 </figure>
 
@@ -33,7 +50,10 @@ Gluck saved opera from imploding. Aucoin and Costanzo have contemporized Gluck's
 
 The story that attracted Gluck, and other composers including Monteverdi and Berlioz, is significantly altered in *Orphic Moments*. It begins when Orfeo, who is the world's most famous singer, and Euridice are married. At the wedding party, a snake bites Euridice and she dies. Taken into the underworld, a grieving Orfeo follows after her where he uses his voice to convince the gods to give her another opportunity to live. His request is granted on the condition that he not look at her until they reach the light. At the last moment he turns to gaze upon Euridice. Unlike the myth, *Orphic Moments* does not offer yet another chance to save Euridice. She is taken back to the underworld forever.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526347241556/AT9A0704Orphic.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526347241556/AT9A0704Orphic.jpg.jpg)
+
 <figcaption>Kiera Duffy and Anthony Roth Costanzo in *Orphic Moments*, Rose Theater, Lincoln Center, 2018. Photo: Eric Baiano.</figcaption>
 </figure>
 
@@ -43,7 +63,10 @@ Costanzo navigates with ease between the stately arias and recitatives of Gluck 
 
 In Aucoin's cantata, a solo violin, played by Keir GoGwilt, speaks for Euridice. Bobbi Jene Smith, a modern dancer, assumes her body. They express what words, sung or spoken, cannot adequately convey. GoGwilt battles with a drum as Smith dances to harsh and tormented choreography. The cantata is sparse with hard lines as if Aucoin is giving Orfeo musical comeuppance for his act of artistic ego.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526347256010/AT9A9713Orphic.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526347256010/AT9A9713Orphic.jpg.jpg)
+
 <figcaption>Anthony Roth Costanzo and Lauren Snouffer in *Orphic Moments*, Rose Theater, Lincoln Center, 2018. Photo: Eric Baiano.</figcaption>
 </figure>
 
@@ -53,7 +76,10 @@ In act one, soprano, [Lauren Snouffer](/scene/people/lauren-snouffer/) appears a
 
 MasterVoices provides what its name implies, and does so with resonance and clarity on stage where their smoothly blocked scenes add an element of grandeur. When placed in the three tiers above the stage at the Rose Theater, they sound and look impressive as vocal and visual architecture. During that time MasterVoices is an audience that is visible to us. This suggests that we are watching an opera within an opera, an indication that something unusual might happen, which, of course, it does.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526347280128/AT9A9904Orphic.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526347280128/AT9A9904Orphic.jpg.jpg)
+
 <figcaption>Members of MasterVoices and Anthony Roth Costanzo in *Orphic Moments*, Rose Theater, Lincoln Center, 2018. Photo: Eric Baiano.</figcaption>
 </figure>
 

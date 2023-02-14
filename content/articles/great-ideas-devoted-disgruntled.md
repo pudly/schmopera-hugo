@@ -1,18 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-05-05T09:43:00+01:00"
-lastmod = "2016-05-05T13:37:00+01:00"
-preamble = "It's hard to find a more opinionated bunch than a group of theatre and opera lovers. Those who are passionate about these art forms react not only to what and whom they see onstage, but to how productions are cast, funded, and marketed to audiences. \n\nUK-based theatre company [Improbable](http://www.improbable.co.uk/openspace/) has been holding Open Space conversations since 2005, under the banner of [Devoted & Disgruntled](http://www.devotedanddisgruntled.com/); it's a place where opinion and action have a tangible chance to meet. \"Devoted and Disgruntled was born out of frustration,\" writes Improbable Artistic Director Phelim McDermott. \"I was frustrated both with theatre and with myself. I knew things could be better in theatre and I also knew the way I responded to that situation could be more creative. I wanted to stop moaning and actually do something about it.\"\n\nWe spoke with [Sarah Grange](http://www.devotedanddisgruntled.com/profiles/sarahgrange/), Open Space producer and multidisciplinary artist, about the nature of these forums."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546053309/media/2018/12/sqDandD.jpg"
-publishDate = "2016-05-05T12:04:00+01:00"
-related_articles = ["articles/the-future-of-opera-is-indie.md", "articles/tete-a-tete.md"]
-related_companies = ["scene/companies/devoted-disgruntled.md", "scene/companies/improbable.md", "scene/companies/royal-opera-house.md"]
-short_description = "As opera fans, we can&#039;t help but dream about attending similar forums hosted specifically by opera companies, large and small. There&#039;s an inevitable default to trial-and-error with programming seasons, casting singers, and developing relationships with audiences; with an equalizing environment similar to Devoted and Disgruntled, perhaps what audiences want out of opera can become less nebulous."
-slug = "great-ideas-devoted-disgruntled"
-title = "Great ideas: Devoted &amp; Disgruntled"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-05-05T09:43:00+01:00"
+lastmod: "2016-05-05T13:37:00+01:00"
+preamble: "It's hard to find a more opinionated bunch than a group of theatre and
+  opera lovers. Those who are passionate about these art forms react not only to what
+  and whom they see onstage, but to how productions are cast, funded, and marketed
+  to audiences. \n\nUK-based theatre company [Improbable](http://www.improbable.co.uk/openspace/)
+  has been holding Open Space conversations since 2005, under the banner of [Devoted
+  & Disgruntled](http://www.devotedanddisgruntled.com/); it's a place where opinion
+  and action have a tangible chance to meet. \"Devoted and Disgruntled was born out
+  of frustration,\" writes Improbable Artistic Director Phelim McDermott. \"I was
+  frustrated both with theatre and with myself. I knew things could be better in theatre
+  and I also knew the way I responded to that situation could be more creative. I
+  wanted to stop moaning and actually do something about it.\"\n\nWe spoke with [Sarah
+  Grange](http://www.devotedanddisgruntled.com/profiles/sarahgrange/), Open Space
+  producer and multidisciplinary artist, about the nature of these forums."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546053309/media/2018/12/sqDandD.jpg
+publishDate: "2016-05-05T12:04:00+01:00"
+related_articles:
+- articles/the-future-of-opera-is-indie.md
+- articles/tete-a-tete.md
+related_companies:
+- scene/companies/devoted-disgruntled.md
+- scene/companies/improbable.md
+- scene/companies/royal-opera-house.md
+short_description: As opera fans, we can&#039;t help but dream about attending similar
+  forums hosted specifically by opera companies, large and small. There&#039;s an
+  inevitable default to trial-and-error with programming seasons, casting singers,
+  and developing relationships with audiences; with an equalizing environment similar
+  to Devoted and Disgruntled, perhaps what audiences want out of opera can become
+  less nebulous.
+slug: great-ideas-devoted-disgruntled
+title: 'Great ideas: Devoted &amp; Disgruntled'
+_template: article_single
+---
 ## "A holder of an infinite number of opinions"
 
 "Open Space is a process," says Grange. "It's basically a really simple framework that allows people some time and some space to do things that they care about." The conversations address the often unbridgeable gap that lies between people looking for innovation in theatre, and their ability to do something about it. "People feel as though they're not being listened to," explains Grange, and Devoted & Disgruntled's events are about "putting the power to make change into the hands of those who want it."

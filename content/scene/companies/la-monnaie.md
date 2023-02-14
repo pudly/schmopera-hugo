@@ -1,22 +1,58 @@
-+++
-date = "2015-09-22T22:52:00-04:00"
-lastmod = "2015-09-22T22:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442976530089/Monnaie.jpg.jpg"
-publishDate = "2015-09-22T22:52:00-04:00"
-related_people = ["scene/people/wolfgang-ablingersperrhacke.md","scene/people/rachel-andrist.md","scene/people/marlis-petersen.md","scene/people/andrew-staples.md","scene/people/frdric-antoun.md","scene/people/lucio-gallo.md","scene/people/gwyn-hughes-jones.md","scene/people/johannes-weisser.md","scene/people/martin-winkler.md","scene/people/frederic-wakewalker.md","scene/people/scott-hendricks.md","scene/people/kristinn-sigmundsson.md","scene/people/sergey-romanovsky.md","scene/people/marienicole-lemieux.md","scene/people/michle-losier.md","scene/people/lawrence-zazzo.md","scene/people/bejun-mehta.md","scene/people/michael-spyres.md","scene/people/dmitry-korchak.md","scene/people/sabine-devieilhe.md","scene/people/mika-kares.md","scene/people/troy-cook.md","scene/people/brandon-jovanovich.md","scene/people/albane-carrere.md","scene/people/nino-machaidze.md","scene/people/alfredo-daza.md","scene/people/michael-volle.md","scene/people/bjorn-burger.md","scene/people/mark-s-doss.md","scene/people/juanita-lascarro.md","scene/people/holger-falk.md","scene/people/andrea-care.md","scene/people/kostas-smoriginas.md","scene/people/piotr-beczala.md","scene/people/rupert-enticknap.md","scene/people/eric-cutler.md"]
-slug = "la-monnaie"
-title = "La Monnaie"
-type_of_company = "Opera Company"
-website = "http://www.lamonnaie.be/en/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/LaMonnaieDeMunt/timeline/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/LaMonnaieDeMunt"
-+++
+---
+date: "2015-09-22T22:52:00-04:00"
+lastmod: "2015-09-22T22:52:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442976530089/Monnaie.jpg.jpg
+publishDate: "2015-09-22T22:52:00-04:00"
+related_people:
+- scene/people/wolfgang-ablingersperrhacke.md
+- scene/people/rachel-andrist.md
+- scene/people/marlis-petersen.md
+- scene/people/andrew-staples.md
+- scene/people/frdric-antoun.md
+- scene/people/lucio-gallo.md
+- scene/people/gwyn-hughes-jones.md
+- scene/people/johannes-weisser.md
+- scene/people/martin-winkler.md
+- scene/people/frederic-wakewalker.md
+- scene/people/scott-hendricks.md
+- scene/people/kristinn-sigmundsson.md
+- scene/people/sergey-romanovsky.md
+- scene/people/marienicole-lemieux.md
+- scene/people/michle-losier.md
+- scene/people/lawrence-zazzo.md
+- scene/people/bejun-mehta.md
+- scene/people/michael-spyres.md
+- scene/people/dmitry-korchak.md
+- scene/people/sabine-devieilhe.md
+- scene/people/mika-kares.md
+- scene/people/troy-cook.md
+- scene/people/brandon-jovanovich.md
+- scene/people/albane-carrere.md
+- scene/people/nino-machaidze.md
+- scene/people/alfredo-daza.md
+- scene/people/michael-volle.md
+- scene/people/bjorn-burger.md
+- scene/people/mark-s-doss.md
+- scene/people/juanita-lascarro.md
+- scene/people/holger-falk.md
+- scene/people/andrea-care.md
+- scene/people/kostas-smoriginas.md
+- scene/people/piotr-beczala.md
+- scene/people/rupert-enticknap.md
+- scene/people/eric-cutler.md
+slug: la-monnaie
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/LaMonnaieDeMunt/timeline/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/LaMonnaieDeMunt
+title: La Monnaie
+type_of_company: Opera Company
+website: http://www.lamonnaie.be/en/
+_template: "company_single"
+---
 
 ### In a nutshell
 

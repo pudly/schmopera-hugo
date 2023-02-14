@@ -1,22 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2019-01-26T01:25:53+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548527815/media/2019/01/SoloOpera.jpg"
-primary_image_credit = ""
-related_articles = ["articles/the-opera-party-monologue.md", "articles/the-preshow-monologue.md"]
-related_companies = []
-related_people = []
-short_description = "It's a silly thing, but even the most hardcore of introverts struggle with the idea that while they sit happily alone at a table or in a movie theatre, the people around them will notice and think they're a weird loner."
-slug = "the-introverts-dream-going-solo-at-the-opera"
-title = "The introvert's dream: going solo at the opera"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Humour
+date: '2019-01-26T01:25:53+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1548527815/media/2019/01/SoloOpera.jpg
+primary_image_credit: ''
+related_articles:
+  - articles/the-opera-party-monologue.md
+  - articles/the-preshow-monologue.md
+related_companies: []
+related_people: []
+short_description: >-
+  It's a silly thing, but even the most hardcore of introverts struggle with the
+  idea that while they sit happily alone at a table or in a movie theatre, the
+  people around them will notice and think they're a weird loner.
+slug: the-introverts-dream-going-solo-at-the-opera
+title: 'The introvert''s dream: going solo at the opera'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 If you're like me, and you enjoy spending time on your own, you'll understand this dilemma: do you take yourself out on a date for one - to the movies, or to a nice dinner, a place where you're unlikely to have the social safety blanket of a laptop or book, or do you bring a friend on your outing, so as not to appear so utterly, suspiciously, publicly _alone_?
 
 It's a silly thing, but even the most hardcore of introverts struggle with the idea that while they sit happily alone at a table or in a movie theatre, the people around them will notice and think they're a weird loner.

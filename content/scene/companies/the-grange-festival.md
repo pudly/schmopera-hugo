@@ -1,30 +1,30 @@
-+++
-date = "2018-06-09T21:00:00-04:00"
-lastmod = "2018-06-09T21:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528592346381/S5PfTFKS_400x400.jpg.jpg"
-publishDate = "2018-06-09T21:33:00-04:00"
-related_people = ["scene/people/ashley-riches.md","scene/people/jonathan-lemalu.md"]
-slug = "the-grange-festival"
-title = "The Grange Festival"
-type_of_company = "Festival"
-website = "https://thegrangefestival.co.uk/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/TheGrangeFestival/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/grangefestival"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/thegrangefestival/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UC4rcyykXcv1PkrePpnN90RQ"
-+++
+---
+date: "2018-06-09T21:00:00-04:00"
+lastmod: "2018-06-09T21:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528592346381/S5PfTFKS_400x400.jpg.jpg
+publishDate: "2018-06-09T21:33:00-04:00"
+related_people:
+- scene/people/ashley-riches.md
+- scene/people/jonathan-lemalu.md
+slug: the-grange-festival
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/TheGrangeFestival/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/grangefestival
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/thegrangefestival/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UC4rcyykXcv1PkrePpnN90RQ
+title: The Grange Festival
+type_of_company: Festival
+website: https://thegrangefestival.co.uk/
+_template: "company_single"
+---
 
 Not since Thomas Beecham created his own international opera company in 1916, paid for with the proceeds from sales of Beecham’s Powders, has a new UK opera festival of such scale and ambition been born. It has quickly emerged phoenix-like to present world-class performance in the heart of Hampshire.
 

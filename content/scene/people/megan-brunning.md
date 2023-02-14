@@ -1,14 +1,16 @@
-+++
-date = "2016-09-11T19:11:00+02:00"
-discipline = "Coloratura soprano"
-lastmod = "2016-09-11T19:11:00+02:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473613863369/12002626_10103062479468418_7316457474628473787_o.jpg.jpg"
-publishDate = "2016-09-11T19:11:00+02:00"
-related_companies = ["scene/companies/the-atlanta-opera.md"]
-slug = "megan-brunning"
-title = "Megan Brunning"
-website = "http://www.meganbrunning.com/"
-+++
+---
+date: "2016-09-11T19:11:00+02:00"
+discipline: Coloratura soprano
+lastmod: "2016-09-11T19:11:00+02:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473613863369/12002626_10103062479468418_7316457474628473787_o.jpg.jpg
+publishDate: "2016-09-11T19:11:00+02:00"
+related_companies:
+- scene/companies/the-atlanta-opera.md
+slug: megan-brunning
+title: Megan Brunning
+website: http://www.meganbrunning.com/
+_template: "people_single"
+---
 
 Coloratura soprano Megan Brunning is known for her signature role, the Queen of the Night in *Die Zauberflöte*. Other roles performed include Konstanze in *Die Entführung aus dem Serail*, Norina in *Don Pasquale*, Olympia in *Les Contes d'Hoffmann*, Mabel in *The Pirates of Penzance*, and Gianetta in *The Gondoliers*.
  

@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-10-14T15:13:00+01:00"
-lastmod = "2016-10-18T14:54:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476625217815/2016-10-16---David_Shipley_2_Credit_Maximilian_van_London.jpg.jpg"
-primary_image_credit = "Photo: Maximilian van London."
-publishDate = "2016-10-18T13:02:00+01:00"
-related_articles = ["articles/talking-with-singers-gyula-nagy.md","articles/spotlight-on-jennifer-davis.md","articles/in-review-the-jpya-summer-performance-.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/david-shipley.md"]
-short_description = "Shipley also sang in Tosca with Angela Gheorghiu (&quot;She was lovely.&quot;), and in Nabucco with Plácido Domingo; this season, he&#039;ll join Sondra Radvanovsky in Manon Lescaut, and Bryn Terfel in Die Meistersinger von Nürnberg. &quot;You&#039;re having a conversation with these huge figures of the opera world,&quot; says Shipley of the opportunity to work closely with top-tier singers in the industry. "
-slug = "talking-with-singers-david-shipley"
-title = "Talking with singers: David Shipley"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-10-14T15:13:00+01:00"
+lastmod: "2016-10-18T14:54:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476625217815/2016-10-16---David_Shipley_2_Credit_Maximilian_van_London.jpg.jpg
+primary_image_credit: 'Photo: Maximilian van London.'
+publishDate: "2016-10-18T13:02:00+01:00"
+related_articles:
+- articles/talking-with-singers-gyula-nagy.md
+- articles/spotlight-on-jennifer-davis.md
+- articles/in-review-the-jpya-summer-performance-.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/david-shipley.md
+short_description: 'Shipley also sang in Tosca with Angela Gheorghiu (&quot;She was
+  lovely.&quot;), and in Nabucco with Plácido Domingo; this season, he&#039;ll join
+  Sondra Radvanovsky in Manon Lescaut, and Bryn Terfel in Die Meistersinger von Nürnberg.
+  &quot;You&#039;re having a conversation with these huge figures of the opera world,&quot;
+  says Shipley of the opportunity to work closely with top-tier singers in the industry. '
+slug: talking-with-singers-david-shipley
+title: 'Talking with singers: David Shipley'
+_template: article_single
+---
 
 David Shipley, a young bass with the [Royal Opera House](/scene/companies/royal-opera-house/)'s Jette Parker Young Artists Programme, took some time to chat between rehearsals for [*The Nose*](http://www.roh.org.uk/productions/the-nose-by-barrie-kosky), set to open at Covent Garden on October 20. Shipley is in his second season with the ROH, and he seems already a pro at balancing the busy schedule of his mainstage responsibilities, and the demands of the Young Artists Programme itself.
 

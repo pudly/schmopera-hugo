@@ -1,16 +1,21 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Interview"
-date = "2018-11-04T13:36:00-05:00"
-lastmod = "2018-11-05T07:18:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541363892449/sqIMG_3418.jpg.jpg"
-primary_image_credit = "Photo: Loren Lester."
-publishDate = "2018-11-04T21:04:00-05:00"
-related_articles = ["articles/a-world-premiere-anna-christie.md"]
-short_description = "Then one day in the car, he heard a completely original Melody that suddenly came into his head and he began to cry. From there on - and to this day - melodies have come to Mr. Thomas &quot;incessantly.&quot; A composer was born."
-slug = "veggies-in-the-morning-and-melodies-throughout-the-day"
-title = "&quot;Veggies in the morning, and melodies throughout the day&quot;"
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Interview
+date: "2018-11-04T13:36:00-05:00"
+lastmod: "2018-11-05T07:18:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541363892449/sqIMG_3418.jpg.jpg
+primary_image_credit: 'Photo: Loren Lester.'
+publishDate: "2018-11-04T21:04:00-05:00"
+related_articles:
+- articles/a-world-premiere-anna-christie.md
+short_description: Then one day in the car, he heard a completely original Melody
+  that suddenly came into his head and he began to cry. From there on - and to this
+  day - melodies have come to Mr. Thomas &quot;incessantly.&quot; A composer was born.
+slug: veggies-in-the-morning-and-melodies-throughout-the-day
+title: '&quot;Veggies in the morning, and melodies throughout the day&quot;'
+_template: article_single
+---
 
 When composer Edward Thomas needed a librettist for his opera based on the Eugene O'Neill play *Desire Under the Elms*, he did the sensible thing: he looked in the newspaper and in the phone book. (This was 1987 when people still used such things.) In the newspaper he observed that Joe Masteroff was enjoying a revival of his great musical *Cabaret* (for which he wrote the book) so Mr. Thomas simply looked up Mr. Masteroff's number and called him. Thus was born a collaboration that produced a musical and two operas.
 
@@ -22,7 +27,10 @@ Assigned to the 3rd Infantry and the invasion of Italy during WWII, Mr. Thomas w
 
 Mr. Thomas had never even heard an opera until he was in his early twenties.  His future in-laws were Italian and played Puccini records. Mr. Thomas would listen when he'd visit, then recall the big orchestral sound and verismo melodies on the way home. Then one day in the car, he heard a completely original melody that suddenly came into his head and he began to cry.  From there on – and to this day - melodies have come to Mr. Thomas "incessantly." A composer was born.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541364646875/et_photo_03.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541364646875/et_photo_03.jpg.jpg)
+
 <figcaption>Edward Thomas, composer. Photo via edthomasmusic.com.</figcaption>
 </figure>
 
@@ -40,7 +48,10 @@ With a penchant for a good tune and as a longtime theatre lover, it was inevitab
 
 Mr. Thomas also wrote *Six Wives*, a musical based on Henry VIII (with a book by Joe Masteroff.) Writing a successful musical is perhaps one of the hardest of all theatrical endeavors. Even Rodgers & Hammerstein and Kander & Ebb had well-known struggles. But having shown the chutzpah to climb that craggy, creative mountain, Mr. Thomas then decided to scale Mt. Everest and write not one opera, but two. Mr. Thomas's head filled with melodies as he read Eugene O'Neill play, *Desire Under the Elms*, and an opera seemed like a natural progression of the work. The same thing happened when he read *Anna Christie*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541364586090/20181003-DSC05277.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541364586090/20181003-DSC05277.jpg.jpg)
+
 <figcaption>Mat Burke (Jonathan Estabrooks) and Anna Christie (Melanie Long) in Anna Christie, Encompass New Opera Theatre, 2018. Photo: Steven Pisano.</figcaption>
 </figure>
 
@@ -48,7 +59,10 @@ Both adaptations have been described by reviewers as "folk operas", reminiscent 
 
 At 94, Mr. Thomas has completed his latest opera – so what’s next? That's not a question asked of too many nonagenarians.  But Mr. Thomas is almost ready to get to work again.  Having devoted the last two years to orchestrating *Anna Christie*, he's taking a little break.  He says he's just waiting for the passion of artistic inspiration to hit him and give him a reason to use all those melodies that he continues to hear inside his head. He ponders that there might be a few short pieces over the next few years and perhaps even another opera. And having celebrated his birthday earlier this month with the opening of *Anna Christie*, he ponders what it might be like opening a new work when he's one hundred.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541364601765/IMG_3420.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541364601765/IMG_3420.jpg.jpg)
+
 <figcaption>Loren Lester (left) with Edward Thomas. Photo: Loren Lester.</figcaption>
 </figure>
 

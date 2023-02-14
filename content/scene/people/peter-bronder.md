@@ -1,15 +1,28 @@
-+++
-date = "2017-09-13T10:21:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-09-13T10:23:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505312270201/Peter_Bronder_Philipp_Ottendorfer.jpg.jpg"
-primary_image_credit = "Phillip Ottendorfer"
-publishDate = "2017-09-13T10:21:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/opera-north.md","scene/companies/welsh-national-opera.md","scene/companies/oper-frankfurt.md","scene/companies/opra-national-de-paris.md","scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/scottish-opera.md","scene/companies/opernhaus-zurich.md","scene/companies/bayerische-staatsoper.md","scene/companies/san-francisco-opera.md"]
-slug = "peter-bronder"
-title = "Peter Bronder"
-website = "http://www.peterbronder.com/"
-+++
+---
+date: "2017-09-13T10:21:00-04:00"
+discipline: Tenor
+lastmod: "2017-09-13T10:23:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505312270201/Peter_Bronder_Philipp_Ottendorfer.jpg.jpg
+primary_image_credit: Phillip Ottendorfer
+publishDate: "2017-09-13T10:21:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/opera-north.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/scottish-opera.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/san-francisco-opera.md
+slug: peter-bronder
+title: Peter Bronder
+website: http://www.peterbronder.com/
+_template: "people_single"
+---
 
 Born in Hertfordshire, England, of German-Austrian parentage, Peter Bronder studied at the Royal Academy of Music, London as well as at the National Opera Studio, before undertaking his first engagements as principal tenor at Glyndebourne and Welsh NationaL Opera. During this early phase of his career he sang many leading roles in the Italian lyric repertoire including those in *La Boheme*, *Tosca*, *La Traviata*, *Rigoletto*, *Lucia di Lammermoor*, *Maria Stuarda*, *Don Pasquale*, *I Puritani*, *La Sonnambula* and *Barbiere di Siviglia*; as well as *Die Zauberflöte*, *Così fan tutte*, *Eugene Onegin*, *Die Fledermaus* and *Der Rosenkavalier*. He has since moved into the more dramatic, predominantly German repertoire, whilst retaining the lyrical qualities necessary for the Mozartean roles of Idomeneo and Tito, which he has performed at Glyndebourne. Notable successes include Mime *Siegfried* at La Scala Milan, Staatsoper Berlin, Flanders Opera, Gran Teatre del Liceu Barcelona, Teatro Massimo di Palermo and in Bergen, Herod *Salome* at La Scala Milan, Flanders Opera, Teatro Real Madrid, Teatro Regio Torino, Oper Frankfurt, Teatro Municipal Sao Paolo and Opera Hong Kong, Loge *Das Rheingold* for Scottish Opera at the Edinburgh Festival, Oper Stuttgart and RuhrtriennaLe Festival, Erik *Der Fliegende Hollaender* in Rouen and Paris, and the title role in Zemlinsky's *Der* Zwerg in Frankfurt and Seville. He made his American debut with the Cleveland Orchestra as Mime *Siegfried*, followed by his debut at the Metropolitan Opera, New York in *Falstaff*. Significant engagements in Europe include the title role in *Peter Grimes* in Bielefeld, and the title role in Rienzi, Franz Schmidt's *Das Buch mit Sieben Siegeln* and Hauptmann *Wozzeck* in Frankfurt. In Frankfurt and at Teatro Real Madrid he also sang Luzio *Das Liebesverbot*. Furthermore Andrea Chenier at the Bregenz Festival, Valzacchi *Der Rosenkavalier* for La Scala Milan and Teatro Real Madrid, Narraboth *Salome* and Mazal *Mr. Broucek* for the Bayerische Staatsoper Munich, Ernesto *Don Pasquale* at Netherlands Opera, Pedrillo *Die Entführung aus dem Serail* at La Monnaie Brussels and San Francisco Opera, Laca *Jenufa* and Bajazet Tamerlano at the Komische Oper Berlin, Shuisky Boris Godunov at Teatro Regio Turin and Dr. Caius *Falstaff* at the Chatetet Paris. He also sang the title role Palestrina for Oper Frankfurt and Oper Zurich. 
 
