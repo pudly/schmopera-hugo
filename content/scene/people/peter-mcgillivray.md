@@ -1,22 +1,26 @@
-+++
-date = "2015-04-12T11:02:00-04:00"
-discipline = "Baritone"
-lastmod = "2015-04-12T11:04:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428851026302/MCGILLIVRAY-PHOTO.jpg.jpg"
-publishDate = "2015-04-12T11:02:00-04:00"
-related_companies = ["scene/companies/calgary-opera.md","scene/companies/edmonton-opera.md","scene/companies/tapestry-opera.md","scene/companies/the-dallas-opera.md"]
-slug = "peter-mcgillivray"
-title = "Peter McGillivray"
-website = "http://petermcgillivray.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/PeterMcGillivrayBaritone?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/pmcgillivray"
-+++
+---
+date: "2015-04-12T11:02:00-04:00"
+discipline: Baritone
+lastmod: "2015-04-12T11:04:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428851026302/MCGILLIVRAY-PHOTO.jpg.jpg
+publishDate: "2015-04-12T11:02:00-04:00"
+related_companies:
+- scene/companies/calgary-opera.md
+- scene/companies/edmonton-opera.md
+- scene/companies/tapestry-opera.md
+- scene/companies/the-dallas-opera.md
+slug: peter-mcgillivray
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/PeterMcGillivrayBaritone?fref=ts
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/pmcgillivray
+title: Peter McGillivray
+website: http://petermcgillivray.com/
+_template: "people_single"
+---
 
 <p>
 	The award-winning Saskatchewan baritone Peter McGillivray has been gaining accolades on both the concert and operatic stage. He won the Deuxième Grand Prix and prize for Best Canadian Performance at the Montreal International Musical Competition, a success followed by another top prize at the Queen Sonja Competition in Oslo, Norway. He previously gained national recognition at the CBC Radio-Canada Young Performers Competition in Calgary when he took home the First Prize as well as the Audience Award.

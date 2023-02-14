@@ -1,14 +1,22 @@
-+++
-date = "2015-09-29T17:15:00-04:00"
-discipline = "Coloratura soprano"
-lastmod = "2015-09-29T18:53:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443560075892/marlis_petersen3_photo_y.mavropoulosSquare.jpg.jpg"
-primary_image_credit = "Photo: Yiorgos Mavropoulos"
-publishDate = "2015-09-29T17:17:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/wiener-staatsoper.md","scene/companies/la-monnaie.md","scene/companies/bayerische-staatsoper.md","scene/companies/opernhaus-zurich.md","scene/companies/lyric-opera-of-chicago.md"]
-slug = "marlis-petersen"
-title = "Marlis Petersen"
-+++
+---
+date: "2015-09-29T17:15:00-04:00"
+discipline: Coloratura soprano
+lastmod: "2015-09-29T18:53:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443560075892/marlis_petersen3_photo_y.mavropoulosSquare.jpg.jpg
+primary_image_credit: 'Photo: Yiorgos Mavropoulos'
+publishDate: "2015-09-29T17:17:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/la-monnaie.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/lyric-opera-of-chicago.md
+slug: marlis-petersen
+title: Marlis Petersen
+_template: "people_single"
+---
 
 What the artistic world and audiences find so enchanting about Marlis Petersen is an ability to combine a voice of rare crystal clarity and brightness with an alert presence that enables her to completely identify with all her roles on the stage.
 

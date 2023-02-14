@@ -1,23 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2021-02-01T05:00:00Z
-disclaimer = ""
-draft = false
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1612119336/media/2021/01/sqStratagem_ocy6mb.jpg"
-primary_image_credit = "Clockwise from top left: Lucia Cesaroni; Reilly Nelson; Aria Umezawa; Aviva Fortunata; Jenna Simeonov; Robert Tweten; Cecilia Livingston; Phillip Addis."
-related_articles = []
-related_companies = []
-related_people = ["scene/people/aria-umezawa.md", "scene/people/cecilia-livingston.md", "scene/people/phillip-addis.md", "scene/people/reilly-nelson.md", "scene/people/aviva-fortunata.md", "scene/people/lucia-cesaroni.md"]
-short_description = "In case you're curious, I'll keep writing. No, I won't write reviews of my clients' performances, nor will I try and get away with any similar sort of glaring conflict of interest. I know it's not really common for someone to do the jobs of management and criticism at the same time, but being a rare breed is alright with me."
-slug = "big-news-had-to-share"
-title = "Big news, had to share"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Editorial
+date: '2021-02-01T05:00:00Z'
+disclaimer: ''
+draft: false
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1612119336/media/2021/01/sqStratagem_ocy6mb.jpg
+primary_image_credit: >-
+  Clockwise from top left: Lucia Cesaroni; Reilly Nelson; Aria Umezawa; Aviva
+  Fortunata; Jenna Simeonov; Robert Tweten; Cecilia Livingston; Phillip Addis.
+related_articles: []
+related_companies: []
+related_people:
+  - scene/people/aria-umezawa.md
+  - scene/people/cecilia-livingston.md
+  - scene/people/phillip-addis.md
+  - scene/people/reilly-nelson.md
+  - scene/people/aviva-fortunata.md
+  - scene/people/lucia-cesaroni.md
+short_description: >-
+  In case you're curious, I'll keep writing. No, I won't write reviews of my
+  clients' performances, nor will I try and get away with any similar sort of
+  glaring conflict of interest. I know it's not really common for someone to do
+  the jobs of management and criticism at the same time, but being a rare breed
+  is alright with me.
+slug: big-news-had-to-share
+title: 'Big news, had to share'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 Readers! I have some news to share!
 
 The short version: I've got a [new gig](https://www.stratagemartists.com/team). I'm joining [Stratagem Artists Management](https://www.stratagemartists.com/) as Associate Artist Manager. Stratagem is a boutique agency, based in New York and founded by Justin Werner, and they've kicked off an expansion into the Canadian operatic scene. I'm excited!

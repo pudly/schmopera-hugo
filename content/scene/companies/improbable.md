@@ -1,21 +1,21 @@
-+++
-date = "2016-05-05T11:53:00+01:00"
-lastmod = "2016-05-05T11:53:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462445620544/2016-05-05---Improbable-Logo.jpg.jpg"
-publishDate = "2016-05-05T11:53:00+01:00"
-slug = "improbable"
-title = "Improbable"
-type_of_company = "Theatre Company"
-website = "http://www.improbable.co.uk/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/weareimprobable/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/improbable1"
-+++
+---
+date: "2016-05-05T11:53:00+01:00"
+lastmod: "2016-05-05T11:53:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462445620544/2016-05-05---Improbable-Logo.jpg.jpg
+publishDate: "2016-05-05T11:53:00+01:00"
+slug: improbable
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/weareimprobable/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/improbable1
+title: Improbable
+type_of_company: Theatre Company
+website: http://www.improbable.co.uk/
+_template: "company_single"
+---
 
 #### Who are Improbable?
 

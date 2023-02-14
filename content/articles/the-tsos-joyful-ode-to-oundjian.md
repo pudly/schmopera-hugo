@@ -1,16 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2018-06-30T22:08:00-04:00"
-lastmod = "2018-06-30T22:10:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530410694349/20180630_182734.jpg.jpg"
-publishDate = "2018-06-30T22:08:00-04:00"
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/andrew-haji.md","scene/people/kirsten-mackinnon.md","scene/people/lauren-segal.md","scene/people/tyler-duncan.md"]
-short_description = "The symphony itself feels like an entire world, encompassing at once the life of one man - I always like it to be Beethoven&#039;s - and the lives of all people. It feels as though Beethoven offers up his story first, a conversation starter with humanity, letting us know of his hardships and his joys and his sense of humour, like an invitation for us to respond."
-slug = "the-tsos-joyful-ode-to-oundjian"
-title = "The TSO&#039;s joyful ode to Oundjian"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2018-06-30T22:08:00-04:00"
+lastmod: "2018-06-30T22:10:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530410694349/20180630_182734.jpg.jpg
+publishDate: "2018-06-30T22:08:00-04:00"
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/andrew-haji.md
+- scene/people/kirsten-mackinnon.md
+- scene/people/lauren-segal.md
+- scene/people/tyler-duncan.md
+short_description: The symphony itself feels like an entire world, encompassing at
+  once the life of one man - I always like it to be Beethoven&#039;s - and the lives
+  of all people. It feels as though Beethoven offers up his story first, a conversation
+  starter with humanity, letting us know of his hardships and his joys and his sense
+  of humour, like an invitation for us to respond.
+slug: the-tsos-joyful-ode-to-oundjian
+title: The TSO&#039;s joyful ode to Oundjian
+_template: article_single
+---
 
 Last night at Roy Thomson Hall, there seemed to converge a truly Torontonian night of celebration. The temperature hovered around 30 degrees, and King Street West was alive with the signs of an urban Canadian summer: excitable tourists with theatre tickets, locals dining on patios, commuters pouring in and out of streetcars, and people of all ages taking advantage of the city-gifted Adirondack chairs for an oh-so-Canadian photo op.
 
@@ -24,6 +35,9 @@ The performance was excellent by all involved - indeed, it couldn't have gone po
 
 It's a thrill to hear a famous tune played live. It's exponentially more thrilling when it's played live, and played with gusto that hits you right between the eyes. Oundjian tore through the final sweeps of the Choral Symphony, leading right into the thunderous applause that erupted with no hesitation. There was a warmth and gratitude that moved from the audience to the stage as Oundjian's listeners thanked him - with that Canadian trope, the standing ovation - for his 14 years. The genius of Beethoven was layered upon the awe that comes with considering the maestro's contribution to Toronto's arts-hub status in the world. Plus, those final chords sent us out into the heat of the Canada Day long weekend, making this generous night at the TSO very Canadian indeed.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530410991361/IMG_20180630_203212_906.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530410991361/IMG_20180630_203212_906.jpg.jpg)
+
 <figcaption>Photo via [Schmopera on Instagram](https://www.instagram.com/schmopera/).</figcaption>
 </figure>

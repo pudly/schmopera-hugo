@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-04-10T22:44:00-04:00"
-lastmod = "2015-04-12T19:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428720202401/Arlecchino-Allegro-6-photo-by-Tariq-Kieran.jpg.jpg"
-primary_image_credit = "Photo: Tariq Kieran"
-publishDate = "2015-03-10T10:44:00-04:00"
-related_articles = ["articles/in-review-toronto-masque-theatre-indes-mecaniques.md","articles/the-stars-align-for-toronto-masque-theatres-final-season.md","articles/after-15-years-i-felt-like-having-a-party.md"]
-related_companies = ["scene/companies/toronto-masque-theatre.md"]
-short_description = "Last night I went for the first time to see Toronto Masque Theatre, who are in the middle of their 11th season. I don&#039;t know much bout the masque tradition, but I&#039;ve learned that it was most popular in the 16th and early 17th centuries, and combined music, acting, dancing, and even architecture into a piece of theatre meant to flatter the man paying for all of it. So You Want To Write A Masque? was a fun look at how this art form comes together. "
-slug = "toronto-masque-theatre-or-clowning-around"
-title = "Toronto Masque Theatre, or Clowning Around"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-04-10T22:44:00-04:00"
+lastmod: "2015-04-12T19:44:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428720202401/Arlecchino-Allegro-6-photo-by-Tariq-Kieran.jpg.jpg
+primary_image_credit: 'Photo: Tariq Kieran'
+publishDate: "2015-03-10T10:44:00-04:00"
+related_articles:
+- articles/in-review-toronto-masque-theatre-indes-mecaniques.md
+- articles/the-stars-align-for-toronto-masque-theatres-final-season.md
+- articles/after-15-years-i-felt-like-having-a-party.md
+related_companies:
+- scene/companies/toronto-masque-theatre.md
+short_description: 'Last night I went for the first time to see Toronto Masque Theatre,
+  who are in the middle of their 11th season. I don&#039;t know much bout the masque
+  tradition, but I&#039;ve learned that it was most popular in the 16th and early
+  17th centuries, and combined music, acting, dancing, and even architecture into
+  a piece of theatre meant to flatter the man paying for all of it. So You Want To
+  Write A Masque? was a fun look at how this art form comes together. '
+slug: toronto-masque-theatre-or-clowning-around
+title: Toronto Masque Theatre, or Clowning Around
+_template: article_single
+---
 
 Last night I went for the first time to see [Toronto Masque Theatre](http://www.torontomasquetheatre.com/), who are in the middle of their 11th season. I don't know much bout the [masque tradition](http://en.wikipedia.org/wiki/Masque), but I've learned that it was most popular in the 16th and early 17th centuries, and combined music, acting, dancing, and even architecture into a piece of theatre meant to flatter the man paying for all of it. _So You Want To Write A Masque_? was a fun look at how this art form comes together. The music was provided by soprano [Michele DeBoer](http://www.tafelmusik.org/about/choir/bios/michele-deboer), lutenist [Lucas Harris](http://www.tafelmusik.org/about/bios/lucas-harris), and violinist and "maestro" [Larry Beckwith](http://www.torontomasquetheatre.com/node/9), who is also the founder and Artistic Director of Toronto Masque Theatre. The acting, dancing, and architecture were covered by improv clown duo Nicholas Dénoument and Mina Kalishnikova of the [Gorgonetrevitch Corps de Ballet Nationale](http://whetstoneproductions.com/Whetstone_Productions/Bethany.html) (true names: [David-Benjamin Tomlinson](http://whetstoneproductions.com/Whetstone_Productions/David_Bio.html) and [Diana Kolpak](http://www.dianakolpak.ca/Bio.html)). 
 

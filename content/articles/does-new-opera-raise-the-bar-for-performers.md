@@ -1,18 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-06-30T19:11:00-06:00"
-lastmod = "2015-06-30T22:49:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435725451072/BoosterShots-2.jpg.jpg"
-primary_image_credit = "Keith Klassen & Carla Huhtanen in The Whisky Opera by Hannah Moscovitch & Benton Roark, Tapestry Opera, 2014. Photo: Dahlia Katz"
-publishDate = "2015-07-01T07:00:00-06:00"
-related_articles = ["articles/the-future-of-opera-is-indie.md","articles/who-cares-what-bring-on-the-why.md","articles/in-review-mdea-undone.md","articles/the-bicycle-opera-project-at-21c.md","articles/conductors-what-else-do-they-tell-us.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md","scene/companies/against-the-grain-theatre.md","scene/companies/the-bicycle-opera-project.md","scene/companies/opera-5.md","scene/companies/essential-opera.md","scene/companies/loose-tea-music-theatre.md"]
-related_people = ["scene/people/carla-huhtanen.md","scene/people/keith-klassen.md"]
-short_description = "In a competitive industry, I&#039;m fine with the concept of promoting singers who have acting skills and can learn music fast enough to fit into the woefully short rehearsal time many companies are afforded. Survival of the fittest, I say, and new opera is a beautiful and direct route to honing those skills."
-slug = "does-new-opera-raise-the-bar-for-performers"
-title = "Does new opera raise the bar for performers?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-06-30T19:11:00-06:00"
+lastmod: "2015-06-30T22:49:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435725451072/BoosterShots-2.jpg.jpg
+primary_image_credit: 'Keith Klassen & Carla Huhtanen in The Whisky Opera by Hannah
+  Moscovitch & Benton Roark, Tapestry Opera, 2014. Photo: Dahlia Katz'
+publishDate: "2015-07-01T07:00:00-06:00"
+related_articles:
+- articles/the-future-of-opera-is-indie.md
+- articles/who-cares-what-bring-on-the-why.md
+- articles/in-review-mdea-undone.md
+- articles/the-bicycle-opera-project-at-21c.md
+- articles/conductors-what-else-do-they-tell-us.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/opera-5.md
+- scene/companies/essential-opera.md
+- scene/companies/loose-tea-music-theatre.md
+related_people:
+- scene/people/carla-huhtanen.md
+- scene/people/keith-klassen.md
+short_description: In a competitive industry, I&#039;m fine with the concept of promoting
+  singers who have acting skills and can learn music fast enough to fit into the woefully
+  short rehearsal time many companies are afforded. Survival of the fittest, I say,
+  and new opera is a beautiful and direct route to honing those skills.
+slug: does-new-opera-raise-the-bar-for-performers
+title: Does new opera raise the bar for performers?
+_template: article_single
+---
 
 When I say the words, "new opera," what comes to mind? Atonality? Complicated rhythms? Progressive and unexpected stories? Extended vocal techniques?
 

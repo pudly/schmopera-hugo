@@ -1,16 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2016-04-09T14:10:00+01:00"
-lastmod = "2016-04-09T16:02:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460210174802/2016-04-09---Dinosaur.jpg.jpg"
-primary_image_credit = "Photo: wikimedia.commons.org."
-publishDate = "2016-04-09T15:18:00+01:00"
-related_articles = ["articles/once-agan-shushing-meanies.md","articles/when-critics-are-jerks.md","articles/in-review-tcherniakovs-don-giovanni.md","articles/opera-lovers-their-unpopular-opinions.md"]
-short_description = "What Christiansen calls gimmicks and tactics, we call creativity. In the case of ROH&#039;s Lucia, we clearly loved it, so on this particular point, we simply differ in opinion. There are &quot;concept&quot; productions that have fallen flat for us, too, so we&#039;re not out to blindly promote the wild, anything-goes ideas of today&#039;s directors. But to condemn creativity and attempts at novelty as Christiansen does is shameful."
-slug = "gimmicks-tactics-discouraging-the-new-"
-title = "Gimmicks &amp; tactics: discouraging the new "
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2016-04-09T14:10:00+01:00"
+lastmod: "2016-04-09T16:02:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460210174802/2016-04-09---Dinosaur.jpg.jpg
+primary_image_credit: 'Photo: wikimedia.commons.org.'
+publishDate: "2016-04-09T15:18:00+01:00"
+related_articles:
+- articles/once-agan-shushing-meanies.md
+- articles/when-critics-are-jerks.md
+- articles/in-review-tcherniakovs-don-giovanni.md
+- articles/opera-lovers-their-unpopular-opinions.md
+short_description: What Christiansen calls gimmicks and tactics, we call creativity.
+  In the case of ROH&#039;s Lucia, we clearly loved it, so on this particular point,
+  we simply differ in opinion. There are &quot;concept&quot; productions that have
+  fallen flat for us, too, so we&#039;re not out to blindly promote the wild, anything-goes
+  ideas of today&#039;s directors. But to condemn creativity and attempts at novelty
+  as Christiansen does is shameful.
+slug: gimmicks-tactics-discouraging-the-new-
+title: 'Gimmicks &amp; tactics: discouraging the new '
+_template: article_single
+---
 
 [Rupert Christiansen](http://www.telegraph.co.uk/authors/rupert-christiansen/), opera critic to the *Daily Telegraph*, wrote a predictably [scathing review](http://www.telegraph.co.uk/opera/what-to-see/lucia-di-lammermoor-royal-opera-house-verdict-too-leaden-even-fo/) of the Royal Opera House's current [*Lucia di Lammermoor*](/in-review-lucia-di-lammermoor-at-roh/), followed up today by his curmudgeonly opinion piece, ["Opera must bring down the curtain on gimmickry and gore"](http://www.telegraph.co.uk/opera/what-to-see/opera-must-bring-down-the-curtain-on-gimmickry-and-gore/). We want to respond to the latter.
 

@@ -1,12 +1,14 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-07-15T11:45:00-06:00"
-draft = true
-lastmod = "2016-07-15T12:40:00-06:00"
-slug = "brittens-singers"
-title = "Britten&#039;s singers"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-07-15T11:45:00-06:00"
+draft: true
+lastmod: "2016-07-15T12:40:00-06:00"
+slug: brittens-singers
+title: Britten&#039;s singers
+_template: article_single
+---
 
 Owen Brannigan (Swallow, Collatinus, Herring role) - https://www.youtube.com/watch?v=sTmvjjoGgYw
 

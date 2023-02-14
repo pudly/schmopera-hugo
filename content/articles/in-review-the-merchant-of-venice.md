@@ -1,17 +1,33 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2017-07-21T08:50:00-04:00"
-lastmod = "2017-07-27T10:06:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501122583742/2017-07-26---Venice.jpg.jpg"
-publishDate = "2017-07-26T23:04:00-04:00"
-related_articles = ["articles/in-review-hamlet-at-glyndebourne.md","articles/jawdropping-the-nose-at-roh.md"]
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/welsh-national-opera.md"]
-related_people = ["scene/people/lester-lynch.md","scene/people/lauren-michelle.md","scene/people/sarah-castle.md","scene/people/martin-wolfel.md","scene/people/mark-le-brocq.md"]
-short_description = "At the end, we were left feeling like this was too big a piece for Welsh National Opera to chew on. With most of the cast underwhelming and the orchestra&#039;s lack of musical interpretation, it wasn&#039;t easy to sit through. We&#039;re glad to feel uncomfortable in an opera because of sensitive issues is might broach, or because of a controversy it might cause. But in this case, we were just wondering if they would make it to the end."
-slug = "in-review-the-merchant-of-venice"
-title = "In review: The Merchant of Venice"
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2017-07-21T08:50:00-04:00"
+lastmod: "2017-07-27T10:06:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501122583742/2017-07-26---Venice.jpg.jpg
+publishDate: "2017-07-26T23:04:00-04:00"
+related_articles:
+- articles/in-review-hamlet-at-glyndebourne.md
+- articles/jawdropping-the-nose-at-roh.md
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/welsh-national-opera.md
+related_people:
+- scene/people/lester-lynch.md
+- scene/people/lauren-michelle.md
+- scene/people/sarah-castle.md
+- scene/people/martin-wolfel.md
+- scene/people/mark-le-brocq.md
+short_description: At the end, we were left feeling like this was too big a piece
+  for Welsh National Opera to chew on. With most of the cast underwhelming and the
+  orchestra&#039;s lack of musical interpretation, it wasn&#039;t easy to sit through.
+  We&#039;re glad to feel uncomfortable in an opera because of sensitive issues is
+  might broach, or because of a controversy it might cause. But in this case, we were
+  just wondering if they would make it to the end.
+slug: in-review-the-merchant-of-venice
+title: 'In review: The Merchant of Venice'
+_template: article_single
+---
 
 [Welsh National Opera](/scene/companies/welsh-national-opera/) came to Covent Garden in a very short run of André Tchaikowsky's *The Merchant of Venice*. First performed in 2013 at the Bregenz Festival, Tchaikowsky's work was first written between 1968 and 1982. *The Merchant of Venice* was under consideration to be performed by English National Opera, but was not performed, and Tchaikowsky died shortly after in 1982. 
 

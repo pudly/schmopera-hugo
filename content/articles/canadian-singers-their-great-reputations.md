@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-12-23T10:07:00-05:00"
-lastmod = "2016-12-28T09:25:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482857909449/2016-12-27---Canada.jpg.jpg"
-publishDate = "2016-12-28T08:52:00-05:00"
-related_articles = ["articles/canadian-yaps-missed-opportunities.md"]
-related_companies = ["scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
-short_description = "Perhaps it&#039;s because we border the behemoth that is the United States, and perhaps it&#039;s because we&#039;re far-removed from the operatic centre that is Europe. In any case, it drives Canadian singers to meet the perceived standards of the &quot;biggest and best&quot;. Maybe we underestimate the quality of training available at home, and thus we head out into the world in over-prepared hordes. "
-slug = "canadian-singers-their-great-reputations"
-title = "Canadian singers &amp; their great reputations"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-12-23T10:07:00-05:00"
+lastmod: "2016-12-28T09:25:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482857909449/2016-12-27---Canada.jpg.jpg
+publishDate: "2016-12-28T08:52:00-05:00"
+related_articles:
+- articles/canadian-yaps-missed-opportunities.md
+related_companies:
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+short_description: 'Perhaps it&#039;s because we border the behemoth that is the United
+  States, and perhaps it&#039;s because we&#039;re far-removed from the operatic centre
+  that is Europe. In any case, it drives Canadian singers to meet the perceived standards
+  of the &quot;biggest and best&quot;. Maybe we underestimate the quality of training
+  available at home, and thus we head out into the world in over-prepared hordes. '
+slug: canadian-singers-their-great-reputations
+title: Canadian singers &amp; their great reputations
+_template: article_single
+---
 
 Canadians are known for our polite dispositions, our hot-commodity maple syrup, and perhaps in recent years, our extremely dreamy Prime Minister. Canada is the friendly and soft-spoken neighbour to the United States, and a quaint spin-off of sorts of the British monarchy. It's home to beautiful, hardy cities and stunning landscapes of all ilks; Canadians can spend their whole lives traveling within their home borders and still experience a sense of awe and pride for their country.
 

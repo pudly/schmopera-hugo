@@ -1,18 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-03-20T21:09:00-04:00"
-lastmod = "2018-04-05T14:40:00-04:00"
-preamble = "Irish mezzo-soprano [Tara Erraught](/scene/companies/tara-erraught/) is making a bit if history with her upcoming run as Susanna in Mozart's [*Le nozze di Figaro*](http://www.irishnationalopera.ie/whats-on/current-upcoming-productions/the-marriage-of-figaro). [Irish National Opera](/scene/companies/irish-national-opera/), newly formed with the merging of two of Ireland's most important producers, Wide Open Opera and Opera Theatre Company, presents Mozart's operatic cornerstone as their [first major new production](http://www.irishnationalopera.ie/whats-on/current-upcoming-productions/the-marriage-of-figaro). Erraught will make a much-anticipated return home for the production, marking a special combination of her work as an internationally acclaimed mezzo-soprano, and an artistic partner of INO.\n\nWe spoke with Erraught about the opera scene in Ireland, her evolving professional wish-list, and why an opera singer's support system is as invaluable as a healthy instrument."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522941924696/sq---2847-Tara-Erraught-HI-RES.jpg.jpg"
-primary_image_credit = "Photo: Kristin Hoebermann."
-publishDate = "2018-04-04T21:38:00-04:00"
-related_companies = ["scene/companies/irish-national-opera.md"]
-related_people = ["scene/people/tara-erraught.md"]
-short_description = "&quot;It never gets easier to say no to an interesting offer, even though you may well know you don&#039;t have the time, so your management team and your teacher are vital in guiding you at every step in what is a healthy decision, always.&quot;"
-slug = "singers-tara-erraught"
-title = "Talking with singers: Tara Erraught"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-03-20T21:09:00-04:00"
+lastmod: "2018-04-05T14:40:00-04:00"
+preamble: |-
+  Irish mezzo-soprano [Tara Erraught](/scene/companies/tara-erraught/) is making a bit if history with her upcoming run as Susanna in Mozart's [*Le nozze di Figaro*](http://www.irishnationalopera.ie/whats-on/current-upcoming-productions/the-marriage-of-figaro). [Irish National Opera](/scene/companies/irish-national-opera/), newly formed with the merging of two of Ireland's most important producers, Wide Open Opera and Opera Theatre Company, presents Mozart's operatic cornerstone as their [first major new production](http://www.irishnationalopera.ie/whats-on/current-upcoming-productions/the-marriage-of-figaro). Erraught will make a much-anticipated return home for the production, marking a special combination of her work as an internationally acclaimed mezzo-soprano, and an artistic partner of INO.
+
+  We spoke with Erraught about the opera scene in Ireland, her evolving professional wish-list, and why an opera singer's support system is as invaluable as a healthy instrument.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522941924696/sq---2847-Tara-Erraught-HI-RES.jpg.jpg
+primary_image_credit: 'Photo: Kristin Hoebermann.'
+publishDate: "2018-04-04T21:38:00-04:00"
+related_companies:
+- scene/companies/irish-national-opera.md
+related_people:
+- scene/people/tara-erraught.md
+short_description: '&quot;It never gets easier to say no to an interesting offer,
+  even though you may well know you don&#039;t have the time, so your management team
+  and your teacher are vital in guiding you at every step in what is a healthy decision,
+  always.&quot;'
+slug: singers-tara-erraught
+title: 'Talking with singers: Tara Erraught'
+_template: article_single
+---
 
 ## With a piece like *Le nozze di Figaro*, what balance do you find between comedy and drama?
 
@@ -36,7 +46,10 @@ Also, as an artistic partner of INO, I can bring the experiences I have learned 
 
 I fully credit my career to date to the strong arts foundation I received in Ireland. We have a wonderful tradition of church choirs, music, dancing and drama in schools, each child gets this artistic exposure. We also have a splendid tradition of Feis ceoil, which is Gaelic for music competition. It's a wonderful performance opportunity for adults and children alike. You can compete in music, dancing and speech & drama. I feel these experiences and my musical education at the Royal Irish Academy fully prepared me to begin my professional career in Germany.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522941945639/0116-Tara-Erraught-HI-RES.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522941945639/0116-Tara-Erraught-HI-RES.jpg.jpg)
+
 <figcaption>Tara Erraught, mezzo-soprano. Photo: Kristin Hoebermann.</figcaption>
 </figure>
 

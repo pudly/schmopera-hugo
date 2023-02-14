@@ -1,18 +1,54 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-01-19T15:36:00-05:00"
-lastmod = "2016-01-25T09:13:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453235943435/2016-01-19---Christine-Goerke---pc---Arielle-Doneson.jpg.jpg"
-primary_image_credit = "Photo by Arielle Doneson."
-publishDate = "2016-01-25T09:08:00-05:00"
-related_articles = ["articles/talking-with-singers-othalie-graham.md","articles/talking-with-singers-nicole-cabell.md","articles/in-review-siegfried.md","articles/spotlight-on-amanda-majeski.md","articles/spotlight-on-rolando-sanz.md","articles/talking-with-singers-anna-devin.md","articles/talking-with-singers-jamie-barton.md","articles/talking-with-singers-corinne-winters.md","articles/talking-with-singers-melody-moore.md","articles/talking-with-singers-bryan-register.md","articles/what-weve-learned-by-talking-with-108-opera-singers.md","articles/spotlight-on-beth-hagerman.md","articles/talking-with-singers-lise-lindstrom.md","articles/talking-with-singers-christopher-purves.md","articles/talking-with-singers-keri-alkema.md","articles/talking-with-singers-marina-rebeka.md","articles/talking-with-singers-sondra-radvanovsky.md","articles/talking-with-singers-jessica-pratt.md","articles/talking-with-singers-jnai-bridges.md","articles/in-review-gotterdammerung-at-the-coc.md","articles/talking-with-singers-angela-gheorghiu.md","articles/talking-with-singers-ailyn-perez.md","articles/tomer-zvulun-the-atlanta-operas-intriguing-201718.md","articles/kinder-schafft-neues-die-meistersinger-von-nrnberg.md","articles/talking-with-singers-alfred-walker.md","articles/greg-jennas-roundup2017.md","articles/on-a-mental-precipice-hgos-elektra.md","articles/inflatable-beasts-vocal-brilliance-locs-siegfried.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/christine-goerke.md"]
-short_description = "Her bread-and-butter roles these days are large and daunting, like Elektra, Elsa, Ariadne, and Turandot. Still, Wagner&#039;s operas ask for unique standards of its singers. &quot;I guess it&#039;s like a marathon,&quot; says Goerke, &quot;but if you&#039;re a marathon-runner who&#039;s used to running marathons, it&#039;s just a total adrenaline rush, and it feels amazing.&quot;"
-slug = "talking-with-singers-christine-goerke"
-title = "Talking with singers: Christine Goerke"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-01-19T15:36:00-05:00"
+lastmod: "2016-01-25T09:13:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453235943435/2016-01-19---Christine-Goerke---pc---Arielle-Doneson.jpg.jpg
+primary_image_credit: Photo by Arielle Doneson.
+publishDate: "2016-01-25T09:08:00-05:00"
+related_articles:
+- articles/talking-with-singers-othalie-graham.md
+- articles/talking-with-singers-nicole-cabell.md
+- articles/in-review-siegfried.md
+- articles/spotlight-on-amanda-majeski.md
+- articles/spotlight-on-rolando-sanz.md
+- articles/talking-with-singers-anna-devin.md
+- articles/talking-with-singers-jamie-barton.md
+- articles/talking-with-singers-corinne-winters.md
+- articles/talking-with-singers-melody-moore.md
+- articles/talking-with-singers-bryan-register.md
+- articles/what-weve-learned-by-talking-with-108-opera-singers.md
+- articles/spotlight-on-beth-hagerman.md
+- articles/talking-with-singers-lise-lindstrom.md
+- articles/talking-with-singers-christopher-purves.md
+- articles/talking-with-singers-keri-alkema.md
+- articles/talking-with-singers-marina-rebeka.md
+- articles/talking-with-singers-sondra-radvanovsky.md
+- articles/talking-with-singers-jessica-pratt.md
+- articles/talking-with-singers-jnai-bridges.md
+- articles/in-review-gotterdammerung-at-the-coc.md
+- articles/talking-with-singers-angela-gheorghiu.md
+- articles/talking-with-singers-ailyn-perez.md
+- articles/tomer-zvulun-the-atlanta-operas-intriguing-201718.md
+- articles/kinder-schafft-neues-die-meistersinger-von-nrnberg.md
+- articles/talking-with-singers-alfred-walker.md
+- articles/greg-jennas-roundup2017.md
+- articles/on-a-mental-precipice-hgos-elektra.md
+- articles/inflatable-beasts-vocal-brilliance-locs-siegfried.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/christine-goerke.md
+short_description: Her bread-and-butter roles these days are large and daunting, like
+  Elektra, Elsa, Ariadne, and Turandot. Still, Wagner&#039;s operas ask for unique
+  standards of its singers. &quot;I guess it&#039;s like a marathon,&quot; says Goerke,
+  &quot;but if you&#039;re a marathon-runner who&#039;s used to running marathons,
+  it&#039;s just a total adrenaline rush, and it feels amazing.&quot;
+slug: talking-with-singers-christine-goerke
+title: 'Talking with singers: Christine Goerke'
+_template: article_single
+---
 
 "He's such a subliminal dude," says soprano [Christine Goerke](/scene/people/christine-goerke/), when I asked her what it was like to sing Wagner's music. "I love it, and it fits."
 
@@ -36,7 +72,10 @@ She says it's the only way she can approach this kind of repertoire. "There are 
 
 Goerke empathizes with the urge to push sound out when singing Wagner; his music is known for its enormous scale, yet the best Wagnerians capitalize on the smart orchestration underneath them. "I find, having done this for a little bit now, that it has to do with the kind of colour and the kind of focus that the singers who sing this kind of repertoire have." She's learned that cutting through a large orchestra isn't about volume, "but having the right colour to ride on top of it. Because if you try and push through something, you will lose - there are more of them than you!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453606907035/Siegfried-4492---resized.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453606907035/Siegfried-4492---resized.jpg.jpg)
+
 <figcaption>Stefan Vinke as Siegfried and Christine Goerke as Brünnhilde in the Canadian Opera Company production of *Siegfried*, 2016. Photo: Michael Cooper.</figcaption>
 </figure>
 

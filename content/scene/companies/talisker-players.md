@@ -1,23 +1,29 @@
-+++
-date = "2015-05-13T21:35:00-04:00"
-lastmod = "2015-05-13T21:35:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546481723/media/2019/01/Logo-TaliskerPlayers.jpg"
-publishDate = "2015-05-13T21:35:00-04:00"
-related_people = ["scene/people/geoffrey-sirett.md", "scene/people/carla-huhtanen.md", "scene/people/andrea-ludwig.md", "scene/people/virginia-hatfield.md", "scene/people/ilana-zarankin.md", "scene/people/whitney-ohearn.md", "scene/people/joel-allison.md"]
-slug = "talisker-players"
-title = "Talisker Players"
-type_of_company = "Chamber Ensemble"
-website = "http://www.taliskerplayers.ca/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Talisker-Players-Music/254091867940293"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/TaliskerPlayers"
-
-+++
+---
+date: "2015-05-13T21:35:00-04:00"
+lastmod: "2015-05-13T21:35:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546481723/media/2019/01/Logo-TaliskerPlayers.jpg
+publishDate: "2015-05-13T21:35:00-04:00"
+related_people:
+- scene/people/geoffrey-sirett.md
+- scene/people/carla-huhtanen.md
+- scene/people/andrea-ludwig.md
+- scene/people/virginia-hatfield.md
+- scene/people/ilana-zarankin.md
+- scene/people/whitney-ohearn.md
+- scene/people/joel-allison.md
+slug: talisker-players
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/pages/Talisker-Players-Music/254091867940293
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/TaliskerPlayers
+title: Talisker Players
+type_of_company: Chamber Ensemble
+website: http://www.taliskerplayers.ca/
+_template: "company_single"
+---
 Talisker Players is a unique ensemble of instrumentalists dedicated to collaborating with singers. We present one of the most interesting and innovative annual concert series in Toronto, and we also perform throughout southern Ontario and across the country. We are Musicians in Residence at Massey College, University of Toronto.
 
 The history of the ensemble revolves around our passion for the particular rewards and challenges of vocal/instrumental collaboration. We began in 1995 as a flexible-sized orchestra dedicated to accompanying choirs, and we continue to work with dozens of choirs throughout southern Ontario. The Choral Music Orchestra is a favourite with choirs and audiences alike, and has earned a well-deserved reputation for excellence. For more information, click here.

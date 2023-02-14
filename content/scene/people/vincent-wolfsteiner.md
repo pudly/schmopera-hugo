@@ -1,19 +1,21 @@
-+++
-date = "2017-10-09T19:12:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-10-09T19:12:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507590622165/head.jpg.jpg"
-primary_image_credit = "Ludwig Olah"
-publishDate = "2017-10-09T19:12:00-04:00"
-related_companies = ["scene/companies/oper-frankfurt.md"]
-slug = "vincent-wolfsteiner"
-title = "Vincent Wolfsteiner"
-website = "https://dramatic-tenor.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/redhairedprince"
-+++
+---
+date: "2017-10-09T19:12:00-04:00"
+discipline: Tenor
+lastmod: "2017-10-09T19:12:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507590622165/head.jpg.jpg
+primary_image_credit: Ludwig Olah
+publishDate: "2017-10-09T19:12:00-04:00"
+related_companies:
+- scene/companies/oper-frankfurt.md
+slug: vincent-wolfsteiner
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/redhairedprince
+title: Vincent Wolfsteiner
+website: https://dramatic-tenor.com/
+_template: "people_single"
+---
 
 Vincent Wolfsteiner studied music in Great Britain and worked as sound engineer and producer in his home town Munich.
  

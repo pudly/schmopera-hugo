@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-12-18T09:51:00-05:00"
-lastmod = "2015-12-19T10:46:00-05:00"
-preamble = "British tenor, director, and photographer Andrew Staples is currently in Toronto, between performances of Handel's [*Messiah*](http://www.tso.ca/en-ca/concerts-and-tickets/2015-2016-Season/EventDetails/Messiah.aspx) with Sir Andrew Davis and the [Toronto Symphony Orchestra](/scene/companies/toronto-symphony-orchestra/). Staples splits his time between performing, directing opera, and keeping up with his increasing demand as a [portrait photographer](http://www.andystaplesphotography.com/). He's also a founder of [Opera for Change](http://www.operaforchange.com/#!about/c10fk), which brings music and opera, in partnership with artists in Kenya, Tanzania, Botswana, Malawi, South Africa and beyond, to discover \"what it truly means to collaborate interculturally.\"\n\nAndrew Staples spoke about *Messiah*, about Opera for Change, and what it's like to juggle several artistic hats."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450458219511/2015-12-18---Andrew-Staples.jpg.jpg"
-publishDate = "2015-12-19T08:00:00-05:00"
-related_articles = ["articles/talking-with-singers-nicole-cabell.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/andrew-staples.md"]
-short_description = "Music for me is all about collaboration and context. When you sing and play this piece with new people in different places it has to evolve. Each performance is different from the last and as people bring their collective experience and contexts together, a new version comes alive."
-slug = "andrew-staples-messiah-and-multitasking"
-title = "Andrew Staples: Messiah and multi-tasking"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-12-18T09:51:00-05:00"
+lastmod: "2015-12-19T10:46:00-05:00"
+preamble: |-
+  British tenor, director, and photographer Andrew Staples is currently in Toronto, between performances of Handel's [*Messiah*](http://www.tso.ca/en-ca/concerts-and-tickets/2015-2016-Season/EventDetails/Messiah.aspx) with Sir Andrew Davis and the [Toronto Symphony Orchestra](/scene/companies/toronto-symphony-orchestra/). Staples splits his time between performing, directing opera, and keeping up with his increasing demand as a [portrait photographer](http://www.andystaplesphotography.com/). He's also a founder of [Opera for Change](http://www.operaforchange.com/#!about/c10fk), which brings music and opera, in partnership with artists in Kenya, Tanzania, Botswana, Malawi, South Africa and beyond, to discover "what it truly means to collaborate interculturally."
+
+  Andrew Staples spoke about *Messiah*, about Opera for Change, and what it's like to juggle several artistic hats.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450458219511/2015-12-18---Andrew-Staples.jpg.jpg
+publishDate: "2015-12-19T08:00:00-05:00"
+related_articles:
+- articles/talking-with-singers-nicole-cabell.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/andrew-staples.md
+short_description: Music for me is all about collaboration and context. When you sing
+  and play this piece with new people in different places it has to evolve. Each performance
+  is different from the last and as people bring their collective experience and contexts
+  together, a new version comes alive.
+slug: andrew-staples-messiah-and-multitasking
+title: 'Andrew Staples: Messiah and multi-tasking'
+_template: article_single
+---
 
 ## What does it feel like to sing the *Messiah*? How many do you think you average each year?
 

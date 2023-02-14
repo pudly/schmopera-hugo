@@ -1,15 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-11-14T14:46:00-05:00"
-lastmod = "2015-11-15T11:18:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447534683353/2015-11-14---WateringPlants.jpg.jpg"
-publishDate = "2015-11-15T11:18:00-05:00"
-related_articles = ["articles/shhdont-tell-them-its-opera.md","articles/the-case-for-music-education.md"]
-short_description = "The only necessary ingredient in bringing up a generation of respect for the arts is constant exposure. It&#039;s not a passive thing at all, and what makes me nervous is that it&#039;s largely up to the grown-ups to plant the seeds."
-slug = "playing-the-long-game-fostering-artistic-respect"
-title = "Playing the long game: fostering artistic respect"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-11-14T14:46:00-05:00"
+lastmod: "2015-11-15T11:18:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447534683353/2015-11-14---WateringPlants.jpg.jpg
+publishDate: "2015-11-15T11:18:00-05:00"
+related_articles:
+- articles/shhdont-tell-them-its-opera.md
+- articles/the-case-for-music-education.md
+short_description: The only necessary ingredient in bringing up a generation of respect
+  for the arts is constant exposure. It&#039;s not a passive thing at all, and what
+  makes me nervous is that it&#039;s largely up to the grown-ups to plant the seeds.
+slug: playing-the-long-game-fostering-artistic-respect
+title: 'Playing the long game: fostering artistic respect'
+_template: article_single
+---
 
 I've been going to concerts since I could walk. Growing up, I lived in a city with a great concert series and a few theatre companies; [my mother is a musician](/talking-with-voice-teachers-or-meet-my-mother/), and not only did she know the value of dragging her daughter to show after show, she knew what to look for. We went to Stratford for Shakespeare and musicals, to Toronto for the TSO (and musicals), and at home there was a constant flow of *Messiahs* and piano concerti to hear.
 

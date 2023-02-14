@@ -1,17 +1,23 @@
-+++
-date = "2016-02-23T11:42:00-05:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-02-23T11:42:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456245739661/2016-02-23---Megan-Latham.jpg.jpg"
-publishDate = "2016-02-23T11:42:00-05:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/pacific-opera-victoria.md","scene/companies/vancouver-opera.md","scene/companies/edmonton-opera.md","scene/companies/against-the-grain-theatre.md"]
-slug = "megan-latham"
-title = "Megan Latham"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/mezzomeg"
-+++
+---
+date: "2016-02-23T11:42:00-05:00"
+discipline: Mezzo-soprano
+lastmod: "2016-02-23T11:42:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456245739661/2016-02-23---Megan-Latham.jpg.jpg
+publishDate: "2016-02-23T11:42:00-05:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/vancouver-opera.md
+- scene/companies/edmonton-opera.md
+- scene/companies/against-the-grain-theatre.md
+slug: megan-latham
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/mezzomeg
+title: Megan Latham
+_template: "people_single"
+---
 
 Mezzo-soprano Megan Latham has enjoyed the distinction of recognition in opera, oratorio, and recital, her voice having been described as “clear and honey colored” (Opera Canada). She has worked with distinguished conductors including Harry Bicket, Will Crutchfield, Richard Bradshaw, Miguel Harth-Bedoya, David Agler, Jeanne Lamon and Agnes Grossman.
 

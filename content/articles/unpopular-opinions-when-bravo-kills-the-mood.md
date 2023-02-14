@@ -1,15 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2017-03-19T11:23:00+00:00"
-lastmod = "2017-03-19T12:11:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489925147264/2017-03-19---Bravo.jpg.jpg"
-publishDate = "2017-03-19T12:11:00+00:00"
-related_articles = ["articles/the-opera-party-monologue.md","articles/taking-a-bow-curtain-calls-for-your-voice-type.md"]
-short_description = "Frankly, a &quot;bravo&quot; best follows an aria with a great high note near the end, or some stellar coloratura, or one of those spinning-to-the-bitter-end final notes that singers love to do in bel canto. In other cases, where an aria should leave you sunken in your seat, fading out into the sounds of a pin-drop silence, shouting &quot;bravo&quot; is just obscene."
-slug = "unpopular-opinions-when-bravo-kills-the-mood"
-title = "Unpopular opinions: when &quot;bravo!&quot; kills the mood"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2017-03-19T11:23:00+00:00"
+lastmod: "2017-03-19T12:11:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489925147264/2017-03-19---Bravo.jpg.jpg
+publishDate: "2017-03-19T12:11:00+00:00"
+related_articles:
+- articles/the-opera-party-monologue.md
+- articles/taking-a-bow-curtain-calls-for-your-voice-type.md
+short_description: Frankly, a &quot;bravo&quot; best follows an aria with a great
+  high note near the end, or some stellar coloratura, or one of those spinning-to-the-bitter-end
+  final notes that singers love to do in bel canto. In other cases, where an aria
+  should leave you sunken in your seat, fading out into the sounds of a pin-drop silence,
+  shouting &quot;bravo&quot; is just obscene.
+slug: unpopular-opinions-when-bravo-kills-the-mood
+title: 'Unpopular opinions: when &quot;bravo!&quot; kills the mood'
+_template: article_single
+---
 
 It's one of the noticeable differences between seeing opera in Europe, versus in North America: the cries of "bravo!" and "brava!" are loud and proud, and much more common than the average Canadian audience, say, in all its politeness. 
 

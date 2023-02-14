@@ -1,16 +1,24 @@
-+++
-author = ["authors/michael-zarathuscook.md"]
-categories = "Review"
-date = "2018-12-01T21:38:00-05:00"
-lastmod = "2018-12-02T09:32:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543718324805/sqOpenChambers-8.jpg.jpg"
-publishDate = "2018-12-01T21:39:00-05:00"
-related_companies = ["scene/companies/opera-5.md"]
-related_people = ["scene/people/jacqueline-woodley.md","scene/people/rachel-krehm.md"]
-short_description = "Ultimately it&#039;s the music that resonated the most, while the theatrics — played out in a dichromatic set via mimetic interpretations of the libretto — filled in the gaps that awkward shuffling and transitional applause between segments are otherwise expected."
-slug = "opera5s-open-chambers-too-many-cooks-in-the-chamber"
-title = "Opera5&#039;s Open Chambers: Too many cooks in the chamber?"
-+++
+---
+author:
+- authors/michael-zarathuscook.md
+categories: Review
+date: "2018-12-01T21:38:00-05:00"
+lastmod: "2018-12-02T09:32:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543718324805/sqOpenChambers-8.jpg.jpg
+publishDate: "2018-12-01T21:39:00-05:00"
+related_companies:
+- scene/companies/opera-5.md
+related_people:
+- scene/people/jacqueline-woodley.md
+- scene/people/rachel-krehm.md
+short_description: Ultimately it&#039;s the music that resonated the most, while the
+  theatrics — played out in a dichromatic set via mimetic interpretations of the libretto
+  — filled in the gaps that awkward shuffling and transitional applause between segments
+  are otherwise expected.
+slug: opera5s-open-chambers-too-many-cooks-in-the-chamber
+title: 'Opera5&#039;s Open Chambers: Too many cooks in the chamber?'
+_template: article_single
+---
 
 I made my first visit to Factory Theatre this past Wednesday (Nov.28th) — which perhaps identifies, at first glance, as a low-key subway station — courtesy of the amazing Jenna Simeonov, in the cozy yet austere Studio Theatre on the main floor. 
 
@@ -18,7 +26,10 @@ Just what to make of this production? — I'm as sure now as I was in its first 
 
 Ultimately it's the music that resonated the most, while the theatrics — played out in a dichromatic set via mimetic interpretations of the libretto — filled in the gaps that awkward shuffling and transitional applause between segments are otherwise expected.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543717796792/OpenChambers-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543717796792/OpenChambers-2.jpg.jpg)
+
 <figcaption>Rachel Krehm and Jacqueline Woodley in *Open Chambers: Hindemith & Shostakovich*, Opera 5, 2018. Photo: Dahlia Katz.</figcaption>
 </figure>
 
@@ -28,7 +39,10 @@ Those words are excerpts from "Music", one of the seven poems by Alexander Blok 
 
 The voice and music — which is often enough for chamber music — use up most of my sympathetic commentary for this production; and I'm left with little praise for the set design and narrative choreography, components which add as much depth as distraction to the virtuosic performances of the sopranos and musicians. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543717840721/OpenChambers-4.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543717840721/OpenChambers-4.jpg.jpg)
+
 <figcaption>Melissa Scott and Jacqueline Woodley in *Open Chambers: Hindemith & Shostakovich*, Opera 5, 2018. Photo: Dahlia Katz.</figcaption>
 </figure>
 
@@ -36,7 +50,10 @@ One would search to no avail for the thematic source of the set design in the li
 
 Jacqueline Woodley's more measured expositional soprano was the outstanding voice for the Hindemith portion of the night. She maintained a compelling stage presence that made the room feel small and intimate throughout. Melissa Scott's performance was a stalwart marathonian effort on the oboe for Hindemith's Oboe Sonata, and continued to hold its own even during the full gale force of the layered parts for viola (Kawasaki), cello and soprano (Krehm) in "Der Wurm am Meer".
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543717905192/OpenChambers-10.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543717905192/OpenChambers-10.jpg.jpg)
+
 <figcaption>Yosuke Kawasaki and Jacqueline Woodley in *Open Chambers: Hindemith & Shostakovich*, Opera 5, 2018. Photo: Dahlia Katz.</figcaption>
 </figure>
 
@@ -44,7 +61,10 @@ Jacqueline Woodley's more measured expositional soprano was the outstanding voic
 
 The production is on the whole imaginative, and maintains a busy kind of entertainment, but parts of it (set design especially) are a bit staid and at an obtuse angle to the more applaudable risks taken by stage director and designer Patrick Hansen. If the goal, as stated by Hansen, was to "reframe the chamber music experience..." then by that mark the production was a success, albeit a confusing multifaceted one wherein the audience wasn't sure when to clap and when to laugh — despite ample opportunities for both. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543717918335/OpenChambers-15.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543717918335/OpenChambers-15.jpg.jpg)
+
 <figcaption>(Left  to  Right): Yosuke Kawasaki, violin, Melissa Scott, oboe, Vadim Serebryany, piano, Rachel Krehm, Jacqueline Woodley, and Wolfram Koessel in *Open Chambers: Hindemith & Shostakovich*, Opera 5, 2018. Photo: Dahlia Katz.</figcaption>
 </figure>
 

@@ -1,17 +1,18 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1580241259/media/2020/01/HollyFlack_evtwsm.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/opera-atelier.md"]
-slug = "holly-flack"
-title = "Holly Flack"
-website = "https://www.hollyflack.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/holly.flack/"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1580241259/media/2020/01/HollyFlack_evtwsm.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/opera-atelier.md
+slug: holly-flack
+social_media:
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/holly.flack/
+title: Holly Flack
+website: https://www.hollyflack.com/
+_template: "people_single"
+---
 Holly Flack is a coloratura soprano with a unique range that extends beyond an octave above high C. Praised as an “explosive talent” with her warm, flowing middle voice, rippling coloratura and effortless trills, she “wields an impressive range, effortlessly reaching higher than high notes” with her stratospheric vocal extension.
 
 Ms. Flack’s operatic roles include Queen of the Night in _Die Zauberflöte_, Ophélie in _Hamlet_, Morgana in _Alcina_, Elvira in _L'Italiana in Algeri_, Dinorah in _Le Pardon de Ploërmel_, and Gilda in _Rigoletto_. As a young artist, she covered Marie in _La Fille du Régiment_, Olympia in _Les Contes d’Hoffmann_, and Adele in _Die Fledermaus_. Her musical theater and operetta roles include Maggie Anderson in _Brigadoon_, Gabrielle in _Can-Can_, Peep-Bo in _The Mikado_, and Vivienne in _Legally Blonde_.

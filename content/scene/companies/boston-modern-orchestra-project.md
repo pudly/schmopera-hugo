@@ -1,24 +1,29 @@
-+++
-address = "376 Washington Street\nMalden, MA 02148"
-date = "2019-01-20T20:20:48+00:00"
-email = "bmop@bmop.org"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548015467/media/2019/01/Logo-BMOP.jpg"
-primary_image_credit = ""
-related_people = ["content/scene/people/stephen-l-bryant.md", "content/scene/people/neal-ferreira.md", "content/scene/people/heather-buck.md", "content/scene/people/matthew-dibattista.md"]
-slug = "boston-modern-orchestra-project"
-title = "Boston Modern Orchestra Project"
-type_of_company = "Orchestra"
-website = "https://www.bmop.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/BMOPmusic/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/BMOPmusic"
-
-+++
+---
+address: |-
+  376 Washington Street
+  Malden, MA 02148
+date: "2019-01-20T20:20:48+00:00"
+email: bmop@bmop.org
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548015467/media/2019/01/Logo-BMOP.jpg
+primary_image_credit: ""
+related_people:
+- content/scene/people/stephen-l-bryant.md
+- content/scene/people/neal-ferreira.md
+- content/scene/people/heather-buck.md
+- content/scene/people/matthew-dibattista.md
+slug: boston-modern-orchestra-project
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/BMOPmusic/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/BMOPmusic
+title: Boston Modern Orchestra Project
+type_of_company: Orchestra
+website: https://www.bmop.org/
+_template: "company_single"
+---
 #### History
 
 The Boston Modern Orchestra Project is widely recognized as the leading orchestra in the United States dedicated exclusively to performing new music, and its signature record label, BMOP/sound, is the nation’s foremost label launched by an orchestra and solely devoted to new music recordings.

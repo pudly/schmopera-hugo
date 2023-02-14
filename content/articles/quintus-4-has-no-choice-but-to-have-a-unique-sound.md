@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-12-17T11:38:00-05:00"
-lastmod = "2017-12-18T12:37:00-05:00"
-preamble = "Dubbed \"a new experiment in old music\", [Quintus 4](https://www.quintus4.com/) is set on  finding a new way to put on a concert. Making up the [ensemble](https://www.quintus4.com/bios/) are soprano [Suzanne Kantorski](/scene/people/suzanne-kantorski/), percussionist Krystina Marcoux, cellist Juan Sebastian Delgado, and pianist and composer [Rich Coburn](/scene/people/rich-coburn/). \n\nWe spoke with Kantorski and Coburn about their newest concert programme, *Tresillo*, and Quintus 4's pursuit of what truly unifies music of all styles and ages:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513610252902/2017-11-30---square---Quintus-4.jpg.jpg"
-primary_image_credit = "(l-r): Suzanne Kantorski, Juan Sebastian Delgado, Krystina Marcoux, Rich Coburn."
-publishDate = "2017-12-18T12:15:00-05:00"
-related_articles = ["articles/the-score-how-to-see-what-a-composer-sees.md","articles/collectif.md"]
-related_people = ["scene/people/suzanne-kantorski.md","scene/people/rich-coburn.md"]
-short_description = "&quot;A themed recital can mean many things, but the program is often not tied together by the actual music. This is a little like taking an architectural tour of houses owned by people with the same surname. It might still be interesting, but it&#039;s not what we&#039;re trying to do.&quot;"
-slug = "quintus-4-has-no-choice-but-to-have-a-unique-sound"
-title = "Quintus 4 &quot;has no choice but to have a unique sound.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-12-17T11:38:00-05:00"
+lastmod: "2017-12-18T12:37:00-05:00"
+preamble: "Dubbed \"a new experiment in old music\", [Quintus 4](https://www.quintus4.com/)
+  is set on  finding a new way to put on a concert. Making up the [ensemble](https://www.quintus4.com/bios/)
+  are soprano [Suzanne Kantorski](/scene/people/suzanne-kantorski/), percussionist
+  Krystina Marcoux, cellist Juan Sebastian Delgado, and pianist and composer [Rich
+  Coburn](/scene/people/rich-coburn/). \n\nWe spoke with Kantorski and Coburn about
+  their newest concert programme, *Tresillo*, and Quintus 4's pursuit of what truly
+  unifies music of all styles and ages:"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513610252902/2017-11-30---square---Quintus-4.jpg.jpg
+primary_image_credit: '(l-r): Suzanne Kantorski, Juan Sebastian Delgado, Krystina
+  Marcoux, Rich Coburn.'
+publishDate: "2017-12-18T12:15:00-05:00"
+related_articles:
+- articles/the-score-how-to-see-what-a-composer-sees.md
+- articles/collectif.md
+related_people:
+- scene/people/suzanne-kantorski.md
+- scene/people/rich-coburn.md
+short_description: '&quot;A themed recital can mean many things, but the program is
+  often not tied together by the actual music. This is a little like taking an architectural
+  tour of houses owned by people with the same surname. It might still be interesting,
+  but it&#039;s not what we&#039;re trying to do.&quot;'
+slug: quintus-4-has-no-choice-but-to-have-a-unique-sound
+title: Quintus 4 &quot;has no choice but to have a unique sound.&quot;
+_template: article_single
+---
 
 ## What's your "elevator pitch" for Quintus 4?
 
@@ -20,7 +36,10 @@ title = "Quintus 4 &quot;has no choice but to have a unique sound.&quot;"
 
 **Rich Coburn**: We're pioneering a new way to create a concert, as well as to share content. We do this by building brand new artistic and business models. Many of the greatest challenges to traditional classical music organizations are actually advantageous to us!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513610525004/2017-11-30---Quintus-4---2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513610525004/2017-11-30---Quintus-4---2.jpg.jpg)
+
 <figcaption>The members of Quintus 4, l-r: Juan Sebastian Delgado, Suzanne Kantorski, Krystina Marcoux, and Rich Coburn.</figcaption>
 </figure>
 
@@ -40,7 +59,10 @@ Our premier program — [*Tresillo*](https://www.quintus4.com/tresillo/) — is 
 
 Consider the massive podcast industry. A big slice of that pie is podcasts about things that we may not even have been interested in before we started the episode. Yet they bring entertainment and often educational value to the consumer. Q4 wants our program notes, blogs and videos, to meet this same standard; they need to be engaging and they need to present a unique perspective or opinion that our public isn't going to find somewhere else. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513610481193/Quintus-headshots.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513610481193/Quintus-headshots.jpg.jpg)
+
 <figcaption>Suzanne Kantorski, soprano, and Rich Coburn, pianist/composer.</figcaption>
 </figure>
 

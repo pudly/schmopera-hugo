@@ -1,13 +1,17 @@
-+++
-date = "2015-05-06T13:52:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-05-06T13:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430934537154/michelle-Square.jpg.jpg"
-publishDate = "2015-05-06T13:52:00-04:00"
-related_companies = ["scene/companies/toronto-operetta-theatre.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/amici-school-of-music.md"]
-slug = "michelle-garlough"
-title = "Michelle Garlough"
-+++
+---
+date: "2015-05-06T13:52:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-05-06T13:52:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430934537154/michelle-Square.jpg.jpg
+publishDate: "2015-05-06T13:52:00-04:00"
+related_companies:
+- scene/companies/toronto-operetta-theatre.md
+- scene/companies/voicebox-opera-in-concert.md
+- scene/companies/amici-school-of-music.md
+slug: michelle-garlough
+title: Michelle Garlough
+_template: "people_single"
+---
 
 An Alberta native, Michelle grew up performing. She spent most of her early school years in dance classes and music lessons. By the time she was thirteen years old, she was singing in a professional children’s choir and seriously studying ballet, voice, and piano. It was during those years that she discovered her love for singing and the stage, and it hasn’t stopped since.
 

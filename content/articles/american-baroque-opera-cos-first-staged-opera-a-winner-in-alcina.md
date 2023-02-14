@@ -1,21 +1,31 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = "2018-03-06T16:29:00-05:00"
-lastmod = "2018-03-06T16:29:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520371471413/sq---Alcina_728_C.jpg.jpg"
-primary_image_credit = "Alcina, American Baroque Opera Co., 2018. Photo: Karen Almond."
-publishDate = "2018-03-06T16:29:00-05:00"
-related_articles = ["articles/he-saidshe-said-alcina-at-opera-atelier.md"]
-related_companies = ["scene/companies/american-baroque-opera-co.md"]
-short_description = "Alcina is definitely a musician&#039;s opera: one goes to it not so much for the story, but for what Handel has entrusted his virtuoso cast to contribute to the plot through great lyric vocalism and expansive lines, with coloratura used quite sparingly, which renders this a difficult piece to make interesting."
-slug = "american-baroque-opera-cos-first-staged-opera-a-winner-in-alcina"
-title = "American Baroque Opera Co.&#039;s first staged opera a winner in Alcina"
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2018-03-06T16:29:00-05:00"
+lastmod: "2018-03-06T16:29:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520371471413/sq---Alcina_728_C.jpg.jpg
+primary_image_credit: 'Alcina, American Baroque Opera Co., 2018. Photo: Karen Almond.'
+publishDate: "2018-03-06T16:29:00-05:00"
+related_articles:
+- articles/he-saidshe-said-alcina-at-opera-atelier.md
+related_companies:
+- scene/companies/american-baroque-opera-co.md
+short_description: 'Alcina is definitely a musician&#039;s opera: one goes to it not
+  so much for the story, but for what Handel has entrusted his virtuoso cast to contribute
+  to the plot through great lyric vocalism and expansive lines, with coloratura used
+  quite sparingly, which renders this a difficult piece to make interesting.'
+slug: american-baroque-opera-cos-first-staged-opera-a-winner-in-alcina
+title: American Baroque Opera Co.&#039;s first staged opera a winner in Alcina
+_template: article_single
+---
 
 This past weekend, the [American Baroque Opera Company](/scene/people/american-baroque-opera-co/) had its first staged operatic performance, for which its previous season concerts were a very pleasing sampler. In presenting George Frideric Handel's *Alcina* this past weekend, they demonstrated a fresh, uncluttered approach to Baroque opera that I have long awaited in this part of the country, one which trusts that all the disparate elements in the production will combine together to form a cohesive whole.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520370206522/Alcina_570_C.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520370206522/Alcina_570_C.jpg.jpg)
+
 <figcaption>*Alcina*, American Baroque Opera Co., 2018. Photo: Karen Almond.</figcaption>
 </figure>
 
@@ -25,7 +35,10 @@ The production at the Arts Mission Oak Cliff, situated in a former Dallas church
 
 Likewise, I felt that this set drew the audience in to actually listening to the music on its own terms, as there was neither need nor space for any extraneous onstage elements. Out of necessity, as there was only one exit close to the stage, the ingenious director, Rebecca Choate Beasley, used the whole space to advantage in a very immersive fashion, taking advantage of every side of the hall for the use of entrances.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520371165997/Alcina_459_C.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520371165997/Alcina_459_C.jpg.jpg)
+
 <figcaption>*Alcina*, American Baroque Opera Co., 2018. Photo: Karen Almond.</figcaption>
 </figure>
 
@@ -33,7 +46,10 @@ In the title role, Krause admirably brought to the forefront the numerous shades
 
 As Ruggiero, Nicholas Garza showed himself capable of a wide variety of expression, necessary for the role to be convincing on anything other than a surface level. It evolved over the evening from a languid role to one filled with youthful, heroic vigor. By the time of "Sta nell'ircana," his big coloratura showpiece, with a pert natural horn solo by Nancy Piper, he radiated an aura of Ruggiero finally being in his true element. And yet, when the veil of illusion was first lifted from him, he still retained his capacity of speaking in agreeably anodyne courtly tones with "Mio bel tesoro," in which he must walk a thin tightrope to convince Alcina that nothing has changed at all, even when delivering his asides to the accompaniment of conspiratorial recorders.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520371177714/Alcina_582_C.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520371177714/Alcina_582_C.jpg.jpg)
+
 <figcaption>*Alcina*, American Baroque Opera Co., 2018. Photo: Karen Almond.</figcaption>
 </figure>
 
@@ -41,7 +57,10 @@ In regard to Jendi Tarde's illuminating portrait of Morgana, I was always keen t
 
 As Oronte, Hughes showed himself likewise superb at giving impulsive, knee-jerk reactions to all the uncontrollable situations going on around him. Though his coloratura could benefit from more precision, his vocal production was nevertheless very expressive, and enabled us to see that he was more than just a military man. Certainly his final aria convincingly made the case for his wanting love to be a lot more genuine and easy to navigate than he has discovered; how universal this felt indeed!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520371186224/Alcina_736_C.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520371186224/Alcina_736_C.jpg.jpg)
+
 <figcaption>*Alcina*, American Baroque Opera Co., 2018. Photo: Karen Almond.</figcaption>
 </figure>
 
@@ -50,7 +69,10 @@ Hannah Ceniseros gave one of the most consistently compelling performances of th
 
 As the boy Oberto, who has no real idea of how to conduct himself in Alcina's artificial surroundings, Leslie Hochman gave a skilled and engaging performance which made the most of this character. Her body gestures were very artificial, this agreeably conveying the image of a fish out of water, appropriate for a show that takes place on an island, with intense energy in her last rage aria.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520371158030/Alcina_311_C.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520371158030/Alcina_311_C.jpg.jpg)
+
 <figcaption>*Alcina*, American Baroque Opera Co., 2018. Photo: Karen Almond.</figcaption>
 </figure>
 

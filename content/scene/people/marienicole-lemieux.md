@@ -1,18 +1,32 @@
-+++
-date = "2017-01-27T11:05:00+00:00"
-discipline = "Contralto"
-lastmod = "2017-01-27T11:07:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485514952585/Intermezzo-portrait-Lemieux-400x500.png.png"
-publishDate = "2017-01-27T11:05:00+00:00"
-related_companies = ["scene/companies/la-monnaie.md","scene/companies/opra-national-de-paris.md","scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/staatsoper-berlin.md","scene/companies/wiener-staatsoper.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/glyndebourne.md","scene/companies/salzburg-festival.md","scene/companies/lopra-de-montral.md","scene/companies/bayerische-staatsoper.md","scene/companies/opernhaus-zurich.md"]
-slug = "marienicole-lemieux"
-title = "Marie-Nicole Lemieux"
-website = "http://www.marienicolelemieux.com/en/home/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/marienicolelemieux"
-+++
+---
+date: "2017-01-27T11:05:00+00:00"
+discipline: Contralto
+lastmod: "2017-01-27T11:07:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485514952585/Intermezzo-portrait-Lemieux-400x500.png.png
+publishDate: "2017-01-27T11:05:00+00:00"
+related_companies:
+- scene/companies/la-monnaie.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/glyndebourne.md
+- scene/companies/salzburg-festival.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opernhaus-zurich.md
+slug: marienicole-lemieux
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/marienicolelemieux
+title: Marie-Nicole Lemieux
+website: http://www.marienicolelemieux.com/en/home/
+_template: "people_single"
+---
 
 It is no wonder that Marie-Nicole Lemieux shines today in the world of singing: the singer like the woman radiates an aura that belongs only to the greatest.
 

@@ -1,22 +1,51 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2019-10-15T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "If you have a true story of sexual harassment, abuse, or assault within the opera and classical music industries, you can send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com)."
-preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld at the author's request."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571941754/media/2019/10/TheStories12-resized_jf93gp.jpg"
-primary_image_credit = ""
-related_articles = ["articles/thestories-part-15.md", "articles/thestories-part-14.md", "articles/thestories-part-13.md", "articles/thestories-part-10-1.md", "articles/thestories-part-10-2.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/metoo-intro.md"]
-related_companies = []
-related_people = []
-short_description = "At one point, I tried to express how uncomfortable I was, my teacher told me that I was an adult and I could have left at any time. I was 20. On my way back home, my teacher's husband told me that they had decided to increase John's paycheque for all of the extra work he had put in. "
-slug = "thestories-part-12"
-title = "#TheStories, part 12"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Editorial
+date: '2019-10-15T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  If you have a true story of sexual harassment, abuse, or assault within the
+  opera and classical music industries, you can send it to me at
+  [jenna@schmopera.com](mailto:jenna@schmopera.com).
+preamble: >-
+  This is one part in a series of personal accounts of harassment, abuse, and
+  assault in the opera and classical music industries. These stories are
+  published as told to me, with some names and details withheld at the author's
+  request.
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1571941754/media/2019/10/TheStories12-resized_jf93gp.jpg
+primary_image_credit: ''
+related_articles:
+  - articles/thestories-part-15.md
+  - articles/thestories-part-14.md
+  - articles/thestories-part-13.md
+  - articles/thestories-part-10-1.md
+  - articles/thestories-part-10-2.md
+  - articles/thestories-part-9.md
+  - articles/thestories-part-8.md
+  - articles/thestories-part-10.md
+  - articles/thestories-part-6.md
+  - articles/thestories-part-5.md
+  - articles/thestories-part-4.md
+  - articles/thestories-part-3.md
+  - articles/thestories-part-2.md
+  - articles/thestories-part-i.md
+  - articles/metoo-intro.md
+related_companies: []
+related_people: []
+short_description: >-
+  At one point, I tried to express how uncomfortable I was, my teacher told me
+  that I was an adult and I could have left at any time. I was 20. On my way
+  back home, my teacher's husband told me that they had decided to increase
+  John's paycheque for all of the extra work he had put in. 
+slug: thestories-part-12
+title: '#TheStories, part 12'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 In the second year of my undergraduate degree I decided to take part in a two-week vocal intensive run by my voice teacher and her husband, both opera singers teaching at different universities. The intensive was run out of their large summer home in New York State and involved mostly lessons with the both of them (along with a few guest artists) and sessions with the coach they had hired for the week, John.*
 
 John was certainly a character – he was open and sad and dynamic. He made quick, broad generalizations about all of us in the program, often incorrect. John had taken a liking to my singing (or so I had thought) and appreciated my wit. He would slip in compliments about my work or my song choices in front of the rest of the girls in the program.

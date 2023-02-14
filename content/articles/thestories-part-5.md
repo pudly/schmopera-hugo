@@ -1,22 +1,53 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2019-09-24T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "If you have a true story of harassment, abuse, or assault within the opera and classical music industries, and you want to talk about it, send it my way at [jenna@schmopera.com](mailto:jenna@schmopera.com)."
-preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld or changed at the author's request."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571942266/media/2019/10/TheStories6-resized_jie50l.jpg"
-primary_image_credit = ""
-related_articles = ["articles/thestories-part-15.md", "articles/thestories-part-14.md", "articles/thestories-part-13.md", "articles/thestories-part-12.md", "articles/thestories-part-10-1.md", "articles/thestories-part-10-2.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/metoo-intro.md"]
-related_companies = []
-related_people = []
-short_description = "\"Later that day, he sent me an email, in which he again referenced my 'innocence and negativity', and once again attempted to coerce me to meet with him alone at his home. I responded to this email with a reply, in which I clearly laid out my boundaries, and made requests for the parameters of our professional relationship going forward.\""
-slug = "thestories-part-5"
-title = "#TheStories, part 5"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Editorial
+date: '2019-09-24T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  If you have a true story of harassment, abuse, or assault within the opera and
+  classical music industries, and you want to talk about it, send it my way at
+  [jenna@schmopera.com](mailto:jenna@schmopera.com).
+preamble: >-
+  This is one part in a series of personal accounts of harassment, abuse, and
+  assault in the opera and classical music industries. These stories are
+  published as told to me, with some names and details withheld or changed at
+  the author's request.
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1571942266/media/2019/10/TheStories6-resized_jie50l.jpg
+primary_image_credit: ''
+related_articles:
+  - articles/thestories-part-15.md
+  - articles/thestories-part-14.md
+  - articles/thestories-part-13.md
+  - articles/thestories-part-12.md
+  - articles/thestories-part-10-1.md
+  - articles/thestories-part-10-2.md
+  - articles/thestories-part-9.md
+  - articles/thestories-part-8.md
+  - articles/thestories-part-10.md
+  - articles/thestories-part-6.md
+  - articles/thestories-part-5.md
+  - articles/thestories-part-4.md
+  - articles/thestories-part-3.md
+  - articles/thestories-part-2.md
+  - articles/thestories-part-i.md
+  - articles/metoo-intro.md
+related_companies: []
+related_people: []
+short_description: >-
+  "Later that day, he sent me an email, in which he again referenced my
+  'innocence and negativity', and once again attempted to coerce me to meet with
+  him alone at his home. I responded to this email with a reply, in which I
+  clearly laid out my boundaries, and made requests for the parameters of our
+  professional relationship going forward."
+slug: thestories-part-5
+title: '#TheStories, part 5'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 Since I first met him during an audition for a Canadian opera company (during which he cupped his hand around the back of my neck, unwelcomed), until he ultimately fired me from my duties as a member of a church choir, a prominent figure in the opera and concert scenes frequently sexually harassed me.
 
 Because he alone has unilateral power over hiring and firing choir members, I felt myself in constant need of circumnavigating his sexual advances such that he wasn't too upset to fire me, but also such that his advanced not develop into an actual sexual encounter.

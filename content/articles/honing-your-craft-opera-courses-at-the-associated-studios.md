@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-11-17T14:37:00+00:00"
-lastmod = "2016-11-23T12:07:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479394089701/2016-11-16---School.jpg.jpg"
-publishDate = "2016-11-23T12:07:00+00:00"
-related_articles = ["articles/5-tips-for-university-auditionees.md","articles/music-school-auditions-4-tips-for-parents.md"]
-short_description = "If you&#039;re interested in training that&#039;s focused, yet flexible, have a look through the courses offered by Associate Studios. They audition on a rolling basis, with the next confirmed dates on November 30 and December 15, 2016. Click here to find out more about their Opera Courses, and to apply online."
-slug = "honing-your-craft-opera-courses-at-the-associated-studios"
-title = "Honing your craft: opera courses at The Associated Studios"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-11-17T14:37:00+00:00"
+lastmod: "2016-11-23T12:07:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479394089701/2016-11-16---School.jpg.jpg
+publishDate: "2016-11-23T12:07:00+00:00"
+related_articles:
+- articles/5-tips-for-university-auditionees.md
+- articles/music-school-auditions-4-tips-for-parents.md
+short_description: If you&#039;re interested in training that&#039;s focused, yet
+  flexible, have a look through the courses offered by Associate Studios. They audition
+  on a rolling basis, with the next confirmed dates on November 30 and December 15,
+  2016. Click here to find out more about their Opera Courses, and to apply online.
+slug: honing-your-craft-opera-courses-at-the-associated-studios
+title: 'Honing your craft: opera courses at The Associated Studios'
+_template: article_single
+---
 
 The [Associated Studios](http://www.associatedstudios.co.uk/about/), one of Britain's leading academies for the study of opera, music theatre, and acting, is soon auditioning for both its upcoming 8-week and 4-month [Opera Courses](http://www.associatedstudios.co.uk/courses/opera-courses/).
 

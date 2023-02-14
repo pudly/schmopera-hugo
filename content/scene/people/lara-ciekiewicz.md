@@ -1,15 +1,24 @@
-+++
-date = "2016-03-05T10:59:00+00:00"
-discipline = "Soprano"
-lastmod = "2016-03-05T12:01:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457175460800/Lara---Square.jpg.jpg"
-primary_image_credit = "Rebecca Shroeder."
-publishDate = "2016-03-05T10:59:00+00:00"
-related_companies = ["scene/companies/the-banff-centre.md", "scene/companies/lopra-de-montral.md", "scene/companies/latelier-lyrique-de-lopra-de-montral.md", "scene/companies/manitoba-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/merola-opera-program.md", "scene/companies/opera-nuova.md", "scene/companies/toronto-operetta-theatre.md", "scene/companies/voicebox-opera-in-concert.md"]
-slug = "lara-ciekiewicz"
-title = "Lara Ciekiewicz"
-
-+++
+---
+date: "2016-03-05T10:59:00+00:00"
+discipline: Soprano
+lastmod: "2016-03-05T12:01:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457175460800/Lara---Square.jpg.jpg
+primary_image_credit: Rebecca Shroeder.
+publishDate: "2016-03-05T10:59:00+00:00"
+related_companies:
+- scene/companies/the-banff-centre.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/latelier-lyrique-de-lopra-de-montral.md
+- scene/companies/manitoba-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/merola-opera-program.md
+- scene/companies/opera-nuova.md
+- scene/companies/toronto-operetta-theatre.md
+- scene/companies/voicebox-opera-in-concert.md
+slug: lara-ciekiewicz
+title: Lara Ciekiewicz
+_template: "people_single"
+---
 Hailed for her “tour-de-force performance” (_Winnipeg Free Press_) in the title role of Manitoba Opera’s _Susannah_, Lara has established herself as a dynamic, intelligent, and moving singing-actress. Her facility for fully transforming into a character, regardless of genre, has earned her the reputation of being an artistic chameleon.
 
 In addition to the title role in Manitoba Opera’s _Susannah,_ the 2019-20 season saw Lara as Lauretta (_Gianni Schicchi_) and Suor Genovieffa (_Suor Angelica_) for Pacific Opera Victoria’s _Il Trittico_, as a soloist for the Victoria Symphony’s _Messiah,_ and make her Edmonton Opera debut as the Countess (_Le nozze di Figaro_).

@@ -1,23 +1,36 @@
-+++
-date = "2017-09-15T14:10:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-09-15T14:10:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505498701558/Cook-hi-res-copy1.jpg.jpg"
-primary_image_credit = "Arielle Doneson"
-publishDate = "2017-09-15T14:10:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/florida-grand-opera.md","scene/companies/palm-beach-opera.md","scene/companies/la-monnaie.md","scene/companies/minnesota-opera.md","scene/companies/berkshire-opera-festival.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/utah-opera.md","scene/companies/san-diego-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/washington-national-opera.md"]
-slug = "troy-cook"
-title = "Troy Cook"
-website = "https://www.troycookbaritone.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/troy.cook.75"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/baritroy"
-+++
+---
+date: "2017-09-15T14:10:00-04:00"
+discipline: Baritone
+lastmod: "2017-09-15T14:10:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505498701558/Cook-hi-res-copy1.jpg.jpg
+primary_image_credit: Arielle Doneson
+publishDate: "2017-09-15T14:10:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/palm-beach-opera.md
+- scene/companies/la-monnaie.md
+- scene/companies/minnesota-opera.md
+- scene/companies/berkshire-opera-festival.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/utah-opera.md
+- scene/companies/san-diego-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/washington-national-opera.md
+slug: troy-cook
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/troy.cook.75
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/baritroy
+title: Troy Cook
+website: https://www.troycookbaritone.com/
+_template: "people_single"
+---
 
 American baritone Troy Cook made notable debuts in past seasons as Ford in Hamburgische Staatsoper’s *Falstaff*, following his debut with the company as Marcello in *La bohème*, and with the Royal Opera, Covent Garden as Guglielmo in *Così fan tutte*.
 

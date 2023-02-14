@@ -1,23 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-04-16T10:48:00-04:00"
-lastmod = "2015-04-23T22:30:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842444037/AshRosesAlbum.png"
-publishDate = "2014-04-16T10:48:00-04:00"
-related_articles = ["articles/phillip-addis-emily-hamper-the-pilgrim-soul.md","articles/album-review-cloud-light.md"]
-related_companies = ["scene/companies/canadian-art-song-project.md"]
-related_people = ["scene/people/lawrence-wiliford.md","scene/people/mireille-asselin.md","scene/people/liz-upchurch.md","scene/people/steven-philcox.md"]
-short_description = "Ash Roses is the first CD released by the Canadian Art Song Project (CASP), and it features the music of composer Derek Holman. I&#039;m not personally familiar with Holman&#039;s work, but I caught some at the CASP recital in the Richard Bradshaw Amphitheatre a few weeks ago, and I distinctly remember liking it."
-slug = "in-review-ash-roses"
-title = "In review: Ash Roses"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-04-16T10:48:00-04:00"
+lastmod: "2015-04-23T22:30:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842444037/AshRosesAlbum.png
+publishDate: "2014-04-16T10:48:00-04:00"
+related_articles:
+- articles/phillip-addis-emily-hamper-the-pilgrim-soul.md
+- articles/album-review-cloud-light.md
+related_companies:
+- scene/companies/canadian-art-song-project.md
+related_people:
+- scene/people/lawrence-wiliford.md
+- scene/people/mireille-asselin.md
+- scene/people/liz-upchurch.md
+- scene/people/steven-philcox.md
+short_description: Ash Roses is the first CD released by the Canadian Art Song Project
+  (CASP), and it features the music of composer Derek Holman. I&#039;m not personally
+  familiar with Holman&#039;s work, but I caught some at the CASP recital in the Richard
+  Bradshaw Amphitheatre a few weeks ago, and I distinctly remember liking it.
+slug: in-review-ash-roses
+title: 'In review: Ash Roses'
+_template: article_single
+---
 
 _Ash Roses_ is the first CD released by the [Canadian Art Song Project](http://www.canadianartsongproject.ca/) (CASP), and it features the music of composer [Derek Holman](http://www.musiccentre.ca/node/37210/biography). I'm not personally familiar with Holman's work, but I caught some at the CASP recital in the [Richard Bradshaw Amphitheatre](http://www.coc.ca/performancesandtickets/freeconcertseries.aspx) a few weeks ago, and I distinctly remember liking it. The album features Canadian singers [Mireille Asselin](http://www.mireilleasselin.com/) and [Lawrence Wiliford](http://www.lawrencewiliford.com/), co-founder of the Canadian Art Song Project (with Steven Philcox), with pianist [Liz Upchurch](http://www.standrewsartscouncil.nb.ca/faculty/lizupchurch.htm) and harpist Sanya Eng.
 
 The first set, _The Four Seasons_ was commissioned by the [Canadian Opera Company](http://www.coc.ca/) in memory of Richard Bradshaw; Lawrence Wiliford and Liz Upchurch premiered it in 2009 at the Richard Bradshaw Amphitheatre. The cycle uses texts by cornerstone English poets like Shakespeare, Hardy, and Tennyson, and the poems are ordered by season, starting with winter and ending with autumn. Says Holman in his program notes, it was "an echo of Richard's strength and optimism: 'If winter comes, can spring be far behind?'"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842539150/Lawrence.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842539150/Lawrence.jpg.jpg)
+
 <figcaption>Tenor Lawrence Wiliford.</figcaption>
 </figure>
 
@@ -27,7 +42,10 @@ Lawrence sounds beautifully clear, just like he's speaking, risking plenty to gi
 
 The title set, _Ash Roses_, is sung by Canadian soprano Mireille Asselin, with Liz Upchurch again at the piano. The set was premiered in 1995 at the University of Toronto by [Karina Gauvin](http://karinagauvin.com/) and [Michael McMahon](http://www.mcgill.ca/music/about-us/bio/michael-mcmahon). The texts are by Canadian poet Tricia Postle, who was a U of T student at the time Derek Holman was starting to write a song cycle for Gauvin. The songs are brilliant, almost schizophrenic, and definitely funny when they should be. I spent the whole set saying to myself, "No, I think _this_ is my favourite." "Maze" is about finding one's way, and I actually found it sort of sexy. "Sweet Breath at Night" is a bit of black comedy, about the possibility of panthers being in one's bedroom (and the possibility of senility). The word-painting in this song was so obvious it was brilliant. In this song, Liz proved she's a chameleon at the keys, and Mireille got to show off her fiery coloratura and enormous palate of colour. She also sang my favourite out-of-context line of the album: "Drinking from the toilet bowl."Out of the six songs, however, "Arabesque" stood out for me. It's an exquisitely built poem, using old devices like threefold repetition and an ever-growing refrain. Holman sets it in no hurry, lingering over these words exactly as I needed. Mireille's singing is just _beautiful._
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842591174/Mireille-816x1024.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842591174/Mireille-816x1024.jpg.jpg)
+
 <figcaption>Soprano Mireille Asselin.</figcaption>
 </figure>
 

@@ -1,23 +1,40 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2017-10-02T13:14:00-04:00"
-lastmod = "2017-10-03T13:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506964659791/2017-10-02---Minneapolis.jpg.jpg"
-publishDate = "2017-10-03T13:11:00-04:00"
-related_articles = ["articles/michael-christie-new-opera-that-the-box-office-loves.md","articles/silent-night-ages-well-in-minnesota-revival.md"]
-related_companies = ["scene/companies/minnesota-opera.md"]
-related_people = ["scene/people/karin-wolverton.md","scene/people/mary-evelyn-hangley.md","scene/people/andres-acosta.md","scene/people/nadia-fayad.md","scene/people/andrew-wilkowske.md"]
-short_description = "A company well-known for their journeys into new music and non standard repertoire, this concert was a refreshing take on the typical opera company showcase. The spirit of bringing new works to life was certainly felt at this performance, and I hope The Minnesota Opera will continue to grow in their mission for years to come!"
-slug = "55-years-of-minnesota-opera-a-gala-celebration"
-title = "55 years of Minnesota Opera: a gala celebration"
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2017-10-02T13:14:00-04:00"
+lastmod: "2017-10-03T13:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506964659791/2017-10-02---Minneapolis.jpg.jpg
+publishDate: "2017-10-03T13:11:00-04:00"
+related_articles:
+- articles/michael-christie-new-opera-that-the-box-office-loves.md
+- articles/silent-night-ages-well-in-minnesota-revival.md
+related_companies:
+- scene/companies/minnesota-opera.md
+related_people:
+- scene/people/karin-wolverton.md
+- scene/people/mary-evelyn-hangley.md
+- scene/people/andres-acosta.md
+- scene/people/nadia-fayad.md
+- scene/people/andrew-wilkowske.md
+short_description: A company well-known for their journeys into new music and non
+  standard repertoire, this concert was a refreshing take on the typical opera company
+  showcase. The spirit of bringing new works to life was certainly felt at this performance,
+  and I hope The Minnesota Opera will continue to grow in their mission for years
+  to come!
+slug: 55-years-of-minnesota-opera-a-gala-celebration
+title: '55 years of Minnesota Opera: a gala celebration'
+_template: article_single
+---
 
 To kick off their 55th Anniversary season, [Minnesota Opera](/scene/companies/minnesota-opera/) hosted a [free concert](http://www.mnopera.org/event/55th-anniversary-celebration/) of highlights from their upcoming season at The Ordway Center for the Performing Arts. Artistic director Dale Johnson was the MC for the event. The program started off with a homage to Dominick Argento, who was in the audience celebrating his 90th birthday, with performances of one of his song cycles *Miss Manners on Music* (a satire of the newspaper column title "Miss Manners"). Mr. Argento's presence was even more poignant at this event given that he was the co-founder of the Center City Opera (that later merged with The Opera Company of St. Paul to become Minnesota Opera). The surprising highlight of the afternoon was the world premiere of [Jack Torrance](/brian-mulligan-singing-jack-torrance/)'s aria for Paul Moravec's* The Shining*.
 
 Minnesota Opera also featured their [Project Opera](http://www.mnopera.org/learn/for-kids/project-opera/). participants in a chorus from the children's opera *Odyssey* by Ben Moore. A unique initiative by the company, goes by the philosophy of "opera for kids, by kids" educates the opera singers and patrons of tomorrow. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506964263775/2017-10-02---_DSF2838-cast-Lores.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506964263775/2017-10-02---_DSF2838-cast-Lores.jpg.jpg)
+
 <figcaption>The artists of the Minnesota Opera's 55th Anniversary Celebration concert. Photo: CJ Standish.</figcaption>
 </figure>
 

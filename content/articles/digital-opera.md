@@ -1,22 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-Ed"
-date = 2020-05-01T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1588364805/media/2020/05/sqApplesOranges_tc6qar.jpg"
-primary_image_credit = ""
-related_articles = ["articles/talking-with-conductors-michael-christie.md", "articles/opera-and-scifi-the-puritan-intersection.md", "articles/covid.md"]
-related_companies = ["scene/companies/minnesota-opera.md", "scene/companies/opera-philadelphia.md", "scene/companies/beth-morrison-projects.md", "scene/companies/los-angeles-opera.md", "scene/companies/the-metropolitan-opera.md"]
-related_people = []
-short_description = "It's the kind of thing I imagined would happen within the performing arts - yes, even opera. True, the opera world isn't known for making sudden movements, but there are certainly minds in the industry who are staunchly forward-thinking; those people are experiencing some serious inspiration right now."
-slug = "digital-opera-growing-pains-critics-picks"
-title = "Digital opera, growing pains, & critic's picks"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Op-Ed
+date: '2020-05-01T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1588364805/media/2020/05/sqApplesOranges_tc6qar.jpg
+primary_image_credit: ''
+related_articles:
+  - articles/talking-with-conductors-michael-christie.md
+  - articles/opera-and-scifi-the-puritan-intersection.md
+  - articles/covid.md
+related_companies:
+  - scene/companies/minnesota-opera.md
+  - scene/companies/opera-philadelphia.md
+  - scene/companies/beth-morrison-projects.md
+  - scene/companies/los-angeles-opera.md
+  - scene/companies/the-metropolitan-opera.md
+related_people: []
+short_description: >-
+  It's the kind of thing I imagined would happen within the performing arts -
+  yes, even opera. True, the opera world isn't known for making sudden
+  movements, but there are certainly minds in the industry who are staunchly
+  forward-thinking; those people are experiencing some serious inspiration right
+  now.
+slug: digital-opera-growing-pains-critics-picks
+title: 'Digital opera, growing pains, & critic''s picks'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 I set out to write about good stuff to watch in this new age of virtual opera. I can still offer some picks, which I'll do shortly. But in my scouring of the internet for all the streaming opera and archival videos that we can currently watch - almost entirely for free, as a not-terrible consolation prize for being stuck in our homes indefinitely - I got more excited by a press release I got from [IN Series](http://www.inseries.org/), the innovative opera theater company based in Washington, D.C.
 
 IN Series has turned their upcoming season entirely virtual. As in, a proper season: a line-up of shows (which in this case includes twelve premieres), a Virtual Opera House to showcase all of IN Series' content, a subscription ticket model, and a roster of guest artists to keep things exciting. They're modeling their virtual format on that of the major streaming services, rolling out a varied and frequent output of short and feature-length films, episodic series, and radio play-style audio.

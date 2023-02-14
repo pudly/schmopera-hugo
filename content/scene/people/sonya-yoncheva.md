@@ -1,32 +1,35 @@
-+++
-date = "2015-09-29T16:29:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-09-29T16:29:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1649423449/media/2022/04/2021-05-23-Sonia-Yoncheva5291-scaled_umuncm.jpg"
-primary_image_credit = "Photo: Gregor Hohenberg / SonyClassical"
-publishDate = "2015-09-29T16:29:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/opra-national-de-paris.md", "scene/companies/staatsoper-berlin.md", "scene/companies/royal-opera-house.md", "scene/companies/wiener-staatsoper.md"]
-slug = "sonya-yoncheva"
-title = "Sonya Yoncheva"
-website = "https://sonyayoncheva.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/sonyayonchevaofficial"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/sonyayoncheva"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/sonyayoncheva/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/TheShlupy"
-
-+++
+---
+date: "2015-09-29T16:29:00-04:00"
+discipline: Soprano
+lastmod: "2015-09-29T16:29:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1649423449/media/2022/04/2021-05-23-Sonia-Yoncheva5291-scaled_umuncm.jpg
+primary_image_credit: 'Photo: Gregor Hohenberg / SonyClassical'
+publishDate: "2015-09-29T16:29:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/royal-opera-house.md
+- scene/companies/wiener-staatsoper.md
+slug: sonya-yoncheva
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/sonyayonchevaofficial
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/sonyayoncheva
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/sonyayoncheva/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/user/TheShlupy
+title: Sonya Yoncheva
+website: https://sonyayoncheva.com/
+_template: "people_single"
+---
 Superstar soprano Sonya Yoncheva has been heralded as one of the most acclaimed and exciting performers of her generation.
 
 The recipient of the 2021 Opus Klassik as Singer of the Year has become an acclaimed fixture on the most important stages of the world, including the Metropolitan Opera, Royal Opera House, Teatro alla Scala, Bayerische Staatsoper, Berlin State Opera, Wiener Staatsoper, and the Opéra de Paris. Her unforgettable portrayals of iconic roles have received tremendous acclaim from critics and audiences alike.

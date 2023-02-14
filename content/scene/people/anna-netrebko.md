@@ -1,23 +1,31 @@
-+++
-date = "2015-04-06T21:52:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-06T21:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428371404357/AnnaNetrebko-pc-Ruven-Afanador-16.jpg.jpg"
-primary_image_credit = "Ruven Afanador"
-publishDate = "2015-04-06T21:52:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/san-francisco-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/wiener-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/opernhaus-zurich.md"]
-slug = "anna-netrebko"
-title = "Anna Netrebko"
-website = "http://www.annanetrebko.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Anna-Netrebko/105861839447290"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/AnnaNetrebko"
-+++
+---
+date: "2015-04-06T21:52:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-06T21:52:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428371404357/AnnaNetrebko-pc-Ruven-Afanador-16.jpg.jpg
+primary_image_credit: Ruven Afanador
+publishDate: "2015-04-06T21:52:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/royal-opera-house.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/opernhaus-zurich.md
+slug: anna-netrebko
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/pages/Anna-Netrebko/105861839447290
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/AnnaNetrebko
+title: Anna Netrebko
+website: http://www.annanetrebko.com/
+_template: "people_single"
+---
 
 <p>
 	Anna Netrebko has redefined what it means to be an opera star and in the process she has become one of the most acclaimed and widely-recognized classical singers in the world today. Regularly headlining productions at virtually every leading opera house across the globe, the Russian soprano has been hailed by the <em>Associated Press</em> as "the reigning new diva of the early 21st century." In 2007 she became the first classical musician to be selected as one of the <em>Time </em>100, <em>Time</em> magazine's list of the most influential people in the world. Her beautiful, dark, distinctive voice and her elegant and alluring stage presence have prompted critics to describe her as "Audrey Hepburn with a voice" and "a singer who simply has it all: a voice of astounding purity, precision, and scope, extensive dynamic and tonal range, imagination, insight, and wit—all combined with a dazzling charisma that makes it all but impossible to look away when she is performing" (<em>San Francisco Chronicle</em>).

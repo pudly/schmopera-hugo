@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-06-27T20:50:00-06:00"
-lastmod = "2017-06-28T21:49:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498621506836/2017-06-27---Sick.jpg.jpg"
-publishDate = "2017-06-28T21:23:00-06:00"
-related_articles = ["articles/when-singers-call-in-sick.md","articles/in-defence-of-singers.md"]
-short_description = "Singers, if you show up to a coaching or a rehearsal and you feel the urge to tell your coach or conductor that you&#039;re under the weather, ask yourself this: what do you expect will be the outcome of your volunteering this information?"
-slug = "sick-singers-when-its-best-to-shut-up-about-it"
-title = "Sick singers &amp; when it&#039;s best to shut up about it"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-06-27T20:50:00-06:00"
+lastmod: "2017-06-28T21:49:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498621506836/2017-06-27---Sick.jpg.jpg
+publishDate: "2017-06-28T21:23:00-06:00"
+related_articles:
+- articles/when-singers-call-in-sick.md
+- articles/in-defence-of-singers.md
+short_description: 'Singers, if you show up to a coaching or a rehearsal and you feel
+  the urge to tell your coach or conductor that you&#039;re under the weather, ask
+  yourself this: what do you expect will be the outcome of your volunteering this
+  information?'
+slug: sick-singers-when-its-best-to-shut-up-about-it
+title: Sick singers &amp; when it&#039;s best to shut up about it
+_template: article_single
+---
 
 If there's anything I can say about opera singers, it's this: I've never, not once, envied their jobs.
 

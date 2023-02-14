@@ -1,31 +1,31 @@
-+++
-date = "2015-04-11T05:17:00+02:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-08-27T11:08:00+02:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1440612467652/ChristinaCampsall-pc-EmilyDing.jpg.jpg"
-primary_image_credit = "Emily Ding Photography"
-publishDate = "2015-04-11T05:17:00+02:00"
-related_companies = ["scene/companies/royal-conservatory-of-music.md","scene/companies/voicebox-opera-in-concert.md"]
-slug = "christina-campsall"
-title = "Christina Campsall"
-website = "https://about.me/christina_campsall"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/christinacampsallmezzosoprano?fref=photo"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/chriscampsall"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://instagram.com/chriscampsall/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCVOUFXqBXBXhyiGPo93-6Rw"
-+++
+---
+date: "2015-04-11T05:17:00+02:00"
+discipline: Mezzo-soprano
+lastmod: "2015-08-27T11:08:00+02:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1440612467652/ChristinaCampsall-pc-EmilyDing.jpg.jpg
+primary_image_credit: Emily Ding Photography
+publishDate: "2015-04-11T05:17:00+02:00"
+related_companies:
+- scene/companies/royal-conservatory-of-music.md
+- scene/companies/voicebox-opera-in-concert.md
+slug: christina-campsall
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/christinacampsallmezzosoprano?fref=photo
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/chriscampsall
+- platform: Instagram
+  _template: social_media
+  url: https://instagram.com/chriscampsall/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCVOUFXqBXBXhyiGPo93-6Rw
+title: Christina Campsall
+website: https://about.me/christina_campsall
+_template: "people_single"
+---
 
 Canadian mezzo-soprano, Christina Campsall, has been praised for her "rich low mezzo" (Musical Toronto) and "beautifully bright and metallic top" (Schmopera). *Opera Canada* declared, "The standout was Christina Campsall's Hélène. She combined a beautiful, dark-toned mezzo with great acting and movement skills to create a Hélène who was credible as 'the most beautiful woman in the world'" after her performance as the title role in The Glenn School's production of *La belle Héléne*.
 

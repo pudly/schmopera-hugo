@@ -1,19 +1,22 @@
-+++
-date = "2016-08-19T10:32:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-08-19T10:32:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471599087281/2016-08-19---Benjamin-Hulett_Hans_Lebbe.jpg.jpg"
-primary_image_credit = "Hans Lebbe"
-publishDate = "2016-08-19T10:32:00+01:00"
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md"]
-slug = "benjamin-hulett"
-title = "Benjamin Hulett"
-website = "http://www.benjaminhulett.com/index.php"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ben_hulett"
-+++
+---
+date: "2016-08-19T10:32:00+01:00"
+discipline: Tenor
+lastmod: "2016-08-19T10:32:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471599087281/2016-08-19---Benjamin-Hulett_Hans_Lebbe.jpg.jpg
+primary_image_credit: Hans Lebbe
+publishDate: "2016-08-19T10:32:00+01:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/royal-opera-house.md
+slug: benjamin-hulett
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/ben_hulett
+title: Benjamin Hulett
+website: http://www.benjaminhulett.com/index.php
+_template: "people_single"
+---
 
 Since leaving Oxford University, where he was a choral scholar at New College with a degree in music, Benjamin Hulett has worked with many of Britain's leading choirs and orchestras. He is much in demand as an interpreter of music across a wide range of genres and has been hailed by the national press as one of the most promising young tenors of today. 
 

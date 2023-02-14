@@ -1,16 +1,23 @@
-+++
-author = ["authors/jeremiah-sanders.md"]
-categories = "Op-ed"
-date = "2016-08-31T08:08:00-04:00"
-lastmod = "2017-08-14T09:10:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472718492970/2016-09-01---Jeremiah-Square.jpg.jpg"
-primary_image_credit = "Jeremiah Sanders, baritone. Photo by Dean Williams, Thrive Photography."
-publishDate = "2016-09-01T08:47:00-04:00"
-related_articles = ["articles/bodyshaming-productselling-knowing-the-difference.md"]
-short_description = "What I do know is I have questions that I hope we all can start to ask ourselves: Where does this critical conversation fit in this profession? What happens when superficial beauty standards discriminate gifted singers out of the business? Is there a way to have a body positive mindset and approach in this industry?"
-slug = "fat-phobia-in-opera-its-a-thing"
-title = "Fat phobia in opera? It&#039;s a thing"
-+++
+---
+author:
+- authors/jeremiah-sanders.md
+categories: Op-ed
+date: "2016-08-31T08:08:00-04:00"
+lastmod: "2017-08-14T09:10:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472718492970/2016-09-01---Jeremiah-Square.jpg.jpg
+primary_image_credit: Jeremiah Sanders, baritone. Photo by Dean Williams, Thrive Photography.
+publishDate: "2016-09-01T08:47:00-04:00"
+related_articles:
+- articles/bodyshaming-productselling-knowing-the-difference.md
+short_description: 'What I do know is I have questions that I hope we all can start
+  to ask ourselves: Where does this critical conversation fit in this profession?
+  What happens when superficial beauty standards discriminate gifted singers out of
+  the business? Is there a way to have a body positive mindset and approach in this
+  industry?'
+slug: fat-phobia-in-opera-its-a-thing
+title: Fat phobia in opera? It&#039;s a thing
+_template: article_single
+---
 
 Opera requires imagination. If that's true, why is it that people can still inflict a lens of "reality" on an art form entirely based on stretching that very concept? 
 

@@ -1,17 +1,26 @@
-+++
-author = ["authors/tracy-monaghan.md"]
-categories = "Review"
-date = "2016-11-15T13:21:00+00:00"
-lastmod = "2016-11-15T15:42:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479218221951/2016-11-16---Square-GDDuo.jpg.jpg"
-primary_image_credit = "Photo courtesy of Nashville Opera."
-publishDate = "2016-11-15T15:42:00+00:00"
-related_articles = ["articles/an-extended-mad-scene-glory-denied.md"]
-related_companies = ["scene/companies/nashville-opera.md"]
-short_description = "The work questions the perspective of emotional trauma, and whose is the most devastating? Is it enduring a prison camp for years only to return to an unrecognizable life? Is it enduring a different kind of prison-like solitude, guilt when one&#039;s life&#039;s work isn&#039;t enough? Nashville Opera&#039;s production of Glory Denied, fittingly opened on Veterans&#039; Day, is now one of only five or six full productions of the opera."
-slug = "in-review-glory-denied"
-title = "In review: Glory Denied"
-+++
+---
+author:
+- authors/tracy-monaghan.md
+categories: Review
+date: "2016-11-15T13:21:00+00:00"
+lastmod: "2016-11-15T15:42:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479218221951/2016-11-16---Square-GDDuo.jpg.jpg
+primary_image_credit: Photo courtesy of Nashville Opera.
+publishDate: "2016-11-15T15:42:00+00:00"
+related_articles:
+- articles/an-extended-mad-scene-glory-denied.md
+related_companies:
+- scene/companies/nashville-opera.md
+short_description: The work questions the perspective of emotional trauma, and whose
+  is the most devastating? Is it enduring a prison camp for years only to return to
+  an unrecognizable life? Is it enduring a different kind of prison-like solitude,
+  guilt when one&#039;s life&#039;s work isn&#039;t enough? Nashville Opera&#039;s
+  production of Glory Denied, fittingly opened on Veterans&#039; Day, is now one of
+  only five or six full productions of the opera.
+slug: in-review-glory-denied
+title: 'In review: Glory Denied'
+_template: article_single
+---
 
 "May the faith and hope that have sustained you in the past continue in the days that follow."
 
@@ -21,7 +30,10 @@ And I think, when feeling such strong things, it’s easy to forget that devasta
 
 Some background: *Glory Denied*, written in 2007, is an opera based on the oral history (written by journalist Tom Philpott) of Vietnam veteran Colonel Jim Thompson, the United States' longest-held prisoner of war, and the family to which he returns after his release from captivity. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479218976117/2016-11-16---DGCast.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479218976117/2016-11-16---DGCast.jpg.jpg)
+
 <figcaption>Photo courtesy of Nashville Opera.</figcaption>
 </figure>
 
@@ -36,7 +48,10 @@ Dr. Neuville, who had the difficult task of crawling/reacting to physical pain/b
 
 We are lucky to have a singer with so clear a vocal affinity to new music as Rebecca Sjöwall. Her voice just takes to it so easily, I forget she’s singing. That's not just because of her several patter passages in *Glory Denied*, but the natural ease in her vocal precision and her voice' richness give a relatable life to the character. She made me feel for Alyce in a way that the set-up of the narrative discourages.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479218999869/2016-11-16---Jims2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479218999869/2016-11-16---Jims2.jpg.jpg)
+
 <figcaption>Photo courtesy of Nashville Opera.</figcaption>
 </figure>
 

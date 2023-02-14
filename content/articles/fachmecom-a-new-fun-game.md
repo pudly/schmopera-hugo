@@ -1,15 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2014-08-12T15:16:00-04:00"
-lastmod = "2015-04-16T22:49:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429238917011/sm16-6_fach.jpg.jpg"
-publishDate = "2014-08-12T15:16:00-04:00"
-related_articles = ["articles/taking-a-bow-curtain-calls-for-your-voice-type.md","articles/hypothetical-operas-the-2016-presidential-election.md","articles/mildly-amusing-the-wiki-opera-game.md"]
-short_description = "If you&#039;re into opera, you do that charming/annoying thing where you hear someone sing and come up with your own, brilliant list of what else that person should sing. &quot;Her Susanna is so pretty. She&#039;d be an awesome Lulu.&quot; Or, &quot;Ooh, a high C! "
-slug = "fachmecom-a-new-fun-game"
-title = "FachMe.com: a new fun game"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2014-08-12T15:16:00-04:00"
+lastmod: "2015-04-16T22:49:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429238917011/sm16-6_fach.jpg.jpg
+publishDate: "2014-08-12T15:16:00-04:00"
+related_articles:
+- articles/taking-a-bow-curtain-calls-for-your-voice-type.md
+- articles/hypothetical-operas-the-2016-presidential-election.md
+- articles/mildly-amusing-the-wiki-opera-game.md
+short_description: 'If you&#039;re into opera, you do that charming/annoying thing
+  where you hear someone sing and come up with your own, brilliant list of what else
+  that person should sing. &quot;Her Susanna is so pretty. She&#039;d be an awesome
+  Lulu.&quot; Or, &quot;Ooh, a high C! '
+slug: fachmecom-a-new-fun-game
+title: 'FachMe.com: a new fun game'
+_template: article_single
+---
 
 If you're into opera, you do that charming/annoying thing where you hear someone sing and come up with your own, brilliant list of what else that person should sing. "Her Susanna is so pretty. She'd be an awesome Lulu." Or, "Ooh, a high C! He should sing Tonio so that I can hear 9 high Cs instead of just one." You know, educated stuff like that.
 

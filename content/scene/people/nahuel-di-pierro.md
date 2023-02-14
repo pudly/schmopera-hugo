@@ -1,21 +1,25 @@
-+++
-date = "2017-05-24T10:58:00-04:00"
-discipline = "Bass"
-lastmod = "2017-05-24T11:04:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495637718225/Nahuel-Di-Pierro-full.jpg.jpg"
-publishDate = "2017-05-24T11:04:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md","scene/companies/opernhaus-zurich.md","scene/companies/glyndebourne.md"]
-slug = "nahuel-di-pierro"
-title = "Nahuel Di Pierro"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Nahuel-Di-Pierro-831147397002051/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/nahueldipierro"
-+++
+---
+date: "2017-05-24T10:58:00-04:00"
+discipline: Bass
+lastmod: "2017-05-24T11:04:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495637718225/Nahuel-Di-Pierro-full.jpg.jpg
+publishDate: "2017-05-24T11:04:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/glyndebourne.md
+slug: nahuel-di-pierro
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Nahuel-Di-Pierro-831147397002051/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/nahueldipierro
+title: Nahuel Di Pierro
+_template: "people_single"
+---
 
 Nahuel Di Pierro was born in Buenos Aires. He studied at the vocal department of the Artistic Institute of the Teatro Colón, on which stage he sang Masetto (*Don Giovanni*), Haly (*L’Italiana in Algeri*), Figaro (*Le Nozze di Figaro*), Colline (*La Bohème*) and Guglielmo (*Cosí fan Tutte*). For the opening season of the Palau de les Arts in Valencia, Spain, he took part in the productions of *Fidelio*, *Don Giovanni* and *Cyrano de Bergerac*.
  

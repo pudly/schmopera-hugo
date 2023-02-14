@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-10-11T13:13:00+01:00"
-lastmod = "2016-10-12T09:23:00+01:00"
-preamble = "After its sold-out run in 2015, [workshOPERA](/scene/companies/workshopera/) and [Tête à Tête](/scene/people/tete-a-tete/) are bringing back [*Boys of Paradise*](http://www.tete-a-tete.org.uk/boys-paradise-2016/), October 15-21 at [EGG London](http://www.egglondon.co.uk/). The \"genre-breaking\" opera by composer Vahan Salorian and librettist Dominic Kimberlin is a real life-inspired story of three friends - Twink, Cub, and Fag Hag - and their debaucherous, erotic, drug-fueled night out at London's hottest gay club, Paradaezia. The best part: audiences are immersed and involved with the story and characters.\n\nWe spoke with [Vahan Salorian](https://www.facebook.com/Vahan-Salorian-119761564765457/) about the unique history of *Boys of Paradise*, from his drawing upon the Pheonix mythology, to writing his \"Cocaine Waltz.\""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476188401486/2016-10-11---Boys-Square.jpg.jpg"
-primary_image_credit = "Photo by Claire Shovelton."
-publishDate = "2016-10-12T09:15:00+01:00"
-related_articles = ["articles/dont-miss-feet-at-the-horniman-museum.md","articles/valerian-ruminski-or-those-who-forget-the-past-are-doomed-to-repeat-it.md","articles/freetheknee-part-2-you-have-better-choices.md","articles/thrilling-nights-boys-of-paradise.md"]
-related_companies = ["scene/companies/workshopera.md","scene/companies/tete-a-tete.md"]
-short_description = "&quot;The whole show is an analogy of the Phoenix mythology, a bird that burns brighter and brighter and then burns out. This is such a classic, ancient story, and our characters are off their faces for the majority of the show, so I felt okay with sticking to a quirky, acoustic instrumentation. Also it was a fun challenge to conjure up the feelings of euphoria when coming up on ecstasy, or getting drunk, using conventional instruments.&quot;"
-slug = "dont-miss-boys-of-paradise"
-title = "Don&#039;t miss: Boys of Paradise"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-10-11T13:13:00+01:00"
+lastmod: "2016-10-12T09:23:00+01:00"
+preamble: |-
+  After its sold-out run in 2015, [workshOPERA](/scene/companies/workshopera/) and [Tête à Tête](/scene/people/tete-a-tete/) are bringing back [*Boys of Paradise*](http://www.tete-a-tete.org.uk/boys-paradise-2016/), October 15-21 at [EGG London](http://www.egglondon.co.uk/). The "genre-breaking" opera by composer Vahan Salorian and librettist Dominic Kimberlin is a real life-inspired story of three friends - Twink, Cub, and Fag Hag - and their debaucherous, erotic, drug-fueled night out at London's hottest gay club, Paradaezia. The best part: audiences are immersed and involved with the story and characters.
+
+  We spoke with [Vahan Salorian](https://www.facebook.com/Vahan-Salorian-119761564765457/) about the unique history of *Boys of Paradise*, from his drawing upon the Pheonix mythology, to writing his "Cocaine Waltz."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476188401486/2016-10-11---Boys-Square.jpg.jpg
+primary_image_credit: Photo by Claire Shovelton.
+publishDate: "2016-10-12T09:15:00+01:00"
+related_articles:
+- articles/dont-miss-feet-at-the-horniman-museum.md
+- articles/valerian-ruminski-or-those-who-forget-the-past-are-doomed-to-repeat-it.md
+- articles/freetheknee-part-2-you-have-better-choices.md
+- articles/thrilling-nights-boys-of-paradise.md
+related_companies:
+- scene/companies/workshopera.md
+- scene/companies/tete-a-tete.md
+short_description: '&quot;The whole show is an analogy of the Phoenix mythology, a
+  bird that burns brighter and brighter and then burns out. This is such a classic,
+  ancient story, and our characters are off their faces for the majority of the show,
+  so I felt okay with sticking to a quirky, acoustic instrumentation. Also it was
+  a fun challenge to conjure up the feelings of euphoria when coming up on ecstasy,
+  or getting drunk, using conventional instruments.&quot;'
+slug: dont-miss-boys-of-paradise
+title: 'Don&#039;t miss: Boys of Paradise'
+_template: article_single
+---
 
 ## You admit to having a hard time connecting with opera as a general concept - why then did you decide to write one?
 
@@ -22,7 +38,10 @@ Also, my two friends from university I was studying composition with had just st
 
 This story and it's inspiration are quite personal to me, and opera had always seemed like the ideal form it should be told in. My experiences and those of the people I knew in that world were so heightened from reality and that's exactly what opera does so well- tell these epic, crazy, sometimes farcical, often tragic stories. A straight up musical seemed a little to obvious as well.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476188973664/2016-10-11---Boys.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476188973664/2016-10-11---Boys.jpg.jpg)
+
 <figcaption>Production image of *Boys of Paradise*. Photo by Claire Shovelton.</figcaption>
 </figure>
 
@@ -40,7 +59,10 @@ The whole show is an analogy of the [Phoenix mythology](https://en.wikipedia.org
 
 As far as an aesthetic, I think I've drawn little bits of inspiration from everywhere- there's definitely some musical theatre moments as well as contemporary classical, pop etc. I did like the idea of returning to the idea of 'the aria' - a big catchy tune that people would remember.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476188928417/2016-10-11---Boys-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476188928417/2016-10-11---Boys-2.jpg.jpg)
+
 <figcaption>Production image of *Boys of Paradise*. Photo by Claire Shovelton.</figcaption>
 </figure>
 
@@ -52,7 +74,10 @@ I guess it could - but I don't know if I would want it to or it would be as much
 
 I think it's admirable to try and bring these older works into modern settings. My only issue is if it is purely as a gimmick, and doesn't actually lend anything to the original story, or get followed through to the end. We can't just drag these operas through every possible setting/era and risqué situation. Let's write some new ones(!)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476188906530/2016-10-11---Vahan-Salorian.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476188906530/2016-10-11---Vahan-Salorian.jpg.jpg)
+
 <figcaption>Vahan Salorian, composer of *Boys of Paradise*.</figcaption>
 </figure>
 

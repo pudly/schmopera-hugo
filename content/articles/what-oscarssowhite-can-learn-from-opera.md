@@ -1,17 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2016-03-02T10:22:00+00:00"
-lastmod = "2016-03-02T12:01:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456918767376/Chris-Rock-Oscars-Getty.jpg.jpg"
-publishDate = "2016-03-02T11:57:00+00:00"
-related_articles = ["articles/talking-with-singers-jorell-williams.md","articles/talking-with-singers-othalie-graham.md","articles/a-tale-of-big-hair-at-the-met.md","articles/forgiving-racism-onstage.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/glimmerglass-festival.md"]
-related_people = ["scene/people/othalie-graham.md","scene/people/tamara-wilson.md","scene/people/eric-owens.md","scene/people/jorell-williams.md","scene/people/patricia-racette.md"]
-short_description = "Perhaps opera is making a mess of this whole thing by keeping racist shows like Madama Butterfly on stages, or even sexist shows like The Marriage of Figaro alive and well. And yes, film is different than opera; a film doesn&#039;t go through different productions, doesn&#039;t get re-made over and over again with new casts of characters. But I think there&#039;s light in our madness, because it means we&#039;ve paid attention to the stories themselves, rather than the people charged with telling them."
-slug = "what-oscarssowhite-can-learn-from-opera"
-title = "What #OscarsSoWhite can learn from opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2016-03-02T10:22:00+00:00"
+lastmod: "2016-03-02T12:01:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456918767376/Chris-Rock-Oscars-Getty.jpg.jpg
+publishDate: "2016-03-02T11:57:00+00:00"
+related_articles:
+- articles/talking-with-singers-jorell-williams.md
+- articles/talking-with-singers-othalie-graham.md
+- articles/a-tale-of-big-hair-at-the-met.md
+- articles/forgiving-racism-onstage.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/glimmerglass-festival.md
+related_people:
+- scene/people/othalie-graham.md
+- scene/people/tamara-wilson.md
+- scene/people/eric-owens.md
+- scene/people/jorell-williams.md
+- scene/people/patricia-racette.md
+short_description: Perhaps opera is making a mess of this whole thing by keeping racist
+  shows like Madama Butterfly on stages, or even sexist shows like The Marriage of
+  Figaro alive and well. And yes, film is different than opera; a film doesn&#039;t
+  go through different productions, doesn&#039;t get re-made over and over again with
+  new casts of characters. But I think there&#039;s light in our madness, because
+  it means we&#039;ve paid attention to the stories themselves, rather than the people
+  charged with telling them.
+slug: what-oscarssowhite-can-learn-from-opera
+title: 'What #OscarsSoWhite can learn from opera'
+_template: article_single
+---
 
 In the wake of this year's Academy Awards, the conversation about race is really, really loud. There's the ubiquitous hashtag, [#OscarsSoWhite](https://twitter.com/search?q=%23OscarsSoWhite&src=typd), giving everyone with a Twitter account the opportunity to point out the iniquity of Oscar winners who aren't white. There was [host Chris Rock](http://www.newyorker.com/culture/culture-desk/chris-rocks-oscars), who punctuated the show with jokes about how it should be called the "White People's Choice Awards", and a pointed "We're black!" after a commercial break. There was also the [mysterious use of Wagner's music](http://www.newyorker.com/culture/cultural-comment/a-closer-look-at-wagner-and-oscarssowhite) to wrap up acceptance speeches, which for many of our readers evokes an awesomely thrilling scene in the third act of *Die Walküre*, but also, understandably, incites thoughts of anti-Semitism and general white-superiority.
 

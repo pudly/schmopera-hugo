@@ -1,19 +1,22 @@
-+++
-date = "2017-04-04T14:23:00+01:00"
-discipline = "Soprano"
-lastmod = "2017-04-04T14:25:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491312172309/2017-04-04---LiseDavidsen-Charlotte-Gundersen.jpg.jpg"
-primary_image_credit = "Charlotte Gundersen"
-publishDate = "2017-04-04T14:25:00+01:00"
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/opernhaus-zurich.md"]
-slug = "lise-davidsen"
-title = "Lise Davidsen"
-website = "http://lisedavidsen.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/lisedavidsen/"
-+++
+---
+date: "2017-04-04T14:23:00+01:00"
+discipline: Soprano
+lastmod: "2017-04-04T14:25:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491312172309/2017-04-04---LiseDavidsen-Charlotte-Gundersen.jpg.jpg
+primary_image_credit: Charlotte Gundersen
+publishDate: "2017-04-04T14:25:00+01:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/opernhaus-zurich.md
+slug: lise-davidsen
+social_media:
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/lisedavidsen/
+title: Lise Davidsen
+website: http://lisedavidsen.com/
+_template: "people_single"
+---
 
 Young dramatic soprano Lise Davidsen shot to prominence in summer 2015 when she was crowned winner of both the Operalia and the Queen Sonja competitions. Her breakthrough performances won her the First Prize, the Birgit Nilsson Award and the Audience Prize at the Operalia competition in London as well as the prize for the best performance of Norwegian music and the Ingrid Bjoner Scholarship at the Queen Sonia International Music Competition. She is also a triple winner at the 2015 Hans Gabor Belvedere Singing Competition in Amsterdam and a recipient of many awards, including the HSBC Aix-en-Provence Laureate, Statoil Talent Bursary Award, Léonie Sonning Music Prize, Danish Singers Award 2014 and the Kirstin Flagstad Award 2015.
 

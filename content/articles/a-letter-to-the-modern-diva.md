@@ -1,17 +1,32 @@
-+++
-author = ["authors/suzanne-vinnik.md","authors/sara-duchovnay.md"]
-categories = "Op-ed"
-date = "2016-08-23T06:15:00-04:00"
-lastmod = "2017-07-27T12:28:00-04:00"
-preamble = "This is the first of two [guest posts](/freetheknee-part-2-you-have-better-choices/) by sopranos [Suzanne Vinnik](/scene/people/suzanne-vinnik/) and [Sara Duchovnay](/scene/people/sara-duchovnay/). Vinnik is also the founder of [Shoperatic](https://www.facebook.com/shoperatic/) (formerly known as the Opera Diva Dress Collection) a community where singers can buy and rent concert wear, including some of Duchovnay's own merchandise.\n\nWith audition season fast approaching, Vinnik and Duchovnay address the idea of \"rules\" governing wardrobe choices for opera singers; with nearly 10,000 followers, the time has come to #freetheknee and rally for change within the industry."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501171895289/2017-07-27---Modern-Diva.jpg.jpg"
-publishDate = "2016-08-24T04:23:00-04:00"
-related_articles = ["articles/freetheknee-part-2-you-have-better-choices.md","articles/whats-your-opera-dress-code.md","articles/singers-its-the-annual-tax-season-conundrum.md","articles/just-in-time-for-fall-shoperatic.md","articles/talking-with-singers-sara-duchovnay.md"]
-related_people = ["scene/people/sara-duchovnay.md"]
-short_description = "If you view fashion and the way you dress as an extension of your artistic personality, why would you allow others to put you in a box and stifle you? After all, isn’t your goal to show the audition panel exactly who you are and what makes you special and unique?"
-slug = "a-letter-to-the-modern-diva"
-title = "A Letter to the Modern Diva"
-+++
+---
+author:
+- authors/suzanne-vinnik.md
+- authors/sara-duchovnay.md
+categories: Op-ed
+date: "2016-08-23T06:15:00-04:00"
+lastmod: "2017-07-27T12:28:00-04:00"
+preamble: |-
+  This is the first of two [guest posts](/freetheknee-part-2-you-have-better-choices/) by sopranos [Suzanne Vinnik](/scene/people/suzanne-vinnik/) and [Sara Duchovnay](/scene/people/sara-duchovnay/). Vinnik is also the founder of [Shoperatic](https://www.facebook.com/shoperatic/) (formerly known as the Opera Diva Dress Collection) a community where singers can buy and rent concert wear, including some of Duchovnay's own merchandise.
+
+  With audition season fast approaching, Vinnik and Duchovnay address the idea of "rules" governing wardrobe choices for opera singers; with nearly 10,000 followers, the time has come to #freetheknee and rally for change within the industry.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501171895289/2017-07-27---Modern-Diva.jpg.jpg
+publishDate: "2016-08-24T04:23:00-04:00"
+related_articles:
+- articles/freetheknee-part-2-you-have-better-choices.md
+- articles/whats-your-opera-dress-code.md
+- articles/singers-its-the-annual-tax-season-conundrum.md
+- articles/just-in-time-for-fall-shoperatic.md
+- articles/talking-with-singers-sara-duchovnay.md
+related_people:
+- scene/people/sara-duchovnay.md
+short_description: If you view fashion and the way you dress as an extension of your
+  artistic personality, why would you allow others to put you in a box and stifle
+  you? After all, isn’t your goal to show the audition panel exactly who you are and
+  what makes you special and unique?
+slug: a-letter-to-the-modern-diva
+title: A Letter to the Modern Diva
+_template: article_single
+---
 
 Dear Diva,
 
@@ -33,7 +48,9 @@ Today, you shouldn't have to worry about exposing your "head, shoulders, knees a
 
 It allows you to create beautiful music and transport your audiences to wonderful places, embody varied and exciting characters and traverse time. You form beautiful phrases and make musical choices that are unique to you and you alone. You have style and taste and opinions. You are a self-employed entrepreneur and make choices every day regarding your personal brand and the course of your career. Of course, you take into account the wisdom of your coaches, teachers, conductors, agent, etc., but at the end of the day, you are the one standing on stage.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471949602393/2016-08-24---sarasuz.jpg.jpg)<figcaption>l-r: Sara Duchovnay and Suzanne Vinnik.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471949602393/2016-08-24---sarasuz.jpg.jpg)<figcaption>l-r: Sara Duchovnay and Suzanne Vinnik.</figcaption>
 </figure>
 
 If you view fashion and the way you dress as an extension of your artistic personality, why would you allow others to put you in a box and stifle you? After all, isn’t your goal to show the audition panel exactly who you are and what makes you special and unique? 
@@ -46,7 +63,9 @@ We encourage everyone to dress in a way that is classy and sets a professional t
 
 When buying, renting or selecting your wardrobe, consider the scale of your venue and any obstacles you might come across. If you don’t know the venue personally, ask questions and use your best judgement to evaluate what you are stepping into. Is there a stage? Is it raked? Are you above or below the audience? Do you know anything about the lighting? What season is it? You don’t want to wear a summer dress in the winter or vice versa. What roles are you auditioning for and what is the "vibe" of the company? Do they usually produce traditional period productions, or are they known for their edgier work? With all of that information in mind, make the best choice for you. Let the people for whom you are auditioning know that you are an artist who knows herself and has something unique to say. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471949633841/2016-08-24---Logo-ODDC.jpg.jpg)<figcaption>Thie [Opera Diva Dress Collection](https://www.facebook.com/groups/456489367792116/), founded by Suzanne Vinnik.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471949633841/2016-08-24---Logo-ODDC.jpg.jpg)<figcaption>Thie [Opera Diva Dress Collection](https://www.facebook.com/groups/456489367792116/), founded by Suzanne Vinnik.</figcaption>
 </figure>
 
 Vow to not allow anyone to shame or make you feel anything less than 100%. If the jewel-tone jersey wrap dress or satin shiny dress embodies your personal style and makes you feel fantastic, by all means WEAR IT! If covering your "head, shoulders, knees and/or toes" makes you feel comfortable or fits your unique aesthetic…COVER THEM! If you want to wear pants because they make you feel amazing, WEAR THEM! It's the 21st century and fashionable women like yourself have been wearing pants for over eighty years. Winter is cold, PUT YOUR PANTS ON! 

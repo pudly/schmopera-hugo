@@ -1,19 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-01-04T17:02:00-05:00"
-lastmod = "2016-01-05T10:39:00-05:00"
-preamble = "American soprano [Leah Crocetto](/scene/people/leah-crocetto/) is a Cardiff BBC Singer of the World (2011), a Metropolitan Opera National Council Audition Grand Finals Winner (2010), a former Adler fellow at San Francisco Opera, and this season, she made her [Metropolitan Opera](/scene/companies/the-metropolitan-opera/) debut as Liù in Franco Zeffirelli's iconic production of *Turandot*. In the spring, she heads to the [Canadian Opera Company](/scene/companies/canadian-opera-company/) to sing Anna in Rossini's *Maometto II*, a role she's reprising in David Alden's production, originally at [Santa Fe Opera in 2012](http://www.nytimes.com/2012/07/31/arts/music/a-rossini-masterwork-ahead-of-its-time.html).\n\nBetween performances of *Turandot*, Leah Crocetto took the time to chat about singing Rossini, traveling a whole lot, and how all the hard work pays off."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451944928176/2016-01-05---Leah-Crocetto.jpg.jpg"
-primary_image_credit = "Photo: Fay Fox"
-publishDate = "2016-01-05T09:00:00-05:00"
-related_articles = ["articles/talking-with-singers-nicole-cabell.md","articles/talking-with-singers-othalie-graham.md","articles/paul-appleby-telling-stories-at-wigmore-hall.md","articles/talking-with-singers-anna-devin.md","articles/in-review-maometto-ii.md","articles/talking-with-singers-brian-jagde.md","articles/talking-with-singers-ekaterina-semenchuk.md","articles/talking-with-singers-anna-caterina-antonacci.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md"]
-related_people = ["scene/people/leah-crocetto.md"]
-short_description = "American soprano Leah Crocetto is a Cardiff BBC Singer of the World, a Metropolitan Opera National Council Audition Grand Finals Winner, a former Adler fellow at San Francisco Opera, and this season, she made her Metropolitan Opera debut as Liù in Franco Zeffirelli&#039;s iconic production of Turandot."
-slug = "talking-with-singers-leah-crocetto"
-title = "Talking with singers: Leah Crocetto"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-01-04T17:02:00-05:00"
+lastmod: "2016-01-05T10:39:00-05:00"
+preamble: |-
+  American soprano [Leah Crocetto](/scene/people/leah-crocetto/) is a Cardiff BBC Singer of the World (2011), a Metropolitan Opera National Council Audition Grand Finals Winner (2010), a former Adler fellow at San Francisco Opera, and this season, she made her [Metropolitan Opera](/scene/companies/the-metropolitan-opera/) debut as Liù in Franco Zeffirelli's iconic production of *Turandot*. In the spring, she heads to the [Canadian Opera Company](/scene/companies/canadian-opera-company/) to sing Anna in Rossini's *Maometto II*, a role she's reprising in David Alden's production, originally at [Santa Fe Opera in 2012](http://www.nytimes.com/2012/07/31/arts/music/a-rossini-masterwork-ahead-of-its-time.html).
+
+  Between performances of *Turandot*, Leah Crocetto took the time to chat about singing Rossini, traveling a whole lot, and how all the hard work pays off.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451944928176/2016-01-05---Leah-Crocetto.jpg.jpg
+primary_image_credit: 'Photo: Fay Fox'
+publishDate: "2016-01-05T09:00:00-05:00"
+related_articles:
+- articles/talking-with-singers-nicole-cabell.md
+- articles/talking-with-singers-othalie-graham.md
+- articles/paul-appleby-telling-stories-at-wigmore-hall.md
+- articles/talking-with-singers-anna-devin.md
+- articles/in-review-maometto-ii.md
+- articles/talking-with-singers-brian-jagde.md
+- articles/talking-with-singers-ekaterina-semenchuk.md
+- articles/talking-with-singers-anna-caterina-antonacci.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/san-francisco-opera.md
+related_people:
+- scene/people/leah-crocetto.md
+short_description: American soprano Leah Crocetto is a Cardiff BBC Singer of the World,
+  a Metropolitan Opera National Council Audition Grand Finals Winner, a former Adler
+  fellow at San Francisco Opera, and this season, she made her Metropolitan Opera
+  debut as Liù in Franco Zeffirelli&#039;s iconic production of Turandot.
+slug: talking-with-singers-leah-crocetto
+title: 'Talking with singers: Leah Crocetto'
+_template: article_single
+---
 
 ## What was it like to have your Metropolitan Opera debut this season? How did you anticipate you would feel? 
 
@@ -27,7 +47,9 @@ I love the music that I get to sing, so much! I always find something in myself 
 
 In the same way, Anna Erisso, my character in *Maometto II* is also this way. Her loyalty is at the core of who she is. And her love for family and duty to her country is something she holds very dear. She dies of her own volition. Our ending in the David Alden production is very profound. David is brilliant at finding the core of the piece and the role.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451952562323/San-Francisco-Opera-Luisa-Miller-Image---Cory-Weaver---Resized.jpg.jpg)<figcaption>Leah Crocetto in the title role of San Francisco Opera's production of *Luisa Miller*. Photo: Cory Weaver.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451952562323/San-Francisco-Opera-Luisa-Miller-Image---Cory-Weaver---Resized.jpg.jpg)<figcaption>Leah Crocetto in the title role of San Francisco Opera's production of *Luisa Miller*. Photo: Cory Weaver.</figcaption>
 </figure>
 
 ## What do you find different about singing Rossini, compared to your Verdi and Puccini roles?
@@ -42,7 +64,9 @@ Life on the road is quite difficult at times, but it's also the most rewarding a
 
 My only "must-pack" items are a candle and my sweet little Maltese, Ernie! He's a 7lb ball of fluff and love!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451952488060/Leah-Crocetto-and-Ernie---Image-by-Fay-Fox---Resized.jpg.jpg)<figcaption>Leah Crocetto and Ernie. Photo by Fay Fox.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451952488060/Leah-Crocetto-and-Ernie---Image-by-Fay-Fox---Resized.jpg.jpg)<figcaption>Leah Crocetto and Ernie. Photo by Fay Fox.</figcaption>
 </figure>
 
 ## It’s no secret that it’s tough to be an opera singer. Why do you do it, and what do you love most about it?

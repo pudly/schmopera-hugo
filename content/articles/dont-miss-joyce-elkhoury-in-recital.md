@@ -1,17 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2015-10-08T09:32:00-04:00"
-lastmod = "2015-10-08T13:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444312482709/4082-Joyce-El-Khoury-HI-RES.jpg.jpg"
-primary_image_credit = "Photo: Kristin Hoebermann"
-publishDate = "2015-10-08T12:00:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/joyce-elkhoury.md"]
-short_description = "On October 19th at noon, soprano Joyce El-Khoury is giving a recital at Classical 96.3 FM&#039;s The New Zoomer Studio in Liberty Village. Send an RSVP by email; the first 50 to respond will get two passes for the recital, followed by a gourmet lunch."
-slug = "dont-miss-joyce-elkhoury-in-recital"
-title = "Don&#039;t miss: Joyce El-Khoury in recital"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2015-10-08T09:32:00-04:00"
+lastmod: "2015-10-08T13:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444312482709/4082-Joyce-El-Khoury-HI-RES.jpg.jpg
+primary_image_credit: 'Photo: Kristin Hoebermann'
+publishDate: "2015-10-08T12:00:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/joyce-elkhoury.md
+short_description: On October 19th at noon, soprano Joyce El-Khoury is giving a recital
+  at Classical 96.3 FM&#039;s The New Zoomer Studio in Liberty Village. Send an RSVP
+  by email; the first 50 to respond will get two passes for the recital, followed
+  by a gourmet lunch.
+slug: dont-miss-joyce-elkhoury-in-recital
+title: 'Don&#039;t miss: Joyce El-Khoury in recital'
+_template: article_single
+---
 
 On October 19th at noon, soprano [Joyce El-Khoury](/scene/people/joyce-el-khoury/) is giving a [recital](http://www.classical963fm.com/live-concerts-video/rsvp-to-see-joyce-el-khoury-live-at-zoomer-hall/) at Classical 96.3 FM's The New Zoomer Studio in Liberty Village. Send an RSVP [by email](mailto:concerts@zoomermedia.ca); the first 50 to respond will get two passes for the recital, followed by a gourmet lunch. 
 

@@ -1,19 +1,25 @@
-+++
-date = "2016-02-17T20:48:00-05:00"
-discipline = "Baritone"
-lastmod = "2016-02-17T20:48:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455759995672/MariuszSquare.jpg.jpg"
-primary_image_credit = "Mikolaj Mikolajczyk"
-publishDate = "2016-02-17T20:48:00-05:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/bayerische-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/san-francisco-opera.md"]
-slug = "mariusz-kwiecien"
-title = "Mariusz Kwiecień"
-website = "http://www.mariuszkwiecien.com/#/home"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = ""
-+++
+---
+date: "2016-02-17T20:48:00-05:00"
+discipline: Baritone
+lastmod: "2016-02-17T20:48:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455759995672/MariuszSquare.jpg.jpg
+primary_image_credit: Mikolaj Mikolajczyk
+publishDate: "2016-02-17T20:48:00-05:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/royal-opera-house.md
+- scene/companies/san-francisco-opera.md
+slug: mariusz-kwiecien
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: ""
+title: Mariusz Kwiecień
+website: http://www.mariuszkwiecien.com/#/home
+_template: "people_single"
+---
 
 Mariusz Kwiecien is recognized worldwide as one of the leading baritones before the public today. Known for his handsome voice, incisive musicianship and captivating stage presence, he performs with the Metropolitan Opera, Covent Garden, Paris Opera, Vienna State Opera, Lyric Opera of Chicago and Bavarian State Opera, and with many other renowned theaters around the world. He is in demand for his portrayals of the title role in *Don Giovanni*, *King Roger*, and *Eugene Onegin*, as well as for Almaviva in *Le nozze di Figaro*, Malatesta in *Don Pasquale*, Riccardo in *I puritani*, and Rodrigo di Posa in *Don Carlo*.
 

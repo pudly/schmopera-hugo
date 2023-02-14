@@ -1,23 +1,27 @@
-+++
-date = "2016-07-24T10:25:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-07-24T10:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469370141887/2016-07-24---Beste-Kalender.jpg.jpg"
-primary_image_credit = "Codrut Tolea"
-publishDate = "2016-07-24T10:25:00-04:00"
-related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md","scene/companies/calgary-opera.md","scene/companies/royal-conservatory-of-music.md","scene/companies/against-the-grain-theatre.md"]
-slug = "beste-kalender"
-title = "Beste Kalender"
-website = "http://www.bestekalender.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Beste_Kalender"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/mezzobeste/"
-+++
+---
+date: "2016-07-24T10:25:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2016-07-24T10:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469370141887/2016-07-24---Beste-Kalender.jpg.jpg
+primary_image_credit: Codrut Tolea
+publishDate: "2016-07-24T10:25:00-04:00"
+related_companies:
+- scene/companies/calgary-opera-emerging-artist-development-program.md
+- scene/companies/calgary-opera.md
+- scene/companies/royal-conservatory-of-music.md
+- scene/companies/against-the-grain-theatre.md
+slug: beste-kalender
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/Beste_Kalender
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/mezzobeste/
+title: Beste Kalender
+website: http://www.bestekalender.com/
+_template: "people_single"
+---
 
 "Calgary Opera’s opening night performance of *Carmen*:…On one hours' notice, mezzo-soprano Beste Kalender, originally scheduled to sing the role of Mercedes, learned that she would have to sing the title role. This she did, and with remarkable success…" - Kenneth Delong, *Calgary Herald*, 2015
 

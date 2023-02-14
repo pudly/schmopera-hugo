@@ -1,20 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-01-09T14:09:00+00:00"
-lastmod = "2017-01-12T10:03:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483971112379/2017-01-09---Layla-Claire-Pauley.jpg.jpg"
-primary_image_credit = "Photo: Simon Pauly."
-publishDate = "2017-01-12T10:03:00+00:00"
-related_articles = ["articles/talking-with-singers-kate-lindsey.md"]
-related_companies = ["scene/companies/salzburg-festival.md"]
-related_people = ["scene/people/layla-claire.md"]
-short_description = "A portable practice focused largely on breath, it&#039;s no wonder why opera singers are such fans of yoga. Canadian soprano Layla Claire is one of those singers who swears by yoga as part of her daily warm-up; if you&#039;ve ever heard her sing, it&#039;s clear that her warm-up routine is serving her very well."
-slug = "layla-claire-soprano-yogi"
-title = "Layla Claire, soprano &amp; yogi"
-
-youtube_url ="https://youtu.be/lWBJsx6vS68"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-01-09T14:09:00+00:00"
+lastmod: "2017-01-12T10:03:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483971112379/2017-01-09---Layla-Claire-Pauley.jpg.jpg
+primary_image_credit: 'Photo: Simon Pauly.'
+publishDate: "2017-01-12T10:03:00+00:00"
+related_articles:
+- articles/talking-with-singers-kate-lindsey.md
+related_companies:
+- scene/companies/salzburg-festival.md
+related_people:
+- scene/people/layla-claire.md
+short_description: A portable practice focused largely on breath, it&#039;s no wonder
+  why opera singers are such fans of yoga. Canadian soprano Layla Claire is one of
+  those singers who swears by yoga as part of her daily warm-up; if you&#039;ve ever
+  heard her sing, it&#039;s clear that her warm-up routine is serving her very well.
+slug: layla-claire-soprano-yogi
+title: Layla Claire, soprano &amp; yogi
+youtube_url: https://youtu.be/lWBJsx6vS68
+_template: article_single
+---
 
 A portable practice focused largely on breath, it's no wonder why opera singers are such fans of yoga. Canadian soprano [Layla Claire](/talking-with-singers-layla-claire/) is one of those singers who swears by yoga as part of her daily warm-up; if you've ever heard her sing, it's clear that her warm-up routine is serving her very well.
 

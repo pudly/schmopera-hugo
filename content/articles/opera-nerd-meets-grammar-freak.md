@@ -1,14 +1,19 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-09-24T17:55:00-04:00"
-lastmod = "2015-09-25T13:55:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443190046333/CapitalLetters.jpg.jpg"
-publishDate = "2015-09-25T10:07:00-04:00"
-short_description = "I look at a lot of artist biographies, concert programs, season line-ups, and other lists of opera titles, and I keep noticing a small, nerdy detail that I&#039;ve finally decided to address. Can we discuss the right way to use capital letters in your opera titles?"
-slug = "opera-nerd-meets-grammar-freak"
-title = "Opera nerd meets grammar freak"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-09-24T17:55:00-04:00"
+lastmod: "2015-09-25T13:55:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443190046333/CapitalLetters.jpg.jpg
+publishDate: "2015-09-25T10:07:00-04:00"
+short_description: I look at a lot of artist biographies, concert programs, season
+  line-ups, and other lists of opera titles, and I keep noticing a small, nerdy detail
+  that I&#039;ve finally decided to address. Can we discuss the right way to use capital
+  letters in your opera titles?
+slug: opera-nerd-meets-grammar-freak
+title: Opera nerd meets grammar freak
+_template: article_single
+---
 
 I look at a lot of artist biographies, concert programs, season line-ups, and other lists of opera titles, and I keep noticing a small, nerdy detail that I've finally decided to address.
 

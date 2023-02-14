@@ -1,19 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-09-28T14:16:00+01:00"
-lastmod = "2016-09-29T11:00:00+01:00"
-preamble = "Nick Fletcher is a London-based conductor and répétiteur, and currently a member of the [Royal Opera](/scene/companies/royal-opera-house/)'s Jette Parker Young Artists Programme. As part of [Meet the Young Artists Week](http://www.roh.org.uk/about/jette-parker-young-artists-programme/events/meet-the-young-artists-week), he'll be joining the JPYAP singers for workshops and concert events, including [Juke Box](http://www.roh.org.uk/productions/meet-the-young-artists-week-juke-box-by-jette-parker-young-artists) on October 9 at St. Clement Danes Anglican Church.\n\nWe spoke with Fletcher about the role of the répétiteur in young artist programmes, and what a day in the life looks like for him at the Royal Opera House."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475068776193/2016-09-28---Fletcher-Nick.jpg.jpg"
-primary_image_credit = "Photo courtesy of ROH."
-publishDate = "2016-09-29T11:00:00+01:00"
-related_articles = ["articles/opera-for-lunch-the-roh-young-artists-in-concert.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/nick-fletcher.md"]
-short_description = "&quot;It&#039;s taken me a long time to realise that as a rep you&#039;re not just a piano player meekly sitting in the corner, but instead a wide-ranging and versatile musician whose ideas, even if ultimately rejected, should still be part of the creative process that happens in the rehearsal room.&quot;"
-slug = "nick-fletcher-reps-at-the-roh"
-title = "Nick Fletcher: reps at the ROH"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-09-28T14:16:00+01:00"
+lastmod: "2016-09-29T11:00:00+01:00"
+preamble: |-
+  Nick Fletcher is a London-based conductor and répétiteur, and currently a member of the [Royal Opera](/scene/companies/royal-opera-house/)'s Jette Parker Young Artists Programme. As part of [Meet the Young Artists Week](http://www.roh.org.uk/about/jette-parker-young-artists-programme/events/meet-the-young-artists-week), he'll be joining the JPYAP singers for workshops and concert events, including [Juke Box](http://www.roh.org.uk/productions/meet-the-young-artists-week-juke-box-by-jette-parker-young-artists) on October 9 at St. Clement Danes Anglican Church.
+
+  We spoke with Fletcher about the role of the répétiteur in young artist programmes, and what a day in the life looks like for him at the Royal Opera House.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475068776193/2016-09-28---Fletcher-Nick.jpg.jpg
+primary_image_credit: Photo courtesy of ROH.
+publishDate: "2016-09-29T11:00:00+01:00"
+related_articles:
+- articles/opera-for-lunch-the-roh-young-artists-in-concert.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/nick-fletcher.md
+short_description: '&quot;It&#039;s taken me a long time to realise that as a rep
+  you&#039;re not just a piano player meekly sitting in the corner, but instead a
+  wide-ranging and versatile musician whose ideas, even if ultimately rejected, should
+  still be part of the creative process that happens in the rehearsal room.&quot;'
+slug: nick-fletcher-reps-at-the-roh
+title: 'Nick Fletcher: reps at the ROH'
+_template: article_single
+---
 
 ## Can you describe a day in the life as part of the Jette Parker Young Artists Programme?
 

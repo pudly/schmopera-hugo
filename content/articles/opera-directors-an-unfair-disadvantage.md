@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-11-04T16:42:00-05:00"
-lastmod = "2015-11-04T16:44:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446673347437/2015-11-04---DirectorMusic.jpg.jpg"
-primary_image_credit = "Radiohead's Karma Police, by synesthetic artist Melissa McCracken."
-publishDate = "2015-11-05T08:00:00-05:00"
-related_articles = ["articles/does-a-good-artistic-director-read-music.md","articles/meet-the-director-liza-balkan.md","articles/talking-with-directors-jennifer-williams.md"]
-related_people = ["scene/people/tom-diamond.md"]
-short_description = "It&#039;s odd when you think about it too much: opera companies generally employ a person who is less musically literate than many 10-year old pianists, to make directorial choices in a theatre genre where music is the vital vehicle of the story. So, why isn&#039;t a strong musical background a prerequisite for directing opera? "
-slug = "opera-directors-an-unfair-disadvantage"
-title = "Opera directors: an unfair disadvantage?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-11-04T16:42:00-05:00"
+lastmod: "2015-11-04T16:44:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446673347437/2015-11-04---DirectorMusic.jpg.jpg
+primary_image_credit: Radiohead's Karma Police, by synesthetic artist Melissa McCracken.
+publishDate: "2015-11-05T08:00:00-05:00"
+related_articles:
+- articles/does-a-good-artistic-director-read-music.md
+- articles/meet-the-director-liza-balkan.md
+- articles/talking-with-directors-jennifer-williams.md
+related_people:
+- scene/people/tom-diamond.md
+short_description: 'It&#039;s odd when you think about it too much: opera companies
+  generally employ a person who is less musically literate than many 10-year old pianists,
+  to make directorial choices in a theatre genre where music is the vital vehicle
+  of the story. So, why isn&#039;t a strong musical background a prerequisite for
+  directing opera? '
+slug: opera-directors-an-unfair-disadvantage
+title: 'Opera directors: an unfair disadvantage?'
+_template: article_single
+---
 
 One of the funny things about the opera rehearsal room is the delegation of tasks between the two "bosses," the conductor and director. It's hard to make a case one way or the other about whether the director or the maestro knows the opera the best. You could argue that the conductor has the advantage of being able to decipher both the text (in theory, anyway) and the music. It’s relatively rare to find a director who reads music well, and although he or she has the dramaturgical chops, it’s sometimes fair to say that the director misses elements of the story that exist in the music itself.
 

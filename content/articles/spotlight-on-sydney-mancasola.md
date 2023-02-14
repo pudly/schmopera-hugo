@@ -1,18 +1,40 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-06-11T11:23:00-06:00"
-lastmod = "2016-06-19T15:06:00-06:00"
-preamble = "American soprano [Sydney Mancasola](/scene/people/sydney-mancasola/) is one of opera's most refreshing rising stars. Already under her belt are enviable roles like Cleopatra in Handel's *Giulio Cesare*, the title role in Massenet's *Manon*, and the heroines in *Les contes d'Hoffmann*; and when it comes to her singing career, she's a strong advocate of following her own instincts. \n\nAs we continue our Spotlight Series, it was a total pleasure to hear Mancasola's passionate, honest thoughts on following one's own path, on singing the truth, and the music that is \"as normal and essential to me as air, water, and food.\""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465665712089/2016-06-10---Sydney---Hoebermann.jpg.jpg"
-primary_image_credit = "Photo by Kristin Hoebermann."
-publishDate = "2016-06-18T02:14:00-06:00"
-related_articles = ["articles/spotlight-on-amanda-majeski.md","articles/talking-with-singers-gregory-kunde.md","articles/spotlight-on-beth-hagerman.md","articles/spotlight-on-stephanie-tritchew.md","articles/spotlight-on-samantha-pickett.md","articles/spotlight-on-shauna-yarnell.md","articles/spotlight-on-naomi-eberhard.md","articles/spotlight-on-shelley-jackson.md"]
-related_people = ["scene/people/sydney-mancasola.md"]
-short_description = "&quot;It&#039;s probably a bit of dangerous advice, but selfishly, I&#039;d like to see young singers push the limits a little more. Sing the aria you love that no one thinks you should sing, tell your director that you don&#039;t buy the staging they are giving you, give up the big YAP to sing the role of your dreams at a small company. Make the choice that will fulfill you spiritually.&quot;"
-slug = "spotlight-on-sydney-mancasola"
-title = "Spotlight on: Sydney Mancasola"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-06-11T11:23:00-06:00"
+lastmod: "2016-06-19T15:06:00-06:00"
+preamble: "American soprano [Sydney Mancasola](/scene/people/sydney-mancasola/) is
+  one of opera's most refreshing rising stars. Already under her belt are enviable
+  roles like Cleopatra in Handel's *Giulio Cesare*, the title role in Massenet's *Manon*,
+  and the heroines in *Les contes d'Hoffmann*; and when it comes to her singing career,
+  she's a strong advocate of following her own instincts. \n\nAs we continue our Spotlight
+  Series, it was a total pleasure to hear Mancasola's passionate, honest thoughts
+  on following one's own path, on singing the truth, and the music that is \"as normal
+  and essential to me as air, water, and food.\""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465665712089/2016-06-10---Sydney---Hoebermann.jpg.jpg
+primary_image_credit: Photo by Kristin Hoebermann.
+publishDate: "2016-06-18T02:14:00-06:00"
+related_articles:
+- articles/spotlight-on-amanda-majeski.md
+- articles/talking-with-singers-gregory-kunde.md
+- articles/spotlight-on-beth-hagerman.md
+- articles/spotlight-on-stephanie-tritchew.md
+- articles/spotlight-on-samantha-pickett.md
+- articles/spotlight-on-shauna-yarnell.md
+- articles/spotlight-on-naomi-eberhard.md
+- articles/spotlight-on-shelley-jackson.md
+related_people:
+- scene/people/sydney-mancasola.md
+short_description: '&quot;It&#039;s probably a bit of dangerous advice, but selfishly,
+  I&#039;d like to see young singers push the limits a little more. Sing the aria
+  you love that no one thinks you should sing, tell your director that you don&#039;t
+  buy the staging they are giving you, give up the big YAP to sing the role of your
+  dreams at a small company. Make the choice that will fulfill you spiritually.&quot;'
+slug: spotlight-on-sydney-mancasola
+title: 'Spotlight on: Sydney Mancasola'
+_template: article_single
+---
 
 ## Why do you sing, and why are you doing it professionally?
 
@@ -32,7 +54,10 @@ I used to think that good singing meant free singing, but now I know that's not 
 
 I feel like I'm the worst person ever to give advice to young singers because I never followed the rules. I've never been someone who can toe the line, and there is no way I would have lasted one year in this business if I had done what was expected of me. It's probably a bit of dangerous advice, but selfishly, I'd like to see young singers push the limits a little more. Sing the aria you love that no one thinks you should sing, tell your director that you don't buy the staging they are giving you, give up the big YAP to sing the role of your dreams at a small company. Make the choice that will fulfill you spiritually. That's not to say you should ever be disrespectful or a bad colleague. That's the last thing this business needs. I just think it's very dangerous when young singers start to feel like they have to be pleasers. It will homogenize opera if everyone does what they are supposed to do. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465665778982/2016-06-10---SDM_Red_Dress_Performance_Kristin_Hoebermann.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465665778982/2016-06-10---SDM_Red_Dress_Performance_Kristin_Hoebermann.jpg.jpg)
+
 <figcaption>Photo by Kristin Hoebermann.</figcaption>
 </figure>
 

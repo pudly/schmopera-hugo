@@ -1,22 +1,22 @@
-+++
-date = "2017-02-23T13:36:00+00:00"
-discipline = "Baritone"
-lastmod = "2017-02-23T13:36:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487856778225/2172392_orig.jpg.jpg"
-primary_image_credit = "Kirill Kozlov Photography."
-publishDate = "2017-02-23T13:36:00+00:00"
-slug = "rick-zwart"
-title = "Rick Zwart"
-website = "http://rickzwart.co.uk/index.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/rickzwartbaritone/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Zwart_Rick"
-+++
+---
+date: "2017-02-23T13:36:00+00:00"
+discipline: Baritone
+lastmod: "2017-02-23T13:36:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487856778225/2172392_orig.jpg.jpg
+primary_image_credit: Kirill Kozlov Photography.
+publishDate: "2017-02-23T13:36:00+00:00"
+slug: rick-zwart
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/rickzwartbaritone/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/Zwart_Rick
+title: Rick Zwart
+website: http://rickzwart.co.uk/index.html
+_template: "people_single"
+---
 
 Dutch baritone Rick Zwart began his vocal studies at the Conservatorium van Amsterdam in The Netherlands where he studied with baritone Pierre Mak. 
 

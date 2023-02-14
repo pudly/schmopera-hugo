@@ -1,34 +1,36 @@
-+++
-date = "2018-05-04T19:14:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-05-04T19:14:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475471974/DSC_0850.jpg.jpg"
-publishDate = "2018-05-04T19:14:00-04:00"
-related_companies = ["scene/companies/heartbeat-opera.md","scene/companies/portland-opera.md","scene/companies/the-juilliard-school.md","scene/companies/merola-opera-program.md","scene/companies/opera-theatre-of-st-louis.md"]
-slug = "felicia-moore"
-title = "Felicia Moore"
-website = "http://www.feliciamoore.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Felicia-Moore-soprano-490626120995898/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/FeliciaLMoore"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/felicialmoore/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCl54ObtEWzxZWdonpJ9gzug"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/felicialm"
-+++
+---
+date: "2018-05-04T19:14:00-04:00"
+discipline: Soprano
+lastmod: "2018-05-04T19:14:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475471974/DSC_0850.jpg.jpg
+publishDate: "2018-05-04T19:14:00-04:00"
+related_companies:
+- scene/companies/heartbeat-opera.md
+- scene/companies/portland-opera.md
+- scene/companies/the-juilliard-school.md
+- scene/companies/merola-opera-program.md
+- scene/companies/opera-theatre-of-st-louis.md
+slug: felicia-moore
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Felicia-Moore-soprano-490626120995898/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/FeliciaLMoore
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/felicialmoore/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCl54ObtEWzxZWdonpJ9gzug
+- platform: Soundcloud
+  _template: social_media
+  url: https://soundcloud.com/felicialm
+title: Felicia Moore
+website: http://www.feliciamoore.com/
+_template: "people_single"
+---
 
 Though in the early stages of her career, American soprano Felicia Moore is being recognized as a powerful and innovative emerging artist. Ms. Moore has already gained recognition through competitions and her work in various houses in the United States. She is currently an Artist Diploma in Opera Studies candidate at The Juilliard School, and was recently named one of the winners of The Sullivan Foundation. This season began with Ms. Moore as Mrs. Grose in Britten's *The Turn of the Screw* at Opera Columbus in a new Stephen Wadsworth production. Her season at Juilliard includes workshopping selections of Tchaikovsky's *Eugene Onegin* with Maestro Alan Gilbert and the Juilliard Orchestra Lab and performing in Juilliard's Liederabend. 
 

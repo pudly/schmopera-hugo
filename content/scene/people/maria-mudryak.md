@@ -1,26 +1,26 @@
-+++
-date = "2017-06-08T22:36:00-06:00"
-discipline = "Soprano"
-lastmod = "2017-06-08T22:36:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496982712954/IMG_8142%20(1).jpg.jpg"
-publishDate = "2017-06-08T22:36:00-06:00"
-related_companies = ["scene/companies/teatro-alla-scala.md"]
-slug = "maria-mudryak"
-title = "Maria Mudryak"
-website = "https://www.mariamudryak.net/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/MariaMudryak2016/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/maria_mudryak/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCay495y0uEFPYt8PO-9dijA"
-+++
+---
+date: "2017-06-08T22:36:00-06:00"
+discipline: Soprano
+lastmod: "2017-06-08T22:36:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496982712954/IMG_8142%20(1).jpg.jpg
+publishDate: "2017-06-08T22:36:00-06:00"
+related_companies:
+- scene/companies/teatro-alla-scala.md
+slug: maria-mudryak
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/MariaMudryak2016/
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/maria_mudryak/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCay495y0uEFPYt8PO-9dijA
+title: Maria Mudryak
+website: https://www.mariamudryak.net/
+_template: "people_single"
+---
 
 In just a few years young Kazakh soprano Maria Mudryak (born in 1994) has become one of the most sought after lyric coloraturas of her generation and already celebrated successes in roles such as Violetta in *La traviata*, Mimi in *La bohème* and Susanna in *Le nozze di Figaro* at some of the most prestigious international opera stages.
 

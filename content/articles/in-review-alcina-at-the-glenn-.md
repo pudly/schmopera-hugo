@@ -1,9 +1,11 @@
-+++
-author = ["authors/jenna.md"]
-draft = true
-slug = "in-review-alcina-at-the-glenn-"
-title = "In review: Alcina at the Glenn "
-+++
+---
+author:
+- authors/jenna.md
+draft: true
+slug: in-review-alcina-at-the-glenn-
+title: 'In review: Alcina at the Glenn '
+_template: article_single
+---
 
 Chorus is expensive
 

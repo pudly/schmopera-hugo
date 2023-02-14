@@ -1,18 +1,24 @@
-+++
-date = "2016-03-08T13:40:00+00:00"
-discipline = "Soprano"
-lastmod = "2016-03-08T13:40:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457444284315/2016-03-08---Claire-Rutter.jpg.jpg"
-publishDate = "2016-03-08T13:40:00+00:00"
-related_companies = ["scene/companies/scottish-opera.md","scene/companies/english-national-opera.md","scene/companies/the-dallas-opera.md","scene/companies/opera-north.md","scene/companies/the-santa-fe-opera.md"]
-slug = "claire-rutter"
-title = "Claire Rutter"
-website = "http://www.clairerutter.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/_Claire_Rutter"
-+++
+---
+date: "2016-03-08T13:40:00+00:00"
+discipline: Soprano
+lastmod: "2016-03-08T13:40:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457444284315/2016-03-08---Claire-Rutter.jpg.jpg
+publishDate: "2016-03-08T13:40:00+00:00"
+related_companies:
+- scene/companies/scottish-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/opera-north.md
+- scene/companies/the-santa-fe-opera.md
+slug: claire-rutter
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/_Claire_Rutter
+title: Claire Rutter
+website: http://www.clairerutter.com/
+_template: "people_single"
+---
 
 Born in South Shields, Claire Rutter studied at the Guildhall School of Music and Drama and at the National Opera Studio, sponsored by The Friends of English National Opera. She received outstanding reviews for her performance in English National Opera’s new production of *Lucrezia Borgia* ( “In the title role, Claire Rutter gives a glorious display of bel canto, with elegant legato, supple crescendo and diminuendo, crisply articulated runs, stunning high notes and even a trill. She looks wonderful and moves regally,” wrote The Daily Telegraph) and for ENO she has also sung Donna Anna (*Don Giovanni*), the title roles in *Tosca* and *Aïda*, Amelia (*Un ballo in maschera*), Elvira (*Ernani*), Gilda (*Rigoletto*) and Violetta (*La traviata*).
 

@@ -1,8 +1,4 @@
 ---
-title: Featured
-url: "/featured/"
-type: featured
-layout: list
 articles:
 - articles/4-foreign-language-challenges-for-singers.md
 - articles/need-a-new-bio-we-do-that.md
@@ -12,5 +8,8 @@ articles:
 - articles/talking-with-drag-queens-rose.md
 - articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md
 - articles/nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in.md
-
+layout: list
+title: Featured
+type: featured
+url: /featured/
 ---

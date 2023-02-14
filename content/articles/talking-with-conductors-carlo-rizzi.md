@@ -1,17 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-10-20T13:17:00-04:00"
-lastmod = "2018-10-22T11:21:00-04:00"
-preamble = "Maestro Carlo Rizzi is in good company this fall. He's set to conduct two back-to-back productions at the Metropolitan Opera, starting with [*Tosca*](https://www.metopera.org/season/2018-19-season/tosca/) - featuring superstar [Sondra Radvanovsky](/talking-with-singers-sondra-radvanovsky/) - followed quickly by Boito's [*Mefistofele*](https://www.metopera.org/season/2018-19-season/mefistofele/), with Michael Fabiano as Faust and Christian Van Horn in the devilish title role. After his stretch at the Met, Rizzi heads in February 2019 to Welsh National Opera to conduct Verdi's [*Un ballo in maschera*](https://wno.org.uk/whats-on/un-ballo-in-maschera-verdi) and Donizetti's [*Roberto Devereux*](https://wno.org.uk/whats-on/un-ballo-in-maschera-verdi).\n\nWe spoke with Rizzi about the alchemy that happens between conductor and orchestra, and his fantasy tenor role."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540055599922/sqCarloRizzi-TessaTraeger.jpg.jpg"
-primary_image_credit = "Photo: Tessa Traeger."
-publishDate = "2018-10-20T13:58:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/washington-national-opera.md"]
-short_description = "&quot;When I start to work with a new orchestra, the first thing that I do is to play through the piece or through large chunks of it. This allows me to get to know the way of playing of the orchestra and, likewise, the orchestra gets to know my way of conducting and if I have a deep knowledge of the piece. This is something, by the way, that experienced musicians know immediately, and you earn or lose their respect in these first moments.&quot;"
-slug = "talking-with-conductors-carlo-rizzi"
-title = "Talking with conductors: Carlo Rizzi"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-10-20T13:17:00-04:00"
+lastmod: "2018-10-22T11:21:00-04:00"
+preamble: |-
+  Maestro Carlo Rizzi is in good company this fall. He's set to conduct two back-to-back productions at the Metropolitan Opera, starting with [*Tosca*](https://www.metopera.org/season/2018-19-season/tosca/) - featuring superstar [Sondra Radvanovsky](/talking-with-singers-sondra-radvanovsky/) - followed quickly by Boito's [*Mefistofele*](https://www.metopera.org/season/2018-19-season/mefistofele/), with Michael Fabiano as Faust and Christian Van Horn in the devilish title role. After his stretch at the Met, Rizzi heads in February 2019 to Welsh National Opera to conduct Verdi's [*Un ballo in maschera*](https://wno.org.uk/whats-on/un-ballo-in-maschera-verdi) and Donizetti's [*Roberto Devereux*](https://wno.org.uk/whats-on/un-ballo-in-maschera-verdi).
+
+  We spoke with Rizzi about the alchemy that happens between conductor and orchestra, and his fantasy tenor role.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540055599922/sqCarloRizzi-TessaTraeger.jpg.jpg
+primary_image_credit: 'Photo: Tessa Traeger.'
+publishDate: "2018-10-20T13:58:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/washington-national-opera.md
+short_description: '&quot;When I start to work with a new orchestra, the first thing
+  that I do is to play through the piece or through large chunks of it. This allows
+  me to get to know the way of playing of the orchestra and, likewise, the orchestra
+  gets to know my way of conducting and if I have a deep knowledge of the piece. This
+  is something, by the way, that experienced musicians know immediately, and you earn
+  or lose their respect in these first moments.&quot;'
+slug: talking-with-conductors-carlo-rizzi
+title: 'Talking with conductors: Carlo Rizzi'
+_template: article_single
+---
 
 ### What does it feel like to conduct an orchestra, when everything is going right?
 

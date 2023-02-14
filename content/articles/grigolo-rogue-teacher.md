@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2017-04-26T09:35:00-04:00"
-lastmod = "2017-04-26T10:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493215281080/2017-04-25---Grigolo.jpg.jpg"
-primary_image_credit = "Photo: Alex D. James"
-publishDate = "2017-04-26T10:28:00-04:00"
-related_articles = ["articles/adele-knowing-your-audience.md","articles/taking-a-bow-curtain-calls-for-your-voice-type.md"]
-related_people = ["scene/people/vittorio-grigolo.md"]
-short_description = "Is it just us, or do strapping tenors always seem to waver on the line between charming enthusiasm and invasion of personal space? Now, this woman is being a great sport as a stranger (for all intents and purposes) touches her face. She&#039;s likely one of the many women and men who would indulge Mr. Grigòlo in an impromptu - and tactile - voice lesson. "
-slug = "grigolo-rogue-teacher"
-title = "Vittorio Grigòlo, impromptu voice teacher"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2017-04-26T09:35:00-04:00"
+lastmod: "2017-04-26T10:28:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493215281080/2017-04-25---Grigolo.jpg.jpg
+primary_image_credit: 'Photo: Alex D. James'
+publishDate: "2017-04-26T10:28:00-04:00"
+related_articles:
+- articles/adele-knowing-your-audience.md
+- articles/taking-a-bow-curtain-calls-for-your-voice-type.md
+related_people:
+- scene/people/vittorio-grigolo.md
+short_description: 'Is it just us, or do strapping tenors always seem to waver on
+  the line between charming enthusiasm and invasion of personal space? Now, this woman
+  is being a great sport as a stranger (for all intents and purposes) touches her
+  face. She&#039;s likely one of the many women and men who would indulge Mr. Grigòlo
+  in an impromptu - and tactile - voice lesson. '
+slug: grigolo-rogue-teacher
+title: Vittorio Grigòlo, impromptu voice teacher
+_template: article_single
+---
 
 Star tenor (and super dreamy guy) [Vittorio Grigòlo](/scene/people/vittorio-grigolo/) was in Los Angeles the other day, and like many passionate singers, he apparently couldn't resist stopping to listen to a street performer offering up a bit of opera:
 

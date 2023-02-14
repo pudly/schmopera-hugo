@@ -1,15 +1,19 @@
-+++
-date = "2018-01-24T11:52:00-05:00"
-discipline = "Baritone"
-lastmod = "2018-01-24T11:52:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516812369775/Holger%20Falk%20_%20CR%20Wonge%20Bergmann.JPG.JPG"
-primary_image_credit = "Wonge Bergman"
-publishDate = "2018-01-24T11:52:00-05:00"
-related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/la-monnaie.md","scene/companies/bayerische-staatsoper.md"]
-slug = "holger-falk"
-title = "Holger Falk"
-website = "http://www.holgerfalk.com/"
-+++
+---
+date: "2018-01-24T11:52:00-05:00"
+discipline: Baritone
+lastmod: "2018-01-24T11:52:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516812369775/Holger%20Falk%20_%20CR%20Wonge%20Bergmann.JPG.JPG
+primary_image_credit: Wonge Bergman
+publishDate: "2018-01-24T11:52:00-05:00"
+related_companies:
+- scene/companies/oper-frankfurt.md
+- scene/companies/la-monnaie.md
+- scene/companies/bayerische-staatsoper.md
+slug: holger-falk
+title: Holger Falk
+website: http://www.holgerfalk.com/
+_template: "people_single"
+---
 
 *Holger Falk is one of the most intellectually and vocally flexible singers on German stages,* wrote the magazine *Opernwelt*. The colourfulness, flexibility and authenticity in his expression are the artistic foundation of his international career as an opera singer as well as an interpreter of art song.
 

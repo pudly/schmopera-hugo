@@ -1,18 +1,25 @@
-+++
-date = "2018-01-16T19:19:00-05:00"
-discipline = "Soprano"
-lastmod = "2018-01-16T19:19:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516147887479/MacKinnon%202%20c.jiacheng%20xiong%20.JPG.JPG"
-primary_image_credit = "Jiacheng Xiong"
-publishDate = "2018-01-16T19:19:00-05:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/canadian-opera-company.md","scene/companies/the-dallas-opera.md","scene/companies/oper-frankfurt.md","scene/companies/garsington-opera.md","scene/companies/glyndebourne.md"]
-slug = "kirsten-mackinnon"
-title = "Kirsten MacKinnon"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/kirstensoprano/"
-+++
+---
+date: "2018-01-16T19:19:00-05:00"
+discipline: Soprano
+lastmod: "2018-01-16T19:19:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516147887479/MacKinnon%202%20c.jiacheng%20xiong%20.JPG.JPG
+primary_image_credit: Jiacheng Xiong
+publishDate: "2018-01-16T19:19:00-05:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/garsington-opera.md
+- scene/companies/glyndebourne.md
+slug: kirsten-mackinnon
+social_media:
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/kirstensoprano/
+title: Kirsten MacKinnon
+_template: "people_single"
+---
 
 Described by Opera UK as a "heroine [with] poise, expressive singing, excellent vocalism, and a dark and full tone", Canadian soprano Kirsten MacKinnon has captured the attention of audiences across North America and Europe. A graduate of the Curtis Institute of Music under the mentorship of Professor Edith Wiens, she held the Alfred Greenberg Memorial fellowship during her studies, and was also a grant holder of the Jacqueline Desmarais Foundation for Young Canadian Opera Singers.
 

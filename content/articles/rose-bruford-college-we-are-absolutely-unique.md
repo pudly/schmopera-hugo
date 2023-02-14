@@ -1,15 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-03-13T09:47:00+00:00"
-lastmod = "2017-03-14T09:40:00+00:00"
-preamble = "When it comes to learning about all things opera, there are more ways to do it than you may think. Compared to the common structure of music and opera degrees at universities and conservatories, South London's [Rose Bruford College](https://www.bruford.ac.uk/courses/opera-studies-ba-hons-by-online-distance-learning/) is unique in its operatic training. The course schedule is flexible - even offering online resources - and there are accessible points of entry for students of various ages, experience levels, and post-study plans.\n\nWe spoke with Dr. F. Jane Schopf, Programme Director, and current students Owen Davies and Natasha Hardy, about the broad-reaching possibilities at Rose Bruford College."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489399064467/2017-03-13---Opera-image-1.jpg.jpg"
-publishDate = "2017-03-14T09:40:00+00:00"
-short_description = "&quot;I began studying for the opera degree soon after I retired. I discovered I finally had time to pursue a passion for opera that began in my teenage years. For someone like me, online learning is a real treat. I couldn&#039;t see myself returning to a university campus and I can organise my studying around a busy social life. I love being able to work my way through the excellent course papers at my own pace.&quot;"
-slug = "rose-bruford-college-we-are-absolutely-unique"
-title = "Rose Bruford College: &quot;We are absolutely unique.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-03-13T09:47:00+00:00"
+lastmod: "2017-03-14T09:40:00+00:00"
+preamble: |-
+  When it comes to learning about all things opera, there are more ways to do it than you may think. Compared to the common structure of music and opera degrees at universities and conservatories, South London's [Rose Bruford College](https://www.bruford.ac.uk/courses/opera-studies-ba-hons-by-online-distance-learning/) is unique in its operatic training. The course schedule is flexible - even offering online resources - and there are accessible points of entry for students of various ages, experience levels, and post-study plans.
+
+  We spoke with Dr. F. Jane Schopf, Programme Director, and current students Owen Davies and Natasha Hardy, about the broad-reaching possibilities at Rose Bruford College.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489399064467/2017-03-13---Opera-image-1.jpg.jpg
+publishDate: "2017-03-14T09:40:00+00:00"
+short_description: '&quot;I began studying for the opera degree soon after I retired.
+  I discovered I finally had time to pursue a passion for opera that began in my teenage
+  years. For someone like me, online learning is a real treat. I couldn&#039;t see
+  myself returning to a university campus and I can organise my studying around a
+  busy social life. I love being able to work my way through the excellent course
+  papers at my own pace.&quot;'
+slug: rose-bruford-college-we-are-absolutely-unique
+title: 'Rose Bruford College: &quot;We are absolutely unique.&quot;'
+_template: article_single
+---
 
 ## What does the online BA (Hons) Opera Studies programme offer, in comparison with more traditional degrees from conservatories and universities?
 
@@ -29,7 +39,10 @@ Access to everything online makes it easy to keep documents, i.e. reading course
 
 **Owen Davies**: I began studying for the opera degree soon after I retired. I discovered I finally had time to pursue a passion for opera that began in my teenage years. For someone like me, online learning is a real treat. I couldn't see myself returning to a university campus and I can organise my studying around a busy social life. I love being able to work my way through the excellent course papers at my own pace. There is such a wealth of opera online - full operas and excerpts - that I often find myself pursuing musical trails that aren't directly relevant to the assignment I am preparing but enhance my understanding of music and singing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489399144011/2017-03-13---Owen-Davies.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489399144011/2017-03-13---Owen-Davies.jpg.jpg)
+
 <figcaption>Owen Davies, student at Rose Bruford College.</figcaption>
 </figure>
 
@@ -49,7 +62,10 @@ The main thing is it sometimes (depending on the module) doesn't feel like study
 
 Last but not least, by the end of this year (2017) I will have completed my first year of my degree which will have taken 2 and a half years.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489399100204/2017-03-13---Natasha-Hardy.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489399100204/2017-03-13---Natasha-Hardy.jpg.jpg)
+
 <figcaption>Natasha Hardy, student at Rose Bruford College.</figcaption>
 </figure>
 

@@ -1,17 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-08T13:40:00-04:00"
-lastmod = "2017-07-10T21:52:00-04:00"
-preamble = "At this summer's [Tête à Tête](/scene/companies/tete-a-tete/) opera festival, you can catch the debut performance of [*ID, Please*](http://www.tete-a-tete.org.uk/event/id-please/), the new opera by composer Soosan Lolavar and librettist Daniel Hirsch. With terms like \"Brexit\" and \"Muslim ban\" at the front of our minds, *ID, Please* tells a particularly timely story of unnamed characters at an unknown border control station.\n\n\"*ID, Please* has become a complex process through which I work through my feelings of instability in the new world order, my fears for immigrant communities across the world and my concerns for the safety of my family and friends,\" says British-Iranian composer Soosan Lolavar, who herself was almost prevented from attending rehearsals of her opera in the United States following the first \"Muslim ban\" in early 2017.\n\nLolavar speaks eloquently about her work, and the troubling contemporary history that inspires its story."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499724189237/2017-07-10---Airport.jpg.jpg"
-publishDate = "2017-07-10T21:50:00-04:00"
-related_articles = ["articles/art-is-not-action.md","articles/tete-a-tete.md","articles/when-art-is-not-enough-opera-activism.md","articles/aams-king-arthur-a-missed-brexit.md"]
-related_companies = ["scene/companies/tete-a-tete.md"]
-short_description = "&quot;I hope the music takes us through many of the emotions experienced by those crossing borders: fear, hope, suspicion, regret, anger, boredom, alienation and joy. We see glimpses into the lives of many passengers played by two singers and yet we never really find out what happens to them; whether they make it across the border or are stuck in the perjury of border control forever.&quot;"
-slug = "dont-miss-id-please"
-title = "Don&#039;t miss: ID, Please"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-08T13:40:00-04:00"
+lastmod: "2017-07-10T21:52:00-04:00"
+preamble: |-
+  At this summer's [Tête à Tête](/scene/companies/tete-a-tete/) opera festival, you can catch the debut performance of [*ID, Please*](http://www.tete-a-tete.org.uk/event/id-please/), the new opera by composer Soosan Lolavar and librettist Daniel Hirsch. With terms like "Brexit" and "Muslim ban" at the front of our minds, *ID, Please* tells a particularly timely story of unnamed characters at an unknown border control station.
+
+  "*ID, Please* has become a complex process through which I work through my feelings of instability in the new world order, my fears for immigrant communities across the world and my concerns for the safety of my family and friends," says British-Iranian composer Soosan Lolavar, who herself was almost prevented from attending rehearsals of her opera in the United States following the first "Muslim ban" in early 2017.
+
+  Lolavar speaks eloquently about her work, and the troubling contemporary history that inspires its story.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499724189237/2017-07-10---Airport.jpg.jpg
+publishDate: "2017-07-10T21:50:00-04:00"
+related_articles:
+- articles/art-is-not-action.md
+- articles/tete-a-tete.md
+- articles/when-art-is-not-enough-opera-activism.md
+- articles/aams-king-arthur-a-missed-brexit.md
+related_companies:
+- scene/companies/tete-a-tete.md
+short_description: '&quot;I hope the music takes us through many of the emotions experienced
+  by those crossing borders: fear, hope, suspicion, regret, anger, boredom, alienation
+  and joy. We see glimpses into the lives of many passengers played by two singers
+  and yet we never really find out what happens to them; whether they make it across
+  the border or are stuck in the perjury of border control forever.&quot;'
+slug: dont-miss-id-please
+title: 'Don&#039;t miss: ID, Please'
+_template: article_single
+---
 
 ## What is it about the issues relating to xenophobia and suspicion of migrants that you thought would adapt well into an operatic performance?
 
@@ -21,7 +37,9 @@ Of course, we all know what happened next, and in a way I'm glad we didn't base 
 
 As such, while the piece focuses on people trying to cross a border, it's more broadly about liminality and the alienation that comes from existing in a space between states. This draws very strongly on my background as someone who grew up across British and Iranian culture. I've spent a lifetime trying to work out how to fit in in both places and I'm not sure I'm ever going to find the answer I'm looking for. I've come to an acceptance that liminality is my default experience and so I suppose it's unsurprising that I seek artistic projects to explore this.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499723497986/2017-07-10---Lolavar-Soosan.jpg.jpg)<figcaption>Soosan Lolavar, British-Iranian composer of *ID, Please*.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499723497986/2017-07-10---Lolavar-Soosan.jpg.jpg)<figcaption>Soosan Lolavar, British-Iranian composer of *ID, Please*.</figcaption>
 </figure>
 
 ## How have you portrayed such a contemporary and ongoing story in the form of opera?
@@ -30,7 +48,10 @@ To include verbatim text and original research we composed an online questionnai
 
 And then when Trump instigated his Muslim Ban mark 1, the whole project came into terrifingly sharp focus when I was temporarily banned from entering the US due to my Iranian passport. There was a worrying few days when I was due to fly out for rehearsals and had no idea if I would be allowed to enter the country. And even more concerning was watching the stories of families separated, refugees refused after two years of background checks and Iranian friends of mine in the US terrified to leave the country for fear they wouldn't be allowed back in. In the end I was able to travel, but while I was standing in line at immigration at JFK, scared and with my legs shaking, a key line from the libretto was ringing in my ears with newfound relevance - "I clutch my passport so hard it makes my hand hurt". 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499723180708/2017-07-10---idplease.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499723180708/2017-07-10---idplease.jpg.jpg)
+
 <figcaption></figcaption>
 </figure>
 

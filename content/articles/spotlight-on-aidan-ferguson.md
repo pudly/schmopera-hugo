@@ -1,17 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-01-12T11:09:00-05:00"
-lastmod = "2016-01-13T12:43:00-05:00"
-preamble = "Canadian mezzo-soprano [Aidan Ferguson](/scene/people/aidan-ferguson/) is an alumna of [l'Opéra de Montréal](/scene/companies/lopera-de-montreal/)'s Atelier lyrique program, as well as Operavenir, the Opera Studio at Theater Basel, Switzerland.\n\nIn her honest interview, Aidan talks about perfection, what she calls \"beige singing\", and her not-so-secret dream of singing Scarpia."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452615806764/2016-11-12---Aidan-Ferguson.jpg.jpg"
-publishDate = "2016-01-13T11:00:00-05:00"
-related_articles = ["articles/spotlight-on-maikai-nash.md","articles/talking-with-singers-nicole-cabell.md","articles/spotlight-on-jeremy-hirsch.md","articles/spotlight-on-julia-dawson.md"]
-related_people = ["scene/people/aidan-ferguson.md"]
-short_description = "&quot;Many people have told me along the way &#039;If you could see yourself doing something else, then go do it!&#039; I have always felt a bit of frustration at that statement. I know that it comes from a place of wanting to warn young singers about the crazy journey that lies ahead. It is a crazy life, but there are many different things that I could be doing, but I am choosing this career right now. I believe this is what I am suppose to be doing.&quot;"
-slug = "spotlight-on-aidan-ferguson"
-title = "Spotlight on: Aidan Ferguson"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-01-12T11:09:00-05:00"
+lastmod: "2016-01-13T12:43:00-05:00"
+preamble: |-
+  Canadian mezzo-soprano [Aidan Ferguson](/scene/people/aidan-ferguson/) is an alumna of [l'Opéra de Montréal](/scene/companies/lopera-de-montreal/)'s Atelier lyrique program, as well as Operavenir, the Opera Studio at Theater Basel, Switzerland.
+
+  In her honest interview, Aidan talks about perfection, what she calls "beige singing", and her not-so-secret dream of singing Scarpia.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452615806764/2016-11-12---Aidan-Ferguson.jpg.jpg
+publishDate: "2016-01-13T11:00:00-05:00"
+related_articles:
+- articles/spotlight-on-maikai-nash.md
+- articles/talking-with-singers-nicole-cabell.md
+- articles/spotlight-on-jeremy-hirsch.md
+- articles/spotlight-on-julia-dawson.md
+related_people:
+- scene/people/aidan-ferguson.md
+short_description: '&quot;Many people have told me along the way &#039;If you could
+  see yourself doing something else, then go do it!&#039; I have always felt a bit
+  of frustration at that statement. I know that it comes from a place of wanting to
+  warn young singers about the crazy journey that lies ahead. It is a crazy life,
+  but there are many different things that I could be doing, but I am choosing this
+  career right now. I believe this is what I am suppose to be doing.&quot;'
+slug: spotlight-on-aidan-ferguson
+title: 'Spotlight on: Aidan Ferguson'
+_template: article_single
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

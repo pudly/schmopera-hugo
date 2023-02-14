@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2017-04-12T16:49:00-04:00"
-lastmod = "2017-04-21T18:04:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492030192447/2017-04-13---Braun-CD.jpg.jpg"
-publishDate = "2017-04-21T07:57:00-04:00"
-related_articles = ["articles/kira-braun-im-happiest-when-im-singing.md","articles/canadian-childrens-opera-companys-lullabies-from-kids-for-kids.md"]
-related_people = ["scene/people/kira-braun.md"]
-short_description = "Toronto-based soprano Kira Braun is one of those singers whose unselfish love of her craft is crystal clear. Following its official launch at Gallery 345, Braun has released The Echoing Air, an album of music by Purcell, Poulenc, Bellini, and Schumann with pianist Peter Krochak."
-slug = "kira-braun-so-much-music-so-little-time"
-title = "Kira Braun: &quot;So much music, so little time...&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2017-04-12T16:49:00-04:00"
+lastmod: "2017-04-21T18:04:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492030192447/2017-04-13---Braun-CD.jpg.jpg
+publishDate: "2017-04-21T07:57:00-04:00"
+related_articles:
+- articles/kira-braun-im-happiest-when-im-singing.md
+- articles/canadian-childrens-opera-companys-lullabies-from-kids-for-kids.md
+related_people:
+- scene/people/kira-braun.md
+short_description: Toronto-based soprano Kira Braun is one of those singers whose
+  unselfish love of her craft is crystal clear. Following its official launch at Gallery
+  345, Braun has released The Echoing Air, an album of music by Purcell, Poulenc,
+  Bellini, and Schumann with pianist Peter Krochak.
+slug: kira-braun-so-much-music-so-little-time
+title: 'Kira Braun: &quot;So much music, so little time...&quot;'
+_template: article_single
+---
 
 Toronto-based soprano [Kira Braun](/kira-braun-im-happiest-when-im-singing/) is one of those singers whose unselfish love of her craft is crystal clear. Following its official launch at Gallery 345, Braun has released *The Echoing Air*, an album of music by Purcell, Poulenc, Bellini, and Schumann with pianist Peter Krochak.
 

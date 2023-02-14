@@ -1,19 +1,21 @@
-+++
-date = "2017-09-04T14:00:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-09-04T14:00:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547920204/Martha%20Jones%20(c)%20Raphaelle%20Photography.jpg.jpg"
-primary_image_credit = "Raphaelle Photography"
-publishDate = "2017-09-04T14:00:00-04:00"
-related_companies = ["scene/companies/grange-park-opera.md"]
-slug = "martha-jones"
-title = "Martha Jones"
-website = "http://marthajonesmezzo.co.uk/Martha/Home.html"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/marthajmezzo"
-+++
+---
+date: "2017-09-04T14:00:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-09-04T14:00:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547920204/Martha%20Jones%20(c)%20Raphaelle%20Photography.jpg.jpg
+primary_image_credit: Raphaelle Photography
+publishDate: "2017-09-04T14:00:00-04:00"
+related_companies:
+- scene/companies/grange-park-opera.md
+slug: martha-jones
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/marthajmezzo
+title: Martha Jones
+website: http://marthajonesmezzo.co.uk/Martha/Home.html
+_template: "people_single"
+---
 
 Martha studied at Durham University and the Royal College of Music International Opera School.  Whilst at the RCM she was awarded the Susan Chilcott Scholarship by the Royal Philharmonic Society.  She was also supported in her studies by the Baroness de Turckheim award, an MBF award, the Marjorie and Dorothy Whyte Memorial Award, Sophie’s Silver Lining Fund and the Josephine Baker Trust.   
 

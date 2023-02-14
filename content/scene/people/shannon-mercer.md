@@ -1,13 +1,14 @@
-+++
-date = "2017-08-24T17:58:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-08-24T17:58:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503611608748/shannon%20mercer%20edited.jpg.jpg"
-publishDate = "2017-08-24T17:58:00-04:00"
-slug = "shannon-mercer"
-title = "Shannon Mercer"
-website = "http://www.shannonmercer.com/"
-+++
+---
+date: "2017-08-24T17:58:00-04:00"
+discipline: Soprano
+lastmod: "2017-08-24T17:58:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503611608748/shannon%20mercer%20edited.jpg.jpg
+publishDate: "2017-08-24T17:58:00-04:00"
+slug: shannon-mercer
+title: Shannon Mercer
+website: http://www.shannonmercer.com/
+_template: "people_single"
+---
 
 Recognized for the luminosity and effortless agility of her voice, as well as her commanding stage presence and profound acting ability, Canadian soprano Shannon Mercer enthusiastically embraces a range of repertoire from early to contemporary music, from Francesca Caccini and Monteverdi to John Beckwith and Ana Sokolovic. Shannon maintains a busy and challenging performance calendar of opera, concert, and recital engagements throughout North America and Europe while also sustaining an active recording presence, capturing some rarely performed works.
 

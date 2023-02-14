@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-01-24T14:01:00-05:00"
-lastmod = "2015-04-11T22:34:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428805715946/Jan-2015-1024.jpg.jpg"
-primary_image_credit = "Emily Ding"
-publishDate = "2015-01-24T14:01:00-05:00"
-related_companies = ["scene/companies/opera-5.md"]
-related_people = ["scene/people/leighann-allen.md","scene/people/geoffrey-sirett.md","scene/people/emma-parkinson.md","scene/people/christopher-mayell.md","scene/people/rachel-krehm.md","scene/people/geoffrey-penar.md"]
-short_description = "Last night Opera 5 opened their double bill, Modern (Family) Opera, which was made up of Ermanno Wolf-Ferrari’s Il segreto di Susanna and the world première of Darren Russo’s new opera, Storybook. Stage directors Grace Smith (Wolf-Ferrari) and Opera 5 Artistic Director Aria Umezawa shared the double bill, bringing their unique styles to two pieces that couldn’t have been more different."
-slug = "in-review-modern-family-opera"
-title = "In review: Modern (Family) Opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-01-24T14:01:00-05:00"
+lastmod: "2015-04-11T22:34:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428805715946/Jan-2015-1024.jpg.jpg
+primary_image_credit: Emily Ding
+publishDate: "2015-01-24T14:01:00-05:00"
+related_companies:
+- scene/companies/opera-5.md
+related_people:
+- scene/people/leighann-allen.md
+- scene/people/geoffrey-sirett.md
+- scene/people/emma-parkinson.md
+- scene/people/christopher-mayell.md
+- scene/people/rachel-krehm.md
+- scene/people/geoffrey-penar.md
+short_description: Last night Opera 5 opened their double bill, Modern (Family) Opera,
+  which was made up of Ermanno Wolf-Ferrari’s Il segreto di Susanna and the world
+  première of Darren Russo’s new opera, Storybook. Stage directors Grace Smith (Wolf-Ferrari)
+  and Opera 5 Artistic Director Aria Umezawa shared the double bill, bringing their
+  unique styles to two pieces that couldn’t have been more different.
+slug: in-review-modern-family-opera
+title: 'In review: Modern (Family) Opera'
+_template: article_single
+---
 
 <p>
 	Last night <a href="http://www.operafive.com/season-tickets/" target="_blank">Opera 5</a> opened their double bill, <a href="http://www.operafive.com/season-tickets/" target="_blank"><em>Modern (Family) Opera</em></a>, which was made up of Ermanno Wolf-Ferrari's <em>Il segreto di Susanna </em>and the world première of Darren Russo's new opera, <em>Storybook</em>. Stage directors Grace Smith (Wolf-Ferrari) and Opera 5 Artistic Director Aria Umezawa shared the double bill, bringing their unique styles to two pieces that couldn't have been more different. Music Director Evan Mitchell led the orchestra (which I believe is a first for Opera 5, so congrats!) impressively through two tricky scores. I thought it was Opera 5's best production yet. It was streamlined and cohesive, and both pieces stood well on their own. Get out and see one of the two remaining shows (<a href="http://www.operafive.com/season-tickets/" target="_blank">details right here</a>).

@@ -1,17 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-04-15T10:41:00+01:00"
-lastmod = "2016-04-15T11:08:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460714250975/2016-04-11---Javier-Camarena.jpg.jpg"
-primary_image_credit = "Photo: Jonathan Muró."
-publishDate = "2016-04-15T11:00:00+01:00"
-related_articles = ["articles/in-review-juan-diego-florezs-rosenblatt-recital.md","articles/in-review-paul-appleby-at-wigmore-hall.md","articles/ian-rosenblatt-its-all-about-the-voice.md","articles/in-review-bryn-terfel-at-koerner-hall.md","articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md","articles/in-review-alek-shrader-at-wigmore-hall.md","articles/in-review-jamie-barton-at-wigmore-hall.md","articles/in-review-chris-thile-at-wigmore-hall.md"]
-related_people = ["scene/people/javier-camarena.md"]
-short_description = "This recital was the best use of the &quot;crowd pleasing&quot; tactic. Camarena chose repertoire with which he just couldn&#039;t have gone wrong, but he followed up expectation with perfect delivery. It&#039;s no wonder that he holds rank along with Pavarotti and Flórez, as the third singer in 70 years to encore an aria at the Metropolitan Opera."
-slug = "in-review-javier-camarena-at-wigmore-hall"
-title = "In review: Javier Camarena at Wigmore Hall"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-04-15T10:41:00+01:00"
+lastmod: "2016-04-15T11:08:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460714250975/2016-04-11---Javier-Camarena.jpg.jpg
+primary_image_credit: 'Photo: Jonathan Muró.'
+publishDate: "2016-04-15T11:00:00+01:00"
+related_articles:
+- articles/in-review-juan-diego-florezs-rosenblatt-recital.md
+- articles/in-review-paul-appleby-at-wigmore-hall.md
+- articles/ian-rosenblatt-its-all-about-the-voice.md
+- articles/in-review-bryn-terfel-at-koerner-hall.md
+- articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md
+- articles/in-review-alek-shrader-at-wigmore-hall.md
+- articles/in-review-jamie-barton-at-wigmore-hall.md
+- articles/in-review-chris-thile-at-wigmore-hall.md
+related_people:
+- scene/people/javier-camarena.md
+short_description: This recital was the best use of the &quot;crowd pleasing&quot;
+  tactic. Camarena chose repertoire with which he just couldn&#039;t have gone wrong,
+  but he followed up expectation with perfect delivery. It&#039;s no wonder that he
+  holds rank along with Pavarotti and Flórez, as the third singer in 70 years to encore
+  an aria at the Metropolitan Opera.
+slug: in-review-javier-camarena-at-wigmore-hall
+title: 'In review: Javier Camarena at Wigmore Hall'
+_template: article_single
+---
 
 Last night's [Rosenblatt Recital](/ian-rosenblatt-its-all-about-the-voice/), featuring tenor [Javier Camarena](/scene/people/javier-camarena/) and pianist [Ángel Rodríguez](http://www.angelrodriguez.mx/), was a lesson in what it means to have technique, and to use it for entertainment.
 
@@ -25,5 +40,8 @@ Camarena could have stood as still as a statue, and his voice would still have p
 
 This recital was the best use of the "crowd pleasing" tactic. Camarena chose repertoire with which he just couldn't have gone wrong, but he followed up expectation with perfect delivery. It's no wonder that he holds rank along with Pavarotti and Flórez, as the third singer in 70 years to [encore an aria](https://youtu.be/Fau3XIaHoDc) at the Metropolitan Opera. This was a superb night, and we hope he comes back for another Rosenblatt Recital soon.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460714500116/2016-04-15---JennaJavier.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460714500116/2016-04-15---JennaJavier.jpg.jpg)
+
 <figcaption>Schmopera's Jenna Douglas and Javier Camarena: all smiles after a night of stunning singing.</figcaption>

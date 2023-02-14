@@ -1,15 +1,21 @@
-+++
-date = "2015-04-12T18:58:00-04:00"
-discipline = "Bass"
-lastmod = "2015-04-12T18:58:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428879235084/bob_edit_8_forprintsharpercolourcrop.jpg.jpg"
-primary_image_credit = "Adrian Parks"
-publishDate = "2015-04-12T18:58:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/curtis-institute-of-music.md"]
-slug = "robert-pomakov"
-title = "Robert Pomakov"
-
-+++
+---
+date: "2015-04-12T18:58:00-04:00"
+discipline: Bass
+lastmod: "2015-04-12T18:58:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428879235084/bob_edit_8_forprintsharpercolourcrop.jpg.jpg
+primary_image_credit: Adrian Parks
+publishDate: "2015-04-12T18:58:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/curtis-institute-of-music.md
+slug: robert-pomakov
+title: Robert Pomakov
+_template: "people_single"
+---
 In the 2018-2019 season, Canadian bass Robert Pomakov will make role debuts Nourabad in _Les Pêcheurs de Perles_ at Santa Fe Opera, and Méphistophélès in _Faust_ for his house debut with Vancouver Opera. He will return to Oper Frankfurt to sing King René in a new production of _Iolanta_ directed by Lydia Steier and to the Metropolitan Opera to reprise the role of Monterone in _Rigoletto_. Concert performances of the 2018-2019 season will include his debut with the Victoria Symphony, singing König Heinrich in Act III of _Lohengrin_.
 
 In the 2017-18 season, Mr. Pomakov returned to the Metropolitan Opera to sing Luther and Crespel in _Les Contes d’Hoffmann_ and Bonze in _Madama Butterfly_, and to cover Wurm in _Luisa Miller_. He also returned to the Canadian Opera Company to sing Monterone in _Rigoletto_ and to cover Osmin in _Die Entführung aus dem Serail_, as well as to Oper Frankfurt to sing Oroveso in a new Christof Loy production of _Norma_.

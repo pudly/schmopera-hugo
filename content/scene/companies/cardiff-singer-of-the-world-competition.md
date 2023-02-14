@@ -1,22 +1,28 @@
-+++
-date = "2015-06-05T14:29:00-04:00"
-lastmod = "2015-06-05T14:29:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546481424/media/2019/01/Logo-Cardiff.jpg"
-related_people = ["scene/people/aviva-fortunata.md", "scene/people/jamie-barton.md", "scene/people/dmitri-hvorostovsky.md", "scene/people/ryan-speedo-green.md", "scene/people/patricia-bardon.md", "scene/people/anush-hovhannisyan.md", "scene/people/lauren-michelle.md"]
-slug = "cardiff-singer-of-the-world-competition"
-title = "Cardiff Singer of the World Competition"
-type_of_company = "Singing Competition"
-website = "http://www.bbc.co.uk/events/r2hzp6?lang=en"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/cardiffsinger"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/cardiffsinger"
-
-+++
+---
+date: "2015-06-05T14:29:00-04:00"
+lastmod: "2015-06-05T14:29:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546481424/media/2019/01/Logo-Cardiff.jpg
+related_people:
+- scene/people/aviva-fortunata.md
+- scene/people/jamie-barton.md
+- scene/people/dmitri-hvorostovsky.md
+- scene/people/ryan-speedo-green.md
+- scene/people/patricia-bardon.md
+- scene/people/anush-hovhannisyan.md
+- scene/people/lauren-michelle.md
+slug: cardiff-singer-of-the-world-competition
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/cardiffsinger
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/cardiffsinger
+title: Cardiff Singer of the World Competition
+type_of_company: Singing Competition
+website: http://www.bbc.co.uk/events/r2hzp6?lang=en
+_template: "company_single"
+---
 BBC Cardiff Singer of the World is a competition known throughout the classical music world as the premier showcase for opera and concert singers at the outset of their careers. It has launched the careers of some major stars including Karita Mattila, Dmitri Hvorostovsky, Bryn Terfel, Anja Harteros and Jamie Barton.
 
 ### About the competition

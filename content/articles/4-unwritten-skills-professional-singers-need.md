@@ -1,16 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-07-24T20:34:00-04:00"
-lastmod = "2017-07-25T12:17:00-04:00"
-preamble = "Singers, in between all your voice lessons and language classes, do you ever hear the trope about successful singers having that \"special something\"? Synonyms include \"charisma\", \"star quality\", and \"stage presence\", and they're all too vague to pin down.  Whatever that something is, it's an alchemical combination of qualities, some earned by nature, some by nurture. We've got 4 examples of necessary singer skills that are hard to learn in music school:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500945243196/2017-07-24---Skills.jpg.jpg"
-publishDate = "2017-07-25T12:07:00-04:00"
-related_articles = ["articles/audition-season-or-the-annual-festival-of-shattered-dreams.md","articles/on-the-ego.md"]
-short_description = "Interestingly enough, it&#039;s a reason to stay well-rounded, even while pursuing something time-consuming like singing; having something to say comes from having opinions on the world, and those are easier to come by outside of the bubble of singing and opera."
-slug = "4-unwritten-skills-professional-singers-need"
-title = "4 unwritten skills professional singers need"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-07-24T20:34:00-04:00"
+lastmod: "2017-07-25T12:17:00-04:00"
+preamble: 'Singers, in between all your voice lessons and language classes, do you
+  ever hear the trope about successful singers having that "special something"? Synonyms
+  include "charisma", "star quality", and "stage presence", and they''re all too vague
+  to pin down.  Whatever that something is, it''s an alchemical combination of qualities,
+  some earned by nature, some by nurture. We''ve got 4 examples of necessary singer
+  skills that are hard to learn in music school:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500945243196/2017-07-24---Skills.jpg.jpg
+publishDate: "2017-07-25T12:07:00-04:00"
+related_articles:
+- articles/audition-season-or-the-annual-festival-of-shattered-dreams.md
+- articles/on-the-ego.md
+short_description: Interestingly enough, it&#039;s a reason to stay well-rounded,
+  even while pursuing something time-consuming like singing; having something to say
+  comes from having opinions on the world, and those are easier to come by outside
+  of the bubble of singing and opera.
+slug: 4-unwritten-skills-professional-singers-need
+title: 4 unwritten skills professional singers need
+_template: article_single
+---
 
 ## Trust
 

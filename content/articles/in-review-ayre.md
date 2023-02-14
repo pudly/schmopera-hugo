@@ -1,18 +1,33 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-11-15T12:46:00+00:00"
-lastmod = "2016-11-15T14:16:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479214379013/2016-11-15---Ayre-Square-Block.jpg.jpg"
-primary_image_credit = "Photo by Darryl Block."
-publishDate = "2016-11-15T13:11:00+00:00"
-related_articles = ["articles/in-review-obeah-opera.md","articles/in-review-pellas-et-mlisande.md","articles/atgs-opera-pubs-it-can-all-get-a-bit-wild.md","articles/ayre-live-launches-atgs-new-record-label.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/miriam-khalil.md","scene/people/adanya-dunn.md","scene/people/ellen-mcateer.md"]
-short_description = "This wasn&#039;t just &quot;Miriam sings beautifully,&quot; she brought us in and told us stories of life, danger, heartbreak, violence, and love. Miriam is - and always was - a flawless singer, but her acting in this show was unparalleled. Sensitive, candid, visceral, and dedicated to truth - all the things I crave in a theatrical performance."
-slug = "in-review-ayre"
-title = "In review: Ayre"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-11-15T12:46:00+00:00"
+lastmod: "2016-11-15T14:16:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479214379013/2016-11-15---Ayre-Square-Block.jpg.jpg
+primary_image_credit: Photo by Darryl Block.
+publishDate: "2016-11-15T13:11:00+00:00"
+related_articles:
+- articles/in-review-obeah-opera.md
+- articles/in-review-pellas-et-mlisande.md
+- articles/atgs-opera-pubs-it-can-all-get-a-bit-wild.md
+- articles/ayre-live-launches-atgs-new-record-label.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/miriam-khalil.md
+- scene/people/adanya-dunn.md
+- scene/people/ellen-mcateer.md
+short_description: This wasn&#039;t just &quot;Miriam sings beautifully,&quot; she
+  brought us in and told us stories of life, danger, heartbreak, violence, and love.
+  Miriam is - and always was - a flawless singer, but her acting in this show was
+  unparalleled. Sensitive, candid, visceral, and dedicated to truth - all the things
+  I crave in a theatrical performance.
+slug: in-review-ayre
+title: 'In review: Ayre'
+_template: article_single
+---
 
 Tucked away on Wynford Road in North York is the beautiful Ismaili Centre. Located next to the Aga Khan Museum, the Ismaili Centre is one of Toronto's newest gems. The white marble floors and mosaics of semiprecious stones provided a stunning locale for [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/)'s latest offering.
 
@@ -22,7 +37,10 @@ The first half was a migratory journey through the Centre starting in the galler
 
 The night opened with a quartet piece called *Yiddishbbuk*; written in 1992, the piece sounds very much of the time. Portraying a "broken song played on a shattered cimbalom," the disjunct rhythms and dynamics piled on top of each other in a sort of highly organized cacophony. The piece gave you a great insight into where Golijov's journey began towards finding his composer's voice. The players executed the volatility of the  piece with intelligence and candor.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215082916/2016-11-16---Dunn.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215082916/2016-11-16---Dunn.jpg.jpg)
+
 <figcaption>Soprano Adanya Dunn. Photo by Darryl Block.</figcaption>
 </figure>
 
@@ -32,7 +50,10 @@ While the interplay between vocals and strings was fantastic, it was still very 
 
 *Tenebrae* was next, featuring the quartet with soprano Ellen McAteer and Brad Cherwin on clarinet. This piece saw the vocals and clarinet basically singing a duet with each other; Cherwin's clarinet sound blended seamlessly with McAteer's rich soprano to the point where I thought at times the clarinet was producing the consonants. In this piece, you felt less like it was a piece for "voice and small ensemble" and more "sextet where one instrument is a human voice" and it was the perfect way to cap off the first half.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215043542/2016-11-16---McAteer.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215043542/2016-11-16---McAteer.jpg.jpg)
+
 <figcaption>Soprano Ellen McAteer. Photo by Darryl Block.</figcaption>
 </figure>
 
@@ -44,7 +65,10 @@ There was no way I could be prepared for what happened next.
 
 After a brief introduction by Artistic Director [Joel Ivany](/scene/people/joel-ivany/), we settled in for what was possibly one of the most impressive vocal feats of the season.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215219070/2016-11-16---Ayre-Block.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215219070/2016-11-16---Ayre-Block.jpg.jpg)
+
 <figcaption>Photo by Darryl Block.</figcaption>
 </figure>
 
@@ -54,7 +78,10 @@ Throughout the piece Khalil's dark rich tone was always in the forefront, but wh
 
 From the point the second movement started, I was in tears. Not the violent tears I cried after the "Red Wedding" or after reading the "battle of Hogwart's", but the kind of tears you cry when you experience true beauty in person. Beauty with all its nuances, difficulties, and darkness that aren't being excused, but incorporated - even celebrated. Like the whole audience, I was suspended in this stasis of stirred emotion the repercussions of which were felt long after the final bows were taken. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215182303/2016-11-16---Ayre-Block-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215182303/2016-11-16---Ayre-Block-2.jpg.jpg)
+
 <figcaption>Soprano Miriam Khalil. Photo by Darryl Block.</figcaption>
 </figure>
 

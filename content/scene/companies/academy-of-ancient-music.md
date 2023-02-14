@@ -1,25 +1,24 @@
-+++
-date = "2016-12-10T13:29:00+00:00"
-lastmod = "2016-12-10T13:29:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481376455997/Logo---AAM.jpg.jpg"
-publishDate = "2016-12-10T13:29:00+00:00"
-slug = "academy-of-ancient-music"
-title = "Academy of Ancient Music"
-type_of_company = "Early Music Ensemble"
-website = "http://www.aam.co.uk/#/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/academyofancientmusic/?ref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/AAMorchestra"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/acadofancientmusic"
-+++
+---
+date: "2016-12-10T13:29:00+00:00"
+lastmod: "2016-12-10T13:29:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481376455997/Logo---AAM.jpg.jpg
+publishDate: "2016-12-10T13:29:00+00:00"
+slug: academy-of-ancient-music
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/academyofancientmusic/?ref=ts
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/AAMorchestra
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/user/acadofancientmusic
+title: Academy of Ancient Music
+type_of_company: Early Music Ensemble
+website: http://www.aam.co.uk/#/
+_template: "company_single"
+---
 
 That's exactly what we aim to do: energise baroque and classical music. And to do it, we get back to the style and spirit in which this music was first performed.
 

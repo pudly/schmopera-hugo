@@ -1,22 +1,28 @@
-+++
-date = "2016-10-20T11:46:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-10-20T11:46:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476959936116/2016-10-21---Paul_Gibbons_McPherson.jpg.jpg"
-primary_image_credit = "Paul Gibbons"
-publishDate = "2016-10-20T11:46:00+01:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/washington-national-opera.md","scene/companies/welsh-national-opera.md","scene/companies/the-metropolitan-opera.md"]
-slug = "robert-mcpherson"
-title = "Robert McPherson"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/RobertMcPhersonTenor/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/RobMcTenor"
-+++
+---
+date: "2016-10-20T11:46:00+01:00"
+discipline: Tenor
+lastmod: "2016-10-20T11:46:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476959936116/2016-10-21---Paul_Gibbons_McPherson.jpg.jpg
+primary_image_credit: Paul Gibbons
+publishDate: "2016-10-20T11:46:00+01:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/the-metropolitan-opera.md
+slug: robert-mcpherson
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/RobertMcPhersonTenor/?fref=ts
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/RobMcTenor
+title: Robert McPherson
+_template: "people_single"
+---
 
 Hailed by the New York Times for his “robust voice, agility and confidence,” Robert McPherson returns to English National Opera for Nadir in *Les pêcheurs de perles* as well as to the roster of the Metropolitan Opera for its production of Fidelio in the 2016-17 season. Future seasons see further returns to the Metropolitan Opera for performances. Last season, he returned to Opera Vlaandaren for his first performances of Gernando and Ubaldo in Rossini’s *Armida*, New Israeli Opera for Nadir in *Les pêcheurs de perles*, and Utah Opera for Camille in *The Merry Widow*. He also made his Metropolitan Opera debut as Basilio in *Le nozze di Figaro* and, in his home state of Washington, sang Nemorino in *L’elisir d’amore* with Vashon Opera. 
 

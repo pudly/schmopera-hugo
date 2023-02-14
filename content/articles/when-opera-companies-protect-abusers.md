@@ -1,16 +1,24 @@
-+++
-author = ["authors/blanche-isral.md"]
-categories = "Op-Ed"
-date = 2017-12-20T02:52:00Z
-lastmod = "2017-12-21T14:55:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513738286356/2017-12-20---Protect.jpg.jpg"
-publishDate = "2017-12-19T21:52:00-05:00"
-related_articles = ["articles/some-uncomfortable-questions-about-the-levine-business.md", "articles/operas-sexual-assault-secret.md", "articles/sex-is-one-of-the-perks-of-conducting.md", "articles/levines-ugly-exit-the-disposable-met.md", "articles/theatre-company-responsible-for-canadian-singers-death-goes-bankrupt.md"]
-short_description = "It is irresponsible and dangerous to assume that a criminal&#039;s colleagues are unaware or indifferent to such serious offenses. This attitude needs to be addressed. An entire art form is at stake."
-slug = "when-opera-companies-protect-abusers"
-title = "When opera companies protect abusers"
-
-+++
+---
+author:
+- authors/blanche-isral.md
+categories: Op-Ed
+date: "2017-12-20T02:52:00Z"
+lastmod: "2017-12-21T14:55:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513738286356/2017-12-20---Protect.jpg.jpg
+publishDate: "2017-12-19T21:52:00-05:00"
+related_articles:
+- articles/some-uncomfortable-questions-about-the-levine-business.md
+- articles/operas-sexual-assault-secret.md
+- articles/sex-is-one-of-the-perks-of-conducting.md
+- articles/levines-ugly-exit-the-disposable-met.md
+- articles/theatre-company-responsible-for-canadian-singers-death-goes-bankrupt.md
+short_description: It is irresponsible and dangerous to assume that a criminal&#039;s
+  colleagues are unaware or indifferent to such serious offenses. This attitude needs
+  to be addressed. An entire art form is at stake.
+slug: when-opera-companies-protect-abusers
+title: When opera companies protect abusers
+_template: article_single
+---
 Behind the scenes at opera companies around the world, in the wake of a year that has brought some of the entertainment industry's biggest scandals to light, the volume dial on hushed conversations is turning all the way up. Since the eruption of the [latest Levine scandal](/some-uncomfortable-questions-about-the-levine-business/) two weeks ago, a distinctive shift is taking place. Whether this shift makes or breaks the opera industry will depend on how opera companies choose to acknowledge and deal with it. With concerned colleagues emboldened and supported to speak out, audiences becoming more discerning about the character of the artists they are supporting, and the industry depending more than ever upon the public for its livelihood, it is clear that the policies that have allowed known abusers to fly under the radar in the past must radically change.
 
 >In 2017, taking a head-in-the-sand approach amounts to tacitly endorsing the abuse, and wrongfully puts the onus on individual staff members to develop their own strategies to build a safe work environment.

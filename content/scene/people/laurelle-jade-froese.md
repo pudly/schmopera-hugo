@@ -1,19 +1,24 @@
-+++
-date = "2015-07-20T17:19:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-07-20T17:23:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437427147235/LAURELLE9067Square.jpg.jpg"
-primary_image_credit = "Brittany Alyse Photography"
-publishDate = "2015-07-20T17:19:00-04:00"
-related_companies = ["scene/companies/vancouver-opera.md","scene/companies/highlands-opera-studio.md","scene/companies/opera-nuova.md","scene/companies/saskatoon-opera.md"]
-slug = "laurelle-jade-froese"
-title = "Laurelle Jade Froese"
-website = "http://www.laurellejade.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/laurellejade?fref=ts"
-+++
+---
+date: "2015-07-20T17:19:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-07-20T17:23:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437427147235/LAURELLE9067Square.jpg.jpg
+primary_image_credit: Brittany Alyse Photography
+publishDate: "2015-07-20T17:19:00-04:00"
+related_companies:
+- scene/companies/vancouver-opera.md
+- scene/companies/highlands-opera-studio.md
+- scene/companies/opera-nuova.md
+- scene/companies/saskatoon-opera.md
+slug: laurelle-jade-froese
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/laurellejade?fref=ts
+title: Laurelle Jade Froese
+website: http://www.laurellejade.com/
+_template: "people_single"
+---
 
 Winnipeg born mezzo-soprano Laurelle Jade Froese is establishing herself as a young professional singer in Canada. She began her professional operatic debut in the spring of 2014 in Saskatoon Opera’s *Die Zauberflöte* as Second Lady, and was apart of Vancouver Opera’s Young Arist Program for the 2014-2015 season.
 

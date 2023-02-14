@@ -1,22 +1,49 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-10-05T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "The [2019 Grange Festival International Singing Competition](https://thegrangefestival.co.uk/singing-competition/) Semi-Finals are on 21 October, and the final six will compete on 31 October."
-preamble = "This October, [The Grange Festival International Singing Competition](https://thegrangefestival.co.uk/singing-competition/) returns after its successful inaugural run in 2017. The Competition focuses on repertoire from the early 19th-century and prior, and competitors vie for prize money and the high-profile events that are the Semi-Final and Final rounds.\n\nWe spoke with soprano [Rowan Pierce](/scene/people/rowan-pierce/), the inaugural Grange Festival International Singing Competition winner, about the unique skill sets required in competition, and where her career has gone since her 2017 win."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1570109327/media/2019/10/sqRowanPierceGerardCollett_s09xxt.jpg"
-primary_image_credit = "Photo: Gerard Collett."
-related_articles = ["articles/talking-with-singers-nina-stemme.md", "articles/spotlight-on-emily-edmonds.md", "articles/spotlight-on-jennifer-davis.md"]
-related_companies = ["scene/companies/the-grange-festival.md"]
-related_people = ["scene/people/rowan-pierce.md"]
-short_description = "\"To sing professionally brings with it a responsibility to create a parallel world for people to get lost in when every day life needs something else, or to provide people with an outlet for their emotions, sometimes even when they don't realise they need one!\""
-slug = "talking-with-singers-rowan-pierce"
-title = "Talking with singers: Rowan Pierce"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Interview
+date: '2019-10-05T04:00:00+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  The [2019 Grange Festival International Singing
+  Competition](https://thegrangefestival.co.uk/singing-competition/) Semi-Finals
+  are on 21 October, and the final six will compete on 31 October.
+preamble: >-
+  This October, [The Grange Festival International Singing
+  Competition](https://thegrangefestival.co.uk/singing-competition/) returns
+  after its successful inaugural run in 2017. The Competition focuses on
+  repertoire from the early 19th-century and prior, and competitors vie for
+  prize money and the high-profile events that are the Semi-Final and Final
+  rounds.
 
-+++
+
+  We spoke with soprano [Rowan Pierce](/scene/people/rowan-pierce/), the
+  inaugural Grange Festival International Singing Competition winner, about the
+  unique skill sets required in competition, and where her career has gone since
+  her 2017 win.
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1570109327/media/2019/10/sqRowanPierceGerardCollett_s09xxt.jpg
+primary_image_credit: 'Photo: Gerard Collett.'
+related_articles:
+  - articles/talking-with-singers-nina-stemme.md
+  - articles/spotlight-on-emily-edmonds.md
+  - articles/spotlight-on-jennifer-davis.md
+related_companies:
+  - scene/companies/the-grange-festival.md
+related_people:
+  - scene/people/rowan-pierce.md
+short_description: >-
+  "To sing professionally brings with it a responsibility to create a parallel
+  world for people to get lost in when every day life needs something else, or
+  to provide people with an outlet for their emotions, sometimes even when they
+  don't realise they need one!"
+slug: talking-with-singers-rowan-pierce
+title: 'Talking with singers: Rowan Pierce'
+youtube_url: ''
+_template: article_single
+---
+
 ## Why do you sing professionally?
 
 Everyone has to have a job! I am very privileged that mine has turned out to be something I am passionate about. To sing professionally brings with it a responsibility to create a parallel world for people to get lost in when every day life needs something else, or to provide people with an outlet for their emotions, sometimes even when they don't realise they need one!

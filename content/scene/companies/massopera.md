@@ -1,23 +1,22 @@
-+++
-address = "27 Gerrish St., Brighton, MA 02135"
-email = "info@massopera.org"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571943210/media/2019/10/Logo-MassOpera_idmdmh.png"
-primary_image_credit = ""
-related_people = []
-slug = "massopera"
-title = "MassOpera"
-type_of_company = "Opera Company"
-website = "http://massopera.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/massopera/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/massoperaboston"
-
-+++
+---
+address: 27 Gerrish St., Brighton, MA 02135
+email: info@massopera.org
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571943210/media/2019/10/Logo-MassOpera_idmdmh.png
+primary_image_credit: ""
+related_people: []
+slug: massopera
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/massopera/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/massoperaboston
+title: MassOpera
+type_of_company: Opera Company
+website: http://massopera.org/
+_template: "company_single"
+---
 ### OUR MISSION
 
 MassOpera cultivates experiences for artists and audiences that challenge the status quo and reflect our diverse community

@@ -1,22 +1,57 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Interview"
-date = "2019-04-20T14:17:19+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Next up, Pomakov makes a Canadian return as Méphistophélès in Vancouver Opera's production of _Faust_, April 27 to May 5. For details and ticket information, [click here](https://www.vancouveropera.ca/faust/)."
-preamble = "Bass [Robert Pomakov](/scene/people/robert-pomakov/) had an unusually quick start to his career. [Still a teenager](http://www.scena.org/lsm/sm5-9/pomakov-en.htm), he was singled out as a promising singer by the COC's late director Richard Bradshaw, who became a mentor to the young bass. Since then he's been a road warrior touring the globe to sing at the world's most respected houses. He's an unassuming guy off-stage but that doesn't mean he has blunted ambitions.\n\nI spoke with Bob, a [loyal Toronto native](https://www.operabobspublichouse.com/) – he showed up to [coffee](http://bunca.de/) in a vintage Jay's cap –  before the last performance of [_Iolanta_](/the-follies-of-modernization-oedipus-rex-iolanta/) earlier in Oper Frankfurt's season.\n\nThis conversation has been edited and condensed."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1555781169/media/2019/04/sq3703_20iolanta.jpg"
-primary_image_credit = "Robert Pomakov as King René in Iolanta, Oper Frankfurt, 2018. Photo: Barbara Aumüller."
-related_articles = ["articles/talking-with-singers-ailyn-perez.md", "articles/talking-with-singers-russell-thomas.md", "articles/talking-with-singers-christian-van-horn.md"]
-related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/oper-frankfurt.md", "scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/robert-pomakov.md"]
-short_description = "\"It's like when you meet a love for the first time and for the first two months it's ecstatic love. That's what I need to do with my music and with roles; to have that spark at all times because it's what refreshes me.\""
-slug = "a-prodigy-grows-into-his-art"
-title = "A prodigy grows into his art"
-youtube_url = ""
+---
+author:
+  - authors/jeremy-hirsch.md
+categories: Interview
+date: '2019-04-20T14:17:19+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  Next up, Pomakov makes a Canadian return as Méphistophélès in Vancouver
+  Opera's production of _Faust_, April 27 to May 5. For details and ticket
+  information, [click here](https://www.vancouveropera.ca/faust/).
+preamble: >-
+  Bass [Robert Pomakov](/scene/people/robert-pomakov/) had an unusually quick
+  start to his career. [Still a
+  teenager](http://www.scena.org/lsm/sm5-9/pomakov-en.htm), he was singled out
+  as a promising singer by the COC's late director Richard Bradshaw, who became
+  a mentor to the young bass. Since then he's been a road warrior touring the
+  globe to sing at the world's most respected houses. He's an unassuming guy
+  off-stage but that doesn't mean he has blunted ambitions.
 
-+++
+
+  I spoke with Bob, a [loyal Toronto
+  native](https://www.operabobspublichouse.com/) – he showed up to
+  [coffee](http://bunca.de/) in a vintage Jay's cap –  before the last
+  performance of [_Iolanta_](/the-follies-of-modernization-oedipus-rex-iolanta/)
+  earlier in Oper Frankfurt's season.
+
+
+  This conversation has been edited and condensed.
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1555781169/media/2019/04/sq3703_20iolanta.jpg
+primary_image_credit: >-
+  Robert Pomakov as King René in Iolanta, Oper Frankfurt, 2018. Photo: Barbara
+  Aumüller.
+related_articles:
+  - articles/talking-with-singers-ailyn-perez.md
+  - articles/talking-with-singers-russell-thomas.md
+  - articles/talking-with-singers-christian-van-horn.md
+related_companies:
+  - scene/companies/canadian-opera-company.md
+  - scene/companies/oper-frankfurt.md
+  - scene/companies/the-metropolitan-opera.md
+related_people:
+  - scene/people/robert-pomakov.md
+short_description: >-
+  "It's like when you meet a love for the first time and for the first two
+  months it's ecstatic love. That's what I need to do with my music and with
+  roles; to have that spark at all times because it's what refreshes me."
+slug: a-prodigy-grows-into-his-art
+title: A prodigy grows into his art
+youtube_url: ''
+_template: article_single
+---
+
 **J: You started working professionally in your teens, then went to Curtis.**
 
 B: But I was working while at Curtis.
@@ -57,7 +92,9 @@ It's one thing if you're going out and doing a Monterone or a Bonze, where you g
 
 Whereas, what a lot of people forget is that the play _Iolanta_ is based on is called King René's Daughter, so it's actually King René's show. I feel when taking on a lead character, you have a responsibility as both an artist, and as an entertainer – they're two separate things but you have to learn how to bring them together.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1555781755/media/2019/04/3710_10iolanta2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1555781755/media/2019/04/3710_10iolanta2.jpg)
 
 <figcaption>Asmik Grigorian (Iolanta) and Robert Pomakov (King René) in Iolanta, Oper Frankfurt, 2018. Photo: Barbara Aumüller.</figcaption>
 
@@ -75,7 +112,9 @@ You have to get to a very high level day one of rehearsal, and then from day one
 
 But I still think you owe it to yourself, you owe it to the score, and you owe it to the audience to put that effort in. Sure, we can all go in and give 70 percent and have a nice career and make good money, but if you're going to go 70 percent, why not go 100 percent? Why not just do that extra work?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1555781723/media/2019/04/RobertPomakov-pc-AdrianParks.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1555781723/media/2019/04/RobertPomakov-pc-AdrianParks.jpg)
 
 <figcaption>Robert Pomakov, Canadian bass. Photo by Adrian Parks.</figcaption>
 

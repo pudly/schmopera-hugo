@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2016-02-08T22:07:00-05:00"
-lastmod = "2017-11-30T21:05:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512093939350/2017-11-30---Therapy.jpg.jpg"
-primary_image_credit = "Photo: Rick Harris, via Flickr. (Link in footer.)"
-publishDate = "2016-02-15T10:37:00-05:00"
-related_articles = ["articles/the-heart-and-the-art.md","articles/things-more-important-than-opera.md","articles/true-stories-the-critic-who-loves-opera-even-more-now.md","articles/helpful-singers-opera-does-house-calls.md"]
-short_description = "One the one hand, you could argue that the test of a true musician is similar to that saying, &quot;you know who your real friends are when your friendship costs them time and money.&quot; A real musician is one who wants to make and listen to music when there&#039;s no deadline, and no paycheque on the horizon. Right? I don&#039;t actually think that&#039;s right, but it&#039;s a nagging idea."
-slug = "music-the-musicians-therapy-except-when-its-not"
-title = "Music: the musician&#039;s therapy, except when it&#039;s not"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2016-02-08T22:07:00-05:00"
+lastmod: "2017-11-30T21:05:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512093939350/2017-11-30---Therapy.jpg.jpg
+primary_image_credit: 'Photo: Rick Harris, via Flickr. (Link in footer.)'
+publishDate: "2016-02-15T10:37:00-05:00"
+related_articles:
+- articles/the-heart-and-the-art.md
+- articles/things-more-important-than-opera.md
+- articles/true-stories-the-critic-who-loves-opera-even-more-now.md
+- articles/helpful-singers-opera-does-house-calls.md
+short_description: One the one hand, you could argue that the test of a true musician
+  is similar to that saying, &quot;you know who your real friends are when your friendship
+  costs them time and money.&quot; A real musician is one who wants to make and listen
+  to music when there&#039;s no deadline, and no paycheque on the horizon. Right?
+  I don&#039;t actually think that&#039;s right, but it&#039;s a nagging idea.
+slug: music-the-musicians-therapy-except-when-its-not
+title: 'Music: the musician&#039;s therapy, except when it&#039;s not'
+_template: article_single
+---
 
 Most musicians have a story or two to tell about a time they used music to deal with pain in their lives. A pianist feels sad, and he finds catharsis in Chopin and Rachmaninoff; a violinist pours her grief into Sibelius and Brahms, and the singer looks for tragic *bel canto* and *La bohème*. Of course there's catharsis to be found in music, and a release of physical tension comes with playing an instrument and singing. Musicians are lucky to have an option like "make music" in their toolbox when it comes to beating the blues; so are the listeners, since a huge portion of the art and music we value today comes from artists with tragedy in their lives.
 

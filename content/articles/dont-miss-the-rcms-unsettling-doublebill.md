@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-06-21T21:25:00-04:00"
-lastmod = "2018-06-21T21:36:00-04:00"
-preamble = "Wednesday, **June 27**, London's Royal College of Music presents an [intriguing double-bill](http://www.rcm.ac.uk/events/details/?id=1308763), pairing Peter Maxwell Davies' [*The Lighthouse*](/murky-works-shadwell-opera-presents-the-lighthouse/) with Huw Watkins and David Harsent's *In the Locked Room* (based on Thomas Hardy's short story, *An Imaginative Woman*). Conducted by Michael Rosewell, Stephen Unwin directs the [two one-act operas](http://www.rcm.ac.uk/events/details/?id=1308763), each telling eerie stories of uncertain realities.\n\nWe spoke with mezzo-soprano Lauren Morris, who sings the role of Susan in *In the Locked Room*; with input from fellow castmates Beth Moxon, Josephine Goddard, and Katy Thomson, Morris talks about the opera's take on human relationships, and the beauty of sharing a rehearsal room with the composer and librettist."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529630063373/sq_Lighthouse.jpg.jpg"
-publishDate = "2018-06-21T21:36:00-04:00"
-related_articles = ["articles/murky-works-shadwell-opera-presents-the-lighthouse.md"]
-short_description = "&quot;This piece shows us the extremes of real life relationships: friendships, dysfunctional marriages, unrequited love, toxic relationships, marital rape, etc. It explores how humans react differently to emotional and physical abuse, stress and loss. It really does cover a lot of ground for a work which is only 45 minutes or so in length!&quot;"
-slug = "dont-miss-the-rcms-unsettling-doublebill"
-title = "Don&#039;t miss: the RCM&#039;s unsettling double-bill"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-06-21T21:25:00-04:00"
+lastmod: "2018-06-21T21:36:00-04:00"
+preamble: |-
+  Wednesday, **June 27**, London's Royal College of Music presents an [intriguing double-bill](http://www.rcm.ac.uk/events/details/?id=1308763), pairing Peter Maxwell Davies' [*The Lighthouse*](/murky-works-shadwell-opera-presents-the-lighthouse/) with Huw Watkins and David Harsent's *In the Locked Room* (based on Thomas Hardy's short story, *An Imaginative Woman*). Conducted by Michael Rosewell, Stephen Unwin directs the [two one-act operas](http://www.rcm.ac.uk/events/details/?id=1308763), each telling eerie stories of uncertain realities.
+
+  We spoke with mezzo-soprano Lauren Morris, who sings the role of Susan in *In the Locked Room*; with input from fellow castmates Beth Moxon, Josephine Goddard, and Katy Thomson, Morris talks about the opera's take on human relationships, and the beauty of sharing a rehearsal room with the composer and librettist.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529630063373/sq_Lighthouse.jpg.jpg
+publishDate: "2018-06-21T21:36:00-04:00"
+related_articles:
+- articles/murky-works-shadwell-opera-presents-the-lighthouse.md
+short_description: '&quot;This piece shows us the extremes of real life relationships:
+  friendships, dysfunctional marriages, unrequited love, toxic relationships, marital
+  rape, etc. It explores how humans react differently to emotional and physical abuse,
+  stress and loss. It really does cover a lot of ground for a work which is only 45
+  minutes or so in length!&quot;'
+slug: dont-miss-the-rcms-unsettling-doublebill
+title: 'Don&#039;t miss: the RCM&#039;s unsettling double-bill'
+_template: article_single
+---
 
 ### What do you find are the unique qualities of opera based on literature? Are there any challenges in bringing it to the stage?
 
@@ -18,7 +28,10 @@ On the whole, opera is based on literature of some sort, be it a play or novel. 
 
 The two main challenges we faced when staging *In the Locked Room* were creating a clear timeline over which the action takes place, and trying to find ways of differentiating when the poet, Ben Pascoe is real and when he is a figment of Ella's imagination. I think we have been successful in overcoming both of these challenges and the lighting has played a big part in that.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529630116027/HEADSHOT.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529630116027/HEADSHOT.jpg.jpg)
+
 <figcaption>Lauren Morris, mezzo-soprano, singing the role of Susan in *In the Locked Room* at the Royal College of Music.</figcaption>
 </figure>
 

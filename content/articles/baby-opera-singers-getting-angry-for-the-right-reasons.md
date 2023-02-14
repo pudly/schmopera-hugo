@@ -1,15 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-06-05T13:47:00+01:00"
-lastmod = "2016-06-06T19:22:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465142143597/2016-06-06---SimonLaura.jpg.jpg"
-publishDate = "2016-06-05T22:23:00+01:00"
-related_articles = ["articles/young-pups-and-puccini.md","articles/simon-cowell-stop-it-an-update.md","articles/shhdont-tell-them-its-opera.md","articles/the-flip-side-of-the-baby-opera-singer-coin.md","articles/young-singing-done-right-aksel-rykkvin.md","articles/why-our-artistic-roots-matter.md","articles/bocelli-evancho-trump.md","articles/charlotte-church-the-latest-voice-in-musics-trump-boycott.md","articles/talking-with-singers-maria-mudryak.md","articles/talking-with-voice-docs-dr-paul-e-kwak.md"]
-short_description = "And if the show&#039;s audience thinks they&#039;re witnessing musical history, fine. They don&#039;t know any better, and there are worse things about which to be uneducated. But Laura Bretan may now find herself courted by recording contracts by folks like Simon Cowell; that&#039;s exciting news for her, but it&#039;s in this girl&#039;s potential career where there could be true damage done."
-slug = "baby-opera-singers-getting-angry-for-the-right-reasons"
-title = "Baby &quot;opera singers&quot; &amp; getting angry for the right reasons"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-06-05T13:47:00+01:00"
+lastmod: "2016-06-06T19:22:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465142143597/2016-06-06---SimonLaura.jpg.jpg
+publishDate: "2016-06-05T22:23:00+01:00"
+related_articles:
+- articles/young-pups-and-puccini.md
+- articles/simon-cowell-stop-it-an-update.md
+- articles/shhdont-tell-them-its-opera.md
+- articles/the-flip-side-of-the-baby-opera-singer-coin.md
+- articles/young-singing-done-right-aksel-rykkvin.md
+- articles/why-our-artistic-roots-matter.md
+- articles/bocelli-evancho-trump.md
+- articles/charlotte-church-the-latest-voice-in-musics-trump-boycott.md
+- articles/talking-with-singers-maria-mudryak.md
+- articles/talking-with-voice-docs-dr-paul-e-kwak.md
+short_description: And if the show&#039;s audience thinks they&#039;re witnessing
+  musical history, fine. They don&#039;t know any better, and there are worse things
+  about which to be uneducated. But Laura Bretan may now find herself courted by recording
+  contracts by folks like Simon Cowell; that&#039;s exciting news for her, but it&#039;s
+  in this girl&#039;s potential career where there could be true damage done.
+slug: baby-opera-singers-getting-angry-for-the-right-reasons
+title: Baby &quot;opera singers&quot; &amp; getting angry for the right reasons
+_template: article_single
+---
 
 In the past, we've been [less than ambiguous](/young-pups-and-puccini/) about our feelings on pre-pubescent "opera singers". Jackie Evancho, Amira Willighagen, and now 13-year old Lauren Bretan have made their own little splashes on big-budget TV talent shows, much to the eye twitching chagrin of people within in the opera industry.
 

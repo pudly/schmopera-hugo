@@ -1,15 +1,22 @@
-+++
-date = "2015-04-18T18:31:00-04:00"
-discipline = "Baritone"
-lastmod = "2015-04-18T18:31:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1644283802/media/2022/02/PeterBarrett_g2io1w.jpg"
-publishDate = "2015-04-18T18:31:00-04:00"
-related_companies = ["scene/companies/calgary-opera.md", "scene/companies/tapestry-opera.md", "scene/companies/edmonton-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/vancouver-opera.md"]
-slug = "peter-barrett"
-title = "Peter Barrett"
-website = "https://www.peterbarrett.ca/"
-
-+++
+---
+date: "2015-04-18T18:31:00-04:00"
+discipline: Baritone
+lastmod: "2015-04-18T18:31:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1644283802/media/2022/02/PeterBarrett_g2io1w.jpg
+publishDate: "2015-04-18T18:31:00-04:00"
+related_companies:
+- scene/companies/calgary-opera.md
+- scene/companies/tapestry-opera.md
+- scene/companies/edmonton-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/vancouver-opera.md
+slug: peter-barrett
+title: Peter Barrett
+website: https://www.peterbarrett.ca/
+_template: "people_single"
+---
 A recipient of the Ian Rosenblatt Bursary at the Wexford Festival in Ireland and a top prizewinner at the Montreal International Music Competition, baritone Peter Barrett is one of Canada’s most important and acclaimed artists on the opera and concert stage. Recent and upcoming engagements include Valentin in _Faust_ for the Vancouver Opera and his return to the Metropolitan Opera as cover artist for Dandini in _La Cenerentola_ and Lord Cecil in _Maria Stuarda_.
 
 Peter’s 2021-2022 season includes appearances at the Canadian Opera Company in their digital production of Puccini’s _Gianni Schicchi_, a return to Edmonton Opera for Marcello in their production of _La bohème_, and the premiere of _R.U.R. Torrent of Light_ with Tapestry Opera.

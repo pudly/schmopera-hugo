@@ -1,23 +1,26 @@
-+++
-date = "2018-05-08T11:24:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-05-08T11:24:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525792873152/RSBA-Magali%2520Simard-Galde%25CC%2580s-1%2520%25C2%25A9%2520Brent%2520Calis_display.jpg.jpg"
-primary_image_credit = "Brent Calis"
-publishDate = "2018-05-08T11:24:00-04:00"
-related_companies = ["scene/companies/lopra-de-montral.md","scene/companies/vancouver-opera.md","scene/companies/tapestry-opera.md"]
-slug = "magali-simard-galdes"
-title = "Magali Simard-Galdès"
-website = "http://magalisimardgaldes.com/en"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/msimardgaldes"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MagaliGaldes"
-+++
+---
+date: "2018-05-08T11:24:00-04:00"
+discipline: Soprano
+lastmod: "2018-05-08T11:24:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525792873152/RSBA-Magali%2520Simard-Galde%25CC%2580s-1%2520%25C2%25A9%2520Brent%2520Calis_display.jpg.jpg
+primary_image_credit: Brent Calis
+publishDate: "2018-05-08T11:24:00-04:00"
+related_companies:
+- scene/companies/lopra-de-montral.md
+- scene/companies/vancouver-opera.md
+- scene/companies/tapestry-opera.md
+slug: magali-simard-galdes
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/msimardgaldes
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/MagaliGaldes
+title: Magali Simard-Galdès
+website: http://magalisimardgaldes.com/en
+_template: "people_single"
+---
 
 After a season marked by her debut as Soeur Constance (*Dialogues des Carmélites* – Opéra de Montréal), a Canadian tour of 30 recitals with the Jeunesses musicales du Canada (Maureen-Forrester Award), or her debut at the Festival de Lanaudière singing the first Flower-Maiden in *Parsifal* conducted by Maestro Yannick Nézet-Séguin, the young canadian soprano Magali Simard-Galdès' 2017/2018 season includes the roles of Roxane in DiChiera’s *Cyrano* and Gilda in Verdi's *Rigoletto* (Opera Carolina), Ève in Dubois’ *Paradis Perdu* (Atelier lyrique de Tourcoing) and the Mad Chorus in the world premiere of James Rolfe’s *The Overcoat* (Tapestry Opera and Vancouver Opera Festival). She also sings a recital of Canadian music with Olivier Godin at the Mexico Liederfest in Monterrey, a programm of Haendel's opera arias for the Festival de musique de Lachine (Québec) and a Charpentier/Vivaldi program with the Scherzi Musicali ensemble in Avignon.
 

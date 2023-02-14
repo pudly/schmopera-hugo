@@ -1,17 +1,31 @@
-+++
-author = ["authors/greg.md"]
-categories = "News"
-date = "2016-11-04T14:42:00+00:00"
-lastmod = "2016-11-04T15:12:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478271231602/2016-11-04---Waltz---Vernon-Irene-Castle.jpg.jpg"
-publishDate = "2016-11-04T15:06:00+00:00"
-related_articles = ["articles/what-the-eff-is-a-zarzuela-anyway.md","articles/in-review-isis-and-osiris.md"]
-related_companies = ["scene/companies/toronto-operetta-theatre.md"]
-related_people = ["scene/people/gregory-finney.md","scene/people/lucia-cesaroni.md","scene/people/michael-barrett.md","scene/people/adam-fisher.md","scene/people/sarah-forestieri.md"]
-short_description = "It promises to be a lovely Sunday afternoon here in the T-dot, so if you&#039;re looking for some beautiful music and beautiful people (myself excluded, #selfdeprecationischarmingright), stop on by. The show is about 75% sold out but there are still some great seats left, since there isn&#039;t a bad seat to be found in the beautifully restored Jane Mallett Theatre."
-slug = "dont-miss-waltz-rivals"
-title = "Don&#039;t miss: Waltz Rivals"
-+++
+---
+author:
+- authors/greg.md
+categories: News
+date: "2016-11-04T14:42:00+00:00"
+lastmod: "2016-11-04T15:12:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478271231602/2016-11-04---Waltz---Vernon-Irene-Castle.jpg.jpg
+publishDate: "2016-11-04T15:06:00+00:00"
+related_articles:
+- articles/what-the-eff-is-a-zarzuela-anyway.md
+- articles/in-review-isis-and-osiris.md
+related_companies:
+- scene/companies/toronto-operetta-theatre.md
+related_people:
+- scene/people/gregory-finney.md
+- scene/people/lucia-cesaroni.md
+- scene/people/michael-barrett.md
+- scene/people/adam-fisher.md
+- scene/people/sarah-forestieri.md
+short_description: 'It promises to be a lovely Sunday afternoon here in the T-dot,
+  so if you&#039;re looking for some beautiful music and beautiful people (myself
+  excluded, #selfdeprecationischarmingright), stop on by. The show is about 75% sold
+  out but there are still some great seats left, since there isn&#039;t a bad seat
+  to be found in the beautifully restored Jane Mallett Theatre.'
+slug: dont-miss-waltz-rivals
+title: 'Don&#039;t miss: Waltz Rivals'
+_template: article_single
+---
 
 Hello, Schmop-Tops!
 

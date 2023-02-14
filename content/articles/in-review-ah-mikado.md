@@ -1,17 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-12-28T13:00:00-05:00"
-lastmod = "2015-04-12T12:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428853512946/166-copy_Fotor.jpg.jpg"
-publishDate = "2014-12-28T13:00:00-05:00"
-related_articles = ["articles/this-weekend-chelsea-moor-castle.md","articles/dont-miss-sasha-regans-allmale-mikado.md","articles/dont-miss-the-chocolate-soldier.md","articles/tots-candide-its-very-sincere-and-passionate-.md","articles/technicolour-gs-enos-iolanthe.md"]
-related_companies = ["scene/companies/toronto-operetta-theatre.md"]
-related_people = ["scene/people/adrian-kramer.md","scene/people/lucia-cesaroni.md","scene/people/giles-tomkins.md","scene/people/gregory-finney.md"]
-short_description = "Last night I went to see Toronto Operetta Theatre‘s production of The Mikado at the St. Lawrence Centre for the Arts. Neither Gilbert nor Sullivan show up frequently on my list of must-sees, due to personal taste and perhaps too many earworms (#iamtheverymodelofamodernmajorgeneral). But I had much faith (and a few friends) in the Canadian cast, and I absolutely wasn’t disappointed."
-slug = "in-review-ah-mikado"
-title = "In review: Ah! Mikado!"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-12-28T13:00:00-05:00"
+lastmod: "2015-04-12T12:09:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428853512946/166-copy_Fotor.jpg.jpg
+publishDate: "2014-12-28T13:00:00-05:00"
+related_articles:
+- articles/this-weekend-chelsea-moor-castle.md
+- articles/dont-miss-sasha-regans-allmale-mikado.md
+- articles/dont-miss-the-chocolate-soldier.md
+- articles/tots-candide-its-very-sincere-and-passionate-.md
+- articles/technicolour-gs-enos-iolanthe.md
+related_companies:
+- scene/companies/toronto-operetta-theatre.md
+related_people:
+- scene/people/adrian-kramer.md
+- scene/people/lucia-cesaroni.md
+- scene/people/giles-tomkins.md
+- scene/people/gregory-finney.md
+short_description: Last night I went to see Toronto Operetta Theatre‘s production
+  of The Mikado at the St. Lawrence Centre for the Arts. Neither Gilbert nor Sullivan
+  show up frequently on my list of must-sees, due to personal taste and perhaps too
+  many earworms (#iamtheverymodelofamodernmajorgeneral). But I had much faith (and
+  a few friends) in the Canadian cast, and I absolutely wasn’t disappointed.
+slug: in-review-ah-mikado
+title: 'In review: Ah! Mikado!'
+_template: article_single
+---
 
 <p class="intro">
 	Last night I went to see 
@@ -25,7 +41,9 @@ title = "In review: Ah! Mikado!"
 	As Nanki-Poo's love Yum-Yum, soprano 
 	<a href="http://luciacesaroni.com/" target="_blank">Lucia Cesaroni</a> was wide-eyed, bubbly and adorable; I think she had my favourite entrance by a soprano that I've seen in a long time, filling the hall with deafening shrieks of excitement upon seeing her friends. She sang beautifully too. I'm a huge fan of Lucia's voice, with its warmth and darkness and surprising ease up top. Yum-Yum doesn't give a soprano much room for line, save for her Act II aria, "The sun whose rays are all ablaze". Lucia sang that with gorgeous evenness and soul in her sound, and even tackled the finnicky, awkwardly-high bits in her many ensemble numbers. Like Adrian, Lucia commanded attention with her voice, and offered up a Yum-Yum who was charming, simple, and young. The two of them together were so freaking cute, in that way that nerds are so freaking cute together. They were goofy and passionate, as Nanki-Poo and Yum-Yum were not only each other's true loves, but also best friends and partners in crime. Aww.
 </p>
-<figure data-type="image"><a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428854894043/156-copy_Fotor.jpg"><img data-resize-src="http://lh3.googleusercontent.com/7ciyg9HkJW4evejfdK71jiWQblDe1qchq30__x1uaf6dNpmoBdybk8Iraf8c_9WFqZZDghfcDsZsRBFe5jtrrVFmUhb0" src="http://lh3.googleusercontent.com/7ciyg9HkJW4evejfdK71jiWQblDe1qchq30__x1uaf6dNpmoBdybk8Iraf8c_9WFqZZDghfcDsZsRBFe5jtrrVFmUhb0=s1200"></a><figcaption>Adrian Kramer (Nanki-Poo) and Lucia Cesaroni (Yum-Yum)</figcaption></figure>
+<figure data-type="image"><a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428854894043/156-copy_Fotor.jpg"><img data-resize-src="http://lh3.googleusercontent.com/7ciyg9HkJW4evejfdK71jiWQblDe1qchq30__x1uaf6dNpmoBdybk8Iraf8c_9WFqZZDghfcDsZsRBFe5jtrrVFmUhb0" src="http://lh3.googleusercontent.com/7ciyg9HkJW4evejfdK71jiWQblDe1qchq30__x1uaf6dNpmoBdybk8Iraf8c_9WFqZZDghfcDsZsRBFe5jtrrVFmUhb0=s1200"></a><figcaption>Adrian Kramer (Nanki-Poo) and Lucia Cesaroni (Yum-Yum)
+
+</figcaption></figure>
 <p>
 	Another standout for me was bass-baritone 
 	<a href="http://www.gilestomkins.com/" target="_blank">Giles Tomkins</a> as the Mikado. I've always loved Giles' voice, but I don't think I'd ever seen him in anything funny before. He had a booming clarity when he sang, giving him due authority to go with his tall (and wide, thanks to his costume!) presence. His speaking voice was just as satisfying, but I loved best his fantastic, quasi-evil belly laugh that happened right after the line about ".....elliptical billiard balls!!" Giles was a real pro and it was fantastic to see him in this role that seemed to bring out some of his best onstage qualities.
@@ -38,7 +56,9 @@ title = "In review: Ah! Mikado!"
 	As Pooh-Bah, the Lord High Everything Else, 
 	<a href="http://www.torontooperetta.com/artists.html" target="_blank">David Ludwig</a> was hilarious. He seemed the most at home with the G&amp;S style, both in how he sang, and in how he negotiated his complicated dialogue (that I bet was a bitch to memorize). Despite the writing for Pooh-Bah being mostly ensemble and patter work, David grew on me as a singer throughout the show. He kind of reminded me of the Tom Allen School of G&amp;S (<a href="http://www.youtube.com/watch?v=WlOb0XMxt84" target="_blank">watch and learn</a>). My man <a href="https://twitter.com/gregory_finney" target="_blank">Gregory Finney</a> was funny and sobering as Pish-Tush. He sang with that big, surprising voice of his, and kept the clarity throughout his patter with serious skill. Greg is always great for making sense of the nonsense that keeps popping up in operetta. I died when he won the onstage game and anachronistically raised both fists triumphantly. He also gets bonus points with Adrian Kramer for best handling of an onstage snafu that I've ever seen (Greg's fan broke, and Adrian didn't miss a beat passing him a new one). <a href="http://www.torontooperetta.com/artists.html" target="_blank">Brittany King</a> and<a href="http://www.torontooperetta.com/artists.html" target="_blank"> Daria Bukhman</a> were lovely as Pitti-Sing and Peep-Bo, two of the little maids from school.
 </p>
-<figure data-type="image"><a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428854929517/101-copy_Fotor.jpg"><img data-resize-src="http://lh3.googleusercontent.com/X_4ZtMkKDglB0UoXo1leOF8x0jeF4rOncUX2Uu2pnu3NOI7drNGrsEKiaX8e-WQiRAa0wpNR4TGrtdJPKJxg8wIdENk" src="http://lh3.googleusercontent.com/X_4ZtMkKDglB0UoXo1leOF8x0jeF4rOncUX2Uu2pnu3NOI7drNGrsEKiaX8e-WQiRAa0wpNR4TGrtdJPKJxg8wIdENk=s1200"></a><figcaption>Joseph Angelo (Ko-Ko) and David Ludwing (Pooh-Bah)</figcaption></figure>
+<figure data-type="image"><a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428854929517/101-copy_Fotor.jpg"><img data-resize-src="http://lh3.googleusercontent.com/X_4ZtMkKDglB0UoXo1leOF8x0jeF4rOncUX2Uu2pnu3NOI7drNGrsEKiaX8e-WQiRAa0wpNR4TGrtdJPKJxg8wIdENk" src="http://lh3.googleusercontent.com/X_4ZtMkKDglB0UoXo1leOF8x0jeF4rOncUX2Uu2pnu3NOI7drNGrsEKiaX8e-WQiRAa0wpNR4TGrtdJPKJxg8wIdENk=s1200"></a><figcaption>Joseph Angelo (Ko-Ko) and David Ludwing (Pooh-Bah)
+
+</figcaption></figure>
 <p>
 	The Ensemble was well-coached by music director and conductor 
 	<a href="http://www.operabase.com/a/Derek_Bate" target="_blank">Derek Bate</a>; nice harmonic and textual clarity. I especially loved the ladies' entrance. The orchestra sounded great, tackling some tricky-sounding bits that I hadn't remembered before. The sets were suggestive of environment without being too vague; plenty of red and pretty parasols created the world of <em>The Mikado</em> clearly. I thought some of the choreography was a bit awkward and unmusical, and there were a few prop mishaps that amused me, although perhaps for the wrong reasons. I'd say that the skill of the cast carries the production, which had the feeling of a remount.

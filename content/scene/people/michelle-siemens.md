@@ -1,18 +1,24 @@
-+++
-date = "2015-05-29T11:14:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-05-29T11:18:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432912452850/403945_58a90f773eed4d5082a403c108cff1fc.jpg_srz_p_395_367_75_22_0.50_1.20_0.00_jpg_srz"
-publishDate = "2015-05-29T11:14:00-04:00"
-related_companies = ["scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/opera-nuova.md","scene/companies/opera-on-the-avalon.md","scene/companies/university-of-toronto-opera.md","scene/companies/manhattan-school-of-music.md"]
-slug = "michelle-siemens"
-title = "Michelle Siemens"
-website = "http://www.michellesiemens.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/mlbsiemens"
-+++
+---
+date: "2015-05-29T11:14:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-05-29T11:18:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432912452850/403945_58a90f773eed4d5082a403c108cff1fc.jpg_srz_p_395_367_75_22_0.50_1.20_0.00_jpg_srz
+publishDate: "2015-05-29T11:14:00-04:00"
+related_companies:
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+- scene/companies/opera-nuova.md
+- scene/companies/opera-on-the-avalon.md
+- scene/companies/university-of-toronto-opera.md
+- scene/companies/manhattan-school-of-music.md
+slug: michelle-siemens
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/mlbsiemens
+title: Michelle Siemens
+website: http://www.michellesiemens.com/
+_template: "people_single"
+---
 
 Mezzo-soprano Michelle Siemens caught the performing bug early. When she was just four years old, she took part in a youth musical theatre program and “no one has been able to drag me off [the stage] since!” 
 Born in Calgary, her family moved around quite a bit; first to Oakville, Ont., then Saskatoon, Sask., before settling in Victoria, B.C., where Michelle spent her teen years. It was in Victoria that Michelle met her first operatic mentor, baritone and teacher Bernard Turgeon. That’s when she realized that opera was definitely in her future. 

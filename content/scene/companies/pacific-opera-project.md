@@ -1,42 +1,39 @@
-+++
-address = "5040 Onteora Way  Los Angeles, CA  90041"
-author = []
-categories = ""
-date = ""
-disclaimer = ""
-email = "info@pacificoperaproject.com"
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1589239226/media/2020/05/Logo-PacificOperaPorject_qr9wd5.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = []
-related_people = []
-short_description = ""
-slug = "pacific-opera-project"
-title = "Pacific Opera Project"
-type_of_company = "Opera company"
-website = "https://www.pacificoperaproject.com/"
-youtube_url = ""
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pacificoperaproject"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/PacOperaProj"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCBSRxnvRhi5T3zR2H8AiOqg"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/pacoperaproj/"
-
-+++
+---
+address: 5040 Onteora Way  Los Angeles, CA  90041
+author: []
+categories: ""
+date: ""
+disclaimer: ""
+email: info@pacificoperaproject.com
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1589239226/media/2020/05/Logo-PacificOperaPorject_qr9wd5.jpg
+primary_image_credit: ""
+related_articles: []
+related_companies: []
+related_people: []
+short_description: ""
+slug: pacific-opera-project
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/pacificoperaproject
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/PacOperaProj
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCBSRxnvRhi5T3zR2H8AiOqg
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/pacoperaproj/
+title: Pacific Opera Project
+type_of_company: Opera company
+website: https://www.pacificoperaproject.com/
+youtube_url: ""
+_template: "company_single"
+---
 Pacific Opera Project was founded in July of 2011 with the purpose of bringing accessible, affordable, and ENTERTAINING opera to audiences across Los Angeles.  To hear an in-depth interview about the founding and mission of POP, click here.
 
 **Mission Statement:** To provide quality opera that is innovative, affordable, and entertaining in order to build a broader audience.

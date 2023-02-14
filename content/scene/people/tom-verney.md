@@ -1,14 +1,18 @@
-+++
-date = "2016-04-29T13:51:00+01:00"
-discipline = "Countertenor"
-lastmod = "2016-04-29T13:51:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461934175766/2016-04-29---Tom-Verney.jpg.jpg"
-publishDate = "2016-04-29T13:51:00+01:00"
-related_companies = ["scene/companies/classical-opera.md","scene/companies/scottish-opera.md","scene/companies/garsington-opera.md"]
-slug = "tom-verney"
-title = "Tom Verney"
-website = "http://www.tomverney.com/"
-+++
+---
+date: "2016-04-29T13:51:00+01:00"
+discipline: Countertenor
+lastmod: "2016-04-29T13:51:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461934175766/2016-04-29---Tom-Verney.jpg.jpg
+publishDate: "2016-04-29T13:51:00+01:00"
+related_companies:
+- scene/companies/classical-opera.md
+- scene/companies/scottish-opera.md
+- scene/companies/garsington-opera.md
+slug: tom-verney
+title: Tom Verney
+website: http://www.tomverney.com/
+_template: "people_single"
+---
 
 Tom Verney began singing as a treble in Kingston Parish Church.  As a countertenor, he spent a year as a lay-clerk in Perth Cathedral, Western Australia, before taking up a Choral Scholarship at St. John’s College, Cambridge, and studying for a degree in philosophy.  Having completed the Opera Course at the Guildhall School of Music and Drama, he now studies there with Andrew Watts, and also learns with Arwel Treharne Morgan.
  

@@ -1,10 +1,11 @@
-+++
-date = "2015-06-01T13:41:00-04:00"
-draft = true
-lastmod = "2015-06-01T14:05:00-04:00"
-slug = "newsletter"
-title = "Newsletter"
-+++
+---
+date: "2015-06-01T13:41:00-04:00"
+draft: true
+lastmod: "2015-06-01T14:05:00-04:00"
+slug: newsletter
+title: Newsletter
+_template: article_single
+---
 
 Hello, readers!
 

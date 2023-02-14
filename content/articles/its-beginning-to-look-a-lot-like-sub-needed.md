@@ -1,15 +1,22 @@
-+++
-author = ["authors/greg.md"]
-categories = "Op-ed"
-date = "2016-12-14T09:44:00+00:00"
-lastmod = "2016-12-16T11:14:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481882260151/2016-12-16---Curch.jpg.jpg"
-publishDate = "2016-12-16T11:14:00+00:00"
-related_articles = ["articles/elitism-irony-and-the-phantom-of-the-opera.md","articles/what-comes-first-the-union-or-the-gig.md"]
-short_description = "The past few weeks every time I log on to my social media feeds, or open my inboxes, I find the same messages. &quot;Sub needed for Dec 23, 24, 25,&quot; etc., outlining the money made per call. This doesn&#039;t just happen at Christmas either. I see the same barrage of posts happening during Lent/Easter as well. "
-slug = "its-beginning-to-look-a-lot-like-sub-needed"
-title = "It&#039;s beginning to look a lot like **SUB NEEDED**"
-+++
+---
+author:
+- authors/greg.md
+categories: Op-ed
+date: "2016-12-14T09:44:00+00:00"
+lastmod: "2016-12-16T11:14:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481882260151/2016-12-16---Curch.jpg.jpg
+publishDate: "2016-12-16T11:14:00+00:00"
+related_articles:
+- articles/elitism-irony-and-the-phantom-of-the-opera.md
+- articles/what-comes-first-the-union-or-the-gig.md
+short_description: 'The past few weeks every time I log on to my social media feeds,
+  or open my inboxes, I find the same messages. &quot;Sub needed for Dec 23, 24, 25,&quot;
+  etc., outlining the money made per call. This doesn&#039;t just happen at Christmas
+  either. I see the same barrage of posts happening during Lent/Easter as well. '
+slug: its-beginning-to-look-a-lot-like-sub-needed
+title: It&#039;s beginning to look a lot like **SUB NEEDED**
+_template: article_single
+---
 
 It started last week with a bit of a trickle. But then, the landslide began. 
 

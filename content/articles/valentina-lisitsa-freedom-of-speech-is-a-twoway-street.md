@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-04-14T19:06:00-04:00"
-lastmod = "2015-04-15T12:24:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429052779400/VL_Portrait_0784_1c.jpg.jpg"
-primary_image_credit = "Photo: Gilbert Francois"
-publishDate = "2015-04-15T08:34:00-04:00"
-related_articles = ["articles/dr-john-suk-minister-of-the-lpcc-this-is-a-huge-shock.md","articles/freedom-of-press-journalistic-integrity.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-short_description = "I&#039;m by no means the first to weigh in on the Toronto Symphony Orchestra&#039;s decision to cancel Ukrainian-born pianist Valentina Lisitsa&#039;s performances on April 8-9th. The decision came after the TSO was made aware of some crass tweets on Lisitsa&#039;s Twitter feed, and after they confirmed that Lisitsa was indeed the author of the controversial comments, they made the quick decision to cancel."
-slug = "valentina-lisitsa-freedom-of-speech-is-a-twoway-street"
-title = "Valentina Lisitsa: Freedom of speech is a two-way street"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-04-14T19:06:00-04:00"
+lastmod: "2015-04-15T12:24:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429052779400/VL_Portrait_0784_1c.jpg.jpg
+primary_image_credit: 'Photo: Gilbert Francois'
+publishDate: "2015-04-15T08:34:00-04:00"
+related_articles:
+- articles/dr-john-suk-minister-of-the-lpcc-this-is-a-huge-shock.md
+- articles/freedom-of-press-journalistic-integrity.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+short_description: I&#039;m by no means the first to weigh in on the Toronto Symphony
+  Orchestra&#039;s decision to cancel Ukrainian-born pianist Valentina Lisitsa&#039;s
+  performances on April 8-9th. The decision came after the TSO was made aware of some
+  crass tweets on Lisitsa&#039;s Twitter feed, and after they confirmed that Lisitsa
+  was indeed the author of the controversial comments, they made the quick decision
+  to cancel.
+slug: valentina-lisitsa-freedom-of-speech-is-a-twoway-street
+title: 'Valentina Lisitsa: Freedom of speech is a two-way street'
+_template: article_single
+---
 
 I'm by no means the first to weigh in on the Toronto Symphony Orchestra's decision to cancel Ukrainian-born pianist Valentina Lisitsa's performances on April 8-9th. The decision came after the TSO was made aware of some crass tweets on Lisitsa's Twitter feed, and after they confirmed that Lisitsa was indeed the author of the controversial comments, they made the quick decision to cancel. 
 

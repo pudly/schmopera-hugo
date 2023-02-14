@@ -1,18 +1,43 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-03-05T10:47:00+00:00"
-lastmod = "2016-03-05T20:21:00+00:00"
-preamble = "Canadian soprano [Lara Ciekiewicz](/scene/people/lara-ciekiewicz/) has some of opera's most enviable roles under her belt, including the Countess in *Le nozze di Figaro* (most recently at [Manitoba Opera](/scene/companies/manitoba-opera/)), Liù in *Turandot* (Manitoba Opera), Musetta in *La bohème* ([l'Opéra de Montréal](/scene/companies/lopera-de-montreal/)), Fiordiligi in *Così fan tutte* ([Merola Opera Program](/scene/companies/merola-opera-program/)) and Nellie in *South Pacific* ([Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/)). We met Lara several summers ago at the beloved Banff Centre, and she's an incredibly driven and exciting artist who loves the work as much as the performance. \n\nShe chats with us about choosing her career as a singer, life as a \"professional storyteller\", and Scarpia-envy."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457176642509/Lara---Square.jpg.jpg"
-primary_image_credit = "Photo by Rebecca Schroeder."
-publishDate = "2016-03-05T11:20:00+00:00"
-related_articles = ["articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-lida-szkwarek.md","articles/talking-with-singers-nicole-cabell.md","articles/talking-with-singers-othalie-graham.md","articles/ciekiewicz-triumphant-in-calgary-operas-onegin.md"]
-related_people = ["scene/people/lara-ciekiewicz.md"]
-short_description = "&quot;Before every performance, I will take a few minutes to walk the stage and look out into the empty hall. I look out at all the seats waiting to be filled and wonder who will be sitting there. When you are in the middle of a performance, it can be easy to look into the darkness and see it as this single black hole. However, if there are 2200 seats in the hall, that makes 2200 people, each with their own story - waiting to laugh, cry, cheer the heroes, and curse the villain! It is my job to sing for each of those people and to connect to them through the music.&quot;"
-slug = "spotlight-on-lara-ciekiewicz"
-title = "Spotlight on: Lara Ciekiewicz"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-03-05T10:47:00+00:00"
+lastmod: "2016-03-05T20:21:00+00:00"
+preamble: "Canadian soprano [Lara Ciekiewicz](/scene/people/lara-ciekiewicz/) has
+  some of opera's most enviable roles under her belt, including the Countess in *Le
+  nozze di Figaro* (most recently at [Manitoba Opera](/scene/companies/manitoba-opera/)),
+  Liù in *Turandot* (Manitoba Opera), Musetta in *La bohème* ([l'Opéra de Montréal](/scene/companies/lopera-de-montreal/)),
+  Fiordiligi in *Così fan tutte* ([Merola Opera Program](/scene/companies/merola-opera-program/))
+  and Nellie in *South Pacific* ([Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/)).
+  We met Lara several summers ago at the beloved Banff Centre, and she's an incredibly
+  driven and exciting artist who loves the work as much as the performance. \n\nShe
+  chats with us about choosing her career as a singer, life as a \"professional storyteller\",
+  and Scarpia-envy."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457176642509/Lara---Square.jpg.jpg
+primary_image_credit: Photo by Rebecca Schroeder.
+publishDate: "2016-03-05T11:20:00+00:00"
+related_articles:
+- articles/spotlight-on-danielle-macmillan.md
+- articles/spotlight-on-charlotte-knight.md
+- articles/spotlight-on-lida-szkwarek.md
+- articles/talking-with-singers-nicole-cabell.md
+- articles/talking-with-singers-othalie-graham.md
+- articles/ciekiewicz-triumphant-in-calgary-operas-onegin.md
+related_people:
+- scene/people/lara-ciekiewicz.md
+short_description: '&quot;Before every performance, I will take a few minutes to walk
+  the stage and look out into the empty hall. I look out at all the seats waiting
+  to be filled and wonder who will be sitting there. When you are in the middle of
+  a performance, it can be easy to look into the darkness and see it as this single
+  black hole. However, if there are 2200 seats in the hall, that makes 2200 people,
+  each with their own story - waiting to laugh, cry, cheer the heroes, and curse the
+  villain! It is my job to sing for each of those people and to connect to them through
+  the music.&quot;'
+slug: spotlight-on-lara-ciekiewicz
+title: 'Spotlight on: Lara Ciekiewicz'
+_template: article_single
+---
 
 ## Why do you sing, and why are you doing it professionally?
 
@@ -46,7 +71,10 @@ I don’t know about "do more or do less of" - if you’re on the journey, you a
 
 - A great conductor once told me the only defence I have as a singer is knowing what is in the score.  A score is to be interpreted, of course, but knowing and exploring all of the information contained on the page will always stand you in good stead.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457176629151/Ciekiewicz_Lara.Casual-HeadshotReszied.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457176629151/Ciekiewicz_Lara.Casual-HeadshotReszied.jpg.jpg)
+
 <figcaption>Photo by Pierre-Étienne Bergeron.</figcaption></figure>
 
 ## Do you have any "bucket list" roles you’d like to sing (realistically or otherwise)?

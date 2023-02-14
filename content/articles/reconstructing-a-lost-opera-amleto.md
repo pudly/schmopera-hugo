@@ -1,18 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-10-28T10:02:00-04:00"
-lastmod = "2015-11-02T22:23:00-05:00"
-preamble = "When it comes to the opera stage, Shakespeare gets his share of representation. There's Gounod's *Roméo et Juliette*, Britten's *A Midsummer Night's Dream*, Thomas Adès' *The Tempest*, and of course, Verdi's *Otello* and *Falstaff*. There's also *Hamlet*, the opera by Ambroise Thomas, but did you know there's an Italian *Amleto* (#essereononessere), composed by one of Verdi's contemporaries with text by Shakespeare-friendly librettist [Arrigo Boito](https://en.wikipedia.org/wiki/Arrigo_Boito)? \n\nConductor and composer Anthony Barrese has spent a good part of the last decade reconstructing and creating a critical edition of Franco Faccio's lost opera based on the Bard's most famous play. *Amleto* was lost after Faccio withdrew it, following less-than-stellar reception during its 1871 remount. *Amleto* was finally produced again in 2014, at Opera Southwest in Albuquerque, NM, and in May it goes up as part of [Opera Delaware](/scene/companies/opera-delaware/)'s 2015/16 season.\n\nBarrese was kind enough to talk about how he revived Faccio's lost opera, and what it was like to see it onstage. For more on *Amleto*, [click here](http://anthonybarrese.com/projects/amleto-project/)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446042566483/BarreseSquare.jpg.jpg"
-publishDate = "2015-11-03T08:22:00-05:00"
-related_articles = ["articles/dont-miss-the-amici-ensemble-reimagines-don-giovanni.md"]
-related_companies = ["scene/companies/opera-delaware.md"]
-related_people = ["scene/people/anthony-barrese.md"]
-short_description = "There&#039;s Gounod&#039;s Roméo et Juliette, Britten&#039;s A Midsummer Night&#039;s Dream, Thomas Adès&#039; The Tempest, and of course, Verdi&#039;s Otello and Falstaff. There&#039;s also Hamlet, the opera by Ambroise Thomas, but did you know there&#039;s an Italian Amleto (#essereononessere), composed by one of Verdi&#039;s contemporaries with text by Shakespeare-friendly librettist Arrigo Boito?"
-slug = "reconstructing-a-lost-opera-amleto"
-title = "Reconstructing a lost opera: Amleto"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-10-28T10:02:00-04:00"
+lastmod: "2015-11-02T22:23:00-05:00"
+preamble: "When it comes to the opera stage, Shakespeare gets his share of representation.
+  There's Gounod's *Roméo et Juliette*, Britten's *A Midsummer Night's Dream*, Thomas
+  Adès' *The Tempest*, and of course, Verdi's *Otello* and *Falstaff*. There's also
+  *Hamlet*, the opera by Ambroise Thomas, but did you know there's an Italian *Amleto*
+  (#essereononessere), composed by one of Verdi's contemporaries with text by Shakespeare-friendly
+  librettist [Arrigo Boito](https://en.wikipedia.org/wiki/Arrigo_Boito)? \n\nConductor
+  and composer Anthony Barrese has spent a good part of the last decade reconstructing
+  and creating a critical edition of Franco Faccio's lost opera based on the Bard's
+  most famous play. *Amleto* was lost after Faccio withdrew it, following less-than-stellar
+  reception during its 1871 remount. *Amleto* was finally produced again in 2014,
+  at Opera Southwest in Albuquerque, NM, and in May it goes up as part of [Opera Delaware](/scene/companies/opera-delaware/)'s
+  2015/16 season.\n\nBarrese was kind enough to talk about how he revived Faccio's
+  lost opera, and what it was like to see it onstage. For more on *Amleto*, [click
+  here](http://anthonybarrese.com/projects/amleto-project/)."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446042566483/BarreseSquare.jpg.jpg
+publishDate: "2015-11-03T08:22:00-05:00"
+related_articles:
+- articles/dont-miss-the-amici-ensemble-reimagines-don-giovanni.md
+related_companies:
+- scene/companies/opera-delaware.md
+related_people:
+- scene/people/anthony-barrese.md
+short_description: There&#039;s Gounod&#039;s Roméo et Juliette, Britten&#039;s A
+  Midsummer Night&#039;s Dream, Thomas Adès&#039; The Tempest, and of course, Verdi&#039;s
+  Otello and Falstaff. There&#039;s also Hamlet, the opera by Ambroise Thomas, but
+  did you know there&#039;s an Italian Amleto (#essereononessere), composed by one
+  of Verdi&#039;s contemporaries with text by Shakespeare-friendly librettist Arrigo
+  Boito?
+slug: reconstructing-a-lost-opera-amleto
+title: 'Reconstructing a lost opera: Amleto'
+_template: article_single
+---
 
 ## 1. How did *Amleto* get “lost”?
 
@@ -28,7 +51,10 @@ Over a 6 month period I copied out every single note in the score, by hand. At t
 
 When I first began the process, deciphering Faccio's handwriting was difficult. By the time I was done, I had gotten used to his idiosyncracies, so things that were a mystery to me in the beginning were now revealed. But that meant correcting a lot of things I either didn't get the first time through, or mis-interpreted. And it's a never-ending process. Just 2 weeks ago I was looking through Hamlet's aria "essere o non essere" and I found no fewer than 5 mistakes in my full score. This is after 5 full edits.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446042643333/Faccio.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446042643333/Faccio.jpg.jpg)
+
 <figcaption>Franco Faccio.</figcaption>
 </figure>
 
@@ -40,7 +66,10 @@ For all of their self-congratulatory touting of the "Italian music of the future
 
 As for rivalry, not much actual rivalry ever existed between Faccio and Verdi. Verdi may have had a bad taste in his mouth about Faccio, but that was really because of Boito's "Ode saffica col bicchiere in mano" that he dedicated to Faccio and which very directly insulted Verdi. But Verdi did go out of his way to try to procure the rights of a Sardou play for Faccio to set to music, and the year of the disastrous La Scala production of *Amleto*, Verdi entrusted Faccio to conduct the premiere of his own *Aida*. Faccio then went on to become the first real music director of La Scala (the "maestro scaligero"), and conducted the premiere of *Otello*. If had had lived, he undoubtedly would've been Verdi's choice to conduct the *Falstaff* premiere too.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446042754217/Amleto-O-SW.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446042754217/Amleto-O-SW.jpg.jpg)
+
 <figcaption>After a performance of Opera Southwest's production of *Amleto*, 2014.</figcaption>
 </figure>
 

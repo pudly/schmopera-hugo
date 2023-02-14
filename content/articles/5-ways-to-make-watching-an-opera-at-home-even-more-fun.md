@@ -1,16 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-06-08T10:22:00+01:00"
-lastmod = "2016-06-09T13:01:00+01:00"
-preamble = "We won't come right out and say this is an opera drinking game, but we have devised a little way to make watching opera (in the comfort of your home, without distracting other ticket buyers, please!) a more social, even competitive, activity. Our points system can be worth whatever currency you so desire; but we're not opposed to a point equalling hearty gulps of your preferred beverage..."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465392698105/2016-06-08---Cocktails.jpg.jpg"
-publishDate = "2016-06-08T22:38:00+01:00"
-related_articles = ["articles/the-opera-party-monologue.md","articles/taking-a-bow-curtain-calls-for-your-voice-type.md"]
-short_description = "We won&#039;t come right out and say this is an opera drinking game, but we have devised a little way to make watching opera (in the comfort of your home, without distracting other ticket buyers, please!) a more social, even competitive, activity. Our points system can be worth whatever currency you so desire; but we&#039;re not opposed to a point equalling hearty gulps of your preferred beverage..."
-slug = "5-ways-to-make-watching-an-opera-at-home-even-more-fun"
-title = "5 ways to make watching an opera at home even more fun"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-06-08T10:22:00+01:00"
+lastmod: "2016-06-09T13:01:00+01:00"
+preamble: We won't come right out and say this is an opera drinking game, but we have
+  devised a little way to make watching opera (in the comfort of your home, without
+  distracting other ticket buyers, please!) a more social, even competitive, activity.
+  Our points system can be worth whatever currency you so desire; but we're not opposed
+  to a point equalling hearty gulps of your preferred beverage...
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465392698105/2016-06-08---Cocktails.jpg.jpg
+publishDate: "2016-06-08T22:38:00+01:00"
+related_articles:
+- articles/the-opera-party-monologue.md
+- articles/taking-a-bow-curtain-calls-for-your-voice-type.md
+short_description: We won&#039;t come right out and say this is an opera drinking
+  game, but we have devised a little way to make watching opera (in the comfort of
+  your home, without distracting other ticket buyers, please!) a more social, even
+  competitive, activity. Our points system can be worth whatever currency you so desire;
+  but we&#039;re not opposed to a point equalling hearty gulps of your preferred beverage...
+slug: 5-ways-to-make-watching-an-opera-at-home-even-more-fun
+title: 5 ways to make watching an opera at home even more fun
+_template: article_single
+---
 
 ## Hooking
 

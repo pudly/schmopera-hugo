@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-09-17T18:24:00-04:00"
-lastmod = "2015-09-18T12:27:00-04:00"
-preamble = "Vancouver-based Composer and pianist [Michael Park](/scene/people/michael-park/) has spent considerable time thinking about how to talk about disease through music. He performed his [*Alzheimer's Variations*](https://www.youtube.com/watch?v=Oj2AXT23uVI) (absolutely worth a listen) as part of his TEDxSFU talk in 2013, entitled [\"Experience disease through music.\"](https://www.youtube.com/watch?v=Oj2AXT23uVI) Next month sees the premiere of Park's [*Diagnosis: Diabetes*](http://www.michaelpark.ca/diabetes-presskit/), his new \"interactive chamber opera\" featuring the [Erato Ensemble](/scene/companies/erato-ensemble/), October 10th at 8pm at The Orpheum Annex in Vancouver.\n\nI spoke with Park about writing an opera about disease, composing music to tell this kind of story, and the audience interaction that is crucial to *Diagnosis: Diabetes.*"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442591708624/Erato-Cropped-Headshot-(1).jpg.jpg"
-publishDate = "2015-09-18T12:15:00-04:00"
-related_articles = ["articles/new-opera-more-singer-input-needed.md"]
-related_companies = ["scene/companies/erato-ensemble.md"]
-related_people = ["scene/people/michael-park.md"]
-short_description = "Vancouver-based Composer and pianist Michael Park has spent considerable time thinking about how to talk about disease through music. He performed his Alzheimer&#039;s Variations (absolutely worth a listen) as part of his TEDxSFU talk in 2013, entitled &quot;Experience disease through music.&quot;"
-slug = "michael-park-on-opera-disease"
-title = "Michael Park: on opera &amp; disease"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-09-17T18:24:00-04:00"
+lastmod: "2015-09-18T12:27:00-04:00"
+preamble: |-
+  Vancouver-based Composer and pianist [Michael Park](/scene/people/michael-park/) has spent considerable time thinking about how to talk about disease through music. He performed his [*Alzheimer's Variations*](https://www.youtube.com/watch?v=Oj2AXT23uVI) (absolutely worth a listen) as part of his TEDxSFU talk in 2013, entitled ["Experience disease through music."](https://www.youtube.com/watch?v=Oj2AXT23uVI) Next month sees the premiere of Park's [*Diagnosis: Diabetes*](http://www.michaelpark.ca/diabetes-presskit/), his new "interactive chamber opera" featuring the [Erato Ensemble](/scene/companies/erato-ensemble/), October 10th at 8pm at The Orpheum Annex in Vancouver.
+
+  I spoke with Park about writing an opera about disease, composing music to tell this kind of story, and the audience interaction that is crucial to *Diagnosis: Diabetes.*
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442591708624/Erato-Cropped-Headshot-(1).jpg.jpg
+publishDate: "2015-09-18T12:15:00-04:00"
+related_articles:
+- articles/new-opera-more-singer-input-needed.md
+related_companies:
+- scene/companies/erato-ensemble.md
+related_people:
+- scene/people/michael-park.md
+short_description: Vancouver-based Composer and pianist Michael Park has spent considerable
+  time thinking about how to talk about disease through music. He performed his Alzheimer&#039;s
+  Variations (absolutely worth a listen) as part of his TEDxSFU talk in 2013, entitled
+  &quot;Experience disease through music.&quot;
+slug: michael-park-on-opera-disease
+title: 'Michael Park: on opera &amp; disease'
+_template: article_single
+---
 
 ### 1. Why were you drawn to this story for your first chamber opera?
 
@@ -42,7 +53,10 @@ In scene 2, Charlie is in an office meeting when he experiences low blood-sugar.
 
 I know that there will be people coming to see a show about diabetes. For them, I hope to be a good ambassador for opera and new music. In the end, this opera is about connecting people, whether it's performers to their audience, or diabetics to the general public. I hope that the diabetics will feel less invisible, and that everyone else will gain a new perspective on what it's like living with a chronic illness.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442591511785/DiagnosisDiabetes-posterResize.jpg.jpg)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442591511785/DiagnosisDiabetes-posterResize.jpg.jpg)
+
+<figure>
 
 >Diagnosis: Diabetes plays October 10th, 8pm at The Orpheum Annex in Vancouver. For details and tickets, follow the box office links below.

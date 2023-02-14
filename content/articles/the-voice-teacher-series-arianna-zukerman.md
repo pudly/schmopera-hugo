@@ -1,16 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-04-18T21:01:00-04:00"
-lastmod = "2018-05-04T21:43:00-04:00"
-preamble = "American soprano [**Arianna Zukerman**](/scene/people/arianna-zukerman/)'s international performing career takes her from New York to Tel Aviv, singing everything from staged opera to chamber concerts. \n\nZukerman is in-demand as a masterclass technician and private teacher. She is Associate Director and Faculty Member of the [Potomac Vocal Institute](https://www.potomacvocal.com/voice-faculty#), and she is is the Chair of Vocal Studies at the Wintergreen Music Festival and Academy and is the Festival’s Advisor for Vocal Programming. \n\nIn the final of our three-part conversation with the voice faculty at PVI, Zukerman chats with us about the \"privilege\" of teaching singing, and her surprising revelation about breath support."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524876155468/sqZukerman.jpg.jpg"
-publishDate = "2018-05-04T21:43:00-04:00"
-related_people = ["scene/people/arianna-zukerman.md"]
-short_description = "&quot;I won&#039;t give anyone false hope - there are those singers who don&#039;t have what it takes but it&#039;s not for me to tell those people.  That&#039;s a very hard-won lesson that sometimes only comes from putting yourself &quot;out there&quot; and seeing where you stack up.&quot;"
-slug = "the-voice-teacher-series-arianna-zukerman"
-title = "The voice teacher series: Arianna Zukerman"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-04-18T21:01:00-04:00"
+lastmod: "2018-05-04T21:43:00-04:00"
+preamble: "American soprano [**Arianna Zukerman**](/scene/people/arianna-zukerman/)'s
+  international performing career takes her from New York to Tel Aviv, singing everything
+  from staged opera to chamber concerts. \n\nZukerman is in-demand as a masterclass
+  technician and private teacher. She is Associate Director and Faculty Member of
+  the [Potomac Vocal Institute](https://www.potomacvocal.com/voice-faculty#), and
+  she is is the Chair of Vocal Studies at the Wintergreen Music Festival and Academy
+  and is the Festival’s Advisor for Vocal Programming. \n\nIn the final of our three-part
+  conversation with the voice faculty at PVI, Zukerman chats with us about the \"privilege\"
+  of teaching singing, and her surprising revelation about breath support."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524876155468/sqZukerman.jpg.jpg
+publishDate: "2018-05-04T21:43:00-04:00"
+related_people:
+- scene/people/arianna-zukerman.md
+short_description: '&quot;I won&#039;t give anyone false hope - there are those singers
+  who don&#039;t have what it takes but it&#039;s not for me to tell those people.  That&#039;s
+  a very hard-won lesson that sometimes only comes from putting yourself &quot;out
+  there&quot; and seeing where you stack up.&quot;'
+slug: the-voice-teacher-series-arianna-zukerman
+title: 'The voice teacher series: Arianna Zukerman'
+_template: article_single
+---
 
 ## What do you enjoy most about teaching voice?
 

@@ -1,17 +1,18 @@
-+++
-date = "2017-02-09T13:20:00+00:00"
-discipline = "Composer"
-lastmod = "2017-02-09T13:21:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486646427488/Tassie.jpeg.jpeg"
-publishDate = "2017-02-09T13:21:00+00:00"
-slug = "benjamin-tassie"
-title = "Benjamin Tassie"
-website = "http://benjamintassie.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/benjamintassie"
-+++
+---
+date: "2017-02-09T13:20:00+00:00"
+discipline: Composer
+lastmod: "2017-02-09T13:21:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486646427488/Tassie.jpeg.jpeg
+publishDate: "2017-02-09T13:21:00+00:00"
+slug: benjamin-tassie
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/benjamintassie
+title: Benjamin Tassie
+website: http://benjamintassie.com/
+_template: "people_single"
+---
 
 Benjamin Tassie is a London based composer of electronic and acoustic music. He has worked with a range of leading ensembles and soloists, including the Britten Sinfonia, Rarescale, Rambert Dance, Liam Byrne, Joby Burgess, and Juice Vocal. His music has been performed at venues including The Place, the National Portrait Gallery, Tate Modern, Wilton’s Music Hall, Wilderness Festival, The V&A, Moth Club, and Rockwood Music Hall NYC. He has been broadcast on Resonance FM and on BBC Radio 3. 
 

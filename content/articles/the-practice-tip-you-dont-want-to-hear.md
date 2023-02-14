@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-06-16T17:47:00-06:00"
-lastmod = "2017-06-19T21:52:00-06:00"
-postamble = "Readers, do you have a love-hate relationship with slow practice? Vent away in the comments below!"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497826828038/2017-06-29---Slow.jpg.jpg"
-publishDate = "2017-06-19T21:40:00-06:00"
-related_articles = ["articles/4-tips-for-when-there-are-too-many-notes.md", "articles/5-ways-to-build-your-rhythmic-chops.md", "articles/quick-tips-the-rolled-r-test.md", "articles/surprising-practice-tips-4-arias-to-try-too-fast.md", "articles/ditch-rubato.md"]
-short_description = "That&#039;s where slowness comes in. It&#039;s the great magnifying glass, the exposer of weak spots. It&#039;s in slow practice that you find the crux of the problem, the ignored detail, the missing piece that makes the difference between a section of music that&#039;s hit-and-miss, and one that&#039;s consistent like a Swiss watch."
-slug = "the-practice-tip-you-dont-want-to-hear"
-title = "The practice tip you don&#039;t want to hear"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-06-16T17:47:00-06:00"
+lastmod: "2017-06-19T21:52:00-06:00"
+postamble: Readers, do you have a love-hate relationship with slow practice? Vent
+  away in the comments below!
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497826828038/2017-06-29---Slow.jpg.jpg
+publishDate: "2017-06-19T21:40:00-06:00"
+related_articles:
+- articles/4-tips-for-when-there-are-too-many-notes.md
+- articles/5-ways-to-build-your-rhythmic-chops.md
+- articles/quick-tips-the-rolled-r-test.md
+- articles/surprising-practice-tips-4-arias-to-try-too-fast.md
+- articles/ditch-rubato.md
+short_description: That&#039;s where slowness comes in. It&#039;s the great magnifying
+  glass, the exposer of weak spots. It&#039;s in slow practice that you find the crux
+  of the problem, the ignored detail, the missing piece that makes the difference
+  between a section of music that&#039;s hit-and-miss, and one that&#039;s consistent
+  like a Swiss watch.
+slug: the-practice-tip-you-dont-want-to-hear
+title: The practice tip you don&#039;t want to hear
+_template: article_single
+---
 Many musicians spend their early years of training - and maybe some of the later years - fighting a cold, hard fact about their practice habits: **the slow way _is_ the fast way.**
 
 >Of course, while you're being very tortoise-like with your work, it can feel like the progress you're making is _too_ slow.

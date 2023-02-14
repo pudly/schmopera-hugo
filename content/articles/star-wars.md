@@ -1,22 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2019-01-27T15:55:41+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[Click here](https://www.tso.ca/concerts?start%5Bdate%5D=&end%5Bdate%5D=&k=&type%5B388%5D=388) to find more upcoming films with live orchestra. For a full listing of the TSO's concerts, [click here](https://www.tso.ca/concerts)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548603694/media/2019/01/sqStarWars.jpg"
-primary_image_credit = "Photo courtesy of the Toronto Symphony Orchestra."
-related_articles = ["articles/erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = []
-short_description = "The crowd, full of fans of all ages, shared a level of love and nostalgia for the work of John Williams and George Lucas that rivals opera fans' loyalty to Verdi and Wagner."
-slug = "a-staggering-team-effort-star-wars-in-concert"
-title = "A staggering team effort: Star Wars in concert"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Review
+date: '2019-01-27T15:55:41+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  [Click
+  here](https://www.tso.ca/concerts?start%5Bdate%5D=&end%5Bdate%5D=&k=&type%5B388%5D=388)
+  to find more upcoming films with live orchestra. For a full listing of the
+  TSO's concerts, [click here](https://www.tso.ca/concerts).
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1548603694/media/2019/01/sqStarWars.jpg
+primary_image_credit: Photo courtesy of the Toronto Symphony Orchestra.
+related_articles:
+  - >-
+    articles/erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional.md
+related_companies:
+  - scene/companies/toronto-symphony-orchestra.md
+related_people: []
+short_description: >-
+  The crowd, full of fans of all ages, shared a level of love and nostalgia for
+  the work of John Williams and George Lucas that rivals opera fans' loyalty to
+  Verdi and Wagner.
+slug: a-staggering-team-effort-star-wars-in-concert
+title: 'A staggering team effort: Star Wars in concert'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 There's definitely something operatic about watching _Star Wars: A New Hope_ on a screen dangling from the ceiling of Roy Thomson Hall, its famous original score in the expert hands of the Toronto Symphony Orchestra.
 
 The crowd, full of fans of all ages, shared a level of love and nostalgia for the work of John Williams and George Lucas that rivals opera fans' loyalty to Verdi and Wagner. It's true that there are fewer variables with in-concert film - certainly so compared to opera, where all of a production's moving parts are happening live - but this audience also seemed less bothered by the bits that might have been unexpected: The subtitles ran throughout the film; the orchestra was sometimes too loud to clearly hear the dialogue; there was an intermission.
@@ -27,7 +40,9 @@ It's all stuff that, maybe for the most hardcore cinephile and _Star Wars_ lunat
 
 It was refreshing to note the differences in this crowd from the usual audience that attends the TSO's mainstage symphonic fare. There were a few costumes floating around the lobby - Darth Vader, a small wookiee, a nondescript Jedi - and there was a general air of fun. Conductor Sarah Hicks, whose résumé of Pops concerts is enormous and includes regular spots at the Hollywood Bowl and concerts with Smokey Robinson, appeared onstage holding a green lightsaber, "The best Amazon purchase I have ever made."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548618581/media/2019/01/SarahHicks1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548618581/media/2019/01/SarahHicks1.jpg)
 
 <figcaption>Sarah Hicks, conductor.</figcaption>
 

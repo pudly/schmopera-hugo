@@ -1,18 +1,21 @@
-+++
-date = "2015-10-28T11:26:00-04:00"
-discipline = "Conductor, composer"
-draft = true
-lastmod = "2015-10-28T11:27:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446046023598/BarreseSquare.jpg.jpg"
-related_companies = ["scene/companies/opera-delaware.md","scene/companies/opera-southwest.md"]
-slug = "anthony-barrese"
-title = "Anthony Barrese"
-website = "http://anthonybarrese.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = ""
-+++
+---
+date: "2015-10-28T11:26:00-04:00"
+discipline: Conductor, composer
+draft: true
+lastmod: "2015-10-28T11:27:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446046023598/BarreseSquare.jpg.jpg
+related_companies:
+- scene/companies/opera-delaware.md
+- scene/companies/opera-southwest.md
+slug: anthony-barrese
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: ""
+title: Anthony Barrese
+website: http://anthonybarrese.com/
+_template: "people_single"
+---
 
 Anthony Barrese has earned accolades as both a composer and a conductor. He is the recipient of the 2007 Georg Solti Foundation U.S. award for young conductors. His original works have won numerous awards, and he is regularly engaged by opera companies in North America and Italy.
 

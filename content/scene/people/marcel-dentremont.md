@@ -1,22 +1,26 @@
-+++
-date = "2015-11-22T21:24:00-05:00"
-discipline = "Tenor"
-lastmod = "2015-11-22T21:24:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448245479667/2015-11-21---Marcel-d'Entremont.jpg.jpg"
-publishDate = "2015-11-22T21:24:00-05:00"
-related_companies = ["scene/companies/vancouver-opera.md", "scene/companies/opera-mcgill.md", "scene/companies/saskatoon-opera.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/jeunesses-musicales-canada.md"]
-slug = "marcel-dentremont"
-title = "Marcel d'Entremont"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/unclemarcey"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/unclemarcey/"
-
-+++
+---
+date: "2015-11-22T21:24:00-05:00"
+discipline: Tenor
+lastmod: "2015-11-22T21:24:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448245479667/2015-11-21---Marcel-d'Entremont.jpg.jpg
+publishDate: "2015-11-22T21:24:00-05:00"
+related_companies:
+- scene/companies/vancouver-opera.md
+- scene/companies/opera-mcgill.md
+- scene/companies/saskatoon-opera.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/jeunesses-musicales-canada.md
+slug: marcel-dentremont
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/unclemarcey
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/unclemarcey/
+title: Marcel d'Entremont
+_template: "people_single"
+---
 Tenor Marcel d’Entremont is becoming recognized across Canada for both his powerful voice and sincere stage presence. A former first prize winner of the Atlantic Young Artist Competition, Marcel also placed first in the vocal division of the National Music Festival of Canada and claimed the Grand Award for overall best performer.
 
 In November of 2018, he was named the winner of the Wirth Vocal Prize at McGill University, which resulted in solo recitals at La Chapelle historique du Bon-Pasteur in Montreal and the Richard Bradshaw Theatre of the Four Seasons Centre in Toronto.

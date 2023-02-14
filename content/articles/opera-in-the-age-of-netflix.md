@@ -1,15 +1,20 @@
-+++
-author = ["authors/michael-heitmann.md"]
-categories = "Op-ed"
-date = "2018-09-27T21:22:00-04:00"
-lastmod = "2018-10-01T09:12:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538099550779/netflix.jpg.jpg"
-publishDate = "2018-10-01T09:12:00-04:00"
-related_articles = ["articles/check-it-out-an-online-hub-for-new-opera.md"]
-short_description = "What if there was a more direct way to accomplish this goal? What would that look like? To all the opera companies, self-producers, recitalists, and alike, let me offer the following suggestions."
-slug = "opera-in-the-age-of-netflix"
-title = "Opera in the age of Netflix"
-+++
+---
+author:
+- authors/michael-heitmann.md
+categories: Op-ed
+date: "2018-09-27T21:22:00-04:00"
+lastmod: "2018-10-01T09:12:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538099550779/netflix.jpg.jpg
+publishDate: "2018-10-01T09:12:00-04:00"
+related_articles:
+- articles/check-it-out-an-online-hub-for-new-opera.md
+short_description: What if there was a more direct way to accomplish this goal? What
+  would that look like? To all the opera companies, self-producers, recitalists, and
+  alike, let me offer the following suggestions.
+slug: opera-in-the-age-of-netflix
+title: Opera in the age of Netflix
+_template: article_single
+---
 
 We've all been there. It's a Friday night after a long week. We're exhausted. Our boss has taken every ounce of motivation and joy out of our job, which otherwise would be palatable. We get home and scramble to fix something remotely tasty, disregarding to a certain extent the healthiness of our choices. We want something to comfort us, take us away from the stress from a job that barely pays our bills and allows us some small, simple joys.
  

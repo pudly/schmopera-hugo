@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-07T16:54:00-04:00"
-lastmod = "2017-07-11T12:10:00-04:00"
-preamble = "[Brian Harman](/scene/people/brian-harman/)'s music first caught our ear when the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/) presented his cycle, *Sewing the Earthworm* as part of their 2015 concert entitled [*The Living Spectacle*](/aptly-named-the-living-spectacle/). Harman collaborates often with artists of other media, and his work lends itself easily to other disciplines like dance, architecture and visual art.\n\nHarman talks about his current approach to composing music, the inevitable administrative work that comes with the job, and his varied musical aesthetics for driving, running, and singing karaoke.\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499549478735/2017-07-08---Brian-Harman.jpg.jpg"
-primary_image_credit = "Photo by Tor Sandberg."
-publishDate = "2017-07-11T12:10:00-04:00"
-related_articles = ["articles/talking-with-composers-aaron-gervais.md","articles/talking-with-composers-alexina-louie.md","articles/talking-with-composers-cecilia-livingston.md"]
-related_people = ["scene/people/brian-harman.md"]
-short_description = "&quot;To get some ideas flowing, I need time and space to think and explore. I have a notebook of ideas that I return to, which can help, but the idea needs to feel fresh and relevant to my current work and life. Even if it&#039;s challenging, this creative exploration is a really enjoyable part of composing for me.&quot;"
-slug = "talking-with-composers-brian-harman"
-title = "Talking with composers: Brian Harman"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-07T16:54:00-04:00"
+lastmod: "2017-07-11T12:10:00-04:00"
+preamble: |
+  [Brian Harman](/scene/people/brian-harman/)'s music first caught our ear when the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/) presented his cycle, *Sewing the Earthworm* as part of their 2015 concert entitled [*The Living Spectacle*](/aptly-named-the-living-spectacle/). Harman collaborates often with artists of other media, and his work lends itself easily to other disciplines like dance, architecture and visual art.
+
+  Harman talks about his current approach to composing music, the inevitable administrative work that comes with the job, and his varied musical aesthetics for driving, running, and singing karaoke.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499549478735/2017-07-08---Brian-Harman.jpg.jpg
+primary_image_credit: Photo by Tor Sandberg.
+publishDate: "2017-07-11T12:10:00-04:00"
+related_articles:
+- articles/talking-with-composers-aaron-gervais.md
+- articles/talking-with-composers-alexina-louie.md
+- articles/talking-with-composers-cecilia-livingston.md
+related_people:
+- scene/people/brian-harman.md
+short_description: '&quot;To get some ideas flowing, I need time and space to think
+  and explore. I have a notebook of ideas that I return to, which can help, but the
+  idea needs to feel fresh and relevant to my current work and life. Even if it&#039;s
+  challenging, this creative exploration is a really enjoyable part of composing for
+  me.&quot;'
+slug: talking-with-composers-brian-harman
+title: 'Talking with composers: Brian Harman'
+_template: article_single
+---
 
 ## What are your priorities when you begin writing something new? 
 

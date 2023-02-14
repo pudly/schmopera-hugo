@@ -1,16 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-09-11T09:00:00-04:00"
-lastmod = "2015-04-16T15:16:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429211675022/01_Vocal_05_Burry_Baby_Kintyre.jpg.jpg"
-publishDate = "2014-09-11T09:00:00-04:00"
-related_articles = ["articles/new-recordings-the-man-who-mistook-his-wife-for-a-hat.md","articles/bel-canto-indeed-dare-voce.md"]
-related_people = ["scene/people/dean-burry.md","scene/people/giles-tomkins.md","scene/people/krisztina-szab.md","scene/people/laura-albino.md"]
-short_description = "Canadian composer Dean Burry&#039;s opera Baby Kintyre is the coolest thing I&#039;ve heard in a long time. The opera, with the libretto also by Dean, had its first performance in 2009 on six consecutive broadcasts of the CBC&#039;s Saturday Afternoon at the Opera. Baby Kintyre is written  in the style of a radio serial in five episodes, based on the true story of a mummified baby found in the wall of 29 Kintyre (near Queen and Broadview) in Toronto. "
-slug = "in-review-baby-kintyre"
-title = "In Review: Baby Kintyre"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-09-11T09:00:00-04:00"
+lastmod: "2015-04-16T15:16:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429211675022/01_Vocal_05_Burry_Baby_Kintyre.jpg.jpg
+publishDate: "2014-09-11T09:00:00-04:00"
+related_articles:
+- articles/new-recordings-the-man-who-mistook-his-wife-for-a-hat.md
+- articles/bel-canto-indeed-dare-voce.md
+related_people:
+- scene/people/dean-burry.md
+- scene/people/giles-tomkins.md
+- scene/people/krisztina-szab.md
+- scene/people/laura-albino.md
+short_description: 'Canadian composer Dean Burry&#039;s opera Baby Kintyre is the
+  coolest thing I&#039;ve heard in a long time. The opera, with the libretto also
+  by Dean, had its first performance in 2009 on six consecutive broadcasts of the
+  CBC&#039;s Saturday Afternoon at the Opera. Baby Kintyre is written  in the style
+  of a radio serial in five episodes, based on the true story of a mummified baby
+  found in the wall of 29 Kintyre (near Queen and Broadview) in Toronto. '
+slug: in-review-baby-kintyre
+title: 'In Review: Baby Kintyre'
+_template: article_single
+---
 
 Canadian composer [Dean Burry](http://www.deanburry.com/)'s opera _Baby Kintyre_ is the coolest thing I've heard in a long time. The opera, with the libretto also by Dean, had its first performance in 2009 on six consecutive broadcasts of the CBC's _[Saturday Afternoon at the Opera](http://music.cbc.ca/#/Saturday-Afternoon-at-the-Opera). Baby Kintyre_ is written in the style of a radio serial in five episodes, based on the [true story](http://www.thestar.com/news/gta/2007/09/24/does_mummified_baby_have_living_cousin.html) of a mummified baby found in the wall of [29 Kintyre](https://www.google.ca/maps/place/29+Kintyre+Ave,+Toronto,+ON+M4M+1M3/@43.6605788,-79.3498281,17z/data=!3m1!4b1!4m2!3m1!1s0x89d4cb6e83be421f:0x38b766de657822ad) (near Queen and Broadview) in Toronto. The baby's body was found by a contractor in 2007, wrapped in a newspaper dated September 15, 1925\. The baby's parents are still unknown, but upon its discovery, [Rita Rich](http://www.thestar.com/news/gta/2007/09/24/does_mummified_baby_have_living_cousin.html) gave insight into the family who lived at 29 Kintyre.
 

@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-11-26T13:30:00-05:00"
-lastmod = "2018-11-28T11:35:00-05:00"
-preamble = "Opera Mariposa is ready to unveil its new production of Mozart's [*Così fan tutte*](http://operamariposa.com/schedule), **November 30 to December 8** at Marpole United Church. The Vancouver-based, female-led opera company is bringing Mozart's staple into the 21st century, no small feat for Da Ponte's layered story of deception and dating. \n\nWe spoke with stage director Robin Hahn about her tropical vision for a present-day *Così*."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543344259097/sqCosiFanTutte_cast_2_photobyStephanieKo_print.jpg.jpg"
-primary_image_credit = "One of two casts of Opera Mariposa's Così fan tutte. Photo: Stephanie Ko."
-publishDate = "2018-11-27T08:58:00-05:00"
-related_articles = ["articles/cosi-fan-tutte-misogynist-unreasonable.md","articles/chauvinism-cynicism-great-singing-cos-fan-tutte.md"]
-related_companies = ["scene/companies/opera-mariposa.md"]
-short_description = "&quot;Our production includes a little LGBTQ+ content, as well as a nod to polyamory. Given the way the original sought to challenge the status quo, we felt this is very much in the spirit of the opera. I think the result is still a hilarious, satirical look at relationship stereotypes, and one that all audiences can enjoy!&quot;"
-slug = "stay-warm-with-opera-mariposas-tropical-cos-fan-tutte"
-title = "Stay warm with Opera Mariposa&#039;s tropical Così fan tutte"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-11-26T13:30:00-05:00"
+lastmod: "2018-11-28T11:35:00-05:00"
+preamble: "Opera Mariposa is ready to unveil its new production of Mozart's [*Così
+  fan tutte*](http://operamariposa.com/schedule), **November 30 to December 8** at
+  Marpole United Church. The Vancouver-based, female-led opera company is bringing
+  Mozart's staple into the 21st century, no small feat for Da Ponte's layered story
+  of deception and dating. \n\nWe spoke with stage director Robin Hahn about her tropical
+  vision for a present-day *Così*."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543344259097/sqCosiFanTutte_cast_2_photobyStephanieKo_print.jpg.jpg
+primary_image_credit: 'One of two casts of Opera Mariposa''s Così fan tutte. Photo:
+  Stephanie Ko.'
+publishDate: "2018-11-27T08:58:00-05:00"
+related_articles:
+- articles/cosi-fan-tutte-misogynist-unreasonable.md
+- articles/chauvinism-cynicism-great-singing-cos-fan-tutte.md
+related_companies:
+- scene/companies/opera-mariposa.md
+short_description: '&quot;Our production includes a little LGBTQ+ content, as well
+  as a nod to polyamory. Given the way the original sought to challenge the status
+  quo, we felt this is very much in the spirit of the opera. I think the result is
+  still a hilarious, satirical look at relationship stereotypes, and one that all
+  audiences can enjoy!&quot;'
+slug: stay-warm-with-opera-mariposas-tropical-cos-fan-tutte
+title: Stay warm with Opera Mariposa&#039;s tropical Così fan tutte
+_template: article_single
+---
 
 ### What is potentially problematic about Mozart's *Così fan tutte*?
 
@@ -22,7 +37,10 @@ For me, the goal for Opera Mariposa's production was to allow the opera's spirit
 
 To me, the most potentially problematic elements of a traditional staging are also the most unnecessary. These days, we can acknowledge that Ferrando and Guglielmo's dressing up "as Albanians" is culturally insensitive; we can also take issue with the sexually aggressive way that their pursuit of Fiordiligi and Dorabella is sometimes staged. Yet both these elements are presented as jokes, and neither is necessary to make the story work. The boys can dress up as pretty much anything, and it's just as hilarious. The girls don't need to be touched against their will or have their personal space invaded in order to make it clear that the boys are courting them.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543256866236/CosiFanTutte_cast_1_photobyKathrynNickford_print.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543256866236/CosiFanTutte_cast_1_photobyKathrynNickford_print.jpg.jpg)
+
 <figcaption>One of two casts of Opera Mariposa's *Così fan tutte*. Photo: Kathryn Nickford.</figcaption>
 </figure>
 
@@ -46,7 +64,10 @@ First and foremost, I hope they think it's hilarious! But on top of that, I hope
 
 I believe that just as audiences change over the course of a few hundred years, so too must we rethink our approach to the source material. With masterworks such as *Così*, the shifts are very simple, in the end. The opera has excitement, romance, hilarious hijinks and subversive, satirical cultural commentary all built in. Our job as artists is simply to present that to audiences in the best way possible for them to connect to it – to bring them into the story, and to show them a wonderful time while they're there!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543256888312/Cosi_poster_lettersize.jpg.jpg)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543256888312/Cosi_poster_lettersize.jpg.jpg)
+
+<figure>
 
 >Opera Mariposa's production of *Così fan tutte* runs from November 30 to December 8 at Marpole United Church, Vancouver. For details and ticket information, [click here.](http://operamariposa.com/schedule)

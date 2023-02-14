@@ -1,18 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-05-05T17:01:00+01:00"
-lastmod = "2016-05-06T14:18:00+01:00"
-preamble = "This month, [Tapestry Opera](/scene/companies/tapestry-opera/) presents the world premiere of *Rocking Horse Winner*, a co-commission with [Scottish Opera](/scene/companies/scottish-opera/) by composer Gareth Williams and librettist [Anna Chatterton](/scene/people/anna-chatterton/). The new opera is an adaptation of D.H. Lawrence's short story of the same name, a tale of skewed ideas of love and luck, about a family's constant struggles with money, and their son Paul, who has a curious knack for predicting winning horses at the betting tracks. Tapestry's [Michael Mori](//michael-mori-on-contemporary-opera/) directs, and Conductor-in-Residence [Jordan de Souza](/at-the-podium-jordan-de-souza/) leads a solid cast, including soprano [Carla Huhtanen](/scene/people/carla-huhtanen/), tenor [Keith Klassen](/scene/people/keith-klassen/), baritone [Peter McGillivray](/talking-with-singers-peter-mcgillivray/), and tenor [Asitha Tennekoon](/scene/people/asitha-tennekoon/), who makes his professional debut with the company.\n\nWe spoke with Michael Mori and librettist Anna Chatterton about *Rocking Horse Winner*, and what the piece says about mental health, luck, and wealth disparity."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462464596116/2016-05-06---Rocking-Horse-Winner-Press-Photo.jpg.jpg"
-publishDate = "2016-05-06T14:10:00+01:00"
-related_articles = ["articles/in-review-rocking-horse-winner.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md","scene/companies/scottish-opera.md"]
-related_people = ["scene/people/michael-mori.md","scene/people/anna-chatterton.md","scene/people/peter-mcgillivray.md","scene/people/carla-huhtanen.md","scene/people/keith-klassen.md","scene/people/asitha-tennekoon.md","scene/people/jordan-de-souza.md"]
-short_description = "This month, Tapestry Opera presents the world premiere of Rocking Horse Winner, a co-commission with Scottish Opera by composer Gareth Williams and librettist Anna Chatterton. The new opera is an adaptation of D.H. Lawrence&#039;s short story of the same name, a tale of skewed ideas of love and luck, about a family&#039;s constant struggles with money, and their son Paul, who has a curious knack for predicting winning horses at the betting tracks. "
-slug = "dont-miss-rocking-horse-winner"
-title = "Don&#039;t miss: Rocking Horse Winner"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-05-05T17:01:00+01:00"
+lastmod: "2016-05-06T14:18:00+01:00"
+preamble: |-
+  This month, [Tapestry Opera](/scene/companies/tapestry-opera/) presents the world premiere of *Rocking Horse Winner*, a co-commission with [Scottish Opera](/scene/companies/scottish-opera/) by composer Gareth Williams and librettist [Anna Chatterton](/scene/people/anna-chatterton/). The new opera is an adaptation of D.H. Lawrence's short story of the same name, a tale of skewed ideas of love and luck, about a family's constant struggles with money, and their son Paul, who has a curious knack for predicting winning horses at the betting tracks. Tapestry's [Michael Mori](//michael-mori-on-contemporary-opera/) directs, and Conductor-in-Residence [Jordan de Souza](/at-the-podium-jordan-de-souza/) leads a solid cast, including soprano [Carla Huhtanen](/scene/people/carla-huhtanen/), tenor [Keith Klassen](/scene/people/keith-klassen/), baritone [Peter McGillivray](/talking-with-singers-peter-mcgillivray/), and tenor [Asitha Tennekoon](/scene/people/asitha-tennekoon/), who makes his professional debut with the company.
+
+  We spoke with Michael Mori and librettist Anna Chatterton about *Rocking Horse Winner*, and what the piece says about mental health, luck, and wealth disparity.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462464596116/2016-05-06---Rocking-Horse-Winner-Press-Photo.jpg.jpg
+publishDate: "2016-05-06T14:10:00+01:00"
+related_articles:
+- articles/in-review-rocking-horse-winner.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+- scene/companies/scottish-opera.md
+related_people:
+- scene/people/michael-mori.md
+- scene/people/anna-chatterton.md
+- scene/people/peter-mcgillivray.md
+- scene/people/carla-huhtanen.md
+- scene/people/keith-klassen.md
+- scene/people/asitha-tennekoon.md
+- scene/people/jordan-de-souza.md
+short_description: 'This month, Tapestry Opera presents the world premiere of Rocking
+  Horse Winner, a co-commission with Scottish Opera by composer Gareth Williams and
+  librettist Anna Chatterton. The new opera is an adaptation of D.H. Lawrence&#039;s
+  short story of the same name, a tale of skewed ideas of love and luck, about a family&#039;s
+  constant struggles with money, and their son Paul, who has a curious knack for predicting
+  winning horses at the betting tracks. '
+slug: dont-miss-rocking-horse-winner
+title: 'Don&#039;t miss: Rocking Horse Winner'
+_template: article_single
+---
 
 ## What prompted you to choose D.H. Lawrence's story as the source of an opera? 
 

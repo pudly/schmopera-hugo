@@ -1,18 +1,28 @@
-+++
-author = ["authors/daniel-weisman.md"]
-categories = "Review"
-date = "2018-04-09T12:55:00-04:00"
-lastmod = "2018-04-10T12:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523297302011/sq---JB4A7198.jpg.jpg"
-primary_image_credit = "Out of Darkness: Two Remain, the Atlanta Opera, 2018. Photo courtesy of The Atlanta Opera."
-publishDate = "2018-04-09T14:18:00-04:00"
-related_articles = ["articles/heggies-holocaust-operas-see-canadian-premiere.md","articles/meet-the-friends-their-seven-deadly-sins.md"]
-related_companies = ["scene/companies/the-atlanta-opera.md"]
-related_people = ["scene/people/elise-quagliata.md"]
-short_description = "The second act follows the story of Gad Beck, performed by actor Tom Key. Gad, an older man, is preparing for bed when the ghost of his lover, Manfred Lewin, appears to remind Gad of the horrors, though Gad, who has held on to Manfred&#039;s book of poetry and his picture, had spent years just trying to forget it."
-slug = "perfect-for-its-time-heggie-double-bill-in-atlanta"
-title = "Out of Darkness: Two Remain is perfect for its time"
-+++
+---
+author:
+- authors/daniel-weisman.md
+categories: Review
+date: "2018-04-09T12:55:00-04:00"
+lastmod: "2018-04-10T12:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523297302011/sq---JB4A7198.jpg.jpg
+primary_image_credit: 'Out of Darkness: Two Remain, the Atlanta Opera, 2018. Photo
+  courtesy of The Atlanta Opera.'
+publishDate: "2018-04-09T14:18:00-04:00"
+related_articles:
+- articles/heggies-holocaust-operas-see-canadian-premiere.md
+- articles/meet-the-friends-their-seven-deadly-sins.md
+related_companies:
+- scene/companies/the-atlanta-opera.md
+related_people:
+- scene/people/elise-quagliata.md
+short_description: The second act follows the story of Gad Beck, performed by actor
+  Tom Key. Gad, an older man, is preparing for bed when the ghost of his lover, Manfred
+  Lewin, appears to remind Gad of the horrors, though Gad, who has held on to Manfred&#039;s
+  book of poetry and his picture, had spent years just trying to forget it.
+slug: perfect-for-its-time-heggie-double-bill-in-atlanta
+title: 'Out of Darkness: Two Remain is perfect for its time'
+_template: article_single
+---
 
 Jake Heggie has done it again. He took my heart and soul, reeled me in like a hungry fish on the line with promises of an emotional connection and beautiful music and then he stomped my heart into the ground and spit on it for good measure and, the entire time, I let him, thanked him for it, and would gladly do it again.
 
@@ -24,7 +34,10 @@ The set itself (designed by Christopher S. Dills) was effective, transforming th
 
 The first act follows an aged Krystyna Zywulska, as she struggles to record material for an upcoming biography chronicling her time as a political prisoner in Auschwitz-Birkenau. In truth, Krystyna Zywulska is Sonia Landau, a Jew who has hidden her name and her heritage. The grown Krystyna seems flighty, almost carefree as she attempts to recount her story without frustrating herself. Zywulska wants to be seen as more than a survivor-- a hero, her guilt over surviving seems to take her back as she's haunted by a seemingly nameless ghost that she cannot ignore.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523297451517/JB4A7014.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523297451517/JB4A7014.jpg.jpg)
+
 <figcaption>*Out of Darkness: Two Remain*, the Atlanta Opera, 2018. Photo courtesy of The Atlanta Opera.</figcaption>
 </figure>
 
@@ -38,7 +51,10 @@ Director Tomer Zvulun's premise for this piece kept Krystyna (the elder) in some
 
 Maria Kanyova plays the present Krystyna Zywulska, playing the role with a whimsy that seemed to brush off the pains of her past until her character breaks. Kanyova's soprano was effortless and controlled, mixing perfectly with Second Year Atlanta Opera Studio Artist Bryn Holdsworth, who played the younger Krysia with the warmth and depth I have expected from Ms. Holdsworth since seeing her in *Seven Deadly Sins* last year. Ms. Holdsworth's performance, alongside Ms. Kanyova’s, was a double-whammy of total devastation as we learned to suffer alongside them. Mezzo-soprano [Elisa Quagliata](/scene/people/elise-quagliata/) sang a warm and thick Zosia. Her voice boomed in the house, making me wish that we could have heard more of her. Rounding out the cast as Edka was Atlanta Opera Studio Artist Gina Perregrino whose mezzo-soprano held strong among the larger roles; her dramatic integrity helped bring a sincerity to Krysia's naivety.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523297588355/JB4A6348.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523297588355/JB4A6348.jpg.jpg)
+
 <figcaption>*Out of Darkness: Two Remain*, the Atlanta Opera, 2018. Photo courtesy of The Atlanta Opera.</figcaption>
 </figure>
 

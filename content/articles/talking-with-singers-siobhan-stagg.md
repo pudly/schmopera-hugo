@@ -1,17 +1,29 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Interview"
-date = "2018-12-10T20:29:00-05:00"
-lastmod = "2018-12-10T20:29:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544491721633/sqSiobhan_StaggSimonPauly2018_13.jpg.jpg"
-publishDate = "2018-12-10T20:29:00-05:00"
-related_articles = ["articles/talking-with-singers-melody-moore.md","articles/talking-with-singers-sondra-radvanovsky.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/deutsche-oper-berlin.md","scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/siobhan-stagg.md"]
-short_description = "For the moment, Stagg is enjoying Chicago. Recent highlights include bundling up for a walk through Millennium Park, an outing to hear Verdi&#039;s Requiem with Riccardo Muti at the Chicago Symphony, and a trip to the city&#039;s famed Art Institute, where she especially enjoyed the collection of French impressionist paintings."
-slug = "talking-with-singers-siobhan-stagg"
-title = "Talking with singers: Siobhan Stagg"
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Interview
+date: "2018-12-10T20:29:00-05:00"
+lastmod: "2018-12-10T20:29:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544491721633/sqSiobhan_StaggSimonPauly2018_13.jpg.jpg
+publishDate: "2018-12-10T20:29:00-05:00"
+related_articles:
+- articles/talking-with-singers-melody-moore.md
+- articles/talking-with-singers-sondra-radvanovsky.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/siobhan-stagg.md
+short_description: For the moment, Stagg is enjoying Chicago. Recent highlights include
+  bundling up for a walk through Millennium Park, an outing to hear Verdi&#039;s Requiem
+  with Riccardo Muti at the Chicago Symphony, and a trip to the city&#039;s famed
+  Art Institute, where she especially enjoyed the collection of French impressionist
+  paintings.
+slug: talking-with-singers-siobhan-stagg
+title: 'Talking with singers: Siobhan Stagg'
+_template: article_single
+---
 
 Australian soprano [Siobhan Stagg](/scene/people/siobhan-stagg/), currently starring in Lyric Opera of Chicago's [*Cendrillon*](/actual-magic-in-chicago-lyrics-cendrillon/), has been on a meteoric rise since 2013, the year she moved to Berlin to join the prestigious young artist program at Deutsche Oper Berlin. 
 
@@ -19,7 +31,10 @@ Raised in Midura, a small city in northern Victoria, Stagg now sings all over Eu
 
 Scrolling through Stagg's schedule, mentally adding in recent recording projects and accounting for travel, the volume and variety of work she packs into her seasons is astonishing. But then, Stagg is a notoriously quick-study — a skill she says she honed starting out in the choral and baroque worlds, where learning often - obscure music quickly is a professional necessity.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544491638863/Siobhan_StaggSimonPauly2018_3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544491638863/Siobhan_StaggSimonPauly2018_3.jpg.jpg)
+
 <figcaption>Photo: Simon Pauly.</figcaption>
 </figure>
 
@@ -29,7 +44,10 @@ In fact, her 2017-2018 season consisted "almost exclusively singing Pamina," whe
 
 When asked about especially meaningful recent performances, Stagg was quick to mention another role and house debut earlier this season: Mélisande in Debussy's *Pelléas et Mélisande* at Victorian Opera (Melbourne). Not only was it thrilling to make her operatic debut in her home country, but taking on the role of Mélisande also heralded a turn toward plummier, lyric repertoire for Stagg. Like Mélisande, Cendrillon is a zwischen role, (a role that can be sung convincingly by sopranos or mezzos). Stagg is excited by these fuller roles, saying, "I feel these roles are more 'me' in terms of personality and vocalism… [than] the very high soprano roles [I sang] at the beginning of my career."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544491683634/SiobhanStagg_CENDRILLON_LyricOperaofChicago_LYR181128_215_c.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544491683634/SiobhanStagg_CENDRILLON_LyricOperaofChicago_LYR181128_215_c.jpg.jpg)
+
 <figcaption>Siobhan Stagg as Cendrillon in *Cendrillon*, Lyric Opera of Chicago, 2018. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
@@ -37,7 +55,10 @@ Stagg seems to be in a French state of mind of late. In addition to her recent d
 
 For the moment, Stagg is enjoying Chicago. Recent highlights include bundling up for a walk through Millennium Park, an outing to hear Verdi's *Requiem* with Riccardo Muti at the Chicago Symphony, and a trip to the city's famed Art Institute, where she especially enjoyed the collection of French impressionist paintings.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544491648891/Siobhan_StaggSimonPauly2018_11.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544491648891/Siobhan_StaggSimonPauly2018_11.jpg.jpg)
+
 <figcaption>Photo: Simon Pauly.</figcaption>
 </figure>
 

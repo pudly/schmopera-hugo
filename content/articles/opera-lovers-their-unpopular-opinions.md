@@ -1,15 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-04-24T17:22:00+01:00"
-lastmod = "2016-04-26T09:33:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461621199425/2016-04-26---Puffin.jpg.jpg"
-publishDate = "2016-04-26T09:25:00+01:00"
-related_articles = ["articles/5-times-handel-got-weird.md","articles/gimmicks-tactics-discouraging-the-new-.md"]
-short_description = "There&#039;s something to be said about voicing unpopular opinions; it&#039;s an important thing, to criticize, and it&#039;s even more important when that criticism seems to come up against opinions so widely held that they&#039;re instead deemed as facts. Just like French Baroque music is delightful and violas are less interesting than violins, Mozart is perfect, and the Earth is round, right?*"
-slug = "opera-lovers-their-unpopular-opinions"
-title = "Opera lovers &amp; their unpopular opinions"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-04-24T17:22:00+01:00"
+lastmod: "2016-04-26T09:33:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461621199425/2016-04-26---Puffin.jpg.jpg
+publishDate: "2016-04-26T09:25:00+01:00"
+related_articles:
+- articles/5-times-handel-got-weird.md
+- articles/gimmicks-tactics-discouraging-the-new-.md
+short_description: There&#039;s something to be said about voicing unpopular opinions;
+  it&#039;s an important thing, to criticize, and it&#039;s even more important when
+  that criticism seems to come up against opinions so widely held that they&#039;re
+  instead deemed as facts. Just like French Baroque music is delightful and violas
+  are less interesting than violins, Mozart is perfect, and the Earth is round, right?*
+slug: opera-lovers-their-unpopular-opinions
+title: Opera lovers &amp; their unpopular opinions
+_template: article_single
+---
 
 We were listening to an episode [Overthought, A Podcast](http://www.overthoughtpodcast.com/), and co-host (and fellow Schmopera contributor) [Isaiah Bell](/on-the-ego/) brought up a pretty neat point. In a long and qualified tangent about the general topic of perfectionism, he expressed his frustration with the music of Mozart. To paraphrase, Mozart's knack for symmetry and those immaculate turns of phrases is slightly irritating to Bell; there's not enough human error in his music for him to fall in love with it.
 

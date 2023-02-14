@@ -1,22 +1,50 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2019-10-07T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "If you have a true story of sexual harssment, abuse, or assault within the opera and classical music industries, you can send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com)."
-preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld at the author's request."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571941974/media/2019/10/TheStories9-resized_mmvsxe.jpg"
-primary_image_credit = ""
-related_articles = ["articles/thestories-part-15.md", "articles/thestories-part-14.md", "articles/thestories-part-13.md", "articles/thestories-part-12.md", "articles/thestories-part-10-1.md", "articles/thestories-part-10-2.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/metoo-intro.md"]
-related_companies = []
-related_people = []
-short_description = "\"It is my sincere hope that men in the opera industry and in general will read stories like this and gain a deeper understanding of what real consent looks like.\""
-slug = "thestories-part-9"
-title = "#TheStories, part 9"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Editorial
+date: '2019-10-07T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  If you have a true story of sexual harssment, abuse, or assault within the
+  opera and classical music industries, you can send it to me at
+  [jenna@schmopera.com](mailto:jenna@schmopera.com).
+preamble: >-
+  This is one part in a series of personal accounts of harassment, abuse, and
+  assault in the opera and classical music industries. These stories are
+  published as told to me, with some names and details withheld at the author's
+  request.
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1571941974/media/2019/10/TheStories9-resized_mmvsxe.jpg
+primary_image_credit: ''
+related_articles:
+  - articles/thestories-part-15.md
+  - articles/thestories-part-14.md
+  - articles/thestories-part-13.md
+  - articles/thestories-part-12.md
+  - articles/thestories-part-10-1.md
+  - articles/thestories-part-10-2.md
+  - articles/thestories-part-8.md
+  - articles/thestories-part-10.md
+  - articles/thestories-part-6.md
+  - articles/thestories-part-5.md
+  - articles/thestories-part-4.md
+  - articles/thestories-part-3.md
+  - articles/thestories-part-2.md
+  - articles/thestories-part-i.md
+  - articles/metoo-intro.md
+related_companies: []
+related_people: []
+short_description: >-
+  "It is my sincere hope that men in the opera industry and in general will read
+  stories like this and gain a deeper understanding of what real consent looks
+  like."
+slug: thestories-part-9
+title: '#TheStories, part 9'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 In the summer of 2007, I participated in a young artist program at an American summer opera festival directed by my former voice teacher, Amy.* One of the principal artists alongside Amy was a baritone, Dave, who was one of her closest friends from college. Right away, I could see why she got along so well with him - he was affable and charismatic.
 
 Amy was so busy running the festival that I didn't get to spend much downtime with her, but I did start to spend time with Dave - sometimes in groups, sometimes alone. At first it seemed within the scope of normal socializing with colleagues. I thought my boundaries were clear because he knew I had a boyfriend.

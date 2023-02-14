@@ -1,18 +1,29 @@
-+++
-author = ["authors/greg.md"]
-categories = "Interview"
-date = "2016-06-06T09:24:00+01:00"
-lastmod = "2016-06-06T16:13:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465205478918/2016-06-06---Hobbit.jpg.jpg"
-primary_image_credit = "The CCOC rehearses The Hobbit with Giles Tomkins. Photo: Gregory Finney."
-publishDate = "2016-06-06T12:29:00+01:00"
-related_articles = ["articles/tfco-opera-trek-the-next-generation.md","articles/the-tfco-a-young-peoples-opera-blitz.md"]
-related_companies = ["scene/companies/canadian-childrens-opera-company.md"]
-related_people = ["scene/people/dean-burry.md","scene/people/giles-tomkins.md"]
-short_description = "&quot;I think the hardest part was trying to figure out my character. For some characters, they&#039;re really specific in what they want and need, but other characters - like mine - you have to figure it all out on your own. I had go on the internet and find out a bunch of stuff on my character. &quot;"
-slug = "over-the-misty-mountains-the-ccoc-on-the-hobbit"
-title = "Over the Misty Mountains: the CCOC on The Hobbit"
-+++
+---
+author:
+- authors/greg.md
+categories: Interview
+date: "2016-06-06T09:24:00+01:00"
+lastmod: "2016-06-06T16:13:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465205478918/2016-06-06---Hobbit.jpg.jpg
+primary_image_credit: 'The CCOC rehearses The Hobbit with Giles Tomkins. Photo: Gregory
+  Finney.'
+publishDate: "2016-06-06T12:29:00+01:00"
+related_articles:
+- articles/tfco-opera-trek-the-next-generation.md
+- articles/the-tfco-a-young-peoples-opera-blitz.md
+related_companies:
+- scene/companies/canadian-childrens-opera-company.md
+related_people:
+- scene/people/dean-burry.md
+- scene/people/giles-tomkins.md
+short_description: '&quot;I think the hardest part was trying to figure out my character.
+  For some characters, they&#039;re really specific in what they want and need, but
+  other characters - like mine - you have to figure it all out on your own. I had
+  go on the internet and find out a bunch of stuff on my character. &quot;'
+slug: over-the-misty-mountains-the-ccoc-on-the-hobbit
+title: 'Over the Misty Mountains: the CCOC on The Hobbit'
+_template: article_single
+---
 
 Continuing our coverage of the inaugural [Toronto Festival of Children's Opera](http://www.canadianchildrensopera.com/content/TFCO.html) (TFCO), I found myself visiting a rehearsal for the [Canadian Children's Opera Company](/scene/companies/canadian-childrens-opera-company/)'s upcoming production of Dean Burry's opera [*The Hobbit*](http://www.canadianchildrensopera.com/content/hobbit.html-0), based on J. R. R. Tolkien's classic. 
 
@@ -52,7 +63,10 @@ Here's how our conversation went, and I'll warn you, it's very hard to discern t
 
 **Gabriel**: You know, it's really hard to sing while moving around. You lose all this technique and skill that you've learned just goes out the window so you have to teach yourself how to do both at the same time. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465205551510/2016-06-06---Hobbit-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465205551510/2016-06-06---Hobbit-2.jpg.jpg)
+
 <figcaption>l-r:  Connor Ross, Gabriel Gough, Giles Tomkins, Maaike van Benthem and Frances Quilty.</figcaption>
 </figure>
 

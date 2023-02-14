@@ -1,6 +1,7 @@
 ---
-title: Companies
-url: /scene/companies/
-type: scene
 layout: companies
+title: Companies
+type: scene
+url: "/scene/companies/"
+_template: "company_list"
 ---

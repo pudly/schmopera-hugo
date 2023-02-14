@@ -1,19 +1,27 @@
-+++
-date = "2018-01-16T18:38:00-05:00"
-discipline = "Tenor"
-lastmod = "2018-01-16T18:38:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516145535472/JosephKaiser5PHOTOCREDITJulie-Artacho.jpeg.jpeg"
-primary_image_credit = "Julie Artacho"
-publishDate = "2018-01-16T18:38:00-05:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/houston-grand-opera.md","scene/companies/canadian-opera-company.md","scene/companies/the-dallas-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md"]
-slug = "joseph-kaiser"
-title = "Joseph Kaiser"
-website = "http://www.josephkaiser.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Joseph-Kaiser-163745036880/"
-+++
+---
+date: "2018-01-16T18:38:00-05:00"
+discipline: Tenor
+lastmod: "2018-01-16T18:38:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516145535472/JosephKaiser5PHOTOCREDITJulie-Artacho.jpeg.jpeg
+primary_image_credit: Julie Artacho
+publishDate: "2018-01-16T18:38:00-05:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+slug: joseph-kaiser
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Joseph-Kaiser-163745036880/
+title: Joseph Kaiser
+website: http://www.josephkaiser.com/
+_template: "people_single"
+---
 
 Joseph Kaiser is recognized by audiences for his beauty of tone, intelligence of programming, and innate sense of style and elegance.  He is internationally acclaimed as one of the most gifted artists of his generation and enjoys success in opera, oratorio, and concert throughout North America and Europe.
 

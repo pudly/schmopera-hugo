@@ -1,22 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-04-27T10:39:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "The Canadian Opera Company's production of _Otello_ runs April 27 to May 21. For details and ticket information, [click here](https://www.coc.ca/productions/16510). "
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556296879/media/2019/04/sqGeraldFinley-pc-SimCanettyClarke.jpg"
-primary_image_credit = "Photo: Sim Canetty Clarke."
-related_articles = []
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/gerald-finley.md"]
-short_description = "Shady characters aren't new for the affable Finley; before adding Iago, Baron Scarpia (Tosca), and Duke Bluebeard (Bluebeard's Castle) to his repertoire, his career was famously rooted in two of Mozart's most prominent cads, Don Giovanni (Don Giovanni) and Count Almaviva (Le nozze di Figaro)."
-slug = "talking-with-singers-gerald-finley"
-title = "Talking with singers: Gerald Finley"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Interview
+date: '2019-04-27T10:39:00+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  The Canadian Opera Company's production of _Otello_ runs April 27 to May 21.
+  For details and ticket information, [click
+  here](https://www.coc.ca/productions/16510). 
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1556296879/media/2019/04/sqGeraldFinley-pc-SimCanettyClarke.jpg
+primary_image_credit: 'Photo: Sim Canetty Clarke.'
+related_articles: []
+related_companies:
+  - scene/companies/canadian-opera-company.md
+related_people:
+  - scene/people/gerald-finley.md
+short_description: >-
+  Shady characters aren't new for the affable Finley; before adding Iago, Baron
+  Scarpia (Tosca), and Duke Bluebeard (Bluebeard's Castle) to his repertoire,
+  his career was famously rooted in two of Mozart's most prominent cads, Don
+  Giovanni (Don Giovanni) and Count Almaviva (Le nozze di Figaro).
+slug: talking-with-singers-gerald-finley
+title: 'Talking with singers: Gerald Finley'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 "Absolute stillness is the thing about villainous people," says Canadian bass-baritone [Gerald Finley](/scene/people/gerald-finley/), who has been busy studying malevolence in preparation for his Iago in David Alden's stark production of Verdi's [_Otello_](https://www.coc.ca/productions/16510) (running April 27 to May 21 at the Canadian Opera Company).
 
 Shady characters aren't new for the affable Finley; before adding Iago, Baron Scarpia (_Tosca_), and Duke Bluebeard (_Bluebeard's Castle_) to his repertoire, his career was famously rooted in two of Mozart's most prominent cads, Don Giovanni (_Don Giovanni_) and Count Almaviva (_Le nozze di Figaro_).
@@ -27,7 +39,9 @@ Yet in Otello’s nemesis, Finley finds "the perfect villain." An expert at fals
 
 "I think there's always this idea that a villain is at once attractive and dangerous," he says. "That's what I love about playing a part like that, because he's always adjusting his demeanour, depending on who he's with." Only when Iago is alone, delivering his famous "Credo" in Act II, does he present his true self to the audience, and reveal what Finley calls, "the snake, the worminess."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556297196/media/2019/04/COCOtello-pc-MichaelCooper.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1556297196/media/2019/04/COCOtello-pc-MichaelCooper.jpg)
 
 <figcaption>(l-r) Andrew Haji as Cassio, Gerald Finley as Iago, and Russell Thomas as Otello (background) in the Canadian Opera Company's production of Otello, 2019. Photo: Michael Cooper.</figcaption>
 
@@ -47,7 +61,9 @@ It seems even Finley is not immune to opera's knee-jerk tendency to categorize v
 
 Or perhaps the pigeon-holing isn't entirely unfounded. Finley muses that he is "trying to haul myself from a tradition" where singers prioritized clear and crisp text, almost as a replacement for the sound of the voice. "I was taught not on legato," he says. "I really tried in the last ten years to understand. I worked really hard to get into the idea that my voice can ride this constant wave."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556297170/media/2019/04/GeraldFinley-pc-SimCanettyClarke.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1556297170/media/2019/04/GeraldFinley-pc-SimCanettyClarke.jpg)
 
 <figcaption>Bass-baritone Gerald Finley. Photo: Sim Canetty Clarke.</figcaption>
 

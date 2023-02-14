@@ -1,15 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-01-17T10:59:00+00:00"
-lastmod = "2017-01-17T13:36:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484654471557/2017-01-16---Why.jpg.jpg"
-publishDate = "2017-01-17T12:22:00+00:00"
-related_articles = ["articles/a-response-to-our-response.md","articles/arts-education-teaches-better-manners-more-preaching-to-the-choir.md"]
-short_description = "At these very, very low points in the history of humans, the idea of &quot;inspiring&quot; people with art and music feels silly, as though we artists are children being told to go play in the corner while the grown-ups (the doctors and lawyers, et al.) sort out the problem. I suppose it&#039;s hard to write about opera with scary nonsense in one&#039;s head."
-slug = "how-donald-trump-gave-me-writers-block"
-title = "How Donald Trump gave me writer&#039;s block"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-01-17T10:59:00+00:00"
+lastmod: "2017-01-17T13:36:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484654471557/2017-01-16---Why.jpg.jpg
+publishDate: "2017-01-17T12:22:00+00:00"
+related_articles:
+- articles/a-response-to-our-response.md
+- articles/arts-education-teaches-better-manners-more-preaching-to-the-choir.md
+short_description: At these very, very low points in the history of humans, the idea
+  of &quot;inspiring&quot; people with art and music feels silly, as though we artists
+  are children being told to go play in the corner while the grown-ups (the doctors
+  and lawyers, et al.) sort out the problem. I suppose it&#039;s hard to write about
+  opera with scary nonsense in one&#039;s head.
+slug: how-donald-trump-gave-me-writers-block
+title: How Donald Trump gave me writer&#039;s block
+_template: article_single
+---
 
 I thought it was writer's block. I figured it was a combination of the insane happenings with the Presidential Election, and the distractions of the holiday season, that made it hard to get invested in operatic topics and write about them. 
 
@@ -29,6 +37,9 @@ At these very, very low points in the history of humans, the idea of "inspiring"
 
 Readers, am I wrong?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484654196887/2017-01-16---Sisyphus.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484654196887/2017-01-16---Sisyphus.jpg.jpg)
+
 <figcaption>Photo by [Quinn Dombrowski](https://www.flickr.com/photos/quinnanya/7162141030/in/photolist-bUTR1b-BSoaE-2Fe52-2Fea6-2Fe85-9yaos5-NzcYg-6CaRNc-4N137b-sjf9Yx-stvmRg-bQJ7C4-djnqHW-bajmk2-w7c1N-mahos4-6oeAA5-fbDkX4-mg6Ree-7HHSF9-5Y5kW-98PDDe-bcU5aD-cs11Jj-ksjRM6-8XBNCK-8jo6T5-7HHSM7-sk969w-dSgzwD-4puaHD-odakza-qy1Dux-9EvD9Y-f9s1CE-7NFTdZ-jJKZoi-isxNB-5bfKpb-qWyCKq-8oHSr8-6t9vst-61fBZQ-6jnYht-dKBDfB-akR2K9-7s98zq-dAHLwv-8oM58j-nhLPzm), via [Flickr](https://creativecommons.org/licenses/by-sa/2.0/legalcode).
 </figure>

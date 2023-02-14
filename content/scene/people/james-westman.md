@@ -1,19 +1,29 @@
-+++
-date = "2015-04-07T18:37:00-04:00"
-discipline = "Baritone"
-lastmod = "2016-01-13T16:39:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452721145489/2016-01-13---James-Westman---pc-Rob-Harris.jpg.jpg"
-primary_image_credit = "Rob Harris"
-publishDate = "2015-04-07T18:37:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/pacific-opera-victoria.md","scene/companies/opera-lyra-ottawa.md","scene/companies/calgary-opera.md","scene/companies/lopra-de-montral.md","scene/companies/vancouver-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/off-centre-music-salon.md"]
-slug = "james-westman"
-title = "James Westman"
-website = "http://jameswestman.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/WestmanBaritone"
-+++
+---
+date: "2015-04-07T18:37:00-04:00"
+discipline: Baritone
+lastmod: "2016-01-13T16:39:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452721145489/2016-01-13---James-Westman---pc-Rob-Harris.jpg.jpg
+primary_image_credit: Rob Harris
+publishDate: "2015-04-07T18:37:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/opera-lyra-ottawa.md
+- scene/companies/calgary-opera.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/vancouver-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/off-centre-music-salon.md
+slug: james-westman
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/WestmanBaritone
+title: James Westman
+website: http://jameswestman.com/
+_template: "people_single"
+---
 
 <p>
 	Whether performing song, concert or opera throughout the world, baritone James Westman's passion and musicianship bring an extra dimension to his performances. During the 2014 – 2015 season he has been featured as Sharpless in Madama Butterfly for the Utah Opera, Lt. Gordon in Puts' <em>Silent Night</em> for Calgary Opera, Enrico in <em>Lucia di Lammermoo</em>r for Pacific Opera Victoria, the Count in <em>Le nozze di Figaro</em> for Opera Lyra Ottawa, Baron Scarpia in Tosca for Opéra de Québec and on the concert stage was heard in <em>Messiah</em> for the New York Philharmonic and Rimsky-Korsakov's Mozart and Salieri with the Vancouver Symphony. Festival appearances included the Seattle Chamber Society series with James Ehnes, Verdi's <em>Requiem</em> for the New Hampshire Music Festival and an Oepra Gala for the Brott Festival in Hamilton, Ontario. He will be heard in the coming season in Ottawa, Toronto, Quebec, Alberta and British Columbia in major works by Brahms, Bach, Orff, Verdi and Handel.

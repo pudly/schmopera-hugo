@@ -1,22 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-Ed"
-date = "2019-03-24T21:10:38+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "The TSO's _Star Wars_ concert series continues with _Return of the Jedi_, October 2-5, 2019. For details and ticket information, [click here](https://www.tso.ca/concert/star-wars-return-jedi-concert#performance-2006)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553532787/media/2019/03/sqStarWars.jpg"
-primary_image_credit = ""
-related_articles = ["articles/star-wars.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = []
-short_description = "Maybe this is how it is for everyone that has a niche interest. Indie film lovers, college sports fans, lovers of obscure graphic novels - maybe they all bristle at the ubiquitous fandom of big-budget Hollywood movies, the NFL, DC Comics."
-slug = "if-you-like-star-wars-youre-gonna-flip-for-opera-shouting-into-the-void"
-title = "If you like Star Wars, you're gonna flip for opera: shouting into the void"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Op-Ed
+date: '2019-03-24T21:10:38+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  The TSO's _Star Wars_ concert series continues with _Return of the Jedi_,
+  October 2-5, 2019. For details and ticket information, [click
+  here](https://www.tso.ca/concert/star-wars-return-jedi-concert#performance-2006).
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1553532787/media/2019/03/sqStarWars.jpg
+primary_image_credit: ''
+related_articles:
+  - articles/star-wars.md
+related_companies:
+  - scene/companies/toronto-symphony-orchestra.md
+related_people: []
+short_description: >-
+  Maybe this is how it is for everyone that has a niche interest. Indie film
+  lovers, college sports fans, lovers of obscure graphic novels - maybe they all
+  bristle at the ubiquitous fandom of big-budget Hollywood movies, the NFL, DC
+  Comics.
+slug: if-you-like-star-wars-youre-gonna-flip-for-opera-shouting-into-the-void
+title: 'If you like Star Wars, you''re gonna flip for opera: shouting into the void'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 There I sat in Roy Thomson Hall, listening to the crowd go wild for the Toronto Symphony Orchestra. It's an excellent orchestra, so that part wasn't surprising. But it was certainly a rare experience to hear spontaneous applause and a smattering of hoots and hollers - the sounds of an audience showing its appreciation for some deft handling of music that's so famous a cultural given.
 
 That music: John Williams' original score for _The Empire Strikes Back_, which the TSO played live last week as part of its ongoing _Star Wars_ Film Concert Series. And though the music stands on its own as a great work of the 20th century, I'm sure the hoots and hollers were also inspired by the sights of Carrie Fisher, Harrison Ford, Yoda, and a few lovable droids.

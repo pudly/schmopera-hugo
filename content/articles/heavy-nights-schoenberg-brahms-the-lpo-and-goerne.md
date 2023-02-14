@@ -1,17 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-04-10T11:53:00+01:00"
-lastmod = "2016-04-11T10:03:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460305282788/2016-04-10---GOERNE_Borggreve019.jpg.jpg"
-primary_image_credit = "Photo: Marco Borggreve for harmonia mundi. Copyright 2008. "
-publishDate = "2016-04-11T09:45:00+01:00"
-related_articles = ["articles/in-review-strauss-brahms-at-the-barbican.md","articles/he-saidshe-said-mozarts-requiem-at-tso.md","articles/in-review-mahler-other-beauties-at-the-tso.md","articles/magic-theatre-jurowski-and-oaes-resurrection-symphony.md","articles/requiem-on-the-south-bank.md","articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md","articles/in-review-lpo-presents-st-luke-passion.md"]
-related_people = ["scene/people/matthias-goerne.md","scene/people/sarah-tynan.md"]
-short_description = "It was Goerne that was the highlight of the night. His is one of the most beautiful baritones singing today, and he was a complete picture of expression. His love for Brahms&#039; music was completely clear, and he sang with his whole body in a huge range of colour. You could certainly hear the Lieder singer as he delivered this heavy text; he risked some soft singing, but gave us some of the more satisfying moments of the Requiem with a triumphant, full sound."
-slug = "heavy-nights-schoenberg-brahms-the-lpo-and-goerne"
-title = "Heavy nights: Schoenberg &amp; Brahms, the LPO and Goerne"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-04-10T11:53:00+01:00"
+lastmod: "2016-04-11T10:03:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460305282788/2016-04-10---GOERNE_Borggreve019.jpg.jpg
+primary_image_credit: 'Photo: Marco Borggreve for harmonia mundi. Copyright 2008. '
+publishDate: "2016-04-11T09:45:00+01:00"
+related_articles:
+- articles/in-review-strauss-brahms-at-the-barbican.md
+- articles/he-saidshe-said-mozarts-requiem-at-tso.md
+- articles/in-review-mahler-other-beauties-at-the-tso.md
+- articles/magic-theatre-jurowski-and-oaes-resurrection-symphony.md
+- articles/requiem-on-the-south-bank.md
+- articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md
+- articles/in-review-lpo-presents-st-luke-passion.md
+related_people:
+- scene/people/matthias-goerne.md
+- scene/people/sarah-tynan.md
+short_description: It was Goerne that was the highlight of the night. His is one of
+  the most beautiful baritones singing today, and he was a complete picture of expression.
+  His love for Brahms&#039; music was completely clear, and he sang with his whole
+  body in a huge range of colour. You could certainly hear the Lieder singer as he
+  delivered this heavy text; he risked some soft singing, but gave us some of the
+  more satisfying moments of the Requiem with a triumphant, full sound.
+slug: heavy-nights-schoenberg-brahms-the-lpo-and-goerne
+title: 'Heavy nights: Schoenberg &amp; Brahms, the LPO and Goerne'
+_template: article_single
+---
 
 Saturday night, the London Philharmonic Orchestra offered up a heavy evening of Schoenberg and Brahms, one that left us sunk in our seats and deeply satisfied.
 

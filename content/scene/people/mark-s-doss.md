@@ -1,26 +1,32 @@
-+++
-date = "2017-12-04T19:54:00-05:00"
-discipline = "Bass-baritone"
-lastmod = "2017-12-04T19:54:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512434735216/thumb8_dd5f22830ddfbc7519ef0126701785f1.jpg.jpg"
-publishDate = "2017-12-04T19:54:00-05:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/welsh-national-opera.md","scene/companies/canadian-opera-company.md","scene/companies/the-santa-fe-opera.md","scene/companies/oper-frankfurt.md","scene/companies/la-monnaie.md","scene/companies/staatsoper-berlin.md"]
-slug = "mark-s-doss"
-title = "Mark S. Doss"
-website = "https://www.marksdoss.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Mark.S.Doss.Bass.Baritone/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/marksdoss"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/marksdossbassbaritone"
-+++
+---
+date: "2017-12-04T19:54:00-05:00"
+discipline: Bass-baritone
+lastmod: "2017-12-04T19:54:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512434735216/thumb8_dd5f22830ddfbc7519ef0126701785f1.jpg.jpg
+publishDate: "2017-12-04T19:54:00-05:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/la-monnaie.md
+- scene/companies/staatsoper-berlin.md
+slug: mark-s-doss
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Mark.S.Doss.Bass.Baritone/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/marksdoss
+- platform: Soundcloud
+  _template: social_media
+  url: https://soundcloud.com/marksdossbassbaritone
+title: Mark S. Doss
+website: https://www.marksdoss.com/
+_template: "people_single"
+---
 
 #### RECENT AND UPCOMING ENGAGEMENTS
 

@@ -1,14 +1,19 @@
-+++
-date = "2015-04-12T03:37:00+01:00"
-discipline = "Soprano, General Director of Opera 5"
-lastmod = "2016-05-14T14:06:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463230990521/2016-05-15---Rachel-Krehm-headshot.jpg.jpg"
-publishDate = "2015-04-12T03:37:00+01:00"
-related_companies = ["scene/companies/opera-5.md","scene/companies/opera-on-the-avalon.md","scene/companies/opera-by-request.md","scene/companies/indie-opera-to.md"]
-slug = "rachel-krehm"
-title = "Rachel Krehm"
-website = "http://www.rachelkrehm.com/"
-+++
+---
+date: "2015-04-12T03:37:00+01:00"
+discipline: Soprano, General Director of Opera 5
+lastmod: "2016-05-14T14:06:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463230990521/2016-05-15---Rachel-Krehm-headshot.jpg.jpg
+publishDate: "2015-04-12T03:37:00+01:00"
+related_companies:
+- scene/companies/opera-5.md
+- scene/companies/opera-on-the-avalon.md
+- scene/companies/opera-by-request.md
+- scene/companies/indie-opera-to.md
+slug: rachel-krehm
+title: Rachel Krehm
+website: http://www.rachelkrehm.com/
+_template: "people_single"
+---
 
 <p>
 	Winner of the 2013 Capital City Critics Choice Award at the Ottawa Fringe for her solo performance in Poulenc's <i>La Voix Humaine</i> (Opera 5)<i>, </i>Canadian soprano Rachel Krehm is establishing herself as a sophisticated performer in both the opera and theatre communities. A multi-faceted artist, Rachel is the co-founder and General Director of Opera 5, and the creator, co-writer and one of the performers of the children's educational show <i>Tenors, Trumpets and La Traviata</i> which debuted as part of the Kitchener Waterloo Symphony's Family Series in March of 2014. Upcoming events include an all English art song recital at the Arts and Letters Club of Toronto in April 2014 and an appearance in a <i>2<sup data-redactor-tag="sup">nd</sup> Viennese School Night </i>performing Schönberg, Webern and Berg with artists Yosuke Kawaski, Concertmaster of the National Arts Centre Orchestra, and Wolfram Koessel, cellist of the American Quartet.

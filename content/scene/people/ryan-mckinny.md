@@ -1,31 +1,40 @@
-+++
-date = "2017-11-09T19:59:00-05:00"
-discipline = "Bass-baritone"
-lastmod = "2017-11-09T19:59:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510274603513/mckinny-new4.jpg.jpg"
-primary_image_credit = "Simon Pauly"
-publishDate = "2017-11-09T19:59:00-05:00"
-related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/washington-national-opera.md","scene/companies/houston-grand-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/english-national-opera.md","scene/companies/los-angeles-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/deutsche-oper-berlin.md","scene/companies/the-santa-fe-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/canadian-opera-company.md"]
-slug = "ryan-mckinny"
-title = "Ryan McKinny"
-website = "http://www.ryanmckinny.com/en/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Ryan-McKinny-279216232111937/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/RyanMcKinny"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/ryanmckinny/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCp7MApLdyaDIJ_AAUkz58yw"
-+++
+---
+date: "2017-11-09T19:59:00-05:00"
+discipline: Bass-baritone
+lastmod: "2017-11-09T19:59:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510274603513/mckinny-new4.jpg.jpg
+primary_image_credit: Simon Pauly
+publishDate: "2017-11-09T19:59:00-05:00"
+related_companies:
+- scene/companies/san-francisco-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/canadian-opera-company.md
+slug: ryan-mckinny
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Ryan-McKinny-279216232111937/?fref=ts
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/RyanMcKinny
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/ryanmckinny/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCp7MApLdyaDIJ_AAUkz58yw
+title: Ryan McKinny
+website: http://www.ryanmckinny.com/en/
+_template: "people_single"
+---
 
 American bass-baritone Ryan McKinny has been praised for his “elegant and articulate” vocalism (OC Register), as well as a powerful voice that “drips with gold.” (Opera News)
 

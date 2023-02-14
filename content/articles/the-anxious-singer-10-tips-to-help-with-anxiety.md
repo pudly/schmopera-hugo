@@ -1,17 +1,30 @@
-+++
-author = ["authors/camille-holland.md"]
-categories = "Op-ed"
-date = "2016-08-04T10:40:00+01:00"
-lastmod = "2016-08-11T10:22:00+01:00"
-preamble = "This is a guest post by contributor [Camille Holland](/scene/people/camille-holland/). Read the original post on her blog, [The Short-haired Soprano](http://www.camilleholland.ca/blog/the-anxious-singer-10-tips-to-help-with-anxiety-in-audition-and-performance)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470488392025/2016-08-06---Anxiety.jpg.jpg"
-publishDate = "2016-08-11T10:22:00+01:00"
-related_articles = ["articles/the-introverts-opera.md","articles/the-opera-party-monologue.md","articles/spotlight-on-stephanie-tritchew.md","articles/networking-for-introverted-performers.md","articles/i-didnt-get-in-a-short-story-about-clarity.md","articles/anxiety-art-and-purpose.md"]
-related_people = ["scene/people/camille-holland.md"]
-short_description = "This is why I have written down my Top 10 Tips for dealing with an anxiety disorder as a singer: to give a little bit of help to those who, like me, deal with anxiety on a daily basis, and also their colleagues/family/support system who wish to understand them a little better."
-slug = "the-anxious-singer-10-tips-to-help-with-anxiety"
-title = "The anxious singer: 10 tips to help with anxiety"
-+++
+---
+author:
+- authors/camille-holland.md
+categories: Op-ed
+date: "2016-08-04T10:40:00+01:00"
+lastmod: "2016-08-11T10:22:00+01:00"
+preamble: This is a guest post by contributor [Camille Holland](/scene/people/camille-holland/).
+  Read the original post on her blog, [The Short-haired Soprano](http://www.camilleholland.ca/blog/the-anxious-singer-10-tips-to-help-with-anxiety-in-audition-and-performance).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470488392025/2016-08-06---Anxiety.jpg.jpg
+publishDate: "2016-08-11T10:22:00+01:00"
+related_articles:
+- articles/the-introverts-opera.md
+- articles/the-opera-party-monologue.md
+- articles/spotlight-on-stephanie-tritchew.md
+- articles/networking-for-introverted-performers.md
+- articles/i-didnt-get-in-a-short-story-about-clarity.md
+- articles/anxiety-art-and-purpose.md
+related_people:
+- scene/people/camille-holland.md
+short_description: 'This is why I have written down my Top 10 Tips for dealing with
+  an anxiety disorder as a singer: to give a little bit of help to those who, like
+  me, deal with anxiety on a daily basis, and also their colleagues/family/support
+  system who wish to understand them a little better.'
+slug: the-anxious-singer-10-tips-to-help-with-anxiety
+title: 'The anxious singer: 10 tips to help with anxiety'
+_template: article_single
+---
 
 Hello! My name is Camille and I have Generalized Anxiety Disorder.
 
@@ -90,7 +103,10 @@ Just don't do it. Seriously. I don't think I need to explain why.
 
 One symptom of Generalized Anxiety Disorder is "difficulty concentrating, or the feeling that your mind 'goes blank'" ([link](http://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/basics/symptoms/con-20024562)). This method may not work for everyone, but I've found it invaluable for keeping me on track. Making packing lists, travel info lists, contact lists, etc... will ensure that you're as prepared as possible, and thus help to minimize anxiety flare-ups.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470303676557/img-20160728-183554.jpg%3F279)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470303676557/img-20160728-183554.jpg%3F279)
+
 <figcaption>The list board in my home office.</figcaption>
 </figure>
 

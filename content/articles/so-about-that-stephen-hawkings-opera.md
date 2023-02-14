@@ -1,18 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-03-16T11:13:00+00:00"
-lastmod = "2016-03-16T15:05:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458128999851/2016-03-16---Hubble-Site-Spiral-Galaxy.jpg.jpg"
-primary_image_credit = "Spiral Galaxy NGC 6503. Photo: Hubblesite.org."
-publishDate = "2016-03-16T11:56:00+00:00"
-related_articles = ["articles/star-trek-and-the-opera.md","articles/erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/robert-lepage.md"]
-short_description = "In 2010, it was announced that the Metropolitan Opera would commission an operatic adaptation of Stephen Hawking&#039;s A Brief History of Time. Sounds cool, right? Osvaldo Golijov was set to write music for black holes and Big Bangs, and Argentine-Canadian author Alberto Manguel would write the libretto. The premiere production would be directed by Robert Lepage."
-slug = "so-about-that-stephen-hawkings-opera"
-title = "So, about that Stephen Hawking opera..."
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-03-16T11:13:00+00:00"
+lastmod: "2016-03-16T15:05:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458128999851/2016-03-16---Hubble-Site-Spiral-Galaxy.jpg.jpg
+primary_image_credit: 'Spiral Galaxy NGC 6503. Photo: Hubblesite.org.'
+publishDate: "2016-03-16T11:56:00+00:00"
+related_articles:
+- articles/star-trek-and-the-opera.md
+- articles/erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/robert-lepage.md
+short_description: In 2010, it was announced that the Metropolitan Opera would commission
+  an operatic adaptation of Stephen Hawking&#039;s A Brief History of Time. Sounds
+  cool, right? Osvaldo Golijov was set to write music for black holes and Big Bangs,
+  and Argentine-Canadian author Alberto Manguel would write the libretto. The premiere
+  production would be directed by Robert Lepage.
+slug: so-about-that-stephen-hawkings-opera
+title: So, about that Stephen Hawking opera...
+_template: article_single
+---
 
 In 2010, [it was announced](http://www.gramilano.com/2010/12/a-brief-history-of-time-the-opera/) that the Metropolitan Opera would commission an operatic adaptation of Stephen Hawking's *A Brief History of Time*. Sounds cool, right? Osvaldo Golijov was set to write music for black holes and Big Bangs, and Argentinian-Canadian author Alberto Manguel would write the libretto. The premiere production would be directed by Robert Lepage.
 

@@ -1,19 +1,26 @@
-+++
-date = "2017-09-17T15:26:00-04:00"
-discipline = "Bass"
-lastmod = "2017-09-17T15:26:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505676035586/Soloman-Howard-2-photo-credit-Jon-Adjahoe.jpg.jpg"
-primary_image_credit = "Jon Adjahoe"
-publishDate = "2017-09-17T15:26:00-04:00"
-related_companies = ["scene/companies/washington-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/los-angeles-opera.md","scene/companies/glimmerglass-festival.md"]
-slug = "soloman-howard"
-title = "Soloman Howard"
-website = "http://solomanhoward.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/HowSoMusic"
-+++
+---
+date: "2017-09-17T15:26:00-04:00"
+discipline: Bass
+lastmod: "2017-09-17T15:26:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505676035586/Soloman-Howard-2-photo-credit-Jon-Adjahoe.jpg.jpg
+primary_image_credit: Jon Adjahoe
+publishDate: "2017-09-17T15:26:00-04:00"
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/glimmerglass-festival.md
+slug: soloman-howard
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/HowSoMusic
+title: Soloman Howard
+website: http://solomanhoward.com/
+_template: "people_single"
+---
 
 A recent graduate of Washington National Opera’s Domingo-Cafritz Young Artist Program, a program of the John F. Kennedy Center for the Performing Arts, Soloman Howard garners high praise from the press for his vivid performances on the great opera and concert stages of the world.  The bass’ voice is described as “sonorous” by *The New York Times*, “superhuman” by *The Denver Post*, and “a triumph” by *The Guardian*.
 

@@ -1,18 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-26T13:40:00-04:00"
-lastmod = "2017-07-27T08:38:00-04:00"
-preamble = "Spanish-American tenor [Eric Barry](/scene/people/eric-barry/) has an enviable collection of staple roles, including Alfredo in *La traviata*, Rodolfo in *La bohème*, and the Duke of Mantua in *Rigoletto*. He just finished a run of *Lucia di Lammermoor* at Opera Colorado, where *Opera News* raved about his \"large, beefy tenor\" in the role of Edgardo. Currently, Barry is in Boston, singing Nemorino in [Boston Midsummer Opera](http://www.bostonmidsummeropera.org/wordpress/)'s *L'elisir d'amore*; this September, he sings Macduff with [Opera San Antonio](https://operasa.org/events/verdis-macbeth), sharing the stage with Greer Grimsley in the title role.\n\nIt was cathartic to chat with Barry about the opera industry, in all its unjust reality, and about his dedication to making \"a joyful noise\".\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501091595000/2017-07-26---Eric-Barry-square.jpg.jpg"
-primary_image_credit = "Photo: Matthew Fried"
-publishDate = "2017-07-26T22:21:00-04:00"
-related_articles = ["articles/talking-with-singers-matthew-polenzani.md","articles/talking-with-singers-brian-jagde.md"]
-related_people = ["scene/people/eric-barry.md"]
-short_description = "&quot;Thinking of the collective hours everyone in the room has spent honing their craft is mind-blowing, and in this brief instant it all comes together to create a magical moment in time that can never be recreated. Whoa.&quot;"
-slug = "spotlight-on-eric-barry"
-title = "Spotlight on: Eric Barry"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-26T13:40:00-04:00"
+lastmod: "2017-07-27T08:38:00-04:00"
+preamble: |
+  Spanish-American tenor [Eric Barry](/scene/people/eric-barry/) has an enviable collection of staple roles, including Alfredo in *La traviata*, Rodolfo in *La bohème*, and the Duke of Mantua in *Rigoletto*. He just finished a run of *Lucia di Lammermoor* at Opera Colorado, where *Opera News* raved about his "large, beefy tenor" in the role of Edgardo. Currently, Barry is in Boston, singing Nemorino in [Boston Midsummer Opera](http://www.bostonmidsummeropera.org/wordpress/)'s *L'elisir d'amore*; this September, he sings Macduff with [Opera San Antonio](https://operasa.org/events/verdis-macbeth), sharing the stage with Greer Grimsley in the title role.
+
+  It was cathartic to chat with Barry about the opera industry, in all its unjust reality, and about his dedication to making "a joyful noise".
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501091595000/2017-07-26---Eric-Barry-square.jpg.jpg
+primary_image_credit: 'Photo: Matthew Fried'
+publishDate: "2017-07-26T22:21:00-04:00"
+related_articles:
+- articles/talking-with-singers-matthew-polenzani.md
+- articles/talking-with-singers-brian-jagde.md
+related_people:
+- scene/people/eric-barry.md
+short_description: '&quot;Thinking of the collective hours everyone in the room has
+  spent honing their craft is mind-blowing, and in this brief instant it all comes
+  together to create a magical moment in time that can never be recreated. Whoa.&quot;'
+slug: spotlight-on-eric-barry
+title: 'Spotlight on: Eric Barry'
+_template: article_single
+---
 
 ## Why do you sing, and why are you doing it professionally?
 
@@ -26,7 +36,10 @@ Beautiful singing is being able to emote and communicate a palette of emotions s
 
 There are many, many times when a singer might sound beautiful, but if I'm not also convinced that the emotion is real, then the entire experience is lost on me. Many singers, especially younger ones, imitate sounds and colors they hear someone else using on a recording; but if they don't feel that emotion and are moved to create those colors and effects themselves, I'm not buying it for a second. When an artist makes all the beautiful sounds and I can tell the colors are evoked from a real emotion or experience, THAT is good singing!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501112491701/Eric_Barry_as_Rodolfo_in_La_boh%25C3%25A8me._Amarillo_Opera-639x960.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501112491701/Eric_Barry_as_Rodolfo_in_La_boh%25C3%25A8me._Amarillo_Opera-639x960.jpg.jpg)
+
 <figcaption>Eric Barry as Rodolfo in *La bohème*, Amarillo Opera. Photo courtesy of James Black Management.</figcaption>
 </figure>
 

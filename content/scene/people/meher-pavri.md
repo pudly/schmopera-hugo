@@ -1,19 +1,22 @@
-+++
-date = "2018-05-08T11:38:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-05-08T11:38:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525793674699/Meher-Pavri-Soprano.jpg.jpg"
-primary_image_credit = "Soprano"
-publishDate = "2018-05-08T11:38:00-04:00"
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/against-the-grain-theatre.md"]
-slug = "meher-pavri"
-title = "Meher Pavri"
-website = "http://meherpavri.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/meherpavri"
-+++
+---
+date: "2018-05-08T11:38:00-04:00"
+discipline: Soprano
+lastmod: "2018-05-08T11:38:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525793674699/Meher-Pavri-Soprano.jpg.jpg
+primary_image_credit: Soprano
+publishDate: "2018-05-08T11:38:00-04:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/against-the-grain-theatre.md
+slug: meher-pavri
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/meherpavri
+title: Meher Pavri
+website: http://meherpavri.com/
+_template: "people_single"
+---
 
 Multidisciplinary artist, Meher Pavri enjoys performing in opera, musical theatre, theatre, film/television, and is most passionate about new works. Highlights include playing Maria in Leonard Bernstein's *West Side Story*, the Canadian premier of the award-winning Bollywood play *Arranged Marriage* by Chitra Banerjee Divakurani, a reoccurring soloist in Soulpepper Theatre's Cabaret series, and Tapesty Opera's workshop production of *Selfie*, the opera by Julie Tepperman and Chris Thornborrow.
 

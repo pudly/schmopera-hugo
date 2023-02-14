@@ -1,15 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-04-11T19:33:00-04:00"
-lastmod = "2015-04-11T19:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428795159692/IanBostridge_Fotor.jpg.jpg"
-publishDate = "2015-02-12T09:33:00-05:00"
-related_articles = ["articles/roxanna-walitzki-exquisite-corpse.md"]
-short_description = "​I spotted a strange review in the Washington Post by Anne Midgette, on Ian Bostridge&#039;s performance of Winterreise at the Library of Congress. I was misled by a clickbait-esque headline (not Anne&#039;s): &quot;&#039;Ian Bostridge Is Not A Classical Singer&#039; Says Anne Midgette&quot;."
-slug = "the-art-of-defining-a-singer-and-squashing-anomalies"
-title = "The Art of Defining a Singer and Squashing Anomalies"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-04-11T19:33:00-04:00"
+lastmod: "2015-04-11T19:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428795159692/IanBostridge_Fotor.jpg.jpg
+publishDate: "2015-02-12T09:33:00-05:00"
+related_articles:
+- articles/roxanna-walitzki-exquisite-corpse.md
+short_description: '​I spotted a strange review in the Washington Post by Anne Midgette,
+  on Ian Bostridge&#039;s performance of Winterreise at the Library of Congress. I
+  was misled by a clickbait-esque headline (not Anne&#039;s): &quot;&#039;Ian Bostridge
+  Is Not A Classical Singer&#039; Says Anne Midgette&quot;.'
+slug: the-art-of-defining-a-singer-and-squashing-anomalies
+title: The Art of Defining a Singer and Squashing Anomalies
+_template: article_single
+---
 
 <p>
 	I spotted a <a href="http://www.washingtonpost.com/entertainment/music/tenor-ian-bostridge-performs-a-compelling-rendition-of-winterreise/2015/02/08/643ae528-afae-11e4-886b-c22184f27c35_story.html" target="_blank">strange review in the Washington Post</a> by Anne Midgette, on Ian Bostridge's performance of <em>Winterreise</em> at the Library of Congress. I was misled by a clickbait-esque headline (not Anne's): <a href="http://www.artsjournal.com/2015/02/ian-bostridge-is-not-a-classical-singer-says-anne-midgette.html" target="_blank">"'Ian Bostridge Is Not A Classical Singer' Says Anne Midgette"</a>.

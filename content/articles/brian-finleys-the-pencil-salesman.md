@@ -1,18 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-01-12T15:56:00+00:00"
-lastmod = "2016-05-22T23:10:00+01:00"
-preamble = "This summer, Westben Arts Festival Theatre is presenting the premiere of Brian Finley's new opera, *The Pencil Salesman*. Finley is a pianist and composer, and he's also the Artistic and Managing Director of the Westben Theatre. *The Pencil Salesman*, based on an idea by Agnes M. Herzberg, will be directed by [Michael Mori](/scene/people/michael-mori/), Artistic Director of [Tapestry Opera](/scene/companies/tapestry-opera/), and the cast of singers includes John Fanning, Virginia Hatfield, Alexander Dobson, and Donna Bennett. \n\nWe spoke with Finley about *The Pencil Salesman*, the story of a man who struggles \"to find meaningful human connection amidst a world distracted by and obsessed with technological advancement.\""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452620143015/2016-01-12---PencilSalesman.jpg.jpg"
-publishDate = "2016-01-13T14:00:00+00:00"
-related_articles = ["articles/john-fanning-on-the-pencil-salesman.md"]
-related_companies = ["scene/companies/westben-arts-festival-theatre.md"]
-related_people = ["scene/people/john-fanning.md","scene/people/virginia-hatfield.md","scene/people/michael-mori.md","scene/people/alexander-dobson.md"]
-short_description = "This summer, Westben Arts Festival Theatre is presenting the premiere of Brian Finley&#039;s new opera, The Pencil Salesman. Finley is a pianist and composer, and he&#039;s also the Artistic and Managing Director of the Westben Theatre. The Pencil Salesman will be directed by Michael Mori, Artistic Director of Tapestry Opera, and the cast of singers includes John Fanning, Virginia Hatfield, Alexander Dobson, and Donna Bennett."
-slug = "brian-finleys-the-pencil-salesman"
-title = "Brian Finley&#039;s The Pencil Salesman"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-01-12T15:56:00+00:00"
+lastmod: "2016-05-22T23:10:00+01:00"
+preamble: "This summer, Westben Arts Festival Theatre is presenting the premiere of
+  Brian Finley's new opera, *The Pencil Salesman*. Finley is a pianist and composer,
+  and he's also the Artistic and Managing Director of the Westben Theatre. *The Pencil
+  Salesman*, based on an idea by Agnes M. Herzberg, will be directed by [Michael Mori](/scene/people/michael-mori/),
+  Artistic Director of [Tapestry Opera](/scene/companies/tapestry-opera/), and the
+  cast of singers includes John Fanning, Virginia Hatfield, Alexander Dobson, and
+  Donna Bennett. \n\nWe spoke with Finley about *The Pencil Salesman*, the story of
+  a man who struggles \"to find meaningful human connection amidst a world distracted
+  by and obsessed with technological advancement.\""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452620143015/2016-01-12---PencilSalesman.jpg.jpg
+publishDate: "2016-01-13T14:00:00+00:00"
+related_articles:
+- articles/john-fanning-on-the-pencil-salesman.md
+related_companies:
+- scene/companies/westben-arts-festival-theatre.md
+related_people:
+- scene/people/john-fanning.md
+- scene/people/virginia-hatfield.md
+- scene/people/michael-mori.md
+- scene/people/alexander-dobson.md
+short_description: This summer, Westben Arts Festival Theatre is presenting the premiere
+  of Brian Finley&#039;s new opera, The Pencil Salesman. Finley is a pianist and composer,
+  and he&#039;s also the Artistic and Managing Director of the Westben Theatre. The
+  Pencil Salesman will be directed by Michael Mori, Artistic Director of Tapestry
+  Opera, and the cast of singers includes John Fanning, Virginia Hatfield, Alexander
+  Dobson, and Donna Bennett.
+slug: brian-finleys-the-pencil-salesman
+title: Brian Finley&#039;s The Pencil Salesman
+_template: article_single
+---
 
 ## What does *The Pencil Salesman* have to say about change, and how people react to it?
 
@@ -28,7 +49,9 @@ It is ultimately the Pencil Salesman – the seller of simplicity – who suppli
 
 Each character in *The Pencil Salesman* personifies a unique aspect of change.  Boris resists it adamantly. Edward craves it. Boris’s wife Rose is tired of it while his brother Aaron tries desperately to ride its ebbs and flows, relying on his wife Flo to keep him in the know. Edward’s wife Daisy tries to help everyone else understand it, while her daughter Violet tries to make sense out of it all.  Around this, the Pencil Salesman just keeps it simple! 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452617233689/2016-01-12---Brian-Finley.jpg.jpg)<figcaption>Brian Finley, composer and Westben Theatre Artistic & Managing Director.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452617233689/2016-01-12---Brian-Finley.jpg.jpg)<figcaption>Brian Finley, composer and Westben Theatre Artistic & Managing Director.</figcaption>
 </figure>
 
 ## What drew you to this story, and why did you think it would make a good opera?

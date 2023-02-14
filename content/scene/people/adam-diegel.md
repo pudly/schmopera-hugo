@@ -1,17 +1,31 @@
-+++
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633284412/media/2021/10/AdamDiegel_zlrfxa.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/boston-lyric-opera-1.md", "scene/companies/glimmerglass-festival.md", "scene/companies/fort-worth-opera.md", "scene/companies/palm-beach-opera.md", "scene/companies/opera-omaha.md", "scene/companies/minnesota-opera.md", "scene/companies/arizona-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/florida-grand-opera.md", "scene/companies/seattle-opera.md", "scene/companies/opera-philadelphia.md", "scene/companies/vancouver-opera.md", "scene/companies/the-atlanta-opera.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "adam-diegel"
-title = "Adam Diegel"
-website = "http://adamdiegel.com/index.htm"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/aadiegel/"
-
-+++
+---
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1633284412/media/2021/10/AdamDiegel_zlrfxa.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/boston-lyric-opera-1.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/fort-worth-opera.md
+- scene/companies/palm-beach-opera.md
+- scene/companies/opera-omaha.md
+- scene/companies/minnesota-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/vancouver-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/the-metropolitan-opera.md
+slug: adam-diegel
+social_media:
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/aadiegel/
+title: Adam Diegel
+website: http://adamdiegel.com/index.htm
+_template: "people_single"
+---
 Korean American tenor Adam Diegel regularly earns international acclaim for his impassioned dramatic sensibilities, powerful voice, and for his classic leading man looks. From a performance as Cavaradossi in _Tosca_ at Glimmerglass Opera, _Opera News_ raved: “The opera became a showdown between Adam Diegel’s impulsive, shaggily handsome Cavaradossi and Lester Lynch’s fearsome, animalistic Scarpia… (Diegel’s) spacious, Italianate tenor…delivered a stirring ‘Recondita armonia’ and built ‘E lucevan le stelle’ masterfully from hushed intimacy to an unfettered cri de coeur.”
 
 This season Mr. Diegel will make his Boston Lyric Opera debut as Turiddu in _Cavalleria Rusticana_ and will debut with Opera Columbus singing Cavaradossi in _Tosca_, as well as a gala concert with Knoxville Opera.

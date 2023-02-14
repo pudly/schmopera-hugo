@@ -1,27 +1,38 @@
-+++
-date = "2017-07-20T16:38:00-04:00"
-discipline = "Librettist"
-lastmod = "2017-07-20T16:38:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500582963722/royce-headshot.jpeg.jpeg"
-publishDate = "2017-07-20T16:38:00-04:00"
-related_companies = ["scene/companies/opera-omaha.md", "scene/companies/washington-national-opera.md", "scene/companies/lopra-de-montral.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/beth-morrison-projects.md", "scene/companies/the-banff-centre.md", "scene/companies/los-angeles-opera.md", "scene/companies/tapestry-opera.md", "scene/companies/opera-philadelphia.md", "scene/companies/cincinnati-opera.md", "scene/companies/washington-national-opera.md"]
-slug = "royce-vavrek"
-title = "Royce Vavrek"
-website = "http://www.roycevavrek.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/rvavrek/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/rvavrek"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/roycevavrekstreet/"
-
-+++
+---
+date: "2017-07-20T16:38:00-04:00"
+discipline: Librettist
+lastmod: "2017-07-20T16:38:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500582963722/royce-headshot.jpeg.jpeg
+publishDate: "2017-07-20T16:38:00-04:00"
+related_companies:
+- scene/companies/opera-omaha.md
+- scene/companies/washington-national-opera.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/beth-morrison-projects.md
+- scene/companies/the-banff-centre.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/tapestry-opera.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/cincinnati-opera.md
+- scene/companies/washington-national-opera.md
+slug: royce-vavrek
+social_media:
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/rvavrek/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/rvavrek
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/roycevavrekstreet/
+title: Royce Vavrek
+website: http://www.roycevavrek.com/
+_template: "people_single"
+---
 **Royce Vavrek** is a Canada-born, Brooklyn-based librettist and lyricist who has been called “the indie Hofmannsthal” (_The New Yorker_) a “Metastasio of the downtown opera scene” (_The Washington Post_), “an exemplary creator of operatic prose” (_The New York Times_), and “one of the most celebrated and sought after librettists in the world” (_CBC Radio_). His opera “Angel’s Bone” with composer Du Yun was awarded the 2017 Pulitzer Prize for Music.
 
 With composer Missy Mazzoli he wrote “Song from the Uproar,” premiered by Beth Morrison Projects in 2012, and subsequently seen in multiple presentations around the country. Their second opera, an adaptation of Lars von Trier’s “Breaking the Waves,” premiered at Opera Philadelphia, co-commissioned by Beth Morrison Projects, and directed by James Darrah to critical acclaim in September of 2016. The work won the 2017 Music Critics Association of North America award for Best New Opera and was nominated for Best World Premiere at the 2017 International Opera Awards. A new production premiered at the Edinburgh International Festival in the summer of 2019, produced by Scottish Opera and Opera Ventures, helmed by Tony Award-winning director Tom Morris and earned star Sydney Mancasola a coveted Herald Angel Award for her performance. Their next opera, an adaptation of Karen Russell’s short story “Proving Up,” was commissioned and presented by Washington National Opera, Opera Omaha and The Miller Theatre in 2018, was a finalist for the MCANA Best New Opera Award of that year. They are currently developing a grand opera for Opera Philadelphia and the Norwegian National Opera based on an original story by two-time Governor General’s Award-winning playwright Jordan Tannahill, as well as an adaptation of George Saunders’ Booker Prize-winning novel “Lincoln in the Bardo” for The Metropolitan Opera.

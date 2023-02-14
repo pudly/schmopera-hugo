@@ -1,18 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-04-10T22:05:00-04:00"
-lastmod = "2015-04-10T22:05:00-04:00"
-preamble = "<p>\n\tWith the official end of winter less than a week away, it's time to mark your calendars with some spring opera-going. Here are a few of the events I'm catching over the next couple of months.\n</p>"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428717476073/Spring.jpg.jpg"
-publishDate = "2015-03-18T10:05:00-04:00"
-related_articles = ["articles/in-review-mdea-undone.md","articles/harawi-whats-that.md"]
-related_companies = ["scene/companies/opera-atelier.md","scene/companies/canadian-opera-company.md","scene/companies/myopera.md"]
-related_people = ["scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md","scene/people/lauren-segal.md","scene/people/joshua-hopkins.md","scene/people/meghan-lindsay.md","scene/people/alek-shrader.md","scene/people/james-mclean.md"]
-short_description = "​With the official end of winter less than a week away, it&#039;s time to mark your calendars with some spring opera-going. Here are a few of the events I&#039;m catching over the next couple of months."
-slug = "opera-in-spring"
-title = "Opera in Spring"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-04-10T22:05:00-04:00"
+lastmod: "2015-04-10T22:05:00-04:00"
+preamble: "<p>\n\tWith the official end of winter less than a week away, it's time
+  to mark your calendars with some spring opera-going. Here are a few of the events
+  I'm catching over the next couple of months.\n</p>"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428717476073/Spring.jpg.jpg
+publishDate: "2015-03-18T10:05:00-04:00"
+related_articles:
+- articles/in-review-mdea-undone.md
+- articles/harawi-whats-that.md
+related_companies:
+- scene/companies/opera-atelier.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/myopera.md
+related_people:
+- scene/people/joel-ivany.md
+- scene/people/christopher-mokrzewski.md
+- scene/people/lauren-segal.md
+- scene/people/joshua-hopkins.md
+- scene/people/meghan-lindsay.md
+- scene/people/alek-shrader.md
+- scene/people/james-mclean.md
+short_description: ​With the official end of winter less than a week away, it&#039;s
+  time to mark your calendars with some spring opera-going. Here are a few of the
+  events I&#039;m catching over the next couple of months.
+slug: opera-in-spring
+title: Opera in Spring
+_template: article_single
+---
 
 <p>
 	<strong>Sunday, March 29</strong>: <a href="http://www.operainconcert.com/Louise.html" target="_blank">VOICEBOX: Opera in Concert</a> presents Charpentier's <em>Louise</em>, starring <a href="http://www.leslieannbradley.com/" target="_blank">Leslie Ann Bradley</a> in the title roles. <a href="http://www.michele-bogdanowicz.com/" target="_blank">Michèle Bogdanowicz</a>, <a href="http://www.keithklassen.com/" target="_blank">Keith Klassen</a>, and <a href="http://www.domoneyartists.com/Baritone/Mazerolle_Bio/mazerolle_bio.html" target="_blank">Dion Mazerolle</a> complete the cast, and <a href="https://twitter.com/petertiefenbach" target="_blank">Peter Tiefenbach</a> leads as Music Director and pianist.<em>Louise</em> isn't done that often, but I know the music is gorgeous, and Leslie Ann is certainly a singer to watch. It's a single performance only, on March 29th at 2:30pm, at the St. Lawrence Centre for the Arts. Get details and ticket information <a href="http://www.operainconcert.com/Louise.html" target="_blank">right here</a>.<br>

@@ -1,16 +1,25 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2014-06-27T14:57:00-04:00"
-lastmod = "2015-04-23T15:13:00-04:00"
-preamble = "This is a review by guest contributor and baritone [Gregory Finney](https://twitter.com/gregory_finney). I was sad to miss what looks like a fantastic show. Bravo to the cast and crew, and a big thanks to Greg for the wise words. Feature photo credit: [Greg's Instagram](http://instagram.com/giggyhertz)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429816293555/WhentheSunComesOut.jpg.jpg"
-publishDate = "2014-06-27T14:57:00-04:00"
-related_people = ["scene/people/teiya-kasahara.md","scene/people/keith-lam.md","scene/people/stephanie-yelovich.md"]
-short_description = "Thursday, June 25th, I made my way to the healthily air-conditioned Ernest Balmer Studio, home of Tapestry New Opera to see the Toronto Concert Premiere of Leslie Uyeda&#039;s opera When the Sun Comes Out. #WorldPride2014.\nOriginally produced in Vancouver on August 5, 2013 and commissioned by the Queer Arts Festival, _When the Sun Comes Out_ tells the heart-wrenching story of what happens to those unfortunate enough to live where they can&#039;t love freely."
-slug = "in-review-when-the-sun-comes-out"
-title = "In review: When the Sun Comes Out"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2014-06-27T14:57:00-04:00"
+lastmod: "2015-04-23T15:13:00-04:00"
+preamble: 'This is a review by guest contributor and baritone [Gregory Finney](https://twitter.com/gregory_finney).
+  I was sad to miss what looks like a fantastic show. Bravo to the cast and crew,
+  and a big thanks to Greg for the wise words. Feature photo credit: [Greg''s Instagram](http://instagram.com/giggyhertz).'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429816293555/WhentheSunComesOut.jpg.jpg
+publishDate: "2014-06-27T14:57:00-04:00"
+related_people:
+- scene/people/teiya-kasahara.md
+- scene/people/keith-lam.md
+- scene/people/stephanie-yelovich.md
+short_description: |-
+  Thursday, June 25th, I made my way to the healthily air-conditioned Ernest Balmer Studio, home of Tapestry New Opera to see the Toronto Concert Premiere of Leslie Uyeda&#039;s opera When the Sun Comes Out. #WorldPride2014.
+  Originally produced in Vancouver on August 5, 2013 and commissioned by the Queer Arts Festival, _When the Sun Comes Out_ tells the heart-wrenching story of what happens to those unfortunate enough to live where they can&#039;t love freely.
+slug: in-review-when-the-sun-comes-out
+title: 'In review: When the Sun Comes Out'
+_template: article_single
+---
 
 Thursday, June 25th, I made my way to the healthily air-conditioned Ernest Balmer Studio, home of Tapestry New Opera to see the Toronto Concert Premiere of [Leslie Uyeda](http://leslieuyeda.com/)'s opera _When the Sun Comes Out._ #WorldPride2014.
 Originally produced in Vancouver on August 5, 2013 and commissioned by the Queer Arts Festival, _When the Sun Comes Out_ tells the heart-wrenching story of what happens to those unfortunate enough to live where they can't love freely. It tells a poignant story of Solana, a young lesbian from Montréal who has shunned society's edicts on what a woman is, should be, and how she should behave. We find her as she's seeking out her one lost love, Lilah. The opera lends credibility to the fictional country where the action takes place by making Solana from an actual city here in Canada - that happens to be one of my favourites, even if I'm yet to have a cronut. The piece is actually in a dystopian country called Fundamentalia - which is exactly what it sounds like. Deviation from patriarchal/antiquated gender roles is one of many things apparently punishable by death.

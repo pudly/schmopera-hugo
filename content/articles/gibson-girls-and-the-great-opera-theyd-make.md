@@ -1,15 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-04-10T21:06:00-04:00"
-lastmod = "2015-04-12T18:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714180897/EvelynNesbit.jpg.jpg"
-publishDate = "2015-03-30T09:05:00-04:00"
-related_articles = ["articles/why-we-all-love-florence-foster-jenkins.md","articles/5-people-who-would-make-great-opera-roles.md","articles/schoenbergbach-other-unlikely-pairs-atg-theatre-heads-to-tiff.md","articles/sawney-bean-his-cannibal-clan-would-make-a-great-opera.md","articles/dont-miss-bandits-in-the-valley.md"]
-short_description = " I think the story, the mythology, even, of the Gibson Girl would make a great opera in itself. The story could speak about women, men, the media, the human urge to follow trends; there&#039;s even a story in the lives of Mr. and Mrs. Gibson, whose understanding of social issues seemed ahead of their time."
-slug = "gibson-girls-and-the-great-opera-theyd-make"
-title = "Gibson Girls, and the Great Opera They&#039;d Make"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-04-10T21:06:00-04:00"
+lastmod: "2015-04-12T18:48:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714180897/EvelynNesbit.jpg.jpg
+publishDate: "2015-03-30T09:05:00-04:00"
+related_articles:
+- articles/why-we-all-love-florence-foster-jenkins.md
+- articles/5-people-who-would-make-great-opera-roles.md
+- articles/schoenbergbach-other-unlikely-pairs-atg-theatre-heads-to-tiff.md
+- articles/sawney-bean-his-cannibal-clan-would-make-a-great-opera.md
+- articles/dont-miss-bandits-in-the-valley.md
+short_description: ' I think the story, the mythology, even, of the Gibson Girl would
+  make a great opera in itself. The story could speak about women, men, the media,
+  the human urge to follow trends; there&#039;s even a story in the lives of Mr. and
+  Mrs. Gibson, whose understanding of social issues seemed ahead of their time.'
+slug: gibson-girls-and-the-great-opera-theyd-make
+title: Gibson Girls, and the Great Opera They&#039;d Make
+_template: article_single
+---
 
 I came across this BBC [article](http://www.bbc.com/culture/story/20141222-the-worlds-first-supermodel) about Evelyn Nesbit, who was one of the first supermodels at the turn of the 20th century. She was just 14 years old when she began her modelling career, posing artists on the streets of Philadelphia, who favoured her as their muse for paintings and sketches. After she moved with her mother to New York City in 1900, Evelyn quickly became one of America's most sought-after models. She was on the covers of _Vanity Fair_, _Ladies' Home Journal_,_ Harper's Bazaar_, and _Cosmopolitan, _and posed for ads for Coca-Cola; she was even a chorus girl on Broadway. 
 
@@ -17,7 +27,10 @@ As you'd expect from a teenaged fashion model, Evelyn had no shortage of interes
 
 This story of a love-triangle-gone-murder has all the stuff of good drama, no doubt; in fact, the story was turned into a film by Richard Fleischer in 1955, called _The Girl in the Red Velvet Swing_. I couldn't help but think to myself, jeez, Evelyn's story ould make a _great_ opera. The way-too-young pin-up girl who grows up fast in New York City; the wealthy and manipulative men around her; the murder that happens atop Madison Square Garden, right after a show. Plus, there would be more than enough excuses to squeeze a little ragtime into the score. The operatic version of this story could resemble a mash-up of _Manon_ and _Lulu_, but set in New York. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714246856/GibsonGirlsBeach.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714246856/GibsonGirlsBeach.jpg.jpg)
+
 <figcaption>Gibson Girls on the Beach. By Charles Dana Gibson</figcaption>
 </figure>
 
@@ -25,7 +38,10 @@ Even more fascinating was the trail of clicks that led beyond my interest in Eve
 
 Looking at Gibson's illustrations, it struck me that he was one of those artists who really did know that women held immense power over men. His work shows Gibson Girl-type women in everyday places, like dinner parties and beaches, almost apathetic over their clear control. This is one of my favourites; it's called _They Are Only Collecting the Usual Fans and Gloves:_ 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714322515/GibsonIllustration.gif)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714322515/GibsonIllustration.gif)
+
 <figcaption>Illustration: Charles Dana Gibson</figcaption>
 </figure>
 

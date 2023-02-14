@@ -1,21 +1,21 @@
-+++
-date = "2016-08-23T10:53:00+01:00"
-lastmod = "2016-08-23T10:53:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471946027422/2016-08-24---Logo-OO.jpg.jpg"
-publishDate = "2016-08-23T10:53:00+01:00"
-slug = "opera-orlando"
-title = "Opera Orlando"
-type_of_company = "Opera Company"
-website = "http://operaorlando.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/OperaOrlando/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/OperaOrlando"
-+++
+---
+date: "2016-08-23T10:53:00+01:00"
+lastmod: "2016-08-23T10:53:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471946027422/2016-08-24---Logo-OO.jpg.jpg
+publishDate: "2016-08-23T10:53:00+01:00"
+slug: opera-orlando
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/OperaOrlando/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/OperaOrlando
+title: Opera Orlando
+type_of_company: Opera Company
+website: http://operaorlando.org/
+_template: "company_single"
+---
 
 Opera Orlando produces entertaining, thought-provoking, moving theatrical works of the highest artistic quality; a company that creatively fuses various genres and mediums to engender a community excited about the arts. 
 

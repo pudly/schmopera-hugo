@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2014-11-02T10:00:00-05:00"
-lastmod = "2017-09-17T21:21:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547007351/media/2019/01/sqSpace.jpg"
-publishDate = "2014-11-02T10:00:00-05:00"
-related_articles = ["articles/so-about-that-stephen-hawkings-opera.md", "articles/theres-a-new-klingon-opera-in-the-works.md", "articles/robert-picardo-giving-cassini-the-farewell-it-deserves.md", "articles/misnomers-interstellar-sex-scenes-vasco-de-gama.md"]
-short_description = "So, I have a loving husband who happens to be a Star Trek fan. There&#039;s not a whole lot of direct overlap between a sci-fi lover and an opera lover, but one point of contact is in Robert Picardo, (aka The Doctor), and his singing skills on Star Trek: Voyager."
-slug = "star-trek-and-the-opera"
-title = "Star Trek and the opera"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2014-11-02T10:00:00-05:00"
+lastmod: "2017-09-17T21:21:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1547007351/media/2019/01/sqSpace.jpg
+publishDate: "2014-11-02T10:00:00-05:00"
+related_articles:
+- articles/so-about-that-stephen-hawkings-opera.md
+- articles/theres-a-new-klingon-opera-in-the-works.md
+- articles/robert-picardo-giving-cassini-the-farewell-it-deserves.md
+- articles/misnomers-interstellar-sex-scenes-vasco-de-gama.md
+short_description: 'So, I have a loving husband who happens to be a Star Trek fan.
+  There&#039;s not a whole lot of direct overlap between a sci-fi lover and an opera
+  lover, but one point of contact is in Robert Picardo, (aka The Doctor), and his
+  singing skills on Star Trek: Voyager.'
+slug: star-trek-and-the-opera
+title: Star Trek and the opera
+_template: article_single
+---
 So, I have a loving husband who happens to be a *Star Trek* fan. There's not a whole lot of direct overlap between a sci-fi lover and an opera lover, but one point of contact is in Robert Picardo, (aka The Doctor), and his singing skills on *Star Trek: Voyager*.
 
 <figure data-type="video">

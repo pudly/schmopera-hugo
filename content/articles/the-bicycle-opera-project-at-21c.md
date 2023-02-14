@@ -1,17 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-05-22T09:41:00-04:00"
-lastmod = "2015-05-22T10:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432305050894/IMG_20150522_102801.jpg.jpg"
-publishDate = "2015-05-22T10:36:00-04:00"
-related_articles = ["articles/chatting-with-the-bicycle-opera-project.md","articles/does-new-opera-raise-the-bar-for-performers.md","articles/on-the-road-the-bicycle-opera-project.md","articles/in-review-shadow-box.md"]
-related_companies = ["scene/companies/the-bicycle-opera-project.md","scene/companies/royal-conservatory-of-music.md"]
-related_people = ["scene/people/larissa-koniuk.md","scene/people/chris-thornborrow.md","scene/people/dean-burry.md","scene/people/liza-balkan.md"]
-short_description = "Last night, as part of the Royal Conservatory of Music&#039;s ongoing contemporary music festival, 21C, the Bicycle Opera Project presented a teaser of their upcoming season. The BOP team will first take up an artist residency in Baddeck, Nova Scotia, to premiere Dean Burry&#039;s new opera, The Bells of Baddeck. "
-slug = "the-bicycle-opera-project-at-21c"
-title = "The Bicycle Opera Project at 21C"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-05-22T09:41:00-04:00"
+lastmod: "2015-05-22T10:44:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432305050894/IMG_20150522_102801.jpg.jpg
+publishDate: "2015-05-22T10:36:00-04:00"
+related_articles:
+- articles/chatting-with-the-bicycle-opera-project.md
+- articles/does-new-opera-raise-the-bar-for-performers.md
+- articles/on-the-road-the-bicycle-opera-project.md
+- articles/in-review-shadow-box.md
+related_companies:
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/royal-conservatory-of-music.md
+related_people:
+- scene/people/larissa-koniuk.md
+- scene/people/chris-thornborrow.md
+- scene/people/dean-burry.md
+- scene/people/liza-balkan.md
+short_description: 'Last night, as part of the Royal Conservatory of Music&#039;s
+  ongoing contemporary music festival, 21C, the Bicycle Opera Project presented a
+  teaser of their upcoming season. The BOP team will first take up an artist residency
+  in Baddeck, Nova Scotia, to premiere Dean Burry&#039;s new opera, The Bells of Baddeck. '
+slug: the-bicycle-opera-project-at-21c
+title: The Bicycle Opera Project at 21C
+_template: article_single
+---
 
 Last night, as part of the Royal Conservatory of Music's ongoing contemporary music festival, [*21C*](https://www.rcmusic.ca/media/news-releases/21c-music-festival), the [Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/) presented a teaser of their upcoming season. The BOP team will first take up an artist residency in Baddeck, Nova Scotia, to premiere Dean Burry's new opera, *The Bells of Baddeck*. After that, they'll tour both Nova Scotia and Ontario with *shadow box*, a cohesive collective of Canadian scenes. At last night's preview, Bicycle Opera gave us a small taste of *The Bells of Baddeck*, plus about half of *shadow box*. A quick list of the BOP team:
 

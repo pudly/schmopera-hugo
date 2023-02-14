@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-06-25T11:42:00-04:00"
-lastmod = "2017-07-10T23:06:00-04:00"
-preamble = "When we go to the opera, what we see onstage is the result of a complicated system of task delegation; some folks do the singing, others look after the lights. Sometimes, there are people onstage who have the simple-yet-vital job of being visible. These are the [supernumeraries](https://en.wikipedia.org/wiki/Supernumerary); they pad out crowd scenes and play silent roles (henchman, bartender, sex worker), adding to the imagined world that surrounds the main operatic action.\n\nWe spoke with Carl Lyons, Matthew Bernstein, Liz Allemang, and Marie Colucci, four such supernumeraries (supers, colloquially) who have graced stages large and small for productions of *Nixon in China*, *Rigoletto*, *La bohème*, *Carmen*, *Roberto Devereux*, and even *#UncleJohn*. Their operatic roles are fascinating, so read on for tips of the trade and great tales from the stage."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499459438619/2017-07-07---Crowd.jpg.jpg"
-publishDate = "2017-07-10T11:53:00-04:00"
-related_articles = ["articles/tales-from-stage-management.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/against-the-grain-theatre.md"]
-short_description = "&quot;Being on stage with these performers is truly a magical experience. You learn very quickly that these people are like high-level athletes. Their instrument is wonderous when you&#039;re close to them. Also, you learn quickly that most of them are pretty funny and entirely approachable (they like to hear how wonderful they are all the time!). Onstage the performers are incredibly focused but also have fun if the opportunity presents itself.&quot;"
-slug = "faces-in-the-crowd-operas-supernumeraries"
-title = "Faces in the crowd: opera&#039;s supernumeraries"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-06-25T11:42:00-04:00"
+lastmod: "2017-07-10T23:06:00-04:00"
+preamble: |-
+  When we go to the opera, what we see onstage is the result of a complicated system of task delegation; some folks do the singing, others look after the lights. Sometimes, there are people onstage who have the simple-yet-vital job of being visible. These are the [supernumeraries](https://en.wikipedia.org/wiki/Supernumerary); they pad out crowd scenes and play silent roles (henchman, bartender, sex worker), adding to the imagined world that surrounds the main operatic action.
+
+  We spoke with Carl Lyons, Matthew Bernstein, Liz Allemang, and Marie Colucci, four such supernumeraries (supers, colloquially) who have graced stages large and small for productions of *Nixon in China*, *Rigoletto*, *La bohème*, *Carmen*, *Roberto Devereux*, and even *#UncleJohn*. Their operatic roles are fascinating, so read on for tips of the trade and great tales from the stage.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499459438619/2017-07-07---Crowd.jpg.jpg
+publishDate: "2017-07-10T11:53:00-04:00"
+related_articles:
+- articles/tales-from-stage-management.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/against-the-grain-theatre.md
+short_description: '&quot;Being on stage with these performers is truly a magical
+  experience. You learn very quickly that these people are like high-level athletes.
+  Their instrument is wonderous when you&#039;re close to them. Also, you learn quickly
+  that most of them are pretty funny and entirely approachable (they like to hear
+  how wonderful they are all the time!). Onstage the performers are incredibly focused
+  but also have fun if the opportunity presents itself.&quot;'
+slug: faces-in-the-crowd-operas-supernumeraries
+title: 'Faces in the crowd: opera&#039;s supernumeraries'
+_template: article_single
+---
 
 ## How did you get involved in your supernumerary work, specifically in opera?
 
@@ -23,7 +36,10 @@ title = "Faces in the crowd: opera&#039;s supernumeraries"
 
 **Carl Lyons**: I had always had the idea of being in productions right from the early days of university. The actual year I subscribed to the Canadian Opera Company, an email blast came from the COC seeking supers since they required over 100 for a production of *The Dialogue of the Carmelites*. I immediately emailed back my "yes" response. Luckily, I was the right size, and the rest is history. That production was magnificent and there were so many of us, it was an instant "summer camp" experience. Some of the folks I met there are quite good friends now.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499216065971/2017-07-05---Block---Boheme---Lyons.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499216065971/2017-07-05---Block---Boheme---Lyons.jpg.jpg)
+
 <figcaption>Carl Lyons (bottom) with Adanya Dunn as Musetta and Gregory Finney as Alcindoro (top) in Against the Grain Theatre's *La bohème*, 2017. Photos by Darryl Block.</figcaption>
 </figure>
 
@@ -39,7 +55,10 @@ And they're human: Some bring their families to keep them company, some bring th
 
 **Lyons**: I have learned that opera singers are a dedicated bunch. The training is rigorous, the parts demanding, all those languages to learn, and constant practicing to keep on top of their game. I've also learned that they are amongst the most supportive artists. I find generally, that most artists are supportive of each other. I've seen many performers of most of the performing arts be close friends, very dedicated to the various friendship networks they belong to. So many performers attend each other's performances. One can be sure, no matter which performance one attends, there will be other singers there.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499722707196/2017-07-10---.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499722707196/2017-07-10---.jpg.jpg)
+
 <figcaption>Matthew Bernstein with his fellow supernumeraries, backstage for *Madama Butterfly*, Canadian Opera Company.</figcaption>
 </figure>
 
@@ -53,7 +72,10 @@ And they're human: Some bring their families to keep them company, some bring th
 
 **Colucci**: It is such a privilege to super with the COC and I am incredibly fortunate to be able to work with them. A great deal of preparation goes into putting on such large-scale productions well before a super arrives to their first rehearsal. As a super it is important to be dependable and respectful. It is imperative that supers respond to correspondence from our coordinators in a timely fashion, are on time for scheduled fittings, rehearsals and shows, and are flexible during the rehearsal period since schedules can change daily. It is equally important to be respectful of colleagues from every department. Once in costume, you must be extremely careful that you don't damage them! As well, it is not unusual for supers to be called to audition for a part; for example, I had to audition for both *Dialogues des Carmélites* and *Falstaff*. Therefore, being able to take and execute direction, and, should it happen, seamlessly responding to any unplanned situation on stage cannot be underrated.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499282136444/2017-07-05---Colucci---Rigoletto-2011.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499282136444/2017-07-05---Colucci---Rigoletto-2011.jpg.jpg)
+
 <figcaption>Liz Allemang and Marie Colucci in costume for *Rigoletto*, Canadian Opera Company, 2011.</figcaption>
 </figure>
 

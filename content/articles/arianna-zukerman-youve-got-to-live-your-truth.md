@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-02-24T09:58:00-05:00"
-lastmod = "2016-02-24T10:29:00-05:00"
-preamble = "The daughter of Israeli violinist, violist and conductor [Pinchas Zukerman](http://nac-cna.ca/en/bio/pinchas-zukerman), soprano [Arianna Zukerman](/scene/people/arianna-zukerman/) has had an unique and enviable musical history. She is currently giving a [series of concerts](http://www.ariannazukerman.com/artist.php?view=cal) from her Grammy Award-nominated album, [*Annelies*](http://www.jameswhitbourn.com/annelies/performance), written by James Whitbourn, based on *The Diary of Anne Frank*. She's also a mother of two, and a strong survivor of breast cancer. She gives a beautiful and wise interview about \"bopping around\" to her father's recordings, and learning how not to sweat the small stuff.\n\n\"As much as I love singing and constantly working to hone my craft and improve and present excellence, I'm not getting a hug from a perfectly turned phrase at the end of the day.\""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456326967304/2016-02-25---Arianna-Zukerman-Tim-Coburn.jpg.jpg"
-primary_image_credit = "Photo by Tim Coburn."
-publishDate = "2016-02-24T10:28:00-05:00"
-related_articles = ["articles/talking-with-singers-nicole-cabell.md","articles/talking-with-singers-othalie-graham.md","articles/childfree-opera-singers-happiness.md","articles/art-imitating-life-pat-emilia.md","articles/redefining-the-goal.md"]
-related_people = ["scene/people/arianna-zukerman.md"]
-short_description = "&quot;Not having balance is destructive and at the end of the day, as much as I love singing and constantly working to hone my craft and improve and present excellence, I&#039;m not getting a hug from a perfectly turned phrase at the end of the day. If I can&#039;t be present as a mom, wife, friend, then I&#039;m not going to be the singer I want to be either. Also, I have learned truly not to sweat the small stuff.&quot;"
-slug = "arianna-zukerman-youve-got-to-live-your-truth"
-title = "Arianna Zukerman: &quot;You&#039;ve got to live your truth.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-02-24T09:58:00-05:00"
+lastmod: "2016-02-24T10:29:00-05:00"
+preamble: |-
+  The daughter of Israeli violinist, violist and conductor [Pinchas Zukerman](http://nac-cna.ca/en/bio/pinchas-zukerman), soprano [Arianna Zukerman](/scene/people/arianna-zukerman/) has had an unique and enviable musical history. She is currently giving a [series of concerts](http://www.ariannazukerman.com/artist.php?view=cal) from her Grammy Award-nominated album, [*Annelies*](http://www.jameswhitbourn.com/annelies/performance), written by James Whitbourn, based on *The Diary of Anne Frank*. She's also a mother of two, and a strong survivor of breast cancer. She gives a beautiful and wise interview about "bopping around" to her father's recordings, and learning how not to sweat the small stuff.
+
+  "As much as I love singing and constantly working to hone my craft and improve and present excellence, I'm not getting a hug from a perfectly turned phrase at the end of the day."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456326967304/2016-02-25---Arianna-Zukerman-Tim-Coburn.jpg.jpg
+primary_image_credit: Photo by Tim Coburn.
+publishDate: "2016-02-24T10:28:00-05:00"
+related_articles:
+- articles/talking-with-singers-nicole-cabell.md
+- articles/talking-with-singers-othalie-graham.md
+- articles/childfree-opera-singers-happiness.md
+- articles/art-imitating-life-pat-emilia.md
+- articles/redefining-the-goal.md
+related_people:
+- scene/people/arianna-zukerman.md
+short_description: '&quot;Not having balance is destructive and at the end of the
+  day, as much as I love singing and constantly working to hone my craft and improve
+  and present excellence, I&#039;m not getting a hug from a perfectly turned phrase
+  at the end of the day. If I can&#039;t be present as a mom, wife, friend, then I&#039;m
+  not going to be the singer I want to be either. Also, I have learned truly not to
+  sweat the small stuff.&quot;'
+slug: arianna-zukerman-youve-got-to-live-your-truth
+title: 'Arianna Zukerman: &quot;You&#039;ve got to live your truth.&quot;'
+_template: article_single
+---
 
 ## Can you tell us about your musical background, growing up in such a musical family?
 

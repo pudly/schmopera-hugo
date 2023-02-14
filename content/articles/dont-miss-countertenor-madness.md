@@ -1,15 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2018-09-22T15:50:00-04:00"
-lastmod = "2018-09-23T20:50:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537645773505/sqDSC01468.jpg.jpg"
-primary_image_credit = "The five countertenors of Countertenor Madness! Photo: Karen E. Reeves."
-publishDate = "2018-09-23T19:52:00-04:00"
-short_description = "The concert - aptly titled Countertenor Madness! - is likely to be a crash course in what makes the countertenor one of opera&#039;s most exciting voice types. "
-slug = "dont-miss-countertenor-madness"
-title = "Don&#039;t miss: Countertenor Madness!"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2018-09-22T15:50:00-04:00"
+lastmod: "2018-09-23T20:50:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537645773505/sqDSC01468.jpg.jpg
+primary_image_credit: 'The five countertenors of Countertenor Madness! Photo: Karen
+  E. Reeves.'
+publishDate: "2018-09-23T19:52:00-04:00"
+short_description: 'The concert - aptly titled Countertenor Madness! - is likely to
+  be a crash course in what makes the countertenor one of opera&#039;s most exciting
+  voice types. '
+slug: dont-miss-countertenor-madness
+title: 'Don&#039;t miss: Countertenor Madness!'
+_template: article_single
+---
 
 Next month with the [Kingston Road United Church Concert Series](https://www.kruc.ca/concerts/), you can see something that might truly be a once-in-a-lifetime event.
 

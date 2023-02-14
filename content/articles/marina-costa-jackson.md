@@ -1,22 +1,44 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = 2023-02-01T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "[San Diego Opera's double-bill of _Suor Angelica_ and _Gianni Schicchi_](https://www.sdopera.org/shows/suor-schicchi-2022/) runs February 11-19, 2023 at the San Diego Civic Theatre."
-preamble = "American-Italian soprano [Marina Costa-Jackson](/scene/people/marina-costa-jackson/) will be singing the title role in _Suor Angelica_ and Lauretta in _Gianni Schicchi_ in a [double-bill at the San Diego Opera](https://www.sdopera.org/shows/suor-schicchi-2022/) on February 11, 2023, with additional performances on February 14, 17, and 19."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675303536/media/2023/02/sqMarinaCosta-jackson_pzao3m.jpg"
-primary_image_credit = "Photo: Suzanne Vinnik."
-related_articles = ["articles/reliably-bubbly-belle-hélène-a-delight.md", "articles/carmen.md"]
-related_companies = ["scene/companies/san-diego-opera.md"]
-related_people = ["scene/people/miriam-costa-jackson.md", "scene/people/marina-costa-jackson.md", "scene/people/ginger-costajackson.md"]
-short_description = "\"Puccini really captured the raw emotionality of a mother. He always wrote his ladies so well but specifically, with Suor Angelica, there's a deep sorrow there that makes it very interesting to portray. Being a mother now, it gives me a new perspective on it. It connects on a deeper level. Frankly it's a very hard aria to get through with dry eyes.\""
-slug = "marina-costa-jackson-you-just-have-to-do-it-a-lot"
-title = "Marina Costa-Jackson: \"You just have to do it, a lot.\""
-youtube_url = ""
+---
+author:
+  - authors/eva-cahen.md
+categories: Interview
+date: '2023-02-01T05:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  [San Diego Opera's double-bill of _Suor Angelica_ and _Gianni
+  Schicchi_](https://www.sdopera.org/shows/suor-schicchi-2022/) runs February
+  11-19, 2023 at the San Diego Civic Theatre.
+preamble: >-
+  American-Italian soprano [Marina
+  Costa-Jackson](/scene/people/marina-costa-jackson/) will be singing the title
+  role in _Suor Angelica_ and Lauretta in _Gianni Schicchi_ in a [double-bill at
+  the San Diego Opera](https://www.sdopera.org/shows/suor-schicchi-2022/) on
+  February 11, 2023, with additional performances on February 14, 17, and 19.
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1675303536/media/2023/02/sqMarinaCosta-jackson_pzao3m.jpg
+primary_image_credit: 'Photo: Suzanne Vinnik.'
+related_articles:
+  - articles/reliably-bubbly-belle-hélène-a-delight.md
+  - articles/carmen.md
+related_companies:
+  - scene/companies/san-diego-opera.md
+related_people:
+  - scene/people/miriam-costa-jackson.md
+  - scene/people/marina-costa-jackson.md
+  - scene/people/ginger-costajackson.md
+short_description: >-
+  "Puccini really captured the raw emotionality of a mother. He always wrote his
+  ladies so well but specifically, with Suor Angelica, there's a deep sorrow
+  there that makes it very interesting to portray. Being a mother now, it gives
+  me a new perspective on it. It connects on a deeper level. Frankly it's a very
+  hard aria to get through with dry eyes."
+slug: marina-costa-jackson-you-just-have-to-do-it-a-lot
+title: 'Marina Costa-Jackson: "You just have to do it, a lot."'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 ## On singing, stage fright, her sisters, and the pandemic
 
 "I sing because I love the music. I'm not the typical diva because I’ve had to work through some hard-core stage fright. That was the reason I didn't sing up until I was 21 years old. I was raised in a family with sisters who sang as well, [Ginger Costa-Jackson](/scene/people/ginger-costa-jackson/) and [Miriam Costa-Jackson](/scene/people/miriam-costa-jackson/), and they always wanted me to sing. I loved the music and I loved hearing them practice and work hard towards singing and opera.
@@ -25,7 +47,9 @@ youtube_url = ""
 
 "What helped me get over stage fright is consistent exposure to performing with nerves. Your body chemistry is completely different when you're nervous, with that adrenaline pumping and the cortisol levels.  The Academy of Vocal Arts gave me so many opportunities to sing - patron events, weekend concerts, school performances and operas. I was put through the ringer, constantly stressed out about having to sing but that's really the only way. You have to just do it, a lot.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675131983/media/2023/01/MarinaCosta-Jackson_DarioAcosta_ba86lj.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1675131983/media/2023/01/MarinaCosta-Jackson_DarioAcosta_ba86lj.jpg)
 
 <figcaption>Marina Costa-Jackson, soprano. Photo: Dario Acosta./figcaption>  
 </figure>
@@ -38,7 +62,9 @@ youtube_url = ""
 
 "During the pandemic, a lot of artists out there went without work for a long time. There were lots of things cancelled or rescheduled. This _Suor Angelica_ and _Schicchi_ were rescheduled. COVID made the momentum drop. I was to make my Royal Opera debut, which is now coming in 2024. And also my Paris debut as Mimì. The pandemic stopped the ball rolling for everybody. It was a moment for all artists to rebuild. Sadly, for the ones that felt like it wasn't financially stable enough, they've chosen a different path. I had a baby during that time so I was able as well to enjoy becoming a new mother. The pandemic made us all have to go back a few years and redo auditions and ask ourselves if this is something that we can plausibly continue to do. Thankfully I have been able to and I'm grateful for that, because without music, I think life is just not as good."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675132106/media/2023/01/MarinaCosta-Jackson_SuzanneVinnik_xfpv1w.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1675132106/media/2023/01/MarinaCosta-Jackson_SuzanneVinnik_xfpv1w.jpg)
 
 <figcaption>Marina Costa-Jackson, soprano. Photo: Suzanne Vinnik.</figcaption>  
 </figure>
@@ -53,7 +79,9 @@ youtube_url = ""
 
 I listen to Renata Scotto singing _Suor Angelica_ as an inspiration and a challenge. She colors it so well, and she's Italian and also so wonderful at her art. My agent is Filippo Anselmi and his mother is Renata Scotto. Every phrase Renata Scotto sings has so much intention. As an Italian speaker myself, I listen to her and I'm inspired to be able to really give every word the value that Puccini and the librettist were trying for with each phrase. I also love the beauty of Renata Tebaldi's tone in this role. She had such an angelic voice. Renata Tebaldi is always a go to for me as well.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675132168/media/2023/01/MarinaCosta-Jackson_w6f9zm.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1675132168/media/2023/01/MarinaCosta-Jackson_w6f9zm.jpg)
 
 <figcaption>Marina Costa-Jackson, soprano.</figcaption>  
 </figure>

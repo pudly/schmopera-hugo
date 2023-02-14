@@ -1,22 +1,31 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Interview"
-date = 2023-02-13T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1676255550/media/2023/02/sqDavidLang_tdvi41.jpg"
-primary_image_credit = "Photo: Peter Serling."
-related_articles = ["articles/in-review-the-whisper-opera.md", "articles/talking-with-composers-cecilia-livingston.md", "articles/kevin-puts-i-know-who-i-am-as-a-composer.md"]
-related_companies = []
-related_people = []
-short_description = "\"When I started giving my pieces silly titles and putting them all in lowercase, it took the pressure off me to be a genius, and then I could concentrate on just writing my music.\""
-slug = "david-lang-high-art-in-lowercase"
-title = "David Lang: high art in lowercase"
-youtube_url = ""
+---
+author:
+  - authors/loren-lester.md
+categories: Interview
+date: '2023-02-13T05:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1676255550/media/2023/02/sqDavidLang_tdvi41.jpg
+primary_image_credit: 'Photo: Peter Serling.'
+related_articles:
+  - articles/in-review-the-whisper-opera.md
+  - articles/talking-with-composers-cecilia-livingston.md
+  - articles/kevin-puts-i-know-who-i-am-as-a-composer.md
+related_companies: []
+related_people: []
+short_description: >-
+  "When I started giving my pieces silly titles and putting them all in
+  lowercase, it took the pressure off me to be a genius, and then I could
+  concentrate on just writing my music."
+slug: david-lang-high-art-in-lowercase
+title: 'David Lang: high art in lowercase'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 David Lang’s catalog as a composer is astounding for its depth and breadth: choral works, songs, song cycles, orchestral works, ballets, film scores, operas and some things that defy categorization. And yet, during this interview, he proved to be self-effacing and self-deprecating. When he was asked about the enormity of his compositional canon, he offered the humble understatement: "well, I like to write music." Among his many talents, he also proved to possess something rare among some great artists: the ability to discuss his work effortlessly.
 
 In the fifteen or so years since he got onto the worldwide radar by winning the Pulitzer Prize, he has been performed throughout the U.S., Canada, Australia, and Europe. The prize was for his opera _little match girl passion_ – that’s not a typo; all his titles are in lower case. The reason for this goes back to his days in college when he began studying the great composers. He felt the pressure to emulate them, "to write a masterpiece, maybe a piece about life and death, maybe something spectacular that changes music history, or that everyone loves. I found the pressure to write something that was great, before I was ready, was oppressive, and paralyzing. When I started giving my pieces silly titles and putting them all in lowercase, it took the pressure off me to be a genius, and then I could concentrate on just writing my music."
@@ -25,7 +34,9 @@ Opera – which Mr. Lang defines much more broadly than many – has consistentl
 
 That's not to say he isn’t a great fan of tradition. In fact, when he was in Latvia, he attended performances of the Latvia National Opera for an entire week seeing long-established productions which were still influenced by the Soviet music education system; the highest of standards, but the opposite of innovative. "I just relaxed and enjoyed it," he remembers, "no one was trying to shock us."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1676255914/media/2023/02/davidlang_peterserling_n4favf.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1676255914/media/2023/02/davidlang_peterserling_n4favf.jpg)
 
 <figcaption>Composer David Lang. Photo: Peter Serling.</figcaption>  
 </figure>
@@ -54,7 +65,9 @@ _note to a friend_ shines a light on a dark subject – suicide – which in thi
 
 Mr. Lang also returns to one of his favorite themes – not just death, but _the exact moment of death_, which he has explored in a number of his operas, and in his song cycle _death speaks_ (2012). "Music," he explains, "is a good place to explore what you’re curious about that can’t be proved." To him, death is one such unexplained mystery as is music itself.  Despite all his accomplishments, he feels that "it's a mystery how music conveys something."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1676255944/media/2023/02/DavidLang_screamo_czgdc3.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1676255944/media/2023/02/DavidLang_screamo_czgdc3.jpg)
 
 <figcaption>Composer David Lang. Photo: Peter Serling.</figcaption>  
 </figure>

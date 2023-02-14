@@ -1,17 +1,37 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-10-04T14:40:00+01:00"
-lastmod = "2016-10-06T15:46:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475762801652/2016-10-06---Sales.jpg.jpg"
-publishDate = "2016-10-06T15:43:00+01:00"
-related_articles = ["articles/who-cares-what-bring-on-the-why.md","articles/is-it-time-for-the-met-to-move.md","articles/brian-mulligan-singing-jack-torrance.md","articles/audition-season-or-the-annual-festival-of-shattered-dreams.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/los-angeles-opera.md","scene/companies/opera-philadelphia.md","scene/companies/minnesota-opera.md"]
-related_people = ["scene/people/jonas-kaufmann.md","scene/people/elizabeth-deshong.md","scene/people/anna-netrebko.md","scene/people/plcido-domingo.md"]
-short_description = "Without the long histories of Tristan und Isolde or La traviata, new operas need substance within the pages of the score in order to attract listeners. It&#039;s no longer enough to rely on the internal opera fan club, who get excited when folks like Plácido Domingo move from tenor to baritone roles, or when Peter Sellars gets his hands on a Bach oratorio; the people who care about these things are already putting their bums in seats."
-slug = "new-opera-honest-marketing"
-title = "New opera &amp; honest marketing"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-10-04T14:40:00+01:00"
+lastmod: "2016-10-06T15:46:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475762801652/2016-10-06---Sales.jpg.jpg
+publishDate: "2016-10-06T15:43:00+01:00"
+related_articles:
+- articles/who-cares-what-bring-on-the-why.md
+- articles/is-it-time-for-the-met-to-move.md
+- articles/brian-mulligan-singing-jack-torrance.md
+- articles/audition-season-or-the-annual-festival-of-shattered-dreams.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/minnesota-opera.md
+related_people:
+- scene/people/jonas-kaufmann.md
+- scene/people/elizabeth-deshong.md
+- scene/people/anna-netrebko.md
+- scene/people/plcido-domingo.md
+short_description: Without the long histories of Tristan und Isolde or La traviata,
+  new operas need substance within the pages of the score in order to attract listeners.
+  It&#039;s no longer enough to rely on the internal opera fan club, who get excited
+  when folks like Plácido Domingo move from tenor to baritone roles, or when Peter
+  Sellars gets his hands on a Bach oratorio; the people who care about these things
+  are already putting their bums in seats.
+slug: new-opera-honest-marketing
+title: New opera &amp; honest marketing
+_template: article_single
+---
 
 With the exciting, accelerating trend of new operas being created in North America, there comes an interesting pattern in how they are marketed to the public.
 

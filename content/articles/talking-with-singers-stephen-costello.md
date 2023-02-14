@@ -1,22 +1,44 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = "2019-05-06T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Stephen Costello and Stephen Powell present _One Amazing Night_ on May 15 at the Balboa Theatre. For details and tickets, [click here](https://www.sdopera.org/season/2018-2019-season/one-amazing-night-2019)."
-preamble = "San Diego Opera is presenting [_One Amazing Night_](https://www.sdopera.org/season/2018-2019-season/one-amazing-night-2019) on May 15, 2019 at the Balboa Theater in San Diego with two American operatic stars, tenor Stephen Costello and baritone Stephen Powell. I had the opportunity to ask Stephen Costello some questions a few weeks before the recital while he was still busy singing the role of Alfredo Germont in _La Traviata_ at New York's Metropolitan Opera."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557186341/media/2019/05/sqStephenCostello-pc-SimonPauly.jpg"
-primary_image_credit = "Photo: Simon Pauly"
-related_articles = ["articles/talking-with-singers-clay-hilley.md", "articles/talking-with-singers-eleazar-rodriguez.md", "articles/talking-with-singers-stephen-powell.md"]
-related_companies = ["scene/companies/san-diego-opera.md"]
-related_people = ["scene/people/stephen-powell.md", "scene/people/stephen-costello.md"]
-short_description = "\"In my off time, I come home. My wife Yoon and I live in NY. She plays violin in the orchestra of the Metropolitan Opera. I don't get enough of a chance to see her and I'm hardly ever at home.\""
-slug = "talking-with-singers-stephen-costello"
-title = "Talking with singers: Stephen Costello"
-youtube_url = ""
+---
+author:
+  - authors/eva-cahen.md
+categories: Interview
+date: '2019-05-06T04:00:00+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  Stephen Costello and Stephen Powell present _One Amazing Night_ on May 15 at
+  the Balboa Theatre. For details and tickets, [click
+  here](https://www.sdopera.org/season/2018-2019-season/one-amazing-night-2019).
+preamble: >-
+  San Diego Opera is presenting [_One Amazing
+  Night_](https://www.sdopera.org/season/2018-2019-season/one-amazing-night-2019)
+  on May 15, 2019 at the Balboa Theater in San Diego with two American operatic
+  stars, tenor Stephen Costello and baritone Stephen Powell. I had the
+  opportunity to ask Stephen Costello some questions a few weeks before the
+  recital while he was still busy singing the role of Alfredo Germont in _La
+  Traviata_ at New York's Metropolitan Opera.
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1557186341/media/2019/05/sqStephenCostello-pc-SimonPauly.jpg
+primary_image_credit: 'Photo: Simon Pauly'
+related_articles:
+  - articles/talking-with-singers-clay-hilley.md
+  - articles/talking-with-singers-eleazar-rodriguez.md
+  - articles/talking-with-singers-stephen-powell.md
+related_companies:
+  - scene/companies/san-diego-opera.md
+related_people:
+  - scene/people/stephen-powell.md
+  - scene/people/stephen-costello.md
+short_description: >-
+  "In my off time, I come home. My wife Yoon and I live in NY. She plays violin
+  in the orchestra of the Metropolitan Opera. I don't get enough of a chance to
+  see her and I'm hardly ever at home."
+slug: talking-with-singers-stephen-costello
+title: 'Talking with singers: Stephen Costello'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 **How is it different to do a recital than a whole opera?**
 
 A recital doesn't have nearly as many elements as an opera. There are no costume changes and no fittings. The orchestra is usually behind you rather than in front of you. In an opera, you might be on stage for an entire scene for 30 or 40 minutes. At a concert, you sing one aria, and then there might be someone else with you, or you could walk off the stage.
@@ -25,7 +47,9 @@ It's not that one is easier than the other because it is still the same amount o
 
 Of course, in an opera, you have a lot more time for rehearsals. The dress rehearsal is a chance to run the show in its entirety, as if it were a performance. In a concert, you usually don't get the opportunity to do that, especially if it's a concert of arias as opposed to a concert of an opera.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557186361/media/2019/05/SDORegiment012313.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557186361/media/2019/05/SDORegiment012313.jpg)
 
 <figcaption>Stephen Costello as Tonio in The Daughter of the Regiment, San Diego Opera, January-February 2013. Photo by J. Katarzyna Woronowicz.</figcaption>
 
@@ -43,7 +67,9 @@ Then, we'll each individually program our arias. In this program, a lot of them 
 
 In a recital setting, depending on the size of the theater, it's a more intimate relationship because you can see the audience members. In an opera production, the lighting effects make the audience darker, and you don't see much past the conductor. In the instance of a concert, you can usually see the faces of the people in the audience. That can be great. It helps you get your point across more easily because you can have direct contact with the audience. Sometimes though, it can throw you off if you catch someone talking or texting. It can be a double-edged sword. Each is an opportunity to share music with an audience in completely different forms. They're completely different but I get the same gratification from each.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557186493/media/2019/05/StephenCostello-pcMerriCyr.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557186493/media/2019/05/StephenCostello-pcMerriCyr.jpg)
 
 <figcaption>Photo: Merri Cyr.</figcaption>
 
@@ -59,7 +85,9 @@ It makes for a really exciting career. You're always meeting different people an
 
 I was probably around 18 or 19 when I started to work on voice, right after high school. I started with musical theater, but I wasn't a voice student. I just liked singing. I lived in Philadelphia and came from a middle-class American family. Languages weren't a thing. We were completely American. I wasn't comfortable with opera at first because of all those other aspects. I didn't know Italian nor French. I had worked on it a little bit in school but not enough to think I would ever be singing an entire opera in a foreign language. It intimidated me.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557266767/media/2019/05/SDOFaustCostello.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557266767/media/2019/05/SDOFaustCostello.jpg)
 
 <figcaption>Stephen Costello in the title role of Faust, San Diego Opera, 2011. Photo courtesy of San Diego Opera.</figcaption>
 
@@ -87,7 +115,9 @@ I'm getting a stride in my life that I'm enjoying. I don't know if I want to pla
 
 I would like to do more French repertoire, like Werther or Hoffmann in the future. I just did my first Don José this past year. I really like the French repertoire. There's something about it that I can relate to very well. It makes me feel comfortable. It's odd because I don't have a French background. It's weird how I have a relationship to the music even though I grew up in Northeast Philadelphia. I've always felt comfortable in French. Even as I'm learning it, I can see where it's going, and I understand it. I went to Paris to sing for the first time last year. They invited me back to do more productions, some in French, like _Manon_.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557186516/media/2019/05/StephenCostello-pc-SimonPauly.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557186516/media/2019/05/StephenCostello-pc-SimonPauly.jpg)
 
 <figcaption>Photo: Simon Pauly.</figcaption>
 

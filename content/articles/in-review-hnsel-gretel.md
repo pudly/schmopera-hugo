@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-04-26T17:39:00-04:00"
-lastmod = "2015-04-27T18:22:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838467708/MYOHnG-1024x682.jpg.jpg"
-primary_image_credit = "Kate Applin (Gretel) and Lyndsay Promane (Hansel) in MYO's Hänsel & Gretel"
-publishDate = "2014-04-26T17:39:00-04:00"
-related_companies = ["scene/companies/myopera.md"]
-related_people = ["scene/people/kate-applin.md","scene/people/alison-wong.md","scene/people/peter-bass.md","scene/people/kelsey-vicary.md"]
-short_description = "I went and saw one of my favourite operas last night: Hänsel and Gretel, by Engelbert Humperdinck, based on the creepy Brothers Grimm fairytale. I think it&#039;s a show that transports itself well on small and large stages, with small and large orchestras and even pianos. So it was great to see this production by Metro Youth Opera in an intimate space, where we could see subtle moments and get to know the characters more quickly."
-slug = "in-review-hnsel-gretel"
-title = "In review: Hänsel &amp; Gretel"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-04-26T17:39:00-04:00"
+lastmod: "2015-04-27T18:22:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838467708/MYOHnG-1024x682.jpg.jpg
+primary_image_credit: Kate Applin (Gretel) and Lyndsay Promane (Hansel) in MYO's Hänsel
+  & Gretel
+publishDate: "2014-04-26T17:39:00-04:00"
+related_companies:
+- scene/companies/myopera.md
+related_people:
+- scene/people/kate-applin.md
+- scene/people/alison-wong.md
+- scene/people/peter-bass.md
+- scene/people/kelsey-vicary.md
+short_description: 'I went and saw one of my favourite operas last night: Hänsel and
+  Gretel, by Engelbert Humperdinck, based on the creepy Brothers Grimm fairytale.
+  I think it&#039;s a show that transports itself well on small and large stages,
+  with small and large orchestras and even pianos. So it was great to see this production
+  by Metro Youth Opera in an intimate space, where we could see subtle moments and
+  get to know the characters more quickly.'
+slug: in-review-hnsel-gretel
+title: 'In review: Hänsel &amp; Gretel'
+_template: article_single
+---
 
 I went and saw one of my favourite operas last night: [_Hänsel and Gretel_](http://www.metroyouthopera.ca/2014-season/), by Engelbert Humperdinck, based on the creepy [Brothers Grimm](http://en.wikipedia.org/wiki/Brothers_Grimm) fairytale. I think it's a show that transports itself well on small and large stages, with small and large orchestras and even pianos. So it was great to see this production by [Metro Youth Opera](http://www.metroyouthopera.ca/) in an intimate space, where we could see subtle moments and get to know the characters more quickly. The production is directed by [Alison Wong](https://twitter.com/alleywo); I loved that it made me look twice at the piece, and at the story that I already know well. Alison really found specificity in the German text, which you could see throughout the cast. That text-first starting point is what makes _Hänsel and Gretel_ a compelling story, even without Humperdinck's large orchestra ([or the Met's budget](https://www.youtube.com/watch?v=wMuEwhw97RI)).
 

@@ -1,15 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2015-05-16T13:38:00-04:00"
-lastmod = "2015-06-17T15:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431872837016/Doheny.jpg.jpg"
-publishDate = "2015-05-17T10:31:00-04:00"
-related_articles = ["articles/is-the-cost-of-a-music-degree-ethical.md"]
-short_description = "I came across this pretty engrossing story yesterday. An entire class of Masters of Fine Arts students has withdrawn from their degrees, after ongoing administrative struggles, including misinformation and changes to the terms of their program."
-slug = "entire-mfa-class-drops-out-of-usc"
-title = "Entire MFA class drops out of USC"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2015-05-16T13:38:00-04:00"
+lastmod: "2015-06-17T15:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431872837016/Doheny.jpg.jpg
+publishDate: "2015-05-17T10:31:00-04:00"
+related_articles:
+- articles/is-the-cost-of-a-music-degree-ethical.md
+short_description: I came across this pretty engrossing story yesterday. An entire
+  class of Masters of Fine Arts students has withdrawn from their degrees, after ongoing
+  administrative struggles, including misinformation and changes to the terms of their
+  program.
+slug: entire-mfa-class-drops-out-of-usc
+title: Entire MFA class drops out of USC
+_template: article_single
+---
 
 I came across [this pretty engrossing story](http://www.artandeducation.net/school_watch/entire-usc-mfa-1st-year-class-is-dropping-out/) yesterday. An entire class of Masters of Fine Arts students has withdrawn from their degrees, after ongoing administrative struggles, including misinformation and changes to the terms of their program.
 

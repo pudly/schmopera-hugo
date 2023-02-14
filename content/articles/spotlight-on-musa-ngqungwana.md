@@ -1,19 +1,45 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-06-07T03:49:00-06:00"
-lastmod = "2016-06-13T05:44:00-06:00"
-preamble = "We're kicking off this summer's Spotlight Series with South African bass-baritone [Musa Ngqungwana](/scene/people/musa-ngqungwana/). This summer he makes his [Glimmerglass Festival](/scene/companies/glimmerglass-festival/) debut in Rossini's [*The Thieving Magpie*](https://glimmerglass.org/festival/2016-mainstage/thieving-magpie/) (*La gazza ladra*), before debuting at [The Dallas Opera](/scene/companies/the-dallas-opera/) in both *Eugene Onegin* and *Moby-Dick* this fall. \n\nMusa has also penned his autobiography, [*Odyssey of an African Opera Singer: From Zwide Township to the World Stage*](https://www.amazon.com/Odyssey-African-Opera-Singer-Township-ebook/dp/B00ONVQNYE?ie=UTF8&keywords=odyssey%20of%20an%20african%20opera%20singer&qid=1413933244&ref_=sr_1_1&sr=8-1), a notably unique journey from childhood to the busy performing schedule he enjoys across the globe. He gave us a beautiful interview about growing up in segregated South Africa, joining choirs to meet girls, and learning patience along with his craft."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465293017911/2016-06-07---Musa.jpg.jpg"
-primary_image_credit = "Photo: S. Richards."
-publishDate = "2016-06-12T18:25:00-06:00"
-related_articles = ["articles/spotlight-on-amanda-majeski.md","articles/talking-with-singers-othalie-graham.md","articles/spotlight-on-geoffrey-penar.md","articles/spotlight-on-shelley-jackson.md","articles/sidney-outlaw-stairs-success.md"]
-related_companies = ["scene/companies/glimmerglass-festival.md","scene/companies/the-dallas-opera.md"]
-related_people = ["scene/people/musa-ngqungwana.md"]
-short_description = "&quot;Upon reflection, my response is rooted in my convictions, experience, appreciation and understanding that I have been granted with the gift of singing from the day I was born. However, when I was growing up, I didn’t know that I could sing. Nor did I know, upon discovering I could phonate, how good or bad I was at it. I think it’s fair to say I didn’t care that much or pay attention to such details at the time.&quot;"
-slug = "spotlight-on-musa-ngqungwana"
-title = "Spotlight on: Musa Ngqungwana"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-06-07T03:49:00-06:00"
+lastmod: "2016-06-13T05:44:00-06:00"
+preamble: "We're kicking off this summer's Spotlight Series with South African bass-baritone
+  [Musa Ngqungwana](/scene/people/musa-ngqungwana/). This summer he makes his [Glimmerglass
+  Festival](/scene/companies/glimmerglass-festival/) debut in Rossini's [*The Thieving
+  Magpie*](https://glimmerglass.org/festival/2016-mainstage/thieving-magpie/) (*La
+  gazza ladra*), before debuting at [The Dallas Opera](/scene/companies/the-dallas-opera/)
+  in both *Eugene Onegin* and *Moby-Dick* this fall. \n\nMusa has also penned his
+  autobiography, [*Odyssey of an African Opera Singer: From Zwide Township to the
+  World Stage*](https://www.amazon.com/Odyssey-African-Opera-Singer-Township-ebook/dp/B00ONVQNYE?ie=UTF8&keywords=odyssey%20of%20an%20african%20opera%20singer&qid=1413933244&ref_=sr_1_1&sr=8-1),
+  a notably unique journey from childhood to the busy performing schedule he enjoys
+  across the globe. He gave us a beautiful interview about growing up in segregated
+  South Africa, joining choirs to meet girls, and learning patience along with his
+  craft."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465293017911/2016-06-07---Musa.jpg.jpg
+primary_image_credit: 'Photo: S. Richards.'
+publishDate: "2016-06-12T18:25:00-06:00"
+related_articles:
+- articles/spotlight-on-amanda-majeski.md
+- articles/talking-with-singers-othalie-graham.md
+- articles/spotlight-on-geoffrey-penar.md
+- articles/spotlight-on-shelley-jackson.md
+- articles/sidney-outlaw-stairs-success.md
+related_companies:
+- scene/companies/glimmerglass-festival.md
+- scene/companies/the-dallas-opera.md
+related_people:
+- scene/people/musa-ngqungwana.md
+short_description: '&quot;Upon reflection, my response is rooted in my convictions,
+  experience, appreciation and understanding that I have been granted with the gift
+  of singing from the day I was born. However, when I was growing up, I didn’t know
+  that I could sing. Nor did I know, upon discovering I could phonate, how good or
+  bad I was at it. I think it’s fair to say I didn’t care that much or pay attention
+  to such details at the time.&quot;'
+slug: spotlight-on-musa-ngqungwana
+title: 'Spotlight on: Musa Ngqungwana'
+_template: article_single
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

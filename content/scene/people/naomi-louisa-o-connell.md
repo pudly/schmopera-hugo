@@ -1,22 +1,28 @@
-+++
-date = "2019-04-07T00:42:56+00:00"
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554597924/media/2019/04/Headshot-2-Naomi-Louisa-OConnell-photo-credit-Lauren-Desberg-1.jpg"
-primary_image_credit = "Lauren Desberg."
-related_companies = ["scene/companies/spoleto-festival-usa.md", "scene/companies/garsington-opera.md", "scene/companies/the-atlanta-opera.md", "scene/companies/welsh-national-opera.md", "scene/companies/oper-frankfurt.md", "scene/companies/opera-omaha.md", "scene/companies/the-juilliard-school.md"]
-slug = "naomi-louisa-oconnell"
-title = "Naomi Louisa O'Connell"
-website = "https://www.naomioconnell.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/NaomiLOConnell"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/naomi_louisa_oconnell/"
-
-+++
+---
+date: "2019-04-07T00:42:56+00:00"
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1554597924/media/2019/04/Headshot-2-Naomi-Louisa-OConnell-photo-credit-Lauren-Desberg-1.jpg
+primary_image_credit: Lauren Desberg.
+related_companies:
+- scene/companies/spoleto-festival-usa.md
+- scene/companies/garsington-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/opera-omaha.md
+- scene/companies/the-juilliard-school.md
+slug: naomi-louisa-oconnell
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/NaomiLOConnell
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/naomi_louisa_oconnell/
+title: Naomi Louisa O'Connell
+website: https://www.naomioconnell.com/
+_template: "people_single"
+---
 Hailed by The New York Times as “radiant,” Irish actor/singer Naomi Louisa O’Connell made her critically acclaimed stage debut opposite Tyne Daly on London’s West End in Terrence McNally’s play Master Class, produced by Sonia Friedman at the Vaudeville Theatre in 2012.  The Times called her performance “…spectacular,” and The Independent lauded her “…thrilling rendering of an aria from Verdi’s _Macbeth_.”
 
 Naomi trained at The Juilliard School as a singer, and graduated in 2013 from the Artist Diploma in Opera Studies program (the only intensive acting program for singers in the world) under the tutelage of director Stephen Wadsworth. In the USA, she headlined the 2014 McCarter Theatre productions of the Beaumarchais Figaro Plays, playing the role of Rosine/Countess Almaviva in _The Marriage of Figaro_ and _The Barber of Seville_.  In 2016, she joined the Cincinnati Symphony for their Pelléas Trilogy, playing the role of Mélisande in a new translation of the Maeterlinck play _Pelléas & Mélisande_. She returned the following year to play the same role in the opera of Debussy, conducted by Louis Langrée, where she was hailed as a “wistful, other-worldly Mélisande” by Musical America.

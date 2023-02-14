@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-10-14T15:44:00+01:00"
-lastmod = "2016-10-17T16:52:00+01:00"
-preamble = "[Opera On Tap](/scene/companies/opera-on-tap/) is pairing episodic opera with virtual reality, with their new series, [*The Parksville Murders*](http://theparksvillemurders.com/). With music by Kamala Sankaram, libretto by Jerre Dye, and directed by Cari Ann Shim Sham\\*, *The Parksville Murders* is a horror opera, created specifically for a virtual reality experience. How cool is that? Audiences can tune in with their VR technology of choice (more on that below), to get both an entirely new operatic experience, while being completely creeped out.\n\nOn October 27, Opera On Tap is holding a [special preview event](https://www.eventbrite.com/e/the-parksville-murders-exclusive-preview-event-tickets-28072123477) at the Archway Under Manhattan Bridge, 80 Pearl St., New York, where audiences can watch the full pilot episode. [Click here](https://www.eventbrite.com/e/the-parksville-murders-exclusive-preview-event-tickets-28072123477) for tickets.\n\nWe spoke with Opera On Tap about the creation of *The Parksville Murders*, and how you can tune in."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615477955/2016-10-16---PM-Square.jpg.jpg"
-primary_image_credit = "Photo by Cari Ann Shim Sham*."
-publishDate = "2016-10-17T10:28:00+01:00"
-related_articles = ["articles/draculas-neighbour-nancy-allen-lundy.md"]
-related_companies = ["scene/companies/opera-on-tap.md"]
-short_description = "&quot;In episode 1, two young women (Sarah and Corrine) wake up confused and terrified in a dark, surreal, music-filled world of incongruities and evil intentions, a space where Time seems to have curved in on itself somehow. Grotesque, masked figures slowly gather around the two from the corners of the darkened room, ceremoniously awaiting the women’s fate.&quot;"
-slug = "opera-in-virtual-reality-the-parksville-murders"
-title = "Opera in virtual reality: The Parksville Murders"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-10-14T15:44:00+01:00"
+lastmod: "2016-10-17T16:52:00+01:00"
+preamble: |-
+  [Opera On Tap](/scene/companies/opera-on-tap/) is pairing episodic opera with virtual reality, with their new series, [*The Parksville Murders*](http://theparksvillemurders.com/). With music by Kamala Sankaram, libretto by Jerre Dye, and directed by Cari Ann Shim Sham\*, *The Parksville Murders* is a horror opera, created specifically for a virtual reality experience. How cool is that? Audiences can tune in with their VR technology of choice (more on that below), to get both an entirely new operatic experience, while being completely creeped out.
+
+  On October 27, Opera On Tap is holding a [special preview event](https://www.eventbrite.com/e/the-parksville-murders-exclusive-preview-event-tickets-28072123477) at the Archway Under Manhattan Bridge, 80 Pearl St., New York, where audiences can watch the full pilot episode. [Click here](https://www.eventbrite.com/e/the-parksville-murders-exclusive-preview-event-tickets-28072123477) for tickets.
+
+  We spoke with Opera On Tap about the creation of *The Parksville Murders*, and how you can tune in.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615477955/2016-10-16---PM-Square.jpg.jpg
+primary_image_credit: Photo by Cari Ann Shim Sham*.
+publishDate: "2016-10-17T10:28:00+01:00"
+related_articles:
+- articles/draculas-neighbour-nancy-allen-lundy.md
+related_companies:
+- scene/companies/opera-on-tap.md
+short_description: '&quot;In episode 1, two young women (Sarah and Corrine) wake up
+  confused and terrified in a dark, surreal, music-filled world of incongruities and
+  evil intentions, a space where Time seems to have curved in on itself somehow. Grotesque,
+  masked figures slowly gather around the two from the corners of the darkened room,
+  ceremoniously awaiting the women’s fate.&quot;'
+slug: opera-in-virtual-reality-the-parksville-murders
+title: 'Opera in virtual reality: The Parksville Murders'
+_template: article_single
+---
 
 ## What can you tell us about *The Parksville Murders*?
 
@@ -30,7 +43,10 @@ Additionally we're utilizing a cutting edge 3D audio technology called sound spa
 
 How do you enter virtual reality?  Through a headset that is connected to your smartphone.  You can watch a video that is formatted for virtual reality on Youtube or Facebook, or via a custom app that is created for the VR film.  Headsets are as cheap as $15, i.e., Google Cardboard, and as expensive as $800, i.e., Oculus Rift. Oculus Rift has its own computer system and does not require a separate smartphone to operate.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615578296/2016-10-16---PM-Cemetery.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615578296/2016-10-16---PM-Cemetery.jpg.jpg)
+
 <figcaption>Photo by Cari Ann Shim Sham*.</figcaption>
 </figure>
 
@@ -42,7 +58,10 @@ The rehearsal process was very different, and much more like the process is for 
 
 We're planning 12 episodes in season 1.  Episode 2 is several months away.  Episode 1 will go public in late January when we will take it on the film festival circuit.  We're calling it our pilot episode and hope to partner with a distribution platform post-festival run to finish the season.  Stay tuned!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615637553/2016-10-16---PM.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615637553/2016-10-16---PM.jpg.jpg)
+
 <figcaption>Photo by Cari Ann Shim Sham*.</figcaption>
 </figure>
 
@@ -50,7 +69,10 @@ We're planning 12 episodes in season 1.  Episode 2 is several months away.  Epis
 
 Our company has always focused on finding ways to make opera more accessible to a broader audience. There is nothing about this project that doesn’t resonate with our mission.  We specialize in 'opera up close' and have created a national infrastructure for distributing that concept nationally. *The Parksville Murders* allows us to take a logical next step in not only utilizing the distribution channels we have created through our infrastructure but in further distributing opera to a larger national audience through cross-pollination of multiple genres and through the online accessibility of the content we create.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615726562/Opera%20on%20Tap%20FB%20Event%20header.jpg.jpg)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615726562/Opera%20on%20Tap%20FB%20Event%20header.jpg.jpg)
+
+<figure>
 
 >For more details, [click right here.](http://theparksvillemurders.com/)

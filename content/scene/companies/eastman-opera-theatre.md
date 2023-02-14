@@ -1,30 +1,30 @@
-+++
-date = "2016-04-27T18:29:00+01:00"
-lastmod = "2016-04-27T18:34:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461776789633/2016-04-27---Eastman-School-of-Music-Logo.jpg.jpg"
-publishDate = "2016-04-27T18:29:00+01:00"
-related_people = ["scene/people/nicole-cabell.md","scene/people/renee-fleming.md"]
-slug = "eastman-opera-theatre"
-title = "Eastman Opera Theatre"
-type_of_company = "Music School"
-website = "http://www.esm.rochester.edu/voice/eastman-opera-theatre/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/EastmanSchool/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/EastmanSchool"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/eastman.school/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/EastmanSchool"
-+++
+---
+date: "2016-04-27T18:29:00+01:00"
+lastmod: "2016-04-27T18:34:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461776789633/2016-04-27---Eastman-School-of-Music-Logo.jpg.jpg
+publishDate: "2016-04-27T18:29:00+01:00"
+related_people:
+- scene/people/nicole-cabell.md
+- scene/people/renee-fleming.md
+slug: eastman-opera-theatre
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/EastmanSchool/?fref=ts
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/EastmanSchool
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/eastman.school/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/user/EastmanSchool
+title: Eastman Opera Theatre
+type_of_company: Music School
+website: http://www.esm.rochester.edu/voice/eastman-opera-theatre/
+_template: "company_single"
+---
 
 Eastman Opera Theatre offers a comprehensive program of training and performance opportunities.  Many Eastman graduates, like distinguished alumni Renée Fleming, Anthony Dean Griffey, and Nicole Cabell, enter the operatic profession as a natural extension of this experience.
 

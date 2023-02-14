@@ -1,14 +1,19 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-03-24T13:03:00+00:00"
-lastmod = "2017-03-25T11:55:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490368053394/2017-03-24---Booze.jpg.jpg"
-publishDate = "2017-03-25T11:35:00+00:00"
-short_description = "There&#039;s something to be said for adding personal comportment to the long list of must-haves within the competitive industry of opera; with so many great singers vying for coveted professional spots, why give the gigs to the man who drinks so much that he smashes peoples&#039; heads against toilet bowls?"
-slug = "poor-decisions-professional-consequences"
-title = "Poor decisions &amp; professional consequences"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-03-24T13:03:00+00:00"
+lastmod: "2017-03-25T11:55:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490368053394/2017-03-24---Booze.jpg.jpg
+publishDate: "2017-03-25T11:35:00+00:00"
+short_description: There&#039;s something to be said for adding personal comportment
+  to the long list of must-haves within the competitive industry of opera; with so
+  many great singers vying for coveted professional spots, why give the gigs to the
+  man who drinks so much that he smashes peoples&#039; heads against toilet bowls?
+slug: poor-decisions-professional-consequences
+title: Poor decisions &amp; professional consequences
+_template: article_single
+---
 
 This week, we learned of a disturbing story involving Korean tenor [Alfred Kim](http://slippedisc.com/2017/03/toulouse-stops-opera-after-tenor-is-arrested-for-domestic-abuse/), who was given an 8-month suspended sentence and an €8000 fine after he dragged a woman by her hair and banged her head against a toilet seat ["to the point of breaking it"](http://slippedisc.com/2017/03/toulouse-stops-opera-after-tenor-is-arrested-for-domestic-abuse/) in temporary apartment/hotel in Toulouse. The tenor was in town to sing in *Ernani* at the Théâtre du Capitole, and following Kim's arrest, the opera house cancelled its final performance.
 

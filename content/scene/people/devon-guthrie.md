@@ -1,26 +1,30 @@
-+++
-date = "2018-03-18T21:21:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-03-18T21:21:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521422420736/devon-guthrie-headshot.jpg.jpg"
-publishDate = "2018-03-18T21:21:00-04:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/the-santa-fe-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/opera-philadelphia.md","scene/companies/houston-grand-opera.md"]
-slug = "devon-guthrie"
-title = "Devon Guthrie"
-website = "https://www.devonguthrie.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/DevonGuthrieSoprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/devguthrie"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/devon_guthrie/"
-+++
+---
+date: "2018-03-18T21:21:00-04:00"
+discipline: Soprano
+lastmod: "2018-03-18T21:21:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521422420736/devon-guthrie-headshot.jpg.jpg
+publishDate: "2018-03-18T21:21:00-04:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/houston-grand-opera.md
+slug: devon-guthrie
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/DevonGuthrieSoprano
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/devguthrie
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/devon_guthrie/
+title: Devon Guthrie
+website: https://www.devonguthrie.com/
+_template: "people_single"
+---
 
 American soprano Devon Guthrie made an acclaimed debut as Susanna in a new production of *Le nozze di Figaro* at English National Opera when she was still a student at the Juilliard School.
 

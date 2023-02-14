@@ -1,17 +1,24 @@
-+++
-date = "2015-09-04T14:33:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-09-04T14:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441391203905/NatalyaHeadshotSquare.jpg.jpg"
-publishDate = "2015-09-04T14:46:00-04:00"
-related_companies = ["scene/companies/voicebox-opera-in-concert.md","scene/companies/oshawa-opera.md","scene/companies/opera-5.md","scene/companies/opera-nuova.md","scene/companies/university-of-toronto-opera.md","scene/companies/opera-by-request.md"]
-slug = "natalya-matyusheva"
-title = "Natalya Matyusheva"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/natalya.matyusheva?fref=ts"
-+++
+---
+date: "2015-09-04T14:33:00-04:00"
+discipline: Soprano
+lastmod: "2015-09-04T14:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441391203905/NatalyaHeadshotSquare.jpg.jpg
+publishDate: "2015-09-04T14:46:00-04:00"
+related_companies:
+- scene/companies/voicebox-opera-in-concert.md
+- scene/companies/oshawa-opera.md
+- scene/companies/opera-5.md
+- scene/companies/opera-nuova.md
+- scene/companies/university-of-toronto-opera.md
+- scene/companies/opera-by-request.md
+slug: natalya-matyusheva
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/natalya.matyusheva?fref=ts
+title: Natalya Matyusheva
+_template: "people_single"
+---
 
 Ukrainian Canadian soprano Natalya Gennadi Matyusheva began her vocal studies at the University of Ottawa, and is a recent graduate of the University of Toronto where she received her Master's degree in Operatic Performance. Natalya successfully performed lead roles in *The Medium*, *Carmen*, *Le nozze di Figaro*, and *Die Zauberflöte* with University of Ottawa Opera company. She appeared in the title role in *The Merry Widow* with the Savoy Theatre Society in the 2010-2011 season and participated in Opera Lyra Ottawa productions.
 

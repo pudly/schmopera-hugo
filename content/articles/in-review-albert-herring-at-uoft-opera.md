@@ -1,23 +1,40 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-03-22T11:10:00-04:00"
-lastmod = "2015-04-24T09:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883305749/Herring.jpg.jpg"
-publishDate = "2014-03-22T11:10:00-04:00"
-related_articles = ["articles/in-review-the-telephone-the-medium.md","articles/joel-ivany-were-throwing-a-salon.md","articles/duets-for-lunch-uoft-opera-in-concert.md","articles/reflective-stories-rcms-the-cunning-little-vixen.md"]
-related_companies = ["scene/companies/university-of-toronto-opera.md"]
-related_people = ["scene/people/ryan-downey.md","scene/people/adanya-dunn.md","scene/people/iain-macneil.md","scene/people/joel-ivany.md","scene/people/william-ford.md","scene/people/laurelle-jade-froese.md"]
-short_description = "So much celebration happened on Thursday night. Director Joel Ivany celebrated the opening night of his production of Benjamin Britten&#039;s Albert Herring in the MacMillan theatre at the University of Toronto. UofT celebrated the 50th anniversary of its first opera performance in 1964: Albert Herring. And of course, everyone celebrated Albert the Good."
-slug = "in-review-albert-herring-at-uoft-opera"
-title = "In review: Albert Herring at UofT Opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-03-22T11:10:00-04:00"
+lastmod: "2015-04-24T09:56:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883305749/Herring.jpg.jpg
+publishDate: "2014-03-22T11:10:00-04:00"
+related_articles:
+- articles/in-review-the-telephone-the-medium.md
+- articles/joel-ivany-were-throwing-a-salon.md
+- articles/duets-for-lunch-uoft-opera-in-concert.md
+- articles/reflective-stories-rcms-the-cunning-little-vixen.md
+related_companies:
+- scene/companies/university-of-toronto-opera.md
+related_people:
+- scene/people/ryan-downey.md
+- scene/people/adanya-dunn.md
+- scene/people/iain-macneil.md
+- scene/people/joel-ivany.md
+- scene/people/william-ford.md
+- scene/people/laurelle-jade-froese.md
+short_description: 'So much celebration happened on Thursday night. Director Joel
+  Ivany celebrated the opening night of his production of Benjamin Britten&#039;s
+  Albert Herring in the MacMillan theatre at the University of Toronto. UofT celebrated
+  the 50th anniversary of its first opera performance in 1964: Albert Herring. And
+  of course, everyone celebrated Albert the Good.'
+slug: in-review-albert-herring-at-uoft-opera
+title: 'In review: Albert Herring at UofT Opera'
+_template: article_single
+---
 
 So much celebration happened on Thursday night. Director [Joel Ivany](http://www.joelivany.com/index/biography.html) celebrated the opening night of his production of Benjamin Britten's _Albert Herring_ in the MacMillan theatre at the University of Toronto. UofT celebrated the [50th anniversary](http://performance.rcmusic.ca/event/university-toronto-faculty-music-presents-brbritten-albert-herring-2) of its first opera performance in 1964: _Albert Herring_. And of course, everyone celebrated Albert the Good.
 
 I was able to catch the opening night performance of _Albert Herring_ at the University of Toronto, and I'm so glad I did. Thursday night's cast was well-balanced, an important element when presenting what's really an ensemble piece; _Herring_ is a little bit about everyone. Kudos go to Joel Ivany for showing characters that are specific and recognizable; we began to feel as though we had known them for years.
 
- <figure data-type="image">{{% md %}} ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883385812/JanFinal.jpg.jpg)
+ <figure data-type="image"> ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883385812/JanFinal.jpg.jpg)
  <figcaption>Tenor Jan Nato</figcaption>
  </figure>
 
@@ -29,7 +46,10 @@ In the role of Nancy was mezzo-soprano Melissa Peiou. She sang well, but I was l
 
 [Christina Bell](https://twitter.com/ziggy_1089) was delightfully shrill and self-important as Lady Billows. Christina sang with plenty of power, but I sensed a tendency for her to hold back her sound. The role of Lady Billows is a big, ridiculous, vocal hyperbole, and it almost seemed as though Christina didn't quite grasp why Britten's writing is so funny. I'm curious to hear her sing other repertoire, since I'm not convinced I got a good slice of her skills in this particular role.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883455355/Laurelle.jpeg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883455355/Laurelle.jpeg)
+
 <figcaption>Mezzo-soprano Laurelle Jade</figcaption>
 </figure>
 
@@ -37,7 +57,9 @@ Laurelle Jade was hilariously uppity and self-righteous as Lady Billows' houseke
 
 Another highlight was Sonya Gosse as Albert's mum, Mrs. Herring. Sonya is an alumna of the UofT Opera program; it was fitting to have her as a part of this production of _Albert Herring_, and it helped that she was fantastic in the role. She was sufficiently overbearing and attention-hogging without crossing the line of caricature, and I loved watching her throughout the opera's final scene as she "grieved" for her lost son. Sonya is a regular member of the COC Chorus, and it was there that I got to know Sonya a bit over the years; it was really great for me to see her in a role that showcased her skills so well.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883512089/Adanya.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883512089/Adanya.jpg.jpg)
 </figcaption>Soprano Adanya Dunn</figcaption>
 </figure>
 

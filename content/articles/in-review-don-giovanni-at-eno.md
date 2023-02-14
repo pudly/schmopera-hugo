@@ -1,18 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-10-01T00:05:00+01:00"
-lastmod = "2016-10-01T13:00:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475276672012/2016-09-30---ENO-Don-Giovanni-Christopher-Purves-5-Robert-Workman.jpg.jpg"
-primary_image_credit = "Christopher Purves in the title role of Don Giovanni, ENO, 2016. Photo: Robert Workman."
-publishDate = "2016-10-01T11:48:00+01:00"
-related_articles = ["articles/in-review-madam-butterfly-at-eno.md","articles/in-review-tristan-and-isolde-at-eno.md","articles/in-review-enos-the-magic-flute.md","articles/in-review-tosca-at-eno.md","articles/in-review-don-giovanni-at-nashville-opera.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/christopher-purves.md","scene/people/allan-clayton.md","scene/people/christine-rice.md","scene/people/mary-bevan.md"]
-short_description = "So, it was a real moment of excitement to settle into the first minutes of Richard Jones&#039;s new production at English National Opera. His is a production that ingeniously straddles the line between the symbolic and the real; the characters are at once archetypes - the virgin, the scorned, the doting boyfriend - and specific people."
-slug = "in-review-don-giovanni-at-eno"
-title = "In review: Don Giovanni at ENO"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-10-01T00:05:00+01:00"
+lastmod: "2016-10-01T13:00:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475276672012/2016-09-30---ENO-Don-Giovanni-Christopher-Purves-5-Robert-Workman.jpg.jpg
+primary_image_credit: 'Christopher Purves in the title role of Don Giovanni, ENO,
+  2016. Photo: Robert Workman.'
+publishDate: "2016-10-01T11:48:00+01:00"
+related_articles:
+- articles/in-review-madam-butterfly-at-eno.md
+- articles/in-review-tristan-and-isolde-at-eno.md
+- articles/in-review-enos-the-magic-flute.md
+- articles/in-review-tosca-at-eno.md
+- articles/in-review-don-giovanni-at-nashville-opera.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/christopher-purves.md
+- scene/people/allan-clayton.md
+- scene/people/christine-rice.md
+- scene/people/mary-bevan.md
+short_description: So, it was a real moment of excitement to settle into the first
+  minutes of Richard Jones&#039;s new production at English National Opera. His is
+  a production that ingeniously straddles the line between the symbolic and the real;
+  the characters are at once archetypes - the virgin, the scorned, the doting boyfriend
+  - and specific people.
+slug: in-review-don-giovanni-at-eno
+title: 'In review: Don Giovanni at ENO'
+_template: article_single
+---
 
 Mozart's *Don Giovanni* is an opera that attracts, and puzzles; directors have deemed it "flawed," and at their higher moments of stress, "impossible to direct." That last one may be hyperbole, but just like the man himself, *Giovanni* comes with challenges.
 
@@ -20,7 +37,10 @@ So, it was a real moment of excitement to settle into the first minutes of Richa
 
 "How do you play Don Giovanni?" Asked Christopher Purves [in an interview](/talking-with-singers-christopher-purves/) about singing the title role. "You just don't - other people do it for you."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475276560568/2016-09-30---ENO-Don-Giovanni-Christopher-Purves-2-Robert-Workman.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475276560568/2016-09-30---ENO-Don-Giovanni-Christopher-Purves-2-Robert-Workman.jpg.jpg)
+
 <figcaption>Christopher Purves in *Don Giovanni*, ENO, 2016. Photo: Robert Workman.</figcaption>
 </figure>
 
@@ -30,6 +50,7 @@ That angle seemed to be at the root of the large and small of this production. O
 
 <figure data-type"image">
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475276507284/2016-09-30---ENO-Don-Giovanni-Caitlin-Lynch-and-Allan-Clayton-Robert-Workman.jpg.jpg)
+
 <figcaption>Caitlin Lynch and Allan Clayton in *Don Giovanni*, ENO, 2016. Photo: Robert Workman.</figcaption>
 </figure>
 
@@ -37,6 +58,7 @@ Caitlyn Lynch, in her ENO debut, was a pitiful Donna Anna, yet for more interest
 
 <figure data-type"image">
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475276517070/2016-09-30---ENO-Don-Giovanni-Nicholas-Crawley-and-Mary-Bevan-1-Robert-Workman.jpg.jpg)
+
 <figcaption>Nicholas Crawley and Mary Bevan in *Don Giovanni*, ENO, 2016. Photo: Robert Workman.</figcaption>
 </figure>
 
@@ -44,6 +66,7 @@ Mary Bevan and Nicholas Crawley were energetic and at odds as Zerlina and Masett
 
 <figure data-type"image">
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475276482823/2016-09-30---ENO-Don-Giovanni-Allan-Clayton-Christine-Rice-Robert-Workman.jpg.jpg)
+
 <figcaption>Christine Rice, Allan Clayton (background), in *Don Giovanni*, ENO, 2016. Photo: Robert Workman.</figcaption>
 </figure>
 
@@ -51,6 +74,7 @@ Christine Rice was a heartfelt Donna Elvira. Jones seemed to let the character s
 
 <figure data-type"image">
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475318002310/2016-09-30---ENO-Don-Giovanni-James-Creswell-Clive-Bayley-Christopher-Purves-Robert-Workman.jpg.jpg)
+
 <figcaption>James Creswell, Clive Bayley, and Christopher Purves in *Don Giovanni*, ENO, 2016. Photo: Robert Workman.</figcaption>
 </figure>
 

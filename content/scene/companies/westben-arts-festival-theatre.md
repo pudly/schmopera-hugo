@@ -1,23 +1,24 @@
-+++
-date = "2016-01-12T12:56:00-05:00"
-lastmod = "2016-01-12T12:56:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546481309/media/2019/01/Logo-WestbenArtsFestivalTheatre.png"
-publishDate = "2016-01-12T12:56:00-05:00"
-related_people = ["scene/people/virginia-hatfield.md", "scene/people/alexander-dobson.md"]
-slug = "westben-arts-festival-theatre"
-title = "Westben Arts Festival Theatre"
-type_of_company = "Music and Theatre Festival"
-website = "http://www.westben.ca/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/westbenconcerts?pnref=lhc"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/WestbenTheatre"
-
-+++
+---
+date: "2016-01-12T12:56:00-05:00"
+lastmod: "2016-01-12T12:56:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546481309/media/2019/01/Logo-WestbenArtsFestivalTheatre.png
+publishDate: "2016-01-12T12:56:00-05:00"
+related_people:
+- scene/people/virginia-hatfield.md
+- scene/people/alexander-dobson.md
+slug: westben-arts-festival-theatre
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/westbenconcerts?pnref=lhc
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/WestbenTheatre
+title: Westben Arts Festival Theatre
+type_of_company: Music and Theatre Festival
+website: http://www.westben.ca/
+_template: "company_single"
+---
 It is a magical blend of world class music, wonderful people and a magnificent setting.
 
 In 1990, soprano Donna Bennett and pianist / composer Brian Finley were enjoying the early stages of international careers. Having lived and worked for several years in Europe, they returned to Donna’s hometown of Campbellford, Ontario to start a family.

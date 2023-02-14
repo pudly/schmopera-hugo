@@ -1,17 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-10-09T14:32:00-04:00"
-lastmod = "2015-10-13T09:13:00-04:00"
-preamble = "Canadian countertenor [Daniel Cabena](/scene/people/daniel-cabena/) will soon head to Vancouver to collaborate with the British Columbia-based [Turning Point Ensemble](http://turningpointensemble.ca/about/history/), and singers Zorana Sadiq and Alexander Dobson on Jürgen Simpson's new opera, [*air india [redacted]*](http://turningpointensemble.ca/tpe-concerts/air-india-redacted/). Presented November 6-11th by TPE and Simon Fraser University Woodward's Cultural Programs, *air india [redacted]* is an operatic telling of the bombing of Air India flight 182 in June, 1985; 329 people, most Canadians, were killed in the bombing, and it's a story that is \"under-represented in our national psyche\". \n\nDaniel Cabena is a wonderfully thoughtful artist; I asked him about his unique vocal Fach, splitting his time between old music and new music, and his \"ardent hope that the experience of hearing *Air India [redacted]* will be a healing one.\" For details and tickets, follow the box office links below."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444573044739/Daniel_Cabena_Headshot_2015_5x7Square.jpg.jpg"
-primary_image_credit = "Photo: Veronika Roux"
-publishDate = "2015-10-13T09:04:00-04:00"
-related_people = ["scene/people/daniel-cabena.md"]
-short_description = "Canadian countertenor Daniel Cabena will soon head to Vancouver to collaborate with the British Columbia-based Turning Point Ensemble, and singers Zorana Sadiq and Alexander Dobson on Jürgen Simpson&#039;s new opera, air india [redacted]. Presented November 6-11th by TPE and Simon Fraser University Woodward&#039;s Cultural Programs, air india [redacted] is an operatic telling of the bombing of Air India flight 182 in June, 1985."
-slug = "daniel-cabena-on-air-india-redacted"
-title = "Daniel Cabena on air india [redacted]"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-10-09T14:32:00-04:00"
+lastmod: "2015-10-13T09:13:00-04:00"
+preamble: "Canadian countertenor [Daniel Cabena](/scene/people/daniel-cabena/) will
+  soon head to Vancouver to collaborate with the British Columbia-based [Turning Point
+  Ensemble](http://turningpointensemble.ca/about/history/), and singers Zorana Sadiq
+  and Alexander Dobson on Jürgen Simpson's new opera, [*air india [redacted]*](http://turningpointensemble.ca/tpe-concerts/air-india-redacted/).
+  Presented November 6-11th by TPE and Simon Fraser University Woodward's Cultural
+  Programs, *air india [redacted]* is an operatic telling of the bombing of Air India
+  flight 182 in June, 1985; 329 people, most Canadians, were killed in the bombing,
+  and it's a story that is \"under-represented in our national psyche\". \n\nDaniel
+  Cabena is a wonderfully thoughtful artist; I asked him about his unique vocal Fach,
+  splitting his time between old music and new music, and his \"ardent hope that the
+  experience of hearing *Air India [redacted]* will be a healing one.\" For details
+  and tickets, follow the box office links below."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444573044739/Daniel_Cabena_Headshot_2015_5x7Square.jpg.jpg
+primary_image_credit: 'Photo: Veronika Roux'
+publishDate: "2015-10-13T09:04:00-04:00"
+related_people:
+- scene/people/daniel-cabena.md
+short_description: Canadian countertenor Daniel Cabena will soon head to Vancouver
+  to collaborate with the British Columbia-based Turning Point Ensemble, and singers
+  Zorana Sadiq and Alexander Dobson on Jürgen Simpson&#039;s new opera, air india
+  [redacted]. Presented November 6-11th by TPE and Simon Fraser University Woodward&#039;s
+  Cultural Programs, air india [redacted] is an operatic telling of the bombing of
+  Air India flight 182 in June, 1985.
+slug: daniel-cabena-on-air-india-redacted
+title: Daniel Cabena on air india [redacted]
+_template: article_single
+---
 
 ### 1. Can you tell us a bit about your role in *air india [redacted]*?
 

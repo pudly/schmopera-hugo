@@ -1,15 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-03-14T12:29:00+00:00"
-lastmod = "2017-03-15T13:12:00+00:00"
-preamble = "Storms are a show unto themselves. The lightning, the horizontal rain, the howling winds; it's no wonder that opera is among the many art forms that capitalize on the inherent tension in a tempest to boost the drama in their stories. Composers seems to relish the opportunity to capture the power of a storm, and the fear and uncertainty they can instill in us mere mortals.\n\nWith all the talk about nasty weather on the horizon, we figured it might be timely (if a little masochistic) to celebrate some of opera's best storm scenes. We chose our top six; if you've got favourites that aren't on this list, [let us know!](mailto:hello@schmopera.com)"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489496704416/2017-03-14---Storm.jpg.jpg"
-publishDate = "2017-03-15T12:58:00+00:00"
-short_description = "Storms are a show unto themselves. The lightning, the horizontal rain, the howling winds; it&#039;s no wonder that opera is among the many art forms that capitalize on the inherent tension in a tempest to boost the drama in their stories. Composers seems to relish the opportunity to capture the power of a storm, and the fear and uncertainty they can instill in us mere mortals."
-slug = "stormy-weather-6-nasty-opera-tempests"
-title = "Stormy weather: 6 nasty opera tempests"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-03-14T12:29:00+00:00"
+lastmod: "2017-03-15T13:12:00+00:00"
+preamble: |-
+  Storms are a show unto themselves. The lightning, the horizontal rain, the howling winds; it's no wonder that opera is among the many art forms that capitalize on the inherent tension in a tempest to boost the drama in their stories. Composers seems to relish the opportunity to capture the power of a storm, and the fear and uncertainty they can instill in us mere mortals.
+
+  With all the talk about nasty weather on the horizon, we figured it might be timely (if a little masochistic) to celebrate some of opera's best storm scenes. We chose our top six; if you've got favourites that aren't on this list, [let us know!](mailto:hello@schmopera.com)
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489496704416/2017-03-14---Storm.jpg.jpg
+publishDate: "2017-03-15T12:58:00+00:00"
+short_description: Storms are a show unto themselves. The lightning, the horizontal
+  rain, the howling winds; it&#039;s no wonder that opera is among the many art forms
+  that capitalize on the inherent tension in a tempest to boost the drama in their
+  stories. Composers seems to relish the opportunity to capture the power of a storm,
+  and the fear and uncertainty they can instill in us mere mortals.
+slug: stormy-weather-6-nasty-opera-tempests
+title: 'Stormy weather: 6 nasty opera tempests'
+_template: article_single
+---
 
 ## *Il barbiere di Siviglia*
 

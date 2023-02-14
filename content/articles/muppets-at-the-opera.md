@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2013-12-19T17:59:00-07:00"
-lastmod = "2017-06-16T22:23:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447952733363/2015-11-19---MuppetsTBT.jpg.jpg"
-publishDate = "2013-12-19T17:59:00-07:00"
-related_articles = ["articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md","articles/hello-papagena.md","articles/36-high-cs-to-perk-up-your-day.md","articles/tarrare-the-freak-i-just-want-to-be-full.md"]
-related_people = ["scene/people/isabel-leonard.md"]
-short_description = "There is this fascinating relationship between opera and the Muppets.  Considering that The Muppet Show follows the blueprint of the classic revue show, it’s not that odd; revues are built on sophisticated satire of anyone or anything famous at the time."
-slug = "muppets-at-the-opera"
-title = "Muppets at the opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2013-12-19T17:59:00-07:00"
+lastmod: "2017-06-16T22:23:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447952733363/2015-11-19---MuppetsTBT.jpg.jpg
+publishDate: "2013-12-19T17:59:00-07:00"
+related_articles:
+- articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md
+- articles/hello-papagena.md
+- articles/36-high-cs-to-perk-up-your-day.md
+- articles/tarrare-the-freak-i-just-want-to-be-full.md
+related_people:
+- scene/people/isabel-leonard.md
+short_description: There is this fascinating relationship between opera and the Muppets.
+   Considering that The Muppet Show follows the blueprint of the classic revue show,
+  it’s not that odd; revues are built on sophisticated satire of anyone or anything
+  famous at the time.
+slug: muppets-at-the-opera
+title: Muppets at the opera
+_template: article_single
+---
 
 There is this fascinating relationship between opera and the Muppets.  Considering that *The Muppet Show* follows the blueprint of the classic [revue show](http://en.wikipedia.org/wiki/Revue), it’s not that odd; revues are built on sophisticated satire of anyone or anything famous at the time.  Most of the guests were actors and/or musicians, including  Alan Arkin, Gilda Radner, Steve Martin, Johnny Cash, Ethel Merman, John Cleese, Alice Cooper and Chewbacca. And honestly, if Chewie gets to grace the Muppet stage with his noble howl, so does Placido Domingo.
 

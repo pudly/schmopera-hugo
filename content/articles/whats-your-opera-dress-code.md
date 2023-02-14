@@ -1,16 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-10-17T13:23:00+01:00"
-lastmod = "2016-10-19T09:32:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476712628846/2016-10-17---Bow-Tie"
-publishDate = "2016-10-19T09:27:00+01:00"
-related_articles = ["articles/freetheknee-part-2-you-have-better-choices.md","articles/a-letter-to-the-modern-diva.md"]
-related_companies = ["scene/companies/grange-park-opera.md","scene/companies/glyndebourne.md"]
-short_description = "The opera world is often full of rich-looking theatres, expensive concessions, and wealthy patrons; but in truth, the vast majority of the artists making it all happen are not in the wealthy camp. They spend staggering proportions of their income on a great pair of shoes, a well-tailored suit, and a few great dresses that they hope will carry them through seasons of donor dinners, after-show cocktail parties, and other events where the starving artists need to look anything but broke."
-slug = "whats-your-opera-dress-code"
-title = "What&#039;s your opera dress code?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-10-17T13:23:00+01:00"
+lastmod: "2016-10-19T09:32:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476712628846/2016-10-17---Bow-Tie
+publishDate: "2016-10-19T09:27:00+01:00"
+related_articles:
+- articles/freetheknee-part-2-you-have-better-choices.md
+- articles/a-letter-to-the-modern-diva.md
+related_companies:
+- scene/companies/grange-park-opera.md
+- scene/companies/glyndebourne.md
+short_description: The opera world is often full of rich-looking theatres, expensive
+  concessions, and wealthy patrons; but in truth, the vast majority of the artists
+  making it all happen are not in the wealthy camp. They spend staggering proportions
+  of their income on a great pair of shoes, a well-tailored suit, and a few great
+  dresses that they hope will carry them through seasons of donor dinners, after-show
+  cocktail parties, and other events where the starving artists need to look anything
+  but broke.
+slug: whats-your-opera-dress-code
+title: What&#039;s your opera dress code?
+_template: article_single
+---
 
 We came upon this [article via *The Telegraph*](http://www.telegraph.co.uk/news/2016/10/15/grange-park-opera-to-abandon-dress-code-and-allow-jeans-and-trai/), about [Grange Park Opera](/scene/companies/grange-park-opera/)'s new venue at West Horsley Place, Surrey, and its revamped dress code. In the name of appealing to younger audiences, and perhaps to people who may consider opera-going to be an activity for the wealthy, the dress codes has been relaxed, with allowances made for things like jeans and trainers. 
 

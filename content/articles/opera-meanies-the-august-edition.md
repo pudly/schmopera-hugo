@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-08-25T12:25:00-04:00"
-lastmod = "2017-08-26T10:22:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503679710240/2017-08-25---Mean.jpg.jpg"
-publishDate = "2017-08-25T21:07:00-04:00"
-related_articles = ["articles/when-critics-are-jerks.md","articles/once-agan-shushing-meanies.md"]
-related_people = ["scene/people/nadine-sierra.md"]
-short_description = "&quot;Nadine Sierra misses out on London debut&quot;, reads Lebrecht&#039;s headline. He goes on: &quot;The US soprano was due to open the Covent Garden season in Richard Jones&#039;s new production of La Bohème, but she has cried off. Her replacements are, if anything, more interesting.&quot;"
-slug = "opera-meanies-the-august-edition"
-title = "Opera meanies: the August edition"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-08-25T12:25:00-04:00"
+lastmod: "2017-08-26T10:22:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503679710240/2017-08-25---Mean.jpg.jpg
+publishDate: "2017-08-25T21:07:00-04:00"
+related_articles:
+- articles/when-critics-are-jerks.md
+- articles/once-agan-shushing-meanies.md
+related_people:
+- scene/people/nadine-sierra.md
+short_description: '&quot;Nadine Sierra misses out on London debut&quot;, reads Lebrecht&#039;s
+  headline. He goes on: &quot;The US soprano was due to open the Covent Garden season
+  in Richard Jones&#039;s new production of La Bohème, but she has cried off. Her
+  replacements are, if anything, more interesting.&quot;'
+slug: opera-meanies-the-august-edition
+title: 'Opera meanies: the August edition'
+_template: article_single
+---
 
 Sometimes I wonder if there's some natural - if counterintuitive - correlation between disciplines that take an extraordinary amount of specialised training, and a fan base that is full of "those who know better than the pros".
 

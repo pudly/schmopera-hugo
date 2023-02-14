@@ -1,16 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-11-22T20:08:00-05:00"
-lastmod = "2018-11-24T12:52:00-05:00"
-preamble = "Montréal-based pianist Wonny Song is gearing up for his upcoming Mooredale Concerts series performance on [**December 2, 3:15pm**](https://www.mooredaleconcerts.com/event/artistic-directors-trio/), with violinist Tien-Hsin Cindy Wu and violist Wei-Yang Andy Lin. That same afternoon at 1:15pm, the trio will also perform [Music & Truffles KIDS](https://www.mooredaleconcerts.com/event/music-truffles-artistic-directors-trio/), a modified, condensed version of their programme for young audiences.\n\nThe group is dubbed the Artistic Directors Trio, since all three players count leadership roles among their multi-faceted careers; Lin is Artistic Director and co-founder of the New Asia Chamber Music Society, Wu is an artistic partner with the Da Camera Society and assistant director of the New Asia Chamber Music Society, and Song is Artistic and Executive Director of Orford Music.\n\nWe spoke with Song about being a chamber pianist, balancing creativity with administration, and the joy of overseeing one of the classical music world's most prestigious academies."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542935142536/sqND3_2354.jpg.jpg"
-primary_image_credit = "Photo by Bo Huang."
-publishDate = "2018-11-24T12:52:00-05:00"
-short_description = "&quot;It is being in a position to help the next generation of artists. I am so energized to see the passion, drive, and commitment of our young musicians. It is a always a challenge to find effective, novel ways to propel them to a successful career. But it does not deter me from creating new projects towards that goal.&quot;"
-slug = "wonny-song-a-great-musician-in-2018-is-a-great-entrepreneur"
-title = "Wonny Song: &quot;A great musician in 2018 is a great entrepreneur.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-11-22T20:08:00-05:00"
+lastmod: "2018-11-24T12:52:00-05:00"
+preamble: |-
+  Montréal-based pianist Wonny Song is gearing up for his upcoming Mooredale Concerts series performance on [**December 2, 3:15pm**](https://www.mooredaleconcerts.com/event/artistic-directors-trio/), with violinist Tien-Hsin Cindy Wu and violist Wei-Yang Andy Lin. That same afternoon at 1:15pm, the trio will also perform [Music & Truffles KIDS](https://www.mooredaleconcerts.com/event/music-truffles-artistic-directors-trio/), a modified, condensed version of their programme for young audiences.
+
+  The group is dubbed the Artistic Directors Trio, since all three players count leadership roles among their multi-faceted careers; Lin is Artistic Director and co-founder of the New Asia Chamber Music Society, Wu is an artistic partner with the Da Camera Society and assistant director of the New Asia Chamber Music Society, and Song is Artistic and Executive Director of Orford Music.
+
+  We spoke with Song about being a chamber pianist, balancing creativity with administration, and the joy of overseeing one of the classical music world's most prestigious academies.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542935142536/sqND3_2354.jpg.jpg
+primary_image_credit: Photo by Bo Huang.
+publishDate: "2018-11-24T12:52:00-05:00"
+short_description: '&quot;It is being in a position to help the next generation of
+  artists. I am so energized to see the passion, drive, and commitment of our young
+  musicians. It is a always a challenge to find effective, novel ways to propel them
+  to a successful career. But it does not deter me from creating new projects towards
+  that goal.&quot;'
+slug: wonny-song-a-great-musician-in-2018-is-a-great-entrepreneur
+title: 'Wonny Song: &quot;A great musician in 2018 is a great entrepreneur.&quot;'
+_template: article_single
+---
 
 ### Do you have any favourite items on your upcoming programme for Mooredale Concerts? How will the programme differ from your concert for young audiences, happening the same day?
 
@@ -26,7 +37,10 @@ Most concert pianos are 7 to 9 feet long; they are incredible instruments with a
 
 I actually find being a pianist complements my duties as Artistic Director, as there are insights from both perpectives that can help both duties. But I do admit that it is sometimes difficult to juggle between the two "jobs", to keep a balance in life. Yet I have always been one to be fuelled by challenges. It is so hard for me to say no to an opportunity, even if that means less sleep and working in the weekends. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542935156745/ND3_2452.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542935156745/ND3_2452.jpg.jpg)
+
 <figcaption>Wonny Song. Photo by Bo Huang.</figcaption>
 </figure>
 

@@ -1,27 +1,41 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2019-04-02T00:37:41+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554170873/media/2019/04/sqSkylarkCosi.jpg"
-primary_image_credit = "KrisAnne Weiss and Tess Altiveros in Skylark Opera's production of Così fan tutte, 2019. Photo courtesy of Skylark Opera."
-related_articles = []
-related_companies = ["scene/companies/skylark-opera.md"]
-related_people = ["scene/people/justin-anthony-spenner.md", "scene/people/tess-altiveros.md", "scene/people/siena-forest.md"]
-short_description = "I felt that underneath the entertaining antics of the cast there was a message to be gleaned from the night, but it was never given the time to come to fruition."
-slug = "in-review-skylark-operas-cosi-fan-tutte"
-title = "In review: Skylark Opera's Così fan tutte"
-youtube_url = ""
+---
+author:
+  - authors/callie-cooper.md
+categories: Review
+date: '2019-04-02T00:37:41+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1554170873/media/2019/04/sqSkylarkCosi.jpg
+primary_image_credit: >-
+  KrisAnne Weiss and Tess Altiveros in Skylark Opera's production of Così fan
+  tutte, 2019. Photo courtesy of Skylark Opera.
+related_articles: []
+related_companies:
+  - scene/companies/skylark-opera.md
+related_people:
+  - scene/people/justin-anthony-spenner.md
+  - scene/people/tess-altiveros.md
+  - scene/people/siena-forest.md
+short_description: >-
+  I felt that underneath the entertaining antics of the cast there was a message
+  to be gleaned from the night, but it was never given the time to come to
+  fruition.
+slug: in-review-skylark-operas-cosi-fan-tutte
+title: 'In review: Skylark Opera''s Così fan tutte'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 Skylark Opera, formerly known as the Opera St. Paul, presented an english abridged version of Mozart's youthful _Cosi fan tutte_ in an intimate setting at The Historic Mounds Theatre. The company used the translation by Ruth and Thomas Martin, but cut the recitatives and replaced it with dialogue written to fit the vision of the production.
 
 Stage director [Robert Neu](http://www.skylarkopera.org/AboutUs.cfm?ID=3) envisioned the opera in present day New Rochelle, New York. (I never fully caught the significance of the specific setting noted in the program.) The stage was set with the piano in the middle and then stairs leading down to a catwalk that went through the audience. It was a little jolting to start hearing contemporary dialogue right off the bat, but it was actually quite seamless. For example: Ferrando and Guglielmo have been drafted to "build the wall!" Needless to say this kind of updating earned uproarious laughter.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554170885/media/2019/04/SkylarkCosi1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554170885/media/2019/04/SkylarkCosi1.jpg)
 
 <figcaption>Siena Forest and Luke Williams in Skylark Opera's production of Così fan tutte, 2019. Photo courtesy of Skylark Opera.</figcaption>
 
@@ -37,7 +51,9 @@ The fascinating twist was in the final scene, when the men confront Fiordiligi a
 
 Despina then sits at the edge of the stage head in hands lamenting on how "tricks you play on other people are also played on you." I was really intrigued by this tense ending between Despina and Alfonso, I just wish it hadn't been so out of the blue. The relationship and its issues could have been brought out more throughout the opera.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554170911/media/2019/04/SkylarkCosi2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554170911/media/2019/04/SkylarkCosi2.jpg)
 
 <figcaption>KrisAnne Weiss and Laurent Kuehl, Luke Williams, Tess Altiveros and Justin Spenner; Nathan Cicero (Music Director) in Skylark Opera's production of Così fan tutte, 2019. Photo courtesy of Skylark Opera.</figcaption>
 

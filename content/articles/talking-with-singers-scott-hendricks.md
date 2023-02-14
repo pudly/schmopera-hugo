@@ -1,18 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-01-26T15:26:00+00:00"
-lastmod = "2017-01-28T10:48:00+00:00"
-preamble = "American baritone Scott Hendricks is currently in his home state of Texas, singing the title role in [Houston Grand Opera](/scene/companies/houston-grand-opera/)'s production of [*Nixon in China*](http://www.houstongrandopera.org/scheduletickets/2016-17-season/performances/nixon-in-china/). Later this season, he returns to the [Royal Opera House](/scene/companies/royal-opera-house/) to sing another American, Sharpless in *Madama Butterfly*. \n\nWe spoke with Hendricks about catching the \"opera bug\", stay on track as Richard Nixon, and the role he connects with most."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485444502065/2017-01-26---Scott-Hendricks.jpg.jpg"
-publishDate = "2017-01-28T10:48:00+00:00"
-related_articles = ["articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-daniel-okulitch.md","articles/talking-with-singers-bryan-register.md"]
-related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/scott-hendricks.md"]
-short_description = "&quot;This is a very good question. Firstly, my current self would tell my younger self to keep studying voice on a consistent basis. This is difficult because we travel so much and we&#039;re away from home for weeks and months at a time. Regardless, it&#039;s important to make time for touching base with your voice teacher and/or vocal coach.&quot;"
-slug = "talking-with-singers-scott-hendricks"
-title = "Talking with singers: Scott Hendricks"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-01-26T15:26:00+00:00"
+lastmod: "2017-01-28T10:48:00+00:00"
+preamble: "American baritone Scott Hendricks is currently in his home state of Texas,
+  singing the title role in [Houston Grand Opera](/scene/companies/houston-grand-opera/)'s
+  production of [*Nixon in China*](http://www.houstongrandopera.org/scheduletickets/2016-17-season/performances/nixon-in-china/).
+  Later this season, he returns to the [Royal Opera House](/scene/companies/royal-opera-house/)
+  to sing another American, Sharpless in *Madama Butterfly*. \n\nWe spoke with Hendricks
+  about catching the \"opera bug\", stay on track as Richard Nixon, and the role he
+  connects with most."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485444502065/2017-01-26---Scott-Hendricks.jpg.jpg
+publishDate: "2017-01-28T10:48:00+00:00"
+related_articles:
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/talking-with-singers-daniel-okulitch.md
+- articles/talking-with-singers-bryan-register.md
+related_companies:
+- scene/companies/houston-grand-opera.md
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/scott-hendricks.md
+short_description: '&quot;This is a very good question. Firstly, my current self would
+  tell my younger self to keep studying voice on a consistent basis. This is difficult
+  because we travel so much and we&#039;re away from home for weeks and months at
+  a time. Regardless, it&#039;s important to make time for touching base with your
+  voice teacher and/or vocal coach.&quot;'
+slug: talking-with-singers-scott-hendricks
+title: 'Talking with singers: Scott Hendricks'
+_template: article_single
+---
 
 ## Why do you sing professionally?
 

@@ -1,18 +1,19 @@
-+++
-date = "2017-01-11T16:46:00+00:00"
-discipline = "Tenor"
-lastmod = "2017-01-11T16:46:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484153194074/2017-01-11---Mauro-Peter.jpg.jpg"
-primary_image_credit = "Christian Felber"
-publishDate = "2017-01-11T16:46:00+00:00"
-slug = "mauro-peter"
-title = "Mauro Peter"
-website = "http://www.mauropeter.com/index.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Mauro-Peter-299462136859405/?fref=ts"
-+++
+---
+date: "2017-01-11T16:46:00+00:00"
+discipline: Tenor
+lastmod: "2017-01-11T16:46:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484153194074/2017-01-11---Mauro-Peter.jpg.jpg
+primary_image_credit: Christian Felber
+publishDate: "2017-01-11T16:46:00+00:00"
+slug: mauro-peter
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Mauro-Peter-299462136859405/?fref=ts
+title: Mauro Peter
+website: http://www.mauropeter.com/index.html
+_template: "people_single"
+---
 
 Born in Lucerne, Switzerland, Mauro Peter received his musical training at the Hochschule für Musik und Theater München with Fenna Kügel-Seifried, and in Helmut Deutsch's Lied class. In 2012, he was the winner of Robert Schumann Competition in Zwickau, where he was awarded the 1st Prize and the Audience prize. In the same year, he made his successful debut as a lieder recitalist at the Schubertiade in Hohenems and Schwarzenberg, performing *Die schöne Müllerin* with Helmut Deutsch.
  

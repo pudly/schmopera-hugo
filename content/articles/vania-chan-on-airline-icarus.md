@@ -1,17 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2014-05-30T06:30:00-04:00"
-lastmod = "2015-04-23T19:34:00-04:00"
-preamble = "Canadian lyric coloratura soprano [Vania Chan](http://www.vaniachan.com/live/) splits her time between Early Music like Mozart and Rameau, and New Music, like the upcoming _[Airline Icarus](http://www.soundstreams.ca/airline-icarus), opening in Toronto on [June 3rd](https://www.facebook.com/events/333861200079679)._ [Brian Current](http://www.briancurrent.com/airline-icarus/)'s opera, set to Anton Piatigorsky's libretto, tells the stories of several passengers on a Cleveland-bound flight. Vania answered some questions of mine about _Airline Icarus_, working on an opera with its composer, and what's common between Early and New Music."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429832025989/Vania-Chans-Coloured-Headshot-copy-682x1024.jpeg"
-publishDate = "2014-05-30T06:30:00-04:00"
-related_companies = ["scene/companies/soundstreams.md"]
-related_people = ["scene/people/brian-current.md","scene/people/vania-chan.md"]
-short_description = "Canadian lyric coloratura soprano Vania Chan splits her time between Early Music like Mozart and Rameau, and New Music, like the upcoming Airline Icarus, opening in Toronto on June 3rd. Brian Current&#039;s opera, set to Anton Piatigorsky&#039;s libretto, tells the stories of several passengers on a Cleveland-bound flight. "
-slug = "vania-chan-on-airline-icarus"
-title = "Vania Chan on Airline Icarus"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2014-05-30T06:30:00-04:00"
+lastmod: "2015-04-23T19:34:00-04:00"
+preamble: Canadian lyric coloratura soprano [Vania Chan](http://www.vaniachan.com/live/)
+  splits her time between Early Music like Mozart and Rameau, and New Music, like
+  the upcoming _[Airline Icarus](http://www.soundstreams.ca/airline-icarus), opening
+  in Toronto on [June 3rd](https://www.facebook.com/events/333861200079679)._ [Brian
+  Current](http://www.briancurrent.com/airline-icarus/)'s opera, set to Anton Piatigorsky's
+  libretto, tells the stories of several passengers on a Cleveland-bound flight. Vania
+  answered some questions of mine about _Airline Icarus_, working on an opera with
+  its composer, and what's common between Early and New Music.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429832025989/Vania-Chans-Coloured-Headshot-copy-682x1024.jpeg
+publishDate: "2014-05-30T06:30:00-04:00"
+related_companies:
+- scene/companies/soundstreams.md
+related_people:
+- scene/people/brian-current.md
+- scene/people/vania-chan.md
+short_description: 'Canadian lyric coloratura soprano Vania Chan splits her time between
+  Early Music like Mozart and Rameau, and New Music, like the upcoming Airline Icarus,
+  opening in Toronto on June 3rd. Brian Current&#039;s opera, set to Anton Piatigorsky&#039;s
+  libretto, tells the stories of several passengers on a Cleveland-bound flight. '
+slug: vania-chan-on-airline-icarus
+title: Vania Chan on Airline Icarus
+_template: article_single
+---
 
 ### Do you like flying?
 

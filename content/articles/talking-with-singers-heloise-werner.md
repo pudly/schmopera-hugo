@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-10-11T13:40:00+01:00"
-lastmod = "2017-04-08T12:19:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491650350219/2017-04-08---Werner-Rutter.jpg.jpg"
-primary_image_credit = "Photo by Nick Rutter."
-publishDate = "2016-10-14T09:45:00+01:00"
-related_articles = ["articles/in-review-scenes-from-the-end.md","articles/in-review-the-reimagined-winters-tale.md","articles/dont-miss-the-other-side-of-the-sea.md"]
-related_people = ["scene/people/heloise-werner.md"]
-short_description = "&quot;Getting a job at the Royal Opera House in the chorus, for me, even if that would be amazing for most other singers, I wouldn&#039;t like it.&quot; Werner is aware of the different pursuits of professional singers - career stability, for example. &quot;I can totally understand why most people aren&#039;t like me.&quot;"
-slug = "talking-with-singers-heloise-werner"
-title = "Talking with singers: Héloïse Werner"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-10-11T13:40:00+01:00"
+lastmod: "2017-04-08T12:19:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491650350219/2017-04-08---Werner-Rutter.jpg.jpg
+primary_image_credit: Photo by Nick Rutter.
+publishDate: "2016-10-14T09:45:00+01:00"
+related_articles:
+- articles/in-review-scenes-from-the-end.md
+- articles/in-review-the-reimagined-winters-tale.md
+- articles/dont-miss-the-other-side-of-the-sea.md
+related_people:
+- scene/people/heloise-werner.md
+short_description: '&quot;Getting a job at the Royal Opera House in the chorus, for
+  me, even if that would be amazing for most other singers, I wouldn&#039;t like it.&quot;
+  Werner is aware of the different pursuits of professional singers - career stability,
+  for example. &quot;I can totally understand why most people aren&#039;t like me.&quot;'
+slug: talking-with-singers-heloise-werner
+title: 'Talking with singers: Héloïse Werner'
+_template: article_single
+---
 
 With her mismatched earrings and generous smile, chatting with soprano [Héloïse Werner](/scene/people/heloise-werner/) was a breath of fresh air. The 25 year-old singer, cellist, composer, and producer is one of the most industrious young artists working today, and she shows no signs of letting up.
 
@@ -21,7 +30,10 @@ Werner was born in Paris, where she studied cello at the Conservatoire, and for 
 
 In fact, one of her first artistic crises was the choice between pursuing music and science. "I did really enjoy science, and I wanted to keep that going," she says. "I actually decided to study medicine. I did a week, and then I was like, 'Oh my god, I don't know!'" Werner chose to suspend her degree in medicine, and focused her sights again on music. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491650339209/2017-04-08---Werner-Rutter-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491650339209/2017-04-08---Werner-Rutter-2.jpg.jpg)
+
 <figcaption>Photo by Nick Rutter.</figcaption>
 </figure>
 
@@ -32,7 +44,10 @@ At the suggestion of a friend, Werner applied - and was accepted - at Cambridge 
 "It has so much to do with the people you meet," she says of the small, yet industrious circle of musicians who share Werner's love of the new and creative. A move to the UK wasn't part of any larger plan she had for her own career, and similarly, "I don't really know what I'm going to do in five years' time." Currently, she is pursuing a Master's degree, "just to keep having singing lessons and making sure that my technique is good enough and that I don't lose my voice."
 
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476361120876/2016-10-13---Werner-Rutter-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476361120876/2016-10-13---Werner-Rutter-1.jpg.jpg)
+
 <figcaption>Photo by Nick Rutter.</figcaption>
 </figure>
 
@@ -48,7 +63,10 @@ One of those "weird" pursuits is Werner's involvement with [The Hermes Experimen
 
 Most of the quartet studied composition during their university years, and writing music is something that Werner enjoys herself. Now, their exhaustive work has paid off. "For three years we'd be working really hard at contacting people, inviting them to hear our work. Now, festivals contact us, and we're quite busy," she says, adding with a laugh, "We make money now!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476361094887/2016-10-13---SFTE-Rutter-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476361094887/2016-10-13---SFTE-Rutter-1.jpg.jpg)
+
 <figcaption>Héloïse Werner in *Scenes From The End*. Photo by Nick Rutter.</figcaption>
 </figure>
 
@@ -60,7 +78,10 @@ Werner also keeps busy with her own projects, including her one-woman show, [*Sc
 
 Werner has come to recognize, as a soprano in a competitive industry of many, where her unique strengths lie, and how she can put them to best use. "I think it's true, that unless you're incredibly lucky and have the voice of an angel, that's a lot better than everyone else or has a quality that no one else has, it's incredibly hard to become a 'successful' opera singer." Yet with her strong background as a cellist, and her experience in composition and choral work, Werner has skills that not every professional singer can boast.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476361106548/2016-10-13---STFE-Rutter-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476361106548/2016-10-13---STFE-Rutter-2.jpg.jpg)
+
 <figcaption>Héloïse Werner in *Scenes From The End*. Photo by Nick Rutter.</figcaption>
 </figure>
 

@@ -1,22 +1,54 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = 2020-02-20T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Eszter Balogh performs with the [London Handel Orchestra](https://wigmore-hall.org.uk/whats-on/london-handel-orchestra-202003101930) on 10 March, and appears [in recital](https://www.london-handel-festival.com/show/recital-eszter-balogh-hsc-2019-winner/?event=13803) on 15 March."
-preamble = "Nearly a year after her win at the 2019 Handel Singing Competition, Hungarian mezzo-soprano Eszter Balogh is looking forward to more from the 18th-century operatic titan.\n\nAt this year's [London Handel Festival](https://www.london-handel-festival.com/), Balogh joins Adrian Butterfield and the London Handel Orchestra for a concert presentation of [_Parnasso in Festa_](https://wigmore-hall.org.uk/whats-on/london-handel-orchestra-202003101930), 10 March at Wigmore Hall. And on 15 March, she'll give a [recital of Handel and Vivaldi](https://www.london-handel-festival.com/show/recital-eszter-balogh-hsc-2019-winner/?event=13803) at St. George's, Hanover Square.\n\nWe spoke with Balogh about what good singing feels like, and why Handel is an excellent teacher."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582079939/media/2020/02/sqEszterBalogh_fmljrz.jpg"
-primary_image_credit = ""
-related_articles = ["articles/spotlight-on-stephanie-tritchew.md", "articles/spotlight-on-emily-edmonds.md", "articles/talking-with-directors-jennifer-williams.md"]
-related_companies = []
-related_people = []
-short_description = "When I tell them I am a classical singer they generally know what it is. Sometimes they stare at me and say, \"Wow, that’s crazy, you mean like Paul Potts?\" And I'll say, “Yeah, something like that.\""
-slug = "spotlight-on-eszter-balogh"
-title = "Spotlight on: Eszter Balogh"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Interview
+date: '2020-02-20T05:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  Eszter Balogh performs with the [London Handel
+  Orchestra](https://wigmore-hall.org.uk/whats-on/london-handel-orchestra-202003101930)
+  on 10 March, and appears [in
+  recital](https://www.london-handel-festival.com/show/recital-eszter-balogh-hsc-2019-winner/?event=13803)
+  on 15 March.
+preamble: >-
+  Nearly a year after her win at the 2019 Handel Singing Competition, Hungarian
+  mezzo-soprano Eszter Balogh is looking forward to more from the 18th-century
+  operatic titan.
 
-+++
+
+  At this year's [London Handel
+  Festival](https://www.london-handel-festival.com/), Balogh joins Adrian
+  Butterfield and the London Handel Orchestra for a concert presentation of
+  [_Parnasso in
+  Festa_](https://wigmore-hall.org.uk/whats-on/london-handel-orchestra-202003101930),
+  10 March at Wigmore Hall. And on 15 March, she'll give a [recital of Handel
+  and
+  Vivaldi](https://www.london-handel-festival.com/show/recital-eszter-balogh-hsc-2019-winner/?event=13803)
+  at St. George's, Hanover Square.
+
+
+  We spoke with Balogh about what good singing feels like, and why Handel is an
+  excellent teacher.
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1582079939/media/2020/02/sqEszterBalogh_fmljrz.jpg
+primary_image_credit: ''
+related_articles:
+  - articles/spotlight-on-stephanie-tritchew.md
+  - articles/spotlight-on-emily-edmonds.md
+  - articles/talking-with-directors-jennifer-williams.md
+related_companies: []
+related_people: []
+short_description: >-
+  When I tell them I am a classical singer they generally know what it is.
+  Sometimes they stare at me and say, "Wow, that’s crazy, you mean like Paul
+  Potts?" And I'll say, “Yeah, something like that."
+slug: spotlight-on-eszter-balogh
+title: 'Spotlight on: Eszter Balogh'
+youtube_url: ''
+_template: article_single
+---
+
 ## Why do you sing, and why are you doing it professionally?
 
 I have been singing since I was two years old. I would sing even when I was supposed to be doing my math homework, I just couldn't keep quiet.  I would spend most of my time playing my violin, recorder, my piano or singing, mostly pop music at the beginning. Then, when I joined the Hungarian Radio Children's Choir at age 9, I was surrounded by classical music every day, which had a thoroughly deep impact on me.
@@ -31,7 +63,9 @@ Speaking in technical terms, if I can let my body and the resonance do the work,
 
 I can only tell you the lessons that I have learned. They should be less critical of themselves and when they are critical, it should be healthier, more constructive self-criticism. They should be more patient with themselves. They should search for the right singing teacher, even if it takes a long time. A teacher who will help them build a healthy, sure technique that will allow them to sing well for a long time.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582080004/media/2020/02/EszterBalogh_ut7glz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1582080004/media/2020/02/EszterBalogh_ut7glz.jpg)
 
 <figcaption>Mezzo-soprano Eszter Balogh.</figcaption>
 

@@ -1,16 +1,29 @@
-+++
-author = ["authors/dan-kempson.md"]
-categories = "Op-ed"
-date = "2017-10-12T13:53:00-04:00"
-lastmod = "2017-10-13T18:41:00-04:00"
-preamble = "This article was originally published on [Medium](https://medium.com/@dkempson/operas-sexual-assault-secret-164c5ef0edc2), reposted here with permission from the author."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507831575782/2017-10-12---Secret.jpg.jpg"
-publishDate = "2017-10-12T21:15:00-04:00"
-related_articles = ["articles/power-plays-and-crossing-lines-.md","articles/musicians-sexual-harassment-blurred-lines.md","articles/a-problematic-creaky-old-masterpiece-les-vpres-siciliennes.md","articles/a-fiery-love-triangle-les-feluettes-at-edmonton-opera.md","articles/some-uncomfortable-questions-about-the-levine-business.md","articles/when-opera-companies-protect-abusers.md","articles/sex-is-one-of-the-perks-of-conducting.md"]
-short_description = "There are the rumors of programs stockpiled with shockingly handsome young singers, the conductor who trolls dating apps for singers in his production, the director who always has to show singers how to stage a love scene by taking the soprano&#039;s place and kissing the male lead."
-slug = "operas-sexual-assault-secret"
-title = "Opera&#039;s sexual assault secret"
-+++
+---
+author:
+- authors/dan-kempson.md
+categories: Op-ed
+date: "2017-10-12T13:53:00-04:00"
+lastmod: "2017-10-13T18:41:00-04:00"
+preamble: This article was originally published on [Medium](https://medium.com/@dkempson/operas-sexual-assault-secret-164c5ef0edc2),
+  reposted here with permission from the author.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507831575782/2017-10-12---Secret.jpg.jpg
+publishDate: "2017-10-12T21:15:00-04:00"
+related_articles:
+- articles/power-plays-and-crossing-lines-.md
+- articles/musicians-sexual-harassment-blurred-lines.md
+- articles/a-problematic-creaky-old-masterpiece-les-vpres-siciliennes.md
+- articles/a-fiery-love-triangle-les-feluettes-at-edmonton-opera.md
+- articles/some-uncomfortable-questions-about-the-levine-business.md
+- articles/when-opera-companies-protect-abusers.md
+- articles/sex-is-one-of-the-perks-of-conducting.md
+short_description: There are the rumors of programs stockpiled with shockingly handsome
+  young singers, the conductor who trolls dating apps for singers in his production,
+  the director who always has to show singers how to stage a love scene by taking
+  the soprano&#039;s place and kissing the male lead.
+slug: operas-sexual-assault-secret
+title: Opera&#039;s sexual assault secret
+_template: article_single
+---
 
 I'm a gay, married, 32-year old former opera singer living in New York City. There's something I've wanted to talk about for a long time.
 

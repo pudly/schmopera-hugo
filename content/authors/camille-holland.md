@@ -1,18 +1,22 @@
-+++
-date = "2016-08-05T12:37:00+01:00"
-email = "camilleholland.ca@gmail.com"
-lastmod = "2016-08-05T12:37:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470397064793/2016-08-05---Camille-Square.jpg.jpg"
-publishDate = "2016-08-05T12:37:00+01:00"
-short_bio = "Soprano Camille Holland, described as having a “pure, unaffected approach” in Opera Canada magazine, has been singing professionally since the age of nine. She received an MMus in Opera from the University of British Columbia, and a BMus in Voice Performance from McGill. Her performance experience includes the genres of Opera, Art Song, Oratorio, Orchestral Works, and Musical Theatre. "
-slug = "camille-holland"
-title = "Camille Holland"
-website = "http://www.camilleholland.ca/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/camillehollandsoprano/"
-+++
+---
+date: "2016-08-05T12:37:00+01:00"
+email: camilleholland.ca@gmail.com
+lastmod: "2016-08-05T12:37:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470397064793/2016-08-05---Camille-Square.jpg.jpg
+publishDate: "2016-08-05T12:37:00+01:00"
+short_bio: 'Soprano Camille Holland, described as having a “pure, unaffected approach”
+  in Opera Canada magazine, has been singing professionally since the age of nine.
+  She received an MMus in Opera from the University of British Columbia, and a BMus
+  in Voice Performance from McGill. Her performance experience includes the genres
+  of Opera, Art Song, Oratorio, Orchestral Works, and Musical Theatre. '
+slug: camille-holland
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/camillehollandsoprano/
+title: Camille Holland
+website: http://www.camilleholland.ca/
+---
 
 Soprano Camille Holland, described as having a “pure, unaffected approach” in *Opera Canada* magazine, has been singing professionally since the age of nine. She has received numerous scholarships and awards since, including the Phyllis and Bernard Shapiro Scholarship in Opera (McGill University), and the first place award in the Vancouver Women’s Musical Society’s 2016 Scholarship Competition.
 Camille has performed extensively in both operatic and concert settings. 

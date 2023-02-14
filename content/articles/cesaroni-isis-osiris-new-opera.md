@@ -1,19 +1,53 @@
-+++
-author = ["authors/greg.md"]
-categories = "Interview"
-date = "2016-03-22T09:25:00+00:00"
-lastmod = "2016-03-22T15:21:00+00:00"
-preamble = "On a sunny Saturday afternoon, I made my way to the trendy Yorkville area of Toronto to meet up with my good friend and colleague, soprano [Lucia Cesaroni](/scene/people/lucia-cesaroni/). We got together to discuss her participation in a world premiere performance of the new Canadian opera *Isis and Osiris: Gods of Egypt*, being presented by [VOICEBOX: Opera In Concert](/scene/companies/voicebox-opera-in-concert/) at the beginning of April. \n\nI made my way up to her lovely penthouse suite, and after the prerequisite gabfest with her and her husband (another friend and colleague, tenor [Adrian Kramer](/adrian-kramer-youre-just-a-bit-of-an-ambiguous-vocal-identity/)) about what we've all been doing in our \"spare time\" (I put it in quotation marks because it's totally a fictional concept), we began to get into the nitty-gritty.\n\nWe sent Adrian off to his friend's engagement party, and Lucia and I did one of the things singers do best: sip a cocktail and talk some shop. As I take my first dram of [Crown Royal © Northern Harvest](https://www.crownroyal.com/canadian-whisky/crown-royal-northern-harvest-rye/) (yes, I FINALLY got to try the world's best Whiskey, 2015) and Lucia settles into a delicious looking Manhattan, we start with a few of the basics. \n\nConsidering the refreshments available, the conversation has been paraphrased somewhat. To get you in the mood, imagine the beautiful sustained ring of a crystal tumbler as it sparkles with the caramel colour of great Canadian whiskey... "
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458654331507/2016-03-22---Whisky---Photo-by-Greg-Finney.jpg.jpg"
-primary_image_credit = "Photo by Greg Finney."
-publishDate = "2016-03-22T13:47:00+00:00"
-related_articles = ["articles/talking-with-singers-lucia-cesaroni.md","articles/talking-with-singers-adrian-kramer.md"]
-related_companies = ["scene/companies/voicebox-opera-in-concert.md","scene/companies/the-santa-fe-opera.md","scene/companies/tapestry-opera.md","scene/companies/toronto-operetta-theatre.md"]
-related_people = ["scene/people/lucia-cesaroni.md","scene/people/adrian-kramer.md","scene/people/michael-barrett.md","scene/people/julie-nesrallah.md"]
-short_description = "&quot;I don&#039;t want to keep comparing to the States, but we&#039;re behind. We hate to admit it, but we are behind - and that&#039;s okay. We&#039;re a younger country, we&#039;re a younger industry. We may be behind here, but look at all the other places where we&#039;re ahead. It&#039;s very important to me that we find a way to secure a creative, successful, tenable way to secure a future for opera in Canada.&quot;"
-slug = "cesaroni-isis-osiris-new-opera"
-title = "Lucia Cesaroni: Isis and Osiris, the value of new opera, &amp; &quot;bad b*tches in charge&quot;"
-+++
+---
+author:
+- authors/greg.md
+categories: Interview
+date: "2016-03-22T09:25:00+00:00"
+lastmod: "2016-03-22T15:21:00+00:00"
+preamble: "On a sunny Saturday afternoon, I made my way to the trendy Yorkville area
+  of Toronto to meet up with my good friend and colleague, soprano [Lucia Cesaroni](/scene/people/lucia-cesaroni/).
+  We got together to discuss her participation in a world premiere performance of
+  the new Canadian opera *Isis and Osiris: Gods of Egypt*, being presented by [VOICEBOX:
+  Opera In Concert](/scene/companies/voicebox-opera-in-concert/) at the beginning
+  of April. \n\nI made my way up to her lovely penthouse suite, and after the prerequisite
+  gabfest with her and her husband (another friend and colleague, tenor [Adrian Kramer](/adrian-kramer-youre-just-a-bit-of-an-ambiguous-vocal-identity/))
+  about what we've all been doing in our \"spare time\" (I put it in quotation marks
+  because it's totally a fictional concept), we began to get into the nitty-gritty.\n\nWe
+  sent Adrian off to his friend's engagement party, and Lucia and I did one of the
+  things singers do best: sip a cocktail and talk some shop. As I take my first dram
+  of [Crown Royal © Northern Harvest](https://www.crownroyal.com/canadian-whisky/crown-royal-northern-harvest-rye/)
+  (yes, I FINALLY got to try the world's best Whiskey, 2015) and Lucia settles into
+  a delicious looking Manhattan, we start with a few of the basics. \n\nConsidering
+  the refreshments available, the conversation has been paraphrased somewhat. To get
+  you in the mood, imagine the beautiful sustained ring of a crystal tumbler as it
+  sparkles with the caramel colour of great Canadian whiskey... "
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458654331507/2016-03-22---Whisky---Photo-by-Greg-Finney.jpg.jpg
+primary_image_credit: Photo by Greg Finney.
+publishDate: "2016-03-22T13:47:00+00:00"
+related_articles:
+- articles/talking-with-singers-lucia-cesaroni.md
+- articles/talking-with-singers-adrian-kramer.md
+related_companies:
+- scene/companies/voicebox-opera-in-concert.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/tapestry-opera.md
+- scene/companies/toronto-operetta-theatre.md
+related_people:
+- scene/people/lucia-cesaroni.md
+- scene/people/adrian-kramer.md
+- scene/people/michael-barrett.md
+- scene/people/julie-nesrallah.md
+short_description: '&quot;I don&#039;t want to keep comparing to the States, but we&#039;re
+  behind. We hate to admit it, but we are behind - and that&#039;s okay. We&#039;re
+  a younger country, we&#039;re a younger industry. We may be behind here, but look
+  at all the other places where we&#039;re ahead. It&#039;s very important to me that
+  we find a way to secure a creative, successful, tenable way to secure a future for
+  opera in Canada.&quot;'
+slug: cesaroni-isis-osiris-new-opera
+title: 'Lucia Cesaroni: Isis and Osiris, the value of new opera, &amp; &quot;bad b*tches
+  in charge&quot;'
+_template: article_single
+---
 
 ### What have you been up to lately?
 
@@ -31,7 +65,9 @@ There are a multitude of companies that have big budgets, and what's interesting
 
 I don't want to keep comparing to the States, but we're behind. We hate to admit it, but we are behind - and that's okay. We're a younger country, we're a younger industry. We may be behind here, but look at all the other places where we're ahead. It's very important to me that we find a way to secure a creative, successful, tenable way to secure a future for opera in Canada.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458654304215/CESARONI-PHOTO2014.jpg.jpg)<figcaption>Lucia Cesaroni, soprano.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458654304215/CESARONI-PHOTO2014.jpg.jpg)<figcaption>Lucia Cesaroni, soprano.</figcaption>
 </figure>
 
 ### Can you describe Peter Togni's score?
@@ -62,8 +98,11 @@ Hands down: "Work" by Rihanna and Drake. I saw the video, it kinda makes me wish
 
 Susanna in *Le nozze di Figaro* under the baton of James Conlon. It's my Italian debut and we're performing in Spoleto, Italy. I spent a lot of time in Italy growing up (my family has a house there) so I'm going to get to go around and visit some of my favourite places while I'm there. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458652441256/2016-03-22---ISIS-and-Osiris_eFlyer.jpg.jpg)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458652441256/2016-03-22---ISIS-and-Osiris_eFlyer.jpg.jpg)
+
+<figure>
 
 ***
 

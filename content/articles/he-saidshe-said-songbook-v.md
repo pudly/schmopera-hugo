@@ -1,17 +1,33 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Review"
-date = "2015-01-25T14:06:00-05:00"
-lastmod = "2015-04-11T22:27:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428805225699/10428063_10152774633183547_6533989054763531644_n.jpg.jpg"
-publishDate = "2015-01-25T14:06:00-05:00"
-related_articles = ["articles/go-to-this-tapestry-songbook.md","articles/wallis-giunta-songbook-vi.md","articles/he-saidshe-said-songbook-vi.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/aaron-durand.md","scene/people/michael-mori.md","scene/people/peter-mcgillivray.md","scene/people/michael-robertbroder.md","scene/people/maeve-palmer.md"]
-short_description = "Marking the end of my weekend hat-trick of stuff to see, was Tapestry’s Songbook V. It’s the fifth year of Tapestry’s New Opera 101 Program, which gives singers and pianists a chance to work on contemporary opera with some of the best in the business; the rep is chosen from within Tapestry’s impressive library of commissions."
-slug = "he-saidshe-said-songbook-v"
-title = "He said/she said: Songbook V"
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Review
+date: "2015-01-25T14:06:00-05:00"
+lastmod: "2015-04-11T22:27:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428805225699/10428063_10152774633183547_6533989054763531644_n.jpg.jpg
+publishDate: "2015-01-25T14:06:00-05:00"
+related_articles:
+- articles/go-to-this-tapestry-songbook.md
+- articles/wallis-giunta-songbook-vi.md
+- articles/he-saidshe-said-songbook-vi.md
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/aaron-durand.md
+- scene/people/michael-mori.md
+- scene/people/peter-mcgillivray.md
+- scene/people/michael-robertbroder.md
+- scene/people/maeve-palmer.md
+short_description: Marking the end of my weekend hat-trick of stuff to see, was Tapestry’s
+  Songbook V. It’s the fifth year of Tapestry’s New Opera 101 Program, which gives
+  singers and pianists a chance to work on contemporary opera with some of the best
+  in the business; the rep is chosen from within Tapestry’s impressive library of
+  commissions.
+slug: he-saidshe-said-songbook-v
+title: 'He said/she said: Songbook V'
+_template: article_single
+---
 
 <h2>Jenna:</h2>
 <p>

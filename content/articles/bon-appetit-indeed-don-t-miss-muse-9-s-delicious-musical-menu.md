@@ -1,22 +1,54 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-06-23T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[_Bon Appetit! A Musical Tasting Menu_](https://muse9food.bpt.me/) happens June 27, 8pm, at Merchants of Green Coffee, 2 Matilda St. Tickets start at just $25. The program will also be presented in London, Ontario at the Covent Garden Market Kitchen [June 29th and 30th](https://www.eventbrite.ca/e/bon-appetit-a-musical-tasting-menu-tickets-60417993846) in partnership with Village Opera."
-preamble = "This week, Torontonians can catch a deliciously unique concert event: on **June 27, 8pm** at Merchants of Green Coffee, the women of Muse 9 Productions present [_Bon Appetit! A Musical Tasting Menu_](https://muse9food.bpt.me/). It's titled after its headlining piece, Lee Hoiby's delightful ode to Julia Child, _Bon Appetit!_, which is paired with Canadian song cycles by Toronto-based composers: Danika Lorèn's _The Secret Lives of Vegetables_ and Peter Tiefenbach's _Chansons de mon placard_ (_Songs of My Cupboard_).\n\nWe spoke with Muse 9 founders [Anna Theodosakis](/scene/people/anna-theodosakis/) (Stage Director) and [Hyejin Kwon](/scene/people/hyejin-kwon/) (Music Director), about all the yummy items on the evening's menu:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1561329104/media/2019/06/sqVegPic1.jpg"
-primary_image_credit = "Katy Clarke (left) and Victora Borg, both singing in Muse 9's Bon Appetit! A Musical Tasting Menu, June 27, 8pm at Merchants of Green Coffee."
-related_articles = []
-related_companies = ["scene/companies/muse-9-productions.md"]
-related_people = ["scene/people/victoria-borg.md", "scene/people/hyejin-kwon.md", "scene/people/anna-theodosakis.md"]
-short_description = "\"Julia Child was a woman of vision and passion, who carved her way through male dominated industry with grace and sense of humour. Even living in this modern day society, we as women are often faced with challenges and roadblocks that differ from men.\""
-slug = "bon-appetit-indeed-dont-miss-muse-9s-delicious-musical-menu"
-title = "Bon Appetit indeed: don't miss Muse 9's delicious, musical menu"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Interview
+date: '2019-06-23T04:00:00+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  [_Bon Appetit! A Musical Tasting Menu_](https://muse9food.bpt.me/) happens
+  June 27, 8pm, at Merchants of Green Coffee, 2 Matilda St. Tickets start at
+  just $25. The program will also be presented in London, Ontario at the Covent
+  Garden Market Kitchen [June 29th and
+  30th](https://www.eventbrite.ca/e/bon-appetit-a-musical-tasting-menu-tickets-60417993846)
+  in partnership with Village Opera.
+preamble: >-
+  This week, Torontonians can catch a deliciously unique concert event: on
+  **June 27, 8pm** at Merchants of Green Coffee, the women of Muse 9 Productions
+  present [_Bon Appetit! A Musical Tasting Menu_](https://muse9food.bpt.me/).
+  It's titled after its headlining piece, Lee Hoiby's delightful ode to Julia
+  Child, _Bon Appetit!_, which is paired with Canadian song cycles by
+  Toronto-based composers: Danika Lorèn's _The Secret Lives of Vegetables_ and
+  Peter Tiefenbach's _Chansons de mon placard_ (_Songs of My Cupboard_).
 
-+++
+
+  We spoke with Muse 9 founders [Anna
+  Theodosakis](/scene/people/anna-theodosakis/) (Stage Director) and [Hyejin
+  Kwon](/scene/people/hyejin-kwon/) (Music Director), about all the yummy items
+  on the evening's menu:
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1561329104/media/2019/06/sqVegPic1.jpg
+primary_image_credit: >-
+  Katy Clarke (left) and Victora Borg, both singing in Muse 9's Bon Appetit! A
+  Musical Tasting Menu, June 27, 8pm at Merchants of Green Coffee.
+related_articles: []
+related_companies:
+  - scene/companies/muse-9-productions.md
+related_people:
+  - scene/people/victoria-borg.md
+  - scene/people/hyejin-kwon.md
+  - scene/people/anna-theodosakis.md
+short_description: >-
+  "Julia Child was a woman of vision and passion, who carved her way through
+  male dominated industry with grace and sense of humour. Even living in this
+  modern day society, we as women are often faced with challenges and roadblocks
+  that differ from men."
+slug: bon-appetit-indeed-dont-miss-muse-9s-delicious-musical-menu
+title: 'Bon Appetit indeed: don''t miss Muse 9''s delicious, musical menu'
+youtube_url: ''
+_template: article_single
+---
+
 ## What was the inspiration for your kitchen-themed concert?
 
 **Hyejin**: During our inaugural season last year, we had the pleasure working with Victoria Borg as our understudy in "From the Diary of Virginia Woolf". I always knew Victoria was a hard working and talented musician, but had no idea she also was a fabulous baker.
@@ -35,7 +67,9 @@ I had briefly coached [Danika Lorèn](/spotlight-on-danika-loren/) on the early 
 
 Our first season dealt with heavy subject matter exploring the life of Virginia Woolf, so we wanted to contrast that with a comedic second season.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561329167/media/2019/06/Muse9VegCollage.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1561329167/media/2019/06/Muse9VegCollage.jpg)
 
 <figcaption>The creative team of Muse 9's Bon Appetit! A Musical Tasting Menu: (clockwise from top left) Anna Theodosakis, Stage Director, Victoria Borg, mezzo-soprano, Hyejin Kwon, Music Director, and Katy Clark, soprano.</figcaption>
 
@@ -61,6 +95,8 @@ Our first season dealt with heavy subject matter exploring the life of Virginia 
 
 **Hyejin**: Hands down, the cake.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561329148/media/2019/06/BonAppetitBanner.png){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1561329148/media/2019/06/BonAppetitBanner.png)
 
 </figure>

@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2013-12-18T18:22:00-05:00"
-lastmod = "2018-01-03T09:58:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514991482663/2018-01-03---Apologist.jpg.jpg"
-publishDate = "2013-12-18T18:22:00-05:00"
-related_articles = ["articles/another-opera-apologist-part-2.md","articles/another-opera-apologist-part-3.md"]
-short_description = "It&#039;s simple enough: there&#039;s something just neat about it. People are up on stage doing weirdly supernatural things with their voices. Voices of all sizes and shapes, too; beautiful, floating sopranos and, big, hollering baritones. "
-slug = "another-opera-apologist-part-1"
-title = "Another Opera Apologist (Part 1)"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2013-12-18T18:22:00-05:00"
+lastmod: "2018-01-03T09:58:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514991482663/2018-01-03---Apologist.jpg.jpg
+publishDate: "2013-12-18T18:22:00-05:00"
+related_articles:
+- articles/another-opera-apologist-part-2.md
+- articles/another-opera-apologist-part-3.md
+short_description: 'It&#039;s simple enough: there&#039;s something just neat about
+  it. People are up on stage doing weirdly supernatural things with their voices.
+  Voices of all sizes and shapes, too; beautiful, floating sopranos and, big, hollering
+  baritones. '
+slug: another-opera-apologist-part-1
+title: Another Opera Apologist (Part 1)
+_template: article_single
+---
 
 ### Opera? Why?
 

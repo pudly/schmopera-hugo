@@ -1,22 +1,48 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2021-09-10T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Readers, what's on your must-see list for 2021-22? Let us know in the comments below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)!"
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1631027487/media/2021/09/COC_21C_TSO_b7hbdc.jpg"
-primary_image_credit = "Clockwise from top left: baritone Russell Braun, soprano Tamara Wilson, and TSO Principal Education Conductor & Community Ambassador Daniel Bartholomew-Poyser."
-related_articles = ["articles/meet-the-director-liza-balkan.md", "articles/the-bicycle-opera-project-at-21c.md", "articles/a-full-house-for-canadian-art-song-at-21c.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md", "scene/companies/kronos-quartet.md", "scene/companies/canadian-opera-company.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/royal-conservatory-of-music.md", "scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/blythe-gaissert.md", "scene/people/kelly-markgraf.md", "scene/people/tamara-wilson.md", "scene/people/roland-wood.md", "scene/people/liza-balkan.md", "scene/people/gerald-finley.md"]
-short_description = "But if you ask me and my opera-bias, the big draw for this season's 21C is the world premiere of Gould's Wall, the new opera by Brian Current and Liza Balkan, produced by new-opera leaders, Tapestry Opera."
-slug = "season-highlights-out-of-the-coc-the-tso-and-21c-oh-my"
-title = "Season highlights out of the COC, the TSO, and 21C (oh my!)"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Editorial
+date: '2021-09-10T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  Readers, what's on your must-see list for 2021-22? Let us know in the comments
+  below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)!
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1631027487/media/2021/09/COC_21C_TSO_b7hbdc.jpg
+primary_image_credit: >-
+  Clockwise from top left: baritone Russell Braun, soprano Tamara Wilson, and
+  TSO Principal Education Conductor & Community Ambassador Daniel
+  Bartholomew-Poyser.
+related_articles:
+  - articles/meet-the-director-liza-balkan.md
+  - articles/the-bicycle-opera-project-at-21c.md
+  - articles/a-full-house-for-canadian-art-song-at-21c.md
+related_companies:
+  - scene/companies/toronto-symphony-orchestra.md
+  - scene/companies/kronos-quartet.md
+  - scene/companies/canadian-opera-company.md
+  - scene/companies/against-the-grain-theatre.md
+  - scene/companies/royal-conservatory-of-music.md
+  - scene/companies/tapestry-opera.md
+related_people:
+  - scene/people/blythe-gaissert.md
+  - scene/people/kelly-markgraf.md
+  - scene/people/tamara-wilson.md
+  - scene/people/roland-wood.md
+  - scene/people/liza-balkan.md
+  - scene/people/gerald-finley.md
+short_description: >-
+  But if you ask me and my opera-bias, the big draw for this season's 21C is the
+  world premiere of Gould's Wall, the new opera by Brian Current and Liza
+  Balkan, produced by new-opera leaders, Tapestry Opera.
+slug: season-highlights-out-of-the-coc-the-tso-and-21c-oh-my
+title: 'Season highlights out of the COC, the TSO, and 21C (oh my!)'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 A few Canada-based items for you, readers.
 
 In the short-term: get signed up for the Canadian Opera Company's [digital membership](https://www.coc.ca/Free-Digital-Membership-Page)! It gets you access to the COC's season - which so far, has unveiled a solid [line-up of digital events](https://www.coc.ca/2122), all free to stream.
@@ -31,7 +57,9 @@ And in the long-term: I know it's a bit early to think about January 2022, but i
 
 Tickets for the Royal Conservatory of Music's annual contemporary music festival, [21C](https://www.rcmusic.com/performance/21c-music-festival?_ga=2.20016318.706228005.1630957371-1404247250.1630957371), go on sale to the general public on **September 10, 2021** - that's today! And now that in-person concert tickets are more coveted than ever, it's important to note that this season's 21C line-up, running January-February 2022, is not to be missed.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631280236/media/2021/09/21C_collage_h5ytit.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1631280236/media/2021/09/21C_collage_h5ytit.jpg)
 
 <figcaption>Clockwise from top left: the Kronos Quartet; mezzo-soprano Blythe Gaissert; bass-baritone Kelly Markgraf.</figcaption>
 

@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-01-01T14:51:00-05:00"
-lastmod = "2016-01-12T10:45:00-05:00"
-preamble = "Opera and theatre are created by a huge number of people working together; on opening night, many of these people go unseen by the audience, especially if they do their job well. A fight director is one of those people; they join the rehearsal process as a specialist in staging duels, tussles, and brawls that looks like the real thing. Choreographing onstage combat can be a long and difficult task, resulting in a sequence that lasts minutes at most.\n\nWe spoke with two of these fight directors, both with experience working in opera. [Dr. John Lennox](http://www.artofcombat.org/art-of-combat---fight-directors.html) has worked as a fight director and teacher for the last 20 years, and he's the founder of [Art of Combat](http://www.artofcombat.org/), a company of fight directors that now has chapters in New York, Los Angeles, Edinburgh, and Sydney. [Meron Langsner, PhD,](http://www.meronlangsner.com/about-meron.html) works in theatre, film, and opera, as a fight director, movement specialist and educator; he's also a stage director, playwright, and author. Lennox and Langser offer up some fascinating details about what it takes to stage a fight, and how they keep everybody safe."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452480084898/2016-01-10---West-Side-Story.jpg.jpg"
-publishDate = "2016-01-12T09:00:00-05:00"
-related_articles = ["articles/the-pianists-tech-week-plight.md"]
-short_description = "Like much of rehearsing live theatre and opera, stage combat direction is one of those elements that goes unnoticed until done poorly. Enter the fight director, who specializes in staging duels, tussles, and brawls that looks like the real thing. Choreographing onstage combat can be a long and difficult task, resulting in a sequence that lasts minutes at most."
-slug = "how-its-made-stage-combat"
-title = "How it&#039;s made: stage combat"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-01-01T14:51:00-05:00"
+lastmod: "2016-01-12T10:45:00-05:00"
+preamble: |-
+  Opera and theatre are created by a huge number of people working together; on opening night, many of these people go unseen by the audience, especially if they do their job well. A fight director is one of those people; they join the rehearsal process as a specialist in staging duels, tussles, and brawls that looks like the real thing. Choreographing onstage combat can be a long and difficult task, resulting in a sequence that lasts minutes at most.
+
+  We spoke with two of these fight directors, both with experience working in opera. [Dr. John Lennox](http://www.artofcombat.org/art-of-combat---fight-directors.html) has worked as a fight director and teacher for the last 20 years, and he's the founder of [Art of Combat](http://www.artofcombat.org/), a company of fight directors that now has chapters in New York, Los Angeles, Edinburgh, and Sydney. [Meron Langsner, PhD,](http://www.meronlangsner.com/about-meron.html) works in theatre, film, and opera, as a fight director, movement specialist and educator; he's also a stage director, playwright, and author. Lennox and Langser offer up some fascinating details about what it takes to stage a fight, and how they keep everybody safe.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452480084898/2016-01-10---West-Side-Story.jpg.jpg
+publishDate: "2016-01-12T09:00:00-05:00"
+related_articles:
+- articles/the-pianists-tech-week-plight.md
+short_description: Like much of rehearsing live theatre and opera, stage combat direction
+  is one of those elements that goes unnoticed until done poorly. Enter the fight
+  director, who specializes in staging duels, tussles, and brawls that looks like
+  the real thing. Choreographing onstage combat can be a long and difficult task,
+  resulting in a sequence that lasts minutes at most.
+slug: how-its-made-stage-combat
+title: 'How it&#039;s made: stage combat'
+_template: article_single
+---
 
 ## What do you think makes the difference between an onstage fight that is so-so, versus believable?
  
@@ -28,7 +38,9 @@ title = "How it&#039;s made: stage combat"
 
 If given enough time on a job, I will work for several days with the actors training them in combat with the style they will use in the production. After they are comfortable with the style, then we move to choreographing the scene. I will take as much time as I am allowed for this. I once trained the actors for nine months for a production. If I only have two days, so be it. Often though, we don’t even get that. We usually get “You’ve got two hours to create and rehearse the fight.” At that point, I do good sequences, but not overly complex ones.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452475239139/2016-01-10---Langsner-Teaching.jpg.jpg)<figcaption>Meron Langsner teaching a workshop on Dramaturgy to the Choreographer Track students at the 2015 Summer Sling NYC Regional Stage Combat Workshop. Photo by Theik Smith Photography.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452475239139/2016-01-10---Langsner-Teaching.jpg.jpg)<figcaption>Meron Langsner teaching a workshop on Dramaturgy to the Choreographer Track students at the 2015 Summer Sling NYC Regional Stage Combat Workshop. Photo by Theik Smith Photography.</figcaption>
 </figure>
 
 ## What do you find are some common hurdles for artists when developing their stage combat skills?
@@ -39,7 +51,9 @@ If given enough time on a job, I will work for several days with the actors trai
 
 **Lennox**: I would say that for the artist themselves a serious hurdle is finding a qualified instructor with whom to train on a regular basis. There are a lot of qualified instructors, but there are a lot of areas in the world where none exist. Finding one in close proximity with whom you can regularly train can be a difficult hurdle.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452553638821/2016-01-11---John-Lennox.jpg.jpg)<figcaption>Dr. John Lennox. </figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452553638821/2016-01-11---John-Lennox.jpg.jpg)<figcaption>Dr. John Lennox. </figcaption>
 </figure>
 
 ## What challenges are unique to working with opera singers?
@@ -48,7 +62,9 @@ If given enough time on a job, I will work for several days with the actors trai
 
 **Lennox**: I’ve only worked on one opera. I was honored to be asked by Jacques Cappelle, the fight director for the National Opera of Brussels to create a fight for a production of Il Trovatore in 2012. He is a sword master and they needed a street fight. That is my specialty. I was in town for a workshop for Jacques’ academy, so I created that fight for him. The biggest challenge in working with opera singers in a street fight style combat scenario is that you cannot do anything that goes near the throat- for obvious reasons. Past that, I never had any more difficulty working with them than I have with other professional performers. They did what I asked and worked hard to make it look like I did when I showed them each move. I have heard plenty of stories about diva attitudes, but I personally never experienced that.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452475005220/2016-01-10---Meron-Fight-2.jpg.jpg)<figcaption> Meron Langsner choreographing LOVE HURTS, Malarkey Films' entry to the 2013 Boston 48 Hour Film Project</figcaption></figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452475005220/2016-01-10---Meron-Fight-2.jpg.jpg)<figcaption> Meron Langsner choreographing LOVE HURTS, Malarkey Films' entry to the 2013 Boston 48 Hour Film Project</figcaption></figure>
 
 ## What do you enjoy most about your work?
  

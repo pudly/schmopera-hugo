@@ -1,22 +1,36 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Interview"
-date = "2018-02-28T20:42:00-05:00"
-lastmod = "2018-02-28T22:13:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870447037/sq---piotrbecza%2Be%CC%81aflubackerhighlights005.jpg.jpg"
-primary_image_credit = "Piotr Beczała and Martin Katz in recital, Lyric Opera of Chicago, 2018. Photo: Kyle Flubacker."
-publishDate = "2018-02-28T20:55:00-05:00"
-related_articles = ["articles/searching-for-superlatives-locs-suberb-rigoletto.md","articles/a-dreamy-indulgence-the-pearl-fishers-in-chicago.md","articles/fleming-enchants-luscious-morsels-of-postopera-career.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/piotr-beczala.md"]
-short_description = "&quot;I am pleased to say that, in my experience, audiences outside Poland respond to Polish music with great satisfaction and enthusiasm. I appeared one-and-a-half months ago in Zürich with this same program and the great majority of the audience seemed smitten with the Polish portion of the program.&quot;"
-slug = "piotr-beczala"
-title = "A &quot;rare event&quot; at Chicago Lyric: Piotr Beczała in recital"
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Interview
+date: "2018-02-28T20:42:00-05:00"
+lastmod: "2018-02-28T22:13:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870447037/sq---piotrbecza%2Be%CC%81aflubackerhighlights005.jpg.jpg
+primary_image_credit: 'Piotr Beczała and Martin Katz in recital, Lyric Opera of Chicago,
+  2018. Photo: Kyle Flubacker.'
+publishDate: "2018-02-28T20:55:00-05:00"
+related_articles:
+- articles/searching-for-superlatives-locs-suberb-rigoletto.md
+- articles/a-dreamy-indulgence-the-pearl-fishers-in-chicago.md
+- articles/fleming-enchants-luscious-morsels-of-postopera-career.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/piotr-beczala.md
+short_description: '&quot;I am pleased to say that, in my experience, audiences outside
+  Poland respond to Polish music with great satisfaction and enthusiasm. I appeared
+  one-and-a-half months ago in Zürich with this same program and the great majority
+  of the audience seemed smitten with the Polish portion of the program.&quot;'
+slug: piotr-beczala
+title: 'A &quot;rare event&quot; at Chicago Lyric: Piotr Beczała in recital'
+_template: article_single
+---
 
 The components of the modern-day singing career, with all the associated commercial forces and media dictates, often conspire to produce an offspring that can only be described as paradoxical. A vocal recital — just one lone singer and a pianist performing ephemeral works of musical poetry — is the very definition of an intimate affair. To hold such an event in a 3,563-seat theater is a bit like trying to pillow-talk in…well, a 3,563-seat theater: there's some cognitive dissonance with the notion. Rare are the artists who, through a combination of personality and intensity of communication, transcend the space and reach an audience as if on an individual basis. Renowned tenor [Piotr Beczała](/scene/people/piotr-beczala/) and esteemed collaborative pianist [Martin Katz](/scene/people/martin-katz/) succeeded brilliantly in squaring this circle in their recital on the main stage of the Lyric Opera of Chicago this past Sunday.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870335889/piotrbecza%2Be%CC%81aflubackerhighlights003.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870335889/piotrbecza%2Be%CC%81aflubackerhighlights003.jpg.jpg)
+
 <figcaption>Piotr Beczała and Martin Katz in recital, Lyric Opera of Chicago, 2018. Photo: Kyle Flubacker.</figcaption>
 </figure>
  
@@ -40,7 +54,10 @@ Though these latter composers may be household names on Poland's music scene, th
 
 </div>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870372540/piotrbecza%2Be%CC%81aflubackerhighlights001.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870372540/piotrbecza%2Be%CC%81aflubackerhighlights001.jpg.jpg)
+
 <figcaption>Piotr Beczała and Martin Katz in recital, Lyric Opera of Chicago, 2018. Photo: Kyle Flubacker.</figcaption>
 </figure>
 
@@ -54,7 +71,10 @@ It's not unfair to say that, for many people around the world, the category of "
 
 Szymanowski's 6 Songs, Op. 2, which opened the second half Sunday's recital, was without doubt the heaviest portion of the program. It is Szymanowski's earliest published set of art songs and, though not as dense as some of his later music, has all the hallmarks of his style: this singular blend of wafting impressionistic harmonies and exotic Scriabin-esque melodic turns all wrapped in a blanket of existential despondency that is inherently *sui generis*. The texts to these songs, by the transgressive modernist poet Kazimierz Przerwa-Tetmajer, are bleak. "The world remains distant," the first song in the set, captures the longing of a dejected lover with an outburst to a *ff* high-A. In "You have not died," the lover muses on the fact that his beloved's lips are cold, yet she is clearly alive. The cycle concludes with the song "Pilgrim," the rumination of a drifter accepting life as it comes. It takes a laser-like focus to convey the nuances of this language even to a room of native-speakers. For all the beauty he offered the rest of the afternoon, it was in these songs that Beczała put his full artistry on display. I sat breathless through each heart-wrenching word.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870382174/piotrbecza%2Be%CC%81aflubackerhighlights011.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870382174/piotrbecza%2Be%CC%81aflubackerhighlights011.jpg.jpg)
+
 <figcaption>Piotr Beczała and Martin Katz in recital, Lyric Opera of Chicago, 2018. Photo: Kyle Flubacker.</figcaption>
 </figure>
  
@@ -68,7 +88,10 @@ The Polish language is infamous for its grammatical and pronunciation challenges
  
 The seven songs by Mieczysław Karłowicz were a refreshing follow-up to the demanding Szymanowski set. Here is a composer whose life was cut short at the tragically young age of 32,  whose song output numbers only 22 pieces, yet who managed to highlight the lyrical—indeed, Italianate qualities of the Polish language more successfully than many others. The texts evoke the trees, rivers, and fields of the Polish countryside. Beczała captured the whimsy and charm of these settings with superb shadings and inflections. As in the Italian repertoire of the first half, here Beczała made it known why he is one of the most sought-after artists on today's circuit. He is a tenor with a radiant top and a velvety middle register who employs his instrument with supreme intelligence and craft.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870395724/piotrbecza%2Be%CC%81aflubackerhighlights009.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870395724/piotrbecza%2Be%CC%81aflubackerhighlights009.jpg.jpg)
+
 <figcaption>Piotr Beczała and Martin Katz in recital, Lyric Opera of Chicago, 2018. Photo: Kyle Flubacker.</figcaption>
 </figure>
  
@@ -82,7 +105,10 @@ Complementing Beczała's artistry was Martin Katz at the piano, an indisputable 
  
 Watching — and hearing — Katz play is like witnessing a Zen-master tending his garden. His is an old-school and vanishing brand of pianism that eschews histrionics at the keyboard. There's a quiet mastery in the way he caresses the keys; he conjures up seemingly limitless colors directly from the soul of the Steinway grand. The Respighi songs were especially dazzling in his hands. Listening to the piano writing in these pieces, one was reminded of Respighi's talent for sonic special effects. Particularly in "Pioggia," Katz seemed to conjure a delicate trickling rain.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870354824/piotrbecza%2Be%CC%81aflubackerhighlights007.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870354824/piotrbecza%2Be%CC%81aflubackerhighlights007.jpg.jpg)
+
 <figcaption>Piotr Beczała and Martin Katz in recital, Lyric Opera of Chicago, 2018. Photo: Kyle Flubacker.</figcaption>
 </figure>
  

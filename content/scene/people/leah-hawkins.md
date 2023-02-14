@@ -1,18 +1,18 @@
-+++
-date = "2018-01-21T17:53:00-05:00"
-discipline = "Soprano"
-lastmod = "2018-01-21T17:53:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546624209/media/2019/01/LeahHawkins.png"
-publishDate = "2018-01-21T17:53:00-05:00"
-slug = "leah-hawkins"
-title = "Leah Hawkins"
-website = "https://www.leahhawkinssoprano.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/leahhawkinssoprano/"
-
-+++
+---
+date: "2018-01-21T17:53:00-05:00"
+discipline: Soprano
+lastmod: "2018-01-21T17:53:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546624209/media/2019/01/LeahHawkins.png
+publishDate: "2018-01-21T17:53:00-05:00"
+slug: leah-hawkins
+social_media:
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/leahhawkinssoprano/
+title: Leah Hawkins
+website: https://www.leahhawkinssoprano.com/
+_template: "people_single"
+---
 A native of Philadelphia, **Leah Hawkins** joins the Lindemann Young Artist Development Program at the Metropolitan Opera in the 2018-19 season. She recently completed the Domingo-Cafritz Young Artist Program at Washington National Opera where she appeared as Ma Zegner in the world premiere of _Proving Up_ by Missy Mazzoli and librettist Royce Vavrek, and Voce dal cielo in Verdi's _Don Carlo_. In the 2016-17 season she appeared at WNO as the I-Will-Sell-My-Children-Mom in the premiere of Mohammed Fairouz’s _The Dictator’s Wife_ and, to great acclaim, as Cousin Blanche/Sadie Griffith in _Champion_, Terence Blanchard’s “opera in jazz.” Additionally she appeared in _Justice at the Opera_ with Supreme Court Justice Ruth Bader Ginsburg, performing scenes from _Aida_and _Un ballo in maschera_ with the Washington National Opera Orchestra.
 
 In the 2015-16 season she appeared at WNO as Mrs. Dorsey/Amelia Boynton in the world premiere of the revised version of Philip Glass' _Appomattox_; The Answerer/Ensemble in _Lost in the Stars_; Serena in _Porgy and Bess_ with the Baltimore Symphony Orchestra; and Lucia in _The Thieving Magpie_ as a young artist at The Glimmerglass Festival. Previously a mezzo-soprano, other roles include Julia Child in Lee Hoiby’s one-woman opera, _Bon Appétit_, Marcellina in _Le nozze di Figaro_, La Ciesca in _Gianni Schicchi,_ La Badessa in _Suor Angelica_, Tisbe in _La Cenerentola,_ and Giulietta in _Les contes d’Hoffmann._

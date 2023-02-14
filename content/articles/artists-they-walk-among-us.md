@@ -1,14 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-12-20T14:55:00-05:00"
-lastmod = "2015-12-22T15:03:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450814445130/2015-12-22---Busy.jpg.jpg"
-publishDate = "2015-12-22T15:00:00-05:00"
-short_description = "I suppose it&#039;s the same as anybody with an interesting enough profession; I&#039;ve probably stood in a Starbucks line with someone on Bay Street who just made himself $50M or something, or walked by a brain surgeon or two on my way up University Avenue. From my point of view, I simply saw another guy in a great suit, or a faceless person in scrubs outside a hospital. "
-slug = "artists-they-walk-among-us"
-title = "Artists: they walk among us"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-12-20T14:55:00-05:00"
+lastmod: "2015-12-22T15:03:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450814445130/2015-12-22---Busy.jpg.jpg
+publishDate: "2015-12-22T15:00:00-05:00"
+short_description: 'I suppose it&#039;s the same as anybody with an interesting enough
+  profession; I&#039;ve probably stood in a Starbucks line with someone on Bay Street
+  who just made himself $50M or something, or walked by a brain surgeon or two on
+  my way up University Avenue. From my point of view, I simply saw another guy in
+  a great suit, or a faceless person in scrubs outside a hospital. '
+slug: artists-they-walk-among-us
+title: 'Artists: they walk among us'
+_template: article_single
+---
 
 The other day I was walking downtown, and spotted an opera singer friend of mine across the street. She didn't see me, and the combination of a busy street and her wearing headphones meant I couldn't shout hello without looking insane.
 

@@ -1,18 +1,22 @@
-+++
-date = "2019-01-14T01:00:21+00:00"
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547427446/media/2019/01/JaredBybeefull.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/arizona-opera.md", "scene/companies/gran-teatre-del-liceu.md", "scene/companies/utah-opera.md", "scene/companies/the-santa-fe-opera.md"]
-slug = "jared-bybee"
-title = "Jared Bybee"
-website = "https://www.jaredbybee.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/baritonejaredbybee"
-
-+++
+---
+date: "2019-01-14T01:00:21+00:00"
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1547427446/media/2019/01/JaredBybeefull.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/arizona-opera.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/utah-opera.md
+- scene/companies/the-santa-fe-opera.md
+slug: jared-bybee
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/baritonejaredbybee
+title: Jared Bybee
+website: https://www.jaredbybee.com/
+_template: "people_single"
+---
 California native baritone Jared Bybee is a fourth-year resident artist at the prestigious Academy of Vocal Arts under the direction of maestro Christopher Macatsoris and voice teacher Bill Schuman, where he has performed ten leading operatic roles including Guglielmo (_Cosi Fan Tutte_), Prince Yeletsky (_Pique Dame_), Germont (_La Traviata_), Marcello (_La Boheme_), Valentin (_Faust_), the title character in Don Giovanni, Manfredo (_L'Amore Dei Tre Re_), Michele (_Il Tabarro_), the title character in _Rigoletto_, Enrico (_Lucia di Lammermoor_) and covered the role of Lescaut (_Manon_) and the title character in _The Demon_. 
 
 While in his residency, Jared has reached international attention by participating in some of the world's most renowned vocal competitions.  He was an Encouragement Award winner at the 2016 George London Foundation Vocal Competition, a Fifth Prize winner at the 2016 Licia-Albanese Puccini Foundation International Vocal Competition, a Finalist in the 2015 International Hans Gabor Belvedere Singing Competition held at the Dutch National Opera, a Fifth Prize winner at the 2015 Giulio Gari Foundation International Vocal Competition, nominated for a 2015 and 2016 Sarah Tucker Study Grant by the Richard Tucker Music Foundation, a Fourth Prize winner at the 2015 Loren L. Zachary Society National Vocal Competition, a First Prize winner at the 2015 Gerda Lissner Foundation International Vocal Competition and days before, a Grand Finalist in the 2015 Metropolitan Opera National Council Auditions Grand Finals Concert where he performed on stage with the Metropolitan Opera Orchestra conducted by maestro Fabio Luisi. 

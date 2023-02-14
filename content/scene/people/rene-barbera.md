@@ -1,22 +1,29 @@
-+++
-date = "2016-06-26T14:29:00-06:00"
-discipline = "Tenor"
-lastmod = "2016-06-26T14:31:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466972825553/2016-06-25---Rene%CC%81_Barbera.jpg.jpg"
-publishDate = "2016-06-26T14:31:00-06:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/the-santa-fe-opera.md","scene/companies/los-angeles-opera.md"]
-slug = "rene-barbera"
-title = "René Barbera"
-website = "http://renebarbera.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/renebarbera84/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/renebarbera"
-+++
+---
+date: "2016-06-26T14:29:00-06:00"
+discipline: Tenor
+lastmod: "2016-06-26T14:31:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466972825553/2016-06-25---Rene%CC%81_Barbera.jpg.jpg
+publishDate: "2016-06-26T14:31:00-06:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/los-angeles-opera.md
+slug: rene-barbera
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/renebarbera84/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/renebarbera
+title: René Barbera
+website: http://renebarbera.com/
+_template: "people_single"
+---
 
 Tenor René Barbera, a graduate of Lyric Opera of Chicago’s Patrick G. and Shirley W. Ryan Opera Center, has swiftly established himself as one of today's most exciting young artists.
 

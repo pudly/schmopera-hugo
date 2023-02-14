@@ -1,32 +1,34 @@
-+++
-date = "2015-11-25T10:59:00-05:00"
-discipline = "Conductor"
-lastmod = "2015-11-25T10:59:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1657552291/media/2022/07/YannickNezetSeguin_ChrisLee_duedeu.jpg"
-primary_image_credit = "Chris Lee."
-publishDate = "2015-11-25T10:59:00-05:00"
-related_companies = ["scene/companies/lopra-de-montral.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/salzburg-festival.md", "scene/companies/royal-opera-house.md", "scene/companies/teatro-alla-scala.md"]
-slug = "yannick-nezet-seguin"
-title = "Yannick Nézet-Séguin"
-website = "http://www.yannicknezetseguin.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Yannick-N%C3%A9zet-S%C3%A9guin/103782322994297?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/nezetseguin"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/nezetseguin/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCftkbCdeSHJzQueLYCbs5zA"
-
-+++
+---
+date: "2015-11-25T10:59:00-05:00"
+discipline: Conductor
+lastmod: "2015-11-25T10:59:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1657552291/media/2022/07/YannickNezetSeguin_ChrisLee_duedeu.jpg
+primary_image_credit: Chris Lee.
+publishDate: "2015-11-25T10:59:00-05:00"
+related_companies:
+- scene/companies/lopra-de-montral.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/salzburg-festival.md
+- scene/companies/royal-opera-house.md
+- scene/companies/teatro-alla-scala.md
+slug: yannick-nezet-seguin
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/pages/Yannick-N%C3%A9zet-S%C3%A9guin/103782322994297?fref=ts
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/nezetseguin
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/nezetseguin/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCftkbCdeSHJzQueLYCbs5zA
+title: Yannick Nézet-Séguin
+website: http://www.yannicknezetseguin.com/
+_template: "people_single"
+---
 In September 2018, Yannick Nézet-Séguin becomes the third Music Director of the Metropolitan Opera, New York. Music Director of the Philadelphia Orchestra since 2012 and the Orchestre Métropolitain of Montreal since 2000, he becomes Honorary Conductor of the Rotterdam Philharmonic Orchestra after being their Music Director from 2008 to 2018. He is also Honorary Member of the Chamber Orchestra of Europe.
 
 Yannick has worked with many leading European ensembles and enjoys close collaborations with Berliner Philharmoniker, Wiener Philharmoniker, Bayerischer Rundfunk Sinfonieorchester and Chamber Orchestra of Europe; between 2008 and 2014, he was also Principal Guest Conductor of London Philharmonic Orchestra. He has appeared many times at the BBC Proms and at many European festivals, among them Edinburgh, Lucerne, Salzburg and Grafenegg (Vienna). North American summer appearances include New York's Mostly Mozart Festival, Lanaudiere, Vail and Saratoga along with Domaine Forget Festival in Charlevoix. With the Philadelphia Orchestra, he goes regularly to Carnegie Hall where he has been Perspectives Artist in 2019-2020. He also conducts master classes, notably at two of the most renowned institutions, the Curtis Institute of Philadelphia and the Julliard School of New York.

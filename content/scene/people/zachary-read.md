@@ -1,13 +1,18 @@
-+++
-date = "2015-11-04T14:23:00-05:00"
-discipline = "Baritone"
-lastmod = "2015-11-04T14:58:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446664920354/2015-11-04---Zachary-Read---Square.jpg.jpg"
-publishDate = "2015-11-04T14:23:00-05:00"
-related_companies = ["scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md","scene/companies/vancouver-opera.md","scene/companies/university-of-toronto-opera.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
-slug = "zachary-read"
-title = "Zachary Read"
-+++
+---
+date: "2015-11-04T14:23:00-05:00"
+discipline: Baritone
+lastmod: "2015-11-04T14:58:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446664920354/2015-11-04---Zachary-Read---Square.jpg.jpg
+publishDate: "2015-11-04T14:23:00-05:00"
+related_companies:
+- scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md
+- scene/companies/vancouver-opera.md
+- scene/companies/university-of-toronto-opera.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+slug: zachary-read
+title: Zachary Read
+_template: "people_single"
+---
 
 Nova Scotia native Zachary Read recently completed his Masters in Operatic Performance at the University of Toronto where he was the 2013-14 recipient of the Richard Bradshaw Fellowship in Opera. He also holds a Bachelors of Music in Voice (Honors) from the University of Western Ontario.
 

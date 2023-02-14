@@ -1,16 +1,30 @@
-+++
-author = ["authors/cassie-kutev.md"]
-categories = "Op-ed"
-date = "2016-08-25T16:32:00+01:00"
-lastmod = "2016-08-26T17:08:00+01:00"
-preamble = "This is a guest post by [Cassie Kutev](https://twitter.com/cassie_kutev), self-proclaimed mezzosexual and [vlogger](https://www.youtube.com/c/cassiekutev). We featured her fab [\"Choir Stereotypes\" video](/hilarity-stereotypes-from-choir/) in a previous post, and she was kind enough to write us an article."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472140545579/2016-08-26---Letter.jpg.jpg"
-publishDate = "2016-08-26T12:46:00+01:00"
-related_articles = ["articles/the-number-one-financial-thing-i-wish-everyone-would-know.md","articles/networking-for-introverted-performers.md","articles/quick-tips-the-rolled-r-test.md","articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md","articles/soundstreams-musik-ende.md"]
-short_description = "At the end of the day, there are certain things that you will not able to control, no matter how much you practice; and no matter how solid your technique is, you will hear, &quot;no&quot;. You cannot take it personally, the thicker your skin is, the better you will fare. It will make the &quot;yeses&quot; you hear even sweeter."
-slug = "dear-me-advice-to-my-freshman-self"
-title = "Dear me: advice to my freshman self"
-+++
+---
+author:
+- authors/cassie-kutev.md
+categories: Op-ed
+date: "2016-08-25T16:32:00+01:00"
+lastmod: "2016-08-26T17:08:00+01:00"
+preamble: This is a guest post by [Cassie Kutev](https://twitter.com/cassie_kutev),
+  self-proclaimed mezzosexual and [vlogger](https://www.youtube.com/c/cassiekutev).
+  We featured her fab ["Choir Stereotypes" video](/hilarity-stereotypes-from-choir/)
+  in a previous post, and she was kind enough to write us an article.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472140545579/2016-08-26---Letter.jpg.jpg
+publishDate: "2016-08-26T12:46:00+01:00"
+related_articles:
+- articles/the-number-one-financial-thing-i-wish-everyone-would-know.md
+- articles/networking-for-introverted-performers.md
+- articles/quick-tips-the-rolled-r-test.md
+- articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md
+- articles/soundstreams-musik-ende.md
+short_description: At the end of the day, there are certain things that you will not
+  able to control, no matter how much you practice; and no matter how solid your technique
+  is, you will hear, &quot;no&quot;. You cannot take it personally, the thicker your
+  skin is, the better you will fare. It will make the &quot;yeses&quot; you hear even
+  sweeter.
+slug: dear-me-advice-to-my-freshman-self
+title: 'Dear me: advice to my freshman self'
+_template: article_single
+---
 
 Back to school: the time of collecting school supplies, checking over schedules, and begrudging over the alarm clock that has laid dormant over the summer months. This time of year will be a major milestone for the young singer; this week they begin their journey onto a path built by the predecessors before them. 
 

@@ -1,22 +1,46 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2019-11-10T17:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "To get caught up on our #TheStories series, start with [Part I](/thestories-part-i/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573234105/media/2019/11/sqStoriesWrapup_mb3s25.jpg"
-primary_image_credit = ""
-related_articles = ["articles/thestories-part-15.md", "articles/thestories-part-14.md", "articles/thestories-part-13.md", "articles/thestories-part-12.md", "articles/thestories-part-10-1.md", "articles/thestories-part-10-2.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/metoo-intro.md"]
-related_companies = []
-related_people = []
-short_description = "You likely noticed that most of the stories are anonymous - but that doesn't mean I never got a name. It's a weird mix of feeling entrusted with delicate information, and feeling laden with a secret that's not mine to tell."
-slug = "thestories-for-better-or-for-worse"
-title = "#TheStories, for better or for worse"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Editorial
+date: '2019-11-10T17:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  To get caught up on our #TheStories series, start with [Part
+  I](/thestories-part-i/).
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1573234105/media/2019/11/sqStoriesWrapup_mb3s25.jpg
+primary_image_credit: ''
+related_articles:
+  - articles/thestories-part-15.md
+  - articles/thestories-part-14.md
+  - articles/thestories-part-13.md
+  - articles/thestories-part-12.md
+  - articles/thestories-part-10-1.md
+  - articles/thestories-part-10-2.md
+  - articles/thestories-part-9.md
+  - articles/thestories-part-8.md
+  - articles/thestories-part-10.md
+  - articles/thestories-part-6.md
+  - articles/thestories-part-5.md
+  - articles/thestories-part-4.md
+  - articles/thestories-part-3.md
+  - articles/thestories-part-2.md
+  - articles/thestories-part-i.md
+  - articles/metoo-intro.md
+related_companies: []
+related_people: []
+short_description: >-
+  You likely noticed that most of the stories are anonymous - but that doesn't
+  mean I never got a name. It's a weird mix of feeling entrusted with delicate
+  information, and feeling laden with a secret that's not mine to tell.
+slug: thestories-for-better-or-for-worse
+title: '#TheStories, for better or for worse'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 Alright. Hi, everyone.
 
 I figure those of you reading this post are the same people who have been following [#TheStories](/thestories-are-coming-out-and-heres-why/). It's a series of posts that tell true stories of sexual abuse, harassment, and assault within the realms of opera and classical music.

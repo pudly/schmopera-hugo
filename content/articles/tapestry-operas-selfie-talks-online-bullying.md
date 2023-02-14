@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2015-10-02T10:05:00-04:00"
-lastmod = "2015-10-02T13:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443805711379/SelfieSquare.jpg.jpg"
-publishDate = "2015-10-02T12:52:00-04:00"
-related_articles = ["articles/is-technology-making-it-harder-to-tell-stories.md"]
-related_people = ["scene/people/michael-mori.md","scene/people/chris-thornborrow.md"]
-short_description = "Next week, Tapestry Opera opens its new season with a workshop presentation of Selfie, a new opera with text by Julie Tepperman and music by Chris Thornborrow. Selfie was a part of Tapestry&#039;s Opera Briefs in past seasons, where Artistic Director Michael Mori says &quot;it received the most support.&quot;"
-slug = "tapestry-operas-selfie-talks-online-bullying"
-title = "Tapestry Opera&#039;s Selfie talks online bullying"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2015-10-02T10:05:00-04:00"
+lastmod: "2015-10-02T13:08:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443805711379/SelfieSquare.jpg.jpg
+publishDate: "2015-10-02T12:52:00-04:00"
+related_articles:
+- articles/is-technology-making-it-harder-to-tell-stories.md
+related_people:
+- scene/people/michael-mori.md
+- scene/people/chris-thornborrow.md
+short_description: Next week, Tapestry Opera opens its new season with a workshop
+  presentation of Selfie, a new opera with text by Julie Tepperman and music by Chris
+  Thornborrow. Selfie was a part of Tapestry&#039;s Opera Briefs in past seasons,
+  where Artistic Director Michael Mori says &quot;it received the most support.&quot;
+slug: tapestry-operas-selfie-talks-online-bullying
+title: Tapestry Opera&#039;s Selfie talks online bullying
+_template: article_single
+---
 
 Next week, [Tapestry Opera](/scene/companies/tapestry-opera/) opens its new season with a workshop presentation of *Selfie*, a new opera with text by [Julie Tepperman](/scene/people/julie-tepperman/) and music by [Chris Thornborrow](/chris-thornborrow-on-composing-with-kids/). *Selfie* was a part of Tapestry's Opera Briefs in past seasons, where Artistic Director [Michael Mori](/scene/people/michael-mori/) says "it received the most support." 
 

@@ -1,22 +1,55 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-07-18T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Jonathan Dove's [_Mansfield Park_](http://www.waterperryoperafestival.co.uk/mansfieldpark.html) appears at Waterperry Opera Festival, 25-28 July, and he sees a new commission premiere on 5 October at the [London Piano Festival](https://www.kingsplace.co.uk/whats-on/classical/two-piano-marathon-with-katya-apekisheva-charles-owen-christian-ihle-hadland-ingrid-fliter-susan-tomes-tim-horton/). The Canadian premiere of Dove's [_Flight_](https://www.pov.bc.ca/season.html) is at Pacific Opera Victoria, 20 February, 2020. His latest CD, [_The Orchestral Music of Jonathan Dove_](http://www.orchidclassics.com/releases/orc100097-the-orchestral-music-of-jonathan-dove/), is available now on Orchid Classics."
-preamble = "English composer Jonathan Dove, who just celebrated his 60th birthday, is settling in for a busy summer. At this year's BBC Proms is the world premiere of Dove's [_We Are One Fire_](https://www.bbc.co.uk/events/e4j6gw), on a, 19 August program shared with the new Piano Concerto by Dieter Ammann, and Beethoven's Ninth Symphony.\n\nDove also sees a new BBC Orchestra recording, [_The Orchestral Music of Jonathan Dove_](http://www.orchidclassics.com/releases/orc100097-the-orchestral-music-of-jonathan-dove/), on Orchid Classics;  which includes his _Airport Scenes_ and excerpts of his widely-performed opera, _Flight_.\n\nWe spoke with Dove about his impressive output as a composer, and what projects make him the most proud."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1563482141/media/2019/07/sqDoveIMG_6958-1.jpg"
-primary_image_credit = "Photo: Marshall Light Studio."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "\"I don't try to write anything down until it's already quite a long way to being finished in my mind. Before that, I just keep playing (piano or keyboard) until I have an idea that seems to have a future, and then follow where it leads.\""
-slug = "talking-with-composers-jonathan-dove"
-title = "Talking with composers: Jonathan Dove"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Interview
+date: '2019-07-18T04:00:00+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  Jonathan Dove's [_Mansfield
+  Park_](http://www.waterperryoperafestival.co.uk/mansfieldpark.html) appears at
+  Waterperry Opera Festival, 25-28 July, and he sees a new commission premiere
+  on 5 October at the [London Piano
+  Festival](https://www.kingsplace.co.uk/whats-on/classical/two-piano-marathon-with-katya-apekisheva-charles-owen-christian-ihle-hadland-ingrid-fliter-susan-tomes-tim-horton/).
+  The Canadian premiere of Dove's [_Flight_](https://www.pov.bc.ca/season.html)
+  is at Pacific Opera Victoria, 20 February, 2020. His latest CD, [_The
+  Orchestral Music of Jonathan
+  Dove_](http://www.orchidclassics.com/releases/orc100097-the-orchestral-music-of-jonathan-dove/),
+  is available now on Orchid Classics.
+preamble: >-
+  English composer Jonathan Dove, who just celebrated his 60th birthday, is
+  settling in for a busy summer. At this year's BBC Proms is the world premiere
+  of Dove's [_We Are One Fire_](https://www.bbc.co.uk/events/e4j6gw), on a, 19
+  August program shared with the new Piano Concerto by Dieter Ammann, and
+  Beethoven's Ninth Symphony.
 
-+++
+
+  Dove also sees a new BBC Orchestra recording, [_The Orchestral Music of
+  Jonathan
+  Dove_](http://www.orchidclassics.com/releases/orc100097-the-orchestral-music-of-jonathan-dove/),
+  on Orchid Classics;  which includes his _Airport Scenes_ and excerpts of his
+  widely-performed opera, _Flight_.
+
+
+  We spoke with Dove about his impressive output as a composer, and what
+  projects make him the most proud.
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1563482141/media/2019/07/sqDoveIMG_6958-1.jpg
+primary_image_credit: 'Photo: Marshall Light Studio.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: >-
+  "I don't try to write anything down until it's already quite a long way to
+  being finished in my mind. Before that, I just keep playing (piano or
+  keyboard) until I have an idea that seems to have a future, and then follow
+  where it leads."
+slug: talking-with-composers-jonathan-dove
+title: 'Talking with composers: Jonathan Dove'
+youtube_url: ''
+_template: article_single
+---
+
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 
 I like melodies that you can sing, rhythms that you can dance to, and ideas that you could call "catchy". I want it to appear effortless, and I want the audience to be able to enjoy it on first hearing. (However, it isn't effortless for the performers!)
@@ -27,7 +60,9 @@ People hear all kinds of echoes, especially of Britten, John Adams and sometimes
 
 I don't try to write anything down until it's already quite a long way to being finished in my mind. Before that, I just keep playing (piano or keyboard) until I have an idea that seems to have a future, and then follow where it leads. When I get tired of playing, or nothing's really taking off, I walk or cycle somewhere, maybe visit a gallery or a museum, or read.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563498979/media/2019/07/DoveIMG_7234BO.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1563498979/media/2019/07/DoveIMG_7234BO.jpg)
 
 <figcaption>Jonathan Dove, composer. Photo: Marshall Light Studio.</figcaption>
 
@@ -49,7 +84,9 @@ I ought to have an answer, but I'm not sure what it is! Some pieces come easily,
 
 The songs from _The Little Mermaid_.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563498963/media/2019/07/DoveIMG_7040BO.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1563498963/media/2019/07/DoveIMG_7040BO.jpg)
 
 <figcaption>Jonathan Dove, composer. Photo: Marshall Light Studio.</figcaption>
 

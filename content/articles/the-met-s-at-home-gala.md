@@ -1,22 +1,55 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-Ed"
-date = 2020-04-26T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1587919186/media/2020/04/sqMetGalaCollage_Fotor_uxmllq.jpg"
-primary_image_credit = "Clockwise from top: Erin Morley, Jamie Barton, Etienne Dupuis & Nicole Car, Nadine Sierra, Isabel Leonard, and Lawrence Brownlee in The Metropolitan Opera's At-Home Gala, April 25, 2020."
-related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/3-life-lessons-that-practice-rooms-can-teach-you.md", "articles/10-years-of-the-met-at-the-movies.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/ildar-abdrazakov.md", "scene/people/günther-groissböck.md", "scene/people/yannick-nézet-séguin.md", "scene/people/rené-pape.md", "scene/people/joseph-calleja.md", "scene/people/matthew-polenzani.md", "scene/people/jonas-kaufmann.md", "scene/people/elina-garanca.md", "scene/people/anthony-roth-costanzo.md", "scene/people/diana-damrau.md", "scene/people/anna-netrebko.md", "scene/people/angel-blue.md", "scene/people/javier-camarena.md", "scene/people/lisette-oropesa.md", "scene/people/renee-fleming.md", "scene/people/nadine-sierra.md", "scene/people/erin-morley.md"]
-short_description = "And speaking of the participating artists - I wonder very loudly how they felt about doing this for no fee, particularly those who found out about their cancelled Met contracts through social media posts. It's quite something for Peter Gelb to not call his contracted artists when COVID-19 shut everything down, and then ask them to come help \"Save The Met\" with a free performance at home. Yikes."
-slug = "what-the-mets-at-home-gala-teaches-us-about-evolution"
-title = "What the Met's At-Home Gala teaches us about evolution"
-youtube_url = ""
+---
+author:
+  - authors/jenna.md
+categories: Op-Ed
+date: '2020-04-26T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1587919186/media/2020/04/sqMetGalaCollage_Fotor_uxmllq.jpg
+primary_image_credit: >-
+  Clockwise from top: Erin Morley, Jamie Barton, Etienne Dupuis & Nicole Car,
+  Nadine Sierra, Isabel Leonard, and Lawrence Brownlee in The Metropolitan
+  Opera's At-Home Gala, April 25, 2020.
+related_articles:
+  - articles/talking-with-singers-matthew-polenzani.md
+  - articles/3-life-lessons-that-practice-rooms-can-teach-you.md
+  - articles/10-years-of-the-met-at-the-movies.md
+related_companies:
+  - scene/companies/the-metropolitan-opera.md
+related_people:
+  - scene/people/ildar-abdrazakov.md
+  - scene/people/günther-groissböck.md
+  - scene/people/yannick-nézet-séguin.md
+  - scene/people/rené-pape.md
+  - scene/people/joseph-calleja.md
+  - scene/people/matthew-polenzani.md
+  - scene/people/jonas-kaufmann.md
+  - scene/people/elina-garanca.md
+  - scene/people/anthony-roth-costanzo.md
+  - scene/people/diana-damrau.md
+  - scene/people/anna-netrebko.md
+  - scene/people/angel-blue.md
+  - scene/people/javier-camarena.md
+  - scene/people/lisette-oropesa.md
+  - scene/people/renee-fleming.md
+  - scene/people/nadine-sierra.md
+  - scene/people/erin-morley.md
+short_description: >-
+  And speaking of the participating artists - I wonder very loudly how they felt
+  about doing this for no fee, particularly those who found out about their
+  cancelled Met contracts through social media posts. It's quite something for
+  Peter Gelb to not call his contracted artists when COVID-19 shut everything
+  down, and then ask them to come help "Save The Met" with a free performance at
+  home. Yikes.
+slug: what-the-mets-at-home-gala-teaches-us-about-evolution
+title: What the Met's At-Home Gala teaches us about evolution
+youtube_url: ''
+_template: article_single
+---
 
-+++
 The Metropolitan Opera has been home to plenty of history over its lifespan, and today is another for the books. Over 40 of the Met's artists banded together - via Skype - to create the _At-Home Gala_, a four-hour marathon of performances given from everyone's respective homes. Those 40+ don't account for the performances by the Met Orchestra and the Met Chorus, which were prerecorded for the occasion; some big kudos should go to the Met staff who organized all of this, because despite all the moving parts, the (nearly) all live event went smoothly.
 
 It was admittedly a bit weird at times. Weird to see Jonas Kaufmann sing in jeans. Weird to watch Elīna Garanča use her bookcase as a sexy Habañera set piece. What was the story behind the strange bust sitting on the piano behind Anthony Roth Costanzo? Joseph Calleja standing stage-right of a big fish tank? And for some reason I am spending a lot of time wondering about the mystery item laying askew on Matthew Polenzani's couch.
@@ -29,7 +62,9 @@ Now is no time to look down on feats like this one, because it really was an ama
 
 And speaking of the participating artists - I wonder very loudly how they felt about doing this for no fee, particularly those who found out about their cancelled Met contracts through social media posts. It's quite something for General Manager Peter Gelb to not call his contracted artists when COVID-19 shut everything down, and then ask them to come help "Save The Met" with a free performance at home. Yikes.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1587919289/media/2020/04/MetHomeGala-3_j9zqas.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1587919289/media/2020/04/MetHomeGala-3_j9zqas.jpg)
 
 <figcaption>The Metropolitan Opera's General Manager Peter Gelb (top left), Music Director Yannick Nézet-Séguin (bottom left), and tenor Jonas Kaufmann with pianist Helmut Deutsch in The Met's At-Home Gala, April 25, 2020.</figcaption>
 

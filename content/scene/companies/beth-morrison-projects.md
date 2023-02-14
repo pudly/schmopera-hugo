@@ -1,22 +1,24 @@
-+++
-date = "2017-07-20T10:04:00-04:00"
-lastmod = "2017-07-20T10:04:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500559410903/065a91cb46b361cb8d63fea0b8a511a8_400x400.png.png"
-publishDate = "2017-07-20T10:04:00-04:00"
-related_people = ["scene/people/cree-carrico.md","scene/people/blythe-gaissert.md"]
-slug = "beth-morrison-projects"
-title = "Beth Morrison Projects"
-type_of_company = "Opera & theatre company"
-website = "http://www.bethmorrisonprojects.org/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/bmpopera"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/bethmorrisonprojects/?hl=en"
-+++
+---
+date: "2017-07-20T10:04:00-04:00"
+lastmod: "2017-07-20T10:04:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500559410903/065a91cb46b361cb8d63fea0b8a511a8_400x400.png.png
+publishDate: "2017-07-20T10:04:00-04:00"
+related_people:
+- scene/people/cree-carrico.md
+- scene/people/blythe-gaissert.md
+slug: beth-morrison-projects
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/bmpopera
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/bethmorrisonprojects/?hl=en
+title: Beth Morrison Projects
+type_of_company: Opera & theatre company
+website: http://www.bethmorrisonprojects.org/
+_template: "company_single"
+---
 
 ### MISSION
 

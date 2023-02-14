@@ -1,14 +1,17 @@
-+++
-date = "2017-09-18T16:00:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-09-18T16:00:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505764460528/RachelCalloway-2017-Headshot.jpg.jpg"
-publishDate = "2017-09-18T16:00:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/glimmerglass-festival.md"]
-slug = "rachel-calloway"
-title = "Rachel Calloway"
-website = "http://rachelcalloway.com/"
-+++
+---
+date: "2017-09-18T16:00:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-09-18T16:00:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505764460528/RachelCalloway-2017-Headshot.jpg.jpg
+publishDate: "2017-09-18T16:00:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/glimmerglass-festival.md
+slug: rachel-calloway
+title: Rachel Calloway
+website: http://rachelcalloway.com/
+_template: "people_single"
+---
 
 As an internationally recognized leading interpreter of contemporary and modern music, mezzo-soprano Rachel Calloway brings versatility and compelling insight to stages worldwide. Her work has been praised by the New York Times for “penetrating clarity” and “considerable depth of expression” and by Opera News for her “adept musicianship and dramatic flair.”
 

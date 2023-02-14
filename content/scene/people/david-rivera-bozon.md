@@ -1,29 +1,27 @@
-+++
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1635100287/media/2021/10/David-Rivera-Bozon_ummcz9.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/massopera.md"]
-slug = "david-rivera-bozon"
-title = "David Rivera Bozón"
-website = "https://www.davidriverabozon.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/davidriverabozon"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/DRiveraBozon"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/davidriverabozon/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCGysosq7YyI5VCucU3o8DKg"
-
-+++
+---
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1635100287/media/2021/10/David-Rivera-Bozon_ummcz9.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/massopera.md
+slug: david-rivera-bozon
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/davidriverabozon
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/DRiveraBozon
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/davidriverabozon/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCGysosq7YyI5VCucU3o8DKg
+title: David Rivera Bozón
+website: https://www.davidriverabozon.com/
+_template: "people_single"
+---
 I am an international Colombian tenor, based in Boston, with more than sixteen years of experience in music performing. The core of my career has been to share with love the joy of singing; bringing my voice and heart on different latitudes and communities: From big theaters, to flash mobs in bakeries and shopping malls.
 
 On my eclectic international career, some operatic roles includes Puccini's _Madama Butterfly_'s B.F. Pinkerton and Rinuccio in _Gianni Schicchi_, Tamino in Mozart's _Die Zauberflöte_ and Le Mari in Poulenc's _Les Mamelles de Tiresias_. Stage works as: Beethoven's 9th Symphony, Stravinsky's _Les Noces_, Einhorn's _Voices of Light_. I have an special interest into repertoire in Spanish, so I performed chamber works such as Ramirez’ _La Misa Criolla_, Falla’s _Siete Canciones Populares Españolas_, Ginastera's _Cantos del Tucumán_ and _Cinco Canciones Populares Argentinas_.

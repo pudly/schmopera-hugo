@@ -1,22 +1,36 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = 2021-07-26T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1626801869/media/2021/07/sqDMMO-Platee-JonasHacker-DuaneTinkey_rkxlnw.jpg"
-primary_image_credit = "Jonas Hacker as Mercury in Des Moines Metro Opera's production of Platée, 2021. Photo: Duane Tinkey."
-related_articles = []
-related_companies = ["scene/companies/des-moines-metro-opera.md"]
-related_people = ["scene/people/elizabeth-sutphen.md", "scene/people/taylor-stayton.md", "scene/people/sara-gartland.md", "scene/people/zoie-reams.md", "scene/people/john-holiday.md"]
-short_description = "The pandemic may have put performances on hiatus, but audiences are back and eager to enjoy live theater with all the passion and perseverance of the human experience. Welcome back, opera. We've missed you!"
-slug = "a-busy-weekend-at-des-moines-metro-opera"
-title = "A busy weekend at Des Moines Metro Opera"
-youtube_url = ""
+---
+author:
+  - authors/meghan-klinkenborg.md
+categories: Review
+date: '2021-07-26T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1626801869/media/2021/07/sqDMMO-Platee-JonasHacker-DuaneTinkey_rkxlnw.jpg
+primary_image_credit: >-
+  Jonas Hacker as Mercury in Des Moines Metro Opera's production of Platée,
+  2021. Photo: Duane Tinkey.
+related_articles: []
+related_companies:
+  - scene/companies/des-moines-metro-opera.md
+related_people:
+  - scene/people/elizabeth-sutphen.md
+  - scene/people/taylor-stayton.md
+  - scene/people/sara-gartland.md
+  - scene/people/zoie-reams.md
+  - scene/people/john-holiday.md
+short_description: >-
+  The pandemic may have put performances on hiatus, but audiences are back and
+  eager to enjoy live theater with all the passion and perseverance of the human
+  experience. Welcome back, opera. We've missed you!
+slug: a-busy-weekend-at-des-moines-metro-opera
+title: A busy weekend at Des Moines Metro Opera
+youtube_url: ''
+_template: article_single
+---
 
-+++
 After more than a year without theatrical performances, [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/)'s summer season was a welcome reunion with live opera. Walking into the theater felt like coming home after a long and lonely pandemic, and their COVID precautions made the experience both welcoming and safe. It was clear that every opera lover in the audience was more than happy to wear their masks and keep their distance, because each and every one of us was ready to dive back into our favorite art form and regain just a little bit of our lost community as we reveled in the beauty of music.
 
 ## _Sweeney Todd_
@@ -25,7 +39,9 @@ My first live opera of 2021 ironically came in the form of a musical, Stephen So
 
 The scenic design by R. Keith Brumley captured the industrial revolution, both efficient and complex. Rotating set pieces allowed the audience to view multiple interiors and exteriors without pause, and the players circle at the front of the stage showcased cobbled streets, piles of junk, and a sinister sewer grate. Kate Ashton's lighting design complimented the scenery, alternating between the bright comedic motifs and the dark shadows lurking behind the cheerful façade. Notably in the background of the stage was a massive forge, nameless blacksmiths toiling in the demonic glow as Sweeney Todd grappled with his need for revenge.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824150/media/2021/07/DMMO-Sweeney-ZacharyNelsonLucySchaufer_z6vvg3.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1626824150/media/2021/07/DMMO-Sweeney-ZacharyNelsonLucySchaufer_z6vvg3.jpg)
 
 <figcaption>Zachary Nelson (Sweeney Todd) and Lucy Schaufer (Mrs. Lovett) in Des Moines Metro Opera's production of Sweeney Todd, 2021. Photo: Duane Tinkey.</figcaption>
 
@@ -35,7 +51,9 @@ Similarly the costumes, designed by Jonathan Knipscher, were an unconventional a
 
 The stage direction by Kristen McIntyre combined straightforward action and bustling crowd scenes. Fleet Street was a vibrant community, and this relatable depiction made Sweeney Todd's crimes all the more gruesome. However, some of the stage violence was a bit confusing, most notably the flashback rape scene and Pirelli's death. I admired that this production did not revel in the blood and sexual violence, but the balance between subtlety and clarity was off. I don't need buckets of blood, but I want to at least catch a glimpse of crimson when his victims plummet to their demise.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824228/media/2021/07/DMMO-Sweeney-ZacharyNelsonPeterScottDrackley_uxshbh.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1626824228/media/2021/07/DMMO-Sweeney-ZacharyNelsonPeterScottDrackley_uxshbh.jpg)
 
 <figcaption>Zachary Nelson (Sweeney Todd) and Peter Scott Drackley (Pirelli) in Des Moines Metro Opera's production of Sweeney Todd, 2021. Photo: Duane Tinkey.</figcaption>
 
@@ -47,7 +65,9 @@ The standout performance of the evening was without question that of the chorus 
 
 Each character in _Sweeney Todd_ is uniquely memorable, and Des Moines Metro Opera's cast captured this distinct variety to great effect. From the beginning of the opera, Ben Edquist embodied youthful optimism in the role of Anthony Hope. He contrasted Todd's brooding manner with exuberance and lyricism. Edquist's rendition of the beloved "Johanna" was charming and vulnerable. His tone was manlier than typically expected in this role, but I enjoyed the bolder delivery against Sondheim's brassy backdrop. It was easy to see why Anthony had fallen so quickly for the yellow haired Johanna as soon as Grace Kahl appeared onstage. Her performance of "Green Finch and Linnet Bird" was worthy of any songbird, her sweet soprano voice shimmered with both clarity and passion. The pair of lovers were a much needed beacon of hope in an otherwise gruesome tale.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824332/media/2021/07/DMMO-Sweeney-GraceKahl_u73xai.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1626824332/media/2021/07/DMMO-Sweeney-GraceKahl_u73xai.jpg)
 
 <figcaption>Grace Kahl (Johanna) in Des Moines Metro Opera's production of Sweeney Todd, 2021. Photo: Duane Tinkey.</figcaption>
 
@@ -63,7 +83,9 @@ Toby’s first employer, Adolfo Pirelli, was sung by Peter Scott Drackley. Pirel
 
 The chemistry between everyone’s favorite murderous duo was palpable. [Zachary Nelson](/talking-with-singers-zachary-nelson/) was a foreboding presence in the role of Sweeney Todd, and [Lucy Schaufer](/scene/people/lucy-schaufer/) was a humorous counterpoint as Mrs. Nellie Lovett. Nelson’s brooding baritone voice delivered the unrelenting focus and dark malice of the demon barber of Fleet Street. His performance of "My Friends" was smooth and sinister albeit somewhat stiff physically. Surrounded by lively characters, Nelson's Todd was an eerily calm and ominous presence.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824353/media/2021/07/DMMO-Sweeney-LucySchauferZacharyNelson_zm9ich.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1626824353/media/2021/07/DMMO-Sweeney-LucySchauferZacharyNelson_zm9ich.jpg)
 
 <figcaption>Lucy Schaufer (Mrs. Lovett) and Zachary Nelson (Sweeney Todd) in Des Moines Metro Opera's production of Sweeney Todd, 2021. Photo: Duane Tinkey.</figcaption>
 
@@ -77,7 +99,9 @@ By the end of the musical, the audience is both rooting for and against Todd and
 
 The plot of Rameau’s _Platée_ is bizarre at best and potentially problematic. Des Moines Metro Opera cleverly navigated both of these issues with their unique interpretation of the baroque comedy. The general storyline is that in order to temper the jealousy of his wife, Juno, the god Jupiter agrees to a sham seduction and marriage ceremony with a vain, swamp dwelling water nymph named Platée. (Why anyone would think this tactic would work is beyond me, but for some reason, it does.) Often in past productions of the opera, Platée's appearance is the butt of the joke. She is so hideous that of course it would be absurd for Jupiter to cheat on his wife with her. Des Moines Metro Opera's production team wisely took a different approach. It is the nymph's intense vanity and cruelty towards others that are her major flaws. Her appearance is beautiful, but her behavior is ugly. This refreshing take on a potentially shallow premise was a welcome update, and the audience reveled in the frivolous fun.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824390/media/2021/07/DMMOPlatee-chorus-DuaneTinkey_obekmx.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1626824390/media/2021/07/DMMOPlatee-chorus-DuaneTinkey_obekmx.jpg)
 
 <figcaption>The chorus of Des Moines Metro Opera's production of Platée, 2021. Photo: Duane Tinkey.</figcaption>
 
@@ -89,7 +113,9 @@ Once we transitioned to Platée's home, the color pink further intensified. The 
 
 Nate Wheatley's lighting design complimented the colorful and chaotic world of Climer's scenery, bringing even more flair for the dramatic with stormy effects and divine sparks at crucial moments. Juno's wrath was felt throughout the show, even when she wasn't onstage.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824435/media/2021/07/DMMO-Platee-ScottConner-DuaneTinkey_iorho5.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1626824435/media/2021/07/DMMO-Platee-ScottConner-DuaneTinkey_iorho5.jpg)
 
 <figcaption>Scott Conner (Jupiter) in Des Moines Metro Opera's production of Platée, 2021. Photo: Duane Tinkey.</figcaption>
 
@@ -103,7 +129,9 @@ Conductor Gary Thor Wedow led the orchestra in a polished and energetic performa
 
 The chorus under the direction of Lisa Hasson gave a delightful performance as both drunken partiers and Platée's long abused entourage. Each individual brought a unique character to life while maintaining a solid vocal ensemble, often making cheeky comments to the audience at their mistress’ expense. Their interactions with the main characters made for some of the most hilarious moments of the opera, and their energy carried the story no matter how absurd some of the plot points.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824463/media/2021/07/DMMO-Platee-ScottConner-ZoieReams-DuaneTinkey_brzx7s.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1626824463/media/2021/07/DMMO-Platee-ScottConner-ZoieReams-DuaneTinkey_brzx7s.jpg)
 
 <figcaption>Scott Conner (Jupiter) and Zoie Reams (Juno) in Des Moines Metro Opera's production of Platée, 2021. Photo: Duane Tinkey.</figcaption>
 
@@ -115,7 +143,9 @@ The cast of _Platée_ delivered virtuosic vocals and humorous hijinks from start
 
 Elliott was a constant presence throughout the opera since Momus seemed to be one of the primary masterminds behind Platée's prank nuptials. His rich baritone was surprisingly agile in the baroque style, and his physical embodiment of the role held just the right amount of snark. It takes true comedic bravado to don a skimpy cupid costume, heart shaped arrows and all, with confidence, and Elliot embraced every ridiculous moment with natural ease.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824530/media/2021/07/DMMOPlatee-TaylorStaytonCadieJBryanNormanthePoodleDuaneTinkey_off1wn.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1626824530/media/2021/07/DMMOPlatee-TaylorStaytonCadieJBryanNormanthePoodleDuaneTinkey_off1wn.jpg)
 
 <figcaption>Taylor Stayton (Platée), Cadie J. Bryan (Clarine) and Norman the Poodle Des Moines Metro Opera's production of Platée, 2021. Photo: Duane Tinkey.</figcaption>
 
@@ -141,7 +171,9 @@ The third installment of my opera marathon was Tchaikovsky's _The Queen of Spade
 
 The designs for this production were decadent and refined, a tribute to eighteenth century aesthetics. The costumes designed by Jonathan Knipscher fell into two categories, military men and noble women. The men wore crisp red and blue uniforms. Only the lead tenor Gheman stood out in his more muted burgundy, making his status as an outsider instantly apparent. The women wore more delicate fabrics, typically in pale creams or bold reds. Lisa, the lead soprano, was also set apart visually in the crowd scenes, often wearing softer pinks against the bright scarlets. The Countess similarly was dressed in less vibrant colors, and her afterlife ensemble was the height of luxury. Even as a ghost, the Countess was the most stylish soul in the room.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824677/media/2021/07/DMMO-Queen-Chorus_tmssvq.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1626824677/media/2021/07/DMMO-Queen-Chorus_tmssvq.jpg)
 
 <figcaption>The chorus of Des Moines Metro Opera's production of The Queen of Spades, 2021. Photo: Duane Tinkey.</figcaption>
 
@@ -153,7 +185,9 @@ The stage direction by Matthew Ozawa felt natural without being stagnant. Some o
 
 David Neely led the orchestra in a robust performance of Tchaikovksy's lush musical realm. From the silky melodies to the sinister undercurrents, the ensemble illustrated the tumultuous emotions of Gherman's descent into love and madness with equal skill, and I often found myself basking in the plush orchestration, no words needed to express the drama.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824726/media/2021/07/DMMO-Queen-CadieJBryanTaylorRaven_s0mi1g.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1626824726/media/2021/07/DMMO-Queen-CadieJBryanTaylorRaven_s0mi1g.jpg)
 
 <figcaption>Cadie J. Bryan (Prilepa) and Taylor Raven (Milovzor) in Des Moines Metro Opera's production of The Queen of Spades, 2021. Photo: Duane Tinkey.</figcaption>
 
@@ -175,7 +209,9 @@ The Countess was a regal presence on the stage, and Joyce Castle captured her ar
 
 [Sara Gartland](/scene/people/sara-gartland/) graced the stage in the role of Lisa, the Countess's granddaughter and Gherman’s beloved. Gartland sang with passion and finesse, displaying Lisa's progression from innocent infatuation to desperate obsession. I found it hard to connect with the character of Lisa through no fault of the performance itself. The young noblewoman is madly in love with Gherman, but it was difficult to figure out why. Was it love at first sight? Had they corresponded in the past? The two lovers didn’t seem to really know each other, but the audience was supposed to accept their romance without much emotional or musical build up to it. Gartland's vocal delivery in Lisa's tragic third act aria was heartbreaking and beautiful, but the death scene's impact was undercut by a lack of compelling romantic interactions leading up to her demise.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824810/media/2021/07/DMMOQueen-TaylorRavenKseniiaPolstiankinaBarradAmandaSheriff_xm8gcb.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1626824810/media/2021/07/DMMOQueen-TaylorRavenKseniiaPolstiankinaBarradAmandaSheriff_xm8gcb.jpg)
 
 <figcaption>Taylor Raven as (Pauline, centre), Kseniia Polstiankina Barrad (on-stage pianist),  and Amanda Sheriff (left) in Des Moines Metro Opera's production of The Queen of Spades, 2021. Photo: Duane Tinkey.</figcaption>
 
@@ -193,7 +229,9 @@ The musical fireworks were complimented by colorful lighting. The backdrop would
 
 John Holiday collaborated with two pianists for the performance, Kevin J. Miller and Neeki Bey, each accompanying Holiday for one half of the performance. The mutual respect between all three men was evident in their connections onstage. Holiday would playfully quip with the pianists between songs, and both Miller and Bey displayed tender musicality and technical skill upon their instrument as Holiday soared above.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626825043/media/2021/07/JohnHoliday_etdgct.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1626825043/media/2021/07/JohnHoliday_etdgct.jpg)
 
 <figcaption>Countertenor John Holiday.</figcaption>
 

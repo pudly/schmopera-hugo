@@ -1,23 +1,27 @@
-+++
-date = "2018-02-07T16:49:00-05:00"
-discipline = "Soprano"
-lastmod = "2018-02-07T16:49:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518039866011/Jacquelyn_630.jpg.jpg"
-publishDate = "2018-02-07T16:49:00-05:00"
-related_companies = ["scene/companies/the-santa-fe-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/glyndebourne.md", "scene/companies/royal-opera-house.md"]
-slug = "jacquelyn-stucker"
-title = "Jacquelyn Stucker"
-website = "http://www.jacquelynstucker.com/home-juke/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/gonzosoprano"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/gonzosoprano/"
-
-+++
+---
+date: "2018-02-07T16:49:00-05:00"
+discipline: Soprano
+lastmod: "2018-02-07T16:49:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518039866011/Jacquelyn_630.jpg.jpg
+publishDate: "2018-02-07T16:49:00-05:00"
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/glyndebourne.md
+- scene/companies/royal-opera-house.md
+slug: jacquelyn-stucker
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/gonzosoprano
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/gonzosoprano/
+title: Jacquelyn Stucker
+website: http://www.jacquelynstucker.com/home-juke/
+_template: "people_single"
+---
 Hailed by The Boston Globe as “glowing,” “incandescent,” and “a singing actress to be reckoned with,” American soprano Jacquelyn Stucker is being recognized internationally as a versatile singer of new and interesting repertoire ranging from concert works to opera to contemporary music. Praised for her “dark-tinged soprano with a dusky lower register,” Jacquelyn will begin her second year as a Jette Parker Young Artist at The Royal Opera House at Covent Garden. This season at Covent Garden, Jacquelyn will perform Prilepa in _The Queen of Spades_ with Antonio Pappano conducting, Aphrodite in Henze’s _Phaedra_, and Alessandro in Handel’s _Berenice_. She will also cover Susanna in _Le Nozze di Figaro_ with John Eliot Gardiner conducting, and will reprise Frasquita in Barrie Kosky’s _Carmen_.
 
 In the autumn of 2019, Jacquelyn will make her Glyndebourne debut as Armida in Robert Carsen’s production of _Rinaldo_, and she will then make her principal artist debut at Deutsche Oper Berlin as Gretel in _Hansel und Gretel_ and Pamina in _Die Zauberflöte_. Last season, she made both her Covent Garden Debut and her Bayerische Staatsoper debut as Azema in David Alden’s new production of _Semiramide_. She also performed as Frasquita in Barrie Kosky’s production of _Carmen_ and the production will be broadcast worldwide in March 2018 as part of the Royal Opera House’s Live Cinema Season. She was featured in recital through The Royal Opera House; a solo recital of UK premieres of music by John Harbison, Federico Favali, and Mark Kilstofte; a performance of Bach "Ich habe genug" with The Royal Opera House Orchestra, conducted by James Hendry; and a recital with baritone Dominic Sedgwick and pianist David Gowland of Wolf’s _Italienisches Liederbuch_.

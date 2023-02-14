@@ -1,14 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-02-16T17:06:00+00:00"
-lastmod = "2017-02-17T11:00:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487328950083/2017-02-18---Diva.jpg.jpg"
-publishDate = "2017-02-17T11:00:00+00:00"
-short_description = "This paragraph seems dangerously presumptuous, and more than a little insulting to Meyers. It&#039;s quite a thing to say, that a director was entirely uninvolved in a singer&#039;s performance, and to credit a singer with being the saving grace of a production. It&#039;s a simple case of problematic journalism: how does Jorden know that Damrau&#039;s performance wasn&#039;t guided by Meyers?"
-slug = "the-weird-mystery-of-the-mets-diva-directors"
-title = "The weird mystery of the Met&#039;s &quot;diva directors&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-02-16T17:06:00+00:00"
+lastmod: "2017-02-17T11:00:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487328950083/2017-02-18---Diva.jpg.jpg
+publishDate: "2017-02-17T11:00:00+00:00"
+short_description: 'This paragraph seems dangerously presumptuous, and more than a
+  little insulting to Meyers. It&#039;s quite a thing to say, that a director was
+  entirely uninvolved in a singer&#039;s performance, and to credit a singer with
+  being the saving grace of a production. It&#039;s a simple case of problematic journalism:
+  how does Jorden know that Damrau&#039;s performance wasn&#039;t guided by Meyers?'
+slug: the-weird-mystery-of-the-mets-diva-directors
+title: The weird mystery of the Met&#039;s &quot;diva directors&quot;
+_template: article_single
+---
 
 We came across a weird [article for *The Observer*](https://cdn.ampproject.org/c/observer.com/2017/02/met-review-opera-i-puritani/amp/) today by James Jorden, entitled, "At the Met, the Diva is the Director". Referring first to the Met's current production of *I Puritani*, starring [Javier Camarena](/scene/people/javier-camarena/) and [Diana Damrau](/scene/people/diana-damrau/), Jorden writes of the star soprano, "In a sense, she outshone even Camarena, because she not only sang the difficult leading role, she also directed the opera."
 

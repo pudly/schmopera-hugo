@@ -1,27 +1,38 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2022-09-19T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1663629338/media/2022/09/sqWSP_CC-10_Kathy_Wittman_Ball_Square_Films_eamfjw.jpg"
-primary_image_credit = "White Snake Projects' production of Cosmic Cowboy, 2022. Photo by Kathy Wittman / Ball Square Films."
-related_articles = ["articles/star-trek-and-the-opera.md", "articles/opera-and-scifi-the-puritan-intersection.md"]
-related_companies = []
-related_people = []
-short_description = "The score's harmonic language is relatively simple, but it is also quite full of little treasures like this, and I found myself enamoured by it by the end."
-slug = "cosmic-cowboy-a-strong-premiere-despite-a-cursed-opening-night"
-title = "Cosmic Cowboy a strong premiere, despite a cursed opening night"
-youtube_url = ""
+---
+author:
+  - authors/arturo-fernandez.md
+categories: Review
+date: '2022-09-19T04:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1663629338/media/2022/09/sqWSP_CC-10_Kathy_Wittman_Ball_Square_Films_eamfjw.jpg
+primary_image_credit: >-
+  White Snake Projects' production of Cosmic Cowboy, 2022. Photo by Kathy
+  Wittman / Ball Square Films.
+related_articles:
+  - articles/star-trek-and-the-opera.md
+  - articles/opera-and-scifi-the-puritan-intersection.md
+related_companies: []
+related_people: []
+short_description: >-
+  The score's harmonic language is relatively simple, but it is also quite full
+  of little treasures like this, and I found myself enamoured by it by the end.
+slug: cosmic-cowboy-a-strong-premiere-despite-a-cursed-opening-night
+title: 'Cosmic Cowboy a strong premiere, despite a cursed opening night'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 In my time as a critic for Schmopera, I have to stress that I have seen a great deal of well-performed opera, where everything goes right and the piece just shines. Thus, I think it is all too easy to forget that the true test of an opera production lies in what happens when things go wrong during performance. After all, opera is a live performance medium, and in live performance there is always an edge of peril, where some things can go wrong at any moment.
 
 Thus we turn to White Snake Project's [new sci-fi opera _Cosmic Cowboy_](https://www.whitesnakeprojects.org/projects/cosmic-cowboy/). Perhaps mirroring the scale of its story, _Cosmic Cowboy_ opted to present itself with a veritable treasure trove of technical wizardry to accompany its story, which takes Sumerian gods, references to terraforming Mars, comet probes, colonialism, and Gary Cooper, and mashes them all in a blender.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1663629825/media/2022/09/WSP_CC-1_Kathy_Wittman_Ball_Square_Films_dexbgp.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1663629825/media/2022/09/WSP_CC-1_Kathy_Wittman_Ball_Square_Films_dexbgp.jpg)
 
 <figcaption>White Snake Projects' production of Cosmic Cowboy, 2022. Photo by Kathy Wittman / Ball Square Films.</figcaption>  
 </figure>
@@ -32,7 +43,9 @@ And yes, I say the treasure trove of wizardry, and I do mean it. There is, for i
 
 Unfortunately, this production’s opening night was plagued with quite a few technical issues that ran throughout the entire performance. The CGI cutscene that opened the second half of the show showed some impressive lip syncing technology, but unfortunately the moments the singers actually sang were so fast that the CGI film actually sprang super far ahead of the music, which kind of broke what otherwise was a thrilling chase sequence. I also feel the CGI looked quite cheap, although this is somewhat more understandable considering that making it look better would've required a budget that most opera companies simply do not have. Further, the VR film at the beginning loaded at a low enough quality that I could not make heads or tails of some of the visuals, although I concede that I was watching the stream of this film on the 5G network and it possibly had connection issues as a result.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1663629905/media/2022/09/WSP_CC-4_Kathy_Wittman_Ball_Square_Films_q1axwk.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1663629905/media/2022/09/WSP_CC-4_Kathy_Wittman_Ball_Square_Films_q1axwk.jpg)
 
 <figcaption>White Snake Projects' production of Cosmic Cowboy, 2022. Photo by Kathy Wittman / Ball Square Films.</figcaption>  
 </figure>
@@ -43,7 +56,9 @@ Ultimately, however, I cannot point at technical ambition as the root cause for 
 
 I feel, ultimately, that the performance's issues can be summed up as a curse, and I feel this way because one of the biggest issues was not even confined to the actual performance itself: a water main broke on the street the theater is located on earlier in the day, which caused a traffic jam so bad the Emerson Paramount Theater made the decision to postpone the start of the performance for fifteen minutes to allow patrons enough time to arrive. I almost wonder if someone uttered the name of the Scottish Play backstage at some point, because the amount and source of the technical hiccups cannot be explained merely by ambition.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1663629918/media/2022/09/WSP_CC-5_Kathy_Wittman_Ball_Square_Films__1_ynb39e.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1663629918/media/2022/09/WSP_CC-5_Kathy_Wittman_Ball_Square_Films__1_ynb39e.jpg)
 
 <figcaption>White Snake Projects' production of Cosmic Cowboy, 2022. Photo by Kathy Wittman / Ball Square Films.</figcaption>  
 </figure>
@@ -52,7 +67,9 @@ Fortunately, there is a silver lining: in perhaps what is a strange stroke of fo
 
 In my estimation, the technical issues actually proved their point, and because of that I can say that indeed, _Cosmic Cowboy_ as a piece is actually quite good! First, its story and libretto by Cerise Jacobs actually come together much better than one would expect. It essentially starts with Sumerian gods Tiamat and Apsa bearing the universe, and Tiamat bearing her lover (and son) Qingu's children in what is essentially a space palace, more or less following how Sumerian myth would have formed.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1663629934/media/2022/09/WSP_CC-8_Kathy_Wittman_Ball_Square_Films_fokk1l.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1663629934/media/2022/09/WSP_CC-8_Kathy_Wittman_Ball_Square_Films_fokk1l.jpg)
 
 <figcaption>White Snake Projects' production of Cosmic Cowboy, 2022. Photo by Kathy Wittman / Ball Square Films.</figcaption>  
 </figure>
@@ -63,7 +80,9 @@ Enter Marduk, who decides that order is the only way forward for everyone, which
 
 And for another, the score by Elena Ruehr is also quite excellent. The libretto is actually quite fast-paced, so the score has to do a lot of the heavy lifting so the show's emotional beats land; by pretty much all accounts she succeeded at doing this. The score is rather full of riches, in that it manages to be both a good opera score and also fits the sound world of what one might expect of a good score for a sci-fi movie.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1663629946/media/2022/09/WSP_CC-14_Kathy_Wittman_Ball_Square_Films_nwv9f3.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1663629946/media/2022/09/WSP_CC-14_Kathy_Wittman_Ball_Square_Films_nwv9f3.jpg)
 
 <figcaption>White Snake Projects' production of Cosmic Cowboy, 2022. Photo by Kathy Wittman / Ball Square Films.</figcaption>  
 </figure>
@@ -76,7 +95,9 @@ And for the most part, barring the tendency of most of the cast to rush well ahe
 
 Daniel Moody was every bit her match as Quingu in the first half and then Cooper in the second half: his countertenor was smartly mechanical in some ways, but could switch to tender on a dime, which was no small feat considering how difficult his parts were. Lastly of major note was Tyler Putnam's Marduk. He imbued the character with the right amount of moral ambiguity for the role, while also doing excellently at presenting someone authoritative and strong enough.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1663629967/media/2022/09/WSP_CC-18_Kathy_Wittman_Ball_Square_Films_vxxux6.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1663629967/media/2022/09/WSP_CC-18_Kathy_Wittman_Ball_Square_Films_vxxux6.jpg)
 
 <figcaption>White Snake Projects' production of Cosmic Cowboy, 2022. Photo by Kathy Wittman / Ball Square Films.</figcaption>  
 </figure>

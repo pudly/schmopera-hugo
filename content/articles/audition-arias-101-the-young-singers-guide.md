@@ -1,16 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-11-23T15:36:00-05:00"
-lastmod = "2015-11-24T15:11:00-05:00"
-preamble = "I've written before about the [psychology of an opera singer's audition](/psychology-of-an-audition/), and playing a strategic game with your aria package. Singers learn the rules of said game through audition experience. So, what if you don't have any?\n\nI was recently asked about what comes even before the decision to start with *bel canto*; young singers, when you're getting ready for your first audition, how do you compile your aria list? You're familiar with the basic idea: collect five arias that you can sing really well, and make sure you vary the language and style. When you're young and still discovering what your voice does well, there's good news, and there's bad news. The bad news is that adhering to audition requirements can be a tricky task. The good news? Your young auditions can be your first opportunities within the opera industry to think outside the box."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448388192121/2015-11-24%20-%20Stacks.jpg.jpg"
-publishDate = "2015-11-24T13:15:00-05:00"
-related_articles = ["articles/psychology-audition.md","articles/5-tips-for-university-auditionees.md","articles/risky-opinions-there-are-2-types-of-singers.md"]
-short_description = "I&#039;ve written before about the psychology of an opera singer&#039;s audition, and playing a strategic game with your aria package. Singers learn the rules of said game through audition experience. So, what if you don&#039;t have any?"
-slug = "audition-arias-101-the-young-singers-guide"
-title = "Audition arias 101: the young singer&#039;s guide"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-11-23T15:36:00-05:00"
+lastmod: "2015-11-24T15:11:00-05:00"
+preamble: |-
+  I've written before about the [psychology of an opera singer's audition](/psychology-of-an-audition/), and playing a strategic game with your aria package. Singers learn the rules of said game through audition experience. So, what if you don't have any?
+
+  I was recently asked about what comes even before the decision to start with *bel canto*; young singers, when you're getting ready for your first audition, how do you compile your aria list? You're familiar with the basic idea: collect five arias that you can sing really well, and make sure you vary the language and style. When you're young and still discovering what your voice does well, there's good news, and there's bad news. The bad news is that adhering to audition requirements can be a tricky task. The good news? Your young auditions can be your first opportunities within the opera industry to think outside the box.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448388192121/2015-11-24%20-%20Stacks.jpg.jpg
+publishDate: "2015-11-24T13:15:00-05:00"
+related_articles:
+- articles/psychology-audition.md
+- articles/5-tips-for-university-auditionees.md
+- articles/risky-opinions-there-are-2-types-of-singers.md
+short_description: I&#039;ve written before about the psychology of an opera singer&#039;s
+  audition, and playing a strategic game with your aria package. Singers learn the
+  rules of said game through audition experience. So, what if you don&#039;t have
+  any?
+slug: audition-arias-101-the-young-singers-guide
+title: 'Audition arias 101: the young singer&#039;s guide'
+_template: article_single
+---
 
 ## You don't really need five arias
 

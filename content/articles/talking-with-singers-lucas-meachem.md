@@ -1,19 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-02-12T21:50:00-05:00"
-lastmod = "2018-02-13T21:08:00-05:00"
-preamble = "American baritone [Lucas Meachem](/scene/people/lucas-meachem/) just finished singing the title role in *Il barbiere di Siviglia* at Houston Grand Opera, and this week he begins a run of Marcello in *La bohème* at the Metropolitan Opera. Later this season, he'll sing Athanaël in *Thaïs* at Minnesota Opera, and the title role in *Don Giovanni* at Semperoper Dresden.\n\nWe loved our chat with Meachem, about a very charmed night of karaoke in Paris, and how he uses his [blog](https://thebaritoneblog.com/) to communicate with his colleagues and fans."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518489184462/sq---Lucas-Meachem%2C-credit-Simon-Pauly-09.jpg.jpg"
-primary_image_credit = "Photo: Simon Pauly."
-publishDate = "2018-02-13T21:08:00-05:00"
-related_articles = ["articles/thas-dazzling-score-dazzling-set-dazzling-cast.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/minnesota-opera.md","scene/companies/houston-grand-opera.md","scene/companies/semperoper-dresden.md"]
-related_people = ["scene/people/lucas-meachem.md"]
-short_description = "&quot;I didn&#039;t wait around for an interview that wasn&#039;t going to happen - I took it into my own hands through my blog. It&#039;s a lot of work and I&#039;m proud to say I&#039;ve posted consistently for over a year now. Phew! What motivates and inspires me most are real conversations I have with others in the opera world. That&#039;s what makes it so authentic.&quot;"
-slug = "talking-with-singers-lucas-meachem"
-title = "Talking with singers: Lucas Meachem"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-02-12T21:50:00-05:00"
+lastmod: "2018-02-13T21:08:00-05:00"
+preamble: |-
+  American baritone [Lucas Meachem](/scene/people/lucas-meachem/) just finished singing the title role in *Il barbiere di Siviglia* at Houston Grand Opera, and this week he begins a run of Marcello in *La bohème* at the Metropolitan Opera. Later this season, he'll sing Athanaël in *Thaïs* at Minnesota Opera, and the title role in *Don Giovanni* at Semperoper Dresden.
+
+  We loved our chat with Meachem, about a very charmed night of karaoke in Paris, and how he uses his [blog](https://thebaritoneblog.com/) to communicate with his colleagues and fans.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518489184462/sq---Lucas-Meachem%2C-credit-Simon-Pauly-09.jpg.jpg
+primary_image_credit: 'Photo: Simon Pauly.'
+publishDate: "2018-02-13T21:08:00-05:00"
+related_articles:
+- articles/thas-dazzling-score-dazzling-set-dazzling-cast.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/minnesota-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/semperoper-dresden.md
+related_people:
+- scene/people/lucas-meachem.md
+short_description: '&quot;I didn&#039;t wait around for an interview that wasn&#039;t
+  going to happen - I took it into my own hands through my blog. It&#039;s a lot of
+  work and I&#039;m proud to say I&#039;ve posted consistently for over a year now.
+  Phew! What motivates and inspires me most are real conversations I have with others
+  in the opera world. That&#039;s what makes it so authentic.&quot;'
+slug: talking-with-singers-lucas-meachem
+title: 'Talking with singers: Lucas Meachem'
+_template: article_single
+---
 
 ## Why do you sing professionally?
 
@@ -25,7 +40,10 @@ I sing professionally because I can. It makes me unbelievably happy to do so.
 
 I've gone through my career thinking, I'm going to hit the ceiling or I'm going to become the best I can be. I've come to realize that when you hit that ceiling, there's no more room for growth and forward momentum. So hopefully, the day I hit the ceiling will be the day they put me in the ground.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518489559764/Lucas-Meachem%2C-credit-Simon-Pauly-08.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518489559764/Lucas-Meachem%2C-credit-Simon-Pauly-08.jpg.jpg)
+
 <figcaption>Photo: Simon Pauly.</figcaption>
 </figure>
 
@@ -48,7 +66,10 @@ Of course! I was in Stuttgart for my first gig abroad as a hopeful young bariton
 
 I didn't know Paris and I didn't know French but I knew how to sing karaoke. I jumped right up and sang "I Believe I Can Fly." I put my heart out there. Well, Susie remembered that karaoke performance of mine and down the road she and Paul recommended me as a last-minute replacement for the ailing Simon Keenlyside at the Chicago Lyric Opera. Crazy!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518489571936/Lucas-Meachem%2C-credit-Simon-Pauly-10.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518489571936/Lucas-Meachem%2C-credit-Simon-Pauly-10.jpg.jpg)
+
 <figcaption>Photo: Simon Pauly.</figcaption>
 </figure>
 

@@ -1,18 +1,48 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-06-08T22:44:00-04:00"
-lastmod = "2015-06-12T22:31:00-04:00"
-preamble = "This is the first in a series of feature interviews that we'll be publishing over the summer. We're talking to singers, conductors, pianists, the whole lot. If you think you'd be a good candidate, or know an artist who would, shoot us a message at [hello@schmopera.com](mailto:hello@schmopera.com)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433817688142/Julia-Dawson-Headshot.jpg.jpg"
-publishDate = "2015-06-09T16:12:00-04:00"
-related_articles = ["articles/spotlight-on-michelle-siemens.md","articles/spotlight-on-peter-bass.md","articles/spotlight-on-emily-peragine.md","articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-christopher-james-ray.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-kelsey-vicary.md","articles/spotlight-on-lida-szkwarek.md","articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-marjorie-maltais.md","articles/spotlight-on-william-ford.md","articles/spotlight-on-kimberleyann-bartczak.md","articles/spotlight-on-laurelle-jade-froese.md","articles/spotlight-on-maeve-palmer.md","articles/spotlight-on-cairan-ryan.md","articles/spotlight-on-aidan-ferguson.md"]
-related_companies = ["scene/companies/oberlin-college-and-conservatory.md","scene/companies/glimmerglass-festival.md","scene/companies/the-santa-fe-opera.md","scene/companies/opera-philadelphia.md","scene/companies/music-academy-of-the-west-voice-program.md"]
-related_people = ["scene/people/julia-dawson.md"]
-short_description = "Julia Dawson is a Canadian mezzo-soprano currently based in the United States. Julia is a hardworking, creative artist, and she&#039;s been keeping busy singing at the Academy of Vocal Arts, the Glimmerglass Festival, and Opera Philadelphia, to name a few. Get to know this smart singer:"
-slug = "spotlight-on-julia-dawson"
-title = "Spotlight on: Julia Dawson"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-06-08T22:44:00-04:00"
+lastmod: "2015-06-12T22:31:00-04:00"
+preamble: This is the first in a series of feature interviews that we'll be publishing
+  over the summer. We're talking to singers, conductors, pianists, the whole lot.
+  If you think you'd be a good candidate, or know an artist who would, shoot us a
+  message at [hello@schmopera.com](mailto:hello@schmopera.com).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433817688142/Julia-Dawson-Headshot.jpg.jpg
+publishDate: "2015-06-09T16:12:00-04:00"
+related_articles:
+- articles/spotlight-on-michelle-siemens.md
+- articles/spotlight-on-peter-bass.md
+- articles/spotlight-on-emily-peragine.md
+- articles/spotlight-on-charlotte-knight.md
+- articles/spotlight-on-christopher-james-ray.md
+- articles/spotlight-on-maikai-nash.md
+- articles/spotlight-on-kelsey-vicary.md
+- articles/spotlight-on-lida-szkwarek.md
+- articles/spotlight-on-danielle-macmillan.md
+- articles/spotlight-on-marjorie-maltais.md
+- articles/spotlight-on-william-ford.md
+- articles/spotlight-on-kimberleyann-bartczak.md
+- articles/spotlight-on-laurelle-jade-froese.md
+- articles/spotlight-on-maeve-palmer.md
+- articles/spotlight-on-cairan-ryan.md
+- articles/spotlight-on-aidan-ferguson.md
+related_companies:
+- scene/companies/oberlin-college-and-conservatory.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/music-academy-of-the-west-voice-program.md
+related_people:
+- scene/people/julia-dawson.md
+short_description: 'Julia Dawson is a Canadian mezzo-soprano currently based in the
+  United States. Julia is a hardworking, creative artist, and she&#039;s been keeping
+  busy singing at the Academy of Vocal Arts, the Glimmerglass Festival, and Opera
+  Philadelphia, to name a few. Get to know this smart singer:'
+slug: spotlight-on-julia-dawson
+title: 'Spotlight on: Julia Dawson'
+_template: article_single
+---
 
 [Julia Dawson](/scene/people/julia-dawson/) is a Canadian mezzo-soprano currently based in the United States. Julia is a hardworking, creative artist, and she's been keeping busy singing at the Academy of Vocal Arts, the Glimmerglass Festival, and Opera Philadelphia, to name a few. Get to know this smart singer:
 

@@ -1,18 +1,45 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-06-19T13:04:00-06:00"
-lastmod = "2016-06-21T02:58:00-06:00"
-preamble = "From cycling across the east coast of Canada with [The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/) to taking the more formal stages of [Calgary Opera](/scene/companies/calgary-opera/) and [Opera Theater of Saint Louis](/scene/companies/opera-theatre-of-st-louis/), rising mezzo-soprano [Stephanie Tritchew](/scene/people/stephanie-tritchew/) is a versatile, smart young artist. She's currently mid-run of the world premiere of [*Shalimar the Clown*](https://www.opera-stl.org/season-and-events/productions/shalimar-the-clown), based on the novel by Salman Rushdie (and [she got to meet him](https://twitter.com/StephT_mezzo/status/743310437064728576), to boot!), and next season she'll sing in [Edmonton Opera](/scene/companies/edmonton-opera/)'s production of *Elektra*.\n\nStephanie gave us a totally honest and endearing interview, about the exhaustive mind game that can come with singing, and the freedom she finds from becoming a different person onstage."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466370212045/2016-06-20---Stephanie-Tritchew.jpg.jpg"
-publishDate = "2016-06-19T19:24:00-06:00"
-related_articles = ["articles/spotlight-on-sydney-mancasola.md","articles/spotlight-on-amanda-majeski.md","articles/spotlight-on-beth-hagerman.md","articles/spotlight-on-samantha-pickett.md","articles/spotlight-on-whitney-mather.md","articles/spotlight-on-shauna-yarnell.md","articles/spotlight-on-geoffrey-penar.md","articles/spotlight-on-naomi-eberhard.md","articles/spotlight-on-vanessa-oudereimerink.md","articles/the-anxious-singer-10-tips-to-help-with-anxiety.md","articles/spotlight-on-chelsea-rus.md","articles/spotlight-on-rihab-chaieb.md","articles/spotlight-on-christina-haldane.md","articles/spotlight-on-lyndsay-promane.md","articles/spotlight-on-alice-privett.md","articles/talking-with-singers-charlotte-mundy.md"]
-related_companies = ["scene/companies/opera-theatre-of-st-louis.md","scene/companies/calgary-opera.md"]
-related_people = ["scene/people/stephanie-tritchew.md"]
-short_description = "&quot;Why am I doing it professionally? That&#039;s easy: because I&#039;m lucky enough to have that opportunity. If I wasn&#039;t doing it professionally, I&#039;d be doing it for fun. I think if anyone could do their absolute favourite thing on the planet and get paid for doing it, they would every time.&quot;"
-slug = "spotlight-on-stephanie-tritchew"
-title = "Spotlight on: Stephanie Tritchew"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-06-19T13:04:00-06:00"
+lastmod: "2016-06-21T02:58:00-06:00"
+preamble: |-
+  From cycling across the east coast of Canada with [The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/) to taking the more formal stages of [Calgary Opera](/scene/companies/calgary-opera/) and [Opera Theater of Saint Louis](/scene/companies/opera-theatre-of-st-louis/), rising mezzo-soprano [Stephanie Tritchew](/scene/people/stephanie-tritchew/) is a versatile, smart young artist. She's currently mid-run of the world premiere of [*Shalimar the Clown*](https://www.opera-stl.org/season-and-events/productions/shalimar-the-clown), based on the novel by Salman Rushdie (and [she got to meet him](https://twitter.com/StephT_mezzo/status/743310437064728576), to boot!), and next season she'll sing in [Edmonton Opera](/scene/companies/edmonton-opera/)'s production of *Elektra*.
+
+  Stephanie gave us a totally honest and endearing interview, about the exhaustive mind game that can come with singing, and the freedom she finds from becoming a different person onstage.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466370212045/2016-06-20---Stephanie-Tritchew.jpg.jpg
+publishDate: "2016-06-19T19:24:00-06:00"
+related_articles:
+- articles/spotlight-on-sydney-mancasola.md
+- articles/spotlight-on-amanda-majeski.md
+- articles/spotlight-on-beth-hagerman.md
+- articles/spotlight-on-samantha-pickett.md
+- articles/spotlight-on-whitney-mather.md
+- articles/spotlight-on-shauna-yarnell.md
+- articles/spotlight-on-geoffrey-penar.md
+- articles/spotlight-on-naomi-eberhard.md
+- articles/spotlight-on-vanessa-oudereimerink.md
+- articles/the-anxious-singer-10-tips-to-help-with-anxiety.md
+- articles/spotlight-on-chelsea-rus.md
+- articles/spotlight-on-rihab-chaieb.md
+- articles/spotlight-on-christina-haldane.md
+- articles/spotlight-on-lyndsay-promane.md
+- articles/spotlight-on-alice-privett.md
+- articles/talking-with-singers-charlotte-mundy.md
+related_companies:
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/calgary-opera.md
+related_people:
+- scene/people/stephanie-tritchew.md
+short_description: '&quot;Why am I doing it professionally? That&#039;s easy: because
+  I&#039;m lucky enough to have that opportunity. If I wasn&#039;t doing it professionally,
+  I&#039;d be doing it for fun. I think if anyone could do their absolute favourite
+  thing on the planet and get paid for doing it, they would every time.&quot;'
+slug: spotlight-on-stephanie-tritchew
+title: 'Spotlight on: Stephanie Tritchew'
+_template: article_single
+---
 
 ## Why do you sing, and why are you doing it professionally?
 
@@ -26,7 +53,10 @@ Anyways, I also sing because performing pushes you out of your comfort zone in t
 
 And why am I doing it professionally? That's easy: because I'm lucky enough to have that opportunity. If I wasn't doing it professionally, I'd be doing it for fun. I think if anyone could do their absolute favourite thing on the planet and get paid for doing it, they would every time.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466372716727/2016-06-29---Tritchew-Silent-Night-CalOP.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466372716727/2016-06-29---Tritchew-Silent-Night-CalOP.jpg.jpg)
+
 <figcaption>Tritchew in Calgary Opera's *Silent Night*.</figcaption>
 </figure>
 
@@ -62,7 +92,10 @@ I think I have the same answer as almost anyone else when it comes to what young
 
 Seriously. Just don't do it. You're only making yourself miserable. We all do it and no good comes of it. It doesn’t matter how old you are and how many gigs you've had or "this singer got into this program at this age." You are your own person and you have your own unique and exciting journey ahead. Love yourself for being brave enough to choose this crazy career and feel excited and empowered because you never know what's coming next. It doesn’t matter what anyone else's path has in store — you do you.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466372761900/2016-06-20-Tritchew-Die-Tote-Stadt-203.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466372761900/2016-06-20-Tritchew-Die-Tote-Stadt-203.jpg.jpg)
+
 <figcaption>Tritchew (centre) in Calgary Opera's *Die tote Stadt*.</figcaption>
 </figure>
 

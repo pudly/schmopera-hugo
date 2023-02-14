@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-10-16T20:36:00-04:00"
-lastmod = "2015-10-18T11:37:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445095203916/MichaelaWatkins---pc---Maarten-de-Boer.jpg.jpg"
-primary_image_credit = "Michaela Watkins. Photo: Maarten de Boer."
-publishDate = "2015-10-18T11:37:00-04:00"
-related_articles = ["articles/morbid-musings-art-death.md"]
-short_description = "Artists love it when they hear an artist of another discipline speak about their work, their struggles, and their (many) moments of insecurity. It&#039;s amazing when actors have stories that resonate with writers, when writers&#039; plights are relatable to musicians. We get to hear common tales of working hard without any recognition, of taking depressing jobs to pay bills, of getting That Big Opportunity, and whether or not it led to anything interesting."
-slug = "my-wtf-lightbulb-moment"
-title = "My WTF lightbulb moment"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-10-16T20:36:00-04:00"
+lastmod: "2015-10-18T11:37:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445095203916/MichaelaWatkins---pc---Maarten-de-Boer.jpg.jpg
+primary_image_credit: 'Michaela Watkins. Photo: Maarten de Boer.'
+publishDate: "2015-10-18T11:37:00-04:00"
+related_articles:
+- articles/morbid-musings-art-death.md
+short_description: Artists love it when they hear an artist of another discipline
+  speak about their work, their struggles, and their (many) moments of insecurity.
+  It&#039;s amazing when actors have stories that resonate with writers, when writers&#039;
+  plights are relatable to musicians. We get to hear common tales of working hard
+  without any recognition, of taking depressing jobs to pay bills, of getting That
+  Big Opportunity, and whether or not it led to anything interesting.
+slug: my-wtf-lightbulb-moment
+title: My WTF lightbulb moment
+_template: article_single
+---
 
 Artists love it when they hear an artist of another discipline speak about their work, their struggles, and their (many) moments of insecurity. It's amazing when actors have stories that resonate with writers, when writers' plights are relatable to singers', etc. We get to hear common tales of working hard without any recognition, of taking depressing jobs to pay bills, of getting That Big Opportunity, and whether or not it led to anything interesting. Solidarity, strength in numbers, that sort of thing.
 

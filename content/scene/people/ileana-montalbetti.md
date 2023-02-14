@@ -1,23 +1,27 @@
-+++
-date = "2015-04-07T18:24:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-07T18:24:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428445404789/MONTALBETTI-PHOTO-credit-BoHuang.jpg.jpg"
-primary_image_credit = "Bo Huang"
-publishDate = "2015-04-07T18:24:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/saskatoon-opera.md","scene/companies/edmonton-opera.md"]
-slug = "ileana-montalbetti"
-title = "Ileana Montalbetti"
-website = "http://www.ileanamontalbetti.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Ileana.Montalbetti.soprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/immontalbetti"
-+++
+---
+date: "2015-04-07T18:24:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-07T18:24:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428445404789/MONTALBETTI-PHOTO-credit-BoHuang.jpg.jpg
+primary_image_credit: Bo Huang
+publishDate: "2015-04-07T18:24:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/saskatoon-opera.md
+- scene/companies/edmonton-opera.md
+slug: ileana-montalbetti
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/Ileana.Montalbetti.soprano
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/immontalbetti
+title: Ileana Montalbetti
+website: http://www.ileanamontalbetti.com/
+_template: "people_single"
+---
 
 <p>
 	Canadian soprano Ileana Montalbetti's "<em>voice rings, her breath support is flawless, she can turn an elegant phrase and…has dramatic ability"</em> (John Terauds, <em>Toronto Star</em>).

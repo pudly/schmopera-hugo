@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-10-27T14:53:00-04:00"
-lastmod = "2015-10-28T16:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445980520412/QuinnKelseyRecital.jpg.jpg"
-publishDate = "2015-10-28T12:29:00-04:00"
-related_articles = ["articles/lieder-for-lunch-the-coc-ensemble-studio-in-recital.md","articles/in-review-a-shropshire-lad.md","articles/hat-trick-in-the-amphitheatre.md","articles/in-review-paul-appleby-at-wigmore-hall.md","articles/being-a-nice-person-why-art-really-really-matters.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/quinn-kelsey.md"]
-short_description = "Hawaiian baritone Quinn Kelsey strode into the Richard Bradshaw Amphitheatre, wearing black cowboy boots with his three-piece suit, and said to the audience, &quot;I apologize in advance for cheat sheets.&quot;"
-slug = "in-review-quinn-kelseys-songs-from-the-heart"
-title = "In review: Quinn Kelsey&#039;s Songs from the Heart"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-10-27T14:53:00-04:00"
+lastmod: "2015-10-28T16:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445980520412/QuinnKelseyRecital.jpg.jpg
+publishDate: "2015-10-28T12:29:00-04:00"
+related_articles:
+- articles/lieder-for-lunch-the-coc-ensemble-studio-in-recital.md
+- articles/in-review-a-shropshire-lad.md
+- articles/hat-trick-in-the-amphitheatre.md
+- articles/in-review-paul-appleby-at-wigmore-hall.md
+- articles/being-a-nice-person-why-art-really-really-matters.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/quinn-kelsey.md
+short_description: Hawaiian baritone Quinn Kelsey strode into the Richard Bradshaw
+  Amphitheatre, wearing black cowboy boots with his three-piece suit, and said to
+  the audience, &quot;I apologize in advance for cheat sheets.&quot;
+slug: in-review-quinn-kelseys-songs-from-the-heart
+title: 'In review: Quinn Kelsey&#039;s Songs from the Heart'
+_template: article_single
+---
 
 Hawaiian baritone [Quinn Kelsey](/scene/people/quinn-kelsey/) strode into the [Richard Bradshaw Amphitheatre](https://www.google.com/analytics/web/?hl=en#report/visitors-overview/a46647120w77702325p80325527/), wearing black cowboy boots with his three-piece suit, and said to the audience, "I apologize in advance for cheat sheets."
 
@@ -19,7 +30,10 @@ He's preparing for his debut at [Wigmore Hall](https://wigmore-hall.org.uk/whats
 
 I forgave him for his "cheat sheets" pretty quickly, since Quinn's sound is one of the most beautiful baritone voices singing today. For weeks, I have been looking forward to hearing him at a closer distance, without the bells and whistles of productions like the COC's current [*La traviata*](http://www.coc.ca/PerformancesAndTickets/1516Season/LaTraviata.aspx), in which Quinn sings Giorgio Germont. He chose two English sets, Vaughan Williams' *Songs of Travel* and Finzi's *Let Us Garlands Bring*, plus a few Brahms songs (including a "Von ewiger Liebe" that was "kick-ass," to quote a nearby audience member). It was repertoire that showed Quinn's intuitive musicianship and honest delivery.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446063921600/kelsey-headshot--new.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446063921600/kelsey-headshot--new.jpg.jpg)
+
 <figcaption>Quinn Kelsey, baritone. Photo by Ken Howard.
 </figcaption>
 </figure>

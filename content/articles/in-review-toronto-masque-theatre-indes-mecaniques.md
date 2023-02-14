@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-05-15T09:34:00-04:00"
-lastmod = "2015-05-15T10:30:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431698918921/IMG_20150514_195459.jpg.jpg"
-publishDate = "2015-05-15T10:30:00-04:00"
-related_articles = ["articles/toronto-masque-theatre-or-clowning-around.md","articles/the-stars-align-for-toronto-masque-theatres-final-season.md","articles/a-masked-ball-american-baroque-opera-cos-opera-cabaret.md"]
-related_companies = ["scene/companies/toronto-masque-theatre.md"]
-short_description = "I braved the land of construction last night, heading to the Fleck Dance Theatre at Harbourfront Centre to catch the final instalment of Toronto Masque Theatre&#039;s 2014/15 season. TMT presents Rameau&#039;s Les Indes Mécaniques (ou Les Automates de Topkapi), a delightfully bizarre opera about girls and boys, and how they end up with each other."
-slug = "in-review-toronto-masque-theatre-indes-mecaniques"
-title = "In review: Toronto Masque Theatre&#039;s Les Indes Mécaniques "
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-05-15T09:34:00-04:00"
+lastmod: "2015-05-15T10:30:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431698918921/IMG_20150514_195459.jpg.jpg
+publishDate: "2015-05-15T10:30:00-04:00"
+related_articles:
+- articles/toronto-masque-theatre-or-clowning-around.md
+- articles/the-stars-align-for-toronto-masque-theatres-final-season.md
+- articles/a-masked-ball-american-baroque-opera-cos-opera-cabaret.md
+related_companies:
+- scene/companies/toronto-masque-theatre.md
+short_description: I braved the land of construction last night, heading to the Fleck
+  Dance Theatre at Harbourfront Centre to catch the final instalment of Toronto Masque
+  Theatre&#039;s 2014/15 season. TMT presents Rameau&#039;s Les Indes Mécaniques (ou
+  Les Automates de Topkapi), a delightfully bizarre opera about girls and boys, and
+  how they end up with each other.
+slug: in-review-toronto-masque-theatre-indes-mecaniques
+title: 'In review: Toronto Masque Theatre&#039;s Les Indes Mécaniques '
+_template: article_single
+---
 
 I braved the land of construction last night, heading to the Fleck Dance Theatre at Harbourfront Centre to catch the final instalment of [Toronto Masque Theatre](http://www.torontomasquetheatre.com/)'s 2014/15 season. TMT presents Rameau's *Les Indes Mécaniques (ou Les Automates de Topkapi)*, a delightfully bizarre opera about girls and boys, and how they end up with each other.
 

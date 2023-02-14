@@ -1,14 +1,19 @@
-+++
-date = "2016-05-24T06:27:00-04:00"
-discipline = "Soprano"
-lastmod = "2016-05-24T06:27:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546830535/media/2019/01/NaomiHarvey.gif"
-publishDate = "2016-05-24T06:27:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/english-national-opera.md", "scene/companies/scottish-opera.md", "scene/companies/welsh-national-opera.md", "scene/companies/opera-holland-park.md"]
-slug = "naomi-harvey"
-title = "Naomi Harvey"
-
-+++
+---
+date: "2016-05-24T06:27:00-04:00"
+discipline: Soprano
+lastmod: "2016-05-24T06:27:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546830535/media/2019/01/NaomiHarvey.gif
+publishDate: "2016-05-24T06:27:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/english-national-opera.md
+- scene/companies/scottish-opera.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/opera-holland-park.md
+slug: naomi-harvey
+title: Naomi Harvey
+_template: "people_single"
+---
 Born and educated in Cornwall, Naomi Harvey studied with William McAlpine at the Guildhall School of Music and Drama.
 
 Having worked in an extensive and broad range of repertoire, over the last two decades Naomi has worked with many leading companies throughout Europe. Recent engagements include the title role in Puccini’s *Tosca* at the National Concert Hall, Dublin, Ines and cover Leonora *Il Trovatore* for Scottish Opera, Gertrud *Hansel & Gretel* with Welsh National Opera, Donna Anna *Don Giovanni*, and the covers of Senta *The Flying Dutchman*, and Minnie *The Golden Girl of the West* for English National Opera, the covers of La Comtesse de Coigny *Andrea Chénier*, and Domna Saburova *The Tsar’s Bride* for the Royal Opera House, the role of Sara in the world première of James McCarthy’s *Codebreaker* at the Barbican Hall, London, soprano soloist in The World of Opera with the Orchestra of Welsh National Opera, the title role in *Aida* at Shrewsbury Abbey, the soprano solo in Verdi *Requiem* at Sherborne Abbey.

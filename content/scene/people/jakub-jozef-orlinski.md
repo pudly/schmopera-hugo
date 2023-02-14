@@ -1,27 +1,28 @@
-+++
-date = "2017-09-19T11:12:00-04:00"
-discipline = "Countertenor"
-lastmod = "2017-09-19T11:15:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505833973041/2017-09-19---Orlinksi---Piotr-Porebsky7.jpg.jpg"
-primary_image_credit = "Piotr Porebsky"
-publishDate = "2017-09-19T11:14:00-04:00"
-related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/the-metropolitan-opera.md"]
-slug = "jakub-jozef-orlinski"
-title = "Jakub Józef Orliński"
-website = "http://jakubjozeforlinski.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/jjorlinski"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/jakub.jozef.orlinski/?hl=en"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCjAGMG-toVsnw_DIUVnSpFg"
-+++
+---
+date: "2017-09-19T11:12:00-04:00"
+discipline: Countertenor
+lastmod: "2017-09-19T11:15:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505833973041/2017-09-19---Orlinksi---Piotr-Porebsky7.jpg.jpg
+primary_image_credit: Piotr Porebsky
+publishDate: "2017-09-19T11:14:00-04:00"
+related_companies:
+- scene/companies/oper-frankfurt.md
+- scene/companies/the-metropolitan-opera.md
+slug: jakub-jozef-orlinski
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/jjorlinski
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/jakub.jozef.orlinski/?hl=en
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCjAGMG-toVsnw_DIUVnSpFg
+title: Jakub Józef Orliński
+website: http://jakubjozeforlinski.com/
+_template: "people_single"
+---
 
 National Council Auditions and winner of the 2015 Marcella Sembrich International Vocal Competition, is quickly gaining a reputation as a singer of striking vocal beauty and daring stage craft. 
 

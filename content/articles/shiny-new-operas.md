@@ -1,15 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2014-01-07T20:01:00-05:00"
-lastmod = "2015-04-28T23:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430276735371/gifts.jpg.jpg"
-publishDate = "2014-01-07T20:01:00-05:00"
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/canadian-opera-company.md"]
-short_description = "Starting in 2014, the operatic repertoire will grow with fresh and intriguing new pieces. Here are a few to which I look forward."
-slug = "shiny-new-operas"
-title = "Shiny New Operas"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2014-01-07T20:01:00-05:00"
+lastmod: "2015-04-28T23:07:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430276735371/gifts.jpg.jpg
+publishDate: "2014-01-07T20:01:00-05:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/canadian-opera-company.md
+short_description: Starting in 2014, the operatic repertoire will grow with fresh
+  and intriguing new pieces. Here are a few to which I look forward.
+slug: shiny-new-operas
+title: Shiny New Operas
+_template: article_single
+---
 
 Starting in 2014, the operatic repertoire will grow with fresh and intriguing new pieces. Here are a few to which I look forward.
 

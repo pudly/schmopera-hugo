@@ -1,17 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-04-12T18:23:00-04:00"
-lastmod = "2015-04-23T22:34:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842839318/Fawn-727x1024.jpg.jpg"
-publishDate = "2014-04-12T18:23:00-04:00"
-related_articles = ["articles/dont-miss-lhomme-et-le-ciel.md","articles/a-call-for-new-music-fawn-chamber-creative.md","articles/in-review-synesthesia-iv-pt1.md","articles/get-curious-at-fawn-201617.md"]
-related_companies = ["scene/companies/fawn-chamber-creative.md"]
-related_people = ["scene/people/adam-scime.md","scene/people/adanya-dunn.md"]
-short_description = "Friday night, I went to a workshop presentation given by Fawn Opera &amp; New Music. They presented three excerpts from their latest operatic project, L&#039;homme et le ciel by Canadian composer Adam Scime, with text by Ian Koiter with a French translation by Eric Démoré."
-slug = "in-review-fawn-operas-lhomme-et-le-ciel"
-title = "In review: Fawn Opera&#039;s L&#039;homme et le ciel"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-04-12T18:23:00-04:00"
+lastmod: "2015-04-23T22:34:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842839318/Fawn-727x1024.jpg.jpg
+publishDate: "2014-04-12T18:23:00-04:00"
+related_articles:
+- articles/dont-miss-lhomme-et-le-ciel.md
+- articles/a-call-for-new-music-fawn-chamber-creative.md
+- articles/in-review-synesthesia-iv-pt1.md
+- articles/get-curious-at-fawn-201617.md
+related_companies:
+- scene/companies/fawn-chamber-creative.md
+related_people:
+- scene/people/adam-scime.md
+- scene/people/adanya-dunn.md
+short_description: Friday night, I went to a workshop presentation given by Fawn Opera
+  &amp; New Music. They presented three excerpts from their latest operatic project,
+  L&#039;homme et le ciel by Canadian composer Adam Scime, with text by Ian Koiter
+  with a French translation by Eric Démoré.
+slug: in-review-fawn-operas-lhomme-et-le-ciel
+title: 'In review: Fawn Opera&#039;s L&#039;homme et le ciel'
+_template: article_single
+---
 
 Friday night, I went to a workshop presentation given by Fawn Opera & New Music. They presented three excerpts from their latest operatic project, [_L'homme et le ciel_](http://www.fawnopera.com/creators-of-lhomme-et-le-ciel/) by Canadian composer Adam Scime, with text by Ian Koiter with a French translation by Eric Démoré. The libretto is based on the 2nd-century Christian literary text, "The Shepherd of Hermas"; Hermas is a Roman slave who realizes he has feelings for Rhoda, his mistress. I liked how Fawn Opera put it on the program: "A classic tale of one man's struggle to live righteously."
 

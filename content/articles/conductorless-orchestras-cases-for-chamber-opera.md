@@ -1,12 +1,14 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-07-30T13:19:00+01:00"
-draft = true
-lastmod = "2016-08-05T13:54:00+01:00"
-slug = "conductorless-orchestras-cases-for-chamber-opera"
-title = "Conductorless orchestras, cases for chamber opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-07-30T13:19:00+01:00"
+draft: true
+lastmod: "2016-08-05T13:54:00+01:00"
+slug: conductorless-orchestras-cases-for-chamber-opera
+title: Conductorless orchestras, cases for chamber opera
+_template: article_single
+---
 
 Reading James Chater's article about Persimfans got our minds turning. An acryonym for "Pervyi simfonischeskii ansambl bez dirigera"
 

@@ -1,18 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-06-21T22:04:00-06:00"
-lastmod = "2017-06-25T22:40:00-06:00"
-preamble = "[Alexina Louie](/scene/people/alexina-louie/)'s music is a staple among Canadian soloists and ensembles. She writes for piano, voice, chamber groups, large orchestras, choirs, and ballet; her opera *The Scarlet Princess* (1996-2002) was commissioned by the Canadian Opera Company, and she has composed made-for-TV mini operas (*Burnt Toast*, *Toothpaste*) along with librettist Dan Redican and director Larry Weinstein.\n\nWe were thrilled to have the chance to ask Louie about that elusive concept of \"inspiration\", about the works in which she takes great pride, and her unexpected love for Motown."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498104004579/2017-06-22---Alexina-Louie.jpg.jpg"
-publishDate = "2017-06-25T22:05:00-06:00"
-related_articles = ["articles/talking-with-composers-aaron-gervais.md","articles/talking-with-composers-omar-daniel.md","articles/talking-with-composers-juliana-hall.md","articles/talking-with-composers-cecilia-livingston.md","articles/talking-with-composers-kieren-macmillan.md","articles/talking-with-composers-brian-harman.md","articles/talking-with-composers-mark-adamo.md","articles/talking-with-composers-david-t-little.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/alexina-louie.md"]
-short_description = "&quot;Inspiration doesn&#039;t just suddenly strike. Most often, I sit at the piano and improvise until I find a musical idea that is worth keeping. I will sketch it out and work with it. Sometimes when I am stuck on a passage unable to come up with a musical solution, I think about it when I am not at the piano. Sometimes I work out possibilities in my head and get back to the piano to realize them. I have pages and pages of drafts, most of which I don&#039;t use, but working out the ideas gets me to a new place.&quot;"
-slug = "talking-with-composers-alexina-louie"
-title = "Talking with composers: Alexina Louie"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-06-21T22:04:00-06:00"
+lastmod: "2017-06-25T22:40:00-06:00"
+preamble: |-
+  [Alexina Louie](/scene/people/alexina-louie/)'s music is a staple among Canadian soloists and ensembles. She writes for piano, voice, chamber groups, large orchestras, choirs, and ballet; her opera *The Scarlet Princess* (1996-2002) was commissioned by the Canadian Opera Company, and she has composed made-for-TV mini operas (*Burnt Toast*, *Toothpaste*) along with librettist Dan Redican and director Larry Weinstein.
+
+  We were thrilled to have the chance to ask Louie about that elusive concept of "inspiration", about the works in which she takes great pride, and her unexpected love for Motown.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498104004579/2017-06-22---Alexina-Louie.jpg.jpg
+publishDate: "2017-06-25T22:05:00-06:00"
+related_articles:
+- articles/talking-with-composers-aaron-gervais.md
+- articles/talking-with-composers-omar-daniel.md
+- articles/talking-with-composers-juliana-hall.md
+- articles/talking-with-composers-cecilia-livingston.md
+- articles/talking-with-composers-kieren-macmillan.md
+- articles/talking-with-composers-brian-harman.md
+- articles/talking-with-composers-mark-adamo.md
+- articles/talking-with-composers-david-t-little.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/alexina-louie.md
+short_description: '&quot;Inspiration doesn&#039;t just suddenly strike. Most often,
+  I sit at the piano and improvise until I find a musical idea that is worth keeping.
+  I will sketch it out and work with it. Sometimes when I am stuck on a passage unable
+  to come up with a musical solution, I think about it when I am not at the piano.
+  Sometimes I work out possibilities in my head and get back to the piano to realize
+  them. I have pages and pages of drafts, most of which I don&#039;t use, but working
+  out the ideas gets me to a new place.&quot;'
+slug: talking-with-composers-alexina-louie
+title: 'Talking with composers: Alexina Louie'
+_template: article_single
+---
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

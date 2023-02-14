@@ -1,25 +1,25 @@
-+++
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1636121538/media/2021/11/BlakeDenson_ipcsw5.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/wolf-trap-opera.md", "scene/companies/houston-grand-opera.md"]
-slug = "blake-denson"
-title = "Blake Denson"
-website = "https://www.blakeadenson.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/blake.denson.79"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/blakedenson/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCdPF19_N9GgljqvpBr4NtTQ?view_as=subscriber"
-
-+++
+---
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1636121538/media/2021/11/BlakeDenson_ipcsw5.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/wolf-trap-opera.md
+- scene/companies/houston-grand-opera.md
+slug: blake-denson
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/blake.denson.79
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/blakedenson/
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/channel/UCdPF19_N9GgljqvpBr4NtTQ?view_as=subscriber
+title: Blake Denson
+website: https://www.blakeadenson.com/
+_template: "people_single"
+---
 Baritone Blake Denson, praised for his “captivating dramatic interpretations" with “a striking upper register “and "a sound that boomed to the back of the house” (_Opera Wire_), is a native of Paducah, Kentucky. Recently, Mr. Denson was named a Grand Finalist winner of the 2020 Metropolitan Opera National Council Auditions. 
 
 In the 2021-2022 Season Mr. Denson will return to Houston Grand Opera Studio where he will finish is final season with the company as a studio artist. Mr. Deason will be seen singing scenes from _Rigoletto_ in the Studio Showcase. He then will sing the role of Morales while coving the role of Escamillo. In the winter he will sing the role of Daddy/Time in the world premiere of _The Snowy Day_ and Sing the role of the Jailor in _Dialogues of the Carmelites_. In the Spring Mr. Denson will sing the role of Gregorio in two different productions of _Romeo and Juliet_. Mr. Denson’s summer plans are still to be determined.

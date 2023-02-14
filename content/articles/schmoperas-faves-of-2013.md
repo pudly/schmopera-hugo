@@ -1,15 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2013-12-31T20:19:00-05:00"
-lastmod = "2015-04-28T23:21:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430277472480/Top10.png"
-publishDate = "2013-12-31T20:19:00-05:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-metropolitan-opera.md"]
-short_description = "Selfishly, I chose to wrap up the year with a list of my favourite tidbits of operatic delight. Included are my favourite renditions of great moments in opera."
-slug = "schmoperas-faves-of-2013"
-title = "Schmopera&#039;s Faves of 2013"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2013-12-31T20:19:00-05:00"
+lastmod: "2015-04-28T23:21:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430277472480/Top10.png
+publishDate: "2013-12-31T20:19:00-05:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-metropolitan-opera.md
+short_description: Selfishly, I chose to wrap up the year with a list of my favourite
+  tidbits of operatic delight. Included are my favourite renditions of great moments
+  in opera.
+slug: schmoperas-faves-of-2013
+title: Schmopera&#039;s Faves of 2013
+_template: article_single
+---
 
 Selfishly, I chose to wrap up the year with a list of my favourite tidbits of operatic delight. Included are my favourite renditions of great moments in opera: a bit of Figaro to warm your heart, Kathleen Battle's Zerbinetta, ( in the Met's 1989 _Ariadne auf Naxos,_ which is fascinatingly documented, including footage in rehearsal with _Maestro _Levine), Renée Fleming's shiver-inducing Rusalka and [Hye-Jung Lee](http://www.hyejungleesoprano.com/index.html)'s rockin' Madame Mao. Looking ahead to 2014, two singers I'm excited to see in 2014 at the Canadian Opera Company are Alice Coote and Sir Thomas Allen. So I've also included some of Coote's Nerone at Glyndebourne,  and of course, Sir Thomas Allen's Little List.
 

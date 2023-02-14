@@ -1,21 +1,26 @@
-+++
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1644284684/media/2022/02/LukaKawabata_k4scu7.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/the-banff-centre.md", "scene/companies/edmonton-opera.md", "scene/companies/saskatoon-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/manitoba-opera.md", "scene/companies/vancouver-opera.md"]
-slug = "luka-kawabata"
-title = "Luka Kawabata"
-website = "https://www.lukakawabata.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/LukaKawabata"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/lukakawabata/"
-
-+++
+---
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1644284684/media/2022/02/LukaKawabata_k4scu7.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/the-banff-centre.md
+- scene/companies/edmonton-opera.md
+- scene/companies/saskatoon-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/manitoba-opera.md
+- scene/companies/vancouver-opera.md
+slug: luka-kawabata
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/LukaKawabata
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/lukakawabata/
+title: Luka Kawabata
+website: https://www.lukakawabata.com/
+_template: "people_single"
+---
 Nikkei-Canadian baritone, Luka Kawabata is a current participant in the Yulanda M Faris Young Artists’ Program with Vancouver Opera, having appeared as Dmitri in Wargo’s _The Music Shop_ and as Escamillo in Bizet’s _Carmen: Up Close and Personal_ in the 2020-2021 Digital Season. He is also a graduate of the Digital Emerging Artist Program with Manitoba Opera. Luka has been a featured soloist with the Vancouver Symphony Orchestra, Bard on the Beach and the Vancouver Opera/Pacific Opera Victoria’s school tour of _The Flight of the Hummingbird_.
 
 In the 2021-2022 season, Luka will make two company debuts as Schaunard in _La Bohème_ (Edmonton Opera) and Escamillo in _Carmen_ (Saskatoon Opera). He is set to appear as a soloist with the Vancouver Bach Choir in Rossini’s _La Petite Messe Solennelle_ and understudy the roles of Alfio (_Cavalleria Rusticana_) and Captain Corcoran (_HMS Pinafore_) with Vancouver Opera.

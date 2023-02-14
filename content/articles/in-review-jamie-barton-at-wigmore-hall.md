@@ -1,17 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-10-24T09:50:00+01:00"
-lastmod = "2016-10-24T11:05:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477299163460/2016-10-24---JamieBartonCreditStaceyBode2.jpg.jpg"
-primary_image_credit = "Photo by Stacey Bode."
-publishDate = "2016-10-24T10:31:00+01:00"
-related_articles = ["articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md","articles/in-review-javier-camarena-at-wigmore-hall.md","articles/in-review-alek-shrader-at-wigmore-hall.md","articles/in-review-simone-piazzola-at-wigmore-hall.md","articles/album-review-all-who-wander.md","articles/in-review-la-colla-katzarava-in-recital.md","articles/at-arms-length-goerne-hinterhauser-in-recital.md","articles/in-review-chris-thile-at-wigmore-hall.md","articles/ivan-magri-wigmore.md","articles/fierce-recitals-karita-mattila-at-wigmore-hall.md"]
-related_people = ["scene/people/jamie-barton.md"]
-short_description = "Barton&#039;s big smile is infectious, and her singing is totally satisfying. She left us heavy in our seats during Brahms&#039; &quot;Unbewegte laue Luft,&quot; and Dvořák&#039;s &quot;Songs My Mother Taught Me,&quot; and she seemed to be making a good case for a definitive performance of Turina&#039;s Homenaje and the Sibelius songs. "
-slug = "in-review-jamie-barton-at-wigmore-hall"
-title = "In review: Jamie Barton at Wigmore Hall"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-10-24T09:50:00+01:00"
+lastmod: "2016-10-24T11:05:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477299163460/2016-10-24---JamieBartonCreditStaceyBode2.jpg.jpg
+primary_image_credit: Photo by Stacey Bode.
+publishDate: "2016-10-24T10:31:00+01:00"
+related_articles:
+- articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md
+- articles/in-review-javier-camarena-at-wigmore-hall.md
+- articles/in-review-alek-shrader-at-wigmore-hall.md
+- articles/in-review-simone-piazzola-at-wigmore-hall.md
+- articles/album-review-all-who-wander.md
+- articles/in-review-la-colla-katzarava-in-recital.md
+- articles/at-arms-length-goerne-hinterhauser-in-recital.md
+- articles/in-review-chris-thile-at-wigmore-hall.md
+- articles/ivan-magri-wigmore.md
+- articles/fierce-recitals-karita-mattila-at-wigmore-hall.md
+related_people:
+- scene/people/jamie-barton.md
+short_description: 'Barton&#039;s big smile is infectious, and her singing is totally
+  satisfying. She left us heavy in our seats during Brahms&#039; &quot;Unbewegte laue
+  Luft,&quot; and Dvořák&#039;s &quot;Songs My Mother Taught Me,&quot; and she seemed
+  to be making a good case for a definitive performance of Turina&#039;s Homenaje
+  and the Sibelius songs. '
+slug: in-review-jamie-barton-at-wigmore-hall
+title: 'In review: Jamie Barton at Wigmore Hall'
+_template: article_single
+---
 
 Mezzo-soprano [Jamie Barton](/talking-with-singers-jamie-barton/) and pianist [James Baillieu](/scene/people/james-baillieu/) certainly know how to begin a recital at Wigmore Hall, filling it with the warm, bold sounds of Joaquín Turina's *Homenaje a Lope de Vega*. Barton's first phrase was nothing short of gorgeous (and ballsy to boot).
 
@@ -27,5 +44,7 @@ It's notable that Barton never stepped into the world of opera for this recital 
 
 Surely, readers, you didn't think we wouldn't have a great time with Jamie Barton, did you?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477301175409/2016-10-24---Jenna-Jamie.jpg.jpg)<figcaption>Jamie Barton and Schmopera editor Jenna Douglas post-recital at Wigmore Hall. Photo by Jenna Douglas.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477301175409/2016-10-24---Jenna-Jamie.jpg.jpg)<figcaption>Jamie Barton and Schmopera editor Jenna Douglas post-recital at Wigmore Hall. Photo by Jenna Douglas.</figcaption>
 </figure>

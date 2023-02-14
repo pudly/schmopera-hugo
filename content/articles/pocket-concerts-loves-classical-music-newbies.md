@@ -1,17 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-10-21T13:54:00+01:00"
-lastmod = "2016-10-24T11:21:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477054123272/2016-10-21---Pocket-Concerts-Square.jpg.jpg"
-primary_image_credit = "Photo by Jeff Higgins."
-publishDate = "2016-10-21T23:40:00+01:00"
-related_articles = ["articles/pocket-concerts-and-their-worthy-campaign.md"]
-related_companies = ["scene/companies/pocket-concerts.md"]
-short_description = "&quot;If you or someone you know has never heard live classical music before, we want to give you the most intense and personal experience we can, for FREE. All you have to do is post a photo or video of yourself on Instagram or Twitter with the hashtag #classicalnewbie and tell us why you want to come.&quot;"
-slug = "pocket-concerts-loves-classical-music-newbies"
-title = "Pocket Concerts loves classical music newbies!"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-10-21T13:54:00+01:00"
+lastmod: "2016-10-24T11:21:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477054123272/2016-10-21---Pocket-Concerts-Square.jpg.jpg
+primary_image_credit: Photo by Jeff Higgins.
+publishDate: "2016-10-21T23:40:00+01:00"
+related_articles:
+- articles/pocket-concerts-and-their-worthy-campaign.md
+related_companies:
+- scene/companies/pocket-concerts.md
+short_description: '&quot;If you or someone you know has never heard live classical
+  music before, we want to give you the most intense and personal experience we can,
+  for FREE. All you have to do is post a photo or video of yourself on Instagram or
+  Twitter with the hashtag #classicalnewbie and tell us why you want to come.&quot;'
+slug: pocket-concerts-loves-classical-music-newbies
+title: Pocket Concerts loves classical music newbies!
+_template: article_single
+---
 
 Do you have a [classical music newbie](http://www.pocketconcerts.ca/single-post/2016/10/13/Are-you-a-classical-music-newbie-Do-you-know-one-We-want-to-meet-you) in your life? The folks at Pocket Concerts wants to meet them!
 
@@ -21,7 +28,10 @@ The best part? [Pocket Concerts is reserving 10 tickets](http://www.pocketconcer
 
 "If you or someone you know has never heard live classical music before, we want to give you the most intense and personal experience we can, for FREE. **All you have to do is post a photo or video of yourself on Instagram or Twitter with the hashtag #classicalnewbie and tell us why you want to come.**"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477054661723/2016-10-21---Pocket-Concerts-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477054661723/2016-10-21---Pocket-Concerts-2.jpg.jpg)
+
 <figcaption>Photo by Jeff Higgins.</figcaption>
 </figure>
 

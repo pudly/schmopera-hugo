@@ -1,16 +1,24 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "How-to"
-date = "2018-10-24T20:25:00-04:00"
-lastmod = "2018-10-24T20:25:00-04:00"
-preamble = "I'll fess up: I'm a podcast addict. They're the morphine drip that gets me through the day. But I've only dabbled in shows that focus on classical voice, and that's a problem. As an antidote, I've found five series, with different focuses, that are worth checking out. Here they are:\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540427109121/sqpodcast.jpg.jpg"
-publishDate = "2018-10-24T20:25:00-04:00"
-related_articles = ["articles/opera-spin-off.md","articles/4-opera-scenes-that-should-have-happened.md"]
-short_description = "I&#039;ll fess up: I&#039;m a podcast addict. They&#039;re the morphine drip that gets me through the day. But I&#039;ve only dabbled in shows that focus on classical voice, and that&#039;s a problem. As an antidote, I&#039;ve found five series, with different focuses, that are worth checking out."
-slug = "5-classical-voice-podcasts-to-try"
-title = "5 classical voice podcasts to try"
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: How-to
+date: "2018-10-24T20:25:00-04:00"
+lastmod: "2018-10-24T20:25:00-04:00"
+preamble: |
+  I'll fess up: I'm a podcast addict. They're the morphine drip that gets me through the day. But I've only dabbled in shows that focus on classical voice, and that's a problem. As an antidote, I've found five series, with different focuses, that are worth checking out. Here they are:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540427109121/sqpodcast.jpg.jpg
+publishDate: "2018-10-24T20:25:00-04:00"
+related_articles:
+- articles/opera-spin-off.md
+- articles/4-opera-scenes-that-should-have-happened.md
+short_description: 'I&#039;ll fess up: I&#039;m a podcast addict. They&#039;re the
+  morphine drip that gets me through the day. But I&#039;ve only dabbled in shows
+  that focus on classical voice, and that&#039;s a problem. As an antidote, I&#039;ve
+  found five series, with different focuses, that are worth checking out.'
+slug: 5-classical-voice-podcasts-to-try
+title: 5 classical voice podcasts to try
+_template: article_single
+---
 
 ### 1. For New Music: Resonant Bodies Podcast
 

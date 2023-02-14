@@ -1,17 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-05-11T19:34:00+01:00"
-lastmod = "2016-05-12T12:37:00+01:00"
-preamble = "Photo: [Nicholas Huk](https://www.flickr.com/photos/128359034@N07/17233058042) on [Flickr](https://creativecommons.org/licenses/by/2.0/)"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463052389558/2016-05-12---Moving.jpg.jpg"
-publishDate = "2016-05-12T12:35:00+01:00"
-related_articles = ["articles/the-case-for-nomadic-opera.md","articles/the-future-of-opera-is-indie.md","articles/yannick-nezet-seguin-musicals-and-great-timing.md","articles/new-opera-honest-marketing.md","articles/teddy-roosevelt-the-chicago-cubs-operas-by-women-at-the-met.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/indie-opera-to.md"]
-short_description = "It would be decidedly difficult for the Met as a company to wriggle free from the Met as a building. They&#039;re absolutely one and the same, especially for the new audiences, who are being courted while loyal subscribers grow older, and single-ticket buyers become more important sales targets. For these new people that the Met wants in their seats, the experience of going to that building is as much a part of the evening as the show itself."
-slug = "is-it-time-for-the-met-to-move"
-title = "Is it time for the Met to move?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-05-11T19:34:00+01:00"
+lastmod: "2016-05-12T12:37:00+01:00"
+preamble: 'Photo: [Nicholas Huk](https://www.flickr.com/photos/128359034@N07/17233058042)
+  on [Flickr](https://creativecommons.org/licenses/by/2.0/)'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463052389558/2016-05-12---Moving.jpg.jpg
+publishDate: "2016-05-12T12:35:00+01:00"
+related_articles:
+- articles/the-case-for-nomadic-opera.md
+- articles/the-future-of-opera-is-indie.md
+- articles/yannick-nezet-seguin-musicals-and-great-timing.md
+- articles/new-opera-honest-marketing.md
+- articles/teddy-roosevelt-the-chicago-cubs-operas-by-women-at-the-met.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/indie-opera-to.md
+short_description: It would be decidedly difficult for the Met as a company to wriggle
+  free from the Met as a building. They&#039;re absolutely one and the same, especially
+  for the new audiences, who are being courted while loyal subscribers grow older,
+  and single-ticket buyers become more important sales targets. For these new people
+  that the Met wants in their seats, the experience of going to that building is as
+  much a part of the evening as the show itself.
+slug: is-it-time-for-the-met-to-move
+title: Is it time for the Met to move?
+_template: article_single
+---
 
 The recent news of [The Metropolitan Opera's low box office sales](http://www.nytimes.com/2016/05/07/arts/music/metropolitan-opera-faces-a-slide-in-box-office-revenues.html) is equal parts surprising, and not surprising. This season, the Met's potential ticket revenues are projected to be at 66%, the lowest rate yet. Season subscription purchases are down, but general manager Peter Gelb told the *New York Times* that the Met did sell tickets to 74,000 new buyers. 
 

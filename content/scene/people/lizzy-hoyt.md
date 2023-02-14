@@ -1,17 +1,19 @@
-+++
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1649864282/media/2022/04/LizzyHoyt_fr4ohb.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/brott-opera.md", "scene/companies/manitoba-opera.md"]
-slug = "lizzy-hoyt"
-title = "Lizzy Hoyt"
-website = "https://www.lizzyhoyt.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/lizzyhoytmusic/"
-
-+++
+---
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1649864282/media/2022/04/LizzyHoyt_fr4ohb.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/brott-opera.md
+- scene/companies/manitoba-opera.md
+slug: lizzy-hoyt
+social_media:
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/lizzyhoytmusic/
+title: Lizzy Hoyt
+website: https://www.lizzyhoyt.com/
+_template: "people_single"
+---
 Powerhouse performer, LIZZY HOYT is a unique vocalist who transcends the limitations of musical genre.
 
 A nationally recognized Celtic songwriter, singer, and multi-instrumentalist (fiddle, guitar, harp), she has released multiple independent albums, two music videos, and given countless concert tours across Canada. Known for bringing history to life with her songs like “Vimy Ridge”, “New Lady on the Prairie”, and “White Feather”, she was awarded the QUEEN’S DIAMOND JUBILEE MEDAL by the Governor General of Canada for her outstanding contribution to commemorating Canadian veterans and history through music. In May 2022, she will release her fifth album, The Parting Glass. A collection of her favourite traditional songs, this intimate project features Lizzy’s sublime vocals and poignant arranging.

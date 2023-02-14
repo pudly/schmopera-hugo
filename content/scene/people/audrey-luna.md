@@ -1,15 +1,20 @@
-+++
-date = "2016-09-16T15:16:00+01:00"
-discipline = "Coloratura soprano"
-lastmod = "2016-09-16T15:19:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474035274543/2016-09-16---Audrey-Luna-credit-Brian-Kuhlmann.jpg.jpg"
-primary_image_credit = "Brian Kuhlmann"
-publishDate = "2016-09-16T15:19:00+01:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/wiener-staatsoper.md"]
-slug = "audrey-luna"
-title = "Audrey Luna"
-website = "http://audrey-luna.com/"
-+++
+---
+date: "2016-09-16T15:16:00+01:00"
+discipline: Coloratura soprano
+lastmod: "2016-09-16T15:19:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474035274543/2016-09-16---Audrey-Luna-credit-Brian-Kuhlmann.jpg.jpg
+primary_image_credit: Brian Kuhlmann
+publishDate: "2016-09-16T15:19:00+01:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/salzburg-festival.md
+- scene/companies/wiener-staatsoper.md
+slug: audrey-luna
+title: Audrey Luna
+website: http://audrey-luna.com/
+_template: "people_single"
+---
 
 Audrey Luna stands out from the crowd with her unique combination of mesmerising stage presence and stratospheric vocal range. Now a frequent guest at New York’s Metropolitan Opera, Luna was unanimously praised for her 2012 debut there as Ariel in Thomas Adès’ *The Tempest* and stars on the Grammy award-winning DVD of the production, released by Deutsche Grammophon. 
 

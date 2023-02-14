@@ -1,14 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2018-05-11T21:26:00-04:00"
-lastmod = "2018-05-15T16:12:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526263084674/sqDavidFallis.jpg.jpg"
-publishDate = "2018-05-13T15:41:00-04:00"
-short_description = "Readers, we&#039;re giving away two pairs of tickets to the matinee performance on May 27 (3:30pm). To be eligible for the draw, share or retweet this post (give us a tag @Schmopera, too!) and tell us why you&#039;re keen to see David Fallis&#039; final collaboration with one of Toronto&#039;s cornerstones of Early Music."
-slug = "fallis-wraps-27-years-with-the-toronto-consort"
-title = "Fallis wraps 27 years with the Toronto Consort"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2018-05-11T21:26:00-04:00"
+lastmod: "2018-05-15T16:12:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526263084674/sqDavidFallis.jpg.jpg
+publishDate: "2018-05-13T15:41:00-04:00"
+short_description: Readers, we&#039;re giving away two pairs of tickets to the matinee
+  performance on May 27 (3:30pm). To be eligible for the draw, share or retweet this
+  post (give us a tag @Schmopera, too!) and tell us why you&#039;re keen to see David
+  Fallis&#039; final collaboration with one of Toronto&#039;s cornerstones of Early
+  Music.
+slug: fallis-wraps-27-years-with-the-toronto-consort
+title: Fallis wraps 27 years with the Toronto Consort
+_template: article_single
+---
 
 After 27 years with The Toronto Consort, David Fallis will conduct his [final performances as Artistic Director](https://torontoconsort.org/concerts-tickets/2017-18-a-season-to-celebrate/monteverdis-orfeo/) this month. **May 25-27** at Trinity-St. Paul's Centre, the Consort presents [Monteverdi's *Orfeo*](https://torontoconsort.org/concerts-tickets/2017-18-a-season-to-celebrate/monteverdis-orfeo/), featuring English tenor Charles Daniels in the title role.
 

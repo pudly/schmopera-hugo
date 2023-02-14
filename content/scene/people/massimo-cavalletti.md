@@ -1,26 +1,35 @@
-+++
-date = "2016-11-12T14:37:00+00:00"
-discipline = "Baritone"
-lastmod = "2016-11-12T14:39:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478961423839/2016-11-12---Massimo-Cavalletti.jpg.jpg"
-publishDate = "2016-11-12T14:39:00+00:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opernhaus-zurich.md","scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/glyndebourne.md","scene/companies/wiener-staatsoper.md","scene/companies/staatsoper-berlin.md","scene/companies/deutsche-oper-berlin.md","scene/companies/gran-teatre-del-liceu.md"]
-slug = "massimo-cavalletti"
-title = "Massimo Cavalletti"
-website = "http://www.massimocavalletti.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/maxcavalletti/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MaxCavalletti"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/maxcavalletti/"
-+++
+---
+date: "2016-11-12T14:37:00+00:00"
+discipline: Baritone
+lastmod: "2016-11-12T14:39:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478961423839/2016-11-12---Massimo-Cavalletti.jpg.jpg
+publishDate: "2016-11-12T14:39:00+00:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/royal-opera-house.md
+- scene/companies/salzburg-festival.md
+- scene/companies/glyndebourne.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/gran-teatre-del-liceu.md
+slug: massimo-cavalletti
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/maxcavalletti/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/MaxCavalletti
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/maxcavalletti/
+title: Massimo Cavalletti
+website: http://www.massimocavalletti.com/
+_template: "people_single"
+---
 
 With his rich, robust baritone voice and compelling acting Massimo Cavalletti has quickly established himself on the stages of the most prestigious opera houses and festivals worldwide, including the Metropolitan Opera New York, the Teatro alla Scala, the Royal Opera House Covent Garden, the Vienna State Opera, the Zurich Opera House, and the Salzburg Festival.
 

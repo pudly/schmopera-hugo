@@ -1,14 +1,18 @@
-+++
-date = "2017-11-08T16:47:00-05:00"
-discipline = "Baritone"
-lastmod = "2017-11-08T16:47:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510177468188/5-1da0c6543aa7f0531ef8aec2623ccf0f.jpg.jpg"
-publishDate = "2017-11-08T16:47:00-05:00"
-related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/glimmerglass-festival.md"]
-slug = "ben-edquist"
-title = "Ben Edquist"
-website = "https://www.benedquist.com/"
-+++
+---
+date: "2017-11-08T16:47:00-05:00"
+discipline: Baritone
+lastmod: "2017-11-08T16:47:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510177468188/5-1da0c6543aa7f0531ef8aec2623ccf0f.jpg.jpg
+publishDate: "2017-11-08T16:47:00-05:00"
+related_companies:
+- scene/companies/houston-grand-opera.md
+- scene/companies/wolf-trap-opera.md
+- scene/companies/glimmerglass-festival.md
+slug: ben-edquist
+title: Ben Edquist
+website: https://www.benedquist.com/
+_template: "people_single"
+---
 
 American Baritone Ben Edquist, a recent graduate of the distinguished Houston Grand Opera Studio, was named one of OperaNow’s “10 Young Opera Singers to Watch” in 2016.  With Houston Grand Opera, Mr. Edquist originated the roles of Sir Walter Raleigh in Gregory Spears’ *O Columbia*, and Edward Kynaston in Carlisle Floyd’s new opera *Prince of Players*, for which Opera News wrote, “Edquist’s warm, soothing voice and youthful, fresh-faced appearance, were effective in realizing Kynaston's ambiguous sexuality and his gender-shifting performances, either as passive female (when playing Desdemona in an onstage Othello) or aggressive and murderous male (as Othello).” 
 

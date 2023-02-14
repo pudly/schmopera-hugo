@@ -1,16 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2016-09-28T12:09:00+01:00"
-lastmod = "2016-09-28T15:23:00+01:00"
-preamble = "There's no shortage of spectacular, star-quality singers whose first language is English. Like everyone else, they hone their foreign language skills so that they sound like a native speaker in Italian, German, the whole operatic gamut. \n\nThere are idioms in every language, and that's what we hear when someone speaks with a foreign accent. It's handy for singers to identify some of these habits and idioms that keep them from sounding comfortable in a non-native language. So, we've identified three big linguistic tells for North American English speakers, and how to keep them away from your foreign language mastery."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475066143167/2016-09-27---America.jpg.jpg"
-publishDate = "2016-09-28T14:53:00+01:00"
-related_articles = ["articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md","articles/quick-tips-the-rolled-r-test.md","articles/4-foreign-language-challenges-for-singers.md"]
-short_description = "There are idioms in every language, and that&#039;s what we hear when someone speaks with a foreign accent. It&#039;s handy for singers to identify some of these habits and idioms that keep them from sounding comfortable in a non-native language. So, we&#039;ve identified three big linguistic tells for North American English speakers, and how to keep them from foreign language mastery."
-slug = "3-ways-your-english-is-showing"
-title = "3 ways your English is showing"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2016-09-28T12:09:00+01:00"
+lastmod: "2016-09-28T15:23:00+01:00"
+preamble: "There's no shortage of spectacular, star-quality singers whose first language
+  is English. Like everyone else, they hone their foreign language skills so that
+  they sound like a native speaker in Italian, German, the whole operatic gamut. \n\nThere
+  are idioms in every language, and that's what we hear when someone speaks with a
+  foreign accent. It's handy for singers to identify some of these habits and idioms
+  that keep them from sounding comfortable in a non-native language. So, we've identified
+  three big linguistic tells for North American English speakers, and how to keep
+  them away from your foreign language mastery."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475066143167/2016-09-27---America.jpg.jpg
+publishDate: "2016-09-28T14:53:00+01:00"
+related_articles:
+- articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md
+- articles/quick-tips-the-rolled-r-test.md
+- articles/4-foreign-language-challenges-for-singers.md
+short_description: There are idioms in every language, and that&#039;s what we hear
+  when someone speaks with a foreign accent. It&#039;s handy for singers to identify
+  some of these habits and idioms that keep them from sounding comfortable in a non-native
+  language. So, we&#039;ve identified three big linguistic tells for North American
+  English speakers, and how to keep them from foreign language mastery.
+slug: 3-ways-your-english-is-showing
+title: 3 ways your English is showing
+_template: article_single
+---
 
 ## Secret schwas
 

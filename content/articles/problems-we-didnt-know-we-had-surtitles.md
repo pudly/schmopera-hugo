@@ -1,15 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-05-06T10:04:00+01:00"
-lastmod = "2016-05-06T11:14:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462528557238/2016-05-06---Surtitles.jpg.jpg"
-publishDate = "2016-05-06T11:00:00+01:00"
-related_articles = ["articles/michelle-telford.md","articles/are-printed-translations-screwing-up-recitals.md"]
-short_description = "Sustained sound is different from regular speech, and there&#039;s a reason why composers take an opera libretto and divide it into recitatives, arias, ensembles, etc. This text is different than that text, and the music delivers this message loudly. But with those blasé slides popping up in the surtitle box, it&#039;s like the the titles themselves are bored, and contemptuous of any textual subtleties woven by a composer into their opera."
-slug = "problems-we-didnt-know-we-had-surtitles"
-title = "Problems we didn&#039;t know we had: surtitles"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-05-06T10:04:00+01:00"
+lastmod: "2016-05-06T11:14:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462528557238/2016-05-06---Surtitles.jpg.jpg
+publishDate: "2016-05-06T11:00:00+01:00"
+related_articles:
+- articles/michelle-telford.md
+- articles/are-printed-translations-screwing-up-recitals.md
+short_description: Sustained sound is different from regular speech, and there&#039;s
+  a reason why composers take an opera libretto and divide it into recitatives, arias,
+  ensembles, etc. This text is different than that text, and the music delivers this
+  message loudly. But with those blasé slides popping up in the surtitle box, it&#039;s
+  like the the titles themselves are bored, and contemptuous of any textual subtleties
+  woven by a composer into their opera.
+slug: problems-we-didnt-know-we-had-surtitles
+title: 'Problems we didn&#039;t know we had: surtitles'
+_template: article_single
+---
 
 Over lunch the other day, a conductor brought up an interesting problem with the surtitle method in opera. Sure, surtitles are really great at helping an audience understand what the singers are saying in foreign languages (or English librettos by W.H. Auden), but they're pretty poor indicators of *how* the lines of text are delivered.
 

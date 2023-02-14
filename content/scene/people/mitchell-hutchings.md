@@ -1,27 +1,26 @@
-+++
-date = "2017-09-04T13:46:00-04:00"
-discipline = "Baritone, voice teacher"
-lastmod = "2017-09-04T13:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547140150/MITCHELL%20HUTCHINGS%20headshot.jpg.jpg"
-publishDate = "2017-09-04T13:46:00-04:00"
-related_companies = ["scene/companies/opera-saratoga.md"]
-slug = "mitchell-hutchings"
-title = "Mitchell Hutchings"
-website = "https://www.mitchellhutchings.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/mhvoicestudio"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/mhvoicestudio"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtube.com/c/mhvoicestudio"
-
-+++
+---
+date: "2017-09-04T13:46:00-04:00"
+discipline: Baritone, voice teacher
+lastmod: "2017-09-04T13:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547140150/MITCHELL%20HUTCHINGS%20headshot.jpg.jpg
+publishDate: "2017-09-04T13:46:00-04:00"
+related_companies:
+- scene/companies/opera-saratoga.md
+slug: mitchell-hutchings
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/mhvoicestudio
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/mhvoicestudio
+- platform: Youtube
+  _template: social_media
+  url: https://youtube.com/c/mhvoicestudio
+title: Mitchell Hutchings
+website: https://www.mitchellhutchings.com/
+_template: "people_single"
+---
 Baritone Mitchell Hutchings has been described as having “a beautiful instrument" (American Soprano, Renée Fleming) “that can do anything" (British Pianist, Graham Johnson). He has been heard throughout the United States and abroad from Carnegie Hall to the Antonin Dvorak Museum in Prague.
 
 In 2016, Mr. Hutchings sang the role of John Proctor in *The Crucible* with Hartford Opera Theater and Marcello in scenes from *La bohème* with Rochester Lyric Opera. In April, he held a full recital of song at the Eastman School of Music with distinguished guest Renée Fleming in attendance. In the summer season, Mitchell sang Michele in *Il tabarro*, Marco in *Gianni Schicchi*, Father in *Ragtime*, and Pete in *Show Boat* with Utah Festival Opera & Musical Theatre. He finished the year singing portions of Bach's *Christmas Oratorio* with the Buffalo Philharmonic Orchestra.

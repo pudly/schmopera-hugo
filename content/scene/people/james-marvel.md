@@ -1,14 +1,18 @@
-+++
-date = "2015-07-28T16:17:00-04:00"
-discipline = "Stage director"
-lastmod = "2015-07-28T16:19:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438114652029/MarvelHeadshot.jpg.jpg"
-publishDate = "2015-07-28T16:19:00-04:00"
-related_companies = ["scene/companies/wolf-trap-opera.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/opera-on-the-avalon.md"]
-slug = "james-marvel"
-title = "James Marvel"
-website = "http://www.jamesmarvel.com/"
-+++
+---
+date: "2015-07-28T16:17:00-04:00"
+discipline: Stage director
+lastmod: "2015-07-28T16:19:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438114652029/MarvelHeadshot.jpg.jpg
+publishDate: "2015-07-28T16:19:00-04:00"
+related_companies:
+- scene/companies/wolf-trap-opera.md
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+- scene/companies/opera-on-the-avalon.md
+slug: james-marvel
+title: James Marvel
+website: http://www.jamesmarvel.com/
+_template: "people_single"
+---
 
 James Marvel made his Lincoln Center debut in 2008 for the Juilliard Opera Center with Maestro James Conlon conducting. He made his Carnegie Hall debut in 2011, working on Katy Tucker’s video production of *Carmina Burana*. In 2012, James directed the U.S. Premier of Cavalli’s *Eliogabalo* for the Gotham Chamber Opera. In March 2011, James made his debut with Opera Africa in Johannesburg, South Africa with a new production of *Carmen* that was hailed as “stupendous” by the local press. In March 2012, James made his Paris debut with the *The Man of La Mancha* at the Theatre des Varietes. James returned to Paris in 2013 to direct the world-premier of Dale Wasserman’s *The Beggar’s Holiday* at Espace Pierre Cardin.
 

@@ -1,17 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-05-31T11:30:00+01:00"
-lastmod = "2017-04-15T19:09:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464728118655/2016-06-01---Single.jpg.jpg"
-primary_image_credit = "The person in this photo may or may not have children."
-publishDate = "2016-06-01T11:25:00+01:00"
-related_articles = ["articles/arianna-zukerman-youve-got-to-live-your-truth.md", "articles/is-technology-making-it-harder-to-tell-stories.md", "articles/the-heart-and-the-art.md", "articles/art-imitating-life-pat-emilia.md", "articles/young-singing-done-right-aksel-rykkvin.md", "articles/how-lucky-are-we-the-children-of-opera.md", "articles/opera-other-trysts-a-love-story.md"]
-short_description = "Basically, when the work isn&#039;t going well, it can be quite devastating when it truly is the most important thing in an artist&#039;s life. It seems a lame excuse for moping, though, and it&#039;s easy to compound the guilt of being a &quot;bad artist&quot; with the guilt of &quot;not having anything else going for you&quot;; after all, compared to singers with &quot;real&quot; responsibilities outside of their work, a child-free singer should remember that they&#039;re among the lucky ones, right? "
-slug = "child-free-opera-singers-happiness"
-title = "Child-free opera singers &amp; happiness"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-05-31T11:30:00+01:00"
+lastmod: "2017-04-15T19:09:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464728118655/2016-06-01---Single.jpg.jpg
+primary_image_credit: The person in this photo may or may not have children.
+publishDate: "2016-06-01T11:25:00+01:00"
+related_articles:
+- articles/arianna-zukerman-youve-got-to-live-your-truth.md
+- articles/is-technology-making-it-harder-to-tell-stories.md
+- articles/the-heart-and-the-art.md
+- articles/art-imitating-life-pat-emilia.md
+- articles/young-singing-done-right-aksel-rykkvin.md
+- articles/how-lucky-are-we-the-children-of-opera.md
+- articles/opera-other-trysts-a-love-story.md
+short_description: 'Basically, when the work isn&#039;t going well, it can be quite
+  devastating when it truly is the most important thing in an artist&#039;s life.
+  It seems a lame excuse for moping, though, and it&#039;s easy to compound the guilt
+  of being a &quot;bad artist&quot; with the guilt of &quot;not having anything else
+  going for you&quot;; after all, compared to singers with &quot;real&quot; responsibilities
+  outside of their work, a child-free singer should remember that they&#039;re among
+  the lucky ones, right? '
+slug: child-free-opera-singers-happiness
+title: Child-free opera singers &amp; happiness
+_template: article_single
+---
 Being an opera singer is a difficult career. It's a lot of work, a lot of pressure, a lot of travel. And opera singers aren't exempt from the common question about balancing work and family life. A quick Google search shows plenty of results about women who are juggling their opera careers while being mothers and wives; and, like other industries, there are more mothers answering these kinds of questions than fathers.
 
 While, on the surface it seems one sided, we're happy to report that we've heard tales of parenting-related stress, loneliness, sleep-devprivation and guilt expressed by as many men as by women, among the singers we've interviewed. It appears, though, that fatherhood is not seen as a "cause" or "reason" or "admirable balancing act" in the same way as motherhood is.
@@ -28,7 +42,10 @@ All artists experience a lull (or several) during their careers, where their pas
 
 It can be easy to equate one's value as a person with one's value as an artist; it's even easier when there's no "other big thing", like kids and marriages, that is deemed important enough to give value to one's life. Basically, when the work isn't going well, it can be quite devastating when it truly is the most important thing in an artist's life. It seems a lame excuse for moping, though, and it's easy to compound the guilt of being a "bad artist" with the guilt of "not having anything else going for you"; after all, compared to singers with "real" responsibilities outside of their work, a child-free singer should remember that they're among the lucky ones, right? 
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464727022207/2016-06-01---Baby.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464727022207/2016-06-01---Baby.jpg.jpg)
+
 <figcaption>Adorable. Yet, not for everyone.</figcaption>
 </figure>
 
@@ -42,7 +59,10 @@ Perhaps they're unwise about it, and instead of dating other colleagues, they sh
 
 Readers, in case any of you watched *Sex and the City*, this whole thing is sort of like that episode, "A Woman's Right to Shoes", where Carrie loses a pair of Manolo Blahniks at a party. When the party host seems too busy being a mom to worry about where the shoes went, Carrie decides to throw herself an "I'm single, yay" kind of party, invite said host, and open up a one-item gift registry at, you guessed it, Manolo Blahnik.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464727006307/2016-06-01---Blahnik.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464727006307/2016-06-01---Blahnik.jpg.jpg)
+
 <figcaption>Adorable. Yet, again, not for everyone.</figcaption>
 </figure>
 

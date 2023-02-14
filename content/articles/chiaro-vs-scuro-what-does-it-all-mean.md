@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-01-02T21:33:00-05:00"
-lastmod = "2016-01-04T11:46:00-05:00"
-preamble = "The list of adjectives used to describe singers' voices is long and often hilarious. Critics (and this includes myself) use words like \"heroic\" or \"metallic\" or \"velvety\" to try and capture how a voice made them feel. It's usually a biased choice of word, one that refers back to their own personal aesthetics about singing. In truth, applying a label to a voice really only works when it's in comparison to another voice.\n\nSome of these descriptors are everywhere in operatic circles, yet it can often be hard to imagine what a \"bright\" colour sounds like in the voice, or what the word \"warm\" means when it comes to sound. We thought it would be handy to point out a few major categories under which voices fall, and let you easily hear the differences."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451794712154/2016-01-03---ApplesOranges.jpg.jpg"
-publishDate = "2016-01-04T09:00:00-05:00"
-related_articles = ["articles/36-high-cs-to-perk-up-your-day.md"]
-short_description = "Some of these descriptors are everywhere in operatic circles, yet it can often be hard to imagine what a &quot;bright&quot; colour sounds like in the voice, or what the word &quot;warm&quot; means when it comes to sound. We thought it would be handy to point out a few major categories under which voices fall, and let you easily hear the differences."
-slug = "chiaro-vs-scuro-what-does-it-all-mean"
-title = "Chiaro vs. scuro: what does it all mean?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-01-02T21:33:00-05:00"
+lastmod: "2016-01-04T11:46:00-05:00"
+preamble: |-
+  The list of adjectives used to describe singers' voices is long and often hilarious. Critics (and this includes myself) use words like "heroic" or "metallic" or "velvety" to try and capture how a voice made them feel. It's usually a biased choice of word, one that refers back to their own personal aesthetics about singing. In truth, applying a label to a voice really only works when it's in comparison to another voice.
+
+  Some of these descriptors are everywhere in operatic circles, yet it can often be hard to imagine what a "bright" colour sounds like in the voice, or what the word "warm" means when it comes to sound. We thought it would be handy to point out a few major categories under which voices fall, and let you easily hear the differences.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451794712154/2016-01-03---ApplesOranges.jpg.jpg
+publishDate: "2016-01-04T09:00:00-05:00"
+related_articles:
+- articles/36-high-cs-to-perk-up-your-day.md
+short_description: Some of these descriptors are everywhere in operatic circles, yet
+  it can often be hard to imagine what a &quot;bright&quot; colour sounds like in
+  the voice, or what the word &quot;warm&quot; means when it comes to sound. We thought
+  it would be handy to point out a few major categories under which voices fall, and
+  let you easily hear the differences.
+slug: chiaro-vs-scuro-what-does-it-all-mean
+title: 'Chiaro vs. scuro: what does it all mean?'
+_template: article_single
+---
 
 ## Bright versus dark
 

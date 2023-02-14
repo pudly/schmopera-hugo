@@ -1,18 +1,21 @@
-+++
-date = "2016-03-09T20:35:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-03-09T20:35:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457555585778/2016-03-09---Elise-Quagliata.jpg.jpg"
-publishDate = "2016-03-09T20:35:00+00:00"
-related_companies = ["scene/companies/the-atlanta-opera.md","scene/companies/des-moines-metro-opera.md"]
-slug = "elise-quagliata"
-title = "Elise Quagliata"
-website = "http://elisequagliata.com/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/elvissquigs/videos"
-+++
+---
+date: "2016-03-09T20:35:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2016-03-09T20:35:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457555585778/2016-03-09---Elise-Quagliata.jpg.jpg
+publishDate: "2016-03-09T20:35:00+00:00"
+related_companies:
+- scene/companies/the-atlanta-opera.md
+- scene/companies/des-moines-metro-opera.md
+slug: elise-quagliata
+social_media:
+- platform: Youtube
+  _template: social_media
+  url: https://www.youtube.com/user/elvissquigs/videos
+title: Elise Quagliata
+website: http://elisequagliata.com/
+_template: "people_single"
+---
 
 Elise Quagliata, mezzo-soprano, has garnered critical notice over the past decade for her “rich, expressive voice and passionate delivery” (*The New York Times*) in a wide range of repertoire, from *Carmen* and *Dead Man Walking* to *Sweeney Todd*, and from oratorio and art song to cabaret.
 

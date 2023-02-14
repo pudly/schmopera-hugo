@@ -1,15 +1,26 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = "2017-07-30T19:13:00-04:00"
-lastmod = "2017-07-31T09:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501456531059/2017-07-30---DeadManWalkingimage2.jpg.jpg"
-publishDate = "2017-07-30T23:00:00-04:00"
-related_articles = ["articles/talking-with-singers-jnai-bridges.md","articles/when-art-is-not-enough-opera-activism.md","articles/dead-man-walking-makes-its-minnesota-opera-debut.md"]
-short_description = "The audience was left with no question of Joseph De Rocher&#039;s guilt – but Sister Helen&#039;s resolute narrative transformed the convicted murderer into a man who is conflicted, complicated, and deeply human. In the final scene, De Rocher was administered the lethal injection, strapped upright to a gurney in imagery undoubtedly evoking a crucifixion. The audience, then, was left with questions: did De Rocher&#039;s death truly achieve justice? In admitting his guilt, did he open himself to forgiveness? Or were his horrible crimes simply unforgivable?"
-slug = "in-review-dead-man-walking-at-miami-music-festival"
-title = "In review: Dead Man Walking at Miami Music Festival"
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2017-07-30T19:13:00-04:00"
+lastmod: "2017-07-31T09:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501456531059/2017-07-30---DeadManWalkingimage2.jpg.jpg
+publishDate: "2017-07-30T23:00:00-04:00"
+related_articles:
+- articles/talking-with-singers-jnai-bridges.md
+- articles/when-art-is-not-enough-opera-activism.md
+- articles/dead-man-walking-makes-its-minnesota-opera-debut.md
+short_description: 'The audience was left with no question of Joseph De Rocher&#039;s
+  guilt – but Sister Helen&#039;s resolute narrative transformed the convicted murderer
+  into a man who is conflicted, complicated, and deeply human. In the final scene,
+  De Rocher was administered the lethal injection, strapped upright to a gurney in
+  imagery undoubtedly evoking a crucifixion. The audience, then, was left with questions:
+  did De Rocher&#039;s death truly achieve justice? In admitting his guilt, did he
+  open himself to forgiveness? Or were his horrible crimes simply unforgivable?'
+slug: in-review-dead-man-walking-at-miami-music-festival
+title: 'In review: Dead Man Walking at Miami Music Festival'
+_template: article_single
+---
 
 The Louisiana State Penitentiary, known as Angola, is the largest maximum-security prison in the United States. Most of the inmates – nearly three-quarters – are serving life sentences without the possibility of parole, in a state known for its stringent sentencing laws.
 
@@ -31,7 +42,10 @@ Opposite Viñas, McMonigle sang a compelling, devout, and at times lighthearted 
 
 As Sister Rose, friend of Sister Helen, soprano Naomi Worley sang warmly and drew laughs from the audience. Tenor Mark Tempesta sang solidly as stern prison chaplain Father Grenville, convinced that Sister Helen's mission – to elicit and, ultimately, forgive De Rocher's confession of guilt – was a futile one.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501456734657/2017-07-30---DeadManWalkingimage1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501456734657/2017-07-30---DeadManWalkingimage1.jpg.jpg)
+
 <figcaption>Erin Alford (Sister Helen) in *Dead Man Walking*, Miami Music Festival, 2017. Photo courtesy of Miami Music Festival.</figcaption>
 </figure>
 

@@ -1,14 +1,17 @@
-+++
-date = "2017-02-23T16:33:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-02-23T16:33:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487867534712/2017-02-23---Karin-Wolverton.jpg.jpg"
-publishDate = "2017-02-23T16:33:00+00:00"
-related_companies = ["scene/companies/arizona-opera.md","scene/companies/minnesota-opera.md"]
-slug = "karin-wolverton"
-title = "Karin Wolverton"
-website = "http://karinwolverton.com/biography"
-+++
+---
+date: "2017-02-23T16:33:00+00:00"
+discipline: Soprano
+lastmod: "2017-02-23T16:33:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487867534712/2017-02-23---Karin-Wolverton.jpg.jpg
+publishDate: "2017-02-23T16:33:00+00:00"
+related_companies:
+- scene/companies/arizona-opera.md
+- scene/companies/minnesota-opera.md
+slug: karin-wolverton
+title: Karin Wolverton
+website: http://karinwolverton.com/biography
+_template: "people_single"
+---
 
 Soprano Karin Wolverton has been described by *Opera News* as “a young soprano to watch” having “a lovely warm tone, easy agility and winning musicality”. Ms. Wolverton took on the challenging role of Anna Sørensen in the 2011 world premiere of Kevin Puts’ Pulitzer Prize winning opera *Silent Night* with the Minnesota Opera for which WQXR acclaimed “. . . soprano Karin Wolverton, whose diamond-edged soprano shone in a sublime Act I “Dona Nobis Pacem” during mass, and sliced through the top notes of a second-act aria full of emotional turbulence as she realizes the beauty of her art is no match for the horrors of war.” Continuing her passionate involvement in new works, Ms. Wolverton will return to Arizona Opera in the 2016-2017 season for the world premiere of *Riders of the Purple Sage* by Craig Bohmler. Additionally, she will return to Minnesota Opera as Freia in *Das Rheingold*,  the Jacksonville Symphony as the Mother in *Hansel and Gretel*, and will debut with Opera Santa Barbara as Magda in *La rondine*.
  

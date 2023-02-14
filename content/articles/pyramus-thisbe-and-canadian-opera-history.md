@@ -1,18 +1,34 @@
-+++
-author = ["authors/greg.md"]
-categories = "News"
-date = "2015-10-19T22:05:00-04:00"
-lastmod = "2015-10-20T08:31:00-04:00"
-preamble = "Photo: [Owen McCausland](/scene/people/owen-mccausland/) as Testo in *Il combattimento di Tancredi e Clorinda* from the Canadian Opera Company’s world premiere production of *Pyramus and Thisbe* (with *Lamento d’Arianna* and *Il combattimento di Tancredi e Clorinda*), 2015. Photo by Chris Hutcheson"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445307648458/PT-CH-023.jpg.jpg"
-publishDate = "2015-10-20T08:20:00-04:00"
-related_articles = ["articles/story-webs-original-romeo.md","articles/in-review-the-reimagined-winters-tale.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/krisztina-szab.md","scene/people/phillip-addis.md","scene/people/owen-mccausland.md","scene/people/johannes-debus.md","scene/people/christopher-alden.md"]
-short_description = "Sunday night I got to witness a dress rehearsal for an amazing thing happening here in Toronto. For the first time I saw a Canadian composer take a curtain call on the Canadian Opera Company stage after the performance of what will be a world premiere Canadian work."
-slug = "pyramus-thisbe-and-canadian-opera-history"
-title = "Pyramus, Thisbe, and Canadian opera history"
-+++
+---
+author:
+- authors/greg.md
+categories: News
+date: "2015-10-19T22:05:00-04:00"
+lastmod: "2015-10-20T08:31:00-04:00"
+preamble: 'Photo: [Owen McCausland](/scene/people/owen-mccausland/) as Testo in *Il
+  combattimento di Tancredi e Clorinda* from the Canadian Opera Company’s world premiere
+  production of *Pyramus and Thisbe* (with *Lamento d’Arianna* and *Il combattimento
+  di Tancredi e Clorinda*), 2015. Photo by Chris Hutcheson'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445307648458/PT-CH-023.jpg.jpg
+publishDate: "2015-10-20T08:20:00-04:00"
+related_articles:
+- articles/story-webs-original-romeo.md
+- articles/in-review-the-reimagined-winters-tale.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/krisztina-szab.md
+- scene/people/phillip-addis.md
+- scene/people/owen-mccausland.md
+- scene/people/johannes-debus.md
+- scene/people/christopher-alden.md
+short_description: Sunday night I got to witness a dress rehearsal for an amazing
+  thing happening here in Toronto. For the first time I saw a Canadian composer take
+  a curtain call on the Canadian Opera Company stage after the performance of what
+  will be a world premiere Canadian work.
+slug: pyramus-thisbe-and-canadian-opera-history
+title: Pyramus, Thisbe, and Canadian opera history
+_template: article_single
+---
 
 Sunday night I got to witness a dress rehearsal for an amazing thing happening here in Toronto. For the first time I saw a Canadian composer take a curtain call on the [Canadian Opera Company](/scene/companies/canadian-opera-company/) stage after the performance of what will be a world premiere Canadian work. 
 
@@ -26,7 +42,10 @@ The second scene tells the story of Tancredi and Clorinda. *Il combattimento di 
 
 Then finally - what is probably the most exciting - we have Barbara Monk Feldman's world premiere of *Pyramus and Thisbe*. A more abstract presentation of the ill-fated love story that is so hilariously mangled by the mechanicals in Shakespeare's *A Midsummer Night's Dream*, this is an amalgam of several different sources with regard to the libretto. English, Latin and German are found in this piece which draws from Ovid, Faulkner, St. John of the Cross, and Rainer Maria Rilke; the text is poetic and abstract. The piece was primarily inspired by a painting by [Nicolas Poussin](https://en.wikipedia.org/wiki/Nicolas_Poussin) called [*Stormy Landscape with Pyramus and Thisbe*](http://www.wga.hu/html_m/p/poussin/4/05landsc.html), and you will hear this inspiration in Monk Feldman's orchestrations.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445308249412/Nicolas_Poussin_-_Landscape_during_a_Thunderstorm_with_Pyramus_and_thisbe_-_Google_Art_Project.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445308249412/Nicolas_Poussin_-_Landscape_during_a_Thunderstorm_with_Pyramus_and_thisbe_-_Google_Art_Project.jpg.jpg)
+
 <figcaption>Nicolas Poussin, *Landscape during a thunderstorm with Pyramus and Thisbe*. </figcaption>
 </figure>
 

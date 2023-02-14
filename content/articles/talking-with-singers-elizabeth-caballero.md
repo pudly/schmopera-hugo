@@ -1,17 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-10-25T17:30:00-06:00"
-lastmod = "2016-06-19T19:33:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445899946209/Caballero.E.Headshot.jpg.jpg"
-publishDate = "2015-10-28T09:00:00-06:00"
-related_articles = ["articles/talking-with-singers-othalie-graham.md","articles/talking-with-singers-nicole-cabell.md","articles/paul-appleby-telling-stories-at-wigmore-hall.md","articles/a-butterfly-but-not-from-puccini.md"]
-related_companies = ["scene/companies/opera-grand-rapids.md","scene/companies/the-metropolitan-opera.md","scene/companies/florida-grand-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/central-city-opera.md","scene/companies/opera-coeur-dalene.md"]
-related_people = ["scene/people/elizabeth-caballero.md"]
-short_description = "Cuban-American soprano Elizabeth Cabellero has built herself a busy life on the road, singing some of opera&#039;s most coveted roles in houses across the United States. She just finished singing Donna Elvira in Lyric Opera of Kansas City&#039;s Don Giovanni, and when we spoke over Skype, she was in Miami, FL, preparing for a recital in honour of legendary Romanian soprano, Virginia Zeani. "
-slug = "talking-with-singers-elizabeth-caballero"
-title = "Talking with singers: Elizabeth Caballero"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-10-25T17:30:00-06:00"
+lastmod: "2016-06-19T19:33:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445899946209/Caballero.E.Headshot.jpg.jpg
+publishDate: "2015-10-28T09:00:00-06:00"
+related_articles:
+- articles/talking-with-singers-othalie-graham.md
+- articles/talking-with-singers-nicole-cabell.md
+- articles/paul-appleby-telling-stories-at-wigmore-hall.md
+- articles/a-butterfly-but-not-from-puccini.md
+related_companies:
+- scene/companies/opera-grand-rapids.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/lyric-opera-of-kansas-city.md
+- scene/companies/central-city-opera.md
+- scene/companies/opera-coeur-dalene.md
+related_people:
+- scene/people/elizabeth-caballero.md
+short_description: 'Cuban-American soprano Elizabeth Cabellero has built herself a
+  busy life on the road, singing some of opera&#039;s most coveted roles in houses
+  across the United States. She just finished singing Donna Elvira in Lyric Opera
+  of Kansas City&#039;s Don Giovanni, and when we spoke over Skype, she was in Miami,
+  FL, preparing for a recital in honour of legendary Romanian soprano, Virginia Zeani. '
+slug: talking-with-singers-elizabeth-caballero
+title: 'Talking with singers: Elizabeth Caballero'
+_template: article_single
+---
 
 Cuban-American soprano [Elizabeth Cabellero](/scene/people/elizabeth-caballero/) has built herself a busy life on the road, singing some of opera's most coveted roles in houses across the United States. She just finished singing Donna Elvira in [Lyric Opera of Kansas City](/scene/companies/lyric-opera-of-kansas-city/)'s *Don Giovanni*, and when we spoke over Skype, she was in Miami, FL, preparing for a recital in honour of legendary Romanian soprano, [Virginia Zeani](/interviewing-the-greats-virginia-zeani/). "Her 90th birthday was yesterday," says Caballero. "They're celebrating her." (For more on Zeani, check out Olivier Bergeron's fantastic interview with her [right here]((/interviewing-the-greats-virginia-zeani/).)
 
@@ -19,7 +36,10 @@ Caballero heads next to Michigan to sing her first [Verdi *Requiem*](http://www.
 
 "I'm always going to sing with my voice, the only thing that will change is the style," she explains. "I'm going to sing Mozart the same way that I'm going to sing Puccini, just the style will be different. I'll sing Puccini the same way that I'll sing Verdi, or Monteverdi. I'm still using the same voice. There's no 'Mozart voice,' there's no 'Verdi voice.'"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445898347022/unnamed-1-706x1030.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445898347022/unnamed-1-706x1030.jpg.jpg)
+
 <figcaption>Elizabeth Caballero as Donna Elvira in *Don Giovanni* at Lyric Opera of Kansas City, 2015.</figcaption>
 </figure>
 
@@ -31,7 +51,10 @@ Next month Caballero will revisit a favourite role in Opera Coeur d'Alene's prod
 
 "All these singers, that we all study nowadays, they would sing everything, whether it was right for them or not. They would sing Wagner one night, and then sing Mozart the next, or Bellini the next. Maria Callas is known for doing that. Whether it's right to do or not, I don't think it's right for us to judge. I think it's up to the singer to make that decision." Caballero maintains that great singers "should be able to sing anything, just sing it with your instrument." 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445898504658/011-1030x832.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445898504658/011-1030x832.jpg.jpg)
+
 <figcaption>As Cio-Cio San in *Madama Butterfly* at Lyric Opera of Kansas City, 2012. Photo by Cory Weaver.</figcaption>
 </figure>
 
@@ -41,7 +64,10 @@ It's true that she gets some fantastic characters to play, but these same roles 
 
 She works regularly across the United States, in regional opera houses like Opera Grand Rapids, and at the big "work horse" companies like [The Metropolitan Opera](/scene/companies/the-metropolitan-opera/). I was curious about the difference in process and experience for working singers, and Caballero admits to enjoying the intimacy of smaller houses. "You have donors that really participate with you, and they pick you up at the airport, and you go to these parties and you meet them, and this and that." She gets that houses like the Met produce high quantity as well as quality. "There's a bit of a more warm and fuzzy feeling when you do go to these regional houses, as opposed to these bigger places that are there to just get operas together and get it going."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445898557453/042-685x1030.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445898557453/042-685x1030.jpg.jpg)
+
 <figcaption>As Micaëla in *Carmen* at Central City Opera, 2011. Photo by Kira Horvath.</figcaption>
 </figure>
 

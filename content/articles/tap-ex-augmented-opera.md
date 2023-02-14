@@ -1,24 +1,37 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2019-11-21T05:00:00+00:00"
-discipline = ""
-disclaimer = ""
-postamble = "[_TAP:EX Augmented Opera_](https://tapestryopera.com/tapex-augmented-opera/) plays at Sidewalk Labs until the 23rd."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574387625/media/2019/11/sqTapExAugmented-stills-photobyDahliaKatz-5959_dcq5jg.jpg"
-primary_image_credit = "TAP:EX Augmented Opera, Tapestry Opera, 2019. Photo: Dahlia Katz."
-related_articles = ["articles/in-review-bandits-in-the-valley.md", "articles/he-saidshe-said-tapex-metallurgy.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/lyndsay-promane.md", "scene/people/vanessa-oudereimerink.md", "scene/people/lauren-segal.md"]
-short_description = "As opera, and theatre in general, is forever evolving with the times, it's quite exciting to see new, cutting-edge approaches being used so successfully."
-slug = "tapex-augmented-opera-lives-up-to-its-name"
-social_media = []
-title = "TAP:EX Augmented Opera lives up to its name"
-website = ""
-youtube_url = ""
+---
+author:
+  - authors/greg.md
+categories: Review
+date: '2019-11-21T05:00:00+00:00'
+discipline: ''
+disclaimer: ''
+postamble: >-
+  [_TAP:EX Augmented Opera_](https://tapestryopera.com/tapex-augmented-opera/)
+  plays at Sidewalk Labs until the 23rd.
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1574387625/media/2019/11/sqTapExAugmented-stills-photobyDahliaKatz-5959_dcq5jg.jpg
+primary_image_credit: 'TAP:EX Augmented Opera, Tapestry Opera, 2019. Photo: Dahlia Katz.'
+related_articles:
+  - articles/in-review-bandits-in-the-valley.md
+  - articles/he-saidshe-said-tapex-metallurgy.md
+related_companies:
+  - scene/companies/tapestry-opera.md
+related_people:
+  - scene/people/lyndsay-promane.md
+  - scene/people/vanessa-oudereimerink.md
+  - scene/people/lauren-segal.md
+short_description: >-
+  As opera, and theatre in general, is forever evolving with the times, it's
+  quite exciting to see new, cutting-edge approaches being used so successfully.
+slug: tapex-augmented-opera-lives-up-to-its-name
+social_media: []
+title: 'TAP:EX Augmented Opera lives up to its name'
+website: ''
+youtube_url: ''
+_template: article_single
+---
 
-+++
 From the pianoforte to the iPod, the music world is constantly changing, and now we're staring down the barrel of the next great leap in technology. Augmented and virtual reality appear to be that next step. Both have been in the news quite a bit over the past few years - and rightly so. Augmented reality became a household term when a little app called Pokémon Go hit the market, and now we're seeing more and more people springing for their own VR headset for use at home. Every time there is a leap in technology, our entertainment changes.
 
 Tapestry Opera, Canada's leading presenter of strictly contemporary opera works, kicked off their 40th anniversary season with the latest instalment of _TAP:EX_. _TAP:EX Augmented Opera_ is a study of human memory explored through both AR and VR.
@@ -29,7 +42,9 @@ This show needed somewhere unique to play in, so Tapestry teamed up with Sidewal
 
 Co-created by Debi Wong of re:Naissance Theatre in Vancouver and composer Benton Roark and co-directed by Wong and Tapestry's Artistic Director Michael Hidetoshi Mori, _Augmented Opera_ tells the story of Elysium, a futuristic company that uses virtual and augmented reality along with another bastion of the future - artificial intelligence - to guide you through your memories in order to replicate a perfect afterlife.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574388213/media/2019/11/TapExAugmented-stills-photobyDahliaKatz-5885_z12mwe.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1574388213/media/2019/11/TapExAugmented-stills-photobyDahliaKatz-5885_z12mwe.jpg)
 
 <figcaption>TAP:EX Augmented Opera, Tapestry Opera, 2019. Photo: Dahlia Katz.</figcaption>  
 </figure>
@@ -42,7 +57,9 @@ I have to say this was a truly unique theatrical experience, starting the show o
 
 Promane and Oude-Reimerink embody two possible outcomes. While both seem to be at points of the highest emotional output for Eurydice, Promane's seems to evoke the latter stages (perhaps shortly after the end) of Eurydice's one true love. Promane's dark mezzo quickly and easily moves between registers and has a surprising brightness to the top end. Oude-Renmerink starts her scenes off with a refrain of "I said yes!" over and over so we're pretty clear where in Eurydice's past this is hailing from. Oude-Reimerink's bright, easy soprano was given the more conventionally lyrical writing of the two and was more than deftly suited to the task. Using a clean line and masterful dynamics, her joyful singing was entrancing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574388227/media/2019/11/TapExAugmented-stills-photobyDahliaKatz-5954_znxqll.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1574388227/media/2019/11/TapExAugmented-stills-photobyDahliaKatz-5954_znxqll.jpg)
 
 <figcaption>TAP:EX Augmented Opera, Tapestry Opera, 2019. Photo: Dahlia Katz.</figcaption>  
 </figure>

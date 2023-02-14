@@ -1,22 +1,26 @@
-+++
-date = "2015-05-25T11:45:00-06:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-06-05T21:05:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432575938712/LyndsayPromane.jpg.jpg"
-publishDate = "2015-05-25T11:45:00-06:00"
-related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/opera-atelier.md","scene/companies/myopera.md"]
-slug = "lyndsay-promane"
-title = "Lyndsay Promane"
-website = "https://about.me/lyndsaypromane"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/lyndsaypromane"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://instagram.com/lyndsaypromane/"
-+++
+---
+date: "2015-05-25T11:45:00-06:00"
+discipline: Mezzo-soprano
+lastmod: "2017-06-05T21:05:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432575938712/LyndsayPromane.jpg.jpg
+publishDate: "2015-05-25T11:45:00-06:00"
+related_companies:
+- scene/companies/university-of-toronto-opera.md
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+- scene/companies/opera-atelier.md
+- scene/companies/myopera.md
+slug: lyndsay-promane
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/lyndsaypromane
+- platform: Instagram
+  _template: social_media
+  url: https://instagram.com/lyndsaypromane/
+title: Lyndsay Promane
+website: https://about.me/lyndsaypromane
+_template: "people_single"
+---
 
 Praised for "a genuine and deeply satisfying sound" (*The WholeNote*), Canadian mezzo-soprano Lyndsay Promane was awarded second place in the 2016 Toronto Mozart Vocal Competition and was selected as a finalist in the Atelier Lyrique de l'Opéra de Montréal National Auditions. She is also the 2015/2016 recipient of the University of Toronto Faculty of Music Opera Division Scholarship. 
 

@@ -1,16 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-01-12T11:12:00+00:00"
-lastmod = "2017-01-16T14:15:00+00:00"
-preamble = "There's a reason that young singers and pianists search out their own kind of summers abroad. European-based summer opera programs are a great way to check off two major career points in one go; programs like the [Centre for Opera Studies in Italy](http://www.co-si.com/) (COSI) bring North American artists to Sulmona, Italy, where they pair lessons and stage experience with often their first taste of a far-away culture. \n\nWe've written before about [how to reap the rewards](/how-to-make-the-most-of-your-summer-program/) of these summer program teachers and coaches; yet it's equally important to take advantage of life outside of the rehearsal room. Here are four ways to make the most of your time off during a summer program in Europe."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484305097423/2017-01-13---Italy.jpg.jpg"
-publishDate = "2017-01-16T14:00:00+00:00"
-related_companies = ["scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
-short_description = "Doing some al fresco shopping is a great way to work on your language skills, particularly the words for various foods and units of measurement. You can also get an idea of what different foods cost, and save yourself from getting swindled on future shopping trips. Plus, you can reap the great benefits of a friendly relationship with the woman who sells all the garlic in Sulmona, Italy."
-slug = "summer-programs-in-europe-4-things-to-do-on-your-day-off"
-title = "Summer programs in Europe: 4 things to do on your day off"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-01-12T11:12:00+00:00"
+lastmod: "2017-01-16T14:15:00+00:00"
+preamble: "There's a reason that young singers and pianists search out their own kind
+  of summers abroad. European-based summer opera programs are a great way to check
+  off two major career points in one go; programs like the [Centre for Opera Studies
+  in Italy](http://www.co-si.com/) (COSI) bring North American artists to Sulmona,
+  Italy, where they pair lessons and stage experience with often their first taste
+  of a far-away culture. \n\nWe've written before about [how to reap the rewards](/how-to-make-the-most-of-your-summer-program/)
+  of these summer program teachers and coaches; yet it's equally important to take
+  advantage of life outside of the rehearsal room. Here are four ways to make the
+  most of your time off during a summer program in Europe."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484305097423/2017-01-13---Italy.jpg.jpg
+publishDate: "2017-01-16T14:00:00+00:00"
+related_companies:
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+short_description: Doing some al fresco shopping is a great way to work on your language
+  skills, particularly the words for various foods and units of measurement. You can
+  also get an idea of what different foods cost, and save yourself from getting swindled
+  on future shopping trips. Plus, you can reap the great benefits of a friendly relationship
+  with the woman who sells all the garlic in Sulmona, Italy.
+slug: summer-programs-in-europe-4-things-to-do-on-your-day-off
+title: 'Summer programs in Europe: 4 things to do on your day off'
+_template: article_single
+---
 
 ## To market, to market
 

@@ -1,17 +1,37 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-11-13T17:19:00-05:00"
-lastmod = "2015-11-14T12:45:00-05:00"
-preamble = "[Toy Piano Composers](/scene/companies/toy-piano-composers/) is a Toronto-based collective of composers, currently in their eighth season of concerts presenting their new works. Next Saturday, November 21st, they're holding their next event, [*To Be Announced III*](https://www.facebook.com/events/1626884627575817/), a showcase of world premieres by five emerging composers, selected from their most recent call for works. Joseph Glaser, James Lowrie, Patrick McGraw, Julia Mermelstein, Matthew Tozer, and Xintong Wang will have their works premiered by the Toy Piano Composers Ensemble: Tim Crouch (flute), Anthony Thompson (clarinet), Etienne Levesque (percussion), Wesley Shen (piano), Sharon Lee (violin), Adam Scime (double bass), and Pratik Gandhi, conductor. \n\n*To Be Announced III* also features guest singers [Maureen Batt](/scene/people/maureen-batt/) and [Jesse Clarke](/scene/people/jesse-clark/), who were kind enough to give us an inside look at their process, and what's exciting about premiering new works."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447453410267/2015-11-13---TPC-Poster.jpg.jpg"
-publishDate = "2015-11-14T12:44:00-05:00"
-related_companies = ["scene/companies/toy-piano-composers.md"]
-related_people = ["scene/people/maureen-batt.md","scene/people/jesse-clark.md"]
-short_description = "Toy Piano Composers is a Toronto-based collective of composers, currently in their eighth season of concerts presenting their new works. Next Saturday, November 21st, they&#039;re holding their next event, To Be Announced III, a showcase of world premieres by five emerging composers, selected from their most recent call for works."
-slug = "to-be-announced-iii-new-music-via-toy-piano-composers"
-title = "To Be Announced III: new music via Toy Piano Composers"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-11-13T17:19:00-05:00"
+lastmod: "2015-11-14T12:45:00-05:00"
+preamble: "[Toy Piano Composers](/scene/companies/toy-piano-composers/) is a Toronto-based
+  collective of composers, currently in their eighth season of concerts presenting
+  their new works. Next Saturday, November 21st, they're holding their next event,
+  [*To Be Announced III*](https://www.facebook.com/events/1626884627575817/), a showcase
+  of world premieres by five emerging composers, selected from their most recent call
+  for works. Joseph Glaser, James Lowrie, Patrick McGraw, Julia Mermelstein, Matthew
+  Tozer, and Xintong Wang will have their works premiered by the Toy Piano Composers
+  Ensemble: Tim Crouch (flute), Anthony Thompson (clarinet), Etienne Levesque (percussion),
+  Wesley Shen (piano), Sharon Lee (violin), Adam Scime (double bass), and Pratik Gandhi,
+  conductor. \n\n*To Be Announced III* also features guest singers [Maureen Batt](/scene/people/maureen-batt/)
+  and [Jesse Clarke](/scene/people/jesse-clark/), who were kind enough to give us
+  an inside look at their process, and what's exciting about premiering new works."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447453410267/2015-11-13---TPC-Poster.jpg.jpg
+publishDate: "2015-11-14T12:44:00-05:00"
+related_companies:
+- scene/companies/toy-piano-composers.md
+related_people:
+- scene/people/maureen-batt.md
+- scene/people/jesse-clark.md
+short_description: Toy Piano Composers is a Toronto-based collective of composers,
+  currently in their eighth season of concerts presenting their new works. Next Saturday,
+  November 21st, they&#039;re holding their next event, To Be Announced III, a showcase
+  of world premieres by five emerging composers, selected from their most recent call
+  for works.
+slug: to-be-announced-iii-new-music-via-toy-piano-composers
+title: 'To Be Announced III: new music via Toy Piano Composers'
+_template: article_single
+---
 
 ## 1. How do you approach learning a brand new piece of music? 
 
@@ -25,7 +45,10 @@ Now, if there is no text, or the text supplied is banal doggerel…I’m a sucke
 
 I try to approach traditional repertoire the same way. It’s difficult though. It’s easy to rely too heavily on recordings, at least for me it is.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447522033037/2015-11-14---Maureen-Batt.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447522033037/2015-11-14---Maureen-Batt.jpg.jpg)
+
 <figcaption>Maureen Batt, soprano.</figcaption>
 </figure>
 
@@ -37,7 +60,10 @@ It’s fine to say that I would like the piece to be at a particular tempo, or c
 
 **Maureen**: We met the composers this week at the orchestra rehearsal! We’ll be working more intensely with them this week as our rehearsals gear up. The composers’ input always affects my own interpretation of the music, particularly when we get the chance to work them in person in a mini workshop format. One of the coolest things for me about singing new music is that I can email or call the composer to talk about his/her piece (or, let’s be honest, go for a beer with the composer to talk about his/her piece).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447522070678/2015-11-14---Jesse-Clark-resized.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447522070678/2015-11-14---Jesse-Clark-resized.jpg.jpg)
+
 <figcaption>Jesse Clark, baritone.</figcaption>
 </figure>
 

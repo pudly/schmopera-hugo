@@ -1,18 +1,22 @@
-+++
-date = "2016-10-17T12:55:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-10-17T12:55:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476705121525/2016-10-17---Varduhi-Abrahamyan.jpg.jpg"
-primary_image_credit = "Courtesy of IMG Artists."
-publishDate = "2016-10-17T12:55:00+01:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/opra-national-de-paris.md","scene/companies/opernhaus-zurich.md"]
-slug = "varduhi-abrahamyan"
-title = "Varduhi Abrahamyan"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Varduhi_Mezzo"
-+++
+---
+date: "2016-10-17T12:55:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2016-10-17T12:55:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476705121525/2016-10-17---Varduhi-Abrahamyan.jpg.jpg
+primary_image_credit: Courtesy of IMG Artists.
+publishDate: "2016-10-17T12:55:00+01:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/opernhaus-zurich.md
+slug: varduhi-abrahamyan
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/Varduhi_Mezzo
+title: Varduhi Abrahamyan
+_template: "people_single"
+---
 
 Born in a family of musicians, Varduhi Abrahamyan completed her studies at the Conservatory of Yerevan.
 

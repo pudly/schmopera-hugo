@@ -1,27 +1,29 @@
-+++
-date = "2018-05-13T21:09:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-05-13T21:10:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526260107172/HaileyClark7.jpg.jpg"
-primary_image_credit = "Eric Melear"
-publishDate = "2018-05-13T21:09:00-04:00"
-related_companies = ["scene/companies/florida-grand-opera.md","scene/companies/fort-worth-opera.md","scene/companies/opera-saratoga.md"]
-slug = "hailey-clark"
-title = "Hailey Clark"
-website = "http://www.haileyclarksoprano.com/home.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/haileyclarksoprano/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/haileysoprano"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/haileyclarksoprano/"
-+++
+---
+date: "2018-05-13T21:09:00-04:00"
+discipline: Soprano
+lastmod: "2018-05-13T21:10:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526260107172/HaileyClark7.jpg.jpg
+primary_image_credit: Eric Melear
+publishDate: "2018-05-13T21:09:00-04:00"
+related_companies:
+- scene/companies/florida-grand-opera.md
+- scene/companies/fort-worth-opera.md
+- scene/companies/opera-saratoga.md
+slug: hailey-clark
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/haileyclarksoprano/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/haileysoprano
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/haileyclarksoprano/
+title: Hailey Clark
+website: http://www.haileyclarksoprano.com/home.html
+_template: "people_single"
+---
 
 Hailed for her brilliant, highly refined soprano voice and dynamic interpretations, American soprano Hailey Clark is quickly becoming a young soprano on the rise in both Europe and North America. She is the recipient Österreichischer Musiktheaterpreis (Austrian Music Theater Prize in Opera) in the category of 'Best Female Leading Role' for her performance as Alma Beers in *Brokeback Mountain* (2016) at the Salzburger Landestheater.
 

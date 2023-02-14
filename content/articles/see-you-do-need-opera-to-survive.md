@@ -1,15 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2014-08-13T17:14:00-04:00"
-lastmod = "2015-04-16T22:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429238699368/CougarRock.jpg.jpg"
-publishDate = "2014-08-13T17:14:00-04:00"
-related_articles = ["articles/6-animals-who-love-opera-more-than-penguins.md"]
-short_description = "Last week, Kyra Kopenstonsky was hiking in Colorado and bumped into a mountain lion. It stalked her for about twenty minutes, after which Kyra employed a last resort: singing opera."
-slug = "see-you-do-need-opera-to-survive"
-title = "See? You do need opera to survive"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2014-08-13T17:14:00-04:00"
+lastmod: "2015-04-16T22:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429238699368/CougarRock.jpg.jpg
+publishDate: "2014-08-13T17:14:00-04:00"
+related_articles:
+- articles/6-animals-who-love-opera-more-than-penguins.md
+short_description: 'Last week, Kyra Kopenstonsky was hiking in Colorado and bumped
+  into a mountain lion. It stalked her for about twenty minutes, after which Kyra
+  employed a last resort: singing opera.'
+slug: see-you-do-need-opera-to-survive
+title: See? You do need opera to survive
+_template: article_single
+---
 
 Last week, [Kyra Kopenstonsky](http://www.outdoorlife.com/blogs/newshound/colorado-hiker-sings-opera-fends-mountain-lion-attack) was hiking in Colorado and bumped into a mountain lion. It stalked her for about twenty minutes, after which Kyra employed a last resort: singing opera. That's right, after waving branches to make herself look bigger, the mountain lion wasn't fazed; and so she went for louder. "I just started singing opera really loud," said Kyra.
 

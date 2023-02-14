@@ -1,14 +1,18 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2014-04-21T08:58:00-04:00"
-lastmod = "2015-04-23T21:30:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838993925/BrahmsMeme.jpg.jpg"
-publishDate = "2014-04-21T08:58:00-04:00"
-short_description = "Has anyone else read about this? Richard Wagner, the &quot;notoriously bitchy composer&quot; (David Ward, The Guardian), said that Johannes Brahms, composer and owner of classical music&#039;s best beard, hated cats. "
-slug = "brahms-hated-cats-what"
-title = "Brahms hated cats? What?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2014-04-21T08:58:00-04:00"
+lastmod: "2015-04-23T21:30:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838993925/BrahmsMeme.jpg.jpg
+publishDate: "2014-04-21T08:58:00-04:00"
+short_description: 'Has anyone else read about this? Richard Wagner, the &quot;notoriously
+  bitchy composer&quot; (David Ward, The Guardian), said that Johannes Brahms, composer
+  and owner of classical music&#039;s best beard, hated cats. '
+slug: brahms-hated-cats-what
+title: Brahms hated cats? What?
+_template: article_single
+---
 
 Has anyone else read about this? Richard Wagner, the "notoriously bitchy composer" (David Ward, _The Guardian_), said that Johannes Brahms, composer and owner of classical music's best beard, hated cats. Allegedly, Brahms would sit by a window with a bow-and-arrow-type weapon that [Dvořák](http://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k) gave him, and shoot arrows at the cats in the street. Once he'd caught a cat, he would reel it in like he was fishing. But the really ridiculous part of this story is this: Brahms would listen to the sounds the cats made as he was reeling them in, and he'd _incorporate the sounds into his music. _
 

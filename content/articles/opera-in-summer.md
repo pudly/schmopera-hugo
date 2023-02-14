@@ -1,16 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2014-08-06T12:32:00-04:00"
-lastmod = "2015-04-16T23:04:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429239835168/SummerOpera.jpg.jpg"
-publishDate = "2014-08-06T12:32:00-04:00"
-related_articles = ["articles/how-to-make-the-most-of-your-summer-program.md","articles/back-to-school-opera-a-practical-glossary.md","articles/paid-summer-programs-is-it-time-for-a-revolution.md"]
-related_companies = ["scene/companies/halifax-summer-opera-festival.md","scene/companies/opera-on-the-avalon.md","scene/companies/opera-nuova.md","scene/companies/highlands-opera-studio.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
-short_description = "We&#039;re nearing the end of Summer Program Season, people. As a veteran of SPs myself, I always wonder about the young folks that went to OperaNUOVA or COSI or COAA/AEDO or the Halifax Summer Opera Festival or St. Andrews-by-the-Sea or any of those Canadian summer staples. "
-slug = "opera-in-summer"
-title = "Opera in Summer"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2014-08-06T12:32:00-04:00"
+lastmod: "2015-04-16T23:04:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429239835168/SummerOpera.jpg.jpg
+publishDate: "2014-08-06T12:32:00-04:00"
+related_articles:
+- articles/how-to-make-the-most-of-your-summer-program.md
+- articles/back-to-school-opera-a-practical-glossary.md
+- articles/paid-summer-programs-is-it-time-for-a-revolution.md
+related_companies:
+- scene/companies/halifax-summer-opera-festival.md
+- scene/companies/opera-on-the-avalon.md
+- scene/companies/opera-nuova.md
+- scene/companies/highlands-opera-studio.md
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+short_description: 'We&#039;re nearing the end of Summer Program Season, people. As
+  a veteran of SPs myself, I always wonder about the young folks that went to OperaNUOVA
+  or COSI or COAA/AEDO or the Halifax Summer Opera Festival or St. Andrews-by-the-Sea
+  or any of those Canadian summer staples. '
+slug: opera-in-summer
+title: Opera in Summer
+_template: article_single
+---
 
 We're nearing the end of Summer Program Season, people. As a veteran of SPs myself, I always wonder about the young folks that went to [OperaNUOVA](http://www.operanuova.ca/) or [COSI](http://www.co-si.com/) or [COAA](http://www.music.uwo.ca/students/non_degree/academies/coaa_aedo.html#coaa)[/AEDO](http://www.music.uwo.ca/students/non_degree/academies/coaa_aedo.html#aedo) or the [Halifax Summer Opera Festival](http://halifaxsummeroperafestival.com/) or [St. Andrews-by-the-Sea](http://www.standrewsartscouncil.nb.ca/opera.htm) or any of those Canadian summer staples. I wonder which of the singers had one of those "aha!" lessons with a new teacher, or performed their first major role in an opera, or found out they were really into Alexander Technique. I wonder about the pianists who might have worked on their very first opera, and if they got along with their conductor and learned the art of turning ten fingers into an orchestra. I wonder if they realized that not all singers are stupid, that some of them are downright awesome.
 

@@ -1,27 +1,31 @@
-+++
-date = "2018-02-25T19:06:00-05:00"
-discipline = "Tenor"
-lastmod = "2018-02-25T19:06:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519603267256/Mykkanen-Headshot-2-credit-Kristin-Hoebermann.jpg.jpg"
-primary_image_credit = "Kristin Hoebermann"
-publishDate = "2018-02-25T19:06:00-05:00"
-related_companies = ["scene/companies/palm-beach-opera.md","scene/companies/arizona-opera.md","scene/companies/canadian-opera-company.md","scene/companies/wolf-trap-opera.md","scene/companies/the-juilliard-school.md"]
-slug = "miles-mykkanen"
-title = "Miles Mykkanen"
-website = "https://www.milesmykkanentenor.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/milesmykkanentenor/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/themilesshow?lang=en"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/themilesshow/"
-+++
+---
+date: "2018-02-25T19:06:00-05:00"
+discipline: Tenor
+lastmod: "2018-02-25T19:06:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519603267256/Mykkanen-Headshot-2-credit-Kristin-Hoebermann.jpg.jpg
+primary_image_credit: Kristin Hoebermann
+publishDate: "2018-02-25T19:06:00-05:00"
+related_companies:
+- scene/companies/palm-beach-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/wolf-trap-opera.md
+- scene/companies/the-juilliard-school.md
+slug: miles-mykkanen
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/milesmykkanentenor/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/themilesshow?lang=en
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/themilesshow/
+title: Miles Mykkanen
+website: https://www.milesmykkanentenor.com/
+_template: "people_single"
+---
 
 Miles Mykkanen has garnered recognition on the world's concert and operatic stages for his "focused, full-voiced tenor" (The New York Times).  Of his performances in *Eugene Onegin* at the Juilliard School, Opera News wrote, "Mykkanen was a knockout as Lensky. The lyric intensity of his singing made each moment count, and the duel- scene aria was a stretch of sheer vocal gold.”
 

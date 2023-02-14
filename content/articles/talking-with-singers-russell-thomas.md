@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-08-29T18:28:00+01:00"
-lastmod = "2016-09-01T08:45:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472556957249/2016-08-30---Russell-Thomas---Dario-Acosta.jpg.jpg"
-primary_image_credit = "Photo by Dario Acosta."
-publishDate = "2016-09-01T08:45:00+01:00"
-related_articles = ["articles/talking-with-singers-steven-cole.md","articles/talking-with-singers-christian-van-horn.md","articles/talking-with-singers-luca-pisaroni.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/russell-thomas.md"]
-short_description = "He considers the impetus for professional singing a simple one, through those moments of encouragement as a teenager in school. Yet when asked why he still sings, Thomas nods to the freedom he finds onstage. &quot;I could escape my own life by trying to be somebody else. And that&#039;s the reason why I still do it now, because it&#039;s the escape from all of my own baggage.&quot;"
-slug = "talking-with-singers-russell-thomas"
-title = "Talking with singers: Russell Thomas"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-08-29T18:28:00+01:00"
+lastmod: "2016-09-01T08:45:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472556957249/2016-08-30---Russell-Thomas---Dario-Acosta.jpg.jpg
+primary_image_credit: Photo by Dario Acosta.
+publishDate: "2016-09-01T08:45:00+01:00"
+related_articles:
+- articles/talking-with-singers-steven-cole.md
+- articles/talking-with-singers-christian-van-horn.md
+- articles/talking-with-singers-luca-pisaroni.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/russell-thomas.md
+short_description: He considers the impetus for professional singing a simple one,
+  through those moments of encouragement as a teenager in school. Yet when asked why
+  he still sings, Thomas nods to the freedom he finds onstage. &quot;I could escape
+  my own life by trying to be somebody else. And that&#039;s the reason why I still
+  do it now, because it&#039;s the escape from all of my own baggage.&quot;
+slug: talking-with-singers-russell-thomas
+title: 'Talking with singers: Russell Thomas'
+_template: article_single
+---
 
 When we spoke with American tenor [Russell Thomas](/scene/people/russell-thomas/), he had just returned from his monthly environmental circuit around his Atlanta neighbourhood. "It's a once-a-month commitment to pick up trash around the corner of Atlanta where I live," explains Thomas, who joins his neighbours in their monthly pact to clean up their community. "Whenever I'm home I go out and do it."
 
@@ -24,7 +36,10 @@ Currently, Thomas' next job is a return to the [Canadian Opera Company](/scene/c
 
 "I am treated very well there," says Thomas. "They've taken a huge interest in me, and they've been very supportive over the years." He looks forward to spending significant time in Toronto over the coming seasons, and showing his appreciation for the company. "Pretty much every first I can give, I'm giving to [the COC] as much as I can," he says of staged role debuts he'll sing at the Four Seasons Centre.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472571431511/2016-08-30-Thomas---Carmen-MC-.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472571431511/2016-08-30-Thomas---Carmen-MC-.jpg.jpg)
+
 <figcaption>Simone Osborne as Micaëla and Russell Thomas as Don José in the Canadian Opera Company production of *Carmen*, 2016, photo: Michael Cooper.</figcaption>
 </figure>
 

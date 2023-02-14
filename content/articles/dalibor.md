@@ -1,29 +1,53 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2019-03-03T17:29:57+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[_Dalibor_](https://oper-frankfurt.de/de/spielplan/dalibor/) runs at Oper Frankfurt through March 30. For details and tickets, [click here](https://oper-frankfurt.de/de/spielplan/dalibor/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551636460/media/2019/03/sq3815dalibor02.jpg"
-primary_image_credit = "Izabela Matuła (Milada) und Aleš Briscein (Dalibor) in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus."
-related_articles = ["articles/a-visceral-nightmarish-tourdeforce-der-mieter.md", "articles/tweaking-the-brothers-grimm-in-oper-frankfurt-s-hänsel-und-gretel.md"]
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = ["scene/people/theo-lebow.md", "scene/people/gordon-bintner.md", "scene/people/izabela-matuła.md", "scene/people/angela-vallone.md", "scene/people/thomas-faulkner.md", "scene/people/aleš-briscein.md"]
-short_description = "The program's narrative is constructed from carefully monitored, highly produced confessionals. Applause signs and sensational graphics provoke tailored reactions from the studio audience, which itself seems on the show's payroll."
-slug = "smetanas-dalibor-gets-reality-show-treatment-at-oper-frankfurt"
-title = "Smetana's Dalibor gets reality show treatment at Oper Frankfurt"
-youtube_url = ""
+---
+author:
+  - authors/jeremy-hirsch.md
+categories: Review
+date: '2019-03-03T17:29:57+00:00'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  [_Dalibor_](https://oper-frankfurt.de/de/spielplan/dalibor/) runs at Oper
+  Frankfurt through March 30. For details and tickets, [click
+  here](https://oper-frankfurt.de/de/spielplan/dalibor/).
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1551636460/media/2019/03/sq3815dalibor02.jpg
+primary_image_credit: >-
+  Izabela Matuła (Milada) und Aleš Briscein (Dalibor) in Dalibor, Oper
+  Frankfurt, 2019. Photo: Monika Rittershaus.
+related_articles:
+  - articles/a-visceral-nightmarish-tourdeforce-der-mieter.md
+  - >-
+    articles/tweaking-the-brothers-grimm-in-oper-frankfurt-s-hänsel-und-gretel.md
+related_companies:
+  - scene/companies/oper-frankfurt.md
+related_people:
+  - scene/people/theo-lebow.md
+  - scene/people/gordon-bintner.md
+  - scene/people/izabela-matuła.md
+  - scene/people/angela-vallone.md
+  - scene/people/thomas-faulkner.md
+  - scene/people/aleš-briscein.md
+short_description: >-
+  The program's narrative is constructed from carefully monitored, highly
+  produced confessionals. Applause signs and sensational graphics provoke
+  tailored reactions from the studio audience, which itself seems on the show's
+  payroll.
+slug: smetanas-dalibor-gets-reality-show-treatment-at-oper-frankfurt
+title: Smetana's Dalibor gets reality show treatment at Oper Frankfurt
+youtube_url: ''
+_template: article_single
+---
 
-+++
 A new production of [Bedřich Smetana's _Dalibor_](https://oper-frankfurt.de/de/spielplan/dalibor/) premiered recently at [Oper Frankfurt](/scene/companies/oper-frankfurt/).
 
 Smetana, known by North American audiences for his opera _The Bartered Bride_, is the composer most responsible for the formation of a Czech national musical identity. With _Dalibor_ – a 15th-century knight who faces his feudal overlord despite certain doom –Smetana created a symbolic, revolutionary figure for Czechs of the late 19th century, who were resisting Austrian oppression.
 
 Director Florentine Klepper moves the opera's action, which begins with Dalibor's trial, to a modern television sound stage, where a live _Dateline_-style reality show is taping. The program's narrative is constructed from carefully monitored, highly produced confessionals. Applause signs and sensational graphics provoke tailored reactions from the studio audience, which itself seems on the show's payroll.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551636550/media/2019/03/3823dalibor03.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551636550/media/2019/03/3823dalibor03.jpg)
 
 <figcaption>Gordon Bintner and Ensemble in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
 
@@ -33,7 +57,9 @@ Dalibor is guilty of murder and doesn't argue otherwise. Particularly damning is
 
 He testifies instead that he killed to avenge the mysterious murder of his best friend. A clip shows a shrouded man handing Dalibor his friend's severed head in a box. (The rubber-looking head drew chuckles from the opera audience.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551636587/media/2019/03/3807dalibor07.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551636587/media/2019/03/3807dalibor07.jpg)
 
 <figcaption>Izabela Matuła (Milada), Aleš Briscein (Dalibor) sowie Simon Bailey (Budivoj), Gordon Bintner (Vladislav) in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
 
@@ -43,7 +69,9 @@ Dalibor's defense flops with the TV audience. He's sentenced to life, confined i
 
 Outside the studio, a ragtag group of punky protesters await the trial's verdict. They graffiti "fuck the system" on the studio wall and later hold "We are the 99%" signs," but for what exactly they advocate is unclear. Are they anti-corporate greed Occupiers or run-of-the-mill anarchists?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551636627/media/2019/03/3825dalibor11.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551636627/media/2019/03/3825dalibor11.jpg)
 
 <figcaption>Gordon Bintner and Ensemble in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
 
@@ -57,7 +85,9 @@ The general critique could be that media is manipulative and reality TV in parti
 
 Or maybe the production decries the symbiosis of partisan media and national political institutions, though the program isn't as focused or insidious as say, Fox News or Infowars.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551636681/media/2019/03/3814dalibor13.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551636681/media/2019/03/3814dalibor13.jpg)
 
 <figcaption>Angela Vallone (Jitka) and Theo Lebow (Vítek) in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
 
@@ -67,7 +97,9 @@ But these readings require stretches of the imagination beyond what the producti
 
 Moreover Dalibor, rather than die a hero of the disenfranchised, winds up a common criminal. On the verge of escape (Milada dresses up Fidelio-style to get in with the guards and slip Dalibor prison-breaking tools) Dalibor strategically places a bundle of dynamite under the studio audience bleachers. He successfully blows up the studio before being apprehended by authorities; an act that seems more like domestic terrorism than heroism.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551636719/media/2019/03/3809dalibor14.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551636719/media/2019/03/3809dalibor14.jpg)
 
 <figcaption>Gordon Bintner (Vladislav), Simon Bailey (Budivoj) and Ensemble in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
 
@@ -81,7 +113,9 @@ Bass [Thomas Faulkner](/scene/people/thomas-faulkner/)'s voice, burnished with b
 
 [Angela Vallone](/scene/people/angela-vallone/) (Jitka) has a bright, youthful timbre tinted with ruby undertones. The role hops her through the bulk of her range, which includes a surprisingly resonant chest voice.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551636767/media/2019/03/3826dalibor20.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551636767/media/2019/03/3826dalibor20.jpg)
 
 <figcaption>Izabela Matuła (Milada), Aleš Briscein (Dalibor) sowie Simon Bailey (Budivoj; background right) and Ensemble in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
 
@@ -93,7 +127,9 @@ Tenor [Aleš Briscein](/scene/people/ales-briscein/) likely interprets the title
 
 [Izabela Matuła](/scene/people/izabela-matula/)'s (Milada) vocalism was effortless and rich, though not hair raising.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551636892/media/2019/03/3810dalibor09.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551636892/media/2019/03/3810dalibor09.jpg)
 
 <figcaption>Aleš Briscein (Dalibor; seated) and Gordon Bintner (Vladislav; background, standing) and Ensemble in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
 
@@ -105,7 +141,9 @@ Maestro Stefan Soltesz balanced the orchestra's volume well to the singers' voic
 
 Like the production, the audience had little to say. Their lukewarm ovation, including boos and half-hearted responsory bravos for the production staff, suited the evening's shrugging aspect.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551636938/media/2019/03/3811dalibor12.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551636938/media/2019/03/3811dalibor12.jpg)
 
 <figcaption>Angela Vallone (Jitka; right, on screen), Theo Lebow (Vítek; stage right with red mask) and Ensemble in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
 

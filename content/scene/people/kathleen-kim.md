@@ -1,23 +1,25 @@
-+++
-date = "2016-08-19T10:27:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-08-19T10:27:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471598852587/2016-08-19---Kathleen-Kim-Taeuk-Kang.jpg.jpg"
-primary_image_credit = "Taeuk Kang."
-publishDate = "2016-08-19T10:27:00+01:00"
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/the-metropolitan-opera.md"]
-slug = "kathleen-kim"
-title = "Kathleen Kim"
-website = "http://kathleenkim.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/KathleenKimSoprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Kathleen_Kim"
-+++
+---
+date: "2016-08-19T10:27:00+01:00"
+discipline: Soprano
+lastmod: "2016-08-19T10:27:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471598852587/2016-08-19---Kathleen-Kim-Taeuk-Kang.jpg.jpg
+primary_image_credit: Taeuk Kang.
+publishDate: "2016-08-19T10:27:00+01:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/the-metropolitan-opera.md
+slug: kathleen-kim
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/KathleenKimSoprano
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/Kathleen_Kim
+title: Kathleen Kim
+website: http://kathleenkim.com/
+_template: "people_single"
+---
 
 Kathleen Kim has been a regular fixture on the stage of The Metropolitan Opera for the past decade with appearances as Tytania (*A Midsummer Night’s Dream*) under James Conlon, Olympia in Bartlett Sher’s production of *Les contes d’Hoffmann* and Blondchen (*Die Entführung aus dem Serail*), both conducted by James Levine, Oscar (*Un ballo in maschera*) under Kirill Petrenko, Madame Mao (*Nixon in China*) directed by Peter Sellars and conducted by John Adams, and Zerbinetta (*Ariadne auf Naxos*) conducted by Fabio Luisi.
  

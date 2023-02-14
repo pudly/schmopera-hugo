@@ -1,26 +1,27 @@
-+++
-date = "2019-01-29T01:56:59+00:00"
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548726923/media/2019/01/ElenaGalvan.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/opera-saratoga.md", "scene/companies/des-moines-metro-opera.md", "scene/companies/florida-grand-opera.md"]
-slug = "elena-galvan"
-title = "Elena Galván"
-website = "https://www.elenagalvan.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ElenaMGalvan"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/elenamgalvan/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ElenaGalvanSoprano"
-
-+++
+---
+date: "2019-01-29T01:56:59+00:00"
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548726923/media/2019/01/ElenaGalvan.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/opera-saratoga.md
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/florida-grand-opera.md
+slug: elena-galvan
+social_media:
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/ElenaMGalvan
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/elenamgalvan/
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/ElenaGalvanSoprano
+title: Elena Galván
+website: https://www.elenagalvan.com/
+_template: "people_single"
+---
 Praised for her “voice \[that\] shines with a winsome, lyric luster” (Opera News), soprano Elena Galván, from Ithaca, NY, is gaining recognition as a young soprano with “deft timing and repartee of a natural comedienne” (South Florida Classical Review). Elena will make a return to Florida Grand Opera’s stage in the 2018/19 season as Susanna in _Le nozze di Figaro._ She also returns to Livermore Valley Opera to make her role debut of Blondchen in _Die Entführung aus dem Serail_. Elena will be the soprano soloist for First Coast Opera’s “Bernstein’s Broadway” concert. Elena will return to upstate New York as the Soprano Soloist in performances of Handel’s _Messiah_ with the Cayuga Chamber Orchestra’s, Arts at Grace, and The Binghamton Downtown Singers.
 
 In 2017/18, Elena made a notable role and house debut as Lisette in _La rondine_ with Opera San Jose. She also joined Out of the Box Opera in Minneapolis to sing in their “Diva Cage Match” concert and First Coast Opera to perform Kay in _The Stranger’s Tale_ by Curtis Tucker.

@@ -1,22 +1,39 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = 2020-02-03T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "[_Hansel and Gretel_](https://www.sdopera.org/season/2019-2020-season/hansel-and-gretel) runs at San Diego Opera Feb. 8-16."
-preamble = "Mezzo-soprano Blythe Gaissert will be singing Hansel in [San Diego Opera's _Hansel and Gretel_](https://www.sdopera.org/season/2019-2020-season/hansel-and-gretel), Feb. 8-16. The production also features soprano Sara Gartland as Gretel. The opera will be conducted by Maestro Ari Pelto and is directed by Brenna Corner."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1580745174/media/2020/02/sqBlytheGaissert_hrcmzn.jpg"
-primary_image_credit = ""
-related_articles = ["articles/talking-with-singers-stephen-costello.md"]
-related_companies = ["scene/companies/san-diego-opera.md"]
-related_people = []
-short_description = "\"I feel like my voice has grown a lot in the last five years or so. Wagner is becoming more comfortable and I’m looking at some Verdi roles. I try to always learn and grow to just see what happens. Even if it's not something that becomes my wheelhouse, it's something that informs my other repertoire.\""
-slug = "talking-with-singers-blythe-gaissert"
-title = "Talking with singers: Blythe Gaissert"
-youtube_url = ""
+---
+author:
+  - authors/eva-cahen.md
+categories: Interview
+date: '2020-02-03T05:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  [_Hansel and
+  Gretel_](https://www.sdopera.org/season/2019-2020-season/hansel-and-gretel)
+  runs at San Diego Opera Feb. 8-16.
+preamble: >-
+  Mezzo-soprano Blythe Gaissert will be singing Hansel in [San Diego Opera's
+  _Hansel and
+  Gretel_](https://www.sdopera.org/season/2019-2020-season/hansel-and-gretel),
+  Feb. 8-16. The production also features soprano Sara Gartland as Gretel. The
+  opera will be conducted by Maestro Ari Pelto and is directed by Brenna Corner.
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1580745174/media/2020/02/sqBlytheGaissert_hrcmzn.jpg
+primary_image_credit: ''
+related_articles:
+  - articles/talking-with-singers-stephen-costello.md
+related_companies:
+  - scene/companies/san-diego-opera.md
+related_people: []
+short_description: >-
+  "I feel like my voice has grown a lot in the last five years or so. Wagner is
+  becoming more comfortable and I’m looking at some Verdi roles. I try to always
+  learn and grow to just see what happens. Even if it's not something that
+  becomes my wheelhouse, it's something that informs my other repertoire."
+slug: talking-with-singers-blythe-gaissert
+title: 'Talking with singers: Blythe Gaissert'
+youtube_url: ''
+_template: article_single
+---
 
-+++
 ## In Hansel and Gretel, you're playing a trouser role who's also a kid. It's a tricky balance and the music is pretty heavy. How do you pull it off?
 
 Going to the gym, making sure that you have good conditioning physically is part of it. Vocally, you're either appropriate for the role or not. Because of the size of the orchestra, you have to be able to get through. The hardest part is balancing the full rich sound and maintaining the youth in the character.
@@ -33,7 +50,9 @@ _Hansel and Gretel_ is for everyone in the same way that a really good Disney mo
 
 This particular production is very appealing to all ages. The puppets from Old Trout Puppet Workshop add a lot of visual interest and the scale that director Brenna Corner has been able to accomplish by making things so oversized that it makes us look small helps make it more interesting for everyone, not just children. She has focused on the less gruesome aspects of the story. I've seen other productions that have been made to be seen about child abuse. This one is not as dark as that. It hints at it because it's in there. It makes you questions why would those parents send those kids out so late. It makes me think about moments when you’re so stressed or tired that you maybe react more strongly than you would normally.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580745251/media/2020/02/SDOHansel2C8A0580_jvugol.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580745251/media/2020/02/SDOHansel2C8A0580_jvugol.jpg)
 
 <figcaption>Blythe Gaissert (on floor, left) in rehearsal for Hansel and Gretel, San Diego Opera, 2020. Photo courtesy of San Diego Opera.</figcaption>
 
@@ -61,7 +80,9 @@ Because I feel I have the training, it doesn't affect me technically in a negati
 
 It's essential. I like to say I'm a singing actor. Obviously in opera, you have to be able to sing and you have to be able to express the text vocally in the best way. The acting is part of that. In my teaching, I always say if you really embrace what you’re saying in the text, it will help you sing better. It deepens the commitment physically. You’re going to engage your body, and your breath too, in a more complete way. It's so important.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580745228/media/2020/02/Gaissert_c67xjy.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580745228/media/2020/02/Gaissert_c67xjy.jpg)
 
 </figure>
 

@@ -1,19 +1,24 @@
-+++
-date = "2016-04-10T17:38:00+01:00"
-discipline = "Baritone"
-lastmod = "2016-04-10T17:38:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460305979936/2016-04-10---GOERNE_Borggreve019.jpg.jpg"
-primary_image_credit = "Marco Borggreve for harmonia mundi. Copyright 2008."
-publishDate = "2016-04-10T17:38:00+01:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md"]
-slug = "matthias-goerne"
-title = "Matthias Goerne"
-website = "http://www.matthiasgoerne.com/en/welcome/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/matthiasgoerne"
-+++
+---
+date: "2016-04-10T17:38:00+01:00"
+discipline: Baritone
+lastmod: "2016-04-10T17:38:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460305979936/2016-04-10---GOERNE_Borggreve019.jpg.jpg
+primary_image_credit: Marco Borggreve for harmonia mundi. Copyright 2008.
+publishDate: "2016-04-10T17:38:00+01:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/wiener-staatsoper.md
+slug: matthias-goerne
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/matthiasgoerne
+title: Matthias Goerne
+website: http://www.matthiasgoerne.com/en/welcome/
+_template: "people_single"
+---
 
 Matthias Goerne is one of the most internationally sought-after vocalists and a frequent guest at renowned festivals and concert halls. He has collaborated with leading orchestras all over the world. Conductors of the first rank as well as eminent pianists are among his musical partners.
 

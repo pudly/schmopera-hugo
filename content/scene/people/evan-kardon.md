@@ -1,17 +1,22 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556845885/media/2019/05/EvanKardon-pc-KristinHoebermann.jpg"
-primary_image_credit = "Kristin Hoebermann"
-related_companies = ["scene/companies/opera-saratoga.md", "scene/companies/opera-philadelphia.md", "scene/companies/des-moines-metro-opera.md", "scene/companies/florida-grand-opera.md", "scene/companies/wolf-trap-opera.md"]
-slug = "evan-kardon"
-title = "Evan Kardon"
-website = "http://www.evanlaceykardon.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/evanlaceykardon/"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1556845885/media/2019/05/EvanKardon-pc-KristinHoebermann.jpg
+primary_image_credit: Kristin Hoebermann
+related_companies:
+- scene/companies/opera-saratoga.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/wolf-trap-opera.md
+slug: evan-kardon
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/evanlaceykardon/
+title: Evan Kardon
+website: http://www.evanlaceykardon.com/
+_template: "people_single"
+---
 Soprano Evan Kardon from Philadelphia, Pennsylvania is currently a Studio Artist with the Florida Grand Opera. Her mainstage work in the 2018/19 season will include Barbarina in _Le Nozze di Figaro_, Mrs. Ford in _Frida_ and Sophie in a new production of _Werther_. She will return to Des Moines Metro Opera as an Apprentice Artist to cover Musetta in _La Bohème_ this Summer. Ms. Kardon’s 2017/18 mainstage season included the roles of Amor in Gluck's _Orfeo ed Euridice_, as well as the role of Slave in Strauss' _Salome_. 
 
 Ms. Kardon is honored to have won First Place and Top Audience Choice in the Lois Alba Competition in Houston, Texas on June 25, 2017. In the 2016-2017 season, Ms. Kardon participated in the Opera Philadelphia chorus in _Turandot_ and _Le Nozze di Figaro_. Her Summer plans include returning to the Middlebury Language Institute to continue pursuing fluency in the German Language, as well as to sing Susanna in a condensed version of _Des Hochzeit des Figaros_. 

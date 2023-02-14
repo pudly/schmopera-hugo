@@ -1,16 +1,27 @@
-+++
-author = ["authors/vanessa-chumbley.md"]
-categories = "Op-ed"
-date = "2016-10-23T15:47:00+01:00"
-lastmod = "2016-10-24T12:01:00+01:00"
-preamble = "This is a cross-post by guest contributor [Vanessa Chumbley](https://lefarfalleblog.wordpress.com/), originally published on [BayArts.org](https://bayart.org/2016/09/03/when-lost-find-roots/). If you're interested in contributing to Schmopera.com, email us at [contribute@schmopera.com.](mailto:contribute@schmopera.com)"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477234402628/2016-10-24---Roots.jpg.jpg"
-publishDate = "2016-10-24T11:56:00+01:00"
-related_articles = ["articles/redefining-the-goal.md","articles/elitism-irony-and-the-phantom-of-the-opera.md","articles/audition-season-or-the-annual-festival-of-shattered-dreams.md","articles/why-our-artistic-roots-matter.md","articles/taking-the-leap-from-freelance-to-fulltime.md"]
-short_description = "For any of you involved in the freelance performing arts as a source of income, I don&#039;t have to tell you the struggles of making a living, having a life, or maintaining relationships. There are, of course, the 1% who have hit the jackpot of a permanent gig that provides steady income, God forbid benefits, and the luxury of being in one place year round as to actually have a family and a home.\n\n"
-slug = "when-lost-find-roots"
-title = "When lost, find roots"
-+++
+---
+author:
+- authors/vanessa-chumbley.md
+categories: Op-ed
+date: "2016-10-23T15:47:00+01:00"
+lastmod: "2016-10-24T12:01:00+01:00"
+preamble: This is a cross-post by guest contributor [Vanessa Chumbley](https://lefarfalleblog.wordpress.com/),
+  originally published on [BayArts.org](https://bayart.org/2016/09/03/when-lost-find-roots/).
+  If you're interested in contributing to Schmopera.com, email us at [contribute@schmopera.com.](mailto:contribute@schmopera.com)
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477234402628/2016-10-24---Roots.jpg.jpg
+publishDate: "2016-10-24T11:56:00+01:00"
+related_articles:
+- articles/redefining-the-goal.md
+- articles/elitism-irony-and-the-phantom-of-the-opera.md
+- articles/audition-season-or-the-annual-festival-of-shattered-dreams.md
+- articles/why-our-artistic-roots-matter.md
+- articles/taking-the-leap-from-freelance-to-fulltime.md
+short_description: |+
+  For any of you involved in the freelance performing arts as a source of income, I don&#039;t have to tell you the struggles of making a living, having a life, or maintaining relationships. There are, of course, the 1% who have hit the jackpot of a permanent gig that provides steady income, God forbid benefits, and the luxury of being in one place year round as to actually have a family and a home.
+
+slug: when-lost-find-roots
+title: When lost, find roots
+_template: article_single
+---
 
 No one is immune to the mountains and valleys of life. At times, we find ourselves kicking ass at work and coming home to loved ones who fill our lives with joy. Other times, our co-workers "forgot" to invite us to happy hour so we go home alone because we were just broken up with only to find the dog had pooped on the bed.
 
@@ -26,8 +37,11 @@ The frustration and stress that accompanies theses truths cause me to reconsider
 
 However, there are times – far fewer than the times I am shrouded in self doubt and feelings of failure – but there are times when I become overwhelmed by how much I love this stupid job. I love this community which has not always been kind to me, but always finds a way to remind me why I'm here, that I'm meant to be here, and that the work I do is important, even when I feel like I'm being kicked while down.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477234075394/2016-10-23---VonnegutQuote.jpg.jpg)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477234075394/2016-10-23---VonnegutQuote.jpg.jpg)
+
+<figure>
 
 In these rare moments, I am reminded of the two most important things – the two things that make up the roots that have grounded me in this work and keep me here, weathering the storm as best I can. The first of these roots is the fact that I truly believe, at my core, that the performing arts are an essential and vastly relevant part of humanity. Before we had computer programmers and financial consultants, we had communication, creativity, human expression – through art, literature, and music. Expressing ourselves through the arts is fundamentally human, one of the building blocks of our species and a vital part of our communities, history, and development.
 

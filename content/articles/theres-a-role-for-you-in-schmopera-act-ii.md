@@ -1,15 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-07-18T18:07:00-04:00"
-lastmod = "2017-07-26T20:05:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501113291607/2017-07-26---Road.jpg.jpg"
-publishDate = "2017-07-18T21:05:00-04:00"
-related_articles = ["articles/opinionated-opera-fans-come-write-for-us.md","articles/schmopera-coming-to-an-opera-house-near-you.md"]
-short_description = "Readers, in order to take this next step, we need your help. We&#039;ve never liked the idea of putting ads up on the site; they clutter up your reading experience, and they inhibit our ability to write unbiased material."
-slug = "theres-a-role-for-you-in-schmopera-act-ii"
-title = "There&#039;s a role for you in Schmopera: Act II!"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-07-18T18:07:00-04:00"
+lastmod: "2017-07-26T20:05:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501113291607/2017-07-26---Road.jpg.jpg
+publishDate: "2017-07-18T21:05:00-04:00"
+related_articles:
+- articles/opinionated-opera-fans-come-write-for-us.md
+- articles/schmopera-coming-to-an-opera-house-near-you.md
+short_description: Readers, in order to take this next step, we need your help. We&#039;ve
+  never liked the idea of putting ads up on the site; they clutter up your reading
+  experience, and they inhibit our ability to write unbiased material.
+slug: theres-a-role-for-you-in-schmopera-act-ii
+title: 'There&#039;s a role for you in Schmopera: Act II!'
+_template: article_single
+---
 
 Readers, we've got something that we're pretty darned excited to tell you about.
 

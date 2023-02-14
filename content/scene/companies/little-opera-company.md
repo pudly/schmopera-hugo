@@ -1,23 +1,22 @@
-+++
-address = ""
-email = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571862339/media/2019/10/Logo-LittleOperaCompany_aynvck.jpg"
-primary_image_credit = ""
-related_people = []
-slug = "little-opera-company"
-title = "Little Opera Company"
-type_of_company = "Opera Company"
-website = "https://www.littleopera.ca/index.htm"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/littleoperaco/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/littleoperaco"
-
-+++
+---
+address: ""
+email: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571862339/media/2019/10/Logo-LittleOperaCompany_aynvck.jpg
+primary_image_credit: ""
+related_people: []
+slug: little-opera-company
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/littleoperaco/
+- platform: Twitter
+  _template: social_media
+  url: https://twitter.com/littleoperaco
+title: Little Opera Company
+type_of_company: Opera Company
+website: https://www.littleopera.ca/index.htm
+_template: "company_single"
+---
 Since arriving in Canada in the late 1970s, Spencer Duncanson has provided invaluable local leadership through numerous community contributions. Having served previously as chair of the Winnipeg Arts Council, Duncanson currently volunteers on the board of directors of the Winnipeg Foundation. 
 
 A member of ACTRA, Duncanson holds a Masters of Education in Curriculum/Arts Education and a Post Baccalaureate Certificate in School Counseling from the University of Manitoba. He earned his Bachelor of Arts degree in Psychology and Music Education from Brooklyn College in New York and is a studied vocal performance at the University of Nevada-Reno.

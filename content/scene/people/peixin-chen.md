@@ -1,15 +1,21 @@
-+++
-date = "2017-09-15T21:57:00-04:00"
-discipline = "Bass"
-lastmod = "2017-09-15T21:57:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546109343/media/2018/12/Peixin-Chen.jpg"
-publishDate = "2017-09-15T21:57:00-04:00"
-related_companies = ["scene/companies/houston-grand-opera.md", "scene/companies/merola-opera-program.md", "scene/companies/opera-philadelphia.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/lyric-opera-of-kansas-city.md"]
-slug = "peixin-chen"
-title = "Peixin Chen"
-website = "http://www.peixinchen.com/"
-
-+++
+---
+date: "2017-09-15T21:57:00-04:00"
+discipline: Bass
+lastmod: "2017-09-15T21:57:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546109343/media/2018/12/Peixin-Chen.jpg
+publishDate: "2017-09-15T21:57:00-04:00"
+related_companies:
+- scene/companies/houston-grand-opera.md
+- scene/companies/merola-opera-program.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/lyric-opera-of-kansas-city.md
+slug: peixin-chen
+title: Peixin Chen
+website: http://www.peixinchen.com/
+_template: "people_single"
+---
 A recent graduate of the Houston Grand Opera Studio, and a student of Dr. Stephen King, Peixin Chen is recognized for his majestically resonant bass voice and for a keen dramatic instinct that he brings to a wide range of roles on the international opera stage.  His repertoire spans from the comic parts of Donizetti, Mozart, and Rossini to the strong and serious of Puccini, Verdi, and Wagner.  Peixin Chen has worked with an illustrious array of conductors and directors including Harry Bicket, Sebastian Lang-Lessing, Lorin Maazel, Giancarlo del Monaco, Andrés Orozco-Estrada, David Paul, Michel Plasson, David Pountney, James Robinson, Patrick Summers, and Francesca Zambello.
 
 In the current season Peixin Chen makes his Opera Philadelphia debut as Sarastro in the acclaimed production of *Die Zauberflöte* co-directed by Suzanne Andrade and Barrie Kosky, with full-scale animation, created by Paul Barritt, takes to the stage of the Lyric Opera of Kansas City as Sparafucile in *Rigoletto* directed by David Gately, and debuts at the Bard Music Festival as the Old Patriarch in Dvořák’s Dmitrij conducted by Leon Botstein in a new production directed by Anne Bogart.  With his home company, Houston Grand Opera, the Chinese bass bows as Don Bartolo in *Il barbiere di Siviglia* and as Oroveso in *Norma*.

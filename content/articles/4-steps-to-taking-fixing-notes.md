@@ -1,18 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-11-10T19:30:00-07:00"
-lastmod = "2016-07-10T16:37:00-06:00"
-postamble = "Do you have your own tips for being a pro at note-taking? Leave them in the comment section below!"
-preamble = "One mark of a professional opera singer is his or her ability to take notes. At the end of a rehearsal, a singer may have a collection of notes from music staff, diction coaches, their teacher, even an enthusiastic donor or two. Taking notes \"well\" isn't necessarily about being a polite professional and not taking anything personally; it's about what a singer does next.\n\nFrom my seat as a coach, I notice when I give notes again and again. There are lots of reasons for that (mostly the hazards of multitasking), and it's not a three-strikes-you're-out, unforgivable sin. Often, I give repeat notes because singers forget to remember, or they lack a technical plan for incorporating a note into their singing. This is where a system can come in handy."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468190272744/2016-07-10---Notebook.jpg.jpg"
-publishDate = "2015-11-11T10:04:00-07:00"
-related_articles = ["articles/how-to-lead-your-pianist.md", "articles/how-to-play-for-singers.md", "articles/kristen-seikaly-on-how-to-learn-a-role.md", "articles/6-learn-language.md", "articles/5-ways-to-build-your-rhythmic-chops.md", "articles/singable-text-when-composers-make-it-tricky.md", "articles/4-ways-to-give-notes-still-be-liked.md", "articles/3-tips-for-being-a-respectful-voice-coach.md"]
-short_description = "One mark of a professional opera singer is his or her ability to take notes. At the end of a rehearsal, a singer may have a collection of notes from music staff, diction coaches, their teacher, even an enthusiastic donor or two. Taking notes &quot;well&quot; isn&#039;t necessarily about being a polite professional and not taking anything personally; it&#039;s about what a singer does next."
-slug = "4-steps-to-taking-fixing-notes"
-title = "4 steps to taking (&amp; fixing) notes"
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-11-10T19:30:00-07:00"
+lastmod: "2016-07-10T16:37:00-06:00"
+postamble: Do you have your own tips for being a pro at note-taking? Leave them in
+  the comment section below!
+preamble: |-
+  One mark of a professional opera singer is his or her ability to take notes. At the end of a rehearsal, a singer may have a collection of notes from music staff, diction coaches, their teacher, even an enthusiastic donor or two. Taking notes "well" isn't necessarily about being a polite professional and not taking anything personally; it's about what a singer does next.
 
-+++
+  From my seat as a coach, I notice when I give notes again and again. There are lots of reasons for that (mostly the hazards of multitasking), and it's not a three-strikes-you're-out, unforgivable sin. Often, I give repeat notes because singers forget to remember, or they lack a technical plan for incorporating a note into their singing. This is where a system can come in handy.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468190272744/2016-07-10---Notebook.jpg.jpg
+publishDate: "2015-11-11T10:04:00-07:00"
+related_articles:
+- articles/how-to-lead-your-pianist.md
+- articles/how-to-play-for-singers.md
+- articles/kristen-seikaly-on-how-to-learn-a-role.md
+- articles/6-learn-language.md
+- articles/5-ways-to-build-your-rhythmic-chops.md
+- articles/singable-text-when-composers-make-it-tricky.md
+- articles/4-ways-to-give-notes-still-be-liked.md
+- articles/3-tips-for-being-a-respectful-voice-coach.md
+short_description: One mark of a professional opera singer is his or her ability to
+  take notes. At the end of a rehearsal, a singer may have a collection of notes from
+  music staff, diction coaches, their teacher, even an enthusiastic donor or two.
+  Taking notes &quot;well&quot; isn&#039;t necessarily about being a polite professional
+  and not taking anything personally; it&#039;s about what a singer does next.
+slug: 4-steps-to-taking-fixing-notes
+title: 4 steps to taking (&amp; fixing) notes
+_template: article_single
+---
 ## Figure out what you're being asked to do.
 
 Getting a note like "don't drag" and "add a portamento" are fairly straightforward; if a conductor or coach asked for either of these things, you'd know that you should speed up and add a portamento. Demonstrations are always handy, too; if the maestro is literally showing you what he or she wants, listen carefully to the details, and take stock of what's different from how you were doing it.

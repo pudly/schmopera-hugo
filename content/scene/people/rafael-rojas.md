@@ -1,14 +1,20 @@
-+++
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569783589/media/2019/09/RafaelRojas_fie23k.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/welsh-national-opera.md", "scene/companies/opra-national-de-paris.md", "scene/companies/opera-north.md", "scene/companies/boston-lyric-opera-1.md", "scene/companies/seattle-opera.md", "scene/companies/houston-grand-opera.md"]
-slug = "rafael-rojas"
-social_media = []
-title = "Rafael Rojas"
-website = ""
-
-+++
+---
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569783589/media/2019/09/RafaelRojas_fie23k.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/welsh-national-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/opera-north.md
+- scene/companies/boston-lyric-opera-1.md
+- scene/companies/seattle-opera.md
+- scene/companies/houston-grand-opera.md
+slug: rafael-rojas
+social_media: []
+title: Rafael Rojas
+website: ""
+_template: "people_single"
+---
 Born in Mexico‚ Rafael Rojas studied at the University of Guadalajara‚ the Royal Scottish Academy of Music and Drama and the Royal Northern College of Music.
 
 Recent and current projects include Dick Johnson _La Fanciulla del West_ (Opera National de Paris and Opera North)‚ Duca _Rigoletto_ (Komische Oper Berlin)‚ Calaf _Turandot_ and Messa di Gloria (Bregenz Festival)‚ Gustavo _Un Ballo in Maschera_‚ Calaf‚ Andrea Chénier‚ Pinkerton _Madama Butterfly_ and Cavaradossi _Tosca_ (Opera North)‚ title role _Otello_ (Basel; Hungarian State Opera‚ and Kalamazoo Symphony‚ USA)‚ Pollione _Norma_‚ Pinkerton _Madama Butterfly_‚ Don Jose _Carmen_ and Cavaradossi (Stuttgart)‚ Pollione‚ Andrea Chénier and Rodolfo Luisa Miller (Kassel)‚ Radames _Aida_ and Gustavo (Mannheim)‚ Duca (New Zealand Opera)‚ Radames‚ Gustavo and Cavaradossi (Staatstheater Hannover)‚ Calaf (Lisbon‚ Theater Magdeburg and Wiesbaden)‚ Manrico Il Trovatore and Pollione (Croatian National Theatre‚ Zagreb)‚ Cavaradossi (Den Jyske Opera‚ Denmark).

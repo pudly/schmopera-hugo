@@ -1,15 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2014-01-18T13:15:00-05:00"
-lastmod = "2015-04-28T23:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430279227620/Zerbinetta.png"
-publishDate = "2014-01-18T13:15:00-05:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-short_description = "It&#039;s Saturday, and I want to be entertained. And as if the triumvirate gods of Opera, Internet and Day-Of-Week united forces for bored opera-lovers everywhere, the Metropolitan Opera put up its 1988 production of Ariadne auf Naxos. "
-slug = "saturday-afternoon-with-ariadne"
-title = "Saturday Afternoon with Ariadne"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2014-01-18T13:15:00-05:00"
+lastmod: "2015-04-28T23:47:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430279227620/Zerbinetta.png
+publishDate: "2014-01-18T13:15:00-05:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+short_description: 'It&#039;s Saturday, and I want to be entertained. And as if the
+  triumvirate gods of Opera, Internet and Day-Of-Week united forces for bored opera-lovers
+  everywhere, the Metropolitan Opera put up its 1988 production of Ariadne auf Naxos. '
+slug: saturday-afternoon-with-ariadne
+title: Saturday Afternoon with Ariadne
+_template: article_single
+---
 
 It's Saturday, and I want to be entertained. And as if the triumvirate gods of Opera, Internet and Day-Of-Week united forces for bored opera-lovers everywhere, the Metropolitan Opera put up its 1988 production of _Ariadne auf Naxos._ Directed by Bodo Igesz, the production features James Levine, Kathleen Battle, Jessye Norman, Tatiana Troyanos and Nico Castel. That's right, _Nico Castel_ performs the role of the Haushofmeister. Now, I've seen the DVD of this production before, mostly because it comes with a short documentary showing rehearsal footage with maestro Levine, Jessye Norman and Kathleen Battle. It's fascinating to see moments of conversation between conductor and singer, especially when you can catch glimpses of young Barbara Bonney and Dawn Upshaw as Najade and Echo.
 

@@ -1,54 +1,81 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2014-02-10T15:04:00-05:00"
-lastmod = "2015-04-28T21:58:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272306834/16289_1_miscellaneous_digital_art_black-white_headphones_headphones.jpg.jpg"
-publishDate = "2014-02-10T15:04:00-05:00"
-related_articles = ["articles/googles-very-specific-opera-offerings.md","articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md","articles/is-technology-making-it-harder-to-tell-stories.md","articles/theres-still-no-opera-on-netflix.md"]
-short_description = "As I sat for the nth time scrolling through my music library on my computer, trying to find that really cool bit between this aria and that finale, I switched from recording to recording, hoping that the track division would be different, and perhaps more conducive to my finding that super neat chord progression."
-slug = "online-music-is-obscuring-opera"
-title = "Online Music is Obscuring Opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2014-02-10T15:04:00-05:00"
+lastmod: "2015-04-28T21:58:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272306834/16289_1_miscellaneous_digital_art_black-white_headphones_headphones.jpg.jpg
+publishDate: "2014-02-10T15:04:00-05:00"
+related_articles:
+- articles/googles-very-specific-opera-offerings.md
+- articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md
+- articles/is-technology-making-it-harder-to-tell-stories.md
+- articles/theres-still-no-opera-on-netflix.md
+short_description: As I sat for the nth time scrolling through my music library on
+  my computer, trying to find that really cool bit between this aria and that finale,
+  I switched from recording to recording, hoping that the track division would be
+  different, and perhaps more conducive to my finding that super neat chord progression.
+slug: online-music-is-obscuring-opera
+title: Online Music is Obscuring Opera
+_template: article_single
+---
 
 As I sat for the nth time scrolling through my music library on my computer, trying to find that really cool bit between this aria and that finale, I switched from recording to recording, hoping that the track division would be different, and perhaps more conducive to my finding that super neat chord progression. And it took me so long to find the thing that my determination wilted. It was somewhere in that chunk of 9:41 or something, and, sure that I had combed through every second of that stupid clip in vain, I was experiencing an acute sensation of oncoming dementia.
 
 But I realized that the problem is quite simple: online music has no idea what to do with classical music. And all I'm talking about is how the album information is displayed.  For example: you want to listen to part of Mozart's Requiem. When you pull up the album, this is what you see:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272397636/Screen-Shot-2014-02-10-at-1.40.41-PM.png)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272397636/Screen-Shot-2014-02-10-at-1.40.41-PM.png)
+
+<figure>
 
 Helpful.
 Or, you search for a recording of Wagner's Ring Cycle. On iTunes, you get this:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272436294/Wagner-Search-iTunes-720x500.png)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272436294/Wagner-Search-iTunes-720x500.png)
+
+<figure>
 
 This search was for "songs," with the search terms "wagner ring nibelung." You get a list of tracks from at least three different albums, one of them not a recording of any of the four operas, and the tracks are out of order. None of this matters if you're talking about mainstream commercial music. If you're searching for Bob Dylan, for example, the order of the songs or what album they're on isn't important for an accurate search result.
 
 It's only a problem because the form used by online music services doesn't work for classical music or opera. Case in point, in the details for a DVD of _Le nozze di Figaro_:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272468736/Amazon-Figaro-Album-Details.png)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272468736/Amazon-Figaro-Album-Details.png)
+
+<figure>
 
 Writers. _Writers_. I don't know why that's so offensive. It's sort of like calling Frank Lloyd Wright a sketch artist. I mean, he sketches, but, come on.
 
 Another example: at [barnesandnoble.com](http://www.barnesandnoble.com/u/Music-CDs-New-Releases-Reviews-Box-Sets/379003222), I filtered my search for Music > Opera and Vocal > Opera. I got a list of anthology-type albums, and the first complete work isn't even an opera:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272516998/Barnes-and-Noble-Opera-Filter.png)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272516998/Barnes-and-Noble-Opera-Filter.png)
+
+<figure>
 
 I also checked out streaming services, including [Rdio](http://www.rdio.com/), [Songza](http://songza.com/), [Grooveshark](http://grooveshark.com/) and [Jango](http://www.jango.com/). I found another culprit: automated playlists. Check out Grooveshark's search results for "la traviata:"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272601263/Grooveshark-Traviata-Search.png)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272601263/Grooveshark-Traviata-Search.png)
+
+<figure>
 
 It's a freaking mess.
 
 Over at Songza.com, I tried searching opera through their playlist system. Here's what I got:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272635750/Songza-Playlist-Sample-2.png)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272635750/Songza-Playlist-Sample-2.png)
+
+<figure>
 
 And when I checked out the Italian Cooking: Opera playlist (good title), the first song I got was "Voi che sapete." Now, I get that tagging and probably an algorithm or two determines what kind of stuff ends up on these playlists, and it was clear that the criteria were limited to the terms "Italian" and "opera." Fair. But an aria about puberty is not good cooking music.
 
@@ -58,8 +85,11 @@ What to do? It boils down to having someone around the offices at iTunes, Songza
 
 Wouldn't it be neat if the track listings for an opera album gave you an idea of where you were in the story? Like for _La traviata,_ instead of this:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272688716/Screen-Shot-2014-02-10-at-2.51.30-PM.jpg.jpg)
-</figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272688716/Screen-Shot-2014-02-10-at-2.51.30-PM.jpg.jpg)
+
+<figure>
 
 This:
 

@@ -1,13 +1,15 @@
-+++
-date = "2015-10-02T12:41:00-04:00"
-discipline = "Actor, playwright, librettist"
-lastmod = "2015-10-02T12:41:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443804033432/julie_tepperman.png.png"
-publishDate = "2015-10-02T12:41:00-04:00"
-related_companies = ["scene/companies/tapestry-opera.md"]
-slug = "julie-tepperman"
-title = "Julie Tepperman"
-+++
+---
+date: "2015-10-02T12:41:00-04:00"
+discipline: Actor, playwright, librettist
+lastmod: "2015-10-02T12:41:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443804033432/julie_tepperman.png.png
+publishDate: "2015-10-02T12:41:00-04:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+slug: julie-tepperman
+title: Julie Tepperman
+_template: "people_single"
+---
 
 Julie Tepperman is an actor, playwright, educator and co-founding artistic director of the Dora-nominated company, Convergence Theatre, creators of the hit plays *AutoShow*, *The Gladstone Variations* and *YICHUD* (Seclusion). Selected acting credits include: two seasons at The Stratford Festival, their Conservatory for Classical Theatre Training, as well as numerous play-development workshops and appearances at local Toronto theatre festivals.
 

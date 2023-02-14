@@ -1,30 +1,51 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = 2019-12-02T05:00:00Z
-discipline = ""
-disclaimer = ""
-image_gallery = []
-postamble = "Sondra Radvanovsky returns to Chicago in February 2020 to make her role debut as Lisa in LOC's production of Tchaikovsky's [_The Queen of Spades_](https://www.lyricopera.org/productions/2019-20/queen-of-spades/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1575329716/media/2019/12/sqSondraRadvanovsky_THETHREEQUEENS_ANNABOLENA_LyricOperaofChicago_LYR191129_040_ecgb3x.jpg"
-primary_image_credit = "Sondra Radvanovsky (Anna Bolena) in The Three Queens, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg."
-related_articles = ["articles/talking-with-singers-sondra-radvanovsky.md", "articles/in-review-sondra-radvanovsky-at-koerner-hall.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/riccardo-frizza.md", "scene/people/sondra-radvanovsky.md"]
-short_description = "Billed as selected excerpts from three operas, the event comes across on paper as a kind of combination Donizetti-teaser and superstar feature concert. Yet, the experience was remarkably gratifying artistically thanks not only to the operas’ shared backstories, but also to director Matthew Ozawa’s unity of concept through the scenes and, of course, Radvanovsky’s riveting portrayal of Anne Boleyn, Mary Stuart, and Elizabeth I.  "
-slug = "sondras-three-queens-earn-thunderous-ovation-in-chicago"
-social_media = []
-title = "Sondra's Three Queens earn \"thunderous ovation\" in Chicago"
-website = ""
-youtube_url = ""
+---
+author:
+  - authors/michael-pecak.md
+categories: Review
+date: '2019-12-02T05:00:00Z'
+discipline: ''
+disclaimer: ''
+image_gallery: []
+postamble: >-
+  Sondra Radvanovsky returns to Chicago in February 2020 to make her role debut
+  as Lisa in LOC's production of Tchaikovsky's [_The Queen of
+  Spades_](https://www.lyricopera.org/productions/2019-20/queen-of-spades/).
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1575329716/media/2019/12/sqSondraRadvanovsky_THETHREEQUEENS_ANNABOLENA_LyricOperaofChicago_LYR191129_040_ecgb3x.jpg
+primary_image_credit: >-
+  Sondra Radvanovsky (Anna Bolena) in The Three Queens, Lyric Opera of Chicago,
+  2019. Photo: Todd Rosenberg.
+related_articles:
+  - articles/talking-with-singers-sondra-radvanovsky.md
+  - articles/in-review-sondra-radvanovsky-at-koerner-hall.md
+related_companies:
+  - scene/companies/lyric-opera-of-chicago.md
+related_people:
+  - scene/people/riccardo-frizza.md
+  - scene/people/sondra-radvanovsky.md
+short_description: >-
+  Billed as selected excerpts from three operas, the event comes across on paper
+  as a kind of combination Donizetti-teaser and superstar feature concert. Yet,
+  the experience was remarkably gratifying artistically thanks not only to the
+  operas’ shared backstories, but also to director Matthew Ozawa’s unity of
+  concept through the scenes and, of course, Radvanovsky’s riveting portrayal of
+  Anne Boleyn, Mary Stuart, and Elizabeth I.  
+slug: sondras-three-queens-earn-thunderous-ovation-in-chicago
+social_media: []
+title: Sondra's Three Queens earn "thunderous ovation" in Chicago
+website: ''
+youtube_url: ''
+_template: article_single
+---
 
-+++
 As a post-Thanksgiving treat for Chicago opera-lovers, [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/) presents three performances of _Three Queens_, featuring soprano [Sondra Radvanovsky](/talking-with-singers-sondra-radvanovsky/) in finales from Donizetti's Tudor operas: _Anna Bolena_, _Maria Stuarda_, and _Roberto Devereux_.
 
 Billed as selected excerpts from three operas, the event comes across on paper as a kind of combination Donizetti-teaser and superstar feature concert. Yet, the experience was remarkably gratifying artistically thanks not only to the operas' shared backstories, but also to director Matthew Ozawa's unity of concept through the scenes and, of course, Radvanovsky's riveting portrayal of Anne Boleyn, Mary Stuart, and Elizabeth I.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1575329750/media/2019/12/SondraRadvanovsky_THETHREEQUEENS_MARIASTUARDA_LyricOperaofChicago_LYR191129_167_lm0mbc.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1575329750/media/2019/12/SondraRadvanovsky_THETHREEQUEENS_MARIASTUARDA_LyricOperaofChicago_LYR191129_167_lm0mbc.jpg)
 
 <figcaption>Sondra Radvanovsky (Maria Stuarda) in The Three Queens, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
@@ -34,7 +55,9 @@ Radvanovsky pitched this "Three Queens" idea to LOC, but she credits it as the b
 
 An effective programming touch, the overtures from each of the operas preceded their respective scenes, allowing the LOC orchestra to flex its muscles and prove yet again that this is one of the top Italian-repertoire ensembles outside of Italy. Especially when a native like Frizza, regular guest Marco Armiliato, or [Enrique Mazzola](/talking-with-conductors-enrique-mazzola/) (the company's Music Director Designate) is at the helm, the LOC orchestra brings to this music an irresistible verve, clarity, and sensitivity.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1575329767/media/2019/12/SondraRadvanovsky_THETHREEQUEENS_ROBERTODEVEREUX_LyricOperaofChicago_LYR191129_281_oaewsc.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1575329767/media/2019/12/SondraRadvanovsky_THETHREEQUEENS_ROBERTODEVEREUX_LyricOperaofChicago_LYR191129_281_oaewsc.jpg)
 
 <figcaption>Sondra Radvanovsky (Elizabeth I) in The Three Queens, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
@@ -42,7 +65,9 @@ An effective programming touch, the overtures from each of the operas preceded t
 
 Ozawa's staging was minimalist but visually and dramatically effective, utilizing a suspended platform, appropriate backdrops, carefully chosen color schemes, and basic props. It was enough to represent the three queens' dire predicaments while underscoring their emotional states, which at the finales of these operas are mix of rage, hallucination, resignation, or forgiveness. Moreover, the performance never felt like a park-and-bark concert; the singers and chorus engaged with the heroines and helped shape an actual story.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1575329807/media/2019/12/SondaRadvanovsky_THETHREEQUEENS_ROBERTODEVEREUX_LyricOperaofChicago_LYR191129_234_cqvfx1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1575329807/media/2019/12/SondaRadvanovsky_THETHREEQUEENS_ROBERTODEVEREUX_LyricOperaofChicago_LYR191129_234_cqvfx1.jpg)
 
 <figcaption>Sondra Radvanovsky (Elizabeth I) in The Three Queens, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
@@ -52,7 +77,9 @@ Although Radvanovsky was the unquestionable star of the evening, what I loved mo
 
 With a program like "The Three Queens" Sondra Radvanovsky continues to solidify her reputation as one of today's leading bel canto sopranos. During the 2015-16 season, she made history at the Metropolitan Opera singing all three of Donizetti's Tudor Queens in a single season. To sing these roles in a concentrated two-hour program, such as at the Lyric this week, presents its own challenges. On the surface, Donizetti's music may seem stylistically uniform, but he succeeds in capturing each queen's particular circumstances and individual emotional states with arresting subtlety.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1575329899/media/2019/12/SondraRadvanovsky_MarioRojas_THETHREEQUEENS_MARIASTUARDA_LyricOperaofChicago_LYR191129_183_wmyhne.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1575329899/media/2019/12/SondraRadvanovsky_MarioRojas_THETHREEQUEENS_MARIASTUARDA_LyricOperaofChicago_LYR191129_183_wmyhne.jpg)
 
 <figcaption>Sondra Radvanovsky (Maria Stuarda) with Mario Rojas in The Three Queens, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 

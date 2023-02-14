@@ -1,22 +1,37 @@
-+++
-author = ["authors/michael-zarathuscook.md"]
-categories = "Review"
-date = 2020-02-04T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1580866081/media/2020/02/sqPBNC_1255a_d5mm0z.jpg"
-primary_image_credit = "Kevin Short as Porgy and Angel Blue as Bess in The Gershwins' \"Porgy and Bess.\" Photo: Ken Howard / Met Opera."
-related_articles = []
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/eric-owens.md", "scene/people/angel-blue.md"]
-short_description = "Even with Gershwin's best intentions in demanding that this opera only ever be produced with an all-black cast, it is nonetheless apparent that this was and is an opera written for the white gaze. Be it the cringe-inducing libretto, the caricatured depiction of Southern accents (both white and black), the depiction of the hyper-saturation of religion in black communities (on and on with talk of the \"promised land\") and the gross exaggeration of Bess as the quintessential portrait of semper femina."
-slug = "a-handful-of-the-mets-porgy-and-bess"
-title = "A handful of the Met's Porgy and Bess"
-youtube_url = ""
+---
+author:
+  - authors/michael-zarathuscook.md
+categories: Review
+date: '2020-02-04T05:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1580866081/media/2020/02/sqPBNC_1255a_d5mm0z.jpg
+primary_image_credit: >-
+  Kevin Short as Porgy and Angel Blue as Bess in The Gershwins' "Porgy and
+  Bess." Photo: Ken Howard / Met Opera.
+related_articles: []
+related_companies:
+  - scene/companies/the-metropolitan-opera.md
+related_people:
+  - scene/people/eric-owens.md
+  - scene/people/angel-blue.md
+short_description: >-
+  Even with Gershwin's best intentions in demanding that this opera only ever be
+  produced with an all-black cast, it is nonetheless apparent that this was and
+  is an opera written for the white gaze. Be it the cringe-inducing libretto,
+  the caricatured depiction of Southern accents (both white and black), the
+  depiction of the hyper-saturation of religion in black communities (on and on
+  with talk of the "promised land") and the gross exaggeration of Bess as the
+  quintessential portrait of semper femina.
+slug: a-handful-of-the-mets-porgy-and-bess
+title: A handful of the Met's Porgy and Bess
+youtube_url: ''
+_template: article_single
+---
 
-+++
 If you're looking for a handful of popcorn to go along with some opera, or a handful of an opera with some popcorn on the side, either way you should see the Met's _Porgy and Bess_. Broadcasted live and in high definition - though of course nothing compares to the live experience - it's a marvel of the camera work that adds extra dimensions to the experience.
 
 That said, even with all the close-ups and fancy cuts, outstanding cast of singers and dancers, perfectly believable sets and costumes—the cringe-worthiness of _Porgy and Bess_ is nevertheless an ineluctable feature of this stellar production. It's a complicated experience, but one still worth having, inasmuch as an all-black cast on an opera stage is a few and far between thing (more on that later). The main thing is that this production succeeds as a hybrid: a hybrid of opera and musical theatre, of classical and jazz inspirations, of stage and screen, dance and voice, of the vestiges of a racist past and a self-conscious present, and - again - popcorn and opera: an underestimated combination.
@@ -25,7 +40,9 @@ That said, even with all the close-ups and fancy cuts, outstanding cast of singe
 
 This production's stage is a busy place, a sixty-member chorus to bolster an already sizable list of main characters, the set is practically a rotating neighbourhood and the lighting design has to account for both changes in daylight as well as seasons. All of it works together because of the cast; it's amazing to see the whole host of singers move and feel as a cohesive unit. Much credit goes to the chemistry between the main cast for adding an extra layer of believability to the fictional lives of the residents of Catfish Row.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580866150/media/2020/02/PBNC_0492a_wx3pvg.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580866150/media/2020/02/PBNC_0492a_wx3pvg.jpg)
 
 <figcaption>A scene from The Gershwins' "Porgy and Bess" with Kevin Short as Porgy and Angel Blue as Bess. Photo: Ken Howard / Met Opera</figcaption>
 
@@ -37,7 +54,9 @@ One of the biggest stars of the production, however, didn’t make an appearance
 
 Even with Gershwin's best intentions in demanding that this opera only ever be produced with an all-black cast, it is nonetheless apparent that this was and is an opera written for the _white gaze_. Be it the cringe-inducing libretto, the caricatured depiction of Southern accents (both white and black), the depiction of the hyper-saturation of religion in black communities (on and on with talk of the "promised land") and the gross exaggeration of Bess as the quintessential portrait of _semper femina_ - Brown's choreography is about the only thing in this production that isn’t for the gaze of the demographic of the audience present when this work premiered in 1935. The social context of her choreography, however, works in tandem with her solution to the always questionable task of integrating dance into opera. "I didn't want it to be a space where first you have the dancers, and then the actors, and then everybody comes together every five minutes," said Brown in an interview for the Met’s website, "I really wanted it to be a community where it's all flowing and everybody has the same energy".
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580866176/media/2020/02/PBNC_0829b_ud3qhz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580866176/media/2020/02/PBNC_0829b_ud3qhz.jpg)
 
 <figcaption>Donovan Singletary as Jake and Janai Brugger as Clara in The Gershwins' "Porgy and Bess." Photo: Ken Howard / Met Opera.</figcaption>
 
@@ -53,7 +72,9 @@ Angel Blue's Bess, on the other hand, rang bell-clear. Her presence is the most 
 
 Other notable performances include that of South African soprano Golda Schultz as Clara, her "Summertime" aria at the start of Act I delivered a strong start; and soprano Latonia Moore's stellar performance as Serena, the borough's matriarch, who shined in the spotlight set by the "My Man's Gone Now" aria.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580866206/media/2020/02/PBNC_0861b_nwy7xe.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580866206/media/2020/02/PBNC_0861b_nwy7xe.jpg)
 
 <figcaption>Angel Blue as Bess and Kevin Short as Porgy in The Gershwins' "Porgy and Bess." Photo: Ken Howard / Met Opera.</figcaption>
 
@@ -67,7 +88,9 @@ Set designer Michael Yeargan does a really good job of navigating the public and
 
 I’d be remiss if I didn’t mention the music, but truth be told the music barely registered in the broadcast; perhaps that's a result of technical oversights in the particular auditorium I was in, or the placement of microphones in the recording. Either way a fantastic opportunity was missed to interrupt our visual field with momentary cuts to David Robertson and the Met orchestra. They're half the show, after all, and the broadcast could benefit from the added material.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580866257/media/2020/02/PBNC_1274a_rd3mqf.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580866257/media/2020/02/PBNC_1274a_rd3mqf.jpg)
 
 <figcaption>Kevin Short as Porgy in The Gershwins' "Porgy and Bess." Photo: Ken Howard / Met Opera.</figcaption>
 
@@ -79,7 +102,9 @@ So yes, the Met's _Porgy_ is a mixed bag of yay’s and semi-nay’s—it's a ha
 
 It wasn't until the very late date of January 1955, under the auspices of the relatively progressive leadership of General Manager Rudolf Bing that an African-American artist sang a lead role at the Met for the first time (Marian Anderson, _Un ballo in maschera_). The Met's desire to shine a spotlight on such belated milestones brought about Black Voices at the Met, a historical exhibition concomitant with their first production of _Porgy_ in thirty years, an effort to "pay tribute to the great African American artists who have graced the Met stage". It's a bit awkward reading the Met's own account of how its Chairman in the 1930's, Otto Kahn, decided against giving this opera its world premiere at the Met on account of it being "too complicated and costly". 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580866271/media/2020/02/PBNC_1540a_jn5hp8.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580866271/media/2020/02/PBNC_1540a_jn5hp8.jpg)
 
 <figcaption>Denyce Graves as Maria and Janai Brugger as Clara in The Gershwins' "Porgy and Bess." Photo: Ken Howard / Met Opera.</figcaption>
 

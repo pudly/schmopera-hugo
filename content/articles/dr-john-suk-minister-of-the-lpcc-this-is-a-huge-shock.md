@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-04-18T11:05:00-04:00"
-lastmod = "2015-04-18T18:16:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429380564236/by_column_bw.jpg.jpg"
-primary_image_credit = "Photo by Gilbert Francois"
-publishDate = "2015-04-18T18:11:00-04:00"
-related_articles = ["articles/valentina-lisitsa-freedom-of-speech-is-a-twoway-street.md","articles/freedom-of-press-journalistic-integrity.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-short_description = "As the Valentina Lisitsa topic rambles on, I was fortunate to be able to speak with Dr. John Suk, Minister at Lawrence Park Community Church. After Lisitsa&#039;s TSO performances were cancelled, she announced on Twitter that she would be performing instead at the LPCC on April 10th. The catch: no one booked the church."
-slug = "dr-john-suk-minister-of-the-lpcc-this-is-a-huge-shock"
-title = "Dr. John Suk, Minister of the LPCC: &quot;This is a huge shock.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-04-18T11:05:00-04:00"
+lastmod: "2015-04-18T18:16:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429380564236/by_column_bw.jpg.jpg
+primary_image_credit: Photo by Gilbert Francois
+publishDate: "2015-04-18T18:11:00-04:00"
+related_articles:
+- articles/valentina-lisitsa-freedom-of-speech-is-a-twoway-street.md
+- articles/freedom-of-press-journalistic-integrity.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+short_description: 'As the Valentina Lisitsa topic rambles on, I was fortunate to
+  be able to speak with Dr. John Suk, Minister at Lawrence Park Community Church.
+  After Lisitsa&#039;s TSO performances were cancelled, she announced on Twitter that
+  she would be performing instead at the LPCC on April 10th. The catch: no one booked
+  the church.'
+slug: dr-john-suk-minister-of-the-lpcc-this-is-a-huge-shock
+title: 'Dr. John Suk, Minister of the LPCC: &quot;This is a huge shock.&quot;'
+_template: article_single
+---
 
 Yesterday I received an email from DeeAnn Sagar, Youth Leader at [Lawrence Park Community Church](http://www.lawrenceparkchurch.ca/). Last week, the LPCC was unfairly entangled in the controversy surrounding pianist [Valentina Lisitsa](http://www.schmopera.com/valentina-lisitsa-freedom-of-speech-is-a-two-way-street/), whose concerts with the Toronto Symphony Orchestra were cancelled. After the TSO cancelled her concerts, Lisitsa announced the LPCC as the new venue for her Toronto performance, on Friday, April 10th, even though the church hadn't been booked.
 

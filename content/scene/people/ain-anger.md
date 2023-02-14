@@ -1,17 +1,22 @@
-+++
-date = "2016-03-19T14:19:00+00:00"
-discipline = "Bass"
-lastmod = "2016-03-19T14:19:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458397054711/2016-03-19---Ain-Anger.jpg.jpg"
-publishDate = "2016-03-19T14:19:00+00:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/bayerische-staatsoper.md","scene/companies/san-francisco-opera.md"]
-slug = "ain-anger"
-title = "Ain Anger"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ain.anger1"
-+++
+---
+date: "2016-03-19T14:19:00+00:00"
+discipline: Bass
+lastmod: "2016-03-19T14:19:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458397054711/2016-03-19---Ain-Anger.jpg.jpg
+publishDate: "2016-03-19T14:19:00+00:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/san-francisco-opera.md
+slug: ain-anger
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/ain.anger1
+title: Ain Anger
+_template: "people_single"
+---
 
 Hailed by The Guardian as “one of the great Wagner basses of our time” Ain Anger made his Bayreuth Festival debut in 2009 under Christian Thielemann as Fafner in Das Rheingold and Siegfried before singing Hunding in new *Ring Cycles* at Bayerische Staatsoper (Kent Nagano), Wiener Staatsoper (Franz Welser-Möst) and Oper Frankfurt (Sebastian Weigle). He made an acclaimed debut at Teatro alla Scala as Daland in *Der fliegende Holländer* (Hartmut Haenchen) and appeared at the BBC Proms with Deutsche Oper Berlin in *Tannhäuser* under Donald Runnicles.
 

@@ -1,23 +1,25 @@
-+++
-date = "2017-09-19T11:35:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2017-09-19T11:36:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505835138579/Brandon_Cedel_pc_Peter_Konerko_a_300dpi.jpg.jpg"
-primary_image_credit = "Peter Konerko"
-publishDate = "2017-09-19T11:35:00-04:00"
-related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/the-metropolitan-opera.md"]
-slug = "brandon-cedel"
-title = "Brandon Cedel"
-website = "https://www.brandoncedel.net/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/brandoncedelbassbaritone"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/brandon1129/"
-+++
+---
+date: "2017-09-19T11:35:00-04:00"
+discipline: Bass-baritone
+lastmod: "2017-09-19T11:36:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505835138579/Brandon_Cedel_pc_Peter_Konerko_a_300dpi.jpg.jpg
+primary_image_credit: Peter Konerko
+publishDate: "2017-09-19T11:35:00-04:00"
+related_companies:
+- scene/companies/oper-frankfurt.md
+- scene/companies/the-metropolitan-opera.md
+slug: brandon-cedel
+social_media:
+- platform: Facebook
+  _template: social_media
+  url: https://www.facebook.com/brandoncedelbassbaritone
+- platform: Instagram
+  _template: social_media
+  url: https://www.instagram.com/brandon1129/
+title: Brandon Cedel
+website: https://www.brandoncedel.net/
+_template: "people_single"
+---
 
 Bass-baritone Brandon Cedel, a recent graduate of the Metropolitan Opera's Lindemann Young Artist Development Program, is currently an Ensemble member of Oper Frankfurt. His roles with the company in the 2017-18 season include multiple new productions, including Argante in *Rinaldo*, A Prisoner in *From the House of the Dead*, Dio in *Il Serpente di Bronzo*, and the bass-baritone part in a new commission titled *A Wintery Spring*, composed by Saed Haddad. He will also sing Donner in *Das Rheingold* and Lieutenant Ratcliffe in *Billy Budd*. In addition, he will appear in January with the BBC Philharmonic at a concert featuring Bernstein’s *Songfest*, conducted by David Charles Abell.  
 

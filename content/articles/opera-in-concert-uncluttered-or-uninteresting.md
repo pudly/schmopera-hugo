@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-09-08T09:07:00+01:00"
-lastmod = "2016-09-15T15:26:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473945682355/2016-09-15---Concert.jpg.jpg"
-publishDate = "2016-09-15T15:20:00+01:00"
-related_articles = ["articles/in-review-hannigan-grazinyte-tyle-BBC-proms.md","articles/party-arias-the-traits-of-lesser-operas.md","articles/falstaff-in-cambridge.md"]
-related_people = ["scene/people/albina-shagimuratova.md"]
-short_description = "If an opera truly is a great work of drama and music, does that mean it&#039;s less likely to translate well without sets or costumes? If the drama and music are wonderfully combined, does an in-concert performance mess up a composer&#039;s delicate balance? If a great opera feels like it&#039;s going on for days, how much fault lies in our dwindling contemporary attention spans?"
-slug = "opera-in-concert-uncluttered-or-uninteresting"
-title = "Opera in concert: uncluttered or uninteresting?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-09-08T09:07:00+01:00"
+lastmod: "2016-09-15T15:26:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473945682355/2016-09-15---Concert.jpg.jpg
+publishDate: "2016-09-15T15:20:00+01:00"
+related_articles:
+- articles/in-review-hannigan-grazinyte-tyle-BBC-proms.md
+- articles/party-arias-the-traits-of-lesser-operas.md
+- articles/falstaff-in-cambridge.md
+related_people:
+- scene/people/albina-shagimuratova.md
+short_description: If an opera truly is a great work of drama and music, does that
+  mean it&#039;s less likely to translate well without sets or costumes? If the drama
+  and music are wonderfully combined, does an in-concert performance mess up a composer&#039;s
+  delicate balance? If a great opera feels like it&#039;s going on for days, how much
+  fault lies in our dwindling contemporary attention spans?
+slug: opera-in-concert-uncluttered-or-uninteresting
+title: 'Opera in concert: uncluttered or uninteresting?'
+_template: article_single
+---
 
 If you think about it for too long, the idea of doing opera in concert is pretty odd.
 
@@ -24,7 +34,9 @@ Of course, it's a slippery slope to draw the line between an opera's being suita
 
 At the 2016 BBC Proms, we heard Rossini's *Semiramide* in concert at Royal Albert Hall, wth Sir Mark Elder conducting the Orchestra of the Age of Enlightenment. Russian coloratura soprano [Albina Shagimuratova](/scene/people/albina-shagimuratova/) was stunning in the title role, filling Albert Hall with staggering high notes, and a lovely richness in her sound that is rare among coloraturas. [Daniela Barcellona](/scene/people/daniela-barcellona/) was a strong Arsace, showing off the bottom of her voice to complement Semiramide's great heights. Bass Mirco Palazzi sang Assur, with tenor Barry Banks as Idreno; both gentlement stepped in on short notice to replace Ildebrando d'Arcangelo and Levy Strauss Sekgapane, respectively.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473939695137/2016-09-14---Shagimuratova---pc---Pavel-Vaan-Leonid-Semenyuk.jpg.jpg)<figcaption>Albina Shagimuratova, coloratura soprano. Photo by Pavel Vaan and Leonid Semenyuk.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473939695137/2016-09-14---Shagimuratova---pc---Pavel-Vaan-Leonid-Semenyuk.jpg.jpg)<figcaption>Albina Shagimuratova, coloratura soprano. Photo by Pavel Vaan and Leonid Semenyuk.</figcaption>
 </figure>
 
 On the one hand, *Semiramide* is just too long for a concert performance. It's over three hours of music; now, when that music is played by the fantastic OAE and sung by great singers, it isn't such a bad problem to have. Yet this in-concert Rossini shone a bright light onto the piece itself, exposing every musical moment that urges the characters to move, for a scene to change, for some *reason* to repeat oneself as much as they do in *bel canto* operas.

@@ -1,29 +1,41 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = 2022-11-21T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1669126432/media/2022/11/sqUncovered__ChrisCarr_RachelPolicar_Altar_k9ieic.jpg"
-primary_image_credit = "Chris Carr (Levi) and Rachel Policar (Leah) in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022. Photo: Carol Rosegg."
-related_articles = ["articles/counterculture.md", "articles/watch-with-headphones-rumspringawakening.md"]
-related_companies = []
-related_people = []
-short_description = "There is an unfortunate trend currently in live theater. It’s not clear if the demand is coming from audiences or from theater companies who are either listening to their audiences or to the bottom line of their budgets. "
-slug = "running-time"
-title = "Running Time"
-youtube_url = ""
+---
+author:
+  - authors/loren-lester.md
+categories: Review
+date: '2022-11-21T05:00:00Z'
+disclaimer: ''
+image_gallery: []
+postamble: ''
+preamble: ''
+primary_image: >-
+  https://res.cloudinary.com/schmopera/image/upload/v1669126432/media/2022/11/sqUncovered__ChrisCarr_RachelPolicar_Altar_k9ieic.jpg
+primary_image_credit: >-
+  Chris Carr (Levi) and Rachel Policar (Leah) in Uncovered, produced by City
+  Lyric Opera and premiered at HERE Arts Center, 2022. Photo: Carol Rosegg.
+related_articles:
+  - articles/counterculture.md
+  - articles/watch-with-headphones-rumspringawakening.md
+related_companies: []
+related_people: []
+short_description: >-
+  There is an unfortunate trend currently in live theater. It’s not clear if the
+  demand is coming from audiences or from theater companies who are either
+  listening to their audiences or to the bottom line of their budgets. 
+slug: running-time
+title: Running Time
+youtube_url: ''
+_template: article_single
+---
 
-+++
 There is an unfortunate trend currently in live theater. It's not clear if the demand is coming from audiences or from theater companies who are either listening to their audiences or to the bottom line of their budgets. The trend is to present works that have no intermission, and this may satisfy those who have short attention spans and force artists to make decisions about potential overindulgence. But it can also be harmful when it comes to telling a complete and compelling story.
 
 [_Uncovered_](https://www.citylyricopera.org/uncovered), a new opera with a running time of 90 minutes (with no intermission) is a strong example of a work of art compromised by the need to avoid the more traditional two-act or multi-act formats. [The New York premiere](https://www.citylyricopera.org/uncovered) of this work at the HERE Arts Center has a lot going for it…a LOT…but the enormous potential of a full, satisfying meal is reduced to a sometimes delicious appetizer of Swiss cheese.
 
 There is quite a bit of potential lost. Lori Laitman, who composed the music, is one of the stars of the evening. Even without the vocal parts, Ms. Laitman has composed an exciting score for a quartet of piano, clarinet, cello and violin that is good enough to be played as a chamber piece in any concert hall. This is not to say that Ms. Laitman's vocal score is anything less. There are some beautiful solos and duets. Add to this some great chorus harmonies, and this should have added up to a new hit in the world of opera.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669042005/media/2022/11/Uncovered_LaitmanLax_vv8jfp.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1669042005/media/2022/11/Uncovered_LaitmanLax_vv8jfp.jpg)
 
 <figcaption>Librettist Leah Lax (left) and composer Lori Laitman, creators of Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022.</figcaption>  
 </figure>
@@ -32,7 +44,9 @@ The true story of a Hasidic woman who broke away from her community, made for a 
 
 Leah Lax, the librettist, tells us the story of Leah, the character, (first played by soprano Rachel Policar,) a woman who knows she is gay but is pulled by a misplaced passion and goes through with a wedding to Levi, a Hasidic man (played by tenor Chris Carr.) Though Leah is longing for a female dream lover as her wedding night approaches, she dips herself into the ritual Jewish bath known as a mikvah, and decides to "sink and submit." Though she figuratively submerges her feelings, at the same time the warm waters of the mikvah remind her of a woman's touch. Clearly trouble is coming.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669126422/media/2022/11/EmilyBlair_RachelPolicar_pif5jy.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1669126422/media/2022/11/EmilyBlair_RachelPolicar_pif5jy.jpg)
 
 <figcaption>Emily Blair (Older Leah) and Rachel Policar (Leah), in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022. Photo: Carol Rosegg.</figcaption>  
 </figure>
@@ -41,7 +55,9 @@ The next scene takes us through a consummation of the marriage that is loving an
 
 Through a theatrical device, the role of the soprano Leah is then taken over by mezzo soprano Emily Blair, effectively telling us that time has passed and Leah is now older. "Is it me?" asks the younger Leah as she sees and changes places with her future self; the tired, frumpy, mother of multiple children.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669126466/media/2022/11/HeatherJones_asMother_ck96cp.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1669126466/media/2022/11/HeatherJones_asMother_ck96cp.jpg)
 
 <figcaption>Heather Jones (Mother) in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022. Photo: Carol Rosegg.</figcaption>  
 </figure>
@@ -58,7 +74,9 @@ Ms. Lax's lyrics don’t often help. Where we hope to get some clarity, we often
 
 Many of the singers prove to have deep acting chops to go along with their vocal skills. Tenor Chris Carr, in particular, as Levi the hapless husband, is poignant in his expressions of love and anguished disappointment. Mezzo Emily Blair makes a booming case for Leah's anguish from the very depths of her body. Together they sing a heart-breaking duet after Leah's abortion where they envision their unborn child - he a son, she a daughter.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669126489/media/2022/11/RachelPolicar_asYoungLeah_2_izxonu.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1669126489/media/2022/11/RachelPolicar_asYoungLeah_2_izxonu.jpg)
 
 <figcaption>Rachel Policar (Leah) in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022. Photo: Carol Rosegg.</figcaption>  
 </figure>

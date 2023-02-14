@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2014-07-28T10:00:00-04:00"
-lastmod = "2015-04-23T14:30:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429813717099/Met.jpg.jpg"
-publishDate = "2014-07-28T10:00:00-04:00"
-related_articles = ["articles/idealism-questions-unions.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-short_description = "If you&#039;re reading this, you&#039;re probably already aware that the Metropolitan Opera is in trouble. This Thursday, the contracts of 15 unions are set to expire, and the negotiations between the unions and the Met&#039;s general manager, Peter Gelb, seem to be going nowhere good."
-slug = "mutiny-at-the-met"
-title = "Mutiny at the Met?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2014-07-28T10:00:00-04:00"
+lastmod: "2015-04-23T14:30:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429813717099/Met.jpg.jpg
+publishDate: "2014-07-28T10:00:00-04:00"
+related_articles:
+- articles/idealism-questions-unions.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+short_description: If you&#039;re reading this, you&#039;re probably already aware
+  that the Metropolitan Opera is in trouble. This Thursday, the contracts of 15 unions
+  are set to expire, and the negotiations between the unions and the Met&#039;s general
+  manager, Peter Gelb, seem to be going nowhere good.
+slug: mutiny-at-the-met
+title: Mutiny at the Met?
+_template: article_single
+---
 
 "We are willing to tighten our belts if Peter Gelb is willing to cut up his credit cards," [says Joe Hartnett of IATSE](http://www.burlington-record.com/burlington-sports/ci_26215053/lockout-looms-met-contracts-set-expire). "It's more than just our labor costs that's the problem."
 

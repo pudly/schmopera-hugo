@@ -1,15 +1,24 @@
-+++
-author = ["authors/greg.md"]
-categories = "Humour"
-date = "2017-01-11T12:31:00+00:00"
-lastmod = "2017-01-12T09:58:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484139562095/2017-01-11---No-Trump-Singers.jpg.jpg"
-publishDate = "2017-01-11T14:25:00+00:00"
-related_articles = ["articles/bocelli-evancho-trump.md","articles/baby-opera-singers-getting-angry-for-the-right-reasons.md"]
-short_description = "Speaking of the various circles of hell, Drumpf, is having a really hard time finding people who want to celebrate his win as President of the Divided States of America; the list of people refusing to perform is growing longer... and longer... and longer... With the event a mere 9 days away, so far we have: Jackie Evancho singing, the Rockettes performing on a &quot;voluntary basis&quot;, and a college marching band - that&#039;s it."
-slug = "charlotte-church-the-latest-voice-in-musics-trump-boycott"
-title = "Charlotte Church the latest voice in music&#039;s Trump boycott"
-+++
+---
+author:
+- authors/greg.md
+categories: Humour
+date: "2017-01-11T12:31:00+00:00"
+lastmod: "2017-01-12T09:58:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484139562095/2017-01-11---No-Trump-Singers.jpg.jpg
+publishDate: "2017-01-11T14:25:00+00:00"
+related_articles:
+- articles/bocelli-evancho-trump.md
+- articles/baby-opera-singers-getting-angry-for-the-right-reasons.md
+short_description: 'Speaking of the various circles of hell, Drumpf, is having a really
+  hard time finding people who want to celebrate his win as President of the Divided
+  States of America; the list of people refusing to perform is growing longer... and
+  longer... and longer... With the event a mere 9 days away, so far we have: Jackie
+  Evancho singing, the Rockettes performing on a &quot;voluntary basis&quot;, and
+  a college marching band - that&#039;s it.'
+slug: charlotte-church-the-latest-voice-in-musics-trump-boycott
+title: Charlotte Church the latest voice in music&#039;s Trump boycott
+_template: article_single
+---
 
 The original Jackie Evancho has spoken out, and guess what? I think I've come around completely on my opinion of her. 
 
@@ -21,7 +30,7 @@ Now, well-known as a major ally to LGBTQ+ community, Ms. Church has clapped-back
 
 Yesterday at 5:28AM, this beauty of a tweet came out: 
 
-<figure data-type="image">{{% md %}}<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/realDonaldTrump">@realDonaldTrump</a> Your staff have asked me to sing at your inauguration, a simple Internet search would show I think you&#39;re a tyrant. Bye💩💩💩💩</p>&mdash; Charlotte Church (@charlottechurch) <a href="https://twitter.com/charlottechurch/status/818766435703025664">January 10, 2017</a></blockquote>
+<figure data-type="image"><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/realDonaldTrump">@realDonaldTrump</a> Your staff have asked me to sing at your inauguration, a simple Internet search would show I think you&#39;re a tyrant. Bye💩💩💩💩</p>&mdash; Charlotte Church (@charlottechurch) <a href="https://twitter.com/charlottechurch/status/818766435703025664">January 10, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </figure>
 
