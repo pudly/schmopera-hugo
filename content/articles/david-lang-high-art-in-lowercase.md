@@ -36,7 +36,7 @@ But as much as Mr. Lang experiments – and he is constantly experimenting – h
 
 By his own estimation, Mr. Lang has had to "unlearn lessons" from his own modernist teachers.
 
-That's not to say that Mr. Lang hasn’t produced pieces that are essentially recitative. His opera _anatomy theatre_ (2016) is mostly spoken word with a heart-breaking song (appropriately) entitled "my heart" as the climax, and _the loser_ (staged at BAM in 2016) is one long sung-thru monologue for a baritone voice.  In an interesting twist, all the text in _composition as explanation_ (2020), is spoken by the musicians. Mr. Lang, who also staged the work himself, had the musicians take some theatre, diction and acting classes to prepare for their roles.
+That's not to say that Mr. Lang hasn’t produced pieces that are essentially recitative. His opera _anatomy theatre_ (2016) is mostly spoken word with a heart-breaking song (appropriately) entitled "my heart" as the climax, and _the loser_ (staged at BAM in 2016) is one long sung-thru monologue for a baritone voice.  In an interesting twist, all the text in _composition as explanation_ (2020), is spoken by the musicians. Mr. Lang had the musicians take some theatre, diction and acting classes to prepare for their roles.
 
 > Mr. Lang likes the idea of leaving "unanswered questions" that are answered with each new production, similar to his _little match girl passion_, which has been presented in a variety of ways over the years, sometimes simply as a concert.
 
@@ -59,6 +59,6 @@ Mr. Lang also returns to one of his favorite themes – not just death, but _the
 <figcaption>Composer David Lang. Photo: Peter Serling.</figcaption>  
 </figure>
 
-Although he has written a breathtaking number of compositions, if the past is prologue for Mr. Lang, we can anticipate much more. In addition to an untold number of works-in-progress, he is currently collaborating with poet Anne Carson on an opera based on another story by Akutagawa. He is even writing something for the musical theatre stage and anticipates writing more film scores, which he does every other year or so. For the film _Truth_ (2015), he was nominated for an Oscar and won the Italian Oscar (The David di Donatello award) for both the score and the soul-stirring soprano aria "simple song #3."
+Although he has written a breathtaking number of compositions, if the past is prologue for Mr. Lang, we can anticipate much more. In addition to an untold number of works-in-progress, he is currently collaborating with poet Anne Carson on an opera based on another story by Akutagawa. He is even writing something for the musical theatre stage and anticipates writing more film scores, which he does every other year or so. For the film _Youth_ (2015), he was nominated for an Oscar and won the Italian Oscar (The David di Donatello award) for both the score and the soul-stirring soprano aria "simple song #3."
 
 Lucky for us, whatever is next, one thing is certain - Mr. Lang will continue making his mark writing for his favorite instrument: the human voice.
