@@ -48,7 +48,7 @@ youtube_url = ""
 <figcaption>Puck (Kunji Ikeda) with children's chorus in A Midsummer Night's Dream, Vancouver Opera, 2023. Photo: Tim Matheson.</figcaption>  
 </figure>
 
-With so many audiences being intimately familiar with the music that Mendelssohn wrote of A Midsummer Night’s Dream, Vancouver Opera to a departure into the lesser known opera by Benjamin Britten. A more modernist take on the Elizabethan story, Britten departs somewhat from the original play, cutting the opening scenes in the court of Athens and begins as the 4 Athenian lovers are heading out into the forest.
+With so many audiences being intimately familiar with the music that Mendelssohn wrote for _A Midsummer Night’s Dream_, Vancouver Opera to a departure into the lesser known opera by Benjamin Britten. A more modernist take on the Elizabethan story, Britten departs somewhat from the original play, cutting the opening scenes in the court of Athens and begins as the 4 Athenian lovers are heading out into the forest.
 
 The setting for the woods is a concrete, brutalist set piece of multiple levels that rotates to give the actors the chance to chase, run, evade, hide, and eventually catch each other. We open with Lysander, played by tenor Spencer Britten and Hermina, played by mezzo-soprano Hilly Tufford escaping into the woods to be married, free from the constraints of Athenian society. Britten and Tufford were very well-matched, with warm, sumptuous duets.
 
