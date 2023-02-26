@@ -10,8 +10,8 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1677440596/media/2023/02/sq_The_Birds_Pacific_Opera_0593_raqldc.jpg"
 primary_image_credit = "Claire de Sévigné in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper."
 related_articles = []
-related_companies = []
-related_people = ["scene/people/justin-welsh.md", "scene/people/jacqueline-woodley.md", "scene/people/adrian-kramer.md", "scene/people/claire-de-sevigne.md"]
+related_companies = ["scene/companies/pacific-opera-victoria.md"]
+related_people = ["scene/people/peter-barrett.md", "scene/people/justin-welsh.md", "scene/people/jacqueline-woodley.md", "scene/people/adrian-kramer.md", "scene/people/claire-de-sevigne.md"]
 short_description = "short"
 slug = "fantasy-is-for-the-birds"
 title = "Fantasy is for The Birds"
@@ -23,29 +23,29 @@ youtube_url = ""
 <figcaption>(l-r) Justin Welsh, Jacqueline Woodley, Peter Barrett, and Adrian Kramer with chorus in background in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1677440733/media/2023/02/The_Birds_Pacific_Opera_0450_o0joia.jpg){{% /md %}}
 
-<figcaption> in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
+<figcaption>The cast and chorus in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1677440753/media/2023/02/The_Birds_Pacific_Opera_0675_v9ejxz.jpg){{% /md %}}
 
-<figcaption> in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
+<figcaption>Adrian Kramer and Claire de Sévigné in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1677440777/media/2023/02/The_Birds_Pacific_Opera_0706_t2kt4f.jpg){{% /md %}}
 
-<figcaption> in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
+<figcaption>Claire de Sévigné and Adrian Kramer in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1677440800/media/2023/02/The_Birds_Pacific_Opera_0722_yljbhs.jpg){{% /md %}}
 
-<figcaption> in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
+<figcaption>Adrian Kramer with chorus in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1677440821/media/2023/02/The_Birds_Pacific_Opera_0945_pd5t72.jpg){{% /md %}}
 
-<figcaption> in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
+<figcaption>Kyle Albertson and Justin Welsh in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
 </figure>
 
 In a long history of creative new productions, Pacific Opera Victoria brings an imaginative, fantastical rendition of Braunfels’ opera The Birds. With a score reminiscent of move-score-meets-Richard-Strauss, POV decided to take this metaphysical/mythological story and ground it very much in Braunfels’ reality for its Canadian premiere. It was written while he was serving in the German trenches of WWI, and that is exactly where our story begins.
