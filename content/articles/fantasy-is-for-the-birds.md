@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1677440596/media/2023/02/sq_The_Birds_Pacific_Opera_0593_raqldc.jpg"
+primary_image_credit = "Claire de Sévigné in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper."
 related_articles = []
 related_companies = []
 related_people = ["scene/people/justin-welsh.md", "scene/people/jacqueline-woodley.md", "scene/people/adrian-kramer.md", "scene/people/claire-de-sevigne.md"]
@@ -20,32 +20,32 @@ youtube_url = ""
 +++
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
 </figure>
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
 </figure>
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
 </figure>
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
 </figure>
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
 </figure>
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
 </figure>
 
 In a long history of creative new productions, Pacific Opera Victoria brings an imaginative, fantastical rendition of Braunfels’ opera The Birds. With a score reminiscent of move-score-meets-Richard-Strauss, POV decided to take this metaphysical/mythological story and ground it very much in Braunfels’ reality for its Canadian premiere. It was written while he was serving in the German trenches of WWI, and that is exactly where our story begins.
