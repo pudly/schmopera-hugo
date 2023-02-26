@@ -5,7 +5,7 @@ lastmod = "2018-05-08T11:24:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525792873152/RSBA-Magali%2520Simard-Galde%25CC%2580s-1%2520%25C2%25A9%2520Brent%2520Calis_display.jpg.jpg"
 primary_image_credit = "Brent Calis"
 publishDate = "2018-05-08T11:24:00-04:00"
-related_companies = ["scene/companies/lopra-de-montral.md","scene/companies/vancouver-opera.md","scene/companies/tapestry-opera.md"]
+related_companies = ["scene/companies/lopra-de-montral.md", "scene/companies/vancouver-opera.md", "scene/companies/tapestry-opera.md"]
 slug = "magali-simard-galdes"
 title = "Magali Simard-Galdès"
 website = "http://magalisimardgaldes.com/en"
@@ -17,20 +17,18 @@ url = "https://www.facebook.com/msimardgaldes"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MagaliGaldes"
+
 +++
+Magali Simard-Galdès is a young Canadian soprano renowned for her shimmering tone, her refined musicality and her magnetic stage presence.
 
-After a season marked by her debut as Soeur Constance (*Dialogues des Carmélites* – Opéra de Montréal), a Canadian tour of 30 recitals with the Jeunesses musicales du Canada (Maureen-Forrester Award), or her debut at the Festival de Lanaudière singing the first Flower-Maiden in *Parsifal* conducted by Maestro Yannick Nézet-Séguin, the young canadian soprano Magali Simard-Galdès' 2017/2018 season includes the roles of Roxane in DiChiera’s *Cyrano* and Gilda in Verdi's *Rigoletto* (Opera Carolina), Ève in Dubois’ *Paradis Perdu* (Atelier lyrique de Tourcoing) and the Mad Chorus in the world premiere of James Rolfe’s *The Overcoat* (Tapestry Opera and Vancouver Opera Festival). She also sings a recital of Canadian music with Olivier Godin at the Mexico Liederfest in Monterrey, a programm of Haendel's opera arias for the Festival de musique de Lachine (Québec) and a Charpentier/Vivaldi program with the Scherzi Musicali ensemble in Avignon.
+She made an acclaimed German debut in november 2020 at Oper Köln in the role of **Agnès** in Written on Skin (Benjamin). The production was streamed online due to covid-19 restrictions and a studio recording with the Gürzenich Orchester under François-Xavier Roth will be released in 2022.
 
-Magali Simard-Galdès began studying music at the age of four when she started playing violin. Promised to a career in medicine, she decided to follow her passion and pursue a career in music.
+In past seasons, she has sung with Montreal Opera in Written on Skin (Agnès), Opera Carolina in _Rigoletto_ (Gilda) and DiChiera's _Cyrano_ (Roxane), Canadian Stage and Vancouver Opera in the world premiere of _The Overcoat_ (Mad Chorus), Opéra de Montréal in _Dialogue des carmélites_ (Constance) and _Carmen_ (Frasquita), with Opéra de Québec in _Werther_ (Sophie), with Wexford Festival Opera in _Le pré aux clercs_ (Nicette) and with Opera Lafayette in _Bonsoir voisin_ (Louisette).
 
-After graduating from the Conservatoire de musique de Montréal, where she received her masters with unanimous high distinction, she joined the Opéra de Montréal’s young artist program for a two year residency and received a scholarship of excellence following her remarkable studies.
+In recital, Magali has worked with many renowned pianists including Marie-Ève Scarfone, Olivier Godin and Bretton Brown. She has appeared at the Festival Classica, Société d'art vocal de Montréal, Festival d’Opéra de Québec, Mexico LiederFest in Monterrey (Mexico), Ravinia Steans Music Institute, Wexford Festival Opera, Concerts aux Îles du Bic and Jeunesses Musicales Canada (2015 Maureen-Forrester Award).
 
-She has studied with renowned teachers such as Aline Kutan, Gabrielle Lavigne, Ethel Guéret, Lena Hellström-Färnlöf and perfected her craft with Diana Damrau. In masterclass she has worked alongside world class singers such as Natalie Dessay, Markus Werba, Russell Braun, Thomas Quafthoff and Camilla Nylund. In 2016, she was a fellow at the Ravinia Steans Music Insitute and spent last summer as a young artist at the Académie du Festival d’Aix-en-Provence.
+On the orchestral stage, she has performed with the Houston Symphony, the National Arts Center Orchestra, Orchestre symphonique de Québec, Arion Orchestre Baroque, L’Harmonie des saisons, I Musici de Montréal, l’Atelier lyrique de Tourcoing, l’Opéra Grand Avignon, le Festival Classica et le Festival de Lanaudière.
 
-Three time first-prize winner of the Canadian Music Competition and regional finalist of the Metropolitan Opera Council Auditions, she has also competed in European competitions such as the Hans Gabor Belvedere International Singing Competition in Amsterdam and the Wigmore Hall/Kohn Foundation International Song Competition in London.
+In the summer of 2019, with the Tionscadal na nAmhrán Ealaíne Gaeilge/Irish Language Art Song Project, she has recorded three new songs cycles by Deirdre Gribbin, Ailis Ni Riain and Fuhong Shi. On the ATMA Classique label, Magali can be heard in Berlioz's _25 romances for voice and guitar_ and Ana Sokolovic's _Sirens_. She also self-produced her first recital album “Muses”, which made Radio-Canada’s 2017 “50 albums of the year” list.
 
-In 2015, she made her international début in the role of Nicette (Le Pré aux Clercs) at the Wexford Festival Opera, in Ireland. The London Times wrote of her performance: "Yet the evening belongs to the [24]-year-old Magali Simard-Galdès (Nicette) making her professional debut with sparkling fioritura". She was also honored by the Wexford Festival Opera by receiving the Gerard Arnhold Bursary.
-
-Magali has also performed the roles of Le Feu / Rossignol (*L'Enfant et les sortilèges*), Girl (*Trouble in Tahiti*), Miss Pinkerton (*The Old Maid and the Thief*), Lilette (*Trois jeunes filles nues*), Barbarina (*Le Nozze di Figaro*) and Venus (*Orphée aux enfers*).
-
-Magali gratefully enjoys the valuable support of the Vancouver Opera Guild (2016 Career Development Grant), the Fondation Jeunesses Musicales Canada (2017 Choquette-Symcox Award) and the Jacqueline Desmarais Foundation for Young Canadian Opera Singers.
+Magali has graduated from Atelier lyrique de l’Opéra de Montréal and Montreal Conservatory of Music. She has received First-prize at both the Récital-concours international de mélodie française du Festival Classica and Canadian Music Competition. She is very thankful to the Canadian Arts Council, Fondation Jeunesses Musicales Canada, Fondation Jacqueline Desmarais and Vancouver Opera Guild for their precious support.
