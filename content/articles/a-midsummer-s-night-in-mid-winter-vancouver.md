@@ -23,24 +23,29 @@ youtube_url = ""
 <figcaption>Daniel Moody and Magali Simard-Galdes as Oberon and Tytania surrounded by chorus in A Midsummer Night's Dream, Vancouver Opera, 2023. Photo: Tim Matheson.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1677438007/media/2023/02/VO-Dream-Tytania-Magali_Simard-Galdes_and_Bottom-Peter_McGillivray_with_her_fairies-photo_Tim_Matheson_sp4hif.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Tytania (Magali Simard-Galdes) and Bottom (Peter McGillivray) with her fairies in A Midsummer Night's Dream, Vancouver Opera, 2023. Photo: Tim Matheson.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1677438058/media/2023/02/VO-Dream-Daniel_Moody_as_Oberon_and_Magalie_Simard-Galdes_as_Tytania-photo_Tim_Matheson_a8ldfi.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Daniel Moody as Oberon and Magali Simard-Galdes as Tytania in A Midsummer Night's Dream, Vancouver Opera, 2023. Photo: Tim Matheson</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1677438110/media/2023/02/VO-Dream-Jonelle_Sills_as_Helena_and_Spencer_Britten_as_Lysander-photo_Tim_Matheson_xw8wot.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Jonelle Sills as Helena and Spencer Britten as Lysander in A Midsummer Night's Dream, Vancouver Opera, 2023. Photo: Tim Matheson.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1677438164/media/2023/02/VO-Dream-Daniel_Moody_and_Magali_Simard-Galdes_with_children_s_chorus_above-photo_Tim_Matheson_kjh582.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Daniel Moody and Magali Simard-Galdes with children's chorus (above) in A Midsummer Night's Dream, Vancouver Opera, 2023. Photo Tim Matheson.</figcaption>  
+</figure>
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1677438211/media/2023/02/VO-Dream-_Puck_-_Kunji_Ikeda-with_children_s_chorus_closer-Photo_Tim_Matheson_rzmes2.jpg){{% /md %}}
+
+<figcaption>Puck (Kunji Ikeda) with children's chorus in A Midsummer Night's Dream, Vancouver Opera, 2023. Photo: Tim Matheson.</figcaption>  
 </figure>
 
 With so many audiences being intimately familiar with the music that Mendelssohn wrote of A Midsummer Night’s Dream, Vancouver Opera to a departure into the lesser known opera by Benjamin Britten. A more modernist take on the Elizabethan story, Britten departs somewhat from the original play, cutting the opening scenes in the court of Athens and begins as the 4 Athenian lovers are heading out into the forest.
