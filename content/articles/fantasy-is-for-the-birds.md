@@ -18,9 +18,9 @@ title = "Fantasy is for The Birds"
 youtube_url = ""
 
 +++
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1677440682/media/2023/02/The_Birds_Pacific_Opera_0275_jpvtbi.jpg){{% /md %}}
 
-<figcaption> in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
+<figcaption>(l-r) Justin Welsh, Jacqueline Woodley, Peter Barrett, and Adrian Kramer with chorus in background in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper.</figcaption>  
 </figure>
 
 <figure data-type="image">{{% md %}}{{% /md %}}
