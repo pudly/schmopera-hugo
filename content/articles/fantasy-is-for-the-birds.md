@@ -17,7 +17,7 @@ title = "Fantasy is for The Birds"
 youtube_url = ""
 
 +++
-In a long history of creative new productions, [Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/) brings an imaginative, fantastical rendition of Braunfels' opera _The Birds_. With a score reminiscent of move-score-meets-Richard-Strauss, POV decided to take this metaphysical/mythological story and ground it very much in Braunfels' reality for its Canadian premiere. It was written while he was serving in the German trenches of WWI, and that is exactly where our story begins.
+In a long history of creative new productions, [Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/) brings an imaginative, fantastical rendition of Braunfels' opera _The Birds_. With a score reminiscent of movie-score-meets-Richard-Strauss, POV decided to take this metaphysical/mythological story and ground it very much in Braunfels' reality for its Canadian premiere. It was written while he was serving in the German trenches of WWI, and that is exactly where our story begins.
 
 Hoffegut, played by tenor [Adrian Kramer](/scene/people/adrian-kramer/), and Ratefreund, played by [Peter Barrett](/scene/people/peter-barrett/), begin the show as soldiers in a front line WWI trench in 1918 in Germany. While reminiscing about their lot and the drudgery and sadness around them, they imagine a life living with the Birds.
 
