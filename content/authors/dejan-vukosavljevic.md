@@ -4,7 +4,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1678062585/m
 short_bio = ""
 slug = "dejan-vukosavljevic"
 social_media = []
-title = "Dejan Vukosavljevic"
+title = "Dejan Vukosavljević"
 website = ""
 
 +++
