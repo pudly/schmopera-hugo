@@ -6,15 +6,15 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = "Heroic Opera's [production of _Don Carlo_](https://heroicopera.com/events/) runs March 30-April 2, 2023 at The Annex in Vancouver."
-preamble = "Heroic Opera production of [_Don Carlo_](https://heroicopera.com/events/) first in Canada in over 10 years*"
+preamble = "Heroic Opera production of [_Don Carlo_](https://heroicopera.com/events/) first in Canada in over 10 years*, contributor Ratcliff stars as Eboli, etc"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1678373817/media/2023/03/sqHeroicOpera_DOnCarlos_MelissaRatcliff_eboli_2_tepb9x.jpg"
 primary_image_credit = ""
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/heroic-opera.md"]
 related_people = []
-short_description = "short"
+short_description = "\"The characters are flawed, but some take those flaws and make their world better, and others use it to the detriment of others. Power doesn't have to be evil, but the intersection of power, greed, and relentless injustice is terrifying.\""
 slug = "don-carlo"
-title = "Don Carlo"
+title = " Don Carlo"
 youtube_url = ""
 
 +++
