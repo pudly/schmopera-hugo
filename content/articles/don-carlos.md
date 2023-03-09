@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/heroic-opera.md"]
 related_people = []
 short_description = "\"The characters are flawed, but some take those flaws and make their world better, and others use it to the detriment of others. Power doesn't have to be evil, but the intersection of power, greed, and relentless injustice is terrifying.\""
-slug = "don-carlo"
-title = " Don Carlo"
+slug = "political-foreshadowing-the-spanish-inquisition-don-carlo"
+title = "Political foreshadowing & the Spanish Inquisition: Heroic Opera's Don Carlo"
 youtube_url = ""
 
 +++
