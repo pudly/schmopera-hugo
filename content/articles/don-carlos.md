@@ -1,48 +1,48 @@
 +++
-author = ["authors/jenna.md"]
+author = ["authors/melissa-ratcliff.md", "authors/jenna.md"]
 categories = "Interview"
 date = 2023-03-09T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = ""
+postamble = "Heroic Opera's [production of _Don Carlo_](https://heroicopera.com/events/) runs March 30-April 2, 2023 at The Annex in Vancouver."
+preamble = "Heroic Opera production of [_Don Carlo_](https://heroicopera.com/events/) first in Canada in over 10 years*"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1678373817/media/2023/03/sqHeroicOpera_DOnCarlos_MelissaRatcliff_eboli_2_tepb9x.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "don-carlos"
-title = "Don Carlos"
+slug = "don-carlo"
+title = "Don Carlo"
 youtube_url = ""
 
 +++
-## What do you think Verdi's _Don Carlos_ has to say about big topics like love, family, and politics? 
+## What do you think Verdi's _Don Carlo_ has to say about big topics like love, family, and politics?
 
-**Melissa Ratcliff:** I think right now, more than ever, we're seeing the themes of Don Carlo repeating - in seeing the extremities of religion mixing with absolutism in politics, and how dangerous a mix that is for everyone that is caught in the crossfire. Book burnings, mass shootings, threats of incredible violence happening at the intersection of extreme religion, politics, and power. I think right now we're all worried about the state of our world, and where things could end up if this kind of extremism continues. 
+**Melissa Ratcliff:** I think right now, more than ever, we're seeing the themes of _Don Carlo_ repeating - in seeing the extremities of religion mixing with absolutism in politics, and how dangerous a mix that is for everyone that is caught in the crossfire. Book burnings, mass shootings, threats of incredible violence happening at the intersection of extreme religion, politics, and power. I think right now we're all worried about the state of our world, and where things could end up if this kind of extremism continues.
 
-## What can you tell us about the "modern flair" in Heroic Opera's production of _Don Carlos_?
+## What can you tell us about the "modern flair" in Heroic Opera's production of _Don Carlo_?
 
 **MR:** We're setting it in a dystopian futuristic world, not too far removed from the present. Less of a "what happened in the past" setting and much more of a "what might happen if things don't change".  We hope that it will make the themes in the show just as relevant to the audiences today, and serve as a warning for the costs of corruption and intolerance and where they could eventually lead us all.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1678373831/media/2023/03/HeroiceOpera_DonCarlos_DSC00339edit_a0cd4c.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Publicity image for Heroic Opera's production of Don Carlo, 2023. Image courtesy of Heroic Opera.</figcaption>  
 </figure>
 
 ## What sort of person is Princess Eboli? What do you enjoy most about singing the role? What do you find most difficult?
 
-**MR:** I think she's an interesting character who suffers "main character syndrome". She thinks all the events unfolding are all about her, and makes terrible decisions when she finds out that it's not. It's only after things have gone way too far does she realize how destructive she's really been, and that there are huge consequences for her actions that everyone else around her has to suffer. What I enjoy most about her is singing O Don Fatale. It's an aria that seems almost out of place in the show - just an absolutely bombastic sing, that's not only harder but higher than the soprano arias, where she vows that she's going to fix everything she messed up. And then.... she just doesn't. It's such an amazing piece though, a total showstopper! The most difficult is making those pivots - from carefree to spurned to vengeful to remorseful in a very short amount of stage time, and still making her a 3 dimensional character, just one with flaws. 
+**MR:** I think she's an interesting character who suffers from "main character syndrome". She thinks all the events unfolding are all about her, and makes terrible decisions when she finds out that it's not. It's only after things have gone way too far does she realize how destructive she's really been, and that there are huge consequences for her actions that everyone else around her has to suffer. What I enjoy most about her is singing "O don fatale". It's an aria that seems almost out of place in the show - just an absolutely bombastic sing, that's not only harder but higher than the soprano arias, where she vows that she's going to fix everything she messed up. And then... she just doesn't. It's such an amazing piece though, a total showstopper! The most difficult is making those pivots - from carefree to spurned to vengeful to remorseful in a very short amount of stage time, and still making her a three-dimensional character, just one with flaws.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1678373951/media/2023/03/HeroicOpera_DonCarlos_MelissaRatcliff_ebloi_1_y2sj1e.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Schmopera contributor and mezzo-soprano Melissa Ratcliff as Princess Eboli in Heroic Opera's production of Don Carlo, 2023. Photo courtesy of Melissa Ratcliff.</figcaption>  
 </figure>
 
-## Why do you think Don Carlos is not often produced in Canada? (note: I'll also mention that it's Vancouver's first production in 10 years.)
+## Why do you think _Don Carlo_ is not often produced in Canada?
 
-**MR:** I think Romantic opera in general gets staged less - larger casts, more expenses, bigger productions makes it hard to put on (ask me how I know!). Also, I think maybe that it doesn't have all the "hummable" tunes that other Verdi operas have (La donna e mobile, Brindisi, Va pensiero, etc.). It also focuses so much more on the individual relationships, so there are a ton of duets, trios, quartets and fewer of the big choruses that Verdi audiences may be expecting. It makes it more personal and intimate, and the characters are so intriguing. 
+**MR:** I think Romantic opera in general gets staged less - larger casts, more expenses, bigger productions makes it hard to put on. (Ask me how I know!) Also, I think maybe that it doesn't have all the "hummable" tunes that other Verdi operas have ("La donna è mobile", "Brindisi", "Va pensiero", etc.). It also focuses so much more on the individual relationships, so there are a ton of duets, trios, quartets and fewer of the big choruses that Verdi audiences may be expecting. It makes it more personal and intimate, and the characters are so intriguing.
 
 ## What do you hope audiences will take away from Heroic Opera's production?
 
