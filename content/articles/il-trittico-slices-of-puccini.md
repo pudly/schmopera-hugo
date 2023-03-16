@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679000308/media/2023/03/sq_Il_tabarro_521_jgl1u0.jpg"
+primary_image_credit = "Daewon Seo (Michele) and Gillian Watson (Giorgetta) in Il tabarro, Regina Opera, 2023. Photo courtesy of Regina Opera."
 related_articles = []
 related_companies = []
 related_people = []
@@ -28,9 +28,19 @@ When Puccini's _Il tabarro_ debuted at the Met in 1918 it was criticized for not
 
 To this reviewer, _Il tabarro_ most certainly sounds like a Puccini opera – right from the opening chords which become a recurring motif – and there are several stand-alone solos that aren't as famous as those from his other operas, but in the hands (or throat) of the right performer they can stop the show.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679000427/media/2023/03/Il_Tabarro_9408_gs5vtw.jpg){{% /md %}}
+
+<figcaption>Daewon Seo (Michele) and Peter Hakjoon Kim (Luigi) in Il tabarro, Regina Opera, 2023. Photo courtesy of Regina Opera.</figcaption>  
+</figure>
+
 The story of _Il tabarro_ is a familiar love-triangle – unhappy wife (Giorgetta) finds young lover (Luigi) and enrages her jealous husband (Michele). The action takes place on a houseboat docked on the river Seine. Michele and Giorgetta own the boat, while Luigi and others are struggling sailors or the poor denizens of the small port. All of the characters are intimately drawn and we get to know their very individual personalities and dreams even though the opera runs less than an hour.
 
 Luigi (tenor Peter Hakjoon Kim) tells us that he is being worked to death and we feel his agonized frustrations in a stirring rendition of "Hai ben agione." Equally frustrated, but by love rather than labor is Michele (baritone Daewon Seo) who builds to a convincing, visceral madness in "Nulla…silenzio." Both Mr. Hakjoon Kim and Mr. Seo have superlative performance skills as do their fellow mariners Hyong Sik Jo (as Il Talpa) and Adam Inyong Goldstein (as Il Tinca.) Josh Avant, with his sparkling tenor, makes the most of his brief and amusing appearance as the Song seller. Also offering some comic relief to librettist Giuseppe Adami's dark story, is mezzo Galina Ivannikova (as La Frugola, the rag-picker), who delivers a silly staccato aria about her wares. Unfortunately, we don’t get the lusty passion from Giorgetta, as soprano Gillian Watson offers us her pretty voice but seems to be holding back physically and spends most of her performance with her hands clasped in front of or behind her body.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679000511/media/2023/03/Il_Tabarro_9765_umkvwn.jpg){{% /md %}}
+
+<figcaption>Peter Hakjoon Kim (Luigi) and Gillian Watson (Giorgetta) in Il tabarro, Regina Opera, 2023. Photo courtesy of Regina Opera.</figcaption>  
+</figure>
 
 There are only four men listed as ensemble members and one wonders if some of the principals were doubling when they were backstage, because the men's chorus managed to make a rich and resonant noise from the wings, sounding well beyond their numbers.
 
