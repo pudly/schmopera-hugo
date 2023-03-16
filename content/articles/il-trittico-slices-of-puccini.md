@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679000308/media/2023/03/sq_Il_tabarro_521_jgl1u0.jpg"
-primary_image_credit = "Daewon Seo (Michele) and Gillian Watson (Giorgetta) in Il tabarro, Regina Opera, 2023. Photo courtesy of Regina Opera."
+primary_image_credit = "Daewon Seo (Michele) and Gillian Watson (Giorgetta) in Il tabarro, Regina Opera, 2023. Photo: Steven Pisano."
 related_articles = []
 related_companies = []
 related_people = []
@@ -30,7 +30,7 @@ To this reviewer, _Il tabarro_ most certainly sounds like a Puccini opera – ri
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679000427/media/2023/03/Il_Tabarro_9408_gs5vtw.jpg){{% /md %}}
 
-<figcaption>Daewon Seo (Michele) and Peter Hakjoon Kim (Luigi) in Il tabarro, Regina Opera, 2023. Photo courtesy of Regina Opera.</figcaption>  
+<figcaption>Daewon Seo (Michele) and Peter Hakjoon Kim (Luigi) in Il tabarro, Regina Opera, 2023. Photo: Steven Pisano.</figcaption>  
 </figure>
 
 The story of _Il tabarro_ is a familiar love-triangle – unhappy wife (Giorgetta) finds young lover (Luigi) and enrages her jealous husband (Michele). The action takes place on a houseboat docked on the river Seine. Michele and Giorgetta own the boat, while Luigi and others are struggling sailors or the poor denizens of the small port. All of the characters are intimately drawn and we get to know their very individual personalities and dreams even though the opera runs less than an hour.
@@ -39,7 +39,7 @@ Luigi (tenor Peter Hakjoon Kim) tells us that he is being worked to death and we
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679000511/media/2023/03/Il_Tabarro_9765_umkvwn.jpg){{% /md %}}
 
-<figcaption>Peter Hakjoon Kim (Luigi) and Gillian Watson (Giorgetta) in Il tabarro, Regina Opera, 2023. Photo courtesy of Regina Opera.</figcaption>  
+<figcaption>Peter Hakjoon Kim (Luigi) and Gillian Watson (Giorgetta) in Il tabarro, Regina Opera, 2023. Photo: Steven Pisano.</figcaption>  
 </figure>
 
 There are only four men listed as ensemble members and one wonders if some of the principals were doubling when they were backstage, because the men's chorus managed to make a rich and resonant noise from the wings, sounding well beyond their numbers.
