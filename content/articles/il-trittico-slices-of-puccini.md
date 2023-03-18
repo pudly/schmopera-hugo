@@ -1,9 +1,8 @@
 +++
 author = ["authors/loren-lester.md"]
 categories = "Review"
-date = 2023-03-15T04:00:00Z
+date = 2023-03-18T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -56,7 +55,14 @@ No set is needed when you have singers of this caliber. Neither is an orchestra 
 
 Mr. Scovasso decided to bite into the entire _Trittico_ sandwich – the curtain-raising _Il tabarro_, the big finale of _Gianni Schicchi_ and the squishy center of _Suor Angelica_.
 
+> The venerable Tichina Vaughn is not only a welcome presence, as she was in _Il tabarro_ but also a welcome relief. Her sternum-shaking denunciation sets the stage for what is supposed to be the devastating "Senza Mamma".
+
 He offered a synopsis before each opera and also some interesting back stories. (His curtain speeches were informative as was the lengthy, detailed program.) He shared with his audience his take on what Puccini was up to, writing the three operas in three completely different styles, each a tribute to a popular form of Italian opera. _Il tabarro_ is the composer's nod to the _verismo_ school, which he himself was part of but not married to. _Suor Angelica_ is an _opera seria_ written in a romantic form and _Gianni Schicchi_ is _opera buffa_. Mr. Scovasso informed us that Puccini was saying farewell to all three forms as he headed for other musical horizons. (Where he was going was cut short; his next work proved to be his last – the mostly-finished but unfinished _Turandot_.)
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679148323/media/2023/03/SAS_Performing_Arts_Il_Tabarro_1_bp5bxf.jpg){{% /md %}}
+
+<figcaption>SAS performing Arts Concert Opera's production of Il Trittico, 2023.</figcaption>  
+</figure>
 
 Mr. Scovasso revealed that this was a Herculean endeavor for SAS with only seven days of rehearsal.
 
@@ -68,9 +74,16 @@ Veteran baritone Geoffrey Di Giorgio commanded the stage as Michele and the wood
 
 Mezzo Tichina Vaughn, another veteran vocalist, who recently appeared in three roles at the Met, made La Frugola's difficult rapid-fire aria look easy. It's no wonder that SAS has Ms. Vaughn teach master classes to other members of the company.
 
+>  His switch back and forth from deep baritone (as Gianni Schicchi) to his grating falsetto (when he imitates the dead Donati) was uproarious.
+
 Soprano Rebecca S. Kidnie was an effective Giorgetta, using all her tools – voice, face, body - to express the character’s internal pain. Kudos to all the singers who were truly acting and never appeared to be “stuck” behind their scores.
 
 Mr. Scovasso described Gianni Schicchi as the most difficult portion of _Il trittico_ but _Suor Angelica_ proves to be the most difficult for the audience. One of the few all-female operas, _Suor Angelica_ takes place in a convent and most of the action (or lack thereof) can only be described as a prolonged "How Do You Solve a Problem Like Maria?" We learn a little about each sister, and individually, the singers have nice moments, most notably Rebecca Grady Rucker as the First Novice and Shanley Horvitz as The Monitor. (Unfortunately, the unison singing by all the nuns is never exactly right.) We learn that Suor Angelica has a big secret, but it's all an endurance test until La Zia Principessa (her aunt) arrives and the drama begins. The venerable Tichina Vaughn is not only a welcome presence, as she was in _Il tabarro_ but also a welcome relief. Her sternum-shaking denunciation sets the stage for what is supposed to be the devastating "Senza Mamma," where Suor Angelica mourns the short life of her illegitimate child whom she never got to know. Rebecca S. Kidnie, in the title role here, did not display the subtlety she found in _Il tabarro_, and works a little too hard - we feel more like she's climbing Mount Everest then reaching out to the Virgin Mary.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679148374/media/2023/03/SAS_Performing_Arts_Gianni_Schicchi_eotuqj.jpg){{% /md %}}
+
+<figcaption>SAS performing Arts Concert Opera production of Il Trittico, 2023.</figcaption>  
+</figure>
 
 It was all worth the wait for the third and final slice of Puccini, _Gianni Schicchi_. There is nothing un-funnier sometimes than so-called "comic opera" but _Gianni Schicchi_ is truly hilarious. Puccini's only foray into funny, it's a well-crafted farce with a number of good roles and a surprising twist. It’s the story of the self-centered members of the Donati family (think of the Roy Family in _Succession_ set to music). Buoso Donati has died, and all his relatives have gathered for some fake mourning and, they hope, some real monetary gain. They're all angling to get a piece of Donati's greatest assets – "the mule, the house and the mills" – but they don't know what's in Donati's will. They've heard that he’s leaving all his money to a monastery and so they frantically search for the will to find out if the rumor is true. (What is normally a riotous staging at this point in the plot, was effectively conveyed by the SAS company at their music stands just using some prop papers.)
 
