@@ -1,0 +1,57 @@
++++
+author = ["authors/david-todd.md"]
+categories = "How-To"
+date = 2023-03-22T04:00:00Z
+disclaimer = ""
+draft = true
+image_gallery = []
+postamble = ""
+preamble = "What is a repetiteur, and how exactly do they help in the opera-making process? This article, the first of a series delving into one of opera's lesser-known roles, will hopefully help to address the black hole of information and support available to répétiteurs starting out in the world of opera…"
+primary_image = ""
+primary_image_credit = ""
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "short"
+slug = "pianists-progress-i-the-elton-john-act"
+title = "Pianist's progress I: The Elton John Act"
+youtube_url = ""
+
++++
+'And now, the time is wearing thin,  
+The murderer is still within,   
+The cast could just not find a lead,   
+“This is impossible”, they all agreed.
+
+But there was one they’d all forgot,   
+Who in plain sight as sure as not,   
+Did do the deed, and planned before,   
+That our poor bass would live no more.
+
+ Beware the one who’s always there,   
+But often blends into the air,  
+Who watches, waits, here caused a stir,   
+The murderer was: the répétiteur!’
+
+At an incredibly niche, geeky party in Glasgow a few years ago, made up of opera musicians who had to write poetry in order to be granted entry, I wrote a rhyming murder mystery set in an opera house. It was no _Phantom of the Opera_, but the final lines revealed who had been the murderer; someone who was able to hide in plain sight for the whole opera-making process.
+
+This is because the role of a répétiteur is simultaneously one of the most important elements of the opera rehearsal process and one of the least known. As an old teacher of mine said, without the répétiteur (or "repetitor" as they're known in the German-speaking world), it would be basically impossible for normal rehearsals to happen, having a much greater impact than if a mere conductor or singer were absent. He also argued that it was one of the most stressful jobs in the whole theatre. 
+
+Répétiteurs work incredibly hard at all stages of the opera process (including practising before any rehearsals even start), they balance an incredible array of skills and talents, and yet are still somehow first in the firing line of a frustrated conductor. Add to that the fact that even the most ardent opera-lovers have no idea what the role is, most English-speaking people can neither spell nor pronounce it (to misquote Hermione, "it's rep-a-ti-TEUR, not rep-a-TIT-teur", unless you're speaking in German), and you might be forgiven for wondering why we do it at all.
+
+> I recently saw a répétiteur described as a ‘rehearsal pianist’ which frustrated me, because this is only a small part of what they actually do.
+
+## The best opera role of them all
+
+Despite all of this, there are few other roles that are so all-encompassing and therefore musically satisfying, and as a result a répétiteur's relationships with other people in the rehearsal room are incredibly important. The role is also a fantastic way to learn about singers and get a broad knowledge of a wide range of the opera repertoire. I recently saw a répétiteur described as a "rehearsal pianist" which frustrated me, because this is only a small part of what we actually do. 
+
+Yes, the répétiteur plays the part of the orchestra during the rehearsals, which itself is an incredibly difficult thing, but they are also more often than not at any one time singing in the parts of singers who are off sick, making notes to relate to other singers during the break, closely following the gesture of a conductor who may or may not be clear to read, and keeping track of the staging as it progresses. That's at least five things simultaneously for a start!
+
+## The Tactical Coach
+
+Of course prior to staging rehearsals even beginning, they will have probably been "coaching" the singers regularly too. I often try and relate this to sport in order to explain it better. If singing teachers are the fitness coaches, keeping a player healthy and ready physically for their next game, répétiteurs are the tactical coaches, suggesting where and when it will be best to shoot at which point in the game, where the defence will be most vulnerable, and how to refine how the player is already kicking to produce an even more accurate shot.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption>Répétiteurs are the tactical coaches, suggesting amongst other things, where and when it will be best to shoot at which point in the game.</figcaption>  
+</figure>
