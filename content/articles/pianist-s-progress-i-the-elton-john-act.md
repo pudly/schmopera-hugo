@@ -65,3 +65,15 @@ Often many beginner répétiteurs play as if they are still driving a sports car
 <figure data-type="image">{{% md %}}{{% /md %}}
 
 <figcaption>If the solo piano is a sports car, the orchestra is more like an ocean liner. They can both be top of the range vehicles but will need to be steered and handled differently.</figcaption></figure>
+
+## Auditioning as a Répétiteur
+
+In order to hire new répétiteurs, most auditions in the German-speaking opera world use the same audition repertoire and look for the same qualities and skills. Though at first I thought this was unimaginative, it is actually an advantage for the candidate, who usually only has to learn this set repertoire once and then can use it over and over again for different jobs. In this repertoire, you have to do what a colleague of mine calls the "Elton John Act". 
+
+Thankfully that doesn't mean dressing as Donald Duck and picking out your flashiest coloured glasses before entering the rehearsal room, though I suppose it could be one way to stand out! No, instead it means means singing the vocal lines of an excerpt at the same time as playing the piano. Unfortunately however, you won't be bashing out the chords of "Bennie and The Jets" while singing along to your heart's content. Your task will be to play some of the most difficult ensemble moments in the entire opera repertoire, singing every part and every ensemble.  
+
+> The joy comes in identifying where we can improve and working on that area, though we can only do this if we know what’s expected in the first place!
+
+Having recently been "on the other side", as part of the panel for the first time in auditions, I want to write more about this process to help anyone interested in becoming a répétiteur. I do not pretend that I have all the answers, but I do feel I have something to offer, mainly because when preparing for auditions I've always been surprised at the lack of information out there for early-career répétiteurs, and I am keen to expand on what information there is. I would also hate these articles to be overwhelming or off-putting; the truth is that we are all on a journey to being better musicians and not everyone has all of these skills at the same level. The joy comes in identifying where we can improve and working on that area, though we can only do this if we know what is expected in the first place! 
+
+If you are interested in becoming one of the unsung heroes (no pun intended) of opera or developing your skills for the next audition, stay tuned for the articles coming your way, which I hope will encourage you and help you to prepare yourself for the next stage of your musical journey.
