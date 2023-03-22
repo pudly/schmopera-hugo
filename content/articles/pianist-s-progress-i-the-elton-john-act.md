@@ -28,22 +28,22 @@ Who in plain sight as sure as not, 
 Did do the deed, and planned before,   
 That our poor bass would live no more.
 
- Beware the one who’s always there,   
+Beware the one who’s always there,   
 But often blends into the air,  
 Who watches, waits, here caused a stir,   
 The murderer was: the répétiteur!’
 
 At an incredibly niche, geeky party in Glasgow a few years ago, made up of opera musicians who had to write poetry in order to be granted entry, I wrote a rhyming murder mystery set in an opera house. It was no _Phantom of the Opera_, but the final lines revealed who had been the murderer; someone who was able to hide in plain sight for the whole opera-making process.
 
-This is because the role of a répétiteur is simultaneously one of the most important elements of the opera rehearsal process and one of the least known. As an old teacher of mine said, without the répétiteur (or "repetitor" as they're known in the German-speaking world), it would be basically impossible for normal rehearsals to happen, having a much greater impact than if a mere conductor or singer were absent. He also argued that it was one of the most stressful jobs in the whole theatre. 
+This is because the role of a répétiteur is simultaneously one of the most important elements of the opera rehearsal process and one of the least known. As an old teacher of mine said, without the répétiteur (or "repetitor" as they're known in the German-speaking world), it would be basically impossible for normal rehearsals to happen, having a much greater impact than if a mere conductor or singer were absent. He also argued that it was one of the most stressful jobs in the whole theatre.
 
 Répétiteurs work incredibly hard at all stages of the opera process (including practising before any rehearsals even start), they balance an incredible array of skills and talents, and yet are still somehow first in the firing line of a frustrated conductor. Add to that the fact that even the most ardent opera-lovers have no idea what the role is, most English-speaking people can neither spell nor pronounce it (to misquote Hermione, "it's rep-a-ti-TEUR, not rep-a-TIT-teur", unless you're speaking in German), and you might be forgiven for wondering why we do it at all.
 
-> I recently saw a répétiteur described as a ‘rehearsal pianist’ which frustrated me, because this is only a small part of what they actually do.
+> I recently saw a répétiteur described as a "rehearsal pianist" which frustrated me, because this is only a small part of what they actually do.
 
 ## The best opera role of them all
 
-Despite all of this, there are few other roles that are so all-encompassing and therefore musically satisfying, and as a result a répétiteur's relationships with other people in the rehearsal room are incredibly important. The role is also a fantastic way to learn about singers and get a broad knowledge of a wide range of the opera repertoire. I recently saw a répétiteur described as a "rehearsal pianist" which frustrated me, because this is only a small part of what we actually do. 
+Despite all of this, there are few other roles that are so all-encompassing and therefore musically satisfying, and as a result a répétiteur's relationships with other people in the rehearsal room are incredibly important. The role is also a fantastic way to learn about singers and get a broad knowledge of a wide range of the opera repertoire. I recently saw a répétiteur described as a "rehearsal pianist" which frustrated me, because this is only a small part of what we actually do.
 
 Yes, the répétiteur plays the part of the orchestra during the rehearsals, which itself is an incredibly difficult thing, but they are also more often than not at any one time singing in the parts of singers who are off sick, making notes to relate to other singers during the break, closely following the gesture of a conductor who may or may not be clear to read, and keeping track of the staging as it progresses. That's at least five things simultaneously for a start!
 
@@ -55,3 +55,13 @@ Of course prior to staging rehearsals even beginning, they will have probably be
 
 <figcaption>Répétiteurs are the tactical coaches, suggesting amongst other things, where and when it will be best to shoot at which point in the game.</figcaption>  
 </figure>
+
+Singing teachers help the singers on a technical level to use their body in the best way to produce the most beautiful sound that they can. The répétiteur when coaching focuses on phrasing, tempo, intonation, clarity of text, diction, repertoire suggestions, language pronunciation, and simply ensuring that the rhythm and notes are all correct. In order to do this they cannot be robots; they have to have an empathy for singers, an understanding of what makes each individual singer tick, how to motivate them, and how far to push them. Of course, sometimes there is crossover for both areas; there are some répétiteurs who know a great deal about singing technique and can therefore help usefully, and many singing teachers who often help in all the musical areas mentioned above. However, the skills mentioned above mark the general parameters of the job.
+
+> In order to know what the orchestra is like, you have to bury yourself in the orchestral score and immerse yourself in listening to different orchestras to get a sense of the sounds and weight that different instrumental sections make.
+
+Often many beginner répétiteurs play as if they are still driving a sports car (even though sadly on a répétiteur's salary, this will be an imagined idea rather than as a result of lived experience), and they need to learn to react in a way that is more like an orchestra. In order to know what the orchestra is like, you have to bury yourself in the orchestral score and immerse yourself in listening to different orchestras to get a sense of the sounds and weight that different instrumental sections make. It is for these reasons that being a répétiteur is still seen as ideal training for those wanting to become conductors. If you can multi-task to this extent, have strong personal skills that motivate people effectively, and have learnt to understand orchestral sound by processing musical scores at this level, you are already halfway to being a good conductor.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption>If the solo piano is a sports car, the orchestra is more like an ocean liner. They can both be top of the range vehicles but will need to be steered and handled differently.</figcaption></figure>
