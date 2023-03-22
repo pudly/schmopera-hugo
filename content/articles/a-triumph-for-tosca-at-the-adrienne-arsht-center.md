@@ -26,14 +26,14 @@ Cavaradossi, an artist and a political idealist, aids in the escape of a politic
 <figcaption>A scene from Florida Grand Opera's production of Tosca, 2023. Photo: Daniel Azoulay.</figcaption>  
 </figure>
 
-Toni Marie Palmertree, who portrayed Floria Tosca, delivered a truly remarkable performance. Her voice was powerful, clear, and expressive, capturing the complex emotions of the character with ease. Palmertree's acting was equally impressive, embodying Tosca's fiery temperament and vulnerabilities masterfully.
+[Toni Marie Palmertree](/scene/people/toni-marie-palmertree/), who portrayed Floria Tosca, delivered a truly remarkable performance. Her voice was powerful, clear, and expressive, capturing the complex emotions of the character with ease. Palmertree's acting was equally impressive, embodying Tosca's fiery temperament and vulnerabilities masterfully.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679403329/media/2023/03/Tosca_DSC3498_nlx4f1.jpg){{% /md %}}
 
 <figcaption>A scene from Florida Grand Opera's production of Tosca, 2023. Photo: Daniel Azoulay.</figcaption>  
 </figure>
 
-Arturo Chacón Cruz brought his considerable talents to the role of Mario Cavaradossi, Tosca's love interest. His vocals were excellent and his rendition of the famous aria "E lucevan le stelle" was particularly moving. Todd Thomas's portrayal of the villainous Scarpia was menacing and powerful, capturing the character's cruelty perfectly.
+[Arturo Chacón Cruz](/scene/people/arturo-chacon-cruz/) brought his considerable talents to the role of Mario Cavaradossi, Tosca's love interest. His vocals were excellent and his rendition of the famous aria "E lucevan le stelle" was particularly moving. [Todd Thomas](/scene/people/todd-thomas/)'s portrayal of the villainous Scarpia was menacing and powerful, capturing the character's cruelty perfectly.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679403349/media/2023/03/Tosca_DSC4512_y5akbj.jpg){{% /md %}}
 
