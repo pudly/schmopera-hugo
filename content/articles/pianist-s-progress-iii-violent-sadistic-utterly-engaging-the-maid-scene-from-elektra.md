@@ -8,11 +8,11 @@ image_gallery = []
 postamble = ""
 preamble = "This article is one of a series called [\"The Elton John Act\"](/pianists-progress-i-the-elton-john-act/), which aim to demystify the process of becoming an operatic répétiteur and assist anyone wishing to audition as one in the German-speaking operatic system. Here we begin with the first of the usual audition excerpts, the Maid Scene from Richard Strauss' opera _Elektra_."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679530380/media/2023/03/Pianistseries_pianogirl_by4gpq.jpg"
-primary_image_credit = ""
+primary_image_credit = "You’ll need to channel everything you’ve got into the piano in this chilling yet colourful scene!"
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = " Whatever the staging, the atmosphere the music creates is oppressive, nasty and yet sometimes tender, and without a feel for the context of the whole piece, you will always struggle to recreate the senseless violence of the maids in this opening scene."
 slug = "pianists-progress-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra"
 title = "Pianist's progress III: Violent, sadistic & utterly engaging - the Maid Scene from Elektra"
 youtube_url = ""
@@ -61,4 +61,4 @@ Even though it's excruciating, I recommend recording yourself and listening to y
 
 > Entering into the murky world of Elektra's dungeon is the perfect distraction from a panel of curious adjudicators.
 
-Even though I had at first been intimidated by the complexity of the piece and a little overwhelmed by the seeming technical difficulty, I now in fact always begin my auditions with Elektra, as I find I can now relax in the overbearing dramatic nature of the whole thing. Entering into the murky world of Elektra's dungeon is the perfect distraction from a panel of curious adjudicators, and the raw emotion on display, coupled with the orchestral detail, means there is always an opportunity to show off a feeling for drama, musical colour and orchestral texture, which are crucial skills in a good repetiteur. I hope you learn to love this piece as much as I do and it brings success in your auditions in future. Viel Spaß!
+Even though I had at first been intimidated by the complexity of the piece and a little overwhelmed by the seeming technical difficulty, I now in fact always begin my auditions with _Elektra_, as I find I can now relax in the overbearing dramatic nature of the whole thing. Entering into the murky world of Elektra's dungeon is the perfect distraction from a panel of curious adjudicators, and the raw emotion on display, coupled with the orchestral detail, means there is always an opportunity to show off a feeling for drama, musical colour and orchestral texture, which are crucial skills in a good repetiteur. I hope you learn to love this piece as much as I do and it brings success in your auditions in future. Viel Spaß!
