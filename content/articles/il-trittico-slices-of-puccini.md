@@ -74,7 +74,7 @@ Veteran baritone Geoffrey Di Giorgio commanded the stage as Michele and the wood
 
 Mezzo Tichina Vaughn, another veteran vocalist, who recently appeared in three roles at the Met, made La Frugola's difficult rapid-fire aria look easy. It's no wonder that SAS has Ms. Vaughn teach master classes to other members of the company.
 
->  His switch back and forth from deep baritone (as Gianni Schicchi) to his grating falsetto (when he imitates the dead Donati) was uproarious.
+> His switch back and forth from deep baritone (as Gianni Schicchi) to his grating falsetto (when he imitates the dead Donati) was uproarious.
 
 Soprano Rebecca S. Kidnie was an effective Giorgetta, using all her tools – voice, face, body - to express the character’s internal pain. Kudos to all the singers who were truly acting and never appeared to be “stuck” behind their scores.
 
@@ -89,6 +89,6 @@ It was all worth the wait for the third and final slice of Puccini, _Gianni Schi
 
 When they find the scroll with the bad news, they turn to Gianni Schicchi for help. Geoffrey Di Giorgio, who had a good rest outside the convent during _Suor Angelica_, is wildly entertaining as he lets it rip vocally and comically. His switch back and forth from deep baritone (as Gianni Schicchi) to his grating falsetto (when he imitates the dead Donati) was uproarious. He also was able to play the buffoonery of the man when we first meet him, and then adroitly show us the slow reveal of what was waiting underneath it all – much to the chagrin of the double-crossed Donati family.
 
-Mr. Scovasso announced before the first opera that "O mio babbino caro" would happen around 5:30 because "that's what you're all waiting for." It was more like 6:00 p.m. but Juyong Ma (as Lauretta) gave us a pleasant rendition. Other members of the family who shined were Virdell Williams as Simone (who also was great as Il Talpa in _Il tabarro_), Shanley Horvitz as Zita, and tenor Eric Sebec as Rinuccio who nailed the heraldic declarations of "Firenze e come un albero fiorito."
+Mr. Scovasso announced before the first opera that "O mio babbino caro" would happen around 5:30 because "that's what you're all waiting for." It was more like 6:00 p.m. but Juyong Ma (as Lauretta) gave us a pleasant rendition. Other members of the family who shined were Virdell Williams as Simone (who also was great as Il Talpa in _Il tabarro_), Shanley Horvitz as Zita, and tenor Eric Sebek as Rinuccio who nailed the heraldic declarations of "Firenze e come un albero fiorito."
 
 Even with libretti and Mr. Scovasso's summations, SRS could really benefit from an investment in supertitles. The wacky twists and turns of _Gianni Schicchi_, in particular, get lost in translation, no matter how hard the talented group works to interpret it all for us.
