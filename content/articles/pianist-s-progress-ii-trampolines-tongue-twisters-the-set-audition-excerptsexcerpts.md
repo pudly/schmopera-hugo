@@ -3,6 +3,7 @@ author = ["authors/david-todd.md"]
 categories = "How-To"
 date = 2023-03-22T04:00:00Z
 disclaimer = ""
+draft = true
 image_gallery = []
 postamble = ""
 preamble = "This article is the second in a series that began with [\"The Elton John Act\"](/pianists-progress-i-the-elton-john-act/). These articles try and address the black hole of information out there to help and support early-career répétiteurs who are interested in working in the German-speaking opera world. Here we take a general look at the excerpts that are usually requested at audition."
@@ -13,7 +14,7 @@ related_companies = []
 related_people = []
 short_description = "Sometimes the full-fat beginning of Der Rosenkavalier is also requested. The key here is to pace the excitement in the right way, as on stage a lot of love is being made."
 slug = "pianists-progress-ii-trampolines-tongue-twisters-the-set-audition-excerpts"
-title = "Pianist's progress II: Trampolines & tongue-twisters - the set audition excerptsExcerpts"
+title = "Pianist's progress II: Trampolines & tongue-twisters - the set audition excerpts"
 youtube_url = ""
 
 +++
