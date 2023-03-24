@@ -19,6 +19,8 @@ youtube_url = ""
 
 +++
 
+[https://blo.org/bluebeard](https://blo.org/bluebeard "https://blo.org/bluebeard")
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679618968/media/2023/03/BLO_Bluebeard_Judith_Naomi_Louisa_O_Connell_and_Bluebeard_Ryan_McKinny_celebrate_the_castle_garden_in_BLO_s_Bluebeard_s_Castle_Four_Songs_sfrr2k.jpg){{% /md %}}
 
 <figcaption>Naomi Louisa O'Connell (Judith) and Ryan McKinney (Bluebeard) in Boston Lyric Opera's production of Bartók's "Bluebeard's Castle" and Alma Mahler's "Four Songs", 2023. Photo by Liza Voll.</figcaption>  
