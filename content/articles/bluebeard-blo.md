@@ -43,6 +43,8 @@ She also chose to have Bluebeard's other wives present throughout the whole. It 
 
 The wives were always visible throughout the whole, when the audience migrated to the performance area in the middle of what was essentially a redressed cruise ship terminal, doing a whole lot of dance throughout the entire opera and especially whenever a door is opened. This became pretty effective during the sixth door scene, where they held long sheets meant to portray the lake of tears, and the tableau that resulted from the opening of the final door was great. Their combined exhalation also served as the castle's groaning throughout the work, and this was a touch I greatly enjoyed for how it sets up the way the opera unfolds. I cannot say I was a fan of every part of how the wives were used: there were definitely times where I felt that some of the movement was there purely for the sake of busywork. However, I liked the way they added to the atmosphere of the production.
 
+> \[McKinny\] commanded the stage with a powerful bass-baritone, which fit perfectly with how his character holds dominion over all the women around him until the end.
+
 And boy, what a gorgeous production it was! The use of a cruise ship terminal as a location was actually quite brilliant: my friend and I were commenting that walking up to the entrance where we went in to watch the performance was a little like walking into a strange man's large abandoned castle. The actual performance area was also quite interesting: the platform in the center was the only lit part of the whole space, and it really helped create the production's atmosphere. 
 
 But perhaps most ingenious of all was the way the doors were staged: here, the door openings were represented by a combination of Bluebeard hiding Judith's eyes, as well as changes of bedsheets on the bed in the center of the stage, where Judith (and sometimes Bluebeard) would pull away a bedsheet to reveal a new color to denote the next room. There was inventive staging with it (such as the gold bedsheet hiding rose petals underneath it for the fourth room and the aforementioned long sheet standing in for the lake of tears), and in my estimation I think the messiness that resulted on-stage added to Judith's effect on the titular castle.
@@ -62,8 +64,3 @@ McKinny was every bit her match as Bluebeard: from the moment he pulled the cove
 </figure>
 
 All of this came together for an evening that ended up highlighting one of my personal favorite works in the operatic repertoire in a way I greatly enjoyed. I have always loved Bartók's only opera score for its dark, evocative music, but I had never been able to see it live, and I am glad I saw it live for the first time in this production; Anne Bogart's ideas were clear and, for the most part, fully realized in a way that was visually stunning and unusually clear. Pairing it with the Alma Mahler songs brought a new dimension to both works, and I for one can't wait to get to know the songs a little better after seeing how they paired together here.
-
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption> in Boston Lyric Opera's production of Bartók's "Bluebeard's Castle" and Alma Mahler's "Four Songs", 2023. Photo by Liza Voll.</figcaption>  
-</figure>
