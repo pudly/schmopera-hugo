@@ -18,27 +18,28 @@ title = "Bluebeard BLO"
 youtube_url = ""
 
 +++
-<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679618968/media/2023/03/BLO_Bluebeard_Judith_Naomi_Louisa_O_Connell_and_Bluebeard_Ryan_McKinny_celebrate_the_castle_garden_in_BLO_s_Bluebeard_s_Castle_Four_Songs_sfrr2k.jpg){{% /md %}}
 
 <figcaption> in Boston Lyric Opera's production of Bartók's "Bluebeard's Castle" and Alma Mahler's "Four Songs", 2023. Photo by Liza Voll.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679618993/media/2023/03/BLO_Buebeard_Judith_Naomi_Louisa_O_Connell_makes_a_disturbing_discovery_in_BLO_s_Bluebeard_s_Castle_Four_Songs_mlxrsv.jpg){{% /md %}}
 
 <figcaption> in Boston Lyric Opera's production of Bartók's "Bluebeard's Castle" and Alma Mahler's "Four Songs", 2023. Photo by Liza Voll.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679619017/media/2023/03/BLO_Bluebeard_Naomi_Louisa_O_Connell_in_BLO_s_Bluebeard_s_Castle_Four_Songs_bvfcfg.jpg){{% /md %}}
 
 <figcaption> in Boston Lyric Opera's production of Bartók's "Bluebeard's Castle" and Alma Mahler's "Four Songs", 2023. Photo by Liza Voll.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679619031/media/2023/03/BLO_Bluebeard_Ryan_McKinny_is_the_title_character_in_BLO_s_Bluebeard_s_Castle_Four_Songs_g1p5w3.jpg){{% /md %}}
 
 <figcaption> in Boston Lyric Opera's production of Bartók's "Bluebeard's Castle" and Alma Mahler's "Four Songs", 2023. Photo by Liza Voll.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679619096/media/2023/03/BLO_Bluebeard_Ryan_McKinny_as_Bluebeard_in_BLO_s_Bluebeard_s_Castle_Four_Songs_ty9gft.jpg){{% /md %}}
 
 <figcaption> in Boston Lyric Opera's production of Bartók's "Bluebeard's Castle" and Alma Mahler's "Four Songs", 2023. Photo by Liza Voll.</figcaption>  
 </figure>
