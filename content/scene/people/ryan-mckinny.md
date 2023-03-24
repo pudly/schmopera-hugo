@@ -2,7 +2,7 @@
 date = "2017-11-09T19:59:00-05:00"
 discipline = "Bass-baritone"
 lastmod = "2017-11-09T19:59:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510274603513/mckinny-new4.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679619500/media/2023/03/RyanMcKinny_phvjgo.jpg"
 primary_image_credit = "Simon Pauly"
 publishDate = "2017-11-09T19:59:00-05:00"
 related_companies = ["scene/companies/san-francisco-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/english-national-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/canadian-opera-company.md"]
