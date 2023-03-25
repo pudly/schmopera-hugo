@@ -1,7 +1,7 @@
 +++
 author = ["authors/david-todd.md"]
 categories = "How-To"
-date = 2023-03-22T04:00:00Z
+date = 2023-03-25T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -13,8 +13,8 @@ related_articles = ["articles/pianist-s-progress-i-the-elton-john-act.md"]
 related_companies = []
 related_people = []
 short_description = "Sometimes the full-fat beginning of Der Rosenkavalier is also requested. The key here is to pace the excitement in the right way, as on stage a lot of love is being made."
-slug = "pianists-progress-ii-trampolines-tongue-twisters-the-set-audition-excerpts"
-title = "Pianist's progress II: Trampolines & tongue-twisters - the set audition excerpts"
+slug = "the-elton-john-act-ii-trampolines-tongue-twisters-the-set-audition-excerpts"
+title = "The Elton John Act II: Trampolines & tongue-twisters - the set audition excerpts"
 youtube_url = ""
 
 +++
