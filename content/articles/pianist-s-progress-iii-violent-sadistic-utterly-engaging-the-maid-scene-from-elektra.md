@@ -1,7 +1,7 @@
 +++
 author = ["authors/david-todd.md"]
 categories = "How-To"
-date = 2023-03-22T04:00:00Z
+date = 2023-03-25T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -13,8 +13,8 @@ related_articles = ["articles/pianist-s-progress-ii-trampolines-tongue-twisters-
 related_companies = []
 related_people = []
 short_description = " Whatever the staging, the atmosphere the music creates is oppressive, nasty and yet sometimes tender, and without a feel for the context of the whole piece, you will always struggle to recreate the senseless violence of the maids in this opening scene."
-slug = "pianists-progress-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra"
-title = "Pianist's progress III: Violent, sadistic & utterly engaging - the Maid Scene from Elektra"
+slug = "the-elton-john-act-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra"
+title = "The Elton John Act III: Violent, sadistic & utterly engaging - the Maid Scene from Elektra"
 youtube_url = ""
 
 +++
