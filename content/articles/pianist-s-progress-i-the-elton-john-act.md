@@ -1,7 +1,7 @@
 +++
 author = ["authors/david-todd.md"]
 categories = "How-To"
-date = 2023-03-22T04:00:00Z
+date = 2023-03-25T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "You won't be bashing out the chords of \"Bennie and The Jets\" while singing along to your heart's content. Your task will be to play some of the most difficult ensemble moments in the entire opera repertoire, singing every part and every ensemble."
-slug = "pianists-progress-i-the-elton-john-act"
-title = "Pianist's progress I: The Elton John Act"
+slug = "the-elton-john-act"
+title = "The Elton John Act"
 youtube_url = ""
 
 +++
