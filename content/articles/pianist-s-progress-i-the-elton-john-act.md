@@ -1,9 +1,8 @@
 +++
 author = ["authors/david-todd.md"]
 categories = "How-To"
-date = 2023-03-25T04:00:00Z
+date = 2023-03-26T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "What is a repetiteur, and how exactly do they help in the opera-making process? This article, the first of a series delving into one of opera's lesser-known roles, will hopefully help to address the black hole of information and support available to répétiteurs starting out in the world of opera…"
