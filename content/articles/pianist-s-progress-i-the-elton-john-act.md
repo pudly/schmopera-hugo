@@ -5,7 +5,7 @@ date = 2023-03-26T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = ""
-preamble = "What is a repetiteur, and how exactly do they help in the opera-making process? This article, the first of a series delving into one of opera's lesser-known roles, will hopefully help to address the black hole of information and support available to répétiteurs starting out in the world of opera…"
+preamble = "What is a repetiteur, and how exactly do they help in the opera-making process? This article, the first of a series (originally published on David Todd's blog, [_Opera with a Hot Toddy_](https://www.david-todd.co.uk/?page_id=770)) delving into one of opera's lesser-known roles, will hopefully help to address the black hole of information and support available to répétiteurs starting out in the world of opera..."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679528708/media/2023/03/Pianistseries_elton-john-446485_1920_v5pbpa.jpg"
 primary_image_credit = ""
 related_articles = []
