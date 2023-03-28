@@ -26,9 +26,9 @@ Canada's first ever Black opera _Of The Sea_ had its highly anticipated opening 
 
 With a libretto by Kanika Ambrose and a score by Ian Cusson, _Of The Sea_ tells the story of Maduka ([Jorell Williams](/scene/people/jorell-williams/)) and his infant daughter Binyelum ([Ruthie Nkut](https://www.instagram.com/ruthienku/)), whom we find at the bottom of the ccean. They soon encounter denizens of the deep who "wake" and transition Maduka and his daughter into a new life in a new world. Maduka is unwilling. His faith as a follower of the sun is strong. Too strong to allow him to become "of the sea" so he departs on a quest to return his daughter to the sun god Chukwu. The journey is tough, and he meets fellow "displeased" people who also wish to return to the Sun. Rachel Forbes' set and costumes drew inspiration from both African history and the sea itself. Taking place among a multi-coloured kelp-forest, the use of blacklight in Steve Lucas' design helped serve to highlight Forbes' designs and conjure images and sensations of underwater bioluminescence. Movement director Hollywood Jade helped create a movement vocabulary that was unique to this piece.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680020189/media/2023/03/TapoftheSea-photobyDahliaKatz-2714_wuenj9.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Of The Sea, Tapestry Opera, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
 The story is one of profound depth and beauty that spring forth from a place of simplicity and truth. Inspired by the countless lost African people who were either thrown or jumped from colonizer's ships during the Middle Passage.
@@ -37,7 +37,7 @@ Ambrose's words and Cusson's music are match made in heaven - or under the sea i
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Of The Sea, Tapestry Opera, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
 Maduka has found a perfect home inside the body of Jorell Williams. His powerful, clear tone, ease and flexibility of dynamics, and a remarkable capability for intense physicality brought this Father's heartbreaking yet inspiring story. I was particularly impressed as for the first possibly 30 minutes of the show (about 1/3 the total running time), Williams sang his entire role until this point either lying down, kneeling, or writhing. All this in no way compromised the beauty of his tone or his immaculate diction. As someone who does a lot of physical movement in my work, this isn't easy and Williams was spectacular.
@@ -46,7 +46,7 @@ As Dfiza, the queen of the Sea People, Soprano Suzanne Taffot sang with a lovely
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Of The Sea, Tapestry Opera, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
 As the queen of the displeased, Chantale Nurse was a revelation. I've heard Chantale many times but this was some of the best I've heard from her. Rightfully gaining the only mid-show applause break after her monolith of an Aria, I was mesmerized by her innate groundedness. While Dfiza was all fluid and wave, she was solid and powerful - Come Scoglio if you will. Also an excellent match with Williams, the trio of the two Queens and Maduka ws a highlight of the show.
@@ -57,7 +57,7 @@ Also giving some of the best singing I've ever heard from him, Justin Welsh appe
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Of The Sea, Tapestry Opera, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
 As Yaakaar, Dfiza's vizier, tenor Paul Williamson sang with his trademark full-yet-bright delivery and a delightful portrayal of the community elder character. The show also had a small but might Ensemble that played the citizens of the sea - both pleased and displeased - and brought Cussons wonderful harmonies to life with great skill and execution.
