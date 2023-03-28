@@ -2,7 +2,7 @@
 date = "2015-11-13T09:54:00-05:00"
 discipline = "Baritone"
 lastmod = "2015-11-13T09:54:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447426195678/2015-11-13---Jorell-Williams.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1680021763/media/2023/03/dam-jw-211108_jorell_williams_headshot_8x10_cmyk_koi8qw.jpg"
 publishDate = "2015-11-13T09:54:00-05:00"
 related_companies = ["scene/companies/seattle-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/opera-on-the-avalon.md", "scene/companies/american-opera-projects.md"]
 slug = "jorell-williams"
