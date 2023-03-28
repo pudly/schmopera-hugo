@@ -35,16 +35,16 @@ The story is one of profound depth and beauty that spring forth from a place of 
 
 Ambrose's words and Cusson's music are match made in heaven - or under the sea in this case. The poetry is simple and clear while still loaded with layers of meanings and still managing to be beautifully descriptive without becoming flowery. Cusson's score invokes the spirit of the currents and tides. It's an intelligent, articulate score that is still very accessible and singable. Cusson's settings of text have always been exquisite and it continues here.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680020272/media/2023/03/TapoftheSea-photobyDahliaKatz-2797_w5svcl.jpg){{% /md %}}
 
 <figcaption>Of The Sea, Tapestry Opera, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
-Maduka has found a perfect home inside the body of Jorell Williams. His powerful, clear tone, ease and flexibility of dynamics, and a remarkable capability for intense physicality brought this Father's heartbreaking yet inspiring story. I was particularly impressed as for the first possibly 30 minutes of the show (about 1/3 the total running time), Williams sang his entire role until this point either lying down, kneeling, or writhing. All this in no way compromised the beauty of his tone or his immaculate diction. As someone who does a lot of physical movement in my work, this isn't easy and Williams was spectacular.
+Maduka has found a perfect home inside the body of Jorell Williams. His powerful, clear tone, ease and flexibility of dynamics, and a remarkable capability for intense physicality brought this Father's heartbreaking yet inspiring story. I was particularly impressed as for the first possibly 30 minutes of the show (about one-third of the total running time), Williams sang his entire role until this point either lying down, kneeling, or writhing. All this in no way compromised the beauty of his tone or his immaculate diction. As someone who does a lot of physical movement in my work, this isn't easy and Williams was spectacular.
 
-As Dfiza, the queen of the Sea People, Soprano Suzanne Taffot sang with a lovely, bright, full Soprano. She commanded the stage with grace and elegance, her movements always fluid, giving an almost undulating, underwater aspect to everything she did. She paired well with Williams and her characterization was very interesting. She nailed the sweet spot where while being sweet and welcoming, you could tell there was a power she wasn't showing up front. You don't psychologically reject her, nor do you implicitly trust her. It's a difficult balance to maintain especially while singing such an intricate and challenging score.
+As Dfiza, the queen of the Sea People, [Suzanne Taffot](http://suzannetaffotsoprano.com/) sang with a lovely, bright, full soprano. She commanded the stage with grace and elegance, her movements always fluid, giving an almost undulating, underwater aspect to everything she did. She paired well with Williams and her characterization was very interesting. She nailed the sweet spot where while being sweet and welcoming, you could tell there was a power she wasn't showing up front. You don't psychologically reject her, nor do you implicitly trust her. It's a difficult balance to maintain especially while singing such an intricate and challenging score.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680020324/media/2023/03/TapoftheSea-photobyDahliaKatz-2898_vjanjb.jpg){{% /md %}}
 
 <figcaption>Of The Sea, Tapestry Opera, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
