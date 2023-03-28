@@ -3,7 +3,6 @@ author = ["authors/greg.md"]
 categories = "Review"
 date = 2023-03-28T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "There are some shows that never leave you whether performing in them or experiencing them. _Of The Sea_ is one of those. Not just musically and visually. This piece made an impact."
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = ["scene/companies/tapestry-opera.md"]
 related_people = ["scene/people/paul-williamson.md", "scene/people/justin-welsh.md", "scene/people/chantale-nurse.md", "scene/people/jorell-williams.md"]
 short_description = "short"
-slug = "of-the-sea"
-title = "Of The Sea"
+slug = "of-the-sea-a-beautiful-overdue-story-that-lingers"
+title = "Of The Sea: a beautiful, overdue story that lingers"
 youtube_url = ""
 
 +++
