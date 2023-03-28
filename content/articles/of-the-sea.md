@@ -6,12 +6,12 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
-preamble = ""
+preamble = "There are some shows that never leave you whether performing in them or experiencing them. _Of The Sea_ is one of those. Not just musically and visually. This piece made an impact."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1680019978/media/2023/03/sqTapoftheSea-photobyDahliaKatz-3290_eeijib.jpg"
 primary_image_credit = "Jorell Williams in Of The Sea, Tapestry Opera, 2023. Photo: Dahlia Katz."
 related_articles = []
 related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/jorell-williams.md"]
+related_people = ["scene/people/paul-williamson.md", "scene/people/justin-welsh.md", "scene/people/chantale-nurse.md", "scene/people/jorell-williams.md"]
 short_description = "short"
 slug = "of-the-sea"
 title = "Of The Sea"
@@ -49,24 +49,24 @@ As Dfiza, the queen of the Sea People, [Suzanne Taffot](http://suzannetaffotsopr
 <figcaption>Of The Sea, Tapestry Opera, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
-As the queen of the displeased, Chantale Nurse was a revelation. I've heard Chantale many times but this was some of the best I've heard from her. Rightfully gaining the only mid-show applause break after her monolith of an Aria, I was mesmerized by her innate groundedness. While Dfiza was all fluid and wave, she was solid and powerful - Come Scoglio if you will. Also an excellent match with Williams, the trio of the two Queens and Maduka ws a highlight of the show.
+As the queen of the displeased, [Chantale Nurse](/scene/people/chantale-nurse/) was a revelation. I've heard Chantale many times but this was some of the best I've heard from her. Rightfully gaining the only mid-show applause break after her monolith of an aria, I was mesmerized by her innate groundedness. While Dfiza was all fluid and wave, she was solid and powerful - "Come Scoglio", if you will. Also an excellent match with Williams, the trio of the two Queens and Maduka was a highlight of the show.
 
 Ruthie Nkut shows up at the conclusion of the opera as Binye. She's grown now, and in a beautiful "epilogue" we hear her effervescent and twinkly soprano for only a short time, but it's worth the wait. The "epilogue" is stunning and creative and sung wonderfully by her and Williams.
 
-Also giving some of the best singing I've ever heard from him, Justin Welsh appears in a touching scene with Williams. He and I have worked together several times in the past, so I know how hard this guy works. There's not a whole heck of a lot of music for two baritones that isn't a duel of some kind or Don Giovanni. This is a welcome change. The two voices -  Williams with a brighter, almost metallic quality danced in a lovely way over Justin's full and warmer tone.
+Also giving some of the best singing I've ever heard from him, [Justin Welsh](/scene/people/justin-welsh/) appears in a touching scene with Williams. He and I have worked together several times in the past, so I know how hard this guy works. There's not a whole heck of a lot of music for two baritones that isn't a duel of some kind or _Don Giovanni_. This is a welcome change. The two voices -  Williams with a brighter, almost metallic quality danced in a lovely way over Justin's full and warmer tone.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680020470/media/2023/03/TapoftheSea-photobyDahliaKatz-3303_bsdz7y.jpg){{% /md %}}
 
 <figcaption>Of The Sea, Tapestry Opera, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
-As Yaakaar, Dfiza's vizier, tenor Paul Williamson sang with his trademark full-yet-bright delivery and a delightful portrayal of the community elder character. The show also had a small but might Ensemble that played the citizens of the sea - both pleased and displeased - and brought Cussons wonderful harmonies to life with great skill and execution.
+As Yaakaar, Dfiza's vizier, tenor [Paul Williamson](/scene/people/paul-williamson/) sang with his trademark full-yet-bright delivery and a delightful portrayal of the community elder character. The show also had a small but mighty ensemble that played the citizens of the sea - both pleased and displeased - and brought Cusson's wonderful harmonies to life with great skill and execution.
 
-Leading members of the COC Orchestra, conductor Jennifer Tung kept the piece together in a tightly knit blanket. It's really nice to see the pot at the Bluma Appel ACTUALLY being used again. There were a few balance issues, but the Bluma is kind of an unforgiving venue to sing in so this is in no way a slight to anyone's performance.
+Leading members of the COC Orchestra, conductor Jennifer Tung kept the piece together in a tightly knit blanket. It's really nice to see the pit at the Bluma Appel actually being used again. There were a few balance issues, but the Bluma is kind of an unforgiving venue to sing in, so this is in no way a slight to anyone's performance.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680020490/media/2023/03/TapoftheSea-photobyDahliaKatz-3187-Cropped_gsyjq4.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Of The Sea, Tapestry Opera, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
-There's some shows that never leave you. Whether performing in them or experiencing them. Of The Sea is one of those. Not just musically and visually. This piece made an impact. We have so few expressions of Black Excellence in this VERY Eurocentric. But this is a perfect example that we need it. The art needs it. Black people have always led us to the light musically, artistically, and culturally. I for one am beside myself with excitement at the prospect of them taking their rightful place on these stages.
+There are some shows that never leave you whether performing in them or experiencing them. _Of The Sea_ is one of those. Not just musically and visually. This piece made an impact. We have so few expressions of Black excellence in this very Eurocentric artform. But this is a perfect example that we need it. The art needs it. Black people have always led us to the light musically, artistically, and culturally. I for one am beside myself with excitement at the prospect of them taking their rightful place on these stages.
