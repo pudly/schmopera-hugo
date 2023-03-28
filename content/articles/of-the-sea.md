@@ -4,7 +4,7 @@ categories = "Review"
 date = 2023-03-28T04:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = ""
+postamble = "[Tapestry Opera's production of _Of The Sea_](https://tapestryopera.com/performances/of-the-sea/) runs through April 1, 2023."
 preamble = "There are some shows that never leave you whether performing in them or experiencing them. _Of The Sea_ is one of those. Not just musically and visually. This piece made an impact."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1680019978/media/2023/03/sqTapoftheSea-photobyDahliaKatz-3290_eeijib.jpg"
 primary_image_credit = "Jorell Williams in Of The Sea, Tapestry Opera, 2023. Photo: Dahlia Katz."
@@ -21,7 +21,7 @@ Hello Schmop-Tops,
 
 I was honoured and thrilled to be in attendance as history was made in Toronto. I have a few mixed feelings writing that sentence. On the one hand, it's amazing that this is taking place and that it is receiving all the attention, pomp, and circumstance it deserves. On the other hand, it's 2023; we as a society should not have made them wait this long.
 
-Canada's first ever Black opera _Of The Sea_ had its highly anticipated opening night and it did not disappoint. Directed by Philip Akin with music direction by Jennifer Tung, this was a feast for the eyes as well as the ears.
+Canada's first ever Black opera [_Of The Sea_](https://tapestryopera.com/performances/of-the-sea/) had its highly anticipated opening night and it did not disappoint. Directed by Philip Akin with music direction by Jennifer Tung, this was a feast for the eyes as well as the ears.
 
 With a libretto by Kanika Ambrose and a score by Ian Cusson, _Of The Sea_ tells the story of Maduka ([Jorell Williams](/scene/people/jorell-williams/)) and his infant daughter Binyelum ([Ruthie Nkut](https://www.instagram.com/ruthienku/)), whom we find at the bottom of the ccean. They soon encounter denizens of the deep who "wake" and transition Maduka and his daughter into a new life in a new world. Maduka is unwilling. His faith as a follower of the sun is strong. Too strong to allow him to become "of the sea" so he departs on a quest to return his daughter to the sun god Chukwu. The journey is tough, and he meets fellow "displeased" people who also wish to return to the Sun. Rachel Forbes' set and costumes drew inspiration from both African history and the sea itself. Taking place among a multi-coloured kelp-forest, the use of blacklight in Steve Lucas' design helped serve to highlight Forbes' designs and conjure images and sensations of underwater bioluminescence. Movement director Hollywood Jade helped create a movement vocabulary that was unique to this piece.
 
@@ -68,4 +68,4 @@ Leading members of the COC Orchestra, conductor Jennifer Tung kept the piece tog
 <figcaption>Of The Sea, Tapestry Opera, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
-There are some shows that never leave you whether performing in them or experiencing them. _Of The Sea_ is one of those. Not just musically and visually. This piece made an impact. We have so few expressions of Black excellence in this very Eurocentric artform. But this is a perfect example that we need it. The art needs it. Black people have always led us to the light musically, artistically, and culturally. I for one am beside myself with excitement at the prospect of them taking their rightful place on these stages.
+There are some shows that never leave you whether performing in them or experiencing them. [_Of The Sea _](https://tapestryopera.com/performances/of-the-sea/)is one of those. Not just musically and visually. This piece made an impact. We have so few expressions of Black excellence in this very Eurocentric artform. But this is a perfect example that we need it. The art needs it. Black people have always led us to the light musically, artistically, and culturally. I for one am beside myself with excitement at the prospect of them taking their rightful place on these stages.
