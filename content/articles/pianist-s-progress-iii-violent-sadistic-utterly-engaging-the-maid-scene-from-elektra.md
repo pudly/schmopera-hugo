@@ -1,9 +1,8 @@
 +++
 author = ["authors/david-todd.md"]
 categories = "How-To"
-date = 2023-03-25T04:00:00Z
+date = 2023-03-29T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "This article is one of a series called [\"The Elton John Act\"](/pianists-progress-i-the-elton-john-act/), which aim to demystify the process of becoming an operatic répétiteur and assist anyone wishing to audition as one in the German-speaking operatic system. Here we begin with the first of the usual audition excerpts, the Maid Scene from Richard Strauss' opera _Elektra_."

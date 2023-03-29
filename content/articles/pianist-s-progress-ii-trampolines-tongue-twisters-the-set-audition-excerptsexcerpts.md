@@ -1,9 +1,8 @@
 +++
 author = ["authors/david-todd.md"]
 categories = "How-To"
-date = 2023-03-25T04:00:00Z
+date = 2023-03-29T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "This article is the second in a series that began with [\"The Elton John Act\"](/pianists-progress-i-the-elton-john-act/). These articles try and address the black hole of information out there to help and support early-career répétiteurs who are interested in working in the German-speaking opera world. Here we take a general look at the excerpts that are usually requested at audition."
