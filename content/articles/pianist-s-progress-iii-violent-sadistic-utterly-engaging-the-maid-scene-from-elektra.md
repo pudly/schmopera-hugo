@@ -35,9 +35,7 @@ Your process after this can be entirely your own, but I did the following, which
 
 After this, I began to learn the vocal lines, which I did by learning them in isolation, and then adding them to the rough accompaniment I had already mastered. I find this method has two big advantages; firstly, even though at first it is hard to see it, the harmony often helps to support the vocal lines, and sometimes, such as four bars before Figure 17, the vocal lines are doubled in the orchestra, which is a big help. Secondly, by studying the piano part and vocal lines in conjunction like this, the whole piece is developed in one go. This should help to avoid the outcome of seeming like you are merely a pianist who is singing along, or someone whose singing distracts from their pianistic technique.
 
-> Strauss, like Puccini, was so colourful in his writing, that you can
->
-> have fun finding many of his musical references yourself.
+> Strauss, like Puccini, was so colourful in his writing, that you can have fun finding many of his musical references yourself.
 
 This process must be done very slowly. It is crucial that the rhythms of the vocal lines are absolutely accurate, that you understand every word, that the text is sung clearly with excellent German pronunciation, and all of the characters (particularly that kind Fifth Maid and the brutal Overseer) are dramatically clear. Take two or three pages a day at first, and then it will become easier. Once the vocal lines were secure, I went back to the piano part and made sure I knew exactly what all of the orchestral instruments were that I was playing.
 
