@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = "This article is one of a series called [\"The Elton John Act\"](/the-elton-john-act/), which aim to demystify the process of becoming an operatic répétiteur and assist anyone wishing to audition as one in the German-speaking operatic system. Here we explore Mozart’s masterpiece, the finale of the second act of his opera _Le nozze di Figaro_."
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1680469430/media/2023/04/sqPianistseries_Nozze_ddkhfv.jpg"
 primary_image_credit = "Many experienced musicians argue that finale of Act II is some of Mozart’s best music, and it’s not hard to see why."
 related_articles = []
 related_companies = []
@@ -36,7 +36,7 @@ Compared to the other extracts, I would say that the Mozart benefits the most fr
 
 The excerpt is also so long, that listening to recordings will help you to begin to understand how every section links together. Watching a film version (there are many available on YouTube) will also help you to understand the many events taking place, and will help you to come to your own interpretation of the piece. Like many pieces by well-known composers, you will find some people have very strict ideas that they like to preach, while other musicians place themselves on the complete opposite end of the spectrum. I remember once hearing one person argue that the pulse should stay exactly the same throughout the whole finale, while in his book _The Composer’s Advocate_, conductor Erich Leinsdorf includes a very detailed analysis of the finale and argues for a much more subtle interpretation of interlinking tempi.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680469457/media/2023/04/Pianistsereis_Nozze_food_wziwzw.jpg){{% /md %}}
 
 <figcaption>"Where on earth do I start with this musical feast?"</figcaption>  
 </figure>
