@@ -77,36 +77,10 @@ Figaro's G Major entrance at bar 328 is probably the easiest section of the fina
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption>There is so much richness of character here that you can exploit as you alternate between the Count, Countess and Susanna.</figcaption></figure>
+<figcaption>There is so much richness of character here that you can exploit as you alternate between the Count, Countess and Susanna.</figcaption></figure> 
 
-In many auditions, if you are not asked to play from the very beginning, they will ask
+In many auditions, if you are not asked to play from the very beginning, they will ask you to begin at bar 467, when the bumbling gardener Antonio enters the scene. This is because this section is fiendishly difficult technically, with bars 584-596 particularly thorny. My advice would be not to panic and to focus on playing what is important, always with an ear for what the orchestra sounds like. There are still many triplets in this passage where I miss out certain notes in order to make other things clear. When you do this, make sure you have written in where you are simplifying things, so that they are clear each time. In the frenzy of activity, sometimes phrasing can be lost, so ensure for example that the woodwind lines from bar 569 are always phrased away as an orchestra would. 
 
-you to begin at bar 467, when the bumbling gardener Antonio enters the scene. This is
-
-because this section is fiendishly difficult technically, with bars 584-596 particularly
-
-thorny. My advice would be not to panic and to focus on playing what is important,
-
-always with an ear for what the orchestra sounds like. There are still many triplets in
-
-this passage where I miss out certain notes in order to make other things clear. When
-
-you do this, make sure you have written in where you are simplifying things, so that
-
-they are clear each time. In the frenzy of activity, sometimes phrasing can be lost, so
-
-ensure for example that the woodwind lines from bar 569 are always phrased away as
-
-an orchestra would. 
-
-The aforementioned bars 584-596 need particularly slow practise, and I worked slowly
-
-at first, singing while playing one hand only, then switching it around, then slowly
-
-putting it all together. Amongst all your own worries here, don’t forget Figaro’s pain as
-
-he pretends to hurt his foot with ‘e stravolto m’ho un nervo del piè!’ I often act this a bit
-
-and start sobbing, which actually fits quite well with the sense of relief I feel having got through this section! 
+The aforementioned bars 584-596 need particularly slow practise, and I worked slowly at first, singing while playing one hand only, then switching it around, then slowly putting it all together. Amongst all your own worries here, don’t forget Figaro's pain as he pretends to hurt his foot with "è stravolto m'ho un nervo del piè!" I often act this a bit and start sobbing, which actually fits quite well with the sense of relief I feel having got through this section! 
 
 > Make sure you have defined each character and their motives as they sing, so that the drama is always clear.
