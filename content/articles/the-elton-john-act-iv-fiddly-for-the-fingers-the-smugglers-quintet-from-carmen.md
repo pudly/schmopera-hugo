@@ -9,7 +9,7 @@ postamble = ""
 preamble = "This article is one of a series called [\"The Elton John Act\"](/the-elton-john-act/), which aims to de-mystify the process of becoming an operatic répétiteur and assist anyone wishing to audition as one in the German-speaking operatic system. Here we continue with the \"Smugglers’ Quintet\" from Bizet’s opera Carmen."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1680468173/media/2023/04/sqPianistseries_Carmen_ctc3ho.jpg"
 primary_image_credit = "There is an inbuilt feeling of illicit excitement that runs throughout this fun-filled excerpt, and a wonderful sense of camaraderie between the characters is developed throughout. Photo: Robert Workman."
-related_articles = []
+related_articles = ["articles/pianist-s-progress-i-the-elton-john-act.md", "articles/pianist-s-progress-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra.md", "articles/pianist-s-progress-ii-trampolines-tongue-twisters-the-set-audition-excerptsexcerpts.md"]
 related_companies = []
 related_people = []
 short_description = "Though this excerpt can be frustrating at times due to its technical challenges, I promise it gets easier. Nevertheless, if I can, I always avoid starting with it in an audition, as it works best for me when my fingers are a little warmed up and I'm feeling a little more comfortable with my surroundings."
@@ -40,7 +40,7 @@ The nature of most piano reductions of Carmen is that they can be very fiddly 
 
 The piano part is particularly cruel because it starts with a tricky chromatic run, which is prone to collapsing in on itself under pressure. While this should be clear and musically phrased and articulated (don’t forget that staccato note at the top!), it also has to establish your tempo immediately. The whole excerpt is like a finely-oiled steam engine, and this opening section must find the Goldilocks zone; too slow and the energy and excitement is immediately lost; too fast and the whole thing becomes a crumpled, panicky mess. (You will also probably become a crumpled, panicky mess if this happens. Trust me, I’ve been there).
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680468239/media/2023/04/Pianistseries_train_wpkynf.jpg){{% /md %}}
 
 <figcaption>The whole excerpt should run like a finely-oiled steam engine.</figcaption>  
 </figure>
@@ -59,7 +59,7 @@ Make sure you are also differentiating between dynamics. Can you really show tha
 
 Once the piano/orchestral part is secure at a slow tempo, I began to sing the vocal parts in. You must try and sing every line, though when there is an ensemble moment, I usually sing the uppermost line, unless there is something particularly interesting going on with another character. Just make sure not to forget that as soon as there is a solo line or phrase again, you must be there to sing it! When I started to learn these, I used to draw arrows showing where my eyes should go for the next line, which sometimes helped in the heat of an audition. In this excerpt particularly, don't forget to make the upbeats clear – all of those "De nous" must be clear every time they come.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680468227/media/2023/04/PIanistseries_Carmen_1_bfhpg4.jpg){{% /md %}}
 
 <figcaption>At the beginning the smugglers Dancaïre and Remendado are cunningly revealing their plans, in the hope of enlisting Frasquita and Mercédès. The teasing that ensues can only be achieved with a hearty sense of fun and panache. Photo: Robert Workman </figcaption></figure>
 
