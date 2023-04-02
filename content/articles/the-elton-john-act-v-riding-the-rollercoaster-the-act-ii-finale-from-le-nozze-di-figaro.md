@@ -57,7 +57,7 @@ The genius of this excerpt is that the music always expresses what the character
 
 In my experience, about half of répétiteurs attempt the thirds, though only a small percentage of them are able to execute them with a legato line that resembles how the orchestra would play them. I myself usually just play the upper line, though include the thirds where possible, which often tricks the ear into thinking there are more there than there actually are. (A teacher of mine once in fact told me to avoid all thirds and octaves in opera scores as they are too tricky, and will always be achieved at the expense of something more musical).
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680469520/media/2023/04/Pianistseries_nozze_marathon_jolhdm.jpg){{% /md %}}
 
 <figcaption>You really need a lot of stamina to get through this piece, and when I started to learn it (or when I return to it after a long time away) I have found myself feeling dizzy, because of how much I’m having to sing and concentrate on.</figcaption></figure>
 
@@ -75,7 +75,7 @@ It is always fun to spit out the flourishes in bar 177, which show the Count's i
 
 Figaro's G Major entrance at bar 328 is probably the easiest section of the finale to play, so as a result, make sure that it doesn’t begin to rush. Watch out here for details such as the longer quarter note bass note from bar 385 in comparison to the right hand eighth note. There is a lovely opportunity here to revel in the cunning of the Count with his "Con arte le carte convien qui scoprir". The count begins his questioning in the following Andante section, which must remain crisp and light – avoid any temptation to use the pedal here, as the articulation must be crystal clear. I find Bärenreiter’s rendering of bars 420-422 unplayable, so rewrote them with the help of the Peters edition, prioritising the lower melody, which cleverly works in counterpoint to the Count.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680469536/media/2023/04/PIanistseries_Nozze_1_zudhex.jpg){{% /md %}}
 
 <figcaption>There is so much richness of character here that you can exploit as you alternate between the Count, Countess and Susanna.</figcaption></figure>
 
@@ -91,6 +91,6 @@ In many auditions you will now be asked to skip to the Allegro Assai at bar 679,
 
 From the Più allegro (bar 783) it’s worth discussing some practicalities, which are important to sort out if we are to give our best. In the Bärenreiter edition, from here onwards there is one stave per page, so you’re going to have to plan your page turns exactly. This may include memorising certain bars towards the end of a page so that you don’t lose them with the panic of a turn. I find with these large staves, the text to sing is so far from the piano part that it is too difficult to read. From here to the end, I therefore wrote all the text just above the piano part, so that I don’t get sea-sick moving my head up and down like a crazy nodding dog. It is important that before the Prestissimo nothing gets quicker, so that you have just the right amount of space to put your foot on the gas here. As you get to the very end, I usually play bars 933-934 simply as arpeggios, because when the orchestra plays, the brass playing these is the most dominant sound that you hear.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680469550/media/2023/04/Pianistseries_Nozze_marathoner_rd1q4j.jpg){{% /md %}}
 
 <figcaption>When you get to the end, congratulations are in order. To play and sing this incredible scene is an amazing achievement, and hopefully you will feel confident to show off all the work you have done to an eager panel at your next audition!</figcaption></figure>
