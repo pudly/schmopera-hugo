@@ -56,3 +56,57 @@ The genius of this excerpt is that the music always expresses what the character
 ## Technical details
 
 In my experience, about half of répétiteurs attempt the thirds, though only a small percentage of them are able to execute them with a legato line that resembles how the orchestra would play them. I myself usually just play the upper line, though include the thirds where possible, which often tricks the ear into thinking there are more there than there actually are. (A teacher of mine once in fact told me to avoid all thirds and octaves in opera scores as they are too tricky, and will always be achieved at the expense of something more musical).
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption>You really need a lot of stamina to get through this piece, and when I started to learn it (or when I return to it after a long time away) I have found myself feeling dizzy, because of how much I’m having to sing and concentrate on.</figcaption></figure>
+
+A definite weakness of the Bärenreiter edition is that barely any orchestral instruments are ever written in the piano part, though perhaps this could be viewed as an advantage, as it forces us to look in even more detail at the score. From the Molto andante (often taken as eighth note = previous half note, by the way), my edition misses out all the orchestral articulation and also where the important horn texture differs from the rest of the wind passages. Make sure to have this written in and clearly differentiated in your playing, and then have fun practising singing Susanna's triplets against the falling right hand sixteenth notes from bar 149.
+
+## Finding your stamina
+
+As you get into the Allegro at bar 167, it is important to mention that it is important to actively find places to breathe. You really need a lot of stamina to get through this piece, and when I started to learn it (or when I return to it after a long time away) I have found myself feeling dizzy, because of how much I’m having to sing and concentrate on. Just as you would coach a singer, make sure you are taking appropriate breaths for the phrases you are singing, as otherwise it is here you will start feeling ill! This will also have the advantage that you are not tempted to rush a phrase because you are running out of breath. 
+
+> When you begin to approach a passage with multiple singers, as in _Carmen_, be sure to map out exactly whose part you will sing so as to avoid any confusion. 
+
+It is always fun to spit out the flourishes in bar 177, which show the Count's internal feelings of impatience, even though he is once again trying to remain calm in front of Susanna and the Countess. Through this section the arranger at Bärenreiter has often omitted some high woodwind lines that are worth putting back in, for example at bar 209-211 and 216-218. Make sure that the leaping chords at 212-215 are also more clearly voiced, as in the orchestra. After this, make sure that your sung upbeats are always correct and rhythmically accurate, because they are often written differently for each character. When you begin to approach passages with multiple singers, as in _Carmen_, be sure to map out exactly whose part you will sing so as to avoid any confusion. There is so much richness of character here that you can exploit as you alternate between the Count, Countess and Susanna.
+
+## Figaro's entrance
+
+Figaro's G Major entrance at bar 328 is probably the easiest section of the finale to play, so as a result, make sure that it doesn’t begin to rush. Watch out here for details such as the longer quarter note bass note from bar 385 in comparison to the right hand eighth note. There is a lovely opportunity here to revel in the cunning of the Count with his "Con arte le carte convien qui scoprir". The count begins his questioning in the following Andante section, which must remain crisp and light – avoid any temptation to use the pedal here, as the articulation must be crystal clear. I find Bärenreiter’s rendering of bars 420-422 unplayable, so rewrote them with the help of the Peters edition, prioritising the lower melody, which cleverly works in counterpoint to the Count.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption>There is so much richness of character here that you can exploit as you alternate between the Count, Countess and Susanna.</figcaption></figure>
+
+In many auditions, if you are not asked to play from the very beginning, they will ask
+
+you to begin at bar 467, when the bumbling gardener Antonio enters the scene. This is
+
+because this section is fiendishly difficult technically, with bars 584-596 particularly
+
+thorny. My advice would be not to panic and to focus on playing what is important,
+
+always with an ear for what the orchestra sounds like. There are still many triplets in
+
+this passage where I miss out certain notes in order to make other things clear. When
+
+you do this, make sure you have written in where you are simplifying things, so that
+
+they are clear each time. In the frenzy of activity, sometimes phrasing can be lost, so
+
+ensure for example that the woodwind lines from bar 569 are always phrased away as
+
+an orchestra would. 
+
+The aforementioned bars 584-596 need particularly slow practise, and I worked slowly
+
+at first, singing while playing one hand only, then switching it around, then slowly
+
+putting it all together. Amongst all your own worries here, don’t forget Figaro’s pain as
+
+he pretends to hurt his foot with ‘e stravolto m’ho un nervo del piè!’ I often act this a bit
+
+and start sobbing, which actually fits quite well with the sense of relief I feel having got through this section! 
+
+> Make sure you have defined each character and their motives as they sing, so that the drama is always clear.
