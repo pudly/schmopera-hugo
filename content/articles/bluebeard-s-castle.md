@@ -46,7 +46,7 @@ With a new libretto to Béla Bartok's Gothic horror classic by Daisy Evans -- Ev
 
 Canadian superstar baritone Gerald Finley tackled the complex role of Bluebeard. The man is constantly walking a razor's edge doing his best to keep the absolute love of his life comfortable in her great turmoil. Finley's Bluebeard is caring, soft-spoken, and deliberately gentle. The scene opens in silence with him preparing to bring Judith home. He's so excited to see her, he kisses her photo and practically skips out the door. After he brings her home (and the score begins) we then see him become a man who's both exhausted and determined. We see his very real flaws and his very true virtues. The singing was outstanding. Finley's evenness of tone through his whole register was keenly on display through his conversational almost matter-of-fact delivery. The singing was so gorgeously handled I truly felt hey was speaking his text.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680904456/media/2023/04/AtGBluebeard-photobyDahliaKatz-5163-scaled_tle7pu.jpg){{% /md %}}
 
 <figcaption> in Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
@@ -55,7 +55,7 @@ Judith is an incredibly difficult role to both sing and portray - made exponenti
 
 There are extended lines of dialogue, but none from that place of soliloquy (even if a lot of arias aren't a true soliloquy - but you know what I mean) and I feel this may have caused her to lose a bit of her vocal line. There was also some unnecessary vowel-modification, causing some cognitive dissonance in the ear. The venue was more intimate than one would expect; although the stage is quite large and cavernous, the house itself is not that large and not that far from the singers. This issue -- definitely personal and my own -- may have stemmed from an attempt to sing for a bigger room? She's an exquisite vocalist, I just felt that both the character and the vocal production were both unsettled. It works great for the acting, but a better balance could have been found in the singing. The acting, I say again, was definitely a masterclass though.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680904496/media/2023/04/AtGBluebeard-photobyDahliaKatz-5369_ierrtt.jpg){{% /md %}}
 
 <figcaption> in Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
