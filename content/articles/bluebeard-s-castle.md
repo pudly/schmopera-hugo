@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1680903105/media/2023/04/sqAtGBluebeard-photobyDahliaKatz-4667_wkh8we.jpg"
-primary_image_credit = " in Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz."
+primary_image_credit = "Charlotte Hellekant as Judith in Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz."
 related_articles = []
 related_companies = []
 related_people = []
@@ -28,9 +28,9 @@ Full disclosure: I've been working with AtG since the jump. I'm the only singer 
 
 That being said, _Bluebeard's Castle_ is a co-production with [Theatre of Sound](https://www.theatreofsound.org/) and [Opera Ventures](https://www.opera.ventures/). Similar to AtG, these visionary artists are focusing on re-imagining operas to tell current, contemporary stories. While the visions of the two companies are in total synergy, you can tell this production is different than AtG shows past.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680904301/media/2023/04/AtGBluebeard-photobyDahliaKatz-5320_vxolen.jpg){{% /md %}}
 
-<figcaption> in Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz.</figcaption>  
+<figcaption>The cast of Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
 In his opening remarks, Artistic Director Joel Ivany gave a quick roll-call of their work during the dark (er?) times. They very successfully pivoted to online, video, and audio recording. They parlayed that into great successes (Junos, hello?). Extolling the virtues of collaboration as the main ingredient for their continued success, Ivany stated that this is the next step in a long line of partnerships that have produced some of the most scintillating new opera productions out there.
