@@ -22,7 +22,7 @@ Hello, Schmop-Tops,
 
 Your friendly neighbourhood Greg here, to let you know that the spring opera season // is // definitely sprung. Sorry for the delay on this one, it was a lot to chew on.
 
-On last Wednesday night I had a coming home of sorts. After three long years, [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) opened their first live performance since [2019's _Figaro's Wedding_](https://www.theglobeandmail.com/arts/music/article-against-the-grain-theatres-figaros-wedding-marries-a-mozart-classic/) (featuring Yours Truly.)
+On last Wednesday night I had a coming-home of sorts. After three long years, [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) opened their first live performance since [2019's _Figaro's Wedding_](https://www.theglobeandmail.com/arts/music/article-against-the-grain-theatres-figaros-wedding-marries-a-mozart-classic/) (featuring Yours Truly.)
 
 Full disclosure: I've been working with AtG since the jump. I'm the only singer to have performed every performance of both _Figaro's Wedding_ and [_La bohème_](/hype-atg-boheme/). I'm currently the host of their monthly [Opera Pub](https://atgtheatre.com/upcoming/opera-pub/) -- if you're in Toronto bring yourself down, it's loads of fun. So I have a long close relationship with Against the Grain Theatre.
 
