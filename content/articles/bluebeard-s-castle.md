@@ -37,9 +37,9 @@ In his opening remarks, Artistic Director Joel Ivany gave a quick roll-call of t
 
 [_Bluebeard's Castle_](https://atgtheatre.com/upcoming/bluebeards-castle/) is no exception. The original tells the story of Bluebeard and Judith -- Judith has abandoned her family to marry the extremely wealthy Duke. Upon arrival at his castle, things take a dark turn. All the doors are locked and the place is very dimly lit. She's told not to open any doors -- obviously she does (I would too). Behind each door we see why Bluebeard wanted them kept hidden, culminating in Judith's discovering the dead wives past (who had also looked behind the doors).
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680904389/media/2023/04/AtGBluebeard-photobyDahliaKatz-5218_ps01xs.jpg){{% /md %}}
 
-<figcaption> in Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz.</figcaption>  
+<figcaption>Charlotte Hellekant as Judith and Gerald Finely as Bluebeard in Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
 With a new libretto to Béla Bartok's Gothic horror classic by Daisy Evans -- Evans directs this production as well -- the tone is shifted from one of fear to one of love. Judith is now suffering from dementia and Bluebeard is trying to keep her comfortable. The "doors" are now memories of her past, full life as both a young girl and then happily married to Bluebeard. It is a remarkably successful parallel. The new libretto actually didn't stray too far from the English translation of the work that I'm familiar with. The use of the doors as a metaphor for memories in particular was a device I was very fond of.
