@@ -3,7 +3,6 @@ author = ["authors/greg.md"]
 categories = "Review"
 date = 2023-04-07T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -44,7 +43,7 @@ In his opening remarks, Artistic Director Joel Ivany gave a quick roll-call of t
 
 With a new libretto to Béla Bartok's Gothic horror classic by Daisy Evans -- Evans directs this production as well -- the tone is shifted from one of fear to one of love. Judith is now suffering from dementia and Bluebeard is trying to keep her comfortable. The "doors" are now memories of her past, full life as both a young girl and then happily married to Bluebeard. It is a remarkably successful parallel. The new libretto actually didn't stray too far from the English translation of the work that I'm familiar with. The use of the doors as a metaphor for memories in particular was a device I was very fond of.
 
-Canadian superstar baritone Gerald Finley tackled the complex role of Bluebeard. The man is constantly walking a razor's edge doing his best to keep the absolute love of his life comfortable in her great turmoil. Finley's Bluebeard is caring, soft-spoken, and deliberately gentle. The scene opens in silence with him preparing to bring Judith home. He's so excited to see her, he kisses her photo and practically skips out the door. After he brings her home (and the score begins) we then see him become a man who's both exhausted and determined. We see his very real flaws and his very true virtues. The singing was outstanding. Finley's evenness of tone through his whole register was keenly on display through his conversational almost matter-of-fact delivery. The singing was so gorgeously handled I truly felt hey was speaking his text.
+Canadian superstar baritone [Gerald Finley](/talking-with-singers-gerald-finley/) tackled the complex role of Bluebeard. The man is constantly walking a razor's edge doing his best to keep the absolute love of his life comfortable in her great turmoil. Finley's Bluebeard is caring, soft-spoken, and deliberately gentle. The scene opens in silence with him preparing to bring Judith home. He's so excited to see her, he kisses her photo and practically skips out the door. After he brings her home (and the score begins) we then see him become a man who's both exhausted and determined. We see his very real flaws and his very true virtues. The singing was outstanding. Finley's evenness of tone through his whole register was keenly on display through his conversational almost matter-of-fact delivery. The singing was so gorgeously handled I truly felt hey was speaking his text.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680904456/media/2023/04/AtGBluebeard-photobyDahliaKatz-5163-scaled_tle7pu.jpg){{% /md %}}
 
