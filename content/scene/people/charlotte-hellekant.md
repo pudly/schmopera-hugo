@@ -1,9 +1,8 @@
 +++
 discipline = "Mezzo-soprano"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1680905464/media/2023/04/CharlotteHellekant_MatsB%C3%A4cker_o4qepc.jpg"
 primary_image_credit = "Photo: Mats Bäcker"
-related_companies = []
+related_companies = ["scene/companies/la-monnaie.md", "scene/companies/opernhaus-zurich.md", "scene/companies/opra-national-de-paris.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/staatsoper-berlin.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/the-metropolitan-opera.md"]
 slug = "charlotte-hellekant"
 title = "Charlotte Hellekant"
 website = ""
