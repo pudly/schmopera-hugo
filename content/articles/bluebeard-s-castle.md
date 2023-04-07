@@ -13,8 +13,8 @@ related_articles = ["articles/talking-with-singers-gerald-finely.md", "articles/
 related_companies = ["scene/companies/against-the-grain-theatre.md"]
 related_people = ["scene/people/gerald-finley.md"]
 short_description = "short"
-slug = "bluebeards-castle"
-title = "Bluebeard's Castle"
+slug = "brilliant-a-compassionate-bluebeard-and-a-comforting-castle"
+title = "Brilliant: a compassionate Bluebeard and a comforting Castle"
 youtube_url = ""
 
 +++
