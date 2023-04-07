@@ -33,9 +33,9 @@ That being said, _Bluebeard's Castle_ is a co-production with [Theatre of Sound]
 <figcaption> in Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
-Artistic Director Joel Ivany in his opening remarks gave a quick roll-call of their work during the dark (er?) times. They very successfully pivoted to online, video, and audio recording. They parlayed that into great successes (Junis, hello?). Extolling the virtues of collaboration as the main ingredient for their continued success, Ivany stated that this is the next step in a long line of partnerships that have produced some of the most scintillating new opera productions out there.
+In his opening remarks, Artistic Director Joel Ivany gave a quick roll-call of their work during the dark (er?) times. They very successfully pivoted to online, video, and audio recording. They parlayed that into great successes (Junos, hello?). Extolling the virtues of collaboration as the main ingredient for their continued success, Ivany stated that this is the next step in a long line of partnerships that have produced some of the most scintillating new opera productions out there.
 
-Bluebeard's Castle is no exception. The original tells the story of Bluebeard and Judith. Judith has abandoned her family to marry the extremely wealthy Bluebeard. Upon arrival at his castle things take a dark turn. All the doors are locked and the place is very dimly lit. She's told not to open any doors - obviously she does (I would too). Behind each door we see why Bluebeard wanted them kept hidden culminating with Judith discovering the dead wives past who also needed to look behind said doors.
+[_Bluebeard's Castle_](https://atgtheatre.com/upcoming/bluebeards-castle/) is no exception. The original tells the story of Bluebeard and Judith -- Judith has abandoned her family to marry the extremely wealthy Duke. Upon arrival at his castle, things take a dark turn. All the doors are locked and the place is very dimly lit. She's told not to open any doors -- obviously she does (I would too). Behind each door we see why Bluebeard wanted them kept hidden, culminating in Judith's discovering the dead wives past (who had also looked behind the doors).
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
