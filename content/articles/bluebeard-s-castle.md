@@ -57,16 +57,16 @@ There are extended lines of dialogue, but none from that place of soliloquy (eve
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680904496/media/2023/04/AtGBluebeard-photobyDahliaKatz-5369_ierrtt.jpg){{% /md %}}
 
-<figcaption> in Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz.</figcaption>  
+<figcaption>Charlotte Hellekant as Judith in Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
 The real departure from the original comes in the form of six memories portraying Judith. From young girl, to young woman, to a young mother, to a grieving one we are actually shown what she and Bluebeard are remembering. Played by Alexis Celestine Wilson (1 & 2), Jamaica Fraser (3 & 4), and Josée Young (5 & 6), these silent visions were simultaneously haunting and reassuring. The mirroring of archetypal gestures was a beautiful way to demonstrate that these very different looking women were in fact the same character.
 
 Adrian Linford's design brought a familiarity with a dash of chaos. We all recognize the room that is now the "castle" from some point in our childhood. Whether it's your childhood home, your grandmother's house, your uncle's cottage, the vibe is unmistakably nostalgic, driving in harder the themes of memory and memory loss. Familiar though it was, it was also chaotic. As if seeing this familiarity through a kaleidoscope, which I can only imagine is a similar result inside the mind of a person living with dementia.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680904638/media/2023/04/AtGBluebeard-photobyDahliaKatz-4636_kipvow.jpg){{% /md %}}
 
-<figcaption> in Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz.</figcaption>  
+<figcaption>Charlotte Hellekant as Judith and Gerald Finley as Bluebeard in Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
 The small orchestra under Stephen Higgins played superbly. Its a complex and beautiful score and there was not a single balance issue at any time -- often a pitfall when the orchestra appears onstage. This may also be in part to Higgins' excellent arrangement. The tempi were elastic without being undisciplined, and the players responded to the conductor seamlessly.
