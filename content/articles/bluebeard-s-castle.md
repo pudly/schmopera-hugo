@@ -26,7 +26,7 @@ On last Wednesday night I had a coming home of sorts. After three long years, [A
 
 Full disclosure: I've been working with AtG since the jump. I'm the only singer to have performed every performance of both _Figaro's Wedding_ and [_La bohème_](/hype-atg-boheme/). I'm currently the host of their monthly [Opera Pub](https://atgtheatre.com/upcoming/opera-pub/) -- if you're in Toronto bring yourself down, it's loads of fun. So I have a long close relationship with Against the Grain Theatre.
 
-That being said, _Bluebeard's Castle_ is a co-production with Theatre of Sound and Opera Ventures. Similar to AtG, these visionary artists are focusing on re-imagining operas to tell current, contemporary stories. While the visions of the two companies are in total synergy, you can tell this production is different than AtG shows past.
+That being said, _Bluebeard's Castle_ is a co-production with [Theatre of Sound](https://www.theatreofsound.org/) and [Opera Ventures](https://www.opera.ventures/). Similar to AtG, these visionary artists are focusing on re-imagining operas to tell current, contemporary stories. While the visions of the two companies are in total synergy, you can tell this production is different than AtG shows past.
 
 Artistic Director Joel Ivany in his opening remarks gave a quick roll-call of their work during the dark (er?) times. They very successfully pivoted to online, video, and audio recording. They parlayed that into great successes (Junis, hello?). Extolling the virtues of collaboration as the main ingredient for their continued success, Ivany stated that this is the next step in a long line of partnerships that have produced some of the most scintillating new opera productions out there.
 
