@@ -1,9 +1,8 @@
 +++
 author = ["authors/david-todd.md"]
 categories = "How-To"
-date = 2023-04-07T14:00:00Z
+date = 2023-04-09T11:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "This article is one of a series called [\"The Elton John Act\"](/the-elton-john-act/), which aim to demystify the process of becoming an operatic répétiteur and assist anyone wishing to audition as one in the German-speaking operatic system. Here we explore the passionate opening of Richard Strauss’ opera _Der Rosenkavalier_."
@@ -22,7 +21,7 @@ youtube_url = ""
 * Composer: Richard Strauss
 * Length of scene to learn: Beginning of the opera until at least Figure 14 (sometimes further to Figure 27).
 * Edition used:  1943 Boosey and Hawkes, Vocal Score by Carl Besl. Recordings I listened to:
-* Thielemann 2009, with Renee Fleming, Sophie Koch and Diana Damrau, Karajan 1957 with Elisabeth Schwarzkopf and Christa Ludwig, André Previn 1993 (Vienna Philharmonic).
+* Thielemann 2009, with Renée Fleming, Sophie Koch and Diana Damrau, Karajan 1957 with Elisabeth Schwarzkopf and Christa Ludwig, André Previn 1993 (Vienna Philharmonic).
 
 There is no getting around what this stirring scene that opens Richard Strauss' opera _Der Rosenkavalier_ is all about. Everything in the music depicts a morning of frantic and illicit rumpy-pumpy between the Marschallin and her younger lover Count Octavian. The music is full of passionate swing and, well, everything that goes with such an occasion. Since Richard Strauss orchestrates the opening here so richly, it is crucial to constantly reference the score as you are preparing it, and listen as widely as you can to various versions. Whenever I have encountered this scene in an audition context, I have usually only had to play as far as the first vocal entry of the opera "Wie du warst" (Octavian basically saying ‘sex with you is great’, though in my version the English is rather prudishly translated, which I suppose fits the stereotypes of our national character.) This usually makes it the only scene where you don’t have to sing as you play, unless you are asked to go further (usually until Figure 27 at the latest).
 
