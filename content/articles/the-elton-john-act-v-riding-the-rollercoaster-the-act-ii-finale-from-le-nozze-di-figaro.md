@@ -1,9 +1,8 @@
 +++
 author = ["authors/david-todd.md"]
 categories = "How-To"
-date = 2023-04-07T11:00:00Z
+date = 2023-04-09T09:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "This article is one of a series called [\"The Elton John Act\"](/the-elton-john-act/), which aim to demystify the process of becoming an operatic répétiteur and assist anyone wishing to audition as one in the German-speaking operatic system. Here we explore Mozart’s masterpiece, the finale of the second act of his opera _Le nozze di Figaro_."

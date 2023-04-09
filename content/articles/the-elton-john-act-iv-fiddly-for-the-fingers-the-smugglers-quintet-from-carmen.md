@@ -1,9 +1,8 @@
 +++
 author = ["authors/david-todd.md"]
 categories = "How-To"
-date = 2023-04-07T04:00:00Z
+date = 2023-04-08T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "This article is one of a series called [\"The Elton John Act\"](/the-elton-john-act/), which aims to de-mystify the process of becoming an operatic répétiteur and assist anyone wishing to audition as one in the German-speaking operatic system. Here we continue with the \"Smugglers’ Quintet\" from Bizet’s opera Carmen."
