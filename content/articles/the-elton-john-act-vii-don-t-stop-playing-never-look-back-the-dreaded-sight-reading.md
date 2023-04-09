@@ -1,7 +1,7 @@
 +++
 author = ["authors/david-todd.md"]
 categories = "How-To"
-date = 2023-04-09T17:00:00Z
+date = 2023-04-09T20:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -33,7 +33,21 @@ The basics of sight-reading are no different from the advice I was given before 
 <figcaption>It's important to never forget that you are representing the sound of an orchestra when sight-reading.</figcaption>  
 </figure>
 
+## Thinking like an orchestra
+
+To these universal skills the repetiteur's brain must analyse how the orchestra will sound and have a good feel for the style. Is there a moment where you can recreate a certain orchestral sound or articulation, or where the sound should progress more heavily? Many repetiteurs who are accused of playing too pianistically are so criticised because their playing flows more like a weak gravy than a rich custard of heavily scored orchestral moments. Any technically tricky moments that would usually involve more than twenty seconds of practice to sort out can be ignored or "sketched". You should not waste time trying to play intricate lines as it will always be at the expense of something else more important, but there is no harm in confidently acknowledging their existence as much as you can. 
+
+The golden rule is of course: don’t stop playing! No matter what happens, keep going. As with most things, any mistakes that you do make will probably seem much worse to you anyway. They often say that goalkeepers love penalty shoot-outs because they are not expected to save the goals, and if they do, they become heroes. If we can try and approach sight-reading more in this vein, then the whole thing becomes much more positive.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681080698/media/2023/04/Pianistseries_goalie_c8lqrp.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Try and approach sight-reading more like the goalkeeper in a penalty shoot out – it will help the whole experience to become more positive!</figcaption>  
 </figure>
+
+## Accompanying singers
+
+When it comes to sight-reading while accompanying singers, be careful! Many are unable to judge how hard something really is, which is completely fair enough, since it's not their instrument. Many a time a singer has said to me "I'll just bring the music on the day, it's not difficult", and then there have been surprisingly difficult moments to get my fingers around. Luckily, the opposite has also happened! When you're in the situation, you have the extra aspect of listening to the singer and being absolutely with them. While this may seem more daunting, I've often actually found it easy to sight-read with a singer, as I feel less exposed, and if they know the piece well, they can often guide me through in a way that is not possible if I’m alone. 
+
+## Using your superpower
+
+To be able to have a dependable and solid sight-reading ability is a big asset, making life much easier for you and enabling you to stand out from the crowd. I think we should never overlook that it's an area that can be improved upon and practised like all other musical skills, and the result is a superpower that will never cease to be helpful in a moment of need!
