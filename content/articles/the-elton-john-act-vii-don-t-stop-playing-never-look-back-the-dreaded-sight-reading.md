@@ -3,7 +3,6 @@ author = ["authors/david-todd.md"]
 categories = "How-To"
 date = 2023-04-09T20:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "This is the final article of a series called [\"The Elton John Act\"](/the-elton-john-act/), which aim to demystify the process of becoming an operatic répétiteur and assist anyone wishing to audition as one in the German-speaking operatic system. In this article we focus on sight-reading, and how it can be worked on like any other skill."
