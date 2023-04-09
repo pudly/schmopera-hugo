@@ -21,7 +21,7 @@ Hello, Schmop-Tops,
 
 Your friendly neighbourhood Greg here, to let you know that the spring opera season has definitely sprung. Sorry for the delay on this one, it was a lot to chew on.
 
-On last Wednesday night I had a coming-home of sorts. After three long years, [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) opened their first live performance since [2019's _Figaro's Wedding_](https://www.theglobeandmail.com/arts/music/article-against-the-grain-theatres-figaros-wedding-marries-a-mozart-classic/) (featuring Yours Truly.)
+Last week I had a coming-home of sorts. After three long years, [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) opened their first live performance since [2019's _Figaro's Wedding_](https://www.theglobeandmail.com/arts/music/article-against-the-grain-theatres-figaros-wedding-marries-a-mozart-classic/) (featuring Yours Truly.)
 
 Full disclosure: I've been working with AtG since the jump. I'm the only singer to have performed every performance of both _Figaro's Wedding_ and [_La bohème_](/hype-atg-boheme/). I'm currently the host of their monthly [Opera Pub](https://atgtheatre.com/upcoming/opera-pub/) -- if you're in Toronto bring yourself down, it's loads of fun. So I have a long close relationship with Against the Grain Theatre.
 
@@ -32,7 +32,7 @@ That being said, _Bluebeard's Castle_ is a co-production with [Theatre of Sound]
 <figcaption>The cast of Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz.</figcaption>  
 </figure>
 
-// In his opening remarks, Artistic Director Joel Ivany gave a quick roll-call of their work during the dark (er?) times. They very successfully pivoted to online, video, and audio recording. They parlayed that into great successes (Junos, hello?). Extolling the virtues of collaboration as the main ingredient for their continued success, Ivany stated that this is the next step in a long line of partnerships that have produced some of the most scintillating new opera productions out there. //
+In his opening remarks, Artistic Director Joel Ivany gave a quick roll-call of their work during the dark (er?) times. They very successfully pivoted to online, video, and audio recording. They parlayed that into great successes (Junos, hello?). Extolling the virtues of collaboration as the main ingredient for their continued success, Ivany stated that this is the next step in a long line of partnerships that have produced some of the most scintillating new opera productions out there.
 
 [_Bluebeard's Castle_](https://atgtheatre.com/upcoming/bluebeards-castle/) is no exception. The original tells the story of Bluebeard and Judith -- Judith has abandoned her family to marry the extremely wealthy Duke. Upon arrival at his castle, things take a dark turn. All the doors are locked and the place is very dimly lit. She's told not to open any doors -- obviously she does (I would too). Behind each door we see why Bluebeard wanted them kept hidden, culminating in Judith's discovering the dead wives past (who had also looked behind the doors).
 
