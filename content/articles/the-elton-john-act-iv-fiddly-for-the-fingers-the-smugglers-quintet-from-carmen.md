@@ -8,7 +8,7 @@ postamble = ""
 preamble = "This article is one of a series called [\"The Elton John Act\"](/the-elton-john-act/), which aims to de-mystify the process of becoming an operatic répétiteur and assist anyone wishing to audition as one in the German-speaking operatic system. Here we continue with the \"Smugglers’ Quintet\" from Bizet’s opera Carmen."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1680468173/media/2023/04/sqPianistseries_Carmen_ctc3ho.jpg"
 primary_image_credit = "There is an inbuilt feeling of illicit excitement that runs throughout this fun-filled excerpt, and a wonderful sense of camaraderie between the characters is developed throughout. Photo: Robert Workman."
-related_articles = ["articles/pianist-s-progress-i-the-elton-john-act.md", "articles/pianist-s-progress-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra.md", "articles/pianist-s-progress-ii-trampolines-tongue-twisters-the-set-audition-excerptsexcerpts.md"]
+related_articles = ["articles/the-elton-john-act-vii-don-t-stop-playing-never-look-back-the-dreaded-sight-reading.md", "articles/the-elton-john-act-vi-between-the-sheets-the-opening-of-der-rosenkavalier.md", "articles/the-elton-john-act-v-riding-the-rollercoaster-the-act-ii-finale-from-le-nozze-di-figaro.md", "articles/pianist-s-progress-i-the-elton-john-act.md", "articles/pianist-s-progress-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra.md", "articles/pianist-s-progress-ii-trampolines-tongue-twisters-the-set-audition-excerptsexcerpts.md"]
 related_companies = []
 related_people = []
 short_description = "Though this excerpt can be frustrating at times due to its technical challenges, I promise it gets easier. Nevertheless, if I can, I always avoid starting with it in an audition, as it works best for me when my fingers are a little warmed up and I'm feeling a little more comfortable with my surroundings."
@@ -27,11 +27,7 @@ While you may not personally have smuggled anything important in your life to be
 
 One of the strengths of the set excerpts is that they do test the three main operatic languages, and this scene from _Carmen_ is the perfect way to show off your acquaintance with the language of love. As with all the excerpts, it is crucial to show that your pronunciation is as close to perfect as it can be. We all have at least one language that is weaker than the others, and for me it's French. I found that by the end of the process of learning, reading the text to a friend who was a native speaker wasn't enough; I had to sing it to them for them while playing in order for them to really judge me well. I then found that luckily, since the scene is fast, it was easier to be criticised less harshly when I sang and played together, than when I simply read the text alone!
 
-> This opening section must find the Goldilocks zone; too slow and
->
-> the energy and excitement is immediately lost; too fast and the
->
-> whole thing becomes a crumpled, panicky mess.
+> This opening section must find the Goldilocks zone; too slow and the energy and excitement is immediately lost; too fast and the whole thing becomes a crumpled, panicky mess.
 
 ## Being clear with the fingers
 
