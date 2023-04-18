@@ -52,7 +52,7 @@ Soprano [Anush Avetisyan](/scene/people/anush-avetisyan/) (billed in the program
 
 [Chad Kranak](/scene/people/chad-kranak/) ("an actor playing Cavaradossi") is ineffective for almost the entire opera and there is zero passion between him and Ms. Avetisyan. The love (and lust) between Cavaradossi and Tosca, which should be the foundation of the entire story,  appears more like the flirtations of teenagers afraid to ask one another to a dance. Mr. Kranak's best moment is when he is alone during "E Lucevan le stelle." Mr. Kranak cuts a sympathetic figure as he sadly awaits execution. Blindfolded and alone on a rooftop surrounded by satellite dishes and air conditioning units, he crawls to a graffiti-covered piece of plywood where he props himself up to deliver the super-famous emotional aria. It could also have been Shadi G's best moment, too, but here once again the policemen are upstage usurpers, lighting cigarettes and making plans while Mr. Kranak sings his heart out.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681780845/media/2023/04/HeartbeatOpera_Tosca_Cavaradossi_HBTOSCA11_f34w9y.jpg){{ % /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681780845/media/2023/04/HeartbeatOpera_Tosca_Cavaradossi_HBTOSCA11_f34w9y.jpg){{% /md %}}
 
 <figcaption>Chad Kranak as "an actor playing Cavaradossi" in Heartbeat Opera's production of Tosca, 2023. Photo: Russ Rowland.</figcaption>  
 </figure>
