@@ -21,7 +21,7 @@ youtube_url = ""
 
 But it's a constant and obvious question: when do adaptations muddle a great opera and when do they enlighten? Director [Shadi G](https://www.shadighaheri.com/) has a political statement to make about the world today and has found a vehicle in one of the greatest works ever composed: Puccini's _Tosca_. The plot of _Tosca_ was originally set in 1800 Rome, but Shadi G sees a parallel and sets her production in modern-day Iran. (Supertitles are in both English and Farsi.) You can understand her impulse; the plot of _Tosca_ involves government corruption, political prisoners, sexual subjugation of women, artists victimized by an autocratic state and the hypocrisy of theocracy. However, even though the finale takes place on a rooftop with a panoramic view of Tehran in the background and assassins in modern dress in the foreground, there is little (if not confusing) connective tissue to Shadi G's concept in the preceding acts. She does change Tosca's line "What a sin! You have undone my hair" to "What a sin! You have seen my hair," a modern reference to the current anti-hijab movement, but otherwise it's the traditional Ilicia and Giacosa libretto which retains the storyline about Napoleon and Rome.
 
-<figure data-type="image"<{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681780508/media/2023/04/HeartbeatOpera_Tosca_ToscaCav_HBTOSCA9_eizduw.jpg){{ % /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681780508/media/2023/04/HeartbeatOpera_Tosca_ToscaCav_HBTOSCA9_eizduw.jpg){{% /md %}}
 
 <figcaption>Anush Avetisyan as Tosca and Chad Kranak as Cavaradossi in Heartbeat Opera's production of Tosca, 2023. Photo: Russ Rowland.</figcaption>  
 </figure>
@@ -30,7 +30,7 @@ Shadi G can only get to her concept by imposing an element which proves to be do
 
 What's more, the "secret police" characters are often placed on stage to completely steal focus from Puccini. There is a balcony above the stage – the very definition of "upstage" – and our eyes are frequently drawn there, such as the moment when a policeman's face is lit up by the screen from his cellphone while he checks his messages. It's rare when supernumeraries take on starring roles, but that's the net effect. From the beginning, they seem to be there to "ruin" what should be great moments – was that Shadi G's intention? On that level, she succeeded.
 
-<figure data-type="image"<{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681780713/media/2023/04/HeartbeatOpera_Tosca_tutti_HBTOSCA10_nfagww.jpg){{ % /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681780713/media/2023/04/HeartbeatOpera_Tosca_tutti_HBTOSCA10_nfagww.jpg){{% /md %}}
 
 <figcaption>Chad Kranak (centre) as Cavaradossi in Heartbeat Opera's production of Tosca, 2023. Photo: Russ Rowland.</figcaption>  
 </figure>
@@ -39,7 +39,7 @@ Tosca herself, who is already the biggest victim in the plot, is victimized furt
 
 Then, when Tosca is supposed to have her greatest moment of triumph after the murder of Scarpia, she isn't allowed to enjoy it but has to fight off the cops who try to pull her into the stairwell. Worst of all, since she’s not really supposed to be Tosca, but an "actress playing Tosca,” the drama is further undercut as she immediately becomes the main participant in a set change by the full company of actors. The set-change gimmick is used at other times – at one point even the conductor (Jacob Ashworth, who is also the Artistic Director) is drafted into service to help move an alter when the cast finds itself shorthanded (this was obviously a "well-rehearsed adlib.")
 
-<figure data-type="image"<{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681780759/media/2023/04/HeartbeatOpera_Tosca_ToscaScarpia_HBTOSCA6_girvr0.jpg){{ % /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681780759/media/2023/04/HeartbeatOpera_Tosca_ToscaScarpia_HBTOSCA6_girvr0.jpg){{% /md %}}
 
 <figcaption>Anush Avetisyan as "an actor playing Tosca" and Gustavo Feulien as "an actor playing Scarpia" in Heartbeat Opera's production of Tosca, 2023. Photo: Russ Rowland.</figcaption>  
 </figure>
@@ -52,7 +52,7 @@ Soprano Anush Avetisyan (billed in the program as "an actor playing Tosca") expe
 
 Chad Kranak ("an actor playing Cavaradossi") is ineffective for almost the entire opera and there is zero passion between him and Ms. Avetisyan. The love (and lust) between Cavaradossi and Tosca, which should be the foundation of the entire story,  appears more like the flirtations of teenagers afraid to ask one another to a dance. Mr. Kranak's best moment is when he is alone during "E Lucevan le stelle." Mr. Kranak cuts a sympathetic figure as he sadly awaits execution. Blindfolded and alone on a rooftop surrounded by satellite dishes and air conditioning units, he crawls to a graffiti-covered piece of plywood where he props himself up to deliver the super-famous emotional aria. It could also have been Shadi G's best moment, too, but here once again the policemen are upstage usurpers, lighting cigarettes and making plans while Mr. Kranak sings his heart out.
 
-<figure data-type="image"<{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681780845/media/2023/04/HeartbeatOpera_Tosca_Cavaradossi_HBTOSCA11_f34w9y.jpg){{ % /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681780845/media/2023/04/HeartbeatOpera_Tosca_Cavaradossi_HBTOSCA11_f34w9y.jpg){{ % /md %}}
 
 <figcaption>Chad Kranak as "an actor playing Cavaradossi" in Heartbeat Opera's production of Tosca, 2023. Photo: Russ Rowland.</figcaption>  
 </figure>
@@ -63,7 +63,7 @@ At ninety minutes, Heartbeat Opera has cut about a half hour from the usual runn
 
 <figure data-type="image"<{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681780912/media/2023/04/HeartbeatOpera_Tosca_Scarpia_HBTOSCA5_g1aerz.jpg){{ % /md %}}
 
-<figcaption"Gustavo Feulian as "an actor playing Scarpia" in Heartbeat Opera's production of Tosca, 2023. Photo: Russ Rowland.</figcaption>  
+<figcaption>"Gustavo Feulian as "an actor playing Scarpia" in Heartbeat Opera's production of Tosca, 2023. Photo: Russ Rowland.</figcaption>  
 </figure>
 
 The designers have all eagerly embraced the director's distractions. The realistic rooftop is well designed by Reid Thompson, but in his Act I church set we can’t take our eyes off the enormous crucifixion painting which serves as the cyclorama backdrop. Lighting designer Oliver Wason has been instructed to light up the policemen at inappropriate times, while his lighting on the principals changes at inexplicable moments. And costume designer Mika Eubanks is tasked with transitioning from early 19th century Rome to 21st century Tehran.  The transition happens in Act II, when Scarpia, dressed like a Roman noble, faces off against Tosca who appears in a black hijab with a silvery cape over a black turtleneck, jeans and combat boots. She's clearly ready for the ensuing battle with Scarpia (boots) or ready to be a superhero (cape.) Tosca is presented as the latter in the final moment as she dramatically, and defiantly, whips the hijab off her head and strikes a pose rather than leaping off the roof (as scripted.) We watch this ostensibly climatic moment from far away, across the distance created by all the aspects of this adaptation.
