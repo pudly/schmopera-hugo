@@ -22,9 +22,9 @@ youtube_url = ""
 
 But it's a constant and obvious question: when do adaptations muddle a great opera and when do they enlighten? Director [Shadi G](https://www.shadighaheri.com/) has a political statement to make about the world today and has found a vehicle in one of the greatest works ever composed: Puccini's _Tosca_. The plot of _Tosca_ was originally set in 1800 Rome, but Shadi G sees a parallel and sets her production in modern-day Iran. (Supertitles are in both English and Farsi.) You can understand her impulse; the plot of _Tosca_ involves government corruption, political prisoners, sexual subjugation of women, artists victimized by an autocratic state and the hypocrisy of theocracy. However, even though the finale takes place on a rooftop with a panoramic view of Tehran in the background and assassins in modern dress in the foreground, there is little (if not confusing) connective tissue to Shadi G's concept in the preceding acts. She does change Tosca's line "What a sin! You have undone my hair" to "What a sin! You have seen my hair," a modern reference to the current anti-hijab movement, but otherwise it's the traditional Ilicia and Giacosa libretto which retains the storyline about Napoleon and Rome.
 
-<figure data-type="image"<{{% md %}}{{ % /md %}}
+<figure data-type="image"<{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681780508/media/2023/04/HeartbeatOpera_Tosca_ToscaCav_HBTOSCA9_eizduw.jpg){{ % /md %}}
 
-<figcaption> in Heartbeat Opera's production of Tosca, 2023. Photo: Russ Rowland.</figcaption>  
+<figcaption>Anush Avetisyan as Tosca and Chad Kranak as Cavaradossi in Heartbeat Opera's production of Tosca, 2023. Photo: Russ Rowland.</figcaption>  
 </figure>
 
 Shadi G can only get to her concept by imposing an element which proves to be downright distracting. She has added to the cast two non-singing members of "the secret police" who are ominously watching the proceedings and who even try, on several occasions, to arrest members of the cast.  Another flimsy aspect of Shadi G's vision is Brechtian: we are told in the program that we aren't really watching _Tosca_ but watching actors who are trying to stage a production of _Tosca_, seemingly in defiance of the government. The politics dominate and become a wall that prevents the audience from experiencing a masterpiece as written.
