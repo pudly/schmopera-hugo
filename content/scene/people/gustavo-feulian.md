@@ -1,16 +1,15 @@
 +++
 discipline = "Baritone"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1681782024/media/2023/04/GustavoFeulian_bgptxy.jpg"
 primary_image_credit = ""
-related_companies = []
+related_companies = ["scene/companies/heartbeat-opera.md", "scene/companies/loftopera.md"]
 slug = "gustavo-feulian"
 social_media = []
 title = "Gustavo Feulian"
 website = "https://www.gustavofeulien.com/"
 
 +++
-Hailed by the New York Times as "rich voiced" and by _Opera News_ for his "interesting and convincing portrayal of Scarpia, most impressive in _Te Deum_" in _Tosca_, Argentinean-American baritone, Gustavo Feulien, continues his career with great success.
+Hailed by the _New York Times_ as "rich voiced" and by _Opera News_ for his "interesting and convincing portrayal of Scarpia, most impressive in Te Deum" in _Tosca_, Argentinean-American baritone, Gustavo Feulien, continues his career with great success.
 
 Most recently, Gustavo performed as Scarpia in _Tosca_ with Maryland Symphony Orchestra and this season he will perform this role with Gulfshore Symphony.
 
