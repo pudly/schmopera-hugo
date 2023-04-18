@@ -22,4 +22,6 @@ template = "social-media"
 url = "https://www.instagram.com/heartbeat_opera/"
 
 +++
-Now entering its third season, founded by four graduates of the Yale School of Drama and Yale School of Music, Heartbeat Opera transforms great works of the operatic canon through visionary adaptations, radical arrangements for chamber ensembles, and intimate, visceral productions that put the singers and the instrumentalists at the center of the work. Heartbeat distills opera to its essence, and cultivates new audiences for the artform.
+## Mission 
+
+Heartbeat Opera creates incisive adaptations and revelatory arrangements of classics, reimagining them for the here and now. Our new, interdisciplinary collaborations expand the boundaries of what opera can be. Grounded in the belief that excellent opera-making should build community and radiate beauty, we work toward an equitable and inclusive future for our art form, centered in love.
