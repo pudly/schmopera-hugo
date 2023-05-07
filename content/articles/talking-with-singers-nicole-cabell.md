@@ -22,7 +22,9 @@ Hanna is a role debut for Cabell, and Lehár's operetta is a departure from her 
 
 Cabell has had a long relationship with [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/), starting with the [Ryan Opera Center](https://www.lyricopera.org/ryanoperacenter) in 2002. She spent three seasons as a young artist, and has since returned for roles like Pamina (*Die Zauberflöte*), Leïla (*Les pêcheurs de perles*), and the Countess in *Le nozze di Figaro*. Cabell now lives in Chicago, and Lyric Opera is "sort of like my home company. It's really nice to live in a city where you can sing at home."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448771198882/2015-11-29---Nicole-Cabell-dress.jpg.jpg)<figcaption>Photo by Erika Dufour.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448771198882/2015-11-29---Nicole-Cabell-dress.jpg.jpg)<figcaption>Photo by Erika Dufour.</figcaption>
 </figure>
 
 ## Travel junkie
@@ -35,7 +37,9 @@ While most singers see travel as an industry perk, for Cabell, it's almost as if
 
 Not everyone has the same attitude, and Cabell knows she's fortunate to thrive off the nomadic lifestyle. "I think if you're sensitive or if you need company all the time, I don't know if it's for you, this career. You have to be really comfortable being alone, and you have to be pretty independent, just kind of fearless in getting by in a foreign country by yourself." It's something that Cabell understood early on about the life of a professional singer, "but I think a lot of people underestimate the amount of independence you have to have, and proactivity."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448771282843/amore-Cabell-denaBofill1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448771282843/amore-Cabell-denaBofill1.jpg.jpg)
 <figcaption>Cabell as Adina, with Àngel Òdena as Belcore, in *L'elisir d'amore*, Gran Teatre del Liceu, 2012. </figcaption>
 </figure>
 
@@ -49,7 +53,9 @@ Violetta in *La traviata* is another of those favoured soprano roles available t
 
 So, what does it feel like to be able to sing Juliette, or Adina, or the Countess? "Each job is like climbing a mountain, it's really challenging. But you get to the top, and there's a real adrenaline rush, and it's kind of an amazing thing to be able to do. And everybody's different; some people just really love the act of singing. I love all of it."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448771132354/LaTraviata-Michigan-Opera-Theater-November-20131.jpg.jpg)<figcaption>Nicole Cabell as Violetta in *La traviata*, Michigan Opera Theater, 2013.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448771132354/LaTraviata-Michigan-Opera-Theater-November-20131.jpg.jpg)<figcaption>Nicole Cabell as Violetta in *La traviata*, Michigan Opera Theater, 2013.</figcaption>
 </figure>
 
 Cabell is a free spirit when it comes to the future of her career. "I want to teach, for sure. I don't know where that's going to fit with the repertoire I get offered. I'm doing things this year I never thought I would do; I never thought I would sing *Alcina*, I never thought I would sing *Merry Widow*." Now, she's reaping the rewards of her exhaustive work, and she has the luxury of choice and curiosity with the roles she takes on. "I'm a lucky person because I can say that I've crossed everything off of my bucket list. Once I sang Mimì in Paris I said, 'Ok, that's it, everything else is just frosting.' I'm in a good place, because I don't have a plan. I know I'm lucky in saying that. I'm very grateful."

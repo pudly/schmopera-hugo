@@ -29,7 +29,9 @@ Our brilliant director, Bill T. Jones, asked probing questions that demanded cle
  
 I think so. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503243543655/2017-08-20---we-shall-not-be-moved-001.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503243543655/2017-08-20---we-shall-not-be-moved-001.jpg.jpg)
 <figcaption>John Little (tenor Daniel Shirley), John Blue (countertenor John Holiday), John
 Mack (baritone Adam Richardson), Un/Sung (spoken word artist Lauren Whitehead), and John Henry (bassbaritone Aubrey Allicock) in front of the boarded-up Osage Avenue home on the site of the 1985 MOVE bombing in Philadelphia. Photograph by Dominic M. Mercier for Opera Philadelphia.</figcaption>
 </figure>
@@ -42,7 +44,9 @@ My music is an amalgam of all the music I listen to and love. From Satie to Sade
  
 For me, Marc's words are full of music. I never have to imagine or find or even "set" his words to music. His hybrid opera, in which spoken-word and spoken-word rhythms are married to operatic singing, felt and feels organic, natural, and frankly, timely. Marc and I, working closely with Bill T. Jones, have created an opera full of a world of ideas, sound, and intrigue. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503243553452/2017-08-20---we-shall-not-be-moved-002.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503243553452/2017-08-20---we-shall-not-be-moved-002.jpg.jpg)
 <figcaption>Composer Daniel Bernard Roumain, director Bill T. Jones, and librettist Marc
 Bamuthi Joseph. Photograph by Dave DiRentis for Opera Philadelphia.</figcaption>
 </figure>

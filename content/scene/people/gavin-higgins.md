@@ -20,6 +20,7 @@ platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/gavin-higgins-music"
 
+_template = "people_single"
 +++
 Described as ‘boldly imaginative’ and ‘extraordinary’, Gavin Higgins has been consistently praised by critics for his distinct and visceral compositional style.
 

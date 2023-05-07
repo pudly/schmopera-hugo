@@ -32,7 +32,9 @@ I get a specific sensation when I hear singing that I enjoy. It happens when cer
 
 In the end, "good singing" is "good communication." Often singers communicate best with beauty of tone, but one can steal a show in other ways. It is most important that a performer is singing as healthily as possible within a given genre. That is what I try to focus on as a voice teacher: healthy singing as a foundation.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547848566/Mitchell%20Hutchings%20Voice%20Lessons%201%20.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547848566/Mitchell%20Hutchings%20Voice%20Lessons%201%20.jpg.jpg)
 <figcaption>Mitchell Hutchings (left) in studio with Alessio Tranchell.</figcaption>
 </figure>
  

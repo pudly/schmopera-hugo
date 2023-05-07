@@ -16,6 +16,7 @@ url = "https://www.facebook.com/TanjaArianeBaumgartner"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Arianetanja"
+_template = "people_single"
 +++
 
 Tanja Ariane Baumgartner made her debut at Covent Garden in the summer of 2013, singing Clairon in Strauss*Cappriccio*, which was followed by Judith in Bartok's *Bluebeard’s Castle* at the Edinburgh Festival. She made her debut at the Deutsche Oper Berlin in May 2014, with Brangaene, and, during the 2014/15 season, will appear at the Hamburg State Opera and Konzertverein in Vienna for the first time. 

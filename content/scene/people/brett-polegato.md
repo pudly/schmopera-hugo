@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Brett-Polegato/112314102114574"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/BrettPolegato"
+_template = "people_single"
 +++
 
 <p>

@@ -25,7 +25,9 @@ youtube_url = ""
 
 **AW:** Yes. I sent them the video of me conducting with Allen playing. I didn’t use a click-track for this chorus which I think was a good choice. Having a metronome slamming your eardrums, in my opinion, is antithetical to music-making. In the end, what you might lack in 100% precision, you get back in feeling.
 
-<figure data-type="video">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/HTbwy2wyudY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/HTbwy2wyudY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -37,7 +39,9 @@ youtube_url = ""
 
 **AW:** The MET made the very courageous decision to do their gala live. You lost some of the technical polish that you can achieve in post-production, but I think it was a good choice.  Seeing all those great artists in their living rooms was about as intimate as you can possibly get. As far as the technical prowess of the Minnesota Opera Chorus, I'll just say that I benefit from having a lot of millennials in my chorus.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589566970/media/2020/05/MNO-SilentLightChorus-collage_bz5mng.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1589566970/media/2020/05/MNO-SilentLightChorus-collage_bz5mng.jpg)
 
 <figcaption>Kevin Puts (right) and Mark Campbell (bottom left), composer and librettist of Silent Night, and Andrew Whitfield (top left), Assistant Conductor and Chorus Master, Minnesota Opera.</figcaption>
 
@@ -55,7 +59,9 @@ youtube_url = ""
 
 **AW:** I think everyone in the costume and scene departments were very inspired by the initiative. It was moving to hear about the reactions of the healthcare workers when they were delivered. And they even sent me two masks, which are not only functional, but also fashionable.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589566954/media/2020/05/MNO-facemasks_pvnxdh.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1589566954/media/2020/05/MNO-facemasks_pvnxdh.jpg)
 
 <figcaption>Protective masks were made by Minnesota Opera costume and scene shop personnel. Over 10,000 masks were distributed to health care workers, assisted-living homes, veterinarians, blood services, shelters, and other places in need. These masks pictured were made for MN Opera board members from material used is costumes for past productions including La Traviata, Carmen, and The Manchurian Candidate. Photo: MN Opera</figcaption>
 
@@ -69,7 +75,9 @@ youtube_url = ""
 
 **AW:** The piece we are working on is called "Light Shall Lift Us". It was premiered in 2016 in memory of the victims of the Pulse nightclub shooting in Orlando, Florida. We have assembled over 100 of the most prominent singers in the business, including Ailyn Perez, Mary Dunleavy, Emily Pulley, Cecilia Lopez, Brenda Rae, Sasha Cooke, Daniela Mack, Jennifer Cano, Joyce Castle, Victoria Livengood, Matthew Polenzani, David Portillo, William Burden, Alek Shrader, Edward Parks, Soloman Howard, and Morris Robinson; all of whom donated their services. Although I look forward to being in front of a live ensemble again, I can't imagine ever having the opportunity to work with a more glittering array of artists.
 
-<figure data-type="video">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/u8A8fIGbYyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/u8A8fIGbYyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 

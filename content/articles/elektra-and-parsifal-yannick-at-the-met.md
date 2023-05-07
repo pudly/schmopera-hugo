@@ -18,7 +18,9 @@ title = "Elektra and Parsifal: Yannick at the MET"
 
 When Yannick made his Met debut on New Year's Eve, 2009, he wrought perhaps the most propulsive *Carmen* prelude ever from the Met orchestra and fuelled crazily impassioned singing from an all-star cast. A few years later, after house triumphs with Verdi, Dvořák and Gounod, and the 2016 announcement of his appointment succeeding James Levine, he led a revelatory account of Wagner's *Der fliegende Holländer* after which he was pelted with flowers from the orchestra pit during his curtain call.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520715859193/CARMEN%20Garanca%20and%20Alagna_0061.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520715859193/CARMEN%20Garanca%20and%20Alagna_0061.jpg.jpg)
 <figcaption>Elina Garanca as Carmen and Roberto Alagna as Don José in Bizet's *Carmen.* Photo: Ken Howard/Metropolitan Opera.</figcaption>
 </figure>
 
@@ -28,7 +30,9 @@ The *Elektra*, of course, is the gloriously grim Patrice Chereau production that
 
 Its revival marks the appearance of [Christine Goerke](/talking-with-singers-christine-goerke/) in the title role. Suffice to say that she is the Elektra for her generation. With a boundless voice, she produces a sound that is creamy but with a frightening bite. She has a forceful sound but never sounds forced. Goerke takes to the exaggerated stage movements with demented gusto. Together with [Elza van den Heever](/talking-with-singers-elza-van-den-heever/) as Chryothemis, Elektra's more adjusted sister, they manage to show where their characters coalesce. The two sopranos bring an unexpectedly familial touch to this vengeful tale. Ms. van den Heever has a magnetic stage presence with strong and clear high notes. She is haunting in her desire for happiness. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520715740877/Elektra_0188_C.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520715740877/Elektra_0188_C.jpg.jpg)
 <figcaption>Elza van den Heever (background) as Chrysothemis and Christine Goerke in the title role of Strauss' *Elektra.* Photo: Karen Almond/Met Opera.</figcaption>
 </figure>
 
@@ -36,7 +40,9 @@ If Klytämnestra and Agamemnon did anything right, they raised articulate childr
 
 It is with Michaela Schuster's Klytämnestra that the full breadth of his conducting comes into play. While capably sung and with moments of breathy suffering, Ms. Schuster lacks the sense of decay and inner torment about which she sings in her scene with Elektra. She moves with such regal élan that it is hard to believe in her tortured soul. But her anguish is in the music and this is where Yannick shapes a sound that completes the character in the orchestra pit when it isn't quite happening on stage.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520715778373/_KA39701_C.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520715778373/_KA39701_C.jpg.jpg)
 <figcaption>Michaela Schuster as Klytämnestra in Strauss' *Elektra.* Photo: Karen Almond/Met Opera.</figcaption>
 </figure>
 
@@ -44,7 +50,9 @@ He did much the same thing for Klaus Florian Vogt who sang the title role in *Pa
 
 When Wagner's perfect fool is adrift, Yannick reels him in. It's critical that he does so because with a running time of just under six hours including two intermissions, even the most rapt audience may cease to care. But Yannick calls on orchestral forces of startling delicacy one moment and undulating dynamics the next. We are transported to Parsifal's world of compassion, transcendence, and redemption. Influenced perhaps by the allure of the projected planets and surreal vistas that serve as a subtly changing backdrop, we can imagine seeing the shape of the sound that Yannick and the orchestra create. It hovers over the orchestra pit. We are in a cerebral and spiritual world rather than a literal time and place. The impact is staggering and it becomes less evident in this instance, the character of Parsifal is not. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520715812457/PARS_1078a.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520715812457/PARS_1078a.jpg.jpg)
 <figcaption>Klaus Florian Vogt in the title role and René Pape as Gurnemanz in Wagner's *Parsifal.* Photo: Ken Howard/Metropolitan Opera.</figcaption>
 </figure>
 
@@ -52,7 +60,9 @@ Of course, Yannick and the orchestra are not alone. Principals from the 2013 pro
 
 Ms. Herlitzius' sang Kundry with wild emotional abandon and a vocal technique so refined that she appeared not to have one. Her sound may have struck Met audiences as unusual but it is one we will grow to appreciate the more we hear it. Perhaps it was unfair to imagine Herlitizius as Elektra while she was singing Kundry but *Parsifal* leaves room for such musings.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520715849225/PARS_0580a.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520715849225/PARS_0580a.jpg.jpg)
 <figcaption>Evelyn Herlitzius as Kundry in Wagner's *Parsifal.* Photo: Ken Howard/Met Opera.</figcaption>
 </figure>
 
@@ -60,7 +70,9 @@ With this production, Girard's brings a vast grayness to the Met stage. A sea of
 
 In the 2018-19 Met season, Yannick will helm a new production of *La Traviata* and revivals of the atmospheric *Pelléas et Mélisande* and the powerful John Dexter production of *Dialogues des Carmélites*. His cheerful proclamation to move the Met out of its comfort zone will begin to unfold as his artistic control increases. Frankly, many have been waiting on the edge of their seats for this to happen. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520715710392/yannick-2--Hans-van-der-Woerd.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520715710392/yannick-2--Hans-van-der-Woerd.jpg.jpg)
 <figcaption>Yannick Nézet-Séguin. Photo: Hans van der Woerd.</figcaption>
 </figure>
 

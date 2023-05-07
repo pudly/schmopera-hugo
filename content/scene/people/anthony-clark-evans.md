@@ -8,6 +8,7 @@ publishDate = "2017-09-10T11:50:00-04:00"
 related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/san-diego-opera.md"]
 slug = "anthony-clark-evans"
 title = "Anthony Clark Evans"
+_template = "people_single"
 +++
 
 Rising American baritone Anthony Clark Evans makes major debuts in the 2016-2017

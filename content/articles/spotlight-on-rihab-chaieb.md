@@ -27,7 +27,9 @@ When you're in "the zone" of good singing, it's almost like doing yoga or hittin
 
 I also get a feeling of invincibility. When your body and soul are open, yet strong, nothing is pushed, everything is *sul fiato*, it feels like you can sing forever, no matter what range. But good singing is also musicality, diction, pathos in the voice, and most important of all, uniqueness and honesty of self and voice. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496411512382/2017-06-02---Chaieb-2---Fox.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496411512382/2017-06-02---Chaieb-2---Fox.jpg.jpg)
 <figcaption>Rihab Chaieb, mezzo-soprano. Photo by Fay Fox.</figcaption>
 </figure>
 
@@ -49,7 +51,9 @@ I would also love to tackle the Handel's primo pants roles of Xerxes, Ruggiero (
 
 Unrealistically (but a gal can dream, right?): Amneris in *Aida* (Cossotto also sang Cherubino, just FYI), Salome (Maria Ewing sang it!), Maria Stuarda (her strength of character is just unmatched for me, and the music is to die for), Queen of the Night (my dream role after having done one singing lesson ever. I hit the reality wall soon after!), Brünnhilde, Elekra AND Elettra in *Idomeneo*. Basically, just bad-ass bitches.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496411524912/2017-06-02---Rihab-Chaieb---Fay-Fox.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496411524912/2017-06-02---Rihab-Chaieb---Fay-Fox.jpg.jpg)
 <figcaption>Rihab Chaieb, mezzo-soprano. Photo by Fay Fox.</figcaption>
 </figure>
 

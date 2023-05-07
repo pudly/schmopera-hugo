@@ -25,7 +25,9 @@ The concert will be streamed [at this link](https://www.operainreach.com/artforp
 
 "Exploring themes of resilience, hope, and justice, Art for Peace aims to raise funds for Ukrainian individuals in need while also demanding peace in Ukraine," [Opera InReach](/scene/companies/opera-inreach/) says of _Art For Peace_. The concert is also supported by the Ukrainian Art Song Project, [Tapestry Opera](/scene/companies/tapestry-opera/), [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/), and individual international artists.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647013941/media/2022/03/OperaInReachAdministrationTeam_DaevydPepperAndrewAdridgeDanielaAgostino-DanielDenino_cka8q6.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1647013941/media/2022/03/OperaInReachAdministrationTeam_DaevydPepperAndrewAdridgeDanielaAgostino-DanielDenino_cka8q6.jpg)
 
 <figcaption>Opera InReach administrative team (l-r): Daevyd Pepper, Andrew Adridge, and Daniela Agostino. Photo: Daniel Denino.</figcaption>  
 </figure>

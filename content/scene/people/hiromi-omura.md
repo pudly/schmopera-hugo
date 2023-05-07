@@ -8,6 +8,7 @@ related_companies = ["scene/companies/manitoba-opera.md","scene/companies/lopra-
 slug = "hiromi-omura"
 title = "Hiromi Omura"
 website = "http://www.hiromiomura.com/"
+_template = "people_single"
 +++
 
 Hiromi Omura was born in Tokyo, Japan. After obtaining her Master of Arts in singing at the Tokyo National University of Fine Arts and Music, she moved to Italy, training in Mantua and Milan. She then transferred to France to join the Opera Studio CNIPAL in Marseille.

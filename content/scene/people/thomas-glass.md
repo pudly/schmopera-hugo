@@ -16,6 +16,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UC2vttQYxCsUcl_ho5FHhLcg"
 
+_template = "people_single"
 +++
 Baritone Thomas Glass is a 2018-2019 Studio Artist at Houston Grand Opera, where this season he makes his role debut as Marcello in _La bohème_, Alvaro in _Florencia en el Amazonas_ and covers the title role in _Don Giovanni_. 
 

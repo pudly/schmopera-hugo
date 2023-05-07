@@ -8,6 +8,7 @@ related_companies = ["scene/companies/royal-opera-house.md","scene/companies/deu
 slug = "artur-rucinski"
 title = "Artur Ruciński"
 website = "http://arturrucinski.com/"
+_template = "people_single"
 +++
 
 Baritone Artur Ruciński belongs to a select group of Polish opera singers who have risen to international fame in recent years.

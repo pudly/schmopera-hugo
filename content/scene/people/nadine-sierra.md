@@ -22,6 +22,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/nadinecsierra"
 
+_template = "people_single"
 +++
 "Her voice with its pure, incisive and delicate timbre radiates tenderness in the middle register, while she floats her golden high register to the limits of audibility." _– Le Monde_
 

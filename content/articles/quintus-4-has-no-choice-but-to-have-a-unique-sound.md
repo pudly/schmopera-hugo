@@ -20,7 +20,9 @@ title = "Quintus 4 &quot;has no choice but to have a unique sound.&quot;"
 
 **Rich Coburn**: We're pioneering a new way to create a concert, as well as to share content. We do this by building brand new artistic and business models. Many of the greatest challenges to traditional classical music organizations are actually advantageous to us!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513610525004/2017-11-30---Quintus-4---2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513610525004/2017-11-30---Quintus-4---2.jpg.jpg)
 <figcaption>The members of Quintus 4, l-r: Juan Sebastian Delgado, Suzanne Kantorski, Krystina Marcoux, and Rich Coburn.</figcaption>
 </figure>
 
@@ -40,7 +42,9 @@ Our premier program — [*Tresillo*](https://www.quintus4.com/tresillo/) — is 
 
 Consider the massive podcast industry. A big slice of that pie is podcasts about things that we may not even have been interested in before we started the episode. Yet they bring entertainment and often educational value to the consumer. Q4 wants our program notes, blogs and videos, to meet this same standard; they need to be engaging and they need to present a unique perspective or opinion that our public isn't going to find somewhere else. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513610481193/Quintus-headshots.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513610481193/Quintus-headshots.jpg.jpg)
 <figcaption>Suzanne Kantorski, soprano, and Rich Coburn, pianist/composer.</figcaption>
 </figure>
 

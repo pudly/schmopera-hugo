@@ -8,6 +8,7 @@ social_media = []
 title = "Gregory Warren"
 website = "http://www.gregorywarrentenor.com/"
 
+_template = "people_single"
 +++
 Gregory Warren’s career had its first spark in the opera world when he was chosen to be a part of the Placido Domingo - Cafritz program. There he was able to grow as an artist under the care of Maestro Domingo and all the talented musicians at Washington National Opera. Mr. Warren also had the opportunity to be part of The Santa Fe Opera Apprentice program in the summers of 2005-2007 where he studied under famous instructors, coaches and musicians.  
    

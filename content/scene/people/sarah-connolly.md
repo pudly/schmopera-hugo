@@ -12,6 +12,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/spconnolly"
 
+_template = "people_single"
 +++
 Born in County Durham, Sarah Connolly studied piano and singing at the Royal College of Music, of which she is now a Fellow. She was made a DBE in the 2017 Birthday Honours, having previously been made a CBE in the 2010 New Year’s Honours. In 2011 she was honoured by the Incorporated Society of Musicians and presented with the Distinguished Musician Award. She is the recipient of the Royal Philharmonic Society’s 2012 Singer Award.  
    

@@ -24,6 +24,7 @@ url = "https://www.youtube.com/user/toypianocomposers"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/toypianocomposers"
+_template = "company_single"
 +++
 
 The Toy Piano Composers is a collective of emerging composers based in Toronto, Canada, who present imaginative new music to curious listeners in a playful and engaging concert series.

@@ -16,6 +16,7 @@ url = "https://www.facebook.com/anitarachvelishvili2000"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/anitarachveli"
+_template = "people_single"
 +++
 
 Anita Rachvelishvili was born in Tbilisi, the capital of Georgia. She at first studied piano at the Mukhran Machavariani School and then singing at the Vano-Sarajishvili Conservatory with Manana Egadze. She received a stipend from the president of Georgia, Mikheil Saakashvili, and in 2007 won the Paata Burchuladze Prize. While still a student at the conservatory, she debuted at the Opera in Tblisi as Maddalena in *Rigoletto* and as Olga in *Eugen Onegin*, subsequently joining the ensemble of the theater in the fall of 2006. In 2007 she was invited to join the Accademia at the Teatro alla Scalla, it was there she was heard by Daniel Barenboim, who then invited her to star in the new production of Carmen which opened the 2009/2010 La Scala Season.

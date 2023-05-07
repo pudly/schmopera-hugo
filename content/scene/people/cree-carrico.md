@@ -16,6 +16,7 @@ url = "https://www.facebook.com/creealysecarrico"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CreeCarrico"
+_template = "people_single"
 +++
 
 <p>

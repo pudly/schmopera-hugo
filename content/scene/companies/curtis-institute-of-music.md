@@ -16,6 +16,7 @@ url = "https://www.facebook.com/CurtisInstitute"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CurtisInstitute"
+_template = "company_single"
 +++
 
 <p>

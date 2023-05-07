@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/miriam.costajackson/"
 
+_template = "people_single"
 +++
 Italian-American lyric coloratura soprano Miriam Costa-Jackson is the youngest of the Costa Jackson Sisters. She has been engaged in music from a very young age, performing with the Utah Festival Opera in Verdi’s _Rigoletto,_ Lerner & Loewe’s _Brigadoon,_ and Mendelssohn’s _Elijah._ In the 2019 season, Miriam appeared as Clorinda in Seattle Opera’s production of _La Cenerentola_, followed by a Three Singing Sisters concert at McCaw Hall, Seattle. She made her professional debut with Phoenicia Festival as Micaëla in Bizet’s _Carmen_ in 2018. Other roles include Die Königin der Nacht in Mozart’s _Die Zauberflöte,_ Magda in Puccini’s _La Rondine_, and Rosita in Torroba’s _Luisa Fernanda._
 

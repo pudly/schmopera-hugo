@@ -17,6 +17,7 @@ url = "https://www.facebook.com/cassandra.warner.37"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/operacass/"
+_template = "people_single"
 +++
 
 Hailed by critics as a “powerful mezzo” and “sensory epiphany”, Canadian opera singer Cassandra Warner has garnered international acclaim. With a diverse array of performing experience in opera, concert, international competition and specialty events, she has appeared with such high profile companies as Opera Atelier of Toronto, Vancouver Opera, Calgary Opera, and Opera Toulon of France. She has performed such roles as Dorabella in *Cosi fan tutte*, Second Lady in *The Magic Flute*, Rose Maurrant in *Street Scene*, Maddalena in *Rigoletto*, The Saloon Singer in *The Inventor*, Carmen in *La Tragedie de Carmen* and the title role of *Cendrillon* in the Glenn Gould School's *Cendrillon* at Koerner Hall.

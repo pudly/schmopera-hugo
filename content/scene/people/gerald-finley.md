@@ -17,6 +17,7 @@ url = "https://www.facebook.com/OfficialGeraldFinley"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/GeraldFinley"
+_template = "people_single"
 +++
 
 <p>

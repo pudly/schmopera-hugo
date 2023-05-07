@@ -21,7 +21,9 @@ youtube_url = ""
 
 Since I was a child I wanted to work in a theater. I also loved music and took it seriously, and I was attracted to musical challenges. When I really feel like I am at my best usually it's because both these early urges are being satisfied equally: the creative side of inventing and exploring a character, and the cerebral side of discipline, language, and making music with many people at the same time.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572463278/media/2019/10/OperaAtelier-DonGiovanni_w0bim8.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572463278/media/2019/10/OperaAtelier-DonGiovanni_w0bim8.jpg)
 
 <figcaption>Douglas Williams in the title role of Opera Atelier's production of Don Giovanni, 2019. Photo: Bruce Zinger.</figcaption>
 
@@ -41,7 +43,9 @@ It's not that I would defend all of his actions if Don Giovanni were a real pers
 
 That's the power of the anti-hero. To be enthralled and conflicted by someone who is so sexy and so corrupt. It's easy to do a production of Don Giovanni the monster. It's harder but a more incisive portrayal, I think, to do Don Giovanni the rogue that we are desperate to be, or to be with, even if all along hoping to see punished.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572463266/media/2019/10/OperaAtelier-DonGiovanni-DouglasWilliams-BruceZinger_py3t1j.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572463266/media/2019/10/OperaAtelier-DonGiovanni-DouglasWilliams-BruceZinger_py3t1j.jpg)
 
 <figcaption>Douglas Williams in the title role of Opera Atelier's production of Don Giovanni, 2019. Photo: Bruce Zinger.</figcaption>
 
@@ -59,7 +63,9 @@ I don't know, however, if #metoo applies entirely to Don Giovanni as I have desc
 
 Don Giovanni isn't leveraging career possibilities, undesired incentives, or even physical force to ensnare them. It's not so black-and-white. The dramatic interest in this opera occurs in this tense grey zone of desire and repulsion. That story, while not as topical, is actually even more relatable to the human condition. Because it's about being hurt and hurting others in a way that is inseparable from any love story. And the shame that comes with all of that.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572463241/media/2019/10/OperaAtelier-DonGiovanni-DouglasWilliams-CarlaHuhtanen-ColinAinsworth-MireilleAsselin-BruceZinger_q2h41m.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572463241/media/2019/10/OperaAtelier-DonGiovanni-DouglasWilliams-CarlaHuhtanen-ColinAinsworth-MireilleAsselin-BruceZinger_q2h41m.jpg)
 
 <figcaption>(l-r) Douglas Williams (Don Giovanni), Carla Huhtanen (Donna Elvira), Colin Ainsworth (Don Ottavio), and Meghan Lindsay (Donna Anna) in Opera Atelier's production of Don Giovanni, 2019. Photo: Bruce Zinger.</figcaption>
 
@@ -79,7 +85,9 @@ So as a young man I felt like I needed to achieve a certain seriousness or a cer
 
 I try to bring it all into my identity as a singer today. No surprise that it's useful to me and more interesting to others.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572373225/media/2019/10/DouglasWilliams-JuanCamiloRoa_zhp5zj.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572373225/media/2019/10/DouglasWilliams-JuanCamiloRoa_zhp5zj.jpg)
 
 <figcaption>Douglas Williams, baritone. Photo: Juan Camilo Roa.</figcaption>
 

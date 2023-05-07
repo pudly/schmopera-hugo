@@ -32,7 +32,9 @@ There's a quartet at the end of the first act when many of the opera's previous 
 
 The moment I enjoy most though, is again in Act II, when Young Alyce sings a letter she has written to Young Jim after he is first stationed in Vietnam.  The letter is filled with optimism and love, and it captures those small mundane details of life that so often touch our hearts most deeply.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478100752974/2016-11-02---Tom-Cipullo.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478100752974/2016-11-02---Tom-Cipullo.jpg.jpg)
 <figcaption>Tom Cipullo, composer, *Glory Denied*.</figcaption>
 </figure>
 

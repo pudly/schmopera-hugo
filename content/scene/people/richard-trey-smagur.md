@@ -16,6 +16,7 @@ url = "https://www.facebook.com/richard.smagur/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/watch?v=Xb_OzPRfcIc"
+_template = "people_single"
 +++
 
 Richard Smagur, of Clarkesville, Georgia, was named a winner in the

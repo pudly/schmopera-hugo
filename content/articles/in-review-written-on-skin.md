@@ -21,7 +21,9 @@ title = "In Review: Written On Skin"
 <p>
 	<a href="http://www.barbarahannigan.com/" target="_blank">Barbara Hannigan</a> sang the role of Agnès (also in the Aix-en-Provence and London premieres), and I loved how the lines seemed blurred between what Hannigan sang and what Benjamin wrote. Agnès and Hannigan seemed entirely one person, even without a physical world created by sets and costumes. I was totally drawn in to what I thought was going to be a <em>femme fatale</em>-type of character, manipulating young men into her bed because she's bored. By the end of the opera, I realized how limiting it would be to be a <em>femme fatale</em>in 13th-century, and that Agnès was really just a trapped, under-stimulated woman, perhaps at the end of her rope when it came to bottling up her own needs and desires. I won't say there wasn't something dangerous about Agnès, and Hannigan found all the right moments to remind us that her character wasn't angelic. Vocally, Hannigan was in top form, using an enormous colour palette of sounds. She had some extraordinarily grand moments of singing, but I think some of my favourite moments came in Agnès weaknesses. There's an <em>incredible</em> scene where The Protector reads aloud a letter from The Boy about his sexual encounter with Agnès; Agnès can't read, and the desperation in her voice, the fear of being beholden to someone she distrusts for important information, that was moving for me.
 </p>
-<figure data-type="image">{{% md %}}<a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428720451645/Christopher_PurvesCliveBarda-683x1024.jpg"><img data-resize-src="http://lh3.googleusercontent.com/lyoGAr0j1LZ8CIhNb3Vkvxo2ORK0v5UnrJeQE6IoqpQbGntK4s22Ec7Hy6gV2rojUN47mEqxXsygnrWbx4J6F-OHjgQ" src="http://lh3.googleusercontent.com/lyoGAr0j1LZ8CIhNb3Vkvxo2ORK0v5UnrJeQE6IoqpQbGntK4s22Ec7Hy6gV2rojUN47mEqxXsygnrWbx4J6F-OHjgQ=s1200"></a>
+<figure data-type="image">
+
+<a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428720451645/Christopher_PurvesCliveBarda-683x1024.jpg"><img data-resize-src="http://lh3.googleusercontent.com/lyoGAr0j1LZ8CIhNb3Vkvxo2ORK0v5UnrJeQE6IoqpQbGntK4s22Ec7Hy6gV2rojUN47mEqxXsygnrWbx4J6F-OHjgQ" src="http://lh3.googleusercontent.com/lyoGAr0j1LZ8CIhNb3Vkvxo2ORK0v5UnrJeQE6IoqpQbGntK4s22Ec7Hy6gV2rojUN47mEqxXsygnrWbx4J6F-OHjgQ=s1200"></a>
 <figcaption>Baritone Christopher Purves. Photo: Clive Barda</figcaption>
 </figure>
 <p>
@@ -31,7 +33,9 @@ title = "In Review: Written On Skin"
 	As The Boy, countertenor 
 	<a href="http://www.bernhard-landauer.at/" target="_blank">Bernhard Landauer</a> was beautifully passive. The Boy was easily manipulated into bed by Agnès (perhaps there was willingness there, too); when he writes about their affair for The Protector to read, it felt like one of those good deeds done by naïve people who don't know that they're in over their heads. I loved that Benjamin wrote the character of The Boy as a countertenor; the youth and frailty are exaggerated, and the possibility of real, reciprocal sexual energy between he and Agnès are minimized.
 </p>
-<figure data-type="image">{{% md %}}<a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428720509033/SzaboBoHuang_Fotor-681x1024.jpg"><img data-resize-src="http://lh3.googleusercontent.com/9ugsfo9ss7Y5pOYZWvThWv1ei76j0DYPA4svu_TTQhSoQcp3esbSjYhk5_7P5xEMw0d8qdj-zyRWRQxIuxSgRQAGCEIK8Q" src="http://lh3.googleusercontent.com/9ugsfo9ss7Y5pOYZWvThWv1ei76j0DYPA4svu_TTQhSoQcp3esbSjYhk5_7P5xEMw0d8qdj-zyRWRQxIuxSgRQAGCEIK8Q=s1200"></a>
+<figure data-type="image">
+
+<a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428720509033/SzaboBoHuang_Fotor-681x1024.jpg"><img data-resize-src="http://lh3.googleusercontent.com/9ugsfo9ss7Y5pOYZWvThWv1ei76j0DYPA4svu_TTQhSoQcp3esbSjYhk5_7P5xEMw0d8qdj-zyRWRQxIuxSgRQAGCEIK8Q" src="http://lh3.googleusercontent.com/9ugsfo9ss7Y5pOYZWvThWv1ei76j0DYPA4svu_TTQhSoQcp3esbSjYhk5_7P5xEMw0d8qdj-zyRWRQxIuxSgRQAGCEIK8Q=s1200"></a>
 <figcaption>Mezzo-soprano Krisztina Szabó. Photo: Bo Huang.</figcaption>
 </figure>
 <p>

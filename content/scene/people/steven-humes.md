@@ -8,6 +8,7 @@ related_companies = ["scene/companies/lynx-project.md"]
 slug = "steven-humes"
 title = "Steven Humes"
 website = "http://stevenchumes.weebly.com/"
+_template = "people_single"
 +++
 
 An operatic performer, passionate music educator, and instinctive conductor, Steven Humes has already experienced a diverse musical career.  

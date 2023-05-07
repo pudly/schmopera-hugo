@@ -43,7 +43,9 @@ I caught up with him on Saturday on break from his rehearsal for a little catch-
 
 **Giles**: Another Dean Burry show! I head back to Cape Breton Island for another run of *The Bells of Baddeck*. We literally close *The Hobbit* on Sunday and on Monday I'll be flying out there. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465291556659/2016-06-07---Giles-Hobbit.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465291556659/2016-06-07---Giles-Hobbit.jpg.jpg)
 <figcaption>The CCOC rehearses The Hobbit with Giles Tomkins. Photo: Gregory Finney.</figcaption>
 </figure>
 

@@ -20,6 +20,7 @@ url = "https://twitter.com/devguthrie"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/devon_guthrie/"
+_template = "people_single"
 +++
 
 American soprano Devon Guthrie made an acclaimed debut as Susanna in a new production of *Le nozze di Figaro* at English National Opera when she was still a student at the Juilliard School.

@@ -7,6 +7,7 @@ publishDate = "2016-12-05T12:41:00+00:00"
 related_companies = ["scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/hungarian-state-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opera-australia.md"]
 slug = "gabor-bretz"
 title = "Gábor Bretz"
+_template = "people_single"
 +++
 
 Gábor Bretz was born in Budapest, where he still regularly performs with the Hungarian State Opera. He began his vocal training with Stephan Czovek in Los Angeles, and subsequently studied at the Béla Bartók Conservatory of Music and the Franz Liszt Academy of Music. Gábor has also attended master classes with Julia Hamari, Ralf Doring, Eva Marton and Yevgeni Nesterenko. He was awarded the Cesare Bardelli prize at the 2004 Viotti International Singing Competition, and was the winner of the 2005 Maria Callas Grand Prix Competition in Athens.

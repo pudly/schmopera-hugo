@@ -33,7 +33,9 @@ I feel like I understand Donna Anna quite a lot. I think she is a strong charact
 
 I also feel like I've always connected with Norma's character. She, like Donna Anna, is a strong woman, caught in the politics of her situation. Even though she is the one in charge of the Druids, she is still expected to maintain decorum regarding her sexual life and especially with those in the enemy camp. She is a bit impulsive and falls in love deeply and quickly, and so when she is burned by Pollione the flames of betrayal, hurt, pain and desperation engulf her. She has given everything to him and in the process could have lost everything, but she was willing to do it; and like so many men, even now, Pollione got what he wanted and left.  
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494371135282/2017-05-09---Angela_Meade_credit_Dario_Acosta.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494371135282/2017-05-09---Angela_Meade_credit_Dario_Acosta.jpg.jpg)
 <figcaption>Angela Meade, soprano. Photo by Dario Acosta.</figcaption>
 </figure>
 

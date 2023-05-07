@@ -26,7 +26,9 @@ TSO closed the first half with Bartók's *Music for Strings, Percussion and Cele
 
 And then after the intermission...
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497537354460/2017-06-14---Peter-Oundjian-Wallis-Giunta-Jennifer-Nichols-Jag-Gundu.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497537354460/2017-06-14---Peter-Oundjian-Wallis-Giunta-Jennifer-Nichols-Jag-Gundu.jpg.jpg)
 <figcaption>Peter Oundjian, Wallis Giunta (centre), and Jennifer Nichols in Kurt Weill's *Seven Deadly Sins*, TSO. Photo: Jag Gundu.</figcaption>
 </figure>
 

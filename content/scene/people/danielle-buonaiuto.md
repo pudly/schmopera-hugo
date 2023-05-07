@@ -13,6 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/daniellesings"
 
+_template = "people_single"
 +++
 Danielle Buonaiuto’s performances have been praised for their “terrific clarity and color” (Baltimore Sun), her “entrancing and fluid” singing (DC Metro Theatre Arts), and her “ethereal vocals” that reveal “exquisite vocal technique and luscious colors” (_OperaWire_).
 

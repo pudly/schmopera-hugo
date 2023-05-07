@@ -22,7 +22,9 @@ My parents love opera and brought me to my first opera at the age of seven. I sa
 
 Despite my background in violin, literature, and theatre, I had never considered becoming an operatic stage director. As an actor working at the Williamstown Theatre Festival, I met stage director Darko Tresnjak, who became my mentor. It was he who suggested I follow this career path, and I was open to the possibility. I decided to pursue it with singular vision, and I am happy every day that I get to practice this art form, which continues to stretch and challenge me on a daily basis. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438114115566/MarvelSalomeToledo.jpg.jpg)<figcaption>A scene from Marvel's production of *Salome* at Toledo Opera.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438114115566/MarvelSalomeToledo.jpg.jpg)<figcaption>A scene from Marvel's production of *Salome* at Toledo Opera.</figcaption>
 </figure>
 
 ### 2. In opera, what is difficult about your job? What's easy? 
@@ -35,7 +37,9 @@ I find the rest of my job to be easy. Preparing a production concept with the de
 
 My first objective is always to honor and respect the spirit of the composer’s work. I also believe it is essential to respect, challenge, and delight the audience. They have honored us with their presence and support, and I want every show I direct to be something they remember for the rest of their lives. I want to challenge and uplift them without ever pandering or being pedantic. I also believe it to be of the utmost importance to respect the companies who have entrusted me with the profound responsibility of creating a product that will be appealing to their audiences. I have no tolerance for self-indulgent productions that alienate their audiences and therefore create a need for companies to rebuild trust with their audiences. It’s bad for business and benefits no one. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438114136363/MarvelZaideWolfTrap.jpg.jpg)<figcaption>A scene from Marvel's *Zaïde* at Wolf Trap Opera. Photo: Eric Melear.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438114136363/MarvelZaideWolfTrap.jpg.jpg)<figcaption>A scene from Marvel's *Zaïde* at Wolf Trap Opera. Photo: Eric Melear.</figcaption>
 </figure>
 
 My responsibility to my cast is to create a vivid, visceral, and dynamic artistic product that allows them to shine as individuals and as an ensemble. Singers are the CEO’s of their own business as well. They work diligently to create a brand that is synonymous with excellence. If a certain concept doesn’t work for a singer, they will never be able to commit to the concept with the kind of dedication and investment that is necessary to create a world-class artistic offering. Therefore respect, dialogue, diplomacy, and compromise are essential components in creating any successful artistic endeavor. 
@@ -46,7 +50,9 @@ All opera companies require vision both artistically and fiscally in order to su
 
 A far greater sin than economic failure is the failure to understand that our art is not valuable unless it is relevant. Discovering what is relevant to our audience, our community, and our industry should be the driving passion of all performing arts organizations. I believe we are in the midst of a new renaissance. New operatic works are being written and performed with ever-increasing frequency. It has already been seven years since the reality of the “new” economy took hold. The resulting artistic outpouring has been more of a bang than a whimper. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438114148488/MarvelLucretiaTennessee.jpg.jpg)<figcaption>A scene from Marvel's *The Rape of Lucretia* at the University of Tennessee. Photos: S Katy Tucker and Chelsea Marlow.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438114148488/MarvelLucretiaTennessee.jpg.jpg)<figcaption>A scene from Marvel's *The Rape of Lucretia* at the University of Tennessee. Photos: S Katy Tucker and Chelsea Marlow.</figcaption>
 </figure>
 
 ### 5. Do you have a "bucket list" opera that you'd love to direct? Why? 

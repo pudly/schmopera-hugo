@@ -22,6 +22,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/arturochaconcruz/"
 
+_template = "people_single"
 +++
 Arturo Chacón-Cruz, a native of Sonora, Mexico, has established himself in recent years as a leading tenor with exciting appearances in renowned theaters and concert halls across the globe. He has sung over 50 roles in more than 25 countries.
 

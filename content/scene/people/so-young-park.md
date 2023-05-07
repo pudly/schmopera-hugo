@@ -9,6 +9,7 @@ social_media = []
 title = "So Young Park"
 website = "http://www.sopranosoyoung.com/"
 
+_template = "people_single"
 +++
 A native of South Korea, So Young Park thrills audiences with her “stunning” (LA Times) and “dead-accurate” (New York Times) voice. Recently she made her Metropolitan Opera debut as the Queen of the Night in _The Magic Flute_ and New York Philharmonic with performing the Queen’s iconic aria. For the upcoming engagements, Ms. Park will make her company debut as Setsuko in _An American Dream_ with Lyric Opera of Chicago, return to LA Opera to perform the Queen in _Magic Flute_, and Houston Grand Opera for the same role. 
 

@@ -24,6 +24,7 @@ url = "https://www.instagram.com/operaontap/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/operaontap"
+_template = "company_single"
 +++
 
 ### History

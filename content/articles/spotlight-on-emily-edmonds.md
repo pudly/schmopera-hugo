@@ -36,7 +36,9 @@ The moments of bliss are: the moment of empathy; the moment when somewhere in th
 
 It's hard. And scary. But worth it. I don't get it right every day. I don't get it right every second day. But when the point becomes not to be perfect, but instead to front up and give as much of your open self as possible on any given day - then that becomes something else. That becomes something worth doing, worth making, and something that will endure. It becomes humans in a room doing their best to be courageous, to give of their innermost selves. And that, surely, has to be the point.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498801944169/2017-06-28---Emily-Edmonds-Portrait-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498801944169/2017-06-28---Emily-Edmonds-Portrait-2.jpg.jpg)
 <figcaption>Emily Edmonds, mezzo-soprano.</figcaption>
 </figure>
 

@@ -39,20 +39,26 @@ As familiar as Puccini can get for any opera-goer, shows like *Il tabarro* remin
 
 *Suor Angelica* unfolds in Miriam Buether's sterile set, depicting a children's hospital run by the nuns. There was a church-like arc that shaped this hospital, and in contrast to the expansive street scene of *Il tabarro*, this set seemed too small, too confining. The story is just as claustrophobic, one where even without the historically oppressive presence of men, women still can't seem to find freedom. The powerful women were almost eerily so; Irina Mishura as the Abbess, Elena Zilio as the Monitress, and Anna Larsson as the Princess, they were all terrifying in voice and demeanour. Who needs mean men when you've got mean women, right? Larsson was particularly great at making our skin crawl, especially with the full fox pelt she brought as her primary accessory.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457094702069/Suor-2.jpg.jpg)<figcaption>Ermonela Jaho as Sister Angelica. Copyright: ROH. Photographer: Bill Cooper.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457094702069/Suor-2.jpg.jpg)<figcaption>Ermonela Jaho as Sister Angelica. Copyright: ROH. Photographer: Bill Cooper.</figcaption>
 </figure>
 
 As it should be, [Ermonela Jaho](/scene/people/ermonela-jaho/) was entirely heartbreaking as Suor Angelica. She stood out among the sea of identically dressed nuns almost immediately, with an air of calmness that somehow felt too wise for a Sister. Jaho was stunning throughout, and she managed to unveil a long familial history in her infamous scene with her aunt, the Princess. Her soft singing in "Senza mamma" could have been straight from a lullaby to a sleeping child, and it made her outbursts hurt even more. 
 
 Jaho's voice cut right through us; she had an enormous sound in the house, and she didn't hold back from letting wildness into her sound when the story needed it. Her curtain call was almost as affecting as her performance; it was a candid moment where the singer has put everything into a role, and she feels the audience recognize and appreciate it. It was a special moment, and one that brought us closer to the story, even in hindsight.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457094685004/Suor-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457094685004/Suor-1.jpg.jpg)
 <figcaption>Anna Larsson as The Princess, Ermonela Jaho as Sister Angelica. Copyright: ROH. Photographer: Bill Cooper.</figcaption>
 </figure>
 
 After all the tears, there's nothing left to do but laugh. *Gianni Schicchi* rounds out *Il trittico*, with the mercifully hilarious tale of a family of horrible people, acting horribly after the death of their "beloved" uncle Buoso. Lucio Gallo returned to sing the title role, with a relaxed air about him and a costume by Nicky Gillibrand that made me think of [Earnest P. Worrell](https://en.wikipedia.org/wiki/Ernest_P._Worrell). 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457093319019/Schicchi%202.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457093319019/Schicchi%202.jpg.jpg)
 <figcaption>Lucio Gallo as Gianni Schicchi, Susanna Hurrell as Lauretta. Copyright: ROH. Photographer: Bill Cooper.</figcaption>
 </figure>
 

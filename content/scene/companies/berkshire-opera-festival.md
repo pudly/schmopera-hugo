@@ -17,6 +17,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/BerkshireOpera"
 
+_template = "company_single"
 +++
 The mission of Berkshire Opera Festival is to entertain and enrich the lives of people of all ages and backgrounds throughout the Berkshire region by providing accessible and affordable performances of a broad range of operas with the highest artistic standards.
 

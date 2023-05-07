@@ -29,7 +29,9 @@ I can get behind the motivating theme. _Winterreise_, famously studied and perfo
 
 Rallo writes in his director's notes, "We asked ourselves how this music would sound if it were interpreted by a stranger to that tradition, a kind of outsider, knowing that for us this was no longer possible."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579379217/media/2020/01/PhilippeSly_crpovz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1579379217/media/2020/01/PhilippeSly_crpovz.jpg)
 
 <figcaption>Philippe Sly, bass-baritone.</figcaption>
 

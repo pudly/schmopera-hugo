@@ -23,7 +23,9 @@ You'll catch two live performances, the first by electronic music composer [Cast
 
 The event is 19+, and admission is pay-by-donation, the proceeds going toward support of FAWN and its artists. More details are available via their [Facebook event](https://www.facebook.com/events/203711103539051/).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515808511929/2018-01-12-SmithScime.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515808511929/2018-01-12-SmithScime.jpg.jpg)
 <figcaption>Adam Scime, FAWN Music Director & Resident Composer, Amanda Smith, Founding Artistic Director & Resident Stage Director.</figcaption>
 </figure>
 
@@ -35,7 +37,9 @@ In this awesome night out, professional opera singers (and one pianist) mash tog
 
 Tickets are just $12, available [online](http://baddogtheatre.com/calendar/).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515808520053/2018-01-12---Improv.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515808520053/2018-01-12---Improv.jpg.jpg)
 <figcaption>(l-r): Erin Stone, Gillian Grossman, Michael York, Adanya Dunn, and Greg Finney in *Whose Opera Is It Anyway?* Photos: Craig Logue.</figcaption>
 </figure>
 

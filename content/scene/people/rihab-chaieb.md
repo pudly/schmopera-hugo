@@ -22,6 +22,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/rihabchaiebmezzosoprano/"
 
+_template = "people_single"
 +++
 Tunisian-Canadian mezzo-soprano Rihab Chaieb has drawn international recognition for her clear, sensuous vocal tone and her dramatic flair. With a versatile instrument that allows her to shine in repertoire from Monteverdi, Handel and Mozart through Bizet, Verdi and Glass, the Canadian mezzo is a prominent new talent on the world’s major stages.
 

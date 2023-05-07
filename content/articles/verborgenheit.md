@@ -20,7 +20,9 @@ Happy Friday, readers! If you're not familiar with the work of Seattle-based pho
 
 <figure data-type="image">
 
-{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1547142196/media/2019/01/Verborgenheit-4.jpg){{% /md %}}
+
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1547142196/media/2019/01/Verborgenheit-4.jpg)
 
 <figcaption>Self portrait by Roxanna Walitzki.</figcaption>
 

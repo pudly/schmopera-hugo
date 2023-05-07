@@ -24,6 +24,7 @@ url = "https://www.instagram.com/eastman.school/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/EastmanSchool"
+_template = "company_single"
 +++
 
 Eastman Opera Theatre offers a comprehensive program of training and performance opportunities.  Many Eastman graduates, like distinguished alumni Renée Fleming, Anthony Dean Griffey, and Nicole Cabell, enter the operatic profession as a natural extension of this experience.

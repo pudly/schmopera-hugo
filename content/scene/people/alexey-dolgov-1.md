@@ -7,6 +7,7 @@ related_companies = ["scene/companies/seattle-opera.md", "scene/companies/scotti
 slug = "alexey-dolgov"
 title = "Alexey Dolgov"
 
+_template = "people_single"
 +++
 The Siberian tenor Alexey Dolgov is currently celebrating one successful debut after another at important venues all around the world. His performances have gained him high critical acclaim for his ‘clarion tenor’ (_Montreal Gazette_), ‘naturalness and superb timing’ (_Metro Weekly_, Washington D.C); he also ‘shines as an actor’ (_Washington Post_).
 

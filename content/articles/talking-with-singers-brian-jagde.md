@@ -42,7 +42,9 @@ On understudy duties as an Adler Fellow, Jagde had also seen director Francesca 
 
 He sings his first Radamès opposite soprano [Leah Crocetto](/talking-with-singers-leah-crocetto/), whom he met when they were both Adler Fellows. "We just got along offstage really well," he adds. He recalls when they both performed smaller roles in SFO's previous *Aïda*, directed by Jo Davies, Crocetto as the priestess, and Jagde as the messenger. "All of a sudden we jumped from doing roles that were supporting characters, to doing leading roles," he says with a smile. "We kind of grew up here together."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477952888301/2016-10-31--2016-HGO-Rusalka-by-Lynn-Lane.jpg.jpg)<figcaption>Jagde (Prince) in *Rusalka*, Houston Grand Opera, 2016. Photo by Lynn Lane.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477952888301/2016-10-31--2016-HGO-Rusalka-by-Lynn-Lane.jpg.jpg)<figcaption>Jagde (Prince) in *Rusalka*, Houston Grand Opera, 2016. Photo by Lynn Lane.</figcaption>
 </figure>
 
 ## "It's fun to play those roles."
@@ -53,7 +55,9 @@ With all the densely dramatic characters in Jagde's repertoire, he has the onsta
 
 With someoine like Don José, he finds it cathartic to expose the darkness in the character, "to tap into real insecurity, human insecurity that a lot of people have, and I've had in my life." A role like Pinkerton in *Madama Butterfly* is another role rich with dramatic options. "He doesn't know he's doing something bad," he says of the American Naval officer who marries - and abandons - the young, naïve Cio-Cio San. "He's a guy who's on a ship, and every other guy on that ship is also going off and finding some girl," Jagde explains. "And then he meets her, and he's sort of like, 'This is better than I thought it was going to be. This could be real.'" Giving the benefit of the doubt to one of opera's most notoriously heartless men is part of Jagde's process of finding the truth about these infamous roles.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477952938026/2016-10-31---MadamaButterfly_TeatroMassimo_2016_Image_RosallinaGarbo_2.jpg.jpg)<figcaption>Jagde (Pinkerton) in *Madama Butterfly* at Teatro Massimo. Photo by Rosallina Garbo.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477952938026/2016-10-31---MadamaButterfly_TeatroMassimo_2016_Image_RosallinaGarbo_2.jpg.jpg)<figcaption>Jagde (Pinkerton) in *Madama Butterfly* at Teatro Massimo. Photo by Rosallina Garbo.</figcaption>
 </figure>
 
 ## "When you start to make it, it doesn't get any easier.
@@ -66,7 +70,9 @@ Jagde understands well that his singing schedule is the kind that aspiring opera
 
 It also helps to have a few reasons to pursue singing. Recently, Jagde joined the advisory board for [Time In](http://timeinkids.org/), a New York-based arts initiative that brings arts education to at-risk youth. "For me, it's actually remembering where we came from, and trying to make sure we're giving back. Those are the kinds of things that make this job even more worthwhile." Outreach work began for Jagde with school tours presented by Opera Iowa and Virginia Opera, and it's something he advises any young artist to pursue with pleasure. "I continue to do that now, and it's extremely fulfilling for me to bring art and music to kids in America," he says. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953007395/2016-10-31---2015-Lyric-Opera-of-Chicago-Tosca.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953007395/2016-10-31---2015-Lyric-Opera-of-Chicago-Tosca.jpg.jpg)
 <figcaption>Jagde (Cavaradossi) in *Tosca* at Lyric Opera of Chicago. Photo by Todd Rosenberg.</figcaption>
 </figure>
 

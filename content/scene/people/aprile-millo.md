@@ -16,6 +16,7 @@ url = "https://www.facebook.com/OfficialFanPageforAprileMillo"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MilloTweets"
+_template = "people_single"
 +++
 
 <p>

@@ -21,6 +21,7 @@ url = "https://www.instagram.com/jgtenor/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCKPgmZvqwS_GF6Z_jU-Ndtg"
+_template = "people_single"
 +++
 
 Joseph Gaines is a versatile artist who has attracted the attention of opera companies and orchestras and been recognized by audiences and critics for his beautifully sung, well-acted interpretations of character roles.

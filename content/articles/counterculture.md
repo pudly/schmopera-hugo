@@ -19,7 +19,9 @@ While the artists all commanded our attention, especially the riveting Mr. Costa
 
 Neatly divided into thirds, the playing space (in this case, the sanctuary of the Cathedral of St. John the Divine,) consisted of a film screen, a concert stage with orchestra, and a dance platform.  Behind the concert stage was a plain white screen and behind that stood artist George Condo, who created an entire painting made of black watercolor. The canvas was lit from behind so we only saw the silhouette of the artist until the curtain call.  Also, Mr. Condo remarkably painted in reverse so that his work would not appear backwards to us from the front of the "canvas."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735731059/GLASSHANDEL4.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735731059/GLASSHANDEL4.jpg.jpg)
 <figcaption>Anthony Roth Costanzo in *Glass Handel*, costumed by Raf Simons for Calvin Klein. Photo: Dominic M. Mercier.</figcaption>
 </figure>
 
@@ -32,7 +34,9 @@ my cruel fate,<br>
 and let me sigh for<br>
 liberty.<br>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735739761/GLASSHANDEL8.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735739761/GLASSHANDEL8.jpg.jpg)
 <figcaption>Anthony Roth Costanzo in *Glass Handel*. Photo: Dominic M. Mercier.</figcaption>
 </figure>
         	
@@ -40,7 +44,9 @@ Mr. Costanzo's final outfit – a simple black and white dress with paintings fr
 
 The Glass arias were much less impressive (because of the composition not the performance.)  One may wonder why they were chosen other than the fact that Mr. Glass is one of the few living composers who has written for the unique vocal instrument Mr. Costanzo possesses. The final Glass aria, "The Encounter", was the most effective.  There were no lyrics, only Mr. Costanzo's lush, legato notes. It was a deliberate moment of abstraction as the evening came to an end – the final film being shown was the least linear of all, and the somewhat abstract painting created by Mr. Condo's "shadow" was finished.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735745996/GLASSHANDEL11.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735745996/GLASSHANDEL11.jpg.jpg)
 <figcaption>Patricia Delgado and Anthony Roth Costanzo in *Glass Handel*. Photo: Dominic M. Mercier.</figcaption>
 </figure>
 

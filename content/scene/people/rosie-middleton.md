@@ -15,6 +15,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/rosiemiddletonmezzo/"
 
+_template = "people_single"
 +++
 Mezzo-soprano Rosie Middleton specialises in new music. In 2019 Rosie was artist in residence at Snape Maltings and The Banff Centre, where she collaborated with composers Laura Bowler, Catherine Kontz, Esin Gunduz Mira Calix and Michael Betteridge on Voice(less) – a series of works for voice and electronics exploring voice-loss, voicelessness and things that stop speech or sound. Her work is supported by Arts Council England, Help Musicians, The Finzi Trust and The Marchus Trust. An experienced improviser and deviser, Rosie loves working collaboratively with composers on multi-disciplinary works.
 

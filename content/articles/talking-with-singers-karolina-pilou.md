@@ -37,7 +37,9 @@ Don't lose track of why you do it. You sing (I hope) because you love it. Being 
 
 That kind of love that one gives and receives from their family and friends is what makes this journey possible. What would be the point of achieving all of your professional goals and having your dreams come true if you have no one to celebrate them with?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482267772881/2016-12-20---Pilou.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482267772881/2016-12-20---Pilou.jpg.jpg)
 <figcaption>Photo by Etrange-Amour.</figcaption>
 </figure>
 

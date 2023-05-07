@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Boris-Brott/109490015744290"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/BorisBrott"
+_template = "people_single"
 +++
 
 <p>

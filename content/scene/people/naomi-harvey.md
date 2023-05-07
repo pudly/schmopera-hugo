@@ -8,6 +8,7 @@ related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/en
 slug = "naomi-harvey"
 title = "Naomi Harvey"
 
+_template = "people_single"
 +++
 Born and educated in Cornwall, Naomi Harvey studied with William McAlpine at the Guildhall School of Music and Drama.
 

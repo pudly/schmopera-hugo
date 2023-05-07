@@ -7,6 +7,7 @@ publishDate = "2017-10-11T16:02:00-04:00"
 related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md"]
 slug = "gundula-hintz"
 title = "Gundula Hintz"
+_template = "people_single"
 +++
 
 Die gebürtige Berlinerin Gundula Hintz studierte an der Hochschule der Künste Berlin und besuchte Meisterkurse bei Aribert Reimann sowie bei Dietrich Fischer-Dieskau. Nach ersten Engagements im lyrischen bis jugendlich-dramatischen Fach, arbeitet Gundula Hintz seit 1999 freischaffend und gastiert als Opern- und Konzertsängerin mit großem Erfolg an zahlreichen deutschen wie internationalen Häusern (Berlin, Leipzig, Hamburg, Amsterdam, Neapel, Venedig, St. Gallen), beim Festival de Radio France et Montpellier, der Biennale Venedig oder den Berliner Festwochen.

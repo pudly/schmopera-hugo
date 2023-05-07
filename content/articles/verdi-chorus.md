@@ -27,7 +27,9 @@ It's incredibly rewarding to provide opera at an affordable cost, and share with
 
 My third purpose now is to create opportunities for young singers - beginners and intermediates who are studying opera, to learn more and get a start on a professional career.  For every concert I also hire fantastic soloists, professionals in the field, and many times I will hire someone to do a role they are working on, and then they will go off and do the actual opera in New York, Houston, or elsewhere. Soloists love to come in and play with new repertoire. More than anything however, is my continued goal of spreading opera to a larger community of opera lovers and novices.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556642257/media/2019/04/Ketchum-pc-ShawnFlintBlair.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1556642257/media/2019/04/Ketchum-pc-ShawnFlintBlair.jpg)
 
 <figcaption>Anne Marie Ketchum, Founding Artistic Director of The Verdi Chorus. Photo: Shawn Flint Blair.</figcaption>
 
@@ -47,7 +49,9 @@ Familiarity with an entire opera, as opposed to just looking at the aria being w
 
 These particular singers themselves. I had already auditioned them for the Verdi Chorus, and chosen them for not only their musicianship and sound of their voice, but also because of their personal energy.  Each one is filled with enthusiasm and a desire to create something wonderful in performance. I find that so inspiring. Secondly I chose music that I really love to work with, which is always the case when I put a program together.  And it's springtime, so this light, fun program totally fits!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556642240/media/2019/04/VerdiChorus.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1556642240/media/2019/04/VerdiChorus.jpg)
 
 <figcaption>Image courtesy of The Verdi Chorus.</figcaption>
 

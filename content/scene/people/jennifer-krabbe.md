@@ -8,6 +8,7 @@ related_companies = ["scene/companies/collectif.md"]
 slug = "jennifer-krabbe"
 title = "Jennifer Krabbe"
 website = "http://www.jenniferkrabbe.com/"
+_template = "people_single"
 +++
 
 With a stage presence that has been called “joyously uninhibited” (*Opera Canada*), soprano Jennifer Krabbe is finding success on both the operatic and the concert stage.

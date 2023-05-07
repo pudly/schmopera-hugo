@@ -8,6 +8,7 @@ related_companies = ["scene/companies/semperoper-dresden.md","scene/companies/op
 slug = "anja-petersen"
 title = "Anja Petersen"
 website = "http://anjapetersen.com/"
+_template = "people_single"
 +++
 
 The soprano Anja Petersen initially completed studies in violin and music education in Stuttgart before devoting herself entirely to singing, finishing her education in the soloist class with highest marks. While

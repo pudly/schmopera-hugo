@@ -17,6 +17,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/OTSL"
 
+_template = "company_single"
 +++
 Opera Theatre of Saint Louis is one of the leading American opera companies, known for a spring festival of inventive new productions, sung in English, featuring the finest American singers and accompanied by members of the St. Louis Symphony. As of 2019 Opera Theatre has presented 28 world premieres and 27 American premieres – which may be the highest percentage of new work in the repertory of any U.S. company.
 

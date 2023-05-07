@@ -22,7 +22,9 @@ Heartbeat Opera creates radical new adaptations of classic operas for intimate v
 
 These classic opera scores, like any art form, are never static, and I believe they are strengthened by reinterpretation. We've all become used to hearing them in a certain way over the years, with the same orchestration, to the point that they have become museum pieces. My intention is to breathe new life into the scores, and I hope that audiences are able to gain a fresh perspective on the music as a result.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523841860251/Boyle_MAC_HeartbeatOpera_0303.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523841860251/Boyle_MAC_HeartbeatOpera_0303.jpg.jpg)
 <figcaption>Daniel Schlosberg, composer, pianist, and Co-Music Director of Heartbeat Opera.</figcaption>
 </figure>
 
@@ -36,7 +38,9 @@ My orchestration casts the clarinet, like Don Giovanni himself, as an outsider. 
 
 Not to give too much away, but the production will feature an enormous dramatic "break" between Acts 1 and 2. The music will change quite significantly after this break, with the clarinet taking on even more of a leading — and disruptive — role. I am very excited to explore the dramatic and musical possibilities that result from this conceptual shift. The audience can certainly expect some unusual sounds and even nontraditional instruments to come to the fore.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523841868663/beforehighline.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523841868663/beforehighline.jpg.jpg)
 <figcaption>Daniel Schlosberg (centre) before Heartbeat Opera's opera drag show, *The High Line*.</figcaption>
 </figure>
 

@@ -57,7 +57,9 @@ It's one thing if you're going out and doing a Monterone or a Bonze, where you g
 
 Whereas, what a lot of people forget is that the play _Iolanta_ is based on is called King René's Daughter, so it's actually King René's show. I feel when taking on a lead character, you have a responsibility as both an artist, and as an entertainer – they're two separate things but you have to learn how to bring them together.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1555781755/media/2019/04/3710_10iolanta2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1555781755/media/2019/04/3710_10iolanta2.jpg)
 
 <figcaption>Asmik Grigorian (Iolanta) and Robert Pomakov (King René) in Iolanta, Oper Frankfurt, 2018. Photo: Barbara Aumüller.</figcaption>
 
@@ -75,7 +77,9 @@ You have to get to a very high level day one of rehearsal, and then from day one
 
 But I still think you owe it to yourself, you owe it to the score, and you owe it to the audience to put that effort in. Sure, we can all go in and give 70 percent and have a nice career and make good money, but if you're going to go 70 percent, why not go 100 percent? Why not just do that extra work?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1555781723/media/2019/04/RobertPomakov-pc-AdrianParks.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1555781723/media/2019/04/RobertPomakov-pc-AdrianParks.jpg)
 
 <figcaption>Robert Pomakov, Canadian bass. Photo by Adrian Parks.</figcaption>
 

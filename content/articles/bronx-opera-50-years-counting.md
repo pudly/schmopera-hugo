@@ -20,7 +20,7 @@ title = "Bronx Opera: 50 years &amp; counting"
 
 **Michael Spierman**: Many great composers have viewed the Falstaff story from the unique perspective of their individual geniuses.  This special season gives our audiences an opportunity to experience two very different, and at the same time first-rate, examinations of this topic.  The result allows audiences an interesting perspective and, at the same time, makes the point that no work of art is definitive on a given subject, only compelling in its own right.  
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483032525742/2016-12-29---Michael-Spierman-with-Ralph-Vaughan-Williams-widow-.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483032525742/2016-12-29---Michael-Spierman-with-Ralph-Vaughan-Williams-widow-.jpg.jpg)
 <figcaption>Michael Spierman with Ursula Vaughan Williams, widow of Ralph Vaughan Williams.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ title = "Bronx Opera: 50 years &amp; counting"
 
 **Michael**: Our long legacy is based on consistent quality, careful organization, respect for our participants and a group of missions, detailed above, that can adapt to changing times.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483032617918/2016-12-29---Cinderella-BOC.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483032617918/2016-12-29---Cinderella-BOC.jpg.jpg)
 <figcaption>A scene from *Cinderella* at Bronx Opera Company.</figcaption>
 </figure>
  

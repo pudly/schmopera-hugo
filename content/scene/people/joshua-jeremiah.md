@@ -20,6 +20,7 @@ url = "https://www.instagram.com/jbjcurly/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/jbjcurly"
+_template = "people_single"
 +++
 
 Joshua Jeremiah’s singing has been described by critics throughout the country as splendid, gorgeous, other-worldly, mellifluous and confident.

@@ -25,6 +25,7 @@ url = "https://www.instagram.com/mdrbass/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/massiveqdawg/videos"
+_template = "people_single"
 +++
 
 Morris Robinson is considered one the most interesting and sought after basses performing today.

@@ -42,7 +42,9 @@ The ladies were a hoot. Michelle Garlough was self-important and self-reverentia
 
 Rosalind McArthur and [Gregory Finney](https://twitter.com/gregory_finney) were appropriately hilarious as Miss Prism and Reverend Canon Chasuble. I got every single word from both of them, and they were those great characters that draw your eye despite the primary action happening centre stage. I thought Greg's singing in this role was some of the best I'd heard him do. Bravo, friend!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431190604217/Lady-Bracknell-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431190604217/Lady-Bracknell-1.jpg.jpg)
 <figcaption>Jean Stillwell. Photo by Gary Beechey.</figcaption>
 </figure>
 

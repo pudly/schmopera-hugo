@@ -23,7 +23,9 @@ They are, with a few notable exceptions (primarily by Rossini and Bellini), oper
 
 Thus, I approached Odyssey Opera's production of obscure bel canto composer Giovanni Pacini's _Maria, Regina d'Inghilterra_ with a very healthy amount of skepticism. I expected it to sound rather like a second-rate Donizetti, with all the musical and dramatic snags that such a comparison entails.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572741457/media/2019/11/Ensemble_1_gv9w58.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572741457/media/2019/11/Ensemble_1_gv9w58.jpg)
 
 <figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -35,7 +37,9 @@ I was pleasantly surprised, therefore, to find that Pacini actually does get rat
 
 But it also helps that Pacini's score for _Maria_ is full of inventive uses of accompaniment, particularly in the last act. Of note was a duet between the meek, commoner-turned-noblewoman Clotilde and her betrothed Ernesto: their duet in the final act has them sing a line about how there is an angel in the flesh: when it goes to repeat this text, however, Pacini pauses the underlying oom-pah accompaniment with a single held chord under the text. The effect brings dramatic relevance to this repeat that is not lost on the listener.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572741474/media/2019/11/Ensemble_3_ppkcwi.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572741474/media/2019/11/Ensemble_3_ppkcwi.jpg)
 
 <figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -49,7 +53,9 @@ Of course, that was once the audience got past the utterly ridiculous proceeding
 
 The title character does not even appear on-stage until the second act; the motivations of a couple of the major characters are not made entirely clear; some of the themes about xenophobia are not fleshed out at all; the stakes of a critical identity swap during the climactic execution in the third act is muddled and a touch confusing when you consider how it's paced; and there is a plot point surrounding Clotilde being the true heir of a family that reads as painfully clichéd by today's standards.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572741489/media/2019/11/AlisaJordheim_AmyShoremountObra_wiruo1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572741489/media/2019/11/AlisaJordheim_AmyShoremountObra_wiruo1.jpg)
 
 <figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -63,7 +69,9 @@ The only thing left at that point is to get singers who can meet the highly virt
 
 Amy Shoremount-Obra had to wait an entire act to enter as the title character, but once she appeared onstage she commanded the proceedings with a strong, authoritative tone that was as technically precise as it was brimming with emotion. Kameron Lopreore should also be commended for his turn as Richard Fenimoore, the man the queen favors: aside from the fact he is saddled with the unenviable task of making a somewhat unlikable character likable to the audience, the tessitura of the role sits rather high, and he can rarely catch a break through the whole work. But despite this, Lopreore's voice did not fray at all throughout the performance, and his beauty of tone remained constant throughout the performance.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572741504/media/2019/11/AlisaJordheim_LeroyDavis_2_tgcbpi.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572741504/media/2019/11/AlisaJordheim_LeroyDavis_2_tgcbpi.jpg)
 
 <figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -79,7 +87,9 @@ Jordheim showed wonderful technical control with a voice that floated around com
 
 The strength of the cast was almost enough to overcome an uneven production, for they brought credibility to the characters' motivations even when the production got in the way. Stage director Steve Maler's blocking felt a touch confused and unintentionally funny from time to time: the way he has Churchill run away without being impeded even as Ernesto sings at him to stop running away seemed an odd choice entirely at odds with Pacini's music. He got an unintended laugh from the audience when Queen Mary stepped in front of Clotilde to hide her from Fenimoore just before their climactic Act II confrontation only for Queen Mary to reveal Clotilde not even five seconds afterwards.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572741521/media/2019/11/Ensemble_Male_1_fxrubi.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572741521/media/2019/11/Ensemble_Male_1_fxrubi.jpg)
 
 <figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -91,7 +101,9 @@ I also question why the design team created such a dark, dimly-lit set to work w
 
 This makes it downright infuriating, then, when compared with the absolutely stunning tableau that these people created for the execution scene close to the end of the work: the combination of a back wall of the set peeling up to reveal stark white (and then red) light and Lopreore walking up a staircase on wheels such that he remains framed by the light created such an arresting image that it helped ramp the tension up for the end of the work. It was nothing short of a great tableau, but I wish we had gotten such effective visuals throughout the first two acts of the show, because the result is uneven everywhere else.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572741534/media/2019/11/Ensemble_Male_2_fadtts.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572741534/media/2019/11/Ensemble_Male_2_fadtts.jpg)
 
 <figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo: Kathy Wittman.</figcaption>
 

@@ -25,7 +25,9 @@ This approach has a lot of implications on a practical technical level. As a voc
 
 One passage where I have found this approach useful is Donna Elvira's coloratura at the end of "Mi tradì nell'alma ingrata" in *Don Giovanni*. It is composed of some tricky patterns and intervals and throws up some tuning challenges for the singer:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505439819105/2017-09-15---Mi-tradi.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505439819105/2017-09-15---Mi-tradi.jpg.jpg)
 <figcaption>Musical example, from "Mi tradì nell'alma ingrata" (*Don Giovanni*).</figcaption>
 </figure>
 

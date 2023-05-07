@@ -22,7 +22,9 @@ However the benefits far outweigh the challenges. Concerts are more rewarding fo
 
 If I had time I would like to sing everything off by heart but sadly this just isn't possible! Which is why it's great to have learning time actually programmed into rehearsals as Aurora do. Music goes into the memory much more quickly in a rehearsal situation rather than when you're alone with distractions all around. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496250659881/2017-05-31---Mary-Bevan-7056_-credit-Victoria-Cadisch.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496250659881/2017-05-31---Mary-Bevan-7056_-credit-Victoria-Cadisch.jpg.jpg)
 <figcaption>Mary Bevan, soprano. Photo by Victoria Cadisch.</figcaption>
 </figure>
  

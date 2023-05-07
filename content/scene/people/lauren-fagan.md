@@ -12,6 +12,7 @@ title = "Lauren Fagan"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/laurenashfagan"
+_template = "people_single"
 +++
 
 Lauren Fagan has distinguished herself as a young soprano to watch, after a series of acclaimed debuts following her recent graduation from Covent Garden's prestigious Jette Parker Young Artist Programme. In the current season, she joins Sir Antonio Pappano in Rome with the Accademia Nazionale di Santa Cecilia as Roxana in concert performances of Szymanowski's *Krol Roger*, the NHK Symphony Orchestra under Paavo Järvi as Donna Elvira (*Don Giovanni*), and returns to Opera Holland Park as Verdi’s heroine Violetta (*La traviata*), marking her first performance of the role.

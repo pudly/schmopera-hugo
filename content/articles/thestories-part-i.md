@@ -29,7 +29,9 @@ I felt extremely cool and included and validated. I was from a small town in the
 
 He gave me an address and confirmed the day and time to meet at his place. I was extremely nervous while getting ready to go...imagine me as a 20-year-old kid, with an empty closet and no money, trying to build up my confidence and put together an outfit to go to a social gathering hosted by a big-shot director from New York City.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567646919/media/2019/09/ZJames_glxcdr.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1567646919/media/2019/09/ZJames_glxcdr.jpg)
 
 <figcaption>Zachary James in 2002.</figcaption>
 

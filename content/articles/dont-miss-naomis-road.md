@@ -26,7 +26,9 @@ One of the most beautiful things about this opera is that, despite the family be
  
 I find that the hardest part of playing a child is being naïve and simple.  As adults we are so accustomed to living everyday dramatic, intense and sometimes complicated situations and tend to forget that as children, life is quite simple and they live completely in the moment.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479044867875/2016-11-12---Hiather-Darnel-Kadonaga.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479044867875/2016-11-12---Hiather-Darnel-Kadonaga.jpg.jpg)
 <figcaption>Hiather Darnel-Kadonaga, soprano. Photo courtesy of Tapestry Opera.</figcaption>
 </figure>
  

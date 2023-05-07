@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/simranclaire/"
 
+_template = "people_single"
 +++
 Simran Claire is a Punjabi-Canadian mezzo-soprano and creative based in Vancouver, BC. Her artistic practice is rooted at the intersection of innovation and tradition, with an emerging focus on multidisciplinary work. She is proud to represent her community in the white-dominated spaces of opera and art song.
 

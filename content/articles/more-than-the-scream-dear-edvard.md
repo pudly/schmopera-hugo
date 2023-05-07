@@ -18,7 +18,9 @@ Dramatic representation of an artist's life can buoy a treading reputation. Cons
 
 So what about Edvard Munch? His life is well suited to dramatic treatment; he suffered through a tragic childhood and adolescence, scandalized the traditional art world, had tumultuous relationships with compelling women, lapsed into an alcohol-fueled breakdown that landed him in the psych ward, and was a bona fide, obsessive genius. The major motion picture will have to wait. However, he is the subject of a new music-theater piece called *Dear Edvard*, (composer Steven Schoenberg; lyricist/poet Richard Michelson; director Kevin Newbury) that was recently presented in concert as part of National Sawdust's annual "Winterreise Nights Festival", a series curated with [Schubert's masterwork song cycle](/a-generous-winterreise-at-wigmore-hall/) in mind.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513602936914/Dear-Edvard_0172_.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513602936914/Dear-Edvard_0172_.jpg.jpg)
 <figcaption>*Dear Edvard*, National Sawdust, 2017, Photo: Jill Steinberg.</figcaption>
 </figure>
  
@@ -26,7 +28,9 @@ The piece hones in on Munch (Tim McDevitt) who, having admitted himself to a san
  
 The narrative focuses on two major threads of Munch's life: first, on his romantic involvement with four different women during the first half of his days. Second, on the familial tragedies that plagued his early years including his mother and older sister's premature deaths, and his younger sister's descent into madness. These events are interwoven with reflections by Munch and his nurse as they work their way through his treatment. The piece is framed by an elderly version of the nurse, who tells the story retrospectively. The drama divides into 26 brief scenes, each matched with a painting by the artist.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513602947008/2017-12-18---Dear-Edvard_0284_.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513602947008/2017-12-18---Dear-Edvard_0284_.jpg.jpg)
 <figcaption>*Dear Edvard*, National Sawdust, 2017, Photo: Jill Steinberg.</figcaption>
 </figure>
 
@@ -36,7 +40,9 @@ Munch often revisits the death of his 15 year-old older sister Sophie in his art
 
 A duet ensues between Sophie and young Munch that risks but does not succumb to sappiness. In the duet, Munch has fallen ill, coughing intermittently. His sister comforts him. Over the course of the duet, the cough shifts from Munch to Sophie. The more he recovers, the sicker she becomes. The fatal contagion brings the young girl to her demise. Her death teaches Munch that intimacy begets anguish, a lesson that defines his inability to hold a healthy romantic relationship in his adult life.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513602961881/Dear-Edvard_0203_.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513602961881/Dear-Edvard_0203_.jpg.jpg)
 <figcaption>*Dear Edvard*, National Sawdust, 2017, Photo: Jill Steinberg.</figcaption>
 </figure>
   

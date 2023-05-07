@@ -21,6 +21,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/AmplifiedOperaTO/"
 
+_template = "company_single"
 +++
 ## MANDATE
 

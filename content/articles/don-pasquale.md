@@ -25,7 +25,9 @@ Opera Fusion is a small company with a big heart. Their mission is "\[to make\] 
 
 From the moment guests entered the lobby of the Pompano Beach Cultural Centre – a multipurpose community arts complex adjacent to a public library branch and mere steps from City Hall – this mission sprang into action. Instead of a brigade of uniformed ushers, a single greeter with a friendly smile escorted ticket holders to their seats one by one. The 400-seat theatre didn't sell out, but an ample audience made for a pleasant camaraderie that kept laughter churning from the downbeat to final bows.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550623300/media/2019/02/TonyDillonPaulLaRosaLauraLeonZackeryMorris_.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550623300/media/2019/02/TonyDillonPaulLaRosaLauraLeonZackeryMorris_.jpg)
 
 <figcaption>(l-r) Tony Dillon (Pasquale), Paul La Rosa (Malatesta), Laura León (Norina), and Zackery Morris (Ernesto) in Don Pasquale, Opera Fusion, 2019. Photo: Chris Barbu.</figcaption>
 
@@ -39,7 +41,9 @@ Baritone [Paul La Rosa](/scene/people/paul-la-rosa/)'s Doctor Malatesta checked 
 
 In _Don Pasquale_, old-fashioned tropes abound, Norina posing as a timid, obedient bride turned unbearable shrew – but the character Léon brought to life was neither end of this false dichotomy. "I've a head for whimsy, but an excellent heart," she mused in her introductory aria, an autobiographical quip easy to imagine headlining Norina's Bumble profile. Léon’s Norina was strong and self-assured with a streak of silly, taking antiquated ideals to task with a little help from Doctor Malatesta, but mostly with her own sense of candour, humour, and justice.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550623616/media/2019/02/LeftTonyDillonPaullaRosaLauraLeonNorina.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550623616/media/2019/02/LeftTonyDillonPaullaRosaLauraLeonNorina.jpg)
 
 <figcaption>(l-r) Tony Dillon (Pasquale), Paul La Rosa (Malatesta) and Laura León (Norina) in Don Pasquale, Opera Fusion, 2019. Photo: Chris Barbu.</figcaption>
 

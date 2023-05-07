@@ -18,22 +18,22 @@ Monteverdi never fails to delight me - this production particularly shone becaus
 
 Generally, the production was witty and well-paced all around. It benefitted from terribly clever staging by John Fulljames, with a rotating platform surrounding the orchestra. The direction made fabulous use of the versatility of the space, creating a story which flowed naturally across the venue. There were only one or two moments towards the end of the show where the pace slowed and it dragged a little. I was also not convinced by the decision to do the production in English - it seemed unnecessary, when it was presented with clear and succinct surtitles.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546194875/media/2018/12/SC1_2935-THE-RETURN-OF-ULYSSES-PRODUCTION-IMAGE-ROH-ROUNDHOUSE-PHOTO-BY-STEPHEN-CUMMISKEY.jpg)<figcaption>_The Return of Ulysses_, The Roundhouse, ROH, 2018. Photo: Stephen Cummiskey.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1546194875/media/2018/12/SC1_2935-THE-RETURN-OF-ULYSSES-PRODUCTION-IMAGE-ROH-ROUNDHOUSE-PHOTO-BY-STEPHEN-CUMMISKEY.jpg)<figcaption>_The Return of Ulysses_, The Roundhouse, ROH, 2018. Photo: Stephen Cummiskey.</figcaption>
 </figure>
 
 The undeniable star of the show was the spectacular [Roderick Williams](/scene/people/roderick-williams/). His performance was completely committed, both vocally and from an acting perspective. He savoured every word of recitative, brought out every moment of power and beauty in the music he performed. He welcomed his audience into the space with his unique, natural warmth, making the production a joy from beginning to end.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546194929/media/2018/12/IMG_5940-RODERICK-WILLIAMS-AS-ULYSSES--ROH-ROUNDHOUSE-PHOTO-BY-STEPHEN-CUMMISKEY.jpg)<figcaption>Roderick Williams as Ulysses in _The Return of Ulysses_, The Roundhouse, ROH, 2018. Photo: Stephen Cummiskey.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1546194929/media/2018/12/IMG_5940-RODERICK-WILLIAMS-AS-ULYSSES--ROH-ROUNDHOUSE-PHOTO-BY-STEPHEN-CUMMISKEY.jpg)<figcaption>Roderick Williams as Ulysses in _The Return of Ulysses_, The Roundhouse, ROH, 2018. Photo: Stephen Cummiskey.</figcaption>
 </figure>
 
 Opposite Roderick Williams, his wife Penelope was supposed to be played by [Christine Rice](/scene/people/christine-rice/). Rice acted from the stage, but did not sing due to illness. She was replaced by Australian mezzo-soprano Caitlin Hulcup, who filled the hall with her warm, passionate singing. Rice matched the beauty of Hulcup's sound with a wonderful performance on the stage.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546195040/media/2018/12/PR8A9865-CHRISTINE-RICE-AS-PENELOPE-ROH-ROUNDHOUSE-PHOTO-BY-STEPHEN-CUMMISKEY.jpg)<figcaption>Christine Rice as Penelope in _The Return of Ulysses_, The Roundhouse, ROH, 2018. Photo: Stephen Cummiskey.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1546195040/media/2018/12/PR8A9865-CHRISTINE-RICE-AS-PENELOPE-ROH-ROUNDHOUSE-PHOTO-BY-STEPHEN-CUMMISKEY.jpg)<figcaption>Christine Rice as Penelope in _The Return of Ulysses_, The Roundhouse, ROH, 2018. Photo: Stephen Cummiskey.</figcaption>
 </figure>
 
 The cast for _Ulysses_ is large, and much to my delight, I felt that each of the performers held their own fantastically. The trio of courtiers, the gluttonus Irus, and the kind shepherd all stood out in their own ways, each singing with commitment and a sense of play. [Samuel Boden](/scene/people/samuel-boden/) was lovely as the petulant and passionate Telemachus. I wasn't enamoured with Catherine Carby as Minerva - her singing seemed a little behind the beat, and her acting a little wooden. However, overall, the level of singing was incredibly high.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546195083/media/2018/12/IMG_5898-SAMUEL-BODEN-AS-TELEMACHUS-ROH-ROUNDHOUSE-PHOTO-BY-STEPHEN-CUMMISKEY.jpg)<figcaption>Samuel Boden as Telemachus in _The Return of Ulysses_, The Roundhouse, ROH, 2018. Photo: Stephen Cummiskey.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1546195083/media/2018/12/IMG_5898-SAMUEL-BODEN-AS-TELEMACHUS-ROH-ROUNDHOUSE-PHOTO-BY-STEPHEN-CUMMISKEY.jpg)<figcaption>Samuel Boden as Telemachus in _The Return of Ulysses_, The Roundhouse, ROH, 2018. Photo: Stephen Cummiskey.</figcaption>
 </figure>
 
 This production of _Ulysses_ was also community project, with the chorus being made up of singers from the Roundhouse community choir, the Royal Opera House Thurrock Community Chorus and students from the Guildhall School of Music and Drama. The chorus was a wonderful addition, bringing a sense of playfulness and newness to the show. The production felt much more welcoming and relaxed then the average Royal Opera House endeavour - something I fully support, both as a critic and an audience member.

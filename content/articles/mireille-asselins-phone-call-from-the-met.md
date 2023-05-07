@@ -24,7 +24,9 @@ The Met truly is an amazing place, and most of the work of putting in an underst
 
 In my case, I had had the luxury of doing a rehearsal on stage with sets and costumes for Acts 2 & 3 a week before, so the only thing I felt I needed was to walk-on the Act 1 set: handle all of the props, make sure I knew how the doors worked, see if I needed to hit any specific spots on stage for light cues, etc.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449783969092/2015-12-10---Mireille-Asselin.jpg.jpg)<figcaption>Mireille Asselin, soprano. Photo by Kristen Hoebermann.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449783969092/2015-12-10---Mireille-Asselin.jpg.jpg)<figcaption>Mireille Asselin, soprano. Photo by Kristen Hoebermann.</figcaption>
 </figure>
 
 ## 3. Did you get any advice from the maestro or your castmates?

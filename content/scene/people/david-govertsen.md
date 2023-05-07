@@ -13,6 +13,7 @@ website = "http://www.davidgovertsen.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/DavidGovertsenBassBaritone"
+_template = "people_single"
 +++
 
 Chicago native David Govertsen recently stepped in on short notice at Lyric Opera of Chicago where he "handsomely replaced the ill Peter Rose as the producer La Roche" opposite Renée Fleming and Anne Sophie von Otter in *Capriccio*.  Mr. Govertsen also appeared on short notice as Arkel in *Pelléas et Mélisande* with the Chicago Symphony under Esa-Pekka Salonen and as a soloist in James MacMillan's *Quickening* with the Grant Park Orchestra.  A former member of the Ryan Center at Lyric, his other mainstage assignments have included roles in *Die Zauberflöte*, *Boris Godunov*, *Werther*, *Die Meistersinger von Nürnberg*, *Madama Butterfly*, and *Roméo et Juliette*.  He returns to Lyric this season as the Sprecher in *Die Zauberflöte* and Priam in *Les Troyens*. 

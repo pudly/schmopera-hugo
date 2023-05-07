@@ -20,6 +20,7 @@ url = "https://twitter.com/WolfTrapOpera"
 platform = "Instagram"
 template = "social-media"
 url = "https://instagram.com/wolf_trap/"
+_template = "company_single"
 +++
 
 Attend a performance at the Metropolitan Opera, Lyric Opera Chicago, or any top opera house and you’re likely to see a Wolf Trap Opera alumnus.

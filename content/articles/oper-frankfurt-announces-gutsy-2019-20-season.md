@@ -31,7 +31,9 @@ Fauré is an idiosyncratic, anti-dramatic composer whose work depends on subtlet
 
 Three new productions of unknown Rossini operas in one season? Oh boy. Maybe it's a shot at redemption for last season's _I puritani_ directed by Vincent Boussard, which, despite a loaded cast, was interminable. Now Boussard is out of the picture and Rossini has replaced Bellini. Add to the mix soprano Elizabeth Sutphen and other excellent Frankfurt regulars and it's a trilogy to look forward to.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557701121/media/2019/05/GrigorianAsmik-pc-AlgirdasBakas.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557701121/media/2019/05/GrigorianAsmik-pc-AlgirdasBakas.jpg)
 
 <figcaption>Soprano Askim Grigorian, singing Manon Lescaut at Oper Frankfurt, 2019. Photo: Algirdas Bakas.</figcaption>
 
@@ -51,7 +53,9 @@ Baritone Christopher Maltman has had an ideal career trajectory. After years as 
 
 Barrie Kosky, whose beloved _Carmen_ is back after selling out its entire 2018-19 run, brings a new _Salome_ to Frankfurt, starring Ambur Braid and Maltman. It's surely the most anticipated production of the season.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557701658/media/2019/05/Orlinsky-OperFrankfurt-Rinaldo.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557701658/media/2019/05/Orlinsky-OperFrankfurt-Rinaldo.jpg)
 
 <figcaption>Jakub Józef Orliński in the title role of Rinaldo, Oper Frankfurt 2017. Photo: Barbara Aumüller.</figcaption>
 
@@ -71,7 +75,9 @@ It's premature to call it timeless, but Barrie Kosky's _Carmen_ is aging well. I
 
 This stark psychological production debuted with a baritone possessing similar qualities in the title role, the cerebral Christian Gerhaher. Now, Bintner takes the lead (for half of the run) joined by Božidar Smiljanić (Leporello), who demonstrated his startlingly facile instrument in smaller roles last season.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557701377/media/2019/05/KoskyCarmen-pc-BarbaraAumueller.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557701377/media/2019/05/KoskyCarmen-pc-BarbaraAumueller.jpg)
 
 <figcaption>Barrie Kosky's production of Carmen, returning to Oper Frankfurt in 2020. Photo: Barbara Aumüller.</figcaption>
 
@@ -85,7 +91,9 @@ Ernst Křenek was an enormously influential composer Bertolt Brecht, Kurt Weil, 
 
 The beloved score bursts with folkloric verve and heady, gut-tumbling lyricism. Two Americans lead the cast: The exuberant soprano Elizabeth Reiter stars in the title role and mezzo-soprano Kelsey Lauritano as her counterpart.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557700326/media/2019/05/NagyMichael-pc-MonikaHoefler.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557700326/media/2019/05/NagyMichael-pc-MonikaHoefler.jpg)
 
 <figcaption>Michael Nagy, singing the Forester in Oper Frankfurt's 2020 production of  Photo: Monika Hoefler.</figcaption>
 

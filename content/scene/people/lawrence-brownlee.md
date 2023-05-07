@@ -17,6 +17,7 @@ url = "https://www.facebook.com/pages/Lawrence-Brownlee/380448701995063"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Brownleetenor"
+_template = "people_single"
 +++
 
 The most in-demand American tenor in the world in the bel canto repertoire, Lawrence Brownlee continues  to  astonish  audiences  with  the  elegance  and  agility  of  his  instrument.  From  firmly American  roots,  Mr.  Brownlee  has  become  a  star  on  the  international  scene,  lauded  for  the seemingly effortless beauty of his voice. 

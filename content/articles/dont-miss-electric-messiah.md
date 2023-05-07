@@ -22,7 +22,9 @@ If it sounds interesting, you're right. Staged cabaret-style, by dramaturg [Ashl
 
 Selections of *Messiah* will be stripped down to their "barest essentials", and four singers, with guitar and electronics, bring their own artistic styles and backgrounds to the stage. Featured are [Gabriel Dharmoo](https://www.musiccentre.ca/node/37905/biography), South Indian sound poet, [Christine Duncan](http://www.barnyardrecords.com/bio%20christine.html), improvisation specialist, Maliseet musician [Jeremy Dutcher](https://twitter.com/jdutcher_music), and Finnish-Canadian soprano [Carla Huhtanen](/scene/people/carla-huhtanen/). Finally, turntable artist [SlowPitch Sound](http://www.slowpitchsound.com/) will "weave his magic throughout, mixing in *Messiah* old and new in humorous and poignant response to the other performers."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448759479022/2015-11-29---SlowPitch-Sound.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448759479022/2015-11-29---SlowPitch-Sound.jpg.jpg)
 <figcaption>Turntable artist SlowPitch Sound.</figcaption>
 </figure>
 

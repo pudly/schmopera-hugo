@@ -29,7 +29,9 @@ This show needed somewhere unique to play in, so Tapestry teamed up with Sidewal
 
 Co-created by Debi Wong of re:Naissance Theatre in Vancouver and composer Benton Roark and co-directed by Wong and Tapestry's Artistic Director Michael Hidetoshi Mori, _Augmented Opera_ tells the story of Elysium, a futuristic company that uses virtual and augmented reality along with another bastion of the future - artificial intelligence - to guide you through your memories in order to replicate a perfect afterlife.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574388213/media/2019/11/TapExAugmented-stills-photobyDahliaKatz-5885_z12mwe.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1574388213/media/2019/11/TapExAugmented-stills-photobyDahliaKatz-5885_z12mwe.jpg)
 
 <figcaption>TAP:EX Augmented Opera, Tapestry Opera, 2019. Photo: Dahlia Katz.</figcaption>  
 </figure>
@@ -42,7 +44,9 @@ I have to say this was a truly unique theatrical experience, starting the show o
 
 Promane and Oude-Reimerink embody two possible outcomes. While both seem to be at points of the highest emotional output for Eurydice, Promane's seems to evoke the latter stages (perhaps shortly after the end) of Eurydice's one true love. Promane's dark mezzo quickly and easily moves between registers and has a surprising brightness to the top end. Oude-Renmerink starts her scenes off with a refrain of "I said yes!" over and over so we're pretty clear where in Eurydice's past this is hailing from. Oude-Reimerink's bright, easy soprano was given the more conventionally lyrical writing of the two and was more than deftly suited to the task. Using a clean line and masterful dynamics, her joyful singing was entrancing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574388227/media/2019/11/TapExAugmented-stills-photobyDahliaKatz-5954_znxqll.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1574388227/media/2019/11/TapExAugmented-stills-photobyDahliaKatz-5954_znxqll.jpg)
 
 <figcaption>TAP:EX Augmented Opera, Tapestry Opera, 2019. Photo: Dahlia Katz.</figcaption>  
 </figure>

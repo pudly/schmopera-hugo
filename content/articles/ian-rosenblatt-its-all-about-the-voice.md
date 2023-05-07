@@ -44,7 +44,9 @@ Out of his recital series have come several close relationships with the singers
 
 Admittedly, his recital series isn't entirely altruistic. "I wouldn't want anybody to think I'm that insane," laughs Rosenblatt. "I'm quite insane, but I'm not that insane." He runs a [London-based law firm](http://rosenblatt-law.co.uk/), and he's able to extend invitations to the recital series to clients. "It's amazing how many people, who are connected to the law firm, just love coming." In many cases, he is able to introduce them to something entirely new. "We had a couple hundred people as guests at the Albert Hall, for example. There was a significant majority who had never been to the Albert Hall, who'd never been to a classical concert, who certainly had never been to hear a classical singer, and who were completely and utterly blown away."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460366571011/2016-04-11---Javier-Camarena-c-Jonathan-Rose.jpg.jpg)<figcaption>Tenor Javier Camarena at his Rosenblatt Recital, 2014.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460366571011/2016-04-11---Javier-Camarena-c-Jonathan-Rose.jpg.jpg)<figcaption>Tenor Javier Camarena at his Rosenblatt Recital, 2014.</figcaption>
 </figure>
 
 ## What's to come

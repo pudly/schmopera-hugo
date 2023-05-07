@@ -17,6 +17,7 @@ url = "https://facebook.com/jennasiladie/?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JennaSiladie?lang=en"
+_template = "people_single"
 +++
 
 Hailed by the *New York Times* for her "endearing" and "sweet voice", the emerging soprano Jenna Siladie triumphed in her New York City debut singing the roles of Popelka and Armande in the Gotham Chamber Opera double bill production of Martinu's *Veselohra na moste* and *Alexandre Bis*. *The Wall Street Journal* likewise noted “an ebullient soprano with great stage presence” and that she “sparkled” as the two leading ladies. Jenna returned to the company this winter covering the role of the La Princesa in *El Gato con Botas* (Montsalvatge). Jenna happily made another company and role debut in March 2016 performing the lead role of Leontine in the US premiere of *L'amant Anonyme*, composed by Chevalier de Saint-Georges at the Little Opera Theater of NY and joined the Carolina Philharmonic for their “Night at the Opera” in April 2016.

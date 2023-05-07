@@ -17,13 +17,17 @@ The story of *Rigoletto*, one of Giuseppe Verdi's masterpieces, is one of power,
 
 We find ourselves in the domain of the Duke. He exerts his power over the masses through his manipulation of Rigoletto's remarkable skill for what is now popularly known as "reading" people. As you can imagine, this doesn't make Rigoletto any friends. The Duke also exerts his power over other men's wives - right in front of them. An old man throws a curse around, a woman is deflowered, an assassin double-crosses, people die. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517849278204/17-18-03-MC-D-0010.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517849278204/17-18-03-MC-D-0010.jpg.jpg)
 <figcaption>Roland Wood (Rigoletto) in the Canadian Opera Company's production of *Rigoletto*, 2018. Photo: Michael Cooper.</figcaption>
 </figure>
 
 Now that you know said story, let's talk about some fine music-making. On February 1st, I finally got the chance to catch the [Canadian Opera Company's *Rigoletto*](https://www.coc.ca/productions/13071). On the podium, conductor Stephen Lord led the COC Orchestra and singers through a great ride of some thrilling music. His tempi were brisk yet fluid, and the musicians under his baton brought all the fire and verve that we love from this incredible composer. The men of the COC Chorus were on point and sang particularly well. Verdi's is incredibly exciting music - and it gets more exciting the more people are involved in making the sound. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517848826588/17-18-03-MC-D-1089.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517848826588/17-18-03-MC-D-1089.jpg.jpg)
 <figcaption>Roland Wood (Rigoletto) and Anna Christy (Gilda) in the Canadian Opera Company's production of *Rigoletto*, 2018. Photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -31,7 +35,9 @@ In the title role, baritone [Roland Wood](/scene/people/roland-wood/) was incred
 
 Playing the role of Rigoletto's daughter, Gilda, soprano [Anna Christy](/scene/people/anna-christy/) evoked every milligram of innocence and naïveté that makes us feel so strongly for Gilda and her fate. Her bright eyes and honest face shone out from the dark, stern construction of the sets that surrounded her. Her bright, sparkling soprano was used incredibly creatively. For the most part, I found her production to be somewhat bashful, unleashing a dragon of a voice during points of heightened drama. This was definitely most on display during her famed aria, "Caro nome", which rightfully stopped the show. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517848851332/17-18-03-MC-D-0668.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517848851332/17-18-03-MC-D-0668.jpg.jpg)
 <figcaption>Anna Christy (Gilda) and the COC Chorus in the Canadian Opera Company's production of *Rigoletto*, 2018. Photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -39,13 +45,17 @@ Stephen Costello's Duke was a highlight for sure. His steely, strong tenor was a
 
 THE aria - "La donne è mobile" - was brilliant. He sang it with care and finesse, while his body and physicality expressed a nonchalance that made you both envy and despise him. Not going to lie, I'm not sure I'd be able to resist this Duke, and I did feel a bit of an affinity for both Gilda and Maddalena watching him carouse around the stage.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517848940036/17-18-03-MC-D-0498.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517848940036/17-18-03-MC-D-0498.jpg.jpg)
 <figcaption>Anna Christy (Gilda) and Stephen Costello (the Duke of Mantua) in the Canadian Opera Company's production of *Rigoletto*, 2018. Photo: Michael Cooper.</figcaption>
 </figure>
 
 One important thing to note is that during the time of the original telling of the story of *Rigoletto* is that the men and women were extremely superstitious. One of the things that carried the most weight in this time were curses - in particular if they were uttered by an old man. Enter Monterone, sung phenomenally by [Robert Pomakov](/scene/people/robert-pomakov/). The rage, despair, and embarrassment of what happened to his poor daughter at the hands of the Duke and his horrid henchmen dripped like treacle from every note he uttered. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517848982461/17-18-03-MC-D-1277.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517848982461/17-18-03-MC-D-1277.jpg.jpg)
 <figcaption>(l-r) Bruno Roy (Marullo, in background), Carolyn Sproule (Maddalena), and Stephen Costello (the Duke of Mantua) in the Canadian Opera Company's production of *Rigoletto*, 2018. Photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -53,7 +63,9 @@ Bass Goderdzi Janelidze sang the role of the assassin Sparafucile. Well sung, wi
 
 Supporting roles played by [Neil Craighead](/scene/people/neil-craighead/) (Count Ceprano), [Lauren Eberwein](/scene/people/lauren-eberwein/) (Countess Ceprano), [Bruno Roy](/scene/people/bruno-roy/) (Marullo), Jon Kriter (Borsa), and [Megan Latham](/scene/people/megan-latham/) (Giovanna) were carried out to excellence and each played their role in a way that advanced the drama of the plot and sung with care and excellence. It's always a treat to see current members of the COC Ensemble studio hitting the boards in mainstage productions. Making their COC debuts this time around were two ensemble members [Samuel Chan](/scene/people/samuel-chan/) (Usher) and [Simone McIntosh](/scene/people/simone-mcintosh/) (Page). I'm excited to see these two singers as the grow through the ranks - also, I'm in LOVE with the Page's crimson riding suit costume. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517848991951/17-18-03-MC-D-0096.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517848991951/17-18-03-MC-D-0096.jpg.jpg)
 <figcaption>A scene from the Canadian Opera Company's production of *Rigoletto*, 2018. Photo: Michael Cooper.</figcaption>
 </figure>
 

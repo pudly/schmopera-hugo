@@ -25,7 +25,9 @@ Opera and theater have always been my passion, and also today, after so many yea
 
 I performed this piece for the first time at the Opéra Comique in Paris, wonderfully directed by Ludovic Lagarde, and we performed it multiple times. I am drawn to this work because it's modern and universal. It's a magnificent theatrical text and is the subject of many cinematic versions. My favorite is the English version with Ingrid Bergman.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489317348722/2017-03-12---Voix-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489317348722/2017-03-12---Voix-2.jpg.jpg)
 <figcaption>Anna Caterina Antonacci in *La Voix humaine* at SF Opera Lab. Photo: Cory Weaver/San Francisco Opera.</figcaption>
 </figure>
 
@@ -33,7 +35,9 @@ I performed this piece for the first time at the Opéra Comique in Paris, wonder
 
 San Francisco Opera has been a recurring point of reference my entire career: I sang here the first time as a young Rossini artist, then a few years later with Carol Vaness in *Norma*, in 2015 in the wonderful opera *Two Women* and in *Les Troyens*, and today I'm back for *La voix humaine*. With this continuity, San Francisco Opera has shown me not only a great deal of confidence, but has also shown affection for me as an artist. After nearly 30 years in this career, I can assure you that this is most appreciated! Both Donald Sulzen and I are very impressed by the care with which this concert has been prepared.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489317357114/2017-03-12---Voix-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489317357114/2017-03-12---Voix-1.jpg.jpg)
 <figcaption>Anna Caterina Antonacci and pianist Donald Sulzen in *La Voix humaine* at SF Opera Lab. Photo: Cory Weaver/San Francisco Opera.</figcaption>
 </figure>
 

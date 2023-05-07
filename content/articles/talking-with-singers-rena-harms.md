@@ -29,7 +29,9 @@ I am currently doing a production at Arizona Opera and this *Butterfly* is very 
 
 I am sure my third production later this season at Opera Theater of St. Louis will also bring new things to light. With such an complex role, I strive to find new things every time I play her, and it's one of the most thrilling things about getting to repeat a role.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484850265194/2017-01-19---2016_ENOMadameButterfly_2016_ThomasBowles.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484850265194/2017-01-19---2016_ENOMadameButterfly_2016_ThomasBowles.jpg.jpg)
 <figcaption>Rena Harms (Cio-Cio San) and David Butt Philip (Pinkerton) in *Madame Butterfly* at English National Opera, 2016. Photo by Thomas Bowles.</figcaption>
 </figure>
 
@@ -37,7 +39,9 @@ I am sure my third production later this season at Opera Theater of St. Louis wi
 
 It's interesting to think about an Italian composer writing about an American in Japan at a time when cultures were far more isolated. There must have been a lot of guessing involved. Despite this limitation, he created very human and engaging characters. I think Puccini's choice to create a very strong heroine and a weaker, or less appealing hero was ahead of his time. He shows so much humanity in these characters. They are idealistic and flawed, filled with desire and hope. I think he must have cared for them, seeing their strengths even as he saw their faults.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484847328185/2017-01-19---Harms-2.jpg.jpg)<figcaption>Rena Harms, soprano. Photo by Fay Fox.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484847328185/2017-01-19---Harms-2.jpg.jpg)<figcaption>Rena Harms, soprano. Photo by Fay Fox.</figcaption>
 </figure>
 
 ## What do you like to do with your free time while you're away from home on a gig? 

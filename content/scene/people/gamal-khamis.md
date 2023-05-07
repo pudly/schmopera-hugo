@@ -16,6 +16,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/gamalpiano"
 
+_template = "people_single"
 +++
 After gaining a degree in Mathematics at Imperial College London, Gamal completed his formal musical education at the Royal College of Music, where he studied with Niel Immelman, Simon Lepper, Ashley Wass and Andrew Ball. He first performed at the Wigmore Hall at the age of ten, and has since appeared at the Queen Elizabeth Hall, Purcell Room, Cadogan Hall, Sage Gateshead, Oxford Lieder Festival, Buxton Festival and Chipping Campden Festival, among many others. He has participated in festivals in Canada, Denmark, France, Greece, Italy, The Netherlands, Sweden, Switzerland and the USA, and has been lucky to work with musicians including Mitsuko Uchida, Richard Goode, Paul Badura-Skoda, Leon Fleisher and Robert Levin, among many others.
 

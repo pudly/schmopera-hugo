@@ -8,6 +8,7 @@ related_companies = ["scene/companies/against-the-grain-theatre.md","scene/compa
 slug = "geoffrey-sirett"
 title = "Geoffrey Sirett"
 website = "http://www.geoffreysirett.com/"
+_template = "people_single"
 +++
 
 Baritone Geoffrey Sirett has emerged as one of Canada’s finest young baritones, and is highly sought-after across the country for a wide range of operatic and concert repertoire.

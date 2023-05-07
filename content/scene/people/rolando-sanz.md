@@ -21,6 +21,7 @@ url = "https://twitter.com/rolandosanz"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/rolandosanztenor"
+_template = "people_single"
 +++
 
 Praised by *Opera News* for his “warm, strong, highly promising tenor," Rolando Sanz is thrilling audiences with his impeccable technique and musical depth, as well as his vocal “color and heartfelt interpretations” (Milwaukee Journal Sentinel). This season, he joins the roster of the Metropolitan Opera for their season-opening production of *Otello*. He also returns to Spoleto Festival USA as tenor soloist in Beethoven's *Choral Fantasy* and Mass in C Major, Washington Concert Opera as Don Gaspar in *La favorite*, and makes his Ash Lawn Opera debut in his signature role of Alfredo in *La traviata*. 

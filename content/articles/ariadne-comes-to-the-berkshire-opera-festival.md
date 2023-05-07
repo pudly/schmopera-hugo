@@ -23,7 +23,7 @@ title = "Ariadne comes to the Berkshire Opera Festival"
 
 **JL**: I anticipate that with the Berkshire Opera Festival staff and the talent we bring in, artists and designers, that we will have similar if not greater success than last year.  In addition, producing a lesser-know piece like *Ariadne* doesn’t worry us because the Berkshire audience is a sophisticated one.  They do not need to recognize a name in order to attend a show.  Exploring the entire operatic repertoire is a part of the Berkshire Opera Festival mission.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502207025082/2017-08-08---BOF-team.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502207025082/2017-08-08---BOF-team.jpg.jpg)
 <figcaption>(l-r) Berkshire Opera Festival's Brian Garman, Artistic Director, and Jonathan Loy, General Director.</figcaption>
 </figure>
 

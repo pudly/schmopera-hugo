@@ -22,7 +22,9 @@ Now, he laughs at his reaction to his missed opportunity in Santa Fe. "I was lik
 
 "You get the idea that these are massive companies and they're A houses," says Nelson of his notable company debuts. "I get the feeling I want to walk in with a suit and tie every day and be very buttoned-up." Despite any expectations, Nelson found that like smaller companies, big houses are full of people who have the same creative goal. "You get to the house and you start working with the people, and it's just another production," he explains. "It's just a bunch of people that just want to put on the best show possible."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854582496/2017-03-18---Nelson-Escamillo%2BSZ%2B1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854582496/2017-03-18---Nelson-Escamillo%2BSZ%2B1.jpg.jpg)
 <figcaption>Zachary Nelson as Escamillo in *Carmen*, Salzburg Landestheater. Photo by Anna-Maria Löffelberger.</figcaption>
 </figure>
 
@@ -36,7 +38,9 @@ Of course, few people can resist playing a villain, and Donizetti's Enrico comes
 
 "It's like a guilty pleasure. 'Oh my gosh, I kind of get where he's coming from.'"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854593394/2017-03-18---Nelson-Figaro%2BDD%2B5.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854593394/2017-03-18---Nelson-Figaro%2BDD%2B5.jpg.jpg)
 <figcaption>Zachary Nelson as Figaro in *Le nozze di Figaro*, Dresden Semperoper. Photo: Matthias Creutziger.</figcaption>
 </figure>
 
@@ -48,7 +52,9 @@ Maintaining a routine - both inside and outside of the rehearsal room - can be o
 
 As important as rest and routine are, Nelson doesn't subscribe to a hermit-like life between rehearsals "If I'm itching for a burger and beer, and I don't have a show the next day, I'm going to go get that burger and beer," he admits. "I don't want to be constantly in my own head, thinking about the state of my vocal cords."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854606026/2017-03-18---Nelson-Malatesta%2B3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854606026/2017-03-18---Nelson-Malatesta%2B3.jpg.jpg)
 <figcaption>Zachary Nelson as Dr. Malatesta, with Andrew Shore as Don Pasquale in *Don Pasquale*, Sante Fe Opera. Photo: Ken Howard.</figcaption>
 </figure>
 
@@ -60,7 +66,9 @@ Nelson has also found the benefits that come from several years of work in vario
 
 "When I was in Chicago doing *Das Rheingold*, it was the first Wagner I'd ever done," Nelson recalls. "I was sitting onstage on opening night, and [Eric Owens](/scene/people/eric-owens/) is just wailing away [as Wotan]. I'm standing there on the stage with him, and I just started welling up." It was a moment in his career that will stick with him, and which offered a clear picture of the rewards that remain in store for the young baritone.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854661352/2017-03-18---Nelson-LOC%2BDonner%2B1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854661352/2017-03-18---Nelson-LOC%2BDonner%2B1.jpg.jpg)
 <figcaption>Zachary Nelson as Donner with Laura Wilde as Freia in *Das Rheingold*, Lyric Opera of Chicago. Photo: Todd Rosenberg.</figcaption>
 </figure>
 

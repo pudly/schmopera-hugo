@@ -27,7 +27,9 @@ New music challenges me! I often have to spend more time deconstructing the rhyt
 
 The most exciting part is having the opportunity to work with composers and really understand where they are coming from in their writing and understand the intention behind a melodic theme or rhythmic gesture. Particularly, with [David Hertzberg](/david-hertzbergs-the-wake-world-a-strange-and-sexy-synergy/), I can be guided by his emotional intent for both the text he has written and the music, rather than just tempo or harmony. It is so nice that you can skip all of the guesswork! Initially, I approached his music too metronomically, but the way he has set music is perfectly fit for the text, so when a rhythm looks unusual or difficult to divide, all you have to do is speak it to realize it is identical to the natural spoken rhythm and you don't need to overthink. That's one of David's many gifts that show me he truly understands how to write opera.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527731212575/TheAngelsShare-TheRoseElfpromophotocreditKevinCondon01.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527731212575/TheAngelsShare-TheRoseElfpromophotocreditKevinCondon01.jpg.jpg)
 <figcaption>Composer David Hertzberg and mezzo-soprano Samantha Hankey. Photo: Kevin Condon.</figcaption>
 </figure>
 

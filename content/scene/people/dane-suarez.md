@@ -20,6 +20,7 @@ url = "https://twitter.com/danesuarez"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/danesuarez"
+_template = "people_single"
 +++
 
 Tenor Dane Suarez is quickly establishing himself as a “warm and robust tenore spinto” with “pure earth-shaking lyricism.” He was a 2014 National Semi-Finalist of the Metropolitan Opera National Council Auditions and this season, made his John F. Kennedy Center debut with Washington National Opera as Ely Parker in Glass’ *Appomattox*. He returned to Opera Memphis for their nationally recognized 30 Days of Opera and performed the role of Beppe (*I Pagliacci*) this past fall and again this spring for Don José in Peter Brook’s *La tragédie de Carmen*. Two exciting company and role debuts for Dane include his “beautiful, soaring, and moving” performance as Cavaradossi (*Tosca*) with LoftOpera that “brought down the house” and his upcoming Rodolfo (*La bohème*) at Crested Butte Music Festival.

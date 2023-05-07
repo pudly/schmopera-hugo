@@ -31,7 +31,9 @@ But, regarding the recording with Oralia Dominguez, I liked Amneris more than Ai
 
 Amneris is one of the most difficult roles in the mezzo-soprano repertory. It requires intense concentration and incredible physical and moral commitment, not only in the last act as many people believe. At the very beginning of the opera, a careful, disturbing and somewhat ominous leitmotif of jealousy sounds. Amneris appears with it, lives with it throughout the opera, and by the last act the motive has become a storm. But this storm is in her from the start, she simply keeps her emotions down in the beginning. On the whole Amneris must be reserved, because she is the Pharaoh's daughter and her nobility requires it. She carries out a dialogue with Aida, speaks tenderly talks to Radamès, but inside her all is boiling. It is difficult but very important to show this appearance of serenity while her turbulent feelings are boiling inside. In the opera, Verdi's leitmotifs reveal all of this.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479909349746/2016-11-23---Ekaterina-Semenchuk-as-Amneris-and-Leah-Crocetto-in-the-title-role-Aida-Photo-Cory-Weaver.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479909349746/2016-11-23---Ekaterina-Semenchuk-as-Amneris-and-Leah-Crocetto-in-the-title-role-Aida-Photo-Cory-Weaver.jpg.jpg)
 <figcaption>Ekaterina Semenchuk as Amneris and Leah Crocetto in the title role of *Aida*, San Francisco Opera, 2016. Photo by Cory Weaver.</figcaption>
 </figure>
 
@@ -51,7 +53,9 @@ In my city, St. Petersburg, I am a member of the friends of the Hermitage Museum
 
 Here in San Francisco you have many fantastic museums like the Museum of Modern Art and Asian Art Museum and, of course, all of the exhibitions and museums dedicated to marine history. Each time I visit, I find something new! I don't always have time for all that I want to see in other countries and cities, but I try. I like to walk very much. For example, here in San Francisco, I walk by the ocean for hours, just to walk and meditate.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479909388942/2016-11-23---Ekaterina-Semenchuk-as-Amneris-Act-II-Photo-Cory-Weaver.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479909388942/2016-11-23---Ekaterina-Semenchuk-as-Amneris-Act-II-Photo-Cory-Weaver.jpg.jpg)
 <figcaption>Ekaterina Semenchuk as Amneris, in Act II of *Aida*, San Francisco Opera, 2016. Photo by Cory Weaver.</figcaption>
 </figure>
 

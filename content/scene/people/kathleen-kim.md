@@ -17,6 +17,7 @@ url = "https://www.facebook.com/KathleenKimSoprano"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Kathleen_Kim"
+_template = "people_single"
 +++
 
 Kathleen Kim has been a regular fixture on the stage of The Metropolitan Opera for the past decade with appearances as Tytania (*A Midsummer Night’s Dream*) under James Conlon, Olympia in Bartlett Sher’s production of *Les contes d’Hoffmann* and Blondchen (*Die Entführung aus dem Serail*), both conducted by James Levine, Oscar (*Un ballo in maschera*) under Kirill Petrenko, Madame Mao (*Nixon in China*) directed by Peter Sellars and conducted by John Adams, and Zerbinetta (*Ariadne auf Naxos*) conducted by Fabio Luisi.

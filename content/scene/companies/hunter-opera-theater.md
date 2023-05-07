@@ -21,6 +21,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/hunteroperatheater/"
 
+_template = "company_single"
 +++
 The Hunter Opera Theater (HOT) is the resident opera company of Hunter College.  HOT specializes in contemporary opera, and is dedicated to performing the music by composers of the twentieth and twenty-first centuries.  HOT has presented numerous performance premieres since its inception, and their productions provide unique opportunities for talented, young artists to sing leading roles in contemporary masterworks while studying and performing roles from the standard repertoire through repertoire and scenes classes.  HOT’s biannual Pocket Opera Project supports the work of up-and-coming composers and librettists and fosters interdepartmental collaborations between Hunter students. 
 

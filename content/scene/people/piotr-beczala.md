@@ -21,6 +21,7 @@ url = "https://www.instagram.com/piotrbeczala/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/results?search_query=piotr+beczala"
+_template = "people_single"
 +++
 
 Piotr Beczała is one of the most sought-after tenors of our time and a constant guest in the world’s leading opera houses. The Polish-born artist is acclaimed by audiences and critics alike not only for the beauty of his voice, but also for his ardent commitment to each character he portrays.

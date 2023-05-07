@@ -16,6 +16,7 @@ url = "https://twitter.com/aSLOAnSays"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/asloansees/"
+_template = "people_single"
 +++
 
 Canadian soprano Whitney Leigh Sloan has been praised for her clear, lyrical voice and ability to take full advantage of both the light and shade in a score (*Opera Canada*). She is an avid performer with a passion for communicating the narratives of the operatic and concert genres as well as the musical intimacy of art song and small ensembles.

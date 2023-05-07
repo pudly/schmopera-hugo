@@ -10,6 +10,7 @@ title = "Rachael Kerr"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/rachaelkerrpiano"
+_template = "people_single"
 +++
 
 Originally from Grand Rapids, Michigan, pianist Rachael Kerr is a versatile performer, frequently appearing as a soloist, collaborator, coach, and chamber musician.  She was recently featured in a performance of Messiaen’s Oiseaux Exotiques with the Northwestern University Symphonic Wind Ensemble, and was invited back to be the soloist for Stravinsky’s Concerto for Piano and Winds the next season.   Rachael has also received fellowships to both the Tanglewood Music Center and the Aspen Music Festival, where she has worked with conductors such as Ken-David Masur, George Manahan, Tomás Netopil, and Josh Weilerstein.

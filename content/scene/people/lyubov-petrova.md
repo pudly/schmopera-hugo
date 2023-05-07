@@ -12,6 +12,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/LyubovPetrovaSoprano/"
 
+_template = "people_single"
 +++
 _Opera News_ hails Lyubov Petrova as a “soprano of ravishing, changeable beauty, blazing high notes and magnetic stage presence.” In the 2018-19 season, she returns to Florida Grand Opera as Countess Almaviva in **Le nozze di Figaro**. Last season, she sang Susanna in **Le nozze di Figaro** with the Metropolitan Opera, her first performances of Freia in **Das Rheingold** with both the London Philharmonic and Odense Symphony Orchestra, and returned to the Metropolitan Opera for their production of **Così fan tutte**. She also joined Bard Music Festival for Marfa in **The Tsar’s Bride**, Music@Menlos for Shostakovich's **From Jewish Folk Poetry**, and returned to La Jolla Music Festival for performances Lilla-Lobos’ **Bachianas Brasileiras** and selections of Schubert Lieder.   
   

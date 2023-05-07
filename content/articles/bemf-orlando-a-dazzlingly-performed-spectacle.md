@@ -21,7 +21,9 @@ The Boston opera scene has had an entire half of a season full of productions th
 
 Typically, these are earlier operas, where performance requires a razor-sharp edge on the musical aspects of the work, and the performance can live or die on how well the music comes across to the audience.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465096/media/2019/06/BEMForlandodress-05.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1560465096/media/2019/06/BEMForlandodress-05.jpg)
 
 <figcaption>Emöke Baráth as Bradamante in Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -31,7 +33,9 @@ Thus, we turn to Agostino Steffani's _Orlando_, a singularly strange operatic cr
 
 For example, there is a sorcerer character named Atlante, who begins the work opposing the marriage of the lovers Bradamante and Ruggiero. It is never really explained why he does not want this marriage to occur, and then in Act II the big lovers' spat between Bradamante and Ruggiero ends up happening anyway thanks to factors that Atlante has no part in. After all this (and a second encounter where Bradamante uses her ring to overpower Atlante), he suddenly decides not to oppose it, quite literally because Fate decreed they would marry.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465085/media/2019/06/BEMForlandodress-03.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1560465085/media/2019/06/BEMForlandodress-03.jpg)
 
 <figcaption>Jesse Blumberg (Atlante) and Emöke Baráth (Bradamante) in Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -43,7 +47,9 @@ This is far from the only element of Mauro's libretto that does not quite add up
 
 The one thing that is made clear is a very wild series of misunderstandings between different groups of lovers, all of whom grow jealous of each other as the work goes on. Bradamante becomes angry at Ruggiero when she mistakenly thinks Ruggiero has fallen for Angelica, Orlando's madness is triggered by his belief that Angelica loves Ruggiero, his madness manifests as believing that everyone is Angelica, and the whole time Angelica is trying to reunite with Medoro, who happens to be her actual lover.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465075/media/2019/06/BEMForlandodress-06.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1560465075/media/2019/06/BEMForlandodress-06.jpg)
 
 <figcaption>Emöke Baráth (Bradamante) in Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -55,7 +61,9 @@ Things get complicated when Galafro only releases on the request of his disguise
 
 The plot of _Orlando_ thus comes off as an excuse to let the singers explore all sorts of configurations of love. With such a work, therefore, the only way to engage it is on its own strange, silly terms. Ironically, this is perhaps why this opera is actually a perfect fit for the Boston Early Music Festival: BEMF has made it a habit of staging works by maintaining as much fidelity to Baroque staging styles as is reasonable, with the costume and set design taking many, many cues from production notes from the actual 17th and 18th centuries and updating many of the gestural cues involved. The stage directors that work with BEMF are thus kind of required to engage with the works they perform as they are, and typically this leads to a very fun, very spectacular result.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465065/media/2019/06/BEMForlandodress-14.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1560465065/media/2019/06/BEMForlandodress-14.jpg)
 
 <figcaption>A scene from Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -63,7 +71,9 @@ The plot of _Orlando_ thus comes off as an excuse to let the singers explore all
 
 As messy as the plot of _Orlando_ is, this approach worked for this opera just as well as it has in previous seasons, and the result was rather a joy to watch that it became rather easy to turn the brain off and just enjoy the opera as it is. For one thing, the production handled the frequent spectacle of the work with taste and a deft hand for all of the elements. There were several times where characters were flown in on a little cart suspended from the rafters, and the effect never lost its freshness throughout the runtime considering how many different contexts there were for each flight into the scene. The dance corps that BEMF hired should also be applauded for some truly beautiful dancing, complete with tight footwork and hand gestures that conveyed a lot of character with very little.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465053/media/2019/06/BEMForlandodress-12.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1560465053/media/2019/06/BEMForlandodress-12.jpg)
 
 <figcaption>Amanda Forsythe (Angelica) in Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -75,7 +85,9 @@ And then there were several deft staging touches that, while perhaps not always 
 
 It was a lot of little touches all throughout, but the appropriateness of each little touch added to the drama and to the conceit of the whole production.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465040/media/2019/06/BEMForlandodress-20.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1560465040/media/2019/06/BEMForlandodress-20.jpg)
 
 <figcaption>Aaron Sheehan (Orlando) in Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -89,7 +101,9 @@ Practically the entire cast flawlessly pulled off Steffani's virtuosic vocal wri
 
 And then, [Emöke Baráth](/scene/people/emoke-barath/)'s Bradamante came charging forth with full voice any time she scolded Ruggiero for what she perceived as his unfaithfulness. Practically everyone had something to offer with that, from the way that [Jesse Blumberg](/scene/people/jesse-blumberg/)'s tone as Atlante grew softer after he stops trying to get in the way of Bradamante and Ruggiero to the passion with which [Aaron Sheehan](/scene/people/aaron-sheehan/) delivered his show-stopping Act III prison aria as Orlando, and the result was a well-rounded cast at the top of their game lending credibility to the emotions and motivations of the characters.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465023/media/2019/06/BEMForlandodress-24.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1560465023/media/2019/06/BEMForlandodress-24.jpg)
 
 <figcaption>A scene from Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman.</figcaption>
 

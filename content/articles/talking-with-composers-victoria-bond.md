@@ -29,7 +29,9 @@ The premiere in Germany was particularly exciting because the cast had rehearsed
 
 As a conductor myself, I was so impressed with the skill and dedication of the cast and instrumentalists, particularly Berlin Philharmonic musician Michael Hasel who conducted the performances. I knew I was in good hands under his direction!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572466726/media/2019/10/Osterfestspiele2019Clara-JochenKlenk_vppqev.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572466726/media/2019/10/Osterfestspiele2019Clara-JochenKlenk_vppqev.jpg)
 
 <figcaption>A scene from the premiere production of Clara in Baden-Baden, at the 2019 Osterfestpiele. Photo: Jochen Klenk.</figcaption>
 
@@ -43,7 +45,9 @@ I try to write every day and set aside each morning.  Inspiration is  elusive, b
 
 I am quite certain that most people have no idea of what goes into composing. It is generally not accurately portrayed in film, and so much of it is not at all exciting to watch.  However, discovering a new idea, a turn of phrase, an unexpected harmony – these are the precious moments a composer lives for!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572466868/media/2019/10/Osterfestspiele2019Clara2-JochenKlenk_fdoylq.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1572466868/media/2019/10/Osterfestspiele2019Clara2-JochenKlenk_fdoylq.jpg)
 
 <figcaption>A scene from the premiere production of Clara in Baden-Baden, at the 2019 Osterfestpiele. Photo: Jochen Klenk.</figcaption>
 

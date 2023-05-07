@@ -21,7 +21,9 @@ I have known and loved the stories since my childhood and read them to my daught
 
 Stephen McNeff composed a score for various combinations of instruments depending on the forces available. It's a charming, tuneful score full of character driven melodies and harmonies. The noted children's author Adrian Mitchell adapted some very funny lyrics for the songs which are great fun to sing. I have performed Stephen's score in both the full symphonic version with orchestras such as Calgary Philharmonic in Canada and the Nottingham Philharmonic in UK and also performed it many times in London in the chamber music version with the London Sinfonia at Cadogan Hall. However, for Edinburgh, Stephen has arranged the score for a smaller ensemble so I'm excited to be presenting this "new" version.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501640036659/Michelle%20Todd.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501640036659/Michelle%20Todd.jpg.jpg)
 <figcaption>Michelle Todd, soprano and actress.</figcaption>
 </figure>
 

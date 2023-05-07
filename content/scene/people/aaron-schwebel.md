@@ -12,6 +12,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/aaron.schwebel.5?fref=ts"
 
+_template = "people_single"
 +++
 Canadian violinist Aaron Schwebel has performed throughout the world in various musical roles. Based in his native Toronto, Aaron currently holds the positions of Concertmaster with the National Ballet of Canada Orchestra and Associate Concertmaster with the Canadian Opera Company. As a guest concertmaster, Aaron has performed with the National Arts Centre Orchestra, Les Violons Du Roy, the Hamilton Philharmonic Orchestra, and the Kitchener-Waterloo Symphony. Aaron is also Founder and Artistic Director of Echo Chamber Toronto, a series that merges chamber music and contemporary dance ([www.echochambertoronto.com](http://www.echochambertoronto.com/)).
 

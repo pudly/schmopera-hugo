@@ -29,7 +29,9 @@ Now is no time to look down on feats like this one, because it really was an ama
 
 And speaking of the participating artists - I wonder very loudly how they felt about doing this for no fee, particularly those who found out about their cancelled Met contracts through social media posts. It's quite something for General Manager Peter Gelb to not call his contracted artists when COVID-19 shut everything down, and then ask them to come help "Save The Met" with a free performance at home. Yikes.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1587919289/media/2020/04/MetHomeGala-3_j9zqas.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1587919289/media/2020/04/MetHomeGala-3_j9zqas.jpg)
 
 <figcaption>The Metropolitan Opera's General Manager Peter Gelb (top left), Music Director Yannick Nézet-Séguin (bottom left), and tenor Jonas Kaufmann with pianist Helmut Deutsch in The Met's At-Home Gala, April 25, 2020.</figcaption>
 

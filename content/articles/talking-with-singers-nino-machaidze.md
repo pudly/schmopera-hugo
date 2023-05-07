@@ -23,7 +23,9 @@ Gilda is a naive, young girl who wants to discover life outside of the door of h
 
 You can't sing Verdi without goosebumps and tears, just like Puccini. With Verdi, you must always wait to sing his operas because almost all his parts need someone of the right age and maturity. Gilda is a young character, but still her part as written in the score is lyrical and needs a lyrical voice. Of course, you need high notes, i "filati" e "mezze voci"; but Gilda needs a lyrical voice, especially in the last act where the orchestra is really loud and you have to project your voice to the back of the hall! Verdi is unique; Verdi is emotions; Verdi is perfection!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495982906404/2017-05-28---Nino-Machaidze-as-Gilda-in-Verdis-Rigoletto-in-rehearsal-at-San-Francisco-Opera-Photo-by-Cory-Weaver.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495982906404/2017-05-28---Nino-Machaidze-as-Gilda-in-Verdis-Rigoletto-in-rehearsal-at-San-Francisco-Opera-Photo-by-Cory-Weaver.jpg.jpg)
 <figcaption>Nino Machaidze as Gilda in Verdi's *Rigoletto*, in rehearsal at San Francisco Opera. Photo: Cory Weaver.</figcaption>
 </figure>
 

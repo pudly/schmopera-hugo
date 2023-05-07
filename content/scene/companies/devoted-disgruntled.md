@@ -16,6 +16,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/DandDUK"
 
+_template = "company_single"
 +++
 [Improbable](http://www.improbable.co.uk/) have been running D&D, a conversation using Open Space, since 2005. Artistic director Phelim McDermott writes:
 

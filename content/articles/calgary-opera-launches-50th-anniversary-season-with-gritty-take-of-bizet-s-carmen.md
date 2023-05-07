@@ -21,7 +21,9 @@ In a lot of ways, Bizet’s _Carmen_ may be the ideal vehicle for opera companie
 
 But says director [Brenna Corner](/scene/people/brenna-corner/), _Carmen_ offers much more than catchy music. "Bizet wrote a piece of theatre and just wrote all the subtext in the orchestra, and he wrote all the nuances of how he wanted it delivered in the musical line the singers sing," she tells Schmopera. "But _Carmen_ is a story of intimate partner abuse. Quite frankly, it's a dangerous and tragic story that still happens today to men and women alike, and that's a problem. We still have people who can’t be free, controlled by the people who are supposed to love them."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668567008/media/2022/11/CalgaryOpera_ChaiebCorner_lllhs1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1668567008/media/2022/11/CalgaryOpera_ChaiebCorner_lllhs1.jpg)
 
 <figcaption>Director Brenna Corner and mezzo Rihab Chaieb spoke with Schmopera.com about Calgary Opera’s grittier take of Bizet’s Carmen at the Southern Alberta Jubilee Auditorium on November 19, 23 and 25. Photos courtesy of Calgary Opera and Rihab Chiaeb.</figcaption>  
 </figure>
@@ -40,7 +42,9 @@ For an opera as well-known as _Carmen_, Corner says the challenge is to ensure m
 
 "What I like about this staging is that I'm given _carte blanche_ to be playful," says Chaieb. "People are attracted to this character because of a certain _je ne sais quoi_ that is rooted in her power and confidence. She knows what she wants and knows her sexuality but is the victim of a very dark circumstance that still happens today." No spoilers on exactly how Chaieb's _Carmen_ will meet her end (after all, it’s opera), but both Chaieb and Corner say it is in keeping with how the story of _Carmen_ is about intimate partner abuse.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668567036/media/2022/11/CalgaryOpera_FordPomeroy_pgvemd.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1668567036/media/2022/11/CalgaryOpera_FordPomeroy_pgvemd.jpg)
 
 <figcaption>Baritone Nmon Ford (Escamillo) and tenor David Pomeroy (Don José) also star in Calgary Opera’s production of Bizet’s Carmen to kick off the company’s 2022-23 season. Photos courtesy of Calgary Opera.</figcaption>  
 </figure>

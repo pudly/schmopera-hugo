@@ -23,7 +23,9 @@ If you can stand the bittersweet, sweeping camera shots of the oh-so-empty Four 
 
 I could have done without the script given to General Director Perryn Leech, whom we're all still getting to know. I get the idea behind it: greet the viewers, set up the concert, and offer conflict-free commentary between numbers. It certainly felt a bit hokey at times, but I sense that the COC has a better grasp on their core audience (and perhaps their age) than I do.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632920832/media/2021/09/COC_MC1_Orch2_dwsqe8.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1632920832/media/2021/09/COC_MC1_Orch2_dwsqe8.jpg)
 
 <figcaption>COC Music Director Johannes Debus and the COC Orchestra performing in the COC's In Concert: Russell Braun and Tamara Wilson with the COC Orchestra, 2021. Photo: COC.</figcaption>
 
@@ -39,7 +41,9 @@ But really, from where I was sitting, the night belonged to Wilson. Arias from _
 
 I figured that would be my highlight, but then Wilson gave us Leonora's first act aria from _Il trovatore_, nestled right next to Isolde's Liebestod from _Tristan und Isolde_. I've always been impressed with her Italian singing; I heard her in the COC's recent productions of _Turandot_ and _Otello_, and was a solid fan.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632920863/media/2021/09/COC_MC1_TamaraStill3_hhhkwv.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1632920863/media/2021/09/COC_MC1_TamaraStill3_hhhkwv.jpg)
 
 <figcaption>Tamara Wilson (left) performing in the COC's In Concert: Russell Braun and Tamara Wilson with the COC Orchestra, 2021, photo: COC</figcaption>
 

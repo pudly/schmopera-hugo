@@ -19,19 +19,25 @@ Any time I've worked on a show, I've always loved learning of the connections be
 
 I'm currently working on the Canadian Opera Company's upcoming [triple bill](http://www.coc.ca/PerformancesAndTickets/1516Season/PyramusandThisbe.aspx), featuring two works by Monteverdi, *Lamento d'Arianna* and *Il combattimento di Tancredi e Clorinda*, and Barbara Monk Feldman's 5-year old opera, *Pyramus and Thisbe*. Three singers are featured: tenor and COC Ensemble Studio grad [Owen McCausland](/scene/people/owen-mccausland/), busy Canadian baritone [Phillip Addis](/scene/people/phillip-addis/), and mezzo extraordinare [Krisztina Szabó](/scene/people/krisztina-szabo/). Director Christopher Alden has spent his hours with these stories, and in his concept discussion with the cast creative team, I realized that these three operas, in this particular combination, create the largest web of story association that I can remember.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442413568763/Angelica_Kauffmann_-_Ariadne_Abandoned_by_Theseus_-_Google_Art_Project.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442413568763/Angelica_Kauffmann_-_Ariadne_Abandoned_by_Theseus_-_Google_Art_Project.jpg.jpg)
 <figcaption>Angelica Kauffmann's *Ariadne Abandoned by Theseus*, 1774.</figcaption>
 </figure>
 
 *Lamento d'Arianna* is the only surviving fragment of Monteverdi's lost opera, *Arianna*. So, we've got the story is that of Ariadne and Theseus (thanks, **Greek mythology**!). There's a Minotaur in a labyrinth, to whom the Athenians periodically sacrifice seven youths and seven women (**The Hunger Games**, anyone?). The hero Theseus slays the carnivorous Minotaur, with the help of the king's daughter, Ariadne (heroes always get help from women, just like **Harry Potter**!). In return for Ariadne's help, Theseus promises to take her away from her family (who wouldn't like her after she helped the enemy) and bring her home to be his wife. Instead, he abandons her along the ride home, on the island of Naxos (like in that awesome **Strauss opera**, *Ariadne auf Naxos*!). Ariadne isn't happy about this, and she sings her Lament. So, it's a story of a man who maybe lied to a woman for a greater good, and left her alone without options. Not quite a specific story reference, but familiar nonetheless (#patriarchy).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442413857536/s.-badalocchio-tancredi-battezza-clorinda-modena-galleria-estense.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442413857536/s.-badalocchio-tancredi-battezza-clorinda-modena-galleria-estense.jpg.jpg)
 <figcaption>*Tancredi battezza Clorinda*, Sisto Badalocchio, c. 1610.</figcaption>
 </figure>
 
 Our Arianna (Ariadne) and Theseus then transform into Clorinda and Tancredi for opera number two of the evening. Tancredi (you know, the guy from **Rossini**'s *Tancredi*, and **Voltaire**'s *Tancrède*?) is a noble soldier, and Clorinda is his beloved, but she's a Saracen (or a Moor, or a Muslim, depending on what century you live in), and she secretly fights battles disguised in her armour. On the battlefield, Tancredi comes across Clorinda (without knowing it's her), and they have an epic fight (to quote Alden, "very ***Fifty Shades***"). Clorinda gets the short end of the deal (or the long end of the sword, I guess), and just before she dies she asks for a Christian baptism (White Eurocentrism for the win!); Tancredi co-operates, and upon removing her helmet for the baptism, he discovers the dying evil-Saracen-soldier is his secret girlfriend. I bet you can't think of an opera with mistaken identity in it...*cough*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442413282528/poussin.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442413282528/poussin.jpg.jpg)
 <figcaption> Poussin's *Paysage orageux avec Pyrame et Thisbé*, 1651. This painting was one of Barbara Monk Feldman's inspirations for her opera.</figcaption> 
 </figure>
 

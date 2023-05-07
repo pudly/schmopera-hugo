@@ -17,6 +17,7 @@ url = "https://www.facebook.com/kaufmannjonas?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/TenorKaufmann"
+_template = "people_single"
 +++
 
 Since his sensational début at the Metropolitan Opera in New York in a performance of “La Traviata” in 2006, Jonas Kaufmann has numbered among the top stars on the operatic horizon. The international press has singled him out as the “new king of tenors”. Insiders praise him as the most important German tenor since Fritz Wunderlich.

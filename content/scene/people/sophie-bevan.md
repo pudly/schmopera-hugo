@@ -8,6 +8,7 @@ publishDate = "2017-01-09T10:41:00+00:00"
 related_companies = ["scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md","scene/companies/english-national-opera.md","scene/companies/garsington-opera.md","scene/companies/welsh-national-opera.md","scene/companies/salzburg-festival.md","scene/companies/the-metropolitan-opera.md"]
 slug = "sophie-bevan"
 title = "Sophie Bevan"
+_template = "people_single"
 +++
 
 The recipient of the Young Singer award at the inaugural 2013 International Opera Awards, Sophie Bevan is now at the forefront of the new generation of young British singers. 

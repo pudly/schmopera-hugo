@@ -13,6 +13,7 @@ website = "http://marcusfarnsworth.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MBJFarnsworth"
+_template = "people_single"
 +++
 
 Marcus Farnsworth was awarded first prize in the 2009 Wigmore Hall

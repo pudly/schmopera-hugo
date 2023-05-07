@@ -21,6 +21,7 @@ url = "https://twitter.com/LagrandeRose"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCe09nxnIVncWlIw3J4YXnYQ"
+_template = "people_single"
 +++
 
 Recently nominated for the Wirth vocal prize competition, the Canadian mezzo-soprano Rose Naggar-Tremblay started her vocal training at the école préparatoire de musique de l’UQAM at the age of 12. She began to study acting and dancing at an early age, performing roles such as Métella in *La vie parisienne*, Cupidon in *Orphée aux enfers* and Cherubino in *Le nozze di Figaro*. After her DEC in music at the Cegep de St-Laurent, she entered the voice performance program at McGill University in Winston Purdy’s studio. Recent performances include roles such as Cecilia March in Adamo’s *Little Women* and Unulfo in Handel’s *Rodelinda*. She will be performing Cherubino with the Compagnie baroque Mont-Royal in june 2016.

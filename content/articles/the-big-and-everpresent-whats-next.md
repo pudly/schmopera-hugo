@@ -27,7 +27,9 @@ The audience's response to my music was overwhelmingly positive, I think. I actu
 
 The next morning involved a discussion with six members of the Frontiers panel, a group of decision makers from across the country who had also selected the pieces that were presented in the showcase. I scored points by describing the flexibility of the orchestration and casting options, being told that the absence of "preciousness" in my work and presentation (defined as a reluctance to let go and let collaborators in) was evident. I felt the warmth of comments regarding my lyricism, the balance of my vocal and piano writing, and the creativity of weaving Poe's poetry (what one panelist called "found material") into the libretto and the multiplying effect it had on character development. A review in the local paper said about my opera (which takes place in an mental institution), "…needless to say, you wouldn't want to be in this asylum – as either patient or caregiver." I'll take that as a positive.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498406901664/Frontiers2017-Everyone.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498406901664/Frontiers2017-Everyone.jpg.jpg)
 <figcaption>Everyone involved in the 2017 Frontiers Showcase at Fort Worth Opera.</figcaption>
 </figure>
 

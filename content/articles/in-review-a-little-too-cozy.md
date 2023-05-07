@@ -38,7 +38,9 @@ As Felicity and Dora ([Shantelle Przybylo](/scene/people/shantelle-przybylo/) an
 
 As host of *A Little Too Cozy*, [Cairan Ryan](/scene/people/cairan-ryan/) plays Donald L. Fonzo (Don Alfonso) to great success. A very "Don Pardo" kind of archetype, he was equal parts charming and smarmy - think Stanley Tucci in *The Hunger Games* movies. The fashionista in me wants to declare his suits the high point of this show, which were expertly designed by Snezana Pesnic, but that would be selfish. Ryan's voice has an amiable quality that draws you in. I really enjoyed how the music didn't have to suffer for him to produce such a fully fleshed-out character. His handling of the wordy dialogue was deft and clean, and out of the men, I found he filled the space the most. I think my real favourite part here though would be the fact that even though you knew he was toying with these people's lives, you were still on his side. He never once alienated the audience. 
 
-<figure data-type="image">{{% md %}}</figure>
+<figure data-type="image">
+
+</figure>
 
 As the Production Manager/Assistant, Despina, [Caitlin Wood](/scene/people/caitlin-wood/) was a delight. As is often the case, Despina was the highlight of the show for me, but it was Caitlin's [no-holds-barred, modern woman](https://www.youtube.com/watch?v=y3MjxWn5W9M) approach to her that drew me in. She used her sex and sexuality as a weapon of manipulation, but never to the point of maliciousness. She was playful, and edgy, and though the envelope was pushed in her hands, she never let it drop. I only have one question regarding Caitlin Wood. Why the hell is she NOT an international superstar yet? Her voice covers an astounding range with an even, clean, well-produced tone and the timbre is just perfect for coloratura fireworks. I want to hear her Lucia. I was excited from the get-go to see her do this role, but she exceeded any possible expectations I had ever had. 
 
@@ -47,7 +49,9 @@ As the Production Manager/Assistant, Despina, [Caitlin Wood](/scene/people/caitl
 
 [Christopher Mokrzewski](/scene/people/christopher-mokrzewski/) led a beautiful string quartet and from the moment they started the overture we knew we were in for a ride. With his trademark energy and style, Mokrzewski guided the cast and pit through the incredibly dense score that is *Così* as only he can - and you understand in one moment why he's so in demand as a Musical Director across the country.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463220390267/2016-05-14---AtG-Cozy-Darryl-Block-8.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463220390267/2016-05-14---AtG-Cozy-Darryl-Block-8.jpg.jpg)
 <figcaption>The cast of Against the Grain Theatre's *A Little Too Cozy*. Photo: Darryl Block.</figcaption>
 </figure>
 

@@ -32,7 +32,9 @@ Pérez calls her collaboration with maestro Santi "a labor of love! He has shown
 
 Pérez senses the strong connection that Italians have with their opera, and she loves the high level of investment in the art form. Like at opera houses worldwide, she has developed a relationship with audiences at La Scala, and she believes that well-loved operatic classics allow them to discover new talent. "There's nothing more thrilling than when the music you're expecting is sung beautifully, and acted with great care and nuance," she explains. "I think that's what's so thrilling about this art form. No one's perfect, but boy, is everyone giving their best!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487023827261/2017-02-13---HGO-Otello-Photographer-Lynn-Lane.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487023827261/2017-02-13---HGO-Otello-Photographer-Lynn-Lane.jpg.jpg)
 <figcaption>Ailyn Pérez as Desdemona in *Otello*, Houston Grand Opera, 2014. Photo by Lynn Lane.</figcaption>
 </figure>
 
@@ -48,7 +50,9 @@ Aware that arts education is in particular peril in the 21st century, Pérez con
 
 Though it's no substitute for quality music education, Pérez looks to outlets like Twitter and YouTube as flickers of hope for arts-curious youth today. "You have so much content now that you have access to, for no money," she explains, referring to the numerous online platforms available for streaming opera. That access is not a solution *per se*, but it's "certainly a lot to grow on." Pérez is excited by the idea of how easy it is for young people to hear opera and opera singers. "You go on YouTube, you type in [a] name, and there you go. Hello, role model."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487023775076/2017-02-13---Ailyn-Perez-Manon-in-Valencia-Photo-Credit-Tato-Baeza-Palau-de-les-Arts-Reina-Sofia.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487023775076/2017-02-13---Ailyn-Perez-Manon-in-Valencia-Photo-Credit-Tato-Baeza-Palau-de-les-Arts-Reina-Sofia.jpg.jpg)
 <figcaption>Ailyn Pérez (Manon) and Vittorio Grigólo (Des Grieux) in *Manon*, Palau de les Arts Reina Sofia, Valencia, 2010. Photo by Tato Baeza.</figcaption>
 </figure>
 
@@ -66,7 +70,9 @@ Perhaps the most meaningful lesson Pérez has learned from her 10-year professio
 
 Pérez sympathizes with the fear that can come with shedding the mentors and champions of one's academic or pre-professional career. She offers some advice for young singers: "Just remember that it's still your own responsibility. Try not to be too afraid."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487023871796/2017-02-13---Hamburg-Traviata-photos-by-Monika-Rittershaus.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487023871796/2017-02-13---Hamburg-Traviata-photos-by-Monika-Rittershaus.jpg.jpg)
 <figcaption>Ailyn Pérez as Violetta in *La traviata*, Staatsoper Hamburg, 2014. Photo by Monika Rittershaus.</figcaption>
 </figure>
 

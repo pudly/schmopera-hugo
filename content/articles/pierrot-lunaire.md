@@ -21,7 +21,9 @@ If you're one of those folks who get creeped out by clowns, I offer a gentle con
 
 The ensemble is "the shared vision of clarinetist and visual artist Brad Cherwin, oboist Aleh Remezau, and cellist Sarah Gans", and they've made a name for themselves with their bent for the _avant-garde_. And though it's 110 years old, few things sound as cutting edge as Arnold Schoenberg's _Pierrot Lunaire_.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1660051608/media/2022/08/Pierrot_conductor2_IMG_3454_t3ejtf.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1660051608/media/2022/08/Pierrot_conductor2_IMG_3454_t3ejtf.jpg)
 
 <figcaption>Simon Rivard conducting Schoenberg's _Pierrot Lunaire_, a film by Jake Kovnat, produced by Brad Cherwin. Filmed in June, 2022.</figcaption>  
 </figure>
@@ -30,7 +32,9 @@ The Happenstancers have released videos of five songs from _Three Times Seven Po
 
 _Pierrot Lunaire_ translates eerily well to film, especially in the hands of this team. Shot in black and white and with moments of harsh _chiarioscuro_ in Adam Harris' lighting design, we're brought into the delicate world of a chamber group set-up. Lorèn stands upstage, her exaggerated clown's ruff drawing the eye; downstage, Rivard is flanked by pianist Alexander Malikov, cellist Sarah Gans, violinist and violist Hee-See Yoon, clarinetist/bass clarinetist Brad Cherwin, and flautist/piccolist Rebecca Moranis.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1660051631/media/2022/08/Pierrot_pianist_IMG_3439_nkxhk5.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1660051631/media/2022/08/Pierrot_pianist_IMG_3439_nkxhk5.jpg)
 
 <figcaption>A still from Schoenberg's _Pierrot Lunaire_, a film by Jake Kovnat, produced by Brad Cherwin. Filmed in June, 2022.</figcaption>  
 </figure>
@@ -39,7 +43,9 @@ The five songs are directed with beautiful attention to the text-music fusion. "
 
 "Galgenlied" is a brief, robotic flash of a song; "Rote Messe" is thick and plodding, visualized by the camera's long pan in. "Der Mondfleck" is an erratic, too-small spotlight darting around the room, capturing glimpses of the whole ensemble, but never enough to satisfy. In the final song, "Nacht", Lorèn will give you the heebie-jeebies as she stares into your soul, the black of her eyes against the white of her ruff. _shudder_
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1660051644/media/2022/08/Pierrot_Danika2_IMG_3450_guuppe.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1660051644/media/2022/08/Pierrot_Danika2_IMG_3450_guuppe.jpg)
 
 <figcaption>A still from Schoenberg's _Pierrot Lunaire_, a film by Jake Kovnat, produced by Brad Cherwin. Filmed in June, 2022.</figcaption>  
 </figure>
@@ -50,6 +56,8 @@ This month, The Happenstancers head back to Lunenberg to perform more Pierrot-in
 
 If you've not done so already, have a look at their _Pierrot_:
 
-<figure data-type="video">{{% md %}}<iframe width="1060" height="596" src="https://www.youtube.com/embed/btigW200y0c" title="Schoenberg - Pierrot Lunaire (The Happenstancers)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1060" height="596" src="https://www.youtube.com/embed/btigW200y0c" title="Schoenberg - Pierrot Lunaire (The Happenstancers)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>

@@ -20,7 +20,7 @@ That said, even the hilarity of Warner Brothers' adaptation paled in comparison 
 
 Compared to drama, comedy can be hard to pull off successfully because humour is many things to many people. But judging by the reaction from the capacity audience at Saturday night's premiere, Calgary Opera has all the necessary ingredients for a memorable run that will appeal to even the most fussy patron. The entire company realized the vision of Alain Gauthier, stage director, through their sense of timing and comedic ensemble. Whether they rattled off Italian conversationally in a moment of recitative or spat out lyrics in one of Rossini's famous fast sections, there are no weak moments.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511192630928/2017-11-20---Barber-1.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511192630928/2017-11-20---Barber-1.jpg.jpg)
 <figcaption>John Tessier (Count Almaviva), Andrea Hill (Rosina), and Russell Braun (Figaro) in *The Barber of Seville*, Calgary Opera, 2017.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Special mention should be made for bass-baritone [Aaron Dimoff](/scene/people/aa
 
 The set design also deserves high praise. This particular imagining of *Barber* is set in the early 20th century, instead of the 18th century. The walls of Bartolo's residence are mostly white, which allows each colorful character to emerge. From Rosina's flowing coral dress to the leopard-printed housecoat for Bartolo, this colourful palette complements the bright singing of each character. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511192727259/2017-11-20---Barber-3.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511192727259/2017-11-20---Barber-3.jpg.jpg)
 <figcaption>John Tessier (Count Almaviva), Russell Braun (Figaro) and Andrea Hill (Rosina) in *The Barber of Seville*, Calgary Opera, 2017.</figcaption>
 </figure>
 

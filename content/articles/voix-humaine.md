@@ -25,7 +25,9 @@ Last year, I saw Groundling Theatre's production of Shakespeare's _Lear,_ in whi
 
 I wondered why opera companies didn't seem to be following suit with more dramatic gender swaps. That's when I had my idea to experiment with one of my favourite operas: _La voix humaine,_ by composer Francis Poulenc. I grabbed a score and the original play by Cocteau and set to research. Once I read more about the lives of Cocteau and Poulenc and how they dealt with their sexuality (Cocteau was quite out, Poulenc was more secretive), I became fascinated with the echoes between their own biographies and the protagonist of _La voix humaine._ People of all genders and orientations have their hearts broken. Pain and loss are universal. I want to explore what it would be like to peel back the curtain and to see a man, like Cocteau and Poulenc themselves, experiencing this story in 1930s Paris.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549389566/media/2019/02/JacquesArsenault.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1549389566/media/2019/02/JacquesArsenault.jpg)
 
 <figcaption>Jacques Arsenault, tenor and creator of (La) Voix humaine.</figcaption>
 

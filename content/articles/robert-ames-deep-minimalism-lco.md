@@ -21,12 +21,16 @@ Ames established the LCO in 2008 with co-Artistic Director and conductor [Hugh B
 
 "We kind of were getting a bit frustrated with how contemporary music was being programmed in London," admits Ames. "With a lot of the main, big, established orchestras, in a concert programme, you typically get a symphony, a concerto, whatever, and then a kind of token piece of contemporary music wedged in between, almost like an apology." Ensembles like the London Sinfonietta and the [City of London Sinfonia](/scene/companies/city-of-london-sinfonia/) are hard at work and breaking these norms, and the LCO is an exciting part of what it means to be an orchestra in the 21st century. "We were just really keen to programme orchestral concerts of purely contemporary classical music, and find interesting ways of doing that."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464094602253/Oval-Space-Conducting-2.gif)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464094602253/Oval-Space-Conducting-2.gif)
 </figure>
 
 Along with big ideas, the London Contemporary Orchestra has its dedicated corps of musicians, who average at about 25-30 years old, putting great intentions into practice. "We've got an amazing group of players, a lot of whom are soloists, and improvisors, making electronic music, and doing all sorts of interesting things as well as playing their instruments," says Ames. They contribute not simply their playing, but they are an important part of LCO's decisions in programming repertoire for their concerts. "It's a group of open-minded musicians who have other interests outside of traditional classical music, and a love of contemporary music." 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464094611359/PV9A1823.gif)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464094611359/PV9A1823.gif)
 </figure>
 
 Coming up next from LCO is the [DEEP∞MINIMALISM](http://www.lcorchestra.co.uk/events/deepminimalism/) festival, at the Southbank Centre's St. John's Smith Square on June 24. On the programme is the world premiere of *Still Point*, by British composer and electronic musician [Daphne Oram](https://en.wikipedia.org/wiki/Daphne_Oram), famous for establishing the [BBC Radiophonic Workshop](https://en.wikipedia.org/wiki/BBC_Radiophonic_Workshop). "She basically started writing this piece and didn't finish it, and it was never performed," adds Ames. "It was for orchestra and vinyl and turntables. We think it's one of the earliest examples of music for orchestra and electronics. She was doing this interesting stuff way before Stockhausen and all the famous guys were doing it."
@@ -41,7 +45,9 @@ Oliveros' *Rock Piece* is what audiences will hear on June 24th, and the score i
 
 As a result, the piece can be as long or as short as the performers want, and the musicians are free to either stay in one place, or to walk freely around the space.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464094621327/Theeb-Session-2.gif)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464094621327/Theeb-Session-2.gif)
 </figure>
 
 Ames is slowly working through what he calls "a massive list of things" that he'd like to perform with the London Contemporary Orchestra, including the "wild and zany". "I keep notes all the time of pieces that I want to do, and dreaming up programmes. There's an absolutely humongous list of composers, and specific pieces of music, different artists I'd work with; people in theatre, people in dance, electronic artists, certain films that I'm interested in, that we'd love to do live scores for." 

@@ -9,6 +9,7 @@ slug = "arianne-abela"
 title = "Arianne Abela"
 website = "http://www.arianneabela.com/default.html"
 
+_template = "people_single"
 +++
 Arianne Abela is a Doctoral student at the University of Michigan in Ann Arbor Michigan. She was most recently Chorus Master of the University of Michigan productions of Rossini's *Barber of Seville* and Mozart's *Die Zauberflöte*. She was recently named the Director of Music at Bethlehem United Church of Christ in Ann Arbor. 
 

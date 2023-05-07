@@ -19,6 +19,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/eden.tremayne"
 
+_template = "people_single"
 +++
 Eden Tremayne is a Canadian Opera singer recognized for her heartfelt singing and dynamic stage portrayals. Ms. Tremayne is returning for her third year as a McPhee Artist for **Calgary** **Opera**’s 2021-22 season. This season on the mainstage Eden will sing le Feu, le Rossignol and la Bergère in Ravel’s _L’Enfant et les Sortilèges_ as well as cover both Valencienne in _The Merry Widow_ and Violetta in _La Traviata_.
 

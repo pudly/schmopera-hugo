@@ -23,7 +23,9 @@ As someone who claims to be an adherent of the verismo movement in opera, I have
 
 Giordano's third opera and arguably his most popular, tells a fated love story set against the backdrop of festering political unrest. Here, the political events are not coincidental but pivotal to the plot. And just as in life, there are no true villains. Even in their most depraved moments, each character motivated by a series of complicated emotions, responsibilities, and ideals, elicits our sympathy. Hats off to librettist Luigi Illica whose carefully crafted libretto demonstrates a perceptive storytelling that is pure poetry.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559322282/media/2019/05/2862ashm_0508RosalindPlowrightasCountessdiCoignyDimitriPlataniasasCarloGerardROH2019.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1559322282/media/2019/05/2862ashm_0508RosalindPlowrightasCountessdiCoignyDimitriPlataniasasCarloGerardROH2019.jpg)
 
 <figcaption>Rosalind Plowright as Countess di Coigny and Dimitri Platanias as Carlo Gerard in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
@@ -35,7 +37,9 @@ The music, though less thrilling than that of his contemporaries Puccini and Mas
 
 What McVicar does very successfully with his productions is present opera with a level of grandeur and spectacle that is a visual representation of the breadth of the story and of the score itself. It is everything one would expect from opera and more. This production featured opulent and lofty set designs by Robert Jones that painted an increasingly deteriorating picture with each act as class divides became more of an issue, and tensions rise as peace begins to crumble in Paris over the course of the revolution. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559322298/media/2019/05/2862ashm_1468SondraRadvanovskyasMaddalenadiCoignyDimitriPlataniasasCarloGerardROH2019.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1559322298/media/2019/05/2862ashm_1468SondraRadvanovskyasMaddalenadiCoignyDimitriPlataniasasCarloGerardROH2019.jpg)
 
 <figcaption>Sondra Radvanovsky as Maddalena di Coigny and Dimitri Platanias as Carlo Gerard in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
@@ -43,7 +47,9 @@ What McVicar does very successfully with his productions is present opera with a
 
 We end in a darkened prison cell where the lovers await the guillotine; a stark contrast to the glistening ballroom of the Contessa di Coigny where they first meet at the beginning of the opera. Costuming by Jenny Tiramani adds to the atmosphere, as the stage symbolically becomes a wash of red, white, and blue with costumes that are both era appropriate, and subtle as well as pleasingly thematic.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559322313/media/2019/05/2862ashm_1376SondraRadvanovskyasMaddalenadiCoignyDimitriPlataniasasCarloGerardROH2019.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1559322313/media/2019/05/2862ashm_1376SondraRadvanovskyasMaddalenadiCoignyDimitriPlataniasasCarloGerardROH2019.jpg)
 
 <figcaption>Sondra Radvanovsky as Maddalena di Coigny and Dimitri Platanias as Carlo Gerard in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
@@ -55,7 +61,9 @@ But none of this would have been as convincing without the singers who committed
 
 Radvanovsky in particular was in top form from her first moment on stage. Though vocally she seemed to waver slightly in the second act, she returned stronger for her next entrance, demonstrating her professionalism, and ability. Her voice has a very moving almost hypnotic metallic quality that cuts through the wash of the orchestra beautifully and she only continued to impress me with the level of control she has over her instrument and the clarity with which she delivers her text.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559322331/media/2019/05/2862ashm_0937SondraRadvanovskyasMaddalenadiCoignyROH2019.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1559322331/media/2019/05/2862ashm_0937SondraRadvanovskyasMaddalenadiCoignyROH2019.jpg)
 
 <figcaption>Sondra Radvanovsky as Maddalena di Coigny in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
@@ -67,7 +75,9 @@ There can be no doubt that Alagna possesses a certain star quality. Now decidedl
 
 Platanias was an almost effortless Gérard immediately captivating and relatable. The character with the greatest arc, he did a wonderful job of taking the audience a long with him on his journey and remained a sympathetic character despite some of Gérard's darkest tendencies. Vocally, he was the most consistent on stage with a warm and enveloping sound that was uplifting and awe-inspiring in his many idealistic and poetic monologues that make him an embodiment of the revolution.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559322375/media/2019/05/2862ashm_0035RobertoAlagnaasAndreaChenierROH2019.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1559322375/media/2019/05/2862ashm_0035RobertoAlagnaasAndreaChenierROH2019.jpg)
 
 <figcaption>Roberto Alagna as Andrea Chenier in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 

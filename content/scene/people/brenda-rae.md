@@ -21,6 +21,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/icicledove/"
 
+_template = "people_single"
 +++
 American soprano Brenda Rae is a highly sought after artist who regularly performs in many of the world’s leading opera houses, concert halls, and recital venues. At home in a wide range of repertoire, Brenda has been praised for her “tireless, golden soprano” (The Times), “dazzling, pinpoint coloratura” (Opera News), and “breathtaking mastery” (Frankfurter Rundschau).  
   

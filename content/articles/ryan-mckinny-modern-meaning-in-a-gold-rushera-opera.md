@@ -22,7 +22,9 @@ Clarence is a sort of leader of the miners. He talks a lot about how great all t
 
 I think the Gold Rush era is a great opportunity to explore the conflict between the driving "progress" of America and the destruction it leaves behind, both in environmental and human toll. That conflict is front and center in our world today and seeing how it connects to our history is fascinating and important. John's score is so powerful and human, it allows us to tackle these issues in a three dimensional way, without good guys bad guys, asking questions rather than providing answers.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511230161152/2017-11-21---Ryan-McKinny-as-Clarence-in-Girls-of-the-Golden-West.-Photo-by-Cory-Weaver_San-Francisco-Opera.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511230161152/2017-11-21---Ryan-McKinny-as-Clarence-in-Girls-of-the-Golden-West.-Photo-by-Cory-Weaver_San-Francisco-Opera.jpg.jpg)
 <figcaption>Ryan McKinny as Clarence King in *Girls of the Golden West*, San Francisco Opera, 2017. Photo: Cory Weaver.</figcaption>
 </figure>
 
@@ -30,7 +32,9 @@ I think the Gold Rush era is a great opportunity to explore the conflict between
 
 I think centuries from now, these two will be remembered as one of the great artistic partnerships of all time. They complement and challenge each other and understand each others work deeply. And their goal is always to impact people on a deep level. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511281866599/2017-11-21---John-Adams-and-singer-Ryan-McKinny-in-rehearsal.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511281866599/2017-11-21---John-Adams-and-singer-Ryan-McKinny-in-rehearsal.jpg.jpg)
 <figcaption>Ryan McKinny (right) in rehearsal with composer John Adams. Photo: Cory Weaver.</figcaption>
 </figure>
 

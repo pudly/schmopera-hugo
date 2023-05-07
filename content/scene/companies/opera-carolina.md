@@ -24,6 +24,7 @@ url = "https://www.instagram.com/operacarolina/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/operacarolina"
+_template = "company_single"
 +++
 
 For sixty-eight years, Opera Carolina has served this region with excellence on our mainstage, in our schools, and throughout the community. Our commitment to enriching the lives of citizens from all walks of life is deeply rooted in the history of our company – and it’s a commitment we take seriously.

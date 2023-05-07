@@ -23,7 +23,9 @@ Scarlatti sets a libretto by Silvio Stampiglia from 1697 that is directly based 
 
 Botticelli's painting takes a few key episodes of the story, which would have been well-known to his viewers, and presents them in the same painting. He created his "Story of Virginia" as a partner to his "Rape of Lucretia," which Isabella Stewart Gardner purchased in 1899—the first Botticelli in America.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548039778/media/2019/01/ScarlattiCast.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548039778/media/2019/01/ScarlattiCast.jpg)
 
 <figcaption>The cast of _La caduta de' Decemviri_, clockwise from top left: Sarah Shafer (photo: Vanessa Briceño), Daniel Moody (photo: David Fung), Marguerite Krull, and Tim Keeler.</figcaption>
 
@@ -35,7 +37,9 @@ Isabella lived at a time when women typically had little freedom or agency.  So
 
 The stories of Lucretia and Virginia, gruesome and tragic, were seen by audiences of the Renaissance as stories of women's battles against tyranny. These stories of these women's heroic battles seem particularly apt and poignant at present. Botticelli's paintings illustrate these alarming and urgent stories with vividness.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548039439/media/2019/01/ACRONYM.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548039439/media/2019/01/ACRONYM.jpg)
 
 <figcaption>The ACRONYM Ensemble, which performs Scarlatti's rare opera _La caduta de' Decemviri_ at the Isabella Stewart Gardner Museum. Photo by Jeff Weeks.</figcaption>
 

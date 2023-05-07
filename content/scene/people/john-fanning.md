@@ -7,6 +7,7 @@ publishDate = "2016-01-12T13:06:00-05:00"
 related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/calgary-opera.md","scene/companies/arizona-opera.md","scene/companies/edmonton-opera.md","scene/companies/english-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/vancouver-opera.md","scene/companies/lopra-de-montral.md","scene/companies/opra-de-qubec.md"]
 slug = "john-fanning"
 title = "John Fanning"
+_template = "people_single"
 +++
 
 Recently invested as a Member of the Order of Canada, highlights of John Fanning’s career is evidence of his pre-eminent position among today’s baritones. A veteran of nine seasons at the Metropolitan Opera, roles there include John Plake in SLY co-starring with Placido Domingo, Mandryka in *Arabella*, the Father in *Hänsel und Gretel* and Count Almaviva in *Le nozze di Figaro*. Further Met roles include Mr. Astly in *The Gambler* conducted by Gergiev, Faninal in *Der Rosenkavalier* and the Four Villains in *Les contes d'Hoffmann* conducted by James Levine. At the San Francisco Opera he was conducted by Patrick Summers in *Louise*, toured the United States as soloist in Mozart’s *Requiem* with Bernard Labadie and Les Violons du Roy and sang Beethoven’s Symphony No. 9 with Zukerman in Ottawa with the National Arts Centre Orchestra. In the fall of 2013, Mr. Fanning took up his position as Assistant Professor of Voice on the faculty of the University of Montreal.

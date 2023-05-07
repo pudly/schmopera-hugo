@@ -18,6 +18,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/davidlangmusic"
 
+_template = "people_single"
 +++
 Passionate, prolific, and complicated, composer David Lang embodies the restless spirit of invention. Lang is at the same time deeply versed in the classical tradition and committed to music that resists categorization, constantly creating new forms.
 

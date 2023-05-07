@@ -11,6 +11,7 @@ title = "Jeremy Bowes"
 platform = "Facebook"
 template = "social-media"
 url = ""
+_template = "people_single"
 +++
 
 Born in Victoria, Canada, bass Jeremy Bowes recently finished two seasons with the Sächsische Staatsoper Dresden. He has been described as, “a promising bass whose, I rage, I melt, I burn, was a highlight of the evening… [he is] easy on all the senses and moves with natural chemistry onstage…” (*Montreal Gazette*). His roles with the Semperoper included Colline in Puccini’s *La bohème*, Zuniga in Bizet’s *Carmen*, The King in Cui’s *Der gestiefelte Kater* and the Warden in Heggie’s *Dead Man Walking*. 

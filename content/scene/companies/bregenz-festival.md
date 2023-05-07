@@ -25,6 +25,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/bregenzfestival"
 
+_template = "company_single"
 +++
 The Bregenz Festival pledged to contribute € 3 million itself to the project for the renovation and enlargement of the Festspielhaus in 2005 and 2006. The festival was able to raise this sum by means of a fund-raising campaign, thanks in particular to the generosity and solidarity of a great many donors.
 

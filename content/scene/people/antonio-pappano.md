@@ -12,6 +12,7 @@ title = "Antonio Pappano"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/Antonio-Pappano/107766689244693"
+_template = "people_single"
 +++
 
 <p>

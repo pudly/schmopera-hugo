@@ -11,6 +11,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCUHeltcIO09i96f4pGR5dgg/videos"
 
+_template = "people_single"
 +++
 Ryan Stoll, Bass-Baritone, is a performer displaying great promise on the opera stage both vocally and dramatically.  He is currently in his first year as a young artist with Chicago Opera Theater (COT) where he covered King René in the Chicago premier of Tchaikovsky’s _Iolanta_, while performing in the chorus.  COT’s new Vanguard Initiative gave Ryan the opportunity to cover various roles in Felicia Chen and David Simpatico’s _The Life and Death(s) of Alan Turing_, a workshop co-produced with American Lyric Theater.  Finishing up his first year in the program, he will sing in the chorus of Jake Heggie’s epic _Moby Dick_ and perform as The Magician in a Gala Preview of Stacy Garrop’s _Grand Illusion_, to be premiered in April 2020.  
 

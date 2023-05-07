@@ -26,7 +26,9 @@ The second scene tells the story of Tancredi and Clorinda. *Il combattimento di 
 
 Then finally - what is probably the most exciting - we have Barbara Monk Feldman's world premiere of *Pyramus and Thisbe*. A more abstract presentation of the ill-fated love story that is so hilariously mangled by the mechanicals in Shakespeare's *A Midsummer Night's Dream*, this is an amalgam of several different sources with regard to the libretto. English, Latin and German are found in this piece which draws from Ovid, Faulkner, St. John of the Cross, and Rainer Maria Rilke; the text is poetic and abstract. The piece was primarily inspired by a painting by [Nicolas Poussin](https://en.wikipedia.org/wiki/Nicolas_Poussin) called [*Stormy Landscape with Pyramus and Thisbe*](http://www.wga.hu/html_m/p/poussin/4/05landsc.html), and you will hear this inspiration in Monk Feldman's orchestrations.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445308249412/Nicolas_Poussin_-_Landscape_during_a_Thunderstorm_with_Pyramus_and_thisbe_-_Google_Art_Project.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445308249412/Nicolas_Poussin_-_Landscape_during_a_Thunderstorm_with_Pyramus_and_thisbe_-_Google_Art_Project.jpg.jpg)
 <figcaption>Nicolas Poussin, *Landscape during a thunderstorm with Pyramus and Thisbe*. </figcaption>
 </figure>
 

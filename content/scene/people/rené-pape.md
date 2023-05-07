@@ -19,6 +19,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/renepapebass/"
 
+_template = "people_single"
 +++
 Born in Dresden, Pape has been a member of the Berlin State Opera since 1988, but considers New York’s Metropolitan Opera his operatic “home away from home.” Since his house debut in 1995, he has appeared at the Met in 18 roles and more than 160 performances, including four major debuts: Méphistophélès in _Faust_, Gurnemanz in _Parsifal_, Escamillo in _Carmen_, and the Old Hebrew in _Samson et Dalila_. But it was at the famous Unter den Linden – home of the Berlin State Opera – where Pape honed most of the great roles of his career.
 

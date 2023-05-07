@@ -10,6 +10,7 @@ slug = "nicole-cabell"
 title = "Nicole Cabell"
 website = "http://nicole-cabell.com/"
 
+_template = "people_single"
 +++
 Universally acclaimed for her velvety timbre and finely nuanced interpretations, American soprano Nicole Cabell continues to demonstrate her incredible versatility in repertoire ranging from Baroque to contemporary on the world’s greatest opera and concert stages as well as on disc. 
 

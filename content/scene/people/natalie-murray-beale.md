@@ -12,6 +12,7 @@ website = "http://www.murraybeale.com/index.html"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/NMurrayBeale"
+_template = "people_single"
 +++
 
 Natalie Murray Beale has been critically acclaimed as “a young conductor on her way up”. Other reviews have described her conducting as “exceptional”, “charming and vigorous” and having “Mozartian grace”.

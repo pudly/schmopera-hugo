@@ -24,7 +24,9 @@ Toronto Masque Theatre pulls together three singers (Scott Belluz, Susha Rangara
 
 Tickets start at just $20, and you can get them through TMT's [website](http://torontomasquetheatre.com/node/59) or by calling 416-410-4561.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487623408338/2017-02-20---MWMH-dancers-Jelani-Ade-Lam-and-Sze-Yang-Ade-Lam-pc-Al-Uehre.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487623408338/2017-02-20---MWMH-dancers-Jelani-Ade-Lam-and-Sze-Yang-Ade-Lam-pc-Al-Uehre.jpg.jpg)
 <figcaption>Dancers Jelani Ade-Lam and Sze Yang Ade-Lam. Photo by Al Uehre.</figcaption>
 </figure>
 

@@ -19,7 +19,9 @@ I had a very strange destiny. I started very young, I studied very hard and I ne
 
 So, from the time that I was a child I loved singing and I would imitate all the birds and everything I would hear in the garden. I started at 13 and they believed that I was a mezzo soprano, then they thought I was lyric soprano, then a lyric with coloratura. The destination of my desire was always a mystery, but the attraction I had towards singing made me want to pursue that desire every single day. I knew that my destiny was to sing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441296712344/Manon%20Lescaut%20with%20Richard%20Tucker-Rome-1969.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441296712344/Manon%20Lescaut%20with%20Richard%20Tucker-Rome-1969.jpg.jpg)
 <figcaption>Virginia Zeani and Richard Tucker in *Manon Lescaut*, Rome, 1969.</figcaption>
 </figure>
 
@@ -33,7 +35,9 @@ What you can do, though, is that when you do get there, be sure you are prepared
 
 The biggest difference is the matter of stage direction. Nowadays, some stage directors change everything: they don’t leave the operas to be told as the composers wanted them. They try to modernize the subject, which to me is absurd because I think the opera is connected to the composer, the time in which it was composed and the￼moment of history that was captured in that particular story. In my time, we were the ones who, most of the time, staged the productions we were to appear in. It was really a team effort between the singers, the conductor, the stage director and the work that was given to us. We would work hand in hand to try and find what the composer would was trying to communicate with the music rather than trying to find a way to make these masterpieces "exciting": they already are, in so many ways. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441296752745/Aida%20with%20Shirley%20Verrett-FIrenze-1969.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441296752745/Aida%20with%20Shirley%20Verrett-FIrenze-1969.jpg.jpg)
 <figcaption>In *Aida* with Shirley Verrett, Florence, 1969.</figcaption>
 </figure>
 
@@ -43,7 +47,9 @@ I cannot stand seeing a *Rigoletto* production set in Las Vegas because they do 
 
 The problem is that young people today aren’t necessarily exposed to things that have romance and beauty, it is, by many, considered to be outdated. They live in a world where violence, opulence, artificialism and vulgarity is far too present and so they are not sensitive to the beautiful things in life, which then makes it hard to appreciate them. To take the time to listen and appreciate beauty gives the ambition to create it afterwards.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441296864646/Madama%20Butterfly-In%20costume.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441296864646/Madama%20Butterfly-In%20costume.jpg.jpg)
 <figcaption>Zeani as Madama Butterfly.</figcaption>
 </figure>
 
@@ -55,7 +61,9 @@ Art cannot die. Dante is still modern, Petrarca is still important, Sophocles, t
 ￼
 The taste today is very different. If you take *La traviata*, it was written for the taste, the ideas and the problems of the 19th century. However, if Violetta’s story was written today by a different composer, or a different writer for that matter, she would be a totally different woman; the journey would probably not be the same because you can sing love, happiness, sorrow, sadness and passion and in a thousand ways. I feel like the modern stagings, that have nothing to do with what is in the score, are a complete betrayal to the composers and librettists because they change their intentions. If Verdi wanted to do the first act of *Traviata* as if she were a woman like Carmen, he would have written it that way. The music represent the composer’s desire to tell a story in a certain way, which is why new works are so important.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441296905541/Magda-Consul-Firenze%201972.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441296905541/Magda-Consul-Firenze%201972.jpg.jpg)
 <figcaption>As Magda in *The Consul*, Florence, 1972.</figcaption>
 </figure>
 
@@ -65,7 +73,9 @@ First of all the instrument remains the same, nothing changes other than the col
 
 The goal, in any kind of music, is to communicate, to share and the approach should be the same for all kinds of repertoire. You have to look for the phrasing, which will guide the message of the opera. You cannot use the same colors with the role of Alissa or with Blanche because the phrases and the composers are different. If you think you can bring something to a new character you should do it, absolutely. How exciting is it for an audience to hear and see someone do something that they have never heard or seen before? To have new stories is very important. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441296946148/Dialogues%20Rehearsals%20with%20Francis%20Poulenc-Milano%20Scala-1957.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441296946148/Dialogues%20Rehearsals%20with%20Francis%20Poulenc-Milano%20Scala-1957.jpg.jpg)
 <figcaption>In rehearsal for *Dialogues des Carmélites* with Francis Poulenc, Milan, 1957.</figcaption>
 </figure>
 
@@ -77,7 +87,9 @@ The main thing is that I loved the role. You absolutely have to love a role to s
 
 We always think that, over time, our feelings will evolve. In my experience, they do not: our emotions add to each other like pieces of a puzzle and give us a better understanding of our purpose in life.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441297016100/Traviata%20with%20Peter%20Glossop%20as%20Germont-London%20CG-1962.png)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441297016100/Traviata%20with%20Peter%20Glossop%20as%20Germont-London%20CG-1962.png)
 <figcaption>Zeani with Peter Glossop, *La traviata*, London, 1962.</figcaption>
 </figure>
 
@@ -93,7 +105,9 @@ Each character has a different palate of feelings: Violetta has her own emotions
 
 Your way may not please everybody and it is OK, some people may go crazy about it and some may not. Expectations can be very dangerous, as they may not be realistic to what you can offer, though your interpretation may very well still be valid. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441297086752/La%20voix%20humaine-Monte%20Carlo-1975.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441297086752/La%20voix%20humaine-Monte%20Carlo-1975.jpg.jpg)
 <figcaption>Zeani in *La voix humaine*, Monte Carlo, 1975.</figcaption>
 </figure>
 
@@ -103,7 +117,9 @@ For example, many people think that to sing Mimì one must have a big, lyrical, 
 
 Even if the characters have a similar story, their music and their texts, which feed the interpretation, are totally different. If we take Manon: in the Massenet setting of the story everything is lighter, she is more infantile, naïve, more pure, less passionate and more elegant and sophisticated in a way. Puccini gives us a Manon full of passion and seems to understand life in a more mature way, she even seems a little older than Massenet’s Manon in my opinion. You cannot possibly interpret this character in the same way because "she" is totally different. What you have to do is take out the text, look at the music, the style and forget about the Abbé Prévost book so you can really understand the way Puccini or Massenet saw her and try your best to bring that particular version to life.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441297155190/with%20Pavarotti%20Belgrade%201963.png)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441297155190/with%20Pavarotti%20Belgrade%201963.png)
 <figcaption>Zeani with Luciano Pavarotti, Belgade, 1963.</figcaption>
 </figure>
 
@@ -117,7 +133,9 @@ From a technical point of view, here is what I call my system of singing: in Ita
 
 *Bel canto* really is, in the end, a way to make every single person in the opera house, including yourself, feel the most beautiful things in the world.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441297205302/Virginia-and-Olivier-June-2015Resized.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441297205302/Virginia-and-Olivier-June-2015Resized.jpg.jpg)
 <figcaption>Zeani with student and author of this interview, Olivier Bergeron, 2015.</figcaption>
 </figure>
 

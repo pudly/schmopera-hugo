@@ -25,7 +25,9 @@ For [_Democracy in Action_](https://www.tongueincheekproductions.com/democracyin
 
 Doors open at 6:30, and the show begins at 7pm. Tickets start at $25, and seating is guaranteed with a dinner reservation. Find out more by calling Lula Lounge at (416) 588-0307.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556151349/media/2019/04/TiCMuse9People.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1556151349/media/2019/04/TiCMuse9People.jpg)
 
 <figcaption>Clockwise from top left: baritones Aaron Durand and Michael Nyby, co-founders of Tongue In Cheek Productions; pianist Hyejin Kwon and director Anna Theodosakis, co-founders of Muse 9 Productions.</figcaption>
 
@@ -39,6 +41,8 @@ You'll also hear soprano/composer [Danika Lorèn](/scene/people/danika-lorèn/)'
 
 Tickets start at $25, and can be [purchased right here](https://muse9food.brownpapertickets.com/). And as a bonus, the _Musical Tasting Menu_ will head to London, ON, **June 29th and 30th** at the Covent Garden Market Kitchen, in partnership with Village Opera.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556153410/media/2019/04/Child%20Instagram%20Post.png){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1556153410/media/2019/04/Child%20Instagram%20Post.png)
 
 </figure>

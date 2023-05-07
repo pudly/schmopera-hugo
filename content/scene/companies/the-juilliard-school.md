@@ -16,6 +16,7 @@ url = "https://www.facebook.com/TheJuilliardSchool?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JuilliardSchool"
+_template = "company_single"
 +++
 
 <p>

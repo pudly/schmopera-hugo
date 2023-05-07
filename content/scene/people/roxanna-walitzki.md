@@ -23,6 +23,7 @@ url = "https://www.youtube.com/user/RoxannaWalitzki/videos"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/roxannawalitzki"
+_template = "people_single"
 +++
 
 Roxanna Walitzki is an innovative performance-artist whose musical dedication, eye for beauty and unique aesthetic infuses her work with vibrancy and individuality. Trained in vocal performance at NYU and the San Francisco Conservatory of Music, her musical endeavors stretch the bounds of traditional performance-practice and have been heralded as “spellbinding.”

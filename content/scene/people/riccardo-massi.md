@@ -17,6 +17,7 @@ url = "https://www.facebook.com/Riccardo-Massi-Tenore-936313299723139/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/riccardomassi"
+_template = "people_single"
 +++
 
 Italian tenor Riccardo Massi has rapidly achieved international recognition as one of the most exciting and accomplished interpreters of the Italian spinto repertoire, earning accolades worldwide for his interpretations of Puccini's and Verdi's heroes. As a specialist in the handling of ancient and medieval weapons, before pursuing his passion for opera, Massi enjoyed a flourishing career as a stuntman; working in several films including Martin Scorsese’s *Gangs of New York*, ABC’s *Empire*, and HBO’s *Rome*.

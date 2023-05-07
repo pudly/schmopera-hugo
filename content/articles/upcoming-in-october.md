@@ -29,7 +29,9 @@ On **October 10, 11, and 12** at the Ernest Balmer Studio in Toronto's Distiller
 
 You can catch each concert individually, or with an [all-access pass](https://www.eventbrite.com/e/amplify-all-concerts-pass-2019-tickets-73320472507) for the whole series. All concerts start at 7:30pm.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570071330/media/2019/10/AmplifyCollage_podjkz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570071330/media/2019/10/AmplifyCollage_podjkz.jpg)
 
 <figcaption>The co-founders of Amplified Opera (l-r): Teiya Kasahara, opera singer and theatre creator, and Aria Umezawa, stage director.</figcaption>
 
@@ -49,7 +51,9 @@ Pacini, a missing link of sorts among 19th-century Italian composers, wrote over
 
 This fully staged production of [_Maria, Regina d'Inghilterra_](https://www.bostontheatrescene.com/season/maria-regina-dInghilterra/) runs November 1 and 3.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570070634/media/2019/10/FayFoxShoremount-Obra_qozy27.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570070634/media/2019/10/FayFoxShoremount-Obra_qozy27.jpg)
 
 <figcaption>Amy Shoremount-Obra, soprano, singing the title role in Odyssey Opera's Maria, Regina d'Inghilterra. Photo: Fay Fox.</figcaption>
 
@@ -65,7 +69,9 @@ Spicing up a program of Mozart and Tchaikovsky, Sinfonia Toronto presents a [nig
 
 The evening's soloists are Canadian virtuosi Christina Petrowska Quilico (piano) and Marc Djokic (violin). Nurhan Arman conducts. [Tickets](http://www.sinfoniatoronto.com/web/page.aspx?title=Mozart+%26+Tchaikovsky) start at just $15.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570070922/media/2019/10/MarcDjokic_vgj5i2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570070922/media/2019/10/MarcDjokic_vgj5i2.jpg)
 
 <figcaption>Violinist Marc Djokic.</figcaption>
 

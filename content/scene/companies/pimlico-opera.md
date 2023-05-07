@@ -14,6 +14,7 @@ url = "https://www.facebook.com/PimlicoOpera/?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/PimlicoOpera"
+_template = "company_single"
 +++
 
 Pimlico Opera aims to use music and drama to advance personal development, particularly with younger people. Artistic excellence is an essential part of achieving this aim.

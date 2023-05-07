@@ -20,6 +20,7 @@ url = "https://twitter.com/classicalopera"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCTM89s_yyfRz7Jxai0D34UA"
+_template = "company_single"
 +++
 
 Established in 1997 Classical Opera is one of the leading exponents of the music of Mozart and his contemporaries.

@@ -12,6 +12,7 @@ website = "http://james-baillieu.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jbaillieu"
+_template = "people_single"
 +++
 
 Described by The Daily Telegraph as ‘in a class of his own’ James Baillieu has been the prize-winner of the Wigmore Hall Song Competition, Das Lied International Song Competition, Kathleen Ferrier and Richard Tauber Competitions. He was selected for representation by Young Classical Artists Trust (YCAT) in 2010 and in 2012 received a Borletti-Buitoni Trust Fellowship and a Geoffrey Parsons Memorial Trust Award and in 2016 was shortlisted for the Royal Philharmonic Society Outstanding Young Artist Award.

@@ -23,6 +23,7 @@ url = "https://www.youtube.com/user/adamsherkinpiano"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/adamsherkin"
+_template = "people_single"
 +++
 
 Composer and pianist Adam Sherkin is a dynamic and versatile musician who commands a multidimensional approach to performance and composition. Noted for innovative programming and

@@ -21,7 +21,9 @@ Toronto's Alumnae Theatre is in the midst of its [2019 FireWorks Festival](https
 
 _Belle Darling Klondike Queen_ is named for Kathleen Rockwell, the dancer and vaudeville star of the Klondike Gold Rush. Up in Alaska and the Yukon during the height of the Rush - just after the so-called ["stampede"](https://en.wikipedia.org/wiki/Klondike_Gold_Rush#Beginning_of_the_stampede_(July_1897)) of 1897-98 - Rockwell was known as Klondike Kate.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573411631/media/2019/11/_DSC0517_p50hwo.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573411631/media/2019/11/_DSC0517_p50hwo.jpg)
 
 <figcaption>(l-r) Calvin Laveck (pianist), Lindsay Sutherland Boal (Kate), Madeleine Keesmaat-Walsh (ensemble), Sarah Kaufmann (ensemble), and Roxhanne Norman (ensemble) in Belle Darling Klondike Queen, FireWorks Festival, Alumnae Theatre, 2019. Photo: Bruce Peters.</figcaption>  
 </figure>
@@ -32,7 +34,9 @@ Klondike Kate was one of the few folks - and even fewer women - who prospered, a
 
 Natalie Frijia creates a real force in the Klondike Kate we meet in _Belle Darling Klondike Queen_, and Lindsay Sutherland Boal delivers in the title role. _Belle Darling_ is done entirely in vaudeville style - songs and all - Sutherland Boal leading her supportive, adaptive, hilarious ensemble of three (Sarah Kaufmann, Madeleine Keesmaat-Walsh, and Roxhanne Norman).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573411725/media/2019/11/_DSC0483_peypjv.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573411725/media/2019/11/_DSC0483_peypjv.jpg)
 
 <figcaption>Belle Darling Klondike Queen, FireWorks Festival, Alumnae Theatre, 2019. Photo: Bruce Peters.</figcaption>  
 </figure>
@@ -49,7 +53,9 @@ What moved me the most was discovering Kate's weaknesses. She has a true Achille
 
 Klondike Kate met Pantages when he first arrived in Dawson City, Yukon, and fell for him. In return, he used her for her money; it's a tragic piece of history that the Pantages theatre circuit was hugely funded by Kate. She vilifies him for his behaviour - as she should - but she's more offended by the rumours of her being tricked by Pantages.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573411741/media/2019/11/LSB_D859221_dj75ux.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573411741/media/2019/11/LSB_D859221_dj75ux.jpg)
 
 <figcaption>Lindsay Sutherland Boal.</figcaption>  
 </figure>

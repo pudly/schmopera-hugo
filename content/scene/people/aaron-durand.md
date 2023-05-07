@@ -16,6 +16,7 @@ url = "https://twitter.com/Gingervanni"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/gingervanni/"
+_template = "people_single"
 +++
 
 Aaron began his journey in rural British Columbia intending to become a Broadway star, and really didn’t like opera. But when offered a chorus position for *Eugene* Onegin in Victoria, British Columbia, everything changed.

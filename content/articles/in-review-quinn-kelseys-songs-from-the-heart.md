@@ -19,7 +19,9 @@ He's preparing for his debut at [Wigmore Hall](https://wigmore-hall.org.uk/whats
 
 I forgave him for his "cheat sheets" pretty quickly, since Quinn's sound is one of the most beautiful baritone voices singing today. For weeks, I have been looking forward to hearing him at a closer distance, without the bells and whistles of productions like the COC's current [*La traviata*](http://www.coc.ca/PerformancesAndTickets/1516Season/LaTraviata.aspx), in which Quinn sings Giorgio Germont. He chose two English sets, Vaughan Williams' *Songs of Travel* and Finzi's *Let Us Garlands Bring*, plus a few Brahms songs (including a "Von ewiger Liebe" that was "kick-ass," to quote a nearby audience member). It was repertoire that showed Quinn's intuitive musicianship and honest delivery.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446063921600/kelsey-headshot--new.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446063921600/kelsey-headshot--new.jpg.jpg)
 <figcaption>Quinn Kelsey, baritone. Photo by Ken Howard.
 </figcaption>
 </figure>

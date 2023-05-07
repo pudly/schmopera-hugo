@@ -18,7 +18,9 @@ Whenever an opera company makes it their mission statement to revive infrequentl
 
 However, there comes a few times where the result asks the performers and the listeners to re-evaluate the work, and possibly the composer as well. This latter result describes the efforts of [Odyssey Opera](/scene/companies/odyssey-opera/) in their season-opening concert performance of Charles Gounod's rarely heard grand opera [*La Reine de Saba*](https://www.odysseyopera.org/2018-gounod-la-reine-de-saba/), here presented with restored and reordered content according to how Gounod likely intended it originally.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537723772181/KevinThompson_KaraShayThomson_DominickChenes.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537723772181/KevinThompson_KaraShayThomson_DominickChenes.jpg.jpg)
 <figcaption>The ensemble of Odyssey Opera's *La Reine de Saba*, 2018. Photo: Kathy Wittman</figcaption>
 </figure>
 
@@ -26,7 +28,9 @@ Odyssey Opera's work restored all of the finales of the middle three acts to the
 
 The fact that the opera as a whole features some of Gounod's best music was also enough to get us to stop thinking about the fact this libretto takes some pretty extreme liberties with the Queen of Sheba story: the fact the plot revolves around Balkis falling in love with Solomon's architect Adoniram in direct violation of an invented engagement to Solomon became secondary, for the drama made enough sense within the confines of Gounod's music that pointing this out only amounts to a nitpick.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537723843121/KaraShayThomson.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537723843121/KaraShayThomson.jpg.jpg)
 <figcaption>Kara Shay Thomson in Odyssey Opera's *La Reine de Saba*, 2018. Photo: Keira Cronin.</figcaption>
 </figure>
 
@@ -34,7 +38,9 @@ And to think: if any other company had thought to stage this work, they would ha
 
 From a standpoint of performance, Charles Gounod's operas usually require top-caliber singers, and *La Reine de Saba* is absolutely no exception: in fact, if anything, it is demanding even by Gounod's usual standard of difficulty! Adoniram in particular comes to mind: with how the role hovers in the stratosphere for so much of the opera's run-time, and given the orchestration he has to project over, it is almost the kind of role that could only have been written by a man who hated dramatic tenors. However, Dominick Chenes stepped up to the plate wonderfully, adding a warm, soulful voice that defiantly floated above the orchestration in tune with the ways Adoniram eventually ended up defying Solomon's authority in the show's second half. It was such a defiant performance that it wound up stealing the show from the rest of the principle cast, which is fitting considering the character himself ends up occupying more screen time than our actual title character.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537723830108/DominickChenes.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537723830108/DominickChenes.jpg.jpg)
 <figcaption>Dominick Chenes in Odyssey Opera's *La Reine de Saba*, 2018. Photo: Keira Cronin.</figcaption>
 </figure>
 
@@ -42,13 +48,17 @@ The remainder of the cast was no less capable of navigating Gounod's score: in p
 
 Rounding out the cast are Michelle Trainor, whose strong voice is underutilized as Adoniram's apprentice Benoni, and Katherine Maysek, who unfortunately did not have much of an opportunity to leave an impression due to how little her character was used throughout the opera. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537723821857/MichelleTrainor.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537723821857/MichelleTrainor.jpg.jpg)
 <figcaption>Michelle Trainor in Odyssey Opera's *La Reine de Saba*, 2018. Photo: Keira Cronin.</figcaption>
 </figure>
 
 Supporting them is an interesting challenge: for Gounod, *La Reine de Saba* features some unusually heavy orchestration. Thankfully, the Odyssey Opera Orchestra kept a strong command on the score's many subtleties, in no small part thanks to the excellent direction of Gil Rose. The chorus was also excellent, and they did a wonderful job bringing a sense of grandeur to the show's bigger moments, from the chorus that heralds Balkis' entrance all the way to the choral finale in which Balkis sees a vision of Adoniram going into heaven.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537723812204/Ensemble_1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537723812204/Ensemble_1.jpg.jpg)
 <figcaption>The ensemble of Odyssey Opera's *La Reine de Saba*, 2018. Photo: Kathy Wittman.</figcaption>
 </figure>
 

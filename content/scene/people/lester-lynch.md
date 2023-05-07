@@ -13,6 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/BaritoneLesterLynch"
 
+_template = "people_single"
 +++
 Lester Lynch, an established dramatic baritone, is making his mark in some of the world’s leading opera houses. Known for his charismatic portrayals and commanding voice, he is receiving rave reviews as he masters some of the most important baritone roles from Scarpia to Rigoletto to Count di Luna. Opera Today recently enthused, “It was booming baritone Lester Lynch who served notice that he is now in consideration for admittance to the Scarpia Preferred Pantheon - when he needed to pour it on he had the Puccinian fire power and the dramatic heat to raise the hair on the back of your neck.” The Cincinnati Enquirer wrote, “Lester Lynch made a superb Macbeth, delivering an authoritative performance with a firm, powerful voice and wonderfully communicating both tragedy and madness.”
 

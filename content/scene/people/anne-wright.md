@@ -20,6 +20,7 @@ url = "https://www.instagram.com/wright.anne/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCScKBYT-xjDDSsgg340GPeA"
+_template = "people_single"
 +++
 
 American soprano Anne Wright has been praised for her "radiant and perfectly controlled soprano voice... created for the long lines of the great Richard Strauss roles." (Graz Kleine Zeitung). 

@@ -19,6 +19,7 @@ url = "https://twitter.com/ppevaccaro"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCR07xtzwvGJc1WCmYM83SGw"
+_template = "people_single"
 +++
 
 Diplomato in Pianoforte (con lode e menzione), Musica da Camera (con lode), Direzione d'Orchestra (con lode), Composizione (con ottimi voti) si è formato presso il conservatorio “V. Bellini” di Palermo per poi perfezionarsi a Parma presso il conservatorio “A. Boito”. I Docenti di riferimento per la sua formazione accademica sono stati: R.Plano e D. Sollima, per il repertorio solistico; P. Maurizzi per il repertorio cameristico; L. Tessadrelli, E. Ballio, A.M. Turcotte e S. Chinca per Contrappunto e Composizione; G. Damiani e L. Bonelli per la Lettura della Partitura; P. Veneri per la Direzione d'Orchestra. 

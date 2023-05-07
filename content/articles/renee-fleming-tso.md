@@ -26,7 +26,9 @@ Fleming took the stage for more Ravel, and brought us *Shéhérazade*. It was a 
 
 After intermission we came back to some rousing Rossini with TSO ripping up the overture to Rossini's *La scala di seta*. Their agility and accuracy were on full display in this romp of a number. You could see and feel the audience sprung into full attention and remained riveted by the great music to come for the rest of the night. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474618259768/2016-09-23---TSO_Renee-Fleming-credit-Dale-Wilcox.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474618259768/2016-09-23---TSO_Renee-Fleming-credit-Dale-Wilcox.jpg.jpg)
 <figcaption>Renée Fleming with the Toronto Symphony Orchestra. Photo: Dale Wilcox.</figcaption>
 </figure>
 

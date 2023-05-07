@@ -19,7 +19,9 @@ youtube_url = ""
 +++
 Minnesota Opera opens its 52nd season this weekend with [Richard Strauss' _Elektra_](https://mnopera.org/season/2019-2020/elektra/). The true stars of the night are the 85-piece orchestra, passionately led by [Elias Grandy](https://mnopera.org/biography/elias-grandy/) and playing with a rich and sustained intensity. The orchestra is onstage, displaced by the film crew in the pit.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496160/media/2019/10/MOElektra_T8A0284_nuzoeo.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570496160/media/2019/10/MOElektra_T8A0284_nuzoeo.jpg)
 
 <figcaption> in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
 
@@ -33,7 +35,9 @@ Singing the title character is [Sabine Hogrefe](https://mnopera.org/biography/sa
 
 We meet the omnipresent director of the fictional film. In a thick German accent, he introduces the opera and his film, and reminds the audience to silence their cell phones. Action begins onstage fifteen minutes before the official 8pm start time, with film crew getting set and scenes being rehearsed. This prologue is about immersing the audience in the layered story-within-a-story device; it's a little reminiscent of _Ariadne auf Naxos_, with comic antics from the film crew.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496177/media/2019/10/MOElektra_37A0067_khl7pr.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570496177/media/2019/10/MOElektra_37A0067_khl7pr.jpg)
 
 <figcaption>Pre-show activity in preparation to start filming in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
 
@@ -47,7 +51,9 @@ Throughout the drama the projected film has a few purposes. It shows what is abo
 
 The cinematic display shows what the characters fantasize about in the immediate future. After the two murders, Oreste and his sisters are shown embracing and rejoicing in the palace together. But in the reality of the plot of the film and Strauss' opera, that never occurs.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496191/media/2019/10/MOElektra_37A0235_psdsk0.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570496191/media/2019/10/MOElektra_37A0235_psdsk0.jpg)
 
 <figcaption>Nadia Fayad as Maidservant 1, Lisa Marie Rogali as Maidservant 4, Karin Wolverton as Overseer, Victoria Vargas as Maidservant 3, and Mia Athey as Maidservant 2 in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
 
@@ -57,7 +63,9 @@ Interestingly, the audience sees the singers transition from their _Elektra_ cha
 
 The creative team certainly believes in the effectiveness of the film medium. I think it could have been trimmed a bit. Notably with the meandering dolly carrying a camera and two directors throughout the opera, the concept sometimes distracted from the artists on stage.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496208/media/2019/10/MOElektra_37A0496_hvbgze.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570496208/media/2019/10/MOElektra_37A0496_hvbgze.jpg)
 
 <figcaption>Jill Grove as Klytaemnestra in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
 
@@ -69,7 +77,9 @@ In fact we first see Elektra "off-camera" in a turban and dressing gown, giving 
 
 In Strauss' opera, Elektra's plot succeeds and she begins to dance in victory, but drops dead with the final chords of the opera. The same happens on the film set, but as the last moments of the music ring out, the production team stops and everyone realizes that the actress is actually dead... And blackout on sombre confusion.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496232/media/2019/10/MOElektra_37A0843_pyuhyh.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570496232/media/2019/10/MOElektra_37A0843_pyuhyh.jpg)
 
 <figcaption>Craig Irvin as Orest and Sabine Hogrefe as Elektra in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
 
@@ -77,7 +87,9 @@ In Strauss' opera, Elektra's plot succeeds and she begins to dance in victory, b
 
 I like this ending, because as the opera goes on, we see Elektra becoming more and more immersed in the violent obsessiveness of her character. On one occasion, she is led off-camera by some crew; as the camera is then pointed on some other action, and there is Elektra, wielding the axe lustfully. The director notices what she is doing, snatches the axe away, and leads her back to her mark for the next scene.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496247/media/2019/10/MOElektra_T8A0820_nkodpk.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570496247/media/2019/10/MOElektra_T8A0820_nkodpk.jpg)
 
 <figcaption>Sabine Hogrefe as Elektra and Craig Irvin as Orest in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
 

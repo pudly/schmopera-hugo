@@ -29,7 +29,9 @@ I think my favorite description of my music by another was by Joseph So, who wro
 
 My music has been reviewed quite a bit. Here is a word mosaic I made just for Schmopera featuring are some of my favorite descriptions in the press:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499536113953/Screen%20Shot%202017-07-08%20at%2011.46.08%20AM.png)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499536113953/Screen%20Shot%202017-07-08%20at%2011.46.08%20AM.png)
 </figure>
 
 ## How do you write music when you're not feeling particularly inspired (yet)?

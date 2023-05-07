@@ -14,6 +14,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/annatheodosakis"
 
+_template = "people_single"
 +++
 Anna Theodosakis is a Toronto based director and choreographer. This fall Anna will be directing _Tears of the Knife/Hin und Zurück_ for the Glenn Gould Conservatory and choreographing the University of Toronto Opera’s _Street Scene_. She will also direct the Canadian Opera Company’s Opera for Young Audiences _WOW Factor: A Cinderella story_, a modern english adaptation of Rossini's _La Cenerentola_. 
 

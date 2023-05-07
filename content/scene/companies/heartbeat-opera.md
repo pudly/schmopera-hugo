@@ -21,6 +21,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/heartbeat_opera/"
 
+_template = "company_single"
 +++
 ## Mission 
 

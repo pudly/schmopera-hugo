@@ -31,7 +31,9 @@ It's an extraordinary amount of trust, for a performer to distance herself from 
 
 "I lost my father very early in my life. I found him dead when I was 16," says Radvanovsky, candidly. "There are certain arias, like 'D'amor, sull'ali rosee' in _Trovatore_, where I even think about it, and I have to step back." That character's experience is "too much" for Radvanovsky to connect with on a personal level, and it's a moment where "I have to read the phonebook, and tell myself, 'don't go there.'"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479928671538/2016-11-23---SONDRA-RADVANOVSKY-AS-MANON-LESCAUT%2C-ALEKSANDRS-ANTONENKO-AS-CHEVALIER-DES-GRIEUX-ROH-PHOTO-BY-BILL-COOPER.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479928671538/2016-11-23---SONDRA-RADVANOVSKY-AS-MANON-LESCAUT%2C-ALEKSANDRS-ANTONENKO-AS-CHEVALIER-DES-GRIEUX-ROH-PHOTO-BY-BILL-COOPER.jpg.jpg)
 <figcaption>Sondra Radvanovsky as Manon Lescaut, ROH, 2016. Photo by Bill Cooper.</figcaption>
 </figure>
 
@@ -47,7 +49,9 @@ Her enthusiasm for acting is no secondary passion. For "a brief second," Radvano
 
 "I can't not have music in my life."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479393237854/2016-11-16---Radvanovsky---Eccles---2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479393237854/2016-11-16---Radvanovsky---Eccles---2.jpg.jpg)
 <figcaption>Sondra Radvanovsky, soprano. Photo by Andrew Eccles.</figcaption>
 </figure>
 
@@ -77,7 +81,9 @@ She points to her phone, wrapped in those ubiquitous earbuds, sitting atop the p
 
 Her support system of teachers and coaches is another set of tools that Radvanovsky has honed along the way; the responsibilities and trust that she has in her mentors have come from active participation in the learning process. "You have to listen to yourself, and you have to 100% trust what \[your teachers\] are doing," she says. "And if you don't, then you need a different teacher."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479928627433/2016-11-23---SONDRA-RADVANOVSKY-AS-MANON-LESCAUT-ROH-PHOTO-BY-BILL-COOPER.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479928627433/2016-11-23---SONDRA-RADVANOVSKY-AS-MANON-LESCAUT-ROH-PHOTO-BY-BILL-COOPER.jpg.jpg)
 <figcaption>Sondra Radvanovsky as Manon Lescaut, ROH, 2016. Photo by Bill Cooper.</figcaption>
 </figure>
 

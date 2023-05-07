@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Pacific-Opera-Victoria/154567591135?fref=t
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/PacificOperaVic"
+_template = "company_single"
 +++
 
 <p>

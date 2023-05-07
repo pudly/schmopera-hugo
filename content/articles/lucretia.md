@@ -23,7 +23,9 @@ In a preview on Monday, the company showed an impressive cast of young local tal
 
 As a special note, the company has included an aerial performer into the show, since the [Minnsky Theatre](https://www.minnsky.com/home.html) venue is primarily known for burlesque performances. I am sure it will be an interesting production.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1566999940/media/2019/08/Lucretia_0819_Cast-2_xyxvil.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1566999940/media/2019/08/Lucretia_0819_Cast-2_xyxvil.jpg)
 
 <figcaption>The cast of Journey Opera North's production of The Rape of Lucretia, September 6-8 at Minnsky Theatre, Minneapolis, 2019. Photo: Justin Sims Photography.</figcaption>
 

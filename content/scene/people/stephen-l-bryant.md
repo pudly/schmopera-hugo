@@ -9,6 +9,7 @@ social_media = []
 title = "Stephen L. Bryant"
 website = ""
 
+_template = "people_single"
 +++
 Grammy nominee Stephen L. Bryant’s distinguished career in concert and opera has taken him around the world, with acclaimed performances in the United States, Europe, the Middle East and Asia. In the 2018-19 season, he performs in Charles Wuorinen's opera _Haroun and the Sea of Stories_, based on the novel by Salman Rushdie, with the Boston Modern Orchestra Project. In July 2019, he sings as a soloist with the Mendhelssohn Club of Philadelphia, in Tan Dun's _Water Passion after St. Matthew_.
 

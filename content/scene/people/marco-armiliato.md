@@ -7,6 +7,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/m
 related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/wiener-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/bayerische-staatsoper.md"]
 slug = "marco-armiliato"
 title = "Marco Armiliato"
+_template = "people_single"
 +++
 
 Marco Armiliato, considered one of today’s most respected opera conductors, is a frequent guest in the world’s most prestigious opera houses. Highlights of the 2015-2016 season include a return to the Metropolitan Opera for *Anna Bolena* and *Il Trovatore*, performances at the Wiener Staatsoper for *L’elisir d’amore*, *La Bohème*, *La Traviata*, *Simon Boccanegra*, *Manon Lescaut*, and *Romeo et Juliette*, Gran Teatre del Liceu for *Lucrezia Borgia*, and Bayerische Staatsoper for *La Traviata*. This past season included performances at the Metropolitan Opera of *Aida* and *La Traviata*, Opernhaus Zürich for performances of *La Fanciulla del West* and *La Traviata*, Wiener Staatsoper for *Tosca*, *Andrea Chenier*, *L’elisir d’amore*, and *Don Carlo*, and Deutsche Oper Berlin for *Faust*.

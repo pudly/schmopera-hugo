@@ -16,6 +16,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/looseteaopera"
 
+_template = "company_single"
 +++
 <p>
 	Who is Loose TEA Music Theatre?<br>

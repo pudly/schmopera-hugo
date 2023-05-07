@@ -8,6 +8,7 @@ related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/ar
 slug = "jason-ferrante"
 title = "Jason Ferrante"
 website = "http://jasonferrante.com/"
+_template = "people_single"
 +++
 
 Opera News praises tenor Jason Ferrante for “singing up a stylish storm” and for getting “the gold star for trills” and the Berkshire Eagle says he “seems to brighten every stage he mounts.” 

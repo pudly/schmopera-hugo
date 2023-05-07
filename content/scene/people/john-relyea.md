@@ -9,6 +9,7 @@ related_companies = ["scene/companies/canadian-opera-company.md","scene/companie
 slug = "john-relyea"
 title = "John Relyea"
 website = "http://www.johnrelyea.com/"
+_template = "people_single"
 +++
 
 John Relyea continues to distinguish himself as one of today's finest basses.

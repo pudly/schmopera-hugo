@@ -23,7 +23,9 @@ Tonatiuh Abrego finds the difference lies in being an adaptable performer. "On t
 
 Flexibility can be a plus, too. Pianist Carol-Anne Fraser finds freedom in playing orchestra for a portable show. "I don't have to have my eyes glued to a conductor, so I can respond to what each of the singers is doing and I feel more connected to them musically and emotionally." Since she's the orchestra, Fraser also gets to enjoy that pianist's rarity, the curtain call. "I've always loved watching the big group take a bow holding hands at the end of an opera, and it's really nice to finally be a part of that and feel the group energy!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448291266460/2015-11-21---JMC150830web-418.jpg.jpg)<figcaption>Marcel d'Entremont (Tybalt) and Goeffroy Salvas (Mercutio). Photo by Antoine Saito.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448291266460/2015-11-21---JMC150830web-418.jpg.jpg)<figcaption>Marcel d'Entremont (Tybalt) and Goeffroy Salvas (Mercutio). Photo by Antoine Saito.</figcaption>
 </figure>
 
 ## Keeping healthy on the road
@@ -42,7 +44,9 @@ A good night's sleep, too, can be hard to come by on tour; new beds, weird hours
 
 Gounod's score is objectively gorgeous, and its beauty is something that even the greenest of listeners can experience. A show like his *Roméo* is a great introductory piece for opera newcomers, since the story is already familiar, and it's easy to hear how the music complements the emotional heights. Says Fraser, "The idea of loving someone so much that you would sacrifice anything just to be with them resonates with a lot of people, and is what makes this opera so special."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448244860697/2015-11-21---JMC150830web-415.jpg.jpg)<figcaption>l-r: Marcel d'Entremont (Tybalt), Tonatiuh Abrego (Roméo), Geoffroy Salvas (Mercutio). Photo by Antoine Saito.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448244860697/2015-11-21---JMC150830web-415.jpg.jpg)<figcaption>l-r: Marcel d'Entremont (Tybalt), Tonatiuh Abrego (Roméo), Geoffroy Salvas (Mercutio). Photo by Antoine Saito.</figcaption>
 </figure>
 
 Abrego vouches for this production by stage director [Oriol Tomas](http://www.orioltomas.com/), and its ability to engage an audiences in a tangible way. "In our production every character is distinct, memorable and has an important contribution to the story; there are no superfluous characters and we all have something important to say and beautiful music to go along with it."

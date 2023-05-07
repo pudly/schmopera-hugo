@@ -16,14 +16,18 @@ title = "In review: The Marriage of Figaro"
 
 Mozart's *The Marriage of Figaro* is up and running at the [Canadian Opera Company](/scene/companies/canadian-opera-company/), pairing the curiosity over Claus Guth's Ingmar Bergman-inspired production with the anticipation of a cast full of top-notch singers, which includes a big nod to Canadian talent. The comedy in Mozart's masterpiece isn't lost on Guth, but he makes a strong focal point out of psychoanalyzing the characters, exploring how they perceive their relationships with each other, and how they deal with any emotion related to lust.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454951895923/Figaro-MC-0815.jpg.jpg)<figcaption>(l-r) Erin Wall as the Countess, Emily Fons as Cherubino and Jane Archibald as Susanna in the Canadian Opera Company’s production of *The Marriage of Figaro*, 2016, photo: Michael Cooper.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454951895923/Figaro-MC-0815.jpg.jpg)<figcaption>(l-r) Erin Wall as the Countess, Emily Fons as Cherubino and Jane Archibald as Susanna in the Canadian Opera Company’s production of *The Marriage of Figaro*, 2016, photo: Michael Cooper.</figcaption>
 </figure>
 
 The result is a dark look at *Figaro*, where we see Susanna getting groped and pawed by most of the men in her life, and the bitterness between the Count and Countess makes us noticeably uncomfortable. One could argue that in many ways it's a "true" version of this story; still, Guth consistently shifts between the literal and the abstract. He creates the character Cherubim, a mute role played by Uli Kirsch, who embodies Love, a sort of benevolent (?) ringleader directing the action.
 
 The production has a lot to say about social class, and about how we deal with lust. Every scene was permeated with symbols and gestures that illuminated the Count's overpowering desire for Susanna, Marcellina's being drawn to Figaro, or Cherubino's obsession with the Countess (and perhaps her role as an enabler). There was clarity in each of these messages; Cherubim crawls all over Figaro and the Count in their respective arias, and we know that love can hinder and weigh us down. The set devolves from a sensible house to a dizzying series of staircases and hidden doors, and we know that the truth of the story is muddled, different for each character.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454951685381/Figaro-MC-1772.jpg.jpg)<figcaption>Jane Archibald as Susanna, Uli Kirsch (back, on stairs) as Cherubim and Erin Wall as the Countess in the Canadian Opera Company’s production of *The Marriage of Figaro*, 2016, photo: Michael Cooper.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454951685381/Figaro-MC-1772.jpg.jpg)<figcaption>Jane Archibald as Susanna, Uli Kirsch (back, on stairs) as Cherubim and Erin Wall as the Countess in the Canadian Opera Company’s production of *The Marriage of Figaro*, 2016, photo: Michael Cooper.</figcaption>
 </figure>
 
 As astute and clear as the symbolic elements were, there was something heavy-handed about them in succession; the transition between naturalistic staging and stylized choreography was often inorganic, almost too deliberate. The opera felt divided into scenes, rather than having an easy flow in and out of musical numbers. Christian Schmidt's set and costume design are gorgeous and classic, yet the flow of Mozart's score got interrupted by large pauses between acts, to allow for a set change. The lulls brought a halt to the action of the show, and the sounds of heavy lifting and the odd drill from behind the curtain pulled us out of the story.
@@ -39,14 +43,18 @@ As Cherubino, mezzo-soprano [Emily Fons](http://emilyfons.com/) was fantastic. S
 
 The supporting gang were all strong. [Michael Colvin](/scene/people/michael-colvin/) was perfectly untrustworthy as Don Basilio, even joining in with the Count to get a few gratuitious gropes of poor Susanna. [Robert Pomakov](/scene/people/robert-pomakov/) was hilarious as the apathetic, perhaps ornery old Don Bartolo; he was a fantastic foil to Helene Schneidermann's Marcellina. We felt like we had known the two of them for years, and they were oddly sweet as Figaro's reunited parents.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454951828218/Figaro-CH-024.jpg.jpg)<figcaption>(l-r) Helene Schneiderman as Marcellina, Robert Pomakov as Dr. Bartolo and Jane Archibald as Susanna in the Canadian Opera Company’s production of *The Marriage of Figaro*, 2016, photo: Chris Hutcheson.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454951828218/Figaro-CH-024.jpg.jpg)<figcaption>(l-r) Helene Schneiderman as Marcellina, Robert Pomakov as Dr. Bartolo and Jane Archibald as Susanna in the Canadian Opera Company’s production of *The Marriage of Figaro*, 2016, photo: Chris Hutcheson.</figcaption>
 </figure>
 
 [Doug MacNaughton](/scene/people/doug-macnaughton/) was the bumbling gardener, Antonio, who had subtle moments of comedy scattered over his limited stage time. I couldn't help laughing at the sight of Antonio entering the Count's home, and staring at the hardwood floors like he's never been inside a building before. As the blind Don Curzio, [Jean-Philippe Fortier-Lazure](/scene/people/jean-philippe-fortier-lazure/) offered up some more background slapstick, as he wandered around helplessly, narrowly avoiding hidden staircases.
 
 Under COC Music Director [Johannes Debus](/scene/people/johannes-debus/), the COC Orchestra sounded light and airy. Some of the tempos seems to dig in their heels, and I often thought that too much dead air was left after an aria, halting the action in anticipation of applause. The singing deserves recognition, of course, but *Figaro* is a long one, and the quick pace of comedy is key.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454951968301/Figaro-MC-3479.jpg.jpg)<figcaption>A scene from the Canadian Opera Company’s production of *The Marriage of Figaro*, 2016, photo: Michael Cooper.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454951968301/Figaro-MC-3479.jpg.jpg)<figcaption>A scene from the Canadian Opera Company’s production of *The Marriage of Figaro*, 2016, photo: Michael Cooper.</figcaption>
 </figure>
 
 Although I wasn't sold on the whole arc in Guth's production, this *Marriage of Figaro*  is a must-see. The casting couldn't have been more perfect, and like it or not, this production is an important indication of what's happening on operatic stages outside of Canada. The show runs until February 27th, including the extra-special Ensemble Studio Performance on Feburary 22nd, where the cast is replaced by artists of the Ensemble Studio.

@@ -22,6 +22,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/reitsop"
 
+_template = "people_single"
 +++
 Recognized for her vocalism and artistic commitment in both classical and contemporary operatic repertoire, American soprano Elizabeth Reiter has garnered critical acclaim for her
 “rich and silvery” voice (The Boston Globe) and “impressive musical polish” (Opera News), characterizing her as “terrific, a very vital lyric soprano with stellar pitch and attack

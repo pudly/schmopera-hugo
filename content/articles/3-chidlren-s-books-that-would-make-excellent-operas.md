@@ -21,7 +21,9 @@ youtube_url = ""
 
 If you grew up in Canada, there's a great chance that you read [_A Promise is a Promise_](https://robertmunsch.com/book/a-promise-is-a-promise-2) - and if you were an imaginative kid like I was, you had a few bad dreams about it. Munch's 1992  book is based on the legend of the [Qallupilluit](https://en.wikipedia.org/wiki/Qallupilluit), the terrifying figures of Inuit folklore who are said to live under the ice in the sea, and who kidnap ill-behaved children. It's one of those stories designed to keep children safe — as in, don't go out on the sea ice — but in doing so, potentially freaks them utterly out. Just look at the book cover: that horrid hand cracking out of the ice? It's just the start, as anyone who's seen Krykorka's hideous-magical renderings of the Qallupilluit knows.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632244677/media/2021/09/Munsch_thbdbb.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1632244677/media/2021/09/Munsch_thbdbb.jpg)
 
 </figure>
 
@@ -33,7 +35,9 @@ There's so much room for sound exploration with this story. What do Qallupilluit
 
 Musical structure, anyone? [_The Gruffalo_](https://axelscheffler.com/books-with-julia-donaldson/the-gruffalo) is an amazing feat of storytelling, combining the rule of three with a palindromic narrative. (Can you tell I've read this book _a ton of times?_) So, we've got a Mouse who bluffs his way out getting eaten by a Fox, then an Owl, and then a Snake: he tells them he's buddies with a Gruffalo, a terrifying (and fictional) creature with tusks and orange eyes and a warty nose, who just so happens to love the taste of foxes, owls, and snakes. The bluff work - but wait! The Gruffalo isn't fictional after all!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632244064/media/2021/09/Gruffalo_fvulzt.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1632244064/media/2021/09/Gruffalo_fvulzt.jpg)
 
 </figure>
 
@@ -45,7 +49,9 @@ Opera-friendly structure? Yep. Great message for young people? Definitely. A _ba
 
 Alright, readers: if you've not yet heard of _Marcel the Shell With Shoes On_, make your day better by watching this fantastic 2010 short film by Dean Fleischer-Camp and Jenny Slate:
 
-<figure data-type="video">{{% md %}}<iframe width="1010" height="568" src="https://www.youtube.com/embed/VF9-sEbqDvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1010" height="568" src="https://www.youtube.com/embed/VF9-sEbqDvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -53,6 +59,8 @@ The wonderful book from the Marcel the Shell universe, [_The Most Surprised I've
 
 It's a gorgeous setting for an opera short. I imagine it very through-composed, very stream-of-consciousness. Certainly, there's some gorgeous sound event that involves a harp when Marcel goes airborne, something that sets up a soundscape that makes us think of flight and fond memories. Surely, this opera sounds like a warm hug, padded harmonies mixed with — what else? — surprises. And Marcel is certainly a countertenor, no?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632244812/media/2021/09/Marcel_mo2hmi.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1632244812/media/2021/09/Marcel_mo2hmi.jpg)
 
 </figure>

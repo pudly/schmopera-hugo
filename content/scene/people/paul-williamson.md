@@ -19,6 +19,7 @@ url = "https://twitter.com/godivapaw"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/godivapaw?feature=watch"
+_template = "people_single"
 +++
 
 Jamaican-born Canadian lyric tenor Paul Williamson has "a startlingly rich voice" (*Edmonton Journal*) and is now taking his place on the operatic and concert stages of Canada. With a Bachelor of Music degree from the Houghton College School of Music in New York, a Masters degree in Opera Performance from State Glinka Conservatoire of Nizhny Novgorod, Russia, Paul continued his vocal studies under Robert MacLaren at the University of Manitoba. In 2007, while a student in the Opera Diploma program at the University of Toronto, he starred as Nemorino in Donizetti’s *L’elisir d’amore*, where he was reviewed by *Opera Canada* as "a very pleasing tenor with Italianate colour, lovely phrasing and even the requisite sob" who can "play with his voice for nuance and has lots of power when needed."

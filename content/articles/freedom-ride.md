@@ -25,7 +25,9 @@ youtube_url = ""
 
 **Lidiya Yankovskaya**: Dan really understands vocal writing. He uses the voice effectively to portray a variety of characters, driving the action forward with the music and allowing every word to shine through clearly, while remaining unafraid to push the boundaries of what the voice can do.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571844380/media/2019/10/FreedomRide3_tallzs.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571844380/media/2019/10/FreedomRide3_tallzs.jpg)
 
 <figcaption>(l-r) Kristen Buabin, Michael Merullo, Tatum Robertson, Todd McNeel, Jr., Melynda Davis, Ezra Joshua Sanders, and Ron Williams, the cast of Freedom Ride at MassOpera, 2019. Photo: Nile Scott Hawver.</figcaption>
 
@@ -45,7 +47,9 @@ In the history books and the newspapers and on TV, they are bold and victorious.
 
 **DS**: When you're writing, you're just one person sitting at home with a piano and a pad of paper and a bunch of pencils. And you think you're doing a decent job of creating realistic characters and a gripping story, but you don't really know. You never really know until you have actors and an audience. The actors can only bring a story to life if it connects with them emotionally, so the first thing you find out in a workshop is whether or not you gave them honest enough material, and what kind of changes you can make to help them perform their best. Once the audience files into the theater, you find out something else. If they're on the edge of their seats, hearts thumping, breathless with anticipation, you probably did an okay job. If they're bored and start looking at their watches, you have to go back to the piano and start rewriting.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571844396/media/2019/10/FreedomRide1_ukfaix.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571844396/media/2019/10/FreedomRide1_ukfaix.jpg)
 
 <figcaption>Tatum Robertson for Freedom Ride, MassOpera, 2019. Photo: Nile Scott Hawver.</figcaption>
 
@@ -65,7 +69,9 @@ In the history books and the newspapers and on TV, they are bold and victorious.
 
 The MassOpera workshop will be the last stop prior to the Chicago Opera Theatre world premiere in February, and it is extraordinarily significant. Composer and librettist, conductor and director will have a final opportunity to hear and see all the pieces pulled together through our own senses and through the ears and eyes of the audience. I am personally grateful for the opportunity MassOpera has afforded me to participate in this necessary workshop.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571844411/media/2019/10/FreedomRide2_p1sg6f.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571844411/media/2019/10/FreedomRide2_p1sg6f.jpg)
 
 <figcaption>The cast of Freedom Ride at MassOpera, 2019. Photo: Nile Scott Hawver.</figcaption>
 

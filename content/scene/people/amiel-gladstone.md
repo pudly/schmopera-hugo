@@ -8,6 +8,7 @@ related_companies = ["scene/companies/canadian-opera-company.md","scene/companie
 slug = "amiel-gladstone"
 title = "Amiel Gladstone"
 website = "http://www.amielgladstone.com/"
+_template = "people_single"
 +++
 
 Amiel Gladstone is a West Coast based writer and director.

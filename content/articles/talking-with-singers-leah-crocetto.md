@@ -27,7 +27,9 @@ I love the music that I get to sing, so much! I always find something in myself 
 
 In the same way, Anna Erisso, my character in *Maometto II* is also this way. Her loyalty is at the core of who she is. And her love for family and duty to her country is something she holds very dear. She dies of her own volition. Our ending in the David Alden production is very profound. David is brilliant at finding the core of the piece and the role.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451952562323/San-Francisco-Opera-Luisa-Miller-Image---Cory-Weaver---Resized.jpg.jpg)<figcaption>Leah Crocetto in the title role of San Francisco Opera's production of *Luisa Miller*. Photo: Cory Weaver.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451952562323/San-Francisco-Opera-Luisa-Miller-Image---Cory-Weaver---Resized.jpg.jpg)<figcaption>Leah Crocetto in the title role of San Francisco Opera's production of *Luisa Miller*. Photo: Cory Weaver.</figcaption>
 </figure>
 
 ## What do you find different about singing Rossini, compared to your Verdi and Puccini roles?
@@ -42,7 +44,9 @@ Life on the road is quite difficult at times, but it's also the most rewarding a
 
 My only "must-pack" items are a candle and my sweet little Maltese, Ernie! He's a 7lb ball of fluff and love!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451952488060/Leah-Crocetto-and-Ernie---Image-by-Fay-Fox---Resized.jpg.jpg)<figcaption>Leah Crocetto and Ernie. Photo by Fay Fox.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451952488060/Leah-Crocetto-and-Ernie---Image-by-Fay-Fox---Resized.jpg.jpg)<figcaption>Leah Crocetto and Ernie. Photo by Fay Fox.</figcaption>
 </figure>
 
 ## It’s no secret that it’s tough to be an opera singer. Why do you do it, and what do you love most about it?

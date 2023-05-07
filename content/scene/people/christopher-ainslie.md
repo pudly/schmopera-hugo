@@ -14,6 +14,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ChrisAinslieSA?lang=en"
 
+_template = "people_single"
 +++
 Christopher Ainslie is notable for his warm voice, polished musicianship and compelling stage presence.
 

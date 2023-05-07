@@ -7,6 +7,7 @@ publishDate = "2018-02-07T16:56:00-05:00"
 related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/washington-national-opera.md","scene/companies/los-angeles-opera.md","scene/companies/opernhaus-zurich.md","scene/companies/salzburg-festival.md","scene/companies/wiener-staatsoper.md"]
 slug = "francesco-meli"
 title = "Francesco Meli"
+_template = "people_single"
 +++
 
 Born in Genova in 1980, he starts his singing studies at the age of seventeen with soprano Norma Palacios at his hometown’s School of music.

@@ -17,7 +17,9 @@ Midway through the presentation, I got some spontaneous applause from the group 
 
 With few exceptions, in most of the classic operas, male roles predominate. The ratios can be three or four to one. Even though *Traviata* is named after a woman, there are only three female soloists in it. Two in *Turandot*; same for *Bohème*, *Barber*, *Lucia*, *Faust*, *Tosca*, *Rigoletto*... Even standard repertoire operas with better F/M ratios like *Carmen*, *The Magic Flute*, *Die Fledermaus*, *The Flying Dutchman*, or *Don Giovanni* still have more men than women. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515542692634/2018-01-10--Central-City-Opera-2015-TRAVIATA-bow.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515542692634/2018-01-10--Central-City-Opera-2015-TRAVIATA-bow.jpg.jpg)
 <figcaption>The cast of *La traviata* takes a bow, Central City Opera, 2015. Photo: Brad Stabio.</figcaption>
 </figure>
 

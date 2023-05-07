@@ -7,6 +7,7 @@ publishDate = "2017-10-23T14:43:00-04:00"
 related_companies = ["scene/companies/edmonton-opera.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/lopra-de-montral.md","scene/companies/saskatoon-opera.md","scene/companies/pacific-opera-victoria.md"]
 slug = "jeanmichel-richer"
 title = "Jean-Michel Richer"
+_template = "people_single"
 +++
 
 This young French Canadian tenor studied in Montreal (CAN), Santa Barbara & New York (USA).

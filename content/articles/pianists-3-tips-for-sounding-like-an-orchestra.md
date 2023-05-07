@@ -23,7 +23,9 @@ It's a pretty ubiquitous thing, strings and woodwinds playing together. Lots of 
 
 When a string section plays together, the sound is fairly uniform, and because the mechanism of instruments are similar, so is their collective pulse. Compare that to a section of woodwinds, which includes three or more *different* instruments with more variance in sound timbre. This means that a chord played by the strings will have a homogenous sound, with no heirarchy of voicing among the section. To do this at the piano, the pianist can **take away all voicing**. It's anti-pianistic technique; voicing, or simply spotting the counterpoint, in piano music is key to keeping it interesting. With music written for a string section, "voicing" doesn't exist. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443275633924/Screen%20Shot%202015-09-26%20at%209.33.52%20AM.png)<figcaption>From *Le nozze di Figaro*: the slurred chords are strings, non-slurred are clarinet, bassoon and French horn.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443275633924/Screen%20Shot%202015-09-26%20at%209.33.52%20AM.png)<figcaption>From *Le nozze di Figaro*: the slurred chords are strings, non-slurred are clarinet, bassoon and French horn.</figcaption>
 </figure>
 
 The more you can achieve this voice-less sound, the more significant your shift to the woodwinds will seem (like in the example above). When any combination of flutes, bassoons, French horns, etc., plays together, it feels like a group of soloists. There's a difference between playing chords *without* voicing, like for the strings, and playing chords with *equal* voicing. Equal voicing is what gets the clarity and confidence of each individual line of a woodwind ensemble. At the piano, it's about playing legato with the fingers, not the pedal, and imagining that **each voice is striving to stand out** as a soloist. This comes in handy in plenty of Mozart, all *bel canto*, and definitely in counterpoint-laden Strauss (Richard, to be sure).
@@ -32,7 +34,9 @@ The more you can achieve this voice-less sound, the more significant your shift 
 
 Tremolos in string instruments are about sustaining a colour of sound. The go-to equivalent on the piano is playing the tremolo pitch as an octave, and quickly alternating between the bottom and top note, [honky-tonk piano style](https://www.youtube.com/watch?v=ngUMA_aKmak). If you're imitating a whole section strings, making up a tremolo chord, the same theory applies; break the chord up so that you can alternate between some of the notes and the rest of the notes by rocking your hand back and forth. Here's an example from *Madama Butterfly*:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443274663693/Screen%20Shot%202015-09-26%20at%209.27.42%20AM.png)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443274663693/Screen%20Shot%202015-09-26%20at%209.27.42%20AM.png)
 </figure>
 
 Starting at rehearsal 38, the strings play a triad of tremolo notes; whoever did the piano reduction made it easy to spot the trick I'm talking about, by breaking up the chord in a way that makes sense for a pianist's hand. The trick to really getting the right sound, though, is in ignoring this helpful shortcut. When the chord at 38 changes slightly, three bars later, what really happens is that all three parts shift at the same time. If a pianist plays as written, starting with the top two voices and then alternating with the lowest, that's akin to a bad orchestra, with someone in the string section being constantly out of sync with his neighbours. 
@@ -43,7 +47,9 @@ So, as the chord shifts, **shift all your fingers at the same time**; the other 
 
 The piano just sounds more orchestral with extra oomph in the bass. Now, this isn't a blanket statement, and a pianist's use of octaves should be informed by what's in the orchestra score. But often there's more bass than meets the eye; for example, when the double basses play with the string section, they **sound an octave lower than written**. Extra octave in the bass. It doesn't mean you play louder, but the harmonies are easier to hear, and there are more overtones in the sound; it's one of the incremental differences that adds up to sounding like an orchestra.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443276088280/Screen%20Shot%202015-09-26%20at%209.59.57%20AM.png)<figcaption>A section of Verdi's *Rigoletto* quartet, where some extra octaves would sound nice.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443276088280/Screen%20Shot%202015-09-26%20at%209.59.57%20AM.png)<figcaption>A section of Verdi's *Rigoletto* quartet, where some extra octaves would sound nice.</figcaption>
 </figure>
 
 I've found that singers often respond to the added support of more foundation in the accompaniment. The example from *Rigoletto* above shows the tenor working hard, and the orchestra gently supporting him. Those pizzicato chords aren't loud, to be sure, but there's somehow more sound in a softly pizz-ing section than in a dry, staccato piano chord. Instead of a singular note on beats 1 and 3, add that extra lower note. The singer will immediately feel better supported, and you'll be able to get that **reverb-like effect** that happens when double basses and celli pluck their strings.

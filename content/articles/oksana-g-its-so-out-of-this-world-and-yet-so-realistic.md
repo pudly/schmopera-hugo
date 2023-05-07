@@ -20,7 +20,9 @@ The fictional story of Oksana, the young Ukrainian woman who is lured into sex t
 
 "This is very common, and I have heard lots of stories like this," she says. Economic desperation and a certain level of naïveté can make it quite simple for recruiters to entice young women with the promise of decently paying work. Gennadi grew up in the Ukraine, and she is of a similar age to Oksana herself. "I understand this desperate desire to improve your life."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494948157713/2017-05-16---Rehearsal_Photo3_PhotoCred_TapestryOpera.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494948157713/2017-05-16---Rehearsal_Photo3_PhotoCred_TapestryOpera.jpg.jpg)
 <figcaption>Natalya Gennadi in the title role of *Oksana G.*, Tapestry Opera, 2017. Photo courtesy of Tapestry Opera.</figcaption>
 </figure>
 
@@ -28,7 +30,9 @@ Alongside Gennadi, *Oksana G.* features more Canadian excellence onstage, includ
 
 "It's the tragedy of it," says Gennadi, that makes *Oksana G.* worthy of an operatic telling. "It's so out of this world, and yet so realistic, what happens to this girl." Gervais' score is text-serving and seems to undulate with danger; "nobody really breaks into song. It's very real."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494948165992/2017-05-16---Rehearsal_Photo4_PhotoCred_TapestryOpera.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494948165992/2017-05-16---Rehearsal_Photo4_PhotoCred_TapestryOpera.jpg.jpg)
 <figcaption>Jordan de Souza, conductor of *Oksana G.*, Tapestry Opera, 2017. Photo courtesy of Tapestry Opera.</figcaption>
 </figure>
 
@@ -36,7 +40,9 @@ Alongside Gennadi, *Oksana G.* features more Canadian excellence onstage, includ
 
 With her Ukrainian background, Gennadi has found herself an "unsolicited consultant" in the rehearsal room, offering insight on the small details that add up to an organic, realistic performance. Much of that is already in the opera itself, and it's no small endorsement that Gennadi, on first glance, found the libretto "brilliant."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494948180581/2017-05-16---Rehearsal_Photo5_PhotoCred_TapestryOpera.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494948180581/2017-05-16---Rehearsal_Photo5_PhotoCred_TapestryOpera.jpg.jpg)
 <figcaption>Rehearsal with director Tom Diamond (centre) for *Oksana G.*, Tapestry Opera, 2017. Photo courtesy of Tapestry Opera.</figcaption>
 </figure>
 

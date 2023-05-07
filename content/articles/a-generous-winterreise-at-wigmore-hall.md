@@ -16,7 +16,7 @@ title = "A generous Winterreise at Wigmore Hall"
 
 [Mitsuko Uchida](/scene/people/mitsuko-uchida/)'s playing was beyond beautiful from the very beginning. The music seemed to be a part of her. Her musicianship was flawless, creating a churning winter landscape full of ice and storms. Her playing never lost its relentless energy, driving the story to its inevitable conclusion. I was particularly struck by her playing in *Das Wirsthaus*, a song I'd never much paid attention to before. Her touch was bone-chilling, heart-breakingly lonely and bereft of comfort. Her *Leiermann* was without compare - the melody was fluid, but seemed perverse and otherworldly, coming from beyond our world.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513094877790/PadmoreUchida.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513094877790/PadmoreUchida.jpg.jpg)
 <figcaption>Tenor Mark Padmore (Marco Borggreve) and pianist Mitsuko Uchida (Richard Avedon).</figcaption>
 </figure>
 

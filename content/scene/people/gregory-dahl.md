@@ -8,6 +8,7 @@ related_companies = ["scene/companies/canadian-opera-company.md","scene/companie
 slug = "gregory-dahl"
 title = "Gregory Dahl"
 website = "http://www.gregorydahl.com/"
+_template = "people_single"
 +++
 
 <p>

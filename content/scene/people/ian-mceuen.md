@@ -19,6 +19,7 @@ url = "https://twitter.com/imceuen"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/imceuen/"
+_template = "people_single"
 +++
 
 oung tenor Ian McEuen has been praised for his versatility as a performer, impressing audiences with his "sweet lyric tone" and "gravitas on the stage,“ as well as his ability to evoke laughter "just for walking across the stage." Mr. McEuen began the 2016-17 season with his role and company debuts as Oliver Sacks in the UrbanArias production of *The Man who Mistook his Wife for a Hat*. In a turn of events rare in the opera world, he immediately reprised the role in a new production with Quantum Theatre. Most recently, he made his role and house debuts as Tobias Ragg in *Sweeney Todd* with New Orleans Opera. Next, Mr. McEuen will appear as Pang for his company and role debuts in Virginia Opera's *Turandot*. He will finish the season with his Kennedy Center Opera House debut as Goro in Jun Kaneko's production of *Madame Butterfly* at Washington National Opera.

@@ -20,7 +20,9 @@ The innocence, the memories of laughter, the pure voices and the playfulness of 
 
 *The Mikado* is a very funny piece and I would never wish to mess with that. The company will play the characters with truth and a sprinkling of good comic timing to just enhance it. We spend a lot of time in rehearsals keeping the comedy under control, the mere fact that we have boys dressed as girls is silly enough. The combination of a good script and the all-male concept seems to be working well. Fingers crossed that after *Iolanthe*, *The Pirates of Penzance*, *Patience* and *H.M.S. Pinafore*, it isn't *The Mikado* that trips us up - in a topsy turvy way of course!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489771543192/2017-03-17---Sasha-Regan-Kay-Young.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489771543192/2017-03-17---Sasha-Regan-Kay-Young.jpg.jpg)
 <figcaption>Sasha Regan. Photo by Kay Young.</figcaption>
 </figure>
 

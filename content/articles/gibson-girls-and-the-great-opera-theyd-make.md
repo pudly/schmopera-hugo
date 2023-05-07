@@ -17,7 +17,9 @@ As you'd expect from a teenaged fashion model, Evelyn had no shortage of interes
 
 This story of a love-triangle-gone-murder has all the stuff of good drama, no doubt; in fact, the story was turned into a film by Richard Fleischer in 1955, called _The Girl in the Red Velvet Swing_. I couldn't help but think to myself, jeez, Evelyn's story ould make a _great_ opera. The way-too-young pin-up girl who grows up fast in New York City; the wealthy and manipulative men around her; the murder that happens atop Madison Square Garden, right after a show. Plus, there would be more than enough excuses to squeeze a little ragtime into the score. The operatic version of this story could resemble a mash-up of _Manon_ and _Lulu_, but set in New York. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714246856/GibsonGirlsBeach.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714246856/GibsonGirlsBeach.jpg.jpg)
 <figcaption>Gibson Girls on the Beach. By Charles Dana Gibson</figcaption>
 </figure>
 
@@ -25,7 +27,9 @@ Even more fascinating was the trail of clicks that led beyond my interest in Eve
 
 Looking at Gibson's illustrations, it struck me that he was one of those artists who really did know that women held immense power over men. His work shows Gibson Girl-type women in everyday places, like dinner parties and beaches, almost apathetic over their clear control. This is one of my favourites; it's called _They Are Only Collecting the Usual Fans and Gloves:_ 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714322515/GibsonIllustration.gif)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714322515/GibsonIllustration.gif)
 <figcaption>Illustration: Charles Dana Gibson</figcaption>
 </figure>
 

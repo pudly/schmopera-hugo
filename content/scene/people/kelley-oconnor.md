@@ -22,6 +22,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/kelleymo/?hl=en"
 
+_template = "people_single"
 +++
 Possessing a voice of uncommon allure, musical sophistication far beyond her years, and intuitive and innate dramatic artistry, the Grammy® Award-winning mezzo-soprano Kelley O’Connor has emerged as one of the most compelling performers of her generation.
 

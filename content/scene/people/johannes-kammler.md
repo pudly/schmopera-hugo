@@ -9,6 +9,7 @@ slug = "johannes-kammler"
 title = "Johannes Kammler"
 website = "https://www.johanneskammler.com/startseite"
 
+_template = "people_single"
 +++
 The German baritone Johannes Kammler is already in demand internationally at renowned addresses and is equally committed to opera, song and concerts.
 

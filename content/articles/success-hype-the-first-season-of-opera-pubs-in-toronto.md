@@ -16,25 +16,33 @@ title = "Success &amp; hype: the first season of Opera Pubs in Toronto"
 
 There are few events in the Canadian opera scene that have garnered as much hype as the Opera Pubs presented by Toronto's [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/). Like most good things, the premise is simple: a mixture of the opera-savvy and the opera-curious gather at the Amsterdam Bicycle Club, and a handful of opera singers share the work of performing a few sets' worth of arias and duets.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494126061425/2017-05-04---Opera-Pub-5.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494126061425/2017-05-04---Opera-Pub-5.jpg.jpg)
 <figcaption>Adam Fisher, tenor, and pianist David Eliakis performing at the May 4th Opera Pub. Photo courtesy of Against the Grain Theatre.</figcaption>
 </figure>
 
 These monthly Opera Pubs have ancestry in the humble bars of Banff, Alberta, and even more strongly in Norway, where AtG Artistic Director [Joel Ivany](/atgs-opera-pubs-it-can-all-get-a-bit-wild/) heard the singers of the Norwegian National Opera entertain crowds at Oslo's Underwater Pub. Now that they've come to Toronto, AtG's Opera Pubs have become synonymous with fun nights out, and line-ups out the door. May 4, 2017, marked the final Opera Pub of the season, and they're set to return on October 5, 2017.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494126117721/2017-05-04---Opera-Pub-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494126117721/2017-05-04---Opera-Pub-2.jpg.jpg)
 <figcaption>Alex Dobson, baritone, performing at the May 4th Opera Pub. Photo: Darryl Block, courtesy of Against the Grain Theatre.</figcaption>
 </figure>
 
 It's not hard to see why the events are so popular. For the newcomer to opera, the idea of an Opera Pub strikes a great balance between satisfying one's curiosity about the art form, and offering an environment that's familiar and not intimidating. With the singing broken up into easily digested sets, listeners feel free to come and go as they please, and the night is easy on those with shorter attention spans.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494126072729/2017-05-04---Opera-Pub-4.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494126072729/2017-05-04---Opera-Pub-4.jpg.jpg)
 <figcaption>Jonathan MacArthur, tenor, performing at the May 4th Opera Pub. Photo: Darryl Block, courtesy of Against the Grain Theatre.</figcaption>
 </figure>
 
 For those who are decidedly "in" Toronto's operatic circles - the singers, directors, conductors, and other opera-creators - the night means all of the above, and much more. It can be a jackpot of one-stop socialising; it's tough to make it from one's table to the bar (much less the bathroom) without spotting a familiar face. It's a chance for colleagues to hear each other at work, likely in an environment that's novel compared to the usual rehearsal-room routine. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494126083727/2017-05-04---Opera-Pub-3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494126083727/2017-05-04---Opera-Pub-3.jpg.jpg)
 <figcaption>Andrew Love, baritone (and Julie Ludwig, soprano), performing in the May 4th Opera Pub. Photo: Darryl Block, courtesy of Against the Grain Theatre.</figcaption>
 </figure>
 
@@ -42,7 +50,9 @@ The success of the Opera Pubs brings to light something that is - and should be 
 
 The *bona fide* opera fans are an easy bet who will certainly put their butts in the seats. It's the presence of opera newbies that signals real success.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494126106828/2017-05-04---Opera-Pub-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494126106828/2017-05-04---Opera-Pub-1.jpg.jpg)
 <figcaption>Topher Mokrzewski, Music Director of Against the Grain Theatre and host of the May 4th Opera Pub. Photo: Darryl Block, courtesy of Against the Grain Theatre.</figcaption>
 </figure>
 

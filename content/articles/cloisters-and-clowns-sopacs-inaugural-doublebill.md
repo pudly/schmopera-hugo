@@ -26,5 +26,7 @@ Through conversations with close colleagues, we were approached about doing Pucc
 This is likely a debatably point.   There are truly so many beautiful moments. 
 Putting our heads together, some of the favourites include the Princess's scene in *Suor Angelica*, as well as the finale when the nuns join the hall again for Salve Regina. In *Pagliacci*: The beauty and sincerity of the lover's scene between Nedda and Silvio. Peppe's aria in "The Play" from the balcony is also very inviting. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485950819255/2017-02-01---Suor_PagFinal.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485950819255/2017-02-01---Suor_PagFinal.jpg.jpg)
 </figure>

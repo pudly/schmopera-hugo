@@ -27,7 +27,9 @@ That it is a long-term process which never stops.  From vocal improvement, to li
 
 I have an amazing wife and two beautiful children who give me inspiration, support and perspective.  When I'm away I focus on a) doing my job to the best of my ability and b) getting home ASAP. Health and sanity are a hopeful by-product of home life going well.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528591615727/CreditSussieAhlburg1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528591615727/CreditSussieAhlburg1.jpg.jpg)
 <figcaption>Photo: Sussie Ahlburg.</figcaption>
 </figure>
 

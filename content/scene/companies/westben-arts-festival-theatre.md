@@ -17,6 +17,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/WestbenTheatre"
 
+_template = "company_single"
 +++
 It is a magical blend of world class music, wonderful people and a magnificent setting.
 

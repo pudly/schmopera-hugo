@@ -27,7 +27,9 @@ It was immediately obvious to me that the foundation has been doing a fabulous j
 
 We both were so fortunate to receive the full support of this amazing Foundation, and to work with them in their incredibly cooperative and generous spirit. The rest is history!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445561544250/045AArends%20WEB.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445561544250/045AArends%20WEB.jpg.jpg)
 <figcaption>Allison Cecilia Arends, soprano.</figcaption>
 </figure>
 
@@ -49,7 +51,9 @@ Next was craft time, which was perhaps a favourite amongst both the children and
 
 After the kids were fed lunch, they were released and we began planning and settting up for the next day. We would then make our way home (we were generously put up by the lovely Mrs. Facey, a major sponsor for the Foundation) in a dirty, sweaty, exhausted, but overwhelmingly fulfilled heap.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445559036985/Paul-Anthony-Williamson%2C-tenor2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445559036985/Paul-Anthony-Williamson%2C-tenor2.jpg.jpg)
 <figcaption>Paul Williamson, tenor.</figcaption></figure>
 
 ## 3. What changes or improvements are you making after this summer's inaugural camp?
@@ -62,7 +66,9 @@ Also, there is a high incidence of child [sexual] abuse in this neighbourhood, r
 
 It is also important that they are aware of the supportive role both we and the schoolteachers and staff are playing in their lives. Our camp was open to children ages 3-9. As the older children pass that age, we feel it is important not to abandon them, but to continue contact. We have discussed hosting another camp for older kids, or having some kind of a "junior leader" program, whereby they can be involved in the camp while taking on leadership responsibilities. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445561493337/Kathleen-Promane-headshot-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445561493337/Kathleen-Promane-headshot-1.jpg.jpg)
 <figcaption> Kathleen Promane, mezzo-soprano.</figcaption>
 </figure>
 

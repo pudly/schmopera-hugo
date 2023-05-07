@@ -23,7 +23,9 @@ On **October 15, 2017**, Esprit begins its mainstage line-up with [*Eternal Ligh
 
 Finally, [*Taiko Plus!*](https://www.espritorchestra.com/concert-tickets/concert/taiko-plus/), on **April 15, 2018**, includes the Canadian premieres of Maki Ishii's *Mono-Prism* (1976) and Fuhong Shi's *Concentric Circles* (2009), and the world premieres of new works by Canadian composers Scott Wilson and Chris Paul Harman. The concert also features soprano [Shannon Mercer](/scene/people/shannon-mercer/), and Japanese taiko drumming ensemble Nagata Shachu.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503611567649/shannon%20mercer%20edited.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503611567649/shannon%20mercer%20edited.jpg.jpg)
 <figcaption>Shannon Mercer, soprano. Photo courtesy of Esprit Orchestra.</figcaption>
 </figure>
 

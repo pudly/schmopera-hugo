@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Sondra-Radvanovsky/43465428333?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SondraRadvan"
+_template = "people_single"
 +++
 
 Soprano Sondra Radvanovsky is a globally celebrated artist. The sincerity and intensity that she brings to the stage as one of the most prominent sopranos of her generation have own her accolades from critics and loyalty from passionate fans. When the Washington Post praised her singing as "outright gorgeous, poignant and silvery," it confirmed what Radvanovsky followers had known for years. The exquisite depth and color of her voice are matched by her artistry and versatility across a remarkable range of repertoire. Radvanovsky has earned praise for her riveting portrayal of the title role of *Rusalka* while her unique flexibility has led to success in such roles as Roxanne in *Cyrano de Bergerac* and the title role of *Lucrezia Borgia*. Her signature role is Leonora in *Il trovatore*, and she is widely regarded as one of the premiere Verdi sopranos alive today. She has portrayed the title role in *Aida*, Elvira in *Ernani*, the title role in *Luisa Miller*, Elene in *I vespri Siciliani*, Elisabeth de Valoi in *Don Carlo*, and Lina in *Stiffelio*, among others.

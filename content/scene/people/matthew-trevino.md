@@ -20,6 +20,7 @@ url = "https://twitter.com/bassotrevino"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCN4-9bKSikN0EQLhwXGOtxg?spfreload=10"
+_template = "people_single"
 +++
 
 A former member of the San Francisco Opera’s prestigious Merola Opera Program and recipient of the "Best Singer Award" by the 2011 Austin Critics’ Table for his performance in *The Man Who Mistook His Wife for a Hat*, Matthew Treviño is proving to be one of today’s most sought-after young basses. The *San Francisco Chronicle* described his recent performances as Don Basilio (*Il barbiere di Siviglia*) as "sonorous and neatly malevolent" with *The New York Times* praising his "delightfully unctuous portrayal."  

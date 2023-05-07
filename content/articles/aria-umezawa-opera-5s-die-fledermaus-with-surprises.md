@@ -30,7 +30,7 @@ A lot of our rehearsal has to be somewhat theoretical because we don't have pack
 
 In the original script, there is a character named Yvan who acts as Orlofsky's valet. He mostly just enters the scene to announce the arrival of a new character, then leaves. When it came to approaching Pearle about being in the show, I thought to myself: Orlofsky is the type of person who likes to be outrageous. She's one step ahead of the curve, and is perpetually bored despite being surrounded by the craziest things, and the best people. It made sense to me that she would have a drag queen as part of her entourage. So Pearle replaced Yvan, and we expanded the role. If you've ever seen Pearle's work, you know that she is sweet with a dark undertone. You can expect that she'll make a few astute and cutting remarks, she'll tell things as they are, and she'll delight in seeing these characters embarrass themselves. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463238699316/2016-05-14---Pearle-Harbour.jpg.jpg)<figcaption>Pearle Harbour, playing Yvan in Opera 5's *Die Fledermaus*.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463238699316/2016-05-14---Pearle-Harbour.jpg.jpg)<figcaption>Pearle Harbour, playing Yvan in Opera 5's *Die Fledermaus*.</figcaption>
 </figure>
 
 ## Do you have any favourite tunes from the score?

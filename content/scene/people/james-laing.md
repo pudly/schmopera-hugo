@@ -7,6 +7,7 @@ publishDate = "2017-03-16T15:47:00+00:00"
 related_companies = ["scene/companies/royal-opera-house.md","scene/companies/classical-opera.md","scene/companies/english-national-opera.md","scene/companies/opera-holland-park.md","scene/companies/garsington-opera.md","scene/companies/grange-park-opera.md","scene/companies/opera-north.md"]
 slug = "james-laing"
 title = "James Laing"
+_template = "people_single"
 +++
 
 James Laing studied at Uppingham School and was a choral scholar at Trinity College, Cambridge. He furthered his studies at the Royal College of Music with Robin Blaze. He was selected by OPERA NOW as amongst ‘Who’s Hot’ for his performance as Nerone *Agrippina* at the London Handel Festival. His broadcast work includes Sports Personality of the Year for BBC TV, In Tune for Radio 3 and Midweek for Radio 4. 

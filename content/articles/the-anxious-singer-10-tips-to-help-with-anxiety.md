@@ -90,7 +90,9 @@ Just don't do it. Seriously. I don't think I need to explain why.
 
 One symptom of Generalized Anxiety Disorder is "difficulty concentrating, or the feeling that your mind 'goes blank'" ([link](http://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/basics/symptoms/con-20024562)). This method may not work for everyone, but I've found it invaluable for keeping me on track. Making packing lists, travel info lists, contact lists, etc... will ensure that you're as prepared as possible, and thus help to minimize anxiety flare-ups.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470303676557/img-20160728-183554.jpg%3F279)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470303676557/img-20160728-183554.jpg%3F279)
 <figcaption>The list board in my home office.</figcaption>
 </figure>
 

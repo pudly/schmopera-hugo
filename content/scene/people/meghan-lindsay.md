@@ -24,6 +24,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/meghanjlindsay/"
 
+_template = "people_single"
 +++
 Canadian soprano Meghan Lindsay has been praised by OPERA NEWS for a voice that "shines with greater vocal strength and control than ever before and dazzles with her coloratura passages.” Following a performance of Alcina celebrated as "graced with a bright, limpid instrument, luscious timbre and superb technique," Meghan returned to Opera Atelier as Amour in Gluck’s _Orphée et Eurydice_, Giunia in the Canadian premiere of Mozart’s _Lucio Silla_, Belinda and _Dido and Aeneas_, and Minerva in _Il ritorno d'ulisse in patria._ A frequent interpreter of French Baroque repertoire, Meghan has performed the roles of Sidonie/Nymphe des Eaux (Lully's _Armide_), Vénus (Lully's _Persée_), and Nérine (Charpentier's _Medée)_ at The Royal Opera House of the Palace of Versailles. In 2018/19, Meghan's role debuts include Sandrina in _La Finta Giardiniera_ (Opera Nova Scotia), Arethuze/Hunter and Galatée in a double bill of _Actéon_ and _Pygmalion_ (Opera Atelier/Royal Opera Versailles/Harris Theatre Chicago), Paride in Gluck's _Paride ed Elena_ (Odyssey Opera), and Ilia in _Idomeneo_ (Opera Atelier)
 

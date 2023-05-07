@@ -25,7 +25,9 @@ The [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/)'s 2018-19
 
 While there were beautifully-sung moments throughout the evening, what I felt lacking was virtually everything else. Where was the seduction, the gaiety, the initial cynicism-turned-ardor, the exuberance, the frailty, the endearing worldliness of this character? This is a woman who is supposed to have Paris—and by extension, us, the audience—eating out of the palm of her hand. Yet, the Violetta we saw on Saturday evening felt disengaged and flat.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550527692/media/2019/02/LATRAVIATA_LyricOperaofChicago_WS7.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550527692/media/2019/02/LATRAVIATA_LyricOperaofChicago_WS7.jpg)
 
 <figcaption>A scene from La traviata, Lyric Opera of Chicago, 2019. Photo: Lyric Opera of Chicago.</figcaption>
 
@@ -33,7 +35,9 @@ While there were beautifully-sung moments throughout the evening, what I felt la
 
 Part of the problem was in the staging. In the crucial Act I party scene, where we are meant to meet Violetta, the magnetically-charming toast of Paris, Shagimuratova made a sullen host, wandering slowly through the sea of chorus-members who—too much like a normal party or high school drama production—clumped unattractively upstage, out of the light. She likewise meandered, eyes downcast, during her signature numbers "Ah, fors'è lui…sempre libera". These were sung gorgeously, by the way. But watching Shagimuratova felt more like observing a singer in a practice room rather than being charmed by a courtesan flirting with notions of true love.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550527857/media/2019/02/AlbinaShagimuratova_GiorgioBerrugi_LATRAVIATA_LyricOperaofChicago_LYR190213_512.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550527857/media/2019/02/AlbinaShagimuratova_GiorgioBerrugi_LATRAVIATA_LyricOperaofChicago_LYR190213_512.jpg)
 
 <figcaption>Giorgio Berrugi (Alfredo ) and Albina Shagimuratova (Violetta) in La traviata, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
@@ -45,7 +49,9 @@ Exacerbating things further was the total lack of chemistry between Shagimuratov
 
 The stage dynamics improved somewhat in Act II thanks in large part to the Serbian baritone [Željko Lučić](/scene/people/zeljko-lucic/) as Giorgio Germont. Imposing in both presence and voice, Lučić commanded the stage with his authority and provided his younger colleagues with some needed emotional fodder during his respective exchanges with Violetta and Alfredo. Giorgio's lengthy duet with Violetta was truly lovely and elicited a more genuine give-and-take from Shagimuratova. The highlight of the evening for me, though, was Lučić’s affecting performance of "Di Provenza il mar, il suol".
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550528045/media/2019/02/GiorgioBerrugi_LATRAVIATA_LyricOperaofChicago_LYR190213_328.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550528045/media/2019/02/GiorgioBerrugi_LATRAVIATA_LyricOperaofChicago_LYR190213_328.jpg)
 
 <figcaption>Giorgio Berrugi (Alfredo) in La traviata, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
@@ -53,7 +59,9 @@ The stage dynamics improved somewhat in Act II thanks in large part to the Serbi
 
 The LOC's young artists filled in the opera's many secondary roles, but deserve principal applause for some of the show's most committed performances, especially contralto [Lauren Decker](/scene/people/lauren-decker/). The third-year Ryan Opera Center member is by now a veritable veteran of the Lyric mainstage, having appeared in six roles since 2016-17. In this _Traviata_, Decker is a sympathetic and dutiful Annina.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550528086/media/2019/02/AlbinaShagimuratova_GiorgioBerrugi_MarioRojas_LATRAVIATA_LyricOperaofChicagoLYR190213_056.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550528086/media/2019/02/AlbinaShagimuratova_GiorgioBerrugi_MarioRojas_LATRAVIATA_LyricOperaofChicagoLYR190213_056.jpg)
 
 <figcaption>Giorgio Berrugi (Alfredo), Mario Rojas (Gastone) and Albina Shagimuratova (Violetta) in La traviata, Lyric Opera of Chicago, 2019. Photo: Lyric Opera of Chicago.</figcaption>
 
@@ -63,7 +71,9 @@ American mezzo-soprano [Zoie Reams](/scene/people/zoie-reams/) makes her LOC deb
 
 Elsewhere in the production, Riccardo Hernandez's sets together with Marcus Doshi's lighting-design provided both elegant and stark contrasts to the more elaborate party scenes, beautifully reflecting Violetta's precarious state of life.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550528137/media/2019/02/AlbinaShagimuratova_GiorgioBerrugi_ZeljkoLuc%CC%8Cic%CC%81_LATRAVIATA_LyricOperaofChicago_CU71.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550528137/media/2019/02/AlbinaShagimuratova_GiorgioBerrugi_ZeljkoLuc%CC%8Cic%CC%81_LATRAVIATA_LyricOperaofChicago_CU71.jpg)
 
 <figcaption>Albina Shagimuratova (Violetta) and Giorgio Berrugi (Alfredo) in La traviata, Lyric Opera of Chicago, 2019. Photo: Lyric Opera of Chicago.</figcaption>
 

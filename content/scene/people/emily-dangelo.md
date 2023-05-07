@@ -14,6 +14,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/emilymezzo"
 
+_template = "people_single"
 +++
 A 2020 Lincoln Center Emerging Artist, Emily D’Angelo is the first and only vocalist to have been presented with the Leonard Bernstein Award from the Schleswig Holstein Festival, and has been named one of WQXR NYC Public Radio’s "40 Under 40" singers to watch, and Canada's "Top 30 Under 30" Classical Musicians.  
 

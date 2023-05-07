@@ -13,6 +13,7 @@ website = "http://www.violetaurmana.com/index.php/en"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/Violeta-Urmana-110903638936558/"
+_template = "people_single"
 +++
 
 Born in Lithuania, Violeta Urmana is one of the most highly sought-after singers of dramatic German and Italian repertoire.

@@ -24,6 +24,7 @@ url = "https://www.youtube.com/channel/UCZH9kjOLNQRpSPSPy5rAyKQ"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/songfest-429373235"
+_template = "company_single"
 +++
 
 SongFest: the United States' premier art song festival and training programs. The summer festival is held each May/June at the Colburn School in Los Angeles. SongFest attracts an internationally distinguished roster of artist teachers as well as students from some of the nation’s top music conservatories. Audiences enjoy a vibrant concert series presented in Colburn's state-of-the-art venues and auditors can attend daily masterclasses and lectures led by the most exciting artists of today.

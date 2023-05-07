@@ -41,7 +41,9 @@ Of course, it would have been amazing to work with Mozart like that \[in the roo
 
 The \[composers\] are the ones who are creating it and they know what they want. They're flexible to a point but in a way, we are just the sales girls.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551812622/media/2019/03/vonStadeThreeDecembers.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551812622/media/2019/03/vonStadeThreeDecembers.jpg)
 
 <figcaption>San Diego Opera presents Jake Heggie's chamber opera, Three Decembers, March 8, 9, and 10m, 2019. Part of the Detour Series. Photo courtesy of Hawaii Opera Theatre.</figcaption>
 
@@ -73,7 +75,9 @@ At this point in my life, I really love seeing kids come along and prosper in mu
 
 Now I work with the Young Musicians Choral Orchestra. It's an extraordinary program for children 9 through 18 that does intensive music preparation. They have to sing and also have to play an instrument. Lessons are free and there are weekly rehearsals. There's an intensive 8-week program in the summer from 8 AM till 6 PM. The purpose of it is to get those kids into college. Usually, college would not be in their future because they're from very low-income families. Music gives them great discipline and a great joy.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551812563/media/2019/03/vonStadeTerrenceMcCarthy.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551812563/media/2019/03/vonStadeTerrenceMcCarthy.jpg)
 
 <figcaption>Frederica von Stade. Photo by Terrence McCarthy.</figcaption>
 

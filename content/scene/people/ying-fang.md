@@ -17,6 +17,7 @@ url = "https://www.facebook.com/yingfangsoprano/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/sopranoying"
+_template = "people_single"
 +++
 
 Soprano Ying Fang has been hailed by the New York Times for her “pure and moving soprano, phrasing with scrupulous respect for the line and traveling with assurance through the mercurial moods,” as well as “singing with a fresh, appealing soprano and acting with coquettish flair.”

@@ -50,7 +50,9 @@ Yes, the répétiteur plays the part of the orchestra during the rehearsals, whi
 
 Of course prior to staging rehearsals even beginning, they will have probably been "coaching" the singers regularly too. I often try and relate this to sport in order to explain it better. If singing teachers are the fitness coaches, keeping a player healthy and ready physically for their next game, répétiteurs are the tactical coaches, suggesting where and when it will be best to shoot at which point in the game, where the defence will be most vulnerable, and how to refine how the player is already kicking to produce an even more accurate shot.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679528797/media/2023/03/PIanistseries_soccerfield_r9jhxm.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1679528797/media/2023/03/PIanistseries_soccerfield_r9jhxm.jpg)
 
 <figcaption>Répétiteurs are the tactical coaches, suggesting amongst other things, where and when it will be best to shoot at which point in the game.</figcaption>  
 </figure>
@@ -61,7 +63,9 @@ Singing teachers help the singers on a technical level to use their body in the 
 
 Often many beginner répétiteurs play as if they are still driving a sports car (even though sadly on a répétiteur's salary, this will be an imagined idea rather than as a result of lived experience), and they need to learn to react in a way that is more like an orchestra. In order to know what the orchestra is like, you have to bury yourself in the orchestral score and immerse yourself in listening to different orchestras to get a sense of the sounds and weight that different instrumental sections make. It is for these reasons that being a répétiteur is still seen as ideal training for those wanting to become conductors. If you can multi-task to this extent, have strong personal skills that motivate people effectively, and have learnt to understand orchestral sound by processing musical scores at this level, you are already halfway to being a good conductor.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679528785/media/2023/03/Pianistseries_cruiseship_z7nhce.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1679528785/media/2023/03/Pianistseries_cruiseship_z7nhce.jpg)
 
 <figcaption>If the solo piano is a sports car, the orchestra is more like an ocean liner. They can both be top of the range vehicles but will need to be steered and handled differently.</figcaption></figure>
 

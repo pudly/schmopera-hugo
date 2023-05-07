@@ -8,6 +8,7 @@ related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/glynde
 slug = "bjorn-burger"
 title = "Björn Bürger"
 website = "http://www.bjoernbuerger.com/en/"
+_template = "people_single"
 +++
 
 Baritone Björn Bürger has been a member of the Ensemble of the Oper Frankfurt since 2013. In his first seasons with Frankfurt, he sang Harlekin in *Ariadne auf Naxos*, Bengtson in *Die Gespenstersonate*, Astolfo in *Orlando Furioso*, Papageno in *Die Zauberflöte* and Masetto in *Don Giovanni*, as well as the title role in Britten’s *Owen Wingrave*, Dandini in *La Cenerentola*, Masetto, Schaunard and Harlekin.

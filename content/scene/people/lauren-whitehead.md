@@ -21,6 +21,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/lady_whitehead/"
 
+_template = "people_single"
 +++
 Lauren Whitehead is a writer, performer and Master of Fine Arts recipient in Dramaturgy from Columbia University where she was a Schubert Presidential Fellow and an Undergraduate Writing Teaching Fellow. Lauren has written, composed and performed two one-woman musicals. The first, Written in Blues, was presented in the Afro Solo Festival, The Left Coast Leaning Festival at Yerba Buena Center for the Arts and at DiverseWorks in Houston, Tx. An excerpt of her second one woman show, A Tribe Called Blessed, debuted at the Women Center Stage Festival (Lynn Redgrave Theater) and was featured at The Nuyorican Poets Cafe. Her first full length play, stunning, still was read at Naked Angels 1st Mondays Play Reading Series after a residency at Vineyard Arts Project and her second full length work, American Courage, was selected for a workshop with Crowded Outlet and will have a reading at Judson Memorial Church in January of 2018. This year, Virtuosically Invisible, her non-fiction prose manuscript was runner up in a book prized judged by Maggie Nelson and her poems have been published in Apogee, Winter Tangerine and Union Station Magazine. 
 

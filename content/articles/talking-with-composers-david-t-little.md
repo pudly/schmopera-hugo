@@ -26,7 +26,9 @@ As the composer, I try to see both the forest and the trees - to feel the small 
 
 Finding balance with a normal life, supporting your colleagues, and not falling behind on email plus getting the piece done is an ongoing challenge. The big challenge is to transition out of being a student to being a full-time composer. Even though I teach, I consider myself a full-time composer. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539219301113/soldier-songs_hf14sd16_credit_ada-nieuwendijk.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539219301113/soldier-songs_hf14sd16_credit_ada-nieuwendijk.jpg.jpg)
 <figcaption>A scene from *Soldier Songs*. Photo by Ada Nieuwendijk.</figcaption>
 </figure>
 
@@ -44,7 +46,9 @@ Every piece that I write is exploring some idea and it usually is an idea that i
 
 There's an old quote by the composer and musicologist Charles Seeger from the 1930s, and I'm paraphrasing crudely, that it's not about whether the art is good but what art is good for. There was the question at that time about what music was good for. My doctoral dissertation is on music and politics. I came out of it thinking that it does matter to me that the art is good.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539219290972/soldier-songs_hf14sd2_credit_ada-nieuwendijk.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539219290972/soldier-songs_hf14sd2_credit_ada-nieuwendijk.jpg.jpg)
 <figcaption>A scene from *Soldier Songs*. Photo by Ada Nieuwendijk.</figcaption>
 </figure>
 

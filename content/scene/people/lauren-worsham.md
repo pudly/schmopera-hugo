@@ -12,6 +12,7 @@ website = "http://www.laurenworsham.com/about.html"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/WorshamLauren"
+_template = "people_single"
 +++
 
 Lauren Worsham is a Drama Desk Award-winning and Tony Award-nominated actress and singer. She recently completed her run on Broadway in *A Gentleman's Guide to Love and Murder* (2014 Tony Award winner for Best Musical). Other favorite roles include Lisa in *Dog Days* at Montclair Peak Performances, Fort Worth Opera and LA Opera (dir. Robert Woodruff), Flora in *Turn of the Screw* at New York City Opera (dir. Sam Buntrock), Amy in *Where's Charley* at New York City Center (dir. John Doyle), Cunegonde in New York City Opera's *Candide*, and Olive in the first National tour of *The 25th Annual Putnam County Spelling Bee*. Other credits include *La Perichole* at New York City Opera, Carnival (Lili) at Goodspeed Opera House, *Into the Woods* (Cinderella) at Kansas City Rep, *Master Class* (Sophie) at Paper Mill Playhouse, *The Light in the Piazza* (Clara) at Weston Playhouse and *The Fantasticks* (Luisa) at Emelin Theatre. She is the recipient of a 2014 Drama Desk and a 2014 Theatre World Award for her performance in Gentleman's Guide.

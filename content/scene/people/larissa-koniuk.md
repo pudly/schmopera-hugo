@@ -16,6 +16,7 @@ url = "https://www.facebook.com/TheBicycleOperaProject?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/bicycleopera"
+_template = "people_single"
 +++
 
 Larissa Koniuk is a Toronto-based singer, actor, and avid cyclist. Equally experienced in opera, concert, and recital repertoire, Larissa’s artistic concentration is in the creation and collaboration of new opera works. Larissa is currently the co-founder and artistic director of the Bicycle Opera Project, producing and performing contemporary opera in venues across Ontario in July 2012 and 2013.  As a performer with the Bicycle Opera Project, the soprano has recently been seen in productions at the Green Door Cabaret, Innovations en Concert in Montreal, Aeolian Hall in London, and a three-day residency with the Stratford Summer Music Festival. 

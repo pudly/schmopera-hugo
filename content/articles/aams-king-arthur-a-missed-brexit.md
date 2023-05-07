@@ -17,13 +17,13 @@ Last year's Brexit vote continues to sharply divide the country, providing a ric
 
 Having scrapped John Dryden's original text, director Daisy Evans retained Purcell's music to tell the story of Brexit Britain, with excerpts from poetry to focus on the theme of national identity. But this subversion of the work's original purpose ultimately failed to translate the nuances of fractured British society. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507211799245/2017-10-05---purcells-arthur-068.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507211799245/2017-10-05---purcells-arthur-068.jpg.jpg)
 <figcaption>The Academy of Ancient Music's *King Arthur*, Barbican Hall, October 3, 2017. Photo: Robert Workman.</figcaption>
 </figure>
 
 Split into a series of vignettes of contemporary British life, settings such as a street, a pub, a nightclub or a train station seemed clumsy and arbitrary when set to Purcell's music. Some segments worked well, such as the famous freezing scene as a metaphor for the despair felt by the Remainers, or the ambiguity subverting the triumphalism of "Saint George, the patron of our isle". But why the duet "Two Daughters of Aged Stream are we" should evoke a nightclub or the martial posturing of "Come if you dare our trumpets sound" should call to mind a train station will have to be explained to me. It was these mismatches which undermined the production as a whole.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507211826986/2017-10-05---purcells-arthur-043.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507211826986/2017-10-05---purcells-arthur-043.jpg.jpg)
 <figcaption>The Academy of Ancient Music's *King Arthur*, Barbican Hall, October 3, 2017. Photo: Robert Workman.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Ray Fearon, RSC actor, as narrator was one of the production's major selling poi
 
 Shakespeare's St. Crispin's Day speech provided a moment of irony in its rousing patriotism while T.S. Eliot's *The Hollow Men* undermined the certainty of the air "Fairest Isle", ending the performance on a note of wary uncertainty. But for all its topicality Ali Smith's *All Across The Country* began the evening on a flat note, weighed down with such inane lines as "people called each other cunts" and "the media was insane".
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507211836411/2017-10-05---purcells-arthur-033.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507211836411/2017-10-05---purcells-arthur-033.jpg.jpg)
 <figcaption>Ray Fearon, centre. The Academy of Ancient Music's *King Arthur*, Barbican Hall, October 3, 2017. Photo: Robert Workman.</figcaption>
 </figure>
 

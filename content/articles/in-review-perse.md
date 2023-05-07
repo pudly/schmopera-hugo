@@ -15,7 +15,9 @@ Ah, Opera Atelier. As far as Canada's opera scene goes, OA is really its own gen
 
 Marshall Pynkoski uses the device of [Baroque rhetorical gesture](http://www.operaatelier.com/education/opera-lovers/about-the-art/acting/) in his productions. I'm by no means an expert, but the short history is that the gestures were designed to accompany a word or a sentiment in the text, to add to its affect. It's a stylistic choice that has function. Pynkoski works with many of the same singers in each of his productions, and I'm sure it makes for a smoother rehearsal process if more people in the room are starting from the same point of aesthetic.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838248376/Gorgons-1024x756.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838248376/Gorgons-1024x756.jpg.jpg)
 <figcaption>l-r: Lawrence Wiliford, Curtis Sullivan, Olivier LaQuerre, Aaron Ferguson. Photo: Bruce Zinger.</figcaption>
 </figure>
 
@@ -25,7 +27,9 @@ As Andromède, the princess who loves Persée (he loves her back, don't worry), 
 
 Soprano [Peggy Kriha Dye](http://columbusblack.com/index.php?option=com_content&view=article&id=320:peggy-kriha-dye-named-general-manager-of-opera-columbus&catid=36:news) was a highlight onstage as Mérope, who also loves Persée (he doesn't love her back, oops). She sang beautifully and tragically, and she immediately had the audience on her side, despite the plot of the opera. I was impressed by her dramatic arc; it's a complicated thing to play the rival of a heroine, without playing a villainess. She broke my heart with her story of unrequited love, and her duet that Mérope sings with Andromède was, as a result, really stunning.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838327878/Persee-1024x580.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838327878/Persee-1024x580.jpg.jpg)
 <figcaption>Photo by Bruce Zinger.</figcaption>
 </figure>
 

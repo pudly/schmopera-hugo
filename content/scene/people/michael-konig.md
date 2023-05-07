@@ -9,6 +9,7 @@ slug = "michael-konig"
 title = "Michael König"
 website = "http://www.michael-koenig.net/"
 
+_template = "people_single"
 +++
 Michael König is a heroic tenor who performs in the world’s most prestigious opera houses including Opéra National de Paris, Hamburg State Opera, Frankfurt Opera, Berlin State Opera, Bavarian State Opera, Liceu, Barcelona, Teatro Real, Madrid, and La Scala, Milan.  His voice and powerful stage presence is in demand for renowned roles such as Florestan (Fidelio), Max (*Der Freischütz*), Lohengrin, Siegmund (*Die Walküre*), Erik (*Der Fliegende Holländer*), Emperor (*Die Frau ohne Schatten*), Bacchus (*Ariadne auf Naxos*), Jim Mahony (*Aufstieg und Fall der Stadt Mahagonny*), Andrey Khovansky (*Khovanshchina*), Grigory/The Pretender (*Boris Godunov*), and Sergey (*Lady Macbeth of Mtsensk*) amongst others.
 

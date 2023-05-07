@@ -33,11 +33,17 @@ At any rate, congratulations are in order for all the nominees. Theatre-goers in
 
 For a full list of the 2017 Dora Mavor Award Opera Division nominees, check out the PDFs below:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171501839/2017-DORA-NOMINEES-GRID-FINAL2-6.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171501839/2017-DORA-NOMINEES-GRID-FINAL2-6.jpg.jpg)
 </figure>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171509553/2017-DORA-NOMINEES-GRID-FINAL2-7.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171509553/2017-DORA-NOMINEES-GRID-FINAL2-7.jpg.jpg)
 </figure>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171518988/2017-DORA-NOMINEES-GRID-FINAL2-8.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171518988/2017-DORA-NOMINEES-GRID-FINAL2-8.jpg.jpg)
 </figure>

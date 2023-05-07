@@ -24,6 +24,7 @@ url = "https://twitter.com/BrentRTurner"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UC-pmTH5tB1MJqHLPtyhzEZQ?view_as=subscriber"
+_template = "people_single"
 +++
 
 American tenor Brent Reilly Turner has been critically acclaimed across the United States.  Turner's appearances in opera, concert and recital have been characterized as having a full, dramatic timbre, energetic personality and unique honesty.

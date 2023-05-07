@@ -9,6 +9,7 @@ social_media = []
 title = "Andrea Lett"
 website = "https://andrealett.net/"
 
+_template = "people_single"
 +++
 Praised for her "clear voice soaring to stratospheric heights" (Opera Canada), soprano Andrea Lett is quickly making a name for herself in the classical music scene across Canada. Ms. Lett made her Manitoba Opera debut in the 2018/19 season as Zerlina in _Don Giovanni_, and returns as Berta in Manitoba Opera’s spring production of _The Barber of Seville_. Ms. Lett made her Saskatoon Symphony Orchestra debut in March as the soprano soloist in Mozart’s _Requiem_, and will join the North York Concert Orchestra in June as the soprano soloist in Beethoven’s 9th Symphony. Upcoming performances include Winnipeg Symphony Orchestra’s _Messiah_ in December 2019, and Regina Symphony Orchestra’s Beethoven’s 9th Symphony in 2020. 
 

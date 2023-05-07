@@ -12,6 +12,7 @@ website = "http://whitneyohearn.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/whitneyohearn"
+_template = "people_single"
 +++
 
 Praised for her “warm and expressive voice and an amazing sense of line” (Ottawa Citizen), Whitney O’Hearn has already attracted attention in the vocal world. The Ottawa native received her undergraduate and master's degrees at the University of Ottawa, and recently completed further graduate studies at the University of Toronto. She is also an alumni of the National Art Centre’s Summer Music Institute young artist program.

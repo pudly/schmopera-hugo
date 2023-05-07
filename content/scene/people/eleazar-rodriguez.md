@@ -21,6 +21,7 @@ url = "https://twitter.com/eleazardz"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/eleazardz/"
+_template = "people_single"
 +++
 
 Mexican tenor Eleazar Rodriguez has received acclaim on both sides of the Atlantic for his vibrant portrayals of leading roles in operas by Donizetti, Rossini, Mozart, Verdi and Wagner.

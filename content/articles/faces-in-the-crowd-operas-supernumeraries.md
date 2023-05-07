@@ -23,7 +23,9 @@ title = "Faces in the crowd: opera&#039;s supernumeraries"
 
 **Carl Lyons**: I had always had the idea of being in productions right from the early days of university. The actual year I subscribed to the Canadian Opera Company, an email blast came from the COC seeking supers since they required over 100 for a production of *The Dialogue of the Carmelites*. I immediately emailed back my "yes" response. Luckily, I was the right size, and the rest is history. That production was magnificent and there were so many of us, it was an instant "summer camp" experience. Some of the folks I met there are quite good friends now.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499216065971/2017-07-05---Block---Boheme---Lyons.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499216065971/2017-07-05---Block---Boheme---Lyons.jpg.jpg)
 <figcaption>Carl Lyons (bottom) with Adanya Dunn as Musetta and Gregory Finney as Alcindoro (top) in Against the Grain Theatre's *La bohème*, 2017. Photos by Darryl Block.</figcaption>
 </figure>
 
@@ -39,7 +41,9 @@ And they're human: Some bring their families to keep them company, some bring th
 
 **Lyons**: I have learned that opera singers are a dedicated bunch. The training is rigorous, the parts demanding, all those languages to learn, and constant practicing to keep on top of their game. I've also learned that they are amongst the most supportive artists. I find generally, that most artists are supportive of each other. I've seen many performers of most of the performing arts be close friends, very dedicated to the various friendship networks they belong to. So many performers attend each other's performances. One can be sure, no matter which performance one attends, there will be other singers there.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499722707196/2017-07-10---.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499722707196/2017-07-10---.jpg.jpg)
 <figcaption>Matthew Bernstein with his fellow supernumeraries, backstage for *Madama Butterfly*, Canadian Opera Company.</figcaption>
 </figure>
 
@@ -53,7 +57,9 @@ And they're human: Some bring their families to keep them company, some bring th
 
 **Colucci**: It is such a privilege to super with the COC and I am incredibly fortunate to be able to work with them. A great deal of preparation goes into putting on such large-scale productions well before a super arrives to their first rehearsal. As a super it is important to be dependable and respectful. It is imperative that supers respond to correspondence from our coordinators in a timely fashion, are on time for scheduled fittings, rehearsals and shows, and are flexible during the rehearsal period since schedules can change daily. It is equally important to be respectful of colleagues from every department. Once in costume, you must be extremely careful that you don't damage them! As well, it is not unusual for supers to be called to audition for a part; for example, I had to audition for both *Dialogues des Carmélites* and *Falstaff*. Therefore, being able to take and execute direction, and, should it happen, seamlessly responding to any unplanned situation on stage cannot be underrated.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499282136444/2017-07-05---Colucci---Rigoletto-2011.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499282136444/2017-07-05---Colucci---Rigoletto-2011.jpg.jpg)
 <figcaption>Liz Allemang and Marie Colucci in costume for *Rigoletto*, Canadian Opera Company, 2011.</figcaption>
 </figure>
 

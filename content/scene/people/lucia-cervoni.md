@@ -9,6 +9,7 @@ related_companies = ["scene/companies/soundstreams.md","scene/companies/glimmerg
 slug = "lucia-cervoni"
 title = "Lucia Cervoni"
 website = "http://luciacervoni.com/biography.asp"
+_template = "people_single"
 +++
 
 Canadian, mezzo Soprano Lucia Cervoni has been described by Canada’s leading national paper *The Globe and Mail* as “Tall and statuesque, she has a voice on the darker side, and blessed with this natural color, she has a distinctive sound that should take her far.” 

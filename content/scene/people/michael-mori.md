@@ -11,6 +11,7 @@ title = "Michael Mori"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/michaelhmori"
+_template = "people_single"
 +++
 
 <p>

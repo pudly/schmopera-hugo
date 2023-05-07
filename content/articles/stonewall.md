@@ -21,7 +21,9 @@ youtube_url = ""
 
 This production of _Stonewall_ is part of the ongoing Pride initiative that New York City Opera began a few years ago in which the company produces an LGBTQ+-themed opera during Pride Month every year. The fortunate coincidence is that 2019 marks both the 75th anniversary of New York City Opera and the 50th anniversary of the Stonewall riots, so it was a natural fit to commission a brand new work to celebrate the beginning of the modern LGBT civil rights movement. The performances coincide with Pride here in the city, including WorldPride (the first time in North America!), and I couldn't be more excited to be a part of it. I hope audiences find this opera both uplifting and eerily timely, given the struggles that our community continues to face.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560818081/media/2019/06/StonewallFull.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1560818081/media/2019/06/StonewallFull.jpg)
 
 <figcaption>Liz Bouk, Jordan Weatherston Pitts, and Lisa Chavez in Stonewall, New York City Opera, 2019. Photo: Sarah Shatz.</figcaption>
 

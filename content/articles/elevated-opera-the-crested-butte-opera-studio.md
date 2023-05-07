@@ -17,7 +17,9 @@ title = "Elevated opera: the Crested Butte Opera Studio"
 
 **Dane Suarez, CBOS participant**: The Crested Butte Music Festival was particularly attractive to me because there aren't many paid summer young artist programs where you have the opportunity to sing a leading role.  It's been a dream of mine to sing Rodolfo, and I was so happy to find a company that values the talent of young singers enough to cast them in the roles of the opera and not spend your summer in a chorus.  Because of this, the talent level of my peers is very high and I'm looking forward to my first *Bohème* being an excellent one. This summer, I'm eager to learn the role in a safe environment with amazing music staff and peers.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467946577154/2016-07-07---Dane-Suarez-full.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467946577154/2016-07-07---Dane-Suarez-full.jpg.jpg)
 <figcaption>Tenor Dane Suarez, Crested Butte Opera Studio Artist.</figcaption>
 </figure>
 
@@ -41,7 +43,9 @@ Because we believe strongly in the mind-body connection, in service of general h
 
 The motivation behind the Crested Butte Music Festival's use of the Spiegeltent this season is to provide a gift to its supporting community on the occasion of the 20th anniversary of the festival.  As a novel and exciting venue, it will serve multiple functions--a performing space for classical and popular music performances, as well as a social and dining space before, during and after performances. The origin and design of the Spiegeltent combine European and American experiences. The tent is a uniquely European entity, but gives a nod to American saloons and dance halls of the same era.  The Spiegeltent will serve as a stepping stone to the Biery-Witt Performing Arts Center, which will be built on the same site.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467946465765/2016-07-08---Crested-Butte-Music-Festival-Mirror-Palace-Spiegeltent-Productions.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467946465765/2016-07-08---Crested-Butte-Music-Festival-Mirror-Palace-Spiegeltent-Productions.jpg.jpg)
 <figcaption>The CBMF Mirror Palace Spiegeltent. Photo by Spiegeltent Productions.
 </figcaption></figure>
 
@@ -53,7 +57,9 @@ The motivation behind the Crested Butte Music Festival's use of the Spiegeltent 
 
 **Lynn**: As our mission statement emphasizes, CBOS is offering appropriate mainstage roles to young artists.  This makes the program unique among summer programs. Our boutique size enables us to offer the care and coaching to make these performances possible. This individual attention and top-notch instruction provide a blueprint for future preparation and career management for these young artists, who are making the difficult leap from student to young professional.  Our commitment to them post-CBOS is ongoing, and that continued mentorship has proven to be valuable for the singers as well as for the faculty. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467912562475/2016-07-07---CBOS-Participants.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467912562475/2016-07-07---CBOS-Participants.jpg.jpg)
 <figcaption>The participants of the 2016 CBOS. Photo by Lynn Baker.</figcaption></figure>
 
 ## What do you look forward to in the remaining days of the programme?

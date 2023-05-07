@@ -7,6 +7,7 @@ publishDate = "2017-09-06T21:27:00-04:00"
 slug = "harriet-burns"
 title = "Harriet Burns"
 website = "https://www.harrietburns.com/"
+_template = "people_single"
 +++
 
 Harriet is a scholarship student at the Guildhall School of Music and Drama studying with Professor Susan McCulloch and Eugene Asti on the Artist Masters Course. Harriet studied as a scholarship student at the Royal Academy of Music studying with Jennifer Dakin and Audrey Hyland. Harriet is a 2017/2018 Samling Artist and a 2017/2018 Wigmore Hall Chamber Tots Ensemble Artist.

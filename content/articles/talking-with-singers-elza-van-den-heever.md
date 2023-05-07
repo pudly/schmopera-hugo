@@ -21,7 +21,9 @@ Norma is a woman driven by emotion - deep emotion and feeling.  She is bound by 
 
 I think I share her "crazy" emotional side - I can get quite irrational and over emphatic.  
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953471698/2016-10-31---Elza-Norma-MC-2259.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953471698/2016-10-31---Elza-Norma-MC-2259.jpg.jpg)
 <figcaption>Elza van den Heever as Norma in the Canadian Opera Company production of *Norma*, 2016, photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -35,7 +37,9 @@ Tremendous pressure! Norma is iconic for a reason… the role is super difficult
 
 But it is oh so rewarding! I don't think I have ever had so much fun on stage as I have had singing and playing Norma.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953485792/2016-10-31---Elza_by-Dario-Acosta-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953485792/2016-10-31---Elza_by-Dario-Acosta-1.jpg.jpg)
 <figcaption>Elza van den Heever, soprano. Photo by Dario Acosta.</figcaption>
 </figure>
 

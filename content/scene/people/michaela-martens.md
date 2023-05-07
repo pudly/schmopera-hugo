@@ -8,6 +8,7 @@ publishDate = "2017-10-16T21:49:00-04:00"
 related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/english-national-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/opernhaus-zurich.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "michaela-martens"
 title = "Michaela Martens"
+_template = "people_single"
 +++
 
 The Boston Globe hails Michaela Martens for her "dense, color-saturated voice" and declares: "She is a passionate and sympathetic vocal actress." Ms. Martens is fast becoming known for her portrayals of some of the most difficult dramatic mezzo-soprano roles in the repertoire, beginning with a triumphant last minute debut at the Lyric Opera of Chicago as die Amme in *Die Frau ohne Schatten*, a role she repeated for the Oper Graz in a new production by the critically acclaimed director Marco Marelli.

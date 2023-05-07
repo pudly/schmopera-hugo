@@ -31,7 +31,9 @@ To me, good singing isn't necessarily perfect singing. As an audience member, I'
 
 Personally, I like to think I've achieved good singing when I can get out of my head and just be in the moment. When I can let go and focus on what I'm saying or feeling, rather than the position of my soft palate! When I feel like I'm singing well, it comes with a sense of freedom and confidence knowing that all I need to do is breathe, open my mouth, and my voice will do what I want it to do.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497048153860/2017-06-09---Taverner---Haldane-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497048153860/2017-06-09---Taverner---Haldane-2.jpg.jpg)
 <figcaption>Jennifer Taverner, soprano. Photo by Christina Haldane.</figcaption>
 </figure>
 

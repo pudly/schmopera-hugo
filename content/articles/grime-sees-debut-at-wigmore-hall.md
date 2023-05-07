@@ -20,7 +20,9 @@ I had recently given birth to my son Samuel and came across the poems by chance 
  
 There is so much joy and intensity in these poems, ranging from first hearing the heartbeat on a scan to breastfeeding and those first days of motherhood . The extremes of emotion perfectly express some of the many challenges and shifts of parenthood. The poems also convey how precarious life can be and also loss and miscarriage in an utterly devastating way.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518013398001/Helen-Grime%2C-Ruby-Hughes%2C-Fiona-Benson-Wigmore-Hall.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518013398001/Helen-Grime%2C-Ruby-Hughes%2C-Fiona-Benson-Wigmore-Hall.jpg.jpg)
 <figcaption>(l-r) Helen Grime, composer; Ruby Hughes, soprano; Riona Benson, poet.</figcaption>
 </figure>
 

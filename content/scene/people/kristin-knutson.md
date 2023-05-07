@@ -9,6 +9,7 @@ related_companies = ["scene/companies/haymarket-opera-company.md"]
 slug = "kristin-knutson"
 title = "Kristin Knutson"
 website = "http://www.kristinknutson.com/"
+_template = "people_single"
 +++
 
 Soprano Kristin Knutson will appear as Ariane in *Ariane et Bachus* with Haymarket Opera Company in the fall of 2017. This modern day premiere of Marin Marais' tragédie-lyrique will be performed in the spirit of the Baroque period in Chicago's Athenaeum Theatre.

@@ -18,14 +18,18 @@ My parents grew up in very big Acadian families in New Brunswick. Together they 
 
 These amazing jam sessions left a lasting impression on me as a child. I sing because it's part of who I am. I do it professionally because a good part of the work we do as singers, we do it with others; it is collaboration where everyone has their part to play.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496066789950/2017-05-29---LouisRiel-MC-1078.jpg.jpg)<figcaption>Mazerolle, left (F.X. Lemieux) with Russell Braun, centre, (Louis Riel) in a scene from the Canadian Opera Company's new production of *Louis Riel*, 2017, photo: Michael Cooper.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496066789950/2017-05-29---LouisRiel-MC-1078.jpg.jpg)<figcaption>Mazerolle, left (F.X. Lemieux) with Russell Braun, centre, (Louis Riel) in a scene from the Canadian Opera Company's new production of *Louis Riel*, 2017, photo: Michael Cooper.</figcaption>
 </figure>
 
 ## What does "good singing" mean to you? What does it feel like when you achieve it?
 
 Good singing for me means communicating. In and after school, we learn how to sing, breathe, how to create legato, vocal colour, control of sound, pronunciation but we do all this toward the ultimate goal of communicating something to our audience. Whether it is from opera, recital or oratorio, we are here to tell a story. When you achieve it, you feel like you have a purpose.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496066467070/2017-05-29---Mazerolle---Mandarin.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496066467070/2017-05-29---Mazerolle---Mandarin.jpg.jpg)
 <figcaption>Mazerolle (Mandarin) in *Turandot*, Edmonton Opera, 2016.</figcaption>
 </figure>
 
@@ -41,7 +45,9 @@ Understudying a large role in a major company is very exciting. This is my first
 
 Every artist's level of comfort is different when it comes to our personal method of working out the kinks in a role. I think respect and support is very important when we work together.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496066487039/2017-05-29---Mazerolle---Trials-of-Patricia-Isaza.jpg.jpg)<figcaption>Mazerolle (Ramos) in *The Trials of Patricia Isasa*, Chants Libres, 2016.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496066487039/2017-05-29---Mazerolle---Trials-of-Patricia-Isaza.jpg.jpg)<figcaption>Mazerolle (Ramos) in *The Trials of Patricia Isasa*, Chants Libres, 2016.</figcaption>
 </figure>
 
 ## Do you have any "bucket list" roles you’d like to sing (realistically or otherwise)?

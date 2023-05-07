@@ -17,6 +17,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/fwakewalker"
 
+_template = "people_single"
 +++
 Frederic Wake-Walker is Artistic Director of Mahogany Opera Group, runs Mica Mica project Berlin and works regularly with children’s opera company Jubilee Opera.
 

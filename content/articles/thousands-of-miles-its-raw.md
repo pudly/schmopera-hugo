@@ -22,7 +22,9 @@ With her early background in musical theatre, and her professional experience as
 
 "He would say, 'I think these things fit together nicely,' because as a jazz pianist, he could feel the emergence of jazz in the classical pieces." 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493751533039/2017-05-02---Kate2016a--c-Richard-Dumas_Alpha-Classics.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493751533039/2017-05-02---Kate2016a--c-Richard-Dumas_Alpha-Classics.jpg.jpg)
 <figcaption>Kate Lindsey. Photo by Richard Dumas/Alpha Classics.</figcaption>
 </figure>
 

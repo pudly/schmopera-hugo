@@ -12,6 +12,7 @@ website = "http://www.tylerduncan.ca/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/tyduncan"
+_template = "people_single"
 +++
 
 Canadian baritone Tyler Duncan recently performed at the Metropolitan Opera as Prince Yamadori in Puccini’s *Madam Butterfly*. At the Spoleto Festival he debuted as Mr. Friendly in the 18th-century ballad opera *Flora*, returning the next season as the Speaker in Mozart’s *The Magic Flute*. Other appearances have included the role of the Journalist in Berg's *Lulu* and Fiorello in Rossini's *Barber of Seville*, both at the Metropolitan Opera, Raymondo in Handel’s *Almira* with the Boston Early Music Festival, Dandini in Rossini’s *La cenerentola* with Pacific Opera Victoria; and Demetrius in Britten’s *A Midsummer Night’s Dream* at the Princeton Festival. Issued on the CPO label is his Boston Early Music Festival recording of the title role in John Blow’s *Venus and Adonis*.

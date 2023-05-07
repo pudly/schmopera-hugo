@@ -11,6 +11,7 @@ title = "Ekaterina Gubanova"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/GubanovaMezzo"
+_template = "people_single"
 +++
 
 Ekaterina Gubanova is one of the finest mezzo-sopranos to appear in recent generations. Past and future appearances include engagements at such opera houses as the Metropolitan Opera, the Teatro alla Scala, the Royal Opera House in Covent Garden, the Bayerische Staatsoper, the Wiener Staatsoper, the Berliner Staatsoper, the Deutsche Oper Berlin, the Lyric Opera of Chicago, the Teatro Real in Madrid and the Gran Teatre del Liceu in Barcelona. Gubanova was born in Moscow and began her musical studies as a pianist. An honorary graduate in choral conducting, Ekaterina studied opera singing at the Moscow Tchaikovsky Conservatoire and the Sibelius Academy  (Helsinki) before becoming a member of the Young Artists programme at the Royal Opera House in London.

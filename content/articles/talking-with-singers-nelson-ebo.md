@@ -20,7 +20,9 @@ As with any role that I sing, I think the first important step is to look for wa
 
 Growing up in Angola during the civil war was a difficult reality. I have vivid memories of needing to run away when the military came so that I wasn't taken as a child soldier. War was a part of my everyday life. My parents were a part of the war efforts, many of my siblings fought and died during the war. The atmosphere was one of oppression and fear, where you were not able to move freely, speak out, or act out. Within the war, our nation was divided. As with many nations that have experienced civil war or internal uprising, you ended up being forced to confront your brothers and sisters just as Stan confronts Rocco, his "brother". I relate to the experience Stan has in seeking truth yet being oppressed because of it, being face to face with those who oppose you, and desiring the closeness and love of your family. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523838277644/KellyGriffinNelsonEbo.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523838277644/KellyGriffinNelsonEbo.jpg.jpg)
 <figcaption>Nelson Ebo with soprano Kelly Griffin, who sings Leah/Leo in Heartbeat Opera's upcoming production of *Fidelio*.</figcaption>
 </figure>
 

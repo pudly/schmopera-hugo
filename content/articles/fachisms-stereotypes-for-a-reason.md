@@ -15,7 +15,9 @@ title = "Fach-isms &amp; stereotypes for a reason"
 +++
 I saw this oldie-but-goodie making the rounds on Facebook today:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431626119851/classicoperacartoon.jpg%3Fw%3D640)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431626119851/classicoperacartoon.jpg%3Fw%3D640)
 </figure>
 
 This comic says (implies, I suppose) a few things.

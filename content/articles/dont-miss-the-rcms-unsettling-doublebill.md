@@ -18,7 +18,9 @@ On the whole, opera is based on literature of some sort, be it a play or novel. 
 
 The two main challenges we faced when staging *In the Locked Room* were creating a clear timeline over which the action takes place, and trying to find ways of differentiating when the poet, Ben Pascoe is real and when he is a figment of Ella's imagination. I think we have been successful in overcoming both of these challenges and the lighting has played a big part in that.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529630116027/HEADSHOT.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529630116027/HEADSHOT.jpg.jpg)
 <figcaption>Lauren Morris, mezzo-soprano, singing the role of Susan in *In the Locked Room* at the Royal College of Music.</figcaption>
 </figure>
 

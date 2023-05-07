@@ -25,7 +25,9 @@ WHY singing is my professions is because I can't picture myself doing anything e
 
 Oh, and I love the dresses and costumes of course! The frocks are of the outmost importance, the best to date being an 8 meter long dress I wore while suspended from the ceiling to sing "v'adoro pupille"... I wish I could have kept it, as it would be fun love to wear it out for my weekly grocery run in Roncy.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496064839440/2017-05-29---Cleopatra-11.jpg.jpg)<figcaption>Christina Haldane (left) as Cleopatra in *Giulio Cesare in Egitto*, Finnish National Opera, 2012.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496064839440/2017-05-29---Cleopatra-11.jpg.jpg)<figcaption>Christina Haldane (left) as Cleopatra in *Giulio Cesare in Egitto*, Finnish National Opera, 2012.</figcaption>
 </figure>
 
 ## What does "good singing" mean to you? What does it feel like when you achieve it?
@@ -40,7 +42,9 @@ It's a challenging work environment at the moment, and I speak with many singers
 
 In terms of advice, I'd say to focus on the joy and curiosity that the singing world provides: explore your repertoire, work hard, get immersed in your local music scene, enjoy the process of your own artistic development and delve into collaborating with your colleagues. Find your niche, what is it that you have to say as an artist? We are learning throughout our whole careers, so don't get overwhelmed with your technical goals, which are a long term process. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496064789940/2017-05-29---Hadane---Marie---regiment-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496064789940/2017-05-29---Hadane---Marie---regiment-1.jpg.jpg)
 <figcaption>Christina Haldane as Marie in *La fille du régiment*, 2010.</figcaption>
 </figure>
 
@@ -58,7 +62,9 @@ One thing I have noticed, is that in the UK there are more opportunities for sin
 
 In Toronto I see a lot of artists turning to self production which contributes vibrantly to the arts scene. However, it would be great to see more options open to singers starting out, in order to bridge that gap between training and singing at the level that's right for national level Canadian companies.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496064803111/2017-05-29---Haldane---Cleopatra-19.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496064803111/2017-05-29---Haldane---Cleopatra-19.jpg.jpg)
 <figcaption>Christina Haldane (left) as Cleopatra in *Giulio Cesare in Egitto*, Finnish National Opera, 2012.</figcaption>
 </figure>
 

@@ -12,6 +12,7 @@ website = "https://www.jennycarlstedt.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JennyCarlstedt"
+_template = "people_single"
 +++
 
 The Finnish-Swedish mezzo soprano Jenny Carlstedt was born in the Åland Islands and studied at the Guildhall School of Music and Drama in London. She made her highly acclaimed U.S debut in 2015 as Mélisande in Debussy’s *Pelléas et Mélisande* with Chicago Symphony Orchestra under Esa-Pekka Salonen. Furthermore she sang Idamante at the opening concert of Stuttgart International Festival with Bach-Collegium Stuttgart in autumn 2015. Her most recent CD release with Zemlinsky songs (Ondine 2016) with Lapin Chamber Orchestra under John Storgårds has been very well received by the international critics. 

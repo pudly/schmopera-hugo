@@ -23,7 +23,9 @@ Baritenor is not simply a clever name for _BariTenor_, the terrific new recordin
 
 The recording, a luxurious and record-setting 85 minutes of burnished virtuosity, is spread over 18 arias spanning three centuries and 15 composers. Spyres straddles the tenor and baritone repertoires so stylishly as to approach a state of operatic titillation, if there was was such a thing. This baritenor is by turns, dramatic, delightful and daring, though never self-consciously so. The voice may be rare, but he's a natural.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1661971959/media/2022/08/MS_in_studio_vnzgau.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1661971959/media/2022/08/MS_in_studio_vnzgau.jpg)
 
 <figcaption>Baritenor, Michael Spyres in the studio. Photo: Warner/Erato.</figcaption>
 
@@ -37,7 +39,9 @@ The sour intent behind the sweetly sung "Deh, vieni alla finestra" from _Don Gio
 
 No less can be said about the tenor arias. The opening "Fuor del mar" from _Idomeneo_ is performed with gravitas and tortured uncertainty. That high-flying "Ah! mes amis, quel jour de fête!" from _La fille du régiment_ floats as much coloratura delight as the fluidly sung "Aux bords lointains" (_In fernem Land_) from _Lohengrin_ does its solemn revelation.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1661971989/media/2022/08/marko-letonja-est-de-retour-a-strasbourg-dr-photo-charlotte-aleman-1646753092_w5wqgx.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1661971989/media/2022/08/marko-letonja-est-de-retour-a-strasbourg-dr-photo-charlotte-aleman-1646753092_w5wqgx.jpg)
 
 <figcaption>The Orchestra Philharmonique de Strasbourg lead by Marko Letonja accompanies Michael Spyres on BariTenor along with Choeur de l'Opéra national du Rhin. Photo: Charlotte Aleman.</figcaption>
 
@@ -49,7 +53,9 @@ Then there's Spyres touched by Shakespeare. First there is Rossini’s rousing a
 
 Hailing from the Ozarks, [Spyres presented a recital](https://www.youtube.com/embed/QjdaUNF0ihY) of four selections from _BariTenor_ at the Ozark Lyric Opera in Springfield, Missouri, of which he is artistic director. Teaming with Warner/Erato, the performance was [captured on video](https://www.youtube.com/embed/QjdaUNF0ihY) to celebrate its launch. Available on YouTube, it's worth viewing to experience Spyres' vocal versatility and stage presence with only piano accompaniment.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1661972061/media/2022/08/PAA_Board_Of_Officers_Room_James_Ewing_05_amvya0.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1661972061/media/2022/08/PAA_Board_Of_Officers_Room_James_Ewing_05_amvya0.jpg)
 
 <figcaption>Michael Spyres will present a recital in the intimate and elegant Board of Officers Room at the Park Avenue Armory in New York on September 7th and 9th featuring works by Berlioz, Beethoven and Liszt. Photo: Park Avenue Armory.</figcaption>
 

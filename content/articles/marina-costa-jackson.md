@@ -25,7 +25,9 @@ youtube_url = ""
 
 "What helped me get over stage fright is consistent exposure to performing with nerves. Your body chemistry is completely different when you're nervous, with that adrenaline pumping and the cortisol levels.  The Academy of Vocal Arts gave me so many opportunities to sing - patron events, weekend concerts, school performances and operas. I was put through the ringer, constantly stressed out about having to sing but that's really the only way. You have to just do it, a lot.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675131983/media/2023/01/MarinaCosta-Jackson_DarioAcosta_ba86lj.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1675131983/media/2023/01/MarinaCosta-Jackson_DarioAcosta_ba86lj.jpg)
 
 <figcaption>Marina Costa-Jackson, soprano. Photo: Dario Acosta./figcaption>  
 </figure>
@@ -38,7 +40,9 @@ youtube_url = ""
 
 "During the pandemic, a lot of artists out there went without work for a long time. There were lots of things cancelled or rescheduled. This _Suor Angelica_ and _Schicchi_ were rescheduled. COVID made the momentum drop. I was to make my Royal Opera debut, which is now coming in 2024. And also my Paris debut as Mimì. The pandemic stopped the ball rolling for everybody. It was a moment for all artists to rebuild. Sadly, for the ones that felt like it wasn't financially stable enough, they've chosen a different path. I had a baby during that time so I was able as well to enjoy becoming a new mother. The pandemic made us all have to go back a few years and redo auditions and ask ourselves if this is something that we can plausibly continue to do. Thankfully I have been able to and I'm grateful for that, because without music, I think life is just not as good."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675132106/media/2023/01/MarinaCosta-Jackson_SuzanneVinnik_xfpv1w.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1675132106/media/2023/01/MarinaCosta-Jackson_SuzanneVinnik_xfpv1w.jpg)
 
 <figcaption>Marina Costa-Jackson, soprano. Photo: Suzanne Vinnik.</figcaption>  
 </figure>
@@ -53,7 +57,9 @@ youtube_url = ""
 
 I listen to Renata Scotto singing _Suor Angelica_ as an inspiration and a challenge. She colors it so well, and she's Italian and also so wonderful at her art. My agent is Filippo Anselmi and his mother is Renata Scotto. Every phrase Renata Scotto sings has so much intention. As an Italian speaker myself, I listen to her and I'm inspired to be able to really give every word the value that Puccini and the librettist were trying for with each phrase. I also love the beauty of Renata Tebaldi's tone in this role. She had such an angelic voice. Renata Tebaldi is always a go to for me as well.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1675132168/media/2023/01/MarinaCosta-Jackson_w6f9zm.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1675132168/media/2023/01/MarinaCosta-Jackson_w6f9zm.jpg)
 
 <figcaption>Marina Costa-Jackson, soprano.</figcaption>  
 </figure>

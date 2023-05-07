@@ -12,6 +12,7 @@ website = "http://emmacharmezzo.weebly.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/emmacharmezzo"
+_template = "people_single"
 +++
 
 Born in Kitchener - Waterloo, Ontario and raised in the Philadelphia area, Emma Char has recently crossed the border back to Canada to make debuts with Opéra de Montréal, I Musici de Montréal, Les Violons du Roy and Ensemble Caprice. 

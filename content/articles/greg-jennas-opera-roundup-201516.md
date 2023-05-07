@@ -27,7 +27,9 @@ This [collection of true stories](/in-review-sex-workers-opera/), contributed by
 
 Who says recitals can't be fun? [Javier Camarena](/in-review-javier-camarena-at-wigmore-hall/) performed an awesome night of fab music with pianist Ángel Rodríguez, as part of the Rosenblatt Recitals series at Wigmore Hall. He started and ended on literal high notes, and wowed me with his unstoppable technique and shameless amount of fun onstage. High C's, two encores, and a backstage photo op after the show? Perfection.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464431931414/2016-04-15---JennaJavier.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464431931414/2016-04-15---JennaJavier.jpg.jpg)
 </figure>
 
 ## Jenna loved: *Sketches of Miles*

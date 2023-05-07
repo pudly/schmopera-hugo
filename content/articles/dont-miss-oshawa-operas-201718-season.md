@@ -20,5 +20,7 @@ Both performances happen at Kingsview United Church, 505 Adelaide Ave. E, Oshawa
 
 Tickets can be bought [online via Oshawa Opera's website](https://www.theoshawaopera.com/) or at the door; it's just $25 for adults, and admission is free for people under 18! Stay in the loop with Oshawa Opera and their season - which continues with some rarely-done Massenet in May - by following them on [Facebook](https://www.facebook.com/Oshawao/) and [Twitter](https://twitter.com/oshawaopera). 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507751114791/2017-10-11---OO-Cav-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507751114791/2017-10-11---OO-Cav-2.jpg.jpg)
 </figure>

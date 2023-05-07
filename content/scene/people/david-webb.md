@@ -20,6 +20,7 @@ url = "https://twitter.com/@DavidPWebb"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/davidpwebb/"
+_template = "people_single"
 +++
 
 ritish tenor David Webb is a graduate of the Royal College of Music International Opera School and a Harewood Artist at the English National Opera. 

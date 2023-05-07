@@ -13,6 +13,7 @@ website = "https://michaeladickey.wordpress.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://twitter.com/MichaelaDickey"
+_template = "people_single"
 +++
 
 Mezzo-soprano Michaela Dickey, from 100 Mile House BC, holds both a Masters of Music and Artist Diploma in Voice and Opera Performance at McGill University, a Bachelor of Music in Opera Performance at the University of British Columbia and Diplomas in Voice Performance and Teaching from the Victoria Conservatory of Music. Over the years, Michaela has had the unique opportunity to work with incredible Canadian and American artists and grow and develop her art at some of the most esteemed institutions and summer programs in Canada.

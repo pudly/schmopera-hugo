@@ -10,6 +10,7 @@ title = "Wayne Gooding"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/OperaCanada"
+_template = "people_single"
 +++
 
 <p>

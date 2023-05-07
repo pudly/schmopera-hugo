@@ -21,6 +21,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/DesMoinesMetroOpera"
 
+_template = "company_single"
 +++
 Des Moines Metro Opera is a major American Summer Opera Festival and is the state’s largest performing arts organization, annually producing over 100 performances in the metro area and around the region. The Company’s Summer Festival Season runs from May through July of each year during which three operas are performed in repertory for 15 mainstage performances. The Summer Festival Season takes place at the 467-seat Pote Theater at the Blank Center for the Performing Arts in Indianola, Iowa. In 2014, the Company began its Second Stages Series, which set out to create collaborative performances designed to engage new audiences in unique spaces throughout the city. Since its founding in 1973, Des Moines Metro Opera has presented 145 productions of 80 different operas. 
 

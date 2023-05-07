@@ -27,7 +27,9 @@ At the peak of the recent Polar vortex, I had the opportunity to catch up with M
 
 Christie works with some of today's most celebrated living composers. The names of Mason Bates, Mark Adamo, Osvaldo Golijov, Paul Moravec, Ricky Ian Gordon, and Kevin Puts (whose Pulitzer-Prize-winning opera _Silent Night_ was commissioned and premiered by Christie and Minnesota Opera) figure prominently and regularly on Christie's programming.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550191305/media/2019/02/LYR190213_196.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550191305/media/2019/02/LYR190213_196.jpg)
 
 <figcaption>Michael Christie in rehearsal for La traviata at Lyric Opera of Chicago. Photo: Todd Rosenberg.</figcaption>
 
@@ -45,7 +47,9 @@ Christie works with some of today's most celebrated living composers. The names 
 
 **MP**: Many of those ancient recordings are really incredible, especially by the likes of, say, Adelina Patti (1843-1919) singing bel canto. Verdi himself was a great admirer of hers! In this recording of, for example, "Ah, non credea mirarti" one is instantly swept away by her expression (even if the voice itself perhaps shows some of its age; it was recorded already toward the end of her life.)
 
-<figure data-type="video">{{% md %}}<iframe width="806" height="453" src="https://www.youtube.com/embed/w2LY6YLHn7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="806" height="453" src="https://www.youtube.com/embed/w2LY6YLHn7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -59,7 +63,9 @@ As for general, but foundational, advice for young singers and conductors, Chris
 
 **MC**: I would say it's not dissimilar, actually. Of course there are different considerations, but that's typical of any score. But with a new work, something that I'm increasingly more aware of, is that in the earliest performances, we are laying a path toward a tradition in a certain sense. Consequently, I try to be a little bit careful with certain choices. I always like to call up the composer with questions, like "what exactly is the relationship between the stage and pit at this moment?" "Is it more atmospheric? More internal character? Emotionally driven?" Also, every time I open a new score, I say to it: "tell me about your language. How do you use the language?" When the use of the language or the expressivity of the language isn't obvious, that's when I start thinking "Hm, how are we going to make this work?"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550191443/media/2019/02/LYR190213_021.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550191443/media/2019/02/LYR190213_021.jpg)
 
 <figcaption>Michael Christie in rehearsal for La traviata at Lyric Opera of Chicago. Photo: Todd Rosenberg.</figcaption>
 

@@ -11,6 +11,7 @@ title = "Matthew Rose"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/roseandfriends"
+_template = "people_single"
 +++
 
 In the 2015/2016 season Matthew Rose makes his debut at the Lyric Opera of Chicago as Baron Ochs *Der Rosenkavalier*, and sings Raimondo *Lucia di Lammermoor* for the Royal Opera House, King Marke *Tristan and Isolde* for English National Opera, and Bottom *A Midsummer Night's Dream* for the Glyndebourne Festival.

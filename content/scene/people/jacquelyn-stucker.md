@@ -17,6 +17,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/gonzosoprano/"
 
+_template = "people_single"
 +++
 Hailed by The Boston Globe as “glowing,” “incandescent,” and “a singing actress to be reckoned with,” American soprano Jacquelyn Stucker is being recognized internationally as a versatile singer of new and interesting repertoire ranging from concert works to opera to contemporary music. Praised for her “dark-tinged soprano with a dusky lower register,” Jacquelyn will begin her second year as a Jette Parker Young Artist at The Royal Opera House at Covent Garden. This season at Covent Garden, Jacquelyn will perform Prilepa in _The Queen of Spades_ with Antonio Pappano conducting, Aphrodite in Henze’s _Phaedra_, and Alessandro in Handel’s _Berenice_. She will also cover Susanna in _Le Nozze di Figaro_ with John Eliot Gardiner conducting, and will reprise Frasquita in Barrie Kosky’s _Carmen_.
 

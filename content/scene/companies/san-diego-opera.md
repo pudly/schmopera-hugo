@@ -17,5 +17,6 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SDOpera"
 
+_template = "company_single"
 +++
 The mission of San Diego Opera is to deliver exceptional vocal performances and exciting, accessible programs to diverse audiences, focusing on community engagement and the transformative power of live performance. 

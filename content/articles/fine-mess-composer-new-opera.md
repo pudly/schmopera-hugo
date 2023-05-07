@@ -23,7 +23,9 @@ About six years into this project came an opportunity. Axe 2 Ice Productions was
 
 Time being very short, I surgically cut away at Poe's original text, coalescing the action into a single scene with a brief introduction and afterword.  The original version came to 15 minutes with piano accompaniment.  I trimmed it down to around 8 minutes for Bent Wit and scored it for their house band.  A year later, Boston Opera Collaborative presented the original 15-minute version on a program that was aptly titled "Opera Goes to Hell." Three years later, I expanded the work in order to realize a more complete adaptation of Poe's story, resulting in a three-act, 90-minute piano/vocal score.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494449557906/OperKoelnNeuenStaatenhaus.jpg.jpg)<figcaption>the Opera Köln Neuen Staatenhaus. Photo: Frank Pesci.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494449557906/OperKoelnNeuenStaatenhaus.jpg.jpg)<figcaption>the Opera Köln Neuen Staatenhaus. Photo: Frank Pesci.</figcaption>
 </figure>
 
 ## Good for me…now what?

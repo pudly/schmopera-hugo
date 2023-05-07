@@ -17,13 +17,17 @@ Before a packed crowd in the Cockpit Theatre, The Hermes Experiment presented *T
 
 [The Hermes Experiment](http://www.thehermesexperiment.com/) is a quartet made of up Anne Denholm (harp), Marianne Schofield (double bass), [Héloïse Werner](/talking-with-singers-heloise-werner/) (soprano) and Oliver Pashley (clarinet); for this performance, clarinetist Stephen Williams stepped in for Pashley. The group of chamber improvisers champions new music and new ways to experience it, and for this adaptation of *The Winter's Tale*, they were joined by actors [William McGeough](https://twitter.com/woomcgoo) (Leontes), [Sadie Parsons](https://twitter.com/sadieparso_ns) (Hermione), [Robert Willoughby](https://twitter.com/_mr_willoughby) (Polixenes/Gentleman), [Louisa Hollway](http://www.louisahollway.com/) (Paulina), and [Christopher Adams](https://twitter.com/chrisedadams) (Mamillius/Camillo/Gentleman). 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481713226995/2016-12-14---the-winters-tale-3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481713226995/2016-12-14---the-winters-tale-3.jpg.jpg)
 <figcaption>Sadie Parsons as Hermione in *The Winter's Tale*, presented by The Hermes Experiment, 2016. Photo by Cathy Pyle.</figcaption>
 </figure>
 
 The simple thrust stage was sparsely decorated with party-like streamers from the ceiling, and flowers strewn upon the floor. In neutral black, the actors and instrumentalists occupied the same space; while she wasn't singing, Héloïse Werner took on the role of Perdita, and other members of The Hermes Experiment had brief interactions - lines, even - with the actors of the play. Collectively, the performers seemed to drift between playing a singular character, and being a part of a Greek chorus-type ensemble.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481712603452/2016-12-14---the-winters-tale-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481712603452/2016-12-14---the-winters-tale-2.jpg.jpg)
 <figcaption>*The Winter's Tale*, presented by The Hermes Experiment, 2016. Photo by Cathy Pyle.</figcaption>
 </figure>
 
@@ -31,7 +35,9 @@ Hovering somewhere between medieval inspiration and abstract improvisation, Kim 
 
 It took our ears a while to adjust to the mixing of music and dialogue, and a few spoken lines were obscured by the music. Yet we were soon drawn in by the fine performances by the actors, and succumbed to the humour of the "gentlemen's scene", hilariously done by Robert Willoughby and Christopher Adams. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481713186103/2016-12-14---the-winters-tale-9.jpg.jpg)<figcaption>Robert Willoughby and Christopher Adams in *The Winter's Tale*, presented by The Hermes Experiment, 2016. Photo by Cathy Pyle.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481713186103/2016-12-14---the-winters-tale-9.jpg.jpg)<figcaption>Robert Willoughby and Christopher Adams in *The Winter's Tale*, presented by The Hermes Experiment, 2016. Photo by Cathy Pyle.</figcaption>
 </figure>
 
 

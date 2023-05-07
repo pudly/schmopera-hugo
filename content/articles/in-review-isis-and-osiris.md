@@ -20,7 +20,9 @@ A black, empty stage with minimal decor featuring a gold sarcophagus, and statue
 
 The title roles were ably sung by tenor [Michael Barrett](/scene/people/michael-barrett/) - who bravely stepped in to the role with only three weeks notice - and soprano [Lucia Cesaroni](/scene/people/lucia-cesaroni/), who we featured in a [recent Q&A](/cesaroni-isis-osiris-new-opera/) on this particular show. Barrett's manly, muscular tenor commanded the stage and the house. He ably sang his way through a difficult score that bordered on Heldenland. His characterization of the Pharaoh-god was simultaneously comforting and threatening, a magical combination of human qualities that are possessed by a true ruler of a civilized nation.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459788703989/2016-04-04---Michael-Nyby-as-SETH-Michael-Barrett-as-OSIRIS-photo-by-Gary-Beechey.jpg.jpg)<figcaption>Michael Nyby as Seth, Michael Barrett as Osiris. Photo by Gary Beechey.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459788703989/2016-04-04---Michael-Nyby-as-SETH-Michael-Barrett-as-OSIRIS-photo-by-Gary-Beechey.jpg.jpg)<figcaption>Michael Nyby as Seth, Michael Barrett as Osiris. Photo by Gary Beechey.</figcaption>
 </figure>
 
 As Isis, Cesaroni was a revelation. Her incomparable voice flew throughout the Jane Mallett with ease and aplomb, and I've said this before, she just gets better every time I hear her. Her darker colour belies the height and beauty she can achieve at the top of her register and every note is properly placed and spins and sparkles. Her characterization of (as she puts it) "the bad b\*tch in charge" was a genuine treat. She brought strength and vulnerability, showing the duality of the divine and human that is unique amongst the Egyptian deities. They are actually embodied in a human form and come with human weaknesses. It was a beautiful performance, bravissima. 
@@ -29,7 +31,9 @@ As their sister-god, Nepthys, [Julie Nesrallah](/scene/people/julie-nesrallah/) 
 
 As Seth, the bringer of evil, I have one thing to say to baritone Michael Nyby - #TripleSwoonTimesInfinity. That's right, you heard it here first. If you weren't convinced of Nyby's incredible talent and skill already, his performance in this piece will convince you. The standout performance for me in this production, Nyby sang Seth's incredibly difficult and rangy music as though he had been singing this role his whole life. There were moments of Germont and Escamillo all rolled into this sinewy, snakelike characterization that had me entranced the moment he stepped on the stage. Bravo, signor! Bravo! 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459788737411/2016-04-04---Lucia-Cesaroni-as-ISIS-Michael-Nyby-as-SETH-Photo-by-Gary-Beechey.jpg.jpg)<figcaption>Lucia Cesaroni as Isis, Michael Nyby as Seth. Photo by Gary Beechey.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459788737411/2016-04-04---Lucia-Cesaroni-as-ISIS-Michael-Nyby-as-SETH-Photo-by-Gary-Beechey.jpg.jpg)<figcaption>Lucia Cesaroni as Isis, Michael Nyby as Seth. Photo by Gary Beechey.</figcaption>
 </figure>
 
 Supporting the cast were the lovely coloratura [Leigh-Ann Allen](/scene/people/leigh-ann-allen/), who sang some pretty unforgiving passages effortlessly as the priestess Sennefer, and tenor Christopher Wattam as Imhotep, who sang with a clear, lighter tenor that was a nice change of pace from Barrett's heroic singing. As Grand Vizier Khamet, baritone Stuart Graham displayed some surprising acting chops during a scene where he's tortured by the sister gods and the high priest Imhotep. 

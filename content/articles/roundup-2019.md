@@ -27,7 +27,9 @@ This has been a cool twist for Schmopera in 2019; admittedly, I'm proud of its n
 
 I guess I'm feeling extra reflective right now, because I'm sat in a chalet near the ski village of Mont-Tremblant, QC, where the amazing Andrej and I started Schmopera six years ago. That ski trip has been a near-annual tradition for us, and this year is the first with our son; Schmopera has a bit of a personal side for me, too, since it's been an ongoing, engrossing project that Andrej and I work on together.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1577395815/media/2019/12/Alex_ltn7oc.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1577395815/media/2019/12/Alex_ltn7oc.jpg)
 
 <figcaption>Alex, Mont-Tremblant, QC, 2019.</figcaption>
 
@@ -53,7 +55,9 @@ I guess that's it. Be it the new decade, a seven-year-itch of sorts for Schmoper
 
 [Tamara Wilson ](https://www.instagram.com/p/B0TiF2Wh7fKHk-HmP_jwo8YO8sgwOOytHBv_980/)balked at blackface, [Kathryn Lewek ](https://twitter.com/KathrynLewek/status/1165963897641324545)got real about body-shaming, and [Zachary James ](/thestories-part-i/)spoke out about his assault and the bloated power dynamics in the opera world. It's not necessarily great that all of this happens, and will likely continue to happen for a little longer; but it is great that these artists were among those who used their platforms to tell the industry how it can be much, much better.
 
-<figure data-type="image">{{% md %}}![](https://pbs.twimg.com/media/EC5V-1FWwAEmwet.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://pbs.twimg.com/media/EC5V-1FWwAEmwet.jpg)
 
 <figcaption>Photo via Kathryn Lewek on Twitter (@KathrynLewek).</figcaption>
 
@@ -69,7 +73,9 @@ Bam, Irish Art Song Project. Problem you didn’t know existed, solved.
 
 That's the name of the one-person show by Toronto-based soprano [Teiya Kasahara](https://www.theglobeandmail.com/arts/music/article-the-queen-in-me-is-a-damning-inside-scoop-on-canadian-operas/), workshopped this fall at the Ernest Balmer Studio in the Distillery District. [_The Queen in Me_](https://www.teiyakasahara.com/the-queen-in-me) is a fusion of opera, satire, and almost vaudeville elements; its story is about "fallen women", people who are misunderstood and dismissed by the opera industry. It's gorgeously written, and Kasahara does some serious singing of everything from Manon to Lady Macbeth to the Queen of the Night. Crazy impressive. I can't wait for its official premiere in 2020 - details are still TBA, but I'd follow [Teiya](https://www.teiyakasahara.com/the-queen-in-me) and stay in the loop.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1577396075/media/2019/12/TheQueeninMe-19Oct11-Amplify_dz6idx.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1577396075/media/2019/12/TheQueeninMe-19Oct11-Amplify_dz6idx.jpg)
 
 <figcaption>Teiya Kasahara in The Queen in Me, October 2019. Photo by Tanja-Tiziana.</figcaption>
 
@@ -79,7 +85,9 @@ That's the name of the one-person show by Toronto-based soprano [Teiya Kasahara]
 
 This bit of historically-inspired vaudeville by playwright Natalie Frijia, premiered at Alumnae Theatre's FireWorks Festival this year, [_Belle Darling Klondike Queen_](/a-fab-kick-off-to-the-fireworks-festival-belle-darling-klondike-queen/) is essentially another one-person show that, out of the blue, really stuck with me. I wouldn't really deem it opera, but it had the stuff of a great operatic experience; set in the Klondike Gold Rush of the late 19th century, soprano, actress, and cabaret-pro Lindsay Sutherland Boal stars as the real-life vaudeville star Kate Rockwell, aka "Klondike Kate".
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573411741/media/2019/11/LSB_D859221_dj75ux.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573411741/media/2019/11/LSB_D859221_dj75ux.jpg)
 
 <figcaption>Lindsay Sutherland Boal, star of Belle Darling Klondike Queen.</figcaption>
 

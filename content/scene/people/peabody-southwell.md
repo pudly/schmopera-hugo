@@ -8,6 +8,7 @@ related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/des
 slug = "peabody-southwell"
 title = "Peabody Southwell"
 website = "http://www.peabodysouthwell.com/index.php/about/"
+_template = "people_single"
 +++
 
 American artist Peabody Southwell has been recognized for her “stylistic mastery and ripe, sensual sound” (Opera Magazine UK) in an unconventionally versatile range of mediums and styles, she has worked in the past three years as an acclaimed actor, singer as well as visual and costume designer, curator, and writer. Current season engagements as a performer include her return to LA Opera as La Ciesca in Woody Allen’s production of Puccini’s *Gianni Schicchi*, and a reprisal of her role as the Third Lady within Barrie Kosky’s production of *The Magic Flute*. She sings the principal role in the world premiere of David Lang’s *Anatomy Theater* at LA Opera with Beth Morrison Projects, makes a return to the dual roles of Juno and Ino in *Semele* with Opera Omaha and will perform with John Adams conducting BMP’s Liederabend 21c with the Los Angeles Philharmonic. As a designer, she costume designs the US staged premiere of Jonathan Dove’s *L’Altra Euridice* for the Bay Chamber Festival in Maine and designs costumes for *WIFE* in the first iteration of the three year Pelleas project with Cincinnati Symphony Orchestra.

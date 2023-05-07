@@ -16,6 +16,7 @@ url = "https://twitter.com/lyndsaypromane"
 platform = "Instagram"
 template = "social-media"
 url = "https://instagram.com/lyndsaypromane/"
+_template = "people_single"
 +++
 
 Praised for "a genuine and deeply satisfying sound" (*The WholeNote*), Canadian mezzo-soprano Lyndsay Promane was awarded second place in the 2016 Toronto Mozart Vocal Competition and was selected as a finalist in the Atelier Lyrique de l'Opéra de Montréal National Auditions. She is also the 2015/2016 recipient of the University of Toronto Faculty of Music Opera Division Scholarship. 

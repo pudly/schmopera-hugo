@@ -31,7 +31,9 @@ The conductor's job is to ensure that no one in the audience notices when a dela
 
 *Pia* went through many iterations in its development, often with the composer making changes for practical or censorship rather than artistic reasons (there is even a version with a happy ending!).  The existence of so many different versions makes it challenging to ensure that we choose the correct performance options, that the orchestra has the materials they need, etc.  However, this is easier to do for a well-known composer, as those of us performing the work are already very familiar with the composer's style; I have the context of knowing Donizetti's many other operas, and this is especially helped by the fact that Donizetti recycled a lot of his material from work to work.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525817856852/PiadeTolomeiproductionphoto1creditImaginariumCreativeStudioPisa.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525817856852/PiadeTolomeiproductionphoto1creditImaginariumCreativeStudioPisa.jpg.jpg)
 <figcaption>A scene from *Pia de' Tolomei*. Photo: Imaginarium Creative Studio Pisa.</figcaption>
 </figure>
 

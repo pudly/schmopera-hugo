@@ -23,7 +23,9 @@ If you've ever had the chance to go to the Barnes or look at pictures, you will 
 
 In a curious kind of way, I felt that Crowley's work in the seemingly distant worlds of magic (or Magick, as he spelled it) and mysticism - correlating and amalgamating mystical symbols from across time, across different mythic and religions traditions, creating lexicons where colors, numbers, fragrances, and astrological associations dissolve into otherwise indescribable but incredibly precise feelings - seemed like such a clear literary parallel to what Barnes was doing with his Cézannes and pietàs. In dreaming up *The Wake World*, I wanted to create a musical and dramatic journey that would explode this shared quality, and hopefully, illuminate and transform the experience of the collection and the space.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502241382793/2017-08-09---Hertzberg-Schlather.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502241382793/2017-08-09---Hertzberg-Schlather.jpg.jpg)
 <figcaption>Composer David Hertzberg (left) and director R.B. Schlather. Photo: Dominic M. Mercier.</figcaption>
 </figure>
 
@@ -48,7 +50,9 @@ While there certainly are challenges in creating a site-specific piece (many of 
 
 A question I often asked myself while trying to dream this thing into existence was, "How can I make this feel like an organic activation of the space/collection?" and my intuition is that this is something we will be continuing to ask ourselves as this wacky febrile dream comes to life in production.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502241283939/2017-08-09---ensemble-view-room-1-north-wall-philadelphia-2012-photo-2017-the-barnes-foundation.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502241283939/2017-08-09---ensemble-view-room-1-north-wall-philadelphia-2012-photo-2017-the-barnes-foundation.jpg.jpg)
 <figcaption>Ensemble view, Room 1, north wall. Photo: © 2017 The Barnes Foundation.</figcaption>
 </figure>
 

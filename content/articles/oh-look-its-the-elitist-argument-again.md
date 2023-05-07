@@ -24,7 +24,9 @@ For it latest infusion of "new", ENO will present Rodgers and Hammerstein's [*Ca
 
 The crux of the issue seems to be the casting of classical crossover singer Katherine Jenkins as Julie Jordan. While she tours the world doing concerts, she has been plagued by a number of cancellations that seem to be too much of a coincidence; but without speaking to Ms. Jenkins, I can't and won't say for certain. That being said, Ms. Jenkins is a draw, if not just her fans, but for the people who will come to see if she fails. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481193961010/2016-12-8---Katherine_Jenkins.jpg.jpg)<figcaption>Katherine Jenkins.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481193961010/2016-12-8---Katherine_Jenkins.jpg.jpg)<figcaption>Katherine Jenkins.</figcaption>
 </figure>
 
 And this is what leads me back to a discussion we've had before. Are we elitist? Is this part of the problem opera has in branching out to new audiences?

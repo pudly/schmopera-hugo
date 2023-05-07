@@ -12,6 +12,7 @@ website = "http://raphaelapapadakis.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/raphaelasings"
+_template = "people_single"
 +++
 
 Award winning British soprano Raphaela Papadakis made her professional operatic début at Garsington Opera in 2014, which was singled out by the *Financial Times* as the "most attractive solo performance" of the show. She went on to cover the Nymph in Michael Boyd’s critically and commercially acclaimed production of Monteverdi’s *Orfeo* for the Royal Opera House, Covent Garden. An avid lover of contemporary music, Raphaela recently had the privilege of creating the role of the disfigured trainee geisha Kikuyo in Nicola LeFanu’s latest Japanese-inspired opera *Tokaido Road* at the Cheltenham Festival, and played the role of Anna in the British première of Šimon Voseček's *Biedermann and the Arsonists* for Independent Opera at Sadler’s Wells in November, a production which was a sell-out success, receiving four stars in both the Guardian and the Financial Times.

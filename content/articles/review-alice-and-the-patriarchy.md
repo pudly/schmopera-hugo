@@ -20,7 +20,9 @@ ALICE (Jeanai La Vita), dressed in white, sits in the center of a small room, he
 
 The women are given a strip of colored cloth and a mantra to repeat ("We all fall down", "Snip, snap, cut if off", "You are not your own"). They bring their cloth strips to ALICE and wrap them around her in accumulating layers. The women repeat these actions until ALICE is up to her neck in fabric.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521677399856/ALICE-performance-photo_Mary-Prescott.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521677399856/ALICE-performance-photo_Mary-Prescott.jpg.jpg)
 <figcaption>Five Alices: (l-r) Sara Noble, Mary Kate Vom Lehn, Jeanai La Vita, Katie Zaffrann, Cara Search. Photo credit: Mary Prescott.</figcaption>
 </figure>
 
@@ -28,7 +30,9 @@ Then everyone gathers around ALICE, who begins to chant in long, unadorned lines
 
 Opera singers tend to learn the unfortunate stage habit of speaking in an overly-resonated, sustained, quasi-legato voice that sounds totally unlike normal human conversation. There was a lot of that going on. One problem with this grand rhetorical style is that intimate dialogue becomes melodramatic, particularly when the lines have a poetic quality (Prescott culled texts from The Brothers Grimm, the Bible, Neruda, and her own writing).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521677427317/ALICE_Adela-Wagner-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521677427317/ALICE_Adela-Wagner-2.jpg.jpg)
 <figcaption>Composer Mary Prescott in rehearsal for ALICE: (l-r) Mary Prescott, Jeanai La Vita, Sara Noble. Photo credit: Adela Wagner.</figcaption>
 </figure>
 

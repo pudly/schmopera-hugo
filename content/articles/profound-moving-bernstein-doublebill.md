@@ -18,7 +18,9 @@ As it turns out: with some very intelligent staging and committed performances f
 
 The brilliance, of course, mostly stems from the conceit of the production design: this double-bill of *Trouble in Tahiti* with *Arias and Barcarolles* was staged in an installation set up at the DCR Steriti Memoral Rink in the North End: within the area that the ice would normally be placed, BLO erected a full 1950s-style nightclub, complete with sangria and little bar bites. (Full disclosure: I did indulge in one glass of sangria before the show.) The space was absolutely beautiful, and it leant a quietly intimate air to the whole night. However, what it also did was eliminate the use of sets and props: this permitted the staging to get inventive throughout *Trouble in Tahiti*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526160368904/2018BLO-TAHITI-HeatherJohnson_sm.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526160368904/2018BLO-TAHITI-HeatherJohnson_sm.jpg.jpg)
 <figcaption>Heather Johnson (Dinah) in *Trouble in Tahiti*, Boston Lyric Opera, 2018. Photo: Liza Voll.</figcaption>
 </figure>
 
@@ -26,7 +28,9 @@ Stage director David Schweizer added plenty of little subtle touches, which were
 
 These little staging transmutations permeated the evening, and they were all incredibly brilliant touches that highlighted thematic connections without it feeling like *Trouble* was imposing thematic significance on *Arias*. What was an argument over breakfast in *Trouble* found a striking thematic parallel in "Love Duet", where the meta-textual commentary on the state of music in the late 80s became a metaphor for Sam and Dinah's inability to really talk about their problems throughout *Trouble*. "The Love of My Life" revealed Sam's extreme egotism for the over-masculine toxicity that it was almost soley through having "Sam" going through the same motions throughout "Love of my Life" that he did in the office and gym scenes of *Trouble*. "Mr. and Mrs. Webb Say Goodnight" capped off the evening and stood in stark contrast to the conclusion of *Trouble*, where Sam and Dinah avoid talking about their marital troubles to see the titular movie: Mr. and Mrs. Webb ended the evening on a more hopeful note, implying that perhaps there was room for Sam and Dinah to meaningfully discuss their marital problems after all.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526160382291/2018BLO-TAHITI-HeatherJohnson-MarcusDeLoach_sm.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526160382291/2018BLO-TAHITI-HeatherJohnson-MarcusDeLoach_sm.jpg.jpg)
 <figcaption>Heather Johnson (Dinah) and Marcus DeLoach (Sam) in *Trouble in Tahiti*, Boston Lyric Opera, 2018. Photo: Liza Voll.</figcaption>
 </figure>
 
@@ -34,7 +38,9 @@ The result was two-fold. First, it electrified *Arias and Barcaroles*, even in t
 
 In short, this staging of these works deftly produced the more serious expansion on *Trouble in Tahiti* that Bernstein attempted — and notably failed to achieve — with *A Quiet Place*. The result was thrilling and dynamic, and it overrode my fears both that *Arias and Barcarolles* would come off as pretentious, and that *Trouble in Tahiti* would prove to be too disparate a work from *Arias* to provide a thematically cohesive evening. (It should be noted that BLO made a few alterations to *Arias* to give the Trio things to do during the work, and to make explicit references to "Sam and Dinah". The Bernstein Estate permitted these edits, and from where I stand, I am very glad they did.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526160396345/2018BLO-TAHITI-MarcusDeLoach-as-Sam_sm.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526160396345/2018BLO-TAHITI-MarcusDeLoach-as-Sam_sm.jpg.jpg)
 <figcaption>Marcus DeLoach (Sam) in *Trouble in Tahiti*, Boston Lyric Opera, 2018. Photo: Liza Voll.</figcaption>
 </figure>
 
@@ -46,7 +52,9 @@ But Heather Johnson easily stole the night as Dinah: her aria detailing the fict
 
 If I had to find any fault with the production, it is that, unfortunately, the venue's acoustics are not really suited for opera singing. The singers were singing inside of a space that would typically be used for ice hockey games, which meant that they were singing to a very open space with very few points for sound to reflect back at the audience: as such, the singers very frequently got swallowed up by the space even despite everyone's best efforts to make sure they were heard. (Full disclosure: my seat was towards the back of the auditorium space, so those sitting closer to the stage might have a better experience there.) There were also unwanted intrusions of outside noise from time to time: the program book even mentioned this, going so far as to point out the exact times of day when the nearby USS Constitution would fire its cannons at sundown so as not to startle patrons.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526160424149/2018BLO-TAHITI-The-Cast-of-Trouble-in-Tahiti-2_sm.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526160424149/2018BLO-TAHITI-The-Cast-of-Trouble-in-Tahiti-2_sm.jpg.jpg)
 <figcaption>The cast of *Trouble in Tahiti*/*Arias and Barcarolles*, Boston Lyric Opera, 2018. Photo: Liza Voll.</figcaption>
 </figure>
 

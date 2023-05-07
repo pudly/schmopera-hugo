@@ -26,7 +26,9 @@ Quintana's ornaments and Cummings' continuo are certainly two ingredients vital 
 
 Soprano [Rowan Pierce](/scene/people/rowan-pierce/) is clearly a very intelligent singer, and her strong sense of musicality serves this music well. We hope that as her singing develops she becomes daring enough to show an amount of her own dramatic interpretation into performing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492515266443/2017-04-18---Rowan-Pierce-Groves-Artists.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492515266443/2017-04-18---Rowan-Pierce-Groves-Artists.jpg.jpg)
 <figcaption>Rowan Pierce, soprano. Photo courtesy of Groves Artists.</figcaption>
 </figure>
 

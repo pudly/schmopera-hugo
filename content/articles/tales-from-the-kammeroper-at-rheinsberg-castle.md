@@ -30,7 +30,9 @@ We work 10-2 or until it gets so hot on the stage we all lose it. Then, it's bac
 
 All that, and remembering to put on enough sunscreen and mosquito repellent to get you through the outdoor session in the outdoor theatre, dating from 1758.  But then, there's a five-hour break for the crew to work on the set, and for the stage floor to cool off enough to keep a dead Scarpia from developing third-degree burns on his back. Thank goodness for red wine and fellowship at the end of the day.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470075831616/h4Pn-x4S2t3LCVFrMGMkVAx-eDcs0fysIpeQNVjDdLx4AihOupfoZb-c-8CrIGSIHJzK7pPMFf8hrKiGAXSkOXxJDl6n%3Dw1360-h1360)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470075831616/h4Pn-x4S2t3LCVFrMGMkVAx-eDcs0fysIpeQNVjDdLx4AihOupfoZb-c-8CrIGSIHJzK7pPMFf8hrKiGAXSkOXxJDl6n%3Dw1360-h1360)
 <figcaption>Jessica Lane, soprano & participant, Kammeroper Schloss Rheinsberg, 2016.</figcaption>
 </figure>
 
@@ -50,7 +52,9 @@ I think it’s important that when you make the commitment to spend time in Germ
 
 In this way, I feel like I'll know what to expect coming into production in a European country should I get the opportunity to again. It's a whole lot of gesturing, explaining in fragmented languages, laughing and crying but it's a little like altitude training in that now that we've done this, everything else will be easier.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470076348839/2016-08-01---Gordon-Gerrard-HS2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470076348839/2016-08-01---Gordon-Gerrard-HS2.jpg.jpg)
 <figcaption>Gordon Gerrard, conductor, *Tosca* at Kammeroper Schloss Rheinsberg, 2016.</figcaption>
 </figure>
 
@@ -64,7 +68,9 @@ This line-up explored so much repertoire and every possible style of singing (in
 
 **Deedrick**: As with any show in a smaller venue, **Alcina**, **Tosca** and the many concerts give the singers an opportunity to learn a new role, to try it out in a relatively safe location, to learn about the highs - and lows - of European "Regietheater", and to work in an incredibly international environment.  I know this sounds kinda corny, but the United Nations atmosphere of this Rheinsberg summer is one of the most important things that will stay with me forever: we've all come together with this mutual love for music and art. VISSI D'ARTE!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470134463695/2016-08-02---Tyler-Fitzgerald.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470134463695/2016-08-02---Tyler-Fitzgerald.jpg.jpg)
 <figcaption>Baritone Tyler Fitzgerald, singing Scarpia in *Tosca* at the Kammeroper Schloss Rheinsberg.</figcaption>
 </figure>
 

@@ -16,6 +16,7 @@ url = "https://www.facebook.com/fawnchambercreative"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/fawn_opera"
+_template = "company_single"
 +++
 
 <p>

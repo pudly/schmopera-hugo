@@ -23,7 +23,9 @@ Khatereh was the lifelong artistic partner of my piano instructor, Ophelia Parto
 
 **Afarin**: When I found out the connection with Shirin, it brought back so many memories from Iran.  I found a new meaning in composing Forbidden while remembering the efforts of these wonderful women. It gave me more strength.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517624726311/afarin-shirin.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517624726311/afarin-shirin.jpg.jpg)
 <figcaption>(l-r) Afarin Mansouri, composer, and Shirin Eskandani, mezzo-soprano.</figcaption>
 </figure>
  

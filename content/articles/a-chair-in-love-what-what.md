@@ -34,7 +34,7 @@ I was helped along the way by a series of workshops and by dramaturgical support
 
 Also involved in the genesis of the piece were the Wind Quintet Pentaedre. There aren’t many operas scored for that combination, and I hope hear that version will soon have another run.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436670118039/Headshot-Kim-Sartor-PDF-2014-1.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436670118039/Headshot-Kim-Sartor-PDF-2014-1.jpg.jpg)
 <figcaption>Mezzo-soprano Kim Sartor.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Also involved in the genesis of the piece were the Wind Quintet Pentaedre. There
 
 **Michael**: Truman seems to be the most realistic of the characters, I mean he's not a talking dog, or a talking chair, or a dog-tor who thinks they've invented mysterious remedies to somewhat suspect ailments. Ultimately he could have been the title character, but it would have been much less interesting than the name *A Chair in Love*.  The only bizarre thing about him really is that he's fallen in love with a chair and can speak to his dog.  But we've all managed to suspend our disbelief about talking dogs (think *Family Guy*), so it's really not THAT far of a stretch.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436670174406/77o8Yc2bH3u5vPlpiQr953wMDf9e8UK4g0eopJuC5LqugVNblxGZID_P1HB3cda5UkDrahonDCiRH1-hQ1hocZm_eWkxIA%3Dw1360-h1360)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436670174406/77o8Yc2bH3u5vPlpiQr953wMDf9e8UK4g0eopJuC5LqugVNblxGZID_P1HB3cda5UkDrahonDCiRH1-hQ1hocZm_eWkxIA%3Dw1360-h1360)
 <figcaption>Baritone Gregory Finney.</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ Also involved in the genesis of the piece were the Wind Quintet Pentaedre. There
 
 I finally found *A Chair in Love* at the Canadian Music Centre. I read the score, and laughed. And sighed. And thought, "awww." And winced (just a little). And grinned. And then I knew it was The One. I sent it to Bill, and he was enthusiastic about trying something different. It was definitely not a typical "request!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436670245801/Michael-Robert-Broder-1-7811.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436670245801/Michael-Robert-Broder-1-7811.jpg.jpg)
 <figcaption>Baritone Michael Robert-Broder.</figcaption>
 </figure>
 

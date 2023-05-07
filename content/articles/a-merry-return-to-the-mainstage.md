@@ -25,7 +25,9 @@ Very few things could compare to performing a live opera including costumes, cho
 
 At the time COVID started, Love was touring in a production of the famed musical _Les Misérables_. "The pandemic pretty much destroyed my livelihood," he admits. "I had to figure out a lot of things about myself and what I want in my life, a lot of reevaluating my career and my future."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1643466990/media/2022/01/CalgaryOpera_MerryWidow_AndrewLove_HarderLeePhotography_acf9yi.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1643466990/media/2022/01/CalgaryOpera_MerryWidow_AndrewLove_HarderLeePhotography_acf9yi.jpg)
 
 <figcaption>Baritone Andrew Love stars as Count Danilo in Calgary Opera’s The Merry Widow, which marks the company’s return to the mainstage since the COVID pandemic began. “I am so thrilled to be back on stage and performing again.” Photo courtesy of Calgary Opera.</figcaption>  
 </figure>
@@ -38,7 +40,9 @@ Which makes the idea of offering this full production of _The Merry Widow_ so me
 
 The decision to proceed with a full show led to stringent rules that were rooted in public health guidelines. Principals had to be doubly vaccinated. Everyone had to submit a rapid test result on days they were called to rehearsal. If they tested COVID-positive, they had to self-isolate and could only attend rehearsals via Zoom until the company cleared them to return. Everyone sang with masks until the production moved to the larger space at the Jubilee Auditorium — and even then, chorus, dancers and supers were masked except for one night during production week.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1643467013/media/2022/01/ColinAinsworth_JacquelineWoodley_TrudieLee_otaacd.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1643467013/media/2022/01/ColinAinsworth_JacquelineWoodley_TrudieLee_otaacd.jpg)
 
 <figcaption>Jacqueline Woodley (Valencienne) and Colin Ainsworth (Camille de Rosillon) rehearsed in masks as part of Calgary Opera’s safety protocols for The Merry Widow. The company had strict measures in place to protect the collective health of cast and crew, including mandatory masks and rapid tests for days people were called to rehearsal. Photo courtesy of Calgary Opera</figcaption>  
 </figure>
@@ -69,7 +73,9 @@ Strand says he's fortunate the company has kept him busy and engaged throughout 
 
 "I feel we are doing everything in our power to make this happen," says Mark Morash. "We are taking extraordinary measures to make everyone safe, and there is an extraordinary commitment from everyone who just wants to put on a show. You feel that people are on board."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1643467037/media/2022/01/Munar_gr73mb.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1643467037/media/2022/01/Munar_gr73mb.jpg)
 
 <figcaption>Chorus member and Schmopera contributor Oliver Munar is ready to perform The Merry Widow without a mask now that he’s recovered from a case of COVID in early January.</figcaption>  
 </figure>

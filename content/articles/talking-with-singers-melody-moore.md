@@ -19,7 +19,9 @@ title = "Talking with singers: Melody Moore"
 
 The process of learning new roles is much different, mostly because there is little to no primary information or performance practice to study. Therefore, the learning happens at the piano or with a trusted coach with no previous information about the piece. No tempi from other conductors. No colors from other singers. Just the words and the music, and the music can be tonally difficult if it is newer. Newer music, not always, but often, does not just "fall" into the ear the same as a more traditional western harmony would.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462963868365/2016-05-11---Heart-of-a-Soldier-duo-with-Thomas-Hampson-San-Francisco-Opera-image-by-Cory-Weaver.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462963868365/2016-05-11---Heart-of-a-Soldier-duo-with-Thomas-Hampson-San-Francisco-Opera-image-by-Cory-Weaver.jpg.jpg)
 <figcaption>Melody Moore with Thomas Hampson in San Francisco Opera's *Heart of a Soldier*. Photo by Cory Weaver.</figcaption>
 </figure>
 
@@ -31,7 +33,9 @@ It feels like heaven to sing this music. It is a perfect "lean" into an orchestr
 
 I was asked to look at a beautiful song, "One Child" by Gregg Kallor, and I was absolutely in love with it: the culmination of its creation, the genesis and growth of the foundational story behind it, and the association with AMFAR. I love supporting humanitarian efforts; especially for a continent that pulls on my soul the way Africa has for my entire life. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462963902324/2016-05-11---Melody-Moore-as-Lady-Macbeth-in-The-Glimmerglass-Festival's-2015-production-of-Macbeth.-Photo--Karli-Cadel-The-Glimmerglass-Festival.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462963902324/2016-05-11---Melody-Moore-as-Lady-Macbeth-in-The-Glimmerglass-Festival's-2015-production-of-Macbeth.-Photo--Karli-Cadel-The-Glimmerglass-Festival.jpg.jpg)
 <figcaption>Melody Moore as Lady Macbeth in the Glimmgerglass Festival's 2015 production of *Macbeth*. Photo: Karli Cadel/The Glimmerglass Festival.</figcaption>
 </figure>
 
@@ -39,7 +43,9 @@ I was asked to look at a beautiful song, "One Child" by Gregg Kallor, and I was 
 
 I have an incredibly strong connection to Tosca. I believe the role has been calling me since my first walk into the door of classical music. If my love of the opera affected my learning process differently, it would probably be because I was emotionally invested BEFORE learning the role instead of AFTER learning it. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462963946522/2016-05-11---Melody-Moore-as-Tosca-at-San-Francisco-Opera-Photo-by-Kristen-Loken.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462963946522/2016-05-11---Melody-Moore-as-Tosca-at-San-Francisco-Opera-Photo-by-Kristen-Loken.jpg.jpg)
 <figcaption>Moore as Tosca at San Francisco Opera. Photo by Kristen Loken.</figcaption>
 </figure>
 

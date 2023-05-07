@@ -26,6 +26,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCp7MApLdyaDIJ_AAUkz58yw"
 
+_template = "people_single"
 +++
 Recognized by _Opera News_ as “one of the finest singers of his generation,” American bass-baritone Ryan McKinny has earned his reputation as an artist with something to say. His relentless curiosity informs riveting character portrayals and beautifully crafted performances, reminding audiences of their shared humanity with characters on stage and screen.
 

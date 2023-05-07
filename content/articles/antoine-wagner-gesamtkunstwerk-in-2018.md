@@ -23,7 +23,7 @@ His ancestry automatically piques the interest of most opera fans, yet Antoine p
 
 "When I set foot in that Frank Gehry building and saw the projection sails, the ability that this kind of morphing space had, it threw me over the edge."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530739605948/Miami_New_World_Center.jpg.jpg)<figcaption>The New World Symphony Center, Miami, FL.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530739605948/Miami_New_World_Center.jpg.jpg)<figcaption>The New World Symphony Center, Miami, FL.</figcaption>
 </figure>
 
 Listeners will hear the second act of *Die Walküre* - featuring Alan Held as Wotan and Linda Watson as Brünnhilde - but Antoine is creating an evening that tells the opera's full story. As well as the interior, he has too the exterior of the New World Center to his disposal, and he will project video mappings on the building's façade - on the way in, alluding to *Die Walküre* Act I, and on the way out, Act III. "The idea is to offer an evening of experience."

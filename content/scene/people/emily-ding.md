@@ -16,6 +16,7 @@ url = "https://www.facebook.com/EmilyDingPhotography"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/EmilyD_photog"
+_template = "people_single"
 +++
 
 I love weddings, I love singing. I have a master degree in voice performance; but it makes my heart sing more when I make people feel confident and beautiful through my lens.

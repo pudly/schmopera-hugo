@@ -8,6 +8,7 @@ related_companies = ["scene/companies/royal-opera-house.md","scene/companies/bay
 slug = "martin-winkler"
 title = "Martin Winkler"
 website = "http://en.martinwinkler.net/"
+_template = "people_single"
 +++
 
 Bass-Baritone Martin Winkler was born in Bregenz, Austria. Martin studied voice at the University of Vienna with Walter Berry.

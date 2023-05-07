@@ -16,6 +16,7 @@ url = "https://twitter.com/addieboedecker"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCegiuALajnYmrz_fx_XX7ow"
+_template = "people_single"
 +++
 
 Known for “setting the tone for excellence” and “negotiating high tessitura with flair and ample power”, Adelaide Boedecker received early training at the age of 9 singing in the Children’s Chorus of the Sarasota Opera. She continues her artistic merit by returning for a second season at The Santa Fe Opera where her assignments include the roles of Ida in *Die Fledermaus* and the cover role of Chrissann Brennan in the world-première of Mason Bates’s *The (R)evolution of Steve Jobs*.

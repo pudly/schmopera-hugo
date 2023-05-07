@@ -27,7 +27,9 @@ For Canadian singers, work in American opera houses is tempting; there are more 
 
 I mentioned that trope among Canadian singers, that it's easier to work way over in Europe than just next door in the United States. "Absolutely it is," says Graham. "I think it's easier for Canadians to go anywhere except the United States."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443407469557/Othalie-Graham---Turandot-2---Photo-courtesy-of-the-artist.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443407469557/Othalie-Graham---Turandot-2---Photo-courtesy-of-the-artist.jpg.jpg)
 <figcaption>Othalie Graham as Turandot. Photo courtesy of the artist.</figcaption>
 </figure>
 
@@ -41,7 +43,9 @@ So, just how *does* she feel at the end of a performance of *Turandot*? "Exhaust
 
 They get the great roles, sure, but large, dramatic voices are presented with plenty of temptation for too big, too soon. Graham admits to having a few roles on her resume that "maybe didn't fit the way I wanted them to, so I could have done without." She knows how difficult it can be to learn to say no, something that "is not always easy when you have a house to pay for." Yet, Graham's patience pays off onstage. "I'm fairly young in this repertoire, and *for* my repertoire, so through all the Turandots and all the other big repertoire, it's good to keep Aida and the Verdi *Requiem*, because it forces you to sing *pianissimo*, and sing high."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443407599319/Othalie-Graham---Turandot---Photo-courtesy-of-the-artist.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443407599319/Othalie-Graham---Turandot---Photo-courtesy-of-the-artist.jpg.jpg)
 <figcaption>Photo courtesy of the artist.</figcaption>
 </figure>
 

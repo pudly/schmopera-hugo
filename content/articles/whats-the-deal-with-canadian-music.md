@@ -17,7 +17,9 @@ Larry Beckwith, Artistic Director of [Toronto Masque Theatre](/scene/companies/t
 
 The music was provided by young singers from the studio of Elizabeth McDonald at the University of Toronto, with Jo Greenaway at the piano. Between short musical sets, Beckwith sat down with three important figures in today's Canadian music scene: composer [Alexina Louie](/talking-with-composers-alexina-louie/), [Lawrence Wiliford](/scene/people/lawrence-wiliford/), tenor and co-founder of the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/), and Alex Pauk, composer, conductor, and founder/Music Director of the [Esprit Orchestra](/scene/companies/esprit-orchestra/).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506610928832/2017-09-28---Louie.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506610928832/2017-09-28---Louie.jpg.jpg)
 <figcaption>Composer Alexina Louie.</figcaption>
 </figure>
 
@@ -25,7 +27,9 @@ Some familiar tropes emerged in the chats. Louie, faced with that tricky questio
 
 Wiliford joked that it "took an American" to found the Canadian Art Song Project, which focuses on getting new Canadian song repertoire written, performed, and recorded. Coming from the more fostering environment in the United States, Wiliford was surprised that Canadian performers weren't as quick to step into the role of champion for their own new music. Similarly, Alex Pauk admits that founding the Esprit Orchestra came out of his and other composers' frustration with the dearth of groups willing to program Canadian material.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506610990693/2017-09-28---Wiliford.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506610990693/2017-09-28---Wiliford.jpg.jpg)
 <figcaption>Lawrence Wiliford, tenor and co-founder of the [Canadian Art Song Project](http://www.canadianartsongproject.ca/).</figcaption>
 </figure>
 

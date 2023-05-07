@@ -23,7 +23,9 @@ I like to challenge myself by pushing concepts and spaces to their limits. I hav
 
 I am greatly influenced and inspired by the neighbourhood I live in. Toronto's West End is home to creative types of all kinds, offering an eclectic mix of fascinating art exhibitions and concerts. I have collaborated with DJs, electric violinists, chefs and even beatboxers. My husband is also an important influence on my work. He is an architect, who is constantly in search of new approaches to create highly functional and accessible buildings that can interact with the public in a variety of ways. I like to conceptualize my performing in the same manner.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501040069500/2017-07-17---CassandraWarner0231photobyKevinPatrickRobbins.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501040069500/2017-07-17---CassandraWarner0231photobyKevinPatrickRobbins.jpg.jpg)
 <figcaption>Cassandra Warner. Photo by Kevin Patrick Robbins.</figcaption>
 </figure>
 
@@ -35,7 +37,9 @@ First of all, the voice is paramount. Get that technique down first before movin
 
 I want to continue pushing opera outside of the traditional setting. It would be pretty cool to put on a performance amidst ancient ruins. I am a history nerd and to combine my love of that and music would be a dream. I would like to explore more possibilities onstage as well. As for particular shows and roles, I am quite content not knowing exactly what is next. Remaining open to all of the possibilities without putting any undue pressure on myself is key. Thus far, my instincts have served me well.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501040201092/2017-07-25---Warner-Robbins.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501040201092/2017-07-25---Warner-Robbins.jpg.jpg)
 <figcaption>Cassandra Warner. Photo by Kevin Patrick Robbins.</figcaption>
 </figure>
 

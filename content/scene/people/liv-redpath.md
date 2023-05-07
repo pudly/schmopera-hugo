@@ -8,6 +8,7 @@ related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/the
 slug = "liv-redpath"
 title = "Liv Redpath"
 website = "http://www.livredpath.com/about/"
+_template = "people_single"
 +++
 
 Soprano Liv Redpath just finished her first year as a Domingo-Colburn-Stein Young Artist at LA Opera, where she sang Olympia in *Les contes d'Hoffmann*, covered Konstanze and Blonde in *Die Entführung aus dem Serail*, and collaborated with Matthew Aucoin on a number of projects, including *Nosferatu* at the Ace Hotel, an After Hours concert of Britten Folk Songs and Joni Mitchell, and a wide ranging Mozart tour throughout the city. She will return to LA next season to sing Amour in *Orphée et Eurydice*, Frasquita in *Carmen*, and Countess Ceprano in *Rigoletto*. Liv will also cover Cunégonde in *Candide* and Gilda in *Rigoletto*. She will spend the summer at Santa Fe Opera as an Apprentice Singer, covering the Queen of Shemakha in *The Golden Cockerel*.

@@ -28,7 +28,9 @@ they take away from this experience?
 
 After the rush of the festival was over, I sat down with Geoff and Tamar to learn more about their experience with the project.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500851625185/2017-07-21---GeoffTamar.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500851625185/2017-07-21---GeoffTamar.jpg.jpg)
 <figcaption>Geoff Schellenberg, baritone, and Tamar Simon, soprano. Photos courtesy of Vancouver Opera.</figcaption>
 </figure>
 

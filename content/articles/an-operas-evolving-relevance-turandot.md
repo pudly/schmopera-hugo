@@ -18,13 +18,13 @@ An imperious gold dragon coils around the stage of the Lyric this January, its e
 
 The opera begins with the recitation of Princess Turandot's terrible decree: she will only marry a man who can correctly answer her three riddles. Any man who fails will be put to death. This pronouncement is made by third-year Ryan Opera Center bass Patrick Guetti, who cuts an imposing figure as the Mandarin, with a deeply sonorous, captivating voice. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978301131/TURANDOT_LYR171202_062_c.Todd-Rosenberg.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978301131/TURANDOT_LYR171202_062_c.Todd-Rosenberg.jpg.jpg)
 <figcaption>*Turandot*, Lyric Opera of Chicago, 2017/18. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
 A would-be suitor will soon be put to death. Villagers flood the stage and from the melee emerge three figures: Calaf, (tenor [Stefano La Colla](/scene/people/stefano-la-colla/)), his father, King Timur, (Lyric regular Andrea Silvestrelli), and their ill-fated servant-girl Liù, (soprano [Janai Brugger](/scene/people/janai-brugger/.) Brugger is a Chicago native making her Lyric debut with the January performances of *Turandot*, continuing from Maria Agresta's run in December. There is no doubt, she is a consummate, committed actor with a beautiful, flexible instrument. One of the most arresting things about Brugger's performance was her daring to sing very, very softly—immediately drawing the audience in with her arresting Act I aria, "Signore ascolta." In an opera where all too easily the characters can become mere archetypes, Brugger's earnest portrayal of Liù is truly beautiful to watch.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978321897/Andrea-Silvestrelli_Stefano-La-Colla_TURANDOT_LYR171202_023_c.Todd-Rosenberg.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978321897/Andrea-Silvestrelli_Stefano-La-Colla_TURANDOT_LYR171202_023_c.Todd-Rosenberg.jpg.jpg)
 <figcaption>Andrea Silvestrelli (Timur) and Stefano La Colla (Calaf) in *Turandot*, Lyric Opera of Chicago, 2017/18. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
@@ -32,14 +32,14 @@ Silvestrelli's turn as King Timur, (his twelfth role at the Lyric and second thi
 
 *Turandot* also marks the Lyric debut of tenor Stefano La Colla, who delivered a serviceable Calaf, though his performance lacked the dramatic urgency of Janai Brugger and the vocal prowess of [Amber Wagner](/scene/people/amber-wagner/) as Turandot. His singing became better over the course of the evening but generally lacked the shaping and nuance that Puccini’s melodies so deserve.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978358347/Amber-Wagner_TURANDOT_LYR171202_314_c.Todd-Rosenberg.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978358347/Amber-Wagner_TURANDOT_LYR171202_314_c.Todd-Rosenberg.jpg.jpg)
 <figcaption>Amber Wagner (Turandot) in *Turandot*, Lyric Opera of Chicago, 2017/18. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
 Ryan Opera Center alum Amber Wagner possesses a voice that is undeniably massive and beautiful. Even in the vocal stratosphere that this role demands, Wagner maintains a sense of ease and a remarkably consistent, cushy tone that is always lush and easy to listen to. I was
 captivated by Wagner's commanding (but never petulant) and vulnerable (but never weak) characterization of Princess Turandot. Turandot's emotional journey is framed by the tragic deaths of two women: her predecessor is abducted and brutally murdered by the leader of an invading army, an event that spurs Turandot's creation of the riddle game as a way to insulate herself from conquest by men. Liù's death — the result of Turandot's desire to avoid wedding Calaf at all costs — is the other crucial tragedy. In Wagner's subtle portrayal, it is through watching love destroy another woman that Turandot realizes she herself has already fallen for Calaf, which in equal parts thrills and terrifies her.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978386400/Keith-Jameson_Rodell-Rosel_Zachary-Nelson_TURANDOT_LYR171202_131_c.Todd-Rosenberg.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978386400/Keith-Jameson_Rodell-Rosel_Zachary-Nelson_TURANDOT_LYR171202_131_c.Todd-Rosenberg.jpg.jpg)
 <figcaption>Keith Jameson (Pong), Rodell Rosel (Pang), and Zachary Nelson (Ping) in *Turandot*, Lyric Opera of Chicago, 2017/18. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ Ultimately, the vision of "China" that Puccini articulated with his Turandot is 
 
 For my part, I am less interested in whatever futurist symbolism and patriotic zeal drove Puccini to create *Turandot*, and am far more interested in how his elaborate telling of this "Chinese" story in such an over-the-top, fantastical way illuminates issues that we are undeniably grappling with in 2018: a growing ambivalence toward the institution of marriage, insidious fears about women in positions of political power, the archetype of the vengeful, emotionless woman, and the oft-unspoken anxiety that to submit to a relationship is to lose one's autonomy and sense of purpose. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978407285/Josh-Lovell_Amber-Wagner_Stefano-La-Colla_TURANDOT_LYR171202_618_c.Todd-Rosenberg.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978407285/Josh-Lovell_Amber-Wagner_Stefano-La-Colla_TURANDOT_LYR171202_618_c.Todd-Rosenberg.jpg.jpg)
 <figcaption>Josh Lovell (Altoum), Amber Wagner (Turandot), and Stefan La Colla (Calaf) in *Turandot*, Lyric Opera of Chicago, 2017/18. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ Puccini's "LOVE CONQUERS ALL" pivot in Act III elicited audible groans from the 
 
 That this feels trite and a bit feeble is perhaps less a sign that it's time for opera to move on from this titanic work and more a sign that an opera's relevance, meaning, and even political resonances can evolve and change with time, however limited in perspective its original composition may have been.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978520627/TURANDOT_LYR171202_077_c.Todd-Rosenberg.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978520627/TURANDOT_LYR171202_077_c.Todd-Rosenberg.jpg.jpg)
 <figcaption>*Turandot*, Lyric Opera of Chicago, 2017/18. Photo: Todd Rosenberg.</figcaption>
 </figure>
 

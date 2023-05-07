@@ -16,6 +16,7 @@ url = "https://www.facebook.com/NYOperaAlliance/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/NYOperaAlliance"
+_template = "company_single"
 +++
 
 #### Who We Are

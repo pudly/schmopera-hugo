@@ -16,6 +16,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jamiemclennan"
 
+_template = "people_single"
 +++
 James McLennan has been celebrated for his “emotional intensity” (Opera News), “considerable charm,” and “strong yet pure tenor,” (Toronto Star) in a wide range of roles on opera and concert stages across Canada.
 

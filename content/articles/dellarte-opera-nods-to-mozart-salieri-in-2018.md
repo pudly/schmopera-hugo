@@ -20,7 +20,9 @@ Chuck Hudson teaches a 15-hour class called "Movement & Acting Skills for Singer
 
 In short, we try to super-charge the singer's process for more efficient, more engaged, and more expressive work that they can take to the rehearsal room and into performances.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529629263941/KirstiEsch.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529629263941/KirstiEsch.jpg.jpg)
 <figcaption>Kirsti Esch in dell'Arte Opera's production of *La Calisto*, 2017. Photo: Brian Long.</figcaption>
 </figure>
 
@@ -32,7 +34,9 @@ We're also presenting the American premiere of *La Cifra* by Salieri - it's only
 
 [Stage director] Brittany Goodwin returns for her third assignment with us, and is bringing a *commedia dell'arte* approach to the story telling.  It will be a little bit *Cinderella*, a little bit *Pagliacci*, and who knows what else people will find in it.  It's exciting to me that *Cifra* is already selling really well!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529629256570/Fecteau.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529629256570/Fecteau.jpg.jpg)
 <figcaption>Chris Fecteau, Artistic Director of dell'Arte Opera.</figcaption>
 </figure>
 
@@ -44,7 +48,9 @@ A small number, even some of our best performers, realize exactly the kind of de
 
 I couldn't be more proud of the kinds of people that we've gotten to know of our 500-plus singer alumni, and all the wonderful paths they've chosen, informed by some craft, some serious work, and dedication to something special.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529629207562/FQ3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529629207562/FQ3.jpg.jpg)
 <figcaption>A scene from dell'Arte Opera's production of *The Fairy Queen*, 2014. Photo: Brian Long.</figcaption>
 </figure>
 

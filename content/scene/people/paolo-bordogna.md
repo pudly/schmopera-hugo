@@ -11,6 +11,7 @@ title = "Paolo Bordogna"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/bordognapaolo"
+_template = "people_single"
 +++
 
 Cantante di fama internazionale, dalla voce baritonale tanto estesa da permettergli di esprimersi anche come bass-baritone e basso buffo, grazie alla sua duttilità d’interprete e alle grandi capacità attoriali, Paolo Bordogna è oggi considerato uno dei miglior “buffi” della sua generazione.

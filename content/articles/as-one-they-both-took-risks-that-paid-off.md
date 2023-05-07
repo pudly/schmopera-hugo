@@ -16,7 +16,7 @@ title = "As One: &quot;they both took risks that paid off.&quot;"
 
 Unlike the trajectory of many new operas, *As One* is already on track to become one of the most frequently performed modern works. The opera premiered in 2014, and since then it has been performed at an increasing rate. [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/) is the thirteenth company to produce [*As One*](http://desmoinesmetroopera.org/education-and-community/second-stages-series), and there are many more upcoming performances scheduled across the nation within the next year. (*Dead Man Walking* better watch its back. *As One* is coming for ya!)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511193410014/2017-11-20---DSC_5281.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511193410014/2017-11-20---DSC_5281.jpg.jpg)
 <figcaption>John Moore and Elise Quagliata in *As One*, Des Moines Metro Opera, 2017. Photo: Duane Tinkey.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ Des Moines Metro Opera's timing of their production was perfectly planned, falli
 
 After the performance, Des Moines Metro Opera in collaboration with [One Iowa](https://oneiowa.org/) facilitated a post show talkback with a panel consisting of the creators, performers, production team, and local trans and LGBTQ activists. The discussion brought another layer to the evening, prompting self-reflection and creating new dialogues for all involved. This post show talk back has become a regular part of the 2nd Stages Series experience, and in my opinion, it is a crucial part of giving the artistic message a fuller impact. This face-to-face interaction pushes the audience out of their comfort zone in the best way possible.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511193501979/2017-11-20---DSC_5588.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511193501979/2017-11-20---DSC_5588.jpg.jpg)
 <figcaption>John Moore and Elise Quagliata in *As One*, Des Moines Metro Opera, 2017. Photo: Duane Tinkey.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ After the performance, Des Moines Metro Opera in collaboration with [One Iowa](h
 
 The opening of the opera features the string quartet alone on the stage, the viola playing a yearning theme, representative of Hannah, while the other three undulate beneath. (Finally the viola is getting a moment to shine!) The instrumentalists and conductor also get the opportunity to show off their vocal abilities, singing Christmas carols quietly in the background during some scenes. The conductor even interacts with Hannah as the stern school teacher during a poetry discussion. *As One* calls for every performer to push beyond their comfort zone, and it feels like a true ensemble piece because of that.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511193513189/2017-11-20---DSC_5366.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511193513189/2017-11-20---DSC_5366.jpg.jpg)
 <figcaption>John Moore and Elise Quagliata in *As One*, Des Moines Metro Opera, 2017. Photo: Duane Tinkey.</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ The one and only character of the opera is portrayed by two singers, a baritone 
 
 Singers [John Moore](/scene/people/john-moore/) and [Elise Quagliata](/scene/people/elise-quagliata/) bring Hannah to life as a team, and their voices naturally complement each other. While their ranges only line up for short segments, the style and tone of their performances make it clear that they are portraying many facets of the same person. I have seen both Moore and Quagliata in previous Des Moines Metro Opera productions, and while it could be argued that this piece does not display the vocal fireworks I know they are capable of, *As One* allows the two singers to flex their acting muscles in a big way. This production calls for emotional variety and power, and they both took risks that paid off. The roles are also incredibly physical, involving climbing over chairs and running around the performance space with no opportunity to step offstage and catch their breath. How they did this for 75 minutes without getting one drink of water, I cannot fathom.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511193524183/2017-11-20--DSC_5371.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511193524183/2017-11-20--DSC_5371.jpg.jpg)
 <figcaption>John Moore and Elise Quagliata in *As One*, Des Moines Metro Opera, 2017. Photo: Duane Tinkey.</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ The creators of *As One* emphasize that they wanted Hannah to be relatable, and 
 
 I was struck most in Hannah's story by how significant seemingly small things became. Her handwriting was the greatest example of this. It had never occurred to me that handwriting could be so gendered and a source of exposure for a trans person. Much of Hannah's childhood is spent trying to be the perfect boy, and even her handwriting has to fit the perception of masculinity. When she finally lets go and writes naturally, the music becomes lyrical and joyful. Kaminsky carries this concept through the rest of the opera, and the vocal lines are always the most beautiful when Hannah is experiencing the freedom of being herself. Other scenes pack a negative emotional punch that is disorienting (when Hannah first takes hormones) or unsettling (when Hannah is assaulted by a stranger). Kaminsky's music is much more dissonant when Hannah is at odds with herself, and this musical contrast between the character's alternating emotions is effective.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511193538974/2017-11-20---DSC_5471.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511193538974/2017-11-20---DSC_5471.jpg.jpg)
 <figcaption>John Moore and Elise Quagliata in *As One*, Des Moines Metro Opera, 2017. Photo: Duane Tinkey.</figcaption>
 </figure>
 

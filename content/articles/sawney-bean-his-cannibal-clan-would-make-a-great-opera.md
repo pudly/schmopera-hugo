@@ -15,7 +15,9 @@ Every once in a while, one comes across a story that grabs a tight hold on your 
 
 Example: the urban legend of [Sawney Bean](https://en.wikipedia.org/wiki/Sawney_Bean). Dated anywhere between the 13th and 16th centuries, the tale has Sawney Bean (or Beane) and his wife making their home in a cave at Bennane Head, along the southwestern coast of Scotland. Their incestuous clan of about 48 was reportedly responsible for the robbery, murder, and cannibalism of roughly 1000 people. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503794511202/Sawney_beane.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503794511202/Sawney_beane.jpg.jpg)
 </figure>
 
 Yep, the Sawney Bean clan were cannibal cave dwellers, and if you saw [*The Hills Have Eyes*](http://www.imdb.com/title/tt0077681/), this story might sound familiar. The clan would pick off people traveling along the road nearby, kill them, take all of their stuff, and eventually eat them. They stayed out of sight in their cave, and no one who saw their faces ever survived (save for one man who was a good enough dueller to escape an attack). 

@@ -12,6 +12,7 @@ website = "https://www.james-cheung.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jvcheung"
+_template = "people_single"
 +++
 
 This season sees James appearing with Christian Gerhaher at the Wigmore Hall, Amsterdam Concertgebouw and Dusseldorf Tonhalle. Other performances include recitals at the Banff Centre of the Arts in Canada as well as recitals and festivals throughout the UK.

@@ -30,7 +30,9 @@ In terms of style, narrative, and genre, both operas are vastly different. With 
 
 We are tying both shows together through a number of design elements as well. See if you can spot the similarities when you see the show!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496809433370/2017-06-07---Jess-Derventzis-Headshots_037.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496809433370/2017-06-07---Jess-Derventzis-Headshots_037.jpg.jpg)
 <figcaption>Jessica Derventzis, Opera 5 Production Manager and Stage Director.</figcaption>
 </figure>
 
@@ -42,7 +44,9 @@ We are tying both shows together through a number of design elements as well. Se
 
 What I find most intriguing about Smyth's music is that she has an amazing sense of drama and storytelling, and she knows when to go from the ridiculous to the sublime. This to me is the mark of a fine composer who deserves a platform to be heard.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496809421420/2017-06-07---Rachel-Krehm-headshot.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496809421420/2017-06-07---Rachel-Krehm-headshot.jpg.jpg)
 <figcaption>Rachel Krehm, Co-Founder and General Director of Opera 5.</figcaption>
 </figure>
 

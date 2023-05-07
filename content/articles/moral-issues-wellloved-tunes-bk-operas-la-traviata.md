@@ -17,7 +17,9 @@ title = "Moral issues &amp; well-loved tunes: BK Opera&#039;s La traviata"
 
 The largest one is the demonisation of sex workers. In its day, the character of Violetta was portrayed in quite a sympathetic light - the audience of the time was not overly happy with this. I think today, however, while we have moved on somewhat, sex workers are still demonised. We sometimes forget about moral issues that still carry weight in opera by assuming they are not relevant to us anymore, but I think the demonisation of sex workers in the greatest issue surrounding this piece.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502236385138/2017-08-09---BK-Traviata-Full-Size.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502236385138/2017-08-09---BK-Traviata-Full-Size.jpg.jpg)
 <figcaption>Image courtesy of BK Opera.</figcaption>
 </figure>
 

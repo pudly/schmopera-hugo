@@ -31,7 +31,9 @@ To be clear, it's not as though he doesn't want to be with her: he falls hopeles
 
 Alessandro rises to each and every one of these challenges throughout the opera and he successfully self-actualizes from a wide-eyed young prince into a self-assured, self-respecting man who is ready to become king.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552605268/media/2019/03/JacquelynStuckerJonathanNesteruk.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1552605268/media/2019/03/JacquelynStuckerJonathanNesteruk.jpg)
 
 <figcaption>Photo: Jonathan Nesteruk.</figcaption>  
 </figure>

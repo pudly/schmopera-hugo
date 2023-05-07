@@ -21,7 +21,9 @@ Skylark Opera, formerly known as the Opera St. Paul, presented an english abridg
 
 Stage director [Robert Neu](http://www.skylarkopera.org/AboutUs.cfm?ID=3) envisioned the opera in present day New Rochelle, New York. (I never fully caught the significance of the specific setting noted in the program.) The stage was set with the piano in the middle and then stairs leading down to a catwalk that went through the audience. It was a little jolting to start hearing contemporary dialogue right off the bat, but it was actually quite seamless. For example: Ferrando and Guglielmo have been drafted to "build the wall!" Needless to say this kind of updating earned uproarious laughter.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554170885/media/2019/04/SkylarkCosi1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554170885/media/2019/04/SkylarkCosi1.jpg)
 
 <figcaption>Siena Forest and Luke Williams in Skylark Opera's production of Così fan tutte, 2019. Photo courtesy of Skylark Opera.</figcaption>
 
@@ -37,7 +39,9 @@ The fascinating twist was in the final scene, when the men confront Fiordiligi a
 
 Despina then sits at the edge of the stage head in hands lamenting on how "tricks you play on other people are also played on you." I was really intrigued by this tense ending between Despina and Alfonso, I just wish it hadn't been so out of the blue. The relationship and its issues could have been brought out more throughout the opera.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554170911/media/2019/04/SkylarkCosi2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554170911/media/2019/04/SkylarkCosi2.jpg)
 
 <figcaption>KrisAnne Weiss and Laurent Kuehl, Luke Williams, Tess Altiveros and Justin Spenner; Nathan Cicero (Music Director) in Skylark Opera's production of Così fan tutte, 2019. Photo courtesy of Skylark Opera.</figcaption>
 

@@ -19,6 +19,7 @@ url = "https://twitter.com/teilzeitdiva"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/behlepr"
+_template = "people_single"
 +++
 
 Daniel Behle is one of the most versatile German tenors and is equally successful in the concert, lied and opera genres. His extensive repertoire ranges from Baroque masterpieces to Classical and Romantic works to compositions of the 20th and 21st centuries.

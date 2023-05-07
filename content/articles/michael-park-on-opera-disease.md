@@ -42,7 +42,9 @@ In scene 2, Charlie is in an office meeting when he experiences low blood-sugar.
 
 I know that there will be people coming to see a show about diabetes. For them, I hope to be a good ambassador for opera and new music. In the end, this opera is about connecting people, whether it's performers to their audience, or diabetics to the general public. I hope that the diabetics will feel less invisible, and that everyone else will gain a new perspective on what it's like living with a chronic illness.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442591511785/DiagnosisDiabetes-posterResize.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442591511785/DiagnosisDiabetes-posterResize.jpg.jpg)
 </figure>
 
 >Diagnosis: Diabetes plays October 10th, 8pm at The Orpheum Annex in Vancouver. For details and tickets, follow the box office links below.

@@ -27,7 +27,9 @@ The set was gorgeous (designed by Annie Henley), and gave the production a post-
 
 Director [Crystal Manich](https://www.crystalmanich.com/) attempted to take the misogyny out of the opera, with mixed success. I certainly appreciate the attempt to modernize the story, but I tend to think that Mozart's works are deeply human, therefore changing character motivations mutes vulnerability of the drama. The disguised men come back to the sisters as "Alabaman" cowboys, and with them they bring a trunk full of shiny clothing to lure the girls. This tactic works, and so instead of the sisters attention being drawn to the men's physical attributes, it was to the materials. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1564102392/media/2019/07/DN3_7946.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1564102392/media/2019/07/DN3_7946.jpg)
 
 <figcaption>(l-r) Karin Wolverton (Fiordiligi), Sarah Larsen (Dorabella), Javier Abreu (Ferrando), Heather Johnson (Despina) and Sidney Outlaw (Guglielmo) in Così fan tutte, Mill City Summer Opera, 2019. Photo: Dan Norman.</figcaption>  
 </figure>
@@ -38,7 +40,9 @@ I believe this was a choice by Ms. Manich to make the women seem less silly (as 
 
 I really liked Ms. Manich's bold choice at the end of having the sisters have suitcases in hand ready to leave. Just as the music ends the women make eye contact with their former fiancés, and they freeze. The men look shocked, and Despina looks proud. [Karin Wolverton](http://karinwolverton.com/) sang Fiordiligi with elegance. Don Alfonso was expertly sung by [Andrew Wilkowske](https://www.andrewwilkowske.com/). Mr. Wilkowske was extremely at home in the unusual and taxing venue of the ruins, as well as the devilishly complex Mozart score. Gugliemo and Ferrando were sung by [Javier Abreu](http://www.javierabreu.com/) and [Sidney Outlaw](http://sidneyoutlaw.com/) respectively with gusto.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1564102463/media/2019/07/DN4_9318.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1564102463/media/2019/07/DN4_9318.jpg)
 
 <figcaption>Front row, L-R: Sidney Outlaw (Guglielmo), Karin Wolverton (Fiordiligi), Sarah Larsen (Dorabella), Javier Abreu (Ferrando); Back row, l-r: Andrew Wilkowske (Don Alfonso), Heather Johnson (Despina) and Brian Ingalsbe (chorister) in Così fan tutte, Mill City Summer Opera, 2019. Photo: Dan Norman.</figcaption>  
 </figure>

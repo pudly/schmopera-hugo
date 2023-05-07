@@ -21,7 +21,9 @@ This month in beautiful British Columbia, [Opera Kelowna](/scene/companies/opera
 
 For a full listing of Opera Kelowna's 2019 line-up, [visit their website](https://www.operakelowna.com/the-season/).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563757517/media/2019/07/OdysseyOperaCollage.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1563757517/media/2019/07/OdysseyOperaCollage.jpg)
 
 <figcaption>The cast of Odyssey Opera's Henry VIII, clockwise from top left: baritone Michael Chioldi (photo: Peter Konerko), soprano Ellie Dehn (photo: Catherine Pisaroni), and Hilary Ginther. </figcaption>
 

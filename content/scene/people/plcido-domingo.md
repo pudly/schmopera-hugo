@@ -17,6 +17,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/PlacidoDomingo"
 
+_template = "people_single"
 +++
 Years ago, a fan suggested that Plácido Domingo (whose name literally translates as “Placid Sunday”) should use the saying “If I rest, I rust™” as a motto. In fact, Domingo has been incessantly active since the age of sixteen ― and the more he has studied, travelled and performed, the more he has felt fulfilled and the deeper his love of music has become. 
 

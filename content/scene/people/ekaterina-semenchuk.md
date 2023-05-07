@@ -12,6 +12,7 @@ title = "Ekaterina Semenchuk"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/ekaterina.semenchuk.mezzo/?fref=ts"
+_template = "people_single"
 +++
 
 Stagecraft and outstanding vocal qualities firmly established the reputation of Ekaterina Semenchuk as a shining star of the opera world. Leading soloist of the famous Mariinsky Theatre, she made her debut on this stage while still studying at the St. Petersburg State Conservatory.

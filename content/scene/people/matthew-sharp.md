@@ -13,6 +13,7 @@ website = "http://www.matthewsharp.net/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/mattdjsharp"
+_template = "people_single"
 +++
 
 - "Extraordinary cellist, virile baritone, compelling actor - Matthew Sharp's astonishingly comprehensive versatility." (*The Daily Telegraph*)

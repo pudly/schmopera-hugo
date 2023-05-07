@@ -18,7 +18,9 @@ Most recently, IRCPA sent eleven young singers to mentor with Canadian operatic 
 
 Following the concert, IRCPA awarded its annual "Career Blueprint" to soprano Sara Schabas, who had wowed the crowd - both live and those watching and listening live on The New Classical FM - with her crystalline singing of a snippet of Strauss' _Der Rosenkavalier_. With her winnings Schabas will head to New York, where she'll be provided with new audio and video recordings, new professional photos, website consultation, professional mentoring, and more.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541728631399/SaraSchabaswAdriannePieczonka-IMG_7562.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541728631399/SaraSchabaswAdriannePieczonka-IMG_7562.jpg.jpg)
 <figcaption>IRCPA Career Blueprint winner Sara Schabas with Adrianne Pieczonka. </figcaption>
 </figure>
 
@@ -30,7 +32,9 @@ New voices are always the most exciting, though. Mezzo Georgia Burashko stood ou
 
 The evening itself could have been slightly rattling for the singers, particularly those with less professional experience. On top of the usual pressures of singing for an audience were the close quarters of microphones and video cameras, and the specificities of a live broadcast. Impressively, the singers showed little of the vicarious stress I felt on their behalf.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546222218/media/2018/12/AdrianneapplaudingJoanAnn-PhotobyCaitlinCucci-image009.jpg)<figcaption>Adrianne Pieczonka and the singers of _New Singing Stars_ applauding Joan Dornemann and IRCPA Founder/Director Ann Summers Dossena. Photo: Caitlin Cucco.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1546222218/media/2018/12/AdrianneapplaudingJoanAnn-PhotobyCaitlinCucci-image009.jpg)<figcaption>Adrianne Pieczonka and the singers of _New Singing Stars_ applauding Joan Dornemann and IRCPA Founder/Director Ann Summers Dossena. Photo: Caitlin Cucco.</figcaption>
 </figure>
 
 The IRCPA also has an "urgent need" for an artistic hub in Toronto, similar to the National Opera Center in New York. The organization "There is no place for artists to meet together, exchange creative ideas, to work, study, practice, rehearse, or to be mentored." Find [details here](http://ircpa.net/permanent-home/), and [donate here](http://138.197.134.233/donate-ircpa/).

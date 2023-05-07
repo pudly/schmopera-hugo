@@ -15,7 +15,9 @@ title = "Fab nights: Whose Opera is it Anyway?"
 
 It may have been a staple of the operatic stage in centuries past, but in opera's more recent history, true improvisation hasn't been a prominent part of the art form. For all their Olympian vocal feats, opera singers don't often hold a reputation for being improvisers; that's a huge reason why [Loose TEA Music Theatre](/scene/companies/loose-tea-music-theatre/)'s *Whose Opera Is It Anyway?* was such a treat.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501378045448/2017-07-27---Opera-Improv-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501378045448/2017-07-27---Opera-Improv-2.jpg.jpg)
 <figcaption>Loose TEA Music Theatre gave us a kind reception at The Comedy Bar. Thanks, guys!</figcaption></figure>
 
 The hour-long show at The Comedy Bar on Bloor makes a big nod to the well-loved TV improv show, *Whose Line is it Anyway?* Eight singers and one pianist rotate through short improv games, the details of which are supplied by audience suggestions. For those who admire what opera singers can do, *Whose Opera is it Anyway?* is totally mind-blowing; these singers add serious variables to the existing pressure of singing in public and being appropriately funny in a comedy bar. It's enough to make any hardcore opera fan super-duper curious to watch an Opera Improv rehearsal.

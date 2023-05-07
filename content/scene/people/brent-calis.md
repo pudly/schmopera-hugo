@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Brent-Calis-Photography/60298349096?fref=t
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/BrentCalis"
+_template = "people_single"
 +++
 
 Brent Calis is a Montréal-based baritone. Canadian born, with Turkish/Armenian roots, Brent Calis sings opera in the winters and takes pictures in the summers.

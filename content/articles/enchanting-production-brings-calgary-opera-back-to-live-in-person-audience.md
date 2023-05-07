@@ -23,7 +23,9 @@ On this night, the company's full roster of emerging artists (now branded as the
 
 First performed in 1925, _L'enfant_ is the story of an unnamed brat of a child who learns a valuable lesson on how they interact with the world around them, when innocuous objects spring to life. From the pet cat to the grandfather clock to a book of fairy tales, the McPhee Artists, most of whom are cast in multiple roles, bring Ravel's music to life. It is music that Calgary Opera has included in its offering before; the company last produced this whimsical opera in 2015 as a vehicle for the emerging artists program.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1640982183/media/2021/12/Photo1-Company_xqpprl.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1640982183/media/2021/12/Photo1-Company_xqpprl.jpg)
 
 <figcaption>Surrounding Alanna Fraize from bottom left: Jeremy Dubé, Simran Claire, Jeffrey Strand, Eden Tremayne, Tayte Mitchell, Dominic Veilleux and Juliana Krajčovič. Photo by Kaitlyn Kerr.</figcaption>  
 </figure>
@@ -38,7 +40,9 @@ McPhee's reach went well beyond Calgary Opera. During his tenure as President an
 
 "It's such a beautiful way to honour him," says Calgary-born baritone [Andrew Love](/scene/people/andrew-love/), who was among the first singers to go through what is now the McPhee Artist Development Program. "He focused on Canadian singers - nobody else was doing that. So many of us owe him our careers and to think about how best to honour him, I think training young singers would be where he’d want his name attached."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1640982663/media/2021/12/Photo2-AndrewLove_BobMcPhee_mjgtl4.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1640982663/media/2021/12/Photo2-AndrewLove_BobMcPhee_mjgtl4.jpg)
 
 <figcaption>Calgary-born baritone Andrew Love (bottom right) with the late Bob McPhee (centre), surrounded by Elizabeth Turnbull, Ernesto Ramirez and Lida Szkwarek in the 2017 Calgary Opera production of Filumena (Estacio/Murrell). Photo courtesy of Andrew Love.</figcaption>  
 </figure>
@@ -63,7 +67,9 @@ Not everyone can make a Chair or a Tree sound sultry, but the liquid tone of bas
 
 Sopranos [Juliana Krajčovič](https://calgaryopera.com/202122mcphee-artists/67uhkcvobpfsgtnfmobmndp3cmh02k) and [Eden Tremayne](/scene/people/eden-tremayne/) turned in perhaps the most memorable performances on this night. In her roles as both the Princess and the Bat, Krajčovič shows great versatility with both her rich, robust voice and her acting ability. Tremayne navigates the composer's high-flying vocals with poise and ease, conquering the demanding coloratura passages that Ravel sets in the stratosphere. Tremayne’s roles as both Fire and the Nightingale were standout performances on this night.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1640982999/media/2021/12/Photo3-Fraize-Tremayne_thjqid.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1640982999/media/2021/12/Photo3-Fraize-Tremayne_thjqid.jpg)
 
 <figcaption>Eden Tremayne (right) and Alanna Fraize delivered standout performances in Calgary Opera's production of Ravel's The Enchanted Child. Photo by Kaitlyn Kerr.</figcaption>  
 </figure>

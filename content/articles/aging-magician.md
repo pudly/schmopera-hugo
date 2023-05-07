@@ -25,7 +25,9 @@ Eckert is an artist with many talents. He started out as an opera singer but say
 
 "After years of creating work after work, it becomes your life," he says about why he is an artist. "Initially, I was drawn to things just because I was fascinated by ideas. The traditional world was not where I belonged. I knew I wanted to be in the arts and I had an impulse to perform."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1583344115/media/2020/03/SDOAgingMagicianASU_0499_ujqktm.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1583344115/media/2020/03/SDOAgingMagicianASU_0499_ujqktm.jpg)
 
 <figcaption>Aging Magician at ASU. Photo by Jill Steinberg.</figcaption>  
 </figure>
@@ -34,7 +36,9 @@ People began noticing him during a 10-year collaboration creating operas with Pa
 
 The character of Harold is well in line with Eckert's themes. "After you've created a lot of work, you look at the dynamics of each work and there are similarities. You see characters that keep on reappearing in different ways. I tend to write about low status heroes who then become fixated on an idea. Through fixation, they become grand figures in their minds. That's a theme of mine, taking someone like Harold who's a clockmaker, and in his little shop, this giant world is being imagined. He's creating a whole world in his shop."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1583344129/media/2020/03/SDOAgingMagicianASU_0584_etw06q.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1583344129/media/2020/03/SDOAgingMagicianASU_0584_etw06q.jpg)
 
 <figcaption>Aging Magician at ASU. Photo by Jill Steinberg.</figcaption>  
 </figure>
@@ -45,7 +49,9 @@ Menaker describes her own and the children's motivation for singing as "a combin
 
 "At the purest level it is the thrill of the sheer beauty of the sound that the chorus makes, which is why I was drawn to doing this work professionally. It is the sound of the young voice when it's trained to its optimal level, like our ensemble. It’s a unique sound."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1583344142/media/2020/03/SDOAgingMagicianASU_0517_hcpuyl.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1583344142/media/2020/03/SDOAgingMagicianASU_0517_hcpuyl.jpg)
 
 <figcaption>Aging Magician at ASU. Photo by Jill Steinberg.</figcaption>  
 </figure>

@@ -12,6 +12,7 @@ website = "http://www.christophermokrzewski.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Tophski"
+_template = "people_single"
 +++
 
 <p>

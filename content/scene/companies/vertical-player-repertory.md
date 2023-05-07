@@ -19,6 +19,7 @@ url = "https://twitter.com/vpropera"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/VPROpera/"
+_template = "company_single"
 +++
 
 A pioneer of the alternative opera movement in New York City since 1998, Vertical Player Repertory creates ensemble-driven opera theatre in extraordinary venues, among them a factory courtyard on the Gowanus Canal, an intimate storefront theater, the deck of an oil tanker, and the last active shipping port in Brooklyn.

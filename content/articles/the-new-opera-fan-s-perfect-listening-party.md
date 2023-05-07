@@ -29,7 +29,9 @@ And just to make sure you all know why I'm excited about this:
 * The dynamic duo of David T. Little and Royce Vavrek are probably best known for their acclaimed 2012 collaboration, [_Dog Days_](https://bethmorrisonprojects.org/projects/touring/dog-days/).
 * _Am I Born_ is about Brooklyn and the people who have lived there, and it just sounds downright contemporary.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644366161/media/2022/02/VavrekLittle_scs8vx.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1644366161/media/2022/02/VavrekLittle_scs8vx.jpg)
 
 <figcaption>Canadian librettist Royce Vavrek (left, photo by Ricardo Beas) and American composer David T. Little (photo by Merry Cyr).</figcaption>  
 </figure>

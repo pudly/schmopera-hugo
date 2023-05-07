@@ -9,6 +9,7 @@ related_companies = ["scene/companies/royal-opera-house.md","scene/companies/gly
 slug = "mark-padmore"
 title = "Mark Padmore"
 website = "http://www.markpadmore.com/"
+_template = "people_single"
 +++
 
 He has established an international career in opera, concert and recital. His appearances in Bach Passions have gained particular notice especially his acclaimed performances as Evangelist in the St Matthew and St John Passions with the Berlin Philharmonic Orchestra and Sir Simon Rattle, staged by Peter Sellars.

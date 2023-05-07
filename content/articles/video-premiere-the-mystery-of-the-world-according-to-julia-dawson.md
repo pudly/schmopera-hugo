@@ -23,7 +23,9 @@ Scott Ordway and Dawson were friends from her student days in Philadelphia at th
 
 As they were preparing for the release this past summer Brusencev, who happens to come from the world of heavy metal music, suggested they make a video for the recording. Once again Dawson jumped at the chance and they immediately began to plan. "We chose 'The Mystery of the World' says Dawson, "in which the speaker seeks the transformative power of the woods and longs to commune with nature as only children can. The song is imbued with the desire to return to a simpler time and felt reflective of 2020."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621560552/media/2021/05/Julia_Dawson_-_Girl_In_The_Snow_Master_.00_02_01_14.Still001_taayr5.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1621560552/media/2021/05/Julia_Dawson_-_Girl_In_The_Snow_Master_.00_02_01_14.Still001_taayr5.jpg)
 
 <figcaption>Julia Dawson in "The Mystery of the World" video from Scott Ordway’s Girl In The Snow. Photo: Mario Drescher.</figcaption>
 
@@ -41,6 +43,8 @@ Dawson is committed to video. "These videos were a way that we could come togeth
 
 But for now, here is the premiere of the video of the Scott Ordway/St. Augustine song, "The Mystery of the World":
 
-<figure data-type="video">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/LT7zAkn_g2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/LT7zAkn_g2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>

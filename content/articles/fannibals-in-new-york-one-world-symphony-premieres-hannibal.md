@@ -23,7 +23,9 @@ Thematically, the darkness of Hannibal is not an unfamiliar subject to opera. Ps
 
 Hong’s intricate calculations however, might also be one of his shortcomings. For all his ingenuity and inspiration, there was a long program accompanying the work to make sure the audience wouldn’t miss his nuance. But that, perhaps, is the difficult part. Part of being an audience member is having the license to interpret the work any way we can access it, not necessarily in being told what to think of it. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445951450750/SungJinHong_JVinsek3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445951450750/SungJinHong_JVinsek3.jpg.jpg)
 <figcaption>Composer and founder of One World Symphony Sung Jin Hong. Photo by Jaka Vinsek.</figcaption>
 </figure>
 

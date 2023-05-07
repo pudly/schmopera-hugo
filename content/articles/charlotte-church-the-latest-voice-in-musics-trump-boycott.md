@@ -21,7 +21,9 @@ Now, well-known as a major ally to LGBTQ+ community, Ms. Church has clapped-back
 
 Yesterday at 5:28AM, this beauty of a tweet came out: 
 
-<figure data-type="image">{{% md %}}<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/realDonaldTrump">@realDonaldTrump</a> Your staff have asked me to sing at your inauguration, a simple Internet search would show I think you&#39;re a tyrant. Bye💩💩💩💩</p>&mdash; Charlotte Church (@charlottechurch) <a href="https://twitter.com/charlottechurch/status/818766435703025664">January 10, 2017</a></blockquote>
+<figure data-type="image">
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/realDonaldTrump">@realDonaldTrump</a> Your staff have asked me to sing at your inauguration, a simple Internet search would show I think you&#39;re a tyrant. Bye💩💩💩💩</p>&mdash; Charlotte Church (@charlottechurch) <a href="https://twitter.com/charlottechurch/status/818766435703025664">January 10, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </figure>
 

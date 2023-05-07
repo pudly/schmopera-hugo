@@ -16,6 +16,7 @@ url = "https://www.facebook.com/NorthernIrelandOpera?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/niopera"
+_template = "company_single"
 +++
 
 <p>

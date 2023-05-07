@@ -20,7 +20,9 @@ Massenet's beautiful music just sneaks up from you. It began softly under the ba
 
 I had been reading about Minnesota home grown soprano [Kelly Kaduce](/scene/people/kelly-kaduce/) for quite a while now. She certainly lives up to the hype, she is truly a singing actress. I felt that throughout the three acts she did a wonderful characterization. Although, she moved too frantically during her "mirror aria", making it hard to see the critical change in her characters heart. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526343348273/_37A1402.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526343348273/_37A1402.jpg.jpg)
 <figcaption>Kelly Kaduce (Thaïs) in Minnesota Opera's new production of *Thaïs*, 2018. Photo: Cory Weaver.</figcaption>
 </figure>
 
@@ -30,7 +32,9 @@ I have liked every production in the Minnesota Opera this year, but after this o
 
 The first scene opens with the monks standing behind a colored scrim and had a large icon crucifix; the second scene has a gold theme that shows the decadence of the palace of Nicias (sung by [Gerard Schneider](https://mnopera.org/biography/gerard-schneider/)). The chorus wore ornate gold costumes and masquerade masks. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526343391395/_37A1181.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526343391395/_37A1181.jpg.jpg)
 <figcaption>Gerard Schneider as Nicias in Minnesota Opera's new production of *Thaïs*, 2018. Photo: Cory Weaver.</figcaption>
 </figure>
 
@@ -38,13 +42,17 @@ The evening goes well until Thaïs' entrance. I was swept away by Kaduce's stage
 
 The weakest point of this production is the dancing. In the French tradition, Massenet's score allows for plenty of ballet. In this production, the ballet drags on a little long, unhelped by mediocre choreography (and in one case, reminiscent of the Macarena).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526343378989/_37A9583.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526343378989/_37A9583.jpg.jpg)
 <figcaption>The Minnesota Opera Chorus in Minnesota Opera's new production of *Thaïs*, 2018. Photo: Cory Weaver.</figcaption>
 </figure>
 
 When one sees a performance like this, again I wonder: why is it not performed more often? Is it the plotline? The religious convictions of Athanäel and the split-second conversion of Thaïs earn snickers and guffaws at very inappropriate times. Whatever your religious convictions, I think there is always something to glean from masterpieces like this. The cast of Minnesota Opera's production certainly gave me a lot to think about.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526343398500/_37A0391.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526343398500/_37A0391.jpg.jpg)
 <figcaption>Kelly Kaduce as Thaïs in Minnesota Opera's new production of *Thaïs*, 2018. Photo: Cory Weaver.</figcaption>
 </figure>
 

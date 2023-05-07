@@ -20,7 +20,9 @@ Blythe recently finished a run of [*La fille du régiment* at The Atlanta Opera]
 
 "Everyone will say this: Comedy is all about timing," Blythe says of the part-funny, part-tragic Marquise. "Even when you're singing big coloratura passages its all about beats and arrival." 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520867140483/JB4A0507.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520867140483/JB4A0507.jpg.jpg)
 <figcaption>Stephanie Blythe (Marquise of Berkenfield) in *La fille du régiment*, The Atlanta Opera, 2018. Photo courtesy of The Atlanta Opera.</figcaption>
 </figure>
 
@@ -46,7 +48,9 @@ Blythe sees an interesting difference in today's "golden age" of vocal compositi
 
 She adds, "That's a great doctoral thesis!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520870078424/resized---SB2-Stephanie-Blythe.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520870078424/resized---SB2-Stephanie-Blythe.jpg.jpg)
 <figcaption>Stephanie Blythe, a self-portrait by Stephanie Blythe.</figcaption>
 </figure>
 
@@ -62,7 +66,9 @@ She taught herself to play two years ago, and her curiosity has quickly grown in
 
 "When the three of us sat around playing a C-chord together, I'm telling you, it is heaven. If I'm ever feeling stressed out, I pick up my ukulele, I play a few tunes, and I feel better immediately."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520890899828/Hi-res.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520890899828/Hi-res.jpg.jpg)
 <figcaption>Photo: Stephanie Blythe.</figcaption>
 </figure>
 

@@ -18,7 +18,9 @@ For as much as we babble on about what's new and creative about opera, a good pr
 
 Richard Eyre's production, since its premiere in 1994, is in its 14th revival. His staging backed Angela Gheorghiu's debut at the Royal Opera as Violetta that same year; this month, three more singers make their Covent Garden debuts: Lebanese-Canadian soprano [Joyce El-Khoury](/talking-with-singers-joyce-el-khoury/) as Violetta, Russian tenor [Sergey Romanovsky](/scene/people/sergey-romanovsky/) as Alfredo, and Polish baritone [Artur Puciński](/scene/people/artur-pucinski/) as Giorgio Germont.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485448689947/2017-01-26---La-Traviata-13-01-17-ROH-661-JOYCE-EL-KHOURY-AS-VIOLETTA-VALERY-ROH-PHOTO-BY-TRISTRAM-KENTON.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485448689947/2017-01-26---La-Traviata-13-01-17-ROH-661-JOYCE-EL-KHOURY-AS-VIOLETTA-VALERY-ROH-PHOTO-BY-TRISTRAM-KENTON.jpg.jpg)
 <figcaption>Joyce El-Khoury as Violetta Valéry, *La traviata*, ROH, 2017. Photo by Tristam Kenton.</figcaption>
 </figure>
 
@@ -26,7 +28,9 @@ The broad-strokes architecture of the opera's four sets are a clean contrast aga
 
 Romanovsky is an earnest Alfredo, who seemed truly tortured with his love for Violetta. His dark sound gave way to an exciting, almost throaty ring up top, and he sang with an impressive attention to detail. He and El-Khoury created an honest, understated picture of Alfredo and Violetta; they seemed to have found best friends in each other. (Well, for the most part.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485448698878/2017-01-26---La-Traviata-13-01-17-ROH-813-ARTUR-RUCINSKI-AS-GIORGIO-GERMONT-SERGEY-ROMANOVSKY-AS-ALFREDO-GERMONT-ROH-PHOTO-BY-TRISTRAM-KENTON.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485448698878/2017-01-26---La-Traviata-13-01-17-ROH-813-ARTUR-RUCINSKI-AS-GIORGIO-GERMONT-SERGEY-ROMANOVSKY-AS-ALFREDO-GERMONT-ROH-PHOTO-BY-TRISTRAM-KENTON.jpg.jpg)
 <figcaption>Artur Rucińsky as Giorgio Germont and Sergey Romanovsky as Alfredo Germont, *La traviata*, ROH, 2017. Photo by Tristam Kenton.</figcaption>
 </figure>
 
@@ -38,7 +42,9 @@ Puciński sings with all the refinement and cool emotional detachment of a Giorg
 
 Maestro Daniele Rustioni, an alumnus of the ROH's Jette Parker Young Artists Programme, led the Orchestra of the Royal Opera House through a flexible, lifelike score. Conductors who listen are a luxury, and it's a fascinating thing to hear an orchestra, playing a piece they surely know well, also listening intently to the singer above them. We only wished that Rustioni had kept the pace more often between numbers; the applause breaks seemed to make the story stutter, rather than holding listeners captive through the dramatic landscape. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485448730533/2017-01-26---La-Traviata-13-01-17-ROH-654-ARTUR-RUCINSKI-AS-GIORGIO-GERMONT-JOYCE-EL-KHOURY-AS-VIOLETTA-VALERY-ROH-PHOTO-BY-TRISTRAM-KENTON.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485448730533/2017-01-26---La-Traviata-13-01-17-ROH-654-ARTUR-RUCINSKI-AS-GIORGIO-GERMONT-JOYCE-EL-KHOURY-AS-VIOLETTA-VALERY-ROH-PHOTO-BY-TRISTRAM-KENTON.jpg.jpg)
 <figcaption>Artur Ruciński as Giorgio Germont and Joyce El-Khoury as Violetta Valéry, *La traviata*, ROH, 2017. Photo by Tristam Kenton.</figcaption>
 </figure>
 

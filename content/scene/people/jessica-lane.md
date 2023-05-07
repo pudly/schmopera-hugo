@@ -12,6 +12,7 @@ website = "http://www.jessicalanesoprano.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/irrelevantdiva"
+_template = "people_single"
 +++
 
 Jessica is a young, up and coming, award winning, Toronto based soprano .

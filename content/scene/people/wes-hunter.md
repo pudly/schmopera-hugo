@@ -30,6 +30,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/tenorsauruswes"
 
+_template = "people_single"
 +++
 Praised for his "drama, heart, and shining tone," tenor Wes Hunter is emerging as a charismatic interpreter of both standard repertoire and new works. A native Floridian, Hunter now resides in Boston where he performs a variety of styles ranging from Baroque opera to new concert works. Hunter debuted his solo cabaret to a sold-out audience at Club Café in Boston, featuring various selections from musical theatre composers.
 

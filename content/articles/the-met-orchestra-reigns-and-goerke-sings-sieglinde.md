@@ -21,7 +21,9 @@ As the erotic energy of Strauss' _Don Juan_ gave way to its fateful conclusion, 
 
 The evening was headlined by Wagner's _Die Walküre_, Act I with soprano [Christine Goerke](/talking-with-singers-christine-goerke/), the MET's current Brünnhilde, singing Sieglinde for the first time. But is was the Strauss and [Yannick Nézet-Séguin](/scene/people/yannick-nezet-seguin/)'s conducting, thoughtful and gyroscopically nimble, that immediately captivated the full house.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1657550872/media/2022/07/METorchestra_DonJuan-25798_haqcxj.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1657550872/media/2022/07/METorchestra_DonJuan-25798_haqcxj.jpg)
 
 <figcaption>The opening of the complexly orchestrated violin I score for the Richard Strauss tone poem Don Juan. Image courtesy of violinist.com.</figcaption>  
 </figure>
@@ -30,7 +32,9 @@ _Don Juan_ challenges a conductor to search beyond the spectacle of its requisit
 
 Prone to understatement and with congenial informality Nézet-Séguin described [Missy Mazzoli](/scene/people/missy-mazzoli/)'s _Sinfonia (for Orbiting Spheres)_ as a considerably calmer piece than its concert predecessor. It shimmered with undulating repetitions leading this writer to contemplate beautifully enigmatic spheres of unknowable breadth, spheres that interacted in ways that defy definition. It appeared that all spheres may not be created equal. Even in a kaleidoscopic world there was, as in _Don Juan_, a sense of foreboding as if some sort of reckoning might await.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1657550923/media/2022/07/METorchestra_MissyMazzoli_MaryleneMay_waay2r.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1657550923/media/2022/07/METorchestra_MissyMazzoli_MaryleneMay_waay2r.jpg)
 
 <figcaption>Composer Missy Mazzoli, whose Sinfonia (for Orbiting Spheres) followed Strauss' Don Juan with the MET Orchestra at Carnegie Hall. Photo: Marylene May.</figcaption></figure>
 
@@ -40,7 +44,9 @@ Before Nézet-Séguin began _Die Walküre_, Act I he commented that Wagner would
 
 Wagner's wishes notwithstanding, Act I is a natural for the concert stage. No need for scenery since Wagner does the scene painting, and what a job the MET Orchestra does in manipulating the paint. The stage action is confined to Siegmund and Sieglinde meeting, realizing their incestuous love and running away together after Sieglinde drugs Hunding, her hostile and suspicious husband. Of course there's the moment when Siegmund pulls the mystical sword from an ash tree. But the blazing orchestra doesn't so much compensate for the lack of the sword and tree but more accurately supplants the need for such paraphernalia.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1657550998/media/2022/07/METorchestra_GoerkeJovanovichNezetSeguinOwens_CH11216994_pjiut6.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1657550998/media/2022/07/METorchestra_GoerkeJovanovichNezetSeguinOwens_CH11216994_pjiut6.jpg)
 
 <figcaption>Soprano Christine Goerke, tenor Brandon Jovanovich, conductor Yannick Nézet-Séguin and bass-baritone Eric Owens in Die Walküre, Act I on stage with the MET Orchestra at Carnegie Hall. Photo: Chris Lee.</figcaption></figure>
 
@@ -48,7 +54,9 @@ The singers established character with finesse. Montana-born tenor [Brandon Jova
 
 Goerke began tentatively as Sieglinde should, but soon impressed with soaring top notes, especially during her set piece "Du bist der Lenz" and with a resonant chest voice that demonstrated endless reserves. Jovanovich was another matter. Initially producing a handsome and virile sound he moved confidently, indeed heroically, in his upper range but collapsed when going for lower notes, often swallowing or dropping them altogether. Owens, to no ones surprise, was as mellifluous as he was sinister, quite an extraordinary feat. Like Goerke, he appears to know no bounds.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1657551023/media/2022/07/METorchestra_GoerkeJovanovich_CH11216996_dmxuyw.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1657551023/media/2022/07/METorchestra_GoerkeJovanovich_CH11216996_dmxuyw.jpg)
 
 <figcaption>Soprano Christine Goerke and tenor Brandon Jovanovich as Sieglinde and Siegmund in Die Walküre, Act I. Photo: Chris Lee.</figcaption></figure>
 

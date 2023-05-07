@@ -17,6 +17,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/lynx.project/"
 
+_template = "company_single"
 +++
 LYNX, also known as Lynx Project, is a Chicago-based nonprofit organization that amplifies diverse voices through new song commissions, inclusive concerts, and educational programming. Founded in 2015 by Caitleen Kahn, Megan Moore, Steven Humes, and Florence Mak, LYNX was formed to revitalize the genre of art song and share it with new audiences.
 

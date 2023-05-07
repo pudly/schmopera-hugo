@@ -17,6 +17,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/nostringstheatr"
 
+_template = "company_single"
 +++
 ### Our Mission Statement
 

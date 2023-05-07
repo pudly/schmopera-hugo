@@ -18,6 +18,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/TobiasGreenhalgh"
 
+_template = "people_single"
 +++
 Baritone Tobias Greenhalgh is a versatile singer on the rise, whom Opera News recently claimed was "so clearly headed for success.” Mr. Greenhalgh joins Boston Lyric Opera for his first performances of Silvio in _I Pagliacci_ in the 2019/20 season. He also joins the ensemble at Aalto-Musiktheater Essen where his roles will include the Count in _Le nozze di Figaro_, Valentin in _Faust_, and Ottokar in _Der Freischütz_. Last season, he sang his first performances of Don Giovanni with both Virginia Opera and Baltimore Concert Opera, Dr. Malatesta in _Don Pasquale_ with Opéra national de Montpellier, Dr. Falke in _Die Fledermaus_ with Palm Beach Opera, Tom Joad in _The Grapes of Wrath_ with Michigan Opera Theatre, Belcore in _L’elisir d’amore_ with Opera Las Vegas, and joined the Britten _Sinfonia_ for the world premiere of Joby Talbot’s cantata _A Sheen of Dew on Flowers_ at the Barbicon in London. 
 

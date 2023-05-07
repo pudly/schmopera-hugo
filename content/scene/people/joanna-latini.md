@@ -15,6 +15,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/joannalatini/"
 
+_template = "people_single"
 +++
 Soprano Joanna Latini, a New Jersey native, is quickly making a name for herself for her informed and passionate performances. Opera News hailed Ms. Latini “a generous performer \[with\] winning personality and a sound both luscious and supple, exuding charm\[.\]” Her professional experience ranges from Baroque opera to contemporary new works and musical theatre. In 2018, she was named a National Semi-Finalist in the Metropolitan Opera National Council Auditions.
 

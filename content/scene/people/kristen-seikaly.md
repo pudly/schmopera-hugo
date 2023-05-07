@@ -19,6 +19,7 @@ url = "https://twitter.com/KristenSeikaly"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/Seikaly22"
+_template = "people_single"
 +++
 
 Kristen Seikaly, mezzo-soprano, has been hailed as an “energetic” and “engaging

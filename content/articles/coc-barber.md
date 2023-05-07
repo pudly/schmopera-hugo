@@ -21,7 +21,9 @@ The Canadian Opera Company started off their 2020 with one of the biggest hits o
 
 To do so, Almaviva must bamboozle Bartolo, Don Basilio, Rosina herself, and the entire constabulary. Yes, it's a comedy. Yes, he succeeds. Yes, there's a wedding. Yes, they repeat what they say, _a lot_. #BelCanto
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579809926/media/2020/01/19-20-03-MC-D-0061_neel32.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1579809926/media/2020/01/19-20-03-MC-D-0061_neel32.jpg)
 
 <figcaption>Santiago Ballerini (Count Almaviva) in the Canadian Opera Company’s production of The Barber of Seville, 2020, photo: Michael Cooper.</figcaption>
 
@@ -31,7 +33,9 @@ To do so, Almaviva must bamboozle Bartolo, Don Basilio, Rosina herself, and the 
 
 As the eponymous barber, Figaro, [Vito Priante](/scene/people/vito-priante/) makes his COC debut in a role that come with quite a bit of history. It's a well-known pinnacle of the repertoire for the lyric baritone and Priante seems up to the task. Tall, charming, and affable from his first entry, his characterization was on point and was consistent from start to finish. This Figaro sang with a buoyant tone that jumped around the vocal range with ease and intricacy during the roulades and melismas.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579809960/media/2020/01/19-20-03-MC-D-0235_ppm8wp.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1579809960/media/2020/01/19-20-03-MC-D-0235_ppm8wp.jpg)
 
 <figcaption>Vito Priante (Figaro) in the Canadian Opera Company’s production of The Barber of Seville, 2020, photo: Michael Cooper.</figcaption>
 
@@ -45,7 +49,9 @@ Reprising his role of Bartolo from the 2015 production, Italian baritone Renato 
 
 Hitting all the big names in the opera canon, previously seen in Puccini and Verdi at the COC in 2019, bass-baritone Brandon Cedel checks Rossini off his list in his hilarious portrayal of Basilio, Rosina's music teacher. Cedel has a thick, rich, tone that is both booming and agile. His comic timing was on par with Griolami and their chemistry was great.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579809987/media/2020/01/19-20-03-MC-D-0583_ulhefs.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1579809987/media/2020/01/19-20-03-MC-D-0583_ulhefs.jpg)
 
 <figcaption>Emily D'Angelo (Rosina) and Vito Priante (Figaro) in the Canadian Opera Company’s production of The Barber of Seville, 2020, photo: Michael Cooper.</figcaption>
 
@@ -59,7 +65,9 @@ The real star of the night, in my opinon - as well as others it appears - is in 
 
 Unfortunately, the patter seemed to conquer the majority of the singers, Bartolo in particular, on the stage. Their agility in their melismatic passages didn't really translate to agility of diction - which is paramount to successful patter and especially so at these brisker tempi. With the exception of the ladies and Basilio, the majority of the singers seemed to have trouble with being heard outside the extremes of their ranges, even when the orchestration was at its sparsest. The ensemble singing seemed to struggle, and if we're going to choose to insert choreography into a show, it should be clean and clear, and committed.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579810008/media/2020/01/19-20-03-MC-D-1171_rbyklr.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1579810008/media/2020/01/19-20-03-MC-D-1171_rbyklr.jpg)
 
 <figcaption>Santiago Ballerini (Almaviva) and Emily D'Angelo (Rosina) in the Canadian Opera Company’s production of The Barber of Seville, 2020, photo: Michael Cooper.</figcaption>
 
@@ -73,7 +81,9 @@ The design was fun, if not confusing. Described by Font, this _Barber_ is not "s
 
 The costumes' colour scheme directed your mind to support some of the _commedia-dell-arte-via-school-of-clown_ choices in the characterizations (again very of-a-time), but seemed to make the colourless set  - oversized, rotating, pink grand piano/writing desk/bed/dais excluded - seem very out of place. Though they did amazingly, the choice to have a group of actors consistently working in and around the scenes as it the drama unfolds could have been a very powerful choice; but in this case it was distracting, especially during the recitativo passages (again at such a brisk tempo). As an audience, we're already splitting our focus between the stage and the surtitles - assuming you're not fluent in Italian.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579810057/media/2020/01/19-20-03-MC-D-1486_wdsnxg.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1579810057/media/2020/01/19-20-03-MC-D-1486_wdsnxg.jpg)
 
 <figcaption>(l-r) Emily D’Angelo (Rosina), Joel Allison (Fiorello), Santiago Ballerini (Count Almaviva) and Vito Priante (Figaro) in the Canadian Opera Company’s production of The Barber of Seville, 2020, photo: Michael Cooper.</figcaption>
 

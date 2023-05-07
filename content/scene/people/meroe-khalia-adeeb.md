@@ -19,6 +19,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCI0fsVrEr6m6awcUdlVFajQ"
 
+_template = "people_single"
 +++
 While pursuing a Sales & Marketing degree at Tuskegee University Ms. Adeeb realized that singing in the university choir would not sustain her love for performing after graduation. Her path led her to Louisiana State University where she began classical training and continued on to Binghamton University in New York for her Master’s degree. Two of her favorite roles performed are Violetta in _La traviata_ and Mimì in L_a bohème,_ both under the baton of Maestro Vlad Iftinka at Tri-Cities Opera. Another favorite has been singing the role of Clara in Po_rgy and Bess u_nder the baton of Maestro John Demain and the direction of Francesca Zambello at the Glimmerglass Festival.
 

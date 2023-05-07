@@ -39,7 +39,9 @@ If given enough time on a job, I will work for several days with the actors trai
 
 **Lennox**: I would say that for the artist themselves a serious hurdle is finding a qualified instructor with whom to train on a regular basis. There are a lot of qualified instructors, but there are a lot of areas in the world where none exist. Finding one in close proximity with whom you can regularly train can be a difficult hurdle.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452553638821/2016-01-11---John-Lennox.jpg.jpg)<figcaption>Dr. John Lennox. </figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452553638821/2016-01-11---John-Lennox.jpg.jpg)<figcaption>Dr. John Lennox. </figcaption>
 </figure>
 
 ## What challenges are unique to working with opera singers?
@@ -48,7 +50,9 @@ If given enough time on a job, I will work for several days with the actors trai
 
 **Lennox**: I’ve only worked on one opera. I was honored to be asked by Jacques Cappelle, the fight director for the National Opera of Brussels to create a fight for a production of Il Trovatore in 2012. He is a sword master and they needed a street fight. That is my specialty. I was in town for a workshop for Jacques’ academy, so I created that fight for him. The biggest challenge in working with opera singers in a street fight style combat scenario is that you cannot do anything that goes near the throat- for obvious reasons. Past that, I never had any more difficulty working with them than I have with other professional performers. They did what I asked and worked hard to make it look like I did when I showed them each move. I have heard plenty of stories about diva attitudes, but I personally never experienced that.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452475005220/2016-01-10---Meron-Fight-2.jpg.jpg)<figcaption> Meron Langsner choreographing LOVE HURTS, Malarkey Films' entry to the 2013 Boston 48 Hour Film Project</figcaption></figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452475005220/2016-01-10---Meron-Fight-2.jpg.jpg)<figcaption> Meron Langsner choreographing LOVE HURTS, Malarkey Films' entry to the 2013 Boston 48 Hour Film Project</figcaption></figure>
 
 ## What do you enjoy most about your work?
  

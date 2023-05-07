@@ -12,6 +12,7 @@ website = "http://thefriendsofgravity.org/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/thefriendsofgravity"
+_template = "company_single"
 +++
 
 Friends of Gravity: Big themes on a small scale!

@@ -18,6 +18,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/danielcabena"
 
+_template = "people_single"
 +++
 Canadian countertenor Daniel Cabena is highly regarded in both Canada and Europe for prize-winning performances ranging from baroque to contemporary repertoire.
 

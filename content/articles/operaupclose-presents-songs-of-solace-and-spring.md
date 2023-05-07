@@ -21,7 +21,9 @@ This spring, OperaUpClose invites all to join them for a coffee break in two min
 
 For the past 12 years, OperaUpClose have provided intimate re-workings of popular repertoire with updated and relevant English translations, as well as championed new repertoire and showcased up-and-coming British talent. Their aim has been to provide innovative performances to broad audiences across the country. Their newest project – the "Coffee Break Concerts" - are a harmonious transition to a virtual form of storytelling that feels like a real extension of that aim.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1618325344/media/2021/04/Fenton-Nanetta_Duet_2_yv31r6.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1618325344/media/2021/04/Fenton-Nanetta_Duet_2_yv31r6.jpg)
 
 <figcaption>A scene from OperaUpClose's "Coffee Break Concerts". Image courtesy of OperaUpClose.</figcaption>
 
@@ -33,7 +35,9 @@ The two concerts featured in the third season of their At Home series are based 
 
 _Episode 9: Shakespeare Re-Shaped_ interweaves well known arias from Verdi’s _Falstaff_, and Gounod’s _Romeo and Juliet_ (both with timely new English translations), art-song by Schubert and Finzi, and Shakespearean text, blending the three into a whole which feels greater than the sum of its parts, offering multiple interpretations of Shakespeare’s best-known texts.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1618580816/media/2021/04/Gallop_a_Pace_ugkamj.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1618580816/media/2021/04/Gallop_a_Pace_ugkamj.jpg)
 
 <figcaption>A scene from OperaUpClose's "Coffee Break Concerts". Image courtesy of OperaUpClose.</figcaption>
 
@@ -47,7 +51,9 @@ The highlight of the concert, however, was deaf actor Lara Steward’s performan
 
 Actor and writer Kat Rose Martin gave a recitation of "Could great men thunder…" from _Measure for Measure_ as well as a performance of an original text entitled "Ballad of the Voiceless". Both of these performances offered a uniquely feminine perspective and a much-needed contextualization of the forceful "Ford’s aria", performed earlier in the programme by Rodney Earl Clarke. The concert ended with a rousing round of Finzi’s "It was a lover and his lass" by all three singers to joyfully usher in the spring.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1618580836/media/2021/04/Verdi_-_Falstaff_2_jhreli.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1618580836/media/2021/04/Verdi_-_Falstaff_2_jhreli.jpg)
 
 <figcaption>A scene from OperaUpClose's "Coffee Break Concerts". Image courtesy of OperaUpClose.</figcaption>
 

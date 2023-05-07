@@ -16,6 +16,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/zarayrodriguezmezzosoprano/"
 
+_template = "people_single"
 +++
 Cuban-American Mezzo-Soprano Zaray Rodriguez is a Metropolitan Opera National Council District Winner and Regional Finalist. She has been praised for her mature artistry (Classical South Florida Review) and for her entrancing vocal production (Boston Music Intelligencer). Recently, Ms.Rodriguez was seen performing the role of Dinah in Bernstein’s iconic opera, _Trouble in Tahiti_. Other operatic performances include Cherubino in _Le nozze di Figaro_, Aunt Hannah Watkins in _Emmeline_, Florence Pike in _Albert Herring_, Federico Garcia Lorca in Ainadamar, Mezzo in _Hydrogen Jukebox_, L’enfant in _L’enfant et les Sortilèges_, and the title role of _Carmen_. 
 

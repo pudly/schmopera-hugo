@@ -11,6 +11,7 @@ title = "Peggy Kriha Dye"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/peggykrihadyeofficial"
+_template = "people_single"
 +++
 
 <p>

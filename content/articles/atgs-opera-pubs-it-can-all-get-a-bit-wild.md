@@ -24,7 +24,7 @@ One of those bold glances forward is in Against the Grain Theatre's Opera Pubs. 
 
 "My first experience of Opera Pub was in Oslo, Norway," recalls Ivany. "There's an Underwater Pub that is nautical-themed, but also, often it's transformed into Opera Pub where singers from the Norwegian National Opera join forces with singers at the Conservatory and sing arias, duets and ensembles in a very relaxed environment. The owner of the bar has only one rule: when they sing, you listen. If not, they ask you to leave the bar. It's such a fun, safe way to hear snippets (they do 15 minute sets) of awesome classical music and have a beer in hand."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474476771438/tkAFwm738zeUMAb1ad5QCPpd0GMBieNl8sE4SDVaE8UGYfboLwLawz1zIvQMX1V3IbrBe1uxgtYENt-SY50g_DVuoI6w%3Dw1360-h1360)<figcaption>AtG Music Director Christopher Mokrzewski at the piano with baritone [Brent Calis](/scene/people/brent-calis/) at an Opera Pub at the Royal Canadian Legion, Banff, AB, 2015.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474476771438/tkAFwm738zeUMAb1ad5QCPpd0GMBieNl8sE4SDVaE8UGYfboLwLawz1zIvQMX1V3IbrBe1uxgtYENt-SY50g_DVuoI6w%3Dw1360-h1360)<figcaption>AtG Music Director Christopher Mokrzewski at the piano with baritone [Brent Calis](/scene/people/brent-calis/) at an Opera Pub at the Royal Canadian Legion, Banff, AB, 2015.</figcaption>
 </figure>
 
 Now, Against the Grain Theatre is starting a **series of Opera Pubs at Toronto's Amsterdam Bicycle Club**; they'll happen on the first Thursday of each month, starting on October 13.
@@ -35,7 +35,7 @@ It's a simple idea, and one that could be a fantastic introduction for an opera 
 
 Ivany has seen the results for himself in Oslo, and more recently in Banff. "One of my most memorable Opera Pubs was hearing [Caitlin Wood](/scene/people/caitlin-wood/) singing an aria from *Giulio Cesare*," he says. "It was exciting, it was electric and the audience was cheering and clapping DURING the aria. It seemed that she was fueled by the energy and put it into each ornament. Was very cool."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474476867427/MoqdnW2NsNdpwXcGCwkttLdcS9LlC1mkBsEcSOgkVAVFoW0sf0bxHXQwN-03zr0LSt0At8x_-3TiSDzdwq_xr20w4vA%3Dw1360-h1360)<figcaption>Soprano Caitlin Wood and tenor [Pasquale d'Alessio](/scene/people/pasquale-dalessio/) at the Royal Canadian Legion, Banff, AB, 2015.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474476867427/MoqdnW2NsNdpwXcGCwkttLdcS9LlC1mkBsEcSOgkVAVFoW0sf0bxHXQwN-03zr0LSt0At8x_-3TiSDzdwq_xr20w4vA%3Dw1360-h1360)<figcaption>Soprano Caitlin Wood and tenor [Pasquale d'Alessio](/scene/people/pasquale-dalessio/) at the Royal Canadian Legion, Banff, AB, 2015.</figcaption>
 </figure>
 
 Singers take the opportunity to try out their musical theatre chops, their "stretch" arias, improvised duets, and gender reversal. "It can all get a bit wild," agrees Mokrzewski.

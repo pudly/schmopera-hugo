@@ -21,7 +21,9 @@ Readers, I'm pretty excited about the fact that all throughout September, you ca
 
 Marking OTSL's 46th season, [this year's Festival](https://opera-stl.org/streaming) offers up six productions to a safe-capacity crowd, including [_Gianni Schicchi_](https://opera-stl.org/gianni), [_La voix humaine_](https://opera-stl.org/voix), [_Highway 1, U.S.A._](https://opera-stl.org/highway), and three [world premieres](https://opera-stl.org/nwbv-lab). Additionally, the season features [_I Dream a World_](https://opera-stl.org/dream), OTSL's first-ever concert in honour of Juneteenth, and the annual Gerdine Young Artists showcase, [_Center Stage_](https://opera-stl.org/2021-outdoor-center-stage). Happily, the Festival has also gone digital, with the help of Once Films, and the 2021 season is available to stream in HD through September 30th. The streams are $30 each ($15 for students), or you can get a full pass for $130 ($50 for students).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631031208/media/2021/09/OTSL_IDAW_21_PressFinal-01_ht4ur1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1631031208/media/2021/09/OTSL_IDAW_21_PressFinal-01_ht4ur1.jpg)
 
 <figcaption>Rehanna Thelwell in I Dream a World, Opera Theatre of Saint Louis, 2021. Photo: Eric Woolsey.</figcaption>
 
@@ -29,7 +31,9 @@ Marking OTSL's 46th season, [this year's Festival](https://opera-stl.org/streami
 
 I intend to take it all in, and I'm particularly excited to experience Will Liverman and Nicole Cabell in a production together ([_Highway 1, U.S.A._](https://opera-stl.org/highway)). Plus, Patricia Racette's [Elle](https://opera-stl.org/voix) is an exciting thought.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631031290/media/2021/09/OTSL_H1_21_OD_PressFinal-01-min_dy2niz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1631031290/media/2021/09/OTSL_H1_21_OD_PressFinal-01-min_dy2niz.jpg)
 
 <figcaption>Will Liverman as Bob and Nicole Cabell as Mary, in William Grant Still's Highway 1, U.S.A., Opera Theatre of Saint Louis, 2021. Photo: Eric Woolsey.</figcaption>
 
@@ -37,7 +41,9 @@ I intend to take it all in, and I'm particularly excited to experience Will Live
 
 “It was important for us to document this exciting, albeit different season," said OTSL General Director Andrew Jorgensen in a press release. "Our outdoor festival was a fantastic success, but we could only accommodate 25% of our usual capacity. We cannot wait to share our season with the hundreds of supporters who were unable to attend."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631031348/media/2021/09/OTSL_LVH_21_PD_PressFinal-05_c1zgbn.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1631031348/media/2021/09/OTSL_LVH_21_PD_PressFinal-05_c1zgbn.jpg)
 
 <figcaption>Patricia Racette as Elle in Poulenc's La voix humaine, Opera Theatre of Saint Louis, 2021. Photo: Eric Woolsey.</figcaption>
 

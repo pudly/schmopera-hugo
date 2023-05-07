@@ -21,6 +21,7 @@ url = "https://twitter.com/highlandsopera"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/RichardMargisonTenor"
+_template = "people_single"
 +++
 
 Hailed for his ringing top notes and spine-tingling power, Canadian tenor Richard Margison is one of the most critically acclaimed singers on the international stage today. He performs regularly in many of the world’s leading opera houses including the Metropolitan Opera, La Scala, the Canadian Opera Company, the Royal Opera House, Covent Garden, the San Francisco Opera, the Théâtre Royale de la Monnaie in Brussels, the Sydney Opera and the Grand Teatro del Liceu in Barcelona.

@@ -15,6 +15,7 @@ url = "https://twitter.com/borgatone"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/borgatone/"
+_template = "people_single"
 +++
 
 icholas makes his Indie Opera T.O debut in MYOpera’s production of Benjamin Britten’s *The Rape of Lucretia* as Tarquinius. He will also star in the title role of *Eugene Onegin* with the Muskoka Opera Festival.

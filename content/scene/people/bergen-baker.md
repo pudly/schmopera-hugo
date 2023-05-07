@@ -11,6 +11,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/bergenbaker/"
 
+_template = "people_single"
 +++
 Hailed by the Star Tribune as having a “fetching blend of grace, warmth and humor on stage,” soprano Bergen Bakerhas been a featured performer with local companies such as Minnesota Opera, The Minnesota Orchestra, Skylark Opera Theatre, Lakes Area Music Festival as well as many operatic and symphonic companies across the country.  Currently, she is the Managing Director and a frequent performer for LOFTrecital (loftrecital.org), a Minneapolis arts organization bringing unique musical experiences to unconventional spaces.
 

@@ -17,6 +17,7 @@ url = "https://www.facebook.com/RebeccaSjowallSoprano"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/sangerska"
+_template = "people_single"
 +++
 
 Born and raised in Wisconsin, Rebecca Sjöwall has been lauded for her dramatic power as an actress ("electrifying," "striking," "a joy to watch") with a voice described as "luscious," "beautifully crisp," and "a powerhouse." Of her recent role debut with Nashville Opera as Mrs. P in Nyman's *The Man Who Mistook His Wife for a Hat*, ArtsNash declared, "Her climactic singing scream of 'Philistine!' at Dr. S is one of the most electrifying moments I've experienced in more than 40 years of attending live opera and theater performances."

@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Carla-Huhtanen/166916623322736"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CarlaSoprano"
+_template = "people_single"
 +++
 
 <p>

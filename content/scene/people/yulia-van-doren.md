@@ -13,6 +13,7 @@ website = "http://www.yuliavandoren.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/yuliavandoren"
+_template = "people_single"
 +++
 
 Recognized by *Opera* as “a star-to-be” following her Lincoln Center debut, young Russian-American soprano Yulia Van Doren’s debut with the Toronto Symphony Orchestra was acclaimed as a “revelation… a ravishing lyric voice and an ease with vocal ornamentation that turned her into an enchanted songbird” (*Toronto Star*). For her last minute step-in with the Cleveland Orchestra, the Cleveland Plain Dealer praised Van Doren as an artist of “melting poignancy” and added, “To Van Doren, one could easily have listened for hours.”

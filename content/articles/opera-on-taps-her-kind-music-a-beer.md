@@ -16,7 +16,9 @@ Hildegard von Bingen, that ever-relevant 11th-century saint, who was an author, 
 
 The sopranos are Elena Armijo, [Kacey Cardin](/scene/people/kacey-cardin/), [Chelsea Feltman](/scene/people/chelsea-feltman/), Cameron Russell and Krista Wozniak, singers with strong and polished voices, each having a distinct quality that was revealed throughout the evening. Fortunately they are also versatile, which is vital, considering the assortment of music and texts involved. Music director Mila Henry showed that she shared this talent to adapt with supportive accompaniment at the piano from which she also conducted.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525045416815/DSC_6952_preview.jpeg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525045416815/DSC_6952_preview.jpeg)
 <figcaption>Elena Armijo, Krista Wozniak, Mila Henry (at piano), Chelsea Feldmann, Cameron Russell, and Kacey Cardin perform "She Was Warned" by Catherine Aks. *Her Kind*, Opera On Tap, 2018. Photo: Laura Thompson.</figcaption>
 </figure>
  
@@ -24,13 +26,17 @@ The sopranos are Elena Armijo, [Kacey Cardin](/scene/people/kacey-cardin/), [Che
 
 Janet Cardiff's audio installation, *The Forty Part Motet*, came to mind. Installed a few years ago at The Cloisters, the Metropolitan Museum of Art's medieval branch, it consisted of forty high-fidelity speakers arranged in a spacious oval, each emitting a voice of a Thomas Tallis motet. Here, the vocal blend took on a similar technological air, a subtle yet visceral reminder of Hildegard's enduring presence that grabbed the audience.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525045784338/DSC_6855_preview.jpeg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525045784338/DSC_6855_preview.jpeg)
 <figcaption>Elena Armijo and Kacey Cardin sing Hildegard von Bingen. *Her Kind*, Opera On Tap, 2018. Photo: Laura Thompson.</figcaption>
 </figure>
 
 Then came a number that can best be described, in cabaret terms, as a change of pace. The singers raised their veils and three of them, Elena, Krista and Cameron (the printed program put us on a first-name basis with the company) accompanied by Mila, performed "The Cooking Trio" from the Okoye/Cote opera, *We've Got Our Eye On You*. Close, comical harmony coupled with seductive energy and rollicking piano work, did not salvage this remedially rhymed tune. The energy of the singers might have been better utilized had they tapped into the kitschy verve of the Andrews Sisters and applied it to Stephen Sondheim's earlier song of similar sentiment, "A Little Priest."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525045446595/DSC_6905_preview.jpeg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525045446595/DSC_6905_preview.jpeg)
 <figcaption>Chelsea Feltman speaks Sappho's poem, "Fragment 31". *Her Kind*, Opera On Tap, 2018. Photo: Laura Thompson.</figcaption>
 </figure>
 
@@ -40,7 +46,9 @@ Chelsea and Krista gave Sappho's poem about her love for another woman, "Fragmen
 
 Anne Sexton's confessional poetry, "Her Kind," with music by Christopher Berg and Gilda Lyons' setting of "Seven Times," received poignant renditions by Krista and Chelsea respectively. Dorothy Parker's "The Red Dress," an enigmatic poem set by Ricky Ian Gordon, was sung with a tart wistfulness by Kacey who was so quietly compelling in "Inhibitionist." This is a work with music and lyrics by Rachel Peters that especially rewarded our close attention. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525045601369/DSC_6962_preview.jpeg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525045601369/DSC_6962_preview.jpeg)
 <figcaption>Elena Armijo sings “Mae West” from the cycle *Preach Sister, Preach* by Evan Mack. *Her Kind*, Opera On Tap, 2018. Photo: Laura Thompson.</figcaption>
 </figure>
 
@@ -48,7 +56,9 @@ Lyons' deeply felt composition for Elizabeth Cunningham's exquisite "Prayer," re
 
 Perhaps at this point it is appropriate to mention U.S. Senate majority leader and accidental lyrist, Mitch McConnell. Catherine Aks has composed a song in the form of Gregorian chant that enshrines McConnell's admonishment of Senator Elizabeth Warren and her filibuster on Jeff Sessions' Attorney General nomination. "She was warned, she was given an explanation but she persisted," sang the company with glorious gravity and satiric edge. One day it may become the first campaign song in the style of a Gregorian chant.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525045617397/DSC_7221_preview.jpeg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525045617397/DSC_7221_preview.jpeg)
 <figcaption>Krista Wozniak, Chelsea Feltman, and Cameron Russell perform *In Twenty Minutes* by Frances Pollock. *Her Kind*, Opera On Tap, 2018. Photo: Laura Thompson.</figcaption>
 </figure>
 

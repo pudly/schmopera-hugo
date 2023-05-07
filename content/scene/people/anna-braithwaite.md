@@ -23,6 +23,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/annabraithwaitemusic/"
 
+_template = "people_single"
 +++
 A classically trained singer, cabaret artist and composer, Anna Braithwaite's work is distinctly theatrical in nature, thought- provoking, humourous and unexpected.
 

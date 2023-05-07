@@ -16,6 +16,7 @@ url = "https://www.facebook.com/RobertMcPhersonTenor/?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/RobMcTenor"
+_template = "people_single"
 +++
 
 Hailed by the New York Times for his “robust voice, agility and confidence,” Robert McPherson returns to English National Opera for Nadir in *Les pêcheurs de perles* as well as to the roster of the Metropolitan Opera for its production of Fidelio in the 2016-17 season. Future seasons see further returns to the Metropolitan Opera for performances. Last season, he returned to Opera Vlaandaren for his first performances of Gernando and Ubaldo in Rossini’s *Armida*, New Israeli Opera for Nadir in *Les pêcheurs de perles*, and Utah Opera for Camille in *The Merry Widow*. He also made his Metropolitan Opera debut as Basilio in *Le nozze di Figaro* and, in his home state of Washington, sang Nemorino in *L’elisir d’amore* with Vashon Opera. 

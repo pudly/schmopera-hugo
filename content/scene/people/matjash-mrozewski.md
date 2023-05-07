@@ -13,6 +13,7 @@ website = "https://www.matjash.com/"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/matjashmrozewski/"
+_template = "people_single"
 +++
 
 Matjash Mrozewski is a Toronto-based choreographer and director with an international career.

@@ -17,6 +17,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/kaceycardincoaching/"
 
+_template = "people_single"
 +++
 Hailed as an artist of "…remarkable stage presence and unfettered emotional expression", Kacey Cardin is recognized for her vibrant vocalism and dramatic intensity. A versatile singer-actress, her voice shines in operatic, musical theater, and soul repertoire.
 

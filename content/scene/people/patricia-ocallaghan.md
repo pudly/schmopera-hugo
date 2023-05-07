@@ -21,6 +21,7 @@ url = "https://twitter.com/tdogocallaghan"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/patricia_ocallaghan/"
+_template = "people_single"
 +++
 
 Patricia O’Callaghan is something of a wandering minstrel. Her fifteen-year career has taken her across genres, continents, and a range of disciplines and passions.

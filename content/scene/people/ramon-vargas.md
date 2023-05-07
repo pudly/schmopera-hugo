@@ -12,6 +12,7 @@ website = "http://www.ramonvargas.com/e/index.html"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/Ram%C3%B3n-Vargas/104010332969865?rf=115153995165648"
+_template = "people_single"
 +++
 
 Ramón Vargas is one of the leading tenors of our time and one of the most sought-after worldwide.

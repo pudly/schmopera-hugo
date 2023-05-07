@@ -14,7 +14,9 @@ title = "&quot;Viva la operetta!&quot;"
 
 For someone who knows virtually nothing about mariachi (like this reviewer), the production of *Cruzar La Cara De La Luna* was an eye-opening experience. It was a chance to not only hear, for the first time, the most famous mariachi band in the world ([Mariachi Vargas De Tecalitlan](https://www.youtube.com/watch?v=8NWSWg7c0Ec)), but a chance to see that mariachi, as a genre, can sustain a lovely and poignant book musical. Commissioned by and premiered at Houston Grand Opera in 2010, this is the Los Angeles premiere of the work (for one weekend only at the Younes and Soraya Nazarian Center for the Performing Arts, formerly the Valley Performing Arts Center on the campus of CSUN.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519092378932/LUQ_7981.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519092378932/LUQ_7981.jpg.jpg)
 <figcaption>(left to right) Jonathan Arana (Rafael), Natalia Ferreiro (Diana).</figcaption>
 </figure>
 
@@ -28,14 +30,18 @@ Laurentino is dying in his home in Texas, and in his delirium he remembers the l
 
 Through a series of flashbacks we learn that Laurentino, like many other laborers, had to leave his village for long periods of time to find work "up north" in the fields of the U.S. His wife, Renata (Alba Franco-Cancel) sings about the fact that the village has lost all of its men to immigration and she mourns the fact that, "We are widows and we can't even bury our dead." In fact, Laurentino has been gone almost an entire year when Renata, with their son Rafa in tow, decides to take the perilous journey of illegal immigration to join her husband. Pregnant, the trip proves to be too much for her and she dies in the desert. Rafa is returned to Mexico and he disappears.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519092388443/LUQ_7787.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519092388443/LUQ_7787.jpg.jpg)
 <figcaption>(left to right) Daniel Rodríguez (Laurentino), Jonathan Arana (Rafael).</figcaption>
 </figure>
 
 Flash forward again to the present and Mark's daughter, Diana (Natalia Ferreiro), makes it her mission to find Rafa and reunite him with his dying father and thereby hangs the plot, told in past and present tense.
 Gregorio Gonzalez (as Mark) sets the stage and the story. He sings the first song of the evening with his striking voice, accompanying himself solo on a simple guitar. "On Fragile Wings", about the migration of the monarch butterfly (from Mexico to Northern California and back again), is an important metaphor that carries through the whole evening. As a boy, Laurentino (played by Daniel Rodriguez, whose singing and acting proves to be the dramatic anchor of the evening) watched the monarchs come to his village every year and dreamed of flying away with them free to the north. Though the monarchs return to Mexico every year, Laurentino, like many immigrants, finds himself stuck in the north and unable to come back. (Director Guerrero effectively uses computer-generated butterfly images throughout the operetta.) As the lyrics go, "only monarchs can cross the face of the moon" and thus the inspiration for the title of the show.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519092401109/LUQ_7675.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519092401109/LUQ_7675.jpg.jpg)
 <figcaption>(left to right) Daniel Mora (Victor), Jesus Martinez (Young Rafael), Alba Franco-Cancél (Renata).</figcaption>
 </figure>
 
@@ -47,7 +53,9 @@ His wife's best friend, Lupita, is played by Suzanna Guzman, long-time Los Angel
 
 As mentioned, the evening is focused on the mariachi tradition of the male voice and so there are two riveting duets between some of the men. Mark and Rafa (tremendous tenor Jonathan Arana) are brothers, but struggle with the concept of calling one another on the phone ("Numbers") because they've never met. Later on during the reunion of Laurentino and Rafa, we're treated to the combination of beauty and loss in the song "Your Mother's Eyes" as they sing of Renata, their long-dead wife and mother respectively.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519092411915/LUQ_7398.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519092411915/LUQ_7398.jpg.jpg)
 <figcaption>(left to right) Suzanna Guzmán (Lupita), Alba Franco-Cancél (Renata), Daniel Rodríguez (Laurentino), Juan Mendoza (Chucho.</figcaption>
 </figure>
 

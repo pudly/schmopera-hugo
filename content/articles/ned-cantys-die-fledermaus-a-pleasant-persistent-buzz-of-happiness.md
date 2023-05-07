@@ -18,7 +18,9 @@ title = "Ned Canty&#039;s Die Fledermaus: &quot;A pleasant, persistent buzz of h
 
 Hm. I'm not sure I can answer that question, as I would say there is a bit of an implied value judgment in it.  Does something "crowd-pleasing" make it "fluff", which sounds like it is somehow of less value? Certainly my primary goal is to give the audience a wonderful experience, but that is true of serious works I direct as well, not just comic ones. I also believe that joy and delight can be as cathartic as death and despair.  Maybe I should just say nobody dies?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500141279198/2017-07-15---SFO-Orlofsky.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500141279198/2017-07-15---SFO-Orlofsky.jpg.jpg)
 <figcaption>Susan Graham (Prince Orlofsky) and the Santa Fe Opera Chorus. Photo credit: Ken Howard for Santa Fe Opera, 2017.</figcaption>
 </figure>
  

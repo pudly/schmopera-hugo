@@ -25,6 +25,7 @@ url = "https://www.instagram.com/tami727/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/playlist?list=PLHwP4fYgVWvjOBodTNP9P0RkkNPpAv5z0"
+_template = "people_single"
 +++
 
 American mezzo-soprano TAMARA GURA is rapidly establishing herself as one of the most exciting mezzos of her generation, having garnered international attention for her velvety, warm-timbred voice; clear, precise coloratura; and dynamic stage presence.

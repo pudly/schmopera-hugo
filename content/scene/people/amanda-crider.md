@@ -21,6 +21,7 @@ url = "https://www.instagram.com/ajcmezzo/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/GSStarr1"
+_template = "people_single"
 +++
 
 Praised for her "focused golden toned voice," American mezzo-soprano Amanda Crider is quickly gaining recognition for her extraordinary musicality and assured dramatic presence. The 2015-2016 season sees her return to Eugene Opera as Olga in *Eugene Onegin*, her debut with Florentine Opera as Prince Orlovsky in *Die Fledermaus*, Alma in *Persona* with Beth Morrison Projects, a series of concerts with Seraphic Fire, and Handel's *Messiah* with Augustana College. In the 2016-2017 season, she made her debut with Boston Lyric Opera as Doreen in *Greek*, and joined Apollo's Fire for Handel's *Messiah* and the Southwest Michigan Symphony for Beethoven's Ninth Symphony. Engagements for 2017-2018 include singing in recital with the 5 Boroughs Music Festival, Alma in *Persona* with LA Opera, Handel's *Messiah* with the Jacksonville Symphony, Angelina in *La Cenerentola* with Opera Orlando, and Speranza in *L'Orfeo* with Apollo's Fire.

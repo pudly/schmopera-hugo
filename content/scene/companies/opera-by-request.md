@@ -16,6 +16,7 @@ url = "https://www.facebook.com/OperaByRequest"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/OperaByRequest"
+_template = "company_single"
 +++
 
 <p>

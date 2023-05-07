@@ -22,7 +22,9 @@ American baritone [Christian Bowers](/scene/people/christian-bowers/) is mid-run
 
 "That stuff doesn't bother me," he says of the ancestry of baritones like Robert Massard, Samuel Ramey, and Dmitri Hvorostovsky who have sung the role. Bowers is aware of the "build-up for this character" that's written into Bizet's score, and how the anticipation centres on Escamillo's very first notes. "It reminds me a lot of *Barber*, actually," he says of the "entrance aria" formula that Escamillo shares with Figaro. Yet instead of comparing himself to his predecessors, Bowers has a simpler plan: "If you just own the character and go out there and have fun, the audience will have fun."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476185844751/2016-10-11---Carmen-Utah.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476185844751/2016-10-11---Carmen-Utah.jpg.jpg)
 <figcaption>Bowers with Elise Quagliata in Utah Opera's production of *Carmen*. Photo courtesy of Utah Opera.</figcaption>
 </figure>
 
@@ -44,7 +46,9 @@ It's a hard thing to prepare for, but perhaps the biggest surprise for singers i
 
 "As I talk with my fellow singers, it's not necessarily something that you choose to do," he says of the tough career. "It's a vocation that chooses you." Despite the rampant rejection and seemingly endless training that comes with the career, Bowers insists, "I can't live without doing this."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476185879394/2016-10-11---LITTLEPRINCE.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476185879394/2016-10-11---LITTLEPRINCE.jpg.jpg)
 <figcaption>Bowers in Washington National Opera's *The Little Prince*. Photo by Scott Suchman.</figcaption>
 </figure>
 
@@ -58,7 +62,9 @@ When he visit home, Bowers reconnects with family and school friends, and he can
 
 "There are a lot of times when I'm in an empty hotel room, and I'm looking at Facebook and I'm seeing you with pictures of your kids, the pictures of your house and the garden you planted," he explains. "All my stuff's in my room that I grew up in, and I live out of a suitcase or two for five weeks at a time."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476185926350/2016-10-11---Glimmerglass-KarliCadel-Tragedy.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476185926350/2016-10-11---Glimmerglass-KarliCadel-Tragedy.jpg.jpg)
 <figcaption>Bowers in Glimmerglass Opera's production of *An American Tragedy*. Photo by Karli Cadel/The Glimmerglass Festival.</figcaption>
 </figure>
 

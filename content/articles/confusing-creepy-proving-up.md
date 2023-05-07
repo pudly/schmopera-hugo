@@ -16,7 +16,9 @@ title = "Confusing &amp; creepy: Proving Up"
 
 The set for *Proving Up* was both intimate and striking. Scenic designer Adam Rigg has constructed a makeshift barn-like structure in the KANEKO art gallery with a long trough of dirt as the stage. It is an appropriate focal point since the plot revolves around the concept of land ownership. Everyone is fighting and struggling for a patch of dirt to call their own, and every member of the cast interacts with the dirt throughout the opera. I can only assume that the entire cast has to hose off after each performance because every single one of them was covered in some combination of dirt, blood, and various beverages by the end of the show.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897751669/OmahaOne180409ProvingUp.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897751669/OmahaOne180409ProvingUp.jpg.jpg)
 <figcaption>*Proving Up*, Opera Omaha, 2018. Photo: James Matthew Daniel.</figcaption>
 </figure>
 
@@ -34,7 +36,9 @@ The older brother, Peter Zegner, played by Sam Shapiro, was a rather thankless r
 
 Miles Zegner is the youngest brother and appears to be the least downtrodden of the family. Michael Slattery sang the role with an air of innocence tainted by uncertainty. It was in the second half of the opera during his journey to deliver the window of glass to some neighbors that the character develops more complexity. Slattery's vocals finally got a chance to shine in his final dramatic scene, facing his own mortality and asking desperately, "What makes a home? Who owns the land?" No one answers him.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897737128/OmahaOne180411ProvingUp6557.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897737128/OmahaOne180411ProvingUp6557.jpg.jpg)
 <figcaption>*Proving Up*, Opera Omaha, 2018. Photo: James Matthew Daniel.</figcaption>
 </figure>
 

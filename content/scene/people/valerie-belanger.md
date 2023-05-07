@@ -16,6 +16,7 @@ url = ""
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/valeriebsoprano?ref_src=twsrc%5Etfw"
+_template = "people_single"
 +++
 
 Known for her warm tone and her dramatic verve, French-Canadian soprano Valérie Bélanger is very active on the Montreal operatic and concert scenes.  She recently was lauded for her interpretation of Atalanta in Opera da Camera’s daring production of Händel’s *Xerxès*.  During the previous seasons, the soprano sang regularily with the up-and-coming company, interpreting Noémie in Massenet’s *Cendrillon* in February 2014 and making her debut as Susanna in their inaugural production of *Le Nozze di Figaro* in 2013. In the recent years, Ms. Bélanger also worked with Opéra-Théâtre  de Rimouski, singing in the Canadian première of Adolphe Adam’s *Le Postillon de Longjumeau* (Madeleine), as well as in Gluck’s *Orphée et Eurydice* (L’Amour).  With Opéra de Québec, she was Gertrude in the Quebec City Opera Festival’s production of Nelligan, and with Jeunesses Musicales du Canada, she toured across the country as the spunky Adina in *L’Elisir d’amore*. 

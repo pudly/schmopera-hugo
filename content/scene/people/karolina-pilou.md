@@ -9,6 +9,7 @@ related_companies = ["scene/companies/loftopera.md","scene/companies/the-metropo
 slug = "karolina-pilou"
 title = "Karolina Pilou"
 website = "http://www.karolinapilou.com/"
+_template = "people_single"
 +++
 
 Greek mezzo-soprano, Karolina Pilou, is quickly establishing herself as an exciting young dramatic mezzo-soprano to look out for. She has sung the roles of Azucena in Verdi’s *Il Trovatore* in London, Zita in Puccini’s *Gianni Schicchi* in Tel Aviv and Older Woman in J.Dove’s *Flight* with the British Youth Opera (cover show). She also sang the role of Mistress Quickly in Verdi’s *Falstaff* (Mannes Opera and Aspen Music Festival). Most recently she sang the role of the Marquise de Berkenfield in *La Fille du Régiment* with the Martina Arroyo Foundation, a performance for which the Observer proclaimed her “Eminently ready for prime time …” In September 2015 she was the mezzo-soprano soloist for Loft Opera’s Verdi in Concert (Summer Sessions) and in early 2016 she will be making her role debut as Arsace in Rossini’s *Semiramide* with Empire Opera in New York and later in the year she can also be heard singing the contralto role of Morna in the revival of Pacini's Opera "Malvina di Scozia" with The Vertical Players Repertory in New York . 

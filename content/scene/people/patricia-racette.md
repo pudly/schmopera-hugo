@@ -18,6 +18,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/patriciaracette"
 
+_template = "people_single"
 +++
 Soprano Patricia Racette has appeared in the most acclaimed opera houses of the world including the Metropolitan Opera, San Francisco Opera, Lyric Opera of Chicago, Canadian Opera Company, Royal Opera House, La Scala, Paris Opera, Theater an der Wien, Gran Teatro del Liceu, and the Bayerische Staatsoper. Established as a great interpreter of Janáček and Puccini, she has gained particular acclaim for her portrayals of the title roles of Madama Butterfly, Tosca, Jenufa, Kátya Kabanová, and all three lead soprano roles in _Il Trittico_. Her repertory now expands to include triumphant portrayals of Strauss’s Salome, Minnie in _La Fancuilla del West_, Katerina in _Lady Macbeth of Mtsensk_, Magda in Menotti’s _The Consul_, Anna Maurrant in _Street Scene_, Kostelnička in _Jenufa_, and Elle in _La voix humaine_. In the fall of 2019, she will add to this list Sister Helen in Jake Heggie’s _Dead Man Walking_ which she performs at the Lyric Opera of Chicago. She has been a favorite on The Met: Live in HD series as both leading lady in _Madama Butterfly_, _Tosca_, and _Peter Grimes_ as well as the celebrated host for multiple other productions.
 

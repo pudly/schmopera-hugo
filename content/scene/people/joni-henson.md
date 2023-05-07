@@ -12,6 +12,7 @@ website = "http://www.jonihensonsoprano.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/saultsop"
+_template = "people_single"
 +++
 
 <p>

@@ -19,5 +19,7 @@ It's an extremely personal way of presenting music of the traditional recital ca
 
 Fenlon will tour *Liebesbotschaft* through London, Paris, Berlin and Oslo, and she'll first offer a preview performance in Toronto. You can hear her on **June 17, at 8pm** at Gallery 345, 345 Sorauren Ave. Tickets start at $20, and they're available [right here](http://gallery345.com/performances.php#june17).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465965504813/2016-06-15---Fenlon-Poster.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465965504813/2016-06-15---Fenlon-Poster.jpg.jpg)
 </figure>

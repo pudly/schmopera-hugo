@@ -25,7 +25,9 @@ Recently, I went to see an opera, and the people in front of me spent whole firs
 
 It makes me think of that time Dylan Moran called out a phone-camera-wielder at one of his shows: "Would you please stop taking pictures on your tiny annoying fucking camera. This is happening to you in real time, you are having the experience. It's not much point to verify that you were at the event when you're actually here."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447898834726/2015-11-19---PhoneAddiction.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447898834726/2015-11-19---PhoneAddiction.jpg.jpg)
 </figure>
 
 I think that goes for using your phone during a live show, in general. I've gone to shows without my notebook, and instead used my phone, but I hate doing it because I can't watch the show while I type, and I get dirty looks from people who think I'm texting. So, maybe all the people who are fiddling with their phones in the dark are actually taking notes so they can blog about the show. Benefit of the doubt. Honestly, though, if you're checking your Facebook, sending a text, checking the time, can't it wait until later? I mean, *look up, for goodness sakes!* There are artists doing the thing they've trained to do their whole lives, right in front of you! Look at them!

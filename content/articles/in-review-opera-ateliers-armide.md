@@ -20,7 +20,9 @@ So, I came into [Opera Atelier](/scene/companies/opera-atelier/)'s *Armide*, an 
 
 Earlier this month I spoke with Opera Atelier Co-Artistic Director [Marshall Pynkoski](http://operaatelier.com/about/creative-team/), who said, "love can be something that saves people or destroys people. Love is amoral. Love cuts through like a knife – anyone in love is cut open. Love is more powerful than hate, but that doesn’t mean it’s a happy ending."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446310008531/2015-10-30---OAArmide2---Bruce-Zinger.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446310008531/2015-10-30---OAArmide2---Bruce-Zinger.jpg.jpg)
 <figcaption>The company of *Armide*. Photo by Bruce Zinger.</figcaption>
 </figure>
 
@@ -30,7 +32,9 @@ Other highlights for me were sopranos [Carla Huhtanen](/scene/people/carla-huhta
 
 Under choreographer and Co-Artistic Director [Jeannette Lajeunesse Zingg](http://operaatelier.com/about/creative-team/), the artists of the Atelier Ballet were beautifully shown off in this production. Surrounded the by bright, saturated colours of Gerard Gauci's sets, the ballet took a primary role in *Armide*, including a stunning performance by Tyler Gledhill as Amour.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446309955163/2015-10-30---OAArmide3---Bruce-Zinger.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446309955163/2015-10-30---OAArmide3---Bruce-Zinger.jpg.jpg)
 <figcaption>Tyler Gledhill (Love) and Colin Ainsworth (Renaud). Photo by Bruce Zinger.</figcaption></figure>
 
 I've seen a fair amount of Opera Atelier productions over the years, and like any OA-goer, I've noticed the consistencies from one show to another. Pynkoski and Lajeunesse Zingg maintain an aesthetic in their productions, and in this *Armide*, it pulled me out of what was an earthy, human story from Lully. The theatrical gestures start to lose their (very real, yet very old) meaning, and I started noticing them as gesture-by-number. In the same vein, it's also not the first time OA has had people running across the stage with floating arms, or two characters sharing a downstage bench, turning their backs to each other.

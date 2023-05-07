@@ -19,7 +19,9 @@ Caballero heads next to Michigan to sing her first [Verdi *Requiem*](http://www.
 
 "I'm always going to sing with my voice, the only thing that will change is the style," she explains. "I'm going to sing Mozart the same way that I'm going to sing Puccini, just the style will be different. I'll sing Puccini the same way that I'll sing Verdi, or Monteverdi. I'm still using the same voice. There's no 'Mozart voice,' there's no 'Verdi voice.'"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445898347022/unnamed-1-706x1030.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445898347022/unnamed-1-706x1030.jpg.jpg)
 <figcaption>Elizabeth Caballero as Donna Elvira in *Don Giovanni* at Lyric Opera of Kansas City, 2015.</figcaption>
 </figure>
 
@@ -31,7 +33,9 @@ Next month Caballero will revisit a favourite role in Opera Coeur d'Alene's prod
 
 "All these singers, that we all study nowadays, they would sing everything, whether it was right for them or not. They would sing Wagner one night, and then sing Mozart the next, or Bellini the next. Maria Callas is known for doing that. Whether it's right to do or not, I don't think it's right for us to judge. I think it's up to the singer to make that decision." Caballero maintains that great singers "should be able to sing anything, just sing it with your instrument." 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445898504658/011-1030x832.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445898504658/011-1030x832.jpg.jpg)
 <figcaption>As Cio-Cio San in *Madama Butterfly* at Lyric Opera of Kansas City, 2012. Photo by Cory Weaver.</figcaption>
 </figure>
 
@@ -41,7 +45,9 @@ It's true that she gets some fantastic characters to play, but these same roles 
 
 She works regularly across the United States, in regional opera houses like Opera Grand Rapids, and at the big "work horse" companies like [The Metropolitan Opera](/scene/companies/the-metropolitan-opera/). I was curious about the difference in process and experience for working singers, and Caballero admits to enjoying the intimacy of smaller houses. "You have donors that really participate with you, and they pick you up at the airport, and you go to these parties and you meet them, and this and that." She gets that houses like the Met produce high quantity as well as quality. "There's a bit of a more warm and fuzzy feeling when you do go to these regional houses, as opposed to these bigger places that are there to just get operas together and get it going."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445898557453/042-685x1030.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445898557453/042-685x1030.jpg.jpg)
 <figcaption>As Micaëla in *Carmen* at Central City Opera, 2011. Photo by Kira Horvath.</figcaption>
 </figure>
 

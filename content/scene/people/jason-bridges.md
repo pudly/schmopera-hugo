@@ -8,6 +8,7 @@ related_companies = ["scene/companies/opra-national-de-paris.md","scene/companie
 slug = "jason-bridges"
 title = "Jason Bridges"
 website = "http://www.jasonbridges.com/"
+_template = "people_single"
 +++
 
 Jason is establishing himself as an internationally renowned young tenor. Born in Pennsylvania, he began his musical training at the Eastman School of Music in Rochester, NY. He continued his education at the Royal Conservatoire of Scotland in Glasgow on the MMus Opera Masters program. There, Jason was awarded the International Scholarship for Opera Singers. Vocal instructors throughout his studies include Seth McCoy, Dale Moore, Peter Alexander Wilson and Nicolai Gedda.

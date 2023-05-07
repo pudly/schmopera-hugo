@@ -17,6 +17,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Muse9Production"
 
+_template = "company_single"
 +++
 We are a Multi-disciplinary Music Theatre production company based in Toronto, Canada. 
 

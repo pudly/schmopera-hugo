@@ -23,7 +23,9 @@ Tapestry Opera dove into 2019 headfirst with some very timely subject matter. _
 
 _Hook Up_ is the first commission issued by Artistic Director Michael Hidetoshi Mori and the score by Thornborrow was a treat. When you walk into a new work, certain tropes and stereotypes come to mind. _Hook Up_ bucks all those trends. With an orchestration and sensibility that definitely landed further on the musical theatre side of the spectrum, and it did so in the best way possible. It was at times Sondheim, at times Schwartz, at times Bernstein, but the overarching feeling (_to me_) was akin to Adam Guettel's masterpiece _A Light in the Piazza._ It calls for what I like to refer to as "contemporary legit" singing, which (using female examples) is an amalgam of the older school "legit" (think Julie Andrews) and "contemporary" (think Idina Menzel). It's a remarkably expressive timbre of singing (think Kelli O'Hara or Audra MacDonald).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549040600/media/2019/02/HookUp-photobyDahliaKatz-9188.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1549040600/media/2019/02/HookUp-photobyDahliaKatz-9188.jpg)
 
 <figcaption>Hook Up, Tapestry Opera/Theatre Passe Muraill, 2019. Photo: Dahlia Katz.</figcaption>
 
@@ -39,7 +41,9 @@ As Cindy, Mindy's best friend, Alexis Ault was a treasure. Her spunky character 
 
 Speaking of Tyler, Mindy's high-school boyfriend, Carroll was everyone's boyfriend - flaws and all. You really felt his love for Mindy and his conflict with wanting to experience more beyond that. His voice was delightful as well! An open tenor with surprising range, his chemistry with Lukasik was fantastic, even if his response to what happens to Mindy is less than stellar.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549040547/media/2019/02/HookUp-photobyDahliaKatz-8973.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1549040547/media/2019/02/HookUp-photobyDahliaKatz-8973.jpg)
 
 <figcaption>Hook Up, Tapestry Opera/Theatre Passe Muraill, 2019. Photo: Dahlia Katz.</figcaption>
 
@@ -53,7 +57,9 @@ The standout for me had to be Alexis Gordon, playing multiple roles from Mom, to
 
 All I'm saying is: I heard belting in a show produced by a company with opera in its name and I'm HERE FOR IT. #LIVING
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549040493/media/2019/02/HookUp-photobyDahliaKatz-8889.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1549040493/media/2019/02/HookUp-photobyDahliaKatz-8889.jpg)
 
 <figcaption>Hook Up, Tapestry Opera/Theatre Passe Muraill, 2019. Photo: Dahlia Katz.</figcaption>
 

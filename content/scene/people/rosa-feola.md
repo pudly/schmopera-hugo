@@ -16,6 +16,7 @@ url = "https://www.facebook.com/RosaFeolaSoprano/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/rosafeolasinger"
+_template = "people_single"
 +++
 
 Rosa Feola came to international attention after winning multiple awards including Second Prize, The Audience Prize and the Zarzuela Prize at the Plácido Domingo World Opera Competition (2010).

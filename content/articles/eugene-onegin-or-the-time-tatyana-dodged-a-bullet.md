@@ -18,7 +18,9 @@ title = "Eugene Onegin, or the time Tatyana dodged a bullet"
 
 On the compelling side were the honest performances by two Canadians: [Joyce El-Khoury](/scene/people/joyce-el-khoury/) as Tatyana, and [Joseph Kaiser](/scene/people/joseph-kaiser/) as Lensky. El-Khoury has the tricky task of playing an adorably naïve young woman while singing Tchaikovsky's music, which demands an adult sound. She pulled it off: not only does El-Khoury use the delicious ring that comes from her immersion in the *bel canto* roles (Violetta in *La traviata* is one of her signatures), but she leaves room for her voice to become more confident and mature in the final act.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538408613660/18-19-01-MC-D-0548-0547.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538408613660/18-19-01-MC-D-0548-0547.jpg.jpg)
 <figcaption>Gordon Bintner as Eugene Onegin and Joyce El-Khoury as Tatyana in the Canadian Opera Company's new production of *Eugene Onegin*, 2018. Photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -28,7 +30,9 @@ Where *Onegin* doesn't compel is difficult to place; perhaps it's a joint effort
 
 First thing's first: it's hard to feel anything but disgust for the titular character. Onegin is elitist and condescending, the sociopathic sort who gets away with acting like a dick because he's good-looking. [Gordon Bintner](/scene/people/gordon-bintner/), the exciting young baritone who's in his first leading role at the COC, an eerie embodiment of Onegin. There's beauty in his sound that makes an unsettling complement to his tall, dashing physicality; his is the kind of excellent posture that seems to exude disdain.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538408552210/18-19-01-MC-D-0637.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538408552210/18-19-01-MC-D-0637.jpg.jpg)
 <figcaption>(centre) Joyce El-Khoury as Tatyana and Gordon Bintner as Eugene Onegin in the Canadian Opera Company's new production of *Eugene Onegin*, 2018. Photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -36,7 +40,9 @@ It's hard to get a sense of whether Tchaikovsky means us to see Onegin as an ant
 
 When I first saw this production, it was back in 2007, broadcast from the Met, *Live in HD*. I remember being struck by Levine's design, and I remember the perfection of Dmitri Hvorostovsky as Onegin, and Renée Fleming as Tatyana. The whole thing must have been such a vehicle for these two performers, that I missed the weaknesses not just of Carsen's direction, but of the piece itself.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538408559815/18-19-01-MC-D-0143.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538408559815/18-19-01-MC-D-0143.jpg.jpg)
 <figcaption>(l-r) Varduhi Abrahamyan as Olga and Joyce El-Khoury as Tatyana in the Canadian Opera Company's new production of *Eugene Onegin*, 2018. Photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -44,13 +50,17 @@ When I first saw this production, it was back in 2007, broadcast from the Met, *
 
 We get brooms and dull parties, but what we don't get out of *Onegin* is a sense of relationship, or a sense of stakes. It's lost on me why Olga (richly sung by [Varduhi Abrahamyan](/scene/people/varduhi-abrahamyan/)) and Lensky are a couple (or even couple-adjacent), since she's flakey and rude, and he's living in a fantasy world. The opera doesn't give us a chance to understand the apparently deep friendship between Lensky and Onegin, which makes it hard to be invested in their treagic duel scene. The starkness of Carsen's direction, while it may be accurately Russian, didn't show that Lensky and Onegin were anything more than acquaintances.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538408568704/18-19-01-MC-D-0679.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538408568704/18-19-01-MC-D-0679.jpg.jpg)
 <figcaption>Joseph Kaiser as Lensky and Varduhi Abrahamyan as Olga in the Canadian Opera Company's new production of *Eugene Onegin*, 2018. Photo: Michael Cooper.</figcaption>
 </figure>
 
 And perhaps the biggest shame was that Levine's stunning set didn't seem to suit the acoustics of the Four Seasons Centre. Too often, the singers were placed too far upstage, muffling their voices and dulling their subtle choices. El-Khoury took beautiful advantage of her few chances for stunning *pianissimo* singing, and Kaiser wailed his aria right through the divisive scrim. But we lost the highs and lows of the final scene between Tatyana and Onegin, which seemed to prioritize set symmetry over sound.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538408580688/18-19-01-MC-D-1245-1247.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538408580688/18-19-01-MC-D-1245-1247.jpg.jpg)
 <figcaption>Joyce El-Khoury as Tatyana and Gordon Bintner as Eugene Onegin in the Canadian Opera Company's new production of *Eugene Onegin*, 2018. Photo: Michael Cooper.</figcaption>
 </figure>
 

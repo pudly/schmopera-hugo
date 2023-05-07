@@ -25,6 +25,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/CHICAGOOPERATHEATER"
 
+_template = "company_single"
 +++
 Chicago Opera Theater is a company laser-focused on living its values: 
 

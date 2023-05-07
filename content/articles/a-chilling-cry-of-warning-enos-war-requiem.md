@@ -18,7 +18,7 @@ November has always been a time for reflection as the days grow shorter and the 
  
 The design was expertly handled by Tillmans who used his Turner Prize-winning expertise in photography to project startling historical images of the war, often juxtaposed against elements from the natural world depicting decay, as well as images of the Cathedral in Coventry (the 1962 opening of which this piece was written for) on three enormous rotating panels that made up the entirety of the set.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542646083025/ENOWarRequiemEnsembleRichardHubertSmith.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542646083025/ENOWarRequiemEnsembleRichardHubertSmith.jpg.jpg)
 <figcaption>ENO *War Requiem Ensemble*, English National Opera, 2018. Photo: </figcaption>
 </figure>
 
@@ -26,19 +26,19 @@ The scant stage allowed for the chorus - which is really the core of this piece 
 
 Though the costumes of the tenor and baritone soloists seemed to hint vaguely at a military nature, there was no sense of this with the chorus who were dressed in a monochrome palette of working class clothing which on close inspection, seemed to be from every era over the last century - perhaps a message from costume designer Nazir Mashar that war has, and continues to influence us all even today.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542646095767/ENOWarRequiemEnsembleRichardHubertSmith6.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542646095767/ENOWarRequiemEnsembleRichardHubertSmith6.jpg.jpg)
 <figcaption>ENO *War Requiem Ensemble*, English National Opera, 2018. Photo: Richard Hubert Smith.</figcaption>
 </figure>
 
 This seemed to be the overwhelming message throughout; that war should not be glorified. That the violence of war can only lead to the degradation of life. And most importantly, that war touches us all in many different ways. This last point in particular was brought to life through the storylines of the soloists. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542646146551/ENOWarRequiemEmmaBellandEnsembleRichardHubertSmith.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542646146551/ENOWarRequiemEmmaBellandEnsembleRichardHubertSmith.jpg.jpg)
 <figcaption>Emma Bell and Ensemble in Benjamin Britten's *War Requiem*, English National Opera, 2018. Photo: Richard Hubert Smith.</figcaption>
 </figure>
 
 Tenor [David Butt Philip](/scene/people/david-butt-philip/) gave an emotional performance particularly in his opening scene as the disillusioned, shell-shocked soldier singing "What passing-bells for these who die as cattle?" Baritone [Roderick Williams](/scene/people/roderick-williams/) was completely captivating, often taking on the role of the bitter general who had seen too much of death. His final solo before the finale of the piece in which he says "I am the enemy you killed, my friend" is a poignant and intimate moment between the tenor and baritone soloists who here represent two weary, and beat-down members of opposing forces, sharing a moment of understanding. Soprano soloist [Emma Bell](/scene/people/emma-bell/) shone especially strongly as the grieving widow in a scene depicting the funeral of a fallen soldier. There was so much strength and intention in her singing as she passed judgement on all for the terror and destruction caused.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542646125037/ENOWarRequiemDavidButtPhilipRoderickWilliamsRichardHubertSmith.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542646125037/ENOWarRequiemDavidButtPhilipRoderickWilliamsRichardHubertSmith.jpg.jpg)
 <figcaption>David Butt Philip and Roderick Williams in Benjamin Britten's *War Requiem*, English National Opera, 2018. Photo: Richard Hubert Smith.</figcaption>
 </figure>
 

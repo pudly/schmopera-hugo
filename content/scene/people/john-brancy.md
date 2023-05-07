@@ -25,6 +25,7 @@ url = "https://www.instagram.com/johnbrancy/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/johnbrancy"
+_template = "people_single"
 +++
 
 Baritone John Brancy is on the verge of an exciting and diverse performing career, and has been hailed by the New York Times as “a vibrant, resonant presence”. He is the 2015 Jensen Foundation Vocal Competition Winner and the 2013 Winner of the Marilyn Horne Song Competition. 

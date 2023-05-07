@@ -17,6 +17,7 @@ url = "https://twitter.com/kkellogg79"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/kkelloggbasso/"
+_template = "people_single"
 +++
 
 Praised for his "commanding stage presence" and "rich, resonant bass," Kenneth Kellogg is quickly gaining recognition as a sought after young artist.

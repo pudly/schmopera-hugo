@@ -16,6 +16,7 @@ url = "https://twitter.com/rfenlon"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/rfenlon/"
+_template = "people_single"
 +++
 
 Berlin-based soprano, Rachel Fenlon, is an artist on the rise. Quickly establishing herself in the operatic repertoire of Mozart, Handel, and Rossini; in the vast lied repertoire, from French and German to contemporary English works, and in demand as an oratorio soloist, Rachel enjoys a diverse and uniquely varied solo career. 

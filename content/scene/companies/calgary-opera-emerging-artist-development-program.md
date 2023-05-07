@@ -13,6 +13,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CalgaryOpera"
 
+_template = "company_single"
 +++
 Each season, Calgary Opera provides up to eight young singers with the opportunity to study and perform under a professional staff of teachers and performers. The program serves as a bridge between academic programs and the professional world of opera, offering the experience and practical skills necessary to succeed as a self-employed artist in a highly competitive international environment.
 

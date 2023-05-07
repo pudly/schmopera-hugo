@@ -14,7 +14,9 @@ title = "T-shirts and tender artists"
 
 Earlier this week, Old Navy took [heavy criticism](http://jezebel.com/old-navy-doesn-t-want-your-kids-to-become-artists-1750402241) for what was written on a couple of their kids t-shirts:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451702753889/2016-01-02---OldNavy.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451702753889/2016-01-02---OldNavy.jpg.jpg)
 </figure>
 
 I understand why there was negative feedback; the word "artist" is crossed out, like it was a mistake to write it at all, and replaced with something nobler and more important. I doubt everyone is truly taking this offence to heart, but there have been feathers ruffled, and it seemed a surprising reaction.

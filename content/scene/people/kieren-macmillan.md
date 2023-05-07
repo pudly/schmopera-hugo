@@ -11,6 +11,7 @@ website = "http://kierenmacmillan.info/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/KMac_Composer"
+_template = "people_single"
 +++
 
 <p>

@@ -29,7 +29,9 @@ What a straightforward question, thank you Jenna...(editor's note: my pleasure, 
 
 Good singing is the easiest way to sing, and really, it’s the only way to sing. When singing is easy, the tone is easy. This doesn’t mean it is uninvolved; this means there is no excessive musculature in the body to create unneeded tension. It also means there isn’t any manipulation of the sound. Singing is created by good technique and artistry, and the sound takes care of itself.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434311580482/Peter_too_tired.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434311580482/Peter_too_tired.jpg.jpg)
 <figcaption> </figcaption>
 </figure>
 

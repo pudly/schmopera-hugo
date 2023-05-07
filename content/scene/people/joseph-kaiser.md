@@ -13,6 +13,7 @@ website = "http://www.josephkaiser.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/Joseph-Kaiser-163745036880/"
+_template = "people_single"
 +++
 
 Joseph Kaiser is recognized by audiences for his beauty of tone, intelligence of programming, and innate sense of style and elegance.  He is internationally acclaimed as one of the most gifted artists of his generation and enjoys success in opera, oratorio, and concert throughout North America and Europe.

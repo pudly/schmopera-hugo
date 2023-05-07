@@ -31,7 +31,7 @@ Every page of this score is that deliberate and, dry though it could seem outsid
 
 Great question. I approach score study with a simple (modified) axiom: "The unexamined note is not worth singing". We won't delve into the history of performance practice in Mozart here but, suffice it to say, I think that we're in a very fortunate period in which people are willing to try just about any idea borne of true musical and dramatic inspiration. As long as we keep the goal of research and score study in mind, which is to serve the act of performance and interpretation, I don't think we run the risk of overthinking it. Yeats wrote about the Grape of Joy having to be crushed in order to be tasted most fully. There's something to that...
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454606709795/De-Souza.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454606709795/De-Souza.jpg.jpg)
 <figcaption>Photo by [Brent Calis](/scene/people/brent-calis/)</figcaption>.
 </figure>
 

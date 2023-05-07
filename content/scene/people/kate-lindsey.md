@@ -17,6 +17,7 @@ url = "https://www.facebook.com/mezzo.soprano.kate.lindsey/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/kate_mezzo"
+_template = "people_single"
 +++
 
 This season, mezzo-soprano Kate Lindsey makes her role and house debut as Sister Helen Prejean in *Dead Man Walking* at the Washington National Opera and returns to both the Royal Opera House and the Los Angeles Opera as Nicklauss/Muse in *Les Contes d'Hoffmann*, the Vienna State Opera as Cherubino in *Le Nozze di Figaro*, and the Glyndebourne Opera Festival as Sesto in *La Clemenza di Tito*.  She also appears in concert with the Philadelphia Orchestra and the Orchestre de Paris. 

@@ -13,6 +13,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jacquesimbrailo"
 
+_template = "people_single"
 +++
 A regular at many of the most prestigious opera houses throughout the world, baritone Jacques Imbrailo has collaborated with conductors, directors and orchestras of the highest calibre and is one of the most in demand arists of his generation. 
 

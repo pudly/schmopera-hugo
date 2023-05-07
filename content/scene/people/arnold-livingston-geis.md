@@ -21,6 +21,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/arnoldlivingstontenor/"
 
+_template = "people_single"
 +++
 Arnold Livingston Geis, tenor, is an international musician and performer originally from Washington State. Geis began his career in Southern California as a church soloist, but quickly grew to become one of the top collaborative artists in the area, coveted for his versatility and musicianship. 2013 marked Geis’ first season as a chorister in Los Angeles Opera’s performances of Wagner’s *The Flying Dutchman*.  He has since performed on the Dorothy Chandler stage in favorites such as *Carmen*, *La Traviata*, and had his LA Opera soloist debut in *Pagliacci* under the baton of Plácido Domingo. 
 

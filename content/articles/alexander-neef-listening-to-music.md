@@ -34,7 +34,7 @@ He's passionate about historical recordings as a means to understand singers and
 
 Not just the performances, but the legacies of some early 20th-century singers were left in the hands of early recording technology. It was so limited, says Neef, "that some voices just sound terrible." There were exceptions, notably Enrico Caruso, who sounded good on a gramophone. "The way his voice vibrated, and the overtones and all that, it just reproduced well. There are other tenors of that time that initially were way more famous than Caruso that just didn't record well."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452309490074/2016-01-08---Caruso.jpg.jpg)<figcaption>Enrico Caruso in 1918, with a Victrola phonograph.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452309490074/2016-01-08---Caruso.jpg.jpg)<figcaption>Enrico Caruso in 1918, with a Victrola phonograph.</figcaption>
 </figure>
 
 ## New ways to listen 

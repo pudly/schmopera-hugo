@@ -15,6 +15,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/elportillo"
 
+_template = "people_single"
 +++
 Praised by Opera News for “high notes with ease, singing with a luxuriant warm glow that seduced the ear as he bounded about the stage with abandon,” American tenor David Portillo has established himself as a leading classical singer of his generation.
 

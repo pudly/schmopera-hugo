@@ -24,6 +24,7 @@ url = "https://www.instagram.com/lucasmeachem/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCc0Fon1_s_AZZU8J3wMeREA"
+_template = "people_single"
 +++
 
 American baritone Lucas Meachem is an internationally sought-after performer whose compelling lyric baritone voice and dramatic interpretations have led him to the world’s most important operatic stages. Hailed by critics as “vocally faultless and a natural actor” (Classical Chicago Review) with “a clear baritone whose fragments can pierce the soul” (Forum Opera), and “a rockstar of opera” (Opera Pulse). Meachem has found both critical and commercial success at home and abroad. His latest award came at the 2016 Grammys where he took home a Grammy for Best Opera Recording as Figaro in Los Angeles Opera’s Production of *The Ghosts of Versailles*. Named the winner of San Francisco Opera’s inaugural “Emerging Star of the Year” Award in 2016, Meachem highlighted this previous season with a triumphant return to San Francisco in September as Dr. Malatesta in Laurent Pelly’s production of Donizetti’s comic masterpiece *Don Pasquale*. 

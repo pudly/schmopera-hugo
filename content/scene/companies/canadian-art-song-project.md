@@ -16,6 +16,7 @@ url = "https://www.facebook.com/CanadianArtSong"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CanadianArtSong"
+_template = "company_single"
 +++
 
 <p>

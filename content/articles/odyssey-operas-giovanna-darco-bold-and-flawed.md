@@ -21,7 +21,9 @@ First, there is the matter of Giacomo, the father of Giovanna: here, he is rende
 
 And then there is the ending: what insane train of thought convinced Solera that killing Joan of Arc with any course of events other than her iconic execution at the stake was anything even approaching a good idea? And yet, he has her die in battle, before being resurrected and then promptly ascending into heaven: the effect is silly and far too obvious.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523235431793/HaeranHong_withDancers.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523235431793/HaeranHong_withDancers.jpg.jpg)
 <figcaption>Haeran Hong with dancers in *Giovanna D'Arco*, Odyssey Opera, 2018. Photo: Kathy Wittman.</figcaption>
 </figure>
 
@@ -33,7 +35,9 @@ He also displays a use of his forces that acts as a sort of idée fixe to depict
 
 Of course, Verdi also uses park-and-bark arias and ensembles throughout the score (what opera of that time would be complete without them?), but there is enough musically interesting material going on throughout the whole that it becomes almost criminal that the music serves the libretto it does.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523235421377/HaeranHong_4.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523235421377/HaeranHong_4.jpg.jpg)
 <figcaption>Haeran Hong in *Giovanna D'Arco*, Odyssey Opera, 2018. Photo: Kathy Wittman.</figcaption>
 </figure>
 
@@ -41,7 +45,9 @@ Thus, performing Giovanna successfully comes down to having a group of performer
 
 Marc Heller is technically her match in the equally demanding role of Carlo VII, and acting-wise he conveyed the reluctant ruler quite well. He also showed some great singing chops, even if his voice did feel a touch too heavy for the role. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523235472836/DanielSutin_1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523235472836/DanielSutin_1.jpg.jpg)
 <figcaption>Daniel Sutin in *Giovanna D'Arco*, Odyssey Opera, 2018. Photo: Kathy Wittman.</figcaption>
 </figure>
 
@@ -49,7 +55,9 @@ But of course, the real scene-stealer was Daniel Sutin as Giacomo, who was able 
 
 Maestro Gil Rose proved to be a steady hand to lead this reading of Verdi's opera. He was able to keep the many elements of Verdi's score perfectly balanced, and I have never heard an opera orchestra play so together whenever the singers took time to perform the ornaments. He also chose his tempi extremely well, not taking anything too fast and allowing the singers time to really nail the emotions of the scene. The only blemish on the evening in terms of the performance was the chorus, which tended to weave in and out of Maestro Rose's tempi to the point that they were noticeably not together at a few points, and the effect was even more noticeable at the times when the chorus had to be offstage.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523235481540/Gil-Rose-Conducting-Odyssey-Opera-Orchestra.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523235481540/Gil-Rose-Conducting-Odyssey-Opera-Orchestra.jpg.jpg)
 <figcaption>Gil Rose conducting the Odyssey Opera Orchestra in *Giovanna D'Arco*, Odyssey Opera, 2018. Photo: Kathy Wittman.</figcaption>
 </figure>
 
@@ -57,13 +65,17 @@ The production also had a fairly interesting look: the sets were unusually spare
 
 The only odd issue with the production was the costuming: some of the costumes used were noticeably cheap (Giovanna's suit of armor was made of non-metallic materials), but ultimately even if they were cheap they were not distractingly cheap, as they still fit the look of the production.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523235464595/MarcHeller_4.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523235464595/MarcHeller_4.jpg.jpg)
 <figcaption>Marc Heller in *Giovanna D'Arco*, Odyssey Opera, 2018. Photo: Kathy Wittman.</figcaption>
 </figure>
 
 In the end, Odyssey Opera should be applauded for its efforts to bring *Giovanna D'Arco* to life. It requires a perfect storm of elements for any production to overcome the sins of a subpar libretto, and fortunately for them the company found exactly the right people to bring Verdi's score to life. It led to an entertaining night at the opera, and even if the production as a whole could not quite overcome the silliness endemic to the opera's last five minutes it still took a diamond in the rough and polished it across the remainder. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523235449779/HaeranHong_MarcHeller_DanielSutin-ltor.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523235449779/HaeranHong_MarcHeller_DanielSutin-ltor.jpg.jpg)
 <figcaption>Haeran Hong, Marc Heller, and Daniel Sutin in *Giovanna D'Arco*, Odyssey Opera, 2018. Photo: Kathy Wittman.</figcaption>
 </figure>
 

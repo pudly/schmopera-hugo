@@ -8,6 +8,7 @@ social_media = []
 title = "Verena Gunz"
 website = "https://www.verenagunz.com/"
 
+_template = "people_single"
 +++
 Verena Gunz, mezzo, was born in Linz, Austria, and graduated at the School of Music and Drama at the University of Vienna on the Opera Course. This included studying Lied and Oratorio with Robert Holl. She also did a Masters degree in musicology and French. She subsequently joined the International Opera Studio, Gent/Belgium.
 

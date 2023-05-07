@@ -26,6 +26,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/journeynorthopera/"
 
+_template = "company_single"
 +++
 Journey North Opera Company (JNOC) is an independent arts organization dedicated to evolving and modernizing the conventions of grand opera.
 

@@ -16,6 +16,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/JoelleHarveySoprano"
 
+_template = "people_single"
 +++
 A native of Bolivar, New York, soprano Joélle Harvey has established herself over the past decade as a noted interpreter of a broad range of repertoire, specializing in Handel, Mozart, and new music.
 

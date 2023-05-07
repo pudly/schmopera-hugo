@@ -16,7 +16,9 @@ title = "In review: Tristan and Isolde at ENO"
 
 Daniel Kramer's is the first new production of [*Tristan and Isolde*](https://www.eno.org/whats-on/tristan-and-isolde/) at [English National Opera](/scene/companies/english-national-opera/) in 20 years, and after his recent appointment as ENO Artistic Director, his *Tristan* seemed like an unofficial introduction to his aesthetic. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465562086886/2016-06-10---ENO-Tristan-and-Isolde-Act-1---Heidi-Melton%2C-Karen-Cargill-%2C-Stuart-Skelton--Catherine-Ashmore.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465562086886/2016-06-10---ENO-Tristan-and-Isolde-Act-1---Heidi-Melton%2C-Karen-Cargill-%2C-Stuart-Skelton--Catherine-Ashmore.jpg.jpg)
 <figcaption>Heidi Melton, Karen Cargill, and Stuart Skelton in ENO's *Tristan and Isolde*. Photo by Catherine Ashmore.</figcaption>
 </figure>
 
@@ -26,7 +28,9 @@ Tristan's ship was full of looming angles and barriers, allowing for beautiful s
 
 As stunning as each tableau is, there was a through-line that stayed evasive. Each scene seemed to have its own aesthetic, yet without enough to connect this very large story. Tristan and Isolde seemed to live long ago, and also in a futuristic world, with the addition of time-specific hospital beds and a crowd of surgeons accompanying King Marke's entrance. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465562197344/2016-06-10---ENO-Tristan-and-Isolde-Stuart-Skelton-3-Catherine-Ashmore.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465562197344/2016-06-10---ENO-Tristan-and-Isolde-Stuart-Skelton-3-Catherine-Ashmore.jpg.jpg)
 <figcaption>Stuart Skelton in ENO's *Tristan and Isolde*. Photo by Catherine Ashmore.</figcaption>
 </figure>
 
@@ -34,7 +38,9 @@ It's not a story that really asks for a literal time and place, this production 
 
 [Stuart Skelton](/scene/people/stuart-skelton/) was a strong Tristan, manly and down-to-earth. His monologues in act III belied some fatigue, and as the tessitura stayed high, Skelton lost some of the grounding in his sound; he never faltered as an actor, though, and he was magnetic to watch. [Heidi Melton](/talking-with-singers-heidi-melton/) made her ENO debut as Isolde, and she made beautiful work of the English-translated libretto. Her sound was touching and full of dramatic choices; at times, her full body didn't feel committed to the sound, and her more ecstatic moments grew wild.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465562223086/2016-06-10---ENO-Tristan-and-Isolde-Karen-Cargill-Catherine-Ashmore.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465562223086/2016-06-10---ENO-Tristan-and-Isolde-Karen-Cargill-Catherine-Ashmore.jpg.jpg)
 <figcaption>Karen Cargill as Brangäne in ENO's *Tristan and Isolde*. Photo by Catherine Ashmore.</figcaption>
 </figure>
 
@@ -42,7 +48,9 @@ Kramer kept the pair apart, more than Wagner seemed to say with his score; the m
 
 [Matthew Rose](/scene/people/matthew-rose/) seemed a human King Marke, more of a man than a figure. He sang with a bright, immediate sound, yet there was a habit of starting each note with a straight tone. At times that habit affected his intonation, making some of Wagner's juicier key changes a bit obscured. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465562344492/2016-06-10---ENO-Tristan-and-Isolde-Matthew-Rose-Heidi-Melton-and-Stuart-Skelton-Catherine-Ashmore.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465562344492/2016-06-10---ENO-Tristan-and-Isolde-Matthew-Rose-Heidi-Melton-and-Stuart-Skelton-Catherine-Ashmore.jpg.jpg)
 <figcaption>Matthew Rose, Heidi Melton and Stuart Skelton in ENO's *Tristan and Isolde*. Photo by Catherine Ashmore.</figcaption>
 </figure>
 
@@ -50,7 +58,9 @@ Karen Cargill was wonderful as Brangäne, Isolde's servant. She sang with power 
 
 It was [Craig Colclough](/scene/people/craig-colclough/)'s Kurwenal that stole the show. A role debut for him, his enormous sound felt wonderfully offensive in act I, and act III seemed to belong to him. His voice is a thrilling, bright bass-baritone, and he was all at once heartbreaking and a much-needed source of comic relief. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465562262297/2016-06-10---ENO-Tristan-and-Isolde-Stuart-Skelton-and-Craig-Colclough-1-Catherine-Ashmore.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465562262297/2016-06-10---ENO-Tristan-and-Isolde-Stuart-Skelton-and-Craig-Colclough-1-Catherine-Ashmore.jpg.jpg)
 <figcaption>in ENO's *Tristan and Isolde*. Photo by Catherine Ashmore.</figcaption>
 </figure>
 

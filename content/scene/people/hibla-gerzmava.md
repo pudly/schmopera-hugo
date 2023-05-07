@@ -21,6 +21,7 @@ url = "https://www.instagram.com/hiblagerzmava/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/GerzmavaHibla"
+_template = "people_single"
 +++
 
 Hibla Gerzmava has established herself as one of the most sought after sopranos of her generation, having met critical acclaim at such theaters as the Royal Opera House – Covent Garden, Opéra National de Paris, Vienna State Opera, Rome Opera, Metropolitan Opera, Bavarian State Opera in Munich, Carnegie Hall in New York, and Mariinsky Theatre in St. Petersburg. She has also appeared at the Ludwigsburg Festival in Germany and the BBC Proms. Hailed by the *New York Times* as “the warm-voiced soprano with affecting poise and strong-willed intensity,” Gerzmava will return to the Metropolitan Opera this season as Donna Anna in *Don Giovanni*.

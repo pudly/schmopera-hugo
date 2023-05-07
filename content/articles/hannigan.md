@@ -23,7 +23,9 @@ From the moment the orchestra finished tuning and the stage lights dimmed to tot
 
 Capping off the Cleveland Orchestra's annual Miami residency at the Adrienne Arsht Centre with a program inspired by her Grammy-winning album _Crazy Girl Crazy_, Hannigan delivered a gripping display of virtuosity and theatre in her U.S. conducting debut. The performance stands out not only for its exquisite execution and healthy dash of operatic spirit, but also as one of only two programs in Cleveland's 2018-19 season to be led by a woman conductor – begging worthy consideration toward the systemic barriers that make boundary-pushing concerts such as this one all too rare.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549235666/media/2019/02/HanniganWide.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1549235666/media/2019/02/HanniganWide.jpg)
 
 <figcaption>Photo: Justin Holden, courtesy of the Cleveland Orchestra.</figcaption>
 
@@ -43,7 +45,9 @@ To close out the evening, Gershwin's _Girl Crazy_ Suite made for a crowd-pleasin
 
 Following a chaotic few months of #MeToo upheaval resulting in the [dismissal of two of the orchestra's most prominent players](https://www.npr.org/2018/10/24/660248392/cleveland-orchestra-fires-two-leading-musicians-after-sexual-misconduct-investig), it was powerful to watch a woman command the storied Cleveland Orchestra podium. That said, Hannigan joins only one other woman guest conductor in a season of mainstage concerts led by 16 different male conductors, performing 69 different works by male composers and only one work by a woman.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549235583/media/2019/02/Hannigan.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1549235583/media/2019/02/Hannigan.jpg)
 
 <figcaption>Photo: Justin Holden, courtesy of the Cleveland Orchestra.</figcaption>
 

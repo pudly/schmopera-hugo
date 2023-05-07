@@ -13,6 +13,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/LCOrchestra"
 
+_template = "people_single"
 +++
 A new generation of musicians have emerged: brilliantly equipped, fully in control of their craft, but impatient of the conventions and rituals hemming in classical music, often closing it off to younger listeners. At the forefront of this new wave is Robert Ames, co-conductor of the London Contemporary Orchestra. He can be found conducting them in an eclectic range of venues from Oval Space in East London through to the hallowed surroundings of London’s great concert halls.
 

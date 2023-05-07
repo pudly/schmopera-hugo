@@ -23,7 +23,9 @@ I sing because it is my gift.  Ever since I was young I have been singing, and I
 
 You are completely unique, and there is no other singer exactly like you.  As long as you have that knowledge to begin with, you shouldn't try to compare yourself to other singers, because there are always going to be things to set you apart from others.  It is most important that in your young years, you spend your time and energy investing in your own artistry, in mastering styles and languages, and building your technique.  Those things are the most important to have a long career, and you build those good habits young.  
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504543284112/2017-09-04---lisette-oropesa-new-orleans--Steven-Harris.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504543284112/2017-09-04---lisette-oropesa-new-orleans--Steven-Harris.jpg.jpg)
 <figcaption>Lisette Oropesa, soprano. Photo by Steven Harris.</figcaption>
 </figure>
 
@@ -37,7 +39,9 @@ She has had to make personal sacrifices of happiness in order to have success in
 
 I am lucky that my husband, Steven the wonderful, travels with me.  He was for many years a brilliant IT guy, and now he works from home as a web developer, and helps me with all the tech needs my job increasingly has.  We go to all our engagements together and it's really nice to have that companionship, and someone who truly supports me and understands the demands of this job.  We find it really important to cultivate other interests that contribute to the operatic life, but also are separate worlds.  We run outside in every place we go to, and this helps us get oriented and spend time outside each day.  We cook all our meals and this helps us save money and maintain a vegan diet, which we happily follow for health and ethical reasons.  We also enjoy hiking, yoga, and reading.  All of those activities keep me sane and healthy!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504543290452/2017-09-04---Don-pasquale-glyndebourne-lisette-oropesa_verylarge-Bill--Cooper.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504543290452/2017-09-04---Don-pasquale-glyndebourne-lisette-oropesa_verylarge-Bill--Cooper.jpg.jpg)
 <figcaption>Oropesa as Norina in *Don Pasquale*, Glyndebourne, 2017. Photo: Bill Cooper.</figcaption>
 </figure>
 

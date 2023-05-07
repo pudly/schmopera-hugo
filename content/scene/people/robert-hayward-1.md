@@ -8,6 +8,7 @@ social_media = []
 title = "Robert Hayward"
 website = ""
 
+_template = "people_single"
 +++
 Robert Hayward studied at the Guildhall School of Music and Drama where he sang several roles including Figaro/_The Marriage of Figaro_ and the title role in Verdi's _Falstaff_. Following a year at the National Opera Studio, he joined Glyndebourne Touring Opera and made his professional opera debut singing the title role of _Don Giovanni_ in 1986.
 

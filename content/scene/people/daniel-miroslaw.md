@@ -9,6 +9,7 @@ related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/glynde
 slug = "daniel-miroslaw"
 title = "Daniel Miroslaw"
 website = "http://www.danielmiroslaw.com/"
+_template = "people_single"
 +++
 
 Daniel Mirosław, born in Warsaw, Poland, started singing at the age of 21.

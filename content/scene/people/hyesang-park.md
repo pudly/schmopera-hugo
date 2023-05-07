@@ -16,6 +16,7 @@ url = "https://www.facebook.com/HyesangParkSoprano/"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/hyesang_park_sop/"
+_template = "people_single"
 +++
 
 Hailed by *The New York Times* for her "bright, clear voice and impressive coloratura technique," South Korean soprano Hyesang Park is also making a name for herself in international competition circles. In the last year, she has placed in three competitions: she recently won first prize in the April 2016 Gerda Lissner Foundation International Competition, in summer 2015 she won second prize and the Audience Choice Award at the Montreal International Musical Competition, followed the next month by winning second place overall in the women’s division in Placido Domingo's International Operalia competition, as well as taking First Prize in the women's Zarzuela.

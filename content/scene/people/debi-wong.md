@@ -16,6 +16,7 @@ url = "https://www.facebook.com/whitesparrowmusic?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/debiwong"
+_template = "people_single"
 +++
 
 Praised for her “effective performances” (*The Vancouver Sun*) and “rich tone” (*Musical Notes Vancouver*), mezzo-soprano Debi Wong is fast establishing herself as a dynamic and unique performer.

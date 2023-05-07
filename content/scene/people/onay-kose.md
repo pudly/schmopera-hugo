@@ -8,6 +8,7 @@ publishDate = "2018-01-16T19:52:00-05:00"
 related_companies = ["scene/companies/salzburg-festival.md","scene/companies/oper-frankfurt.md","scene/companies/canadian-opera-company.md","scene/companies/the-juilliard-school.md"]
 slug = "onay-kose"
 title = "Önay Köse"
+_template = "people_single"
 +++
 
 Turkish Bass Önay Köse is a member of Berlin's famed Komische Oper where he has performed a variety of roles, including the Nightwatchman in *Die Meistersinger von Nürnberg*, Prince Gremin in *Eugene Onegin*, Sarastro in *Die Zauberflöte* and Pluto in the Monteverdi/Katz-Chernin version of *Orpheus*. Mr. Köse also recently made his debut with Oper Frankfurt as Sparafucile in their new production of *Rigoletto*. In the 2017-2018 season, Mr. Köse will make debuts with the Bard Music Festival in Berlioz’s *Roméo et Juliet* and the Tulsa Opera as Mephistopheles in Gounod’s *Faust*, as well as perform both new and reprised roles with the Komische Oper. Future engagements include a debut with the Canadian Opera Company.

@@ -21,7 +21,9 @@ The young artists all showed clear skill, no doubt. Emily D'Angelo's performance
 
 Salvas, a strapping, fiery baritone, sang "Fin ch'han dal vino" from *Don Giovanni*, and "Mab, la reine des mensonges" from *Roméo et Juliette*, two of the most frantic, wordy arias in the traditional repertoire; he sang both arias admirably and with ease, neither really gave Salvas the space to truly let out his sound. Kevin Geddes offered Verdi's "La donna è mobile" just before the famed *Rigoletto* quartet; it showed perhaps where the young tenor's voice will be in future seasons, but gave little indication of what he can do in the present. Gélinas showed off a clear, light "Habanera" from *Carmen*; her sound is lovely, but the choice of Bizet seemed to ignore all the signs pointing to a sweet spot in Handel, Mozart, or Rossini.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493476305573/2017-04-29---Atelier-Ensemble.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493476305573/2017-04-29---Atelier-Ensemble.jpg.jpg)
 <figcaption>Clockwise from top left: Emily D'Angelo, Geoffroy Salvas, Caroline Gélinas, Danika Lorèn, Kevin Geddes.</figcaption>
 </figure>
 

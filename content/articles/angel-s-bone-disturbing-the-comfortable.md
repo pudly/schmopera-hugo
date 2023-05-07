@@ -21,7 +21,9 @@ youtube_url = ""
 
 The stage is set with a number of white pillars on which projections are laid throughout the performance. Before it begins, statistics about human trafficking in Canada and across the world are projected, informing the audience of how prevalent and insidious of a problem it is, even in today, and how most of the victims are children. This production has been informed by a "Social Context Committee" throughout the development process, consisting of social workers, sex trafficking survivors, and other experts in this area. They introduce the piece and its importance to give a sense of the immediacy and personal nature of the performance.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669475116/media/2022/11/AngelsBone_Production_12_m55dbn.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1669475116/media/2022/11/AngelsBone_Production_12_m55dbn.jpg)
 
 <figcaption>Eliza Bagg as Girl Angel and Alexander Dobson (right/shadows) as Mr. X.E. in Angel’s Bone. Photo by Jess MacAleese.</figcaption>  
 </figure>
@@ -30,7 +32,9 @@ One audience member commented "If you enjoyed this opera, you weren't paying att
 
 The story uses two angels fallen to earth, and then exploited by a husband and wife for money as an allegory for sex trafficking, an allegory that gets less subtle and more disturbing as the show continues. Eliza Bagg as Girl Angel brought a profound vulnerability to her role, the girl desperate for any kind of affection as she carries on being exploited. At one point, she's made to recite her exploitation while the husband films (and broadcasts) her doing so, and it was profound and deeply upsetting.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669475097/media/2022/11/AngelsBone_Production_11_BoyAngel_mhoyr7.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1669475097/media/2022/11/AngelsBone_Production_11_BoyAngel_mhoyr7.jpg)
 
 <figcaption>Asitha Tennekoon as Boy Angel in Angel’s Bone. Photo by Jess MacAleese.</figcaption>  
 </figure>
@@ -39,7 +43,9 @@ The story uses two angels fallen to earth, and then exploited by a husband and w
 
 Alyssa Samson and Alexander Dobson as Mrs. and Mr. X.E. respectively had the difficult task of bringing to life two heartless, merciless traffickers. Watching Dobson parse out tiny doses of affection to Bagg (Girl Angel) as a means to continuously manipulate and exploit her absolutely made my skin crawl. His remorseless use of this innocent for his own means was more villainous than most fictional villains we can imagine. Dobson was vocally intense and powerful, and used his strong physical and vocal presence to further subdue the Angels. Samson was more subtle of a captor - both exploiting and playing the victim, expertly imbuing this kind of cruel character with so much realism. Seeing a villain who is using people for their own ends, and then taking no accountability for their actions, and blaming others is all too real and chillingly poignant.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669475173/media/2022/11/AngelsBone_Production_6_s0tbus.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1669475173/media/2022/11/AngelsBone_Production_6_s0tbus.jpg)
 
 <figcaption>From left: Turgut Akmete, Emma Parkinson, Chloé Hurst, Sergio Augusto, Alyssa Samson (front centre), Renee Fajardo, Yuhui Wang, Luka Kawabata, and Sarah Jo Kirsch in Angel’s Bone. Photo by Jess MacAleese.</figcaption>  
 </figure>
@@ -48,14 +54,18 @@ The chorus played multiple roles throughout, from clients to passers-by, to narr
 
 Navigating this epic undertaking was Music Director Naomi Woo, whose expertise and incredible precision kept this massive piece and thousands of cues completely in place, reigning in some formidable forces and many technical challenges with the consummate skill of the musicians of Turning Point and Array Music behind her.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669475201/media/2022/11/AngelsBone_Production_9_dvucyf.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1669475201/media/2022/11/AngelsBone_Production_9_dvucyf.jpg)
 
 <figcaption>Alyssa Samson (left) as Mrs. XE and Alexander Dobson (right) as Mr. XE in Angel’s Bone. Photo by Jess MacAleese.</figcaption>  
 </figure>
 
 The ensemble deserves a special mention as their precision was incredible - moving set pieces constantly that were also used as projection screens, so having to hit precise marks over and over again was quite the task, but it was done quickly and quietly, with every set piece hitting their mark for the next technical setup. And the projections themselves were a huge highlight, both as underscoring, or action in the show - such as text messages from clients asking if the angels would “Do anything?”.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1669564800/media/2022/11/AngelsBone_Production_10_Bagg_oul6mc.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1669564800/media/2022/11/AngelsBone_Production_10_Bagg_oul6mc.jpg)
 
 <figcaption>Asitha Tennekoon (left) as Boy Angel and Eliza Bagg (right) as Girl Angel in Angel’s Bone. Photo by Jess MacAleese.</figcaption>  
 </figure>

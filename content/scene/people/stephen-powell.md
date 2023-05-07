@@ -9,6 +9,7 @@ social_media = []
 title = "Stephen Powell"
 website = "http://www.stephenpowell.us/"
 
+_template = "people_single"
 +++
 The dynamic American baritone Stephen Powell brings his “rich, lyric baritone, commanding presence, and thoughtful musicianship” to a wide range of music (Wall Street Journal). He recently made a successful debut performance as the title role in Macbeth with Michigan Opera Theatre, of which Opera News wrote “Powell’s undeniably powerful voice seethed with potential until his astonishing Act IV andante, when the gleaming beauty and sumptuous musicality of his rich baritone was finally given resplendent display."
 

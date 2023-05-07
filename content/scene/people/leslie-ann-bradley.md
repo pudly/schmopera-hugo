@@ -17,6 +17,7 @@ url = "https://www.facebook.com/LeslieAnnBradleySoprano"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/LeslieABradley"
+_template = "people_single"
 +++
 
 <p>

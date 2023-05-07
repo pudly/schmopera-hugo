@@ -8,6 +8,7 @@ related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the
 slug = "michele-pertusi"
 title = "Michele Pertusi"
 website = "http://michelepertusi.com/"
+_template = "people_single"
 +++
 
 Acclaimed as one of the greatest singers in the world lyric scene, Michele Pertusi was born in Parma, where he studied piano and singing at the Conservatory “A. Boito”. Then he continued his studies with Arrigo Pola, Carlo Bergonzi and Rodolfo Celletti.

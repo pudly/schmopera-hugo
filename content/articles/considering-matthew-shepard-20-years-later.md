@@ -34,7 +34,9 @@ The work and the concert centers initially around the final days of Matt's life,
 
 To be performing this during Pride Month is significant and special for all of us. My fellow LGBTQ+ friends have been the soldiers of love and justice on so many fronts. I hope these performances can be inspiring and nourishing. As performers, we always leave these performances with a feeling of deep connection and joy. We just want to share that.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528336467390/CMSImage.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528336467390/CMSImage.jpg.jpg)
 </figure>
 
 >*Considering Matthew Shepard* happens June 15-16 and tickets start at $25. For full details, [click here.](https://www.fordtheatres.org/calendar/considering-matthew-shepard)

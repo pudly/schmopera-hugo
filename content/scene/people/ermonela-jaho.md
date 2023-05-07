@@ -17,6 +17,7 @@ url = "https://www.facebook.com/Ermonela.Jaho.Soprano/?ref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ErmonelaJaho"
+_template = "people_single"
 +++
 
 The Albanian born soprano Ermonela Jaho is currently booked for years in advance at the most prestigious opera world stages like Royal Opera House in London, Opera National de Paris, Metropolitan of New York, Wiener Staatsoper, Bayeriche Staatsoper, Teatro Real in Madrid, Liceu of Barcelona, La Scala in Milano, Berliner Staatsoper etc.

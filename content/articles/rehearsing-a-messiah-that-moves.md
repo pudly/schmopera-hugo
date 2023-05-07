@@ -16,7 +16,9 @@ title = "Rehearsing &quot;a Messiah that moves.&quot;"
 
 [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) just closed their "inspiring" production of *AtG's  Messiah*, the company's staged, choreographed, barefoot take on Handel's classic that has audiences delighted and inspired. I'm proud to have been a member of the music staff for this show, working with a 16-member chorus, 4 soloists, AtG Music Director [Topher Mokrzewski](/scene/people/christopher-mokrzewski/), director [Joel Ivany](/scene/people/joel-ivany/) and choreographer [Jennifer Nichols](/scene/people/jennifer-nichols/).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450637268847/AtG-Messiah---Miriam---resized.jpg.jpg)<figcaption>Soprano soloist Miriam Khalil in *AtG's Messiah*. Photo by Darryl Block.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450637268847/AtG-Messiah---Miriam---resized.jpg.jpg)<figcaption>Soprano soloist Miriam Khalil in *AtG's Messiah*. Photo by Darryl Block.</figcaption>
 </figure>
 
 That's why readers won't find a review of the show on Schmopera, since my investment in *AtG's Messiah* wouldn't exactly make for an unbiased piece of writing. I often reach out to Schmopera contributor [Greg Finney](/scene/people/gregory-finney/) to help cover the shows I can't - this time, Greg was in the AtG chorus, meaning he couldn't exactly be objective either. It's not hard to find a review of the show (and a great one, at that), but instead, it's a good opportunity to talk about how something like *AtG Messiah* is put together. 
@@ -35,7 +37,9 @@ AtG Artistic Director Joel Ivany and choreographer Jennifer Nichols split the wo
 5. Run the whole number with music and choreography. Get more notes from Jennifer, Joel, Topher, and Jenna.
 6. Repeat steps 1-5 until opening night.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450507573444/AtG-Messiah---duet---resized.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450507573444/AtG-Messiah---duet---resized.jpg.jpg)
 <figcaption>Alto soloist Andrea Ludwig and tenor soloist Owen McCausland in *AtG's Messiah*. Photo by Darryl Block.</figcaption>
 </figure>
 
@@ -43,7 +47,9 @@ The method is fairly standard for an opera staging rehearsal, and the fact that 
 
 There was a constant exchange of vocabulary when we were defining musical landmarks for the movement; dancers count in beats, and singers often use text or musical cues to orient themselves in their staging. It's a big ask to get 16 singers to move as a unit, but this group became communicative and collective problem-solvers. I sensed how the members of the chorus learned their choreography, and committed it to memory in their preferred way. There were always things to fix, and it was almost impossible to spend time focusing on strictly music or strictly movement. Too many repetitions of the movement, without checking in musically, can reinforce mistakes that get harder and harder to change.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450507482637/AtG-Messiah---crowdsurf---resized.jpg.jpg)<figcaption>Josh Wales and the company of *AtG's Messiah*. Photo by Darryl Block.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450507482637/AtG-Messiah---crowdsurf---resized.jpg.jpg)<figcaption>Josh Wales and the company of *AtG's Messiah*. Photo by Darryl Block.</figcaption>
 </figure>
 
 Of course, the final product was something greater than the sum of its parts. Each night, there was that great Against the Grain alchemy onstage, that amazing thing that happens when performers reach out to the audience, and the audience gives back. Some of that giving back, they did on social media; the run has stirred up the usual AtG-show Twitter buzz, full of people loving the imagination in this *Messiah*.

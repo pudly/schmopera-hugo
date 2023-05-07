@@ -24,6 +24,7 @@ url = "https://www.instagram.com/thegrangefestival/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UC4rcyykXcv1PkrePpnN90RQ"
+_template = "company_single"
 +++
 
 Not since Thomas Beecham created his own international opera company in 1916, paid for with the proceeds from sales of Beecham’s Powders, has a new UK opera festival of such scale and ambition been born. It has quickly emerged phoenix-like to present world-class performance in the heart of Hampshire.

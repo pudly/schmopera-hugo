@@ -20,6 +20,7 @@ url = "https://twitter.com/danokulitch"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/danielokulitch/"
+_template = "people_single"
 +++
 
 Canadian bass-baritone Daniel Okulitch has performed with some of the most prestigious opera companies and orchestras throughout Europe and North America, including Le Chatelet, Teatro alla Scala, Teatro Colon, Dallas, Washington, and Los Angeles. He is lauded as much for his powerful stage presence and dramatic abilities as for his “focused, resonant bass-baritone that he wields with power and sensitivity” (NJ Star-Ledger). His signature roles show a dedication to both traditional and new works, including the title role in Don Giovanni both the Count and Figaro in Le nozze di Figaro, Joseph De Rocher in Dead Man Walking and Olin Blitch in Susannah. “Okulitch was a dynamic and effective stage presence; he almost stopped the show the first time he strode on stage and sang his opening notes (…) by far the most developed and projecting singer in the cast.” ( New Jersey Star-Ledger).

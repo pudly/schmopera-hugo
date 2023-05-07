@@ -26,6 +26,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCIUbVy4eoBOs-Xy6XXNA02A"
 
+_template = "people_single"
 +++
 Canadian tenor Colin Ainsworth has distinguished himself as an up and coming tenor by his exceptional singing and diverse repertoire. 
 

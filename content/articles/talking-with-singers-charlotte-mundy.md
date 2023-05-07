@@ -23,7 +23,9 @@ Sooo many things! If I were to pick two - First, when your career is in a consta
  
 Second, I wish I knew that fear and failure were my friends.  Don't wait for permission or encouragement to do that thing you're attracted to and intimidated by - the things that seem scariest are often the things you care the most about. Just get started, just try it. I'm still trying to internalize that lesson, actually. But I've found it's essential when it comes to taking the reins of your own career and artistic practice.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509119495151/2017-10-27---Charlotte-Mundy-in-performance.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509119495151/2017-10-27---Charlotte-Mundy-in-performance.jpg.jpg)
 <figcaption>Charlotte Mundy in performance.</figcaption>
 </figure>
  

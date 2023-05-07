@@ -22,6 +22,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/arcostanzo/"
 
+_template = "people_single"
 +++
 Countertenor Anthony Roth Costanzo began performing professionally at the age of 11 and has since appeared in opera, concert, recital, film, and on Broadway. He is a recipient of the 2020 _Beverly Sills Award_ from the Metropolitan Opera, and a winner of the 2020 _Opera News_ Award.
 

@@ -11,6 +11,7 @@ title = "Amanda Smith"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AmandaOnStage"
+_template = "people_single"
 +++
 
 <p>

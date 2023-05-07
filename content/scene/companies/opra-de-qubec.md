@@ -12,6 +12,7 @@ website = "http://www.operadequebec.qc.ca/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/operadequebec"
+_template = "company_single"
 +++
 
 <p>

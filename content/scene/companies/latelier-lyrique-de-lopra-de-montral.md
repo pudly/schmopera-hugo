@@ -16,6 +16,7 @@ url = "https://www.facebook.com/AtelierLyrique"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Atelier_lyrique"
+_template = "company_single"
 +++
 
 <p>

@@ -12,6 +12,7 @@ website = "http://anastasiiasidorova.com/"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/anastasiamezzo/"
+_template = "people_single"
 +++
 
 Russian mezzo-soprano Anastasiia Sidorova entered the voice department of the prestigious Curtis Institute of Music in 2014 and studies under renowned instructors Mikael Eliasen and Julia Faulkner.

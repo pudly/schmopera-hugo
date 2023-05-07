@@ -21,7 +21,9 @@ Minnesota Bach Society, in conjunction with Seattle Early Music and Ensemble Cap
 
 This was a semi-staged production, with a healthy-sized orchestra of period instruments. The opera began with a three-movement symphonic prologue. Suddenly, a voice was heard from the back of the auditorium speaking in colloquial English. This was the added character: Motezuma, the observer. He narrated in a series of home-cooked monologues.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581896299/media/2020/02/Motezuma-1_sj7ssp.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581896299/media/2020/02/Motezuma-1_sj7ssp.jpg)
 
 <figcaption>Motezuma, Minnesota Bach Society, 2020. Photo: Jijun He.</figcaption>
 
@@ -31,7 +33,9 @@ This is a trendy move (I have seen four operas with this in it in the past year)
 
 The stand out singer was Nicholas Chalmers, his tenor voice was energetic with vibrant coloratura. Mr. Chalmers played one of the two Spaniards, Fernando. In this semi-staged production, much of the tension was confined to the steely looks the Aztecs and Spaniards would cast at each other over the orchestra. The plot is somewhat reminiscent of Mozart's Idomeneo (the child of the conquered falling in love with one of the conquerors and all that). Motezuma's daughter Teutile sang a despairing aria "Barabaro più non sento" similar to Ilia’s "Padre, germani addio". And, if I hadn't yet drawn a strong enough parallel between the two works, _Motezuma_ has a happily-ever-after ending as well.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581896287/media/2020/02/Motezuma_3_kjua2q.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581896287/media/2020/02/Motezuma_3_kjua2q.jpg)
 
 <figcaption>Motezuma, Minnesota Bach Society, 2020. Photo: Gilles Brissette.</figcaption>
 

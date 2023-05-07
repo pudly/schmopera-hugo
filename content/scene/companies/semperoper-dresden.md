@@ -20,6 +20,7 @@ url = "https://twitter.com/semperoper"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/semperoperdd"
+_template = "company_single"
 +++
 
 Die Semperoper Dresden befindet sich im historischen Altstadt-Zentrum. Sie zählt mit ihren zirka 1.300 Plätzen zu den berühmtesten Spielstätten der Welt und ist ein Haus von Weltruf mit einem Ensemble von Rang, mit der Sächsischen Staatskapelle Dresden und dem Semperoper Ballett und der neuen Sparte Semperoper Junge Szene.

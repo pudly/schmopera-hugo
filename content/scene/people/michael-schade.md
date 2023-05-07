@@ -16,6 +16,7 @@ url = "https://www.facebook.com/tenormichaelschade?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/tenorschade"
+_template = "people_single"
 +++
 
 <p>

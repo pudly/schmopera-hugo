@@ -21,7 +21,9 @@ youtube_url = ""
 
 Starting with the men’s chorus, hired by Almaviva to serenade Rosina under her window, they staged a mock orchestra, full of great moments of physical comedy and mayhem. [Isaiah Bell](/scene/people/isaiah-bell/) as Count Almaviva was brilliant, vocally inventive with incredible coloratura that was crisp and precise, and great comedic moments in his various disguises that were silly, fun, or ridiculous in equal measure.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582249717/media/2020/02/VOBarberofSevillegroupshot-photoTimMatheson_utpiwx.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1582249717/media/2020/02/VOBarberofSevillegroupshot-photoTimMatheson_utpiwx.jpg)
 
 <figcaption>Isaiah Bell as Count Almaviva (centre) and the ensemble in The Barber of Seville, Vancouver Opera, 2020. Photo: Tim Matheson.</figcaption>
 
@@ -31,7 +33,9 @@ Edward Nelson as the eponymous Barber was absolutely phenomenal. Commanding the 
 
 Mezzo-soprano [Julie Boulianne](/scene/people/julie-boulianne/) as Rosina brought vivacity and spunk to the character. With a beautiful low range, and incredible precision, her "Una voce poco fa" was stellar; fast, precise and agile, she made the difficult aria sound easy with her consummate technical skill. Her duet with Nelson was equally impressive, both having coloratura with metronomic precision.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582249751/media/2020/02/VOBarberofSevilleEdwardNelsonasFigaroandJulieBoulianneasRosina-photoTimMatheson_qjuzw0.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1582249751/media/2020/02/VOBarberofSevilleEdwardNelsonasFigaroandJulieBoulianneasRosina-photoTimMatheson_qjuzw0.jpg)
 
 <figcaption>Edward Nelson as Figaro and Julie Boulianne as Rosina in The Barber of Seville, Vancouver Opera, 2020. Photo: Tim Matheson.</figcaption>
 
@@ -41,7 +45,9 @@ As the foil Dr. Bartolo, Thomas Goerz was a bumbling fool that played perfectly 
 
 Gena van Oosten as the long-suffering maid Berta was lovely, and her aria on the mysteries of love was a great scene - full of men vying for her affections and falling over themselves to get close to her, she obliviously laments the fact that she’ll likely be alone forever. It was a charming touch, and performed beautifully by van Oosten who packs a big voice in a small, feisty package.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582249782/media/2020/02/VOBarberofSevilleprincipalcast-photoTimMatheson_prkhbs.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1582249782/media/2020/02/VOBarberofSevilleprincipalcast-photoTimMatheson_prkhbs.jpg)
 
 <figcaption>The cast of The Barber of Seville, Vancouver Opera, 2020. Photo: Tim Matheson.</figcaption>
 
@@ -53,7 +59,9 @@ The Vancouver Opera Orchestra, under the baton of Nathan Brock was excellent; se
 
 Director Ashlie Corcoran breathed new life into this old classic, from the clever staging of the chorus numbers, to the seamless set changes, everything was punchy, funny, and perfectly timed. My favourite moment was Rosina sitting in bed eating ice cream from the container while lamenting the loss of her love. Funny, and overly relatable content!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582249799/media/2020/02/VOBarberofSeville-JulieBoulianneasRosina-photoTimMatheson_c4hh2q.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1582249799/media/2020/02/VOBarberofSeville-JulieBoulianneasRosina-photoTimMatheson_c4hh2q.jpg)
 
 <figcaption>Julie Boulianne as Rosina in The Barber of Seville, Vancouver Opera, 2020. Photo: Tim Matheson.</figcaption>
 

@@ -29,5 +29,7 @@ This weekend, in Toronto, the boys had their chance to redeem themselves and [ap
 
 Luckily, this time, all the drama was saved for on the field.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480429773143/2016-11-28---Three-Tenors-FB.jpg.jpg)<figcaption>The Tenors at the 2016 Grey Cup. Photo via [Facebook](https://www.facebook.com/tenorsmusic/photos/a.164582290764.122299.159471210764/10154162868815765/?type=3&theater).</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480429773143/2016-11-28---Three-Tenors-FB.jpg.jpg)<figcaption>The Tenors at the 2016 Grey Cup. Photo via [Facebook](https://www.facebook.com/tenorsmusic/photos/a.164582290764.122299.159471210764/10154162868815765/?type=3&theater).</figcaption>
 </figure>

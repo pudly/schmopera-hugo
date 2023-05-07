@@ -11,6 +11,7 @@ title = "Rebecca Evans"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/RebeccaEvansSop"
+_template = "people_single"
 +++
 
 Rebecca Evans was born in South Wales, and studied at the Guildhall School of Music & Drama.

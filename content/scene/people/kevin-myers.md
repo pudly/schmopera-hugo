@@ -7,6 +7,7 @@ publishDate = "2017-06-24T14:24:00-06:00"
 related_companies = ["scene/companies/highlands-opera-studio.md","scene/companies/opera-5.md"]
 slug = "kevin-myers"
 title = "Kevin Myers"
+_template = "people_single"
 +++
 
 Kevin Myers seduces audiences with his beautiful lyrical tenor voice and brilliant interpretation.

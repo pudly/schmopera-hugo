@@ -21,7 +21,9 @@ On **December 2 and 3** at Toronto's Sony Centre, the Beijing-based [China Broad
 
 Gaoxiang and the CBCO is joined by the [Ottawa Bach Choir](http://ottawabachchoir.ca/en/home/), Chinese fusion singer [Gong Linna](https://en.wikipedia.org/wiki/Gong_Linna), and yet-unnamed "special Canadian guest singers". The programme is a line-up of Chinese classical music, folk music, Peking opera, [Kunqu opera](https://en.wikipedia.org/wiki/Kunqu), and traditional Chinese dance.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480506084301/2016-11-29---Gong-Linna-1.jpg.jpg)<figcaption>Gong Linna, Chinese fusion singer.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480506084301/2016-11-29---Gong-Linna-1.jpg.jpg)<figcaption>Gong Linna, Chinese fusion singer.</figcaption>
 </figure>
 
 Tickets for *Enchanting China* start at $28, and can be purchased by phone at 1-855-872 (7669), or by [clicking right here.](https://www.ticketmaster.ca/venueartist/131106/2298897&CAMEFROM=CFC_SONY_CENTRE_WEB_SONYWEB_ENCHANTING_CHINA)

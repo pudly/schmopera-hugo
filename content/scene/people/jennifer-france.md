@@ -12,6 +12,7 @@ title = "Jennifer France"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jenni_france"
+_template = "people_single"
 +++
 
 Nominated for The Times Breakthrough Award in Opera at the 2016 South Bank Sky Arts Awards, Winner of the Song Prize at the 2014 Kathleen Ferrier Awards and of a 2014 Leonard Ingrams Award from Garsington Opera, Jennifer France graduated from the Opera Course at the Royal Academy of Music, where she won many prizes, including the prestigious Patron’s Award that resulted in her solo recital debut at the Wigmore Hall, and was awarded the Principal’s Prize at graduation for exceptional all-round studentship in Summer 2013. Jennifer France has been awarded the Bruce Millar/ Gulliver Singing Prize in Glasgow and the Song Prize at the Hampshire Singing Competitin. She is currently studying with Lillian Watson.

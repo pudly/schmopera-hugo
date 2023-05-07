@@ -21,7 +21,9 @@ Francis Poulenc's _La voix humaine_ provides a very interesting artistic challen
 
 You bring it home and film it, of course. At least, that is the solution that [Helios Opera](/scene/companies/helios-opera/) has taken, in the first of what will hopefully become a series in its Modular Opera Project initiative. It is no doubt a massive logistical nightmare to attempt staging an entire full length opera where all of its moving parts cannot even rehearse in person, and no doubt it is a difficult enterprise. The fact that this production came off with almost no seams to show for it is a testament to the strength of what Helios Opera has learned in the process, and it provides a window into a thrilling way to deliver new opera productions in these times.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1597785871/media/2020/08/HO-Voixhumaine-1_t74a8m.png){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1597785871/media/2020/08/HO-Voixhumaine-1_t74a8m.png)
 
 </figure>
 
@@ -31,7 +33,9 @@ For one, it is quite well shot, and its choices of shot did a wonderful job of h
 
 For another thing, it pretty much kept Poulenc's score intact, albeit in piano reduction form owing to the difficulty of putting together a whole orchestra in these circumstances. This admittedly was something that made me nervous going into the broadcast, but Poulenc's score lost none of what makes it great even in this format. I admit to not being familiar with _Voix humaine_ before this performance, but if anything, having it pared down to just the piano highlighted how adeptly Poulenc paints his character's mood swings throughout the opera's 55-minute runtime. It was also synced and edited together so smoothly that I completely forgot that collaborative pianist Celeste Marie Johnson had not even rehearsed the piece with Cottarel in the room, and there was surprisingly little sound quality lost in the edit to bring it to this format.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1597785890/media/2020/08/HO-Voixhumaine-3_vzpxxp.png){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1597785890/media/2020/08/HO-Voixhumaine-3_vzpxxp.png)
 
 </figure>
 
@@ -39,7 +43,9 @@ And finally, I cannot think of a more thematically fitting opera to kickstart su
 
 Poulenc most likely did not have a global pandemic in mind when he and Jean Cocteau created _La voix humaine_, but presenting it in this format brings to the fore just how relevant the opera is, even if a few lines of libretto had to be edited somewhat to update the story for modern technology.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1597785904/media/2020/08/HO-Voixhumaine-4_oocgzc.png){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1597785904/media/2020/08/HO-Voixhumaine-4_oocgzc.png)
 
 </figure>
 

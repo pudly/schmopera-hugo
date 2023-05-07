@@ -25,7 +25,9 @@ In fact, 2019-20 will be a season that, as Davis describes it, "emphasizes conti
 
 The TSO's past, present, and future will all take the podium in 2019-20. In the fall Gimeno will conduct a Russian-French programme (October 9-12, 2019), and he'll return in April for a concert of Brahms featuring star pianist Yuja Wang (April 8-11, 2020). Oundjian will return for a hefty concert of **Mahler's Symphony No. 5** and Bruch's **Violin Concerto**, featuring TSO Concertmaster Jonathan Crow (April 29-May 2, 2020). And Sir Andrew Davis will be a season-long presence as a conductor, a composer, and even as an organist for Saint-Saëns' **"Organ Symphony"** (June 17-21, 2020).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548523379/media/2019/01/GustavoGimenoMarcoBorggreve.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548523379/media/2019/01/GustavoGimenoMarcoBorggreve.jpg)
 
 <figcaption>Gustavo Gimeno, incoming Music Director of the Toronto Symphony Orchestra (fall, 2020). Photo by Marco Borggreve, courtesy of the Toronto Symphony Orchestra.</figcaption>
 
@@ -37,7 +39,9 @@ Though these seasons of transition are perhaps light on the contemporary reperto
 
 Those paying attention already know that 2020 marks 250 years since Beethoven's birth, and the TSO is celebrating: On the year's line-up are Beethoven's Symphonies Nos. 5, 6, 7, and 8, his Piano Concerti Nos. 3, 4, and 5 (the latter performed by TSO favourite Jan Lisiecki), and his Violin Concerto, played by James Ehnes.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548523450/media/2019/01/TSO201920.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548523450/media/2019/01/TSO201920.jpg)
 
 <figcaption>Clockwise from top left: pianist Yuja Wang (photo: Kirk Edwards), soprano Barbara Hannigan (photo: Elmer de Haas), pianist Seong-Jin Cho (photo: Harald Hoffmann), and conductor Elim Chan (photo: Willeke Machiels). Photos courtesy of the Toronto Symphony Orchestra.</figcaption>
 

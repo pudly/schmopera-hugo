@@ -8,6 +8,7 @@ publishDate = "2016-10-01T12:55:00+01:00"
 related_companies = ["scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/staatsoper-berlin.md","scene/companies/deutsche-oper-berlin.md","scene/companies/the-metropolitan-opera.md"]
 slug = "christine-rice"
 title = "Christine Rice"
+_template = "people_single"
 +++
 
 Christine Rice is one of the leading British mezzo sopanos of her generation. A regular performer at the major European opera houses including Covent Garden; the Bayerische Staatsoper, Munich; Frankfurt Opera; the Teatro Real, Madrid and English National Opera she has built a reputation both as a singing actress and a Handelian of the highest order.

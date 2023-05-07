@@ -57,7 +57,9 @@ The entire Operalia experience has been a dream for me. I honestly didn't realiz
 
 Thinking about it beforehand, I was extremely intimidated but when I met him after the second round, as we were talking about the repertoire we would choose for the third round, the first thing that struck me was how human, warm and open he is. After shaking hands with him and seeing what an amazing and generous person he is, after seeing the good and positive energy that surrounds him, I couldn't be nervous anymore during the coaching. I was just ready to take in all the tips and knowledge he had to share. I was like a sponge trying to assimilate as much as I could.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527459347591/HDAdela.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527459347591/HDAdela.jpg.jpg)
 <figcaption>Adela Zaharia, soprano. Photo: Kartal Karadegik.</figcaption>
 </figure>
 

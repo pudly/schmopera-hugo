@@ -7,6 +7,7 @@ publishDate = "2018-05-04T21:32:00-04:00"
 related_companies = ["scene/companies/vancouver-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opra-national-de-paris.md","scene/companies/staatsoper-berlin.md","scene/companies/bayerische-staatsoper.md"]
 slug = "svetlana-aksenova"
 title = "Svetlana Aksenova"
+_template = "people_single"
 +++
 
 Svetlana Aksenova has been acclaimed internationally for her performances as Lisa in a new production of *The Queen of Spades* at the Dutch National Opera, directed by Stefan Herheim and conducted by Mariss Jansons, the title role in *Rusalka* at the Paris Opera, Cio-Cio-San in *Madama Butterfly* at the Deutsche Oper Berlin, Norwegian National Opera and Royal Swedish Opera in Stockholm, and Fevroniya in Dmitry Cherniakov’s production of Rimsky Korsakov’s *The Invisible City of Kitezh*, first at the Dutch National Opera and then for her debut at the Gran Teatre del Liceu in Barcelona.

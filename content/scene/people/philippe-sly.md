@@ -13,6 +13,7 @@ website = "http://philippesly.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/philippesly"
+_template = "people_single"
 +++
 
 French-Canadian bass-baritone Philippe Sly is already gaining international notoriety for his “beautiful, blooming tone and magnetic stage presence” (*San Francisco Chronicle*). Mr. Sly is the first prize winner of the prestigious 2012 Concours Musical International de Montréal and a grand prize winner of the 2011 Metropolitan Opera National Council Auditions singing the varied repertoire of Mozart, Bach, Handel, Stravinsky and Wagner. Recently, he was awarded Concert of the Year in Romantic, Post-Romantic and Impressionist Music at the 16th annual ceremony of the Prix Opus in Québec.

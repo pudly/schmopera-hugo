@@ -23,6 +23,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/martameritxell"
 
+_template = "people_single"
 +++
 Highlights in the 2018/19 season for British-Spanish mezzo-soprano Marta Fontanals-Simmons include her debut at the Royal Opera House, Covent Garden as Hel in the world premiere of Gavin Higgins _The Monstrous Child_ at the Linbury Theatre, Amando _Le Grand Macabre_ with the NDR Elbphilharmonie Orchester and Alan Gilbert, and a return to Glyndebourne Festival Opera for Zweite Dame _Die Zauberflöte_. Recent highlights include her debut at the Teatro Real, Madrid as Jennie Hildebrand in Weill _Street Scene_, Zweite Dame _Die Zauberflöte_ for Garsington Opera, the European premiere of Alasdair Nicolson _Shadows on the Wall – Five Hauntings_ at the Barbican, and Berlioz _La Captive_ with the BBC Symphony Orchestra conducted by Pascal Rophé. In future seasons, Fontanals-Simmons will make her debut for Monte-Carlo Opera and return to the Teatro Real, Madrid.
 

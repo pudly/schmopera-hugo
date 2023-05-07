@@ -8,6 +8,7 @@ related_companies = ["scene/companies/opera-5.md","scene/companies/opera-on-the-
 slug = "rachel-krehm"
 title = "Rachel Krehm"
 website = "http://www.rachelkrehm.com/"
+_template = "people_single"
 +++
 
 <p>

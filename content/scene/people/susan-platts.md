@@ -9,6 +9,7 @@ related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/comp
 slug = "susan-platts"
 title = "Susan Platts"
 website = "https://www.susanplatts.com/"
+_template = "people_single"
 +++
 
 British-born Canadian mezzo-soprano Susan Platts brings a uniquely rich and wide-ranging voice to the concert and recital repertoire for alto and mezzo-soprano. She is particularly acclaimed for her performances of Gustav Mahler’s works.

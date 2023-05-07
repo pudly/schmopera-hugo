@@ -19,6 +19,7 @@ platform = "Linkedin"
 template = "social-media"
 url = "https://www.linkedin.com/in/annie-rosen-17826766/"
 
+_template = "people_single"
 +++
 Mezzo-soprano Annie Rosen's performances have been acclaimed as “fearless,” “intensely present,” and “soul-crushingly vulnerable.” Prior to COVID-19, this season she was to have sung her first Cherubino/_Le nozze di Figaro_ with Opera Omaha, Kashchejevna/_Kashchej the Immortal_ with Chicago Opera Theater, Ruby in Virginia Opera's new production of _Cold Mountain_, the title role in _L'enfant et les sortilèges_ with Florentine Opera, and Unborn Child/_Die Frau ohne Schatten_ with The Metropolitan Opera. Given COVID-19, she's creating digital content for several companies and performing livestream recitals from balconies across Chicago.
 

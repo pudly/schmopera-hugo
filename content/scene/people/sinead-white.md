@@ -13,6 +13,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/sweetsinead/"
 
+_template = "people_single"
 +++
 Irish-born soprano Sinéad White is based in Toronto, Canada and maintains an active performing and teaching schedule in North America. She performs regularly with ensembles such as Tafelmusik Orchestra & Chamber Choir, Theatre of Early Music, and the Toronto Bach Festival. She and lutenist Jonathan Stuchbery founded Duo Oriana, a soprano/lute duo dedicated to music of the renaissance and baroque alongside arrangements of folk music from Ireland and Great Britain. They will be releasing their first album with Leaf Records, How Like a Golden Dream, in Spring 2023 and are currently the artists-in-residence at St. James Cathedral in Toronto.
 

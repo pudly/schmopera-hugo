@@ -21,7 +21,9 @@ For serious opera geeks, there are a few touchstone opera productions which are 
 
 The _Onegin_ _with the leaves_, created by Robert Carsen for the Metropolitan Opera in 1997, and its 2007 revival which was released on DVD (and, of course, surreptitiously uploaded to YouTube), was the first _Eugene Onegin_ I ever saw, and and since then, when someone mentions Tchaikovsky's opera, the image in my head is of a starry-eyed Renée Fleming in a white nightgown in front of a clear blue background on a stage covered in thousands and thousands of gold and orange autumn leaves. Carsen's production is iconic and a classic and so I was thrilled to learn that it would be coming to Washington, and just as I anticipated, the effect is even more stunning in person than on a screen.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552268028/media/2019/03/AremorsefulOneginbaritoneIgorGolovatenkostandsbesideshisdeadfriendLenskytenorAlexeyDolgoinWNOsproductionofEugeneOneginScottSuchman.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1552268028/media/2019/03/AremorsefulOneginbaritoneIgorGolovatenkostandsbesideshisdeadfriendLenskytenorAlexeyDolgoinWNOsproductionofEugeneOneginScottSuchman.jpg)
 
 <figcaption>Igor Golovatenko (Onegin) and Alexey Dolgov (Lensky) in Eugene Onegin, Washington National Opera, 2019. Photo: Scott Suchman.</figcaption>
 
@@ -33,7 +35,9 @@ Washington National Opera has made a big deal about the fact that this is the co
 
 Opposite Golovatenko, soprano [Anna Nechaeva](/scene/people/anna-nechaeva/) sang with a luscious, dark voice which, while exquisite in the middle and lower registers where the bulk of Tatiana's music lies, seemed pinched at the very top during the first half of Saturday's performance, which culminated in the strenuously long "letter scene," but she seemed to relax into it after intermission, revealing silvery high notes by the night’s end.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552267989/media/2019/03/AlthoughheartbrokenbyhisrejectionTatianasopranoAnnaNechaevstilllovesEugeneOneginbaritoneIgorGolovatenkoinWNOsproductionScottSuchman.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1552267989/media/2019/03/AlthoughheartbrokenbyhisrejectionTatianasopranoAnnaNechaevstilllovesEugeneOneginbaritoneIgorGolovatenkoinWNOsproductionScottSuchman.jpg)
 
 <figcaption>Igor Golovatenko (Onegin) and Anna Nechaeva (Tatiana) in Eugene Onegin, Washington National Opera, 2019. Photo: Scott Suchman.</figcaption>
 
@@ -45,7 +49,9 @@ Nechaeva tackled the complex role skillfully, embodying Tatiana's youthful, drea
 
 Mezzo-soprano [Lindsay Ammann](/scene/people/lindsay-ammann/) brought her wonderfully unusual voice to the role of the boisterous Olga. Having heard her in several roles at WNO, I never fail to be amazed at what she can do in the lowest parts of her range. As her counterpart, the doomed Lensky, tenor [Alexey Dolgov](/scene/people/alexey-dolgov/) sang with such earnestness and charm, his voice bright and warm from top to bottom, drawing the audience in during his mournful aria "Kuda, kuda".
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552267938/media/2019/03/BolshoioperastarAnnaNechaevamakesherUSdebutinWNOsproductionofEugeneOneginScottSuchman.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1552267938/media/2019/03/BolshoioperastarAnnaNechaevamakesherUSdebutinWNOsproductionofEugeneOneginScottSuchman.jpg)
 
 <figcaption>Anna Nechaeva (Tatiana) in Eugene Onegin, Washington National Opera, 2019. Photo: Scott Suchman.</figcaption>
 
@@ -53,7 +59,9 @@ Mezzo-soprano [Lindsay Ammann](/scene/people/lindsay-ammann/) brought her wonder
 
 Conductor Robert Trevino made his debut with WNO on Saturday, and under his direction the orchestra sounded warm and rich, if a little imprecise at moments - one such instance was during Tatiana's letter scene, where the staging has her giddily scoop up the leaves from the stage floor and toss them in the air at a climactic moment, but somehow she ended up just behind Trevino's downbeat, noticeably dampening the impact of the gesture.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552267896/media/2019/03/GivingintoprideandforegoingfriendshipafatefulduelbringsdramatoWNOsproductionofEugeneOneginScottSuchman.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1552267896/media/2019/03/GivingintoprideandforegoingfriendshipafatefulduelbringsdramatoWNOsproductionofEugeneOneginScottSuchman.jpg)
 
 <figcaption>A scene from Eugene Onegin, Washington National Opera, 2019. Photo: Scott Suchman.</figcaption>
 
@@ -61,7 +69,9 @@ Conductor Robert Trevino made his debut with WNO on Saturday, and under his dire
 
 As the stage director for this run, Peter McClintock had the unenviable job of recreating Robert Carsen's iconic staging, and seemed to take an "if it's not broke, don't fix it," approach. However the final scene seemed a bit frenetic, and could have benefitted from more stillness and stoicism from Tatiana.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552267855/media/2019/03/EugeneOneginbaritoneIgorGolovatenkocontemplateslifesdecisionsinWNOsproductionScottSuchman.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1552267855/media/2019/03/EugeneOneginbaritoneIgorGolovatenkocontemplateslifesdecisionsinWNOsproductionScottSuchman.jpg)
 
 <figcaption>Igor Golovatenko (Onegin) in Eugene Onegin, Washington National Opera, 2019. Photo: Scott Suchman.</figcaption>
 

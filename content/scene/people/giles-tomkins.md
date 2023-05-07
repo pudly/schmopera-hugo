@@ -14,6 +14,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/TomkinsGiles"
 
+_template = "people_single"
 +++
 Canadian/British bass-baritone Giles Tomkins is widely praised for his vocal virtuosity and lyricism in an impressive range of repertoire. His rich, resonant voice brings “authority and power” to the concert and operatic stage.
 

@@ -25,7 +25,9 @@ I sing professionally because I can. It makes me unbelievably happy to do so.
 
 I've gone through my career thinking, I'm going to hit the ceiling or I'm going to become the best I can be. I've come to realize that when you hit that ceiling, there's no more room for growth and forward momentum. So hopefully, the day I hit the ceiling will be the day they put me in the ground.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518489559764/Lucas-Meachem%2C-credit-Simon-Pauly-08.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518489559764/Lucas-Meachem%2C-credit-Simon-Pauly-08.jpg.jpg)
 <figcaption>Photo: Simon Pauly.</figcaption>
 </figure>
 
@@ -48,7 +50,9 @@ Of course! I was in Stuttgart for my first gig abroad as a hopeful young bariton
 
 I didn't know Paris and I didn't know French but I knew how to sing karaoke. I jumped right up and sang "I Believe I Can Fly." I put my heart out there. Well, Susie remembered that karaoke performance of mine and down the road she and Paul recommended me as a last-minute replacement for the ailing Simon Keenlyside at the Chicago Lyric Opera. Crazy!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518489571936/Lucas-Meachem%2C-credit-Simon-Pauly-10.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518489571936/Lucas-Meachem%2C-credit-Simon-Pauly-10.jpg.jpg)
 <figcaption>Photo: Simon Pauly.</figcaption>
 </figure>
 

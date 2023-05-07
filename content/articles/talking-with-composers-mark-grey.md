@@ -29,7 +29,9 @@ I am always inspired by the family, friends, colleagues, music and art surroundi
 
 Getting my hands dirty planting the earth, tending to the land with a chainsaw, baking and brewing, reading, and maybe driving up the Highway 1 coastline will ultimately blow out any cobwebs. Also, long walks and hikes really get my ideas flowing. I imagine Mahler taking long walks in the Austrian Salzkammergut to find inspiration.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1555379880/media/2019/04/creacio_final.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1555379880/media/2019/04/creacio_final.jpg)
 
 <figcaption>A look at the scenic design for Mark Grey's opera, Frankenstein, La Monnaie, 2019. Image: Alfons Flores.</figcaption>
 
@@ -47,7 +49,9 @@ We are demanding more clarity from our artistic experiences and opera is no diff
 
 There is often the perception that when creative writers have that "flash" of inspiration, the work is done. For myself, after those initial inspirational moments, the reality of the work schedule is often a rigorous 5am through 7pm routine – often without days off, and in solitude. For the _Frankenstein_ opera, I sustained this for 14 months. That is the reality.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1555379896/media/2019/04/GREY01-IMAGE-BY-StellaOlivier.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1555379896/media/2019/04/GREY01-IMAGE-BY-StellaOlivier.jpg)
 
 <figcaption>Mark Grey, composer and sound designer. Photo: Stella Olivier.</figcaption>
 

@@ -21,6 +21,7 @@ url = "https://twitter.com/Soprano_JPratt"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/jprattsoprano"
+_template = "people_single"
 +++
 
 Hailed by the New York Times as a soprano of "gleaming sound, free and easy high notes, agile coloratura runs and lyrical grace," Jessica Pratt is considered one of today's foremost interpreters of some of bel canto's most challenging repertoire.

@@ -13,6 +13,7 @@ website = "http://www.nancyallenlundy.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/nancy.allenlundy"
+_template = "people_single"
 +++
 
 Described as, "enthralling" (*Opera News*), Nancy Allen Lundy has earned critical acclaim for her unique vocal beauty, skillful musicianship and theatrical prowess in a variety of classical and contemporary styles.  Engagements with opera companies and festivals include Teatro alla Scala (Milan), English National Opera, Netherlands Opera, New York City Opera, Houston Grand Opera, Washington Opera, Cincinnati Opera, Opera Company of Philadelphia, Hawaii Opera Theater, Minnesota Opera, Opera Theatre of St. Louis, Portland Opera, Spoleto, USA, Teatro Municipal de Santiago (Chile), Bregenzer Festspiele (Austria), Festival Euro Mediterraneo (Rome) Opera de Lyon, and Suntory Hall (Tokyo).  Her operatic repertoire encompasses more than thirty roles, of which she has earned particular acclaim for her portrayals of Curley's Wife in *Of Mice and Men*, Gilda in *Rigoletto*, Musetta in *La Bohème*, Anne Trulove in *The Rake's Progress*, Sophie in *Der Rosenkavalier*, the title role in *Lucia di Lammermoor*, Rosina in *Il Barbiere di Siviglia*, and Cunegonde in *Candide*, to name a few. 

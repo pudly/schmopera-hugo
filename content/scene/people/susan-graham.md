@@ -17,6 +17,7 @@ url = "https://www.facebook.com/MezzoGraham?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MezzoGraham"
+_template = "people_single"
 +++
 
 Susan Graham—dubbed “America’s favorite mezzo” by Gramophone magazine—rose to the highest echelon of international artists within just a few years of her professional debut, mastering an astonishing range of repertoire and genres along the way. Her operatic roles span four centuries, from Monteverdi’s Poppea to Sister Helen Prejean in Jake Heggie’s Dead Man Walking, which was written especially for her. Graham won a Grammy Award for her collection of Ives songs, and her recital repertoire is so broad that 14 composers from Purcell to Sondheim are represented on her most recent album, Virgins, Vixens & Viragos. Throughout her career, however, this distinctly American artist has been recognized as one of the foremost exponents of French vocal music; a Texas native, she was awarded the French government’s prestigious “Chevalier de la Legion d'Honneur,” both for her popularity as a performer in France and in honor of her commitment to French music.

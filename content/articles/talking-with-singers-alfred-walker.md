@@ -25,7 +25,9 @@ Orest is a man with a huge weight on his shoulders.  Imagine being charged with 
 
 Not sure if this is a misconception about Orest but it's important to remember that Orest is Elektra's baby brother.  Orest was quite young when his father was murdered and was taken away from the house when he was just a boy.  This could also explain his hesitation.  He's not as bloodthirsty as Elektra because he didn't experience the negative events so vividly. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504637083283/2017-09-06---Scene-from-Strauss-Elektra-at-San-Francisco-Opera-with-Alfred-Walker-as-Orest-and-Christine-Goerke-in-the-title-role-Photo-by-Cory-Weaver.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504637083283/2017-09-06---Scene-from-Strauss-Elektra-at-San-Francisco-Opera-with-Alfred-Walker-as-Orest-and-Christine-Goerke-in-the-title-role-Photo-by-Cory-Weaver.jpg.jpg)
 <figcaption>A scene from Strauss' *Elektra* at San Francisco Opera, with Alfred Walker (Orest) and Christine Goerke (Elektra). Photo: Cory Weaver.</figcaption>
 </figure>
  

@@ -21,7 +21,9 @@ For as long as I can recall, the ceremonies that come with November 11 have evok
 
 The TSO's performance of Britten's *War Requiem* was excellent, and rooted in respect well before the first notes were played. Nodding to the three soloists whom Britten envisioned for the 1962 premiere of his work, Russian soprano Galina Vishnevskaya, German baritone Dietrich Fischer-Dieskau, and English tenor Peter Pears, the TSO mirrored the gesture of global reconciliation with their line-up of singers: Russian soprano Tatiana Pavlovskaya, German-Canadian baritone Russell Braun, and English tenor Toby Spence.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541954109691/TatianaPavlovskayaWarRequiemJagGundu.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541954109691/TatianaPavlovskayaWarRequiemJagGundu.jpg.jpg)
 <figcaption>Tatiana Pavlovskaya performing Britten's *War Requiem* with the Toronto Symphony Orchestra. Photo: Jag Gundu.</figcaption>
 </figure>
 

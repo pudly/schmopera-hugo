@@ -23,7 +23,9 @@ The second thing that transfers really well is the intense attention to musical 
 
 I think for me it all comes down to storytelling. Whether you're singing opera, art song, folk music, or even country, you're unfolding a story for the audience and transporting them to a different time and place than the present. Schubert's traveller in *Winterreise* and Hank Williams' lonesome soul in "Lost Highway" have a lot in common despite the centuries between them, and immersing myself in either character brings me a lot of satisfaction.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504205593261/2017-08-31---justin_ralph_album_cover.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504205593261/2017-08-31---justin_ralph_album_cover.jpg.jpg)
 </figure>
 
 ## How has your album been inspired by art song cycles?
@@ -32,7 +34,9 @@ For *By the Old Railroad*, I wanted to link each song conceptually, and have a s
 
 The biggest influence song cycle wise was Vaughan Williams' *Songs of Travel*, which has always been a personal favourite of mine. In that cycle, the songs are conceptually linked, and there is a a sense of journey, with a beginning, middle, and end. But it's also not as specific a journey as something like *Die schöne Müllerin*, so more is left up to the imagination of the audience. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504205572202/2017-08-31---beckettalbum2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504205572202/2017-08-31---beckettalbum2.jpg.jpg)
 <figcaption>Justin Ralph and Beckett.</figcaption>
 </figure>
 

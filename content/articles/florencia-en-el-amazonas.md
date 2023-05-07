@@ -23,7 +23,9 @@ Houston Grand Opera's legacy of promoting contemporary operas was triumphantly v
 
 The news of this production came to me just as I began to essay an intensive study of the Spanish language; this, in combination with the recent multiplicity of Spanish-language television and films on Netflix, made my attendance a certainty. What better way to practice listening comprehension than see how much text I could understand without looking at the surtitles? I'd say I was 50 percent successful in this case, and this was reasonable given how difficult it was for voices to penetrate the sometimes dense orchestration, though I did understand enough to perceive that the rigid blocks of surtitles lent themselves imperfectly to conveying the gist of librettist Marcela Fuentes-Berain's limpid, malleable text.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548104983/media/2019/01/HGO-Florencia-2019-OrchestraDressRehearsal-PhotographerLynnLane-2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548104983/media/2019/01/HGO-Florencia-2019-OrchestraDressRehearsal-PhotographerLynnLane-2.jpg)
 
 <figcaption>The Houston Grand Opera Chorus in Florencia en el Amazonas, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
@@ -37,7 +39,9 @@ Besides Florencia, the role that most immediately stands out would have to be R�
 
 Ríolobo was particularly charismatic as well when announcing the day's special lunch of iguana, much to Paula's ([Nancy Fabiola Herrera](/scene/people/nancy-fabiola-herrera/)) chagrin; this should not be a surprise, given that Herrera was very apt at expressing some sort of declamatory emotion or opinion about everything. As Alvaro, baritone Thomas Glass was an agreeably gallant and affable presence who was somehow able to maintain a degree of gentlemanly composure throughout the action, even when inexplicably rescued from the lethal currents in the second act.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548105108/media/2019/01/HGO-Florencia-2019-OrchestraDressRehearsal-PhotographerLynnLane-28.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548105108/media/2019/01/HGO-Florencia-2019-OrchestraDressRehearsal-PhotographerLynnLane-28.jpg)
 
 <figcaption>Ana María Martínez as Florencia Grimaldi in Florencia en el Amazonas, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
@@ -47,7 +51,9 @@ The couple of Rosalba ([Alicia Gianni](/scene/people/alicia-gianni/)) and Arcadi
 
 > Catán, a native of Mexico City, has rightly had his music hailed alongside the likes of Debussy, Ravel, and Puccini for its brilliance, luminescence, and fluency in deployment of soaring vocal lines
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548105286/media/2019/01/HGO-Florencia-2019-OrchestraDressRehearsal-PhotographerLynnLane-76.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548105286/media/2019/01/HGO-Florencia-2019-OrchestraDressRehearsal-PhotographerLynnLane-76.jpg)
 
 <figcaption>(l-r) Joshua Guerrero as Arcadio, Nancy Fabiola Herrera as Paula, Tommy Glass as Alvaro and Alicia Gianni as Rosalba in Florencia en el Amazonas, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
@@ -57,7 +63,9 @@ Catán, a native of Mexico City, has rightly had his music hailed alongside the 
 
 Maestro Patrick Summers led this orchestral maelstrom with the great assurance that comes out of devotion to a masterwork which he has known for years, the desire to make everything count, with humility enough to understand that a powerhouse like this can easily consume those who approach it recklessly. Although Catán's selective deployment of turgid bass instrument textures (with good reason given the surroundings) made balance a very tricky proposition even at the best of times, this was generally easy to overlook because of the composer’s ability to keep the rest of the score always interesting. Here a raucous woodwind passage, there a brass section moment, the combined result giving me the feeling of wading through the exotic wordscapes of Doña Bárbara. And did I mention the tasteful steel drums?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548105409/media/2019/01/HGO-Florencia-2019-OrchestraDress-PhotographerLynnLane-90.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548105409/media/2019/01/HGO-Florencia-2019-OrchestraDress-PhotographerLynnLane-90.jpg)
 
 <figcaption>Norman Garrett as Ríolobo in Florencia en el Amazonas, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 

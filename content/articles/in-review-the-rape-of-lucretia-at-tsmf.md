@@ -22,7 +22,9 @@ In what was billed as a semi-staged concert production of the Britten masterpiec
 
 This cast was directed in Banff by Scottish director [Paul Curran](/talking-with-directors-paul-curran/) as part of the Open Space: Opera in the 21st Century program that sees the Banff Centre for the Arts teaming with Against the Grain Theatre and the [Canadian Opera Company](/scene/companies/canadian-opera-company/) to look at new ways of producing classic operas and how to push the boundaries of the art form in today's world. They've brought us such amazing works as *#UncleJohn* (a transladaptation of Mozart's *Don Giovanni*) and *A Little Too Cozy* (completing the Da Ponte trilogy with *Così fan tutte*). It was a treat to have this company brought forth by Toronto Summer Music Festival as part of their "London Calling" theme for this season. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469370983775/2016-07-24---Lucretia-TSMF-Tarq-Luc.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469370983775/2016-07-24---Lucretia-TSMF-Tarq-Luc.jpg.jpg)
 <figcaption>Iain MacNeil (Tarquinius) and Emma Char (Lucretia) in *The Rape of Lucretia*, Toronto Summer Music Festival, 2016. Photo by Jorge Chaves.</figcaption>
 </figure>
 
@@ -30,7 +32,9 @@ Conducted by AtG Music Director [Topher Mokrezewski](/scene/people/christopher-m
 
 McCausland (who was under the weather) still sounded fantastic. I really like hearing him sing Britten. His easy diction and ability to flourish through all parts of his register were perfect for the difficult music written for the Male Chorus. Not to be outdone, Rus had a very sincere, almost musical theatre like delivery as well, with a spinto-like bloom over the top of her register. There was the occasional balance issue when she got into her lower range, but I attribute that more the the space than the musicality of those onstage. Their portrayal as "the conscience" of the characters in the drama was clear and concise; it was a very effective tool to help drive the choices of some of the characters on stage. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469371060374/2016-07-24---Lucretia-TSMF-Coll-Luc-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469371060374/2016-07-24---Lucretia-TSMF-Coll-Luc-2.jpg.jpg)
 <figcaption>Jasper Leever (Collatinus) and Emma Char (Lucretia) in *The Rape of Lucretia*, Toronto Summer Music Festival, 2016. Photo by Jorge Chaves.</figcaption>
 </figure>
 
@@ -38,13 +42,17 @@ In the title role, mezzo-soprano [Emma Char](/scene/people/emma-char/), was ever
 
 As Tarquinius, bass-baritone [Iain MacNeil](/scene/people/iain-macneil/) was perfectly cast. He communicated his princely upbringing with ease and made it easy for the audience to understand the life of privelege he's led up to this point. He was very good at playing the fine line between a man of importance (or future importance as the crown prince) and someone who's easily swayed by the council of others. His full rich tone mixed very well not only with Lucretia but also with the other men in his military company. It was a dark portrayal, and one I really enjoyed. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469371019205/2016-07-24---Lucretia-TSMF-Men.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469371019205/2016-07-24---Lucretia-TSMF-Men.jpg.jpg)
 <figcaption>l-r: Iain MacNeil (Tarquinius), Jasper Leever (Collatinus), and Peter Rolfe Dauz (Junius) in *The Rape of Lucretia*, Toronto Summer Music Festival, 2016. Photo by Jorge Chaves.</figcaption>
 </figure>
 
 Bass-baritone [Jasper Leever](http://www.jasperleever.com/) and baritone [Peter Rolfe Dauz](/scene/people/peter-rolfe-dauz/) sang the roles of Collatinus (Lucretia's husband) and Junius respectively. Leever's Collatinus sounded glorious in the Winter Garden Theatre and Dauz's voice had a wonderful cut that carried his brighter sound all the way to the back of the hall - and maybe into the street. The dynamic forged between the three soldiers, and how that can quickly and easily turn when mixed with a little too much liquor, was handled very well. They managed to go as far as they needed in the ugliness of it all without being gratuitous. I really enjoyed the scene between Duaz and MacNeil where Junius goads Tarquinius, along with the help of the Male Chorus, to follow his nefarious urges and go to Lucretia in the town while the men sleep. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469371083625/2016-07-24---Lucretia-TSMF-Ladies.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469371083625/2016-07-24---Lucretia-TSMF-Ladies.jpg.jpg)
 <figcaption>Clockwise from top: Ellen McAteer (Lucia), Emma Char (Lucretia), and Beste Kalender (Bianca) in *The Rape of Lucretia*, Toronto Summer Music Festival, 2016. Photo by Jorge Chaves.</figcaption>
 </figure>
 
@@ -52,7 +60,9 @@ As Lucretia's nurse, Bianca, and her maid Lucia, mezzo-soprano [Beste Kalender](
 
 Although this production was originally directed by Paul Curran, it was staged here by [Anna Theodosakis](/scene/people/anna-theodosakis/), who assisted Curran in Banff, and recently staged this same piece for [MyOpera](/scene/companies/myopera/). I felt it was essentially the same production we saw in the spring only with different singers. I feel like the Winter Garden may have been a little too big for Theodosakis's intimate interpretation of the piece, and the logistics of this classic proscenium environment occasionally found the singers in a difficult spot to engage with the audience and their fellow players. That being said, she did tap into the chemistry of Char's Lucretia and MacNeil's Tarquinius very well, and her use of the Male and Female Chorus not just as an omniscient narrator but as actual forces that drive some of their choices was very successful. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469371218202/2016-07-24---Lucretia-TSMF-Coll-Luc.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469371218202/2016-07-24---Lucretia-TSMF-Coll-Luc.jpg.jpg)
 <figcaption>Jasper Leever (Collatinus) and Emma Char (Lucretia) in *The Rape of Lucretia*, Toronto Summer Music Festival, 2016. Photo by Jorge Chaves.</figcaption>
 </figure>
 

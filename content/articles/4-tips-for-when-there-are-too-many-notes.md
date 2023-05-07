@@ -18,7 +18,7 @@ For every long and terrifying melisma, there are a handful of shorter phrases wi
 
 This is a section of coloratura from Handel's *Giulio Cesare*. It can look like an endless stream of notes, but there are ways to make sense of it; here's one of those ways:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433446123626/CesareColoraturaPhrasing.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433446123626/CesareColoraturaPhrasing.jpg.jpg)
 </figure>
 
 Patterns happen to be a golden ticket for singing coloratura. The red lines divide a long phrase into sequential steps; in this case, they're guided by the harmonic pattern in the bass. A bonus effect of grouping the coloratura this way is lightness. By beginning a phrase on a very weak beat, the singer will be less inclined to start beating tempo with his voice; the melisma starts to have a feeling of being in 2/2 instead of 4/4.
@@ -30,14 +30,14 @@ In Handel coloratura, or anything that's rhythmically square, it's easy to explo
 
 Just like the mini-phrases hidden in long melismas, there's usually a sort of counter-melody to be found as well. This can help you find the big picture, or the skeleton of a melisma. Here's that same section of *Cesare*, this time showing one of these hidden melodies.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433381191965/CesareColoraturaBigBeats.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433381191965/CesareColoraturaBigBeats.jpg.jpg)
 </figure>
 
 Again using the harmonic motion underneath the voice, we've taken the primary notes of this melisma and isolated them. It's worth trying out this overarching tune a few times, singing the circled notes in bars 32-33 as half notes, and quarter notes in bar 34. This hidden melody is at a much kinder tempo than the actual run, so take the time to enjoy it as you try it out. When you go back to sing as written, you can hear that Handel is just jazzing up a fairly basic three-note melody. No need to get bogged down in every single note.
 
 Here's another example, from Sesto's first aria in Mozart's *La clemenza di Tito*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433382418471/SestoColoratura.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433382418471/SestoColoratura.jpg.jpg)
 </figure>
 
 Mezzos hate this bit, and it's understandable. But when you find the checkpoints, the big picture of all these triplets, it's much more palatable. There's an easy rising third pattern in the circled quarter notes, under which Mozart added a few ornamental notes. Yes, it doesn't change the fact that it keeps rising up to a B-flat, but seeing the forest for the trees will keep you singing light and thinking ahead. It's hard to explain precisely why this works, but we've heard mezzos try it out, and go from running out of air to finishing "beltà" with gusto.
@@ -46,7 +46,7 @@ Mezzos hate this bit, and it's understandable. But when you find the checkpoints
 
 This is a piano trick, and although it doesn't always translate into a good method for singers, it's really applicable for learning coloratura. Here's a section of a horridly fast aria in Handel's *Semele*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433383405167/SemeleColoratura.png)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433383405167/SemeleColoratura.png)
 </figure>
 
 This melisma combines scales and arpeggios, and takes unexpected dips and dives all over the place. Since you're going to have to repeat this run *a lot of times* before you can sing it *a tempo*, you may as well repeat it intelligently. The trick is to ignore the rhythm (for a bit). The short version of this trick is to turn straight sixteenth notes into dotted sixteenth notes; once you've mastered dotted-eight-note + sixteenth, try sixteenth + dotted eighth (short-long, versus long-short).
@@ -60,21 +60,21 @@ short*, *short-Long...short-short*, etc. Then, the third note is the long one, a
 
 At the very least, it'll keep you from overthinking the technical. Simply put, make sure you know *why* you're singing all those notes. Remind yourself that your character might be so happy she's on the verge of laughter, like Cleopatra:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433384723328/Screen%20Shot%202015-06-03%20at%2010.18.22%20PM.png)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433384723328/Screen%20Shot%202015-06-03%20at%2010.18.22%20PM.png)
 </figure>
 
 Cleopatra laughs, apparently, in short fits followed by high-pitched shrieks. Those tiny phrases leading down to trills are easier to make sense of with her mood in mind, and you'll be more likely to come up with creative ways to make these lines your own. Those repeated eight notes, while still tricky to keep in tune, will at least be motivated, even when you're not.
 
 Or your character might be a bit schizophrenic, like the Queen of the Night:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433384956898/Screen%20Shot%202015-06-03%20at%2010.20.30%20PM.png)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433384956898/Screen%20Shot%202015-06-03%20at%2010.20.30%20PM.png)
 </figure>
 
 There are so many personalities in these three lines, and it's worth your while to get specific early on. The top of the page seems a bit cheerful, letting Tamino know that her daughter really is pretty, and by the middle of the second line, she's reminding him that she's in charge and she's handing out orders (it's fun to imagine in that last arpeggio up to the high F that she's screaming, "I'm the QUEEN!"). It sounds like dramatic work that won't translate into technique, but it can answer technical questions for they even arise. Plus, you'll be a vocal chameleon and wow the crowd.
 
 Lastly, don't forget to have fun. Yes, using a Zerbinetta example is sort of mean, because it's some of the hardest coloratura in the opera canon. But let's not forget, in all the chromatic triplets, that this lady wants to get *laid*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433385513156/Screen%20Shot%202015-06-03%20at%209.57.18%20PM.png)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433385513156/Screen%20Shot%202015-06-03%20at%209.57.18%20PM.png)
 </figure>
 
 Nymphomaniacal music is much more interesting to sing than trills and weird intervals, no?

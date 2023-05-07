@@ -21,7 +21,9 @@ youtube_url = ""
 
 Running[ 21 February to 3 March at the The Royal Opera House's  Linbury Theatre](https://www.roh.org.uk/productions/the-monstrous-child-by-timothy-sheader), _The Monstrous Child_ is the operatic adaptation of the teen fiction book by Francesca Simon. Drawn from Norse mythology, the story centres on [Hel](https://en.wikipedia.org/wiki/Hel_(being)), the teenage goddess who presides over the dead. Higgins describes the opera, which shares source material with the expansive works of Wagner, as "basically what _Wicked_ is to _The Wizard of Oz_, but to the _Ring Cycle."_
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550272581/media/2019/02/GavinHigginsPortrait.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550272581/media/2019/02/GavinHigginsPortrait.jpg)
 
 <figcaption>Gavin Higgins, composer of The Monstrous Child.</figcaption>
 
@@ -29,7 +31,9 @@ Running[ 21 February to 3 March at the The Royal Opera House's  Linbury Theatre]
 
 When we spoke, Higgins was finishing his orchestration in anticipation for the first rehearsals with the Aurora Orchestra. "I don't find it as taxing as composing," he says of orchestration. "It's a bit like puzzle-solving." _The Monstrous Child_ marks Higgins' first opera, and even his first foray into writing for the voice. He comes from a familial line of brass band players, and got the opera bug after seeing Ligeti's _Le grand macabre_ at English National Opera. He read Simon's book, which he deemed both brilliant and operatic, and brought a workshop-ready score for proposal to the Royal Opera House. After the work's single workshop, Higgins recalls, "they commissioned it straight away. Which is apparently unheard of."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550253062/media/2019/02/PR8A2350r.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550253062/media/2019/02/PR8A2350r.jpg)
 
 <figcaption>Gavin Higgins in rehearsal with Francesca Simon. ROH, 2019. Photo: Stephen Cummiskey.</figcaption>
 

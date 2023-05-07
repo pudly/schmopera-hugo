@@ -25,7 +25,9 @@ I am also a huge people person and love working with others towards an end proje
 
 Good singing is when you get to the performance or audition and you have done absolutely all the preparation you could have done. You let go, are not worried at all about technique and you just sing and communicate with full honesty, freedom and commitment. I can't really explain how to get to this point – it sometimes happens for me and it sometimes doesn't. I'm still trying to discover how to reach it every time. However, when it's happening, I *definitely* know and I have a feeling of lightless – kind of like I'm floating. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467598002833/2016-07-04---VanessaMidsummer4.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467598002833/2016-07-04---VanessaMidsummer4.jpg.jpg)
 <figcaption>Vanessa (centre) as Tytania in *A Midsummer Night's Dream* with Opera McGill, 2014. Photo by Adam Scotti.</figcaption>
 </figure>
 
@@ -41,7 +43,9 @@ Normally, the voice in my head would say things like "you're running out of air"
 
 Fiordiligi, Adina, Norina, Anne Trulove. Non-realistic: Carmen!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467598013110/2016-07-04---Le-Nozze-di-Figaro-August-2013.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467598013110/2016-07-04---Le-Nozze-di-Figaro-August-2013.jpg.jpg)
 <figcaption>As Susanna in *Le nozze di Figaro* with Halifax Summer Opera Festival, 2013. Photo by Emily Jewer
 </figcaption>
 </figure>

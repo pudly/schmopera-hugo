@@ -11,6 +11,7 @@ title = "Adam Fisher"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/adam_jm_fisher"
+_template = "people_single"
 +++
 
 Canadian tenor Adam Fisher is rapidly gaining attention for his charismatic stage presence in a wide range of repertoire. Critics hailed his debut as Pedrillo in Opera Atelier’s production of Mozart’s *Abduction from the Seraglio* and his performance in City Opera Vancouver’s world premiere of Margaret Atwood and Tobin Stokes’ opera *Pauline* drew critical acclaim.

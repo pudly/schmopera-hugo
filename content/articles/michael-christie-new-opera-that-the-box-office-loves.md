@@ -24,7 +24,9 @@ Christie is Music Director at a company which thrives on a programming model man
 
 Minnesota Opera has hard evidence that new opera is capable of attracting audiences, and even selling out the house. For the spring 2016 premiere of *The Shining*, says Christie, "standing room and normal seats were pre-sold. The only thing you could get were turnbacks." He also saw a "crazy demographic shift," with a big jump in single-ticket buyers, many of whom were notably under 40.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468174863775/2016-07-09---The-Shining.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468174863775/2016-07-09---The-Shining.jpg.jpg)
 <figcaption>Brian Mulligan as Jack Torrance in *The Shining*, 2016. Photo: Ken Howard for Minnesota Opera.</figcaption></figure>
 
 Minnesota isn't the only house with world premieres to its name; it's impressive and exciting to hold a rich history of new works, but Christie also values the positive audience reception and strong box office sales. "Not only does it provide great ammunition for partnering companies," he says, "but also for our audience, to say, 'if you're thinking about coming to see a Minnesota Opera production, you might want to think about buying your tickets early.'"
@@ -33,7 +35,9 @@ Minnesota isn't the only house with world premieres to its name; it's impressive
 
 Christie is optimistic that "we've built up enough momentum on the side of new work in general that we could actually present something that's original." Without existing tropes or expectations, audiences will be free to "see the connection to whatever human condition it is, rather than relying on the fact that it's the title of a book that they might not have actually read."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468175065153/2016-07-09---Christie-Michal-Daniel.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468175065153/2016-07-09---Christie-Michal-Daniel.jpg.jpg)
 <figcaption>Michael Christie, Music Director of Minnesota Opera. Photo by Michal Daniel.</figcaption></figure>
 
 ## New challenges for singers
@@ -48,7 +52,9 @@ The works themselves offer technical challenges to any singer, and Christie note
 
 Fortunately for singers, the aesthetic for new works has shifted towards being more melody-friendly. In North America, influences like jazz and musical theatre have resulted in more harmonic resolutions, and even some hummable tunes for the audience's post-premiere enjoyment. "Not only the singers, but the producing companies have started looking purposefully for people who have that disposition," agrees Christie. "I rarely have heard an opera audience say, "that's just crap because it sounds like musical theatre." I've often heard them say, "Phew, a tune, that's great!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468174827330/2016-07-09---Silent-Night.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468174827330/2016-07-09---Silent-Night.jpg.jpg)
 <figcaption>*Silent Night*, 2011. Photo: Michal Daniel for Minnesota Opera.</figcaption></figure>
 
 ## The future is bright

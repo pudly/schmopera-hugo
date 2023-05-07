@@ -15,14 +15,18 @@ If you love opera, you probably love Mozart's _Don Giovanni_. The jury is out, h
 
 ## Exhibit A:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428978831649/NonMiDir1-1024x682.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428978831649/NonMiDir1-1024x682.jpg.jpg)
 </figure>
 
 It's a bit from Donna Anna's second aria, "Non mi dir". She's talking to Don Ottavio, who's trying to politely bring up the topic of marriage (what a jerk), and Anna avoids giving him an answer by making him feel terrible for bothering her at all. Saying things like, "Don't call me mean, you know I love you, please calm down or you'll make me so sad I'll die" (I paraphrase Da Ponte). This moment of genius by Mozart is what I like to call The World's Most Beautiful Whine. Just look at Anna's line, starting unnaturally high in her voice, and proceeding to smear up and down like a siren. Look at those last two notes on the word "dir". They're lies! Look at how shocked and appalled Anna is during those snappy chords under "i-o" (she's in the middle of saying, "Don't tell me that I've been cruel with you."). She's more likely saying, "Don't tell me _**I've**_ been cruel with you." What a hussy. And then she gets into all this nonsense:
 
 ## Exhibit B:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428978874157/NonMiDir3-1024x682.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428978874157/NonMiDir3-1024x682.jpg.jpg)
 </figure>
 
 She's now past directly making Ottavio feel terrible; now she's doing it by saying "Well, maybe at least heaven will have pity on me." The blurry notes at the top of the page are incessant runs (that are wickedly impressive) on the words "will feel", so Mozart is clearly driving that point home. But at the bottom of the page, that big fat "pietà di _**me**_" ("pity on me"), that's the real kicker. It's overkill. It doesn't need to be that high. But people who aren't telling truths speak with weird inflection. Like a random, additional high A on the word "me" (either language works). See, I think that Mozart created Anna as a character who wants to maintain privacy over a few details of her encounter with Don Giovanni. I'm not saying she was into it and then went screaming assault, but I do think there's some musical equivalence to the saying, "the lady doth protest too much, methinks."

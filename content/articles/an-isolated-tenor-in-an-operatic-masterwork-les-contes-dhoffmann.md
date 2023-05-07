@@ -18,7 +18,7 @@ In its current incarnation at the Metropolitan Opera, Bartlett Sher's 2009 produ
  
 A shame, because Hoffmann is an operatic masterwork. Offenbach seamlessly shifts between styles and techniques. He employs ear-worming tunes one moment and sweeping melodies bursting with gravitas the next. His dramatic writing measures up to his comedic writing. Combined with a mastery of irony, character building, story telling, and orchestration, Offenbach wrote an under-appreciated gem.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508258432884/2017-10-17---Hoffmann_1223-s.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508258432884/2017-10-17---Hoffmann_1223-s.jpg.jpg)
 <figcaption>Tara Erraught as Nicklausse in Offenbach's *Les Contes d'Hoffmann*. Photo: Marty Sohl/Metropolitan Opera.</figcaption>
 </figure>
  
@@ -30,7 +30,7 @@ The opera's protagonist, a fictional E.T.A. Hoffmann, tells three stories of hea
  
 Hoffmann purchases rose tinted glasses from the villain Coppélius. Seen through the magic glasses, the world looks like an idealized version of itself. Hoffmann puts them on and immediately falls in love with Olympia.
  
- <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508258469214/2017-10-17---Hoffmann_1841-s.jpg.jpg)
+ <figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508258469214/2017-10-17---Hoffmann_1841-s.jpg.jpg)
 <figcaption>Erin Morley as Olympia and Vittorio Grigolo in the title role of Offenbach's *Les Contes d'Hoffmann*. Photo: Marty Sohl/Metropolitan Opera.</figcaption>
 </figure>
  
@@ -44,7 +44,7 @@ And the comedy: Morley's Olympia scrolled from modest to coquettish to aggressiv
  
 Over two hours remained. Though a vocal pinnacle was reached, the evening continued to evolve. The fair grounds clear. Olympia, shut down, is stored in a cavernous, dark space. Hoffmann follows, hoping to claim her. Behind Hoffmann and Olympia are two identically dressed couples dancing languidly. Upstage center, a prototype manikin of Olympia observes the trio of couples. The eerie duplications emphasize that Olympia is a man-made commodity, and that Hoffmann is one of many depraved suckers who, in place of a genuine human relationship, wants blind affirmation and a vessel to express himself on. He reflects the age of free internet porn, when young men can avoid the vulnerability of relationships by relying on computers for sexual gratification.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508258508653/2017-10-17---Hoffmann_2979-s.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508258508653/2017-10-17---Hoffmann_2979-s.jpg.jpg)
 <figcaption>Anita Hartig as Antonia and Laurent Naouri as Dr. Miracle in Offenbach's *Les Contes d'Hoffmann*. Photo: Marty Sohl/Metropolitan Opera.</figcaption>
 </figure>
         	
@@ -54,7 +54,7 @@ But forget all that for a minute because it was the servant Frantz who stole the
  
 Frantz is forbidden to sing by Antonia's father. His voice is irritates the old man. But left alone on stage, he radiates charm and confidently claims that with proper instruction, he could be a great singer and dancer. He even has an instruction manual to guide him. His thinned voice wails sweetly through exercises and he squeals as he hikes his leg up on the back of a chair. He is a perfect amateur, impossible to discourage, delighting in his private art.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508258638867/2017-10-17---Hoffmann_2314-s.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508258638867/2017-10-17---Hoffmann_2314-s.jpg.jpg)
 <figcaption>Christophe Mortagne as Frantz in Offenbach's *Les Contes d'Hoffmann*. Photo: Marty Sohl/Metropolitan Opera.</figcaption>
 </figure>
  
@@ -62,7 +62,7 @@ Frantz is called back to work. He folds and rips and folds and rips his singing 
  
 The love duet that followed dropped the energy Mortagne's ebullience had built. Grigolo's Hoffmann resembles his Rodolfo or Romeo; nothing distinguishes the character from the other romantic tenors in his repertoire. Throughout the opera, Mr. Grigolo was a dramatic island, set apart from his fellow players. He seemed primarily interested in his own singing, which is undeniably impressive. His relationship to other characters was general, like he had met them all before, but could neither recall their names nor the circumstances under which they met. He faked his way through interactions with stock gestures and operatic clichés that fit the "tenor love interest" mold. Maybe dramatic sacrifices are necessary to maintain one of the most consistent tenor voices on opera's biggest stages.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508258750084/2017-10-17---Hoffmann_0769-s.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508258750084/2017-10-17---Hoffmann_0769-s.jpg.jpg)
 <figcaption>Vittorio Grigolo in the title role of Offenbach's *Les Contes d'Hoffmann*. Photo: Marty Sohl/Metropolitan Opera.</figcaption>
 </figure>
  
@@ -70,7 +70,7 @@ Later in the act, a whimsical, silhouetted horse-drawn carriage flowed on stage,
  
 Finally, the action moves to Venice. The set opens into a spacious, twinkling outdoor garden/bordello with piles of barely dressed women. Unfortunately, the production slid back into the typical MET trappings: unengaged park and bark, stock opera gestures, and bland relationships. Mortagne and Naouri were the exceptions. As Dapertutto, Naouri went full-villain after an evening of careful dramatic restraint, at last slimy and sinister.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508258678602/2017-10-17---Hoffmann_4054-s.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508258678602/2017-10-17---Hoffmann_4054-s.jpg.jpg)
 <figcaption>Anita Hartig as Stella, Vittorio Grigolo in the title role, and Laurent Naouri as Lindorf in Offenbach's *Les Contes d'Hoffmann*. Photo: Marty Sohl/Metropolitan Opera</figcaption>
 </figure>
 

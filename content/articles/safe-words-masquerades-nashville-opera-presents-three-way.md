@@ -32,7 +32,9 @@ title = "Safe words &amp; Masquerades: Nashville Opera presents Three Way"
 
 **Cote**: In terms of emotional spectrum, we wanted to give the singers and audiences a wide range. The challenge in writing essentially realistic scenarios (in a highly un-realistic medium such as opera) is to create plausible characters or situations—even when we're talking about robot lovers. If you are hooked by the narrative as much as Rob's gorgeous, melodic music, then it's working. Another challenge is to avoid prurience or shock for its own sake. We have very little swearing in the piece. Or explicit sexual language. Or nudity. Except for the stage crew. Buck nekkid, every last one.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484735999023/2017-01-promo-collage.jpg.jpg)<figcaption>Photo by Jason Lee Denton.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484735999023/2017-01-promo-collage.jpg.jpg)<figcaption>Photo by Jason Lee Denton.</figcaption>
 </figure>
 
 ## So far, what sort of feedback have you received from workshop processes or rehearsals with the artists?

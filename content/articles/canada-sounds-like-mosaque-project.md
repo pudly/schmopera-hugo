@@ -17,7 +17,9 @@ title = "Canada sounds like: Mosaïque Project"
 
 We dreamed of going on a nation-wide tour for our 10th anniversary, and realised that it was not going to be easy to pull off. So we came up with the idea of commissioning a piece that takes us across the country musically. One thing let to another, and we now have a nation-wide tour, and a great added visual dimension, including listeners from all across Canada.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1531096178001/emic_2-Huang.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1531096178001/emic_2-Huang.jpg.jpg)
 <figcaption>Ensemble Made in Canada. Photo by Bo Huang.</figcaption>
 </figure>
 

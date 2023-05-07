@@ -13,6 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://m.facebook.com/profile.php?id=775391559183451"
 
+_template = "people_single"
 +++
 “Blessed with a plush, dramatic voice capable of formidable power and dazzling high notes …” (Associated Press)
 

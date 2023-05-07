@@ -35,7 +35,9 @@ I had briefly coached [Danika Lorèn](/spotlight-on-danika-loren/) on the early 
 
 Our first season dealt with heavy subject matter exploring the life of Virginia Woolf, so we wanted to contrast that with a comedic second season.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561329167/media/2019/06/Muse9VegCollage.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1561329167/media/2019/06/Muse9VegCollage.jpg)
 
 <figcaption>The creative team of Muse 9's Bon Appetit! A Musical Tasting Menu: (clockwise from top left) Anna Theodosakis, Stage Director, Victoria Borg, mezzo-soprano, Hyejin Kwon, Music Director, and Katy Clark, soprano.</figcaption>
 
@@ -61,6 +63,8 @@ Our first season dealt with heavy subject matter exploring the life of Virginia 
 
 **Hyejin**: Hands down, the cake.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561329148/media/2019/06/BonAppetitBanner.png){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1561329148/media/2019/06/BonAppetitBanner.png)
 
 </figure>

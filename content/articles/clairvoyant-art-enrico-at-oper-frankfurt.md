@@ -18,7 +18,9 @@ A man suffering from cognitive damage exerts a tyrannical rule over the people a
 
 Sound familiar? 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516809871730/3473_enrico07_gross.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516809871730/3473_enrico07_gross.jpg.jpg)
 <figcaption>(l-r) Frederic Jost (Ordulfo), Holger Falk (Enrico) and Björn Bürger (Arialdo) in *Enrico*, Oper Frankfurt, 2018. Photo: Barbara Aumüller.</figcaption>
 </figure>
 
@@ -34,7 +36,9 @@ After suffering trauma to the head while in character as Henry IV, Enrico (Holge
 
 Enrico then declares that he has, in fact, been aware of his true identity for some time, but has consciously chosen not to return to the scary reality of the 20th century. (Here, Enrico removes his robes - ["the emperor has no clothes"](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes). As he still exhibits all the same deranged symptoms, it is unclear whether Enrico is a cool and calculated manipulator or a deluded, confused victim. When the emboldened visitors finally confront Enrico, he becomes violent, assaulting Frida ([Angela Vallone](/scene/people/angela-vallone/)) and stabbing Belcredi (Sebastian Geyer). 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516809896330/3469_enrico11_gross.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516809896330/3469_enrico11_gross.jpg.jpg)
 <figcaption>Juanita Lascarro (Marchesa Matilda Spina; front left), Holger Falk (Enrico; front right), Sebastian Geyer (Barone Tito Belcredi); in background: Peter Marsh (Landolfo), Samuel Levine (Bertoldo), Björn Bürger (Arialdo) in Oper Frankfurt's *Enrico*. Photo: Barbara Aumüller.</figcaption>
 </figure>
 

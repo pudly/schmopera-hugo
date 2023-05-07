@@ -20,6 +20,7 @@ url = "https://twitter.com/myoperato"
 platform = "Instagram"
 template = "social-media"
 url = "https://instagram.com/myoperato"
+_template = "company_single"
 +++
 
 MYOpera was established in 2010 in Toronto, ON. The company was founded when we realized that it was time to give Toronto’s talented young opera singers the opportunity to perform complete roles and be compensated for it. And so MYOpera was born.

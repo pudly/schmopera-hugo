@@ -30,7 +30,9 @@ Alkema enjoys a calendar filled with roles that most sopranos covet, like Donna 
 
 "I was really hoping my voice was going to drop so I could sing the big Verdi mezzo girls," Alkema remembers. But instead, the natural change in her voice led her to higher rep. "I kind of walked into that in a natural way."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473964491776/3016-09-15---Alkema-Tito---Cooper.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473964491776/3016-09-15---Alkema-Tito---Cooper.jpg.jpg)
 <figcaption>Alkema as Vitellia, with Isabel Leonard as Sesto, in *La clemenza di Tito*, Canadian Opera Company, 2013. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -44,7 +46,9 @@ Now, she freely admits, "I'm just really enjoying being a soprano!"
 
 "Music has been a part of my life since I was 5," says Alkema, who studied piano before seriously pursuing voice. She recalls a teacher advising her to make the switch to singing, saying, "No, honey, I think you're a better singer than you are a pianist."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473964557170/2016-09-14---Alkema-Otello.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473964557170/2016-09-14---Alkema-Otello.jpg.jpg)
 <figcaption>Alkema as Desdemona in *Otello*, Teatro Municipal de Santiago, 2014.</figcaption>
 </figure>
 

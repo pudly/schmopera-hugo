@@ -23,5 +23,6 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/magyaroperahaz"
 
+_template = "company_single"
 +++
 The Hungarian State Opera has grown from its initial 1884 roster of 34 soloists, 81 chorus singers and 75 orchestra musicians to employ many hundreds of people working to deliver the highest quality to the audience every night, both musically and visually. It is thanks to the common work of the directors, artistic assistants, designers, choreographers, painters and sculptors, dramaturgs, répétiteurs, stage managers and prompters, not to mention the conductors, current crop of soloists, eternal members and master artists, that make the Hungarian State Opera one of the busiest opera houses – in terms of number of performances – in the world.

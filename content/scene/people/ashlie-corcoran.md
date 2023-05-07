@@ -13,6 +13,7 @@ website = "http://www.ashliecorcoran.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AshlieCorcoran"
+_template = "people_single"
 +++
 
 <p>

@@ -47,7 +47,9 @@ You can just hear her giving a dismissive wave to whoever she's dumping, and the
 
 Do you believe her?
 
-<figure data-type="video">{{% md %}}<iframe width="896" height="504" src="https://www.youtube.com/embed/Kk8eJh4i8Lo" title="La Roux - Bulletproof (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}  
+<figure data-type="video">
+
+<iframe width="896" height="504" src="https://www.youtube.com/embed/Kk8eJh4i8Lo" title="La Roux - Bulletproof (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 </figure>
 
 ## "High Hopes" by Panic! At The Disco
@@ -67,7 +69,9 @@ He's got an incessant sound, and in "High Hopes" he spends a huge amount of time
 
 (And because great artists are always self-aware, Panic! At The Disco also has a song on the same _Pray for the Wicked_ album, called ["Hey Look Ma, I Made It"](https://www.youtube.com/watch?v=BzbxacRr5Gk).)
 
-<figure data-type="video">{{% md %}}<iframe width="1054" height="441" src="https://www.youtube.com/embed/IPXIgEAGe4U" title="Panic! At The Disco - High Hopes (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1054" height="441" src="https://www.youtube.com/embed/IPXIgEAGe4U" title="Panic! At The Disco - High Hopes (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -91,6 +95,8 @@ You know it's a choice, because a measure later, when he snaps back into the cho
 
 Note: the ["Fuck You"](https://youtu.be/pc0mxOXbWIU) video is age-restricted, so I've embedded the clean version here (same great singing, no doubt)":
 
-<figure data-type="video">{{% md %}}<iframe width="896" height="504" src="https://www.youtube.com/embed/bKxodgpyGec" title="Cee Lo Green - Forget You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="896" height="504" src="https://www.youtube.com/embed/bKxodgpyGec" title="Cee Lo Green - Forget You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>

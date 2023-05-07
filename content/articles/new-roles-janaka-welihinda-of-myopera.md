@@ -20,7 +20,9 @@ Coming out of university can be hardest and poorest time in their career for mos
 
 When I found out that MYOpera doesn’t charge fees, auditioning was a no-brainer. And then they hired me to sing Uberto in *La serva padrona*. It was my first role in Toronto when I didn't know anyone. Not only did this help me validate myself artistically and help my CV, I gained more experience performing in a fully staged and costumed opera and was remunerated for my time. Most importantly, I met so many people in the industry and have stayed connected with them through MYOpera's alumni connection.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471251715597/2016-08-15---Serva.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471251715597/2016-08-15---Serva.jpg.jpg)
 <figcaption>Janaka Welihinda with Kate Applin in MYOpera's production of *La serva padrona*, 2013.</figcaption>
 </figure>
 

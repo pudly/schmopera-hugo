@@ -16,6 +16,7 @@ url = "https://www.facebook.com/newconsort/?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/NewConsort"
+_template = "people_single"
 +++
 
 A charismatic and versatile musician, baritone & conductor Brian Mummert adapts easily to a wide variety of musical genres and eras. He has appeared as a soloist at the American Bach Soloists Festival, with the New York Pops at Carnegie Hall, with Spire Chamber Ensemble, as a Colburn Fellow at SongFest, and in the world premiere of Georgi Andreev’s *A Melancholy Beaut*, at Avery Fisher Hall and the Kennedy Center, and has directed a variety of vocal ensembles in venues spanning six continents, including American Prize-winning ensemble The New Consort. 

@@ -17,6 +17,7 @@ url = "https://www.facebook.com/zandasvmezzo/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/zandasv"
+_template = "people_single"
 +++
 
 Praised by The Independent for her “movie-star looks” and “chocolatey mezzo-soprano,” Latvian mezzo-soprano Zanda Švēde recently finished her final year as an Adler Fellow at San Francisco Opera. The 2016 – 2017 season will see Ms. Švēde return to the stage of San Francisco Opera as Suzuki in *Madama Butterfly*, Maddalena in *Rigoletto*, the Maid in *The Makropulos Case*, and Handmaiden/The Flower in the world premiere of Bright Sheng’s *Dream of the Red Chamber*. Additional engagements include her debut at Palm Beach Opera as Suzuki in *Madama Butterfly* and covering Olga in *Yevgeny Onegin* at Lyric Opera of Chicago.  

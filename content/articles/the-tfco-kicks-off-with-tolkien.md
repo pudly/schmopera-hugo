@@ -19,5 +19,7 @@ David Day, author of *A Tolkien Bestiary*, will give a talk and discussion about
 
 *Swords and Songs* happens at **4pm on Sunday, May 29**, at Daniel Spectrum, 585 Dundas St. East. The event is free to the public! [Click right here](http://www.canadianchildrensopera.com/content/swords-and-songs.html) for full details.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464207065750/2016-05-25---Swords-Songs-poster.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464207065750/2016-05-25---Swords-Songs-poster.jpg.jpg)
 </figure>

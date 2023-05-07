@@ -21,7 +21,7 @@ We discovered the sounds for *Dare Voce* during the time we spent playing in Mil
 
 Collaborative to the fullest. Sometimes we would start playing together and choosing at that precise moment a preferred rhythm and sound while I would sing a melody and from there we would elaborate and re-define the whole piece, as in "Free From The Eye". Other times I would have a melody ready to go as with "Respiro" and then be embraced by Sandro's arrangement or in the case of "Sirena" I would sing Sandro's written score and make it mine through the lyrics and interpretation. The point of departure was often a blank sheet of paper and a state of emptiness with no preconceived or crystallized ideas, but the will to find a possible balance between operatic vocality and different soundscapes. I think this explains why the voice sounds organic in these pieces; it was clear to us from the beginning that my voice would have been the unifying sound, the thread of Arianna.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486383103748/2017-02-05---olivia-salvadori-sandro-mussida1.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486383103748/2017-02-05---olivia-salvadori-sandro-mussida1.jpg.jpg)
 <figcaption>Olivia Salvadori, soprano and performing artist, and Sandro Mussida, cellist, composer, and electronic producer.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ We wanted to make a Songbook, a series of songs within the tradition of the Ital
 
 For me these songs have a natural drive that can be directed towards a mainstream public, as well as one that is more familiar with classical music and sound. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486383113620/2017-02-05---Olivia-Salvadori-Live-2012.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486383113620/2017-02-05---Olivia-Salvadori-Live-2012.jpg.jpg)
 <figcaption>Olivia Salvadori performing live, 2012.</figcaption>
 </figure>
 

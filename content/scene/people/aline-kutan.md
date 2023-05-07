@@ -9,6 +9,7 @@ slug = "aline-kutan"
 title = "Aline Kutan"
 website = "http://www.alinekutan.com/"
 
+_template = "people_single"
 +++
 This young Canadian soprano of Armenian origins made her debuts at the age of 18 in the role of Flora (The Turn of the Screw from Benjamin Britten) with the Vancouver Opera. She studied at the University of British Columbia in Vancouver and at the Laval University of Quebec.
 

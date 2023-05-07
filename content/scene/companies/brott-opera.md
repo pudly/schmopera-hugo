@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Brott-Music-Festival/134945409853675"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/BrottMusicFesti"
+_template = "company_single"
 +++
 
 <p>

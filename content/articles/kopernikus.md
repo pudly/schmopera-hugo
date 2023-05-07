@@ -23,7 +23,9 @@ Billed as Canada's "Most Famous Unknown Opera", Claude Vivier's _Kopernikus_ is 
 
 _Kopernikus_ tells the tale of the arrival of the newest resident to the afterlife, a young woman named Agni. Vivier, through the use of a small wind ensemble and a collection singers, shows Agni's afterlife unfolding in front of her.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554572278/media/2019/04/190403_ATG_KOPERNIKUS_356.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554572278/media/2019/04/190403_ATG_KOPERNIKUS_356.jpg)
 
 <figcaption>The Ensemble of Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
 
@@ -33,7 +35,9 @@ Set on a stage full of scaffolding and industrial-looking lighting, the design w
 
 _Kopernikus_ isn't the kind of opera with sweeping arias and grand love duets. It's the kind of opera where everyone involved needs to be a musician of the highest calibre. At times, the score reminded me of the choral works of R. Murray Schafer I used to sing, that were written roughly around the same time as this work. Complex rhythms, free metres, and dense harmonies and tone clusters date the piece clearly, but the effects that Vivier is exploring here are astounding.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554572341/media/2019/04/190403_ATG_KOPERNIKUS_681.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554572341/media/2019/04/190403_ATG_KOPERNIKUS_681.jpg)
 
 <figcaption>Danielle MacMillan (Agni) and Bruno Roy in Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
 
@@ -43,7 +47,9 @@ It's also not the kind of opera where there is a standout role or performance, b
 
 [Danielle MacMillan](/scene/people/danielle-macmillan/) as Agni brings a Verdian, steely, bright mezzo to Vivier's Agni. Mezzo [Krisztina Szabo](/scene/people/krisztina-szabo/), baritone [Dion Mazerolle](/scene/people/dion-mazerolle/), and bass [Alain Coulombe](/scene/people/alain-coulombe/), sang some amazing ensemble work. Singing the coloratura soprano role, [Anne-Marie MacIntosh](/scene/people/anne-marie-macintosh/) gave some great contemporary singing. Singing the baryton-Martin role was [Bruno Roy](/scene/people/bruno-roy/), who had the unenviable task of singing the lion's share of Vivier's created language. The most intriguing singing for me of the evening came from soprano Jonelle Sills. Sills manages to keep her warm, full, elastic tone intact while managing such difficult music.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554572383/media/2019/04/190403_ATG_KOPERNIKUS_865.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554572383/media/2019/04/190403_ATG_KOPERNIKUS_865.jpg)
 
 <figcaption>(clockwise from top) Anisa Tejpar, Anne-Marie MacIntosh, Danielle MacMillan, and Krisztina Szabó in Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
 
@@ -53,7 +59,9 @@ The piece is sung in French. German (okay, I got this) and a language of Viver's
 
 I felt at times that there wasn't always a thorough translation running through the singer's mind, which makes it hard to communicate to the listener. I would have been okay with this disconnect if the other players onstage were also lost, but they very clearly understood this language - including the new arrival, Agni - so I felt like I was left out of a large part of the story, since this language creates the bulk of the libretto. Unfortunately, I felt like Roy's performance suffered the most from this disconnect.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554572461/media/2019/04/190403_ATG_KOPERNIKUS_203.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554572461/media/2019/04/190403_ATG_KOPERNIKUS_203.jpg)
 
 <figcaption>Danielle MacMillan (Agni) in Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
 
@@ -63,7 +71,9 @@ To be clear, Vivier also uses bizarre syllables and vocalisations throughout the
 
 The piece is described as a "Opera-Rituel de Mort" (Ritual Opera for the Dead), which led me to believe that this was a ritual - something that is done over, and over again - yet each element of said ritual seemed to be confused by its own participation. I got the sense that Ivany was exploring an idea that each person's afterlife is unique and they do not arrive there to an afterlife that's fully realized yet. The ritual here is probably the unfolding of a new afterlife in this manner.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554572488/media/2019/04/190403_ATG_KOPERNIKUS_1198.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554572488/media/2019/04/190403_ATG_KOPERNIKUS_1198.jpg)
 
 <figcaption>Anisa Tejpar lifted by William Yong, Brad Cherwin in background in Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
 
@@ -73,7 +83,9 @@ The only visibly identifiable ritual is partway through the show, we see Agni be
 
 The instrumental ensemble was great, even in a space like Theatre Passe-Muraille, which is not very acoustically kind to classical musicians. There was use of some microphones, yet the mixing seemed quite off. Sometimes it sounded like the singers microphone was in a tin-can (maybe this was a sound design choice?); other times it was mixed down so low we missed extended passages - in particular any extended passages where Roy was using his falsetto. I also felt the difficulty of the music may have robbed some of the singers on stage of the comfort they needed to really deep dive into the exploration of this woman's afterlife.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554572514/media/2019/04/190403_ATG_KOPERNIKUS_948.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554572514/media/2019/04/190403_ATG_KOPERNIKUS_948.jpg)
 
 <figcaption>Krisztina Szabó in Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
 

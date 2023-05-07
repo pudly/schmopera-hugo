@@ -9,6 +9,7 @@ related_companies = ["scene/companies/canadian-opera-company.md","scene/companie
 slug = "andreas-schager"
 title = "Andreas Schager"
 website = "http://www.andreas-schager.com/"
+_template = "people_single"
 +++
 
 Austrian tenor Andreas Schager has been acclaimed throughout Europe and North America for his performances of highly demanding parts of the Heldentenor repertoire.

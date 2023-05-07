@@ -16,6 +16,7 @@ url = "https://twitter.com/ndmsharratt"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCW5LM4e-ZXU-yIzN2zT8D6A?feature=watch"
+_template = "people_single"
 +++
 
 Nicholas was born in Nottingham and studied Commerce at Birmingham University, and singing at the Royal Northern College of Music and the National Opera Studio.  He won the Eric Vietheer prize at Glyndebourne, and was a Peter Moores Foundation scholar.

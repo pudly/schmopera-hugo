@@ -16,6 +16,7 @@ url = "https://twitter.com/aitkramer"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCnf4fHKxmp60dVV00cRt69Q"
+_template = "people_single"
 +++
 
 Canadian tenor Adrian Kramer has joined opera companies throughout North America in recent seasons, earning critical praise for his vocal appeal and his strong theatrical engagement. In 2018 he makes his Edmonton Opera debut as Ralph Rackstraw in *HMS Pinafore* and his off-Broadway debut in collaboration with Ensemble of the Romantic Century as the Tenor in *Tchaikovsky: None But the Lonely Heart*, as well as joining Opera Philadelphia as Normanno in *Lucia di Lammermoor*.  Mr. Kramer will then return to Opera Omaha as Gérard in Philip Glass's *Les Enfants Terribles* as part of their acclaimed ONE Festival.  He made an especially successful San Diego Opera debut in 2017 as Don José in *La tragédie de Carmen*. 

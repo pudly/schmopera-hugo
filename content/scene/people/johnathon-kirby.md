@@ -8,6 +8,7 @@ related_companies = ["scene/companies/myopera.md","scene/companies/the-bicycle-o
 slug = "johnathon-kirby"
 title = "Johnathon Kirby"
 website = "http://www.johnathonkirby.com/"
+_template = "people_single"
 +++
 
 Johnathon Kirby is a Toronto-based baritone who earned his music performance degree at Dalhousie University.  His rich tone is known for its character and agility which highlights his sincere and energetic performance.  He has performed with Opera Nova Scotia in their recent productions of Mozart’s *Don Giovanni* and *Zaide*, Verdi’s *Luisa Miller*, and John Gay’s *The Beggar’s Opera*. Johnathon is excited to be a part of this landmark composition and production of *The Bells of Beddeck* in a part of Canada he views as a second home.  He made his professional Toronto debut with Opera in Concert in the Canadian premiere of Meyerbeer’s *Les Huguenots*, singing the role of Le Comte de Nevers.  His previous appearances include The Forester in Janacek’s *The Cunning Little Vixen*, Leporello in Mozart’s *Don Giovanni*, Belcore in Donizetti’s *L’elisir D’amore*, Gianni Schicchi in Puccini’s *Gianni Schicchi*, and Doctor Falke in Strauss’ *Die Fledermaus*.

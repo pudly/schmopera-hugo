@@ -33,7 +33,9 @@ On a typical show day I sleep in, drink my coffee, do my morning routine, practi
 
 Writing was my first creative outlet...before I knew I had a voice, and before I had ever even heard of opera. Putting pen to paper helps me make sense of myself and the world. I journal every morning, and also authored a health and wellness blog called The Artisan Traveler. I said goodbye to the blog to focus on all things opera, but it was my beloved pet project. A few of those blog posts have just been shared via a new [Writing page](http://corinnewinters.com/writing/) on my website. Stay tuned for some new opera-related content as well! 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509410817365/2017-10-30---Winters-Fox-2.jpg.jpg)<figcaption>Corinne Winters, soprano. Photo by Fay Fox.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509410817365/2017-10-30---Winters-Fox-2.jpg.jpg)<figcaption>Corinne Winters, soprano. Photo by Fay Fox.</figcaption>
 </figure>
 
 ## Can you tell us about your background with other styles of music, besides opera?

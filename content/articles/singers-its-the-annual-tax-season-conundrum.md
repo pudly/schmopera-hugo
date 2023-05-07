@@ -16,7 +16,9 @@ Forget December 31st as the last day of 2016.... Americans all should know by no
 
 Unless you are fortunate enough to be a star in high demand you don't have to worry right? WRONG! Even then, you've got bills not limited to agent commissions, AGMA fees, health insurance, travel, rent sometimes in multiple locations and those dreaded gigs that don't line up in the calendar year in a foreign country... even out of state poses challenges depending on your official place of residence.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491048456057/2017-04-02---ODDC-Tax-Season.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491048456057/2017-04-02---ODDC-Tax-Season.jpg.jpg)
 </figure>
 
 This time of year - no matter how much I think I've prepared for it - always punches me in the gut as a  "1099 Eb singing stylish soprano/dress hoarder/property manager/photographer/classical music influencer/everythingist!" I feel overwhelmed by various physical and mental states that I've worked in, and the various modes of accepting payments for my various professions that sadly/happily support my need to sing. I'm all for being a hustler. Go after what is yours to do what you want! I love making my own schedule and being the boss of my life! I wouldn't trade what I do for anything! 

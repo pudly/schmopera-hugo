@@ -21,7 +21,9 @@ On Saturday, January 25, 2020, Minnesota Opera opened their production of _Fligh
 
 The set was simple - how much can you really glam up an airport terminal? The controller room was upper stage left, benches below with a gate desk, and a staircase upstage. Behind all that, there were projections of the runway, an effective addition to the haziness of the score. The orchestration was spot-on in conveying the bored anticipation/time warp of the terminal life. [Geoffrey McDonald](https://www.geoffreyandrewmcdonald.com/) leads the orchestra in Dove's surprisingly tonal score. [David Radames Toro](https://www.dtorodirects.com/) directs the show faithfully to the libretto and score.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580235614/media/2020/01/DN4_4476_uwglsi.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580235614/media/2020/01/DN4_4476_uwglsi.jpg)
 
 <figcaption>Crystal E. Williams as Stewardess, Deanne Meek as Older Woman, and Christian Thurston as Steward in Minnesota Opera's staging of Flight, 2020. Photo: Dan Norman.</figcaption>  
 </figure>
@@ -30,7 +32,9 @@ Soprano [Katrina Galka](http://katrinagalka.com/) was the Air Traffic Controller
 
 Mezzo-soprano Deanne Meek sang the role of the older woman who wished to remain “inconspicuous” as she waited for her cabana boy fiancée from Majorca. She was one of the more interesting characters on the stage, an aging woman wanting companionship. Renée Rapier sang the pregnant Minsk woman, the other sympathetic character. Ms. Rapier gave  a consistently powerful tone that was exciting; my favorite musical moment was her soliloquy over the ensemble, with the orchestra brimming below her.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580235600/media/2020/01/DN4_5743_xqcq8f.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580235600/media/2020/01/DN4_5743_xqcq8f.jpg)
 
 <figcaption>Cortez Mitchell as Refugee in Minnesota Opera's staging of Flight, 2020. Photo: Dan Norman.</figcaption>  
 </figure>
@@ -39,7 +43,9 @@ The characters of Tina and Bill were sung by [Lisa Marie Rogali](/scene/people/l
 
 [Christian Thurston](https://mnopera.org/biography/christian-thurston/) and [Chrystal E. Williams](https://mnopera.org/biography/chrystal-e-williams/) were the dynamic duo of Stewards for the "Minnepost Airlines". They perfectly embodied the face splitting smiles and charms of stewards of all airlines. And, I would imagine, perfectly portrayed the fly by night, adrenaline addicted life style of some flight attendants. The ensemble was rounded out by [Nicholas Davis](https://mnopera.org/biography/nicholas-davis/) who sang as the Minksman and baritone [Andrew Gilstrap](https://mnopera.org/biography/andrew-gilstrap/) as the immigration officer.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580235587/media/2020/01/DN4_4993_tcb40c.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580235587/media/2020/01/DN4_4993_tcb40c.jpg)
 
 <figcaption>Lisa Marie Rogali as Tina and Christian Sanders as Bill in Minnesota Opera's staging of Flight, 2020. Photo: Dan Norman.</figcaption>  
 </figure>
@@ -49,7 +55,9 @@ Unfortunately, I don’t know what the main point of the story was from the crea
 It seemed to be a two-and-a-half-hour opera about people being their worst in a confined space. It was, basically, a series of vignettes that could be amusing and meaningful in a shorter format. A telling example is the Controller and Refugee’s extremely nebulous relationship. For instance throughout the show he would look pleadingly at her at times and she would say “I hope you suffer”. As an audience member, I had to ask,  
 "Why??"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580235575/media/2020/01/DN4_6547_oz84rq.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580235575/media/2020/01/DN4_6547_oz84rq.jpg)
 
 <figcaption>Andrew Gilstrap as Immigration Officer, Cortez Mitchell as Refugee, and Katrina Galka as the Controller in Minnesota Opera's staging of Flight, 2020. Photo: Dan Norman.</figcaption>  
 </figure>

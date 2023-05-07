@@ -11,6 +11,7 @@ title = "Richard Immerglück"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ImmergluckR"
+_template = "people_single"
 +++
 
 Richard Immerglück received his BMus (Hons.) at the Guildhall School of Music and Drama studying under Robert Dean.

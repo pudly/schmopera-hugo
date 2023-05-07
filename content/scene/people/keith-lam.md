@@ -11,6 +11,7 @@ title = "Keith Lam"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/baritonekeith"
+_template = "people_single"
 +++
 
 <p>

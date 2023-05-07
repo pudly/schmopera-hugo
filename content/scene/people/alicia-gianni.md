@@ -20,6 +20,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AliciaGianni"
 
+_template = "people_single"
 +++
 American Soprano Alicia Gianni, whose performances have been described as “charming, impressive” and “powerfully real,” has enjoyed successes on both operatic and concert stages, including nominations for Houston’s Best Jazz Vocalist by the Houston Press Music Awards. Such nominations have followed concerts in Las Vegas for T-Mobile, Magic Johnson, and _The Late Late Show’s_ Craig Ferguson. The 2016-’17 season began with a role debut as Giannetta in Houston Grand Opera’s _L’Elisir D’amore_ and was followed by a successful debut as Adina in Opera Birmingham’s production of _L’Elisir D’amore_. Ms. Gianni also debuted with Musical Bridges in San Antonio as a featured soloist in their Mozart concert and will perform several private parties this season including various musical theater repertoire and jazz standards. She recently completed a triple soprano role for the workshop of Houston Grand Opera’s World Premiere of _The House Without A Christmas Tree_, by Ricky Ian Gordon and Royce Vavrek to premiere in the ’17-’18.
 

@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/lizzyhoytmusic/"
 
+_template = "people_single"
 +++
 Powerhouse performer, LIZZY HOYT is a unique vocalist who transcends the limitations of musical genre.
 

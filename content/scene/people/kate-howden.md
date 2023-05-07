@@ -12,6 +12,7 @@ website = "http://www.katehowden.co.uk/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/katehowden"
+_template = "people_single"
 +++
 
 Australian mezzo-soprano Kate Howden studied at Trinity Laban with Ameral Gunson, the Royal Academy of Music with Elizabeth Ritchie and Jonathan Papp, and the National Opera Studio, London. She currently studies privately with Susan Roberts.

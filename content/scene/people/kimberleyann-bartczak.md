@@ -8,6 +8,7 @@ slug = "kimberley-ann-bartczak"
 title = "Kimberley-Ann Bartczak"
 website = "http://www.instantencore.com/contributor/bio.aspx?CId=5185728"
 
+_template = "people_single"
 +++
 Kimberley-Ann Bartczak is quickly establishing herself as a sought after collaborative pianist in the Vancouver area. Born in Montréal, Québec, she is in the Yulanda M. Faris Young Artist Program at Vancouver Opera as a vocal coach and répétiteur. She is also the diction coach at the Vancouver Academy of Music.
 

@@ -24,7 +24,7 @@ You're correct, some examples *would* be helpful.
 
 ## Team *destra*
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480609472109/2016-12-1---Page-turn---Verdi-annotated.jpg.jpg)</figure>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480609472109/2016-12-1---Page-turn---Verdi-annotated.jpg.jpg)</figure>
 
 This is a little snippet from one of the Duke of Mantua's arias from Verdi's *Rigoletto*. The page-turn (shown with dotten lines) happens right after the abruptly hyphenated, "il serto mio da-(rei)", and continues at "-rei per consolar quel cor"; here, it's a pretty clear example of prioritizing which hand can afford a short hiatus from the piano, and sacrifice its music for the sake of turning a page. 
 
@@ -34,7 +34,7 @@ So, it's an easy choice: keep your left hand on the keys, and **turn the page wi
 
 ## Team *sinistra*
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480609517036/2016-12-1---Page-turn---Rigoletto-annotated.jpg.jpg)</figure>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480609517036/2016-12-1---Page-turn---Rigoletto-annotated.jpg.jpg)</figure>
 
 From the same opera, here's Rigoletto's beautiful, raging outburst, "Cortigiani, vil razza dannata". Except in the middle of "dannata," there's a...[*dannata*](https://translate.google.ca/#it/en/dannata) page turn (sorry), shown again by the dotted lines. The orchestration is so great here, and it really is a shame to sacrifice anything\*; but if you look closely at this particular spot, the right hand is more vital than the left. The left hand is mostly giving us the broad harmonic progression with those angry bass notes; the right is playing the violin pattern (a rage motive, if you will) that guides the whole thing forward. 
 
@@ -44,7 +44,7 @@ Though the bass notes are important, they're quite non-descript, almost unhelpfu
 
 ## Team *destra*
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480609546911/2016-12-1---Page-turn---Semele-annotated.jpg.jpg)</figure>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480609546911/2016-12-1---Page-turn---Semele-annotated.jpg.jpg)</figure>
 
 Handel arias can be a handful (hah!), and this fast-paced bit from *Semele* is a great example of rhythm and harmony taking seniority. Semele sings some zippy coloratura that continues over the page (shown below), and there's no time for the pianist to get bogged down in a page-turn. During coloratura licks like these, singers need support from their pianists in the form of a steady tempo and a clear harmonic progression.
 
@@ -59,7 +59,7 @@ The right hand has the tune here, no doubt. Yet once Mimì joins in at "Sempre t
 
 ## Team *sinistra*
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480613072986/2016-12-1---Page-turn---Boheme-2---annotated-.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480613072986/2016-12-1---Page-turn---Boheme-2---annotated-.jpg.jpg)
 </figure>
 
 Ricordi sure is a jerk for putting a page turn here, in the middle of a big chromatic clarinet solo. We won't say that the moving chords in the left hand aren't important, but in that bar before the page turn, it's clear that the chromatic scale is what Puccini wants us to hear, and it's what propels the bar forward to "O buon Marcello". Without hearing that clarinet solo, it's musch more jarring to the singers than leaving out the left hand chords. 

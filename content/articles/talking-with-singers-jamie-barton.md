@@ -22,7 +22,9 @@ In her mid-30s, Barton is familiar with the gamble that can be found in singing 
 
 In contrast to the conscious care required in Bellini and Donizetti, Barton relishes the smart vocal writing in Wagner's music. "It's really an Italianate kind of composition, very very smart," she says. The common impression is that Wagnerian singers are constantly working to be heard over huge amounts of sound coming from the orchestra. Barton notes that "for all the bombasticness of the composer, that happens *around* the vocal singing, not so much *with* the vocal singing." Singers who find comfort in this music tend to ride comfortably, without the need for extra muscle. "You don't have to push, you don't have to manipulate to sing over an 80-piece orchestra, because for most of the time you're not, at all."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460475257648/JamieBartonCreditStaceyBode4.jpg.jpg)<figcaption>Photo by Stacey Bode.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460475257648/JamieBartonCreditStaceyBode4.jpg.jpg)<figcaption>Photo by Stacey Bode.</figcaption>
 </figure>
 
 ## "I think mezzos have it good."
@@ -35,7 +37,9 @@ It's one of the tough parts of a singer's career, to grow familiar enough with a
 
 We had to ask: how difficult is that balance, to shift her ideas of a character that have come from her own intensive work on the score? "It's difficult when both parties are unmovable," says Barton, smiling. "Even when I have very strong opinions about something, if you can convince me within the context of a production of a completely opposite view, then I will leap for you onstage, I will do what I need to do. If I can't be convinced, then I can't convince the audience. It's a team effort."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460475235844/JamieBartonCreditStaceyBode2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460475235844/JamieBartonCreditStaceyBode2.jpg.jpg)
 <figcaption>Photo by Stacey Bode.</figcaption>
 </figure>
 

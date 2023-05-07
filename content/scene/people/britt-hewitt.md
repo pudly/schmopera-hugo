@@ -15,6 +15,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/watch?v=UsvMcM3bS5Q"
 
+_template = "people_single"
 +++
 Britt Hewitt is a New York City based soprano and singer/songwriter. A devoted experimentalist, she can often be found working with composers on new works, writing and producing music of her own, and teaching a small number of students in voice and writing. Hewitt holds a Bachelor of Music from [**The Juilliard School**](https://www.juilliard.edu/), and is a member of the [**New York Songwriters Circle**](https://songwriters-circle.com/).
 

@@ -31,7 +31,9 @@ Opposite Viñas, McMonigle sang a compelling, devout, and at times lighthearted 
 
 As Sister Rose, friend of Sister Helen, soprano Naomi Worley sang warmly and drew laughs from the audience. Tenor Mark Tempesta sang solidly as stern prison chaplain Father Grenville, convinced that Sister Helen's mission – to elicit and, ultimately, forgive De Rocher's confession of guilt – was a futile one.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501456734657/2017-07-30---DeadManWalkingimage1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501456734657/2017-07-30---DeadManWalkingimage1.jpg.jpg)
 <figcaption>Erin Alford (Sister Helen) in *Dead Man Walking*, Miami Music Festival, 2017. Photo courtesy of Miami Music Festival.</figcaption>
 </figure>
 

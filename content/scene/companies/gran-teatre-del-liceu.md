@@ -20,6 +20,7 @@ url = "https://twitter.com/Liceu_cat"
 platform = "Instagram"
 template = "social-media"
 url = "https://instagram.com/liceu_opera_barcelona/"
+_template = "company_single"
 +++
 
 Barcelona's opera house, the Gran Teatre del Liceu, was founded on the Rambla in 1847 and has continued over the years to fulfil its role as a culture and arts centre

@@ -28,7 +28,9 @@ I also listen to myself a lot. I record most of coachings, lessons, and rehearsa
 
 However, when I'm singing well, I don't notice much. If I've prepared my technique well, I can sink into the character and the text and disappear completely. For me it feels like blacking out - my vision gets a little blurry and tunneled at first and just after, but I will remember nothing about the performance itself. This happens rarely, but when it does it's thrilling and the feedback is always incredible.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496067778964/2017-05-29---Levis---Messiah-TSO.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496067778964/2017-05-29---Levis---Messiah-TSO.jpg.jpg)
 <figcaption>Abigail Levis singing Handel's *Messiah* with the Toronto Symphony Orchestra, 2016.</figcaption>
 </figure>
 
@@ -50,7 +52,9 @@ At some point I started repeating a line from Rick Nelson's song "Garden Party" 
 
 So I started doing what made me happy. I sang arias that no one else was singing and opened with Monteverdi. I danced. I straight toned (gasp!). I wrote my own oranaments. And little by little I noticed that my greatest successes would come when I was completely and genuinely myself. I wouldn't necessarily win the whole competition, but one or two of the judges would take me aside and tell me how I was the real standout. Someone would offer me a job or an audition or ask to stay in touch so that they could help me network. One judge at a major competition told me "I thought you were insane to even offer that aria, let alone open with it. But then you started singing and I remembered how GOOD this music is! Thank you for that."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496067742500/2017-05-29---Levis---Flora.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496067742500/2017-05-29---Levis---Flora.jpg.jpg)
 <figcaption>Abigail Levis as Flora in *La traviata*, Deutsche Oper Berlin, 2016.</figcaption>
 </figure>
 

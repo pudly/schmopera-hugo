@@ -21,7 +21,9 @@ youtube_url = ""
 
 The room is intimate, the voice spectacularly large. And not until Listz's "Tre sonette del Petrarch" and the encores that followed, did he and the room finally coalesce. This is not to say that there weren’t moments of impressive sensitivity and vocal agility before taking on Liszt's Italianate sonnets and two encores, including Beethoven's somber "In questa tomba obscura" and the romantic if obsessive "Enfant, si j'étais roi" by Liszt, all neatly attuned to his surroundings.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1663076077/media/2022/09/PAA_MichaelSpyres_Recital_2_horifq.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1663076077/media/2022/09/PAA_MichaelSpyres_Recital_2_horifq.jpg)
 
 <figcaption>Tenor Michael Spyres (right) in recital with pianist Mathieu Pordoy (left) in Park Avenue Armory’s Board of Officers Room. Photo by Da Ping Luo, courtesy of Park Avenue Armory.</figcaption>  
 </figure>
@@ -30,7 +32,9 @@ Spyres began with "Les nuits d été" by Berlioz, followed by Beethoven's "An de
 
 So it was genuinely startling to witness Spyres' roughhewn take on the opening song, "Villanelle," bringing to the fore the joy of its robust natural imagery. Here was a hearty character charting a journey between resistance and resignation. One might take issue with a few transitions but it was an heroic interpretation, convincing and deeply felt. Spyres provided fresh energy to the luxuriant irony of "I’île inconnue: barcarolle" bringing the work to dramatic conclusion.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1663076093/media/2022/09/PAA_MichaelSpyres_Recital_3_sl0qod.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1663076093/media/2022/09/PAA_MichaelSpyres_Recital_3_sl0qod.jpg)
 
 <figcaption>Pianist Mathieu Pordoy performing Liszt’s L’idée fixe, Andante amoroso after a melody by Berlioz, S. 395 (composer 1833), as part of a recital program with tenor Michael Spyres in Park Avenue Armory’s Board of Officers Room. Photo by Da Ping Luo, courtesy of Park Avenue Armory.</figcaption>  
 </figure>
@@ -41,7 +45,9 @@ But the sun broke through any lingering clouds from the Beethoven when Spyres em
 
 The Board of Officers Room promises to be a perfect fit for [Emily D'Angelo](/scene/people/emily-dangelo/). The Canadian mezzo-soprano appears with pianist Sophia Muñoz in a program on September 16 and 18 featuring works by Missy Mazzoli and Hildegard von Bingen from [_enargeia_](https://www.deutschegrammophon.com/en/catalogue/products/enargeia-emily-dangelo-12353), her debut recording on Deutsche Grammophon. D'Angelo will also perform songs by other noted female composers plus excerpts from Copland's _Twelve Poems by Emily Dickinson_ and two songs by Schöenberg.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1663076160/media/2022/09/PAA_MichaelSpyres_recital_Emily-Dangelo_he7k2m.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1663076160/media/2022/09/PAA_MichaelSpyres_recital_Emily-Dangelo_he7k2m.jpg)
 
 <figcaption>Mezzo-soprano Emily D'Angelo will appear with pianist Sophia Muñoz on September 16 and 18 in the Board of Officers Room at the Park Avenue Armory. Photo: Mark Pillai/Deutsche Grammophon.</figcaption>  
 </figure>

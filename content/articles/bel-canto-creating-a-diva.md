@@ -17,7 +17,7 @@ She may be officially [retired](https://www.nytimes.com/2017/04/05/arts/music/th
 
 Something new in Fleming's recent calendar has been her work in film scores. She has lent her voice to the soundtracks on *The Shape of Water*, *Three Billboards Outside Ebbing, Missouri*, and most prominently, *Bel Canto*. Based on the novel of the same name by Ann Patchett, Paul Weitz's *Bel Canto* is the story of an American soprano who gets pulled into a hostage situation when the party at which she is hired to perform is stormed by a terrorist organization. Julianne Moore plays the diva Roxane Coss - all but her voice.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540597276763/DSC00219.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540597276763/DSC00219.jpg.jpg)
 <figcaption>Julianne Moore in *Bel Canto* (still courtesy of Pacific Northwest Pictures).</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ Essentially lip-syncing to Renée Fleming is no small task - especially consider
 
 Yet as is often the case, a picture is worth a thousand words. "[Moore] sat in front of me when I recorded everything," says Fleming. "She had the ability to watch, up close and centre, what it really looks like." The actress also attended a rehearsal at Carnegie Hall for the annual Richard Tucker Gala. Fleming recalls her saying, "You have no idea how interesting this is, and how beautiful it is from television. You really have to experience it live, because every voice is different."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540597448062/Renee_Fleming_-_Poemes_3_cropped__credit_Andrew_Eccles_Decca.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540597448062/Renee_Fleming_-_Poemes_3_cropped__credit_Andrew_Eccles_Decca.jpg.jpg)
 <figcaption>Renée Fleming. Photo: Andrew Eccles/Decca.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Ammong filmmakers and other artists in search of the right music to complement t
 
 *Bel Canto* in particular is a mirror not just of top-notch singing, but of the 21st-century opera diva. "[Patchett] is definitely channelling not just a classic diva, but a very American character," says Fleming. The fictional diva Roxane certainly shows flashes of stereotypical diva-isms - talking back to armed terrorists, crinkling her nose at the sandwich she's given to eat, and shoving away a megaphone before singing on a balcony. "I don't need that," Roxane says, appalled at the suggestion.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540597456182/BC_DAY_020_0264.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540597456182/BC_DAY_020_0264.jpg.jpg)
 <figcaption>Julianne Moore and Ken Watanabe in *Bel Canto* (still courtesy of Pacific Northwest Pictures).</figcaption>
 </figure>
 

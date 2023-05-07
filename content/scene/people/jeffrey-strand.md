@@ -8,6 +8,7 @@ social_media = []
 title = "Jeffrey Strand"
 website = "http://www.jeffreystrand.com/"
 
+_template = "people_single"
 +++
 Jeffrey Strand is an American-Canadian tenor currently in his second season at Calgary Opera as an Emerging Artist. In the 2020-2021 season Jeffrey will appear with Calgary Opera in recorded performances including _The Yuletide Sessions_, Samy Moussa's _Vastation_, Kellie-Marie Murphy's _Arriving at the Fire_, John Estacio's _The Cipher Clerk_, and an abbreviated version of _Hansel and Gretel_, among other projects. Jeffrey recently sang Kaspar in _Amahl and the Night Visitors_ and he was scheduled to sing Bénédict in _Béatrice et Bénédict_ and Scaramuccio in _Ariadne auf Naxos_ with Calgary Opera prior to the COVID-19 outbreak. Other recent engagements include Don José in _Carmen_ with Mercury Opera, covering Tamino in _Die Zauberflöte_ at Sarasota Opera as a Studio Artist, covering Manrico in _Il trovatore_ as a Bonfils-Stanton Apprentice Artist at Central City Opera, and recording excerpts of Don Dillworth's opera _Rostam_ with Phoenix Opera. Jeffrey previously won First Prize in the Southwest Vocal Competition, covered Don José in _Carmen_ at the Brott Opera Festival and performed Beethoven’s _An die ferne Geliebte_ as a Young Artist at the National Arts Centre in Ottawa. Jeffrey was a Young Artist with Tulsa Opera, covering the role of Lennie in Carlisle Floyd's _Of Mice and Men_, and performs frequently with Phoenix Opera.
 

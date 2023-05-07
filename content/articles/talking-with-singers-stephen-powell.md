@@ -27,7 +27,9 @@ Voice is a challenge because of how difficult it is and how much time it takes t
 
 I wanted to be Billy Joel when I was growing up because he was a classically trained pianist too. He wrote his own music, sang his own stuff, arranged his own music, his songs, and told a story. The voice was more important than the music. From a young age, I was fascinated and drawn to the human voice. That's why I sing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548812993/media/2019/01/StephenPowell.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548812993/media/2019/01/StephenPowell.jpg)
 
 <figcaption>Stephen Powell, baritone.</figcaption>
 
@@ -57,7 +59,9 @@ A Verdi baritone is a specific type of baritone that you grow into as you mature
 
 About a year ago, I jumped in to do the Count in _Marriage of Figaro_. I hadn't done Mozart in probably 10 years. It was interesting and very helpful vocally to realize that I could still do Mozart healthily and well, and that singing Verdi hadn't made my technique go off the rails. If you don't sing it correctly, you compensate with other parts of your body and it can damage your voice. I was happy to know that I could still do the Count, which was a lot of fun.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548813427/media/2019/01/SDOTraviataPowellWinters.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548813427/media/2019/01/SDOTraviataPowellWinters.jpg)
 
 <figcaption>Stephen Powell (Germont) and Corinne Winters (Violetta) in La traviata, San Diego Opera, 2017.</figcaption>
 
@@ -81,7 +85,9 @@ As an opera singer, to have approached it systematically and slowly as I did, sl
 
 With languages, Italian is of course the greatest, but I love singing in all of them. They each have their own unique way of conveying ideas and feelings and emotions. Russian is a great language for singing. It feels really good in the mouth. It rolls off the tongue. Like Italian, it has great vowels for singing and lends itself to that. But German has all the plosives like _ich_ and _ach_, that are less vowel-oriented and more consonant. It’s a challenge in and of itself and also lends itself to another kind of expression. French is a challenge because of the closed vowels, a lot of the _u_ and _i_ sounds don't lend themselves to an open throat and operatic singing. It's challenging to convey the language purely, but in a vocally healthy way, and to express the nature of French poetry and music in the styles that are required for each.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548813570/media/2019/01/SDOButterflyStephenPowell.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548813570/media/2019/01/SDOButterflyStephenPowell.jpg)
 
 <figcaption>Stephen Powell (foreground) as Sharpless in Madama Butterfly, San Diego Opera, 2003.</figcaption>
 

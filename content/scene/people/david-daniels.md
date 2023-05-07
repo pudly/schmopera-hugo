@@ -17,6 +17,7 @@ url = "https://www.facebook.com/pages/David-Daniels/130135030388626"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/danielssings"
+_template = "people_single"
 +++
 
 <p>

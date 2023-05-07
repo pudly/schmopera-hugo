@@ -25,7 +25,9 @@ McGillivray is currently between productions of *Il barbiere di Siviglia* (inclu
 
 Roles like Bartolo, in any opera, are appealing to McGillivray, who loves to pair his singing with great acting and comic timing. "I didn't miss not being Figaro at all." He also spends time with characters like Sharpless in *Madama Butterfly* and Schaunard in *La bohème*. They're not quite in the *buffo* camp, but roles like these present their own potential traps, and McGillivray has learned how to spot them. "Actually the person who told me this was Paul Plishka at the Met. He said, 'you got a great voice kid, but make sure you don't stay Schaunard forever. Make sure you got some Marcellos in ya.' Which I took to mean that I was maybe going for character and the things that I find fun, maybe I was overemphasizing that and not focusing on the voice enough."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449437799153/2015-12-05---Barbiere.jpg.jpg)<figcaption>From top left: Joshua Hopkins (Figaro); Maghan McPhee (Berta); Isaiah Bell (Almaviva); Peter McGillivray (Bartolo); Giles Tomkins (Basilio), and Marion Newman (Rosina) in Opera Lyra's 2015 production of *Il barbiere di Siviglia*. Photo by Andrew Alexander.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449437799153/2015-12-05---Barbiere.jpg.jpg)<figcaption>From top left: Joshua Hopkins (Figaro); Maghan McPhee (Berta); Isaiah Bell (Almaviva); Peter McGillivray (Bartolo); Giles Tomkins (Basilio), and Marion Newman (Rosina) in Opera Lyra's 2015 production of *Il barbiere di Siviglia*. Photo by Andrew Alexander.</figcaption>
 </figure>
 
 The really is a fine line between paying attention to vocal technique and sacrificing the drama. "I think we can all agree that, except for certain cases, a beautiful voice is not an effortful voice. It's an effortless voice," which for McGillivray comes from a more improvisatory approach to parts of his craft. "There are some beautiful voices out there that have a lot to say, and they've thought about every movement. I'm much more improvisational. I think anybody who sees what I do onstage knows that," he laughs. "I'm not a Xerox machine as a singer. I have to go with how I feel in the moment, I have to go with how my voice feels in the moment."
@@ -38,7 +40,9 @@ He puts it really well, and really simply: "I'm not in search of the perfect, I'
 
 McGillivray has seen the education and apprenticeship opportunities grow and expand since his own years in university. "I mean, there are so many summer programs. Everybody's got a week-long song program, and it costs this, and you can go to Italy, and you can go to France or Austria. You can go speak German in New Hampshire for three weeks." Is that always a great thing, though? "I think it's a big problem," he agrees. "There are so many artists for less and less work." It's a problem not limited to young artists anymore; young nurses and teachers too find that their degree no longer guarantees them a job in their field. "The difference," he argues, "is that in those cases, or at least with nurses or teachers, the opportunities are expanding, where ours are actively in retreat. Which is a tough pill to swallow."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449437636586/2015-12-05---Silent-Night.jpg.jpg)<figcaption>Peter McGillivray in Calgary Opera's 2014 production of *Silent Night*. Photo by Trudie Lee.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449437636586/2015-12-05---Silent-Night.jpg.jpg)<figcaption>Peter McGillivray in Calgary Opera's 2014 production of *Silent Night*. Photo by Trudie Lee.</figcaption>
 </figure>
 
 Summer programs and short-term training opportunities are only the tip of the iceberg. Universities and conservatories continue to increase their music faculty class sizes, sending graduates, often burdened with student loans payments, into a professional environment that is shrinking. McGillivray says that he doesn't know where he would be today if he hadn't won the CBC Young Performers Competition a month after graduating from university. "I won it, and I paid off all of my university debts from eight years the next week." He undoubtedly worked hard for his competition win, but it's not something that artists can count on to pay their regular bills.
@@ -49,7 +53,9 @@ Summer programs and short-term training opportunities are only the tip of the ic
 
 Live concerts are a hard sell for audiences today, and classical musicians notoriously feel the pressure. "We as artists, as classical musicians, are just as subject to the distractions that are killing live performance everywhere," says McGillivray. He sees classical musicians with a certain advantage, though, compared to pop music performers today. "They're starting to have to make the adjustment that classical musicians had to make 20-30 years ago, which is the fact that recordings are not going to sell, so you'd better have a good live show, and adjust your business model accordingly."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449437954673/2015-12-05---Moby-Dick.jpg.jpg)<figcaption>Ben Heppner and Peter McGillivray in Calgary Opera's 2012 production of *Moby Dick*. Photo by Trudie Lee.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449437954673/2015-12-05---Moby-Dick.jpg.jpg)<figcaption>Ben Heppner and Peter McGillivray in Calgary Opera's 2012 production of *Moby Dick*. Photo by Trudie Lee.</figcaption>
 </figure>
 
 That question of the business model, in operatic terms, is now synonymous with a call for funding of new works and for artistic directors who think outside the box. McGillivray has substantial experience of his own in contemporary opera. He sang the world premieres of Juliet Palmer's *Shelter* (Tapestry Opera, Edmonton Opera) and Omar Daniel's *The Shadow* (Tapestry Opera), and the Canadian premieres of Heggie's *Moby Dick* and Kevin Putz's *Silent Night*, both with Calgary Opera. Contemporary opera can sound like a lot of different things, but McGillivray wants to know what a piece has to say. 

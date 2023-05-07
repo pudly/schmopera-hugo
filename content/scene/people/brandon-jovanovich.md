@@ -22,6 +22,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/brandonjovanovich.tenor"
 
+_template = "people_single"
 +++
 Praised by _The Wall Street Journal_ for his “ardent, heroic tenor and strong acting,” Brandon Jovanovich is sought after by the world’s finest opera companies for his passionate stage portrayals of leading roles in French, Italian, German, and Slavic opera.
 

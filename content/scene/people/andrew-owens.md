@@ -12,6 +12,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/PhillyTenor"
 
+_template = "people_single"
 +++
 Winner of the Zarzuela prize at the 2015 Francisco Viñas International Singing Competition, American tenor Andrew Owens has quickly built a reputation as one of the most promising singers of his generation, exhibiting a beautiful Italianate timbre, soaring top notes, and effortless agility. 
 

@@ -28,7 +28,9 @@ Secondly, you'll also get recognized a lot, but they probably won't remember you
 
 Thirdly, you need to be smart. Not book-smart, but body-smart and environment-smart. Trust me on this. More than once something will happen in your show or rehearsal that means you're going to save the day. Zerbinetta may lose her mirror, Mimì her candle, or Don José his knife, and nine times out of ten YOU will be the one to save the scene. Being a comprimario takes the spotlight off you in certain ways and that affords you a freedom and mobility around the stage that the principals often won't enjoy. There's only so many ways you can play 'dying woman on a deathbed" and still maintain the suspension of disbelief. However, if you're playing Monostatos or Kate Pinkerton, you're going to have a lot more freedom of characterization and physicality. Not to mention the scene-stealing factor - we've all experienced this with the Major-Domo in *Ariade auf Naxos* (gasp! a SPOKEN role) or Frosch in *Die Fledermaus*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448036216597/2015-11-20---Alcindoro-in-La-boheme-ATG-Nikola-Novak-Photographer.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448036216597/2015-11-20---Alcindoro-in-La-boheme-ATG-Nikola-Novak-Photographer.jpg.jpg)
 <figcaption>As Alcindoro in *Against the Grain Theatre*'s production of *La bohème*. Photo by Nikola Novak.</figcaption>
 </figure>
 
@@ -38,7 +40,9 @@ So yes, we all love the big showstopping arias, the cadenzas that hit every note
 
 You may not get the last bow in the curtain call, but you'll always have a score in your pocket. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448036304660/2015-11-20---Truffaldino-SOLT-Emily-Ding-Photographer.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448036304660/2015-11-20---Truffaldino-SOLT-Emily-Ding-Photographer.jpg.jpg)
 <figcaption>As Truffaldino in Summer Opera Lyric Theatre's production of *Ariadne auf Naxos*. Photo by Emily Ding.</figcaption>
 </figure>
 

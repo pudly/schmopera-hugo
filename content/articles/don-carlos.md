@@ -25,7 +25,9 @@ youtube_url = ""
 
 **MR:** We're setting it in a dystopian futuristic world, not too far removed from the present. Less of a "what happened in the past" setting and much more of a "what might happen if things don't change".  We hope that it will make the themes in the show just as relevant to the audiences today, and serve as a warning for the costs of corruption and intolerance and where they could eventually lead us all.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1678373831/media/2023/03/HeroiceOpera_DonCarlos_DSC00339edit_a0cd4c.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1678373831/media/2023/03/HeroiceOpera_DonCarlos_DSC00339edit_a0cd4c.jpg)
 
 <figcaption>Publicity image for Heroic Opera's production of Don Carlo, 2023. Image courtesy of Heroic Opera.</figcaption>  
 </figure>
@@ -34,7 +36,9 @@ youtube_url = ""
 
 **MR:** I think she's an interesting character who suffers from "main character syndrome". She thinks all the events unfolding are all about her, and makes terrible decisions when she finds out that it's not. It's only after things have gone way too far does she realize how destructive she's really been, and that there are huge consequences for her actions that everyone else around her has to suffer. What I enjoy most about her is singing "O don fatale". It's an aria that seems almost out of place in the show - just an absolutely bombastic sing, that's not only harder but higher than the soprano arias, where she vows that she's going to fix everything she messed up. And then... she just doesn't. It's such an amazing piece though, a total showstopper! The most difficult is making those pivots - from carefree to spurned to vengeful to remorseful in a very short amount of stage time, and still making her a three-dimensional character, just one with flaws.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1678373951/media/2023/03/HeroicOpera_DonCarlos_MelissaRatcliff_ebloi_1_y2sj1e.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1678373951/media/2023/03/HeroicOpera_DonCarlos_MelissaRatcliff_ebloi_1_y2sj1e.jpg)
 
 <figcaption>Schmopera contributor and mezzo-soprano Melissa Ratcliff as Princess Eboli in Heroic Opera's production of Don Carlo, 2023. Photo courtesy of Melissa Ratcliff.</figcaption>  
 </figure>

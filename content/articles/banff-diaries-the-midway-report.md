@@ -17,7 +17,7 @@ Amid the Canadian Rockies, the Against the Grain Theatre team and 13 young artis
 
 So far, the young artists have had lessons with Canadian greats like [Judith Forst](/scene/people/judith-forst/) and [Ben Heppner](/scene/people/ben-heppner/), and they've had the chance to talk new opera with Minnesota Opera's Michael Christie. They've spent time with [Alexander Neef](/alexander-neef-listening-to-music/), General Director of the Canadian Opera Company, a special opportunity to present themselves as emerging singers in a feedback-oriented environment. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467161231115/2016-06-28---MacNeil-Studying.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467161231115/2016-06-28---MacNeil-Studying.jpg.jpg)
 <figcaption>Baritone Iain MacNeil, Open Space 2106 participant (Tarquinius, *The Rape of Lucretia*), studying by headlight in dusky Banff.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ Select singers prepared impressive and challenging chamber music, in collaborati
 
 Others are working on *No One's Safe*, a mashup of music from Mozart's *Le nozze di Figaro*, *Don Giovanni*, and *Così fan tutte*; Artistic Director [Joel Ivany](/scene/people/joel-ivany/) has written new text and a new "whodunnit" story connecting familiar music, and Music Director Miloš Repicky is creating a musical environment full of play, experimentation, and novelty.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467161159412/2016-06-28---Gents.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467161159412/2016-06-28---Gents.jpg.jpg)
 <figcaption>Music Director Christopher Mokrzewski (*The Rape of Lucretia*), Music Director Miloš Repicky (*No One's Safe*), and Artistic Director Joel Ivany.</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Closing the 2016 Open Space program will be four performances of Britten's *The 
 
 Among the facts of the program are the moments of inspiration and joy that come out of opera, and working on opera in beautiful Banff. Each person at Open Space has had the chance to look at a stunning mountain vista, or stellar sunset, and say to the person next to them, "wow." There have been heroic tales of hiking mountains, of bear sightings, of conquering the horror that is 80% oxygen levels while being asked to sing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467161253213/2016-06-28---Shenans.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467161253213/2016-06-28---Shenans.jpg.jpg)
 <figcaption>l-r: Christopher Mokrzewski, Paul Curran (director, *The Rape of Lucretia*, Miloš Repicky, Lilah Gossman, Gordon Gerrard.</figcaption>
 </figure>
 

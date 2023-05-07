@@ -18,7 +18,9 @@ title = "Talking with singers: Gyula Nagy"
 
 "But I couldn't get away from singing," smiles Nagy. "I started having lessons again." After graduation, he started working as a teacher, "which was grand, but I felt that I should at least try this thing, at least once more." He studied at the Royal Irish Academy of Music in Dublin and at the National Opera Studio in London; he then joined the Opera Theatre Company’s Young Associate Artists Programme in Dublin, and sang as an Associate Artist at Welsh National Opera.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478529726047/2016-11-07---Oreste-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478529726047/2016-11-07---Oreste-1.jpg.jpg)
 <figcaption>Gyula Nagy in rehearsal for Handel's *Oreste* at Wilton's Music Hall. Photo by Roger Way Photography.</figcaption>
 </figure>
 
@@ -30,7 +32,9 @@ This season with the Royal Opera House, Nagy sang Fiorello in *Il barbiere di Si
 
 On top of his mainstage responsibilities, Nagy and his fellow Jette Parker Young Artists sing in their own production of Handel's [*Oreste*](http://www.roh.org.uk/productions/oreste-by-richard-gerard-jones). Nagy sings the role of Filotete, the captain of King Toante's guards, where he spends time "cleaning up things after human sacrifices."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478530382622/2016-11-07--Oreste-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478530382622/2016-11-07--Oreste-2.jpg.jpg)
 <figcaption>Gyula Nagy (centre) in rehearsal for Handel's *Oreste* at Wilton's Music Hall. Photo by Roger Way Photography.</figcaption>
 </figure>
 
@@ -40,7 +44,9 @@ He has a relaxed air about his place at the Royal Opera House, though the value 
 
 He takes seriously the artistic work he does as a singer, yet the come-what-may attitude that Nagy has about his pursuit of singing is one of his biggest advantages. "If I hadn't gotten this [position at the ROH], then probably I would have gone on auditioning on my own," he says of the Jette Parker programme's influence on his career. "I would have managed somehow. It would have been really different, but there would have been another way."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478530394597/2016-11-07---Oreste-3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478530394597/2016-11-07---Oreste-3.jpg.jpg)
 <figcaption>Gyula Nagy (left) in rehearsal for Handel's *Oreste* at Wilton's Music Hall. Photo by Roger Way Photography.</figcaption>
 </figure>
 

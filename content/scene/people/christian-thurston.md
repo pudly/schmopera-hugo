@@ -9,6 +9,7 @@ social_media = []
 title = "Christian Thurston"
 website = "https://christianthurston.com/"
 
+_template = "people_single"
 +++
 A "rich baritone sounding more than ready for prime time"– James Jorden (_The Observer_)
 

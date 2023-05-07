@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/holly.flack/"
 
+_template = "people_single"
 +++
 Holly Flack is a coloratura soprano with a unique range that extends beyond an octave above high C. Praised as an “explosive talent” with her warm, flowing middle voice, rippling coloratura and effortless trills, she “wields an impressive range, effortlessly reaching higher than high notes” with her stratospheric vocal extension.
 

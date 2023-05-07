@@ -12,6 +12,7 @@ website = "http://www.mauropeter.com/index.html"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/Mauro-Peter-299462136859405/?fref=ts"
+_template = "people_single"
 +++
 
 Born in Lucerne, Switzerland, Mauro Peter received his musical training at the Hochschule für Musik und Theater München with Fenna Kügel-Seifried, and in Helmut Deutsch's Lied class. In 2012, he was the winner of Robert Schumann Competition in Zwickau, where he was awarded the 1st Prize and the Audience prize. In the same year, he made his successful debut as a lieder recitalist at the Schubertiade in Hohenems and Schwarzenberg, performing *Die schöne Müllerin* with Helmut Deutsch.

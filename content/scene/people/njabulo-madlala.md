@@ -11,6 +11,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Njabza"
 
+_template = "people_single"
 +++
 Njabulo Madlala was born in Durban, South Africa. In 2002 he won a scholarship to study at the Guildhall School of Music & Drama for graduate and postgraduate studies. He went on to study for a further year at the Cardiff International Academy of Voice with Dennis O’Neill. Additionally, Njabulo has been a Britten Pears Young Artist, a Samling Artist and a young artist at the Ravinia International Festival in the USA.
 

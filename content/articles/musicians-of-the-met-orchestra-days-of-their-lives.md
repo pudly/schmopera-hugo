@@ -21,7 +21,9 @@ Mirga Gražinytė-Tyla, the increasingly prominent music director of the City of
 
 At best a languid opener, it was followed by the appearance of mezzo-soprano, [Anita Rachvelishvili](/scene/people/anita-rachvelishvili/) who has impressed Met audiences with her interpretations of the title role in _Carmen_ and most recently, Azucena in _Il trovatore_. Some artists do not inhabit roles in concert or recital with the same commitment that they bring to staged operas. Rachvelishvili on this occasion appeared to be one of them. Mussorgsky's _Songs and Dances of Death_, in a stirring orchestration by Shostakovich, requires an almost surreal devotion to the text to communicate its fateful subject matter. While she sang with a dramatic luster and responded to the orchestra's dark and turbulent reading with technical precision, her sound was only beautiful when it should have been emotionally overwrought. Gražinytė-Tyla held both singer and orchestra in an otherwise spellbinding grasp, reinforcing her own increasingly impressive reputation on the podium.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528585494608/CH1384283_Original.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528585494608/CH1384283_Original.jpg.jpg)
 <figcaption>Mezzo-soprano Anita Rachvelishvili, conductor Mirga Gražinytė-Tyla, and the MET Orchestra, Carnegie Hall, 2018. Photo: Chris Lee.</figcaption>
 </figure>
 
@@ -31,7 +33,9 @@ With no news of litigation, May 30 appeared to be a day for collaboration. Giana
 
 Ehnes, a remarkably lyrical violinist who is a frequent collaborator with Noseda, and the orchestra responded to each other like the best of friends. Indeed, a feeling of musical well being swept over the hall reminding the audience that music making can be genuinely nurturing, especially when circumstances surrounding it are something less.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528585557759/CH1385494_Original.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528585557759/CH1385494_Original.jpg.jpg)
 <figcaption>Violinist James Ehnes plays with the MET Orchestra, Carnegie Hall, 2018. Photo: Chris Lee.</figcaption>
 </figure>
 
@@ -41,6 +45,8 @@ Fresh and exciting as all of this was, the program would give way to Mahler's Fi
 
 Noseda may be a near perfect conductor of Mahler because of his ability to harness with such precision and balance, the disparate elements of this work. Opening with its funeral march, towering horns, (surprisingly off at moments) its "fever dream," as Mahler termed it, of a Scherzo, and the melting Adagietto that follows, the task is immense and Noseda was elegantly committed throughout.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546220235/media/2018/12/CH1385511Original.jpg)<figcaption>Conductor Gianandrea Noseda and violinist James Ehnes with the MET Orchestra, Carnegie Hall, 2018. Photo: Chris Lee.</figcaption> </figure>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1546220235/media/2018/12/CH1385511Original.jpg)<figcaption>Conductor Gianandrea Noseda and violinist James Ehnes with the MET Orchestra, Carnegie Hall, 2018. Photo: Chris Lee.</figcaption> </figure>
 
 Or, it may be that Noseda's precision inhibits Mahler's innate bohemianism and his expressionistic manner of joining elements that, if his personal life had any impact on his compositions, weren't meant to fit neatly together. It is a matter of taste, of course, especially when a conductor like Noseda, with unquestionable intentions and proficiency, is at the helm. If the audience in Carnegie Hall was in any way divided on this issue, it didn't register in the rapturous applause when the symphony raced to a close that could be considered highly animated — or unruly, depending on how one views Mahler. Under any circumstances, it was a great day for the splendid MET Orchestra.

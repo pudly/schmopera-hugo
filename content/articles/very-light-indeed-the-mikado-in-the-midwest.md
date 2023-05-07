@@ -21,7 +21,9 @@ The [Gilbert and Sullivan Very Light Opera Company](https://gsvloc.org/) (GSVLOC
 
 The stage opened on a simple set and an overture that could have been trimmed down, and could have used some onstage action to set the drama. (Additionally, it is a tradition of the company to do creative "cell phone" song before the show.) The set stayed the same for the whole show and could have used some variety. The lighting was stylized and especially effective during Tum Tum's aria, "The sun whose rays are all ablaze."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554920982/media/2019/04/Mikado-.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554920982/media/2019/04/Mikado-.jpg)
 
 <figcaption>Anthony Rohr Franklyn (Pool of Hanover/Frankie-Poo), Margaret Matejcek (Taylor Tarrington/Tum Tum), and Tyus Beeson (Coleman Coe/Co Co)in The Mikado, The Gilbert & Sullivan Very Light Opera Company, 2019. Photo: Stephen Hage.</figcaption>
 
@@ -31,7 +33,9 @@ The standout of the principles was Anthony Rohr as Frankie-Poo. He had a bright 
 
 The costumes were stock G&S: white dresses for the ladies chorus and three piece suits for men. My favorite was the three little maids' blue schoolgirls outfits with their croquet sticks. The highlights of Gilbert and Sullivan repertoire is the chorus/ensemble scenes, and GSVLOC certainly does the job right; the chorus had very strong voices and charming choreography.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554920922/media/2019/04/Mikado-Tyus-Lara.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554920922/media/2019/04/Mikado-Tyus-Lara.jpg)
 
 <figcaption>Tyus Beeson (Coleman Coe/Co-Co) and Lara Trujillo Lady (Katherine Shaw/Katy Shaw) in The Mikado, The Gilbert & Sullivan Very Light Opera Company, 2019. Photo: Stephen Hage.</figcaption>
 

@@ -34,12 +34,16 @@ Baritone [Steven Page](http://musichall.uk.com/artist.aspx?artist=67&name=Steven
 
 Mezzo soprano [Rachel Kelly](/scene/people/rachel-kelly/) as James's wife Catherine sang with a full lyric tone, that blossomed gloriously over the top of her range. Watching her character go from her first entrance as James's new client to the catalyst for the finale ultimo was a thrilling ride. Her portrayal was strong, clear, nuanced and fresh - and her beautiful voice and remarkable control was exhilarating. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457694990504/Steven-Page-Credit-Bill-Cooper.jpg.jpg)<figcaption>Steven Page (the Vagrant) in *The Devil Inside*, Scottish Opera, 2016. Photo by Bill Cooper.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457694990504/Steven-Page-Credit-Bill-Cooper.jpg.jpg)<figcaption>Steven Page (the Vagrant) in *The Devil Inside*, Scottish Opera, 2016. Photo by Bill Cooper.</figcaption>
 </figure>
 
 The pit was filled with the Players of the Orchestra of Scottish Opera. Led by Michael Rafferty, MacRae's score was creative and modern without being unaccessable. There were some incredible colours created - at one point the violin section put their violins down and picked up harmonicas, and I definitely saw the percussionist doing the whole [air-release-from-a-balloon-squeal-thing](https://www.youtube.com/watch?v=tZF4yRlASX8) we all used to do as children to annoy our parents. His treatment of Welsh's libretto was sensitive to both the audiences needs and the singers', showing off some amazing ranges while still be able to understand the text even in extreme registers. There were times when I thought that the orchestra was a little too present in the overall listening, but I think that's more attributed to their exposed location in the house at the Harbourfront Theatre. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457695065526/Rachel-Kelly---Credit-Bill-Cooper.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457695065526/Rachel-Kelly---Credit-Bill-Cooper.jpg.jpg)
 <figcaption>Rachel Kelly (Catherine) in *The Devil Inside*, Scottish Opera, 2016. Photo by Bill Cooper.</figcaption>
 </figure>
 

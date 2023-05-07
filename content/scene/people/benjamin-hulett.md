@@ -13,6 +13,7 @@ website = "http://www.benjaminhulett.com/index.php"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ben_hulett"
+_template = "people_single"
 +++
 
 Since leaving Oxford University, where he was a choral scholar at New College with a degree in music, Benjamin Hulett has worked with many of Britain's leading choirs and orchestras. He is much in demand as an interpreter of music across a wide range of genres and has been hailed by the national press as one of the most promising young tenors of today. 

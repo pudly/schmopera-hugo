@@ -12,6 +12,7 @@ website = "http://www.amalelshrafi.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://facebook.com/amalsoprano?_rdr"
+_template = "people_single"
 +++
 
 Hailed by the Boston Musical Intelligencer as "shining through with a strength and power that matched her character’s presence onstage", Amal El-Shrafi is now an up and coming performer across the United States. This season, Ms. El-Shrafi made her principal artist debut as Nedda in *I Pagliacci* with Mobile Opera, sang as an Apprentice Artist with Sarasota Opera in their completion of the Verdi Cycle and will return to Opera Company of Middlebury as an Apparition in their production of Verdi's *Macbeth*. She also placed as an international semi-finalist in the pretigious Deborah Voigt/ Vero Beach Opera Vocal Competition this past March. 

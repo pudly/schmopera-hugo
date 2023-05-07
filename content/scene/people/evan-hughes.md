@@ -17,6 +17,7 @@ url = "https://www.facebook.com/evanhughesbassbaritone"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/evanbenhughes/"
+_template = "people_single"
 +++
 
 American Bass-Baritone Evan Hughes has been praised for his “appealing clarity and emotional heft” (*NY Times*) and his “burnished tone” (*Opera News*). 

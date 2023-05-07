@@ -15,6 +15,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/guadalupepazmezzo/"
 
+_template = "people_single"
 +++
 Tijuana-born mezzosoprano Guadalupe Paz was a member of a children’s choir committed to the revival of sacred repertoire at the early age of 6 years old. Since then, music and singing marked her life. In 2009 she graduated from the Conservatorio Arrigo Pedrollo in Vicenza, Italy and since her professional debut in 2008, Paz has been an active performer for the National Opera Company of Bellas Artes in Mexico City.
 

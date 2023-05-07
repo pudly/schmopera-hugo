@@ -9,6 +9,7 @@ social_media = []
 title = "Won Whi Choi"
 website = ""
 
+_template = "people_single"
 +++
 Won Whi Choi has been busy captivating and thrilling audiences worldwide with his lustrous and ringing voice, elegant musicianship, and sensitive artistry. He spent the last three seasons at Theatre Erfurt in Germany, in which he sang a variety of leading roles, including, Il Duca in _Rigoletto_, Don José in _Carmen_, Roméo in _Roméo et Juliette_, Ferrando in _Così fan tutte_, Tamino in _Die Zauberflöte_, Hyllus in _Hercules_, Andres in _Wozzeck_, Il Cantatore in _Giulietta e Romeo_, and Prince Sou Chong in Lehár’s _Das Land des Lächelns_. In his first New York City performance, Choi was praised for his portrayal of Rodolfo in _La bohème_ and his “big, virile sound that rocketed fearlessly up to a high C, so secure he dared to run across the stage while holding the note,” by The New York Observer.
 

@@ -17,6 +17,7 @@ url = "https://twitter.com/JoelAllison92"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/joelallisonbb/"
+_template = "people_single"
 +++
 
 The young Canadian Bass-Baritone Joel Allison has been praised for his “ beautiful, rich, ringing tone….exceptionally promising.” (*Musical Toronto*). He has performed throughout Canada with leading ensembles including the National Arts Centre Orchestra, Saskatoon Opera, National Academy Orchestra, Theatre of Early Music, Talisker Players and Tafelmusik Baroque Orchestra and Chamber Choir.

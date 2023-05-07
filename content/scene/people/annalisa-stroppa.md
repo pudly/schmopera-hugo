@@ -21,6 +21,7 @@ url = "https://twitter.com/AnnalisaStroppa"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UC0V03DZHaNQ4LJw2PXbqbTQ"
+_template = "people_single"
 +++
 
 Annalisa Stroppa began studying classic piano at an early age and later completed her

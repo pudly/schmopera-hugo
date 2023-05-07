@@ -8,6 +8,7 @@ related_companies = ["scene/companies/english-national-opera.md","scene/companie
 slug = "lucy-schaufer"
 title = "Lucy Schaufer"
 website = "https://lucyschaufer.com/"
+_template = "people_single"
 +++
 
 Lucy Schaufer's current and future engagements include the leading role of DOCTOR Venables’ *4.48 Psychosis* (world premiere) Royal Opera House, Covent Garden at the Lyric Hammersmith, MADDY Heggie’s *Three Decembers* Florentine Opera, MARCELLINA *Le nozze di Figaro* Opera Company Philadelphia, RUTH *The Pirates of Penzance* English National Opera, Eötvös’ *The Golden Dragon* Music Theatre Wales (UK tour) and a concert with the Birmingham Contemporary Music Group, including two works by Judith Weir. She will also make her Teatro Real Madrid debut in a future season.

@@ -17,6 +17,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/OperaSaratoga"
 
+_template = "company_single"
 +++
 ### Our Mission
 

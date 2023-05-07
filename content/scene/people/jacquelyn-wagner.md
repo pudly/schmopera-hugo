@@ -12,6 +12,7 @@ website = "http://www.jacquelynwagner.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/Jacquelyn-Wagner-1493387444311157/?ref=hl"
+_template = "people_single"
 +++
 
 “Jacquelyn Wagner is something like a shooting star”, wrote Michael S. Zerban, in: Opernnetz, May 5, 2013 after her huge success as Suor Angelica/*Suor Angelica* in a new production at the Opera Cologne (Will Humburg;Eva Maria Höckmayr). 

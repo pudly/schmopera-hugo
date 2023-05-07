@@ -18,7 +18,9 @@ Benjamin Barker has been masquerading as more than a demon barber all these year
 
 Audiences have been flocking to the Barrow Street Theater, which has been converted into a 135-seat pie shop, for over a year. The producers have the delicious cheek to sell meat pies, by reservation only, prior to each performance. They will be serving up those pies well into the summer.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524618372810/18-2SweeneyTodd0064r_preview.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524618372810/18-2SweeneyTodd0064r_preview.jpg.jpg)
 <figcaption>Thom Sesma as Sweeney Todd and Sally Ann Triplett as Mrs. Lovett. Photo by Joan Marcus ©2018.</figcaption>
 </figure>
 
@@ -42,7 +44,9 @@ The current trend in musical theater increasingly involves the adaptation of ani
 
 When it comes to musical revivals and opera warhorses, the genres again converge. Generally speaking, the same operas are performed year after year. In musical theater revivals often define a season. Both genres suffer from the same lassitude. Perhaps some cross-pollination would energize them.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524618397663/18-2SweeneyTodd0125r_preview.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524618397663/18-2SweeneyTodd0125r_preview.jpg.jpg)
 <figcaption>The company of *Sweeney Todd*. Photo by Joan Marcus ©2018.</figcaption>
 </figure>
 
@@ -57,7 +61,9 @@ Dissonance is also apparent in the vocal work, especially when members of this m
 Anthony and Johanna, the young, would-be lovers, sing two of the shows melodies, "Johanna," and "Green Finch and Linnet Bird," respectively.
 The sequence begins with "Johanna," and is followed by Anthony's extremely rhythmic recitative, "Ah, Miss," and then segues into "Linnet Bird." Finally the two songs are combined in duet.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524618435394/18-2SweeneyTodd0382r_preview.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524618435394/18-2SweeneyTodd0382r_preview.jpg.jpg)
 <figcaption>DeLaney Westfall as Johanna and Billy Harrigan Tighe as Anthony. Photo by Joan Marcus ©2018.</figcaption>
 </figure>
 
@@ -67,19 +73,25 @@ Stacie Bono plays Adolfo Pirelli, a corrupt barber and hawker of miracle elixirs
 
 "Pretty Women," the duet belonging to Sweeney and Judge Tupin, won't knock "Au fond du temple saint" from Bizet's *The Pearl Fishers* off the favorite duets chart, but its mastery of harmony from opposing characters and intense feeling at cross-purposes, earn it a special place. Michael James Leslie as Turpin adds a touch of shyness to his booming voice, giving the malevolent judge an unsettling, vulnerable dimension. John Rapson's Beadle Bamford, Turpin's lackey enforcer, has a sweet tenor sound and comic timing that belies his character's creepy and brutal nature. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524618490517/18-2SweeneyTodd0223r_preview.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524618490517/18-2SweeneyTodd0223r_preview.jpg.jpg)
 <figcaption>Michael James Leslie as Judge Turpin and Thom Sesma as Sweeney Todd. Photo by Joan Marcus ©2018.</figcaption>
 </figure>
 
 Zachary Noah Piser is a mischievous, high-energy Tobias. His and Mrs. Lovett's not quite duet, "Not While I'm Around," is touching despite its irony. I can't think of a song or an aria that so compellingly extends the story and captures the complicated attitudes of its characters. The interplay of lyric and recitative between the two of them would be magical if the situation in which it is taking place weren't so dire.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524618530624/18-2SweeneyTodd0199r_preview.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524618530624/18-2SweeneyTodd0199r_preview.jpg.jpg)
 <figcaption>Sally Ann Triplett as Mrs. Lovett. Photo by Joan Marcus ©2018.</figcaption>
 </figure>
 
 If you doubt the operatic unity that is imbedded in the score, give "Epiphany," and the reprise of "Johanna," a closer listen. For that matter, give the whole recording a closer listen. It takes time to get to know *Sweeney*, one of the reasons that it is so enduring. Sondheim isn't using operatic techniques to elevate the status of musical theater. He has created his own kind of contemporary operatic piece, at times an audacious one. He mines elements of opera so deeply and integrates them so thoroughly, that they have gone largely unnoticed, until the Tooting *Sweeney* removed the disguise.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524618546758/18-2SweeneyTodd0037r_preview.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524618546758/18-2SweeneyTodd0037r_preview.jpg.jpg)
 <figcaption>Thom Sesma as Sweeney Todd. Photo by Joan Marcus ©2018.</figcaption>
 </figure>
 

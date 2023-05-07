@@ -26,7 +26,9 @@ The frustration and stress that accompanies theses truths cause me to reconsider
 
 However, there are times – far fewer than the times I am shrouded in self doubt and feelings of failure – but there are times when I become overwhelmed by how much I love this stupid job. I love this community which has not always been kind to me, but always finds a way to remind me why I'm here, that I'm meant to be here, and that the work I do is important, even when I feel like I'm being kicked while down.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477234075394/2016-10-23---VonnegutQuote.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477234075394/2016-10-23---VonnegutQuote.jpg.jpg)
 </figure>
 
 In these rare moments, I am reminded of the two most important things – the two things that make up the roots that have grounded me in this work and keep me here, weathering the storm as best I can. The first of these roots is the fact that I truly believe, at my core, that the performing arts are an essential and vastly relevant part of humanity. Before we had computer programmers and financial consultants, we had communication, creativity, human expression – through art, literature, and music. Expressing ourselves through the arts is fundamentally human, one of the building blocks of our species and a vital part of our communities, history, and development.

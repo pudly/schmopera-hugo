@@ -12,6 +12,7 @@ website = "http://www.stephaniewindsorlewis.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/StephanieWL4"
+_template = "people_single"
 +++
 
 British mezzo-soprano, Stephanie Windsor-Lewis, completed her studies as a young artist at the Teatro del Maggio Musicale Fiorentino, and at the Teatro Comunale di Bologna. Prior to this she studied at the Benjamin Britten International Opera School at the Royal College of Music with Ryland Davies and Tim Evans-Jones.

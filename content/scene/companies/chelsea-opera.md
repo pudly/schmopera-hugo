@@ -12,6 +12,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/ChelseaOpera/?ref=ts"
 
+_template = "company_single"
 +++
 Chelsea Opera was formed in April 2004 by Leonarda Priore and Lynne Hayden-Findlay, both singers, who felt that performance opportunities within the tri-state area were few and far between. They believed the market would sustain a small-sized opera company and envisioned creating one which offered singers the opportunity to perform in fully staged operas with orchestra in a professional, respectful and encouraging environment. In only six weeks, all of the production elements were pulled together, sometimes it seemed, almost miraculously.
 

@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Alek-Shrader/139288442912?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/alekshrader"
+_template = "people_single"
 +++
 
 The brilliant lyric tenor Alek Shrader continues to impress audiences with the “luxury of his phrasing, the clarity of his diction and the sensitivity and expressiveness of his characterizations”. Mr. Shrader makes several debuts in the 2016-2017 season, including at Wigmore Hall in a recital with pianist Roger Vignoles, with Opera de Oviedo in Spain performing Ferrando in *Così fan tutte*, and with the Minnesota Opera as Endimione in a production of Vicente Martín y Soler’s *Diana’s Garden*. He then returns to the Arizona Opera for performances of Don Ramiro in *La Cenerentola* and to the Santa Fe Opera to sing Oronte in Handel’s *Alcina*. Future projects include returns to the San Francisco Opera, the Santa Fe Opera, the Seattle Opera and Opera de Oviedo.

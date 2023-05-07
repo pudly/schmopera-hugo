@@ -22,7 +22,9 @@ A similar arc was built out of the Wolf selections; the Eichendorff texts had mu
 
 The latter half brought out more voice and gusto from both Appleby and Martineau. Appleby's tenor comes with an enormous palette of colour, including everything from a mixed, floating sound to a full and virile ring. He suited the English songs by Bridge really well, making us want to hear him in some Britten (it's in his repertoire, fear not). The Berlioz were a beautiful change, and his inviting, almost cocky attitude to the final selection, "L'île inconnue", was charming as all get-out.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457190875716/Paul-Appleby-High-Res-1---credit-Dario-AcostaResized.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457190875716/Paul-Appleby-High-Res-1---credit-Dario-AcostaResized.jpg.jpg)
 <figcaption>Paul Appleby, tenor. Photo by Dario Acosta.</figcaption>
 </figure>
 

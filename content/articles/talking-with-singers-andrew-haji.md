@@ -32,7 +32,9 @@ Robinson's production moves the action out of the 18th-century setting in Romani
 
 "It's clear that Nemorino really, really loves this girl, and he'll stop at nothing to let her know that."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505495037203/2017-09-15---Haji-Flute-16-17-03b-MC-D-3687.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505495037203/2017-09-15---Haji-Flute-16-17-03b-MC-D-3687.jpg.jpg)
 <figcaption>Andrew Haji as Tamino in the Canadian Opera Company's production of *The Magic Flute*, 2017. Photo: Michael Cooper.</figcaption>
 </figure>
 

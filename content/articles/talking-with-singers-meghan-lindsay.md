@@ -27,7 +27,9 @@ This is an issue near and dear to my heart. I do a lot of volunteer music outrea
 
 My answer is that opera isn't always relevant. Sometimes, if we seek to make something as exotic as opera relevant by finding parallels to modern life, we hit a wall. Instead, I choose to focus on how can we make our art more socially inclusive - more accessible and interesting to the community at large. Classical music becomes relevant to any given community by connection and communication. This connection can happen in so many different capacities - through a relation to the storyline, through the sheer experience of hearing live music, through a direct relationship with the performers. I believe that performers have a degree of creative responsibility when it comes to making our music relatable. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458061648558/2016-03-15---Alcina-Opera-Atelier-Zinger.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458061648558/2016-03-15---Alcina-Opera-Atelier-Zinger.jpg.jpg)
 <figcaption>Meghan Lindsay in the title role of Opera Atelier's *Alcina*. Photo by Bruce Zinger.</figcaption>
 </figure>
 
@@ -41,7 +43,9 @@ I think there are the most common challenges - choosing how and when to navigate
 
 I've been really lucky to have crossed many roles off of that list: Donna Anna and [Alcina](/he-saidshe-said-alcina-at-opera-atelier/) were dream roles that I recently had a chance to perform. I'm curious to explore some of the lesser known Rossini operas and *bel canto* roles. I would also love to sing Lucia and one day, Norma.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458061746261/2016-03-15---Lindsay---Freischutz---Zinger.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458061746261/2016-03-15---Lindsay---Freischutz---Zinger.jpg.jpg)
 <figcaption>Meghan Lindsay as Agathe in Opera Atelier's production of *Der Freischütz*. Photo by Calum Agnew.</figcaption>
 </figure>
 

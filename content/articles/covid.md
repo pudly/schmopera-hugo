@@ -47,7 +47,9 @@ I did give myself a [little haircut](https://www.facebook.com/photo?fbid=1010500
 
 I guess the most humbling thing about this is realizing how utterly in love I am with something that the rest of the world just might deem unessential. Like, in the big-scheme, unessential; the line-up for government aid is already enormous, and priorities have already become clear. The performing arts are certainly a staple of human society...but opera? When we have to make a crazy case for it? When money is tighter than ever before? When donors can't donate, when audiences are scared of crowds, when government funding is effing _busy at the moment_, what then? Are we icing?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1587686039/media/2020/04/AlexatH_G_s87vhr.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1587686039/media/2020/04/AlexatH_G_s87vhr.jpg)
 
 <figcaption>Simpler times: Alex, when I took him to a family performance of Hansel and Gretel at the Canadian Opera Company.</figcaption>
 

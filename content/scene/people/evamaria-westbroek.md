@@ -14,6 +14,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/Eva-Maria-Westbroek/57725737250?fref=ts"
 
+_template = "people_single"
 +++
 Eva Maria Westbroek is one of the most acclaimed and widely-recognized classical singers in the world today. She has appeared at the great opera houses and festivals of the world, such as the Royal Opera House – Covent Garden, Opera National de Paris, Metropolitan Opera, Wiener Staatsoper, Deutsche Oper Berlin, Teatro alla Scala in Milan, Semperoper Dresden and Bavarian State Opera in Munich, as well as at the Bayreuth Festival, Salzburg Festival, and the Aix en Provence Festival. Westbroek commands a very wide repertoire of many different periods and styles, including such roles as Sieglinde in **_Die Walküre_**, Katerina in **_Lady Macbeth of Mtsensk_**, Minnie in **_La Fanciulla del West_**, Maddalena in **_Andrea Chénier_** and the title roles in **_Francesca da Rimini_**_,_ **_Jenufa_**, **_Manon Lescaut_**, and **_Katya Kabanova_**. She also starred in the sensationally received world premiere of Wayne Turnage’s opera **_Anne Nicole_** at Covent Garden. Westbroek’s most recent role debuts have been Marie in **_Wozzeck_** at the Dutch National Opera in Amsterdam and Isolde in **_Tristan und Isolde_**, first at the Semperoper Dresden and then in Baden-Baden.
 

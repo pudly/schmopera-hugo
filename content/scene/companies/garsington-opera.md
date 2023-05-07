@@ -20,6 +20,7 @@ url = "https://twitter.com/GarsingtonOpera"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/GarsingtonOpera"
+_template = "company_single"
 +++
 
 Garsington Opera gives performances of great artistic quality in a setting of extraordinary natural beauty. Performances take place in the spectacular Opera Pavilion, which sits within the rolling landscape of the Chiltern Hills, less than an hour from London.

@@ -24,7 +24,9 @@ Mozart's [_Le nozze di Figaro_](https://uoftopera.ca/productions/) is an all-tim
 
 When we have a beautiful overture, it must be accompanied by an exquisite set, no? Production designer Fred Perruzza does not disappoint. It is such a sight to behold as the curtain rises to these bright blue walls and warm yellow tones. This warmness is also accompanied by the brilliant lighting design that constantly keeps us well lit. It truly sets the tone for the opening number, a fun and comedic interaction between Figaro (Korin Thomas-Smith), and Susanna (Maeve Palmer).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574534985/media/2019/11/UofTFigaroIMG_1061_zhehrl.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1574534985/media/2019/11/UofTFigaroIMG_1061_zhehrl.jpg)
 
 <figcaption>The University of Toronto Opera Division's production of Le nozze di Figaro, 2019. Photo by Richard Lu.</figcaption>  
 </figure>
@@ -35,7 +37,9 @@ Thomas-Smith could not be a better Figaro. He skillfully plays his character wit
 
 The staging direction by Michael Albano further enhances the production, as well as the overall performance of the singers. Every character has their own specific nuance that they continue to stick with throughout the entire show. There is excellent characterization from Elias Theocharidis as Basillio, and Danlie Acebuque as Antonio. Both have slight gestures such as conducting, a turn of the lip, or a sip of a drink that occurs throughout, which enhances the realness of the opera even more.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574534996/media/2019/11/UofTIMG_1062_yhgirk.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1574534996/media/2019/11/UofTIMG_1062_yhgirk.jpg)
 
 <figcaption>The University of Toronto Opera Division's production of Le nozze di Figaro, 2019. Photo by Richard Lu.</figcaption>  
 </figure>

@@ -15,6 +15,7 @@ url = "https://www.facebook.com/brynterfel/?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Bryn_Terfel"
+_template = "people_single"
 +++
 
 The Welsh bass-baritone Bryn Terfel has performed in all the great houses of the world, and is especially recognised for his portrayals of Figaro, Falstaff and Wotan. He made his operatic début in 1990 as Guglielmo in *Così fan tutte* for Welsh National Opera. His international operatic career began in 1991 when he sang the Speaker in Mozart's *Die Zauberflöte* at the Théâtre de la Monnaie in Brussels and in the same year he made his United States début as Figaro at the Santa Fe Opera. Other roles performed during his career include Holländer in *Der fliegende Holländer*, Méphistophélès in *Faust*, both the Title Role and Leporello in *Don Giovanni*, Jochannan in *Salome*, Scarpia in *Tosca*, the Title Role in *Gianni Schicchi*, Nick Shadow in *The Rake's Progress*, Wolfram in *Tannhäuser*, Balstrode in *Peter Grimes*, Four Villains in *Les contes d'Hoffmann*, Dulcamara in *L'Elisir d'Amore* and the Title Role in *Sweeney Todd*.

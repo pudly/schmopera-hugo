@@ -7,6 +7,7 @@ publishDate = "2015-04-12T12:42:00-04:00"
 related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/canadian-opera-company.md","scene/companies/opera-lyra-ottawa.md","scene/companies/opera-mcgill.md"]
 slug = "tom-diamond"
 title = "Tom Diamond"
+_template = "people_single"
 +++
 
 <p>

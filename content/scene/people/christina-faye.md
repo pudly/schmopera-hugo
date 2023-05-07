@@ -8,6 +8,7 @@ related_companies = ["scene/companies/cosi-centre-for-opera-studies-in-italy.md"
 slug = "christina-faye"
 title = "Christina Faye"
 website = "http://www.christinamfaye.com/index.html"
+_template = "people_single"
 +++
 
 Christina Faye is an accomplished pianist now making her home in Toronto. Originally from Thunder Bay, Ontario, Christina discovered her love for the collaborative arts at the age of nine when she began playing for a local children's chorus. Since then, she has worked with a vast number of student and professional instrumentalists, singers, orchestras, chamber groups, theatre and opera productions, as well as being an active teacher and solo performer. While in high school, Christina won several awards for piano and pipe organ performance excellence, as well as commendations for theory and harmony exams from the Western Conservatory and Conservatory Canada. 

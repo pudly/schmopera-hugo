@@ -21,6 +21,7 @@ url = "https://twitter.com/bejunmehta"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/bejunmehta1"
+_template = "people_single"
 +++
 
 Bejun Mehta is one of the most acclaimed countertenors in the world. He is a regular guest at the world’s great opera houses, including the Royal Opera House, Covent Garden, the Opéra Nationale de Paris, Theater an der Wien, the Berlin State Opera, the Bavarian State Opera Munich, the Théâtre Royal de La Monnaie, De Nederlandse Opera, Gran Teatre del Liceu Barcelona, Teatro Real Madrid, the Zurich Opera, the Metropolitan Opera, Chicago Lyric Opera, the Los Angeles Opera, as well as the Salzburg, Glyndebourne, and Aix-en-Provence Festivals and the Wiener Festwochen.

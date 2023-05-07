@@ -24,7 +24,9 @@ The showing on March 12 will be accompanied by a [live performance](http://www.t
 
 I caught up via email with both James Quandt from TIFF and AtG's Artistic Director [Joel Ivany](/scene/people/joel-ivany/) to talk about the retrospective and the relationship between film and music - in particular when talking about Straub-Huillet. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488377957774/2017-03-01---AMB-Bach-debout-devant-le-clavecin.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488377957774/2017-03-01---AMB-Bach-debout-devant-le-clavecin.jpg.jpg)
 <figcaption>A still from *The Chronicles of Anna Magdalena Bach*. Photo courtesy of TIFF.</figcaption>
 </figure>
 
@@ -52,7 +54,9 @@ This is exactly how AtG came to be: we started the company with the aim to find 
 
 **Quandt**: One of the great passions in my life is classical music, and both Bach and Schoenberg are among my favourite composer. I have countless CDs of the cantatas, Brandenburgs, Passions, orchestral suites, concerti, and the solo keyboard music, on piano and harpsichord. (Mahan Esfahani's recent disc of the Goldbergs is staggering!) For Schoenberg, I love the string quartets, the violin concerto, *Pierrot Lunaire*, and the orchestral pieces. And, of course, the two operas that Straub-Huillet made films of.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378129400/2017-03-01---Introduction...-.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378129400/2017-03-01---Introduction...-.jpg.jpg)
 <figcaption>A still from *Introduction to Arnold Schoenberg's "Accompaniment to a Cinematographic Scene". Photo courtesy of TIFF.</figcaption>
 </figure>
 
@@ -76,7 +80,9 @@ Straub-Huillet didnâ€™t make their art, in their minds, for any kind of elite â€
 
 **Quandt**: Straub-Huillet's films are fiercely political and the issues they raise are ever more current, given the dark times we are living through. I hope the films help to illuminate the history that has led us to this perilous moment. Machorka-Muff, for example, tells us a great deal about the persistence of fascism in Europe.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378251386/2017-03-01---mose-and-aaron-03.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378251386/2017-03-01---mose-and-aaron-03.jpg.jpg)
 <figcaption>A still from *Moses and Aaron*. Photo courtesy of TIFF.</figcaption>
 </figure>
 
@@ -118,7 +124,9 @@ This past week, we were able to have an open, pop-up rehearsal in the atrium of 
 
 **Quandt**: None of my pleasures are guilty.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378273823/2017-03-01---AMB-Bach-de-dos-dirigeant-.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378273823/2017-03-01---AMB-Bach-de-dos-dirigeant-.jpg.jpg)
 <figcaption>A still from *The Chronicles of Anna Magdalena Bach*. Photo courtesy of TIFF.</figcaption>
 </figure>
 

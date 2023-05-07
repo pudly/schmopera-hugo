@@ -15,6 +15,7 @@ url = "https://twitter.com/sarahforestieri"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/sarah_forestieri/"
+_template = "people_single"
 +++
 
 Sarah Forestieri’s recent performances include Rosaura in the Canadian premiere of *Los Gavilanes* (Toronto Operetta Theatre), *Il Destino in La Calisto* (Centre for Opera Studies in Italy), as well as in Alabama as a company member of the Druid City Opera Workshop. Other performances have included a variety of traditional and contemporary art song in Los Angeles, where she participated as a Schubert Fellow at the Songfest Art song Festival. This past summer, she studied at Poetry and Performance of German Lied at the Franz-Schubert Institute, working with master teachers such as Elly Ameling, Julius Drake, Robert Holl, and Roger Vignoles, to name a few. 

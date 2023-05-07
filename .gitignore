@@ -2,3 +2,4 @@ public/
 public.zip
 resources/_gen/
 node_modules/
+*.lock

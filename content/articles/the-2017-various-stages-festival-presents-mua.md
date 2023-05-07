@@ -24,7 +24,9 @@ I have always been fascinated by the magic of water puppetry, its deep roots in 
 
 I spend the majority of my time composing work which requires me to control every aspect. *Mu'a* is refreshingly the opposite of that. Instead we start with a 'table' of ideas, sound worlds, text, compositions of my own. These can be kept, trashed, mashed up, reworked, chopped, sliced and through experimentation we will craft and create the work which will be developed simultaneously alongside the movement. By having the expertise of a vocalist, puppeteer and dancer means that we have a group of artist unafraid of working with composed music/free-improv on a given structure and also able to continue with movement. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484824229042/2017-01-19---Mua_Dai-Fujikura_c-Ai-Ueda.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484824229042/2017-01-19---Mua_Dai-Fujikura_c-Ai-Ueda.jpg.jpg)
 <figcaption>Dai Fujikura, composer of *Mu'a*. Photo by Ai Ueda.</figcaption>
 </figure>
  
@@ -36,7 +38,9 @@ I spend the majority of my time composing work which requires me to control ever
 
 **Van Huynh**: Mu'a means Rain in Vietnamese. The people who created water puppetry were farmers: when the rice fields would flood after heavy rainfalls, the villagers would entertain each other using this form of play. Water is intrinsic to this work and will most probably play a major part in its final rendering.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484824275176/2017-01-19---Dam-Van-Huynh.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484824275176/2017-01-19---Dam-Van-Huynh.jpg.jpg)
 <figcaption>Dam Van Huynh, director and choreographer for *Mu'a*.</figcaption>
 </figure>
 

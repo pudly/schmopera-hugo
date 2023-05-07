@@ -21,7 +21,9 @@ This was my dream since I was 11 years old. Gradually it became a reality and no
 
 When I was young I refused some roles because I thought I was not ready to face them. I thought I would have been appreciated for this sense of responsibility and respect for the audience and opera houses - instead, I discovered I had been considered a snob!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521329574097/Il-Barbiere-di-Siviglia-con-Elina-Garranca-MetropolitanOpera.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521329574097/Il-Barbiere-di-Siviglia-con-Elina-Garranca-MetropolitanOpera.jpg.jpg)
 <figcaption>Vassallo as Figaro, with Elīna Garança (Rosina) in *Il barbiere di Siviglia*, Metropolitan Opera, 2008. Photo: Marty Sohl.</figcaption>
 </figure>
 
@@ -37,7 +39,9 @@ He hates this new "alba vindice" becouse it doesn't recognize the ancestral priv
 
 A wonderful character, I'd say unique in the history of melodramma.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521329585436/Aida-con-Sondra-Radvanovsky-WienerStaatsoper-.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521329585436/Aida-con-Sondra-Radvanovsky-WienerStaatsoper-.jpg.jpg)
 <figcaption>Vassallo as Amonasro with Sondra Radvanovsky (Aida) in *Aida*, Wiener Staatsoper, 2015. Photo: Wiener Staatsoper/Michael Pöhn.</figcaption>
 </figure>
 
@@ -49,7 +53,9 @@ I wish very soon to sing Francesco Foscari in *I due Foscari* and Miller in *Lui
 
 As well, in September at Festival Verdi di Parma, there will be the world premiere of Robert Wilson's production of *Le trouvère*, the French version of *Il trovatore*, never put onstage.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521332826312/Closed-P-2-ph-Alberto-Terrile-2018.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521332826312/Closed-P-2-ph-Alberto-Terrile-2018.jpg.jpg)
 <figcaption>Photo: Alberto Terrile.</figcaption>
 </figure>
 

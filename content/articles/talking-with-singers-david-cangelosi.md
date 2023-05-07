@@ -24,7 +24,9 @@ What I love most about my career can be summed up in two words: “being relevan
 
 This is _my_ saying:  “There are no small roles in opera…only small voices.”  While this is meant to be humorous, and has indeed garnered many laughs over the years, it remains an absolute truism.  A chain is only as strong as its weakest link; and in the ever-competitive pastiche that is opera today, it is now even more important to bring everything you have to every role.  It is employing this exact philosophy that has kept me active for over two decades.  I have, and continue to do, opera’s ‘smaller’ roles, but always make an impact.  I also sing opera’s larger(est) roles, such as the aforementioned Mime (smaller role in _Rheingold_, HUGE role in _Siegfried_), Prunier (_Rondine_), Shuisky (_Godunov_), Pedrillo (_Abduction_).  They are not title roles, but if they are not done well, it can be a long night in the opera house while waiting for the star to sing again!  If they are done excellently, one will leave a bigger impression behind than the size of the role itself.  I am opera’s ‘utility baseball player’…I play every position really well…but no one expects me to crush the baseball each time while at bat.  When I do, which is most of the time (if I can say so humbly), it leaves a real impression.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430174563313/12-13-02-b-mc-d-3790.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430174563313/12-13-02-b-mc-d-3790.jpg.jpg)
 <figcaption>Jan Pohl and David Cangelosi in the COC's production of Die Fledermaus, 2012. Photo by Michael Cooper</figcaption>
 </figure>
 

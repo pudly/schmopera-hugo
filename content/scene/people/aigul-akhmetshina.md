@@ -11,6 +11,7 @@ title = "Aigul Akhmetshina"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/aigulya1may96"
+_template = "people_single"
 +++
 
 Russian mezzo-soprano Aigul Akhmetshina joins the prestigious Jette Parker Young Artists Programme at the Royal Opera House from the start of the 2017/18 Season, her roles include Mercedes in *Carmen*, the title role of Carmen in *La Tragédie de Carmen* and Sonyetka in *Lady Macbeth of Mtsensk*. Other engagements this season include the title role in Rossini's *La Cenerentola* for Opera de Bauge Festival in France.

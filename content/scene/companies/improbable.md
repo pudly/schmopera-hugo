@@ -15,6 +15,7 @@ url = "https://www.facebook.com/weareimprobable/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/improbable1"
+_template = "company_single"
 +++
 
 #### Who are Improbable?

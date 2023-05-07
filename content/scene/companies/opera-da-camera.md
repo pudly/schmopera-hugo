@@ -16,6 +16,7 @@ url = "https://www.facebook.com/operadacamera?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/OperadaCamera"
+_template = "company_single"
 +++
 
 Translated without embellishment from the Italian, Opera da Camera means chamber (Camera) work (Opera). A musical work in a chamber… in a room. More importantly, it is a work that promotes a sense of closeness, intimacy, a connection resonating directly between the audience and the musician.

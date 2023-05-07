@@ -13,7 +13,9 @@ title = "Body-shaming, product-selling, &amp; knowing the difference"
 
 Over the span of mere days, the Toronto-based Sheraton Cadwell Orchestra earned lots of attention; first by [sending a super body-shaming email](http://www.cbc.ca/news/canada/toronto/orchestra-email-outrage-1.4260556) to its artists about some of their performance wardrobe choices, and subsequently by announcing that the [organization would dissolve](https://www.thestar.com/news/gta/2017/08/24/orchestra-shuts-in-response-to-reaction-to-its-body-shaming-email.html). If you've not yet read the email from Sheraton Cadwell:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503797321707/2017-08-25---sheraton-orchestra.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503797321707/2017-08-25---sheraton-orchestra.jpg.jpg)
 </figure>
 
 What needs to be said first is that this email is downright &%#$-y. It's nasty, and so poorly worded that it's hard to discern whether the person who wrote it is actually this mean, or just has *utterly zero* manners or social skills.

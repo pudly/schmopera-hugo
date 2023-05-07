@@ -17,6 +17,7 @@ url = "https://www.facebook.com/erin.morley.soprano"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/morley_erin"
+_template = "people_single"
 +++
 
 Erin Morley is one of today's most sought after coloratura sopranos. She has stepped into the international spotlight in recent years with a string of critically acclaimed appearances in the great opera houses of the world.

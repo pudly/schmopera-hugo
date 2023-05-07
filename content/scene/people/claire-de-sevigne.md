@@ -26,6 +26,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCFFIz8NbyNM-A1HYM4g6bxg"
 
+_template = "people_single"
 +++
 Named one of CBC’s Top Young Canadian Classical Musicians, soprano Claire de Sévigné was recently nominated for a Classical Album of the Year JUNO award for her Naxos album of Vivaldi Cantatas with Kevin Mallon and the Aradia Ensemble. Recent successes have come with the Canadian Opera Company, Savonlinna Opera Festival, Opernhaus Zürich and Théâtre des Champs-Élysées as Blonde in _Die Entführung aus dem Serail,_ in which she was hailed for her “sparkling top notes and vocal brilliance, lightness and finesse”.
 

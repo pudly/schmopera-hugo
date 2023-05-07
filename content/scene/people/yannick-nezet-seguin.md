@@ -26,6 +26,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCftkbCdeSHJzQueLYCbs5zA"
 
+_template = "people_single"
 +++
 In September 2018, Yannick Nézet-Séguin becomes the third Music Director of the Metropolitan Opera, New York. Music Director of the Philadelphia Orchestra since 2012 and the Orchestre Métropolitain of Montreal since 2000, he becomes Honorary Conductor of the Rotterdam Philharmonic Orchestra after being their Music Director from 2008 to 2018. He is also Honorary Member of the Chamber Orchestra of Europe.
 

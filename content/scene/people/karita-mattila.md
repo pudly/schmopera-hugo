@@ -7,6 +7,7 @@ primary_image_credit = "Marica Rosengard"
 publishDate = "2017-05-07T17:49:00-04:00"
 slug = "karita-mattila"
 title = "Karita Mattila"
+_template = "people_single"
 +++
 
 The lyric beauty of her singing and innate sense of theatre have set Karita Mattila apart as one of the most sought-after dramatic sopranos in the world today.

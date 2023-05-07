@@ -20,7 +20,7 @@ Ivany and AtG Music Director Topher Mokrzewski team up with composer Kevin Lau t
 
 The music of Handel's operas seems to strike a unique balance between storytelling at extremely high stakes, and laying out a blank-slate-like foundation for varied facets of a single emotional state. The stand-alone arias make for clean excerpts, and lend them well to re-organization and re-appropriation. "Handel is kind of like the human element in all of us," Ivany adds.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512703705997/BOUND_MEDIA_411.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512703705997/BOUND_MEDIA_411.jpg.jpg)
 <figcaption>Justin Welsh, baritone, and Joel Ivany, Artistic Director, rehearsing *BOUND*, Against the Grain Theatre, 2017. Photo by Darryl Block.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Alongside more standard rehearsal-room practices, there is time reserved for tal
 
 If you go to see a performance of [*BOUND*](http://againstthegraintheatre.com/bound/) this month, you'll find yourself in the midst of AtG's ongoing exploration of the opera-goer's experience. You may find yourself in a dystopian version of your current world, even pulled aside by officials who encourage you to give up your ID and phone while you wait, separated from your party, for no clear reason.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512703786853/BOUND_MEDIA_010.jpg.jpg)<figcaption>Miriam Khalil, soprano, rehearsing *BOUND*, Against the Grain Theatre, 2017. Photo by Darryl Block.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512703786853/BOUND_MEDIA_010.jpg.jpg)<figcaption>Miriam Khalil, soprano, rehearsing *BOUND*, Against the Grain Theatre, 2017. Photo by Darryl Block.</figcaption>
 </figure>
 
 A certain type of demographic goes to the opera, and perhaps there's only a small amount of overlap between that demographic and those who may understand more clearly what it feels like to be detained, mistreated, or bound by others' rules.

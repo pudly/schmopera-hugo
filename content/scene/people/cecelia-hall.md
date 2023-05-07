@@ -22,6 +22,7 @@ platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/cecelia-hall"
 
+_template = "people_single"
 +++
 American Cecelia Hall is one of today’s most established young mezzo-sopranos. Hailed by the Financial Times for her 'easy flexibility, arresting poise and enveloping warmth', she has appeared since 2014 in leading roles at many of the world’s finest stages, including Munich’s Bayerische Staatsoper, The Santa Fe Opera, Seattle Opera, Lyric Opera of Chicago, Canadian Opera Company, Opera Philadelphia, and Oper Frankfurt, where she is a member of the ensemble.
 

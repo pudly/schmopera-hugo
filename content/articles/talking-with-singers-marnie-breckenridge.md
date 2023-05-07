@@ -29,7 +29,9 @@ I wish I had known 10 years ago how crucial a social media and website campaign 
 
 But everything changes so quickly. It is amazing how readily available the access to videos of a variety of people singing the same songs can really give a singer better perspective on how to incorporate stylistic choices and sounds. When you are only studying with one voice teacher, it can limit your ideas of what sound and technique are. To have the benefit of YouTube and Vimeo to observe other artists doing their thing is priceless.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580742168/media/2020/02/Jacreh-0931_kglumr.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580742168/media/2020/02/Jacreh-0931_kglumr.jpg)
 
 <figcaption>Marnie Breckenridge in workshop for Jacqueline. Photo: Danylö Böbyk.</figcaption>
 
@@ -43,7 +45,9 @@ I think she was a very pure, true, straight forward woman. She was an inimitable
 
 It is a unique challenge to attempt to get inside the essence of someone while at the same time deliver a performance (an operatic version) of their story. The truth of the performance is not the same as a mimicry of the person.  For anyone who knew her personally and had their own opinions on who she was or what her mannerisms were, I would never want to disappoint their expectations. Yet at the same time, I would never want to make her into a caricature or seem to be mimicking her. There will certainly be aspects of Marnie in Jacqueline.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580742141/media/2020/02/Marnie_Breckenridge_Headshot_q13yc6.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580742141/media/2020/02/Marnie_Breckenridge_Headshot_q13yc6.jpg)
 
 <figcaption>Marnie Breckenridge, soprano.</figcaption>
 

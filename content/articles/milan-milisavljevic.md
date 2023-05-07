@@ -22,7 +22,9 @@ I personally don't mind blind auditions because I'm a big believer in behavioral
 
 We're all human and it's inevitable that what happens at the company affects emotions and morale. That said, I'm lucky that I work with an extraordinarily professional group of people who allow little to stay in the way of their dedication to their job. Every organization has ups and downs and we're no different. That said, our true love for what we do keeps us going regardless of the headlines.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529853318388/Milan.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529853318388/Milan.jpg.jpg)
 <figcaption>Milan Milisavljević, Principal Violist of the Met Orchestra.</figcaption>
 </figure>
 

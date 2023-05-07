@@ -26,6 +26,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/erwinschrott/"
 
+_template = "people_single"
 +++
 Erwin Schrott is one of the most exciting singers of our time and is universally regarded as today’s finest exponent of the major Mozart roles of Don Giovanni, Leporello and Figaro.
 

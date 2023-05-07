@@ -16,6 +16,7 @@ url = "https://www.facebook.com/OperaNUOVA.VAF?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/nuovavocalarts"
+_template = "company_single"
 +++
 
 <p>

@@ -18,7 +18,7 @@ It's rare to come to a performance where the energy in the space feels palpable 
 	
 We open to a massive set of stairs as wide as the stage. Perched atop is a lone figure in garishly flamboyant toreador garb. This is our narrator and we understand her to be Carmen, or at least, a version of her. She is an omniscient and timeless figure, as if speaking to us from beyond the grave to tell her story. The choice to cut the recitative and replace it with a new text (including some from the original Mérimée novella that inspired the opera) was an effective one. It allowed the story to be told through a different lens, one that exaggerated this overarching sense of impending tragedy that is so present in the music. The narrated, voice over text, performed by a sultry female voice, let us in on the characters inner thoughts and feelings from the perspective of an outside observer. Because the recitative was missing, it began to feel a bit like a hit-parade as we rolled through the first act, familiar piece after familiar piece. But there was also something unidentifiable and new in the way it was reimagined. In a way, it felt as though I was watching a completely new opera.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543771493051/0182CarmenProductionimageROH.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543771493051/0182CarmenProductionimageROH.jpg.jpg)
 <figcaption>A production image of *Carmen*, ROH, 2018. Photo: Bill Cooper.</figcaption>
 </figure>
 
@@ -26,31 +26,31 @@ A satisfyingly spartan production, the focus became the choreography and storyte
 
 The staging also made great use of the chorus who became almost like central characters in the story. It was a great example of the beautifully powerful images that can be created with a large number of bodies on stage. Every aspect of this production was carefully crafted and delightfully surprising including Joachim Klein's lighting design which was bold, a little strange, and extremely theatrical.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543771508480/0867CarmenproductionimageROH.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543771508480/0867CarmenproductionimageROH.jpg.jpg)
 <figcaption>A production image of *Carmen*, ROH, 2018. Photo: Bill Cooper.</figcaption>
 </figure> 
 
 French mezzo soprano [Gaëlle Arquez](/scene/people/gaelle-arquez/) bravely took on the title role in place of an ailing Kesenia Dudnikov, although this is now old hat for Arquez who made her Royal Opera debut in last season's production of *Carmen* and also performed the role in Frankfurt in 2017. This is a character she knows well and has fully embodied, that much was clear. Every move she made with her body was calculated, every gesture had reason, every look had a meaning. She was completely engaging. Her voice was a clean and smooth mezzo colour with incredible versatility in the lower part of her range, making her perfectly suited to the role.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543771657540/0094Gaa%CC%82lleArquezasCarmenROH.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543771657540/0094Gaa%CC%82lleArquezasCarmenROH.jpg.jpg)
 <figcaption>Gaëlle Arquez as Carmen in *Carmen*, ROH, 2018. Photo: Bill Cooper.</figcaption>
 </figure>
 
 Bass Alexander Vinogradov was slightly miss-cast as Escamillo for my taste. I would have preferred a noble baritone colour but he nevertheless sang the role with easy confidence though his tone was so rich it lacked definition and bordered on monosyllabic. But he nailed Escamillo's key character trait, which is that he is unabashedly aware of his own celebrity and happy to bask in it. It is the appeal of this celebrity that first captures Carmen, and without it, the story doesn't work. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543771673283/0145EleonoraBurratoasMicaa%CC%82laROH.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543771673283/0145EleonoraBurratoasMicaa%CC%82laROH.jpg.jpg)
 <figcaption>Eleanora Buratto in *Carmen*, ROH, 2018. Photo: Bill Cooper.</figcaption>
 </figure>
 
 Italian soprano Eleanora Buratto made a brave effort in her Royal Opera debut as Micaëla. It was a beautiful sound but felt laboured. Unsettlingly, I could sense how hard she was working and could feel her uncertainty. She was, however a charming Micaëla, seemingly able to capture her essence with ease. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543771679909/1064BrianJadgeasDonJosC%CC%A7ROH.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543771679909/1064BrianJadgeasDonJosC%CC%A7ROH.jpg.jpg)
 <figcaption>Brian Jagde as Don José in *Carmen*, ROH, 2018. Photo: Bill Cooper.</figcaption>
 </figure>
 
 American tenor [Brian Jagde](/talking-with-singers-brian-jagde/) was a slightly lacklustre Don José. But then again, Don José is kind of a lacklustre character, his weakness makes me so woefully unloveable. But it was in the moments of extreme rage and passion that Jagde really shone, using the power of his sound effectively making it clear just how startlingly on the edge José is.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543771686880/0501AigulAkhmetshinaasMercC%CC%A7da%CC%88sandHaegeeLeeasFrasquitaROH.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543771686880/0501AigulAkhmetshinaasMercC%CC%A7da%CC%88sandHaegeeLeeasFrasquitaROH.jpg.jpg)
 <figcaption>Aigul Akhmetshina as Mercédès and Haegee in *Carmen*, ROH, 2018. Photo: Bill Cooper.</figcaption>
 </figure>
 

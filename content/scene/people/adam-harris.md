@@ -14,6 +14,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/adam.geoff.harris/"
 
+_template = "people_single"
 +++
 Canadian baritone Adam Harris has been described as an intuitively musical and distinctively dramatic young artist. Completing his BMus in vocal performance from Western University, he is currently pursuing a master's degree in opera performance at the University of Toronto studying with Laura Tucker.
 

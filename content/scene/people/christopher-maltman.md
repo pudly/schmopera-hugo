@@ -12,6 +12,7 @@ website = "http://christophermaltman.moonfruit.com/#"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/chrismaltman"
+_template = "people_single"
 +++
 
 Winner of the Lieder Prize at the 1997 Cardiff Singer of the World Competition he studied singing at the Royal Academy of Music.

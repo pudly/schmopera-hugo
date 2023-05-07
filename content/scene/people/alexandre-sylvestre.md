@@ -9,6 +9,7 @@ social_media = []
 title = "Alexandre Sylvestre"
 website = "https://www.alexandresylvestre.net/"
 
+_template = "people_single"
 +++
 A native of Québec, **Alexandre Sylvestre** studied at the Conservatoire de musique de Montréal where he was awarded the “Premier Prix avec Grande Distinction.” This season he looks forward to the role of Capulet in _Roméo et Juliette_ for Calgary Opera, as well as Baron Douphol in _La traviata_ for Pacific Opera Victoria and Morales in _Carmen_ for Opéra de Montréal. In Thunder Bay, he will be heard in Handel’s _Messiah_. During the 2017/2018 season, Alexandre performed the roles of John Connally in _JFK_ and Capulet in _Roméo et Juliette_, both for his home company in Montreal. He also debuted with the Seattle Symphony as l’Arbe and Fauteuil in _L’enfant et les sortilèges_ and has been recently heard in _Silent Night_ for Michigan Opera Theatre, as Colline in _La bohème_ and the premiere of _Les Feluettes_ for Opéra de Montréal, Bartolo in _Il barbiere di Siviglia_ for Saskatoon Opera, Timur in _Turandot_ for Calgary Opera and Mozart’s _Requiem_ for Orchestre symphonique de Québec. Of special interest is Opera Lafayette’s _Leonore_ project, performances of Beethoven’s original version of _Fidelio_ and the version by Gaveaux on the same subject, in Washington and New York.
 

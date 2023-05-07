@@ -28,7 +28,9 @@ Over a 6 month period I copied out every single note in the score, by hand. At t
 
 When I first began the process, deciphering Faccio's handwriting was difficult. By the time I was done, I had gotten used to his idiosyncracies, so things that were a mystery to me in the beginning were now revealed. But that meant correcting a lot of things I either didn't get the first time through, or mis-interpreted. And it's a never-ending process. Just 2 weeks ago I was looking through Hamlet's aria "essere o non essere" and I found no fewer than 5 mistakes in my full score. This is after 5 full edits.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446042643333/Faccio.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446042643333/Faccio.jpg.jpg)
 <figcaption>Franco Faccio.</figcaption>
 </figure>
 
@@ -40,7 +42,9 @@ For all of their self-congratulatory touting of the "Italian music of the future
 
 As for rivalry, not much actual rivalry ever existed between Faccio and Verdi. Verdi may have had a bad taste in his mouth about Faccio, but that was really because of Boito's "Ode saffica col bicchiere in mano" that he dedicated to Faccio and which very directly insulted Verdi. But Verdi did go out of his way to try to procure the rights of a Sardou play for Faccio to set to music, and the year of the disastrous La Scala production of *Amleto*, Verdi entrusted Faccio to conduct the premiere of his own *Aida*. Faccio then went on to become the first real music director of La Scala (the "maestro scaligero"), and conducted the premiere of *Otello*. If had had lived, he undoubtedly would've been Verdi's choice to conduct the *Falstaff* premiere too.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446042754217/Amleto-O-SW.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446042754217/Amleto-O-SW.jpg.jpg)
 <figcaption>After a performance of Opera Southwest's production of *Amleto*, 2014.</figcaption>
 </figure>
 

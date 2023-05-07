@@ -31,7 +31,9 @@ And of course Rigoletto, a key role in my career. I sang the aria when I won the
 
 I think the main trick is to try to understand these characters as deeply as possible. When I learn a new role I always read the literary source, and try to read anything I can find about the characters in order to "get to know them" in the best and possibly most profound way. Most villains such as Macbeth have a very human core and I try to emphasize this side of the character; they are human beings who repent their actions. In the case of a role such as Scarpia it is more difficult of course. In order to play him as convincingly as possible I've even studied the biographies of men of power such as Mussolini and watched documentaries in order to study their facial expression, body language and way of talking. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480771778454/2016-12-3---George_Gagnidze---Maik_Reishaus-2.jpg.jpg)<figcaption>George Gagnidze, baritone. Photo by Maik Reishaus.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480771778454/2016-12-3---George_Gagnidze---Maik_Reishaus-2.jpg.jpg)<figcaption>George Gagnidze, baritone. Photo by Maik Reishaus.</figcaption>
 </figure>
 
 ## What advice do you have for young baritones and basses, who may have to wait longer before they are vocally ready to sing the roles that will fit them best? 

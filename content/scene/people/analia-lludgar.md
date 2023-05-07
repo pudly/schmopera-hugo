@@ -12,6 +12,7 @@ website = "http://www.analiallugdar.net/"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/analia-llugdar"
+_template = "people_single"
 +++
 
 Born in Argentina, composer Analia Llugdar initially studied piano and composition at the Cordoba National University, Argentina. She continued her composition studies at the University of Montréal, where she completed a Master’s degree with José Evangelista and a Ph.D. in Music composition with Denis Gougeon.

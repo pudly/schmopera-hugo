@@ -16,6 +16,7 @@ url = "https://twitter.com/bmpopera"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/bethmorrisonprojects/?hl=en"
+_template = "company_single"
 +++
 
 ### MISSION

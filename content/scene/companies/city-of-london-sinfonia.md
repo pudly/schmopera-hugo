@@ -24,6 +24,7 @@ url = "https://www.instagram.com/cityoflondonsinfonia/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/CityofLondonSinfonia"
+_template = "company_single"
 +++
 
 City of London Sinfonia (CLS) is the Orchestra that promises to surprise and move you. We involve people from all ages and backgrounds in life-enhancing music experiences to create an exciting and harmonious future together.

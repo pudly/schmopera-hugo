@@ -16,6 +16,7 @@ url = "https://www.facebook.com/Oshawao"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/oshawaopera"
+_template = "company_single"
 +++
 
 <p>

@@ -17,6 +17,7 @@ url = "https://www.facebook.com/marinarebekasoprano"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/marinarebeka"
+_template = "people_single"
 +++
 
 Latvian soprano Marina Rebeka is widely regarded as one of the most exceptional artists of our time. Her performances as Violetta in Verdi's *La traviata* are heralded as definitive portrayals of the role, and she is frequently lauded as a leading Rossini and Mozart singer of her generation.

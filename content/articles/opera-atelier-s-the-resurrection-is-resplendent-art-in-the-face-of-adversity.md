@@ -23,7 +23,9 @@ But when _The Resurrection_ premiered in 1708, Pope Clement XI had shuttered the
 
 For over three centuries, Handel’s rarely-produced work has been masquerading as an oratorio—popping up in concert halls during Lent every once in a blue moon. How ironic, then, that it has taken another theatre-shuttering moment in history for _The Resurrection_ to finally receive the operatic treatment it deserves.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1622747180/media/2021/06/OA-The_Resurrection-DouglasWilliams-BruceZinger_do4dz8.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1622747180/media/2021/06/OA-The_Resurrection-DouglasWilliams-BruceZinger_do4dz8.jpg)
 
 <figcaption>Douglas Williams and Artists of the Atelier Ballet in Handel's The Resurrection, Opera Atelier, 2021. Photo: Bruce Zinger.</figcaption>
 
@@ -45,7 +47,9 @@ The earth-dwellers, however, are far less interesting than their supernatural co
 
 Lindsay, an Opera Atelier favourite, is perfectly cast as Mary Magdalene. In “Ferma l'ali, e sui miei lumi”, her plaintive voice floats above a gentle cascading accompaniment of strings and oboe. As Cleophas, McHardy has a mellifluous tone and an unfaltering vocal dexterity that makes the numerous coloratura passages in “Vedo il ciel, che più sereno” sound easy. And Ainsworth, reprising his role from the 1999 production, is a joyful St. John the Evangelist, with a silvery voice to match.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1622747230/media/2021/06/OA-TheResurrection-MeganLindsayTylerGledhill-BruceZinger_cyf7rn.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1622747230/media/2021/06/OA-TheResurrection-MeganLindsayTylerGledhill-BruceZinger_cyf7rn.jpg)
 
 <figcaption>Meghan Lindsay (left) and Tyler Gledhill in Handel's The Resurrection, Opera Atelier, 2021. Photo: Bruce Zinger.</figcaption>
 

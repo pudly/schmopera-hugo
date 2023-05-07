@@ -20,6 +20,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/experimentsinopera/"
 
+_template = "company_single"
 +++
 ### Our Vision
 

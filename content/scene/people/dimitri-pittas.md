@@ -13,6 +13,7 @@ website = "http://www.dimitripittas.com/DimitriPittas/Home.html"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/DimitriPittasTenor"
+_template = "people_single"
 +++
 
 <p>

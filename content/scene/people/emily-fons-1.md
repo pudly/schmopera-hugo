@@ -16,6 +16,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/emilysings"
 
+_template = "people_single"
 +++
 Mezzo-Soprano Emily Fons has made several exciting role and company debuts in recent seasons that have set her apart as a versatile, powerful, and engaging performer. Ms. Fons was [hailed by Opera News as one of opera’s rising stars and one of the best singing actresses ](http://emilyfons.com/one-of-operas-rising-stars/)of her generation, and [received a Grammy nomination for her work on Jennifer Higdon’s _Cold Mountain._](http://emilyfons.com/cold-mountain-nominated-for-best-opera-recording-grammy/)
 

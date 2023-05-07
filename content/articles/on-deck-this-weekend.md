@@ -23,7 +23,9 @@ If you've not had the chance to see tenor Robert McPherson's "tipsy persona" liv
 
 The event can be streamed on Seattle Opera's [Facebook](https://www.facebook.com/SeattleOpera) and [YouTube](https://www.youtube.com/user/SeattleOpera) channels, or via their [website](http://seattleopera.org/). If you like what they're putting out, [consider donating](https://www.seattleopera.org/donate/). For a sneak peek, check out the trailer:
 
-<figure data-type="video">{{% md %}}<iframe width="1070" height="602" src="https://www.youtube.com/embed/8ZtuJJ5Aljc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1070" height="602" src="https://www.youtube.com/embed/8ZtuJJ5Aljc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -41,6 +43,8 @@ Los Angeles-based [New Opera West](/scene/companies/new-opera-west/) is continui
 
 The opera premieres on YouTube on **June 27, 5pm PDT**, and stars soprano Janet Szepei Todd as Laura, tenor Edmond Rodriguez as Marcus, and baritone Anthony Moreno as Christoph. _Having Guests for Dinner_ is free to stream, but [you need to RSVP](https://www.eventbrite.com/e/having-guests-for-dinner-virtual-opera-premiere-tickets-106237296614) to grab your link. Curious? Check out the trailer:
 
-<figure data-type="video">{{% md %}}<iframe width="1013" height="570" src="https://www.youtube.com/embed/n25rjJd3KIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1013" height="570" src="https://www.youtube.com/embed/n25rjJd3KIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>

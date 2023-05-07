@@ -23,7 +23,9 @@ Under the assured baton of conductor emeritus [Leslie Dala](http://www.lesliedal
 
 These Beethoven works are a common sound in our pop culture; Symphony No. 9's few famous measures in particular are now a ditty even the least music-savvy person will recognize. It is a work rarely staged due to the required size of the participants – sheer scale intended to convey grandeur and awe to the audience. In this staging the strings were sometimes a bit overwhelmed by other sections. This was an issue in the piano concerto in particular as Beethoven’s almost modern sense of sudden shifting dynamics couldn’t pop as it should with the sections not balanced and the brass sometimes entering the piece with hesitancy. Parker’s peppy performance would often save the orchestra by him attacking the molto vivace passages with a ferocity and joy that carried along both the audience and the participants. His full expressive performance seemed to be flawless to my ear but I must admit I was distracted.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1583258905/media/2020/03/VAMCollage-DalaParker_vdf2rg.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1583258905/media/2020/03/VAMCollage-DalaParker_vdf2rg.jpg)
 
 <figcaption>(l-r) Leslie Dala, conductor, and Ian Parker, pianist.</figcaption>
 

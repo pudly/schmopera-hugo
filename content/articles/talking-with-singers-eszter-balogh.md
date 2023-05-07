@@ -31,7 +31,9 @@ Speaking in technical terms, if I can let my body and the resonance do the work,
 
 I can only tell you the lessons that I have learned. They should be less critical of themselves and when they are critical, it should be healthier, more constructive self-criticism. They should be more patient with themselves. They should search for the right singing teacher, even if it takes a long time. A teacher who will help them build a healthy, sure technique that will allow them to sing well for a long time.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582080004/media/2020/02/EszterBalogh_ut7glz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1582080004/media/2020/02/EszterBalogh_ut7glz.jpg)
 
 <figcaption>Mezzo-soprano Eszter Balogh.</figcaption>
 

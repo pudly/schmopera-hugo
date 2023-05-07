@@ -12,6 +12,7 @@ website = "http://www.christineburas.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ChristineBuras"
+_template = "people_single"
 +++
 
 American soprano Christine Buras is a versatile and experienced performer of a wide range of repertoire including early music, opera, art song, and new music.

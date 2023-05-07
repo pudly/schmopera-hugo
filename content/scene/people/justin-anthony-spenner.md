@@ -12,6 +12,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/barispen"
 
+_template = "people_single"
 +++
 Justin Anthony Spenner is a Minneapolis-based baritone known for his artistic honesty and engaging versatility.  At home with Schubert as he is with Stockhausen, he has made impacts on the Twin Cities music community through performances of _Die Winterreise_ at Nautilus Music-Theater (“Best Classical Concert of the Week”- Star Tribune), as well as successful premieres with the 113 Composers Collective.  His education derives from the University of Minnesota (MM, Philip Zawisza, Rusty and Burt Cohen Fellow), UW-Stevens Point (BM, Dr. Dennis Willhoit, Susan Bender), and training from the inaugural season of the Mill City Summer Opera Studio Artists Program, as well as the Source Song Festival.  Justin Anthony Spenner is a 2016 Minnesota State Arts Board Artist Initiative Grant recipient. 
 

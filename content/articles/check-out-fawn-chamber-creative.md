@@ -28,7 +28,9 @@ I joke about us as a sibling because, as much as we are part of the operatic fam
 
 What is truly unique about a FAWN event is the atmosphere. There is always a buzz of vibrant, creative energy at our events. Our intermissions feel like mini-parties, where people get to kick back and share their enthusiasm for what they have collectively experienced. We like to provide a social environment where audience members can have a blast sharing their different perspectives of the night.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441671095349/20141130-Fawn-131.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441671095349/20141130-Fawn-131.jpg.jpg)
 <figcaption> FAWN's 2014/15 Fundraiser at Gallery 345, after a performance of *Miss Donnithorne's Maggot*. l-r: Adam Scime (FAWN Musical Director & Resident Composer), Edward Epstein (owner of Gallery 345), Stacie Dunlop (FAWN Special Projects Coordinator & Resident Performer), Lara Dodds-Eden (pianist), Holly Meyer-Dymny (FAWN Production Manager & Resident Designer), Amanda Smith (FAWN Artistic Director & Resident Stage Director). Photo by Josh Chong.</figcaption>
 </figure>
 

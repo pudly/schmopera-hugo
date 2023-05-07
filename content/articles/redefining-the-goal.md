@@ -19,7 +19,9 @@ I grew up in suburbia, smack in the middle of the Dallas/Fort Worth metroplex. A
 
 During my studies I was lucky enough to sing on the Amalfi Coast, fall in love with the city of Graz, Austria, and live in Lucca, Italy for a month, all while working with many leading composers and performers of today. Since starting graduate school I've also had the pleasure of teaching young performers and watching them grow. And I've grown with them. Now I live and work in Santa Barbara, CA, a city which has stolen my heart. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471714667370/Looking%20out%20over%20Budapest.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471714667370/Looking%20out%20over%20Budapest.jpg.jpg)
 <figcaption>Mendez in Budapest. Photo: Zachary Mendez on [Instagram](https://www.instagram.com/zacharyamendez/).</figcaption>
 </figure>
 
@@ -39,7 +41,9 @@ I went back to CMU and spent an agonizing junior year trying to prove to my teac
 
 By the end of my junior year and after much deliberation I decided to switch voice studios. Though I didn’t grow much technically during my senior year, I was able to catch a mental break. My new teacher (a soprano) really believed in me. She even believed I was a tenor! She told me so in every lesson. She helped me find confidence in myself and in my voice. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471714741175/Graduation%20.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471714741175/Graduation%20.jpg.jpg)
 <figcaption>Graduation from Carnegie Mellon University. Photo: Zachary Mendez on [Instagram](https://www.instagram.com/zacharyamendez/).</figcaption>
 </figure>
 
@@ -61,7 +65,9 @@ So, it isn't hard to see why technique has become desired by voice students acro
 
 That's what opera is. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471714796006/Singers%20should%20remember.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471714796006/Singers%20should%20remember.jpg.jpg)
 <figcaption>Photo: Zachary Mendez on [Instagram](https://www.instagram.com/zacharyamendez/).</figcaption>
 </figure>
 

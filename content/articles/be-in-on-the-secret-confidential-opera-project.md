@@ -29,7 +29,7 @@ There's no need for opera glasses, gowns or tuxes. Just come and be comfortable 
 
 We were very fortunate to find a wonderful partner in [Tapestry Opera](/scene/comapnies/tapestry-opera/). They'll be hosting us in their divine Ernest Balmer Studio (9 Trinity Street, Studio #316) in the historical Distillery District here in Toronto. Our debut is **Sunday, June 26th at 2PM**. Tickets are $25 and can be [purchased right here](http://www.confidentialopera.com/#!submit/chul). 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460199181092/2016-04-09---COP-poster.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460199181092/2016-04-09---COP-poster.jpg.jpg)
 </figure>
 
 Over at [Confidential Opera Project](https://twitter.com/ConOperaProject) we believe that opera can be fun and spontaneous, and still beautiful - and we're ready to prove it! I promise you our first show IS one of your favourites, and we have some superb talent lined up to transport you away. 

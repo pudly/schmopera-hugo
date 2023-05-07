@@ -30,7 +30,9 @@ Page acknowledges that, "easily and lazily", people can distill Mozart's staged 
 
 Pieces that inspired Mozart are as important to Page as works he criticised, when it comes to contextualizing the composer's aesthetic. "The things that [Mozart] does criticise are so interesting. Like, he had the temerity to criticise [Shakespeare's] *Hamlet*," he laughs. "I love *Hamlet* to bits, but he's sort of right. He said that the ghost spoke too often, and actually it would be much more menacing and frightening if he were to say fewer words." As anyone who's sung a Mozart opera knows, criticism of this scale is indicative of the composer's innate sense of dramatic timing and storytelling. "He was so practical; he was always thinking about how to create an effect."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460124586045/2016-04-08---Full-orchestra-and-Ian-Page-c-Benjamin-Ealovega.jpg.jpg)<figcaption>Ian Page conducting the Classical Opera orchestra. Photo by Benjamin Ealovega.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460124586045/2016-04-08---Full-orchestra-and-Ian-Page-c-Benjamin-Ealovega.jpg.jpg)<figcaption>Ian Page conducting the Classical Opera orchestra. Photo by Benjamin Ealovega.</figcaption>
 </figure>
 
 ## Fostering great rehearsals

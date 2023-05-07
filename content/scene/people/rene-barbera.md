@@ -16,6 +16,7 @@ url = "https://www.facebook.com/renebarbera84/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/renebarbera"
+_template = "people_single"
 +++
 
 Tenor René Barbera, a graduate of Lyric Opera of Chicago’s Patrick G. and Shirley W. Ryan Opera Center, has swiftly established himself as one of today's most exciting young artists.

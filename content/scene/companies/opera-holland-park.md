@@ -20,6 +20,7 @@ url = "https://twitter.com/operahollandpk"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/OperaHollandPark"
+_template = "company_single"
 +++
 
 Investec Opera Holland Park London is widely regarded as one of the most exciting, innovative and accomplished opera companies in the UK, with an extraordinary history of producing rarities, alongside popular favourites. Whether novice or afficionado, OHP has something to offer - and all taking place in one of the most beautiful covered spaces in the capital. 

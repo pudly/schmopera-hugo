@@ -18,21 +18,27 @@ title = "Roxanna Walitzki: Exquisite Corpse"
 
 I chose these six songs while musing with my sister, [Redd [Walitzki]](http://www.moderneden.com/pages/exquisite-corpse), about the themes in her [solo-show at Modern Eden](http://www.moderneden.com/pages/exquisite-corpse). We decided to approach the show as an interdisciplinary collaboration, in which I portrayed the figures in her paintings and produced this music exploring similar motifs.  Our main inspiration came from the Greek myth of Chloris (the Goddess of Flowers), who stumbles upon a nymph's dead body while walking in the woods.  Moved by her sad fate, Chloris decides to transform the nymph into a flower.  This story made me think of "Dans la nymphée" from Fauré's *Le jardin clos*.  In the poem, Lerberghe paints the picture of a nymph lying mysteriously in a bed of flowers, only to rise, or bloom, in a transformative and dreamlike flash of light.  
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463329050835/2016-05-15---Exquisite-Corpse.jpg.jpg)<figcaption>Artwork by Redd Walitzki.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463329050835/2016-05-15---Exquisite-Corpse.jpg.jpg)<figcaption>Artwork by Redd Walitzki.</figcaption>
 </figure>
 
 Another point of inspiration was the French surrealist parlor game [*cadavre exquis*](https://en.wikipedia.org/wiki/Exquisite_corpse), in which artists sequentially assemble a composition, adding their distinct vision to create a strange and unique whole.  I felt the five selections from Debussy's *Ariettes Oubliées* would lend themselves to a re-contextualized interpretation in line with the parlor game's method.  I again took the myth of Chloris as a starting point, and pictured the speaker stumbling upon the nymph's body, but only realizing in fits and starts that she is dead.  Fleeting moments in the text and music hint at that fact: he attempts conversation without response, questions his directionless melancholy, brings her flowers and adoration, but only apprehends that she has left him in the final, unresolved exclamation and chords.
 
 This backstory gives a rather unique tone to the songs, which influenced my style of production and the overall arrangements.  I incorporated dissonance and suspense through hovering and droning synths and guitars, and aimed to ornament the dramatic moments with swells and electronic stutters.  Nature, which features so prominently in the texts, also played a large part in my interpretations.  I recorded sounds, like creaking branches and flowing water, on a field recorder while shooting the reference photos with Redd.  I also tried to heighten the sense of story and connection by creating interludes and postludes that tie the songs together and place them in a consistent environment.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463329063692/2016-05-15---Field-Recording.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463329063692/2016-05-15---Field-Recording.jpg.jpg)
 </figure>
 
 ## What appealed to you about this repertoire's take on death and beauty?
 
 Rebirth and transformation are an inherent part of nature. Where there is decay there is also new life, and, while this process is often one of vast sadness, it is also one of beauty.  This repertoire has a similar quality: the compositions are lush, flowing, and full of life, but also turbulent and rich with emotional depth and darkness. I see the texts as open to interpretation and not necessarily fixated on death, but thinking about them in this context almost enhanced their beauty for me. Each little voice and rustling branch in "C'est l’Extase" was previously something else in the constantly changing and evolving flow of existence, but everything (from the red roses to the endless countryside lamented in “Spleen”) has meaning and beauty only if we choose to see it.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463329126396/2016-05-15---Exquisite-Corpse-Exclusive.jpg.jpg)<figcaption>Model: Roxanna Walitzki, Photographer: Redd Walitzki.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463329126396/2016-05-15---Exquisite-Corpse-Exclusive.jpg.jpg)<figcaption>Model: Roxanna Walitzki, Photographer: Redd Walitzki.</figcaption>
 </figure>
 
 ## What kind of feedback have you received from your incorporation of electronic music into classical/art song repertoire?

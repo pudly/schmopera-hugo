@@ -18,6 +18,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MagaliGaldes"
 
+_template = "people_single"
 +++
 Magali Simard-Galdès is a young Canadian soprano renowned for her shimmering tone, her refined musicality and her magnetic stage presence.
 

@@ -25,7 +25,9 @@ I already know the role so I can focus on the new blocking this time. I have a w
 
 I still put the same amount of energy into preparation, whether it's a recital in gowns and tuxedos or if it's a full version with costumes and a set. I give it my all regardless because that's what I have to do. \[The rehearsal\] is the easy part. The hard part is when I lock myself in a room and go over the score, figure out who the character is, make sure I get every pianissimo and forte, and accent and legato. When I come here, it's already engrained in me. I can just go where the director tells me to go.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571357962/media/2019/10/SDOAida2C8A7261_albizf.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571357962/media/2019/10/SDOAida2C8A7261_albizf.jpg)
 
 <figcaption>Soprano Michelle Bradley is Aida in San Diego Opera's AIDA, October, 2019. Photo by Edward Wilensky.</figcaption>
 
@@ -51,7 +53,9 @@ Diana Soviero put the icing on the cake. I learned the pianissimi I can do from 
 
 Marilyn Horne, the wonderful mezzo soprano; I did the Music Academy of the West with her in the summer of 2014. That was the pivotal moment that changed my life. Since then, I've been going up and up. She's been a wonderful support.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571189182/media/2019/10/DarioAcosta-MichelleBradley3_vsyeae.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571189182/media/2019/10/DarioAcosta-MichelleBradley3_vsyeae.jpg)
 
 <figcaption>Michelle Bradley, soprano. Photo: Dario Acosta.</figcaption>
 
@@ -85,7 +89,9 @@ I love to sing. I've been doing it ever since I can remember. My parents were in
 
 From the time I was running around in diapers, my Dad would gather us all in the living room and we would sing church hymns. I have three brothers and my two older brothers would sing parts. I would just imitate until I got old enough. And then I was teaching my family songs and playing piano for them. It became a part of my life. It became something that helped me make my mark in the world. It helped people to see me and take me seriously.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571358049/media/2019/10/SDOAida2C8A7846_lezuz9.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571358049/media/2019/10/SDOAida2C8A7846_lezuz9.jpg)
 
 <figcaption>Soprano Michelle Bradley is Aida in San Diego Opera's AIDA, October, 2019. Photo by Edward Wilensky.</figcaption>
 
@@ -103,7 +109,9 @@ I was going through a tough time when I started working with Lois Alba. That's h
 
 Afterwards, she would take me to the kitchen and make me something to eat, and because I was from Kentucky, she would give me a little taste of Bourbon Whiskey and send me on my way.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571189165/media/2019/10/DarioAcosta-MichelleBradley2_pgwlh0.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571189165/media/2019/10/DarioAcosta-MichelleBradley2_pgwlh0.jpg)
 
 <figcaption>Michelle Bradley, soprano. Photo: Dario Acosta.</figcaption>
 
@@ -125,7 +133,9 @@ I've never met Leontyne Price but I really wish it would happen. I'm heartbroken
 
 I envy anybody who got to see Jessye Norman or Leontyne Price in their prime. Leontyne's last _Aida_ at the Met. Sometimes I wonder what I bring after all that. What does this little country girl from Kentucky have to give?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571358029/media/2019/10/SDOAida2C8A8130_kbmr1l.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571358029/media/2019/10/SDOAida2C8A8130_kbmr1l.jpg)
 
 <figcaption>Soprano Michelle Bradley is Aida in her North American role debut and tenor Carl Tanner is Radames in San Diego Opera's AIDA, October, 2019. Photo by Edward Wilensky.</figcaption>
 

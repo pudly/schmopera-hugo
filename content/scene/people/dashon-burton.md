@@ -11,6 +11,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/dashonburton"
 
+_template = "people_single"
 +++
 Bass-baritone Dashon Burton has established a vibrant career appearing regularly throughout the US and Europe in favorite pieces, including Bach’s _St. John_ and _St. Matthew Passions_ and the _Mass in B Minor_, Mendelssohn’s _Elijah_, Beethoven’s Symphony no. 9, Brahms’ _Ein Deutsches Requiem_, Handel’s _Messiah_, and Mozart’s _Requiem_.  
   

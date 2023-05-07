@@ -13,6 +13,7 @@ website = "http://www.samuelboden.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SamBodenTenor"
+_template = "people_single"
 +++
 
 British tenor Samuel Boden began his professional career as a chef before studying singing with John Wakefield at Trinity Laban Conservatoire.

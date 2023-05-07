@@ -18,7 +18,9 @@ Well, [Tapestry Opera](https://tapestryopera.com/) did it again. I go and see on
 
 It was a jarring effect at first, to hear acoustic and electronic instruments, but Lizée uses each respective sound world in an organic way. In this first set, entitled _The Criterion Collection_, Lizée pieces together clips of music and film, and isolates small moments using glitch loops, and deconstructs the audio and video. In the first set, Carla is seen in comfy clothes, sitting down to watch her favourite movies. Lizée focuses on a word or a physical gesture in the film, repeating it over and over at different speeds. Small moments from _The Shining_, "Come play with us, Danny," and Danny's facial expressions, are slowed down and pulled apart. Lizée even adds the image of herself, sitting beside Doris Day at the piano in _The Man Who Knew Too Much_. The last section of _The Criterion Collection_ is made up of moments from _The Sound Of Music_, like when the kids' new stepmother-to-be plays ball with them ("Baroness Plays Ball"), when Maria teaches the kids the do-re-mi song ("Solfège 101"), when they all get caught singing and dancing about their favourite things ("Dog Bites Canticle"), and the singing of the nuns ("A Clowder of Nuns"). What Lizée does with the nuns' music was pretty extraordinary, one of my favourite moments from the set. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428716148607/CarlaH.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428716148607/CarlaH.jpg.jpg)
 <figcaption>Soprano Carla Huhtanen.</figcaption>
 </figure>
 

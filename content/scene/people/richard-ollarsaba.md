@@ -13,6 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/OllarsabaBassBaritone/"
 
+_template = "people_single"
 +++
 Praised	for	his	“expressive, resonant voice" (Sun-Times) and his "powerful,	beautiful	 and	 well	 controlled	 sound,"	 (Opera	 Lively) bass-baritone Richard Ollarsaba	[o-yar-SA-ba],	 is	 quickly gaining	ground	 in	 the	 operatic	and	 concert arenas.	 He	 recently	 finished	 his	 residency	 with the	 Patrick	 G.	 and	 Shirley	 W.	 Ryan	Opera	 Center	at	 the	 Lyric	Opera	 of	 Chicago,	where	he	recently	 stepped	 into	 the	 title	 role	 in	 their	 2014	 production	 of *Don	 Giovanni* as 	 well	 as	 the Major-Domo	 in	 *Capriccio*. Previous	 production	 at LOC	 include *Der	Rosenkavalier*, *Anna	 Bolena*,	 *Tosca*,	 *The	 Passenger*,	 *Otello*,	 *Madama	 Butterfly*, *Parsifal*, *La	traviata* and	the	world-premiere	of *Bel	Canto*. In	his	time	 in	Chicago,	Richard	performed	at the Grant	Park	Music	Festival	and	the	Ravinia	 Festival	 and	 with	 such	 ensembles	 as	 Apollo	 Chorus	 of	 Chicago,	 Elmhurst	 Symphony	Orchestra,	and	Civic	Orchestra	of	Chicago.
 

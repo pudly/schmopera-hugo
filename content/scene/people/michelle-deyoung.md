@@ -16,6 +16,7 @@ url = "https://www.facebook.com/mezzomichelledeyoung?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MJDY"
+_template = "people_single"
 +++
 
 Michelle DeYoung was raised in Colorado and California. In opera she has performed at the Metropolitan Opera; the Lyric Opera of Chicago; the Houston Grand Opera; the Seattle Opera; the Washington Concert Opera; the Glimmerglass Opera; La Scala, Milan; the Bayreuth Festival; Berliner Staatsoper; the Opera National de Paris; the Opera de Nice; the Thèâtre du Châtelet, Basel Opera and the Tokyo Opera. Her many roles include Fricka, Sieglinde and Waltraute (*Der Ring Des Nibelungen*); Kundry (*Parsifal*), Venus (*Tannhäuser*), Brangäne (*Tristan und Isolde*), Dido (*Les Troyens*), Eboli (*Don Carlos*), Amneris (*Aida*), Marguerite (*Le Damnation de Faust*), Judith (*Bluebeard’s Castle*), Gertrude (*Hamlet*), Jocaste (*Oedipus Rex*), and the title roles in *Samson et Dalilah* and *The Rape of Lucretia*. She also created the role of the Shaman in Tan Dun’s *The First Emperor* at the Metropolitan Opera.

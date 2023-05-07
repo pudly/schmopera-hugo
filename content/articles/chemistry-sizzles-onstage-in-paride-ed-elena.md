@@ -19,7 +19,9 @@ youtube_url = ""
 +++
 Whenever one opts to say that an early opera was performed with fiery tenacity, I imagine the average opera-goer inevitably finds themselves asking "how does this get performed like that?" It can often get lost that audience expectations in the earlier days of opera were far, far different from what they are today, and in this light it is all too easy for early opera performance to get mired in the length and the padding that often accompanies these operas. But what is often forgotten is that this earlier music is activated when a singer approaches it with an eye for detail and attention, and when done right the drama can reach dramatic highs that Verdi and Wagner would have been jealous of.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550426306/media/2019/02/Cast5.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550426306/media/2019/02/Cast5.jpg)
 
 <figcaption>(l-r) Erica Schuller, Meghan Lindsay, and Mireille Asselin in Paride ed Elena, Odyssey Opera, 2019. Photo: Kathy Wittman, Ball Square Films.</figcaption>
 
@@ -31,7 +33,9 @@ Thus, we come to [Odyssey Opera](/scene/companies/odyssey-opera/)'s staging of [
 
 Then, the focus turned to Paride and Elena, and the love story at the heart of the opera. And _here_ is where the opera really shined, particularly in this production. [Mireille Asselin](/scene/people/mireille-asselin/) as Elena and [Meghan Lindsay](/scene/people/meghan-lindsay/) as Paride brought with them the kind of understanding of Gluck's text and music that is required to give the work much of its dramatic pull. Their voices pulled and pushed at Gluck’s music and Calzabigi's text, stretching and pulling and coloring every last note that made practically their entire run through the opera feel important. The amount of vocal control they both exercised was incredible to witness, and it was clear that the Huntington Avenue Theater was hosting a pair of stars.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550426391/media/2019/02/MeghanLindsay.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550426391/media/2019/02/MeghanLindsay.jpg)
 
 <figcaption>Meghan Lindsay in Paride ed Elena, Odyssey Opera, 2019. Photo: Kathy Wittman, Ball Square Films.</figcaption>
 
@@ -43,7 +47,9 @@ But more than that, Asselin and Lindsay both did something that is exceedingly r
 
 Asselin and Lindsay were not the only great parts of the opera, for sure. [Erica Schuller](/scene/people/erica-schuller/)'s Amore was a great playful trickster, and her performance elicited a lot of laughs throughout the evening. The chorus and dancers all had a very strong showing as well in their performance, and brought a sense of scale that was sorely missing in how few principle roles there were. As always, Maestro Gil Rose led the ensemble in its terrific reading of Gluck's score that gave the singers plenty of room to play around in.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550426785/media/2019/02/MireilleAsselinEricaSchuller.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550426785/media/2019/02/MireilleAsselinEricaSchuller.jpg)
 
 <figcaption>Mireille Asselin and Erica Schuller in Paride ed Elena, Odyssey Opera, 2019. Photo: Kathy Wittman, Ball Square Films.</figcaption>
 
@@ -53,7 +59,9 @@ As well, the production design was vibrant and colorful in ways I would not expe
 
 > Performances like this are rare to come across in the realm of early opera productions.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550426916/media/2019/02/Cast2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550426916/media/2019/02/Cast2.jpg)
 
 <figcaption>A scene from Paride ed Elena, Odyssey Opera, 2019. Photo: Kathy Wittman, Ball Square Films.</figcaption>
 

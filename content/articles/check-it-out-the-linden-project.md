@@ -30,7 +30,9 @@ You can [check out the full programme](http://lindenproject.com/wp-content/uploa
 
 It's also worth perusing The Linden Project's [About section](http://lindenproject.com/about/), where you'll find answers to your most pressing questions: ["What is art song?"](http://lindenproject.com/about/#artsong) and ["What's with the tree?"](http://lindenproject.com/about/#tree)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539307431465/Song-Sampler-Poster.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539307431465/Song-Sampler-Poster.jpg.jpg)
 </figure>
 
 >For details and tickets, [click here.](http://lindenproject.com/ld_schedule-events/tasting-menu/)

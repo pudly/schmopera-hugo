@@ -29,7 +29,9 @@ Iâ€™ve listened to a lot of opera and experienced it from the pit, but I wouldnâ
 
 **Stephanie**: Exactly, and many of them are quite young. But also, I had always noticed a greater number of younger folks attending opera than other classical genres, so it seems natural that there should be a lot of them wanting to make it, too.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442580066041/FoGRehearsal.jpg.jpg)<figcaption>Co-founders Stephanie Conn and Scott Gabriel in rehearsal.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442580066041/FoGRehearsal.jpg.jpg)<figcaption>Co-founders Stephanie Conn and Scott Gabriel in rehearsal.</figcaption>
 </figure>
 
 ### 3. What do you look for in young professional singers?
@@ -44,7 +46,9 @@ Iâ€™ve listened to a lot of opera and experienced it from the pit, but I wouldnâ
 
 **Stephanie**: Many years ago as a CBC production assistant, I worked on a recording of Nic Gothamâ€™s *Nigredo Hotel* (produced by Tapestry under Wayne Strongman, directed by Banuta Rubess). That blew my ideas of what opera could be out of the water and stayed with me for a long time.  As a singer, I owe so much to the master teacher Carol Forte, who is just amazing at helping singers to get out of their own way, vocally and emotionally! Every minute with her is a master class and she is lovely, too.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442580118481/Anna-stage-door-PS-film-grain.jpg.jpg)<figcaption>Stephanie Conn as Anna in *The Seven Deadly Sins*. Photo courtesy of The Friends of Gravity.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442580118481/Anna-stage-door-PS-film-grain.jpg.jpg)<figcaption>Stephanie Conn as Anna in *The Seven Deadly Sins*. Photo courtesy of The Friends of Gravity.</figcaption>
 </figure>
 
 ### 5. What do you get out of your work with The Friends of Gravity? What do you try to accomplish with each production?

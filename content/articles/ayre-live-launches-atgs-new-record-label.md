@@ -18,7 +18,7 @@ On December 7, Against the Grain Theatre has lots to celebrate. The Toronto-base
 
 *Ayre* (2004) is a banding together of culture and language. It compiles Arabic, Hebrew, and Christian texts, and Sardinian, Byzantine, and Sephardic melodies; alongside the soprano is an ensemble of traditional and electronic instruments. The work's premiere recording (2005) was done in studio and featured Golijov muse Dawn Upshaw; as gloriously unhinged as Upshaw sounds, Khalil's 2016 performances in Toronto - which make up *Ayre Live* - offer an energy and understanding that make hers a new definitive interpretation of the work.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543889278372/SopranoMiriamKhalilandComposerOsvaldoGolijov.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543889278372/SopranoMiriamKhalilandComposerOsvaldoGolijov.jpg.jpg)
 <figcaption>Miriam Khalil and composer Osvaldo Golijov, 2016. Photo: Darryl Block Photography.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Khalil was born to a Christian family in Lebanon and was raised in Syria before 
 
 "That time is imprinted in my brain, and I think it will be forever," says Khalil of singing *Ayre* at Toronto's Ismaili Centre, a cultural symbol of the city's fostering of Islam. She gave three performances between November 10-12, 2016, less than a week after Trump's election win. "This piece felt like it was so needed at that time."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543889284477/SopranoMiriamKhalilAyre2.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543889284477/SopranoMiriamKhalilAyre2.jpg.jpg)
 <figcaption>Miriam Khalil performing *Ayre* at the Toronto Ismaili Centre, 2016. Photo: Darryl Block Photography.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ The texts - some contemporary, some centuries old - are on the ever-recurring th
 
 *Ayre Live* is impressive on its own; Khalil's technical proficiency with the challenging vocalism, particularly for a live performance. The album is also a bold way for Against the Grain to inaugurate its status as a record label. *Ayre* is not opera, and it's perhaps not even representative of what AtG has become most widely known for - namely, its 21st-century-spun "transladaptations" of traditional operas by Mozart and Puccini. Yet for the launching of Against the Grain Records, to lead with *Ayre* is to lead with a strong message of putting art and diversity first - without compromising on quality.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543889290944/AyreAlbumCover.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543889290944/AyreAlbumCover.jpg.jpg)
 <figcaption>Album cover image: Darryl Block Photography.</figcaption>
 </figure>
 

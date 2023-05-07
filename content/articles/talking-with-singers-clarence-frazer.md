@@ -38,7 +38,9 @@ Only if you are 100% prepared can you make art, can you make music. This is wher
 
 To my younger self and any young singer out there: do yourself a favour, and be 100% prepared on day one. Trust me, you'll enjoy it!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513116961503/BarberES-MC-3225.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513116961503/BarberES-MC-3225.jpg.jpg)
 <figcaption>Iain MacNeil (left) as Bartolo and Clarence Frazer as Figaro in the COC Ensemble Studio performance of *Il barbiere di Siviglia*, Canadian Opera Company, 2015. Photo by Michael Cooper.</figcaption>
 </figure>
 

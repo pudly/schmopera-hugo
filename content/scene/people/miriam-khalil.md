@@ -22,6 +22,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/songbirdkhalil/"
 
+_template = "people_single"
 +++
 Two time Juno nominated artist, Miriam Khalil has established herself as one of Canada’s most versatile and expressive performers. She has become increasingly known for her non traditional performances of opera, art song and concert repertoire.
 

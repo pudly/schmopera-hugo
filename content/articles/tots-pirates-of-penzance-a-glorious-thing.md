@@ -20,7 +20,9 @@ My first outing of 2017 was to head over to my home away from home, the St. Lawr
 
 It tells the story of a young man, Frederic, who was born on a leap-year, who as an orphan was mistakenly apprenticed to the Pirate King (instead of pilot thanks to the hearing impairment of Ruth.) He's now reached his 21st year and is released from his apprenticeship to the Pirate King. Shortly thereafter he meets Mabel, ward of Major General Stanley, and they fall in love. The Pirate King and Ruth then return to point out the minor technicality that the contract was on his 21st Birthday, not his 21st year, and thus far he's only seen five February 29ths. #HijinxEnsue.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483876673218/2017-01-08---Pirates---Dec-2016-5649.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483876673218/2017-01-08---Pirates---Dec-2016-5649.jpg.jpg)
 <figcaption>Vania Chan (Mabel) and Colin Ainsworth (Frederic) in TOT's *The Pirate King*. Photo by Emily Ding.</figcaption>
 </figure>
 
@@ -34,7 +36,9 @@ As Major General Stanley, TOT welcomed [Curtis Sullivan](/scene/people/curtis-su
 
 As the Pirate King, young baritone [Janaka Welihinda](/scene/people/janaka-welihinda/) was also incredibly funny. His singing was clean, bright, and present. I quite enjoyed his swagger and bright smile - it made it very easy to understand why all these young orphans would totally surrender their freedom to serve on his ship. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483876614825/201-7-01-08---Pirates---Dec-2016-5811.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483876614825/201-7-01-08---Pirates---Dec-2016-5811.jpg.jpg)
 <figcaption>Elizabeth Beeler as Ruth in TOT's *The Pirates of Penzance*. Photo by Emily Ding.</figcaption>
 </figure>
 

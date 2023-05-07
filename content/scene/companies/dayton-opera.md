@@ -16,6 +16,7 @@ url = "https://www.facebook.com/DaytonOpera?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/daytonopera"
+_template = "company_single"
 +++
 
 #### The Beginning

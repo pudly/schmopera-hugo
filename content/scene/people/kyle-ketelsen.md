@@ -12,6 +12,7 @@ website = "http://kyleketelsen.instantencore.com/web/home.aspx"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/kyleket"
+_template = "people_single"
 +++
 
 <p>

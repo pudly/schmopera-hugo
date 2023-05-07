@@ -18,7 +18,9 @@ title = "Talking with composers: Mark Adamo"
 
 Probably the latter. Drama may not always be built on conflict — read Richard Nelson's wonderful [thoughts](https://www.newyorker.com/culture/culture-desk/richard-nelsons-meditative-play-about-joseph-papp-and-the-founding-of-the-public-theatre) on this issue at *The New Yorker* — but it's certainly built on changing relationships; which comprise, of course, the most interesting challenges for an actor to play. I try to begin an opera with the big, zoomed-out question: why are we here in the theatre tonight? What hurt do we bear that this tale might help to heal?  Still, the second question, for me, is, always: how is this question actable? How will [Jo](http://www.nytimes.com/2003/03/26/books/opera-review-alcott-s-sisters-grow-from-page-to-stage.html), or [Lysia](https://www.dmagazine.com/arts-entertainment/2012/05/opera-review-lysistrata-an-ancient-story-fit-for-the-modern-ear/) or [Prince Claus](https://www.dmagazine.com/arts-entertainment/2015/12/the-dallas-opera-delivers-a-wild-christmas-gift-with-becoming-santa-claus/), end up somewhere different from where s/he began; and how can the paths they light illuminate our own? If your principal vehicle, as a creator, isn’t the audible, the legible process of characters evolving through time, shouldn’t you be an essayist?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510700568193/2017-11-15---MA%2C-koi-pond%2C-well.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510700568193/2017-11-15---MA%2C-koi-pond%2C-well.jpg.jpg)
 <figcaption>Mark Adamo, composer, from The New York City Opera tour, to Tokyo and Nagoya, of Mark Adamo's *Little Women*: portraits courtesy Joe McNally.</figcaption>
 </figure>
 
@@ -32,7 +34,9 @@ And yet... I wonder — even, or especially, in a culture that grows more secula
 
 Actually, I've tended to arrive at certain topics earlier than most. The New York run of my [*Little Women*](http://www.markadamo.com/little-women/) preceded the [Broadway one](https://en.wikipedia.org/wiki/Little_Women_(musical)) by four years; my [*Lysistrata*](http://www.markadamo.com/lysistrata/), in New York, preceded a [new theatrical take](https://en.wikipedia.org/wiki/Lysistrata_Jones) by five years, and — though theirs took the stage first — my [*Gospel of Mary Magdalene*](http://www.markadamo.com/the-gospel-of-mary-magdalene/) was announced a bit earlier than [Mr. A.'s and Mr. S's](https://en.wikipedia.org/wiki/The_Gospel_According_to_the_Other_Mary). So far, no one's gotten to something I wish I'd gotten to first. If I feel that disclosing such a topic risks giving another artist a head-start, though, I shall err on the side of discretion...
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510700645450/2017-11-14---Mark-Adamo-in-studio.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510700645450/2017-11-14---Mark-Adamo-in-studio.jpg.jpg)
 <figcaption>Mark Adamo, composer, from The New York City Opera tour, to Tokyo and Nagoya, of Mark Adamo's *Little Women*: portraits courtesy Joe McNally.</figcaption>
 </figure>
 

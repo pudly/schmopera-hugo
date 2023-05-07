@@ -16,6 +16,7 @@ url = "https://www.facebook.com/Gestaltarts/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/GestaltArts"
+_template = "company_single"
 +++
 
 Gestalt means "The whole is more than the sum of the parts".

@@ -17,6 +17,7 @@ url = "https://www.facebook.com/robinjohannsenopera"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/robin_johannsen?lang=en"
+_template = "people_single"
 +++
 
 American soprano Robin Johannsen came to Europe as a young artist with the Deutsche Oper Berlin and joined the company soon after as a soloist. Her roles there included Susanna (*Le nozze di Figaro*), Norina (*Don Pasquale*), Oscar (*Un ballo in maschera*), and Soeur Constance (*Les dialogues des Carmélites*). After two more years with Oper Leipzig (Gretel, Marzelline, Blonde, Susanna, and Pamina), she began her freelance career in 2008 with a special affinity for the baroque and classical repertoires.

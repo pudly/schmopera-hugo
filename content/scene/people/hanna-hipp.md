@@ -12,6 +12,7 @@ title = "Hanna Hipp"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/HannaMoominHipp"
+_template = "people_single"
 +++
 
 Mezzo-Soprano Hanna Hipp has a busy series of engagements and house debuts for the upcoming 2016/17 season. In August she makes her house debut at Seattle Opera as Isolier in Rossini’s *Le comte Ory*.  She then returns to Scottish Opera for Cherubino in *Le nozze di Figaro* as well as a concert performance of the role of Beppe in Mascagni’s *L’amico Fritz*. In 2017 she will perform at the Royal Opera House, Covent Garden as Magdalene in a new production of *Die Meistersinger von Nürnberg* directed by Kasper Holten and conducted by Sir Antonio Pappano. She will then record the role of Anna in *Les Troyens* for the Erato and Warner Classics label. Ms Hipp will also make her house debut at Dutch National Opera in Amsterdam in Richard Strauss’s *Salome* as the Page. In the summer of 2017 she returns to the Glyndebourne Festival to sing the role of the Composer in Richard Strauss’ *Ariadne auf Naxos*.

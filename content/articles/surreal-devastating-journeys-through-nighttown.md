@@ -21,14 +21,18 @@ As an opera critic, one of my favorite things to experience live is opera writte
 
 _Nighttown_ is billed by premiering company [Lowell House Opera](/scene/companies/lowell-house-opera/) as a reimagining of James Joyce’s _Ulysses_: it takes Molly Bloom's 36-page soliloquy from the end of the novel and bases its run time on that, and on extracts from Chapter 15 earlier in the book: it uses both to explore themes of lust, death, extramarital affairs, and what home actually feels like. One might ask oneself how on Earth one goes about adapting the work of a writer whose prose is as dense and frequently impenetrable as James Joyce's can be; fortunately, Wenzelberg found a way, and it is a direction that works to _Nighttown_'s advantage.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647017053/media/2022/03/Nighttown_DAN07375_nfg5qs.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1647017053/media/2022/03/Nighttown_DAN07375_nfg5qs.jpg)
 
 <figcaption>Kathryn Tolley, Sydney Penny, Caroline R. Olsen, David McFerrin, and Erin Merceruio Nelson in Benjamin Perry Wenzelberg's Nighttown, Lowell Opera House, 2022.</figcaption>  
 </figure>
 
 Essentially, how he plays with Joyce's text is he uses Molly Bloom’s soliloquy as a device to frame and comment on the action that happens on-stage; this is established quite early on in the show, in a moment when Molly sings out "piano" and the orchestra suddenly quiets down, as if Molly has smashed the fourth wall for a single second. From here, the action plays out in a surreal, dream-like manner: events happen out of chronological order, character arcs overlap in layers, the tone frequently shifts from comedic to serious and then back again at the snap of a finger, and some events are displayed as a direct response to other events that happen mere minutes before. The libretto, while often not a literal representation of what James Joyce does with language in his work, nevertheless plays with Joyce's methods by leaning into the fact that Joyce's work is always some form of stream-of-consciousness, and he thus opts to go for an emotional stream rather than a language stream.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647017062/media/2022/03/NIghttown_DAN07528_x8i8o4.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1647017062/media/2022/03/NIghttown_DAN07528_x8i8o4.jpg)
 
 <figcaption>Erin Merceruio Nelson, David McFerrin, and Caroline R. Olsen in Benjamin Perry Wenzelberg's Nighttown, Lowell Opera House, 2022.</figcaption>  
 </figure>
@@ -37,7 +41,9 @@ That ultimately works in the show's favor: as Mahler proved so often in his symp
 
 It also does something exceedingly rare, which is that it shows Wenzelberg is a highly original composer: about the closest I could come to describing his music is as a blend of Berio and Mahler, and even that comparison does not feel quite correct in spirit. Wenzelberg describes his language as twelve-tone melodic lines situated within a largely tonal environment; I am not sure if that accurately describes his music, as in my estimation it is probably the work that best toes the line between conventional and unconventional tonal harmony, as even when his harmonies are conventionally tonal the ways he arrives at them or leaves them are super unconventional. But what is more, each transition into and out of these harmonies feels completely seamless, and even at its most tonal it never feels trite, either. Harmonically speaking, this is a musical language that, try as I might, I cannot really connect to anyone, except in the parts where he is intentionally drawing an allusion to different music.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647017072/media/2022/03/Nighttown_DAN07614_yjzvzn.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1647017072/media/2022/03/Nighttown_DAN07614_yjzvzn.jpg)
 
 <figcaption>Leo Balkovetz and Arhan Kumar in Benjamin Perry Wenzelberg's Nighttown, Lowell Opera House, 2022.</figcaption>  
 </figure>
@@ -48,7 +54,9 @@ It is a gift in other ways as well. The orchestration uses multiple unconvention
 
 I could spend all night talking about how Wenzelberg's music is a treat all on its own, but all you really need to know is that, even if it does not set Joyce literally, it honors the spirit of what Joyce's prose does, and I for one cannot wait for a second listen to let all the music's complexities wash over me. This is some highly original music, and I cannot recommend listening to it enough.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647017135/media/2022/03/Nighttown_DAN07717_riskob.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1647017135/media/2022/03/Nighttown_DAN07717_riskob.jpg)
 
 <figcaption>Elijah McCormack and David McFerrin in Benjamin Perry Wenzelberg's Nighttown, Lowell Opera House, 2022.</figcaption>  
 </figure>
@@ -59,7 +67,9 @@ It should go without saying that music like this requires a rather daring cast, 
 
 As for the production itself: as befits a small opera company's return to live performance, the staging by director Adrienne Boris was quite simple, with only a bed, a standee that suggested a painting frame, and chairs as the only pieces of set. But with something so surreal as this opera, I am not sure that making that work with more pieces in the set would be successful without a multi-million dollar budget, and the lack of setpieces actually helped keep the music flowing at a good pace. There was some iffy work with the lighting of Sanders Theatre's stage, but it was at the very least competent, and it never completely broke the show for me.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647017660/media/2022/03/Nighttown_DAN07110_wix4ch.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1647017660/media/2022/03/Nighttown_DAN07110_wix4ch.jpg)
 
 <figcaption>Erin Merceruio Nelson and Caroline R. Olsen in Benjamin Perry Wenzelberg's Nighttown, Lowell House Opera, 2022. Photo by Daniel Huang.</figcaption>  
 </figure>

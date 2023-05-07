@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/liza.with.an.e/"
 
+_template = "people_single"
 +++
 Caribbean-American Mezzo-Soprano Eliza Bonet continues to garner critical praise for her “sparkling, uninhibited delivery” (_SF Classical Music Examiner_) and “full, bright, warm sound” (Mercury News). Ms. Bonet recently made her Carnegie Hall debut singing selections from _Manos Indocumentados_ by Jorge Lockward with the Mimesis Ensemble. The program entitled "A Long Way From Home" explored migration journeys and the trials and tribulations one faces within them.
 

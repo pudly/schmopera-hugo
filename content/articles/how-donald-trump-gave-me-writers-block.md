@@ -29,6 +29,8 @@ At these very, very low points in the history of humans, the idea of "inspiring"
 
 Readers, am I wrong?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484654196887/2017-01-16---Sisyphus.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484654196887/2017-01-16---Sisyphus.jpg.jpg)
 <figcaption>Photo by [Quinn Dombrowski](https://www.flickr.com/photos/quinnanya/7162141030/in/photolist-bUTR1b-BSoaE-2Fe52-2Fea6-2Fe85-9yaos5-NzcYg-6CaRNc-4N137b-sjf9Yx-stvmRg-bQJ7C4-djnqHW-bajmk2-w7c1N-mahos4-6oeAA5-fbDkX4-mg6Ree-7HHSF9-5Y5kW-98PDDe-bcU5aD-cs11Jj-ksjRM6-8XBNCK-8jo6T5-7HHSM7-sk969w-dSgzwD-4puaHD-odakza-qy1Dux-9EvD9Y-f9s1CE-7NFTdZ-jJKZoi-isxNB-5bfKpb-qWyCKq-8oHSr8-6t9vst-61fBZQ-6jnYht-dKBDfB-akR2K9-7s98zq-dAHLwv-8oM58j-nhLPzm), via [Flickr](https://creativecommons.org/licenses/by-sa/2.0/legalcode).
 </figure>

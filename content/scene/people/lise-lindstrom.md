@@ -16,6 +16,7 @@ url = "https://www.facebook.com/LiseLindstromSoprano/?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/liselindstrom"
+_template = "people_single"
 +++
 
 The lyrical performances of American soprano Lise Lindstrom leave an indelible impression on audiences and critics worldwide.  She “reigns supreme with her soaring performance,” raves *The Austin Chronicle*. “It’s difficult to tear one’s attention away from Lindstrom.” *Opera News* has praised, “Lindstrom gave a truly world-class performance.  It is not often that one hears dramatic power combined with such a fresh, youthful-sounding soprano.”  In leading roles that range from Turandot to Senta, Elektra and Brünnhilde, Ms. Lindstrom has commanded the stages of The Metropolitan Opera, San Diego Opera, San Francisco Opera, Deutsche Oper Berlin, Wiener Staatsoper, Royal Opera House Covent Garden, Hamburg Staatsoper, Opera Australia, Les Chorégies d’Orange, and Arena di Verona, among many others.

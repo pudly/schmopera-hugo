@@ -12,6 +12,7 @@ website = "http://emmastannard.weebly.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/emma_stannard"
+_template = "people_single"
 +++
 
 Mezzo-soprano, Emma Stannard trained at the RNCM gaining a first class BMus (Hons) and a MMus with Distinction under the tutelage of Peter Alexander Wilson. She is now training on the Royal Academy of Music’s Opera Course, studying with Catherine Wyn-Rogers and Joseph Middleton. Most recently she has performed the roles of Hanna, *May Night* (Rimsky Korsakov) and is now preparing Poppea, *L’incoronazione di Poppea* (Monteverdi) for performances in May.

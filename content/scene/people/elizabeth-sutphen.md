@@ -11,6 +11,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/ElizabethSutphenSoprano/"
 
+_template = "people_single"
 +++
 “Impressive coloratura soprano” (The New York Times) Elizabeth Sutphen has garnered praise for her sparkling voice and her ability to “soar deftly through stratospheric trills and arpeggios” (Financial Times). Praised as “Exquisite” by The Guardian, Ms. Sutphen recently made her debut at Glyndebourne Festival Opera 2018 as Sophie in _Der Rosenkavalier_. Ms. Sutphen looks forward to the 2018-19 season with her return to Oper Frankfurt as Zerbinetta in their production of Strauss’s _Ariadne auf Naxos_, and as Atalanta in Handel’s _Xerxes_, as well as her debut with the Houston Grand Opera as Faustina/Angela Tiepolo/Annetta/Louisa Grahl/Brigida Banti in their world premier of _The Phoenix_ written by Tarik O’Regan, with libretto by John Caird who will also direct. As an "astonishing mature member" (Frankfurter Neue Presse) of the Opera Studio at Oper Frankfurt, Ms. Sutphen's past two seasons at Oper Frankfurt have included the roles of Lisa in Bellini’s _La sonnambula_, Papagena in Mozart’s _Die Zauberflöte_, as well as roles in new productions of Xerxes as _Romilda_, Benjamin Britten’s _Paul Bunyan_ directed by Brigitte Fassbaender as Tiny Bunyan, and Honegger’s _Jeanne D'Arc Au Bucher_ as La Vierge. 2017 also saw Ms. Sutphen in her debut at Kentucky Opera singing the role of Zerbinetta in _Ariadne auf Naxos_. 
 

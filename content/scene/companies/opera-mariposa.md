@@ -23,6 +23,7 @@ url = "https://www.instagram.com/operamariposa/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/operamariposa"
+_template = "company_single"
 +++
 
 Opera Mariposa is a Vancouver-based company run by young artists, for young artists. Our mission is to create a stage for emerging talent, showcasing the most promising performers from across North America and beyond in a diverse program of gala concerts, charity benefits, original shows and fully staged opera and musical theatre productions. 

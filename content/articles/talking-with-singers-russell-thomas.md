@@ -24,7 +24,9 @@ Currently, Thomas' next job is a return to the [Canadian Opera Company](/scene/c
 
 "I am treated very well there," says Thomas. "They've taken a huge interest in me, and they've been very supportive over the years." He looks forward to spending significant time in Toronto over the coming seasons, and showing his appreciation for the company. "Pretty much every first I can give, I'm giving to [the COC] as much as I can," he says of staged role debuts he'll sing at the Four Seasons Centre.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472571431511/2016-08-30-Thomas---Carmen-MC-.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472571431511/2016-08-30-Thomas---Carmen-MC-.jpg.jpg)
 <figcaption>Simone Osborne as Micaëla and Russell Thomas as Don José in the Canadian Opera Company production of *Carmen*, 2016, photo: Michael Cooper.</figcaption>
 </figure>
 

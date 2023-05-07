@@ -16,6 +16,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/prototypefest"
 
+_template = "company_single"
 +++
 PROTOTYPE – OPERA/THEATRE/NOW is an annual festival of visionary opera-theatre and music-theatre works by pioneering contemporary artists from New York City and around the world. PROTOTYPE is a co-production of Beth Morrison Projects and HERE, two leaders in the creation and presentation of contemporary, post-classical, multi-disciplinary opera-theatre and music-theatre work. The festival is the only of its kind in New York City - presenting both complete performances as well as works-in-progress through partnerships with local performing arts venues.
 

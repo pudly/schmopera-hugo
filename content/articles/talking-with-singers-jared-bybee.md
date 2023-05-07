@@ -33,7 +33,9 @@ In terms of sharing the stage with young performers, this is actually my first t
 
 I should say too that the Madeleine Choir School students who make up the chorus have been spectacular, and our director, Tara Faircloth, has made them an integral part of the production. (Nitai is among the students who auditioned, but was chosen for the lead role.) It's been a revelation to see how intelligent, focused, and beautiful they sound.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1547404541/media/2019/01/TheLittlePrince.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1547404541/media/2019/01/TheLittlePrince.jpg)
 
 <figcaption>Jared Bybee and Nitai Fluchel in Utah Opera's production of The Little Prince, 2018. Photo courtesy of Utah Opera.</figcaption>
 

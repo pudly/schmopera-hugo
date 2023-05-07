@@ -8,6 +8,7 @@ publishDate = "2015-12-30T15:16:00-05:00"
 related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/vlaamse-opera.md"]
 slug = "josef-wagner"
 title = "Josef Wagner"
+_template = "people_single"
 +++
 
 The musical training of the bass baritone Josef Wagner, born in Niederösterreich (Lower Austria), began in a boys choir, and with violin and piano lessons. After deciding for a career in voice, he studied at the University for Music and the Performing Arts in Vienna with Kurt Equiluz and Robert Holl. He has received important artistic incentives in master classes of Paul Esswood, Walter Berry and Christa Ludwig. His present teacher is Prof. Wicus Slabbert.

@@ -25,7 +25,9 @@ Directed and co-created by Alan Corbishley and Joanna Garfinkel (dramaturg) in a
 
 The cast of five are given a whirlwind to execute with terrific choreography by Tara Cheyenne Friedenberg, apart for some screen work and climbing on lighting rigs that didn’t quite hit the mark – odd choices, perhaps hoping to expand the stage work rather than play with the intimate nature of a cabaret format. I would have preferred the cabaret-style interaction of actors with the audience instead. The troupe is expected to dance and sing through tears and sweat. In particular, Sebastian (Alen Dominguez) practically jumps through hoops. The audio equipment and speed of the numbers sometimes got the better of this nimble young group and made it hard for audiences to catch every acidic punchline of the stanzas. Musical director Roger Parton might be more sensitive to allegro tempo on mouthful songs like "I Am a Vamp" and "Life’s a Swindle".
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579974482/media/2020/01/CityOperaVancouver-Berlinsmall3_aaed0h.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1579974482/media/2020/01/CityOperaVancouver-Berlinsmall3_aaed0h.jpg)
 
 <figcaption>Daniel Deorksen, Brent Hirose, Meghan Chenosky, Alen Dominguez, Julia Muncs. Photo: Diamond's Edge Photography.</figcaption>
 
@@ -37,7 +39,9 @@ Unsurprisingly, many of the characters reminded me of _I Am My Own Wife_, a show
 
 People sometimes think of cabaret as early camp, but it is perhaps better explained in the show’s own words, "If we’re going to get in trouble for doing nothing we might as well start something." The four composers whose songs are featured were all of Jewish heritage and were forced to leave Germany due to their willingness to push society to expand at the fringe and make space for new kinds of people.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579974527/media/2020/01/CityOperaVancouver-Berlinsmall4_xprpqa.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1579974527/media/2020/01/CityOperaVancouver-Berlinsmall4_xprpqa.jpg)
 
 <figcaption>Alen Dominguez, Julia Muncs. Photo: Diamond's Edge Photography.</figcaption>
 
@@ -49,7 +53,9 @@ The one endemic flaw in this show is that the production is fading as we watch i
 
 The lack of emotional resonance in the latter third of the show was no fault of the cast. They were all splendid and Trude (Meaghan Chenosky) in particular demonstrates real authenticity in her emotional turns. There was a clear difference between her playing the vamp, versus when she’s revealing real emotions. The actors were perhaps not given enough specificity as characters for us to relate to them as they don’t interact with each other until toward the end of the show – most of their performance is done toward the audience, often acting in the arch style of a silent film. As a result, it was hard to understand the gravity of losing them when we were attached to them only as caricatures, not as people. This was the case despite the characters having been based on real-life counterparts.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579974565/media/2020/01/sqBerlinLastCabaret_emplid.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1579974565/media/2020/01/sqBerlinLastCabaret_emplid.jpg)
 
 <figcaption>Alen Dominguez, Julia Muncs. Photo: Diamond's Edge Photography.</figcaption>
 

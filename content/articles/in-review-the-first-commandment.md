@@ -24,7 +24,9 @@ These are the inherent qualities that we love and admire about "perfect" operas 
 
 "Flaws" like an overly thick orchestration, or a vocal tessitura that is relentless and awkward, are what thrill the lovers of music history; it's indicative of just how much of a genius Mozart was, that moments of orchestra imbalance or slightly less organic melodies - largely harmless in the big picture - seem the "rudimentary" product of 11 year-old Wolfgang.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490184322733/2017-03-22---CO---Sam-Furness-Gemma-Summerfield.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490184322733/2017-03-22---CO---Sam-Furness-Gemma-Summerfield.jpg.jpg)
 <figcaption>Sam Furness and Gemma Summerfield in Classical Opera's *The First Commandment*, 2017. Photo by Sebastiano Ragusa.</figcaption>
 </figure>
 
@@ -32,13 +34,17 @@ Under conductor and Artistic Director [Ian Page](/ian-page-mozart-imagination/),
 
 Though he suffered from bronchitis, [Alessandro Fisher](/talking-with-singers-alessandro-fisher/) showed off a clear, friendly tenor that seemed undeniably human. [Gemma Summerfield](/scene/people/gemma-summerfield/) and [Helen Sherman](/scene/people/helen-sherman/) were equal parts preachy and wise as Compassion and Justice, each impressive in their demanding arias. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490184372222/2017-03-22---CO---Helen-Sherman-Alessandro-Fisher.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490184372222/2017-03-22---CO---Helen-Sherman-Alessandro-Fisher.jpg.jpg)
 <figcaption>Helen Sherman in Classical Opera's *The First Commandment*, 2017. Photo by Sebastiano Ragusa.</figcaption>
 </figure>
 
 Tenor [Sam Furness](/scene/people/sam-furness/) paired virile strength with admirable agility as the Christian Spirit; he found the humour - and the obvious psychological projection - in his second aria, singing, "Too much pleasure causes pain". Soprano [Rebecca Bottone](/scene/people/rebecca-bottone/) sang with thrilling personality - and a few hints of [Audrey Luna](/talking-with-singers-audrey-luna/) - as Worldly Spirit, proving that Mozart always did love to pair a coloratura soprano with the characters who have a so-bad-it's-a-good-influence on the hero of the story.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490184395135/2017-03-22---CO---Rebecca-Bottone.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490184395135/2017-03-22---CO---Rebecca-Bottone.jpg.jpg)
 <figcaption>Rebecca Bottone in Classical Opera's *The First Commandment*, 2017. Photo by Sebastiano Ragusa.</figcaption>
 </figure>
 

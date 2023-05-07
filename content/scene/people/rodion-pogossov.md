@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/rodion_pogossov/"
 
+_template = "people_single"
 +++
 Rodion Pogossov joined the Lindemann Young Artist Development Programme at the beginning of his early career. He regularly sings at the Metropolitan Opera and previous engagements there have included _Il barbiere di Siviglia_, _Die Zauberflöte_ and _Don Pasquale_.
 

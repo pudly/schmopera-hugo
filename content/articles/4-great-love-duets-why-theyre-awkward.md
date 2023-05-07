@@ -29,7 +29,9 @@ This duet from Verdi's _Rigoletto_ is full of lies! The Duke of Mantua hits on G
 
 There's nothing wrong with a Don Juan-type _per se_, but it's eerie to watch a young, sheltered, completely helpless young woman get seduced - used, really - by an older rich guy who's not ashamed of lying.
 
-<figure data-type="video">{{% md %}}<iframe width="1280" height="721" src="https://www.youtube.com/embed/i25kqjCn4uQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1280" height="721" src="https://www.youtube.com/embed/i25kqjCn4uQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -39,7 +41,9 @@ More lies! Although to be fair, if you were to sit down with B.F. Pinkerton and 
 
 Yet Cio-Cio San is singing about life-long marriage and the happiness and stability it would bring her; Pinkerton is singing about experiencing the world, marvelling at the obedience and admiration in the eyes of his young Japanese wife, and getting excited to have some exotic sex with her. And never forget that line about Cio-Cio San being fifteen years old...yikes.
 
-<figure data-type="video">{{% md %}} <iframe width="1011" height="758" src="https://www.youtube.com/embed/sguDvcD9TJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+ <iframe width="1011" height="758" src="https://www.youtube.com/embed/sguDvcD9TJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -49,8 +53,10 @@ Yes, North mythology. Yes, divine twins. But there's something about romantic lo
 
 Still, the music's pretty amazing.
 
-<figure data-type="video">{{% md %}}
+<figure data-type="video">
 
-<iframe width="1137" height="758" src="https://www.youtube.com/embed/r0qEUMX2UaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+
+
+<iframe width="1137" height="758" src="https://www.youtube.com/embed/r0qEUMX2UaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>

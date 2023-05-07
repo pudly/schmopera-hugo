@@ -19,6 +19,7 @@ url = "https://twitter.com/espritorchestra"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/EspritOrchestra"
+_template = "people_single"
 +++
 
 Alex Pauk, composer, conductor, educator, entrepreneur, had much to do with revitalizing Canadian orchestral musical life for composers by founding Esprit Orchestra in 1983 as Canada’s only orchestra devoted to new music. Esprit, with a core of 50 of Canada’s best new music instrumentalists and an annual subscription series in Toronto, encourages composers from across Canada to take bold new

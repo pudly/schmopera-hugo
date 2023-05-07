@@ -18,7 +18,9 @@ title = "Check out: Urbanvessel"
 
 [Urbanvessel](/scene/companies/urban-vessel/) creates new work that is at the intersection of multiple disciplines and cultures. Our work is anchored in the human voice, and our overarching aims are to surprise people, transform space, and invite our audience to ask questions about the larger world around them.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437692324321/SingingRiver-4Resized.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437692324321/SingingRiver-4Resized.jpg.jpg)
 <figcaption>From Urbanvessel's *Singing River*. Photo: Giulio Muratori.</figcaption>
 </figure>
 
@@ -34,7 +36,9 @@ It needs to be relevant to people. My desire would be for people to engage with 
 
 Opera and theatre needs to be relevant to people’s lives, and fill the gap that’s not filled by a screen or by being able to find anything on the Internet. To me it’s about place, and understanding our place in the city.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437692491927/SLIP-1Resized.jpg.jpg)<figcaption>From Urbanvessel's *Slip*. Photo: Ashok Charles.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437692491927/SLIP-1Resized.jpg.jpg)<figcaption>From Urbanvessel's *Slip*. Photo: Ashok Charles.</figcaption>
 </figure>
 
 ### 4. What kind of feedback have you gotten from your work?
@@ -43,14 +47,18 @@ Very positive feedback. When we did our boxing opera, Voice-Box, it was fantast
 
 We have a lot of people who haven’t come to hear opera singers before, just because of the theme of a show. Our project *Slip* took place in the Harrison Street Baths in Toronto. This was a project that was bringing together architecture, dance, and different vocal styles — from jazz and gospel to opera and Japanese folk song. The kind of audience you bring together in a project like that is extremely diverse, so you’re always coming across people who haven’t seen one or another of those forms before.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437692632593/STITCH-1Resized.jpg.jpg)<figcaption>Neema Bickersteth in Urbanvessel's *Stitch*. Photo: Omer Yukseker.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437692632593/STITCH-1Resized.jpg.jpg)<figcaption>Neema Bickersteth in Urbanvessel's *Stitch*. Photo: Omer Yukseker.</figcaption>
 </figure>
 
 ### 5. Do you try to accomplish a goal with each production?
 
 Our official line is that we want to “subvert social assumptions,” which sounds very lofty, but I think it’s true. For instance, the piece we just produced, *Singing River*, was challenging people to think differently about the Don River. Most people think of it as a dumping ground, a bit of a sad river. But we wanted people to fall in love with the river. In *Voice-Box* we wanted people to ask questions about women and power, aggression and violence. A lot of the time our aim is to provoke questions, making people uncomfortable, maybe, but in a wonderful way.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437692869350/VOICE-BOX-3Resized.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437692869350/VOICE-BOX-3Resized.jpg.jpg)
 <figcaption>From Urbanvessel's *Voice-Box*. Photo: Omer Yukseker.</figcaption>
 </figure>
 

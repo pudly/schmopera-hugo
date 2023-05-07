@@ -8,6 +8,7 @@ related_companies = ["scene/companies/vancouver-opera.md"]
 slug = "kristin-hoff"
 title = "Kristin Hoff"
 website = "http://www.kristinhoff.com/"
+_template = "people_single"
 +++
 
 Mezzo-Soprano Kristin Hoff debuted at Carnegie Hall singing Elliot Carter’s *Syringa* with Maestro James Levine conducting. She has been a soloist with the Boston Pops Symphony Orchestra, the Vancouver Symphony Orchestra, and the Montreal Symphony Orchestra, among many others.

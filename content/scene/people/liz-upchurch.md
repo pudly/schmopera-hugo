@@ -7,6 +7,7 @@ publishDate = "2015-04-08T10:45:00-04:00"
 related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/glyndebourne.md"]
 slug = "liz-upchurch"
 title = "Liz Upchurch"
+_template = "people_single"
 +++
 
 <p>

@@ -17,6 +17,7 @@ url = "https://www.facebook.com/pages/Jessica-Muirhead-Soprano/210549405667486"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JessicaMuirhead"
+_template = "people_single"
 +++
 
 <p>

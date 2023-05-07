@@ -11,6 +11,7 @@ slug = "erica-schuller"
 title = "Erica Schuller"
 website = "https://www.ericaschuller.com"
 
+_template = "people_single"
 +++
 Praised for her "lively personality, abundant charm, and luscious vocalism" and "crystalline voice," soprano Erica Schuller is a versatile performer, recognized for bringing committed artistry to a broad musical repertory. Her particular affinity for Baroque repertoire has brought her increasing attention from some of the country's finest Early Music ensembles.
 

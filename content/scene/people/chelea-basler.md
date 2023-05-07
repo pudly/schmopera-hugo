@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/operafish11/"
 
+_template = "people_single"
 +++
 Grammy Award-nominated soprano Chelsea Basler continues to make her mark in an extensive array of operatic roles due to her unique combination of vocal appeal and artistry. Praised for her "luminous voice" with its "easy soaring range,” she has also been noted for her "wonderful acting" and ultimately deemed "simply superb.” During the 2020-21 season, Ms. Basler was scheduled to return to the Metropolitan Opera to cover Micaëla in _Carmen_ (COVID19), perform the role of Julia Lowell in Borzoni’s _The Copper Queen_ with Arizona Opera (COVID19), perform with Emmanuel Music as Angela in Weill’s _Firebrand of Florence_ (COVID19), and perform as the soprano soloist in Beethoven’s Ninth Symphony with Cape Symphony (COVID19 – postponed until 2022). In the summer of 2020, she was proud to be part of Boston Lyric Opera’s virtual performance of _The Fall of the House of Usher_, singing the role of Madeline. In the summer of 2021, she will return to the Newport Music Festival for a recital and in the fall of 2021, she returns to Boston Lyric Opera as Lola in _Cavalleria rusticana_.
 

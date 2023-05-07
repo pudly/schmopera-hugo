@@ -15,6 +15,7 @@ url = "https://www.facebook.com/coachdiva80/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/wagnersoprano"
+_template = "people_single"
 +++
 
 American soprano Amber Wagner has been featured in Opera News as one of twenty-five artists poised to break out and become a major force in classical music in the coming decade. In a recent review of Wagner's *Der fliegende Holländer* at the Metropolitan Opera, the New York Times described her as possessing a "powerful, gleaming and richly expressive voice [which] was ideal for the music."

@@ -25,7 +25,9 @@ It adds a dimension to the occasion; the cause is one that I believe in, and hav
 
 I visited the care centres outside São Paolo last May and was moved by the work that is being done there for children with cancer. Dr. Epelman is also an inspiring man who is devoted to this charity, TUCCA, and I like to support in any way I can.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1547596741/media/2019/01/CharlieSiem.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1547596741/media/2019/01/CharlieSiem.jpg)
 
 <figcaption>Charlie Siem, violinist.</figcaption>
 

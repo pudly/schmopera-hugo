@@ -27,7 +27,9 @@ Yet in Otello’s nemesis, Finley finds "the perfect villain." An expert at fals
 
 "I think there's always this idea that a villain is at once attractive and dangerous," he says. "That's what I love about playing a part like that, because he's always adjusting his demeanour, depending on who he's with." Only when Iago is alone, delivering his famous "Credo" in Act II, does he present his true self to the audience, and reveal what Finley calls, "the snake, the worminess."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556297196/media/2019/04/COCOtello-pc-MichaelCooper.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1556297196/media/2019/04/COCOtello-pc-MichaelCooper.jpg)
 
 <figcaption>(l-r) Andrew Haji as Cassio, Gerald Finley as Iago, and Russell Thomas as Otello (background) in the Canadian Opera Company's production of Otello, 2019. Photo: Michael Cooper.</figcaption>
 
@@ -47,7 +49,9 @@ It seems even Finley is not immune to opera's knee-jerk tendency to categorize v
 
 Or perhaps the pigeon-holing isn't entirely unfounded. Finley muses that he is "trying to haul myself from a tradition" where singers prioritized clear and crisp text, almost as a replacement for the sound of the voice. "I was taught not on legato," he says. "I really tried in the last ten years to understand. I worked really hard to get into the idea that my voice can ride this constant wave."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556297170/media/2019/04/GeraldFinley-pc-SimCanettyClarke.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1556297170/media/2019/04/GeraldFinley-pc-SimCanettyClarke.jpg)
 
 <figcaption>Bass-baritone Gerald Finley. Photo: Sim Canetty Clarke.</figcaption>
 

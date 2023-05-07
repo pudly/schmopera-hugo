@@ -38,7 +38,9 @@ Opera is so difficult to get right. There are a lot of valiant efforts but even 
 
 It's not surprising that there aren't very many great masterpieces of the 21st-century. There are a few, of course, and one of these is my next project. I'm going to sing George Benjamin's opera [*Written on Skin*](https://mahlerchamber.com/concerts/234). This is a piece that works in every area. It gets it all right. The text is profound, challenging and stunning. The dramatic challenge is wonderful, and the music is so very strong. It's going to be a wonderful opportunity. I'm singing it with the Mahler Chamber Orchestra in a small tour of a semi-staged production with an amazing cast. Having this very stripped down but staged version will be exposing and illuminating the piece.  I'm really looking forward to that.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539736468498/hughes-headshot-black-and-white.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539736468498/hughes-headshot-black-and-white.jpg.jpg)
 <figcaption>Photo: Matthu Placek.</figcaption>
 </figure>
 

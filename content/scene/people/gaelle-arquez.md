@@ -15,6 +15,7 @@ url = "https://www.facebook.com/GaelleArquezOfficial/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/GaelleArquez"
+_template = "people_single"
 +++
 
 French mezzo-soprano Gaëlle Arquez is one of the rising stars of the opera world. After graduating from the Conservatoire National Supérieur de Musique de Paris, the young mezzo-soprano made her debut at the Opéra Bastille in Michael Haneke’s 2013 version of *Don Giovanni* (Zerlina) under the direction of Philippe Jordan. Ever since she has been invited to sing in many of the most renowned opera houses in the world. Nominated “Révélation Lyrique” at the “Victoires de la Musique 2011”, Gaëlle Arquez is now an exclusive recording artist for Deutsche Grammophon with whom she released her highly anticipated debut recording “Ardente Flamme” in 2017.

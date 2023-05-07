@@ -18,7 +18,7 @@ On the 18th of September a new musical group, The Mozartists, was launched at Wi
 
 The first piece was Mozart's Sinfonia Concertante in E flat major (K. 364), the Allegro maestoso an elegant beginning to the evening and featuring the joyful lightness Mozart did so well. Passages of intensity burst upon us like the fluttering of a butterfly's wings, to be quickly succeeded by sections of calm. The violin soloists, Matthew Truscott and Alfonso Leal del Ojo, leapt off the orchestral sections with irresistible enthusiasm. But after such a jubilant start the Andante section failed to carry the energy. While it might be inevitable that a mournful section may drag following such an exultant Allegro, it's the orchestra's responsibility to engage the audience. The final Presto resumed the energy of the Allegro as could be expected by its name. Infectiously joyous, the rousing trumpet passages deserve special mention.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505956727125/2017-09-20---full---Louise-Alder-joins-The-Mozartists-and-Ian-Page-at-Wigmore-Hall-c.-Fane-Henderson.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505956727125/2017-09-20---full---Louise-Alder-joins-The-Mozartists-and-Ian-Page-at-Wigmore-Hall-c.-Fane-Henderson.jpg.jpg)
 <figcaption>Louise Alder joins The Mozartists and Ian Page at Wigmore Hall. Photo: Fane Henderson.</figcaption>
 </figure>
 

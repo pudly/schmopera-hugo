@@ -26,7 +26,9 @@ The physical work involved is one thing, and the psychological work is another b
 
 For many, the vulnerability involved in singing is a risk not worth taking, but Register knows the payoff that comes with the career. "The emotional rewards that I get from it, I haven't found anything else that gives me that kind of a reward. The connection with the audience, and the feeling of that emotional exchange when I'm performing, I haven't been able to find that anywhere else." He doesn't quite call it a religion, but it's a spiritual practice in his life. "It's cleansing, it makes me feel good physically, it makes me clear-headed, it makes me happy."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464118184394/Register%20-%20Carmen-10%20-%20Virginia%20Opera%202006.jpg.jpg)<figcaption>Bryan Register, pictured with Catherine Cangiano, soprano, in Virgina Opera's production of *Carmen*, 2006.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464118184394/Register%20-%20Carmen-10%20-%20Virginia%20Opera%202006.jpg.jpg)<figcaption>Bryan Register, pictured with Catherine Cangiano, soprano, in Virgina Opera's production of *Carmen*, 2006.</figcaption>
 </figure>
 
 ## "It was just working."
@@ -43,7 +45,9 @@ He says he never learned the exact amount of his scholarship, only that his grad
 
 Nilsson had heard his audition for MSM, and told the panel that he was set to be a Heldentenor. Register wrote her to thank her, and she wrote him back. "And I still have the letter."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464118194734/wozzeck-eno-236-850x582.jpg.jpg)<figcaption>Register in English National Opera's production of *Wozzeck*, 2013. Photo: Robert Workman.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464118194734/wozzeck-eno-236-850x582.jpg.jpg)<figcaption>Register in English National Opera's production of *Wozzeck*, 2013. Photo: Robert Workman.</figcaption>
 </figure>
 
 ## "I would have laughed in your face."
@@ -60,7 +64,9 @@ Young singers often equate a certain age with a ticket into "heavy" repertoire, 
 
 He looks back on Birgit Nilsson's early recognition of his potential with a retrospective understanding. "I think now that I'm older and I actually do it, I could hear how she could hear a younger singer and connect immediately to that feeling of 'He's one of us'." He posed that there is often an incomplete message delivered to young singers about the "horror stories" of tackling repertoire like Wagner. "If there was some sort of explanation, that 'you're doing this now, and you're learning a lot about your body, you're building your instrument through this repertoire, and someday I think you might do this repertoire,' that's a completely different approach than, 'you're 25, so you need to sing Mozart and you need to sing some Handel, and that's what you do because you're 25'."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464355794650/2016-05-27---Bryan-Register-Olaf-Struck.jpg.jpg)<figcaption>Register in Theater Kiel's production of *Die Walküre*, 2016. Photo: Olaf Struck.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464355794650/2016-05-27---Bryan-Register-Olaf-Struck.jpg.jpg)<figcaption>Register in Theater Kiel's production of *Die Walküre*, 2016. Photo: Olaf Struck.</figcaption>
 </figure>
 
 ## Advice and "that little inside voice."

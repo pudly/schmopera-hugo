@@ -30,9 +30,11 @@ Finney writes, "\[_Verbotenlieder_'s\] neat musical ear-play was probably most p
 
 Greg caught the _verboten_, and I saw the traditional: the Toronto Symphony Orchestra sounded particularly Canadian in its holiday run of Handel's **_Messiah_**, which featured home-grown soloists [Claire de Sévigné](/claire-de-sevigne-sing-fast-high/), [Allyson McHardy](/scene/people/allyson-mchardy/), [Andrew Haji](/scene/people/andrew-haji/), and [Tyler Duncan](/scene/people/tyler-duncan/). De Sévigné rang like a bell even at the briskest of tempi; McHardy gave an intimate, human sound; Haji was a breath of fresh air from his first "Comfort ye"; and Duncan was the jolt of caffeine that suited his bombastic "Why do the Nations so Furiously Rage Together?"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546223125/media/2018/12/CompositeMessiahJagGundu.jpg)
+<figure data-type="image">
 
-{{% /md %}}<figcaption>Clockwise from top left: Allyson McHardy, Claire de Sévigné, Tyler Duncan, and Andrew Haji perform Handel's <em>Messiah</em> with the Toronto Symphony Orchestra under Johannes Debus. Photos: Jag Gundu.</figcaption></figure>
+![](https://res.cloudinary.com/schmopera/image/upload/v1546223125/media/2018/12/CompositeMessiahJagGundu.jpg)
+
+<figcaption>Clockwise from top left: Allyson McHardy, Claire de Sévigné, Tyler Duncan, and Andrew Haji perform Handel's <em>Messiah</em> with the Toronto Symphony Orchestra under Johannes Debus. Photos: Jag Gundu.</figcaption></figure>
 
 COC Music Director Johannes Debus took the podium. He brought operatic flair to this oratorio, and peppered it with surprises enough to keep Handel's very, _very_ familiar score sounding new. And the Toronto Mendelssohn Choir was on point, earning bragging rights with collective coloratura and a stunning colour palette from start to finish. They do sound great under Interim Artistic Director & Conductor David Fallis.
 
@@ -40,9 +42,11 @@ COC Music Director Johannes Debus took the podium. He brought operatic flair to 
 
 More traditions - and more Canadians - were in Toronto Operetta Theatre's production of _Die Fledermaus_. The star of the show was inarguably [Lara Ciekiewicz](/scene/people/lara-ciekiewicz/)'s Rosalinda, who gave a wow-worthy combination of womanly sound and agile fireworks. [Adam Fisher](/scene/people/adam-fisher/) was her smarmy husband, Gabriel Eisenstein; yet the friendly warmth in his sound gave us less of a loathsome liar and more of a bumbling idiot who makes poor decisions. [Caitlin Wood](/scene/people/caitlin-wood/)'s Adele was a delightful surprise; almost understated in spoken dialogue, Wood exploded with personality - and thrilling ring - each time she sang. Elizabeth Beeler's Orlofsky was vague and bland, her dialogue spoken with a thick Russian accent reminiscent of Alison Brie as Zoya the Destroya on _GLOW_. And [Michael Robert-Broder](/scene/people/michael-robert-broder/) was a sullen Dr. Falke, a slight and constant snarl in his sound.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546223254/media/2018/12/Fledermaus2.jpg)
+<figure data-type="image">
 
-{{% /md %}}<figcaption>Caitlin Wood (Adele) and Elizabeth Beeler (Orlofsky) in <em>Die Fledermaus</em>, Toronto Operetta Theatre, 2018. Photo: Gary Beechey, BDS Studios.</figcaption></figure>
+![](https://res.cloudinary.com/schmopera/image/upload/v1546223254/media/2018/12/Fledermaus2.jpg)
+
+<figcaption>Caitlin Wood (Adele) and Elizabeth Beeler (Orlofsky) in <em>Die Fledermaus</em>, Toronto Operetta Theatre, 2018. Photo: Gary Beechey, BDS Studios.</figcaption></figure>
 
 Toronto Operetta Theatre, for me, has always been a place to hear Canada's excellent talent, if not a place for forward-thinking production value. My hunch had been that all you needed for a great, hilarious _Die Fledermaus_ was a stellar cast.  Yet even the top-notch performances by Ciekiewicz, Fisher, Wood, and Robert-Broder were dampened by missed comedic opportunities and some hokey English dialogue - a product of Ruth and Thomas Martin's translation, plus additions made by stage director and TOT head Guillermo Silva-Marin. Though it's par for the course in operetta, to have odd contemporary cultural reference in the dialogue, but I'd call this version overkill. I counted at least four Trump references, a Martha-Stewart-prison groaner, a dash of #MeToo, and a vaguely French, Tar-_get_-inspired pronunciation of "Value Vil-_lage_".
 

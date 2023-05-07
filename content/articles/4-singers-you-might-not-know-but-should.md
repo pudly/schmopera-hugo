@@ -31,7 +31,7 @@ For someone who had a 30+ year career at the Metropolitan Opera, you'd think [Do
 
 In this video of Charpentier's Louise she is 71 (!?!) years old and singing with beautiful control, legato, zero wobble and just an easy beautiful sound, and this is two years after her final Met performance. According to liner notes, she met and worked with Charpentier and he gifted her the original manuscript. I find she has a lovely easy tone and great intonation. It's very easy on the ears and relaxing to listen to. A particular favorite on this album is her [duet from the end of _Thaïs_](https://youtu.be/yLtuphorIw0) with Robert Merrill.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525830698864/R-6899044-1429048081-9445.jpeg.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525830698864/R-6899044-1429048081-9445.jpeg.jpg.jpg)
 </figure>
 
 ## Joseph Schmidt
@@ -45,7 +45,7 @@ The story of [Joseph Schmidt](https://en.wikipedia.org/wiki/Joseph_Schmidt) is n
 
 Schmidt was a master of languages and is said to have spoken at least six. His voice is sweet and light, clear and unforced at the top. Most comfortable in lighter German operetta (such as this _Martha_ above) and bel canto, but also capable of what we consider heavier repertoire today, such as Calaf and some Verdi roles. His ["Di quella pira"](https://youtu.be/dxMyV6MOjjA) is worth a listen (that chorus is sooooo slow though). IMHO, he is one of the greatest German language tenors of all time. Right up there with Fritz. And sadly they share the same fate of an early death which robbed the world of their talents far too soon.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525830686411/R-6047354-1409799552-2755.jpeg.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525830686411/R-6047354-1409799552-2755.jpeg.jpg.jpg)
 </figure>
 
 ## Nicola Ghiuselev
@@ -60,7 +60,7 @@ I was first introduced to [Nicola Ghiuselev](https://en.wikipedia.org/wiki/Nicol
 
 While Ghiaurov went on to great fame, married Mirella Freni and produced some of the greatest recordings of all time for Decca with Sutherland and Pavarotti, Ghiuselev seems to have been somewhat forgotten. This album of excerpts from [_Boris Godunov_](https://www.youtube.com/watch?v=WrOzND5Y4Uo) (above) is a spectacular display of Russian singing style. The fullness of the sound, growly cutting edge and even power from top to bottom are what attract me to his sound. He was also a notable painter; his self-portrait is on the cover of his biography _La Voce che Dipinge_. If Verdi is more your style, check out his [Fiesco here](https://www.youtube.com/watch?v=X10hnrHKuzY).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525830975187/Ghiuzelev.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525830975187/Ghiuzelev.jpg.jpg)
 </figure>
 
 ## Elena Obraztsova
@@ -74,7 +74,7 @@ I feel like mezzo-sopranos are the neglected voice type when it comes to famous 
 
 She is a powerhouse singer with fierce chest voice that melds smoothly into the upper registers. I find her sound exciting, full, but with a control to match the heft that some others lack. I particularly enjoy the long lines in her [Dalila](https://www.youtube.com/watch?v=EFtx-ApWVqo). I think some folks will be shocked that I include her here, but I think to many, she will be a revelation.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525830653678/R-8476779-1502046719-2440.jpeg.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525830653678/R-8476779-1502046719-2440.jpeg.jpg.jpg)
 </figure>
 
 ***

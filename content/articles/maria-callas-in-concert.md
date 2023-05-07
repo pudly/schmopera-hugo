@@ -23,7 +23,9 @@ Created by the company [BASE Hologram](https://basehologram.com), the Maria Call
 
 > Credit must be given to Noone and Wadsworth for avoiding the pitfalls of gimmickry, into which an endeavor of this sort can easily fall.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568160265/media/2019/09/MariaCallas4000-20_erwswj.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1568160265/media/2019/09/MariaCallas4000-20_erwswj.jpg)
 
 <figcaption>Maria Callas in Concert, Lyric Opera of Chicago, 2019. Photo: Won J. Park.</figcaption>
 
@@ -33,7 +35,9 @@ Curious and a bit skeptical before the curtain rose, I joined the rest of the au
 
 Bolstering verisimilitude were some striking sonic details such as the clack of her heels across the floor, the rustle of her gown, and the crumpling of paper in the Letter Scene from Verdi's _Macbeth_, "Vieni t'affretta...Or tutti sorgete." The audio was piped through the theater's loudspeaker system, but consisted of high-definition remasterings of Callas' recordings. The orchestras from those original recordings were edited out and in their stead we heard a live ensemble, comprised of members of the LOC orchestra, under the direction of Noone.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568074192/media/2019/09/Callas1_s0d398.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1568074192/media/2019/09/Callas1_s0d398.jpg)
 
 <figcaption>BASE Hologram interactive concert performance with Roy Orbison and Maria Callas at the Jazz at Lincoln Center Frederick P. Rose Hall on Sunday January 14, 2018, in New York. Photo by Evan Agostini for BASE Hologram.</figcaption>
 
@@ -47,7 +51,9 @@ Callas was by many accounts, "an artist who was known by conductors for being in
 
 The challenges of collaborating with Callas in this scenario notwithstanding, and despite the artificial feel to the accompaniment, there were moments of pure beauty. The first highlight of the evening for me was the aria "Ebben, ne andrò lontana" from Catalani's _La Wally_. Hearing Callas' expressive range, especially the softer end of her spectrum, in a large theater (as opposed to laptop speakers or earbuds), gave me chills. While in the Sleepwalking Scene, "Una macchia è qui tutt'ora" from Verdi's _Macbeth_, we experienced Callas' masterful control of intensity with the sparest musical means.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568160291/media/2019/09/MariaCallas4000-24_u5aug5.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1568160291/media/2019/09/MariaCallas4000-24_u5aug5.jpg)
 
 <figcaption>Maria Callas in Concert, Lyric Opera of Chicago, 2019. Photo: Won J. Park.</figcaption>
 
@@ -61,7 +67,9 @@ At the end of the program, "La Divina" did not disappoint the audience in her tw
 
 </figure>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568074209/media/2019/09/Callas2_si7zhj.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1568074209/media/2019/09/Callas2_si7zhj.jpg)
 
 <figcaption>BASE Hologram interactive concert performance with Roy Orbison and Maria Callas at the Jazz at Lincoln Center Frederick P. Rose Hall on Sunday January 14, 2018, in New York. Photo by Evan Agostini for BASE Hologram.</figcaption>
 

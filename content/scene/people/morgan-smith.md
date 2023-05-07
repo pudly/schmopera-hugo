@@ -17,6 +17,7 @@ url = "https://www.facebook.com/morgansmithbaritone/"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/morgansmithbaritone/"
+_template = "people_single"
 +++
 
 I am from White Plains, New York, the son of a Presbyterian boy from Nashville and a Jewish girl from Manhattan. I am the third of four children, and was fortunate to have had a cello thrust in my hands at age 5. My family represented my first band, my first audience, my first collaborators.

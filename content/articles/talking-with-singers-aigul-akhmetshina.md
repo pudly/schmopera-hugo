@@ -22,7 +22,9 @@ Because I cannot live without singing! God gave me my voice and I have been work
 
 I was 10 years old back then and simply loved singing… and I didn't think much about anything at that stage, happily! But I knew one thing for certain: I knew that singing would become my profession!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512352347711/2017-11-06---Aigul-Akhmetshina-as-CARMEN--ROH.-PHOTO-BY-CLIVE-BARDA-7.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512352347711/2017-11-06---Aigul-Akhmetshina-as-CARMEN--ROH.-PHOTO-BY-CLIVE-BARDA-7.jpg.jpg)
 <figcaption>Aigul Akhmetshina as Carmen in *La tragédie de Carmen*, Wilton's Music Hall, 2017. Photo: Clive Barda/ROH.</figcaption>
 </figure>
 

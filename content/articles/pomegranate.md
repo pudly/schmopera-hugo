@@ -33,7 +33,9 @@ Kye Marshall and I are members of Yorkville's Heliconian Club, an interestingly 
 
 Our audience loved the presentation, so, with the inspiration of the Muses and audience applause, we took a leap into the opera world and began expanding the plot of Act I, and created a second and somewhat parallel act situated in a downtown lesbian bar in 1980s Toronto. The inspiration for Act II came from our mutual experience of 1980s Toronto – a time of political turbulence and revolutionary change for the lesbian and gay communities; and a time in which, unlike today, there were many lesbian bars with a clandestine atmosphere similar to the Villa of Mysteries – places where we could take refuge and feel free to be our true selves.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557425024/media/2019/05/Amanda%20by%20Pyx%20-%20Copy.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557425024/media/2019/05/Amanda%20by%20Pyx%20-%20Copy.jpg)
 
 <figcaption>Amanda Hale, librettist, Pomegranate.</figcaption>
 
@@ -45,7 +47,9 @@ Our audience loved the presentation, so, with the inspiration of the Muses and a
 
 In the score I have created for _Pomegranate_ I use an eclectic mix of classical, jazz/pop, Latin, avant-garde and balladic genres. With a limited budget I decided to go with harp and electric piano as the mainstay instruments, but have added three cellos for their 4-octave range, lush sound and many sound colors which I know about from my cello practise.  Flute and oboe were included for their unique color palettes. As a contemporary composer I like to create music that is memorably melodic, accessible and enjoyable, but also includes colourful and interesting modern compositional techniques.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557425011/media/2019/05/KYE%20pic%20cello-promo.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557425011/media/2019/05/KYE%20pic%20cello-promo.jpg)
 
 <figcaption>Kye Marshall, composer, Pomegranate.</figcaption>
 
@@ -61,7 +65,9 @@ The story demonstrates the old saying, _plus ça change, plus la même chose_. I
 
 The arts allow us to demonstrate the limitations of language. Even where human connection is profound, we often fall short of communicating thoughts and feelings that then remain buried in our inner lives. The traditions of opera make it a perfect vehicle for expressing these passionate emotions.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557424937/media/2019/05/PomegranatePOSTER.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557424937/media/2019/05/PomegranatePOSTER.jpg)
 
 </figure>
 

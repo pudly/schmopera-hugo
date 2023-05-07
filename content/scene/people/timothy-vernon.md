@@ -13,6 +13,7 @@ website = "http://www.pov.bc.ca/artistic_director.html"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/timothyjv"
+_template = "people_single"
 +++
 
 Timothy Vernon is considered one of Canada’s most prominent conductors, praised for his commitment to and vision of opera excellence in this country. As the founding Artistic Director of Pacific Opera Victoria, Maestro Vernon has led most of its more than 105 productions of 70 works - a repertoire that ranges from Handel to Berg and Britten, including Mozart, Verdi, Puccini and Wagner. He has led productions for Opera Lyra (*Die Zauberflöte* and *Faust*), l’Opéra de Montréal, Edmonton Opera, Calgary Opera, Opéra de Québec, among others. Also active on the concert stage, Maestro Vernon is a welcome guest conductor for some of Canada’s finest orchestras:  Vancouver Symphony, Edmonton Symphony, l’Orchestre symphonique de Montréal, Calgary Philharmonic, Toronto Symphony, and the National Arts Centre Orchestra for a Gala concert that was broadcast on CBC and filmed for worldwide distribution.

@@ -7,6 +7,7 @@ publishDate = "2017-09-06T21:37:00-04:00"
 related_companies = ["scene/companies/salzburg-festival.md","scene/companies/glyndebourne.md"]
 slug = "peter-kellner"
 title = "Peter Kellner"
+_template = "people_single"
 +++
 
 Since the 2015/2016 season, Peter Kellner is a member of Oper Graz, singing Basilio in Rossini’s *Il barbiere di Siviglia* and Osmin in Mozart’s *Die Entführung aus dem Serail*. During the 2014/2015 season, he performed several roles in at Oldenburgisches Staatstheater including Bartolo in Mozart’s *Le nozze di Figaro* and the title role of Handel’s *Hercules*. He is covering the title role in Mozart’s *Le nozze di Figaro* at the 2016 Glyndebourne Festival Opera.

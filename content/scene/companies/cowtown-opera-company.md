@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Cowtown-Opera-Company/121877817876387"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CowtownOpera"
+_template = "company_single"
 +++
 
 <p>

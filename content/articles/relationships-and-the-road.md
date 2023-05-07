@@ -22,7 +22,9 @@ Meeting new people is part of the job, too. The professional bonds made over reh
 
 Even if there's endless respect for each others' careers, working away from home means that you will have experiences without that person. You can tell them about the incredible show you sang, or send photos of the beautiful cities you visit, but it will never be the same as having them there with you. Not only that, but you will have these experiences *with other people*. By this I don't necessarily mean to say you're going to cheat on your partner. It's true, though, that being in a show can create fast friends out of strangers, and since everyone's a tourist, it's common to explore new things together. So, your partner didn't get to hear you sing so well, *plus* you visited the Uffizi or the Eiffel Tower or the French riviera without them.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433883658736/Icons.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433883658736/Icons.jpg.jpg)
 <figcaption>Yep.</figcaption>
 </figure>
 

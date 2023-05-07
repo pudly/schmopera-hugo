@@ -26,7 +26,9 @@ Anyways, I also sing because performing pushes you out of your comfort zone in t
 
 And why am I doing it professionally? That's easy: because I'm lucky enough to have that opportunity. If I wasn't doing it professionally, I'd be doing it for fun. I think if anyone could do their absolute favourite thing on the planet and get paid for doing it, they would every time.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466372716727/2016-06-29---Tritchew-Silent-Night-CalOP.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466372716727/2016-06-29---Tritchew-Silent-Night-CalOP.jpg.jpg)
 <figcaption>Tritchew in Calgary Opera's *Silent Night*.</figcaption>
 </figure>
 
@@ -62,7 +64,9 @@ I think I have the same answer as almost anyone else when it comes to what young
 
 Seriously. Just don't do it. You're only making yourself miserable. We all do it and no good comes of it. It doesn’t matter how old you are and how many gigs you've had or "this singer got into this program at this age." You are your own person and you have your own unique and exciting journey ahead. Love yourself for being brave enough to choose this crazy career and feel excited and empowered because you never know what's coming next. It doesn’t matter what anyone else's path has in store — you do you.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466372761900/2016-06-20-Tritchew-Die-Tote-Stadt-203.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466372761900/2016-06-20-Tritchew-Die-Tote-Stadt-203.jpg.jpg)
 <figcaption>Tritchew (centre) in Calgary Opera's *Die tote Stadt*.</figcaption>
 </figure>
 

@@ -9,6 +9,7 @@ related_companies = ["scene/companies/canadian-opera-company.md"]
 slug = "ana-sokolovic"
 title = "Ana Sokolovic"
 website = "http://www.anasokolovic.com/en/home"
+_template = "people_single"
 +++
 
 <p>

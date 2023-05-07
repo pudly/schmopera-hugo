@@ -18,7 +18,7 @@ Flappers, flirtation, and farce! [Des Moines Metro Opera](/scene/companies/des-m
 
 I had the pleasure of attending Des Moines Metro Opera's first [Young Friends at the Opera] (http://desmoinesmetroopera.org/youngfriends/) event prior to the performance. The group enjoyed cocktails and socialized on the stage, followed by a dinner and a brief informative lecture on *Die Fledermaus*. We were even serenaded by the Young Artists during our dinner which was a nice surprise. If you are looking for a fun way to treat yourself and enhance your opera going experience, then I highly recommend it. (Not to mention the price is definitely a bargain.) I sincerely hope that the opera company continues these kinds of events geared towards younger audience members in their future seasons.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530045912773/iDSC_4764.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530045912773/iDSC_4764.jpg.jpg)
 <figcaption>A scene from *Die Fledermaus*, Des Moines Metro Opera, 2018. Photo: (c) Duane Tinkey for Des Moines Metro Opera.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Set in the 1920s, the production of *Die Fledermaus* felt like a party worthy of
 
 The orchestra, under the direction of Robert Moody, was light, frothy, and refined. Strauss's music evokes the feeling of dance at all times, and I had to resist the urge to jump up and start waltzing along to the overture. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530045906083/iDSC_4687.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530045906083/iDSC_4687.jpg.jpg)
 <figcaption>A scene from *Die Fledermaus*, Des Moines Metro Opera, 2018. Photo: (c) Duane Tinkey for Des Moines Metro Opera.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ The cast of *Die Fledermaus* had great chemistry and comedic timing. [Anna Chris
 
 Prince Orlovsky, sung by Sarah Larsen, was ambiguous and quirky in the best way. Orlovsky's presence brought out amusing reactions in the other characters, and Larsen perfectly captured his boredom and superiority in her performance of his aria, "Chacun à son gout."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530045899165/iDSC_4806.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530045899165/iDSC_4806.jpg.jpg)
 <figcaption>A scene from *Die Fledermaus*, Des Moines Metro Opera, 2018. Photo: (c) Duane Tinkey for Des Moines Metro Opera.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ The male characters of the opera were all enjoyable and humorous. Troy Cook was 
 
 Although Frosch is a relatively minor character in the operetta, Brian Frutiger quite frankly stole the entire last act in my opinion. His physical comedy and drunken slur had the audience in stitches during his first scene, and I think he could have kept ad libbing for an hour without any complaints from the crowd. (If someone could please write "Frosch, the One Man Show: Starring Brian Frutiger", I would buy a ticket immediately!)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530045888528/iDSC_5041.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530045888528/iDSC_5041.jpg.jpg)
 <figcaption>A scene from *Die Fledermaus*, Des Moines Metro Opera, 2018. Photo: (c) Duane Tinkey for Des Moines Metro Opera.</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ I must once again commend Des Moines Metro Opera's use of dance in their product
 
 What took this production of *Die Fledermaus* to the next level was the brilliant staging by David Gately. Often party scenes in operas have so much going on that it can be overwhelming to watch. Gately managed to craft scenes that were visually broad and stimulating without being distracting. The pacing was energetic without any awkward lulls, and the opera chorus, under the direction of Lisa Hasson, was used strategically to add subtle layers of visual interest and supply the lush vocal backdrop of Strauss's music.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530045874593/iDSC_5110.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530045874593/iDSC_5110.jpg.jpg)
 <figcaption>A scene from *Die Fledermaus*, Des Moines Metro Opera, 2018. Photo: (c) Duane Tinkey for Des Moines Metro Opera.</figcaption>
 </figure>
 

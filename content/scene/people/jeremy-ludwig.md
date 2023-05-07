@@ -8,6 +8,7 @@ related_companies = ["scene/companies/opera-5.md","scene/companies/essential-ope
 slug = "jeremy-ludwig"
 title = "Jeremy Ludwig"
 website = "http://www.jeremyludwig.com/"
+_template = "people_single"
 +++
 
 Baritone Jeremy Ludwig performs regularly on concert and opera stages across the country. Recent opera credits include Bartolo in Rossini’s *Il Barbiere di Siviglia* with BrottOpera and Cowtown Opera, and Marcello in Puccini’s *La Bohème*, with Jeunesses Musicales du Canada and Cowtown Opera.

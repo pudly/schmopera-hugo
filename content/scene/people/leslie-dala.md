@@ -11,6 +11,7 @@ title = "Leslie Dala"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/lesdala"
+_template = "people_single"
 +++
 
 <p>

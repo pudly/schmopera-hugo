@@ -16,6 +16,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/annleighallen"
 
+_template = "people_single"
 +++
 Soprano Leigh-Ann Allen is known for her versatility in many vocal genres and has developed significant roles in both modern and classic soprano repertoire. Most recently in Italy she performed Suor Genovieffa in Puccini's _Suor Angelica_. Other credits include Rose in _Street Scene_, Jeanette in the Canadian debut of _Too Many Sopranos_, Poppea in _L'incoronazione di Poppea_, and has sung with Pacific Opera Victoria in _Madama Butterfly_. In demand as a solo artist, Ms Allen has sung the Fauré _Requiem_, Schubert _Ständchen_, and Ligeti's challenging chamber work _Aventures_, and _Messiaen's Poèmes pour Mi_.
 

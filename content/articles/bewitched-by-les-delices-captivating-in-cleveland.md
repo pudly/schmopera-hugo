@@ -23,7 +23,9 @@ The four composers involved, all of the French baroque, are not widely known wit
 
 The gleaming Georgian Colonial architecture of the Plymouth Church in the Cleveland suburb of Shaker Heights, the setting for the entire series, is in the fullest sense of the phrase, simply elegant. Nagy and her group appear in the perfect environment for their naturalistic style of video that revels in dramatic fades to black, subtle cross fades and deft use of camerawork and lighting. The passing from day to night, from a sun-filled hall to one of intense lighting and dramatic shadow, is visually alluring.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1603821410/media/2020/10/Bewitched-2_qultjx.png){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1603821410/media/2020/10/Bewitched-2_qultjx.png)
 
 <figcaption>"Bewitched", presented by Les Délices, 2020.</figcaption>
 
@@ -35,7 +37,9 @@ The concert, lasting just over an hour, is essentially "live" with interspersed 
 
 The ensemble, in addition to Edwards at the harpsichord, consists of Nagy on baroque oboe and recorder, Julie Andrijeski playing baroque violin and Rebecca Reed on cello and viola da gamba. Their rendition of "La Françoise Sonade" marked by close communication and a restrained flair for shifting moods, creates an atmospheric backdrop for the mythological meltdown that follows. These musicians are finely tuned to each other. Watch as the camera captures their many communicative moments, especially with De Priest. We would likely miss these in live performance but the sensitive camerawork guides the eye.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1603821421/media/2020/10/Bewitched-3_iqzncf.png){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1603821421/media/2020/10/Bewitched-3_iqzncf.png)
 
 <figcaption>"Bewitched", presented by Les Délices, 2020.</figcaption>
 
@@ -45,7 +49,9 @@ Chicago-based De Priest, to whose voice adjectives like "sparkling" and "shining
 
 If any of the four composers are due for a resurgence, it's Royer. Composing in the shadow of the more famous Jean Phillippe Rameau, Royer's "Le Vertigo" takes the harpsichord to rather startling heights. Edwards calmly explains that the work is a dialogue and we are never in doubt as to who is talking. With repeated turns that switch from the deferential to unrelenting intensity, Edwards is the epitome of virtuosity. His crisp articulation and hold on the perfect balance between the confines of the score and technical dynamics ignite the heretofore prim harpsichord.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1603821432/media/2020/10/Bewitched-4_e0nyag.png){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1603821432/media/2020/10/Bewitched-4_e0nyag.png)
 
 <figcaption>"Bewitched", presented by Les Délices, 2020.</figcaption>
 

@@ -17,6 +17,7 @@ url = "https://twitter.com/OperaGaga?lang=en"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/operagaga/"
+_template = "people_single"
 +++
 
 Hailed by the New York Times for her "clear, pealing voice" (Scarlatti's *L'Arianna-The Arianna Project*, Musica Nuova) and by Opera News for her “best all-around performance” (Handel's *Ariodante* - The Princeton Festival) classical soprano Marcy Richardson is a versatile artist with a passion for baroque, contemporary music, cabaret, pole and aerial dance, and burlesque.

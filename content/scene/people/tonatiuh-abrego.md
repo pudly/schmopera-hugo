@@ -11,6 +11,7 @@ title = "Tonatiuh Abrego"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/TonatiuhAbrego1/"
+_template = "people_single"
 +++
 
 A native of Ottawa, Tenor, Tonatiuh Abrego is a graduate of the Calgary Opera Emerging Artist 2013/2014 program. He was last seen performing the leading role of Male Chorus in *The Rape of Lucretia* as well as The Witch in *Hansel and Gretel*, both with Calgary Opera. In Opera Nuova’s production of *L’Elisir d’amore*, he played the leading role of Nemorino. Other past credits include Count Almaviva in Capital City Operas production of *Il barbiere di Siviglia*, Don Ottavio and Mr. Craven in The Banff Centre’s Opera productions of *Don Giovanni* and *The Secret Garden* and Scaramuccio and Tanzmeister in Opera Nuova’s production of *Ariadne auf Naxos*. He was seen in many of Opera McGill's productions, including Britten's *The Turn of the Screw* (directed by Tom Diamond) singing the Prologue and sang the roles of Edgardo from *Lucia de Lamermoor*, The Duke of Mantua from *Rigoletto*, Nadir from *Les Pêcheurs des Perles*, Ferrando from *Cosi fan tutte* and Tamino from *Die Zauberflöte* in various Opera scenes performances. He recently finished his Master’s degree in Voice Performance at the Schulich School of Music in Montreal after having also completed his Bachelors of Music under the guidance of Professor Stefano Algieri. 

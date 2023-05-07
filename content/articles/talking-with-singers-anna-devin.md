@@ -28,7 +28,9 @@ Singing in *L'enfant* will add a bit of variety to Devin's calendar, which is mo
 
 Singing Handel, Devin revels in the endless options in his scores. "I love the fact that Handel gives you freedom to be a musician, and not just a singer," she explains. While some singers prefer the feeling of vocal spaciousness in the music of Puccini, Strauss, and other Romantics, Devin feels "completely at home in Handel" and relishes the collaborative process of pulling the music off the page. "You can't actually be wrong; you can have a difference of opinion between you and the conductor, but there's nothing to say that you're wrong. And I quite like that, because it means we can have interesting discussions about why you should do one thing and why you shouldn't do another."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459795840308/2016-04-04---Devin-Handel_Faramando.jpg.jpg)<figcaption>Anna Devin as Clotilde in Handel's *Faramondo*, Göttigen Handel Festival, 2014.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459795840308/2016-04-04---Devin-Handel_Faramando.jpg.jpg)<figcaption>Anna Devin as Clotilde in Handel's *Faramondo*, Göttigen Handel Festival, 2014.</figcaption>
 </figure>
 
 When a singer carves out a niche for oneself, finding comfort and affinity in certain repertoire, it's often a balance between capitalizing on one's strengths, and staying versatile. Devin spent time as a Jette Parker Young Artist the [Royal Opera House](/scene/companies/royal-opera-house/), where she took advantage of a diversity of roles. "I got to look at First Nymph in *Rusalka*, I did some Donizetti, some Puccini, I did Mozart, I did some contemporary music. I'm really glad I didn't just pigeon-hole myself into Early Music."
@@ -41,7 +43,9 @@ It can be an intimidating thing for a young singer to have a hunch about their v
 
 Devin has learned to differentiate between opinions and criticisms of her voice, verses of her person. "Not everyone's going to like you," she admits. "That's another thing we have to learn. Some people will really love you, and some people might really dislike your singing. And it's nothing to do with what you're doing, it's just that they don't like your voice, they don't have an affinity with the sound that you make."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459795920741/2016-04-04---JPYA_photo-Richard_H._Smith-3338_DEVIN_AS_MARIE_C_SMITH.jpg.jpg)<figcaption>Anna Devin as Marie in the Jette Parker Young Artists in the Linbury, 2012. Photo by Richard H. Smith.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459795920741/2016-04-04---JPYA_photo-Richard_H._Smith-3338_DEVIN_AS_MARIE_C_SMITH.jpg.jpg)<figcaption>Anna Devin as Marie in the Jette Parker Young Artists in the Linbury, 2012. Photo by Richard H. Smith.</figcaption>
 </figure>
 
 ## Roles to look forward to

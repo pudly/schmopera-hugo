@@ -18,13 +18,17 @@ The 14 short films, featuring both classic operatic excerpts and original scores
 
 The films' stories are diverse: an intoxicated Elvis in a kebab shop, a young ghazal singer pursuing her dreams, a fish who sings its own requiem, and one tenor's take on *Carmina Burana* that promises to be "the biggest, boldest, and sexiest operatic flash mob the internet has ever witnessed."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484564347023/2017-01-16---La-Donna-Mobile.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484564347023/2017-01-16---La-Donna-Mobile.jpg.jpg)
 <figcaption>*Women Are Fickle*, by Francesca Levi.</figcaption>
 </figure>
 
 The collection also features both film projects by Scott Joiner and Adam Taylor, their [*Connection Lost: The Tinder Opera*](/has-everyone-seen-the-tinder-opera/), and their most recent release, [*Something Blue: The Bachelor Opera*](/something-blue-the-bachelor-opera/).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484564222090/2017-01-15---metube2-August-sings-Carmina-Burana.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484564222090/2017-01-15---metube2-August-sings-Carmina-Burana.jpg.jpg)
 <figcaption>*MeTube 2: August sings Carmina Burana*, by Daniel Moshel and August Schram.</figcaption>
 </figure>
 

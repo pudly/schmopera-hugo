@@ -20,7 +20,7 @@ The company also employs the closest thing the Canadian opera scene has to a Eur
 
 Opera Atelier's is one of the most recognizable styles in the Canadian opera scene, and clearly, they're doing something extremely right. Such longevity and stylistic commitment puts Atelier among the upper echelon of Canadian opera companies in Canada - a feat more impressive when we consider that they specialise exclusively 17th- and 18th-century baroque opera. It's almost impossible to resist saying it: "If it ain't baroque, don't fix it."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539648480704/170522_MASTER_21173.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539648480704/170522_MASTER_21173.jpg.jpg)
 <figcaption>Jeannette Lajeunesse Zingg and Marshall Pynkoski in the Palace of Versailles. Ms. Zingg is wearing a gown by Reem Acra, generously provided by The Room at Hudson's Bay. Photo by Bruce Zinger.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ The two operas tell of humans who transform into something non-human, and vice v
 
 Perhaps it's on purpose, or maybe it's a fitting coincidence, but this metamorphosis-themed production also brings to Opera Atelier some stark novelty. For the first time, the company has named an Artist in Residence: tenor Colin Ainsworth, who sings the title roles in both *Actéon* and *Pygmalion*, as well as in Atelier's spring 2019 production of Mozart's *Idomeneo*. Ainsworth takes a centre-stage role this season, and he'll also work with masterclasses and outreach programs established by Atelier. "This is the time for Colin, to really hosw him off not just here, but internationally," says Pynkoski, looking ahead to Atelier's upcoming tours to Versailles and Chicago. "We have a real Canadian treasure here, and he's to be celebrated."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539648488598/OperaAtelier_ColinAinsworth.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539648488598/OperaAtelier_ColinAinsworth.jpg.jpg)
 <figcaption>Colin Ainsworth is Opera Atelier's 2018-2019 Artist in Residence. *Armide* photo by Bruce Zinger.</figcaption>
 </figure>
 

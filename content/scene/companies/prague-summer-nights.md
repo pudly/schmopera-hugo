@@ -12,6 +12,7 @@ website = "http://www.praguesummernights.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/PragueSummerNights"
+_template = "company_single"
 +++
 
 The young musicians of the Prague Summer Nights Young Artists Music Festival travel to the beautiful and historic city of Prague this summer for concerts and opera performances, including fully staged performances of Mozart’s *Don Giovanni* under the stage direction of opera legend Sherrill Milnes and his wife Maria Zouves. These performances, using the famous 2002 production, sets and costumes of the Czech National Theatre, will be given in the Estates Theatre in Prague, where *Don Giovanni* was premiered under Mozart’s baton in 1787. The Estates Theatre is the only remaining theater in the world where Mozart conducted, and scenes from *Amadeus* were filmed there. Participants in the program will live in the heart of historic Prague, and rehearse daily at the Prague State Opera House and the Estates Theatre.

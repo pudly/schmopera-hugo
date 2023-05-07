@@ -8,6 +8,7 @@ social_media = []
 title = "Brenna Corner"
 website = "https://www.brennacorner.com/"
 
+_template = "people_single"
 +++
 Brenna Corner has worked as a director, actor, singer, choreographer, and fight director across Canada, the United States and Europe. Brenna has been a member of the Yulanda M. Faris Young Artist Program with Vancouver Opera as well as the Atlanta Studio Artist Program. Ms. Corner is also the artistic director of Manitoba Underground Opera in Winnipeg, Canada.
 

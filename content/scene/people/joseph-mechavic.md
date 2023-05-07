@@ -15,6 +15,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/mojoemech"
 
+_template = "people_single"
 +++
 Conductor Joseph Mechavich’s passion and commitment to excellence in the art form has helped to forge strong personal and career-defining relationships with a number of opera companies and orchestras in the United States and abroad. Maestro Mechavich has presided over productions of _Porgy and Bess_ for Deutsche Oper Berlin, _Nixon in China_ for Auckland Philharmonia/New Zealand Opera, _Il barbiere di Siviglia_ for The Washington National Opera, _Madama Butterfly_ for New York City Opera, _Riders of the Purple Sage_ for Arizona Opera and _Roméo et Juliette_ for Florida Grand Opera. “One of the best things about this production \[Roméo et Juliette\] is the conducting of Joseph Mechavich, who led the proceedings superbly...You rarely hear this score with the kind of big-boned force with which Gounod wrote it, but Mechavich let it rip, with first rate results.” (Palm Beach Artspaper). 
 

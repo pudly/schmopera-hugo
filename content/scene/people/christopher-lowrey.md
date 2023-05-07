@@ -17,6 +17,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ChrisALowrey"
 
+_template = "people_single"
 +++
 Upcoming engagements include a concert tour of Pergolesi _Stabat Mater_ with superstar French soprano Sandrine Piau and Les Talens Lyriques, conducted by Christophe Rousset, which will also be released as a recording later this year, a concert of Bach and Vivaldi in Hong Kong with British group Arcangelo, directed by Jonathan Cohen, Handel _Theodora_ (Didymus) with Potsdamer Winteroper, a world premiere of a new 17th-century work by Legrenzi, _La Divisione del Mondo_ (Marte) for l’Opéra national du Rhin in Strasbourg and Nancy, a North American and European tour of Handel _Semele_ (Athamus) with The English Concert directed by Harry Bicket, culminating in Christopher’s Carnegie Hall debut, and Steffani _Orlando Generoso_ (Ruggiero) for the Boston Early Music Festival, conducted by Stephen Stubbs and Paul O’Dette.
 

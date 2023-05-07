@@ -18,7 +18,9 @@ title = "Summer of love: Bampton Opera presents The School of Jealousy"
 
 And suddenly *La scuola* is no longer so obscure – an excellent new recording has been issued on the Deutsche Harmonia Mundi label, recorded from live concert performances given in Leverkusen, Germany in December 2015 by L'arte del mondo, conducted by Werner Ehrhardt.  Late in 2016 a staged production was organized by Fondazione Culturale Antonio Salieri di Legnano, and toured to several Italian theatres including Florence; currently there is a production in Vienna in the Kammeropera mounted by Theater an der Wien, and in the autumn there will be another production by Opera Joven in Uruguay.  It's hard to explain the coincidence of all this interest but it certainly suggests a vote of confidence in the merits of the piece.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497046348133/2017-06-09---Nancy-Storace-image.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497046348133/2017-06-09---Nancy-Storace-image.jpg.jpg)
 <figcaption>Nancy Storace, soprano and creator of the role of Susanna in *Le nozze di Figaro*.</figcaption>
 </figure>
 
@@ -36,7 +38,9 @@ That jealousy is as old as love!  The "school" is referenced early in Act 2 when
 
 The final reconciliation of the couples, as in *Così*, hardly suggests that they will live happily ever after.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497046457194/2017-06-09---Bampton-Classical-Opera---Deanery-Garden-Bampton-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497046457194/2017-06-09---Bampton-Classical-Opera---Deanery-Garden-Bampton-2.jpg.jpg)
 <figcaption>The Deanery Garden, Bampton, Oxfordshire.</figcaption>
 </figure>
 

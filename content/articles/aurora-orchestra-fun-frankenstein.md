@@ -22,7 +22,7 @@ There's a trope in various mythologies about how it's a horrific crime to give h
 
 It's worth remembering that the full title of Mary Shelley's 1818 book is *Frankenstein; or, the Modern Prometheus*. In Grüber's work, the chansonnier takes listeners through various chapters, each a mysterious, storytelling-on-steroids look at various pushers of human limitations. Along with Dr. Frankenstein, we heard weird tales of Dracula, Goldfinger of James Bond lore, John Wayne, Superman, Batman & Robin, and werewolves. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464635504474/2016-05-31---NR-16-05-20-069.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464635504474/2016-05-31---NR-16-05-20-069.jpg.jpg)
 <figcaption>Marcus Farnsworth in rehearsal with the Aurora Orchestra. Photo: Nick Rutter.</figcaption>
 </figure>
 
@@ -30,13 +30,13 @@ Baritone [Marcus Farnsworth](/scene/people/marcus-farnsworth/) joined the Aurora
 
 The Aurora Orchestra joined in the fun, too. They wielded noisemakers, toy pianos, and whirley tubes (those singing tube-shaped instruments that make sound when you spin them around in the air above your head); the sights were as bizarre as the sounds, and the whole effect spoke both to the child and the lover of the weird within us all. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464635537917/2016-05-31---NR-16-05-20-316.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464635537917/2016-05-31---NR-16-05-20-316.jpg.jpg)
 <figcaption>Nicholas Collon and Marcus Farnsworth in rehearsal with the Aurora Orchestra. Photo: Nick Rutter.</figcaption>
 </figure>
 
 *Playing with Fire* was our first chance to hear Aurora Orchestra, and they were refreshing not only because of Grüber's music. They're a comparably young group of players, and when possible, most of them stood while they played (excluding, forgivably, the cellists); they let the music speak for itself, without forgetting that they were putting on a show and that being a part of an orchestra could be *fun*. The intimate setting of this programme meant that each listener experienced a slightly different performance, aurally and visually; the orchestra seemed to be working *with* the elements of live music, pairing their collective skill with their individual personalities.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464635574241/2016-05-31---NR-16-05-20-348.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464635574241/2016-05-31---NR-16-05-20-348.jpg.jpg)
 <figcaption>Photo: Nick Rutter.</figcaption>
 </figure>
 

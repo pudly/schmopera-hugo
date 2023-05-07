@@ -16,6 +16,7 @@ url = "https://twitter.com/tshivone"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/tshivone/"
+_template = "people_single"
 +++
 
 Thomas Shivone, a bass-baritone,  has received critical acclaim for both singing and acting in opera, concert, and recitals. He is a recent graduate of the Curtis Institute of Music in Philadelphia and earned a Masters Degree in Voice and Opera.

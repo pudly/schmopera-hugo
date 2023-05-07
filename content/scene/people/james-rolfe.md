@@ -8,6 +8,7 @@ related_companies = ["scene/companies/canadian-opera-company.md","scene/companie
 slug = "james-rolfe"
 title = "James Rolfe"
 website = "http://www.jamesrolfe.ca/"
+_template = "people_single"
 +++
 
 Toronto composer James Rolfe (b. Ottawa, 1961) has been commissioned and performed by ensembles, orchestras, choirs, and opera companies in Canada, the USA, Europe, and New Zealand. His work has been recognized with a Guggenheim Fellowship (2000), the K. M. Hunter Music Award (2003), the Louis Applebaum Composers Award (2005), the Jules Léger Prize for New Chamber Music (2006), and SOCAN’s Jan V. Matejcek Concert Music Award (2009).

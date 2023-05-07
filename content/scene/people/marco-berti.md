@@ -12,6 +12,7 @@ title = "Marco Berti"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/BertiMarco"
+_template = "people_single"
 +++
 
 Marco Berti is the Italian tenor currently most sought-after by the world’s major opera houses, where he is appreciated for the splendid quality of his voice, his timbre “all’italiana”, the force of his high register, his innate musicality, his stage presence and artistic accomplishment.

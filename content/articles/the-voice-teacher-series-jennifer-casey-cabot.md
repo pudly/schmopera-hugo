@@ -25,7 +25,9 @@ A voice teacher addresses the total package pertaining to singing.  Technique, e
 
 When I hear "good singing" I feel drawn in to what the performer is doing.  I sense their connection to the music and the text and I am no longer aware of the difficulty of it.  In the presence of "good singing" I feel enveloped in the singer's voice and at ease.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524862696559/headshot%20sitting%20in%20chair%20JCC.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524862696559/headshot%20sitting%20in%20chair%20JCC.jpg.jpg)
 <figcaption>Photo: Alexander Vasiljev Photography.</figcaption>
 </figure>
 

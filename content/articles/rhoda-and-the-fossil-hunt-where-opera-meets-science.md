@@ -19,7 +19,9 @@ title = "Rhoda and the Fossil Hunt: where opera meets science"
 
 Kids are much more open about opera. They have very few preconceptions. When the audience is just children, they tend to be much more enthusiastic than adult audiences. For *Rhoda and the Fossil Hunt*, children will be there with their parents, and children behave differently when with their parents. So we'll see.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505351272348/2017-09-13---Orth_Robert.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505351272348/2017-09-13---Orth_Robert.jpg.jpg)
 <figcaption>Robert Orth, baritone.</figcaption>
 </figure>
 

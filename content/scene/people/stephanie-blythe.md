@@ -12,6 +12,7 @@ website = "http://www.stephanieblythemezzo.com/f"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/StephanieBlytheMezzo?fref=ts"
+_template = "people_single"
 +++
 
 Mezzo-soprano Stephanie Blythe is considered to be one of the most highly respected and critically acclaimed artists of her generation.

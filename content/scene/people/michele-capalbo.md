@@ -9,6 +9,7 @@ related_companies = ["scene/companies/edmonton-opera.md","scene/companies/canadi
 slug = "michele-capalbo"
 title = "Michele Capalbo"
 website = "http://www.michelecapalbo.com/index.html"
+_template = "people_single"
 +++
 
 Rarely is the opera world treated to the talents of a genuine Verdian soprano, Michele Capalbo is that rarity. Whatever the role, Michele’s portrayal of her characters’ emotional and psychological journey are tempered by a remarkable discipline of the bel canto vocal tradition. Her consistently stunning performances make clear Michele’s talents include a devotion to classical singing’s inherent beauty and drama; a commitment that succeeds in creating an authentic emotional connection with audiences. 

@@ -18,7 +18,9 @@ title = "Must-see mash-ups: Mozart vs Machine"
 
 Described as an "electronic essay collage opera", the piece by composer Dominic Robertson was developed through Mahogany's [Various Stages](https://www.mahoganyoperagroup.co.uk/productions/various-stages) programme. It's a multimedia mash-up of Mozart and electronic music, and places two major musical figures in a "theatrical sci-fi-gameshow encounter".
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502986943659/2017-08-18---MozartVsMachine_Folkestone_091.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502986943659/2017-08-18---MozartVsMachine_Folkestone_091.jpg.jpg)
 <figcaption>*Mozart vs Machine* dress rehearsal, Folkestone Quarterhouse, 3 February 2017. Photo: John Stevens/ Qu Junktions.</figcaption>
 </figure>
 
@@ -26,7 +28,9 @@ Described as an "electronic essay collage opera", the piece by composer Dominic 
 
 Robertson's work is a surreal combination of live and pre-recorded music, shadow puppetry, and video images. "It's really asking a question about authorship," adds Wake-Walker, who like Robertson, sees a stark difference between the idea of the artist in the 18th century - the "genius" of Mozart, for example - and in the present. With so much art being created and with creative tools so universally accessible, it's as though "we're all artists."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502986954023/2017-08-18---MozartVsMachine_Folkestone_235.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502986954023/2017-08-18---MozartVsMachine_Folkestone_235.jpg.jpg)
 <figcaption>*Mozart vs Machine* dress rehearsal, Folkestone Quarterhouse, 3 February 2017. Photo: John Stevens/ Qu Junktions.</figcaption>
 </figure>
 
@@ -42,7 +46,9 @@ To generate music, Scott experimented with sounds that were seemingly random; Mo
 
 "And then they make love, and give birth to John Cage." Naturally.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502986978247/2017-08-18---MozartVsMachine_Folkestone_142.jpg.jpg)<figcaption>*Mozart vs Machine* dress rehearsal, Folkestone Quarterhouse, 3 February 2017. Photo: John Stevens/ Qu Junktions.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502986978247/2017-08-18---MozartVsMachine_Folkestone_142.jpg.jpg)<figcaption>*Mozart vs Machine* dress rehearsal, Folkestone Quarterhouse, 3 February 2017. Photo: John Stevens/ Qu Junktions.</figcaption>
 </figure>
 
 [*Mozart vs Machine*](https://www.mahoganyoperagroup.co.uk/productions/mozart-vs-machine/dates-tickets/) tours from **September 17 to November 15**, stopping in Bristol, Aldeburgh, Birmingham, Exeter, Aberdeen, the Norwich Arts Centre and London. You can find full details and ticket information by [clicking here.](https://www.mahoganyoperagroup.co.uk/productions/mozart-vs-machine/)

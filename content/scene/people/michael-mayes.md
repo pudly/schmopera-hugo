@@ -8,6 +8,7 @@ social_media = []
 title = "Michael Mayes"
 website = "https://www.michaelmayesbaritone.com/"
 
+_template = "people_single"
 +++
 With a “powerful” voice and an “arresting stage presence”, baritone Michael Mayes is known for his consummate portrayals of modern operatic masterpieces as well as iconic characters in the standard operatic repertoire. Originally from Cut and Shoot, Texas, Mayes has performed with opera companies across the United States including Washington National Opera, Dallas Opera, Nashville Opera, Boston Lyric Opera, Des Moines Metro Opera, Central City Opera, New Orleans Opera, Michigan Opera Theater, and Fort Worth Opera. 
 

@@ -32,7 +32,9 @@ Dancer and Choreographer Jennifer Nichols (HitAndRun Productions, The Extension 
 
 "I'm so excited to move into the next stage of creation and workshopping for *Synesthesia IV* with Jonathan and Amanda Smith and the three selected composers.  The manner in which this project has been structured, with three years of development, to arrive at a final full length is wonderful.  It gives the work a chance to truly evolve and grow over time, and the artists will do so as well in the process."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481230743364/2016-12-8---51-FAWN-2016.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481230743364/2016-12-8---51-FAWN-2016.jpg.jpg)
 <figcaption>The FAWN Chamber Creative team. Photo courtesy of FAWN.</figcaption>
 </figure>
 

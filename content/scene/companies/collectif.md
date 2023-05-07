@@ -20,6 +20,7 @@ url = "https://twitter.com/CollectifTO"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/collectifto/"
+_template = "company_single"
 +++
 
 Collectìf is dedicated to exploring and expanding the world of art song performance

@@ -16,7 +16,9 @@ As their annual Lenten Oratorio offering, the Haymarket Opera Company presented 
 
 Structurally the oratorio comprises two sections: the first pits Pontius Pilate against the masses who are clamoring for the release of Barabbas (a rebel detained by Roman governor at the same time as Jesus Christ) and the crucifixion of Jesus. In the second part, the Virgin Mary laments the death of her son among the demons of Hell. Throughout, the music alternated between ensemble sections in a Italian madrigal style, and solo airs for Pilate, a Demon, and Mary that seemed more like very lyrically sung accompanied recitative than full-blown arias. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520648269125/IMG-4894.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520648269125/IMG-4894.jpg.jpg)
 <figcaption>Luigi Rossi's *Oratorio per la settimana santa*, Haymarket Opera Company, 2018.</figcaption>
 </figure>
 

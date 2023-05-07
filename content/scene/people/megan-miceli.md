@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/meg_miceli/"
 
+_template = "people_single"
 +++
 Canadian Soprano Megan Miceli has been praised for her “bright, pure, well focused high lyric soprano, with admirably steady and evenly produced tone” (_Musical Toronto_).  Some role highlights include Mother/Gravedigger/Guilt Spectre in the world premiere of _Ghost Opera_, music by Veronika Krausas, commissioned by The Old Trout Puppet Workshop in partnership with the Banff Centre for the Arts and Creativity and Calgary Opera, The Mother (_Amahl and the Night Visitors_), Papagena (_The Magic Flute_), Berta (_Il Barbiere di Siviglia_), the title character in Dawn Sonntag’s new opera _Evangeline_, Morgana (_Alcina_), Aurore (_Le portrait de Manon_), Despina (_Così fan tutte_), Giannetta (_L’elisir d’amore_), and Rose (_At the Statue of Venus_).
 

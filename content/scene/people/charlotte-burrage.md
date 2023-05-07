@@ -11,6 +11,7 @@ title = "Charlotte Burrage"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/burragec"
+_template = "people_single"
 +++
 
 <p>

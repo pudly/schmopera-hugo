@@ -33,7 +33,9 @@ _Hansel and Gretel_ is for everyone in the same way that a really good Disney mo
 
 This particular production is very appealing to all ages. The puppets from Old Trout Puppet Workshop add a lot of visual interest and the scale that director Brenna Corner has been able to accomplish by making things so oversized that it makes us look small helps make it more interesting for everyone, not just children. She has focused on the less gruesome aspects of the story. I've seen other productions that have been made to be seen about child abuse. This one is not as dark as that. It hints at it because it's in there. It makes you questions why would those parents send those kids out so late. It makes me think about moments when you’re so stressed or tired that you maybe react more strongly than you would normally.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580745251/media/2020/02/SDOHansel2C8A0580_jvugol.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580745251/media/2020/02/SDOHansel2C8A0580_jvugol.jpg)
 
 <figcaption>Blythe Gaissert (on floor, left) in rehearsal for Hansel and Gretel, San Diego Opera, 2020. Photo courtesy of San Diego Opera.</figcaption>
 
@@ -61,7 +63,9 @@ Because I feel I have the training, it doesn't affect me technically in a negati
 
 It's essential. I like to say I'm a singing actor. Obviously in opera, you have to be able to sing and you have to be able to express the text vocally in the best way. The acting is part of that. In my teaching, I always say if you really embrace what you’re saying in the text, it will help you sing better. It deepens the commitment physically. You’re going to engage your body, and your breath too, in a more complete way. It's so important.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580745228/media/2020/02/Gaissert_c67xjy.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580745228/media/2020/02/Gaissert_c67xjy.jpg)
 
 </figure>
 

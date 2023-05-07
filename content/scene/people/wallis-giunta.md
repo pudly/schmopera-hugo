@@ -16,6 +16,7 @@ url = "https://www.facebook.com/WallisGiuntaMezzoSoprano?fref=ts"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/WallisGiuntaMezzo"
+_template = "people_single"
 +++
 
 Canadian mezzo, Wallis Giunta, has been praised by OPERA NEWS for her “delectably rich, silver-toned mezzo-soprano, with a beautiful sense of line and effortless, rapid runs”, and her recent jump-in as Mozart’s Sesto for the Canadian Opera Company (COC) was celebrated as “a triumph…remarkable in its combination of intelligence and beauty”. In the 2014/15 season she returns to the Metropolitan Opera as Olga in a new production of *The Merry Widow*, to Opera Lyra Ottawa as Cherubino in *Le Nozze di Figaro*, and to Opera Atelier (Toronto) as Bradamante in a new period-production of *Alcina*. Also, Ms. Giunta made her debut with Madison Opera in their Opera in the Parks gala concert, for which it was noted that, “Her high notes soared; her embellishments sounded effortless”. Further engagements include Mendelssohn’s *Midsummer Night’s Dream* and Beethoven’s Symphony No 9 conducted by Zukerman with the National Arts Centre Orchestra (Canada) and concerts at centres across Canada.

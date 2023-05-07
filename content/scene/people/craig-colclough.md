@@ -12,6 +12,7 @@ website = "http://www.craigcolclough.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/Craig-Colclough-551046165049612/?fref=ts"
+_template = "people_single"
 +++
 
 Craig Colclough began his career at the Los Angeles Opera. After two seasons appearing with the company in various roles, Mr. Colclough joined Florida Grand Opera’s Young Artist Studio, and in 2012, became a Filene Young Artist at the Wolf Trap Opera Company.

@@ -16,6 +16,7 @@ url = "https://www.facebook.com/operacda"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/operacda"
+_template = "company_single"
 +++
 
 ## Mission

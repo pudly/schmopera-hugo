@@ -20,7 +20,9 @@ The stage was set up with a series of clear glass basins, lit from beneath, and 
 
 The choir, Soundstreams's own Choir 21 were incredible. Their dynamic range was incredible and their tuning was spine-tingling. The diction could have been a little crisper, but I'm not sure that is really a priority in this kind of a work. Their haunting harmonies and the divisions of the female and male voices added a neat dimension to the production of the sound. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520974165387/Soundstreams_TanDun_WaterPassion-122.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520974165387/Soundstreams_TanDun_WaterPassion-122.jpg.jpg)
 <figcaption>David Fallis, soprano Carla Huhtanen and Choir 21. Photo by Trevor Haldenby.</figcaption>
 </figure>
 

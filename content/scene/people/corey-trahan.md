@@ -8,6 +8,7 @@ social_media = []
 title = "Corey Trahan"
 website = "https://www.coreytrahan.com/"
 
+_template = "people_single"
 +++
 With over 85 roles in his repertoire, Corey Trahan is an active performer, educator and stage director in opera, oratorio, music theatre, operetta and recital venues. Known for his comic timing, versatile voice, and onstage charisma, he is being seen and heard internationally in repertoire ranging from operatic classics to modern musical theatre.
 

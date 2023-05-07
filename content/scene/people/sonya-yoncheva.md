@@ -26,6 +26,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/TheShlupy"
 
+_template = "people_single"
 +++
 Superstar soprano Sonya Yoncheva has been heralded as one of the most acclaimed and exciting performers of her generation.
 

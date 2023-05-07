@@ -16,6 +16,7 @@ url = "https://www.facebook.com/maria.agresta"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Maria_Agresta"
+_template = "people_single"
 +++
 
 A winner of several music competitions, she made her debut in 2007.

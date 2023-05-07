@@ -20,7 +20,9 @@ Tickets will likely fly, so [click here to grab yours](https://www.tso.ca/concer
 
 Fleming is quite a kick-off to the season, and The TSO offers up still more treats for singer-philes. American mezzo [Jamie Barton](/talking-with-singers-jamie-barton/) joins the orchestra on [**September 28 and 29**,](https://www.tso.ca/concert/mahler-symphony-3) for Mahler's 3rd Symphony, and baritone [Russell Braun](/scene/people/russell-braun/) and soprano [Karina Gauvin](/scene/people/karina-gauvin/) join the TSO for [Fauré's *Requiem*, **February 1 and 2, 2017**](https://www.tso.ca/concert/faur%C3%A9-requiem). On [**March 4**, you can catch throat singer Tanya Tagaq](https://www.tso.ca/concert/tanya-tagaq), 2014 winner of the Polaris Prize, whose work will be premiered along with new music by RBC Affiliate Composer Jordan Pal.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472745517763/2016-09-01---Jamie-Barton---Stacey-Bode.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472745517763/2016-09-01---Jamie-Barton---Stacey-Bode.jpg.jpg)
 <figcaption>Jamie Barton, mezzo-soprano. Photo by Stacey Bode.</figcaption>
 </figure>
 
@@ -30,7 +32,9 @@ On **May 3**, one of our faves, soprano [Carla Huhtanen](https://www.tso.ca/conc
 
 For the patient, on [**June 14 an 15**, the TSO welcomes back director Joel Ivany](/scene/people/joel-ivany/) for a [semi-staged production of Kurt Weill's *Seven Deadly Sins*](https://www.tso.ca/concert/seven-deadly-sins). Sharing the programme with Barber's *Adagio for Strings* and Bartók's *Music for Strings, Percussion, and Celesta*, the cast of singers for Weill's "sung ballet" includes [Wallis Giunta](/scene/people/wallis-giunta/), [Isaiah Bell](/the-business-of-passion/), [Owen McCausland](/scene/people/owen-mccausland/), [Stephen Hegedus](/scene/people/stephen-hegedus/), and [Geoffrey Sirett](/scene/people/geoffrey-sirett/), working with dancer/choreographer Jennifer Nichols. It would be a...*sin*...to miss this one.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472745333722/2016-09-01---Wallis-Giunta---Dario-Acosta.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472745333722/2016-09-01---Wallis-Giunta---Dario-Acosta.jpg.jpg)
 <figcaption>Wallis Giunta, mezzo-soprano. Photo by Dario Acosta.</figcaption>
 </figure>
 

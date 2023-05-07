@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Kelly-Kaduce/103465749688411?ref=br_tf"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/KellyKaduce"
+_template = "people_single"
 +++
 
 <p>

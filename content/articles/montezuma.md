@@ -37,7 +37,9 @@ What's more likely is that Vivaldi had little access to the aesthetic of Aztec m
 
 After all, _Montezuma_ is not really an opera that recounts history; it may revolve around historical figures, but Vivaldi's opera is full of fantasy. The Aztec Emperor grapples with the Spanish invaders (true), his daughter finds unlikely love among the Conquistadors (debatable), and the whole thing wraps up with a definitely fictional happy ending - plus a little old-world Eurocentrism thrown in for good measure. As music critic Mark Swed puts it, _Montezuma_ is the "Baroque equivalent of many a summer movie."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551717295/media/2019/03/RyanKuster.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551717295/media/2019/03/RyanKuster.jpg)
 
 <figcaption>Bass-baritone Ryan Kuster, singing the title role in American Baroque Opera Company's production of Montezuma.</figcaption>
 

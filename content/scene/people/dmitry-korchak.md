@@ -21,6 +21,7 @@ url = "https://www.youtube.com/results?search_query=dmitry+korchak"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/dmitry-korchak/sets/dmitry-korchak"
+_template = "people_single"
 +++
 
 Russian tenor Dmitry Korchak is one of the most exciting and sought-after voices of his generation acclaimed by critics worldwide and regarded as one of today’s best performers of bel canto repertoire. After winning the Francisco Viñas International Singing Competition in Barcelona and two prizes (4th Prize and the Zarzuela Prize) at Plácido Domingo’s Operalia Competition in Los Angeles, both in 2004, Dmitry Korchak has rapidly become a regular guest at the world’s most renowned opera houses and concert venues.

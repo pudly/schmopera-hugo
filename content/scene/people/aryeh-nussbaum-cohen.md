@@ -16,6 +16,7 @@ url = "https://www.facebook.com/AryehNussbaumCohen/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/aryehnc"
+_template = "people_single"
 +++
 
 23-year-old American countertenor Aryeh Nussbaum Cohen is one of opera's most promising rising stars.  In his breakout 2016-2017 season, he was awarded the Grand Prize of the Metropolitan Opera National Council Auditions and was the recipient of a Sara Tucker Study Grant from the Richard Tucker Music Foundation, First Prize winner of the Houston Grand Opera Eleanor McCollum Competition, and winner of the Irvin Scherzer Award from the George London Foundation.  Performances of the season included the world premiere of Kenneth Fuchs' *Poems of Life* with the Virginia Symphony, conducted by JoAnn Falletta, which he records with the London Symphony Orchestra for commercial release in 2018, and concerts with Chicago’s Newberry Consort.  Aryeh Nussbaum Cohen participated in the Merola Opera Program at San Francisco Opera in 2016, and, in the summer of 2017, he joined Wolf Trap Opera as a Studio Artist for a production of Philip Glass and Robert Moran’s *The Juniper Tree*.

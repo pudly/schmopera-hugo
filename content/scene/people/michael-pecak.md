@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/michael_pecak/"
 
+_template = "people_single"
 +++
 Polish-American conductor and pianist Michael Pecak performs to great acclaim throughout the United States, Canada, and Europe. As a conductor, Michael collaborates with numerous American opera companies and festivals, including Chicago Opera Theater, Florida Grand Opera, Opera Saratoga, Opera Festival of Chicago, Winter Opera St. Louis, and Miami Music Festival among others. Based in his hometown of Chicago, Michael is on the music staff at the Northwestern University Opera Theater. As Music Director of the Chicago Citywide Symphony Orchestra, Michael leads major symphonic works by Beethoven, Dvorak, Brahms, Mozart, Tchaikovsky, and others. He has also collaborated with the Baltimore Chamber Orchestra and the Cameristi del Maggio Musicale Fiorentino in Italy.
 

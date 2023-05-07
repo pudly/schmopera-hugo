@@ -20,6 +20,7 @@ url = "https://twitter.com/OperaFive"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/OperaFive"
+_template = "company_single"
 +++
 
 <p>

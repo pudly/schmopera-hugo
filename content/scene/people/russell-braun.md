@@ -10,6 +10,7 @@ slug = "russell-braun"
 title = "Russell Braun"
 website = "http://www.russellbraun.com/"
 
+_template = "people_single"
 +++
 Renowned for his luminous voice “capable of the most powerful explosions as well as the gentlest covered notes” (Toronto Star) baritone Russell Braun rightfully claims his place on the concert, opera and recital stages of the world. His intelligent and thoughtful portrayals of Chou En-lai, Billy Budd, Prince Andrei, Figaro, Papageno, Count Almaviva, Don Giovanni, Pelléas, Eugene Onegin, and The Traveller have captivated audiences. Highlights of the 2021/22 season include Sam _A Quiet Place_ for Opéra national de Paris, Speaker _Die Zauberflöte_ for the Canadian Opera Company and on the concert platform, Britten’s _War Requiem_ with the Tonhalle-Orchester Zürich.
 

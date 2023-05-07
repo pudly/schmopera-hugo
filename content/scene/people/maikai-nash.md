@@ -7,6 +7,7 @@ publishDate = "2015-04-08T10:55:00-04:00"
 slug = "maikai-nash"
 title = "Maika&#039;i Nash"
 website = "http://maikai.ca/home"
+_template = "people_single"
 +++
 
 <p>

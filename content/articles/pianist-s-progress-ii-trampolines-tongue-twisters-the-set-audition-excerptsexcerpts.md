@@ -31,7 +31,9 @@ Getting a répétiteur to sing and play at the same time is actually a very good
 
 If the ideal répétiteur is like an Olympic-sized trampoline, supporting the other athletes in their work while remaining flexible, this insular kind of pianist is more like a concrete block. Sure, it may support you quite well up to a point, but after a few minutes of jumping, things are going to get quite uncomfortable.  As I mentioned above, whether the person is a trampoline or concrete block unfortunately becomes pretty clear after the first few lines of music that they play.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679529759/media/2023/03/Pianistseries_pianoguy_lzy5uf.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1679529759/media/2023/03/Pianistseries_pianoguy_lzy5uf.jpg)
 
 <figcaption>If you work on your own singing, maybe even your neighbours will thank you for it!</figcaption>  
 </figure>
@@ -48,7 +50,9 @@ My advice would be to practise away from the keyboard almost as much as you prac
 
 The traditional audition repertoire in the German-speaking world provides you with plenty of drama and the chance to show a range of operatic styles and the main three operatic languages, though unfortunately Baroque and contemporary music are glaringly absent. The piano parts are very difficult, though after a few auditions you will get used to them, and after a few years they will become like old friends that you are happy to see and reminisce with about all those awkward, difficult and sometimes successful times you have been through together!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679529746/media/2023/03/Pianistseries_Rosenkavalier_czywvt.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1679529746/media/2023/03/Pianistseries_Rosenkavalier_czywvt.jpg)
 
 <figcaption>Sometimes the full-fat beginning of Der Rosenkavalier is requested as a set excerpt. Photo: Robert Workman.</figcaption></figure>
 

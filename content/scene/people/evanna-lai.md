@@ -10,6 +10,7 @@ slug = "evanna-lai"
 title = "Evanna Lai"
 website = "http://www.evannalai.com/"
 
+_template = "people_single"
 +++
 A versatile performer, Canadian mezzo-soprano Evanna Lai is at home on both the operatic and concert stage. Her 2017-18 engagements include chamber and art song recitals, as well as singing Hermia in *A Midsummer Night's Dream* with Yale Opera, Nora in *Riders to the Sea* at the Beethoven Easter Festival in Poland, and Hansel in *Hansel and Gretel* with Connecticut Opera. Recently, she made her professional European and radio debut at the Amsterdam Concertgebouw as Nancy T'ang in *Nixon in China* with the Dutch Youth Orchestra. Upcoming performances include Suzuki in *Madama Butterfly* with Opera Theater of Connecticut and Giovanna in *Rigoletto* with Opera Connecticut.
 

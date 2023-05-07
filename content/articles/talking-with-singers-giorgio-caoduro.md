@@ -29,7 +29,9 @@ The thing that I would have definitely not expected 10 years ago is how hard the
 
 Of course this is not always the case, there are a lot of artistic directors that appreciate and respect experience and craft, but I’ve come to the conclusion that if it’s hard to get to a high level of career, it’s much harder to remain at that level. I call myself very lucky that I’m still doing this job at an high international level and I have to thank the patience and the hard work that I’ve been putting into it.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581622225/media/2020/02/GiorgioCaoduro-Belcore-TeatroallaScala_po2zy2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581622225/media/2020/02/GiorgioCaoduro-Belcore-TeatroallaScala_po2zy2.jpg)
 
 <figcaption>Giorgio Caoduro as Belcore in L'elisir d'amore, Teatro alla Scala, 2010.</figcaption>
 
@@ -47,7 +49,9 @@ I think that being an opera singer is extremely cathartic and lets you be someth
 
 Dandini (from Rossini's _Cenerentola_) and Figaro (from Rossini's _Barber of Seville_) are actually the quintessential likable characters. They are very histrionic and the only ones in the respective operas that break the fourth wall to communicate directly with the audience. When I play those two characters I feel I can be as extrovert and funny as I want to without fearing to be judged.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581622194/media/2020/02/GiorgioCaoduro-Figaro-TeatroallaScala_dtlcp1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581622194/media/2020/02/GiorgioCaoduro-Figaro-TeatroallaScala_dtlcp1.jpg)
 
 <figcaption>Giorgio Caoduro as Figaro in Il barbiere di Siviglia, Teatro Alla Scala, 2010.</figcaption>
 

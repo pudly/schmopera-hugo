@@ -21,7 +21,9 @@ Werner was born in Paris, where she studied cello at the Conservatoire, and for 
 
 In fact, one of her first artistic crises was the choice between pursuing music and science. "I did really enjoy science, and I wanted to keep that going," she says. "I actually decided to study medicine. I did a week, and then I was like, 'Oh my god, I don't know!'" Werner chose to suspend her degree in medicine, and focused her sights again on music. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491650339209/2017-04-08---Werner-Rutter-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491650339209/2017-04-08---Werner-Rutter-2.jpg.jpg)
 <figcaption>Photo by Nick Rutter.</figcaption>
 </figure>
 
@@ -48,7 +50,9 @@ One of those "weird" pursuits is Werner's involvement with [The Hermes Experimen
 
 Most of the quartet studied composition during their university years, and writing music is something that Werner enjoys herself. Now, their exhaustive work has paid off. "For three years we'd be working really hard at contacting people, inviting them to hear our work. Now, festivals contact us, and we're quite busy," she says, adding with a laugh, "We make money now!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476361094887/2016-10-13---SFTE-Rutter-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476361094887/2016-10-13---SFTE-Rutter-1.jpg.jpg)
 <figcaption>Héloïse Werner in *Scenes From The End*. Photo by Nick Rutter.</figcaption>
 </figure>
 
@@ -60,7 +64,9 @@ Werner also keeps busy with her own projects, including her one-woman show, [*Sc
 
 Werner has come to recognize, as a soprano in a competitive industry of many, where her unique strengths lie, and how she can put them to best use. "I think it's true, that unless you're incredibly lucky and have the voice of an angel, that's a lot better than everyone else or has a quality that no one else has, it's incredibly hard to become a 'successful' opera singer." Yet with her strong background as a cellist, and her experience in composition and choral work, Werner has skills that not every professional singer can boast.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476361106548/2016-10-13---STFE-Rutter-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476361106548/2016-10-13---STFE-Rutter-2.jpg.jpg)
 <figcaption>Héloïse Werner in *Scenes From The End*. Photo by Nick Rutter.</figcaption>
 </figure>
 

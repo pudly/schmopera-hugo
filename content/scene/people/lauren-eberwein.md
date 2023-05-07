@@ -18,6 +18,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/LaurenPearlSoprano"
 
+_template = "people_single"
 +++
 Canadian-American settler Lauren Pearl (she/they) is a non-conforming interdisciplinary artist known for her “luscious, rich tone” (_Opera Canada_), “robust, dramatic voice” (_BroadwayWorld_), and for her reputation as “an artist of subtle skill” (Classical CD Choice). Lauren’s mission as a performer is to inspire and invigorate. They strive to question and disrupt conditioned models and structures in order to support equity and inclusivity. Now is the time to be fully present, reconnect with our source, and inspire empathetic awareness through art. Lauren hopes to do this through an interdisciplinary approach to performance art, by blending crafts to engage and welcome audiences through the use of a dynamic artistic spectrum.
 

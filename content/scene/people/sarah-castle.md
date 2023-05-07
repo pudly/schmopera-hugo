@@ -11,6 +11,7 @@ title = "Sarah Castle"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/sarahvcastle"
+_template = "people_single"
 +++
 
 New Zealand-born mezzo-soprano Sarah Castle has been gaining attention for her committed and idiomatic performances of a wide-ranging repertoire spanning over three-and-a-half centuries of different styles and composers.  Based in the UK, she has developed an ongoing relationship with London’s Royal Opera House Covent Garden, where she debuted in 2001 as Tisbe CENERENTOLA and has gone on to sing a variety of roles, including the Wagner roles of Flosshilde and Siegrune in Keith Warner’s production of DER RING DES NIBELUNGEN.

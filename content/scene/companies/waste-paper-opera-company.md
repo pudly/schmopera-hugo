@@ -19,6 +19,7 @@ url = "https://twitter.com/wpopera"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/WastePaperOpera"
+_template = "company_single"
 +++
 
 Founded in 2012. Waste Paper Opera Company is an interdisciplinary collective of artists from Birmingham and beyond, creating experimental, cross-genre music theatre that drives artistic innovation and brings it to the most diverse audience possible, challenging preconceptions of what opera is and can be.

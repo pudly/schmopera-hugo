@@ -21,7 +21,9 @@ When I had first heard about the upcoming performance of Gian Carlo Menotti's _T
 
 Being a huge fan of both [Little Opera Company](/scene/companies/little-opera-company/) and [Flipside Opera](/scene/companies/flipside-opera/) (full disclosure: they have both produced operas of mine) I knew I wanted to see this show. _The Medium_ was certainly compelling, and the ending, where the "fake medium" actually had a real-life encounter with a being from another plane of existence, brought me back to the movie _Ghost_, with Whoopi Goldberg playing the shyster medium and Patrick Swayze being the ghost.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571861784/media/2019/10/OperaFrightNightIMG_9807_vuaz79.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571861784/media/2019/10/OperaFrightNightIMG_9807_vuaz79.jpg)
 
 <figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019. Photo: Heather Milne.</figcaption>
 
@@ -31,7 +33,9 @@ Briefly, the conceit of _The Medium_: A shyster, Baba, posing as the medium Mada
 
 Things take a harrowing turn quickly however, as it soon becomes apparent that Baba has a drinking problem, and her treatment of mute Toby is psychologically and physically abusive.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571861863/media/2019/10/OperaFrightNightIMG_0172_gjvk20.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571861863/media/2019/10/OperaFrightNightIMG_0172_gjvk20.jpg)
 
 <figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019. Photo: Heather Milne.</figcaption>
 
@@ -41,7 +45,9 @@ During one séance, Baba freaks out and jumps up, having felt "a cold hand" at h
 
 To see this opera in such an intimate space as the Salle Antoine-Gaborieau at the Centre Culturel Franco-Manitobain was very interesting on so many levels. How often do you get to hear, up close, exquisite voices like Jessica Kos-Whicher's (who expertly sang and acted the part of Monica, Baba's daughter)? It makes me think back to the times where operas were more typically performed in smaller spaces, not in giant concert halls. There is something about having the singers moving dynamically through the audiences that is very appealing in this intimate venue.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571861873/media/2019/10/OperaFrightNightIMG_9583_ampogq.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571861873/media/2019/10/OperaFrightNightIMG_9583_ampogq.jpg)
 
 <figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019. Photo: Heather Milne.</figcaption>
 
@@ -51,7 +57,9 @@ In the opening piece, _The Face on the Barroom Floor_ by Henry Mollicone, Don La
 
 The efficacy of the intimate venue was brought to the fore many times, but memorably when Tom/John comes over to far stage right, and our eyes follow him there as his performance is so compelling. Meanwhile, the other part of the performance space is being silently reset with new characters, and when they start to sing, we look over there and they have been magically transformed! I love simple stagecraft – doing more with less. Kudos to stage director Jacqueline Loewen for these small but effective details, and for keeping all the action moving, everything vibrant and interesting. (You can read [more about Ms. Loewen's expertise](https://www.winnipegfreepress.com/arts-and-life/entertainment/arts/pulling-your-punches-563162192.html).)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571861997/media/2019/10/OperaFrightNightIMG_9679_yf38rt.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571861997/media/2019/10/OperaFrightNightIMG_9679_yf38rt.jpg)
 
 <figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019. Photo: Heather Milne.</figcaption>
 
@@ -61,7 +69,9 @@ Musical Director Lisa Rumpel played the piano with skill and panache, partnering
 
 Donnalynn Grills was absolutely devastating at Baba/Madame Flora. Grills left it all on the stage floor (to use a sports metaphor). The amount of emotion and energy she put into her character's maniacal laughter, fear, abusive pummellings and Jekyll-and Hyde remonstrations of poor pitiful Toby were awful to observe – and I mean that as a compliment.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571862008/media/2019/10/OperaFrightNightIMG_9980_bsz5yx.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571862008/media/2019/10/OperaFrightNightIMG_9980_bsz5yx.jpg)
 
 <figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019. Photo: Heather Milne.</figcaption>
 

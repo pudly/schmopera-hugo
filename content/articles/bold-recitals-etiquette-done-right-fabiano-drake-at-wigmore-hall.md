@@ -28,7 +28,9 @@ After the intermission (interval!) Fabiano and Drake returned with Puccini, Tosc
 
 It is in this Italian repertoire that Fabiano really shines as this music suits him perfectly. The dramatic range allows for a beautiful amount of diversity. His next piece, Puccini's "Terra e mare" was the most Puccini-esque of the evening with its soaring melody, very evocative of the classic Puccini vocal lines.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495033158215/2017-05-17---Drake_Julius_pc_Sim_Canetty-Clarke.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495033158215/2017-05-17---Drake_Julius_pc_Sim_Canetty-Clarke.jpg.jpg)
 <figcaption>Julius Drake, pianist. Photo by Sim Canetty-Clarke.</figcaption>
 </figure>
 

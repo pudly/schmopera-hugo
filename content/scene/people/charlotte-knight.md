@@ -12,6 +12,7 @@ website = "http://charlotteknightsoprano.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/charlotteknightsoprano"
+_template = "people_single"
 +++
 
 <p>

@@ -25,7 +25,9 @@ title = "Meet the contestants of A Little Too Cozy!"
 
 **Dora**: I thought, "well, why not?" It can't be more horrifying than what's on the street, so worst case scenario, it gets me off of work for a while.  ;) 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462221215250/2016-05-03---SHANTELLE-PRZYBYLO-by-DARRYL-BLOCK.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462221215250/2016-05-03---SHANTELLE-PRZYBYLO-by-DARRYL-BLOCK.jpg.jpg)
 <figcaption>Shantelle Przybylo as Felicity. Photo: Darryl Block.</figcaption>
 </figure>
 
@@ -39,7 +41,9 @@ title = "Meet the contestants of A Little Too Cozy!"
 
 **Fernando**: We only communicate with text. It’s crazy - I've only sent her texts and e-mails, but I'm sure I can picture her beautiful face. I know her soul is beautiful though – and that's all that really matters anyways. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462221266900/2-16-05-03---CozyCLARENCE-FRAZER-by-DARRYL-BLOCK.jpg.jpg)<figcaption>Clarence Frazer as Elmo. Photo: Darryl Block.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462221266900/2-16-05-03---CozyCLARENCE-FRAZER-by-DARRYL-BLOCK.jpg.jpg)<figcaption>Clarence Frazer as Elmo. Photo: Darryl Block.</figcaption>
 </figure>
 
 ## What was the cutest text you’ve gotten yet from your man/lady? Any memorable emojis?
@@ -63,7 +67,9 @@ title = "Meet the contestants of A Little Too Cozy!"
 •°*”˜˜”*°•. ˜”*°• . •°*”˜ .•°*”˜˜”*°•.
 
 
-**Dora**: <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462101454156/Biceps-Emoji30x1360leftpx.jpg.jpg)</figure>
+**Dora**: <figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462101454156/Biceps-Emoji30x1360leftpx.jpg.jpg)</figure>
 
 <figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462221311540/2016-05-03---CozyRIHAB-CHAIEB-by-DARRYL-BLOCK.jpg.jpg)
 <figcaption>Rihab Chaieb as Dora. Photo: Darryl Block.</figcaption>
@@ -79,7 +85,9 @@ title = "Meet the contestants of A Little Too Cozy!"
 
 **Elmo**: There are no deal breakers for Elmo. I'm so connected with Felicity that nothing could pull us apart. It's such a different experience. My love burns for her like a sizzling rump roast at Christmas dinner.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462221335664/2016-05-03---CozyAARON-SHEPPARD-by-DARRYL-BLOCK.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462221335664/2016-05-03---CozyAARON-SHEPPARD-by-DARRYL-BLOCK.jpg.jpg)
 <figcaption>Aaron Sheppard as Fernando. Photo: Darryl Block.</figcaption>
 </figure>
 

@@ -20,7 +20,9 @@ The contemporary story of highs and lows is smartly encased in the very old myth
 
 We lined up outside the club, checked our coats, bought an overpriced drink, and sampled the unmarked "drug" offerings of friendly strangers; the deafening club music transitioned smoothly into the strains of the live orchestra, led by music director James Garner (who also deserves a nod for his on-point casting of these great singers). The ensemble singers were everywhere, blending in with the listeners, and with swift, sultry touches (the kind that only the honest admit to enjoying), they spent the night guiding the audience's eyes and ears towards the action.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476740785969/2016-10-18--BOP-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476740785969/2016-10-18--BOP-1.jpg.jpg)
 <figcaption>*Boys of Paradise*, WorkshOPERA, Egg London October 2016. Photo by Claire Shovelton.</figcaption>
 </figure>
 

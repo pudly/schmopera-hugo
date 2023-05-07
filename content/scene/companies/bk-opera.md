@@ -15,6 +15,7 @@ url = "https://www.facebook.com/OperaBK/"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/bkopera/"
+_template = "company_single"
 +++
 
 BK Opera was created to focus on stagecraft, to help emerging singers create real characters with depth. 

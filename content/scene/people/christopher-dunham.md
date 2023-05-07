@@ -12,6 +12,7 @@ website = "http://www.christopherdunham.net/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CDunhamBaritone"
+_template = "people_single"
 +++
 
 Christopher Dunham a native of Niagara Falls, Ontario, has captivated audiences across Canada with his lyric baritone voice and as far as the Adriatic coast of Italy. A recent graduate from L'atelier lyrique de l'Opéra de Montréal his roles include: Figaro *Barber of Seville*, Mercutio *Romeo et Juliette*, Escamillo *Carmen*, Don Giovanni *Don Giovanni*, Eisenstein *Die Fledermaus* and Dandini *La Cenerentola*.

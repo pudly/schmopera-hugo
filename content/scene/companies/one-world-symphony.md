@@ -8,6 +8,7 @@ slug = "one-world-symphony"
 title = "One World Symphony"
 type_of_company = "Orchestra"
 website = "http://www.oneworldsymphony.org/index.shtml"
+_template = "company_single"
 +++
 
 ## VISION

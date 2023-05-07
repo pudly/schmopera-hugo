@@ -11,6 +11,7 @@ title = "Julia Jones"
 platform = "Facebook"
 template = "social-media"
 url = ""
+_template = "people_single"
 +++
 
 "Julia Jones's attention to the emotional detail of Verdi's score achieved a searing intensity."  -*The Guardian* 

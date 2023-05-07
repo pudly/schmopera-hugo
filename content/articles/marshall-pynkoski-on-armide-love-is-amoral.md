@@ -19,7 +19,9 @@ Next week, [Opera Atelier](/scene/companies/opera-atelier/) opens its 30th anniv
 
 It's a twist on a tragic love story that seems progressive for its 17th century creation. "By the end of the opera no one wants to feel hate more than Armide, but her tragedy is that she can now only feel love. There are no winners and no losers: love has annihilated everyone."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444914690629/Marshall-PynkoskiSquare.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444914690629/Marshall-PynkoskiSquare.jpg.jpg)
 <figcaption>Opera Atelier Artistic Director Marshall Pynkoski. Photo by Bruce Zinger.</figcaption>
 </figure>
 

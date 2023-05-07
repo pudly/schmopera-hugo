@@ -15,6 +15,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/crebassamarianne"
 
+_template = "people_single"
 +++
 Marianne Crebassa is confirming her place on the most prestigious world stages, across the opera, concert and recital repertoires.   
 

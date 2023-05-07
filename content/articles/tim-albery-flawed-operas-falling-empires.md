@@ -29,7 +29,9 @@ Albery is currently in Toronto, staging his production of Richard Strauss' [*Ara
 
 *Arabella* is the sixth and final collaboration between Strauss and librettist Hugo von Hofmannsthal, preceded by *Elektra*, *Der Rosenkavalier*, *Ariadne auf Naxos*, *Die Frau ohne Schatten*, and *Die ägyptische Helena*. Hofmannsthal died before having the usual period of editing and revision, resulting in what Albery calls a "flawed" piece. "The last half of the evening has problems, which led to what have now become pretty standard cuts," he explains. "But the opera speaks to a lot of good things, I think, about how we live our lives."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507161829021/2017-10-04---Arabella-MC-0895.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507161829021/2017-10-04---Arabella-MC-0895.jpg.jpg)
 <figcaption>(l-r) Claire de Sévigné as the Fiakermilli, Tomasz Konieczny as Mandryka, John Fanning as Count Waldner and Gundula Hintz as Adelaide in the Canadian Opera Company's new production of *Arabella*, 2017, photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -49,7 +51,9 @@ Having worked on both ends of the theatrical spectrum - from straight play to th
 
 Next to the sense of narrowed choices some directors feel within the opera world, the process of working with singers is perhaps ironically freeing. "I often surprise people who don't know about opera when I say in a wild generalisation that singers on the whole, compared with actors, are much more open-minded about how a production might be," says Albery. He suspects one reason may be simple: singers are much more likely than actors to perform a role in several productions. For an actor "who will only play King Lear once," it's harder to approach a production with flexibility when there's no "next time" in mind.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506898376318/2017-10-01---Albery%2C-Tim.jpg.jpg)<figcaption>Tim Albery.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506898376318/2017-10-01---Albery%2C-Tim.jpg.jpg)<figcaption>Tim Albery.</figcaption>
 </figure>
 
 ## "It won't be the first time empires have fallen, will it?"

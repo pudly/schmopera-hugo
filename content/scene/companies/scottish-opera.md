@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Scottish-Opera/125673660782760?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ScottishOpera"
+_template = "company_single"
 +++
 
 <p>

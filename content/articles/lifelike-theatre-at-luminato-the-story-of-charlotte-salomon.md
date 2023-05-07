@@ -22,14 +22,18 @@ title = "Life-like theatre at Luminato: the story of Charlotte Salomon"
 
 **Howard**: Charlotte has a sense of time running out for her, both from learning about the history of suicides in her family, and sensing the destiny that we all know lay ahead. The uniqueness of her work is that it survives, though she did not, in its complete form, and is a testament to the power of art to triumph over adversity.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497199573473/2017-06-11---charlotte1.jpg.jpg)<figcaption>Character sketch for the 2017 production of *Charlotte: A Tri-Coloured Play with Music*, by Pamela Howard.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497199573473/2017-06-11---charlotte1.jpg.jpg)<figcaption>Character sketch for the 2017 production of *Charlotte: A Tri-Coloured Play with Music*, by Pamela Howard.</figcaption>
 </figure>
 
 ## Are there works of Charlotte's with which you connect or identify more strongly than others?
 
 **Howard**: I connect with Charlotte as an artist, simply because I often also draw in three colours as she did, red, yellow and blue. My own theatre practice is to make the maximum from the minimum, and like Charlotte, I know how to make a myriad of colours from a few. I especially love the pages that have simultaneous scenes, all happening at the same time, sometimes jumbled up, just as it was in her head.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497199398207/2017-06-11---Charlotte_Salomon_-_JHM_4175.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497199398207/2017-06-11---Charlotte_Salomon_-_JHM_4175.jpg.jpg)
 <figcaption>Painting from *Leben? oder Theater? Ein Singspiel*, by Charlotte Salomon.</figcaption>
 </figure>
 
@@ -41,7 +45,9 @@ title = "Life-like theatre at Luminato: the story of Charlotte Salomon"
 
 **Howard**: The art of making a synchronised theatre piece, is to be able to draw all the essential elements together in the stage space to tell a coherent story...which is an ironic, sometimes funny and tragic life told from memory. I have invented the staging of scenes, and used references to Charlotte's work, but not tried to copy them. We have developed as with the music, our own *Tri-Coloured Play*. Above all I have tried to preserve the integrity of Charlotte's story.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497236940097/2017-06-11---Charlotte-Photo-2.jpg.jpg)<figcaption>Adanya Dunn as Charlotte.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497236940097/2017-06-11---Charlotte-Photo-2.jpg.jpg)<figcaption>Adanya Dunn as Charlotte.</figcaption>
 </figure>
 
 ## What do you hope audiences will take away from these first performances at Luminato?
@@ -50,7 +56,9 @@ title = "Life-like theatre at Luminato: the story of Charlotte Salomon"
 
 **Howard**: A desire to look further at the story of Charlotte's Life. All her gouaches are available on the web, but having seen *A Tri-Coloured Play with Music* at Luminato, they will be able to better interpret them, and appreciate all the more that her legacy is her art.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497199422466/2017-06-11---sc01.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497199422466/2017-06-11---sc01.jpg.jpg)
 <figcaption>Scenic sketch for the 2017 production of *Charlotte: A Tri-Coloured Play with Music*, by Pamela Howard.</figcaption>
 </figure>
 

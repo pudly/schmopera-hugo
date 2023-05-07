@@ -9,6 +9,7 @@ related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/compani
 slug = "laurent-naouri"
 title = "Laurent Naouri"
 
+_template = "people_single"
 +++
 Laurent Naouri studied at the CNIPAL in Marseille and the Guildhall School of Music and Drama in London.
 

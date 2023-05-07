@@ -17,6 +17,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MattBoehler"
 
+_template = "people_single"
 +++
 Hailed by The New York Times as “a bass with an attitude and the goods to back it up,” Matt Boehler has been critically acclaimed both for his dramatic skill and his vocal ability. With Wolf Trap Opera Company, Mr. Boehler garnered much praise in the title role in *Sweeney Todd*.
 *The Washington Post* raved, “There are times, in fact, when this young man with a huge crossover career ahead of him is standing in a crowd of actors, and you’d swear he was the only person onstage.”

@@ -20,6 +20,7 @@ url = "https://twitter.com/NashvilleOpera"
 platform = "Instagram"
 template = "social-media"
 url = "https://instagram.com/nashvilleopera/"
+_template = "company_single"
 +++
 
 Mission:  Nashville Opera makes a difference by creating legendary productions

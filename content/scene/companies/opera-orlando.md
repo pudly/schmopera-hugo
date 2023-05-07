@@ -15,6 +15,7 @@ url = "https://www.facebook.com/OperaOrlando/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/OperaOrlando"
+_template = "company_single"
 +++
 
 Opera Orlando produces entertaining, thought-provoking, moving theatrical works of the highest artistic quality; a company that creatively fuses various genres and mediums to engender a community excited about the arts. 

@@ -17,5 +17,7 @@ Well, we missed Piano Day 2016 by a nose, but we can still celebrate. March 28th
 
 [Nathan Shubert](http://nathanshubert.com/), Vancouver-based pianist, session artist, and composer, is one of these artists. He has released his debut solo album, which includes "Saga Norén, Länskrim, Malmö", named after the protagonist of the Swedish/Danish television show, *Bron* (*The Bridge*). It's mesmerizing and more than a little bit beautiful - have a listen, and be sure to check out more from [Shubert on Soundcloud](https://soundcloud.com/nathanshubert).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459264459802/2016-03-29---nathan-shubert-studio-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459264459802/2016-03-29---nathan-shubert-studio-1.jpg.jpg)
 </figure>

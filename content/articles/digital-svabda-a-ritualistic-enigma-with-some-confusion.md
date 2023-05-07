@@ -25,7 +25,9 @@ We thus turn to [Boston Lyric Opera](/scene/companies/boston-lyric-opera/)'s nex
 
 What is more, the opera is sung almost entirely _a capella_: the only thing resembling an orchestra are various pieces of handheld percussion the singers handle as well as an ocarina that makes an appearance about forty minutes in, but the rest is sung entirely by _a capella_, and with only women singers.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1643903799/media/2022/02/BLO-2022-Svadba-4_jveoe0.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1643903799/media/2022/02/BLO-2022-Svadba-4_jveoe0.jpg)
 
 <figcaption>Victoria L. Awkward (Milica, centre) in Svadba, Boston Lyric Opera, 2022. Photo courtesy of BLO.</figcaption>  
 </figure>
@@ -34,7 +36,9 @@ Some purists will question whether or not the work's more abstract nature will l
 
 As for whether it put me under its spell? I have to admit, after a while, the music did draw me in. This is an opera I suspect some people will have to sit with, but it will pull you into its language. And when it does, it does feel remarkably transformative afterwards.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1643903831/media/2022/02/BLO-2022-Svadba-1_vz4ocz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1643903831/media/2022/02/BLO-2022-Svadba-1_vz4ocz.jpg)
 
 <figcaption>Jay Breen (Danica, left) and Victoria L. Awkward (Milica, in white) in Svadba, Boston Lyric Opera, 2022. Photo courtesy of BLO.</figcaption>  
 </figure>
@@ -45,7 +49,9 @@ I get the sense that a successful staging of _Svabda_ requires that, whether you
 
 For instance, in the aforementioned bit where the bride "washes her hair in starlight", the video interprets that as the bride essentially sleeping on the beach. This is intercut with several flashbacks to earlier things in the filmed production, including a segment where she has a brief flurry of imagination wishing she had chosen somebody else to marry. It lends itself to the kind of nocturnal contemplation that the "washing hair in starlight" implies, and it synced up really well there.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1643903861/media/2022/02/BLO-2022-Svadba-2_tpnnqu.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1643903861/media/2022/02/BLO-2022-Svadba-2_tpnnqu.jpg)
 
 <figcaption>Victoria L. Awkward (Milica, centre) in Svadba, Boston Lyric Opera, 2022. Photo courtesy of BLO.</figcaption>  
 </figure>
@@ -58,7 +64,9 @@ What further does not help is the fact that BLO opted to cut between the dancers
 
 I know that BLO called attention to the novelty of an _a capella_ opera, and I get the sense that these cuts are entirely about showcasing this aspect of the opera, but I feel like that novelty loses at least a little bit of its alluring magic when the videography calls attention to it. The production would have done better without these cuts.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1643903885/media/2022/02/BLO-2022-Svadba-3_gsfmsr.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1643903885/media/2022/02/BLO-2022-Svadba-3_gsfmsr.jpg)
 
 <figcaption>Victoria L. Awkward (Milica) and Jackie Davis (Lena) in Svadba, Boston Lyric Opera, 2022. Photo courtesy of BLO.</figcaption>  
 </figure>

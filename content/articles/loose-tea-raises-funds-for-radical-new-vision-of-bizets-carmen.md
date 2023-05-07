@@ -24,7 +24,9 @@ Viau's new take on the story has John already married to Michaela who comes and 
 
 This show featured new dialogue and a transladaptation of the libretto by Viau herself. [Natasha Fransblow](/scene/people/natasha-fransblow/) of [MYOpera](/scene/companies/myopera/) fame was at the keys. One of my favourite additions was that of sound design and collaborations with [Slowpitchsound](http://www.slowpitchsound.com/). The "overture" and Carmen's redux of the song she sings with John before he hears the call of the batallion (in this production treated as a hallucinatory side-effect of the PTSD) were the genesis of what I think could become a really meaningful and current treatment of Bizet's score. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480013917652/2016-11-24---LooseTEACarmen-byDahliaKatz-6176.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480013917652/2016-11-24---LooseTEACarmen-byDahliaKatz-6176.jpg.jpg)
 <figcaption>Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -32,7 +34,9 @@ Fresh off her amazing run of [*Naomi's Road* for Tapestry Opera](/in-review-naom
 
 [Ryan Harper](/scene/people/ryan-harper/) brings us the embattled John Anderson (Don José). Ryan is such a generous actor on-stage and his characterizations are rooted solidly in physical truth of gesture. I really applaud Harper for his sensitive and intelligent portrayal of such a complex condition. I can't wait to see how it pans out further as this project develops. Harper sang John with a full-throated, rounder sound that's developed quite a lot since the last few times he and I were onstage together, and the progress is exciting. Living even-more in a full Lyric mode, the line was easy and well-produced and energized. I was particularly fond of his use of head voice at certain points during his singing, and I think this is a tactic he could explore and execute more often as the sound is exquisite. I think there could be some pacing issues though as he did seem to get a little vocally tired towards the end, but this is probably due to a number of factors not the least of which the heightened emotional state he dwells in for the entirety of the production. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480013906831/2016-11-24---LooseTEACarmen-byDahliaKatz-6298.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480013906831/2016-11-24---LooseTEACarmen-byDahliaKatz-6298.jpg.jpg)
 <figcaption>Ryan Harper in Loose TEA Music Theatre's *Carmen*, 2016. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -40,7 +44,9 @@ As Ricardo (Escamillo) baritone Andrey Andreychik sang with a bright, steely ton
 
 Once again, soprano [Beth Hagerman](/spotlight-on-beth-hagerman/) proves why she's one to watch on the scene here in Toronto. Her Michaela was devastating and her ability to keep the stress-level up that high was something to see. Her voice, flawless as always, is a stellar match for the surprisingly huge sing that is Michaela. When singing of the loss her kids felt with their father's disappearance, she dug into the flesh of your feelings and refused to let you go. It was a great thing to watch. I love when a singer is really good at dealing with the audience being very close to them, and Hagerman loves the crowd and you can tell, whether she interacts with them directly or not. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480012183438/2016-11-24---LooseTEACarmen-byDahliaKatz-6217.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480012183438/2016-11-24---LooseTEACarmen-byDahliaKatz-6217.jpg.jpg)
 <figcaption>Erica Iris and Ryan Harper in Loose TEA Music Theatre's *Carmen*, 2016. Photo by Dahlia Katz.</figcaption>
 </figure>
 

@@ -19,7 +19,9 @@ Of course, it has to do with having no "stage aids" like sets, costumes, far dis
 
 The members of [Lynx Project](/scene/companies/lynx-project/) point out a thought that has lingered vaguely in my head since my university years: art song is rare to hear outside of an academic setting. Founded by three singers and one pianist, all graduates of the Eastman School of Music, Lynx Project is about bringing more art song to more people. It's a [simple goal](https://www.kickstarter.com/projects/1967299709/lynx-project-our-case-for-art-song), and they plan to give "intimate and inclusive performances [which] challenge the traditional form of an art song recital."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445034508640/Lynx.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445034508640/Lynx.jpg.jpg)
 <figcaption>Clockwise from top left: Caitleen Kahn, soprano; Steven Humes, tenor; Florence Mak, piano; Megan Moore, mezzo-soprano.</figcaption>
 </figure>
 

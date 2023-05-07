@@ -20,6 +20,7 @@ url = "https://twitter.com/colemanlemieux"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/ColemanLemieuxCo"
+_template = "company_single"
 +++
 
 Founded in Quebec in 2000 by individually renowned dancers/choreographers Bill Coleman and Laurence Lemieux, Coleman Lemieux & Compagnie (CLC) has distinguished itself by its innovative, unbridled artistic vision.  CLC creates, produces and presents varied works on a local, national and international scale.

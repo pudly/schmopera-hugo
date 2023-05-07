@@ -16,6 +16,7 @@ url = "https://www.facebook.com/BarnabyReaBass/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/barnabyrea?lang=en"
+_template = "people_single"
 +++
 
 British bass Barnaby Rea is a former Harewood Artist at English National Opera (2013-16) who has recently joined the solo ensemble at Oper Frankfurt.

@@ -24,7 +24,9 @@ The cast of *Falstaff* is a mix of established and rising artists. Bass-baritone
 
 To find out more, check out the Cambridge Philharmonic's 2016-17 [season line-up](http://cam-phil.org.uk/programme.html); for tickets to *Falstaff*, **December 10** at West Road Concert Hall, [click here.](http://cam-phil.org.uk/programme.html?showpayments#2016-12-10)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481117628839/2016-12-7---Falstaff-Poster.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481117628839/2016-12-7---Falstaff-Poster.jpg.jpg)
 </figure>. 
 
 

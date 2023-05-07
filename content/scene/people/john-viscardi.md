@@ -8,6 +8,7 @@ publishDate = "2017-01-05T12:00:00+00:00"
 slug = "john-viscardi"
 title = "John Viscardi"
 website = "http://www.johnviscardi.com/"
+_template = "people_single"
 +++
 
 Baritone John Viscardi, New York native and graduate of the Academy of Vocal Arts (AVA), is a rising talent notably acknowledged for his diversity of vocal repertoire.

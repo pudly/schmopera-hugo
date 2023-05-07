@@ -12,6 +12,7 @@ website = "http://anthonybarrese.com/"
 platform = "Facebook"
 template = "social-media"
 url = ""
+_template = "people_single"
 +++
 
 Anthony Barrese has earned accolades as both a composer and a conductor. He is the recipient of the 2007 Georg Solti Foundation U.S. award for young conductors. His original works have won numerous awards, and he is regularly engaged by opera companies in North America and Italy.

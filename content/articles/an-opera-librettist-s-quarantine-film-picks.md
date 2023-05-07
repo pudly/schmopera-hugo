@@ -29,7 +29,9 @@ youtube_url = ""
 
 "Probably my favorite comedy.  No matter how many times I see [this movie](https://www.imdb.com/title/tt1478338/), I can’t help but laugh my ass off.  I will go anywhere for Melissa McCarthy."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589286666/media/2020/05/bridemaids_dwojaj.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1589286666/media/2020/05/bridemaids_dwojaj.jpg)
 
 <figcaption>Bridesmaids, 2011.</figcaption>  
 </figure>
@@ -50,7 +52,9 @@ youtube_url = ""
 
 "I love Jane Austen.  I love Emma Thompson.  I love Kate Winslet.  I love Alan Rickman.  I love Greg Wise.  I love Hugh Grant.  I love Ang Lee.  I have the most amazing memory of my father taking me to the cinema in Grande Prairie, Alberta to see this when I was 12 years old, and [it's a movie](https://www.imdb.com/title/tt0114388/) that I have seen a million times, and will see it a gazillion more."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589286832/media/2020/05/Movie-still-Emma-Thompson-Kate-Winslet-Sense-and-Sensibility-1995_ivorh0.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1589286832/media/2020/05/Movie-still-Emma-Thompson-Kate-Winslet-Sense-and-Sensibility-1995_ivorh0.jpg)
 
 <figcaption>Emma Thompson and Kate Winslet in _Sense and Sensibility_, 1995.</figcaption>  
 </figure>

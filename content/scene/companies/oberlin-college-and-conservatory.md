@@ -12,6 +12,7 @@ website = "http://new.oberlin.edu/conservatory/"
 platform = "Facebook"
 template = "social-media"
 url = "https://twitter.com/OberlinCon"
+_template = "company_single"
 +++
 
 <p>

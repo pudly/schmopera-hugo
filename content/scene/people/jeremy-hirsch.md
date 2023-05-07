@@ -13,6 +13,7 @@ website = "http://www.jeremyhirschbaritone.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JHirschMusic"
+_template = "people_single"
 +++
 
 New York City based bass-baritone Jeremy Hirsch, who “proved a compelling actor and singer” (Los Angeles Times) as the exiled poet in Hanns Eisler's *The Hollywood Songbook*, enjoys performing a wide range of opera, art song, and concert repertoire. Hirsch joined the Fire Island Opera Festival’s troupe for the East Coast premiere of Kurt Weill’s first opera *Der Protagonist*. The following year, he again teamed up with Fire Island Opera Festival, this time in Marfa, Texas, presenting a preview opening concert, a main stage concert: *A Musical Tour through the Seven Chakras*, and *Walk Opera*, a musical hike beginning at Mimm's Ranch culminating in a meditative circle overlooking the West Texas mountains. Arts and Culture: Texas described how Hirsch “stood out among the performers” in the first night’s concert, and was “especially good at interacting with individuals at close quarters while singing”.

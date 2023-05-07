@@ -24,7 +24,9 @@ We want to directly connect the performers with the audience. People who have ne
 
 Opera did not begin as an art form only for the elite. The themes of early opera are often quite risqué featuring love, lust and death. The appeal cut across all social groups. We love the storytelling aspect and want to ensure it is not lost.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493077035941/2017-04-24---Gramercy-Opera.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493077035941/2017-04-24---Gramercy-Opera.jpg.jpg)
 <figcaption>Magda Gartner (left) and Allison McAuley, co-founders, Gramercy Opera.</figcaption>
 </figure>
 
@@ -42,7 +44,9 @@ On May 11th, we are producing our first gala at the exclusive Players Club on Gr
 
 The Gala will feature an ensemble of talented, new artists offering selections from *La Traviata*, *Carmen*, *La Bohème*, *Die Fledermaus*, *Rigoletto* and of course, the Barcarolle "Belle Nuit" from Offenbach's *The Tales of Hoffmann*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493077050912/2017-04-24---Poster_NoCrops.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493077050912/2017-04-24---Poster_NoCrops.jpg.jpg)
 <figcaption></figcaption>
 </figure>
 
@@ -50,7 +54,9 @@ The Gala will feature an ensemble of talented, new artists offering selections f
 
 We have a variety of projects in the works right now including an Opera-Yoga event with Lululemon in NYC as well the NYC premier of an American children's opera by Frank Schiro entitled *Twice Upon a Birthday*, followed by a school tour. There are no limits to where our imaginations will take us!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493077062680/2017-04-24---Poster_FairyQueen.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493077062680/2017-04-24---Poster_FairyQueen.jpg.jpg)
 <figcaption></figcaption>
 </figure>
 

@@ -41,7 +41,9 @@ Professional musicians know that the love of their work is incredibly strong, an
 
 And when his wife can make the trip to hear him play? "You almost don't even need to talk about the gig after," says Douglas, "because you were both there, you both lived it."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470315191800/2016-08-04---Nate-Recording-Collage.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470315191800/2016-08-04---Nate-Recording-Collage.jpg.jpg)
 <figcaption>Clockwise from top left: Nate Douglas, Tom Fitzgerald, James Law, and Tara Douglas, recording at Phase One Studios, Toronto, 2016. Photos by Lindsay Sawyer.</figcaption>
 </figure>
 

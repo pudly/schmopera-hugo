@@ -23,7 +23,9 @@ This week I had the privilege of watching a live stream event featuring composer
 
 The piece was co-directed by Alex Ho and Julia Cheng, who also choreographed and performed the main role of Ye Xian. It was initially performed and recorded in November 2019 at Hackney Round Chapel, an ideal venue for this unlikely tale; told in the round, the action swirls endlessly around a centre point on stage. The performers made use of all available space with the instruments placed at the very edges of the performance space and the performers weaving through the audience in and out of the central space. The staging of this piece had a very organic flow to it which gave the impression it was being created before our eyes though undoubtedly, it was very thoroughly rehearsed. It is this spontaneity or at least, the impression of spontaneity that makes live theatre so exciting to watch.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1598313290/media/2020/08/Untold-1_bt6coj.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1598313290/media/2020/08/Untold-1_bt6coj.jpg)
 
 <figcaption>Alex Ho's opera Untold, photographed by Zen Grisdale.</figcaption>
 
@@ -37,7 +39,9 @@ Slippery and fragmented, this piece kept the audience in its grasp as the story 
 
 Interspersed between the telling of this story, which is first narrated by each of the performers in turn and then enacted through dance, are miniature stories from the performers who each share an experience concerning Chinese identity. These moments were heartfelt, honest, and woven together seamlessly with the action of the piece. The performers were not acting, but connecting with their audience in a very real way. Instead of finding this format jarring and taking me out of the action, I quite enjoyed its deconstructionist take on the traditionally formatted opera or theatre piece. Storytelling is the most ancient of artforms. It is shared across all cultures on the planet and resonates with us all in a very deep way. It was used in a very effective way within this piece.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1598313279/media/2020/08/Untold-2_uxhoct.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1598313279/media/2020/08/Untold-2_uxhoct.jpg)
 
 <figcaption>Alex Ho's opera Untold, photographed by Richard Moore.</figcaption>
 

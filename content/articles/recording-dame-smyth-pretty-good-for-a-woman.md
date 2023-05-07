@@ -30,5 +30,7 @@ EXO has set up a [Kickstarter campaign](https://www.kickstarter.com/projects/smy
 
 To learn more about EXO's Kickstarter, *Herstory: Recording Composer Dame Ethel Smyth's Masterpiece*, and to donate, [click here.](https://www.kickstarter.com/projects/smyth/herstory-recording-composer-dame-ethel-smyths-mast)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542422945624/NOV2018Newslettergraphic.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542422945624/NOV2018Newslettergraphic.jpg.jpg)
 </figure>

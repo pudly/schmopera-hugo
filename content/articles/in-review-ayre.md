@@ -22,7 +22,9 @@ The first half was a migratory journey through the Centre starting in the galler
 
 The night opened with a quartet piece called *Yiddishbbuk*; written in 1992, the piece sounds very much of the time. Portraying a "broken song played on a shattered cimbalom," the disjunct rhythms and dynamics piled on top of each other in a sort of highly organized cacophony. The piece gave you a great insight into where Golijov's journey began towards finding his composer's voice. The players executed the volatility of the  piece with intelligence and candor.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215082916/2016-11-16---Dunn.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215082916/2016-11-16---Dunn.jpg.jpg)
 <figcaption>Soprano Adanya Dunn. Photo by Darryl Block.</figcaption>
 </figure>
 
@@ -32,7 +34,9 @@ While the interplay between vocals and strings was fantastic, it was still very 
 
 *Tenebrae* was next, featuring the quartet with soprano Ellen McAteer and Brad Cherwin on clarinet. This piece saw the vocals and clarinet basically singing a duet with each other; Cherwin's clarinet sound blended seamlessly with McAteer's rich soprano to the point where I thought at times the clarinet was producing the consonants. In this piece, you felt less like it was a piece for "voice and small ensemble" and more "sextet where one instrument is a human voice" and it was the perfect way to cap off the first half.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215043542/2016-11-16---McAteer.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215043542/2016-11-16---McAteer.jpg.jpg)
 <figcaption>Soprano Ellen McAteer. Photo by Darryl Block.</figcaption>
 </figure>
 
@@ -44,7 +48,9 @@ There was no way I could be prepared for what happened next.
 
 After a brief introduction by Artistic Director [Joel Ivany](/scene/people/joel-ivany/), we settled in for what was possibly one of the most impressive vocal feats of the season.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215219070/2016-11-16---Ayre-Block.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215219070/2016-11-16---Ayre-Block.jpg.jpg)
 <figcaption>Photo by Darryl Block.</figcaption>
 </figure>
 
@@ -54,7 +60,9 @@ Throughout the piece Khalil's dark rich tone was always in the forefront, but wh
 
 From the point the second movement started, I was in tears. Not the violent tears I cried after the "Red Wedding" or after reading the "battle of Hogwart's", but the kind of tears you cry when you experience true beauty in person. Beauty with all its nuances, difficulties, and darkness that aren't being excused, but incorporated - even celebrated. Like the whole audience, I was suspended in this stasis of stirred emotion the repercussions of which were felt long after the final bows were taken. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215182303/2016-11-16---Ayre-Block-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479215182303/2016-11-16---Ayre-Block-2.jpg.jpg)
 <figcaption>Soprano Miriam Khalil. Photo by Darryl Block.</figcaption>
 </figure>
 

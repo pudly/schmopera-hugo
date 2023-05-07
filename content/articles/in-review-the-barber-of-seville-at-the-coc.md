@@ -18,7 +18,9 @@ I went yesterday afternoon to see [*The Barber of Seville*](http://www.coc.ca/Pe
 
 Director Joan Font creates an exaggerated world of characters, which I think works beautifully with the cartoon-like pacing in Rossini's score. Font started with the *Commedia dell'arte*, connecting Figaro with Harlequin, Rosina with Colombina, and Dottor Bartolo with Pantalone. Font writes, "they are prototypes of humanity played in a symbolic manner and able to create absurd, delirious, surreal, comical and ironic situations and actions."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429540782546/Barber-MC-0370.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429540782546/Barber-MC-0370.jpg.jpg)
 <figcaption>
 l-r: Alek Shrader (Almaviva) and Joshua Hopkins (Figaro). Photo by Michael Cooper. </figcaption>
 </figure>
@@ -27,7 +29,9 @@ Tenor [Alek Shrader](https://twitter.com/alekshrader) kicked off this surreal wo
 
 As Figaro, Canadian baritone [Joshua Hopkins](http://joshuahopkins.com/) was, well, perfect. He didn't break a sweat in "Largo al factotum," and he found ease in the rest of the demanding role. He too put storytelling in front of everything else, yet he never lacked for a gorgeous sound. For me, Joshua found the best connection between his voice and body. The production's large gestures fell often on Figaro, and he found musical moments for all the right movements. The proof was in the audience's laughter. Together, Joshua and Alek had fantastic comic chemistry, and their Act I duet had me grinning from ear to ear.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429540929977/Barber-MC-1230.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429540929977/Barber-MC-1230.jpg.jpg)
 <figcaption>
 l-r: Joshua Hopkins (Figaro), Alek Shrader (Almaviva), Serena Malfi (Rosina), Robert Gleadow (Basilio), Aviva Fortunata (Berta), Renato Girolami (Bartolo). Photo by Michael Cooper </figcaption>
 </figure>
@@ -38,7 +42,9 @@ l-r: Joshua Hopkins (Figaro), Alek Shrader (Almaviva), Serena Malfi (Rosina), Ro
 
 Robert Gleadow was similar as Basilio; he's a tall guy, but the prosthetic nose, semi-bald cap, and exaggerated movements made his chracterization super-sized, so it could be super-funny. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429542314601/Barber-MC-0473.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429542314601/Barber-MC-0473.jpg.jpg)
 <figcaption>
 l-r: Renato Girolami (Bartolo) and Robert Gleadow (Basilio). Photo by Michael Cooper.
 </figcaption>
@@ -48,7 +54,9 @@ As Berta, Rosina's governess, Aviva Fortunata was hilarious. She had all that "l
 
 COC Ensemble members Iain MacNeil (Fiorello) and Clarence Frazer (Officer) showed off solid singing and great comic stage presence. I'm really excited to see them in their roles for the Ensemble Studio Performance of *Barber* on May 15th. Frazer will take the role of Figaro, and MacNeil will become Dr. Bartolo. For full details and tickets to the show, [click here](http://www.coc.ca/PerformancesAndTickets/1415Season/BarberofSeville/EnsembleStudioPerformance.aspx). 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429543509861/Barber-MC-1483.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429543509861/Barber-MC-1483.jpg.jpg)
 <figcaption> Alek Shrader (Almaviva/Basilio), and Serena Malfi (Rosina). Photo by Michael Cooper. </figcaption>
 </figure>
 

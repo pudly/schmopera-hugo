@@ -8,6 +8,7 @@ related_companies = ["scene/companies/royal-opera-house.md","scene/companies/ope
 slug = "anna-goryachova"
 title = "Anna Goryachova"
 website = "http://www.annagoryachova.com/index.html"
+_template = "people_single"
 +++
 
 Anna Goryachova was born in Saint-Petersburg, where she started her musical studies as a pianist and then entered in the St.Petersburg State Conservatorium at the vocal department, graduating under the direction of Galina Kiseleva. Anna started her career as a soloist of St. Petersburg Chamber Opera where she sang her first roles such as Donna Elvira in “Don Giovanni”, Marina Mnishek in “Boris Godunov”, Paolina in “Pique Dame”, under the direction of one of the finest russian stage director, Yuri Alexandrov.

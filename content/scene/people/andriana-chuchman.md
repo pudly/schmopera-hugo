@@ -22,6 +22,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/moviebluffster?feature=watch"
 
+_template = "people_single"
 +++
 This season, soprano Andriana Chuchman makes her debut at the Hamburg State Opera as Eurydice in _Orphée et Eurydice,_debuts with the San Francisco Opera as Mary in Jake Heggie's _It's a Wonderful Life,_ and returns the Canadian Opera Company as Musetta in _La bohème._
 

@@ -17,6 +17,7 @@ url = "https://www.facebook.com/peterduganpiano"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/peterduganpiano"
+_template = "people_single"
 +++
 
 Pianist Peter Dugan has been praised by the *Capital Gazette* as “nothing short of superb” and by the *Baltimore Sun* as “spellbinding.”  Prizing versatility as the key to the future of classical music, Mr. Dugan is equally at home in classical, jazz, and pop idioms. He has appeared as a soloist throughout the United States, including performances in New York’s Carnegie Hall and Alice Tully Hall, and Philadelphia’s Academy of Music and Verizon Hall. He has also performed internationally in Canada, South America, the Cayman Islands, and across Europe.  This season, Mr. Dugan appears as a soloist with the New World Symphony under the baton of Michael Tilson Thomas.

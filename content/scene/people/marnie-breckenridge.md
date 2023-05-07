@@ -26,6 +26,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/"
 
+_template = "people_single"
 +++
 American soprano Marnie Breckenridge is captivating international audiences with roles ranging from the Baroque and bel canto to Modern. Her passionate interpretations of contemporary works include: Mother in _Dog Days_ by David T. Little where the _NY Times_ praised Breckenridge’s “lovely soprano” and TimeOut Magazine voted it Best Opera 2012 (premier-Montclair Peak Performances, Los Angeles Opera 2015, Prototype Festival 2016, Ft. Worth Opera 2015,) Sierva Maria in Peter Eötvös’s _Love and Other Demons_ (Glyndebourne Festival Opera), La Princesse in Philip Glass’ _Orphée_, title role in Milhaud’s Médée, and Margarita Xirgu in Golijov’s _Ainamandar_ (Opera Parallèle), Ruth in Luna Pearl Woolf’s _The Pillar_ (Julian Wachner and Washington Chorus), her Berkeley Symphony debut in Chin’s _Cantantrix Sopranica_ with Kent Nagano and her Ravinia Festival debut in Jake Heggie’s _To Hell and Back_ with Philharmonia Baroque, co-staring Patti LuPone. Of her performance at Ravinia noted by reviewer John Von Rein, "she sounded as gorgeous as she looked, achieving both lyrical poignancy and dramatic power" (The Chicago Tribune). Her superb acting and musicianship have brought her into the worlds of television and voice-over as well as theatre where she recently composed the vocal lines for and sang the lead in WAKE  an original production with director Mei Ann Teo (PUC Alumnus) and composer Jon Bernstein at the Connelly Theatre in New York.
 

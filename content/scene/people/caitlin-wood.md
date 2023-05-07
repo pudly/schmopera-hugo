@@ -18,6 +18,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/caitwood7/"
 
+_template = "people_single"
 +++
 Alberta‐born soprano Caitlin Wood was “absolutely vibrant” and showed “great comic flair” in her debut as Susanna in Vancouver Opera Festival’s _The Marriage of Figar_o. Caitlin portrayed Ava in City Opera Vancouver’s 2017 world premiere of Marie Clements/Brian Current’s powerful opera _Missing_, showing “exquisite vulnerability”.
 

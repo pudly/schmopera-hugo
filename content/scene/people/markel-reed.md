@@ -15,6 +15,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/castrorigoletto"
 
+_template = "people_single"
 +++
 Markel Reed, a native of Charlotte, North Carolina, has been featured in various concerts, recitals and performances throughout the U.S., Canada and in Europe. His repertoire includes: Schaunard in _La Bohème_, Il Conte in _Le Nozze di Figaro_, _Don Giovanni_ and Leporello in _Don Giovanni_, Papageno in _Die Zauberflöte_, and John Sorel in _The Consul_.
 

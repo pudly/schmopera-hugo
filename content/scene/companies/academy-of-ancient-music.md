@@ -19,6 +19,7 @@ url = "https://twitter.com/AAMorchestra"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/acadofancientmusic"
+_template = "company_single"
 +++
 
 That's exactly what we aim to do: energise baroque and classical music. And to do it, we get back to the style and spirit in which this music was first performed.

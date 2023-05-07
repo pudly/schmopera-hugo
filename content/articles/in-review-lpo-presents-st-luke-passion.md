@@ -18,7 +18,9 @@ The London Philharmonic Orchestra teamed up with the Polish Radio Choir, the Cam
 
 The twenty-seven sections of this work feature text from the Gospel according to Luke, with various added psalms and Latin text interspersed throughout the narration of the passion, in order to heighten the story and bring the characters to life.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488728429407/2017-03-05---Penderecki.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488728429407/2017-03-05---Penderecki.jpg.jpg)
 <figcaption>Vladimir Jurowski conducts Krzysztof Penderecki's *St. Luke Passion*. Photo by Simon Jay Price.</figcaption>
 </figure>
 
@@ -26,7 +28,9 @@ Towards the beginning of the work, the baritone portraying Jesus sings text from
 
 Who says that in order to sing a tone-row you must employ straight tone? All of the evening's singers made serialism seem simple, and we were struck by the pitch accuracy achieved through supported singing with vibrato. Soprano Elizabeth Atherton drew us in with her captivating movements - in "Crux fidelis", Artherton seemed to radiate the hope of redemption with her warm, legato sound. When bass-baritone Tomasz Konieczny became the role of Peter, his dark and resonant tone served Penderecki's sigh motif perfectly, highlighting the remorse of this character before gracefully switching to a strong, yet hesitant Pilate. Omar Ebrahim confidently narrated the story throughout the piece, serving as the Evangelist. The aid of a microphone was at times distracting, pulling us out of the sound world of the piece towards a manufactured and amplified one. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488728458427/2017-03-04---Pederecki-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488728458427/2017-03-04---Pederecki-2.jpg.jpg)
 <figcaption>Krzysztof Penderecki and Vladimir Jurowski. Photo by Simon Jay Price.</figcaption>
 </figure>
 

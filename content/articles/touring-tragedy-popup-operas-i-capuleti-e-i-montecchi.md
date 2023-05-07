@@ -23,5 +23,7 @@ In March and April, Pop-Up Opera revives their first tragic opera, Bellini's [*I
 
 Touring performances run from **March 7th to Apri 8th, 2017**. For dates, locations, and tickets, [click here.](http://popupopera.co.uk/whats-on/current/I-Capuleti-e-i-Montecchi/) 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485347983907/2017-01-25---Tebaldo---PopUpOpera.jpg.jpg)<figcaption>Pop-Up Opera's production of *I Capuleti e i Montecchi*. Photo by Richard Lakos.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485347983907/2017-01-25---Tebaldo---PopUpOpera.jpg.jpg)<figcaption>Pop-Up Opera's production of *I Capuleti e i Montecchi*. Photo by Richard Lakos.</figcaption>
 </figure>

@@ -13,6 +13,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/dmburry"
 
+_template = "people_single"
 +++
 Composer and librettist Dean Burry is a storyteller. In addition to his extensive work in the opera and concert music fields, he has become one of the world’s leading composers of children’s opera, his works receiving performances across Canada, the United States, Europe, China and Brazil. At over 600 performances, his opera _The Brothers Grimm_ is one of the most produced operas of the twenty-first century and his operatic adaptation of J.R.R. Tolkien’s _The Hobbit_ recently received its European premiere to sold out houses in Ljubljana, Slovenia. His recent engagement as Artistic Director of the Canadian Children’s Opera Company saw the organization double in size, and included the creation of the first ever Toronto Festival of Children’s Opera, a European tour of the critically-acclaimed production _Brundibàr_, and a star-studded 50th Anniversary Gala at the Four Seasons Centre for the Performing Arts. In addition to a professorship at the Glenn Gould Professional School in Toronto, Burry is the director of the Opera Creation Lab (Centre for Opera Studies in Italy) in Sulmona, Italy and lectures internationally on opera composition and the Canadian operatic canon. Burry is currently an Assistant Professor at the Dan School of Drama and Music at Queen’s University and Artistic Director of the school’s Music Theatre Creation Program.
 

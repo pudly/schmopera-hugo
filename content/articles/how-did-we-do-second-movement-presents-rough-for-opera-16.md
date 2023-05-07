@@ -16,7 +16,9 @@ Monday night was the sixteenth edition of *rough for opera*, a "scratch night" f
 
 "Can You Give Up Your Seat Please?" by composer Michael-Jon Mizra was a piece concerning the story of Doctor David Hao, whose story was made famous by a viral video in which he was dragged out of his seat on a United Airlines flight. The musical elements of this piece were scarce, only using a clarinettist and two singers, all performing without set characters to draw from. Instead the narrative was driven by a projection onto the stage wall, showing different angles of Dr. Hao being forcibly removed from his seat.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507658749025/2017-10-10---rough-for-opera-VOICINGS-credit-Nick-Rutter.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507658749025/2017-10-10---rough-for-opera-VOICINGS-credit-Nick-Rutter.jpg.jpg)
 <figcaption>*rough for opera #16*, "Voicings". Photo: Nick Rutter.</figcaption>
 </figure>
 
@@ -24,7 +26,9 @@ The group Voicings Collective presented their piece, "Voicings," which set out t
 
 "Radium" was the piece that felt most akin to traditional opera. Composer Georgina Bowden and librettist Eleanor Knight wrote a piece centered around young women in the early twentieth century who were tasked to working with radium paint, moistening the tip of their brushes in their mouths before painting. Here, the narrative was musically driven, as we watch beauty-obsessed workers become consumed by radium, both figuratively and literally as they collapse to their deaths at the end of the work. The singers had composed lines throughout, accompanied by an ensemble of string instruments. This piece had a traditional narrative arc as well, following Sarah, a new girl come to work in the lucrative radium industry, and ending in the demise of her and her colleagues.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507658816479/2017-10-10---rough-for-opera-RADIUM-credit-Nick-Rutter.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507658816479/2017-10-10---rough-for-opera-RADIUM-credit-Nick-Rutter.jpg.jpg)
 <figcaption>*rough for opera #16*, "Radium". Photo: Nick Rutter.</figcaption>
 </figure>
 

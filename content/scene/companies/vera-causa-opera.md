@@ -24,6 +24,7 @@ url = "https://www.instagram.com/vcopera/"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/Vera-causa-opera"
+_template = "company_single"
 +++
 
 Vera Causa Opera is an innovative opera company in the Region of Waterloo, Ontario, Canada. VCO attempts to reinstate opera as an accessible and communicative medium through the adaptation of old operas and the composition of new ones! This initiative is carried out through education in schools, camps, and integrating local performers and professionals into VCO productions, in doing so creating a new and inviting operatic environment.

@@ -21,6 +21,7 @@ url = "https://twitter.com/riccardofrizza"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/riccardofrizza/"
+_template = "people_single"
 +++
 
 Award-winning	Italian	maestro	Riccardo	Frizza	is	a	galvanic	presence	on	the	podium,	inspiring	 performances	as	exhilarating	as	they	are	expressive.	Championed by	Alberto	Zedda,	Bruno	Cagli,	and	Gian	 Carlo	Menotti,	he	is	a	leading	exponent	of	bel	canto repertoire,	collaborating	with	a	who's	who	of	today's	 most	iconic	singers	at	opera	houses	from	Milan's	Teatro	alla	Scala	to	the	Metropolitan	Opera	in	New	York.	 In	the	concert	hall,	he	graces	the	podiums	of	such	world-class	ensembles as	the	Leipzig	Gewandhaus,	 Rome's	Orchestra	dell'Accademia	Nazionale	di	Santa	Cecilia,	London's	Philharmonia	Orchestra,	and	the	 Tokyo	Symphony,	while	his	extensive	discography	includes	Decca's	Una	furtiva	lagrima,	winner	of	the	 2004	Cannes	Classical	Award. Frizza	maintains	a	strong	international	presence	in	2015-16.	

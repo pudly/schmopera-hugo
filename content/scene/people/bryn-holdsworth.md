@@ -13,6 +13,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCshi43X3Ar6gNNExfRJmKRw"
 
+_template = "people_single"
 +++
 Praised by the New York Times for her "limpid-tone, articulate soprano", Bryn Holdsworth is already garnering attention on stages throughout the country.
 

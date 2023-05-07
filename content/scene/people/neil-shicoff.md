@@ -13,6 +13,7 @@ website = "http://shicoff.com/html/e/interview_e.html"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/NeilSchicoffPage"
+_template = "people_single"
 +++
 
 Neil Shicoff (born June 2, 1949) is an American Jewish opera singer and cantor known for his lyric tenor singing and his dramatic, emotional acting.

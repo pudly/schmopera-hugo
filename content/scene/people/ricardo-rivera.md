@@ -16,6 +16,7 @@ url = "https://www.facebook.com/BaritoneRicardoRivera/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/BaritoneRicardo"
+_template = "people_single"
 +++
 
 In the spring of 2015, baritone Ricardo Rivera — who was a semi-finalist in the Met Opera National Council Auditions — made major debuts at Lyric Opera of Chicago, Houston Grand Opera, and San Diego Opera in the world premiere of *El pasado nunca se termina*, directed by Broadway and opera director Leonard Foglia, in the leading role of Acalán.  

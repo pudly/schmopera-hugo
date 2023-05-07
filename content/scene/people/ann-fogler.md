@@ -9,6 +9,7 @@ social_media = []
 title = "Ann Fogler"
 website = "https://annfogler.com/"
 
+_template = "people_single"
 +++
 Ann Fogler, mezzo-soprano, has performed with Opera Hub, Boston Art Song Society, Opera in the Ozarks at Inspiration Point, OC Ars Vocalis Academy in Rome, Italy, and the Music Festival of the Adriatic in Duino, Italy as a soloist. Recent roles include: Olga (_Eugene Onegin_), Mrs. Patrick DeRocher (_Dead Man Walking_), Ruth (_Dark Sisters_), and Bradamante (_Alcina_) with The Boston Conservatory. Ms. Fogler has also participated as a young artist in the Bonfils-Stanton Foundation program at Central City Opera for the past two summers, where she performed the role of Announcer (_Gallantry_), and was featured in scenes as Rosina (_Il Barbiere di Siviglia_), the title role in _La Cenerentola_, and Dorabella (_Così fan tutte_). 
 

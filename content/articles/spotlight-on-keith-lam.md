@@ -27,7 +27,9 @@ Simple as that. I wish everyone could pursue what he or she loves as a career, a
 
 To me, good singing means healthy singing. Nothing contrived. I believe in a good, solid, reliable vocal technique that will save your ass when you’re sick as a dog and you still have to perform because there’s no understudy.  Achieving good singing means you’re unstoppable as a performer, the possibilities are endless. That’s when you feel you’re making an "out of body" connection/experience with the audience and it doesn’t feel like you’re just "singing the notes on page".
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438515077442/Keith-13b.jpg.jpg)<figcaption>Photo by Katie Jameson.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438515077442/Keith-13b.jpg.jpg)<figcaption>Photo by Katie Jameson.</figcaption>
 </figure>
 
 ### 3. What do young singers need to do more of? What should they do less of? 
@@ -46,7 +48,9 @@ Have more confidence in yourself: if you make a mistake, don’t dwell on it.  F
 
 I’m happy to say that I do not have a bucket list role.  I worry if I do end up performing that role, then any role I perform afterwards would seem less satisfying. Schaunard from *La bohème* remains my favourite role to play. At this very moment, I would love to perform Riccardo Forth from Bellini’s *I Puritani*. Love me some beautiful and schmaltzy bel canto music. And just to add to the fun, a role I’d love to sing but never will is the Dutchman from Wagner’s *Der fliegende Hollaender*. "Die Frist ist um" is one of the most badass arias ever written.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438515099579/Keith%20Green%20Wall%201%20LG%20b.jpg.jpg)<figcaption>Photo by Phil Crozer.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438515099579/Keith%20Green%20Wall%201%20LG%20b.jpg.jpg)<figcaption>Photo by Phil Crozer.</figcaption>
 </figure>
 
 ### 5. How do you explain your job to non-music folks?

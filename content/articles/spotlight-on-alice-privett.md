@@ -27,7 +27,9 @@ I've found it really interesting to see how Mozart's presents class and status i
 
 There are other parallels with *Figaro* - Mozart chose a libretto in which the principal female character has to forgive some heinous misdoings of her male counterpart. However, Like Rosina, she does get to exact her own revenge on him throughout the opera before finally capitulating. The main message seems to me to be that forgiveness is an integral part of loving somebody. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498782174110/2017-06-29---Alice-Privett-Sandrina-Nina-Brazier-Director.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498782174110/2017-06-29---Alice-Privett-Sandrina-Nina-Brazier-Director.jpg.jpg)
 <figcaption>Alice Privett (left) as Sandrina and director Nina Brazier, in rehearsal for *La finta giardiniera*.</figcaption>
 </figure>
 

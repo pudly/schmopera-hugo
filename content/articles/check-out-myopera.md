@@ -28,7 +28,9 @@ MYOpera holds a unique space in the [indie opera](/scene/companies/indie-opera-t
 
 Seeing a MYOpera show is a unique chance to see incredibly talented emerging artists before they embark on a professional career. But this isn't a school production or a pay-to-sing program - it's a performer's (or stage director's, or music director's) first paid, professional experience. Part of the excitement of seeing a MYOpera show is knowing that the artists you see on our stage have incredible careers ahead of them. Seeing MYOpera alumni join the ranks of young artist programs across the country is a testament to the professional atmosphere we offer our singers, directors, and music directors.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443447803490/KateApplin.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443447803490/KateApplin.jpg.jpg)
 <figcaption>Kate Applin, MYO Artistic Director.</figcaption>
 </figure>
 

@@ -29,7 +29,9 @@ Connolly, whose prolific contribution to classical performance over the course o
 
 Following the Zemlinsky was Schumann's favoured _Gedichte der Königin Maria Stuart_ which was aided in performance by the addition of text recited by actress Emily Berrington. The text for these readings was devised by Laura Tunbridge and based on Schiller's 1800 play _Maria Stuart_, perhaps the most celebrated dramatic rendition of the venerated tale. Interestingly though, Schumann's text was not based on the Schiller. It instead, was taken from a collection assembled and translated by Gisbert Freiherr Von Vincke and tells a slightly different account of events. It is doubtful that any of these poems chosen by Schumann were Mary's own words, many of them having been mistakenly attributed to her, but this does not make the poems nor Schumann's settings any less meaningful or valid.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552839783/media/2019/03/SarahConnollyPeterWarren.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1552839783/media/2019/03/SarahConnollyPeterWarren.jpg)
 
 <figcaption>Sarah Connolly, mezzo-soprano. Photo: Peter Warren.</figcaption>
 

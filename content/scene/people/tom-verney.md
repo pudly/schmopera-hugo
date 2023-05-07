@@ -8,6 +8,7 @@ related_companies = ["scene/companies/classical-opera.md","scene/companies/scott
 slug = "tom-verney"
 title = "Tom Verney"
 website = "http://www.tomverney.com/"
+_template = "people_single"
 +++
 
 Tom Verney began singing as a treble in Kingston Parish Church.  As a countertenor, he spent a year as a lay-clerk in Perth Cathedral, Western Australia, before taking up a Choral Scholarship at St. John’s College, Cambridge, and studying for a degree in philosophy.  Having completed the Opera Course at the Guildhall School of Music and Drama, he now studies there with Andrew Watts, and also learns with Arwel Treharne Morgan.

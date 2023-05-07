@@ -11,6 +11,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/tenor_aaron"
 
+_template = "people_single"
 +++
 A first-rate interpreter of Bach, Handel and Mozart, **Aaron Sheehan** has performed with American Bach Soloists, Boston Baroque, Boston Early Music Festival, Calgary Philharmonic, Charlotte Symphony, Handel and Haydn Society, North Carolina Symphony, New York Collegium, Orpheus Chamber Orchestra, Pacific Music Works, National Symphony of Peru, Seattle Symphony and Tafelmusik.
 

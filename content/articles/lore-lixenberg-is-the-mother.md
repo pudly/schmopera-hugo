@@ -38,7 +38,9 @@ The satire and explosiveness is in the score, as Laurence is playing around with
 
 Also I think the Mahogany Opera Group USP is to "explode the traditions of opera" whether its in a gently radical way as in Hind's *Lost in Thought* or by grabbing them young and turning their creative heads around as in the Snappy Operas!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523236678067/MOG_wrkshps_3and4-9.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523236678067/MOG_wrkshps_3and4-9.jpg.jpg)
 <figcaption>Mahogany Opera Group Artistic Director Frederic Wake-Walker in a MOG workshop.</figcaption>
 </figure>
 

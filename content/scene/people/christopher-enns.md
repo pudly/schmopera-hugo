@@ -16,6 +16,7 @@ url = "https://www.facebook.com/ragstoreasonable"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/rags2reasonable"
+_template = "people_single"
 +++
 
 <p>

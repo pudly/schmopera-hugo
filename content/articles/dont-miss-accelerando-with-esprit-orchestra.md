@@ -20,7 +20,9 @@ The concert title derives from the orchestral work of the same name by Montréal
 
 *Accelerando* features three world premieres, all performed by the Esprit Orchestra under Music Director and conductor Alex Pauk: *Surfacing*, part of a triptych commission by Toronto-based composer [Adam Scime](/scene/people/adam-scime/); *El canto del viento*, from  Argentine-Canadian composer [Analia Lludgar](/scene/people/analia-lludgar/); and BAFTA award-winning [John Rea](/scene/people/john-rea/)'s *Survivance*, co-commissioned by Esprit and the [Toronto Symphony Orchestra](/scene/people/toronto-symphony-orchestra/) to celebrate the indigenous and Francophone communities across Canada in the country's 150th year.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484569103966/2017-01-16---Alex-Pauk---Bo-Huang.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484569103966/2017-01-16---Alex-Pauk---Bo-Huang.jpg.jpg)
 <figcaption>Alex Pauk, Music Director and Conductor of the Esprit Orchestra. Photo by Bo Huang.</figcaption>
 </figure>
 

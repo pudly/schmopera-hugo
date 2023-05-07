@@ -9,6 +9,7 @@ related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companie
 slug = "bruce-sledge"
 title = "Bruce Sledge"
 website = "http://www.brucesledge.com/"
+_template = "people_single"
 +++
 
 Bruce Sledge is one of today’s most in-demand tenori di grazia and sings a wide variety of repertoire with many international houses.

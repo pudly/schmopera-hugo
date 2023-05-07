@@ -8,6 +8,7 @@ related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/gl
 slug = "rachel-calloway"
 title = "Rachel Calloway"
 website = "http://rachelcalloway.com/"
+_template = "people_single"
 +++
 
 As an internationally recognized leading interpreter of contemporary and modern music, mezzo-soprano Rachel Calloway brings versatility and compelling insight to stages worldwide. Her work has been praised by the New York Times for “penetrating clarity” and “considerable depth of expression” and by Opera News for her “adept musicianship and dramatic flair.”

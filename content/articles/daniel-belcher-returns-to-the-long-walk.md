@@ -29,7 +29,9 @@ In researching a role, first and foremost, I have to know what the librettist an
 
 The best part is getting to know the man very well over the last four years.  When I first met Brian in New York, I was very intimidated and, honestly, worried that he would think, "Who is this guy to play me?"  It was quite the opposite; he opened his arms, said, "Opera Brian!" and gave me a hug.  He has been nothing but supportive and in fact, over the years we have become very good friends.  I have visited their house in Buffalo, played games with the kids, had barbecues, went to Royals-Blue Jays playoff games, and had innumerable discussions on life over a couple beers.  He is as generous with his story in life as he was in his book.  He truly is an open page.  My job is to tell his story as honestly, heart-felt, open, and expressively as possible.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490824107758/2017-03-30---Long-Walk-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490824107758/2017-03-30---Long-Walk-2.jpg.jpg)
 <figcaption>Daniel Belcher in *The Long Walk*. Photo: Utah Opera/Addie Salazar.</figcaption>
 </figure>
  

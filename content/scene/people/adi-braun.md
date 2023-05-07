@@ -12,6 +12,7 @@ website = "http://www.adibraun.com/#/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AdiBraun2"
+_template = "people_single"
 +++
 
 Adi Braun has a long list of cabaret, concert and theatre successes to her credit. She has performed in every major jazz and concert venue in Toronto, has toured Canada, the United States, and Europe. This fall Adi releases her fourth CD – "Canadian Scenes I" which marks her singer/songwriter debut. "Canadian Scenes I" follows Adi's three, critically-acclaimed CDs - "Delishious" (2003), short-listed for a 2004 Juno Award nomination, "The Rules of the Game" (2006), from which the song "Show Me Yours" was featured on an episode of the hit U.S. TV series "The "L" Word", and "Live at the Metropolitan Room" (2007), recorded off-the-floor at New York's acclaimed jazz/cabaret venue.

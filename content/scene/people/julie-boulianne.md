@@ -12,6 +12,7 @@ title = "Julie Boulianne"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/juli_bou"
+_template = "people_single"
 +++
 
 <p>

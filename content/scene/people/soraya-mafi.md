@@ -13,6 +13,7 @@ website = "http://www.sorayamafi.co.uk/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SorayaMafi"
+_template = "people_single"
 +++
 
 Soraya Mafi graduated from the Royal College of Music. A Harewood Artist at English National Opera, she is the winner of the 2014 Maggie Teyte Prize and 2016 Susan Chilcott Award, and won 2nd Prize at the 2015 Kathleen Ferrier Awards.

@@ -29,6 +29,7 @@ platform = "Linkedin"
 template = "social-media"
 url = "https://www.linkedin.com/in/michael-spyres-343aab1a/"
 
+_template = "people_single"
 +++
 Michael Spyres is one of the most sought after tenors of his generation and has been celebrated at many of the most prestigious international opera houses, festivals and concert halls. In the widest range of repertoire his career has taken him from the genres of Baroque to Classical to 20th century, while firmly establishing himself as a specialist in the Bel Canto repertoire as well as Rossini and French Grand Opera.
 

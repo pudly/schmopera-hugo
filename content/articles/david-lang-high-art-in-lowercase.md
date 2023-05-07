@@ -25,7 +25,9 @@ Opera – which Mr. Lang defines much more broadly than many – has consistentl
 
 That's not to say he isn’t a great fan of tradition. In fact, when he was in Latvia, he attended performances of the Latvia National Opera for an entire week seeing long-established productions which were still influenced by the Soviet music education system; the highest of standards, but the opposite of innovative. "I just relaxed and enjoyed it," he remembers, "no one was trying to shock us."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1676255914/media/2023/02/davidlang_peterserling_n4favf.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1676255914/media/2023/02/davidlang_peterserling_n4favf.jpg)
 
 <figcaption>Composer David Lang. Photo: Peter Serling.</figcaption>  
 </figure>
@@ -54,7 +56,9 @@ _note to a friend_ shines a light on a dark subject – suicide – which in thi
 
 Mr. Lang also returns to one of his favorite themes – not just death, but _the exact moment of death_, which he has explored in a number of his operas, and in his song cycle _death speaks_ (2012). "Music," he explains, "is a good place to explore what you’re curious about that can’t be proved." To him, death is one such unexplained mystery as is music itself.  Despite all his accomplishments, he feels that "it's a mystery how music conveys something."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1676255944/media/2023/02/DavidLang_screamo_czgdc3.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1676255944/media/2023/02/DavidLang_screamo_czgdc3.jpg)
 
 <figcaption>Composer David Lang. Photo: Peter Serling.</figcaption>  
 </figure>

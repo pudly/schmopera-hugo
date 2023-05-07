@@ -19,7 +19,9 @@ The "funny gig" is no small house debut for Wake-Walker, and he "relished" the o
 
 Wake-Walker is not the first director to see that Mozart's *Figaro* is "an incredibly complex piece," full of characters who are "finely drawn." He sees the story of love, marriage, status as one that represents all people, and one that takes us through "all the issues of the world." 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478535063085/2016-11-08---Photo-credit-BresciaAmisano-Teatro-alla-Scala-3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478535063085/2016-11-08---Photo-credit-BresciaAmisano-Teatro-alla-Scala-3.jpg.jpg)
 <figcaption>Rehearsing *Le nozze di Figaro* at La Scala. Photo by Brescia Amisano, copyright Teatro alla Scala.</figcaption>
 </figure>
 
@@ -27,7 +29,9 @@ Wake-Walker is not the first director to see that Mozart's *Figaro* is "an incre
 
 "It's an impossibility, it's a world where everyone is loving and forgiving," he explains. "And yet it's there right in front of us on the stage." With this final image, Mozart and Da Ponte pose a question to the public: "Why can we put it up here, why can it not exist over there, [in real life]?"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478535126548/Photo-credit-BresciaAmisano-Teatro-alla-Scala-4.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478535126548/Photo-credit-BresciaAmisano-Teatro-alla-Scala-4.jpg.jpg)
 <figcaption>Frederic Wake-Walker rehearsing *Le nozze di Figaro* at La Scala. Photo by Brescia Amisano, copyright Teatro alla Scala.</figcaption>
 </figure>
 
@@ -35,7 +39,9 @@ Staging masterpieces in historical theatres is only one way that Wake-Walker cre
 
 "I'm going to go from the rehearsal room in Milan to a primary school in west Cumbria, which is pretty cool," says Wake-Walker. Mahogany has already developed the first Snappy Opera, *The Itch Witch* by Emily Hall and Toby Litt, and now they're working on the next four. The Snappy Operas will travel to various regions in the UK, along with scores and teaching resources to help schools pick them up independently of the workshop process. Developing these ten Snappy Operas "is also a way of building these ongoing relationships with these ten regions in the UK," Wake-Walker explains. With these relationships, Mahogany can develop teams of conductors, directors, and répétiteurs for each region, and Wake-Walker looks forward to "whole follow-up programme" planned for the future, including larger-scale commissions for children's operas.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478535159349/2016-11-08---Photo-credit-BresciaAmisano-Teatro-alla-Scala.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478535159349/2016-11-08---Photo-credit-BresciaAmisano-Teatro-alla-Scala.jpg.jpg)
 <figcaption>Frederic Wake-Walker rehearsing *Le nozze di Figaro* at La Scala. Photo by Brescia Amisano, copyright Teatro alla Scala.</figcaption>
 </figure>
 

@@ -30,7 +30,7 @@ From there, we do peer-peer sales and figure out if the person is close enough t
 
 I've met a few singers with incredible items that I will routinely contact if I want something new as I know we are the same size. For $75, I can afford to look and feel my best. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442233288971/Suzanne-Vinnik-Photo-by-Allison-M.-Harrell.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442233288971/Suzanne-Vinnik-Photo-by-Allison-M.-Harrell.jpg.jpg)
 <figcaption>Photo by Allison M. Harrell. </figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ For me, engaging in my community has been a game changer. We've been able to tak
 
 I've never found something suitable for $75 in a store. If I rent out a dress a few times and/or sell it for a lower price, I don't feel guilty. Just this afternoon I sold an $875 [Theia gown](http://theiacouture.com/) for $275 and didn't feel totally sick over it because I've worn it in the George London Finals, Irene Roberts wore it at the Hollywood Bowl and it's appeared in photoshoots on three different singers beside myself! The sharing economy and peer-to-peer sales are the future!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442196040990/_MG_6340edithighres.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442196040990/_MG_6340edithighres.jpg.jpg)
 <figcaption>Photo by Rebecca Fay.</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ Ms. Damrau ended up wearing two of them in her photos and actually loved one so 
 
 There are several that are popular with the divas - I've had several Theia gowns which are in my opinion the best to sing in as they are well made and have inner corsets made out of mesh on the inside. Oprah wears them on most red carpets too - I get it! I also have a few Badgley Mischka gowns which I've recently sold after many rentals and a Jovani that picks up turquoise and a shimmery purple hue under the stage lights. My Betsey Johnson gowns, I can't ever part with as she is my idol and inspiration to be myself, no matter what anyone else thinks! 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442232796875/Suzanne%20Vinnik%20Photo%20by%20Jerry%20Metellus%202.jpg.jpg)
+<figure data-type="image">//res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442232796875/Suzanne%20Vinnik%20Photo%20by%20Jerry%20Metellus%202.jpg.jpg)
 <figcaption>Photo by Jerry Metellus.</figcaption>
 </figure>
 

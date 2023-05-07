@@ -39,7 +39,9 @@ Van Horn is working for the first time with director [Joel Ivany](/scene/people/
 
 In rehearsal for Escamillo's mega-famous entrance, "the first thing I said to \[Joel\], I said, 'I don't really want to get on a table. Let's not be cliché and get on the stupid table'. And he said, 'Ok', and I said, 'Oh, we're going to be best friends.'" At 6'6", Van Horn likes to sing with his feet on the ground, despite some conventional staging for the Toreador Song. "I don't think the biggest guy in the room needs to get on the table," he adds with a laugh.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458736718266/2016-03-23---Boheme-Met.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458736718266/2016-03-23---Boheme-Met.jpg.jpg)
 <figcaption>l-r: Joshua Hopkins, Irina Lungu, Alexsei Markov, Maija Kovalevska, Joseph Calleja, and Christian Van Horn, taking a curtain call at The Metropolitan Opera's _La bohème_, 2014. Photo via christianvanhorn.com.</figcaption>
 </figure>
 

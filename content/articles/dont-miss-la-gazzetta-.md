@@ -21,7 +21,9 @@ Secondly, *Gazzetta* was written very specifically for the audience in Naples. T
 
 The plot of *Gazzetta* is no more thin (and actually much more believable) than say, *Barbiere*, but it is less direct perhaps. In *Barbiere*, guy wants girl and disguises himself to get here - the end. In *Gazzetta* there is a secondary couple, a father/daughter relationship, and other side plots that kind of distract from the main simplistic plot. I think this makes for a better story, but maybe not. And of course *Cenerentola*'s plot is a classic fairytale, so it was known already.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530030928524/sqLa-gazzetta.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530030928524/sqLa-gazzetta.jpg.jpg)
 </figure>
 
 ## What do you think *La gazzetta* says about women and the concept of marriage?

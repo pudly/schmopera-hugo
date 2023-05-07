@@ -26,7 +26,9 @@ The pigeon's feet seemed to speak for lots of reasons. In London, pigeons are th
 
 It was this juxtaposition, and the indignity of an animal losing its feet for a reason we would now consider to be quite minor, which formed the basis of the idea. Our main character, the pigeon (sorry, rock dove) just wants to tell her story and get a bit of attention for once. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475227023647/2016-09-30---Horniman-Museum.jpg.jpg)<figcaption>The Horniman Museum, London.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475227023647/2016-09-30---Horniman-Museum.jpg.jpg)<figcaption>The Horniman Museum, London.</figcaption>
 </figure>
 
 We called it an "opera installation," because it's a short piece that occurs 3 times throughout the evening, but the performer will also be around other areas of the museum (mainly pecking and insulting and moaning about the other exhibits) when she's not performing her main piece.

@@ -13,6 +13,7 @@ website = "http://www.kimberlybarber.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/thislandcanada"
+_template = "people_single"
 +++
 
 If childhood pursuits were any indication, it would have been obvious that Kimberly Barber would have a bright future on world stages and in the hallowed halls of academe. Favourite early roles were Catwoman and alter ego (strongly modelled on “It” girls of the day, Lulu and Petula Clark) Lynn Warner, played out to excess in her suburban Willowdale basement. A close second in the make-believe sweepstakes was the role of teacher, probably because she was so bossy.  

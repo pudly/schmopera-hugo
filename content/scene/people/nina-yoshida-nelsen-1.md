@@ -15,6 +15,7 @@ platform = "Linkedin"
 template = "social-media"
 url = "https://www.linkedin.com/in/nina-nelsen-a8634832/"
 
+_template = "people_single"
 +++
 Hailed as a “rich voiced, expressive mezzo-soprano” by San Francisco Classical Voice and “appealingly direct and honest in tone and bearing,” by Richard Dyer of the _Boston Globe_, Nina Yoshida Nelsen made her New York City Opera debut with great success as Suzuki in _Madama Butterfly_, conducted by George Manahan.
 

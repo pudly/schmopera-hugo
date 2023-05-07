@@ -24,7 +24,9 @@ The set itself (designed by Christopher S. Dills) was effective, transforming th
 
 The first act follows an aged Krystyna Zywulska, as she struggles to record material for an upcoming biography chronicling her time as a political prisoner in Auschwitz-Birkenau. In truth, Krystyna Zywulska is Sonia Landau, a Jew who has hidden her name and her heritage. The grown Krystyna seems flighty, almost carefree as she attempts to recount her story without frustrating herself. Zywulska wants to be seen as more than a survivor-- a hero, her guilt over surviving seems to take her back as she's haunted by a seemingly nameless ghost that she cannot ignore.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523297451517/JB4A7014.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523297451517/JB4A7014.jpg.jpg)
 <figcaption>*Out of Darkness: Two Remain*, the Atlanta Opera, 2018. Photo courtesy of The Atlanta Opera.</figcaption>
 </figure>
 
@@ -38,7 +40,9 @@ Director Tomer Zvulun's premise for this piece kept Krystyna (the elder) in some
 
 Maria Kanyova plays the present Krystyna Zywulska, playing the role with a whimsy that seemed to brush off the pains of her past until her character breaks. Kanyova's soprano was effortless and controlled, mixing perfectly with Second Year Atlanta Opera Studio Artist Bryn Holdsworth, who played the younger Krysia with the warmth and depth I have expected from Ms. Holdsworth since seeing her in *Seven Deadly Sins* last year. Ms. Holdsworth's performance, alongside Ms. Kanyova’s, was a double-whammy of total devastation as we learned to suffer alongside them. Mezzo-soprano [Elisa Quagliata](/scene/people/elise-quagliata/) sang a warm and thick Zosia. Her voice boomed in the house, making me wish that we could have heard more of her. Rounding out the cast as Edka was Atlanta Opera Studio Artist Gina Perregrino whose mezzo-soprano held strong among the larger roles; her dramatic integrity helped bring a sincerity to Krysia's naivety.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523297588355/JB4A6348.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523297588355/JB4A6348.jpg.jpg)
 <figcaption>*Out of Darkness: Two Remain*, the Atlanta Opera, 2018. Photo courtesy of The Atlanta Opera.</figcaption>
 </figure>
 

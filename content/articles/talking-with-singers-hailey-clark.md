@@ -36,7 +36,9 @@ It's easy looking at this story with broad strokes to think that Anne is silly a
 
 Our director Lydia Steier has taken great care in defining relationships between each character, and I feel fortunate that my colleagues, (Seth Carico singing Nick Shadow, Eve-Maud Hubeaux as Baba the Turk, and tenor Matthew Newlin in the title role), are incredibly giving, adaptable and dynamic actors able to make this an even more relatable tale.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526259464333/_U2_5530_Clark_Newlin_Carico-c-LucianHunziker.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526259464333/_U2_5530_Clark_Newlin_Carico-c-LucianHunziker.jpg.jpg)
 <figcaption>Hailey Clark, Matthew Newlin, and Seth Carico in *The Rake's Progress*, Theater Basel, 2018. Photo: Lucian Hunziger.</figcaption>
 </figure>
 

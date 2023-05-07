@@ -28,7 +28,9 @@ In this way, we are as much a commissioning organization as we are a producing o
 
 **Matt**: I think it is underrepresented how much control the composer has over the libretto — they can be involved heavily in the libretto. Often some of the most organic text setting comes from words written or rephrased by the composer. The mythical idea of the libretto as some handed-down "sacred" text that the composer is slave to can be dismissed. Choosing who to collaborate with on the text is crucial, and ideally the work is fully generated in collaboration to best serve the expressiveness and clarity of the interdisciplinary elements so that they fuse into one. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507662457882/2017-10-10---Nubian-Word-Banner-v2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507662457882/2017-10-10---Nubian-Word-Banner-v2.jpg.jpg)
 </figure>
 
 ### What does it mean to be a "composer-driven" organization? If composers are the visionaries of 21st-century opera, what roles do the artists and audiences have in workshopping new pieces?

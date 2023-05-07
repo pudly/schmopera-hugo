@@ -7,6 +7,7 @@ publishDate = "2017-08-24T17:58:00-04:00"
 slug = "shannon-mercer"
 title = "Shannon Mercer"
 website = "http://www.shannonmercer.com/"
+_template = "people_single"
 +++
 
 Recognized for the luminosity and effortless agility of her voice, as well as her commanding stage presence and profound acting ability, Canadian soprano Shannon Mercer enthusiastically embraces a range of repertoire from early to contemporary music, from Francesca Caccini and Monteverdi to John Beckwith and Ana Sokolovic. Shannon maintains a busy and challenging performance calendar of opera, concert, and recital engagements throughout North America and Europe while also sustaining an active recording presence, capturing some rarely performed works.

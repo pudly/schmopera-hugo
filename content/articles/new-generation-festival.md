@@ -41,7 +41,9 @@ This opera unfolds around the notion of disguise and of pretense: each character
 
 I am also excited to have a predominantly female production team around me, made up of inspiring women with strong ideas and the conviction to realise them.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552009961/media/2019/03/VictoriaStevensBW.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1552009961/media/2019/03/VictoriaStevensBW.jpg)
 
 <figcaption>Victoria Stevens, stage director.</figcaption>
 

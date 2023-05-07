@@ -7,6 +7,7 @@ publishDate = "2015-10-15T13:13:00-04:00"
 related_companies = ["scene/companies/lynx-project.md"]
 slug = "florence-mak"
 title = "Florence Mak"
+_template = "people_single"
 +++
 
 From Canada to Spain to the United States, Canadian pianist Florence Mak has established herself as a versatile musician.  She earned her Bachelor and Master of Music degrees in Piano Performance at the University of Toronto, where she studied with Henri-Paul Sicsic and Jamie Parker.  While in Toronto, she also volunteered at the Holland Bloorview Kids Rehabilitation Hospital, and spent most of her time on the complex-continuing-care unit.

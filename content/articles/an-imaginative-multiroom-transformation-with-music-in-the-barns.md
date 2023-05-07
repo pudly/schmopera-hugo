@@ -16,7 +16,7 @@ title = "An &quot;imaginative multi-room transformation&quot; with Music in the 
 
 The event is created for [CART/ACRT 2017 Conference Performing the Anthropocene: Setting the Stage for the End of the World](http://catracrt.ca/conference/catracrt-2017-performing-anthropocene/), and centres on a performance of John Cage's performance piece, *Lecture on the Weather* (1976). The piece was commissioned by the CBC, in recognition of the American bicentennial; the text, delivered by 12 performers, features an introduction by Cage himself, expressing dismay at the actions (or inaction) of the American government.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494953963218/2017-05-16---2014-01-25-Cinerama-072.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494953963218/2017-05-16---2014-01-25-Cinerama-072.jpg.jpg)
 </figure>
 
 Doors open at 6:30pm, and leading up to the mainstage event at 8pm, you can take [*Becoming Sensor*](https://plantstudies.wordpress.com/becoming-sensor-in-an-oak-savannah/), the multi-sensory installation by Ayelen Liberona, Natasha Myers, and Allison Cameron, and *The Great Arc*, performed by NYC duo [Dana Lyn and Kyle Sanna](http://danalynkylesanna.com/).

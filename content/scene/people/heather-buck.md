@@ -9,6 +9,7 @@ social_media = []
 title = "Heather Buck"
 website = ""
 
+_template = "people_single"
 +++
 Praised by Opera News as “the kind of performer who makes it all look easy,” Heather Buck is best described by opera critic David Shengold as “a lithe and impactful actress with an uncommonly beautiful soprano for the high-lying and testing repertory she serves." In the 2019-20 season, she sings Leïla in _Les pêcheurs de perles_ with Opera in Williamsburg, Herodiade in Stradella’s _San Giovanni Battista_ with Opera Omaha, Louis Karchin’s _Four Songs on Poems by Seamus Heaney_ at the Bowling Green New Music Festival, and _Carmina Burana_ with Symphony of Northwest Arkansas and West Virginia Symphony.
 

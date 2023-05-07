@@ -18,7 +18,9 @@ O'Reilly's libretto draws from the historical accounts of the fire that swallowe
 
 The Temple Church, though, survived. "There are bound to have been those who watched from the roof of the Temple Church as the skies darkened and the roar and glow of the flames came ever closer, driven unstoppably on by a near gale," writes Donald Cryan, Teasurer of the Honourable Society of the Inner Temple. "There were the citizens of London in unprecedented numbers, rich and poor, whose homes and livelihoods had been devastated. There was the great City itself, with its mansions, hovels, workshops, warehouses, shops, counting-houses, gaols, Livery Halls, churches and the great Cathedral of St. Paul, all no more than a smouldering desert."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477935778755/2016-10-31---Temple-Music-175.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477935778755/2016-10-31---Temple-Music-175.jpg.jpg)
 <figcaption>Photo by Chris Christodoulou.</figcaption>
 </figure>
 
@@ -33,6 +35,8 @@ Earning more fear than the fire itself were the stories of the Londoners, repres
 
 Director Sinéad O'Neill made great use of the Temple Church interior, placing voices above and around the audience, as though the listeners were at the heart of the action.  The singers had great clarity of text, working hard against the impressive echo of the Church's acoustics. The runway stage was a great solution to the tricky seating set-up; at times, visibility was difficult when the singers moved to the extreme ends of the stage. Still, *And London Burned* is a piece that we'd love to see again, if only to keep our eyes on new characters.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477935770736/2016-10-31---Temple-Music-139.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477935770736/2016-10-31---Temple-Music-139.jpg.jpg)
 <figcaption>Photo by Chris Christodoulou.</figcaption>
 </figure>

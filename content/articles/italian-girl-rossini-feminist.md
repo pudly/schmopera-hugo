@@ -30,7 +30,9 @@ Characters use tactics to get what they want from others, these tactics often co
 
 While this can get very technical and detailed, it gives the effect of variety and keeps the audience interested.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492865551155/2017-04-22---Anna-Theodosakis.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492865551155/2017-04-22---Anna-Theodosakis.jpg.jpg)
 <figcaption>Anna Theodosakis, director of MYOpera's *L'italiana in Algeri*.</figcaption>
 </figure>
 

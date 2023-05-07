@@ -18,7 +18,9 @@ Sometimes when a singer makes his or her opera company debut, the results are ea
  
 Mr. Rodriguez is the real story here. The stage effect of thunder is important to the final act of the opera, but the voice of Mr. Rodriguez is thunder itself for all three acts. In both singing and acting, he masterfully plays all the agonizing transitions of the character: from snarky to angry to pathetic and, ultimately, to tragic. In fact, he has to portray almost all of these emotions in the course of one aria, "Cortigiani, vil razza dannata!" It takes a world-class performer to do that.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526481932052/rig_0055p.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526481932052/rig_0055p.jpg.jpg)
 <figcaption>Arturo Chacon-Cruz (The Duke of Mantua) and Liv Redpath (Countess Ceprano) in LA Opera's 2018 production of *Rigoletto*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
  
@@ -26,7 +28,9 @@ Mr. Rodriguez elevates every moment where he is present. [Lisette Oropesa](/scen
  
 The score by Giuseppe Verdi made him famous and ushered in a period where he was at the height of his prolific powers (*Il Trovatore* and *La Traviata* would soon follow.) There is burst of creativity in this so-called "middle period" where Verdi breaks away from Italian opera conventions and becomes a true dramatist. (As mentioned, he does pause to insert a bel canto aria, a nod to the past, but it reflects Gilda's ecstasy in the story as much as it reflects her vocal prowess.) Verdi's powers would continue to grow, leading to *Aida*, *Otello* and *Falstaff*, but his output would slow down. The energy and drive, as well as the abundance of melody have made *Rigoletto* one of the top ten most-performed operas of all time.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526481982217/rig_1022p.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526481982217/rig_1022p.jpg.jpg)
 <figcaption>Lisette Oropesa (Gilda) in LA Opera's 2018 production of *Rigoletto*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
  
@@ -34,7 +38,9 @@ The score by Giuseppe Verdi made him famous and ushered in a period where he was
  
 Verdi and his oft-used collaborator, librettist Francesco Maria Piave, had a problem getting past the censors almost 170 years ago, due to their depiction of the violent, hedonistic and amoral world of aristocrats. Human life has no value here. In fact, at one point the chorus says, "Hey, there’s Rigoletto - let's kill him!" They decide, instead, to play a cruel joke on the court jokester. Here in Mantua, fun can range from murder to just a prank, depending on the whim of the herd mentality.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526481951394/rig_2648p.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526481951394/rig_2648p.jpg.jpg)
 <figcaption>Juan Jesus Rodriguez (Rigoletto) in LA Opera's 2018 production of *Rigoletto*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
 
@@ -42,7 +48,9 @@ To protect his daughter from the Duke (and his entourage of like-minded cruel co
 
 In Piave's libretto (based on a work by Victor Hugo), Rigoletto begins as a willing accomplice to his employer. When Monterone crashes the opening party at the Duke's palace to denounce the Duke for deflowering his daughter, Rigoletto leads the party-goers in the taunting and mocking. But a capricious kind of karma turns events on the jester, and he finds himself cursed by Monterone while the Duke gets off scot-free. Though Monterone is a small role, his curse and the repeat of the curse is what drives the action of the whole story and [Craig Colclough](/talking-with-singers-craig-colclough/) makes the most of his time on stage. The world of Mantua trembles with his bass-baritone.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526482006486/rig_2568p.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526482006486/rig_2568p.jpg.jpg)
 <figcaption>Morris Robinson (Sparafucile) in LA Opera's 2018 production of *Rigoletto*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
 
@@ -50,7 +58,9 @@ In Piave's libretto (based on a work by Victor Hugo), Rigoletto begins as a will
 
 Arturo Chacon-Cruz as the Duke has a tough job playing one of the world's most iconic tenor roles, singing some of the most recognized music in opera history. ("La donne è mobile", etc.) There are a number of other performers who have done better with the role. He sings more in bursts and tends to cut himself off where there should be the fluidity we've come to expect in Verdi's music.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526482018924/rig_3170p.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526482018924/rig_3170p.jpg.jpg)
 <figcaption>Juan Jesus Rodriguez (Rigoletto) and Craig Colclough (Monterone) in LA Opera's 2018 production of *Rigoletto*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
 
@@ -58,7 +68,9 @@ Constance Hoffman's period costumes are superb and are literally "a stand-out" w
  
 The lighting from Robert Wierzel is as dark as the subject matter. In fact, Sparafucile is just an ominous shadow during his introductory scene; only his murderous hands make their way into the light. Oven-red lights pour out from between Mr. Yeargan's arches, symbolizing the passions and bloodletting inside, as if they were furnaces rather than buildings. He also uses a beautiful deep purple to enhance the inky black night where Rigoletto is blind to his daughter's abduction.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526482028177/rig_1994p.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526482028177/rig_1994p.jpg.jpg)
 <figcaption>Lisette Oropesa (Gilda) and Juan Jesus Rodriguez (Rigoletto) in LA Opera's 2018 production of *Rigoletto*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
 
@@ -66,7 +78,9 @@ Director Mark Lamos has brought some nice touches, but the opening number is fre
  
 Mr. Lamos errs in the other direction as well, confining the second half of Act I to a small box on the enormous Dorothy Chandler Pavilion stage. The characters have almost nowhere to move, putting a restraint on some of the opera's most memorable musical moments.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526481940167/rig_1579p.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526481940167/rig_1579p.jpg.jpg)
 <figcaption>A scene in LA Opera's 2018 production of *Rigoletto*. Photo: Ken Howard/LA Opera.</figcaption>
 </figure>
 

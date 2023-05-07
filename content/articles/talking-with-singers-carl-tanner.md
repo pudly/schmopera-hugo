@@ -26,7 +26,9 @@ I always loved Puccini's *Tosca* and the role of Cavaradossi. It was my fantasy 
 
 I'm truly honored and excited that Michael Keaton and others approached me about the interest in making a movie about my life. I know my path to the present is a highly unusual one. I have learned that things move at weird paces in Hollywood. I'm blessed that my story has the attention of others.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505837964548/2017-09-19--carl-tanner-aida-washington-national.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505837964548/2017-09-19--carl-tanner-aida-washington-national.jpg.jpg)
 <figcaption>Tanner as Radamès in *Aida*, Washington National Opera, 2017. Photo: Scott Suchman.</figcaption>
 </figure>
 

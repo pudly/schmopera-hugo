@@ -20,7 +20,9 @@ Friday night's concert began with Yannick Plamondon's Sesquie for Canada's 150th
 
 The night's salute to Glenn Gould was generous, connected likably by host Colm Feore, whose own relationship with the Canadian pianist comes in his [*Thirty-Two Short Films About Glenn Gould*](http://www.imdb.com/title/tt0108328/) (1993). We heard Kelly-Marie Murphy's fantastical *Curiosity, Genius, and the Search for Petula Clark*, inspired by Gould's fascination with chasing radio stations along a drive up to Northern Ontario; at various points, Gould could hear on the radio the strains of Petula Clark's ["Who Am I?"](https://www.youtube.com/watch?v=Tvs-x6HKU6g), and he began to drive strategically so as not to miss the relayed broadcasts of the song. He speaks about this pop song with the same focus and intellect as he would use on Bach," writes Murphy in her programme notes. "It is both funny and charming." Murphy's piece is completely fun to hear, very film-score-inspired, yet fully capable of standing alone in a concert setting. The percussion section seemed to hog the spotlight, except during the notable exceptions of the kick-ass brass writing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506261730495/2017-09-24---Jonathan-Crow-Kelly-Marie-Murphy-Peter-Oundjian-pc-Jag-Gundu.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506261730495/2017-09-24---Jonathan-Crow-Kelly-Marie-Murphy-Peter-Oundjian-pc-Jag-Gundu.jpg.jpg)
 <figcaption>TSO Concertmaster Jonathan Crow, composer Kelly-Marie Murphy, and TSO Music Director Peter Oundjian. Photo: Jag Gundu.</figcaption>
 </figure>
 
@@ -28,7 +30,9 @@ Wagner's *Siegfried Idyll* came as a gorgeous sorbet for the ears. Its place on 
 
 The concert's second half was filled by Johannes Brahms' mammoth *Piano Concerto No. 1 in D Minor*. The piece is heavy, yet the Gould connection is a cool mix of intriguing and light-hearted. Gould's infamous [1962 performance of the concerto](https://www.youtube.com/watch?v=zuxPKikM0NI) with the New York Philharmonic was part of his significant working partnership with Leonard Bernstein - "Glenny and Lenny". Before Gould's performance, [Bernstein made an introduction-disclaimer](https://www.youtube.com/watch?v=zuxPKikM0NI) (perhaps intended as a joke) that their opinions over the tempo was one of their largest artistic differences to date. In short, Gould wanted the Concert played slowly, and Bernstein wanted it fast.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506261842896/2017-09-24---full---Jan-Lisiecki-Peter-Oundjian-Jag-Gundu.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506261842896/2017-09-24---full---Jan-Lisiecki-Peter-Oundjian-Jag-Gundu.jpg.jpg)
 <figcaption>Pianist Jan Lisiecki and TSO Music Director Peter Oundjian. Photo: Jag Gundu.</figcaption>
 </figure>
 

@@ -35,7 +35,9 @@ My relationships with family and friends are hugely important to me. It's diffic
 
 In terms of staying healthy, I am mindful of drinking plenty of water and eating well. If I feel the slightest start of a cold coming on, it's the whole kitchen sink to the rescue, and plenty of sleep!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553019716/media/2019/03/SorayaMafi.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1553019716/media/2019/03/SorayaMafi.jpg)
 
 <figcaption></figcaption>
 

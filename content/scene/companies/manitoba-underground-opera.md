@@ -21,6 +21,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/mbUNDERGROUND10"
 
+_template = "company_single"
 +++
 ### Who we are
 

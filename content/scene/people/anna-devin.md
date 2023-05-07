@@ -21,6 +21,7 @@ url = "https://twitter.com/annadevin"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/anna.devin/"
+_template = "people_single"
 +++
 
 Widely acknowledged as one of today’s brightest young sopranos for her vocal versatility and strong stage presence, Anna Devin has established an international career since graduating from the Royal Opera House’s Jette Parker Young Artist programme in 2012. The 2014/15 season culminated in Anna receiving a prestigious Helpman Award for ‘Best Supporting female in an opera” for her portrayal of Clotilde in Handel’s *Faramondo* at Brisbane Baroque

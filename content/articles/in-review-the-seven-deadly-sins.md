@@ -22,7 +22,9 @@ The stage was set in a claustrophobic bedroom scene with a shocking red sheet on
 
 A projection screen upstage obscured the cleverly arranged orchestra, and provided what would turn out to be some of my favourite visuals that I've seen in a projection since [Opera Erratica](http://erratica.org/projects/dido-and-aeneas)'s production of *Dido and Aeneas* years ago. We'll talk about them more in a bit.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443364773331/SDSResized.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443364773331/SDSResized.jpg.jpg)
 <figcaption>Stephanie Conn as Anna. Photo by Rick Harris.</figcaption>
 </figure>
 
@@ -36,7 +38,9 @@ The orchestra was great though. The arrangements by [Scott Gabriel](/scene/peopl
 
 The video was a mixture of surtitle translations and various vignettes in black and white that illustrated and supported what was happening on stage, rather than detract from it. #wellplayed
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443364712251/20150924-IMG_4593.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443364712251/20150924-IMG_4593.jpg.jpg)
 <figcaption>l-r: Christopher Wattam, Charles Fowler, Scott Gabriel, Will Lewans and Bryan Martin. Photo by Rick Harris.</figcaption>
 </figure>
 

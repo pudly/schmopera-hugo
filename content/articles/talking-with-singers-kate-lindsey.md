@@ -20,7 +20,9 @@ title = "Talking with singers: Kate Lindsey"
 
 Nicklausse is one of Lindsey's signature roles; indeed, her performance in Bartlett Sher's 2009 production of *Hoffmann* at the Metropolitan Opera was a major turning point in the mezzo's career. Though it's still one of her bread-and-butter roles, Lindsey appreciates some novelty each time she takes on Nicklausse and The Muse. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477844671881/Lindsey---Hoffmann---Muse---Elise-Bakketun.jpg.jpg)<figcaption>Lindsey as The Muse in Seattle Opera's *Les contes d'Hoffmann*, 2014. Photo by Elise Bakketun.</figcaption> 
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477844671881/Lindsey---Hoffmann---Muse---Elise-Bakketun.jpg.jpg)<figcaption>Lindsey as The Muse in Seattle Opera's *Les contes d'Hoffmann*, 2014. Photo by Elise Bakketun.</figcaption> 
 </figure>
 
 "That's the interesting thing in particular about this opera, is that there are many choices," she says, referring to the multiple versions of Offenbach's score, in which music is added and deleted, lines redistributed among the characters, and the acts can be re-ordered. "There's always something that I have to learn to add into it or take out, or keep myself from singing certain lines, because it's not my line anymore," she laughs.
@@ -35,7 +37,9 @@ With any role, though, it's an active task for a singer to keep it fresh both fo
 
 Often found close to self-doubt is the demon of substance abuse, something which affects the alcoholic Hoffmann. "There are many artists who live in that realm," says Lindsey, citing examples like Amy Winehouse and Kurt Cobain. "It's an interesting thing to examine. To a certain point, that's the axis off of which they create, within in their destructive pattern. But if they go too far, obviously there is no more creation, there is no more art."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477844708674/2016-10-30---Lindsey---Ariadne---Elise-Bakketun.jpg.jpg)<figcaption>Lindsey as the Komponist in Seattle Opera's *Ariadne auf Naxos*, 2015. Photo by Elise Bakketun.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477844708674/2016-10-30---Lindsey---Ariadne---Elise-Bakketun.jpg.jpg)<figcaption>Lindsey as the Komponist in Seattle Opera's *Ariadne auf Naxos*, 2015. Photo by Elise Bakketun.</figcaption>
 </figure>
 
 Even success can hinder an artist's ability to work, particularly with the same motivation and freedom as their fans expect. "They have such a desire to create, and then all of a sudden they sort of explode onto the scene," says Lindsey. "I feel a lot of sympathy for that, because the pressures happen so quickly." It's something familiar to opera singers, too; once the public hears of their skills, the pressure to maintain and improve is huge.
@@ -50,7 +54,9 @@ Even with her experience on the world's major stages, and in the world's movie t
 
 It's a thoughtful pursuit for Lindsey, who spends time practicing that openness, what she calls "being really gentle with yourself." More introverted by nature ("I get my energy from quiet time"), Lindsey understands how the psychology of singing can be harder to master than excellent vocal technique. "I think that's the difference between the people that really do well in the work, and the people that struggle, because so much of it is mental." 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477844816738/Dido_and_Aeneas_2015_Kate_Lindsey_Balthasar-Neumann-Chor%20und-Solisten%20-%20Salzburg%20-%20Monika_Rittershaus.jpg.jpg)<figcaption>Lindsey as Dido, with the Balthasar Neumann Chor, in *Dido and Aeneas*, Salzburg Festival, 2015. Photo by Monika Rittershaus.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477844816738/Dido_and_Aeneas_2015_Kate_Lindsey_Balthasar-Neumann-Chor%20und-Solisten%20-%20Salzburg%20-%20Monika_Rittershaus.jpg.jpg)<figcaption>Lindsey as Dido, with the Balthasar Neumann Chor, in *Dido and Aeneas*, Salzburg Festival, 2015. Photo by Monika Rittershaus.</figcaption>
 </figure>
 
 Now, Lindsey approaches risk with the understanding that her career - in its current state - is temporary. "This is a limited time offer - this whole career, singing these roles - it's not going to be forever," she says. "It's really about enjoying what we got while we got it." That mindset makes the risk seem less dangerous, and allows her to say, "Well, fuck it, I'm here and I'm going to try it," and gives Lindsey some freedom from the "other noise."
@@ -59,7 +65,9 @@ Now, Lindsey approaches risk with the understanding that her career - in its cur
 
 The natural ebbs and flows of the voice are exactly that, and Lindsey likens singing to her yoga practice. "There are days when just being in the pose, holding the pose, everything feels creaky, I'm really in my head, the body feels heavy. It's like the machinery is a little bit out of whack." On other days, the poses flow. "I'm not thinking about it so much. I'm just there and I'm not fighting it," explains Lindsey. That, she says, is comparable to a great night of singing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477844808165/2016-10-30---Lindsey-Annio---Met---Ken-Howard.jpg.jpg)<figcaption>Lindsey as Annio in The Metropolitan Opera's *La clemenza di Tito*, 2013. Photo by Ken Howard.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477844808165/2016-10-30---Lindsey-Annio---Met---Ken-Howard.jpg.jpg)<figcaption>Lindsey as Annio in The Metropolitan Opera's *La clemenza di Tito*, 2013. Photo by Ken Howard.</figcaption>
 </figure>
 
 "There's no determining necessarily when and how it's going to happen," she adds, with a refreshing calmness that's rare when it comes to what's often beyond a singer's control. Lindsey is comfortable taking charge of her own artistry, without reliance on the opinions of others. "At the end of the day, we are our own best friend. And we should be our own best friend, really." Instead of feedback and permission from others, trusted mentors though they may be, Lindsey is a big advocate of checking in with herself. "It's hard to be able to trust ourselves, if we don't know how we do it without the feedback of other people," she says. "Being our own teacher is equally as important as having teachers."

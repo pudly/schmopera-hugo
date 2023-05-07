@@ -17,7 +17,9 @@ The good news is that Placido Domingo doesn't appear to be retiring any time soo
 
 Powerful in presence, powerful in voice, this reviewer defies anyone to find a man of any age who has brought more to this role. Though *Don Carlo* is ostensibly about the title character, it's Domingo as Rodrigo who manages to steal the show, even though the rest of production is almost perfect. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537745986668/dc_t8a2745_pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537745986668/dc_t8a2745_pr.jpg.jpg)
 <figcaption>Plácido Domingo as Rodrigo in LA Opera's production of *Don Carlo*, 2018. Photo: Cory Weaver/LA Opera.</figcaption>
 </figure>
 
@@ -25,19 +27,25 @@ Some forty years ago, Domingo, the tenor, played the title role and he has been 
 
 As written by Verdi and several librettists, Don Carlo may be the least interesting character in the story. His bromantic friend Rodrigo gets all the heroic lines, all the best arias and all the tragedy to boot.  Don Carlo comes off as a hothead, unable to control his anger or his lust and only the counsel and loyalty from Rodrigo protects him from his own destruction. Originally written as *Don Carlos* in French (for the Paris Opera), as a sprawling five-act evening with a ballet, Verdi needed to make some cuts, so he dropped the "s" from the title. (An old opera joke.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746045858/dc_t8a3251_pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746045858/dc_t8a3251_pr.jpg.jpg)
 <figcaption>A scene from LA Opera's production of *Don Carlo*, 2018. Photo: Cory Weaver/LA Opera.</figcaption>
 </figure>
 
 In fact, he made a number of cuts and reworked the show several times until it became the four-act Italian version from the 1880's that is now constantly revived as part of today's repertory. At three hours (plus a twenty minute intermission), it feels just right - and with the expert direction of Louisa Muller (making her LA Opera debut) and the conducting of the always august James Conlon, time flies.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746063033/dc_37a2129_pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746063033/dc_37a2129_pr.jpg.jpg)
 <figcaption>Ana Maria Martinez as Elisabeth de Valois in LA Opera's production of *Don Carlo*, 2018. Photo: Cory Weaver/LA Opera.</figcaption>
 </figure>
 
 Based on historical events, the main story revolves around King Philip II of Spain (yes, that King Philip II of Spain, the one with the Spanish Armada.) King Philip ([Ferruccio Furlanetto](/scene/people/ferruccio-furlanetto/) who played the same role here in 2006), and his political marriage to Elisabeth De Valois ([Ana Maria Martinez](/scene/people/ana-maria-martinez/)) sets up a love triangle as Don Carlo ([Ramón Vargas](/scene/people/ramon-vargas/)) gains a stepmother when in fact he wishes to gain a wife. Further complicating things is The Grand Inquisitor ([Morris Robinson](/scene/people/morris-robinson/)), who is ready to put everyone to death, (even the king himself), and Princess Eboli ([Anna Smirnova](/scene/people/anna-smirnova/)) who is, herself, in love with Don Carlo. But from the beginning to the end, it's Don Carlo's best friend Rodrigo, who continually saves the day and proves to be the epitome of devotion and self-sacrifice. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746090849/dc_t8a2581_pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746090849/dc_t8a2581_pr.jpg.jpg)
 <figcaption>Anna Smirnova as Princess Eboli in LA Opera's production of *Don Carlo*, 2018. Photo: Cory Weaver/LA Opera.</figcaption>
 </figure>
 
@@ -45,7 +53,9 @@ There are superlatives for almost every member of the cast. Bass Furlanetto, who
 
 Soprano Ana Maria Martinez shows off her versatility, playing the repressed Elisabeth after having played the passionate and flighty Carmen last season. But the best mezzo material is given to Anna Smirnova as Princess Eboli. Running the gamut from comic relief to passionate jealousy and finally to dramatic repentance, Ms. Smirnova makes a breathtaking debut at LA Opera, and leaves us with her voice ringing in our memory.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746113469/dc_t8a3042_pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746113469/dc_t8a3042_pr.jpg.jpg)
 <figcaption>Morris Robinson as the Grand Inquisitor in LA Opera's production of *Don Carlo*, 2018. Photo: Cory Weaver/LA Opera.</figcaption>
 </figure>
 
@@ -53,7 +63,9 @@ Morris Robinson hits his third home run in a row at LA Opera as the blind, self-
 
 Only Ramón Vargas, in the title role, doesn't quite live up to expectations. His voice is not a trumpet but more like a horn with a mute, thin at the top and often hidden by the other voices. Though overpowered in the duets, he rises to the occasion in the quartet with Domingo, Martinez and Furlanetto.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746128891/dc_37a2661_pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746128891/dc_37a2661_pr.jpg.jpg)
 <figcaption>Ramón Vargas as Don Carlo in LA Opera's production of *Don Carlo*, 2018. Photo: Cory Weaver/LA Opera.</figcaption>
 </figure>
 
@@ -61,7 +73,9 @@ The evocative set was created by the late John Gunter.  A labyrinth of arches mo
 
 Black is the new black with Tim Goodchild's costumes, who has found a myriad of ways to individualize all the members of the aristocracy with variations on the same dark but ornate theme. A great moment is when King Philip and Elizabeth appear in spectacular gold crowns and breastplates, and look like sun gods standing in relief against the inky company of players.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746172680/dc_t8a9640_pr.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746172680/dc_t8a9640_pr.jpg.jpg)
 <figcaption>A scene from LA Opera's production of *Don Carlo*, 2018. Photo: Cory Weaver/LA Opera.</figcaption>
 </figure>
 

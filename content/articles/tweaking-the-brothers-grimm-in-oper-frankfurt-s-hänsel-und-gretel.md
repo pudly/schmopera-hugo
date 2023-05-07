@@ -21,7 +21,9 @@ Oper Frankfurt's 2014 production of _Hänsel und Gretel_ (directed by Keith Warn
 
 The production begins with an on-stage puppet show. A group of kids watches intently, Hänsel included (played by [Cecelia Hall](/scene/people/cecelia-hall/)). Hall blends in well with the children. As a boy, she throws her lanky frame around like an impetuous, fun-loving little doofus. Hall shaves a shade of richness off her voice for the role, giving her tone a nimbler effervescence.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550428045/media/2019/02/440FrankfurtHG2014.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550428045/media/2019/02/440FrankfurtHG2014.jpg)
 
 <figcaption>Peter Marsh (the Witch) in Oper Frankfurt's 2014 production of Hänsel und Gretel. Photo: Monika Rittershaus.</figcaption>
 
@@ -33,7 +35,9 @@ The production puts Hänsel and Gretel (played by clear-voiced soprano [Karen Vu
 
 The siblings cruise through typical staging: bickering, dancing, and finally making enough ruckus that their mother, who they seem to have dreamed into existence, accidentally nudges the last morsel of food – a (strangely unbreakable) jug of milk – off the counter. The mother exiles the children to the woods as punishment.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550428267/media/2019/02/447FrankfurtHG2014.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550428267/media/2019/02/447FrankfurtHG2014.jpg)
 
 <figcaption>Louise Alder (Gretel) and Peter Marsh (the Witch) in Oper Frankfurt's 2014 production of Hänsel und Gretel. Photo: Monika Rittershaus.</figcaption>
 
@@ -45,7 +49,9 @@ Confused yet? All this tangential semi-storytelling has negligible narrative val
 
 Fortunately, the production's second half returns to the Brothers Grimm's plot and keeps the original story almost entirely intact.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550428328/media/2019/02/446FrankfurtHG2014.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550428328/media/2019/02/446FrankfurtHG2014.jpg)
 
 <figcaption>Louise Alder (Gretel) and Katharina Magiera (Hänsel) in Oper Frankfurt's 2014 production of Hänsel und Gretel. Photo: Monika Rittershaus.</figcaption>
 
@@ -57,7 +63,9 @@ The two youngsters approach a rundown house. No candy or gingerbread here. As th
 
 Peter Marsh's witch, like Jim Carrey's Grinch, is full of verve and spunk, and no less likeable for his gleeful wickedness. With a shaved head and a thrown-on flower print frock, he couldn't care less about passing as a witch or a woman.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550428596/media/2019/02/444FrankfurtHG2014.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550428596/media/2019/02/444FrankfurtHG2014.jpg)
 
 <figcaption>Heidi Melton (Mother) and Louise Alder (Gretel) in Oper Frankfurt's 2014 production of Hänsel und Gretel. Photo: Monika Rittershaus.</figcaption>
 
@@ -69,7 +77,9 @@ The opera rushed to the witch's unceremonious demise with momentum. The audience
 
 Ultimately, the show works whether the conceptual framing does or not (it doesn't). Frankfurt's ever reliable ensemble singers carried the production – Claudia Mahnke and Simon Bailey were strong in the notoriously thankless roles of the mother and father, respectively. The story is timeless and beloved and Humperdinck's music feels more 1990s and then 1890s with a familiar movie-like motivic structure and sweep that still compels.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550428685/media/2019/02/442FrankfurtHG2014.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550428685/media/2019/02/442FrankfurtHG2014.jpg)
 
 <figcaption>Louise Alder (Gretel) and Katharina Magiera (Hänsel) in Oper Frankfurt's 2014 production of Hänsel und Gretel. Photo: Monika Rittershaus.</figcaption>
 

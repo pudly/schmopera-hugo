@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Toronto-Operetta-Theatre/347577465324183?f
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/TorontoOperetta"
+_template = "company_single"
 +++
 
 <p>

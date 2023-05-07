@@ -21,6 +21,7 @@ url = "https://twitter.com/themilesshow?lang=en"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/themilesshow/"
+_template = "people_single"
 +++
 
 Miles Mykkanen has garnered recognition on the world's concert and operatic stages for his "focused, full-voiced tenor" (The New York Times).  Of his performances in *Eugene Onegin* at the Juilliard School, Opera News wrote, "Mykkanen was a knockout as Lensky. The lyric intensity of his singing made each moment count, and the duel- scene aria was a stretch of sheer vocal gold.”

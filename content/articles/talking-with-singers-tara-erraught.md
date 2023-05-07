@@ -25,7 +25,9 @@ I had the pleasure last season to debut the role of Susanna in *Le Nozze di Figa
 
 I usually try and wear flat shoes during the entire rehearsal period. Whether at rehearsals or privately. I do a lot of yoga to loosen my hips and shoulders, and I sit differently, I am very careful not to sit and directly cross my legs...little habitual things. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487182821711/2017-02-16---Tara_Erraught.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487182821711/2017-02-16---Tara_Erraught.jpg.jpg)
 <figcaption>Tara Erraught, mezzo-soprano. Photo courtesy of IMG Artists.</figcaption>
 </figure>
 

@@ -21,7 +21,9 @@ I sing because I must. It started after spending grade two in the hospital for t
 
 It was never a conscious choice to sing for a living, I've literally been singing for as long as I can remember. And I'm rubbish at math, so that's why I picked the job that only requires counting to four. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475836580816/2016-10-07---Hajek-Schicchi.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475836580816/2016-10-07---Hajek-Schicchi.jpg.jpg)
 <figcaption>Hajek in the title role of *Gianni Schicchi*, The Juilliard School.</figcaption>
 </figure>
 
@@ -39,7 +41,9 @@ My advice for younger singers (just what they don't need, another opinion):
 
 Focus on developing who you are as a person as much as you do your instrument. It's a hard balance to achieve, but you'll hear the results.  Fill your life with enriching experiences, use the inevitable suffering life brings and fill your repertoire with those moments.  Don't impress...express.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475836513812/2016-10-07---Hajek-Fille.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475836513812/2016-10-07---Hajek-Fille.jpg.jpg)
 <figcaption>Hajek as Sulpice in *La fille du régiment*, Seattle Opera.</figcaption>
 </figure>
 

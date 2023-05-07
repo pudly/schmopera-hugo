@@ -15,6 +15,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/DominicVeilleux"
 
+_template = "people_single"
 +++
 Doté d’une voix riche et puissante, le baryton-basse Dominic Veilleux est présentement membre du Programme de développement des artistes de l’Opéra de Calgary.
 

@@ -22,6 +22,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/tenor.jp/"
 
+_template = "people_single"
 +++
 In demand internationally, tenor Jean-Philippe Lazure is known for his “Open and honest sound, full of agility and ring”. Jean-Philippe is a proud graduate of the Canadian Opera Company’s elite Ensemble Studio. A native of Kitchener-Waterloo, Ontario, and currently living in Berlin, Germany, Jean-Philippe began his formal vocal training at the University of Ottawa and holds a bachelor and master’s degree from the Université de Montréal.  
 

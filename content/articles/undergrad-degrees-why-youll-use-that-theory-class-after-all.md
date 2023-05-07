@@ -22,7 +22,9 @@ Theory and analysis can make sense of the small details, as well as the large. T
 
 Courses like ear training skills are worthwhile, too; for singers in particular, it's a handy skill to be able to hear a melody once and sing it back correctly. Classes like these prepare singers for taking notes from a conductor, or being given certain cadenza or set of ornamentation. These kinds of things really do happen in the rehearsal room, and being able to repeat and memorize things by ear is a professional must-have skill.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458592288531/2016-03-21---BrahmsBeethoven.jpg.jpg)<figcaption>See that look on Brahms' face? Find out what it means in your Music History class.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458592288531/2016-03-21---BrahmsBeethoven.jpg.jpg)<figcaption>See that look on Brahms' face? Find out what it means in your Music History class.</figcaption>
 </figure>
 
 ## History

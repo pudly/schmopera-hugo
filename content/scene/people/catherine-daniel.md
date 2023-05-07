@@ -13,6 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/mezzocathyd/"
 
+_template = "people_single"
 +++
 Catherine Daniel, mezzo- soprano is currently based in Toronto, Ontario, Canada. Her upcoming projects for this season include: a Messiah with Orchestre de Sherbrooke, The Opéra de Montréal Gala and Singing Third Lady with Edmonton Opera’s _Magic Flute_.
 

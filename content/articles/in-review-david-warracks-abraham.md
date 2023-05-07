@@ -23,7 +23,9 @@ The singers, of which there were many, were a varied cast ranging from Canadian 
 
 In the title role we hear everything from 50's style crooning to the thrilling helden tenor we're used to from [Richard Margison](/scene/people/richard-margson/). It was nice to hear him living so much in the piano to mezzo-piano range. It really brought the the forefront his beauty of tone which often gets overshadowed by how thrilling the size and range of his instrument is. I found his most intimate moments to be the most thrilling musically. I felt as if there was, at points, some trepidation with the score, either through technical (not technique) issues or under rehearsing, but these were few and far between. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446216055087/4iJAxmseiK69CekZWQBkJ90LDos9DsVu_zr-SpqZ8u1QBJQJxroeXZR8khg0OCjjs8yYgckOGNDkzIl9RwXyZvr1GvaJ%3Dw680-h680-c)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446216055087/4iJAxmseiK69CekZWQBkJ90LDos9DsVu_zr-SpqZ8u1QBJQJxroeXZR8khg0OCjjs8yYgckOGNDkzIl9RwXyZvr1GvaJ%3Dw680-h680-c)
 </figcaption>Tenor Richard Margison.</figcaption>
 </figure>
 

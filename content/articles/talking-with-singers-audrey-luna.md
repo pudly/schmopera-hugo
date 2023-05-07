@@ -26,7 +26,9 @@ The coloratura roles of Mozart and Strauss are nothing to scoff at; yet in recen
 
 "That specific production was so extremely physical," Luna recalls of Lepage, who seemed to find inspiration for Ariel in his work with Cirque du Soleil. "I think it was my very first day," she laughs, "there were circus acrobats holding me above their head by one hand on my sternum!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474035060345/2016-09-16---Luna-Ariel---Ken-Howard.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474035060345/2016-09-16---Luna-Ariel---Ken-Howard.jpg.jpg)
 <figcaption>Audrey Luna as Ariel in The Metropolitan Opera's *The Tempest*, 2012. Photo by Ken Howard.</figcaption>
 </figure>
 
@@ -62,7 +64,9 @@ She notes that a contract can include a fair amount of time not called to rehear
 
 What sort of singing does Luna see for herself in future seasons? "I'd like to sing more Handel," she offers. "I sang a lot of Handel in school, and I really enjoyed it. Alcina would be lovely." She considers it an "inevitable" part of her vocal trajectory that she'll add roles like Konstanze (*Die Entführung aus dem Serail*), Lulu (*lulu*), and Violetta (*La traviata*) to her repertoire. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474035042500/2016-09-16---Luna-Zerbinetta.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474035042500/2016-09-16---Luna-Zerbinetta.jpg.jpg)
 <figcaption>Audrey Luna as Zerbinetta in Virginia Opera's *Ariadne auf Naxos*, 2014.</figcaption>
 </figure>
 

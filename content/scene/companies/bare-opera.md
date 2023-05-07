@@ -20,5 +20,6 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/bareopera/"
 
+_template = "company_single"
 +++
 Bare Opera is an alternative opera company in New York City with a fresh, modern take on the opera experience. With minimalist, modern aesthetics, our exceptional emerging artists bring you the bare essentials of opera—a candid, immersive theatrical experience with breathtakingly beautiful music at its core. Taking place in unconventional spaces like galleries and warehouses, we strive to strip opera of its clichés and create a visceral and intimate experience for audiences, experienced and new alike.

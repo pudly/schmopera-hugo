@@ -20,6 +20,7 @@ url = "https://twitter.com/azopera"
 platform = "Instagram"
 template = "social-media"
 url = "https://instagram.com/azopera/"
+_template = "company_single"
 +++
 
 INTRODUCTION

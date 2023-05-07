@@ -25,6 +25,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/SpoletoFestivalUSA"
 
+_template = "company_single"
 +++
 For 17 days and nights each spring, Spoleto Festival USA fills Charleston, South Carolina’s historic theaters, churches, and outdoor spaces with performances by renowned artists as well as emerging performers in opera; theater; dance; and chamber, symphonic, choral, and jazz music. Now approaching its 42nd season, Spoleto Festival USA is internationally recognized as America’s premier performing arts festival.
 

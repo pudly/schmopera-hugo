@@ -20,6 +20,7 @@ url = "https://twitter.com/GinoQuilico"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/GQuilico?feature=mhee"
+_template = "people_single"
 +++
 
 Esteemed as an interpreter of the French and Italian repertoire, lyric baritone Gino Quilico has performed with the world’s major opera companies, including the Metropolitan Opera (New York), La Scala (Milano), The Royal Opera House (London), The Vienna State Opera (Vienna), the Paris Opera, the Bayerische Staatsoper (Munich), The Teatro Colon (Buenos Aires), La Fenice (Venice). 

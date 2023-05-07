@@ -19,6 +19,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/chelseakutyn/videos"
 
+_template = "people_single"
 +++
 This summer Canadian soprano Chelsea Kutyn debuts as "Magda" from Menotti's _The Consul_ (Opera NUOVA) and as "Susanna" from Mozart's _The Marriage of Figaro_ (Manitoba Underground Opera).
 

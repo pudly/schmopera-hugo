@@ -17,6 +17,7 @@ url = "https://twitter.com/ElizaJohnsonSop"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UC5XUkKZUW1Nb0f9wr6uKEZg?spfreload=10"
+_template = "people_single"
 +++
 
 Canadian/American Soprano Eliza Johnson has been praised for her fine acting prowess and even lyric tone.  She was most recently seen as Pamina/Second Lady with the Opera Lyra Ottawa’s Opera Studio production of *The Magic Flute* (11/14) and competed as the only soprano finalist in the 2014 COC Centre Stage Competition.

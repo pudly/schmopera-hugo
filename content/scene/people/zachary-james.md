@@ -23,6 +23,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/_zachary_james_/"
 
+_template = "people_single"
 +++
 Zachary James, bass, described as a "true stage animal" by Opera News is an international opera singer known for his “huge, robust bass” which “resonates with force” (Bach Track), “tremendous power and presence” (The Arts Desk, London) and “intrinsically beautiful”, “cavernous bass” with “oomph and range” (Opera News). 
 

@@ -27,5 +27,7 @@ It's notable that Barton never stepped into the world of opera for this recital 
 
 Surely, readers, you didn't think we wouldn't have a great time with Jamie Barton, did you?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477301175409/2016-10-24---Jenna-Jamie.jpg.jpg)<figcaption>Jamie Barton and Schmopera editor Jenna Douglas post-recital at Wigmore Hall. Photo by Jenna Douglas.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477301175409/2016-10-24---Jenna-Jamie.jpg.jpg)<figcaption>Jamie Barton and Schmopera editor Jenna Douglas post-recital at Wigmore Hall. Photo by Jenna Douglas.</figcaption>
 </figure>

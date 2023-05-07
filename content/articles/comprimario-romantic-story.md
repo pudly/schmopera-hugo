@@ -27,7 +27,9 @@ As for Alcindoro - or Lulu, as Musetta calls him - in the original can come off 
 
 In all honesty, I can't really fault Benoît for coming to collect the rent. I've been a renter my entire adult life. In Benoît's case, it's been six months since a rent cheque cleared, and if I were Benoît, I'd be upset too. That being said, what I like about Benoît, is that he's still a human with faults and flaws and who makes bad choices - he's not just a totalitarian who's always right. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494989832511/2017-05-16---Boheme-2011.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494989832511/2017-05-16---Boheme-2011.jpg.jpg)
 <figcaption>(l-r) Justin Welsh (Marcello), Ryan Harper (Rodolfo), Gregory Finney (Benoît), Keith Lam (Schaunard), and Neil Craighead (Colline) in AtG's *La bohème*, 2011. Photo courtesy of NikPix.ca.</figcaption>
 </figure>
 

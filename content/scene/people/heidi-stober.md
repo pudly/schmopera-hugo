@@ -14,6 +14,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/heidistober"
 
+_template = "people_single"
 +++
 “Stober’s instrument is the type of distinctly American lyric soprano that makes the rest of the world listen.” Opera News: One to Watch – November 2018
 

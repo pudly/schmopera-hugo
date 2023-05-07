@@ -16,6 +16,7 @@ url = "https://www.facebook.com/DominicArmstrongTenor"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/tenorarmstrong"
+_template = "people_single"
 +++
 
 Dominic Armstrong has quickly established himself internationally as an artist of superb and distinguished musicality and characterization. He is a winner of the 2013 George London Foundation Vocal Competition.

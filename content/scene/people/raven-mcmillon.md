@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/raven.mcmillon.soprano/"
 
+_template = "people_single"
 +++
 Soprano Raven McMillon is a native of Baltimore, MD. Recently, Ms. McMillon was named a 2021 Grand Finals Winner of the Metropolitan Opera’s Eric and Dominique Laffont Competition. She returns to Houston Grand Opera as a second year studio artist for their 2021-2022 season as Frasquita in _Carmen_, Peter in Joel Thompson’s _The Snowy Day_, and Papagena in _The Magic Flute_. Elsewhere, she makes her house and role debut at Des Moines Metro Opera as Pamina in _The Magic Flute_ as well as a house and role debut at Opera Philadelphia as Gilda in _Rigoletto_.
 

@@ -22,6 +22,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/results?search_query=daniela+mack+mezzo"
 
+_template = "people_single"
 +++
 Mezzo-soprano Daniela Mack leads the vanguard of a new generation of opera singers, infusing her artistry with a mix of intensity, adventurousness, and effortless charisma. Critics around the world have acclaimed her as “outstanding” (The New York Times), “a powerhouse mezzo” (Wall Street Journal) possessing “a virtuoso technique second to none” (The Guardian) and “a voice like polished onyx: strong, dark, deep and gleaming” (Opera News).
 

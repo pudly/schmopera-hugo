@@ -25,6 +25,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/OperadeMtl"
 
+_template = "company_single"
 +++
 Bien ancré à Montréal, aux confluents des cultures nord-américaine et européenne, l’Opéra de Montréal agit comme catalyseur de la créativité artistique de la ville et célèbre le riche héritage vocal québécois et canadien, en faisant vivre l’opéra dans tout ce qu’il a de plus diversifié et audacieux. Des grands canons du répertoire lyrique à de nouvelles œuvres d’ici et d’ailleurs, en passant par son programme de perfectionnement pour les meilleurs jeunes chanteurs canadiens et son engagement fort dans la communauté et dans l’éducation, l’Opéra de Montréal propose des événements lyriques inoubliables, où tous sont accueillis chaleureusement et se sentent les bienvenus.
 

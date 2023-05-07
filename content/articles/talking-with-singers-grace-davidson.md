@@ -35,7 +35,9 @@ I have always felt that Baroque music is my natural habitat. I love working with
 
 When I was younger, I played the violin and sang in the Church choir and despite not being a great violinist, I am sure that playing an instrument hugely contributed to my passion for Baroque music, as many vocal lines in Baroque music are very instrumental and vocal at the same time with instruments echoing vocal lines and vice versa.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553028830/media/2019/03/GraceDavidson.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1553028830/media/2019/03/GraceDavidson.jpg)
 
 <figcaption>Grace Davidson, soprano.</figcaption>
 

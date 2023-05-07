@@ -30,7 +30,9 @@ Grey wrote strong women characters, like Riders heroine Jane Withersteen, who co
 
 While we don't expect audiences to react in just one way, we think they will find relevance in their own lives and come away entertained – and with a lot to think about!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472156800408/2016-08-27---CraigBohmler_ChrisLoomis.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472156800408/2016-08-27---CraigBohmler_ChrisLoomis.jpg.jpg)
 <figcaption>Craig Bohmler, composer. Photo by Chris Loomis.</figcaption></figure>
 
 ### What have been your influences or references for how the music will sound?
@@ -43,7 +45,9 @@ For me, it is important to make an audience comfortable before we take them on a
 
 There are the usual western idioms (clichés) that imbue this piece – mostly things like the clipped "n" ("Goin'") instead of going for example and a few "ain'ts" and the very occasional "reckon". We did find that Jane speaks more formally – perhaps she is more educated or prides herself in her use of the language. I find it helps set her apart from the other characters. The Bishop also speaks more formally, being a preacher. The others are rougher in their language and we have tried to articulate these differences in our text. There is some cursing, but we tried to use it sparingly and only when it seemed important to emphasize an emotion. I find that too much cursing actually defangs the intent. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472156841501/2016-08-27--RidersCostume-Inspiration_CourtesyofArizonaOpera.jpg.jpg)<figcaption>Costume inspiration for *Riders of the Purple Sage*. Photo courtesy of Arizona Opera.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472156841501/2016-08-27--RidersCostume-Inspiration_CourtesyofArizonaOpera.jpg.jpg)<figcaption>Costume inspiration for *Riders of the Purple Sage*. Photo courtesy of Arizona Opera.</figcaption>
 </figure>
 
 ### How do various English dialects change the way you set the libretto?

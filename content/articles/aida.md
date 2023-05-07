@@ -21,7 +21,9 @@ Giuseppe Verdi’s _Aida_ came across in Houston Grand Opera’s recent renditio
 
 I use the word "illuminated" with intent, as light was a very pivotal concept for this production. The prelude, for instance, opened with a controlled opening of the curtains to reveal a blazing pillar of triangular light. Perhaps this was to represent an obelisk or even a pyramid, though the sides were so steep as to resemble the Nubian pyramids of the Late Period. Throughout the production, one could see many of these geometric shapes infiltrating the scene at many different points. Characters maneuver around them and discuss plans in their shadow. This rendered the Act III trio somewhat difficult to follow if you were seated on one of the sides of the theatre, given the lines of sight.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581279865/media/2020/02/HGO-AIDA-2020-LynnLane-90_iuksut.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581279865/media/2020/02/HGO-AIDA-2020-LynnLane-90_iuksut.jpg)
 
 <figcaption> HGO Studio Alum Peixin Chen (front centre) and current HGO Studio artistDorothy Gal (back centre) in Houston Grand Opera's production of Aida, 2020. Photo: Lynn Lane.</figcaption>
 
@@ -31,7 +33,9 @@ However, this focus on various technical aspects was rather upended when it came
 
 The use of lighting and curtains was particularly effective when it came to the final tomb scene, where we only could see Aida ([Tamara Wilson](/scene/people/tamara-wilson/)) and Radames ([Russell Thomas](/scene/people/russell-thomas/)) through very small openings in the background wall. Amneris ([Melody Moore](/scene/people/melody-moore/)), mourning on the upper level at the modern gated and illuminated entrance of some tomb in the Valley of the Kings, evokes mental images of how much we, in our own days, enjoy conjuring up the past and looking into people’s private lives. The paradox is, of course, that this far back in history, anyone’s guess is as good as mine, and fantasy is as welcome as ever.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581279906/media/2020/02/HGO-AIDA-2020-LynnLane-3_cz66id.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581279906/media/2020/02/HGO-AIDA-2020-LynnLane-3_cz66id.jpg)
 
 <figcaption>Russell Thomas (Radamès) in Houston Grand Opera's production of Aida, 2020. Photo: Lynn Lane.</figcaption>
 
@@ -43,7 +47,9 @@ Although Tamara Wilson as Aida had a tendency to wander about on the stage witho
 
 Tenor Russell Thomas, making his HGO debut in his first ever performance as Radamès, struck me as a very ardent singer indeed, always caring deeply about his expressive potential. Although "Celeste Aida" struck me as just a hair short of transcendence, it was very captivating nevertheless. The difficulties of uniting a melodic line with a chamber-music accompaniment were quite apparent here. I perceived him as more of a lyrical tenor with compelling dramatic moments than vice versa. In the expository ensembles of the beginning of Act I, he was very much the central figure around which the other characters were satellites. "Parking and barking" was a liability for all the characters in these moments, but only for brief moments when nobody could understand the simultaneous ensemble texts anyway.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581279928/media/2020/02/HGO-AIDA-2020-LynnLane-113_u9cpps.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581279928/media/2020/02/HGO-AIDA-2020-LynnLane-113_u9cpps.jpg)
 
 <figcaption>Tamara Wilson (Aida) and Melody Moore (Amneris) in Houston Grand Opera's production of Aida, 2020. Photo: Lynn Lane.</figcaption>
 
@@ -53,7 +59,9 @@ Melody Moore did an appreciable job of highlighting Amneris's dramatic arc, a ch
 
 Reginald Smith, Jr. made a very finely developed Amonasro to the extent that that is even possible. He manipulated Aida so much and with such volatile emotions that I wondered to myself, "How did he become King of Ethiopia in the first place? Much byzantine maneuvering, clearly." Yet, he was a highly sympathetic figure as he was brought to Pharaoh in a monumental cage with his fellow warriors.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581279955/media/2020/02/HGO-AIDA-2020-LynnLane-177_t2x3v8.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581279955/media/2020/02/HGO-AIDA-2020-LynnLane-177_t2x3v8.jpg)
 
 <figcaption>Russell Thomas (Radamès), Musa Ngqungwana (The King of Egypt), and Melody Moore (Amneris) in Houston Grand Opera's production of Aida, 2020. Photo: Lynn Lane.</figcaption>
 
@@ -65,7 +73,9 @@ Particularly fine in my opinion were the exquisitely sculpted, even Brucknerian,
 
 Bass [Musa Ngqungwana](/scene/people/musa-ngqungwana/) as the King of Egypt struck an appropriately dignified and imposing figure. I could feel a great deal of empathy with the subtle pressure his character faces at any given times. Peixin Chen as Ramfis was very much the hierarchical religious counterpart to secular authority that Verdi clearly reveled in. This being said, his costume made him somewhat of a faceless individual, and Chen took full advantage of this character’s unassailable position. Christopher Bozeka as the Messenger struck the right balance between urgency and credibility in his timbre.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581280002/media/2020/02/HGO-AIDA-2020-LynnLane-212_qe94mx.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581280002/media/2020/02/HGO-AIDA-2020-LynnLane-212_qe94mx.jpg)
 
 <figcaption>Tamara Wilson (Aida) and Russell Thomas (Radamès) in Houston Grand Opera's production of Aida, 2020. Photo: Lynn Lane.</figcaption>
 

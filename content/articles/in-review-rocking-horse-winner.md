@@ -24,7 +24,9 @@ Camelia Koo's set is dark and fairly sparse. The few furnishings you see suggest
 
 The setting of D. H. Lawrence's short story as an opera worked remarkably well. The shorter format of the original medium provided an already trimmed-down source, and lent the whole piece an organic, yet not frenetic pace. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464599911517/2016-05-31---RHW--Elaina-Moreau-Asitha-Tennekoon-Paul-Erica-Iris---Photo-Credit-Dahlia-Katz.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464599911517/2016-05-31---RHW--Elaina-Moreau-Asitha-Tennekoon-Paul-Erica-Iris---Photo-Credit-Dahlia-Katz.jpg.jpg)
 <figcaption>l-r: Elaina Moreau, Asitha Tennekoon (Paul), Erica Iris. Photo: Dahla Katz.</figcaption>
 </figure>
 
@@ -38,7 +40,9 @@ As the autistic son, Paul, [Asitha Tennekoon](/scene/people/asitha-tennekoon/) i
 
 As the somewhat smarmy uncle Oscar, [Keith Klassen](/scene/people/keith-klassen/)'s brassy tenor worked really well for this high lyrical theatre style that came out of this score. His roguish good looks and cavalier, debonair physicality were a total treat to see in this highly intense scenario. His portrayal of the catalyst of Paul's demise was truthful, and for a while you're actually supporting his (essentially) exploitation of Paul because you saw it as a means to the end that they're all searching for (and one you want them to attain). It's not until you see them actually at the races that you see the danger in what he's doing. Klassen's careful reveal of his ulterior motives is thrilling. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464599953105/2016-05-31---RHW--Asitha-Tennekoon-as-Paul---Photo-Credit-Dahlia-Katz.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464599953105/2016-05-31---RHW--Asitha-Tennekoon-as-Paul---Photo-Credit-Dahlia-Katz.jpg.jpg)
 <figcaption>Asitha Tennekoon as Paul. Photo: Dahlia Katz.</figcaption>
 </figure>
 

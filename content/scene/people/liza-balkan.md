@@ -17,6 +17,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/balkan_liza"
 
+_template = "people_single"
 +++
 Liza Balkan is an Ontario based, multi- disciplinary theatre artist who works as an opera and theatre director, librettist, writer, educator, dramaturg and actor – one discipline informing the other. In conjunction with her thirst for inquiry, her early years as a dancer and a singer guide her innate sense of physicality and musicality in her approach to all her practices and disciplines. Liza is committed to inclusionary practices, process, communal dialogue, and building confident, joyful, respectful and inspiring spaces in which to create with others.
 

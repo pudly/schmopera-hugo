@@ -21,5 +21,6 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/helios_opera/"
 
+_template = "company_single"
 +++
 Helios Opera aims to bring opera into the future by creating a sustainable, business-minded company designed to engage a modern and diverse audience. It is initiative-driven and supports innovative, multi-genre projects with the goal of pushing opera forward. It strives to provide rewarding performance opportunities and career support to talented emerging professional artists and to make a positive socio-political impact through education and outreach efforts.

@@ -17,7 +17,7 @@ As the holidays come charging in this time of year as they always do, some of us
 
 The first act treated the audience to a series of "parlor songs" from the singers, evoking an environment of Christmas Eve in a 1930's parlor. Each song was punctually different, from the chuckle-inducing "Refrigerator 1957" by Ralph Vaughan Williams sung by mezzo-soprano Naomi Brigell, to the emotional "Sleep" by Ivor Gurney sung by tenor Jonathan Zeng. Another noteworthy performance was the mesmerizing Anatoliy Torchinksiy at the piano for his performance of "Ballad Op 10 No. 1" by Johannes Brahms.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366180731/LXDNov15-1.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366180731/LXDNov15-1.jpg.jpg)
 <figcaption>Gabriel DiGennnaro and Jesse Lyons in *The Long Christmas Dinner*, Chicago Fringe Opera, 2018. Photo: Victor LeJeune.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ The cast of the evening provided a delightful handful of talented singers, that 
 
 Our performance date featured Melissa Arning as the mother and cousin Ermengarde who opened and closed the production. The soprano commanded scenes, conjuring a mother pleading to keep her family together as she begins to watch it fall apart.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366189532/LXDNov15-2.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366189532/LXDNov15-2.jpg.jpg)
 <figcaption>Jesse Lyons and Zachary Angus in *The Long Christmas Dinner*, Chicago Fringe Opera, 2018. Photo: Victor LeJeune.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ While the production budget was humbled to a Anotoliy Torchinskiy's talent was c
 
 Fringe Opera did right by casting singers who could carry such emotionally saturated scenes. The production is a definite "don't miss" that you would be wonderful to bring a Christmas posse to or, as some of our characters prefer, celebrate alone. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366195887/LXDNov15-5.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366195887/LXDNov15-5.jpg.jpg)
 <figcaption>Gabriel DiGennaro in *The Long Christmas Dinner*, Chicago Fringe Opera, 2018. Photo: Victor LeJeune.</figcaption>
 </figure>
 

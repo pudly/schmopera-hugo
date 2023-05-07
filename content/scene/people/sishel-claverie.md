@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/sishelmabelle/"
 
+_template = "people_single"
 +++
 Mexican Mezzo-soprano Sishel Claverie enjoys a versatile career in opera, musical theater, new music and multidisciplinary collaborations.
 

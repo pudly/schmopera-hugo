@@ -44,7 +44,9 @@ We're in a world right now [in opera] where we should be additive and not multip
 
 The kids from New Jersey went to see the Discovery Orchestra and heard some classical music and operatic literature, and then all the kids wanted to sing "O mio babbino caro" and similar arias. If you lead people to opera and show them what a wonderful thing it is, most people are going to see it's incredible. They never realized 80 instrument could sound that good together and a voice could sing over it. Instead they were used to hearing a piano and a woman with an airy voice at a microphone. When you shift their paradigm, the openness happens.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527362010899/222edit.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527362010899/222edit.jpg.jpg)
 <figcaption>Michael Fabiano, tenor. Photo by Arielle Doneson.</figcaption>
 </figure>
 

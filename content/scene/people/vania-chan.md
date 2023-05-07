@@ -12,6 +12,7 @@ website = "http://www.vaniachan.com/live/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/Vania-Chan-Music-169518456395699/?fref=ts"
+_template = "people_single"
 +++
 
 Canadian lyric coloratura soprano Vania Chan received her Master of Music in Classical Voice from the Manhattan School of Music in New York, and graduated Summa Cum Laude from York University, Toronto, receiving a B.F.A. with Specialized Honours in Music. 

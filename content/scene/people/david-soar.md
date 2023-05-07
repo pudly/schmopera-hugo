@@ -8,6 +8,7 @@ related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/compani
 slug = "david-soar"
 title = "David Soar"
 
+_template = "people_single"
 +++
 David Soar was born in Nottinghamshire and studied at the Royal Academy of Music and subsequently at the National Opera Studio. 
 

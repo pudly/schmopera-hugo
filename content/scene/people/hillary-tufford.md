@@ -15,6 +15,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/hillarytufford/"
 
+_template = "people_single"
 +++
 Mezzo-soprano, Hillary Tufford is a versatile and engaging performer, noted for her “rich, velvety tone,”(Dawn Martens, _Opera Canada_). During the 21/22 season Hillary performed at Highlands Opera in the role of Olga in _Eugene Onegin_, and at Vancouver Opera as Lola in _Cavalleria rusticana_, Hebe in _HMS Pinafore_, and Berthe in Judith Weir’s _Blond Eckbert_. She also sang Rossini’s _Petite messe solennelle_ with both the Victoria Philharmonic Choir, as well as The Vancouver Bach Choir. This season Hillary looks forward to debuting Hermia in _A Midsummer Night’s Dream_ and Jean in _Le portrait de Manon_ at Vancouver Opera. She will also sing Handel’s _Messiah_ with ChoralWorks, Collingwood and ProMusica, London as well as Beethoven’s 9th Symphony with Kingston Symphony Orchestra. 
 

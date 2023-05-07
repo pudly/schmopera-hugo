@@ -15,6 +15,7 @@ url = "https://twitter.com/j_p_higgins"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/j_p_higgins"
+_template = "people_single"
 +++
 
 I am a composer from England who is currently based in Sheffield where I am completing an MA in Sonic Arts, supported by the Julian Payne Scholarship. For the past year I have been working for Furnace Park in Sheffield as part of their ‘Sheaf Prospects’ soundscaping and composition project. My music is often densely gestural and noise based with influences from beat and glitch based music.

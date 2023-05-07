@@ -26,7 +26,9 @@ This is something that excites me a lot. Opera as an art form has always been ve
 
 Of course, I'm still exploring with what queerness specifically in relation to music can be and am incredibly excited to have the chance to experiment further with *Belladonna* and FAWN!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521234655834/Belladonna.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521234655834/Belladonna.jpg.jpg)
 </figure>
 
 ## What sort of symbolism exists in *Belladonna*? 

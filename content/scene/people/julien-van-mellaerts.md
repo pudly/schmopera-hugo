@@ -13,6 +13,7 @@ website = "https://www.julienvanmellaerts.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/julienvmnz"
+_template = "people_single"
 +++
 
 Winner of the 2017 Kathleen Ferrier Awards, awarded a 2016 Kiwi Music Scholarship, a 2016 Countess of Munster Award, Winner of the 2016 Brooks-van der Pump English Song Competition, the 2016 Joan Chissell Schumann Prize and Winner of the 2015 Maureen Lehane Vocal Arts Award, British / New Zealand baritone Julien Van Mellaerts studied at the University of Otago, before joining the International Opera School of the Royal College of Music. His studies have been supported by the Josephine Baker Trust, Janet Bolton O’Sullivan Scholarship, the Hunn Trust, an Alex Templeton Award, a Laing Award and the Wates Foundation Trust and he graduated in Summer 2017, having been a Fishmongers Company Scholar, supported by a Thomas Weinberger Award studying with Russell Smythe. On Graduation, he was awarded the Tagore Gold Medal.

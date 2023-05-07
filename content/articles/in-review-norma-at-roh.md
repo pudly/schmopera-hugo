@@ -24,7 +24,9 @@ For a brief moment as the curtain rose, the looming set by Alfons Flores had the
 
 Perhaps we reveal a bit about our own discomfort with some religious symbols, yet it was clear that Ollé was taking the oppressive religion and customs of *Norma* and putting them in a setting of Christian imagery, to pack an appropriate punch for contemporary listeners. "We have, in short, chosen to create a production that chimes with current social preoccupations. We're talking about the deep-rooted forces that influence social and politial thinking - forces that unite around symbols such as the cross."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474112801064/2016-09-17---SONYA-YONCHEVA-AS-NORMA-ROH-PHOTOGRAPHER-BILL-COOPER.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474112801064/2016-09-17---SONYA-YONCHEVA-AS-NORMA-ROH-PHOTOGRAPHER-BILL-COOPER.jpg.jpg)
 <figcaption>Sonya Yoncheva as Norma in *Norma*, Royal Opera House, 2016. Photographer: Bill Cooper.</figcaption>
 </figure>
 
@@ -54,7 +56,9 @@ As Adalgisa, mezzo [Sonia Ganassi](/scene/people/sonia-ganassi/) sang with a sen
 
 Ollé's production slowly revealed itself to be much more than a collection of provocative symbols, yet it still left us with questions. There were unnecessary distractions: he let swing a giant, swinging [thurible](https://en.wikipedia.org/wiki/Thurible) just before Norma's infamous "Casta diva" aria; and when Norma's kids fall asleep watching television, the flat-screen TV blared (silent) cartoons throughout her entire act II scene with Adalgisa (except in the final pages of their duet, where Norma's daughter wakes up to bounce around the room on a pink ball).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474112849239/2016-09-17---SHERRATT-AS-OROVESO-YONCHEVA-AS-NORMA-CALLEJA-AS-POLLIONE-ROH-PHOTOGRAPHER-BILL-COOPER.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474112849239/2016-09-17---SHERRATT-AS-OROVESO-YONCHEVA-AS-NORMA-CALLEJA-AS-POLLIONE-ROH-PHOTOGRAPHER-BILL-COOPER.jpg.jpg)
 <figcaption>Brindley Sherratt as Oroveso, Sonya Yoncheva as Norma, Joseph Calleja as Pollione in *Norma*, Royal Opera House, 2016. Photographer: Bill Cooper.</figcaption>
 </figure>
 

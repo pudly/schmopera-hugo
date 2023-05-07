@@ -22,7 +22,9 @@ The night consisted of eleven selections from LIBLAB, touching on subjects rangi
 
 The night featured a stellar line-up of singers (and Tapestry favourites), soprano [Jacqueline Woodley](/scene/people/jacqueline-woodley/), mezzo-soprano [Erica Iris](/scene/people/erica-iris/), tenor [Keith Klassen](/scene/people/keith-klassen/) (#OGTripleswoonTimesInfinity), and baritone [Alexander Dobson](/scene/people/alexander-dobson/). When you have gifted musicians like this, teamed up with the wonderful pianist/coach/Music Director [Michael Shannon](/michael-shannon-the-opera-pianist/) as orchestra, you're bound for an amazing night. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512096970491/2017-11-30---Erica-Iris-Huang-and-Alexander-Dobson_QUEEN-OF-SWORDS_photobyDahliaKatz-5039.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512096970491/2017-11-30---Erica-Iris-Huang-and-Alexander-Dobson_QUEEN-OF-SWORDS_photobyDahliaKatz-5039.jpg.jpg)
 <figcaption>Erica Iris Huang and Alexander Dobson in *Queen of Swords*, Tapestry Opera's *Winter Shorts*, 2017. Photo: Dahlia Katz.</figcaption>
 </figure>
 
@@ -30,7 +32,9 @@ The night opened with *The Call of the Light* by Iman Habibi and libretto by Bob
 
 Habibi also teamed up with Phoebe Tsang for *Opposites Attract*. This piece got my attention. In very short, surprisingly musical vignettes, all four singers portrayed two sides of a coin during interactions between people of diverse backgrounds and perspectives. Habibi's last piece, teaming up with librettist Jessica Murphy Moo, was *Pursuit*; we saw Woodley's lustful barista pining for an oblivious Klassen (girl... I have BEEN there).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512096978907/2017-11-30---Keith-Klassen-and-Jacqueline-Woodley_PURSUIT_photobyDahliaKatz-5278.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512096978907/2017-11-30---Keith-Klassen-and-Jacqueline-Woodley_PURSUIT_photobyDahliaKatz-5278.jpg.jpg)
 <figcaption>Keith Klassen and Jacqueline Woodley in *Pursuit*, Tapestry Opera's *Winter Shorts*, 2017. Photo: Dahlia Katz.</figcaption>
 </figure>
 

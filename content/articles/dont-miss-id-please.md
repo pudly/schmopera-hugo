@@ -21,7 +21,9 @@ Of course, we all know what happened next, and in a way I'm glad we didn't base 
 
 As such, while the piece focuses on people trying to cross a border, it's more broadly about liminality and the alienation that comes from existing in a space between states. This draws very strongly on my background as someone who grew up across British and Iranian culture. I've spent a lifetime trying to work out how to fit in in both places and I'm not sure I'm ever going to find the answer I'm looking for. I've come to an acceptance that liminality is my default experience and so I suppose it's unsurprising that I seek artistic projects to explore this.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499723497986/2017-07-10---Lolavar-Soosan.jpg.jpg)<figcaption>Soosan Lolavar, British-Iranian composer of *ID, Please*.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499723497986/2017-07-10---Lolavar-Soosan.jpg.jpg)<figcaption>Soosan Lolavar, British-Iranian composer of *ID, Please*.</figcaption>
 </figure>
 
 ## How have you portrayed such a contemporary and ongoing story in the form of opera?
@@ -30,7 +32,9 @@ To include verbatim text and original research we composed an online questionnai
 
 And then when Trump instigated his Muslim Ban mark 1, the whole project came into terrifingly sharp focus when I was temporarily banned from entering the US due to my Iranian passport. There was a worrying few days when I was due to fly out for rehearsals and had no idea if I would be allowed to enter the country. And even more concerning was watching the stories of families separated, refugees refused after two years of background checks and Iranian friends of mine in the US terrified to leave the country for fear they wouldn't be allowed back in. In the end I was able to travel, but while I was standing in line at immigration at JFK, scared and with my legs shaking, a key line from the libretto was ringing in my ears with newfound relevance - "I clutch my passport so hard it makes my hand hurt". 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499723180708/2017-07-10---idplease.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499723180708/2017-07-10---idplease.jpg.jpg)
 <figcaption></figcaption>
 </figure>
 

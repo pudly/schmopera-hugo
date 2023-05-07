@@ -43,7 +43,9 @@ title = "TOT&#039;s Candide: &quot;It&#039;s very sincere and passionate.&quot; 
 
 **Elizabeth**: I've sung a good deal of concert work with *West Side Story* pieces in it, most recently duet with Ben Heppner (an emergency replacement last January). I've sung "Let Your Garden Grow" in various places for charity benifits; it says so much about the simplest things we all need.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514765862709/2017-12-31---Beller%2CChan%2C-Abrego.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514765862709/2017-12-31---Beller%2CChan%2C-Abrego.jpg.jpg)
 <figcaption>(l-r) Vania Chan (Cungégonde), Elizabeth Beeler (Old Woman), and Tonatiuh Abrego (Candide) in *Candide*, Toronto Operetta Theatre, 2017. Photo by Gary Beechey.</figcaption>
 </figure>
 
@@ -85,7 +87,9 @@ Our production looks to find the universal truths that stretch past its historic
 
 **Nick**: Which one? As Narrator I take on the guise of Voltaire, the author of the novel. Voltaire was a philosopher who wielded sarcasm as a weapon against the hypocrisy of his day, much like the late-night comedy satirists we have today. I also play Dr. Pangloss, Candide and Cunegonde's teacher, who represents the prevailing philosophy on the human condition of the time that Voltaire aimed to dismantle: that no matter what happens "all is for the best in this best of all possible worlds". I also play Pangloss’ foil Martin, who represents the polar opposite philosophy known as nihilism that nothing is for the best in this "worst of all possible worlds". Both Pangloss and Martin have a huge influence over Candide and their philosophies help to steer the plot. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514765902323/2017-12-31---Dorado-Abrego-seated.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514765902323/2017-12-31---Dorado-Abrego-seated.jpg.jpg)
 <figcaption>Tonatiuh Abrego (centre) in the title role of *Candide*, Toronto Operetta Theatre, 2017. Photo by Gary Beechey.</figcaption>
 </figure>
 

@@ -20,6 +20,7 @@ url = "https://twitter.com/chicagofringeop"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/chicagofringeopera/"
+_template = "company_single"
 +++
 
 We transform traditional concepts of classical performance etiquette to bring a straightforward and authentic presence to the Chicago music scene.

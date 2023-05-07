@@ -21,6 +21,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/teatronuovony/"
 
+_template = "company_single"
 +++
 Teatro Nuovo is a new organization devoted to cutting-edge interpretation of classic Italian opera. Our mission is threefold: First, to offer exciting revivals of neglected Bel Canto masterworks alongside freshly re-studied interpretations of familiar ones.  Second, to ally virtuoso singing at the highest level with historically-informed performing styles and orchestral instruments of the era. Third, to train young musicians in the special skills required to bring this thrilling repertory to life.
 

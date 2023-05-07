@@ -16,6 +16,7 @@ url = "https://www.facebook.com/DeutscheOperBerlin"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/deutsche_oper"
+_template = "company_single"
 +++
 
 

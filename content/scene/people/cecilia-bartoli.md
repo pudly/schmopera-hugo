@@ -13,6 +13,7 @@ website = "http://ceciliabartolionline.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/bartolicecilia"
+_template = "people_single"
 +++
 
 For more than two decades, Cecilia Bartoli has indisputably been one of the leading artists in the field of classical music. Her new opera roles, concert programmes and recording projects – exclusively on Decca – are eagerly awaited all over the world. The enormous success of her solo releases such as *The Vivaldi Album, Italian Arias by Gluck, The Salieri Album, Opera proibita, Maria, Sacrificium* and *Mission* is reflected both in extraordinary sales which have firmly established her as today’s best-selling classical artist –  more than 10 million copies of audio and video releases occupying the international pop charts for well over 100 weeks and garnering numerous “gold” and “platinum” certifications – and in major awards: five Grammys® (USA), ten Echos and a Bambi (Germany), two Classical Brit Awards (UK), the Victoire de la Musique (France) as well as many other prestigious prizes.

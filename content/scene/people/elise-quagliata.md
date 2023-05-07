@@ -12,6 +12,7 @@ website = "http://elisequagliata.com/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/elvissquigs/videos"
+_template = "people_single"
 +++
 
 Elise Quagliata, mezzo-soprano, has garnered critical notice over the past decade for her “rich, expressive voice and passionate delivery” (*The New York Times*) in a wide range of repertoire, from *Carmen* and *Dead Man Walking* to *Sweeney Todd*, and from oratorio and art song to cabaret.

@@ -23,7 +23,9 @@ Spoiler: There is no Mel Gibson in this Scottish story...but you can expect grea
 
 It was amazing! I saw this piece at the 1400-seat Theatre Royal, and the audience reacted to it with a kind of electric connection. I found out later from Alex Reedijk, the General Director of Scottish Opera, that this was their largest ever audience for a new opera. At the end of the show everyone was on their feet, giving a standing ovation (notably much rarer in the UK than in Canada). Interestingly, they were fully engaged in debating the little mysteries of the work at intermission and after the show.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456778854969/The-Devil-Inside---Scottish-Opera-_-Bill-Cooper---2resized.jpg.jpg)<figcaption>*The Devil Inside* 2016 - Nicholas Sharratt and Steven Page - photo credit - Bill Cooper.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456778854969/The-Devil-Inside---Scottish-Opera-_-Bill-Cooper---2resized.jpg.jpg)<figcaption>*The Devil Inside* 2016 - Nicholas Sharratt and Steven Page - photo credit - Bill Cooper.</figcaption>
 </figure>
 
 ## Is this collaborative project a departure from Tapestry’s long history of Canadian content?

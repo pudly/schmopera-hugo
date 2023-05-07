@@ -20,6 +20,7 @@ url = "https://twitter.com/elinagaranca"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UC6HvUpelGFf7-kdwl4qP1aQ"
+_template = "people_single"
 +++
 
 Elīna Garanča was born into a musical family in Riga, Latvia. She studied at the Latvian Academy of Music with her mother. She won the Mirjam Helin Singing Competition in 1999 and was a finalist in the 2001 BBC Cardiff Singer of the World Competition.

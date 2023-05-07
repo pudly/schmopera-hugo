@@ -20,6 +20,7 @@ url = "https://twitter.com/majeskiamanda"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/majeskiamanda/"
+_template = "people_single"
 +++
 
 American lyric soprano Amanda Majeski is rapidly garnering critical acclaim for a voice of “silvery beauty” (Musical America) that combines “transparent fragility with soulful strength.” (Chicago Sun-Times)

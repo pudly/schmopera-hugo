@@ -15,6 +15,7 @@ url = "https://www.facebook.com/LaKantorska/?ref=hl"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/LaKantorska"
+_template = "people_single"
 +++
 
 Suzanne Kantorski is one of the most exciting, and versatile vocal performing artists today. She has earned a solid reputation as a sensitive, and heart-rending interpreter of New Music, Contemporary Classical, rare concert works, and Jazz. She has also appeared in leading operatic roles, as a concert soloist with notable companies worldwide… but prefers to work with living composers.

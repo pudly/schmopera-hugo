@@ -16,6 +16,7 @@ url = "https://www.facebook.com/ConfidentialOperaProject/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ConOperaProject"
+_template = "company_single"
 +++
 
 The Confidential Opera Project aims to provide unbridled opportunities to opera performers around the world.

@@ -21,6 +21,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/domiche13"
 
+_template = "people_single"
 +++
 Recently reviewed in the Huffington Post as a “breakout star” and “powerhouse lyric tenor”, young tenor Dominick Chenes most recently debuted Seattle Opera as Pinkerton in *Madame Butterfly*, Opera Colorado as Rodolfo in *La Boheme*, Hong Kong as Rodolfo in *La Boheme*, the role of Turiddu with New Orleans Opera, and joined the Lyric Opera of Chicago in the role of Faust (cover). Pior to that he was recently heard as Don Jose in *Carmen* with Palm Beach Opera, Alfredo in *La Traviata* at the Pa Skaret Opera Festival in Sweden, Riccardo in *Un Ballo in Maschera* with Austin Lyric Opera and debuted Grand Theatre de Genevre as Iopas in *Les Troyens* with Maestro Dutoit, followed by his debut as Mario Cavaradossi in *Tosca* with the Minnesota Opera. Prior to that he returned to Austin Lyric Opera as *Pinkerton*, performed Don Jose with Utah Opera, followed by Rodolfo in *La Boheme* with Welsh National Opera and Pinkerton with Austin Lyric Opera. Future engagements include his debut in Valencia as Carlo in *I Masnadieri* conducted by music director Roberto Abbado, Liege as Pinkerton in *Madame Butterfly*, and Cavaradossi in *Tosca* with the Reading Symphony, a return to Hong Kong for Pinkerton, and *La Reine de Saba* with Odyssey Opera.
 

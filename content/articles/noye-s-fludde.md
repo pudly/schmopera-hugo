@@ -23,7 +23,9 @@ The English National Opera have stood staunchly by their mandate "opera for all"
 
 As Britten originally intended, the production has been cast with mainly amateur and children performers featuring a community orchestra and choir, and a chorus made up of over 120 school children. The result was a joyous celebration to close out the ENO's 2019 season.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562864325/media/2019/07/LouiseCallinanMrsNoyeandGossipsinNoyesFluddeatTheatreRoyalStratfordEast.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1562864325/media/2019/07/LouiseCallinanMrsNoyeandGossipsinNoyesFluddeatTheatreRoyalStratfordEast.jpg)
 
 <figcaption>Louise Callinan (Mrs Noye) and Gossips in Noye's Fludde at Theatre Royal Stratford East, English National Opera, 2019. Photo: Marc Brenner.</figcaption>
 
@@ -35,7 +37,9 @@ The compact Theatre Royal Stratford East was a far cry from the antiquated grand
 
 So strong is the ENO's wish to bring a younger audience into the theatre, that they have launched a scheme for their 2019/20 season offering free tickets to under 18's for select performances. An important aspect of accessibility in opera is not only about providing the opportunity for young people to attend performances, but also creating the space for them to enjoy, learn about, and hopefully take something away from them. ENO has clearly exemplified their thorough understanding of that through this light-hearted production.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562864336/media/2019/07/MarcusFarnsworth%20NoahandhisSonsinNoyesFluddeatTheatreRoyalStratfordEast.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1562864336/media/2019/07/MarcusFarnsworth%20NoahandhisSonsinNoyesFluddeatTheatreRoyalStratfordEast.jpg)
 
 <figcaption>Marcus Farnsworth (Noah) and his Sons in Noye's Fludde at Theatre Royal Stratford East, English National Opera, 2019. Photo by Marc Brenner.</figcaption>
 
@@ -43,7 +47,9 @@ So strong is the ENO's wish to bring a younger audience into the theatre, that t
 
 Director Lyndsey Turner has taken a youthful approach to the story despite the dark undertones of the biblical story we all know. And though Britten's music has a foreboding, stormy quality to it, it is also balanced out with a fair amount of humour which Turner chose to draw out in many places, most notably the seemingly unrelenting stream of animals arriving onto the arc which completely overwhelmed a frantic Noah. All of these moments are written into Britten's incredibly descriptive score and the production did a fantastic job of responding to them.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562864347/media/2019/07/MarcusFarnsworthNoaandtheanimalsinNoyesFluddeatTheatreRoyalStratfordEast.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1562864347/media/2019/07/MarcusFarnsworthNoaandtheanimalsinNoyesFluddeatTheatreRoyalStratfordEast.jpg)
 
 <figcaption>Marcus Farnsworth (Noah) and the animals in Noye's Fludde at Theatre Royal Stratford East, English National Opera, 2019. Photo by Marc Brenner.</figcaption>
 
@@ -51,7 +57,9 @@ Director Lyndsey Turner has taken a youthful approach to the story despite the d
 
 Simplistic and child-like designs by Soutra Gilmour were enhanced by Luke Hall's ingenious video design which was projected onto the set pieces, adding splashes of colour and interest to an otherwise grey world. The costume designs were straightforward yet effective. Each child was wearing a hat with a paper drawing of their given animal illustrated by artist and author Oliver Jeffers as well as a colour co-ordinated smock. The production design had the feel of a Quentin Blake illustration as though it was a children's book come to life.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562864373/media/2019/07/MarcusFarnsworthNoahinNoyesFluddeatTheatreRoyalStratfordEast.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1562864373/media/2019/07/MarcusFarnsworthNoahinNoyesFluddeatTheatreRoyalStratfordEast.jpg)
 
 <figcaption>Marcus Farnsworth (Noah) Noye's Fludde at Theatre Royal Stratford East, English National Opera, 2019. Photo by Marc Brenner.</figcaption>
 
@@ -59,7 +67,9 @@ Simplistic and child-like designs by Soutra Gilmour were enhanced by Luke Hall's
 
 The cast was led by baritone [Marcus Farnsworth](/scene/people/marcus-farnsworth/) as Noah and mezzo-soprano Louise Callinan as his wife who along with actress Suzanne Bertish in the speaking role of God, were the only adult performers on stage. They all did a wonderful job of supporting the children through the performance and giving them the space to shine.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562864384/media/2019/07/ThecastofNoyesFluddeatTheatreRoyalStratfordEast.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1562864384/media/2019/07/ThecastofNoyesFluddeatTheatreRoyalStratfordEast.jpg)
 
 <figcaption>The cast of Noye's Fludde at Theatre Royal Stratford East, English National Opera, 2019. Photo by Marc Brenner.</figcaption>
 

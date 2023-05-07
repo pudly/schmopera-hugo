@@ -16,6 +16,7 @@ url = "https://www.facebook.com/Opera-Delaware-Inc-111514505553714/?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/OperaDelaware"
+_template = "company_single"
 +++
 
 ## Our Mission:

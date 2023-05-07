@@ -9,6 +9,7 @@ related_companies = ["scene/companies/the-grange-festival.md","scene/companies/e
 slug = "jonathan-lemalu"
 title = "Jonathan Lemalu"
 website = "https://jonathanlemalu.com/"
+_template = "people_single"
 +++
 
 Grammy award winning bass baritone Jonathan Lemalu continues to be in great demand on the global stage as an opera singer, concert performer, recitalist and recording artist.  His critically acclaimed performances of the leading bass-baritone roles from Mozart’s *Die Zauberflöte*, *Don Giovanni*, *Le nozze di Figaro* and *Idomeneo*, Handel’s *Saul*, *Orlando*, *Rinaldo*, *La Resurezzione*, *Samson*, *Jeptha* and *Belshazzar* have taken him to the Metropolitan Opera in New York and on tour to Japan, The Royal Opera House, Glyndebourne Festival, Lyric Opera of Chicago, Salzburg Festival, Bayerische Staatsoper, Theater an der Wien, English National Opera, Cincinnati Opera, Opera Australia, Hamburg Staatsoper, BBC Proms and music festivals in Edinburgh, Styriarte, Gstaad, Tanglewood and Ravinia under the baton of such conductors as Sir Andrew Davis, Sir Simon Rattle, Sir Charles MacKerras, Zubin Mehta, Nikolaus Harnoncourt, Sir Roger Norrington, Rene Jacobs, Vladimir Jurowski and Ivor Bolton.

@@ -8,6 +8,7 @@ social_media = []
 title = "Sun-Ly Pierce"
 website = "https://www.sunlypiercemezzo.com/"
 
+_template = "people_single"
 +++
 Chinese-American mezzo-soprano Sun-Ly Pierce is quickly distinguishing herself as an exciting communicator and artist in the opera world.
 

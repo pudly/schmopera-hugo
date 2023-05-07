@@ -9,6 +9,7 @@ slug = "peixin-chen"
 title = "Peixin Chen"
 website = "http://www.peixinchen.com/"
 
+_template = "people_single"
 +++
 A recent graduate of the Houston Grand Opera Studio, and a student of Dr. Stephen King, Peixin Chen is recognized for his majestically resonant bass voice and for a keen dramatic instinct that he brings to a wide range of roles on the international opera stage.  His repertoire spans from the comic parts of Donizetti, Mozart, and Rossini to the strong and serious of Puccini, Verdi, and Wagner.  Peixin Chen has worked with an illustrious array of conductors and directors including Harry Bicket, Sebastian Lang-Lessing, Lorin Maazel, Giancarlo del Monaco, Andrés Orozco-Estrada, David Paul, Michel Plasson, David Pountney, James Robinson, Patrick Summers, and Francesca Zambello.
 

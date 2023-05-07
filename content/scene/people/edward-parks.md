@@ -12,6 +12,7 @@ website = "http://www.edwardparksiii.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Edward_Parks"
+_template = "people_single"
 +++
 
 A native of Indiana, Pennsylvania, Mr. Parks received his bachelor of music degree from Oberlin Conservatory and his master of music degree from Yale University. A National Winner of the 2008 Metropolitan Opera National Council Auditions, Mr. Parks was named a first place winner at the 2010 Gerda Lissner Foundation International Vocal Competition and has received awards from the George London Foundation, the Marilyn Horne Foundation, the Fritz and Lavinia Jensen Foundation Competition, the Irma M. Cooper Opera Columbus International Vocal Competition, the Connecticut Opera, the Palm Beach Opera Competition and the Music Academy of the West.

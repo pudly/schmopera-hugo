@@ -21,7 +21,9 @@ After almost a year and a half with virtually no live opera performances, it see
 
 In this case, after some changes of plans, they opted to host their return to live performance in the Leader Bank Pavilion with a semi-concert staging of [_Cavalleria rusticana_](https://blo.org/cavalleria-rusticana/). It seems strange that they opted to go with a rather short classic of the repertory, but I actually like the decision — sometimes all we really want to come back to is a classic done particularly well!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1633281807/media/2021/10/BLO_ChelseaBasler_MichaylaKelly_CavalleriaRusticana_LizaVoll_bm4rne.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1633281807/media/2021/10/BLO_ChelseaBasler_MichaylaKelly_CavalleriaRusticana_LizaVoll_bm4rne.jpg)
 
 <figcaption>Chelsea Basler as Lola, with Michayla Kelly in Cavalleria rusticana, Boston Lyric Opera, 2021. Photo: Liza Voll.</figcaption>
 
@@ -29,7 +31,9 @@ In this case, after some changes of plans, they opted to host their return to li
 
 Alas, aspects of this performance were more mixed than I would have liked. I understand the COVID-related reasons why they made this decision and it was nice to be in an outdoor space for once, but part of me wishes that more care was taken in the choice of venue; there was a good deal of ambient noise surrounding the Leader Bank Pavilion, including an Oktoberfest event just down the street and the sound of planes taking off from nearby Boston Logan. It really did let down the rather excellent orchestral playing since there were several moments that these noises covered them, and they only added to the distractions caused by a few patrons who had forgotten how to have proper audience etiquette.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1633281850/media/2021/10/BLO_JavierArrey_CavalleriaRusticana_LizaVoll_xxdxd5.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1633281850/media/2021/10/BLO_JavierArrey_CavalleriaRusticana_LizaVoll_xxdxd5.jpg)
 
 <figcaption>Javier Arrey as Alfio in Cavalleria rusticana, Boston Lyric Opera, 2021. Photo: Liza Voll.</figcaption>
 
@@ -37,7 +41,9 @@ Alas, aspects of this performance were more mixed than I would have liked. I und
 
 Some of the staging choices were also a little strange in my estimation: _Cavalleria rusticana_ is a work whose greatest asset is its economy of means, and there is really not much an opera company needs to do to keep the audience occupied. I was therefore completely confused as to why the production employed three interpretive dancers that danced some strange Martha Graham-style choreography in the first and last thirds of the show: as far as I could tell, they added nothing to the story, and in fact the production felt strongest when they were completely off-stage during the show’s middle third. It felt like the production did not trust Pietro Mascagni's score to hold the audience’s attention, and I wish the dancers would have been excised at some point.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1633281875/media/2021/10/BLO_AdamDiegel_CavalleriaRusticana_LizaVoll_k5xtt9.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1633281875/media/2021/10/BLO_AdamDiegel_CavalleriaRusticana_LizaVoll_k5xtt9.jpg)
 
 <figcaption>in Cavalleria rusticana, Boston Lyric Opera, 2021. Photo: Liza Voll.</figcaption>
 
@@ -47,7 +53,9 @@ But we all know that we come to the opera for the singing, and for the most part
 
 But of course, the real star of the show was [Michelle Johnson](/scene/people/michelle-johnson/)'s Santuzza; as an actress she managed to toe the line between the role's vulnerability and rage quite deftly, and her full, warm singing voice rounded out the character beautifully. [Chelsea Basler](/scene/people/chelsea-basler/) and [Nina Yoshida Nelsen](/scene/people/nina-yoshida-nelsen/) rounded out the cast with the almost thankless roles of Lola and Mamma Lucia respectively, and while the latter had to deal with some truly bizarre stage business near the end they both put in a good effort.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1633281887/media/2021/10/BLO_MichelleJohnson_NinaYoshidaNelsen_CavalleriaRusticana_LizaVoll_drqfnm.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1633281887/media/2021/10/BLO_MichelleJohnson_NinaYoshidaNelsen_CavalleriaRusticana_LizaVoll_drqfnm.jpg)
 
 <figcaption>Michelle Johnson as Santuzza and Nina Yoshida Nelsen as Mamma Lucia in Cavalleria rusticana, Boston Lyric Opera, 2021. Photo: Liza Voll.</figcaption>
 

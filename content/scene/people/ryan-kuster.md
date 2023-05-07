@@ -12,6 +12,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/RyanKusterBassB"
 
+_template = "people_single"
 +++
 Bass-baritone Ryan Kuster has been acclaimed for his “full and rich voice” (Dallas Observor), a “commanding stage presence” (Arts Knoxville) and is “at the beginning of an important career” (Opera Warhorses). He has most recently appeared as the Old Hebrew in _Samson et Dalila_ and the Doctor in _La traviata_ with The Dallas Opera, Theseus in _A Midsummer Night’s Dream_ with Virginia Opera, Pan in the workshop performance of _The Tree of Eternal Youth_ with American Lyric Theater, and as the Bass Soloist in Beethoven’s _Missa Solemnis_ with Marywood University.
 

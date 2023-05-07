@@ -22,6 +22,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/travlingtenor/"
 
+_template = "people_single"
 +++
 With a “heroically shining tone of exceptional clarity and precision” (_Opera Magazine_) and “gorgeously burnished power” (_The New York Times_), American tenor Russell Thomas uses his signature elegance and intensity to create vivid character portrayals on the world’s most important stages.
 

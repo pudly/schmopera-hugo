@@ -21,7 +21,9 @@ Perhaps to the relief of concerned opera-savvy adults, *The Schoolyard Carmen* f
 
 Soprano [Gillian Grossman](/scene/people/gillian-grossman/) plays the spunky, headstrong Carmen, and baritone [Janaka Welihinda](/scene/people/janaka-welihinda/) takes on triple duty as Carmen's uncle, her Vice Principal, and as Toreo, the cocky schoolyard antagonizer that lands Carmen in trouble. Pianist Jiayin Liu and cellist (and Shoestring Opera executive producer) Anne Rankin had orchestra duty, and at times doubled as chorus voices.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501172388736/Schoolyard%20Carmen%20Music.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501172388736/Schoolyard%20Carmen%20Music.jpg.jpg)
 <figcaption>Jiayin Liu (piano) and Anne Rankin (cello) of Shoestring Opera.</figcaption>
 </figure>
 

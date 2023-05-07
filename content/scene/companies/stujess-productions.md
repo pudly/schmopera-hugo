@@ -15,6 +15,7 @@ url = "https://www.facebook.com/stuandjessproductions"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/stuandjess"
+_template = "company_single"
 +++
 
 Stu&Jess are conductor Stuart Martin and director Jessica Derventzis. A bowl of cereal brought them together, and has kept them friends and partners since.

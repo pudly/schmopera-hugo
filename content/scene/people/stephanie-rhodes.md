@@ -13,6 +13,7 @@ website = "http://www.stephanierhodes.net/Stephanie_Rhodes/Home.html"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/srhodes.pianist"
+_template = "people_single"
 +++
 
 Stephanie Rhodes is an active coach and collaborator, working with opera companies and singers around the world. An assistant conductor at Washington National Opera, her 2014-2015 season is a diverse one, beginning with Francesca Zambello’s production of Daniel Catán’s *Florencia en el Amazonas*, and including *The Little Prince* (Rachel Portman) and *Dialogues of the Carmelites* (Poulenc). Previous seasons have included productions of Verdi’s *La forza del destino*, American-composer Jake Heggie’s acclaimed opera *Moby Dick*, and *Werther* (Massenet). 2014-15 also marks Ms. Rhodes debut with LA Opera where she assists on the double bill of *Dido and Aeneas* and *Bluebeard’s Castle*, and returns to *Florencia en el Amazonas*.

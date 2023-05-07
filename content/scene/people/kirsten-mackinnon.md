@@ -12,6 +12,7 @@ title = "Kirsten MacKinnon"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/kirstensoprano/"
+_template = "people_single"
 +++
 
 Described by Opera UK as a "heroine [with] poise, expressive singing, excellent vocalism, and a dark and full tone", Canadian soprano Kirsten MacKinnon has captured the attention of audiences across North America and Europe. A graduate of the Curtis Institute of Music under the mentorship of Professor Edith Wiens, she held the Alfred Greenberg Memorial fellowship during her studies, and was also a grant holder of the Jacqueline Desmarais Foundation for Young Canadian Opera Singers.

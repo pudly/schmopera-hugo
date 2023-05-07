@@ -19,6 +19,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/emmettohanlonofficial/"
 
+_template = "people_single"
 +++
 Irish-American baritone Emmett O’Hanlon’s 2018-2019 season sees his European and role debut as Malatesta in _Don Pasquale_ with the Blackwater Valley Opera Festival, his role debut as Silvio in _Pagliacci_ with Opera San Jose, conducted by Christian Reif, and a return to Des Moines Metro Opera to sing Maximillian in Bernstein’s _Candide_. Mr. O’Hanlon also makes his house debut with the Berkshire Opera Festival as Malatesta in _Don Pasquale_. Concert work includes his debut with the New World Symphony for _Unanswered Questions: A Leonard Bernstein Journey_, conducted by Edwin Outwater. As a winner of the 2018 Opera Birmingham vocal competition, Mr. O’Hanlon will be presented in recital at Brock Recital Hall at Samford University. He will also appear in recital with Sun Valley Opera, in Ketchum, Idaho.
 

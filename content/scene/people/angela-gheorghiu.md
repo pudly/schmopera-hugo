@@ -17,6 +17,7 @@ url = "https://www.facebook.com/angelagheorghiuofficial/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/angelagheorghiu"
+_template = "people_single"
 +++
 
 Superstar Angela Gheorghiu, the most glamorous and gifted opera singer of our time, was born in the small Romanian town Adjud. From early childhood it was obvious that she will become a singer, her destiny was the music. She attended the Music School in Bucharest and graduated the National University of Music Bucharest, where she studied with the remarkable music teacher Mia Barbu. Ms. Gheorghiu’s magnificent voice and dazzling stage presence have established her as a unique international opera superstar.

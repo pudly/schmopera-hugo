@@ -36,7 +36,9 @@ There are four basical nasal vowels in French: \[œ̃, õ, ɛ̃, ã\] They're in
 
 It can be fun to practice each vowel slowly, sustaining it first in its non-nasal form, and then in the same breath, trying to tip the vowel forward into the nose. It's kind of tricky to do, but super fun once you get the hang of it. The most fun one is \[o-õ\]; you start with the o-sound in "Minnesota" (if said with the proper accent like in _Fargo_), and you end up with the nasal o-sound like in the awesome song from _The Little Mermaid_, "Les poissons".
 
-<figure data-type="video">{{% md %}}<iframe width="896" height="504" src="https://www.youtube.com/embed/UoJxBEQRLd0" title="Rene Auberjonois - Les Poissons (From "The Little Mermaid")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}  
+<figure data-type="video">
+
+<iframe width="896" height="504" src="https://www.youtube.com/embed/UoJxBEQRLd0" title="Rene Auberjonois - Les Poissons (From "The Little Mermaid")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 </figure>
 
 ## Slavic stuff

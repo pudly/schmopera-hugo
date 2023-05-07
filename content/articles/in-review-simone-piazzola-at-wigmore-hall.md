@@ -26,7 +26,9 @@ Thought Piazzola seemed somewhat shy onstage, he and Vaccaro gave a polished, fl
 
 Piazzola heads next to Florence, where he sings Marcello in *La bohème* at Opera di Firenze, before reprising Rodrigo in *Don Carlo* at Teatro alla Scala. For more, follow Piazzola on [Facebook](https://www.facebook.com/SimonePiazzolaBaritono/) and [Twitter.](https://twitter.com/SimonePiazzola)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478101746160/2016-11-02---Wigmore-Hall.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478101746160/2016-11-02---Wigmore-Hall.jpg.jpg)
 </figure>
 
 >The next Rosenblatt Recital is January 10, 2017 at Wigmore Hall, featuring soprano Maria Katzarava, tenor Stefano La Colla, and pianist Simon Lepper. For details and tickets, [click here.](http://www.rosenblattrecitalseries.co.uk/whats_on.aspx)

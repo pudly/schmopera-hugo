@@ -16,7 +16,9 @@ You may have heard about the [weird ad](http://slippedisc.com/2016/08/wanted-nud
 
 The whole thing makes sense in the context of a nudist-resort-wedding, and since the cello is an inherently sexy instrument, it's a decent combo of music and birthday suits. The only other option, really, is an acoustic guitar, played from atop a high stool. Like Jenny, in that one scene in *Forrest Gump*:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470404337295/Screen-Shot-2016-04-09-at-6.32.51-AM.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470404337295/Screen-Shot-2016-04-09-at-6.32.51-AM.jpg.jpg)
 </figure>
 
 Judge if you must, but the whole image of a naked cellist playing a wedding gig had us thinking about the realities of nude music-making. Upon further consideration, the idea may be better in fantasy than in reality.

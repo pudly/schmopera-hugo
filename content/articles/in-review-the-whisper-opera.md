@@ -25,7 +25,9 @@ Lang also wrote the libretto, starting by typing in short Internet searches like
 
 I thought David Lang's piece itself was fascinating, and it was entirely integrated with the direction and design by [Jim Findlay](http://jimfindlaynyc.com/). The "stage" was raised to about chin-level when seated, and the audience was placed in small aisles that extended towards the centre of the space (we were informed that the seating arrangement would be unusual, and they weren't lying). The [International Contemporary Ensemble](http://iceorg.org/) ([Claire Chase](http://www.clairechase.net/), flutes, [Joshua Rubin](http://iceorg.org/about/staffbios/rubin), clarinets, [Kivie Cahn-Lipman](http://cellokivie.weebly.com/), cello, and [Ross Karre](http://rosskarre.com/), percussion) inhabited different corners of the space throughout the piece, playing Lang's eerie and beautiful score. They whispered along with soprano[ Tony Arnold](http://www.screecher.com/), who was the central voice throughout. Their instruments were part of the design, which was beautifully raw. Bare lightbulbs hung alongside bass drums, and even the creaky set added to the earthy, inclusive feeling to the piece. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428723134683/David-Lang-Photo-Credit-Peter-Serling-682x1024.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428723134683/David-Lang-Photo-Credit-Peter-Serling-682x1024.jpg.jpg)
 <figcaption>Composer David Lang. Photo: Peter Serling</figcaption>
 </figure>
 

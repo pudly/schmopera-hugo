@@ -22,7 +22,9 @@ title = "&quot;How lucky are we, the children of opera?&quot;"
 
 **Amelia**: This may sound ridiculous, but I didn't truly realize it until adulthood. Growing up I went to school, had friends, did activities, and then happened to miss large stretches of those things to travel. It was just "my normal". Mom and Mike [Cavanagh] were either home or on a gig, and that was normal. It was only while getting to know my (now) husband and contrasting our upbringings that I realized how completely abnormal mine was!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499737088274/image8.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499737088274/image8.jpg.jpg)
 <figcaption>Amelia (right) with Daniel Belcher after *Armide*, Opera Atelier, 2016.</figcaption>
 </figure>
 
@@ -38,7 +40,9 @@ With that in mind I tried to balance my separation anxiety with her sense of rou
 
 Another huge stand out is Opera Atelier's *Don Giovanni* in Seoul. Bumming along on that tour was amazing. One night Olivier Laquerre and Danny Belcher "kidnapped" me and took me to McDonald's. I thought I was the coolest kid on the planet! I was about 12 and had such a crush on Danny! I really was enamoured with that entire cast. I hung out in that hair and makeup room a lot too, trying to speak Korean with the makeup ladies and doing my oh-so-on-point [Marshall [Pynkoski]](https://operaatelier.com/about/creative-team/) impression. I could go on and on! 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499737277889/image5-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499737277889/image5-1.jpg.jpg)
 <figcaption>Jackie and Amelia with the late Stuart Hamilton.</figcaption>
 </figure>
 
@@ -54,7 +58,9 @@ Another huge stand out is Opera Atelier's *Don Giovanni* in Seoul. Bumming along
 
 **Jackie**: Maintaining a sense of routine was fairly easy because as I mentioned before, Amelia was a very bright, easy and adaptable child. Maybe because she wass an only child, she was extremely content to play alone, or interact with adults or sit and watch. Also Mike and I are not strictly routine parents. We make plans as we want, sometimes in advance and sometimes spur of the moment! I think Amelia became adaptable. (Which maybe makes her husband a bit crazy, sorry Bram.) 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499737320551/image10.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499737320551/image10.jpg.jpg)
 <figcaption>Amelia in 1992, and at her wedding in 2014.</figcaption>
 </figure>
 

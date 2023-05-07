@@ -25,6 +25,7 @@ url = "https://www.instagram.com/albinashagimuratova/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCsglc5l3mgGwIwamRST_4Dw"
+_template = "people_single"
 +++
 
 Albina Shagimuratova has been hailed by Opera News as “a phenomenon that must be heard to be believed” and by the New York Times for her “riveting Lucia.” She first came to international attention as the Gold Medal winner in the 2007 Tchaikovsky Competition in Moscow. This was followed quickly by her European opera debut as the Queen of the Night at the Salzburg Festival under the baton of Riccardo Muti. She has come to be regarded as the world’s leading interpreter of the role, from Mozart’s *Die Zauberflöte*, and has sung it with the Metropolitan Opera, Royal Opera House – Covent Garden, Teatro alla Scala (available on DVD), Wiener Staatsoper, Bayerische Staatsoper, Deutsche Oper Berlin, San Francisco Opera, Bolshoi Theater, Los Angeles Opera, Houston Grand Opera, Hamburg Staatsoper, and the Lucerne Festival, among others.

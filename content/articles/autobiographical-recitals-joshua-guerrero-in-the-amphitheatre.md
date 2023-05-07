@@ -20,7 +20,7 @@ Tenor [Joshua Guerrero](/scene/people/joshua-guerrero/) and pianist Andrea Grant
 
 True to the recital's title, [*My Story through Song*](http://files.coc.ca/pdfs/concert180123.pdf), Guerrero wove an autobiography around his selection of music. He spoke about his exposure to music during seminary school, his unashamed love for Andrea Bocelli, his days working as a singing gondolier in Las Vegas, his time spent living in China, and his connection with Plácido Domingo in Los Angeles.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516828931121/KLP180123-_DSC1158.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516828931121/KLP180123-_DSC1158.jpg.jpg)
 <figcaption>Joshua Guerrero and Andrea Grant (on piano) perform in the Richard Bradshaw Amphitheatre, photo: Kevin Lloyd.</figcaption>
 </figure>
 

@@ -16,6 +16,7 @@ url = "https://www.facebook.com/sopmitchell"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/sopmitchell"
+_template = "people_single"
 +++
 
 Soprano Laquita Mitchell consistently earns acclaim on eminent international opera and concert stages, leading performances with Los Angeles Opera, San Francisco Opera, Houston Grand Opera, Lyric Opera of Chicago, New York City Opera, Washington National Opera, and Opéra Comique in Paris, New York Philharmonic, The Philadelphia Orchestra, Detroit Symphony Orchestra, among many others.

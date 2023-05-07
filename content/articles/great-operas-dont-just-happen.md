@@ -31,7 +31,9 @@ We emphasize a very detailed outlining process at ALT, wherein the librettist an
 
 The other thing that I feel is critical, is the participation of a skilled dramaturg. A dramaturg's job in the new works development process is a kind of diagnostician to help the composer and librettist realize their vision. When developing a new opera, those involved (writers, performers, director, conductor) can become very close to the work and aren't always able to look at the piece objectively. This isn't to suggest that those 'in the trenches' aren't an important part of the process, but an objective set of eyes and ears - someone focused solely on the work itself and not their role in realizing the work - is invaluable. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519774916510/Librettists.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519774916510/Librettists.jpg.jpg)
 <figcaption>Clockwise from top left: Julian Crouch (librettist, *The Tree of Eternal Youth*), Lila Palmer (librettist, *Bloodlines*), and Lorene Cary (librettist, *Nana's Ghost*).</figcaption>
 </figure>
 
@@ -49,7 +51,9 @@ The CLDP has fostered the careers of some of the most exciting artists working i
 
 Since our upcoming event focuses on the libretto, I have to mention Royce Vavrek - probably our most prominent alum. Royce was in the inaugural class of the CLDP in the 2007-08 season, and has become one of the most in demand librettists in the world. We were thrilled to co-commission *JFK* with Fort Worth Opera from him and David T. Little. (David is not an alum of the program, but the two of them met at ALT's first CLDP event in 2008, in which two of Royce's first works were featured!) *The Long Walk*, by Jeremy Howard Beck and Stephanie Fleischmann, is a work that I was personally very involved in, having both commissioned it at ALT, and having produced the world premiere at Opera Saratoga. I believe *The Long Walk* is one of the greatest operas to have been written so far in the 21st century. It's already received three productions (at Opera Saratoga, Utah Opera, and Pittsburgh Opera), and deserves to be heard and seen everywhere.  
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519774874857/THE-LONG-WALK---Daniel-Belcher-and-Heather-Johnson---Photo-Gary-David-Gold---Opera-Saratoga.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519774874857/THE-LONG-WALK---Daniel-Belcher-and-Heather-Johnson---Photo-Gary-David-Gold---Opera-Saratoga.jpg.jpg)
 <figcaption></figcaption>
 </figure>
 

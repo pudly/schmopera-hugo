@@ -20,6 +20,7 @@ url = "https://www.youtube.com/channel/UCS_AylYV8Dh-OCb7pqBu8uw"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/michaeljpark"
+_template = "people_single"
 +++
 
 Michael Park is a composer and pianist with a keen interest in speech, humour, and collaboration. His music aims to give audiences an experience beyond the realm of traditional concert-going.

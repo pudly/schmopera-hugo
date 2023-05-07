@@ -17,7 +17,9 @@ Just like the ubiquitous sirens along University Avenue that permeate the sounds
 
 With the help of pianists [Stéphane Mayer](/scene/people/stephane-mayer/) and [Rachael Kerr](/scene/people/rachael-kerr/), the seven singers of the 2017/18 Ensemble Studio broke the ice with a single aria each, showing off their start-of-season stuff. It was a collection of picks from the standard operatic canon for this concert entitled, *Meet the Ensemble Studio*; safe as their choices may have been, the young singers each made strong statements about what they were bringing the rapt audience.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506462167349/2017-09-26-FCS-Ensemble-182.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506462167349/2017-09-26-FCS-Ensemble-182.jpg.jpg)
 <figcaption>(l-r) COC Ensemble Studio members Stéphane Mayer, Rachael Kerr, Simone McIntosh, Danika Lorèn, Samuel Chan, Samantha Pickett, Megan Quick, Lauren Eberwein, and Bruno Roy. Photo by Chris Hutcheson.</figcaption>
 </figure>
 

@@ -19,6 +19,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/realadamplachetka/"
 
+_template = "people_single"
 +++
 Bass-baritone Adam Plachetka was born in Prague, Czech Republic in May 1985 and graduated from the Prague Conservatory in 2006. In addition to his many national competition victories, Adam won First Prize at Antonín Dvořák’s International Vocal Competition.
 

@@ -25,7 +25,9 @@ Opera offers a world in which they can actually explore and develop who they are
 
 In terms of attending operas, I think if the right opera is introduced to a child, and they understand the story and context before they go in, they will enjoy themselves. *The Magic Flute*, *Carmen*, *L'enfant et les sortilèges*, *La bohème*, *The Barber of Seville* and *The Nightingale* were some of my favourites when I was young.  In fact, I am taking my children and their friends to see the COC's upcoming production of [*The Nightingale and Other Short Fables*](https://www.coc.ca/productions/13109) because it has the perfect combination: a fairy tale set to beautiful music, magical and beautiful design, directed by a master director - Robert Lepage - and his team.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520892439618/mar13hires-27-of-28%5B1%5D.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520892439618/mar13hires-27-of-28%5B1%5D.jpg.jpg)
 <figcaption>(l-r) Kyra Millan, Danielle MacMillan, Christina Faye and Owen McCausland, photo: Tim Flynn.</figcaption>
 </figure>
 
@@ -51,7 +53,9 @@ There are brilliant and fun [workshop opportunities](https://learn.coc.ca/events
 
 However, nothing quite matches seeing, feeling and hearing it live.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520892463642/Millan-and-Faye%5B1%5D.jpg.jpg)<figcaption>Millan & Faye: pianist Christina Faye and soprano Kyra Millan.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520892463642/Millan-and-Faye%5B1%5D.jpg.jpg)<figcaption>Millan & Faye: pianist Christina Faye and soprano Kyra Millan.</figcaption>
 </figure>
 
 ## What can people expect from your Opera For All Ages concert in the RBA this month?

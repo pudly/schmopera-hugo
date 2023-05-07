@@ -17,7 +17,9 @@ Convention is convention. No matter the parameters, adherence to convention can 
  
 Director Lydia Steier's attractive new production of Stravinsky's *Oedipus Rex*, double-billed with Tchaikovsky's *Iolanta* for [Oper Frankfurt](/scene/companies/oper-frankfurt/), follows a conventionally modernistic approach that conflicts with the composer's more figurative conception. Stravinsky imagined *Oedipus* as a "still life" in which "The people in the play relate to each other not by gestures, but by words. They do not turn to listen to each other's speeches, but address themselves directly to the audience." By eschewing broad naturalism, he hoped to focus not on the characters' inner lives but on the inertia of fate itself, which he believed macro musical structures could characterize uniquely well. Steier's naturalistic approach deliberately homes in on Oedipus' psyche but to what end? Has she devised a more palatable way into a challenging piece or has she diluted the piece's peculiarities that make it extraordinary?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541366796997/3704_19oedipusrex_gross.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541366796997/3704_19oedipusrex_gross.jpg.jpg)
 <figcaption>Peter Marsh (Oedipus, standing on the table) and Ensemble in *Oedipus Rex*, Oper Frankfurt, 2018. Photo: Barbara Aumüller.</figcaption>
 </figure>
  
@@ -29,7 +31,9 @@ As the investigation snakes through a series of witnesses, Oedipus' psyche unrav
  
 Guilty beyond a doubt, Oedipus stabs his eyes out. As he staggers back into the forum, blood dripping from his sockets, a messenger arrives with a second fateful blow: Jocasta is dead. The stage rotates to reveal Jocasta, hanging from a noose. Her nurses, blood smattered, unable to save the unborn baby, lay helplessly at her feet.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541366823095/3700_23oedipusrex_gross.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541366823095/3700_23oedipusrex_gross.jpg.jpg)
 <figcaption>Tanja Ariane Baumgartner (Jocasta; in red dress) and Gary Griffiths (Creon; above) and Ensemble in *Oedipus Rex*, Oper Frankfurt, 2018. Photo: Barbara Aumüller.</figcaption>
 </figure>
  
@@ -39,7 +43,9 @@ Can a modern audience tolerate abstraction? Steier seems to think not, judging b
  
 That said, the force of the music comes through. The score builds cunningly over the course of the short drama, lulling the audience into moral ambivalence. Starting with the lilting, sumptuous oompah that introduces Jocasta's aria, which maestro Sebastian Weigle and his orchestra played with queasy, dizzying beauty, the score blurs the audience's allegiances. Queen Jocasta winds her treacherous words into urgently compelling figures, and the male chorus' definitive rhythm's convincingly advocate for their specious accusations. Dramatic irony be damned, the moment the audience gets comfortable, Stravinsky's wallops it with a towering, harmonic tidal wave that seems to warn against complacency.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541366924605/3699_25oedipusrex_gross.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541366924605/3699_25oedipusrex_gross.jpg.jpg)
 <figcaption>Peter Marsh (Oedipus; front), Gary Griffiths (Creon), and extras of the Frankfurt Opera in *Oedipus Rex*, Oper Frankfurt, 2018. Photo: Barbara Aumüller.</figcaption>
 </figure>
 
@@ -51,7 +57,9 @@ Steier and her team have built an achingly immersive split-level environment. Do
 
 Today has been a hard day for Iolanta. A nagging emptiness plagues her. Only her favorite childhood lullaby will settle her nerves. At her request (or more accurately her father's command), her three principle nannies spin sumptuous melodies, lush with harmony and delicate counterpoint, while a fully choreographed backup choir sways in unison. Layered melodies expand and contract, gently easing Iolanta to sleep. The production number ends and René heaves a sigh of relief. Another day done with his grand illusion intact.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541366835102/3707_14iolanta_gross.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541366835102/3707_14iolanta_gross.jpg.jpg)
 <figcaption>Asmik Grigorian (Iolanta, maskless) and ensemble in *Iolanta*, Oper Frankfurt, 2018. Photo: Barbara Aumüller.</figcaption>
 </figure>
 
@@ -60,7 +68,9 @@ But that's all about to change. Robert, Duke of Burgundy, who is betrothed to Io
 As the boys holler downstairs, King René makes his way into Iolanta's bedroom. Watching her sleep, he carefully sets down his gun, methodically undresses to his underwear, climbs into Iolanta's bed, and rapes her. Certainly not in the libretto, this is a disconcerting addition.
 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541366844251/3710_10iolanta_gross.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541366844251/3710_10iolanta_gross.jpg.jpg)
 <figcaption>Asmik Grigorian (Iolanta) and Robert Pomakov (King René) in *Iolanta*, Oper Frankfurt, 2018. Photo: Barbara Aumüller.</figcaption>
 </figure>
  
@@ -72,7 +82,9 @@ King René's character is flattened by his horrific deed. In the original story,
  
 Still, there's a lot of good in this production, including some first rate singing. Asmik Grigorian's (Iolanta) ruby hued voice has tremendous bloom in its upper register, which Tchaikovsky's score exploits again and again. Grigorian paces the role deliberately; each climax surpasses the last. At Iolanta's true climax at the end of the extended love duet, Grigorian unleashes a thrilling, sprawling, hair-raising high note that seems to engulf every molecule in the theater. Grigorian's bold, mature sound empowers her Iolanta, transcending the character's horrific victimization.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541367031481/3696_24iolanta_gross.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541367031481/3696_24iolanta_gross.jpg.jpg)
 <figcaption>AJ Glueckert (Graf Vaudémont; bottom seated) and Asmik Grigorian (Iolanta, on top of the bed and in the projection)  in *Iolanta*, Oper Frankfurt, 2018. Photo: Barbara Aumüller.</figcaption>
 </figure>
  
@@ -80,7 +92,9 @@ Robert Pomakov, as King René, also stands out. Few opera singers calibrate thei
  
 The supporting performances are also strong. Andreas Bauer, who never seems to have a night off (he had just finished a run of *Rusalka* that overlapped with *Zauberflöte*), maneuvers through the Moorish doctor Ibn-Hakia's treacherously pitched arias without strain. The three head maids, played by Judita Nagyová (Martha), Elizabeth Reiter (Brigitta), and Nina Tarandek (Laura), evince depth and beauty in their sublime lullaby. Both Gary Griffiths (Robert) and AJ Glueckert (Count Vaudémont) tighten in their upper ranges but make it through the evening with their voices intact.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541367039988/3694_16iolanta_gross.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541367039988/3694_16iolanta_gross.jpg.jpg)
 <figcaption>Asmik Grigorian (Iolanta) in *Iolanta*, Oper Frankfurt, 2018. Photo: Barbara Aumüller.</figcaption>
 </figure>
 

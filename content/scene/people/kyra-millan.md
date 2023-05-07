@@ -12,6 +12,7 @@ website = "http://kyra-millan.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/KyraMillan"
+_template = "people_single"
 +++
 
 Soprano and Artist Educator Kyra Millan started in Arts education 15 years ago facilitating singing workshops for the Canadian Opera Company, and has been working for them ever since as well as for  Workman Arts (CAMH), Opera Atelier, Abilities Arts, Soundstreams Canada and most recently, TIFF.

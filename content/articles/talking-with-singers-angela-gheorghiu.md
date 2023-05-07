@@ -29,7 +29,9 @@ All directors rely on the physique of singers, seemingly to listen to artists wi
 
 Even eminent artists are pulled by the ears of management.  I do believe that opera managers should consult the artists because by doing things without consultation can lead to disagreements and failure.  Every director who may have strange or crazy ideas can be asked to reconsider their point of view.  I have been lucky to be able to have my career unfold in an almost ideal way.   
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486144772887/2017-02-02---JONAS-KAUFMANN-AS-MAURIZIO-ANGELA-GHEORGHIU-AS-ADRIANA-CATHERINE-ASHMORE.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486144772887/2017-02-02---JONAS-KAUFMANN-AS-MAURIZIO-ANGELA-GHEORGHIU-AS-ADRIANA-CATHERINE-ASHMORE.jpg.jpg)
 <figcaption>Jonas Kaufmann (Maurizio) and Angela Gheorghiu (Adriana) in *Adriana Lecouvreur*, ROH. Photo by Catherine Ashmore.</figcaption>
 </figure>
 
@@ -39,7 +41,9 @@ I could answer that the sacrifice is total, supreme, it's the pressure of one's 
 
 Changing the time zone may also change your life.  Children are never together with their parents, only during holidays. It is never easy, I can assure you.  The public may have the impression that we were born on a stage somewhere and have to be perfect for every performance for 30 years or even more. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486144944406/2017-02-02---LA-RONDINE-ANGELA-GHEORGHIU-AS-MADGA-DE-CIVRY-CATHERINE-ASHMORE.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486144944406/2017-02-02---LA-RONDINE-ANGELA-GHEORGHIU-AS-MADGA-DE-CIVRY-CATHERINE-ASHMORE.jpg.jpg)
 <figcaption>Angela Gheorghiu as Magda de Civry in *La Rondine*, ROH. Photo by Catherine Ashmore.</figcaption>
 </figure>
 
@@ -51,7 +55,9 @@ I did not do anything, that is why it is so interesting and the media is interes
 
 The difference in opera is in fact only made by the artists themselves.  It is clear that the presence of a great conductor or director helps, but I saw divine performances which did not feature stars as well.  When I see the hundreds of people queuing up for tickets in Vienna or elsewhere, I do ask myself and realise how a personality and a big talent, how an artist having the sacred fire of creation can make a difference.  And there is God, for sure!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486144991905/2017-02-02---Angela-Gheorghiu---Marguerite---Catherine-Ashmore.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486144991905/2017-02-02---Angela-Gheorghiu---Marguerite---Catherine-Ashmore.jpg.jpg)
 <figcaption>Angela Gheorghiu as Marguerite in *Faust*, ROH. Photo by Catherine Ashmore.</figcaption>
 </figure>
 

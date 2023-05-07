@@ -8,6 +8,7 @@ related_companies = ["scene/companies/calgary-opera-emerging-artist-development-
 slug = "aaron-dimoff"
 title = "Aaron Dimoff"
 website = "https://aarondimoff.weebly.com/"
+_template = "people_single"
 +++
 
 Ontario born Bass-Baritone Aaron Dimoff has gained a reputation as a versatile, powerhouse vocalist across western Canada and beyond.

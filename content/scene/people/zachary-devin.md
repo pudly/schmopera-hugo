@@ -12,6 +12,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/ZacharyDevinTenor/"
 
+_template = "people_single"
 +++
 American Tenor Zachary Devin began his vocal studies at the young age of sixteen in his hometown of Robinson, IL, Mr. Devin’s voice has been praised as “superb”,“strong”, and “impassioned” by Opera Today.
 

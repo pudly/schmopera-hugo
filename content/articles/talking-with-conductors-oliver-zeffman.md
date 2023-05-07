@@ -25,7 +25,9 @@ Just do it! I set up the Melos Sinfonia at 16 - no-one is going to invite a wann
 
 In terms of finding financial support, look up who sponsors all the major arts organisations and just write to them. It's a long and tedious process and most people won't reply, but if you're really excited by your project and can convey this excitement to others then you'll find support out there. I think my idealism (some would say naivety) served me well when I started: I didn't really know what I was doing, so I just did it!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507752819828/2017-10-11---Oliver-Zeffman-3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507752819828/2017-10-11---Oliver-Zeffman-3.jpg.jpg)
 <figcaption>Photo: Nick Rutter.</figcaption>
 </figure>
 

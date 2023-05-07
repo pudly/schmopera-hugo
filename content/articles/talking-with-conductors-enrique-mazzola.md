@@ -37,7 +37,9 @@ The plot of _Luisa Miller_ is a very beautiful romantic tragedy, but maybe there
 
 Theaters, then as now, preferred to present the more iconic titles for audiences and I think _Luisa Miller_ suffered for 150 years from this problem.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570227044/media/2019/10/Mazzola4-Jean-BaptisteMillot_iprwjo.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570227044/media/2019/10/Mazzola4-Jean-BaptisteMillot_iprwjo.jpg)
 
 <figcaption>Enrique Mazzola, conductor. Photo: Jean-Baptiste Millot.</figcaption>
 
@@ -67,7 +69,9 @@ Many times, we stop in rehearsal and someone says, "Maestro, this seems like _Ot
 
 As conductors, we have to accept that we are working with people, other human beings, who have developed their own ideas. For me, it is a pleasure to listen and to tie together all the ideas. This is what I feel my job is as the conductor, generally.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570227012/media/2019/10/Mazzola3Jean-BaptisteMillot_jcnpan.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570227012/media/2019/10/Mazzola3Jean-BaptisteMillot_jcnpan.jpg)
 
 <figcaption>Enrique Mazzola, conductor. Photo: Jean-Baptiste Millot.</figcaption>
 

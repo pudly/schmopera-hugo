@@ -17,6 +17,7 @@ url = "https://www.facebook.com/pages/Adrianne-Pieczonka/107837229246007"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/vatosca"
+_template = "people_single"
 +++
 
 "Adrianne Pieczonka is a revelation, with a lavishly creamy

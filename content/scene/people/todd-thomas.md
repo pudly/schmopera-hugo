@@ -13,6 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/toddthomasbaritone/"
 
+_template = "people_single"
 +++
 Recognized by opera companies and critics alike as one of the true Verdi baritones gracing stages today, Todd Thomas continues his tenure as one of America’s most sought-after artists. In the title role of **_Macbeth_**, Opera News depicted his performance as “warm and centered in his tone with subtle phrasing that emphasized the introspective, almost poetic quality of the tormented king.” Performing the role of Iago in Lyric Opera of Chicago’s season opening performance of Verdi’s **_Otello_**, “earned him deservedly the largest ovation at the end of the night from the glittery opening night audience.” (The Chicago Classical)
 

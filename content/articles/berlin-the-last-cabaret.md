@@ -25,7 +25,9 @@ We chose July 13, 1934 for our piece, the day Hitler made a speech claiming resp
 
 Within these pillars of historical reference, the story and plot is the product of Alan Corbishley and Joanna Garfinkel.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579747239/media/2020/01/CityOperaVancouver-Berlinsmall2_xakvzg.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1579747239/media/2020/01/CityOperaVancouver-Berlinsmall2_xakvzg.jpg)
 
 <figcaption>Meaghan Chenosky. Photo: Diamond's Edge Photography.</figcaption>
 
@@ -45,7 +47,9 @@ We wanted to explore the incredible songs that were true hits within the cabaret
 
 Naturally, artists who were not deemed "worthy" were quickly denied and then prosecuted under strictest enforcement if caught presenting their art unauthorized. The vast majority of musicians and cabaret artists fled in 1933. This show explores how this particular troupe reacts to this political tension and eventual threat of death.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579747256/media/2020/01/CityOperaVancouver-Berlinsmall3_fd2ibg.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1579747256/media/2020/01/CityOperaVancouver-Berlinsmall3_fd2ibg.jpg)
 
 <figcaption>Daniel Deorksen, Brent Hirose, Meghan Chenosky, Alen Dominguez, Julia Muncs. Photo: Diamond's Edge Photography.</figcaption>
 
@@ -55,7 +59,9 @@ Naturally, artists who were not deemed "worthy" were quickly denied and then pro
 
 **AC**: This show is essentially a warning to never forget our past, as our surrounding culture is frequently and direly susceptible to corruption, hatred, and fear. How can we be living in 2020, and still be challenging the legitimacy of sexual orientation and gender non-conformity, as well as resisting women's rights and diverse cultures? And yet, Western societies - lands that are meant to be filled with "freedom and liberty" - are embracing ever more fervently xenophobia, racism and bigotry. This show is meant to generate thought and conversation around how we as a human species are capable of horrendous things - despite our collective beauty.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579747270/media/2020/01/CityOperaVancouver-Berlinsmall4_tygcos.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1579747270/media/2020/01/CityOperaVancouver-Berlinsmall4_tygcos.jpg)
 
 <figcaption>Alen Dominguez, Julia Muncs. Photo: Diamond's Edge Photography.</figcaption>
 

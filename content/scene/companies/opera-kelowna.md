@@ -21,6 +21,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/operakelowna/"
 
+_template = "company_single"
 +++
 Opera Kelowna is a registered, non-profit, charitable status society and member of the Canadian Association of Professional Opera Companies.
 

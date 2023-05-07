@@ -18,7 +18,9 @@ title = "He said/she said: Songbook VI"
 
 **Greg**: Saturday night at the Ernest Balmer Studio in the Distillery District is one of my favourite things as of late, and this past Saturday's *Songbook VI* was no exception. Tapestry Opera presented to us a selection of Canadian operatic works by some of today's hottest up-and-coming artists. Led by mezzo-soprano [Wallis Giunta](/scene/people/wallis-giunta/) and music director [Jordan de Souza](/scene/people/jordan-de-souza/), the night saw a total of eleven singers and six pianists who all make up the "New Opera 101" Program. They presented excerpts from works housed in the Tapestry Opera library, which, #LetItBeKnown, is a treasure trove of new music that should be heard over, and over again. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455033172889/Songbook-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455033172889/Songbook-1.jpg.jpg)
 <figcaption>Tapestry Opera Artistic Director Michael Mori, mezzo-soprano Wallis Giunta, and Conductor-in-Residence Jordan de Souza. Photo by Dahlia Katz.</figcaption></figure>
 
 **Jenna**: As *Songbook VI* unfolded, I was struck early on by the depth of understanding these young artists had of their scenes. So often, the repertoire seemed perfectly suited to the singer; their characters seemed an extension of themselves, and their voices were comfortable and free to play. It's a big deal that Tapestry Opera has such a comprehensive library of music; the artists were thoughtfully assigned their scenes, and it's exciting to know that there was so much Canadian opera to choose from and find a great fit.
@@ -29,7 +31,9 @@ I'll talk about a few of the pieces that were standouts for me. I have to say th
 
 **Jenna**: The night was perfect for anyone with a short attention span, and each scene was engrossing from the start. The stories in *Songbook VI* were often heavy, and it was a cathartic evening, full of that awesome combination of great artists and great pieces. There were a few highlight performances for me, like tenor [Jonathan MacArthur](/scene/people/jonathan-macarthur/)'s starter, "Waiter's Aria" from Omar Daniels' *The Shadow*, with pianist Asal Iranmehr. He had the magnetic air of a great emcee, and he set up an easy vibe to the show with a few opera singer gags and a great sense of humour.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455033243532/Songbook-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455033243532/Songbook-2.jpg.jpg)
 <figcaption>Photo by Dahlia Katz.</figcaption></figure>
 
 **Jenna**: Soprano Beth Hagerman was a standout artist of the night, particuarly in the "Beautymark Aria", from *Dark Star Requiem* by Jill Battson and Andrew Staniland, with Evelina Soulis at the piano; the aria is sung by a personification of the HIV virus, and it's a terrifying thing to watch. Hagerman showed maturity and skill with this scene, and her full, thrilling voice suggests we'll hear more from her in seasons to come. 
@@ -44,14 +48,18 @@ Yarnell followed up later with a piece we've heard before, but that doesn't mean
 
 **Jenna**: Of course, the two numbers by [Wallis Giunta](/scene/people/wallis-giunta/) and [Jordan de Souza](/scene/people/jordan-de-souza/) at the piano were both stunners. Giunta sounded the best I've heard her yet, and it was clear that she found a connection to this music. She was touching in "Chopin's Pearls" from Gareth Williams and David James Brock's *The Sloans Project/Pub Operas*; she took huge vocal risks, yet never stopped speaking to her listeners. She brought her sense of humour to the grande finale, "It's My Wedding" from British composer Jonathan Dove's *The Enchanted Pig*. The insane freakout of a bridezilla is hilarious needs to become an immediate recital staple, and Wallis was totally hilarious.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455033253926/Songbook-3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455033253926/Songbook-3.jpg.jpg)
 <figcaption>Photo by Dahlia Katz.</figcaption></figure>
 
 **Greg**: Tapestry ended each half of the program with offerings by Giunta with de Souza at the keys. First half she shared "Chopin's Pearls" from the *Sloans Project/Pub Operas*. A work with a great story behind it. These are compiled stories from one of the world's oldest working public houses in the British Isles and this tells the tale of a barmistress who falls in love with a visiting pianist - none other than the phenomenal Fréderic Chopin, while the house pianist loves her unrequitedly from afar. 
 
 In the second half, we got what was probably my favourite piece of the night, "It's My Wedding" from *The Enchanted Pig*, by Jonathan Dove with a libretto based on a Romanian folk tale by Alasdair Middleton. These two pieces were probably the best I've heard Giunta sing. We're all well aware of her Handel and Mozart chops, but these two were almost parallel with German cabaret in their presentation and vocalization. I thought she was freer and truer to herself than I'm used to seeing; being in the intimate space that is the Balmer studio helped bridge that gap for sure. I'd love to hear her do more contemporary stuff as I think she shines better in this milieu. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455033429849/Songbook-5.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455033429849/Songbook-5.jpg.jpg)
 <figcaption>Jonathan MacAruthur and Asal Iranmehr rehearse with the New Opera 101 Program. Photo by Dahlia Katz.</figcaption>
 </figure>
 

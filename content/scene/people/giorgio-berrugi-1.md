@@ -16,6 +16,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/giorgioberrugi"
 
+_template = "people_single"
 +++
 Nominated by Placido Domingo as one of his heirs, Giorgio Berrugi is one of the most appreciated tenors of today for his unmistakable, warm Italian sound, his exceptional musicality and the expressive nuances of his interpretations.
 

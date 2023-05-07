@@ -18,5 +18,7 @@ Wide Open House includes free concerts by RCM students and faculty, 15-minute tr
 
 You can catch a full schedule of events below, or by clicking [right here.](http://www.rcmusic.ca/sites/default/files/files/Wide_Open_House_Schedule_2017_v7_REV.pdf)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497325488818/2017-06-12---Wide_Open_House_Schedule_2017.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497325488818/2017-06-12---Wide_Open_House_Schedule_2017.jpg.jpg)
 </figure>

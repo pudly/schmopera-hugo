@@ -21,7 +21,9 @@ I figure Mozart's _Idomeneo_, his 1780 _opera seria_ rooted in Greek mythology, 
 
 If you're not up on your Greek/Trojan history, there's little to save you in the pages of Mozart's score. We are not introduced to these characters - rather, dropped into a window in the lives of large mythological figures, with personal histories that are assumed to be familiar. That assumption was likely a stretch in the 18th century, let alone today.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554486532/media/2019/04/OAIdomeneo-ColinAinsworth-BruceZinger.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554486532/media/2019/04/OAIdomeneo-ColinAinsworth-BruceZinger.jpg)
 
 <figcaption>Colin Ainsworth as Idomeneo in Opera Atelier's production of Idomeneo, 2019. Photo: Bruce Zinger.</figcaption>
 
@@ -31,7 +33,9 @@ My curiosity was piqued for this revival of Opera Atelier's production of _Idome
 
 "There's a serious storm brewing," said Pynkoski in his pre-show audience address, "and I predict major turbulence ahead." He was referring to the the storm that the sea god Neptune churns up, hurling Idomeneo and his sailors onto the shores of Crete. But there was turbulence too, as this production resounded into the Ed Mirvish Theatre.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554486562/media/2019/04/OAIdomeneo-GiuntaLindsay-BruceZinger.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554486562/media/2019/04/OAIdomeneo-GiuntaLindsay-BruceZinger.jpg)
 
 <figcaption>Wallis Giunta as Idamante and Meghan Lindsay as Ilia in Opera Atelier's production of Idomeneo, 2019. Photo: Bruce Zinger.</figcaption>
 
@@ -43,7 +47,9 @@ If turbulence is too exaggerated at term, perhaps one could instead say that the
 
 And [Measha Brueggergosman](/scene/people/measha-brueggergosman/) as Elettra, the literal poster child for this production, seemed to pair lovely, inspired moments of singing with a few pervasive rookie mistakes. She stood out onstage, moving heavily and without the taut precision of everyone else onstage.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554486592/media/2019/04/OAIdomeneo-MeashaBrueggergosman-BruceZinger.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554486592/media/2019/04/OAIdomeneo-MeashaBrueggergosman-BruceZinger.jpg)
 
 <figcaption>Measha Brueggergosman as Elettra in Opera Atelier's production of Idomeneo, 2019. Photo: Bruce Zinger.</figcaption>
 
@@ -55,7 +61,9 @@ There was disconnect in the production, too, flashes of elements that run parall
 
 More than beautiful people or stylistic precision, I instead craved some hints of real humanity in these archetypal figures. Once-removed as they seem from their places in history books, there are still traits of mere mortals to pull out of these characters. Idomeneo is a parent, Idamante and Ilia are young and in love, and Elettra is rejected; if these aren't universal qualities, I'm not sure what is.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554486616/media/2019/04/OAIdomeneo-DouglasWilliams-BruceZinger.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554486616/media/2019/04/OAIdomeneo-DouglasWilliams-BruceZinger.jpg)
 
 <figcaption>Douglas Williams as Neptune in Opera Atelier's production of Idomeneo, 2019. Photo: Bruce Zinger.</figcaption>
 

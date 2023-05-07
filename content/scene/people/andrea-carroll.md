@@ -15,6 +15,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ACsoprano"
 
+_template = "people_single"
 +++
 In the 2022-2023 season, Andrea performs Micaëla in _Carmen_ for her debut with Lyric Opera of Kansas City, makes her role and house debut as Cunegonde in a new production of Candide at Opéra National de Lyon, makes her Canadian Opera Company debut as Susanna in _Le Nozze di Figaro_, returns to Palm Beach Opera as Nannetta in _Falstaff_, and debuts at The Metropolitan Opera as Zerlina in _Don Giovanni_.
 

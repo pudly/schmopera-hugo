@@ -20,6 +20,7 @@ url = "https://twitter.com/portlandopera"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/operaticvisuals/videos"
+_template = "company_single"
 +++
 
 Our mission is to inspire, challenge and uplift our audiences by creating productions of high artistic quality that celebrate the beauty and breadth of opera.

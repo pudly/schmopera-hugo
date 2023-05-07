@@ -17,6 +17,7 @@ url = "https://www.facebook.com/TimMeadCountertenor"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/tim_mead"
+_template = "people_single"
 +++
 
 Counter-tenor Tim Mead is praised for his elegant and warm tone with faultless projection and stylish interpretations. His virtuosic performances have drawn much international attention, and he is recognised as one of the finest across the generations of counter-tenors.

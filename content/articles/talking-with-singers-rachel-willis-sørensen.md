@@ -39,7 +39,9 @@ What are some misconceptions? I think that there are a lot of misconceptions abo
 
 It isn't that she doesn't want to love and marry him, but I think she is struggling and he also doesn't seem to acknowledge the codes in Spain that she is bound by. In that time period, she would be expected to wear black and mourn for one year, so getting married and being jolly would have actually have been unexpected. So, she asks him to wait a year. That line always draws a laugh from the audience, as it seems strange to us today.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573602684/media/2019/11/DonGiovanniMartySohlMetOpera_aehg3i.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573602684/media/2019/11/DonGiovanniMartySohlMetOpera_aehg3i.jpg)
 
 <figcaption>Rachel Willis-Sørensen as Donna Anna in Don Giovanni. Photo: Marty Sohl/Metropolitan Opera.</figcaption>
 
@@ -75,7 +77,9 @@ Forgive me, because this is going to sound a little cynical, but I wish I had kn
 
 I also wish that I had known how important your appearance is, and that if you dress better, and put effort into how you present yourself, people will take you more seriously. I personally am much more into how someone sounds, which is, I guess, why I am a musician, but your image is certainly a part of how you are perceived. I have recently taken a greater interest in this by losing weight, and making sure I don't go to rehearsal without taking care to look my best, and it has had a profound effect on how people see me.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573602647/media/2019/11/RachelWillisSorensen-SimonPauly_qfrxvn.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573602647/media/2019/11/RachelWillisSorensen-SimonPauly_qfrxvn.jpg)
 
 <figcaption>Rachel Willis-Sørensen, soprano. Photo by Simon Pauly.</figcaption>
 

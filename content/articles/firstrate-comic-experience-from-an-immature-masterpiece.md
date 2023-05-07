@@ -17,7 +17,9 @@ Would you rather stage a classical production, giving your audience and cast the
 
 Young Italian director Silvia Paoli met the challenge of this task at Donizetti festival 2018, and her solution exceeded all expectations and assumptions.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544310172724/Enrico%20dBorgognaDonizetti2018fotoRotaGFR_5113.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544310172724/Enrico%20dBorgognaDonizetti2018fotoRotaGFR_5113.jpg.jpg)
 <figcaption>*Enrico di Bordogna*, Donizetti Festival, 2018. Photo: Gianfranco Rota.</figcaption>
 </figure>
 
@@ -33,13 +35,17 @@ The main story is about the lost son of a murdered king, fighting against the we
 
 The orchestra Academia Montis Regalis under the baton of Alessandro De Marchi proved that we need to find a place for this beauty on stage. With their wooden baroque period instruments, even featuring a harpsichord, they created a special sound and atmosphere, showing once more the great aesthetic value of early music.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544310202727/EnricodiBorgognaDonizetti2018fotoRota_VLB9968.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544310202727/EnricodiBorgognaDonizetti2018fotoRota_VLB9968.jpg.jpg)
 <figcaption>*Enrico di Bordogna*, Donizetti Festival, 2018. Photo: Gianfranco Rota.</figcaption>
 </figure>
 
 The prima donna of the evening in both contexts was Sonia Ganassi as Elisa. Her bold and deep voice effortlessly overcame any other voice and the orchestra. Her captor Guido, sung by Levy Sekgapane, was light and clean, the perfect example of a bel canto tenor. They both demonstrated great acting talent, shifting from dramatic characters to ridiculed singers in every scene, never neglecting the vocal challenges this opera offers, like the cadenza "La morta pud solo por fine al dolor" in Elisa's aria, marvellously performed by Ganassi, or Guido's final-act aria with a challengingly low tessitura.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544310211599/Enrico%20diBorgognaDonizetti2018fotoRotaGFR_8685.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544310211599/Enrico%20diBorgognaDonizetti2018fotoRotaGFR_8685.jpg.jpg)
 <figcaption>>*Enrico di Bordogna*, Donizetti Festival, 2018. Photo: Gianfranco Rota.</figcaption>
 </figure>
 
@@ -47,7 +53,9 @@ Mezzo Anna Bonitatibus, a self-described anti-diva, was a very convincing Enrico
 
 Top laurels, however, go to two supportive actors - though it's hard for me to call them that. Francesco Castoro with his deep and round voice was a perfect Pietro. Only he could overcome his own comic performance of fighting with the director by filling the hall with the light sadness of his first aria. His duets with Enrico were coloured with true fatherly warmth, and his sound supported Anna Bonitatibus. His was the strongest voice of the second act, and he performed luminously all the way.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544310221843/EnricodiBorgognaDonizetti2018fotoRotaGFR_8869.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544310221843/EnricodiBorgognaDonizetti2018fotoRotaGFR_8869.jpg.jpg)
 <figcaption>*Enrico di Bordogna*, Donizetti Festival, 2018. Photo: Gianfranco Rota.</figcaption>
 </figure>
 
@@ -57,7 +65,9 @@ His part in *Enrico di Borgogna* had already contained signature Donizetti piece
 
 It's hard to imagine how such a big voice could not dominate in duets with a light tenor, which made up the bulk of the second scene of the first act, but the sheer massiveness Tittoto brought to his work with Levy Sekgapane made their duets truly splendid. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544310192484/EnricodiBorgognaDonizetti2018FotoRotaGFR_8750.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544310192484/EnricodiBorgognaDonizetti2018FotoRotaGFR_8750.jpg.jpg)
 <figcaption>*Enrico di Bordogna*, Donizetti Festival, 2018. Photo: Gianfranco Rota.</figcaption>
 </figure>
 
@@ -65,7 +75,9 @@ And what could be more precious than ensemble parts when you have such a brillia
 
 A minor disappointment was the chorus, which just couldn't reach the level of the soloists.  The audience definitely forgave everything after the scene where the guards, in pursuit of the villain, turned into a furious chorus bearing down on the director. The poor man never reached a mutual understanding with chorus or soloists.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544310231604/EnricodiBorgognaDonizetti2018fotoRota_VLB0111.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544310231604/EnricodiBorgognaDonizetti2018fotoRota_VLB0111.jpg.jpg)
 <figcaption>*Enrico di Bordogna*, Donizetti Festival, 2018. Photo: Gianfranco Rota.</figcaption>
 </figure>
 

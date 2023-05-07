@@ -20,7 +20,9 @@ The all-women line-up of singers will offer their delightfully femininine - or m
 
 For opera veterans, *Verbotenlieder* is sure to be a hoot; and for the newcomers, there's a programme of excellent music, sung by some of Canada's must-hear talent.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544456092364/Verbotenliederposter.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544456092364/Verbotenliederposter.jpg.jpg)
 <figcaption>Image by Madison Angus.</figcaption>
 </figure>
 

@@ -12,6 +12,7 @@ website = "http://sarahtucker.net/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/sarahtuckersop"
+_template = "people_single"
 +++
 
 Praised by Opera Today for “pure, clear tones” and lauded by the Arizona Republic for “purity and vivacious charm,” young soprano Sarah Tucker is demanding attention for her captivating vocal timbre and engaging stage presence.

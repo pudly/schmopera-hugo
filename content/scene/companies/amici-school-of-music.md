@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Amici-School-of-Music-Music-Together/27301
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AmiciMusicTO"
+_template = "company_single"
 +++
 
 The Amici School of Music was founded by Leigh Ann Allen and Michelle Garlough, offering private and group lessons for any age. The Amici School offers Music Together® classes, for newbords up to age 5.

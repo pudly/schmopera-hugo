@@ -14,6 +14,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/DionMazerolleBaritone/"
 
+_template = "people_single"
 +++
 Acadian baritone Dion Mazerolle received critical acclaim for his "fine, resonant voice, an iron fist in a velvet glove" as Lord Cecil in Britten's _Gloriana_ with Toronto's Voicebox: Opera in concert.
 

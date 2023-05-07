@@ -8,6 +8,7 @@ related_companies = ["scene/companies/teatro-alla-scala.md","scene/companies/wie
 slug = "markus-marquardt"
 title = "Markus Marquardt"
 website = "http://www.markusmarquardt.com/index.htm"
+_template = "people_single"
 +++
 
 German bass-baritone Markus Marquardt has established himself in recent years as a sought-after interpreter of both the Italian repertoire and the German Helden-Fach.

@@ -7,6 +7,7 @@ publishDate = "2015-04-12T10:51:00-04:00"
 related_companies = ["scene/companies/opera-australia.md"]
 slug = "lyndon-terracini"
 title = "Lyndon Terracini"
+_template = "people_single"
 +++
 
 <p>

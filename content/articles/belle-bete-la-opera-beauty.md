@@ -21,7 +21,7 @@ Movies and music have been inextricably linked since the advent of film. Silent 
 
 Cocteau's beautiful black and white film is the perfect candidate for such an unusual evening's entertainment. No, this sure isn't a Walt Disney production, but it's the same basic plot as the Disney film: after a princely and bewitched Beast holds a beauty (Belle) against her will, the two develop a surprising romance. Without Disney, a happy ending this time doesn't seem likely. (Again, some irony here - Philip Glass wrote an opera about the death of Walt Disney.) 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509814570625/2017-11-04---la-belle-et-la-bete-Josette-Day-and-Jean-Marais-in-Jean-Cocteaus-1946-film.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509814570625/2017-11-04---la-belle-et-la-bete-Josette-Day-and-Jean-Marais-in-Jean-Cocteaus-1946-film.jpg.jpg)
 <figcaption>Josette Day and Jean Marais in Jean Cocteau's 1946 film, *La Belle et la Bête*.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Over all this we hear the seven members of the Philip Glass Ensemble playing key
 
 Four singers (mezzo-soprano Hai-Ting Chinn, soprano Marie Mascari, baritone Gregory Purnhagen, and baritone Peter Stewart) played all the roles standing at microphones, and honestly we forgot they were there for much of the time - a high compliment, as they were successful in convincing us that their stellar voices were emanating from the characters on the screen. And performances by the actors in the film are powerful even without the original soundtrack. In fact, we are rooting for the protagonists thanks in large part to the pathos of the Beast and the empathy of Belle, (played by Jean Marais and Josette Day, respectively). The couple is completely convincing even without their voices; their faces and especially their eyes tell the whole story.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509814604737/2017-11-04---philip-glass_credit_steve-pyke.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509814604737/2017-11-04---philip-glass_credit_steve-pyke.jpg.jpg)
 <figcaption>Philip Glass. Photo: Steve Pyke.</figcaption>
 </figure>
  

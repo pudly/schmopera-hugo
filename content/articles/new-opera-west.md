@@ -25,7 +25,9 @@ youtube_url = ""
 
 New Opera West is unique in that it seeks to promote the growth and professional development for new, up-and-coming composers, librettists and artists in the creation of new opera.  We are creating performances that will be showcasing multiple composers within one show, presenting many diverse works around timely and relevant subject matter, that we hope, will work towards attracting new opera audiences and the general sustainability of opera in the 21st century.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573155046/media/2019/11/sqNewOperaWest_il8whv.jpg){{% /md %}}  
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573155046/media/2019/11/sqNewOperaWest_il8whv.jpg)  
 <figcaption>The team for New Opera West's Pop-Up Opera at Mimoda, November 16-17, 2019. Image courtesy of New Opera West.</figcaption>
 
 </figure>
@@ -56,5 +58,7 @@ We were also interested in eclectic musical styles. Two of them have styles clos
 
 From an opera about a moose from the future who has come back to warn a couple about their impending catastrophe caused by their lack of care for the earth they live on, or an opera about Thomas Edison, a genius stifled by loneliness, we want these operas to captivate our audiences and create a more richer and meaningful experience for all involved.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573415631/media/2019/11/BannerNOW_pmetqz.jpg){{% /md %}}  
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573415631/media/2019/11/BannerNOW_pmetqz.jpg)  
 </figure>

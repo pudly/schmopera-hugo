@@ -28,7 +28,7 @@ Although we were very excited to find an original werewolf opera written by a wo
 
 We are proud of the fact that almost all of the main characters in this story identify as queer or gay - at least by the end of the opera. Some of them struggle with discovering and revealing their closeted identities more than others. One character is casually open about being queer, which is even more rare to see on the stage. I love when queer characters are as unabashedly comfortable in their identities, as I, a queer gender fluid person, attempt to be. It takes quite a bit of bravery and fierceness of will to live authentically. Four out of our five main characters make huge strides in that regard through the course of the show. It is a beautiful thing to watch them grow into their true forms.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507997908628/2017-10-14---The-Werewolf.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507997908628/2017-10-14---The-Werewolf.jpg.jpg)
 </figure>
 
 ## What do you think the opera industry gains from from a new focus on female, femme, and non-binary composers?

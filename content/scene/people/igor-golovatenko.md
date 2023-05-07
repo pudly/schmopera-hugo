@@ -9,6 +9,7 @@ social_media = []
 title = "Igor Golovatenko"
 website = ""
 
+_template = "people_single"
 +++
 Igor Golovatenko has quickly made a name for himself on both the concert platform and operatic stage since his debut in the 2006 Russian premiere of Delius’ **_Eine Messe des Lebens_** with the Russian National Philarmonic Orchestra, conducted by Vladimir Spivakov. Having studied at the Moscow Academy of the Choral Arts with Professor Dmitry Vdovin, Golovatenko was awarded First Prize at the St Petersburg Three Centuries of Classical Romance Competition and Second Prize at Dresden’s International Competizione dell’Opera.
 

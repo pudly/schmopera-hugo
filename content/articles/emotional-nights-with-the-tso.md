@@ -19,7 +19,9 @@ It was a very emotional night at Roy Thomson Hall. Audience were greeted at the 
 
 The program featured bagpipes and military trumpets along with readings interspersed with pieces by Ralph Vaughan Williams in the first half. The second half introduced another of the TSO's 40 commissions to celebrate #CANADA150. The evening rounded up with *AFGHANISTAN: Requiem for a Generation* by Jeffrey Ryan and Suzanne Steele, featuring an incredible lineup of Canadian supertalents. [Measha Brueggergosman](/scene/people/measha-brueggergosman/), [Allyson McHardy](/scene/people/allyson-mchardy/), [Colin Ainsworth](/scene/people/colin-ainsworth/), [Brett Polegato](/scene/people/brett-polegato/), The Toronto Mendelssohn Choir, and the Toronto Children's Chorus joined their mighty forces to present this important and relevant piece. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510427509234/2017-11-11---Afghanistan-Requiem-for-A-Generation_all--Jag-Gundu.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510427509234/2017-11-11---Afghanistan-Requiem-for-A-Generation_all--Jag-Gundu.jpg.jpg)
 <figcaption>*Afghanistan: Requiem for a Generation*. Photo by Jag Gundu.</figcaption>
 </figure>
 
@@ -29,7 +31,9 @@ Then the "Last Post" and "Reveille" bookended *Piper's Lament* (*Flowers of the 
 
 Wrapping up the first half was a reading of "For the Fallen" and then Vaughan Williams beautiful piece for violin and orchestra, *The Lark Ascending*. TSO violinist Jonathan Crow played the solo violin from the first level balcony seats adding to the birdlike quality of the violin part. Crow played with deft accuracy and emotional depth. The harmonies have an inherently hopeful quality, and in a lovely bit of semi-staging, the last few repetitions of the lark's song were played as Crow exited the hall, and the piece ended with the echo of his violin throughout the outer corridors.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510427519230/2017-11-11---Tania-Miller_eyes-closed-Jag-Gundu.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510427519230/2017-11-11---Tania-Miller_eyes-closed-Jag-Gundu.jpg.jpg)
 <figcaption>Conductor Tania Miller. Photo by Jag Gundu.</figcaption>
 </figure>
 
@@ -37,7 +41,9 @@ After intermission, a lively premiere performance of Julien Bilodeau's *La fanta
 
 The soloists were a who's-who of Canadian talent. Soprano Measha Brueggergosman sang with a big, bright, soulful sound. Her melismas flowed with ease and grace throughout Roy Thomson Hall bringing every ounce of distress and beauty to the text. Her connection with the audience and the orchestra was organic and palpable. Her duet work with mezzo-soprano Allyson McHardy was clean, precise and brought an array of vocal colours you don't hear often around Toronto. The vocal harmonies between the two voices were hollow and haunting. McHardy brought her trademark technical accuracy and vibrant, active vocal production. I really enjoyed hearing McHardy singing a contemporary score, since my experience with her singing deals mostly in Handel. Tenor Colin Ainsworth sang with a strong, flexible tone that danced with the orchestra. His communication of the desperation in some of his texts was breathtaking. Rounding out the soloists was baritone Brett Polegato. His bright, steely tone sailed over the rather large orchestrations that supported most of his singing. I was quite fond of his storytelling. During one movement, the men switch to spoken texts recounting the action ofsoldiers on the ground. Polegato and Ainsworth deftly carried out some seriously tricky duet music as well and their voices marry perfectly together. The two choirs sang with clarity and conviction and produced some of the best choral diction I've heard in a while.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510427543567/2017-11-11---Brueggergosman%2C-McHardy%2C-Miller%2C-Ainsworth%2C-Polegato-Jag-Gundu.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510427543567/2017-11-11---Brueggergosman%2C-McHardy%2C-Miller%2C-Ainsworth%2C-Polegato-Jag-Gundu.jpg.jpg)
 <figcaption>(l-r): Measha Bruggergosman, Allyson McHardy, Tania Miller, Colin Ainsworth, and Brett Polegato. Photo by Jag Gundu.</figcaption>
 </figure>
 

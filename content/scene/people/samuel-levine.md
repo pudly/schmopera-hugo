@@ -12,6 +12,7 @@ website = "http://samuellevinetenor.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SLevineSinger"
+_template = "people_single"
 +++
 
 Sam Levine has emerged as an elegant, robust tenor on the cusp of a major career. He is a second-year candidate for the Artist Diploma in Opera Studies at the Juilliard School, where he appears this season as Váňa Kudrjaš in *Káťa Kabanová*; outside engagements for 2016-17 include Carmen with Bay Chamber Concerts and Boston Lyric Opera, his debut at National Sawdust as Lurcanio in R.B. Schlather’s workshop production of *Ariodante*, the roles of Joe and Marcus in the world premiere of *Three Way* at Nashville Opera and the Brooklyn Academy of Music. Highlights of last season included performances as Le Mari in *Les Mamelles de Tiresias* (where his performance was called “wonderfully appealing” by the New York Times), in recital with Steven Blier under the auspices of NYFOS@Juilliard and the 5 Boroughs Music Festival, and as First Armed Guard in *Die Zauberflöte*, all at Juilliard, Testo  in Monteverdi’s *Il Combattimento di Tancredi e Clorinda* with Cantata Profana, a debut with Bard SummerScape in two roles in James Darrah’s production of Mascagni’s *Iris*, and his role debut as Lenski in *Eugene Onegin* with Eugene Opera, which won critical praise for “mastery of character and seamless legato.” (The Register-Guard)

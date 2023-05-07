@@ -19,7 +19,7 @@ The latest in tenor [Lawrence Wiliford](/scene/people/lawrence-wiliford/)'s exte
 
 *O Gladsome Light* groups together some of Canada's best in song and chamber music. Wiliford is joined by pianist Stephen Philcox, frequent recital partner of the tenor's and co-founder of the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/), violinist Marie Bérard, and violist Keith Hamm, both members of the [Canadian Opera Company](/scene/companies/canadian-opera-company/) Orchestra. They play in varied combinations, and throughout the album the four musicians create a sound that is timeless and almost pan-stylistic, a beautiful and eerie effect.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518318413791/Group2_pocketfix.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518318413791/Group2_pocketfix.jpg.jpg)
 <figcaption>(l-r) Stephen Philcox, Marie Bérard, Lawrence Wiliford, and Keith Hamm. Photo: Leigh Miller.</figcaption>
 </figure>
 

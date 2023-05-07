@@ -13,6 +13,7 @@ website = "http://www.matthiasgoerne.com/en/welcome/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/matthiasgoerne"
+_template = "people_single"
 +++
 
 Matthias Goerne is one of the most internationally sought-after vocalists and a frequent guest at renowned festivals and concert halls. He has collaborated with leading orchestras all over the world. Conductors of the first rank as well as eminent pianists are among his musical partners.

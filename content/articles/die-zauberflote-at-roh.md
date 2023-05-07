@@ -18,7 +18,9 @@ Fifteen years after its first performance, the David McVicar production of [*Die
 
 A consequence of Jones' fast tempi came almost immediately with the entrance of the three ladies. As the music whizzed by, the trio struggled to keep up, often not having enough time to sound pitches and actually sing. Their delivery seemed to be heavy with "sprech" but not enough "sing," which is a shame, as the three ladies have some beautiful musical moments that went unrealized.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505312899327/2017-09-12---Die-Zauberflote-09-09-17-ROH-1326-MAURO-PETER-AS-TAMINO-ROH.-PHOTO-TRISTRAM-KENTON.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505312899327/2017-09-12---Die-Zauberflote-09-09-17-ROH-1326-MAURO-PETER-AS-TAMINO-ROH.-PHOTO-TRISTRAM-KENTON.jpg.jpg)
 <figcation>Mauro Peter as Tamino in *Die Zauberflöte*, ROH, 2017. Photo: Tristam Kenton.</figcaption>
 </figure>
 
@@ -30,25 +32,33 @@ Bass [Mika Kares](/scene/people/mika-kares/) was clearly at odds with the tempi 
 
 There is certainly no "right" tempo for the numbers in this opera, to assign a definite number of beats per minute to any piece of music is banal, and I do not think that just because every conductor takes a particular tempo for a certain aria it should always be performed that way. Because of this, it was refreshing to hear Julia Jones' take on this frequently staged opera. I do, however, have an issue with the text being incomprehensible, as was the case in the music of the three ladies.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505312935103/2017-09-12---Die-Zauberflote-09-09-17-ROH-137-MAURO-PETER-AS-TAMINO-ROH.-PHOTO-TRISTRAM-KENTON.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505312935103/2017-09-12---Die-Zauberflote-09-09-17-ROH-137-MAURO-PETER-AS-TAMINO-ROH.-PHOTO-TRISTRAM-KENTON.jpg.jpg)
 <figcation>Mauro Peter as Tamino in *Die Zauberflöte*, ROH, 2017. Photo: Tristam Kenton.</figcaption>
 </figure>
 
 [Roderick Williams](/scene/people/roderick-williams/) had absolutely no trouble in delivering any of his text. Every word was filled with charisma and the energy of his carefree and genuine Papageno, and the audience became massively involved during his suicide aria - I heard someone from the balcony shout "Don't do it!" Swiss tenor [Mauro Peter](/scene/people/mauro-peter/)'s impressive voice suited the role of Tamino extremely well, while giving one of the campier Tamino's I have seen performed. Camping it up a little seemed to be a good choice for Peter, and he came off as a fairy-tale tenor playing the part of the hero. [Sabine Devieilhe](/scene/people/sabine-devieilhe/) made quite an elegant Covent Garden debut as the Queen of the Night. Her voice was beautiful yet wicked, and her glorious coloratura passages were done as an aside from the rest of the characters, as a maniacal laughter to herself.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505312945400/2017-09-12---Die-Zauberflote-09-09-17-ROH-519-SABINE-DEVIEILHE-AS-QUEEN-OF-THE-NIGHT-ROH.-PHOTO-TRISTRAM-KENTON.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505312945400/2017-09-12---Die-Zauberflote-09-09-17-ROH-519-SABINE-DEVIEILHE-AS-QUEEN-OF-THE-NIGHT-ROH.-PHOTO-TRISTRAM-KENTON.jpg.jpg)
 <figcation>Sabine Devieilhe as the Queen of the Night in *Die Zauberflöte*, ROH, 2017. Photo: Tristam Kenton.</figcaption>
 </figure>
 
 Speaking of maniacal, the Monostatos of [Peter Bronder](/scene/people/peter-bronder/) brought the house down. This creepy and twisted creature slithered about the stage, more screaming his lines than singing, which made the actions of him and his evil band of goons thrilling to watch. Bronder is the kind of performer who we could glean meaning from only seeing his eyes peering through a black curtain - every movement is filled with intention.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505312952500/2017-09-12---Die-Zauberflote-09-09-17-ROH-2034-PETER-BRONDER-AS-MONOSTATOS-ROH.-PHOTO-TRISTRAM-KENTON.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505312952500/2017-09-12---Die-Zauberflote-09-09-17-ROH-2034-PETER-BRONDER-AS-MONOSTATOS-ROH.-PHOTO-TRISTRAM-KENTON.jpg.jpg)
 <figcation>Peter Bronder as Monostatos in *Die Zauberflöte*, ROH, 2017. Photo: Tristam Kenton.</figcaption>
 </figure>
 
 The misogynistic elements of Schikaneder's libretto are still there, and it was heartening to hear the London audience snigger in disbelief as text about the uselessness of women appeared in the surtitles. Siobhan Stagg seemed to make a clear choice in her performance to not accept Sarastro's words of needing a man to guide her to her destiny, and indeed gave a strong Pamina throughout the evening. The sound of her voice was rich and moved with ease, giving an extremely heartfelt performance of Pamina's suicide aria.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505312965941/2017-09-12---Die-Zauberflote-09-09-17-ROH-3663-DIE-ZAUBERFLOTE-PRODUCTION-IMAGE-ROH.-PHOTO-TRISTRAM-KENTON.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505312965941/2017-09-12---Die-Zauberflote-09-09-17-ROH-3663-DIE-ZAUBERFLOTE-PRODUCTION-IMAGE-ROH.-PHOTO-TRISTRAM-KENTON.jpg.jpg)
 <figcation>Production image from *Die Zauberflöte*, ROH, 2017. Photo: Tristam Kenton.</figcaption>
 </figure>
 

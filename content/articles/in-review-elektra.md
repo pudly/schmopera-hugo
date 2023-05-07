@@ -20,7 +20,9 @@ It was a thrill to watch [Yannick Nézet-Séguin](/scene/people/yannick-nezet-se
 
 [Alain Gauthier](http://www.operademontreal.com/fr/mediatheque#!/alain-gauthier-canada)'s production was stark and sterile, given life by an enormous statue of a man, a stunning design by sculptor Victor Ochoa. Gauthier's Elektra is an installation artist of sorts, welding this statue in the likeness of her murdered father, Agamemnon; she captures the late king's last moments, as he crouches, almost cowers against the axe coming to hack him up.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448469490731/2015-11-25---Lise-Lindstrom--Yves-Renaud.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448469490731/2015-11-25---Lise-Lindstrom--Yves-Renaud.jpg.jpg)
 <figcaption>Lise Lindstrom as Elektra. Photo by Yves Renaud.</figcaption>
 </figure>
 
@@ -30,7 +32,9 @@ As one of my favourite ladies of Strauss operas, mezzo-soprano [Agnes Zwierko](h
 
 Other standout performances for me included tenor [John MacMaster](/scene/people/john-macmaster/) as Aegisth. He had that perfect sound for those Strauss tenor roles, the bad guys who don't know they're bad guys. He had a great command of the German text, and allowed it to work with the music. Bass-baritone [Alan Held](/scene/people/alan-held/) was extraordinary as Elektra's believed-dead brother, Orest. I couldn't get enough of his rich sound, and I loved what he did with the music between his lines. *Elektra* also calls for a large cast of small roles, and tenor [Isaiah Bell](/scene/people/isaiah-bell/) (A Young Servant) was a notably strong presence for his short time onstage. His voice rang impressively in Salle Wilfrid-Pelletier, and he was a sonic breath of fresh air.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448469525612/2015-11-25---Statue-d'Agamemnon---%C2%A9-Yves-Renaud.jpg.jpg)<figcaption>The statue of Agamemnon, by sculptor Victor Ochoa. Photo by Yves Renaud.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448469525612/2015-11-25---Statue-d'Agamemnon---%C2%A9-Yves-Renaud.jpg.jpg)<figcaption>The statue of Agamemnon, by sculptor Victor Ochoa. Photo by Yves Renaud.</figcaption>
 </figure>
 
 The action and the music seemed to be telling two different stories in this *Elektra*. There are a lot of directorial hints in Strauss' music, telling characters when and how to move, and many of these hints weren't taken by Gauthier. Elektra's argument with her sister includes a lot of lines like "Let me go!" and "I'll never let you go!" The scene felt drab, because Elektra and her sister were mostly not touching. The singular set wasn't in itself problematic, but the music calls for much more action than we saw in this production. Luckily, Nézet-Séguin filled in plenty of those duller gaps with blazing energy and intention.

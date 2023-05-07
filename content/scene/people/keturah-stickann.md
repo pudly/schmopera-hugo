@@ -15,6 +15,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/keturahstickann/"
 
+_template = "people_single"
 +++
 Keturah Stickann’s work has been seen in countless opera houses across the United States and Canada, as well as in Chile, Japan, France, Germany, Hungary, and Australia. A champion of new American opera, she has worked extensively with director and librettist, Leonard Foglia, helping to bring new operas to the stage by Ricky Ian Gordon, Jennifer Higdon, Jose “Pepe” Martinez, and Jake Heggie & Gene Scheer. Her work on the premieres of _Moby-Dick_ (2010), and _It’s A Wonderful Life_ (2016) prompted Jake Heggie to ask her to helm the premiere of his newest opera, _If I Were You_ (2019), at the Merola Opera Program. 
 

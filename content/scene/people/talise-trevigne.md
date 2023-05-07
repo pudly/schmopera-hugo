@@ -11,6 +11,7 @@ title = "Talise Trevigne"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/trevignestimbre"
+_template = "people_single"
 +++
 
 American soprano Talise Trevigne begins the 2015-16 season as Pamina (*The Magic Flute*) at Hawaii Opera Theatre, before making her role debut as Cio-Cio-San (*Madama Butterfly*) at North Carolina Opera. She continues to Birmingham Opera to appear in Ricky Ian Gordon’s *Orpheus and Euridice*.  She returns to Fort Worth Opera to create the role of Clara (*JFK*) in David T. Little and Royce Vavrek’s world premiere; later the artist joins Albany Symphony to sing Kernis’ *Love Songs* and during the summer, she sings the title role in *Iris* at Bard Music Festival.

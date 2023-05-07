@@ -12,6 +12,7 @@ title = "Peter Mattei"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Peter_Mattei?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+_template = "people_single"
 +++
 
 The Swedish baritone Peter Mattei has established himself as one of the most sought after singers of his generation and has worked with conductors such as Sir Georg Solti, Claudio Abbado, Daniel Barenboim, Riccardo Muti, Sir Colin Davis, Riccardo Chailly, James Levine, Antonio Pappano, Zubin Mehta, Herbert Blomstedt, Esa-Pekka Salonen, Sir John Eliot Gardiner, Gustavo Dudamel, Jeffrey Tate, Sir Andrew Davis, Daniel Harding and others.

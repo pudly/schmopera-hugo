@@ -18,6 +18,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/louisealdersop"
 
+_template = "people_single"
 +++
 Louise Alder studied at the Royal College of Music’s International Opera School where she was the inaugural Kiri Te Kanawa Scholar.  She was awarded 2nd Prize in the 2013 Kathleen Ferrier Competition and is the recipient of Glyndebourne's 2014 John Christie Award and the 2015 inaugural Young British Soloists’ Competition.
 

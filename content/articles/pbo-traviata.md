@@ -25,7 +25,9 @@ To deem the plot feminist would be generous, but it's worth noting that Verdi co
 
 [Palm Beach Opera](/scene/companies/palm-beach-opera/)'s _La traviata_, which closed its three-show run at the Kravis Centre for the Performing Arts on January 27, counts among more than 100 ill-fated Violettas to meet their untimely end on U.S. and Canadian stages this season alone. Luckily, exceptional musicianship and a flair for spectacle made PBO's rendition stand out from the pack – though shaped by a bizarre directorial vision out of touch with the current moment and in conflict with the opera's history.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548789980/media/2019/01/7P9A9277.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548789980/media/2019/01/7P9A9277.jpg)
 
 <figcaption>Kristina Mkhitaryan (Violetta) in La traviata, Palm Beach Opera, 2019. Photo: Bruce Bennett.</figcaption>
 
@@ -39,7 +41,9 @@ As Alfredo, tenor Alexey Tatarintsev sang with a clear tone and compelling energ
 
 Among the smaller roles, PBO's Benenson Young Artist studio made a strong showing. Mezzo-soprano [Natalie Rose Havens](/scene/people/natalie-rose-havens/) sang Flora with bubbly charm, and soprano [Emily Blair](/scene/people/emily-blair/)'s Annina stood out with a sweet tone. Baritone [Ben Schaefer](/scene/people/ben-schaefer/) as the Baron Douphol, tenor Brian Wallin as Gastone, and bass-baritone Ted Allen Pickell as the Marquis D'Obigny all sang strongly and looked the stately part. Backed by fun and fiery orchestral work under conductor Antonello Allemandi, the PBO Chorus added gusto to the party scenes, dressed in costume designer Desmond Heeley's stunning period wear.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548790144/media/2019/01/7P9A9464.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548790144/media/2019/01/7P9A9464.jpg)
 
 <figcaption>Alexey Tatarintsev (Alfredo) in La traviata, Palm Beach Opera, 2019. Photo: Bruce Bennett.</figcaption>
 
@@ -51,7 +55,9 @@ Heeley doubled as scenic and prop designer as well, imagining a palatial salon i
 
 In his Palm Beach Opera debut, director Fabio Ceresa drew inspiration for this velvet-drenched vision from a childhood memory, recalling in his program note how he once caught a glimpse of a prostitute on the cover of a magazine – "gracefully reclining on a pillow of red velvet, her hair hanging loose, her hands covering her breasts \[...\] stark naked" – and instantly fell in love. "\[The\] mouth with its delightful little pout, the leg artfully positioned to cover what the eye was not supposed to see – something struck a chord in me, deeply," Ceresa writes. "It was as if the eyes of the woman communicated a frightened embarrassment, a gasp of modesty \[...\] One day I would certainly meet her. When I grew up I would certainly marry her. That afternoon, I fell in love for the first time." (All of this as a _child_, mind you.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548790181/media/2019/01/7P9A9652.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548790181/media/2019/01/7P9A9652.jpg)
 
 <figcaption>Massimo Cavalletti (Germont) and Kristina Mkhitaryan (Violetta) in La traviata, Palm Beach Opera, 2019. Photo: Bruce Bennett.</figcaption>
 

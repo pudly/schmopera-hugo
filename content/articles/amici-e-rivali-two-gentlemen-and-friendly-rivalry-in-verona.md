@@ -21,7 +21,9 @@ Rossini, two terrific tenors and a first rate musical ensemble—what's not to l
 
 But we don’t get that in [_Amici e Rivali_](https://www.lawrencebrownlee.com/albums/amici-e-rivali), an excellent release from Erato featuring Lawrence Brownlee and Michael Spyres. Instead we get arias, duets and trios (the tenors are joined by mezzo-soprano Tara Erraught and fellow tenor Xabier Anduaga) that are thoughtfully interpreted and artfully sequenced to mimic the construction of a Rossini opera. Its most winning feature, besides the competing tenors who are in full bloom here, is that it flows.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1605117511/media/2020/11/IMG_3134_kjqpdz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1605117511/media/2020/11/IMG_3134_kjqpdz.jpg)
 
 <figcaption>Michael Spyres and Lawrence Brownlee recording Amici e Rivali at Teatro Ristori with I Virtuosi Italiani. Photo courtesy of Lawrence Brownlee.</figcaption>
 
@@ -35,7 +37,9 @@ Brownlee, replete with flourishes amidst his golden sound, holds court with Spyr
 
 In the booklet these friendly rivals expound at length on each other's vocal styles. They sound like Roger Federer and Rafael Nadal gamely talking about how keen competition improves their game. It was common in Rossini's day for his tenors to exchange parts despite the difference in vocal range. David and Nozzari did this with some frequency. The practice is smartly avoided on _Amici e Rivali_, though it could be a fascinating indulgence in concert, perhaps for an encore or two. Now there's a rivalry.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1605210915/media/2020/11/BrownleeSpyresShervinLainez5_ukux5z.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1605210915/media/2020/11/BrownleeSpyresShervinLainez5_ukux5z.jpg)
 
 <figcaption>Michael Spyres (left) and Lawrence Brownlee. Photo: Shervin Lainez.</figcaption>  
 </figure>
@@ -50,7 +54,9 @@ After such an engaging comic opening the recording takes a dramatic turn with si
 
 _Ricciardo e Zoraide_ follows _Barbiere_, receiving four tracks of what may be the most engrossing moments in the opera, at least for the male singers. The bittersweet “Donala a questo core," between Agorante, King of Nubia and Ricciardo, a paladin Knight, Spyres and Brownlee respectively, are two parts of a love triangle. Their duet unfolds with soft harmonies and a subtle show of Rossini's genius for creating distinct characters with similar vocal lines. The orchestra is subdued as it depicts the pathos underlying the conciliatory tone of the work.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1605117874/media/2020/11/ErraughtXabier_atfkqi.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1605117874/media/2020/11/ErraughtXabier_atfkqi.jpg)
 
 <figcaption>Mezzo-soprano Tara Erraught and tenor Xabier Anduaga.</figcaption>
 
@@ -64,7 +70,9 @@ The multiple tracks for _La donna del lago_ and _Otello_ both provide virtually 
 
 _Armida_ is an intense story driven by heroism and the whims of the sorceress Armida, disguised as the Queen of Damascus. Ubaldo (Brownlee) and Carlo (Anduaga) are dealing with the wavering commitment of fellow warrior Rinaldo (Spyres), a knight of the Crusade, who is smitten with Armida. Furious duets and trios ensue as Rinaldo is persuaded to abandon Armida and remain faithful to the cause. Spyres definitively shows that his darker register can inhabit the same heights as Brownlee and Anduaga admirably enter the competitive tenor fray in this trio.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1605210683/media/2020/11/Lawrence-Brownlee-Michael-Spyres-Amici-e-Rivali_jqjvby.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1605210683/media/2020/11/Lawrence-Brownlee-Michael-Spyres-Amici-e-Rivali_jqjvby.jpg)
 
 <figcaption></figcaption>
 

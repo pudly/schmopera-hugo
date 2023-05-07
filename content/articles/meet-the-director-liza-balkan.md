@@ -28,7 +28,9 @@ There indeed is a big puzzle that opera presents to all directors, and that's th
 
 How does Balkan find the balance between being inspired by the music, and superimposing upon it? "You want to honour that story, and at the same time you want to keep the dramatic through line going forward." Tom Diamond has mused before about how Mozart is one of the greatest stage directors who ever lived, and that his music can tell him everything he needs to know. Balkan echoes the same sentiment: "If you are willing to just shut up and really listen, the music tells you where to go."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446570427898/2015-11-02---Bike-Opera-Balkan-.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446570427898/2015-11-02---Bike-Opera-Balkan-.jpg.jpg)
 <figcaption>Geoffrey Sirett in The Bicycle Opera Project's *shadow box*, directed by Liza Balkan, 2015. Photo: Terry Lim.</figcaption>
 </figure>
 
@@ -44,7 +46,9 @@ More recently Balkan worked with The Bicycle Opera Project ("They’re insanely 
 
 Bike Opera's mandate is in line with Balkan's philosophy on the funtion of live theatre. "Their desire is to make opera accessible, and to tell stories, and to find eco-friendly ways of doing it as well. So, honouring the art, honouring the planet, honouring themselves, honouring the writer and composer."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446570304738/2015-11-02---TapestryBriefs2012---Harold-Henz-pc.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446570304738/2015-11-02---TapestryBriefs2012---Harold-Henz-pc.jpg.jpg)
 <figcaption>Andrea Ludwig in Tapestry Opera's *Opera Briefs*, 2012, written by Liza Balkan and directed by Michael Mori. Photo by Harald Benz.</figcaption>
 </figure>
 
@@ -56,7 +60,9 @@ Balkan is a librettist, too, and she has great respect composers, and for "rigou
 
 With the "joy and honour" comes that same vulnerability, agrees Balkan, when a librettist hears her words sung by others. "Seeing it out there, hearing it out there, sure, hearing your words spoken by the people, it’s both thrilling and horrifying at times."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446732265122/DSC_2972.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446732265122/DSC_2972.jpg.jpg)
 <figcaption>Wallis Giunta in the Canadian premiere of Louis Andriessen's *Anais Nin*, 21C Festival, Koerner Hall. Photo: Lisa Sakulensky.</figcaption>
 </figure>
 

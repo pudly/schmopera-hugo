@@ -25,6 +25,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/HaymarketOpera"
 
+_template = "company_single"
 +++
 Haymarket Opera Company enriches the musical community of Chicago and the Midwest with performances of 17th- and 18th-century music. HOC is the most active early opera company in the United States, using period instruments and historically-informed vocal practices and staging conventions. We seek to engage audiences of all ages with passionate performances of both familiar and neglected works. 
 

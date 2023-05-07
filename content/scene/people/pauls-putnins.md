@@ -7,6 +7,7 @@ publishDate = "2017-11-14T17:45:00-05:00"
 related_companies = ["scene/companies/shadwell-opera.md"]
 slug = "pauls-putnins"
 title = "Pauls Putnins"
+_template = "people_single"
 +++
 
 Latvian born Pauls Putnins was a member of Riga Dom Cathedral Boys Choir. After studying conducting in Riga and Jerusalem, he subsequently studied singing at the Trinity College of Music, London. Appearances in operas include *La Bohème* for ENO (DVD from Warner Classics) and Opéra de Nancy, *Lucia di Lammermoor* for Opera Colorado, Denver and the Russian National Orchestra in Moscow, *Carmen* for New Zealand Opera, *Don Giovanni* for Latvian National Opera, *Boulevard Solitude* for Teatro Carlo Felice, Genoa and for Gran Teatre del Liceu, Barcelona (DVD from EuroArts), *The Rape of Lucretia* in St Petersburg and Riga, *Tannhäuser* for the Gran Teatre del Liceu, Barcelona, *I Capuleti e i Montecchi* with Moscow Philharmonic. 

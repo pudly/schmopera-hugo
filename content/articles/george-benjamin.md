@@ -31,7 +31,9 @@ Though I would be very interested in seeing a staged production of this opera, I
 
 The singing was extremely accomplished from both soprano Amu Komsi and contralto Helena Rasker. Komsi, for whom this role was written, had a clear and astonishingly versatile voice. Pushed to the very limits of her range, she gave a performance that was full of charisma and surprise. I did feel however, that she may have pushed the envelope a little too far and could have kept the performance a little more contained; could have sung more as opposed to demonstrating. There was a marked difference in the way Rasker handled the performance though both performers brought their own unique qualities to the stage. In the role of the Minister Rasker was grounded and stoic with a sound that was powerful yet controlled.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551979917/media/2019/03/GeorgeBenjaminKaiBienert.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551979917/media/2019/03/GeorgeBenjaminKaiBienert.jpg)
 
 <figcaption>George Benjamin. Photo: Kai Bienert.</figcaption>
 

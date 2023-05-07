@@ -21,7 +21,9 @@ title = "New programs: Opera at Tanglewood"
 
 **Varga**: The main goal is to give these promising artists a taste of what a professional career in opera is like. They are held to very high expectations; each of them is assigned a full role and they must arrive with it 100% memorized. They are expected to be well prepared and eager to learn, show that they are team players, and act in a professional manner throughout the program. Since the hours can be grueling, they are also expected to take care to use their voices wisely, hydrate, get adequate sleep and resist the urge to party. In return, they gain invaluable experience and grow as singing actors with the help of our accomplished faculty and guest artists.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467077350304/2016-06-27---Dana-Lynne-Varga.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467077350304/2016-06-27---Dana-Lynne-Varga.jpg.jpg)
 <figcaption>Dana Lynne Varga, Program Director BU Tanglewood Institute Young Artists Opera Intensive.</figcaption>
 </figure>
 
@@ -29,7 +31,9 @@ title = "New programs: Opera at Tanglewood"
 
 **Sarah Meyers**: When I first spoke to Dana Varga about doing *Die Fledermaus* with the Young Artist Opera Intensive, I was excited by the thought of young singers doing this opera in English. For artists who are truly at the beginning of their career, it can be enlightening and empowering to do an opera in their own language. It allows them to focus on some of the most basic skills - how to connect with the text, how to be present and in the moment, how to listen to their colleagues on-stage - without having to  constantly translate in their heads from a foreign language. I decided I wanted to take it one step further -- to give them the experience of an opera not only in their own language, but actually in their own world. I updated the opera to the here and now, allowing each cast member to work from a familiar frame of reference. This required creating an entirely new translation/adaptation of the original opera. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467077423430/2016-06-27---Sarah-Meyers.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467077423430/2016-06-27---Sarah-Meyers.jpg.jpg)
 <figcaption>Sarah Meyers, Stage Director, BU Tanglewood Institute Young Artists Opera Intensive.</figcaption>
 </figure>
 

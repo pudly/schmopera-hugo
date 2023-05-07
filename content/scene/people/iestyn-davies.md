@@ -21,6 +21,7 @@ url = "https://twitter.com/iestyn_davies"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCV4ajzjU8aQwCdEdWUcP-gA"
+_template = "people_single"
 +++
 
 After graduating in Archaeology and Anthropology from St John’s College, Cambridge Iestyn Davies studied at the Royal Academy of Music, London.

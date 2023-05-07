@@ -21,7 +21,9 @@ I sing because I can't imagine doing anything else. Singing is such a deeply per
 
 I sing professionally because I have had the incredible fortune of being asked to! It is always such a surprise to me to do what I do and love it so much and have such incredible experiences with it and then to get a pay cheque at the end. It always kind of blows my mind that I have the opportunity to do this for a living. The other part which makes it so unbelievable is my incredible colleagues who are so loving and supportive; like no other business I know. The arts are an amazing thing! 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466710766188/2016-06-23---Mather-AtGMessiah---Darryl-Block.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466710766188/2016-06-23---Mather-AtGMessiah---Darryl-Block.jpg.jpg)
 <figcaption>Mather in Against the Grain Theatre's *AtG's Messiah*, 2015. Photo by Darry Block.</figcaption>
 </figure>
 
@@ -33,7 +35,9 @@ This is a tough question, and one that I am still discovering for myself. Good s
 
 Young singers need more of a sense of play. This is something that I have a really hard time with and something that I really admire in some of my colleagues. The ability to play with technique and experiment and be 100% in the moment is hugely important to what we do. We spend so much time trying to get things just right and worrying about being watched and evaluated, and what I enjoy most about a performance is when someone has the courage to just play for a moment and let themselves not worry about the product, but the process. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465294166676/La-Belle-Helene-575-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465294166676/La-Belle-Helene-575-2.jpg.jpg)
 <figcaption>Mather in *La belle Hélène* at the Glenn Gould School. Photo: Stewart Lowe.</figcaption>
 </figure>
 

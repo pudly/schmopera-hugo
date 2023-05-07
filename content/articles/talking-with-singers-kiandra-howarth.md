@@ -28,7 +28,9 @@ Focusing primarily on vocal development and learning to wait before attempting t
 
 The nomadic lifestyle, whilst extremely exciting can often become tiring especially if you aren't able to spend time at home with family. I have been quite fortunate over the past few years to have at least one or two jobs which take me back to Australia to spend time with my family. I also like to keep busy with yoga!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528591691733/14KiandraHowarthVictoriaCadisch.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528591691733/14KiandraHowarthVictoriaCadisch.jpg.jpg)
 <figcaption>Photo: Victoria Cadisch.</figcaption>
 </figure>
 

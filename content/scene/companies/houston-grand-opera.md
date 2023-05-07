@@ -19,6 +19,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/HouGrandOpera"
 
+_template = "company_single"
 +++
 Houston Grand Opera (HGO) is one of the largest, most innovative, and most highly acclaimed opera companies in the United States. HGO was the only American finalist for Opera Company of the Year at the 2017 International Opera Awards.
 

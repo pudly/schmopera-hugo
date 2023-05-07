@@ -18,7 +18,9 @@ The action begins as an astronomer in 1920's Berlin discovers a planet that is a
 
 As Kurt Schwitters was a visual artist, this is his only known opera libretto - although we see the same dada and nihilistic themes in this text as we do in his art. Here we are faced with the end of the world, the most catastrophic event that could conceivably take place, and most of the characters seem to think little of it. There is very little urgency considering the situation, and at the end of the opera it turns out that the world is not ending, and the planet set to collide with earth just passes by.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503274409627/2017-08-21---Bethany-Horak-Hallett-Alexander-Gebhard-Henry-George-Page-and-Juliet-Wallace-in-Collision-Credit-Robert-Workman.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503274409627/2017-08-21---Bethany-Horak-Hallett-Alexander-Gebhard-Henry-George-Page-and-Juliet-Wallace-in-Collision-Credit-Robert-Workman.jpg.jpg)
 <figcaption>Bethany Horak Hallett, Alexander Gebhard, Henry George Page, and Juliet Wallace in *Collision*. Photo: Robert Workman.</figcaption>
 </figure>
 
@@ -26,7 +28,9 @@ The fact is, that when the world doesn't actually end, this show still makes an 
 
 Coenen-Rowe's music was interesting, sung by the ensemble cast and group of five instruments, with jazz motifs and sound effects that put us into Germany in the 1920's. We found the texture of the music to be consistently too heavy, without much musical breathing room - this was a bit of a surprise considering the small ensemble of musicians. Overall, the singing and playing felt academic, more on par with a conservatory-level production than a professional one. Because of all this, the text was very difficult to understand, and we felt like we missed vital information about the plot and the character’s changing relationships to one another. In situations like this, we wish we could blame the acoustic for this problem, but the singers were at times inches away from our seats.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503274443324/2017-08-21---Olivia-Sjoeberg-Bethany-Horak-Hallett-Alexander-Gebhard-and-Henry-George-Page-in-Collision-Credit-Robert-Workman.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503274443324/2017-08-21---Olivia-Sjoeberg-Bethany-Horak-Hallett-Alexander-Gebhard-and-Henry-George-Page-in-Collision-Credit-Robert-Workman.jpg.jpg)
 <figcaption>Olivia Sjöberg, Bethany Horak Hallett, Alexader Gebhard, and Henry George Page in *Collision*. Photo: Robert Workman.</figcaption>
 </figure>
 

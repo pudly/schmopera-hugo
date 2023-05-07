@@ -18,7 +18,9 @@ Manitoba Opera's production of Verdi's *La Traviata* has everything you need for
 
 Let's start with the voices. [Angel Blue](/talking-with-singers-angel-blue/), who has recently sung at the Met in New York and will be taking this role of Violetta to Covent Garden, was the vocal standout of this production. Her easy free tone, the tremendous versatility and agility in her voice, coupled with a compelling stage presence made her performance a top-notch affair. Her leading man, [Adam Luther](/scene/people/adam-luther/) (like Ms. Blue, making his Manitoba Opera premiere) as Violetta's lover Alfredo was unfortunately in apparent vocal distress in the first act. After the intermission, an announcement that he was ill, but gamely willing to perform in a reduced vocal capacity, had a fascinating and unintended effect on the opera as a whole. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523898544914/MBOperaLaTraviataAngelBlueVioletta2018.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523898544914/MBOperaLaTraviataAngelBlueVioletta2018.jpg.jpg)
 <figcaption>Angel Blue as Violetta in *La traviata*, Manitoba Opera, 2018. Photo: R. Tinker.</figcaption>
 </figure>
 
@@ -28,7 +30,9 @@ The Manitoba Opera chorus has never sounded finer, in my opinion. Kudos to longt
 
 All voices, it seemed to me, were helped by the beautiful new set, a collaboration between opera companies in Winnipeg, Edmonton, Vancouver, Victoria, and Montreal. The set is visually spectacular, with a giant staircase and two levels to frame all the action that happens onstage with style. I found the set also served as an acoustic shell, helping the unamplified voices of the principal singers and chorus to be heard over an entire orchestra. Again, Maestro Paterson did a great job with the balance overall between orchestra and singers, and the orchestra played their hearts out. I was thinking - I know they don't have a lot of rehearsal time to put together so much difficult material, but once it's all ready to go, it must be fun for the musicians to play such great music!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523898557839/LaTraviataMBOpera2018.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523898557839/LaTraviataMBOpera2018.jpg.jpg)
 <figcaption>*La traviata*, Manitoba Opera, 2018. Photo: R. Tinker.</figcaption>
 </figure>
 

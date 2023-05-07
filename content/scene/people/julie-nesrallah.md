@@ -15,6 +15,7 @@ url = "https://twitter.com/CBCTempo"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/julienesrallah"
+_template = "people_single"
 +++
 
 Mezzo-soprano, Julie Nesrallah is a singer, actress and broadcaster who dazzles audiences with her engaging personality, and her rich and deeply expressive voice. Miss Nesrallah is regularly engaged by leading opera companies, symphonies, festivals and chamber music ensembles across North America and around the world.

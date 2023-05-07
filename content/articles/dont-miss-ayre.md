@@ -25,5 +25,7 @@ The staging of *Ayre* by AtG Artistic Director [Joel Ivany](/scene/people/joel-i
 
 *Ayre* happens **November 10, 11 and 12 at the Ismaili Centre**, 49 Wynford Dr, Toronto. Doors open at 7:30, and the show begins at 8pm. You *want* to see this. [Click here](http://againstthegraintheatre.com/ayre/) for full details and to purchase tickets.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478689779571/Ayre%20Cinemagraph.gif)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478689779571/Ayre%20Cinemagraph.gif)
 </figure>

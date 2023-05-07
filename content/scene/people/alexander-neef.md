@@ -11,6 +11,7 @@ title = "Alexander Neef"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/alexanderncoc"
+_template = "people_single"
 +++
 
 <p>

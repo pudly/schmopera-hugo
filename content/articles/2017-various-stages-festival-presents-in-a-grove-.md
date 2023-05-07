@@ -22,7 +22,7 @@ Akutagawa's classic short story plumbs the elusive nature of perception and trut
 
 However, like much of my other work, it uses resonance and repetition to create a hypnotic sound world. The many interconnected threads in the tale of *In a Grove* allow me to create a variations form where ideas constantly reemerge, varied and evolved from their last iteration. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484839973600/2017-01-19---In-a-Grove_Chris-Cerrone.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484839973600/2017-01-19---In-a-Grove_Chris-Cerrone.jpg.jpg)
 <figcaption>Chris Cerrone, composer, *In a Grove*.</figcaption>
 </figure>
  
@@ -34,7 +34,7 @@ Our aim for the work as a whole is to carve out a kind of neutral terrain for th
 
 For me, the process of making a text sing is somewhat mysterious, a bit resistant to articulation. What I can say, after having put the source material—a wonderfully and ever so slightly clunky literal translation of an exceedingly poetic text—through my own idiosyncratic filter, is that my relationship to words is intensely kinetic. I tend to work with a great deal of internal rhyme, even if with this text we are making it a point to refrain from end rhymes. I didn't realize, until I started working with Chris, that alliteration is a little like breathing for me. So much so, that at Chris's request, I'm consciously working against that impulse. I grew up around classical music. Music is in everything I write, whether it is written to be sung or spoken. The sonic shape of the text drives its meaning. Whether the words' principle task is to conjure image or character, point of view or heightened moment, a dramatic muscularity—hopefully, at a cellular level—is emerging as I hone the libretto.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484847697129/2017-01-19---In-a-Grove_Stephanie-Fleischmann.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484847697129/2017-01-19---In-a-Grove_Stephanie-Fleischmann.jpg.jpg)
 <figcaption>Stephanie Fleischmann, librettist, *In a Grove*.</figcaption>
 </figure>
 

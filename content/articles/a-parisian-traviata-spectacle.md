@@ -21,7 +21,9 @@ This production of [Vancouver Opera's _La traviata_](https://www.vancouveropera.
 
 The setting is 1920s Paris, where Violetta is a showgirl, appearing at the top of the stairs in a sumptuous, Folies Bergère-style costume, overflowing with feathers and glitter, before she descends into a coughing fit betraying her declining health.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571621750/media/2019/10/LaTraviata2019VancouverOperafullstage-TimMatheson_cbvxsm.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571621750/media/2019/10/LaTraviata2019VancouverOperafullstage-TimMatheson_cbvxsm.jpg)
 
 <figcaption>A scene from La traviata, Vancouver Opera, 2019. Photo: Tim Matheson.</figcaption>
 
@@ -31,7 +33,9 @@ The Parisian setting is an ideal locale for _Traviata_, full of gaiety and life,
 
 [Emily Dorn](/scene/people/emily-dorn/) as Violetta in this production brings great characterization and nuance to a difficult role. Far from being a frivolous socialite/courtesan, Dorn shows Violetta's frustration and grief as she gradually loses everything she holds dear. While it was occasionally difficult to hear her in her lower register, her high range and coloratura soar over the large ensembles. In her final scene, rather than being dejected at facing her death, Dorn shows Violetta's distress about losing everything, and her death was incredibly powerful and touching.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571621762/media/2019/10/LaTraviataEmilyDornasVioletta-TimMatheson_dohtbm.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571621762/media/2019/10/LaTraviataEmilyDornasVioletta-TimMatheson_dohtbm.jpg)
 
 <figcaption>Emily Dorn as Violetta in La traviata, Vancouver Opera, 2019. Photo: Tim Matheson.</figcaption>
 
@@ -41,7 +45,9 @@ The Parisian setting is an ideal locale for _Traviata_, full of gaiety and life,
 
 Giorgio Germont, played by Chenye Yuan is much more reserved than his impetuous son. Yuan's Germont is stoic and matter-of-fact about needing Violetta to leave Alfredo. Although he seemed to struggle with the high notes in "Di provenza," he provides a calm counterpart to the emotional, tempestuous Alfredo.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571621776/media/2019/10/La_Traviata_2019VancouverOperaAnnina-EmilyDorn-AndrewHaji-photoTimMatheson_ytbkln.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571621776/media/2019/10/La_Traviata_2019VancouverOperaAnnina-EmilyDorn-AndrewHaji-photoTimMatheson_ytbkln.jpg)
 
 <figcaption>(l-r) Irina Medvedeva as Annina, Emily Dorn as Violetta, and Andrew Haji as Alfredo in La traviata, Vancouver Opera, 2019. Photo: Tim Matheson.</figcaption>
 

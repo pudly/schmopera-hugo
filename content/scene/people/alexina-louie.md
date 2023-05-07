@@ -12,6 +12,7 @@ website = "http://www.alexinalouie.ca/home"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/Alexina-Louie/108011175918879"
+_template = "people_single"
 +++
 
 <p>

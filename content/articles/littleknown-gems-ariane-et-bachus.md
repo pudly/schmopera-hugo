@@ -31,7 +31,9 @@ The costumes are as authentically 17th-century as Meriem Bahri can make them. Sh
 
 The costumes by Meriem Bahri are breathtakingly beautiful and breathtakingly historical. However, the costumes also function as a way for the 21st-century performers to fully inhabit the 17th-century world that Marais created. The corset demands an upright and noble carriage of the body, and it also exposes the upper chest as an important site for expressive movement. The carriage of the arms and the acting gestures of the period truly make sense when one is wearing a 17th-century costume.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506115102095/2017-09-22---Ariane.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506115102095/2017-09-22---Ariane.jpg.jpg)
 <figcaption>Costume sketch for Ariane by Meriem Bahri.</figcaption>
 </figure>
 
@@ -47,7 +49,9 @@ The costumes by Meriem Bahri are breathtakingly beautiful and breathtakingly his
 
 **Sarah**: I have to admit that I am partial to demons, having portrayed a dancing fury a few times myself. After carefully embodying good taste in the noble characters, the evil characters get to break all the rules. Plus, in hell you get to play with snakes, wands, and torches.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506115146137/2017-09-22---Craig-Trompter.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506115146137/2017-09-22---Craig-Trompter.jpg.jpg)
 </figure>
 
 >Haymarket Opera Company presents [Ariane et Bachus](http://www.haymarketopera.org/arianeetbachus), September 30 to October 3. For details and ticket information, follow our box office links below.

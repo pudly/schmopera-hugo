@@ -9,6 +9,7 @@ related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md"
 slug = "lauren-segal"
 title = "Lauren Segal"
 website = "http://www.laurensegal.com/"
+_template = "people_single"
 +++
 
 <p>

@@ -14,6 +14,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jordanrutternyc"
 
+_template = "people_single"
 +++
 New York City-based countertenor Jordan Rutter enjoys a young career embracing opera, concert repertoire, and contemporary work. Highlights of his operatic activity include Oberon in *A Midsummer Night's Dream* with Opera on the Avalon, the Sorceress in *Dido and Aeneas* with the Hawaii Performing Arts Festival, and creating the role of Le fils de Macduff in the American French-language premiere of Ernest Bloch's *Macbeth*, a performance which earned Mr. Rutter praise from both Opera News and Gay City News.
 

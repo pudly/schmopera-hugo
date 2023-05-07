@@ -19,6 +19,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCM_IR-g33pffiDDtD7XTUGA"
 
+_template = "people_single"
 +++
 Chad Kranak, Armenian-American tenor, praised for his "lyrical eloquence and attractive lyric sound" by _Opera News_, is known for the musicality and vulnerability he brings to the stage. His 2021-22 season is so far set to include Pinkerton in _Madama Butterfly_ with New Rochelle Opera, Luzio in Wagner's _Das Liebesverbot_ with the Cambridge Chamber Ensemble, a return to Virginia as the tenor soloist for the Saint-Saëns Requiem, and making his role debut as Cavaradossi in _Tosca_ with New Rochelle Opera this spring. 
 

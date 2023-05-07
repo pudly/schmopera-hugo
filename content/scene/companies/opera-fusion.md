@@ -22,6 +22,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCu4CfRzV-bG2o2V5PqXZR2w"
 
+_template = "company_single"
 +++
 ### Our mission
 

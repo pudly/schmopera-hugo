@@ -8,6 +8,7 @@ publishDate = "2016-08-19T10:18:00+01:00"
 related_companies = ["scene/companies/glyndebourne.md","scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md"]
 slug = "kate-royal"
 title = "Kate Royal"
+_template = "people_single"
 +++
 
 Born in London, Kate Royal studied at the Guildhall School of Music and Drama and the National Opera Studio. Awards include the 2004 Kathleen Ferrier Award, the 2004 John Christie Award, and the 2007 Royal Philharmonic Society Young Artist Award.

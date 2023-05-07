@@ -22,13 +22,17 @@ But: it isn't unlike watching a TV sex scene with your dad…things get pretty r
  
 Three Way is made up of three one-acts: *The Companion*, *Safe Word*, and *Masquerade*, with a small cast for each.  *The Companion* is a look into the not-too-distant future: Maya, sung by soprano [Danielle Pastin](/scene/people/danielle-pastin/), experiences varying levels of discontent with her companion, an android, all the while yearning for the perfect mate. [Samuel Levine](/scene/people/samuel-levine/) sings Maya's companion, Joe, in a consistent, colorful tenor that subtly develops as Joe’s character evolves.  Ms. Pastin's solid technique and clarity highlights the depth of her voice. Her timbre pairs well with Mr. Levine's and with [Wes Mason](/scene/people/wes-mason/)'s as Dax, a field IT agent.  Mr. Mason’s powerful, expressive baritone is better suited to his role in the third act (*Masquerade*), though, that is true of all three singers.  Something in *The Companion* seemed to not quite gel.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485596467837/2017-01-28---Nashville-Opera---Three-Way--7.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485596467837/2017-01-28---Nashville-Opera---Three-Way--7.jpg.jpg)
 <figcaption>Samuel Levine in *The Companion*, Photo by Jason Lee Denton.</figcaption>
 </figure>
  
 I was wary, then of the remaining acts in *Three Way*, but was very happily surprised.  In *Safe Word*, mezzo [Eliza Bonet](/scene/people/eliza-bonet/) and Nashville Opera fave/babe [Matthew Treviño](/scene/people/matthew-trevino/) play a dominatrix and her client, respectively.  The Client's character demands a very wide scope of contradictory emotion in just one act, and Mr. Trevino seamlessly moves through that scope – even when he's in a dolly dress and a wig of ringlets while singing a rather sinister aria.  Mr. Treviño's robust and impactful bass voice led us through a fairly dense narrative, equaled by Ms. Bonet's bright voice and sincerity in her characterization.  At times April Ludgate-esque, Ms. Bonet as the Domme oscillates between innocence and experience in a most pleasing way.  *Safe Word* probably puts its general audience instantly at some level of discomfort, and (TWIST!) leaves us feeling introspective about what darkness is in our own desire.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485596518671/2017-01-28---Nashville-Opera---Three-Way--2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485596518671/2017-01-28---Nashville-Opera---Three-Way--2.jpg.jpg)
 <figcaption>Eliza Bonet in *Safe Word*. Photo by Jason Lee Denton.</figcaption>
 </figure>
  

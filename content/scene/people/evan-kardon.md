@@ -11,6 +11,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/evanlaceykardon/"
 
+_template = "people_single"
 +++
 Soprano Evan Kardon from Philadelphia, Pennsylvania is currently a Studio Artist with the Florida Grand Opera. Her mainstage work in the 2018/19 season will include Barbarina in _Le Nozze di Figaro_, Mrs. Ford in _Frida_ and Sophie in a new production of _Werther_. She will return to Des Moines Metro Opera as an Apprentice Artist to cover Musetta in _La Bohème_ this Summer. Ms. Kardon’s 2017/18 mainstage season included the roles of Amor in Gluck's _Orfeo ed Euridice_, as well as the role of Slave in Strauss' _Salome_. 
 

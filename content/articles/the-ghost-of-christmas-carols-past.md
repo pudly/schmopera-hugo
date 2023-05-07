@@ -30,7 +30,9 @@ I looked up the top 25 holiday songs this week, and what year they were all writ
 
 For comparison, the top 25 songs this week, holiday-related or no, are on average about two years old. For the record, that's 21 songs from this year, 2 from last year, and 2 Christmas songs from the 90's. Because I’m a nerd, I’ve put this data into a graph:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451144814821/graph.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451144814821/graph.jpg.jpg)
 </figure>
 
 Clearly, these two lines are not close to the same shape, which demonstrates that the music we consume at Christmas is wildly different than the music we normally consume. I was left with two questions.

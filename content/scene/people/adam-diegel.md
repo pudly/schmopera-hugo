@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/aadiegel/"
 
+_template = "people_single"
 +++
 Korean American tenor Adam Diegel regularly earns international acclaim for his impassioned dramatic sensibilities, powerful voice, and for his classic leading man looks. From a performance as Cavaradossi in _Tosca_ at Glimmerglass Opera, _Opera News_ raved: “The opera became a showdown between Adam Diegel’s impulsive, shaggily handsome Cavaradossi and Lester Lynch’s fearsome, animalistic Scarpia… (Diegel’s) spacious, Italianate tenor…delivered a stirring ‘Recondita armonia’ and built ‘E lucevan le stelle’ masterfully from hushed intimacy to an unfettered cri de coeur.”
 

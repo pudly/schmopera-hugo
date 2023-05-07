@@ -19,7 +19,9 @@ Since Ekaterina was completely stunning in *Bluebeard*, I was eager to hear her 
 
 The Tchaikovsky were heavy (as plenty of Russian repertoire is), and Ekaterina showed off a beautifully consistent mezzo sound from top to bottom. I was impressed by her impossibly smooth transition into her chest register, which was full-bodied and clear. She really sold me on the third song, "Wasn't I a blad of grass in the field?" The story of a young woman, forced into an arranged marriage with an older man, was really touching; I was excited to see that Ekaterina is a lovely actress, and can tell a story without frills.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432066551306/gubanova-ekaterina_326660_Fotor.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432066551306/gubanova-ekaterina_326660_Fotor.jpg.jpg)
 <figcaption>Mezzo-soprano Ekaterina Gubanova.</figcaption>
 </figure>
 

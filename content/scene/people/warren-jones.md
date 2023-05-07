@@ -8,6 +8,7 @@ related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/m
 slug = "warren-jones"
 title = "Warren Jones"
 website = "http://www.warrenjones.com/home.html"
+_template = "people_single"
 +++
 
 Warren Jones has recently been named as "Collaborative Pianist of the Year" for 2010 by the publication Musical America. He performs with many of today’s best-known artists, including Stephanie Blythe, Denyce Graves, Dame Kiri Te Kanawa, Anthony Dean Griffey, Ruth Ann Swenson, Bo Skovhus, Samuel Ramey, James Morris, John Relyea, Joseph Alessi, and Richard “Yongjae” O’Neill—and is Principal Pianist for the exciting California-based chamber music group Camerata Pacifica. In the past he has partnered such great performers as Marilyn Horne, Håkan Hagegård, Kathleen Battle, Barbara Bonney, Carol Vaness, Judith Blegen, Tatiana Troyanos and Martti Talvela. His collaborations have earned consistently high praise from many publications: *The Boston Globe* termed him "flawless" and "utterly ravishing"; *The New York Times*, "exquisite"; and *The San Francisco Chronicle* said simply, "He is the single finest accompanist now working."

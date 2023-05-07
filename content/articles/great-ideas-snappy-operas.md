@@ -25,7 +25,9 @@ There was a noticeable amount of diligence and attention to detail in rehearsing
 
 "You do the music, you block it, you refine it, you revise it, you come back to it, and you run it," explains Redmond, noting that the rehearsal process for *Snappy Operas* is very close to that of grown-ups working in professional opera companies. "That model of approach is fail-safe. One doesn't need to work any differently with kids. They're often more receptive and they're quicker and they learn it very, very fast."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464872640105/2016-06-02---Snappy-Operas-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464872640105/2016-06-02---Snappy-Operas-2.jpg.jpg)
 </figure>
 
 *Snappy Operas* are designed to be flexible in their composition, allowing for various levels of musical skill and different combinations of instruments available. Redmond adds that it's not necessary, nor reasonable to assume that all UK schools and arts hubs will have grand pianos or the resources to delegate leadership among a full creative staff.

@@ -16,6 +16,7 @@ url = "https://www.facebook.com/LaMonnaieDeMunt/timeline/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/LaMonnaieDeMunt"
+_template = "company_single"
 +++
 
 ### In a nutshell

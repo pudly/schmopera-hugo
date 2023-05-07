@@ -9,6 +9,7 @@ social_media = []
 title = "Jonathan Michie"
 website = "http://www.jonathanmichie.com/"
 
+_template = "people_single"
 +++
 Praised for his “vocal mastery and theatrical panache” (San Francisco Chronicle), Jonathan Michie returns to the ensemble of Oper Leipzig in the 2018-19 season, where his various roles include Figaro in **Il barbiere di Siviglia**, Ping in **Turandot**, Schaunard in **La bohème**, Papageno in **Die Zauberflöte**, Sonora in **La fanciulla del West**, Ottokar in **Der Freischütz**, Le Dancaïre in **Carmen**, Zwerg Adi in **Schneewittchen**, and the Gamekeeper in **Rusalka**. He also returns to Florida Grand Opera for Count Almaviva in **Le nozze di Figaro**and joins Chicago Opera Theater for the title role in Justine Chen’s The Life and Death(s) of Alan Turing. Last season, he sang Dandini in **La Cenerentola**, Papegeno in **Die Zauberflöte**, Ottokar in **Der Freischütz**, Ping in **Turandot**, and Le conceiller de Thou in Gounod’s **Cinq-Mars**, in addition to singing the Gamekeeper in **Rusalka** and Der Tierbändiger in **Lulu**, both in new productions. He also joined Teatro dell’Opera di Roma and conductor James Conlon for Donald in **Billy Budd**, Finger Lakes Opera for Eisenstein in **Die Fledermaus**, the Gewandhaus Orchestra and conductor Andris Nelsons for excerpts from **Die Zauberflöte**, and the roster of the Metropolitan Opera for the same title.   
   

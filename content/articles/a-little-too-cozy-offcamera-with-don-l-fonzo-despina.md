@@ -21,7 +21,7 @@ title = "A Little Too Cozy: Off-camera with Don L. Fonzo &amp; Despina"
 
 **Despina**: As with all of our contestants, each finalist brings certain...assets to the competition. Obviously they are all gorgeous, and since I don't mind looking at them all day, I am sure our TV audience will tune in to get a look at these attractive specimens. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462878109847/2016-05-10---3-Cozy---Hi-Res.jpg.jpg)<figcaption>(l-r): Shantelle Przybylo, Aaron Sheppard, Caitlin Wood, Brent Calis and Pascale Spinney Pascale Spinney in Against the Grain Theatre’s *A Little Too Cozy*. Photo: Don Lee, The Banff Centre.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462878109847/2016-05-10---3-Cozy---Hi-Res.jpg.jpg)<figcaption>(l-r): Shantelle Przybylo, Aaron Sheppard, Caitlin Wood, Brent Calis and Pascale Spinney Pascale Spinney in Against the Grain Theatre’s *A Little Too Cozy*. Photo: Don Lee, The Banff Centre.</figcaption>
 </figure>
 
 ## Are they in this for the right reasons?
@@ -40,7 +40,7 @@ When Despina signed on, I know I wouldn't have to worry about lights being left 
 
 Of course, there are also perks and downsides to working with someone for that amount of time...and some excitement behind the scenes...(some very short lived excitement behind the scenes, if you catch my drift.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462887596770/2016-05-10---2-Cozy---Hi-Res.jpg.jpg)<figcaption>(l-r): Shantelle Przybylo, Pascale Spinney, Brent Calis, Aaron Sheppard and Cairan Ryan in Against the Grain Theatre's *A Little Too Cozy*. Photo: Don Lee, The Banff Centre.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462887596770/2016-05-10---2-Cozy---Hi-Res.jpg.jpg)<figcaption>(l-r): Shantelle Przybylo, Pascale Spinney, Brent Calis, Aaron Sheppard and Cairan Ryan in Against the Grain Theatre's *A Little Too Cozy*. Photo: Don Lee, The Banff Centre.</figcaption>
 </figure>
 
 ## How would you describe your "talent relations" title?
@@ -53,7 +53,7 @@ For some of our male contestants, it can be difficult to go without any female c
 
 **Don L. Fonzo**: You're witnessing history. This is the best final 4 we've ever had on the show, and there are going to be a few surprises. You don't want to miss it. Also, follow my moustache on Twitter: [@DonaldsStache](https://twitter.com/DonaldsStache).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462887774057/2016-05-10---10-Cozy---Lo-Res.jpg.jpg)<figcaption>(l-r): Caitlin Wood, Pascale Spinney and Shantelle Przybylo in Against the Grain Theatre's *A Little Too Cozy*. Photo: Don Lee,The Banff Centre.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462887774057/2016-05-10---10-Cozy---Lo-Res.jpg.jpg)<figcaption>(l-r): Caitlin Wood, Pascale Spinney and Shantelle Przybylo in Against the Grain Theatre's *A Little Too Cozy*. Photo: Don Lee,The Banff Centre.</figcaption>
 </figure>
 
 ## Do you believe you can fall in love with someone before meeting them?

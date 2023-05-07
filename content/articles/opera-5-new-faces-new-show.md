@@ -34,7 +34,9 @@ Derventzis loves that Beaumarchais' *Figaro* plays - the 18th century source mat
 
 "Rosina is very intelligent and very wise to her surroundings," Derventzis adds. "The fact that she's able to get out of there on her and create this freedom for herself, says a lot about how wrong men are about women."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528213592056/Barbiere-poster-web.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528213592056/Barbiere-poster-web.jpg.jpg)
 </figure>
 
 Opera 5's [*Il barbiere di Siviglia*](http://opera5.ca/barber/) runs for three performances, **June 13, 15, and 17** at Factory Theatre, 125 Bathurst St. For details and tickets, [click here.](http://opera5.ca/barber/)

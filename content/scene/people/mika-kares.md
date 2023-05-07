@@ -17,6 +17,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/mikakares"
 
+_template = "people_single"
 +++
 For over ten years, the imposing and statuesque Finnish singer, Mika Kares, has been engaging and enchanting international audiences with his elegant, polished and vibrant Bass voice. This Grammy-nominated singer is a knowledgeable and imaginative performer who possesses strong linguistic and acting skills. Recently, he sang at Bayerische Staatsoper in Munich, Opernhaus Zürich and Semperoper Dresden, and future engagements will see him perform at the Royal Opera House Covent Garden, Wiener Staatsoper, La Monnaie de Munt in Brussels, and with ABAO-OLBE Bilbao.
  

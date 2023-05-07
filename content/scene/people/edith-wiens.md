@@ -8,6 +8,7 @@ related_companies = ["scene/companies/salzburg-festival.md","scene/companies/the
 slug = "edith-wiens"
 title = "Edith Wiens"
 website = "https://edithwiens.com/"
+_template = "people_single"
 +++
 
 Canadian soprano Edith Wiens’ beautiful, versatile voice and assured musicality embraced an astonishingly vast repertoire from the baroque to the contemporary. She has collaborated with the world’s foremost conductors and orchestras, including the New York, Berlin, London, Munich and Israel Philharmonic Orchestras; Boston, Chicago, Toronto, Montreal and San Francisco Symphonies, the London Philharmonia, Dresden Staatskapelle and Cleveland Orchestras, the Academy of St Martin-in-the-Fields, Orchestre National de France and Orchestre de Paris; under such conductors as Daniel Barenboim, Sir Colin Davis, Charles Dutoit, Bernard Haitink, Sir Neville Marriner, Kurt Masur, Seiji Ozawa, Wolfgang Sawallisch, and Sir Georg Solti.

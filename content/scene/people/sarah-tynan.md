@@ -13,6 +13,7 @@ website = "http://www.sarahtynan.com/index.html"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/LaTynan"
+_template = "people_single"
 +++
 
 Sarah Tynan’s exceptional versatility and engaging stage presence have earned her a place in the league of elite British sopranos. She enjoys huge success in baroque, classical and contemporary repertoire, and appears regularly with leading orchestras and ensembles. Last season Tynan received rave reviews for her “mesmerising” Manon Lescaut in Henze’s *Boulevard Solitude* at Welsh National Opera, a role for which she recently received the Welsh Theatre Award for Best Female in an Opera Production.

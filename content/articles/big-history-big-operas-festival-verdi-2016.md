@@ -22,7 +22,7 @@ An important new element this year for Festival Verdi is a focus on emerging per
 
 **AMM**: One of the highlights will be *Giovanna d'Arco*, directed by Saskia Boddeke and Peter Greenaway at Teatro Farnese. Staging this production is a great challenge and great opportunity. Teatro Farnese is now a National Cultural Heritage Site so to stage any public performance requires being very attentive to the interior structure of the building. The opportunity to work with a creative team from disciplines other than opera introduces 21st-century staging technologies in a majestic Baroque theatre. Fascinating possibilities!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474535673800/2016-09-22---Teatro-Regio-di-Parma-ph-Luca--Fregoso.jpg.jpg)<figcaption>The view from the stage of Teatro Regio di Parma. Photo: Luca Fregoso.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474535673800/2016-09-22---Teatro-Regio-di-Parma-ph-Luca--Fregoso.jpg.jpg)<figcaption>The view from the stage of Teatro Regio di Parma. Photo: Luca Fregoso.</figcaption>
 </figure>
 
 ### Can you tell us about some of the outreach/educational events, like Emozioni Under 30, and Making Opera Viral?
@@ -33,7 +33,7 @@ An important new element this year for Festival Verdi is a focus on emerging per
 
 **AMM**: This is a very unfair question!  In Parma, we are Verdi lovers, loyal supporters and enthusiasts. Individually and privately we might hold a particular Verdi opera close to our hearts but collectively and publically, it is all Verdi, all the time and all magnificent.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474535755480/2016-09-22---Teatro-Giuseppe-Verdi-di-Busseto-ph-Barone.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474535755480/2016-09-22---Teatro-Giuseppe-Verdi-di-Busseto-ph-Barone.jpg.jpg)
 <figcaption>Teatro Giuseppe Verdi di Busseto. Photo: Barone.</figcaption>
 </figure>
 

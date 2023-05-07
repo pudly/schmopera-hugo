@@ -17,6 +17,7 @@ url = "https://www.facebook.com/AllegraDeVitamezzosoprano"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AllegraDeVita"
+_template = "people_single"
 +++
 
 American mezzo-soprano Allegra De Vita, a 2015 Metropolitan Opera National Council Audition Grand Finalist, is in her second season as a young artist with Washington National Opera’s Domingo-Cafritz Young Artist Program. In the 2017/18 season at WNO, Ms. De Vita will perform Rosina in *Il Barbiere di Siviglia*, Tebaldo in *Don Carlo*, The Fox in *The Little Prince* and Zegner Sister 2 in the American Opera Initiative premiere *Proving Up*. Elsewhere, she will perform Arsamenes in *Xerxes*, conducted by Nicole Paiement, for a return to Glimmerglass Festival, and Tancredi in *Erminio* with Opera Lafayette, with performances in both New York and Washington, DC. Concert highlights include the Mozart *Requiem* with The Choral Arts Society of Washington. 

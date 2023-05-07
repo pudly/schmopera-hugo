@@ -20,6 +20,7 @@ url = "https://twitter.com/aarongervais"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/aaron-gervais-composer"
+_template = "people_single"
 +++
 
 Based in San Francisco, composer Aaron Gervais works with ensembles and presenters across North America and Europe. He is particularly interested in humour, found materials, quotation/collage, and the sociological aspects of how people use music. As such, Aaron’s output ranges from the introspectively sombre to the irreverently slapstick, and critics have described his musical approach with statements from “I cried tears of laughter” to “unique, unsettling” and “this is just really great fun.” Over the past few years, Aaron’s work has centered around chamber music, vocal music, and opera, although orchestral music, live electronics, and pieces for dance and theatre also feature in his work.

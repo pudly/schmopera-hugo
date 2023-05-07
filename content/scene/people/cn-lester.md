@@ -19,6 +19,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/cn.lester/"
 
+_template = "people_single"
 +++
 CN Lester is a writer, musician, academic, and leading LGBTI activist. Co-founder of the UK's first national queer youth organisation, they curate the trans art event Transpose for Barbican, and work internationally as a trans and feminist educator and speaker. Their work has featured on BBC Radio 3, BBC Radio 4, SBS, The Guardian, ABC, The Independent, Newsnight, and at Sydney Opera House. 
 

@@ -21,7 +21,7 @@ The piece is a combination of electronic music and acoustic voice, and Buras - w
 
 (Interestingly, it also put an odd perspective on a strange phenomenon we've noticed since our move to London, that the city's pigeons seem to have high rates of foot and leg injuries.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476528732864/2016-10-14---Feet.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476528732864/2016-10-14---Feet.jpg.jpg)
 <figcaption>Christine Buras performing "Feet." Photo courtesy of Gestalt Arts.</figcaption>
 </figure>
 

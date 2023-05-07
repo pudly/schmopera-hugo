@@ -6,6 +6,7 @@ related_companies = ["scene/companies/staatsoper-berlin.md", "scene/companies/wa
 slug = "anna-nechaeva"
 title = "Anna Nechaeva"
 
+_template = "people_single"
 +++
 ### Recent and upcoming engagements
 

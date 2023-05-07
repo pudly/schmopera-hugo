@@ -21,6 +21,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/roycevavrekstreet/"
 
+_template = "people_single"
 +++
 **Royce Vavrek** is a Canada-born, Brooklyn-based librettist and lyricist who has been called “the indie Hofmannsthal” (_The New Yorker_) a “Metastasio of the downtown opera scene” (_The Washington Post_), “an exemplary creator of operatic prose” (_The New York Times_), and “one of the most celebrated and sought after librettists in the world” (_CBC Radio_). His opera “Angel’s Bone” with composer Du Yun was awarded the 2017 Pulitzer Prize for Music.
 

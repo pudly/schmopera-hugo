@@ -16,6 +16,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/elliotmadore"
 
+_template = "people_single"
 +++
 Canadian baritone Elliot Madore has been praised for his “movie star quality” (Merkur) and “exceptional” artistry (New York Times).
 

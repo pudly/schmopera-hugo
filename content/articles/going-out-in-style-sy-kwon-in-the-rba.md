@@ -20,7 +20,9 @@ They're called *Les Adieux* concerts, these graduation performances from outgoin
 
 It seems appropriate that the *Les Adieux* concerts show off a side to these singers that's rarely seen on the COC mainstage. For Sy, this was the first undertaking of Schubert's behemoth song cycle, and his performance had a beautiful balance of fresh youthfulness, and careful thought. He took enormous risks in vocal colour, nailing just about all of those choices; the detail work was impressive, and his sound has settled into something unique and warm. At the piano, Kwon did some of the finest work we've heard of hers. She was a true partner soloist, a rich sound painting clear pictures.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495218845664/2017-05-19---Sy-Kwon-RBA.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495218845664/2017-05-19---Sy-Kwon-RBA.jpg.jpg)
 <figcaption>Charles Sy and Hyejin Kwon perform in the Richard Bradshaw Amphitheatre. Photo: Tanner Davies.</figcaption>
 </figure>
 

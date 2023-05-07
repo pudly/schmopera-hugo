@@ -20,7 +20,9 @@ The story of course ruffled some puritan feathers, but such is the tale of all t
 
 Italian composer Giuseppe Gazzaniga beat Mozart and da Ponte by a few months in the opera department, with his _[Don Giovanni Tenorio o sia Il convitato di pietra](http://en.wikipedia.org/wiki/Don_Giovanni_Tenorio) _(_Don Giovanni Tenorio, or The Stone Guest_), which premiered in February of 1787\. The work was shorter than Mozart's, appearing as part of a double bill, but Lorenzo da Ponte certainly knew of Gazzaniga's _Giovanni_. (Gazzaniga's _Don Giovanni_ always makes me think of poor Leoncavallo's _La bohème._)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429819389284/moz_don.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429819389284/moz_don.jpg.jpg)
 <figcaption>The first page of Don Giovanni, in Mozart's hand.
 </figcaption>
 </figure>
@@ -29,7 +31,9 @@ After Mozart and da Ponte's _Don Giovanni_ opened in 1787, the piece fuelled m
 
 Even the moral questions raised by the story of _Don Juan_ are timeless. Some of my absolute Don Juan philosophizing is by [Søren Kierkegaard](http://en.wikipedia.org/?title=Either/Or), in his _Either/Or_. Using the pseudonyms "A" and "B" (or The Judge), Kierkegaard presents two polar ways of life, the pursuit of pleasure and the pursuit of ethics. The question is simple enough: how should we live? Kierkegaard finds a perfect example of the aesthete in the character of Don Juan, who is insatiable in his desire for _more women_. This insatiate cannot enjoy the woman he has now, because he already desires the next. In line with the oldest prescription in the book, the answer to the question, "How should we live?" is a combination of seeking pleasure and consideration for others. Moderation, and all that.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429819454256/Cartel-de-Don-Juan-Tenorio-934x1024.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429819454256/Cartel-de-Don-Juan-Tenorio-934x1024.jpg.jpg)
 <figcaption>Salvador Dalí's Cartel de Don Juan Tenorio, 1949.
 </figcaption>
 </figure>

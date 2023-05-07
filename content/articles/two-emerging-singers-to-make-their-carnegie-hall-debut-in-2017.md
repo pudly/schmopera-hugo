@@ -21,7 +21,9 @@ For their Carnegie debuts, Dickerson and Kalender will be joined by world-renown
 
 Dickerson is also an alumnus of the Music Academy of the West; he and Kalender met during MAW's 2015 production of *La Cenerentola*, the same year that Dickerson won the Marilyn Horne Song Competition. "Benjamin is not only an excellent performer, he has also been a great colleague and friend!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479995895076/2016-11-24---Beste-Benjamin-MAW15.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479995895076/2016-11-24---Beste-Benjamin-MAW15.jpg.jpg)
 <figcaption>Beste Kalender and Benjamin Dickerson, Music Academy of the West, 2015.</figcaption></figure>
 
 On the programme are songs by Francesco Santoliquido (which Kalender has "fallen in love with" after hearing them performed by Joyce Di Donato), songs by Berg, Brahms, Liszt, Fauré, Hahn, Bizet, and Hugo Wolf's *Alte Weisen*, which Jones recommended for Kalender. ("He thought *Alte Weisen von Gottfried Keller* would fit my personality and style.")

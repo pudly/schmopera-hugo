@@ -26,7 +26,7 @@ Most concert pianos are 7 to 9 feet long; they are incredible instruments with a
 
 I actually find being a pianist complements my duties as Artistic Director, as there are insights from both perpectives that can help both duties. But I do admit that it is sometimes difficult to juggle between the two "jobs", to keep a balance in life. Yet I have always been one to be fuelled by challenges. It is so hard for me to say no to an opportunity, even if that means less sleep and working in the weekends. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542935156745/ND3_2452.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542935156745/ND3_2452.jpg.jpg)
 <figcaption>Wonny Song. Photo by Bo Huang.</figcaption>
 </figure>
 

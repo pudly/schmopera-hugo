@@ -19,6 +19,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/mezzo_ludwig/"
 
+_template = "people_single"
 +++
 The New York Times calls mezzo-soprano Hannah Ludwig “best in show” and further exclaims “Her tone chocolaty and large, yet with focus and agility, she captured the integral aspect of bel canto…expression emerging from a long, intelligently shaped musical line.” In the 2020-21 season, she returns to Teatro Nuovo as Rosina in _Il barbiere di Siviglia_ in the first in-person opera production in New York City since the start of the COVID-19 pandemic. She sings the same role earlier in the season in a made-for-digital production with Opera Louisiane and is presented in “Songs from a Distance,” a recital featuring Schubert, Argento, Boyle, and Musto as well as a series of outdoor concerts by Opera Delaware and Baltimore Concert Opera. Among her performances next season are Handel’s _Messiah_ with the Columbus Symphony—originally scheduled for this season—and her debut with Portland Opera as the District Attorney in Davis’ Central Park Five.
 

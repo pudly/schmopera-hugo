@@ -8,6 +8,7 @@ social_media = []
 title = "Victoria Borg"
 website = "http://www.victoriaborgmusic.ca/"
 
+_template = "people_single"
 +++
 Mezzo-Soprano Victoria Borg is pleased to call Toronto home. Born and raised in London Ontario, she holds a Masters of Music in Opera and Voice from McGill University, a Post-Baccalaureate Diploma from the University of Manitoba, and an honours Bachelor of Music from Western University.
 

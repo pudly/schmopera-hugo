@@ -22,7 +22,9 @@ I sing because I fell in love with the voice while I was at university. Original
 
 I think that good singing can take many different forms. Technically speaking, I am always working towards a feeling in which my body and breath are running the show, not my throat. I think singing can have so much vitality and vulnerability when the singer allows it to be a full body experience. This is what I admire in my favourite singers. I also believe that a typical opera-goer appreciates when a singer is generous with their sound. This is all a work in progress for me, but when I am able to pour my voice and emotions out at the same time on stage, I refer to that as good singing. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497324006747/2017-06-12---15-16-03-MC-D-4698-4705.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497324006747/2017-06-12---15-16-03-MC-D-4698-4705.jpg.jpg)
 <figcaption>(left to right) Charlotte Burrage as Mercédès, Iain MacNeil as Le Dancaïre, Anita Rachvelishvili as Carmen, Jean-Philippe Fortier-Lazure as Le Remendado and Sasha Djihanian as Frasquita in the Canadian Opera Company production of *Carmen*, 2016. Photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -36,7 +38,9 @@ Something I don't think is so necessary in the first decade of learning to sing 
 
 In the immediate future I'm eager to do a Marcello (*La bohème*), a Billy Budd, an Onegin and a Papageno (*The Magic Flute*). There's lots of Verdi and Wagner that I'm fantasizing about, but those will remain fantasies for the next little while.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497324028950/2017-06-12---15-16-04-E-MC-D-3767.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497324028950/2017-06-12---15-16-04-E-MC-D-3767.jpg.jpg)
 <figcaption>Karine Boucher as Susanna and Iain MacNeil as Figaro in the Ensemble Studio performance of the Canadian Opera Company’s production of *The Marriage of Figaro*, 2016. Photo: Michael Cooper.</figcaption>
 </figure>
 

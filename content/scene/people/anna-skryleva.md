@@ -12,6 +12,7 @@ website = "http://www.annaskryleva.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SkrylevaA"
+_template = "people_single"
 +++
 
 Anna SKRYLEVA - russian conductor, has lived and worked in Germany for the past 15 years. Currently engaged as principal resident conductor at The State Theatre Darmstadt.

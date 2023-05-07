@@ -7,6 +7,7 @@ publishDate = "2018-02-16T21:51:00-05:00"
 related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/merola-opera-program.md","scene/companies/san-francisco-opera.md"]
 slug = "brian-michael-moore"
 title = "Brian Michael Moore"
+_template = "people_single"
 +++
 
 Brian Michael Moore is a tenor from Cincinnati, Ohio. He completed his bachelor of music and master

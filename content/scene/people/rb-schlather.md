@@ -17,6 +17,7 @@ url = "https://twitter.com/rbschlather"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/r_b_schlather/"
+_template = "people_single"
 +++
 
 Artist and Opera director R. B. Schlather (b. 1986, Cooperstown, USA) is recognized for his innovations in the presentation of opera performance. His work is increasingly located in fine art spaces in dialogue with larger themes about Opera production, process, and access. He has been described as “having a gift for drawing our vivid performances” (New York Times), and an “ability to demolish the barriers of propriety and politeness that seem to plague much of traditional operatic experience (Opera Today).”

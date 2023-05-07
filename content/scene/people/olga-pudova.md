@@ -7,6 +7,7 @@ publishDate = "2017-09-15T21:53:00-04:00"
 related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/the-dallas-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/opernhaus-zurich.md"]
 slug = "olga-pudova"
 title = "Olga Pudova"
+_template = "people_single"
 +++
 
 The young Russian soprano, Olga Pudova, is fast becoming one of the most exciting coloratura sopranos of our age.

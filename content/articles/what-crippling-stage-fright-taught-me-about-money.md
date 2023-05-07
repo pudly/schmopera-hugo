@@ -35,7 +35,9 @@ I couldn't leave this thing that used to bring me so much joy… at least not li
 
 So. I found a new teacher and we got to work - by painstakingly building up my technique and my shattered confidence.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479221132217/2016-11-16---Stage-Fright-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479221132217/2016-11-16---Stage-Fright-1.jpg.jpg)
 </figure>
 
 **Technique is a funny thing.**

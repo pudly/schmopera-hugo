@@ -12,6 +12,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JohnBitsas"
 
+_template = "people_single"
 +++
 John Bitsas, baritone, is a recent graduate of The Boston Conservatory, where he received his Masters of Music in Opera Performance under the tutelage of Dr. Rebecca Folsom. At Boston Conservatory at Berklee, John performed the role of Guglielmo in Mozart's _Così fan tutte,_ Owen Hart in Heggie's _Dead Man Walking,_ Melisso in Handel’s _Alcina_, Herr Reich in Nicolai’s _Die lustigen Weiber von Windsor_, and covered the role of The Prophet/Larry King in Muhly’s _Dark Sisters_.
 

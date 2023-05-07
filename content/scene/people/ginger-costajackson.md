@@ -21,6 +21,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCvdtI7Vg6rpFdY1J3JYJSEA"
 
+_template = "people_single"
 +++
 Ginger Costa-Jackson is one of the most exciting and versatile artists of her generation. She has regularly performed at the world’s leading opera houses including the Metropolitan Opera, San Francisco Opera, Opéra National de Paris, La Monnaie/De Munt, and the Gran Teatre del Liceu.
 

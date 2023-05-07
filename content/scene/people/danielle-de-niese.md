@@ -16,6 +16,7 @@ url = "https://www.facebook.com/danielledeniese"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Danielledeniese"
+_template = "people_single"
 +++
 
 <p>

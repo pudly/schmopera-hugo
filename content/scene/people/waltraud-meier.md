@@ -9,6 +9,7 @@ related_companies = ["scene/companies/bayerische-staatsoper.md","scene/companies
 slug = "waltraud-meier"
 title = "Waltraud Meier"
 website = "http://www.waltraud-meier.com/"
+_template = "people_single"
 +++
 
 German mezzo-soprano Waltraud Meier was born in Würzburg. She grew up in a home full of music-making, and as early as her school and college days she already sang in five different choruses. After completing her secondary education, she initially studied English and Romance languages while taking singing lessons at the same time.

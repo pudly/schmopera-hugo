@@ -8,6 +8,7 @@ related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
 slug = "abigail-richardson-schulte"
 title = "Abigail Richardson Schulte"
 website = "http://abigailrichardson.com/"
+_template = "people_single"
 +++
 
 <p>

@@ -18,12 +18,16 @@ We found it on Tumblr, so feel free to stop taking any of it seriously right now
 
 Our satire antennae are up for this one, but regardless, it's fascinating stuff. First, there are the low-high genders:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456425222825/Tumblr-Garbage-Genderclefs.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456425222825/Tumblr-Garbage-Genderclefs.jpg.jpg)
 </figure>
 
 We have no idea, but there's more. Next up, the legato-staccato, soft-loud genders:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456425254379/Tumblr-Garbage-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456425254379/Tumblr-Garbage-2.jpg.jpg)
 </figure>
 
 "Genderpp"!! Not even "genderpianissimo".

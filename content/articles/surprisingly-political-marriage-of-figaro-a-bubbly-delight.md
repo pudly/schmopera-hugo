@@ -23,7 +23,9 @@ Thus, we go to Boston Opera Collaborative’s [recent production of _Le nozze di
 
 Of course, they opt to restore much this content as spoken dialogue, which a purist might be bothered by in combination with the recitative: however, I did not mind the separation in this production, and honestly I wouldn’t have trusted anyone who was not Mozart to create logical setting of that content anyhow.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581175921/media/2020/02/BOCFigaro2_ntbhiy.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581175921/media/2020/02/BOCFigaro2_ntbhiy.jpg)
 
 <figcaption>Jennifer Soloway (Countess) and Junhan Choi (Count) in Le nozze di Figaro, Boston Opera Collaborative, 2020. Photo: Dan Busler.</figcaption>
 
@@ -37,7 +39,9 @@ What worked considerably better was when these changes made dramatic sense, and 
 
 There is also an added episode with a pregnant village girl at the end of the third act that, on the surface, doesn’t really add anything: however, it does contribute to the chaos of the proceedings in the way that it adds to the dizzying nature of what happens with each colliding plan.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581176054/media/2020/02/BOCFigaro4_znlhuq.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581176054/media/2020/02/BOCFigaro4_znlhuq.jpg)
 
 <figcaption>Stephanie Hollenberg (Cherubino) in Le nozze di Figaro, Boston Opera Collaborative, 2020. Photo: Dan Busler.</figcaption>
 
@@ -49,7 +53,9 @@ For above all, what stands out to me the most is how little the proceedings actu
 
 Thus, at that point, all that is left is to perform the work well, and here singing in English may have transformed the whole evening. The singer-actors that dotted the stage of Longy School of Music’s concert hall were up to singing Mozart’s frequently challenging score with an eye for dramatic detail that is often lost in performances. The recitatives were quick, snappy, and full of character, and the various arias and ensemble numbers were all sung beautifully by practically everyone in the cast.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581175993/media/2020/02/BOCFigaro5_wr6hu7.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581175993/media/2020/02/BOCFigaro5_wr6hu7.jpg)
 
 <figcaption>Emily Harmon (Marcellina) and Marcus Schenck (Bartolo) in Le nozze di Figaro, Boston Opera Collaborative, 2020. Photo: Dan Busler.</figcaption>
 
@@ -57,7 +63,9 @@ Thus, at that point, all that is left is to perform the work well, and here sing
 
 And what a cast it is: I have scarcely seen Mozart so well-cast in my life, and particularly with singers who can act as well as they sing! Mitch FitzDaniel is really beginning to come into his own: while his turn as Figaro came with a few awkward inflections in the spoken dialogue, he has so much fun as the character who could probably think his way out of any situation that it rubbed off on the whole production. Carley DeFranco proved every bit his match as the equally clever Susanna, and her constant glances to the side said volumes that her crystal clear voice did not. Stephanie Hollenberg also absolutely stole the show as Cherubino, bringing a pluck to the character that makes him even more endearing than usual, and Emily Harmon also ended up stealing the show with a Marcellina that starts off rather ridiculous but ends up being the rational core of the show in a strange way. And this is to say nothing of Junhan Choi as the Count and Jennifer Soloway as the Countess: Choi’s antics were played so straight it was hard not to laugh at the way the other characters maneuvered around him, and Soloway grounded her character in the grace necessary to make her work as the moral center of the show.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581175976/media/2020/02/BOCFigaro3_iffikr.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581175976/media/2020/02/BOCFigaro3_iffikr.jpg)
 
 <figcaption>Jennifer Soloway (Countess), Junhan Choi (Count), and Carley DeFranco (Susanna) in Le nozze di Figaro, Boston Opera Collaborative, 2020. Photo: Dan Busler.</figcaption>
 

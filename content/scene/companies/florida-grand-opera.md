@@ -19,6 +19,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/FGOpera"
 
+_template = "company_single"
 +++
 Florida Grand Opera stands as the oldest performing arts organization in Florida. FGO was formed in June 1994 by the merger of Greater Miami Opera, founded in 1941, and The Opera Guild Inc. of Fort Lauderdale, founded in 1945. The Greater Miami Opera was founded by Dr. Arturo di Filippi, a voice teacher at the University of Miami. The first production, held at Miami Senior High School in 1942, was a single performance of Leoncavallo’s Pagliacci, performed in English, with Dr. di Filippi singing the role of Canio. In 1945, Dr. di Filippi appeared in a production of Il trovatore at Ft. Lauderdale Central High School, representing the first presentation of The Opera Guild, Inc.
 

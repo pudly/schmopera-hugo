@@ -15,6 +15,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ScottBelluz"
 
+_template = "people_single"
 +++
 Scott Belluz has established himself as engaging vocal artist and versatile singing actor. Praised for his 'warm, rich voice' (_La Marseillaise_) and 'bravura vocal performances' (Now Magazine) Scott brings his sensitive and committed artistry to repertoire ranging from 17th century to newly composed works.
 

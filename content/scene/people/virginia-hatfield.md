@@ -12,6 +12,7 @@ website = "http://www.virginiahatfield.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/gingerhat"
+_template = "people_single"
 +++
 
 Soprano Virginia Hatfield is known for her radiant voice across a wide variety of repertoire. A native of Campbellford, Ontario, critics have raved about Virginia’s “clear, bell-like tone” *(Opera Canada*) and “warmth and radiance combined with commanding coloratura” (*Halifax Herald*).

@@ -12,6 +12,7 @@ website = "http://www.egofilmarts.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/Atom-Egoyan/104137336288624"
+_template = "people_single"
 +++
 
 <p>

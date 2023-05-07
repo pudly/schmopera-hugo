@@ -13,6 +13,7 @@ platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/johnnyrea"
 
+_template = "people_single"
 +++
 Recipient of many awards, John Rea has been frequently commissioned and has written works in several genres: chamber music, music-theatre, electroacoustic music, and compositions for large ensemble such as orchestra, ballet, choral, and opera. Orchestras across Canada and in Europe have performed his music.
 

@@ -23,7 +23,9 @@ _El último sueño de Frida y Diego_ explores the relationship between two of 
 
 The opera was composed by Grammy Award-winning composer and pianist Gabriela Lena Frank, with librettist Nilo Cruz, who won a Pulitzer Prize in 2003 for _Anna in the Tropics_.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1664560999/media/2022/09/KarliCadel_FridaDiegoWkshp_5573_ovmh4l.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1664560999/media/2022/09/KarliCadel_FridaDiegoWkshp_5573_ovmh4l.jpg)
 
 <figcaption>Key'mon W. Murrah sings Leonardo in the orchestra workshop of El último sueño de Frida y Diego (The Last Dream of Frida and Diego), February 19, 2022. Photo by Karli Cadel.</figcaption>  
 </figure>
@@ -32,7 +34,9 @@ Frank, a multi-racial Latina, was born in Berkeley, California. As a woman, as a
 
 She came to composition early on, when she took a program at the San Francisco Conservatory of Music in 1989. There, she not only learned composition but that "It's important to be a witness," she says. "I put what I witness in culture and politics, with the environment, and with relationships between human beings into the music."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1664561059/media/2022/09/KarliCadel_FridaDiegoWkshp_5763_tdu1ff.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1664561059/media/2022/09/KarliCadel_FridaDiegoWkshp_5763_tdu1ff.jpg)
 
 <figcaption>(standing) Maria Katzarava sing Catrina in the orchestra workshop of El último sueño de Frida y Diego (The Last Dream of Frida and Diego), February 19, 2022. Photo by Karli Cadel.</figcaption>  
 </figure>
@@ -41,7 +45,9 @@ Her music is often an exploration of Latin American cultures. In _El último su
 
 "The marimba in the opera is very important," says Frank. "The marimba makes an appearance in almost every scene, used in unusual ways. Sometimes you don't even realize that it's there. It’s played very softly, it just seems like a hum. It's played with the bow, like a bass bow. It sounds like a gorgeous tone, without the use of the typical mallets. So that's a nod to the quintessential ingredient of Central American music."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1664560964/media/2022/09/KarliCadel_FridaDiegoWkshp_5550_hjxlur.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1664560964/media/2022/09/KarliCadel_FridaDiegoWkshp_5550_hjxlur.jpg)
 
 <figcaption>A scene from the orchestra workshop of El último sueño de Frida y Diego (The Last Dream of Frida and Diego), February 19, 2022. Photo by Karli Cadel.</figcaption>  
 </figure>
@@ -56,7 +62,9 @@ The marimba's sound is "very particular for Frida in the color that it brings," 
 
 Paz describes getting the role as a pinch-me moment. "Frida Kahlo was a Mexican icon, a woman, an artist, and a very courageous artist. She was a very original genius."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1664560566/media/2022/09/SDO_Paz_Guadalupe_rw6jvr.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1664560566/media/2022/09/SDO_Paz_Guadalupe_rw6jvr.jpg)
 
 <figcaption>Guadalupe Paz, mezzo-soprano, who stars as Frida Kahlo in SDO's 2022 production of _El último sueño de Frida y Diego_.</figcaption>  
 </figure>

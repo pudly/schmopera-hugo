@@ -8,6 +8,7 @@ social_media = []
 title = "Julia Kleiter"
 website = "http://www.juliakleiter.com"
 
+_template = "people_single"
 +++
 2019 Julia Kleiter gives her debut performance in the part of Donna Anna in semi-staged performances by _Don Giovanni_ on tour with Basel Chamber Orchestra in Hamburg and Paris. She wants to return to Berlin State Opera as Eva in _The Meistersinger of Nuremberg_ and to Milan for Ilia in _Idomeneo_, she will give her debut at the Royal Opera House at Covent Garden in the Part of Contessa at _Le Nozze di Figaro_.
 

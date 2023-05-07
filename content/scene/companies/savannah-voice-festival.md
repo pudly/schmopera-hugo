@@ -20,6 +20,7 @@ url = "https://twitter.com/SavannahVOICE"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/results?search_query=Savannah+VOICE+Festival"
+_template = "company_single"
 +++
 
 The Savannah VOICE Festival is a non-profit arts organization that brings classical vocal excellence to the Savannah, Georgia area through a two-week celebration of concerts, events and educational presentations during the month of August and throughout the year.

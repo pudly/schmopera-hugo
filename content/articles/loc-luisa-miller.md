@@ -21,7 +21,9 @@ With this weekend's opening of [_Luisa Miller_](https://www.lyricopera.org/produ
 
 The undisputed stars of last night's performance were the Lyric Opera Orchestra and Mazzola himself. The LOC Orchestra rarely disappoints, but they were in truly exceptional form Saturday night. From the opening whirls of the overture to the sublime stasis of the finale, the LOC Orchestra wowed with a vibrant palette of colors, virtuosic precision, and three-dimensional textures. A special shout out must be given to principal clarinetist Charlene Zimmerman for her gorgeously played solos. No doubt, Maestro Mazzola was an invigorating and inspirational presence, particularly as this is the very repertoire that established his reputation as one of today's leading interpreters of Italian bel canto. It will be exciting to see how Mazzola will continue to mold this orchestra over the coming years.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571168945/media/2019/10/SolomanHoward_QuinnKelsey_LUISAMILLER_LyricOperaofChicago_LYR191008_150_jb6s0a.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571168945/media/2019/10/SolomanHoward_QuinnKelsey_LUISAMILLER_LyricOperaofChicago_LYR191008_150_jb6s0a.jpg)
 
 <figcaption>(l-r) Soloman Howard (Wurm) and Quinn Kelsey (Miller) in Luisa Miller, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
@@ -33,7 +35,9 @@ Of course, it's true for any piece, but scores like _Luisa Miller_ benefit immen
 
 Yet, it fascinates me to recall that, by this time in his career, the thirty-six-year-old Verdi had already produced such masterful works as _Nabucco_, _Ernani_, and _Macbeth_, among others. _Luisa Miller_ marks a period of growth and experimentation for Verdi. As Maestro Mazzola himself described it in a [recent interview](/talking-with-conductors-enrique-mazzola/), it's a "study opera in which Verdi explores possibilities that he will develop over the next decades of his life."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571168957/media/2019/10/KrassimiraStoyanova_QuinnKelsey_LUISAMILLER_LyricOperaofChicago_LYR191008_154_grhpos.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571168957/media/2019/10/KrassimiraStoyanova_QuinnKelsey_LUISAMILLER_LyricOperaofChicago_LYR191008_154_grhpos.jpg)
 
 <figcaption>Krassimira Stoyanova (Luisa) and Quinn Kelsey (Miller) in Luisa Miller, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
@@ -45,7 +49,9 @@ Indeed, if _Luisa Miller_ lacks in recognizable tunes, it makes up for it with i
 
 This same sense of arrival toward the end of the opera was felt from the stage. Though simple, this production's set was visually pleasing and really placed the dramatic onus on the music and, ultimately, the singers. Designed by Michael Yeargan, the set consisted of a prominent backdrop of painted forests, their tone and shade reflecting the states of mind of the characters. During the opera's final 20 minutes, I was completely engrossed in the doomed fortunes of the main characters.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571168967/media/2019/10/KrassimiraStoyanova_JosephCalleja_LUISAMILLER_LyricOperaofChicago_nnfves.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571168967/media/2019/10/KrassimiraStoyanova_JosephCalleja_LUISAMILLER_LyricOperaofChicago_nnfves.jpg)
 
 <figcaption>Krassimira Stoyanova (Luisa) and Joseph Calleja (Rodolfo) in Luisa Miller, Lyric Opera of Chicago, 2019. Photo: Andrew Cioffi.</figcaption>
 
@@ -57,7 +63,9 @@ Singing the role of Miller, Luisa's father, was baritone and Chicago-favorite [Q
 
 When their fates finally collide at the opera's conclusion, the singers' embodiment of their characters was gripping and heart wrenching. It seemed they too underwent something of a "transition" over the course of the show. While in the first act, the singers interacted awkwardly, with little to no dramatic commitment to their movements or singing, in the final moments of the show, the principals all rose to the occasion, singing and acting with dramatic impetus that temporarily stopped time.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571168982/media/2019/10/ChristianVanHorn_KrassimiraStoyanova_QuinnKelsey_LUISAMILLER_LyricOperaofChicago_LYR191008_288_xszmad.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571168982/media/2019/10/ChristianVanHorn_KrassimiraStoyanova_QuinnKelsey_LUISAMILLER_LyricOperaofChicago_LYR191008_288_xszmad.jpg)
 
 <figcaption>(l-r) Christian Van Horn (Walter), Quinn Kelsey (Miller) and Krassimira Stoyanova (Luisa) in Luisa Miller, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
@@ -69,7 +77,9 @@ Vocal highlights of the evening came from Joseph Calleja. Despite some brief, bu
 
 Similarly captivating in his lyric moments, baritone Quinn Kelsey delivered a multi-dimensional portrayal of Luisa's father. Here’s someone who excels at volcanic vocalism and arias that erupt in anger or resentment. I still vividly recall his "Cortigiani vil razza dannata" from LOC's _Rigoletto_ two seasons ago. In this production, his beautiful Act I aria "Sacra la scelta," was a standout of the evening as were his duets with Stoyanova, who seemed to embody her character more and more as the opera progressed.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571168997/media/2019/10/AlisaKolosova_JosephCalleja_LUISAMILLER_LyricOperaofChicago_LYR191008_248_riqxwf.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571168997/media/2019/10/AlisaKolosova_JosephCalleja_LUISAMILLER_LyricOperaofChicago_LYR191008_248_riqxwf.jpg)
 
 <figcaption>Joseph Calleja (Rodolfo) and Alisa Kolosova (Federica) in Luisa Miller, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 

@@ -34,7 +34,9 @@ Though he broke up the Wagner years with other delicious roles like Baron Ochs (
 
 "The Northern European mythology, I identify with. For me, it was part of my bones," he explains. "[Wagner's operas] express the human conditon, they express joy, and everything we're terrified of. The whole of life's experience is in those operas, in the most powerful way."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489581832847/2017-03-15---Tomlinson-Wotan-Walkure.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489581832847/2017-03-15---Tomlinson-Wotan-Walkure.jpg.jpg)
 <figcaption>Sir John Tomlinson as Wotan in Wagner's *Die Walküre*.</figcaption>
 </figure>
 
@@ -58,7 +60,9 @@ He is aware of the risks of "stretch repertoire", but he's equally wary of singe
 
 "Nothing must be overdone, but at the same time, you have to be always moving on. Playing safe and singing things which are absolutely in the middle of your range, which are not developing you at all, doesn't get you anywere."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489581875182/2017-03-15---Tomlinson-Minotaur.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489581875182/2017-03-15---Tomlinson-Minotaur.jpg.jpg)
 <figcaption>Sir John Tomlinson in the title role of Harrison Birtwistle's *The Minotaur*.</figcaption>
 </figure>
 
@@ -76,7 +80,9 @@ A recent example comes in David Sanderson's [article for *The Times*](http://www
 
 "So, one has to talk it *up*, rather than talk it *down*," he reasons. Though there indeed exist problems within the industry, its champions have a responsibility to lead with the positive, especially considering most companies' mission to attract new audiences and new supporters. "If you're a potential donor thinking, 'I love opera, I want to help an opera company,' and then you read something in a newspaper where an artist or singer is slagging off a national opera company, you're not going to support that company."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489581933652/2017-03-15---Tomlinson-Bluebeard.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489581933652/2017-03-15---Tomlinson-Bluebeard.jpg.jpg)
 <figcaption>Sir John Tomlinson in the title role of Bartók's *Bluebeard's Castle*.</figcaption>
 </figure>
 
@@ -94,7 +100,9 @@ He started singing in a sort of "experimental" way, that experiment soon turning
 
 He adds with a laugh, "easier said than done."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506992435331/2017-10-02---Tomlinson-RBC.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506992435331/2017-10-02---Tomlinson-RBC.jpg.jpg)
 <figcaption>Sir John Tomlinson, after being made an Honourary Fellow at Rose Bruford College.</figcaption>
 </figure>
 

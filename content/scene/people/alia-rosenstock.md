@@ -12,6 +12,7 @@ website = "http://deanartists.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/aliasaurusrex"
+_template = "people_single"
 +++
 
 <p>

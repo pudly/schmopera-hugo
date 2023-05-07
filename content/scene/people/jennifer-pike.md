@@ -20,6 +20,7 @@ url = "https://twitter.com/JenniferPikeVLN"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/jennifer-pike-violin"
+_template = "people_single"
 +++
 
 Renowned for her unique artistry and compelling insight into music from the Baroque to the present day, Jennifer Pike has established herself as one of today’s most exciting instrumentalists. 

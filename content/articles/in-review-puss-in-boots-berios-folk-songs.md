@@ -20,7 +20,9 @@ They used Mazzoleni Concert Hall for the production, a more intimate space than 
 
 *El gato con botas* featured good singing across the board. As El Gato, Meghan had a clear, friendly sound and I could tell she enjoyed singing in Spanish. As The Miller, who is gifted El Gato in his father's will, Alvaro Vasquez Robles was a sweet, wide-eyed foil to his pet. Jocelyn Fralick was a lovely Princess; hers is a voice I hadn't heard before, and I anticipate a full, rich sound from her in the coming years. I was really impressed with Diego Catala as The King. He didn't push his voice beyond its limits, but he showed off a healthy warmth that will continue to grow. In one of the coolest roles I've heard in a while was Gabriel Sanchez-Ortega as The Ogre. He has a booming bass sound that's a little wild, but totally his own. With voices like his, settling can take a while; I'm happy to be patient with Sanchez-Ortega, since I think there's a special sound in there.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447886517438/2015-11-14---GGSOperaPussinBoots.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447886517438/2015-11-14---GGSOperaPussinBoots.jpg.jpg)
 <figcaption>The cast of GGS Opera's production of *Puss in Boots*. Photo by Stuart Lowe.</figcaption>
 </figure>
 

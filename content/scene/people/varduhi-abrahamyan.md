@@ -12,6 +12,7 @@ title = "Varduhi Abrahamyan"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Varduhi_Mezzo"
+_template = "people_single"
 +++
 
 Born in a family of musicians, Varduhi Abrahamyan completed her studies at the Conservatory of Yerevan.

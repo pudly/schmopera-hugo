@@ -31,7 +31,9 @@ And in the long-term: I know it's a bit early to think about January 2022, but i
 
 Tickets for the Royal Conservatory of Music's annual contemporary music festival, [21C](https://www.rcmusic.com/performance/21c-music-festival?_ga=2.20016318.706228005.1630957371-1404247250.1630957371), go on sale to the general public on **September 10, 2021** - that's today! And now that in-person concert tickets are more coveted than ever, it's important to note that this season's 21C line-up, running January-February 2022, is not to be missed.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631280236/media/2021/09/21C_collage_h5ytit.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1631280236/media/2021/09/21C_collage_h5ytit.jpg)
 
 <figcaption>Clockwise from top left: the Kronos Quartet; mezzo-soprano Blythe Gaissert; bass-baritone Kelly Markgraf.</figcaption>
 

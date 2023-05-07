@@ -15,6 +15,7 @@ url = "https://www.facebook.com/Carlos-Enrique-Santelli-46498601314/"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/carlosesantelli/"
+_template = "people_single"
 +++
 
 Carlos Enrique Santelli, a native of Orlando, Florida, holds degrees from the University of Michigan and the Oberlin Conservatory of Music where he studied with Freda Herseth, Salvatore Champagne and Howard Lubin. He has performed numerous lead roles with the University of Michigan and Oberlin Conservatory of Music Opera Theaters. 

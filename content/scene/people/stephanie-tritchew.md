@@ -11,6 +11,7 @@ title = "Stephanie Tritchew"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/StephT_mezzo"
+_template = "people_single"
 +++
 
 Mezzo-soprano Stephanie Tritchew is a recent graduate of the Emerging Artist program at Calgary Opera. She holds an Opera Diploma from the University of Toronto Opera School where she studied under the tutelage of Wendy Nielsen, as well as a BMus and MMus from the University of Western Ontario. 

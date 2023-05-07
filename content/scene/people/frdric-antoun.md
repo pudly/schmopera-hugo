@@ -7,6 +7,7 @@ publishDate = "2015-12-30T15:58:00-05:00"
 related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/lopra-de-montral.md","scene/companies/royal-opera-house.md","scene/companies/la-monnaie.md","scene/companies/florida-grand-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/the-metropolitan-opera.md"]
 slug = "frdric-antoun"
 title = "Frédéric Antoun"
+_template = "people_single"
 +++
 
 A native of Quebec, Frédéric Antoun studied singing at the prestigious Curtis Institute of Music, Philadelphia.

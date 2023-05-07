@@ -22,7 +22,9 @@ This takes a lot of hard work and many hours of rehearsal time, but for me, the 
 
 My job is also to inspire the performers and develop their feeling and understanding of the music to a point where they feel that it comes from within. If there is a good level of understanding and a connection between a singer and the conductor, then there really is no need for them to watch the conductor. Everybody reads each other without actually needing to look or speak, and that’s what the ideal is, and that is what I look for. Ultimately, the goal is to ensure that the music is being expressed in a clear and interesting way. This feeling creates a sense of freedom, and a sense of everybody being on the same journey and expressing things together as a team.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527730100727/Re%CC%81pe%CC%81titionsBorisGodounov17-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527730100727/Re%CC%81pe%CC%81titionsBorisGodounov17-2.jpg.jpg)
 <figcaption>Rehearsal for *Boris Godunov*, Opéra de Paris. Photo: Elena Bauer/OnP.</figcaption>
 </figure>
 
@@ -38,7 +40,9 @@ The essential role of the conductor is to interpret the music being performed, b
 
 Opera is slightly different because there's so much going on onstage. When you're dealing with complicated staging situations you sometimes have to approach it in a different way, and some situations are out of your hands as a conductor. You have to trust your singers, building that relationship as I mentioned before, but I think the underlying thing is that you need to inspire the musicians and create a powerful performance. With opera, you are also dealing with the director, and that is two people having a lot of input in an equal manner. There is an opinion that it is very different to conduct opera or symphonic programmes, but I disagree! You have to be clear with what you want from the performers, know your score inside out, and know exactly what you want to say with the music. This is the same whether you're doing a Mozart symphony or a Wagner opera.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527730087002/Re%CC%81pe%CC%81titionsBorisGodounov17.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527730087002/Re%CC%81pe%CC%81titionsBorisGodounov17.jpg.jpg)
 <figcaption>Rehearsal for *Boris Godunov*, Opéra de Paris. Photo: Elena Bauer/OnP.</figcaption>
 </figure>
 

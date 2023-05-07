@@ -18,7 +18,9 @@ Ms. Karg reassured the audience that she had recently performed the two Debussy 
  
 Underdog status can work to a singer's advantage. While the audience warmed to the soprano's timbre – the evening began with Debussy's *Cinq poèmes de Charles Baudelaire* (later she performed the composer's *Ariettes oubliées*) – she and Mr. Lepper became acquainted with each other.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542904389973/liederabend_christiane_karg_simon_lepperbarbara_aumueller.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542904389973/liederabend_christiane_karg_simon_lepperbarbara_aumueller.jpg.jpg)
 <figcaption>Christiane Karg (soprano) & Simon Lepper Ruf (piano) in recital with the Frankfurter Liederabend, 2018. Photo: Barbara Aumüller.</figcaption>
 </figure>
 
@@ -34,7 +36,9 @@ Erik Satie's songs, by contrast, do not.
  
 Francophones revere Satie's songs, but a non-French speaking public is left cold by them. The rhythmic and harmonic workings of his songs are mere foundations, stable structures to support text. The composer's signature cleverness and wit are lost in translation. No wonder Satie's catalogue is full of rarely performed vocal relics that once had currency, like Socrate or frankly, most of his songs besides "Je te veux", with its seductive cabaret tune. The three works by Satie on the program withered between the robust Debussy cycles.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542904400865/2liederabend_christiane_karg_simon_lepper_barbara_aumueller.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542904400865/2liederabend_christiane_karg_simon_lepper_barbara_aumueller.jpg.jpg)
 <figcaption>Christiane Karg (soprano) & Simon Lepper Ruf (piano) in recital with the Frankfurter Liederabend, 2018. Photo: Barbara Aumüller.</figcaption>
 </figure>
 
@@ -44,7 +48,9 @@ Mr. Lepper assumed an air of stoic reverence while Ms. Karg's throat seemed to c
  
 Listening to Wagner is like watching a Woody Allen movie or old Cosby standup; the artistic object is tainted by its creator's [detestable past](https://www.dw.com/en/the-hateful-side-of-wagners-musical-genius/a-16850818). That said, people enjoy these songs. Wagner wrote them concurrently with *Tristan und Isolde* and the same motif from the opera's ground breaking prelude appears in the introduction to the final song, "Träume". The composer said about this collection, "I have not written anything better."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542904414260/liederabend_christiane_karg__simon_lepper_barbara_aumueller_02.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542904414260/liederabend_christiane_karg__simon_lepper_barbara_aumueller_02.jpg.jpg)
 <figcaption>Christiane Karg (soprano) & Simon Lepper Ruf (piano) in recital with the Frankfurter Liederabend, 2018. Photo: Barbara Aumüller.</figcaption>
 </figure>
  

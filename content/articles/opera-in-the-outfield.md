@@ -19,7 +19,9 @@ youtube_url = ""
 +++
 [Minnesota Opera](/scene/companies/minnesota-opera/) began their fall 2020 virtual season with [Opera in the Outfield](https://mnopera.org/season/fall-season/opera-in-the-outfield/) at CHS Park in St. Paul. This is their only in-person experience in the fall, and it felt good to be around fellow opera fans. The seventy-five-minute presentation featured current resident artists singing selections, over a slideshow of production photos from past seasons. During the event I became a little confused on whether the singers in the photos were singing; I was hoping for more new video content, as there was only one recital shot of resident artist [Mia Athey](https://mnopera.org/biography/mia-athey/) singing a selection from the new opera _Blue_, which was set to be produced at Minnesota Opera in March with singers who originated roles. (_Blue_ is set to play at the Washington National Opera in July 2021.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601746636/media/2020/10/MO-OperaintheOutfield2_jkm93o.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1601746636/media/2020/10/MO-OperaintheOutfield2_jkm93o.jpg)
 
 <figcaption>Minnesota Opera's Opera in the Outfield. Photo courtesy of Minnesota Opera.</figcaption>
 
@@ -29,7 +31,9 @@ youtube_url = ""
 
 It felt weird being surrounded by opera lovers (socially distanced, of course) just a few days after the Metropolitan Opera essentially "cancelled" live opera in North America until late September 2021 (or maybe winter of 2022?). Things haven't been super well in Europe, but I sincerely admire the attempts. As many others have pointed out, the Met's decision will have trickle-down effects for artistic administrators, orchestra and choir members, stage staff, and costume designers - the list could go on and on. I am surely not qualified to speculate where this will lead the industry in the country.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601746674/media/2020/10/MO-OperaintheOutfield1_pyd9ps.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1601746674/media/2020/10/MO-OperaintheOutfield1_pyd9ps.jpg)
 
 <figcaption>Minnesota Opera's Opera in the Outfield. Photo courtesy of Minnesota Opera.</figcaption>
 

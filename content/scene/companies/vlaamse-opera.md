@@ -20,6 +20,7 @@ url = "https://twitter.com/operavlaanderen"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/vlaamseopera"
+_template = "company_single"
 +++
 
 The Vlaamse Opera (Flemish Opera) is directed by Aviel Cahn, and operates in two different opera houses in two Flemish cities, the Vlaamse Opera Antwerpen and the Vlaamse Opera Ghent. 

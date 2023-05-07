@@ -20,6 +20,7 @@ url = "https://twitter.com/MaxCavalletti"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/maxcavalletti/"
+_template = "people_single"
 +++
 
 With his rich, robust baritone voice and compelling acting Massimo Cavalletti has quickly established himself on the stages of the most prestigious opera houses and festivals worldwide, including the Metropolitan Opera New York, the Teatro alla Scala, the Royal Opera House Covent Garden, the Vienna State Opera, the Zurich Opera House, and the Salzburg Festival.

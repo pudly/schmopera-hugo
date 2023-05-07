@@ -32,7 +32,9 @@ I used to think that good singing meant free singing, but now I know that's not 
 
 I feel like I'm the worst person ever to give advice to young singers because I never followed the rules. I've never been someone who can toe the line, and there is no way I would have lasted one year in this business if I had done what was expected of me. It's probably a bit of dangerous advice, but selfishly, I'd like to see young singers push the limits a little more. Sing the aria you love that no one thinks you should sing, tell your director that you don't buy the staging they are giving you, give up the big YAP to sing the role of your dreams at a small company. Make the choice that will fulfill you spiritually. That's not to say you should ever be disrespectful or a bad colleague. That's the last thing this business needs. I just think it's very dangerous when young singers start to feel like they have to be pleasers. It will homogenize opera if everyone does what they are supposed to do. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465665778982/2016-06-10---SDM_Red_Dress_Performance_Kristin_Hoebermann.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465665778982/2016-06-10---SDM_Red_Dress_Performance_Kristin_Hoebermann.jpg.jpg)
 <figcaption>Photo by Kristin Hoebermann.</figcaption>
 </figure>
 

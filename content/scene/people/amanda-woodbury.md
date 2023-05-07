@@ -12,6 +12,7 @@ website = "http://www.amandawoodbury.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/amandaliciouswoodbury/"
+_template = "people_single"
 +++
 
 Soprano Amanda Woodbury is an alumna of the Domingo-Colburn-Stein Young Artist Program.

@@ -9,6 +9,7 @@ slug = "matthew-scollin"
 title = "Matthew Scollin"
 website = "http://www.matthewscollin.com/"
 
+_template = "people_single"
 +++
 Hailed by the Pittsburgh-Tribune Review as a “tour de force expressed with a powerful and resonant voice,” bass-baritone Matthew Scollin returns to the Opéra National de Bordeaux as Goffredo in *Il pirata* in the 2017-18 season.  Stateside, he makes debuts with both Washington National Opera and Los Angeles Opera as Martin and James in *Candide*; returns to Pittsburgh Opera as the Sacristan in *Tosca*; and sings Montolino in Bellini’s *La straniera* with Washington Concert Opera. Last season, he made his international debut with the Théâtre du Capitole, followed by his first performances with Opéra National de Bordeaux, as Martin and James in *Candide*. He sang the Jeff in Beck’s *The Long Walk* with Utah Opera, the Sprecher in *Die Zauberflöte* with Madison Opera, returned to Pittsburgh Opera for both Dottore Grenvil in *La traviata* and the Second Soldier in *Salome*, and reprised Pistola in *Falstaff* with Resonance Works Pittsburgh. On the concert stage, he joined the Northeastern Pennsylvania Philharmonic for Mozart’s Requiem and the Westmoreland Symphony for Beethoven’s Symphony No. 9.
 

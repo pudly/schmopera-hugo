@@ -21,7 +21,9 @@ John Goodman? Maybe, but he doesn't really have that Italian flair. Jack Black c
 
 Weirdly, if we're just going for someone to play young Pavarotti, Dan Levy may just be the man for the job.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496409903193/dan_schmitt_creek.jpg.jpg)<figcaption>Dan Levy. Photo via out.com.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496409903193/dan_schmitt_creek.jpg.jpg)<figcaption>Dan Levy. Photo via out.com.</figcaption>
 </figure>
 
 Anyway. We're excited about the news. 

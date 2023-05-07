@@ -20,6 +20,7 @@ url = "https://twitter.com/auroraorchestra"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/AuroraOrchestra"
+_template = "company_single"
 +++
 
 Aurora Orchestra aspires to be the world’s most creative orchestra, combining the highest quality of performance with an exceptional breadth of artistic horizons and a trailblazing approach to concert presentation. It seeks to reach new audiences through a uniquely outward-looking and collaborative approach to orchestral music-making, built on an unparalleled range of creative partnerships and a consciously omnivorous approach to repertoire.  Since its launch in 2005, it has worked with a roster of artists ranging from Ian Bostridge, Brett Dean, Anthony Marwood and Sarah Connolly to Edmund de Waal, Wayne McGregor and Michael Clark.

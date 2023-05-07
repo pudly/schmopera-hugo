@@ -15,6 +15,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Bigpinkbutton"
 
+_template = "people_single"
 +++
 Rebecca Bottone was born in Bedfordshire and is a graduate of the Royal Academy of Music. 
 

@@ -37,5 +37,7 @@ title = "Don&#039;t miss: Viva Verdi!"
 
 **Stacie and Michael**: Human.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454429152398/VVerdi-Poster.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454429152398/VVerdi-Poster.jpg.jpg)
 </figure>

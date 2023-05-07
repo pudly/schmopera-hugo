@@ -17,6 +17,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/operuno1/"
 
+_template = "people_single"
 +++
 British Columbia baritone **Justin Welsh**’s career highlights include appearances as Crown in _Porgy and Bess_ with Kent Nagano conducting l’Orchestre symphonique de Montréal and Queegueg in the Canadian premiere of _Moby Dick_ for Calgary Opera, in which he garnered praise from the Calgary Herald’s Kenneth Delong, who noted “Justin Welsh brings a finely drawn vocal technique to the part, his voice beautiful throughout the register. Dramatically, too, Welsh’s role was exceptionally well-realized, a major accomplishment as a singing actor.” Justin has also sung Marcello in _La bohème_ for l’Opéra de Montréal and Papageno in _The Magic Flute_ and Figaro in _Le nozze di Figaro_ for Pacific Opera Victoria. In the realm of newer opera, he has made notable appearances in Vivier’s _Musik für das Ende_ produced by Soundstreams, _Flight_ for Pacific Opera Victoria, and Against the Grain Theatre’s on-going project, _Bound_.
 

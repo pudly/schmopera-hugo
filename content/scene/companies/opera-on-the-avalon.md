@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Opera-on-the-Avalon/118240924882531?fref=t
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/operaavalon"
+_template = "company_single"
 +++
 
 <p>

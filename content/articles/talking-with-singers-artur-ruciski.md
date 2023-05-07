@@ -38,7 +38,9 @@ We discussed all things opera: the career, the "life," the work, the music. Natu
 
 **AR**: I've been having a wonderful time in Chicago and at the Lyric with this production. I feel very comfortable here and I'm grateful for the public's warm reception of me.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544317306700/ArturRucinnski_ILTROVATORE_LyricOperaofChicago_LYR181114_074.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544317306700/ArturRucinnski_ILTROVATORE_LyricOperaofChicago_LYR181114_074.jpg.jpg)
 <figcaption>Artur Ruciński (Conte di Luna) in *Il trovatore*, Lyric Opera of Chicago, 2018. Photo: Todd Rosenberg.</figcaption>
 </figure>
  
@@ -56,7 +58,9 @@ I feel that, unfortunately, there seems to be a tendency these days for certain 
 
 **AR**: There is always something new to be learned and discovered in these great works. It's a genuine pleasure for me to reopen a score after a period of time. I don't think I could ever get tired of certain roles. Certain roles fascinate me no end. And the ones that suit me especially, that sit in my voice well, those give me endless satisfaction. One such role is the Count di Luna. Whenever stepping into a new production, I always try to add a new layer to the character, both dramatically and musically, particularly those moments and nuances that bring out the character's inner complexities. Working with many different conductors and directors, one learns constantly. I mean, in a score like *Trovatore*, let's just say it: Verdi was a genius and there are great depths to be explored. It's one of the best parts of this career.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544317357669/Artur6_by-Andrzej-Swietlik-1000x826.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544317357669/Artur6_by-Andrzej-Swietlik-1000x826.jpg.jpg)
 <figcaption>Artur Ruciński, baritone. Photo: Andrzej Swietlik.</figcaption>
 </figure>
  

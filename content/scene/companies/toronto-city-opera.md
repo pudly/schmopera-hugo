@@ -15,6 +15,7 @@ url = "https://www.facebook.com/pages/Toronto-City-Opera/539354972838936?fref=ts
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/TorontoOpera"
+_template = "company_single"
 +++
 
 <p>

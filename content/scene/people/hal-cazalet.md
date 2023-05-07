@@ -7,6 +7,7 @@ publishDate = "2016-10-27T13:48:00+01:00"
 related_companies = ["scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md","scene/companies/english-national-opera.md","scene/companies/opera-holland-park.md","scene/companies/opera-north.md"]
 slug = "hal-cazalet"
 title = "Hal Cazalet"
+_template = "people_single"
 +++
 
 Hal Cazalet divides his time between the United States and Europe performing in Opera, Musical Theatre and Cabaret. After training at the Guildhall School of Music and Drama he went to the Juilliard Opera Centre, New York where he won the Shoshana Foundation Award.

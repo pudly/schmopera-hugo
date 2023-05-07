@@ -8,6 +8,7 @@ social_media = []
 title = "Allison Cociani"
 website = ""
 
+_template = "people_single"
 +++
 Allison Cociani was born in Vancouver and grew up in the Okanagan Valley, where she studied piano and then voice with her early mentor Aurora Hamill. At the Victoria Conservatory of Music under Karen Smith, she completed a teaching and performing diploma. Allison moved to Italy to perform and study, working on Italian repertoire and language with baritone Nicolo Ceriani. In concert Allison has performed in Ancona, Pesaro, Trieste, Montreal, Vancouver and other cities across British Columbia. In 2005 she was awarded second place in the Canadian National Voice Competition. 
 

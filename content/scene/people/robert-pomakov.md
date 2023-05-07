@@ -9,6 +9,7 @@ related_companies = ["scene/companies/canadian-opera-company.md", "scene/compani
 slug = "robert-pomakov"
 title = "Robert Pomakov"
 
+_template = "people_single"
 +++
 In the 2018-2019 season, Canadian bass Robert Pomakov will make role debuts Nourabad in _Les Pêcheurs de Perles_ at Santa Fe Opera, and Méphistophélès in _Faust_ for his house debut with Vancouver Opera. He will return to Oper Frankfurt to sing King René in a new production of _Iolanta_ directed by Lydia Steier and to the Metropolitan Opera to reprise the role of Monterone in _Rigoletto_. Concert performances of the 2018-2019 season will include his debut with the Victoria Symphony, singing König Heinrich in Act III of _Lohengrin_.
 

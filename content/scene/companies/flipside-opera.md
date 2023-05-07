@@ -20,6 +20,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/flipsideopera/"
 
+_template = "company_single"
 +++
 Flipside Opera is a non-profit organization dedicated to the performance of opera in Manitoba - up close and personal. We aim to offer a new perspective on classical music, to captivate the modern audience, and to provide performance opportunities to Manitoban artists.
 

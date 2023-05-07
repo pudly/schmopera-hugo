@@ -19,5 +19,7 @@ I don't wear polish that much. When I do, I get about 6 hours of of interrupted,
 
 I don't think I'm particularly clumsy with my hands, and it's easy to turn to my beloved piano for the blame. I swear, I could play Schubert's *Die Doppelgänger* and still get a chip in my nail polish. Pianists who read this will think, *I don't know why you even try, you should know better than that.* And you're right. But I mean, how cute are these?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433879411837/Ladybird%2BNail%2BArt.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433879411837/Ladybird%2BNail%2BArt.jpg.jpg)
 </figure>

@@ -25,7 +25,7 @@ For a year now, I’ve been doing the musically inspired floral bouquets and I s
 
 The local flowers movement, also known as Slow Flowers, is revolutionizing the domestic flower industry. Currently about 80% of our flowers in the US are imported. The worst part is many of these flowers, being transported by planes, are sprayed with noxious chemicals that unsuspecting customers ingest when smelling and touching these flowers. There is also a hidden history of these big flower companies stealing precious water resources from small villages. It’s a practice that needs to be changed through education and believe me, when someone sees and smells the difference of a locally grown bouquet of blooms from the farm down the lane, there’s no turning back.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457433266800/2016-03-08%20-%20Zerlina%20bouquet.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457433266800/2016-03-08%20-%20Zerlina%20bouquet.jpg.jpg)
 <figcaption>The "Zerlina bouquet". Photo by Jessica Sue Layton.</figcaption>
 </figure>
 

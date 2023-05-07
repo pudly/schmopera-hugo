@@ -16,6 +16,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/conopera"
 
+_template = "company_single"
 +++
 ### About CCO
 

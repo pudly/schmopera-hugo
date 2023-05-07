@@ -13,6 +13,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/nathankeoughan"
 
+_template = "people_single"
 +++
 Baritone Nathan Keoughan is a rising star to watch, with a budding international career already recognizing him as a dynamic singing actor. Praised for his “booming, rich voice”, Keoughan has been lauded for his “charismatic, frightening, and empathetic” performances (Broadway World). 
 

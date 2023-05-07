@@ -24,6 +24,7 @@ url = "https://instagram.com/ccityopera/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/centralcityopera"
+_template = "company_single"
 +++
 
 ## ABOUT CENTRAL CITY OPERA

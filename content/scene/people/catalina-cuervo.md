@@ -20,6 +20,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/catalinacuervos/"
 
+_template = "people_single"
 +++
 Known as the "Fiery Soprano", Colombian born Catalina Cuervo holds the distinction of having performed the most productions of Piazzolla's _Maria de Buenos Aires_ in the world in the history of the opera.
 

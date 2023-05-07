@@ -18,7 +18,9 @@ If you saw the movie _Amadeus_, you chuckled as director Miloš Forman drew a cl
 
 Since you're likely more familiar with her claw-baring aria, we'll treat you to her Act I aria, where she's extra maternal and maybe even a bit flirty with her daughter's would-be boyfriend:
 
-<figure data-type="video">{{% md %}}<iframe width="1010" height="673" src="https://www.youtube.com/embed/IkA65PLEdac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1010" height="673" src="https://www.youtube.com/embed/IkA65PLEdac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -28,9 +30,11 @@ They say women are biologically hard-wired to love their kids, but the writers o
 
 This is the first time we meet the formidable woman, and in Strauss' opera, Klyemnaestra has a knack for rolling out every abhorrent method of passive-aggressivity in one condensed scene:
 
-<figure data-type="video">{{% md %}}
+<figure data-type="video">
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/JejBeGC4hXg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>{{% /md %}}
+
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/JejBeGC4hXg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 </figure>
 
@@ -40,9 +44,11 @@ Technically, Kostelnička Buryjovka is Jenůfa's stepmother, but she still has a
 
 The story ends up alright, considering; Kostelnička admits to the crime and goes to jail, but jeez. She kills a baby.
 
-<figure data-type="video">{{% md %}}
+<figure data-type="video">
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/DFbRCiChA1g?start=3962" frameborder="0" allowfullscreen></iframe>{{% /md %}}
+
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/DFbRCiChA1g?start=3962" frameborder="0" allowfullscreen></iframe>
 
 </figure>
 
@@ -52,9 +58,11 @@ On some days, Mutter Gertrud seems like a mean old lady who doesn't like her chi
 
 Also, she feels bad about yelling at her kids, she just doesn't tell _them_ that.
 
-<figure data-type="video">{{% md %}}
+<figure data-type="video">
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/xKXEVW4udvc?start=662" frameborder="0" allowfullscreen></iframe>{{% /md %}}
+
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/xKXEVW4udvc?start=662" frameborder="0" allowfullscreen></iframe>
 </figure>
 
 ## Azucena in _Il trovatore_
@@ -65,9 +73,11 @@ Azucena ends up raising Manrico, the younger of the Count's sons, and doesn't te
 
 Insanity! But it makes for great drama, in particular this scene between Azucena and Manrico, when she tells him about his parentage, and her complicated relationship with fire.
 
-<figure data-type="video">{{% md %}}
+<figure data-type="video">
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/4pb1L8_zrm8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figcaption>{{% /md %}}
+
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/4pb1L8_zrm8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figcaption>
 
 </figure>
 

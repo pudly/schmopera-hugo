@@ -18,7 +18,9 @@ I took a break from straight-up opera last night, and headed to Roy Thomson Hall
 
 The TSO started off with the timelessly sexy *Dance of the Seven Veils* from Strauss' *Salome*. It was neat to see the orchestra do the dancing, a change from the traditional sight of one troubled soprano seducing her stepfather. I wondered if maestro Michael Sanderling took the opportunity, *senza* dancer, to lead a subtler, gentler version of this loaded scene; it was subdued for dance music, but no one sacrificed fire when it counted. My concert date was my lovely fiancé, who was new to much of this music; he leaned in during the applause to tell me, "that was pretty badass." I concurred.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447437022581/2015-11-13---SanderlingTSO.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447437022581/2015-11-13---SanderlingTSO.jpg.jpg)
 <figcaption>Michael Sanderling conducts the Toronto Symphony Orchestra. Photo by Malcolm Cook.</figcaption>
 </figure>
 

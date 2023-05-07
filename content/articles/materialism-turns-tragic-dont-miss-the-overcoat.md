@@ -28,7 +28,9 @@ With a name like Akakiy Akakiyevich - a fabricated Ukrainian name with scatologi
 
 The role of Akakiy is certainly an exaggeration, a caricature of men and women with fluctuating self-worth, yet his story is one that resonates with reality. It may sound like hyperbole, but it's certainly relatable to put unreasonable expectations onto our material possessions. "This coat gives him an importance," says tenor Asitha Tennekoon, who sings The Manager. "This coat raises his status in the eyes of his colleagues."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521410037511/SirettTennekoon.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521410037511/SirettTennekoon.jpg.jpg)
 <figcaption>Geoffrey Sirett (left) and Asitha Tennekoon, both singing in the world premiere production of Morris Panych and James Rolfe's *The Overcoat*, 2018.</figcaption>
 </figure>
 

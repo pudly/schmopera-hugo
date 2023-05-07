@@ -25,6 +25,7 @@ url = "https://www.instagram.com/anushhovhannisyan/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UC4P2RVGeplJ0CyvzQ42y-Hg"
+_template = "people_single"
 +++
 
 Selected to represent Armenia at BBC Cardiff Singer of the World 2017, Winner of First and Public Prizes, as well as a test Deutsche Grammophon recording contract, at the 2016 Stella Maris Competition, of one of the three prizes, a recital at the 2018 Gstaad Music Festival, at the 2016 Concours international de Bel Canto Vincenzo Bellini. and of the 2014 Concours Suisse Ernst Haefliger Competition, Armenian soprano Anush Hovhannisyan was a member of the Jette Parker Young Artists Programme 2013-2015. In addition to appearing in a variety of roles on the main stage, she also sang the soprano solos in *Gloria* for the Royal Ballet and Verdi Requiem for the Royal Opera House’s Learning and Participation department on tour in France. Since leaving the programme, she has sung Lady in Waiting *Macbeth* for the Royal Opera’s 2015 tour to Japan.

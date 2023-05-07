@@ -18,6 +18,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/melodysoprano"
 
+_template = "people_single"
 +++
 Soprano Melody Moore is enjoying a thriving career on the world’s leading stages, prompting _Opera News_ to label her “a revelation,” and of her recent sold-out appearance at Carnegie Hall to rave, “As I left the auditorium, I could only think: more of Moore, please.” The current season marks the release of her first solo album entitled _An American Song Album_ with pianist Bradley Moore on Pentatone Records.
 

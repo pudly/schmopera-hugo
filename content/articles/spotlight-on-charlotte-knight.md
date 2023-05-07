@@ -40,7 +40,9 @@ And what should they do less of? Stop comparing yourself to others. Just stop. C
 
 Stay focused on your own journey and you will get to where you are meant to be. Oh, and enjoy the journey.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434589085697/CharlotteKnight.png)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434589085697/CharlotteKnight.png)
 <figcaption>Soprano Charlotte Knight. Photo by Tishan Baldeo/Miriam Baker, designer.</figcaption>
 </figure>
 

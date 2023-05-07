@@ -8,6 +8,7 @@ related_companies = ["scene/companies/la-monnaie.md"]
 slug = "albane-carrere"
 title = "Albane Carrère"
 website = "http://albane-carrere.com/en/index.html"
+_template = "people_single"
 +++
 
 This season, Albane Carrère will sing Cunégonde's part in Offenbach's *Le Roi Carotte* at the Lille opera-house, Alisa's part in *Lucia di Lammermoor* at the Bordeaux opera-house and Clotilde's part at the Rouen opera-house as well as at the Mascatte opera-house. She will sing again Donna's title rôle in Peter Eötvos's *Senza sangue* and under his direction in London. She will be Marguerite in *La damnation de Faust* with *Miroirs étendus*, and she will have a Schubert's record brought out with original arrangements by Jean-luc Fafchamps, with the Alfama quartet. She will also be heard in various concerts, including some which will be recorded during a round with the "Contraste" ensemble in Pergolese's *Stabat Mater*. 

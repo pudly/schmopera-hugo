@@ -36,7 +36,9 @@ Act Two is set in the US State Department when Kang met Roosevelt. This meeting 
 
 Act Three leaps to the Cultural Revolution when Tongbi was on her death bed, and her frightened daughter, hoping against hope that she could survive as a Kang descendent at a time when the surrounding political calamity had been inaugurated by a Criticize Kang campaign.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494883760715/2017-05-14---Datong.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494883760715/2017-05-14---Datong.jpg.jpg)
 <figcaption>An image from *Datong: The Chinese Utopia*. Photo by Yankov Wong, courtesy of Hong Kong Arts Festival Society Limited.</figcaption>
 </figure>
 

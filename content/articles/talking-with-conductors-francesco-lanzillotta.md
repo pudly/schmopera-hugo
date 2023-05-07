@@ -31,7 +31,9 @@ I don't think it is so different. Taking care of details such as searching for t
 
 Of course in opera a conductor must understand what kind of voices he has and find a solution if his previous ideas don’t work so well with them. He should be resilient.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569349739/media/2019/09/FrancescoLanzillotta-ManuelaGiusto_wxzsfy.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1569349739/media/2019/09/FrancescoLanzillotta-ManuelaGiusto_wxzsfy.jpg)
 
 <figcaption>Francesco Lanzillotta, conductor. Photo: Manuela Giusto.</figcaption>
 

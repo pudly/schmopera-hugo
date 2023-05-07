@@ -21,7 +21,9 @@ Now out on operabox.tv is [Boston Lyric Opera](/scene/companies/boston-lyric-ope
 
 The trailer for this digital production is out now, and it looks like a beautiful take on this piece:
 
-<figure data-type="video">{{% md %}}<iframe width="997" height="561" src="https://www.youtube.com/embed/_TA8hCUnXMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="997" height="561" src="https://www.youtube.com/embed/_TA8hCUnXMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 

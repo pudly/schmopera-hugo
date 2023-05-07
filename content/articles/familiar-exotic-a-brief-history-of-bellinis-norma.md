@@ -22,7 +22,9 @@ Bellini's 1829 *Zaira* was, comparatively, a cool reception in Parma and in Flor
 
 1831 first saw the Milan premiere of *La sonnambula* in March, and *Norma* was on the Scala stage by December of the same year. The libretto by Romani - also the librettist for Rossini's *Il turco in Italia*, Donizetti's *Anna Bolena*, and Bellini's *I Capuleti e i Montecchi* and *La sonnambula* - was inspired by the play by Alexandre Soumet, *Norma ou l'infanticide*. Bellini had cast Giuditta Pasta as Norma, who had had recent success as Amina in *La sonnambula*, Domenico Donzelli as Pollione, who had earned fame for himself with Rossini's *Otello*, and Giulia Grisi as Adalgisa, who was Pasta's sister (a perfectly cute detail).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472132122183/2016-08-26---Giuditta-Pasta.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472132122183/2016-08-26---Giuditta-Pasta.jpg.jpg)
 <figcaption>Giuditta Pasta, on the poster for the 1831 premiere of *Norma* at La Scala.</figcaption>
 </figure>
 

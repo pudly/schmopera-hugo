@@ -27,7 +27,9 @@ In my admin days, the "brand" discussion was always followed by the obsessive fo
 
 The same thinking applies when prepping myself to pitch completed, current, and dreamed - about opera projects. With these pitches, I throw things against the wall in hopes that either they will stick or result in a "positive rejection" (a pass on the project at hand, but an expressed interest in a potential future collaboration).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498405930561/PesciInTweeds.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498405930561/PesciInTweeds.jpg.jpg)
 <figcaption>Frank Pesci in a tweed jacket inside Bass Hall for a performance by the Ft. Worth Opera.</figcaption>
 </figure>
 

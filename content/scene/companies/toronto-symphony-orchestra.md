@@ -16,6 +16,7 @@ url = "https://www.facebook.com/torontosymphonyorchestra?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/TorontoSymphony"
+_template = "company_single"
 +++
 
 <p>

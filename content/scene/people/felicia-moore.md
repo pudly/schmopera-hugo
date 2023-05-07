@@ -28,6 +28,7 @@ url = "https://www.youtube.com/channel/UCl54ObtEWzxZWdonpJ9gzug"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/felicialm"
+_template = "people_single"
 +++
 
 Though in the early stages of her career, American soprano Felicia Moore is being recognized as a powerful and innovative emerging artist. Ms. Moore has already gained recognition through competitions and her work in various houses in the United States. She is currently an Artist Diploma in Opera Studies candidate at The Juilliard School, and was recently named one of the winners of The Sullivan Foundation. This season began with Ms. Moore as Mrs. Grose in Britten's *The Turn of the Screw* at Opera Columbus in a new Stephen Wadsworth production. Her season at Juilliard includes workshopping selections of Tchaikovsky's *Eugene Onegin* with Maestro Alan Gilbert and the Juilliard Orchestra Lab and performing in Juilliard's Liederabend. 

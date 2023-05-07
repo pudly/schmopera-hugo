@@ -27,7 +27,9 @@ To answer the second part of your question first, I really believe that everythi
 
 As for the first part, I'm still working on my languages now and wish I had done more formal study when I had the time to focus on it.  I think the benefits of being able to sight-read and play through material for yourself at the piano can sometimes be underestimated.  If for nothing else, it's great fun to sing through a lot of repertoire when choosing recital programmes to see what really fits you rather than relying on recordings. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547702810/2017-09-04---Martha-Jones-Raphaelle-Photography-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547702810/2017-09-04---Martha-Jones-Raphaelle-Photography-2.jpg.jpg)
 <figcaption>Marthan Jones, mezzo-soprano. Photo: Raphaelle Photography.</figcaption>
 </figure>
 

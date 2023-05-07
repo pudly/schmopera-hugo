@@ -16,6 +16,7 @@ url = "https://www.facebook.com/Chloris-Floral-830014150352574/"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/chlorisfloral/"
+_template = "people_single"
 +++
 
 Betany Coffland, mezzo-soprano's performances have been hailed by *Opera News* as “extremely fine” and “a joy to watch,” and her tone has been described by The San Francisco Classical Voice as "plush" and "Italianate".

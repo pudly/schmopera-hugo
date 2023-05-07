@@ -21,7 +21,9 @@ It is different from anything I have done before. That is probably what made it 
 
 The story begins with her hanging. Just before the noose tightens she sings, cryptically, "Here we are again!" We are then immediately thrust back to her trial, in which she is on the stand for the murder of her husband. She is sarcastic and grandiose, playing to the crowd.  Then she herself takes us back to the squalid reality of her childhood and we feel for her as she dreams of the music hall and its wonders. She is very complex and interesting. And of course, the story's taking place in and around the music halls of 1880s London is extremely appealing because it invites more music into an already operatic story.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502746897418/2017-08-15---the-crypt-sessions-elizabeth-cree-credit-andrew-ousley-05.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502746897418/2017-08-15---the-crypt-sessions-elizabeth-cree-credit-andrew-ousley-05.jpg.jpg)
 <figcaption>Kevin Puts and Daniela Mack perform an excerpt of *Elizabeth Cree* in The Crypt. Photo: Andrew Ousley.</figcaption>
 </figure>
 

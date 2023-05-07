@@ -27,6 +27,8 @@ This year's artists include Russell Braun, Elizabeth Turnbull, J. Patrick Rafter
 
 "Over 11,000 people have viewed our previous Mysterious Barricades concerts, which in addition to top-quality performances have included inspiring personal stories and valuable suicide prevention information."
 
-<figure data-type="video">{{% md %}}{{% /md %}}<iframe width="377" height="212" src="https://www.youtube.com/embed/4gQVwswbrGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure data-type="video">
+
+<iframe width="377" height="212" src="https://www.youtube.com/embed/4gQVwswbrGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>

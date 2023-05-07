@@ -16,6 +16,7 @@ url = "https://www.facebook.com/halifaxoperafestival"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/HalifaxOpera"
+_template = "company_single"
 +++
 
 The Halifax Summer Opera Festival and Workshop educates and develops both singers and audiences through the performance of operatic repertoire. Our goals are to present three fully staged operas each summer in Halifax that challenge and enrich both artists and audience, and that are artistically and financially accessible to both. Our aesthetic is artist-centred, creative, professional, relatively low-budget, alternative, modern and respectful of our source material. Our clients are singers (from community members to university undergrads to professionals), creative and technical workers and audience members, who may be experienced opera or theatre goers, or newcomers to the art form.

@@ -23,35 +23,47 @@ Yet, for all the man's copious talents and myriad achievements, for all his eloq
 
 How can one not be enchanted? This is the same Bernstein-ian smile I recognize in my teachers' recollections of their mentor, the same smile that, to my ears, permeates his whole artistic output, and the same smile that suffused the [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/)'s commemorative Bernstein concert this past Saturday at the Lyric Opera House.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520871864365/18.-Bernstein-%40LOC%2C-l.r.-Diana-Newman%2C-Ann-Toomey%2C-Josh-Lovell%2C-Alan-Higgs%2C-Emmett-O'Hanlon%2C-Susan-Graham%2C-Nathan-Gunn%2C-Kate-Baldwin_c.Todd-Rosenberg.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520871864365/18.-Bernstein-%40LOC%2C-l.r.-Diana-Newman%2C-Ann-Toomey%2C-Josh-Lovell%2C-Alan-Higgs%2C-Emmett-O'Hanlon%2C-Susan-Graham%2C-Nathan-Gunn%2C-Kate-Baldwin_c.Todd-Rosenberg.jpg.jpg)
 <figcaption>(l-r) Diana Newman, Ann Toomey, Josh Lovell, Alan Higgs, Emmett O'Hanon, Susan Graham, Nathan Gunn, and Kate Baldwin in Lyric Opera of Chicago's _Celebrating 100 Years of Bernstein_, 2018. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
 As befits an opera company, LOC showcased Bernstein as the man of the theatre with a cornucopia of delights — classics and less-familiar numbers alike — from his _West Side Story_, _Candide_, _Wonderful Town_, _On the Town_, _Peter Pan_, and _A White House Cantata_ (a repurposed version of his unsuccessful 1976 musical _1600 Pennsylvania Avenue_). From this latter work, Broadway superstar Kate Baldwin, singing as then-first-lady Abigail Adams, delivered an especially touching rendition of "Take Care of this House." Equally moving and memorable was her performance of "So Pretty," a disarmingly innocent antiwar song Bernstein composed in 1968 and first sung by Barbara Streisand at the fundraiser "Broadway for Peace." While Baldwin’s crystalline and expressive voice was superb in these unaffected numbers, "Somewhere" from _West Side Story_ felt lacking in the dramatic sweep so central to this enduring favorite. Nonetheless, the Tony-award-winner razzled and dazzled in "I Can Cook, Too" and "I Hate Music" from Bernstein's delightful song-cycle of the same title. Here she was clearly in her element with LOC's William C. Billingham accompanying deftly on the piano and channeling his inner Hoagy Carmichael.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546218887/media/2018/12/10-Pianist-William-Billingham-Kate-Baldwin-pcTodd-Rosenberg.jpg)<figcaption>Pianist William Billingham and Kate Baldwin in Lyric Opera of Chicago's _Celebrating 100 Years of Bernstein_, 2018. Photo: Todd Rosenberg.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1546218887/media/2018/12/10-Pianist-William-Billingham-Kate-Baldwin-pcTodd-Rosenberg.jpg)<figcaption>Pianist William Billingham and Kate Baldwin in Lyric Opera of Chicago's _Celebrating 100 Years of Bernstein_, 2018. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
 Sharing the stage with Baldwin were opera luminaries Susan Graham and Nathan Gunn. Renowned for dramatic French repertoire (at LOC she recently sang Dido in Berlioz's epic _Les Troyens_), Graham was utterly arresting in Wendy's "Dream with Me" from _Peter Pan_. The mezzo's honeyed Texas tone enveloped the auditorium in a plush blanket of sheer vocal splendor. Gunn, on the other hand, was hilarious in "Captain Hook's Soliloquy" from the same musical. Clad in a wig of black curly locks and wielding the signature hook-hand, Gunn emerged from the center-stage trap door eager to persuade us that the otherwise blustering buccaneer is really just a sadly misunderstood soul. Gunn's was a virtuosic performance as regards both singing and physical comedy.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520871911113/16.-Bernstein-%40LOC%2C-Nathan-Gunn-as-Capt.-Hook_c.Todd-Rosenberg.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520871911113/16.-Bernstein-%40LOC%2C-Nathan-Gunn-as-Capt.-Hook_c.Todd-Rosenberg.jpg.jpg)
 <figcaption>Nathan Gunn as Captain Hook in Lyric Opera of Chicago's _Celebrating 100 Years of Bernstein_, 2018. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
 This potpourri of Bernstein hits by three great singers would have been delight enough, but the real treat of the evening was the complete performance of his 1952 one-act opera Trouble in Tahiti. Peggy Hickey directed the semi-staged production; Gunn and Graham sang, respectively, the main roles of Sam and Dinah, a middle-class couple who have grown distant and disenchanted with married-life. Tahiti offers a succinct and poignant glimpse into post-World-War-Two American life. All that glitters is not gold indeed, despite the ostensible societal optimism of the time and despite Bernstein's glittering music. A Jazz vocal trio, acting as a kind of Greek chorus, punctuates the show and extols the creature-comforts of 1950s suburbia. LOC Ryan Opera Center members Diana Newman, Josh Lovell, and Emmett O'Hanlon scatted their way in and out of scenes with terrific precision, humor, and sounding as if they had come straight out of a 50s radio commercial.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546218989/media/2018/12/1-Bernstein-LOC-TROUBLE-IN-TAHITI-Susan-Graham-Nathan-Gunn-cTodd-Rosenberg.jpg)<figcaption>Susan Graham and Nathan Gunn in Lyric Opera of Chicago's _Celebrating 100 Years of Bernstein_, 2018. Photo: Todd Rosenberg.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1546218989/media/2018/12/1-Bernstein-LOC-TROUBLE-IN-TAHITI-Susan-Graham-Nathan-Gunn-cTodd-Rosenberg.jpg)<figcaption>Susan Graham and Nathan Gunn in Lyric Opera of Chicago's _Celebrating 100 Years of Bernstein_, 2018. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
 Sam and Dinah clearly want to save their marriage and rekindle their love yet fail agonizingly at even the most basic attempts at communication. Here Gunn and Graham captured their characters' cold loneliness with unsettling conviction. Derisive of his wife and more interested in winning his handball tournament than attending his son's school play, Sam is the archetypical mid-century American "man's man." Gunn conjured his best Don Draper for the part all while singing with a commanding lyric baritone, especially in his (cringe-worthy) aria, "There's a law."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520871887999/9.-Bernstein-%40LOC%2C-TROUBLE-IN-TAHITI%2C-l.-r.-Josh-Lovell%2C-Emmett-O'Hanlon%2CSusan-Graham%2C--Diana-Newman_c.Todd-Rosenberg.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520871887999/9.-Bernstein-%40LOC%2C-TROUBLE-IN-TAHITI%2C-l.-r.-Josh-Lovell%2C-Emmett-O'Hanlon%2CSusan-Graham%2C--Diana-Newman_c.Todd-Rosenberg.jpg.jpg)
 <figcaption>(l-r) Josh Lovell, Emmett O'Hanlon, Susan Graham, and Diana Newman in Lyric Opera of Chicago's _Celebrating 100 Years of Bernstein_, 2018. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
 Graham played Dinah with heart-wrenching restraint with the notable exception of the opera's best-known number, "What a movie…Island Magic". This riotous, colorful, and decidedly not-PC aria benefits from a kind of Robin Williams vividness, painting a picture of South Pacific exotica, tribal natives, erupting volcanoes, dashing U.S. Navy sailors, etc. Graham was stellar in how she conveyed the inane details of the film while also clearly being swept away by the escapist fantasy it offered her. Here was that Bernstein-ian smile in all its glory.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520871937686/17.-Bernstein-%40LOC%2C-Susan-Graham_c.Todd-Rosenberg.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520871937686/17.-Bernstein-%40LOC%2C-Susan-Graham_c.Todd-Rosenberg.jpg.jpg)
 <figcaption>Susan Graham in Lyric Opera of Chicago's _Celebrating 100 Years of Bernstein_, 2018. Photo: Todd Rosenberg.</figcaption>
 </figure>
 

@@ -16,6 +16,7 @@ url = "https://www.facebook.com/clarepreslandmezzosoprano/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ClarePresland"
+_template = "people_single"
 +++
 
 Deemed a 'major young artist with the potential to make an international impact,’ Clare Presland is a Chilcott Award winner. Most recent and future engagements include HERMIA *A Midsummer Night’s Dream* English National Opera and Aldeburgh Festival, VARVARA *Káťa Kabanová* Opera Holland Park, KOMPONIST *Ariadne auf Naxos* Longborough Festival, RED QUEEN Gerald Barry’s *Alice’s Adventures Under Ground* RTE Concert Orchestra, New Music Dublin, FENENA *Nabucco* Chelsea Opera Group, Cadogen Hall, *La Traviata* Théatre des Champs Elysées, as well as joining Royal Opera House, Covent Garden for *Written on Skin*.

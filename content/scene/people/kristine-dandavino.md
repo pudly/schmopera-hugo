@@ -13,6 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/kristinedandavinomezzosoprano"
 
+_template = "people_single"
 +++
 With her "strong chest register" and "wonderful high notes" Kristine Dandavino brings "extraordinary passion" to her portrayals across the mezzo-soprano repertoire of Verdi and Wagner. "Rarely does an audience get to see and hear a performer who can match her singing with acting skills like she does. " says Sybille Forster-Rentmeister of Dandavino's "brilliantly sung" Azucena. For her Ortrud in _Lohengrin_, Ms. Dandavino was praised for having a "phenomenal voice" and "injecting her performance with the full dramatic flair of her malevolent, vindictive character".
 

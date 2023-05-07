@@ -25,7 +25,9 @@ First thing's first: Costanzo sounds his best yet. He sings full-out with a tone
 
 And Bond, of Broadway, off-Broadway, _Short Bus_ and _The Get Down_ fame, is a fantastic foil to Costanzo. Together, they really do sing an octave apart, and instead of it cuing an eye roll, it lands like lovable camp. Bond's throaty sound is equal parts Elvis Costello, David Bowie, and Rufus Wainwright, and they have that off-the-cuff way of half-singing that's so utterly cabaret.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644256384/media/2022/02/20210518_VERVE_ANTHONY_COSTANZO_AND_JUSTIN_VIVIAN_BOND_cacrjd.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1644256384/media/2022/02/20210518_VERVE_ANTHONY_COSTANZO_AND_JUSTIN_VIVIAN_BOND_cacrjd.jpg)
 
 <figcaption>Justin Vivian Bond and Anthony Roth Costanzo for Only an Octave Apart.</figcaption>  
 </figure>
@@ -40,7 +42,9 @@ And I laughed at the fun of pairing Dido's Lament with "White Flag" by...yep...D
 
 I think what makes this album something to respect is that it's firmly rooted in a really specific type of history. It's the history of Julie Andrews and Carol Burnett, of Beverly Sills and Danny Kaye, and all the times when "high art" blended with popular culture. Costanzo and Bond are using the genre to say something that's also not new: gender is not black-and-white, and unlikely duos make each other better. I love that they send the point home in their rendition of "Faeries at the Bottom of my Garden", nodding to the wonderful Michael Aspinall, aka The Surprising Soprano.
 
-<figure data-type="video">{{% md %}}<iframe width="1280" height="960" src="https://www.youtube.com/embed/0riW6dUkYM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1280" height="960" src="https://www.youtube.com/embed/0riW6dUkYM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 

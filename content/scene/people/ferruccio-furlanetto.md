@@ -8,6 +8,7 @@ publishDate = "2017-03-23T11:17:00+00:00"
 related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/teatro-alla-scala.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/salzburg-festival.md","scene/companies/san-diego-opera.md"]
 slug = "ferruccio-furlanetto"
 title = "Ferruccio Furlanetto"
+_template = "people_single"
 +++
 
 One of the greatest basses of our time Ferruccio Furlanetto is one of the most sought-after singers in the world. The critics praise him for his vast range, thundering vocal power, and excellent acting ability.

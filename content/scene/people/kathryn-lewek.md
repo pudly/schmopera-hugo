@@ -15,6 +15,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/KathrynLewek"
 
+_template = "people_single"
 +++
 Kathryn Lewek has established herself as one of opera’s most thrilling coloratura sopranos of this generation, performing some of the most vocally challenging roles in the repertoire, joining the top-ranking operatic performers of all time.
 

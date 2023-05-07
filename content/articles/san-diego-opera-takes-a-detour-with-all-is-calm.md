@@ -17,7 +17,9 @@ San Diego Opera, Bodhi Tree Concerts and SACRA/PROFANA are presenting [*All is C
  
 I sat down with David Bennett, General Director of San Diego Opera, Juan Carlos Acosta, conductor of *All is Calm* and Artistic Director of SACRA/PROFANA, and Walter DuMelle, Co-Founder of Bodhi Tree Concerts, and singer in the opera, for a discussion of *All is Calm* and how it compares to traditional opera.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543539516362/TruceCollage.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543539516362/TruceCollage.jpg.jpg)
 <figcaption>(clockwise from top left) Walter DuMelle, Co-Founder of Bodhi Tree Concerts, David Bennett, General Director of San Diego Opera, and Juan Carlos Acosta, conductor of *All is Calm*.</figcaption>
 </figure>
  
@@ -81,7 +83,9 @@ The vocal arrangements are intentionally simple through most of *All is Calm*. C
  
 **David Bennett**: That is exactly what I'm trying to convey, the expressive potency of the voice. If you think of opera carrying something that perhaps other forms don't, it is because the voice is inside us. As we express with our voice, we express a part of our human condition and that is really the centerpiece of what this is about in every note that is sung and every word that is spoken. The entire art of this piece is expressed through the human voice.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543539643894/TRUCEfull.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543539643894/TRUCEfull.jpg.jpg)
 <figcaption>San Diego Opera presents *All is Calm: The Christmas Truce of 1914*, a co-production with Bodhi Tree Concerts and SACRA/PROFANA, December 7, 8, and 9m, 2018. Part of the Detour Series. Illustration by Scott McKowen.</figcaption>
 </figure>
 

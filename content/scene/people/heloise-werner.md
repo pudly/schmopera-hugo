@@ -12,6 +12,7 @@ website = "http://heloisewerner.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Heloise_Werner"
+_template = "people_single"
 +++
 
 Héloïse Werner is a performer particularly interested in music as drama and music for the stage, experimenting with different genres and techniques.

@@ -26,7 +26,9 @@ title = "#Roundup2016: Greg &amp; Jenna&#039;s Top 10"
 
 **Greg**: [*Carmen*](/in-review-carmen-at-the-coc/) at the Canadian Opera Company. Indie darling [Joel Ivany](/scene/people/joel-ivany/), Artistic Director of Toronto's [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) made his mainstage directing debut at the COC, working with mezzo-soprano [Anita Rachvelishvili](/scene/people/anita-rachvelishvili/) in the title role. A colourful explosion of drama and finesse, this cast shows why *Carmen* is always a welcome addition to any season. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481716345210/2016-05-06---Burrage-as-Mercedes-MacNeil-as-Dancaire-Rachvelishvili-as-Carmen-Fortier-Lazure-as-Remendado-Djihanian-as-Frasquita---Photo-by-Michael-Cooper.jpg.jpg)<figcaption>(l-r): Charlotte Burrage (Mercédès), Iain MacNeil (Dancaïre), Anita Rachvelishvili (Carmen), Jean-Philippe Fortier-Lazure (Remendado), Sasha Dhijanian (Frasquita) in the Canadian Opera Company production of *Carmen*, 2016, photo: Michael Cooper.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481716345210/2016-05-06---Burrage-as-Mercedes-MacNeil-as-Dancaire-Rachvelishvili-as-Carmen-Fortier-Lazure-as-Remendado-Djihanian-as-Frasquita---Photo-by-Michael-Cooper.jpg.jpg)<figcaption>(l-r): Charlotte Burrage (Mercédès), Iain MacNeil (Dancaïre), Anita Rachvelishvili (Carmen), Jean-Philippe Fortier-Lazure (Remendado), Sasha Dhijanian (Frasquita) in the Canadian Opera Company production of *Carmen*, 2016, photo: Michael Cooper.</figcaption>
 </figure>
 
 ## Number 8:
@@ -53,7 +55,9 @@ title = "#Roundup2016: Greg &amp; Jenna&#039;s Top 10"
 
 **Greg**: [Opera 5](/scene/companies/opera-5/) brings us a [*Die Fledermaus*](/die-fledermaus-die-fleder-fabulous/) for the 21st century. This was one of the most fun nights I've had at the opera in a while. Outlandish characters in an outlandish plot with outlandish costumes made for an unforgettable ride through Johann Strauss' perennial classic. When you get the chance to use a drag queen of Pearle Harbour's charisma, uniqueness, nerve and talent, you know you showed up at the right party. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481717389212/2016-06-10---Die-Fledermaus-2.jpg.jpg)<figcaption>Erin Lawson as Oksana Orlofsky, Michael Barrett as Eisenstein, and Pearle Harbour in Opera 5's *Die Fledermaus*. Photo by Emily Ding.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481717389212/2016-06-10---Die-Fledermaus-2.jpg.jpg)<figcaption>Erin Lawson as Oksana Orlofsky, Michael Barrett as Eisenstein, and Pearle Harbour in Opera 5's *Die Fledermaus*. Photo by Emily Ding.</figcaption>
 </figure>
 
 ## Number 4:
@@ -68,14 +72,18 @@ title = "#Roundup2016: Greg &amp; Jenna&#039;s Top 10"
 
 **Greg**: Tapestry Opera and Scottish Opera's [*The Devil Inside*](/in-review-the-devil-inside/). In an exciting double-team effort, Tapestry and Scottish Opera produced this amazing work at the Harbourfront Centre. World-class singing coupled with an accessible modern score were part of what brought this show to the top of the list. As Tapestry is known for, *The Devil Inside* was a demonstration on how to sing a beautiful score beautifully, while still providing your audience with a layered portrayal of every character in the story. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481717450261/Ben-McAteer-and-Nicholas-Sharratt--Credit-Bill-Cooper.jpg.jpg)<figcaption>Ben McAteer and Nicholas Sharratt in *The Devil Inside*, Tapestry Opera, 2016. Photo by Bill Cooper.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481717450261/Ben-McAteer-and-Nicholas-Sharratt--Credit-Bill-Cooper.jpg.jpg)<figcaption>Ben McAteer and Nicholas Sharratt in *The Devil Inside*, Tapestry Opera, 2016. Photo by Bill Cooper.</figcaption>
 </figure>
 
 ## Number 2:
 
 **Jenna**: To be honest, the first time I stepped into the house at the Royal Opera was a special moment for this opera lover. The history of the place, and the lovely mix of red velvet and gold, is pretty overwhelming. That first ROH show was a [threefer](http://www.urbandictionary.com/define.php?term=threefer) in Puccini's [*Il trittico*](/in-review-il-trittico-at-roh/), by the way.) My favourite night there to-date, though, was seeing Barrie Kosky's *insane* production of Shostakovich's [*The Nose*](/jaw-dropping-the-nose-at-roh/). Three words: [tap. dancing. noses.](https://www.facebook.com/royaloperahouse/videos/10154730975922579/)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481748296838/2016-12-14---ROH.jpg.jpg)<figcaption>Taken before a performance of *Les contes d'Hoffmann* at the Royal Opera House. Photo by Jenna.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481748296838/2016-12-14---ROH.jpg.jpg)<figcaption>Taken before a performance of *Les contes d'Hoffmann* at the Royal Opera House. Photo by Jenna.</figcaption>
 </figure>
 
 **Greg**: Tapestry Opera's [*Rocking Horse Winner*.](/in-review-rocking-horse-winner/) An exhilarating new work that highlights the exploitation of a young man with special needs, Tapestry continued to uphold its standard of top-quality productions of new works. With a stellar turn by tenor [Asitha Tennekoon](/scene/people/asitha-tennekoon/), we were told a story of love, devotion, bad luck, and dark choices. One can only hope that this Opera becomes part of the canon of beloved works as quickly as *Nixon in China* or *Doctor Atomic*.  The music is gorgeous and that chorus was creepy AF. 
@@ -86,7 +94,9 @@ title = "#Roundup2016: Greg &amp; Jenna&#039;s Top 10"
 
 **Greg**: Against the Grain's *A Little Too Cozy*. It may not surprise a lot of people to see this one at the top of my list. Joel Ivany's "transladaptation" of *Così fan tutte* is one for the history books. Transforming the setting into a blind dating/engagement reality TV show and performing in an ACTUAL TV STUDIO with ACTUAL COMMERCIALS and ACTUAL CAMERAS and ACTUAL EVERYTHING. It was a night out that few companies have been able to parallel here in Toronto. That being said, it only takes one person to open the floodgates.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481717552333/2016-05-13---Cozy-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481717552333/2016-05-13---Cozy-1.jpg.jpg)
 <figcaption>l-r: Shantelle Przybylo (Felicity), Rihab Chaieb (Dora), Clarence Frazer (Elmo), Aaron Sheppard (Fernando), in Against the Grain Theatre's *A Little Too Cozy*. Photo: Darryl Block.</figcaption>
 </figure>
 

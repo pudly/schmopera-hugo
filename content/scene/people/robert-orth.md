@@ -8,6 +8,7 @@ related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/s
 slug = "robert-orth"
 title = "Robert Orth"
 website = "http://www.robertorth.com/"
+_template = "people_single"
 +++
 
 Robert Orth is a leading baritone with major opera companies including those in New York City, San Francisco, Chicago, Toronto, Vancouver,  Washington, D.C., Houston, Seattle, Los Angeles, Philadelphia, Miami, Portland, Indianapolis, Cincinnati, and Denver. He was named “Artist of the Year” by both New York City Opera and Seattle Opera. New York City Opera also gave him the “Christopher Keene Award” for new and unusual repertoire. He has appeared as soloist with the symphony orchestras of Chicago, Cleveland, Milwaukee, Seattle, Denver, Dallas, Phoenix, Indianapolis, and Washington, D.C., in repertoire ranging from Brahms’ REQUIEM to Broadway pops to his most repeated symphonic piece, CARMINA BURANA.

@@ -20,6 +20,7 @@ url = "https://twitter.com/leahoperabird"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/leahoperabird/?hl=en"
+_template = "people_single"
 +++
 
 Soprano Leah Partridge has received consistent praise worldwide for her intelligent and compelling interpretations of opera’s most beloved heroines.  Opera Magazine praised her for her “clarity, accuracy, and poise,” and the Detroit Free Press has hailed her for her “lovely presence and shining voice.”  Since making her debut in 2003 as Lucia in *Lucia di Lammermoor*, Ms. Partridge has had a career full of remarkable milestones.  She has performed over 40 leading roles in her short career. Her Metropolitan Opera debut came in 2008 as the First Niece in *Peter Grimes* followed by several return engagements.  She has performed in some of the world’s greatest opera houses such as; Deutche Oper Berlin, Vlaamse Oper Antwerp Belgium, Teatro Colon Buenos Aires, Palau de les Artes Valencia Spain, Opera Philadelphia, Maggio Musicale Florence Italy, Teatro Carlo Felice di Genova Italy, Washington National Opera, Seattle Opera, The Atlanta Opera, Florida Grand Opera, Opera Omaha, and Dresden Semper Oper, among many others.  She has been seen in concert with the Atlanta Symphony Orchestra, Boston Baroque Orchestra, Cleveland Orchestra, and San Diego Symphony. 

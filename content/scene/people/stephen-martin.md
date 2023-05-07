@@ -8,6 +8,7 @@ related_companies = ["scene/companies/the-santa-fe-opera.md"]
 slug = "stephen-martin"
 title = "Stephen Martin"
 website = "https://www.stephenmartintenor.com/"
+_template = "people_single"
 +++
 
 Stephen Martin (tenor) has enjoyed operatic engagements spanning throughout Italy, China, and the United States with roles including Rodolfo in Puccini’s *La Boheme*, Hoffmann in Offenbach’s *The Tales of Hoffmann*, Da Xing in Jin Xiang’s *The Savage Land*, Rinuccio in Puccini’s *Gianni Schicchi*, Casey in Ricky Ian Gordan’s *The Grapes of Wrath*, Tybalt in Gounod’s *Roméo et Juliette*, and Jean Valjean in *Les Miserables*. Stephen was an Apprentice Artist at the Santa Fe Opera for its 2016 season, covering the roles of Monsieur Taupe in *Capriccio* and Tybalt in *Roméo et Juliette*. He will be returning to Santa Fe for their 2017 season to sing Normanno in *Lucia di Lammermoor*.

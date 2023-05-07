@@ -12,6 +12,7 @@ website = "http://www.patrickduwors.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/patrickduwors"
+_template = "people_single"
 +++
 
 Patrick is an award-winning performance designer working in the areas of set, costume, and lighting.  Patrick joined the faculty of the School of Creative and Performing Arts at the University of Calgary in July 2013.  Patrick is a member of the Associated Designers of Canada.

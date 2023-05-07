@@ -21,7 +21,9 @@ youtube_url = ""
 
 I couldn't stop thinking. Ideas assail me, especially at inopportune times. Eventually I just needed to release something from my notebooks and my brain. We'll see if it works. I want to tell stories. If that means performing, directing, writing, or producing, I'm ready.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559067416/media/2019/05/AlekShrader-pc-PeterSchaaf.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1559067416/media/2019/05/AlekShrader-pc-PeterSchaaf.jpg)
 
 <figcaption>Alek Shrader, tenor and director of Dido & Aeneas, Death of Classical, 2019. Photo: Peter Schaaf.</figcaption>  
 </figure>
@@ -56,7 +58,9 @@ That's how I read it, anyway. There's still a cautionary aspect here. Dido never
 
 So, what I see here is that when the conflict is such that lives are at stake, we know that someone will die (maybe even dying already)... Will we be sacrificed or will we fight?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559067468/media/2019/05/TheAngelsShare-DidoAeneas-pc-KevinCondon.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1559067468/media/2019/05/TheAngelsShare-DidoAeneas-pc-KevinCondon.jpg)
 
 <figcaption>Dido & Aeneas, Death of Classical, 2019. Photo: Kevin Condon.</figcaption>  
 </figure>

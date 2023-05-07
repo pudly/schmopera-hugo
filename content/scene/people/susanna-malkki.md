@@ -8,6 +8,7 @@ publishDate = "2016-02-18T10:27:00-05:00"
 related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md"]
 slug = "susanna-malkki"
 title = "Susanna Mälkki"
+_template = "people_single"
 +++
 
 Susanna Mälkki has recently been appointed Chief Conductor of the Helsinki Philharmonic Orchestra, effective from the 2016/17 season.

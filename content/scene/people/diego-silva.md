@@ -9,6 +9,7 @@ related_companies = ["scene/companies/edmonton-opera.md","scene/companies/the-me
 slug = "diego-silva"
 title = "Diego Silva"
 website = "http://www.diegosilvatenor.com/"
+_template = "people_single"
 +++
 
 Tenor Diego Silva continues to attract significant national and international attention with his captivating performances, and will make his Metropolitan Opera debut as Tybalt in Bartlett Sher’s new production of *Roméo et Juliette* in the 2016-17 season. Upcoming engagements include the Duke of Mantua in *Rigoletto* and Alfredo in La traviata with the Luzerner Theater; Rodolfo in *La bohème* at Opera de Metz; and Nicias in *Thaïs* with the Melbourne Symphony Orchestra. He will also be featured as a soloist in the Violon sur le Sable concert series in Royan, France. 

@@ -20,6 +20,7 @@ platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/grace-davidson-soprano"
 
+_template = "people_single"
 +++
 Grace Davidson is a British soprano who specialises first and foremost in the performance and recording of Baroque music.
 

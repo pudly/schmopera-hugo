@@ -9,6 +9,7 @@ related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companie
 slug = "audrey-luna"
 title = "Audrey Luna"
 website = "http://audrey-luna.com/"
+_template = "people_single"
 +++
 
 Audrey Luna stands out from the crowd with her unique combination of mesmerising stage presence and stratospheric vocal range. Now a frequent guest at New York’s Metropolitan Opera, Luna was unanimously praised for her 2012 debut there as Ariel in Thomas Adès’ *The Tempest* and stars on the Grammy award-winning DVD of the production, released by Deutsche Grammophon. 

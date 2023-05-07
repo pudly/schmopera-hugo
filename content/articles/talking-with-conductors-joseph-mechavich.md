@@ -25,7 +25,9 @@ There is an efficiency in my gesture when the pit and stage are synergistic. It 
 
 I have been around singers since my college days at Oberlin and am constantly in awe of these sublime athletes. A pianist gets to hide behind a piano, I get to hide behind a baton, but a singer's instrument is their body. They are basically naked. I pride myself on being a singers conductor. It is my job to accompany and lead them as they tell the story. That means throwing cues, smiling at them, breathing with them, encouraging them, catching them if they fall, giving them whatever they need. Everybody else has music in front of them except the singers-actors. That being said, singer-actors must never forget about the pit. I tell singers when they sing an aria it is actually a duet with me, if they sing a duet it is a trio with me, etc. Neither of us can ever go it alone.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558890535/media/2019/05/Mechavich1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1558890535/media/2019/05/Mechavich1.jpg)
 
 <figcaption>Conductor Joseph Mechavich in rehearsal.</figcaption>
 
@@ -39,7 +41,9 @@ The first rehearsal is a crucial time for a conductor. I may know how the piece 
 
 It is essential that both the director and conductor celebrate the singer-actor and love the act of storytelling. The awesome feat of the singer producing their sound and getting that sound into the house should be respected. The directors I love working with are those that are constantly asking of themselves, the cast, the designers: what does the audience need to understand the story.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558890522/media/2019/05/JosephMechavich-1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1558890522/media/2019/05/JosephMechavich-1.jpg)
 
 <figcaption>Conductor Joseph Mechavich. Image courtesy of ADA Artists.</figcaption>
 

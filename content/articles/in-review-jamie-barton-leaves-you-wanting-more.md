@@ -26,7 +26,9 @@ The piece is a sort of tone poem (I say sort of because in the middle of the sec
 
 I know I often talk about the immense amount of amazingly talented singers, but I want to go on record and say it applies to all musicians - and last night was proof positive of that. That being said, this *was* Mahler, so the night belonged to the brass.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475226791136/2016-09-30---Greg-TSO.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475226791136/2016-09-30---Greg-TSO.jpg.jpg)
 <figcaption>Contributor Greg Finney at Roy Thomson Hall. Photo by Malcolm Vella.</figcaption>
 
 After intermission, we all settled in for the second movement. Part Two - which Mahler titled "What the flowers of the meadow tell me" - was almost Mozartian in its delivery.  String-heavy and lilting, it delivered a pastoral image of wilderness and nature springing to life. Part Three, "What the animals of the wood tell me," marked deft use of the remarkable woodwind section to depict the frolicking and playfulness of the animals found in nature. Mahler's orchestration of the moment, when an offstage horn can be heard signaling the arrival of a new, bizarre animal (man), was brilliantly executed and showed trumpeter Andrew McCandless's beauty of tone and skill at passing through the wide range Mahler prescribed.

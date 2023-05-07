@@ -12,6 +12,7 @@ website = "http://www.darioacosta.com/index.html"
 platform = "Instagram"
 template = "social-media"
 url = "https://instagram.com/darioshoots/"
+_template = "people_single"
 +++
 
 Dario Acosta is a portrait photographer whose work can be seen in various Advertisements, Magazines and Cd Covers across the country. His studio is located in Chelsea NYC and he travels Nationwide and Worldwide for major advertisers and corporations. A graduate of The School Of Visual Arts he has been shooting Celebrity, Ceo's and "real" people for the past 15 yrs.

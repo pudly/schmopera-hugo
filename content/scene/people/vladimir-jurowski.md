@@ -13,6 +13,7 @@ website = "http://www.vladimirjurowski.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/vladimirjurowski"
+_template = "people_single"
 +++
 
 One of today’s most sought-after conductors, acclaimed worldwide for his incisive musicianship and adventurous artistic commitment, Vladimir Jurowski was born in Moscow in 1972, and completed the first part of his musical studies at the Music College of the Moscow Conservatory. In 1990 he relocated with his family to Germany, continuing his studies at the Musikhochschule of Dresden and Berlin, studying conducting with Rolf Reuter and vocal coaching with Semion Skigin. In 1995 he made his international debut at the Wexford Festival conducting Rimsky-Korsakov’s *May Night*, and the same year saw his debut at the Royal Opera House Covent Garden with *Nabucco*.

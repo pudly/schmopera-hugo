@@ -21,7 +21,9 @@ Accessible opera means a comfy night at the theatre, too. "The Théâtre Le Châ
 
 Opera da Camera has expanded their season from one show to two, and they continue to look at the big picture of what it means to produce opera. "One lofty goal we have for this company is to create future audiences and future artists for this art form we all love and have chosen to make careers in. At least, with our productions, we hope to provide an entry point into opera for tentative, first-time opera goers, and with this show in particular, for children."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444405786518/_MG_9803Resized.jpg.jpg)<figcaption>Meagan Zantingh as Hänsel and Valérie Bélanger as Gretel. Photo courtesy of Opera da Camera.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444405786518/_MG_9803Resized.jpg.jpg)<figcaption>Meagan Zantingh as Hänsel and Valérie Bélanger as Gretel. Photo courtesy of Opera da Camera.</figcaption>
 </figure>
 
 *Hänsel und Gretel* plays for 4 shows, October 17, 18 (matinee), 22 and 24th at the [Ciné-Théâtre Le Château](http://www.theatrelechateau.ca/). For details and tickets, follow the box office links below.

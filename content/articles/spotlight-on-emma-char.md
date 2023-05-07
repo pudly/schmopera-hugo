@@ -24,7 +24,9 @@ As for why I am doing it professionally, it's something I have always had a deep
 
 Good singing feels easy. It feels as though all the hours of practicing uncomfortable, awkward technical things hadn't ever happened and that this piece is now so darn easy that all I have to do is be present singing and communicating. When I feel present singing I feel free in a really thrilling way. Technically, I know I'm on the right track when I don't feel vocally tired after a show and feel like I could sing the show again.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497325825531/323uTWtUK6pURZnpidRy8ucWzQfVry0aCFrdETHne54H-06JoWzHZHKPs23dKESezrZtoqrVgQ0mrbM5369uHxgM5v2m%3Dw680-h680-c)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497325825531/323uTWtUK6pURZnpidRy8ucWzQfVry0aCFrdETHne54H-06JoWzHZHKPs23dKESezrZtoqrVgQ0mrbM5369uHxgM5v2m%3Dw680-h680-c)
 <figcaption>Emma Char as Lucretia in Against the Grain Theatre's *The Rape of Lucretia*, TSMF, 2016. Photo by Jorge Chaves.</figcaption>
 </figure>
 

@@ -24,7 +24,9 @@ Now let’s play it on a piano. *doot-DOOT-doot-doot-doot-DOOT-doot* Sorry piani
 
 As for why I sing professionally, well, that’s a tough one. I’m sure I’ve asked myself that question many times and never came up with a suitable answer. After all, it is a rather silly thing to do as a career. Ultimately it comes down to two things: 1) I’m relatively good at it, and 2) it exists as a somewhat viable career option. Remember how good it felt belting out Beethoven in the last paragraph? If you had the opportunity to earn your keep doing that for the rest of your life, why wouldn’t you do it? 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452267483579/2016-01-08---NybyCarmina.jpg.jpg)<figcaption>Baritone Michael Nyby singing Orff's *Carmina Burana* with the Thunder Bay Symphony Orchestra.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452267483579/2016-01-08---NybyCarmina.jpg.jpg)<figcaption>Baritone Michael Nyby singing Orff's *Carmina Burana* with the Thunder Bay Symphony Orchestra.</figcaption>
 </figure>
 
 ## What does "good singing" mean to you? What does it feel like when you achieve it?
@@ -45,7 +47,9 @@ As for the second part of the question, singers need to stop making excuses. “
 
 Too many young singers blame failure and rejection on external sources. I know I’ve made these excuses in the past, but eventually one must realize that failure and rejection are just part of the business. If you’re good enough, eventually you’ll work. If you’re not getting any jobs, work harder to become a better singer. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452267533858/2016-01-08---NybyMerryWidow.jpg.jpg)<figcaption>Nyby as Danilo in Edmonton Opera's *The Merry Widow*.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452267533858/2016-01-08---NybyMerryWidow.jpg.jpg)<figcaption>Nyby as Danilo in Edmonton Opera's *The Merry Widow*.</figcaption>
 </figure>
 
 ## Do you have any “bucket list” roles you’d like to sing (realistically or otherwise)?

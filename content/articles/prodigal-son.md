@@ -19,7 +19,9 @@ youtube_url = ""
 +++
 In last year’s opera season, I had the chance to review [Enigma Chamber Opera](https://enigmachamberopera.org/)'s luminous production of Benjamin Britten’s [_Curlew River_](/enigma-operas-curlew-river-a-transcendent-experience/), a production that still lives on in my mind an entire year later. It is perhaps fortunate, then, that Enigma Chamber Opera has decided to dedicate its next offerings on producing the other two church operas in Britten's arsenal, and they have elected to start with [_Prodigal Son_](https://www.eventbrite.com/e/enigma-chamber-opera-presents-benjamin-brittens-the-prodigal-son-tickets-428822960017). It is always risky to go on a series in the same venue that uses a surprisingly similar staging conceit of performers using found objects as props in a church; unless the works are sufficiently different from each other, you are going to inevitably draw comparisons between all three.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666563933/media/2022/10/Enigma_The_cast_of_Enigma_Chamber_Opera_s_PRODIGAL_SON_Photo_by_Ashlee_Rose_Scott_icjcfr.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666563933/media/2022/10/Enigma_The_cast_of_Enigma_Chamber_Opera_s_PRODIGAL_SON_Photo_by_Ashlee_Rose_Scott_icjcfr.jpg)
 
 <figcaption>The cast of Engima Chamber Opera's Prodigal Son, 2022. Photo by Ashlee Rose Scott.</figcaption>  
 </figure>
@@ -28,21 +30,27 @@ But what helps is that _Prodigal Son_ is a very different creature from _Curlew 
 
 But more than any of these things was the conceit at the heart of Enigma Chamber Opera's production, and this is something that I think is much easier to demonstrate with _Prodigal Son_ than with _Curlew River_: this production also sought to produce some distance with the liturgical origins of the story, and see what lessons the parable can tell without the religious overtones. This conceit might sound sacrilegious to everyone who has heard the parable, but to my mind it makes a certain amount of sense considering the speculation that Britten was agnostic for at least part of his life. I also do think that, as a parable, examining any adaptations of the _Prodigal Son_ story is actually truer to the spirit of how a parable functions than anything else.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666563952/media/2022/10/Enigma_David_McFerrin_center_in_vest_in_Enigma_Chamber_Opera_s_PRODIGAL_SON_Photo_by_Ashlee_Rose_Scott_qbunn7.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666563952/media/2022/10/Enigma_David_McFerrin_center_in_vest_in_Enigma_Chamber_Opera_s_PRODIGAL_SON_Photo_by_Ashlee_Rose_Scott_qbunn7.jpg)
 
 <figcaption>David McFerrin (front, in vest) in Engima Chamber Opera's Prodigal Son, 2022. Photo by Ashlee Rose Scott.</figcaption>  
 </figure>
 
 And indeed, they did somewhat manage to find their way. For one thing, the attention to characterization is stronger in _Prodigal Son_'s libretto, and it felt much easier for the production team to structure the story according to the characterizations they were given. They also chose to focus as much as they could on the father's unconditional love of his youngest son, something that actually did come across quite well even if he was absent in the entire middle third. The production made sure to keep him centered in all parts where he was onstage, but most of all it allowed Aaron Engebreth's performance to shine through: there were certainly times where the chamber ensemble overpowered his singing slightly, but he was always warm, both in how he acted the part with the right amount of resignation and love and in how he sang it.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666563973/media/2022/10/Enigma_ProdigalSon2_q9dnqv.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666563973/media/2022/10/Enigma_ProdigalSon2_q9dnqv.jpg)
 
 <figcaption>Matthew DiBattista (left) and Omar Najmi in Engima Chamber Opera's Prodigal Son, 2022. Photo by Ashlee Rose Scott.</figcaption>  
 </figure>
 
 The attention to detail in the characterizations extended to everyone else afterwards, as well. Matthew DiBattista brought a certain hesitancy to the Younger Son that made him endearing, even when he sang more confidently. David McFerrin imbued the Elder Son with just the right amount of rage, barking a few of his lines and acting the hell out of the part. But for my money, the one who stole the show was Omar Najmi as the tempter and the eventual abbot: Najmi was clearly having a ton of fun as the voice of the younger son’s temptation, with the way his vocal lines lilted playfully, and it was an absolute joy to watch.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666564026/media/2022/10/Enigma_ProdigalSon1_uvweif.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666564026/media/2022/10/Enigma_ProdigalSon1_uvweif.jpg)
 
 <figcaption>(front, l-r) Omar Najmi and Matthew DiBattista in Engima Chamber Opera's Prodigal Son, 2022. Photo by Ashlee Rose Scott.</figcaption>  
 </figure>

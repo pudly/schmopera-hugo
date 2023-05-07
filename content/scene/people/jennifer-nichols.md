@@ -24,6 +24,7 @@ url = "https://www.instagram.com/extensionmethod/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCXRj4GWPKbJUGVO8MQfNO8w"
+_template = "people_single"
 +++
 
 Jennifer Nichols, professional dancer and founder of The Extension Method™, is a CanFit Certified Fitness Instructor, Personal Trainer and Elite Athletics Coach. She is a guest teacher for corporate fitness centres and schools, lecturer and presenter, recently appearing on City TV’s Breakfast Television and CBC’s ‘Living in Toronto’. Jennifer’s Extension Method Class has been profiled with glowing reviews in the National Post, The Toronto Star, FASHION Magazine, the KIT magazine, Best Health magazine and WHERE Toronto, and has been featured in online publications Fiterati.com and SweetSpot.ca.

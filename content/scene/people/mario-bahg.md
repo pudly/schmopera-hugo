@@ -16,5 +16,6 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UC2f8A4CA6PTivMj2oksJH6w"
 
+_template = "people_single"
 +++
 bio needed

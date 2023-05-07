@@ -11,6 +11,7 @@ title = "Ross Ramgobin"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/rossramgobin?lang=en"
+_template = "people_single"
 +++
 
 Runner Up in the 2014 What's On Stage Breakthrough in Opera Awards and Nominated in the Young Artist category at the 2015 International Opera Awards, British baritone Ross Ramgobin read English and Modern Drama Studies at Brunel University, London, before attending London’s Royal Academy of Music, studying with Glenville Hargreaves and Jonathan Papp, where he gained his MA (DIst.) in Vocal Studies and his Advanced Diploma from Royal Academy Opera. At the Royal Academy, his roles included Claudio *Béatrice et Bénédict*, Papageno *Die Zauberflöte* and the title role in *Eugene Onegin*.

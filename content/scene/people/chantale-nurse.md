@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Chantale-Nurse-soprano/165259413492100"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ChantaleNurse"
+_template = "people_single"
 +++
 
 <p>

@@ -16,6 +16,7 @@ url = "https://www.facebook.com/MichaelBrandenburgTenor"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UC5FtKUTcmQYVWGARVAh8v_A"
+_template = "people_single"
 +++
 
 Tenor, Michael Brandenburg, is gaining recognition as one of the top young American tenors. He was the recipient of 2016 Grants from the Richard Tucker and Shoshana foundations; a winner of the 2015 George London Foundation Competition, Opera Index’s emerging artist award in their 2014 competition, and one of two Grand Finalists in the Bel Canto Competition in Chicago. In 2013 Brandenburg was a Grand finalist Winner in the Metropolitan Opera’s National Council Auditions.

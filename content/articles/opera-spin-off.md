@@ -30,7 +30,9 @@ We only met him at one of his infamous parties, and didn't have the chance to se
 
 It could be very _Dialogues des Carmélites_, very _Orange is the New Black_. Elvira told us all that she'd quit it with men and go live in a convent. She'd meet other nuns, some of the friendly and some of them not; some of the nuns might be suspicious of this new addition, thinking that she's just going through a post-breakup-church-phase. Elvira would have to prove herself genuine, perhaps finding her true self along the way amongst these well-behaved ladies. Maybe it could be very _Sister Act_.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429216951043/Sister-Act-3871-4f028fb2760ee37c4a00394f-1325735617.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429216951043/Sister-Act-3871-4f028fb2760ee37c4a00394f-1325735617.jpg.jpg)
 </figure>
 
 ### 4. After _Lucia di Lammermoor_: Enrico

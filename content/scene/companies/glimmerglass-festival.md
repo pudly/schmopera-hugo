@@ -16,6 +16,7 @@ url = "https://www.facebook.com/glimmerglassfestival"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/GOpera"
+_template = "company_single"
 +++
 
 <p>

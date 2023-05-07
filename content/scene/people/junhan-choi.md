@@ -16,6 +16,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/junhanchoi/"
 
+_template = "people_single"
 +++
 Praised for his “splended baritone voice, rich and rounded”, baritone Junhan Choi, a native of South Korea, is an active opera and concert singer. In the 2018-2019 season, engagements included his role as Tideo in _Medea in Corinto_, Roggiero in _Tancredi rifatto_ and Arturo(cover) in _La Straniera_ with Teatro Nuovo in the capacity of Resident Artist, title role as Don Giovanni, Marcello in _La Boheme_ with Boston Opera Collaborative, as title role Don Giovanni with North End Music and Performing Arts Center, Escamillo in _Carmen_ with Opera51 and Handel’s _Messiah_ baritone solo with Naples Philharmonic and Boston Landmarks Orchestra.
 

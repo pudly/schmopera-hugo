@@ -7,6 +7,7 @@ publishDate = "2018-01-29T18:38:00-05:00"
 related_companies = ["scene/companies/minnesota-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/portland-opera.md","scene/companies/san-francisco-opera.md","scene/companies/nashville-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/des-moines-metro-opera.md","scene/companies/royal-opera-house.md","scene/companies/on-site-opera.md"]
 slug = "emily-pulley"
 title = "Emily Pulley"
+_template = "people_single"
 +++
 
 Acclaimed soprano Emily Pulley’s radiant voice and electrifying acting have won her both national and international acclaim on the operatic stages. Of her recent performance with Mill City Opera in *Sweeney Todd*, critics said “The dark side hollered balefully in soprano Emily Pulley’s half-crazed Beggar Woman,” and, of her performance in Il tabarro with Opera Theatre of Saint Louis, “Soprano Emily Pulley makes an auspicious Opera Theatre debut as Giorgetta, perfectly capturing the character’s longing and conflict with a dark, almost mezzo voice and finely tuned acting.” As the Governess in *The Turn of the Screw* with Boston Lyric Opera, Opera News exclaimed, “Emily Pulley was outstanding as the embattled Governess. The role fits Pulley’s voice like a glove, and she captured the psychological complexity and heartbroken innocence of one of Britten’s great tragic characters.”

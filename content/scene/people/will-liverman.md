@@ -18,6 +18,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/willie1525/"
 
+_template = "people_single"
 +++
 Called “a voice for this historic moment” (_The Washington Post_), baritone Will Liverman continues to bring his compelling performances to audiences nationwide. He will star in the Metropolitan Opera’s reopening production of Terence Blanchard’s _Fire Shut Up in My Bones_ in fall 2021, in addition to reprising his roles in _Akhnaten_ (Horemhab) and _The Magic Flute_ (Papageno) during the Met’s 2021-2022 season.
 

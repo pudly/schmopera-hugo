@@ -21,7 +21,9 @@ title = "Riders of the Purple Sage: meet Lassiter"
 
 **Morgan Smith**: Lassiter is the iconic cowboy vigilante. His heart is hardened, and he's been dealt a bum hand by life. He sees avenging the death of his sister as the only path to reconciliation and peace.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487863076037/2017-02-23---Joshua_Jeremiah.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487863076037/2017-02-23---Joshua_Jeremiah.jpg.jpg)
 <figcaption>Joshua Jeremiah, baritone, singing Lassiter in the world premiere of *Riders of the Purple Sage* at Arizone Opera.</figcaption>
 </figure>
 
@@ -37,7 +39,9 @@ title = "Riders of the Purple Sage: meet Lassiter"
 
 **MS**: I tend to be more preoccupied with singing the music accurately, and motivated to help bring the piece to life in the way that the composer imagined. In this particular instance, the composer is a dear friend and someone I greatly admire. This creates in me an especially strong desire to honor his beautiful and inspired writing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487863119633/2017-02-23---MorganSmith_credit_NicoHudak.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487863119633/2017-02-23---MorganSmith_credit_NicoHudak.jpg.jpg)
 <figcaption>Morgan Smith, baritone, singing Lassiter in the world premiere of *Riders of the Purple Sage* at Arizone Opera. Photo by Nico Hudak.</figcaption>
 </figure>
 
@@ -47,7 +51,9 @@ title = "Riders of the Purple Sage: meet Lassiter"
 
 **MS**: In truth, it's extremely liberating to deliver the audience the gift of this music for the very first time; they arrive without preconception, and it's so exciting for both audience and performer to take the journey of discovering this experience together.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487863309928/2017-02-23---MorganSmithAsLassiter---pc---TimTrumble.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487863309928/2017-02-23---MorganSmithAsLassiter---pc---TimTrumble.jpg.jpg)
 <figcaption>Morgan Smith as Lassiter in *Riders of the Purple Sage*. Photo by Tim Trumble.</figcaption>
 </figure>
 

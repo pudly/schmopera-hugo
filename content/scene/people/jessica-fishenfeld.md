@@ -18,6 +18,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/jecafish"
 
+_template = "people_single"
 +++
 Young American Soprano Jessica Fishenfeld, hailed for her “engaging” performances (_Opera News_) and “soaring, glittering high notes” (_EDGEftlauderdale_), “triumphed” (_NY Observer_) in her New York City Opera debut this season as Leah in the World Premiere of _Stonewall_ (Iain Bell & Mark Campbell), with “clean coloratura,” (_Opera News_) and “spunky personality” (_Opera Wire_). Since her recent residency with Palm Beach Opera as a Benenson Young Artist, she starred in the World Premiere of _Lovesick_ at National Sawdust, made her Carnegie/Zankel Hall debut as soloist with The Manhattan Contemporary Chamber Ensemble, appeared with the Helena Symphony in _Bernstein 100!_, was a 2017 Career Bridges Grant Winner, and was awarded a Semi-Finalist Prize in the 2019 Lotte Lenya Competition.
 

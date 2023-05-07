@@ -41,7 +41,9 @@ Upon request, Dupuis gave me a glimpse of the opera's history: its life in Frenc
 
 But I was more interested in how loudly this production of _Don Carlos_ spoke about the world's current events. Dupuis felt it, too, in his opening scene as Rodrigue. His first lines are to Carlos, telling him about the war and blood he's seen in Flanders, and wonders if the fighting is truly achieving peace. "And as I say that the orchestra has this ginormous chord - this noise, really, of the trombones blasting," says Dupuis. "It's like Verdi's commentary, saying 'that's what I think about that kind of war.'"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1649353236/media/2022/04/MetOpera_DonCarlos_Dupuis_Polenzani_cvacq8.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1649353236/media/2022/04/MetOpera_DonCarlos_Dupuis_Polenzani_cvacq8.jpg)
 
 <figcaption>Matthew Polenzani as Don Carlos and Etienne Dupuis as Rodrigue in Verdi's “Don Carlos.” Photo: Ken Howard / Met Opera.</figcaption>
 
@@ -60,7 +62,9 @@ Maybe we're asking too much of a single person," Dupuis offers.
 
 And it may be that, in general, we ask too much of artists and their political views. I think Gelb made the right call regarding Netrebko - but as a general rule, do we really want to threaten a singer’s career because of their ideologies? Are we ready for the slippery slope? How easy is it to argue that being on one side of an issue is objectively "worse" or "better" than the other? Can we trust ourselves to approach the issue with a case-by-case-basis type of maturity?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1649352761/media/2022/04/ETIENNE_DUPUIS_DarioAcosta_o6qf3k.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1649352761/media/2022/04/ETIENNE_DUPUIS_DarioAcosta_o6qf3k.jpg)
 
 <figcaption>Canadian baritone Étienne Dupuis. Photo by Dario Acosta.</figcaption>  
 </figure>

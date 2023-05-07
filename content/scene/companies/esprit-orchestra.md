@@ -24,6 +24,7 @@ url = "https://www.instagram.com/espritorchestra/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/EspritOrchestra"
+_template = "company_single"
 +++
 
 Esprit Orchestra is Canada's only full-sized orchestra devoted exclusively to performing and promoting new orchestral music.

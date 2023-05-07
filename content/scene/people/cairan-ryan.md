@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Cairan-Ryan-Baritone/312777755515955"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CairanRyan"
+_template = "people_single"
 +++
 
 <p>

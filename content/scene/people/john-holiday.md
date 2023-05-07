@@ -26,6 +26,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/MyOperaClips"
 
+_template = "people_single"
 +++
 In repertoire encompassing George Frideric Handel’s *Giulio Cesare in Egitto* to Jonathan Dove’s *Flight* and beyond, countertenor John Holiday’s expressive and richly beautiful voice has made him an increasingly sought after artist, possessing a “vocal instrument that threatens to equal the name artists in his range.” (Herald Times) Mr. Holiday is the recipient of the Marian Anderson Award from The John F. Kennedy Center for the Performing Arts and Washington National Opera.
 

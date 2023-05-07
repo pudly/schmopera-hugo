@@ -7,6 +7,7 @@ publishDate = "2016-04-27T10:47:00+01:00"
 related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/bayerische-staatsoper.md","scene/companies/glyndebourne.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/staatsoper-berlin.md","scene/companies/opernhaus-zurich.md"]
 slug = "emma-bell"
 title = "Emma Bell"
+_template = "people_single"
 +++
 
 Emma Bell trained at the Royal Academy of Music, London and the National Opera Studio and currently studies with Joy Mammen. She was the winner of the 1998 Kathleen Ferrier Award and the following year was a BBC New Generation Artist.

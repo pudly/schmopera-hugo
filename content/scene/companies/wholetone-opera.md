@@ -15,6 +15,7 @@ url = "https://www.facebook.com/wholetoneopera/?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/WholeToneOpera"
+_template = "company_single"
 +++
 
 WholeTone Opera seeks to highlight female composers and artists. We hope to join forces with other local opera companies in the process of revitalizing Boston’s opera community, offering alternative productions with fresh, gripping performances. We rehearse in Somerville at WholeTone Studios near Davis Square.

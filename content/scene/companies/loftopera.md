@@ -20,6 +20,7 @@ url = "https://twitter.com/loftopera"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/loftopera/"
+_template = "company_single"
 +++
 
 ​As we charge ahead with 2016, LoftOpera’s biggest and best season yet, we want to let you in on why we do it. Here’s the short answer: For the love of opera. 

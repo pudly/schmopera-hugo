@@ -12,6 +12,7 @@ website = "http://www.stephenhegedus.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/HegedusStephen"
+_template = "people_single"
 +++
 
 Hailed by the Chicago Sun Times as a singer with a “strong and attractive voice”, bass-baritone Stephen Hegedus’ 2013-2014 season on the operatic stage included the roles of Angelotti (Tosca), Leporello and Commendatore (Don Giovanni) with Vancouver Opera and Proténor and Divinité Infernale (Persée) with Opera Atelier both in Toronto and at Versailles.

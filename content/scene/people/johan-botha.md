@@ -12,6 +12,7 @@ website = "http://www.johan-botha.com/biography.php"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/Johan-Botha-tenor/103091546398342?fref=ts"
+_template = "people_single"
 +++
 
 Tenor Johan Botha is one of the most important singers of our time and is a regular at all major venues and festivals in the world. After studying in his home and the debut in Roodeport he came in 1990 to Europe, where after the first engagements in Germany his international career rapidly developed. He guested the State Operas in Berlin, Dresden, Hamburg and Munich, at the Gran Teatro del Liceu, at the Lyric Opera of Chicago, at the Royal Opera House Covent Garden, at the Los Angeles and San Francisco Opera, La Scala in Milan, the Opera Bastille and at the Théâtre Châtelet in Paris and at the Opera Australia in Sydney and at the Salzburg Festival. He is a regular at the Metropolitan Opera and the Vienna State Opera as a guest, which it is closely linked since its debut in 1996 and where he performed Strauss' *Daphne*, *Frau ohne Schatten*, Mascagni's *Cavalleria rusticana* and Leoncavallo's *Pagliacci*, Verdi's *Don Carlo*, *Vespri Siciliani*, *Aida*, and *Otello*, Beethoven's *Fidelio*, Wagner's *Lohengrin*, *Parsifal*, *Die Walküre*, *Die Meistersinger von Nürnberg*, *The Flying Dutchman* and *Tannhäuser*, Puccini's *Tosca* and *Turandot*. In the summer of 2010 Johan Botha debuted with Siegmund at the Bayreuth Festival. 

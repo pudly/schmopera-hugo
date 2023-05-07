@@ -24,6 +24,7 @@ url = "https://www.instagram.com/ivanmagritenor/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UC1fXyUv9aCmesLakILgRIlA"
+_template = "people_single"
 +++
 
 Ivan Magri is rapidly gaining recognition as a leading tenor at such theaters as the Bayerische Staatsoper in Munich, Staatsoper Berlin, Deutsche Oper Berlin, Teatro dell’Opera di Roma, Opernhaus Zürich, Dutch National Opera in Amsterdam, Teatro Colon in Buenos Aires and Theatro Municipal in São Paulo. This season, he will sing Nemorino in *L’elisir d’amore* at the Royal Opera House – Covent Garden, the title role in *Werther* at the Hungarian State Opera in Budapest, and the Duke in *Rigoletto* at the Staatsoper Stuttgart, Staatsoper Hamburg, Semperoper Dresden and Savonlinna Festival in Finland.

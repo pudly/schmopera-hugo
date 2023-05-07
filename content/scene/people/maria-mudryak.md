@@ -20,6 +20,7 @@ url = "https://www.instagram.com/maria_mudryak/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCay495y0uEFPYt8PO-9dijA"
+_template = "people_single"
 +++
 
 In just a few years young Kazakh soprano Maria Mudryak (born in 1994) has become one of the most sought after lyric coloraturas of her generation and already celebrated successes in roles such as Violetta in *La traviata*, Mimi in *La bohème* and Susanna in *Le nozze di Figaro* at some of the most prestigious international opera stages.

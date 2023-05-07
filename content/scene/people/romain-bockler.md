@@ -9,6 +9,7 @@ slug = "romain-bockler"
 title = "Romain Bockler"
 website = "http://www.romainbockler.com/"
 
+_template = "people_single"
 +++
 Romain Bockler se forme au CNSMD de Lyon où il obtient son Master avec la mention Très Bien, puis auprès de Cécile de Boever.
  

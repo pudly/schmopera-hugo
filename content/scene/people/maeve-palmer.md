@@ -8,6 +8,7 @@ related_companies = ["scene/companies/tapestry-opera.md","scene/companies/royal-
 slug = "maeve-palmer"
 title = "Maeve Palmer"
 website = "http://www.maevepalmer.com/home.html"
+_template = "people_single"
 +++
 
 Maeve Palmer is a soprano in her Masters of Music in voice performance at the University of Toronto under the direction of Mary Morrison, O.C.  This year Maeve is the recipient of the Richard March Graduate Fellowship (U of T), and will be singing as a Sidgwick Scholar with the Orpheus Choir of Toronto under the direction of Robert Cooper.

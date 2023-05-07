@@ -9,6 +9,7 @@ related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/la-mon
 slug = "holger-falk"
 title = "Holger Falk"
 website = "http://www.holgerfalk.com/"
+_template = "people_single"
 +++
 
 *Holger Falk is one of the most intellectually and vocally flexible singers on German stages,* wrote the magazine *Opernwelt*. The colourfulness, flexibility and authenticity in his expression are the artistic foundation of his international career as an opera singer as well as an interpreter of art song.

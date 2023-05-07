@@ -21,7 +21,9 @@ _La traviata_ is often hailed as a classic of the operatic repertory, but I pers
 
 But the bigger part for me is that _La traviata_ hosts what is probably opera's most well-beloved idiot plot: all of the characters make some fairly idiotic choices for the plot to progress as it does, and some characters can really come off as extremely unlikable as a result. Thus, for a production of _Traviata_ to grab me, the production has to pull some major gymnastics in order for me to get past both of these things.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1635099814/media/2021/10/MassOpera_Traviata_Fourth_024_fg4p2h.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1635099814/media/2021/10/MassOpera_Traviata_Fourth_024_fg4p2h.jpg)
 
 <figcaption>Alisa Cassola as Violetta Valéry and David Bozón as Alfredo Germont in La traviata, MassOpera, 2021. Photo: Nile Scott Studios.</figcaption>
 
@@ -31,7 +33,9 @@ Enter [MassOpera](/scene/companies/massopera/), which has been mulling over this
 
 But perhaps the main draw of this production was the choice of venue: this production was staged on the grounds of the Eustis Estate just outside the city limits of Boston, and it took a few cues from the well-known theater production _Sleep No More_ in that it asked the audience to move throughout the house as the show progressed. I was quite looking forward to seeing what _La traviata_ would look like in such a format, and I am pleased to say the results, while leaving some relatively minor things to be desired, ultimately worked quite well, and helped paper over a majority of the issues I have with the opera's plot.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1635099850/media/2021/10/MassOpera_Traviata_Fourth_032_wedwa1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1635099850/media/2021/10/MassOpera_Traviata_Fourth_032_wedwa1.jpg)
 
 <figcaption>Alisa Cassola as Violetta Valéry and David Bozón as Alfredo Germont in La traviata, MassOpera, 2021. Photo: Nile Scott Studios.</figcaption>
 
@@ -41,7 +45,9 @@ Part of me wishes that there had been a more inventive way of facilitating trave
 
 However, what the motion between rooms did do was provide a sense of changed location. After all, _La Traviata_ does not take place in one single house, but different places: the motion through the various rooms conveyed this quite excellently, in that not only did the audience placement in each room rather ingeniously keep the audience from looking at previously-occupied spots with too discerning an eye, but they were also dressed differently enough from previous rooms that each locale felt like a different place.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1635099869/media/2021/10/MassOpera_Traviata_Fourth_070_rmw3hr.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1635099869/media/2021/10/MassOpera_Traviata_Fourth_070_rmw3hr.jpg)
 
 <figcaption> in La traviata, MassOpera, 2021. Photo: Nile Scott Studios.</figcaption>
 
@@ -51,7 +57,9 @@ This is due to a combination of factors, from how the house was furnished in eac
 
 However, these changes of location also followed the opera's arc from bright, bubbly party opera to the dark, brooding tragedy that it becomes by the time Act IV rolls around, and it set the tone for each scene in how it was dressed. The party scene in Act III was a notable example in how the tense atmosphere of the scene was underscored by harsh red lighting that came from behind the audience where they sat on the porch, but for my money the true testament for why this works so well is actually the entrance foyer, which in this production stood for Violetta's house.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1635099885/media/2021/10/MassOpera_Traviata_Fourth_080_j7bszz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1635099885/media/2021/10/MassOpera_Traviata_Fourth_080_j7bszz.jpg)
 
 <figcaption>Alisa Cassola as Violetta Valéry and David Bozón as Alfredo Germont in La traviata, MassOpera, 2021. Photo: Nile Scott Studios.</figcaption>
 
@@ -61,7 +69,9 @@ The opera opens in this space, with warm brown lighting and champagne bottles th
 
 The mere act of walking back into the room and finding such destitution in a space that I remembered for being so opulent just over an hour before took my breath away, and this feeling of complete desolation was only amplified when the solo violin that provided the only accompaniment in the last act of the opera came down the grand staircase that led up to the house's second floor. The house, in a way, became a character in Verdi's drama, and it thus dictated the tone of the work in a way that I have never seen a set dictate the mood, and I am all there for it.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1635099911/media/2021/10/MassOpera_Traviata_Fourth_090_otmjdj.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1635099911/media/2021/10/MassOpera_Traviata_Fourth_090_otmjdj.jpg)
 
 <figcaption>Alisa Cassola as Violetta Valéry and David Bozón as Alfredo Germont in La traviata, MassOpera, 2021. Photo: Nile Scott Studios.</figcaption>
 
@@ -73,7 +83,9 @@ The cast was admittedly helped quite a bit by how the score was truncated to jus
 
 I felt that Alisa Cassola's Violetta could perhaps have done a little more more to portray the frailty of her character during the middle two acts, but she really hit Violetta out of the park in every other way that matters to her character, from how she expresses her devotion to Alfredo to Germont in Act I to her "Sempre libera", which was really the only way to end the first act.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1635099921/media/2021/10/MassOpera_Traviata_Fourth_105_bx15b9.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1635099921/media/2021/10/MassOpera_Traviata_Fourth_105_bx15b9.jpg)
 
 <figcaption>Alisa Cassola as Violetta Valéry in La traviata, MassOpera, 2021. Photo: Nile Scott Studios.</figcaption>
 

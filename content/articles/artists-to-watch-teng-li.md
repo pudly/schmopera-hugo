@@ -21,7 +21,7 @@ The Walton Concerto has become one of the most standard repertoires in viola lit
 
 One of the many things I love about this work is the fact that it was premiered by Paul Hindemith (1895 - 1963) and that the work played a role in bringing together the duo in friendship.  Hindemith, one of the most influential German composers and educators of the 20th century, is someone I admire very much - actually I recently recorded his Viola Sonata on my Azica Records' disc, *1939*.  Knowing the friendship that blossomed from the collaboration is significant to me somehow.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478533662389/2016-11-08---1939-booklet.jpg.jpg)<figcaption>Album photography by Bo Huang.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478533662389/2016-11-08---1939-booklet.jpg.jpg)<figcaption>Album photography by Bo Huang.</figcaption>
 </figure>
 
 ## Can you tell us about Morningside Music Bridge, and its mission?
@@ -38,7 +38,7 @@ I also remember commuting between Philadelphia and Toronto for lessons, classes,
 
 I think it's really like anything else, working hard and finding opportunity.  I have been lucky throughout my career to have the opportunities I've had.  Additionally, the TSO is very proud of their players and offer principal players solo opportunities.  
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478533812862/2016-11-08---Teng-Li-Bo-Huang.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478533812862/2016-11-08---Teng-Li-Bo-Huang.jpg.jpg)
 <figcaption>Photo by Bo Huang.</figcaption>
 </figure>
 

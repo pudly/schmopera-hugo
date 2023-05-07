@@ -17,6 +17,7 @@ url = "https://www.facebook.com/Ileana.Montalbetti.soprano"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/immontalbetti"
+_template = "people_single"
 +++
 
 <p>

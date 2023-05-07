@@ -20,6 +20,6 @@ It's one of the most epic face-offs between Bugs and Elmer, cloaked in a 7-minut
 
 Our favourite line is when Bugs echoes Elmer's line like it's the saddest thing he's ever heard: ["...kill the wabbit...?"](http://store.schmopera.com/collections/womens-t-shirts/products/kill-the-wabbit-womens-t-shirt)
 
-<figure data-type="video">{{% md %}}<iframe src="https://player.vimeo.com/video/115773980" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<figure data-type="video"><iframe src="https://player.vimeo.com/video/115773980" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 </figure>

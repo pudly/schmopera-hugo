@@ -19,7 +19,9 @@ youtube_url = ""
 +++
 [Vancouver Opera](/scene/companies/vancouver-opera/) opened its first full season since the pandemic began with a production of Bizet's _Pearl Fishers_. In this version, VO started the opera with…. Bizet. The composer, played by Jason Cook, appears on stage in 1860s garb to begin the opera. He is joined by the principals, themselves decked in 1860s costume as Bizet hands out the scores to each and then they begin reviewing. During this, the projections describe how the librettists and composer themselves had never visited "Ceylon" (currently Sri Lanka) nor knew about the culture, and were writing from a place of ignorance. Then the curtain rises on the chorus, sets, costumes, and the opening in the tropical setting full of palm trees. The principals, still in Victorian dress, mix amongst the chorus, until vanishing into the wings, appearing back in their _Pearl Fisher_ costumes for their appointed cues.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666911666/media/2022/10/VO-PearlFishers_-_Full_stage_cast_chorus_-_photo_by_Emily_Cooper_Photography_ozewyw.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666911666/media/2022/10/VO-PearlFishers_-_Full_stage_cast_chorus_-_photo_by_Emily_Cooper_Photography_ozewyw.jpg)
 
 <figcaption>The cast of The Pearl Fishers, Vancouver Opera, 2022. Photo: Emily Cooper Photography.</figcaption>  
 </figure>
@@ -28,14 +30,18 @@ The VO chorus starts with a rousing _Sur la grève en feu,_ about the dangers th
 
 Aaron Blake's Nadir was passionate and bright, with an agile tenor with high notes to spare. He brought pathos and sympathy to his plight, and his friendship with Zurga, and affection for Leïla were poignant and heartfelt. Addis was an absolute powerhouse as Zurga, with phenomenal and stratospheric high notes with a brilliant colour. He was menacing and sympathetic in equal measure, and his change of heart in the finale was heartfelt and genuine.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666911700/media/2022/10/VO-Pearl-Fishers-Phillip_Addis_Aaron_Blake_-_photo_by_Emily_Cooper_Photography_n2jm9s.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666911700/media/2022/10/VO-Pearl-Fishers-Phillip_Addis_Aaron_Blake_-_photo_by_Emily_Cooper_Photography_n2jm9s.jpg)
 
 <figcaption>Phillip Addis as Zurga (left) and Aaron Blake as Nadir in The Pearl Fishers, Vancouver Opera, 2022. Photo: Emily Cooper Photography.</figcaption>  
 </figure>
 
 To balance this pair was [Miriam Khalil](/scene/people/miriam-khalil/) as Leïla. While the veiled priestess is mostly stationary for Act I, she brought a beautiful warmth to the role, with a light soprano that floated effortlessly in the quietest moments, holding back her affections for Nadir, and remaining stoic and steadfast in her duty until she can no longer deny her feelings for Nadir. In the third act, her pleas to save his life came with both strength and gentleness in equal measure. Bass-baritone [Vartan Gabrielian](/scene/people/vartan-gabrielian/) rounds out the cast as Nourabad, with a dark vocal colour and strength that worked in perfect contrast to the brighter voices on stage, and his menace and power came through with his strong presence, and stronger bass.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666911731/media/2022/10/VO_-_Pearl_Fishers_-_Miriam_Khalil_-_photo_by_Emily_Cooper_Photography_ndjfvg.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666911731/media/2022/10/VO_-_Pearl_Fishers_-_Miriam_Khalil_-_photo_by_Emily_Cooper_Photography_ndjfvg.jpg)
 
 <figcaption>Miriam Khalil as Leïla in The Pearl Fishers, Vancouver Opera, 2022. Photo: Emily Cooper Photography.</figcaption>  
 </figure>
@@ -44,7 +50,9 @@ Directorially, the approach taken in this production was very traditional. The c
 
 The VO orchestra, conducted by Kamna Gupta was in fine form, with lush orchestrations that are the hallmark of Bizet's style, delivered with precision and grace. Bizet can be very difficult to execute well, but Gupta handled it brilliantly with soaring highs and achingly poignant lows.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666911759/media/2022/10/VO-PearlFishers-Aaron_Blake_and_chorus_-_photo_by_Emily_Cooper_Photography_nbtolt.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666911759/media/2022/10/VO-PearlFishers-Aaron_Blake_and_chorus_-_photo_by_Emily_Cooper_Photography_nbtolt.jpg)
 
 <figcaption>Aaron Blake (Nadir) and the Vancouver Opera Chorus in The Pearl Fishers, Vancouver Opera, 2022. Photo: Emily Cooper Photography.</figcaption>  
 </figure>
@@ -53,7 +61,9 @@ Four South Asian dancers round out the ensemble with various dance scenes throug
 
 What was missing from the production was any South Asian singers. With a Lower Mainland population of \~300,000 South Asian people with a vibrant local arts community, and a global population approaching 2 billion, I don't know why VO chose not to cast South Asian leads, or delay the production until they could be scheduled. It would have been a wonderful opportunity for South Asian singers to showcase their talent and their culture in such a diverse and multicultural city as Vancouver. Working with the Asian Opera Alliance or South Asians in Western Classical Music, casting singers like Meher Pavri, Asitha Tennekoon, Maya Kherani, or Nikhil Navkal would have brought some amazing representation to these phenomenal artists.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666911781/media/2022/10/VO-Pearl_Fishers-Vartan_Gabrielian_Miriam_Khalil_Phillip_Addis_-_photo_by_Emily_Cooper_Photography_avfy7o.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666911781/media/2022/10/VO-Pearl_Fishers-Vartan_Gabrielian_Miriam_Khalil_Phillip_Addis_-_photo_by_Emily_Cooper_Photography_avfy7o.jpg)
 
 <figcaption>(l-r) Vartan Gabrielian as Nourabad, Miriam Khalil as Leïla, and Phillip Addis as Zurga in The Pearl Fishers, Vancouver Opera, 2022. Photo: Emily Cooper Photography.</figcaption>  
 </figure>

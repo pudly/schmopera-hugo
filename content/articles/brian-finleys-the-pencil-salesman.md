@@ -28,7 +28,7 @@ It is ultimately the Pencil Salesman – the seller of simplicity – who suppli
 
 Each character in *The Pencil Salesman* personifies a unique aspect of change.  Boris resists it adamantly. Edward craves it. Boris’s wife Rose is tired of it while his brother Aaron tries desperately to ride its ebbs and flows, relying on his wife Flo to keep him in the know. Edward’s wife Daisy tries to help everyone else understand it, while her daughter Violet tries to make sense out of it all.  Around this, the Pencil Salesman just keeps it simple! 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452617233689/2016-01-12---Brian-Finley.jpg.jpg)<figcaption>Brian Finley, composer and Westben Theatre Artistic & Managing Director.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452617233689/2016-01-12---Brian-Finley.jpg.jpg)<figcaption>Brian Finley, composer and Westben Theatre Artistic & Managing Director.</figcaption>
 </figure>
 
 ## What drew you to this story, and why did you think it would make a good opera?

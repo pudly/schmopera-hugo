@@ -12,6 +12,7 @@ title = "Eleanor Dennis"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/elliedennis17"
+_template = "people_single"
 +++
 
 Scottish soprano Eleanor Dennis is a graduate of the Royal College of Music's International Opera School and a Harewood Artist at the English National Opera where her roles have so far included Contessa *Le nozze di Figaro* and Micaela *Carmen*.

@@ -8,6 +8,7 @@ related_companies = ["scene/companies/the-atlanta-opera.md","scene/companies/roy
 slug = "jennifer-larmore"
 title = "Jennifer Larmore"
 website = "https://www.jenniferlarmore.net/"
+_template = "people_single"
 +++
 
 Jennifer Larmore is an American mezzo-soprano, with a wide-ranging repertoire, having begun with the coloratura roles of the Baroque and bel canto then adding  music from the  Romantic and Contemporary periods.  

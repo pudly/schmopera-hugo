@@ -23,6 +23,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/robertwesleymason/"
 
+_template = "people_single"
 +++
 Wes has been celebrated for his visceral story telling ability where he "deploys his mighty baritone to stunning effect, using interpretive phrasing and nuanced delivery” (Albany Times Union). This past November, Wes returned to Nashville Opera in his role debut as Charlie in Heggie and Scheer’s _Three Decembers_. This winter he returns to Fargo-Moorhead Opera for another run of _Three Decembers_ as well as Escamillo in Carmen, followed by his debut with Eugene Opera, reprising the role of Hannah Before in Kaminski, Campbell, and Reed’s _As One_. Additionally, this summer will see two more company and role debuts as he joins Urban Arias as a soloist in their production of Elvis Costello’s _The Juliet Letters_ and West Edge Opera for the West Coast Premiere of Mazzoli and Vavrek’s _Breaking the Waves_ as Jan Nyman.
 

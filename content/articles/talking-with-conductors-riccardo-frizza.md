@@ -22,7 +22,9 @@ In my opinion *Falstaff* is a special opera, especially because it is the genius
 
 I believe that the great singers of Italian repertoire do not need special indications.  Actually, some of the great singers of the past, when it comes to *bel canto*, were not Italian.  You only have to think of Joan Sutherland, Montserrat Caballé, Alfredo Kraus and many others.  
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508175036822/2017-10-16---I-Puritani-Budapest-2017_ph-Poszto%CC%81s-Ja%CC%81nos.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508175036822/2017-10-16---I-Puritani-Budapest-2017_ph-Poszto%CC%81s-Ja%CC%81nos.jpg.jpg)
 <figcaption></figcaption>
 </figure>
 

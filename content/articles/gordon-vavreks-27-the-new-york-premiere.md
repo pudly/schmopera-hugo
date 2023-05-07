@@ -36,7 +36,9 @@ title = "Gordon &amp; Vavrek&#039;s 27: the New York premiere"
 
 **RV**: Stephanie Blythe has one of the most amazing, singular voices in the world today.  When I dreamed up the libretto it was always with the knowledge that Stephanie was Gertrude, so she was always in my imagination when I was crafting the text and drama for the opera.  More and more it seems like I am writing works for particular performers, which really does help in creating multi-dimensional portraits. There is a great deal of alchemy that exists when creating opera, and when all of the parts come together – text, music, performance, production – it creates a world more dynamic than the sum of its parts, and something truly special happens. I feel like that is the case with *27*… we all came together knowing that the soul of the work resided in Gertrude Stein and we all wanted to celebrate her spirit in the most vigorous way possible.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476719668024/2016-10-18---27.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476719668024/2016-10-18---27.jpg.jpg)
 <figcaption>Stephanie Blythe as Gertrude Stein in Opera Theatre of Saint Louis’ 2014 production of *27*. Photo by Ken Howard.</figcaption>
 </figure>
 

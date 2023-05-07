@@ -12,6 +12,7 @@ website = "http://www.eratoensemble.com/Home_Page.php"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/EratoEnsemble"
+_template = "company_single"
 +++
 
 ERATO is an art-song chamber collective formed in 2006 by tenor/composer William George and soprano/composer Catherine Laub. 

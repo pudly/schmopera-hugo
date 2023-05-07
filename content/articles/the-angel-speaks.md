@@ -23,7 +23,9 @@ Last year, they presented _Harmonia Sacra_, a concert displaying singers, baroqu
 
 There was some déjà-vu this time around, as audiences seated themselves in the same Currelly Gallery, with the handful of Tafelmusik players on one end of the runway. This time titled _The Angel Speaks_, the programme of music by Purcell and William Boyce looked familiar, and I was pleased to see _Inception_ included. (It's worth noting that between these two ROM concerts, and its place in Atelier's 2018 [double-bill of _Actéon_ and _Pygmalion_](/a-daring-desirous-double-bill-at-opera-atelier/), I've now heard _Inception_ three times within one year - not bad for a new Canadian commission.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550939236/media/2019/02/OAROM4.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550939236/media/2019/02/OAROM4.jpg)
 
 <figcaption>Jesse Blumberg and Tyler Gledhill. Photo: Bruce Zinger/Opera Atelier.</figcaption>
 
@@ -31,7 +33,9 @@ There was some déjà-vu this time around, as audiences seated themselves in the
 
 Also on the programme was the latest from Huizinga, _Annunciation_. It's a piece inspired by Rilke's poem _Verkündigung_, presented as a work-in-progress for two singers (the deft [Jesse Blumberg](/scene/people/jesse-blumberg/) and [Mireille Asselin](/scene/people/mireille-asselin/)), contemporary and baroque dancers, and baroque ensemble. Opera Atelier Co-Artistic Director and stage director Marshall Pynkoski briefed us on the plans for _Annunciation_, teasing us with ideas of expanding it into a dramatic cantata, or even a one-act opera.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550939155/media/2019/02/OAROM3.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1550939155/media/2019/02/OAROM3.jpg)
 
 <figcaption>Artists of the Atelier Ballet, Mireille Asselin, and Jesse Blumberg. Photo: Bruce Zinger/Opera Atelier.</figcaption>
 

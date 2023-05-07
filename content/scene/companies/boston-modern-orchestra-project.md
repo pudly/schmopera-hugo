@@ -18,6 +18,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/BMOPmusic"
 
+_template = "company_single"
 +++
 #### History
 

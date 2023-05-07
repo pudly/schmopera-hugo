@@ -23,7 +23,9 @@ The athletic activity is totally different from what you need for singing. Indee
 
 The theater stage and movie sets are totally different. On the set you can make little movements and the camera will get them all, in the theater this does not happen; the movement must be more evident (but you must not overact it) in order to show the event to the people sitting far from the stage. On the movie set, you can repeat a scene fifty times if necessary, while in the theater you have to be good the first time around. On the set the camera always gets the best angle for the fight, to make it as real as possible; on the theater stage, *you* have to find the best angle to show the fight to the audience, and it has to look real. Making a good fight scene on the theater stage is definitely much more difficult.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491324401934/2017-04-04---Riccardo-Massi-Benjamin-Ealovega.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491324401934/2017-04-04---Riccardo-Massi-Benjamin-Ealovega.jpg.jpg)
 <figcaption>Riccardo Massi, tenor. Photo by Benjamin Ealovega.</figcaption>
 </figure>
 

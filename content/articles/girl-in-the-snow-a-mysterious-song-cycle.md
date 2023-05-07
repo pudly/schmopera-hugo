@@ -21,7 +21,9 @@ Sometimes musical experiences are enhanced when they appear in close proximity t
 
 These are deeply introspective pieces, both non-linear as they move in and out of stream of consciousness storytelling. Despite their sense of longing and isolation, exposure to them induces feelings of emotional and intellectual satisfaction. They are ravishing if melancholic excursions. This being Schmopera, we are here to ponder _Girl In The Snow_. Still I would urge readers to visit [Berkeleyrep.org](https://berkeleyrep.org/) before May 28 to ride _The Waves In Quarantine_ and take a most convergent journey with Virginia Woolf and David Bucknam.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621562940/media/2021/05/GirlintheSnow-ScottOrdway_igfmlc.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1621562940/media/2021/05/GirlintheSnow-ScottOrdway_igfmlc.jpg)
 
 <figcaption>Scott Ordway, composer of Girl in the Snow. Photo: Amanda Greene.</figcaption>  
 </figure>
@@ -51,7 +53,9 @@ The air that holds your wings._
 
 In "Mystery Play No. 3" Ordway traverses in minimalism with subtle and relentless variation on singular notes. The role of the piano rises from accompaniment to that of the subconscious or spirit guide. Clearly Ordway has employed Augustine's ancient concept of interiority in evocative musical service. Anna Naretto brings uncommon sensitivity to her piano accompaniment. How fortunate for the recording to have a collaborator who so readily absorbs and expresses its many spiritual and emotional moods. While Naretto is the consummate accompanist she is also a vital partner on this journey that would not reach its destination so movingly without her nuanced touch at the keyboard.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621563050/media/2021/05/GirlintheSnow-AnnaNaretto_ypnazz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1621563050/media/2021/05/GirlintheSnow-AnnaNaretto_ypnazz.jpg)
 
 <figcaption>Anna Naretto, pianist. Photo: Evelyn Fay.</figcaption>  
 </figure>
@@ -60,7 +64,9 @@ The recording is expertly engineered by Alexander Brusencev, who has a long rela
 
 Joining Naretto is [Julia Dawson](/scene/people/julia-dawson/), a brilliant coloratura mezzo soprano who, like Ordway's poetry, brings a sense of timelessness to the work. While Dawson's voice blooms with gorgeous high notes and impressive flexibility, the singer sustains a steady reserve, readily felt if not easily defined. It leans towards overarching self-awareness. Perhaps we are hearing the voice of the girl in the woods who has already found Augustine's concept of inner peace and is simply reliving the journey with the most elegantly expressed insight. This puts a metaphysical spin on an already mysterious song cycle, one that repeated listenings may only deepen. Whatever the answer, Dawson delivers a dramatically mesmerizing and vocally polished performance that ads luster to the work's already impressive patina.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621563004/media/2021/05/GirlintheSNow-JuliaDawson_ldye9k.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1621563004/media/2021/05/GirlintheSNow-JuliaDawson_ldye9k.jpg)
 
 <figcaption>Julia Dawson, mezzo-soprano. Photo: Cacao Produccines.</figcaption>  
 </figure>

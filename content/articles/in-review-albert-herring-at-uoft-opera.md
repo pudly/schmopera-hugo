@@ -17,7 +17,9 @@ So much celebration happened on Thursday night. Director [Joel Ivany](http://www
 
 I was able to catch the opening night performance of _Albert Herring_ at the University of Toronto, and I'm so glad I did. Thursday night's cast was well-balanced, an important element when presenting what's really an ensemble piece; _Herring_ is a little bit about everyone. Kudos go to Joel Ivany for showing characters that are specific and recognizable; we began to feel as though we had known them for years.
 
- <figure data-type="image">{{% md %}} ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883385812/JanFinal.jpg.jpg)
+ <figure data-type="image">
+
+ ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883385812/JanFinal.jpg.jpg)
  <figcaption>Tenor Jan Nato</figcaption>
  </figure>
 
@@ -29,7 +31,9 @@ In the role of Nancy was mezzo-soprano Melissa Peiou. She sang well, but I was l
 
 [Christina Bell](https://twitter.com/ziggy_1089) was delightfully shrill and self-important as Lady Billows. Christina sang with plenty of power, but I sensed a tendency for her to hold back her sound. The role of Lady Billows is a big, ridiculous, vocal hyperbole, and it almost seemed as though Christina didn't quite grasp why Britten's writing is so funny. I'm curious to hear her sing other repertoire, since I'm not convinced I got a good slice of her skills in this particular role.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883455355/Laurelle.jpeg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883455355/Laurelle.jpeg)
 <figcaption>Mezzo-soprano Laurelle Jade</figcaption>
 </figure>
 
@@ -37,7 +41,9 @@ Laurelle Jade was hilariously uppity and self-righteous as Lady Billows' houseke
 
 Another highlight was Sonya Gosse as Albert's mum, Mrs. Herring. Sonya is an alumna of the UofT Opera program; it was fitting to have her as a part of this production of _Albert Herring_, and it helped that she was fantastic in the role. She was sufficiently overbearing and attention-hogging without crossing the line of caricature, and I loved watching her throughout the opera's final scene as she "grieved" for her lost son. Sonya is a regular member of the COC Chorus, and it was there that I got to know Sonya a bit over the years; it was really great for me to see her in a role that showcased her skills so well.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883512089/Adanya.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883512089/Adanya.jpg.jpg)
 </figcaption>Soprano Adanya Dunn</figcaption>
 </figure>
 

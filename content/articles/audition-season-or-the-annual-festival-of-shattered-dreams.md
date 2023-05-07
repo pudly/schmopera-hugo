@@ -44,7 +44,7 @@ And while I do not think it sensible to believe any such venture could be refine
 
 But we get ahead of ourselves.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476175882149/2016-10-08---Chess.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476175882149/2016-10-08---Chess.jpg.jpg)
 </figure>
 
 It seems to me that the most fundamental problem in the young artist program selection process begins in that oh-so-brilliant double whammy of bureaucracy and laziness: the prescreening recording. This issue can be dispatched with quickly and effectively:

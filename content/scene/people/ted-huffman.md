@@ -13,6 +13,7 @@ website = "http://www.tedhuffman.com/"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/tedrhuffman/"
+_template = "people_single"
 +++
 
 Director Ted Huffman was recently nominated for an Olivier Award for Best New Opera Production and for an RPS Music Award in Opera for *4.48 Psychosis* at the Royal Opera House, Covent Garden. He is the also recipient of a 2017 MacDowell Fellowship with composer Philip Venables.

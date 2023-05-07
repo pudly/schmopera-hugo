@@ -7,6 +7,7 @@ publishDate = "2017-09-17T19:07:00-04:00"
 related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/washington-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/seattle-opera.md","scene/companies/the-juilliard-school.md"]
 slug = "aubrey-allicock"
 title = "Aubrey Allicock"
+_template = "people_single"
 +++
 
 Hailed by the New York Times as "sturdy", "dynamic", and "excellent", Aubrey Allicock continues to make his mark among important opera companies and symphonies both at home and abroad.

@@ -28,7 +28,9 @@ One of the things that we find most exciting about the programming for this conc
 
 For my part, I loved setting this poetry because of its dynamic range of emotion amongst the characters that are portrayed. From the *Death of Artists*' lightly wafting scents to its bannered flames; the Evil Monk's tumultuous conflict and perceived fall from grace simply because of the love of his eye, something he believes that all must see, his "living spectacle"; the *Death of Artists*' consummation of subtle schemes to its hammering of brows and bosom! 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445310486554/pasted-graphic-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445310486554/pasted-graphic-1.jpg.jpg)
 <figcaption>Erik Ross, composer. Photo courtesy of erikrossmusic.com.</figcaption>
 </figure>
 
@@ -53,7 +55,9 @@ Ambur is also sublime. I have only met with Ambur one time and as soon as she st
 
 Carla is an incredible performer, but I describe her moreso as an interpreter. She doesn’t just sing the music you give her — she delves deep into the reasons for musical and textual decisions, and truly transforms into the character she is asked to portray. Because of her vast experience, she also provided valuable feedback during the creative process about text, pacing, vocal writing and lots of other tricky things that composers and writers are required to navigate. She is also a pleasure to write for because she has such a versatile voice that can portray so many different emotions with great subtlety. She tackled all the vocal challenges I wrote into the piece and made it her own.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445310539657/Brian-Photo-Tangent-Ensemble-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445310539657/Brian-Photo-Tangent-Ensemble-2.jpg.jpg)
 <figcaption>Brian Harman, composer. Photo courtesy of portmanto.ca.</figcaption>
 </figure>
 

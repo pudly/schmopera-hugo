@@ -24,7 +24,9 @@ The singer is asked to narrate as well as sing. Much of the monologue is set to 
 
 Opera singers memorize whole evenings of text, often in a foreign language, which is a challenge, but the music and staging offer triggers to use as road marks. Reciting text alone from one place on stage I find more difficult.  It is crucial for me to delve completely into the story to remember what’s next. I'm learning, too, that reciting text and singing text require different diction. The kind of English diction required for a singer in a large hall, un-amplified, tends to pop and sputter into a microphone, whereas normal speech patterns aren't quite enough. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477309099360/2016-10-24---NancyAllenLundy.jpg.jpg)<figcaption>Nancy Allen Lundy, soprano. Photo by Masataka Suemitsu.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477309099360/2016-10-24---NancyAllenLundy.jpg.jpg)<figcaption>Nancy Allen Lundy, soprano. Photo by Masataka Suemitsu.</figcaption>
 </figure>
 
 ## What kind of reaction do you sense from the audience when you perform *Dracula*?

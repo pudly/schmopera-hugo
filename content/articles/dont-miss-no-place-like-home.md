@@ -19,7 +19,9 @@ The theme "No Place Like Home" came from the ideas of birth place, diaspora, tra
 
 **Patty Chan, Concertmaster of the Toronto Chinese Orchestra (Erhu)**: To me, home is wherever your heart is. It's not a specific place. I believe that home is where you are loved and where you feel safe. The two pieces that I have written were inspired by searching for commonalities in different cultures, but also celebrating their diversity. In multicultural Canada, I think this is one of our strengths.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526953361486/PattyChan.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526953361486/PattyChan.jpg.jpg)
 <figcaption>Patty Chan, Concertmaster of the Toronto Chinese Orchestra (Erhu).</figcaption>
 </figure>
 
@@ -33,7 +35,9 @@ The theme "No Place Like Home" came from the ideas of birth place, diaspora, tra
 
 And to have a home, it's also important to have a place that is not-home - which is easy enough to define if you only feel at home in one place, but much more difficult when, say, you fly across the world and feel like you understand the heartbeat of a totally foreign city. That feeling isn't home-as-a-place, that feeling is home-as-a-mental-state.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526953414622/SpectrumTrio.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526953414622/SpectrumTrio.jpg.jpg)
 <figcaption>(l-r) Cynthia Qin (Gu Zheng/Chinese Harp) and Di Zhang (Yangqin/Chinese Dulcimer), members of the Toronto Chinese Orchestra, performing *No Place Like Home*.</figcaption>
 </figure>
 

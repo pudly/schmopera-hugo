@@ -23,7 +23,9 @@ I was a particularly loud, attention-seeking and imaginative child. My parents s
 
 I believe good singing is the by-product of physical, mental, technical and musical preparation, an intimate understanding of your breath, and an unbridled commitment to the present moment. As an audience member, good singing is bewitching; when I hear a voice that is struggling, I often am distracted by my own diagnosing and speculating. As a singer, good singing is invigorating, and kind of zen. You start to lose track of the analytical voice in your head, because you are so generously committed to the present moment.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466372590725/2016-06-20---PickettCentreStage.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466372590725/2016-06-20---PickettCentreStage.jpg.jpg)
 <figcaption>Pickett at the Canadian Opera Company's *Centre Stage*, 2015. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -37,7 +39,9 @@ Young singers need to spend much less energy on their psychic abilities. By that
 
 Ellen Orford in *Peter Grimes*, Lady Macbeth in Verdi's *Macbeth*, Isolde in *Tristan und Isolde*, Judith in *Bluebeard's Castle*, Samuel Barber's Vanessa. I would love to sing Manon and Violetta, but I don't think those roles are in the cards for me. Of the other voice types, I have serious tenor envy. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466372642669/2016-06-20---PickettSchicchi.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466372642669/2016-06-20---PickettSchicchi.jpg.jpg)
 <figcaption>Pickett as La Ciesca in Opera McGill's *Gianni Schicchi*, 2015. Photo: Tam Lan Truong.</figcaption>
 </figure>
 

@@ -12,6 +12,7 @@ title = "Cameron McPhail"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Cameron_McPhail"
+_template = "people_single"
 +++
 
 <p>

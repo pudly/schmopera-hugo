@@ -15,6 +15,7 @@ url = "https://www.facebook.com/alaina.viau.3?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AlainaViau"
+_template = "people_single"
 +++
 
 Alaina's passion for classical music and opera was ignited at the age of 11 when she participated in the children's chorus for Opera Hamilton's production of *Tosca*. Several years of choir and vocal studies led her to complete a Bachelor of Music at the University of Ottawa in vocal performance with a special interest in conducting and artistic direction.

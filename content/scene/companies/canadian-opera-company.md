@@ -16,6 +16,7 @@ url = "https://www.facebook.com/canadianoperacompany"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CanadianOpera"
+_template = "company_single"
 +++
 
 Based in Toronto, the Canadian Opera Company is the largest producer of opera in Canada and one of the largest in North America. The company enjoys an international reputation for artistic excellence and creative innovation.

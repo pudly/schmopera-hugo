@@ -17,14 +17,14 @@ American baritone [Brian Mulligan](/scene/people/brian-mulligan/) has released h
 
 Mulligan has a thrilling quality in his voice, an open-throated sound that's masculine, honest, and completely appealing; his is an exhilarating balance between constant beauty and toeing a risky edge. There's something accessible about his approach to the texts in Argento's songs; in Mulligan's voice they have an "all-American" quality, despite the texts' origins in Swedish explorers and English writers.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507906734795/2017-10-13---BrianMulligan_Argentoalbumimage_Naxos.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507906734795/2017-10-13---BrianMulligan_Argentoalbumimage_Naxos.jpg.jpg)
 </figure>
 
 With pianist Timothy Long, Mulligan makes an extraordinary journey of sound in both song sets. [*The Andrée Expedition*](https://www.brian-mulligan.com/the-andre-expedition/) is divided into two parts, and Argento writes a crystal-clear picture of the explorers' shift from strapping confidence and heroic pride, to quiet fatigue and even tacit regret. In their letters and diaries, Salomon Andrée, Nils Strindberg, and Knut Froenkel started off with a manly excitement for discovery; it's something that Mulligan and Long depict with bold, crashing sounds and triumphant cries.
 
 That edge that they ride is what carries the slow denouement of part II of Argento's set. The texts become less fearless, and more about grasping for normalcy and home. Mulligan gathers his sound into something intimate, sad in its optimism. It's enough to remind listeners of the desperate vacuum in which Strindberg and Froenkel's letters were written; where would they have hoped to find a post office along their North Pole voyage?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507681101605/Eagle-crashed.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507681101605/Eagle-crashed.jpg.jpg)
 <figcaption>S. A. Andrée and Knut Frænkel with the crashed balloon, photographed by Nils Strindberg. The exposed film for this photograph and others from the failed 1897 expedition was recovered in 1930.</figcaption>
 </figure>
 

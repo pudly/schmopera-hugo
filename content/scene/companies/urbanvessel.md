@@ -16,6 +16,7 @@ url = "https://www.facebook.com/urbanvessel"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/urbanvessel"
+_template = "company_single"
 +++
 
 At the intersection of multiple disciplines and cultures, Urbanvessel forges new connections, reflects contemporary life, and subverts social assumptions. Centred in the power of the human voice, Urbanvessel‘s creative works aim to alter our audience’s perspective on their world.

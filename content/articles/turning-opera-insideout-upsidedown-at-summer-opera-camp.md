@@ -30,7 +30,9 @@ title = "Turning opera &quot;inside-out, upside-down&quot; at Summer Opera Camp"
 
 **Jen**: You keep it moving quickly. I don't talk a lot, I like to just get up on our feet...that's what helps them get over any nervousness they might have as well. We're doing drama games right away...name games, get-to-know-you games, circle stuff. Because I come from a heavy dance background I prefer to start with movement for kids, because there's less inhibition when kids use their physical expression, more than their voice at first. So I get them making shapes and partnering, moving around the space; there's not a lot of silence in the room.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434741024713/IMG_0077lightened_resized.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434741024713/IMG_0077lightened_resized.jpg.jpg)
 <figcaption>Participants learn to make wigs & mustaches during the COC's 2013 Summer Youth Intensive.</figcaption>
 </figure>
 

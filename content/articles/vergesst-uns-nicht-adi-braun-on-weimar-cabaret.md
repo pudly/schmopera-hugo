@@ -31,7 +31,9 @@ When North Americans think of cabaret, we think of some level of counterculture,
 
 Adi's research uncovered new artists, new songs, and new vantage points into this kind of cabaret music, a genre that seems as insular as it is influential. "I found a great amount of fantastic songs by composers and poets and fell in love with the performers whose renditions I found on old recordings and YouTube clips. I discovered and am discovering so many different kinds of singers who we have now forgotten or never even heard of…so many daring ways of interpreting these brilliant songs and I was deeply touched by their art."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450387990795/2015-12-12---Blandine.jpg.jpg)<figcaption>Blandine Ebinger, German actress and cabaret singer.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450387990795/2015-12-12---Blandine.jpg.jpg)<figcaption>Blandine Ebinger, German actress and cabaret singer.</figcaption>
 </figure>
 
 ## A progressive cabaret scene
@@ -44,7 +46,9 @@ Lyricists and composers worked as a team, almost branding themselves with their 
 
 Women played a particularly pivotal role in the world of cabaret, especially after 1920, when they were given the right to vote. They were an integral part of artistic collaborative teams, both professionally and personally. "Some were even married, as was the case with Friedrich Hollaender and his wife Blandine Ebinger, or lyricist Marcellus Schiffer and his wife Margo Lion. Many composers and lyricists wrote specific songs for specific performers." Female cabaret vocalists rose quickly in Weimar cabaret in song genres that ranged from prostitute songs, to ballads, to parodies and satirical songs.  In the performance practices they were at once "diseuses" (ones who spoke more than sang) and "chanteuses" (ones who sang more than spoke). "Female artists in particular fought to maintain this image of the newly liberated German woman," says Adi, "and no-where was this 'not-so-quiet' trend felt more profoundly than on the stages of Berlin cabarets."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450388036531/2015-12-12---Margo-Lion.jpg.jpg)<figcaption>Margo Lion, French *chanteuse* and actress.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450388036531/2015-12-12---Margo-Lion.jpg.jpg)<figcaption>Margo Lion, French *chanteuse* and actress.</figcaption>
 </figure>
 
 ## Reviving lost art

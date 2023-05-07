@@ -20,6 +20,7 @@ url = "https://twitter.com/MeashaBG"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/MeashaBG"
+_template = "people_single"
 +++
 
 Motivated and hungry for new experiences, Ms. Brueggergosman’s career effortlessly embraces the broadest array of performance platforms and musical styles and genres.

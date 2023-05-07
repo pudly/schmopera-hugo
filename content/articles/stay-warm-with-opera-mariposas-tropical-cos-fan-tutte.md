@@ -22,7 +22,9 @@ For me, the goal for Opera Mariposa's production was to allow the opera's spirit
 
 To me, the most potentially problematic elements of a traditional staging are also the most unnecessary. These days, we can acknowledge that Ferrando and Guglielmo's dressing up "as Albanians" is culturally insensitive; we can also take issue with the sexually aggressive way that their pursuit of Fiordiligi and Dorabella is sometimes staged. Yet both these elements are presented as jokes, and neither is necessary to make the story work. The boys can dress up as pretty much anything, and it's just as hilarious. The girls don't need to be touched against their will or have their personal space invaded in order to make it clear that the boys are courting them.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543256866236/CosiFanTutte_cast_1_photobyKathrynNickford_print.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543256866236/CosiFanTutte_cast_1_photobyKathrynNickford_print.jpg.jpg)
 <figcaption>One of two casts of Opera Mariposa's *Così fan tutte*. Photo: Kathryn Nickford.</figcaption>
 </figure>
 
@@ -46,7 +48,9 @@ First and foremost, I hope they think it's hilarious! But on top of that, I hope
 
 I believe that just as audiences change over the course of a few hundred years, so too must we rethink our approach to the source material. With masterworks such as *Così*, the shifts are very simple, in the end. The opera has excitement, romance, hilarious hijinks and subversive, satirical cultural commentary all built in. Our job as artists is simply to present that to audiences in the best way possible for them to connect to it – to bring them into the story, and to show them a wonderful time while they're there!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543256888312/Cosi_poster_lettersize.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543256888312/Cosi_poster_lettersize.jpg.jpg)
 </figure>
 
 >Opera Mariposa's production of *Così fan tutte* runs from November 30 to December 8 at Marpole United Church, Vancouver. For details and ticket information, [click here.](http://operamariposa.com/schedule)

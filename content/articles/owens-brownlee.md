@@ -23,7 +23,9 @@ As an opera fangirl who resides in a state with only a couple of opera companies
 
 I fully anticipated stellar singing from Brownlee and Owens, but their programmatic choices were equally brilliant. The first half of the recital was dedicated to operatic arias and duets - featuring fan favorites, of course, as well as a few refreshing surprises.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552411296/media/2019/03/LawrenceBrownleeShervinLainez.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1552411296/media/2019/03/LawrenceBrownleeShervinLainez.jpg)
 
 <figcaption>Lawrence Brownlee, tenor. Photo: Shervin Lainez.</figcaption>
 
@@ -37,7 +39,9 @@ Owens, on the other hand, is best known for heavier, dramatic repertoire, in par
 
 I expected both Brownlee and Owens to excel at their signature arias, but I was caught off guard by the fact that they could sing such a wide range of styles and nail each and every one of them. Vocal versatility at its finest.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552411242/media/2019/03/EricOwensDarioAcosta.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1552411242/media/2019/03/EricOwensDarioAcosta.jpg)
 
 <figcaption>Eric Owens, bass-baritone. Photo: Dario Acosta.</figcaption>
 

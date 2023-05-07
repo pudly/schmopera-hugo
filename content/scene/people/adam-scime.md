@@ -12,6 +12,7 @@ website = "http://www.adamscime.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/adamscime"
+_template = "people_single"
 +++
 
 As a young composer and performer living in Toronto, Adam Scime has been praised as “a fantastic success" (CBC) and "Astounding, the musical result was remarkable" (icareifyoulisten.com). His work has received many awards including the 2015 CMC Toronto Emerging Composer Award, The Socan Young Composer Competition, The Karen Keiser Prize in Canadian Music, and The Esprit Young Composer Competition. His music has been performed and commissioned by many renowned ensembles and soloists including Nouvelle Ensemble Moderne, The Esprit Orchestra, The National Arts Centre Orchestra, The Gryphon Trio, New Music Concerts, Soundstreams, The Bicycle Opera Project, l'Orchestre de la Francophonie, Véronique Mathieu, Nadina Mackie Jackson, and Carla Huhtanen, among others.

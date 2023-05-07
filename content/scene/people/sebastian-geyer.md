@@ -7,6 +7,7 @@ publishDate = "2018-01-24T11:55:00-05:00"
 related_companies = ["scene/companies/oper-frankfurt.md"]
 slug = "sebastian-geyer"
 title = "Sebastian Geyer"
+_template = "people_single"
 +++
 
 In 2018 season, Sebastian Geyer will make his debut at Vienna’s Volksoper. At Oper Frankfurt he will sing Aeneas in Purcell’s *Dido and Aeneas*, Ingo and Kellner in the world premiere of Herrmann’s *Der Mieter*, Barone Tito Belcredi in Trojahn’s *Enrico*. At the Edinburgh International Festival 2013, the baritone made his debut singing Aeneas in Purcell’s *Dido and Aeneas*.

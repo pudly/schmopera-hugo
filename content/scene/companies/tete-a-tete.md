@@ -20,5 +20,6 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/operateteatete/?ref=badge"
 
+_template = "company_single"
 +++
 Led by Artistic Director Bill Bankes-Jones with Music Director Timothy Burke we are a producing opera company and through our productions and opera festivals work with all kinds of artists to develop the artform.

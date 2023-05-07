@@ -17,7 +17,9 @@ Being more of a rock/indie concert-goer, and the occasional Broadway musical, I 
 
 It was my first time at the COC and I was in awe. It was lovely to see people dressed up (I now wish I had worn a tie), and the anticipation in the air was electrifying - it could’ve been my own excitement being an opera virgin, I didn’t know what to expect.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455750946938/2016-02-18---Malcolm-Greg.jpg.jpg)<figcaption>Opera newbie Malcolm Vella with his *Marriage of Figaro* date, contributor Greg Finney.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455750946938/2016-02-18---Malcolm-Greg.jpg.jpg)<figcaption>Opera newbie Malcolm Vella with his *Marriage of Figaro* date, contributor Greg Finney.</figcaption>
 </figure>
 
 We entered the theatre and got to our seats minutes before the curtain rose. The stage set was simple and yet magnificent with a full staircase as the main backdrop, and then the orchestra started and the singing began, WOW! The voices. I never thought operas could be so humorous and enjoyable, I always thought operas were serious and tragic with the cliché of a fat lady in a flowing floor-length  gown and horned helmet - was I wrong!

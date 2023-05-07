@@ -36,7 +36,9 @@ She says it's the only way she can approach this kind of repertoire. "There are 
 
 Goerke empathizes with the urge to push sound out when singing Wagner; his music is known for its enormous scale, yet the best Wagnerians capitalize on the smart orchestration underneath them. "I find, having done this for a little bit now, that it has to do with the kind of colour and the kind of focus that the singers who sing this kind of repertoire have." She's learned that cutting through a large orchestra isn't about volume, "but having the right colour to ride on top of it. Because if you try and push through something, you will lose - there are more of them than you!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453606907035/Siegfried-4492---resized.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453606907035/Siegfried-4492---resized.jpg.jpg)
 <figcaption>Stefan Vinke as Siegfried and Christine Goerke as Brünnhilde in the Canadian Opera Company production of *Siegfried*, 2016. Photo: Michael Cooper.</figcaption>
 </figure>
 

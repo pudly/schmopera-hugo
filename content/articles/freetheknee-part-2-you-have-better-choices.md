@@ -23,7 +23,9 @@ Rather than recap, we decided to use our photoshoot to create a "lookbook" to se
 
 ***
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611006661/Resized---Megan-SFH.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611006661/Resized---Megan-SFH.jpg.jpg)
 <figcaption>[Megan Brunning](/scene/people/megan-brunning/) in Maggy London (size 4), from ODDC Collection. Piano: "Wildcats" by students of PS 48Q, placed at Riverton Charter School.</figcaption>
 </figure>
 
@@ -59,7 +61,9 @@ This versatile and feminine dress can brighten up the room when you're scheduled
 
 </ul>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473682864476/Resized---Orange-Jacket.jpg.jpg)<figcaption>This jacket is selling for $100 on ODDC!</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473682864476/Resized---Orange-Jacket.jpg.jpg)<figcaption>This jacket is selling for $100 on ODDC!</figcaption>
 </figure>
 
 ### Other Ways to Wear it for Fall...
@@ -206,7 +210,9 @@ We both flipped when we saw Amal in this dress! As many of you know, Suzanne is 
 
 </ul>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473683028805/Resized---Cherisee_Cherissia-Shoes--Urban-Whimsy-Photography.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473683028805/Resized---Cherisee_Cherissia-Shoes--Urban-Whimsy-Photography.jpg.jpg)
 <figcaption>Shoes by Cherisse:Cherissia Shoes. Photo by Urban Whimsy Photography.</figcaption>
 </figure>
 
@@ -316,7 +322,9 @@ Suzanne is one of the ‘OG' supporters of this look, having worn a similar pant
 
 </ul>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611547300/Resized---Neon-Beautiful-Design-Jenna.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611547300/Resized---Neon-Beautiful-Design-Jenna.jpg.jpg)
 <figcaption>Earrings by Tracy Cox, Neon Beautiful Design.</figcaption>
 </figure>
 

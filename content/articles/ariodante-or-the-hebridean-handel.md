@@ -19,7 +19,7 @@ Rounding out my Canadian Opera Company [double header](/review-sondra-slays-in-b
 
 Telling the story of a young Scottish princess's trials and struggles on the way to marrying her love - to whom, for once in a blue moon in the opera world, her father his given his blessing for her to marry - the setting is a remote Scottish island in the late 1960s, which reminded me a lot of my own home. The orchestra, led by music director Johannes Debus played a spritely, complex, and clean Handel that danced with the singers on the stage. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476703452525/2016-10-17--Ariodante-MC-0907.jpg.jpg)<figcaption>Alice Coote as Ariodante in the Canadian Opera Company's production of *Ariodante*, 2016, photo: Michael Cooper.
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476703452525/2016-10-17--Ariodante-MC-0907.jpg.jpg)<figcaption>Alice Coote as Ariodante in the Canadian Opera Company's production of *Ariodante*, 2016, photo: Michael Cooper.
 </figcaption>
 </figure>
 
@@ -27,14 +27,14 @@ Singing the title role is the remarkable [Alice Coote](/talking-with-singers-ali
 
 Speaking of sparkle, if you could represent that word in a human voice it would be [Jane Archibald](/scene/people/jane-archibald/) singing Baroque music. Her Ginevra was vibrant, hearty, womanly and powerful. There's an ecstasy in her portrayal that almost lends Ginevra a mystical quality that was quite enchanting. Archibald and Coote have the most beautiful marriage of tones. Their colors twinkled and swirled around each other like the bubbles in a glass of Veuve Clicquot.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476703468204/2016-10-17---Ariodante-MC-0093.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476703468204/2016-10-17---Ariodante-MC-0093.jpg.jpg)
 <figcaption>(l-r) Varduhi Abrahamyan as Polinesso (in background), Jane Archibald as Ginevra and Ambur Braid as Dalinda in the Canadian Opera Company's production of *Ariodante*, 2016, photo: Michael Cooper.
 </figcaption>
 </figure>
 
 Singing the role of Polinesso was mezzo [Varduhi Abrahamayan](/scene/people/varduhi-abrahamayan/). She sang with a dark tone and a quick action, with some of the fastest triplets I think I may have ever heard. Pollinesso was a predator of the first order. Abrahamayan brought us a villain who driven by lust will use whatever means he can to achieve his goals.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476703527868/2016-10-17---Ariodante-MC-0926.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476703527868/2016-10-17---Ariodante-MC-0926.jpg.jpg)
 <figcaption>Varduhi Abrahamyan as Polinesso and Ambur Braid as Dalinda (in background) in the Canadian Opera Company's production of *Ariodante*, 2016, photo: Michael Cooper.
 </figcaption>
 </figure>
@@ -43,7 +43,7 @@ As Dalinda, [Ambur Braid](/talking-with-singers-ambur-braid/) delivers the most 
 
 Singing Lurcanio, Ariodante's brother, [Owen McCausland](/spotlight-on-owen-mccausland/) gave some fantastic vocals. His heroic tone has a flexible, fluid sensibility that lets him sail through some really tricky coluratura passages. His chemistry with Braid's Dalinda was palpable. It gave every scene they had together a sense of doom - in the classical sense - like it was meant to be.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476703548473/2016-10-17---Ariodante-CH-264.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476703548473/2016-10-17---Ariodante-CH-264.jpg.jpg)
 <figcaption>(l-r) Alice Coote as Ariodante and Owen McCausland as Lurcanio in the Canadian Opera Company's production of *Ariodante*, 2016, photo: Chris Hutcheson.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Norwegian baritone [Johannes Weisser](/scene/people/johannes-weisser/) sang the 
 
 The trimmed-down COC Chorus of twelve singers, led by Chorus Master Sandra Horst, was incredibly well used. They sang delightfully and the voices danced through the hall and never missed a step. I particularly enjoyed how much *tableau vivant* was used - not something I'm used to seeing a lot of on the Four Seasons Centre stage, but it made probably the most intelligent use of the dances in the absence of a *corps de ballet*. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476703591077/2016-10-17---Ariodante-MC-0711.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476703591077/2016-10-17---Ariodante-MC-0711.jpg.jpg)
 <figcaption>A scene from the Canadian Opera Company's production of *Ariodante*, 2016, photo: Michael Cooper.
 </figcaption>
 </figure>

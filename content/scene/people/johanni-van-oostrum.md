@@ -13,6 +13,7 @@ website = "http://www.johannivanoostrum.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/JohannivanOostrum/?fref=ts"
+_template = "people_single"
 +++
 
 South African Soprano, Johanni van Oostrum came to the attention of the international opera scene when, at short notice, she successfully took over the role of Marschallin in Richard Strauss' *Der Rosenkavalier* under the baton of Sir Simon Rattle at the Dutch National Opera in Amsterdam with the Rotterdam Philharmonic Orchestra. She has since come to prominence singing leading soprano roles by Mozart, Wagner and Strauss. 

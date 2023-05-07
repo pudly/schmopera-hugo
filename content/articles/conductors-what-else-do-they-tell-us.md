@@ -18,7 +18,9 @@ This is sort of what the role of the conductor has given classical music, if you
 
 When it comes to contemporary music, the presence of a maestro has come to mean that technically, anything is possible as long as you can show it in a beat pattern. I've worked on opera where singers need to watch a conductor for what they know are the musical basics, like tempo and when to come in. Sometimes that's because the singers and the orchestra can't hear each other, and sometimes it's because there's something unintuitive about the music. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441976197060/toscanini-at-la-scala.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441976197060/toscanini-at-la-scala.jpg.jpg)
 <figcaption>Toscanini.</figcaption>
 </figure>
 
@@ -28,7 +30,9 @@ Simply put, if trained musicians can't find something intuitive, something human
 
 I've spoken in broad strokes, I'm sure. Composers are constantly challenged to write something that stays with listeners, and that's difficult because the criteria is vague. I often wonder if the role of a conductor is a tangible point of reference; a more objective version "will it speak to an audience," it's about asking, "what is natural about this music?" Because, what's natural in art will always move people.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441976399693/Boulez.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441976399693/Boulez.jpg.jpg)
 <figcaption>Pierre Boulez.</figcaption>
 </figure>
 

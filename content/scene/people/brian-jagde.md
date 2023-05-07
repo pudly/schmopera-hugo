@@ -26,6 +26,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/brianjagdetenor/"
 
+_template = "people_single"
 +++
 ### Heralded internationally as an artist with “a remarkable future” (Opera World), American tenor Brian Jagde brings his dynamic vocalism and captivating stage presence to several of opera’s most iconic roles in the 2019/20 season.
 

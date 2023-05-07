@@ -30,7 +30,9 @@ Napoleon is a strong/silent general-type you would find in a *bel canto* opera -
 
 It was important for me to imagine being the character on stage, how would he/she move, think, and act? - what motivates them? Characters seem to come to life by virtue of how much you talk about them - Mitch Findlay (my partner in the libretto writing) and I would just discuss for hours about who this person was, what do they want? How would that make the plot unfold?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468424901808/2016-07-13---The-Scream.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468424901808/2016-07-13---The-Scream.jpg.jpg)
 <figcaption>The Scream. Illustration by Cynthia Magri.</figcaption>
 </figure>
 
@@ -44,7 +46,9 @@ We live in an extremely eclectic musical world, so this is not true for every mo
 
 So as a singer, I would say that the quality I look for the most is basically something worth singing. Another quality is "does the music move under me?"...all too often, in new operas the music doesn't move beneath the singer the way it does in Verdi, Puccini or Mozart, which I find paramount because it informs the movement on stage.  
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468424885254/2016-07-13---Napoleon.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468424885254/2016-07-13---Napoleon.jpg.jpg)
 <figcaption>Napoleon. Illustration by Cynthia Magri.</figcaption>
 </figure>
 
@@ -64,7 +68,9 @@ I think, it jumps out on a score when a composer has tried to be different only 
 
 Oh yeah, and another thing: HAVE FUN!! Music writing is fun, performing is fun, expressing is fun - it should translate into your work. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468424868409/2016-07-13---Old-Curator.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468424868409/2016-07-13---Old-Curator.jpg.jpg)
 <figcaption>The Old Curator. Illustration by Cynthia Magri.</figcaption>
 </figure>
 

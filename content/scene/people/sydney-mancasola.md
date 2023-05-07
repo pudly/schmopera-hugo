@@ -16,6 +16,7 @@ url = "https://www.facebook.com/sydney.mancasola.soprano/?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SydneySoprano"
+_template = "people_single"
 +++
 
 A Grand Finals winner of the 2013 Metropolitan Opera National Council Auditions and a graduate of the Academy of Vocal Arts in Philadelphia, soprano Sydney Mancasola has been praised by the New York Times for her “lovely lyric soprano and radiant high notes.” The 2015 – 2016 season will mark Ms. Mancasola’s European debut at the Komische Oper Berlin as the three heroines in *Les Contes d’Hoffmann*, Cleopatra in *Giulio Cesare*, Pamina in the Barrie Kosky production of *Die Zauberflöte*, and Servilia in a concert performance of *Clemenza di Tito*. She will also reprise the title role in Massenet’s *Manon* in a return to Des Moines Metro Opera, conducted by David Neely. Concert work includes her debut with the San Francisco Symphony in Handel's *Messiah*, conducted by Ragnar Bohlin.

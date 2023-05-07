@@ -16,6 +16,7 @@ url = "https://www.facebook.com/operadeparis?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/operadeparis"
+_template = "company_single"
 +++
 
 <p>

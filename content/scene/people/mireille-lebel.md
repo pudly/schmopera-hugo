@@ -9,6 +9,7 @@ related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companie
 slug = "mireille-lebel"
 title = "Mireille Lebel"
 website = "http://www.mireillelebel.com/"
+_template = "people_single"
 +++
 
 <p>

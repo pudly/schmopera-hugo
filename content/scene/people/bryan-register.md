@@ -22,6 +22,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/bryantenor"
 
+_template = "people_single"
 +++
 Bryan Register has received critical acclaim for the fresh, bright timbre of his voice and strong dramatic singing. This season he makes his debuts at the Semperoper Dresden singing _Enée Les Troyens_ in a new production by Lydia Steiner and at La Monnaie in the title role _Lohengrin_ in a new production by Olivier Py, conducted by Alain Altinoglu. Recent highlights include his house debut as _Enée Les Troyens_ for Frankfurt Opera in a new production by Eva Maria Höckmayr, conducted by John Nelson, _Siegmund Die Walküre_ for Grange Park Opera, and _Tristan Tristan und Isolde_ at the Tokyo Nikikai Opera Theatre under the baton of Jesús Lopez Cobos. American tenor Bryan Register has received critical acclaim for the fresh, bright timbre of his voice and strong dramatic singing. This season he makes his debuts at the Semperoper Dresden singing Enée Les Troyens in a new production by Lydia Steiner and at La Monnaie in the title role Lohengrin in a new production by Olivier Py, conducted by Alain Altinoglu. Recent highlights include his house debut as Enée Les Troyens for Frankfurt Opera in a new production by Eva Maria Höckmayr, conducted by John Nelson, Siegmund Die Walküre for Grange Park Opera, and Tristan Tristan und Isolde at the Tokyo Nikikai Opera Theatre under the baton of Jesús Lopez Cobos.
 

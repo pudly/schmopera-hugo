@@ -20,7 +20,9 @@ Handel's music is nothing but layers of meaning; it's amazingly detailed, and at
 
 This is Nireno's aria from _Giulio Cesare_, which wasn't in the original score, but was added later by Handel. Here, it's sung (and danced!) pretty darn well by Moroccan countertenor Rachid Ben Abdeslam in David McVicar's 2005 production at Glyndebourne. I definitely can't stop watching.
 
-<figure data-type="video">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/an_SUvpylso?start=5286" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/an_SUvpylso?start=5286" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -52,9 +54,11 @@ Congolese countertenor Serge Kakudji stars in _Coup Fatal_, a new collaboration 
 
 Jeez, as if Cleopatra didn't already have enough to do. Natalie Dessay sings Cleopatra's wicked aria, "Da tempeste" in David McVicar's production of _Giulio Cesare_ at the Met. I feel like the dancing in itself is kind of cute; I'm not really a fan of the total package, though.
 
-<figure data-type="video">{{% md %}}
+<figure data-type="video">
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/an_SUvpylso?start=11750" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/an_SUvpylso?start=11750" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 

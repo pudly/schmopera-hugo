@@ -21,6 +21,7 @@ url = "https://twitter.com/vittoriogrigolo"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/VittorioGrigoloTenor"
+_template = "people_single"
 +++
 
 Italy announces a formidable return to the opera stage with the young Italian tenor, Vittorio Grigòlo. His exceptional vocal and dramatic talents have been widely praised by the world's press. Vittorio's 2010 debut at London’s Royal Opera House Covent Garden as Des Grieux in *Manon* was described as "the most sensational debut to be heard at Covent Garden for some time. He’s got everything the role demands – a voice that flows, terrific looks, an instinctive sense of theatre". - *The Guardian*

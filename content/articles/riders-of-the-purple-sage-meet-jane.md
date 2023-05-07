@@ -25,7 +25,9 @@ Her growth as a character in the story moves from someone who thinks for herself
 
 Lassiter enters Jane's life and turns everything upside down. She is intrigued by and attracted to him, but also knows that he is outside her faith and his anger and hatred for the church is unsettling for her. However, he is the only man in the opera who affirms and admires her strength, while lovingly pushing back against her long-held beliefs.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487865673918/2017-02-23---LauraWilde_credit_KellyKruse.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487865673918/2017-02-23---LauraWilde_credit_KellyKruse.jpg.jpg)
 <figcaption>Laura Wilde, soprano, singing the role of Jane Withersteen in the world premiere of *Riders of the Purple Sage*, Arizona Opera, 2017. Photo by Kelly Kruse.</figcaption>
 </figure>
 
@@ -37,7 +39,9 @@ Lassiter enters Jane's life and turns everything upside down. She is intrigued b
 
 I think the audience can expect to be swept away by this piece, have their heart strings tugged on, and be holding their breath till the last measure. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487865889902/2017-02-23---Karin-Wolverton.jpg.jpg)<figcaption>Karin Wolverton, singing the role of Jane Withersteen in the world premiere of *Riders of the Purple Sage*, Arizona Opera, 2017.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487865889902/2017-02-23---Karin-Wolverton.jpg.jpg)<figcaption>Karin Wolverton, singing the role of Jane Withersteen in the world premiere of *Riders of the Purple Sage*, Arizona Opera, 2017.</figcaption>
 </figure>
 
 
@@ -53,7 +57,9 @@ I think the audience can expect to be swept away by this piece, have their heart
 
 **KW**: There is added pressure to being the first person to help create a role. But there is freedom as well. There are no traditions. There are no recordings or history with which to compare yourself. There is no 'this is the way it's always done' sensibility. And once you embrace that and run with it and open your mind to the possibilities, amazing art can happen. I think the biggest pressure is wanting to do right by Craig. I want people to fall in love with this opera they way I did and let themselves get caught up in its magic. And if I bring my best I can help that happen.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487865827818/2017-02-23---KarinWolvertonAsJane_MorganWSmithAsLassiter---pc---TimTrumble.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487865827818/2017-02-23---KarinWolvertonAsJane_MorganWSmithAsLassiter---pc---TimTrumble.jpg.jpg)
 <figcaption>Karin Wolverton as Jane, Morgan Smith as Lassiter in *Riders of the Purple Sage*, Arizona Opera, 2017. Photo by Tim Trumble.</figcaption>
 </figure>
 

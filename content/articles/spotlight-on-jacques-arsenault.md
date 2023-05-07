@@ -32,7 +32,9 @@ I spent two summers studying at the Franz-Schubert-Institut in Baden bei Wien, A
 
 Now, when I'm singing well, I feel like that vessel. I get out of my tenor brain and it becomes entirely about what my character is living in that moment, be it in a work of theatre or song. And that's what I want when I’m in the audience: not to see that individual singer on stage. I want to see who that character is and what they are experiencing. My favourite performers throw themselves into a role, flaws and all. I don't want to be held at arm's length so that they can achieve technical perfection. Ultimately, the best singing happens when both the dramatic and technical are equally strong.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503758587997/2017-08-25---Merry-Widow.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503758587997/2017-08-25---Merry-Widow.jpg.jpg)
 <figcaption>(l-r): Jacques Arsenault, Alexander Hajek, Ron Long, Michael Nyby, Aaron Durand, Dion Mazerolle, Adam Fisher, and Geoffrey Sirett in *The Merry Widow*, Edmonton opera. Photo by Nanc Price.</figcaption>
 </figure>
 
@@ -48,7 +50,9 @@ I'm lucky to have a few people in my life who know exactly who I am, who love me
 
 So many! Vašek (*The Bartered Bride*), Don Basilio (*Le nozze di Figaro*), Pedrillo (*Die Entführung aus dem Serail*), the Witch from *Hänsel & Gretel*, the Baker from *Into the Woods*, Charley from *Merrily We Roll Along*, Quint from *The Turn of the Screw*, Lenny from *Of Mice and Men*, Herod (*Salome*), Peter Grimes, and going back to my roots: Matthew Cuthbert (*Anne of Green Gables*).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503758775654/2017-08-25---Bandits_Stephanie-Tritchew_Jacques-Arsenault_Keith-Klassen.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503758775654/2017-08-25---Bandits_Stephanie-Tritchew_Jacques-Arsenault_Keith-Klassen.jpg.jpg)
 <figcaption>(l-r) Stephanie Tricthew, Jacques Arsenault, and Keith Klassen in *Bandits in the Valley*, Tapestry Opera. Photo courtesy of Tapestry Opera.</figcaption>
 </figure>
 

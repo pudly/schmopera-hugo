@@ -21,7 +21,9 @@ The Boy, sung spectacularly by countertenor [Tim Mead](/scene/people/tim-mead/),
 
 Three Angels speak of the future (the present, really), and they speak of wiping out sinful humanity, exposing bad behaviour and admiring "the just"; in the same thought, they speak of making a woman "curious", making us flush with anger, and remember the story of Eve and the serpent. It took a second hearing to understand that these "Angels" are The Protector's projections; they're whom he prays to, but they're likely not the same Angels of his wife. Along with Tim Mead, last night's Angels were excitingly sung by mezzo-soprano [Victoria Simmonds](/scene/people/victoria-simmonds/) and tenor [Robert Murray](/scene/people/robert-murray/). All three have two characters; the first Angel becomes The Boy, and the second and third become Marie and John, an everyday, exemplary married couple who gossips and infects The Protector with doubts and ideas.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458485869356/2016-03-20---Hannigan-credit-Elmer-de-Haas.jpg.jpg)<figcaption>Soprano Barbara Hannigan. Photo by Elmer de Haas.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458485869356/2016-03-20---Hannigan-credit-Elmer-de-Haas.jpg.jpg)<figcaption>Soprano Barbara Hannigan. Photo by Elmer de Haas.</figcaption>
 </figure>
 
 The opera is an extraordinary piece, no doubt. The players of the Mahler Chamber Orchestra gave a stellar performance of Benjamin's score, which at once sounds magical, ancient, hateful, sexy, and mortally dangerous. Sickening percussion effects and the "hysterical" sounds of the glass armonica, voices indistinguishable from intruments, and enormous, suffocating chords all drag feeling from the listeners; without yet seeing a fully staged performance of *Written on Skin* (though we loved director Benjamin Davis' smart, subtle work with the cast), it's a thrilling thought to note that the work itself, with an unreal cast of singers, does all the expressive work on its own.

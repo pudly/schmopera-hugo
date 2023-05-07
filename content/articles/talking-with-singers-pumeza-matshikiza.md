@@ -25,7 +25,9 @@ I sing professionally because I like to explore and express operatic music and t
 
 Growing up in South Africa meant one was in need of role models like Jessye Norman and she was one.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549475643/media/2019/02/PumezaFull.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1549475643/media/2019/02/PumezaFull.jpg)
 
 <figcaption>Photo: Decca/Simon Fowler.</figcaption>
 

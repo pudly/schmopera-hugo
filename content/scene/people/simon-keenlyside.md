@@ -11,6 +11,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/Simon-Keenlyside-160209774066057/"
 
+_template = "people_single"
 +++
 Simon Keenlyside was born in London. He made his operatic debut at the Hamburg State Opera as Count Almaviva _Le Nozze di Figaro_. Simon appears in all the world’s great opera houses and has a particularly close association with the Metropolitan Opera New York, the Royal Opera House Covent Garden, and the Bavarian and Vienna State Opera houses where his roles include Prospero _The Tempest_, Posa _Don Carlo_, Germont Père _La Traviata_, Papageno _The Magic Flute_, Count Almaviva and the title roles in _Don Giovanni_, _Eugene Onegin_, _Pelléas et Mélisande_, _Wozzeck_, _Billy Budd_, _Hamlet_, _Macbeth_ and _Rigoletto_.
 

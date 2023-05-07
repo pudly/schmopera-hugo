@@ -15,7 +15,9 @@ The American playwright David Mamet appeared on Marc Maron's [hit interview podc
 
 The quartet [Hypercube](http://www.hypercubemusic.org/home-1.html) performed a program of four, fearsomely difficult, single-movement contemporary pieces, as part of [Turtle Bay Artist's Series Make It New: A Festival of Cutting Edge Music](http://tbms.org/event/make-new-festival-cutting-edge-music/). Of the four works, only Sam Pluta's [*American Tokyo Daydream IV (data structures/monoliths)*](http://www.sampluta.com/compositionATDIV.html), updated for Hypercube's sax, electric guitar, accordion (or piano), and percussion ensemble, was as entertaining as it was rigorous.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521493690358/Hypercube-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521493690358/Hypercube-1.jpg.jpg)
 </figure>
 
 According to Hypercube saxophonist Erin Rogers, Pluta's piece was "inspired by anime comics in which each page is a completely new picture." The result is sections, in this case two of them, that are distinct and self-contained, yet bound to a larger whole by a shared harmonic pallette.
@@ -26,7 +28,9 @@ In the second section, the ensemble collectively sustained a layered, nuanced, m
 
 Dennis Sullivan's [*under nails*](https://www.youtube.com/watch?v=oIUMLqcMNXs&feature=youtu.be) (one of two titles on the program to forego capitalization) is the kind of piece that expands an audience's hearing. The work kept the performers busy with all kinds of frenetic tapping, fiddling, and winding. Soft, often rapid, barely pitched sounds defined the sonic status quo. As respit, the ensemble united in delightfully odd tasks like winding up fishing lines hooked into the piano, or bowing brass wires attached to styrofoam orbs and tin cans. As the music faded to its end, the room's ambient noise took over. With the audience's ears finely tuned to timbral minutiae, it was like another movement had begun.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521493682935/Hypercube-3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521493682935/Hypercube-3.jpg.jpg)
 </figure>
 
 In Nicholas Deyoe's world-premiere *they solidify then tilt*, composed for Hypercube, a yearning sax swelled out of enveloping accordian harmonies like the sound of worn out breaks echoing through a concrete parking garage. The electric guitar is the solo instrument. Its plunking, treble heavy timbre and whammy-bar pitch-bending distinguished it from the ensemble's accompanying texture. The work is too long and its microtonal motifs wear thin. A definitive climax is followed by excess material that makes you wish the piece would end already.

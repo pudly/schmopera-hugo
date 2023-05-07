@@ -17,7 +17,9 @@ In late May I had the opportunity to experience opera from an entirely different
 
 My goal was to soak in an old-school, European ensemble company, in this case the Hungarian State Opera; the company presents a staggering 600 performances per season, utilizing a more or less stable roster of (mostly Hungarian) soloists, choral singers and orchestra members. International “star” name singers are pretty well M.I.A. compared to what we are used to in larger, North American opera companies these days. You don’t see many of usual suspects – the Alice Cootes, Isabel Leonards, Anna Netrebkos, Jonas Kaufmanns, Sondra Radvanovskys, who populate the rosters of companies in Chicago, Toronto, New York and San Francisco. I wondered – how might this affect my opera experience; what would the quality be like; would I miss hearing the very high level of singing I’ve become so used to (and privileged) to experience in my home town?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434070633468/Der%20Freischutz_2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434070633468/Der%20Freischutz_2.jpg.jpg)
 <figcaption>A scene from the Hungarian State Opera's Der Freischütz. Photo by Attila Nagy.</figcaption>
 </figure>
 
@@ -25,7 +27,9 @@ The answers to this are not cut and dry. Most of the singing I heard was of a ve
 
 As memorable as these individual performances were, the true stars of these three “chorus” operas were indeed, the hard-working singers in the chorus themselves. They were 80 strong in both the Gounod and Weber with their numbers swelling to close to 100 for the Boito – yes, my jaw dropped as well! Their sound was awesome and overwhelming – the famous, almost entirely choral opening act of *Mefistofele* blew the audience away as angels and devils fought it out and their collective sound, literally raising the theatre’s roof. Similarly, the musical commitment of the orchestra at all these performances was palpable – I’ll never forget seeing some of the musicians gleefully smiling and swaying to the jaunty tunes of *Faust*’s ballet music (almost unbelievably played in its entirety and fully choreographed!).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434070767704/Mefistofele_2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434070767704/Mefistofele_2.jpg.jpg)
 <figcaption>A scene from the Hungarian State Opera's Mefistofele. Photo by Zsófia Pályi.</figcaption>
 </figure>
 
@@ -33,7 +37,9 @@ Can I mention the productions themselves? All three were entirely contemporary, 
 
 The Hungarian State Ballet was featured prominently in all three productions – one of the advantages I suppose of integrating your national opera and ballet troupes more as one company, sharing the same theatres, presenting productions in continual rotating repertory (very different for example, than the complete independence that exists between the Canadian Opera Company and the National Ballet of Canada here in Toronto).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434071433837/HSO.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434071433837/HSO.jpg.jpg)
 <figcaption>Nice digs at the Hungarian State Opera.</figcaption>
 </figure>
 

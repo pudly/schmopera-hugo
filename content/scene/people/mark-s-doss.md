@@ -20,6 +20,7 @@ url = "https://twitter.com/marksdoss"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/marksdossbassbaritone"
+_template = "people_single"
 +++
 
 #### RECENT AND UPCOMING ENGAGEMENTS

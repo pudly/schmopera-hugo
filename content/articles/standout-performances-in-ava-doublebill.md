@@ -16,7 +16,9 @@ The Academy of Vocal Arts opened its 2018-19 Opera Theatre season with a unique 
 
 Christofer Macatsoris conducted *Suor Angelica*, which included some very fine singing. The strongest moments involved the ensemble of female voices, which blended to create a warm and exquisite sound. Soprano and first-year AVA Resident Artist, Renée Richardson sang the difficult title role with conviction and fervent energy. Maestro Macatsoris drew lovely shimmering sounds from the strings, which caressed the vocal lines throughout the score. Balance between the orchestra and singers was excellent, which is a notable achievement considering the several different venues in which AVA has staged this production.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543971599792/SuorAngelicaandLeVilli2008.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543971599792/SuorAngelicaandLeVilli2008.jpg.jpg)
 <figcaption>A scene from *Suor Angelica*, Academy of Vocal Arts, 2018. Photo: Paul Sirochman.</figcaption>
 </figure>
 
@@ -26,7 +28,9 @@ Richard A. Raub must be commended for his work with both the cast and the orches
 
 David Gately directed both operas, and from a production standpoint, the team excelled at creating a simple yet effective set. The use of painted walls and projected images invited the audience into both a convent, and the Black Forest. Unfortunately, Gately's staging in *Suor Angelica* felt uninspired and lethargic. In *Le Villi* however, the singers appeared to be more grounded and deliberate in their choices and movements.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543971610279/levilli.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543971610279/levilli.jpg.jpg)
 <figcaption>A scene from *Le Villi*, Academy of Vocal Arts, 2018. Photo: Paul Sirochman.</figcaption>
 </figure>
 

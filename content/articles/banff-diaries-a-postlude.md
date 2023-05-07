@@ -19,7 +19,7 @@ During my first visit to Banff in 2008 (as an oft-starving artist), I found it h
 
 Surreal as it may be, a institution like this can't happen without lots of people supporting it. The federal and provincial governments help out, along with innumerable generous corporations and individuals, and their names are proudly displayed throughout the campus, including a few namesake buildings. So, The Banff Centre is no secret, and yet it thrives in an environment many of us have felt as non-conducive to creating art.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437420748642/OP150708__DSC8099.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437420748642/OP150708__DSC8099.jpg.jpg)
 <figcaption>Shantelle Przybylo sings Zemlinsky's *Maiblumen blüten überall*, for soprano and string sextet. Photo: Rita Taylor.</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ But, conducive it was, and that's the understatement of the year. I hung out wit
 
 At the start of the *Crush* rehearsal process, I was daunted by the difficulty of the score, and by the demands on me as both pianist and conductor for the performances (I know lots of my pianist colleagues are pros at this multi-tasking, but this was my first venture into wearing both hats). My wee orchestra was made up of myself at the keys, violinist [Aaron Schwebel](/scene/people/aaron-schwebel/) (of the COC Orchestra) and cellist [Britton Riley](/scene/people/britton-riley/) (who starts with the TSO this fall); they were beautiful players, plus they were patient, giving, low-maintenance, and generally swell guys. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437420805445/CrushSimone.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437420805445/CrushSimone.jpg.jpg)
 <figcaption>Simone McIntosh as Donna in *Crush*. Photo: Don Lee.</figcaption>
 </figure>
 

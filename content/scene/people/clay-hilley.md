@@ -14,6 +14,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/HilleyClay"
 
+_template = "people_single"
 +++
 American heldentenor Clay Hilley is poised for a prominent international career in the most demanding roles of the operatic repertory.  From Bacchus to Florestan and Canio to Laca, the Georgia native has been acclaimed by _The New York Times_ for his “vocal heft, clarion sound and stamina.”
 

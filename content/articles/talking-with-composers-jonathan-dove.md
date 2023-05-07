@@ -27,7 +27,9 @@ People hear all kinds of echoes, especially of Britten, John Adams and sometimes
 
 I don't try to write anything down until it's already quite a long way to being finished in my mind. Before that, I just keep playing (piano or keyboard) until I have an idea that seems to have a future, and then follow where it leads. When I get tired of playing, or nothing's really taking off, I walk or cycle somewhere, maybe visit a gallery or a museum, or read.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563498979/media/2019/07/DoveIMG_7234BO.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1563498979/media/2019/07/DoveIMG_7234BO.jpg)
 
 <figcaption>Jonathan Dove, composer. Photo: Marshall Light Studio.</figcaption>
 
@@ -49,7 +51,9 @@ I ought to have an answer, but I'm not sure what it is! Some pieces come easily,
 
 The songs from _The Little Mermaid_.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563498963/media/2019/07/DoveIMG_7040BO.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1563498963/media/2019/07/DoveIMG_7040BO.jpg)
 
 <figcaption>Jonathan Dove, composer. Photo: Marshall Light Studio.</figcaption>
 

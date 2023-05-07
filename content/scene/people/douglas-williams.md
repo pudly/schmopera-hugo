@@ -12,6 +12,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/dooglaaswilliams/"
 
+_template = "people_single"
 +++
 “The gifted young bass-baritone Douglas Williams” (_The New York Times_) combines a “formidable stage presence” (_Seattle Times_) with “a bass voice of splendid solidity” (_Music Web International_), making him one of the most appealing singing actors of his generation. He has collaborated with leading conductors including Sir Simon Rattle, Nicholas McGegan, Helmut Rilling, Sir Neville Marriner, John Nelson, and Christoph Rousset, in such prestigious venues as Lincoln Center, the Kennedy Center, Stuttgart’s Mozart-Saal, and the Frankfurt Alte Oper. His repertoire reaches over four centuries, being a sought-after interpreter of Monteverdi, Handel, Bach, and Mozart, in addition to the romantic and modern eras.
 

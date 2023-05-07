@@ -13,6 +13,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MJScott_Tenor"
 
+_template = "people_single"
 +++
 Michael J. Scott’s current and future engagements include CASCA Battistelli’s _Julius Caesar_ (world premiere) **Teatro dell-Opera di Roma**, HOST OF THE BALL/ VESTOVOJ/IVANOV _War and Peace_ **Grand Théâtre de Genève,** DER OFFIZIER Reimann’s _Ein Traumspiel_ **Oper Halle**, PONTIO PILATO _Das Liebesverbot_ **Opera Zuid**, and return engagements to **Royal Opera House, Covent Garden** and G**rand Théâtre de Genève**.
 

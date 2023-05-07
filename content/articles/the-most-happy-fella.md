@@ -21,7 +21,9 @@ youtube_url = ""
 
 Written by _Guys and Dolls'_ Frank Loesser, I expected it to be simple and toe-tapping. (don't get me wrong - I love _Guys and Dolls_!) The two grand pianos that served as Skylark's fearless orchestra, music direction by Carson Schneider, provided a sound not of the fun loving Runyon musical, but a mixture of Rodgers and Hammerstein with a dash of Leoncavallo.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571684599/media/2019/10/Skylark_Most_Happy_Fella-0183_a20wfq.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571684599/media/2019/10/Skylark_Most_Happy_Fella-0183_a20wfq.jpg)
 
 <figcaption>The Most Happy Fella, Skylark Opera, 2019. Photo courtesy of Skylark Opera.</figcaption>
 
@@ -33,7 +35,9 @@ The exposition introduces the female lead, Rosabella (real name Amy), and her be
 
 The nice part about this musical is there's a happy-ever-after ending. Rosabella/Amy realizes that Tony is a wonderful man, and he forgives her. As Laurel Armstrong sang Cleo's first number, I was struck by the cross of Ado Annie and Nellie Forbush that sprang from the stage. Ms. Armstrong undoubtedly brings her own fresh interpretation to the character, but the lusty belting and southern drawl are a surprise to the opera goer in me. The typical subplot of another fun loving couple common for musicals of this time was entertaining and fresh, Cleo's love interest was Herman (sung by Phinehas Bynum).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571684582/media/2019/10/Skylark_Most_Happy_Fella-0154_jncodo.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571684582/media/2019/10/Skylark_Most_Happy_Fella-0154_jncodo.jpg)
 
 <figcaption>The Most Happy Fella, Skylark Opera, 2019. Photo courtesy of Skylark Opera.</figcaption>
 

@@ -13,6 +13,7 @@ website = "http://issachah.weebly.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/IssachahSavage"
+_template = "people_single"
 +++
 
 <p>

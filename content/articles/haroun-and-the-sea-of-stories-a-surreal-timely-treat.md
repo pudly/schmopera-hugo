@@ -22,7 +22,9 @@ Those of you who are faithful Schmopera readers will likely recall that, when I 
 
 _Haroun_, based on the children's book by Salman Rushdie, is a very surreal story: this tale of a boy trying to help his storytelling father Rashid regain the confidence to tell stories after his wife leaves him is essentially what you would get if Lewis Carroll's _Alice in Wonderland_ had been written as a modern-day fairy tale that is aware it's a fairy tale. However, the main thing that perhaps begs an unusual sonic language is that it is a rumination on the power of storytelling, and one that gets rather political owing to the fact that Rushdie wrote it while under the shadow of a _fatwa_ from Ayatollah Khamenei: the main villains Khattam-shud and Snooty Buttoo are motivated by a desire to end all storytelling because they cannot rule over the world of the story, which draws obvious parallels to the fact that the _fatwa_ was a direct consequence of Rushdie's previous work, _The Satanic Verses_.
 
-<figure data-type="image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548012939/media/2019/01/Ensemble_1_byCliveGrainger.jpg){{% /md %}}
+<figure data-type="image"> 
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548012939/media/2019/01/Ensemble_1_byCliveGrainger.jpg)
 
 <figcaption>Haroun and the Sea of Stories, Boston Modern Orchestra Project, 2019. Photo: Clive Grainger.</figcaption>
 
@@ -44,7 +46,9 @@ And then, there are the performers. A score such as Wuorinen's is difficult to p
 
 First, the entire cast was incredibly outstanding, such that I can't really seem to find a weak spot in the cast. Everyone sang through Wuorinen's score so effortlessly that it was truly a sound to behold, and practically everyone found a way to bring oodles of character to their performances. Prime among these was Heather Buck in the title role: she came in with a sense of childlike wonder and determination that anchored the work's surreal tone, and her voice floated above everything with a crystalline quality that cannot be understated. Other standouts in the cast include Boston opera mainstay Michelle Trainor intentionally singing "badly" as the Princess Batcheat, Stephen Bryant's turn as Haroun's storyteller father, [Neal Ferreira](/scene/people/neal-ferreira/)'s sinister turn as Khattam-shud, and [Matthew DiBattista](/scene/people/matthew-dibattista/) allowing his wild tenor to play into the Donald Trump impersonation that the stage direction went with.
 
-<figure data-type="image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548013007/media/2019/01/Ensemble_2_CliveGrainger.jpg){{% /md %}}
+<figure data-type="image"> 
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548013007/media/2019/01/Ensemble_2_CliveGrainger.jpg)
 
 <figcaption>Haroun and the Sea of Stories, Boston Modern Orchestra Project, 2019. Photo: Clive Grainger.</figcaption>
 

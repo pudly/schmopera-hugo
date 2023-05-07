@@ -16,6 +16,7 @@ url = "https://www.facebook.com/renaissanceopera/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/re_opera"
+_template = "company_single"
 +++
 
 ## What Is Opera?

@@ -11,6 +11,7 @@ website = "http://www.workshopera.org.uk/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/workshOPERA/"
+_template = "company_single"
 +++
 
 Busting the myth that contemporary opera is irrelevant, pretentious and unapproachable, creating work to feed your inner explorer, be you a connoisseur, opera virgin, or just simply curious.

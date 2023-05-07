@@ -8,6 +8,7 @@ related_companies = ["scene/companies/glyndebourne.md","scene/companies/welsh-na
 slug = "duncan-rock"
 title = "Duncan Rock"
 website = "http://www.duncanrock.co.uk/"
+_template = "people_single"
 +++
 
 Baritone Duncan Rock studied at the Guildhall School of Music and Drama and subsequently at the National Opera Studio.

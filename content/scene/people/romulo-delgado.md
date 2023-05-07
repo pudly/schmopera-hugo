@@ -7,6 +7,7 @@ publishDate = "2017-05-02T12:58:00-04:00"
 slug = "romulo-delgado"
 title = "Romulo Delgado"
 website = "http://romulodelgado.com/09/"
+_template = "people_single"
 +++
 
 Romulo Delgado is a classically trained tenor and a world music multi instrumentalist. He was a region finalist at the Hans Gabor Belvedere International Opera competition in Vienna, Austria. He trained in Toronto at the Royal Conservatory Music and the Glenn Gould School. 

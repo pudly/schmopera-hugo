@@ -21,6 +21,7 @@ url = "https://twitter.com/andreacaretenor"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/AndreaCaretenore/"
+_template = "people_single"
 +++
 
 Andrea Carè is one of the most prominent operatic tenors of the new generation of Italian artists. After studying at the Giuseppe Verdi Conservatory in Turin, he went

@@ -17,6 +17,7 @@ url = "https://www.facebook.com/BryanHymeltenor"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/results?search_query=Bryan+Hymel"
+_template = "people_single"
 +++
 
 Hailed by the Frankfurter Allgemeine Zeitung for his “range of expression and vocal power combined with the subtle art of characterization,” tenor Bryan Hymel is the winner of the 2013 Olivier Award for Outstanding Achievement in Opera for his trio of performances in Les Troyens, Robert le diable, and Rusalka at London’s Royal Opera House. The New York Times praised his “unflagging stamina and impetuous abandon” during his 2012 Metropolitan Opera debut as Énée in Les Troyens, for which he was presented with the Metropolitan Opera’s Beverly Sills Artist Award. An exclusive recording artist for Warner Classics, his first solo album Héroïque debuted at number 3 on the Billboard Classical Music chart, and earned Hymel the coveted Georges Thill Prize by the Académie Nationale du Disque Lyrique and the Newcomer of the Year Award from ECHO Klassik.

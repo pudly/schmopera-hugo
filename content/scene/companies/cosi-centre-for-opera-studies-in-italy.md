@@ -16,6 +16,7 @@ url = "https://www.facebook.com/COSItaly"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/@COSItaly"
+_template = "company_single"
 +++
 
 <p>

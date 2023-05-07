@@ -20,7 +20,9 @@ As Canadians, we pride ourselves on our acceptance of others, our inclusivity, a
 
 Joy Kogawa penned her novel, *Naomi's Road*, and it was published in 1986. It tells the story of a Japanese-Canadian family and their experiences with racism, segregation, and persecution at the hands of the Canadian government during WWII. Most of us may be aware of this epidemic of Japanese internment camps across the states due to the activism of TV star George Takei, and his subsequent Broadway show [*Allegiance*](http://allegiancemusical.com/). What we're painfully unaware of is that this xenophobia towards the Japanese after the events of Pearl Harbour was widespread across Canada at that time as well. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406388581/2016-11-16---NaomisRoad-photobyDahliaKatz-9222.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406388581/2016-11-16---NaomisRoad-photobyDahliaKatz-9222.jpg.jpg)
 <figcaption>*Naomi's Road*, Tapestry Opera, 2016. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -28,7 +30,9 @@ In *Naomi's Road*, Naomi's family is torn apart. Mom goes back to Japan to care 
 
 We then see Naomi and her brother Stephen experience racism from all angles, mixed with the fear of the unknown, and the fear of the war and confusion over their lost father. Then Naomi suddenly befriends Mitzi, a white girl, and thus the seeds of hope are planted. The show ends with the children and Obasan reunited with the Father and off to start a new life now that the war is over. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406396812/2016-11-16---NaomisRoad-photobyDahliaKatz-9138.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406396812/2016-11-16---NaomisRoad-photobyDahliaKatz-9138.jpg.jpg)
 <figcaption>*Naomi's Road*, Tapestry Opera, 2016. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -36,7 +40,9 @@ As Naomi, soprano Hiather Darnel-Kadonga sang with an easy, free, and accessible
 
 Tenor Sam Chung sang the role of Stephen, Naomi's brother. This is a voice I'd really like to hear more of. Crisp diction and a firm vocal line while never sacrificing character or physicality. The bloom over the top of his register was quite exciting. His voice mixed very will with that of Naomi, to the point they could have actually been a real-life brother/sister duo. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406354269/2016-11-16---NaomisRoad-photobyDahliaKatz-9181.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406354269/2016-11-16---NaomisRoad-photobyDahliaKatz-9181.jpg.jpg)
 <figcaption>*Naomi's Road*, Tapestry Opera, 2016. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -44,7 +50,9 @@ As Daddy, The Bully, Rough Lock Bill, and Trainmaster, baritone Sung Taek Chung 
 
 [Erica Iris](/scene/people/erica-iris/) as Mother, Mitzi, and Obasan walked away with the show last night. Like Sung Taek Chung, she too had many quick changes that you didn't even notice. She was gentle, charming, and warm throughout the whole production. Her honey-dripped mezzo sounded lush and comforting as it rang through the church. I have to say, her characterization of Mitzi may have been the highlight of the night for me. There was a truth to every character she played. There were layers and each one was on a journey. It would have been very easy to stick to archetypes and caricatures (and it would have totally jived with the aesthetic of the whole show) but Erica's choices brought us three-dimensional women and girls at all times.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406174107/2016-11-16---NaomisRoad-photobyDahliaKatz-9144.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406174107/2016-11-16---NaomisRoad-photobyDahliaKatz-9144.jpg.jpg)
 <figcaption>*Naomi's Road*, Tapestry Opera, 2016. Photo by Dahlia Katz.</figcaption>
 </figure>
 

@@ -12,6 +12,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/twgfaulkner"
 
+_template = "people_single"
 +++
 Thomas Faulkner is a member of the solo ensemble at Oper Frankfurt where his roles season include John Claggart in _Billy Budd,_ Alidoro in _La Cenerentola_, Elviro in _Serse_, Zuniga in _Carmen_, Benes _Dalibor_, Lord Gualtiero _I puritani_, Jago in _Ernani_, Ghost of Hector, Mercury and a Soldier in _Les Troyens_. Thomas will also debut as Masetto in Garsington Opera Festival’s _Don Giovanni._
 

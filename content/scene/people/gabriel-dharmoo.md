@@ -16,6 +16,7 @@ url = "https://www.youtube.com/channel/UCgXgNdCFwuVLK9ogW_Pjp-g/videos"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/gabrieldharmoo"
+_template = "people_single"
 +++
 
 Gabriel Dharmoo's musical practice encompasses composition, vocal improvisation and research.

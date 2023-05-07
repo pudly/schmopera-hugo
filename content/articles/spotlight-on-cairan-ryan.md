@@ -28,7 +28,9 @@ Breathing's also a good one. When you get bogged down with worrying about what s
 
 It's a never-ending process, and we continue to aspire to good singing until the day we shuffle off this mortal coil, to the big practice room in the sky. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442964321815/AlittletooCozyAlfonsoBanff2015.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442964321815/AlittletooCozyAlfonsoBanff2015.jpg.jpg)
 <figcaption>Cairan Ryan as Donald Alfonso in Against the Grain Theatre's *A Little Too Cozy*, 2015. Photo: Don Lee/The Banff Centre.</figcaption>
 </figure>
 

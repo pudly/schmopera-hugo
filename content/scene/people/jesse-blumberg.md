@@ -16,6 +16,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/blumbertone/"
 
+_template = "people_single"
 +++
 Baritone Jesse Blumberg enjoys a busy schedule of opera, concerts, and recitals, performing repertoire from the Renaissance and Baroque to the 20th and 21st centuries. His performances have included the world premiere of _The Grapes of Wrath_ at Minnesota Opera, Bernstein’s _MASS_ at London’s Royal Festival Hall, various productions with Boston Early Music Festival, and featured roles with Atlanta Opera, Pittsburgh Opera, Opera Atelier, and Boston Lyric Opera. Jesse has made concert appearances with American Bach Soloists, Boston Baroque, Apollo’s Fire, Oratorio Society of New York, Montréal Baroque Festival, Arion Baroque, Early Music Vancouver, Pacific MusicWorks, and on Lincoln Center’s _American Songbook_ series. His recital highlights include appearances with the Marilyn Horne Foundation and New York Festival of Song, and performances of _Die schöne Müllerin_ and _Winterreise_ with pianist Martin Katz. Jesse has given the world premieres of Ricky Ian Gordon’s _Green Sneakers_, Lisa Bielawa’s _The Lay of the Love and Death_, Conrad Cummings’ _Positions 1956_, and Tom Cipullo’s _Excelsior_, and works closely with several other renowned composers as a member of the Mirror Visions Ensemble.
 

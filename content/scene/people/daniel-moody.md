@@ -19,6 +19,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/MoodyCountertenor/videos"
 
+_template = "people_single"
 +++
 Lauded for his “profoundly startling vocal resonance” (_The New York Times_) and “sweet and melancholy sound” (_The Washington Post_), Daniel Moody is celebrated for his interpretations of contemporary and baroque opera and as a soloist with orchestra.
 

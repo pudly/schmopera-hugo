@@ -31,7 +31,9 @@ I mean…I love me a salacious tale, and this is _Game of Thrones_-level drama. 
 
 The most challenging? Probably the technicality behind that damn ghost of Banquo appearing and disappearing. Although that may be because we just staged that scene, and it turns out real people can't physically do what my brain decided they could.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560892902/media/2019/06/JeanineFynn-KatieCross.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1560892902/media/2019/06/JeanineFynn-KatieCross.jpg)
 
 <figcaption>Jeanine Fynn, director of Heroic Opera's Macbeth. Photo: Katie Jameson.</figcaption>
 

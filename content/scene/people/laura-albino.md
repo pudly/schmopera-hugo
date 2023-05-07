@@ -9,6 +9,7 @@ related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md"
 slug = "laura-albino"
 title = "Laura Albino"
 website = "http://www.lauraalbino.com/live/"
+_template = "people_single"
 +++
 
 <p>

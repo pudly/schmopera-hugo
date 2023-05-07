@@ -12,6 +12,7 @@ website = "http://www.markadamo.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/operamarkadamo/"
+_template = "people_single"
 +++
 
 American composer-librettist Mark Adamo prepared for the world-première performances in June 2013 of his third full-length opera, *The Gospel of Mary Magdalene*, following a busy season of opera and chamber premières. In May 2012, Fort Worth Opera opened its first production of his second opera, *Lysistrata*; that September, the Constella Festival in Cincinnati opened their season with August Music, for flute duo and string quartet, commissioned by Sir James and Lady Jeanne Galway: in December, Sasha Cooke and the New York Festival of Song introduced *The Racer’s Widow*, a cycle of five American poems for mezzo-soprano, cello, and piano; and, in April 2013, baritone Thomas Hampson and the Jupiter String Quartet introduced Aristotle, after the poem by Billy Collins, in concerts at the Mondavi Center in Davis, California before continuing to Boston and New York under the auspices of the Chamber Music Society of Lincoln Center.

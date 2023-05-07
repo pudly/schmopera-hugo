@@ -19,7 +19,9 @@ For Scime, the story "is more or less a cautionary tale warning us of the implic
 
 Scime feels the story speaks to humans and their daily lives. "The lessons taught to Hermas through the mysterious Messenger are of course in some way relevant to all our lives. It is through art - and through opera - that one may be allowed to reflect on the human condition in a way that perhaps wasn't a consideration prior to a given artistic experience." 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447821619318/Scime.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447821619318/Scime.jpg.jpg)
 <figcaption>Adam Scime, composer.</figcaption>
 </figure>
 

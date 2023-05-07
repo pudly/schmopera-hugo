@@ -23,6 +23,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCGysosq7YyI5VCucU3o8DKg"
 
+_template = "people_single"
 +++
 I am an international Colombian tenor, based in Boston, with more than sixteen years of experience in music performing. The core of my career has been to share with love the joy of singing; bringing my voice and heart on different latitudes and communities: From big theaters, to flash mobs in bakeries and shopping malls.
 

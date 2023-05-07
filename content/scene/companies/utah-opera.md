@@ -24,6 +24,7 @@ url = "https://www.instagram.com/utahopera/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/usuovids"
+_template = "company_single"
 +++
 
 Since 1978, Utah Opera has cultivated and entertained a growing audience of more than 150,000 annually around the intermountain area. We produce opera with artistic standards of distinction and with a fresh vibrancy - new works for our area as well as the classics.

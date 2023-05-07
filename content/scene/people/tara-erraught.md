@@ -18,6 +18,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/TaraErraught"
 
+_template = "people_single"
 +++
 A rich, radiant voice, expansive range and dynamic stage presence are the hallmarks of Irish mezzo-soprano Tara Erraught. With a wide repertoire that includes Bellini, Dvorak, Gounod, Mozart, Puccini, Rossini, Strauss and Verdi, as well as contemporary composers, she enjoys an ever-growing international career on the opera, orchestra and recital stages. In recent seasons Ms. Erraught has sung world premieres, made numerous role debuts, and appeared in recitals and concerts throughout the United States, Canada, Denmark, France, Ireland, Japan, Mexico, Spain, Germany, and the United Kingdom.
 

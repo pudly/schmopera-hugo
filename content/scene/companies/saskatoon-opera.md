@@ -16,6 +16,7 @@ url = "https://www.facebook.com/SaskatoonOpera?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SaskatoonOpera"
+_template = "company_single"
 +++
 
 <p>

@@ -13,6 +13,7 @@ website = "http://charlescastronovo.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/charlietenor"
+_template = "people_single"
 +++
 
 Acclaimed internationally as one of the finest lyric tenors of his generation, Castronovo has also sung at most of the world’s leading opera houses such as the Royal Opera House, Covent Garden, Vienna State Opera, Berlin State Opera, Paris Opera, Bavarian State Opera, Munich, Theatre Royale de la Monnaie, Brussels, and many others including at the Salzburg and Aix en Provence Festivals. His repertoire spans from the great Mozart tenor roles in *Don Giovanni, Cosi Fan Tutte* and *Die Zauberfloete*, to Edgardo in *Lucia di Lammermoor*, Nemorino in *L’Elisir D’Amore* and Alfredo in *La Traviata*. In recent seasons Castronovo has also won wide acclaim for his performances as the title role in Faust, Romeo in *Romeo et Juliette*, the Duke in *Rigoletto*, Rodolfo in *La Boheme* and Tom Rakewell in *The Rakes Progress*. He starred in the title role of Daniel Catan’s *Il Postino* opposite Placido Domingo in the work’s world premiere in Los Angeles, as well as Paris and Santiago.

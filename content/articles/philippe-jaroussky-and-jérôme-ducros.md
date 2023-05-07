@@ -31,7 +31,9 @@ However, these are classic songs that audiences will continue to come back to. A
 
 Jaroussky is a highly sensitive performer whose interpretations of these classics were impassioned and affecting. He has a very rare instrument that he has the ability to manipulate with seeming ease. He is a very intuitive performer, driven more by the feel of the notes within the harmonies than the words themselves or storytelling and in this way, is very communicative; creating meaning that is born of the music itself.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579369115/media/2020/01/JeromeDucros_xilwjf.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1579369115/media/2020/01/JeromeDucros_xilwjf.jpg)
 
 <figcaption>Pianist Jérôme Ducros.</figcaption>
 

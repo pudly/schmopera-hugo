@@ -24,6 +24,8 @@ The performance was excellent by all involved - indeed, it couldn't have gone po
 
 It's a thrill to hear a famous tune played live. It's exponentially more thrilling when it's played live, and played with gusto that hits you right between the eyes. Oundjian tore through the final sweeps of the Choral Symphony, leading right into the thunderous applause that erupted with no hesitation. There was a warmth and gratitude that moved from the audience to the stage as Oundjian's listeners thanked him - with that Canadian trope, the standing ovation - for his 14 years. The genius of Beethoven was layered upon the awe that comes with considering the maestro's contribution to Toronto's arts-hub status in the world. Plus, those final chords sent us out into the heat of the Canada Day long weekend, making this generous night at the TSO very Canadian indeed.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530410991361/IMG_20180630_203212_906.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530410991361/IMG_20180630_203212_906.jpg.jpg)
 <figcaption>Photo via [Schmopera on Instagram](https://www.instagram.com/schmopera/).</figcaption>
 </figure>

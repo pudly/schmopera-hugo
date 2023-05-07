@@ -12,6 +12,7 @@ website = "http://www.marienicolelemieux.com/en/home/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/marienicolelemieux"
+_template = "people_single"
 +++
 
 It is no wonder that Marie-Nicole Lemieux shines today in the world of singing: the singer like the woman radiates an aura that belongs only to the greatest.

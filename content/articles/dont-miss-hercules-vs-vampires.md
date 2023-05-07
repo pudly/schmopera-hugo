@@ -17,7 +17,9 @@ title = "Don&#039;t miss: Hercules vs Vampires"
  
 Possibly the most interesting part of the experience was in being in the world of film and television scoring and crossing over into the world of opera.  I've been a classical musician my whole life but entering the opera world at the professional level was a new and frankly wonderful experience.  The world of film and television is VERY different.  I should probably let it go at that!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515627119164/2018-01-10---HERCULES---Hercules-and-Dianara.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515627119164/2018-01-10---HERCULES---Hercules-and-Dianara.jpg.jpg)
 <figcaption>Hercules (Reg Park) and Deianira (Leonora Ruffo) in *Hercules in the Underworld* (*Ercole al centro della terra*), 1961, directed by Mario Bava</figcaption>
 </figure>
  
@@ -31,7 +33,9 @@ The word unique covers a lot of territory, but I can certainly think of a few ke
  
 Another area of great interest was in working with operatic voices, which, truthfully, I hadn't done before.  Of course I wasn't starting from zero - I'd been a huge opera fan my whole life and I think I knew the literature of opera fairly well - but there's a world of difference between listening to, say, *Parsifal*, and being able to write an opera that isn't grossly incompetent.  The learning curve here was steep, but I was lucky enough to have a couple of friends who have been in the world of professional opera for many years and they helped me along.  I'm deeply grateful for their help!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515626949983/2018-01-10---ACW2014_PatrickMorganelli-IMG-1930.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515626949983/2018-01-10---ACW2014_PatrickMorganelli-IMG-1930.jpg.jpg)
 <figcaption>Patrick Morganelli, composer. Photo: Anna Webber.</figcaption>
 </figure>
  

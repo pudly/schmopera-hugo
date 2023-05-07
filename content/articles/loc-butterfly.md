@@ -21,7 +21,9 @@ Puccini’s _Madama Butterfly_ hardly needs any introduction, being one of the t
 
 Lyric Opera of Chicago’s current run of [_Madama Butterfly_](https://www.lyricopera.org/productions/2019-20/madama-butterfly/) hits many of the right notes in doing justice to this well-known masterpiece. For starters there’s the production itself. Director Louisa Muller revives Michael Grandage’s original co-production for the Houston Grand Opera and the Grand Théâtre de Genève. Christopher Oram’s sets and costumes are simple, beautiful, and culturally sensitive without being distracting. Lighting designer Chris Maravich does incredible work with Neil Austin’s original lighting, which captures superbly the atmosphere of each moment as well as the coloristic effects of the music. Utilizing primarily a curved, declining ramp and some sliding Japanese-style paper doors, the focus of the show remained on the music and the main characters’ interactions.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581451869/media/2020/02/AnaMar%C3%ADaMart%C3%ADnez_Graham_Nansteel_MADAMABUTTERFLY_LyricOperaofChicago_LYR200203_1659_lcjcp1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581451869/media/2020/02/AnaMar%C3%ADaMart%C3%ADnez_Graham_Nansteel_MADAMABUTTERFLY_LyricOperaofChicago_LYR200203_1659_lcjcp1.jpg)
 
 <figcaption>Ana María Martínez (Cio-Cio San), Deborah Nansteel (Suzuki) and  Graham Macfarlane (Sorrow) in Madama Butterfly, Lyric Opera of Chicago, 2020. Photo: Todd Rosenberg.</figcaption>
 
@@ -33,7 +35,9 @@ In light of this beautifully minimalistic staging, the acting by the two leads l
 
 Martínez is a local favorite and the LOC audience made it clear they loved having her back in town, and especially for what has become a signature role for her. Having sung Cio-Cio-San at the Met, in Paris, and other operatic capitals, Martínez brings a wealth of experience, time, and thoughtfulness to this role. This shows in the understated expressivity of her motions, glances, and vocalism. In an enlightening essay included in the program book, Martínez makes a strong case for Cio-Cio-San as an empowering, independent woman – never a victim, despite her socio-cultural circumstances. Martínez’s performance of “Un bel dì” drove this point home.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581451910/media/2020/02/AnaMar%C3%ADaMart%C3%ADnez_MADAMABUTTERFLY_LyricOperaofChicago_LYR200203_1953_itsgre.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581451910/media/2020/02/AnaMar%C3%ADaMart%C3%ADnez_MADAMABUTTERFLY_LyricOperaofChicago_LYR200203_1953_itsgre.jpg)
 
 <figcaption>Ana María Martínez (Cio-Cio San) in Madama Butterfly, Lyric Opera of Chicago, 2020. Photo: Todd Rosenberg.</figcaption>
 
@@ -43,7 +47,9 @@ Mezzo-soprano [Deborah Nansteel](/scene/people/deborah-nansteel/) played Suzuki,
 
 Baritone and second-year Ryan Opera Center member Ricardo José Rivera deserves special mention for stepping in as Sharpless on very short notice. Perhaps a bit nervous at first, Rivera settled into his role wonderfully, delivering morsels of judiciousness to Pinkerton with grace and authority.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581451931/media/2020/02/BrianJagde_AnaMar%C3%ADaMart%C3%ADnez_GrahamMacfarlane_MADAMABUTTERFLY_LyricOperaofChicago_LYR200203_2097_swlegd.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1581451931/media/2020/02/BrianJagde_AnaMar%C3%ADaMart%C3%ADnez_GrahamMacfarlane_MADAMABUTTERFLY_LyricOperaofChicago_LYR200203_2097_swlegd.jpg)
 
 <figcaption>Brian Jagde (Pinkerton), Ana María Martínez (Cio-Cio San) and Graham Macfarlane (Sorrow) in Madama Butterfly, Lyric Opera of Chicago, 2020. Photo: Todd Rosenberg.</figcaption>
 

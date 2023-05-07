@@ -21,7 +21,9 @@ title = "James Robinson&#039;s Elixir of Love: &quot;I think it&#039;s one of th
 
 "Nemorino is not really what you would consider heroic. He's a nice guy who tries really hard." As for Adina's other suitor, "Belcore is a bit of a vain, glorious military guy." The combination of the simple guy, the admired woman, the blustering show-off, and the con-man make for "an odd group of people," but Robinson's aim is to tell a story that aligns the audience with the good guy. "When the circumstances are right, and you have a really good cast, you're rooting for Nemorino, and you hope it works out for him."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506991077068/2017-10-02---Elixir-of-Love---photo-credit-Ken-Howard---Photo-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506991077068/2017-10-02---Elixir-of-Love---photo-credit-Ken-Howard---Photo-2.jpg.jpg)
 <figcaption>A scene from the Opera Theatre of Saint Louis production of *The Elixir of Love*, 2014. Photo: Ken Howard.</figcaption>
 </figure>
 

@@ -27,6 +27,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/newoperawest/"
 
+_template = "company_single"
 +++
 New Opera West (NOW) is an opera company dedicated to the creation and promotion of new operatic works.
 

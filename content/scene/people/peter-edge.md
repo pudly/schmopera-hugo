@@ -27,6 +27,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/peteredge/"
 
+_template = "people_single"
 +++
 Baritone Peter Edge graduated from the Royal College of Music, London, as a Master of Music in Vocal Performance with Distinction, where he was supported by the Walker Trust.
 

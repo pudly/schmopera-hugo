@@ -13,6 +13,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/patrickEterry"
 
+_template = "people_single"
 +++
 Born and raised in Janesville, Wisconsin, Patrick earned his Bachelor’s of Music from the University of Minnesota – Twin Cities in 2014 where he studied with Adriana Zabala. Patrick sang in the chorus of the Minnesota Opera world premieres of Cuomo’s _Doubt_ and Puts’s _Silent Night_. His concert work included the Alto Soloist in the Vivaldi _Gloria_ and Bach’s _Magnificat_ with the Minnesota Oratorio Society. He placed second in the 2015 Joan Chissell Schumann Lieder Competition, won the 2014 Maureen Lehane Vocal Award, was awarded the Loveday Song Prize in the 2017 Kathleen Ferrier Competition, and was the winner of the 2017 Richard Lewis/Jean Shanks Award. 
 

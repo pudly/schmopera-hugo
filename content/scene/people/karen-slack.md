@@ -25,6 +25,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/kikislacksoprano/"
 
+_template = "people_single"
 +++
 Hailed for possessing a voice of extraordinary beauty, a seamless legato and great dramatic depth, American soprano Karen Slack has appeared with the **Metropolitan Opera** where she made her debut in the title role of Verdi’s _Luisa Miller_, **Lyric Opera of Chicago**, **Washington National Opera**, and **San Francisco Opera**. In recent seasons, she has appeared as Alice Ford in _Falstaff_, Leonora in _Il trovatore_ and Tosca with **Arizona Opera**, as Aïda at **_Austin Opera_**, Emelda Griffith in _Champion_ with **New Orleans Opera**, Donna Anna in _Don Giovanni_ with **Nashville Opera**, Violetta in _La Traviata_ with **Sacramento Opera** and Sister Rose in _Dead Man Walking_ with both **Minnesota Opera** and **Vancouver Opera** and her **Scottish Opera** debut as Anna in Puccini’s _Le villi_. Additionally, Ms. Slack portrayed a featured role as the Opera Diva in Tyler Perry’s movie and soundtrack “For Colored Girls.” Ms. Slack is an Artistic Advisor for **Portland Opera**, Co-Director for the 2020-21 **Opera Program at the Banff Centre for the Performing Arts**, and Co-Chair of the **Women's Opera Network** with **Opera America**.
 

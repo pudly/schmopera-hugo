@@ -12,6 +12,7 @@ title = "Mary Bevan"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MaryCBevan"
+_template = "people_single"
 +++
 
 Praised by Opera for her “dramatic wit and vocal control” in stand out performances on opera and concert platforms, Mary Bevan is a winner of the Royal Philharmonic Society’s Young Artist award and UK Critics’ Circle Award for Exceptional Young Talent in music.

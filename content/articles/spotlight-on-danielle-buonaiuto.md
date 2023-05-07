@@ -24,7 +24,9 @@ In my administrative life, I work with organizations that have these aims at the
 
 A life as an artist is a vocation: it is sometimes - no, often - difficult to draw the line between who you are at work, and who you are. This can have its emotional challenges - especially if things aren't going so well. I'm someone who needs her work to be deeply meaningful, and I like that I can live my values through my work. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498187060589/2017-06-22---IMG_0258.jpg.jpg)<figcaption>Danielle Buonaiuto (left) and Lisa Perry, REXDuo. Photo: Tim Steenland.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498187060589/2017-06-22---IMG_0258.jpg.jpg)<figcaption>Danielle Buonaiuto (left) and Lisa Perry, REXDuo. Photo: Tim Steenland.</figcaption>
 </figure>
 
 ## What are your priorities when you step on stage? What does it feel like when you are successful in performance?
@@ -41,7 +43,9 @@ I think getting a chance to self-produce a few events is a great trial-by-fire f
 
 Another thing that young artists can think about is their contributions to the field beyond their own particular artistic practice. You can't expect support from the artistic community if you don't show up for that community. Examine your habits: whose concerts and shows are you attending? Are you making any donations, however small? Are you talking to other artists and asking insightful questions about their artistic projects? Are you listening to music by composers you know, and reading poetry by local writers, just in case you might want to commission them? Do you have a list of people you can recommend when you aren’t able to take a gig? There is, in fact, room for everyone in this field, and the days of every person for themselves are over - more active involvement in the field as a whole is what's needed for a healthy ecosystem.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498187068000/2017-06-22---Buonaiuto_Headshot_hires.jpg.jpg)<figcaption>Photo: Macbeth Studios.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498187068000/2017-06-22---Buonaiuto_Headshot_hires.jpg.jpg)<figcaption>Photo: Macbeth Studios.</figcaption>
 </figure>
 
 ## Do you have any "bucket list" items for your artistic career? 

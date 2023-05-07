@@ -21,6 +21,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/MinnesotaOpera"
 
+_template = "company_single"
 +++
 In 1963, the commission of a world premiere sparked the creation of a small Twin Cities opera company spotlighting the rare and avant-garde. Fifty years later, Minnesota Opera is one of the nation’s largest and most distinguished opera companies, known for its world-class artistry and innovative productions.
 

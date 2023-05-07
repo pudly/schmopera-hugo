@@ -12,6 +12,7 @@ website = "http://www.alaincoulombe.com/"
 platform = "Facebook"
 template = "social-media"
 url = ""
+_template = "people_single"
 +++
 
 One of the most commanding and exciting singers of his generation, admired for his musical and dramatic versatility, French-Canadian bass Alain Coulombe is a favourite of international critics and audiences alike. In a career spanning over 25 years, he has collaborated with outstanding conductors such as Seiji Ozawa, Rafael Frühbeck de Burgos, Yannick Nézet-Séguin, Helmut Rilling, Richard Bradshaw, Kent Nagano, Bernard Labadie, Mark Albrecht, Edoardo Muller, Alain Altinoglu, Ingo Metzmacher and Richard Bonynge.

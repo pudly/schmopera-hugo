@@ -21,7 +21,9 @@ youtube_url = ""
 
 I mean, the tagline says it all: "an online fantasia of Verdi's _Macbeth_". [Heartbeat Opera](/scene/companies/heartbeat-opera/) is apparently rocking the online medium, and I'm pretty excited about _Lady M_, which runs currently **until May 20**. I'm not entirely sure what to expect, but Verdi's great, and the [Heartbeat Opera folks](/a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza/) are great, so "great" seems to be a logical end. Tickets are $20 ([ticketed events support artists!](/what-the-mets-at-home-gala-teaches-us-about-evolution/)), and you can get a sneak peek here:
 
-<figure data-type="video">{{% md %}}<iframe width="405" height="228" src="https://www.youtube.com/embed/fwpYvHtPGVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="405" height="228" src="https://www.youtube.com/embed/fwpYvHtPGVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -39,7 +41,9 @@ It's like this: _The Magic Flute_ + Super Mario Bros. = _Superflute_!
 
 [Pacific Opera Project](https://www.pacificoperaproject.com/superflute) is offering an encore presentation of their [video game-inspired production](https://www.pacificoperaproject.com/superflute) of Mozart's _The Magic Flute_ as a watch party this Wednesday, **May 13 at 5pm PDT**. I mean, _Flute_ is a great opera, and POP is certainly tugging at the heartstrings with all this nostalgia - I'll tune in (via [YouTube](https://u7061146.ct.sendgrid.net/ls/click?upn=4tNED-2FM8iDZJQyQ53jATUWgRE384tHgp8wdcDkAUwQ8gnssPZgr3IX4ZIYehGOHyXKrsWswqghcseTDn2SXH5g-3D-3DiXe6_K0idrejNttU31Sqen4p7LjUoKnZbhhKZleHckmaTzrNLBuvy2CURjzDNVij4gz4dz7S-2B3gMl9ZsOBoIu8khA8CVGt8dD2HkVH-2FV4NlMvPTvxmnkD9V5y8CIAhq3NDFY6TB-2B3I3npGcXxKZjl-2B1Xd-2F3y1x-2BHqCZcdRcPgVFl-2F2vgMS-2FYHmqGp7SWYRXZ-2BbNILlxp4b7-2FmvZRz9-2BGG0UtcMG42SFIgWTvyVdBLf3rzWwPVKXIZ8L1qzwNXHLqHRpf2Zqe7U-2FzfXqhAvscZIV8485R4IDUgDU91ubj8bPRp2eTsfU4Smy7PrXlJGduBjrpOQIgzzKS21xCwWbVJ-2FoYZpqxnEw-2BFW0BDiWyQG9yuDD4-3D) or [Facebook](https://u7061146.ct.sendgrid.net/ls/click?upn=4tNED-2FM8iDZJQyQ53jATUb8Hzhz9hTfMErRs-2Fni8h9jmF8coK40VLFCi4jQcV0UuMtbQdOCmvQ45smzbUjj1lg-3D-3DbXDK_K0idrejNttU31Sqen4p7LjUoKnZbhhKZleHckmaTzrNLBuvy2CURjzDNVij4gz4dz7S-2B3gMl9ZsOBoIu8khA8CVGt8dD2HkVH-2FV4NlMvPTvxmnkD9V5y8CIAhq3NDFY6TB-2B3I3npGcXxKZjl-2B1Xd-2F3y1x-2BHqCZcdRcPgVFl-2F2vgMS-2FYHmqGp7SWYRXZ-2BbNILJtMdsARNv2BHZDYJ50adRAjLsHekpyhArZntxPXYT50dEsVC9qM4uujJb9XAXA28pu2D5Nxfxrk7ofCqpSLXmxJGMim99fbFG-2BbIjLm3J4kj52eO0BafIXbBtZiO5qBJ1kDbYV40zjR9zqaLGIuCFKjtFUNAt9ffFk3p9H0-2BDZs-3D)), and don't tell me you're not at least curious:
 
-<figure data-type="video">{{% md %}}<iframe width="1013" height="570" src="https://www.youtube.com/embed/uvWlshkmqfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1013" height="570" src="https://www.youtube.com/embed/uvWlshkmqfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 

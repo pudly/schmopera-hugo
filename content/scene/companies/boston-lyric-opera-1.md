@@ -21,6 +21,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/bostonlyricopera"
 
+_template = "company_single"
 +++
 **The mission of Boston Lyric Opera is to build curiosity, enthusiasm and support for opera by creating musically and theatrically compelling productions, events, and educational resources for the Boston community and beyond.**
 

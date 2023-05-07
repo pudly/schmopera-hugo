@@ -15,6 +15,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/Laura-Leon-Soprano-142207299314061/"
 
+_template = "people_single"
 +++
 Laura Martínez León is a natural Cuban soprano. She emigrated from Cuba to the United States in 2005 and is currently a Young Artist at Florida Grand Opera where she is covering Yvette in _The Passenger_ and Norina in _Don Pasquale_.
 

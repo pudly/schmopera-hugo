@@ -19,6 +19,7 @@ platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/jenihousersoprano"
 
+_template = "people_single"
 +++
 Opera News lauds Jeni Houser’s performances as “commanding and duplicitous, yet also vulnerable. She has a bright future above the staff.” In the 2019-20 season she makes debuts with the Metropolitan Opera, Los Angeles Opera, Dallas Opera, and New Orleans Opera in her sought-after portrayal of Königin der Nacht in _Die Zauberflöte_. Additionally she returns to Madison Opera as Eurydice in _Orpheus in the Underworld_ and returns to the Dallas Opera stage as the title role in _The Golden Cockerel_. Future engagements include at role and house debut at Seattle Opera. Last season she made her house debut with the Wiener Staatsoper as Franzi in the world premiere of Staud’s _Die Weiden_ and subsequently joined the company for its productions of _Die Zauberflöte_ and Trojahn’s _Orest_. She also joined Kentucky Opera in a return to Königin der Nacht in _Die Zauberflöte_ and returned to Madison Opera as Anne Egerman in _A Little Night Music_ and for its popular Opera in the Park Concert as well as Fort Worth Opera to create the role of Viv in Peters’ _Companionship_.
 

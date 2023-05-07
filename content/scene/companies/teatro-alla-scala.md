@@ -16,6 +16,7 @@ url = "https://www.facebook.com/teatro.alla.scala"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/teatroallascala"
+_template = "company_single"
 +++
 
 

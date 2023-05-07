@@ -23,7 +23,9 @@ Before I started singing I was a drummer in a heavy metal band. Most of my means
 
 I then dedicated my time to learn how to express that to others and move them as much as I was moved that day. In a nutshell, I love the challenge that music offers you as a performer. Always asking myself, where is the core of the song and how do I tell that story to the audience?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993850316/2017-05-28---Fisher---Atelier.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993850316/2017-05-28---Fisher---Atelier.jpg.jpg)
 <figcaption>Adam Fisher (Pedrillo) in *The Abduction from the Seraglio*, Opera Atelier. Photo: Bruce Zinger.</figcaption>
 </figure>
 
@@ -37,7 +39,9 @@ Take care of yourself. Your physical and emotional health are so important to su
 
 For me, exercise and the outdoors has always been cathartic. Getting outside for a bike ride or weight training during a contract is such a great release for me. It's kinda like meditation and gives me a place to let out all the baggage built up from the process of creating art. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993860555/2017-05-28---Fisher---Oksana.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993860555/2017-05-28---Fisher---Oksana.jpg.jpg)
 <figcaption>Adam Fisher (Father Alexander) with Natalya Gennadi (Oksana) in rehearsal for *Oksana G.*, Tapestry Opera. Photo courtesy of Tapestry Opera.</figcaption>
 </figure>
 
@@ -49,7 +53,9 @@ A young Gaius Julius Caesar was sent to collect tribute from King Nicomedes, and
 
 Exploring this side of his character is very interesting to me. Finding how to approach the idea of sexual identity and how much society needs to label people. In my opinion, if Gaius were alive today, he would be labeled a bisexual and possibly endure similar scrutiny if he were running for public office. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993871142/2017-05-28---Fisher---Midsummer.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993871142/2017-05-28---Fisher---Midsummer.jpg.jpg)
 <figcaption>Adam Fisher (Lysander) with John Brancy (Demetrius) and Lauren Segal (Hermia) in *A Midsummer Night's Dream*, Pacific Opera Victora. Photo: David Cooper.</figcaption>
 </figure>
 

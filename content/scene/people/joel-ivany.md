@@ -12,6 +12,7 @@ website = "http://www.joelivany.com/index/welcome.html"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/joelivany"
+_template = "people_single"
 +++
 
 Stage Director Joel Ivany was a recent finalist and prize winner in the 6th European Opera Directing prize for his concept presentation of Bellini's _I Capuleti e i Montecchi_ alongside designers Camellia Koo and Jason Hand. His most recent projects include directing the World Premiere of Gavin Bryars' chamber opera [Marilyn Forever](http://www.joelivany.com/index/Marilyn_Forever.html "Marilyn_Forever.html")_,_ with the Aventa Ensemble in Victoria, directing a new production of [Les Contes D'Hoffmann](http://www.joelivany.com/index/contes_dhoffmann.html "contes_dhoffmann.html") with Edmonton Opera, directing _Macbeth_ for Minnesota Opera, directing _Carmen_ for Vancouver Opera and becoming the sessional artistic director of Opera at the Banff Centre.  

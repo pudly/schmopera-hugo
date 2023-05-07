@@ -8,6 +8,7 @@ related_companies = ["scene/companies/wiener-staatsoper.md","scene/companies/roy
 slug = "krassimira-stoyanova"
 title = "Krassimira Stoyanova"
 website = "http://krassimira-stoyanova.com/"
+_template = "people_single"
 +++
 
 Krassimira Stoyanova is one of the leading sopranos of our time, highly acclaimed by press and public alike.

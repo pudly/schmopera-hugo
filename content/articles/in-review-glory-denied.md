@@ -21,7 +21,9 @@ And I think, when feeling such strong things, it’s easy to forget that devasta
 
 Some background: *Glory Denied*, written in 2007, is an opera based on the oral history (written by journalist Tom Philpott) of Vietnam veteran Colonel Jim Thompson, the United States' longest-held prisoner of war, and the family to which he returns after his release from captivity. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479218976117/2016-11-16---DGCast.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479218976117/2016-11-16---DGCast.jpg.jpg)
 <figcaption>Photo courtesy of Nashville Opera.</figcaption>
 </figure>
 
@@ -36,7 +38,9 @@ Dr. Neuville, who had the difficult task of crawling/reacting to physical pain/b
 
 We are lucky to have a singer with so clear a vocal affinity to new music as Rebecca Sjöwall. Her voice just takes to it so easily, I forget she’s singing. That's not just because of her several patter passages in *Glory Denied*, but the natural ease in her vocal precision and her voice' richness give a relatable life to the character. She made me feel for Alyce in a way that the set-up of the narrative discourages.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479218999869/2016-11-16---Jims2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479218999869/2016-11-16---Jims2.jpg.jpg)
 <figcaption>Photo courtesy of Nashville Opera.</figcaption>
 </figure>
 

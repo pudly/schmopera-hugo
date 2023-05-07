@@ -24,6 +24,7 @@ url = "https://instagram.com/kcopera/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/LyricOperaKC"
+_template = "company_single"
 +++
 
 ## OUR MISSION

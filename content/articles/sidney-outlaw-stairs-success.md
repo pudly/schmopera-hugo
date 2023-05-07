@@ -34,7 +34,9 @@ Though the repertoire sits comfortably in his voice, his insists, "I practice te
 
 On top of his singing regime, Outlaw trains at Olympic weightlifting and CrossFit. "I have a great coach here in the city, and he's found a really great way to relate singing to the strength portion of our workout." He compares great singing to the fleeting moment of zero-gravity when lifting a weight above his head. "I kind of think of singing, in that way," he says. When things are going right, "it feels free, it feels weightless, effortless. And the reason that it feels effortless is because of the air flow."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474836852778/2016-09-25---Outlaw.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474836852778/2016-09-25---Outlaw.jpg.jpg)
 <figcaption>Sidney Outlaw, baritone and avid Olympic weightlifter. Photo: Anthony Lucic.</figcaption>
 </figure>
 
@@ -66,7 +68,9 @@ It's a topic that carries weight, but it doesn't take up a lot of head space for
 
 "There's so much hate in the world, and people look to us as artists to be there. They use music and art as a means of release and forgetting about that," he explains of what he calls his "charge" as a singer. "People look to musicians for that, people look to singers. It is the most high art form, what we do."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474836762023/2016-09-25---Outlaw-Jones.jpg.jpg)<figcaption>Outlaw with Warren Jones, Music for a Great Space.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474836762023/2016-09-25---Outlaw-Jones.jpg.jpg)<figcaption>Outlaw with Warren Jones, Music for a Great Space.</figcaption>
 </figure>
 
 "I'd love to see more blacks in the administrative positions in the opera world," adds Outlaw, who himself has considered working as an artist manager. "That's one thing I would love to do, is see more black people in the arts administration portion of what we do as artists. Teaching, being the heads of voice departments, things like that."

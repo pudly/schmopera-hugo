@@ -18,7 +18,7 @@ In traditional Noh, there is far less in terms of story and action than you woul
 
 The chorus (or "Ji") in Noh is similar to a Greek chorus, in that they are not characters, but narrators that often underscore the dialogue of the Principals, or sing for the Principal characters. Kayoi's chorus was comprised of two opera singers; tenor Joseph Bulman, and bass-baritone Peter Monaghan, and two Noh actors; Muraoka Kiyomi and Kashiwazaki Mayuko. The score, while containing elements of Western and Japanese music was reminiscent of modernist tonality, with dissonant harmonies that lended an otherworldly atmosphere to the score. Bulman and Monaghan brought amazing precision and artistry to a phenomenally challenging score, bringing the dense harmonies to life with consummate skill. Muraoka and Kashiwazaki were intense and powerful, blending the darker Noh singing style with their opera counterparts in a way that added a compelling depth and texture to the sound. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509128491965/2017-10-27---YamaiTsunao__NohNoMask.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509128491965/2017-10-27---YamaiTsunao__NohNoMask.jpg.jpg)
 <figcaption>Noh actor Yamai Tsunao. Photo: courtesy of Tomoe Arts.</figcaption>
 </figure>
 

@@ -11,6 +11,7 @@ title = "Karen Cargill"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/cargillmezzo"
+_template = "people_single"
 +++
 
 Scottish mezzo-soprano Karen Cargill was the winner of the 2002 Kathleen Ferrier Award.

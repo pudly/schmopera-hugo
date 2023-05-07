@@ -9,6 +9,7 @@ related_companies = ["scene/companies/royal-opera-house.md","scene/companies/sal
 slug = "christian-gerhaher"
 title = "Christian Gerhaher"
 website = "http://www.gerhaher.de/index.php/en/"
+_template = "people_single"
 +++
 
 During his studies under Paul Kuen and Raimund Grumbach, German baritone Christian Gerhaher attended the Opera School of the Academy of Music in Munich and, together with his regular piano partner Gerold Huber, studied lied interpretation with Friedemann Berger. While completing his medical studies Christian Gerhaher perfected his vocal training in master-classes given by Dietrich Fischer-Dieskau, Elisabeth Schwarzkopf and Inge Borkh. At present Christian Gerhaher himself teaches in select master-classes and is an honorary professor at the Academy of Music in Munich. He holds the Bavarian Maximilian Order for Science and Art.

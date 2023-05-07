@@ -25,7 +25,9 @@ Including standards of the "classical" canon like _Die Fledermaus_, _Orphée aux
 
 Toronto is lucky to be home to a company that devotes itself to the art form the way [Toronto Operetta Theatre](/scene/companies/toronto-operetta-theatre/) (TOT) does. Theirs is a guaranteed ticket to find quality productions that, if on a limited budget, span all across the genre. From Gilbert & Sullivan Masterpieces, to gripping, soaring melodies of Spanish [Zarzuelas](/what-the-eff-is-a-zarzuela-anyway/), the staple of TOT's season is always their holiday production.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1578173972/media/2020/01/TOTCompany_zaulld.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1578173972/media/2020/01/TOTCompany_zaulld.jpg)
 
 <figcaption>The company of The Gypsy Baron, Toronto Operetta Theatre, 2020. Photo: Gary Beechey.</figcaption>
 
@@ -39,7 +41,9 @@ This year it's Johann Strauss II's _The Gypsy Baron_ (_Ziegeunerbaron_). Directe
 
 Playing the eponymous role, tenor [Michael Barrett](/scene/people/michael-barrett/) strides the stage as Sándor Barinkay, who returns home to his late father's land to find it usurped by a wealthy pig farmer. Despite an announcement at the beginning of the show, Barrett sounded in no way "under the weather" and sang the rangey role very well. Playing the destined love of Sandor's life, [Meghan Lindsay](/scene/people/meghan-lindsay/) makes her TOT debut in the role of Saffi. Her rich, mature soprano filled the hall with ease and vigour.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1578173988/media/2020/01/BesteKalenderasCzipraandMeghanLindsayasSaffi_fxmvqo.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1578173988/media/2020/01/BesteKalenderasCzipraandMeghanLindsayasSaffi_fxmvqo.jpg)
 
 <figcaption>Beste Kalender as Czipra and Meghan Lindsay as Saffi in The Gypsy Baron, Toronto Operetta Theatre, 2020. Photo: Gary Beechey.</figcaption>
 
@@ -49,7 +53,9 @@ Playing the eponymous role, tenor [Michael Barrett](/scene/people/michael-barret
 
 Daniela Agostino as Arsena, the would-be betrothed to Barinkay, was equal parts ingenue and bridezilla. She's comfortable on stage and it's great to see her growing over the last couple of years. Her chemistry with her secret lover (another common operetta trope) Ottokar, played charmingly by tenor Edward Larocque was a highlight of the night and helped retain the effervescence of the show.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1578174037/media/2020/01/MeghanLindsayasSaffi_vbfyll.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1578174037/media/2020/01/MeghanLindsayasSaffi_vbfyll.jpg)
 
 <figcaption>Meghan Lindsay as Saffi in The Gypsy Baron, Toronto Operetta Theatre, 2020. Photo: Gary Beechey.</figcaption>
 
@@ -63,7 +69,9 @@ As the Count, tenor Cian Horrobin is a breath of fresh air who shows up at just 
 
 The 12-piece orchestra and chorus led by Derek Bate were distinctly Viennese and crisp and clear, and brought the house down with the large ensemble numbers.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1578174051/media/2020/01/MichaelBarrettasSandorBarinkay_soeotu.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1578174051/media/2020/01/MichaelBarrettasSandorBarinkay_soeotu.jpg)
 
 <figcaption>Michael Barrett as Barinkay in The Gypsy Baron, Toronto Operetta Theatre, 2020. Photo: Gary Beechey.</figcaption>
 

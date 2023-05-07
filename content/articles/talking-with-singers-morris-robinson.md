@@ -27,7 +27,9 @@ It takes a lot of discipline and drive. I'm not foreign to the idea of being dou
 
 Singing Philip Glass and in Sanskrit is like taking something that's really hard already - the musical score - and complicating it exponentially with a language that is incredibly hard to sing in. People sometimes don't think singers are intelligent, that we just sing, but it takes a degree of aptitude and discipline to pull this off. I'm doing it but it's very hard. It's the hardest thing I've ever done.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537916059532/MR1-LawrenceBrownlee.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537916059532/MR1-LawrenceBrownlee.jpg.jpg)
 <figcaption>Morris Robinson, bass. Photo by Lawrence Brownlee.</figcaption>
 </figure>
 
@@ -53,7 +55,9 @@ I [continue to] watch football non-stop. I hate it that opera happens during foo
 
 I'm singing with one right now. It's Ferruccio Furlanetto. [I just posted about him on Facebook](https://www.facebook.com/morris.robinson.927/posts/10156000908977989). He is one of my idols and I have looked up to him for years. In fact, when I was learning *Don Carlo*, I listened to a recording with Ferruccio Furlanetto and James Levine. Sam Ramey was the Inquisitor. Sam Ramey is another one of my idols. I've been blessed to perform with both of them now.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537909606360/MorrisRobinsondc_37a0913_pr-CoryWeaverLAOpera.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537909606360/MorrisRobinsondc_37a0913_pr-CoryWeaverLAOpera.jpg.jpg)
 <figcaption>Morris Robinson as the Grand Inquisitor and Ferruccio Furlanetto as King Philip II in LA Opera's 2018 production of *Don Carlo*. Photo: Cory Weaver/LA Opera.</figcaption>
 </figure>
 

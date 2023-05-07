@@ -9,6 +9,7 @@ social_media = []
 title = "Neal Ferreira"
 website = "http://www.nealferreira.com/"
 
+_template = "people_single"
 +++
 Praised for his "rich, powerful voice" and "bravura-filled stage presence," Neal Ferreira is a promising lyric tenor with a handsome, masculine tone quality to which he brings a cultivated vocalism and eloquent expression. Dubbed a “Boston mainstay” by the Boston Globe, he most recently appeared with Boston Lyric Opera as a member of the Jazz Trio in Bernstein’s **_Trouble in Tahiti_**, and with the Boston Youth Symphony Orchestra as Le Remendado in **_Carmen_**.
 

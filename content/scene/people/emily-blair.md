@@ -16,6 +16,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/emilyblairsoprano/"
 
+_template = "people_single"
 +++
 Praised for her “large, steely instrument,” and “coloratura flourishes”, (Palm Beach Arts Paper") soprano Emily Blair joins Palm Beach Opera as a Benenson Young Artist for the 2018-2019 season. During her residency, she will be singing Annina in _La traviata,_ cover Donna Anna in _Don Giovanni_, cover Rosalinda in _Die Fledermaus,_ performing the role for the family performance of _The Revenge of the Bat_.  
   

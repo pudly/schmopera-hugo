@@ -26,6 +26,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/ecabsop"
 
+_template = "people_single"
 +++
 Soprano Elizabeth Caballero is a frequent guest of numerous American and international opera houses, festivals and concert venues.
 

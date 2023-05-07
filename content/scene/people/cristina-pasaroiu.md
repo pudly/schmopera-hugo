@@ -17,6 +17,7 @@ url = "https://www.facebook.com/antoaneta.pasaroiu"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Cris_Pasaroiu"
+_template = "people_single"
 +++
 
 Lauded by the *Frankfurter Allgemeine Zeitung* for her “highly intense stage and musical presence”, “the versatility of her soprano, poignant low notes, high notes and passage work, enormous stamina and nuanced expression”, Cristina Pasaroiu has been celebrated at many of the world’s most prestigious opera houses, concert halls and festivals.

@@ -20,6 +20,7 @@ url = "https://www.instagram.com/benjaminbaritone/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCCR73jn-2ODd9bCEnmAZsDQ"
+_template = "people_single"
 +++
 
 Baritone Benjamin Dickerson is the winner of the 2015 Marilyn Horne Song Competition. This season Mr. Dickerson will join the Caramoor Center for Music and the Arts as a "Schwab Vocal Rising Star", New York Festival Of Song in their "Emerging Artist Series", and will return to Opera Theatre of Saint Louis as a Gerdine Young Artist. His recent national recital tour culminated in a performance event in The Greene Space in New York, broadcast live on WQXR, where he was joined by Isabel Leonard and Marilyn Horne. Equally at home on operatic stages, Mr. Dickerson recently appeared with Opera Theatre of St. Louis as a Gerdine Young Artist, covering the roles of Schaunard in *La Boheme* and Pyralyl in the world premier of Jack Perla’s *Shalimar the Clown*. He has recently covered the role of Dandini (*La cenerentola*) at both the Music Academy of the West and Green Mountain Opera Festival.

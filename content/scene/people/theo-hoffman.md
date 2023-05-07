@@ -16,6 +16,7 @@ url = "https://www.facebook.com/Theohoffmanbaritone/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/talesofhoffmann"
+_template = "people_single"
 +++
 
 Theo Hoffman is among the most versatile and refined young singers of his generation. Mr. Hoffman will perform Josef K. in the American Premier of *The Trial* by Philip Glass at Opera Theatre of Saint Louis in 2017. Mr. Hoffman will be presented in recital at the Kennedy Center in the 2017-18 season by Vocal Arts DC as the Gerald Perlman Emerging Artist. In 2016, he began his residency with the Marlboro Music Festival, where he gave the first Marlboro performance of Othmar Schoeck's *Notturno*. Mr. Hoffman will return to Marlboro Music in 2017. 

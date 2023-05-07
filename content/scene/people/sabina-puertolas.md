@@ -13,6 +13,7 @@ website = "http://sabinapuertolas.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/sabinapuertolas"
+_template = "people_single"
 +++
 
 Spanish soprano Sabina Puértolas studied at the Pamplona Conservatoire, the Accademia Chigiana in Siena and the Accademia Verdiana in Busseto. She is the winner of the international singing competitions Riccardo Zandonai in Rovereto, Julián Gayarre in Pamplona, Francisca Quart in Palma de Mallorca and Manuel Ausensi in Barcelona.

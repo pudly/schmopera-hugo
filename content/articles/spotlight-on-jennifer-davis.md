@@ -22,7 +22,9 @@ I joined a church choir, sang in choirs run by my Mam, was on stage in musicals 
 
 After my degree I started singing again and fell back in love with it, applied for a Masters in Voice at DIT's Conservatory of Music, and shockingly they accepted me. I honestly thought I'd get some advice and nothing more, but that was the start of it all and I've worked hard and have had some wonderful support and lucky breaks since then. I look back now and think I was always meant to sing, but it took me a while to see it for myself and take the plunge, and I now can't imagine doing anything else. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498105027062/2017-06-22---Davis-Alagna-Elisir.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498105027062/2017-06-22---Davis-Alagna-Elisir.jpg.jpg)
 <figcaption>Jennifer Davis as Adina and Robert Alagna as Nemorino in *L'elisir d'amore*, Royal Opera House, 2017. Photo: Neil Gillespie.</figcaption>
 </figure>
 
@@ -40,7 +42,9 @@ Patience and diligence are the two words that come to mind. Voices need time to 
 
 I think less worry, more play would be my answer here. Also to experience your life and not lock yourself in the practise room too much...we're singing actors, and we should be cultivating our dramatic abilities alongside our vocal ones. Read, watch, sing, challenge, discuss life and all its quirks, because that's what our job is, portraying human beings at their highest and lowest points. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498104918071/2017-06-22---Jennifer-Davis.jpg.jpg)<figcaption>Jennifer Davis, soprano.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498104918071/2017-06-22---Jennifer-Davis.jpg.jpg)<figcaption>Jennifer Davis, soprano.</figcaption>
 </figure>
 
 ## Do you have any "bucket list" roles you'd like to sing (realistically or otherwise)?

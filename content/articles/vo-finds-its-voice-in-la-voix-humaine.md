@@ -41,7 +41,9 @@ The performance was staged at the Chan Centre, though was unrecognizable with th
 
 Rather than the standard orchestral score, VO opted to accompany this production with piano, which suited the space and the intimacy of the production very well. Kinza Tyrrell on piano brought exquisite sensitivity to the difficult score, always matching the tone of each scene perfectly and seamlessly.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1604083257/media/2020/10/VO_La_Voix_Humaine_-_Rachel_Peake_Mireille_Lebel_Kinza_Tyrrell_1_lteaum.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1604083257/media/2020/10/VO_La_Voix_Humaine_-_Rachel_Peake_Mireille_Lebel_Kinza_Tyrrell_1_lteaum.jpg)
 
 <figcaption>(l-r) Rachel Peake, Mireille Lebel, and Kinza Tyrrell, of Vancouver Opera's 2020 production of La voix humaine.</figcaption>
 

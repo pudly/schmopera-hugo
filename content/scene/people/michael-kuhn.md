@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/mrk814/"
 
+_template = "people_single"
 +++
 Described as “an artist of almost terrifying magnetism” (_New York Observer_), “polished, soignee and hot to trot” (The Houston Press), and praised for his "clear and robust" tenor (_Opera News_), Michael Kuhn is a versatile singing-actor equally at home in the fields of opera, musical theatre and concert repertoire.
 

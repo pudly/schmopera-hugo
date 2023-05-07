@@ -29,7 +29,9 @@ The strength of _Bohème_ is understandably rooted in its core ensemble of Bohem
 
 Note: Andrew Haji is slated to return as Rodolfo for the remaining two performances, February 8 and 11, in what will mark his company debut with Edmonton Opera. I'm eager to see Haji perform with this production because he spent much time preparing and staging the role before being sidelined. Despite the pandemic, Haji has been one of Canada's most sought-after tenors - his February 2020 performance as Pollione in the Calgary Opera production of Bellini's _Norma_ was praised for his lyric beauty and carrying power – attributes that will surely serve him well in the role of Rodolfo.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644282691/media/2022/02/EO_Boheme_Company_cppyhc.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1644282691/media/2022/02/EO_Boheme_Company_cppyhc.jpg)
 
 <figcaption>The company of La bohème, Edmonton Opera, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
@@ -42,7 +44,9 @@ This is the second time I have seen soprano Miriam Khalil as Mimì and I hope it
 
 Soprano [Lara Ciekiewicz](/scene/people/lara-ciekiewicz/) impresses as the vivacious, and dare I say coquettish (my new favourite word), Musetta. Like Rodolfo's aria in Act I, Musetta's Act II aria "Quando me'n vo'" is often a litmus test for the success of any Bohème production: while inexperienced singers may focus on the vocal acrobatics, the higher echelon of artists - Ciekiewicz included - will infuse colours and personality into the lyrics. On this night, Ciekiewicz delighted the audience with a nuanced performance that showed off her ability to impress and garner attention as any scene-stealing diva should. I was especially impressed with the variety in which Ciekiewicz approached her highest notes in the aria – her pianissimo on one of her top B's was especially jaw-dropping in its precision and beauty.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644283129/media/2022/02/EO_Boheme_LaraCiekiewicz_NancPrice_nmuxye.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1644283129/media/2022/02/EO_Boheme_LaraCiekiewicz_NancPrice_nmuxye.jpg)
 
 <figcaption>Lara Ciekiewicz as Musetta in La bohème, Edmonton Opera, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
@@ -51,7 +55,9 @@ The standout performance on this night belonged to baritone [Peter Barrett](/sce
 
 > Conductor Simon Rivard led the Edmonton Symphony Orchestra to breathe life into Puccini's beloved score.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644282702/media/2022/02/EO_Boheme_PeterMonaghanLukaKawabataAdamLutherMiriamKhalilPeterBarrettThomasGoerLaraCiekiewicz_qhxlhh.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1644282702/media/2022/02/EO_Boheme_PeterMonaghanLukaKawabataAdamLutherMiriamKhalilPeterBarrettThomasGoerLaraCiekiewicz_qhxlhh.jpg)
 
 <figcaption>Peter Monaghan (Colline), Luka Kawabata (Schaunard), Adam Luther (Rodolfo), Miriam Khalil (Mimi), Barrett, Tom Goerz (Alcindoro) and Lara Ciekiewicz (Musetta) in La bohème, Edmonton Opera, 2022. Photo: Nanc Price.</figcaption>  
 </figure>

@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/lindsaymariamc/"
 
+_template = "people_single"
 +++
 Alberta-born soprano Lindsay McIntyre has been hailed as “a standout” (Ontario Arts Review) for her work in concert and on the stage. Recent concert performances include Buxtehude’s “Membra Jesu Nostri” and the Canadian premier of Craig Hella Johnson’s “Considering Matthew Sheppard” with the Grand Philharmonic Chamber Choir, Handel’s “Dixit Dominus” and BWV 4 & BWV 165 with the Theatre of Early Music, and Steve Reich’s contemporary masterwork “Music for 18 Musicians” with U of T graduate students and faculty for their New Music Festival. 
 

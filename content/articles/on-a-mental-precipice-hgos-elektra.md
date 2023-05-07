@@ -20,7 +20,9 @@ From the start of this incredibly well-integrated production, and this writer do
 
 Truly, Goerke demonstrated a fluency in the art of moving from one sentence to the next throughout this production in her tone production, which gleefully matched her character's disoriented personality, while never lapsing into overt crudity. In this way, she could be said to inhabit the stage effortlessly without calling any more attention to herself than the score mandates, which is ultimately what made Elektra believable. Her not infrequent serpentine hissings contributed to the perception of her character always being on a mental precipice, especially when she was on the stage's numerous physical precipices, such perceptions only being aided by the silent-film-like lighting.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516556937721/hgo---elektra---piano-rehearsal---photographer-lynn-lane-13-3000x2000.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516556937721/hgo---elektra---piano-rehearsal---photographer-lynn-lane-13-3000x2000.jpg.jpg)
 <figcaption>Chad Shelton (Aegisth), Greer Grimsley (Orest), and Christine Goerke (Elektra) in *Elektra*, Houston Grand Opera, 2018. Photo: Lynn Lane.</figcaption>
 </figure>
 
@@ -28,7 +30,9 @@ And what a stage she did inhabit indeed! One literally thought of the odysseys o
 
 But in all seriousness, one was not only confronted with the sense of having discovered something unimaginably marvelous, but also the sense of it having been irreparably corrupted by some insidious force, rather like the manner in which the notoriously crude archeological methods of the aforementioned German visionary likely destroyed the site of the ancient city of Troy. Such paradoxes often inhabit great theatrical constructs, much to our delight.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516556948493/hgo---elektra---piano-rehearsal---photographer-lynn-lane-19-3000x2000.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516556948493/hgo---elektra---piano-rehearsal---photographer-lynn-lane-19-3000x2000.jpg.jpg)
 <figcaption>Christine Goerke (Elektra) and Tamara Wilson (Chrysothemis) in *Elektra*, Houston Grand Opera, 2018. Photo: Lynn Lane.</figcaption>
 </figure>
 
@@ -36,7 +40,9 @@ In the heading of paradox also falls the quandary of how Chrysothemis ([Tamara W
 
 Still, Wilson imbued her character with a belief in her own desires to actually have a life, via a luscious connectivity of tone which belied her static figure. Perhaps nothing highlighted these differences so much as these sisters' very last duet, where we get a sense that despite the overwhelming difference in their characters and hence their expressive timbres, Strauss can combine any voices he wants, and he does not even have to be deep about it; he just lets the music do the work in what comes to my ears as a wonderful study for his next closing ensemble for female voices: the *Rosenkavalier* trio.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516556957041/hgo---elektra---piano-rehearsal---photographer-lynn-lane-33-3000x2000.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516556957041/hgo---elektra---piano-rehearsal---photographer-lynn-lane-33-3000x2000.jpg.jpg)
 <figcaption>Christine Goerke (Elektra) in *Elektra*, Houston Grand Opera, 2018. Photo: Lynn Lane.</figcaption>
 </figure>
 
@@ -48,7 +54,9 @@ Even with the queen's self-opinionated personality, Martens does admirably in po
 
 The foppish Aegisth (Chad Shelton), his ultimate victim after one too many libations, accompanied by sardonically refined Classical marches, stands no chance whatsoever. Even the yellow color of his dress radiates fatigue and a sense of passive malaise which Shelton portrayed deliberately and with intent. Perhaps we are to interpret the Younger Servant (the splendidly vigorous Richard Trey Smagur) as Aegisth's foil, as how he delusionally sees himself?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516557199850/hgo---elektra---piano-rehearsal---photographer-lynn-lane-40-3000x2000.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516557199850/hgo---elektra---piano-rehearsal---photographer-lynn-lane-40-3000x2000.jpg.jpg)
 <figcaption>Christine Goerke (Elektra) in *Elektra*, Houston Grand Opera, 2018. Photo: Lynn Lane.</figcaption>
 </figure>
 
@@ -58,7 +66,9 @@ The orchestra, an integral component of any fin-de-siècle opera, was superb, as
 
 While the players' virtuosity made Strauss's music sound like it was written yesterday, with an appealing freshness and authenticity notable for its scarcity in most works written today, and with many attractively tonal moments (read: "waltzes" and "aria-like cadences") that many commentaries about this drama go out of their way to obscure, the timbre as interpreted by conductor Patrick Summers sounded rather stylized and equalized, if not monochromatic, but in a way that made Strauss sound like a proto-Technicolor film score, with all the dazzling effects thereof without being deliberately more shocking than the singers. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516556965234/hgo---elektra---piano-rehearsal---photographer-lynn-lane-41-3000x2000.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516556965234/hgo---elektra---piano-rehearsal---photographer-lynn-lane-41-3000x2000.jpg.jpg)
 <figcaption>Tamara Wilson (Chrysothemis) and Christine Goerke (Elektra) in *Elektra*, Houston Grand Opera, 2018. Photo: Lynn Lane.</figcaption>
 </figure>
 

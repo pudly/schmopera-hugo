@@ -15,6 +15,7 @@ url = "https://www.facebook.com/emilyloowho"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/emilyperagine"
+_template = "people_single"
 +++
 
 Emily Peragine is a 20-something soprano from Missoula, Montana. She has recently graduated from the Oberlin Conservatory of Music, and is now moving to the Big Apple to pursue her dreams. She's obsessed with cats, breweries, and loves to go out dancing, especially when it's "90's night."  

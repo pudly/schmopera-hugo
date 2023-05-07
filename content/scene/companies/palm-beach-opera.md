@@ -24,6 +24,7 @@ url = "https://www.instagram.com/palmbeachopera/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/palmbeachopera"
+_template = "company_single"
 +++
 
 Currently in its 55th Season, Palm Beach Opera offers a variety of cultural programs from December through April including Opera @ The Waterfront – a free outdoor opera concert with Palm Beach Opera’s Orchestra and Chorus at the Meyer Amphitheatre, fully staged mainstage opera productions, a 5 month Young Artist Program for emerging professional opera singers, education and community engagement programs, such as Children’s Performance, Concerts in the Classroom, Story Time Series, Opera Rehearsal 101, PBO Studio, and Lunch & Learn.

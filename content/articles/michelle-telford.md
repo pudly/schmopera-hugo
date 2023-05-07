@@ -22,7 +22,9 @@ A surtitlist is their own beast; we are not production, tech, crew, pit or cast,
 
 A day in my life as a surtitlist begins normally: I wake up and complain heartily about waking up, like most sane people. Then I go to work, and come home to write surtitles and work on cueing my score. It's painstaking and a bit tedious, especially when rehearsals begin and the director's notes are full of redirections and cuts, but it has to be done and it has to be done very accurately. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715187766/MichelleCollage-1024x531.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715187766/MichelleCollage-1024x531.jpg.jpg)
 <figcaption>This is what detail-obsessive face looks like in gel lighting.</figcaption>
 </figure>
 
@@ -36,7 +38,9 @@ Custom surtitle work has to subtly reflect what's happening onstage. Marilyn Gro
 
 I write all of my titles fresh for every production - I don't believe in getting anything out of the can, because it feels like cheating, and my company deserves better. Every company deserves better! I've seen some good titles and terrible titles, but I'm going to go out on a limb and say that anything they can do, I can do better. I want every slide to look as good as the carefully-crafted sets and costumes. I want them to match the actors' portrayals and support their individual characters. I want to keep opera moving forward and help it stay relevant - it's an art that won't quit 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715149564/2-Emoji-Carmen.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715149564/2-Emoji-Carmen.jpg.jpg)
 <figcaption>I'm terrified that emoji will eventually put me out of a job.</figcaption>
 </figure>
 

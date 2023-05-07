@@ -25,5 +25,7 @@ Camarena could have stood as still as a statue, and his voice would still have p
 
 This recital was the best use of the "crowd pleasing" tactic. Camarena chose repertoire with which he just couldn't have gone wrong, but he followed up expectation with perfect delivery. It's no wonder that he holds rank along with Pavarotti and Flórez, as the third singer in 70 years to [encore an aria](https://youtu.be/Fau3XIaHoDc) at the Metropolitan Opera. This was a superb night, and we hope he comes back for another Rosenblatt Recital soon.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460714500116/2016-04-15---JennaJavier.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460714500116/2016-04-15---JennaJavier.jpg.jpg)
 <figcaption>Schmopera's Jenna Douglas and Javier Camarena: all smiles after a night of stunning singing.</figcaption>

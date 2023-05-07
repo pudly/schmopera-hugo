@@ -16,6 +16,7 @@ url = "https://www.facebook.com/gramercyopera"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/gramercyopera/"
+_template = "company_single"
 +++
 
 #### Our Mission

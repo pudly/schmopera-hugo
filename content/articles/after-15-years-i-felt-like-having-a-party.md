@@ -20,7 +20,7 @@ The event on **May 12** will be Toronto Masque Theatre's final performance. Afte
 
 *The Last Chaconne* will feature a this-is-your-life-style group of performers, almost all of whom have a strong history with TMT. "[Monica Whicher](/scene/people/monica-whicher/) sang in our first show in 2004," Beckwith recalls, "and I've always adored her singing." The company also welcomes regular collaborators like tenors [Colin Ainsworth](/scene/people/colin-ainsworth/) and [Lawrence Wiliford](/scene/people/lawrence-wiliford/), and sopranos [Vania Chan](/scene/people/vania-chan/) and [Shannon Mercer](/scene/people/shannon-mercer/).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525713572687/LarryBeckwithFairestIsle2013.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525713572687/LarryBeckwithFairestIsle2013.jpg.jpg)
 <figcaption>Larry Beckwith conducting Toronto Masque Theatre. Photo courtesy of Toronto Masque Theatre.</figcaption>
 </figure>
 

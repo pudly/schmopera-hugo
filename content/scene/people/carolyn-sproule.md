@@ -9,6 +9,7 @@ slug = "carolyn-sproule"
 title = "Carolyn Sproule"
 website = "https://www.carolynsproule.com/"
 
+_template = "people_single"
 +++
 Acclaimed for her "sizeable rich tone and striking presence" (Opera Canada), "whose star is deservedly on the rise" (Opera News), Canadian mezzo-soprano Carolyn Sproule is engaged in the 2021-2022 to open **Houston Grand Opera**'s season as Carmen in Rob Ashford's dynamic production, conducted by Lidiya Yankovskaya. Ms. Sproule subsequently debuts at **Teatro dell'Opera di Roma** as Varvara in _Kát’a Kabanová_ in a Richard Jones production, conducted by David Robertson; returns to **The Metropolitan Opera** for their production of _Madama Butterfly_; and debuts at **Festival d'Aix-en-Provence** in a new production of _Salome_.  
   

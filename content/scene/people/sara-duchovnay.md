@@ -15,6 +15,7 @@ url = "https://twitter.com/SaraDuchovnay"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/saraduchovnay/"
+_template = "people_single"
 +++
 
 Praised by *Opera News* for "the agility with which she negotiated her beautiful upper register", soprano Sara Duchovnay continues to garner critical acclaim for her performances across the country.

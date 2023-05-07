@@ -8,6 +8,7 @@ related_companies = ["scene/companies/loftopera.md","scene/companies/the-metropo
 slug = "elizabeth-pojanowski"
 title = "Elizabeth Pojanowski"
 website = "http://www.elizabethpojanowski.com/"
+_template = "people_single"
 +++
 
 American mezzo-soprano Elizabeth Pojanowski is gaining renown in theaters and concert halls not only for her voice but for her electric stage presence and keen interpretation of new works. Opera News writes that in Chautauqua Opera’s production of *The Cunning Little Vixen*, “her Fox provided a charming love interest and a warm, clear timbre.”  In 2015, she sang Dorabella in Annapolis Opera’s production of *Cosìfan tutte* and also originated the role of Sadie in the critically acclaimed world premiere of Ricky Ian Gordon’s beautiful opera *Morning Star* with Cincinnati Opera.  She began 2016 performing Cherubino *Le nozze di Figaro* with Seattle Opera, and this summer will perform Isolier *Le comte Ory* with Loft Opera.

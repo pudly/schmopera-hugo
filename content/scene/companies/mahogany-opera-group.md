@@ -24,6 +24,7 @@ url = "https://www.instagram.com/mahoganyoperagroup/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCgZ-0FEoFFeyr0y7MPDOOSw"
+_template = "company_single"
 +++
 
 Mahogany Opera Group creates new opera in new ways, in different spaces and places throughout the UK and internationally. Each of our distinct projects aims to stretch the boundaries of what opera can be and who it is for.

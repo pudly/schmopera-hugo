@@ -8,6 +8,7 @@ social_media = []
 title = "Gustavo Feulian"
 website = "https://www.gustavofeulien.com/"
 
+_template = "people_single"
 +++
 Hailed by the _New York Times_ as "rich voiced" and by _Opera News_ for his "interesting and convincing portrayal of Scarpia, most impressive in Te Deum" in _Tosca_, Argentinean-American baritone, Gustavo Feulien, continues his career with great success.
 

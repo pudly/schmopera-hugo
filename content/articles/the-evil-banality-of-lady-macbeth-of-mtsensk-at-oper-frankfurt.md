@@ -25,7 +25,9 @@ Of course, this was a ruse. What could be more out of proportion than a governme
 
 Yet, the critic was right that Shostakovich's score is shocking. Even today, the satirically grotesque dances, the brutal brass outbursts, and the wailing dissonances are jarring in their iconoclasm. To hear this score in the 1930s would be brain bending. No wonder the Russian public went crazy for it.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573603450/media/2019/11/4137_ladymacbethvonmzensk03_gross_qakkyu.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573603450/media/2019/11/4137_ladymacbethvonmzensk03_gross_qakkyu.jpg)
 
 <figcaption>Anja Kampe (Katerina Ismailowa) and Dmitry Belosselskiy (Boris Ismailow) in Lady Macbeth of Mtsensk, Oper Frankfurt, 2019. Photo: Barbara Aumüller.</figcaption>  
 </figure>
@@ -34,7 +36,9 @@ The opera's plot, adapted from Nikolai Leskov's short story of the same name, is
 
 One day, with her husband away on business, Katerina ventures down to the worker's quarters. She comes upon a group of male workers who have thrown Katerina's cook, Aksinya (Julia Dawson), into a barrel and are gleefully groping her for sport. The cook's shrieks ricochet off pounding horn blasts. The gang of men laughs menacingly in rhythm, thrusting choreographically like a grotesque male burlesque rape fantasy.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573603462/media/2019/11/4124_ladymacbethvonmzensk05_gross_pqzsfg.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573603462/media/2019/11/4124_ladymacbethvonmzensk05_gross_pqzsfg.jpg)
 
 <figcaption>Alfred Reiter (Pope, top center), including Anja Kampe (Katerina Ismailova) and Dmitry Golovnin (Sergei) and ensemble in Lady Macbeth of Mtsensk, Oper Frankfurt, 2019. Photo: Barbara Aumüller.</figcaption>  
 </figure>
@@ -45,7 +49,9 @@ But what of Katerina's loneliness? Her sole escape is a VR headset with which sh
 
 Banal cruelty dominates the domestic scenes. Sergey, Boris, and Zinovy all repeatedly abuse Katerina to different degrees but she seems more oblivious than hollowed out or disturbed. Kampe, who sings well, plays Katerina with a vague naturalism that evokes a dull inner life.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573603560/media/2019/11/4129_ladymacbethvonmzensk13_gross_l2yizt.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573603560/media/2019/11/4129_ladymacbethvonmzensk13_gross_l2yizt.jpg)
 
 <figcaption>Dmitry Belosselskiy (Boris Ismailow) and Anja Kampe (Katerina Ismailowa) in Lady Macbeth of Mtsensk, Oper Frankfurt, 2019. Photo: Barbara Aumüller.</figcaption>  
 </figure>
@@ -56,7 +62,9 @@ The contrabassoon grounds the men's actions in buffoonery. An extremely low, pum
 
 What's disturbing, and Shostakovich reflects this in his music, is not just the characters' cruelty towards Katerina (and Aksinya) but the pleasure they take in the cruelty itself. The gleeful dancing as the men assault Aksinya, the surrealist jig that a high priest (Alfred Reiter) dances at Boris' funeral, the terrifying, ecstatic wedding march, and the chorus of biker gangsters, led by clarion-voiced baritone Iain MacNeil, who complain about not having enough crime to pursue like the sailors in _South Pacific_ beg for a dame, all point to a patriarchy drunk with violence.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573603587/media/2019/11/4132_ladymacbethvonmzensk09_gross_hhlldd.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573603587/media/2019/11/4132_ladymacbethvonmzensk09_gross_hhlldd.jpg)
 
 <figcaption>Anja Kampe (Katerina Ismailova, left sitting) and Zanda Švēde (Sonjetka) and ensemble in Lady Macbeth of Mtsensk, Oper Frankfurt, 2019. Photo: Barbara Aumüller.</figcaption>  
 </figure>
@@ -69,7 +77,9 @@ The supporting cast, filled out largely by the Oper Frankfurt ensemble, sang adm
 
 The orchestra, led by Oper Frankfurt Music Director Sebastian Weigle, found it's stride late in the evening with the wedding march. A few intriguing moments in the score went by deemphasized or not quite coordinated. Some screws can be tightened and should be throughout the nine show run.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573603617/media/2019/11/4139_ladymacbethvonmzensk22_gross_s4kzua.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573603617/media/2019/11/4139_ladymacbethvonmzensk22_gross_s4kzua.jpg)
 
 <figcaption>Dmitry Belosselskiy (Old Forced Laborer) and ensemble in Lady Macbeth of Mtsensk, Oper Frankfurt, 2019. Photo: Barbara Aumüller.</figcaption>  
 </figure>

@@ -12,6 +12,7 @@ website = "http://www.davidcangelosi.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/davidcangelosi"
+_template = "people_single"
 +++
 
 <p>

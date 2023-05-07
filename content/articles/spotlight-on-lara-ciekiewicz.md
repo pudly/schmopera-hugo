@@ -46,7 +46,9 @@ I don’t know about "do more or do less of" - if you’re on the journey, you a
 
 - A great conductor once told me the only defence I have as a singer is knowing what is in the score.  A score is to be interpreted, of course, but knowing and exploring all of the information contained on the page will always stand you in good stead.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457176629151/Ciekiewicz_Lara.Casual-HeadshotReszied.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457176629151/Ciekiewicz_Lara.Casual-HeadshotReszied.jpg.jpg)
 <figcaption>Photo by Pierre-Étienne Bergeron.</figcaption></figure>
 
 ## Do you have any "bucket list" roles you’d like to sing (realistically or otherwise)?

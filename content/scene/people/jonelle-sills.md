@@ -19,6 +19,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/jonellesills/"
 
+_template = "people_single"
 +++
 Soprano Jonelle Sills was named one of York University’s 2022 Top 30 Alumni Under 30 and, in 2020, was one of CBC Music’s 30 hot classical musicians under 30. Jonelle is excited to return Toronto’s Royal Conservatory of Music this season as a member of The Rebanks Family Fellowship and International Residency Program.
 

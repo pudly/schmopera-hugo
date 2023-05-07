@@ -13,6 +13,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/KSzabs72"
 
+_template = "people_single"
 +++
 Hungarian-Canadian mezzo-soprano Krisztina Szabó is highly sought after in both North America and Europe as an artist of supreme musicianship and stagecraft, and has become known for her promotion and performance of contemporary Canadian works. Among her many laudatory reviews, _Opera Canada_  declared her to be an “exceptional talent” after her performance of the title role of Dido in Purcell’s _Dido and Aeneas_, and after a performance with Tapestry Opera, the music blog, _Schmopera_ wrote that “her instrument is one-of-a-kind and she has cemented herself as a darling of Canadian experimental music and opera…her sensibility and sensitivity to the material is truly inspiring”.  In her hometown of Toronto, Canada, she has been nominated twice for a Dora Award for Outstanding Female Performance.
 

@@ -20,6 +20,7 @@ url = "https://twitter.com/grangeparkopera"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/grangeparkopera"
+_template = "company_single"
 +++
 
 Founded in 1998 with the ambition to stage world-class productions that inspire, challenge and entertain, Grange Park Opera has quickly become a beloved part of the European operatic landscape.

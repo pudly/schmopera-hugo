@@ -19,13 +19,17 @@ Eberwein and Kwon gave us the eight songs of Schumann's cycle *Frauenliebe und -
 
 She sang with a clear youth in her sound, her wide eyes and big smile totally inviting; beside her, Kwon played with a mature transparency that keeps Schumann's piano parts layered and interesting. Eberwein's love for these texts was hard to miss; though there were moments where she seemed not to trust the music to tell the full story, her *Frauenliebe und -leben* was something quite honest, with her style written all over it.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493213133023/b406b7_769a2419610045f28d271887d82d3922.webp)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493213133023/b406b7_769a2419610045f28d271887d82d3922.webp)
 <figcaption>Lauren Eberwein, mezzo-soprano. Photo by Andrew Bogard Photography.</figcaption>
 </figure>
 
 In a refreshing change of sound, Lorèn and Mayer gave us Debussy's *Ariettes oubliées*. Lorèn sang with an impressive, warm legato, and the fresh acoustic of the RBA let us hear signs of lyricism and dramaticism in her future seasons. Mayer played with that crystalline French sound, and with a flexibility to keep him human and text-driven. The young pair had striking poise, and both seemed to take risks that are hard to pull off in such an exposed performance space.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493213245568/5dc67b_63a6e8a6e1d244b99c1e9705955109f4.webp)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493213245568/5dc67b_63a6e8a6e1d244b99c1e9705955109f4.webp)
 <figcaption>Danika Lorèn, soprano. Photo by Emily Ding.</figcaption>
 </figure>
 

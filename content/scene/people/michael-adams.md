@@ -11,6 +11,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/michaeladamsbaritone/"
 
+_template = "people_single"
 +++
 Praised by Opera News for “brandishing a beautiful, evenly produced, nicely ripe sound,” Michael Adams debuts three roles in returns to companies in the 2019-20 season season: the title role of _Eugene Onegin_ with Seattle Opera, Papageno in _Die Zauberflöte_ with Washington National Opera, and Figaro in _Il barbiere di Siviglia_ with Utah Opera. He also debuts with the Metropolitan Opera as Kuligin in _Kát’a Kabanová_ and Arizona Opera as Edwin Cheney in Hagen’s Shining Brow and returns to The Glimmerglass Festival for the title role of _Don Giovanni_. On the concert stage, he joins the Fort Worth Symphony  for Beethoven’s Symphony No. 9. Last season he made role and company debuts as Zurga in _Les pêcheurs de perles_ at the Grand Teatre del Liceu, Enrico in _Lucia di Lammermoor_ with Knoxville Opera, and Gaylord Ravenal in _Showboat_ at The Glimmerglass Festival in the 2018-19 season. He also returned to Washington National Opera as Lieutenant Audebert in Puts’ _Silent Night_.  
 

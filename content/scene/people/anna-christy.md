@@ -9,6 +9,7 @@ related_companies = ["scene/companies/canadian-opera-company.md","scene/companie
 slug = "anna-christy"
 title = "Anna Christy"
 website = "http://www.annachristy.com/Home.html"
+_template = "people_single"
 +++
 
 <p>

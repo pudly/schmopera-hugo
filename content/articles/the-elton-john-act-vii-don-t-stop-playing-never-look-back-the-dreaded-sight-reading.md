@@ -27,7 +27,9 @@ The good news is that sight-reading can be worked upon and improved, though sadl
 
 The basics of sight-reading are no different from the advice I was given before entering the church halls all those years ago: check the key signature, check the tempo (you can always ask for this if it is unclear), and get a rough idea of the whole excerpt before you begin to play, including any changes of time or difficult harmonic passages. A technique I learnt only recently was to actively make my eyes focus on the upcoming bars, so that by scanning ahead, I always have a heads up of any pitfalls or nasty surprises on the horizon. It’s not always easy to do this consistently, but if you can practise it regularly it will become easier. You shouldn't usually have to sing along when sight-reading for an audition.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681080680/media/2023/04/PIanistseries_violinist_whe5rv.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1681080680/media/2023/04/PIanistseries_violinist_whe5rv.jpg)
 
 <figcaption>It's important to never forget that you are representing the sound of an orchestra when sight-reading.</figcaption>  
 </figure>
@@ -38,7 +40,9 @@ To these universal skills the repetiteur's brain must analyse how the orchestra 
 
 The golden rule is of course: don’t stop playing! No matter what happens, keep going. As with most things, any mistakes that you do make will probably seem much worse to you anyway. They often say that goalkeepers love penalty shoot-outs because they are not expected to save the goals, and if they do, they become heroes. If we can try and approach sight-reading more in this vein, then the whole thing becomes much more positive.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681080698/media/2023/04/Pianistseries_goalie_c8lqrp.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1681080698/media/2023/04/Pianistseries_goalie_c8lqrp.jpg)
 
 <figcaption>Try and approach sight-reading more like the goalkeeper in a penalty shoot out – it will help the whole experience to become more positive!</figcaption>  
 </figure>

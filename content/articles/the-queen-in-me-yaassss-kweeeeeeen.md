@@ -27,7 +27,9 @@ But [Teiya Kasahara](/scene/people/teiya-kasahara/) got me shook.
 
 _The Queen in Me_ at the [Canadian Opera Company](/scene/companies/canadian-opera-company/) is the culmination of years of work by Kasahara and their creative team to create this monolith of a one-person show. A true one-person show -- not a recital, not a cabaret or salon, but a dramatically driven show that would need to be seen to be believed.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654615616/media/2022/06/COC_Queen_15_qvawex.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1654615616/media/2022/06/COC_Queen_15_qvawex.jpg)
 
 <figcaption>Teiya Kasahara 笠原貞野 in the Canadian Opera Company’s production of The QueenIn Me, 2022. Conductor Daniel Bartholomew-Poyser, co-directors Andrea Donaldson and Aria Umezawa, set and costume designer Joanna Yu, lighting designer André du Toit, projection designer Laura Warren. Photo: Gaetz Photography.</figcaption>
 
@@ -43,7 +45,9 @@ Teiya always had strength and clarity and cleanliness. What we have now is that 
 
 Now, let's talk about the show. The show has The Queen set on a pedestal in the middle of a compacted stage space - reminiscent of a punch-and-judy puppet theatre or one of those 25-cent fortune teller game things. (Think the movie [_BIG_](https://youtu.be/Q6RK4479XD8)_._) They spend the entire duration of the performance locked in this one position, the queen's dress actually bleeding into and becoming part of the pedestal itself, her hands covered in absurdly long sleeves that simultaneously added to the movement of the arms while hiding the hands completely.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654615630/media/2022/06/COC_Queen_25_h2qcks.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1654615630/media/2022/06/COC_Queen_25_h2qcks.jpg)
 
 <figcaption>Teiya Kasahara 笠原貞野 in the Canadian Opera Company’s production of The QueenIn Me, 2022. Conductor Daniel Bartholomew-Poyser, co-directors Andrea Donaldson and Aria Umezawa, set and costume designer Joanna Yu, lighting designer André du Toit, projection designer Laura Warren. Photo: Gaetz Photography.</figcaption>
 
@@ -61,7 +65,9 @@ The show ends with a return to the iconic aria from _Magic Flute_ and here's whe
 
 You bet your sweet bippy I ugly-cried a few times.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654615643/media/2022/06/COC_Queen_DSC_4175_nh03xg.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1654615643/media/2022/06/COC_Queen_DSC_4175_nh03xg.jpg)
 
 <figcaption>Teiya Kasahara 笠原貞野 in the Canadian Opera Company’s production of The QueenIn Me, 2022. Conductor Daniel Bartholomew-Poyser, co-directors Andrea Donaldson and Aria Umezawa, set and costume designer Joanna Yu, lighting designer André du Toit, projection designer Laura Warren. Photo: Gaetz Photography.</figcaption>
 

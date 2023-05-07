@@ -20,19 +20,19 @@ On May 9, mezzo-soprano [Allyson McHardy](/scene/people/allyson-mchardy/) and pi
 
 Women on the edge, indeed. Schumann's song cycle tells the heart-wrenching story of Mary Stuart, Queen of Scots in fragmented snapshots; in muted, understated settings, Stuart sings of her country, her son, and her life in prison. Zemlinsky's settings of Maeterlinck poems are depressing at face value, but they have that storytelling quality - complete with the rule of three - that makes you lean in and listen. McHardy and Andrist closed the heavy programme with some well-timed humour, in Cole Porter's *What Is This Thing Called Love?* and Gershwin's *The Lorelei* (which feels like a first-person version of Hall & Oates' "Maneater").
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494538566367/2017-05-10---McHardy---Andrist---Reeve.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494538566367/2017-05-10---McHardy---Andrist---Reeve.jpg.jpg)
 <figcaption>Allyson McHardy (right) and Rachel Andrist performing in the Richard Bradshaw Amphitheatre. Photo by Karen E. Reeves.</figcaption>
 </figure>
 
 The next day, three members of the [Canadian Opera Company Ensemble Studio](/scene/companies/canadian-opera-company-ensemble-studio/) gave an all-English concert entitled *Transformations*, with well-chosen sets of songs for each of their varied voices. With pianist [Stéphane Mayer](/scene/people/stephane-mayer/), tenor [Aaron Sheppard](/scene/people/aaron-sheppard/) gave us Finzi's *A Young Man's Exhortation*, Op. 14, songs which often have a way of keeping listeners at arm's length. Sheppard's easy, almost American delivery of the poetry by Thomas Hardy made for an almost matter-of-fact performance; it was a nice foil to the murky texts, to see simplicity in action.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494538623925/2017-05-10---Aaron-Sheppard---May-10---Kevin-Lloyd---resized.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494538623925/2017-05-10---Aaron-Sheppard---May-10---Kevin-Lloyd---resized.jpg.jpg)
 <figcaption>Aaron Sheppard performing in the Richard Bradshaw Amphitheatre. Photo by Kevin Lloyd.</figcaption>
 </figure>
 
 Soprano [Samantha Pickett](/spotlight-on-samantha-pickett/) sang selections of Barber's *Hermit Songs*, with the help of [Hyejin Kwon](/scene/people/hyejin-kwon/)'s lovely touch t the piano. Pickett's earthy, human delivery was appealing and honest, and Kwon brought out the satisfying ring in Barber's piano writing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494538663823/2017-05-10---Megan-Quick-and-Hyejin-Kwon--May-10---Kevin-Lloyd--resized.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494538663823/2017-05-10---Megan-Quick-and-Hyejin-Kwon--May-10---Kevin-Lloyd--resized.jpg.jpg)
 <figcaption>Megan Quick (right) and Hyejin Kwon performing in the Richard Bradshaw Amphitheatre. Photo by Kevin Lloyd.</figcaption>
 </figure>
 

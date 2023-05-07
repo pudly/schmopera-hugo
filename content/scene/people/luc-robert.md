@@ -7,6 +7,7 @@ publishDate = "2018-04-21T21:33:00-04:00"
 related_companies = ["scene/companies/calgary-opera.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/lopra-de-montral.md"]
 slug = "luc-robert"
 title = "Luc Robert"
+_template = "people_single"
 +++
 
 In the shortest period of time the Canadian

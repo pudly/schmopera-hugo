@@ -18,7 +18,9 @@ title = "Talking with singers: Marina Rebeka"
 
 Rebeka is in the middle of a run of Rossini's [*Guillaume Tell*](http://www.metopera.org/Season/2016-17-Season/guillaume-tell-rossini-tickets/) at the Met, where she sings the role of Mathilde. The production by Pierre Audi is the same in which she made her role debut in Amsterdam in 2013. Still, Rebeka took advantage of the month-long rehearsal process in New York. "I knew the production already, but it was important because I got this chemistry with my colleagues." Onstage chemistry, plus the spatial differences between the stages in Amsterdam and New York ("The stage is smaller in the Met," Rebeka adds), add enough novelty to keep her on her toes.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477049328154/2016-10-21---Marina-Rebeka-backstage-as-Mathilde.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477049328154/2016-10-21---Marina-Rebeka-backstage-as-Mathilde.jpg.jpg)
 <figcaption>Marina Rebeka backstage as Mathilde. Photo by Catherine Pisaroni.</figcaption>
 </figure>
 
@@ -36,7 +38,9 @@ Since she rarely sleeps on planes, Rebeka uses the travel time to study for upco
 
 Like many singers, Rebeka knows the value of exercise, yet she's no gym rat. In New York, she takes walks in the rare pockets of green space ("'Fresh air' could be considered Central Park."), and she loves to dance. "Dance, for me, is much better than a gym," she says. "I use my time, when I am in the US, to go to the [Fred Astaire Dance Studio](https://www.fredastaire.com/) at 72nd and Broadway." The break from opera, Rebeka finds, is great for her body and her soul. "You cannot think about singing or whatever, because you are busy thinking about your body," she says. "It's a good way to switch off your head."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477049383563/2016-10-21---2-Marina-Rebeka-Janis-Deinats.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477049383563/2016-10-21---2-Marina-Rebeka-Janis-Deinats.jpg.jpg)
 <figcaption>Photo by Jãnis Deinats.</figcaption>
 </figure>
 

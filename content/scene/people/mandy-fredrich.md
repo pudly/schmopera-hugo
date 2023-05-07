@@ -9,6 +9,7 @@ social_media = []
 title = "Mandy Fredrich"
 website = "https://www.mandyfredrich.de/"
 
+_template = "people_single"
 +++
 2017/18/19
 

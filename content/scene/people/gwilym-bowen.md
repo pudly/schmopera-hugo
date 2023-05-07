@@ -23,6 +23,7 @@ url = "https://www.youtube.com/channel/UC575Mt2B4thkte0sTrrpysA"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/gwilym_bowen"
+_template = "people_single"
 +++
 
 Born in Hereford, Gwilym Bowen was a choral scholar at Trinity College, Cambridge, where he graduated with double-First class honours in Music, subsequently studying at the Royal Academy of Music.

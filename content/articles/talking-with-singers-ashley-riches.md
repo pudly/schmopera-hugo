@@ -25,7 +25,9 @@ This might sound painfully obvious, but focus on your singing. It's easy, especi
 
 The other thing I'd tell myself would be; stick to what you know you sing really well, not just the things that seem impressive or challenging. There's good reason that successful singers take their time to get to the bigger stuff. Sing within your comfort zone, not at the edge of it.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527469027813/3cDebbieScanlon.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527469027813/3cDebbieScanlon.jpg.jpg)
 <figcaption>Ashley Riches, bass-baritone. Photo by Debbie Scanlon.</figcaption>
 </figure>
 

@@ -20,7 +20,9 @@ Yet once a season, the Ensemble Studio becomes the main event. This year, **May 
 
 For soprano Samantha Pickett, who sings Fiordiligi in *Così* and appears as a Witch in *Dido*, this event will mark the end of her two seasons with the COC. She sees it as a happy send-off, a nod to the company that has fostered her artistic development.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527040173264/2017-09-26-FCS-Ensemble-050.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527040173264/2017-09-26-FCS-Ensemble-050.jpg.jpg)
 <figcaption>Samantha Pickett performs in the Richard Bradshaw Amphitheatre, 2017, photo: Chris Hutcheson.</figcaption>
 </figure>
 
@@ -40,7 +42,9 @@ Through observation, Pickett has learned the habits of successful singers. In pr
 
 Equally valuable to artists on the cusp of a professional career is seeing the industry's great artists as simple humans. "It's nice to see singers as people, not as characters," she says, offering a favourite example: "Christine Goerke is just a huge Mensch."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527040192537/KLP170510-_DSC6062.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527040192537/KLP170510-_DSC6062.jpg.jpg)
 <figcaption>Samantha Pickett performs in the Richard Bradshaw Amphitheatre, 2017, photo: Kevin Lloyd.</figcaption>
 </figure>
 

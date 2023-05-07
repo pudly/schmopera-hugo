@@ -55,6 +55,8 @@ I remembered that story when piecing together my thoughts on the current state o
 
 It's worth remembering that Beethoven's conservatism, brought on by deafness, was only temporary. He went on to write the _Missa Solemnis_ and _Fidelio_ and the Ninth Symphony, after all; so maybe we're in for a fresh bout of revolution?
 
-<figure data-type="video">{{% md %}}<iframe width="840" height="630" src="https://www.youtube.com/embed/X9pivx91mVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="840" height="630" src="https://www.youtube.com/embed/X9pivx91mVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>

@@ -8,6 +8,7 @@ publishDate = "2015-04-18T18:49:00-04:00"
 related_companies = ["scene/companies/opernhaus-zurich.md"]
 slug = "quinn-kelsey"
 title = "Quinn Kelsey"
+_template = "people_single"
 +++
 
 Hawaiian Baritone Quinn Kelsey is in demand for the Verdi, Puccini and French repertoires in houses such as the Metropolitan and San Francisco Operas, the Lyric Opera of Chicago, the Opernhaus Zurich and the Oper Frankfurt.

@@ -8,6 +8,7 @@ social_media = []
 title = "Rebecca Cuddy"
 website = ""
 
+_template = "people_single"
 +++
 Métis/Canadian, Mezzo-Soprano Rebecca Cuddy is a fast up and comer on Canadian operatic stages. Acknowledged as ‘fresh and funny, with a large supple voice’ (MacLean, Gigcity.ca 2018) ‘moving’ (Gilks, Opera Canada 2019) and ‘the next generation who are going to do incredible things’ (Newman, The Whole Note 2019). This season saw her twice nominated at the Dora Awards alongside her colleagues for exceptional ensemble work, winning for Soundstreams’ _Two Odysseys; Pimootewin and Gállábártnit_. Her recent career highlights include singing **La Métisse,** in the world premiere of _Riel; Heart of the North_ with Regina Symphony Orchestra, **Kwe** in the world premiere of _Shanawdithit_ with Tapestry Opera/Opera on the Avalon, **Mercedes (Cover Carmen)** in _Carmen_, and **Dreitte Dame** in _Die Zauberflöte._
 

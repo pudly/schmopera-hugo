@@ -21,6 +21,7 @@ url = "https://twitter.com/jdiego_florez"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/jdiego_florez/"
+_template = "people_single"
 +++
 
 Born in Lima, Peru, Juan Diego Flórez undertook music studies both in his native Lima and at Curtis Institute in Philadelphia. In 1996 he made his official operatic debut in Matilde di Shabran at the Rossini Opera Festival in Pesaro, where his expressive voice and astonishing agility immediately won him critical accolades. Since then, Flórez has become the tenor of choice in major international theaters.

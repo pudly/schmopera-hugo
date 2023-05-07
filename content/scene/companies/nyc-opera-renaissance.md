@@ -20,6 +20,7 @@ url = "https://twitter.com/nycorenaissance"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCbfmLhvQRddNT-Lzr_Uy7Fw"
+_template = "company_single"
 +++
 
 For 70 years, the New York City Opera held a unique place in the cultural scene of both New York and the world. Its distinctive repertoire included explorations of musical theater, operetta, and unusual or lesser-known works alongside the classics of the operatic canon. Its compelling and innovative productions emphasized character, action, and drama. Renowned for its long history of giving promising young artists their first big break, the company was the first to make stars of young singers like Plácido Domingo, Beverly Sills, Samuel Ramey, and José Carreras.

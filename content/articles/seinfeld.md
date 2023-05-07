@@ -23,9 +23,11 @@ Season five, episode eight, ["The Barber"](https://en.wikipedia.org/wiki/The_Bar
 
 The plot, broad strokes: Jerry's barber Enzo is the worst, and he just got another bad haircut. Kramer tells him to go to Enzo's nephew Gino instead, but Jerry's afraid of Enzo finding out and getting offended. Jerry meets Gino secretly, but of course Enzo finds out, and all hell breaks loose.
 
-<figure data-type="image">{{% md %}}
+<figure data-type="image">
 
-![](https://res.cloudinary.com/schmopera/image/upload/v1633705446/media/2021/10/Seinfeld_yj89tz.jpg){{% /md %}}
+
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1633705446/media/2021/10/Seinfeld_yj89tz.jpg)
 
 <figcaption>A still from "The Barber", season 5, episode 8 of Seinfeld, 1993.</figcaption>
 

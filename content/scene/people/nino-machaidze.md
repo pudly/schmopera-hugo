@@ -20,6 +20,7 @@ url = "https://twitter.com/Nino_Machaidze"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/nino_machaidze/"
+_template = "people_single"
 +++
 
 Born in Tbilisi, Georgia, Nino Machaidze is one of today’s most brilliant artists, having made important international debuts at such theaters as the Royal Opera House – Covent Garden, Metropolitan Opera, Opera National de Paris, Bavarian State Opera in Munich, Berlin State Opera, Deutsche Oper Berlin, Teatro alla Scala in Milan, Teatro Real in Madrid, Vienna State Opera, Gran Teatre del Liceu in Barcelona, Theatre Royale de la Monnaie in Brussels, Palau de les Arts in Valencia, Arena di Verona and Los Angeles Opera. Engagements for the 2016/17 season include Mimi in *La boheme* at the Grand Théâtre de Genève, Juliette in *Romeo et Juliette* at the Royal Opera House of Muscat, Desdemona in *Otello* at the Teatro di San Carlo in Naples, the title role in Thaïs at the Gran Teatre del Liceu in Barcelona, Contessa di Folleville in *Il viaggio a Reims* at the Royal Danish Opera in Copenhagen, and Gilda in *Rigoletto* for her debut at the San Francisco Opera. She also returns to the festival in Pesaro for *Le siège de Corinthe*. Future engagements include Machaidze’s role debut as Nedda in *Pagliacci* at the Grand-Théâtre de Genève, Leïla in *The Pearl Fishers* at the Los Angeles Opera, and Violetta in *La traviata* at the Teatro di San Carlo in Naples.

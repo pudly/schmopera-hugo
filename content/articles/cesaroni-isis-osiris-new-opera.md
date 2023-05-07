@@ -62,7 +62,9 @@ Hands down: "Work" by Rihanna and Drake. I saw the video, it kinda makes me wish
 
 Susanna in *Le nozze di Figaro* under the baton of James Conlon. It's my Italian debut and we're performing in Spoleto, Italy. I spent a lot of time in Italy growing up (my family has a house there) so I'm going to get to go around and visit some of my favourite places while I'm there. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458652441256/2016-03-22---ISIS-and-Osiris_eFlyer.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458652441256/2016-03-22---ISIS-and-Osiris_eFlyer.jpg.jpg)
 </figure>
 
 ***

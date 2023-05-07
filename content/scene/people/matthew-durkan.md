@@ -16,6 +16,7 @@ url = "https://www.facebook.com/MatthewDurkanBaritone/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/matthewdurkan"
+_template = "people_single"
 +++
 
 Winner of the 2014 Stuart Burrows International Voice Award and a finalist in the 2014 Kathleen Ferrier Competition, Matthew is a recent graduate of the National Opera Studio.

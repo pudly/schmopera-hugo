@@ -25,7 +25,9 @@ _The Medium_ and _The Telephone_, with music and libretto by Gian Carlo Menotti,
 
 Both _The Telephone_ and _The Medium_ end with an unexpected turn and so the two operas result in a night of surprises.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668565523/media/2022/11/TheTelephone_-StevenPisano__00013_xkhzlj.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1668565523/media/2022/11/TheTelephone_-StevenPisano__00013_xkhzlj.jpg)
 
 <figcaption>Brooke Schooley as Lucy and Chris Drago Fistonich as Ben in The Telephone, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
 </figure>
@@ -34,7 +36,9 @@ Menotti enjoyed his greatest success from the late 1940's through the 1950's. In
 
 Splendid coloratura Brooke Schooley plays the gossipy Lucy, who can't stay away from incoming calls, even as her boyfriend attempts to get her attention long enough to become her fiance. Schooley's voice expertly trills and soars as her character fauns, cajoles, argues and laughs, sometimes like a comical singing hyena, with her unseen (and unheard) telephonic friends. Strong baritone Chris Drago Fistonich is the hapless boyfriend Ben who can't compete with Lucy's other lover - the one that's constantly ringing. (The libretto notes that the phone has created a _ménage à trois_.) The ending has an unexpected twist that gives you a well-needed chuckle before the drama unfolds in the second show of the evening.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668565662/media/2022/11/TheTelephone_StevenPisano__9670_lonnny.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1668565662/media/2022/11/TheTelephone_StevenPisano__9670_lonnny.jpg)
 
 <figcaption>Chris Drago Fistonich as Ben and Brooke Schooley as Lucy in The Telephone, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
 </figure>
@@ -43,7 +47,9 @@ Schooley returns after the intermission to assume quite a different role in _The
 
 The plot centers around Madama Flora and her con game conducting phony séances, where she is aided by her daughter Monica and an orphaned mute she has adopted named Toby. Milos Kleiman, as Toby, is excellent at managing the difficult task of a non-singing, non-speaking role. He evokes pathos as he offers love and loyalty but suffers abuse from Flora, who is revealed to be a half-mad alcoholic. Tillotson, who made a tremendous Azucena here in _Il Trovatore_ is a powerful, tortured and frightening Madame Flora, even though she gets no help in the make-up or costuming department.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668565736/media/2022/11/TheMedium_StevenPisano__01549_ycoa5j.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1668565736/media/2022/11/TheMedium_StevenPisano__01549_ycoa5j.jpg)
 
 <figcaption>(l-r) Chris Drago Fistonich (Mr. Gobineau), Monica Camafreita (Mrs. Gobineau), Lara Tillotson (Madam Flora), and Anna Viemeister (Mrs. Nolan) in The Medium, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
 </figure>
@@ -52,7 +58,9 @@ Schooley again shines as she sings the famous hits from the show, "Monica’s Wa
 
 Madame Flora's three gullible customers are all tragic figures. They've all lost children and long for a true connection to the afterlife. Monica Camafreita and Chris Drago Fistonich (from _The Telephone_), play Mrs. & Mr. Gobineau, and are actually happy, in a self-delusional way, believing that they are hearing their deceased two-year-old son laughing from the great beyond. Anna Viemeister plays a frightened Mrs. Nolan, who is attending her first séance, hoping to hear from her deceased teenage daughter. Camafreita, Fistonich and Viemeister form a moving trio and all three, especially Viemeister, have exceptional solo moments.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1668566046/media/2022/11/TheMedium_StevenPisano__04737_tgblog.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1668566046/media/2022/11/TheMedium_StevenPisano__04737_tgblog.jpg)
 
 <figcaption>Lara Tillotson as Madam Flora and Milos Kleiman as Toby in The Medium, Regina Opera Company, 2022. Photo: Steven Pisano.</figcaption>  
 </figure>

@@ -12,6 +12,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/avivafortunata"
 
+_template = "people_single"
 +++
 Canadian-Italian soprano Aviva Fortunata, named twice as one of CBC’s Top 30 Canadian Classical Artists Under 30, is earning international attention with her “velvety timbre”, “gleaming tone”, and voice “of diva soprano quality and strength”. To great acclaim, she stepped in last-minute to replace an ailing colleague in the title role of _Norma_ at The Dallas Opera, securing the _bel canto_ heroine as one of Ms. Fortunata’s signature roles.
 

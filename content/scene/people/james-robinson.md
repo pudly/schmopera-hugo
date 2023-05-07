@@ -19,6 +19,7 @@ url = "https://twitter.com/OTSL"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/operatheatrestl/"
+_template = "people_single"
 +++
 
 American stage director James Robinson is Artistic Director at the Opera Theatre of St. Louis, where he has mounted productions including Chin's *Alice in Wonderland* (American premiere), Ash's *The Golden Ticket* (world premiere), Corigliano's *The Ghosts of Versailles* (also presented at the Wexford Festival), and Adams' *The Death of Klinghoffer* and *Nixon in China* (a production seen throughout the United States and Canada). 

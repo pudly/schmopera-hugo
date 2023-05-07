@@ -25,6 +25,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/zeffinquinnhollis"
 
+_template = "people_single"
 +++
 Actor, singer, director, teacher.
  

@@ -13,6 +13,7 @@ website = "http://johntomlinson.org/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/John-Tomlinson/103769829661942?rf=438029252956970"
+_template = "people_single"
 +++
 
 John Tomlinson was born in Lancashire. He gained a B.Sc. in Civil Engineering at Manchester University before winning a scholarship to the Royal Manchester College of Music. He was awarded a C.B.E. in 1997 and knighted in the Queen’s Birthday Honours of 2005. He was awarded the Royal Philharmonic Society Music Award for Singer in 1991, 1998 and 2007 and in 2014 their Gold Medal.

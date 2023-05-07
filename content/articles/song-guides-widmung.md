@@ -41,7 +41,9 @@ integrity of the legato line through "schwebe". In such an instance, this breath
 
 <figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450370350575/Song-Guide---Widmung---L.jpg.jpg)</figure>6. Really stretch this *ritardando* across the bar line. Create added anticipation by enjoying the articulation of the [l] in “liebend”, almost as if it to double it. This will intensify the delicious modulation back to tonic.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450370285274/Song-Guide---Widmung---ritard.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450370285274/Song-Guide---Widmung---ritard.jpg.jpg)
 </figure>7. Think of tenuto markings over "mein guter Geist". This will give energy to the 
 ritardando, and new emphasis as the text repeats for the final time.
 

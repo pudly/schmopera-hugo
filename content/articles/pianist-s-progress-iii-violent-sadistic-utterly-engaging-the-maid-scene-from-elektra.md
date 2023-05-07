@@ -47,7 +47,9 @@ At this stage I added in some orchestral lines that were not in my piano reducti
 
 From this point on, it is a matter of gradually increasing the tempo until it is correct. Make sure that the tempo relationships are accurate, an example being two bars before Figure 1, where the half-note beat must equal the quarter-note beat of the opening bars. There are also some very subtle changes in tempo which must be clear (e.g. Piu Mosso, two before Figure 5, or the accelerando at Figure 8), and Strauss metronome marks can generally be trusted. By this point, I found that my singing was completely linked to my playing and that I knew the orchestra/piano part well enough that it didn't distract from my singing and the dramatic intent I was trying to show.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679530416/media/2023/03/Pianistseries_girllistening_x5ulov.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1679530416/media/2023/03/Pianistseries_girllistening_x5ulov.jpg)
 
 <figcaption>Try not to be too critical when listening back to yourself!</figcaption>  
 </figure>

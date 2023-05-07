@@ -19,6 +19,7 @@ url = "https://twitter.com/_PleaseJudgeMe"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/PleaseJudgeMeMJ"
+_template = "people_single"
 +++
 
 Mark Joelson Daboll is a music educator and vocal diagnostician. He is also an academically trained vocal coach and professional baritone of classical, cabaret, and music theatre repertoire. His Toronto voice studio specializes in diagnosis and correction of vocal problems, growth and maturation of the voice, and the application of cutting-edge science to perform at the highest level on stage, at the podium, and in the boardroom.  In addition to his private teaching schedule, Mark currently teaches applied voice and graduate vocal pedagogy part-time at the Faculty of Music, University of Toronto.

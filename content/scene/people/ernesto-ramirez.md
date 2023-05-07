@@ -12,6 +12,7 @@ website = "http://www.ernestoramirez.ca/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/EERfido"
+_template = "people_single"
 +++
 
 <p>

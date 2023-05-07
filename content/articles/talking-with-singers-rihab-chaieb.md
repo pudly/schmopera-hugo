@@ -27,7 +27,9 @@ It's very spoken, in a way. It doesn't feel like singing - of course it's singin
 
 Every time people learn that I'm Canadian, they're like, 'Oh, you're so nice!' It's the first thing people say. And it's kind of true, most of the time. We're not known to be massive divas with outrageous demands. It's always really welcome, people are always so happy to have a Canadian in the cast.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563653352/media/2019/07/RihabChaieb1-pc-FayFox.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1563653352/media/2019/07/RihabChaieb1-pc-FayFox.jpg)
 
 <figcaption>Rihab Chaieb, mezzo-soprano. Photo: Fay Fox.</figcaption>
 
@@ -41,7 +43,9 @@ Now, I feel like I'm on a level where I am ready, but I still need the constant 
 
 I'm 32 now, and I'm getting it. It's a very healthy timeline for me.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563653384/media/2019/07/RihabChaieb4-pc-FayFox.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1563653384/media/2019/07/RihabChaieb4-pc-FayFox.jpg)
 
 <figcaption>Rihab Chaieb, mezzo-soprano. Photo: Fay Fox.</figcaption>
 

@@ -29,7 +29,9 @@ Access to everything online makes it easy to keep documents, i.e. reading course
 
 **Owen Davies**: I began studying for the opera degree soon after I retired. I discovered I finally had time to pursue a passion for opera that began in my teenage years. For someone like me, online learning is a real treat. I couldn't see myself returning to a university campus and I can organise my studying around a busy social life. I love being able to work my way through the excellent course papers at my own pace. There is such a wealth of opera online - full operas and excerpts - that I often find myself pursuing musical trails that aren't directly relevant to the assignment I am preparing but enhance my understanding of music and singing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489399144011/2017-03-13---Owen-Davies.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489399144011/2017-03-13---Owen-Davies.jpg.jpg)
 <figcaption>Owen Davies, student at Rose Bruford College.</figcaption>
 </figure>
 
@@ -49,7 +51,9 @@ The main thing is it sometimes (depending on the module) doesn't feel like study
 
 Last but not least, by the end of this year (2017) I will have completed my first year of my degree which will have taken 2 and a half years.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489399100204/2017-03-13---Natasha-Hardy.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489399100204/2017-03-13---Natasha-Hardy.jpg.jpg)
 <figcaption>Natasha Hardy, student at Rose Bruford College.</figcaption>
 </figure>
 

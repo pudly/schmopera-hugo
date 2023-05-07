@@ -12,6 +12,7 @@ website = "http://www.oper-frankfurt.de/en/"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/operfrankfurt/"
+_template = "company_single"
 +++
 
 C. 1700, a French operatic troupe came to Frankfurt and performed works, mainly by Jean-Baptiste Lully. Other tours took place later, including a visit in 1745 by Pietro Mingotti's Italian troupe, which included a Kapellmeister called Christoph Willibald Gluck. Performances took place in temporary venues in dining halls of larger inns or on wooden stages they brought with them which were set up outside, usually int he Roosmarkt (Horse Market Square). 

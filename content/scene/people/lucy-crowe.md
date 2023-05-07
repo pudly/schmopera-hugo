@@ -8,6 +8,7 @@ publishDate = "2015-04-08T10:52:00-04:00"
 related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/english-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "lucy-crowe"
 title = "Lucy Crowe"
+_template = "people_single"
 +++
 
 <p>

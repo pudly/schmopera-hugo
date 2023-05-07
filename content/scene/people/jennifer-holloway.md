@@ -13,6 +13,7 @@ website = "http://www.jenniferhollowaymezzo.com/jenniferhollowaymezzo.com/Home.h
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jennhollowaaay"
+_template = "people_single"
 +++
 
 <p>

@@ -24,6 +24,7 @@ url = "https://instagram.com/pocketconcerts/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UC6jT4Txgf1qN2ZXnRAuvShw"
+_template = "company_single"
 +++
 
 A personalized chamber music concert and reception with the artists, in the comfort of your living room or workplace. 

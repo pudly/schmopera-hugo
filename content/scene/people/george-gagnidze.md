@@ -20,6 +20,7 @@ url = "https://twitter.com/GeorgeGagnidze"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCs5O4UGty60su_wKBAPU9nw"
+_template = "people_single"
 +++
 
 "The Georgian baritone George Gagnidze was an exceptionally menacing Scarpia, singing with robust, earthy power and seductive lyricism when the villain turns on the charm". With these words the *New York Times* hailed George Gagnidze in a 2008 performance of *Tosca* at Avery Fisher Hall at Lincoln Center. One year later he made his sensational debut at the Metropolitan Opera in New York as *Rigoletto*, and since then he has ranked among the leading singers of his genre.

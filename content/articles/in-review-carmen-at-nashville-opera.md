@@ -16,7 +16,9 @@ title = "In review: Carmen at Nashville Opera"
 
 [Nashville Opera](/scene/companies/nashville-opera/) closed its four-show, 2016-2017 season with Bizet's *Carmen*.  Director John Hoomes's decision to keep a mostly traditional treatment of the production gave the musicians the space to let Bizet's music speak for itself.  While the largely talented singers seized that opportunity, it seemed – in some cases – that said space allowed the focus to come off the characters themselves.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491733344050/2017-04-09---Nashville-Carmen-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491733344050/2017-04-09---Nashville-Carmen-1.jpg.jpg)
 <figcaption>Ginger Costa-Jackson as Carmen in Nashville Opera's *Carmen*, 2017. Photo courtesy of Nashville Opera.</figcaption>
 </figure>
 
@@ -27,7 +29,9 @@ The story is all too familiar: girl meets boy, girl loves boy, when girl changes
 
 Ms. Costa-Jackson's opposite, [Noah Stewart](/scene/people/noah-stewart/) as Don José, was my favorite tenor of Nashville Opera's season.  He sounds like a tenor with the soul of a baritone – and the two were a perfect match, vocally.  His voice was full and smooth, like an extra serving of caramel sauce on a sundae, and his high notes remained edgeless.  I would have liked him to also match Ms. Costa-Jackson interpretively; however, Mr. Stewart's physical depiction was not as dynamic.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491733432216/2017-04-09---Nashville-Carmen-3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491733432216/2017-04-09---Nashville-Carmen-3.jpg.jpg)
 <figcaption>Ginger Costa-Jackson (Carmen) and Noah Stewart (Don José) in Nashville Opera's *Carmen*, 2017. Photo courtesy of Nashville Opera.</figcaption>
 </figure>
 
@@ -35,7 +39,9 @@ Ms. Costa-Jackson's opposite, [Noah Stewart](/scene/people/noah-stewart/) as Don
 
 The smattering of comprimario roles, Zuniga ([Jeffrey Williams](/scene/people/jeffrey-williams/)), Frasquita ([Courtney Ruckman](/scene/people/courtney-ruckman/)), Mercédès ([Melisa Bonetti](/scene/people/melisa-bonetti/)), Remendado ([Zachary Devin](/scene/people/zachary-devin/)), and Moralès/Dancaïro (Makoto Winkler) gave Nashville Opera's Mary Ragland Young Artists a fun chance to excel in a fine production.  The young singers largely did fine work (though at times, a bit clunky) – and my favorites of the bunch were Ms. Ruckman and Ms. Bonetti as Carmen's BFFs.  We remember the two from [*Three Way*](/in-review-three-way/), and I liked seeing them in starkly different roles.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491733468960/2017-04-09---Nashville-Carmen-4.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491733468960/2017-04-09---Nashville-Carmen-4.jpg.jpg)
 <figcaption>A scene from Nashville Opera's *Carmen*, 2017. Photo courtesy of Nashville Opera.</figcaption>
 </figure>
 

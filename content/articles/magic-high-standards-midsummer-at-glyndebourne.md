@@ -21,7 +21,9 @@ title = "Magic &amp; high standards: Midsummer at Glyndebourne"
 
 **Matthew Rose**: Obviously Shakespeare is one of the great artistic treasures of planet earth. To get to perform in a piece by him, even in the form of an opera, is a great, great honour. I love every second of playing this amazing character that he created; with one of the funniest and most pertinent names in all of theatre.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470309348121/2016-08-04---MND_rehearsal-2---pc---Richard-Hubert-Smith.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470309348121/2016-08-04---MND_rehearsal-2---pc---Richard-Hubert-Smith.jpg.jpg)
 <figcaption>The cast of *A Midsummer Night's Dream* in rehearsal. Photo by Richard Hubert Smith, Glyndebourne Productions Ltd., 2016.</figcaption>
 </figure>
 
@@ -31,7 +33,9 @@ title = "Magic &amp; high standards: Midsummer at Glyndebourne"
 
 Now I am ten years further on in my professional life and I have done nine other productions of *A Midsummer Night's Dream* around the world (including ROH, la Scala and the MET) and six productions (operas) at Glyndebourne so I am in a completely different place in my career and in the way I think about opera, this role and life, and all the thoughts and feelings of then are very much part of my experience. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470309368210/2016-08-04---MND_rehearsal-1---pc---Richard-Hubert-Smith.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470309368210/2016-08-04---MND_rehearsal-1---pc---Richard-Hubert-Smith.jpg.jpg)
 <figcaption>Matthew Rose as Bottom, rehearsing *A Midsummer Night's Dream*. Photo by Richard Hubert Smith, Glyndebourne Productions Ltd., 2016.</figcaption>
 </figure>
 
@@ -39,7 +43,9 @@ Now I am ten years further on in my professional life and I have done nine other
 
 **Rose**: I have to say, it has been such a joy and I appreciate the greatness of this production way more now, and even after many performances of the role, the MAGIC and BRILLIANCE of the opera are something I appreciate and adore more and more. Is lovely that Kate Royal is here too from 2006 production, she is a special artist and wonderful person, and we are so lucky to be back. Nothing is guaranteed in this life/career, so to get a second chance at something this wonderful is a real blessing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470212837690/2016-08-03---DeShong.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470212837690/2016-08-03---DeShong.jpg.jpg)
 <figcaption>Elizabeth DeShong, mezzo-soprano. Photo by Dario Acosta.</figcaption>
 </figure>
 
@@ -49,7 +55,9 @@ Now I am ten years further on in my professional life and I have done nine other
 
 **DeShong**: Peter Hall's *Midsummer* is the first 'traditional' production of this opera that I have been a part of. It is specific without being rigid, magical without being obvious, and true to the story and setting. It is important to not shy away from the harshness within *Midsummer*, and to acknowledge the individual journeys of each of the characters, joyful and pitiful, alike. Peter Hall achieves this balance expertly. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470309397403/2016-08-04---MND_rehearsal-3---pc---Richard-Hubert-Smith.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470309397403/2016-08-04---MND_rehearsal-3---pc---Richard-Hubert-Smith.jpg.jpg)
 <figcaption>The cast of *A Midsummer Night's Dream* in rehearsal. Photo by Richard Hubert Smith, Glyndebourne Productions Ltd., 2016.</figcaption>
 </figure>
 
@@ -61,7 +69,9 @@ Now I am ten years further on in my professional life and I have done nine other
 
 **Rose**: We have the extra luxury of Dame Felicity Palmer as out Head Coach on this production and she doesn't let one single wrong or unheard consonant escape. The care she and conductor Jakub Hruša are taking with the text is really wonderful and I think the audiences will benefit greatly for this and hopefully not have to read the supertitles too much, which is a win for us all. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470212862741/2016-08-03---ROSE-Matthew-Lena-Kern.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470212862741/2016-08-03---ROSE-Matthew-Lena-Kern.jpg.jpg)
 <figcaption>Matthew Rose, bass. Photo by Lena Kern.</figcaption>
 </figure>
 

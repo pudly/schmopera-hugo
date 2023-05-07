@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Welsh-National-Opera/112301162118503?fref=
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/WNOtweet"
+_template = "company_single"
 +++
 
 <p>

@@ -14,6 +14,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/ninastemme/"
 
+_template = "people_single"
 +++
 For years, Swedish born Nina Stemme has been considered a leading singer of the most challenging parts in major dramas: Isolde, Brünnhilde and Kundry, Salome and Elektra, Fanciulla and Turandot.
 

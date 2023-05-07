@@ -22,6 +22,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/HeldenMommy"
 
+_template = "people_single"
 +++
 Soprano Christine Goerke has appeared in the major opera houses of the world including the Metropolitan Opera, Lyric Opera of Chicago, San Francisco Opera, Santa Fe Opera, Washington National Opera, Houston Grand Opera, Seattle Opera, Opera Company of Philadelphia, Pittsburgh Opera , New York City Opera, Glimmerglass Opera, Royal Opera House Covent Garden, Paris Opera, Théâtre du Châtelet, Théâtre du Capitole in Toulouse, Deutsche Oper Berlin, La Scala, Maggio Musicale Fiorentino, Teatro Real in Madrid, Teatro Municipal de Santiago, and the Saito Kinen Festival. She has sung much of the great soprano repertoire, starting with the Mozart and Handel heroines and now earning critical acclaim for the dramatic Strauss and Wagner roles. She has received praise for her portrayals of the title roles in _Elektra_, _Turandot_, and _Ariadne auf Naxos_, Brünnhilde in the _Ring Cycle_, Kundry in _Parsifal_, Ortrud in _Lohengrin_, Leonora in _Fidelio_, Eboli in _Don Carlos_, The Dyer's Wife in _Die Frau ohne Schatten_, Cassandre in _Les Troyens_, Ellen Orford in _Peter Grimes_, Female Chorus in _The Rape of Lucretia_, Alice in _Falstaff_, and Madame Lidoine in _Dialogues des Carmelites_.
 

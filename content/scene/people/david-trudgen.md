@@ -11,6 +11,7 @@ title = "David Trudgen"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/davidtrudgen"
+_template = "people_single"
 +++
 
 The Chicago Tribune declared Canadian counter-tenor David Trudgen as “the next generation’s answer to David Daniels” for his appearance as Medoro in Chicago Opera Theater’s production of Handel’s ORLANDO conducted by Raymond Leppard. This season Mr. Trudgen appears as Goffredo in Pacific Opera Victoria’s production of RINALDO, Bertarido in RODELINDA for VOICEBOX: Opera in Concert, as well as the workshop of BOUND with Against the Grain Theatre.

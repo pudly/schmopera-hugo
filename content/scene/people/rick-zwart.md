@@ -16,6 +16,7 @@ url = "https://www.facebook.com/rickzwartbaritone/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Zwart_Rick"
+_template = "people_single"
 +++
 
 Dutch baritone Rick Zwart began his vocal studies at the Conservatorium van Amsterdam in The Netherlands where he studied with baritone Pierre Mak. 

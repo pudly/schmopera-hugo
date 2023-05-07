@@ -25,7 +25,9 @@ Having premiered at LA Opera in 2010, [_Il Postino_](https://vaopera.org/experie
 
 Indeed, the highlights of Catán's score are those arias and duets which consist entirely of Neruda's poems set lavishly by the Mexican composer, most notably in Neruda's first aria, a setting of the poem "Desnuda," sung lustily and full throatedly by tenor Raúl Melo (in spite of the fact that he was under the weather Saturday evening, as noted in the curtain speech) which is the first of many times throughout the opera where the orchestration swirls and churns and rises to the heights of the Grandest of Grand Opera.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574136735/media/2019/11/VAOperaIlPostino-0137_n4xpp4.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1574136735/media/2019/11/VAOperaIlPostino-0137_n4xpp4.jpg)
 
 <figcaption>Daniel Montenegro (Mario) in Il Postino, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
@@ -40,7 +42,9 @@ This brings me around to the treatment of women in Catán's opera. They are alte
 
 Are these kinds of tropes really acceptable in a theatrical work which premiered within the last decade? Donna Rosa especially, whose antics find her knocking on Neruda's door, comically wielding a shotgun, and raving that her daughter's mind has been "poisoned by poetry!" - all played for laughs - feel garishly out of place in this lyrical romance.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574136785/media/2019/11/VAOperaIlPostino-0483_ophosy.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1574136785/media/2019/11/VAOperaIlPostino-0483_ophosy.jpg)
 
 <figcaption>Il Postino, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
@@ -57,7 +61,9 @@ Of course, Mario gets the girl and in the finale to the second act, they marry a
 
 What follows in the third act is more epilogue than story conclusion, and feels superfluous to the overall plot. Neruda leaves the island and is absent several years, and Mario misses his old friend, while becoming active in communist politics locally. Finally Neruda returns to find Beatrice alone with her son "Pablito," and she sings a glorious aria telling the poet the story of how Mario was killed when he was invited to read one of his own poems at a communist rally which turned violent.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574136868/media/2019/11/VAOperaIlPostino-5765_bm88d5.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1574136868/media/2019/11/VAOperaIlPostino-5765_bm88d5.jpg)
 
 <figcaption>Inna Dukach (Matilde Neruda) and Raúl Melo (Pablo Neruda) in Il Postino, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>

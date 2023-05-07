@@ -11,6 +11,7 @@ title = "Erica Iris"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/mezzoericairis"
+_template = "people_single"
 +++
 
 Praised for her stage presence of warmth and character, Mezzo-soprano Erica Iris has captivated audiences with her sensitivity and vocal timbres, critically acclaimed in her 

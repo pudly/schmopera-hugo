@@ -27,7 +27,9 @@ Not only is Schlather's latest project site-specific, but one which is in respon
 
 Schlather's question is about creating a cohesive piece of theatre that looks outside of itself; it's also about acknowledging what opera can offer - and uniquely so - to contemporary audiences. "People want intimacy," he says. "When you're doing an opera, you have to provide something that you can't get from Netflix." For Schlather, creating a marriage of space and spectacle is something tangible that sets live theatre apart. "What I think is so great about opera is that it's so visceral, to be up close to these musicians making these noises, and going through these intense emotional experiences." Wanting to go one step further, he asks: "How do you create this social gathering, and have people come together and have this cathartic experience that means something?"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508195103997/2017-10-16---Schlather-Hudson.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508195103997/2017-10-16---Schlather-Hudson.jpg.jpg)
 <figcaption>R. B. Schlather on the stage of the restored and renovated Hudson Hall. Photo by Matthew Placek.</figcaption>
 </figure>
 

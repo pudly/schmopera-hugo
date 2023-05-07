@@ -29,7 +29,7 @@ The machinery of the invention, love and attraction... Copeland fleshes out this
 
 I love the fact that we have a person who quite literally learned the art of writing pop songs and anthems for stadiums. Don't for a second think it was only Sir Gordon Sumner - aka Sting - who penned the music for The Police. They all were writing. I can hear the influences of The Police and progressive rock contemporaries in Copeland's music. It is fascinating really. It is all so very... fascinating.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520986756148/KC6A0969.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520986756148/KC6A0969.jpg.jpg)
 <figcaption>(l-r) David Govertsen as Stoever, Barbara Landis as Duchess, Valerie Vinzant as Faustine, Nathan Granner as Morel, Kimberly E. Jones as Dora, and Scott Brunscheen as Alec/Ombrellieri in *The Invention of Morel*, Chicago Opera Theater, 2017. Photo: Liz Lauren.</figcaption>
 </figure>
 

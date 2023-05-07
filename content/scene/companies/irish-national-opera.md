@@ -17,6 +17,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/IrishNatOpera"
 
+_template = "company_single"
 +++
 Irish National Opera is a newly formed company that merges two of Ireland's most innovative opera producers – Wide Open Opera and Opera Theatre Company.
 

@@ -23,7 +23,9 @@ All this is to say that for the whole of 2018, though I was editor of Schmopera,
 
 After my son was born, it wasn't even the sleep deprivation or the 10-times-daily feeding schedule that kept my brain far, *far* from the world of opera. He turned 1 last month, and the amount of amazing that he is outweighs 100-fold the emotional rollercoaster of the best operas I've ever seen. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544986895631/Alex.jpg.jpg){{% /md %}}<figcaption>Alex for proof. Photo by Andrej.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544986895631/Alex.jpg.jpg)<figcaption>Alex for proof. Photo by Andrej.</figcaption>
 </figure>
 
 I'll admit it to you, readers, because you guys are the bee's knees: for me, the hardest part of writing about opera in 2018 has been *caring about opera*. 

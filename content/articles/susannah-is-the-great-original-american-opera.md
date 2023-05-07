@@ -22,7 +22,9 @@ From a musical perspective, *Susannah* is THE great original American opera. Mor
  
 The Tennessee audience will immediately understand the cultural and religious background of the story. The language used is vernacular and colloquial, capturing the east Tennessee/Appalachian lifestyle with great respect. The collective Tennessean experience we have in the chorus and staff is ensuring a real authenticity to the pronunciation of the dialect.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521851743524/Dean--headshot.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521851743524/Dean--headshot.jpg.jpg)
 <figcaption>Dean Williamson, Music Director of Nashville Opera.</figcaption>
 </figure>
  

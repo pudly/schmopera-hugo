@@ -16,6 +16,7 @@ url = "https://www.facebook.com/calgaryopera"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CalgaryOpera"
+_template = "company_single"
 +++
 
 Founded in 1972, Calgary Opera's Mission is:

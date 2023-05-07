@@ -37,7 +37,9 @@ Maybe it's like survivor's guilt, this thing I'm feeling. I don't pay my bills b
 
 My life is tiny, surrounded by tiny things. Tiny condo, tiny little walks to the park with the tiny little person whom I've got to keep safe. Tiny joys (like a batch of new books for Tiny and I to read together) and tiny sadnesses (my watch broke...does it even matter, now? Who needs a watch in a pandemic?). I'm living along this tiny, squished spectrum of life experience, where the highs are capped at camping trips and toddler smiles (okay, those are pretty great) and the lows are, thankfully, restricted to rainy days and stress about too much screen time.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596986221/media/2020/08/AlexMask_nwalrz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1596986221/media/2020/08/AlexMask_nwalrz.jpg)
 
 <figcaption>Alex, rocking his mask.</figcation>
 
@@ -51,7 +53,9 @@ I know I've been a bit silent over here, lately. But I've been yammering away on
 
 But the performers I've talked to on the podcast - from the cerebral Barbara Hannigan to the too-real Christine Goerke - are all making their ways through this insane time like total champs. They're finding so much silver lining, staying so patient, checking in with their life decisions. If I were in their shoes, I'd be curled in a ball, angry and sad and lost. But these people, they're doing amazing things.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596986494/media/2020/08/TEWBOPartwork_cchf6t.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1596986494/media/2020/08/TEWBOPartwork_cchf6t.jpg)
 
 <figcaption>Original artwork for The Everything Will Be Okay Podcast, by singer and illustrator, Danika Lorèn.</figcaption>  
 </figure>

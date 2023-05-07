@@ -12,6 +12,7 @@ website = "http://www.shaunayarnell.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/shaunayarnell"
+_template = "people_single"
 +++
 
 Mezzo Soprano Shauna Yarnell is an emerging artist based out of Toronto. Her opera credits include Leoena in Offenbach’s *La Belle Helene* (The Glenn Gould School); Foreign Singer/ Lady with a Hat Box in Argento’s *Postcard From Morocco* (The Glenn Gould School); and Harry from Britten’s *Albert Herring* (The University of Toronto).  Partial roles include Octavian from Strauss’ *Der Rosenkavalier* (Vianden International Music Festival); Dorabella from Mozart’s *Cosi fan tutte* (The University of Toronto); and Carmen from Bizet’s *Carmen* (L’Institut Canadien d’Art Vocal). Shauna has sung in masterclasses for renowned artists such as Timothy Noble, Michael McMahon, Marshall Pynkoski, and Steven Philcox. Awards and scholarships include The Joanne Ivey Mazzoleni Scholarship; the David and Marcia Beach Summer Study Award; and a grant from the Canada Council for the Arts.

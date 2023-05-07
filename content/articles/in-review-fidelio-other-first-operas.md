@@ -17,7 +17,9 @@ Hopefully, we're not the only opera fans that feel a vague sensation of riding a
 
 On the other hand, it's easy to hear that *Fidelio* is Beethoven's first opera; it's certainly correct that it was also his only opera. Christopher Hitchens once said that religion was our first attempts at literature, cosmology, and medicine, and that "it is the worst attempt, but partly because it was the first." Perhaps Beethoven's first opera was like those early years of blending religion and science, and perhaps if he had written more operas, *Fidelio* may enjoy the same kind of obscure status as, say, Verdi's *Alzira* or Mozart's *Il sogno di Scipione*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485177385157/2017-01-22---N68A0124.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485177385157/2017-01-22---N68A0124.jpg.jpg)
 <figcaption>Vladminir Jurowski conducting the London Philharmonic Orchestra. Photo by Simon Jay Price.</figcaption>
 </figure>
 
@@ -29,7 +31,9 @@ Yet it's a fascinating, almost humanizing thing, to hear Beethoven struggle with
 
 The duet with Marzelline and Jaquino has the conversational life of that first scene in Mozart's *Le nozze di Figaro*, yet with more crowding. The gigantic, marathon-like arias for Leonore and Florestan have the great climactic affect of a Verdi *scena*, but with a merciless tessitura and picky details that beg the singer to overwork.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485177425308/2017-01-22---N68A0042.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485177425308/2017-01-22---N68A0042.jpg.jpg)
 <figcaption>Sofia Fomina (Marzelline), Kristinn Sigmundsson (Rocco), and Anja Kampe (Leonore). Photo by Simon Jay Price.</figcaption>
 </figure>
 
@@ -37,13 +41,17 @@ But like much of Beethoven's infamous works, the line between the human and the 
 
 Jurowski and the LPO worked with director Daniel Slater to present a mostly-in-concert performance of *Fidelio*, with the exciting [Anja Kampe](https://en.wikipedia.org/wiki/Anja_Kampe) as Leonore. Both [Michael König](/scene/people/michael-konig/) and [Christopher Purves](/talking-with-singers-christopher-purves/) withdrew from their performances as Florestan and Don Pizarro due to illness; [Robert Dean Smith](/scene/people/robert-dean-smith/) stepped in for König, and [Pavlo Hunka](http://www.artistsman.com/home/artist_list/baritonebass/pavlo-hunka/biography/) for Purves. Kampe's powerful instrument was a believable trouser-role soprano as "Fidelio", with enough womanly warmth to remind us that she was Leonore, who missed her husband. [Sofia Fomina](/scene/people/sofia-fomina/) was a clear, ringing Marzelline, beautifully paired both with Kampe as "Fidelio" and with tenor [Ben Johnson](/scene/people/ben-johnson/)'s Jaquino. [Kristinn Sigmundsson](/scene/people/kristinn-sigmundsson/) seemed Rocco incarnate, and Smith broke hearts with his first wailing "Gott!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485177469150/2017-01-22---N68A0031.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485177469150/2017-01-22---N68A0031.jpg.jpg)
 <figcaption>Sofia Fomina (Marzelline). Photo by Simon Jay Price.</figcaption>
 </figure>
 
 David Slater's direction was a creative approach to the in-concert performance setting. For the first act, Jurowski and the LPO were in casual dress; the singers were seated upstage, next to a stage management table and a rehearsal room coffee-and-water station. Mock-ups of set and costume designs were posted on the wall, opposite a rack of costumes. Essentially, the first act straddled the line between a sitzprobe and a staging rehearsal, all visible to the audience; the second act had Jurowski and the LPO in orchestra blacks, as though Act I had been a precursor to "the show".
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485177539919/2017-01-22---N68A0191.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485177539919/2017-01-22---N68A0191.jpg.jpg)
 <figcaption>Anja Kampe (Leonore). Photo by Simon Jay Price.</figcaption>
 </figure>
 

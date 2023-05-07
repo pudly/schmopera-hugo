@@ -20,6 +20,7 @@ url = "https://twitter.com/adiannetta"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/adiannetta/"
+_template = "people_single"
 +++
 
 Growing up in an Italian family, Adam has learned two very important things: you have to speak up if you ever want to be heard, and there is no such thing as a moment’s peace. You might say that his extroverted career is probably the result of his family’s upbringing. Furthermore, Adam subscribes to these values as part of his way of living, and always finds a way to keep himself busy. If he is not performing on stage, you will probably find him studying in the library.

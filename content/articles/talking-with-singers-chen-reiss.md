@@ -25,7 +25,9 @@ Going to NY was a dream come true to me. I was very excited but soon realized th
 
 I was surrounded with good friends and people who believed in my talent and help me in many ways, I am forever grateful for the love and support my friends and family gave me. I built my career very gradually, started with relatively short and light roles and only later turned to the leading parts. Deciding to move to Germany in 2003 was a smart move. I gained a lot of experience being a Fest artist at the Bayerische Staatsoper in Munich. It was also a great platform to present myself and develop helpful contacts. I received many invitations following this 3-year residency.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490026789458/2017-03-20---Chen_Reiss_Photo_by_Paul_Marc_Mitchell.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490026789458/2017-03-20---Chen_Reiss_Photo_by_Paul_Marc_Mitchell.jpg.jpg)
 <figcaption>Chen Reiss. Photo by Paul Marc Mitchell.</figcaption>
 </figure>
 

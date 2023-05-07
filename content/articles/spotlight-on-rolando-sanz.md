@@ -25,7 +25,9 @@ A lot of people think that "good singing" is technically advanced singing. I ac
 
 One does not need to "appreciate" singing to know what good singing is...we all know it when we hear it, and the goosebumps are proof positive of that.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455594845307/Sanz_FingerLakesOpera_Elixir_NicMinetor2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455594845307/Sanz_FingerLakesOpera_Elixir_NicMinetor2.jpg.jpg)
 <figcaption>Rolando Sanz as Nemorino in Finger Lakes Opera's production of *L'elisir d'amore*, 2015. Photo by Nic Minetor.</figcaption>
 </figure>
 
@@ -39,7 +41,9 @@ Less of? Comparing ourselves to others is definitely something that we could ALL
 
 My realistic dream role (eventually!) would be the title character in Verdi’s *Ernani*. The music is so classic Verdi and it’s a dream to sing! Non-realistically, I would love to spend 10 years learning *Tristan* and then singing through it with orchestra, just once. Not likely, but a pipe dream on the bucket list nonetheless.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455594898229/Sanz_VirginiaOpera_Traviata_LucidFrameProductions1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455594898229/Sanz_VirginiaOpera_Traviata_LucidFrameProductions1.jpg.jpg)
 <figcaption>Rolando Sanz as Alfredo in Virginia Opera's production of *La traviata*, 2015. Photo via Lucid Frame Productions.</figcaption>
 </figure>
 

@@ -19,6 +19,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCI93cBbQ_t_Fm6jU_BBvO9g"
 
+_template = "people_single"
 +++
 Ildar Abdrazakov has established himself as one of opera’s most sought-after basses. Since making his debut at the Teatro alla Scala in Milan in 2001 at 25, the Russian native has become a mainstay at leading houses worldwide, including New York’s Metropolitan Opera, Paris National Opera, the Vienna State Opera and Munich’s Bavarian State Opera. His powerful yet refined voice coupled with his compelling stage presence have prompted critics to hail him as a “sensational bass … who has just about everything – imposing sound, beautiful legato, oodles of finesse” (_The Independent_). Being also an active concert artist, he has performed at London’s BBC Proms and at New York’s Carnegie Hall, as well as with leading international orchestras, including the Chicago Symphony Orchestra and the Vienna Philharmonic.
 

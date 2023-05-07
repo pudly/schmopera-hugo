@@ -19,6 +19,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCbxwmu5L2XAaqRKHe9LIYlA"
 
+_template = "people_single"
 +++
 Mezzo-soprano Briana Hunter hailed by _Opera News_ as “mesmerizing…contributing a fiery theatrical presence and dynamic vocalism” is at the precipice of a very promising career in opera. She has been on the rosters of many notable companies/programs: I SING BEIJING, Sarasota Opera, The Santa Fe Opera, Michigan Opera Theatre, The Music Academy of the West, American Opera Projects, The Glimmerglass Festival, and Opera Theatre of St. Louis where she performed the roles of Flora in _La traviata_ (in Patricia Racette's directorial debut), and Pvt. Stanton in the world premiere of _An American Soldier_.  She recently made her Lincoln Center Theater debut in their gala performance of _Camelot_ starring Lin Manuel Miranda, and completed a workshop of _Intimate Apparel_ by Ricky Ian Gordon and Lynn Nottage, directed by Bartlett Sher also at Lincoln Center Theater.  This June she makes her role debut as Hannah after in Laura Kaminsky’s _As One_ at Merkin Hall in a co-production with American Opera Projects and New York City Opera.  This summer she will create the role of Mother in the world premiere of _Blue_ by Jeanine Tesori and Tazewell Thompson at The Glimmerglass Festival.
 

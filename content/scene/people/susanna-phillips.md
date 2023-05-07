@@ -17,6 +17,7 @@ url = "https://www.facebook.com/Susanna-Phillips-Soprano-183971987662/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/sopsus"
+_template = "people_single"
 +++
 
 Alabama-born soprano Susanna Phillips, recipient of The Metropolitan Opera’s 2010 Beverly Sills Artist Award, continues to establish herself as one of today’s most sought-after singing actors and recitalists. The 2015-16 season will see Phillips return to the Metropolitan Opera for an eighth consecutive season starring as Roselinda in the Jeremy Sams production of *Die Fledermaus* conducted for the first time by music director James Levine, as well as a return of her acclaimed Musetta in Puccini’s *La Bohème*. Phillips will also return to the stage of Lyric Opera of Chicago as Juliet in Gounod’s *Romeo and Juliet* under the baton of Emmanuel Villaume. A return to Boston Lyric Opera will mark Phillips’ debut in the role of Hanna in a new production of Lehár’s *The Merry Widow*.

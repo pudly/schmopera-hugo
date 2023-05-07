@@ -13,6 +13,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AngieMortellaro"
 
+_template = "people_single"
 +++
 Soprano Angela Mortellaro possesses a captivating stage presence and consistently delivers in a wide range of characters and vocal demands. She has sung leading roles in *Lucia di Lammermoor*, *Roméo et Juliette*, *Thaïs*, *La Traviata*, *L’elisir d’amore*, and has created roles in new operas including Charlie Parker’s *Yardbird*, *Silent Night* and *The Manchurian Candidate*.
  

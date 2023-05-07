@@ -12,6 +12,7 @@ website = "http://kimsartormusic.blogspot.ca/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCN6UcmVwe5qBxlkS_6wnuDQ"
+_template = "people_single"
 +++
 
 This season, mezzo-soprano Kim Sartor performed as a soloist with the Cantabile Chamber Singers of Toronto and Mississauga’s Windmill Theatre. She debuted with Oshawa Opera as Flora in *La Traviata* and with Opera by Request as the Dogtor/Doctor in the contemporary Canadian opera, A chair in love. Other credits include Suzuki in *Madame Butterfly* (SOLT), and the Witch in *Hänsel and Gretel* (Solar Stage Children’s Theatre). Excerpt roles include Susanna in *Le Nozze di Figaro* and Gretel in *Hänsel und Gretel* (RCM

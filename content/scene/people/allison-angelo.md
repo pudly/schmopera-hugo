@@ -9,6 +9,7 @@ related_companies = ["scene/companies/the-banff-centre.md","scene/companies/late
 slug = "allison-angelo"
 title = "Allison Angelo"
 website = "http://www.allisonangelo.ca/"
+_template = "people_single"
 +++
 
 Hailed as “A fabulous discovery” by the *Toronto Star*, Canadian soprano Allison Angelo is a talented and versatile young singer applauded on the operatic, recital and concert stage.

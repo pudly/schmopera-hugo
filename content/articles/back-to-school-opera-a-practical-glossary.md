@@ -20,7 +20,7 @@ In-concert means simply that an **opera is presented without sets, costumes, or 
 
 Toronto is home to two great places to catch in-concert performances and hear some of Canada's serious operatic talent. [VOICEBOX: Opera in Concert](/scene/companies/voicebox-opera-in-concert/) starts its season with Borodin's [*Prince Igor*](http://www.operainconcert.com/PrinceIgor_syn.html) on November 22nd, featuring soprano Natalya Matyusheva and baritone Geoffrey Sirett. If you can't wait that long before your in-concert fix, head over to hear [Opera By Request](/scene/companies/opera-by-request/)'s production of [*Der Freischütz*](http://operabyrequest.ca/wordpress/) on September 18th, featuring Schmopera contributor and baritone [John Holland](http://www.schmopera.com/don-giovanni-at-the-estates-theatre/) as Kaspar.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441131852326/WrittenonSkinConcert.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441131852326/WrittenonSkinConcert.jpg.jpg)
 <figcaption>Barbara Hannigan in the Toronto Symphony Orchestra's in-concert production of *Written on Skin*. Photo: Malcolm Cook.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Oratorio has all the same musical ingredients as opera, like solo singers, a cho
 
 Thanks to people like Peter Sellars and other thinkers-outside-the-box, the staging of oratorio is becoming more and more popular. Proof: Against the Grain Theatre is reviving its successful production of [*AtG's Messiah*](http://againstthegraintheatre.com/shows/atgmessiah), staged and choreographed by [Joel Ivany](/scene/people/joel-ivany/) and [Jennifer Nichols](https://twitter.com/JennEMethod). Shows are in December, dates and locations still TBA. To stay in the loop, follow them on Twitter, [@AtGTheatre](https://twitter.com/AtGtheatre).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441131357087/SellarsStJohnPassion-pc-MonikaRittershaus.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441131357087/SellarsStJohnPassion-pc-MonikaRittershaus.jpg.jpg)
 <figcaption>A scene from Peter Sellars' staged version of J.S. Bach's *St. John's Passion*, 2014. Photo: Monika Rittershaus.</figcaption>
 </figure>
 

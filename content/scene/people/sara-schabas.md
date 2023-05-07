@@ -17,6 +17,7 @@ url = "https://www.facebook.com/saraschabassoprano/"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/saraadelesongbird/"
+_template = "people_single"
 +++
 
 Canadian soprano Sara Schabas, an artist acclaimed for her performances of nuance and beauty, recently returned from her second summer at the Aspen Music Festival as a Mercedes T. Bass Opera Fellow. Her 2016-2017 season includes recitals at Toronto's Arts and Letters Club and Gallery 345, as well as her debut with the Mississauga Symphony Orchestra as Frasquita in Bizet's *Carmen*.

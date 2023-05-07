@@ -12,6 +12,7 @@ website = "https://www.taylorstayton.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/taylorstaytontenor/"
+_template = "people_single"
 +++
 
 Taylor Stayton's "laser-bright timbre" and "exceptional fluidity above the staff" (Opera News) continue to distinguish him as one of the most sought-after tenors in his repertoire. To begin the 2017-2018 season, Stayton made his debut at the Gran Teatre del Liceu in the role of Belfiore in Rossini's *Viaggio a Reims*. Of his contribution to the production, Opera Travel hailed his "extremely impressive performance," and his signature "superb control in shading at the very top." Later this season, he will return to the Metropolitan Opera in the fall, debuting in the role of Camille de Rosillon in Susan Stroman's production of *The Merry Widow*, conducted by War Stare. This season will also see Stayton bring his acclaimed interpretation of Count Almaviva in Rossini's *Il Barbiere di Siviglia* to yet two more company debuts with the Arizona Opera, and the Washington National Opera. With one more company debut awaiting him in the 2017-2018, Stayton will reprise the role of Fenton in Verdi's *Falstaff* in his first performances with Opera Omaha. Stayton then returns to the Des Moines Metro Opera to close out the season in debut performances of Alfred in Strauss' *Die Fledermaus*.

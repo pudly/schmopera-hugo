@@ -16,6 +16,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JacquelineWoodl"
 
+_template = "people_single"
 +++
 Canadian soprano **Jacqueline Woodley** has been praised for her fearless versatility, changing styles fluidly from early music to contemporary, from opera to art song. Sought after for her “exceptional talent” in performing modern works, Jacqueline created the role of Milice-Bride in the première of Ana Sokolovic’s opera _Svaba-Wedding_ with Queen of Puddings Music Theatre. This production toured Europe and Canada and Ms. Woodley was also chosen for the San Francisco and Philadelphia premieres of this remarkable work. Most recently, she was hailed for her searing performance as Natalia in the world premiere of _Oksana G_ for Tapestry New Opera and earlier appeared in the premiere of that company’s production of _M’Dea Undone_ which won a Dora award. Other acclaimed performances of contemporary music include works by György Kurtág, Kaija Saariaho, and Judith Weir.
 

@@ -17,7 +17,9 @@ The hot and exotic topic concerning the world premiere of *The Rose Elf*, David 
 
 A long dark hall, off which are rooms filled with coffins sealed within the Catacomb walls, sets the scene. Director [R.B. Schlather](/scene/people/rb-schlather/) seizes the obvious limitations and maximizes its musical and dramatic potential. Last year intrepid opera goers saw Schlather, to lively effect, take over an entire opera house, devoid of seats, in Hudson, New York, with the Virgil Thompson/Gertrude Stein opera, [*The Mother Of Us All*](/rb-schlather-susan-b-anthony-connecting-opera-with-community/). The Catacombs shows once again that this adventurous director revels in architectural and acoustical challenges.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529620406656/TRE7.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529620406656/TRE7.jpg.jpg)
 <figcaption>The Brother (Andrew Bogard) in *The Rose Elf*. Photo: Matthew Placek</figcaption>
 </figure>
 
@@ -25,7 +27,9 @@ The audience in the Catacombs was arranged on opposite sides of the long hall. A
 
 The audience had a direct view of one aspect of the story or another, depending on seat location, and an angular view of the others. It was useful to take the advice of *The Angels Share* producer, Andrew Ousley, and give an advance read to the short and quite grim, Hans Christian Andersen fairy tale, on which the opera is based. (It is available for free on [Wikipedia](https://en.wikisource.org/wiki/The_Elf_of_the_Rose).)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529620398333/TRE2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529620398333/TRE2.jpg.jpg)
 <figcaption>The Girl (Alisa Jordheim), The Lover (Kyle Bielfield), and The Brother (Andrew Bogard) in *The Rose Elf*. Photo: Matthew Placek.</figcaption>
 </figure>
  
@@ -35,7 +39,9 @@ The story concerns a murder that is witnessed by an elf who lives in a nearby ro
 
 Hertzberg's libretto consists of pithy and poetic passages that serve as moody guidelines to the story. For the most part, the acoustics work in favor of the singers and their diction is generally good so the projection of the text was not absolutely necessary. The supertitles did, however help us to refocus if the lurid and deftly executed dragging, pulling, caressing, and crushing diverted our attention from the storyline.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529620419769/TRE12.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529620419769/TRE12.jpg.jpg)
 <figcaption>The Lover (Kyle Bielfield) in *The Rose Elf.* Photo: Matthew Placek</figcaption>
 </figure>
 
@@ -47,7 +53,9 @@ The character of the Brother, sung by bass-baritone, Andrew Bogard benefited fro
 
 The victimized lovers were well matched. Kyle Bliefield gave the Lover a winsome charm, as much by his mystified expression as his sweet and clear tenor voice. He was callowness personified, appearing too simple at times to be worth destroying. But we learned that the Brother's evil intent wasn't based on anything intellectual. Soprano, Alisa Jordheim as the Girl, grew in intensity as the fate of her lover and the intrusion of her dreams drove her to madness. Her voice, almost too delicate at first, stiffened and coarsened and her posture became increasingly stilted. The depth of her reaction to the effects of pure evil was a potent expression of the opera's tragedy.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529620413586/TRE9.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529620413586/TRE9.jpg.jpg)
 <figcaption>The Girl (Alisa Jordheim) and The Lover (Kyle Bielfield) in *The Rose Elf*. Photo: Matthew Placek.</figcaption>
 </figure>
 

@@ -23,9 +23,11 @@ _The Monster I Am Today_ (TriQuarterly Books, Northwestern University Press) is 
 
 _Monster_ finds nostalgia in the whiffs of choir life, music-nerd jokes ("Leontyne "Pree-chay"), that first great music teacher, even that first pretty horrible music teacher. A lot of the book is familiar, particularly that thing about being able to pinpoint the exact start of one's obsession with a singer. Simmonds is thorough with his adoration of Leontyne Price, even devoting a poem to the three-minute ovation Price received after "O Patria Mia" at the Met in 1985.
 
-<figure data-type="image">{{% md %}}
+<figure data-type="image">
 
-![](https://res.cloudinary.com/schmopera/image/upload/v1630549334/media/2021/09/LeontynePrice_xinedq.jpg){{% /md %}}
+
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1630549334/media/2021/09/LeontynePrice_xinedq.jpg)
 
 <figcaption>Leontyne Price.</figcaption>
 
@@ -33,9 +35,11 @@ _Monster_ finds nostalgia in the whiffs of choir life, music-nerd jokes ("Leonty
 
 Other things feel less familiar to me, because I'm a white woman: the continuous feedback from white voice teachers that Simmonds' voice was too dark, from white voice teachers who worked to "brighten" and "thin" his sound. When I think back to all the voice lessons I witnessed, and all the push for a specific sound, I'm ashamed to say that I never made the connection that the desired sound was a white one. The Marian Anderson quote that Simmonds included hit me hard: "There were things that happened to my voice that should not have happened."
 
-<figure data-type="image">{{% md %}}
+<figure data-type="image">
 
-![](https://res.cloudinary.com/schmopera/image/upload/v1630587991/media/2021/09/Kevin_Simmonds_wcqihh.jpg){{% /md %}}
+
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1630587991/media/2021/09/Kevin_Simmonds_wcqihh.jpg)
 
 <figcaption>Kevin Simmonds, author of The Monster I Am Today: Leontyne Price and a Life in Verse.</figcaption>
 
@@ -45,7 +49,9 @@ Simmonds' poetry bubbles up with imagery and references, like Leontyne Price's t
 
 In my YouTube spree, I listened to that "O Patria Mia" from the Met in 1985 — and I watched the three-minute ovation with Simmonds' timestamped notes of Price's every move. And having just read Simmonds' book, I felt a fresh rush of awe for what Leontyne does, making constantly beautiful, constantly interesting sound that holds you captive. It reminded me how particularly high the standard is for Black artists, and how it wasn't even enough for Price to make the kind of sound she did. She also had to rise above the hate, the discrimination, the colleagues trying to relegate her to only Aidas and Besses, the critics whose "imagination still cannot accommodate itself to a black in the role of a white."
 
-<figure data-type="video">{{% md %}}<iframe width="1010" height="758" src="https://www.youtube.com/embed/XD3tCTA8kfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1010" height="758" src="https://www.youtube.com/embed/XD3tCTA8kfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 

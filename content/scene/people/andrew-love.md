@@ -14,6 +14,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/andrewjlove"
 
+_template = "people_single"
 +++
 Calgary native Andrew Love is in the enviable position of balancing his time between engagements on Broadway and on the opera stage. Heard as the Bishop and Javert (understudy) in _Les Misérables_ in Toronto, he was also engaged for the same roles in the 2014 Broadway revival of the show and the National Tour that ran from 2017 - 2020. In 2017-2018, Andrew also joined Pacific Opera Victoria for Schaunard in _La bohème_, the Regina Symphony for the Fauré _Requiem_, and appeared as Baron Duphol in _La traviata_ for Manitoba Opera. He continued his 2018 season in St. John’s where he made his company and role debut singing Hannah Before in _As One_ for Opera on the Avalon. He re-joined the company in the fall of 2018 for the role of Thomas Nangle in John Estacio's _Ours_. He returned to his hometown in early 2019 for the Canadian Premiere of Joby Talbot's _Everest_.
 

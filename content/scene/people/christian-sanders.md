@@ -16,6 +16,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/christian.sanders7070/"
 
+_template = "people_single"
 +++
 **Christian Sanders** has been hailed as a “…voice whose color belies his age. Someone to watch!” (Bill Eadie, SanDiego.com)
 

@@ -50,5 +50,7 @@ As singers we are multi-talented and multi-taskers. If you have talent or an eye
 
 Above all, don't give it a 76% level of effort - your success in this, is all up to you. I never thought I would be running a business, but here I am, and I am working every day at it. Be dedicated to yourself, and really commit. As a little wise, green Jedi once said, "do or do not, there is no try."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484736402796/2017-01-18---Coffeeshop.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484736402796/2017-01-18---Coffeeshop.jpg.jpg)
 </figure>

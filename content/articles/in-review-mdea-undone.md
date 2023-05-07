@@ -22,7 +22,9 @@ title = "In review: M&#039;dea Undone"
 
 **Greg**: Michelle Tracey's set was fractured into three main playing spaces. The first being M'dea's hovel, the second the Oval Office/election stage and the third being M'dea's American apartment. This can run the risk of challenging the audience on both a dramatic and sonic front. Director Tim Albery expertly managed Tracey's design of the space providing a neat clearly directed visual, a visual that showed a stark contrast between the lush political affluence and the strife torn village that our heroine was forced to betray. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735247904/M'Dea-Undone-Featuring-Lauren-Segal-and-Peter-Barrett---photo-by-Dahlia-Katz--smaller-7.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735247904/M'Dea-Undone-Featuring-Lauren-Segal-and-Peter-Barrett---photo-by-Dahlia-Katz--smaller-7.jpg.jpg)
 <figcaption>Lauren Segal as M'dea and Peter Barrett as Jason. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -34,7 +36,9 @@ title = "In review: M&#039;dea Undone"
 
 **Greg**: As M'dea, Lauren Segal is breathtaking. A challenging role to sing for sure, she made excellent and prolific use of her chest voice, adding a depth of heartiness and earthiness to balance with some of her incredibly difficult higher passages. Her acting was on point. Segal was riveting from start to finish. Watching her slide from love-struck new mother into the madness caused by infidelity was incredibly powerful. Her scenes with Peter Barrett as Jason were electric. And it's worth it to note how modern the relationship dialogue was between them. It helped to lend itself to the overall feeling that I was watching a really lyrical episode of *House of Cards*. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735329734/M'Dea-Undone-Featuring-Lauren-Segal%2C-Peter-Barrett%2C-and-Michael-Mori---photo-by-Dahlia-Katz--8.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735329734/M'Dea-Undone-Featuring-Lauren-Segal%2C-Peter-Barrett%2C-and-Michael-Mori---photo-by-Dahlia-Katz--8.jpg.jpg)
 <figcaption>Lauren Segal, Peter Barrett and Michael Mori. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -50,7 +54,9 @@ title = "In review: M&#039;dea Undone"
 
 **Jenna**: Jacqueline Woodley as the President's daughter, Dahlia, was a total standout performance for me. She was a beautiful foil to M'dea, whose wild curls and flowing costumes are a stark contrast to Dahlia's smooth, fitted dresses and gleaming white smile. Like a true White House lady, perhaps, I started off liking Dahlia, and with one scene she turned on a dime. Jacqueline had a fantastic self-important sashay and carefully chosen words with their accompanying smiles. Very Claire Underwood. Vocally, I loved how Harris wrote Dahlia's part; calm and calculated small-talk turned into cutting, deliberate classist insults, and Dahlia's music goes from Mélisande to somewhere between Lulu and the Queen of the Night at her most shrieky. Jacqueline was a stunning actor, too; it's hard to hate such a lovely lady (but I did for a bit).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735392941/M'Dea-Undone-Featuring-Lauren-Segal---photo-by-Dahlia-Katz.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735392941/M'Dea-Undone-Featuring-Lauren-Segal---photo-by-Dahlia-Katz.jpg.jpg)
 <figcaption>Lauren Segal. Photo by Dahlia Katz.</figcaption>
 </figure>
 

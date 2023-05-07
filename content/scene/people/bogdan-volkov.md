@@ -16,6 +16,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/bogdan_volkov_tenor/"
 
+_template = "people_single"
 +++
 Bogdan Volkov studied singing at the Glier Kiev Institute of Music. In 2013 he completed his vocal studies graduating at Tchaikovsky Kiev National Academy of Music. In 2013-15 was a member of the Young Artists Program of the Bolshoi Theatre of Russia. During this period Bogdan made his role debuts as Simpleton in _Boris Godunov_ by M. Mussorgsky, as Mozart in _Mozart and Salieri_ by N. Rimsky-Korsakov, as Kai in _The story of Kai and Gerda_ by S. Banevich and as Vladimir Igorevich in _Prince Igor_ by A. Borodin and others.
 

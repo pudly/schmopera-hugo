@@ -19,6 +19,7 @@ url = "https://twitter.com/SHendricksMusic"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/shendricksmusic/"
+_template = "people_single"
 +++
 
 Texan Scott Hendricks has emerged as one of today's most compelling and versatile baritones. From Monteverdi to Schreker, Mozart to Debussy and Puccini to modern-day composers, Hendricks has always maintained a diverse operatic diary and is now estblishing himself as an important artist in the operas of Verdi, Puccini, and Wagner.

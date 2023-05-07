@@ -20,6 +20,7 @@ url = "https://twitter.com/JMC_1949"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/jeunessesmusicalesca"
+_template = "company_single"
 +++
 
 A non-profit organization, Jeunesses Musicales Canada (JMC) has a dual mission: to promote the performance of classical music, especially for young audiences, and to help young professional instrumentalists, singers and composers to develop their careers at the national and international levels.

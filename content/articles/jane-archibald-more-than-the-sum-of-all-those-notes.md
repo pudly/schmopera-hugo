@@ -22,7 +22,9 @@ Desautels created a bit of magic with his first note of Schubert, dovetailing th
 
 With an abriged version of the *Brentano Lieder*, Archibald delivered some Richard Strauss that was essentially perfect. It's easy to understand why some of the soprano's fans are firmly convinced that Strauss' music is her ultimate vocation. There's a womanly curve to the way she sings coloratura, and a kind of pliable agility that suits Strauss' stretchy leaps and twisting runs. She ended with "Amor", and made it sound all too easy.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519263825685/KLP180220-_A7R2561.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519263825685/KLP180220-_A7R2561.jpg.jpg)
 <figcaption>Soprano Jane Archibald, 2018. Photo: Kevin Lloyd.</figcaption>
 </figure>
 

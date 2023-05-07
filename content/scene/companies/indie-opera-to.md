@@ -16,6 +16,7 @@ url = "https://www.facebook.com/indieoperapotluck"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/IndieOperaTO"
+_template = "company_single"
 +++
 
 Indie Opera T.O is a network of dynamic, autonomous companies that are awakening a vibrant renaissance of opera in Toronto. Driven by a goal to support one another as advocates of innovative opera and chamber music experiences, member companies are building a new-generation opera scene. 

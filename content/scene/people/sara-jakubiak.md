@@ -12,6 +12,7 @@ website = "http://www.sarajakubiak.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/SaraMichelleJakubiak/"
+_template = "people_single"
 +++
 
 American soprano Sara Jakubiak has been praised by the New York Times for her “plush-voiced, impressive soprano” and by Opera News as a “talented, highly musical singer.”

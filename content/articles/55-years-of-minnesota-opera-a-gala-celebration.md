@@ -17,7 +17,7 @@ To kick off their 55th Anniversary season, [Minnesota Opera](/scene/companies/mi
 
 Minnesota Opera also featured their [Project Opera](http://www.mnopera.org/learn/for-kids/project-opera/). participants in a chorus from the children's opera *Odyssey* by Ben Moore. A unique initiative by the company, goes by the philosophy of "opera for kids, by kids" educates the opera singers and patrons of tomorrow. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506964263775/2017-10-02---_DSF2838-cast-Lores.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506964263775/2017-10-02---_DSF2838-cast-Lores.jpg.jpg)
 <figcaption>The artists of the Minnesota Opera's 55th Anniversary Celebration concert. Photo: CJ Standish.</figcaption>
 </figure>
 

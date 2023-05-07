@@ -26,7 +26,9 @@ Beautiful singing is being able to emote and communicate a palette of emotions s
 
 There are many, many times when a singer might sound beautiful, but if I'm not also convinced that the emotion is real, then the entire experience is lost on me. Many singers, especially younger ones, imitate sounds and colors they hear someone else using on a recording; but if they don't feel that emotion and are moved to create those colors and effects themselves, I'm not buying it for a second. When an artist makes all the beautiful sounds and I can tell the colors are evoked from a real emotion or experience, THAT is good singing!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501112491701/Eric_Barry_as_Rodolfo_in_La_boh%25C3%25A8me._Amarillo_Opera-639x960.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501112491701/Eric_Barry_as_Rodolfo_in_La_boh%25C3%25A8me._Amarillo_Opera-639x960.jpg.jpg)
 <figcaption>Eric Barry as Rodolfo in *La bohème*, Amarillo Opera. Photo courtesy of James Black Management.</figcaption>
 </figure>
 

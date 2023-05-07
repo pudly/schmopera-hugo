@@ -9,6 +9,7 @@ related_companies = ["scene/companies/oper-frankfurt.md", "scene/companies/sempe
 slug = "jane-henschel"
 title = "Jane Henschel"
 
+_template = "people_single"
 +++
 Jane Henschel was born in Wisconsin, studied at the University of Southern California and subsequently moved to Germany. 
 

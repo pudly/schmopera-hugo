@@ -45,7 +45,9 @@ Melancholic **d minor** is a shared key for the unlikely pairing of both the sed
 
 And one of the saddest: the **f minor** of Barbarina's little arietta, "L'ho perduta" from the final act of _Le nozze di Figaro_. Oftentimes it's a silly scene of "the help" having made a silly blunder; yet in this key of deep depression and longing for the grave, it's a reality check into Barbarina's potential fate (being fired from her job is really only the beginning).
 
-<figure data-type="video">{{% md %}}<iframe width="896" height="672" src="https://www.youtube.com/embed/2Og3y4hRN1g" title="Le Nozze di Figaro-L'ho Perduta...Me Meschina!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="896" height="672" src="https://www.youtube.com/embed/2Og3y4hRN1g" title="Le Nozze di Figaro-L'ho Perduta...Me Meschina!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 

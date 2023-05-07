@@ -32,7 +32,9 @@ Some of my colleagues have a good balance of traditional repertoire and new work
 
 There are so many commissions happening these days, and remounts of other modern works, that there really is a good market for singers willing to perform contemporary rep.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453306812980/Wallis-Giunta---pc---Dario-Acosta.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453306812980/Wallis-Giunta---pc---Dario-Acosta.jpg.jpg)
 <figcaption>Wallis Giunta, mezzo-soprano. Photo by Dario Acosta.</figcaption></figure>
 
 ## Why is singing new music an important "niche skill" to develop?

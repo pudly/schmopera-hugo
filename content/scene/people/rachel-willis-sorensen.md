@@ -22,6 +22,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/rachelwillissorensen/"
 
+_template = "people_single"
 +++
 American soprano Rachel Willis-Sørensen is known for her diverse repertoire ranging from Mozart to Wagner. A regular guest at the leading opera houses around the world, she has been hailed as “visually stunning” with a “silvery colored voice raging and caressing with unfaltering strength.” 
 

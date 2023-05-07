@@ -17,6 +17,7 @@ url = "https://www.facebook.com/jnaibridgesmezzo/?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jnaimarie"
+_template = "people_single"
 +++
 
 In the 2016-17 season, J’Nai will make debuts at San Francisco Opera and Bavarian State Opera as Bersi in *Andrea Chenier*, at Los Angeles Opera as Nefertiti in *Akhnaten*, and at Vancouver Opera as Sister Helen Prejean in Jake Heggie’s *Dead Man Walking*. She will additionally be featured as a soloist with the Marilyn Horne Song Celebration at Zankel Hall at Carnegie Hall; at the Festival de Torroella de Montgrí, with the NDR Symphony Orchestra in its inaugural week at the Elbphilharmonie; and in Beethoven’s Ninth Symphony at both the Farewell to Christoph Eschenbach concert with the National Symphony Orchestra at the Kennedy Center, and with The Philadelphia Orchestra at the Saratoga Performing Arts Center; and in Mahler’s Second Symphony with the Louisville Orchestra and with the Fort Wayne Philharmonic.

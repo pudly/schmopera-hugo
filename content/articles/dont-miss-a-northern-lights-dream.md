@@ -21,7 +21,9 @@ Originally, I wanted to use the same voice types that John Beckwith used in *Cer
 
 Musically, the piece is a hybrid, straddling sounds and structures that people will associate with opera and with musical theater. The degree of opera-ness and musical-ness depends on the nature of the character. The more other-worldly the character (a handmaiden to the goddess Aurora, for instance), the more operatic the sound. There is also a lot of spoken dialogue. In this sense, it has much in common with a play.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499896209895/2017-07-12---IMG_5748.jpg.jpg)<figcaption>In rehearsal for *A Northern Lights Dream*. Photo courtesy of Summer Opera Lyric Theatre.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499896209895/2017-07-12---IMG_5748.jpg.jpg)<figcaption>In rehearsal for *A Northern Lights Dream*. Photo courtesy of Summer Opera Lyric Theatre.</figcaption>
 </figure>
 
 ## How have you paired a contemporary, Canadian-set story with inspiration from Shakespeare and mythology?
@@ -36,7 +38,9 @@ I think opera, like any dramatic form, requires a story that needs to be seen an
 
 Opera, or any kind of music theatre must also have an inner emotional story that is best portrayed through music. But this could also be said of film. Music scoring for film is horribly undervalued. But it makes the art of film the closest relative to opera. Closer than plays, I would say. Most films would be as dull as dirt without the music. A brilliant film director – Hitchcock, for instance – knows its value. He may have been the most operatic of all film directors. Music can move things forward, create suspense, and let us feel in a direct way what the characters are feeling. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499896183948/2017-07-12---NorthernLightsCast.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499896183948/2017-07-12---NorthernLightsCast.jpg.jpg)
 <figcaption>The *Northern Lights Dream* team, clockwise from top left: Suzy Smith (music director & pianist), Grace Quinsey (Helen), Shaelyn Archibald (Helen), Logan Hickey (Taylor), Jenny Cohen (Mrs. Duke), Rosalind McArthur (Mrs. Duke).</figcaption>
 </figure>
 

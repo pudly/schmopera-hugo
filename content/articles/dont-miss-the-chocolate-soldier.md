@@ -16,13 +16,17 @@ title = "Don&#039;t miss: The Chocolate Soldier"
 
 Running until **April 30**, Oscar Straus' [*The Chocolate Soldier*](http://www.torontooperetta.com/shows.html) is the latest offering of beautiful tunes and charming humour from [Toronto Operetta Theatre](/scene/companies/toronto-operetta-theatre/). With lots of soul from the pit, Peter Tiefenbach leads singers and orchestra through the operetta based on the play by George Bernard Shaw, with a score full of next-door exoticism befitting of a tale set in 19th-century Bulgaria.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493240740103/2017-04-25---Chocolate-Soldier-3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493240740103/2017-04-25---Chocolate-Soldier-3.jpg.jpg)
 <figcaption>Michael Nyby as Bumerli in *The Chocolate Soldier*, Toronto Operetta Theatre, 2017. Photo by Gary Beechey.</figcaption>
 </figure>
 
 We were lucky to catch the final dress rehearsal of *The Chocolate Soldier*, a piece new to us, and cast with strong Canadian singers. [Michael Nyby](/scene/people/michael-nyby/) is a strapping Bumerli, the Swiss soldier who unapologetically finds safety in an enemy home (strictly speaking); his wry smile and cavalier stride across the stage work beautifully with his healthy baritone, which extends impressively up into tenor-dom. [Jennifer Taverner](/scene/people/jennifer-taverner/) is a sweet Nadina Popoff, the Bulgarian girl who covers for Bumerli, making adorable attempts at holding her own next to the bold Swiss visitor. Her sound is warm, even naïve, and to catch her in a lead role seems an overdue treat.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493240757394/2017-04-25---Chocolate-Soldier-4.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493240757394/2017-04-25---Chocolate-Soldier-4.jpg.jpg)
 <figcaption>Jennifer Taverner as Nadina Popoff in *The Chocolate Soldier*, Toronto Operetta Theatre, 2017. Photo by Gary Beechey.</figcaption>
 </figure>
 

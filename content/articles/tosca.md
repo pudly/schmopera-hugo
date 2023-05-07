@@ -23,7 +23,9 @@ Absolutely not. The cast and crew of Northern Lights delivered an exciting perfo
 
 First, the safety precautions: All groups in the audience were seated six feet apart (more than that in some cases) and every other row. There were cocktail tables with gallons of hand sanitizer, as if they were a vase of flowers. Only two hundred in the audience and all had masks. The string players were masked and wind instrumentalists staggered in plexiglass cubicles.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1595512050/media/2020/07/tosca-6_undp0l.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1595512050/media/2020/07/tosca-6_undp0l.jpg)
 
 <figcaption>A scene from Tosca, Northern Lights Music Festival, 2020.</figcaption>
 
@@ -33,7 +35,9 @@ The orchestra was expertly led by [Gavriel Heine](https://www.mariinsky.ru/en/co
 
 As Tosca, star soprano [Leah Crocetto](/scene/people/leah-crocetto/) as Tosca was magnificent- the vocal line of this role shows off her impressive instrument. The difficulty of Tosca is her extreme jumping around the staff and her emotional characterization - typical of Puccini's style. Even though I know the opera fairly well, her immediate and resonant access to the top of her range took me by surprise! ([Rafael Davila](https://rafael-davila.com/) sang Cavarodossi with steadiness. [Daniel Sutin](https://www.danielsutin.com/) gave Scarpia a snarling physicality, I didn't even notice the distance between him and Tosca during the climatic second act. Bravo to the three stars!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1595512062/media/2020/07/tosca-4_v15dvx.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1595512062/media/2020/07/tosca-4_v15dvx.jpg)
 
 <figcaption>A scene from Tosca, Northern Lights Music Festival, 2020.</figcaption>
 
@@ -43,7 +47,9 @@ There were two intermissions, and the cast did their best to keep up energy thro
 
 The production was directed by [Chia Patino](https://www.chiapatino.com/bioen/) and was set in modern day Venezuela. Due to the venue I think the sets were limited, but I liked the costumes Ms. Crocetto wore. Honestly the most "COVID" moment of the night was the short love duet in the final act where Cavaradossi sensually unwrapped Tosca's large scarf and they both held each end of the scarf while singing of their eternal love. Would it have satisfied the new levels of acting on the opera stage in non pandemic opera times? Probably not- but there were audible "awws" from the audience during the scene. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1595512073/media/2020/07/tosca-7_ld77fa.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1595512073/media/2020/07/tosca-7_ld77fa.jpg)
 
 <figcaption>A scene from Tosca, Northern Lights Music Festival, 2020.</figcaption>
 

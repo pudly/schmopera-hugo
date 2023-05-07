@@ -17,6 +17,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/mr.hage/"
 
+_template = "people_single"
 +++
 Lebanese-American tenor Roy Hage has performed over forty operatic roles including the Duke (_Rigoletto_), Nemorino (_L’elisir d’amore_), Alfredo (_La Traviata_), Tamino (_The Magic Flute_), Des Grieux (_Manon_), Ruggero (_La Rondine_), Judge Danforth (_The Crucible_), Jeník (_The Bartered Bride_), The Italian Singer (_Capriccio_), Chevalier de la Force (_Dialogues des Carmélites_), and the title roles in _The Tales of Hoffmann_, _Roméo et Juliette_, _The Rake's Progress_, _Candide_, _La Clemenza di Tito_, _Pelléas and Melisande_. His performances have been broadcast on US and Lebanese television and radio, and he is featured on the multi-GRAMMY® nominated recording of Jennifer Higdon’s opera _Cold Mountain_.
 

@@ -12,6 +12,7 @@ website = "http://www.thomas-glenn.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/Thomas-Glenn-193252760775193/"
+_template = "people_single"
 +++
 
 Grammy Award winning tenor, Thomas Glenn enjoys a favourable reputation as a creative interpreter of bel canto and Classical period repertoire as well as modern works.

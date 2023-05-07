@@ -13,6 +13,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/siobhanstagg"
 
+_template = "people_single"
 +++
 Siobhan Stagg is one of the most outstanding young artists to emerge from Australia in recent years. Christa Ludwig has described Siobhan’s voice as “one of the most beautiful I’ve ever heard.”
 

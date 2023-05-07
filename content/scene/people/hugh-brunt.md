@@ -13,6 +13,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/hughbrunt"
 
+_template = "people_single"
 +++
 “The furious panache of the LCO’s performance, expertly channelled by the conductor Hugh Brunt, was overwhelming” - *The Times*
 

@@ -23,6 +23,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/andreacnunez"
 
+_template = "people_single"
 +++
 Praised for her "blinding brilliance," Canadian Soprano **Andrea Núñez** is establishing herself as a versatile young artist.
 

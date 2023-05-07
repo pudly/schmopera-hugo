@@ -19,7 +19,9 @@ Esprit is Canada's only full-sized orchestra dedicated to performing new and exi
 
 The condensed Esprit Orchestra brought to the stage mezzo-soprano - and fellow Canadian/contemporary music champ - [Krisztina Szabó](/scene/people/krisztina-szabo/), for Luciano Berio's *Folk Songs* (1964). The song cycle is a bit of a misnomer, since two of the "folk songs" are written by Berio himself, and two more are by "Dean of Balladeers" [John Jacob Niles](https://en.wikipedia.org/wiki/John_Jacob_Niles). But false advertising aside, the songs still manage to pull that folk-song nostalgia out of an audience. Berio's settings are brittle, fragmented orchestrations of familiar tunes, impossible to place in a specific time or place. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507145674982/2017-10-04---RBA.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507145674982/2017-10-04---RBA.jpg.jpg)
 <figcaption>Members of the Esprit Orchestra conducted by Alex Pauk and Krisztina Szabó, mezzo-soprano, in the Richard Bradshaw Amphitheatre. Photo by Kevin Lloyd.</figcaption>
 </figure>
 

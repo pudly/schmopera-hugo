@@ -16,7 +16,7 @@ Roderick is on the brink when he writes to his friend William, pleading with him
 
 Richard Kessler, Dean of the Mannes School of Music and Executive Dean of the College of Performing Arts at the New School in New York City, which produced the work, considers _Usher_ "the sort of groundbreaking work that signals the direction in which the field of opera is headed." Thus this production of the seldom performed Glass work with a sharply honed libretto by Arthur Yorkins is as much a teaching tool to prepare students for opera's new world as it is a compelling, sophisticated and most welcome production.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546195967/media/2018/12/Young-RM.jpg)<figcaption>© Matthew Septimus, Courtesy of The New School.</figcaption> </figure>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1546195967/media/2018/12/Young-RM.jpg)<figcaption>© Matthew Septimus, Courtesy of The New School.</figcaption> </figure>
 
 _Usher_ follows the school's acclaimed 2017 production of Robert Ashley's _Dust_. Kessler and his associates are obviously champions of non-traditional operas, especially those that can be effectively produced in the confines of Stiefel Concert Hall a nicely equipped box that seats 50, give or take.
 
@@ -30,7 +30,7 @@ To maximize performance opportunities and resist vocal strain during five perfor
 
 Unique to this production were the silent roles of young Roderick and Madeline dressed in white nightshirts and a somber Edgar Allan Poe. The young brother and sister played by Gabriel Torres and Payton Grgurovic provided ghostly context as they evoked happier if far from normal days. Mr. Poe, serving as a silent host and occasional scenery changer, was played with appropriate formality by Troy Hourie, the opera's director and digital scenographer.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518211629442/Madeline_William.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518211629442/Madeline_William.jpg.jpg)
 <figcaption>© Matthew Septimus, Courtesy of The New School.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Madeline is barely seen or heard in Poe's story. But the opera brings her, relat
 
 Mr. Hourie directed with a terse and foreboding air that dispelled any memories of the films. The sleek and minimal set, comprised of skeletal architectural elements and lace curtains facilitated the action. As scenographer Hourie filled picture frames suggesting decaying ancestral portraits with video of flames, ghosts and all manner of frightening imagery. Particularly effective was the moment when Roderick and young Roderick thrashed about with a picture frame. The frame housed a video camera that captured their images within the frame itself. Mr. Hourie should note that even the most artfully executed digital images can be thwarted by sightlines and furniture when the audience is arranged in a U-shape.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518211638666/Cast_Orchestra.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518211638666/Cast_Orchestra.jpg.jpg)
 <figcaption>© Matthew Septimus, Courtesy of The New School.</figcaption>
 </figure>
 

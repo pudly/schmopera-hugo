@@ -16,7 +16,9 @@ Ahead of its 23rd season, [SongFest](http://www.songfest.us/) announces a new co
 
 For the 2018 festival (May 12-June 3), a handful of SongFest singers will have the chance to work with artists and coaches from LA Opera for an additional week of intensive work on opera (June 4-10), participating in rehearsals, performances, and masterclasses. Costs for tuition, housing, and meals are covered for the three weeks of the festival, as are tuition and housing for the additional opera week.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519742492406/SF_LAOpera_collaboration_FINAL.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519742492406/SF_LAOpera_collaboration_FINAL.jpg.jpg)
 </figure>
 
 It's an exciting step for the program, which focuses on the interpretation of art song. SongFest is a place where voice lessons, coachings, and studio work between pianist and singer are distilled into the performing of song repertoire - a refreshing bit of clarity in the craft of communicating music and text to an audience.

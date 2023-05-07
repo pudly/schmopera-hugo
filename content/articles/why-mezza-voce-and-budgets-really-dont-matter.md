@@ -29,7 +29,9 @@ And for those of us that aren't doing fine… it's not easy. It's really difficu
 
 **Consider this massive oversimplification of my job as an opera singer:**
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480443323144/2016-11-29---Opera-Oversimplification.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480443323144/2016-11-29---Opera-Oversimplification.jpg.jpg)
 </figure>
  
 When I'm singing my main goal is to communicate an awesome idea or emotion to another person.
@@ -46,7 +48,9 @@ So I run to the practise room and obsess about *mezza voce* for the next 6 month
 
 The problem is that the tool doesn't matter on its own. If it's not helping my overall purpose of communicating an awesome idea… it's kind of useless.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480443395040/2016-11-29---Opera-Oversimplification-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480443395040/2016-11-29---Opera-Oversimplification-2.jpg.jpg)
 </figure>
 
 And let’s be honest. I’m oversimplifying the purpose of opera by saying it's "just communicating an awesome idea." It makes it sound like something simple…
@@ -63,12 +67,16 @@ Money is one of the tools that helps you do that.
 
 The challenge is to connect your money with your values to create a life that you’re happy with.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480443463317/2016-11-29---Money-Oversimplification.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480443463317/2016-11-29---Money-Oversimplification.jpg.jpg)
 </figure>
 
 Now, you might need some tools to help you with that…
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480443509474/2016-11-29---Money-Oversimplification-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480443509474/2016-11-29---Money-Oversimplification-2.jpg.jpg)
 </figure>
 
 But that basic goal is what matters. Not financial planning, not budgets, not any tool or ideology at all.
@@ -77,7 +85,9 @@ There are a million ways to communicate an awesome idea. I sing opera. Maybe you
 
 There are also a million ways to make peace with money. I use financial planning and teach it to others, but that doesn't mean it's the right tool for you.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480444113670/2016-11-29---Budgets-don't-matter-facebook.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480444113670/2016-11-29---Budgets-don't-matter-facebook.jpg.jpg)
 </figure>
 
 If you want to learn more about how financial planning, personal finance, and getting control of your money can help you be a better artist, visit [Rags to Reasonable](http://www.ragstoreasonable.com/) for free resources, DIY tools, and one-on-one advice for artists (by artists).

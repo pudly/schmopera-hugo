@@ -23,7 +23,9 @@ youtube_url = ""
 
 "This is my first time in San Diego, my first time working with Matthew and my first time with [Nicole](/talking-with-singers-nicole-cabell/), though I've admired Nicole for a long time from a distance. She has an incredible sound and an incredible voice. I'm very much looking forward to working with her."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647735613/media/2022/03/SDO_PenePati_rehearsal_ifplob.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1647735613/media/2022/03/SDO_PenePati_rehearsal_ifplob.jpg)
 
 <figcaption>Pene Pati in rehearsal for Roméo et Juliette with San Diego Opera, 2022. Photo courtesy of San Diego Opera.</figcaption>  
 </figure>
@@ -46,7 +48,9 @@ youtube_url = ""
 
 "I sing for my dad and for my mom. I like having the feeling that I can bring a poster home from the Wiener Staatsoper or from the Met or from the San Francisco Opera and it has his name on it rather than mine. I feel like it's a good tribute to the man who’s raised me. I also sing for my island of Samoa and I sing for the Pacific people who don't really have this opportunity."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647735766/media/2022/03/PenePati_SimonFowlerParlophone_a4vok1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1647735766/media/2022/03/PenePati_SimonFowlerParlophone_a4vok1.jpg)
 
 <figcaption>Tenor Pene Pati. Photo: Simon Fowler and Parlophone Records Ltd.</figcaption>  
 </figure>
@@ -79,7 +83,9 @@ youtube_url = ""
 
 "I both support the Metropolitan Opera and at the same time, I feel it's unfair to the artists.  I just hope that one day we can just do arts and let art be that.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647735859/media/2022/03/PenePati_SimonFowlerParlophone_2_alpqbh.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1647735859/media/2022/03/PenePati_SimonFowlerParlophone_2_alpqbh.jpg)
 
 <figcaption>Tenor Pene Pati. Photo: Simon Fowler and Parlophone Records Ltd.</figcaption>  
 </figure>

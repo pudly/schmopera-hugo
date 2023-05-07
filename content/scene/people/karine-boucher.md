@@ -15,6 +15,7 @@ url = "https://www.facebook.com/pages/Karine-Boucher-Soprano/532944260052742"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/BoucherKarine"
+_template = "people_single"
 +++
 
 <p>

@@ -15,6 +15,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/lukakawabata/"
 
+_template = "people_single"
 +++
 Nikkei-Canadian baritone, Luka Kawabata is a current participant in the **Yulanda M Faris Young Artist Program** with Vancouver Opera. Last season, he appeared as Bill Bobstay in Gilbert and Sullivan’s _HMS Pinafore_ and in Vancouver Opera’s digital season as Dmitri in Wargo’s _The Music Shop_ and as Escamillo in Bizet’s _Carmen: Up Close and Personal_. He is a graduate of the Digital Emerging Artist Program with **Manitoba Opera** and a former fellow in **The Association of Opera in Canada**’s ‘RBC Fellowship’.
 

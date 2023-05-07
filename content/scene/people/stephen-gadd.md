@@ -12,6 +12,7 @@ website = "http://stephengadd.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/_Stephen_Gadd"
+_template = "people_single"
 +++
 
 English baritone Stephen Gadd won the Kathleen Ferrier Memorial Scholarship, and was a finalist in the inaugural Plácido Domingo Operalia Competition. A boy chorister at Coventry Cathedral, he was a choral scholar at St John’s College, Cambridge, and studied singing at the Royal Northern College of Music.

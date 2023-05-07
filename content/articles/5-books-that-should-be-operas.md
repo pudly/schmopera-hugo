@@ -21,7 +21,7 @@ William Golding's 1954 novel was a staple of high school English class, a commen
 
 One of the cornerstone stories of my childhood, Roald Dahl's 1982 children's book, *The BFG* (short for Big Friendly Giant), would make a beautiful opera for audiences of all ages. Perhaps the next great soubrette role could be Sophie, the little orphaned girl who gets plucked out of her bed one night by the BFG (but also rescued from the mean lady at the orphanage, Mrs. Clonkers). The Giant himself could be a glorious bass, a little like the title character in Massenet's *Don Quichotte*. There are mean giants, too; the Bloodbottler and the Fleshlumpeater are potentially the Fasolt and Fafner of the 21st century. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452909206980/2016-01-16---BFG.jpg.jpg)<figcaption>Illustration by Quentin Blake, from Roald Dahl's *The BFG*.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452909206980/2016-01-16---BFG.jpg.jpg)<figcaption>Illustration by Quentin Blake, from Roald Dahl's *The BFG*.</figcaption>
 </figure>
 
 ## *American Psycho*

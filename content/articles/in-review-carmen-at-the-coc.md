@@ -22,7 +22,9 @@ This time we see a production staged by Toronto indie opera darling, and directo
 
 Also Act IV. Best. Treatment. Ever. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462465319307/2016-05-06---Rachvelishvili-as-Carmen-Coulombe-as-Zuniga-Photo-by-Michael-Cooper.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462465319307/2016-05-06---Rachvelishvili-as-Carmen-Coulombe-as-Zuniga-Photo-by-Michael-Cooper.jpg.jpg)
 <figcaption>Anita Rachvelishvili as Carmen (centre) as Alain Coulombe as Zuniga looks on (at left) in the Canadian Opera Company production of *Carmen*, 2016, photo: Michael Cooper.
 </figcaption>
 </figure>
@@ -33,7 +35,9 @@ What a current run it is for the women performing at the Canadian Opera Company 
 
 Tenor [Russell Thomas](/scene/people/russell-thomas/) was the perfect vocal fit for Bizet's Don José.  Acting-wise, I did feel him a little stiff next to Rachvelishvili's Carmen, but to be fair, that's a tough game to match. Vocally superb, his "La fleur" was the best I've ever heard in real life. He did relax more into Don José and showed us more of his insecurity through his relationship with his mother which is brought to the fore any time Micaëla shows up. This momma's-boy complex distorting his view on how he sees and treats women - an unfortunate, yet totally relevant topic in today's discourse. The whole time this very subtle and nuanced performance we were enveloped by this thick, strong lyric tenor sound. It may at times have hindered his connections dramatically onstage, but his Act IV performance more than makes up for it. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462465334986/2016-05-06---Osborne-as-Micaela-Thomas-as-Jose---Photo-by-Michael-Cooper.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462465334986/2016-05-06---Osborne-as-Micaela-Thomas-as-Jose---Photo-by-Michael-Cooper.jpg.jpg)
 <figcaption>Simone Osborne as Micaëla and Russell Thomas as Don José in the Canadian Opera Company production of *Carmen*, 2016, photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -41,7 +45,9 @@ COC darling and favourite [Simone Osborne](/talking-with-singers-simone-osborne/
 
 [Christian van Horn](/talking-with-singers-christian-van-horn/)'s Escamillo is every bit the strut-and-puff toreador we want him to be. Tall and lean and dreamy, he snakes through the chorus during his fabulous delivery of the couplets "Votre toast". His sound was rich and smooth and didn't lose focus as he went up over the top of his range - which is a pitfall for a lot of bass-baritones. This Escamillo drives the women wild - and some of the men - but I found him to be a little staid. I felt a little more freedom of movement in his physicality would add even another level of charisma, there was a hint of stand and deliver there, which is fine for a lot of roles, but I don't think it's a strong choice for Escamillo; it showed during the knife fight with Thomas's José. The singing of that duet, however, was one of the highlights of my night. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462465346275/2016-05-06---Van-Horn-as-Escamillo-Burrage-as-Mercedes-Djihanian-as-Frasquita---photo-by-Michael-Cooper.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462465346275/2016-05-06---Van-Horn-as-Escamillo-Burrage-as-Mercedes-Djihanian-as-Frasquita---photo-by-Michael-Cooper.jpg.jpg)
 <figcaption>Christian Van Horn as Escamillo (centre) and Sasha Djihanian as Frasquita (right, at table) in the Canadian Opera Company production of *Carmen*, 2016, photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -49,7 +55,9 @@ Supporting Rachvelishvili in her domination of men were the lovely [Sasha Djihan
 
 For a show about a woman, this cast sure has a lot of dudes. As Moralès [Peter Barrett](/scene/people/peter-barrett/) was excellent. His voice the perfect colour to blend with the male chorus and to stand out in front of it. His ability to alternate between the two was fantastic. As the older Zuniga, bass [Alain Coulombe](/scene/people/alain-coulombe/) was delightful. Smarmy and dangerous, he's all we could ask for and more. The "gypsy" smugglers Dancaïre and Remendado were ably played by [Iain MacNeil](/scene/people/iain-macneil/) and [Jean-Philippe Fortier-Lazure](/scene/people/jean-philippe-fortier-lazure/) respectively (both of the Canadian Opera Company Ensemble Studio). The two had great chemistry together and along with Rachvelishvili comfortably married the danger of their profession with the fun of their spirits. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462465358433/2016-05-06---Burrage-as-Mercedes-MacNeil-as-Dancaire-Rachvelishvili-as-Carmen-Fortier-Lazure-as-Remendado-Djihanian-as-Frasquita---Photo-by-Michael-Cooper.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462465358433/2016-05-06---Burrage-as-Mercedes-MacNeil-as-Dancaire-Rachvelishvili-as-Carmen-Fortier-Lazure-as-Remendado-Djihanian-as-Frasquita---Photo-by-Michael-Cooper.jpg.jpg)
 <figcaption>(l-r): Charlotte Burrage (Mercédès), Iain MacNeil (Dancaïre), Anita Rachvelishvili (Carmen), Jean-Philippe Fortier-Lazure (Remendado), Sasha Dhijanian (Frasquita) in the Canadian Opera Company production of *Carmen*, 2016, photo: Michael Cooper.</figcaption>
 </figure>
 

@@ -20,6 +20,7 @@ url = "https://twitter.com/NYFOS_tweet"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/nyfostv"
+_template = "company_single"
 +++
 
 ### Our Vision

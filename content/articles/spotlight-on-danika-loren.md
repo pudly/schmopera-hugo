@@ -25,7 +25,9 @@ More specifically, I love the constant physical and intellectual challenges that
 
 I understand the big picture of singing as a balancing act of different kinds of counterpoint. Physically it is a balance of tension and release, for the ego it is a balance between leading and listening, and for the mind it is between over-thinking and complete emotional abandonment. Backstage it's a balance between absolute confidence and complete anxiety. It's a real mind-f@#$, but when you get a taste of that balance it is absolutely exhilarating.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500758120592/2017-07-22---DanikaLoren.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500758120592/2017-07-22---DanikaLoren.jpg.jpg)
 <figcaption>Danika Lorèn, soprano.</figcaption>
 </figure>
 
@@ -39,7 +41,9 @@ One thing we have to give up as artists is the ability to control our own schedu
 
 Realistically, I would love to be Cleopatra (Handel, Massenet, Barber...anyone really). She is so fascinatingly powerful. Leaving reality, I would love to get inside Eugene Onegin's head, or Pagliacci's. Really, there are few roles I wouldn’t enjoy playing. I also go crazy for "Dich, teure Halle" from *Tannhäuser* anytime I hear it. And of course after watching [Christine Georke](/talking-with-singers-christine-goerke/)'s Immolation Scene [in [*Gotterdämmerung* at the COC](/in-review-gotterdammerung-at-the-coc/)] night after night this past season I've had fiery dreams of greatness, but she seems to have that scene on lock so I'll just keep dreaming.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500758163015/2017-07-22---Ensemble-BS-9287.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500758163015/2017-07-22---Ensemble-BS-9287.jpg.jpg)
 <figcaption>(l-r) Mezzo-soprano [Lauren Eberwein](/scene/people/lauren-eberwein/), soprano Danika Lorèn and tenor [Charles Sy](/scene/people/charles-sy/) perform in the Canadian Opera Company's *An Evening with the Ensemble Studio* on February 23, 2017, with the COC Orchestra conducted by COC Music Director Johannes Debus. Photo: Bronwen Sharp.</figcaption>
 </figure>
 

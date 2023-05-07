@@ -10,6 +10,7 @@ slug = "sonya-headlam"
 title = "Sonya Headlam"
 website = "http://www.sonyaheadlam.com/"
 
+_template = "people_single"
 +++
 Soprano, Sonya Headlam is a passionate and dynamic performer and vocal artist. Her career has taken her all over the world, from South America, the Caribbean, Europe and Asia, and she remains active in the NY/NJ area as a performer of vocal recitals, chamber music, oratorio, and operatic repertoire. She has been lauded for her beautiful sound and a special ability to connect with her audience.
 

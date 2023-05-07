@@ -14,6 +14,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/johannesdebuscoc"
 
+_template = "people_single"
 +++
 Johannes Debus has been Music Director of the Canadian Opera Company (COC) since 2009, having been appointed immediately following his debut.  
 

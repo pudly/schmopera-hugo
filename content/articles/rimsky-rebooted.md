@@ -23,7 +23,9 @@ At this point, it almost goes without saying: for arts organizations around the 
 
 In a recent Zoom conversation, Yankovskaya's pride and enthusiasm in the COT administrative and artistic staff was evident from the start. She praised their collective grit, acknowledging that their upcoming digital release, [_Rimsky Rebooted_](https://chicagooperatheater.org/season/rebooted) represents not just a "Plan B" pivot from live performance, but is rather a "5th or maybe 7th reimagining" of what they hoped to originally present to Chicago audiences. Capitalizing on star talents living locally, mezzo-soprano [Annie Rosen](/scene/people/annie-rosen/), baritone [Will Liverman](/scene/people/will-liverman/), and bass Wilbur Pauley, and partnering with [Valhalla Media](https://www.valhallamedia.io/), a new company specializing in recording and livestreaming classical musicians, _Rimsky Rebooted_ features lengthy excerpts from Rimsky-Korsakov’s _Kashchej the Immortal_ and Debussy’s _Pelléas et Mélisande_ along with Russian arias and songs. In addition to being the project’s Music Director, Yankovskaya will share pianist duties with another local artist, [Michael Pecak](/authors/michael-pecak/) and the project will be filmed (with safety measures in place) at North Shore Center for the Performing Arts.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1605639404/media/2020/11/WillLiverman_creditJaclynSimpson_tzvq3a.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1605639404/media/2020/11/WillLiverman_creditJaclynSimpson_tzvq3a.jpg)
 
 <figcaption>Baritone Will Liverman, singing in Chicago Opera Theater's Rimsky Rebooted. Photo: Jaclyn Simpson.</figcaption>
 
@@ -31,7 +33,9 @@ In a recent Zoom conversation, Yankovskaya's pride and enthusiasm in the COT adm
 
 Yankovskaya is a passionate advocate for Russian operatic masterworks that have historically been under-appreciated in the West. _Rimsky Rebooted_ is the continuation of a seasons-long project to bring infrequently-performed Russian gems to the COT stage, (following _Aleko_ in 2019 and _Iolanta_ in 2018.) Like those two works, Kaschej the Immortal is also a one-act opera with its roots in Russian folklore. In _Rebooted_, audiences will hear the full second scene of the opera sung by Rosen (Kascheyevna) and Liverman (Prince Ivan). The scene is the first meeting of Kascheyevna, (the Sorcerer Kaschej's daughter), and Prince Ivan. Defying Kaschej’s command, Kascheyevna refuses to behead the beautiful Prince, setting in motion a chain of events that will ultimately lead to her own father's downfall.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1605639458/media/2020/11/AnnieRosen_creditSimonPauley_be8jzs.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1605639458/media/2020/11/AnnieRosen_creditSimonPauley_be8jzs.jpg)
 
 <figcaption>Mezzo-soprano Annie Rosen, singing in Chicago Opera Theater's Rimsky Rebooted. Photo: Simon Pauley.</figcaption>
 

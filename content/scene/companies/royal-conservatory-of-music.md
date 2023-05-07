@@ -12,6 +12,7 @@ website = "http://www.rcmusic.ca/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/the_rcm"
+_template = "company_single"
 +++
 
 <p>

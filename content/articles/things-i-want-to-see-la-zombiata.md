@@ -27,5 +27,7 @@ And if you think a zombie opera is a cool idea, you can help them out by contrib
 
 To get details and ticket info for *La Zombiata*, follow the box office links below. WholeTone Opera, we're sorry to miss this one.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454338873725/5472981_orig.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454338873725/5472981_orig.jpg.jpg)
 </figure>

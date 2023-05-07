@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Lawrence-Wiliford-Tenor/132678876777733"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/LWiliford"
+_template = "people_single"
 +++
 
 <p>

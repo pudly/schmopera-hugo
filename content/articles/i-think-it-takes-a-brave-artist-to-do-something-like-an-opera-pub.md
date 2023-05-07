@@ -18,7 +18,9 @@ title = "&quot;I think it takes a brave artist to do something like an Opera Pub
 
 As a performer, making sure my audience is connected to what I'm doing, especially when they're sitting miles away from me, has always plagued me. Opera Pub nights are so intimate that people feel free to cheer and holler in the midst of an aria rather than sitting politely and waiting until the end to applaud. Hosting the event means I get to show a different side of me other than just being just the piano guy. A beauty of the Opera Pub is that I feel so connected to the audience, which is sitting three feet away from me, or sometimes even on stage because there's just nowhere left to sit! It’s a rock concert atmosphere but we're rocking out with Mozart, Verdi, and Wagner.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506008962324/2017-09-21---Eliakis-Opera-Pub-Block.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506008962324/2017-09-21---Eliakis-Opera-Pub-Block.jpg.jpg)
 <figcaption>David Eliakis at an AtG Opera Pub. Photo: Darryl Block.</figcaption>
 </figure>
 
@@ -35,7 +37,9 @@ I sound like a broken record but…the audience! There's nothing that compares t
 
 That's the magic of music – total strangers getting together and sharing a moment that never existed until that first note. I think it takes a brave artist to do something like an Opera Pub, because it is so vulnerable in so many ways, but it's also incredibly fulfilling.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506008975270/2017-09-21---David-Eliakis.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506008975270/2017-09-21---David-Eliakis.jpg.jpg)
 <figcaption>David Eliakis, pianist.</figcaption>
 </figure>
 

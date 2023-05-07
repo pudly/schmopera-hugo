@@ -25,7 +25,9 @@ youtube_url = ""
 
 **LM:** Well, video is a large part of it. I mean, there's sort of two sides of it. One is that I think this opera, although it is a magic opera, that the magic isn't the central focus of it. It feels like the magic is always sort of really in support of story or sort of emotionally driven, so rather than making it about sort of special effects or about stage machinery, there's something that's really wonderful about creating this immersive world, which when all the lights are out and the video screens are really on, it feels like you're sort of in it. And then I think that aspect of the sort of emotional drive of the magic then makes more sense.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650905285/media/2022/04/AmadigidiGaula_PhotoCreditGBHProductionGroup_k0cywb.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1650905285/media/2022/04/AmadigidiGaula_PhotoCreditGBHProductionGroup_k0cywb.jpg)
 
 <figcaption>Anthony Roth Costanzo (front, centre) in the title role of Boston Baroque's Amadigi di Gaula, 2022. Photo: GBH Production Group.</figcaption>
 
@@ -55,7 +57,9 @@ youtube_url = ""
 
 **LM:** Yeah, exactly.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650905499/media/2022/04/AmandaForsythe_DanielaMack_AnthonyRothCostanzo_PhotoCreditGBHProductionGroup_bphins.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1650905499/media/2022/04/AmandaForsythe_DanielaMack_AnthonyRothCostanzo_PhotoCreditGBHProductionGroup_bphins.jpg)
 
 <figcaption>(l-r) Daniela Mack as Dardano, Anthony Roth Costanzo as Amadigi, and Amanda Forsythe as Melissa in Boston Baroque's Amadigi di Gaula, 2022. Photo: GBH Production Group.</figcaption>
 
@@ -73,7 +77,9 @@ youtube_url = ""
 
 **LM:** Well, of course! We wouldn't want to disappoint. And some really great ones, you know?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650905602/media/2022/04/CamilleOrtizasOriana_PhotoCreditGBHProductionGroup_mung4a.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1650905602/media/2022/04/CamilleOrtizasOriana_PhotoCreditGBHProductionGroup_mung4a.jpg)
 
 <figcaption>Camille Ortiz as Oriana in Boston Baroque's Amadigi di Gaula, 2022. Photo: GBH Production Group.</figcaption>
 
@@ -91,7 +97,9 @@ youtube_url = ""
 
 **LM:** It's interesting because this is my first Handel opera. Certainly, I've seen plenty of Handel stagings that have a ton of business and that that's how you sort of fill every moment, and that's how you get through the _da capo_ arias. I think the way that I've approached it has been a little bit more of thinking about time expanding and thinking about the things that happen, not happening in real time, so that we take and use _da capo_ arias, we just take a real dive into people's emotional states.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1650905732/media/2022/04/DanielaMackasDardano_PhotoCreditGBHProductionGroup_hhiyb2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1650905732/media/2022/04/DanielaMackasDardano_PhotoCreditGBHProductionGroup_hhiyb2.jpg)
 
 <figcaption>Daniela Mack as Dardano in Boston Baroque's Amadigi di Gaula, 2022. Photo: GBH Production Group.</figcaption>
 

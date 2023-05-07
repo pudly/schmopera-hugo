@@ -15,6 +15,7 @@ url = "https://www.facebook.com/jennifer.condon.7"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/sapphotheopera"
+_template = "people_single"
 +++
 
 From attending her first Opera Australia performance at the age of six, Australian Jennifer Condon was determined to live in the world of opera. By the age 11 she had set her sights on becoming an opera conductor.

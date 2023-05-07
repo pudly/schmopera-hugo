@@ -12,6 +12,7 @@ title = "Johannes Weisser"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/weisserjohannes"
+_template = "people_single"
 +++
 
 Johannes Weisser was born in 1980 in Norway. He studied at the Music Conservatory in Copenhagen and at the Royal Danish Academy of Opera in Copenhagen with Susanna Eken.

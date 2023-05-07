@@ -24,7 +24,9 @@ He calls them the "best lessons I have had in my entire career", those opportuni
 
 He also learned an all-too-simple lesson that often gets overshadowed by the minutia of mastering good vocal technique: the simple care and attention to singing clear text. "He said, 'listen, Saimir, if people understand you, they will listen to you with more pleasure.'" Pirgu agrees that singers can almost forget their audience, who don't necessarily understand - or care about - the "minimal problems" that singers deal with daily. "We forget that we have a big and huge role that needs interpretation."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490358730447/2017-03-24---With-Placido-Domingo---Traviata---Metropolitan-Opera-New-York---Photo-Ken-Howard.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490358730447/2017-03-24---With-Placido-Domingo---Traviata---Metropolitan-Opera-New-York---Photo-Ken-Howard.jpg.jpg)
 <figcaption>Saimir Pirgu with Plácido Domingo in *La traviata*, Metropolitan Opera. Photo by Ken Howard.</figcaption>
 </figure>
 
@@ -40,7 +42,9 @@ Pirgu debuted at the Vienna State Opera in 2004, singing Ferrando in *Così fan 
 
 "I am quite happy that still, with all the roles I have, I can sing Mozart," says Pirgu. "It helps a lot, for anyone, not just young singers. To sing a bit of Mozart will serve their career in longevity."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490358677882/2017-03-24---With-Angela-Gheorghiu-Gheorghiu---Boheme---Liceu-barcelona.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490358677882/2017-03-24---With-Angela-Gheorghiu-Gheorghiu---Boheme---Liceu-barcelona.jpg.jpg)
 <figcaption>Saimir Pirgu with Angela Gheorghiu in *La bohème*, Gran Teatre del Liceu.</figcaption>
 </figure>
 
@@ -52,7 +56,9 @@ When many young singers are encouraged to be safe and calculated with their earl
 
 Though the risks are low in practicing one's craft within school or young artist productions, Pirgu feels that the benefits are equally low. "From nothing, comes nothing," he says. "That's what I learned in those years. I did things when I was not supposed to do it." In a way, he misses the carefree approach he had towards singing in these early years. "It was beautiful. Just go straight away and sing. Now, I think too much."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490275376331/2017-03-23---SAIMIR_PIRGU-Paul-Scala.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490275376331/2017-03-23---SAIMIR_PIRGU-Paul-Scala.jpg.jpg)
 <figcaption>Saimir Pirgu, tenor. Photo by Paul Scala.</figcaption>
 </figure>
 

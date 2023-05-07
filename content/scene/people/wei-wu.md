@@ -13,6 +13,7 @@ website = "http://www.weiwubass.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/wu.wei.52056?viewer_id=647600890"
+_template = "people_single"
 +++
 
 A native of China, bass Wei Wu recently made his company debut with the Santa Fe Opera, as Kobun in the world premiere production of *The (R)evolution of Steve Jobs*. Upcoming engagements this season include a return to Washington National Opera, singing Don Basilio in *Il barbiere di Siviglia*, and he joins the West Virginia Symphony in concert for Verdi’s *Requiem*.

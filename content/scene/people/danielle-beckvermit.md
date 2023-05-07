@@ -12,6 +12,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/daniellebeckvermitsoprano/"
 
+_template = "people_single"
 +++
 Soprano Danielle Beckvermit, praised for her “Crackling energy... and silky high notes.” (Schmopera) made her Mainstage Carnegie Hall debut as the Soprano Soloist in Mozart’s Requiem with the Cecilia Chorus of New York and was a Grand Finalist in the Metropolitan Opera National Council Auditions in 2018. Danielle has been recognized by several other major competitions including being a Finalist in the Lotte Lenya Competiton (2019) Finalist in The Jesnsen Foundation Competition (2018) and Award winner in The George London Foundation Competition (2017). She was First prize winner in The Classical Singer Competition (2017) and The Civic Morning Musicals Competition (2017). 
 

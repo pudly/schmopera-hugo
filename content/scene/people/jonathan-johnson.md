@@ -15,6 +15,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/jonathanjohnsontenor/"
 
+_template = "people_single"
 +++
 This season, American tenor Jonathan Johnson makes his debut in the title role of Candide with the Seoul Philharmonic Orchestra, Utah Symphony Orchestra, and Des Moines Metro Opera and returns to the Lyric Opera of Chicago as Lurcanio in _Ariodante_. He also returns to Jacksonville Symphony as Don Ottavio in _Don Giovanni_ and as the tenor soloist in Messiah, which he also performs with Kansas City Symphony Orchestra.
 

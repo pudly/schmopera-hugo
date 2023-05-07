@@ -17,6 +17,7 @@ url = "https://www.facebook.com/lucapisaroni?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/lucapisaroni"
+_template = "people_single"
 +++
 
 Italian bass-baritone Luca Pisaroni has established himself as one of the most captivating and versatile singers performing today. Since his debut at age 26 with the Vienna Philharmonic at the Salzburg Festival, led by Nikolaus Harnoncourt, Mr. Pisaroni has performed at many of the world’s leading opera houses, concert halls and festivals.

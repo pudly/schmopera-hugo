@@ -28,7 +28,9 @@ Good singing on stage doesn't mean perfect technique to me. It's about letting y
 
 To me it feels like riding your bike down a big hill. Maybe a little careful at first, ride the brakes till you get a feel for things, but then let yourself gain speed and roll down. Sometimes you coast smoothly to the end, sometimes you fall and get a little scraped up. Either way it's exciting. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496065442866/2017-05-29---Scott---Titorelli.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496065442866/2017-05-29---Scott---Titorelli.jpg.jpg)
 <figcaption>Michael Scott as Titorelli in Philip Glass' *The Trial*.</figcaption>
 </figure>
 

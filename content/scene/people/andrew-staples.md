@@ -21,6 +21,7 @@ url = "https://twitter.com/AJRStaples"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/ajrstaples/"
+_template = "people_single"
 +++
 
 Andrew Staples sang as a chorister in St Paul’s Cathedral before winning a Choral Scholarship to King’s College Cambridge, where he gained a degree in Music.  Andrew was the first recipient of the RCM Peter Pears Scholarship, sponsored by the Britten Pears Foundation, at the Royal College of Music and subsequently joined the Benjamin Britten International Opera School.  He studies with Ryland Davies.

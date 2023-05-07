@@ -8,6 +8,7 @@ related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/th
 slug = "craig-verm"
 title = "Craig Verm"
 website = "http://www.craigverm.com/no_flash.php"
+_template = "people_single"
 +++
 
 Praised for his “arrestingly vibrant” and “robust” baritone, Craig Verm has brought his riveting dramatic portrayals to stages around the world. Most recently, he received high praise for his performances of the title role in *Billy Budd* for Des Moines Metro Opera. John van Rhein of the Chicago Tribune said, “The strong baritone voice, strapping physique and winning stage presence of Craig Verm created a sympathetic Billy” and Opera Today said Verm “was every moment the star vocal and theatrical presence that galvanized the performance.” In the 2017-2018 season, Verm joins Opera Philadelphia for their inaugural festival, O17. For the festival, he revisits *War Stories*, a double-bill of Monteverdi’s *Il combattimento di Tancredi* and Lembit Beecher’s *I Have No Stories To Tell You*, a production he premiered in New York City with Gotham Chamber Opera. He also returns to Seattle Opera as Guglielmo in *Così fan tutte* and Claudio in *Beatrice et Benedict*. He also revisits the role of Doug Hansen in *Everest* for his company debut with Lyric Opera of Kansas City. In the summer of 2018, he returns to The Santa Fe Opera as Haly in *The Italian Girl in Algiers*.

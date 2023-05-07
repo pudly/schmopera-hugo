@@ -27,7 +27,9 @@ It's all stuff that, maybe for the most hardcore cinephile and _Star Wars_ lunat
 
 It was refreshing to note the differences in this crowd from the usual audience that attends the TSO's mainstage symphonic fare. There were a few costumes floating around the lobby - Darth Vader, a small wookiee, a nondescript Jedi - and there was a general air of fun. Conductor Sarah Hicks, whose résumé of Pops concerts is enormous and includes regular spots at the Hollywood Bowl and concerts with Smokey Robinson, appeared onstage holding a green lightsaber, "The best Amazon purchase I have ever made."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548618581/media/2019/01/SarahHicks1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1548618581/media/2019/01/SarahHicks1.jpg)
 
 <figcaption>Sarah Hicks, conductor.</figcaption>
 

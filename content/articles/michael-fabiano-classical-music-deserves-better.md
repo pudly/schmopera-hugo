@@ -29,7 +29,9 @@ Manual entry of data into music platforms like iTunes is costly and time consumi
 
 A recommendation from key artists adds to the value proposition of classical arts and can quickly generate traction and traffic in one direction to a particular album or recording.  Otherwise, fans will have a hard time locating exactly what they are trying to find.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470563385704/2016-08-07---MichaelFabiano_Arielle-Doneson.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470563385704/2016-08-07---MichaelFabiano_Arielle-Doneson.jpg.jpg)
 <figcaption>Michael Fabiano, tenor. Photo by Arielle Doneson.</figcaption>
 </figure>
 

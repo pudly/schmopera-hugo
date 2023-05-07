@@ -26,7 +26,9 @@ Every Collectìf show is unique, in part due to our site-specific productions (n
 
 Ultimately our goal is to bring a new audience into the classical music world by breaking down some of the barriers that we feel no longer serve the art form.  But really, the best way to understand what we're about is to come and see one of our shows.   
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493669856517/2017-05-01---Collectif-at-the-RBA.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493669856517/2017-05-01---Collectif-at-the-RBA.jpg.jpg)
 <figcaption>Collectìf at the Richard Bradshaw Amphitheatre.</figcaption>
 </figure>
 

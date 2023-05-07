@@ -18,7 +18,9 @@ In its 15th year, [EXAUDI](http://www.exaudi.org.uk/) brought the latest instalm
 
 The 8 voices of EXAUDI sang in varying combinations; their uniform sound stayed interesting, with solo singers trading moments of spotlight. Just as we grew comfortable in their 16th-century sound, well grounded and ringing with overtones, Weeks revealed his stealthy integration of Arcadelt's *Primo Libro de' Madrigali* and the EXAUDI director's own *Libro di fiammelle e ombre*. The two composers shared texts - largely by anonymous authors - which live on the blurry line between love, lust, desperation, and death. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491147138378/2017-04-02---EXAUDI-informal-MatthewAndrews.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491147138378/2017-04-02---EXAUDI-informal-MatthewAndrews.jpg.jpg)
 <figcaption>EXAUDI Ensemble. Photo by Matthew Andrews.</figcaption>
 </figure>
 

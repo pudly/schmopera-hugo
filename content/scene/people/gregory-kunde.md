@@ -21,6 +21,7 @@ url = "https://twitter.com/MaestroGKC"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCvwnVoap_cif-C0Uep4UQVA"
+_template = "people_single"
 +++
 
 Acclaimed throughout his career for his performances in French and Italian bel canto roles, Kunde has more recently earned a formidable reputation in Verdi and other dramatic repertoire. Since his critically acclaimed debut as Verdi’s Otello at La Fenice in 2012, he has performed this signature role in Valencia, Genoa, Salerno, Florence, Turin, Tokyo, Osaka, Nagoya, Seoul, and São Paulo. Other Verdi debuts in recent seasons include Arrigo *I vespri siciliani* and Riccardo *Un ballo in maschera* (Turin), Radames *Aida* (São Paulo), and Don Alvaro *La forza del destino* (Valencia). In the 2012/13 season, Kunde earned the unique distinction of being the only tenor in recorded history to perform both Rossini’s *Otello* and Verdi’s *Otello* in the same season – something he repeated last season and will do again this season.

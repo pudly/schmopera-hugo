@@ -11,6 +11,7 @@ title = "Anna Chatterton"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/a_chatterton"
+_template = "people_single"
 +++
 
 Anna Chatterton is a playwright, librettist and performer. Her play *Within the Glass* was recently produced at Tarragon Theatre where she is a playwright in residence. Anna performed her solo show Quiver at Theatre Aquarius (TA2 Studio series), which will also be produced by Nightwood Theatre in the fall.  

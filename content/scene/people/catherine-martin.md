@@ -16,6 +16,7 @@ url = "https://twitter.com/CatherineMMezzo"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/talltxmezzo/"
+_template = "people_single"
 +++
 
 American mezzo-soprano Catherine Martin has been praised by The Washington Post for her “gorgeous, warm voice that you want to keep listening to,” and she continues to make an impact in repertoire ranging from Verdi and Wagner to Strauss and Bellini. The 2017-2018 season includes herreturn to Lyric Opera of Chicago as Waltraute in *Die Walküre*, her Minnesota Opera debut as Sister Helen in *Dead Man Walking*, Meg in *Falstaff* with Intermountain Opera, joining the National Chorale in their 50th anniversaryseason for the world premiere of Rice’s *Thy Will Be Done*, and singing *Songs of a Wayfarer* with the American Youth Philharmonic Orchestra.

@@ -9,6 +9,7 @@ related_companies = ["scene/companies/staatsoper-berlin.md","scene/companies/deu
 slug = "stefan-vinke"
 title = "Stefan Vinke"
 website = "http://www.stefanvinke.de/"
+_template = "people_single"
 +++
 
 Stefan Vinke was first engaged by his Kirchenmusik- pedagogy and vocal studies at the Cologne University of Music in Karlsruhe and Mönchengladbach, before becoming a "teenager heroic tenor" of the "Nationaltheater Mannheim" between 1999-2005.

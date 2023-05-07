@@ -11,6 +11,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/bobby_mellon/"
 
+_template = "people_single"
 +++
 American baritone Robert Mellon has been acclaimed by _Opera News_ for having "excellent comic timing" and a "domineering baritone, gleaming like polished copper." During the 2022-2023 season he will be making his house debuts at Lyric Opera of Kansas City as Escamillo in _Carmen_, Tulsa Opera in _L'italiana in Algeri_ as Taddeo, and Opera Tampa as Tonio in _Pagliacci_. Mr. Mellon will then return to Pensacola Opera to reprise the role of Marcello in _La bohème_ and to Syracuse Opera and Tri-Cities Opera for Figaro in _Le nozze di Figaro_. With Opera Las Vegas he will debut the role of Germont in _La traviata_. He will also sing the roles of Le Père, Ludovic and L'Usurier in a concert performance of _La Belle et la Bête_ with Present Music in Milwaukee, WI. In the 2021-2022 season, Mr. Mellon debuted the roles of Marcello in _La bohéme_ and Gubetta in _Lucrezia Borgia_ with Opera de Oviedo and made his Pensacola Opera debut reprising the role of Papageno in _Die Zauberflöte_. He also debuted the role of Iago in a reimagined production of Verdi's _Otello_ with In Series Opera in Washington, D.C.
 

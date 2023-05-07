@@ -18,7 +18,9 @@ No spoilers. I guarantee you won't guess what happens after "Act 1" of [Heartbea
 
 I'd given up hope that *Giovanni*'s plot could surprise me. But at the end of the first finale, with Giovanni caught red-handed assaulting Zerlina, I thought, with surging trepidation, "they might actually kill this guy right here, right now." I never expected what happened next.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475134347/DSC_3879-1-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475134347/DSC_3879-1-2.jpg.jpg)
 <figcaption>Heartbeat Opera's *Don Giovanni*, 2018. Photo: Russ Rowland.</figcaption>
 </figure>
 
@@ -26,7 +28,9 @@ Heartbeat Opera productions can deviate significantly from their source material
 
 [Felicia Moore](/scene/people/felicia-moore/) (Donna Elvira) stood out among a cast of capable voices. She managed Elvira’s leaping coloratura accurately, led the orchestra with clear diction, and sculpted notoriously challenging phrases expressively. She sang spontaneously within the rigid demands of Mozartian style. Only when she artificially straightened her tone did she veer out of tune. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475147981/DSC_4325.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475147981/DSC_4325.jpg.jpg)
 <figcaption>Heartbeat Opera's *Don Giovanni*, 2018. Photo: Russ Rowland.</figcaption>
 </figure>
 
@@ -34,7 +38,9 @@ Heartbeat Opera productions can deviate significantly from their source material
 
 Throughout the opera, [Leela Subramaniam](/scene/people/leela-subramaniam/) seemed mostly untaxed as Donna Anna. Her most deft acting came in her confessional second act aria, "Non mi dir". Exasperation simmered beneath a regal façade.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475170472/DSC_4974.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475170472/DSC_4974.jpg.jpg)
 <figcaption>Heartbeat Opera's *Don Giovanni*, 2018. Photo: Russ Rowland.</figcaption>
 </figure>
 
@@ -42,7 +48,9 @@ I looked forward to John Taylor Ward in the title role specifically because his 
 
 But Ward's voice failed the role. Giovanni's vocal range is limited but has definite requirements. His lines climax repeatedly on the same few pitches, but on exactly those crucial notes Ward's instrument withered with strain. Unnecessary ossia and ornaments in the second finale further exploited the singer's weaknesses.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475184472/DSC_4573.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475184472/DSC_4573.jpg.jpg)
 <figcaption>Heartbeat Opera's *Don Giovanni*, 2018. Photo: Russ Rowland.</figcaption>
 </figure>
 
@@ -50,7 +58,9 @@ That said, Ward's second half performance was a feat of fearless physical exposu
 
 [Daniel Schlosberg](/don-giovanni-strengthened-by-reinterpretation/) reorchestrated Mozart's work for clarinet, string quartet, bass, and harpsichord. The band, stacked with talent, clearly knew the score in detail. Fortunately so, because with Jacob Ashworth conducting from the violin, singers were short on cues. Some transitions and complexly layered ensembles threatened shabbiness, but the band, well synced and listening caringly, adjusted immediately to singers' momentary rhythmic blips.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475201216/DSC_3447photobyRussRowlandHeartbeat'sDonGiovanni.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475201216/DSC_3447photobyRussRowlandHeartbeat'sDonGiovanni.jpg.jpg)
 <figcaption>Heartbeat Opera's *Don Giovanni*, 2018. Photo: Russ Rowland.</figcaption>
 </figure>
 
@@ -60,7 +70,9 @@ Mozart blessed Don Giovanni with perhaps the single most audacious stretch of mu
 
 Giovanni's predatory party that finishes the first act (as Mozart wrote it) brings every living character to the same room in a chaotic clash of class. Emphasizing the distinction between bumkins Masetto and Zerlina, royals Anna and Ottavio, and heathens masquerading as gallants Leporello and Giovanni, Mozart composed three simultaneous, differently metered dances, two played by on-stage bands, one by the pit orchestra, underscoring disparate ensemble singing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475220485/DSC_3486photobyRussRowlandHeartbeatsDonGiovanni.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475220485/DSC_3486photobyRussRowlandHeartbeatsDonGiovanni.jpg.jpg)
 <figcaption>Heartbeat Opera's *Don Giovanni*, 2018. Photo: Russ Rowland.</figcaption>
 </figure>
 

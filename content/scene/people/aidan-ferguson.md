@@ -16,6 +16,7 @@ url = "https://www.facebook.com/AidanFergusonmezzo/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/amfergu"
+_template = "people_single"
 +++
 
 Aidan Ferguson is gaining a strong reputation for her beautiful artistry and ability. Following her recent performance of Mère Marie de L’Incarnation with l’Opéra de Montréal, the Montreal Gazette wrote, “Aidan Ferguson produced the strongest singing of the evening.” Ms. Ferguson established her career as a mezzo-soprano both across Canada and as a member of Theater Basel in Switzerland, where she appeared as Emilia in *Otello*, Nicklausse in *Les Contes d’Hoffmann*, the title role in *the Rape of Lucretia*, and Zweite Magd in Strauss’ *Daphne*. Since returning to Canada, she has re-focused her repertoire, moving toward soprano roles under the mentorship of Frances Ginzer. Ms. Ferguson’s 2017 season continues with the Overseer in Edmonton Opera’s *Elektra*, which she recently sang for l’Opéra de Montréal.

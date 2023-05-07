@@ -16,6 +16,7 @@ url = "https://www.facebook.com/nathaliecolassoprano"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/NColasSoprano"
+_template = "people_single"
 +++
 
 Soprano Nathalie Colas is a versatile and curious musician, artist, producer and music advocate.

@@ -22,7 +22,9 @@ First on the docket was the *bel canto* masterpiece, *Norma*, by Vincenzo Bellin
 
 The opera tells the tale of the high Druid priestess of Gaul (modern-day western Europe), who sacrifices herself in atonement for consorting with the Roman general, Pollione. In one of the less convoluted opera plots (there are no letters, disguises, or people hiding in closets), we see the fiery passion, the fury, and then then the fall of one of the canon's strongest female characters. A love-triangle of operatic proportions, a war, and human sacrifice all make for a remarkable night at the opera. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476617426111/2016-10-16---Norma-MC-1364.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476617426111/2016-10-16---Norma-MC-1364.jpg.jpg)
 <figcaption>Sondra Radvanovsky as Norma in the Canadian Opera Company production of *Norma*, 2016. Photo by Michael Cooper.
 </figcaption>
 </figure>
@@ -33,7 +35,9 @@ Obviously, Canadian-American soprano sensation [Sondra Radvanovsky](/in-review-s
 
 Playing the Roman general and Norma's lover, was tenor [Russell Thomas](/talking-with-singers-russell-thomas/), who is fast becoming one of my favourite singers. His big, steely voice shot through the house like a laser hitting a bunch of mirrors. He was a great sonic match for the two ladies, and the instrument was strong and flexible. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476617463411/2016-10-16---Norma-MC-0938.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476617463411/2016-10-16---Norma-MC-0938.jpg.jpg)
 <figcaption>l-r: Isabel Leonard as Adalgisa, Russell Thomas as Pollione and Sondra Radvanovsky as Norma in the Canadian Opera Company production of *Norma*, 2016. Photo: Michael Cooper.
 </figcaption>
 </figure>
@@ -42,7 +46,9 @@ As the novice priestess Adalgisa, who inadvertently steals the heart of Pollione
 
 As Norma's father Oroveso, bass [Dimitry Ivashchenko](/scene/people/dimitry-ivashchenko/) was a domineering presence with a meaty boom to his voice that worked really well in all his work in front of the COC Chorus. As Pollione's friend, Flavio, COC Ensemble Studio member [Charles Sy](/scene/people/charles-sy/) sounded great alongside Thomas's Pollione. As Clotilde, Norma's confidante, soprano [Aviva Fortunata](/scene/people/aviva-fortunata/) sang beautifully and had the very important duty of taking care of the the two kid supernumeraries - which was likely totally fun backstage. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476617507677/2016-10-16---Norma-CH-233.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476617507677/2016-10-16---Norma-CH-233.jpg.jpg)
 <figcaption>Dimitry Ivashchenko as Oroveso (centre) and Sondra Radvanovksy as Norma (on platform) in the Canadian Opera Company production of *Norma*, 2016. Photo by Chris Hutcheson.</figcaption>
 </figure>
 

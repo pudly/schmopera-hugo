@@ -7,6 +7,7 @@ publishDate = "2016-05-19T11:24:00+01:00"
 related_companies = ["scene/companies/english-national-opera.md","scene/companies/glyndebourne.md","scene/companies/welsh-national-opera.md","scene/companies/garsington-opera.md","scene/companies/scottish-opera.md"]
 slug = "alun-rhysjenkins"
 title = "Alun Rhys-Jenkins"
+_template = "people_single"
 +++
 
 Alun Rhys Jenkins, having taught music for eight years, decided on a singing career after winning the W. Towyn Roberts Scholarship at the National Eisteddfod of Wales in 2004.

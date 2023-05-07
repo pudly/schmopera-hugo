@@ -18,6 +18,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SimonShibambu"
 
+_template = "people_single"
 +++
 Rising bass Simon Shibambu recently graduated from the Royal College of Music,
 and in 2017 enters his second season as a member of the Jette Parker Young Artists

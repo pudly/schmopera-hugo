@@ -16,6 +16,7 @@ url = "https://www.facebook.com/pages/Simone-Osborne-Soprano/187728413498"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SimoneOsborne"
+_template = "people_single"
 +++
 
 <p>

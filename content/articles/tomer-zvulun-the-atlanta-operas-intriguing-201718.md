@@ -28,14 +28,18 @@ All of our 2017-18 season deals with the theme of "the other" or "the outsider."
 
 Also, these pieces are new to our audiences. This will be the first time *Out of Darkness* is performed in a fully-staged production, and *The Seven Deadly Sins* is rarely done. Finally, they fit perfectly to the locations: the intimate Theatrical Outfit (*Out of Darkness*) and the seedy cabaret world (*The Seven Deadly Sins*).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487589458223/2017-02-20---Winterreise_credit_RaftermenPhotography1.jpg.jpg)<figcaption>A scene from *Winterreise*, presented at TAO's Discoveries Series in the 2014/15 season. Photo by Raftermen Photography.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487589458223/2017-02-20---Winterreise_credit_RaftermenPhotography1.jpg.jpg)<figcaption>A scene from *Winterreise*, presented at TAO's Discoveries Series in the 2014/15 season. Photo by Raftermen Photography.</figcaption>
 </figure>
 
 ## Where does one begin when it comes to directing Wagner?
 
 I am a Wagner fanatic and was lucky enough to spend a large part of my life as a Wagner scholar: studying the *Ring* for years as I was preparing for my duties as the associate director for the acclaimed Seattle Opera *Ring* in 2009. In that same year I also directed *The Flying Dutchman* for the first time in Atlanta. There are countless books about Wagner, his work, philosophy and creative process. It is an incredibly rich and profound world and one can be immersed in it for a lifetime and still be a newbie. It is especially meaningful to me as an Israeli who did not have access to his music as there have been a ban on his music in Israel for decades. Perhaps that element of the forbidden made his music even more attractive to me.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487589520128/2017-02-20---Dutchman_JacobAClimerSketch1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487589520128/2017-02-20---Dutchman_JacobAClimerSketch1.jpg.jpg)
 <figcaption>A sketch for *The Flying Dutchman* by designer Jacob Climer.</figcaption>
 </figure>
 

@@ -21,6 +21,7 @@ platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/vincentranallo"
 
+_template = "people_single"
 +++
 Baritone Vincent Ranallo leads a career oriented mainly toward concert and creation. Known for the beauty and expressiveness of his voice and the contagious conviction of his interpretations, he performs with a growing number of ensembles and at festivals and venues such as Ear Heart Music and Roulette (New York), Athelas New Music Festival (Copenhagen ), New Music Concerts (Toronto), GroundSwell (Winnipeg), NeWorks (Calgary), Ottawa Chamberfest, New Music Creators (Ottawa), the Orford Arts Centre, Aventa (Victoria BC), the McGill chamber Orchestra , I Musici, the Orchestre Métropolitain, l’Ensemble contemporaine de Montréal (ECM+), Les Enfants terribles, the SMCQ, KORÈ, Chants libres, Nouvel ensemble Moderne (NEM), Bradyworks, Codes d’accès, Métropolis bleu, MusiMars, Montreal Baroque, Aradia Ensemble (Toronto) Quatuor Bozzini, Paramirabo.
 

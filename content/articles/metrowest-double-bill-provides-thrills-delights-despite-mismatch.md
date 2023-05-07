@@ -22,7 +22,9 @@ However, I find myself questioning the pairing, for the two characters are frame
 
 *Beautiful Bridegroom*, on the other hand, does have other characters, and there the work undermines Lovering's choice of pairing given that Terentia is not framed as a similarly centralized figure: the attention instead goes to Madame Kirsten, who is a literal gender-bent Figaro. In light of how the show frames Madame Kirsten, therefore, one has to contend with the fact that Terentia is framed as a kind of buffoon who needs to be taken down a notch, similar to Count Almaviva in *Le nozze di Figaro*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524252662886/Borrowed_Blue_1st_Night_255.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524252662886/Borrowed_Blue_1st_Night_255.jpg.jpg)
 <figcaption>(l-r) Katherine Maysek, Elizabeth Kinder, Stephanie Hollenberg, Charlotte Jackson, Natalie Logan, and Brynne Pulver in *The Beautiful Bridegroom*, MetroWest Opera, 2018. Photo: Nile Hawver.</figcaption>
 </figure>
 

@@ -13,6 +13,7 @@ website = "http://www.heidimeltonsoprano.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/hojotoheidi"
+_template = "people_single"
 +++
 
 <p>

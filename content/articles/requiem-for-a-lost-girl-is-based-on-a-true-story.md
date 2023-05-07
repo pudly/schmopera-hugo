@@ -43,7 +43,9 @@ What would it look like to live with less — to actually work within yourself t
 
 It goes without saying, this piece also serves as a reminder. Every person you see standing in line for a shelter or asking for change has a story — we have no idea what kind of trauma, loss or challenge they have endured. No one wants to experience homelessness and no one wants to struggle with addiction. I think this piece reminds us to practice compassion and empathy; it might even inspire us to bring someone in need a warm drink on a cold day or smile and say hello as you approach them. A little kindness can go a long way.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524674259868/OnaleaGilbertsonHeadshot.jpg.jpg)<figcaption>Onalea Gilbertson, writer and director of *Requiem for a Lost Girl*.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524674259868/OnaleaGilbertsonHeadshot.jpg.jpg)<figcaption>Onalea Gilbertson, writer and director of *Requiem for a Lost Girl*.</figcaption>
 </figure>
 
 ## What role do pieces of theatre like *Requiem* play in activism?
@@ -62,7 +64,9 @@ I believe it is essential to engage directly with the community as an artist - w
 
 **Stephanie**: *Requiem for a Lost Girl* is such a unique piece of theatre because it gives voice to members of society who have experienced or are currently experiencing homelessness or addiction. It isn't like other social-justice pieces where professional singers are portraying the characters in an effort to raise awareness. Members of the Yulanda M. Faris Young Artist Program and members of the Vancouver Opera chorus are participating to give musical support to the Kettle Choir, the real stars of the show. We are not telling their stories; they are telling their stories. This piece is amazing because it gives an opportunity for members of the Kettle Society to express themselves through their own written word and music, and provides a platform for them to be heard.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524674216103/TRITCHEW.STEPHANIE.HEADSHOT.jpeg)<figcaption>Stephanie Tritchew, mezzo-soprano in the Yulanda M. Faris Young Artist Program, and performer in *Requiem for a Lost Girl* at the Vancouver Opera Festival, 2018.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524674216103/TRITCHEW.STEPHANIE.HEADSHOT.jpeg)<figcaption>Stephanie Tritchew, mezzo-soprano in the Yulanda M. Faris Young Artist Program, and performer in *Requiem for a Lost Girl* at the Vancouver Opera Festival, 2018.</figcaption>
 </figure>
 
 ## What do you hope audiences will take away from these performances in Vancouver?

@@ -6,6 +6,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/m
 publishDate = "2015-09-17T18:39:00-04:00"
 slug = "christopher-alden"
 title = "Christopher Alden"
+_template = "people_single"
 +++
 
 For the past three decades, Christopher Alden has been busy producing opera around the globe, consistently committed to keeping the art form challenging and vital.

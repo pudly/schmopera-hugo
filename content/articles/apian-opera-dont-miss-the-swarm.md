@@ -21,7 +21,7 @@ Most of the singers were more comfortable learning by ear, so learning the music
 
 Because of the interconnected nature of some of the movements, it was essential that every singer was there when we sang the pieces through - each singer has their own part and often takes cues from another singer, or is the one who gives the cues to the others.  It was funny reflecting on this and finding parallels with bees within a colony – everyone has their role and is just as important as all the others.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485690796942/2017-01-27---Heloise-Tunstall-Behrens.jpg.jpg)<figcaption>Heloise Tunstall-Behrens, composer of *The Swarm*.</figcaption></figure>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485690796942/2017-01-27---Heloise-Tunstall-Behrens.jpg.jpg)<figcaption>Heloise Tunstall-Behrens, composer of *The Swarm*.</figcaption></figure>
 
 ## What do you look for in a performance venue for *The Swarm*? How much does the piece change when it moves to a new venue?
 

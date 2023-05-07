@@ -19,6 +19,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/PatrickCarfizzi/"
 
+_template = "people_single"
 +++
 In the 2018-2019 season, American bass-baritone Patrick Carfizzi returns to the Metropolitan Opera as Sacristan in Puccini’s _Tosca_, the Jailer in Poulenc’s _Dialogues des Carmélites_, Betto di Signa in Puccini’s _Gianni Schicchi_, a role debut as Quinault in Cilea’s _Adriana Lecouvreur_, and covers the role of Talpa in Puccini’s _Il Tabarro_.
 

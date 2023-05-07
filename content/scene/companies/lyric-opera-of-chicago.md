@@ -25,6 +25,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/lyricoperaofchicago"
 
+_template = "company_single"
 +++
 Lyric Opera of Chicago's mission is to express and promote the life-changing, transformational, revelatory power of great opera. Lyric exists to provide a broad, deep, and relevant cultural service to Chicago and the nation, and to advance the development of the art form.
 

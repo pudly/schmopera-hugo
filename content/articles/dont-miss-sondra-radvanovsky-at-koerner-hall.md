@@ -18,7 +18,9 @@ Her performance of Queen Elizabeth I stayed with me a long time after seeing the
 
 On December 4th, Radvanovsky joins pianist Anthony Manoli for a recital of operatic arias and art song. Radvanovsky has had a close relationship with Manoli for the last 20 years, and in an [interview with David Perlman](http://www.thewholenote.com/index.php/newsroom/musical-life/221-features/25705-sondra-radvanovsky-comes-home) in *The Whole Note*, she credits him with finding the possibilities in *bel canto* for her voice. "He heard it in my voice. I had no idea; this was a whole new world that opened up to me. I wasn’t all that familiar with the bel canto repertoire, and we started with Lucrezia Borgia, actually; that was my first foray into the bel canto." 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447111355758/2015-11-09---Anthony-Manoli.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447111355758/2015-11-09---Anthony-Manoli.jpg.jpg)
 <figcaption>Pianist Anthony Manoli.</figcaption>
 </figure>
 

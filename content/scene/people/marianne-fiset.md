@@ -12,6 +12,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/marianne.fiset/"
 
+_template = "people_single"
 +++
 Known for the warm and rich color of her voice and charismatic stage presence, Marianne Fiset has been hailed by critics and audience alike. Since she was awarded five top prizes in May 2007 from the Montreal International Music Competition, including the First Grand Prize and the People’s Choice Award, she received the “New Artist of the Year” Opus Prize in 2008 and was named Young Soloist by the Public Francophone Radios ( France – Suisse-Romande – Belgique – Canada). She was also awarded the title “Révélation Radio-Canada Musique 2009”.
 

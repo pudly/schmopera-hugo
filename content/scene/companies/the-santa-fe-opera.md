@@ -16,6 +16,7 @@ url = "https://www.facebook.com/santafeopera?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/santafeopera"
+_template = "company_single"
 +++
 
 <p>

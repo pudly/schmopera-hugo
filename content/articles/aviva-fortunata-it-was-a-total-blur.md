@@ -28,7 +28,7 @@ There wasn't time for much but to put on my costume and have a quick chat with t
 
 I had a few sessions to walk through the staging, but no matter how many times you run it with a chair playing Brünnhilde and a magazine playing Siegfried, it feels really different on stage. What filled the gaps were the amazingly kind and friendly colleagues I mostly met for the first time onstage. If I wasn't in the right place, I would be gently guided there before I even really knew what happened. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487607676128/2017-02-20---Aviva-Curtain-Call.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487607676128/2017-02-20---Aviva-Curtain-Call.jpg.jpg)
 <figcaption>Aviva Fortunata taking a curtain call after *Götterdämmerung* at the Canadian Opera Company.</figcaption>
 </figure>
 

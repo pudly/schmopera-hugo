@@ -30,7 +30,9 @@ Additionally we're utilizing a cutting edge 3D audio technology called sound spa
 
 How do you enter virtual reality?  Through a headset that is connected to your smartphone.  You can watch a video that is formatted for virtual reality on Youtube or Facebook, or via a custom app that is created for the VR film.  Headsets are as cheap as $15, i.e., Google Cardboard, and as expensive as $800, i.e., Oculus Rift. Oculus Rift has its own computer system and does not require a separate smartphone to operate.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615578296/2016-10-16---PM-Cemetery.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615578296/2016-10-16---PM-Cemetery.jpg.jpg)
 <figcaption>Photo by Cari Ann Shim Sham*.</figcaption>
 </figure>
 
@@ -42,7 +44,9 @@ The rehearsal process was very different, and much more like the process is for 
 
 We're planning 12 episodes in season 1.  Episode 2 is several months away.  Episode 1 will go public in late January when we will take it on the film festival circuit.  We're calling it our pilot episode and hope to partner with a distribution platform post-festival run to finish the season.  Stay tuned!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615637553/2016-10-16---PM.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615637553/2016-10-16---PM.jpg.jpg)
 <figcaption>Photo by Cari Ann Shim Sham*.</figcaption>
 </figure>
 
@@ -50,7 +54,9 @@ We're planning 12 episodes in season 1.  Episode 2 is several months away.  Epis
 
 Our company has always focused on finding ways to make opera more accessible to a broader audience. There is nothing about this project that doesn’t resonate with our mission.  We specialize in 'opera up close' and have created a national infrastructure for distributing that concept nationally. *The Parksville Murders* allows us to take a logical next step in not only utilizing the distribution channels we have created through our infrastructure but in further distributing opera to a larger national audience through cross-pollination of multiple genres and through the online accessibility of the content we create.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615726562/Opera%20on%20Tap%20FB%20Event%20header.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615726562/Opera%20on%20Tap%20FB%20Event%20header.jpg.jpg)
 </figure>
 
 >For more details, [click right here.](http://theparksvillemurders.com/)

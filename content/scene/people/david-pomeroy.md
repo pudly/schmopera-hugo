@@ -25,6 +25,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/harbourartman"
 
+_template = "people_single"
 +++
 Canadian tenor David Pomeroy is enjoying a career that is placing him in the spotlight on the world’s most important stages. The Newfoundland native made his Metropolitan Opera debut, portraying the title role of Hoffmann in _Les Contes d’Hoffmann_, opposite soprano Anna Netrebko under the baton of Maestro James Levine. Mr. Pomeroy had sung the title role of _Faust_ with bass James Morris in the annual “Met in the Parks” concert series and later reprised the role on the main stage.  
   

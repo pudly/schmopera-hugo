@@ -12,6 +12,7 @@ website = "http://www.briancurrent.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/bcurrent"
+_template = "people_single"
 +++
 
 <p>

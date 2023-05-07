@@ -12,6 +12,7 @@ website = "http://www.nikagoric.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/nikagoric?lang=en-gb"
+_template = "people_single"
 +++
 
 Slovenian soprano Nika Gorič began her vocal studies alongside her ballet training at the Ballet and Music School in Maribor, graduating in 2009. She obtained her BA from the University of Music and Performing Arts Graz, Austria, and completed her Master’s degree in Performance, with Distinction, at the Royal Academy of Music in London. She is currently continuing her studies on the Royal Academy Opera course under the tutelage of Lillian Watson and Jonathan Papp. Nika’s studies are generously supported by the Charles Mackerras Opera Scholarship and previously by Maria Callas and Stanley Picker Award, Slovenian Ministry of Culture and Josephine Baker Trust.

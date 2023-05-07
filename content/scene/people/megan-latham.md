@@ -11,6 +11,7 @@ title = "Megan Latham"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/mezzomeg"
+_template = "people_single"
 +++
 
 Mezzo-soprano Megan Latham has enjoyed the distinction of recognition in opera, oratorio, and recital, her voice having been described as “clear and honey colored” (Opera Canada). She has worked with distinguished conductors including Harry Bicket, Will Crutchfield, Richard Bradshaw, Miguel Harth-Bedoya, David Agler, Jeanne Lamon and Agnes Grossman.

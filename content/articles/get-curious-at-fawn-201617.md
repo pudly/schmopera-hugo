@@ -21,5 +21,7 @@ FAWN will be announcing the three composers selected by audiences at last season
 
 *FAWN 2016/17* is pay-what-you-can, **December 1st, 7-10pm** at Electric Perfume, 805 Danforth Ave.. For more details, check out FAWN's [Facebook event page.](https://www.facebook.com/events/1269251889825082/)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479375448833/2016-11-17---FAWN-2016_17-poster.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479375448833/2016-11-17---FAWN-2016_17-poster.jpg.jpg)
 </figure>

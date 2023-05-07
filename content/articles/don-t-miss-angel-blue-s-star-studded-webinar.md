@@ -23,7 +23,9 @@ Thankfully, Angel Blue and the National Institute of Social Sciences is set to o
 
 Star mezzo-soprano Denyce Graves, Grammy-nominated countertenor Anthony Roth Constanzo, acclaimed stage director James Robinson (who directs both _Fire_ and _Porgy_ at the Met), and David Lomeli, Santa Fe Opera's Artistic Administrator and Casting Director at the Bayerische Staatsoper — they'll all join Blue for a 90-minute discussion moderated by Opera America CEO Marc Scorca.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631799997/media/2021/09/ARC_Denyce_kwiiy3.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1631799997/media/2021/09/ARC_Denyce_kwiiy3.jpg)
 
 <figcaption>Anthony Roth Constanzo (Matthew Placek) and Denyce Graves (Devon Cass), two panelists for the webinar led by Angel Blue, "What's Next for Opera?", September 23, 12pm ET.</figcaption>
 
@@ -33,7 +35,9 @@ On the itinerary: questions about opera's future, its innovations, the safety of
 
 "I immediately wanted to become a part of the National Institute of Social Sciences when I attended their Annual Gold Medal Gala in 2019," says Blue, who is a Trustee of the NISS. "The pandemic has changed society. However, it is organizations like NISS who will be at the forefront of helping our community to remain a strong unit. I'm very honored to be a National Institute Trustee, and I hope that everyone will enjoy the webinar 'What's Next in Opera?'"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631799223/media/2021/09/AngelBlue_BillyDiaz_n3b48d.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1631799223/media/2021/09/AngelBlue_BillyDiaz_n3b48d.jpg)
 
 <figcaption>Angel Blue, photographed by Billy Diaz.</figcaption>
 

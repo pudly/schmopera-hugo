@@ -24,7 +24,9 @@ I first got the idea for VCO when I wrote my first opera, [*Rise of the Roaches*
 
 The first formal Vera Causa Opera show was [*The Death of Maria*](https://www.youtube.com/watch?v=sraWYTW3Lvc&feature=youtu.be) in November of 2015. Following the positive experience of *Rise of the Roaches*, I decided that it was time to formalize this project into an organization. Thus VCO was created, an organization which is dedicated to giving opportunities to deserving young professionals of all sorts, providing them with a positive, collaborative, and professional environment in which to hone their skills. We wholeheartedly believe in making opera more enjoyable, affordable, and accessible to everyone. That means $10 tickets (free for students), putting on new opera, and adapting old operas for a new kind of audience.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486418205550/2017-02-07---VCO---River-singing-loud.jpg.jpg)<figcaption>Photo courtesy of Vera Causa Opera.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486418205550/2017-02-07---VCO---River-singing-loud.jpg.jpg)<figcaption>Photo courtesy of Vera Causa Opera.</figcaption>
 </figure>
 
 ## What does it mean for opera to be "accessible"? How does Vera Causa advocate this?
@@ -50,7 +52,9 @@ As for accessibility in regards to performers, the reduction in the amount of mu
 Vera Causa Opera fits quite nicely! We are also part of the Cambridge scene, so for us it's a real pleasure to be able to perform and service each city. As for how we fit, we love what other arts organizations are doing in these regions, and they are enjoying what we do too. For me, that's a healthy scene, and one that we love being a part of!
 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486418134628/2017-02-07---Vera-Causa.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486418134628/2017-02-07---Vera-Causa.jpg.jpg)
 <figcaption>Dylan Langan, Artistic Director of Vera Causa Opera.</figcaption>
 </figure>
 

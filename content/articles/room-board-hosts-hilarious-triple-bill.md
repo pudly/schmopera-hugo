@@ -35,7 +35,9 @@ Instead, Wes Hunter and Carley DeFranco's younger couple danced around the same 
 
 It was a very effective staging of an already excellent piece, and I must say that it is wonderful to see stage director Ingrid Oslund redeem herself after her questionably thought out _Silla_ earlier this year.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573507553/media/2019/11/BOC2_gdajmn.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573507553/media/2019/11/BOC2_gdajmn.jpg)
 
 <figcaption>Lindsay Conrad in Naomi in the Living Room, Boston Opera Collaborative, 2019. Photo: Dan Busler.</figcaption>  
 </figure>

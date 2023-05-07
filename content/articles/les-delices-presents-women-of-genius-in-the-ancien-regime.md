@@ -21,14 +21,18 @@ Remember the [Ancien Régime](https://en.wikipedia.org/wiki/Ancien_R%C3%A9gime),
 
 When the park, with its curious mounds of sculpture, proved beyond his reach, he settled on the creation of _Le parnasse françois_, a biographical dictionary including not only the artistic titans of France but also those who by virtue of their gender might otherwise have remained unrecognized or only minimally noted. Fortunately for the general scope of music history and specifically the research of Les Délices director, Debra Nagy, _Le parnasse françois_ illuminates the path towards the creation of _Women of Genius_. The most recent offering from this stunning Cleveland based ensemble turns the limitations of pandemic performance into yet another adventurous and elegantly entertaining streaming concert.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1617070452/media/2021/03/LesDelices-Leparnassefrancois-PazzoBooks_usnhyz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1617070452/media/2021/03/LesDelices-Leparnassefrancois-PazzoBooks_usnhyz.jpg)
 
 <figcaption>The title page of Évrard Titon du Tillet's Le parnasse françois, with an extravagant mockup of the proposed sculpture garden that was abandoned by the author in favor of the biographical dictionary of France’s leading artists. Photo: Pazzo Books.</figcaption>  
 </figure>
 
 The star of this particular show, composer [Élisabeth Jacquet de la Guerre](https://en.wikipedia.org/wiki/%C3%89lisabeth_Jacquet_de_La_Guerre), was hardly left in the shadows. Having gained the support of Lous XIV, she was highly visible, with frequent performance of her work. More importantly she enjoyed the rare privilege of having her work published. But according to Nagy, de la Guerre was not the isolated genius she has been made out to be. Nagy bases her case on a roster of lesser-known women who follow de la Guerre’s mention in _Le parnasse françois_, each of whom exerted considerable cultural influence.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1617070559/media/2021/03/LesDelices-JacquetdelaGuerre_xfkisi.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1617070559/media/2021/03/LesDelices-JacquetdelaGuerre_xfkisi.jpg)
 
 <figcaption>Élisabeth Jacquet de la Guerre, composer  and harpsichordist (1665-1729).</figcaption>  
 </figure>
@@ -37,7 +41,9 @@ Among them is the inventive composer [Mademoiselle Duval](https://en.wikipedia.o
 
 The inclusion of two men from the Couperin family dynasty strains Nagy’s premise a bit but their works are nonetheless lovely to hear. François (le Grand) Couperin's _La Favorite_ is played with verve and freshness by harpsichordist Mark Edwards, who explains the uniqueness of the piece in a clear and engaging manner. Louis Couperin's _Veritas de terra_, his setting of Psalm 84, provides an occasion for Nagy’s invitation to imagine the "brilliant and flexible" voice of Marguerite Louise Couperin, who was also a celebrated harpsichordist. Perhaps more to the point we admire the vibrant soprano Clara Rottsolk and her exquisite technique both here and with Pinel's evocative airs.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1617071135/media/2021/03/2_hw5iml.png){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1617071135/media/2021/03/2_hw5iml.png)
 
 <figcaption>(l-r) Rebecca Reed (viola da gamba), soprano Clara Ruttsolk, Mark Edwards (harpsichord) and Debra Nagy (oboe) in Women of Genius, Les Délices, 2021. Video still courtesy of Les Délices.</figcaption>
 
@@ -47,7 +53,9 @@ Befitting her exalted position in the latter stages of the _Ancien Régime_, de 
 
 _Judith_ is based more on legend than history. As a cantata, it relies on instrumental accompaniment and independent segments that give voice and depth to its heroine and other characters, despite a text that lacks dramatic action. In fact, the work's most physical act - the beheading of the invading Syrian King Holofernes - is carried out by the violin. The music is stark, even furious in its depiction of Holofernes, and turns inward as it depicts Judith's inner conflicts and the urging of her handmaid Abra, to take the action - both personal and violent - that will save Israel. Finally, it celebrates Judith's sacrifice and triumph. It would be difficult to imagine a more lucid reading of the work. Rottsolk doesn’t relinquish attitude for beautiful singing. The soprano's gleaming upper register and assured ornamentation contribute to dramatically defined characters. Her opening remarks were as fervent and suggestive of character as they were instructive.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1617071165/media/2021/03/5_v3fzv5.png){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1617071165/media/2021/03/5_v3fzv5.png)
 
 <figcaption>(l-r) Violinist Julie Andrijeski and soprano Clara Rottsolk in Women of Genius, Les Délices, 2021. Video still courtesy of Les Délices.</figcaption>
 
@@ -55,7 +63,9 @@ _Judith_ is based more on legend than history. As a cantata, it relies on instru
 
 Those who haven’t already are advised to view the pre-concert talk with Nagy and Dr. Eve Straussman-Pflanzer, curator of Italian and Spanish painting at the National Gallery in Washington D.C., in order to more fully experience the nuances of the cantata. Four paintings dealing with Judith are discussed, including one by Caravaggio and another by Artemsia Gentileschi mirroring the vastly different takes on the Judith legend. They literally illustrate the situations and characters depicted in de la Guerre’s cantata. Note that Straussman-Pflanzer is organizing an exhibition on Gentileschi and women artists in Italy from 1500-1800 for the Detroit Institute of Arts early next year. The pre-concert talk is readily available at [Lesdelices.org](https://www.lesdelices.org/watch-now/).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1617071177/media/2021/03/1_yyng3m.png){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1617071177/media/2021/03/1_yyng3m.png)
 
 <figcaption>Soprano Clara Ruttsolk and oboist Debra Nagy in Women of Genius, Les Délices, 2021. Video still courtesy of Les Délices.</figcaption>
 

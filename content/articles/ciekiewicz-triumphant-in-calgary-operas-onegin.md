@@ -20,7 +20,9 @@ For its second mainstream production of the 2017-18 season, [Calgary Opera](/sce
 
 As the titular Onegin, baritone [Phillip Addis](/scene/people/phillip-addis/) offers a convincing, polished performance. Addis carries himself with poise and swagger that underscore his character's coldness. But in the third act, Addis unleashes a full range of his acting and vocal ability when his character finally recognizes his love for Tatyana. His vibrant voice is pierced with desperation as he pleads with Tatyana, who refuses to act on her feelings for him.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517857231579/Onegin-458.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517857231579/Onegin-458.jpg.jpg)
 <figcaption>Phillip Addis (Onegin) in *Eugene Onegin*, Calgary Opera, 2018.</figcaption>
 </figure>
 
@@ -28,7 +30,9 @@ Calgary Opera recruited three first-rate mezzo-sopranos for the roles of the fam
 
 As Tatyana's younger sister Olga, [Lauren Segal](/scene/people/lauren-segal/) offers a silky portrayal of a young woman in love. Segal's charming interpretation is playful and flirtatious. Compared to the melancholic Tatyana, Segal's Olga shines with youthful exuberance, her voice shimmering with simple vivacity. In addition, her onstage chemistry with Adam Luther as Vladimir Lensky is palpable; they clearly portray a young couple who have been in love for a long while.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517857273409/Onegin-314.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517857273409/Onegin-314.jpg.jpg)
 <figcaption>Adam Luther (Lensky) and Phillip Addis (Onegin) in *Eugene Onegin*, Calgary Opera, 2018.</figcaption>
 </figure>
 
@@ -36,13 +40,17 @@ Tenor [Adam Luther](/scene/people/adam-luther/) offers a swoon-worthy portrayal 
 
 As Prince Germin in the final act, bass Valerian Ruminski turns in a standout performance. Ruminski's vibrant voice filled the auditorium with a warmth and sensitivity that underscored his character's love for Tatyana. On this night, Ruminski offered a truly endearing portrayal that elicited one of the warmest responses for the performance. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517857284493/Onegin-132.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517857284493/Onegin-132.jpg.jpg)
 <figcaption>Lara Ciekiewicz (Tatyana) in *Eugene Onegin*, Calgary Opera, 2018.</figcaption>
 </figure>
 
 The night, however, belonged to the triumphant performance of soprano [Lara Ciekiewicz](/scene/people/lara-ciekiewicz/) in the role of Tatyana. Ciekiewicz's shimmering voice lights up every scene; she convincingly embodies her character's emotional journey from a shy, awkward youth to a refined aristocrat. Ciekiewicz shows her dramatic mettle in the letter scene in which she explores various emotions about her growing love for Onegin; Ciekiewicz shows a broad spectrum of what you would expect from a lovesick girl. And in the final scene of the opera, Ciekiewicz's command of Tatyana's visceral emotions, and of Onegin's unrelenting advances, are crowning achievements for her portrayal.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517857348039/Onegin-183.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517857348039/Onegin-183.jpg.jpg)
 <figcaption>Lara Ciekiewicz (Tatyana) in *Eugene Onegin*, Calgary Opera, 2018.</figcaption>
 </figure>
 
@@ -50,7 +58,9 @@ Members of the Calgary Opera Chorus were expertly prepared by Chorusmaster Sandr
 
 Kudos must also be extended to Scott Reid for a wonderful new set design for *Onegin*. Jointly produced by Calgary Opera and Vancouver Opera, and constructed with the assistance of the Banff Centre for Arts and Creativity, the set offers a beautiful backdrop to the onstage drama. The simple sets for the scenes in the first act complement the simplicity of living out in the country, while the lavish scenes for the two parties are a colourful spectacle.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517857357715/Onegin-587.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517857357715/Onegin-587.jpg.jpg)
 <figcaption>*Eugene Onegin*, Calgary Opera, 2018.</figcaption>
 </figure>
 

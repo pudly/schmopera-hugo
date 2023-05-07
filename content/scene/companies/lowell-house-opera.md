@@ -21,5 +21,6 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/lowellhouseopera/"
 
+_template = "company_single"
 +++
 Lowell House Opera produces operas of the highest caliber for audiences from Harvard and greater Boston. The oldest opera company currently performing in New England, LHO is the professionally-led company in residence at Harvard College grounded in a unique educational approach. LHO casts some of Boston’s finest emerging professionals—many of whom are students at neighboring conservatories—alongside exceptional Harvard students, working as peers in a collaborative but rigorous environment. While the Harvard students benefit immensely from the transformative opportunity to perform in, manage, or design a professional-level production, the young professionals also grow, given the chance to take on challenging roles with full orchestra and develop as artistic leaders. Our performance venue, the historic Lowell House Dining Hall, located in the heart of Harvard’s campus, epitomizes LHO’s commitment to enrich our community through high-quality opera that is accessible, engaging, and vital.

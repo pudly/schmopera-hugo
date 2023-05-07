@@ -17,6 +17,7 @@ url = "https://www.facebook.com/pages/Christian-Van-Horn-Bass-baritone/819702657
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/VanHornCVH"
+_template = "people_single"
 +++
 
 <p>

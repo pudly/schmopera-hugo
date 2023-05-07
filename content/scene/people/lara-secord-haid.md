@@ -15,6 +15,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/larasecord/"
 
+_template = "people_single"
 +++
 Praised by international publications, soprano Lara Secord-Haid has been described as “possessing a rich and expressive overall quality” (Attencion San Miguel), “charismatic” (Opera Today) and was praised for her “flinty acuity” by the New York Times.
 

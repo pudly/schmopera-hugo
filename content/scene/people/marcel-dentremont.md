@@ -16,6 +16,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/unclemarcey/"
 
+_template = "people_single"
 +++
 Tenor Marcel d’Entremont is becoming recognized across Canada for both his powerful voice and sincere stage presence. A former first prize winner of the Atlantic Young Artist Competition, Marcel also placed first in the vocal division of the National Music Festival of Canada and claimed the Grand Award for overall best performer.
 

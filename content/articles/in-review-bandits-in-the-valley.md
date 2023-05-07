@@ -16,7 +16,9 @@ title = "In review: Bandits in the Valley"
 
 Being a hardcore opera fan means being comfortable with the extremes of the spectrum of human emotions; adulterous detentes, accidental infanticide, self-sacrifice, we take them at face value with an unquestioning nod of approval. It's funny though, how we often forget about the joyous end of that emotional spectrum, where smiles come easily and silliness is abundant. Maybe that's why Tapestry Opera's [*Bandits in the Valley*](https://tapestryopera.com/bandits-in-the-valley/) was such a refreshing dose of fun.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505174253723/2017-09-06---Bandits-photobyDahliaKatz-1589.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505174253723/2017-09-06---Bandits-photobyDahliaKatz-1589.jpg.jpg)
 <figcaption>(l-r) Jacques Arsenault as Freddy (background), Sara Schabas as Henri (background), Jennifer Taverner as Lily, and Keith Klassen as Jeremiah in *Bandits in the Valley*, Tapestry Opera, 2017. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -24,7 +26,9 @@ The short, opera-esque piece of theatre - by composer Benton Roark and librettis
 
 Spicing up the action are the maid Birgitta ([Stephanie Tritchew](/spotlight-on-stephanie-tritchew/), whose love for Jeremiah borders on manipulative bribery, and accordionist-and-secret-bandit Freddy ([Jacques Arsenault](/spotlight-on-jacques-arsenault/)), who plays to his advantage the assumptions that he's illiterate and inattentive to the goings-on around him.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505174262093/2017-08-06---Bandits-photobyDahliaKatz-1487.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505174262093/2017-08-06---Bandits-photobyDahliaKatz-1487.jpg.jpg)
 <figcaption>Sara Schabas as Henri in *Bandits in the Valley*, Tapestry Opera, 2017. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -32,7 +36,9 @@ It's a story that seems familiar, yet the experience seems new. The ideas of a b
 
 With opera, it's still a fairly novel experience to take in a show in multiple venues, and it's certainly rare to hear singers pick up instruments and become their own orchestra. *Bandits in the Valley* is no series of gimmicks, either. Helped by a strong cast and organic direction by [Michael Mori](/scene/people/michael-mori/), there are true moments of opera in this piece. As Henri, Sara Schabas found a fine balance between exaggerated wooing and the realities of unrequited homosexual love in the 1880s; Jacques Arsenault's Freddy is a standout performance in itself, an impressive combination of powerful singing, solid accordion chops (we're told that this was Roark's first foray into writing for the accordion), and heartfelt acting.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505174400482/2017-09-11---Bandits-photobyDahliaKatz-1346.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505174400482/2017-09-11---Bandits-photobyDahliaKatz-1346.jpg.jpg)
 <figcaption>Jacques Arsenault as Freddy and Keith Klassen as Jeremiah in *Bandits in the Valley*, Tapestry Opera, 2017. Photo by Dahlia Katz.</figcaption>
 </figure>
 

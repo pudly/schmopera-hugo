@@ -23,7 +23,9 @@ Laura Kaminsky's opera _As One_ is billed as "the most produced opera written in
 
 It's a truly original idea. Two performers (a mezzo soprano and baritone) portraying two sides of the same coin: a transgender character named Hannah. Born a boy and dressed like a boy in sneakers and a letterman jacket, Hannah (in the baritone phase of their life) secretly wears a blouse underneath because "it feels so right," as they deliver their newspapers on a paper route. Effective projections and films behind the singers follow Hannah's paper route, which is the beginning of their futile journey to become "the perfect boy" (represented by projections of sports images, etc.)  In school, Hannah writes cursively like a girl and during an essay on the famous poem by John Donne, refuses to conform to the notion that "no man is an island" because they feel so different, distant and apart from the rest of the students.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560816812/media/2019/06/AsOne1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1560816812/media/2019/06/AsOne1.jpg)
 
 <figcaption>Briana Elyse Hunter as Hannah in AS ONE. Presented by Kaufman Music Center in association with New York City Opera and American Opera Projects. Photo: Steven Pisano Photography.</figcaption>
 
@@ -35,7 +37,9 @@ Eventually they cross a bridge, both figuratively and literally, and enter colle
 
 There is only one detour from an otherwise solid libretto by Mark Campbell and film-maker Kimberly Reed (who also created the often-metaphorical video backgrounds). When Hannah is assaulted (dramatic enough in itself) there follows a reading of the names of real-life assault victims. This deliberately agitprop moment takes us out of the story. It's a singularly "on the nose" moment in an otherwise subtle and symbolic tale from two adept storytellers.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560816823/media/2019/06/AsOne2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1560816823/media/2019/06/AsOne2.jpg)
 
 <figcaption>Jorell Williams as Hannah in AS ONE. Presented by Kaufman Music Center in association with New York City Opera and American Opera Projects. Photo: Steven Pisano Photography.</figcaption>
 
@@ -43,7 +47,9 @@ There is only one detour from an otherwise solid libretto by Mark Campbell and f
 
 The final act is essentially a mezzo monologue as Hannah tries to get as far away as possible and winds up in Norway of all places. Hannah at last becomes "the island" they wrote about as a child. There are some comic misadventures as Hannah begins four days of soul-searching in "a shack with cabin aspirations." They fail miserably in an attempt to make jam from wild berries. They fail in an attempt to row what turns out to be a leaky boat. But eventually they figure out who they really are and not only fix the jam and the boat, but also repair the male-female split in their lives and return from Norway not as two, but "as one."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560816835/media/2019/06/AsOne3.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1560816835/media/2019/06/AsOne3.jpg)
 
 <figcaption>Jorell Williams (left) and Briana Elyse Hunter as Hannah in AS ONE. Presented by Kaufman Music Center in association with New York City Opera and American Opera Projects. Photo: Steven Pisano Photography.</figcaption>
 

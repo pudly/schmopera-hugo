@@ -23,6 +23,7 @@ platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/user-458961776"
 
+_template = "people_single"
 +++
 Renowned as an expert interpreter and champion of bel canto opera and a specialist in French repertoire and early Verdi, Italian conductor Enrique Mazzola is in demand worldwide as both an operatic and symphonic conductor. He is Principal Guest Conductor at Deutsche Oper Berlin from the 2018-19 season and served as Artistic & Music Director of the Orchestre National d’Île de France from 2012-13 to 2018-19. In October 2018 he was made a Chevalier de l'ordre des Arts et des Lettres reflecting his significant contribution to musical life in France.
 

@@ -20,7 +20,9 @@ I think the biggest issue is that when people see a world premiere of a new Amer
 
 When you are doing operas that are part of the traditional rep, you face a related set of challenges, but at least with something like *Nozze di Figaro*, if the production is bad, people still know the opera is a masterpiece. With a newer work like *Moby-Dick*, most of the audience will be experiencing the show for the first time with our production, so I have a responsibility both to my own vision and to show the piece off really well - I have to get it right! 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515718719530/2018-01-11---DSC03035.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515718719530/2018-01-11---DSC03035.jpg.jpg)
 <figcaption>Set design by Erhard Rom in progress for *Moby-Dick*. Image courtesy of Utah Opera.</figcaption>
 </figure>
 
@@ -32,7 +34,9 @@ It's also a story about obsession, of course, and about the destruction of the h
 
 It's dark and light, all in the same piece.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515718777149/2018-01-11---Kristine-McIntyre.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515718777149/2018-01-11---Kristine-McIntyre.jpg.jpg)
 <figcaption>Kristine McIntyre, stage director.</figcaption>
 </figure>
 

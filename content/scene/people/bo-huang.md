@@ -11,6 +11,7 @@ website = "http://www.bohuang.ca/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/bohuangphotography"
+_template = "people_single"
 +++
 
 Bo Huang is a portrait photographer whose rich cultural heritage is evident in his unique aesthetic. 

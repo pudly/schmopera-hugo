@@ -8,6 +8,7 @@ related_companies = ["scene/companies/university-of-toronto-opera.md","scene/com
 slug = "victoria-marshall"
 title = "Victoria Marshall"
 website = "https://www.victoriamarshall.ca/"
+_template = "people_single"
 +++
 
 Mezzo-soprano Victoria Marshall is a sought-after interpreter of opera, oratorio, and art-song. She recently made her two professional debuts as guest soloist in Handel’s *Messiah* with the Winnipeg Symphony Orchestra under the baton of Case Scaglione and with the Regina Symphony Orchestra under Hart Godden. Ms. Marshall was also honoured to create the role of Vashti in the world premiere of the science-fiction opera, *The Machine Stops*, based on Forster’s short story.

@@ -31,7 +31,9 @@ Ultimately, each of these spirit-filled moments of singing is what I believe to 
 
 After all of this, simply put, I just LOVE music and I LOVE to sing!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518478007510/John-Holiday%2C-credit-Fay-Fox-03.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518478007510/John-Holiday%2C-credit-Fay-Fox-03.jpg.jpg)
 <figcaption>Photo by Fay Fox.</figcaption>
 </figure>
 
@@ -49,7 +51,9 @@ Because I have had phenomenal teachers and coaches, I have to say that most of t
 
 I see the role of the countertenor voice, in contemporary opera, the same way that I see others.  There are so many possibilities and colors within the countertenor Fach, and I believe that composers are beginning to understand that.  For so long, I don't think that had been the case, but it certainly is now.  Whenever I meet a budding composer or work with a composer, I always ask them to write for the countertenor voice, and they have almost all said that they have.  That's the great thing.  As with most other voices, they use the countertenor voice to convey the gamut of the entire human expression. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518478046104/John-Holiday%2C-credit-Fay-Fox-01.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518478046104/John-Holiday%2C-credit-Fay-Fox-01.jpg.jpg)
 <figcaption>Photo by Fay Fox.</figcaption>
 </figure>
 

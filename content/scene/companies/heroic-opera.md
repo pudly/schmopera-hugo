@@ -13,5 +13,6 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/heroicopera/"
 
+_template = "company_single"
 +++
 The Heroic Opera Company was formed in February of 2017. Our mandate is to produce both concert and staged operas of Wagner, Strauss, and Verdi. Our aim is to enrich Vancouver's opera scene with more of these great operas for big, dramatic voices.

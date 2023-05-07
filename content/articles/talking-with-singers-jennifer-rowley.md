@@ -25,7 +25,9 @@ When I look at Tosca's jealousy over another woman, I honestly relate it back to
  
 As the opera progresses, and Tosca experiences immense tragedy and torture at the hands of Scarpia, her music and the orchestration get bigger, more intense, and more difficult – she grows in every way. It is an amazing journey to take, because the music really fills the character and her actions. It is as if Puccini was choreographing for Tosca in his orchestral writing, especially in Act II. So much is in the music that fuels the character, the choices she makes, and the change she experiences. This journey is the most exciting part of singing Tosca – both the journey of the evolution of the character as well as the music.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506545720338/10-6-09-Tosca_37.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506545720338/10-6-09-Tosca_37.jpg.jpg)
 <figcaption>Photo courtesy of Nashville Opera.</figcaption>
 </figure>
  

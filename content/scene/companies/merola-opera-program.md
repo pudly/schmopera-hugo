@@ -16,6 +16,7 @@ url = "https://www.facebook.com/MerolaOpera"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/merolaopera"
+_template = "company_single"
 +++
 
 <p>

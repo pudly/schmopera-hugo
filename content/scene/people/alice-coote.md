@@ -13,6 +13,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AliceCoote"
 
+_template = "people_single"
 +++
 World renowned Mezzo-soprano Alice Coote is regarded as one of the great artists of our day.
 

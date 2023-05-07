@@ -12,6 +12,7 @@ website = "https://www.ashleymilanese.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ashleymilanese"
+_template = "people_single"
 +++
 
 Sopranonown for her “masterful and show-stopping performance of Zerbinetta”, soprano ASHLEY MILANESE is “both a superb actress and singer”. Milanese is quickly emerging as an exciting young presence in the operatic world.  

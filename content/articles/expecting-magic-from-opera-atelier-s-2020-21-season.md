@@ -25,7 +25,9 @@ There's also a bonus item slated for July 2, 2020. Through special invitation by
 
 Not too many casting surprises this season; OA is making use of its ensemble of preferred singers. (If it ain't baroque, I guess.) For _The Magic Flute_, we'll hear [Colin Ainsworth](/scene/people/colin-ainsworth/) as Tamino, [Mireille Asselin](/scene/people/mireille-asselin/) as Pamina, Holly Flack as the Queen of the Night, and [Douglas Williams](/talking-with-singers-douglas-williams/) as Papageno. The run of shows will also include a relaxed performance, a first for Opera Atelier. _Dido and Aeneas_ will be [Meghan Lindsay](/scene/people/meghan-lindsay/) as Dido opposite [Christopher Enns](https://www.ragstoreasonable.com/) as Aeneas, plus [Allyson McHardy](/scene/people/allyson-mchardy/) as the Sorceress. _The Angel Speaks_ features dancer/choreographer Tyler Gledhill, Huizinga on violin, and singers Asselin, Ainsworth, and Jesse Blumberg.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580241685/media/2020/01/OA2021-Dido_j9zawu.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580241685/media/2020/01/OA2021-Dido_j9zawu.jpg)
 
 <figcaption>Opera Atelier's production of Dido & Aeneas. Photo by Bruce Zinger.</figcaption>
 
@@ -35,7 +37,9 @@ I realized that I'd never actually been to an Opera Atelier season reveal. They 
 
 Frankly, we should all be so lucky to get real-time commentary by Pynkoski. He's endlessly interested and interesting; he even had me craning my neck to see what he was on about with this business about downbeats being up in a choreographed fencing duel. For nearly 35 years, Opera Atelier has been putting up shows that, take it or leave it, have an aesthetic that is 100% fleshed out. In order to get the most out of their work, one has to dive in headfirst, few questions asked. And if you do have questions, best send them Pynkoski's way.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580241661/media/2020/01/OA2021-Flute_wmu2af.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1580241661/media/2020/01/OA2021-Flute_wmu2af.jpg)
 
 <figcaption>Opera Atelier's production of The Magic Flute. Photo by Bruce Zinger.</figcaption>
 

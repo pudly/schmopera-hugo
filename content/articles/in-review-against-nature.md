@@ -20,14 +20,18 @@ In the world premiere of *Against Nature* by composer [James Rolfe](/scene/peopl
 
 Dobson sings the role of "The Master" gracefully, magnificently and tenderly all at the same time. His mastery of various colours really painted the scene clearly. Rolfe's score flowed effortlessly as he traversed a remarkable vocal range demanded by the part. The score was very tuneful and romantic at points, with occasional leanings toward folk and pop tunes. It was a delight to listen to. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463136196563/2016-05-13---AGAINST-NATURE-Laurence-Lemieux-Alexander-Dobson-Geoffrey-Sirett-Still004.jpg.jpg)<figcaption>l-r: Laurence Lemieux, Alexander Dobson, and Geoffrey Sirett in Coleman Lemieux & Compagnie's *Against Nature*. Photo by Jeremy Mimnagh.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463136196563/2016-05-13---AGAINST-NATURE-Laurence-Lemieux-Alexander-Dobson-Geoffrey-Sirett-Still004.jpg.jpg)<figcaption>l-r: Laurence Lemieux, Alexander Dobson, and Geoffrey Sirett in Coleman Lemieux & Compagnie's *Against Nature*. Photo by Jeremy Mimnagh.</figcaption>
 </figure>
 
 As the servants, [Geoffrey Sirett](/scene/people/geoffrey-sirett/) and Laurence Lemieux were incredible. Sirett sang with his full, warm bass-baritone and sounded so delightful when singing with Dobson. There's just something magical about hearing two amazing lower voices sing together making such beautiful music. Sirett takes his work from *AtG's Messiah* (2013) to the next level in this piece in a much more demanding set of choreography - proving yet again that one can produce a beautiful lyric tone while fully engaging one's body and physicality. Lemieux danced with an earthy grace that told us not only that she is a sensual creature in this household, but also a force to be reckoned with in this environment. The two moved in and around Dobson with extreme precision and power. There was a freneticism to the dancing that was an excellent foil to Dobson's portrayal of the stiff, aristocratic nature of Esseintes. 
 
 [James Kudelka](http://colemanlemieux.com/company/james_kudelka/), director and choreographer, does a fantastic job infusing the story with subtext and drama, at points the servants acting almost as a physicalization of his subconscious. There was a definite expression of the suppression of sexuality. With Esseintes regularly noting how "sex disgusts him" (paraphrased - obviously), we see him battle with the demon of innate sexuality rearing its ugly head (portrayed by Sirrett and Lemieux) only to see him physically stop it - several times, once including a puppet. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463136301320/2016-05-13---AGAINST-NATURE-front-Alexander-Dobson-back-Laurence-Lemieux-Geoffrey-Sirett-Still006.jpg.jpg)<figcaption>l-r: Laurence Lemieux, Alexander Dobson, and Geoffrey Sirett in Coleman Lemieux & Compagnie's *Against Nature*. Photo by Jeremy Mimnagh.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463136301320/2016-05-13---AGAINST-NATURE-front-Alexander-Dobson-back-Laurence-Lemieux-Geoffrey-Sirett-Still006.jpg.jpg)<figcaption>l-r: Laurence Lemieux, Alexander Dobson, and Geoffrey Sirett in Coleman Lemieux & Compagnie's *Against Nature*. Photo by Jeremy Mimnagh.</figcaption>
 </figure>
 
 Rolfe's score was both sensitive to the needs of the singer while creating a beautiful sonority in the trio of Music Director [Steven Philcox](/scene/people/steven-philcox/) on piano, Parmela Attariwala on violin and Carina Reeves on cello. There were moments where they blended so well with the singers that it was hard to tell which instrument onstage was actually producing the pitch. The effect was mesmerizing. Bravi tutti.

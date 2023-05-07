@@ -19,7 +19,7 @@ A cadenza is arguably the part of any piece with the most freedom in it. Yet, ev
 
 This becomes especially important in _bel canto_ and everything that comes after it.  Composers like Verdi and Donizetti are more specific about their cadenzas, and the rhythmic values they write are part of the gesture. Without attention to rhythm, the cadenza with flute (or glass armonica) at the end of the _Lucia di Lammermoor_ mad scene just doesn't work. Have a look at this example from Violetta's Act I aria from _La traviata_:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454433878615/2016-02-02---Verdi-Cadenza.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454433878615/2016-02-02---Verdi-Cadenza.jpg.jpg)
 </figure>
 
 Lots of rhythm written here. The first bar of sixteenth notes on the top line is all about proportion; look how Verdi writes that high C at the end of the scale, followed by a _dotted quarter note_ B-flat. Between the C and the B-flat, there are two quarter beats to deal with. If you were to conduct those two beats, you'd feel the strength in the "early" entrance of the B-flat. It's unique, and it's Violetta. Sure, there's nothing underneath the soprano to really highlight the syncopated feeling of those two notes, but if the singer knows it's there, we'll hear it.

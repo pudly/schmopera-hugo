@@ -13,6 +13,7 @@ website = "http://www.allysonmchardy.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AllysonMcHardy"
+_template = "people_single"
 +++
 
 *The singing was magnificent tonight. Sister Prejean (McHardy) had an immense amount of singing throughout the night, and her expressive and demonstrative voice never showed signs of wear. She acted marvellously as well – not an easy task when portraying an Elvis-loving nun with a sharp, dry wit.” (Bachtrack)*

@@ -23,7 +23,9 @@ Menotti holds an unusual niche in musical history – he's one of the rare post-
 
 But *Amahl* is one of the only Menotti pieces still performed by opera companies today, and only during the holiday season since it's a Christmas story. Here, the famous Three Kings stop at a home during their long journey toward the Christmas Star. A woman (The Mother) offers them shelter and shares with them what little she has.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544636165402/OnSiteOpera-AmahlandtheNightVisitors02.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544636165402/OnSiteOpera-AmahlandtheNightVisitors02.jpg.jpg)
 <figcaption>Amahl (Devin Zamir Coleman) and his Mother (Aundi Marie Moore) in *Amahl and the Night Visitors*, On Site Opera, 2018. Photo: Pavel Antonov.</figcaption>
 </figure>
 
@@ -33,7 +35,9 @@ He has reimagined the Three Kings as part of the homeless population. They enter
 
 Mr. Einhorn has carefully crafted his staging to use every bit of the church sanctuary.  It's essentially performed in the round, but the characters use the audience space to great effect. When Amahl goes to the door three times to greet the Three Kings he crosses through the audience and goes to the actual church door. Chorus members surprise us as they are discovered sitting among the audience members. (A note about the chorus: some are professional singers and some are amateurs who have actually experienced homelessness.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544636154828/OnSiteOpera-AmahlandtheNightVisitors04.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544636154828/OnSiteOpera-AmahlandtheNightVisitors04.jpg.jpg)
 <figcaption>(l-r) Kaspar (Joseph Gaines) and Amahl (Devin Zamir Coleman) in *Amahl and the Night Visitors*, On Site Opera, 2018. Photo: Pavel Antonov.</figcaption>
 </figure>
 
@@ -43,7 +47,9 @@ As Amahl, ten-year-old boy soprano Devin Zamir Coleman makes a spectacular debut
 
 As written, the focal point of the piece is not just Amahl, however, but also his mother (Aundi Marie Moore). Ms. Moore filled every arch of the church with her powerhouse soprano. The poor and long suffering Mother must face a moral dilemma and requires a gifted actress like Ms. Moore. She was able to take us through the character's expressions of love for her son while at the same time struggling with her own fears. When Ms. Moore and Master Coleman have a short duet, prepare yourself for a short gasp and a tear in your eye.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544636146560/OnSiteOpera-AmahlandtheNightVisitors09.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544636146560/OnSiteOpera-AmahlandtheNightVisitors09.jpg.jpg)
 <figcaption>(l-r) Kaspar (Joseph Gaines), Balthazar (Musa Ngqungwana), Amahl (Devin Zamir Coleman), Amahl's Mother (Aundi Marie Moore), and members of the community chorus in *Amahl and the Night Visitors*, On Site Opera, 2018. Photo: Pavel Antonov.</figcaption>
 </figure>
 
@@ -55,7 +61,9 @@ All of this accompanied by Geoffrey MacDonald, who was in full command of his vi
 
 And if it wasn't enough to get a memorable night of opera, there was also a knockout dance in the middle of the show from choreographer Winson A. Benons, Jr.  Five dancers gave us a ballet with a modern and Middle Eastern twist. Their turns and twirls were as in sync as the Rockettes (without the kicks).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544636137991/OnSiteOpera-AmahlandtheNightVisitors11.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544636137991/OnSiteOpera-AmahlandtheNightVisitors11.jpg.jpg)
 <figcaption> Dancers (l-r) Marlene Desiree Watts, Dana Thomas, and Frances Barker in *Amahl and the Night Visitors*, On Site Opera, 2018. Photo: Pavel Antonov.</figcaption>
 </figure>
 

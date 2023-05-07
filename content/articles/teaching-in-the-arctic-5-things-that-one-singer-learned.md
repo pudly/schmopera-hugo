@@ -22,7 +22,9 @@ This summer I spent around half of my time working on my singing and the other h
 
 I offer free classes to kids and adults in communities in Nunavut. Participants sing in all three official languages (Inuktitut, English, French). In its first year, my program in Iqaluit had 14 participants register. I recently finished the second year, and we had 48 participants register and another 10 or 15 on the wait list. It has grown so quickly!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474016060969/2016-09-16---Gwenna-students.jpg.jpg)<figcaption>Gwenna Fairchild-Taylor's class of youngest students in Iqaluit. Photo by Thomas Rohner.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474016060969/2016-09-16---Gwenna-students.jpg.jpg)<figcaption>Gwenna Fairchild-Taylor's class of youngest students in Iqaluit. Photo by Thomas Rohner.</figcaption>
 </figure>
 
 There is a huge learning curve, and it has been exceptionally challenging, to say the least, but that is a conversation for another day.
@@ -49,7 +51,9 @@ That's why I spend the time on this that I do, to give someone full access to th
 
 I make it clear that I only know how to teach a small part of singing, and I welcome them to teach me things about other traditions. I can't throat sing - it wouldn’t be so good for my own singing, but I’ve learned a lot about how it works by watching and asking questions. There's also quite a lot of pop singing everywhere I go, not unlike teaching in Toronto.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474028868790/2016-09-16---Gwenna-Iqaluit.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474028868790/2016-09-16---Gwenna-Iqaluit.jpg.jpg)
 <figcaption>Gwenna Fairchild-Taylor in Iqaluit, NU.</figcaption>
 </figure>
 

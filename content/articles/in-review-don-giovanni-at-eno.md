@@ -20,7 +20,9 @@ So, it was a real moment of excitement to settle into the first minutes of Richa
 
 "How do you play Don Giovanni?" Asked Christopher Purves [in an interview](/talking-with-singers-christopher-purves/) about singing the title role. "You just don't - other people do it for you."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475276560568/2016-09-30---ENO-Don-Giovanni-Christopher-Purves-2-Robert-Workman.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475276560568/2016-09-30---ENO-Don-Giovanni-Christopher-Purves-2-Robert-Workman.jpg.jpg)
 <figcaption>Christopher Purves in *Don Giovanni*, ENO, 2016. Photo: Robert Workman.</figcaption>
 </figure>
 

@@ -22,6 +22,7 @@ platform = "Linkedin"
 template = "social-media"
 url = "https://www.linkedin.com/in/michael-christie-3a716611/"
 
+_template = "people_single"
 +++
 Michael Christie is a thoughtfully innovative conductor, equally at home in the symphonic and opera worlds, who is focused on making the audience experience at his performances entertaining, enlightening, and enriching. The New York Times reports, “Michael Christie is a director open to adventure and challenge,” and the Cincinnati Enquirer declares, “If Michael Christie represents the future of music in this country, the future looks promising indeed.”
 

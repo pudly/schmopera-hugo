@@ -29,7 +29,9 @@ With the Irish language in constant decline, and with the number of contemporary
 
 They've recruited 17 composers from around the world - including Canada's Ana Sokolovic - who were all “completely willing” to be a part of the project. With the help of experts in Irish literature and language pronunciation, the Irish Art Song Project team guided them through the largely new task of setting the Irish language to music.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574215281/media/2019/11/sqIrishArtSongCollage_vxpfj3.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1574215281/media/2019/11/sqIrishArtSongCollage_vxpfj3.jpg)
 
 <figcaption>(clockwise from top left) Magali Simard-Galdès & Louise Thomas; Daire Halpin; John Hess & Pauline Ashwood. Photos: Grianghraf/Photo Marshall Light Studio.</figcaption>
 
@@ -41,6 +43,8 @@ Essentially, the [Irish Art Song Project](https://www.cmc.ie/AmhrainEalaineGhaei
 
 For more info, check out the video below, or start [perusing the collection](https://www.cmc.ie/Amhr%C3%A1inEala%C3%ADneGhaeilge/Amhr%C3%A1in).
 
-<figure data-type="video">{{% md %}}<iframe width="789" height="444" src="https://www.youtube.com/embed/WwNfMEZJ3m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="789" height="444" src="https://www.youtube.com/embed/WwNfMEZJ3m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>

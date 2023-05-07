@@ -24,7 +24,9 @@ Boris gains his place as Tsar of Russian, after murdering Dmitry, the young, tru
 
 Pappano pulled enormous, rich sound from the orchestra, chorus, and soloists; Musorgsky's score is daunting, reminding us of huge buildings and loud bells and large systems of political power. Miriam Buether's sets mirrored the wide scope of the music, creating spaces that loomed large, often filled with Kremlin-reminiscent colour through Nicky Gillibrand's stunning costumes. It all looked quite Russian, in perhaps a stereotypical way; yet there was truth to this *Boris Godunov*, helped by a strong cast of singers.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458398645820/BRYN-TERFEL-AS-BORIS-GODUNOV-BEN-KNIGHT-AS-FYODOR-ROH-PHOTOGRAPH-BY-CATHERINE-ASHMORE.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458398645820/BRYN-TERFEL-AS-BORIS-GODUNOV-BEN-KNIGHT-AS-FYODOR-ROH-PHOTOGRAPH-BY-CATHERINE-ASHMORE.jpg.jpg)
 <figcaption>Bryn Terfel as Boris Godunov, Ben Knight as Fyodor. Copyright: ROH. Photograph by Catherine Ashmore.</figcaption>
 </figure>
 

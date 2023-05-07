@@ -19,6 +19,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/gravesmontgomery/"
 
+_template = "people_single"
 +++
 Recognized worldwide as one of today's most exciting vocal stars, Denyce Graves continues to gather unparalleled popular and critical acclaim in performances on four continents. _USA Today_ identifies her as "an operatic superstar of the 21st century," and the _Atlanta Journal-Constitution_ exclaims, "If the human voice has the power to move you, you will be touched by Denyce Graves."
 

@@ -17,6 +17,7 @@ platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JoyceSoprano?ref_src=twsrc%5Etfw"
 
+_template = "people_single"
 +++
 Her attention to musical style, combined with a striking stage presence and warm, rich voice have taken Joyce El-Khoury to debuts as Violetta in Verdi’s *La Traviata* with the De Nederlandse Opera, Welsh National Opera, Opéra Théâtre Saint-Etienne, and Palm Beach Opera; Desdemona in Verdi’s *Otello*, the title role in *Suor Angelica*, and Lauretta in *Gianni Schicchi*, all under the direction of Maestro Lorin Maazel at the Castleton Festival; and Antonina in Donizetti’s *Belisario* with Opera Rara at the Barbican Hall, under the baton of Sir Mark Elder - which marked her debut recording earned her an International Opera Award nomination for “Best Young Singer.”
 

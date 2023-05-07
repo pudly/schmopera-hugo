@@ -20,7 +20,9 @@ Good singing to me is the marriage of technique and dedication to the text. Prop
 
 When I'm able to achieve this it feels like I am free. There is nothing blocking or inhibiting what I am trying to express.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493603329144/2017-04-30---Vancouver-Opera--Sweeney-Todd--Johanna.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493603329144/2017-04-30---Vancouver-Opera--Sweeney-Todd--Johanna.jpg.jpg)
 <figcaption>Caitlin Wood as Johanna in Vancouver Opera's *Sweeney Todd*.</figcaption>
 </figure>
 
@@ -36,7 +38,9 @@ More: Get out and see more art! Whether it be opera, theater, ballet, musicals, 
 
 Less: Comparing themselves to others. There are a million and one ways to make a career in this business, so don't feel like you are failing or falling behind just because you aren't following the same exact same path as others. Your time and energy is precious so use it to find your path instead of wondering why yours isn't identical to someone else's.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493603319794/2017-04-30---EO-Cinderella.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493603319794/2017-04-30---EO-Cinderella.jpg.jpg)
 <figcaption>Caitlin Wood as Clorinda in Edmonton Opera's *Cinderella*.</figcaption>
 </figure>
 
@@ -48,7 +52,9 @@ A role that I'm not quite ready for, but would love to sing in five to ten years
 
 Ok, so full warning I am very aware that I will never get to sing this last one, but if I could switch out my voice with another fach for the night I would definitely sing the Commendatore from *Don Giovanni*. Lucky basses, they have in my opinion one of the most epic scenes in opera with the Commendatore dragging Don Giovanni to hell. Maybe in my next life!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493603310654/2017-04-30---IMG_0632.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493603310654/2017-04-30---IMG_0632.jpg.jpg)
 <figcaption>Caitlin Wood in action at Vancouver Opera's *BMO Overture: All That Glitters*. Photo by Jonathan Cruz.</figcaption>
 </figure>
 

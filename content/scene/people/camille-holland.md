@@ -20,6 +20,7 @@ url = "https://www.instagram.com/shorthairedsoprano/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCVgjhXZcXpLLksUczZ-alYA"
+_template = "people_single"
 +++
 
 Soprano Camille Holland, described as having a “pure, unaffected approach” in *Opera Canada* magazine, has been singing professionally since the age of nine. She has received numerous scholarships and awards since, including the Phyllis and Bernard Shapiro Scholarship in Opera (McGill University), and the first place award in the Vancouver Women’s Musical Society’s 2016 Scholarship Competition.

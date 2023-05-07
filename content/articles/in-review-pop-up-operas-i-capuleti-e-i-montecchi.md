@@ -18,19 +18,25 @@ The raw concrete cylinder of the Thames Tunnel Shaft at the Brunel Museum is a d
 
 Pop Up Opera's touring production of [*I Capuleti e i Montecchi*](http://popupopera.co.uk/whats-on/current/I-Capuleti-e-i-Montecchi/) has traveled across the southern UK for nearly a month, and it's impressive that the production, directed by James Hurley, feels at home in its latest London venue. The action takes place in the round, and the cast of five make a handful of forays into the crowd; it's one of the advantages - responsibilities, even - of performing with an audience at arm's length. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491403115061/2017-04-04---Pop-Up-Opera-Bellini-I-Capuleti-e-I-Montecchi-Richard-Lakos-6.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491403115061/2017-04-04---Pop-Up-Opera-Bellini-I-Capuleti-e-I-Montecchi-Richard-Lakos-6.jpg.jpg)
 <figcaption>Cliff Zammit-Stevens as Tebaldo and Flora McIntosh as Romeo in *I Capuleti e i Montecchi*, Pop Up Opera, 2017. Photo by Richard Lakos.</figcaption>
 </figure>
 
 In addition to the cast, what worked well were the mobile, minimal set pieces and creative use of lighting. The scattering of chairs, suitcases, and fluorescent light bulbs evoked a desperate, secret tale that matched the frustrating and familiar story of Bellini's opera, based on the star cross'd lovers in Shakespeare's play. [Flora McIntosh](/scene/people/flora-mcintosh/) had a hardy, masculine sound that seemed almost recklessly loud; her Romeo felt at once a pillar of strength, and a man nearing a state of having nothing left to lose. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491403146581/2017-04-04---Pop-Up-Opera-Bellini-I-Capuleti-e-I-Montecchi-Flora-McIntosh-as-Romeo-courtesy-Richard-Lakos-4.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491403146581/2017-04-04---Pop-Up-Opera-Bellini-I-Capuleti-e-I-Montecchi-Flora-McIntosh-as-Romeo-courtesy-Richard-Lakos-4.jpg.jpg)
 <figcaption>Flora McIntosh as Romeo in *I Capuleti e i Montecchi*, Pop Up Opera, 2017. Photo by Richard Lakos.</figcaption>
 </figure>
 
 [Alice Privett](/scene/people/alice-privett/) was a perfect foil as Giulietta; with the air of a young woman forced to grow up quickly, she sang with a thoughtful, lovely sound that seemed to match her big, sad eyes. [Cliff Zammit-Stevens](/scene/people/cliff-zammit-stevens/) was a gritty, dangerous Tebaldo, paired with the imposing figure of Capellio, sung by [Andrew Tipple](/scene/people/andrew-tipple/). [Richard Immerglück](/scene/people/richard-immergluck/) was a sympathetic Lorenzo, a character left largely helpless both by Shakespeare and by Felice Romani, Bellini's librettist.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491403135857/2017-04-04---Pop-Up-Opera-Bellini-I-Capuleti-e-I-Montecchi-Alice-Privett-as-Giulietta-and-Flora-McIntosh-as-Romeo-courtesy-Richard-Lakos.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491403135857/2017-04-04---Pop-Up-Opera-Bellini-I-Capuleti-e-I-Montecchi-Alice-Privett-as-Giulietta-and-Flora-McIntosh-as-Romeo-courtesy-Richard-Lakos.jpg.jpg)
 <figcaption>Alice Privett as Giulietta and Flora McIntosh as Romeo in *I Capuleti e i Montecchi*, Pop Up Opera, 2017. Photo by Richard Lakos.</figcaption>
 </figure>
 

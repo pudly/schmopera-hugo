@@ -14,6 +14,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCmwYh4CG0XTOU0Ae4iFuY1w"
 
+_template = "people_single"
 +++
 Cuban American tenor, Andres Acosta, begins the 2017 season with his final Master’s recital at the Jacobs School of Music, where he studied with acclaimed soprano, Carol Vaness. Andres will spend his summer as a part of the Merola Opera Program and will make his San Francisco debut as a part of the Scwabacher Concert.  He will also cover Ramiro in Rossini’s *La Cenerentola* and perform on the Grand Finale Concert.  He will then be a Resident Artist with Minnesota Opera as a part of their 2017-2018 season.
  

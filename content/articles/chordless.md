@@ -27,7 +27,9 @@ But Chordless has created an intriguing piece of art with this Crumb video, and 
 
 You can catch a little snippet of the video below. To tune in for its full release, [register for free right here](https://www.eventbrite.com/e/chordless-online-music-video-premiere-discussion-tickets-104455443042).
 
-<figure data-type="video">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/uvakcRthb_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/uvakcRthb_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <figcaption></figcaption>
 

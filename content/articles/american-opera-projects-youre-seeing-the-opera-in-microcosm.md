@@ -20,7 +20,7 @@ If it weren't for AOP I wouldn't be writing opera. Years ago, I attended a [Comp
 
 Shortly after, Stefan and I saw David Lang and Mac Wellman's *The Difficulty of Crossing a Field* at Montclair State University's Peak Performance series, and basically, I wouldn't stop bugging him to let me write a libretto or song lyric. Stefan was tight with AOP, which produced his opera *Darkling*, and they eventually became my home for new work. Nearly everything I've done so far, AOP has been involved on some level: libretto reading, co-producing, or presenting work in concert. That includes *Fade* (2008) and *The Scarlet Ibis* (2015) with Stefan; and *Three Way* (2017) with Robert Paterson and *We've Got Our Eye on You* (in progress) with Nkeiru Okoye. Like I said: They are my opera home.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505060953242/2017-09-10---Cote-Paterson.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505060953242/2017-09-10---Cote-Paterson.jpg.jpg)
 <figcaption>David Cote (left) and composer Robert Paterson at the opening night party of *Three Way*, BAM Fisher, Brooklyn, NY. Photo via [AOP](https://www.flickr.com/photos/americanoperaprojects/sets/72157682345991542/with/35489851115/).</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ They also know that when it comes to new opera, there are no rules. There's no o
 
 Opera fans might not know that developing new work is a slow process. It should involve libretto readings before a single note has been written, workshops, audience feedback, and more workshops. Opera is such a complex and expensive endeavor, it doesn't have the same margin of failure that commercial musical-theater enjoys. Your average Broadway-style musical has three or four weeks of previews that allow for rewrites, cuts, new material and re-staging. Once, I saw Tony Kushner interview Stephen Sondheim. Kushner asked Sondheim why he never wrote opera. Sondheim's answer: "Previews. In opera, you only get one."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505060789877/Coteportrait.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505060789877/Coteportrait.jpg.jpg)
 <figcaption>David Cote, librettist (*Three Way*, *Fade*, *The Scarlet Ibis*). Photo by Jenny Woodward.</figcaption>
 </figure>
 

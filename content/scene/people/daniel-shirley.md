@@ -12,6 +12,7 @@ website = "http://danielshirleytenor.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/DSTenor"
+_template = "people_single"
 +++
 
 Of his Carnegie Hall debut, the New York Concert Review noted, “Daniel Shirley’s voice soared over the large forces with strength and clarity.” The tenor continues to earn critical praise for insightful, dramatically affecting performances in concert, musical theater, and opera.

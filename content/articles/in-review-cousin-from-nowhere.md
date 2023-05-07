@@ -17,7 +17,9 @@ I went to [Toronto Operetta Theatre](http://www.torontooperetta.com/)'s _Cousin
 
 The story is one of lost childhood sweethearts, mistaken identities, and parental control, all that stuff that makes up a sweet story: Julia loves Roderich, staying true to him even though he's been away for seven years, and she's sure he's staying true to her too. When a stranger shows up needing a place to stay, he hears about her long-lost love, and bluffs his way into Julia's arms. Hilarity ensues, until the read Roderich finally does return. I'd be interested in reading the libretto in its original German, since I couldn't shake the feeling that I was listening to a pretty hokey translation of the text. Now, I'll grant a silly plot, but it's a shame when the anachronistic dialogue keeps the singers from creating characters that are relatable.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429836521168/LuciaNyby.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429836521168/LuciaNyby.jpg.jpg)
 <figcaption>Lucia Cesaroni and Michael Nyby. Photo: Emily Ding.
 </figcaption>
 </figure>
@@ -26,7 +28,9 @@ The singing was my favourite part of this show. Soprano [Lucia Cesaroni](https:/
 
 Tenor [Christopher Mayell](http://www.deanartists.com/vocal/tenor/christopher-mayell) shone as August, the wanderer/charlatan who pretends to be Julia's long-lost love. Chris has something endearing about him when he's onstage, even when his character is basically a con-man. He sang beautifully, with more ease and depth than I've heard before, and it was wonderful to hear him in a lead role with dramatic ups and downs. His character had plenty of the show's hit tunes to sing, and I thought they suited his sweet, vulnerable voice. Chris also had some of my favourite quotable quotes from the English translation, including, "You little vixen!" Bravo, friend.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429836584392/GregCharlotte.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429836584392/GregCharlotte.jpg.jpg)
 <figcaption>Charlotte Knight and Gregory Finney. Photo: Emily Ding</figcaption>
 </figure>
 
@@ -34,7 +38,9 @@ In what was the most anticipated entrance of the evening, baritone [Gregory Finn
 
 As Egon, the poor guy who (unrequitedly) loves Julia, tenor [Stefan Fehr](http://www.torontooperetta.com/artists.htm) was great. The role didn't give him much to sing, either because it was a patter-type number or it was a bit low. But he was vocally solid and hilariously tragic as the "what about me??" guy after everyone else's happy end. Baritone [Michael Nyby](http://www.michaelnyby.com/Site/Welcome.html) gave a spectacular performance as Julia's uncle, Josef. I thought his was some of the best singing of the night. Michael had enormous power that overflowed from the stage, making me think of Verdi baritones, and making me itch to hear him more in Toronto. As Julia's aunt, [Elizabeth Beeler](http://www.linkedin.com/pub/elizabeth-beeler/3b/7b/763) was a shrill, clucking, fainting caricature of a turn-of-last-century, well-do-to lady. I thought she was great for this character, but she didn't seem to fit the vocal aesthetic of everyone else in the cast. She had a pretty darn impressive chest-head voice mix, which gave her lots of volume and room to act. Beeler was the only singer to really use this kind of singing, and while I didn't mind it in principle, she stood out in a way that I don't think was intended.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429836679318/Cousin-from-Nowhere-6137-1024x681.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429836679318/Cousin-from-Nowhere-6137-1024x681.jpg.jpg)
 <figcaption>Lucia Cesaroni and Charlotte Knight. Photo: Emily Ding</figcaption>
 </figure>
 

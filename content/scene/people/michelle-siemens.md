@@ -12,6 +12,7 @@ website = "http://www.michellesiemens.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/mlbsiemens"
+_template = "people_single"
 +++
 
 Mezzo-soprano Michelle Siemens caught the performing bug early. When she was just four years old, she took part in a youth musical theatre program and “no one has been able to drag me off [the stage] since!” 

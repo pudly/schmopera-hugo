@@ -24,7 +24,9 @@ The program this year features Rachel Krehm herself, violinists Yosuke Kawasaki 
 
 The fourth annual [Elizabeth Krehm Memorial](https://www.facebook.com/events/1792049287730538/) concert will be held on **Monday, November 14th at 7:30PM**. Tickets are pay-what-you-can (suggested donation of $20, but every little bit helps). The program is sure to be as inspiring as it is beautiful. If you're free, please consider popping on over to support this fantastic cause. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478957495343/14568039_10102754321534497_7731289582600208404_n.jpg%3Foh%3D8183426e863baa315f879574f65a04a9%26oe%3D588B31E1)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478957495343/14568039_10102754321534497_7731289582600208404_n.jpg%3Foh%3D8183426e863baa315f879574f65a04a9%26oe%3D588B31E1)
 </figure>
 
 **Early donations, allowing bypass of the line, may be made on the St. Michael's Hospital [Elizabeth Krehm Memorial Page](http://smh.convio.net/site/TR/Events/General?pxfid=3040&fr_id=1100&pg=fund).**

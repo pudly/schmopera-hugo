@@ -25,6 +25,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/CincinnatiOpera"
 
+_template = "company_single"
 +++
 Founded in 1920 and the second oldest opera company in the U.S., Cincinnati Opera presents a thrilling roster of world-class artists and conductors, important company debuts, stunning sets and costumes, and the spectacular Cincinnati Symphony Orchestra. Today the company is hailed as Cincinnati's "prime summer arts festival," attracting a passionate regional audience as well as opera tourists from throughout the U.S. and Canada.
 

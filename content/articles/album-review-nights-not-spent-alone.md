@@ -18,7 +18,7 @@ title = "Album review: Nights Not Spent Alone"
 
 The songs of *All You Who Sleep Tonight* were written for [Nuala Willis](http://www.nualawillis.com/), a singer, actress, and children's author with whom Dove worked often ("I wanted to write some songs that would hint at that side of this unique performer – songs she might sing somewhere between a night-club and the Wigmore Hall."), and *Cut My Shadow* is an arresting set written for Welsh mezzo [Buddug Verona James](https://en.wikipedia.org/wiki/Buddug_Verona_James). Whately adds herself to the living voices for whom Dove wrote his music; the title set, *Nights Not Spent Alone*, are set to texts by Edna St Vincent Millay that Whately herself brought to the composer. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492909810049/2017-04-22---Kitty-Whately.jpg.jpg)
+<figure data-type="image">//res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492909810049/2017-04-22---Kitty-Whately.jpg.jpg)
 <figcaption>Kitty Whately, mezzo-soprano.</figcaption>
 </figure>
 

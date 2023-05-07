@@ -40,7 +40,9 @@ A few examples of what Verdi Off has to offer this year:
 
 In addition to Verdi Off, we continue with AroundVerdi and VerdiYoung. The former is dedicated to young people and to the blending of expressive genres and language to stimulate new reflections on the music of Verdi. The latter is designed for young children, with shows, projects and teaching laboratories, as well as fun musical activities, aimed at instilling and deepening their appreciation of the Maestro and his works.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507213227896/2017-10-05---Verdi-Off---Notte-verdiana_ph----Annalisa-Andolina.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507213227896/2017-10-05---Verdi-Off---Notte-verdiana_ph----Annalisa-Andolina.jpg.jpg)
 <figcaption>Verdi Off's Notte verdiana. Photo: Annalisa Andolina.</figcaption>
 </figure>
 
@@ -52,7 +54,9 @@ The Festival Verdi was inaugurated in 2001, one hundred years after Verdi's deat
 
 Each autumn, around Giuseppe Verdi's birthday on October 10th, his two hometowns of Parma and Busseto resonate with unique colours and fragrances that speak to our collective imagination, the Festival Verdi comes to life: a full month of music, opera, exhibitions and conferences to celebrate the great Maestro.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507213254341/2017-10-05---Teatro-Farnese-photo-Roberto----Ricci.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507213254341/2017-10-05---Teatro-Farnese-photo-Roberto----Ricci.jpg.jpg)
 <figcaption>The Teatro Farnese di Parma. Photo: Roberto Ricci.</figcaption>
 </figure>
 

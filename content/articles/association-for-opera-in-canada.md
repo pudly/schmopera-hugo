@@ -29,7 +29,9 @@ The RBC Artist Fellowship, designed and led by AOC Programs Associate Jaclyn Gro
 
 AOC is a still-new iteration of [Opera.ca](https://www.opera.ca/), with goals that agree with the needs of a contemporary artist in the opera sector. Young-artist readers, [consider applying](https://www.opera.ca/programs/leadership-innovation-networking-knowledge-link-emerging-artist-programs/) for this one.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631798786/media/2021/09/AOC2_bhor2a.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1631798786/media/2021/09/AOC2_bhor2a.jpg)
 
 <figcaption>A snap from the Association for Opera in Canada's Opera Summit at UBC, Vancouver, 2019.</figcaption>
 

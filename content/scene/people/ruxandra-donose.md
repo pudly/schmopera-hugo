@@ -9,6 +9,7 @@ social_media = []
 title = "Ruxandra Donose"
 website = "http://www.ruxandradonose.com/"
 
+_template = "people_single"
 +++
 Among the most renowned singers of her generation, Ruxandra Donose has captured critical and popular acclaim in leading opera houses and concert halls around the world. Particularly associated with the Mozart and French lyric repertoire, she has transitioned in recent year to the German dramatic repertoire, enjoying huge successes as Kundry Parsifal, with Sir Simon Rattle and the Berlin Philharmonic and Elektra in Manfred Trojan’s _Orest_ at Opernhaus Zürich. This season she maker eagerly anticipated debuts as Fricka in Dieter Dorn’s production of _The Ring Cycle_ at Grand Théâtre de Genève and as Sieglinde _Die Walküre_ with Vladimir Jurowski and the London Philharmonic Orchestra as well as returning to Grange Park to reprise her acclaimed portrayal of Eboli _Don Carlo_.
 

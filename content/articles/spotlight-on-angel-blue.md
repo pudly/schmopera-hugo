@@ -26,7 +26,9 @@ Good singing... I'm not sure that it can really be described. I don't know what 
 
 I suppose, for me, that good singing simply means that I'm committed to whatever I'm singing, be it opera, oratorio, or a gospel song I grew up with.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465826365314/2016-06-13---Angel-Blue---Credit-Sonya-Garza.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465826365314/2016-06-13---Angel-Blue---Credit-Sonya-Garza.jpg.jpg)
 <figcaption>Photo by Sonya Garza.</figcaption>
 </figure>
 

@@ -18,7 +18,7 @@ There are a couple of ways to add context to those lonely starting notes, and ma
 
 Another approach is to apply the singer's starting pitch to the harmonies underneath it. The simplest way is to play the starting chord (the implied harmony, at the very least), and then distinctly add the singer's note. Harmonic context can help clear up any doubts the singer may have about where they are in the score, or where they should be in their blocking.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479136341410/2016-11-15---Gilda-note.jpg.jpg)<figcaption>Give Gilda a hand: try playing all these notes as one generous chord, with the top G clearly audible.<figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479136341410/2016-11-15---Gilda-note.jpg.jpg)<figcaption>Give Gilda a hand: try playing all these notes as one generous chord, with the top G clearly audible.<figcaption>
 </figure>
 
 Bonus tip: if the singer hears the note, and still looks a bit puzzled, help them out by playing the next few notes to jog their memory.

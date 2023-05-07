@@ -17,6 +17,7 @@ url = "https://www.facebook.com/pages/Anna-Netrebko/105861839447290"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AnnaNetrebko"
+_template = "people_single"
 +++
 
 <p>

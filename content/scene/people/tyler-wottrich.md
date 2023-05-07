@@ -9,6 +9,7 @@ slug = "tyler-wottrich"
 title = "Tyler Wottrich"
 website = "https://www.tylerwottrich.com/"
 
+_template = "people_single"
 +++
 Recently appointed to the faculty at North Dakota State University, pianist Tyler Wottrich has developed a career spanning an unusually broad spectrum of musical genres including solo piano, chamber music, opera, and ballet. An alumnus of Carnegie Hall’s Ensemble ACJW, Wottrich performs frequently in such venues as Carnegie's Zankel and Weill Halls, the Chicago Cultural Center, and the Juilliard School. Wottrich received the 2011 Emerson Quartet's Ackerman Prize for chamber music and has performed with such artists as Carol Wincenc, Patrick Gallois, Alan Kay, Frank Morelli, Kevin Cobb, William VerMeulen, Harry Bicket, Andres Diaz, and Ransom Wilson. The growing list of composers he has worked with includes John Corigliano, Bright Sheng, John Luther Adams, David Lang, Missy Mazzoli, and Richard Hundley. In his collaboration with Bolshoi prima ballerina Nina Ananiashvili, Tyler was described by the Minneapolis Star Tribune as "fearless and loving." His performances have been heard on classical radio stations including Chicago's WFMT, Cleveland's WCLV, Minnesota's MPR, and Michigan's WMNU. In summer 2015, Wottrich joined the collaborative piano faculty at the Banff Centre, one of Canada’s most prominent music festivals.
  

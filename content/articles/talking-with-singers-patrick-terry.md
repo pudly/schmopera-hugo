@@ -33,7 +33,9 @@ I love singing baroque music because it is a team sport. Of course all music-mak
 
 There is nothing prescriptive about it, and it means that every time you hear baroque music you learn as much about the performing musicians as you do about the music being performed.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553020116/media/2019/03/PatrickTerry.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1553020116/media/2019/03/PatrickTerry.jpg)
 
 <figcaption>Patrick Terry, countertenor.</figcaption>
 

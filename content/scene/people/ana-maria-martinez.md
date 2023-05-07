@@ -13,6 +13,7 @@ website = "http://anamariamartinez.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/anamariasoprano"
+_template = "people_single"
 +++
 
 Grammy Award® winner Ana María Martínezis considered to be one of the foremost sopranos ofthe time, with an international career that spans the world’s most important opera houses and concert halls.  With a repertoire that encompasses opera’s most intriguing and diverse leading ladies, she engages her audiences time and time again with signature roles, spellbinding debuts, and a myriad of captivating recordings.  

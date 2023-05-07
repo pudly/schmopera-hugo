@@ -22,7 +22,9 @@ Born of a wealthy family, he remained humble and worked in a wide variety of mus
 
 Vaughan Williams wrote *Fantasia on Greensleeves* for string orchestra and it shows us clearly and plainly his love for both Tudor-era music - the tune being attributed to Henry VIII, and folk music - which is heard in dancing abundance during the development sections. The harp featured prominently in moments of stillness before the full contingent of the orchestra swept us off into song, which brought a decidedly faerie (yes - I spelled it that way) festivity. Following on the heels of that was the stunning *Concerto for Oboe and String Orchestra*, a tour-de-force of a piece that had Ms. Jeffrey playing pretty much every measure from start to finish. The piece was trademark Vaughan Williams with a cantabile melody throughout the orchestral parts punctuated by roulades and arpeggiated passages from the solo instruments. I've said it before, and I'll say it again. I. Love. Oboes. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510940601842/2017-11-17---Sarah-Jeffrey-Jag-Gundu-TSO.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510940601842/2017-11-17---Sarah-Jeffrey-Jag-Gundu-TSO.jpg.jpg)
 <figcaption>Sarah Jeffrey, oboist. Photo: Jag Gundu/TSO.</figcaption>
 </figure>
 
@@ -32,7 +34,9 @@ Soprano Carla Huhtanen sang with her bright, piercing yet warm tone and was a pe
 
 Rounding out the vocal aspect of the piece, the Elmer Iseler Singers sang with a beautiful, haunting quality that instilled a sense of introspection. My only qualms would have to be the diction, RTH is notorious for gobbling up consonants as if it were me left alone with a tray of brownies, so when using texts as beloved as Shakespeare's, it does detract from the performance. Other than that, I found it a shame that this was the only time we saw the four soloists as they sang magnificently together. I was craving more. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510940647055/2017-11-17---Teng-Li%2C-EIS%2C-Oundjian-Jag-Gundu-TSO.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510940647055/2017-11-17---Teng-Li%2C-EIS%2C-Oundjian-Jag-Gundu-TSO.jpg.jpg)
 <figcaption>Teng Li, violist. Photo: Jag Gundu/TSO.</figcaption>
 </figure>
 
@@ -40,7 +44,9 @@ Rounding out the vocal aspect of the piece, the Elmer Iseler Singers sang with a
 
 Then came the infamous *Piano Concerto in C* - a piece apparently panned at its premiere due to the fact that the pianist couldn't play it. This was not the case on Wednesday night. Louis Lortie handled the complex rhythms and harmonies with deft precision and artistry. It was definitely a highlight of the night. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510940702585/2017-11-17---Louis-Lortie%2C-Peter-Oundjian_2-Jag-Gundu-TSO.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510940702585/2017-11-17---Louis-Lortie%2C-Peter-Oundjian_2-Jag-Gundu-TSO.jpg.jpg)
 <figcaption>Louis Lortie and Peter Oundjian. Photo: Jag Gundu/TSO.</figcaption>
 </figure>
 

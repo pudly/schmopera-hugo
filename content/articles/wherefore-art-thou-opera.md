@@ -42,13 +42,17 @@ A few cases in point: Peter Hinton's recent COC production of [*Louis Riel*](/di
 
 Yep. That's it in a nutshell. The work has tremendous moments, whether musically or dramatically, and then there are the blind spots, those tone-deaf moments where you just can't believe what you are seeing and hearing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542229688976/2017-04-27---LouisRiel-MC-0679.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542229688976/2017-04-27---LouisRiel-MC-0679.jpg.jpg)
 <figcaption>(centre) Justin Many Fingers (Mii-Sum-Ma-Nis-Kim) as The Buffalo Dancer in a scene from the Canadian Opera Company's new production of *Louis Riel*, 2017, photo: Michael Cooper.</figcaption>
 </figure>
  
 And now we come to *Rigoletto*. Two recent productions — at the COC last season and in Montréal this season — served up this toxic patriarchal soup with differing results. [Christopher Alden's COC production](/great-music-distracting-sexuality-rigoletto/) at least attempted to point out the unpleasant "boy's club" nature of Rigoletto's court, causing us to examine what kind of society it is when men can quietly sit in plush leather armchairs in an oak-paneled room reading the paper while nasty goings-on with women ensue. The use of Giovanna as a procurer for the Duke rather than as a protector of Gilda was an interesting touch, but I wondered — why choose to present women as intriguing and conspiring against one another?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542229698680/17-18-03-MC-D-0096.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542229698680/17-18-03-MC-D-0096.jpg.jpg)
 <figcaption>A scene from the Canadian Opera Company's production of *Rigoletto*, 2018. Photo: Michael Cooper.</figcaption>
 </figure>
 

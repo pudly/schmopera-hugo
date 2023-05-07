@@ -17,6 +17,7 @@ url = "https://www.facebook.com/KaraShayThomson/?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/TheKaraShay"
+_template = "people_single"
 +++
 
 Recognized for the natural beauty of her voice and her sense of dramatic insight, American soprano Kara Shay Thomson is proving herself a versatile and essential artist on the operatic and concert stages. *Opera News* writes, "Kara Shay Thomson gave an elegant performance as Leonore in *Fidelio*, a welcome foray into Beethoven’s only opera. Thomson, known for her *Tosca* with Sarasota and other regional companies, was a galvanizing vocal presence right from 'Komm, Hoffnung,' spontaneous and powerful in her Act I aria to faithful married love." 

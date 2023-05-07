@@ -25,7 +25,9 @@ youtube_url = ""
 
 **Barton**: "I've heard many personal accounts of female friends who have chosen to stay in their dysfunctional (and sometimes abusive) relationships because the idea of being on their own was either untenable, or more frightening than just staying. The story is driven in large part by the fact that Carmen is 'free as the air,' and will not change that part of her personality for anyone. That radical point of view – in the face of toxic masculinity and the patriarchal notion of ownership over women – has held the fascination of audiences for almost 150 years."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631539032/media/2021/09/LidiyaYankovskaya_KateLemmon_zsiotp.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1631539032/media/2021/09/LidiyaYankovskaya_KateLemmon_zsiotp.jpg)
 
 <figcaption>Conductor Lidiya Yankovskaya, Music Director of Chicago Opera Theater. Photo: Kate Lemmon.</figcaption>
 
@@ -37,7 +39,9 @@ youtube_url = ""
 
 **Yankovskaya**: "I don't think the story changes at all--it is still a story of a tumultuous relationship, with possessiveness and jealousy that (spoiler alert) leads to murder. However, I do find that each performer--no matter who they are--brings their own experience and perspective to the character. I am sure that as with anyone else singing the role, Stephanie's personal perspective will illuminate Don José in a unique way. Perhaps this casting will also help bring modern audiences closer to the story, as the social stigma encountered by Carmen and Don José has parallels to what queer couples face in contemporary American culture."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631539001/media/2021/09/StephanieBlythe_BlythelyOratonio_iwafs4.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1631539001/media/2021/09/StephanieBlythe_BlythelyOratonio_iwafs4.jpg)
 
 <figcaption>Mezzo-soprano Stephanie Blythe as Blythely Oratonio.</figcaption>
 
@@ -51,7 +55,9 @@ youtube_url = ""
 
 **Barton**: "I've always hated the notion that Carmen is a slutty, evil temptress who ruins Don José's life, and I've seen that story told many times across many productions. And yet, it’s not surprising... women who are independent, strong, and sexually liberated have a long history of receiving society's scorn because they refuse to break themselves in order to fit the approved mold. Carmen is many things, but a slutty, evil temptress? Nope – that's a cop-out, and a story perpetuated for ages to keep women away from their own power."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631539111/media/2021/09/MichaelSumuel_KristinHoebermann_qhhs3r.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1631539111/media/2021/09/MichaelSumuel_KristinHoebermann_qhhs3r.jpg)
 
 <figcaption>Bass-baritone Michael Sumuel, who sings Escamillo in Chicago Opera Theater's production of Carmen, 2021. Photo: Kristin Hoebermann.</figcaption>
 

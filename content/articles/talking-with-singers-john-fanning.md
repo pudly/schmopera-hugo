@@ -30,7 +30,9 @@ His role in *Arabella* is the most recent in Fanning's long history with the Can
 
 For any working opera singer, maintaining an over-30-year career like Fanning's is no accident. "Good advice was the big one," he says of the elements needed for longevity on the stage. His training came with plenty of advice about which roles to take and which to turn down. "I mostly sang roles I should have," he says, adding with a laugh, "with the odd exception to stretch things." Those roles have included everything from Figaro in *Il barbiere di Siviglia*, to Wotan in the COC's production of *Das Rheingold* (marking the opening of the Four Seasons Centre in 2007), to the title role in the world premiere of John Estacio's *Frobisher*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506991848467/Fanning%2C%20John%202.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506991848467/Fanning%2C%20John%202.jpg.jpg)
 <figcaption>John Fanning, Canadian baritone.</figcaption>
 </figure>
 

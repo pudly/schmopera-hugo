@@ -30,7 +30,9 @@ Next up was Essential Opera. In a game show fashion the audience got to choose b
 
 Back down to the bar to confirm the rest of my schedule for the night, "Why yes sir, I WOULD like another glass of red."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461943093699/2016-04-29---Bar.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461943093699/2016-04-29---Bar.jpg.jpg)
 <figcaption>Photo by Gregory Finney.</figcaption>
 </figure>
 
@@ -40,7 +42,9 @@ Back down to the bar to confirm the rest of my schedule for the night, "Why yes 
 
 Then up one more flight, for what turned out to be my favourite instalment.  Liederwölfe themselves presented a selection of numbers from across the standard canon, Verdi-to-Weill kind of deal. Their use of the tech available in the room was what elevated this more to a site-specific performance from the top-quality salon vibe some of the other rooms had. Leiderwölfe gave us a stellar quartet, featuring tenor Graham Thomson who sings a mean Verdi, and tenor Josh Wales who brings Weill to life close enough to touch. Accompaniment by a recorded track (which worked brilliantly for the Puccini) sometimes got out of sync, especially when more people joined in the singing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461943152236/2016-04-29---Wales-Liederwolfe.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461943152236/2016-04-29---Wales-Liederwolfe.jpg.jpg)
 <figcaption>Joshua Wales in Liederwölfe's presentation in *#OperaPeepShow*. Photo by Gregory Finney.</figcaption>
 </figure>
 

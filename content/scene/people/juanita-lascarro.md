@@ -9,6 +9,7 @@ related_companies = ["scene/companies/royal-opera-house.md","scene/companies/deu
 slug = "juanita-lascarro"
 title = "Juanita Lascarro"
 website = "http://www.juanita-lascarro.de/e_index.htm"
+_template = "people_single"
 +++
 
 Colombian born Juanita Lascarro began her studies in biology in Bogotá, before moving to Cologne to pursue her singing career at the Cologne Musikhochschule and the Opera Studio of the Cologne Opera. 

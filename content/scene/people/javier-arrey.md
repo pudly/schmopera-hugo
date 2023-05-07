@@ -23,6 +23,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCD5F4hlhYqEqZ9vedT4zybA"
 
+_template = "people_single"
 +++
 Heralded as one of the most sought after and versatile baritones of the emerging generation, Chilean-American baritone Javier Arrey recently did his Metropolitan Opera debut as Schaunard (_La Bohème_) in the classic Franco Zeffirelli production and joined the roster of The Metropolitan Opera; he also did an acclaimed debut at the Wiener Staatsoper as Marcello in _La Bohème_.
 

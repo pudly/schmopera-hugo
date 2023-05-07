@@ -23,7 +23,9 @@ Singing is a part of my soul. Growing up I was always drawn to music, and I took
 
 Good singing to me means committing to the present moment with your entire mind, heart and voice. Good singing feels like energized talking. Or it can also feel like you are incredibly huge but weightless and flying.  It depends on the repertoire.  It always feels like the most freeing thing in the world.  To me, I know when I have done some good singing when I leave the stage and I can't remember clearly what happened. It means I was totally in the present moment. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465294450757/2016-06-07---Yarnell.jpg.jpg)<figcaption>Photo by Emily Ding.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465294450757/2016-06-07---Yarnell.jpg.jpg)<figcaption>Photo by Emily Ding.</figcaption>
 </figure>
 
 ## What do young singers need to do more of? What should they do less of?

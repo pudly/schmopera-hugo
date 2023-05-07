@@ -31,7 +31,9 @@ Puppetry has always been associated - and performed - with music. As the Swedish
 
 So (in theory!) they should be particularly effective in opera. And what is crucial to me is that it is the singer - the originator in the moment of the thought and its articulation - who has to be the main puppeteer. Which is to say they have to work the head. This isn't always easy, but it is always interesting! And it's the only way to guarantee that the audience can really start to believe and engage with the story.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560902166/media/2019/06/ThomasGuthrie6TheresaPewal-1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1560902166/media/2019/06/ThomasGuthrie6TheresaPewal-1.jpg)
 
 <figcaption>Thomas Guthrie, stage director. Photo: Theresa Pewal.</figcaption>
 
@@ -61,7 +63,9 @@ They bring a focus out of us which we can take into other work. The puppeteer ha
 
 The biggest thing is believing yourself that the character is real, is alive. Then it draws on your own experiences, your own emotions, in order to communicate. It's like myth - and what's happening with the audience - in reverse. Everyone is projecting onto the puppet - the character - and drawing on their own imaginations to make the illusion happen. It's really magical.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560902146/media/2019/06/ThomasGuthrie3TheresaPewal.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1560902146/media/2019/06/ThomasGuthrie3TheresaPewal.jpg)
 
 <figcaption>Thomas Guthrie, stage director. Photo: Theresa Pewal.</figcaption>
 

@@ -17,7 +17,9 @@ _Ash Roses_ is the first CD released by the [Canadian Art Song Project](http://w
 
 The first set, _The Four Seasons_ was commissioned by the [Canadian Opera Company](http://www.coc.ca/) in memory of Richard Bradshaw; Lawrence Wiliford and Liz Upchurch premiered it in 2009 at the Richard Bradshaw Amphitheatre. The cycle uses texts by cornerstone English poets like Shakespeare, Hardy, and Tennyson, and the poems are ordered by season, starting with winter and ending with autumn. Says Holman in his program notes, it was "an echo of Richard's strength and optimism: 'If winter comes, can spring be far behind?'"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842539150/Lawrence.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842539150/Lawrence.jpg.jpg)
 <figcaption>Tenor Lawrence Wiliford.</figcaption>
 </figure>
 
@@ -27,7 +29,9 @@ Lawrence sounds beautifully clear, just like he's speaking, risking plenty to gi
 
 The title set, _Ash Roses_, is sung by Canadian soprano Mireille Asselin, with Liz Upchurch again at the piano. The set was premiered in 1995 at the University of Toronto by [Karina Gauvin](http://karinagauvin.com/) and [Michael McMahon](http://www.mcgill.ca/music/about-us/bio/michael-mcmahon). The texts are by Canadian poet Tricia Postle, who was a U of T student at the time Derek Holman was starting to write a song cycle for Gauvin. The songs are brilliant, almost schizophrenic, and definitely funny when they should be. I spent the whole set saying to myself, "No, I think _this_ is my favourite." "Maze" is about finding one's way, and I actually found it sort of sexy. "Sweet Breath at Night" is a bit of black comedy, about the possibility of panthers being in one's bedroom (and the possibility of senility). The word-painting in this song was so obvious it was brilliant. In this song, Liz proved she's a chameleon at the keys, and Mireille got to show off her fiery coloratura and enormous palate of colour. She also sang my favourite out-of-context line of the album: "Drinking from the toilet bowl."Out of the six songs, however, "Arabesque" stood out for me. It's an exquisitely built poem, using old devices like threefold repetition and an ever-growing refrain. Holman sets it in no hurry, lingering over these words exactly as I needed. Mireille's singing is just _beautiful._
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842591174/Mireille-816x1024.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842591174/Mireille-816x1024.jpg.jpg)
 <figcaption>Soprano Mireille Asselin.</figcaption>
 </figure>
 

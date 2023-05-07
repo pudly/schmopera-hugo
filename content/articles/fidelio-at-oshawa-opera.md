@@ -25,7 +25,9 @@ I won't lie, producing a concert version of *Fidelio*, in Oshawa, sung in German
 
 I love Leonora's strength and courage, and the determination that keeps her going. The hardest part is that unlike a lot of other female characters she is not driven by the cliche - a need to "get her man" nor is she focused on or longing for an impossible love - she is simply being a faithful wife fighting for her husband's freedom. So therefore she is possibly the most theatrically demanding character to portray on stage.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445871570786/Brigitte.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445871570786/Brigitte.jpg.jpg)
 <figcaption>Brigitte Bogar, singing Leonora in Oshawa Opera's *Fidelio*.</figcaption>
 </figure>
 
@@ -35,7 +37,9 @@ I love Leonora's strength and courage, and the determination that keeps her goin
 
 **Brigitte**: I wouldn't say that it is more difficult to sing than any other opera. It is certainly different to singing Mozart or Bellini, but not that different from Wagner or Strauss. The main difficulty is the sheer length of the second act which is almost relentless, but it is also used by Beethoven to show the way the characters are going through such a hard time. But I do find this far easier to sing than his 9th Symphony. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445871627211/3dySiMhcrPaRoOG3Kul-WhHcnm7Lhhgfx89fjR846jPna98lc-HtOQUSsOSPpLaOooxNCHJ2RqCJISpfNv4ZS1Wkz6myhA%3Dw680-h680-c)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445871627211/3dySiMhcrPaRoOG3Kul-WhHcnm7Lhhgfx89fjR846jPna98lc-HtOQUSsOSPpLaOooxNCHJ2RqCJISpfNv4ZS1Wkz6myhA%3Dw680-h680-c)
 <figcaption>Oshawa Opera Artistic Director Kristine Dandavino.</figcaption>
 </figure>
 

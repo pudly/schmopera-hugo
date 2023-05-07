@@ -21,6 +21,7 @@ url = "https://twitter.com/tenorjcamarena"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/xcptenor"
+_template = "people_single"
 +++
 
 Javier Camarena was born in Veracruz (Mexico) and studied voice at the Guanajuato University. In 2004, he won the first prize at the Carlo Morelli Singing Competition in Mexico and the Juan Oncinas award at the Francisco Viñas Competition in Barcelona in 2005.

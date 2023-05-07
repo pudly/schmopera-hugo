@@ -19,6 +19,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UC9G9pdehmopHsb8KlpJTQ6w"
 
+_template = "people_single"
 +++
 Tenor Nicholas Simpson "possesses a voice that is flexible, but powerful...he literally stunned the public with his technical and expressive capability" (Corriere di Rimini) and has been praised by _Opera News_, for his "bel canto bona fides” and performances which "immediately seized attention with his full-bodied, brightly projected voice." Nicholas has just concluded performances as Don Jose in _Carmen_, and as a soloist in opera and musical theater cabarets while traveling through Italy, France, Spain, Jordan, Egypt, India, Australia, and New Zealand on the Azamara Quest in conjunction with Magic City Opera.
 

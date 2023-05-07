@@ -36,7 +36,9 @@ Also, as an artistic partner of INO, I can bring the experiences I have learned 
 
 I fully credit my career to date to the strong arts foundation I received in Ireland. We have a wonderful tradition of church choirs, music, dancing and drama in schools, each child gets this artistic exposure. We also have a splendid tradition of Feis ceoil, which is Gaelic for music competition. It's a wonderful performance opportunity for adults and children alike. You can compete in music, dancing and speech & drama. I feel these experiences and my musical education at the Royal Irish Academy fully prepared me to begin my professional career in Germany.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522941945639/0116-Tara-Erraught-HI-RES.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522941945639/0116-Tara-Erraught-HI-RES.jpg.jpg)
 <figcaption>Tara Erraught, mezzo-soprano. Photo: Kristin Hoebermann.</figcaption>
 </figure>
 

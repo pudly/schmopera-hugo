@@ -8,6 +8,7 @@ related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md"
 slug = "andrew-tees"
 title = "Andrew Tees"
 website = "http://andrewtees.com/"
+_template = "people_single"
 +++
 
 Baritone Andrew Tees is one of the most dynamic singers of his generation. Blessed with a rich baritone, he is at home whether singing opera, oratorio, pops, or music theatre.

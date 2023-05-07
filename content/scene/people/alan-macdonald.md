@@ -16,6 +16,7 @@ url = "https://twitter.com/alanjmacdonald"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/alanjmacdonald/"
+_template = "people_single"
 +++
 
 oronto-based baritone Alan Macdonald has been praised by Opera Canada for his “wonderful timbre, diction and sonority.” A recent graduate of Vancouver Opera's Yulanda M. Faris Young Artist Program, Alan will be joining Vancouver City Opera in the fall of 2016 for their production of *The Lost Operas of Mozart*.

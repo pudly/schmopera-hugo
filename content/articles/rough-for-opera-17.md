@@ -31,7 +31,9 @@ Where I think the piece struggled though, was in the scene about Ruby Mcdonough 
 
 Bušs very cleverly made use of the instruments (piano and cello) in a non-traditional way to present an alternative means of communication that does not use words. This included dragging the hands down the back of a cello or over the lid of a piano to create a very evocative squeaking, using horsehair to bow the strings of the piano, and running a tuning fork along the keys of the piano. All of these alternative methods created an eerie and compelling image of a world without words. But the focus on the Ruby Mcdonough switched the focus to sexual assault when it should have been about disability and I think this is where they went wrong.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557941440/media/2019/05/RoughforOpera17-AFatherIsLookingForHisDaughter-ClaireShovelton.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557941440/media/2019/05/RoughforOpera17-AFatherIsLookingForHisDaughter-ClaireShovelton.jpg)
 
 <figcaption>A Father Looking for His Daughter, by Alex Mills and Gareth Mattey. Presented at Second Movement's rough for opera #17, 2019. Photo: Claire Shovelton.</figcaption>
 
@@ -45,7 +47,9 @@ The music was wonderful – captivating and very well prepared. a simple orchest
 
 Closing the evening was _Dreaming Clouds_, a short piece from composer Alex Ho and choreographer Julia Cheng. This piece was the least operatic of the night but by far the most emotionally engaged performance. The sacred nature of the performance space was established immediately as the performers entered in darkness and placed their instruments ceremoniously centre stage. The piece explored the basic elements of Chinese opera – dance, martial arts, folksong, and traditional Chinese instrumentation all while exploring themes of identity as a British-Chinese.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557941533/media/2019/05/RoughforOpera17-DreamingClouds-ClaireShovelton.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557941533/media/2019/05/RoughforOpera17-DreamingClouds-ClaireShovelton.jpg)
 
 <figcaption>Dreaming Clouds, by Alex Ho and Julia Cheng. Presented at Second Movement's rough for opera #17, 2019. Photo: Claire Shovelton.</figcaption>
 

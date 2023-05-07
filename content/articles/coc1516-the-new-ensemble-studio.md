@@ -17,7 +17,9 @@ The [Canadian Opera Company](/scene/companies/canadian-opera-company/) Ensemble 
 
 Tenor [Charles Sy](/scene/people/charles-sy/) is new to the Ensemble, after winning Top Prize and Audience Choice Award in 2014 at the [Centre Stage Ensemble Studio Competition](http://coccentrestage.ca/). For this concert, he introduced himself with "Dies Bildnis ist bezaubernd schön," (*Die Zauberflöte*) a brave move. He made the aria seem easy, with musical choices I hadn't heard before. He has a unique quality to his sound that's appealing to me, and the coming decades could prove pretty exciting for Charles. Hear him as Gastone in the COC's [*La traviata*](http://www.coc.ca/PerformancesAndTickets/1516Season/LaTraviata.aspx), opening October 8th.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443020111653/Sy-Charles.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443020111653/Sy-Charles.jpg.jpg)
 <figcaption>Charles Sy, tenor.</figcaption>
 </figure>
 
@@ -25,7 +27,9 @@ Fellow brave tenor [Aaron Sheppard](/scene/people/aaron-sheppard/) sang "Dalla s
 
 The returning Ensemble members were a thrill to hear. I noticed significant changes for the good in all of them, and I'm excited for the work ahead for them this season. His ball-of-energy "Donne mie, le fate a tanti" (*Così fan tutte*) reminded me just how much energy [Gordon Bintner](/scene/people/gordon-bintner/) puts into each performance. Like he did with last season's Basilio in the Ensemble Studio performance of *Il barbiere di Siviglia*, Gordon took a chatty, barky aria, and made music out of it. Go hear him sing Count Almaviva in the COC's [*Le nozze di Figaro*](http://www.coc.ca/PerformancesAndTickets/1516Season/TheMarriageofFigaro.aspx, February 22nd (Ensemble Studio performance). All set to take on the title role in February's *Figaro* is bass-baritone [Iain MacNeil](/scene/people/iain-macneil/). He sang Malatesta's aria from *Don Pasquale*, and I really hope he's planning to get into more *bel canto*. Iain will soon have a cannon of a voice, and I heard some really exciting new ease at the top of his range. Great stuff for a Figaro to have. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443020311470/BintnerCalis.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443020311470/BintnerCalis.jpg.jpg)
 <figcaption>Bass-baritone Gordon Bintner. Photo: Brent Calis. </figcaption>
 </figure>
 
@@ -35,7 +39,9 @@ All ears seemed to be on tenor [Andrew Haji](/scene/people/andrew-haji/), as he 
 
 The two ladies of the day both sounded spectacular. Soprano [Karine Boucher](/scene/people/karine-boucher/) gave us a taste of the COC's spring production of [*Maometto II*](http://www.coc.ca/PerformancesAndTickets/1516Season/MaomettoII.aspx) with Anna's aria, "Giusto ciel, in tal periglio". This was just want I wanted to hear from Karine, her unobstructed voice in action. I've always loved her sound, and this Rossini was a stunner for her. Karine will have an exciting 2016; she'll sing Susanna in the February 22nd performance of *Le nozze di Figaro*, and Micaëla in the COC's spring *Carmen*, sharing the role with soprano [Simone Osborne](/scene/people/simone-osborne/).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443020795247/06-karine-boucher.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443020795247/06-karine-boucher.jpg.jpg)
 <figcaption>Soprano Karine Boucher.</figcaption>
 </figure>
 

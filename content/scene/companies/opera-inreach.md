@@ -25,6 +25,7 @@ platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCpUVLxsMST1axFNUsntQoNg"
 
+_template = "company_single"
 +++
 We are **visionaries**. We are **activists**.
 

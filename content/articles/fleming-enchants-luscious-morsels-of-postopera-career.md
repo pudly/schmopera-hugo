@@ -23,7 +23,9 @@ Fleming then walked on stage, dressed in a fuschia gown, to offer Strauss' colle
 
 For the second half, Fleming offered selections from two new worlds for her singing: film soundtracks and musical theatre. Her first set included songs she recorded for films: Licinio Refice's *Ombra di Nube* (featured in the 2018 hostage drama *Bel Canto*), Friedrich von Flotow's "Tis the last rose of summer" from the opera *Martha* (featured in the 2017 crime drama *Three Billboards Outside Ebbing, Missouri*), and "You'll Never Know" by Alexandre Desplat (featured in the 2017 Academy award-winning film *The Shape of Water*). In this set of film music, the audience was treated to Fleming's lower register, which boasts a richness and a depth that she rarely (if ever) used to such a degree on the operatic stage. Her jazzy performance of "You'll Never Know" featured a flugelhorn solo by none other than Maestro Rune Bergmann himself, a welcome surprise for the capacity crowd in the concert hall and watching on the orchestra's live stream. Of note, to show off this new timbre, Fleming elected to use a microphone for this half of the concert.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538079924003/Renee_Fleming_pc_Andrew_Eccles_Decca_c_300dpi_edit.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538079924003/Renee_Fleming_pc_Andrew_Eccles_Decca_c_300dpi_edit.jpg.jpg)
 <figcaption>Photo: Decca/Andrew Eccles.</figcaption>
 </figure>
 

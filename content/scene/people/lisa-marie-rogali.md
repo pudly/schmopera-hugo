@@ -16,6 +16,7 @@ platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/lisamarierogali/"
 
+_template = "people_single"
 +++
 In the 2018-2019 season, soprano Lisa Marie Rogali will join **Minnesota Opera**’s prestigious Resident Artist Program. There, she will sing Lisette in _La Rondine_, Elena in _Il cappello di paglia di Firenze_, and cover Violetta in _La Traviata_. This summer, she will return to **Opera Theatre of Saint Louis** to sing Countess Ceprano in _Rigoletto_, cover Susanna in _The Marriage of Figaro_ and cover Drusilla in _The Coronation of Poppea._ 
 

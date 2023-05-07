@@ -18,7 +18,9 @@ title = "Roundup, 2015"
 
 The [Canadian Opera Company](/scene/companies/canadian-opera-company/) put up Dmitri Tcherniakov's production of *Don Giovanni* in January 2015, and by golly was it memorable. I was in the camp who didn't go for the "concept" of this production, which included a longer timespan of the story, familial relationships between characters, and other stuff that wasn't in the score. Call me the puritan of 2015 if you must, but I'll at least vouch for spectacular singing across the board. The silver lining was that this production sparked, for Canadians at least, a series of [conversations](/concept-production-real-reason/) about directors, concept productions, and the difference between creativity and superimposition. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450755588475/2015-12-22---Don-Giovanni-MC.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450755588475/2015-12-22---Don-Giovanni-MC.jpg.jpg)
 <figcaption>Russell Braun (Don Giovanni) and Kyle Ketelsen (Leporello) in the Canadian Opera Company's production of *Don Giovanni*, 2015. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -30,7 +32,9 @@ Speaking of conversations, this year, we hosted our first [panel discussion](/pa
 
 Canada's small opera companies continued to gain traction, and it was certainly tangible in 2015. [The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/) got me pretty pumped this summer. They started with a run of [Dean Burry](/scene/people/dean-burry/)'s *The Bells of Baddeck* in Baddeck, Nova Scotia, and went straight into a month-long Nova Scotia and Ontario tour (on two wheels, of course). Their touring production was called [*shadow box*](/in-review-shadow-box/), a collection of shorts and excerpts, all from the Canadian contemporary opera repertoire. They put together a clean, coherent, fascinating touring show, all transported from between venues by the artists and their bikes; plus they were showcasing Canadian opera the whole time. There's an ongoing conversation among new companies about opera's relevance for today's audiences; Bike Opera, in bringing opera to places like Port Hope and Barrie, is doing us one better than convincing audiences it's relevant, they're *making* it relevant.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450755379763/Hike-at-Uisge-Bahn-Falls.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450755379763/Hike-at-Uisge-Bahn-Falls.jpg.jpg)
 <figcaption>l-r: Stephanie Tritchew, Giles Tomkins, Larissa Koniuk, Geoffrey Sirett, and Erika Nielsen, enjoying a hike to Uisge Bahn falls. Photo: Geoff's camera's self-timer.</figcaption></figure>
 
 Though not as small (but certainly mighty), [Tapestry Opera](/scene/companies/tapestry-opera/) spent 2015 producing art that is completely novel, even for the company who has been putting up new opera for over 35 years. There was [*M'dea Undone*](/in-review-mdea-undone/) in May, in the raw and real Holcim Gallery at Evergreen Brickworks. Plus, they put out two more of their *Tap:Ex* series, and both were total wow-factors. In March was [*Tables Turned*](/in-review-tapex-tables-turned-or-go-see-this-show/), combinging turntable artists Nicole Lizée, soprano [Carla Huhtanen](/scene/people/carla-huhtanen/), some Maria Callas, Stanley Kubrick, and *The Sound of Music*. November's [*Tap:Ex: Metallurgy*](/he-saidshe-said-tapex-metallurgy/) had Krisztina Szabó and [David Pomeroy](/scene/people/david-pomeroy/) sharing the stage with members from Canadian punk band [Fucked Up](http://fuckedup.cc/home/), collaborating with Canadian composers and librettists to create original works.
@@ -43,14 +47,18 @@ Of course, not all opera companies did well in 2015. We [lost Opera Lyra](/opera
 
 It's likely an oversimplication to claim a sort of Phoenix-effect, with the big-named, big-spending opera companies crumbling and things like [Indie Opera T.O.](/scene/companies/indie-opera-to/) rising out of the ashes. But I do think that social media and the interest in off-the-beaten path opera venues are great leveling factors between shoestring companies and their established colleagues.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450756121759/0058IMG_9339%252B%2525281%252529.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450756121759/0058IMG_9339%252B%2525281%252529.jpg.jpg)
 <figcaption>Jennifer Nichols and Carla Huhtanen in The Canadian Art Song Project's *The Living Spectacle*. Photo by Karolina Kuras.</figcaption></figure>
 
 ## Moving to the music
 
 Finally, it was a great year for pairing music with movement. At the Canadian Opera Company was [*Pyramus and Thisbe*](/pyramus-thisbe-and-canadian-opera-history/), a triple bill directed by [Christopher Alden](/scene/people/christopher-alden/) and choreographed by Tim Claydon. The movement was unnatural, un-operatic, and oddly still; yet, no one could deny that it went against the music by Monteverdi and Barbara Monk Feldman. There was the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/)'s recital project *The Living Spectacle*, in which Carla Huhtanen's singing of Brian Harman's song cycle *Sewing the Earthworm* was amplified by adding dancer/choreographer [Jennifer Nichols](/scene/people/jennifer-nichols/). Nichols also returned this year the Against the Grain Theatre creative team to choreograph *AtG's Messiah*, remounted with plenty of hype after its "smash success" in 2013. Also, I figure the Robert Lepage's *Erwartung* at the COC counts as music-plus-movement, if you count Michael Levine's terrifying, shifting set pieces and dizzying stage effects.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450755944509/Erwartung.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450755944509/Erwartung.jpg.jpg)
 <figcaption>Krisztina Szabó as The Woman in the Canadian Opera Company's production of *Erwartung*, 2015. Photo by Michael Cooper.</figcaption>
 </figure>
 

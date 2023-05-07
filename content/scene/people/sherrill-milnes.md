@@ -17,6 +17,7 @@ url = "https://www.facebook.com/SherrillMilnes"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UC4bwhBI3n_9DfvnxlASdBFA"
+_template = "people_single"
 +++
 
 #### Legendary artist, teacher, producer

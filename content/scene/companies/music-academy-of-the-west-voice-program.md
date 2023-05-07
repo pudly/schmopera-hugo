@@ -20,6 +20,7 @@ url = "https://twitter.com/MusicAcademyW"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/MusicAcademyWest"
+_template = "company_single"
 +++
 
 Under the direction of celebrated mezzo-soprano Marilyn Horne, the Music Academy Voice Program offers intensive training for young singers who demonstrate the potential for careers in music. Fellows are coached in singing technique, diction, interpretation, style, and presentation, and explore the literature of opera, musical theatre, and song.

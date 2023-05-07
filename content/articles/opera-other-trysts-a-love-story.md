@@ -15,7 +15,9 @@ It may be old news for some of you, but readers, I have an announcement: I'm hav
 
 No, in this case, "baby" is not a metaphor for anything. I'm having a real-life baby boy. He has a name and a great wardrobe, and he's due any day now.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508955116487/IMG_20170926_205511_197.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508955116487/IMG_20170926_205511_197.jpg.jpg)
 <figcaption>Amazing gifts from my baby shower.</figcaption>
 </figure>
 
