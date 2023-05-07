@@ -1,22 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2019-01-31T18:00:14+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "_Hook Up_ runs at Theatre Passe Muraille through February 9. For details and ticket information, [click here](https://tapestryopera.com/hook-up/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548957282/media/2019/01/sqHookUp-photobyDahliaKatz-9188.jpg"
-primary_image_credit = "Hook Up, presented by Tapestry Opera in partnership with Theatre Passe Muraille, 2019. Photo: Dahlia Katz."
-related_articles = ["articles/a-perfect-fit-the-overcoat.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/chris-thornborrow.md"]
-short_description = "The party scene put a pit in my stomach, as did everything that came after. The confusion, the horrid feeling of not knowing - but kind of knowing - what happened during a blackout, the inadequate explanations to friends and boyfriends, it was all too true."
-slug = "so-true-it-hurts-hook-up"
-title = "So true it hurts: Hook Up"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2019-01-31T18:00:14+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: _Hook Up_ runs at Theatre Passe Muraille through February 9. For details
+  and ticket information, [click here](https://tapestryopera.com/hook-up/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548957282/media/2019/01/sqHookUp-photobyDahliaKatz-9188.jpg
+primary_image_credit: 'Hook Up, presented by Tapestry Opera in partnership with Theatre
+  Passe Muraille, 2019. Photo: Dahlia Katz.'
+related_articles:
+- articles/a-perfect-fit-the-overcoat.md
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/chris-thornborrow.md
+short_description: The party scene put a pit in my stomach, as did everything that
+  came after. The confusion, the horrid feeling of not knowing - but kind of knowing
+  - what happened during a blackout, the inadequate explanations to friends and boyfriends,
+  it was all too true.
+slug: so-true-it-hurts-hook-up
+title: 'So true it hurts: Hook Up'
+youtube_url: ""
+---
 [Tapestry Opera](/scene/companies/tapestry-opera/)'s latest commission is a compact, intermission-free piece of organic theatre that has all the pieces in place. Hook Up is the work of composer Chris Thornborrow and librettist Julie Tepperman; in 90 minutes of music, singing, and drama that straddles the styles of opera and musical theatre, Hook Up tells the story of a young woman's first few months as a new university student.
 
 >The confusion, the horrid feeling of not knowing - _but kind of knowing_ - what happened during a blackout, the inadequate explanations to friends and boyfriends, it was all too true.

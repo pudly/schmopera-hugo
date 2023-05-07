@@ -1,22 +1,31 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = 2023-04-09T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1680903105/media/2023/04/sqAtGBluebeard-photobyDahliaKatz-4667_wkh8we.jpg"
-primary_image_credit = "Charlotte Hellekant as Judith in Bluebeard's Castle, Against the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz."
-related_articles = ["articles/talking-with-singers-gerald-finely.md", "articles/in-review-bluebeards-castle-erwartung.md", "articles/bluebeard-blo.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/charlotte-hellekant.md", "scene/people/gerald-finley.md"]
-short_description = "Finley's Bluebeard is caring, soft-spoken, and deliberately gentle. The scene opens in silence with him preparing to bring Judith home. He's so excited to see her, he kisses her photo and practically skips out the door."
-slug = "brilliant-a-compassionate-bluebeard-and-a-comforting-castle"
-title = "Brilliant: a compassionate Bluebeard and a comforting Castle"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2023-04-09T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1680903105/media/2023/04/sqAtGBluebeard-photobyDahliaKatz-4667_wkh8we.jpg
+primary_image_credit: 'Charlotte Hellekant as Judith in Bluebeard''s Castle, Against
+  the Grain Theatre / Theatre of Sound / Opera Ventures, 2023. Photo: Dahlia Katz.'
+related_articles:
+- articles/talking-with-singers-gerald-finely.md
+- articles/in-review-bluebeards-castle-erwartung.md
+- articles/bluebeard-blo.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/charlotte-hellekant.md
+- scene/people/gerald-finley.md
+short_description: Finley's Bluebeard is caring, soft-spoken, and deliberately gentle.
+  The scene opens in silence with him preparing to bring Judith home. He's so excited
+  to see her, he kisses her photo and practically skips out the door.
+slug: brilliant-a-compassionate-bluebeard-and-a-comforting-castle
+title: 'Brilliant: a compassionate Bluebeard and a comforting Castle'
+youtube_url: ""
+---
 Hello, Schmop-Tops,
 
 Your friendly neighbourhood Greg here, to let you know that the spring opera season has definitely sprung. Sorry for the delay on this one, it was a lot to chew on.

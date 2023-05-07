@@ -1,22 +1,34 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = 2022-03-23T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1648045042/media/2022/03/sqAmplified1_xcur8i.jpg"
-primary_image_credit = "Aria Umezawa and Teiya Kasahara, two co-founders of Amplified Opera. Photo: Dahlia Katz."
-related_articles = ["articles/inaugural-watershed-festival-to-celebrate-opera-and-musical-theatre-in-kingston.md", "articles/good-ideas-rehearsalasperformance.md", "articles/aria-umezawa-opera-5s-die-fledermaus-with-surprises.md"]
-related_companies = ["scene/companies/amplified-opera.md"]
-related_people = ["scene/people/megan-miceli.md", "scene/people/marion-newman.md", "scene/people/aria-umezawa.md", "scene/people/teiya-kasahara.md"]
-short_description = "It's been quite the long-haul here in the GTA, but it's great to be back on the beat. After two years out of the habit, it was great to find myself at the Museum of Contemporary Art to check out Amplified Opera's first offering in their concert series — after several delays — AMPLIFY 1.0."
-slug = "review-re-telling-stories-with-amplify-1-0"
-title = "Review: Re-telling stories with Amplify 1.0"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2022-03-23T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1648045042/media/2022/03/sqAmplified1_xcur8i.jpg
+primary_image_credit: 'Aria Umezawa and Teiya Kasahara, two co-founders of Amplified
+  Opera. Photo: Dahlia Katz.'
+related_articles:
+- articles/inaugural-watershed-festival-to-celebrate-opera-and-musical-theatre-in-kingston.md
+- articles/good-ideas-rehearsalasperformance.md
+- articles/aria-umezawa-opera-5s-die-fledermaus-with-surprises.md
+related_companies:
+- scene/companies/amplified-opera.md
+related_people:
+- scene/people/megan-miceli.md
+- scene/people/marion-newman.md
+- scene/people/aria-umezawa.md
+- scene/people/teiya-kasahara.md
+short_description: It's been quite the long-haul here in the GTA, but it's great to
+  be back on the beat. After two years out of the habit, it was great to find myself
+  at the Museum of Contemporary Art to check out Amplified Opera's first offering
+  in their concert series — after several delays — AMPLIFY 1.0.
+slug: review-re-telling-stories-with-amplify-1-0
+title: 'Review: Re-telling stories with Amplify 1.0'
+youtube_url: ""
+---
 Hello, Schmop-Tops!
 
 Did ya miss me? I missed you.

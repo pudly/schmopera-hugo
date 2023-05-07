@@ -1,28 +1,27 @@
-+++
-date = "2016-04-11T11:21:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-04-11T11:21:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460369935105/2016-04-11---Javier-Camarena.jpg.jpg"
-primary_image_credit = "Johnathan Mirò."
-publishDate = "2016-04-11T11:21:00+01:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-slug = "javier-camarena"
-title = "Javier Camarena"
-website = "http://www.javiercamarena.com.mx/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/tenorjaviercamarena?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/tenorjcamarena"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/xcptenor"
-_template = "people_single"
-+++
+---
+date: "2016-04-11T11:21:00+01:00"
+discipline: Tenor
+lastmod: "2016-04-11T11:21:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460369935105/2016-04-11---Javier-Camarena.jpg.jpg
+primary_image_credit: Johnathan Mirò.
+publishDate: "2016-04-11T11:21:00+01:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+slug: javier-camarena
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/tenorjaviercamarena?fref=ts
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/tenorjcamarena
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/xcptenor
+title: Javier Camarena
+website: http://www.javiercamarena.com.mx/
+---
 
 Javier Camarena was born in Veracruz (Mexico) and studied voice at the Guanajuato University. In 2004, he won the first prize at the Carlo Morelli Singing Competition in Mexico and the Juan Oncinas award at the Francisco Viñas Competition in Barcelona in 2005.
 

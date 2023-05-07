@@ -1,22 +1,31 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2020-08-03T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1596482990/media/2020/08/sqFlemingPPV_vtprx1.jpg"
-primary_image_credit = "Soprano Renée Fleming and pianist Robert Ainsley in the Music salon at Dumbarton Oaks as part of the MET Stars Live concert series. Photo: Metropolitan Opera."
-related_articles = ["articles/the-met-s-at-home-gala.md", "articles/tosca.md"]
-related_companies = []
-related_people = ["scene/people/renee-fleming.md"]
-short_description = "Renée Fleming knows her audience, or in this case, the lack of one. Creating a sense of intimate occasion in the elegant music salon at Dumbarton Oaks, a Georgetown estate with a musical pedigree of its own, Fleming made her contribution to the Metropolitan Opera's MET Stars Live streaming concert series feel like a musical get-together. "
-slug = "renee-fleming-brings-a-new-luster-to-dumbarton-oaks"
-title = "Renée Fleming Brings A New Luster To Dumbarton Oaks"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2020-08-03T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1596482990/media/2020/08/sqFlemingPPV_vtprx1.jpg
+primary_image_credit: 'Soprano Renée Fleming and pianist Robert Ainsley in the Music
+  salon at Dumbarton Oaks as part of the MET Stars Live concert series. Photo: Metropolitan
+  Opera.'
+related_articles:
+- articles/the-met-s-at-home-gala.md
+- articles/tosca.md
+related_companies: []
+related_people:
+- scene/people/renee-fleming.md
+short_description: 'Renée Fleming knows her audience, or in this case, the lack of
+  one. Creating a sense of intimate occasion in the elegant music salon at Dumbarton
+  Oaks, a Georgetown estate with a musical pedigree of its own, Fleming made her contribution
+  to the Metropolitan Opera''s MET Stars Live streaming concert series feel like a
+  musical get-together. '
+slug: renee-fleming-brings-a-new-luster-to-dumbarton-oaks
+title: Renée Fleming Brings A New Luster To Dumbarton Oaks
+youtube_url: ""
+---
 Renée Fleming knows her audience, or in this case, the lack of one. Creating a sense of intimate occasion in the elegant music salon at Dumbarton Oaks, a Georgetown estate with a musical pedigree of its own, Fleming made her contribution to the Metropolitan Opera's MET Stars Live streaming concert series feel like a musical get-together. The audience in the salon consisted of four cameras, two of them robotic, and rapt on-line viewers everywhere.
 
 Opening unaccompanied with John Corigilano's "And The People Stayed Home", his effecting setting of Kitty O'Meara's viral poem that purposefully wanders through everyone's pandemic, the soprano's warm informality was a reassuring balm. Sung primarily in the middle range voice reserved for popular song, Fleming was the empathetic friend with soft words of comfort until the poem touched on the fears associated with these uncertain times when it edged into the darker reaches of her celebrated lyric soprano.

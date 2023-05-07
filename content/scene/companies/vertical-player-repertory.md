@@ -1,26 +1,24 @@
-+++
-date = "2016-12-20T16:49:00-05:00"
-lastmod = "2016-12-20T16:49:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482270545408/VPR_Logo_Graphic_Emily_Owen-e1368507694932.jpg.jpg"
-publishDate = "2016-12-20T16:49:00-05:00"
-slug = "vertical-player-repertory"
-title = "Vertical Player Repertory"
-type_of_company = "Opera Company"
-website = "http://vpropera.org/site/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/VerticalPlayerRep/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/vpropera"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/VPROpera/"
-_template = "company_single"
-+++
+---
+date: "2016-12-20T16:49:00-05:00"
+lastmod: "2016-12-20T16:49:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482270545408/VPR_Logo_Graphic_Emily_Owen-e1368507694932.jpg.jpg
+publishDate: "2016-12-20T16:49:00-05:00"
+slug: vertical-player-repertory
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/VerticalPlayerRep/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/vpropera
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/VPROpera/
+title: Vertical Player Repertory
+type_of_company: Opera Company
+website: http://vpropera.org/site/
+---
 
 A pioneer of the alternative opera movement in New York City since 1998, Vertical Player Repertory creates ensemble-driven opera theatre in extraordinary venues, among them a factory courtyard on the Gowanus Canal, an intimate storefront theater, the deck of an oil tanker, and the last active shipping port in Brooklyn.
 

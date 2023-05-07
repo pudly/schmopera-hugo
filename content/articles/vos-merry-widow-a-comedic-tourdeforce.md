@@ -1,18 +1,31 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = "2018-10-21T21:27:00-04:00"
-lastmod = "2018-10-22T08:21:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540171381327/sqVOTheMerryWidow_credTimMatheson39A7240a.jpg.jpg"
-primary_image_credit = "Lucia Cesaroni (Hanna) in The Merry Widow, Vancouver Opera, 2018. Photo: Tim Matheson."
-publishDate = "2018-10-21T21:27:00-04:00"
-related_articles = ["articles/viva-la-operetta.md","articles/jawdropping-the-nose-at-roh.md"]
-related_companies = ["scene/companies/vancouver-opera.md"]
-related_people = ["scene/people/lucia-cesaroni.md","scene/people/michael-nyby.md","scene/people/sasha-djihanian.md","scene/people/john-tessier.md","scene/people/john-cudia.md"]
-short_description = "The setup for the Widow&#039;s entrance was hilarious, with all the men in the cast fussing over themselves and falling over each other to get to the door. The whole scene is an awkward, funny, madcap buildup to the heroine&#039;s entrance."
-slug = "vos-merry-widow-a-comedic-tourdeforce"
-title = "VO&#039;s Merry Widow a comedic tour-de-force"
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2018-10-21T21:27:00-04:00"
+lastmod: "2018-10-22T08:21:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540171381327/sqVOTheMerryWidow_credTimMatheson39A7240a.jpg.jpg
+primary_image_credit: 'Lucia Cesaroni (Hanna) in The Merry Widow, Vancouver Opera,
+  2018. Photo: Tim Matheson.'
+publishDate: "2018-10-21T21:27:00-04:00"
+related_articles:
+- articles/viva-la-operetta.md
+- articles/jawdropping-the-nose-at-roh.md
+related_companies:
+- scene/companies/vancouver-opera.md
+related_people:
+- scene/people/lucia-cesaroni.md
+- scene/people/michael-nyby.md
+- scene/people/sasha-djihanian.md
+- scene/people/john-tessier.md
+- scene/people/john-cudia.md
+short_description: The setup for the Widow&#039;s entrance was hilarious, with all
+  the men in the cast fussing over themselves and falling over each other to get to
+  the door. The whole scene is an awkward, funny, madcap buildup to the heroine&#039;s
+  entrance.
+slug: vos-merry-widow-a-comedic-tourdeforce
+title: VO&#039;s Merry Widow a comedic tour-de-force
+---
 
 [Vancouver Opera](/scene/companies/vancouver-opera/)'s season opener is [Lehar's *Merry Widow*](https://www.vancouveropera.ca/merry-widow/), a popular production, but one VO hasn't tackled in nearly 20 years. This production is an Art-Nouveau-meets-Moulin-Rouge laugh riot filled with spectacular costumes, brilliant dance numbers, and more than one unexpected twist.
 

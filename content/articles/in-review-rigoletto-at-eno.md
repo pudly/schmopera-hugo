@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-02-03T09:28:00+00:00"
-lastmod = "2017-02-03T10:50:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486116360420/2017-02-03---ENO-Rigoletto-Nicholas-Pallesen-and-Sydney-Mancasola-Alastair-Muir.jpg.jpg"
-primary_image_credit = "NIcholas Pallesen (Rigoletto) and Sydney Mancasola (Gilda) in ENO's Rigoletto, 2017. Photo: Alastair Muir."
-publishDate = "2017-02-03T10:37:00+00:00"
-related_articles = ["articles/in-review-partenope-at-eno.md","articles/stellar-singing-curious-costumes-in-enos-aida.md","articles/searching-for-superlatives-locs-suberb-rigoletto.md","articles/the-price-of-vengeance-rigoletto-at-roh.md","articles/strong-despite-the-details-rigoletto-in-minnesota.md"]
-related_people = ["scene/people/sydney-mancasola.md"]
-short_description = "The night truly went to Sydney Mancasola, in her company debut as Gilda. Her first sounds were clear as a bell, like a sorbet to Rigoletto&#039;s dark and murky world. Her singing was polished and thoughtful, with a stunning bloom at the top of her range. Frustrating as Gilda may be - though she comes by her innocence honestly - Mancasola sang with an earnest sound that reminded us of her youth and sheltered existence."
-slug = "in-review-rigoletto-at-eno"
-title = "In review: Rigoletto at ENO"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-02-03T09:28:00+00:00"
+lastmod: "2017-02-03T10:50:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486116360420/2017-02-03---ENO-Rigoletto-Nicholas-Pallesen-and-Sydney-Mancasola-Alastair-Muir.jpg.jpg
+primary_image_credit: 'NIcholas Pallesen (Rigoletto) and Sydney Mancasola (Gilda)
+  in ENO''s Rigoletto, 2017. Photo: Alastair Muir.'
+publishDate: "2017-02-03T10:37:00+00:00"
+related_articles:
+- articles/in-review-partenope-at-eno.md
+- articles/stellar-singing-curious-costumes-in-enos-aida.md
+- articles/searching-for-superlatives-locs-suberb-rigoletto.md
+- articles/the-price-of-vengeance-rigoletto-at-roh.md
+- articles/strong-despite-the-details-rigoletto-in-minnesota.md
+related_people:
+- scene/people/sydney-mancasola.md
+short_description: The night truly went to Sydney Mancasola, in her company debut
+  as Gilda. Her first sounds were clear as a bell, like a sorbet to Rigoletto&#039;s
+  dark and murky world. Her singing was polished and thoughtful, with a stunning bloom
+  at the top of her range. Frustrating as Gilda may be - though she comes by her innocence
+  honestly - Mancasola sang with an earnest sound that reminded us of her youth and
+  sheltered existence.
+slug: in-review-rigoletto-at-eno
+title: 'In review: Rigoletto at ENO'
+---
 
 Jonathan Miller's production of *Rigoletto* has kicked off its 13th revival run at [English National Opera](/scene/companies/english-national-opera/). The 1950s/mafia-inspired production is bleak, even minimal, and it capitalizes on the bad behaviour of men and women. 
 

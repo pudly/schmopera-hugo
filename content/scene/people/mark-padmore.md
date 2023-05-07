@@ -1,16 +1,18 @@
-+++
-date = "2017-12-12T11:47:00-05:00"
-discipline = "Tenor"
-lastmod = "2017-12-12T11:47:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513096963148/home.jpg.jpg"
-primary_image_credit = "Marco Borggreve"
-publishDate = "2017-12-12T11:47:00-05:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md"]
-slug = "mark-padmore"
-title = "Mark Padmore"
-website = "http://www.markpadmore.com/"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-12-12T11:47:00-05:00"
+discipline: Tenor
+lastmod: "2017-12-12T11:47:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513096963148/home.jpg.jpg
+primary_image_credit: Marco Borggreve
+publishDate: "2017-12-12T11:47:00-05:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/glyndebourne.md
+slug: mark-padmore
+title: Mark Padmore
+website: http://www.markpadmore.com/
+---
 
 He has established an international career in opera, concert and recital. His appearances in Bach Passions have gained particular notice especially his acclaimed performances as Evangelist in the St Matthew and St John Passions with the Berlin Philharmonic Orchestra and Sir Simon Rattle, staged by Peter Sellars.
 

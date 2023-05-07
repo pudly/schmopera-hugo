@@ -1,22 +1,38 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Review"
-date = 2022-10-24T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "For more information, please visit the [Edmonton Opera website](https://www.edmontonopera.com/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666614289/media/2022/10/sqEO_01-Tosca_Karen_Slack_and_Cavaradossi_David_Pomeroy_Photo_by_Nanc_Price_bxjauz.jpg"
-primary_image_credit = "Karen Slack (Tosca) and David Pomeroy (Cavaradossi) in Edmonton Opera's production of Puccini's Tosca, 2022. Photo: Nanc Price."
-related_articles = []
-related_companies = ["scene/companies/edmonton-opera.md"]
-related_people = ["scene/people/etta-fung.md", "scene/people/joel-ivany.md", "scene/people/adrianne-pieczonka.md", "scene/people/vartan-gabrielian.md", "scene/people/lauren-margison.md", "scene/people/siman-chung.md", "scene/people/sharleen-joynt.md", "scene/people/mireille-asselin.md", "scene/people/david-pomeroy.md", "scene/people/peter-barrett.md", "scene/people/karen-slack.md"]
-short_description = "On October 22, Edmonton Opera launched what it describes as an “electric and exciting” 2022-23 season with one of Giacomo Puccini’s well-known dramas: Tosca. "
-slug = "electric-exciting-edmonton-opera-launches-2022-23-season-with-puccinis-tosca"
-title = "“Electric and exciting”: Edmonton Opera launches 2022-23 season with Puccini’s Tosca"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Review
+date: "2022-10-24T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: For more information, please visit the [Edmonton Opera website](https://www.edmontonopera.com/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1666614289/media/2022/10/sqEO_01-Tosca_Karen_Slack_and_Cavaradossi_David_Pomeroy_Photo_by_Nanc_Price_bxjauz.jpg
+primary_image_credit: 'Karen Slack (Tosca) and David Pomeroy (Cavaradossi) in Edmonton
+  Opera''s production of Puccini''s Tosca, 2022. Photo: Nanc Price.'
+related_articles: []
+related_companies:
+- scene/companies/edmonton-opera.md
+related_people:
+- scene/people/etta-fung.md
+- scene/people/joel-ivany.md
+- scene/people/adrianne-pieczonka.md
+- scene/people/vartan-gabrielian.md
+- scene/people/lauren-margison.md
+- scene/people/siman-chung.md
+- scene/people/sharleen-joynt.md
+- scene/people/mireille-asselin.md
+- scene/people/david-pomeroy.md
+- scene/people/peter-barrett.md
+- scene/people/karen-slack.md
+short_description: 'On October 22, Edmonton Opera launched what it describes as an
+  “electric and exciting” 2022-23 season with one of Giacomo Puccini’s well-known
+  dramas: Tosca. '
+slug: electric-exciting-edmonton-opera-launches-2022-23-season-with-puccinis-tosca
+title: '“Electric and exciting”: Edmonton Opera launches 2022-23 season with Puccini’s
+  Tosca'
+youtube_url: ""
+---
 On October 22, Edmonton Opera launched what it describes as an “electric and exciting” 2022-23 season with one of Giacomo Puccini’s well-known dramas: _Tosca_.
 
 “Grand opera is back,” says Joel Ivany, Artistic Director of Edmonton Opera. "It's important to remind our core patrons that these big operas mean a lot to a certain group of people. And for those who don’t know these big operas, this is a wonderful introduction to what this multicultural artform is."

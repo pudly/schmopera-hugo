@@ -1,22 +1,29 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2021-11-12T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1636503005/media/2021/11/sqObscuraNox_ivrojz.jpg"
-primary_image_credit = "Julia Dawson, coloratura mezzo-soprano and producer in a scene from Obscura Nox. Photo: Thilo Jäger."
-related_articles = ["articles/girl-in-the-snow-a-mysterious-song-cycle.md", "articles/video-premiere-the-mystery-of-the-world-according-to-julia-dawson.md"]
-related_companies = []
-related_people = ["scene/people/julia-dawson.md"]
-short_description = "Under Mary Birnbaum's assured direction this harrowing and cerebral story moves in a refreshingly linear way. The extraordinary melding of music, voice, dance and photography, not to mention Plato's philosophical discourse, have melded in a way that leaves us artistically and emotionally sated."
-slug = "obscura-nox-plato-meets-mozart-and-iman-habibi-in-remarkable-short-film"
-title = "Obscura Nox: Plato meets Mozart and Iman Habibi in remarkable short film"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2021-11-12T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1636503005/media/2021/11/sqObscuraNox_ivrojz.jpg
+primary_image_credit: 'Julia Dawson, coloratura mezzo-soprano and producer in a scene
+  from Obscura Nox. Photo: Thilo Jäger.'
+related_articles:
+- articles/girl-in-the-snow-a-mysterious-song-cycle.md
+- articles/video-premiere-the-mystery-of-the-world-according-to-julia-dawson.md
+related_companies: []
+related_people:
+- scene/people/julia-dawson.md
+short_description: Under Mary Birnbaum's assured direction this harrowing and cerebral
+  story moves in a refreshingly linear way. The extraordinary melding of music, voice,
+  dance and photography, not to mention Plato's philosophical discourse, have melded
+  in a way that leaves us artistically and emotionally sated.
+slug: obscura-nox-plato-meets-mozart-and-iman-habibi-in-remarkable-short-film
+title: 'Obscura Nox: Plato meets Mozart and Iman Habibi in remarkable short film'
+youtube_url: ""
+---
 Plato might have been clever enough to begin a discussion of the remarkable short film _Obscura Nox_. Not only because it's a re-telling of his foundational treatise "Allegory of the Cave" but because he excelled at reasoning. Actually, he invented it.
 
 For starters, with all of its existential angst the film never slips into melodrama. This is a taut and refreshing surprise of an adaptation brought to life in visually vibrant and compelling terms. The story is a journey from the intellectual complacency of empirical knowledge to the uncharted waters of philosophical reasoning. The journey is literally immersive.

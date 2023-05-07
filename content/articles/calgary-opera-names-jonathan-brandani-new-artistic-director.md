@@ -1,22 +1,31 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Interview"
-date = 2021-09-28T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = "After nearly a year-long search, [Calgary Opera](/scene/companies/calgary-opera/) has named Jonathan Brandani its new Artistic Director.\n\nBrandani is the fourth person in four years to be named to the key leadership role with the opera company, following the long-time tenure of the late Bob McPhee (General Director and CEO from 1998-2017), and two shorter stints by Keith Cerny (General Director and CEO from January-August 2018), and Bramwell Tovey (Artistic Director from January 2019-October 2020).\n\nOur Calgary-based contributor Oliver Munar, who will be returning to the Calgary Opera Chorus this season, caught up with his new boss."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1632840390/media/2021/09/sqBrandani_JennaMahr_qdwdng.jpg"
-primary_image_credit = "Photo: Jenna Mahr."
-related_articles = ["articles/calgary-opera-delivers-comedy-gold-with-wellcast-barber.md"]
-related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md", "scene/companies/calgary-opera.md"]
-related_people = []
-short_description = "The Italian-born conductor led Calgary Opera production of La bohème in 2019."
-slug = "calgary-opera-names-jonathan-brandani-new-artistic-director"
-title = "Calgary Opera names Jonathan Brandani new Artistic Director"
-youtube_url = ""
+---
+author:
+- authors/oliver-munar.md
+categories: Interview
+date: "2021-09-28T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: |-
+  After nearly a year-long search, [Calgary Opera](/scene/companies/calgary-opera/) has named Jonathan Brandani its new Artistic Director.
 
-+++
+  Brandani is the fourth person in four years to be named to the key leadership role with the opera company, following the long-time tenure of the late Bob McPhee (General Director and CEO from 1998-2017), and two shorter stints by Keith Cerny (General Director and CEO from January-August 2018), and Bramwell Tovey (Artistic Director from January 2019-October 2020).
+
+  Our Calgary-based contributor Oliver Munar, who will be returning to the Calgary Opera Chorus this season, caught up with his new boss.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1632840390/media/2021/09/sqBrandani_JennaMahr_qdwdng.jpg
+primary_image_credit: 'Photo: Jenna Mahr.'
+related_articles:
+- articles/calgary-opera-delivers-comedy-gold-with-wellcast-barber.md
+related_companies:
+- scene/companies/calgary-opera-emerging-artist-development-program.md
+- scene/companies/calgary-opera.md
+related_people: []
+short_description: The Italian-born conductor led Calgary Opera production of La bohème
+  in 2019.
+slug: calgary-opera-names-jonathan-brandani-new-artistic-director
+title: Calgary Opera names Jonathan Brandani new Artistic Director
+youtube_url: ""
+---
 **Oliver Munar: Let's start by getting to know you a little better. What attracted you to the world of opera?**
 
 **Jonathan Brandani:** I didn’t start as an opera person, I started as a piano player. Being a pianist, I had my first experiences playing for my best friends who were singers. They exposed me to the beautiful world of opera and I was fascinated and wanted to know more, and they asked me to play for rehearsals, voice lessons and performances. I didn’t even notice that I was into opera: at one point, I just realized that I love this artform and it felt so natural.

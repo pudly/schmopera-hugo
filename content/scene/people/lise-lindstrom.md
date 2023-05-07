@@ -1,23 +1,31 @@
-+++
-date = "2015-11-25T11:07:00-05:00"
-discipline = "Soprano"
-lastmod = "2015-11-25T11:09:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448467376332/2015-11-25---Lise-Lindstrom.jpg.jpg"
-publishDate = "2015-11-25T11:09:00-05:00"
-related_companies = ["scene/companies/lopra-de-montral.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-diego-opera.md","scene/companies/royal-opera-house.md","scene/companies/san-francisco-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/the-dallas-opera.md","scene/companies/opera-australia.md"]
-slug = "lise-lindstrom"
-title = "Lise Lindstrom"
-website = "http://liselindstrom.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/LiseLindstromSoprano/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/liselindstrom"
-_template = "people_single"
-+++
+---
+date: "2015-11-25T11:07:00-05:00"
+discipline: Soprano
+lastmod: "2015-11-25T11:09:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448467376332/2015-11-25---Lise-Lindstrom.jpg.jpg
+publishDate: "2015-11-25T11:09:00-05:00"
+related_companies:
+- scene/companies/lopra-de-montral.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/san-diego-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/opera-australia.md
+slug: lise-lindstrom
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/LiseLindstromSoprano/?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/liselindstrom
+title: Lise Lindstrom
+website: http://liselindstrom.com/
+---
 
 The lyrical performances of American soprano Lise Lindstrom leave an indelible impression on audiences and critics worldwide.  She “reigns supreme with her soaring performance,” raves *The Austin Chronicle*. “It’s difficult to tear one’s attention away from Lindstrom.” *Opera News* has praised, “Lindstrom gave a truly world-class performance.  It is not often that one hears dramatic power combined with such a fresh, youthful-sounding soprano.”  In leading roles that range from Turandot to Senta, Elektra and Brünnhilde, Ms. Lindstrom has commanded the stages of The Metropolitan Opera, San Diego Opera, San Francisco Opera, Deutsche Oper Berlin, Wiener Staatsoper, Royal Opera House Covent Garden, Hamburg Staatsoper, Opera Australia, Les Chorégies d’Orange, and Arena di Verona, among many others.
 

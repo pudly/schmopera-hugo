@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2017-02-13T14:41:00+00:00"
-lastmod = "2017-02-14T10:29:00+00:00"
-preamble = "Everyone likes a good love duet, right? We do too, but even some of opera's best scenes of romance come with something a little cringe-worthy. Things like women being forced into marriages, lovers lying to each other, people declaring love for their own twin, that sort of thing.\n\nSince you'll likely get your dose of sweets on this Valentine's Day, we figured we'd go the more sour route. Here are four great opera duets, and the reasons that they're [squicky](http://www.urbandictionary.com/define.php?term=squicky).\n\nPhoto: [clement127](https://www.flickr.com/photos/clement127/10043342695/in/photolist-giuKSX-7vT3PB-fSr4EA-aug7dv-cvVjCd-qHFJxG-e3XL1L-mD1ZtF-cvVgH1-9aCWaA-cvVsUw-kaiNLF-qhgXmZ-dxfA2H-9aCW1N-7PjNjo-ruMfjM-cvVoJA-8kNGQg-spidUd-aPpX5V-QLwU3j-9azMJt-cvUYYu-9azQvp-brvNH3-cvV8u5-cvVcs3-7Fwt7x-ardiR5-cvUUWh-cvVuQQ-cvV3cW-75B6iM-4yQuxX-f784Az-bAWNd7-8mVv3a-a7qYpG-95adfw-7qzYzP-oaVV2j-kajjte-b9SzZM-kakXpC-naG6kZ-G4tUxj-6JSxT8-3A9oRU-3A9jMU) via [Flickr.](https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode)"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487068078900/2017-02-14---Love.jpg.jpg"
-publishDate = "2017-02-14T10:01:00+00:00"
-short_description = "Yet Cio-Cio San is singing about life-long marriage and the happiness and stability it would bring her; Pinkerton is really singing about experiencing the world, marvelling at the obedience and admiration in the eyes of his young Japanese wife and getting excited to have some exotic sex with her. And never forget that line about Cio-Cio San being fifteen years old...yikes."
-slug = "4-great-love-duets-why-theyre-awkward"
-title = "4 great love duets &amp; why they&#039;re awkward"
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2017-02-13T14:41:00+00:00"
+lastmod: "2017-02-14T10:29:00+00:00"
+preamble: |-
+  Everyone likes a good love duet, right? We do too, but even some of opera's best scenes of romance come with something a little cringe-worthy. Things like women being forced into marriages, lovers lying to each other, people declaring love for their own twin, that sort of thing.
 
-+++
+  Since you'll likely get your dose of sweets on this Valentine's Day, we figured we'd go the more sour route. Here are four great opera duets, and the reasons that they're [squicky](http://www.urbandictionary.com/define.php?term=squicky).
+
+  Photo: [clement127](https://www.flickr.com/photos/clement127/10043342695/in/photolist-giuKSX-7vT3PB-fSr4EA-aug7dv-cvVjCd-qHFJxG-e3XL1L-mD1ZtF-cvVgH1-9aCWaA-cvVsUw-kaiNLF-qhgXmZ-dxfA2H-9aCW1N-7PjNjo-ruMfjM-cvVoJA-8kNGQg-spidUd-aPpX5V-QLwU3j-9azMJt-cvUYYu-9azQvp-brvNH3-cvV8u5-cvVcs3-7Fwt7x-ardiR5-cvUUWh-cvVuQQ-cvV3cW-75B6iM-4yQuxX-f784Az-bAWNd7-8mVv3a-a7qYpG-95adfw-7qzYzP-oaVV2j-kajjte-b9SzZM-kakXpC-naG6kZ-G4tUxj-6JSxT8-3A9oRU-3A9jMU) via [Flickr.](https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode)
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487068078900/2017-02-14---Love.jpg.jpg
+publishDate: "2017-02-14T10:01:00+00:00"
+short_description: Yet Cio-Cio San is singing about life-long marriage and the happiness
+  and stability it would bring her; Pinkerton is really singing about experiencing
+  the world, marvelling at the obedience and admiration in the eyes of his young Japanese
+  wife and getting excited to have some exotic sex with her. And never forget that
+  line about Cio-Cio San being fifteen years old...yikes.
+slug: 4-great-love-duets-why-theyre-awkward
+title: 4 great love duets &amp; why they&#039;re awkward
+---
 ## Nero & Poppea
 
 The heart wants what it wants, right? Emperor Nero likely isn't the only person who found true love in someone other than their spouse, so let's be careful not to bash the messenger. But in Monteverdi's _L'incoronazione di Poppea_, Nerone essentially shoves his wife Octavia on a boat and banishes her from Rome, so that he can make things official with his beloved courtesan, Poppea.

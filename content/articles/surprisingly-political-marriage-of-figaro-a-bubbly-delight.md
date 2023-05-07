@@ -1,22 +1,33 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2020-02-08T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Boston Opera Collaborative's production of [_Le nozze di Figaro_](https://www.bostonoperacollaborative.org/figaro-feb-20) runs through February 9."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581175839/media/2020/02/sqBOCFigaro1_qcdpch.jpg"
-primary_image_credit = "Mitch FitzDaniel (Figaro) and Carley DeFranco (Susanna) in Le nozze di Figaro, Boston Opera Collaborative, 2020. Photo: Dan Busler."
-related_articles = ["articles/4-ways-that-opera-really-is-life.md", "articles/4-opera-scenes-that-should-have-happened.md", "articles/diegetic-music-in-opera-3-ways-to-use-it.md"]
-related_companies = ["scene/companies/boston-opera-collaborative.md"]
-related_people = []
-short_description = "The sum of all its parts coalesced into an evening that was immensely fun for the whole audience, and even got surprisingly political in the way Beaumarchais meant. Perhaps some of the orchestral playing was shaky in spots, but otherwise this production had barely a blemish on it anywhere. It is Le nozze di Figaro at its finest, and it was a comedic romp that is one for the ages, as far as this opera goes."
-slug = "surprisingly-political-marriage-of-figaro-a-bubbly-delight"
-title = "Surprisingly political Marriage of Figaro a bubbly delight"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2020-02-08T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Boston Opera Collaborative's production of [_Le nozze di Figaro_](https://www.bostonoperacollaborative.org/figaro-feb-20)
+  runs through February 9.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1581175839/media/2020/02/sqBOCFigaro1_qcdpch.jpg
+primary_image_credit: 'Mitch FitzDaniel (Figaro) and Carley DeFranco (Susanna) in
+  Le nozze di Figaro, Boston Opera Collaborative, 2020. Photo: Dan Busler.'
+related_articles:
+- articles/4-ways-that-opera-really-is-life.md
+- articles/4-opera-scenes-that-should-have-happened.md
+- articles/diegetic-music-in-opera-3-ways-to-use-it.md
+related_companies:
+- scene/companies/boston-opera-collaborative.md
+related_people: []
+short_description: The sum of all its parts coalesced into an evening that was immensely
+  fun for the whole audience, and even got surprisingly political in the way Beaumarchais
+  meant. Perhaps some of the orchestral playing was shaky in spots, but otherwise
+  this production had barely a blemish on it anywhere. It is Le nozze di Figaro at
+  its finest, and it was a comedic romp that is one for the ages, as far as this opera
+  goes.
+slug: surprisingly-political-marriage-of-figaro-a-bubbly-delight
+title: Surprisingly political Marriage of Figaro a bubbly delight
+youtube_url: ""
+---
 When it comes to reinventing an opera that has proven to be a tried and true mainstay of the operatic repertory, there are very few people that would ever consider adding in any content, regardless of where it came from. Thus, whenever people decide to do something along those lines, it is always interesting to me to see the results, whether they work or they don’t.
 
 Thus, we go to Boston Opera Collaborative’s [recent production of _Le nozze di Figaro_](https://www.bostonoperacollaborative.org/figaro-feb-20), which they decided to use to showcase a new performance edition titled _The Flexible Figaro_, compiled by Miriam Ellis and Sherwood Dudley. Aside from translating Da Ponte’s original Italian libretto into English, it also takes the liberty of adding in a lot of the dialogue from Beaumarchais’ original play that Mozart and Da Ponte excised to get the work past Viennese censors.

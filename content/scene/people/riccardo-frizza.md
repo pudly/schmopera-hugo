@@ -1,28 +1,33 @@
-+++
-date = "2017-10-17T18:38:00-04:00"
-discipline = "Conductor"
-lastmod = "2017-10-17T18:42:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508279511969/Riccardo%20Frizza%20%C2%A9%20Joan%20Toma%CC%81s%20-%20Fidelio%20Artist.jpg.jpg"
-primary_image_credit = "Joan Tomás"
-publishDate = "2017-10-17T18:38:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md","scene/companies/canadian-opera-company.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/san-francisco-opera.md","scene/companies/the-dallas-opera.md"]
-slug = "riccardo-frizza"
-title = "Riccardo Frizza"
-website = "http://riccardofrizza.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Riccardo-Frizza-697816840345908/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/riccardofrizza"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/riccardofrizza/"
-_template = "people_single"
-+++
+---
+date: "2017-10-17T18:38:00-04:00"
+discipline: Conductor
+lastmod: "2017-10-17T18:42:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508279511969/Riccardo%20Frizza%20%C2%A9%20Joan%20Toma%CC%81s%20-%20Fidelio%20Artist.jpg.jpg
+primary_image_credit: Joan Tomás
+publishDate: "2017-10-17T18:38:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/the-dallas-opera.md
+slug: riccardo-frizza
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Riccardo-Frizza-697816840345908/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/riccardofrizza
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/riccardofrizza/
+title: Riccardo Frizza
+website: http://riccardofrizza.com/
+---
 
 Award-winning	Italian	maestro	Riccardo	Frizza	is	a	galvanic	presence	on	the	podium,	inspiring	 performances	as	exhilarating	as	they	are	expressive.	Championed by	Alberto	Zedda,	Bruno	Cagli,	and	Gian	 Carlo	Menotti,	he	is	a	leading	exponent	of	bel	canto repertoire,	collaborating	with	a	who's	who	of	today's	 most	iconic	singers	at	opera	houses	from	Milan's	Teatro	alla	Scala	to	the	Metropolitan	Opera	in	New	York.	 In	the	concert	hall,	he	graces	the	podiums	of	such	world-class	ensembles as	the	Leipzig	Gewandhaus,	 Rome's	Orchestra	dell'Accademia	Nazionale	di	Santa	Cecilia,	London's	Philharmonia	Orchestra,	and	the	 Tokyo	Symphony,	while	his	extensive	discography	includes	Decca's	Una	furtiva	lagrima,	winner	of	the	 2004	Cannes	Classical	Award. Frizza	maintains	a	strong	international	presence	in	2015-16.	
 

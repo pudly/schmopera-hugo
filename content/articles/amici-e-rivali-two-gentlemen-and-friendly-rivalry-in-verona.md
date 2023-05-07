@@ -1,22 +1,32 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2020-11-12T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "[_Amici e Rivali_](https://www.lawrencebrownlee.com/albums/amici-e-rivali) is released November 13, 2020."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1605210902/media/2020/11/sqBrownleeSpyresLainez_m4usyy.jpg"
-primary_image_credit = "Lawrence Brownlee (left) and Michael Spyres. Photo: Shervin Lainez."
-related_articles = ["articles/cycles-of-my-being-this-is-their-story.md", "articles/owens-brownlee.md"]
-related_companies = []
-related_people = ["scene/people/tara-erraught.md", "scene/people/michael-spyres.md", "scene/people/lawrence-brownlee.md"]
-short_description = "Some listeners may prefer moderation when it comes to the tenor based pyrotechnics that ignite this recording. Soaring high notes and vivid vocal coloring create sure-fire thrills but thrills depend on relative rarity and risk being diminished by such concentrated exposure."
-slug = "amici-e-rivali-two-gentlemen-and-friendly-rivalry-in-verona"
-title = "Amici e Rivali: Two gentlemen and friendly rivalry in Verona"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2020-11-12T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: '[_Amici e Rivali_](https://www.lawrencebrownlee.com/albums/amici-e-rivali)
+  is released November 13, 2020.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1605210902/media/2020/11/sqBrownleeSpyresLainez_m4usyy.jpg
+primary_image_credit: 'Lawrence Brownlee (left) and Michael Spyres. Photo: Shervin
+  Lainez.'
+related_articles:
+- articles/cycles-of-my-being-this-is-their-story.md
+- articles/owens-brownlee.md
+related_companies: []
+related_people:
+- scene/people/tara-erraught.md
+- scene/people/michael-spyres.md
+- scene/people/lawrence-brownlee.md
+short_description: Some listeners may prefer moderation when it comes to the tenor
+  based pyrotechnics that ignite this recording. Soaring high notes and vivid vocal
+  coloring create sure-fire thrills but thrills depend on relative rarity and risk
+  being diminished by such concentrated exposure.
+slug: amici-e-rivali-two-gentlemen-and-friendly-rivalry-in-verona
+title: 'Amici e Rivali: Two gentlemen and friendly rivalry in Verona'
+youtube_url: ""
+---
 Rossini, two terrific tenors and a first rate musical ensemble—what's not to love? Plenty, if this bel canto extravaganza had followed the route taken by so many of those "opera aria" recordings in which we get a heady dose of familiar favorites, often lacking in spontaneity and emotional depth.
 
 But we don’t get that in [_Amici e Rivali_](https://www.lawrencebrownlee.com/albums/amici-e-rivali), an excellent release from Erato featuring Lawrence Brownlee and Michael Spyres. Instead we get arias, duets and trios (the tenors are joined by mezzo-soprano Tara Erraught and fellow tenor Xabier Anduaga) that are thoughtfully interpreted and artfully sequenced to mimic the construction of a Rossini opera. Its most winning feature, besides the competing tenors who are in full bloom here, is that it flows.

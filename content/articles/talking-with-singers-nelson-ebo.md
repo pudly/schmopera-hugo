@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-04-15T20:25:00-04:00"
-lastmod = "2018-04-16T11:25:00-04:00"
-preamble = "Angolan tenor [Nelson Ebo](/scene/people/nelson-ebo/)'s upcoming role is one that hits particularly close to home. Next month in Heartbeat Opera's new adaptation of Beethoven's [*Fidelio*](https://www.heartbeatopera.org/fidelio) (**May 3-13**), Ebo sings Stan - or Florestan, in the original libretto - the black activist who is wrongfully incarcerated. Ebo, born during the [Angolan Civil War](https://en.wikipedia.org/wiki/Angolan_Civil_War), has seen injustice in his own life; he lost friends and family to illness and violence before leaving Angola to pursue singing in Spain.\n\nEbo spoke with us about being \"the loudest one\" of a family of 16 children, his early love of The Three Tenors, and what he has in common with Stan in this special *Fidelio*."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523838097842/sqNelsonEbo.jpg.jpg"
-publishDate = "2018-04-15T21:00:00-04:00"
-related_companies = ["scene/companies/heartbeat-opera.md"]
-short_description = "&quot;My desire for singing was within me when I was born. My father loved to sing and when I was a child I was always the loudest one (out of the 16 of us). I sang in my church choir and found a way to formalize my love of singing. When I was a bit older, I was given a cassette tape of the Three Tenors and started imitating them.&quot;"
-slug = "talking-with-singers-nelson-ebo"
-title = "Talking with singers: Nelson Ebo"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-04-15T20:25:00-04:00"
+lastmod: "2018-04-16T11:25:00-04:00"
+preamble: |-
+  Angolan tenor [Nelson Ebo](/scene/people/nelson-ebo/)'s upcoming role is one that hits particularly close to home. Next month in Heartbeat Opera's new adaptation of Beethoven's [*Fidelio*](https://www.heartbeatopera.org/fidelio) (**May 3-13**), Ebo sings Stan - or Florestan, in the original libretto - the black activist who is wrongfully incarcerated. Ebo, born during the [Angolan Civil War](https://en.wikipedia.org/wiki/Angolan_Civil_War), has seen injustice in his own life; he lost friends and family to illness and violence before leaving Angola to pursue singing in Spain.
+
+  Ebo spoke with us about being "the loudest one" of a family of 16 children, his early love of The Three Tenors, and what he has in common with Stan in this special *Fidelio*.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523838097842/sqNelsonEbo.jpg.jpg
+publishDate: "2018-04-15T21:00:00-04:00"
+related_companies:
+- scene/companies/heartbeat-opera.md
+short_description: '&quot;My desire for singing was within me when I was born. My
+  father loved to sing and when I was a child I was always the loudest one (out of
+  the 16 of us). I sang in my church choir and found a way to formalize my love of
+  singing. When I was a bit older, I was given a cassette tape of the Three Tenors
+  and started imitating them.&quot;'
+slug: talking-with-singers-nelson-ebo
+title: 'Talking with singers: Nelson Ebo'
+---
 
 ## How do you approach a role like Stan, an adapted version of a character from Beethoven's *Fidelio*?
 

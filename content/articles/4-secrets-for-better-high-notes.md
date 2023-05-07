@@ -1,19 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-06-14T11:19:00-04:00"
-lastmod = "2017-08-23T17:02:00-04:00"
-postamble = "What are your tips and discoveries about singing up high or through the passaggio? Let us know in the comment section below!"
-preamble = "No matter what voice type you are, it’s fair to admit that plenty of your most applause-worthy moments come with high notes. Fast high notes, loud high notes, entire-lungful-of-air high notes - they’re what we’re all waiting to hear. There, I said it. When it comes to producing great sound at the top of your range, I leave that process to the singers and their voice teachers. But I can profess to hearing a curious trend among singers as they’re mastering those big high note moments. Frankly, singers don't sing the notes *around* their high notes."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503522165637/2017-08-23---High-Notes.jpg.jpg"
-publishDate = "2015-06-15T08:00:00-04:00"
-related_articles = ["articles/how-to-lead-your-pianist.md", "articles/how-to-really-learn-a-song.md", "articles/on-pianists-those-vicarious-opera-singers.md", "articles/5-ways-to-build-your-rhythmic-chops.md", "articles/pianists-3-tips-for-sounding-like-an-orchestra.md", "articles/quick-tips-the-rolled-r-test.md", "articles/vibrato-all-the-reasons-why.md", "articles/4-weird-questions-for-opera-singers.md"]
-related_people = ["scene/people/brian-mulligan.md"]
-short_description = "No matter what voice type you are, it’s fair to admit that plenty of your most applause-worthy moments come with high notes. Fast high notes, loud high notes, entire-lungful-of-air high notes - they’re what we’re all waiting to hear. There, I said it. When it comes to producing great sound at the top of your range, I leave that process to the singers and their voice teachers. But I can profess to hearing a curious trend among singers as they’re mastering those big high note moments."
-slug = "4-secrets-for-better-high-notes"
-title = "4 secrets for better high notes"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-06-14T11:19:00-04:00"
+lastmod: "2017-08-23T17:02:00-04:00"
+postamble: What are your tips and discoveries about singing up high or through the
+  passaggio? Let us know in the comment section below!
+preamble: No matter what voice type you are, it’s fair to admit that plenty of your
+  most applause-worthy moments come with high notes. Fast high notes, loud high notes,
+  entire-lungful-of-air high notes - they’re what we’re all waiting to hear. There,
+  I said it. When it comes to producing great sound at the top of your range, I leave
+  that process to the singers and their voice teachers. But I can profess to hearing
+  a curious trend among singers as they’re mastering those big high note moments.
+  Frankly, singers don't sing the notes *around* their high notes.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503522165637/2017-08-23---High-Notes.jpg.jpg
+publishDate: "2015-06-15T08:00:00-04:00"
+related_articles:
+- articles/how-to-lead-your-pianist.md
+- articles/how-to-really-learn-a-song.md
+- articles/on-pianists-those-vicarious-opera-singers.md
+- articles/5-ways-to-build-your-rhythmic-chops.md
+- articles/pianists-3-tips-for-sounding-like-an-orchestra.md
+- articles/quick-tips-the-rolled-r-test.md
+- articles/vibrato-all-the-reasons-why.md
+- articles/4-weird-questions-for-opera-singers.md
+related_people:
+- scene/people/brian-mulligan.md
+short_description: No matter what voice type you are, it’s fair to admit that plenty
+  of your most applause-worthy moments come with high notes. Fast high notes, loud
+  high notes, entire-lungful-of-air high notes - they’re what we’re all waiting to
+  hear. There, I said it. When it comes to producing great sound at the top of your
+  range, I leave that process to the singers and their voice teachers. But I can profess
+  to hearing a curious trend among singers as they’re mastering those big high note
+  moments.
+slug: 4-secrets-for-better-high-notes
+title: 4 secrets for better high notes
+---
 ### Start early
 
 I get the logic. Singers want to tread lightly before expounding energy on a high note, but doing this often has the opposite effect. Here's a small section of Don José's aria from _Carmen_:

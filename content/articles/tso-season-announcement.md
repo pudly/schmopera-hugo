@@ -1,22 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2019-01-30T01:47:34+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "For full details of the current and upcoming season with the Toronto Symphony Orchestra, [visit their website](https://www.tso.ca/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548523276/media/2019/01/sqGustavoGimenoconductingMarcoBorggreve.jpg"
-primary_image_credit = "Gustavo Gimeno, whose tenure as Music Director of the Toronto Symphony Orchestra begins in the fall of 2020. Photo by Marco Borggreve."
-related_articles = ["articles/candide-projecting-the-best-of-all-possible-worlds.md", "articles/in-review-mahler-other-beauties-at-the-tso.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/emily-dangelo.md", "scene/people/russell-braun.md", "scene/people/isaiah-bell.md", "scene/people/erin-wall.md"]
-short_description = "\"There's nothing I like better than planning programmes,\" says Davis, of his enthusiastic stepping in as the TSO's Interim Artistic Director. But, eager to pass the torch officially to Gimeno, \"the next season will be Gustavo's.\""
-slug = "tsos-201920-a-season-of-mostly-classics"
-title = "TSO's 2019/20 a season of (mostly) classics"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-01-30T01:47:34+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: For full details of the current and upcoming season with the Toronto Symphony
+  Orchestra, [visit their website](https://www.tso.ca/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548523276/media/2019/01/sqGustavoGimenoconductingMarcoBorggreve.jpg
+primary_image_credit: Gustavo Gimeno, whose tenure as Music Director of the Toronto
+  Symphony Orchestra begins in the fall of 2020. Photo by Marco Borggreve.
+related_articles:
+- articles/candide-projecting-the-best-of-all-possible-worlds.md
+- articles/in-review-mahler-other-beauties-at-the-tso.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/emily-dangelo.md
+- scene/people/russell-braun.md
+- scene/people/isaiah-bell.md
+- scene/people/erin-wall.md
+short_description: '"There''s nothing I like better than planning programmes," says
+  Davis, of his enthusiastic stepping in as the TSO''s Interim Artistic Director.
+  But, eager to pass the torch officially to Gimeno, "the next season will be Gustavo''s."'
+slug: tsos-201920-a-season-of-mostly-classics
+title: TSO's 2019/20 a season of (mostly) classics
+youtube_url: ""
+---
 The [Toronto Symphony Orchestra](/scene/companies/toronto-symphony-orchestra/)'s 2019-20 season will be, one hopes, the last in a while without the appointment of a permanent Music Director. Interim Artistic Director Sir Andrew Davis has returned to the TSO following Conductor Emeritus Peter Oundjian's exit at the end of the 2017-18 season; incoming Music Director Gustavo Gimeno, set to officially begin his tenure in the fall of 2020, will be in town to conduct a handful of concerts this season, whetting the audience's appetite.
 
 > Eager to pass the torch officially to Gimeno, "the next season will be Gustavo's."

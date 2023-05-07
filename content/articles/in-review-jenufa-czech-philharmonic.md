@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-04-19T10:01:00+01:00"
-lastmod = "2016-04-19T12:03:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461058929231/2016-04-19---Karita-Mattila-Jiri-Belohlavek_Czech-Philharmonic_Jenufa.jpg.jpg"
-primary_image_credit = "Karita Mattila, Jiří Bělohlávek and the Czech Philharmonic. Photo: Petr Kadlec"
-publishDate = "2016-04-19T11:10:00+01:00"
-related_articles = ["articles/still-stunning-written-on-skin.md","articles/in-review-boris-godunov.md","articles/back-to-school-opera-a-practical-glossary.md"]
-related_people = ["scene/people/karita-mattila.md"]
-short_description = "As Jenůfa&#039;s mother, Kostelnička, Karita Mattila was a total force. She tore into the role&#039;s enormous range and horrific moments of drama with her notoriously brazen energy. She sang wildly at moments, yet it was funneled through a perfect character, one who constantly veers outside the comfortable and controlled."
-slug = "in-review-jenufa-czech-philharmonic"
-title = "In review: Jenůfa with the Czech Philharmonic"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-04-19T10:01:00+01:00"
+lastmod: "2016-04-19T12:03:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461058929231/2016-04-19---Karita-Mattila-Jiri-Belohlavek_Czech-Philharmonic_Jenufa.jpg.jpg
+primary_image_credit: 'Karita Mattila, Jiří Bělohlávek and the Czech Philharmonic.
+  Photo: Petr Kadlec'
+publishDate: "2016-04-19T11:10:00+01:00"
+related_articles:
+- articles/still-stunning-written-on-skin.md
+- articles/in-review-boris-godunov.md
+- articles/back-to-school-opera-a-practical-glossary.md
+related_people:
+- scene/people/karita-mattila.md
+short_description: As Jenůfa&#039;s mother, Kostelnička, Karita Mattila was a total
+  force. She tore into the role&#039;s enormous range and horrific moments of drama
+  with her notoriously brazen energy. She sang wildly at moments, yet it was funneled
+  through a perfect character, one who constantly veers outside the comfortable and
+  controlled.
+slug: in-review-jenufa-czech-philharmonic
+title: 'In review: Jenůfa with the Czech Philharmonic'
+---
 
 Last night, the Royal Festival Hall welcomed the Czech Philharmonic to the stage, under the baton of Jiří Bělohlávek, for an in-concert performance of Leoš Janáček's *Jenůfa*. It's an opera we hadn't seen performed before, and after the evening's musical taste, it's one we're eager to see fully staged.
 

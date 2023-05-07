@@ -1,22 +1,25 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = 2020-01-17T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1579141484/media/2020/01/sqHuedSongsE29A6053_bzpmnr.jpg"
-primary_image_credit = "Spirituals & Òrìṣàs, Hued Songs, 2019. Photo: Passion Ward."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "With 2020 underway, Hued Songs can only look forward to more exceptional work carving a unique and necessary sphere within the South Florida music scene. Moreover, Spirituals & Òrìṣàs should challenge the region’s longstanding classical music institutions to think innovatively in the new year."
-slug = "hued-songs-where-traditions-collude-and-collide"
-title = "Hued Songs, where traditions collude and collide"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2020-01-17T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1579141484/media/2020/01/sqHuedSongsE29A6053_bzpmnr.jpg
+primary_image_credit: 'Spirituals & Òrìṣàs, Hued Songs, 2019. Photo: Passion Ward.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: With 2020 underway, Hued Songs can only look forward to more exceptional
+  work carving a unique and necessary sphere within the South Florida music scene.
+  Moreover, Spirituals & Òrìṣàs should challenge the region’s longstanding classical
+  music institutions to think innovatively in the new year.
+slug: hued-songs-where-traditions-collude-and-collide
+title: Hued Songs, where traditions collude and collide
+youtube_url: ""
+---
 One of the finest works of music-theatre to hit South Florida in 2019 wasn’t an opera – not exactly. There was no grand set, no philharmonic orchestra hidden below-stage, no star-crossed lovers or scheming villains. Instead, what took shape on stage at Miami’s Little Haiti Cultural Center on December 28 distilled opera to its most essential elements – captivating narrative, raw emotion, exceptional music, and exquisite artistry.
 
 Inhabiting a rare and brilliantly curated balance of opera, theatre, history, worship, and public musicology, _Spirituals & Òrìṣàs_ was presented by Hued Songs, a nascent South Florida performance series “that celebrates and explores black culture through black music, history, and artists,” according to their program notes. “Through song, dance, spoken word, and heart, we seek to immerse audiences in black culture, provoke thought, and to provide a platform where artists of color can be seen, heard, and paid.”

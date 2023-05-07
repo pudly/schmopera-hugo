@@ -1,22 +1,31 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1665348111/media/2022/10/AndreaCarroll_SimonPauly_ftfd7a.jpg"
-primary_image_credit = "Simon Pauly."
-related_companies = ["scene/companies/garsington-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/the-dallas-opera.md", "scene/companies/san-diego-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/teatro-alla-scala.md", "scene/companies/palm-beach-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/lyric-opera-of-kansas-city.md"]
-slug = "andrea-carroll"
-title = "Andrea Carroll"
-website = "http://www.andreacarrollsoprano.com/home.html"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/acsoprano/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ACsoprano"
-
-_template = "people_single"
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1665348111/media/2022/10/AndreaCarroll_SimonPauly_ftfd7a.jpg
+primary_image_credit: Simon Pauly.
+related_companies:
+- scene/companies/garsington-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/san-diego-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/palm-beach-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/lyric-opera-of-kansas-city.md
+slug: andrea-carroll
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/acsoprano/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/ACsoprano
+title: Andrea Carroll
+website: http://www.andreacarrollsoprano.com/home.html
+---
 In the 2022-2023 season, Andrea performs Micaëla in _Carmen_ for her debut with Lyric Opera of Kansas City, makes her role and house debut as Cunegonde in a new production of Candide at Opéra National de Lyon, makes her Canadian Opera Company debut as Susanna in _Le Nozze di Figaro_, returns to Palm Beach Opera as Nannetta in _Falstaff_, and debuts at The Metropolitan Opera as Zerlina in _Don Giovanni_.
 
 The 2021-2022 season saw Andrea in her debut at the Bard Music Festival performing the role of Columbine in Ethel Smyth’s _Fête Galante_ and as the soprano soloist in Fauré’s _Requiem_. On the operatic stage, she made her Teatro alla Scala debut as Zerlina in _Don Giovanni_, returned to San Diego Opera as Beatriz in Daniel Catan’s _La Hija de Rappaccini_, to Houston Grand Opera as Pamina in _Die Zauberflöte_ and to the Wiener Staatsoper as Adina in _L'elisir d'amore_. Andrea appeared in concert for her debut with the Wiener Symphoniker and the Wiener Konzerthaus in the world premiere of Johannes Maria Staud’s _Jittering Directions_ and as the soprano soloist in Brahms’ _Requiem_ for her debut with The Cleveland Orchestra.

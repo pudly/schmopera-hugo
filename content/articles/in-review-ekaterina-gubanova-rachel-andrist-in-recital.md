@@ -1,17 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-05-19T16:11:00-04:00"
-lastmod = "2015-05-20T10:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432066115615/IMG_20150519_125155.jpg.jpg"
-publishDate = "2015-05-20T10:08:00-04:00"
-related_articles = ["articles/hat-trick-in-the-amphitheatre.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/ekaterina-gubanova.md"]
-short_description = "Since Ekaterina was completely stunning in Bluebeard, I was eager to hear her up close, in the well-lit Amphitheatre. The women treated us to two sets of Russian songs; Three Songs by Tchaikovsky preceded Modest Mussorgsky&#039;s amazing Songs and Dances of Death."
-slug = "in-review-ekaterina-gubanova-rachel-andrist-in-recital"
-title = "In review: Ekaterina Gubanova &amp; Rachel Andrist in recital"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-05-19T16:11:00-04:00"
+lastmod: "2015-05-20T10:08:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432066115615/IMG_20150519_125155.jpg.jpg
+publishDate: "2015-05-20T10:08:00-04:00"
+related_articles:
+- articles/hat-trick-in-the-amphitheatre.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/ekaterina-gubanova.md
+short_description: Since Ekaterina was completely stunning in Bluebeard, I was eager
+  to hear her up close, in the well-lit Amphitheatre. The women treated us to two
+  sets of Russian songs; Three Songs by Tchaikovsky preceded Modest Mussorgsky&#039;s
+  amazing Songs and Dances of Death.
+slug: in-review-ekaterina-gubanova-rachel-andrist-in-recital
+title: 'In review: Ekaterina Gubanova &amp; Rachel Andrist in recital'
+---
 
 In the first of three voice recitals in a row this week at the Richard Bradshaw Amphitheatre, I heard mezzo-soprano [Ekaterina Gubanova](/scene/people/ekaterina-gubanova/) in recital with pianist Rachel Andrist. Rachel is a staple of the COC's music staff, working most recently on the COC's production of [*Bluebeard's Castle*](http://www.coc.ca/PerformancesAndTickets/1415Season/BluebeardErwartung.aspx). Speaking of which, Ekaterina is between performances of *Bluebeard* right now, singing Judith for the final time in Toronto this Saturday night.
 

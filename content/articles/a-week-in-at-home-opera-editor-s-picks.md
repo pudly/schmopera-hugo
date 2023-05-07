@@ -1,22 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2020-05-11T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "What are you watching this week? Let us know in the comments, or at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "Online opera is all the rage, guys. And I don't know about you, but my super serious problem right now is deciding what on earth to watch in my jammies with my big wine glass and maybe some of the cookies I made as bribery tokens while my son is potty training.\n\nFor what it's worth, here's a bit of what I'm watching this week:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1589239503/media/2020/05/sqVirtualOperainaWeek_itq10g.jpg"
-primary_image_credit = ""
-related_articles = ["articles/covid.md", "articles/the-met-s-at-home-gala.md"]
-related_companies = ["scene/companies/los-angeles-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/beth-morrison-projects.md", "scene/companies/heartbeat-opera.md"]
-related_people = []
-short_description = "Online opera is all the rage, guys. And I don't know about you, but my super serious problem right now is deciding what on earth to watch in my jammies with my big wine glass and maybe some of the cookies I made as bribery tokens while my son is potty training."
-slug = "a-week-in-at-home-opera-editors-picks"
-title = "A week in at-home opera: editor's picks"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2020-05-11T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: What are you watching this week? Let us know in the comments, or at [hello@schmopera.com](mailto:hello@schmopera.com).
+preamble: |-
+  Online opera is all the rage, guys. And I don't know about you, but my super serious problem right now is deciding what on earth to watch in my jammies with my big wine glass and maybe some of the cookies I made as bribery tokens while my son is potty training.
 
-+++
+  For what it's worth, here's a bit of what I'm watching this week:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1589239503/media/2020/05/sqVirtualOperainaWeek_itq10g.jpg
+primary_image_credit: ""
+related_articles:
+- articles/covid.md
+- articles/the-met-s-at-home-gala.md
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/beth-morrison-projects.md
+- scene/companies/heartbeat-opera.md
+related_people: []
+short_description: Online opera is all the rage, guys. And I don't know about you,
+  but my super serious problem right now is deciding what on earth to watch in my
+  jammies with my big wine glass and maybe some of the cookies I made as bribery tokens
+  while my son is potty training.
+slug: a-week-in-at-home-opera-editors-picks
+title: 'A week in at-home opera: editor''s picks'
+youtube_url: ""
+---
 ## _Lady M_
 
 I mean, the tagline says it all: "an online fantasia of Verdi's _Macbeth_". [Heartbeat Opera](/scene/companies/heartbeat-opera/) is apparently rocking the online medium, and I'm pretty excited about _Lady M_, which runs currently **until May 20**. I'm not entirely sure what to expect, but Verdi's great, and the [Heartbeat Opera folks](/a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza/) are great, so "great" seems to be a logical end. Tickets are $20 ([ticketed events support artists!](/what-the-mets-at-home-gala-teaches-us-about-evolution/)), and you can get a sneak peek here:

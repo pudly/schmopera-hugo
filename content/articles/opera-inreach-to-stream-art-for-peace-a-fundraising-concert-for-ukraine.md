@@ -1,22 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2022-03-11T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1647014517/media/2022/03/sq_ArtForPeace_yl6o7a.png"
-primary_image_credit = ""
-related_articles = []
-related_companies = ["scene/companies/opera-inreach.md", "scene/companies/tapestry-opera.md", "scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/brett-polegato.md", "scene/people/ambur-braid.md", "scene/people/aviva-fortunata.md", "scene/people/claire-de-sevigne.md", "scene/people/daevyd-pepper.md", "scene/people/andrew-adridge.md"]
-short_description = "\"Exploring themes of resilience, hope, and justice, Art for Peace aims to raise funds for Ukrainian individuals in need while also demanding peace in Ukraine,\" Opera InReach says of Art For Peace. The concert is also supported by the Ukrainian Art Song Project, Tapestry Opera, Against the Grain Theatre, and individual international artists."
-slug = "opera-inreach-to-stream-art-for-peace-a-fundraising-concert-for-ukraine"
-title = "Opera InReach to stream Art For Peace: A Fundraising Concert for Ukraine"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2022-03-11T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1647014517/media/2022/03/sq_ArtForPeace_yl6o7a.png
+primary_image_credit: ""
+related_articles: []
+related_companies:
+- scene/companies/opera-inreach.md
+- scene/companies/tapestry-opera.md
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/brett-polegato.md
+- scene/people/ambur-braid.md
+- scene/people/aviva-fortunata.md
+- scene/people/claire-de-sevigne.md
+- scene/people/daevyd-pepper.md
+- scene/people/andrew-adridge.md
+short_description: '"Exploring themes of resilience, hope, and justice, Art for Peace
+  aims to raise funds for Ukrainian individuals in need while also demanding peace
+  in Ukraine," Opera InReach says of Art For Peace. The concert is also supported
+  by the Ukrainian Art Song Project, Tapestry Opera, Against the Grain Theatre, and
+  individual international artists.'
+slug: opera-inreach-to-stream-art-for-peace-a-fundraising-concert-for-ukraine
+title: 'Opera InReach to stream Art For Peace: A Fundraising Concert for Ukraine'
+youtube_url: ""
+---
 On **Tuesday, March 15, 6:30pm EST**, Opera InReach is offering [_Art For Peace: A Fundraising Concert for Ukraine_](https://www.operainreach.com/artforpeace), in support of individuals impacted by the current war in Ukraine. The concert features over 40 artists — including Canadians Ambur Braid, Aviva Fortunata, Brett Polegato, and Claire de Sévigné — mixing their own musical styles with Ukrainian national music, art song, folk music and poetry.
 
 The concert will be streamed [at this link](https://www.operainreach.com/artforpeace); it's not ticketed, but donations are encouraged.

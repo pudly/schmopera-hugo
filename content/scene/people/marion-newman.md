@@ -1,20 +1,22 @@
-+++
-date = "2015-09-09T10:56:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-09-09T11:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441810858708/marion_newman_headshot_2015_4x6_coSquare.jpg.jpg"
-primary_image_credit = "Photo courtesy of Domoney Artists Management"
-publishDate = "2015-09-09T10:56:00-04:00"
-related_companies = ["scene/companies/opera-lyra-ottawa.md","scene/companies/pacific-opera-victoria.md"]
-slug = "marion-newman"
-title = "Marion Newman"
-website = "http://www.marionnewman.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/missprill"
-_template = "people_single"
-+++
+---
+date: "2015-09-09T10:56:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-09-09T11:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441810858708/marion_newman_headshot_2015_4x6_coSquare.jpg.jpg
+primary_image_credit: Photo courtesy of Domoney Artists Management
+publishDate: "2015-09-09T10:56:00-04:00"
+related_companies:
+- scene/companies/opera-lyra-ottawa.md
+- scene/companies/pacific-opera-victoria.md
+slug: marion-newman
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/missprill
+title: Marion Newman
+website: http://www.marionnewman.com/
+---
 
 First Nations mezzo-soprano Marion Newman "has a distinctive, dusky voice that suggests drama with every note" (*Toronto Star*) and has been designated "a show stealer" by *BBC Music Magazine*. 
 

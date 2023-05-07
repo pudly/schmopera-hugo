@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-08-31T14:30:00-04:00"
-lastmod = "2017-09-07T21:39:00-04:00"
-preamble = "Since 2013, American baritone Mitchell Hutchings has discovered that \"the success of my students was more important to me than my own.\" In his own singing career, he has sung the title roles in *Sweeney Todd: The Demon Barber of Fleet Street* and *Gianni Schicchi*, Michele in *Il tabarro*, Escamillo in *La tragédie de Carmen*, and Tarquinius in *The Rape of Lucretia*. Hutchings is a quarter-finalist for the [2018 GRAMMY Music Educator Award](https://www.grammy.com/recording-academy/press-release/197-quarterfinalists-announced-for-2018-music-educator-award), and he maintains a private studio in upstate New York.\n\nContinuing our interview series with voice instructors, we spoke with Hutchings about the teamwork between teacher and coach, and how he identifies \"good singing\"."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504204317926/2017-08-31---Mitchell-Hutchings-Schmopera.jpg.jpg"
-publishDate = "2017-09-07T21:39:00-04:00"
-related_people = ["scene/people/mitchell-hutchings.md"]
-short_description = "&quot;It may sound cliché, but, even if a student has a natural talent, the best results come from a healthy work ethic. You can see this at various schools, conservatories, and independent voice studios everywhere. Those that are the most motivated and have the greatest amount of perseverance gain the most from this career.&quot;"
-slug = "the-voice-teacher-series-mitchell-hutchings"
-title = "The voice teacher series: Mitchell Hutchings"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-08-31T14:30:00-04:00"
+lastmod: "2017-09-07T21:39:00-04:00"
+preamble: |-
+  Since 2013, American baritone Mitchell Hutchings has discovered that "the success of my students was more important to me than my own." In his own singing career, he has sung the title roles in *Sweeney Todd: The Demon Barber of Fleet Street* and *Gianni Schicchi*, Michele in *Il tabarro*, Escamillo in *La tragédie de Carmen*, and Tarquinius in *The Rape of Lucretia*. Hutchings is a quarter-finalist for the [2018 GRAMMY Music Educator Award](https://www.grammy.com/recording-academy/press-release/197-quarterfinalists-announced-for-2018-music-educator-award), and he maintains a private studio in upstate New York.
+
+  Continuing our interview series with voice instructors, we spoke with Hutchings about the teamwork between teacher and coach, and how he identifies "good singing".
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504204317926/2017-08-31---Mitchell-Hutchings-Schmopera.jpg.jpg
+publishDate: "2017-09-07T21:39:00-04:00"
+related_people:
+- scene/people/mitchell-hutchings.md
+short_description: '&quot;It may sound cliché, but, even if a student has a natural
+  talent, the best results come from a healthy work ethic. You can see this at various
+  schools, conservatories, and independent voice studios everywhere. Those that are
+  the most motivated and have the greatest amount of perseverance gain the most from
+  this career.&quot;'
+slug: the-voice-teacher-series-mitchell-hutchings
+title: 'The voice teacher series: Mitchell Hutchings'
+---
 
 ## What do you enjoy most about teaching voice?
 

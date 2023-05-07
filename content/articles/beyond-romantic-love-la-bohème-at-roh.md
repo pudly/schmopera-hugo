@@ -1,22 +1,30 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = 2020-01-12T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Richard Jones' [production of _La bohème_](https://www.roh.org.uk/tickets-and-events/la-boheme-by-richard-jones-dates) is onstage through 13 February, and returns for more performances 12-27 May."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1578937844/media/2020/01/sq1655GarifullinaandFilonczykROH2020_kn9jvh.jpg"
-primary_image_credit = "Aida Garifullina (Musetta) and Andrzej Filonczyk (Marcello) in La bohème, ROH, 2020. Photo: Tristam Kenton."
-related_articles = ["articles/transladapted-bohème-offers-fresh-intimate-production-for-national-tour.md", "articles/dmmo-la-boheme.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/charles-castronovo.md"]
-short_description = "I was very much taken with Stuart Laing's production design. It felt quintessentially Parisian and conjured up all of the sights, smells, and senses one comes to expect but did so in a very understated way."
-slug = "beyond-romantic-love-la-boheme-at-roh"
-title = "Beyond romantic love: La bohème at ROH"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2020-01-12T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Richard Jones' [production of _La bohème_](https://www.roh.org.uk/tickets-and-events/la-boheme-by-richard-jones-dates)
+  is onstage through 13 February, and returns for more performances 12-27 May.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1578937844/media/2020/01/sq1655GarifullinaandFilonczykROH2020_kn9jvh.jpg
+primary_image_credit: 'Aida Garifullina (Musetta) and Andrzej Filonczyk (Marcello)
+  in La bohème, ROH, 2020. Photo: Tristam Kenton.'
+related_articles:
+- articles/transladapted-bohème-offers-fresh-intimate-production-for-national-tour.md
+- articles/dmmo-la-boheme.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/charles-castronovo.md
+short_description: I was very much taken with Stuart Laing's production design. It
+  felt quintessentially Parisian and conjured up all of the sights, smells, and senses
+  one comes to expect but did so in a very understated way.
+slug: beyond-romantic-love-la-boheme-at-roh
+title: 'Beyond romantic love: La bohème at ROH'
+youtube_url: ""
+---
 Even after seeing this opera many times over, I never seem to tire of it and continue to find joy and humanity in its most intimate moments, more so every time I see it. It is a story that has been told many times in countless different ways. This production by Richard Jones, which saw its first run of performances at the Royal Opera in 2017, takes a traditional if not somewhat stripped-back approach.
 
 I was very much taken with Stuart Laing's production design. It felt quintessentially Parisian and conjured up all of the sights, smells, and senses one comes to expect but did so in a very understated way. The attic hovel that Marcello and Rodolfo call their home was a bare-boned structure of criss-crossing wooden beams. The Act II street scene in the Latin quarter presented an image of a bustling and festive Christmas Eve that felt both elevated and relaxed. The third act opened up on a well-lit little pub on a snowy but otherwise empty stage. Though sparse, the production managed to both create atmosphere and convey emotion elegantly and with minimal effort.

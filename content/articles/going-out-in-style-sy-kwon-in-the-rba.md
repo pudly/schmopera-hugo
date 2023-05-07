@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-05-18T22:32:00-04:00"
-lastmod = "2017-05-19T14:34:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495209745705/2017-05-19---Charles-Sy.jpg.jpg"
-primary_image_credit = "Charles Sy, tenor."
-publishDate = "2017-05-19T12:03:00-04:00"
-related_articles = ["articles/in-review-owen-mccauslands-recital-stunner.md","articles/in-review-a-shropshire-lad.md"]
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/charles-sy.md","scene/people/hyejin-kwon.md"]
-short_description = "It seems appropriate that the Les Adieux concerts show off a side to these singers that&#039;s rarely seen on the COC mainstage. For Sy, this was the first undertaking of Schubert&#039;s behemoth song cycle, and his performance had a beautiful balance of fresh youthfulness, and careful thought. He took enormous risks in vocal colour, nailing just about all of those choices; the detail work was impressive, and his sound has settled into something unique and warm."
-slug = "going-out-in-style-sy-kwon-in-the-rba"
-title = "Going out in style: Sy &amp; Kwon in the RBA"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-05-18T22:32:00-04:00"
+lastmod: "2017-05-19T14:34:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495209745705/2017-05-19---Charles-Sy.jpg.jpg
+primary_image_credit: Charles Sy, tenor.
+publishDate: "2017-05-19T12:03:00-04:00"
+related_articles:
+- articles/in-review-owen-mccauslands-recital-stunner.md
+- articles/in-review-a-shropshire-lad.md
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/charles-sy.md
+- scene/people/hyejin-kwon.md
+short_description: It seems appropriate that the Les Adieux concerts show off a side
+  to these singers that&#039;s rarely seen on the COC mainstage. For Sy, this was
+  the first undertaking of Schubert&#039;s behemoth song cycle, and his performance
+  had a beautiful balance of fresh youthfulness, and careful thought. He took enormous
+  risks in vocal colour, nailing just about all of those choices; the detail work
+  was impressive, and his sound has settled into something unique and warm.
+slug: going-out-in-style-sy-kwon-in-the-rba
+title: 'Going out in style: Sy &amp; Kwon in the RBA'
+---
 
 To mark their exit from the [Canadian Opera Company Ensemble Studio](/scene/companies/canadian-opera-company-ensemble-studio/), tenor [Charles Sy](/scene/people/charles-sy/) and pianist [Hyejin Kwon](/scene/people/hyejin-kwon/) gave a polished performance of Schubert's *Die schöne Müllerin*.
 

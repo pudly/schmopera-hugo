@@ -1,15 +1,19 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-08-12T20:49:00-04:00"
-lastmod = "2018-08-14T16:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1534121631629/Langree-13768_creditMattDine_LincolnCenterforthePerformingArts.jpg.jpg"
-primary_image_credit = "Louis Langrée, conductor. Photo: Matt Dine/Lincoln Center for the Performing Arts."
-publishDate = "2018-08-12T21:13:00-04:00"
-short_description = "After such a substantial appetizer there was a reasonable interval before the\nentrée. It is at this point appropriate to mention the reconfiguration that Mostly Mozart brings to David Geffen Hall. The stage extends beyond the proscenium into the auditorium. Seating is placed at either side of the extended portions of the stage and, when a chorus isn&#039;t performing, behind it."
-slug = "a-summer-mozart-menu"
-title = "A summer Mozart menu"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-08-12T20:49:00-04:00"
+lastmod: "2018-08-14T16:44:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1534121631629/Langree-13768_creditMattDine_LincolnCenterforthePerformingArts.jpg.jpg
+primary_image_credit: 'Louis Langrée, conductor. Photo: Matt Dine/Lincoln Center for
+  the Performing Arts.'
+publishDate: "2018-08-12T21:13:00-04:00"
+short_description: |-
+  After such a substantial appetizer there was a reasonable interval before the
+  entrée. It is at this point appropriate to mention the reconfiguration that Mostly Mozart brings to David Geffen Hall. The stage extends beyond the proscenium into the auditorium. Seating is placed at either side of the extended portions of the stage and, when a chorus isn&#039;t performing, behind it.
+slug: a-summer-mozart-menu
+title: A summer Mozart menu
+---
 
 Mozart's *Meistermusik* was the *amuse bouche* of this summer concert nearing
 the end of Lincoln Center's 2018 edition of its annual [Mostly Mozart Festival](http://www.lincolncenter.org/mostly-mozart-festival). The work was a luscious if solemn taste of what was to come, when, in the latter half of the concert, conductor Louis Langrée, his Mostly Mozart Festival Orchestra and the Concert Chorale of New York directed by James Bagwell, served up the entrée, Mozart's *Requiem*.

@@ -1,18 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-11-26T13:30:00-05:00"
-lastmod = "2018-11-28T11:35:00-05:00"
-preamble = "Opera Mariposa is ready to unveil its new production of Mozart's [*Così fan tutte*](http://operamariposa.com/schedule), **November 30 to December 8** at Marpole United Church. The Vancouver-based, female-led opera company is bringing Mozart's staple into the 21st century, no small feat for Da Ponte's layered story of deception and dating. \n\nWe spoke with stage director Robin Hahn about her tropical vision for a present-day *Così*."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543344259097/sqCosiFanTutte_cast_2_photobyStephanieKo_print.jpg.jpg"
-primary_image_credit = "One of two casts of Opera Mariposa's Così fan tutte. Photo: Stephanie Ko."
-publishDate = "2018-11-27T08:58:00-05:00"
-related_articles = ["articles/cosi-fan-tutte-misogynist-unreasonable.md","articles/chauvinism-cynicism-great-singing-cos-fan-tutte.md"]
-related_companies = ["scene/companies/opera-mariposa.md"]
-short_description = "&quot;Our production includes a little LGBTQ+ content, as well as a nod to polyamory. Given the way the original sought to challenge the status quo, we felt this is very much in the spirit of the opera. I think the result is still a hilarious, satirical look at relationship stereotypes, and one that all audiences can enjoy!&quot;"
-slug = "stay-warm-with-opera-mariposas-tropical-cos-fan-tutte"
-title = "Stay warm with Opera Mariposa&#039;s tropical Così fan tutte"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-11-26T13:30:00-05:00"
+lastmod: "2018-11-28T11:35:00-05:00"
+preamble: "Opera Mariposa is ready to unveil its new production of Mozart's [*Così
+  fan tutte*](http://operamariposa.com/schedule), **November 30 to December 8** at
+  Marpole United Church. The Vancouver-based, female-led opera company is bringing
+  Mozart's staple into the 21st century, no small feat for Da Ponte's layered story
+  of deception and dating. \n\nWe spoke with stage director Robin Hahn about her tropical
+  vision for a present-day *Così*."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543344259097/sqCosiFanTutte_cast_2_photobyStephanieKo_print.jpg.jpg
+primary_image_credit: 'One of two casts of Opera Mariposa''s Così fan tutte. Photo:
+  Stephanie Ko.'
+publishDate: "2018-11-27T08:58:00-05:00"
+related_articles:
+- articles/cosi-fan-tutte-misogynist-unreasonable.md
+- articles/chauvinism-cynicism-great-singing-cos-fan-tutte.md
+related_companies:
+- scene/companies/opera-mariposa.md
+short_description: '&quot;Our production includes a little LGBTQ+ content, as well
+  as a nod to polyamory. Given the way the original sought to challenge the status
+  quo, we felt this is very much in the spirit of the opera. I think the result is
+  still a hilarious, satirical look at relationship stereotypes, and one that all
+  audiences can enjoy!&quot;'
+slug: stay-warm-with-opera-mariposas-tropical-cos-fan-tutte
+title: Stay warm with Opera Mariposa&#039;s tropical Così fan tutte
+---
 
 ### What is potentially problematic about Mozart's *Così fan tutte*?
 

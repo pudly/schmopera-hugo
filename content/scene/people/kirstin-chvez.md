@@ -1,19 +1,22 @@
-+++
-date = "2017-09-17T18:33:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-09-17T18:34:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505687396246/Howard4-2.jpg.jpg"
-publishDate = "2017-09-17T18:33:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-atlanta-opera.md"]
-slug = "kirstin-chvez"
-title = "Kirstin Chávez"
-website = "http://www.kchavez.com/2012/bio.asp"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/kchavezmezzosoprano/"
-_template = "people_single"
-+++
+---
+date: "2017-09-17T18:33:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-09-17T18:34:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505687396246/Howard4-2.jpg.jpg
+publishDate: "2017-09-17T18:33:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/the-atlanta-opera.md
+slug: kirstin-chvez
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/kchavezmezzosoprano/
+title: Kirstin Chávez
+website: http://www.kchavez.com/2012/bio.asp
+---
 
 Kirstin Chávez is considered one of the most riveting and significant performing mezzo-sopranos today. Her powerful voice with its expansive range, the dramatic intensity of her acting, and her natural sensuality combine to make her an arresting and unique presence on the operatic and concert stages.
 

@@ -1,18 +1,34 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = "2017-10-08T23:02:00-04:00"
-lastmod = "2017-10-08T23:32:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507518563006/2017-10-09---square---Quinn-Kelsey_RIGOLETTO_LYR171004_175_c.Todd-Rosenberg.jpg.jpg"
-primary_image_credit = "Quinn Kelsey in the title role of Rigoletto, Lyric Opera of Chicago, 2017. Photo: Todd Rosenberg."
-publishDate = "2017-10-08T23:26:00-04:00"
-related_articles = ["articles/in-review-rigoletto-at-eno.md","articles/the-price-of-vengeance-rigoletto-at-roh.md","articles/great-music-distracting-sexuality-rigoletto.md","articles/piotr-beczala.md","articles/verdis-tragedy-in-jest.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/quinn-kelsey.md","scene/people/matthew-polenzani.md","scene/people/rosa-feola.md","scene/people/zanda-svede.md"]
-short_description = "Here is when a reviewer typically starts reaching into his bag of superlatives, but at the risk of hyperbolizing, Kelsey&#039;s performance sets a new standard. At just 39 years old, the Ryan-Opera-Center-alumnus looked and sounded every bit the part of a father aged and disfigured by paranoia, disillusionment, and delusion."
-slug = "searching-for-superlatives-locs-suberb-rigoletto"
-title = "Searching for superlatives: LOC&#039;s suberb Rigoletto"
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2017-10-08T23:02:00-04:00"
+lastmod: "2017-10-08T23:32:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507518563006/2017-10-09---square---Quinn-Kelsey_RIGOLETTO_LYR171004_175_c.Todd-Rosenberg.jpg.jpg
+primary_image_credit: 'Quinn Kelsey in the title role of Rigoletto, Lyric Opera of
+  Chicago, 2017. Photo: Todd Rosenberg.'
+publishDate: "2017-10-08T23:26:00-04:00"
+related_articles:
+- articles/in-review-rigoletto-at-eno.md
+- articles/the-price-of-vengeance-rigoletto-at-roh.md
+- articles/great-music-distracting-sexuality-rigoletto.md
+- articles/piotr-beczala.md
+- articles/verdis-tragedy-in-jest.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/quinn-kelsey.md
+- scene/people/matthew-polenzani.md
+- scene/people/rosa-feola.md
+- scene/people/zanda-svede.md
+short_description: Here is when a reviewer typically starts reaching into his bag
+  of superlatives, but at the risk of hyperbolizing, Kelsey&#039;s performance sets
+  a new standard. At just 39 years old, the Ryan-Opera-Center-alumnus looked and sounded
+  every bit the part of a father aged and disfigured by paranoia, disillusionment,
+  and delusion.
+slug: searching-for-superlatives-locs-suberb-rigoletto
+title: 'Searching for superlatives: LOC&#039;s suberb Rigoletto'
+---
 
 Last month, The Lyric Opera of Chicago kicked off its 2017/18 season with an auspicious Gluck's [*Orphée et Eurydice*](/orphee/). An unforgettable new production—marking LOC's first collaboration with Chicago’s famed Joffrey Ballet, it was recently recorded by PBS to be broadcast as part of their Great Performances series. 
 

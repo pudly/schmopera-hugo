@@ -1,22 +1,34 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = 2020-02-26T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582569947/media/2020/02/sqPOVFLightFlight_0174_ixyoy6.jpg"
-primary_image_credit = "William Towers as the Refugee in Pacific Opera Victoria's national premiere of Flight at Victoria's Royal Theatre, Feb. 20-Mar. 1, 2020."
-related_articles = ["articles/flight.md", "articles/talking-with-composers-jonathan-dove.md"]
-related_companies = ["scene/companies/pacific-opera-victoria.md"]
-related_people = ["scene/people/jacqueline-woodley.md", "scene/people/john-brancy.md", "scene/people/allyson-mchardy.md", "scene/people/sharleen-joynt.md"]
-short_description = "In Flight, the characters arrive at the airport one by one, en route to their various destinations, and bringing their various problems with them. As all flights are cancelled due to a huge storm, and the passengers are stranded in the airport, their problems come to the forefront and are highlighted by each character in turn. "
-slug = "well-cast-vignettes-in-povs-flight"
-title = "Well-cast vignettes in POV's Flight"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2020-02-26T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1582569947/media/2020/02/sqPOVFLightFlight_0174_ixyoy6.jpg
+primary_image_credit: William Towers as the Refugee in Pacific Opera Victoria's national
+  premiere of Flight at Victoria's Royal Theatre, Feb. 20-Mar. 1, 2020.
+related_articles:
+- articles/flight.md
+- articles/talking-with-composers-jonathan-dove.md
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+related_people:
+- scene/people/jacqueline-woodley.md
+- scene/people/john-brancy.md
+- scene/people/allyson-mchardy.md
+- scene/people/sharleen-joynt.md
+short_description: 'In Flight, the characters arrive at the airport one by one, en
+  route to their various destinations, and bringing their various problems with them.
+  As all flights are cancelled due to a huge storm, and the passengers are stranded
+  in the airport, their problems come to the forefront and are highlighted by each
+  character in turn. '
+slug: well-cast-vignettes-in-povs-flight
+title: Well-cast vignettes in POV's Flight
+youtube_url: ""
+---
 [Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/) has had a history of taking on risks with some off-the-beaten-path productions, from last season's [_Rinaldo_](/pacific-opera-victorias-steampunk-meets-fantasy-rinaldo/), to 2017’s _Jenufa_, to 2019’s _Countess Maritza_. This season’s selection is Jonathan Dove’s _Flight_. The opera premiered at Glyndebourne Festival Opera in 1998 and has been performed around the world since.
 
 The story is very loosely based on the story of [Mehran Karimi Nasseri](https://en.wikipedia.org/wiki/Mehran_Karimi_Nasseri), a refugee who lived at Paris' Charles de Gaulle airport for 18 years from 1988-2006. In this production, however, the setting is a very Pan-Am, 1960s mod airport, temporally removed from the real timeline of Nasseri's life.

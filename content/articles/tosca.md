@@ -1,22 +1,28 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = 2020-07-31T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1595512004/media/2020/07/sqtosca1_mwghfv.jpg"
-primary_image_credit = "A scene from Tosca, Northern Lights Music Festival, 2020."
-related_articles = []
-related_companies = []
-related_people = ["scene/people/leah-crocetto.md"]
-short_description = "With no performances scheduled in the United States scheduled for the next six months will there still be an audience? I think so, and I hope so. Cautious performances like those put on by Northern Lights are essential to keeping the spirit of opera alive in the United States. Let us hope for more innovation and live music making in the coming months."
-slug = "the-concessions-we-make-for-live-opera-tosca-goes-up-at-northern-lights-music-festival"
-title = "The concessions we make for live opera: Tosca goes up at Northern Lights Music Festival"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2020-07-31T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1595512004/media/2020/07/sqtosca1_mwghfv.jpg
+primary_image_credit: A scene from Tosca, Northern Lights Music Festival, 2020.
+related_articles: []
+related_companies: []
+related_people:
+- scene/people/leah-crocetto.md
+short_description: With no performances scheduled in the United States scheduled for
+  the next six months will there still be an audience? I think so, and I hope so.
+  Cautious performances like those put on by Northern Lights are essential to keeping
+  the spirit of opera alive in the United States. Let us hope for more innovation
+  and live music making in the coming months.
+slug: the-concessions-we-make-for-live-opera-tosca-goes-up-at-northern-lights-music-festival
+title: 'The concessions we make for live opera: Tosca goes up at Northern Lights Music
+  Festival'
+youtube_url: ""
+---
 The [Northern Lights Music Festival](https://www.northernlightsmusic.org/tosca/) produced the first opera with a live audience in the United States since March. After four months of isolation, I was ecstatic to see a live performance (with lots of precautions in place). I didn't know how my musical and critical ear had fared over the past months - would I have to lower my expectations for "socially distanced open air opera"? 
 
 Absolutely not. The cast and crew of Northern Lights delivered an exciting performance-global pandemic regardless. Tosca played at The Minnesota Discovery Theater in Chisholm, Minnesota July 17 and 19.

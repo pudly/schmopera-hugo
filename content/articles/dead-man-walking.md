@@ -1,22 +1,31 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Review"
-date = 2019-11-05T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Lyric Opera of Chicago's production of [_Dead Man Walking_](https://www.lyricopera.org/productions/2019-20/dead-man-walking/) runs through November 22."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572923612/media/2019/11/sqLOCDeadManWalking6531_dy0mye.jpg"
-primary_image_credit = "Dead Man Walking, Lyric Opera of Chicago, 2019. Photo: Ken Howard."
-related_articles = ["articles/we-took-a-real-chance-with-great-scott.md", "articles/dead-man-walking-makes-its-minnesota-opera-debut.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/ryan-mckinny.md", "scene/people/patricia-racette.md", "scene/people/susan-graham.md"]
-short_description = "Graham's performance is gut-wrenchingly sincere and she's as vocally resplendent as ever, even when her voice seems on the verge of breaking with emotion."
-slug = "stellar-performances-from-a-star-cast-in-chicagos-dead-man-walking"
-title = "Stellar performances from a star cast in Chicago's Dead Man Walking"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Review
+date: "2019-11-05T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Lyric Opera of Chicago's production of [_Dead Man Walking_](https://www.lyricopera.org/productions/2019-20/dead-man-walking/)
+  runs through November 22.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1572923612/media/2019/11/sqLOCDeadManWalking6531_dy0mye.jpg
+primary_image_credit: 'Dead Man Walking, Lyric Opera of Chicago, 2019. Photo: Ken
+  Howard.'
+related_articles:
+- articles/we-took-a-real-chance-with-great-scott.md
+- articles/dead-man-walking-makes-its-minnesota-opera-debut.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/ryan-mckinny.md
+- scene/people/patricia-racette.md
+- scene/people/susan-graham.md
+short_description: Graham's performance is gut-wrenchingly sincere and she's as vocally
+  resplendent as ever, even when her voice seems on the verge of breaking with emotion.
+slug: stellar-performances-from-a-star-cast-in-chicagos-dead-man-walking
+title: Stellar performances from a star cast in Chicago's Dead Man Walking
+youtube_url: ""
+---
 Nearly two decades after its world premiere, [_Dead Man Walking_](https://www.lyricopera.org/productions/2019-20/dead-man-walking/) has landed in Chicago. The opera, with music by Jake Heggie and libretto by playwright Terrance McNally, is a dramatization of scenes from Sister Helen Prejean's memoir of the same name.
 
 Since the book's release in 1993, Sister Helen has become the nation's leading advocate for the abolishment of the death penalty. While _Dead Man Walking_ also exists as a play and a movie, the opera is a unique adaptation that carefully eschews a simplified portrait of Sister Helen in favor of a powerful work of theater that illuminates and makes personal the myriad attitudes and viewpoints on all sides of the death penalty debate.

@@ -1,22 +1,30 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2022-11-13T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1668284417/media/2022/11/sqBosOpColab110922-7217_kbslp9.jpg"
-primary_image_credit = "A scene from Boston Opera Collaborative's production of Love in the Time Of..., 2022. Photo: Dan Busler Photography."
-related_articles = ["articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md", "articles/in-review-death-desire.md"]
-related_companies = ["scene/companies/boston-opera-collaborative.md"]
-related_people = ["scene/people/junhan-choi.md", "scene/people/omar-najmi.md"]
-short_description = "Najmi’s tender, sensitive reading of Dichterliebe is worth the price of admission all on its own: I dare say that his Dichterliebe might easily rival the performances of some of the great Lieder singers of the 20th century."
-slug = "a-contemplative-reflection-on-dichterliebe-in-love-in-the-time-of"
-title = "A contemplative reflection on Dichterliebe in Love In The Time Of…"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2022-11-13T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1668284417/media/2022/11/sqBosOpColab110922-7217_kbslp9.jpg
+primary_image_credit: 'A scene from Boston Opera Collaborative''s production of Love
+  in the Time Of..., 2022. Photo: Dan Busler Photography.'
+related_articles:
+- articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md
+- articles/in-review-death-desire.md
+related_companies:
+- scene/companies/boston-opera-collaborative.md
+related_people:
+- scene/people/junhan-choi.md
+- scene/people/omar-najmi.md
+short_description: 'Najmi’s tender, sensitive reading of Dichterliebe is worth the
+  price of admission all on its own: I dare say that his Dichterliebe might easily
+  rival the performances of some of the great Lieder singers of the 20th century.'
+slug: a-contemplative-reflection-on-dichterliebe-in-love-in-the-time-of
+title: A contemplative reflection on Dichterliebe in Love In The Time Of…
+youtube_url: ""
+---
 There have been a number of times throughout the history of Western music of composers deciding to look back at an old masterwork and compose a response to it, and a similar trend does exist in poetry as well. Rarely, however, does an opera company back such a project, and rarely do they do so with more than one composer at a time. And yet, [Boston Opera Collaborative](/scene/companies/boston-opera-collaborative/) decided to make a response by contacting eight composers and ten poets to respond to specific poems within Robert Schumann's _Dichterliebe_. As their executive directors put it, as they received the songs a narrative seemed to emerge from what the poets and then composers responded with: what became a planned stream was instead saved for live performance, and it is with this result, which they have elected to title [_Love in the Time Of…_](https://www.bocopera.org/love), BOC has returned to live staged performance.
 
 One might have reason to approach such an undertaking with a certain amount of trepidation: as the old saying goes, "too many cooks can spoil the broth", and any evening that centers around a massive variety of voices is always going to have some issues with quality across the whole. Additionally, I question how a narrative can form out of responses to _Dichterliebe_: for as great a song cycle as it is, it is a part of the vein of German Lieder where there is a very short amount of setup right in the first few songs, which is then followed by the main character angsting about lost love for the entire rest of the cycle, and any responses to that run the risk of treading the same ground for so long that it gets old.

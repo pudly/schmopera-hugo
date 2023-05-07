@@ -1,32 +1,31 @@
-+++
-address = ""
-email = "info@bostonbaroque.org"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1650906108/media/2022/04/Logo_BostonBaroque_oppxku.png"
-primary_image_credit = ""
-related_people = ["scene/people/amanda-forsythe.md", "scene/people/daniela-mack.md", "scene/people/anthony-roth-costanzo.md"]
-slug = "boston-baroque"
-title = "Boston Baroque"
-type_of_company = "Early Music Company"
-website = "https://baroque.boston/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/bostonbaroque"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/bostonbaroque"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/bostonbaroque/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/BostonBaroque"
-
-_template = "company_single"
-+++
+---
+address: ""
+email: info@bostonbaroque.org
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1650906108/media/2022/04/Logo_BostonBaroque_oppxku.png
+primary_image_credit: ""
+related_people:
+- scene/people/amanda-forsythe.md
+- scene/people/daniela-mack.md
+- scene/people/anthony-roth-costanzo.md
+slug: boston-baroque
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/bostonbaroque
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/bostonbaroque
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/bostonbaroque/
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/BostonBaroque
+title: Boston Baroque
+type_of_company: Early Music Company
+website: https://baroque.boston/
+---
 Founded in 1973 by Music Director Martin Pearlman, Boston Baroque has garnered a global reputation for its lively, groundbreaking, emotionally-charged performances and recordings that bring early music to life for modern audiences. Boston Baroque’s orchestra is composed of some of the finest period instrumentalists performing today, and is frequently joined by the ensemble’s professional chorus and by a roster of soloists who grace the world’s most renowned concert halls and stages. The ensemble performs Baroque and Classical music using period instruments and performance techniques that reflect the time in which the music was composed.  Boston Baroque believes that Baroque and Classical music is music for all times.
 
 Under Music Director Martin Pearlman’s charismatic direction, Boston Baroque remains a trailblazer in the field of early music. The organization was the first period instrument orchestra to perform at New York City’s Carnegie Hall, Los Angeles’ Disney Hall, San Juan’s Casals Festival, and numerous festivals in the United States and abroad. Boston Baroque has given numerous American period-instrument premieres including Mozart’s _The Magic Flute_ and _Don Giovanni_, Rameau’s _Zoroastre_, the Boston premiere of Beethoven’s Fidelio, and the modern premiere of _The Philosopher’s Stone_, a recently-discovered singspiel composed in part by Mozart. The organization presented Boston’s first complete cycle of Monteverdi’s three surviving operas, with performing editions by Pearlman. The ensemble can be heard on the soundtrack to the major motion picture _Face/Off_ featuring John Travolta and Nicolas Cage.

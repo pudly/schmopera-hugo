@@ -1,16 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-02-02T10:29:00+00:00"
-lastmod = "2017-02-02T13:12:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486032696444/2017-02-02---TTF-PhotoCredit-Barney-Witts.jpg.jpg"
-primary_image_credit = "Photo by Barney Witts."
-publishDate = "2017-02-02T13:12:00+00:00"
-related_articles = ["articles/muppets-at-the-opera.md","articles/in-review-enos-the-magic-flute.md","articles/in-review-snow.md","articles/discomfort-louis-riel-at-the-coc.md","articles/cosmic-grandeur-and-human-frailty-crossing.md","articles/a-fascinating-marriage-of-art-forms-kayoi-komachi.md","articles/a-visceral-nightmarish-tourdeforce-der-mieter.md","articles/more-than-the-scream-dear-edvard.md","articles/heavy-on-the-plot-points-the-great-god-pan.md","articles/i-opera-run-by-the-cool-kids.md"]
-short_description = "Why, in the time of CGI and robots, do puppets still retain their magic? The simple answer lies in the puppetry skills of Poster and Nakamura, who pushed their audience to laughter and disgust and pity. Yet the secret seems to lie in the transparency of the art form. The puppeteers were always visible; every set change was done nakedly, the audience in on all the tricks. Instead of spoiling the illusion, it added a second layer of wonder."
-slug = "tarrare-the-freak-i-just-want-to-be-full"
-title = "Tarrare the Freak: &quot;I just want to be full.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-02-02T10:29:00+00:00"
+lastmod: "2017-02-02T13:12:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486032696444/2017-02-02---TTF-PhotoCredit-Barney-Witts.jpg.jpg
+primary_image_credit: Photo by Barney Witts.
+publishDate: "2017-02-02T13:12:00+00:00"
+related_articles:
+- articles/muppets-at-the-opera.md
+- articles/in-review-enos-the-magic-flute.md
+- articles/in-review-snow.md
+- articles/discomfort-louis-riel-at-the-coc.md
+- articles/cosmic-grandeur-and-human-frailty-crossing.md
+- articles/a-fascinating-marriage-of-art-forms-kayoi-komachi.md
+- articles/a-visceral-nightmarish-tourdeforce-der-mieter.md
+- articles/more-than-the-scream-dear-edvard.md
+- articles/heavy-on-the-plot-points-the-great-god-pan.md
+- articles/i-opera-run-by-the-cool-kids.md
+short_description: Why, in the time of CGI and robots, do puppets still retain their
+  magic? The simple answer lies in the puppetry skills of Poster and Nakamura, who
+  pushed their audience to laughter and disgust and pity. Yet the secret seems to
+  lie in the transparency of the art form. The puppeteers were always visible; every
+  set change was done nakedly, the audience in on all the tricks. Instead of spoiling
+  the illusion, it added a second layer of wonder.
+slug: tarrare-the-freak-i-just-want-to-be-full
+title: 'Tarrare the Freak: &quot;I just want to be full.&quot;'
+---
 
 It seems an obvious thing in hindsight, but grown-ups really love puppets. Or so is the fairly-drawn conclusion, based on the laughs, gasps, and audible emotional investment in the audience as they took in Wattle & Daub's production of [*The Depraved Appetite of Tarrare the Freak*](http://www.wattleanddaub.co.uk/tarrare.html). 
 

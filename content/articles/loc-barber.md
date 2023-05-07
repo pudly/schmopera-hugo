@@ -1,22 +1,34 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Review"
-date = "2019-09-30T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Next up is [_Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/), opening October 12th, with Music Director Designate Enrique Mazzola conducting."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569889527/media/2019/10/sqLawrence_Brownlee_Alessandro_Corbelli_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_484_d5e205.jpg"
-primary_image_credit = "Lawrence Brownlee (Count Almaviva) in The Barber of Seville, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg."
-related_articles = ["articles/psychology-audition.md", "articles/blo-barber-brings-delightful-laughter-amid-overdesign.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/adam-plachetka.md", "scene/people/marianne-crebassa.md", "scene/people/lawrence-brownlee.md"]
-short_description = "While his vocal brilliance was not at all a surprise, Lawrence Brownlee's spirited stage antics were a consistent delight throughout the evening. Known for virtuosically ornamenting the already-florid lines of his bel canto repertoire, Brownlee seemed to be playing it safe on Saturday night, despite sounding in fantastic voice."
-slug = "brownlee-headlines-season-opener-in-chicago"
-title = "Brownlee headlines season opener in Chicago"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Review
+date: "2019-09-30T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Next up is [_Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/),
+  opening October 12th, with Music Director Designate Enrique Mazzola conducting.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569889527/media/2019/10/sqLawrence_Brownlee_Alessandro_Corbelli_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_484_d5e205.jpg
+primary_image_credit: 'Lawrence Brownlee (Count Almaviva) in The Barber of Seville,
+  Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.'
+related_articles:
+- articles/psychology-audition.md
+- articles/blo-barber-brings-delightful-laughter-amid-overdesign.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/adam-plachetka.md
+- scene/people/marianne-crebassa.md
+- scene/people/lawrence-brownlee.md
+short_description: While his vocal brilliance was not at all a surprise, Lawrence
+  Brownlee's spirited stage antics were a consistent delight throughout the evening.
+  Known for virtuosically ornamenting the already-florid lines of his bel canto repertoire,
+  Brownlee seemed to be playing it safe on Saturday night, despite sounding in fantastic
+  voice.
+slug: brownlee-headlines-season-opener-in-chicago
+title: Brownlee headlines season opener in Chicago
+youtube_url: ""
+---
 On Saturday at [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/), the red carpet was bustling as the public thronged into the lobby ahead of the season opener: Rossini's [_Barber of Seville_](https://www.lyricopera.org/productions/2019-20/barber-of-seville/). While I'll always be partial to a cheeky Tuesday matinee, it's a genuine hoot to gawp at the coiffed, well-heeled, and often bejewelled opening night patrons. The annual promise of the ultra-exclusive Opera Ball following the performance ensures a fashionable assemblage.
 
 <figure data-type="image">

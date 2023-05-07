@@ -1,22 +1,34 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = 2022-06-07T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1654615525/media/2022/06/sqCOC_Queen_DSC_4323_s9bz5v.jpg"
-primary_image_credit = "Teiya Kasahara 笠原貞野 in the Canadian Opera Company’s production of The QueenIn Me, 2022. Conductor Daniel Bartholomew-Poyser, co-directors Andrea Donaldson and Aria Umezawa, set and costume designer Joanna Yu, lighting designer André du Toit, projection designer Laura Warren. Photo: Gaetz Photography."
-related_articles = ["articles/orlando-gender-bending-and-the-sound-of-androgyny-in-vienna.md", "articles/taking-a-bow-curtain-calls-for-your-voice-type.md"]
-related_companies = ["scene/companies/amplified-opera.md", "scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/aria-umezawa.md", "scene/people/teiya-kasahara.md"]
-short_description = "The Queen in Me at the Canadian Opera Company is the culmination of years of work by Kasahara and their creative team to create this monolith of a one-person show. A true one-person show -- not a recital, not a cabaret or salon, but a dramatically driven show that would need to be seen to be believed. "
-slug = "the-queen-in-me-yas-kween"
-title = "The Queen in Me: yaassss kweeeeeeen"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2022-06-07T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1654615525/media/2022/06/sqCOC_Queen_DSC_4323_s9bz5v.jpg
+primary_image_credit: 'Teiya Kasahara 笠原貞野 in the Canadian Opera Company’s production
+  of The QueenIn Me, 2022. Conductor Daniel Bartholomew-Poyser, co-directors Andrea
+  Donaldson and Aria Umezawa, set and costume designer Joanna Yu, lighting designer
+  André du Toit, projection designer Laura Warren. Photo: Gaetz Photography.'
+related_articles:
+- articles/orlando-gender-bending-and-the-sound-of-androgyny-in-vienna.md
+- articles/taking-a-bow-curtain-calls-for-your-voice-type.md
+related_companies:
+- scene/companies/amplified-opera.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/aria-umezawa.md
+- scene/people/teiya-kasahara.md
+short_description: 'The Queen in Me at the Canadian Opera Company is the culmination
+  of years of work by Kasahara and their creative team to create this monolith of
+  a one-person show. A true one-person show -- not a recital, not a cabaret or salon,
+  but a dramatically driven show that would need to be seen to be believed. '
+slug: the-queen-in-me-yas-kween
+title: 'The Queen in Me: yaassss kweeeeeeen'
+youtube_url: ""
+---
 Hello, Schmop-tops!
 
 I have to say: this weekend I witnessed an event.

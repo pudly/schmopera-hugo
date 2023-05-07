@@ -1,19 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-11-28T22:36:00+00:00"
-lastmod = "2016-03-12T16:08:00+00:00"
-preamble = "The 2015 Canadian Opera Company's [Glencore Ensemble Studio School Tour](http://www.coc.ca/ExploreAndLearn/Schools/SchoolTour.aspx) is underway, bringing opera for young people into schools. This year, one of the two touring productions is [*Operation Superpower*](http://www.operationsuperpower.com/), originally created by four Juilliard grads, composer Armand Ranjbaran, pianist Peter Dugan, and baritones [John Brancy](/scene/people/john-brancy/) and and [Tobias Greenhalgh](/scene/people/tobias-greenhalgh/). It's an interactive show for 6- to 12-year olds, where young audiences can find their own hidden superpowers; so far, they've performed for ~50,000 superheroes-in-training.\n\nBrancy and Greenhalgh talk about creating *Operation Superpower*, and why it \"has the ability to positively impact the world of classical music & opera at large.\"\n\nPhoto: [Aaron Sheppard](/scene/people/aaron-sheppard/), [Jean-Philippe Fortier-Lazure](/scene/people/jean-philippe-fortier-lazure/), and [Erica Iris](https://twitter.com/mezzoericairis) in the 2015 Glencore Ensemble Studio School Tour production of *Operation Superpower*."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448750946339/2015-11-14-COC-Superpower-172---square.jpg.jpg"
-primary_image_credit = "The cast of Operation Superpower, Glencore Ensemble Studio School Tour, 2015. Photo: Chris Hutcheson."
-publishDate = "2015-11-30T14:21:00+00:00"
-related_articles = ["articles/shhdont-tell-them-its-opera.md","articles/worthy-campaigns-a-silent-night.md"]
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/the-juilliard-school.md"]
-related_people = ["scene/people/john-brancy.md","scene/people/tobias-greenhalgh.md","scene/people/peter-dugan.md"]
-short_description = "Operation Superpower was originally created by four Juilliard grads: composer Armand Ranjbaran, pianist Peter Dugan, and baritones John Brancy and and Tobias Greenhalgh. It&#039;s an interactive show for 6- to 12-year olds, where young audiences can find their own hidden superpowers; so far, they&#039;ve performed for ~50,000 superheroes-in-training."
-slug = "opera-with-a-message-operation-superpower"
-title = "Opera with a message: Operation Superpower"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-11-28T22:36:00+00:00"
+lastmod: "2016-03-12T16:08:00+00:00"
+preamble: |-
+  The 2015 Canadian Opera Company's [Glencore Ensemble Studio School Tour](http://www.coc.ca/ExploreAndLearn/Schools/SchoolTour.aspx) is underway, bringing opera for young people into schools. This year, one of the two touring productions is [*Operation Superpower*](http://www.operationsuperpower.com/), originally created by four Juilliard grads, composer Armand Ranjbaran, pianist Peter Dugan, and baritones [John Brancy](/scene/people/john-brancy/) and and [Tobias Greenhalgh](/scene/people/tobias-greenhalgh/). It's an interactive show for 6- to 12-year olds, where young audiences can find their own hidden superpowers; so far, they've performed for ~50,000 superheroes-in-training.
+
+  Brancy and Greenhalgh talk about creating *Operation Superpower*, and why it "has the ability to positively impact the world of classical music & opera at large."
+
+  Photo: [Aaron Sheppard](/scene/people/aaron-sheppard/), [Jean-Philippe Fortier-Lazure](/scene/people/jean-philippe-fortier-lazure/), and [Erica Iris](https://twitter.com/mezzoericairis) in the 2015 Glencore Ensemble Studio School Tour production of *Operation Superpower*.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448750946339/2015-11-14-COC-Superpower-172---square.jpg.jpg
+primary_image_credit: 'The cast of Operation Superpower, Glencore Ensemble Studio
+  School Tour, 2015. Photo: Chris Hutcheson.'
+publishDate: "2015-11-30T14:21:00+00:00"
+related_articles:
+- articles/shhdont-tell-them-its-opera.md
+- articles/worthy-campaigns-a-silent-night.md
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-juilliard-school.md
+related_people:
+- scene/people/john-brancy.md
+- scene/people/tobias-greenhalgh.md
+- scene/people/peter-dugan.md
+short_description: 'Operation Superpower was originally created by four Juilliard
+  grads: composer Armand Ranjbaran, pianist Peter Dugan, and baritones John Brancy
+  and and Tobias Greenhalgh. It&#039;s an interactive show for 6- to 12-year olds,
+  where young audiences can find their own hidden superpowers; so far, they&#039;ve
+  performed for ~50,000 superheroes-in-training.'
+slug: opera-with-a-message-operation-superpower
+title: 'Opera with a message: Operation Superpower'
+---
 
 ## 1. How did the idea for *Operation Superpower* come about?
 

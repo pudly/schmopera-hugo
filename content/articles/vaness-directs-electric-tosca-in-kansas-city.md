@@ -1,22 +1,31 @@
-+++
-author = ["authors/jane-richardson.md"]
-categories = "Review"
-date = 2022-05-16T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1652660194/media/2022/05/sqKCO_Tosca1_2577_ocshei.jpg"
-primary_image_credit = "Marina Costa-Jackson in the title role of Tosca, Lyric Opera of Kansas City, 2022. Photo courtesy of Lyric Opera of Kansas City."
-related_articles = ["articles/talking-with-singers-keri-alkema.md", "articles/tosca-the-nyco-renaissance.md", "articles/tosca.md"]
-related_companies = ["scene/companies/lyric-opera-of-kansas-city.md"]
-related_people = ["scene/people/michael-mayes.md", "scene/people/dimitri-pittas.md"]
-short_description = "I could see Ms. Vaness' artistry in every move of the performers. While there was no groundbreaking staging, I felt a special electricity from the cast, like there was a connection to the greats, which of course Ms. Vaness provides. "
-slug = "vaness-directs-electric-tosca-in-kansas-city"
-title = "Vaness directs electric Tosca in Kansas City"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jane-richardson.md
+categories: Review
+date: "2022-05-16T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1652660194/media/2022/05/sqKCO_Tosca1_2577_ocshei.jpg
+primary_image_credit: Marina Costa-Jackson in the title role of Tosca, Lyric Opera
+  of Kansas City, 2022. Photo courtesy of Lyric Opera of Kansas City.
+related_articles:
+- articles/talking-with-singers-keri-alkema.md
+- articles/tosca-the-nyco-renaissance.md
+- articles/tosca.md
+related_companies:
+- scene/companies/lyric-opera-of-kansas-city.md
+related_people:
+- scene/people/michael-mayes.md
+- scene/people/dimitri-pittas.md
+short_description: 'I could see Ms. Vaness'' artistry in every move of the performers.
+  While there was no groundbreaking staging, I felt a special electricity from the
+  cast, like there was a connection to the greats, which of course Ms. Vaness provides. '
+slug: vaness-directs-electric-tosca-in-kansas-city
+title: Vaness directs electric Tosca in Kansas City
+youtube_url: ""
+---
 Tosca was opened last week at The Kauffman Center for the Performing arts in Kansas City, Missouri. It was the end of an abridged season that marked the return to live performances for the [Lyric Opera](/scene/companies/lyric-opera-of-kansas-city/) - nd so, _Tosca_ seemed like an appropriate choice.
 
 It's no secret that opera companies will be relying on the "ABC's" of opera in the next few years to increase revenue and patron support — and to be honest, that's fine with me. As we get back to "normal", I think going back to the classics is a good palate cleanse: Let’s all remember why we love the art form. I felt a visceral sense of comfort from Puccini's themes in _Tosca_. The audience on Friday night was extraordinarily responsive — laughing at all the right moments and feeling the tension from the stage.

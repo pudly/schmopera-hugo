@@ -1,17 +1,36 @@
-+++
-author = ["authors/erik-flaten.md"]
-categories = "Review"
-date = "2017-09-16T17:16:00-04:00"
-lastmod = "2017-09-16T18:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505596074467/2017-09-16---square---flute-16.jpg.jpg"
-publishDate = "2017-09-16T17:22:00-04:00"
-related_articles = ["articles/jawdropping-the-nose-at-roh.md","articles/die-zauberflote-at-roh.md","articles/conversations-we-shall-not-be-moved.md","articles/belle-bete-la-opera-beauty.md"]
-related_companies = ["scene/companies/opera-philadelphia.md"]
-related_people = ["scene/people/ben-bliss.md","scene/people/jarrett-ott.md","scene/people/olga-pudova.md","scene/people/ashley-milanese.md","scene/people/siena-miller.md","scene/people/anastasiia-sidorova.md","scene/people/rachel-sterrenberg.md","scene/people/brenton-ryan.md"]
-short_description = "While a new and forward-thinking production such as this Flute is of tremendous value, we must be wary of the cost on the performers themselves. There is a danger in productions where singers are made to fit into a sort of machine (see The Metropolitan Opera) and do not have total freedom to access their full range of expressive tools. These are the tools which would otherwise allow them to connect with the audience and portray their respective characters without limitation."
-slug = "a-refreshing-gateway-drug-the-magic-flute-at-o17"
-title = "A refreshing gateway drug: The Magic Flute at O17"
-+++
+---
+author:
+- authors/erik-flaten.md
+categories: Review
+date: "2017-09-16T17:16:00-04:00"
+lastmod: "2017-09-16T18:08:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505596074467/2017-09-16---square---flute-16.jpg.jpg
+publishDate: "2017-09-16T17:22:00-04:00"
+related_articles:
+- articles/jawdropping-the-nose-at-roh.md
+- articles/die-zauberflote-at-roh.md
+- articles/conversations-we-shall-not-be-moved.md
+- articles/belle-bete-la-opera-beauty.md
+related_companies:
+- scene/companies/opera-philadelphia.md
+related_people:
+- scene/people/ben-bliss.md
+- scene/people/jarrett-ott.md
+- scene/people/olga-pudova.md
+- scene/people/ashley-milanese.md
+- scene/people/siena-miller.md
+- scene/people/anastasiia-sidorova.md
+- scene/people/rachel-sterrenberg.md
+- scene/people/brenton-ryan.md
+short_description: While a new and forward-thinking production such as this Flute
+  is of tremendous value, we must be wary of the cost on the performers themselves.
+  There is a danger in productions where singers are made to fit into a sort of machine
+  (see The Metropolitan Opera) and do not have total freedom to access their full
+  range of expressive tools. These are the tools which would otherwise allow them
+  to connect with the audience and portray their respective characters without limitation.
+slug: a-refreshing-gateway-drug-the-magic-flute-at-o17
+title: 'A refreshing gateway drug: The Magic Flute at O17'
+---
 
 In total contrast to the [previous night's world premiere](/a-stunning-premiere-elizabeth-cree/), Opera Philadelphia's production of [*The Magic Flute*](https://www.operaphila.org/whats-on/on-stage-2017-2018/the-magic-flute/) is a genius selection that satisfies both the conservative opera patron and the progressive audience member. While the concept is certainly modern, it still has a Mozartian elegance, charm, and cleverness. Suzanne Andrade, Barrie Kosky, and Paul Barritt have put together a very smart production, which even the most traditional of viewers is sure to enjoy. It becomes instantly clear that this production of a classic manages to look and feel fresh, while also satisfying our craving for the well-loved masterpiece. 
 

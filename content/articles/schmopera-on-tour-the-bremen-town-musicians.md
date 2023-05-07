@@ -1,20 +1,52 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-04-12T19:21:00-04:00"
-lastmod = "2015-04-13T22:02:00-04:00"
-preamble = "I spent the month of November on tour with the COC's Glencore Ensemble Studio School Tour production of Dean Burry's The Bremen Town Musicians. We went as far as Manitoulin Island and performed almost 30 shows. The group included Iain MacNeil (the Donkey), Charlotte Burrage (the Dog), Aviva Fortunata (the Cat), Andrew Haji (the Rooster), Gordon Bintner (the Miller, the Wolf, the Poet, the Witch, and the Robber), Mike Barrs (Stage Manager) and myself (Music Director). While we were way up north, I had the cast sit down for an interview. They even let me put my camera backstage during a show. Below you'll find the backstage footage, plus a look at an average day on the road with the COC Ensemble Studio."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428880971948/Bremen-Muffin_Fotor.jpg.jpg"
-publishDate = "2014-12-01T19:20:00-05:00"
-related_articles = ["articles/shhdont-tell-them-its-opera.md","articles/opera-with-a-message-operation-superpower.md","articles/delightfully-creepy-mahogany-opera-groups-the-rattler.md","articles/dean-burry-on-the-highwayman.md","articles/the-tfco-a-young-peoples-opera-blitz.md","articles/dont-miss-shoestring-operas-hansel-gretel.md","articles/talking-opera-mythology-with-the-tfco.md","articles/baby-opera-singers-getting-angry-for-the-right-reasons.md","articles/the-kids-are-alright-youthprogrammed-music-at-the-southbank-centre.md","articles/why-our-artistic-roots-matter.md","articles/cute-catchy-the-schoolyard-carmen.md","articles/opera-for-all-the-magic-victrola.md"]
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/gordon-bintner.md","scene/people/aviva-fortunata.md","scene/people/charlotte-burrage.md","scene/people/andrew-haji.md","scene/people/iain-macneil.md"]
-short_description = "I spent the month of November on tour with the COC’s Glencore Ensemble Studio School Tour production of Dean Burry’s The Bremen Town Musicians. We went as far as Manitoulin Island and performed almost 30 shows. While we were way up north, I had the cast sit down for an interview. They even let me put my camera backstage during a show. Below you’ll find the backstage footage, plus a look at an average day on the road with the COC Ensemble Studio."
-slug = "schmopera-on-tour-the-bremen-town-musicians"
-title = "Schmopera on tour: The Bremen Town Musicians"
-
-youtube_url ="https://youtu.be/4Hn5GxWTu1M"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-04-12T19:21:00-04:00"
+lastmod: "2015-04-13T22:02:00-04:00"
+preamble: I spent the month of November on tour with the COC's Glencore Ensemble Studio
+  School Tour production of Dean Burry's The Bremen Town Musicians. We went as far
+  as Manitoulin Island and performed almost 30 shows. The group included Iain MacNeil
+  (the Donkey), Charlotte Burrage (the Dog), Aviva Fortunata (the Cat), Andrew Haji
+  (the Rooster), Gordon Bintner (the Miller, the Wolf, the Poet, the Witch, and the
+  Robber), Mike Barrs (Stage Manager) and myself (Music Director). While we were way
+  up north, I had the cast sit down for an interview. They even let me put my camera
+  backstage during a show. Below you'll find the backstage footage, plus a look at
+  an average day on the road with the COC Ensemble Studio.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428880971948/Bremen-Muffin_Fotor.jpg.jpg
+publishDate: "2014-12-01T19:20:00-05:00"
+related_articles:
+- articles/shhdont-tell-them-its-opera.md
+- articles/opera-with-a-message-operation-superpower.md
+- articles/delightfully-creepy-mahogany-opera-groups-the-rattler.md
+- articles/dean-burry-on-the-highwayman.md
+- articles/the-tfco-a-young-peoples-opera-blitz.md
+- articles/dont-miss-shoestring-operas-hansel-gretel.md
+- articles/talking-opera-mythology-with-the-tfco.md
+- articles/baby-opera-singers-getting-angry-for-the-right-reasons.md
+- articles/the-kids-are-alright-youthprogrammed-music-at-the-southbank-centre.md
+- articles/why-our-artistic-roots-matter.md
+- articles/cute-catchy-the-schoolyard-carmen.md
+- articles/opera-for-all-the-magic-victrola.md
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/gordon-bintner.md
+- scene/people/aviva-fortunata.md
+- scene/people/charlotte-burrage.md
+- scene/people/andrew-haji.md
+- scene/people/iain-macneil.md
+short_description: I spent the month of November on tour with the COC’s Glencore Ensemble
+  Studio School Tour production of Dean Burry’s The Bremen Town Musicians. We went
+  as far as Manitoulin Island and performed almost 30 shows. While we were way up
+  north, I had the cast sit down for an interview. They even let me put my camera
+  backstage during a show. Below you’ll find the backstage footage, plus a look at
+  an average day on the road with the COC Ensemble Studio.
+slug: schmopera-on-tour-the-bremen-town-musicians
+title: 'Schmopera on tour: The Bremen Town Musicians'
+youtube_url: https://youtu.be/4Hn5GxWTu1M
+---
 
 ## Anywhere between 7:30 and 8:30am
 

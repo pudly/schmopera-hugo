@@ -1,22 +1,38 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Review"
-date = 2020-11-17T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "You can find more information about _Rimsky Rebooted_ on the Chicago Opera Theater [website](https://chicagooperatheater.org/season/rebooted). $20 tickets are available through [Valhalla Media](https://www.valhallamedia.live/videos/kashchej-the-immortal). The show premieres Nov. 21st at 7:30 pm CST and will remain accessible for 72 hours."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1605639305/media/2020/11/sqLidiyaYankovskaya-StephanieBassos_iri4cl.jpg"
-primary_image_credit = "Lidiya Yankovskaya, Music Director at Chicago Opera Theater. Photo: Stephanie Bassos."
-related_articles = ["articles/the-positive-impact-of-community-created-performances.md", "articles/theres-a-new-klingon-opera-in-the-works.md", "articles/actual-magic-in-chicago-lyrics-cendrillon.md"]
-related_companies = ["scene/companies/chicago-opera-theater.md"]
-related_people = ["scene/people/annie-rosen.md", "scene/people/lidiya-yankovskaya.md", "scene/people/will-liverman.md"]
-short_description = "In a recent Zoom conversation, Yankovskaya's pride and enthusiasm in the COT administrative and artistic staff was evident from the start. She praised their collective grit, acknowledging that their upcoming digital release, Rimsky Rebooted represents not just a \"Plan B\" pivot from live performance, but is rather a \"5th or maybe 7th reimagining\" of what they hoped to originally present to Chicago audiences."
-slug = "cots-rimsky-rebooted-features-local-artists-collective-grit"
-title = "COT's Rimsky Rebooted features local artists & \"collective grit\""
-youtube_url = ""
-
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Review
+date: "2020-11-17T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: You can find more information about _Rimsky Rebooted_ on the Chicago Opera
+  Theater [website](https://chicagooperatheater.org/season/rebooted). $20 tickets
+  are available through [Valhalla Media](https://www.valhallamedia.live/videos/kashchej-the-immortal).
+  The show premieres Nov. 21st at 7:30 pm CST and will remain accessible for 72 hours.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1605639305/media/2020/11/sqLidiyaYankovskaya-StephanieBassos_iri4cl.jpg
+primary_image_credit: 'Lidiya Yankovskaya, Music Director at Chicago Opera Theater.
+  Photo: Stephanie Bassos.'
+related_articles:
+- articles/the-positive-impact-of-community-created-performances.md
+- articles/theres-a-new-klingon-opera-in-the-works.md
+- articles/actual-magic-in-chicago-lyrics-cendrillon.md
+related_companies:
+- scene/companies/chicago-opera-theater.md
+related_people:
+- scene/people/annie-rosen.md
+- scene/people/lidiya-yankovskaya.md
+- scene/people/will-liverman.md
+short_description: In a recent Zoom conversation, Yankovskaya's pride and enthusiasm
+  in the COT administrative and artistic staff was evident from the start. She praised
+  their collective grit, acknowledging that their upcoming digital release, Rimsky
+  Rebooted represents not just a "Plan B" pivot from live performance, but is rather
+  a "5th or maybe 7th reimagining" of what they hoped to originally present to Chicago
+  audiences.
+slug: cots-rimsky-rebooted-features-local-artists-collective-grit
+title: COT's Rimsky Rebooted features local artists & "collective grit"
+youtube_url: ""
+---
 At this point, it almost goes without saying: for arts organizations around the world, the ever-shifting realities (and regulations) of the COVID-19 pandemic have made business as usual an impossibility. For the majority of US opera companies, live performance will not happen at all this season and no two companies are adapting to that grim truth in quite the same way. In this tough time, the tenacity of companies like [Chicago Opera Theater](/scene/companies/chicago-opera-theater/), who are pivoting to digital content, cannot be understated. The work COT is doing requires resourcefulness, organizational prowess, an abiding mutual trust from supporters and donors, and a kind of exuberant industriousness exemplified in their Orli and Bill Staley Music Director, [Lidiya Yankovskaya](/scene/people/lidiya-yankovskaya/).
 
 > Yankovskaya is a passionate advocate for Russian operatic masterworks that have historically been under-appreciated in the West.

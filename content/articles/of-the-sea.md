@@ -1,22 +1,31 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = 2023-03-28T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "[Tapestry Opera's production of _Of The Sea_](https://tapestryopera.com/performances/of-the-sea/) runs through April 1, 2023."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1680019978/media/2023/03/sqTapoftheSea-photobyDahliaKatz-3290_eeijib.jpg"
-primary_image_credit = "Jorell Williams in Of The Sea, Tapestry Opera, 2023. Photo: Dahlia Katz."
-related_articles = []
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/paul-williamson.md", "scene/people/justin-welsh.md", "scene/people/chantale-nurse.md", "scene/people/jorell-williams.md"]
-short_description = "There are some shows that never leave you whether performing in them or experiencing them. Of The Sea is one of those. Not just musically and visually. This piece made an impact."
-slug = "of-the-sea-a-beautiful-overdue-story-that-lingers"
-title = "Of The Sea: a beautiful, overdue story that lingers"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2023-03-28T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: '[Tapestry Opera''s production of _Of The Sea_](https://tapestryopera.com/performances/of-the-sea/)
+  runs through April 1, 2023.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1680019978/media/2023/03/sqTapoftheSea-photobyDahliaKatz-3290_eeijib.jpg
+primary_image_credit: 'Jorell Williams in Of The Sea, Tapestry Opera, 2023. Photo:
+  Dahlia Katz.'
+related_articles: []
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/paul-williamson.md
+- scene/people/justin-welsh.md
+- scene/people/chantale-nurse.md
+- scene/people/jorell-williams.md
+short_description: There are some shows that never leave you whether performing in
+  them or experiencing them. Of The Sea is one of those. Not just musically and visually.
+  This piece made an impact.
+slug: of-the-sea-a-beautiful-overdue-story-that-lingers
+title: 'Of The Sea: a beautiful, overdue story that lingers'
+youtube_url: ""
+---
 Hello Schmop-Tops,
 
 I was honoured and thrilled to be in attendance as history was made in Toronto. I have a few mixed feelings writing that sentence. On the one hand, it's amazing that this is taking place and that it is receiving all the attention, pomp, and circumstance it deserves. On the other hand, it's 2023; we as a society should not have made them wait this long.

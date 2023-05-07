@@ -1,22 +1,21 @@
-+++
-date = "2016-08-23T11:59:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-08-23T12:01:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471949982799/2016-08-24---Sara-Duchovnay.jpg.jpg"
-primary_image_credit = "Valentina Sadiul"
-publishDate = "2016-08-23T12:01:00+01:00"
-slug = "sara-duchovnay"
-title = "Sara Duchovnay"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SaraDuchovnay"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/saraduchovnay/"
-_template = "people_single"
-+++
+---
+date: "2016-08-23T11:59:00+01:00"
+discipline: Soprano
+lastmod: "2016-08-23T12:01:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471949982799/2016-08-24---Sara-Duchovnay.jpg.jpg
+primary_image_credit: Valentina Sadiul
+publishDate: "2016-08-23T12:01:00+01:00"
+slug: sara-duchovnay
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/SaraDuchovnay
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/saraduchovnay/
+title: Sara Duchovnay
+---
 
 Praised by *Opera News* for "the agility with which she negotiated her beautiful upper register", soprano Sara Duchovnay continues to garner critical acclaim for her performances across the country.
 

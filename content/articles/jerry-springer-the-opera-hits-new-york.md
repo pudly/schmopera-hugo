@@ -1,15 +1,22 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-03-13T16:30:00-04:00"
-lastmod = "2018-03-14T19:41:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520972787862/sq---96-Hackmann-back_Tiffany-Mann-Center.jpg.jpg"
-primary_image_credit = "Tiffany Mann in “Jerry Springer – The Opera,” a production from The New Group, in a limited Off-Broadway engagement at The Pershing Square Signature Center Jan 23 – Apr 1, 2018. Photo: Monique Carboni / www.thenewgroup.org."
-publishDate = "2018-03-13T21:12:00-04:00"
-short_description = "But why be churlish when songs like &quot;Diaper Man,&quot; &quot;Him Am The Devil&quot; and the production number, &quot;This is My KKK Moment,&quot; tune up this gleefully lewd production? In fact, you would be advised to just sit back and be a complicit member of the audience that comes pre-stocked with an immensely talented group of misfits longing for their 15 seconds of fame."
-slug = "jerry-springer-the-opera-hits-new-york"
-title = "Jerry Springer - The Opera hits New York"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-03-13T16:30:00-04:00"
+lastmod: "2018-03-14T19:41:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520972787862/sq---96-Hackmann-back_Tiffany-Mann-Center.jpg.jpg
+primary_image_credit: 'Tiffany Mann in “Jerry Springer – The Opera,” a production
+  from The New Group, in a limited Off-Broadway engagement at The Pershing Square
+  Signature Center Jan 23 – Apr 1, 2018. Photo: Monique Carboni / www.thenewgroup.org.'
+publishDate: "2018-03-13T21:12:00-04:00"
+short_description: But why be churlish when songs like &quot;Diaper Man,&quot; &quot;Him
+  Am The Devil&quot; and the production number, &quot;This is My KKK Moment,&quot;
+  tune up this gleefully lewd production? In fact, you would be advised to just sit
+  back and be a complicit member of the audience that comes pre-stocked with an immensely
+  talented group of misfits longing for their 15 seconds of fame.
+slug: jerry-springer-the-opera-hits-new-york
+title: Jerry Springer - The Opera hits New York
+---
 
 The dictionary, so often cited as a reference by high school debaters, defines opera as a dramatic story set to music. By that standard, [*Jerry Springer - The Opera*](https://www.thenewgroup.org/jerryspringertheopera.html), presented by The New Group and now playing off Broadway at the Romulus Linney Courtyard Theatre, most definitely qualifies. But so too, then, does the all singing episode of *Buffy The Vampire Slayer*, just to put things in perspective. 
 

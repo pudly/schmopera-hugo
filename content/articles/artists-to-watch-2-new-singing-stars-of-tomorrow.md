@@ -1,15 +1,25 @@
-+++
-author = ["authors/greg.md"]
-categories = "News"
-date = "2016-10-27T10:20:00+01:00"
-lastmod = "2016-10-27T13:32:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477560553045/2016-10-27---New-York.jpg.jpg"
-publishDate = "2016-10-27T13:31:00+01:00"
-related_people = ["scene/people/beth-hagerman.md","scene/people/marjorie-maltais.md","scene/people/danielle-macmillan.md","scene/people/asitha-tennekoon.md","scene/people/sara-schabas.md","scene/people/caitlin-wood.md"]
-short_description = "At the end of the evening, we learned that after their intensive work with Radvanovsky, &quot;La Wowza&quot; couldn&#039;t decide which singer should be awarded the Career Blueprint - so they decided to send TWO singers. The winners of the evening were Marjorie Maltais and Natalya Gennadi. "
-slug = "artists-to-watch-2-new-singing-stars-of-tomorrow"
-title = "Artists to watch: 2 new singing stars of tomorrow"
-+++
+---
+author:
+- authors/greg.md
+categories: News
+date: "2016-10-27T10:20:00+01:00"
+lastmod: "2016-10-27T13:32:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477560553045/2016-10-27---New-York.jpg.jpg
+publishDate: "2016-10-27T13:31:00+01:00"
+related_people:
+- scene/people/beth-hagerman.md
+- scene/people/marjorie-maltais.md
+- scene/people/danielle-macmillan.md
+- scene/people/asitha-tennekoon.md
+- scene/people/sara-schabas.md
+- scene/people/caitlin-wood.md
+short_description: 'At the end of the evening, we learned that after their intensive
+  work with Radvanovsky, &quot;La Wowza&quot; couldn&#039;t decide which singer should
+  be awarded the Career Blueprint - so they decided to send TWO singers. The winners
+  of the evening were Marjorie Maltais and Natalya Gennadi. '
+slug: artists-to-watch-2-new-singing-stars-of-tomorrow
+title: 'Artists to watch: 2 new singing stars of tomorrow'
+---
 
 Hello Schmop-Tops!
 

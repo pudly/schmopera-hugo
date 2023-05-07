@@ -1,22 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-10-23T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "MassOpera's presentation of [_Freedom Ride_](http://massopera.org/freedom-ride/) happens on November 3, 3pm, at The Strand Theatre in Dorchester, MA."
-preamble = "On its way to a 2020 world premiere at Chicago Opera Theatre, [Dan Shore's _Freedom Ride_](http://massopera.org/freedom-ride/) will be part of MassOpera's latest New Opera Workshop on **November 3**.\n\nNamed for the [1961 Freedom Riders](https://en.wikipedia.org/wiki/Freedom_Riders) of the segregated American south, the opera centres on one young student who is pulled into the Civil Rights Movement. We spoke with Shore, stage director Tazewell Thompson, and conductor/COT Music Director [Lidiya Yankovskaya](/talking-with-conductors-lidiya-yankovskaya/), about this MassOpera performance and the larger creation process of new operas like _Freedom Ride_."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571884605/media/2019/10/sqFreedomRide-resized_iym55h.jpg"
-primary_image_credit = "The cast of Freedom Ride at MassOpera, 2019. Photo: Nile Scott Hawver."
-related_articles = ["articles/talking-with-composers-alexina-louie.md", "articles/talking-with-conductors-lidiya-yankovskaya.md"]
-related_companies = []
-related_people = []
-short_description = "\"I hope that the audience members will see themselves in the characters on stage, that they will be moved and inspired by the stories those characters tell, and will come away reflecting on how those stories relate to our world today.\""
-slug = "operatic-journeys-massopera-presents-freedom-ride"
-title = "Operatic journeys: MassOpera presents Freedom Ride"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-10-23T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: MassOpera's presentation of [_Freedom Ride_](http://massopera.org/freedom-ride/)
+  happens on November 3, 3pm, at The Strand Theatre in Dorchester, MA.
+preamble: |-
+  On its way to a 2020 world premiere at Chicago Opera Theatre, [Dan Shore's _Freedom Ride_](http://massopera.org/freedom-ride/) will be part of MassOpera's latest New Opera Workshop on **November 3**.
 
-+++
+  Named for the [1961 Freedom Riders](https://en.wikipedia.org/wiki/Freedom_Riders) of the segregated American south, the opera centres on one young student who is pulled into the Civil Rights Movement. We spoke with Shore, stage director Tazewell Thompson, and conductor/COT Music Director [Lidiya Yankovskaya](/talking-with-conductors-lidiya-yankovskaya/), about this MassOpera performance and the larger creation process of new operas like _Freedom Ride_.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571884605/media/2019/10/sqFreedomRide-resized_iym55h.jpg
+primary_image_credit: 'The cast of Freedom Ride at MassOpera, 2019. Photo: Nile Scott
+  Hawver.'
+related_articles:
+- articles/talking-with-composers-alexina-louie.md
+- articles/talking-with-conductors-lidiya-yankovskaya.md
+related_companies: []
+related_people: []
+short_description: '"I hope that the audience members will see themselves in the characters
+  on stage, that they will be moved and inspired by the stories those characters tell,
+  and will come away reflecting on how those stories relate to our world today."'
+slug: operatic-journeys-massopera-presents-freedom-ride
+title: 'Operatic journeys: MassOpera presents Freedom Ride'
+youtube_url: ""
+---
 ## What do you think is unique about the structure and aesthetic of _Freedom Ride_?
 
 **Dan Shore**: The storytelling and dramaturgy are actually very traditional, and the musical language tries to reflect the sounds that you would have heard in New Orleans in 1961, with lots of spirituals and gospel and protest songs. And if feels more like a musical from the 1960s than an opera from last week, that's fine with me.

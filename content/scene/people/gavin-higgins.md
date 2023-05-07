@@ -1,27 +1,25 @@
-+++
-date = "2019-02-11T14:28:03+00:00"
-discipline = "Composer"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549895207/media/2019/02/GavinHiggins.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/royal-opera-house.md"]
-slug = "gavin-higgins"
-title = "Gavin Higgins"
-website = "http://www.gavinhiggins.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/gavinhigginscomposer/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/gavhiggins"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/gavin-higgins-music"
-
-_template = "people_single"
-+++
+---
+date: "2019-02-11T14:28:03+00:00"
+discipline: Composer
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549895207/media/2019/02/GavinHiggins.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/royal-opera-house.md
+slug: gavin-higgins
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/gavinhigginscomposer/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/gavhiggins
+- _template: people_single
+  platform: Soundcloud
+  template: social-media
+  url: https://soundcloud.com/gavin-higgins-music
+title: Gavin Higgins
+website: http://www.gavinhiggins.com/
+---
 Described as ‘boldly imaginative’ and ‘extraordinary’, Gavin Higgins has been consistently praised by critics for his distinct and visceral compositional style.
 
 The early stages of his career saw Higgins receive substantial commissions, working with some of the country’s leading orchestras, including the BBC Symphony Orchestra, the London Philharmonic Orchestra, Manchester Camerata, Northern Sinfonia and the National Youth Wind Orchestra of Great Britain. He has worked with soloists and ensembles such as Mark Simpson, the Flotilla Saxophone Quartet, the Tredegar Town Band, Rambert Orchestra, London Sinfonietta and the Fidelio Trio.

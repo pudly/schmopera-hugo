@@ -1,18 +1,40 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2015-10-14T07:51:00-06:00"
-lastmod = "2017-06-20T22:50:00-06:00"
-postamble = "Want to request an aria? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)!"
-preamble = "For the next in our series of [Aria Guides](/aria-guides-the-counts-aria/), we're nodding to all the mezzos (and a few sopranos) with \"Una voce poco fa,\" from *Il barbiere di Siviglia*. This is a cornerstone aria for many young mezzos, and one of the few chances they have to show off coloratura *and* play a girl. It's also an aria full of options. Ornamentation, cadenzas, high or low keys; there's no \"right way\" to sing rep like this. I can offer up a few tips based on common traps and hurdles I've noticed as a coach. \n\nFollow along on page 82 of [this score](http://javanese.imslp.info/files/imglnks/usimg/1/1a/IMSLP41530-PMLP07237-Rossini-BarbiereVSlucca.pdf), or use the excerpts below. For suggestions, or to request an aria, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553353173/media/2019/03/sqVoce.jpg"
-publishDate = "2015-10-19T06:47:00-06:00"
-related_articles = ["articles/aria-guides-una-furtiva-lagrima.md", "articles/aria-guides-quando-men-vo.md", "articles/song-guides-die-nacht.md", "articles/aria-guides-je-veux-vivre.md", "articles/aria-guides-o-sleep-why-dost-thou-leave-me.md", "articles/aria-guide-dies-bildnis-ist-bezaubernd-schon.md", "articles/aria-guides-va-laisse-couler-mes-larmes.md", "articles/aria-guides-insert-christmas-carol-here.md"]
-short_description = "For the next in our series of Aria Guides, we're nodding to all the mezzos (and a few sopranos) with \"Una voce poco fa\" from Il barbiere di Siviglia. This is a cornerstone aria for many young mezzos, and one of the few chances they have to show off coloratura and play a girl. It's also an aria full of options. Ornamentation, cadenzas, high or low keys; there's no \"right way\" to sing rep like this."
-slug = "aria-guides-una-voce-poco-fa"
-title = "Aria guides: Una voce poco fa"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2015-10-14T07:51:00-06:00"
+lastmod: "2017-06-20T22:50:00-06:00"
+postamble: Want to request an aria? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)!
+preamble: "For the next in our series of [Aria Guides](/aria-guides-the-counts-aria/),
+  we're nodding to all the mezzos (and a few sopranos) with \"Una voce poco fa,\"
+  from *Il barbiere di Siviglia*. This is a cornerstone aria for many young mezzos,
+  and one of the few chances they have to show off coloratura *and* play a girl. It's
+  also an aria full of options. Ornamentation, cadenzas, high or low keys; there's
+  no \"right way\" to sing rep like this. I can offer up a few tips based on common
+  traps and hurdles I've noticed as a coach. \n\nFollow along on page 82 of [this
+  score](http://javanese.imslp.info/files/imglnks/usimg/1/1a/IMSLP41530-PMLP07237-Rossini-BarbiereVSlucca.pdf),
+  or use the excerpts below. For suggestions, or to request an aria, get in touch
+  at [hello@schmopera.com](mailto:hello@schmopera.com).\n\n"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553353173/media/2019/03/sqVoce.jpg
+publishDate: "2015-10-19T06:47:00-06:00"
+related_articles:
+- articles/aria-guides-una-furtiva-lagrima.md
+- articles/aria-guides-quando-men-vo.md
+- articles/song-guides-die-nacht.md
+- articles/aria-guides-je-veux-vivre.md
+- articles/aria-guides-o-sleep-why-dost-thou-leave-me.md
+- articles/aria-guide-dies-bildnis-ist-bezaubernd-schon.md
+- articles/aria-guides-va-laisse-couler-mes-larmes.md
+- articles/aria-guides-insert-christmas-carol-here.md
+short_description: For the next in our series of Aria Guides, we're nodding to all
+  the mezzos (and a few sopranos) with "Una voce poco fa" from Il barbiere di Siviglia.
+  This is a cornerstone aria for many young mezzos, and one of the few chances they
+  have to show off coloratura and play a girl. It's also an aria full of options.
+  Ornamentation, cadenzas, high or low keys; there's no "right way" to sing rep like
+  this.
+slug: aria-guides-una-voce-poco-fa
+title: 'Aria guides: Una voce poco fa'
+---
 ### The slow part
 
 <figure data-type="image">

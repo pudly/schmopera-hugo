@@ -1,19 +1,20 @@
-+++
-date = "2015-10-29T10:27:00-04:00"
-discipline = "Violist, director, Pocket Concerts"
-lastmod = "2015-10-29T10:29:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446128683937/15-10-29---RoryMcLeodSquare.jpg.jpg"
-primary_image_credit = "Photo by Bo Huang."
-publishDate = "2015-10-29T10:27:00-04:00"
-related_companies = ["scene/companies/pocket-concerts.md"]
-slug = "rory-mcleod"
-title = "Rory McLeod"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Rory_McLeod"
-_template = "people_single"
-+++
+---
+date: "2015-10-29T10:27:00-04:00"
+discipline: Violist, director, Pocket Concerts
+lastmod: "2015-10-29T10:29:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446128683937/15-10-29---RoryMcLeodSquare.jpg.jpg
+primary_image_credit: Photo by Bo Huang.
+publishDate: "2015-10-29T10:27:00-04:00"
+related_companies:
+- scene/companies/pocket-concerts.md
+slug: rory-mcleod
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Rory_McLeod
+title: Rory McLeod
+---
 
 Toronto-based violist Rory McLeod enjoys an exciting and varied career as a chamber musician, orchestral player, artistic director, and teacher. He believes strongly in the connective power of music, and makes it his mission to use music to create real personal connections among people.
  

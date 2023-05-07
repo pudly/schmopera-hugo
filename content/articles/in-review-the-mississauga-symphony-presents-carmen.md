@@ -1,16 +1,27 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2017-05-01T16:32:00-04:00"
-lastmod = "2017-05-02T13:59:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493744416965/2017-05-02---Carmen.jpg.jpg"
-publishDate = "2017-05-02T13:44:00-04:00"
-related_articles = ["articles/back-to-school-opera-a-practical-glossary.md","articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md","articles/in-review-stiffelio.md"]
-related_people = ["scene/people/beste-kalender.md","scene/people/andrew-tees.md","scene/people/romulo-delgado.md"]
-short_description = "This was a sold out house at the Living Arts Centre in Mississauga, and you could tell by the millings about that most of these people rarely, if ever, go to the opera. To be clear, this is really exciting. It shows the strength of the medium and that it, by no means, is a dying art. The overture started and the audience was still milling about excitedly, chatting and laughing and drinking."
-slug = "in-review-the-mississauga-symphony-presents-carmen"
-title = "In review: the Mississauga Symphony presents Carmen"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2017-05-01T16:32:00-04:00"
+lastmod: "2017-05-02T13:59:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493744416965/2017-05-02---Carmen.jpg.jpg
+publishDate: "2017-05-02T13:44:00-04:00"
+related_articles:
+- articles/back-to-school-opera-a-practical-glossary.md
+- articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md
+- articles/in-review-stiffelio.md
+related_people:
+- scene/people/beste-kalender.md
+- scene/people/andrew-tees.md
+- scene/people/romulo-delgado.md
+short_description: This was a sold out house at the Living Arts Centre in Mississauga,
+  and you could tell by the millings about that most of these people rarely, if ever,
+  go to the opera. To be clear, this is really exciting. It shows the strength of
+  the medium and that it, by no means, is a dying art. The overture started and the
+  audience was still milling about excitedly, chatting and laughing and drinking.
+slug: in-review-the-mississauga-symphony-presents-carmen
+title: 'In review: the Mississauga Symphony presents Carmen'
+---
 
 On Saturday night, I did something new. I went to see an opera in Mississauga. 
 

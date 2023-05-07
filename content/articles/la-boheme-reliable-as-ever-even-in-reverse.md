@@ -1,22 +1,32 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2022-09-25T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1664056444/media/2022/09/sqBLO_Laboheme_OliviaMoon_2_aegigy.jpg"
-primary_image_credit = "Jesus Garcia (Rodolfo) and Lauren Michelle (Mimì) in Boston Lyric Opera's production of La bohème, 2022. Photo by Olivia Moon."
-related_articles = ["articles/blo-barber-brings-delightful-laughter-amid-overdesign.md", "articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md", "articles/bohemian-atg-boheme.md"]
-related_companies = ["scene/companies/boston-lyric-opera-1.md"]
-related_people = ["scene/people/william-guanbo-su.md", "scene/people/edward-parks.md", "scene/people/lauren-michelle.md"]
-short_description = "It is surprising how little effectiveness Puccini's score loses when performed in reverse order, and the score still lands each emotional beat even when the context feels radically different."
-slug = "la-boheme-reliable-as-ever-even-in-reverse"
-title = "La bohème reliable as ever, even in reverse"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2022-09-25T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1664056444/media/2022/09/sqBLO_Laboheme_OliviaMoon_2_aegigy.jpg
+primary_image_credit: Jesus Garcia (Rodolfo) and Lauren Michelle (Mimì) in Boston
+  Lyric Opera's production of La bohème, 2022. Photo by Olivia Moon.
+related_articles:
+- articles/blo-barber-brings-delightful-laughter-amid-overdesign.md
+- articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md
+- articles/bohemian-atg-boheme.md
+related_companies:
+- scene/companies/boston-lyric-opera-1.md
+related_people:
+- scene/people/william-guanbo-su.md
+- scene/people/edward-parks.md
+- scene/people/lauren-michelle.md
+short_description: It is surprising how little effectiveness Puccini's score loses
+  when performed in reverse order, and the score still lands each emotional beat even
+  when the context feels radically different.
+slug: la-boheme-reliable-as-ever-even-in-reverse
+title: La bohème reliable as ever, even in reverse
+youtube_url: ""
+---
 The first time I reviewed _La bohème_ with Boston Opera Collaborative's [luminous production ](/intimate-brewery-room-la-bohme-a-revelatory-triumph/)in Turtle Swamp Brewery, I brought up the question of how to perform classics in the operatic repertory in ways that breathes fresh life into the works, and how vital that is when it's a workhorse that has been performed almost to death at this point. I never thought when I wrote that review that I would be grappling with that question once again, albeit in a more radical form.
 
 And yet, here we are, reviewing Boston Lyric Opera's attempt to solve the same question. And their attempt is certainly novel and, to a certain degree, a little sacrilegious: they opted to transfer [Yuval Sharon's production](https://blo.org/boheme/) from this year's Spoleto Festival, which involves performing _La bohème_ in reverse. They opened the show with Act IV, then worked backwards through the entire rest of the opera until the end of Act I. Their rationale? It is meant to evoke the question of "why it happens", rather than "what happens".

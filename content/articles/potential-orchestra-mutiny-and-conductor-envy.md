@@ -1,16 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-07-09T13:25:00-06:00"
-lastmod = "2015-07-15T08:43:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436744137294/PlenaryHall.jpg.jpg"
-primary_image_credit = "The orchestra pit of Plenary Hall, Melbourne, Australia."
-publishDate = "2015-07-15T08:33:00-06:00"
-related_articles = ["articles/the-pianists-tech-week-plight.md","articles/star-repetiteur-there-is-such-a-thing.md","articles/putting-on-show-instrumentalists.md","articles/conductors-what-else-do-they-tell-us.md","articles/opera-orchestras-robots-or-out-of-the-loop.md","articles/watch-learn-maestros-at-work.md","articles/at-the-podium-jordan-de-souza.md","articles/spotlight-on-christopher-allen.md","articles/power-plays-and-crossing-lines-.md","articles/4-ways-to-give-notes-still-be-liked.md"]
-short_description = "As a pianist and répétiteur, I don&#039;t envy conductors, either. Plenty of pianists do, and often their work repping in rehearsals or coaching singers is a stepping stone for them into the eventual world of conducting. I&#039;ve never wanted to stand on the other side of the piano, largely because orchestras can be terrifying."
-slug = "potential-orchestra-mutiny-and-conductor-envy"
-title = "Potential orchestra mutiny and conductor envy"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-07-09T13:25:00-06:00"
+lastmod: "2015-07-15T08:43:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436744137294/PlenaryHall.jpg.jpg
+primary_image_credit: The orchestra pit of Plenary Hall, Melbourne, Australia.
+publishDate: "2015-07-15T08:33:00-06:00"
+related_articles:
+- articles/the-pianists-tech-week-plight.md
+- articles/star-repetiteur-there-is-such-a-thing.md
+- articles/putting-on-show-instrumentalists.md
+- articles/conductors-what-else-do-they-tell-us.md
+- articles/opera-orchestras-robots-or-out-of-the-loop.md
+- articles/watch-learn-maestros-at-work.md
+- articles/at-the-podium-jordan-de-souza.md
+- articles/spotlight-on-christopher-allen.md
+- articles/power-plays-and-crossing-lines-.md
+- articles/4-ways-to-give-notes-still-be-liked.md
+short_description: As a pianist and répétiteur, I don&#039;t envy conductors, either.
+  Plenty of pianists do, and often their work repping in rehearsals or coaching singers
+  is a stepping stone for them into the eventual world of conducting. I&#039;ve never
+  wanted to stand on the other side of the piano, largely because orchestras can be
+  terrifying.
+slug: potential-orchestra-mutiny-and-conductor-envy
+title: Potential orchestra mutiny and conductor envy
+---
 
 I've said it plenty of times before: I do not envy singers. The pressure, the standards, the vulnerability, they're not of the ilk I prefer.
 

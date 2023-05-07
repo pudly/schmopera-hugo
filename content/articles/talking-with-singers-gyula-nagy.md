@@ -1,16 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-11-03T16:18:00+00:00"
-lastmod = "2016-11-08T10:00:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478529486369/2016-11-07---Gyula-Nagy.jpg.jpg"
-publishDate = "2016-11-08T10:00:00+00:00"
-related_articles = ["articles/talking-with-singers-david-shipley.md","articles/talking-with-singers-kate-lindsey.md","articles/spotlight-on-owen-mccausland.md","articles/talking-with-singers-levente-molnr.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-short_description = "He takes seriously the artistic work he does as a singer, yet the come-what-may attitude that Nagy has about his pursuit of singing is one of his biggest advantages. &quot;If I hadn&#039;t gotten this [position at the ROH], then probably I would have gone on auditioning on my own,&quot; he says of the Jette Parker programme&#039;s influence on his career. &quot;I would have managed somehow. It would have been really different, but there would have been another way.&quot;"
-slug = "talking-with-singers-gyula-nagy"
-title = "Talking with singers: Gyula Nagy"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-11-03T16:18:00+00:00"
+lastmod: "2016-11-08T10:00:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478529486369/2016-11-07---Gyula-Nagy.jpg.jpg
+publishDate: "2016-11-08T10:00:00+00:00"
+related_articles:
+- articles/talking-with-singers-david-shipley.md
+- articles/talking-with-singers-kate-lindsey.md
+- articles/spotlight-on-owen-mccausland.md
+- articles/talking-with-singers-levente-molnr.md
+related_companies:
+- scene/companies/royal-opera-house.md
+short_description: He takes seriously the artistic work he does as a singer, yet the
+  come-what-may attitude that Nagy has about his pursuit of singing is one of his
+  biggest advantages. &quot;If I hadn&#039;t gotten this [position at the ROH], then
+  probably I would have gone on auditioning on my own,&quot; he says of the Jette
+  Parker programme&#039;s influence on his career. &quot;I would have managed somehow.
+  It would have been really different, but there would have been another way.&quot;
+slug: talking-with-singers-gyula-nagy
+title: 'Talking with singers: Gyula Nagy'
+---
 
 "The whole [singing] thing came from shouting Guns n' Roses at home," laughs Gyula Nagy, the Hungarian baritone who is a new member of the Jette Parker Young Artists Programme with the [Royal Opera House](/scene/companies/royal-opera-house/). "'Paradise City' and all these things." Nagy's parents figured if he would continue "shouting," some voice lessons would be in order. 
 

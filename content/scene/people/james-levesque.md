@@ -1,20 +1,27 @@
-+++
-date = "2015-12-29T21:30:00-05:00"
-discipline = "Baritone"
-lastmod = "2015-12-29T21:30:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451442209095/2015-12-29---James-Levesque.jpg.jpg"
-primary_image_credit = "Alkan Emin"
-publishDate = "2015-12-29T21:30:00-05:00"
-related_companies = ["scene/companies/calgary-opera.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/canadian-opera-company.md","scene/companies/toronto-operetta-theatre.md","scene/companies/essential-opera.md","scene/companies/royal-conservatory-of-music.md","scene/companies/university-of-toronto-opera.md"]
-slug = "james-levesque"
-title = "James Levesque"
-website = "http://www.jameslevesque.com/main/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/jimmyjimjoes"
-_template = "people_single"
-+++
+---
+date: "2015-12-29T21:30:00-05:00"
+discipline: Baritone
+lastmod: "2015-12-29T21:30:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451442209095/2015-12-29---James-Levesque.jpg.jpg
+primary_image_credit: Alkan Emin
+publishDate: "2015-12-29T21:30:00-05:00"
+related_companies:
+- scene/companies/calgary-opera.md
+- scene/companies/voicebox-opera-in-concert.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/toronto-operetta-theatre.md
+- scene/companies/essential-opera.md
+- scene/companies/royal-conservatory-of-music.md
+- scene/companies/university-of-toronto-opera.md
+slug: james-levesque
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/jimmyjimjoes
+title: James Levesque
+website: http://www.jameslevesque.com/main/
+---
 
 Baritone James Levesque is at home on both the concert and operatic stage and has been noted for his “expressive singing and acting abilities” (*Opera Canada*). He has performed on both sides of the Atlantic with such conductors as Harry Bicket, Richard Egarr, Jean-Marie Zeitouni, Raffi Armenian and Robert Dean.
 

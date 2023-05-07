@@ -1,18 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2018-10-01T11:38:00-04:00"
-lastmod = "2018-10-01T13:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538408590961/sq18-19-01-MC-D-0459.jpg.jpg"
-primary_image_credit = "Joyce El-Khoury as Tatyana in the Canadian Opera Company's new production of Eugene Onegin, 2018. Photo: Michael Cooper."
-publishDate = "2018-10-01T11:45:00-04:00"
-related_articles = ["articles/ariodante-or-the-hebridean-handel.md","articles/operas-love-stories-3-reasons-theyre-doomed.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/joyce-elkhoury.md","scene/people/joseph-kaiser.md","scene/people/gordon-bintner.md","scene/people/varduhi-abrahamyan.md"]
-short_description = "It&#039;s hard to get a sense of whether Tchaikovsky means us to see Onegin as an anti-hero, a villain, or some pitiful shell of a man (like Patrick Bateman&#039;s less murderous brother, Sean). By the skin of her teeth, Tatyana comes out of their whole uncomfortable relationship unscathed, but not without some doubt; she rightly turns Onegin down in the final scene, but it&#039;s frustrating that she only does so because she&#039;s married to someone else."
-slug = "eugene-onegin-or-the-time-tatyana-dodged-a-bullet"
-title = "Eugene Onegin, or the time Tatyana dodged a bullet"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2018-10-01T11:38:00-04:00"
+lastmod: "2018-10-01T13:47:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538408590961/sq18-19-01-MC-D-0459.jpg.jpg
+primary_image_credit: 'Joyce El-Khoury as Tatyana in the Canadian Opera Company''s
+  new production of Eugene Onegin, 2018. Photo: Michael Cooper.'
+publishDate: "2018-10-01T11:45:00-04:00"
+related_articles:
+- articles/ariodante-or-the-hebridean-handel.md
+- articles/operas-love-stories-3-reasons-theyre-doomed.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/joyce-elkhoury.md
+- scene/people/joseph-kaiser.md
+- scene/people/gordon-bintner.md
+- scene/people/varduhi-abrahamyan.md
+short_description: It&#039;s hard to get a sense of whether Tchaikovsky means us to
+  see Onegin as an anti-hero, a villain, or some pitiful shell of a man (like Patrick
+  Bateman&#039;s less murderous brother, Sean). By the skin of her teeth, Tatyana
+  comes out of their whole uncomfortable relationship unscathed, but not without some
+  doubt; she rightly turns Onegin down in the final scene, but it&#039;s frustrating
+  that she only does so because she&#039;s married to someone else.
+slug: eugene-onegin-or-the-time-tatyana-dodged-a-bullet
+title: Eugene Onegin, or the time Tatyana dodged a bullet
+---
 
 [*Eugene Onegin*](https://www.coc.ca/productions/16460) opened its month-long run at the Canadian Opera Company on a crisp afternoon that seemed to match the cool reservation of Tchaikovsky's opera. The production by director Robert Carsen and designer Michael Levine - an arresting display of minimalist storytelling - seemed to offer up a polarising mix of opera. On one stage, we saw what makes opera utterly compelling, and what makes it fall limp.
 

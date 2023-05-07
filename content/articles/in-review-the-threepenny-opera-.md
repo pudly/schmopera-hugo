@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-08-17T10:09:00+01:00"
-lastmod = "2016-08-18T09:32:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471438510622/2016-08-17---TPO-Square-Jpeg-5.jpg.jpg"
-primary_image_credit = "Jamie Beddard (Mattias) and Rebecca Brewer (Betty) in The Threepenny Opera, Olivier Theatre, 2016."
-publishDate = "2016-08-18T09:32:00+01:00"
-related_articles = ["articles/blos-threepenny-opera-a-misanthropic-delight.md"]
-short_description = "Singing curse words and unromantic sex are still relatively rare on the opera stage, even if the stories themselves are full of the same amount of emotional extremes. Whether or not you&#039;re the type to point at &quot;gratuity&quot; or &quot;shock value,&quot; what Norris&#039; production achieves is a totally organic theatre experience. At times the whole thing feels like meta-theatre, and other times the action holds you rapt."
-slug = "in-review-the-threepenny-opera-"
-title = "In review: The Threepenny Opera "
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-08-17T10:09:00+01:00"
+lastmod: "2016-08-18T09:32:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471438510622/2016-08-17---TPO-Square-Jpeg-5.jpg.jpg
+primary_image_credit: Jamie Beddard (Mattias) and Rebecca Brewer (Betty) in The Threepenny
+  Opera, Olivier Theatre, 2016.
+publishDate: "2016-08-18T09:32:00+01:00"
+related_articles:
+- articles/blos-threepenny-opera-a-misanthropic-delight.md
+short_description: Singing curse words and unromantic sex are still relatively rare
+  on the opera stage, even if the stories themselves are full of the same amount of
+  emotional extremes. Whether or not you&#039;re the type to point at &quot;gratuity&quot;
+  or &quot;shock value,&quot; what Norris&#039; production achieves is a totally organic
+  theatre experience. At times the whole thing feels like meta-theatre, and other
+  times the action holds you rapt.
+slug: in-review-the-threepenny-opera-
+title: 'In review: The Threepenny Opera '
+---
 
 "This is an opera for a city that has gone beyond morality. This...is a *cheap* opera."
 

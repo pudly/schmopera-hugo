@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-11-15T10:00:00+00:00"
-lastmod = "2016-11-15T11:31:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479207052712/2016-11-16---ENO-Lulu-Brenda-Rae-5-Catherine-Ashmore.jpg.jpg"
-primary_image_credit = "Brenda Rae in Lulu, ENO, 2016. Photo by Catherine Ashmore."
-publishDate = "2016-11-15T11:26:00+00:00"
-related_articles = ["articles/in-review-tristan-and-isolde-at-eno.md","articles/in-review-enos-the-magic-flute.md","articles/in-review-madam-butterfly-at-eno.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/david-soar.md","scene/people/michael-colvin.md","scene/people/james-morris.md"]
-short_description = "We have our own exasperations with the idea of a femme fatale, especially when they&#039;re two-dimensional, relying on sex and spineless men. Yet Kentridge&#039;s Lulu brings us into a specific world, while seeming to simply reveal the story without bias. Like Berg&#039;s score, the production is one we&#039;re eager to see again, to notice more details in Kentridge&#039;s layered work."
-slug = "in-review-lulu-at-eno"
-title = "In review: Lulu at ENO"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-11-15T10:00:00+00:00"
+lastmod: "2016-11-15T11:31:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479207052712/2016-11-16---ENO-Lulu-Brenda-Rae-5-Catherine-Ashmore.jpg.jpg
+primary_image_credit: Brenda Rae in Lulu, ENO, 2016. Photo by Catherine Ashmore.
+publishDate: "2016-11-15T11:26:00+00:00"
+related_articles:
+- articles/in-review-tristan-and-isolde-at-eno.md
+- articles/in-review-enos-the-magic-flute.md
+- articles/in-review-madam-butterfly-at-eno.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/david-soar.md
+- scene/people/michael-colvin.md
+- scene/people/james-morris.md
+short_description: We have our own exasperations with the idea of a femme fatale,
+  especially when they&#039;re two-dimensional, relying on sex and spineless men.
+  Yet Kentridge&#039;s Lulu brings us into a specific world, while seeming to simply
+  reveal the story without bias. Like Berg&#039;s score, the production is one we&#039;re
+  eager to see again, to notice more details in Kentridge&#039;s layered work.
+slug: in-review-lulu-at-eno
+title: 'In review: Lulu at ENO'
+---
 
 William Kentridge's production of Berg's [*Lulu*](https://www.eno.org/whats-on/lulu/) has made it to [English National Opera](/scene/companies/english-national-opera/), after critically-acclaimed runs in Amsterdam and New York. With his co-director Luc de Wit, and designers Sabine Theunissen, Greta Goiris, Urs Schönebaum, and Catherine Meyburgh, Kentridge's own ink sketches are the inspiration behind the fractured look of this story; he sets *Lulu* in the late 1920s/early 1930s, the look of newspapers and cabaret theatre splitting the stage between the action and a reference to the art of it all.
 

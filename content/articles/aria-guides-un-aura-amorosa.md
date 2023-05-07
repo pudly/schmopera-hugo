@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2017-08-17T20:41:00-04:00"
-lastmod = "2017-08-22T13:17:00-04:00"
-preamble = "Our latest wave of Aria Guides wouldn't be complete without a nod to tenors. Mozart's *Così fan tutte* - that weird mix of romantic comedy and relationship commentary - is one of the most common picks in the operatic canon; yet for many tenors, Ferrando's first aria, \"Un aura amorosa\", tends to come with a bit of jitters and baggage. It's fairly slow, and sits in an exposed and tricky range of the voice. When it's done well, all the technical feats go largely unnoticed, overshadowed by the beauty of Mozart's writing.\n\nIt may not be the perfect fit for every tenor, but it certainly comes with oodles of learning opportunities. Along with the work you do with teachers, coaches, and in the practice room, we can help you get started on making some tough Mozart sound, well, breezy."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503017729342/2017-08-18---Aura.jpg.jpg"
-publishDate = "2017-08-22T13:01:00-04:00"
-related_articles = ["articles/aria-guides-dalla-sua-pace.md", "articles/aria-guides-il-mio-tesoro.md", "articles/aria-guides-o-wie-angstlich.md"]
-short_description = "Mozart's Così fan tutte - that weird mix of romantic comedy and relationship commentary - is one of the most common picks in the operatic canon; yet for many tenors, Ferrando's first aria, \"Un aura amorosa\", tends to come with a bit of jitters and baggage. It's fairly slow, and sits in an exposed and tricky range of the voice. When it's done well, all the technical feats go largely unnoticed, overshadowed by the beauty of Mozart's writing."
-slug = "aria-guides-un-aura-amorosa"
-title = "Aria guides: Un aura amorosa"
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2017-08-17T20:41:00-04:00"
+lastmod: "2017-08-22T13:17:00-04:00"
+preamble: |-
+  Our latest wave of Aria Guides wouldn't be complete without a nod to tenors. Mozart's *Così fan tutte* - that weird mix of romantic comedy and relationship commentary - is one of the most common picks in the operatic canon; yet for many tenors, Ferrando's first aria, "Un aura amorosa", tends to come with a bit of jitters and baggage. It's fairly slow, and sits in an exposed and tricky range of the voice. When it's done well, all the technical feats go largely unnoticed, overshadowed by the beauty of Mozart's writing.
 
-+++
+  It may not be the perfect fit for every tenor, but it certainly comes with oodles of learning opportunities. Along with the work you do with teachers, coaches, and in the practice room, we can help you get started on making some tough Mozart sound, well, breezy.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503017729342/2017-08-18---Aura.jpg.jpg
+publishDate: "2017-08-22T13:01:00-04:00"
+related_articles:
+- articles/aria-guides-dalla-sua-pace.md
+- articles/aria-guides-il-mio-tesoro.md
+- articles/aria-guides-o-wie-angstlich.md
+short_description: Mozart's Così fan tutte - that weird mix of romantic comedy and
+  relationship commentary - is one of the most common picks in the operatic canon;
+  yet for many tenors, Ferrando's first aria, "Un aura amorosa", tends to come with
+  a bit of jitters and baggage. It's fairly slow, and sits in an exposed and tricky
+  range of the voice. When it's done well, all the technical feats go largely unnoticed,
+  overshadowed by the beauty of Mozart's writing.
+slug: aria-guides-un-aura-amorosa
+title: 'Aria guides: Un aura amorosa'
+---
  1. When you sing this aria on its own without the context of the whole opera, keep in mind that the intro bar for the piano is actually the tail end of the recitative that precedes this aria. It's loud and with a certain energy; but it's not necessarily indicative of how you want to start singing. You can consider your first line a point of contrast from the music that comes before you. As you get singing, you'll find out that this aria is a study in "staying up"; there are plenty of traps in which your singing can fall flat or stale, so avoid those traps by finding ways of staying fresh and spinning through the long _passaggio_ phrases.
  2. Look ahead as you start this phrase; the pick-up on "un" is low, but before you know it you're singing an octave higher. Start that low E with a lightness that will make the rest of the phrase easy. When you get to the leap up to the F-sharp on "cor", be sure to carry a nice open \[ɔ\] vowel through both pitches before starting to roll the R.<figure data-type="image">
 

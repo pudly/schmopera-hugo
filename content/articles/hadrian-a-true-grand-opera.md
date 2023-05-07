@@ -1,17 +1,37 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2018-10-18T20:41:00-04:00"
-lastmod = "2018-10-19T12:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539909628086/sqHADRIAN-18-19-02-MC-D-1307.jpg.jpg"
-primary_image_credit = "Thomas Hampson as Hadrian in the Canadian Opera Company's world premiere production of Hadrian, 2018. Photo: Michael Cooper."
-publishDate = "2018-10-18T20:41:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/thomas-hampson.md","scene/people/isaiah-bell.md","scene/people/ambur-braid.md","scene/people/karita-mattila.md","scene/people/roger-honeywell.md","scene/people/gregory-dahl.md","scene/people/john-macmaster.md","scene/people/joel-allison.md","scene/people/samuel-chan.md","scene/people/ben-heppner.md","scene/people/annasophie-neher.md","scene/people/thomas-glenn.md"]
-short_description = "Antinous, Hadrian&#039;s lover, has possibly the dopest (and gayest) entrance of any opera, ever. Surrounded by a bevy of mostly-nude, highly-sculpted, male dancers, I can only imagine tenor (and friend of Schmopera&#039;s) Isaiah Bell was living his absolute best life - and it showed in his singing. From his first &quot;Antinous&quot; when the cacophany in the pit mirrors the chaotic joy Hadrian feels, to his final moment onstage, Bell is a vision."
-slug = "hadrian-a-true-grand-opera"
-title = "Hadrian: a true grand opera"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2018-10-18T20:41:00-04:00"
+lastmod: "2018-10-19T12:28:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539909628086/sqHADRIAN-18-19-02-MC-D-1307.jpg.jpg
+primary_image_credit: 'Thomas Hampson as Hadrian in the Canadian Opera Company''s
+  world premiere production of Hadrian, 2018. Photo: Michael Cooper.'
+publishDate: "2018-10-18T20:41:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/thomas-hampson.md
+- scene/people/isaiah-bell.md
+- scene/people/ambur-braid.md
+- scene/people/karita-mattila.md
+- scene/people/roger-honeywell.md
+- scene/people/gregory-dahl.md
+- scene/people/john-macmaster.md
+- scene/people/joel-allison.md
+- scene/people/samuel-chan.md
+- scene/people/ben-heppner.md
+- scene/people/annasophie-neher.md
+- scene/people/thomas-glenn.md
+short_description: Antinous, Hadrian&#039;s lover, has possibly the dopest (and gayest)
+  entrance of any opera, ever. Surrounded by a bevy of mostly-nude, highly-sculpted,
+  male dancers, I can only imagine tenor (and friend of Schmopera&#039;s) Isaiah Bell
+  was living his absolute best life - and it showed in his singing. From his first
+  &quot;Antinous&quot; when the cacophany in the pit mirrors the chaotic joy Hadrian
+  feels, to his final moment onstage, Bell is a vision.
+slug: hadrian-a-true-grand-opera
+title: 'Hadrian: a true grand opera'
+---
 
 *Hadrian* has finally made it to the stage.
 

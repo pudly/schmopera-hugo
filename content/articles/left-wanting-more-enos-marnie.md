@@ -1,18 +1,29 @@
-+++
-author = ["authors/vivian-darkbloom.md"]
-categories = "Review"
-date = "2017-11-27T20:43:00-05:00"
-lastmod = "2017-11-27T21:11:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511833094582/square---ENO-Marnie-Sasha-Cooke-Richard-Hubert-Smith-X2.jpg.jpg"
-primary_image_credit = "Sasha Cooke in ENO's Marnie, 2017. Photo: Richard Hubert Smith."
-publishDate = "2017-11-27T20:43:00-05:00"
-related_articles = ["articles/talking-with-singers-sasha-cooke.md","articles/talking-with-singers-daniel-okulitch.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/sasha-cooke.md","scene/people/daniel-okulitch.md","scene/people/james-laing.md"]
-short_description = "I wasn&#039;t convinced this particular story was served well by becoming an opera. The sense of suspense and unease which characterises the film didn&#039;t transfer onto the stage at all. Particularly, the climactic scene of the novel, a hunt on horseback, seemed somewhat stunted. It was very creative and clever staging, with projected horses running and action on stage from dancers."
-slug = "left-wanting-more-enos-marnie"
-title = "Left wanting more: ENO&#039;s Marnie"
-+++
+---
+author:
+- authors/vivian-darkbloom.md
+categories: Review
+date: "2017-11-27T20:43:00-05:00"
+lastmod: "2017-11-27T21:11:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511833094582/square---ENO-Marnie-Sasha-Cooke-Richard-Hubert-Smith-X2.jpg.jpg
+primary_image_credit: 'Sasha Cooke in ENO''s Marnie, 2017. Photo: Richard Hubert Smith.'
+publishDate: "2017-11-27T20:43:00-05:00"
+related_articles:
+- articles/talking-with-singers-sasha-cooke.md
+- articles/talking-with-singers-daniel-okulitch.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/sasha-cooke.md
+- scene/people/daniel-okulitch.md
+- scene/people/james-laing.md
+short_description: I wasn&#039;t convinced this particular story was served well by
+  becoming an opera. The sense of suspense and unease which characterises the film
+  didn&#039;t transfer onto the stage at all. Particularly, the climactic scene of
+  the novel, a hunt on horseback, seemed somewhat stunted. It was very creative and
+  clever staging, with projected horses running and action on stage from dancers.
+slug: left-wanting-more-enos-marnie
+title: 'Left wanting more: ENO&#039;s Marnie'
+---
 
 This weekend I saw the ENO's production of Nico Muhly's *Marnie*. Based on a novel by Winston Graham which later became a Hitchcock film, the story is full of suspense and drama. Visually beautiful and very cleverly staged, using moving set pieces and projections to provide film-like transitions between scenes, the production was rich to look at, full of eye-catching tableaus and scenes. The costuming was very effective as well, particularly on Marnie herself and her quartet of Shadow Marnies who followed her throughout the show.
 

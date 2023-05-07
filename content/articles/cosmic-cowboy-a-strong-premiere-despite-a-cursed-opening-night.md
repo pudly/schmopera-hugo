@@ -1,22 +1,27 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2022-09-19T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1663629338/media/2022/09/sqWSP_CC-10_Kathy_Wittman_Ball_Square_Films_eamfjw.jpg"
-primary_image_credit = "White Snake Projects' production of Cosmic Cowboy, 2022. Photo by Kathy Wittman / Ball Square Films."
-related_articles = ["articles/star-trek-and-the-opera.md", "articles/opera-and-scifi-the-puritan-intersection.md"]
-related_companies = []
-related_people = []
-short_description = "The score's harmonic language is relatively simple, but it is also quite full of little treasures like this, and I found myself enamoured by it by the end."
-slug = "cosmic-cowboy-a-strong-premiere-despite-a-cursed-opening-night"
-title = "Cosmic Cowboy a strong premiere, despite a cursed opening night"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2022-09-19T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1663629338/media/2022/09/sqWSP_CC-10_Kathy_Wittman_Ball_Square_Films_eamfjw.jpg
+primary_image_credit: White Snake Projects' production of Cosmic Cowboy, 2022. Photo
+  by Kathy Wittman / Ball Square Films.
+related_articles:
+- articles/star-trek-and-the-opera.md
+- articles/opera-and-scifi-the-puritan-intersection.md
+related_companies: []
+related_people: []
+short_description: The score's harmonic language is relatively simple, but it is also
+  quite full of little treasures like this, and I found myself enamoured by it by
+  the end.
+slug: cosmic-cowboy-a-strong-premiere-despite-a-cursed-opening-night
+title: Cosmic Cowboy a strong premiere, despite a cursed opening night
+youtube_url: ""
+---
 In my time as a critic for Schmopera, I have to stress that I have seen a great deal of well-performed opera, where everything goes right and the piece just shines. Thus, I think it is all too easy to forget that the true test of an opera production lies in what happens when things go wrong during performance. After all, opera is a live performance medium, and in live performance there is always an edge of peril, where some things can go wrong at any moment.
 
 Thus we turn to White Snake Project's [new sci-fi opera _Cosmic Cowboy_](https://www.whitesnakeprojects.org/projects/cosmic-cowboy/). Perhaps mirroring the scale of its story, _Cosmic Cowboy_ opted to present itself with a veritable treasure trove of technical wizardry to accompany its story, which takes Sumerian gods, references to terraforming Mars, comet probes, colonialism, and Gary Cooper, and mashes them all in a blender.

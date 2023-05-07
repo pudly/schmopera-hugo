@@ -1,18 +1,42 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-10T11:03:00-04:00"
-lastmod = "2017-10-02T12:43:00-04:00"
-preamble = "When young singers begin to look seriously at turning their passion into their career, one of the first major considerations is how the nomadic lifestyle will affect their family life. Weeks and months spent away from home often mean that the relationships they have with their family, partners, and and children will be cultivated differently from what many understand as \"the norm\". \n\nSingers respond to these challenges in a few ways. Some leave their loved ones at home while they travel for work, and spend the time between gigs focused on family and friends; some singers opt for a life that is child-free, or even partner-free. \n\nSoprano [Jackie Short](http://www.music.uwo.ca/faculty/bios/jackalyn-short.html) is one of the many singers who often brought her daughter, Amelia, along for the ride. We spoke with them about the extra work that comes with involving children in the singer's life, and the rare experiences of the career that can offer a rich and stimulating childhood."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499862754710/2017-07-12---AmeliaJackie.jpg.jpg"
-primary_image_credit = "Photo (clockwise from top left): Amelia Pipher, Jackie Short, and Michael Cavanagh, Christmas, 2014; Jackie as Papagena with Opera Atelier, with Amelia, age 2; Jackie and Amelia singing together in a cabaret."
-publishDate = "2017-07-11T23:37:00-04:00"
-related_articles = ["articles/childfree-opera-singers-happiness.md","articles/real-talk-the-unspoken-realities-of-a-professional-artistic-life.md","articles/singers-its-time-to-expand-your-dating-pool.md"]
-related_companies = ["scene/companies/opera-atelier.md","scene/companies/edmonton-opera.md"]
-short_description = "&quot;When she was under 10 I would leave notes with little gifts for her to open and would call frequently. As she got older, these calls became more like interruptions to her and it was obvious that less was more. My husband [and stage director] Michael Cavanagh (her step father since age 3) was also travelling a lot so her normal was parentals coming and going.&quot;"
-slug = "how-lucky-are-we-the-children-of-opera"
-title = "&quot;How lucky are we, the children of opera?&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-10T11:03:00-04:00"
+lastmod: "2017-10-02T12:43:00-04:00"
+preamble: "When young singers begin to look seriously at turning their passion into
+  their career, one of the first major considerations is how the nomadic lifestyle
+  will affect their family life. Weeks and months spent away from home often mean
+  that the relationships they have with their family, partners, and and children will
+  be cultivated differently from what many understand as \"the norm\". \n\nSingers
+  respond to these challenges in a few ways. Some leave their loved ones at home while
+  they travel for work, and spend the time between gigs focused on family and friends;
+  some singers opt for a life that is child-free, or even partner-free. \n\nSoprano
+  [Jackie Short](http://www.music.uwo.ca/faculty/bios/jackalyn-short.html) is one
+  of the many singers who often brought her daughter, Amelia, along for the ride.
+  We spoke with them about the extra work that comes with involving children in the
+  singer's life, and the rare experiences of the career that can offer a rich and
+  stimulating childhood."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499862754710/2017-07-12---AmeliaJackie.jpg.jpg
+primary_image_credit: 'Photo (clockwise from top left): Amelia Pipher, Jackie Short,
+  and Michael Cavanagh, Christmas, 2014; Jackie as Papagena with Opera Atelier, with
+  Amelia, age 2; Jackie and Amelia singing together in a cabaret.'
+publishDate: "2017-07-11T23:37:00-04:00"
+related_articles:
+- articles/childfree-opera-singers-happiness.md
+- articles/real-talk-the-unspoken-realities-of-a-professional-artistic-life.md
+- articles/singers-its-time-to-expand-your-dating-pool.md
+related_companies:
+- scene/companies/opera-atelier.md
+- scene/companies/edmonton-opera.md
+short_description: '&quot;When she was under 10 I would leave notes with little gifts
+  for her to open and would call frequently. As she got older, these calls became
+  more like interruptions to her and it was obvious that less was more. My husband
+  [and stage director] Michael Cavanagh (her step father since age 3) was also travelling
+  a lot so her normal was parentals coming and going.&quot;'
+slug: how-lucky-are-we-the-children-of-opera
+title: '&quot;How lucky are we, the children of opera?&quot;'
+---
 
 ## What was it like to travel with your daughter for work?
 

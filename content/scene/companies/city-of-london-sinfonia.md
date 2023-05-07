@@ -1,31 +1,31 @@
-+++
-date = "2016-04-07T11:10:00+01:00"
-lastmod = "2016-04-07T11:10:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460023660335/Logo---CLS.jpg.jpg"
-publishDate = "2016-04-07T11:10:00+01:00"
-related_people = ["scene/people/helen-charlston.md","scene/people/charlotte-bray.md","scene/people/hugh-brunt.md"]
-slug = "city-of-london-sinfonia"
-title = "City of London Sinfonia"
-type_of_company = "Orchestra"
-website = "https://cityoflondonsinfonia.co.uk/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/cityoflondonsinfonia"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/CityLdnSinfonia"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/cityoflondonsinfonia/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/CityofLondonSinfonia"
-_template = "company_single"
-+++
+---
+date: "2016-04-07T11:10:00+01:00"
+lastmod: "2016-04-07T11:10:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460023660335/Logo---CLS.jpg.jpg
+publishDate: "2016-04-07T11:10:00+01:00"
+related_people:
+- scene/people/helen-charlston.md
+- scene/people/charlotte-bray.md
+- scene/people/hugh-brunt.md
+slug: city-of-london-sinfonia
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/cityoflondonsinfonia
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/CityLdnSinfonia
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/cityoflondonsinfonia/
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/CityofLondonSinfonia
+title: City of London Sinfonia
+type_of_company: Orchestra
+website: https://cityoflondonsinfonia.co.uk/
+---
 
 City of London Sinfonia (CLS) is the Orchestra that promises to surprise and move you. We involve people from all ages and backgrounds in life-enhancing music experiences to create an exciting and harmonious future together.
 

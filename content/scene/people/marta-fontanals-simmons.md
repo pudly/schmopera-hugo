@@ -1,30 +1,31 @@
-+++
-author = []
-date = "2019-02-23T18:32:58+00:00"
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550946514/media/2019/02/MartaFontanalsSimmonsVictoriaCadisch.jpg"
-primary_image_credit = "Victoria Cadisch."
-related_articles = []
-related_companies = ["scene/companies/grange-park-opera.md", "scene/companies/garsington-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/glyndebourne.md"]
-related_people = []
-slug = "marta-fontanals-simmons"
-title = "Marta Fontanals-Simmons"
-website = "https://www.martafontanals.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/martafontanals"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/martafontanals/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/martameritxell"
-
-_template = "people_single"
-+++
+---
+author: []
+date: "2019-02-23T18:32:58+00:00"
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550946514/media/2019/02/MartaFontanalsSimmonsVictoriaCadisch.jpg
+primary_image_credit: Victoria Cadisch.
+related_articles: []
+related_companies:
+- scene/companies/grange-park-opera.md
+- scene/companies/garsington-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/glyndebourne.md
+related_people: []
+slug: marta-fontanals-simmons
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/martafontanals
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/martafontanals/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/martameritxell
+title: Marta Fontanals-Simmons
+website: https://www.martafontanals.com/
+---
 Highlights in the 2018/19 season for British-Spanish mezzo-soprano Marta Fontanals-Simmons include her debut at the Royal Opera House, Covent Garden as Hel in the world premiere of Gavin Higgins _The Monstrous Child_ at the Linbury Theatre, Amando _Le Grand Macabre_ with the NDR Elbphilharmonie Orchester and Alan Gilbert, and a return to Glyndebourne Festival Opera for Zweite Dame _Die Zauberflöte_. Recent highlights include her debut at the Teatro Real, Madrid as Jennie Hildebrand in Weill _Street Scene_, Zweite Dame _Die Zauberflöte_ for Garsington Opera, the European premiere of Alasdair Nicolson _Shadows on the Wall – Five Hauntings_ at the Barbican, and Berlioz _La Captive_ with the BBC Symphony Orchestra conducted by Pascal Rophé. In future seasons, Fontanals-Simmons will make her debut for Monte-Carlo Opera and return to the Teatro Real, Madrid.
 
 Recent operatic highlights also include Cherubino _Le nozze di Figaro_ for Garsington Opera and at the Théâtre Champs Elysées, Paris, her Glyndebourne debut as Lapák _The Cunning Little Vixen_, the title role _La Cenerentola_ for Diva Opera and Kate Pinkerton _Madama Butterfly_ for the Glyndebourne Tour and for Grange Park Opera.

@@ -1,19 +1,27 @@
-+++
-author = ["authors/gwenna-fairchildtaylor.md"]
-categories = "Editorial"
-date = "2016-09-16T09:52:00+01:00"
-lastmod = "2016-09-17T08:56:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474028718270/2016-09-16---"
-primary_image_credit = "Photo: Amanda Graham via Flickr."
-publishDate = "2016-09-16T13:40:00+01:00"
-related_articles = ["articles/coaches-voice-teachers-and-the-grey-area-in-between.md", "articles/3-life-lessons-that-practice-rooms-can-teach-you.md"]
-related_companies = ["scene/companies/university-of-toronto-opera.md"]
-related_people = ["scene/people/gwenna-fairchildtaylor.md"]
-short_description = "My work up north has made me a better singer and artist, without question. At the most basic level it&#039;s one of the ways I remind myself why art is so, so important, even though trying to be a singer is so difficult. So here are five epiphanies I&#039;ve had because of my time teaching in some of the most beautiful places on earth."
-slug = "teaching-in-the-arctic-5-things-that-one-singer-learned"
-title = "Teaching in the Arctic: 5 things that one singer learned"
-
-+++
+---
+author:
+- authors/gwenna-fairchildtaylor.md
+categories: Editorial
+date: "2016-09-16T09:52:00+01:00"
+lastmod: "2016-09-17T08:56:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474028718270/2016-09-16---
+primary_image_credit: 'Photo: Amanda Graham via Flickr.'
+publishDate: "2016-09-16T13:40:00+01:00"
+related_articles:
+- articles/coaches-voice-teachers-and-the-grey-area-in-between.md
+- articles/3-life-lessons-that-practice-rooms-can-teach-you.md
+related_companies:
+- scene/companies/university-of-toronto-opera.md
+related_people:
+- scene/people/gwenna-fairchildtaylor.md
+short_description: My work up north has made me a better singer and artist, without
+  question. At the most basic level it&#039;s one of the ways I remind myself why
+  art is so, so important, even though trying to be a singer is so difficult. So here
+  are five epiphanies I&#039;ve had because of my time teaching in some of the most
+  beautiful places on earth.
+slug: teaching-in-the-arctic-5-things-that-one-singer-learned
+title: 'Teaching in the Arctic: 5 things that one singer learned'
+---
 Hi, I'm Gwenna!  I'm a soprano and a recent UofTOpera graduate, among other things. I love singing - it's when I feel most like myself. Opera is my favourite. I also think teaching people about music is vitally important.  So I do both, even though I'm still figuring out how to balance it all.
 
 In combination with doing all the stuff a young singer does (auditions, gigs, lessons, coachings, etc.) I teach way up in northern Canada, with lots of help from government grants and sponsors. Usually trips are between one and three weeks, depending on the time frame I have available and what the grant can afford. I have 2 more trips planned in the near future. I'm going to Cambridge Bay, Nunavut in January and Pangnirtung, Nunavut in February. Temperatures in Cambridge Bay at that time hover between -25 and -35 Celsius, plus whatever scary windchill, and it is near 24 hour darkness. Crazy, right?

@@ -1,22 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2019-09-22T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Do you have an aria you'd like to see featured in our Aria Guides? Let us know at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "The Duke of Mantua in Verdi's _Rigoletto_ is one of opera's most coveted roles - even though he's an utter ass: Entitled, lying, and never properly repaid for the bad karma he spills out into the world. To sing the role is no easy feat, and there are delicious dramatic layers in the Duke that challenge a tenor to find beauty in a villain's thoughts.\n\nIn this aria, the Duke is angry that Gilda, the young woman he lied to in order to get into her pants, was kidnapped (by other terrible men) before he could actually seal the deal. That's right: Gilda's kidnapping is bad _for him_.\n\nThe Duke is a tricky character, and this a tricky aria. Along with the work you'll do with your teacher and coach, we can help you get started and avoid any energy-sapping traps in this score."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569086154/media/2019/09/sqParmi_ohyoef.jpg"
-primary_image_credit = ""
-related_articles = ["articles/aria-guides-o-wie-angstlich.md", "articles/aria-guides-dalla-sua-pace.md"]
-related_companies = []
-related_people = []
-short_description = "In this aria, the Duke is angry that Gilda, the young woman he lied to in order to get into her pants was kidnapped (by other terrible men), and until he finds her he can't get into her pants yet. That's right: Gilda's kidnapping is bad for him."
-slug = "aria-guides-parmi-veder-le-lagrime"
-title = "Aria guides: Parmi veder le lagrime"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2019-09-22T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Do you have an aria you'd like to see featured in our Aria Guides? Let
+  us know at [hello@schmopera.com](mailto:hello@schmopera.com).
+preamble: |-
+  The Duke of Mantua in Verdi's _Rigoletto_ is one of opera's most coveted roles - even though he's an utter ass: Entitled, lying, and never properly repaid for the bad karma he spills out into the world. To sing the role is no easy feat, and there are delicious dramatic layers in the Duke that challenge a tenor to find beauty in a villain's thoughts.
 
-+++
+  In this aria, the Duke is angry that Gilda, the young woman he lied to in order to get into her pants, was kidnapped (by other terrible men) before he could actually seal the deal. That's right: Gilda's kidnapping is bad _for him_.
+
+  The Duke is a tricky character, and this a tricky aria. Along with the work you'll do with your teacher and coach, we can help you get started and avoid any energy-sapping traps in this score.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569086154/media/2019/09/sqParmi_ohyoef.jpg
+primary_image_credit: ""
+related_articles:
+- articles/aria-guides-o-wie-angstlich.md
+- articles/aria-guides-dalla-sua-pace.md
+related_companies: []
+related_people: []
+short_description: 'In this aria, the Duke is angry that Gilda, the young woman he
+  lied to in order to get into her pants was kidnapped (by other terrible men), and
+  until he finds her he can''t get into her pants yet. That''s right: Gilda''s kidnapping
+  is bad for him.'
+slug: aria-guides-parmi-veder-le-lagrime
+title: 'Aria guides: Parmi veder le lagrime'
+youtube_url: ""
+---
 * The rhythm here **(1)** is about anger. Yes, we're in a recitative, but Verdi's recits still have tempo. It's always a fine line between observing rhythm and giving priority to the text, but I find a good middle-ground is to consider proportions: let us hear the difference between a sixteenth note and a quarter - like in this first line - and you'll find something organic and true to the score.
 
 <figure data-type="image">

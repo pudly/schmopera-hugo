@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-05-31T20:34:00-04:00"
-lastmod = "2018-06-03T16:48:00-04:00"
-preamble = "Stage director [Jennifer Williams](/scene/people/jennifer-williams/) just added a world premiere to her growing résumé, in *Backwards From Winter* at the Center for Contemporary Opera. Williams is an industrious young director, assisting the likes of Francesca Zambello, Paul Curran, and David Alden, and producing her own work at Miami Music Festival, Pittsburgh Opera, and with DC Public Opera, of which she is the founding Artistic Director.\n\nWilliams gave us a brilliant chat about the director's role in opera, potentially problematic themes of centuries-old works, and how she incorporates technology into her productions."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527814374802/sqJenniferWilliamsHipHighlineNYC_TopFiveRUSH-FULL_6.jpg.jpg"
-primary_image_credit = "Photo: Lucas Godlewski."
-publishDate = "2018-06-02T17:20:00-04:00"
-related_articles = ["articles/opera-directors-an-unfair-disadvantage.md","articles/talking-with-directors-operas-marvel.md"]
-related_people = ["scene/people/jennifer-williams.md"]
-short_description = "&quot;My philosophy as a director is this: that opera at its best is a place where the possible can encounter the impossible, challenging our notions of what our reality could be like. Imagination and empathy are what shift perspectives and start conversations about what our world could be like. It&#039;s a mistake to underestimate its value.&quot;"
-slug = "talking-with-directors-jennifer-williams"
-title = "Talking with directors: Jennifer Williams"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-05-31T20:34:00-04:00"
+lastmod: "2018-06-03T16:48:00-04:00"
+preamble: |-
+  Stage director [Jennifer Williams](/scene/people/jennifer-williams/) just added a world premiere to her growing résumé, in *Backwards From Winter* at the Center for Contemporary Opera. Williams is an industrious young director, assisting the likes of Francesca Zambello, Paul Curran, and David Alden, and producing her own work at Miami Music Festival, Pittsburgh Opera, and with DC Public Opera, of which she is the founding Artistic Director.
+
+  Williams gave us a brilliant chat about the director's role in opera, potentially problematic themes of centuries-old works, and how she incorporates technology into her productions.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527814374802/sqJenniferWilliamsHipHighlineNYC_TopFiveRUSH-FULL_6.jpg.jpg
+primary_image_credit: 'Photo: Lucas Godlewski.'
+publishDate: "2018-06-02T17:20:00-04:00"
+related_articles:
+- articles/opera-directors-an-unfair-disadvantage.md
+- articles/talking-with-directors-operas-marvel.md
+related_people:
+- scene/people/jennifer-williams.md
+short_description: '&quot;My philosophy as a director is this: that opera at its best
+  is a place where the possible can encounter the impossible, challenging our notions
+  of what our reality could be like. Imagination and empathy are what shift perspectives
+  and start conversations about what our world could be like. It&#039;s a mistake
+  to underestimate its value.&quot;'
+slug: talking-with-directors-jennifer-williams
+title: 'Talking with directors: Jennifer Williams'
+---
 
 ## What do you think is the role of the director in opera?
 

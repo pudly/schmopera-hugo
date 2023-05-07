@@ -1,22 +1,29 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-05-09T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Boston Lyric Opera's production of [_The Handmaid's Tale_](https://blo.org/handmaids/) runs through May 12. "
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557423805/media/2019/05/sqBLO2019-HMT-9445.jpg"
-primary_image_credit = "Jennifer Johnson Cado (Offred) in The Handmaid's Tale, Boston Lyric Opera, 2019. Photo: Liza Voll."
-related_articles = ["articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md"]
-related_companies = ["scene/companies/boston-lyric-opera.md"]
-related_people = ["scene/people/jennifer-johnson-cano.md"]
-short_description = "There is so much to like musically because Ruders stays true to Atwood's novel while finding time to let the music tell the drama on its own that it is indeed a good thing that it has finally found its cultural moment."
-slug = "installation-handmaids-tale-a-dramatic-chilling-staging"
-title = "Installation Handmaid's Tale a dramatic, chilling staging"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-05-09T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: 'Boston Lyric Opera''s production of [_The Handmaid''s Tale_](https://blo.org/handmaids/)
+  runs through May 12. '
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1557423805/media/2019/05/sqBLO2019-HMT-9445.jpg
+primary_image_credit: 'Jennifer Johnson Cado (Offred) in The Handmaid''s Tale, Boston
+  Lyric Opera, 2019. Photo: Liza Voll.'
+related_articles:
+- articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md
+related_companies:
+- scene/companies/boston-lyric-opera.md
+related_people:
+- scene/people/jennifer-johnson-cano.md
+short_description: There is so much to like musically because Ruders stays true to
+  Atwood's novel while finding time to let the music tell the drama on its own that
+  it is indeed a good thing that it has finally found its cultural moment.
+slug: installation-handmaids-tale-a-dramatic-chilling-staging
+title: Installation Handmaid's Tale a dramatic, chilling staging
+youtube_url: ""
+---
 Whenever an opera is presented outside of the typical proscenium format, I think it is often required to ask oneself the effect this would have on the performance. Even if the work does not specifically address the audience, any production presented with decreased distance from the audience will beg for a different kind of engagement from its audience. Sometimes, this can work to an opera's disadvantage, for it leaves the singers very few places to hide and can expose holes in a not-so-worthy piece. But sometimes, this works beautifully, and nowhere have I seen such a great example of this than Boston Lyric Opera's production of Poul Ruder's opera [_The Handmaid's Tale_](https://blo.org/handmaids/).
 
 This production of _Handmaid's Tale_ was staged in a basketball court, stylized with an arena-style seating arrangement which stared on the action from three different angles. (The only remaining angle was where the rather large orchestra was situated.) The effect, as with BLO's recent production of _Rape of Lucretia_, was to focus the action on everything happening in the center of the whole affair.

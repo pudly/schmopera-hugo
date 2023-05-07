@@ -1,20 +1,23 @@
-+++
-date = "2016-03-21T15:11:00+00:00"
-discipline = "Tenor"
-lastmod = "2016-03-21T15:11:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458572909092/2016-03-21---David-Butt-Philip.jpg.jpg"
-primary_image_credit = "Raphaelle Photography."
-publishDate = "2016-03-21T15:11:00+00:00"
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md"]
-slug = "david-butt-philip"
-title = "David Butt Philip"
-website = "http://www.davidbuttphilip.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/DavidButtPhilip"
-_template = "people_single"
-+++
+---
+date: "2016-03-21T15:11:00+00:00"
+discipline: Tenor
+lastmod: "2016-03-21T15:11:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458572909092/2016-03-21---David-Butt-Philip.jpg.jpg
+primary_image_credit: Raphaelle Photography.
+publishDate: "2016-03-21T15:11:00+00:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/royal-opera-house.md
+- scene/companies/english-national-opera.md
+slug: david-butt-philip
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/DavidButtPhilip
+title: David Butt Philip
+website: http://www.davidbuttphilip.com/
+---
 
 David was born and brought up in Wells in Somerset and began his musical training as a chorister at Peterborough Cathedral. He trained at the Royal Northern College of Music, the Royal Academy of Music and the National Opera Studio.
 

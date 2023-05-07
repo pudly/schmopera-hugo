@@ -1,22 +1,29 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = "2019-02-17T19:25:22+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550431945/media/2019/02/sqElixir4.jpg"
-primary_image_credit = "A scene from The Elixir of Love, Opera Omaha, 2019. Photo: Jim Sholtz/Opera Omaha."
-related_articles = ["articles/he-saidshe-said-a-sweet-elixir-at-the-coc.md"]
-related_companies = ["scene/companies/opera-omaha.md"]
-related_people = ["scene/people/taylor-stayton.md", "scene/people/deanna-breiwick.md"]
-short_description = "While The Elixir of Love is a comedic masterpiece, Donizetti's music ranges from brilliant and bubbly to languid and lush. The orchestra, led by David Agler, showcased this mercurial ambiance with clarity and nuance."
-slug = "bel-canto-barbie-other-gems-opera-omahas-elixir-of-love"
-title = "Bel Canto Barbie & other gems: Opera Omaha's Elixir of Love"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2019-02-17T19:25:22+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550431945/media/2019/02/sqElixir4.jpg
+primary_image_credit: 'A scene from The Elixir of Love, Opera Omaha, 2019. Photo:
+  Jim Sholtz/Opera Omaha.'
+related_articles:
+- articles/he-saidshe-said-a-sweet-elixir-at-the-coc.md
+related_companies:
+- scene/companies/opera-omaha.md
+related_people:
+- scene/people/taylor-stayton.md
+- scene/people/deanna-breiwick.md
+short_description: While The Elixir of Love is a comedic masterpiece, Donizetti's
+  music ranges from brilliant and bubbly to languid and lush. The orchestra, led by
+  David Agler, showcased this mercurial ambiance with clarity and nuance.
+slug: bel-canto-barbie-other-gems-opera-omahas-elixir-of-love
+title: 'Bel Canto Barbie & other gems: Opera Omaha''s Elixir of Love'
+youtube_url: ""
+---
 Imagine a bel canto version of a Brat Pack movie. It might sound strange, but [Opera Omaha](/scene/companies/opera-omaha/)'s production of Donizetti's [_The Elixir of Love_](https://www.operaomaha.org/season-tickets/current-season/2018-2019-season/the-elixir-of-love) combines a timeless operatic love story with modern high school movie tropes to create the perfect comedic cocktail. The emotions are universal, so whether the setting is an 18th-century village or a 20th-century art school, it still feels believable and genuine. Opera Omaha provided a fresh and fun take on a beloved opera classic that is sure to please opera aficionados and newcomers alike.
 
 > All the stereotypical high school characters were present - the popular girls, the sensitive outsider, the bullies.

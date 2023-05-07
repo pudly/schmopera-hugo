@@ -1,14 +1,19 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2014-12-03T08:00:00-05:00"
-lastmod = "2015-04-13T20:55:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428972191458/il_fullxfull.332154597.jpg.jpg"
-publishDate = "2014-12-03T08:00:00-05:00"
-short_description = "Without fail, in almost tedious constancy, watching La bohème brings out all the feels. Before an upcoming production, I&#039;m more objective, and I can inwardly roll my eyes at the thought of getting swept away by a piece like La bohème. It&#039;s so obvious, I tell myself, You&#039;re falling for low-bar emotional jabs like doomed lovers and friendship despite hardship. "
-slug = "tales-from-the-score-bohemians-in-love"
-title = "Tales from the score: Bohemians in love"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2014-12-03T08:00:00-05:00"
+lastmod: "2015-04-13T20:55:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428972191458/il_fullxfull.332154597.jpg.jpg
+publishDate: "2014-12-03T08:00:00-05:00"
+short_description: 'Without fail, in almost tedious constancy, watching La bohème
+  brings out all the feels. Before an upcoming production, I&#039;m more objective,
+  and I can inwardly roll my eyes at the thought of getting swept away by a piece
+  like La bohème. It&#039;s so obvious, I tell myself, You&#039;re falling for low-bar
+  emotional jabs like doomed lovers and friendship despite hardship. '
+slug: tales-from-the-score-bohemians-in-love
+title: 'Tales from the score: Bohemians in love'
+---
 
 Without fail, in almost tedious constancy, watching *La bohème* brings out all the feels. Before an upcoming production, I'm more objective, and I can inwardly roll my eyes at the thought of getting swept away by a piece like *La bohème*. It's so obvious, I tell myself, You're falling for low-bar emotional jabs like doomed lovers and friendship despite hardship. But then, you know, I go and see it, and there I am, swept away once again. *La bohème* is a piece that keeps giving as you get to know it better. The tragedy can be found beyond the clear moments created by Puccini, Illica and Giacosa. There exists tragedy too&nbsp;in the small details about the relationship between the Bohemians themselves. For example:
 

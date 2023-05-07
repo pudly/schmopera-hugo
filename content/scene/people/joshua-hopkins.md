@@ -1,24 +1,32 @@
-+++
-date = "2015-04-08T10:24:00-04:00"
-discipline = "Baritone"
-lastmod = "2015-04-08T10:24:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428502940320/19R7504.jpg.jpg"
-primary_image_credit = "Dario Acosta"
-publishDate = "2015-04-08T10:24:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/vancouver-opera.md","scene/companies/opera-lyra-ottawa.md","scene/companies/houston-grand-opera.md","scene/companies/the-dallas-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/washington-national-opera.md"]
-slug = "joshua-hopkins"
-title = "Joshua Hopkins"
-website = "http://joshuahopkins.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/barihopkins"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/barihopkins"
-_template = "people_single"
-+++
+---
+date: "2015-04-08T10:24:00-04:00"
+discipline: Baritone
+lastmod: "2015-04-08T10:24:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428502940320/19R7504.jpg.jpg
+primary_image_credit: Dario Acosta
+publishDate: "2015-04-08T10:24:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/vancouver-opera.md
+- scene/companies/opera-lyra-ottawa.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/washington-national-opera.md
+slug: joshua-hopkins
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/barihopkins
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/barihopkins
+title: Joshua Hopkins
+website: http://joshuahopkins.com/
+---
 
 <p>
 	Chosen by OPERA NEWS as one of twenty-five artists poised to break out and become a major force in the coming decade, Canadian baritone Joshua Hopkins has been hailed as "…an outstanding young baritone with a virile, vigorous yet velvety sound and an immediately evident dramatic authority."

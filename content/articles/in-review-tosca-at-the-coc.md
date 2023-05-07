@@ -1,18 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-05-06T23:04:00-04:00"
-lastmod = "2017-05-08T13:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494126158909/2017-05-07---Tosca-MC-0984.jpg.jpg"
-primary_image_credit = "Adrianne Pieczonka (Tosca), Marcelo Puente (Cavaradossi) in the COC's production of Tosca, 2017, photo: Michael Cooper."
-publishDate = "2017-05-08T11:37:00-04:00"
-related_articles = ["articles/review-sondra-slays-in-bellini-masterwork.md","articles/talking-with-singers-keri-alkema.md","articles/in-review-il-trovatore-at-oper-frankfurt.md","articles/rowley-wins-the-night-in-nashville-operas-tosca.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/marcelo-puente.md","scene/people/adrianne-pieczonka.md","scene/people/musa-ngqungwana.md","scene/people/markus-marquardt.md","scene/people/craig-colclough.md","scene/people/keri-alkema.md"]
-short_description = "She seemed deaf to much of the text, and her over-conducting (opting for 6 beats when 2 would do) left her with little room to follow the voices&#039; lead. Plus, her frustrating choice to leave a break for applause after both of Cavaradossi&#039;s arias seemed to completely undermine the careful dramatic timing in Puccini&#039;s writing. Thank goodness for Adrianne."
-slug = "in-review-tosca-at-the-coc"
-title = "In review: Tosca at the COC"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-05-06T23:04:00-04:00"
+lastmod: "2017-05-08T13:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494126158909/2017-05-07---Tosca-MC-0984.jpg.jpg
+primary_image_credit: 'Adrianne Pieczonka (Tosca), Marcelo Puente (Cavaradossi) in
+  the COC''s production of Tosca, 2017, photo: Michael Cooper.'
+publishDate: "2017-05-08T11:37:00-04:00"
+related_articles:
+- articles/review-sondra-slays-in-bellini-masterwork.md
+- articles/talking-with-singers-keri-alkema.md
+- articles/in-review-il-trovatore-at-oper-frankfurt.md
+- articles/rowley-wins-the-night-in-nashville-operas-tosca.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/marcelo-puente.md
+- scene/people/adrianne-pieczonka.md
+- scene/people/musa-ngqungwana.md
+- scene/people/markus-marquardt.md
+- scene/people/craig-colclough.md
+- scene/people/keri-alkema.md
+short_description: She seemed deaf to much of the text, and her over-conducting (opting
+  for 6 beats when 2 would do) left her with little room to follow the voices&#039;
+  lead. Plus, her frustrating choice to leave a break for applause after both of Cavaradossi&#039;s
+  arias seemed to completely undermine the careful dramatic timing in Puccini&#039;s
+  writing. Thank goodness for Adrianne.
+slug: in-review-tosca-at-the-coc
+title: 'In review: Tosca at the COC'
+---
 
 It seems to be a trend with the most popular picks of the operatic canon, performed in the world's major opera houses: that the voices are thrilling, and the well-loved music serves to make up for any moments of weakness. Such was the case for [*Tosca*](http://www.coc.ca/PerformancesAndTickets/1617Season/Tosca.aspx), currently onstage at the Canadian Opera Company. 
 

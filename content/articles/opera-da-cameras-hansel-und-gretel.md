@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2015-10-09T11:31:00-04:00"
-lastmod = "2015-10-11T10:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444404646261/OdCHanselGretel_G_LSquare.jpg.jpg"
-publishDate = "2015-10-11T10:46:00-04:00"
-related_articles = ["articles/opera-da-camera-xerxes-is-the-new-elvis.md"]
-related_companies = ["scene/companies/opera-da-camera.md"]
-related_people = ["scene/people/meagan-zantingh.md","scene/people/valerie-belanger.md"]
-short_description = "Opera da Camera is all about accessibility. For their upcoming Hänsel, they&#039;ll hold two free pre-show talks, aimed at both young and adult audiences. &quot;Before our matinée performance, there will be a pre-opera talk geared especially towards children with a professional story teller, and before the opening night there is a pre-opera talk given by a representative of the Goethe Institute of Montreal.&quot;"
-slug = "opera-da-cameras-hansel-und-gretel"
-title = "Opera da Camera&#039;s Hänsel und Gretel"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2015-10-09T11:31:00-04:00"
+lastmod: "2015-10-11T10:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444404646261/OdCHanselGretel_G_LSquare.jpg.jpg
+publishDate: "2015-10-11T10:46:00-04:00"
+related_articles:
+- articles/opera-da-camera-xerxes-is-the-new-elvis.md
+related_companies:
+- scene/companies/opera-da-camera.md
+related_people:
+- scene/people/meagan-zantingh.md
+- scene/people/valerie-belanger.md
+short_description: Opera da Camera is all about accessibility. For their upcoming
+  Hänsel, they&#039;ll hold two free pre-show talks, aimed at both young and adult
+  audiences. &quot;Before our matinée performance, there will be a pre-opera talk
+  geared especially towards children with a professional story teller, and before
+  the opening night there is a pre-opera talk given by a representative of the Goethe
+  Institute of Montreal.&quot;
+slug: opera-da-cameras-hansel-und-gretel
+title: Opera da Camera&#039;s Hänsel und Gretel
+---
 
 Starting October 17th, Montréal's [Opera da Camera](/scene/companies/opera-da-camera/) begins its 2015/16 season with an operatic favourite: Humperdinck's *Hänsel und Gretel*. The classic story and beloved music make this a great multidisciplinary opera, and one meant for all ages. "The choice of opera is of course vital," says Artistic Director (and Hansel!) [Meagan Zantingh](/scene/people/meagan-zantingh/), "and with Humperdinck's *Hänsel und Gretel*, you have a timeless, classic fairy-tale that has all the elements of good story-telling. The story is familiar for children, and in our production, the audience will see children on stage, which is also important." In addition to soprano [Valérie Bélanger](/scene/people/valerie-belanger/) as Gretel and mezzo [Kathrin Welte](/scene/people/kathrin-welte/) as The Witch will feature a group of young dancers from the [Hudson Classical Ballet School](http://hudsonballet.ca/), actors from [John Abbott College](http://www.johnabbott.qc.ca/), and a young chorus made up of the Sous-sol Singers. "[The audience will] be able to watch artists of all ages become part of the story."
 

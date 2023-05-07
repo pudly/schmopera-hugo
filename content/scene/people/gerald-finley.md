@@ -1,24 +1,29 @@
-+++
-date = "2015-04-07T17:29:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2015-04-07T17:29:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428442058397/Finley.jpg.jpg"
-primary_image_credit = " Sim Canetty-Clarke"
-publishDate = "2015-04-07T17:29:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/glyndebourne.md","scene/companies/san-francisco-opera.md"]
-slug = "gerald-finley"
-title = "Gerald Finley"
-website = "http://www.geraldfinley.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/OfficialGeraldFinley"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/GeraldFinley"
-_template = "people_single"
-+++
+---
+date: "2015-04-07T17:29:00-04:00"
+discipline: Bass-baritone
+lastmod: "2015-04-07T17:29:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428442058397/Finley.jpg.jpg
+primary_image_credit: ' Sim Canetty-Clarke'
+publishDate: "2015-04-07T17:29:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/glyndebourne.md
+- scene/companies/san-francisco-opera.md
+slug: gerald-finley
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/OfficialGeraldFinley
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/GeraldFinley
+title: Gerald Finley
+website: http://www.geraldfinley.com/
+---
 
 <p>
 	This Canadian bass baritone is one of the leading singers and dramatic interpreters of his generation, with award-winning performances and recordings on CD and DVD with major labels and performing at the world's major opera and concert venues in a wide variety of repertoire. His recent awards include a Grammy for Best Opera Recording 2012 (<em>Dr. Atomic</em> from the Met) and Best Solo Vocal Recording for his CD of Britten Songs (Hyperion) at the 2011 Classic FM Gramophone Awards for an unprecedented third time. This followed the same award in 2009 for Schumann's Heine settings as well as in 2008 for his CD on Hyperion of Songs by Samuel Barber. He was honoured at the 2009 Opera News Awards for distinguished achievement. His active relationship with leading conductors including Nikolaus Harnoncourt, Sir Simon Rattle, Bernard Haitink, Alan Gilbert, Mariss Jansons, Esa Pekka Salonen and Sir Antonio Pappano, has been part of a flourishing career.<br>

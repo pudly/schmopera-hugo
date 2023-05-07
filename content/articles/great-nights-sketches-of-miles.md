@@ -1,17 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-04-07T10:16:00+01:00"
-lastmod = "2016-04-07T11:38:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460022879820/2016-04-07--G-Simcock-Trio-Tim-Garland_Cr-James-Berry.jpg.jpg"
-primary_image_credit = "The Gwilym Simcock Trio with Tim Garland. Photo by James Berry."
-publishDate = "2016-04-07T11:14:00+01:00"
-related_articles = ["articles/in-review-obeah-opera.md","articles/christina-aguileras-move-into-pedagogy.md","articles/magic-theatre-jurowski-and-oaes-resurrection-symphony.md","articles/paris-reflected-at-southwark-cathedral.md","articles/robert-ames-deep-minimalism-lco.md","articles/aurora-orchestra-fun-frankenstein.md","articles/dont-miss-accelerando-with-esprit-orchestra.md"]
-related_companies = ["scene/companies/city-of-london-sinfonia.md"]
-short_description = "The music was stellar, and the vibe was so great that even a momentary power outage mid-&quot;Summertime&quot; didn&#039;t dampen the night one bit. It&#039;s hard to say what we expected from CLS, but expectations don&#039;t matter when the experience holds us rapt and happy. "
-slug = "great-nights-sketches-of-miles"
-title = "Great nights: Sketches of Miles"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-04-07T10:16:00+01:00"
+lastmod: "2016-04-07T11:38:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460022879820/2016-04-07--G-Simcock-Trio-Tim-Garland_Cr-James-Berry.jpg.jpg
+primary_image_credit: The Gwilym Simcock Trio with Tim Garland. Photo by James Berry.
+publishDate: "2016-04-07T11:14:00+01:00"
+related_articles:
+- articles/in-review-obeah-opera.md
+- articles/christina-aguileras-move-into-pedagogy.md
+- articles/magic-theatre-jurowski-and-oaes-resurrection-symphony.md
+- articles/paris-reflected-at-southwark-cathedral.md
+- articles/robert-ames-deep-minimalism-lco.md
+- articles/aurora-orchestra-fun-frankenstein.md
+- articles/dont-miss-accelerando-with-esprit-orchestra.md
+related_companies:
+- scene/companies/city-of-london-sinfonia.md
+short_description: 'The music was stellar, and the vibe was so great that even a momentary
+  power outage mid-&quot;Summertime&quot; didn&#039;t dampen the night one bit. It&#039;s
+  hard to say what we expected from CLS, but expectations don&#039;t matter when the
+  experience holds us rapt and happy. '
+slug: great-nights-sketches-of-miles
+title: 'Great nights: Sketches of Miles'
+---
 
 Last night's concert at the Village Underground will go into the books as one of the most memorable shows we've seen yet.
 

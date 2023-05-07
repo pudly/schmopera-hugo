@@ -1,17 +1,22 @@
-+++
-author = ["authors/molly-simoneau.md"]
-categories = "Review"
-date = "2018-07-17T19:42:00-04:00"
-lastmod = "2018-07-18T08:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546221060/media/2018/12/sqRomeoJulietteMadisonLeonardAlexanderMcKissick.jpg"
-primary_image_credit = "Alexander McKissick (Roméo) and Madison Leonard (Juliette) in Roméo et Juliette, Wolf Trap Opera, 2018. Photo: Scott Suchman."
-publishDate = "2018-07-17T19:42:00-04:00"
-related_companies = ["scene/companies/wolf-trap-opera.md"]
-short_description = "The contemporary setting didn&#039;t feel like a gimmick but a way to make the characters that much more relatable, and the overall effect was that of a John Hughes movie. Muller&#039;s approach gets teenagers and how they feel emotion so intensely that it can turn fatal in an instant."
-slug = "swept-away-roméo-et-juliette"
-title = "Swept away: Roméo et Juliette"
-
-+++
+---
+author:
+- authors/molly-simoneau.md
+categories: Review
+date: "2018-07-17T19:42:00-04:00"
+lastmod: "2018-07-18T08:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546221060/media/2018/12/sqRomeoJulietteMadisonLeonardAlexanderMcKissick.jpg
+primary_image_credit: 'Alexander McKissick (Roméo) and Madison Leonard (Juliette)
+  in Roméo et Juliette, Wolf Trap Opera, 2018. Photo: Scott Suchman.'
+publishDate: "2018-07-17T19:42:00-04:00"
+related_companies:
+- scene/companies/wolf-trap-opera.md
+short_description: The contemporary setting didn&#039;t feel like a gimmick but a
+  way to make the characters that much more relatable, and the overall effect was
+  that of a John Hughes movie. Muller&#039;s approach gets teenagers and how they
+  feel emotion so intensely that it can turn fatal in an instant.
+slug: swept-away-roméo-et-juliette
+title: 'Swept away: Roméo et Juliette'
+---
 Having spent the better part of the weekend binging the latest season of _Anne with an E_, Netflix's big-hearted adaptation of the classic Anne of Green Gables novels, I arrived at Wolf Trap on Sunday afternoon fully prepared to be swept away by what Anne Shirley would longingly call "a tragical romance."
 
 And I was.

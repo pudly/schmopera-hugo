@@ -1,14 +1,18 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2016-11-14T13:36:00+00:00"
-lastmod = "2016-11-14T15:36:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479137420805/2016-11-15---Pianist.jpg.jpg"
-publishDate = "2016-11-14T15:36:00+00:00"
-short_description = "It&#039;s hard to describe why (acoustic physicists, please feel free to chime in here), but sometimes a singular note, played on the piano, can be hard to understand. It&#039;s not that the singer can&#039;t hear it, but the note lacks context."
-slug = "being-a-helpful-pianist-a-note-on-starting-notes"
-title = "Being a helpful pianist: a note on starting notes"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2016-11-14T13:36:00+00:00"
+lastmod: "2016-11-14T15:36:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479137420805/2016-11-15---Pianist.jpg.jpg
+publishDate: "2016-11-14T15:36:00+00:00"
+short_description: It&#039;s hard to describe why (acoustic physicists, please feel
+  free to chime in here), but sometimes a singular note, played on the piano, can
+  be hard to understand. It&#039;s not that the singer can&#039;t hear it, but the
+  note lacks context.
+slug: being-a-helpful-pianist-a-note-on-starting-notes
+title: 'Being a helpful pianist: a note on starting notes'
+---
 
 Unless a singer has perfect pitch (and a few of you lucky ones do), they'll appreciate being given a starting pitch from the rehearsal pianist. Often, a pianist's first instinct is to do exactly that: they play the singer's first note on the piano, with one finger, once. A note is a note, right?
 

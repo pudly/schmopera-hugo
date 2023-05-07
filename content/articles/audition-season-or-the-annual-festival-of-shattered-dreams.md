@@ -1,16 +1,34 @@
-+++
-author = ["authors/anonymous.md"]
-categories = "Op-ed"
-date = "2016-10-08T14:23:00-04:00"
-lastmod = "2017-08-02T21:42:00-04:00"
-preamble = "This is a guest submission by an author who is a current figure in the operatic industry. Due to the significant professional risk associated with the topic, the author wishes to remain anonymous."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501724548681/2017-08-02---Shattered.jpg.jpg"
-publishDate = "2016-10-11T04:00:00-04:00"
-related_articles = ["articles/in-defence-of-singers.md","articles/new-opera-honest-marketing.md","articles/artists-administration-reputations.md","articles/when-lost-find-roots.md","articles/the-time-i-spilled-some-secrets-into-a-microphone.md","articles/why-we-must-keep-on-keepin-on.md","articles/i-didnt-get-in-a-short-story-about-clarity.md","articles/stop-shaming-adele.md","articles/no-opera-is-not-misogynist.md","articles/4-unwritten-skills-professional-singers-need.md","articles/music-degrees-expectations-4-tips-for-new-students.md","articles/some-uncomfortable-questions-about-the-levine-business.md","articles/milan-milisavljevic.md"]
-short_description = "The business of opera is at times wonderful and at other times loathsome. It is, sadly, mostly run by the ill-informed and the ill-equipped. It is therefore oftentimes arbitrary and frivolous though it can sometimes be sublime."
-slug = "audition-season-or-the-annual-festival-of-shattered-dreams"
-title = "Audition season, or the annual Festival of Shattered Dreams"
-+++
+---
+author:
+- authors/anonymous.md
+categories: Op-ed
+date: "2016-10-08T14:23:00-04:00"
+lastmod: "2017-08-02T21:42:00-04:00"
+preamble: This is a guest submission by an author who is a current figure in the operatic
+  industry. Due to the significant professional risk associated with the topic, the
+  author wishes to remain anonymous.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501724548681/2017-08-02---Shattered.jpg.jpg
+publishDate: "2016-10-11T04:00:00-04:00"
+related_articles:
+- articles/in-defence-of-singers.md
+- articles/new-opera-honest-marketing.md
+- articles/artists-administration-reputations.md
+- articles/when-lost-find-roots.md
+- articles/the-time-i-spilled-some-secrets-into-a-microphone.md
+- articles/why-we-must-keep-on-keepin-on.md
+- articles/i-didnt-get-in-a-short-story-about-clarity.md
+- articles/stop-shaming-adele.md
+- articles/no-opera-is-not-misogynist.md
+- articles/4-unwritten-skills-professional-singers-need.md
+- articles/music-degrees-expectations-4-tips-for-new-students.md
+- articles/some-uncomfortable-questions-about-the-levine-business.md
+- articles/milan-milisavljevic.md
+short_description: The business of opera is at times wonderful and at other times
+  loathsome. It is, sadly, mostly run by the ill-informed and the ill-equipped. It
+  is therefore oftentimes arbitrary and frivolous though it can sometimes be sublime.
+slug: audition-season-or-the-annual-festival-of-shattered-dreams
+title: Audition season, or the annual Festival of Shattered Dreams
+---
 
 Should I stay or should I go now...
 

@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2016-09-21T21:38:00+01:00"
-lastmod = "2016-09-25T14:48:00+01:00"
-postamble = "Have a request for an Aria Guide? Let us know in the comments below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "Massenet's *Werther* is a stunner of an opera, based on the stunningly depressing novel by Goethe, *The Sorrows of Young Werther*. Charlotte is one of the few who can bring some sunshine into Werther's world of *Sturm und Drang*, and though she may reciprocate his feelings for her, she's married to another man. \n\nShortly after the famous \"Letter Scene,\" where she re-reads correspondence between her and Werther, Charlotte sings \"Va! laisse couler mes larmes\" to Sophie, her younger, more optimistic sister, telling her that it is sometimes a good thing to grieve, and not be consoled.\n\nThe aria is compact, dense, and moving, and it's also a difficult sing. With you teachers and coaches, we can help get you started."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553353627/media/2019/03/sqLarmes.jpg"
-publishDate = "2016-09-25T14:38:00+01:00"
-related_articles = ["articles/aria-guides-una-voce-poco-fa.md", "articles/aria-guides-parto-parto.md", "articles/aria-guides-the-composers-aria.md"]
-short_description = "Shortly after the famous \"Letter Scene\" where she re-reads correspondence between her and Werther, Charlotte sings \"Va! laisse couler mes larmes\" to Sophie, her younger, more optimistic sister, telling her that it is sometimes a good thing to grieve, and not be consoled."
-slug = "aria-guides-va-laisse-couler-mes-larmes"
-title = "Aria guides: Va, laisse couler mes larmes"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2016-09-21T21:38:00+01:00"
+lastmod: "2016-09-25T14:48:00+01:00"
+postamble: Have a request for an Aria Guide? Let us know in the comments below, or
+  get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+preamble: "Massenet's *Werther* is a stunner of an opera, based on the stunningly
+  depressing novel by Goethe, *The Sorrows of Young Werther*. Charlotte is one of
+  the few who can bring some sunshine into Werther's world of *Sturm und Drang*, and
+  though she may reciprocate his feelings for her, she's married to another man. \n\nShortly
+  after the famous \"Letter Scene,\" where she re-reads correspondence between her
+  and Werther, Charlotte sings \"Va! laisse couler mes larmes\" to Sophie, her younger,
+  more optimistic sister, telling her that it is sometimes a good thing to grieve,
+  and not be consoled.\n\nThe aria is compact, dense, and moving, and it's also a
+  difficult sing. With you teachers and coaches, we can help get you started."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553353627/media/2019/03/sqLarmes.jpg
+publishDate: "2016-09-25T14:38:00+01:00"
+related_articles:
+- articles/aria-guides-una-voce-poco-fa.md
+- articles/aria-guides-parto-parto.md
+- articles/aria-guides-the-composers-aria.md
+short_description: Shortly after the famous "Letter Scene" where she re-reads correspondence
+  between her and Werther, Charlotte sings "Va! laisse couler mes larmes" to Sophie,
+  her younger, more optimistic sister, telling her that it is sometimes a good thing
+  to grieve, and not be consoled.
+slug: aria-guides-va-laisse-couler-mes-larmes
+title: 'Aria guides: Va, laisse couler mes larmes'
+---
 1. The _a cappella_ opening to this aria, plus the imperative, "Va!" can add up to an angry start for Charlotte. Though the first phrase has strength, what she says afterwards is comforting, not accusatory. So, using the _forte_ marking, try for an effect that's not a retort, but instead a release of tension. The tenuto markings over "Va!" and "mes" are about the vowels, so resist the urge to emphasize with the consonants. Massenet is asking you to enjoy the trip on "mes larmes," and a small portamento between the F and D is effective, and helpful for arriving with a conductor on the downbeat.<figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474490184250/Aria-Guide---Charlotte---p1---annotated---cut.jpg.jpg)

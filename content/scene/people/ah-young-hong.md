@@ -1,23 +1,22 @@
-+++
-date = "2017-12-08T19:55:00-05:00"
-discipline = "Soprano"
-lastmod = "2017-12-08T19:55:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512780434636/RNA_PCRichardAnderson.jpg.jpg"
-primary_image_credit = "Richard Anderson"
-publishDate = "2017-12-08T19:55:00-05:00"
-slug = "ah-young-hong"
-title = "Ah Young Hong"
-website = "https://www.ahyounghong.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Ah-Young-Hong-852249774866336/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/ahyounghongsop/"
-_template = "people_single"
-+++
+---
+date: "2017-12-08T19:55:00-05:00"
+discipline: Soprano
+lastmod: "2017-12-08T19:55:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512780434636/RNA_PCRichardAnderson.jpg.jpg
+primary_image_credit: Richard Anderson
+publishDate: "2017-12-08T19:55:00-05:00"
+slug: ah-young-hong
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Ah-Young-Hong-852249774866336/
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/ahyounghongsop/
+title: Ah Young Hong
+website: https://www.ahyounghong.com/
+---
 
 Renowned for her artistic versatility, soprano Ah Young Hong has interpreted a vast array of repertoire, ranging from the music of Bach and Monteverdi to the songs of Poulenc and Shostakovich to the works of some of the 21st century’s most prominent composers.
 

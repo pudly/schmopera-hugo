@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2018-06-04T22:52:00-04:00"
-lastmod = "2018-06-04T22:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528166670515/sqSemiFinalAria-8.jpg.jpg"
-primary_image_credit = "Canadian mezzo-soprano Emily D'Angelo in the Aria Semifinals of the 2018 Concours musical international de Montréal. Photo: Tam Lan Truong Photography."
-publishDate = "2018-06-04T22:52:00-04:00"
-related_articles = ["articles/spotlight-on-rihab-chaieb.md","articles/talking-with-singers-andrew-haji.md","articles/the-2018-cmim-begins.md","articles/cmim-finals-one-out-of-three-aint-bad.md"]
-short_description = "With the anticipation of a good cliffhanger, I&#039;ll head back to Maison symphonique tomorrow night for the remaining six semifinalists. Make sure you watch live via CMIM&#039;s webcast, starting at 7:30pm ET. And if you missed Monday&#039;s Semifinal I, catch up below:"
-slug = "anticipation-cmim-aria-semifinals-part-i"
-title = "Anticipation: CMIM Aria Semifinals, part I"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2018-06-04T22:52:00-04:00"
+lastmod: "2018-06-04T22:52:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528166670515/sqSemiFinalAria-8.jpg.jpg
+primary_image_credit: 'Canadian mezzo-soprano Emily D''Angelo in the Aria Semifinals
+  of the 2018 Concours musical international de Montréal. Photo: Tam Lan Truong Photography.'
+publishDate: "2018-06-04T22:52:00-04:00"
+related_articles:
+- articles/spotlight-on-rihab-chaieb.md
+- articles/talking-with-singers-andrew-haji.md
+- articles/the-2018-cmim-begins.md
+- articles/cmim-finals-one-out-of-three-aint-bad.md
+short_description: 'With the anticipation of a good cliffhanger, I&#039;ll head back
+  to Maison symphonique tomorrow night for the remaining six semifinalists. Make sure
+  you watch live via CMIM&#039;s webcast, starting at 7:30pm ET. And if you missed
+  Monday&#039;s Semifinal I, catch up below:'
+slug: anticipation-cmim-aria-semifinals-part-i
+title: 'Anticipation: CMIM Aria Semifinals, part I'
+---
 
 The first six semifinalists for the 2018 Concours musical international de Montréal just finished singing on the stage of the Maison symphonique, backed by the Orchestre symphonique de Montréal under Graeme Jenkins.
 

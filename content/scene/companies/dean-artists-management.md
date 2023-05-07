@@ -1,19 +1,20 @@
-+++
-date = "2015-03-30T22:20:00-04:00"
-lastmod = "2015-10-31T14:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446314894138/Logo---DAM.jpg.jpg"
-publishDate = "2015-03-30T22:20:00-04:00"
-related_people = ["scene/people/alia-rosenstock.md"]
-slug = "dean-artists-management"
-title = "Dean Artists Management"
-type_of_company = "Artist Management Agency"
-website = "http://deanartists.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/DeanArtists"
-_template = "company_single"
-+++
+---
+date: "2015-03-30T22:20:00-04:00"
+lastmod: "2015-10-31T14:08:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446314894138/Logo---DAM.jpg.jpg
+publishDate: "2015-03-30T22:20:00-04:00"
+related_people:
+- scene/people/alia-rosenstock.md
+slug: dean-artists-management
+social_media:
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/DeanArtists
+title: Dean Artists Management
+type_of_company: Artist Management Agency
+website: http://deanartists.com/
+---
 
 <p>
 	Dean Artists Management brings over twenty years of excellence and expertise to the management of classically trained singers, conductors, opera directors and choreographers.

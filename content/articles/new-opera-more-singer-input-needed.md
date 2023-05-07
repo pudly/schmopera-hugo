@@ -1,18 +1,36 @@
-+++
-author = ["authors/michael-ching.md"]
-categories = "Op-ed"
-date = "2015-09-07T22:03:00-04:00"
-lastmod = "2015-09-09T08:06:00-04:00"
-preamble = "This is a guest contribution by American composer and conductor Michael Ching. He is known for *Buoso's Ghost* (1996), *Corps of Discovery* (2003), *Slaying the Dragon* (2012), *Speed Dating Tonight!* (2013), and an *a cappella* setting of Shakespeare's *A Midsummer Night's Dream* (2011). After you're done reading, check out his blog, [Opera and Beyond](http://operaandbeyond.blogspot.ca/). You can also catch *Speed Dating Tonight!* at Opera McGill this November. For details, follow the box office links below."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441717333942/MC-in-fountain-L-MurpheySquare.jpg.jpg"
-primary_image_credit = "Photo by Lance Murphey."
-publishDate = "2015-09-09T08:04:00-04:00"
-related_articles = ["articles/the-future-of-opera-is-indie.md","articles/conductors-what-else-do-they-tell-us.md","articles/michael-park-on-opera-disease.md","articles/the-score-how-to-see-what-a-composer-sees.md","articles/living-up-to-its-name-experiments-in-opera.md"]
-related_companies = ["scene/companies/savannah-voice-festival.md","scene/companies/opera-mcgill.md"]
-short_description = "Historical memory in opera production is very short. It is probably a shorthand that is not intended to insult, but as time passes we forget the directors, designers, singers and producers of an opera. Even the librettists can get left behind. It is a shame and creates the perception that composers are all Wagnerian control freaks whose work arrives perfectly formed."
-slug = "new-opera-more-singer-input-needed"
-title = "New Opera: More Singer Input Needed"
-+++
+---
+author:
+- authors/michael-ching.md
+categories: Op-ed
+date: "2015-09-07T22:03:00-04:00"
+lastmod: "2015-09-09T08:06:00-04:00"
+preamble: This is a guest contribution by American composer and conductor Michael
+  Ching. He is known for *Buoso's Ghost* (1996), *Corps of Discovery* (2003), *Slaying
+  the Dragon* (2012), *Speed Dating Tonight!* (2013), and an *a cappella* setting
+  of Shakespeare's *A Midsummer Night's Dream* (2011). After you're done reading,
+  check out his blog, [Opera and Beyond](http://operaandbeyond.blogspot.ca/). You
+  can also catch *Speed Dating Tonight!* at Opera McGill this November. For details,
+  follow the box office links below.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441717333942/MC-in-fountain-L-MurpheySquare.jpg.jpg
+primary_image_credit: Photo by Lance Murphey.
+publishDate: "2015-09-09T08:04:00-04:00"
+related_articles:
+- articles/the-future-of-opera-is-indie.md
+- articles/conductors-what-else-do-they-tell-us.md
+- articles/michael-park-on-opera-disease.md
+- articles/the-score-how-to-see-what-a-composer-sees.md
+- articles/living-up-to-its-name-experiments-in-opera.md
+related_companies:
+- scene/companies/savannah-voice-festival.md
+- scene/companies/opera-mcgill.md
+short_description: Historical memory in opera production is very short. It is probably
+  a shorthand that is not intended to insult, but as time passes we forget the directors,
+  designers, singers and producers of an opera. Even the librettists can get left
+  behind. It is a shame and creates the perception that composers are all Wagnerian
+  control freaks whose work arrives perfectly formed.
+slug: new-opera-more-singer-input-needed
+title: 'New Opera: More Singer Input Needed'
+---
 
 Historical memory in opera production is very short. It is probably a shorthand that is not intended to insult, but as time passes we forget the directors, designers, singers and producers of an opera. Even the librettists can get left behind. It is a shame and creates the perception that composers are all Wagnerian control freaks whose work arrives perfectly formed.
 

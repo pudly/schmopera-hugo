@@ -1,22 +1,30 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-09-22T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569198345/media/2019/09/sqMichaelChioldi_withOrchestra_ryga9k.jpg"
-primary_image_credit = "Michael Chioldi in Henry VIII, Odyssey Opera, 2019. Photo: Kathy Wittman."
-related_articles = ["articles/chemistry-sizzles-onstage-in-paride-ed-elena.md", "articles/in-review-stiffelio.md"]
-related_companies = ["scene/companies/odyssey-opera.md"]
-related_people = ["scene/people/michael-chioldi.md"]
-short_description = "Of course, when the music found its dramatic stride, Saint-Saëns could deliver the drama in spades.The septet (actually an octet) that closed Act II made me wonder why it was cut to begin with, for it's the perfect musical climax to the second act."
-slug = "grand-if-overlong-henry-viii"
-title = "Grand, if overlong, Henry VIII"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-09-22T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569198345/media/2019/09/sqMichaelChioldi_withOrchestra_ryga9k.jpg
+primary_image_credit: 'Michael Chioldi in Henry VIII, Odyssey Opera, 2019. Photo:
+  Kathy Wittman.'
+related_articles:
+- articles/chemistry-sizzles-onstage-in-paride-ed-elena.md
+- articles/in-review-stiffelio.md
+related_companies:
+- scene/companies/odyssey-opera.md
+related_people:
+- scene/people/michael-chioldi.md
+short_description: Of course, when the music found its dramatic stride, Saint-Saëns
+  could deliver the drama in spades.The septet (actually an octet) that closed Act
+  II made me wonder why it was cut to begin with, for it's the perfect musical climax
+  to the second act.
+slug: grand-if-overlong-henry-viii
+title: Grand, if overlong, Henry VIII
+youtube_url: ""
+---
 This is perhaps the second season in a row that [Odyssey Opera](/scene/companies/odyssey-opera/) has chosen to open their season with a French grand opera from the Romantic era. From an artistic standpoint, this makes a certain amount of programming sense: these operas are typically grandiose, and they fit perfectly in Odyssey Opera's mission statement of performing repertoire that is commonly underperformed today.
 
 > It can veer on the side of being overlong, and goodness was this opera overlong.

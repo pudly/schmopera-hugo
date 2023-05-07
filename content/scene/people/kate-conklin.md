@@ -1,18 +1,18 @@
-+++
-date = "2016-08-30T10:49:00+01:00"
-discipline = "Soprano, teacher"
-lastmod = "2016-08-30T10:49:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472550365558/kate-cover-headshot.jpg.jpg"
-publishDate = "2016-08-30T10:49:00+01:00"
-slug = "kate-conklin"
-title = "Kate Conklin"
-website = "http://kateconklin.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/kateconklin"
-_template = "people_single"
-+++
+---
+date: "2016-08-30T10:49:00+01:00"
+discipline: Soprano, teacher
+lastmod: "2016-08-30T10:49:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472550365558/kate-cover-headshot.jpg.jpg
+publishDate: "2016-08-30T10:49:00+01:00"
+slug: kate-conklin
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/kateconklin
+title: Kate Conklin
+website: http://kateconklin.com/
+---
 
 Kate Conklin is a soprano and a leading interpreter of the highly ornamented vocal music of Bulgaria.
 

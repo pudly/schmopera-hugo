@@ -1,22 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2019-01-16T18:19:31+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "The world premiere of _Hook Up_, directed by Richard Greenblatt, runs January 29 to February 9 at Theatre Passe Muraille, 16 Ryerson Ave. For details and ticket information, [click here.](https://tapestryopera.com/hook-up/)"
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547666757/media/2019/01/sqHookUp.jpg"
-primary_image_credit = "Artwork by Patrick Hunter."
-related_articles = ["articles/tapestry-operas-selfie-talks-online-bullying.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/michael-mori.md", "scene/people/chris-thornborrow.md"]
-short_description = "Composer Chris Thornborrow, librettist Julie Tepperman, and director/dramaturge Richard Greenblatt, dare to tell an uncomfortably familiar story that, today, is full of the themes that permeate every news story and piece of media we consume."
-slug = "familiar-stories-hook-up"
-title = "Familiar stories: Hook&nbsp;Up"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-01-16T18:19:31+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: The world premiere of _Hook Up_, directed by Richard Greenblatt, runs January
+  29 to February 9 at Theatre Passe Muraille, 16 Ryerson Ave. For details and ticket
+  information, [click here.](https://tapestryopera.com/hook-up/)
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1547666757/media/2019/01/sqHookUp.jpg
+primary_image_credit: Artwork by Patrick Hunter.
+related_articles:
+- articles/tapestry-operas-selfie-talks-online-bullying.md
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/michael-mori.md
+- scene/people/chris-thornborrow.md
+short_description: Composer Chris Thornborrow, librettist Julie Tepperman, and director/dramaturge
+  Richard Greenblatt, dare to tell an uncomfortably familiar story that, today, is
+  full of the themes that permeate every news story and piece of media we consume.
+slug: familiar-stories-hook-up
+title: 'Familiar stories: Hook&nbsp;Up'
+youtube_url: ""
+---
 [Tapestry Opera](/scene/companies/tapestry-opera/), the Toronto-based opera company with a nearly four-decade-long history of producing new works, rarely puts something on its stage without a great deal of thought.
 
 That thoughtful reputation certainly comes in handy with [_Hook Up_](https://tapestryopera.com/hook-up/), Tapestry's upcoming world premiere set to run January 29 to February 9 at Theatre Passe Muraille. Composer Chris Thornborrow, librettist Julie Tepperman, and director/dramaturge Richard Greenblatt, dare to tell an uncomfortably familiar story that, today, is full of the themes that permeate every news story and piece of media we consume.

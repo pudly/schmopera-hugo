@@ -1,22 +1,35 @@
-+++
-author = ["authors/joshua-chong.md"]
-categories = "Review"
-date = 2021-06-06T04:00:00Z
-disclaimer = "This review was originally published on _Opera Canada_. It is reposted here with permission from the author."
-image_gallery = []
-postamble = "Opera Atelier’s filmed production of The Resurrection is streaming until June 10. Tickets and more information can be found [here](https://www.operaatelier.com/season-and-tickets/2020-2021-season/handel-the-resurrection-opera-atelier)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1622747083/media/2021/06/sqOA-TheResurrection-BruceZinger_jkkjle.jpg"
-primary_image_credit = "Meghan Lindsay (left) and Allyson McHardy in Handel's The Resurrection, Opera Atelier, 2021. Photo: Bruce Zinger."
-related_articles = []
-related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md", "scene/companies/opera-atelier.md"]
-related_people = ["scene/people/douglas-williams.md", "scene/people/allyson-mchardy.md", "scene/people/carla-huhtanen.md", "scene/people/meghan-lindsay.md", "scene/people/colin-ainsworth.md"]
-short_description = "What a pity, then, that Zingg and Pynkoski’s production couldn’t be showcased on a traditional stage, like that of Koerner Hall—where this production was originally set to premiere in April 2020—or the Elgin Theatre, Opera Atelier’s de facto home."
-slug = "opera-ateliers-the-resurrection-is-resplendent-art-in-the-face-of-adversity"
-title = "Opera Atelier’s The Resurrection is resplendent art in the face of adversity"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/joshua-chong.md
+categories: Review
+date: "2021-06-06T04:00:00Z"
+disclaimer: This review was originally published on _Opera Canada_. It is reposted
+  here with permission from the author.
+image_gallery: []
+postamble: Opera Atelier’s filmed production of The Resurrection is streaming until
+  June 10. Tickets and more information can be found [here](https://www.operaatelier.com/season-and-tickets/2020-2021-season/handel-the-resurrection-opera-atelier).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1622747083/media/2021/06/sqOA-TheResurrection-BruceZinger_jkkjle.jpg
+primary_image_credit: 'Meghan Lindsay (left) and Allyson McHardy in Handel''s The
+  Resurrection, Opera Atelier, 2021. Photo: Bruce Zinger.'
+related_articles: []
+related_companies:
+- scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md
+- scene/companies/opera-atelier.md
+related_people:
+- scene/people/douglas-williams.md
+- scene/people/allyson-mchardy.md
+- scene/people/carla-huhtanen.md
+- scene/people/meghan-lindsay.md
+- scene/people/colin-ainsworth.md
+short_description: What a pity, then, that Zingg and Pynkoski’s production couldn’t
+  be showcased on a traditional stage, like that of Koerner Hall—where this production
+  was originally set to premiere in April 2020—or the Elgin Theatre, Opera Atelier’s
+  de facto home.
+slug: opera-ateliers-the-resurrection-is-resplendent-art-in-the-face-of-adversity
+title: Opera Atelier’s The Resurrection is resplendent art in the face of adversity
+youtube_url: ""
+---
 Georg Frideric Handel's _The Resurrection_ is really an oratorio in name only. Discounting its liturgical basis, the piece has all the hallmarks of a baroque opera seria: dramatic characters, a clear—albeit skimpy—plot and a theatricality in the libretto that demands the use of elaborate sets and costumes.
 
 But when _The Resurrection_ premiered in 1708, Pope Clement XI had shuttered theatres and banned operas. That, however, didn’t dissuade Handel and his contemporaries, who simply skirted the laws by disguising their operas as oratorios—using Biblical characters to tell allegorical stories, and presenting these works as concerts rather than full theatrical productions.

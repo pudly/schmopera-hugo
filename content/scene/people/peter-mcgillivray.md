@@ -1,24 +1,26 @@
-+++
-date = "2015-04-12T11:02:00-04:00"
-discipline = "Baritone"
-lastmod = "2015-04-12T11:04:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428851026302/MCGILLIVRAY-PHOTO.jpg.jpg"
-publishDate = "2015-04-12T11:02:00-04:00"
-related_companies = ["scene/companies/calgary-opera.md", "scene/companies/edmonton-opera.md", "scene/companies/tapestry-opera.md", "scene/companies/the-dallas-opera.md"]
-slug = "peter-mcgillivray"
-title = "Peter McGillivray"
-website = "http://petermcgillivray.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/PeterMcGillivrayBaritone?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/pmcgillivray"
-
-_template = "people_single"
-+++
+---
+date: "2015-04-12T11:02:00-04:00"
+discipline: Baritone
+lastmod: "2015-04-12T11:04:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428851026302/MCGILLIVRAY-PHOTO.jpg.jpg
+publishDate: "2015-04-12T11:02:00-04:00"
+related_companies:
+- scene/companies/calgary-opera.md
+- scene/companies/edmonton-opera.md
+- scene/companies/tapestry-opera.md
+- scene/companies/the-dallas-opera.md
+slug: peter-mcgillivray
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/PeterMcGillivrayBaritone?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/pmcgillivray
+title: Peter McGillivray
+website: http://petermcgillivray.com/
+---
 The award-winning Saskatchewan-born baritone **Peter McGillivray** begins his 2022-23 season as Don Magnifico in Manitoba Opera’s _La Cenerentola_ followed by a role debut as Bottom in Vancouver Opera’s _A Midsummer Night’s Dream_. 2021-22 saw Peter take on Sir Joseph Porter in Vancouver Opera’s _HMS Pinafore_ and return to Don Magnifico for Brott Opera. His 2019-2020 season began with Schaunard in _La bohème_ for Calgary Opera followed by one of his signature roles, Doctor Bartolo, in _Le nozze di Figaro_ for Edmonton Opera. Peter rounded out the season with Tapestry Opera’s _Rocking Horse Winner,_ reimagined for the digital world due to the coronavirus pandemic.
 
 Other recent opera projects include Don Pizarro in _Fidelio_ and Stárek in _Jenůfa_ for Pacific Opera Victoria, Don Magnifico in _La Cenerentola_ with Vancouver Opera, and Bartolo in _Il barbiere di Siviglia_ for l’Opéra de Québec and Calgary Opera. Of particular note was his creation of dual roles in _The_ _Overcoat, A Musical Tailoring_, a co-production directed by Morris Panych for Canadian Stage, Tapestry Opera and Vancouver Opera.

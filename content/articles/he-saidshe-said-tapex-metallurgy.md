@@ -1,19 +1,36 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Review"
-date = "2015-11-20T09:34:00-05:00"
-lastmod = "2015-11-20T12:47:00-05:00"
-preamble = "Contributor [Greg Finney](/scene/people/gregory-finney/) and I went to Tapestry Opera's opening of Tap:Ex Metallurgy last night. It was one of those shows where one review didn't seem to do it justice. So, here's our She said/He said account of one of the coolest operatic events we'd ever seen."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448034556710/2015-11-20---TapEx---square---David-Pomeroy%2C-Krisztina-Szab%C3%B3-and-Mike-Haliechuk-in-TAP-EX-METALLURGY-photo-by-Dahlia-Katz.jpg.jpg"
-primary_image_credit = "David Pomeroy, Krisztina Szabó, and Mike Haliechuk in Tap:Ex Metallurgy. Photo by Dahlia Katz."
-publishDate = "2015-11-20T12:46:00-05:00"
-related_articles = ["articles/the-positive-impact-of-community-created-performances.md","articles/dont-miss-tapex-forbidden-we-are-tough-and-resilient.md","articles/a-wellexecuted-mashup-tapex-forbidden.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/krisztina-szab.md","scene/people/david-pomeroy.md","scene/people/michael-mori.md"]
-short_description = "Contributor Greg Finney and I went to Tapestry Opera&#039;s opening of Tap:Ex Metallurgy last night. It was one of those shows where one review didn&#039;t seem to do it justice. So, here&#039;s our She said/He said account of one of the coolest operatic events we&#039;d ever seen."
-slug = "he-saidshe-said-tapex-metallurgy"
-title = "He said/she said: Tap:Ex Metallurgy"
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Review
+date: "2015-11-20T09:34:00-05:00"
+lastmod: "2015-11-20T12:47:00-05:00"
+preamble: Contributor [Greg Finney](/scene/people/gregory-finney/) and I went to Tapestry
+  Opera's opening of Tap:Ex Metallurgy last night. It was one of those shows where
+  one review didn't seem to do it justice. So, here's our She said/He said account
+  of one of the coolest operatic events we'd ever seen.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448034556710/2015-11-20---TapEx---square---David-Pomeroy%2C-Krisztina-Szab%C3%B3-and-Mike-Haliechuk-in-TAP-EX-METALLURGY-photo-by-Dahlia-Katz.jpg.jpg
+primary_image_credit: David Pomeroy, Krisztina Szabó, and Mike Haliechuk in Tap:Ex
+  Metallurgy. Photo by Dahlia Katz.
+publishDate: "2015-11-20T12:46:00-05:00"
+related_articles:
+- articles/the-positive-impact-of-community-created-performances.md
+- articles/dont-miss-tapex-forbidden-we-are-tough-and-resilient.md
+- articles/a-wellexecuted-mashup-tapex-forbidden.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/krisztina-szab.md
+- scene/people/david-pomeroy.md
+- scene/people/michael-mori.md
+short_description: Contributor Greg Finney and I went to Tapestry Opera&#039;s opening
+  of Tap:Ex Metallurgy last night. It was one of those shows where one review didn&#039;t
+  seem to do it justice. So, here&#039;s our She said/He said account of one of the
+  coolest operatic events we&#039;d ever seen.
+slug: he-saidshe-said-tapex-metallurgy
+title: 'He said/she said: Tap:Ex Metallurgy'
+---
 
 ## She said:
 

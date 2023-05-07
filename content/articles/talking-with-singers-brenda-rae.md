@@ -1,19 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-20T19:14:00-04:00"
-lastmod = "2017-07-21T10:40:00-04:00"
-preamble = "American soprano [Brenda Rae](/scene/people/brenda-rae/) is used to spending her time high above the staff; currently, she's pairing high singing with the heights of Santa Fe, as she takes on the title role of [*Lucia di Lammermoor* at The Santa Fe Opera](https://www.santafeopera.org/operas-and-ticketing/lucia-di-lammermoor).\n\nWe first heard Rae as [Lulu at English National Opera](/in-review-lulu-at-eno/) in 2016, so it was a treat to chat with her about Mad Scenes, women who aren't weak, and one-of-a-kind performance spaces."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500592865433/2017-07-21---Hoebermann---Rae---square.jpg.jpg"
-primary_image_credit = "Photo by Kristin Hoebermann."
-publishDate = "2017-07-21T10:27:00-04:00"
-related_articles = ["articles/talking-with-singers-ailyn-perez.md","articles/talking-with-singers-corinne-winters.md","articles/talking-with-singers-daniela-mack.md","articles/young-singers-in-santa-fe-kasia-borowiec.md","articles/young-singers-in-santa-fe-adelaide-boedecker.md","articles/young-singers-in-santa-fe-stephen-martin.md","articles/simone-osborne.md"]
-related_companies = ["scene/companies/the-santa-fe-opera.md"]
-related_people = ["scene/people/brenda-rae.md"]
-short_description = "&quot;For me, the key to a great Mad Scene is freedom. It&#039;s good to have parameters, but when there&#039;s freedom, I can do something unexpected which I think keeps the scene really fresh, and lends to the &#039;mad&#039; quality of it! Musically, dynamics are key, and really help to keep the audience on the edge of their seats.&quot;"
-slug = "talking-with-singers-brenda-rae"
-title = "Talking with singers: Brenda Rae"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-20T19:14:00-04:00"
+lastmod: "2017-07-21T10:40:00-04:00"
+preamble: |-
+  American soprano [Brenda Rae](/scene/people/brenda-rae/) is used to spending her time high above the staff; currently, she's pairing high singing with the heights of Santa Fe, as she takes on the title role of [*Lucia di Lammermoor* at The Santa Fe Opera](https://www.santafeopera.org/operas-and-ticketing/lucia-di-lammermoor).
+
+  We first heard Rae as [Lulu at English National Opera](/in-review-lulu-at-eno/) in 2016, so it was a treat to chat with her about Mad Scenes, women who aren't weak, and one-of-a-kind performance spaces.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500592865433/2017-07-21---Hoebermann---Rae---square.jpg.jpg
+primary_image_credit: Photo by Kristin Hoebermann.
+publishDate: "2017-07-21T10:27:00-04:00"
+related_articles:
+- articles/talking-with-singers-ailyn-perez.md
+- articles/talking-with-singers-corinne-winters.md
+- articles/talking-with-singers-daniela-mack.md
+- articles/young-singers-in-santa-fe-kasia-borowiec.md
+- articles/young-singers-in-santa-fe-adelaide-boedecker.md
+- articles/young-singers-in-santa-fe-stephen-martin.md
+- articles/simone-osborne.md
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+related_people:
+- scene/people/brenda-rae.md
+short_description: '&quot;For me, the key to a great Mad Scene is freedom. It&#039;s
+  good to have parameters, but when there&#039;s freedom, I can do something unexpected
+  which I think keeps the scene really fresh, and lends to the &#039;mad&#039; quality
+  of it! Musically, dynamics are key, and really help to keep the audience on the
+  edge of their seats.&quot;'
+slug: talking-with-singers-brenda-rae
+title: 'Talking with singers: Brenda Rae'
+---
 
 ## What do you find are some common misconceptions about the character of *Lucia di Lammermoor*?
 

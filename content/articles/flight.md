@@ -1,22 +1,29 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = 2020-01-28T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Minnesota Opera's production of [_Flight_](https://mnopera.org/shows-tickets/) runs through February 2."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1580235351/media/2020/01/sqDN3_3767_jpinzo.jpg"
-primary_image_credit = " The cast of Minnesota Opera's staging of Flight, 2020. Photo: Dan Norman."
-related_articles = ["articles/layered-comedy-flight.md", "articles/talking-with-composers-jonathan-dove.md"]
-related_companies = ["scene/companies/minnesota-opera.md"]
-related_people = []
-short_description = "It seemed to be a two-and-a-half-hour opera about people being their worst in a confined space. It was, basically, a series of vignettes that could be amusing and meaningful in a shorter format."
-slug = "a-vague-ensemble-opera-flight"
-title = "A vague ensemble opera: Flight"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2020-01-28T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Minnesota Opera's production of [_Flight_](https://mnopera.org/shows-tickets/)
+  runs through February 2.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1580235351/media/2020/01/sqDN3_3767_jpinzo.jpg
+primary_image_credit: ' The cast of Minnesota Opera''s staging of Flight, 2020. Photo:
+  Dan Norman.'
+related_articles:
+- articles/layered-comedy-flight.md
+- articles/talking-with-composers-jonathan-dove.md
+related_companies:
+- scene/companies/minnesota-opera.md
+related_people: []
+short_description: It seemed to be a two-and-a-half-hour opera about people being
+  their worst in a confined space. It was, basically, a series of vignettes that could
+  be amusing and meaningful in a shorter format.
+slug: a-vague-ensemble-opera-flight
+title: 'A vague ensemble opera: Flight'
+youtube_url: ""
+---
 On Saturday, January 25, 2020, Minnesota Opera opened their production of _Flight_, with music by Johnathan Dove and libretto by April De Angelis. The opera, inspired by the story of Persian refugee Mehran Nasseri, was commissioned by Glyndebourne Opera in 1998; this was the Minnesota premiere of the work.
 
 The set was simple - how much can you really glam up an airport terminal? The controller room was upper stage left, benches below with a gate desk, and a staircase upstage. Behind all that, there were projections of the runway, an effective addition to the haziness of the score. The orchestration was spot-on in conveying the bored anticipation/time warp of the terminal life. [Geoffrey McDonald](https://www.geoffreyandrewmcdonald.com/) leads the orchestra in Dove's surprisingly tonal score. [David Radames Toro](https://www.dtorodirects.com/) directs the show faithfully to the libretto and score.

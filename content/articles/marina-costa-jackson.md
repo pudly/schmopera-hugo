@@ -1,22 +1,36 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = 2023-02-01T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "[San Diego Opera's double-bill of _Suor Angelica_ and _Gianni Schicchi_](https://www.sdopera.org/shows/suor-schicchi-2022/) runs February 11-19, 2023 at the San Diego Civic Theatre."
-preamble = "American-Italian soprano [Marina Costa-Jackson](/scene/people/marina-costa-jackson/) will be singing the title role in _Suor Angelica_ and Lauretta in _Gianni Schicchi_ in a [double-bill at the San Diego Opera](https://www.sdopera.org/shows/suor-schicchi-2022/) on February 11, 2023, with additional performances on February 14, 17, and 19."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675303536/media/2023/02/sqMarinaCosta-jackson_pzao3m.jpg"
-primary_image_credit = "Photo: Suzanne Vinnik."
-related_articles = ["articles/reliably-bubbly-belle-hélène-a-delight.md", "articles/carmen.md"]
-related_companies = ["scene/companies/san-diego-opera.md"]
-related_people = ["scene/people/miriam-costa-jackson.md", "scene/people/marina-costa-jackson.md", "scene/people/ginger-costajackson.md"]
-short_description = "\"Puccini really captured the raw emotionality of a mother. He always wrote his ladies so well but specifically, with Suor Angelica, there's a deep sorrow there that makes it very interesting to portray. Being a mother now, it gives me a new perspective on it. It connects on a deeper level. Frankly it's a very hard aria to get through with dry eyes.\""
-slug = "marina-costa-jackson-you-just-have-to-do-it-a-lot"
-title = "Marina Costa-Jackson: \"You just have to do it, a lot.\""
-youtube_url = ""
-
-+++
+---
+author:
+- authors/eva-cahen.md
+categories: Interview
+date: "2023-02-01T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: '[San Diego Opera''s double-bill of _Suor Angelica_ and _Gianni Schicchi_](https://www.sdopera.org/shows/suor-schicchi-2022/)
+  runs February 11-19, 2023 at the San Diego Civic Theatre.'
+preamble: American-Italian soprano [Marina Costa-Jackson](/scene/people/marina-costa-jackson/)
+  will be singing the title role in _Suor Angelica_ and Lauretta in _Gianni Schicchi_
+  in a [double-bill at the San Diego Opera](https://www.sdopera.org/shows/suor-schicchi-2022/)
+  on February 11, 2023, with additional performances on February 14, 17, and 19.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1675303536/media/2023/02/sqMarinaCosta-jackson_pzao3m.jpg
+primary_image_credit: 'Photo: Suzanne Vinnik.'
+related_articles:
+- articles/reliably-bubbly-belle-hélène-a-delight.md
+- articles/carmen.md
+related_companies:
+- scene/companies/san-diego-opera.md
+related_people:
+- scene/people/miriam-costa-jackson.md
+- scene/people/marina-costa-jackson.md
+- scene/people/ginger-costajackson.md
+short_description: '"Puccini really captured the raw emotionality of a mother. He
+  always wrote his ladies so well but specifically, with Suor Angelica, there''s a
+  deep sorrow there that makes it very interesting to portray. Being a mother now,
+  it gives me a new perspective on it. It connects on a deeper level. Frankly it''s
+  a very hard aria to get through with dry eyes."'
+slug: marina-costa-jackson-you-just-have-to-do-it-a-lot
+title: 'Marina Costa-Jackson: "You just have to do it, a lot."'
+youtube_url: ""
+---
 ## On singing, stage fright, her sisters, and the pandemic
 
 "I sing because I love the music. I'm not the typical diva because I’ve had to work through some hard-core stage fright. That was the reason I didn't sing up until I was 21 years old. I was raised in a family with sisters who sang as well, [Ginger Costa-Jackson](/scene/people/ginger-costa-jackson/) and [Miriam Costa-Jackson](/scene/people/miriam-costa-jackson/), and they always wanted me to sing. I loved the music and I loved hearing them practice and work hard towards singing and opera.

@@ -1,23 +1,123 @@
-+++
-date = "2015-04-06T14:37:00-04:00"
-lastmod = "2015-04-06T14:37:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428345194352/13371054973140834_300.jpg.jpg"
-publishDate = "2015-04-06T14:37:00-04:00"
-related_people = ["scene/people/alek-shrader.md","scene/people/anna-christy.md","scene/people/christian-van-horn.md","scene/people/christine-goerke.md","scene/people/elizabeth-deshong.md","scene/people/russell-braun.md","scene/people/kyle-ketelsen.md","scene/people/tamara-wilson.md","scene/people/sondra-radvanovsky.md","scene/people/plcido-domingo.md","scene/people/stephanie-rhodes.md","scene/people/marco-guidarini.md","scene/people/johan-botha.md","scene/people/matthew-polenzani.md","scene/people/jay-hunter-morris.md","scene/people/joseph-calleja.md","scene/people/christopher-allen.md","scene/people/juan-diego-florez.md","scene/people/peter-seiffert.md","scene/people/angel-blue.md","scene/people/musa-ngqungwana.md","scene/people/craig-colclough.md","scene/people/rene-barbera.md","scene/people/albina-shagimuratova.md","scene/people/craig-irvin.md","scene/people/gwyn-hughes-jones.md","scene/people/kate-lindsey.md","scene/people/lauren-worsham.md","scene/people/ekaterina-semenchuk.md","scene/people/george-gagnidze.md","scene/people/jnai-bridges.md","scene/people/meredith-arwardy.md","scene/people/robert-dean-smith.md","scene/people/kristinn-sigmundsson.md","scene/people/artur-rucinski.md","scene/people/joshua-guerrero.md","scene/people/lucy-schaufer.md","scene/people/lawrence-brownlee.md","scene/people/kenneth-kellogg.md","scene/people/bejun-mehta.md","scene/people/harry-bicket.md","scene/people/carlos-enrique-santelli.md","scene/people/missy-mazzoli.md","scene/people/roger-honeywell.md","scene/people/lisette-oropesa.md","scene/people/alfred-walker.md","scene/people/dmitry-korchak.md","scene/people/janai-brugger.md","scene/people/robert-orth.md","scene/people/johnathan-mccullough.md","scene/people/ana-maria-martinez.md","scene/people/philip-cokorinos.md","scene/people/theo-hoffman.md","scene/people/kelley-oconnor.md","scene/people/liv-redpath.md","scene/people/amanda-woodbury.md","scene/people/brandon-jovanovich.md","scene/people/ben-bliss.md","scene/people/brenton-ryan.md","scene/people/soloman-howard.md","scene/people/john-holiday.md","scene/people/karen-vuong.md","scene/people/andriana-chuchman.md","scene/people/andrew-wilkowske.md","scene/people/james-robinson.md","scene/people/john-pickle.md","scene/people/nino-machaidze.md","scene/people/alfredo-daza.md","scene/people/rod-gilfry.md","scene/people/jane-henschel.md","scene/people/corey-bix.md","scene/people/erwin-schrott.md","scene/people/morris-robinson.md","scene/people/liudmyla-monastyrska.md","scene/people/mario-chang.md","scene/people/laurent-naouri.md","scene/people/ryan-mckinny.md","scene/people/amanda-crider.md","scene/people/jesus-leon.md","scene/people/robert-osborne.md","scene/people/dominic-armstrong.md","scene/people/carmen-giannattasio.md","scene/people/wilhelm-schwinghammer.md","scene/people/lucas-meachem.md","scene/people/greer-grimsley.md","scene/people/arnold-livingston-geis.md","scene/people/michael-chioldi.md","scene/people/francesco-meli.md","scene/people/peabody-southwell.md","scene/people/jack-swanson.md","scene/people/brian-michael-moore.md","scene/people/matthew-scollin.md","scene/people/joshua-bloom.md","scene/people/maxim-mironov.md","scene/people/vanessa-becerra.md","scene/people/erik-anstine.md","scene/people/leela-subramaniam.md","scene/people/arturo-chaconcruz.md","scene/people/ramon-vargas.md","scene/people/anna-smirnova.md","scene/people/laquita-mitchell.md"]
-slug = "los-angeles-opera"
-title = "Los Angeles Opera"
-type_of_company = "Opera Company"
-website = "http://www.laopera.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/LAOpera?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/LAOpera"
-_template = "company_single"
-+++
+---
+date: "2015-04-06T14:37:00-04:00"
+lastmod: "2015-04-06T14:37:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428345194352/13371054973140834_300.jpg.jpg
+publishDate: "2015-04-06T14:37:00-04:00"
+related_people:
+- scene/people/alek-shrader.md
+- scene/people/anna-christy.md
+- scene/people/christian-van-horn.md
+- scene/people/christine-goerke.md
+- scene/people/elizabeth-deshong.md
+- scene/people/russell-braun.md
+- scene/people/kyle-ketelsen.md
+- scene/people/tamara-wilson.md
+- scene/people/sondra-radvanovsky.md
+- scene/people/plcido-domingo.md
+- scene/people/stephanie-rhodes.md
+- scene/people/marco-guidarini.md
+- scene/people/johan-botha.md
+- scene/people/matthew-polenzani.md
+- scene/people/jay-hunter-morris.md
+- scene/people/joseph-calleja.md
+- scene/people/christopher-allen.md
+- scene/people/juan-diego-florez.md
+- scene/people/peter-seiffert.md
+- scene/people/angel-blue.md
+- scene/people/musa-ngqungwana.md
+- scene/people/craig-colclough.md
+- scene/people/rene-barbera.md
+- scene/people/albina-shagimuratova.md
+- scene/people/craig-irvin.md
+- scene/people/gwyn-hughes-jones.md
+- scene/people/kate-lindsey.md
+- scene/people/lauren-worsham.md
+- scene/people/ekaterina-semenchuk.md
+- scene/people/george-gagnidze.md
+- scene/people/jnai-bridges.md
+- scene/people/meredith-arwardy.md
+- scene/people/robert-dean-smith.md
+- scene/people/kristinn-sigmundsson.md
+- scene/people/artur-rucinski.md
+- scene/people/joshua-guerrero.md
+- scene/people/lucy-schaufer.md
+- scene/people/lawrence-brownlee.md
+- scene/people/kenneth-kellogg.md
+- scene/people/bejun-mehta.md
+- scene/people/harry-bicket.md
+- scene/people/carlos-enrique-santelli.md
+- scene/people/missy-mazzoli.md
+- scene/people/roger-honeywell.md
+- scene/people/lisette-oropesa.md
+- scene/people/alfred-walker.md
+- scene/people/dmitry-korchak.md
+- scene/people/janai-brugger.md
+- scene/people/robert-orth.md
+- scene/people/johnathan-mccullough.md
+- scene/people/ana-maria-martinez.md
+- scene/people/philip-cokorinos.md
+- scene/people/theo-hoffman.md
+- scene/people/kelley-oconnor.md
+- scene/people/liv-redpath.md
+- scene/people/amanda-woodbury.md
+- scene/people/brandon-jovanovich.md
+- scene/people/ben-bliss.md
+- scene/people/brenton-ryan.md
+- scene/people/soloman-howard.md
+- scene/people/john-holiday.md
+- scene/people/karen-vuong.md
+- scene/people/andriana-chuchman.md
+- scene/people/andrew-wilkowske.md
+- scene/people/james-robinson.md
+- scene/people/john-pickle.md
+- scene/people/nino-machaidze.md
+- scene/people/alfredo-daza.md
+- scene/people/rod-gilfry.md
+- scene/people/jane-henschel.md
+- scene/people/corey-bix.md
+- scene/people/erwin-schrott.md
+- scene/people/morris-robinson.md
+- scene/people/liudmyla-monastyrska.md
+- scene/people/mario-chang.md
+- scene/people/laurent-naouri.md
+- scene/people/ryan-mckinny.md
+- scene/people/amanda-crider.md
+- scene/people/jesus-leon.md
+- scene/people/robert-osborne.md
+- scene/people/dominic-armstrong.md
+- scene/people/carmen-giannattasio.md
+- scene/people/wilhelm-schwinghammer.md
+- scene/people/lucas-meachem.md
+- scene/people/greer-grimsley.md
+- scene/people/arnold-livingston-geis.md
+- scene/people/michael-chioldi.md
+- scene/people/francesco-meli.md
+- scene/people/peabody-southwell.md
+- scene/people/jack-swanson.md
+- scene/people/brian-michael-moore.md
+- scene/people/matthew-scollin.md
+- scene/people/joshua-bloom.md
+- scene/people/maxim-mironov.md
+- scene/people/vanessa-becerra.md
+- scene/people/erik-anstine.md
+- scene/people/leela-subramaniam.md
+- scene/people/arturo-chaconcruz.md
+- scene/people/ramon-vargas.md
+- scene/people/anna-smirnova.md
+- scene/people/laquita-mitchell.md
+slug: los-angeles-opera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/LAOpera?fref=ts
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/LAOpera
+title: Los Angeles Opera
+type_of_company: Opera Company
+website: http://www.laopera.org/
+---
 
 <p>
 	In just over a quarter-century of existence, LA Opera has become, under the leadership of Eli and Edythe Broad General Director Plácido Domingo, the United States' fourth largest opera company and "...stands out as a newly important force in American Opera." (Mark Swed, <em>Los Angeles Times</em>). <br>

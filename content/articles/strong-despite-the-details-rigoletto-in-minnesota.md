@@ -1,18 +1,26 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2018-03-25T20:24:00-04:00"
-lastmod = "2018-03-25T20:24:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522023306508/sq---_37A3402.jpg.jpg"
-primary_image_credit = "Olafur Sigurdarson as Rigoletto in Minnesota Opera's new production of Rigoletto, 2018. Photo: Cory Weaver."
-publishDate = "2018-03-25T20:24:00-04:00"
-related_articles = ["articles/in-review-rigoletto-at-eno.md"]
-related_companies = ["scene/companies/minnesota-opera.md"]
-related_people = ["scene/people/michael-christie.md"]
-short_description = "The musicality and the drama reached its peak with the final scene. The electricity coming up from the pit was so palpable, I felt physically ill when Rigoletto held his daughter for one last time. Despite a few issues with the production itself, the power of the story came through."
-slug = "strong-despite-the-details-rigoletto-in-minnesota"
-title = "Strong despite the details: Rigoletto in Minnesota"
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2018-03-25T20:24:00-04:00"
+lastmod: "2018-03-25T20:24:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522023306508/sq---_37A3402.jpg.jpg
+primary_image_credit: 'Olafur Sigurdarson as Rigoletto in Minnesota Opera''s new production
+  of Rigoletto, 2018. Photo: Cory Weaver.'
+publishDate: "2018-03-25T20:24:00-04:00"
+related_articles:
+- articles/in-review-rigoletto-at-eno.md
+related_companies:
+- scene/companies/minnesota-opera.md
+related_people:
+- scene/people/michael-christie.md
+short_description: The musicality and the drama reached its peak with the final scene.
+  The electricity coming up from the pit was so palpable, I felt physically ill when
+  Rigoletto held his daughter for one last time. Despite a few issues with the production
+  itself, the power of the story came through.
+slug: strong-despite-the-details-rigoletto-in-minnesota
+title: 'Strong despite the details: Rigoletto in Minnesota'
+---
 
 Minnesota's Opera production of *Rigoletto* was an unforgettable evening. The curtain opened on a striking party scene; the Duke sat high upon a throne perched on his treasures. The lighting was red and the observatory window that was used in *Dead Man Walking*, was in place high above the stage where stormtrooper-like guards patrolled.  The transition set that backed the first meeting between Rigoletto and the assassin Sparafucile was shiny black tarp and a bunch of lasers. The second scene highlighted Gilda's child-like innocence. Next to Gilda's bed there was a wall full of angel figurines and candles. This set really came alive with the first duet between Rigoletto and Gilda. 
 

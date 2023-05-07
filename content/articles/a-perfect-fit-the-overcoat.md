@@ -1,19 +1,36 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2018-03-30T13:33:00-04:00"
-lastmod = "2018-03-31T10:04:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522430692466/sq---DressRehearsal_Overcoat-DahliaKatz-6153.jpg.jpg"
-primary_image_credit = "Geoffrey Sirett in The Overcoat: A Musical Tailoring, a co-production from Tapestry Opera, Canadian Stage, and Vancouver Opera. Photo by Dahlia Katz."
-publishDate = "2018-03-30T13:33:00-04:00"
-related_articles = ["articles/materialism-turns-tragic-dont-miss-the-overcoat.md"]
-related_companies = ["scene/companies/tapestry-opera.md", "scene/companies/vancouver-opera.md"]
-related_people = ["scene/people/geoffrey-sirett.md", "scene/people/peter-mcgillivray.md", "scene/people/keith-klassen.md", "scene/people/aaron-durand.md", "scene/people/giles-tomkins.md", "scene/people/caitlin-wood.md", "scene/people/andrea-ludwig.md", "scene/people/erica-iris.md", "scene/people/magali-simard-galdes.md", "scene/people/meher-pavri.md"]
-short_description = "Throughout all the major demands on his body, never once did the character of Akakiy falter or weaken. We empathetically follow his journey from introverted, obsessive-complusive to local celebrity and back down again. We see in him our own need to be held in high regard by people we do, and don&#039;t, know."
-slug = "a-perfect-fit-the-overcoat"
-title = "A perfect fit: The Overcoat"
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2018-03-30T13:33:00-04:00"
+lastmod: "2018-03-31T10:04:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522430692466/sq---DressRehearsal_Overcoat-DahliaKatz-6153.jpg.jpg
+primary_image_credit: 'Geoffrey Sirett in The Overcoat: A Musical Tailoring, a co-production
+  from Tapestry Opera, Canadian Stage, and Vancouver Opera. Photo by Dahlia Katz.'
+publishDate: "2018-03-30T13:33:00-04:00"
+related_articles:
+- articles/materialism-turns-tragic-dont-miss-the-overcoat.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/vancouver-opera.md
+related_people:
+- scene/people/geoffrey-sirett.md
+- scene/people/peter-mcgillivray.md
+- scene/people/keith-klassen.md
+- scene/people/aaron-durand.md
+- scene/people/giles-tomkins.md
+- scene/people/caitlin-wood.md
+- scene/people/andrea-ludwig.md
+- scene/people/erica-iris.md
+- scene/people/magali-simard-galdes.md
+- scene/people/meher-pavri.md
+short_description: Throughout all the major demands on his body, never once did the
+  character of Akakiy falter or weaken. We empathetically follow his journey from
+  introverted, obsessive-complusive to local celebrity and back down again. We see
+  in him our own need to be held in high regard by people we do, and don&#039;t, know.
+slug: a-perfect-fit-the-overcoat
+title: 'A perfect fit: The Overcoat'
+---
 Every once in a while a work comes along where all the pieces fall into place. [_The Overcoat: A Musical Tailoring_](https://www.canadianstage.com/online/overcoat), which opened last night in the Bluma Appel Theatre at the St. Lawrence Centre for the Arts, was one such piece.
 
 Based on a movement piece called _The Overcoat_, directed by Morris Panych and choreographed by Wendy Gorling which debuted in Toronto and Vancouver in 1998, twenty years later this adaption of Nikolai Gogol's classic is receiving the operatic treatment at the hands of composer James Rolfe.

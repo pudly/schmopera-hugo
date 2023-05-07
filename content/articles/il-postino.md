@@ -1,22 +1,27 @@
-+++
-author = ["authors/molly-simoneau.md"]
-categories = "Review"
-date = 2019-11-17T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Virginia Opera's production of [_Il Postino_](https://vaopera.org/experience/il-postino/) has performances in Richmond, VA, [Nov 22-24](https://www.etix.com/ticket/v/8084/virginia-opera-dominion-energy-center-carpenter-theatre?performance_id=3281149&country=US&language=en)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574135863/media/2019/11/sqVAOperaIlPostino-5177_ndcnc1.jpg"
-primary_image_credit = "Daniel Montenegro (Mario) in Il Postino, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera."
-related_articles = []
-related_companies = ["scene/companies/virginia-opera.md"]
-related_people = []
-short_description = "It's a sour and tragic ending for an otherwise delightful love story. Moreover, the political subplot of the opera has a vagueness to it that leaves you wondering what its point of view is."
-slug = "grand-opera-cloudy-politics-in-il-postino"
-title = "Grand opera & cloudy politics in Il Postino"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/molly-simoneau.md
+categories: Review
+date: "2019-11-17T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Virginia Opera's production of [_Il Postino_](https://vaopera.org/experience/il-postino/)
+  has performances in Richmond, VA, [Nov 22-24](https://www.etix.com/ticket/v/8084/virginia-opera-dominion-energy-center-carpenter-theatre?performance_id=3281149&country=US&language=en).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1574135863/media/2019/11/sqVAOperaIlPostino-5177_ndcnc1.jpg
+primary_image_credit: Daniel Montenegro (Mario) in Il Postino, Virginia Opera, 2019.
+  Ben Schill Photography courtesy of Virginia Opera.
+related_articles: []
+related_companies:
+- scene/companies/virginia-opera.md
+related_people: []
+short_description: It's a sour and tragic ending for an otherwise delightful love
+  story. Moreover, the political subplot of the opera has a vagueness to it that leaves
+  you wondering what its point of view is.
+slug: grand-opera-cloudy-politics-in-il-postino
+title: Grand opera & cloudy politics in Il Postino
+youtube_url: ""
+---
 As a writer, I'm all too familiar with the struggle to find exactly the right words to express what I'm thinking, or feeling. Was that soprano's voice "crystalline," or "silvery," or "bell-like?" Is this melody "haunting," or is it "dreamlike?" If only I had my own master poet mentor to guide me to just the right metaphors to express myself the way that Pablo Neruda guides his earnest young postman, Mario, and shows him how using words to explore the nature of a thing, be it the sea, the stars, or the woman you love, can make you see it and understand it more clearly.
 
 Having premiered at LA Opera in 2010, [_Il Postino_](https://vaopera.org/experience/il-postino/) is still in its operatic infancy, but fans of the 1994 film will find it pleasantly familiar, if a bit awkwardly paced in its drama. Daniel Catán, who composed his own libretto for his third opera, made the obvious but very wise choice to pepper the text liberally with the words of the Nobel Prize-winning Chilean poet who is central to the story.

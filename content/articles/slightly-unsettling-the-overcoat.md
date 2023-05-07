@@ -1,17 +1,33 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = "2018-05-08T11:12:00-04:00"
-lastmod = "2018-05-10T20:14:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525792262349/sqVancouverOperaTheOvercoatcredTimMatheson195A5504e.jpg.jpg"
-primary_image_credit = "Geoffrey Sirett in The Overcoat: A Musical Tailoring, Vancouver Opera, 2018. Photo: Tim Matheson."
-publishDate = "2018-05-08T11:12:00-04:00"
-related_companies = ["scene/companies/vancouver-opera.md","scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/geoffrey-sirett.md","scene/people/peter-mcgillivray.md","scene/people/andrea-ludwig.md","scene/people/erica-iris.md","scene/people/caitlin-wood.md","scene/people/giles-tomkins.md","scene/people/asitha-tennekoon.md","scene/people/aaron-durand.md","scene/people/magali-simard-galdes.md","scene/people/meher-pavri.md"]
-short_description = "Sometimes they&#039;ll just lay under the bed and watch the action taking place, or curl up into a corner; it is creepy and odd, but works so well for this style."
-slug = "slightly-unsettling-the-overcoat"
-title = "Slightly unsettling: The Overcoat"
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2018-05-08T11:12:00-04:00"
+lastmod: "2018-05-10T20:14:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525792262349/sqVancouverOperaTheOvercoatcredTimMatheson195A5504e.jpg.jpg
+primary_image_credit: 'Geoffrey Sirett in The Overcoat: A Musical Tailoring, Vancouver
+  Opera, 2018. Photo: Tim Matheson.'
+publishDate: "2018-05-08T11:12:00-04:00"
+related_companies:
+- scene/companies/vancouver-opera.md
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/geoffrey-sirett.md
+- scene/people/peter-mcgillivray.md
+- scene/people/andrea-ludwig.md
+- scene/people/erica-iris.md
+- scene/people/caitlin-wood.md
+- scene/people/giles-tomkins.md
+- scene/people/asitha-tennekoon.md
+- scene/people/aaron-durand.md
+- scene/people/magali-simard-galdes.md
+- scene/people/meher-pavri.md
+short_description: Sometimes they&#039;ll just lay under the bed and watch the action
+  taking place, or curl up into a corner; it is creepy and odd, but works so well
+  for this style.
+slug: slightly-unsettling-the-overcoat
+title: 'Slightly unsettling: The Overcoat'
+---
 
 [*The Overcoat: A Musical Tailoring*](https://www.vancouveropera.ca/2017/03/27/the-overcoat-a-musical-tailoring/) is the second opera in the Vancouver Opera Festival, and is a co-production with Tapestry Opera and Canadian Stage. This production runs in the smaller Vancouver Playhouse, rather than VO's normal venue the Queen Elizabeth Theatre, and has all the trappings of a piece that is part opera, part musical, and part dance. Those pieces add up to a quirky, off-beat modern opera that is offbeat, thought-provoking, and introspective.
 

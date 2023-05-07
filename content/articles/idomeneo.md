@@ -1,22 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2019-04-05T16:14:46+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Opera Atelier's production of _Idomeneo_ runs at the Ed Mirvish Theatre through April 13. For details and ticket information, [click here](https://www.operaatelier.com/idomeneo)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554486385/media/2019/04/sqOAIdomeneo-DouglasWilliams-BruceZinger.jpg"
-primary_image_credit = "Douglas Williams as Neptune in Opera Atelier's production of Idomeneo, 2019. Photo: Bruce Zinger."
-related_articles = ["articles/a-daring-desirous-doublebill-at-opera-atelier.md", "articles/glamour-fury-idomeneo-in-chicago.md"]
-related_companies = ["scene/companies/opera-atelier.md"]
-related_people = ["scene/people/measha-brueggergosman.md", "scene/people/wallis-giunta.md", "scene/people/meghan-lindsay.md", "scene/people/colin-ainsworth.md"]
-short_description = "The end result of all these disconnects: it was difficult to care about the people in this opera. There seemed too little trust placed in Mozart to help us emote alongside his characters, instead encumbered by a style that seems to dig in its heels against the piece itself."
-slug = "beautiful-people-vague-torment-idomeneo"
-title = "Beautiful people & vague torment: Idomeneo"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2019-04-05T16:14:46+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Opera Atelier's production of _Idomeneo_ runs at the Ed Mirvish Theatre
+  through April 13. For details and ticket information, [click here](https://www.operaatelier.com/idomeneo).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1554486385/media/2019/04/sqOAIdomeneo-DouglasWilliams-BruceZinger.jpg
+primary_image_credit: 'Douglas Williams as Neptune in Opera Atelier''s production
+  of Idomeneo, 2019. Photo: Bruce Zinger.'
+related_articles:
+- articles/a-daring-desirous-doublebill-at-opera-atelier.md
+- articles/glamour-fury-idomeneo-in-chicago.md
+related_companies:
+- scene/companies/opera-atelier.md
+related_people:
+- scene/people/measha-brueggergosman.md
+- scene/people/wallis-giunta.md
+- scene/people/meghan-lindsay.md
+- scene/people/colin-ainsworth.md
+short_description: 'The end result of all these disconnects: it was difficult to care
+  about the people in this opera. There seemed too little trust placed in Mozart to
+  help us emote alongside his characters, instead encumbered by a style that seems
+  to dig in its heels against the piece itself.'
+slug: beautiful-people-vague-torment-idomeneo
+title: 'Beautiful people & vague torment: Idomeneo'
+youtube_url: ""
+---
 I figure Mozart's _Idomeneo_, his 1780 _opera seria_ rooted in Greek mythology, is one of those operas that make directors skittish. _Idomeneo_, filled with mature, breathtaking music, can so easily keep an audience at arm's length. Much of the opera is a string of substantial arias, a form that seems slightly archaic in the hands of Mozart, which continuously puts the plot on pause.
 
 If you're not up on your Greek/Trojan history, there's little to save you in the pages of Mozart's score. We are not introduced to these characters - rather, dropped into a window in the lives of large mythological figures, with personal histories that are assumed to be familiar. That assumption was likely a stretch in the 18th century, let alone today.

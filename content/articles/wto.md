@@ -1,22 +1,29 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2019-06-25T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "There are three more chances to see this unique double-bill of [Gluck's _Merlin Island_ and Ullmann's _The Emperor of Atlantis_](https://www.wolftrap.org/calendar/performance/19opera/world-turned-upside-down.aspx), running at Wolf Trap Opera through June 30."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1561494980/media/2019/06/sqEMPEROROFATLANTIS_0073.jpg"
-primary_image_credit = "Victor Cardamone (Soldier) and Shannon Jennings (Girl with the Bobbed Hair) in Wolf Trap Opera's 2019 production of Ullmann's The Emperor of Atlantis. Photo: Scott Suchman."
-related_articles = []
-related_companies = ["scene/companies/wolf-trap-opera.md"]
-related_people = []
-short_description = "Jonathan Knipscher designed glorious costumes across the board - Merlin's sequined suit, sequined tracksuit, sequined capes for the mermaids… Basically a lot of sequins that were complemented by shimmery curtains designed by Julia Noulin-Mérat."
-slug = "all-that-glitters-wtos-magical-double-bill"
-title = "All that glitters: WTO's magical double-bill"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2019-06-25T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: There are three more chances to see this unique double-bill of [Gluck's
+  _Merlin Island_ and Ullmann's _The Emperor of Atlantis_](https://www.wolftrap.org/calendar/performance/19opera/world-turned-upside-down.aspx),
+  running at Wolf Trap Opera through June 30.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1561494980/media/2019/06/sqEMPEROROFATLANTIS_0073.jpg
+primary_image_credit: 'Victor Cardamone (Soldier) and Shannon Jennings (Girl with
+  the Bobbed Hair) in Wolf Trap Opera''s 2019 production of Ullmann''s The Emperor
+  of Atlantis. Photo: Scott Suchman.'
+related_articles: []
+related_companies:
+- scene/companies/wolf-trap-opera.md
+related_people: []
+short_description: Jonathan Knipscher designed glorious costumes across the board
+  - Merlin's sequined suit, sequined tracksuit, sequined capes for the mermaids… Basically
+  a lot of sequins that were complemented by shimmery curtains designed by Julia Noulin-Mérat.
+slug: all-that-glitters-wtos-magical-double-bill
+title: 'All that glitters: WTO''s magical double-bill'
+youtube_url: ""
+---
 At the Barns at Wolf Trap on Saturday, it was opening night of a double-bill titled [_The World Turned Upside Down_](https://www.wolftrap.org/calendar/performance/19opera/world-turned-upside-down.aspx). The first half was an energetic _Merlin's Island_ by Gluck, sung in French, with lots of spoken dialogue (some I assume that was written for the production because of the lack of supertitles). This little-performed opera was charming, but the music relied heavily on the superb performers bringing it to life.
 
 <figure data-type="image">

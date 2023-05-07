@@ -1,18 +1,46 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Review"
-date = "2017-05-25T10:53:00-04:00"
-lastmod = "2017-05-25T18:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495724528980/2017-05-25---Square---Oksana.jpg.jpg"
-primary_image_credit = "Natalya Gennadi (Oksana) and Adam Fisher (Father Alexander) in Oksana G., Tapestry Opera, 2017. Photo: Dahlia Katz."
-publishDate = "2017-05-25T14:50:00-04:00"
-related_articles = ["articles/in-review-rocking-horse-winner.md","articles/in-review-naomis-road.md","articles/enticing-teasers-winter-shorts.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/natalya-matyusheva.md","scene/people/adam-fisher.md","scene/people/keith-klassen.md","scene/people/jacqueline-woodley.md","scene/people/kimberly-barber.md","scene/people/andrea-ludwig.md","scene/people/aaron-sheppard.md","scene/people/krisztina-szab.md","scene/people/alexander-hajek.md","scene/people/neil-craighead.md","scene/people/cairan-ryan.md","scene/people/aaron-gervais.md","scene/people/tom-diamond.md","scene/people/jordan-de-souza.md"]
-short_description = "There&#039;s much about Oksana that&#039;s maddening. Kind and trusting people make risky and uninformed decisions, and evil people lie and harm others with no remorse; everyday people ignore cries for help from sex workers, and helpless parents, left without money or police, turn to fortune-tellers in times of desperation. Maddening as it may be - and easy as it seems to say, &quot;I&#039;m too smart to fall for that&quot; - the story of human trafficking is true and happening now."
-slug = "tough-to-watch-oksana-g"
-title = "Tough to watch: Oksana G."
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Review
+date: "2017-05-25T10:53:00-04:00"
+lastmod: "2017-05-25T18:08:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495724528980/2017-05-25---Square---Oksana.jpg.jpg
+primary_image_credit: 'Natalya Gennadi (Oksana) and Adam Fisher (Father Alexander)
+  in Oksana G., Tapestry Opera, 2017. Photo: Dahlia Katz.'
+publishDate: "2017-05-25T14:50:00-04:00"
+related_articles:
+- articles/in-review-rocking-horse-winner.md
+- articles/in-review-naomis-road.md
+- articles/enticing-teasers-winter-shorts.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/natalya-matyusheva.md
+- scene/people/adam-fisher.md
+- scene/people/keith-klassen.md
+- scene/people/jacqueline-woodley.md
+- scene/people/kimberly-barber.md
+- scene/people/andrea-ludwig.md
+- scene/people/aaron-sheppard.md
+- scene/people/krisztina-szab.md
+- scene/people/alexander-hajek.md
+- scene/people/neil-craighead.md
+- scene/people/cairan-ryan.md
+- scene/people/aaron-gervais.md
+- scene/people/tom-diamond.md
+- scene/people/jordan-de-souza.md
+short_description: There&#039;s much about Oksana that&#039;s maddening. Kind and
+  trusting people make risky and uninformed decisions, and evil people lie and harm
+  others with no remorse; everyday people ignore cries for help from sex workers,
+  and helpless parents, left without money or police, turn to fortune-tellers in times
+  of desperation. Maddening as it may be - and easy as it seems to say, &quot;I&#039;m
+  too smart to fall for that&quot; - the story of human trafficking is true and happening
+  now.
+slug: tough-to-watch-oksana-g
+title: 'Tough to watch: Oksana G.'
+---
 
 **Jenna**: "The story of sex trafficking needs to be told in a way that makes us intuitively realize how real and awful it is. We all know the facts, but we need to feel the plight of a normal girl who gets trapped in this situation; feel that it could have just as easily been us, or our sisters, or our daughters," write composer Aaron Gervais and librettist Colleen Murphy of their opera, [*Oksana G.*](https://tapestryopera.com/3-oksana-g/) "It is that kind of realization that can galvanize an individual to step up and make a difference in the lives of others. That's why this story has to be told as an opera."
 

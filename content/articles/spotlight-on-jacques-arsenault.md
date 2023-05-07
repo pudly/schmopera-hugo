@@ -1,19 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-08-25T14:27:00-04:00"
-lastmod = "2017-08-28T23:54:00-04:00"
-preamble = "Prince Edward Island-native [Jacques Arsenault](/scene/people/jacques-arsenault/) is currently in Toronto, gearing up for Tapestry Opera's [*Bandits in the Valley*](https://tapestryopera.com/bandits-in-the-valley/) (**September 2-30**), the new multimedia short opera based on the 19th-century history of the Don Valley and its resident smugglers and bandits. The versatile tenor has on his resume everything from *The Light in the Piazza* to *Louis Riel*, and his upcoming performances in *Bandits in the Valley* give him a chance to flex his equally impressive chops as an accordionist.\n\nIn our latest Spotlight interview, Arsenault talks about his deep musical roots, and the tough-but-fair balance between working in an industry that's competitive, and the privilege of having an attentive audience."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503757974319/2017-08-25---Jacques-Arsenault.jpg.jpg"
-primary_image_credit = "Photo: Brent Calis"
-publishDate = "2017-08-28T22:02:00-04:00"
-related_articles = ["articles/spotlight-on-william-ford.md","articles/spotlight-on-james-westman.md","articles/spotlight-on-keith-lam.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/jacques-arsenault.md"]
-short_description = "&quot;Invest in relationships. There are some remarkable individuals working in every aspect of this industry. Be the person others want to be around and work with—make yourself indispensable. Also, be super prepared. When luck comes your way, it&#039;s useless if you&#039;re not ready for it.&quot;"
-slug = "spotlight-on-jacques-arsenault"
-title = "Spotlight on: Jacques Arsenault"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-08-25T14:27:00-04:00"
+lastmod: "2017-08-28T23:54:00-04:00"
+preamble: |-
+  Prince Edward Island-native [Jacques Arsenault](/scene/people/jacques-arsenault/) is currently in Toronto, gearing up for Tapestry Opera's [*Bandits in the Valley*](https://tapestryopera.com/bandits-in-the-valley/) (**September 2-30**), the new multimedia short opera based on the 19th-century history of the Don Valley and its resident smugglers and bandits. The versatile tenor has on his resume everything from *The Light in the Piazza* to *Louis Riel*, and his upcoming performances in *Bandits in the Valley* give him a chance to flex his equally impressive chops as an accordionist.
+
+  In our latest Spotlight interview, Arsenault talks about his deep musical roots, and the tough-but-fair balance between working in an industry that's competitive, and the privilege of having an attentive audience.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503757974319/2017-08-25---Jacques-Arsenault.jpg.jpg
+primary_image_credit: 'Photo: Brent Calis'
+publishDate: "2017-08-28T22:02:00-04:00"
+related_articles:
+- articles/spotlight-on-william-ford.md
+- articles/spotlight-on-james-westman.md
+- articles/spotlight-on-keith-lam.md
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/jacques-arsenault.md
+short_description: '&quot;Invest in relationships. There are some remarkable individuals
+  working in every aspect of this industry. Be the person others want to be around
+  and work with—make yourself indispensable. Also, be super prepared. When luck comes
+  your way, it&#039;s useless if you&#039;re not ready for it.&quot;'
+slug: spotlight-on-jacques-arsenault
+title: 'Spotlight on: Jacques Arsenault'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

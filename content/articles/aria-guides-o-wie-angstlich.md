@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2016-11-29T21:35:00+00:00"
-lastmod = "2016-12-06T16:59:00+00:00"
-preamble = "Amid captured loved ones and Turkish harems, there's a tenor in love. Belmonte is off to resuce his abducted fiancée, Konstanze, but not without telling us how she makes his heart beat faster. For any tenor, this aria is a mountain of work; there's tricky coloratura, lines which hover through the *passaggio*, and making it to the end takes planning and stamina. With your teachers and coaches, we can help you wade through the endless details in Mozart's score, and start to see the big picture behind all those notes."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480797688538/2016-12-4---Fire.jpg.jpg"
-publishDate = "2016-12-06T16:12:00+00:00"
-related_articles = ["articles/aria-guides-dalla-sua-pace.md", "articles/aria-guides-una-furtiva-lagrima.md", "articles/aria-guides-un-aura-amorosa.md"]
-short_description = "Amid captured loved ones and Turkish harems, there's a tenor in love. Belmonte is off to resuce his abducted fiancée, Konstanze, but not without telling us how she makes his heart beat faster. For any tenor, this aria is a mountain of work; there's tricky coloratura, lines which hover through the passaggio, and making it to the end takes planning and stamina."
-slug = "aria-guides-o-wie-angstlich"
-title = "Aria guides: O wie ängstlich, o wie feurig!"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2016-11-29T21:35:00+00:00"
+lastmod: "2016-12-06T16:59:00+00:00"
+preamble: Amid captured loved ones and Turkish harems, there's a tenor in love. Belmonte
+  is off to resuce his abducted fiancée, Konstanze, but not without telling us how
+  she makes his heart beat faster. For any tenor, this aria is a mountain of work;
+  there's tricky coloratura, lines which hover through the *passaggio*, and making
+  it to the end takes planning and stamina. With your teachers and coaches, we can
+  help you wade through the endless details in Mozart's score, and start to see the
+  big picture behind all those notes.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480797688538/2016-12-4---Fire.jpg.jpg
+publishDate: "2016-12-06T16:12:00+00:00"
+related_articles:
+- articles/aria-guides-dalla-sua-pace.md
+- articles/aria-guides-una-furtiva-lagrima.md
+- articles/aria-guides-un-aura-amorosa.md
+short_description: Amid captured loved ones and Turkish harems, there's a tenor in
+  love. Belmonte is off to resuce his abducted fiancée, Konstanze, but not without
+  telling us how she makes his heart beat faster. For any tenor, this aria is a mountain
+  of work; there's tricky coloratura, lines which hover through the passaggio, and
+  making it to the end takes planning and stamina.
+slug: aria-guides-o-wie-angstlich
+title: 'Aria guides: O wie ängstlich, o wie feurig!'
+---
  1. This is a nice, straight-forward way of starting a beast of an aria. Take advantage of these two small phrases; they're chances for you to take a couple of easy breaths, and spend the air healthily. Don't be afraid to start at a comfortable volume; the important part is to safe some fire, as it were, for the bigger outburst at "o wie feurig".<figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480700040380/Aria-Guide---Belmonte---annotated---1.jpg.jpg) </figure>

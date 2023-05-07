@@ -1,15 +1,16 @@
-+++
-date = "2018-04-27T21:17:00-04:00"
-discipline = "Countertenor"
-lastmod = "2018-04-27T21:17:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524878208788/chung_headshot_Hi-Res.jpg.jpg"
-publishDate = "2018-04-27T21:17:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/against-the-grain-theatre.md"]
-slug = "siman-chung"
-title = "Siman Chung"
-
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2018-04-27T21:17:00-04:00"
+discipline: Countertenor
+lastmod: "2018-04-27T21:17:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524878208788/chung_headshot_Hi-Res.jpg.jpg
+publishDate: "2018-04-27T21:17:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/against-the-grain-theatre.md
+slug: siman-chung
+title: Siman Chung
+---
 Siman Chung, countertenor from Busan, South Korea, returned to the Metropolitan Opera for the 2021-22 season, to participate in their productions of RODELINDA and AKHNATEN.
 
 In the summer of 2022, he will sing the role of Siebel in FAUST for the first time at the Seoul Arts Center in Korea.

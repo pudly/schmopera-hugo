@@ -1,18 +1,25 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Review"
-date = "2017-10-17T18:48:00-04:00"
-lastmod = "2017-10-19T20:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508280787063/2017-10-17---square---17.-Matthan-Black%2C-Julia-Hardin%2C-Curtis-Bannister%2C-Melinda-Alberty_The-Scorpions'-Sting.jpg.jpg"
-primary_image_credit = "Matthan Black, Julia Hardin, Curtis Bannister, and Melinda Alberty in The Scorpions' Sting, Lyric Opera of Chicago, 2017. Photo: Michael Brosilow."
-publishDate = "2017-10-19T20:13:00-04:00"
-related_articles = ["articles/opera-for-all-the-magic-victrola.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-short_description = "It must be a difficult task, to write a work specifically for young people that does not come off as overly moralistic or saccharine. Happily, the gist of The Scorpions&#039; Sting - the power of forgiveness and the importance of teamwork - avoids sentimentality by being genuinely funny, (alternating effectively between sarcasm and overt goofiness). "
-slug = "for-kids-grown-ups-alike-the-scorpions-sting"
-title = "For kids &amp; grown-ups alike: The Scorpion&#039;s Sting"
-
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Review
+date: "2017-10-17T18:48:00-04:00"
+lastmod: "2017-10-19T20:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508280787063/2017-10-17---square---17.-Matthan-Black%2C-Julia-Hardin%2C-Curtis-Bannister%2C-Melinda-Alberty_The-Scorpions'-Sting.jpg.jpg
+primary_image_credit: 'Matthan Black, Julia Hardin, Curtis Bannister, and Melinda
+  Alberty in The Scorpions'' Sting, Lyric Opera of Chicago, 2017. Photo: Michael Brosilow.'
+publishDate: "2017-10-19T20:13:00-04:00"
+related_articles:
+- articles/opera-for-all-the-magic-victrola.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+short_description: 'It must be a difficult task, to write a work specifically for
+  young people that does not come off as overly moralistic or saccharine. Happily,
+  the gist of The Scorpions&#039; Sting - the power of forgiveness and the importance
+  of teamwork - avoids sentimentality by being genuinely funny, (alternating effectively
+  between sarcasm and overt goofiness). '
+slug: for-kids-grown-ups-alike-the-scorpions-sting
+title: 'For kids &amp; grown-ups alike: The Scorpion&#039;s Sting'
+---
 This past weekend, on an uncommonly dark and stormy Saturday afternoon, Lyric Unlimited kicked off a four-performance run of [_The Scorpions' Sting: an Opera for Young People_](https://www.lyricopera.org/concertstickets/calendar/2017-2018-other/productions/lyricopera/the-scorpions-sting-opera-tickets) at the Studebaker Theater in downtown Chicago. The production marks the U.S. premiere of the opera, with text and music by Canadian composer [Dean Burry](/scene/people/dean-burry/). This week, _The Scorpions' Sting_ began its tour through Lyric Unlimited's [Opera in the Neighborhoods](https://www.lyricopera.org/lyricunlimited/studentsandteachers/operaintheneighborhoods) program. In total, 30 performances will be given at 15 different locations. Over 20,000 young people will see it, including Chicago Public School students, students in charter and private schools, and home-schooled children, all in grades 3-6.
 
 <figure data-type="image">

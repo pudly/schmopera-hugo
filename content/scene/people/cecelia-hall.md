@@ -1,29 +1,36 @@
-+++
-date = "2017-09-18T15:38:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-09-18T15:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550429025/media/2019/02/CeceliaHallDarioAcosta.jpg"
-primary_image_credit = "Dario Acosta"
-publishDate = "2017-09-18T15:38:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/canadian-opera-company.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/oper-frankfurt.md", "scene/companies/seattle-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/the-juilliard-school.md"]
-slug = "cecelia-hall"
-title = "Cecelia Hall"
-website = "http://ceceliahall.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/cecehallsings"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/cecehallsings"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/cecelia-hall"
-
-_template = "people_single"
-+++
+---
+date: "2017-09-18T15:38:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-09-18T15:39:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550429025/media/2019/02/CeceliaHallDarioAcosta.jpg
+primary_image_credit: Dario Acosta
+publishDate: "2017-09-18T15:38:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/seattle-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/the-juilliard-school.md
+slug: cecelia-hall
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/cecehallsings
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/cecehallsings
+- _template: people_single
+  platform: Soundcloud
+  template: social-media
+  url: https://soundcloud.com/cecelia-hall
+title: Cecelia Hall
+website: http://ceceliahall.com/
+---
 American Cecelia Hall is one of today’s most established young mezzo-sopranos. Hailed by the Financial Times for her 'easy flexibility, arresting poise and enveloping warmth', she has appeared since 2014 in leading roles at many of the world’s finest stages, including Munich’s Bayerische Staatsoper, The Santa Fe Opera, Seattle Opera, Lyric Opera of Chicago, Canadian Opera Company, Opera Philadelphia, and Oper Frankfurt, where she is a member of the ensemble.
 
 This season, Cecelia Hall returns to the Oper Frankfurt for some exciting repertoire: Hänsel in _Hänsel und Gretel_, Marguerite in _La Damnation de Faust_, Cherubino in _Le Nozze di Figaro_ and the Zweite Dame in _Die Zauberflöte_. In concert, Ms. Hall will sing _Les Nuits d’Eté_ with the Bay Atlantic Symphony and _Trouble in Tahiti_ with the Lexington Philharmonic.

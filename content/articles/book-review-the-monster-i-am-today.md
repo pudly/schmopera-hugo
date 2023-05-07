@@ -1,22 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = 2021-09-06T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1630549893/media/2021/09/Simmonds_Monster_cover_ehqzca.jpg"
-primary_image_credit = ""
-related_articles = ["articles/4-secrets-for-better-high-notes.md", "articles/4-tips-for-when-there-are-too-many-notes.md"]
-related_companies = []
-related_people = []
-short_description = "The Monster I Am Today is an excellent pick for the contemporary opera fan. It's grand and operatic, with its emotional peaks and depths. For me, it's a completely new — and frankly, overdue — perspective on this beloved art form. It's a fresh read, and I highly recommend."
-slug = "an-opera-fans-must-read-the-monster-i-am-today"
-title = "An opera fan's must-read: The Monster I Am Today"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2021-09-06T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1630549893/media/2021/09/Simmonds_Monster_cover_ehqzca.jpg
+primary_image_credit: ""
+related_articles:
+- articles/4-secrets-for-better-high-notes.md
+- articles/4-tips-for-when-there-are-too-many-notes.md
+related_companies: []
+related_people: []
+short_description: The Monster I Am Today is an excellent pick for the contemporary
+  opera fan. It's grand and operatic, with its emotional peaks and depths. For me,
+  it's a completely new — and frankly, overdue — perspective on this beloved art form.
+  It's a fresh read, and I highly recommend.
+slug: an-opera-fans-must-read-the-monster-i-am-today
+title: 'An opera fan''s must-read: The Monster I Am Today'
+youtube_url: ""
+---
 Immediately after reading [Kevin Simmonds' new book](https://nupress.northwestern.edu/9780810143746/the-monster-i-am-today/), _The Monster I Am Today: Leontyne Price and a Life in Verse_, I went on a YouTube spree. Listening to Leontyne Price's Aida was all that made sense after reading this biography-in-verse, where Simmonds tells the story of how Price was the source of his love for singing. He blends poetry, prose, quotes from interviews, quotes from critics, and even fantastical FBI memos regarding Leontyne's power for social change.
 
 _The Monster I Am Today_ (TriQuarterly Books, Northwestern University Press) is probably the most evocative story I've read about falling in love with singing. It's really a combination of biography— Leontyne, of course — and autobiography — [Kevin Simmonds](https://www.kevinsimmonds.com/), the poet, composer, and singer. Within those stories are other stories, like about "acousmatic blackness" — or having a vocal timbre that's associated with being Black — and about being a young Black singer who is gay and not yet out, attending an American music school with a dream to sing like Price.

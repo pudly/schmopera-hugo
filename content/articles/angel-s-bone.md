@@ -1,22 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = 2020-05-03T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1588553141/media/2020/05/sqAngelsBone-020_gnyqxl.jpg"
-primary_image_credit = "Angel's Bone, 2018. Photo: Hong Kong Leisure and Cultural Services Department/Beth Morrison Projects."
-related_articles = ["articles/the-start-of-something-powerful-the-echo-drift.md", "articles/its-official-breaking-the-waves-wins-best-new-opera.md"]
-related_companies = ["scene/companies/prototype-festival.md", "scene/companies/beth-morrison-projects.md"]
-related_people = []
-short_description = "Honestly, in that scene where Mr. X.E. takes a cleaver to the angels' wings, I think I had an \"aha\" moment. I thought I'd experienced that thing where the story is excellent and the music makes it even more excellent, but this moment was something else entirely."
-slug = "angels-bone-i-finally-saw-it-and-im-never-going-to-be-the-same"
-title = "Angel's Bone: I finally saw it and I'm never going to be the same"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2020-05-03T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1588553141/media/2020/05/sqAngelsBone-020_gnyqxl.jpg
+primary_image_credit: 'Angel''s Bone, 2018. Photo: Hong Kong Leisure and Cultural
+  Services Department/Beth Morrison Projects.'
+related_articles:
+- articles/the-start-of-something-powerful-the-echo-drift.md
+- articles/its-official-breaking-the-waves-wins-best-new-opera.md
+related_companies:
+- scene/companies/prototype-festival.md
+- scene/companies/beth-morrison-projects.md
+related_people: []
+short_description: Honestly, in that scene where Mr. X.E. takes a cleaver to the angels'
+  wings, I think I had an "aha" moment. I thought I'd experienced that thing where
+  the story is excellent and the music makes it even more excellent, but this moment
+  was something else entirely.
+slug: angels-bone-i-finally-saw-it-and-im-never-going-to-be-the-same
+title: 'Angel''s Bone: I finally saw it and I''m never going to be the same'
+youtube_url: ""
+---
 Though I have a [complicated relationship](/what-the-mets-at-home-gala-teaches-us-about-evolution/) with all this freely streamed opera happening from houses worldwide, I can admit that I voraciously consumed LA Opera's most recent [LAO at Home](https://www.laopera.org/discover/laoathome/) presentation, _Angel's Bone_. The Pulitzer Prize-winning opera by composer [Du Yun](http://channelduyun.com/) and librettist [Royce Vavrek](/jacqueline-come-for-the-music-stay-for-everything-else/) is a [Beth Morrison Projects](https://www.bethmorrisonprojects.org/) production, and it was supposed to tour to Los Angeles as part of LAO's Off Grand series, but in lieu of _Angel's Bone_ live, they've offered up a performance from 2018 at the Hong Kong New Vision Arts Festival.
 
 It's a good consolation prize. The Hong Kong performance features the cast and creative team that was set for Los Angeles; for the most part, it's this BMP-led team that has seen _Angel's Bone_ through since in 2016 premiere at New York's PROTOTYPE Festival. 

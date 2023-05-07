@@ -1,22 +1,30 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2022-02-03T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Boston Lyric Opera's digital production of _Svadba_ is [available to stream on operabox.tv](https://blo.org/svadba/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1643903737/media/2022/02/sqBLO-2022-Svadba_zh6mhl.jpg"
-primary_image_credit = "Victoria L. Awkward (Milica) in Svadba, Boston Lyric Opera, 2022. Photo courtesy of BLO."
-related_articles = ["articles/enigma-opera-s-curlew-river-a-transcendent-experience.md", "articles/installation-la-traviata-intimate-and-effective-production.md", "articles/canadian-pride-boston-s-svadba-looks-like-a-must-watch.md"]
-related_companies = ["scene/companies/boston-lyric-opera-1.md"]
-related_people = []
-short_description = "I have to admit, after a while, the music did draw me in. This is an opera I suspect some people will have to sit with, but it will pull you into its language. And when it does, it does feel remarkably transformative afterwards."
-slug = "digital-svadba-a-ritualistic-enigma-with-some-confusion"
-title = "Digital Svabda a ritualistic enigma, with some confusion"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2022-02-03T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Boston Lyric Opera's digital production of _Svadba_ is [available to stream
+  on operabox.tv](https://blo.org/svadba/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1643903737/media/2022/02/sqBLO-2022-Svadba_zh6mhl.jpg
+primary_image_credit: Victoria L. Awkward (Milica) in Svadba, Boston Lyric Opera,
+  2022. Photo courtesy of BLO.
+related_articles:
+- articles/enigma-opera-s-curlew-river-a-transcendent-experience.md
+- articles/installation-la-traviata-intimate-and-effective-production.md
+- articles/canadian-pride-boston-s-svadba-looks-like-a-must-watch.md
+related_companies:
+- scene/companies/boston-lyric-opera-1.md
+related_people: []
+short_description: I have to admit, after a while, the music did draw me in. This
+  is an opera I suspect some people will have to sit with, but it will pull you into
+  its language. And when it does, it does feel remarkably transformative afterwards.
+slug: digital-svadba-a-ritualistic-enigma-with-some-confusion
+title: Digital Svabda a ritualistic enigma, with some confusion
+youtube_url: ""
+---
 When one thinks about opera, the traditional ideas of opera are often that, even accounting for how opera plays with emotional time, the plot of any given opera should be presented in a relatively objective manner. The opera house rarely leaves room for more abstract pieces, and whenever the more abstract piece does come along presenting it can be a challenge that not everyone can realize effectively. How, then, do you present something like this in video format?
 
 We thus turn to [Boston Lyric Opera](/scene/companies/boston-lyric-opera/)'s next digital offering, this time on Ana Sokolovic's [_Svabda_](https://blo.org/svadba/), which spins a tale about a bride-to-be and the rituals she goes through preparing for the wedding the day before. I say it spins a tale, but perhaps it's not quite a tale that it spins as much as an experience: there is a heavily ritualistic quality both in Sokolovic's musical language and especially in the words she chooses to set that tends towards non-literal storytelling. It is an uncanny blend of the setting of _Les Noces_, the frequent use of more abstract text of a Philip Glass opera, and the minimalist musical language of _The Little Matchgirl Passion_.

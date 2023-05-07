@@ -1,17 +1,25 @@
-+++
-author = ["authors/tracy-monaghan.md"]
-categories = "Review"
-date = "2016-11-15T13:21:00+00:00"
-lastmod = "2016-11-15T15:42:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479218221951/2016-11-16---Square-GDDuo.jpg.jpg"
-primary_image_credit = "Photo courtesy of Nashville Opera."
-publishDate = "2016-11-15T15:42:00+00:00"
-related_articles = ["articles/an-extended-mad-scene-glory-denied.md"]
-related_companies = ["scene/companies/nashville-opera.md"]
-short_description = "The work questions the perspective of emotional trauma, and whose is the most devastating? Is it enduring a prison camp for years only to return to an unrecognizable life? Is it enduring a different kind of prison-like solitude, guilt when one&#039;s life&#039;s work isn&#039;t enough? Nashville Opera&#039;s production of Glory Denied, fittingly opened on Veterans&#039; Day, is now one of only five or six full productions of the opera."
-slug = "in-review-glory-denied"
-title = "In review: Glory Denied"
-+++
+---
+author:
+- authors/tracy-monaghan.md
+categories: Review
+date: "2016-11-15T13:21:00+00:00"
+lastmod: "2016-11-15T15:42:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479218221951/2016-11-16---Square-GDDuo.jpg.jpg
+primary_image_credit: Photo courtesy of Nashville Opera.
+publishDate: "2016-11-15T15:42:00+00:00"
+related_articles:
+- articles/an-extended-mad-scene-glory-denied.md
+related_companies:
+- scene/companies/nashville-opera.md
+short_description: The work questions the perspective of emotional trauma, and whose
+  is the most devastating? Is it enduring a prison camp for years only to return to
+  an unrecognizable life? Is it enduring a different kind of prison-like solitude,
+  guilt when one&#039;s life&#039;s work isn&#039;t enough? Nashville Opera&#039;s
+  production of Glory Denied, fittingly opened on Veterans&#039; Day, is now one of
+  only five or six full productions of the opera.
+slug: in-review-glory-denied
+title: 'In review: Glory Denied'
+---
 
 "May the faith and hope that have sustained you in the past continue in the days that follow."
 

@@ -1,17 +1,27 @@
-+++
-author = ["authors/erik-flaten.md"]
-categories = "Review"
-date = "2018-09-26T21:58:00-04:00"
-lastmod = "2018-09-27T11:15:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538013671674/sqFAUREPLAY6.jpg.jpg"
-primary_image_credit = "Martha Graham Cracker (Dito van Reigersberg) in Fauréplay, Opera Philadelphia, O18. Photo by Dave DiRentis for Opera Philadelphia."
-publishDate = "2018-09-27T08:25:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md"]
-related_people = ["scene/people/patricia-racette.md"]
-short_description = "It is best not to overanalyze the production, as it was, for lack of better words, a wickedly entertaining opera-themed drag show. The evening&#039;s show followed a plotline involving Martha Graham Cracker&#039;s desire to impress her crush, Blythely Oratonio (Stephanie Blythe&#039;s drag king alter ego.) Throughout the performance, there were musical numbers, which were very clever arrangements, combining pop music with operatic motives (such as &quot;I Want To Break Free&quot; combined with &quot;Quando m&#039;en vo.&quot;)"
-slug = "glitter-and-flair-queens-of-the-night"
-title = "Glitter and flair: Queens of the Night"
-+++
+---
+author:
+- authors/erik-flaten.md
+categories: Review
+date: "2018-09-26T21:58:00-04:00"
+lastmod: "2018-09-27T11:15:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538013671674/sqFAUREPLAY6.jpg.jpg
+primary_image_credit: Martha Graham Cracker (Dito van Reigersberg) in Fauréplay, Opera
+  Philadelphia, O18. Photo by Dave DiRentis for Opera Philadelphia.
+publishDate: "2018-09-27T08:25:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+related_people:
+- scene/people/patricia-racette.md
+short_description: It is best not to overanalyze the production, as it was, for lack
+  of better words, a wickedly entertaining opera-themed drag show. The evening&#039;s
+  show followed a plotline involving Martha Graham Cracker&#039;s desire to impress
+  her crush, Blythely Oratonio (Stephanie Blythe&#039;s drag king alter ego.) Throughout
+  the performance, there were musical numbers, which were very clever arrangements,
+  combining pop music with operatic motives (such as &quot;I Want To Break Free&quot;
+  combined with &quot;Quando m&#039;en vo.&quot;)
+slug: glitter-and-flair-queens-of-the-night
+title: 'Glitter and flair: Queens of the Night'
+---
 
 A much-needed break from the weighty and profound operatic material that O18 as been tirelessly producing, *Queens of the Night* at the Theater of Living Arts was a hilarious and joyful breath of fresh air.
 

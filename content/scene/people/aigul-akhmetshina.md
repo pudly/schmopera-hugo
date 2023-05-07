@@ -1,18 +1,19 @@
-+++
-date = "2017-11-06T14:08:00-05:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-11-06T14:08:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509995264222/thumb8_fdb4a0b9fd5212bb74fd80856fddd332.jpg.jpg"
-publishDate = "2017-11-06T14:08:00-05:00"
-related_companies = ["scene/companies/royal-opera-house.md"]
-slug = "aigul-akhmetshina"
-title = "Aigul Akhmetshina"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/aigulya1may96"
-_template = "people_single"
-+++
+---
+date: "2017-11-06T14:08:00-05:00"
+discipline: Mezzo-soprano
+lastmod: "2017-11-06T14:08:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509995264222/thumb8_fdb4a0b9fd5212bb74fd80856fddd332.jpg.jpg
+publishDate: "2017-11-06T14:08:00-05:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+slug: aigul-akhmetshina
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/aigulya1may96
+title: Aigul Akhmetshina
+---
 
 Russian mezzo-soprano Aigul Akhmetshina joins the prestigious Jette Parker Young Artists Programme at the Royal Opera House from the start of the 2017/18 Season, her roles include Mercedes in *Carmen*, the title role of Carmen in *La Tragédie de Carmen* and Sonyetka in *Lady Macbeth of Mtsensk*. Other engagements this season include the title role in Rossini's *La Cenerentola* for Opera de Bauge Festival in France.
  

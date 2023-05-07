@@ -1,20 +1,26 @@
-+++
-date = "2016-10-20T11:38:00+01:00"
-discipline = "Baritone"
-lastmod = "2016-10-20T11:38:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476959743130/2016-10-21---Jacques-Imbrailo-credit-Sim-Canetty-Clarke.jpg.jpg"
-primary_image_credit = "Canetty Clarke."
-publishDate = "2016-10-20T11:38:00+01:00"
-related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/english-national-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/classical-opera.md", "scene/companies/glyndebourne.md", "scene/companies/opernhaus-zurich.md", "scene/companies/houston-grand-opera.md"]
-slug = "jacques-imbrailo"
-title = "Jacques Imbrailo"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/jacquesimbrailo"
-
-_template = "people_single"
-+++
+---
+date: "2016-10-20T11:38:00+01:00"
+discipline: Baritone
+lastmod: "2016-10-20T11:38:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476959743130/2016-10-21---Jacques-Imbrailo-credit-Sim-Canetty-Clarke.jpg.jpg
+primary_image_credit: Canetty Clarke.
+publishDate: "2016-10-20T11:38:00+01:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/english-national-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/classical-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/houston-grand-opera.md
+slug: jacques-imbrailo
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/jacquesimbrailo
+title: Jacques Imbrailo
+---
 A regular at many of the most prestigious opera houses throughout the world, baritone Jacques Imbrailo has collaborated with conductors, directors and orchestras of the highest calibre and is one of the most in demand arists of his generation. 
 
 In the 2018/19 season, Imbrailo returns to the Royal Opera House, Covent Garden for the title role _Billy Budd_ in Deborah Warner's critically acclaimed production, conducted by Ivor Bolton. Further highlights next season include Pelléas _Pelléas et Mélisande_ for the Opéra national du Rhin and his debut for Norwegian National Opera as the title role _Billy Budd_. 

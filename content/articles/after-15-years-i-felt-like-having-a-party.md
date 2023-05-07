@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2018-05-07T12:37:00-04:00"
-lastmod = "2018-05-07T21:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525713414163/sqLarryBeckwith.jpg.jpg"
-primary_image_credit = "Larry Beckwith, Artistic Director and Founder of Toronto Masque Theatre."
-publishDate = "2018-05-07T21:48:00-04:00"
-related_articles = ["articles/toronto-masque-theatre-or-clowning-around.md","articles/the-stars-align-for-toronto-masque-theatres-final-season.md"]
-related_companies = ["scene/companies/toronto-masque-theatre.md"]
-related_people = ["scene/people/monica-whicher.md","scene/people/colin-ainsworth.md","scene/people/lawrence-wiliford.md","scene/people/vania-chan.md","scene/people/shannon-mercer.md"]
-short_description = "&quot;I think we really mined [masque] to a huge extent,&quot; he says. Now, Beckwith&#039;s decision to wrap up TMT is fuelled by a desire for something new."
-slug = "after-15-years-i-felt-like-having-a-party"
-title = "&quot;After 15 years, I felt like having a party.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2018-05-07T12:37:00-04:00"
+lastmod: "2018-05-07T21:48:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525713414163/sqLarryBeckwith.jpg.jpg
+primary_image_credit: Larry Beckwith, Artistic Director and Founder of Toronto Masque
+  Theatre.
+publishDate: "2018-05-07T21:48:00-04:00"
+related_articles:
+- articles/toronto-masque-theatre-or-clowning-around.md
+- articles/the-stars-align-for-toronto-masque-theatres-final-season.md
+related_companies:
+- scene/companies/toronto-masque-theatre.md
+related_people:
+- scene/people/monica-whicher.md
+- scene/people/colin-ainsworth.md
+- scene/people/lawrence-wiliford.md
+- scene/people/vania-chan.md
+- scene/people/shannon-mercer.md
+short_description: '&quot;I think we really mined [masque] to a huge extent,&quot;
+  he says. Now, Beckwith&#039;s decision to wrap up TMT is fuelled by a desire for
+  something new.'
+slug: after-15-years-i-felt-like-having-a-party
+title: '&quot;After 15 years, I felt like having a party.&quot;'
+---
 
 "It's basically a celebration of friendships," says Larry Beckwith, Artistic Director and Founder of [Toronto Masque Theatre](/scene/companies/toronto-masque-theatre/), of their upcoming concert, entitled [*The Last Chaconne*](http://torontomasquetheatre.com/node/67). 
 

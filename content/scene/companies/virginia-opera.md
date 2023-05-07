@@ -1,32 +1,28 @@
-+++
-address = "160 W. Virginia Beach Boulevard \nNorfolk, VA 23510"
-email = "info@vaopera.org"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569350737/media/2019/09/Logo-VO_qaruns.jpg"
-primary_image_credit = ""
-related_people = []
-slug = "virginia-opera"
-title = "Virginia Opera"
-type_of_company = "Opera Company"
-website = "https://vaopera.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/VaOpera/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/vaopera"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/virginia_opera/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/vaopera"
-
-_template = "company_single"
-+++
+---
+address: "160 W. Virginia Beach Boulevard \nNorfolk, VA 23510"
+email: info@vaopera.org
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569350737/media/2019/09/Logo-VO_qaruns.jpg
+primary_image_credit: ""
+related_people: []
+slug: virginia-opera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/VaOpera/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/vaopera
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/virginia_opera/
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/vaopera
+title: Virginia Opera
+type_of_company: Opera Company
+website: https://vaopera.org/
+---
 Virginia Opera Association, Inc., in its 45th year of operation, is known and respected nationwide for the identification and presentation of the finest young artists, for the musical and dramatic integrity of its productions, and for the ingenuity and variety of its education and outreach programs. The Company has a working budget of $5.3 million with over 28 mainstage performances, reaching nearly 50,000 attendees. In March of 1994, by unanimous vote of the Virginia General Assembly, Virginia Opera was named The Official Opera Company of the Commonwealth of Virginia in recognition of the organization’s contribution to the Commonwealth and to the world of opera.
 
 Organized in 1974 by founding chair Edythe C. Harrison, Virginia Opera was launched with two productions in the Norfolk Center Theater. Shortly thereafter, Peter Mark was appointed Artistic Director, a position he held for over 35 years. Peter Mark was named Artistic Director Emeritus in 2012. Russell P. Allen, appointed President and CEO in 2011, currently leads the company – returning to Virginia Opera after six years as General Manager from 1994-2000. Adam Turner was appointed Artistic Director in 2018.

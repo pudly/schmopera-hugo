@@ -1,18 +1,22 @@
-+++
-date = "2017-01-10T13:26:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-01-10T13:26:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484054814150/2017-01-10---Maria-Katzarava.jpg.jpg"
-publishDate = "2017-01-10T13:26:00+00:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/florida-grand-opera.md","scene/companies/gran-teatre-del-liceu.md"]
-slug = "maria-katzarava"
-title = "Maria Katzarava"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/maria_katzarava?lang=en"
-_template = "people_single"
-+++
+---
+date: "2017-01-10T13:26:00+00:00"
+discipline: Soprano
+lastmod: "2017-01-10T13:26:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484054814150/2017-01-10---Maria-Katzarava.jpg.jpg
+publishDate: "2017-01-10T13:26:00+00:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/gran-teatre-del-liceu.md
+slug: maria-katzarava
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/maria_katzarava?lang=en
+title: Maria Katzarava
+---
 
 A winner of several international awards, including First Prize and Zarzuela Prize at Plácido Domingo's Operalia 2008, young Mexican soprano Maria Katzarava has already performed at some of the world’s major theatres, including the Royal Opera House, London, Teatro alla Scala in Milan, Liceu de Barcelona, Florida Grand Opera in Miami, Grand Théâtre de Genève and the Teatro Comunale di Bologna, working under the baton of conductors such as Zubin Mehta, Donato Renzetti and Michele Mariotti.
 

@@ -1,18 +1,22 @@
-+++
-date = "2015-06-25T15:03:00+01:00"
-discipline = "Playwright, librettist"
-lastmod = "2016-05-06T17:14:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435240854524/AnnaChatterton.jpeg.jpeg"
-publishDate = "2015-06-25T15:03:00+01:00"
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md","scene/companies/canadian-opera-company.md"]
-slug = "anna-chatterton"
-title = "Anna Chatterton"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/a_chatterton"
-_template = "people_single"
-+++
+---
+date: "2015-06-25T15:03:00+01:00"
+discipline: Playwright, librettist
+lastmod: "2016-05-06T17:14:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435240854524/AnnaChatterton.jpeg.jpeg
+publishDate: "2015-06-25T15:03:00+01:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-banff-centre.md
+- scene/companies/canadian-opera-company.md
+slug: anna-chatterton
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/a_chatterton
+title: Anna Chatterton
+---
 
 Anna Chatterton is a playwright, librettist and performer. Her play *Within the Glass* was recently produced at Tarragon Theatre where she is a playwright in residence. Anna performed her solo show Quiver at Theatre Aquarius (TA2 Studio series), which will also be produced by Nightwood Theatre in the fall.  
 

@@ -1,19 +1,55 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-08-02T13:11:00+02:00"
-lastmod = "2015-08-07T12:19:00+02:00"
-preamble = "[Keith Lam](/scene/people/keith-lam/) and I met in the way that many, many opera-loving Canadians meet: at Opera NUOVA. The Hong Kong-born, Toronto-based baritone is a member of the [Tafelmusik Chamber Choir](/scene/companies/tafelmusik-baroque-orchestra-chamber-choir/), and he has sung with the very excellent [Canadian Opera Company](/scene/companies/canadian-opera-company/) Chorus. As a soloist, Keith has lit up stages with [Against the Grain Theatre](/scene/companies/against-the-grain/), [The Banff Centre](/scene/companies/the-banff-centre/), Aspen Opera Theater, and he wrote me recently mid-rehearsals for *Le nozze di Figaro* at [Highlands Opera Studio](/scene/companies/highlands-opera-studio/). \n\nIf you know Keith, he has already charmed you. If you haven't yet met him, start by reading his frank and wise interview. \"Singing is my medicine,\" he says."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438514292073/KeithSquare.jpg.jpg"
-primary_image_credit = "Photo: Katie Jameson"
-publishDate = "2015-08-07T06:00:00+02:00"
-related_articles = ["articles/spotlight-on-kimberleyann-bartczak.md","articles/spotlight-on-william-ford.md","articles/spotlight-on-jeremy-hirsch.md","articles/spotlight-on-lida-szkwarek.md","articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-kelsey-vicary.md","articles/spotlight-on-peter-bass.md","articles/spotlight-on-emily-peragine.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-sara-schabas.md","articles/spotlight-on-michael-nyby.md","articles/spotlight-on-james-westman.md","articles/spotlight-on-alexander-hajek.md","articles/talking-with-singers-giles-tomkins.md","articles/spotlight-on-jacques-arsenault.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/keith-lam.md"]
-short_description = "Keith Lam and I met in the way that many, many opera-loving Canadians meet: at Opera NUOVA. The Hong Kong-born, Toronto-based baritone is a member of the Tafelmusik Chamber Choir, and he has sung with the excellent Canadian Opera Company Chorus. As a soloist, Keith has lit up stages with Against the Grain Theatre, The Banff Centre, Aspen Opera Theater, and he wrote me recently mid-rehearsals for Le nozze di Figaro at Highlands Opera Studio. "
-slug = "spotlight-on-keith-lam"
-title = "Spotlight on: Keith Lam"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-08-02T13:11:00+02:00"
+lastmod: "2015-08-07T12:19:00+02:00"
+preamble: "[Keith Lam](/scene/people/keith-lam/) and I met in the way that many, many
+  opera-loving Canadians meet: at Opera NUOVA. The Hong Kong-born, Toronto-based baritone
+  is a member of the [Tafelmusik Chamber Choir](/scene/companies/tafelmusik-baroque-orchestra-chamber-choir/),
+  and he has sung with the very excellent [Canadian Opera Company](/scene/companies/canadian-opera-company/)
+  Chorus. As a soloist, Keith has lit up stages with [Against the Grain Theatre](/scene/companies/against-the-grain/),
+  [The Banff Centre](/scene/companies/the-banff-centre/), Aspen Opera Theater, and
+  he wrote me recently mid-rehearsals for *Le nozze di Figaro* at [Highlands Opera
+  Studio](/scene/companies/highlands-opera-studio/). \n\nIf you know Keith, he has
+  already charmed you. If you haven't yet met him, start by reading his frank and
+  wise interview. \"Singing is my medicine,\" he says."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438514292073/KeithSquare.jpg.jpg
+primary_image_credit: 'Photo: Katie Jameson'
+publishDate: "2015-08-07T06:00:00+02:00"
+related_articles:
+- articles/spotlight-on-kimberleyann-bartczak.md
+- articles/spotlight-on-william-ford.md
+- articles/spotlight-on-jeremy-hirsch.md
+- articles/spotlight-on-lida-szkwarek.md
+- articles/spotlight-on-charlotte-knight.md
+- articles/spotlight-on-danielle-macmillan.md
+- articles/spotlight-on-kelsey-vicary.md
+- articles/spotlight-on-peter-bass.md
+- articles/spotlight-on-emily-peragine.md
+- articles/spotlight-on-maikai-nash.md
+- articles/spotlight-on-sara-schabas.md
+- articles/spotlight-on-michael-nyby.md
+- articles/spotlight-on-james-westman.md
+- articles/spotlight-on-alexander-hajek.md
+- articles/talking-with-singers-giles-tomkins.md
+- articles/spotlight-on-jacques-arsenault.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/keith-lam.md
+short_description: 'Keith Lam and I met in the way that many, many opera-loving Canadians
+  meet: at Opera NUOVA. The Hong Kong-born, Toronto-based baritone is a member of
+  the Tafelmusik Chamber Choir, and he has sung with the excellent Canadian Opera
+  Company Chorus. As a soloist, Keith has lit up stages with Against the Grain Theatre,
+  The Banff Centre, Aspen Opera Theater, and he wrote me recently mid-rehearsals for
+  Le nozze di Figaro at Highlands Opera Studio. '
+slug: spotlight-on-keith-lam
+title: 'Spotlight on: Keith Lam'
+---
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

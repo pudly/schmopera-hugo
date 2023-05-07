@@ -1,17 +1,17 @@
-+++
-date = "2016-11-25T13:23:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-11-25T13:23:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480080154071/2016-11-24---Breanna-Sinclaire.jpg.jpg"
-publishDate = "2016-11-25T13:23:00+00:00"
-slug = "breanna-sinclaire"
-title = "Breanna Sinclairé"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/bronzequeen2911"
-_template = "people_single"
-+++
+---
+date: "2016-11-25T13:23:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2016-11-25T13:23:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480080154071/2016-11-24---Breanna-Sinclaire.jpg.jpg
+publishDate: "2016-11-25T13:23:00+00:00"
+slug: breanna-sinclaire
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/bronzequeen2911
+title: Breanna Sinclairé
+---
 
 Breanna Sinclaire is a native of Baltimore, Maryland, and a graduate of the esteemed Baltimore School for the Arts. She earned her B.F.A. at the Herb Alpert School of Music at California Institute of the Arts in Valencia, California, under the tutelages of Maria Fortuna Dean and former Cirque du Soleil star Kate Conklin.
 

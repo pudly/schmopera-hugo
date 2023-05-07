@@ -1,22 +1,31 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2020-04-27T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1588074808/media/2020/04/sq16_Orlando_125412_LINDSEY_po9w8p.jpg"
-primary_image_credit = "Mezzo-soprano Kate Lindsey as Orlando as a man bathed in red in the Vienna State Opera’s production of Olga Neuwirth’s Orlando. Photo: Wiener Staatsoper / Michael Pöhn."
-related_articles = ["articles/talking-with-singers-kate-lindsey.md", "articles/pacific-opera-victorias-steampunkmeetsfantasy-rinaldo.md"]
-related_companies = ["scene/companies/wiener-staatsoper.md"]
-related_people = ["scene/people/kate-lindsey.md"]
-short_description = "Instead, composer Olga Neuwirth chose Woolf’s Orlando, her often funny faux-autobiography about a young nobleman in the court of Elizabeth I who awakens one morning as a woman and proceeds to roam about time and space for the next 300 years. "
-slug = "orlando-gender-bending-and-the-sound-of-androgyny-in-vienna"
-title = "Orlando: gender bending and the sound of androgyny in Vienna"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2020-04-27T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1588074808/media/2020/04/sq16_Orlando_125412_LINDSEY_po9w8p.jpg
+primary_image_credit: 'Mezzo-soprano Kate Lindsey as Orlando as a man bathed in red
+  in the Vienna State Opera’s production of Olga Neuwirth’s Orlando. Photo: Wiener
+  Staatsoper / Michael Pöhn.'
+related_articles:
+- articles/talking-with-singers-kate-lindsey.md
+- articles/pacific-opera-victorias-steampunkmeetsfantasy-rinaldo.md
+related_companies:
+- scene/companies/wiener-staatsoper.md
+related_people:
+- scene/people/kate-lindsey.md
+short_description: 'Instead, composer Olga Neuwirth chose Woolf’s Orlando, her often
+  funny faux-autobiography about a young nobleman in the court of Elizabeth I who
+  awakens one morning as a woman and proceeds to roam about time and space for the
+  next 300 years. '
+slug: orlando-gender-bending-and-the-sound-of-androgyny-in-vienna
+title: 'Orlando: gender bending and the sound of androgyny in Vienna'
+youtube_url: ""
+---
 Mrs. Dalloway would have been my bet for an opera based on a work by Bloomsbury modernist, Virginia Woof. That-stream-of-consciousness treatise tracking the inner thoughts of a London society matron as she shops for a dinner party fairly yearns for languid arias linked with moist recitative and perhaps even an introspective monologue.
 
 Instead, composer Olga Neuwirth chose Woolf’s _Orlando_, her often funny faux-autobiography about a young nobleman in the court of Elizabeth I who awakens one morning as a woman and proceeds to roam about time and space for the next 300 years. _Orlando_, along with _Flush_, Woolf’s subtle criticism of urban life disguised as a biography of a cocker spaniel belonging to Elizabeth Barrett Browning, serves as a gateway to the renowned writer’s more esoteric works.

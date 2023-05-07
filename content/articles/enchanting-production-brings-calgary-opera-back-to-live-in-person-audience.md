@@ -1,22 +1,43 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Review"
-date = 2022-01-01T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Calgary Opera’s production of Ravel's _The Enchanted Child_ (_L'enfant et les sortilèges_) ran December 10-12 at the Mamdani Opera Centre. Directed by Rob Herriot with a chamber orchestra conducted by Mark Morash, the production featured all eight artists of the McPhee Artist Development Program singing in French with English subtitles. Calgary Opera's next production is in January-February 2022, with Lehar's [_The Merry Widow_](https://calgaryopera.com/21-22/merry-widow)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1640984509/media/2021/12/sqEnfant_CalgaryOpera_Photo1-Company_cwdcnl.jpg"
-primary_image_credit = "Surrounding Alanna Fraize from bottom left: Jeremy Dubé, Simran Claire, Jeffrey Strand, Eden Tremayne, Tayte Mitchell, Dominic Veilleux and Juliana Krajčovič in Calgary Opera's L'enfant et les sortileges, 2021. Photo by Kaitlyn Kerr."
-related_articles = ["articles/calgary-opera-names-jonathan-brandani-new-artistic-director.md", "articles/calgary-opera-delivers-comedy-gold-with-wellcast-barber.md"]
-related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md", "scene/companies/calgary-opera.md"]
-related_people = ["scene/people/jeffrey-strand.md", "scene/people/simran-claire.md", "scene/people/dominic-veilleux.md", "scene/people/eden-tremayne.md", "scene/people/alanna-fraize.md", "scene/people/andrew-love.md"]
-short_description = "On this night, the company’s full roster of emerging artists (now branded as the McPhee Artists in honour of the company’s longtime Artistic Director and CEO) enchanted the audience with a whimsical production that the whole family would enjoy. "
-slug = "enchanting-production-brings-calgary-opera-back-to-live-in-person-audience"
-title = "Enchanting Production Brings Calgary Opera Back to Live, In-Person Audience"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Review
+date: "2022-01-01T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Calgary Opera’s production of Ravel's _The Enchanted Child_ (_L'enfant
+  et les sortilèges_) ran December 10-12 at the Mamdani Opera Centre. Directed by
+  Rob Herriot with a chamber orchestra conducted by Mark Morash, the production featured
+  all eight artists of the McPhee Artist Development Program singing in French with
+  English subtitles. Calgary Opera's next production is in January-February 2022,
+  with Lehar's [_The Merry Widow_](https://calgaryopera.com/21-22/merry-widow).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1640984509/media/2021/12/sqEnfant_CalgaryOpera_Photo1-Company_cwdcnl.jpg
+primary_image_credit: 'Surrounding Alanna Fraize from bottom left: Jeremy Dubé, Simran
+  Claire, Jeffrey Strand, Eden Tremayne, Tayte Mitchell, Dominic Veilleux and Juliana
+  Krajčovič in Calgary Opera''s L''enfant et les sortileges, 2021. Photo by Kaitlyn
+  Kerr.'
+related_articles:
+- articles/calgary-opera-names-jonathan-brandani-new-artistic-director.md
+- articles/calgary-opera-delivers-comedy-gold-with-wellcast-barber.md
+related_companies:
+- scene/companies/calgary-opera-emerging-artist-development-program.md
+- scene/companies/calgary-opera.md
+related_people:
+- scene/people/jeffrey-strand.md
+- scene/people/simran-claire.md
+- scene/people/dominic-veilleux.md
+- scene/people/eden-tremayne.md
+- scene/people/alanna-fraize.md
+- scene/people/andrew-love.md
+short_description: 'On this night, the company’s full roster of emerging artists (now
+  branded as the McPhee Artists in honour of the company’s longtime Artistic Director
+  and CEO) enchanted the audience with a whimsical production that the whole family
+  would enjoy. '
+slug: enchanting-production-brings-calgary-opera-back-to-live-in-person-audience
+title: Enchanting Production Brings Calgary Opera Back to Live, In-Person Audience
+youtube_url: ""
+---
 Performing for an online audience is one thing. It's altogether different when your audience is staring at you wide-eyed in the same room, waiting for you to enchant them with your performance. For the first time in twenty months, [Calgary Opera](/scene/companies/calgary-opera/) has a live audience for one of its productions, Ravel's _The Enchanted Child_ (_L'enfant et les sortilèges_).
 
 On this night, the company's full roster of emerging artists (now branded as the [McPhee Artists](/scene/companies/calgary-opera-emerging-artist-development-program/) in honour of the company's longtime Artistic Director and CEO) enchanted the audience with a whimsical production that the whole family would enjoy.

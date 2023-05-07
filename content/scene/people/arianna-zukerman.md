@@ -1,23 +1,22 @@
-+++
-date = "2016-02-24T10:15:00-05:00"
-discipline = "Soprano"
-lastmod = "2016-02-24T10:15:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456326891285/Arianna-ZukermanSquare.jpg.jpg"
-primary_image_credit = "Tim Coburn"
-publishDate = "2016-02-24T10:15:00-05:00"
-slug = "arianna-zukerman"
-title = "Arianna Zukerman"
-website = "http://www.ariannazukerman.com/index.php"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ariannazukermansoprano/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/AriaZuk"
-_template = "people_single"
-+++
+---
+date: "2016-02-24T10:15:00-05:00"
+discipline: Soprano
+lastmod: "2016-02-24T10:15:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456326891285/Arianna-ZukermanSquare.jpg.jpg
+primary_image_credit: Tim Coburn
+publishDate: "2016-02-24T10:15:00-05:00"
+slug: arianna-zukerman
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/ariannazukermansoprano/?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/AriaZuk
+title: Arianna Zukerman
+website: http://www.ariannazukerman.com/index.php
+---
 
 Renowned for her pure, luminous, rich soprano, persuasive performances and dramatic ability, Arianna Zukerman is considered one of the premiere vocal artists of her generation. An international artist known for concert and opera performances, Ms. Zukerman is also an avid chamber musician, and regularly collaborates with some of today’s foremost chamber players. The Washington Post says “Arianna Zukerman possesses a remarkable voice that combines the range, warmth and facility of a Rossini mezzo with shimmering, round high notes and exquisite pianissimos that would make any soprano jealous.”
 

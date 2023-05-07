@@ -1,19 +1,21 @@
-+++
-date = "2015-07-29T21:43:00-04:00"
-lastmod = "2015-07-29T21:43:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438220490850/FriendsofGravitySquare.jpg.jpg"
-publishDate = "2015-07-29T21:43:00-04:00"
-related_people = ["scene/people/stephanie-conn.md","scene/people/scott-gabriel.md"]
-slug = "the-friends-of-gravity"
-title = "The Friends of Gravity"
-type_of_company = "Music theatre company"
-website = "http://thefriendsofgravity.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/thefriendsofgravity"
-_template = "company_single"
-+++
+---
+date: "2015-07-29T21:43:00-04:00"
+lastmod: "2015-07-29T21:43:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438220490850/FriendsofGravitySquare.jpg.jpg
+publishDate: "2015-07-29T21:43:00-04:00"
+related_people:
+- scene/people/stephanie-conn.md
+- scene/people/scott-gabriel.md
+slug: the-friends-of-gravity
+social_media:
+- _template: company_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/thefriendsofgravity
+title: The Friends of Gravity
+type_of_company: Music theatre company
+website: http://thefriendsofgravity.org/
+---
 
 Friends of Gravity: Big themes on a small scale!
 

@@ -1,15 +1,18 @@
-+++
-date = "2016-10-16T15:04:00+01:00"
-discipline = "Bass"
-lastmod = "2016-10-16T15:07:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476626129152/2016-10-16---David_Shipley_2_Credit_Maximilian_van_London.jpg.jpg"
-primary_image_credit = "Maximilian von London"
-publishDate = "2016-10-16T15:07:00+01:00"
-related_companies = ["scene/companies/classical-opera.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md"]
-slug = "david-shipley"
-title = "David Shipley"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2016-10-16T15:04:00+01:00"
+discipline: Bass
+lastmod: "2016-10-16T15:07:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476626129152/2016-10-16---David_Shipley_2_Credit_Maximilian_van_London.jpg.jpg
+primary_image_credit: Maximilian von London
+publishDate: "2016-10-16T15:07:00+01:00"
+related_companies:
+- scene/companies/classical-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/royal-opera-house.md
+slug: david-shipley
+title: David Shipley
+---
 
 David Shipley is a member of the Jette Parker Young Artists Programme at the Royal Opera House, Covent Garden, where his roles so far have included Arthur and Officer III *The Lighthouse*, Captain *Eugene Onegin*, Sciarrone *Tosca*, Guccio *Gianni Schicchi*, and High Priest of Baal *Nabucco*. Roles this season on the Covent Garden stage include Clerk 3/Policeman 4/Speculator/Respectable Lady's Son in Shostakovich's *The Nose*, Sergeant *Manon Lescaut*, Dr. Grenvil *La traviata*, Flemish Deputy *Don Carlo*, and the Nightwatchman *Die Meistersinger von Nürnberg*.
 

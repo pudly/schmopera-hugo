@@ -1,22 +1,33 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-01-15T18:47:30+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "ROH's _La traviata_ runs through 31 January, including a live cinema broadcast on 30 January, 7pm. For details and ticket information, [click here.](https://www.roh.org.uk/productions/la-traviata-by-richard-eyre)"
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547589269/media/2019/01/sq405ErmonelaJahoasViolettaValeryCharlesCastronovoasAlfredoGermontROH2019.jpg"
-primary_image_credit = "Ermonela Jaho (Violetta Valéry) and Charles Castronovo (Alfred Germont) in La traviata, ROH, 2019. Photo: Catherine Ashmore."
-related_articles = ["articles/heartfelt-and-intimate-manitoba-operas-la-traviata.md", "articles/in-review-la-traviata-at-roh.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/simon-shibambu.md", "scene/people/igor-golovatenko.md", "scene/people/charles-castronovo.md", "scene/people/ermonela-jaho.md"]
-short_description = "Sitting in the audience, I had the feeling I was part of a long standing tradition, one that dates back to 1858 when the opera was first performed at Covent Garden."
-slug = "a-long-standing-tradition-la-traviata-at-roh"
-title = "A long-standing tradition: La traviata at ROH"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-01-15T18:47:30+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ROH's _La traviata_ runs through 31 January, including a live cinema broadcast
+  on 30 January, 7pm. For details and ticket information, [click here.](https://www.roh.org.uk/productions/la-traviata-by-richard-eyre)
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1547589269/media/2019/01/sq405ErmonelaJahoasViolettaValeryCharlesCastronovoasAlfredoGermontROH2019.jpg
+primary_image_credit: 'Ermonela Jaho (Violetta Valéry) and Charles Castronovo (Alfred
+  Germont) in La traviata, ROH, 2019. Photo: Catherine Ashmore.'
+related_articles:
+- articles/heartfelt-and-intimate-manitoba-operas-la-traviata.md
+- articles/in-review-la-traviata-at-roh.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/simon-shibambu.md
+- scene/people/igor-golovatenko.md
+- scene/people/charles-castronovo.md
+- scene/people/ermonela-jaho.md
+short_description: Sitting in the audience, I had the feeling I was part of a long
+  standing tradition, one that dates back to 1858 when the opera was first performed
+  at Covent Garden.
+slug: a-long-standing-tradition-la-traviata-at-roh
+title: 'A long-standing tradition: La traviata at ROH'
+youtube_url: ""
+---
 A rich portrait of 1850's Parisian socialite life was beautifully presented in this classic Richard Eyre production of [Verdi's _La traviata_](https://www.roh.org.uk/productions/la-traviata-by-richard-eyre), which this year sees its sixteenth revival at the Royal Opera House since its premiere in 1994. Sitting in the audience, I had the feeling I was part of a long-standing tradition, one that dates back to 1858 when the opera was first performed at Covent Garden. Since its premiere up until World War I, and during the interwar years, it was performed there nearly every season and to this day is staged every couple of years. In fact, _La traviata_ remains the most performed operas worldwide today.
 
 > In many ways, _Traviata_ is one of those operas you just don't fiddle around with.

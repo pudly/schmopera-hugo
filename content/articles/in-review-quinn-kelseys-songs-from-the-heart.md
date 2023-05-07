@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-10-27T14:53:00-04:00"
-lastmod = "2015-10-28T16:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445980520412/QuinnKelseyRecital.jpg.jpg"
-publishDate = "2015-10-28T12:29:00-04:00"
-related_articles = ["articles/lieder-for-lunch-the-coc-ensemble-studio-in-recital.md","articles/in-review-a-shropshire-lad.md","articles/hat-trick-in-the-amphitheatre.md","articles/in-review-paul-appleby-at-wigmore-hall.md","articles/being-a-nice-person-why-art-really-really-matters.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/quinn-kelsey.md"]
-short_description = "Hawaiian baritone Quinn Kelsey strode into the Richard Bradshaw Amphitheatre, wearing black cowboy boots with his three-piece suit, and said to the audience, &quot;I apologize in advance for cheat sheets.&quot;"
-slug = "in-review-quinn-kelseys-songs-from-the-heart"
-title = "In review: Quinn Kelsey&#039;s Songs from the Heart"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-10-27T14:53:00-04:00"
+lastmod: "2015-10-28T16:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445980520412/QuinnKelseyRecital.jpg.jpg
+publishDate: "2015-10-28T12:29:00-04:00"
+related_articles:
+- articles/lieder-for-lunch-the-coc-ensemble-studio-in-recital.md
+- articles/in-review-a-shropshire-lad.md
+- articles/hat-trick-in-the-amphitheatre.md
+- articles/in-review-paul-appleby-at-wigmore-hall.md
+- articles/being-a-nice-person-why-art-really-really-matters.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/quinn-kelsey.md
+short_description: Hawaiian baritone Quinn Kelsey strode into the Richard Bradshaw
+  Amphitheatre, wearing black cowboy boots with his three-piece suit, and said to
+  the audience, &quot;I apologize in advance for cheat sheets.&quot;
+slug: in-review-quinn-kelseys-songs-from-the-heart
+title: 'In review: Quinn Kelsey&#039;s Songs from the Heart'
+---
 
 Hawaiian baritone [Quinn Kelsey](/scene/people/quinn-kelsey/) strode into the [Richard Bradshaw Amphitheatre](https://www.google.com/analytics/web/?hl=en#report/visitors-overview/a46647120w77702325p80325527/), wearing black cowboy boots with his three-piece suit, and said to the audience, "I apologize in advance for cheat sheets."
 

@@ -1,17 +1,28 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-10-21T21:10:00+01:00"
-lastmod = "2016-10-25T18:58:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477087752506/2016-10-22---Square---161018_40985.jpg.jpg"
-primary_image_credit = "Christopher Enns (back), Meghan Lindsay and Wallis Giunta in Opera Atelier's Dido and Aeneas, 2016. Photo by Bruce Zinger."
-publishDate = "2016-10-21T23:51:00+01:00"
-related_companies = ["scene/companies/opera-atelier.md"]
-related_people = ["scene/people/wallis-giunta.md","scene/people/meghan-lindsay.md","scene/people/christopher-enns.md"]
-short_description = "Speaking of the Ballet, this is some of the most athletic dancing I&#039;ve seen them do yet. An actor friend of mine once described period dancing as &quot;just fancy walking&quot;. This is proof of the opposite. The lines, shapes and footwork were energetic, clean, and emotionally executed. For once I found the ladies large skirts accented and enhanced their choreography, rather than getting the way of me enjoying their fancy footwork. "
-slug = "in-review-dido-and-aeneas"
-title = "In review: Dido and Aeneas"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-10-21T21:10:00+01:00"
+lastmod: "2016-10-25T18:58:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477087752506/2016-10-22---Square---161018_40985.jpg.jpg
+primary_image_credit: Christopher Enns (back), Meghan Lindsay and Wallis Giunta in
+  Opera Atelier's Dido and Aeneas, 2016. Photo by Bruce Zinger.
+publishDate: "2016-10-21T23:51:00+01:00"
+related_companies:
+- scene/companies/opera-atelier.md
+related_people:
+- scene/people/wallis-giunta.md
+- scene/people/meghan-lindsay.md
+- scene/people/christopher-enns.md
+short_description: 'Speaking of the Ballet, this is some of the most athletic dancing
+  I&#039;ve seen them do yet. An actor friend of mine once described period dancing
+  as &quot;just fancy walking&quot;. This is proof of the opposite. The lines, shapes
+  and footwork were energetic, clean, and emotionally executed. For once I found the
+  ladies large skirts accented and enhanced their choreography, rather than getting
+  the way of me enjoying their fancy footwork. '
+slug: in-review-dido-and-aeneas
+title: 'In review: Dido and Aeneas'
+---
 
 Hi, Schmop-Tops!
 

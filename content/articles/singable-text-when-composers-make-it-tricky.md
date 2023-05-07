@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-02-25T09:32:00-05:00"
-lastmod = "2016-02-26T09:28:00-05:00"
-preamble = "One of the biggest signs of that a composer has written well for the voice is when he or she sets the text in an organic way. In a broad sense, this means finding a rhythm and melody that works with the text, allowing it to be expressed the way the composer wants. In the same way that Verdi seemed to naturally fuse his music with the librettos he set, there are just as many examples of text setting that seems unnatural. The curious singer will look at the weird combination of music and words, and try to solve the mystery of what the composer was after. Those mysteries get especially interesting when we're dealing with great composers. What do we mean? Here are a few examples:\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456450037198/2016-02-26---Typography.jpg.jpg"
-primary_image_credit = "Photo: ncsamyscott.wordpress.com."
-publishDate = "2016-02-26T09:28:00-05:00"
-related_articles = ["articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md","articles/4-tips-for-when-there-are-too-many-notes.md","articles/4-steps-to-taking-fixing-notes.md"]
-short_description = "One of the biggest signs of that a composer has written well for the voice is when he or she sets the text in an organic way. In a broad sense, this means finding a rhythm and melody that works with the text, allowing it to be expressed the way the composer wants. In the same way that Verdi seemed to naturally fuse his music with the librettos he set, there are just as many examples of text setting that seems unnatural."
-slug = "singable-text-when-composers-make-it-tricky"
-title = "Singable text: when composers make it tricky"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-02-25T09:32:00-05:00"
+lastmod: "2016-02-26T09:28:00-05:00"
+preamble: |
+  One of the biggest signs of that a composer has written well for the voice is when he or she sets the text in an organic way. In a broad sense, this means finding a rhythm and melody that works with the text, allowing it to be expressed the way the composer wants. In the same way that Verdi seemed to naturally fuse his music with the librettos he set, there are just as many examples of text setting that seems unnatural. The curious singer will look at the weird combination of music and words, and try to solve the mystery of what the composer was after. Those mysteries get especially interesting when we're dealing with great composers. What do we mean? Here are a few examples:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456450037198/2016-02-26---Typography.jpg.jpg
+primary_image_credit: 'Photo: ncsamyscott.wordpress.com.'
+publishDate: "2016-02-26T09:28:00-05:00"
+related_articles:
+- articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md
+- articles/4-tips-for-when-there-are-too-many-notes.md
+- articles/4-steps-to-taking-fixing-notes.md
+short_description: One of the biggest signs of that a composer has written well for
+  the voice is when he or she sets the text in an organic way. In a broad sense, this
+  means finding a rhythm and melody that works with the text, allowing it to be expressed
+  the way the composer wants. In the same way that Verdi seemed to naturally fuse
+  his music with the librettos he set, there are just as many examples of text setting
+  that seems unnatural.
+slug: singable-text-when-composers-make-it-tricky
+title: 'Singable text: when composers make it tricky'
+---
 
 ## *Carmen*
 

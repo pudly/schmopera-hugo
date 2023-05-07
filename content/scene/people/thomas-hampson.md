@@ -1,23 +1,29 @@
-+++
-date = "2015-11-29T20:17:00-05:00"
-discipline = "Baritone"
-lastmod = "2015-11-29T20:17:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448845907895/2015-11-29---Thomas-Hampson.jpg.jpg"
-publishDate = "2015-11-29T20:17:00-05:00"
-related_companies = ["scene/companies/teatro-alla-scala.md","scene/companies/bayerische-staatsoper.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/salzburg-festival.md","scene/companies/opernhaus-zurich.md","scene/companies/wiener-staatsoper.md","scene/companies/the-metropolitan-opera.md"]
-slug = "thomas-hampson"
-title = "Thomas Hampson"
-website = "http://www.thomashampson.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/w.thomashampson"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/thomashampson"
-_template = "people_single"
-+++
+---
+date: "2015-11-29T20:17:00-05:00"
+discipline: Baritone
+lastmod: "2015-11-29T20:17:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448845907895/2015-11-29---Thomas-Hampson.jpg.jpg
+publishDate: "2015-11-29T20:17:00-05:00"
+related_companies:
+- scene/companies/teatro-alla-scala.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/salzburg-festival.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+slug: thomas-hampson
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/w.thomashampson
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/thomashampson
+title: Thomas Hampson
+website: http://www.thomashampson.com/
+---
 
 Thomas Hampson, America’s foremost baritone, hails from Spokane, Washington. He enjoys a singular international career as an opera singer, recording artist, and “ambassador of song,” maintaining an active interest in research, education, musical outreach, and technology. Hampson who was recently inducted into the American Academy of Arts and Sciences and Gramophone’s 2013 “Hall of Fame,” has won worldwide recognition for thoughtfully researched and creatively constructed programs as well as recordings that explore the rich repertoire of song in a wide range of styles, languages, and periods. He recently added a new album to his Deutsche Grammophon discography titled Notturno, featuring a curated selection of songs by Richard Strauss. The disc also highlights the talents of Mr Hampson’s longtime pianist and collaborator Wolfram Rieger.
 

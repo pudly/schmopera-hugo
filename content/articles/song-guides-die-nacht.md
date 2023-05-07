@@ -1,17 +1,36 @@
-+++
-author = ["authors/caitleen-kahn.md"]
-categories = "How-to"
-date = "2015-11-19T13:47:00-05:00"
-lastmod = "2015-11-20T11:10:00-05:00"
-preamble = "We've gotten great feedback from our ongoing series of Aria Guides, and so we've decided to branch out, into the world of art song. Soprano Caitleen Kahn, co-founder of the art-song-friendly [Lynx Project](/scene/companies/lynx-project/), kicks off our Song Guides with a staple from the repertoire. \"Die Nacht\" is a song taken from Richard Strauss's 1885 set, *8 Gedichte aus \"Letzte Blätter\"*, in which you'll find other favourites like \"Zueignung\" and \"Allerseelen\". Kahn offers up some proactive tips for singers of this gorgeous *Lied*. The text (translated by Lawrence Snyder and Rebecca Plack):\n\n>\"Aus dem Walde tritt die Nacht aus den Bäumen schleicht sie leise, schaut sich um im weitem Kreise, nun gib acht.\nAlle Lichter dieser Welt, alle Blumen, alle Farben löscht sie aus und stiehlt die Garben weg vom Feld.\nAlles nimmt sie, was nur hold, nimmt das Silber weg des Stroms, nimmt vom Kupferdach des Doms weg das Gold.\nAusgeplündert steht der Strauch, rücke näher, Seel an Seele; O die Nacht, mir bangt, sie stehle dich mir auch.\"\n\n>\"Night steps out of the woods, and sneaks softly out of the trees, looks about in a wide circle, now beware. All the lights of this earth, all flowers, all colors it extinguishes, and steals the sheaves from the field.\nIt takes everything that is dear, takes the silver from the stream, takes away, from the cathedral's copper roof, the gold. The shrubs stand plundered, draw nearer, soul to soul; Oh, I fear the night will also steal you from me.\""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448035818169/2015-11-19%20-%20Die%20Nacht.jpg.jpg"
-publishDate = "2015-11-20T08:52:00-05:00"
-related_articles = ["articles/aria-guides-deh-vieni-non-tardar.md","articles/aria-guides-una-voce-poco-fa.md","articles/song-guides-widmung.md"]
-related_people = ["scene/people/caitleen-kahn.md"]
-short_description = "We&#039;ve gotten great feedback from our ongoing series of Aria Guides, and so we&#039;ve decided to branch out, into the world of art song. Soprano Caitleen Kahn, co-founder of the art-song-friendly Lynx Project, kicks off our Song Guides with a staple from the repertoire. &quot;Die Nacht&quot; is a song taken from Richard Strauss&#039;s 1885 set, 8 Gedichte aus &quot;Letzte Blätter&quot;, in which you&#039;ll find other favourites like &quot;Zueignung&quot; and &quot;Allerseelen&quot;. "
-slug = "song-guides-die-nacht"
-title = "Song Guides: &quot;Die Nacht&quot;"
-+++
+---
+author:
+- authors/caitleen-kahn.md
+categories: How-to
+date: "2015-11-19T13:47:00-05:00"
+lastmod: "2015-11-20T11:10:00-05:00"
+preamble: |-
+  We've gotten great feedback from our ongoing series of Aria Guides, and so we've decided to branch out, into the world of art song. Soprano Caitleen Kahn, co-founder of the art-song-friendly [Lynx Project](/scene/companies/lynx-project/), kicks off our Song Guides with a staple from the repertoire. "Die Nacht" is a song taken from Richard Strauss's 1885 set, *8 Gedichte aus "Letzte Blätter"*, in which you'll find other favourites like "Zueignung" and "Allerseelen". Kahn offers up some proactive tips for singers of this gorgeous *Lied*. The text (translated by Lawrence Snyder and Rebecca Plack):
+
+  >"Aus dem Walde tritt die Nacht aus den Bäumen schleicht sie leise, schaut sich um im weitem Kreise, nun gib acht.
+  Alle Lichter dieser Welt, alle Blumen, alle Farben löscht sie aus und stiehlt die Garben weg vom Feld.
+  Alles nimmt sie, was nur hold, nimmt das Silber weg des Stroms, nimmt vom Kupferdach des Doms weg das Gold.
+  Ausgeplündert steht der Strauch, rücke näher, Seel an Seele; O die Nacht, mir bangt, sie stehle dich mir auch."
+
+  >"Night steps out of the woods, and sneaks softly out of the trees, looks about in a wide circle, now beware. All the lights of this earth, all flowers, all colors it extinguishes, and steals the sheaves from the field.
+  It takes everything that is dear, takes the silver from the stream, takes away, from the cathedral's copper roof, the gold. The shrubs stand plundered, draw nearer, soul to soul; Oh, I fear the night will also steal you from me."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448035818169/2015-11-19%20-%20Die%20Nacht.jpg.jpg
+publishDate: "2015-11-20T08:52:00-05:00"
+related_articles:
+- articles/aria-guides-deh-vieni-non-tardar.md
+- articles/aria-guides-una-voce-poco-fa.md
+- articles/song-guides-widmung.md
+related_people:
+- scene/people/caitleen-kahn.md
+short_description: 'We&#039;ve gotten great feedback from our ongoing series of Aria
+  Guides, and so we&#039;ve decided to branch out, into the world of art song. Soprano
+  Caitleen Kahn, co-founder of the art-song-friendly Lynx Project, kicks off our Song
+  Guides with a staple from the repertoire. &quot;Die Nacht&quot; is a song taken
+  from Richard Strauss&#039;s 1885 set, 8 Gedichte aus &quot;Letzte Blätter&quot;,
+  in which you&#039;ll find other favourites like &quot;Zueignung&quot; and &quot;Allerseelen&quot;. '
+slug: song-guides-die-nacht
+title: 'Song Guides: &quot;Die Nacht&quot;'
+---
 
 ## Some general wisdom
 

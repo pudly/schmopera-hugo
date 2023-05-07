@@ -1,17 +1,23 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = "2018-06-18T13:04:00-04:00"
-lastmod = "2018-06-19T07:43:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529341423899/sqJacquelineKo_2_DiamondsEdgePhotography.jpg.jpg"
-primary_image_credit = "Jacqueline Ko in Toward Tomorrow. Photo: Diamonds Edge Photography."
-publishDate = "2018-06-18T13:04:00-04:00"
-related_articles = ["articles/i-wrote-toward-tomorrow-to-bring-attention-to-this-crisis.md"]
-related_companies = ["scene/companies/opera-mariposa.md"]
-short_description = "Ko&#039;s rendition of Yentl&#039;s &quot;Papa, Can You Hear Me?&quot; and &quot;A Piece of Sky&quot; were both touching and fraught with emotion to open and close the show. Her aria &quot;Elle a fui, la tourterelle&quot; had wonderful moments of pathos, and her floated high notes were bright and brilliant."
-slug = "shining-a-light-toward-tomorrow"
-title = "Shining a light: Toward Tomorrow"
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2018-06-18T13:04:00-04:00"
+lastmod: "2018-06-19T07:43:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529341423899/sqJacquelineKo_2_DiamondsEdgePhotography.jpg.jpg
+primary_image_credit: 'Jacqueline Ko in Toward Tomorrow. Photo: Diamonds Edge Photography.'
+publishDate: "2018-06-18T13:04:00-04:00"
+related_articles:
+- articles/i-wrote-toward-tomorrow-to-bring-attention-to-this-crisis.md
+related_companies:
+- scene/companies/opera-mariposa.md
+short_description: Ko&#039;s rendition of Yentl&#039;s &quot;Papa, Can You Hear Me?&quot;
+  and &quot;A Piece of Sky&quot; were both touching and fraught with emotion to open
+  and close the show. Her aria &quot;Elle a fui, la tourterelle&quot; had wonderful
+  moments of pathos, and her floated high notes were bright and brilliant.
+slug: shining-a-light-toward-tomorrow
+title: 'Shining a light: Toward Tomorrow'
+---
 
 [*Toward Tomorrow*](/i-wrote-toward-tomorrow-to-bring-attention-to-this-crisis/) marks the 6th year that [Opera Mariposa](/scene/people/opera-mariposa/) has been putting on this series of fundraising recitals. The events are designed to raise funds and awareness for ME:FM, that is Myalgic Encephalomyelitis (ME) and Fibromyalgia (FM), one of which (ME) Mariposa founder Jacqueline Ko lives with. 
 

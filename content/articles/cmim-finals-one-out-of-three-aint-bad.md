@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2018-06-08T11:56:00-04:00"
-lastmod = "2018-06-09T21:35:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528473120267/CMIMFinals.jpg.jpg"
-primary_image_credit = "Clockwise from left: Canadian mezzo-soprano Emily D'Angelo, Canadian tenor Andrew Haji, and South Korean tenor Konstantin Lee in the 2018 CMIM Aria Finals. Photo: Tam Lan Truong Photography. "
-publishDate = "2018-06-08T12:19:00-04:00"
-related_articles = ["articles/anticipation-cmim-aria-semifinals-part-i.md","articles/the-2018-cmim-begins.md"]
-related_people = ["scene/people/emily-dangelo.md","scene/people/andrew-haji.md","scene/people/john-brancy.md","scene/people/rihab-chaieb.md","scene/people/julien-van-mellaerts.md"]
-short_description = "Even for me, I was quite errant in my guesses for the winners of this year&#039;s Concours musical international de Montréal. "
-slug = "cmim-finals-one-out-of-three-aint-bad"
-title = "CMIM Finals: one out of three ain&#039;t bad?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2018-06-08T11:56:00-04:00"
+lastmod: "2018-06-09T21:35:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528473120267/CMIMFinals.jpg.jpg
+primary_image_credit: 'Clockwise from left: Canadian mezzo-soprano Emily D''Angelo,
+  Canadian tenor Andrew Haji, and South Korean tenor Konstantin Lee in the 2018 CMIM
+  Aria Finals. Photo: Tam Lan Truong Photography. '
+publishDate: "2018-06-08T12:19:00-04:00"
+related_articles:
+- articles/anticipation-cmim-aria-semifinals-part-i.md
+- articles/the-2018-cmim-begins.md
+related_people:
+- scene/people/emily-dangelo.md
+- scene/people/andrew-haji.md
+- scene/people/john-brancy.md
+- scene/people/rihab-chaieb.md
+- scene/people/julien-van-mellaerts.md
+short_description: 'Even for me, I was quite errant in my guesses for the winners
+  of this year&#039;s Concours musical international de Montréal. '
+slug: cmim-finals-one-out-of-three-aint-bad
+title: 'CMIM Finals: one out of three ain&#039;t bad?'
+---
 
 I am historically terrible at predicting the winners in voice competitions. Actually, my weakness is more specific than that: I am terrible at predicting what jurors will deem winner-worthy. Sometimes I'm so off that I feel as though I'd seen different performances altogether - either that, or I'm being naïve and not reading between the invisible lines that always seem to exist with these high-stakes competitions.
 

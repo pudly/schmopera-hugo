@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-10-14T15:44:00+01:00"
-lastmod = "2016-10-17T16:52:00+01:00"
-preamble = "[Opera On Tap](/scene/companies/opera-on-tap/) is pairing episodic opera with virtual reality, with their new series, [*The Parksville Murders*](http://theparksvillemurders.com/). With music by Kamala Sankaram, libretto by Jerre Dye, and directed by Cari Ann Shim Sham\\*, *The Parksville Murders* is a horror opera, created specifically for a virtual reality experience. How cool is that? Audiences can tune in with their VR technology of choice (more on that below), to get both an entirely new operatic experience, while being completely creeped out.\n\nOn October 27, Opera On Tap is holding a [special preview event](https://www.eventbrite.com/e/the-parksville-murders-exclusive-preview-event-tickets-28072123477) at the Archway Under Manhattan Bridge, 80 Pearl St., New York, where audiences can watch the full pilot episode. [Click here](https://www.eventbrite.com/e/the-parksville-murders-exclusive-preview-event-tickets-28072123477) for tickets.\n\nWe spoke with Opera On Tap about the creation of *The Parksville Murders*, and how you can tune in."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615477955/2016-10-16---PM-Square.jpg.jpg"
-primary_image_credit = "Photo by Cari Ann Shim Sham*."
-publishDate = "2016-10-17T10:28:00+01:00"
-related_articles = ["articles/draculas-neighbour-nancy-allen-lundy.md"]
-related_companies = ["scene/companies/opera-on-tap.md"]
-short_description = "&quot;In episode 1, two young women (Sarah and Corrine) wake up confused and terrified in a dark, surreal, music-filled world of incongruities and evil intentions, a space where Time seems to have curved in on itself somehow. Grotesque, masked figures slowly gather around the two from the corners of the darkened room, ceremoniously awaiting the women’s fate.&quot;"
-slug = "opera-in-virtual-reality-the-parksville-murders"
-title = "Opera in virtual reality: The Parksville Murders"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-10-14T15:44:00+01:00"
+lastmod: "2016-10-17T16:52:00+01:00"
+preamble: |-
+  [Opera On Tap](/scene/companies/opera-on-tap/) is pairing episodic opera with virtual reality, with their new series, [*The Parksville Murders*](http://theparksvillemurders.com/). With music by Kamala Sankaram, libretto by Jerre Dye, and directed by Cari Ann Shim Sham\*, *The Parksville Murders* is a horror opera, created specifically for a virtual reality experience. How cool is that? Audiences can tune in with their VR technology of choice (more on that below), to get both an entirely new operatic experience, while being completely creeped out.
+
+  On October 27, Opera On Tap is holding a [special preview event](https://www.eventbrite.com/e/the-parksville-murders-exclusive-preview-event-tickets-28072123477) at the Archway Under Manhattan Bridge, 80 Pearl St., New York, where audiences can watch the full pilot episode. [Click here](https://www.eventbrite.com/e/the-parksville-murders-exclusive-preview-event-tickets-28072123477) for tickets.
+
+  We spoke with Opera On Tap about the creation of *The Parksville Murders*, and how you can tune in.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476615477955/2016-10-16---PM-Square.jpg.jpg
+primary_image_credit: Photo by Cari Ann Shim Sham*.
+publishDate: "2016-10-17T10:28:00+01:00"
+related_articles:
+- articles/draculas-neighbour-nancy-allen-lundy.md
+related_companies:
+- scene/companies/opera-on-tap.md
+short_description: '&quot;In episode 1, two young women (Sarah and Corrine) wake up
+  confused and terrified in a dark, surreal, music-filled world of incongruities and
+  evil intentions, a space where Time seems to have curved in on itself somehow. Grotesque,
+  masked figures slowly gather around the two from the corners of the darkened room,
+  ceremoniously awaiting the women’s fate.&quot;'
+slug: opera-in-virtual-reality-the-parksville-murders
+title: 'Opera in virtual reality: The Parksville Murders'
+---
 
 ## What can you tell us about *The Parksville Murders*?
 

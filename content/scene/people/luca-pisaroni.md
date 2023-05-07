@@ -1,24 +1,29 @@
-+++
-date = "2015-05-25T21:48:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2015-05-25T21:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432605037119/LucaSquare.jpg.jpg"
-primary_image_credit = "Marco Borggreve"
-publishDate = "2015-05-25T21:52:00-04:00"
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/san-francisco-opera.md"]
-slug = "luca-pisaroni"
-title = "Luca Pisaroni"
-website = "http://www.lucapisaroni.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/lucapisaroni?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/lucapisaroni"
-_template = "people_single"
-+++
+---
+date: "2015-05-25T21:48:00-04:00"
+discipline: Bass-baritone
+lastmod: "2015-05-25T21:52:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432605037119/LucaSquare.jpg.jpg
+primary_image_credit: Marco Borggreve
+publishDate: "2015-05-25T21:52:00-04:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/san-francisco-opera.md
+slug: luca-pisaroni
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/lucapisaroni?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/lucapisaroni
+title: Luca Pisaroni
+website: http://www.lucapisaroni.com/
+---
 
 Italian bass-baritone Luca Pisaroni has established himself as one of the most captivating and versatile singers performing today. Since his debut at age 26 with the Vienna Philharmonic at the Salzburg Festival, led by Nikolaus Harnoncourt, Mr. Pisaroni has performed at many of the world’s leading opera houses, concert halls and festivals.
 

@@ -1,22 +1,33 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2019-02-01T16:42:49+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Elektra runs through February 22 at the Four Seasons Centre. For details and tickets, [click here](https://www.coc.ca/productions/16487)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549039573/media/2019/02/sq18-19-03-MC-D-0112.jpg"
-primary_image_credit = ""
-related_articles = ["articles/hadrian-a-true-grand-opera.md", "articles/in-review-siegfried.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/michael-schade.md", "scene/people/susan-bullock.md", "scene/people/erin-wall.md", "scene/people/christine-goerke.md"]
-short_description = "What can one possibly say about Christine Goerke in this role and still do justice to the kind of singing we experienced on Saturday night? Her vocal range is not of this dimension and her finesse to Strauss' bombastic score is something to be witnessed in person."
-slug = "expressionist-nuance-elektra-at-the-coc"
-title = "Expressionist nuance: Elektra at the COC"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2019-02-01T16:42:49+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Elektra runs through February 22 at the Four Seasons Centre. For details
+  and tickets, [click here](https://www.coc.ca/productions/16487).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549039573/media/2019/02/sq18-19-03-MC-D-0112.jpg
+primary_image_credit: ""
+related_articles:
+- articles/hadrian-a-true-grand-opera.md
+- articles/in-review-siegfried.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/michael-schade.md
+- scene/people/susan-bullock.md
+- scene/people/erin-wall.md
+- scene/people/christine-goerke.md
+short_description: What can one possibly say about Christine Goerke in this role and
+  still do justice to the kind of singing we experienced on Saturday night? Her vocal
+  range is not of this dimension and her finesse to Strauss' bombastic score is something
+  to be witnessed in person.
+slug: expressionist-nuance-elektra-at-the-coc
+title: 'Expressionist nuance: Elektra at the COC'
+youtube_url: ""
+---
 Hello Schmop-tops! The new year is here and it brought Old Man Winter to Toronto, but the stage was on fire for the premiere of the Canadian Opera Company's remount of their production of Richard Strauss' [_Elektra_](https://www.coc.ca/productions/16487)_._
 
 Directed by James Robinson and starring soprano [Christine Goerke](/talking-with-singers-christine-goerke/) in the title role, this production sees the fall of the house of Agamemnon after his murder at the hands of his wife Klytämnestra and her lover Aegisth. After word reaches Elektra and her sister Chrysothemis of their estranged brother Orest's death, Elektra vows to avenge her father in her brother's stead. Orest arrives incognito and fulfils his sonly duty and the joy of knowing her tortures will end overcomes Elektra at the moment her father's house is reunited.

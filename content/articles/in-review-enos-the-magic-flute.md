@@ -1,18 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-03-17T11:30:00+00:00"
-lastmod = "2016-03-17T17:16:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458217346226/ENO-1516-The-Magic-Flute---Peter-Coleman-Wright%2C-Company-Robbie-Jack-Square.jpg.jpg"
-primary_image_credit = "Peter Coleman-Wright, Company. The Magic Flute, English National Opera, 2016. Photo: Robbie Jack."
-publishDate = "2016-03-17T12:47:00+00:00"
-related_articles = ["articles/in-review-il-trittico-at-roh.md","articles/great-nights-the-dream-of-gerontius.md","articles/in-review-madam-butterfly-at-eno.md","articles/in-review-tristan-and-isolde-at-eno.md","articles/in-review-don-giovanni-at-eno.md","articles/in-review-lulu-at-eno.md","articles/tarrare-the-freak-i-just-want-to-be-full.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/lucy-crowe.md","scene/people/allan-clayton.md","scene/people/ambur-braid.md","scene/people/soraya-mafi.md"]
-short_description = "Of course, the use of foley artists is novel in opera, yet it wasn&#039;t just the novelty that drew us in to McBurney&#039;s world. It was completely delightful to use the &quot;guts&quot; of the theatre to unashamedly tell this story; *Flute* is a piece that resists against specific places and times, and its impact is weakened when a director attempts to focus on the libretto&#039;s life lessons, at the expense of the silliness. With set designer Michael Levine, McBurney struck a beautiful balance of respect for Mozart, and comfortable inclusivity."
-slug = "in-review-enos-the-magic-flute"
-title = "In review: ENO&#039;s The Magic Flute"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-03-17T11:30:00+00:00"
+lastmod: "2016-03-17T17:16:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458217346226/ENO-1516-The-Magic-Flute---Peter-Coleman-Wright%2C-Company-Robbie-Jack-Square.jpg.jpg
+primary_image_credit: 'Peter Coleman-Wright, Company. The Magic Flute, English National
+  Opera, 2016. Photo: Robbie Jack.'
+publishDate: "2016-03-17T12:47:00+00:00"
+related_articles:
+- articles/in-review-il-trittico-at-roh.md
+- articles/great-nights-the-dream-of-gerontius.md
+- articles/in-review-madam-butterfly-at-eno.md
+- articles/in-review-tristan-and-isolde-at-eno.md
+- articles/in-review-don-giovanni-at-eno.md
+- articles/in-review-lulu-at-eno.md
+- articles/tarrare-the-freak-i-just-want-to-be-full.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/lucy-crowe.md
+- scene/people/allan-clayton.md
+- scene/people/ambur-braid.md
+- scene/people/soraya-mafi.md
+short_description: Of course, the use of foley artists is novel in opera, yet it wasn&#039;t
+  just the novelty that drew us in to McBurney&#039;s world. It was completely delightful
+  to use the &quot;guts&quot; of the theatre to unashamedly tell this story; *Flute*
+  is a piece that resists against specific places and times, and its impact is weakened
+  when a director attempts to focus on the libretto&#039;s life lessons, at the expense
+  of the silliness. With set designer Michael Levine, McBurney struck a beautiful
+  balance of respect for Mozart, and comfortable inclusivity.
+slug: in-review-enos-the-magic-flute
+title: 'In review: ENO&#039;s The Magic Flute'
+---
 
 We caught Simon McBurney's production of *The Magic Flute* at English National Opera, just in the nick of time. It was a beautiful introduction to the London Coliseum, which is lush and cozy all at once, and this *Flute* was full of life, fun, and and fantastic music. 
 

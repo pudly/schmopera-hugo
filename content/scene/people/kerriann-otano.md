@@ -1,19 +1,21 @@
-+++
-date = "2017-11-08T16:57:00-05:00"
-discipline = "Soprano"
-lastmod = "2017-11-08T16:57:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510178095687/Otano.jpg.jpg"
-publishDate = "2017-11-08T16:57:00-05:00"
-related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/washington-national-opera.md"]
-slug = "kerriann-otano"
-title = "Kerriann Otaño"
-website = "https://kerriannotano.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/kerriannomg/"
-_template = "people_single"
-+++
+---
+date: "2017-11-08T16:57:00-05:00"
+discipline: Soprano
+lastmod: "2017-11-08T16:57:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510178095687/Otano.jpg.jpg
+publishDate: "2017-11-08T16:57:00-05:00"
+related_companies:
+- scene/companies/houston-grand-opera.md
+- scene/companies/washington-national-opera.md
+slug: kerriann-otano
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/kerriannomg/
+title: Kerriann Otaño
+website: https://kerriannotano.com/
+---
 
 Hailed as a “powerhouse” with “major vocal goods and a feisty personality to match,” young American soprano Kerriann Otano was a 2016 National Semi-Finalist of the Metropolitan Opera National Council Auditions and a recent graduate of the  Washington National Opera Young Artist Program. In the 2016-2017 season, Kerriann was thrilled to return to Fort Worth Opera Festival in her role debut as Micaëla in Bizet’s *Carmen*.  Praised for her “generous soprano” by The Washington Post, this fall Ms. Otaño reprised the role of Contessa Almaviva in her debut at Opera Memphis in *Le Nozze di Figaro*, and she performed at WNO this season as Kitty Hart in Jake Heggie’s acclaimed *Dead Man Walking*. In 2017-18 she returns to the Washington National Opera for *Candide*, debuts the Lyric Opera of Chicago in *Fellow Travelers* in the role of Mary Johnson (cover), debuts the role of Senta in *The Flying Dutchman* with Opera San Jose, and she will also star in Tom Cipullo’s *Glory Denied* at the Houston Grand Opera.
 

@@ -1,16 +1,22 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-04-24T18:15:00-04:00"
-lastmod = "2018-04-24T21:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524618220223/sq18-2SweeneyTodd0223r_preview.jpg.jpg"
-primary_image_credit = "Photo by Joan Marcus ©2018."
-publishDate = "2018-04-24T21:09:00-04:00"
-related_articles = ["articles/elitism-irony-and-the-phantom-of-the-opera.md","articles/sublime-heartbreak-jesus-christ-superstar.md"]
-short_description = "Audiences have been flocking to the Barrow Street Theater, which has been converted into a 135-seat pie shop, for over a year. The producers have the delicious cheek to sell meat pies, by reservation only, prior to each performance. They will be serving up those pies well into the summer."
-slug = "sweeney-todd-demon-of-disguise"
-title = "Sweeney Todd: Demon of Disguise"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-04-24T18:15:00-04:00"
+lastmod: "2018-04-24T21:09:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524618220223/sq18-2SweeneyTodd0223r_preview.jpg.jpg
+primary_image_credit: Photo by Joan Marcus ©2018.
+publishDate: "2018-04-24T21:09:00-04:00"
+related_articles:
+- articles/elitism-irony-and-the-phantom-of-the-opera.md
+- articles/sublime-heartbreak-jesus-christ-superstar.md
+short_description: Audiences have been flocking to the Barrow Street Theater, which
+  has been converted into a 135-seat pie shop, for over a year. The producers have
+  the delicious cheek to sell meat pies, by reservation only, prior to each performance.
+  They will be serving up those pies well into the summer.
+slug: sweeney-todd-demon-of-disguise
+title: 'Sweeney Todd: Demon of Disguise'
+---
 
 ## The Disguise Comes Off
 

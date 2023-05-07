@@ -1,15 +1,17 @@
-+++
-date = "2015-07-14T10:12:00-06:00"
-discipline = "Baritone"
-lastmod = "2015-07-14T10:12:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436890269109/Michael-Robert-Broder-1-7811.jpg.jpg"
-publishDate = "2015-07-14T10:12:00-06:00"
-related_companies = ["scene/companies/highlands-opera-studio.md","scene/companies/opera-by-request.md"]
-slug = "michael-robertbroder"
-title = "Michael Robert-Broder"
-website = "http://www.michaelrobertbroder.com/content/biography"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2015-07-14T10:12:00-06:00"
+discipline: Baritone
+lastmod: "2015-07-14T10:12:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436890269109/Michael-Robert-Broder-1-7811.jpg.jpg
+publishDate: "2015-07-14T10:12:00-06:00"
+related_companies:
+- scene/companies/highlands-opera-studio.md
+- scene/companies/opera-by-request.md
+slug: michael-robertbroder
+title: Michael Robert-Broder
+website: http://www.michaelrobertbroder.com/content/biography
+---
 
 Michael Robert-Broder, baritone – Native to Vancouver, Michael Robert-Broder has established himself as one of Canada's most versatile young baritones. Equally at home with art song, oratorio, and opera, he has gained a reputation for engaging performances that perfectly join poet’s text with composer’s music, with the dramatic essence of a piece.
 

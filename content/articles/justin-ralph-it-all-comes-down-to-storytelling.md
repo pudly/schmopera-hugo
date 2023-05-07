@@ -1,15 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-08-31T14:50:00-04:00"
-lastmod = "2017-09-09T11:11:00-04:00"
-preamble = "Ottawa-based singer [Justin Ralph](https://www.justinralph.com/about) has roots in opera and operetta; with companies like [Opera Five](/scene/companies/opera-five/), [Toronto Operetta Theatre](/scene/companies/toronto-operetta-theatre/) and [Opera In Concert](/scene/companies/opera-in-concert/), Ralph has sung roles like Ferrando (*Così fan tutte*), Jupiter (*Semele*), Nanki-Poo (*The Mikado*), Frederick (*The Pirates of Penzance*) and Eisenstein (*Die Fledermaus*).\n\nHis love of the classical stage is balanced by a connection to country and folk music, with Schubert and Strauss as much inspiring figures as Hank Williams and Johnny Cash. Ralph has released his first folk/country EP, [*By the Old Railroad*](https://www.justinralph.com/music), where he shows off impressive versatility with his voice, and proves the universal nature of storytelling through music.\n\nHe chats with us about his surprising influences, and making a nod to art song with his debut album."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504205536628/2017-08-31---justinheader3.jpg.jpg"
-publishDate = "2017-09-09T11:11:00-04:00"
-short_description = "&quot;Whether you&#039;re singing opera, art song, folk music, or even country, you&#039;re unfolding a story for the audience and transporting them to a different time and place than the present. Schubert&#039;s traveller in Winterreise and Hank Williams&#039; lonesome soul in &#039;Lost Highway&#039; have a lot in common despite the centuries between them, and immersing myself in either character brings me a lot of satisfaction.&quot;"
-slug = "justin-ralph-it-all-comes-down-to-storytelling"
-title = "Justin Ralph: &quot;It all comes down to storytelling.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-08-31T14:50:00-04:00"
+lastmod: "2017-09-09T11:11:00-04:00"
+preamble: |-
+  Ottawa-based singer [Justin Ralph](https://www.justinralph.com/about) has roots in opera and operetta; with companies like [Opera Five](/scene/companies/opera-five/), [Toronto Operetta Theatre](/scene/companies/toronto-operetta-theatre/) and [Opera In Concert](/scene/companies/opera-in-concert/), Ralph has sung roles like Ferrando (*Così fan tutte*), Jupiter (*Semele*), Nanki-Poo (*The Mikado*), Frederick (*The Pirates of Penzance*) and Eisenstein (*Die Fledermaus*).
+
+  His love of the classical stage is balanced by a connection to country and folk music, with Schubert and Strauss as much inspiring figures as Hank Williams and Johnny Cash. Ralph has released his first folk/country EP, [*By the Old Railroad*](https://www.justinralph.com/music), where he shows off impressive versatility with his voice, and proves the universal nature of storytelling through music.
+
+  He chats with us about his surprising influences, and making a nod to art song with his debut album.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504205536628/2017-08-31---justinheader3.jpg.jpg
+publishDate: "2017-09-09T11:11:00-04:00"
+short_description: '&quot;Whether you&#039;re singing opera, art song, folk music,
+  or even country, you&#039;re unfolding a story for the audience and transporting
+  them to a different time and place than the present. Schubert&#039;s traveller in
+  Winterreise and Hank Williams&#039; lonesome soul in &#039;Lost Highway&#039; have
+  a lot in common despite the centuries between them, and immersing myself in either
+  character brings me a lot of satisfaction.&quot;'
+slug: justin-ralph-it-all-comes-down-to-storytelling
+title: 'Justin Ralph: &quot;It all comes down to storytelling.&quot;'
+---
 
 ## What do you find are some surprising similarities between singing in an operatic context, and recording a folk/country EP?
 

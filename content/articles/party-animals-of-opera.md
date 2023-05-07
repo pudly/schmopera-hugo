@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-12-13T12:42:00-05:00"
-lastmod = "2015-12-14T09:24:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450035826417/2015-12-13---Party.jpg.jpg"
-publishDate = "2015-12-14T08:59:00-05:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/evamaria-westbroek.md","scene/people/jane-archibald.md","scene/people/gerald-finley.md","scene/people/anthony-roth-costanzo.md"]
-short_description = "It&#039;s the holiday season, readers, and there&#039;s more excuses than usual to break out the wine, champagne, egg nog, and really old scotch. (Well, maybe not, since you&#039;re all artists.) So, let&#039;s pay homage to some of opera&#039;s greatest, booziest parties, and their onstage results. We&#039;re starting with what should really become the new Brindisi scene at opera galas."
-slug = "party-animals-of-opera"
-title = "Party animals of opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-12-13T12:42:00-05:00"
+lastmod: "2015-12-14T09:24:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450035826417/2015-12-13---Party.jpg.jpg
+publishDate: "2015-12-14T08:59:00-05:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/evamaria-westbroek.md
+- scene/people/jane-archibald.md
+- scene/people/gerald-finley.md
+- scene/people/anthony-roth-costanzo.md
+short_description: It&#039;s the holiday season, readers, and there&#039;s more excuses
+  than usual to break out the wine, champagne, egg nog, and really old scotch. (Well,
+  maybe not, since you&#039;re all artists.) So, let&#039;s pay homage to some of
+  opera&#039;s greatest, booziest parties, and their onstage results. We&#039;re starting
+  with what should really become the new Brindisi scene at opera galas.
+slug: party-animals-of-opera
+title: Party animals of opera
+---
 
 It's the holiday season, readers, and there's more excuses than usual to break out the wine, champagne, egg nog, and really old scotch. (Well, maybe not, since you're all artists.)
 

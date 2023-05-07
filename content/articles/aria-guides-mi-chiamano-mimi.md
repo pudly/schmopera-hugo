@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2016-05-25T21:41:00+01:00"
-lastmod = "2016-05-26T12:56:00+01:00"
-postamble = "Have a request for our Aria Guides? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com). Plus, head over to our [Schmopera Store](http://store.schmopera.com/collections/womens-t-shirts/products/they-call-me-mimi-womens-t-shirt) to get your Mimì apparel!"
-preamble = "Next up in our series of Aria Guides: [Mimì's first aria](http://store.schmopera.com/collections/womens-t-shirts/products/they-call-me-mimi-womens-t-shirt) from Puccini's infamous *La bohème*. The aria is Mimì's response to Rodolfo's \"Che gelida manina\", and together, they form one of opera's most amazing moments of \"getting to know you\". Puccini's scores are rich in detail, and he doesn't leave much to the imagination. But along with your teachers and coaches, we can offer a few starting points as you get to work on this [delicious bit of music](http://store.schmopera.com/collections/womens-t-shirts/products/they-call-me-mimi-womens-t-shirt)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553307199/media/2019/03/sqMimi.jpg"
-publishDate = "2016-05-25T23:03:00+01:00"
-related_articles = ["articles/aria-guides-quando-men-vo.md", "articles/aria-guides-deh-vieni-non-tardar.md", "articles/aria-guides-insert-christmas-carol-here.md", "articles/aria-guides-embroidery-aria.md"]
-short_description = "Next up in our series of Aria Guides: Mimì's first aria from Puccini's infamous La bohème. The aria is Mimì's response to Rodolfo;s \"Che gelida manina\", and together, they form one of opera's most amazing moments of \"getting to know you\". Puccini's scores are rich in detail, and he doesn't leave much to the imagination. But along with your teachers and coaches, we can offer a few starting points as you get to work on this delicious bit of music."
-slug = "aria-guides-mi-chiamano-mimi"
-title = "Aria guides: Mi chiamano Mimì"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2016-05-25T21:41:00+01:00"
+lastmod: "2016-05-26T12:56:00+01:00"
+postamble: Have a request for our Aria Guides? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+  Plus, head over to our [Schmopera Store](http://store.schmopera.com/collections/womens-t-shirts/products/they-call-me-mimi-womens-t-shirt)
+  to get your Mimì apparel!
+preamble: 'Next up in our series of Aria Guides: [Mimì''s first aria](http://store.schmopera.com/collections/womens-t-shirts/products/they-call-me-mimi-womens-t-shirt)
+  from Puccini''s infamous *La bohème*. The aria is Mimì''s response to Rodolfo''s
+  "Che gelida manina", and together, they form one of opera''s most amazing moments
+  of "getting to know you". Puccini''s scores are rich in detail, and he doesn''t
+  leave much to the imagination. But along with your teachers and coaches, we can
+  offer a few starting points as you get to work on this [delicious bit of music](http://store.schmopera.com/collections/womens-t-shirts/products/they-call-me-mimi-womens-t-shirt).'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553307199/media/2019/03/sqMimi.jpg
+publishDate: "2016-05-25T23:03:00+01:00"
+related_articles:
+- articles/aria-guides-quando-men-vo.md
+- articles/aria-guides-deh-vieni-non-tardar.md
+- articles/aria-guides-insert-christmas-carol-here.md
+- articles/aria-guides-embroidery-aria.md
+short_description: 'Next up in our series of Aria Guides: Mimì''s first aria from
+  Puccini''s infamous La bohème. The aria is Mimì''s response to Rodolfo;s "Che gelida
+  manina", and together, they form one of opera''s most amazing moments of "getting
+  to know you". Puccini''s scores are rich in detail, and he doesn''t leave much to
+  the imagination. But along with your teachers and coaches, we can offer a few starting
+  points as you get to work on this delicious bit of music.'
+slug: aria-guides-mi-chiamano-mimi
+title: 'Aria guides: Mi chiamano Mimì'
+---
  1. This is the beauty of Puccini. He writes down everything you need to know, like this portamentos. The trick with this style of portamento is to make sure it's fully sung, on the initial vowel. In the first measure, take care to get spinning on the first B-flat, with a nice \[ɔ\] vowel; as you get to the top, you'll actually be singing that E-natural while still on the "-no" of "chiamano". It's almost like you get to the E early, and you're already sustaining that same pitch when you change to the word "Mimì". This is a subtle stylistic difference between Italian portamentos, and the kind you'd find in Massenet, for example. It shouldn't be the whole point of the gesture, just know that you have the time to really get to where you're going on the first vowel, before shifting to the next.<figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464208810682/Aria-Guides---Mimi---annotated---p1.jpg.jpg) </figure>

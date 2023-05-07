@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-04-10T22:54:00-04:00"
-lastmod = "2015-04-10T22:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428720348543/bh-ElmerdeHaas4.jpg.jpg"
-primary_image_credit = "Elmer de Haas"
-publishDate = "2015-03-08T10:15:00-04:00"
-related_articles = ["articles/still-stunning-written-on-skin.md","articles/in-review-hannigan-grazinyte-tyle-BBC-proms.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/barbara-hannigan.md","scene/people/krisztina-szab.md","scene/people/isaiah-bell.md"]
-short_description = "I didn’t now much about Written on Skin, except that it had its premiere in 2012 at Aix-en-Provence, and the next year it ran at the Royal Opera House. As I sat in Roy Thomson Hall, I was surprised at how immediately I thought, “Oh, I have to see this staged.” It’s a rare thing for an in-concert opera to jump out at me with its visual potential, but something about Written on Skin really stuck in my head. "
-slug = "in-review-written-on-skin"
-title = "In Review: Written On Skin"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-04-10T22:54:00-04:00"
+lastmod: "2015-04-10T22:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428720348543/bh-ElmerdeHaas4.jpg.jpg
+primary_image_credit: Elmer de Haas
+publishDate: "2015-03-08T10:15:00-04:00"
+related_articles:
+- articles/still-stunning-written-on-skin.md
+- articles/in-review-hannigan-grazinyte-tyle-BBC-proms.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/barbara-hannigan.md
+- scene/people/krisztina-szab.md
+- scene/people/isaiah-bell.md
+short_description: 'I didn’t now much about Written on Skin, except that it had its
+  premiere in 2012 at Aix-en-Provence, and the next year it ran at the Royal Opera
+  House. As I sat in Roy Thomson Hall, I was surprised at how immediately I thought,
+  “Oh, I have to see this staged.” It’s a rare thing for an in-concert opera to jump
+  out at me with its visual potential, but something about Written on Skin really
+  stuck in my head. '
+slug: in-review-written-on-skin
+title: 'In Review: Written On Skin'
+---
 
 <p>
 	As part of the 

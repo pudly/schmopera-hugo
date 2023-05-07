@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-09-21T10:33:00+01:00"
-lastmod = "2016-09-21T19:24:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474451690599/2016-09-22---Pub-2.jpg.jpg"
-primary_image_credit = "Photo: Denny Wu via Flickr."
-publishDate = "2016-09-21T18:54:00+01:00"
-related_articles = ["articles/in-review-ayre.md","articles/success-hype-the-first-season-of-opera-pubs-in-toronto.md","articles/i-think-it-takes-a-brave-artist-to-do-something-like-an-opera-pub.md","articles/sunday-funday-a-dontmissit-operatic-doubleheader.md","articles/appetizers-arias-popera-at-the-drake-one-fifty.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md"]
-short_description = "Opera Pubs accommodate the kind of listeners who simply enjoy the sound of operatic singing, and who aren&#039;t necessarily itching to know the details of the story. Even better, the common ground of a pub environment allows listeners to feel as though they&#039;re among the group of singers, rather than watching from afar."
-slug = "atgs-opera-pubs-it-can-all-get-a-bit-wild"
-title = "AtG&#039;s Opera Pubs: &quot;It can all get a bit wild.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-09-21T10:33:00+01:00"
+lastmod: "2016-09-21T19:24:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474451690599/2016-09-22---Pub-2.jpg.jpg
+primary_image_credit: 'Photo: Denny Wu via Flickr.'
+publishDate: "2016-09-21T18:54:00+01:00"
+related_articles:
+- articles/in-review-ayre.md
+- articles/success-hype-the-first-season-of-opera-pubs-in-toronto.md
+- articles/i-think-it-takes-a-brave-artist-to-do-something-like-an-opera-pub.md
+- articles/sunday-funday-a-dontmissit-operatic-doubleheader.md
+- articles/appetizers-arias-popera-at-the-drake-one-fifty.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/joel-ivany.md
+- scene/people/christopher-mokrzewski.md
+short_description: Opera Pubs accommodate the kind of listeners who simply enjoy the
+  sound of operatic singing, and who aren&#039;t necessarily itching to know the details
+  of the story. Even better, the common ground of a pub environment allows listeners
+  to feel as though they&#039;re among the group of singers, rather than watching
+  from afar.
+slug: atgs-opera-pubs-it-can-all-get-a-bit-wild
+title: 'AtG&#039;s Opera Pubs: &quot;It can all get a bit wild.&quot;'
+---
 
 Exciting announcements seem to be the norm at [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/), and so far, they're on schedule for their 2016/17. 
 

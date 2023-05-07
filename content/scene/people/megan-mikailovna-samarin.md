@@ -1,24 +1,26 @@
-+++
-date = "2017-10-29T12:10:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-10-29T12:10:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509293222595/Megan_Samarin_pc_Simon_Pauly_1.jpg.jpg"
-primary_image_credit = "Simon Pauly"
-publishDate = "2017-10-29T12:10:00-04:00"
-related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/opera-on-the-avalon.md"]
-slug = "megan-mikailovna-samarin"
-title = "Megan Mikailovna Samarin"
-website = "http://www.megansamarin.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/megansamarinmezzosoprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/megsamarin"
-_template = "people_single"
-+++
+---
+date: "2017-10-29T12:10:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-10-29T12:10:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509293222595/Megan_Samarin_pc_Simon_Pauly_1.jpg.jpg
+primary_image_credit: Simon Pauly
+publishDate: "2017-10-29T12:10:00-04:00"
+related_companies:
+- scene/companies/houston-grand-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/opera-on-the-avalon.md
+slug: megan-mikailovna-samarin
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/megansamarinmezzosoprano
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/megsamarin
+title: Megan Mikailovna Samarin
+website: http://www.megansamarin.com/
+---
 
 In the 2016-17 season mezzo-soprano Megan Mikailovna Samarin returns to Houston Grand Opera for three productions, singing Siébel in *Faust*, Second Secretary in *Nixon in China*, and covering Wellgunde in *Götterdämmerung*. 
 

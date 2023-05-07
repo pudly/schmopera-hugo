@@ -1,23 +1,23 @@
-+++
-date = "2018-03-03T08:33:00-05:00"
-discipline = "Baritone"
-lastmod = "2018-03-03T08:33:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520083894147/MAIN%20ONE%20-%20MATTHEW%20DURKAN%20-%20Credit%20Pablo%20Strong.jpg.jpg"
-primary_image_credit = "Pablo Strong"
-publishDate = "2018-03-03T08:33:00-05:00"
-related_companies = ["scene/companies/english-national-opera.md"]
-slug = "matthew-durkan"
-title = "Matthew Durkan"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/MatthewDurkanBaritone/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/matthewdurkan"
-_template = "people_single"
-+++
+---
+date: "2018-03-03T08:33:00-05:00"
+discipline: Baritone
+lastmod: "2018-03-03T08:33:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520083894147/MAIN%20ONE%20-%20MATTHEW%20DURKAN%20-%20Credit%20Pablo%20Strong.jpg.jpg
+primary_image_credit: Pablo Strong
+publishDate: "2018-03-03T08:33:00-05:00"
+related_companies:
+- scene/companies/english-national-opera.md
+slug: matthew-durkan
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/MatthewDurkanBaritone/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/matthewdurkan
+title: Matthew Durkan
+---
 
 Winner of the 2014 Stuart Burrows International Voice Award and a finalist in the 2014 Kathleen Ferrier Competition, Matthew is a recent graduate of the National Opera Studio.
 

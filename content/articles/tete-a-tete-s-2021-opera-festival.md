@@ -1,22 +1,32 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = 2021-08-22T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "For full details on Tête à Tête's 2021 Opera Festival, check out [their line-up](https://www.tete-a-tete.org.uk/festival/tete-a-tete-the-opera-festival-2021/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1629681106/media/2021/08/TeteaTete2021_ee3rxz.jpg"
-primary_image_credit = "Red Gray in The Unravelling Fantasia of Miss H, by Red Gray and Sarah Nicolls, part of Tête à Tête The Opera Festival, 2021. Photo by Claire Shovelton."
-related_articles = ["articles/talking-with-singers-heloise-werner.md", "articles/tete-a-tete.md", "articles/tete-a-tete-at-home-a-sampling.md"]
-related_companies = ["scene/companies/tete-a-tete.md"]
-related_people = ["scene/people/lore-lixenberg.md"]
-short_description = "As ever, I was truly inspired by the creativity of the artists in the line-up this season at Tête à Tête; they never fail in their curation of and encouragement for any and all work that lies outside the realm of the traditional. "
-slug = "new-inventions-app-eras-at-tete-a-tetes-2021-opera-festival"
-title = "New inventions & app-eras at Tête à Tête's 2021 Opera Festival"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2021-08-22T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: For full details on Tête à Tête's 2021 Opera Festival, check out [their
+  line-up](https://www.tete-a-tete.org.uk/festival/tete-a-tete-the-opera-festival-2021/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1629681106/media/2021/08/TeteaTete2021_ee3rxz.jpg
+primary_image_credit: Red Gray in The Unravelling Fantasia of Miss H, by Red Gray
+  and Sarah Nicolls, part of Tête à Tête The Opera Festival, 2021. Photo by Claire
+  Shovelton.
+related_articles:
+- articles/talking-with-singers-heloise-werner.md
+- articles/tete-a-tete.md
+- articles/tete-a-tete-at-home-a-sampling.md
+related_companies:
+- scene/companies/tete-a-tete.md
+related_people:
+- scene/people/lore-lixenberg.md
+short_description: 'As ever, I was truly inspired by the creativity of the artists
+  in the line-up this season at Tête à Tête; they never fail in their curation of
+  and encouragement for any and all work that lies outside the realm of the traditional. '
+slug: new-inventions-app-eras-at-tete-a-tetes-2021-opera-festival
+title: New inventions & app-eras at Tête à Tête's 2021 Opera Festival
+youtube_url: ""
+---
 The [Tête à Tête](/scene/companies/tete-a-tete/) Opera Festival returned this month for its [14th season](https://www.tete-a-tete.org.uk/festival/tete-a-tete-the-opera-festival-2021/). As always, the programme was varied and wide reaching, ranging from projects in their earliest stages, to complete works. Audiences are offered a panoply of options whether they choose to attend in person or via interactive broadcast. In a very clever move, Tête à Tête has begun to offer live broadcasts of many of the shows in their line-up this season, a solution that sprung from the need to adapt during the COVID-19 pandemic last year. The broadcasts allow for anyone to engage with these performances and more than ever before, have enabled artists to experiment with a more digital approach.
 
 This month, I was lucky enough to catch three of these broadcasts, each of which presented an entirely contrasting types of opera each in a different stage of its development. In common they all had the aspiration for storytelling and community building, and they all shared the infectious joy that live performance sparks.

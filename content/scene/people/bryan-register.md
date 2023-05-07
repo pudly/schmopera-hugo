@@ -1,29 +1,30 @@
-+++
-date = "2016-05-24T15:25:00-04:00"
-discipline = "Tenor"
-lastmod = "2016-05-24T15:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546830142/media/2019/01/BryanRegister.gif"
-primary_image_credit = "Dario Acosta"
-publishDate = "2016-05-24T15:25:00-04:00"
-related_companies = ["scene/companies/grange-park-opera.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/manhattan-school-of-music.md"]
-slug = "bryan-register"
-title = "Bryan Register"
-website = "http://www.bryanregister.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/BryanRegisterTenor?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/BryanRegister"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/bryantenor"
-
-_template = "people_single"
-+++
+---
+date: "2016-05-24T15:25:00-04:00"
+discipline: Tenor
+lastmod: "2016-05-24T15:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546830142/media/2019/01/BryanRegister.gif
+primary_image_credit: Dario Acosta
+publishDate: "2016-05-24T15:25:00-04:00"
+related_companies:
+- scene/companies/grange-park-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/manhattan-school-of-music.md
+slug: bryan-register
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/BryanRegisterTenor?fref=ts
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/BryanRegister
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/bryantenor
+title: Bryan Register
+website: http://www.bryanregister.com/
+---
 Bryan Register has received critical acclaim for the fresh, bright timbre of his voice and strong dramatic singing. This season he makes his debuts at the Semperoper Dresden singing _Enée Les Troyens_ in a new production by Lydia Steiner and at La Monnaie in the title role _Lohengrin_ in a new production by Olivier Py, conducted by Alain Altinoglu. Recent highlights include his house debut as _Enée Les Troyens_ for Frankfurt Opera in a new production by Eva Maria Höckmayr, conducted by John Nelson, _Siegmund Die Walküre_ for Grange Park Opera, and _Tristan Tristan und Isolde_ at the Tokyo Nikikai Opera Theatre under the baton of Jesús Lopez Cobos. American tenor Bryan Register has received critical acclaim for the fresh, bright timbre of his voice and strong dramatic singing. This season he makes his debuts at the Semperoper Dresden singing Enée Les Troyens in a new production by Lydia Steiner and at La Monnaie in the title role Lohengrin in a new production by Olivier Py, conducted by Alain Altinoglu. Recent highlights include his house debut as Enée Les Troyens for Frankfurt Opera in a new production by Eva Maria Höckmayr, conducted by John Nelson, Siegmund Die Walküre for Grange Park Opera, and Tristan Tristan und Isolde at the Tokyo Nikikai Opera Theatre under the baton of Jesús Lopez Cobos.
 
 Further recent highlights include _Tristan Tristan und Isolde_ for Grange Park Oper_a, Siegmund Die Walküre_ for Theater Kiel, _Beethoven Symphony No.9_ with the Royal Liverpool Philharmonic Orchestra, _Florestan Fidelio_ for Opera Omaha, title role _Lohengrin_ at the Hong Kong Arts Festival and at the Savonlinna Opera Festival, and _Florestan Fidelio_ and _Drum Major Wozzeck_ at English National Opera, conducted by Edward Gardner.

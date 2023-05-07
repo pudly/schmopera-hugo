@@ -1,19 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-04-29T23:19:00-04:00"
-lastmod = "2015-05-09T12:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546050277/media/2018/12/sqGwendolenCecilyatLoveSeat.jpg"
-primary_image_credit = "l-r: Michelle Garlough as Gwendolyn and Charlotte Knight as Cecily. Photo by Gary Beechey."
-publishDate = "2015-04-30T13:55:00-04:00"
-related_articles = ["articles/spotlight-on-charlotte-knight.md", "articles/in-review-los-gavilanes-at-toronto-operetta-theatre.md"]
-related_companies = ["scene/companies/toronto-operetta-theatre.md"]
-related_people = ["scene/people/gregory-finney.md", "scene/people/cameron-mcphail.md", "scene/people/charlotte-knight.md", "scene/people/michelle-garlough.md"]
-short_description = "Last night I went to opening night of Earnest, the Importance of Being at Toronto Operetta Theatre. The piece, by Victor Davies and Eugene Benson, had its premiere in 2008. It&#039;s a rare thing to find an original Canadian operetta, and this one is a hilarious and charming take on Oscar Wilde&#039;s *The Importance of Being Earnest*."
-slug = "in-review-earnest-the-importance-of-being"
-title = "In review: Earnest, the Importance of Being"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-04-29T23:19:00-04:00"
+lastmod: "2015-05-09T12:56:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546050277/media/2018/12/sqGwendolenCecilyatLoveSeat.jpg
+primary_image_credit: 'l-r: Michelle Garlough as Gwendolyn and Charlotte Knight as
+  Cecily. Photo by Gary Beechey.'
+publishDate: "2015-04-30T13:55:00-04:00"
+related_articles:
+- articles/spotlight-on-charlotte-knight.md
+- articles/in-review-los-gavilanes-at-toronto-operetta-theatre.md
+related_companies:
+- scene/companies/toronto-operetta-theatre.md
+related_people:
+- scene/people/gregory-finney.md
+- scene/people/cameron-mcphail.md
+- scene/people/charlotte-knight.md
+- scene/people/michelle-garlough.md
+short_description: Last night I went to opening night of Earnest, the Importance of
+  Being at Toronto Operetta Theatre. The piece, by Victor Davies and Eugene Benson,
+  had its premiere in 2008. It&#039;s a rare thing to find an original Canadian operetta,
+  and this one is a hilarious and charming take on Oscar Wilde&#039;s *The Importance
+  of Being Earnest*.
+slug: in-review-earnest-the-importance-of-being
+title: 'In review: Earnest, the Importance of Being'
+---
 Last night I went to opening night of _Earnest, the Importance of Being_ at [Toronto Operetta Theatre](http://www.torontooperetta.com/shows.html). The piece, by Victor Davies and Eugene Benson, had its premiere in 2008. It's a rare thing to find an original Canadian operetta, and this one is a hilarious and charming take on Oscar Wilde's _The Importance of Being Earnest_.
 
 The dialoge is taken directly from Wilde, and the sung libretto by Eugene Benson is an organic extension of the original text, full of Wilde-esque plays on words and really dry wit. The music itself takes a lot from the traditional operetta style, with funny pizzicato moments and soaring melodies; conductor Larry Beckwith led the orchestra with flexibility and fun. The moments of musical comedy were a bit surprising at times, like the pentatonic scales and gongs when there's talk of Japan; I got the funny intent, it just seemed a bit dated for a piece less than ten years old.

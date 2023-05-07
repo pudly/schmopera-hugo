@@ -1,17 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-01-17T14:44:00+00:00"
-lastmod = "2017-02-06T16:20:00+00:00"
-preamble = "There's a haunting combination of voice, cello, and electronics that makes *Dare Voce*, the new album by Olivia Salvadori and Sandro Mussida, stand out. [Salvadori](https://twitter.com/oliviasalvadori), the Italian classically-trained soprano and performing artist, collaborates with cellist, composer, and electronic producer [Mussida](https://twitter.com/sandromussida), in a \"ten-year long exploration of the voice.\"\n\n*Dare Voce* has an ancient feel, organically combining acoustic and electronic sounds, and musical styles from various corners of the globe. There's a simplicity inherent in the atmospheric songs that evokes the feeling of a live performance. \n\nSalvadori and Mussida chat about their latest collaborative project, and about leaving their mark in the tradition of Italian *bel canto*.\n\n*Dare Voce* is released on Sony Classical. You can get it on [iTunes](https://itunes.apple.com/gb/album/dare-voce/id1181090103) and [Amazon](https://www.amazon.com/Dare-Voce-Olivia-Salvadori/dp/B01N3JMO24%3FSubscriptionId%3D0NYB3SKF1S4GEN0AE182%26tag%3Da978b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01N3JMO24).\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486383007555/2017-02-05---Sandro-Mussida-with-Olivia-Salvadori.jpg.jpg"
-primary_image_credit = "Olivia Salvadori and Sandro Mussida."
-publishDate = "2017-02-06T15:28:00+00:00"
-related_articles = ["articles/album-review-all-who-wander.md","articles/in-review-pretty-yendes-debut-album-a-journey.md","articles/in-review-baby-kintyre.md"]
-short_description = "&quot;We wanted to make a Songbook, a series of songs within the tradition of the Italian &#039;bel canto&#039;, but using a range of contemporary sounds at our disposal, for example, the electric and electronic. If you think about it, opera was once a part of popular culture... in Italy you can still go to the markets and find someone calling out with a Puccini tune!&quot;"
-slug = "bel-canto-indeed-dare-voce"
-title = "Bel canto indeed: &quot;Dare Voce&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-01-17T14:44:00+00:00"
+lastmod: "2017-02-06T16:20:00+00:00"
+preamble: "There's a haunting combination of voice, cello, and electronics that makes
+  *Dare Voce*, the new album by Olivia Salvadori and Sandro Mussida, stand out. [Salvadori](https://twitter.com/oliviasalvadori),
+  the Italian classically-trained soprano and performing artist, collaborates with
+  cellist, composer, and electronic producer [Mussida](https://twitter.com/sandromussida),
+  in a \"ten-year long exploration of the voice.\"\n\n*Dare Voce* has an ancient feel,
+  organically combining acoustic and electronic sounds, and musical styles from various
+  corners of the globe. There's a simplicity inherent in the atmospheric songs that
+  evokes the feeling of a live performance. \n\nSalvadori and Mussida chat about their
+  latest collaborative project, and about leaving their mark in the tradition of Italian
+  *bel canto*.\n\n*Dare Voce* is released on Sony Classical. You can get it on [iTunes](https://itunes.apple.com/gb/album/dare-voce/id1181090103)
+  and [Amazon](https://www.amazon.com/Dare-Voce-Olivia-Salvadori/dp/B01N3JMO24%3FSubscriptionId%3D0NYB3SKF1S4GEN0AE182%26tag%3Da978b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01N3JMO24).\n\n"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486383007555/2017-02-05---Sandro-Mussida-with-Olivia-Salvadori.jpg.jpg
+primary_image_credit: Olivia Salvadori and Sandro Mussida.
+publishDate: "2017-02-06T15:28:00+00:00"
+related_articles:
+- articles/album-review-all-who-wander.md
+- articles/in-review-pretty-yendes-debut-album-a-journey.md
+- articles/in-review-baby-kintyre.md
+short_description: '&quot;We wanted to make a Songbook, a series of songs within the
+  tradition of the Italian &#039;bel canto&#039;, but using a range of contemporary
+  sounds at our disposal, for example, the electric and electronic. If you think about
+  it, opera was once a part of popular culture... in Italy you can still go to the
+  markets and find someone calling out with a Puccini tune!&quot;'
+slug: bel-canto-indeed-dare-voce
+title: 'Bel canto indeed: &quot;Dare Voce&quot;'
+---
 
 ## How did you discover your combined aesthetic for *Dare Voce*?
 

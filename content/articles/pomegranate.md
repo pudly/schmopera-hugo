@@ -1,22 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-05-08T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[_Pomegranate_](http://buddiesinbadtimes.com/show/pomegranate/) runs at Buddies in Bad Times Theatre June 5-9."
-preamble = "Next month, Toronto's Buddies in Bad Times Theatre sees the world premiere of [_Pomegranate_](http://buddiesinbadtimes.com/show/pomegranate/), the lesbian chamber opera by Kye Marshall and Amanda Hale. The story of time-travel and love is directed by Michael Mori, and runs June 5-9.\n\nWe spoke with Hale and Marshall about their work, and the story they hope to tell with _Pomegranate_."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557424860/media/2019/05/sqPOM.jpg"
-primary_image_credit = "Camille Rogers and Rebecca Gray as Suzie and Cass in Pomegranate."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "\"It shows how lovers can be so deeply bonded that they remain loyal to each other across huge time spans and are once again drawn together, even without recognizing why, just acting on instinct.\""
-slug = "a-lesbian-chamber-opera-to-span-centuries-pomegranate"
-title = "A lesbian chamber opera to span centuries: Pomegranate"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-05-08T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '[_Pomegranate_](http://buddiesinbadtimes.com/show/pomegranate/) runs at
+  Buddies in Bad Times Theatre June 5-9.'
+preamble: |-
+  Next month, Toronto's Buddies in Bad Times Theatre sees the world premiere of [_Pomegranate_](http://buddiesinbadtimes.com/show/pomegranate/), the lesbian chamber opera by Kye Marshall and Amanda Hale. The story of time-travel and love is directed by Michael Mori, and runs June 5-9.
 
-+++
+  We spoke with Hale and Marshall about their work, and the story they hope to tell with _Pomegranate_.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1557424860/media/2019/05/sqPOM.jpg
+primary_image_credit: Camille Rogers and Rebecca Gray as Suzie and Cass in Pomegranate.
+related_articles: []
+related_companies: []
+related_people: []
+short_description: '"It shows how lovers can be so deeply bonded that they remain
+  loyal to each other across huge time spans and are once again drawn together, even
+  without recognizing why, just acting on instinct."'
+slug: a-lesbian-chamber-opera-to-span-centuries-pomegranate
+title: 'A lesbian chamber opera to span centuries: Pomegranate'
+youtube_url: ""
+---
 ## What inspired this story of time-travel and love?
 
 **Amanda:** I've always been drawn to the Classical era of the Mediterranean – especially Greco-Roman culture and its accompanying mythologies. In the early 2000s I visited the ruins of Pompeii and was intrigued with the frescoes in the Villa of Mysteries – a building on the edge of the town of Pompeii, housing a wine press, and a Hall with walls covered in fresco fragments.

@@ -1,18 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-12-29T21:05:00-05:00"
-lastmod = "2018-01-01T19:53:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514599352183/2017-12-29---Alex_Joel_credit-Julia-Wesely-9467.jpg.jpg"
-primary_image_credit = "Photo: Julia Wesely."
-publishDate = "2018-01-01T19:53:00-05:00"
-related_articles = ["articles/talking-with-conductors-harry-bicket.md","articles/gordon-gerrard-music-doesnt-really-work-without-breath.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/alexander-joel.md"]
-short_description = "&quot;I actually started off by doing only operetta,&quot; Joel notes, insistent that learning to lead operas with a lot of rubato is the best way into the technique of conducting. &quot;You have to know how to really control the orchestra with singers, to feel where they&#039;re going to move.&quot;"
-slug = "talking-with-conductors-alexander-joel"
-title = "Talking with conductors: Alexander Joel"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-12-29T21:05:00-05:00"
+lastmod: "2018-01-01T19:53:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514599352183/2017-12-29---Alex_Joel_credit-Julia-Wesely-9467.jpg.jpg
+primary_image_credit: 'Photo: Julia Wesely.'
+publishDate: "2018-01-01T19:53:00-05:00"
+related_articles:
+- articles/talking-with-conductors-harry-bicket.md
+- articles/gordon-gerrard-music-doesnt-really-work-without-breath.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/alexander-joel.md
+short_description: '&quot;I actually started off by doing only operetta,&quot; Joel
+  notes, insistent that learning to lead operas with a lot of rubato is the best way
+  into the technique of conducting. &quot;You have to know how to really control the
+  orchestra with singers, to feel where they&#039;re going to move.&quot;'
+slug: talking-with-conductors-alexander-joel
+title: 'Talking with conductors: Alexander Joel'
+---
 
 "I think it's brilliant," says maestro [Alexander Joel](/scene/people/alexander-joel/) of David McVicar's production of *Rigoletto*, currently [onstage at the Royal Opera House](http://www.roh.org.uk/productions/rigoletto-by-david-mcvicar). "Probably the best production of *Rigoletto* I've ever conducted."
 

@@ -1,18 +1,31 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2017-10-27T14:18:00-04:00"
-lastmod = "2017-10-27T17:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509129203081/2017-10-27---ENO-1718-Rodelinda---Juan-Sancho%2C-Tim-Mead-Jane-Hobson.jpg.jpg"
-primary_image_credit = "Juan Sancho (Grimoaldo) and Tim Mead (Bertarido) in Rodelinda, ENO, 2017. Photo: Jane Hobson."
-publishDate = "2017-10-27T17:25:00-04:00"
-related_articles = ["articles/in-review-partenope-at-eno.md","articles/laughing-out-loud-the-barber-of-seville-at-eno.md","articles/opera-is-artifice-giulio-cesares-conquest-of-houston.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/tim-mead.md","scene/people/rebecca-evans.md","scene/people/christopher-lowrey.md","scene/people/juan-sancho.md"]
-short_description = "While not a total work of feminist theatre, I do like seeing operas from the 18th century where women are shown as strong-willed characters in control of their own destinies and not being controlled by men. In fact, the plot is driven by how much the other characters of the opera need Rodelinda."
-slug = "a-fierce-mob-wife-rodelinda-at-eno"
-title = "A fierce mob wife: Rodelinda at ENO"
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2017-10-27T14:18:00-04:00"
+lastmod: "2017-10-27T17:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509129203081/2017-10-27---ENO-1718-Rodelinda---Juan-Sancho%2C-Tim-Mead-Jane-Hobson.jpg.jpg
+primary_image_credit: 'Juan Sancho (Grimoaldo) and Tim Mead (Bertarido) in Rodelinda,
+  ENO, 2017. Photo: Jane Hobson.'
+publishDate: "2017-10-27T17:25:00-04:00"
+related_articles:
+- articles/in-review-partenope-at-eno.md
+- articles/laughing-out-loud-the-barber-of-seville-at-eno.md
+- articles/opera-is-artifice-giulio-cesares-conquest-of-houston.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/tim-mead.md
+- scene/people/rebecca-evans.md
+- scene/people/christopher-lowrey.md
+- scene/people/juan-sancho.md
+short_description: While not a total work of feminist theatre, I do like seeing operas
+  from the 18th century where women are shown as strong-willed characters in control
+  of their own destinies and not being controlled by men. In fact, the plot is driven
+  by how much the other characters of the opera need Rodelinda.
+slug: a-fierce-mob-wife-rodelinda-at-eno
+title: 'A fierce mob wife: Rodelinda at ENO'
+---
 
 This week in fierce opera women: Handel's [*Rodelinda*](https://www.eno.org/whats-on/rodelinda/) opened at English National Opera last night. While not a total work of feminist theatre, I do like seeing operas from the 18th century where women are shown as strong-willed characters in control of their own destinies and not being controlled by men. In fact, the plot is driven by how much the other characters of the opera need Rodelinda - she, being the queen and mother to the heir of Milan in this modernized production, is in possession of so much political power that the the people around her have to fight for her favor just to stay afloat.
 

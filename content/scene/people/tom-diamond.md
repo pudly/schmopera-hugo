@@ -1,14 +1,18 @@
-+++
-date = "2015-04-12T12:42:00-04:00"
-discipline = "Director"
-lastmod = "2015-04-12T12:42:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428856927164/Diamond-Bathroom-Divas-Season-2-Press-Stills-040.jpg.jpg"
-publishDate = "2015-04-12T12:42:00-04:00"
-related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/canadian-opera-company.md","scene/companies/opera-lyra-ottawa.md","scene/companies/opera-mcgill.md"]
-slug = "tom-diamond"
-title = "Tom Diamond"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2015-04-12T12:42:00-04:00"
+discipline: Director
+lastmod: "2015-04-12T12:42:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428856927164/Diamond-Bathroom-Divas-Season-2-Press-Stills-040.jpg.jpg
+publishDate: "2015-04-12T12:42:00-04:00"
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/opera-lyra-ottawa.md
+- scene/companies/opera-mcgill.md
+slug: tom-diamond
+title: Tom Diamond
+---
 
 <p>
 	Director Tom Diamond's critically acclaimed productions include premieres of Chan Ka Nin's Iron Road (Dora Award) and Timothy Sullivan's Florence The Lady With The Lamp (Chalmers Award) , 6 productions for Pacific Opera Victoria and 9 for the Canadian Opera Company. His production of Squonk was an off-Broadway hit and transferred to Broadway where it won the American Theatre Wing's Hewes Award.<br>

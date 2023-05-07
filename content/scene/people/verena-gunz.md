@@ -1,15 +1,18 @@
-+++
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1601222219/media/2020/09/VerenaGunz_u3gfit.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/welsh-national-opera.md", "scene/companies/semperoper-dresden.md", "scene/companies/glyndebourne.md"]
-slug = "verena-gunz"
-social_media = []
-title = "Verena Gunz"
-website = "https://www.verenagunz.com/"
-
-_template = "people_single"
-+++
+---
+_template: people_single
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1601222219/media/2020/09/VerenaGunz_u3gfit.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/semperoper-dresden.md
+- scene/companies/glyndebourne.md
+slug: verena-gunz
+social_media: []
+title: Verena Gunz
+website: https://www.verenagunz.com/
+---
 Verena Gunz, mezzo, was born in Linz, Austria, and graduated at the School of Music and Drama at the University of Vienna on the Opera Course. This included studying Lied and Oratorio with Robert Holl. She also did a Masters degree in musicology and French. She subsequently joined the International Opera Studio, Gent/Belgium.
 
 Verena’s operatic roles include Dorabella, _Così fan tutte_, the title role in _Xerxes_, Tisbe, _La Cenerentola_, Second Lady, _Die Zauberflöte_, Sandmännchen and Hänsel, _Hänsel und Gretel_, Ramiro, _La finta giardiniera_, Girl, _Trouble in Tahiti_, Dama, _Macbeth_ (Verdi), Concepcion, _L’heure Espagnole_, Varvara and Feklusa, _Katya Kabanova_ for companies such as the Glyndebourne on Tour, Theater an der Wien, Wiener Volksoper, Schlosstheater Schönbrunn (Vienna), Klangbogen Wien, Wiener Musikverein, Vlaamse Opera Gent (Belgium), Teatr Wielki in Warsaw/ Poland, and the Cantiere Internationale di Montepulciano and many other summer festivals. 

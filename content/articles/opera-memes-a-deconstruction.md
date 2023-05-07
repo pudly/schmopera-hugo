@@ -1,16 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2014-02-16T14:11:00-05:00"
-lastmod = "2015-04-27T22:51:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430186718061/Grumpy-Belinda.jpg.jpg"
-publishDate = "2014-02-16T14:11:00-05:00"
-related_articles = ["articles/opera-memes-act-ii.md"]
-related_people = ["scene/people/evamaria-westbroek.md"]
-short_description = "I feel like deconstructing today. I was going for lighter fare on a Sunday, which usually means heading over to the land of the opera nerds on Tumblr."
-slug = "opera-memes-a-deconstruction"
-title = "Opera Memes: A deconstruction"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2014-02-16T14:11:00-05:00"
+lastmod: "2015-04-27T22:51:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430186718061/Grumpy-Belinda.jpg.jpg
+publishDate: "2014-02-16T14:11:00-05:00"
+related_articles:
+- articles/opera-memes-act-ii.md
+related_people:
+- scene/people/evamaria-westbroek.md
+short_description: I feel like deconstructing today. I was going for lighter fare
+  on a Sunday, which usually means heading over to the land of the opera nerds on
+  Tumblr.
+slug: opera-memes-a-deconstruction
+title: 'Opera Memes: A deconstruction'
+---
 
 I feel like deconstructing today. I was going for lighter fare on a Sunday, which usually means heading over to the land of the opera nerds on Tumblr.
 

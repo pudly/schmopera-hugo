@@ -1,19 +1,27 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = "2018-11-18T17:16:00-05:00"
-lastmod = "2018-11-22T11:18:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546224475/media/2018/12/sqGloryDeniedDMMO.png"
-primary_image_credit = "Michael Mayes as Older Thompson in Glory Denied, Des Moines Metro Opera, 2018. Photo: Duane Tinkey."
-publishDate = "2018-11-22T11:18:00-05:00"
-related_articles = ["articles/an-extended-mad-scene-glory-denied.md"]
-related_companies = ["scene/companies/des-moines-metro-opera.md"]
-related_people = ["scene/people/kelly-kaduce.md"]
-short_description = "This is Des Moines Metro Opera&#039;s second opera performed at Camp Dodge, and I hope it will not be the last. Aside from the physical location, the collaboration with the military community produces numerous benefits. The participation of veterans and active duty service members in the post-show panel discussion helped to bridge the gap between theater and reality."
-slug = "true-impact-dmmos-glory-denied"
-title = "True impact: DMMO&#039;s Glory Denied"
-
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2018-11-18T17:16:00-05:00"
+lastmod: "2018-11-22T11:18:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546224475/media/2018/12/sqGloryDeniedDMMO.png
+primary_image_credit: 'Michael Mayes as Older Thompson in Glory Denied, Des Moines
+  Metro Opera, 2018. Photo: Duane Tinkey.'
+publishDate: "2018-11-22T11:18:00-05:00"
+related_articles:
+- articles/an-extended-mad-scene-glory-denied.md
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+related_people:
+- scene/people/kelly-kaduce.md
+short_description: This is Des Moines Metro Opera&#039;s second opera performed at
+  Camp Dodge, and I hope it will not be the last. Aside from the physical location,
+  the collaboration with the military community produces numerous benefits. The participation
+  of veterans and active duty service members in the post-show panel discussion helped
+  to bridge the gap between theater and reality.
+slug: true-impact-dmmos-glory-denied
+title: 'True impact: DMMO&#039;s Glory Denied'
+---
 [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/) does not pull any punches when it comes to their Second Stages series. The company has consistently chosen operas that are thought provoking and relevant to modern audiences and then set them in unique locations that provide another level of thematic context. Tom Cipullo's _Glory Denied_ is a complex, emotional piece on its own, but its dramatic impact is greatly enhanced when performed on an active military base.
 
 This is Des Moines Metro Opera's second opera performed at Camp Dodge, and I hope it will not be the last. Aside from the physical location, the collaboration with the military community produces numerous benefits. The participation of veterans and active duty service members in the post-show panel discussion helped to bridge the gap between theater and reality. Cipullo's music can convey the passion and angst of a soldier's true story, but seeing a Vietnam veteran with tears in his eyes as he talked about the loss of his best friend, a POW who never returned, breaks your heart with visceral power. Putting the faces of real people, fellow Iowans, at the front of the discussion helped to highlight the universal themes of _Glory Denied_.

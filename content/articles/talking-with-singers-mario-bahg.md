@@ -1,22 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-07-30T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Mario Bahg performs Mahler's [_Das Lied von der Erde_](https://www.torontosummermusic.com/event/song-of-the-earth/) with the Toronto Summer Music Festival, August 1, 7:30pm, at Koerner Hall. "
-preamble = "South Korean tenor Mario Bahg made a [Canadian splash](/cmim-finals-one-out-of-three-aint-bad/) last year, winning the Aria Prize of the Concours international musical de Montréal. This summer he returns, to sing Mahler's [_Das Lied von der Erde_](https://www.torontosummermusic.com/event/song-of-the-earth/) with this year's Toronto Summer Music Festival, alongside Canadian mezzo-soprano [Rihab Chaieb](/talking-with-singers-rihab-chaieb/).\n\nWe spoke with Bahg about why he sings, and his surprising professional Plan B:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1564527311/media/2019/07/sqMarioBahg-pc-DarioAcosta_nu6mu0.jpg"
-primary_image_credit = "Photo: Dario Acosta."
-related_articles = ["articles/cmim-finals-one-out-of-three-aint-bad.md"]
-related_companies = []
-related_people = ["scene/people/rihab-chaieb.md"]
-short_description = "\"The greatest purpose is to be evaluated. Every major competition brings famous vocalists or professionals involved in music to the jury.\""
-slug = "talking-with-singers-mario-bahg"
-title = "Talking with singers: Mario Bahg"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-07-30T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: 'Mario Bahg performs Mahler''s [_Das Lied von der Erde_](https://www.torontosummermusic.com/event/song-of-the-earth/)
+  with the Toronto Summer Music Festival, August 1, 7:30pm, at Koerner Hall. '
+preamble: |-
+  South Korean tenor Mario Bahg made a [Canadian splash](/cmim-finals-one-out-of-three-aint-bad/) last year, winning the Aria Prize of the Concours international musical de Montréal. This summer he returns, to sing Mahler's [_Das Lied von der Erde_](https://www.torontosummermusic.com/event/song-of-the-earth/) with this year's Toronto Summer Music Festival, alongside Canadian mezzo-soprano [Rihab Chaieb](/talking-with-singers-rihab-chaieb/).
 
-+++
+  We spoke with Bahg about why he sings, and his surprising professional Plan B:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1564527311/media/2019/07/sqMarioBahg-pc-DarioAcosta_nu6mu0.jpg
+primary_image_credit: 'Photo: Dario Acosta.'
+related_articles:
+- articles/cmim-finals-one-out-of-three-aint-bad.md
+related_companies: []
+related_people:
+- scene/people/rihab-chaieb.md
+short_description: '"The greatest purpose is to be evaluated. Every major competition
+  brings famous vocalists or professionals involved in music to the jury."'
+slug: talking-with-singers-mario-bahg
+title: 'Talking with singers: Mario Bahg'
+youtube_url: ""
+---
 ## Why do you sing professionally?
 
 I feel happy when I sing on stage. Many people have the impression that classical music is very difficult and only a few people can enjoy it. I want to show the world that it's not. If I can move someone through my singing - that's really why I want to be a singer.

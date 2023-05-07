@@ -1,17 +1,28 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = "2018-05-01T21:39:00-04:00"
-lastmod = "2018-05-01T21:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525224744278/sqhgo---norma---photographer-lynn-lane-50-3000x2000.jpg.jpg"
-primary_image_credit = "Jamie Barton (Adalgisa) in Norma, Houston Grand Opera, 2018. Photo: Lynn Lane."
-publishDate = "2018-05-01T21:47:00-04:00"
-related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/liudmyla-monastyrska.md","scene/people/jamie-barton.md","scene/people/chad-shelton.md"]
-short_description = "However, in spite of all the great music, I got a sense that the company radiated severe apathy about the sheer task of putting on &quot;yet another grand opera like this one because it is a classic which is, however, very boring.&quot; Combined with this aura, I got the sense that this production was blessed with a great many artists who only just failed, in their combined efforts, to make this production truly take off and maintain altitude."
-slug = "bashful-bel-canto-norma-in-houston"
-title = "Bashful bel canto: Norma in Houston"
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2018-05-01T21:39:00-04:00"
+lastmod: "2018-05-01T21:47:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525224744278/sqhgo---norma---photographer-lynn-lane-50-3000x2000.jpg.jpg
+primary_image_credit: 'Jamie Barton (Adalgisa) in Norma, Houston Grand Opera, 2018.
+  Photo: Lynn Lane.'
+publishDate: "2018-05-01T21:47:00-04:00"
+related_companies:
+- scene/companies/houston-grand-opera.md
+related_people:
+- scene/people/liudmyla-monastyrska.md
+- scene/people/jamie-barton.md
+- scene/people/chad-shelton.md
+short_description: However, in spite of all the great music, I got a sense that the
+  company radiated severe apathy about the sheer task of putting on &quot;yet another
+  grand opera like this one because it is a classic which is, however, very boring.&quot;
+  Combined with this aura, I got the sense that this production was blessed with a
+  great many artists who only just failed, in their combined efforts, to make this
+  production truly take off and maintain altitude.
+slug: bashful-bel-canto-norma-in-houston
+title: 'Bashful bel canto: Norma in Houston'
+---
 
 The island of Sicily has given to the world many important personages: Diodorus Siculus, Sigismondo d'India, Luigi Pirandello, Alessandro Scarlatti, Vittorio Orlando, Giovanni Verga, Giovanni Pacini, and, famously, Archimedes. It will be evident to those reading that I have left off this list the person who is, of course, my favorite Sicilian by far, Vincenzo Bellini. Certainly, as he has had his face on the Italian Republic's 5000 lira note, I should hope that my regard of this composer's craft is justified. After all, who am I to contradict Chopin's preferences?
 

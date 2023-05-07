@@ -1,24 +1,28 @@
-+++
-date = "2015-04-07T16:34:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-07T16:34:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428438771523/DianaDamrau-pc-TaniaNiemann.jpg.jpg"
-primary_image_credit = "Tania Niemann"
-publishDate = "2015-04-07T16:34:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/teatro-alla-scala.md","scene/companies/royal-opera-house.md"]
-slug = "diana-damrau"
-title = "Diana Damrau"
-website = "http://diana-damrau.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/DianaDamrau"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/DianaDamrau"
-_template = "people_single"
-+++
+---
+date: "2015-04-07T16:34:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-07T16:34:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428438771523/DianaDamrau-pc-TaniaNiemann.jpg.jpg
+primary_image_credit: Tania Niemann
+publishDate: "2015-04-07T16:34:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/royal-opera-house.md
+slug: diana-damrau
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/DianaDamrau
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/DianaDamrau
+title: Diana Damrau
+website: http://diana-damrau.com/
+---
 
 <p>
 	Acclaimed as the "leading coloratura soprano in the world" (<em>New York Sun</em>), Diana Damrau continues to amaze audiences with her unique voice and arresting stage presence. A regular guest at the most renowned opera companies and concert halls, she was awarded the title <em>Bayerische Kammersängerin</em> in 2007 and named "<em>Best Female Singer</em>" at the 2014 International Opera Awards.

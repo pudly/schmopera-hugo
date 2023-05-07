@@ -1,18 +1,24 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571280739/media/2019/10/Dario_Acosta_-_Bradley_1_jshusa.jpg"
-primary_image_credit = "Photo: Dario Acosta."
-related_companies = ["scene/companies/lyric-opera-of-chicago.md", "scene/companies/san-francisco-opera.md", "scene/companies/san-diego-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/royal-opera-house.md", "scene/companies/the-atlanta-opera.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "michelle-bradley"
-title = "Michelle Bradley"
-website = ""
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/themichellebradleysoprano/"
-
-_template = "people_single"
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571280739/media/2019/10/Dario_Acosta_-_Bradley_1_jshusa.jpg
+primary_image_credit: 'Photo: Dario Acosta.'
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/san-diego-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/royal-opera-house.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/the-metropolitan-opera.md
+slug: michelle-bradley
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/themichellebradleysoprano/
+title: Michelle Bradley
+website: ""
+---
 Michelle Bradley, a recent graduate of the Lindemann Young Artist Development Program, is beginning to garner great acclaim as one of today’s most promising Verdi soprano.
 
 This season, Ms. Bradley will make debuts with the Vienna State Opera as Leonora in _Il Trovatore_ (a role debut), the San Francisco Opera as Elvira in _Ernani_, the San Diego Opera as the title role in _Aida_ and will return to the Metropolitan Opera for their New Year’s Eve Gala as Liù in Act II of _Turandot_. She will appear in solo recital at the Kennedy Center and perform Barber’s _Knoxville, Summer of 1915_ with the New World Symphony. Future projects include debuts with the Lyric Opera of Chicago, the Royal Opera House, Covent Garden and returns to the Metropolitan Opera, all in leading roles.

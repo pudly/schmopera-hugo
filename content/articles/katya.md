@@ -1,22 +1,30 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-02-06T17:29:45+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Katya Kabanova runs at The Royal Opera through 26 February. For details, [click here](https://www.roh.org.uk/productions/katya-kabanova-by-richard-jones)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549474644/media/2019/02/sq1195BickleyasKabanovaMajeskiasKatyStaplesasTichonROH2019photographbyCliveBarda.jpg"
-primary_image_credit = "Susan Bickley (Kabanova), Amanda Majeski (Kát'a), and Andrew Staples as Tichon in Kát'a Kabanova, ROH, 2019. Photo: Clive Barda."
-related_articles = ["articles/constructive-frustration-from-roh-s-queen-of-spades.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/amanda-majeski.md"]
-short_description = "It is a piece that is so clearly a microcosm of a very specific place and time. Director Richard Jones has chosen to set it in the mid-60s in a repressive, religious Russian community where a life of domesticity, is a woman's only option."
-slug = "majeski-makes-sensitive-subtle-roh-debut-in-kata-kabanova"
-title = "Majeski makes sensitive, subtle ROH debut in Kát'a Kabanova"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-02-06T17:29:45+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Katya Kabanova runs at The Royal Opera through 26 February. For details,
+  [click here](https://www.roh.org.uk/productions/katya-kabanova-by-richard-jones).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549474644/media/2019/02/sq1195BickleyasKabanovaMajeskiasKatyStaplesasTichonROH2019photographbyCliveBarda.jpg
+primary_image_credit: 'Susan Bickley (Kabanova), Amanda Majeski (Kát''a), and Andrew
+  Staples as Tichon in Kát''a Kabanova, ROH, 2019. Photo: Clive Barda.'
+related_articles:
+- articles/constructive-frustration-from-roh-s-queen-of-spades.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/amanda-majeski.md
+short_description: It is a piece that is so clearly a microcosm of a very specific
+  place and time. Director Richard Jones has chosen to set it in the mid-60s in a
+  repressive, religious Russian community where a life of domesticity, is a woman's
+  only option.
+slug: majeski-makes-sensitive-subtle-roh-debut-in-kata-kabanova
+title: Majeski makes sensitive, subtle ROH debut in Kát'a Kabanova
+youtube_url: ""
+---
 This production of Janáček’s [_Kát'a Kabanová_](https://www.roh.org.uk/productions/katya-kabanova-by-richard-jones) (1921) is the second in a cycle of four works the Royal Opera will be staging over the next two seasons. Last season, his final opera _From the House of the Dead_ (1930) was premiered in a new production directed by Krzysztof Warlikowski.
 
 > It was a privilege to witness a piece of art that was deeply moving and poignant, that spoke volumes in its intelligibility.

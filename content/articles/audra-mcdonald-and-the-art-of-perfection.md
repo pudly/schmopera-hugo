@@ -1,15 +1,21 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2018-05-21T17:45:00-04:00"
-lastmod = "2018-05-22T08:55:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526939085388/sq1718public_audra2.jpg.jpg"
-publishDate = "2018-05-21T21:11:00-04:00"
-related_companies = ["scene/companies/los-angeles-opera.md"]
-short_description = "She let us know that she considers herself &quot;a champion of new composers.&quot; &quot;That way,&quot; she told us, maybe only half-joking, &quot;I&#039;ll still have a job in the future.&quot; She reminded us that Jason Robert Brown was once a &quot;new composer&quot; and proffered his &quot;Stars and Moon&quot; which has become one of her signature songs."
-slug = "audra-mcdonald-and-the-art-of-perfection"
-title = "Audra McDonald and the Art of Perfection"
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2018-05-21T17:45:00-04:00"
+lastmod: "2018-05-22T08:55:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526939085388/sq1718public_audra2.jpg.jpg
+publishDate: "2018-05-21T21:11:00-04:00"
+related_companies:
+- scene/companies/los-angeles-opera.md
+short_description: She let us know that she considers herself &quot;a champion of
+  new composers.&quot; &quot;That way,&quot; she told us, maybe only half-joking,
+  &quot;I&#039;ll still have a job in the future.&quot; She reminded us that Jason
+  Robert Brown was once a &quot;new composer&quot; and proffered his &quot;Stars and
+  Moon&quot; which has become one of her signature songs.
+slug: audra-mcdonald-and-the-art-of-perfection
+title: Audra McDonald and the Art of Perfection
+---
 
 The [LA Opera](/scene/companies/los-angeles-opera/) stage has seen its share of sopranos and mezzos who have deservedly earned the description of "diva." What they all have in common is the fact that they've conquered the world of opera. A soprano who has conquered Broadway is another kind of diva. And then there's Audra McDonald - who is simply one-of-a-kind.
  

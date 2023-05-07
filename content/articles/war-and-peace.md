@@ -1,22 +1,28 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-07-28T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1564334361/media/2019/07/sqWNOWarandPeace.jpg"
-primary_image_credit = "A scene from WNO's War and Peace, ROH, 2019. Photo: Clive Barda."
-related_articles = []
-related_companies = ["scene/companies/welsh-national-opera.md", "scene/companies/royal-opera-house.md"]
-related_people = []
-short_description = "Writing an opera of this scale is not a simple charge and the task of producing it faces even more challenges; it is an immense work to attempt to pay homage to. There were a few magical, sparkling moments on stage that were completely true to the book, perfectly capturing the essence of Tolstoy's words. "
-slug = "poutneys-oversimplified-war-and-peace"
-title = "Pountney's oversimplified War and Peace"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-07-28T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1564334361/media/2019/07/sqWNOWarandPeace.jpg
+primary_image_credit: 'A scene from WNO''s War and Peace, ROH, 2019. Photo: Clive
+  Barda.'
+related_articles: []
+related_companies:
+- scene/companies/welsh-national-opera.md
+- scene/companies/royal-opera-house.md
+related_people: []
+short_description: 'Writing an opera of this scale is not a simple charge and the
+  task of producing it faces even more challenges; it is an immense work to attempt
+  to pay homage to. There were a few magical, sparkling moments on stage that were
+  completely true to the book, perfectly capturing the essence of Tolstoy''s words. '
+slug: poutneys-oversimplified-war-and-peace
+title: Pountney's oversimplified War and Peace
+youtube_url: ""
+---
 The Welsh National Opera bring their ambitious 2018 production of Prokofiev's mammoth _War and Peace_ to the Royal Opera for two performances after successful run last year in Cardiff, a feat not unlike the reading of Tolstoy's epic on which it is based. Written in the 1940s, during the time of the German invasion of the Soviet Union and the Great Patriotic War, Prokofiev's version of the novel draws direct comparison to the unrest experienced during the Napoleonic invasion of 1812 upon which the story is centred. 
 
 >There were a few magical, sparkling moments on stage that were completely true to the book.

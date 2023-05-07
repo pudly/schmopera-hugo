@@ -1,22 +1,29 @@
-+++
-author = ["authors/leslie-ashworth.md"]
-categories = "Review"
-date = "2019-05-26T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558912299/media/2019/05/sqDSC8952.jpg"
-primary_image_credit = "A scene from Pandora, FAWN Chamber Creative, 2019. Photo: Francesca Chudnoff."
-related_articles = ["articles/in-review-fawn-operas-lhomme-et-le-ciel.md"]
-related_companies = ["scene/companies/fawn-chamber-creative.md"]
-related_people = ["scene/people/jonathan-macarthur.md", "scene/people/teiya-kasahara.md"]
-short_description = "Storen, Glaser, and Soden's teamwork resulted in a score that really is like a Pandora's box.  It is a complex kaleidoscope of sound worlds with flavours of new-age, atonal, and modernist experimental styles."
-slug = "a-pandoras-box-of-artistic-collaboration"
-title = "A Pandora's Box of artistic collaboration"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/leslie-ashworth.md
+categories: Review
+date: "2019-05-26T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1558912299/media/2019/05/sqDSC8952.jpg
+primary_image_credit: 'A scene from Pandora, FAWN Chamber Creative, 2019. Photo: Francesca
+  Chudnoff.'
+related_articles:
+- articles/in-review-fawn-operas-lhomme-et-le-ciel.md
+related_companies:
+- scene/companies/fawn-chamber-creative.md
+related_people:
+- scene/people/jonathan-macarthur.md
+- scene/people/teiya-kasahara.md
+short_description: Storen, Glaser, and Soden's teamwork resulted in a score that really
+  is like a Pandora's box.  It is a complex kaleidoscope of sound worlds with flavours
+  of new-age, atonal, and modernist experimental styles.
+slug: a-pandoras-box-of-artistic-collaboration
+title: A Pandora's Box of artistic collaboration
+youtube_url: ""
+---
 Just like the Raptors' incredible teamwork that earned them a spot in the NBA Finals, FAWN Chamber Creative's new opera-ballet, titled _Pandora_ (seen May 24), is centred around collaboration. Instead of one composer, three joined forces to write the music. The audience also had a hand in the creative process, voting Kit Soden, David Storen, and Joseph Glaser three years ago as the selected composers. _Pandora_ embodies FAWN's quest to merge different artistic disciplines with dance, singing, chamber ensemble, technology, and visual arts all working together.
 
 > With fog and electric blue lighting added to the mix, there was a feeling of expectancy as though something was about to happen.

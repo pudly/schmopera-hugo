@@ -1,22 +1,27 @@
-+++
-author = ["authors/sam-darling.md"]
-categories = "Review"
-date = 2020-03-03T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "The VAM Symphony Orchestra performance line-up is available [on their website](https://vancouveracademyofmusic.com/events/vamso-orpheum-series/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1583202618/media/2020/03/sqVAMSO-LindsayElliottPhotography_xynrf2.jpg"
-primary_image_credit = "Photo: Lindsay Elliott Photography."
-related_articles = ["articles/the-coughing-phenomenon.md", "articles/concert-etiquette-or-put-down-your-phone.md"]
-related_companies = []
-related_people = []
-short_description = "Under the assured baton of conductor emeritus Leslie Dala, the program brought together the young professional-level orchestra with the veteran vocals of amateur Vancouver Bach Choir, along with four professional soloists, and featured a delightful performance of Concerto No. 4 by Ian Parker at the keys"
-slug = "an-enduring-beethovens-ninth-with-the-vancouver-academy-of-music"
-title = "An enduring Beethoven's Ninth with the Vancouver Academy of Music"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/sam-darling.md
+categories: Review
+date: "2020-03-03T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: The VAM Symphony Orchestra performance line-up is available [on their website](https://vancouveracademyofmusic.com/events/vamso-orpheum-series/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1583202618/media/2020/03/sqVAMSO-LindsayElliottPhotography_xynrf2.jpg
+primary_image_credit: 'Photo: Lindsay Elliott Photography.'
+related_articles:
+- articles/the-coughing-phenomenon.md
+- articles/concert-etiquette-or-put-down-your-phone.md
+related_companies: []
+related_people: []
+short_description: Under the assured baton of conductor emeritus Leslie Dala, the
+  program brought together the young professional-level orchestra with the veteran
+  vocals of amateur Vancouver Bach Choir, along with four professional soloists, and
+  featured a delightful performance of Concerto No. 4 by Ian Parker at the keys
+slug: an-enduring-beethovens-ninth-with-the-vancouver-academy-of-music
+title: An enduring Beethoven's Ninth with the Vancouver Academy of Music
+youtube_url: ""
+---
 Vancouver Academy of Music celebrated its 50th-anniversary [season](https://vancouveracademyofmusic.com/events/vamso-orpheum-series/) with a special presentation in honour of late maestro Ludwig van Beethoven in the year of his sestercentennial with the program _Resounding Joy: Beethoven’s Ninth Symphony_ at the Orpheum Theatre.
 
 Under the assured baton of conductor emeritus [Leslie Dala](http://www.lesliedala.com/about/), the program brought together the young professional-level orchestra with the veteran vocals of amateur Vancouver Bach Choir, along with four professional soloists, and featured a delightful performance of Concerto No. 4 by [Ian Parker](http://www.ianparker.ca/) at the keys. A merging of such varied talents sometimes achieved Beethoven’s vision but more often didn’t gel quite as well as the sum of its beautiful parts.

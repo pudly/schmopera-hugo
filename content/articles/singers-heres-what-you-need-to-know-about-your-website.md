@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-04-21T17:50:00-04:00"
-lastmod = "2015-05-13T09:00:00-04:00"
-preamble = "This is the second instalment in our series designed to help singers and other artists use the Internet to their advantage. [Check out part 1 right here](/singers-heres-how-to-use-social-media/), on getting social-media-savvy."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431486985946/coffee-iphone-macbook-air-166_Fotor.jpg.jpg"
-publishDate = "2015-05-13T08:00:00-04:00"
-related_articles = ["articles/singers-heres-how-to-use-social-media.md","articles/musician-marketing-masterclass.md","articles/stephen-bell-singer-by-night-coffeeshop-creative-by-day.md"]
-related_people = ["scene/people/erin-wall.md"]
-short_description = "Singers, I know you&#039;ve heard this before, but seriously, you all need to get websites. Some of you don&#039;t have websites, or Twitter accounts, or Facebook pages. I&#039;d name names, but you&#039;re not on the Internet."
-slug = "singers-heres-what-you-need-to-know-about-your-website"
-title = "Singers: here&#039;s what you need to know about your website"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-04-21T17:50:00-04:00"
+lastmod: "2015-05-13T09:00:00-04:00"
+preamble: This is the second instalment in our series designed to help singers and
+  other artists use the Internet to their advantage. [Check out part 1 right here](/singers-heres-how-to-use-social-media/),
+  on getting social-media-savvy.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431486985946/coffee-iphone-macbook-air-166_Fotor.jpg.jpg
+publishDate: "2015-05-13T08:00:00-04:00"
+related_articles:
+- articles/singers-heres-how-to-use-social-media.md
+- articles/musician-marketing-masterclass.md
+- articles/stephen-bell-singer-by-night-coffeeshop-creative-by-day.md
+related_people:
+- scene/people/erin-wall.md
+short_description: Singers, I know you&#039;ve heard this before, but seriously, you
+  all need to get websites. Some of you don&#039;t have websites, or Twitter accounts,
+  or Facebook pages. I&#039;d name names, but you&#039;re not on the Internet.
+slug: singers-heres-what-you-need-to-know-about-your-website
+title: 'Singers: here&#039;s what you need to know about your website'
+---
 
 Singers, I know you've heard this before, but seriously, you all need to get websites. Some of you don't have websites, *or* Twitter accounts, *or* Facebook pages. I'd name names, but you're not on the Internet.
 

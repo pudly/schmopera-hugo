@@ -1,18 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-05-27T11:02:00-04:00"
-lastmod = "2017-05-27T13:44:00-04:00"
-preamble = "Canadian bass-baritone [Giles Tomkins](/scene/people/giles-tomkins/) has enviable roles like Timur (*Turandot*), Don Basilio (*Il barbiere di Siviglia*), and even Gandalf (*The Hobbit*) on his résumé, and each time he takes the stage, his is a memorable performance. He just wrapped a run of *Tosca* at the Canadian Opera Company, and he's already looking forward to being a part of the world premiere of James Rolfe and Morris Panych's *The Overcoat* next season.\n\nAn articulate guy on top of being a stellar singer, Tomkins chats about the international route to a Canadian career, and all the beautiful ways his life as a new dad has transformed his work onstage."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495897610085/2017-05-27---Giles-Tomkins.jpg.jpg"
-publishDate = "2017-05-27T11:39:00-04:00"
-related_articles = ["articles/spotlight-on-william-ford.md","articles/spotlight-on-keith-lam.md","articles/talking-with-singers-luca-pisaroni.md"]
-related_companies = ["scene/companies/canadian-childrens-opera-company.md","scene/companies/tapestry-opera.md","scene/companies/canadian-opera-company.md","scene/companies/glyndebourne.md","scene/companies/scottish-opera.md"]
-related_people = ["scene/people/giles-tomkins.md"]
-short_description = "&quot;Being a dad has also included an emotional maturity that frankly took me a little by surprise. As a result, I often feel more dramatically connected to the opera roles I take on, and not just the typical &quot;father figure&quot; parts. This in turn has impacted my singing as it&#039;s all part and parcel of how I produce my sound on the stage. It&#039;s an exciting time, as I feel there are many more opportunities opening up to me.&quot;"
-slug = "talking-with-singers-giles-tomkins"
-title = "Talking with singers: Giles Tomkins"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-05-27T11:02:00-04:00"
+lastmod: "2017-05-27T13:44:00-04:00"
+preamble: |-
+  Canadian bass-baritone [Giles Tomkins](/scene/people/giles-tomkins/) has enviable roles like Timur (*Turandot*), Don Basilio (*Il barbiere di Siviglia*), and even Gandalf (*The Hobbit*) on his résumé, and each time he takes the stage, his is a memorable performance. He just wrapped a run of *Tosca* at the Canadian Opera Company, and he's already looking forward to being a part of the world premiere of James Rolfe and Morris Panych's *The Overcoat* next season.
+
+  An articulate guy on top of being a stellar singer, Tomkins chats about the international route to a Canadian career, and all the beautiful ways his life as a new dad has transformed his work onstage.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495897610085/2017-05-27---Giles-Tomkins.jpg.jpg
+publishDate: "2017-05-27T11:39:00-04:00"
+related_articles:
+- articles/spotlight-on-william-ford.md
+- articles/spotlight-on-keith-lam.md
+- articles/talking-with-singers-luca-pisaroni.md
+related_companies:
+- scene/companies/canadian-childrens-opera-company.md
+- scene/companies/tapestry-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/glyndebourne.md
+- scene/companies/scottish-opera.md
+related_people:
+- scene/people/giles-tomkins.md
+short_description: '&quot;Being a dad has also included an emotional maturity that
+  frankly took me a little by surprise. As a result, I often feel more dramatically
+  connected to the opera roles I take on, and not just the typical &quot;father figure&quot;
+  parts. This in turn has impacted my singing as it&#039;s all part and parcel of
+  how I produce my sound on the stage. It&#039;s an exciting time, as I feel there
+  are many more opportunities opening up to me.&quot;'
+slug: talking-with-singers-giles-tomkins
+title: 'Talking with singers: Giles Tomkins'
+---
 
 ## What's it like to balance a singing career and a young son? Did you find anything changed about your perspective on singing after becoming a father?
 

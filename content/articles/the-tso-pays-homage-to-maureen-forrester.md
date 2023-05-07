@@ -1,17 +1,26 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2017-10-20T11:05:00-04:00"
-lastmod = "2017-10-20T11:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508512595663/2017-10-20---square---Susan-Platts%2C-Peter-Oundjian-Jag-Gundu.jpg.jpg"
-primary_image_credit = "Susan Platts, mezzo-soprano, and Peter Oundjian, Music Director, with the Toronto Symphony Orchestra. Photo: Jag Gundu."
-publishDate = "2017-10-20T11:19:00-04:00"
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/michael-schade.md","scene/people/susan-platts.md"]
-short_description = "Forrester became known for her interpretations of Mahler and for her professional relationship with the composer&#039;s protegé Bruno Walter, so it&#039;s no surprise to find the composer on the program. After the intermission, German-Canadian tenor Michael Schade joined Ms. Platts for Mahler&#039;s Das Lied von der Erde (The Song of the Earth), one of the composer&#039;s best loved works."
-slug = "the-tso-pays-homage-to-maureen-forrester"
-title = "The TSO pays homage to Maureen Forrester"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2017-10-20T11:05:00-04:00"
+lastmod: "2017-10-20T11:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508512595663/2017-10-20---square---Susan-Platts%2C-Peter-Oundjian-Jag-Gundu.jpg.jpg
+primary_image_credit: 'Susan Platts, mezzo-soprano, and Peter Oundjian, Music Director,
+  with the Toronto Symphony Orchestra. Photo: Jag Gundu.'
+publishDate: "2017-10-20T11:19:00-04:00"
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/michael-schade.md
+- scene/people/susan-platts.md
+short_description: Forrester became known for her interpretations of Mahler and for
+  her professional relationship with the composer&#039;s protegé Bruno Walter, so
+  it&#039;s no surprise to find the composer on the program. After the intermission,
+  German-Canadian tenor Michael Schade joined Ms. Platts for Mahler&#039;s Das Lied
+  von der Erde (The Song of the Earth), one of the composer&#039;s best loved works.
+slug: the-tso-pays-homage-to-maureen-forrester
+title: The TSO pays homage to Maureen Forrester
+---
 
 G'day Schmop-Tops!
 

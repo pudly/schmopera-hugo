@@ -1,16 +1,23 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2018-03-27T17:11:00-04:00"
-lastmod = "2018-03-27T21:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522185034632/sq---image%5B8%5D.jpg.jpg"
-primary_image_credit = "Nathan Granner and Jamie Chamberlin in The Invention of Morel, Long Beach Opera, 2018. Photo: Kip Polakoff."
-publishDate = "2018-03-27T17:11:00-04:00"
-related_articles = ["articles/a-futuristic-love-story-the-invention-of-morel.md"]
-short_description = "The percussionist inside Mr. Copeland finds the perfect places for the musical punctuation of xylophone, triangle, concert tom-toms, etc. And even though the tip-toeing steps of the bass and bassoon are heard throughout, it&#039;s the booming bass and bass drum that drive the drama, expressing the developing madness inside and outside the characters."
-slug = "twice-on-this-island"
-title = "Twice on This Island"
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2018-03-27T17:11:00-04:00"
+lastmod: "2018-03-27T21:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522185034632/sq---image%5B8%5D.jpg.jpg
+primary_image_credit: 'Nathan Granner and Jamie Chamberlin in The Invention of Morel,
+  Long Beach Opera, 2018. Photo: Kip Polakoff.'
+publishDate: "2018-03-27T17:11:00-04:00"
+related_articles:
+- articles/a-futuristic-love-story-the-invention-of-morel.md
+short_description: The percussionist inside Mr. Copeland finds the perfect places
+  for the musical punctuation of xylophone, triangle, concert tom-toms, etc. And even
+  though the tip-toeing steps of the bass and bassoon are heard throughout, it&#039;s
+  the booming bass and bass drum that drive the drama, expressing the developing madness
+  inside and outside the characters.
+slug: twice-on-this-island
+title: Twice on This Island
+---
 
 Decades ago when Stewart Copeland was Sting's partner in the rock group The Police, you would not have predicted that his name would one day appear in an opera review.  But while Mr. Copeland has devoted much of his post-pop life to film scores, he's also worked on quite a bit of what some refer to as "serious" music. And his opera *The Invention of Morel* is seriously good. The Long Beach Opera company, which will celebrate its 40th anniversary next year, continues its long-time tradition of presenting works that speak to a contemporary audience. Known nationally and internationally for their "bold and unconventional repertory," Mr. Copeland's opera is no exception.
 

@@ -1,26 +1,33 @@
-+++
-discipline = "Bass-baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562034434/media/2019/07/KyleAlbertson.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/glimmerglass-festival.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/des-moines-metro-opera.md", "scene/companies/arizona-opera.md", "scene/companies/the-atlanta-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/san-francisco-opera.md", "scene/companies/minnesota-opera.md"]
-slug = "kyle-albertson"
-title = "Kyle Albertson"
-website = "https://www.kylealbertson.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/KyleAlbertsonBassBaritone/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/KDAlbertson"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UC8J4u2bWAU4r0olnuVmLlSA"
-
-_template = "people_single"
-+++
+---
+discipline: Bass-baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1562034434/media/2019/07/KyleAlbertson.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/glimmerglass-festival.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/minnesota-opera.md
+slug: kyle-albertson
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/KyleAlbertsonBassBaritone/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/KDAlbertson
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UC8J4u2bWAU4r0olnuVmLlSA
+title: Kyle Albertson
+website: https://www.kylealbertson.com/
+---
 Renowned not only for his luxurious voice, confidence, and style, but also for his versatility and ability to bring a character to life on stage, bass-baritone Kyle Albertson is taking the business by storm.  In his recent debut as Wotan in Wagner’s epic masterpiece _Die Walküre_, in Maestro Jaap van Zweden’s final performance with the Dallas Symphony, Theater Jones exclaimed, “the most impressive aspect of this performance came undoubtedly from Wotan…his voice masterfully brought the character to life…Albertson’s interactions throughout the performance with his most beloved daughter, Brünnhilde were ingenuously convincing. Coupled with Albertson’s commanding, though endearing, baritone, these moments did not seem like an opera concert at all, rather a fully realized engagement of dramatic and musical interpretation.”  The Dallas News called his performance “gripping… I can’t recall the opera’s final parting of father and daughter so emotionally intense…this high-intensity performance will surely rank as a legend in Dallas musical history.” And the Texas Classical Review declared he “delivered a quietly dramatic presence in his monologue relatively early on in Act II which gradually built up to the final scene three hours later in which he allowed his luxuriant tone quality to resonate at full volume before slipping gently into the mournful farewell aria ‘Leb’ wohl’.”  This tour-de-force performance left no doubt that the next American Wotan had arrived.
 
 Albertson’s first foray into Wagner’s demanding vocal universe came in his house début at Lyric Opera of Chicago for their production of _Das Rheingold_, and subsequently performed the role of Donner in Minnesota Opera’s production shortly thereafter.  This past season, he covered Wotan in Francesca Zambello’s production of _Der Ring des Nibelungen_ for San Francisco Opera, sang DeGuiche in _Cyrano_ with Opera Carolina, Sharpless in _Madama Butterfly_ with New Jersey Festival Orchestra, Sam in _Trouble in Tahiti_ with Opera Parallel at SFJazz, JP Morgan in the World Première of Tesla with SoBe Arts in Miami, and returned to the Phoenicia Festival as Escamillo in _Carmen_.  Additional roles in his repertoire include Pizarro in _Fidelio_, Jochanaan in _Salome_, the title role in _Der fliegende Holländer_, Scarpia in _Tosca_, Jack Rance in _La fanciulla del West_, and Claggart in _Billy Budd_.

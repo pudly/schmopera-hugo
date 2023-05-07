@@ -1,25 +1,33 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = 2019-11-17T05:00:00Z
-discipline = ""
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574022084/media/2019/11/sqDN1_7141_bv4klu.jpg"
-primary_image_credit = " in Minnesota Opera's The Barber of Seville, 2019. Photo: Dan Norman."
-related_articles = ["articles/talking-with-singers-daniela-mack.md", "articles/silent-night-ages-well-in-minnesota-revival.md"]
-related_companies = ["scene/companies/minnesota-opera.md"]
-related_people = ["scene/people/alek-shrader.md", "scene/people/daniela-mack.md"]
-short_description = "Props must be given to Minnesota Opera for scheduling this family-friendly fan favorite, the seats were certainly filled. Hopefully the next generation of opera goers were hooked during this brief run! "
-slug = "a-family-friendly-fan-favourite-minnesota-operas-barber"
-social_media = []
-title = "A family-friendly fan favourite: Minnesota Opera's Barber"
-website = ""
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2019-11-17T05:00:00Z"
+discipline: ""
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1574022084/media/2019/11/sqDN1_7141_bv4klu.jpg
+primary_image_credit: ' in Minnesota Opera''s The Barber of Seville, 2019. Photo:
+  Dan Norman.'
+related_articles:
+- articles/talking-with-singers-daniela-mack.md
+- articles/silent-night-ages-well-in-minnesota-revival.md
+related_companies:
+- scene/companies/minnesota-opera.md
+related_people:
+- scene/people/alek-shrader.md
+- scene/people/daniela-mack.md
+short_description: 'Props must be given to Minnesota Opera for scheduling this family-friendly
+  fan favorite, the seats were certainly filled. Hopefully the next generation of
+  opera goers were hooked during this brief run! '
+slug: a-family-friendly-fan-favourite-minnesota-operas-barber
+social_media: []
+title: 'A family-friendly fan favourite: Minnesota Opera''s Barber'
+website: ""
+youtube_url: ""
+---
 [Minnesota Opera](/scene/companies/minnesota-opera/)'s most recent production of Rossini's [_The Barber of Seville _](https://mnopera.org/season/2019-2020/the-barber-of-seville/) opened last weekend at the Ordway Center for the Performing Arts. Husband and wife team [Daniela Mack](/talking-with-singers-daniela-mack/) and [Alek Shrader](/scene/people/alek-shrader/) starred as Rosina and Count Almaviva. Ms. Mack provided strong low notes, with a sassy and empowered portrayal of Rosina that extended beyond her first aria "Una voce poco fa".  Often, Rosinas don't carry the passion through the lengthy opera.
 
 <figure data-type="image">

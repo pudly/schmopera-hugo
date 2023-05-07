@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2018-02-15T16:44:00-05:00"
-lastmod = "2018-02-16T14:54:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518749690337/sq---KLP180214-_A7R2478---cropped.jpg.jpg"
-primary_image_credit = "(l-r) Soprano Claire de Sévigné and baritone Huw Montague Rendall, 2018, photo: Kevin Lloyd"
-publishDate = "2018-02-15T21:57:00-05:00"
-related_articles = []
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/claire-de-sevigne.md","scene/people/samuel-chan.md","scene/people/simone-mcintosh.md","scene/people/bruno-roy.md","scene/people/lauren-eberwein.md","scene/people/danika-lorn.md"]
-short_description = "De Sévigné&#039;s voice made the same journey; she started from a young place, almost a timid sound, that finally bloomed (and perhaps wilted, appropriately). Her instrument has always had a bell-like ring to it, and lately she has proven that she is a layered artist, both in sound and in the thought she gives to her onstage work."
-slug = "this-week-two-lunchtime-treats-in-the-rba"
-title = "This week: two lunchtime treats in the RBA"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2018-02-15T16:44:00-05:00"
+lastmod: "2018-02-16T14:54:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518749690337/sq---KLP180214-_A7R2478---cropped.jpg.jpg
+primary_image_credit: '(l-r) Soprano Claire de Sévigné and baritone Huw Montague Rendall,
+  2018, photo: Kevin Lloyd'
+publishDate: "2018-02-15T21:57:00-05:00"
+related_articles: []
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/claire-de-sevigne.md
+- scene/people/samuel-chan.md
+- scene/people/simone-mcintosh.md
+- scene/people/bruno-roy.md
+- scene/people/lauren-eberwein.md
+- scene/people/danika-lorn.md
+short_description: De Sévigné&#039;s voice made the same journey; she started from
+  a young place, almost a timid sound, that finally bloomed (and perhaps wilted, appropriately).
+  Her instrument has always had a bell-like ring to it, and lately she has proven
+  that she is a layered artist, both in sound and in the thought she gives to her
+  onstage work.
+slug: this-week-two-lunchtime-treats-in-the-rba
+title: 'This week: two lunchtime treats in the RBA'
+---
 
 It was a good week for vocal recitals at the Canadian Opera Company's Free Concert Series in the Richard Bradshaw Amphitheatre.
 ***

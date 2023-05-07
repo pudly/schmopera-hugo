@@ -1,17 +1,27 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Op-ed"
-date = "2018-10-25T16:10:00-04:00"
-lastmod = "2018-10-25T22:34:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540521244866/sqMacbeth_0419-s.jpg.jpg"
-primary_image_credit = "Anna Netrebko as Lady Macbeth in Verdi's Macbeth, Metropolitan Opera, 2014. Photo: Marty Sohl/Metropolitan Opera."
-publishDate = "2018-10-25T22:34:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/anna-netrebko.md","scene/people/lawrence-brownlee.md","scene/people/christopher-maltman.md"]
-short_description = "With no lines or a prescribed opening time the Summer HD Festival has been a welcoming presence since its inception. Entering off Broadway, people first encounter a table with volunteers from the Metropolitan Opera Guild, providing information about the Guild&#039;s programs and benefits of membership as well as complementary issues of its publication, Opera News."
-slug = "summer-nights-at-the-opera-an-observation"
-title = "Summer Nights at the Opera: an observation"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Op-ed
+date: "2018-10-25T16:10:00-04:00"
+lastmod: "2018-10-25T22:34:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540521244866/sqMacbeth_0419-s.jpg.jpg
+primary_image_credit: 'Anna Netrebko as Lady Macbeth in Verdi''s Macbeth, Metropolitan
+  Opera, 2014. Photo: Marty Sohl/Metropolitan Opera.'
+publishDate: "2018-10-25T22:34:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/anna-netrebko.md
+- scene/people/lawrence-brownlee.md
+- scene/people/christopher-maltman.md
+short_description: With no lines or a prescribed opening time the Summer HD Festival
+  has been a welcoming presence since its inception. Entering off Broadway, people
+  first encounter a table with volunteers from the Metropolitan Opera Guild, providing
+  information about the Guild&#039;s programs and benefits of membership as well as
+  complementary issues of its publication, Opera News.
+slug: summer-nights-at-the-opera-an-observation
+title: 'Summer Nights at the Opera: an observation'
+---
 
 Over its ten-year history the Metropolitan Opera's Summer HD Festival opened with films that in one way or another, evoked the world of opera - or at least Lincoln Center, whose plaza it annually transforms into a 3000-seat outdoor opera house. This transformation takes place in late August and runs through the Labor Day weekend when an impressively sharp projection and sound system erected near the plaza fountain and a giant screen mounted atop the Grand Tier level of opera house take over.
 

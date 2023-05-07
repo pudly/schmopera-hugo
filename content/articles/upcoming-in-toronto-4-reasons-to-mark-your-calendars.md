@@ -1,15 +1,19 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2018-05-07T13:25:00-04:00"
-lastmod = "2018-05-07T21:41:00-04:00"
-preamble = "Readers, don't worry: the 2017/18 season isn't done just yet. Mark your calendars for these four must-see items in May:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525713931833/sqToronto.jpg.jpg"
-publishDate = "2018-05-07T21:27:00-04:00"
-short_description = "Estonia counts more from its diaspora in Toronto than anywhere else in the world, and in the 100th year of the country&#039;s independence, Estonia sends some of its finest musicians to collaborate with artists in Toronto."
-slug = "upcoming-in-toronto-4-reasons-to-mark-your-calendars"
-title = "Upcoming in Toronto: 4 reasons to mark your calendars"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2018-05-07T13:25:00-04:00"
+lastmod: "2018-05-07T21:41:00-04:00"
+preamble: 'Readers, don''t worry: the 2017/18 season isn''t done just yet. Mark your
+  calendars for these four must-see items in May:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525713931833/sqToronto.jpg.jpg
+publishDate: "2018-05-07T21:27:00-04:00"
+short_description: Estonia counts more from its diaspora in Toronto than anywhere
+  else in the world, and in the 100th year of the country&#039;s independence, Estonia
+  sends some of its finest musicians to collaborate with artists in Toronto.
+slug: upcoming-in-toronto-4-reasons-to-mark-your-calendars
+title: 'Upcoming in Toronto: 4 reasons to mark your calendars'
+---
 
 **May 10-11** at Toronto's Jane Mallett Theatre, you can catch [*Hockey Noir*](http://continuummusic.org/seasons/1718/hockey-noir.php), the new graphic chamber opera by The Ensemble contemporain de Montréal (ECM+), co-presented by Continuum Contemporary Music and the Toronto Comic Arts Festival. *Hockey Noir* unfolds during the playoff finals of two fictional Canadian hockey teams, based in cities where the passion for Canada's national sport is "bordering on the fanatical." The production features illustrations by Kimberlyn Porter, and Marie-Josée Chartier directs this "stylized musical adventure full of excitement and intrigue, bathed in a smoky post-war atmosphere of the 'film noir'." For details and ticket information, [click here.](http://continuummusic.org/seasons/1718/hockey-noir.php)
 

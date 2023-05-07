@@ -1,16 +1,22 @@
-+++
-author = ["authors/blanche-isral.md"]
-categories = "Op-ed"
-date = "2018-04-15T21:52:00-04:00"
-lastmod = "2018-04-18T10:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523844008776/sqCast.jpg.jpg"
-primary_image_credit = "Alexandre Thériault (top left) and his castmates, before the fatal car crash one year ago."
-publishDate = "2018-04-16T11:11:00-04:00"
-related_articles = ["articles/when-opera-companies-protect-abusers.md"]
-short_description = "It&#039;s the question that crosses any touring performer&#039;s mind when the stage manager misses a stop sign or forgets to check their blind spot. You grip the armrests and wonder, &quot;what if we crashed?&quot; A year ago today, the members of one Canadian production found out. "
-slug = "theatre-company-responsible-for-canadian-singers-death-goes-bankrupt"
-title = "Theatre company responsible for Canadian singer&#039;s death goes bankrupt"
-+++
+---
+author:
+- authors/blanche-isral.md
+categories: Op-ed
+date: "2018-04-15T21:52:00-04:00"
+lastmod: "2018-04-18T10:28:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523844008776/sqCast.jpg.jpg
+primary_image_credit: Alexandre Thériault (top left) and his castmates, before the
+  fatal car crash one year ago.
+publishDate: "2018-04-16T11:11:00-04:00"
+related_articles:
+- articles/when-opera-companies-protect-abusers.md
+short_description: 'It&#039;s the question that crosses any touring performer&#039;s
+  mind when the stage manager misses a stop sign or forgets to check their blind spot.
+  You grip the armrests and wonder, &quot;what if we crashed?&quot; A year ago today,
+  the members of one Canadian production found out. '
+slug: theatre-company-responsible-for-canadian-singers-death-goes-bankrupt
+title: Theatre company responsible for Canadian singer&#039;s death goes bankrupt
+---
 
 >"It's nice to have some closure." - Robbie Fenton, cast member who survived the crash.
 

@@ -1,16 +1,22 @@
-+++
-date = "2015-04-07T23:11:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-07T23:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428462413400/LauraA.jpg.jpg"
-primary_image_credit = "Katie Cross"
-publishDate = "2015-04-07T23:11:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/highlands-opera-studio.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/calgary-opera.md","scene/companies/against-the-grain-theatre.md"]
-slug = "laura-albino"
-title = "Laura Albino"
-website = "http://www.lauraalbino.com/live/"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2015-04-07T23:11:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-07T23:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428462413400/LauraA.jpg.jpg
+primary_image_credit: Katie Cross
+publishDate: "2015-04-07T23:11:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/highlands-opera-studio.md
+- scene/companies/voicebox-opera-in-concert.md
+- scene/companies/calgary-opera.md
+- scene/companies/against-the-grain-theatre.md
+slug: laura-albino
+title: Laura Albino
+website: http://www.lauraalbino.com/live/
+---
 
 <p>
 	Described as "fresh-voiced and agile with a gorgeous top range…" (Opera Canada) Canadian soprano Laura Albino is in growing demand as a sensitive interpreter of the lyric soprano repertoire. Laura is a recent graduate of the prestigious Canadian Opera Company Ensemble Studio where she performed numerous roles including Fiordiligi (<em>Cosi fan tutte</em>) and Ilia (<em>Idomeneo</em>) in the Ensemble Studio performances as well as Kate Pinkerton (<em>Madama Butterfly</em>) and The Cook (Stravinsky's <em>The Nightingale and Other Short Fables</em>) on the mainstage. She also covered the roles of Helena (<em>A Midsummer Night's Dream</em>), Musetta <em>(La bohème</em>) and Micaëla (Car<em></em>men).

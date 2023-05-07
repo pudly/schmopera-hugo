@@ -1,18 +1,38 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2017-02-03T12:30:00+00:00"
-lastmod = "2017-02-03T17:54:00+00:00"
-preamble = "Image: The Rhinemaidens: (l-r) Lauren Eberwein as Wellgunde, Danika Lorèn as Woglinde and Lindsay Ammann as Flosshilde in the Canadian Opera Company's production of *Götterdämmerung*, 2017, photo: Michael Cooper."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486125295809/2017-02-03---Gotterdammerung-MC-2169.jpg.jpg"
-publishDate = "2017-02-03T17:54:00+00:00"
-related_articles = ["articles/talking-with-singers-christine-goerke.md","articles/in-review-die-walkre-at-the-coc.md","articles/aviva-fortunata-it-was-a-total-blur.md","articles/kinder-schafft-neues-die-meistersinger-von-nrnberg.md","articles/review-arabella-or-poor-little-rich-girl.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/andreas-schager.md","scene/people/christine-goerke.md","scene/people/ain-anger.md","scene/people/lauren-eberwein.md","scene/people/danika-lorn.md","scene/people/karen-cargill.md"]
-short_description = "Thursday night, I blew into the Four Seasons Centre for the Performing Arts almost immediately after work - even planning all week I still just made the 5 minute call before the early curtain at 6pm. As is said before, this is my virgin Wagner (it was so hard not to write &quot;Wirgin Wagner&quot; just now) but I&#039;m not unfamiliar with the Ring Cycle, and being the huge Tolkien junkie I am, I love me a good epic."
-slug = "in-review-gotterdammerung-at-the-coc"
-title = "In review: Götterdämmerung at the COC"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2017-02-03T12:30:00+00:00"
+lastmod: "2017-02-03T17:54:00+00:00"
+preamble: 'Image: The Rhinemaidens: (l-r) Lauren Eberwein as Wellgunde, Danika Lorèn
+  as Woglinde and Lindsay Ammann as Flosshilde in the Canadian Opera Company''s production
+  of *Götterdämmerung*, 2017, photo: Michael Cooper.'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486125295809/2017-02-03---Gotterdammerung-MC-2169.jpg.jpg
+publishDate: "2017-02-03T17:54:00+00:00"
+related_articles:
+- articles/talking-with-singers-christine-goerke.md
+- articles/in-review-die-walkre-at-the-coc.md
+- articles/aviva-fortunata-it-was-a-total-blur.md
+- articles/kinder-schafft-neues-die-meistersinger-von-nrnberg.md
+- articles/review-arabella-or-poor-little-rich-girl.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/andreas-schager.md
+- scene/people/christine-goerke.md
+- scene/people/ain-anger.md
+- scene/people/lauren-eberwein.md
+- scene/people/danika-lorn.md
+- scene/people/karen-cargill.md
+short_description: Thursday night, I blew into the Four Seasons Centre for the Performing
+  Arts almost immediately after work - even planning all week I still just made the
+  5 minute call before the early curtain at 6pm. As is said before, this is my virgin
+  Wagner (it was so hard not to write &quot;Wirgin Wagner&quot; just now) but I&#039;m
+  not unfamiliar with the Ring Cycle, and being the huge Tolkien junkie I am, I love
+  me a good epic.
+slug: in-review-gotterdammerung-at-the-coc
+title: 'In review: Götterdämmerung at the COC'
+---
 
 I've been around a while. I've sung a lot of music. I've teched (worked backstage) for even more. Due to the way performing and rehearsal schedules have always worked out in the past, I found myself, at this late juncture, *finally* witnessing my first full, fully-staged Wagner opera.
 

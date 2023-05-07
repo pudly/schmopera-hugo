@@ -1,22 +1,29 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2019-10-08T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Minnesota Opera's new staging of [_Elektra_](https://mnopera.org/season/2019-2020/elektra/) runs through October 13."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1570496068/media/2019/10/sqMOElektra_37A0990_tpn8r0.jpg"
-primary_image_credit = ""
-related_articles = ["articles/talking-with-singers-nina-stemme.md", "articles/la-nilsson-celebrating-birgit-nilsson-at-100.md"]
-related_companies = []
-related_people = ["scene/people/victoria-vargas.md", "scene/people/craig-irvin.md"]
-short_description = "With all these different uses of the one dramatic tool, the creative team certainly believed in the effectiveness of the medium. I think it could have been trimmed a bit, because it distracted from the artists on stage."
-slug = "greek-tragedy-meets-sunset-boulevard-minnesota-operas-new-elektra"
-title = "Greek tragedy meets Sunset Boulevard: Minnesota Opera's new Elektra"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2019-10-08T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Minnesota Opera's new staging of [_Elektra_](https://mnopera.org/season/2019-2020/elektra/)
+  runs through October 13.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1570496068/media/2019/10/sqMOElektra_37A0990_tpn8r0.jpg
+primary_image_credit: ""
+related_articles:
+- articles/talking-with-singers-nina-stemme.md
+- articles/la-nilsson-celebrating-birgit-nilsson-at-100.md
+related_companies: []
+related_people:
+- scene/people/victoria-vargas.md
+- scene/people/craig-irvin.md
+short_description: With all these different uses of the one dramatic tool, the creative
+  team certainly believed in the effectiveness of the medium. I think it could have
+  been trimmed a bit, because it distracted from the artists on stage.
+slug: greek-tragedy-meets-sunset-boulevard-minnesota-operas-new-elektra
+title: 'Greek tragedy meets Sunset Boulevard: Minnesota Opera''s new Elektra'
+youtube_url: ""
+---
 Minnesota Opera opens its 52nd season this weekend with [Richard Strauss' _Elektra_](https://mnopera.org/season/2019-2020/elektra/). The true stars of the night are the 85-piece orchestra, passionately led by [Elias Grandy](https://mnopera.org/biography/elias-grandy/) and playing with a rich and sustained intensity. The orchestra is onstage, displaced by the film crew in the pit.
 
 <figure data-type="image">

@@ -1,18 +1,30 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = "2017-11-20T11:00:00-05:00"
-lastmod = "2017-11-21T11:45:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511229977506/2017-11-20---square---DSC_5502.jpg.jpg"
-primary_image_credit = "John Moore and Elise Quagliata in *As One*, Des Moines Metro Opera, 2017. Photo: Duane Tinkey."
-publishDate = "2017-11-20T21:07:00-05:00"
-related_articles = ["articles/moving-stories-as-one-at-chicago-fringe-opera.md","articles/confusing-creepy-proving-up.md","articles/a-nextlevel-fledermaus-in-des-moines.md"]
-related_companies = ["scene/companies/des-moines-metro-opera.md"]
-related_people = ["scene/people/elise-quagliata.md","scene/people/john-moore.md"]
-short_description = "I was struck most in Hannah&#039;s story by how significant seemingly small things became. Her handwriting was the greatest example of this. It had never occurred to me that handwriting could be so gendered and a source of exposure for a trans person. Much of Hannah&#039;s childhood is spent trying to be the perfect boy, and even her handwriting has to fit the perception of masculinity."
-slug = "as-one-they-both-took-risks-that-paid-off"
-title = "As One: &quot;they both took risks that paid off.&quot;"
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2017-11-20T11:00:00-05:00"
+lastmod: "2017-11-21T11:45:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511229977506/2017-11-20---square---DSC_5502.jpg.jpg
+primary_image_credit: 'John Moore and Elise Quagliata in *As One*, Des Moines Metro
+  Opera, 2017. Photo: Duane Tinkey.'
+publishDate: "2017-11-20T21:07:00-05:00"
+related_articles:
+- articles/moving-stories-as-one-at-chicago-fringe-opera.md
+- articles/confusing-creepy-proving-up.md
+- articles/a-nextlevel-fledermaus-in-des-moines.md
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+related_people:
+- scene/people/elise-quagliata.md
+- scene/people/john-moore.md
+short_description: I was struck most in Hannah&#039;s story by how significant seemingly
+  small things became. Her handwriting was the greatest example of this. It had never
+  occurred to me that handwriting could be so gendered and a source of exposure for
+  a trans person. Much of Hannah&#039;s childhood is spent trying to be the perfect
+  boy, and even her handwriting has to fit the perception of masculinity.
+slug: as-one-they-both-took-risks-that-paid-off
+title: 'As One: &quot;they both took risks that paid off.&quot;'
+---
 
 Unlike the trajectory of many new operas, *As One* is already on track to become one of the most frequently performed modern works. The opera premiered in 2014, and since then it has been performed at an increasing rate. [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/) is the thirteenth company to produce [*As One*](http://desmoinesmetroopera.org/education-and-community/second-stages-series), and there are many more upcoming performances scheduled across the nation within the next year. (*Dead Man Walking* better watch its back. *As One* is coming for ya!)
 

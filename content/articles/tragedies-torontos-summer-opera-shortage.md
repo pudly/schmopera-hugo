@@ -1,14 +1,18 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2017-08-22T18:36:00-04:00"
-lastmod = "2017-08-22T22:24:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503442700007/2017-08-22---Toronto.jpg.jpg"
-publishDate = "2017-08-22T20:32:00-04:00"
-short_description = "Perhaps they&#039;re trying to tell us something, these vacationing opera-and-music-makers. Maybe they&#039;re saying, Get out of the city, you crazy opera-house addicts, they&#039;re saying. Go sit by a lake somewhere, and build up your vitamin D for the season to come."
-slug = "tragedies-torontos-summer-opera-shortage"
-title = "Tragedies: Toronto&#039;s summer opera shortage"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2017-08-22T18:36:00-04:00"
+lastmod: "2017-08-22T22:24:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503442700007/2017-08-22---Toronto.jpg.jpg
+publishDate: "2017-08-22T20:32:00-04:00"
+short_description: Perhaps they&#039;re trying to tell us something, these vacationing
+  opera-and-music-makers. Maybe they&#039;re saying, Get out of the city, you crazy
+  opera-house addicts, they&#039;re saying. Go sit by a lake somewhere, and build
+  up your vitamin D for the season to come.
+slug: tragedies-torontos-summer-opera-shortage
+title: 'Tragedies: Toronto&#039;s summer opera shortage'
+---
 
 Is there anything more despairing than the life of an opera lover, living in Toronto during the month of August? And is there any worry more utterly trivial and first-world?
 

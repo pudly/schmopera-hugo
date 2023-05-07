@@ -1,22 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2019-03-04T10:20:54+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "American Baroque Opera Company's presentation of _Montezuma_ happens March 15-17, 2019, at Arts Mission Oak Cliff in Dallas, TX. For details and ticket information, [click here](https://www.eventbrite.com/e/montezuma-by-vivaldi-tickets-48635837098)."
-preamble = "This post is sponsored by American Baroque Opera Co."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551487349/media/2019/03/sqMontezuma.jpg"
-primary_image_credit = ""
-related_articles = ["articles/5-people-who-would-make-great-opera-roles.md", "articles/forgiving-racism-onstage.md"]
-related_companies = ["scene/companies/american-baroque-opera-co.md"]
-related_people = ["scene/people/ryan-kuster.md"]
-short_description = "If we look too closely with our 21st-century lens, Montezuma could be seen as problematic. Why champion the Spanish, when their colonialism was so vicious?"
-slug = "vivaldis-aztec-exoticism-montezuma"
-title = "Vivaldi's Aztec exoticism: Montezuma"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-03-04T10:20:54+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: American Baroque Opera Company's presentation of _Montezuma_ happens March
+  15-17, 2019, at Arts Mission Oak Cliff in Dallas, TX. For details and ticket information,
+  [click here](https://www.eventbrite.com/e/montezuma-by-vivaldi-tickets-48635837098).
+preamble: This post is sponsored by American Baroque Opera Co.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551487349/media/2019/03/sqMontezuma.jpg
+primary_image_credit: ""
+related_articles:
+- articles/5-people-who-would-make-great-opera-roles.md
+- articles/forgiving-racism-onstage.md
+related_companies:
+- scene/companies/american-baroque-opera-co.md
+related_people:
+- scene/people/ryan-kuster.md
+short_description: If we look too closely with our 21st-century lens, Montezuma could
+  be seen as problematic. Why champion the Spanish, when their colonialism was so
+  vicious?
+slug: vivaldis-aztec-exoticism-montezuma
+title: 'Vivaldi''s Aztec exoticism: Montezuma'
+youtube_url: ""
+---
 Dallas-based American Baroque Opera Company is mid-way through its 2018-19 season, entitled "Myths and Legends." Indeed, with pieces like Purcell's _Dido and Aeneas_, and Scarlatti's _Venus & Adonis_, ABOC has the myths covered. Yet their production of [Antonio Vivaldi's _Montezuma_](https://www.eventbrite.com/e/montezuma-by-vivaldi-tickets-48635837098), presented March 15-17, 2019, stands out among their line-up as the only work based in the legends of real-life history.
 
 Listening to his score, there's nothing to suggest that _Montezuma_ is one of the very first operas set in North America. Composed in 1733, the opera looks far to the West for its exotic appeal, telling the story of the last days of Moctezuma II, the 15th- and 16th-century Aztec Emperor who died in 1520 during the Spanish Conquistador expedition led by Hernán Cortés.

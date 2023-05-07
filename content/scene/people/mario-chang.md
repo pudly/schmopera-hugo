@@ -1,20 +1,24 @@
-+++
-date = "2017-10-15T20:48:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-10-15T20:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508114916099/Mario_Cheng_pc_Dario_Acosta_a_300dpi.jpg.jpg"
-primary_image_credit = "Dario Acosta"
-publishDate = "2017-10-15T20:48:00-04:00"
-related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/oper-frankfurt.md"]
-slug = "mario-chang"
-title = "Mario Chang"
-website = "http://www.mariochang.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MarioChangTenor"
-_template = "people_single"
-+++
+---
+date: "2017-10-15T20:48:00-04:00"
+discipline: Tenor
+lastmod: "2017-10-15T20:48:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508114916099/Mario_Cheng_pc_Dario_Acosta_a_300dpi.jpg.jpg
+primary_image_credit: Dario Acosta
+publishDate: "2017-10-15T20:48:00-04:00"
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/oper-frankfurt.md
+slug: mario-chang
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/MarioChangTenor
+title: Mario Chang
+website: http://www.mariochang.com/
+---
 
 A First Prize, Zarzuela Prize, and audience favorite at the 2014 Opealia Competition, tenor Mario Chang, a native of Guatemala City, recently completed the Lindemann Young Artist Development Program at The Metropolitan Operaand the Advanced Diploma in Opera Studies program at the Juilliard School. In the 2017-18 season, Mr. Chang will sing the role of Arturo, and cover that of Edgardo, in Mary Zimmerman’s production of *Lucia di Lammermoor* at the Metropolitan Opera. He will also sing the role of Ismaele in *Nabucco* at Los Angeles Opera. In addition, he will return again to Oper Frankfurt as an Ensemble member, where he will take on the title roles in *Werther* and *Roberto Devereux*, as well as sing the role of the Italian Tenor in a new production of *Capriccio* by Brigitte Fassbaender.   
 

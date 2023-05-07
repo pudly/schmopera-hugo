@@ -1,18 +1,32 @@
-+++
-author = ["authors/mary-beth-brooks.md"]
-categories = "Review"
-date = "2017-12-19T18:12:00-05:00"
-lastmod = "2017-12-19T21:11:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513725563139/sq-2---FALSTAFF_22_productiebeelden_pers_34A6571_AnnemieAugustijns.jpg.jpg"
-primary_image_credit = "Falstaff, Opera Vlaanderen, 2017. Photo by Annemie Augustijns."
-publishDate = "2017-12-19T19:09:00-05:00"
-related_articles = ["articles/falstaff-he-saidshe-said.md","articles/talking-with-singers-craig-colclough.md"]
-related_companies = ["scene/companies/vlaamse-opera.md"]
-related_people = ["scene/people/craig-colclough.md","scene/people/julien-behr.md","scene/people/denzil-delaere.md","scene/people/markus-suihkonen.md","scene/people/anat-edri.md"]
-short_description = "Despite the sombre mis-en-scene for a comedy, the characters pull the production together with finesse and theatrical flair. The artistic decision to put the intermission in the middle of Act III makes for a long first half – and the energy in the room seemed to dwindle before they called the curtain for a much needed breather. This decision made more sense after the intermission - there is a surprise for the audience as far as staging goes, and it doesn&#039;t disappoint."
-slug = "in-review-falstaff-man-of-faults"
-title = "In review: Falstaff, man of faults"
-+++
+---
+author:
+- authors/mary-beth-brooks.md
+categories: Review
+date: "2017-12-19T18:12:00-05:00"
+lastmod: "2017-12-19T21:11:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513725563139/sq-2---FALSTAFF_22_productiebeelden_pers_34A6571_AnnemieAugustijns.jpg.jpg
+primary_image_credit: Falstaff, Opera Vlaanderen, 2017. Photo by Annemie Augustijns.
+publishDate: "2017-12-19T19:09:00-05:00"
+related_articles:
+- articles/falstaff-he-saidshe-said.md
+- articles/talking-with-singers-craig-colclough.md
+related_companies:
+- scene/companies/vlaamse-opera.md
+related_people:
+- scene/people/craig-colclough.md
+- scene/people/julien-behr.md
+- scene/people/denzil-delaere.md
+- scene/people/markus-suihkonen.md
+- scene/people/anat-edri.md
+short_description: Despite the sombre mis-en-scene for a comedy, the characters pull
+  the production together with finesse and theatrical flair. The artistic decision
+  to put the intermission in the middle of Act III makes for a long first half – and
+  the energy in the room seemed to dwindle before they called the curtain for a much
+  needed breather. This decision made more sense after the intermission - there is
+  a surprise for the audience as far as staging goes, and it doesn&#039;t disappoint.
+slug: in-review-falstaff-man-of-faults
+title: 'In review: Falstaff, man of faults'
+---
 
 Verdi's *Falstaff* is a hard-on-his-luck protagonist who lives outside his means while considering himself God's gift to women. Baritone [Craig Colclough](/talking-with-singers-craig-colclough/) brilliantly plays the old washed-up knight in Opera Vlaanderen's  production of this Verdi classic.  With comedic timing - and tasteful drunkenness - Colclough captures his audience while exhibiting his extraordinary vocal talent. Falstaff has many, many faults, and his lack of moral compass makes the audience question if we should indeed root for such a man; but his resilient self-confidence and delusion fuels the comedic role that allows the public to accept such tasteless behavior from a loser like Falstaff.
 

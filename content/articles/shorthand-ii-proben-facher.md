@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2017-04-02T13:13:00+01:00"
-lastmod = "2017-04-11T11:49:00+01:00"
-preamble = "Last year, we brought you some tips on opera-insider jargon, and how to speak the industry shorthand. [Part I](/opera-shorthand-how-to-speak-like-an-insider/) focused on the names of operas and their nicknames, and in part II, we're talking rehearsals and types of voices. So, if you're hoping to infiltrate opening-night opera parties, or just keep up with the opera talk with your singer friends, we can help you with the shortened lingo.\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491825759316/2017-04-10---Insider.jpg.jpg"
-publishDate = "2017-04-11T11:21:00+01:00"
-related_articles = ["articles/opera-shorthand-how-to-speak-like-an-insider.md","articles/back-to-school-opera-a-practical-glossary.md"]
-short_description = "Last year, we brought you some tips on opera-insider jargon, and how to speak the industry shorthand. Part I focused on the names of operas and their nicknames, and in part II, we&#039;re talking rehearsals and types of voices. So, if you&#039;re hoping to infiltrate opening-night opera parties, or just keep up with the opera talk with your singer friends, we can help you with the shortened lingo."
-slug = "shorthand-ii-proben-facher"
-title = "Opera shorthand, part II: Proben &amp; Fächer"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2017-04-02T13:13:00+01:00"
+lastmod: "2017-04-11T11:49:00+01:00"
+preamble: |+
+  Last year, we brought you some tips on opera-insider jargon, and how to speak the industry shorthand. [Part I](/opera-shorthand-how-to-speak-like-an-insider/) focused on the names of operas and their nicknames, and in part II, we're talking rehearsals and types of voices. So, if you're hoping to infiltrate opening-night opera parties, or just keep up with the opera talk with your singer friends, we can help you with the shortened lingo.
+
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491825759316/2017-04-10---Insider.jpg.jpg
+publishDate: "2017-04-11T11:21:00+01:00"
+related_articles:
+- articles/opera-shorthand-how-to-speak-like-an-insider.md
+- articles/back-to-school-opera-a-practical-glossary.md
+short_description: Last year, we brought you some tips on opera-insider jargon, and
+  how to speak the industry shorthand. Part I focused on the names of operas and their
+  nicknames, and in part II, we&#039;re talking rehearsals and types of voices. So,
+  if you&#039;re hoping to infiltrate opening-night opera parties, or just keep up
+  with the opera talk with your singer friends, we can help you with the shortened
+  lingo.
+slug: shorthand-ii-proben-facher
+title: 'Opera shorthand, part II: Proben &amp; Fächer'
+---
 
 ## The rehearsals & *probes*
 

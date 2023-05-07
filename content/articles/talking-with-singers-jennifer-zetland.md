@@ -1,22 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-06-20T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[_Ellen West_](http://www.operasaratoga.org/ellen-west) runs at Opera Saratoga June 30 to July 12."
-preamble = "New opera is par for the course for soprano [Jennifer Zetlan](/scene/people/jennifer-zetlan/). She's the original Rhoda in On Site Opera's _Rhoda and the Fossil Hunt_, sang in the premieres of Matthew Aucoin's _Crossing_ and Nico Muhly's _Two Boys_, and has an ongoing working relationship with Ricky Ian Gordon.\n\nThis month, she's set to create the title role in Gordon's newest opera, [_Ellen West_](http://www.operasaratoga.org/ellen-west), happening June 30 to July 12 out of Opera Saratoga and Beth Morrison Projects. \n\nWe spoke with Zetlan about singing with the composer in the room, and what she loves in a new opera."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1561163928/media/2019/06/sq405edit.jpg"
-primary_image_credit = "Photo: Arielle Doneson."
-related_articles = []
-related_companies = ["scene/companies/beth-morrison-projects.md", "scene/companies/opera-saratoga.md"]
-related_people = ["scene/people/jennifer-zetlan.md"]
-short_description = "\"I love to tell stories and I love great music, and I can't imagine a better blend of the two! That I get to do it for a living constantly astonishes me, no exaggeration.\""
-slug = "talking-with-singers-jennifer-zetlan"
-title = "Talking with singers: Jennifer Zetlan"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-06-20T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '[_Ellen West_](http://www.operasaratoga.org/ellen-west) runs at Opera
+  Saratoga June 30 to July 12.'
+preamble: "New opera is par for the course for soprano [Jennifer Zetlan](/scene/people/jennifer-zetlan/).
+  She's the original Rhoda in On Site Opera's _Rhoda and the Fossil Hunt_, sang in
+  the premieres of Matthew Aucoin's _Crossing_ and Nico Muhly's _Two Boys_, and has
+  an ongoing working relationship with Ricky Ian Gordon.\n\nThis month, she's set
+  to create the title role in Gordon's newest opera, [_Ellen West_](http://www.operasaratoga.org/ellen-west),
+  happening June 30 to July 12 out of Opera Saratoga and Beth Morrison Projects. \n\nWe
+  spoke with Zetlan about singing with the composer in the room, and what she loves
+  in a new opera."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1561163928/media/2019/06/sq405edit.jpg
+primary_image_credit: 'Photo: Arielle Doneson.'
+related_articles: []
+related_companies:
+- scene/companies/beth-morrison-projects.md
+- scene/companies/opera-saratoga.md
+related_people:
+- scene/people/jennifer-zetlan.md
+short_description: '"I love to tell stories and I love great music, and I can''t imagine
+  a better blend of the two! That I get to do it for a living constantly astonishes
+  me, no exaggeration."'
+slug: talking-with-singers-jennifer-zetlan
+title: 'Talking with singers: Jennifer Zetlan'
+youtube_url: ""
+---
 ## Why do you sing professionally?
 
 I love to tell stories and I love great music, and I can't imagine a better blend of the two! That I get to do it for a living constantly astonishes me, no exaggeration.

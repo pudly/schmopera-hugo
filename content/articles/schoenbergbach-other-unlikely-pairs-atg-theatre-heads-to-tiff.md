@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-03-01T13:40:00+00:00"
-lastmod = "2017-03-13T16:46:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378414013/2017-03-01---AMB-choeur-denfants.jpg.jpg"
-primary_image_credit = "A still from \"The Chronicles of Anna Magdalena Bach\". Image courtesy of TIFF."
-publishDate = "2017-03-01T14:27:00+00:00"
-related_articles = ["articles/diegetic-music-in-opera-3-ways-to-use-it.md","articles/gibson-girls-and-the-great-opera-theyd-make.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/joel-ivany.md"]
-short_description = "&quot;This past week, we were able to have an open, pop-up rehearsal in the atrium of TIFF Bell Lightbox. To see a new and engaged audience stop by and listen to both pianist Topher Mokrzewski and soprano Adanya Dunn rehearse is what makes this collaboration so special. It&#039;s been really great to work with a partner that is open to creating intersectional performances like this, who wants to activate their building into a site for film, art, and music.&quot;"
-slug = "schoenbergbach-other-unlikely-pairs-atg-theatre-heads-to-tiff"
-title = "Schoenberg/Bach &amp; other unlikely pairs: AtG Theatre heads to TIFF"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-03-01T13:40:00+00:00"
+lastmod: "2017-03-13T16:46:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378414013/2017-03-01---AMB-choeur-denfants.jpg.jpg
+primary_image_credit: A still from "The Chronicles of Anna Magdalena Bach". Image
+  courtesy of TIFF.
+publishDate: "2017-03-01T14:27:00+00:00"
+related_articles:
+- articles/diegetic-music-in-opera-3-ways-to-use-it.md
+- articles/gibson-girls-and-the-great-opera-theyd-make.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/joel-ivany.md
+short_description: '&quot;This past week, we were able to have an open, pop-up rehearsal
+  in the atrium of TIFF Bell Lightbox. To see a new and engaged audience stop by and
+  listen to both pianist Topher Mokrzewski and soprano Adanya Dunn rehearse is what
+  makes this collaboration so special. It&#039;s been really great to work with a
+  partner that is open to creating intersectional performances like this, who wants
+  to activate their building into a site for film, art, and music.&quot;'
+slug: schoenbergbach-other-unlikely-pairs-atg-theatre-heads-to-tiff
+title: 'Schoenberg/Bach &amp; other unlikely pairs: AtG Theatre heads to TIFF'
+---
 
 The Toronto International Film Festival (TIFF) is best known for its star-studded galas and premieres that take over the city every September; yet it actually does some amazing programming all year round. They present both classic works and those that may be relatively unknown to those who are not serious cinephiles.
 

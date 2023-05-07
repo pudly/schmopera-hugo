@@ -1,22 +1,31 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-03-12T17:25:13+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Boston Lyric Opera's production of _The Rape of Lucretia_ runs through March 17. For details and tickets, [click here](https://blo.org/lucretia/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552411853/media/2019/03/sqBLO2019Lucretia3138.jpg"
-primary_image_credit = "Kelley O'Connor as Lucretia in Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll."
-related_articles = ["articles/rehearsing-trauma-how-working-on-an-opera-helped-me-heal.md"]
-related_companies = ["scene/companies/boston-lyric-opera.md"]
-related_people = ["scene/people/kelley-oconnor.md", "scene/people/brandon-cedel.md", "scene/people/duncan-rock.md"]
-short_description = "This production of The Rape of Lucretia was presented as one of BLO's now-signature installation operas: in this case, much of the action was concentrated on a relatively small circle in the center of the Arts for Humanity Epicenter building."
-slug = "blos-electrifying-rape-of-lucretia-a-revelation"
-title = "BLO's electrifying Rape of Lucretia a revelation"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-03-12T17:25:13+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Boston Lyric Opera's production of _The Rape of Lucretia_ runs through
+  March 17. For details and tickets, [click here](https://blo.org/lucretia/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1552411853/media/2019/03/sqBLO2019Lucretia3138.jpg
+primary_image_credit: 'Kelley O''Connor as Lucretia in Boston Lyric Opera''s production
+  of The Rape of Lucretia, 2019. Photo: Liza Voll.'
+related_articles:
+- articles/rehearsing-trauma-how-working-on-an-opera-helped-me-heal.md
+related_companies:
+- scene/companies/boston-lyric-opera.md
+related_people:
+- scene/people/kelley-oconnor.md
+- scene/people/brandon-cedel.md
+- scene/people/duncan-rock.md
+short_description: 'This production of The Rape of Lucretia was presented as one of
+  BLO''s now-signature installation operas: in this case, much of the action was concentrated
+  on a relatively small circle in the center of the Arts for Humanity Epicenter building.'
+slug: blos-electrifying-rape-of-lucretia-a-revelation
+title: BLO's electrifying Rape of Lucretia a revelation
+youtube_url: ""
+---
 Whenever a production company gets mired up in producing Benjamin Britten's _The Rape of Lucretia_, a common pitfall of productions is to present the work as a series of tableaus that are static and don't move forward very much. Considering the work's framing device, it is not difficult to see why: the Male and Female Chorus that function as the tale's narrators lampshade their function in the story with enough frequency that most directors' first instinct would be to produce this opera in such a way.
 
 > The audience was seated surrounding the circle on three sides, which in pretty much all situations would give the singers absolutely nowhere to hide.

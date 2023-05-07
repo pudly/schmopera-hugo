@@ -1,23 +1,23 @@
-+++
-date = "2019-02-26T23:57:02+00:00"
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551225548/media/2019/02/BogdanVolkov.jpg"
-primary_image_credit = "Kristina Kalinina"
-related_companies = ["scene/companies/opra-national-de-paris.md", "scene/companies/palm-beach-opera.md"]
-slug = "bogdan-volkov"
-title = "Bogdan Volkov"
-website = "https://www.bogdanvolkov.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/bogdanvolkovofficial/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/bogdan_volkov_tenor/"
-
-_template = "people_single"
-+++
+---
+date: "2019-02-26T23:57:02+00:00"
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551225548/media/2019/02/BogdanVolkov.jpg
+primary_image_credit: Kristina Kalinina
+related_companies:
+- scene/companies/opra-national-de-paris.md
+- scene/companies/palm-beach-opera.md
+slug: bogdan-volkov
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/bogdanvolkovofficial/
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/bogdan_volkov_tenor/
+title: Bogdan Volkov
+website: https://www.bogdanvolkov.com/
+---
 Bogdan Volkov studied singing at the Glier Kiev Institute of Music. In 2013 he completed his vocal studies graduating at Tchaikovsky Kiev National Academy of Music. In 2013-15 was a member of the Young Artists Program of the Bolshoi Theatre of Russia. During this period Bogdan made his role debuts as Simpleton in _Boris Godunov_ by M. Mussorgsky, as Mozart in _Mozart and Salieri_ by N. Rimsky-Korsakov, as Kai in _The story of Kai and Gerda_ by S. Banevich and as Vladimir Igorevich in _Prince Igor_ by A. Borodin and others.
 
 In February 2014 he debuted in the new production of _The Tsar’s Bride_ by N. Rimsky-Korsakov as Lykov, conducted by Gennady Rozhdestvensky. With this role he took part in the Bolshoi Theatre tours to Austria, Hong Kong Arts Festival and Lincoln Centre Festival.

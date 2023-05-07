@@ -1,22 +1,27 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-08-05T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "The 2019 [Tête-à-Tête: The Opera Festival](https://www.tete-a-tete.org.uk/festival-calendar-at-a-glance-2018/) line-up continues through 10 August."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1565030391/media/2019/08/sqHildegard_rbnfb3.jpg"
-primary_image_credit = ""
-related_articles = ["articles/check-out-tete-a-tete.md"]
-related_companies = ["scene/companies/tete-a-tete.md"]
-related_people = []
-short_description = "All senses were catered to as audience members were misted with fragrant water and touched softly by the performers while being whispered and sung to directly."
-slug = "site-specific-intimate-selections-from-tete-a-tete-the-opera-festival"
-title = "Site-specific & intimate: selections from Tête-à-Tête: The Opera Festival"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-08-05T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: 'The 2019 [Tête-à-Tête: The Opera Festival](https://www.tete-a-tete.org.uk/festival-calendar-at-a-glance-2018/)
+  line-up continues through 10 August.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1565030391/media/2019/08/sqHildegard_rbnfb3.jpg
+primary_image_credit: ""
+related_articles:
+- articles/check-out-tete-a-tete.md
+related_companies:
+- scene/companies/tete-a-tete.md
+related_people: []
+short_description: All senses were catered to as audience members were misted with
+  fragrant water and touched softly by the performers while being whispered and sung
+  to directly.
+slug: site-specific-intimate-selections-from-tete-a-tete-the-opera-festival
+title: 'Site-specific & intimate: selections from Tête-à-Tête: The Opera Festival'
+youtube_url: ""
+---
 I recently had the pleasure of seeing two pieces in [Tête-à-Tête's Opera Festival line up](https://www.tete-a-tete.org.uk/festival-calendar-at-a-glance-2018/) this summer. Though very different in style and subject matter, they are alike in their re-imagining of the traditional operatic performance space and in their bending of the limitations of the genre.
 
 >All senses were catered to as audience members were misted with fragrant water and touched softly by the performers while being whispered and sung to directly.

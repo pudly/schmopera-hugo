@@ -1,15 +1,15 @@
-+++
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562711268/media/2019/07/CoreyTrahan.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/des-moines-metro-opera.md"]
-slug = "corey-trahan"
-social_media = []
-title = "Corey Trahan"
-website = "https://www.coreytrahan.com/"
-
-_template = "people_single"
-+++
+---
+_template: people_single
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1562711268/media/2019/07/CoreyTrahan.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+slug: corey-trahan
+social_media: []
+title: Corey Trahan
+website: https://www.coreytrahan.com/
+---
 With over 85 roles in his repertoire, Corey Trahan is an active performer, educator and stage director in opera, oratorio, music theatre, operetta and recital venues. Known for his comic timing, versatile voice, and onstage charisma, he is being seen and heard internationally in repertoire ranging from operatic classics to modern musical theatre.
 
 In the fall of 2018, Corey coordinated the 2018 John Alexander National Vocal Competition and presented “The Singing Actor Workshop” at the 2018 Florida Theatre Conference. He was guest vocalist with the Northwestern Florida Symphony Orchestra Holiday Pops Concert and performed recitals in Vienna, Austria and Atlanta, Georgia. In the Spring of 2019, Corey presented a concert of musical theatre selections at Eastern New Mexico University, performed Hysterium in Sondheim’s _A Funny Thing Happened on the Way to the Forum_ with the Natchez Festival of Music and joined Des Moines Metro Opera’s 2019 summer season for productions of Bernstein’s _Candide_ and Berg’s _Wozzeck_.

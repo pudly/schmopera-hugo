@@ -1,19 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-22T17:05:00-04:00"
-lastmod = "2017-07-23T22:21:00-04:00"
-preamble = "Toronto-based soprano, composer, and founding member of [Collectìf](https://www.collectiftoronto.com/), [Danika Lorèn](/scene/people/danika-loren/) is between seasons at the [Canadian Opera Company](/scene/companies/canadian-opera-company/), where she's a member of the [Ensemble Studio](/scene/companies/canadian-opera-company-ensemble-studio/). She just wrapped a run of Claude Vivier's *Kopernikus* with [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) at The Banff Centre, in a new production by Joel Ivany which earned rave reviews. This week you can catch her at the [Toronto Summer Music Festival's \"A Night at the Opera\"](http://www.torontosummermusic.com/2017-festival/mainstage-concerts/koerner-hall-concerts/july-27-a-night-at-the-opera/) concert, **July 27, 7:30pm** at Koerner Hall.\n\nWe spoke with the savvy soprano about baritone envy and finding some much-needed persective within a volatile career path.\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500757934652/2017-07-22---Danika-Loren-Ding.jpg.jpg"
-primary_image_credit = "Photo by Emily Ding."
-publishDate = "2017-07-23T22:21:00-04:00"
-related_articles = ["articles/casp-commission-sokolovic.md","articles/spotlight-on-danielle-buonaiuto.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/against-the-grain-theatre.md","scene/companies/collectif.md"]
-related_people = ["scene/people/danika-lorn.md"]
-short_description = "&quot;Be a good colleague not because you want to make a good impression on people, but because you care about the working environment that you are part of. A negative rehearsal space can be poisonous and a little bit of camaraderie can make a world of difference.&quot;"
-slug = "spotlight-on-danika-loren"
-title = "Spotlight on: Danika Lorèn"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-22T17:05:00-04:00"
+lastmod: "2017-07-23T22:21:00-04:00"
+preamble: |+
+  Toronto-based soprano, composer, and founding member of [Collectìf](https://www.collectiftoronto.com/), [Danika Lorèn](/scene/people/danika-loren/) is between seasons at the [Canadian Opera Company](/scene/companies/canadian-opera-company/), where she's a member of the [Ensemble Studio](/scene/companies/canadian-opera-company-ensemble-studio/). She just wrapped a run of Claude Vivier's *Kopernikus* with [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) at The Banff Centre, in a new production by Joel Ivany which earned rave reviews. This week you can catch her at the [Toronto Summer Music Festival's "A Night at the Opera"](http://www.torontosummermusic.com/2017-festival/mainstage-concerts/koerner-hall-concerts/july-27-a-night-at-the-opera/) concert, **July 27, 7:30pm** at Koerner Hall.
+
+  We spoke with the savvy soprano about baritone envy and finding some much-needed persective within a volatile career path.
+
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500757934652/2017-07-22---Danika-Loren-Ding.jpg.jpg
+primary_image_credit: Photo by Emily Ding.
+publishDate: "2017-07-23T22:21:00-04:00"
+related_articles:
+- articles/casp-commission-sokolovic.md
+- articles/spotlight-on-danielle-buonaiuto.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/collectif.md
+related_people:
+- scene/people/danika-lorn.md
+short_description: '&quot;Be a good colleague not because you want to make a good
+  impression on people, but because you care about the working environment that you
+  are part of. A negative rehearsal space can be poisonous and a little bit of camaraderie
+  can make a world of difference.&quot;'
+slug: spotlight-on-danika-loren
+title: 'Spotlight on: Danika Lorèn'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

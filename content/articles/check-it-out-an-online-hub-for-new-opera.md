@@ -1,16 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2018-12-10T20:12:00-05:00"
-lastmod = "2018-12-11T19:57:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544490673705/MNO-Twitter-Avatar-400x400px.jpg.jpg"
-publishDate = "2018-12-11T19:57:00-05:00"
-related_articles = ["articles/opera-in-the-age-of-netflix.md"]
-related_companies = ["scene/companies/tete-a-tete.md"]
-short_description = "MyNewOpera is searchable by composer, theme, artist, and synopsis, making it a valuable resource for those curious what&#039;s happening among opera&#039;s small companies and even works-in-progress."
-slug = "check-it-out-an-online-hub-for-new-opera"
-title = "Check it out: an online hub for new opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2018-12-10T20:12:00-05:00"
+lastmod: "2018-12-11T19:57:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544490673705/MNO-Twitter-Avatar-400x400px.jpg.jpg
+publishDate: "2018-12-11T19:57:00-05:00"
+related_articles:
+- articles/opera-in-the-age-of-netflix.md
+related_companies:
+- scene/companies/tete-a-tete.md
+short_description: MyNewOpera is searchable by composer, theme, artist, and synopsis,
+  making it a valuable resource for those curious what&#039;s happening among opera&#039;s
+  small companies and even works-in-progress.
+slug: check-it-out-an-online-hub-for-new-opera
+title: 'Check it out: an online hub for new opera'
+---
 
 Long-time champions of new opera, [Tête a Tête](/scene/companies/tete-a-tete/) has established a new hub for fans of contemporary works.
 

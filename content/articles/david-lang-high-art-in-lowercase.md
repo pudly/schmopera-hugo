@@ -1,22 +1,27 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Interview"
-date = 2023-02-13T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1676255550/media/2023/02/sqDavidLang_tdvi41.jpg"
-primary_image_credit = "Photo: Peter Serling."
-related_articles = ["articles/in-review-the-whisper-opera.md", "articles/talking-with-composers-cecilia-livingston.md", "articles/kevin-puts-i-know-who-i-am-as-a-composer.md"]
-related_companies = []
-related_people = []
-short_description = "\"When I started giving my pieces silly titles and putting them all in lowercase, it took the pressure off me to be a genius, and then I could concentrate on just writing my music.\""
-slug = "david-lang-high-art-in-lowercase"
-title = "David Lang: high art in lowercase"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Interview
+date: "2023-02-13T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1676255550/media/2023/02/sqDavidLang_tdvi41.jpg
+primary_image_credit: 'Photo: Peter Serling.'
+related_articles:
+- articles/in-review-the-whisper-opera.md
+- articles/talking-with-composers-cecilia-livingston.md
+- articles/kevin-puts-i-know-who-i-am-as-a-composer.md
+related_companies: []
+related_people: []
+short_description: '"When I started giving my pieces silly titles and putting them
+  all in lowercase, it took the pressure off me to be a genius, and then I could concentrate
+  on just writing my music."'
+slug: david-lang-high-art-in-lowercase
+title: 'David Lang: high art in lowercase'
+youtube_url: ""
+---
 David Lang’s catalog as a composer is astounding for its depth and breadth: choral works, songs, song cycles, orchestral works, ballets, film scores, operas and some things that defy categorization. And yet, during this interview, he proved to be self-effacing and self-deprecating. When he was asked about the enormity of his compositional canon, he offered the humble understatement: "well, I like to write music." Among his many talents, he also proved to possess something rare among some great artists: the ability to discuss his work effortlessly.
 
 In the fifteen or so years since he got onto the worldwide radar by winning the Pulitzer Prize, he has been performed throughout the U.S., Canada, Australia, and Europe. The prize was for his opera _little match girl passion_ – that’s not a typo; all his titles are in lower case. The reason for this goes back to his days in college when he began studying the great composers. He felt the pressure to emulate them, "to write a masterpiece, maybe a piece about life and death, maybe something spectacular that changes music history, or that everyone loves. I found the pressure to write something that was great, before I was ready, was oppressive, and paralyzing. When I started giving my pieces silly titles and putting them all in lowercase, it took the pressure off me to be a genius, and then I could concentrate on just writing my music."

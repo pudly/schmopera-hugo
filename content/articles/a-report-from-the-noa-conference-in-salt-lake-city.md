@@ -1,19 +1,25 @@
-+++
-author = ["authors/michael-ching.md"]
-categories = "Op-Ed"
-date = "2019-01-14T21:16:55+00:00"
-discipline = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547500297/media/2019/01/sqStephenLord.jpg"
-primary_image_credit = "Stephen Lord at the 2019 National Opera Association conference in Salt Lake City. Photo by Richard Poppino."
-related_articles = ["articles/unraveling-bound-v2-second-time-is-also-a-charm.md", "articles/6-new-works-presented-at-various-stages-2017.md"]
-related_companies = []
-short_description = "Last week's National Opera Association conference in Salt Lake City was filled with informative sessions, vocal and scenes competitions, their biannual one act opera competition, and achievement awards for Harolyn Blackwell and Stephen Lord. "
-slug = "a-report-from-the-noa-conference-in-salt-lake-city"
-social_media = []
-title = "A report from the NOA conference in Salt Lake City"
-website = ""
-
-+++
+---
+author:
+- authors/michael-ching.md
+categories: Op-Ed
+date: "2019-01-14T21:16:55+00:00"
+discipline: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1547500297/media/2019/01/sqStephenLord.jpg
+primary_image_credit: Stephen Lord at the 2019 National Opera Association conference
+  in Salt Lake City. Photo by Richard Poppino.
+related_articles:
+- articles/unraveling-bound-v2-second-time-is-also-a-charm.md
+- articles/6-new-works-presented-at-various-stages-2017.md
+related_companies: []
+short_description: Last week's National Opera Association conference in Salt Lake
+  City was filled with informative sessions, vocal and scenes competitions, their
+  biannual one act opera competition, and achievement awards for Harolyn Blackwell
+  and Stephen Lord. 
+slug: a-report-from-the-noa-conference-in-salt-lake-city
+social_media: []
+title: A report from the NOA conference in Salt Lake City
+website: ""
+---
 Last week's [National Opera Association conference](https://www.noa.org/conference.html) in Salt Lake City was filled with informative sessions, vocal and scenes competitions, their biannual one act opera competition, and achievement awards for Harolyn Blackwell and Stephen Lord.
 
 <figure data-type="image"> 

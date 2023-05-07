@@ -1,27 +1,30 @@
-+++
-date = "2016-08-23T12:05:00+01:00"
-lastmod = "2016-08-23T12:05:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471950347604/2016-08-24---Logo-LO.jpg.jpg"
-publishDate = "2016-08-23T12:05:00+01:00"
-related_people = ["scene/people/liana-guberman.md","scene/people/elizabeth-pojanowski.md","scene/people/karolina-pilou.md","scene/people/joshua-jeremiah.md","scene/people/daniel-klein.md"]
-slug = "loftopera"
-title = "LoftOpera"
-type_of_company = "Opera Company"
-website = "https://www.loftopera.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/loftopera"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/loftopera"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/loftopera/"
-_template = "company_single"
-+++
+---
+date: "2016-08-23T12:05:00+01:00"
+lastmod: "2016-08-23T12:05:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471950347604/2016-08-24---Logo-LO.jpg.jpg
+publishDate: "2016-08-23T12:05:00+01:00"
+related_people:
+- scene/people/liana-guberman.md
+- scene/people/elizabeth-pojanowski.md
+- scene/people/karolina-pilou.md
+- scene/people/joshua-jeremiah.md
+- scene/people/daniel-klein.md
+slug: loftopera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/loftopera
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/loftopera
+- _template: company_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/loftopera/
+title: LoftOpera
+type_of_company: Opera Company
+website: https://www.loftopera.com/
+---
 
 ​As we charge ahead with 2016, LoftOpera’s biggest and best season yet, we want to let you in on why we do it. Here’s the short answer: For the love of opera. 
 

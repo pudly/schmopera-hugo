@@ -1,19 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-02-23T15:13:00+00:00"
-lastmod = "2017-02-26T16:51:00+00:00"
-preamble = "This weekend marks the world premiere of [*Riders of the Purple Sage*](http://www.azopera.org/performances/riders-purple-sage), the new opera by [Craig Bohmler](/new-operas-craig-bohmlers-riders-of-the-purple-sage/) and Steven Mark Kohn, based on the novel by Zane Grey. The Western-inspired opera is the first world premiere by [Arizona Opera](/scene/companies/arizona-opera/), and the distinct landscape of the American Southwest is illuminated by the set design of artist Ed Mell.\n\nWe spoke with baritones [Joshua Jeremiah](/scene/people/joshua-jeremiah/) and [Morgan Smith](/scene/people/morgan-smith/), who share the role of Lassiter, the mysterious gunman who throws a wrench in the traditions of the Mormon settlement, Short Creek. They chat about great characters, new operas, & Han Solo."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487863330758/2017-02-23---Square---MorganSmithAsLassiter---pc---TimTrumble.jpg.jpg"
-primary_image_credit = "Morgan Smith as Lassiter in Riders of the Purple Sage, Arizona Opera, 2017. Photo by Tim Trumble."
-publishDate = "2017-02-26T12:22:00+00:00"
-related_articles = ["articles/riders-of-the-purple-sage-meet-jane.md","articles/new-operas-craig-bohmlers-riders-of-the-purple-sage.md"]
-related_companies = ["scene/companies/arizona-opera.md"]
-related_people = ["scene/people/morgan-smith.md","scene/people/joshua-jeremiah.md"]
-short_description = "&quot;It&#039;s a rare thing to get to see a world premiere opera inspired by our local culture and history, and featuring a gorgeous set by Ed Mell that celebrates the Southwest landscape. I think audiences will find the story accessible, the scenes familiar, and the music incredibly expressive and moving.&quot;"
-slug = "riders-of-the-purple-sage-meet-lassiter"
-title = "Riders of the Purple Sage: meet Lassiter"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-02-23T15:13:00+00:00"
+lastmod: "2017-02-26T16:51:00+00:00"
+preamble: |-
+  This weekend marks the world premiere of [*Riders of the Purple Sage*](http://www.azopera.org/performances/riders-purple-sage), the new opera by [Craig Bohmler](/new-operas-craig-bohmlers-riders-of-the-purple-sage/) and Steven Mark Kohn, based on the novel by Zane Grey. The Western-inspired opera is the first world premiere by [Arizona Opera](/scene/companies/arizona-opera/), and the distinct landscape of the American Southwest is illuminated by the set design of artist Ed Mell.
+
+  We spoke with baritones [Joshua Jeremiah](/scene/people/joshua-jeremiah/) and [Morgan Smith](/scene/people/morgan-smith/), who share the role of Lassiter, the mysterious gunman who throws a wrench in the traditions of the Mormon settlement, Short Creek. They chat about great characters, new operas, & Han Solo.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487863330758/2017-02-23---Square---MorganSmithAsLassiter---pc---TimTrumble.jpg.jpg
+primary_image_credit: Morgan Smith as Lassiter in Riders of the Purple Sage, Arizona
+  Opera, 2017. Photo by Tim Trumble.
+publishDate: "2017-02-26T12:22:00+00:00"
+related_articles:
+- articles/riders-of-the-purple-sage-meet-jane.md
+- articles/new-operas-craig-bohmlers-riders-of-the-purple-sage.md
+related_companies:
+- scene/companies/arizona-opera.md
+related_people:
+- scene/people/morgan-smith.md
+- scene/people/joshua-jeremiah.md
+short_description: '&quot;It&#039;s a rare thing to get to see a world premiere opera
+  inspired by our local culture and history, and featuring a gorgeous set by Ed Mell
+  that celebrates the Southwest landscape. I think audiences will find the story accessible,
+  the scenes familiar, and the music incredibly expressive and moving.&quot;'
+slug: riders-of-the-purple-sage-meet-lassiter
+title: 'Riders of the Purple Sage: meet Lassiter'
+---
 
 ## What kind of person is Lassiter?
 

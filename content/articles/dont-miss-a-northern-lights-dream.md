@@ -1,15 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-12T17:33:00-04:00"
-lastmod = "2017-07-16T10:46:00-04:00"
-preamble = "This year's performance season for [Summer Opera Lyric Theatre](/scene/companies/summer-opera-lyric-theatre/) (SOLT) kicks off on **July 28**, with a [Canadian double-bill](http://www.solt.ca/performances.html): John Beckwith's *Night Blooming Cereus* and Michael Rose's *A Northern Light's Dream*. The latter is a new SOLT commission that sees its world premiere this summer; it draws inspiration from Shakespeare's *A Midsummer Night's Dream*, and the Ontario-set *Northern Lights Dream* - a man's coming-out story, told from the vantage point of his wife - holds a similar balance of earthiness and magic.\n\nRose chats about storytelling, inspiration from the greats, and why opera should be seen and not simply heard.\n\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499895712218/2017-07-12---Michael-Rose.jpg.jpg"
-publishDate = "2017-07-16T10:21:00-04:00"
-short_description = "&quot;To tell the story of a wife coming to the realization that her husband is gay, you need a catalyst. Something must happen to put the idea into her head, when every fibre of her being wants to deny the possibility. Then she needs time to deal with it. To do all this within the limits of a one-act play is a huge challenge. &quot;"
-slug = "dont-miss-a-northern-lights-dream"
-title = "Don&#039;t miss: A Northern Lights Dream"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-12T17:33:00-04:00"
+lastmod: "2017-07-16T10:46:00-04:00"
+preamble: |+
+  This year's performance season for [Summer Opera Lyric Theatre](/scene/companies/summer-opera-lyric-theatre/) (SOLT) kicks off on **July 28**, with a [Canadian double-bill](http://www.solt.ca/performances.html): John Beckwith's *Night Blooming Cereus* and Michael Rose's *A Northern Light's Dream*. The latter is a new SOLT commission that sees its world premiere this summer; it draws inspiration from Shakespeare's *A Midsummer Night's Dream*, and the Ontario-set *Northern Lights Dream* - a man's coming-out story, told from the vantage point of his wife - holds a similar balance of earthiness and magic.
+
+  Rose chats about storytelling, inspiration from the greats, and why opera should be seen and not simply heard.
+
+
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499895712218/2017-07-12---Michael-Rose.jpg.jpg
+publishDate: "2017-07-16T10:21:00-04:00"
+short_description: '&quot;To tell the story of a wife coming to the realization that
+  her husband is gay, you need a catalyst. Something must happen to put the idea into
+  her head, when every fibre of her being wants to deny the possibility. Then she
+  needs time to deal with it. To do all this within the limits of a one-act play is
+  a huge challenge. &quot;'
+slug: dont-miss-a-northern-lights-dream
+title: 'Don&#039;t miss: A Northern Lights Dream'
+---
 
 ## What can you tell us about *A Northern Lights Dream*?
 

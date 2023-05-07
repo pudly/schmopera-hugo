@@ -1,22 +1,31 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = 2020-02-03T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1580743969/media/2020/02/sqDMMOVoixHumaineDSC_1594_gyqu7i.jpg"
-primary_image_credit = "The Human Voice, Des Moines Metro Opera, 2020. Photo: Duane Tinkey."
-related_articles = ["articles/interviewing-the-greats-virginia-zeani.md", "articles/voix-humaine.md"]
-related_companies = ["scene/companies/des-moines-metro-opera.md"]
-related_people = ["scene/people/elise-quagliata.md"]
-short_description = "Stage Director Kristine McIntyre brought Poulenc’s one woman drama into the modern era with her own updated translation of the libretto. Performing the opera in English removed the need for supertitles which let the audience focus on the drama. In addition to the telephone, McIntyre added in some new technologies such as a smartphone and tablet."
-slug = "technologies-change-people-may-not-dmmos-the-human-voice"
-title = "Technologies may change, people may not: DMMO's The Human Voice"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2020-02-03T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1580743969/media/2020/02/sqDMMOVoixHumaineDSC_1594_gyqu7i.jpg
+primary_image_credit: 'The Human Voice, Des Moines Metro Opera, 2020. Photo: Duane
+  Tinkey.'
+related_articles:
+- articles/interviewing-the-greats-virginia-zeani.md
+- articles/voix-humaine.md
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+related_people:
+- scene/people/elise-quagliata.md
+short_description: Stage Director Kristine McIntyre brought Poulenc’s one woman drama
+  into the modern era with her own updated translation of the libretto. Performing
+  the opera in English removed the need for supertitles which let the audience focus
+  on the drama. In addition to the telephone, McIntyre added in some new technologies
+  such as a smartphone and tablet.
+slug: technologies-change-people-may-not-dmmos-the-human-voice
+title: 'Technologies may change, people may not: DMMO''s The Human Voice'
+youtube_url: ""
+---
 Des Moines Metro Opera’s [production of Poulenc’s _The Human Voice_](http://desmoinesmetroopera.org/productions/lavoixhumaine/) was an intimate view into a desperate woman’s emotional spiral. In a world where our phones dominate almost every aspect of our lives, this opera’s relevance has only increased over time. Technology allows us to communicate with others easily, but it also has the power to isolate us. Constant connection can be a blessing and a curse, especially when it comes to love.
 
 The set design was realistic in its minimalism. The small details brought Elle’s bedroom to life. Piles of clothes discarded on the floor. A pair of high heels kicked off by exhausted feet in the corner. Aside from the disorder and the bottle of gin on the vanity, the space was a blank canvas. Rather than a cozy refuge, Elle’s room seemed like a self-inflicted solitary confinement. She is too busy living through her phone to concern herself with her physical home.

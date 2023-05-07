@@ -1,16 +1,21 @@
-+++
-author = ["authors/polina-lyapustina.md"]
-categories = "Review"
-date = "2018-12-08T18:04:00-05:00"
-lastmod = "2018-12-08T18:18:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544309989946/sqEnricodiBorgognaDonizetti2018fotoRotaGFR_9565.jpg.jpg"
-primary_image_credit = "Enrico di Bordogna, Donizetti Festival, 2018. Photo: Gianfranco Rota."
-publishDate = "2018-12-08T18:04:00-05:00"
-short_description = "The main story is about the lost son of a murdered king, fighting against the weak offspring of the usurper for love and his right to the throne, successfully winning both. That&#039;s it, literally. And this perfectly illustrates why a lot of similar operas are gathering dust on the shelves of libraries. A pity, since sometimes the musical material is real gold."
-slug = "firstrate-comic-experience-from-an-immature-masterpiece"
-title = "First-rate comic experience from an immature masterpiece"
-
-+++
+---
+author:
+- authors/polina-lyapustina.md
+categories: Review
+date: "2018-12-08T18:04:00-05:00"
+lastmod: "2018-12-08T18:18:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544309989946/sqEnricodiBorgognaDonizetti2018fotoRotaGFR_9565.jpg.jpg
+primary_image_credit: 'Enrico di Bordogna, Donizetti Festival, 2018. Photo: Gianfranco
+  Rota.'
+publishDate: "2018-12-08T18:04:00-05:00"
+short_description: The main story is about the lost son of a murdered king, fighting
+  against the weak offspring of the usurper for love and his right to the throne,
+  successfully winning both. That&#039;s it, literally. And this perfectly illustrates
+  why a lot of similar operas are gathering dust on the shelves of libraries. A pity,
+  since sometimes the musical material is real gold.
+slug: firstrate-comic-experience-from-an-immature-masterpiece
+title: First-rate comic experience from an immature masterpiece
+---
 What would you do if you wanted to revive a 200-year-old opera? A wonderful piece of music that is, like many operas of its time, absolutely irrelevant today? If you also had a solid cast and an amazing director conducting the orchestra, capable of bringing back the sound of its time with original, up to 300-year-old instruments?
 
 Would you rather stage a classical production, giving your audience and cast the opportunity to enjoy the beauty of a time gone by? Or would you come up with an idea to make the story relevant, even modern?

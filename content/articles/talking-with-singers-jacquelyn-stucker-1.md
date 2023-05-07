@@ -1,22 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-03-14T18:41:20+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "_Berenice_ runs at ROH's Linbury Theatre 27 March to 7 April in a co-production with the London Handel Festival. For details and ticket information, [click here](https://www.roh.org.uk/productions/berenice-by-adele-thomas)."
-preamble = "American soprano [Jacquelyn Stucker](/scene/people/jacquelyn-stucker/) is currently in London, gearing up for Handel's _Berenice_, directed for the Linbury Theatre by Adele Thomas. In this co-production with the Royal Opera House and the London Handel Festival, Stucker takes on the trouser role of Alessandro, whom she describes as equal parts Atticus Finch, Fred Astaire, and Barack Obama. We chat with Stucker, about Handel's tricky scores and the lovely weirdness of her job."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552588824/media/2019/03/sqJacquelynStuckerJonathanNesteruk.jpg"
-primary_image_credit = "Photo: Jonathan Nesteruk."
-related_articles = ["articles/spotlight-on-jennifer-davis.md", "articles/orpheus-eurydice-in-the-hands-of-a-theatrical-genius.md", "articles/in-review-partenope-at-eno.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/jacquelyn-stucker.md"]
-short_description = "\"Handel wrote this role for castrato Gioacchino Conti, who was, by all accounts that I read, a complete freak of nature: he could allegedly sing high Cs (as in, C6), and while he preferred to sing roles with more lyrical material, he was known to be equally virtuosic in how he executed coloratura.\""
-slug = "talking-with-singers-jacquelyn-stucker"
-title = "Talking with singers: Jacquelyn Stucker"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-03-14T18:41:20+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: _Berenice_ runs at ROH's Linbury Theatre 27 March to 7 April in a co-production
+  with the London Handel Festival. For details and ticket information, [click here](https://www.roh.org.uk/productions/berenice-by-adele-thomas).
+preamble: American soprano [Jacquelyn Stucker](/scene/people/jacquelyn-stucker/) is
+  currently in London, gearing up for Handel's _Berenice_, directed for the Linbury
+  Theatre by Adele Thomas. In this co-production with the Royal Opera House and the
+  London Handel Festival, Stucker takes on the trouser role of Alessandro, whom she
+  describes as equal parts Atticus Finch, Fred Astaire, and Barack Obama. We chat
+  with Stucker, about Handel's tricky scores and the lovely weirdness of her job.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1552588824/media/2019/03/sqJacquelynStuckerJonathanNesteruk.jpg
+primary_image_credit: 'Photo: Jonathan Nesteruk.'
+related_articles:
+- articles/spotlight-on-jennifer-davis.md
+- articles/orpheus-eurydice-in-the-hands-of-a-theatrical-genius.md
+- articles/in-review-partenope-at-eno.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/jacquelyn-stucker.md
+short_description: '"Handel wrote this role for castrato Gioacchino Conti, who was,
+  by all accounts that I read, a complete freak of nature: he could allegedly sing
+  high Cs (as in, C6), and while he preferred to sing roles with more lyrical material,
+  he was known to be equally virtuosic in how he executed coloratura."'
+slug: talking-with-singers-jacquelyn-stucker
+title: 'Talking with singers: Jacquelyn Stucker'
+youtube_url: ""
+---
 ### Why do you sing professionally?
 
 Because where else but in a David Alden production am I going to get to have a slow-motion water gun fight against a group of acrobats in monkey costumes? It was the dream I didn't know I had for myself, to be asked to kick some ass in a slow-motion fight onstage, and I got to do it at one of my favorite places in the entire world — The Santa Fe Opera — in my professional debut alongside some really legendary singers: Paula Murrihy, Alek Shrader, Christian Van Horn, Daniela Mack, and Elza van den Heever.

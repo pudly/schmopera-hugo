@@ -1,22 +1,34 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-06-13T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[_Orlando_](https://bemf.org/2019-festival/festival-operas/centerpiece-opera/) runs at Boston Early Music Festival through June 16."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1560465422/media/2019/06/sqBEMForlandodress-22.jpg"
-primary_image_credit = "Aaron Sheehan (Orlando) in Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman."
-related_articles = ["articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md", "articles/chemistry-sizzles-onstage-in-paride-ed-elena.md"]
-related_companies = ["scene/companies/boston-early-music-festival.md"]
-related_people = ["scene/people/emöke-baráth.md", "scene/people/aaron-sheehan.md", "scene/people/amanda-forsythe.md", "scene/people/jesse-blumberg.md"]
-short_description = "As messy as the plot of Orlando is, this approach worked for this opera just as well as it has in previous seasons, and the result was rather a joy to watch that it became rather easy to turn the brain off and just enjoy the opera as it is."
-slug = "bemf-orlando-a-dazzingly-performed-spectacle"
-title = "BEMF Orlando a dazzlingly performed spectacle"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-06-13T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '[_Orlando_](https://bemf.org/2019-festival/festival-operas/centerpiece-opera/)
+  runs at Boston Early Music Festival through June 16.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1560465422/media/2019/06/sqBEMForlandodress-22.jpg
+primary_image_credit: 'Aaron Sheehan (Orlando) in Orlando, Boston Early Music Festival,
+  2019. Photo: Kathy Wittman.'
+related_articles:
+- articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md
+- articles/chemistry-sizzles-onstage-in-paride-ed-elena.md
+related_companies:
+- scene/companies/boston-early-music-festival.md
+related_people:
+- scene/people/emöke-baráth.md
+- scene/people/aaron-sheehan.md
+- scene/people/amanda-forsythe.md
+- scene/people/jesse-blumberg.md
+short_description: As messy as the plot of Orlando is, this approach worked for this
+  opera just as well as it has in previous seasons, and the result was rather a joy
+  to watch that it became rather easy to turn the brain off and just enjoy the opera
+  as it is.
+slug: bemf-orlando-a-dazzingly-performed-spectacle
+title: BEMF Orlando a dazzlingly performed spectacle
+youtube_url: ""
+---
 The Boston opera scene has had an entire half of a season full of productions that have engaged with our modern times, frequently to great effect. However, sometimes one needs to engage with an opera on its own terms, and indeed there are a few operas in the repertory where meeting it on its own terms is the only way to perform it.
 
 Typically, these are earlier operas, where performance requires a razor-sharp edge on the musical aspects of the work, and the performance can live or die on how well the music comes across to the audience.

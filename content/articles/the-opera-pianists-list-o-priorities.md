@@ -1,16 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2016-05-08T13:31:00-06:00"
-lastmod = "2017-06-23T23:19:00-06:00"
-preamble = "Pianists, when you're playing an opera score, you're more than a master of your instrument; you are problem-solving machines. You solve problems with un-ergonomic orchestral reductions, with meeting someone else's tempo, and with turning 200-300 of your own pages. \n\nSimply put, playing opera scores is about keeping your priorities in check. We've zeroed in on three Big Priorities that seem to encompass the job of the opera pianist, and some solutions for getting through them without headaches (or ego)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498281544810/2017-06-23---Priorities.jpg.jpg"
-publishDate = "2016-05-09T02:03:00-06:00"
-related_articles = ["articles/star-repetiteur-there-is-such-a-thing.md","articles/pianists-3-tips-for-sounding-like-an-orchestra.md","articles/tips-for-pianists-how-to-tremolo-like-a-pro.md"]
-short_description = "Firstly, they can get hung up in all the notes, and start to drag the tempo as a result; the bigger trap actually precedes this first one, and that&#039;s spending too much time on all the notes. We&#039;re not suggesting you trade in fluttering scales for mashing the keys like a gorilla, but it&#039;s about picking your battles."
-slug = "the-opera-pianists-list-o-priorities"
-title = "The opera pianist&#039;s list o&#039; priorities"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2016-05-08T13:31:00-06:00"
+lastmod: "2017-06-23T23:19:00-06:00"
+preamble: "Pianists, when you're playing an opera score, you're more than a master
+  of your instrument; you are problem-solving machines. You solve problems with un-ergonomic
+  orchestral reductions, with meeting someone else's tempo, and with turning 200-300
+  of your own pages. \n\nSimply put, playing opera scores is about keeping your priorities
+  in check. We've zeroed in on three Big Priorities that seem to encompass the job
+  of the opera pianist, and some solutions for getting through them without headaches
+  (or ego)."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498281544810/2017-06-23---Priorities.jpg.jpg
+publishDate: "2016-05-09T02:03:00-06:00"
+related_articles:
+- articles/star-repetiteur-there-is-such-a-thing.md
+- articles/pianists-3-tips-for-sounding-like-an-orchestra.md
+- articles/tips-for-pianists-how-to-tremolo-like-a-pro.md
+short_description: Firstly, they can get hung up in all the notes, and start to drag
+  the tempo as a result; the bigger trap actually precedes this first one, and that&#039;s
+  spending too much time on all the notes. We&#039;re not suggesting you trade in
+  fluttering scales for mashing the keys like a gorilla, but it&#039;s about picking
+  your battles.
+slug: the-opera-pianists-list-o-priorities
+title: The opera pianist&#039;s list o&#039; priorities
+---
 
 ## That tempo, though
 

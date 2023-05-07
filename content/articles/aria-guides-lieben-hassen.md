@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-08-17T20:57:00-04:00"
-lastmod = "2017-08-18T11:12:00-04:00"
-preamble = "Harlekin's aria is one of the more thoughtful, organic uses of the \"song within the song\" device in opera. In Richard Stauss' *Ariadne auf Naxos*, Harlekin is part of Zerbinetta's comedy troupe; when he and his fellow players are thrown into a serious case of stage improv, he sings a song for the lamenting Ariadne, \"Lieben, Hassen, Hoffen, Zagen\". It doesn't really cheer her up, but it certainly earns a chorus of satisfied sighs from his real-life audience.\n\nThis aria is dense and charming, and though it seems harmless, features more than a few surprising challenges. With the work you do in the practice room and with your teachers and coaches, our latest Aria Guide can help you navigate your way through this adorable little ditty."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503019393272/2017-08-18---Harlekin.jpg.jpg"
-publishDate = "2017-08-18T11:12:00-04:00"
-related_articles = ["articles/aria-guides-the-counts-aria.md", "articles/aria-guides-come-paride-vezzoso.md", "articles/aria-guide-o-du-mein-holder-abendstern.md"]
-short_description = "This aria is dense and charming, and though it seems harmless, features more than a few surprising challenges. With the work you do in the practice room and with your teachers and coaches, our latest Aria Guide can help you navigate your way through this adorable little ditty."
-slug = "aria-guides-lieben-hassen"
-title = "Aria guides: &quot;Lieben, Hassen&quot;"
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-08-17T20:57:00-04:00"
+lastmod: "2017-08-18T11:12:00-04:00"
+preamble: |-
+  Harlekin's aria is one of the more thoughtful, organic uses of the "song within the song" device in opera. In Richard Stauss' *Ariadne auf Naxos*, Harlekin is part of Zerbinetta's comedy troupe; when he and his fellow players are thrown into a serious case of stage improv, he sings a song for the lamenting Ariadne, "Lieben, Hassen, Hoffen, Zagen". It doesn't really cheer her up, but it certainly earns a chorus of satisfied sighs from his real-life audience.
 
-+++
+  This aria is dense and charming, and though it seems harmless, features more than a few surprising challenges. With the work you do in the practice room and with your teachers and coaches, our latest Aria Guide can help you navigate your way through this adorable little ditty.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503019393272/2017-08-18---Harlekin.jpg.jpg
+publishDate: "2017-08-18T11:12:00-04:00"
+related_articles:
+- articles/aria-guides-the-counts-aria.md
+- articles/aria-guides-come-paride-vezzoso.md
+- articles/aria-guide-o-du-mein-holder-abendstern.md
+short_description: This aria is dense and charming, and though it seems harmless,
+  features more than a few surprising challenges. With the work you do in the practice
+  room and with your teachers and coaches, our latest Aria Guide can help you navigate
+  your way through this adorable little ditty.
+slug: aria-guides-lieben-hassen
+title: 'Aria guides: &quot;Lieben, Hassen&quot;'
+---
 1. Strauss packs these first two bars with what's basically a masterclass in [word painting](https://en.wikipedia.org/wiki/Word_painting). Each of these four words should sound like their meaning: "Loving, hating, hoping, fearing". If you're having trouble coming up with ideas, Strauss offers a few colour options with the dynamic markings, and those accents over "Hassen". <figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503017778481/Aria-Guide---Harlekin---annotated-1.jpg.jpg)

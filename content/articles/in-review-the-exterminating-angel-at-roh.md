@@ -1,17 +1,31 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2017-04-25T08:46:00-04:00"
-lastmod = "2017-04-25T09:37:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493125431453/2017-04-25---Square-IESTYN-DAVIES-SALLY-MATTHEWS-C-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg"
-publishDate = "2017-04-25T09:21:00-04:00"
-related_articles = ["articles/in-review-written-on-skin-at-roh.md","articles/in-review-lucia-di-lammermoor-at-roh.md","articles/discomfort-louis-riel-at-the-coc.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/audrey-luna.md","scene/people/sir-john-tomlinson.md","scene/people/christine-rice.md","scene/people/sophie-bevan.md"]
-short_description = "The guests arrive on stage, dressed in retro evening wear that reminded us of Jonathan Lynn’s Clue. We are prepared for a drawing room comedy to start, but are immediately informed that something is not right by the servants&#039; departure from the grand mansion. We also know something&#039;s up when, in a genius expository tool, the guests arrive together a second time: they repeat the formal introductions from character to character, as if they are all trapped in a loop."
-slug = "in-review-the-exterminating-angel-at-roh"
-title = "In review: The Exterminating Angel at ROH"
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2017-04-25T08:46:00-04:00"
+lastmod: "2017-04-25T09:37:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493125431453/2017-04-25---Square-IESTYN-DAVIES-SALLY-MATTHEWS-C-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg
+publishDate: "2017-04-25T09:21:00-04:00"
+related_articles:
+- articles/in-review-written-on-skin-at-roh.md
+- articles/in-review-lucia-di-lammermoor-at-roh.md
+- articles/discomfort-louis-riel-at-the-coc.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/audrey-luna.md
+- scene/people/sir-john-tomlinson.md
+- scene/people/christine-rice.md
+- scene/people/sophie-bevan.md
+short_description: 'The guests arrive on stage, dressed in retro evening wear that
+  reminded us of Jonathan Lynn’s Clue. We are prepared for a drawing room comedy to
+  start, but are immediately informed that something is not right by the servants&#039;
+  departure from the grand mansion. We also know something&#039;s up when, in a genius
+  expository tool, the guests arrive together a second time: they repeat the formal
+  introductions from character to character, as if they are all trapped in a loop.'
+slug: in-review-the-exterminating-angel-at-roh
+title: 'In review: The Exterminating Angel at ROH'
+---
 
 Around 7:15 in the evening while standing in the foyer of the Royal Opera House, we realized the presence of bells ringing all throughout the building. We are herded into our seats only to be greeted by three of London’s most infamous performers at the moment: a small flock of live sheep. It is the evening that we have been eagerly awaiting - the UK premiere of Thomas Adès and Tom Cairns’ new opera, [*The Exterminating Angel*](http://www.roh.org.uk/productions/the-exterminating-angel-by-tom-cairns).
 

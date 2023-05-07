@@ -1,18 +1,26 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2018-02-13T10:14:00-05:00"
-lastmod = "2018-02-13T13:16:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518534890089/sq---TapExForb-photobyDahliaKatz-1003.jpg.jpg"
-primary_image_credit = "Tap:Ex Forbidden, Tapestry Opera, 2018. Photo be Dahlia Katz."
-publishDate = "2018-02-13T13:16:00-05:00"
-related_articles = ["articles/in-review-tapex-tables-turned-or-go-see-this-show.md","articles/he-saidshe-said-tapex-metallurgy.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/alexander-hajek.md"]
-short_description = "Sky flitted around the scenes and acted almost as an echo of Hajek&#039;s Lucifer through the conscience of each character. That, coupled with a dramatic performance as a young child terrorist dreaming of the rewards he&#039;ll be given, made it chilling and powerful. "
-slug = "a-wellexecuted-mashup-tapex-forbidden"
-title = "A well-executed mashup: Tap:Ex Forbidden"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2018-02-13T10:14:00-05:00"
+lastmod: "2018-02-13T13:16:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518534890089/sq---TapExForb-photobyDahliaKatz-1003.jpg.jpg
+primary_image_credit: Tap:Ex Forbidden, Tapestry Opera, 2018. Photo be Dahlia Katz.
+publishDate: "2018-02-13T13:16:00-05:00"
+related_articles:
+- articles/in-review-tapex-tables-turned-or-go-see-this-show.md
+- articles/he-saidshe-said-tapex-metallurgy.md
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/alexander-hajek.md
+short_description: 'Sky flitted around the scenes and acted almost as an echo of Hajek&#039;s
+  Lucifer through the conscience of each character. That, coupled with a dramatic
+  performance as a young child terrorist dreaming of the rewards he&#039;ll be given,
+  made it chilling and powerful. '
+slug: a-wellexecuted-mashup-tapex-forbidden
+title: 'A well-executed mashup: Tap:Ex Forbidden'
+---
 
 What do you get when you write an opera for traditional Middle Eastern instruments that incorporates operatic elements, creative theatre, and a universal storyline then add a dash of transgendered rap in there? *Tap:Ex Forbidden*. 
 

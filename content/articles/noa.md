@@ -1,22 +1,29 @@
-+++
-author = ["authors/michael-ching.md"]
-categories = "Op-Ed"
-date = "2019-04-02T00:42:18+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Michael Ching's one act opera, _EIGHT WOODS AND A VAN_, premieres at Cedar Rapids Opera in April. He has mini operas premiering at Utah Opera and Savannah Voice Festival in the next few months."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554166624/media/2019/04/sqAprilMaeWebb11.jpg"
-primary_image_credit = "April May Webb in the American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington."
-related_articles = ["articles/once-agan-shushing-meanies.md", "articles/talking-with-singers-jamie-barton.md"]
-related_companies = []
-related_people = []
-short_description = "I've written several columns for Schmopera, so I think I know this audience. While this competition would be tough to impossible for a \"pure\" opera singer, there are plenty of us that love to perform a huge variety of things."
-slug = "variety-wins-at-the-american-traditions-competition"
-title = "Variety wins at the American Traditions Competition"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/michael-ching.md
+categories: Op-Ed
+date: "2019-04-02T00:42:18+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Michael Ching's one act opera, _EIGHT WOODS AND A VAN_, premieres at Cedar
+  Rapids Opera in April. He has mini operas premiering at Utah Opera and Savannah
+  Voice Festival in the next few months.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1554166624/media/2019/04/sqAprilMaeWebb11.jpg
+primary_image_credit: 'April May Webb in the American Traditions Competition, Savannah,
+  GA, 2019. Photo: John Carrington.'
+related_articles:
+- articles/once-agan-shushing-meanies.md
+- articles/talking-with-singers-jamie-barton.md
+related_companies: []
+related_people: []
+short_description: I've written several columns for Schmopera, so I think I know this
+  audience. While this competition would be tough to impossible for a "pure" opera
+  singer, there are plenty of us that love to perform a huge variety of things.
+slug: variety-wins-at-the-american-traditions-competition
+title: Variety wins at the American Traditions Competition
+youtube_url: ""
+---
 This year, I was lucky to have been selected to be one of three judges at the [American Traditions Competition](https://www.americantraditionscompetition.com/) (ATC) in Savannah. The February 2019 competition was the 26th annual. Twenty eight quarter finalists were invited to Savannah to perform. Based on my experience with ATC, I want to encourage singers who read Schmopera to consider entering in a future year.
 
 <figure data-type="image">

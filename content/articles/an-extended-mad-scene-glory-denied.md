@@ -1,17 +1,27 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = "2017-11-08T10:16:00-05:00"
-lastmod = "2017-11-08T22:12:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510176844162/2017-11-08---square---hgoco---glory-denied---2017---photographer-lynn-lane-191-3000x2000.jpg.jpg"
-publishDate = "2017-11-08T20:19:00-05:00"
-related_articles = ["articles/in-review-glory-denied.md","articles/true-impact-dmmos-glory-denied.md"]
-related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/ben-edquist.md","scene/people/mark-thomas.md","scene/people/kerriann-otano.md"]
-short_description = "This work does succeed in its desire, as the composer explained in a talkback, to give an idea of the angst of the time period for the current generation, and it does successfully highlight the plight of disregard for veterans&#039; care that casts a pall over the legacy of our great nation."
-slug = "an-extended-mad-scene-glory-denied"
-title = "An extended mad scene: Glory Denied"
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2017-11-08T10:16:00-05:00"
+lastmod: "2017-11-08T22:12:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510176844162/2017-11-08---square---hgoco---glory-denied---2017---photographer-lynn-lane-191-3000x2000.jpg.jpg
+publishDate: "2017-11-08T20:19:00-05:00"
+related_articles:
+- articles/in-review-glory-denied.md
+- articles/true-impact-dmmos-glory-denied.md
+related_companies:
+- scene/companies/houston-grand-opera.md
+related_people:
+- scene/people/ben-edquist.md
+- scene/people/mark-thomas.md
+- scene/people/kerriann-otano.md
+short_description: This work does succeed in its desire, as the composer explained
+  in a talkback, to give an idea of the angst of the time period for the current generation,
+  and it does successfully highlight the plight of disregard for veterans&#039; care
+  that casts a pall over the legacy of our great nation.
+slug: an-extended-mad-scene-glory-denied
+title: 'An extended mad scene: Glory Denied'
+---
 
 Spare a thought for Gaetano Donizetti (who celebrates his 220th birthday later this month), the acknowledged master of operatic mad scenes with whom all operatic composers have to reckon. Though he composed those in spades, whether or not he considered writing an opera that was in its entirety a mad scene is a secret that must remain lost to the ages.
 

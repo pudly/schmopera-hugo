@@ -1,17 +1,22 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-02-09T16:28:00-05:00"
-lastmod = "2018-02-09T17:14:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546195551/media/2018/12/sq---Set_Poe_YoungRAdultM.jpg"
-primary_image_credit = "Photo: © Matthew Septimus, Courtesy of The New School"
-publishDate = "2018-02-09T17:14:00-05:00"
-related_articles = ["articles/transparent-glass-the-composer-turns-80.md"]
-short_description = "Mr. Hourie directed with a terse and foreboding air that dispelled any memories of the films. The sleek and minimal set, comprised of skeletal architectural elements and lace curtains facilitated the action. As scenographer Hourie filled picture frames suggesting decaying ancestral portraits with video of flames, ghosts and all manner of frightening imagery."
-slug = "a-warhorse-for-operas-new-world"
-title = "A Warhorse For Opera&#039;s New World?"
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-02-09T16:28:00-05:00"
+lastmod: "2018-02-09T17:14:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546195551/media/2018/12/sq---Set_Poe_YoungRAdultM.jpg
+primary_image_credit: 'Photo: © Matthew Septimus, Courtesy of The New School'
+publishDate: "2018-02-09T17:14:00-05:00"
+related_articles:
+- articles/transparent-glass-the-composer-turns-80.md
+short_description: Mr. Hourie directed with a terse and foreboding air that dispelled
+  any memories of the films. The sleek and minimal set, comprised of skeletal architectural
+  elements and lace curtains facilitated the action. As scenographer Hourie filled
+  picture frames suggesting decaying ancestral portraits with video of flames, ghosts
+  and all manner of frightening imagery.
+slug: a-warhorse-for-operas-new-world
+title: A Warhorse For Opera&#039;s New World?
+---
 Roderick is on the brink when he writes to his friend William, pleading with him to come for a visit. Roderick is an Usher and his life, along with that of his sister Madeline, is in mysterious and inexorable decline. William arrives at the decaying mansion exhausted from his journey and increasingly bewildered by the surroundings. It is with an eerie cadence that the Phillip Glass chamber opera, _The Fall of the House of Usher_, based on Edgar Allan Poe's classic tales, gets underway.
 
 Richard Kessler, Dean of the Mannes School of Music and Executive Dean of the College of Performing Arts at the New School in New York City, which produced the work, considers _Usher_ "the sort of groundbreaking work that signals the direction in which the field of opera is headed." Thus this production of the seldom performed Glass work with a sharply honed libretto by Arthur Yorkins is as much a teaching tool to prepare students for opera's new world as it is a compelling, sophisticated and most welcome production.

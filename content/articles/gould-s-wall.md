@@ -1,22 +1,34 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = 2022-09-06T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1662050439/media/2022/09/sqLauren_Pearl___Gould_s_Wall___Tapestry_Opera___Photo_by_Dahlia_Katz_smjs8k.jpg"
-primary_image_credit = "Lauren Pearl in Gould's Wall, Tapestry Opera, 2022. Photo by Dahlia Katz."
-related_articles = ["articles/a-torrent-of-light-the-future-of-opera.md", "articles/the-queen-in-me-yaassss-kweeeeeeen.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/andrea-ludwig.md", "scene/people/caitlin-wood.md", "scene/people/justin-welsh.md", "scene/people/keith-klassen.md", "scene/people/roger-honeywell.md", "scene/people/lauren-eberwein.md"]
-short_description = "Our artist, Louise, invokes Canadian classical music icon Glenn Gould to guide her as she climbs to the apex. Interspersed with her journey we are offered a glimpse inside Gould's mind through a series of memories. "
-slug = "high-expectations-and-opera-rock-climing-in-goulds-wall"
-title = "High expectations and opera + rock climbing in Gould's Wall"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2022-09-06T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1662050439/media/2022/09/sqLauren_Pearl___Gould_s_Wall___Tapestry_Opera___Photo_by_Dahlia_Katz_smjs8k.jpg
+primary_image_credit: Lauren Pearl in Gould's Wall, Tapestry Opera, 2022. Photo by
+  Dahlia Katz.
+related_articles:
+- articles/a-torrent-of-light-the-future-of-opera.md
+- articles/the-queen-in-me-yaassss-kweeeeeeen.md
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/andrea-ludwig.md
+- scene/people/caitlin-wood.md
+- scene/people/justin-welsh.md
+- scene/people/keith-klassen.md
+- scene/people/roger-honeywell.md
+- scene/people/lauren-eberwein.md
+short_description: 'Our artist, Louise, invokes Canadian classical music icon Glenn
+  Gould to guide her as she climbs to the apex. Interspersed with her journey we are
+  offered a glimpse inside Gould''s mind through a series of memories. '
+slug: high-expectations-and-opera-rock-climing-in-goulds-wall
+title: High expectations and opera + rock climbing in Gould's Wall
+youtube_url: ""
+---
 Hello Schmop-Tops,
 
 Sorry this guy is so delayed! I got carried away making my directorial debut, but more on that later. Let's talk about this _super cool show I saw!_

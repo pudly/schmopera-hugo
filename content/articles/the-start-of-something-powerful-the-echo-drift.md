@@ -1,18 +1,27 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2018-01-17T21:02:00-05:00"
-lastmod = "2018-01-18T09:09:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240460857/sq---Echo_Drift_Baranova-7020.jpg.jpg"
-primary_image_credit = "Blythe Gaissert in The Echo Drift, Prototype Festival, 2018. Photo: Maria Baranova."
-publishDate = "2018-01-17T21:02:00-05:00"
-related_articles = ["articles/an-operatic-horror-story-proving-up.md"]
-related_companies = ["scene/companies/beth-morrison-projects.md","scene/companies/american-opera-projects.md"]
-related_people = ["scene/people/blythe-gaissert.md"]
-short_description = "The moth, appealingly mesmerizing, could have a spin-off opera all to itself. Created by individual acrylic paintings set in stop-motion animation, it moves like an insect shadow ricocheting off a porch light on a chilly autumn night in the country."
-slug = "the-start-of-something-powerful-the-echo-drift"
-title = "The start of something powerful: The Echo Drift"
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2018-01-17T21:02:00-05:00"
+lastmod: "2018-01-18T09:09:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240460857/sq---Echo_Drift_Baranova-7020.jpg.jpg
+primary_image_credit: 'Blythe Gaissert in The Echo Drift, Prototype Festival, 2018.
+  Photo: Maria Baranova.'
+publishDate: "2018-01-17T21:02:00-05:00"
+related_articles:
+- articles/an-operatic-horror-story-proving-up.md
+related_companies:
+- scene/companies/beth-morrison-projects.md
+- scene/companies/american-opera-projects.md
+related_people:
+- scene/people/blythe-gaissert.md
+short_description: The moth, appealingly mesmerizing, could have a spin-off opera
+  all to itself. Created by individual acrylic paintings set in stop-motion animation,
+  it moves like an insect shadow ricocheting off a porch light on a chilly autumn
+  night in the country.
+slug: the-start-of-something-powerful-the-echo-drift
+title: 'The start of something powerful: The Echo Drift'
+---
 
 Solitary confinement, like the death penalty, is a uniquely American punitive practice. Experts generally agree that it is dysfunctional and amoral. Advocacy site [*Solitary Watch*](http://solitarywatch.com/) reports that in 2011, the UN chief torture investigator recommended all UN member nations ban prolonged isolation, describing it as utterly harmful and akin to torture. But the American public and political body, uninformed, tend to uphold it as a necessary evil, and so the practice persists.
 

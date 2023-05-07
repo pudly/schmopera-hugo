@@ -1,15 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-date = "2014-04-27T19:08:00-04:00"
-lastmod = "2015-04-27T18:06:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838235315/ChrisandMireille-1024x974.jpg.jpg"
-primary_image_credit = "Christopher Enns and Mireille Asselin in Opera Atelier's Persée. Photo by Bruce Zinger."
-publishDate = "2014-04-27T19:08:00-04:00"
-related_people = ["scene/people/aaron-ferguson.md"]
-short_description = "Ah, Opera Atelier. As far as Canada&#039;s opera scene goes, OA is really its own genre. For those unfamiliar, Opera Atelier produces 17th- and 18th- century ballet/opera; the shows are directed and choreographed by co-artistic directors Marshall Pynkoski and Jeannette Lajeunesse Zingg."
-slug = "in-review-perse"
-title = "In review: Persée"
-+++
+---
+author:
+- authors/jenna.md
+date: "2014-04-27T19:08:00-04:00"
+lastmod: "2015-04-27T18:06:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838235315/ChrisandMireille-1024x974.jpg.jpg
+primary_image_credit: Christopher Enns and Mireille Asselin in Opera Atelier's Persée.
+  Photo by Bruce Zinger.
+publishDate: "2014-04-27T19:08:00-04:00"
+related_people:
+- scene/people/aaron-ferguson.md
+short_description: Ah, Opera Atelier. As far as Canada&#039;s opera scene goes, OA
+  is really its own genre. For those unfamiliar, Opera Atelier produces 17th- and
+  18th- century ballet/opera; the shows are directed and choreographed by co-artistic
+  directors Marshall Pynkoski and Jeannette Lajeunesse Zingg.
+slug: in-review-perse
+title: 'In review: Persée'
+---
 
 Ah, Opera Atelier. As far as Canada's opera scene goes, OA is really its own genre. For those unfamiliar, Opera Atelier produces 17th- and 18th- century ballet/opera; the shows are directed and choreographed by co-artistic directors [Marshall Pynkoski](http://www.operaatelier.com/about/creative-team/) and [Jeannette Lajeunesse Zingg](http://www.operaatelier.com/about/creative-team/). I go to Opera Atelier shows because it's a chance for me to see and hear operas from this period, presented by artists who know what they're doing; under conductor [David Fallis](http://barczablog.com/2012/10/12/10-questions-for-david-fallis/), the [Tafelmusik Baroque Orchestra](http://www.tafelmusik.org/) is often in the pit, so that's a great start. Last night was opening night of Jean-Baptiste Lully's [_Persée_](http://www.operaatelier.com/season/13-14/persee/), based on the [Greek myth of Perseus](http://www.greekmythology.com/Myths/Heroes/Perseus/perseus.html) and his shenanigans with [Medusa](http://www.greekmythology.com/Myths/Creatures/Medusa/medusa.html), the lady with snakes for hair. With Zingg's complementary choreography (the artists of the Atelier Ballet were beautiful) and [Gerard Gauci](http://barczablog.com/2011/10/23/10for_gg/)'s truly impressive sets, this production of _Persée_ was great on the eyes as well as the ears.
 

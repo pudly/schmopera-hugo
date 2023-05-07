@@ -1,22 +1,31 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2020-08-18T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "This production of _La voix humaine_ will be available on [Helios Opera’s website](https://heliosopera.com/mop/lvh/) through September 25th. The initiative will also need help for funding: please consider giving a donation to [Helios Opera](https://heliosopera.com/mop/lvh/) to help this initiative thrive."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1597785858/media/2020/08/sqHO-Voixhumaine_hpieya.png"
-primary_image_credit = "Théodora Cottarel as Elle in Adrienne Boris' production of Poulenc's La voix humaine by Modular Opera Project. Photo: Julien Rohel. "
-related_articles = ["articles/voix-humaine.md"]
-related_companies = ["scene/companies/helios-opera.md"]
-related_people = ["scene/people/theodora-cottarel.md"]
-short_description = "How do you stage something that is so static in tableau and also has so few characters? And more to the point, how does a company stage it in a time when theaters are closed due to the COVID-19 pandemic?"
-slug = "intimate-voix-humaine-provides-a-way-forward"
-title = "Intimate Voix humaine provides a way forward"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2020-08-18T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: 'This production of _La voix humaine_ will be available on [Helios Opera’s
+  website](https://heliosopera.com/mop/lvh/) through September 25th. The initiative
+  will also need help for funding: please consider giving a donation to [Helios Opera](https://heliosopera.com/mop/lvh/)
+  to help this initiative thrive.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1597785858/media/2020/08/sqHO-Voixhumaine_hpieya.png
+primary_image_credit: 'Théodora Cottarel as Elle in Adrienne Boris'' production of
+  Poulenc''s La voix humaine by Modular Opera Project. Photo: Julien Rohel. '
+related_articles:
+- articles/voix-humaine.md
+related_companies:
+- scene/companies/helios-opera.md
+related_people:
+- scene/people/theodora-cottarel.md
+short_description: How do you stage something that is so static in tableau and also
+  has so few characters? And more to the point, how does a company stage it in a time
+  when theaters are closed due to the COVID-19 pandemic?
+slug: intimate-voix-humaine-provides-a-way-forward
+title: Intimate Voix humaine provides a way forward
+youtube_url: ""
+---
 Francis Poulenc's _La voix humaine_ provides a very interesting artistic challenge for anyone that decides to stage it: it is written for only a single character, a character from whom we only ever get to hear one side of her conversations. How do you stage something that is so static in tableau and also has so few characters? And more to the point, how does a company stage it in a time when theaters are closed due to the COVID-19 pandemic?
 
 You bring it home and film it, of course. At least, that is the solution that [Helios Opera](/scene/companies/helios-opera/) has taken, in the first of what will hopefully become a series in its Modular Opera Project initiative. It is no doubt a massive logistical nightmare to attempt staging an entire full length opera where all of its moving parts cannot even rehearse in person, and no doubt it is a difficult enterprise. The fact that this production came off with almost no seams to show for it is a testament to the strength of what Helios Opera has learned in the process, and it provides a window into a thrilling way to deliver new opera productions in these times.

@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-03-18T17:09:00+00:00"
-lastmod = "2016-03-21T16:05:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458574807655/2016-03-21---TheRattler-Poster.jpg.jpg"
-publishDate = "2016-03-21T15:50:00+00:00"
-related_articles = ["articles/great-ideas-snappy-operas.md","articles/call-for-submissions-mahogany-opera-groups-various-stages.md","articles/in-review-snow.md"]
-related_companies = ["scene/companies/mahogany-opera-group.md"]
-related_people = ["scene/people/matthew-sharp.md"]
-short_description = "The Rattler is terrifying, in a way that would make the Brothers Grimm proud. The Rattler himself is a puppet, a confusing and repulsive thing that calls to mind Egyptian mummies, Disney&#039;s The Skeleton Dance, and the big hyena scene from The Lion King. Singers double as puppeteers, their Rattler-work resulting in hysterical shrieks from the young audience. Martin Riley adapts the story into a libretto, and Stephen Deazley&#039;s music covers everything from plaintive folk songs to familiar jigs; as any good show should be, the music is catchy yet smart, singer-friendly yet arguably not easy."
-slug = "delightfully-creepy-mahogany-opera-groups-the-rattler"
-title = "Delightfully creepy: Mahogany Opera Group&#039;s The Rattler"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-03-18T17:09:00+00:00"
+lastmod: "2016-03-21T16:05:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458574807655/2016-03-21---TheRattler-Poster.jpg.jpg
+publishDate: "2016-03-21T15:50:00+00:00"
+related_articles:
+- articles/great-ideas-snappy-operas.md
+- articles/call-for-submissions-mahogany-opera-groups-various-stages.md
+- articles/in-review-snow.md
+related_companies:
+- scene/companies/mahogany-opera-group.md
+related_people:
+- scene/people/matthew-sharp.md
+short_description: The Rattler is terrifying, in a way that would make the Brothers
+  Grimm proud. The Rattler himself is a puppet, a confusing and repulsive thing that
+  calls to mind Egyptian mummies, Disney&#039;s The Skeleton Dance, and the big hyena
+  scene from The Lion King. Singers double as puppeteers, their Rattler-work resulting
+  in hysterical shrieks from the young audience. Martin Riley adapts the story into
+  a libretto, and Stephen Deazley&#039;s music covers everything from plaintive folk
+  songs to familiar jigs; as any good show should be, the music is catchy yet smart,
+  singer-friendly yet arguably not easy.
+slug: delightfully-creepy-mahogany-opera-groups-the-rattler
+title: 'Delightfully creepy: Mahogany Opera Group&#039;s The Rattler'
+---
 
 Last week at the Southbank Centre, [Mahogany Opera Group](/scene/companies/mahogany-opera-group/) previewed its current kid-friendly production, [*The Rattler*](http://www.mahoganyoperagroup.co.uk/productions/the-rattler/). Directed by Mahogany AD [Frederic Wake-Walker](http://www.mahoganyoperagroup.co.uk/productions/the-rattler/company/frederic-wake-walker/), *The Rattler* is an interactive re-telling of the tale of Rumpelstiltskin. Remember *Rumpelstiltskin*, one of the Brothers Grimm's terrifying "children's stories"? There's the daughter who may or may not be able to spin straw into gold, and the mysterious, imp-like creature that helps her live up to her legend, essentially by getting her to write him a blank cheque, post-dated at the creature's discretion.
 

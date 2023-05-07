@@ -1,22 +1,29 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = 2023-01-13T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "_note to a friend_ runs through January 15, 2023. [Details available here.](https://prototypefestival.org/shows/note-to-a-friend/)"
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1673656599/media/2023/01/sq_NotToFriends_009_c_Richard_Termine_mmlj7q.jpg"
-primary_image_credit = "(l-r) Theo Bleckmann, Cyrus Moshrefi in note to a friend, Prototype Festival, 2023. Photo credit: © Richard Termine."
-related_articles = ["articles/angel-s-bone.md"]
-related_companies = ["scene/companies/beth-morrison-projects.md"]
-related_people = ["scene/people/david-lang.md"]
-short_description = "Suicide has been a frequent topic in opera over the centuries, and usually takes place in the passionate throes of a tragic event. Lang, however, explores the ‘act of taking one’s life’ not as a momentary impulse, but as a personal choice made after a great deal of contemplation."
-slug = "note-to-a-friend-matters-of-life-and-death"
-title = "note to a friend: MATTERS OF LIFE AND DEATH"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2023-01-13T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: _note to a friend_ runs through January 15, 2023. [Details available here.](https://prototypefestival.org/shows/note-to-a-friend/)
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1673656599/media/2023/01/sq_NotToFriends_009_c_Richard_Termine_mmlj7q.jpg
+primary_image_credit: '(l-r) Theo Bleckmann, Cyrus Moshrefi in note to a friend, Prototype
+  Festival, 2023. Photo credit: © Richard Termine.'
+related_articles:
+- articles/angel-s-bone.md
+related_companies:
+- scene/companies/beth-morrison-projects.md
+related_people:
+- scene/people/david-lang.md
+short_description: Suicide has been a frequent topic in opera over the centuries,
+  and usually takes place in the passionate throes of a tragic event. Lang, however,
+  explores the ‘act of taking one’s life’ not as a momentary impulse, but as a personal
+  choice made after a great deal of contemplation.
+slug: note-to-a-friend-matters-of-life-and-death
+title: 'note to a friend: MATTERS OF LIFE AND DEATH'
+youtube_url: ""
+---
 The 2023 [Prototype Festival](https://prototypefestival.org/) is presenting new operas covering some pretty serious subjects. And when composers add music to something dark we ask ourselves - does music shine a light here?
 
 In the case of composer/librettist David Lang's [_note to a friend_](https://prototypefestival.org/shows/note-to-a-friend/), the answer is yes. Suicide has been a frequent topic in opera over the centuries, and usually takes place in the passionate throes of a tragic event. Lang, however, explores the "act of taking one's life" not as a momentary impulse, but as a personal choice made after a great deal of contemplation.

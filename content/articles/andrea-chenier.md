@@ -1,22 +1,30 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-05-31T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "David McVicar's production of [_Andrea Chenier_](https://www.roh.org.uk/productions/andrea-chenier-by-david-mcvicar) runs at the Royal Opera House through 9 June."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1559322145/media/2019/05/sq2862ashm_0669RobertoAlagnaasAndreaChenierSondraRadvanovskyasMaddalenadiCoignyROH2019.jpg"
-primary_image_credit = "Roberto Alagna as Andrea Chenier and Sondra Radvanovsky as Maddalena di Coigny in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore."
-related_articles = ["articles/talking-with-singers-sondra-radvanovsky.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/roberto-alagna.md", "scene/people/sondra-radvanovsky.md"]
-short_description = "It is an increasingly rare occasion to feel moved in the way I was watching this performance when I go to the opera now. Perhaps I'm spoiled; too much of a good thing, and all that."
-slug = "great-stars-great-direction-andrea-chenier-at-roh"
-title = "Great stars & great direction: Andrea Chenier at ROH"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-05-31T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: David McVicar's production of [_Andrea Chenier_](https://www.roh.org.uk/productions/andrea-chenier-by-david-mcvicar)
+  runs at the Royal Opera House through 9 June.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1559322145/media/2019/05/sq2862ashm_0669RobertoAlagnaasAndreaChenierSondraRadvanovskyasMaddalenadiCoignyROH2019.jpg
+primary_image_credit: 'Roberto Alagna as Andrea Chenier and Sondra Radvanovsky as
+  Maddalena di Coigny in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.'
+related_articles:
+- articles/talking-with-singers-sondra-radvanovsky.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/roberto-alagna.md
+- scene/people/sondra-radvanovsky.md
+short_description: It is an increasingly rare occasion to feel moved in the way I
+  was watching this performance when I go to the opera now. Perhaps I'm spoiled; too
+  much of a good thing, and all that.
+slug: great-stars-great-direction-andrea-chenier-at-roh
+title: 'Great stars & great direction: Andrea Chenier at ROH'
+youtube_url: ""
+---
 As someone who claims to be an adherent of the verismo movement in opera, I have to admit I know very little about Giordano's work, but can now say I've been thoroughly enlightened by this revival of [David McVicar's stunning production](https://www.roh.org.uk/productions/andrea-chenier-by-david-mcvicar) of the composer's popular 1896 opera. Though written in the late 19th century, it is set nearly a hundred years earlier in Paris at the time of the French Revolution and is based loosely on the life and death of revolutionary poet, Andrea Chénier. Culturally, the Enlightenment age of the 18th century is a world apart from the ideals that began to develop particularly around the turn of the 20th century, but verismo's realist approach to these historical events lends itself very well to the storytelling in that it enables these moments to be  presented in a way that is unbiased, truthful, and deeply human.
 
 >It is everything one would expect from opera and more.

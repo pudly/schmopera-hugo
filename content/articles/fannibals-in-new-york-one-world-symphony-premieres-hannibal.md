@@ -1,17 +1,27 @@
-+++
-author = ["authors/kelsey-kudak.md"]
-categories = "Review"
-date = "2015-10-26T22:42:00-04:00"
-lastmod = "2015-10-27T10:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445951224430/OWS_HANNIBAL_0086.jpg.jpg"
-primary_image_credit = "Photo by Jaka Vinsek."
-publishDate = "2015-10-27T09:13:00-04:00"
-related_articles = ["articles/brian-mulligan-singing-jack-torrance.md","articles/one-world-symphony-gets-defiant.md","articles/sung-jin-hong-seoul-searching.md"]
-related_companies = ["scene/companies/one-world-symphony.md"]
-short_description = "Thematically, the darkness of Hannibal is not an unfamiliar subject to opera. Psychopathic heroes and murderers have long taken the stage through works like Wozzeck and Salome, characters like Bluebeard and Scarpia. A lot of operas are bloody. Yet, I’m not sure the question is whether Hong is doing something new. Rather, the point is what he’s doing to make opera contextually relevant to those who otherwise might not go to the opera at all."
-slug = "fannibals-in-new-york-one-world-symphony-premieres-hannibal"
-title = "Fannibals in New York: One World Symphony premieres Hannibal"
-+++
+---
+author:
+- authors/kelsey-kudak.md
+categories: Review
+date: "2015-10-26T22:42:00-04:00"
+lastmod: "2015-10-27T10:07:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445951224430/OWS_HANNIBAL_0086.jpg.jpg
+primary_image_credit: Photo by Jaka Vinsek.
+publishDate: "2015-10-27T09:13:00-04:00"
+related_articles:
+- articles/brian-mulligan-singing-jack-torrance.md
+- articles/one-world-symphony-gets-defiant.md
+- articles/sung-jin-hong-seoul-searching.md
+related_companies:
+- scene/companies/one-world-symphony.md
+short_description: Thematically, the darkness of Hannibal is not an unfamiliar subject
+  to opera. Psychopathic heroes and murderers have long taken the stage through works
+  like Wozzeck and Salome, characters like Bluebeard and Scarpia. A lot of operas
+  are bloody. Yet, I’m not sure the question is whether Hong is doing something new.
+  Rather, the point is what he’s doing to make opera contextually relevant to those
+  who otherwise might not go to the opera at all.
+slug: fannibals-in-new-york-one-world-symphony-premieres-hannibal
+title: 'Fannibals in New York: One World Symphony premieres Hannibal'
+---
 
 [One World Symphony](/scene/companies/one-world-symphony/)’s Sunday premiere of [*Hannibal*](https://www.youtube.com/watch?feature=player_embedded&v=g-E0KcaR2S0) was like a psychopathic serial killer: equally immense and intimate. Mashing Stravinsky's “Sacrificial Dance” up against Fauré’s *Requiem* against composer [Sung Jin Hong](http://www.oneworldsymphony.org/artists_founders.shtml)’s interpretation of a television show made for a sublimely appropriate start to Halloween week. Anytime you place a full orchestra beneath the dome of a small church--in this case the Church of the Holy Apostles in New York City--the sound is enormous. But when the cast then mingles amidst the audience and the church’s pristine columns, you’ve got opera up close. Hong’s tangible approach is fresh, for both seasoned opera-goers and unseasoned “Fannibals” alike. 
  

@@ -1,28 +1,28 @@
-+++
-date = "2016-04-21T12:05:00+01:00"
-discipline = "Composer"
-lastmod = "2016-04-21T12:05:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461236670111/2016-04-21---Charlotte-Bray-P6010675-2_sm.jpg.jpg"
-primary_image_credit = "charlottebray.co.uk"
-publishDate = "2016-04-21T12:05:00+01:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/city-of-london-sinfonia.md"]
-slug = "charlotte-bray"
-title = "Charlotte Bray"
-website = "http://charlottebray.co.uk/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/composercharlottebray"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/composerbray"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/charlottebray"
-_template = "people_single"
-+++
+---
+date: "2016-04-21T12:05:00+01:00"
+discipline: Composer
+lastmod: "2016-04-21T12:05:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461236670111/2016-04-21---Charlotte-Bray-P6010675-2_sm.jpg.jpg
+primary_image_credit: charlottebray.co.uk
+publishDate: "2016-04-21T12:05:00+01:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/city-of-london-sinfonia.md
+slug: charlotte-bray
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/composercharlottebray
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/composerbray
+- _template: people_single
+  platform: Soundcloud
+  template: social-media
+  url: https://soundcloud.com/charlottebray
+title: Charlotte Bray
+website: http://charlottebray.co.uk/
+---
 
 The composer Charlotte Bray has emerged as a distinctive and outstanding talent of her generation. Exhibiting uninhibited ambition and desire to communicate, her music is exhilarating, inherently vivid, and richly expressive with lyrical intensity. Charlotte studied under Mark Anthony Turnage at the Royal College of Music and previously under Joe Cutler at the Birmingham Conservatoire. She participated in the Britten-Pears Contemporary Composition Course with Oliver Knussen, Colin Matthews and Magnus Lindberg, and at the Tanglewood Music Centre with John Harbison, Michael Gandolfi, Shulamit Ran and Augusta Read-Thomas.
 

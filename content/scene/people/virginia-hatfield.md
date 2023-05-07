@@ -1,19 +1,27 @@
-+++
-date = "2015-12-29T21:23:00-05:00"
-discipline = "Soprano"
-lastmod = "2015-12-29T21:23:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451442095511/2015-12-29---Virginia-Hatfield.jpg.jpg"
-publishDate = "2015-12-29T21:23:00-05:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/pacific-opera-victoria.md","scene/companies/opera-philadelphia.md","scene/companies/talisker-players.md","scene/companies/saskatoon-opera.md","scene/companies/opera-lyra-ottawa.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/westben-arts-festival-theatre.md"]
-slug = "virginia-hatfield"
-title = "Virginia Hatfield"
-website = "http://www.virginiahatfield.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/gingerhat"
-_template = "people_single"
-+++
+---
+date: "2015-12-29T21:23:00-05:00"
+discipline: Soprano
+lastmod: "2015-12-29T21:23:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451442095511/2015-12-29---Virginia-Hatfield.jpg.jpg
+publishDate: "2015-12-29T21:23:00-05:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/talisker-players.md
+- scene/companies/saskatoon-opera.md
+- scene/companies/opera-lyra-ottawa.md
+- scene/companies/voicebox-opera-in-concert.md
+- scene/companies/westben-arts-festival-theatre.md
+slug: virginia-hatfield
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/gingerhat
+title: Virginia Hatfield
+website: http://www.virginiahatfield.com/
+---
 
 Soprano Virginia Hatfield is known for her radiant voice across a wide variety of repertoire. A native of Campbellford, Ontario, critics have raved about Virginia’s “clear, bell-like tone” *(Opera Canada*) and “warmth and radiance combined with commanding coloratura” (*Halifax Herald*).
  

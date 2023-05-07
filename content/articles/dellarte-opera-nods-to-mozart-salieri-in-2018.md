@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-06-21T21:05:00-04:00"
-lastmod = "2018-06-22T20:24:00-04:00"
-preamble = "[dell'Arte Opera Ensemble](http://dellarteopera.org/)  is gearing up for its 16th annual Summer Festival, centred this year on two of music's most notable \"professional rivals\", Mozart and Salieri. On the summer's lineup are productions of the Vienna version of Mozart's *Don Giovanni* (Aug. 11-25), the U.S. premiere of Salieri's *La Cifra* (Aug. 18-26), and evenings of scenes and songs by the two contemporary composers.\n\nWe spoke with Artistic Director Christopher Fecteau about dell'Arte's upcoming season, and the program's unique approach to training opera's young artists."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529629411740/sqRachelHall.jpg.jpg"
-primary_image_credit = "Rachel Hall in dell'Arte Opera's production of The Cunning Little Vixen, 2017. Photo: Brian Long."
-publishDate = "2018-06-21T22:04:00-04:00"
-short_description = "&quot;Because it&#039;s such a long process, and because of the intensity of the repertory/festival format at the end, our training regimen is quite intense for the singers.  Some come away truly ready to leap forward in their careers; others in the ensemble and smaller roles get a real taste of what it takes to do things well - the tremendous amount of work and commitment required.&quot;"
-slug = "dellarte-opera-nods-to-mozart-salieri-in-2018"
-title = "dell&#039;Arte Opera nods to Mozart &amp; Salieri in 2018"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-06-21T21:05:00-04:00"
+lastmod: "2018-06-22T20:24:00-04:00"
+preamble: |-
+  [dell'Arte Opera Ensemble](http://dellarteopera.org/)  is gearing up for its 16th annual Summer Festival, centred this year on two of music's most notable "professional rivals", Mozart and Salieri. On the summer's lineup are productions of the Vienna version of Mozart's *Don Giovanni* (Aug. 11-25), the U.S. premiere of Salieri's *La Cifra* (Aug. 18-26), and evenings of scenes and songs by the two contemporary composers.
+
+  We spoke with Artistic Director Christopher Fecteau about dell'Arte's upcoming season, and the program's unique approach to training opera's young artists.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529629411740/sqRachelHall.jpg.jpg
+primary_image_credit: 'Rachel Hall in dell''Arte Opera''s production of The Cunning
+  Little Vixen, 2017. Photo: Brian Long.'
+publishDate: "2018-06-21T22:04:00-04:00"
+short_description: '&quot;Because it&#039;s such a long process, and because of the
+  intensity of the repertory/festival format at the end, our training regimen is quite
+  intense for the singers.  Some come away truly ready to leap forward in their careers;
+  others in the ensemble and smaller roles get a real taste of what it takes to do
+  things well - the tremendous amount of work and commitment required.&quot;'
+slug: dellarte-opera-nods-to-mozart-salieri-in-2018
+title: dell&#039;Arte Opera nods to Mozart &amp; Salieri in 2018
+---
 
 ## What do you think is the function of a summer opera training programme like dell'Arte Opera?
 

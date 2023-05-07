@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-09-08T09:07:00+01:00"
-lastmod = "2016-09-15T15:26:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473945682355/2016-09-15---Concert.jpg.jpg"
-publishDate = "2016-09-15T15:20:00+01:00"
-related_articles = ["articles/in-review-hannigan-grazinyte-tyle-BBC-proms.md","articles/party-arias-the-traits-of-lesser-operas.md","articles/falstaff-in-cambridge.md"]
-related_people = ["scene/people/albina-shagimuratova.md"]
-short_description = "If an opera truly is a great work of drama and music, does that mean it&#039;s less likely to translate well without sets or costumes? If the drama and music are wonderfully combined, does an in-concert performance mess up a composer&#039;s delicate balance? If a great opera feels like it&#039;s going on for days, how much fault lies in our dwindling contemporary attention spans?"
-slug = "opera-in-concert-uncluttered-or-uninteresting"
-title = "Opera in concert: uncluttered or uninteresting?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-09-08T09:07:00+01:00"
+lastmod: "2016-09-15T15:26:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473945682355/2016-09-15---Concert.jpg.jpg
+publishDate: "2016-09-15T15:20:00+01:00"
+related_articles:
+- articles/in-review-hannigan-grazinyte-tyle-BBC-proms.md
+- articles/party-arias-the-traits-of-lesser-operas.md
+- articles/falstaff-in-cambridge.md
+related_people:
+- scene/people/albina-shagimuratova.md
+short_description: If an opera truly is a great work of drama and music, does that
+  mean it&#039;s less likely to translate well without sets or costumes? If the drama
+  and music are wonderfully combined, does an in-concert performance mess up a composer&#039;s
+  delicate balance? If a great opera feels like it&#039;s going on for days, how much
+  fault lies in our dwindling contemporary attention spans?
+slug: opera-in-concert-uncluttered-or-uninteresting
+title: 'Opera in concert: uncluttered or uninteresting?'
+---
 
 If you think about it for too long, the idea of doing opera in concert is pretty odd.
 

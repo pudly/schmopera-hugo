@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-09-29T19:43:00-04:00"
-lastmod = "2017-10-04T21:15:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506728626935/2017-09-29---Albery.jpg.jpg"
-primary_image_credit = "Tijm Albery speaks at a dinner for COC patrons before a rehearsal of Götterdämmerung on January 23, 2017.  Photo: Gaetz Photography."
-publishDate = "2017-10-04T21:15:00-04:00"
-related_articles = ["articles/james-robinson-elixir.md","articles/review-arabella-or-poor-little-rich-girl.md","articles/luxury-at-arms-length-arabella.md","articles/barton-leads-fantasy-cast-in-wnos-don-carlo.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-short_description = "&quot;It depends where you are, and what the culture of the place you&#039;re working in is,&quot; says Albery. He points to obvious hurdles, like companies with large overhead costs (&quot;The people with buildings are the people with commitments to paying salaries&quot;) and a tradition - even a perceived dependecy - on patrons buying season-long subscriptions, a trend he says is &quot;dying&quot;."
-slug = "tim-albery-flawed-operas-falling-empires"
-title = "Tim Albery: flawed operas &amp; falling empires"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-09-29T19:43:00-04:00"
+lastmod: "2017-10-04T21:15:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506728626935/2017-09-29---Albery.jpg.jpg
+primary_image_credit: 'Tijm Albery speaks at a dinner for COC patrons before a rehearsal
+  of Götterdämmerung on January 23, 2017.  Photo: Gaetz Photography.'
+publishDate: "2017-10-04T21:15:00-04:00"
+related_articles:
+- articles/james-robinson-elixir.md
+- articles/review-arabella-or-poor-little-rich-girl.md
+- articles/luxury-at-arms-length-arabella.md
+- articles/barton-leads-fantasy-cast-in-wnos-don-carlo.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+short_description: '&quot;It depends where you are, and what the culture of the place
+  you&#039;re working in is,&quot; says Albery. He points to obvious hurdles, like
+  companies with large overhead costs (&quot;The people with buildings are the people
+  with commitments to paying salaries&quot;) and a tradition - even a perceived dependecy
+  - on patrons buying season-long subscriptions, a trend he says is &quot;dying&quot;.'
+slug: tim-albery-flawed-operas-falling-empires
+title: 'Tim Albery: flawed operas &amp; falling empires'
+---
 
 "I remember when I thought I might want to be a director," says Tim Albery, looking back on his childhood and teenage years spent as the child of theatrically-inclined parents. "My father was walking along the street after rehearsal with an actor called Daniel Massey - he was playing the lead in some not-terribly-good musical," he recalls. "They were talking about a particular scene and why it didn't work, and I piped up with, 'well, that bit there, I never understand what's going on in that bit there,' or some such contribution." Albery laughs at the memory of his 15 year-old self, whom he calls "too young to have an opinion," and remembers his father and Massey laughing, too. "I guess that was probably a sign that I was quite interested in the shape of a scene."
 

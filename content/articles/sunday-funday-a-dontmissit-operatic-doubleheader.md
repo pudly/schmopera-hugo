@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2018-01-12T20:08:00-05:00"
-lastmod = "2018-01-12T21:03:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515808192308/2018-01-12-Jan21.jpg.jpg"
-publishDate = "2018-01-12T20:08:00-05:00"
-related_articles = ["articles/atgs-opera-pubs-it-can-all-get-a-bit-wild.md","articles/fab-nights-whose-opera-is-it-anyway.md"]
-related_companies = ["scene/companies/loose-tea-music-theatre.md","scene/companies/fawn-chamber-creative.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/amanda-smith.md","scene/people/alaina-viau.md","scene/people/gregory-finney.md"]
-short_description = "&quot;One of the things I love most about music is the undeniable connections between different genres,&quot; says Amanda Smith, FAWN Founding Artistic Director &amp; Resident Stage Director. &quot; I’ve always listened to electronic music with a similar ear as I do with classical and my experience as a listener is often comparable – so many intricate musical layers and visuals to explore.&quot;"
-slug = "sunday-funday-a-dontmissit-operatic-doubleheader"
-title = "Sunday Funday: a don&#039;t-miss-it operatic double-header"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2018-01-12T20:08:00-05:00"
+lastmod: "2018-01-12T21:03:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515808192308/2018-01-12-Jan21.jpg.jpg
+publishDate: "2018-01-12T20:08:00-05:00"
+related_articles:
+- articles/atgs-opera-pubs-it-can-all-get-a-bit-wild.md
+- articles/fab-nights-whose-opera-is-it-anyway.md
+related_companies:
+- scene/companies/loose-tea-music-theatre.md
+- scene/companies/fawn-chamber-creative.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/amanda-smith.md
+- scene/people/alaina-viau.md
+- scene/people/gregory-finney.md
+short_description: '&quot;One of the things I love most about music is the undeniable
+  connections between different genres,&quot; says Amanda Smith, FAWN Founding Artistic
+  Director &amp; Resident Stage Director. &quot; I’ve always listened to electronic
+  music with a similar ear as I do with classical and my experience as a listener
+  is often comparable – so many intricate musical layers and visuals to explore.&quot;'
+slug: sunday-funday-a-dontmissit-operatic-doubleheader
+title: 'Sunday Funday: a don&#039;t-miss-it operatic double-header'
+---
 
 On **Sunday, January 21**, Torontonians are in for a double-header of creative opera events.
 

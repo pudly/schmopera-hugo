@@ -1,22 +1,33 @@
-+++
-author = ["authors/david-todd.md"]
-categories = "How-To"
-date = 2023-03-29T12:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = "This article is one of a series called [\"The Elton John Act\"](/pianists-progress-i-the-elton-john-act/), which aim to demystify the process of becoming an operatic répétiteur and assist anyone wishing to audition as one in the German-speaking operatic system. Here we begin with the first of the usual audition excerpts, the Maid Scene from Richard Strauss' opera _Elektra_."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679530380/media/2023/03/Pianistseries_pianogirl_by4gpq.jpg"
-primary_image_credit = "You’ll need to channel everything you’ve got into the piano in this chilling yet colourful scene!"
-related_articles = ["articles/pianist-s-progress-ii-trampolines-tongue-twisters-the-set-audition-excerptsexcerpts.md", "articles/pianist-s-progress-i-the-elton-john-act.md"]
-related_companies = []
-related_people = []
-short_description = " Whatever the staging, the atmosphere the music creates is oppressive, nasty and yet sometimes tender, and without a feel for the context of the whole piece, you will always struggle to recreate the senseless violence of the maids in this opening scene."
-slug = "the-elton-john-act-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra"
-title = "The Elton John Act III: Violent, sadistic & utterly engaging - the Maid Scene from Elektra"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/david-todd.md
+categories: How-To
+date: "2023-03-29T12:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: This article is one of a series called ["The Elton John Act"](/pianists-progress-i-the-elton-john-act/),
+  which aim to demystify the process of becoming an operatic répétiteur and assist
+  anyone wishing to audition as one in the German-speaking operatic system. Here we
+  begin with the first of the usual audition excerpts, the Maid Scene from Richard
+  Strauss' opera _Elektra_.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1679530380/media/2023/03/Pianistseries_pianogirl_by4gpq.jpg
+primary_image_credit: You’ll need to channel everything you’ve got into the piano
+  in this chilling yet colourful scene!
+related_articles:
+- articles/pianist-s-progress-ii-trampolines-tongue-twisters-the-set-audition-excerptsexcerpts.md
+- articles/pianist-s-progress-i-the-elton-john-act.md
+related_companies: []
+related_people: []
+short_description: ' Whatever the staging, the atmosphere the music creates is oppressive,
+  nasty and yet sometimes tender, and without a feel for the context of the whole
+  piece, you will always struggle to recreate the senseless violence of the maids
+  in this opening scene.'
+slug: the-elton-john-act-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra
+title: 'The Elton John Act III: Violent, sadistic & utterly engaging - the Maid Scene
+  from Elektra'
+youtube_url: ""
+---
 * Opera: _Elektra_
 * Composer: Richard Strauss
 * Length of scene to learn: Beginning of the opera to Figure 34

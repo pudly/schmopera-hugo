@@ -1,17 +1,30 @@
-+++
-author = ["authors/vivian-darkbloom.md"]
-categories = "Review"
-date = "2017-09-08T15:25:00-04:00"
-lastmod = "2017-09-09T11:00:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504899844428/2017-09-08---Van-Mellearts-Khamis.jpg.jpg"
-primary_image_credit = "Pianist Gamal Khamis (left) and baritone Julien Van Mellearts, winners of the 2017 Wigmore Hall Song Prize."
-publishDate = "2017-09-08T20:02:00-04:00"
-related_articles = ["articles/in-review-wigmore-hall-song-competition-semifinals.md"]
-related_people = ["scene/people/clara-osowski.md","scene/people/john-brancy.md","scene/people/peter-dugan.md","scene/people/julien-van-mellaerts.md","scene/people/gamal-khamis.md","scene/people/tyler-wottrich.md"]
-short_description = "This year&#039;s Wigmore Hall Song Competition was a wonderful experience. The judges commented on the incredibly high standard of this year&#039;s performers. I completely concur. The level of music making was very refined and intelligent. It was wonderful to see a concert with such a wide range of repertoire performed by young musicians making bold and individual choices."
-slug = "in-review-sophisticated-precise-fearlessness-at-wigmore-hall"
-title = "In review: &quot;Sophisticated, precise fearlessness&quot; at Wigmore Hall"
-+++
+---
+author:
+- authors/vivian-darkbloom.md
+categories: Review
+date: "2017-09-08T15:25:00-04:00"
+lastmod: "2017-09-09T11:00:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504899844428/2017-09-08---Van-Mellearts-Khamis.jpg.jpg
+primary_image_credit: Pianist Gamal Khamis (left) and baritone Julien Van Mellearts,
+  winners of the 2017 Wigmore Hall Song Prize.
+publishDate: "2017-09-08T20:02:00-04:00"
+related_articles:
+- articles/in-review-wigmore-hall-song-competition-semifinals.md
+related_people:
+- scene/people/clara-osowski.md
+- scene/people/john-brancy.md
+- scene/people/peter-dugan.md
+- scene/people/julien-van-mellaerts.md
+- scene/people/gamal-khamis.md
+- scene/people/tyler-wottrich.md
+short_description: This year&#039;s Wigmore Hall Song Competition was a wonderful
+  experience. The judges commented on the incredibly high standard of this year&#039;s
+  performers. I completely concur. The level of music making was very refined and
+  intelligent. It was wonderful to see a concert with such a wide range of repertoire
+  performed by young musicians making bold and individual choices.
+slug: in-review-sophisticated-precise-fearlessness-at-wigmore-hall
+title: 'In review: &quot;Sophisticated, precise fearlessness&quot; at Wigmore Hall'
+---
 
 Last night was a unique and wonderful evening at the Wigmore Hall. This year’s Wigmore Hall/Kohn Foundation Intenational Song Competition was a very rewarding evening full of incredible music making.  The young performers must present recitals of 30 minutes each, consisting of songs in any language - they must also include at least one song written after 1950. This year's finalists presented four completely contrasting programs - they were also four very different pairs of musicians. 
 

@@ -1,18 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2017-08-13T21:23:00-04:00"
-lastmod = "2017-08-16T14:32:00-04:00"
-postamble = "Readers, do you have an aria you'd like to see featured on one of our Aria Guides? Let us know in the comments below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "It's a cornerstone of the operatic repertoire: Violetta's Act I aria from *La traviata*. It's got everything, from delicious long lines to flashy coloratura, and it has the special honour of closing the opera's first act. Violetta is a role that most sopranos covet, and many of them start their Traviata trip with \"Sempre libera\". Along with the work you do with your voice teachers and coaches, our latest Aria Guide a little navigation kit to help you along your way:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502727193169/2017-08-14---Libera.jpg.jpg"
-publishDate = "2017-08-16T13:25:00-04:00"
-related_articles = ["articles/aria-guides-quando-men-vo.md", "articles/aria-guides-come-paride-vezzoso.md", "articles/aria-guides-the-counts-aria.md"]
-short_description = "It's a cornerstone of the operatic repertoire: Violetta's Act I aria from La traviata. It's got everything, from delicious long lines to flashy coloratura, and it has the special honour of closing the opera's first act. Violetta is a role that most sopranos covet, and many of them start their Traviata trip with \"Sempre libera\". Along with the work you do with your voice teachers and coaches, our latest Aria Guide a little naviagtion kit to help you along your way:"
-slug = "aria-guides-sempre-libera"
-title = "Aria guides: Sempre libera"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2017-08-13T21:23:00-04:00"
+lastmod: "2017-08-16T14:32:00-04:00"
+postamble: Readers, do you have an aria you'd like to see featured on one of our Aria
+  Guides? Let us know in the comments below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+preamble: 'It''s a cornerstone of the operatic repertoire: Violetta''s Act I aria
+  from *La traviata*. It''s got everything, from delicious long lines to flashy coloratura,
+  and it has the special honour of closing the opera''s first act. Violetta is a role
+  that most sopranos covet, and many of them start their Traviata trip with "Sempre
+  libera". Along with the work you do with your voice teachers and coaches, our latest
+  Aria Guide a little navigation kit to help you along your way:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502727193169/2017-08-14---Libera.jpg.jpg
+publishDate: "2017-08-16T13:25:00-04:00"
+related_articles:
+- articles/aria-guides-quando-men-vo.md
+- articles/aria-guides-come-paride-vezzoso.md
+- articles/aria-guides-the-counts-aria.md
+short_description: 'It''s a cornerstone of the operatic repertoire: Violetta''s Act
+  I aria from La traviata. It''s got everything, from delicious long lines to flashy
+  coloratura, and it has the special honour of closing the opera''s first act. Violetta
+  is a role that most sopranos covet, and many of them start their Traviata trip with
+  "Sempre libera". Along with the work you do with your voice teachers and coaches,
+  our latest Aria Guide a little naviagtion kit to help you along your way:'
+slug: aria-guides-sempre-libera
+title: 'Aria guides: Sempre libera'
+---
  1. This opening is definitely easier in the context of the full opera; if you're doing the aria on its own, remember to keep it simple and speech-like. When you get to "In core scolpiti...", most conductors (and pianists) are happier if you sing the bar in a tempo, rather than as a free recitative.<figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502673569866/Aria-guide---Violetta---annotated-1.jpg.jpg)

@@ -1,16 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-02-25T13:30:00-05:00"
-lastmod = "2016-02-25T14:01:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456425570660/2016-02-25---Snowflake.jpg.jpg"
-primary_image_credit = "Image by Alexey Kljatov/Creative Commons."
-publishDate = "2016-02-25T14:01:00-05:00"
-related_articles = ["articles/how-to-sit-through-opera-and-other-wikigems.md"]
-short_description = "Tumblr user socialjusticeweg posted some fun ways of being the most unique-est, quirktastic-est, gender-mysterious-est person at school, with a bunch of new gender identification labels, all falling under the umbrella of &quot;Musigender&quot; (defined as &quot;A gender that is closely related to musicianship or music theory&quot;)."
-slug = "gems-is-your-gender-in-sonata-form"
-title = "Gems: is your gender in sonata form?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-02-25T13:30:00-05:00"
+lastmod: "2016-02-25T14:01:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456425570660/2016-02-25---Snowflake.jpg.jpg
+primary_image_credit: Image by Alexey Kljatov/Creative Commons.
+publishDate: "2016-02-25T14:01:00-05:00"
+related_articles:
+- articles/how-to-sit-through-opera-and-other-wikigems.md
+short_description: Tumblr user socialjusticeweg posted some fun ways of being the
+  most unique-est, quirktastic-est, gender-mysterious-est person at school, with a
+  bunch of new gender identification labels, all falling under the umbrella of &quot;Musigender&quot;
+  (defined as &quot;A gender that is closely related to musicianship or music theory&quot;).
+slug: gems-is-your-gender-in-sonata-form
+title: 'Gems: is your gender in sonata form?'
+---
 
 Readers, we've got a gem to share with you, and we're not sure how you're going to feel about it.
 

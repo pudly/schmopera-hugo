@@ -1,18 +1,30 @@
-+++
-author = ["authors/neil-weisensel.md"]
-categories = "Review"
-date = "2017-11-20T21:17:00-05:00"
-lastmod = "2017-11-21T13:25:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511230713459/2017-11-21---square---MB-Opera%2C-Madama-Butterfly%2C-2017-Hiromi-Omura-Cio-Cio-San-and-David-Pomeroy-Pinkerton.-Photo---R.-Tinker.jpg.jpg"
-primary_image_credit = "Hiromi Omura (Cio-Cio Sam) and David Pomeroy (Pinkerton) in Madama Butterfly, Manitoba Opera, 2017. Photo: R. Tinker."
-publishDate = "2017-11-21T13:25:00-05:00"
-related_articles = ["articles/rohs-madama-butterfly-better-to-be-furious-than-bored.md","articles/in-review-madam-butterfly-at-eno.md"]
-related_companies = ["scene/companies/manitoba-opera.md"]
-related_people = ["scene/people/david-pomeroy.md","scene/people/gregory-dahl.md","scene/people/laurelle-jade-froese.md","scene/people/hiromi-omura.md","scene/people/nina-yoshida-nelsen.md"]
-short_description = "This fabulous production that Manitoba Opera has mounted at the Centennial Concert Hall in Winnipeg, with an absolutely stellar cast, has made me remember why Madama Butterfly is one of the most popular operas of all time."
-slug = "making-the-connection-madama-butterfly-in-manitoba"
-title = "Making the connection: Madama Butterfly in Manitoba"
-+++
+---
+author:
+- authors/neil-weisensel.md
+categories: Review
+date: "2017-11-20T21:17:00-05:00"
+lastmod: "2017-11-21T13:25:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511230713459/2017-11-21---square---MB-Opera%2C-Madama-Butterfly%2C-2017-Hiromi-Omura-Cio-Cio-San-and-David-Pomeroy-Pinkerton.-Photo---R.-Tinker.jpg.jpg
+primary_image_credit: 'Hiromi Omura (Cio-Cio Sam) and David Pomeroy (Pinkerton) in
+  Madama Butterfly, Manitoba Opera, 2017. Photo: R. Tinker.'
+publishDate: "2017-11-21T13:25:00-05:00"
+related_articles:
+- articles/rohs-madama-butterfly-better-to-be-furious-than-bored.md
+- articles/in-review-madam-butterfly-at-eno.md
+related_companies:
+- scene/companies/manitoba-opera.md
+related_people:
+- scene/people/david-pomeroy.md
+- scene/people/gregory-dahl.md
+- scene/people/laurelle-jade-froese.md
+- scene/people/hiromi-omura.md
+- scene/people/nina-yoshida-nelsen.md
+short_description: This fabulous production that Manitoba Opera has mounted at the
+  Centennial Concert Hall in Winnipeg, with an absolutely stellar cast, has made me
+  remember why Madama Butterfly is one of the most popular operas of all time.
+slug: making-the-connection-madama-butterfly-in-manitoba
+title: 'Making the connection: Madama Butterfly in Manitoba'
+---
 
 I had forgotten what a great opera Puccini's *Madama Butterfly* is. My introduction to the piece, at the University of Manitoba's School of Music many years ago, was an unfortunate encounter between Puccini's beautiful melodies and a flighty soprano who was years away (if ever) from being able to sing the role.
 

@@ -1,31 +1,36 @@
-+++
-date = "2017-10-07T10:47:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-10-07T10:58:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507387484485/DSC_0155.jpg.jpg"
-publishDate = "2017-10-07T10:47:00-04:00"
-related_companies = ["scene/companies/nashville-opera.md","scene/companies/seattle-opera.md","scene/companies/berkshire-opera-festival.md","scene/companies/houston-grand-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/portland-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/the-dallas-opera.md"]
-slug = "weston-hurt"
-title = "Weston Hurt"
-website = "http://www.westonhurt.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/westonhurtbaritone"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/westonhurt"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/westonhurt/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=ijjv0QB3oqc&list=PLGD5AXWxIXdwA7dRTJIWqTBsVqmphioTa"
-_template = "people_single"
-+++
+---
+date: "2017-10-07T10:47:00-04:00"
+discipline: Baritone
+lastmod: "2017-10-07T10:58:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507387484485/DSC_0155.jpg.jpg
+publishDate: "2017-10-07T10:47:00-04:00"
+related_companies:
+- scene/companies/nashville-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/berkshire-opera-festival.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/portland-opera.md
+- scene/companies/lyric-opera-of-kansas-city.md
+- scene/companies/the-dallas-opera.md
+slug: weston-hurt
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/westonhurtbaritone
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/westonhurt
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/westonhurt/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/watch?v=ijjv0QB3oqc&list=PLGD5AXWxIXdwA7dRTJIWqTBsVqmphioTa
+title: Weston Hurt
+website: http://www.westonhurt.com/
+---
 
 Baritone Weston Hurt begins the 2017-2018 season with a return to Seattle Opera as Sharpless in *Madama Butterfly*, followed by a company debut with Nashville Opera as Scarpia in *Tosca*. This season he also adds two new roles to his repertoire, singing Creon in Cherubini’s *Medea* with Opera Omaha and John Peerybingle in *I Grillo del Focolare* with Teatro Grattacielo, both company debuts as well. When not onstage himself, Mr. Hurt will mentor students in a masterclass at Seattle Opera’s Summer Academy at Marrowstone.
 

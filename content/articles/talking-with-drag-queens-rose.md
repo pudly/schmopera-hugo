@@ -1,22 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = 2022-05-02T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "For tour dates, merch, and more, head to Rosé's website at [omgheyrose.com](https://omgheyrose.com/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1651345081/media/2022/04/sqRose_1_1_drlzmg.jpg"
-primary_image_credit = "Photo courtesy of Voss Events."
-related_articles = ["articles/talking-with-singers-jamie-barton.md", "articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md"]
-related_companies = []
-related_people = []
-short_description = "“When you think of the voice as having, like, the sound of an emotion instead of just sounding pretty, that's a really exciting thing to do. It makes it more like a mime performance than just lip syncing.”"
-slug = "talking-with-drag-queens-rose"
-title = "Talking with drag queens: Rosé"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2022-05-02T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: For tour dates, merch, and more, head to Rosé's website at [omgheyrose.com](https://omgheyrose.com/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1651345081/media/2022/04/sqRose_1_1_drlzmg.jpg
+primary_image_credit: Photo courtesy of Voss Events.
+related_articles:
+- articles/talking-with-singers-jamie-barton.md
+- articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md
+related_companies: []
+related_people: []
+short_description: “When you think of the voice as having, like, the sound of an emotion
+  instead of just sounding pretty, that's a really exciting thing to do. It makes
+  it more like a mime performance than just lip syncing.”
+slug: talking-with-drag-queens-rose
+title: 'Talking with drag queens: Rosé'
+youtube_url: ""
+---
 Call it an excuse to binge _Drag Race_ if you must, but there's undoubtedly common ground in the worlds of drag and opera. [Jamie Barton](https://www.schmopera.com/talking-with-singers-jamie-barton/) knows it. [Blythely Oratonio](https://blo.org/blythely/) knows it. Even [Canada's indie opera scene](https://operacanada.ca/drag-and-opera/) knows it. And the cool thing is that these two artforms — both very into gender-bending, exaggerated drama and mixing the visual with the musical — are influencing each other and making each other better.
 
 Living smack in the middle of that Venn diagram where opera intersects with the art of drag is [Rosé](https://omgheyrose.com/), the Scottish-born queen best known for being a finalist in season thirteen of _RuPaul’s Drag Race_. She has appeared on _The Voice_ and _America's Got Talent_, and she's one-third of the drag queen girl group [Stephanie's Child](https://www.instagram.com/stephanieschild/?hl=en), alongside [Lagoona Bloo](https://www.lagoonabloo.com/) and [Jan Sport](https://twitter.com/janjanjan) — meaning Rosé doesn't just lip sync, but she real-life sings.

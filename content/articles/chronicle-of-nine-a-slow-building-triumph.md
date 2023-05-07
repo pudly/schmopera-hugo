@@ -1,22 +1,31 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2020-02-03T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1580661379/media/2020/02/sqMeganPachecano_GilRose_Orchestra_l9jws8.jpg"
-primary_image_credit = "February 1, 2020, NEC’s Jordan Hall, Boston. World premiere of The Chronicle of Nine by Arnold Rosner, Boston Modern Orchestra Project and Odyssey Opera conducted by Gil Rose. Photo: Kathy Wittman/Ball Square Films."
-related_articles = ["articles/in-review-la-belle-helene.md", "articles/odyssey-operas-giovanna-darco-bold-and-flawed.md", "articles/chemistry-sizzles-onstage-in-paride-ed-elena.md"]
-related_companies = ["scene/companies/odyssey-opera.md"]
-related_people = []
-short_description = "The music, while still adhering to some trappings of the medieval stylings, began to explore outside the bounds of its medieval stylings in order to do something new. The libretto, already full of pathos for its subject, finally found its stride as far as moving the plot at a good clip."
-slug = "chronicle-of-nine-a-slow-building-triumph"
-title = "Chronicle of Nine a slow-building triumph"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2020-02-03T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1580661379/media/2020/02/sqMeganPachecano_GilRose_Orchestra_l9jws8.jpg
+primary_image_credit: 'February 1, 2020, NEC’s Jordan Hall, Boston. World premiere
+  of The Chronicle of Nine by Arnold Rosner, Boston Modern Orchestra Project and Odyssey
+  Opera conducted by Gil Rose. Photo: Kathy Wittman/Ball Square Films.'
+related_articles:
+- articles/in-review-la-belle-helene.md
+- articles/odyssey-operas-giovanna-darco-bold-and-flawed.md
+- articles/chemistry-sizzles-onstage-in-paride-ed-elena.md
+related_companies:
+- scene/companies/odyssey-opera.md
+related_people: []
+short_description: The music, while still adhering to some trappings of the medieval
+  stylings, began to explore outside the bounds of its medieval stylings in order
+  to do something new. The libretto, already full of pathos for its subject, finally
+  found its stride as far as moving the plot at a good clip.
+slug: chronicle-of-nine-a-slow-building-triumph
+title: Chronicle of Nine a slow-building triumph
+youtube_url: ""
+---
 When I was still a student at the College-Conservatory of Music, I had a professor who once told the class that you could not have an opinion on a work of media unless you’ve experienced the work as a whole. Some in media criticism might call such an approach a lazy way out, but it is astounding how much can change about a work as you sit with it and wholly experience it.
 
 This is especially true of opera, where in some cases the whole may not be as interesting as certain parts. This is certainly true of Arnold Rosner’s world premiere opera _The Chronicle of Nine_, his adaptation of Florence Stevenson's play about the life of the lady Jane Grey, who was famously queen for only nine days.

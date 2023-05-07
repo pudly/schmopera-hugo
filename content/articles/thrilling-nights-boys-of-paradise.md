@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-10-17T22:21:00+01:00"
-lastmod = "2016-10-18T09:13:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476740716890/2016-10-18---BOP-Swuare.jpg.jpg"
-primary_image_credit = "Boys of Paradise, WorkshOPERA, Egg London, October 2016. Photo by Claire Shovelton."
-publishDate = "2016-10-18T08:22:00+01:00"
-related_articles = ["articles/dont-miss-boys-of-paradise.md"]
-short_description = "The contemporary story of highs and lows is smartly encased in the very old story of the Phoenix, where Twink embodies the bird who is reborn out of his own ashes. Boys of Paradise could have been an opportunity for camp, shock value, and lame attempts at drug and sex imagery; yet there was something ironically polished about this dirty, uncomfortable story that allows the audience to sympathise, judge, and experience catharsis all at once."
-slug = "thrilling-nights-boys-of-paradise"
-title = "Thrilling nights: Boys of Paradise"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-10-17T22:21:00+01:00"
+lastmod: "2016-10-18T09:13:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476740716890/2016-10-18---BOP-Swuare.jpg.jpg
+primary_image_credit: Boys of Paradise, WorkshOPERA, Egg London, October 2016. Photo
+  by Claire Shovelton.
+publishDate: "2016-10-18T08:22:00+01:00"
+related_articles:
+- articles/dont-miss-boys-of-paradise.md
+short_description: The contemporary story of highs and lows is smartly encased in
+  the very old story of the Phoenix, where Twink embodies the bird who is reborn out
+  of his own ashes. Boys of Paradise could have been an opportunity for camp, shock
+  value, and lame attempts at drug and sex imagery; yet there was something ironically
+  polished about this dirty, uncomfortable story that allows the audience to sympathise,
+  judge, and experience catharsis all at once.
+slug: thrilling-nights-boys-of-paradise
+title: 'Thrilling nights: Boys of Paradise'
+---
 
 Remember when we wrote an article called, ["Don't miss: *Boys of Paradise*"](/dont-miss-boys-of-paradise/)? We really meant it.
 

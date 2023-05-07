@@ -1,19 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-05-09T19:04:00-04:00"
-lastmod = "2017-05-10T16:24:00-04:00"
-preamble = "American soprano [Angela Meade](/scene/people/angela-meade/) is almost finished a run of *Don Giovanni* at the Metropolitan Opera, singing Donna Anna opposite [Matthew Polenzani](/talking-with-singers-matthew-polenzani/) as Don Ottavio, and with maestro [Plácido Domingo](/scene/people/placido-domingo/) at the podium.\n\nThis summer, Meade is an Artist-in-Residence at the 2017 Caramoor Festival, and she singe Imogene in Bellini's *Il pirata* for [Bel canto at Caramoor](https://www.caramoor.org/events/il-pirata-bellini/). We spoke with the soprano about the feeling of great singing, about complicated women like Donna Anna, and her passion for \"beautifully made things\".\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494371093393/201-05-09---Angela_Meade_credit_Faye_Fox.jpg.jpg"
-primary_image_credit = "Photo: Faye Fox."
-publishDate = "2017-05-10T15:36:00-04:00"
-related_articles = ["articles/talking-with-singers-sondra-radvanovsky.md","articles/talking-with-singers-jamie-barton.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/angela-meade.md"]
-short_description = "I also feel like I&#039;ve always connected with Norma&#039;s character. She, like Donna Anna, is a strong woman, caught in the politics of her situation. Even though she is the one in charge of the Druids, she is still expected to maintain decorum regarding her sexual life and especially with those in the enemy camp. She is a bit impulsive and falls in love deeply and quickly, and so when she is burned by Pollione the flames of betrayal, hurt, pain and desperation engulf her."
-slug = "talking-with-singers-angela-meade"
-title = "Talking with singers: Angela Meade"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-05-09T19:04:00-04:00"
+lastmod: "2017-05-10T16:24:00-04:00"
+preamble: |+
+  American soprano [Angela Meade](/scene/people/angela-meade/) is almost finished a run of *Don Giovanni* at the Metropolitan Opera, singing Donna Anna opposite [Matthew Polenzani](/talking-with-singers-matthew-polenzani/) as Don Ottavio, and with maestro [Plácido Domingo](/scene/people/placido-domingo/) at the podium.
+
+  This summer, Meade is an Artist-in-Residence at the 2017 Caramoor Festival, and she singe Imogene in Bellini's *Il pirata* for [Bel canto at Caramoor](https://www.caramoor.org/events/il-pirata-bellini/). We spoke with the soprano about the feeling of great singing, about complicated women like Donna Anna, and her passion for "beautifully made things".
+
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494371093393/201-05-09---Angela_Meade_credit_Faye_Fox.jpg.jpg
+primary_image_credit: 'Photo: Faye Fox.'
+publishDate: "2017-05-10T15:36:00-04:00"
+related_articles:
+- articles/talking-with-singers-sondra-radvanovsky.md
+- articles/talking-with-singers-jamie-barton.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/angela-meade.md
+short_description: I also feel like I&#039;ve always connected with Norma&#039;s character.
+  She, like Donna Anna, is a strong woman, caught in the politics of her situation.
+  Even though she is the one in charge of the Druids, she is still expected to maintain
+  decorum regarding her sexual life and especially with those in the enemy camp. She
+  is a bit impulsive and falls in love deeply and quickly, and so when she is burned
+  by Pollione the flames of betrayal, hurt, pain and desperation engulf her.
+slug: talking-with-singers-angela-meade
+title: 'Talking with singers: Angela Meade'
+---
 
 ## Why do you sing professionally?
  

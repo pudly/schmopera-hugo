@@ -1,22 +1,34 @@
-+++
-author = ["authors/molly-simoneau.md"]
-categories = "Review"
-date = "2019-03-10T22:37:56+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "WNO's production of [_Eugene Onegin_](http://www.kennedy-center.org/calendar/event/OTOSE) runs through March 29. For details and ticket information, [click here](http://www.kennedy-center.org/calendar/event/OTOSE)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552267777/media/2019/03/sqEugeneOneginbaritoneIgorGolovatenkowallowsinheartborkendespairinWNOsproductionScottSuchman.jpg"
-primary_image_credit = "Igor Golovatenko in the title role of Eugene Onegin, Washington National Opera, 2019. Photo: Scott Suchman."
-related_articles = ["articles/ciekiewicz-triumphant-in-calgary-operas-onegin.md", "articles/eugene-onegin-or-the-time-tatyana-dodged-a-bullet.md"]
-related_companies = ["scene/companies/washington-national-opera.md"]
-related_people = ["scene/people/anna-nechaeva.md", "scene/people/alexey-dolgov-1.md", "scene/people/lindsay-ammann.md", "scene/people/igor-golovatenko.md"]
-short_description = "When someone mentions Tchaikovsky's opera, the image in my head is of a starry-eyed Renée Fleming in a white nightgown in front of a clear blue background on a stage covered in thousands and thousands of gold and orange autumn leaves. "
-slug = "a-21st-century-classic-onegin-with-the-leaves"
-title = "A 21st-century classic: Onegin \"with the leaves\""
-youtube_url = ""
-
-+++
+---
+author:
+- authors/molly-simoneau.md
+categories: Review
+date: "2019-03-10T22:37:56+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: WNO's production of [_Eugene Onegin_](http://www.kennedy-center.org/calendar/event/OTOSE)
+  runs through March 29. For details and ticket information, [click here](http://www.kennedy-center.org/calendar/event/OTOSE).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1552267777/media/2019/03/sqEugeneOneginbaritoneIgorGolovatenkowallowsinheartborkendespairinWNOsproductionScottSuchman.jpg
+primary_image_credit: 'Igor Golovatenko in the title role of Eugene Onegin, Washington
+  National Opera, 2019. Photo: Scott Suchman.'
+related_articles:
+- articles/ciekiewicz-triumphant-in-calgary-operas-onegin.md
+- articles/eugene-onegin-or-the-time-tatyana-dodged-a-bullet.md
+related_companies:
+- scene/companies/washington-national-opera.md
+related_people:
+- scene/people/anna-nechaeva.md
+- scene/people/alexey-dolgov-1.md
+- scene/people/lindsay-ammann.md
+- scene/people/igor-golovatenko.md
+short_description: 'When someone mentions Tchaikovsky''s opera, the image in my head
+  is of a starry-eyed Renée Fleming in a white nightgown in front of a clear blue
+  background on a stage covered in thousands and thousands of gold and orange autumn
+  leaves. '
+slug: a-21st-century-classic-onegin-with-the-leaves
+title: 'A 21st-century classic: Onegin "with the leaves"'
+youtube_url: ""
+---
 For serious opera geeks, there are a few touchstone opera productions which are known and talked about worldwide, which each feature one particular element by which they can be identified: the "[red dress](https://www.nytimes.com/2011/01/03/arts/music/03traviata.html)" _Traviata_, the _Lohengrin_ "[with the rats,](https://www.nytimes.com/2010/08/05/arts/music/05lohengrin.html)" and of course, the _Onegin_ "[with the leaves.](https://www.youtube.com/watch?v=oWwq8BlEYIk)" These stand-out takes on on favorite operas have a way of becoming required viewing for operaphiles, and thanks to DVD (or, more likely, YouTube bootlegs) they're readily available.
 
 The _Onegin_ _with the leaves_, created by Robert Carsen for the Metropolitan Opera in 1997, and its 2007 revival which was released on DVD (and, of course, surreptitiously uploaded to YouTube), was the first _Eugene Onegin_ I ever saw, and and since then, when someone mentions Tchaikovsky's opera, the image in my head is of a starry-eyed Renée Fleming in a white nightgown in front of a clear blue background on a stage covered in thousands and thousands of gold and orange autumn leaves. Carsen's production is iconic and a classic and so I was thrilled to learn that it would be coming to Washington, and just as I anticipated, the effect is even more stunning in person than on a screen.

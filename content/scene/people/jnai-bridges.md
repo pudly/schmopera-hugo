@@ -1,24 +1,30 @@
-+++
-date = "2017-01-09T12:37:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-01-09T12:39:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483965279322/2017-01-09---Bridges---S-Richards.jpg.jpg"
-primary_image_credit = "S. Richards Photography"
-publishDate = "2017-01-09T12:37:00+00:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/wolf-trap-opera.md","scene/companies/vancouver-opera.md","scene/companies/san-francisco-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/los-angeles-opera.md","scene/companies/san-diego-opera.md"]
-slug = "jnai-bridges"
-title = "J&#039;Nai Bridges"
-website = "http://jnaibridgesmezzo.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/jnaibridgesmezzo/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/jnaimarie"
-_template = "people_single"
-+++
+---
+date: "2017-01-09T12:37:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2017-01-09T12:39:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483965279322/2017-01-09---Bridges---S-Richards.jpg.jpg
+primary_image_credit: S. Richards Photography
+publishDate: "2017-01-09T12:37:00+00:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/wolf-trap-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/san-diego-opera.md
+slug: jnai-bridges
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/jnaibridgesmezzo/?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/jnaimarie
+title: J&#039;Nai Bridges
+website: http://jnaibridgesmezzo.com/
+---
 
 In the 2016-17 season, J’Nai will make debuts at San Francisco Opera and Bavarian State Opera as Bersi in *Andrea Chenier*, at Los Angeles Opera as Nefertiti in *Akhnaten*, and at Vancouver Opera as Sister Helen Prejean in Jake Heggie’s *Dead Man Walking*. She will additionally be featured as a soloist with the Marilyn Horne Song Celebration at Zankel Hall at Carnegie Hall; at the Festival de Torroella de Montgrí, with the NDR Symphony Orchestra in its inaugural week at the Elbphilharmonie; and in Beethoven’s Ninth Symphony at both the Farewell to Christoph Eschenbach concert with the National Symphony Orchestra at the Kennedy Center, and with The Philadelphia Orchestra at the Saratoga Performing Arts Center; and in Mahler’s Second Symphony with the Louisville Orchestra and with the Fort Wayne Philharmonic.
 

@@ -1,22 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-04-30T10:39:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[Click here](https://wfs-spring-2019.brownpapertickets.com/) for details and ticket information about _Love is Timeless_ on May 4, First United Church, Santa Monica, CA."
-preamble = "The Verdi Chorus is continuing its 36th season in Santa Monica, with a concert featuring its professional ensemble, the Walter Fox Singers. The ensemble is part of the Verdi Chorus' mission to provide professional opportunities for young singers; for one night only on **May 4**, the Walter Fox Singers will offer up [_Love is Timeless_](https://wfs-spring-2019.brownpapertickets.com/), a night of selections form opera and musical theatre.\n\nWe spoke with Founding Artistic Director of the Verdi Chorus, Anne Marie Ketchum, about keeping her work flourishing for 36 seasons:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556586035/media/2019/04/sqVerdiChorus.jpg"
-primary_image_credit = "The Walter Fox Singers professional ensemble of the Verdi Chorus Singers. Photo: Tim Berreth."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "\"These singers are also part of a whole team where they have a certain amount of responsibility as section leaders of the Verdi Chorus, and it is up to them to know their music better than anyone else and develop their musicianship.\""
-slug = "the-verdi-chorus-the-walter-fox-singers-36-years-on"
-title = "The Verdi Chorus & the Walter Fox Singers: 36 years on"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-04-30T10:39:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '[Click here](https://wfs-spring-2019.brownpapertickets.com/) for details
+  and ticket information about _Love is Timeless_ on May 4, First United Church, Santa
+  Monica, CA.'
+preamble: |-
+  The Verdi Chorus is continuing its 36th season in Santa Monica, with a concert featuring its professional ensemble, the Walter Fox Singers. The ensemble is part of the Verdi Chorus' mission to provide professional opportunities for young singers; for one night only on **May 4**, the Walter Fox Singers will offer up [_Love is Timeless_](https://wfs-spring-2019.brownpapertickets.com/), a night of selections form opera and musical theatre.
 
-+++
+  We spoke with Founding Artistic Director of the Verdi Chorus, Anne Marie Ketchum, about keeping her work flourishing for 36 seasons:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1556586035/media/2019/04/sqVerdiChorus.jpg
+primary_image_credit: 'The Walter Fox Singers professional ensemble of the Verdi Chorus
+  Singers. Photo: Tim Berreth.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: '"These singers are also part of a whole team where they have a
+  certain amount of responsibility as section leaders of the Verdi Chorus, and it
+  is up to them to know their music better than anyone else and develop their musicianship."'
+slug: the-verdi-chorus-the-walter-fox-singers-36-years-on
+title: 'The Verdi Chorus & the Walter Fox Singers: 36 years on'
+youtube_url: ""
+---
 ## What sort of mission did you have when you started the Verdi Chorus? How does that compare to the Chorus in its 36th season?
 
 The Verdi Chorus had its beginnings in the Verdi Restaurant in Santa Monica, and was composed of opera loving patrons. My mission when I started it all was to give the members involved a chance to actually sing opera, not just appreciate it by going to it. They were so excited by this, and that is still very much a part of my mission, but it has expanded and opened up to sharing this beautiful music with the larger community of Los Angeles - not just with opera lovers, but with those who may not be as familiar.

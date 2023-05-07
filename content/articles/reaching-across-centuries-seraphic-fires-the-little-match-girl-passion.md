@@ -1,16 +1,25 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = "2018-01-22T12:48:00-05:00"
-lastmod = "2018-01-22T20:00:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516642874398/sq---SeraphicFire-40.jpg.jpg"
-publishDate = "2018-01-22T20:00:00-05:00"
-related_articles = ["articles/in-review-the-whisper-opera.md","articles/parts-passio-closes-seraphic-fires-passionate-season.md"]
-related_people = ["scene/people/amanda-crider.md"]
-short_description = "In his introduction, Quigley explained, &quot;We understand ‘passion&#039; to mean an exploration and a meditation on human suffering.&quot; The four works on the program shared this theme of suffering and loss, but Seraphic Fire transformed this superficial thematic similarity into a compelling and heartfelt story, building an innovative, accessible, and deeply moving experience far beyond delineation into categories of time period or genre."
-slug = "reaching-across-centuries-seraphic-fires-the-little-match-girl-passion"
-title = "Reaching across centuries: Seraphic Fire&#039;s the little match girl passion"
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2018-01-22T12:48:00-05:00"
+lastmod: "2018-01-22T20:00:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516642874398/sq---SeraphicFire-40.jpg.jpg
+publishDate: "2018-01-22T20:00:00-05:00"
+related_articles:
+- articles/in-review-the-whisper-opera.md
+- articles/parts-passio-closes-seraphic-fires-passionate-season.md
+related_people:
+- scene/people/amanda-crider.md
+short_description: In his introduction, Quigley explained, &quot;We understand ‘passion&#039;
+  to mean an exploration and a meditation on human suffering.&quot; The four works
+  on the program shared this theme of suffering and loss, but Seraphic Fire transformed
+  this superficial thematic similarity into a compelling and heartfelt story, building
+  an innovative, accessible, and deeply moving experience far beyond delineation into
+  categories of time period or genre.
+slug: reaching-across-centuries-seraphic-fires-the-little-match-girl-passion
+title: 'Reaching across centuries: Seraphic Fire&#039;s the little match girl passion'
+---
 
 In his original program note to accompany *the little match girl passion*, [David Lang](/scene/people/david-lang/) concisely summed up the work's purpose: "I wanted to tell a story."
 

@@ -1,26 +1,28 @@
-+++
-discipline = "Bass"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1587928477/media/2020/04/RenePape-JiyangChen_owkgap.jpg"
-primary_image_credit = "Jiyang Chen"
-related_companies = ["scene/companies/opra-national-de-paris.md", "scene/companies/staatsoper-berlin.md", "scene/companies/wiener-staatsoper.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "rene-pape"
-title = "René Pape"
-website = "https://renepape.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/RenePapeOfficial/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/renepapebass"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/renepapebass/"
-
-_template = "people_single"
-+++
+---
+discipline: Bass
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1587928477/media/2020/04/RenePape-JiyangChen_owkgap.jpg
+primary_image_credit: Jiyang Chen
+related_companies:
+- scene/companies/opra-national-de-paris.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+slug: rene-pape
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/RenePapeOfficial/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/renepapebass
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/renepapebass/
+title: René Pape
+website: https://renepape.com/
+---
 Born in Dresden, Pape has been a member of the Berlin State Opera since 1988, but considers New York’s Metropolitan Opera his operatic “home away from home.” Since his house debut in 1995, he has appeared at the Met in 18 roles and more than 160 performances, including four major debuts: Méphistophélès in _Faust_, Gurnemanz in _Parsifal_, Escamillo in _Carmen_, and the Old Hebrew in _Samson et Dalila_. But it was at the famous Unter den Linden – home of the Berlin State Opera – where Pape honed most of the great roles of his career.
 
 Music Director Daniel Barenboim was an early supporter, and the Berlin State Opera has played host to Pape’s performances as King Marke in _Tristan und Isolde_; King Heinrich in _Lohengrin_; Sarastro in Mozart’s _Die Zauberflöte_; Pogner in _Die Meistersinger_; Rocco in Beethoven’s _Fidelio_; Fasolt in _Das Rheingold_; Hunding in _Die Walküre_; and the title role in _Don Giovanni_. The opera house was also the venue for Pape’s appearances as Ramfis in Verdi’s _Aida_; Figaro in Mozart’s _Le nozze di Figaro_; Leporello in _Don Giovanni_; and Orest in Strauss’s _Elektra_. In 2006 he expanded his repertoire to include the title role in _Boris Godunov_, which won him the title “Artist of the Year” from the German Critics Association.

@@ -1,22 +1,34 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-09-29T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Boston Lyric Opera's production of [_Pagliacci_](https://blo.org/pagliacci/) runs through October 6. "
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569692999/media/2019/09/sqPagBLO2019-PAG-7byLizaVoll_yx7lro.jpg"
-primary_image_credit = "Rafael Rojas (Canio) in Boston Lyric Opera's 2019 production of Leoncavallo's Pagliacci. Photo: Liza Voll."
-related_articles = ["articles/blo-barber-brings-delightful-laughter-amid-overdesign.md", "articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md"]
-related_companies = ["scene/companies/boston-lyric-opera-1.md"]
-related_people = ["scene/people/tobias-greenhalgh.md", "scene/people/rafael-rojas.md", "scene/people/michael-mayes.md", "scene/people/lauren-michelle.md", "scene/people/omar-najmi.md"]
-short_description = "This, combined with a note-complete love duet, was enough for the production to justify the bells and whistles of its carnival pre-show, and I found myself not wanting for Pagliacci's much-beloved double-bill partner Cavalleria rusticana."
-slug = "pagliacci-alone-makes-festive-shocking-season-opener"
-title = "Pagliacci alone makes festive, shocking season opener"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-09-29T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: 'Boston Lyric Opera''s production of [_Pagliacci_](https://blo.org/pagliacci/)
+  runs through October 6. '
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569692999/media/2019/09/sqPagBLO2019-PAG-7byLizaVoll_yx7lro.jpg
+primary_image_credit: 'Rafael Rojas (Canio) in Boston Lyric Opera''s 2019 production
+  of Leoncavallo''s Pagliacci. Photo: Liza Voll.'
+related_articles:
+- articles/blo-barber-brings-delightful-laughter-amid-overdesign.md
+- articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md
+related_companies:
+- scene/companies/boston-lyric-opera-1.md
+related_people:
+- scene/people/tobias-greenhalgh.md
+- scene/people/rafael-rojas.md
+- scene/people/michael-mayes.md
+- scene/people/lauren-michelle.md
+- scene/people/omar-najmi.md
+short_description: This, combined with a note-complete love duet, was enough for the
+  production to justify the bells and whistles of its carnival pre-show, and I found
+  myself not wanting for Pagliacci's much-beloved double-bill partner Cavalleria rusticana.
+slug: pagliacci-alone-makes-festive-shocking-season-opener
+title: Pagliacci alone makes festive, shocking season opener
+youtube_url: ""
+---
 Imagine for a second the following scene: an audience is ushered into a relatively small carnival by a train of clowns playing March of the Gladiators on kazoos. To one side, a matching game with ducks floating in water: whoever gets a matching pair wins a rubber ducky. To another, a refreshments table that sells saltwater taffy and cotton candy, among other popular carnival treats. Next to that, a stage shared alternately by an amateur choir and a duo of young jugglers.
 
 > The effect was disarming in a way that left the audience unprepared.

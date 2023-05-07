@@ -1,18 +1,30 @@
-+++
-author = ["authors/vivian-darkbloom.md"]
-categories = "Review"
-date = "2017-11-01T12:04:00-04:00"
-lastmod = "2017-11-01T12:31:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509552937502/2017-11-01---square---PR8A5280-LISETTE-OROPESA-AS-LUCIA%2C-CHARLES-CASTRONOVO-AS-EDGARDO-ROH.-PHOTO-BY-STEPHEN-CUMMISKEY.jpg.jpg"
-primary_image_credit = "Lisette Oropesa (Lucia) and Charles Castronovo (Edgardo) in Lucia di Lammermoor, ROH, 2017. Photo: Stephen Cummiskey."
-publishDate = "2017-11-01T12:23:00-04:00"
-related_articles = ["articles/in-review-lucia-di-lammermoor-at-roh.md","articles/talking-with-singers-lisette-oropesa.md","articles/a-luminous-lucia-at-florida-grand-opera.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/lisette-oropesa.md","scene/people/christopher-maltman.md","scene/people/charles-castronovo.md"]
-short_description = "It was even more refreshing to see a very real depiction of female pain on stage - something that could never be sterilised or downplayed. There was nothing but bravery from Oropesa as she navigated the emotional turmoil of the second half of the opera. "
-slug = "a-lucia-with-agency-and-independence-at-the-royal-opera-house"
-title = "A Lucia with agency and independence at the Royal Opera House"
-+++
+---
+author:
+- authors/vivian-darkbloom.md
+categories: Review
+date: "2017-11-01T12:04:00-04:00"
+lastmod: "2017-11-01T12:31:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509552937502/2017-11-01---square---PR8A5280-LISETTE-OROPESA-AS-LUCIA%2C-CHARLES-CASTRONOVO-AS-EDGARDO-ROH.-PHOTO-BY-STEPHEN-CUMMISKEY.jpg.jpg
+primary_image_credit: 'Lisette Oropesa (Lucia) and Charles Castronovo (Edgardo) in
+  Lucia di Lammermoor, ROH, 2017. Photo: Stephen Cummiskey.'
+publishDate: "2017-11-01T12:23:00-04:00"
+related_articles:
+- articles/in-review-lucia-di-lammermoor-at-roh.md
+- articles/talking-with-singers-lisette-oropesa.md
+- articles/a-luminous-lucia-at-florida-grand-opera.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/lisette-oropesa.md
+- scene/people/christopher-maltman.md
+- scene/people/charles-castronovo.md
+short_description: 'It was even more refreshing to see a very real depiction of female
+  pain on stage - something that could never be sterilised or downplayed. There was
+  nothing but bravery from Oropesa as she navigated the emotional turmoil of the second
+  half of the opera. '
+slug: a-lucia-with-agency-and-independence-at-the-royal-opera-house
+title: A Lucia with agency and independence at the Royal Opera House
+---
 
 I love a production that shakes up operagoers, and in its first season last year, [Katie Mitchell's production of *Lucia*](/in-review-lucia-di-lammermoor-at-roh/) did just that. People were up in arms about it. I saw it during the run and I was blown away by the intensity and beauty of the story. The the drama was unlike anything I'd ever seen from a bel canto opera and Lucia's fate brought me to floods of tears. It remains one of my favourite productions. Last night's revival of the show was a mixed experience for me. They’ve really taken a lot out of the show, I assume to please the ROH’s audience. Last year, I watched a wild Lucia unabashedly make love to Edgardo in the graveyard in Act I. I thought it was a powerful statement of her autonomy and her passion as a woman. This year, they'd removed the sensuality from the first act, something which I thought took away some of the power of the drama.
 

@@ -1,18 +1,35 @@
-+++
-author = ["authors/blanche-isral.md"]
-categories = "Review"
-date = "2017-09-19T11:07:00-04:00"
-lastmod = "2017-09-19T12:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505835673687/2017-09-19---3353_rinaldo17_gross.jpg.jpg"
-primary_image_credit = "Countertenor Jakub Józef Orliński plays the title role in Rinaldo at Oper Frankfurt, 2017. Photographer: Barbara Aumüller."
-publishDate = "2017-09-19T11:42:00-04:00"
-related_articles = ["articles/in-review-the-jette-parker-young-artists-present-oreste-.md","articles/ariodante-or-the-hebridean-handel.md"]
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = ["scene/people/jakub-jozef-orlinski.md","scene/people/elizabeth-reiter.md","scene/people/daniel-miroslaw.md","scene/people/karen-vuong.md","scene/people/brandon-cedel.md","scene/people/julia-dawson.md","scene/people/ted-huffman.md"]
-short_description = "Three tiny, nearly-nude dancers painted from head to toe acted as freaky humanoid henchwomen to Armida. These impish women did Armida&#039;s bidding, transforming at different points into a three-headed monster, a forest, or mermaids, and stopping time to control various characters. A particularly striking moment was when Rinaldo sang &quot;Abbruggio, avampo, e fremo&quot; while being tormented and yanked around by the imps on three long ropes. "
-slug = "dynamic-and-physical-rinaldo-at-oper-frankfurt"
-title = "Dynamic and physical: Rinaldo at Oper Frankfurt"
-+++
+---
+author:
+- authors/blanche-isral.md
+categories: Review
+date: "2017-09-19T11:07:00-04:00"
+lastmod: "2017-09-19T12:08:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505835673687/2017-09-19---3353_rinaldo17_gross.jpg.jpg
+primary_image_credit: 'Countertenor Jakub Józef Orliński plays the title role in Rinaldo
+  at Oper Frankfurt, 2017. Photographer: Barbara Aumüller.'
+publishDate: "2017-09-19T11:42:00-04:00"
+related_articles:
+- articles/in-review-the-jette-parker-young-artists-present-oreste-.md
+- articles/ariodante-or-the-hebridean-handel.md
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people:
+- scene/people/jakub-jozef-orlinski.md
+- scene/people/elizabeth-reiter.md
+- scene/people/daniel-miroslaw.md
+- scene/people/karen-vuong.md
+- scene/people/brandon-cedel.md
+- scene/people/julia-dawson.md
+- scene/people/ted-huffman.md
+short_description: 'Three tiny, nearly-nude dancers painted from head to toe acted
+  as freaky humanoid henchwomen to Armida. These impish women did Armida&#039;s bidding,
+  transforming at different points into a three-headed monster, a forest, or mermaids,
+  and stopping time to control various characters. A particularly striking moment
+  was when Rinaldo sang &quot;Abbruggio, avampo, e fremo&quot; while being tormented
+  and yanked around by the imps on three long ropes. '
+slug: dynamic-and-physical-rinaldo-at-oper-frankfurt
+title: 'Dynamic and physical: Rinaldo at Oper Frankfurt'
+---
 
 A few years back, while working for [Tafelmusik](/scene/companies/tafelmusik-baroque-orchestra-chamber-choir/) in Toronto, I was introduced to the concept of Baroque music as alternative and irreverent. Baroque is, by design, full of revolution, and performances of Baroque music today are at their best when they are exploratory and used as a space to play. A new production of Georg Friedrich Handel's tricentenarian [*Rinaldo*](http://www.oper-frankfurt.de/en/season-calendar/rinaldo/?id_datum=990) at [Oper Frankfurt](/scene/companies/oper-frankfurt/), set in the company's alternative space - an old streetcar hangar turned theatre in the early 90s, the Bockenheimer Depot - took that to a delicious extreme and showcased North American style in both the cast and creative team.
 

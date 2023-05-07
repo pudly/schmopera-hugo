@@ -1,24 +1,26 @@
-+++
-date = "2018-01-28T17:58:00-05:00"
-discipline = "Conductor"
-lastmod = "2018-01-28T17:58:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517179973749/GEJ%20portrait%20colour%20%C2%A9%20Alexa%20Wilding.jpg.jpg"
-primary_image_credit = "Alexa Wilding"
-publishDate = "2018-01-28T17:58:00-05:00"
-related_companies = ["scene/companies/opera-holland-park.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md"]
-slug = "george-jackson"
-title = "George Jackson"
-website = "http://www.georgejackson.net/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/george.h.jackson"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ConductorGeorge"
-_template = "people_single"
-+++
+---
+date: "2018-01-28T17:58:00-05:00"
+discipline: Conductor
+lastmod: "2018-01-28T17:58:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517179973749/GEJ%20portrait%20colour%20%C2%A9%20Alexa%20Wilding.jpg.jpg
+primary_image_credit: Alexa Wilding
+publishDate: "2018-01-28T17:58:00-05:00"
+related_companies:
+- scene/companies/opera-holland-park.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opra-national-de-paris.md
+slug: george-jackson
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/george.h.jackson
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/ConductorGeorge
+title: George Jackson
+website: http://www.georgejackson.net/
+---
 
 Winner of the 2015 Aspen Conducting Prize, London-born conductor George Jackson came to international attention after stepping in at short notice with the ORF Vienna Radio Symphony Orchestra, conducting the Austrian premiere of Michael Jarrell’s *Ombres*. Highlights in 2018 include his company debut in Opera Holland Park’s new production of *Così Fan Tutte*. In 2017 he made his Hamburg State Opera debut, conducting *Immer weiter* by Irene Galindo Quero and Jesse Boekman.
 

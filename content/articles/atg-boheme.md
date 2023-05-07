@@ -1,22 +1,37 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2019-10-20T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Visit their website for full details about [Against the Grain Theatre's production of _La bohème_](http://againstthegraintheatre.com/la-boheme/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571593820/media/2019/10/sqATG_Banff-5051_thl3pt.jpg"
-primary_image_credit = "The cast of Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo courtesy of the Banff Centre."
-related_articles = ["articles/transladapted-bohème-offers-fresh-intimate-production-for-national-tour.md", "articles/winnipeg-boheme.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/jonelle-sills.md", "scene/people/marcel-dentremont.md", "scene/people/clarence-frazer.md", "scene/people/joel-ivany.md", "scene/people/giles-tomkins.md", "scene/people/gregory-finney.md", "scene/people/danika-lorn.md"]
-short_description = "For those paying attention, Ivany's libretto only updates details, the kind that are in place to connect character with audience. If we were to strip away the hipster scarves and references to manscaping and BMV, we're still left with the original personalities from the libretto by Illica and Giacosa."
-slug = "the-bohos-come-home-atgs-boheme-is-back-at-the-dive-bar"
-title = "The Bohos come home: AtG's Bohème is back at the (dive) bar"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2019-10-20T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Visit their website for full details about [Against the Grain Theatre's
+  production of _La bohème_](http://againstthegraintheatre.com/la-boheme/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571593820/media/2019/10/sqATG_Banff-5051_thl3pt.jpg
+primary_image_credit: The cast of Against the Grain Theatre's touring production of
+  La bohème, photographed in Banff, AB, 2019. Photo courtesy of the Banff Centre.
+related_articles:
+- articles/transladapted-bohème-offers-fresh-intimate-production-for-national-tour.md
+- articles/winnipeg-boheme.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/jonelle-sills.md
+- scene/people/marcel-dentremont.md
+- scene/people/clarence-frazer.md
+- scene/people/joel-ivany.md
+- scene/people/giles-tomkins.md
+- scene/people/gregory-finney.md
+- scene/people/danika-lorn.md
+short_description: For those paying attention, Ivany's libretto only updates details,
+  the kind that are in place to connect character with audience. If we were to strip
+  away the hipster scarves and references to manscaping and BMV, we're still left
+  with the original personalities from the libretto by Illica and Giacosa.
+slug: the-bohos-come-home-atgs-boheme-is-back-at-the-dive-bar
+title: 'The Bohos come home: AtG''s Bohème is back at the (dive) bar'
+youtube_url: ""
+---
 Eight years later, and the rent is still too damn high.
 
 By all operatic accounts, Against the Grain Theatre has "made it" with their production of _La bohème_. It's a scrappy [transladaptation](/transladapted-boheme-offers-fresh-intimate-production-for-national-tour/) of Puccini's 1896 smash hit, first put up in 2011 in a seedy bar and with a seedy budget; and in less than a decade, the compact indie opera group has achieved what's really rare among Canadian companies, reviving it not once but twice, and even sending the whole thing on a [cross-country tour](http://againstthegraintheatre.com/la-boheme/).

@@ -1,16 +1,22 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2018-07-02T12:07:00-04:00"
-lastmod = "2018-07-05T11:12:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530547643603/sqDSC_4942.jpg.jpg"
-primary_image_credit = "Pacific Opera Project's production of La gazzetta, 2018. Photo: Martha Benedict.÷"
-publishDate = "2018-07-02T12:07:00-04:00"
-related_articles = ["articles/dont-miss-la-gazzetta-.md"]
-short_description = "All the antics amount to nothing more than a big helium balloon and to keep the whole enterprise on the ground, director and designer Josh Shaw has approached it as if it were a musical-comedy. Every &quot;song&quot; is a &quot;number&quot; filled with coordinated movements and choreography."
-slug = "la-gazzetta-the-funny-papers"
-title = "La Gazzetta: The Funny Papers"
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2018-07-02T12:07:00-04:00"
+lastmod: "2018-07-05T11:12:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530547643603/sqDSC_4942.jpg.jpg
+primary_image_credit: 'Pacific Opera Project''s production of La gazzetta, 2018. Photo:
+  Martha Benedict.÷'
+publishDate: "2018-07-02T12:07:00-04:00"
+related_articles:
+- articles/dont-miss-la-gazzetta-.md
+short_description: All the antics amount to nothing more than a big helium balloon
+  and to keep the whole enterprise on the ground, director and designer Josh Shaw
+  has approached it as if it were a musical-comedy. Every &quot;song&quot; is a &quot;number&quot;
+  filled with coordinated movements and choreography.
+slug: la-gazzetta-the-funny-papers
+title: 'La Gazzetta: The Funny Papers'
+---
 
 When most opera lovers hear the name Rossini, they immediately think of *Il barbiere di Siviglia*, *La Cenerentola*, *Tancredi* or a few of his other titles that have made it into the worldwide repertory. Some might not even think of his operas as much as they think of his great opera overtures, such as his famous composition for *Guillaume Tell* (often performed as an orchestral piece.) Most will not think of the other thirty-plus Rossini operas that are hardly performed and which rarely see "the light of stage."
 

@@ -1,19 +1,49 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-11-20T21:57:00-05:00"
-lastmod = "2015-11-23T10:14:00-05:00"
-preamble = "[Jeunesses Musicales du Canada](/scene/companies/jeunesses-musicales-canada/) is about getting more people, young people in particular, listening to classical music, and getting emerging artists to present it. Part of JMC's annual calendar of around 1600 concerts and workshops is a touring operatic production, and this year's pick is Gounod's [*Roméo et Juliette*](http://www.jmcanada.ca/en/concerts/38/romeo-and-juliet---opera-by-charles-gounod). A cast of six singers and one pianist bring the production, directed by [Oriol Tomas](http://www.orioltomas.com/), around Québec, New Brunswick, and Nova Scotia. [Myriam Leblanc](/scene/people/myriam-leblanc/) is Juliette, opposite both [Tonatiuh Abrego](/scene/people/tonatiuh-abrego/) and [Marcel d'Entremont](/scene/people/marcel-dentremont/), alternating performances of Roméo; when they're not singing the title role, they sing Tybalt. Baritone [Geoffroy Salvas](/scene/people/geoffroy-salvas/) sings Mercutio, bass [Dylan Wright](/scene/people/dylan-wright/) is Capulet and Frère Laurent, and mezzo-soprano [Katrina Westin](/scene/people/katrina-westin/) sings Gertrude and Stephano. I asked the cast of singers, as well as pianist/orchestra [Carol-Anne Fraser](/scene/people/carol-anne-fraser/), about the demands and rewards of singing in a JMC tour."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448289971387/2015-11-22---JMCSquare.jpg.jpg"
-primary_image_credit = "Marcel d'Entremont, Dylan Wright, Myriam Leblanc, Tonatiuh Abrego, Katrina Westin, and Geoffroy Salvas. Photo by Antoine Saito."
-publishDate = "2015-11-23T09:33:00-05:00"
-related_articles = ["articles/on-the-road-the-bicycle-opera-project.md"]
-related_companies = ["scene/companies/jeunesses-musicales-canada.md"]
-related_people = ["scene/people/myriam-leblanc.md","scene/people/marcel-dentremont.md","scene/people/tonatiuh-abrego.md","scene/people/katrina-westin.md","scene/people/dylan-wright.md","scene/people/geoffroy-salvas.md","scene/people/carolanne-fraser.md"]
-short_description = "Jeunesses Musicales du Canada is about getting more people, young people in particular, listening to classical music, and getting emerging artists to present it. Part of JMC&#039;s annual calendar of around 1600 concerts and workshops is a touring operatic production, and this year&#039;s pick is Gounod&#039;s Roméo et Juliette. A cast of six singers and one pianist bring the production, directed by Oriol Thomas, around Québec, New Brunswick, and Nova Scotia."
-slug = "on-the-road-jmc-romeo-juliette"
-title = "On the road with JMC&#039;s Roméo et Juliette"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-11-20T21:57:00-05:00"
+lastmod: "2015-11-23T10:14:00-05:00"
+preamble: '[Jeunesses Musicales du Canada](/scene/companies/jeunesses-musicales-canada/)
+  is about getting more people, young people in particular, listening to classical
+  music, and getting emerging artists to present it. Part of JMC''s annual calendar
+  of around 1600 concerts and workshops is a touring operatic production, and this
+  year''s pick is Gounod''s [*Roméo et Juliette*](http://www.jmcanada.ca/en/concerts/38/romeo-and-juliet---opera-by-charles-gounod).
+  A cast of six singers and one pianist bring the production, directed by [Oriol Tomas](http://www.orioltomas.com/),
+  around Québec, New Brunswick, and Nova Scotia. [Myriam Leblanc](/scene/people/myriam-leblanc/)
+  is Juliette, opposite both [Tonatiuh Abrego](/scene/people/tonatiuh-abrego/) and
+  [Marcel d''Entremont](/scene/people/marcel-dentremont/), alternating performances
+  of Roméo; when they''re not singing the title role, they sing Tybalt. Baritone [Geoffroy
+  Salvas](/scene/people/geoffroy-salvas/) sings Mercutio, bass [Dylan Wright](/scene/people/dylan-wright/)
+  is Capulet and Frère Laurent, and mezzo-soprano [Katrina Westin](/scene/people/katrina-westin/)
+  sings Gertrude and Stephano. I asked the cast of singers, as well as pianist/orchestra
+  [Carol-Anne Fraser](/scene/people/carol-anne-fraser/), about the demands and rewards
+  of singing in a JMC tour.'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448289971387/2015-11-22---JMCSquare.jpg.jpg
+primary_image_credit: Marcel d'Entremont, Dylan Wright, Myriam Leblanc, Tonatiuh Abrego,
+  Katrina Westin, and Geoffroy Salvas. Photo by Antoine Saito.
+publishDate: "2015-11-23T09:33:00-05:00"
+related_articles:
+- articles/on-the-road-the-bicycle-opera-project.md
+related_companies:
+- scene/companies/jeunesses-musicales-canada.md
+related_people:
+- scene/people/myriam-leblanc.md
+- scene/people/marcel-dentremont.md
+- scene/people/tonatiuh-abrego.md
+- scene/people/katrina-westin.md
+- scene/people/dylan-wright.md
+- scene/people/geoffroy-salvas.md
+- scene/people/carolanne-fraser.md
+short_description: Jeunesses Musicales du Canada is about getting more people, young
+  people in particular, listening to classical music, and getting emerging artists
+  to present it. Part of JMC&#039;s annual calendar of around 1600 concerts and workshops
+  is a touring operatic production, and this year&#039;s pick is Gounod&#039;s Roméo
+  et Juliette. A cast of six singers and one pianist bring the production, directed
+  by Oriol Thomas, around Québec, New Brunswick, and Nova Scotia.
+slug: on-the-road-jmc-romeo-juliette
+title: On the road with JMC&#039;s Roméo et Juliette
+---
 
 ## The demands of a tour
 

@@ -1,18 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-10-08T23:23:00-04:00"
-lastmod = "2015-10-09T11:53:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444360426087/Traviata-MC-1052Square.jpg.jpg"
-primary_image_credit = "Charles Castronovo as Alfredo and Ekaterina Siurina as Violetta in La Traviata, 2015. Photo: Michael Cooper."
-publishDate = "2015-10-09T11:29:00-04:00"
-related_articles = ["articles/in-review-la-traviata-at-roh.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
-related_people = ["scene/people/ekaterina-siurina.md","scene/people/charles-castronovo.md","scene/people/quinn-kelsey.md","scene/people/marco-guidarini.md","scene/people/james-westman.md","scene/people/aviva-fortunata.md","scene/people/lauren-segal.md","scene/people/robert-gleadow.md","scene/people/iain-macneil.md","scene/people/charles-sy.md"]
-short_description = "Last night the Canadian Opera Company opened its new production of La traviata, and I was officially excited. La traviata is done often, but it&#039;s another thing to hear it done really well. I got my fix at the Four Seasons Centre with the first of two casts singing the 11 shows between now and November 6th."
-slug = "in-review-la-traviata-at-the-coc"
-title = "In review: La traviata at the COC"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-10-08T23:23:00-04:00"
+lastmod: "2015-10-09T11:53:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444360426087/Traviata-MC-1052Square.jpg.jpg
+primary_image_credit: 'Charles Castronovo as Alfredo and Ekaterina Siurina as Violetta
+  in La Traviata, 2015. Photo: Michael Cooper.'
+publishDate: "2015-10-09T11:29:00-04:00"
+related_articles:
+- articles/in-review-la-traviata-at-roh.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+related_people:
+- scene/people/ekaterina-siurina.md
+- scene/people/charles-castronovo.md
+- scene/people/quinn-kelsey.md
+- scene/people/marco-guidarini.md
+- scene/people/james-westman.md
+- scene/people/aviva-fortunata.md
+- scene/people/lauren-segal.md
+- scene/people/robert-gleadow.md
+- scene/people/iain-macneil.md
+- scene/people/charles-sy.md
+short_description: Last night the Canadian Opera Company opened its new production
+  of La traviata, and I was officially excited. La traviata is done often, but it&#039;s
+  another thing to hear it done really well. I got my fix at the Four Seasons Centre
+  with the first of two casts singing the 11 shows between now and November 6th.
+slug: in-review-la-traviata-at-the-coc
+title: 'In review: La traviata at the COC'
+---
 
 Last night the [Canadian Opera Company](/scene/canadian-opera-company/) opened its new production of [*La traviata*](http://coc.ca/PerformancesAndTickets/1516Season/LaTraviata.aspx), and I was officially excited. *La traviata* is done often, but it's another thing to hear it done really well. I got my fix at the Four Seasons Centre with the first of two casts singing the 11 shows between now and November 6th.
 

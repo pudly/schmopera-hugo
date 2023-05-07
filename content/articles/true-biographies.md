@@ -1,12 +1,13 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-10-21T15:46:00+01:00"
-draft = true
-lastmod = "2016-10-21T17:58:00+01:00"
-slug = "true-biographies"
-title = "True biographies"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-10-21T15:46:00+01:00"
+draft: true
+lastmod: "2016-10-21T17:58:00+01:00"
+slug: true-biographies
+title: True biographies
+---
 
 - I'm a baritone, but I can also sing the stuff that is uncomfortably high for a lot of us, like French stuff and Billy Budd. I went to school in American East Coast City, but because I'm under 40 you won't see me at the Met (yet). I'm not afraid of singing in English, and I'm pretty good at learning music without a recording, so composers call me to try out their new stuff. I work out, so I'm fun in roles like Papageno and Mercutio, and I'm comfortable taking off my shirt onstage. I've also been on Barihunks.
 

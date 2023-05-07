@@ -1,14 +1,18 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2017-01-16T10:28:00+00:00"
-lastmod = "2017-01-17T11:38:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484564674501/2017-01-16---Film.jpg.jpg"
-publishDate = "2017-01-16T11:52:00+00:00"
-short_description = "The films&#039; stories are diverse: an intoxicated Elvis in a kebab shop, a young ghazal singer pursuing her dreams, a fish who sings its own requiem, and one tenor&#039;s take on Carmina Burana that promises to be &quot;the biggest, boldest, and sexiest operatic flash mob the internet has ever witnessed.&quot;"
-slug = "everyday-arias-presents-14-new-opera-film-shorts"
-title = "Everyday Arias presents 14 new opera film shorts"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2017-01-16T10:28:00+00:00"
+lastmod: "2017-01-17T11:38:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484564674501/2017-01-16---Film.jpg.jpg
+publishDate: "2017-01-16T11:52:00+00:00"
+short_description: 'The films&#039; stories are diverse: an intoxicated Elvis in a
+  kebab shop, a young ghazal singer pursuing her dreams, a fish who sings its own
+  requiem, and one tenor&#039;s take on Carmina Burana that promises to be &quot;the
+  biggest, boldest, and sexiest operatic flash mob the internet has ever witnessed.&quot;'
+slug: everyday-arias-presents-14-new-opera-film-shorts
+title: Everyday Arias presents 14 new opera film shorts
+---
 
 London-area opera fans and film buffs alike are in for a treat this month. *Everyday Arias* presents a collection of short opera films, to be screened at the Republic Gallery, East India, 2 Clove Crescent, on **January 21, 7-9:00pm**, and at Grosvenor Casino (near Piccadilly Station) on **January 28, 12-2:00pm**.
 

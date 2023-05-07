@@ -1,22 +1,37 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2021-09-21T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Readers, what have you read lately that you'd love to see in opera form? Let us know in the comments below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "Here's a surprising truth I've learned from raising a small human: the reading material is excellent. In the last four years, I've read hundreds of kids' books, and though they're not all masterpieces, there's certainly something to marvel at in their construction. Simple and evocative language, a close relationship between visuals and text, even a few great rhymes thrown around — this is the stuff of excellent children's literature. And in case I'm not clearly driving my point home, the stuff of great operas. So, here are my current picks for great kids' lit that are ready for their operatic treatment:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1632245168/media/2021/09/ChildrensBooks_b6yikh.jpg"
-primary_image_credit = ""
-related_articles = ["articles/3-life-lessons-that-practice-rooms-can-teach-you.md", "articles/4-awesome-rage-arias-that-arent-the-queen-of-the-night.md", "articles/5-people-who-would-make-great-opera-roles.md", "articles/5-books-that-should-be-operas.md"]
-related_companies = []
-related_people = []
-short_description = "Simple and evocative language, a close relationship between visuals and text, even a few great rhymes thrown around — this is the stuff of excellent children's literature. And in case I'm not clearly driving my point home, the stuff of great operas."
-slug = "3-childrens-books-that-would-make-excellent-operas"
-title = "3 children's books that would make excellent operas"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2021-09-21T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Readers, what have you read lately that you'd love to see in opera form?
+  Let us know in the comments below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+preamble: 'Here''s a surprising truth I''ve learned from raising a small human: the
+  reading material is excellent. In the last four years, I''ve read hundreds of kids''
+  books, and though they''re not all masterpieces, there''s certainly something to
+  marvel at in their construction. Simple and evocative language, a close relationship
+  between visuals and text, even a few great rhymes thrown around — this is the stuff
+  of excellent children''s literature. And in case I''m not clearly driving my point
+  home, the stuff of great operas. So, here are my current picks for great kids''
+  lit that are ready for their operatic treatment:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1632245168/media/2021/09/ChildrensBooks_b6yikh.jpg
+primary_image_credit: ""
+related_articles:
+- articles/3-life-lessons-that-practice-rooms-can-teach-you.md
+- articles/4-awesome-rage-arias-that-arent-the-queen-of-the-night.md
+- articles/5-people-who-would-make-great-opera-roles.md
+- articles/5-books-that-should-be-operas.md
+related_companies: []
+related_people: []
+short_description: Simple and evocative language, a close relationship between visuals
+  and text, even a few great rhymes thrown around — this is the stuff of excellent
+  children's literature. And in case I'm not clearly driving my point home, the stuff
+  of great operas.
+slug: 3-childrens-books-that-would-make-excellent-operas
+title: 3 children's books that would make excellent operas
+youtube_url: ""
+---
 ## _A Promise is a Promise_, Robert Munsch, Michael Kusugak, and Vladyana Krykorka
 
 If you grew up in Canada, there's a great chance that you read [_A Promise is a Promise_](https://robertmunsch.com/book/a-promise-is-a-promise-2) - and if you were an imaginative kid like I was, you had a few bad dreams about it. Munch's 1992  book is based on the legend of the [Qallupilluit](https://en.wikipedia.org/wiki/Qallupilluit), the terrifying figures of Inuit folklore who are said to live under the ice in the sea, and who kidnap ill-behaved children. It's one of those stories designed to keep children safe — as in, don't go out on the sea ice — but in doing so, potentially freaks them utterly out. Just look at the book cover: that horrid hand cracking out of the ice? It's just the start, as anyone who's seen Krykorka's hideous-magical renderings of the Qallupilluit knows.

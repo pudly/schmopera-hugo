@@ -1,15 +1,18 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-11-14T14:53:00+00:00"
-lastmod = "2016-12-02T10:51:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480605865859/2016-12-1---Hands.jpg.jpg"
-publishDate = "2016-12-02T10:37:00+00:00"
-short_description = "Our theory is that there&#039;s more nature than nurture in each pianist&#039;s preferred page-turning hand. For us, it&#039;s our left, because we find ease in a motion across the body, towards the bottom-right corner of the page; in turning the page, our left hand retracts swiftly back into playing position."
-slug = "being-a-helpful-pianist-which-is-your-page-turning-hand"
-title = "Being a helpful pianist: which is your page-turning hand?"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-11-14T14:53:00+00:00"
+lastmod: "2016-12-02T10:51:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480605865859/2016-12-1---Hands.jpg.jpg
+publishDate: "2016-12-02T10:37:00+00:00"
+short_description: Our theory is that there&#039;s more nature than nurture in each
+  pianist&#039;s preferred page-turning hand. For us, it&#039;s our left, because
+  we find ease in a motion across the body, towards the bottom-right corner of the
+  page; in turning the page, our left hand retracts swiftly back into playing position.
+slug: being-a-helpful-pianist-which-is-your-page-turning-hand
+title: 'Being a helpful pianist: which is your page-turning hand?'
+---
 Even though pianists can boast some level of extraordinary abilities when it comes to being ambidextrous, we too are subject to our natural tendencies to favour our right or left hand.
 
 Let's set aside for a moment what our limb-favouring means for our technique at the piano. Instead, let's focus for a moment on that other tangential art to being a pianist - in particular, a pianist who works with singers - turning pages.

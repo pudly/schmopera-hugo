@@ -1,18 +1,21 @@
-+++
-date = "2017-11-27T18:25:00-05:00"
-discipline = "Bass-baritone"
-lastmod = "2017-11-27T18:25:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511824997263/223920_750.jpg.jpg"
-publishDate = "2017-11-27T18:25:00-05:00"
-related_companies = ["scene/companies/opera-theatre-of-st-louis.md","scene/companies/merola-opera-program.md","scene/companies/songfest.md"]
-slug = "josh-quinn"
-title = "Josh Quinn"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/jdquinnster/"
-_template = "people_single"
-+++
+---
+date: "2017-11-27T18:25:00-05:00"
+discipline: Bass-baritone
+lastmod: "2017-11-27T18:25:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511824997263/223920_750.jpg.jpg
+publishDate: "2017-11-27T18:25:00-05:00"
+related_companies:
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/merola-opera-program.md
+- scene/companies/songfest.md
+slug: josh-quinn
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/jdquinnster/
+title: Josh Quinn
+---
 
 Josh Quinn (Lucifer), Baritone, has been praised for his “butter-smooth timbral beauty” (Boston Musical Intelligencer) and for vocalism to which one should “sit up and take listen” (Dallas News). As a Gerdine Young Artist at the Opera Theatre of Saint Louis for two seasons, he sang the roles of the 2nd Commissioner in *Dialogues of the Carmelites* and Rabonnier in *La Rondine*. He also covered the Marquis in *Dialogues of the Carmelites*, Leo Stein in the world premiere of Ricky Ian Gordon’s *27*, Rambaldo in *La Rondine*, and Isacio in the US premiere of Handel’s *Richard the Lionheart*. 
 

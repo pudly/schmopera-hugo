@@ -1,22 +1,28 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = 2023-01-18T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1673808959/media/2023/01/sq_Trade_Mary_Motorhead_Baranova-7347_dgub6p.jpg"
-primary_image_credit = "Naomi Louisa O'Connell in Trade/Mary Motorhead, Prototype Festival, 2023. Photo: Richard Termine."
-related_articles = ["articles/angel-s-bone.md", "articles/note-to-a-friend-matters-of-life-and-death.md"]
-related_companies = ["scene/companies/beth-morrison-projects.md"]
-related_people = []
-short_description = "Their interaction is so believable that we feel as if we are peering through the keyhole of the motel room where they've met for their illicit encounter. We forget we're watching something on a stage."
-slug = "trade-mary-motorhead-music-in-the-background"
-title = "Trade/Mary Motorhead: music in the background"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2023-01-18T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1673808959/media/2023/01/sq_Trade_Mary_Motorhead_Baranova-7347_dgub6p.jpg
+primary_image_credit: 'Naomi Louisa O''Connell in Trade/Mary Motorhead, Prototype
+  Festival, 2023. Photo: Richard Termine.'
+related_articles:
+- articles/angel-s-bone.md
+- articles/note-to-a-friend-matters-of-life-and-death.md
+related_companies:
+- scene/companies/beth-morrison-projects.md
+related_people: []
+short_description: Their interaction is so believable that we feel as if we are peering
+  through the keyhole of the motel room where they've met for their illicit encounter.
+  We forget we're watching something on a stage.
+slug: trade-mary-motorhead-music-in-the-background
+title: 'Trade/Mary Motorhead: music in the background'
+youtube_url: ""
+---
 When are operas more like plays with music? Answer: the double-bill _Trade/Mary Motorhead_ by Irish composer Emma O'Halloran, presented as part of the [Prototype Festival](https://prototypefestival.org/shows/trade/). The two one-act plays have compelling stories and while both are billed as operas, and both are sung-through, the music doesn't add much. In fact, in the one-person opener, the monodrama _Mary Motorhead_, the musical elements push things overboard, and in the two-hander _Trade_, even the singing feels like underscoring. It's no surprise that both pieces were originally well-written plays (by Emma's writer-uncle Mark O'Halloran) and so they form strong libretti.
 
 What an extraordinary talent is Naomi Louisa O’Connell, who plays the titular Mary Motorhead. Her sonorous soprano and acting skills demand our attention for the entire half-hour running time of the piece. But it’s the performance and the story, the direction by Tom Creed and the co-starring lighting design by Christopher Kuhl that sell the proceedings. (The exact same thing can be said for _Trade_.)

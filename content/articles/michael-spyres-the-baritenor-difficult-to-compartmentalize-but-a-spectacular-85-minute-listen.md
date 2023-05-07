@@ -1,22 +1,32 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2022-09-01T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1661971487/media/2022/08/Michael_Spyres_Baritenor_CD_Digi_Cover_06_ydkh0f.jpg"
-primary_image_credit = "BariTenor, features a collection of 18 arias from the Baritone and Tenor repertoires spanning three centuries and 15 composers in a record-setting 85 minute recording. Photo: Warner/Erato."
-related_articles = ["articles/fachisms-stereotypes-for-a-reason.md", "articles/amici-e-rivali-two-gentlemen-and-friendly-rivalry-in-verona.md"]
-related_companies = []
-related_people = ["scene/people/lawrence-brownlee.md", "scene/people/michael-spyres.md"]
-short_description = "The recording, a luxurious and record-setting 85 minutes of burnished virtuosity, is spread over 18 arias spanning three centuries and 15 composers. Spyres straddles the tenor and baritone repertoires so stylishly as to approach a state of operatic titillation, if there was was such a thing."
-slug = "michael-spyres-the-baritenor-difficult-to-compartmentalize-but-spectacular-85-min-listen"
-title = "Michael Spyres the BariTenor, difficult to compartmentalize — but a spectacular 85-minute listen"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2022-09-01T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1661971487/media/2022/08/Michael_Spyres_Baritenor_CD_Digi_Cover_06_ydkh0f.jpg
+primary_image_credit: 'BariTenor, features a collection of 18 arias from the Baritone
+  and Tenor repertoires spanning three centuries and 15 composers in a record-setting
+  85 minute recording. Photo: Warner/Erato.'
+related_articles:
+- articles/fachisms-stereotypes-for-a-reason.md
+- articles/amici-e-rivali-two-gentlemen-and-friendly-rivalry-in-verona.md
+related_companies: []
+related_people:
+- scene/people/lawrence-brownlee.md
+- scene/people/michael-spyres.md
+short_description: The recording, a luxurious and record-setting 85 minutes of burnished
+  virtuosity, is spread over 18 arias spanning three centuries and 15 composers. Spyres
+  straddles the tenor and baritone repertoires so stylishly as to approach a state
+  of operatic titillation, if there was was such a thing.
+slug: michael-spyres-the-baritenor-difficult-to-compartmentalize-but-spectacular-85-min-listen
+title: Michael Spyres the BariTenor, difficult to compartmentalize — but a spectacular
+  85-minute listen
+youtube_url: ""
+---
 [Michael Spyres](/scene/people/michael-spyres/), the extraordinary baritone, tenor (and, when called upon, countertenor) is not easily compartmentalized. Starting out as a baritone he spent several years in that vocal range before realizing his tenor capabilities. For the record the term baritone derives from the Greek meaning “heavy” while tenor is Latin for "to hold." Spyres, then, must combine the dark and _heavy_ lower range with the ability to produce and to _hold_ coloratura expressions. He does all of that—and more.
 
 Baritenor is not simply a clever name for _BariTenor_, the terrific new recording from Spyres. It's also a type of voice, albeit a rare one, that doesn't easily fit into the traditional "_Fach_" system (German for "compartment") used throughout the world but especially in German-speaking countries to classify the voices of opera singers. These types and sub-types, many overlapping each other, are assigned so as not to enlist a singer for a role unsuited to his or her voice. But in Spyres' case he needs multiple listings.

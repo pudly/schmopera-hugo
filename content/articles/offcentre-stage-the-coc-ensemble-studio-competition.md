@@ -1,17 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2018-11-02T18:26:00-04:00"
-lastmod = "2018-11-02T22:31:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541197542523/sqCentreStage.jpg.jpg"
-primary_image_credit = "(l-r): Ensemble Studio competition finalists Vartan Gabrielian, Jamie Groote, and Matthew Cairns, Centre Stage, 2018. Photo: Michael Cooper."
-publishDate = "2018-11-02T18:26:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/canadian-opera-company.md"]
-short_description = "It&#039;s a lot of hype for one night, and only part of it is open to the public. The competitors sing one closed round before the crowd files in for the second, and after the competition is done, the singers are whisked away for a gala dinner with their colleagues - and most notably, the evening&#039;s donors."
-slug = "off-centre-stage-the-coc-ensemble-studio-competition"
-title = "Off-Centre Stage: the COC Ensemble Studio Competition"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2018-11-02T18:26:00-04:00"
+lastmod: "2018-11-02T22:31:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541197542523/sqCentreStage.jpg.jpg
+primary_image_credit: '(l-r): Ensemble Studio competition finalists Vartan Gabrielian,
+  Jamie Groote, and Matthew Cairns, Centre Stage, 2018. Photo: Michael Cooper.'
+publishDate: "2018-11-02T18:26:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+short_description: It&#039;s a lot of hype for one night, and only part of it is open
+  to the public. The competitors sing one closed round before the crowd files in for
+  the second, and after the competition is done, the singers are whisked away for
+  a gala dinner with their colleagues - and most notably, the evening&#039;s donors.
+slug: off-centre-stage-the-coc-ensemble-studio-competition
+title: 'Off-Centre Stage: the COC Ensemble Studio Competition'
+---
 Lured by curiosity to see the up-and-comers in Canada's opera scene, the Four Seasons Centre welcomed a healthy crowd to this year's Centre Stage. The annual competition is a culmination of nation-wide auditions by the Canadian Opera Company; eight finalists make it to this final round, where they're featured on the big stage, along with Music Director Johannes Debus leading the COC Orchestra.
 
 It's a lot of hype for one night, and only part of it is open to the public. The competitors sing one closed round before the crowd files in for the second, and after the competition is done, the singers are whisked away for a gala dinner with their colleagues - and most notably, the evening's donors.

@@ -1,16 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2017-07-04T19:14:00-06:00"
-lastmod = "2017-07-06T22:28:00-06:00"
-preamble = "When it comes to sorting out a nasty bit of coloratura, stutter-inducing patter, or rhythms that make your eyes cross, [slow practice](/the-practice-tip-you-dont-want-to-hear/) is where it's at.\n\nConversely, sometimes it's just as handy to try speeding things up. Music that's meant to be slow can come with side effects like heaviness and stagnancy, which make the singing process unnecessarily difficult. Often the easiest way to find an aria's shape - and uncover some decent phrases - is to practice it at a metronome marking that's decidedly too fast.\n\nWe've picked four examples of slow arias, and how a temporary breakneck tempo can give your practice session some much-needed perspective."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499284384296/2017-07-05---Fast.jpg.jpg"
-publishDate = "2017-07-06T22:28:00-06:00"
-related_articles = ["articles/the-practice-tip-you-dont-want-to-hear.md","articles/4-tips-for-when-there-are-too-many-notes.md","articles/ditch-rubato.md"]
-short_description = "Music that&#039;s meant to be slow can come with side effects like heaviness and stagnancy, which make the singing process unnecessarily difficult. Often the easiest way to find an aria&#039;s shape - and uncover some decent phrases - is to practice it at a metronome marking that&#039;s decidedly too fast."
-slug = "surprising-practice-tips-4-arias-to-try-too-fast"
-title = "Surprising practice tips: 4 arias to try too fast"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2017-07-04T19:14:00-06:00"
+lastmod: "2017-07-06T22:28:00-06:00"
+preamble: |-
+  When it comes to sorting out a nasty bit of coloratura, stutter-inducing patter, or rhythms that make your eyes cross, [slow practice](/the-practice-tip-you-dont-want-to-hear/) is where it's at.
+
+  Conversely, sometimes it's just as handy to try speeding things up. Music that's meant to be slow can come with side effects like heaviness and stagnancy, which make the singing process unnecessarily difficult. Often the easiest way to find an aria's shape - and uncover some decent phrases - is to practice it at a metronome marking that's decidedly too fast.
+
+  We've picked four examples of slow arias, and how a temporary breakneck tempo can give your practice session some much-needed perspective.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499284384296/2017-07-05---Fast.jpg.jpg
+publishDate: "2017-07-06T22:28:00-06:00"
+related_articles:
+- articles/the-practice-tip-you-dont-want-to-hear.md
+- articles/4-tips-for-when-there-are-too-many-notes.md
+- articles/ditch-rubato.md
+short_description: Music that&#039;s meant to be slow can come with side effects like
+  heaviness and stagnancy, which make the singing process unnecessarily difficult.
+  Often the easiest way to find an aria&#039;s shape - and uncover some decent phrases
+  - is to practice it at a metronome marking that&#039;s decidedly too fast.
+slug: surprising-practice-tips-4-arias-to-try-too-fast
+title: 'Surprising practice tips: 4 arias to try too fast'
+---
 
 ## "Dalla sua pace"
 

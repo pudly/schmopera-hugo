@@ -1,19 +1,31 @@
-+++
-author = ["authors/vivian-darkbloom.md"]
-categories = "Review"
-date = "2017-10-13T21:18:00-04:00"
-lastmod = "2017-10-13T22:02:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507944763505/2017-10-13---square---VEPRES_0523-MALIN-BYSTRO%CC%88M-AS-HE%CC%81LE%CC%80NE-ROH.-PHOTO-BILL-COOPER.jpg.jpg"
-primary_image_credit = "Malin Byström (Hélène) in Les vêpres siciliennes, ROH, 2017. Photo: Bill Cooper."
-publishDate = "2017-10-13T22:02:00-04:00"
-related_articles = ["articles/operas-sexual-assault-secret.md", "articles/in-review-der-rosenkavalier-at-roh.md", "articles/an-operas-evolving-relevance-turandot.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/bryan-hymel.md", "scene/people/malin-bystrm.md", "scene/people/michael-volle.md", "scene/people/erwin-schrott.md"]
-short_description = "I don&#039;t understand why we haven&#039;t critically and fundamentally re-read all of these classic operas. I am a huge fan of modernising the way we produce opera, but I think has to include radical re-readings of characters and scenarios, not just new costuming and concepts."
-slug = "a-problematic-creaky-old-masterpiece-les-vêpres-siciliennes"
-title = "&quot;A problematic creaky old masterpiece&quot;: Les vêpres siciliennes"
-
-+++
+---
+author:
+- authors/vivian-darkbloom.md
+categories: Review
+date: "2017-10-13T21:18:00-04:00"
+lastmod: "2017-10-13T22:02:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507944763505/2017-10-13---square---VEPRES_0523-MALIN-BYSTRO%CC%88M-AS-HE%CC%81LE%CC%80NE-ROH.-PHOTO-BILL-COOPER.jpg.jpg
+primary_image_credit: 'Malin Byström (Hélène) in Les vêpres siciliennes, ROH, 2017.
+  Photo: Bill Cooper.'
+publishDate: "2017-10-13T22:02:00-04:00"
+related_articles:
+- articles/operas-sexual-assault-secret.md
+- articles/in-review-der-rosenkavalier-at-roh.md
+- articles/an-operas-evolving-relevance-turandot.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/bryan-hymel.md
+- scene/people/malin-bystrm.md
+- scene/people/michael-volle.md
+- scene/people/erwin-schrott.md
+short_description: I don&#039;t understand why we haven&#039;t critically and fundamentally
+  re-read all of these classic operas. I am a huge fan of modernising the way we produce
+  opera, but I think has to include radical re-readings of characters and scenarios,
+  not just new costuming and concepts.
+slug: a-problematic-creaky-old-masterpiece-les-vêpres-siciliennes
+title: '&quot;A problematic creaky old masterpiece&quot;: Les vêpres siciliennes'
+---
 If you're a human being in the western world, chances are you've heard about what's going on in Hollywood with Harvey Weinstein. By direct extension, if you're a human being in the opera world, you might have noticed that people are buzzing about sexual misconduct in our own industry. I'd actually just read [Dan Kempson's cutting editorial](/operas-sexual-assault-secret/) about sexual violence in opera when I settled down to watch [*Les vêpres siciliennes*](http://www.roh.org.uk/productions/les-vepres-siciliennes-by-stefan-herheim) at the [Royal Opera House](/scene/companies/royal-opera-house/) last night. I was expecting to marathon through one of Verdi's longest operas. I was ready for some stonking singing and lots of big choruses. I wasn't expecting what I got: a tired revival of an odd production that hasn't managed to catch up with the rest of the world in condemning sexual assault.
 
 <figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507944557679/2017-10-13---VEPRES_1842-PRODUCTION-IMAGE-ROH.-PHOTO-BILL-COOPER.jpg.jpg)

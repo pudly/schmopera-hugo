@@ -1,23 +1,32 @@
-+++
-date = "2015-10-01T10:05:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-10-01T10:05:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443708134404/DeYoung.jpg.jpg"
-primary_image_credit = "Photo: Kristin Hoebermann"
-publishDate = "2015-10-01T10:05:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/seattle-opera.md","scene/companies/washington-national-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/teatro-alla-scala.md","scene/companies/houston-grand-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/staatsoper-berlin.md","scene/companies/opra-national-de-paris.md"]
-slug = "michelle-deyoung"
-title = "Michelle DeYoung"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/mezzomichelledeyoung?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MJDY"
-_template = "people_single"
-+++
+---
+date: "2015-10-01T10:05:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-10-01T10:05:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443708134404/DeYoung.jpg.jpg
+primary_image_credit: 'Photo: Kristin Hoebermann'
+publishDate: "2015-10-01T10:05:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/seattle-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/opra-national-de-paris.md
+slug: michelle-deyoung
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/mezzomichelledeyoung?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/MJDY
+title: Michelle DeYoung
+---
 
 Michelle DeYoung was raised in Colorado and California. In opera she has performed at the Metropolitan Opera; the Lyric Opera of Chicago; the Houston Grand Opera; the Seattle Opera; the Washington Concert Opera; the Glimmerglass Opera; La Scala, Milan; the Bayreuth Festival; Berliner Staatsoper; the Opera National de Paris; the Opera de Nice; the Thèâtre du Châtelet, Basel Opera and the Tokyo Opera. Her many roles include Fricka, Sieglinde and Waltraute (*Der Ring Des Nibelungen*); Kundry (*Parsifal*), Venus (*Tannhäuser*), Brangäne (*Tristan und Isolde*), Dido (*Les Troyens*), Eboli (*Don Carlos*), Amneris (*Aida*), Marguerite (*Le Damnation de Faust*), Judith (*Bluebeard’s Castle*), Gertrude (*Hamlet*), Jocaste (*Oedipus Rex*), and the title roles in *Samson et Dalilah* and *The Rape of Lucretia*. She also created the role of the Shaman in Tan Dun’s *The First Emperor* at the Metropolitan Opera.
 

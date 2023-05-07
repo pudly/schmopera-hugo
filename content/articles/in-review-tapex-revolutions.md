@@ -1,17 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-04-06T12:13:00-04:00"
-lastmod = "2015-04-27T18:24:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429843382500/TapestryShow-768x1024.jpg.jpg"
-publishDate = "2014-04-06T12:13:00-04:00"
-related_articles = ["articles/go-see-this-tapex-metallurgy.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/michael-mori.md","scene/people/andrew-love.md","scene/people/andrea-ludwig.md","scene/people/adrian-kramer.md"]
-short_description = "I saw something beautiful on Friday night, and I&#039;m not quite sure I can even tell you what it was. I can tell you that it was the inaugural presentation of Tapestry Explorations: Revolutions, and that it left an impression on me. The evening seemed to evolve on its own accord, beginning with understated and subtle entrances by performers Neema Bickersteth, Andrew Love, Andrea Ludwig and Adrian Kramer. "
-slug = "in-review-tapex-revolutions"
-title = "In Review: Tap:Ex Revolutions"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-04-06T12:13:00-04:00"
+lastmod: "2015-04-27T18:24:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429843382500/TapestryShow-768x1024.jpg.jpg
+publishDate: "2014-04-06T12:13:00-04:00"
+related_articles:
+- articles/go-see-this-tapex-metallurgy.md
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/michael-mori.md
+- scene/people/andrew-love.md
+- scene/people/andrea-ludwig.md
+- scene/people/adrian-kramer.md
+short_description: 'I saw something beautiful on Friday night, and I&#039;m not quite
+  sure I can even tell you what it was. I can tell you that it was the inaugural presentation
+  of Tapestry Explorations: Revolutions, and that it left an impression on me. The
+  evening seemed to evolve on its own accord, beginning with understated and subtle
+  entrances by performers Neema Bickersteth, Andrew Love, Andrea Ludwig and Adrian
+  Kramer. '
+slug: in-review-tapex-revolutions
+title: 'In Review: Tap:Ex Revolutions'
+---
 
 I saw something beautiful on Friday night, and I'm not quite sure I can even tell you what it was. I _can_ tell you that it was the inaugural presentation of _Tapestry Explorations: Revolutions_, and that it left an impression on me.  The evening seemed to evolve on its own accord, beginning with understated and subtle entrances by performers [Neema Bickersteth](https://tapestryopera.com/node/69), [Andrew Love](/talking-to-singers-andrew-love/), [Andrea Ludwig](https://tapestryopera.com/node/65) and [Adrian Kramer](https://tapestryopera.com/node/66). They began spread out across the space, behind and among the audience. As they moved throughout the space and embodied different "characters" with each piece, they pulled your attention across the room. These four were simply pros. Choreographer [Marie-Josée Chartier](http://www.chartierdanse.com/) provided a beautiful movement aesthetic, always organic to the body but never predictable. The effect of Chartier's movements, exercised by these expert performers, had my rapt attention. At times I felt torn, unable to watch two places at once.  They took the audience through a fluid, riveting experience and I couldn't take my eyes off them.
 

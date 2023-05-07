@@ -1,19 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-01-20T09:27:00+00:00"
-lastmod = "2017-01-20T12:46:00+00:00"
-preamble = "Compared to the cutthroat worlds of Broadway or Hollywood, opera may seem a noble art; since it's \"all about the voice\", opera demands that producers cast a broader variety of looks onstage. And yet, with the advent of opera-in-HD, and as more and more young artists vie for professional experience, experienced singers can find themselves excluded.\n\nThe idea of ageism in the opera industry was raised by Canadian mezzo-soprano [Kimberly Barber](/scene/people/kimberly-barber/), whose career includes everything from Mozart to world premieres, and who also teaches voice at Wilfrid Laurier University in Waterloo. She talks with us about her perceptions of a \"youth-obsessed\" opera world, and why companies should be paying attention to singers who have longevity."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904559739/2017-01-17---Ageism---Cosi-fan-tutte---Dahl-and-Allen-Michael-Cooper.jpg.jpg"
-primary_image_credit = "Tracy Dahl (Despina) and Sir Thomas Allen (Don Alfonso) in the COC's production of Così fan tutte, 2014, photo: Michael Cooper."
-publishDate = "2017-01-20T10:38:00+00:00"
-related_articles = ["articles/talking-with-singers-gregory-kunde.md","articles/coaches-voice-teachers-and-the-grey-area-in-between.md","articles/talking-with-singers-sondra-radvanovsky.md","articles/graceful-exits-double-standards.md"]
-related_companies = ["scene/companies/calgary-opera.md","scene/companies/tapestry-opera.md","scene/companies/pacific-opera-victoria.md"]
-related_people = ["scene/people/kimberly-barber.md"]
-short_description = "&quot;In later career, there is much less forgiveness for a less than standard performance, whether it is loss in vocal function, beauty, tone quality or whatever, there is much less margin for error. As a young singer, you are perceived as fresh and new, so companies are willing to give you more chances. It is much more challenging to maintain a career as you age than it is to begin. Companies will often hear younger singers in audition again and again, while they often dismiss older artists.&quot;"
-slug = "whos-afraid-of-the-aging-singer"
-title = "Who&#039;s afraid of the aging singer?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-01-20T09:27:00+00:00"
+lastmod: "2017-01-20T12:46:00+00:00"
+preamble: |-
+  Compared to the cutthroat worlds of Broadway or Hollywood, opera may seem a noble art; since it's "all about the voice", opera demands that producers cast a broader variety of looks onstage. And yet, with the advent of opera-in-HD, and as more and more young artists vie for professional experience, experienced singers can find themselves excluded.
+
+  The idea of ageism in the opera industry was raised by Canadian mezzo-soprano [Kimberly Barber](/scene/people/kimberly-barber/), whose career includes everything from Mozart to world premieres, and who also teaches voice at Wilfrid Laurier University in Waterloo. She talks with us about her perceptions of a "youth-obsessed" opera world, and why companies should be paying attention to singers who have longevity.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904559739/2017-01-17---Ageism---Cosi-fan-tutte---Dahl-and-Allen-Michael-Cooper.jpg.jpg
+primary_image_credit: 'Tracy Dahl (Despina) and Sir Thomas Allen (Don Alfonso) in
+  the COC''s production of Così fan tutte, 2014, photo: Michael Cooper.'
+publishDate: "2017-01-20T10:38:00+00:00"
+related_articles:
+- articles/talking-with-singers-gregory-kunde.md
+- articles/coaches-voice-teachers-and-the-grey-area-in-between.md
+- articles/talking-with-singers-sondra-radvanovsky.md
+- articles/graceful-exits-double-standards.md
+related_companies:
+- scene/companies/calgary-opera.md
+- scene/companies/tapestry-opera.md
+- scene/companies/pacific-opera-victoria.md
+related_people:
+- scene/people/kimberly-barber.md
+short_description: '&quot;In later career, there is much less forgiveness for a less
+  than standard performance, whether it is loss in vocal function, beauty, tone quality
+  or whatever, there is much less margin for error. As a young singer, you are perceived
+  as fresh and new, so companies are willing to give you more chances. It is much
+  more challenging to maintain a career as you age than it is to begin. Companies
+  will often hear younger singers in audition again and again, while they often dismiss
+  older artists.&quot;'
+slug: whos-afraid-of-the-aging-singer
+title: Who&#039;s afraid of the aging singer?
+---
 
 <figure data-type="image">
 

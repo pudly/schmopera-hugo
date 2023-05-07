@@ -1,14 +1,14 @@
-+++
-date = "2015-04-22T23:39:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-04-22T23:40:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429760442681/02bn.jpg.jpg"
-publishDate = "2015-04-22T23:39:00-04:00"
-slug = "stefano-secco"
-title = "Stefano Secco"
-website = "http://www.stefanosecco.com/"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2015-04-22T23:39:00-04:00"
+discipline: Tenor
+lastmod: "2015-04-22T23:40:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429760442681/02bn.jpg.jpg
+publishDate: "2015-04-22T23:39:00-04:00"
+slug: stefano-secco
+title: Stefano Secco
+website: http://www.stefanosecco.com/
+---
 
 Stefano Secco began his studies of piano and singing under the guidance of M° Alberto Soresina and subsequently received a diploma in percussion with M° Tullio De Piscopo. Secco privately followed Maestri like Franco Corelli, Franca Mattiucci, and attended master classes led by Leyla Gencer and Renata Scotto, among others.
 

@@ -1,18 +1,31 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-03-11T11:06:00+00:00"
-lastmod = "2016-03-11T12:49:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457694662678/THE-DEVIL-INSIDE-Ben-McAteer-James-and-Rachel-Kelly-Catherine---Credit-Bill-Cooper-Scottish-OperaSquare.jpg.jpg"
-primary_image_credit = "Ben McAteer (James) and Rachel Kelly (Catherine) in The Devil Inside, Scottish Opera, 2016. Photo by Bill Cooper."
-publishDate = "2016-03-11T12:26:00+00:00"
-related_articles = ["articles/michael-mori-on-the-devil-inside.md","articles/in-review-rocking-horse-winner.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/scottish-opera.md"]
-related_people = ["scene/people/michael-mori.md","scene/people/rachel-kelly.md","scene/people/nicholas-sharratt.md"]
-short_description = "Oh yeah, and like all good wish-based fairy tales, there&#039;s a caveat. If you die in possession of this bottle, your soul is damned to hell for all time; if you sell it, you must sell it for less than you paid for it. Two hours and a bunch of bad decisions later, we find the characters in a very interesting predicament. I won&#039;t spoil the show for you, but trust me, it&#039;s gooooooooood!"
-slug = "in-review-the-devil-inside"
-title = "In review: The Devil Inside"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-03-11T11:06:00+00:00"
+lastmod: "2016-03-11T12:49:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457694662678/THE-DEVIL-INSIDE-Ben-McAteer-James-and-Rachel-Kelly-Catherine---Credit-Bill-Cooper-Scottish-OperaSquare.jpg.jpg
+primary_image_credit: Ben McAteer (James) and Rachel Kelly (Catherine) in The Devil
+  Inside, Scottish Opera, 2016. Photo by Bill Cooper.
+publishDate: "2016-03-11T12:26:00+00:00"
+related_articles:
+- articles/michael-mori-on-the-devil-inside.md
+- articles/in-review-rocking-horse-winner.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/scottish-opera.md
+related_people:
+- scene/people/michael-mori.md
+- scene/people/rachel-kelly.md
+- scene/people/nicholas-sharratt.md
+short_description: Oh yeah, and like all good wish-based fairy tales, there&#039;s
+  a caveat. If you die in possession of this bottle, your soul is damned to hell for
+  all time; if you sell it, you must sell it for less than you paid for it. Two hours
+  and a bunch of bad decisions later, we find the characters in a very interesting
+  predicament. I won&#039;t spoil the show for you, but trust me, it&#039;s gooooooooood!
+slug: in-review-the-devil-inside
+title: 'In review: The Devil Inside'
+---
 
 Thursday night at The Harbourfront Centre was the place to be. [Tapestry Opera](/scene/companies/tapestry-opera/) brought in their friends Scottish Opera to present *The Devil Inside* (libretto by Louise Welsh, music by Stuart MacRae), a distinctly modern take on Robert Louis Stevenson's "The Bottle Imp".
 

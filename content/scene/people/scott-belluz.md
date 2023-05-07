@@ -1,22 +1,22 @@
-+++
-discipline = "Countertenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1654903065/media/2022/06/ScottBelluz_portrait_niglcq.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/soundstreams.md", "scene/companies/tapestry-opera.md"]
-slug = "scott-belluz"
-title = "Scott Belluz"
-website = "https://www.scottbelluz.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/scott.belluz/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ScottBelluz"
-
-_template = "people_single"
-+++
+---
+discipline: Countertenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1654903065/media/2022/06/ScottBelluz_portrait_niglcq.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/soundstreams.md
+- scene/companies/tapestry-opera.md
+slug: scott-belluz
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/scott.belluz/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/ScottBelluz
+title: Scott Belluz
+website: https://www.scottbelluz.com/
+---
 Scott Belluz has established himself as engaging vocal artist and versatile singing actor. Praised for his 'warm, rich voice' (_La Marseillaise_) and 'bravura vocal performances' (Now Magazine) Scott brings his sensitive and committed artistry to repertoire ranging from 17th century to newly composed works.
 
 Scott has received great acclaim for his performances in the world premieres of numerous operatic works including: the role of Jimmy Gin in Du Yun/Raven Chacon's _Sweetland_ with The Industry, the title role in Omar Daniel’s _The Shadow_ with Tapestry New Opera, L’Oiseau in Gilles Tremblay’s Opéra _Féerie_ with Chants Libres, Damien in R. Murray Schafer’s _The Children’s Crusade_ with Soundstreams Canada, as well as Opera Briefs and Opera To Go with Tapestry New Opera.

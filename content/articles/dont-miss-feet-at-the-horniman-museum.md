@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-09-30T11:08:00+01:00"
-lastmod = "2016-10-01T21:48:00+01:00"
-preamble = "On October 13, in the Natural History Gallery of London's Horniman Museum, [Gestalt Arts](/scene/companies/gestalt-arts/) presents \"Feet,\" a new opera installation for the Museum's [Magic Late](http://www.horniman.ac.uk/visit/events/magic-late) event. Tickets are just £5.\n\n\"Old English cunning folk often used animal parts to create curative charms to ward off a range of ills. But what happened to the animals they left behind?\" With music by [Oliver Leith](http://www.oliverchristopheleith.com/home.html), and text and direction by Ruth Mariner, soprano [Héloise Werner](http://heloisewerner.com/) performs \"Feet\" with the help of the Museum's handling collection of instruments, transformed for the first time through electronic composition.\n\n\"Feet\" will take place on the hour between [6:30-9:30pm, October 13](http://www.horniman.ac.uk/visit/events/magic-late) at the Horniman Museum. We spoke with Ruth Mariner, Artistic Director of Gestalt Arts, about the curious nature of the show, and the \"privileged\" process of working in the Natural History Gallery."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475227043563/2016-09-30---Feet-Image.jpg.jpg"
-primary_image_credit = "Photo courtesy of Gestalt Arts."
-publishDate = "2016-10-01T15:02:00+01:00"
-related_articles = ["articles/dont-miss-boys-of-paradise.md"]
-related_companies = ["scene/companies/gestalt-arts.md"]
-short_description = "&quot;It was this juxtaposition, and the indignity of an animal losing its feet for a reason we would now consider to be quite minor, which formed the basis of the idea. Our main character, the pigeon (sorry, rock dove) just wants to tell her story and get a bit of attention for once.&quot;"
-slug = "dont-miss-feet-at-the-horniman-museum"
-title = "Don&#039;t miss: &quot;Feet&quot; at the Horniman Museum"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-09-30T11:08:00+01:00"
+lastmod: "2016-10-01T21:48:00+01:00"
+preamble: |-
+  On October 13, in the Natural History Gallery of London's Horniman Museum, [Gestalt Arts](/scene/companies/gestalt-arts/) presents "Feet," a new opera installation for the Museum's [Magic Late](http://www.horniman.ac.uk/visit/events/magic-late) event. Tickets are just £5.
+
+  "Old English cunning folk often used animal parts to create curative charms to ward off a range of ills. But what happened to the animals they left behind?" With music by [Oliver Leith](http://www.oliverchristopheleith.com/home.html), and text and direction by Ruth Mariner, soprano [Héloise Werner](http://heloisewerner.com/) performs "Feet" with the help of the Museum's handling collection of instruments, transformed for the first time through electronic composition.
+
+  "Feet" will take place on the hour between [6:30-9:30pm, October 13](http://www.horniman.ac.uk/visit/events/magic-late) at the Horniman Museum. We spoke with Ruth Mariner, Artistic Director of Gestalt Arts, about the curious nature of the show, and the "privileged" process of working in the Natural History Gallery.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475227043563/2016-09-30---Feet-Image.jpg.jpg
+primary_image_credit: Photo courtesy of Gestalt Arts.
+publishDate: "2016-10-01T15:02:00+01:00"
+related_articles:
+- articles/dont-miss-boys-of-paradise.md
+related_companies:
+- scene/companies/gestalt-arts.md
+short_description: '&quot;It was this juxtaposition, and the indignity of an animal
+  losing its feet for a reason we would now consider to be quite minor, which formed
+  the basis of the idea. Our main character, the pigeon (sorry, rock dove) just wants
+  to tell her story and get a bit of attention for once.&quot;'
+slug: dont-miss-feet-at-the-horniman-museum
+title: 'Don&#039;t miss: &quot;Feet&quot; at the Horniman Museum'
+---
 
 ## What can you tell us about *Feet* and what makes it an "opera installation"?
 

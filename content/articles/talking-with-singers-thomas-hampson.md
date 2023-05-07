@@ -1,17 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-10-28T11:01:00-04:00"
-lastmod = "2018-10-28T19:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540737217938/sqThomasHampson_byJiyangChen_1.jpg.jpg"
-publishDate = "2018-10-28T19:47:00-04:00"
-related_articles = ["articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-matthew-polenzani.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/thomas-hampson.md","scene/people/isaiah-bell.md"]
-short_description = "&quot;As a singer, as a professional, experienced singer, older colleague,&quot; Hampson advises young singers entering the profession, &quot;I can only say that the industry you&#039;re in is not the industry I started in.&quot;"
-slug = "talking-with-singers-thomas-hampson"
-title = "Talking with singers: Thomas Hampson"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-10-28T11:01:00-04:00"
+lastmod: "2018-10-28T19:47:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540737217938/sqThomasHampson_byJiyangChen_1.jpg.jpg
+publishDate: "2018-10-28T19:47:00-04:00"
+related_articles:
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/talking-with-singers-matthew-polenzani.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/thomas-hampson.md
+- scene/people/isaiah-bell.md
+short_description: '&quot;As a singer, as a professional, experienced singer, older
+  colleague,&quot; Hampson advises young singers entering the profession, &quot;I
+  can only say that the industry you&#039;re in is not the industry I started in.&quot;'
+slug: talking-with-singers-thomas-hampson
+title: 'Talking with singers: Thomas Hampson'
+---
 
 "Nude was always off the table," says Thomas Hampson of the much-anticipated love scene he would stage as the title role in Rufus Wainwright's second opera, *Hadrian*. "There were various contemplations of clad and unclad, for both of us." For all the experience in Hampson's career - three decades, over 80 roles, and 170 recordings - a homosexual love scene was a first for the famed baritone.
 

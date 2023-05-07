@@ -1,23 +1,23 @@
-+++
-date = "2017-12-19T19:03:00-05:00"
-discipline = "Bass"
-lastmod = "2017-12-19T19:03:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513728027382/MarkusSuihkonen-1.jpg.jpg"
-primary_image_credit = "Vilja Tamminen"
-publishDate = "2017-12-19T19:03:00-05:00"
-related_companies = ["scene/companies/vlaamse-opera.md"]
-slug = "markus-suihkonen"
-title = "Markus Suihkonen"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/MarkusSuihkonenBass/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/markussuihkonen"
-_template = "people_single"
-+++
+---
+date: "2017-12-19T19:03:00-05:00"
+discipline: Bass
+lastmod: "2017-12-19T19:03:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513728027382/MarkusSuihkonen-1.jpg.jpg
+primary_image_credit: Vilja Tamminen
+publishDate: "2017-12-19T19:03:00-05:00"
+related_companies:
+- scene/companies/vlaamse-opera.md
+slug: markus-suihkonen
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/MarkusSuihkonenBass/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/markussuihkonen
+title: Markus Suihkonen
+---
 
 Before beginning his singing studies at the Sibelius Academy in 2013, young Finnish bass, Markus Suihkonen (b. 1993), studied the cello for 15 years. At the Sibelius Academy, he has studied under professors Petteri Salomaa and Jaakko Ryhänen, as well as with Mika Kares, and attended master classes conducted by Martin Katz, Dorothy Irving, Helen Donath, and Soile Isokoski.
 

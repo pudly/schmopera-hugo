@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Review"
-date = "2017-10-12T14:12:00-04:00"
-lastmod = "2017-10-12T23:05:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507833238614/2017-10-13---square---Elixir-MC-0543.jpg.jpg"
-primary_image_credit = "Andrew Haji as Nemorino in the Canadian Opera Company's new production of The Elixir of Love, 2017, photo: Michael Cooper."
-publishDate = "2017-10-12T21:15:00-04:00"
-related_articles = ["articles/james-robinson-elixir.md","articles/talking-with-singers-andrew-haji.md","articles/simone-osborne.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/andrew-haji.md","scene/people/simone-osborne.md","scene/people/gordon-bintner.md","scene/people/andrew-shore.md","scene/people/james-robinson.md"]
-short_description = "Haji&#039;s Nemorino didn&#039;t whine or pine; instead, he took the refreshing route of unashamed honesty, piquing Adina&#039;s curiosity by being one of the few (only?) men in her life who presents himself as just that - himself. It brought to mind that line from The Office, when Kelly Kapoor muses, &quot;I mean, who says exactly what they&#039;re thinking? What kind of game is that?&quot;"
-slug = "he-saidshe-said-a-sweet-elixir-at-the-coc"
-title = "He said/she said: a sweet Elixir at the COC"
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Review
+date: "2017-10-12T14:12:00-04:00"
+lastmod: "2017-10-12T23:05:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507833238614/2017-10-13---square---Elixir-MC-0543.jpg.jpg
+primary_image_credit: 'Andrew Haji as Nemorino in the Canadian Opera Company''s new
+  production of The Elixir of Love, 2017, photo: Michael Cooper.'
+publishDate: "2017-10-12T21:15:00-04:00"
+related_articles:
+- articles/james-robinson-elixir.md
+- articles/talking-with-singers-andrew-haji.md
+- articles/simone-osborne.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/andrew-haji.md
+- scene/people/simone-osborne.md
+- scene/people/gordon-bintner.md
+- scene/people/andrew-shore.md
+- scene/people/james-robinson.md
+short_description: Haji&#039;s Nemorino didn&#039;t whine or pine; instead, he took
+  the refreshing route of unashamed honesty, piquing Adina&#039;s curiosity by being
+  one of the few (only?) men in her life who presents himself as just that - himself.
+  It brought to mind that line from The Office, when Kelly Kapoor muses, &quot;I mean,
+  who says exactly what they&#039;re thinking? What kind of game is that?&quot;
+slug: he-saidshe-said-a-sweet-elixir-at-the-coc
+title: 'He said/she said: a sweet Elixir at the COC'
+---
 
 **Jenna**: Opera lovers certainly enjoy their *gravitas*, their 12-minute-long scenes of crisis and cerebral combinations of *commedia dell'arte*, Jungian psychology, and contemporary political mirrors. Yet if you're going to see a show full of well-loved plot devices and impossibly catchy music that leaves a decidedly saccharine taste in your mouth, that show had better run with its sunny disposition, 110%.
 

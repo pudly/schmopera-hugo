@@ -1,15 +1,19 @@
-+++
-date = "2016-10-21T10:32:00+01:00"
-discipline = "Bass-baritone"
-lastmod = "2016-10-21T10:32:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477042086682/mw2.jpg.jpg"
-publishDate = "2016-10-21T10:32:00+01:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/la-monnaie.md"]
-slug = "martin-winkler"
-title = "Martin Winkler"
-website = "http://en.martinwinkler.net/"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2016-10-21T10:32:00+01:00"
+discipline: Bass-baritone
+lastmod: "2016-10-21T10:32:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477042086682/mw2.jpg.jpg
+publishDate: "2016-10-21T10:32:00+01:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/la-monnaie.md
+slug: martin-winkler
+title: Martin Winkler
+website: http://en.martinwinkler.net/
+---
 
 Bass-Baritone Martin Winkler was born in Bregenz, Austria. Martin studied voice at the University of Vienna with Walter Berry.
 

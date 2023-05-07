@@ -1,22 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2020-06-21T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Readers, where are you getting your online fixes? Let us know in the comments below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "Happy times! This weekend is chock-full of online opera offerings. From trash opera on YouTube to live broadcasts via Chicago, we've got our viewing picks down:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1592763752/media/2020/06/sqWeekendVirtualOpera_ah3omi.jpg"
-primary_image_credit = "Clockwise from top: baritone Anthony Moreno in \"Having Guests for Dinner\"; baritone Will Liverman, photographed by Jaclyn Simpson; The Drunken Tenor, photographed by Paul Gibbons."
-related_articles = ["articles/the-met-s-at-home-gala.md", "articles/covid.md"]
-related_companies = ["scene/companies/seattle-opera.md", "scene/companies/new-opera-west.md"]
-related_people = ["scene/people/emily-pogorelc.md", "scene/people/emily-fons-1.md", "scene/people/will-liverman.md"]
-short_description = "These concerts are designed to conform to CDC health guidelines, including pre-performance health screenings, partitions separating singers and accompanying musicians, and the wearing of masks where possible."
-slug = "from-trash-to-valhalla-whats-on-deck-this-weekend"
-title = "From trash to Valhalla: what's on deck this weekend"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2020-06-21T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Readers, where are you getting your online fixes? Let us know in the comments
+  below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+preamble: 'Happy times! This weekend is chock-full of online opera offerings. From
+  trash opera on YouTube to live broadcasts via Chicago, we''ve got our viewing picks
+  down:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1592763752/media/2020/06/sqWeekendVirtualOpera_ah3omi.jpg
+primary_image_credit: 'Clockwise from top: baritone Anthony Moreno in "Having Guests
+  for Dinner"; baritone Will Liverman, photographed by Jaclyn Simpson; The Drunken
+  Tenor, photographed by Paul Gibbons.'
+related_articles:
+- articles/the-met-s-at-home-gala.md
+- articles/covid.md
+related_companies:
+- scene/companies/seattle-opera.md
+- scene/companies/new-opera-west.md
+related_people:
+- scene/people/emily-pogorelc.md
+- scene/people/emily-fons-1.md
+- scene/people/will-liverman.md
+short_description: These concerts are designed to conform to CDC health guidelines,
+  including pre-performance health screenings, partitions separating singers and accompanying
+  musicians, and the wearing of masks where possible.
+slug: from-trash-to-valhalla-whats-on-deck-this-weekend
+title: 'From trash to Valhalla: what''s on deck this weekend'
+youtube_url: ""
+---
 ## The Drunken Tenor, via Seattle Opera
 
 If you've not had the chance to see tenor Robert McPherson's "tipsy persona" live, you can tune in to catch him from home this weekend. On **June 26, 7pm PDT**, Seattle Opera's virtual opera offerings will feature the premiere online performance of [The Drunken Tenor](https://thedrunkentenor.com/). McPherson is joined by pianist David McDade and soprano Jennifer Bromagen for a program that balances Verdi and Bizet with the comedic joys of Zoom concerts and microphone management.

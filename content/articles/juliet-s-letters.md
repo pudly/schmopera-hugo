@@ -1,22 +1,31 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2019-07-17T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Learn more about this organization's mission in the Washington D.C. area, and stay tuned for their [upcoming season announcement.](http://www.urbanarias.org/)"
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1563407382/media/2019/07/Juliet2.jpg"
-primary_image_credit = "Aryssa Leigh Burrs (left) & Melissa Wimbish in Juliet's Letters, 2019. Photo: C. Stanley Photography."
-related_articles = []
-related_companies = []
-related_people = ["scene/people/robert-wesley-mason.md", "scene/people/melissa-wimbish.md"]
-short_description = "The staging and direction of this song cycle by Cara Gabriel was versatile and imaginative. The singers moved seamlessly between songs. I had absolutely no idea what the music would sound like, and I was pleasantly surprised. There were some minimalist crunchy 20th-century moments, but overall the melodies were beautiful and catchy. Some sounded very operatic, and some had a flower child, Simon and Garfunkel vibe."
-slug = "elvis-costellos-the-juliet-letters-versatile-imaginative"
-title = "Elvis Costello's The Juliet Letters versatile & imaginative"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2019-07-17T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Learn more about this organization's mission in the Washington D.C. area,
+  and stay tuned for their [upcoming season announcement.](http://www.urbanarias.org/)
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1563407382/media/2019/07/Juliet2.jpg
+primary_image_credit: 'Aryssa Leigh Burrs (left) & Melissa Wimbish in Juliet''s Letters,
+  2019. Photo: C. Stanley Photography.'
+related_articles: []
+related_companies: []
+related_people:
+- scene/people/robert-wesley-mason.md
+- scene/people/melissa-wimbish.md
+short_description: The staging and direction of this song cycle by Cara Gabriel was
+  versatile and imaginative. The singers moved seamlessly between songs. I had absolutely
+  no idea what the music would sound like, and I was pleasantly surprised. There were
+  some minimalist crunchy 20th-century moments, but overall the melodies were beautiful
+  and catchy. Some sounded very operatic, and some had a flower child, Simon and Garfunkel
+  vibe.
+slug: elvis-costellos-the-juliet-letters-versatile-imaginative
+title: Elvis Costello's The Juliet Letters versatile & imaginative
+youtube_url: ""
+---
 On Sunday, Urban Arias closed their season at The Signature Theater in Arlington, Virginia. The company is known for their creative and "quickie" operas (this one was only sixty minutes), and they certainly did not disappoint. _The Juliet Letters_ is described by the composer, Elvis Costello, as "a song sequence for string quartet and voice and it has a title. It's a little bit different. It's not a rock opera. It's a new thing." This work was mainly inspired by a professor in Italy who responded to letters addressed to Juliet Capulet.
 
 The staging and direction of this song cycle by Cara Gabriel was versatile and imaginative. The singers moved seamlessly between songs. I had absolutely no idea what the music would sound like, and I was pleasantly surprised. There were some minimalist crunchy 20th-century moments, but overall the melodies were beautiful and catchy. Some sounded very operatic, and some had a flower child, Simon and Garfunkel vibe.

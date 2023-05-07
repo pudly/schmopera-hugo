@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-04-02T11:51:00+01:00"
-lastmod = "2017-04-03T09:38:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491130264555/2017-04-02---EXAUDI-MatthewAndrews.jpg.jpg"
-primary_image_credit = "Photo by Matthew Andrews."
-publishDate = "2017-04-03T09:09:00+01:00"
-related_articles = ["articles/in-review-peter-deutsch-at-wigmore-hall.md","articles/in-review-daniels-katz-at-wigmore-hall.md"]
-short_description = "The 8 voices of EXAUDI sang in varying combinations; their uniform sound stayed interesting, with solo singers trading moments of spotlight. Just as we grew comfortable in their 16th-century sound, well grounded and ringing with overtones, Weeks revealed his stealthy integration of Arcadelt&#039;s Primo Libro de&#039; Madrigali and the EXAUDI director&#039;s own Libro di fiammelle e ombre. The two composers shared texts - largely by anonymous authors - which live on the blurry line between love, lust, desperation, and death."
-slug = "in-review-exaudi-at-wigmore-hall"
-title = "In review: Exaudi at Wigmore Hall"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-04-02T11:51:00+01:00"
+lastmod: "2017-04-03T09:38:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491130264555/2017-04-02---EXAUDI-MatthewAndrews.jpg.jpg
+primary_image_credit: Photo by Matthew Andrews.
+publishDate: "2017-04-03T09:09:00+01:00"
+related_articles:
+- articles/in-review-peter-deutsch-at-wigmore-hall.md
+- articles/in-review-daniels-katz-at-wigmore-hall.md
+short_description: The 8 voices of EXAUDI sang in varying combinations; their uniform
+  sound stayed interesting, with solo singers trading moments of spotlight. Just as
+  we grew comfortable in their 16th-century sound, well grounded and ringing with
+  overtones, Weeks revealed his stealthy integration of Arcadelt&#039;s Primo Libro
+  de&#039; Madrigali and the EXAUDI director&#039;s own Libro di fiammelle e ombre.
+  The two composers shared texts - largely by anonymous authors - which live on the
+  blurry line between love, lust, desperation, and death.
+slug: in-review-exaudi-at-wigmore-hall
+title: 'In review: Exaudi at Wigmore Hall'
+---
 
 The famous acoustic of Wigmore Hall serves well the recital work of the world's best singers. In hindsight, it almost seems an oversight that it took us nearly a year to hear *a cappella* voices in the notoriously friendly performance space. (Frankly, EXAUDI's signature sound had us suddenly eager to hear a barbershop quartet on the Wigmore stage.)
 

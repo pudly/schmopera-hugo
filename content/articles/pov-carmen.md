@@ -1,22 +1,35 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = 2022-10-23T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666562463/media/2022/10/sqPOVCarmen_D853130_bgbuev.jpg"
-primary_image_credit = "Carolyn Sproule as Carmen and Adam Luther as Don José. Costume Design by Sylvain Genois, Set Design by Olivier Landreville. Pacific Opera Victoria, 2022. Photo by David Cooper."
-related_articles = ["articles/carmen.md", "articles/carmen-don-juan-and-gender-reversal-pants-roles-indeed.md"]
-related_companies = ["scene/companies/pacific-opera-victoria.md"]
-related_people = ["scene/people/andrea-nunez.md", "scene/people/geoffrey-schellenberg.md", "scene/people/asitha-tennekoon.md", "scene/people/marjorie-maltais.md", "scene/people/jorell-williams.md", "scene/people/adam-luther.md", "scene/people/carolyn-sproule.md"]
-short_description = "Pacific Opera Victoria’s season opener for 2022 is Carmen, taking a traditional look at a very traditional opera, but with a few excellent updates. "
-slug = "sproule-sings-a-rich-effortless-carmen-in-victoria"
-title = "Sproule sings a rich, effortless Carmen in Victoria"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2022-10-23T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1666562463/media/2022/10/sqPOVCarmen_D853130_bgbuev.jpg
+primary_image_credit: Carolyn Sproule as Carmen and Adam Luther as Don José. Costume
+  Design by Sylvain Genois, Set Design by Olivier Landreville. Pacific Opera Victoria,
+  2022. Photo by David Cooper.
+related_articles:
+- articles/carmen.md
+- articles/carmen-don-juan-and-gender-reversal-pants-roles-indeed.md
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+related_people:
+- scene/people/andrea-nunez.md
+- scene/people/geoffrey-schellenberg.md
+- scene/people/asitha-tennekoon.md
+- scene/people/marjorie-maltais.md
+- scene/people/jorell-williams.md
+- scene/people/adam-luther.md
+- scene/people/carolyn-sproule.md
+short_description: 'Pacific Opera Victoria’s season opener for 2022 is Carmen, taking
+  a traditional look at a very traditional opera, but with a few excellent updates. '
+slug: sproule-sings-a-rich-effortless-carmen-in-victoria
+title: Sproule sings a rich, effortless Carmen in Victoria
+youtube_url: ""
+---
 [Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/)'s season opener for 2022 is [_Carmen_](https://pacificopera.ca/event/carmen/), taking a traditional look at a very traditional opera, but with a few excellent updates. While the Bizet tale is purely fictional, the people that he describes are very real. The Romani people, often called Roma, are an Indo-Aryan ethnic group who have been subjected to untold discrimination for centuries, though most might recognize them by another name, which I won't mention here. That name has been seen for a very long time as a pejorative and a racial slur (despite its all-too-common usage), and as such, POV made the very well-researched decision to eliminate it from all its programming, surtitles, and printed materials. An excellent choice which I highly applaud and hope becomes an industry standard.
 
 That aside, this production of _Carmen_ is very typical, with the setting in 1900s-ish Spain, with costuming varying from 1890s-1940s. The set design in the production was simple but very well-executed, with large pieces that could be rotated to depict the Tavern, the Bullring, or the city square with beautiful design. The set painting in particular was subtle yet very effective, with small accents and signage that looked perfectly placed for each setting.

@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-06-28T02:21:00+01:00"
-lastmod = "2016-06-30T21:43:00+01:00"
-preamble = "The [Boston University Tanglewood Institute](http://www.bu.edu/cfa/tanglewood/) has launched its new [Young Artists Opera Intensive](http://www.bu.edu/cfa/tanglewood/program/yaoi/), a two-week programme for young singers aged 18-22 who have completed their first year of undergraduate studies. Running from June 19-July 2, participants will have the chance to perform a mainstage role, receive coachings, and try out their repertoire in mock auditions, and learn entrepreneurial skills like networking and curating marketing materials.\n\nWe spoke with Program Director Dana Lynne Varga, and stage director Sarah Meyers, about the mission of this new program, and why *Die Fledermaus* is a great choice for the YAOI's introductory summer."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467077197619/BUTI-Ensemble.jpg.jpg"
-primary_image_credit = "Photo: Dana Lynne Varga"
-publishDate = "2016-06-29T15:06:00+01:00"
-related_articles = ["articles/how-to-make-the-most-of-your-summer-program.md","articles/all-about-the-tafelmusik-baroque-summer-institute.md"]
-short_description = "&quot;The main goal is to give these promising artists a taste of what a professional career in opera is like. They are held to very high expectations; each of them is assigned a full role and they must arrive with it 100% memorized. They are expected to be well prepared and eager to learn, show that they are team players, and act in a professional manner throughout the program.&quot;"
-slug = "new-programs-opera-at-tanglewood"
-title = "New programs: Opera at Tanglewood"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-06-28T02:21:00+01:00"
+lastmod: "2016-06-30T21:43:00+01:00"
+preamble: |-
+  The [Boston University Tanglewood Institute](http://www.bu.edu/cfa/tanglewood/) has launched its new [Young Artists Opera Intensive](http://www.bu.edu/cfa/tanglewood/program/yaoi/), a two-week programme for young singers aged 18-22 who have completed their first year of undergraduate studies. Running from June 19-July 2, participants will have the chance to perform a mainstage role, receive coachings, and try out their repertoire in mock auditions, and learn entrepreneurial skills like networking and curating marketing materials.
+
+  We spoke with Program Director Dana Lynne Varga, and stage director Sarah Meyers, about the mission of this new program, and why *Die Fledermaus* is a great choice for the YAOI's introductory summer.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467077197619/BUTI-Ensemble.jpg.jpg
+primary_image_credit: 'Photo: Dana Lynne Varga'
+publishDate: "2016-06-29T15:06:00+01:00"
+related_articles:
+- articles/how-to-make-the-most-of-your-summer-program.md
+- articles/all-about-the-tafelmusik-baroque-summer-institute.md
+short_description: '&quot;The main goal is to give these promising artists a taste
+  of what a professional career in opera is like. They are held to very high expectations;
+  each of them is assigned a full role and they must arrive with it 100% memorized.
+  They are expected to be well prepared and eager to learn, show that they are team
+  players, and act in a professional manner throughout the program.&quot;'
+slug: new-programs-opera-at-tanglewood
+title: 'New programs: Opera at Tanglewood'
+---
 
 ## Who is this new opera workshop for, and what are the goals for the two-week period?
 

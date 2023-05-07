@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-17T10:30:00-04:00"
-lastmod = "2017-07-26T00:09:00-04:00"
-preamble = "Canadian mezzo [Cassandra Warner](/scene/people/cassandra-warner/) keeps a busy [schedule](http://cassandrawarner.com/tour/) of singing and teaching, and she's a self-professed thinker-outside-the-box. Among her more traditional work in roles like Carmen (*La tragédie de Carmen*), Dorabella (*Così fan tutte*), and Cendrillon (*Cendrillon*), Warner brings her operatic chops to less likely spaces, like pirate ships, gymnasiums, and jewellery line launches.\n\nShe chats with us about the versatility of the human voice, the responsibilities of the professional singer, and her one-of-a-kind bucket list."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500301950936/2017-07-17---Square---CassandraWarner0080photobyKevinPatrickRobbins.jpg.jpg"
-primary_image_credit = "Photo: Kevin Patrick Robbins."
-publishDate = "2017-07-25T22:06:00-04:00"
-related_people = ["scene/people/cassandra-warner.md"]
-short_description = "&quot;First of all, the voice is paramount. Get that technique down first before moving on to anything else. Next, opera is certainly a pleasure to take part in, but at the end of the day, it is a business. You need an income to sustain and advance your career. Be sure to learn important skills such as how to create a spreadsheet, a great bio &amp; resume, a website, a contract, and how to improve your client relation skills.&quot;"
-slug = "talking-with-singers-cassandra-warner"
-title = "Talking with singers: Cassandra Warner"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-17T10:30:00-04:00"
+lastmod: "2017-07-26T00:09:00-04:00"
+preamble: |-
+  Canadian mezzo [Cassandra Warner](/scene/people/cassandra-warner/) keeps a busy [schedule](http://cassandrawarner.com/tour/) of singing and teaching, and she's a self-professed thinker-outside-the-box. Among her more traditional work in roles like Carmen (*La tragédie de Carmen*), Dorabella (*Così fan tutte*), and Cendrillon (*Cendrillon*), Warner brings her operatic chops to less likely spaces, like pirate ships, gymnasiums, and jewellery line launches.
+
+  She chats with us about the versatility of the human voice, the responsibilities of the professional singer, and her one-of-a-kind bucket list.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500301950936/2017-07-17---Square---CassandraWarner0080photobyKevinPatrickRobbins.jpg.jpg
+primary_image_credit: 'Photo: Kevin Patrick Robbins.'
+publishDate: "2017-07-25T22:06:00-04:00"
+related_people:
+- scene/people/cassandra-warner.md
+short_description: '&quot;First of all, the voice is paramount. Get that technique
+  down first before moving on to anything else. Next, opera is certainly a pleasure
+  to take part in, but at the end of the day, it is a business. You need an income
+  to sustain and advance your career. Be sure to learn important skills such as how
+  to create a spreadsheet, a great bio &amp; resume, a website, a contract, and how
+  to improve your client relation skills.&quot;'
+slug: talking-with-singers-cassandra-warner
+title: 'Talking with singers: Cassandra Warner'
+---
 
 ## When do you think opera can be a versatile, mobile art form, and when do you think it's best experienced in a more stationary, traditional setting?
 

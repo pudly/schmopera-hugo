@@ -1,29 +1,35 @@
-+++
-date = "2016-09-03T14:57:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-09-03T14:57:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574050972/media/2019/11/DanielaMack-ShervinLainez_dqa6ee.jpg"
-primary_image_credit = "Photo: Shervin Lainez."
-publishDate = "2016-09-03T14:57:00+01:00"
-related_companies = ["scene/companies/san-francisco-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/merola-opera-program.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/arizona-opera.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/english-national-opera.md", "scene/companies/washington-national-opera.md"]
-slug = "daniela-mack"
-title = "Daniela Mack"
-website = "http://www.danielamack.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/DanielaMackmezzo/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/dcecima"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/results?search_query=daniela+mack+mezzo"
-
-_template = "people_single"
-+++
+---
+date: "2016-09-03T14:57:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2016-09-03T14:57:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1574050972/media/2019/11/DanielaMack-ShervinLainez_dqa6ee.jpg
+primary_image_credit: 'Photo: Shervin Lainez.'
+publishDate: "2016-09-03T14:57:00+01:00"
+related_companies:
+- scene/companies/san-francisco-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/merola-opera-program.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/english-national-opera.md
+- scene/companies/washington-national-opera.md
+slug: daniela-mack
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/DanielaMackmezzo/?fref=ts
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/dcecima
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/results?search_query=daniela+mack+mezzo
+title: Daniela Mack
+website: http://www.danielamack.com/
+---
 Mezzo-soprano Daniela Mack leads the vanguard of a new generation of opera singers, infusing her artistry with a mix of intensity, adventurousness, and effortless charisma. Critics around the world have acclaimed her as “outstanding” (The New York Times), “a powerhouse mezzo” (Wall Street Journal) possessing “a virtuoso technique second to none” (The Guardian) and “a voice like polished onyx: strong, dark, deep and gleaming” (Opera News).
 
 Mack’s 2019-20 season includes three house debuts, three role debuts, and a return to The Metropolitan Opera. The season opens with Mack bringing her Handelian expertise to her role debut as Juno in _Semele_ with Opera Philadelphia. She then brings her “fresh, feisty, flawless” (Opera News) Rosina to house debuts at Minnesota Opera and Palm Beach Opera for productions of _Il barbiere di Siviglia_. Renowned for her bel canto interpretations, Mack adds another role to her repertoire as Romeo in Bellini’s _I Capuleti ed i Montecchi_ with Opera Omaha, and then returns to The Metropolitan Opera for her highly-anticipated role debut as Varvara in Janáček’s _Káťa Kabanová_. On the concert stage, Mack makes her debut with the National Symphony Orchestra for Handel’s _Messiah_ under the baton of Sir Andrew Davis, and performs in Verdi’s _Requiem_ with Opera Philadelphia. She closes out the season reprising her role as Rosmira in _Partenope_ with San Francisco Opera, for which the San Francisco Chronicle hailed her “athletic, perfectly tuned coloratura.”

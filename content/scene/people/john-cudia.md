@@ -1,20 +1,20 @@
-+++
-date = "2018-10-21T21:30:00-04:00"
-discipline = "Tenor"
-lastmod = "2018-10-21T21:31:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546570835/media/2019/01/john-cudia.jpg"
-publishDate = "2018-10-21T21:30:00-04:00"
-related_companies = ["scene/companies/vancouver-opera.md"]
-slug = "john-cudia"
-title = "John Cudia"
-website = "https://www.johncudia.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/johncudia"
-
-_template = "people_single"
-+++
+---
+date: "2018-10-21T21:30:00-04:00"
+discipline: Tenor
+lastmod: "2018-10-21T21:31:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546570835/media/2019/01/john-cudia.jpg
+publishDate: "2018-10-21T21:30:00-04:00"
+related_companies:
+- scene/companies/vancouver-opera.md
+slug: john-cudia
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/johncudia
+title: John Cudia
+website: https://www.johncudia.com/
+---
 John Cudia is equally at home on Opera, Theater and Concert stages. A lyric tenor, he proudly made his Lyric Opera of Chicago debut as Curly in their production of *Oklahoma!* For Vancouver Opera, John most recently sang Count Danilo in *The Merry Widow*. Previously for Vancouver Opera he sang Cassio in *Otello* and Juan Peron in *Evita*. For Indianapolis Opera, he created the role of Dr. Woodly in the World Premiere of *Happy Birthday Wanda June* by Richard Auldon Clark with Libretto by Indiana’s own Kurt Vonnegut. For Lyric Opera of the North he sang the Duke in *Rigoletto* and Alfredo in *La Traviata*.    
 
 John, as Curly was praised by Opera News for his “naturally appealing timbre graced with an attractive, rather tenorish ring above the staff.”

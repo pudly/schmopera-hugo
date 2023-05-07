@@ -1,17 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-11-12T13:58:00-07:00"
-lastmod = "2016-07-15T12:15:00-06:00"
-preamble = "[Jorell Williams](/scene/people/jorell-williams) is a baritone based in New York City, back home after a busy summer with Santa Fe Opera's Apprentice Program, singing in productions of *La fille du régiment*, *Rigoletto* and the world premiere of Jennifer Higdon's *Cold Mountain*.\n\nI first met Jorell in rainy St. John's, NL, while he was singing Schaunard in *La bohème*. We had a summer of great conversations about the realities of the opera industry, and so he has been on my must-interview list ever since. We spoke over Skype about some big topics, like being an African-American baritone in the United States, the decline of the operatic superstar, and helping people \"go somewhere that's not reality\" with his singing.\n\nYou can hear Jorell Williams sing Haydn's *Creation* with the Geneseo Symphony Orchestra on November 22nd (free admission, 3pm, Wadsworth Auditorium, Geneseo, NY), at Handel's [*Messiah*](http://www.branfordmessiah.org/index.html) with the Branford Chorale on December 20th (5:30pm, First Congregational Church, Branford, CT)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447424077771/2015-11-13---Jorell-Williams.jpg.jpg"
-publishDate = "2015-11-13T07:55:00-07:00"
-related_articles = ["articles/talking-with-singers-othalie-graham.md","articles/what-oscarssowhite-can-learn-from-opera.md","articles/talking-with-singers-bryan-register.md","articles/spotlight-on-diego-silva.md","articles/spotlight-on-will-liverman.md","articles/sidney-outlaw-stairs-success.md","articles/talking-with-singers-jnai-bridges.md","articles/cycles-of-my-being-this-is-their-story.md","articles/talking-with-singers-john-holiday.md"]
-related_people = ["scene/people/jorell-williams.md"]
-short_description = "Jorell Williams is a baritone based in New York City, back home after a busy summer with Santa Fe Opera&#039;s Apprentice Program, singing in productions of La fille du régiment, Rigoletto and the world premiere of Jennifer Higdon&#039;s Cold Mountain."
-slug = "talking-with-singers-jorell-williams"
-title = "Talking with singers: Jorell Williams"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-11-12T13:58:00-07:00"
+lastmod: "2016-07-15T12:15:00-06:00"
+preamble: |-
+  [Jorell Williams](/scene/people/jorell-williams) is a baritone based in New York City, back home after a busy summer with Santa Fe Opera's Apprentice Program, singing in productions of *La fille du régiment*, *Rigoletto* and the world premiere of Jennifer Higdon's *Cold Mountain*.
+
+  I first met Jorell in rainy St. John's, NL, while he was singing Schaunard in *La bohème*. We had a summer of great conversations about the realities of the opera industry, and so he has been on my must-interview list ever since. We spoke over Skype about some big topics, like being an African-American baritone in the United States, the decline of the operatic superstar, and helping people "go somewhere that's not reality" with his singing.
+
+  You can hear Jorell Williams sing Haydn's *Creation* with the Geneseo Symphony Orchestra on November 22nd (free admission, 3pm, Wadsworth Auditorium, Geneseo, NY), at Handel's [*Messiah*](http://www.branfordmessiah.org/index.html) with the Branford Chorale on December 20th (5:30pm, First Congregational Church, Branford, CT).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447424077771/2015-11-13---Jorell-Williams.jpg.jpg
+publishDate: "2015-11-13T07:55:00-07:00"
+related_articles:
+- articles/talking-with-singers-othalie-graham.md
+- articles/what-oscarssowhite-can-learn-from-opera.md
+- articles/talking-with-singers-bryan-register.md
+- articles/spotlight-on-diego-silva.md
+- articles/spotlight-on-will-liverman.md
+- articles/sidney-outlaw-stairs-success.md
+- articles/talking-with-singers-jnai-bridges.md
+- articles/cycles-of-my-being-this-is-their-story.md
+- articles/talking-with-singers-john-holiday.md
+related_people:
+- scene/people/jorell-williams.md
+short_description: Jorell Williams is a baritone based in New York City, back home
+  after a busy summer with Santa Fe Opera&#039;s Apprentice Program, singing in productions
+  of La fille du régiment, Rigoletto and the world premiere of Jennifer Higdon&#039;s
+  Cold Mountain.
+slug: talking-with-singers-jorell-williams
+title: 'Talking with singers: Jorell Williams'
+---
 
 "If I were sitting behind the table listening to people audition, what I'm used to is the drop the needle effect. You close your eyes and you listen to what the voice is doing. You're not looking at anyone, you're not looking at a photograph, you're not looking for anything else except what the voice does."
 

@@ -1,29 +1,37 @@
-+++
-date = "2016-05-05T18:04:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-05-05T18:04:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581276562/media/2020/02/RussellThomas-FayFox_l6vwjs.jpg"
-primary_image_credit = "Photo: Fay Fox."
-publishDate = "2016-05-05T18:04:00+01:00"
-related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/washington-national-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/canadian-opera-company.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/salzburg-festival.md", "scene/companies/san-francisco-opera.md", "scene/companies/english-national-opera.md"]
-slug = "russell-thomas"
-title = "Russell Thomas"
-website = "https://www.russellthomastenor.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Russell-Thomas-Tenor-124151254310413/?ref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/travlingtenor"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/travlingtenor/"
-
-_template = "people_single"
-+++
+---
+date: "2016-05-05T18:04:00+01:00"
+discipline: Tenor
+lastmod: "2016-05-05T18:04:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1581276562/media/2020/02/RussellThomas-FayFox_l6vwjs.jpg
+primary_image_credit: 'Photo: Fay Fox.'
+publishDate: "2016-05-05T18:04:00+01:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/washington-national-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/salzburg-festival.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/english-national-opera.md
+slug: russell-thomas
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Russell-Thomas-Tenor-124151254310413/?ref=ts
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/travlingtenor
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/travlingtenor/
+title: Russell Thomas
+website: https://www.russellthomastenor.com/
+---
 With a “heroically shining tone of exceptional clarity and precision” (_Opera Magazine_) and “gorgeously burnished power” (_The New York Times_), American tenor Russell Thomas uses his signature elegance and intensity to create vivid character portrayals on the world’s most important stages.
 
 The 2019/20 season features Mr. Thomas’s much-anticipated role debuts in a trio of important Verdi roles. He opens the season with his first Don Alvaro in a new Frank Castorf production of _La forza del destino_ at Deutsche Oper Berlin, and subsequently makes his role and house debuts as Radames in Houston Grand Opera’s new Phelim McDermott production of _Aida_. Amid returns to Canadian Opera Company as Radames and Washington National Opera as the title character in Verdi’s iconic _Otello_, he also joins Gianandrea Noseda at the Vienna Konzerthaus for Beethoven’s Symphony No. 9. Mr. Thomas closes his season with a role debut as the title character in _Ernani_ at San Francisco Opera.

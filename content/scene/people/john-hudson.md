@@ -1,16 +1,18 @@
-+++
-date = "2016-05-24T06:32:00-04:00"
-discipline = "Tenor"
-lastmod = "2016-05-24T06:32:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546830366/media/2019/01/JohnHudson.gif"
-publishDate = "2016-05-24T06:32:00-04:00"
-related_companies = ["scene/companies/english-national-opera.md", "scene/companies/welsh-national-opera.md", "scene/companies/scottish-opera.md"]
-slug = "john-hudson"
-title = "John Hudson"
-website = "http://www.johnhudsontenor.com/"
-
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2016-05-24T06:32:00-04:00"
+discipline: Tenor
+lastmod: "2016-05-24T06:32:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546830366/media/2019/01/JohnHudson.gif
+publishDate: "2016-05-24T06:32:00-04:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/scottish-opera.md
+slug: john-hudson
+title: John Hudson
+website: http://www.johnhudsontenor.com/
+---
 John Hudson studied singing at the Guildhall School of Music and Drama with Laura Sarti and subsequently with Josephine Veasey.
 
 In 1992, he spent a year with the chorus of Welsh National Opera and in 1993 was offered a principal contract with English National Opera for whom he made his acclaimed début as Macduff (*Macbeth*). Since then, at ENO, he has sung the roles of Rodolfo (*La Bohème*), Ottavio (*Don Giovanni*), Alfredo (*La Traviata* – production by Jonathan Millar), des Grieux (*Manon*), Leicester (*Mary Stuart*), Licinius (*La Vestale*), and Radames/*Aida* all in new productions, Nadir (*The Pearl Fishers*) to great critical acclaim, Ernesto (*Don Pasquale*), Steersman (*The Flying Dutchman*), Tamino (*Magic Flute*), Duke (*Rigoletto*), the title role in *Ernani*, Pinkerton (*Madam Butterfly*), Don José (*Carmen*), Turiddu (*Cavalleria Rusticana*) and Cavaradossi (*Tosca*).

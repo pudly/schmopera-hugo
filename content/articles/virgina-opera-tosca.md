@@ -1,22 +1,29 @@
-+++
-author = ["authors/molly-simoneau.md"]
-categories = "Review"
-date = "2019-10-13T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[Virginia Opera's _Tosca_](https://vaopera.org/experience/tosca/) has two more performances in Richmond, VA, October 18-20."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571103360/media/2019/10/sqVAOperaTOSCA-3671_dektxt.jpg"
-primary_image_credit = "Matthew Vickers (Mario Cavaradossi) and Ewa Płonka (Floria Tosca) in Tosca, Virginia Opera, 2019. Photo: Ben Schill Photography."
-related_articles = ["articles/talking-with-singers-melody-moore.md", "articles/in-review-tosca-at-eno.md"]
-related_companies = ["scene/companies/virginia-opera.md"]
-related_people = []
-short_description = "In general, tempos throughout the performance were sluggish, particularly in the first act. The love duet plodded along and the Te Deum was agonizingly slow, as was Mario's third act aria \"e lucevan le stelle.\""
-slug = "a-tosca-found-wanting-in-virginia-operas-production"
-title = "A Tosca found wanting in Virginia Opera's production"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/molly-simoneau.md
+categories: Review
+date: "2019-10-13T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '[Virginia Opera''s _Tosca_](https://vaopera.org/experience/tosca/) has
+  two more performances in Richmond, VA, October 18-20.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571103360/media/2019/10/sqVAOperaTOSCA-3671_dektxt.jpg
+primary_image_credit: 'Matthew Vickers (Mario Cavaradossi) and Ewa Płonka (Floria
+  Tosca) in Tosca, Virginia Opera, 2019. Photo: Ben Schill Photography.'
+related_articles:
+- articles/talking-with-singers-melody-moore.md
+- articles/in-review-tosca-at-eno.md
+related_companies:
+- scene/companies/virginia-opera.md
+related_people: []
+short_description: In general, tempos throughout the performance were sluggish, particularly
+  in the first act. The love duet plodded along and the Te Deum was agonizingly slow,
+  as was Mario's third act aria "e lucevan le stelle."
+slug: a-tosca-found-wanting-in-virginia-operas-production
+title: A Tosca found wanting in Virginia Opera's production
+youtube_url: ""
+---
 It's not often as a critic that you get to see two different opera companies' productions of the same work in such close succession, such that it invites a direct comparison, but that's what happened when Virginia Opera kicked off their season with [_Tosca_](https://vaopera.org/experience/tosca/), just a few months after Washington National Opera concluded their season with the same.
 
 <figure data-type="image">

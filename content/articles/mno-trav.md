@@ -1,22 +1,31 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2019-05-08T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[_La traviata_]( https://my.mnopera.org/events?view=list2.67559505.1144286402.1557108489-1809359702.1556996509) runs until May 19 at the Ordway Center in St. Paul."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557326973/media/2019/05/sqMNOTravDN3_3637.jpg"
-primary_image_credit = "Nicolle Cabell (Violetta) in La traviata, Minnesota Opera, 2019. Photo: Dan Norman."
-related_articles = []
-related_companies = ["scene/companies/minnesota-opera.md"]
-related_people = ["scene/people/joo-won-kang.md", "scene/people/jesus-leon.md", "scene/people/nicole-cabell.md"]
-short_description = "Violetta's most vulnerable moments were during the overtures behind a scrim. In the initial overture Violetta was seen revving herself up for the party between coughing fits, and before the final act Violetta dreams that Alfredo is still with her."
-slug = "sanitized-tragedy-la-traviata-in-minnesota"
-title = "Sanitized tragedy: La traviata in Minnesota"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2019-05-08T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '[_La traviata_]( https://my.mnopera.org/events?view=list2.67559505.1144286402.1557108489-1809359702.1556996509)
+  runs until May 19 at the Ordway Center in St. Paul.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1557326973/media/2019/05/sqMNOTravDN3_3637.jpg
+primary_image_credit: 'Nicolle Cabell (Violetta) in La traviata, Minnesota Opera,
+  2019. Photo: Dan Norman.'
+related_articles: []
+related_companies:
+- scene/companies/minnesota-opera.md
+related_people:
+- scene/people/joo-won-kang.md
+- scene/people/jesus-leon.md
+- scene/people/nicole-cabell.md
+short_description: Violetta's most vulnerable moments were during the overtures behind
+  a scrim. In the initial overture Violetta was seen revving herself up for the party
+  between coughing fits, and before the final act Violetta dreams that Alfredo is
+  still with her.
+slug: sanitized-tragedy-la-traviata-in-minnesota
+title: 'Sanitized tragedy: La traviata in Minnesota'
+youtube_url: ""
+---
 On Saturday May 4, Minnesota Opera closed their season with Verdi's _La traviata_ at the Ordway Center for the Performing Arts. When the curtain came up there was a palpable excitement from the audience for this classic opera.
 
 [Nicole Cabell](/scene/people/nicole-cabell/) was a stunning Violetta and showcased a sublime tone that was best showcased in pianissimo sections in Act III. [Jesus Leon](/scene/people/jesus-leon/) was an eager Alfredo Germont. [Bergan Baker](/scene/people/bergan-baker/) as Flora was the life of the party, and surprisingly her period ball gown was swapped in Act III for some pants and a riding crop (costumes by [Isabella Bywater](https://mnopera.org/biography/isabella-bywater/)).

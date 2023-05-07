@@ -1,21 +1,31 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2019-02-01T17:03:32+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "_Hook Up_ runs at Theatre Passe Muraille through to February 9. Tickets are [available here](https://tapestryopera.com/hook-up/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549040385/media/2019/02/sqHookUp-photobyDahliaKatz-9127.jpg"
-primary_image_credit = "Hook Up, Tapestry Opera/Theatre Passe Muraille, 2019. Photo: Dahlia Katz."
-related_articles = ["articles/operas-sexual-assault-secret.md", "articles/hook-up-review.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/michael-mori.md", "scene/people/chris-thornborrow.md"]
-short_description = "It was at times Sondheim, at times Schwartz, at times Bernstein, but the overarching feeling (to me) was akin to Adam Guettel's masterpiece A Light in the Piazza."
-slug = "bucking-trends-hook-up"
-title = "Bucking trends: Hook Up"
-youtube_url = ""
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2019-02-01T17:03:32+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: _Hook Up_ runs at Theatre Passe Muraille through to February 9. Tickets
+  are [available here](https://tapestryopera.com/hook-up/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549040385/media/2019/02/sqHookUp-photobyDahliaKatz-9127.jpg
+primary_image_credit: 'Hook Up, Tapestry Opera/Theatre Passe Muraille, 2019. Photo:
+  Dahlia Katz.'
+related_articles:
+- articles/operas-sexual-assault-secret.md
+- articles/hook-up-review.md
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/michael-mori.md
+- scene/people/chris-thornborrow.md
+short_description: It was at times Sondheim, at times Schwartz, at times Bernstein,
+  but the overarching feeling (to me) was akin to Adam Guettel's masterpiece A Light
+  in the Piazza.
+slug: bucking-trends-hook-up
+title: 'Bucking trends: Hook Up'
+youtube_url: ""
+---
 
 Tapestry Opera dove into 2019 headfirst with some very timely subject matter. _Hook Up_, with music by Chris Thornborrow and a libretto by Julie Tepperman, tells the story of three young persons as they head off to start a new chapter in their life - university. For some this can be an uplifting, transformative experience. For others, it can be one of the darkest times in our lives. I'm privileged to experience the former; _Hook Up_ tells the story of the latter.
 

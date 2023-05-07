@@ -1,20 +1,23 @@
-+++
-date = "2015-04-07T18:45:00-04:00"
-discipline = "Soprano, mezzo-soprano"
-lastmod = "2015-04-07T18:45:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428446631282/JenniferHollow.jpg.jpg"
-primary_image_credit = "Arielle Doneson"
-publishDate = "2015-04-07T18:45:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-dallas-opera.md"]
-slug = "jennifer-holloway"
-title = "Jennifer Holloway"
-website = "http://www.jenniferhollowaymezzo.com/jenniferhollowaymezzo.com/Home.html"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/jennhollowaaay"
-_template = "people_single"
-+++
+---
+date: "2015-04-07T18:45:00-04:00"
+discipline: Soprano, mezzo-soprano
+lastmod: "2015-04-07T18:45:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428446631282/JenniferHollow.jpg.jpg
+primary_image_credit: Arielle Doneson
+publishDate: "2015-04-07T18:45:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/the-dallas-opera.md
+slug: jennifer-holloway
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/jennhollowaaay
+title: Jennifer Holloway
+website: http://www.jenniferhollowaymezzo.com/jenniferhollowaymezzo.com/Home.html
+---
 
 <p>
 	Lauded for her "nuanced dramatic impulses" and "voice that is liquid, lambent, and lit from within", American singer Jennifer Holloway gives new life to the characters she plays and the music she sings at leading opera houses and concert halls at home and abroad. This season brings exciting role debuts, including Rosina, Musetta, and Adalgisa, and her first appearances with the Canadian Opera Company (Elvira in Dmitri Tcherniakov's production of Don Giovanni) and Opera Philadelphia.

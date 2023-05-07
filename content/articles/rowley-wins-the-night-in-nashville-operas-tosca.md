@@ -1,18 +1,29 @@
-+++
-author = ["authors/tracy-monaghan.md"]
-categories = "Review"
-date = "2017-10-07T10:37:00-04:00"
-lastmod = "2017-10-07T11:13:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507387240232/2017-10-08---square---Tosca-2.jpg.jpg"
-primary_image_credit = "Jennifer Rowley in the title role of Tosca, Nashville Opera, 2017. Photo: Anthony Popolo for Nashville Opera."
-publishDate = "2017-10-07T11:00:00-04:00"
-related_articles = ["articles/talking-with-singers-jennifer-rowley.md","articles/in-review-tosca-at-the-coc.md","articles/in-review-tosca-at-eno.md"]
-related_companies = ["scene/companies/nashville-opera.md"]
-related_people = ["scene/people/weston-hurt.md","scene/people/john-pickle.md"]
-short_description = "My companion for the evening hadn&#039;t seen Tosca before (or even heard the music!), and quickly read a synopsis in advance (&quot;I get the idea,&quot; she texted me, &quot;Opera war Italy love murder. Papal stuff.&quot;), but a synopsis can&#039;t really prepare one for this opera, can it?"
-slug = "rowley-wins-the-night-in-nashville-operas-tosca"
-title = "Rowley wins the night in Nashville Opera&#039;s Tosca"
-+++
+---
+author:
+- authors/tracy-monaghan.md
+categories: Review
+date: "2017-10-07T10:37:00-04:00"
+lastmod: "2017-10-07T11:13:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507387240232/2017-10-08---square---Tosca-2.jpg.jpg
+primary_image_credit: 'Jennifer Rowley in the title role of Tosca, Nashville Opera,
+  2017. Photo: Anthony Popolo for Nashville Opera.'
+publishDate: "2017-10-07T11:00:00-04:00"
+related_articles:
+- articles/talking-with-singers-jennifer-rowley.md
+- articles/in-review-tosca-at-the-coc.md
+- articles/in-review-tosca-at-eno.md
+related_companies:
+- scene/companies/nashville-opera.md
+related_people:
+- scene/people/weston-hurt.md
+- scene/people/john-pickle.md
+short_description: My companion for the evening hadn&#039;t seen Tosca before (or
+  even heard the music!), and quickly read a synopsis in advance (&quot;I get the
+  idea,&quot; she texted me, &quot;Opera war Italy love murder. Papal stuff.&quot;),
+  but a synopsis can&#039;t really prepare one for this opera, can it?
+slug: rowley-wins-the-night-in-nashville-operas-tosca
+title: Rowley wins the night in Nashville Opera&#039;s Tosca
+---
 
 My companion for the evening hadn't seen *Tosca* before (or even heard the music!), and quickly read a synopsis in advance ("I get the idea," she texted me, "Opera war Italy love murder. Papal stuff."), but a synopsis can't really prepare one for this opera, can it? 
 

@@ -1,19 +1,32 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = "2018-10-09T19:34:00-04:00"
-lastmod = "2018-10-19T15:29:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539128039910/sqMichaelFabiano_MariaAgresta_LABOHEME_LYR181003_087_c.jpg.jpg"
-primary_image_credit = "Michael Fabiano (Rodolfo) and Maria Agresta (Mimì) in La bohème, Lyric Opera of Chicago, 2018. Photo by Todd Rosenberg."
-publishDate = "2018-10-09T19:34:00-04:00"
-related_articles = ["articles/an-operas-evolving-relevance-turandot.md", "articles/bohemian-atg-boheme.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/maria-agresta.md", "scene/people/rolando-villazon.md", "scene/people/zachary-nelson.md", "scene/people/danielle-de-niese.md", "scene/people/ricardo-rivera.md"]
-short_description = "Director Richard Jones deserves fervent applause for his three-dimensional realization of this show.  Characters and set-pieces alike moved and reacted with cinematic deliberateness.  Rising conductor Domingo Hindoyan makes his Lyric debut in this production. The LOC orchestra responded with a lush blanket of sound, emanating from the pit and supporting the singers.  "
-slug = "pass-the-tissues-a-beautiful-new-bohème-in-chicago"
-title = "Pass the tissues: a beautiful new Bohème in Chicago"
-
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2018-10-09T19:34:00-04:00"
+lastmod: "2018-10-19T15:29:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539128039910/sqMichaelFabiano_MariaAgresta_LABOHEME_LYR181003_087_c.jpg.jpg
+primary_image_credit: Michael Fabiano (Rodolfo) and Maria Agresta (Mimì) in La bohème,
+  Lyric Opera of Chicago, 2018. Photo by Todd Rosenberg.
+publishDate: "2018-10-09T19:34:00-04:00"
+related_articles:
+- articles/an-operas-evolving-relevance-turandot.md
+- articles/bohemian-atg-boheme.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/maria-agresta.md
+- scene/people/rolando-villazon.md
+- scene/people/zachary-nelson.md
+- scene/people/danielle-de-niese.md
+- scene/people/ricardo-rivera.md
+short_description: 'Director Richard Jones deserves fervent applause for his three-dimensional
+  realization of this show.  Characters and set-pieces alike moved and reacted with
+  cinematic deliberateness.  Rising conductor Domingo Hindoyan makes his Lyric debut
+  in this production. The LOC orchestra responded with a lush blanket of sound, emanating
+  from the pit and supporting the singers.  '
+slug: pass-the-tissues-a-beautiful-new-bohème-in-chicago
+title: 'Pass the tissues: a beautiful new Bohème in Chicago'
+---
 There's a special kind of energy in the air on a season's opening night at major opera houses like the Lyric Opera of Chicago.  This past Saturday, the LOC kicked off its 2018-2019 season with a beloved and indomitable classic: Puccini's [*La bohème*](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-boheme-opera-tickets).
  
 Ambling through the Civic's iconic art-deco foyer, surrounded by bedazzled patrons donning fine gowns, tuxedos, turbans, wraps, and trinkets, one vicariously absorbed the collective glamour of the occasion. Despite the glitz and gleam, though, the occasion itself – that of hearing and seeing *La bohème* performed live by stellar musicians – predominated the evening. Personally, I never tire of this piece (and acknowledge its place in an opera house's repertory along with the likes of *Aida* and *Carmen*, which together with *Bohème* comprise the "ABCs" of box-office success).  Puccini's *La bohème* is a masterpiece. There! I said it.  And those who pooh-pooh this score, I claim, don’t really know it.  (Benjamin Britten notwithstanding who, in a 1951 article in *Opera* magazine, derided *Bohème* as "cheap" and "empty.") 

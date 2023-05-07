@@ -1,18 +1,31 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2018-05-16T10:49:00-04:00"
-lastmod = "2018-05-16T10:49:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526481567401/sqrig_0284p.jpg.jpg"
-primary_image_credit = "Juan Jesus Rodriguez (Rigoletto) in LA Opera's 2018 production of Rigoletto. Photo: Ken Howard/LA Opera."
-publishDate = "2018-05-16T10:49:00-04:00"
-related_articles = ["articles/searching-for-superlatives-locs-suberb-rigoletto.md","articles/talking-with-singers-michael-fabiano.md"]
-related_companies = ["scene/companies/los-angeles-opera.md"]
-related_people = ["scene/people/lisette-oropesa.md","scene/people/morris-robinson.md","scene/people/ginger-costajackson.md","scene/people/arturo-chaconcruz.md"]
-short_description = "To protect his daughter from the Duke (and his entourage of like-minded cruel courtiers), Rigoletto hides her from the real world. She isn&#039;t allowed to venture outside, except to go to church. And that&#039;s where the Duke spies her and decides he must have her. There is an abundance of well-placed irony throughout the drama."
-slug = "verdis-tragedy-in-jest"
-title = "Verdi&#039;s tragedy in jest"
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2018-05-16T10:49:00-04:00"
+lastmod: "2018-05-16T10:49:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526481567401/sqrig_0284p.jpg.jpg
+primary_image_credit: 'Juan Jesus Rodriguez (Rigoletto) in LA Opera''s 2018 production
+  of Rigoletto. Photo: Ken Howard/LA Opera.'
+publishDate: "2018-05-16T10:49:00-04:00"
+related_articles:
+- articles/searching-for-superlatives-locs-suberb-rigoletto.md
+- articles/talking-with-singers-michael-fabiano.md
+related_companies:
+- scene/companies/los-angeles-opera.md
+related_people:
+- scene/people/lisette-oropesa.md
+- scene/people/morris-robinson.md
+- scene/people/ginger-costajackson.md
+- scene/people/arturo-chaconcruz.md
+short_description: To protect his daughter from the Duke (and his entourage of like-minded
+  cruel courtiers), Rigoletto hides her from the real world. She isn&#039;t allowed
+  to venture outside, except to go to church. And that&#039;s where the Duke spies
+  her and decides he must have her. There is an abundance of well-placed irony throughout
+  the drama.
+slug: verdis-tragedy-in-jest
+title: Verdi&#039;s tragedy in jest
+---
 
 Sometimes when a singer makes his or her opera company debut, the results are earth-shaking. No pun intended, but LA Opera has had a few of those quakes. (Maria Ewing in *Salome*, is just one example.) Well, another "star is born" as Juan Jesus Rodriguez made his first appearance in the City of Angels in the title role of [*Rigoletto*,](https://www.laopera.org/season/1718-Season/rigoletto/) as the cursed court jester. Mr. Rodriguez is so brilliant in the role, in fact, that his performance overwhelms the rest of the production - which is good - but isn't quite as great as he is.
  

@@ -1,22 +1,30 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2020-02-16T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581897478/media/2020/02/sqWozzeck-NaslundEMR_kvhocy.jpg"
-primary_image_credit = "Baritone Anders Naslund as he appeared in the Royal Swedish Opera's 1959 production on Alban Berg’s “Wozzeck,” on tour in Edinburgh, Scotland. Photo Royal Swedish Opera/Enar Merkel Rydberg."
-related_articles = ["articles/talking-with-singers-christopher-purves.md", "articles/wozzeck.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/elza-van-den-heever.md"]
-short_description = "Whether as an artfully conceived full production, one taking place on the lip of a stage or a performance existing only in our ears and imagination, Wozzeck is a keeper."
-slug = "wozzeck-the-full-kentridge-and-beyond"
-title = "Wozzeck: The Full Kentridge and Beyond"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2020-02-16T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1581897478/media/2020/02/sqWozzeck-NaslundEMR_kvhocy.jpg
+primary_image_credit: Baritone Anders Naslund as he appeared in the Royal Swedish
+  Opera's 1959 production on Alban Berg’s “Wozzeck,” on tour in Edinburgh, Scotland.
+  Photo Royal Swedish Opera/Enar Merkel Rydberg.
+related_articles:
+- articles/talking-with-singers-christopher-purves.md
+- articles/wozzeck.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/elza-van-den-heever.md
+short_description: Whether as an artfully conceived full production, one taking place
+  on the lip of a stage or a performance existing only in our ears and imagination,
+  Wozzeck is a keeper.
+slug: wozzeck-the-full-kentridge-and-beyond
+title: 'Wozzeck: The Full Kentridge and Beyond'
+youtube_url: ""
+---
 Fin de siécle Vienna sets the time and place. The Second Viennese School and most importantly Alban Berg’s humane refinement of Arnold Schoenberg’s twelve-tone system, or atonality, distinguish the composer. The opera is Berg's _Wozzeck_, a relentlessly grueling story of degradation and exploitation.
 
 In skillful musical hands and voiced by intelligent singers, it produces passages of startling intensity and surprising beauty. Over time two very different performances and a live recording, all possessing that remarkable combination of beauty and intensity, have served to shape my view of this indispensable piece.

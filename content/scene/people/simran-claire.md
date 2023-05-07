@@ -1,18 +1,19 @@
-+++
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1640983523/media/2021/12/SimranClaire_DiamondsEdgePhoto_em3v3j.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/calgary-opera.md", "scene/companies/pacific-opera-victoria.md"]
-slug = "simran-claire"
-title = "Simran Claire"
-website = "https://www.simranclaire.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/simranclaire/"
-
-_template = "people_single"
-+++
+---
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1640983523/media/2021/12/SimranClaire_DiamondsEdgePhoto_em3v3j.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/calgary-opera.md
+- scene/companies/pacific-opera-victoria.md
+slug: simran-claire
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/simranclaire/
+title: Simran Claire
+website: https://www.simranclaire.com/
+---
 Simran Claire is a Punjabi-Canadian mezzo-soprano and creative based in Vancouver, BC. Her artistic practice is rooted at the intersection of innovation and tradition, with an emerging focus on multidisciplinary work. She is proud to represent her community in the white-dominated spaces of opera and art song.
 
 This past February, Simran released _Dadima_ (Pacific Opera Victoria), a short film exploring her identity, heritage and lineage using the framework of Schumann’s _Frauenliebe und -leben_. Her creative debut was praised as “utterly moving, disorientating in a beautiful way, like uncovering a cultural bias you didn’t know you had,” (_Opera Canada_). Dadima was created as a part of her work in Pacific Opera Victoria’s Civic Engagement Quartet.

@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-11-10T16:50:00+00:00"
-lastmod = "2016-11-14T15:27:00+00:00"
-preamble = "From **November 16-20** at St. David's Anglican Church, [Tapestry Opera](/scene/companies/tapestry-opera/) presents [*Naomi's Road*](https://tapestryopera.com/naomis-road/), by Ramona Luengen and Ann Hodges, based on the novel by Joy Kogawa. Set in Vancouver during WWII, the opera tells the story of Japanese-Canadian Naomi, a young girl who journeys to an internment camp in British Columbia. It recalls muted events in Canadian history, and Tapestry Opera's Michael Hidetoshi Mori directs.\n\nWe spoke with Hiather Darnel-Kadonaga, who sings the role of Naomi in this [Tapestry Opera production](https://tapestryopera.com/naomis-road/)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478796772250/2016-11-10---Young-Naomi_Hiather-Darnel-Kadonaga.jpg.jpg"
-primary_image_credit = "Photo courtesy of Tapestry Opera."
-publishDate = "2016-11-14T13:32:00+00:00"
-related_articles = ["articles/in-review-rocking-horse-winner.md","articles/in-review-mdea-undone.md","articles/in-review-tapex-tables-turned-or-go-see-this-show.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
-short_description = "&quot;One of the most beautiful things about this opera is that, despite the family being completely separated and the children being torn away from their parents, they seem to create a secure and loving family unit finding a way to stay together and remain strong against adversity.&quot;"
-slug = "dont-miss-naomis-road"
-title = "Don&#039;t miss: Naomi&#039;s Road"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-11-10T16:50:00+00:00"
+lastmod: "2016-11-14T15:27:00+00:00"
+preamble: |-
+  From **November 16-20** at St. David's Anglican Church, [Tapestry Opera](/scene/companies/tapestry-opera/) presents [*Naomi's Road*](https://tapestryopera.com/naomis-road/), by Ramona Luengen and Ann Hodges, based on the novel by Joy Kogawa. Set in Vancouver during WWII, the opera tells the story of Japanese-Canadian Naomi, a young girl who journeys to an internment camp in British Columbia. It recalls muted events in Canadian history, and Tapestry Opera's Michael Hidetoshi Mori directs.
+
+  We spoke with Hiather Darnel-Kadonaga, who sings the role of Naomi in this [Tapestry Opera production](https://tapestryopera.com/naomis-road/).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478796772250/2016-11-10---Young-Naomi_Hiather-Darnel-Kadonaga.jpg.jpg
+primary_image_credit: Photo courtesy of Tapestry Opera.
+publishDate: "2016-11-14T13:32:00+00:00"
+related_articles:
+- articles/in-review-rocking-horse-winner.md
+- articles/in-review-mdea-undone.md
+- articles/in-review-tapex-tables-turned-or-go-see-this-show.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+short_description: '&quot;One of the most beautiful things about this opera is that,
+  despite the family being completely separated and the children being torn away from
+  their parents, they seem to create a secure and loving family unit finding a way
+  to stay together and remain strong against adversity.&quot;'
+slug: dont-miss-naomis-road
+title: 'Don&#039;t miss: Naomi&#039;s Road'
+---
 
 ## What does this opera have to say about xenophobia and racism in the context of Canadian history?
  

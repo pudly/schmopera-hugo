@@ -1,22 +1,30 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2021-10-22T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "À-la-carte access to _Song of Orpheus_ and other Les Délices concerts are available through [Marquee TV](https://www.marquee.tv/series/lesdelices) for $24.99. Subscription packages and more information are [available here](https://www.lesdelices.org/subscription-packages/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1634857406/media/2021/10/sqOrpheus_woyyrk.jpg"
-primary_image_credit = "Shelby Yaman, violinist, in Les Délices's production of Song of Orpheus, 2021. Photo: Erica Brenner."
-related_articles = ["articles/les-delices-presents-women-of-genius-in-the-ancien-regime.md", "articles/ravishing-orphic-moments-with-gluck-aucoin-costanzo.md"]
-related_companies = []
-related_people = ["scene/people/hannah-de-priest.md"]
-short_description = "The music is beautiful and speaks for itself. French Baroque rarities by Rameau, Dandrieu and Courbois dance with subdued, exuberant and often tremulous elegance around the legend of Orpheus and Eurydice. "
-slug = "les-delices-presents-song-of-orpheus-the-music-speaks-for-itself"
-title = "Les Délices presents Song of Orpheus: The Music Speaks For Itself"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2021-10-22T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: À-la-carte access to _Song of Orpheus_ and other Les Délices concerts are
+  available through [Marquee TV](https://www.marquee.tv/series/lesdelices) for $24.99.
+  Subscription packages and more information are [available here](https://www.lesdelices.org/subscription-packages/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1634857406/media/2021/10/sqOrpheus_woyyrk.jpg
+primary_image_credit: 'Shelby Yaman, violinist, in Les Délices''s production of Song
+  of Orpheus, 2021. Photo: Erica Brenner.'
+related_articles:
+- articles/les-delices-presents-women-of-genius-in-the-ancien-regime.md
+- articles/ravishing-orphic-moments-with-gluck-aucoin-costanzo.md
+related_companies: []
+related_people:
+- scene/people/hannah-de-priest.md
+short_description: 'The music is beautiful and speaks for itself. French Baroque rarities
+  by Rameau, Dandrieu and Courbois dance with subdued, exuberant and often tremulous
+  elegance around the legend of Orpheus and Eurydice. '
+slug: les-delices-presents-song-of-orpheus-the-music-speaks-for-itself
+title: 'Les Délices presents Song of Orpheus: The Music Speaks For Itself'
+youtube_url: ""
+---
 _Song of Orpheus_ is the newest steaming program by the Cleveland-based [Les Délices](https://www.lesdelices.org/). It revels in the enduring myth, one that continues to be visited over the centuries by composers across the musical spectrum. The music is beautiful and speaks for itself. French Baroque rarities by Rameau, Dandrieu and Courbois dance with subdued, exuberant and often tremulous elegance around the legend of Orpheus and Eurydice.
 
 The program opens with a new, yes new, trio sonata "By much love betray'd" by composer Jonathan Woody, its title derived from John Dryden's translation of Virgil's _Georgics_. Seeped in the baroque tradition, it is essentially a tone poem in three-parts, a work clearly evoking the pivotal moments in the life of Orpheus: receiving the lyre from Apollo, his fateful turn to gaze upon Eurydice in the underworld and finally his death by the Maenads. On-screen titles for each part make it easy to follow.

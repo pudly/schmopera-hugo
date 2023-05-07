@@ -1,20 +1,27 @@
-+++
-date = "2015-04-07T17:19:00-04:00"
-discipline = "Baritone"
-lastmod = "2015-04-07T17:20:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1649423245/media/2022/04/4_ytiwl1.jpg"
-primary_image_credit = "Julien Faugère,"
-publishDate = "2015-04-07T17:19:00-04:00"
-related_companies = ["scene/companies/lopra-de-montral.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/opra-de-qubec.md", "scene/companies/vancouver-opera.md", "scene/companies/calgary-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/glyndebourne.md", "scene/companies/against-the-grain-theatre.md"]
-slug = "etienne-dupuis"
-title = "Etienne Dupuis"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/etiennelovesya"
-
-_template = "people_single"
-+++
+---
+date: "2015-04-07T17:19:00-04:00"
+discipline: Baritone
+lastmod: "2015-04-07T17:20:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1649423245/media/2022/04/4_ytiwl1.jpg
+primary_image_credit: Julien Faugère,
+publishDate: "2015-04-07T17:19:00-04:00"
+related_companies:
+- scene/companies/lopra-de-montral.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/opra-de-qubec.md
+- scene/companies/vancouver-opera.md
+- scene/companies/calgary-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/glyndebourne.md
+- scene/companies/against-the-grain-theatre.md
+slug: etienne-dupuis
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/etiennelovesya
+title: Etienne Dupuis
+---
 Praised for his “suave, empathetic baritone” and his “refined, charismatic” stage presence (The New York Times), Etienne Dupuis enjoys international acclaim, appearing regularly at the world's most important opera stages and concert platforms.
 
 Etienne's exciting 2021/2022 season includes Rodrigue in the Metropolitan Opera premiere of the French version of Verdi's _Don Carlos_, his San Francisco Opera debut in the title role of a new _Don Giovanni_ production, the protagonist of _Eugene Onegin_ in concert with the Dallas Symphony Orchestra, Rodrigo in Don Carlo and the prestigious Gala concert in aid of the German AIDS Foundation at the Deutsche Oper Berlin as well as four productions at the Wiener Staatsoper, where he appears in the title role of a new staging of _Il barbiere di Siviglia_, as Valentin in _Faust_, Marcello in _La bohème_ and Albert in _Werther_.

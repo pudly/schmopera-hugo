@@ -1,22 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = 2023-02-06T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "The COC's production of [Le nozze di Figaro](https://www.coc.ca/productions/23495) runs for four more performances, on February 10, 12, 16 and 18, 2023."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675702778/media/2023/02/sqCOCnozze_22-23-03-MC-D-0981_zapavw.jpg"
-primary_image_credit = "(l-r) Lauren Fagan as the Countess, Emily Fons as Cherubino, and Andrea Carroll as Susanna in the Canadian Opera Company’s production of The Marriage of Figaro, 2023, photo: Michael Cooper."
-related_articles = []
-related_companies = ["scene/companies/salzburg-festival.md", "scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/robert-pomakov.md", "scene/people/michael-colvin.md", "scene/people/jacques-arsenault.md", "scene/people/megan-latham.md", "scene/people/luca-pisaroni.md", "scene/people/lauren-fagan.md", "scene/people/gordon-bintner.md"]
-short_description = "Like, I can handle some dramatic symbolism, some commentary on a piece that has enormous wisdom in it; I suppose it's because all the neat little ideas -- Cherubim rides a unicycle! Susanna is obsessed with the Countess' fur coat! Figaro keeps leaping into an open pit in the floor! -- don't ever add up to something that's more profound than what Mozart and Da Ponte gave us."
-slug = "the-women-rule-in-cocs-nozze-di-figaro"
-title = "The women rule in COC's Nozze di Figaro"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2023-02-06T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: The COC's production of [Le nozze di Figaro](https://www.coc.ca/productions/23495)
+  runs for four more performances, on February 10, 12, 16 and 18, 2023.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1675702778/media/2023/02/sqCOCnozze_22-23-03-MC-D-0981_zapavw.jpg
+primary_image_credit: '(l-r) Lauren Fagan as the Countess, Emily Fons as Cherubino,
+  and Andrea Carroll as Susanna in the Canadian Opera Company’s production of The
+  Marriage of Figaro, 2023, photo: Michael Cooper.'
+related_articles: []
+related_companies:
+- scene/companies/salzburg-festival.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/robert-pomakov.md
+- scene/people/michael-colvin.md
+- scene/people/jacques-arsenault.md
+- scene/people/megan-latham.md
+- scene/people/luca-pisaroni.md
+- scene/people/lauren-fagan.md
+- scene/people/gordon-bintner.md
+short_description: Like, I can handle some dramatic symbolism, some commentary on
+  a piece that has enormous wisdom in it; I suppose it's because all the neat little
+  ideas -- Cherubim rides a unicycle! Susanna is obsessed with the Countess' fur coat!
+  Figaro keeps leaping into an open pit in the floor! -- don't ever add up to something
+  that's more profound than what Mozart and Da Ponte gave us.
+slug: the-women-rule-in-cocs-nozze-di-figaro
+title: The women rule in COC's Nozze di Figaro
+youtube_url: ""
+---
 Claus Guth's [_Nozze di Figaro_](https://www.coc.ca/productions/23495) is back at the Canadian Opera Company, and the little winged #$@! disturber is back at his old antics.
 
 This 2011 production, originally for the Salzburg Festival, revels in psychoanalyzing the characters in Mozart's well-loved opera. The psychoanalysis even gets personified in this production: actor Uli Kirsch as Cherubim, the silent addition Guth added that suggests that the plights of Susanna, Figaro, the Count, the Countess, and Cherubino, are pre-destined.

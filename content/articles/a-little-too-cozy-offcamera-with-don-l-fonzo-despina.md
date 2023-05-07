@@ -1,19 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-05-10T11:37:00+01:00"
-lastmod = "2016-05-10T17:41:00+01:00"
-preamble = "Readers, you've met the [contestants for *A Little Too Cozy*](/meet-the-contestants-of-a-little-too-cozy/), and now it's time to meet the masterminds behind your favourite love-at-first-text dating game show. We chat with the show's host, [Don L. Fonzo](/scene/people/cairan-ryan/) and talent relations expert, [Despina](/scene/people/caitlin-wood/); read on to get the insider's scoop on what to expect from the season finale, and the curious working relationship between Despina (sung by Caitlin Wood) and Fonzo (Cairan Ryan).\n\nThe show is only two days away! Follow our box office links below for details and to snag your seat."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462877982339/2016-05-10---5-Cozy---Hi-Res.jpg.jpg"
-primary_image_credit = "Cairan Ryan (Don L. Fonzo), Pascale Spinney (Dora) in AtG's A Little Too Cozy. Photo: Don Lee, The Banff Centre."
-publishDate = "2016-05-10T14:55:00+01:00"
-related_articles = ["articles/meet-the-contestants-of-a-little-too-cozy.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
-related_people = ["scene/people/cairan-ryan.md","scene/people/caitlin-wood.md","scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md"]
-short_description = "&quot;For some of our male contestants, it can be difficult to go without any female contact for such an extended period of time. I just make sure that they are happy and relaxed when the film starts to roll. And I try to give contestants advice about getting the most out of this opportunity — and I don&#039;t mean finding &#039;true love&#039;; I mean creating a brand or future career opportunities. &quot;"
-slug = "a-little-too-cozy-offcamera-with-don-l-fonzo-despina"
-title = "A Little Too Cozy: Off-camera with Don L. Fonzo &amp; Despina"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-05-10T11:37:00+01:00"
+lastmod: "2016-05-10T17:41:00+01:00"
+preamble: |-
+  Readers, you've met the [contestants for *A Little Too Cozy*](/meet-the-contestants-of-a-little-too-cozy/), and now it's time to meet the masterminds behind your favourite love-at-first-text dating game show. We chat with the show's host, [Don L. Fonzo](/scene/people/cairan-ryan/) and talent relations expert, [Despina](/scene/people/caitlin-wood/); read on to get the insider's scoop on what to expect from the season finale, and the curious working relationship between Despina (sung by Caitlin Wood) and Fonzo (Cairan Ryan).
+
+  The show is only two days away! Follow our box office links below for details and to snag your seat.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462877982339/2016-05-10---5-Cozy---Hi-Res.jpg.jpg
+primary_image_credit: 'Cairan Ryan (Don L. Fonzo), Pascale Spinney (Dora) in AtG''s
+  A Little Too Cozy. Photo: Don Lee, The Banff Centre.'
+publishDate: "2016-05-10T14:55:00+01:00"
+related_articles:
+- articles/meet-the-contestants-of-a-little-too-cozy.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-banff-centre.md
+related_people:
+- scene/people/cairan-ryan.md
+- scene/people/caitlin-wood.md
+- scene/people/joel-ivany.md
+- scene/people/christopher-mokrzewski.md
+short_description: '&quot;For some of our male contestants, it can be difficult to
+  go without any female contact for such an extended period of time. I just make sure
+  that they are happy and relaxed when the film starts to roll. And I try to give
+  contestants advice about getting the most out of this opportunity — and I don&#039;t
+  mean finding &#039;true love&#039;; I mean creating a brand or future career opportunities.
+  &quot;'
+slug: a-little-too-cozy-offcamera-with-don-l-fonzo-despina
+title: 'A Little Too Cozy: Off-camera with Don L. Fonzo &amp; Despina'
+---
 
 ## What are your thoughts on this group of *Cozy* contestants? 
 

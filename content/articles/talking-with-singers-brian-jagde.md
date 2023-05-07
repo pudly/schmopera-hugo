@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-10-26T20:12:00+01:00"
-lastmod = "2016-11-01T14:53:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477929217509/2016-10-26---Brian-Jagde---Simon-Pauly.jpg.jpg"
-primary_image_credit = "Photo by Simon Pauly."
-publishDate = "2016-11-01T14:33:00+00:00"
-related_articles = ["articles/talking-with-singers-leah-crocetto.md","articles/talking-with-singers-bryan-register.md","articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-ekaterina-semenchuk.md","articles/in-review-adriana-lecouvreur-at-roh.md","articles/spotlight-on-eric-barry.md","articles/talking-with-singers-carl-tanner.md","articles/talking-with-singers-clay-hilley.md"]
-related_companies = ["scene/companies/san-francisco-opera.md"]
-related_people = ["scene/people/brian-jagde.md","scene/people/leah-crocetto.md"]
-short_description = "&quot;You have to continue to get better,&quot; says Jagde of his constant work with his teachers and coaches. &quot;You&#039;re working really hard to just even have a job and to have a career, and now you have to keep it. The work never stops. It&#039;s not that you make it, and then you&#039;re there.&quot;"
-slug = "talking-with-singers-brian-jagde"
-title = "Talking with singers: Brian Jagde"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-10-26T20:12:00+01:00"
+lastmod: "2016-11-01T14:53:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477929217509/2016-10-26---Brian-Jagde---Simon-Pauly.jpg.jpg
+primary_image_credit: Photo by Simon Pauly.
+publishDate: "2016-11-01T14:33:00+00:00"
+related_articles:
+- articles/talking-with-singers-leah-crocetto.md
+- articles/talking-with-singers-bryan-register.md
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/talking-with-singers-ekaterina-semenchuk.md
+- articles/in-review-adriana-lecouvreur-at-roh.md
+- articles/spotlight-on-eric-barry.md
+- articles/talking-with-singers-carl-tanner.md
+- articles/talking-with-singers-clay-hilley.md
+related_companies:
+- scene/companies/san-francisco-opera.md
+related_people:
+- scene/people/brian-jagde.md
+- scene/people/leah-crocetto.md
+short_description: '&quot;You have to continue to get better,&quot; says Jagde of
+  his constant work with his teachers and coaches. &quot;You&#039;re working really
+  hard to just even have a job and to have a career, and now you have to keep it.
+  The work never stops. It&#039;s not that you make it, and then you&#039;re there.&quot;'
+slug: talking-with-singers-brian-jagde
+title: 'Talking with singers: Brian Jagde'
+---
 
 "When you're stepping onto the stage at [San Francisco Opera](/scene/companies/san-francisco-opera/), you kind of forget," says [Brian Jagde](/scene/people/brian-jagde/) of the long line of famed tenors who have sung at War Memorial Opera House. He is set to sing his first Radamès, in Francesca Zambello's new production of [*Aïda*](http://sfopera.com/discover-opera/201617-season/aida/); the combination of Verdi's masterpiece and the San Francisco Opera - a major site in the history of opera in America - holds a gravity that's not lost on Jagde.
 

@@ -1,24 +1,28 @@
-+++
-date = "2017-01-28T10:20:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-01-28T10:21:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551224810/media/2019/02/DaniellePastin.jpg"
-publishDate = "2017-01-28T10:20:00+00:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/palm-beach-opera.md", "scene/companies/nashville-opera.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/brooklyn-academy-of-music.md", "scene/companies/arizona-opera.md"]
-slug = "danielle-pastin"
-title = "Danielle Pastin"
-website = "https://www.daniellepastin.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/DaniellePastinSoprano/?ref=hl"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/laforzadelpastino/"
-
-_template = "people_single"
-+++
+---
+date: "2017-01-28T10:20:00+00:00"
+discipline: Soprano
+lastmod: "2017-01-28T10:21:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551224810/media/2019/02/DaniellePastin.jpg
+publishDate: "2017-01-28T10:20:00+00:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/palm-beach-opera.md
+- scene/companies/nashville-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/brooklyn-academy-of-music.md
+- scene/companies/arizona-opera.md
+slug: danielle-pastin
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/DaniellePastinSoprano/?ref=hl
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/laforzadelpastino/
+title: Danielle Pastin
+website: https://www.daniellepastin.com/
+---
 Quoted as having “a lovely demeanor and irresistible creamy timbre” by _Opera News_, fast-rising, young American soprano Danielle Pastin is gaining accolades from opera houses around the country. Last season, she returned to the Metropolitan Opera stage as Nedda in **_Pagliacci_** and performed in the World Premiere of Robert Paterson’s **_Three Way_** (as Connie in “Masquerade” and Maya in “The Companion”) with Nashville Opera and at the Brooklyn Academy of Music, which was recorded for release. In addition, she performed Leïla in **_Les pêcheurs de perles_** with Toledo Opera, The Countess in **_Le nozze di Figaro_** with Pittsburgh Opera and for Opera Maine, sang Verdi’s **_Requiem_** with DCINY in Barcelona and with the Dayton Philharmonic, Bruckner’s **_Te Deum_** for the Reno Chamber Orchestra, and performed a Gala Concert for The Society of The Four Arts.
 
 Next, Ms. Pastin reprises the role of Masha in **_Enemies, A Love Story_** with Kentucky Opera, Cio-Cio San in **_Madama Butterfly_** with Virginia Opera, Donna Elvira in **_Don Giovanni_** with Palm Beach Opera, and returns to The Society of The Four Arts in a solo recital.

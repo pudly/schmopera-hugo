@@ -1,18 +1,28 @@
-+++
-author = ["authors/michael-calderone.md"]
-categories = "Review"
-date = "2017-11-17T16:03:00-05:00"
-lastmod = "2017-11-17T18:15:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510960259428/2017-11-17---square---HIRESCFOAsOneNovember15-4.jpg.jpg"
-primary_image_credit = "Samantha Attaguile and Jonathan Wilson in As One, Chicago Fringe Opera, 2017. Photo: Victor LeJeune."
-publishDate = "2017-11-17T16:50:00-05:00"
-related_articles = ["articles/tenor-mezzo-transition.md","articles/as-one-they-both-took-risks-that-paid-off.md"]
-related_companies = ["scene/companies/chicago-fringe-opera.md"]
-related_people = ["scene/people/samantha-attaguile.md"]
-short_description = "The libretto by Mark Campbell and Kimberly Reed is linear in structure and sheds light on Hannah&#039;s childhood, college years, and her search for identity. Hannah&#039;s recollections are personal but also relatable: we discover that she wore a stolen blouse beneath her jacket on her paper route and first found the word &quot;transsexual&quot; in a card catalog in the public library."
-slug = "moving-stories-as-one-at-chicago-fringe-opera"
-title = "Moving stories: As One at Chicago Fringe Opera"
-+++
+---
+author:
+- authors/michael-calderone.md
+categories: Review
+date: "2017-11-17T16:03:00-05:00"
+lastmod: "2017-11-17T18:15:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510960259428/2017-11-17---square---HIRESCFOAsOneNovember15-4.jpg.jpg
+primary_image_credit: 'Samantha Attaguile and Jonathan Wilson in As One, Chicago Fringe
+  Opera, 2017. Photo: Victor LeJeune.'
+publishDate: "2017-11-17T16:50:00-05:00"
+related_articles:
+- articles/tenor-mezzo-transition.md
+- articles/as-one-they-both-took-risks-that-paid-off.md
+related_companies:
+- scene/companies/chicago-fringe-opera.md
+related_people:
+- scene/people/samantha-attaguile.md
+short_description: 'The libretto by Mark Campbell and Kimberly Reed is linear in structure
+  and sheds light on Hannah&#039;s childhood, college years, and her search for identity.
+  Hannah&#039;s recollections are personal but also relatable: we discover that she
+  wore a stolen blouse beneath her jacket on her paper route and first found the word
+  &quot;transsexual&quot; in a card catalog in the public library.'
+slug: moving-stories-as-one-at-chicago-fringe-opera
+title: 'Moving stories: As One at Chicago Fringe Opera'
+---
 
 *As One*, a chamber opera for two voices and string quartet composed by Laura Kaminsky and with a libretto by Mark Campbell and Kimberly Reed, conveys the experiences of a transgender protagonist named Hannah, as she seeks to reconcile her internal identity with the outside world. First commissioned and developed by [American Opera Projects](/american-opera-projects-youre-seeing-the-opera-in-microcosm/) and performed at the Brooklyn Academy of Music in 2014, these performances by [Chicago Fringe Opera](/scene/companies/chicago-fringe-opera/) are *As One*'s Chicago premiere.
 

@@ -1,23 +1,26 @@
-+++
-date = "2015-05-04T13:14:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-05-04T13:14:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430759680674/WOODLEY-PHOTO_Fotor.jpg.jpg"
-publishDate = "2015-05-04T13:14:00-04:00"
-related_companies = ["scene/companies/tapestry-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/edmonton-opera.md", "scene/companies/canadian-art-song-project.md", "scene/companies/canadian-opera-company-ensemble-studio.md"]
-slug = "jacqueline-woodley"
-title = "Jacqueline Woodley"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/jacqueline.woodleysoprano.5?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/JacquelineWoodl"
-
-_template = "people_single"
-+++
+---
+date: "2015-05-04T13:14:00-04:00"
+discipline: Soprano
+lastmod: "2015-05-04T13:14:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430759680674/WOODLEY-PHOTO_Fotor.jpg.jpg
+publishDate: "2015-05-04T13:14:00-04:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/edmonton-opera.md
+- scene/companies/canadian-art-song-project.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+slug: jacqueline-woodley
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/jacqueline.woodleysoprano.5?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/JacquelineWoodl
+title: Jacqueline Woodley
+---
 Canadian soprano **Jacqueline Woodley** has been praised for her fearless versatility, changing styles fluidly from early music to contemporary, from opera to art song. Sought after for her “exceptional talent” in performing modern works, Jacqueline created the role of Milice-Bride in the première of Ana Sokolovic’s opera _Svaba-Wedding_ with Queen of Puddings Music Theatre. This production toured Europe and Canada and Ms. Woodley was also chosen for the San Francisco and Philadelphia premieres of this remarkable work. Most recently, she was hailed for her searing performance as Natalia in the world premiere of _Oksana G_ for Tapestry New Opera and earlier appeared in the premiere of that company’s production of _M’Dea Undone_ which won a Dora award. Other acclaimed performances of contemporary music include works by György Kurtág, Kaija Saariaho, and Judith Weir.
 
 Upcoming for 2022/2023, Ms. Woodley appears as the soprano soloist with the Grand Philharmonic Choir for Mendelssohn’s _Elijah_, Arion Baroque for a series of Bach cantatas, the Brahms’ _Requiem_ with Les Grands Ballets Canadiens, and Handel’s _Brockes Passion_ with Metropolitan United (Toronto). She also looks forward to returning to Pacific Opera Victoria as Zaunschlüpfer in Braunfels’ _Die Vögel_.

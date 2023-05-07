@@ -1,22 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-03-19T20:49:44+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "_Athalia_ takes place on 29 April at St John's Smith Square as part of the London Handel Festival. For details and ticket information, [click here](https://www.london-handel-festival.com/show/athalia-hwv-52/)."
-preamble = "Closing this year's London Handel Festival is the 29 April performance of _Athalia_. Among the excellent cast is British soprano [Grace Davidson](/scene/people/grace-davidson/), who brings her expertise in Baroque music to Handel's 1733 English oratorio.\n\nWe spoke with Davidson about singing Handel in her hometown of London, her pro tips for working on the road, and what she learned best through experience."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553028791/media/2019/03/sqGraceDavidson.jpg"
-primary_image_credit = ""
-related_articles = ["articles/talking-with-singers-patrick-terry.md", "articles/talking-with-singers-soraya-mafi.md"]
-related_companies = []
-related_people = ["scene/people/grace-davidson.md"]
-short_description = "\"I have always felt that Baroque music is my natural habitat. I love working with historical instrumentalists, everything about their unique colour, tone and pitch feels comfortable for me and relates to the way I sing a line or phrase.\""
-slug = "talking-with-singers-grace-davidson"
-title = "Talking with singers: Grace Davidson"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-03-19T20:49:44+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: _Athalia_ takes place on 29 April at St John's Smith Square as part of
+  the London Handel Festival. For details and ticket information, [click here](https://www.london-handel-festival.com/show/athalia-hwv-52/).
+preamble: |-
+  Closing this year's London Handel Festival is the 29 April performance of _Athalia_. Among the excellent cast is British soprano [Grace Davidson](/scene/people/grace-davidson/), who brings her expertise in Baroque music to Handel's 1733 English oratorio.
 
-+++
+  We spoke with Davidson about singing Handel in her hometown of London, her pro tips for working on the road, and what she learned best through experience.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553028791/media/2019/03/sqGraceDavidson.jpg
+primary_image_credit: ""
+related_articles:
+- articles/talking-with-singers-patrick-terry.md
+- articles/talking-with-singers-soraya-mafi.md
+related_companies: []
+related_people:
+- scene/people/grace-davidson.md
+short_description: '"I have always felt that Baroque music is my natural habitat.
+  I love working with historical instrumentalists, everything about their unique colour,
+  tone and pitch feels comfortable for me and relates to the way I sing a line or
+  phrase."'
+slug: talking-with-singers-grace-davidson
+title: 'Talking with singers: Grace Davidson'
+youtube_url: ""
+---
 ### Why do you sing professionally?
 
 I sing professionally because I love it and I knew it was what I wanted to do from the age of 15. I love being in different places every day, working with different people and constantly being introduced to new music, new churches and different parts of the world.

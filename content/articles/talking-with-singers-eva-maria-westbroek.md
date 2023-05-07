@@ -1,21 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-12-30T15:42:28+00:00"
-disclaimer = ""
-image_gallery = []
-preamble = "Dutch soprano Eva-Maria Westbroek is currently in London, in rehearsals for Tchaikovsky's [_The Queen of Spades_](https://www.roh.org.uk/productions/the-queen-of-spades-by-stefan-herheim), going up on 13 January at Covent Garden. The production by Stefan Herheim,co-produced by the ROH and Dutch National Opera, will be broadcast live in cinemas on 22 January (encored on 27 January).\n\nWestbroek, famed for leave-it-all-on-the-stage roles like Minnie (_La fanciulla del West_), Sieglinde (_Die Walküre_), and Katerina (_Lady Macbeth of Mtsensk_), spoke with us about great London audiences and her love of animals."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546184839/media/2018/12/sqEvaMariaWestbroek-pc-FazilBerisha.jpg"
-primary_image_credit = "Fazil Berisha."
-related_articles = ["articles/talking-with-singers-melody-moore.md", "articles/talking-with-singers-keri-alkema.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/evamaria-westbroek.md"]
-short_description = "\"The audiences in Covent Garden are just unbelievable, so generous and warm! I am so grateful for this and absolutely love singing here.\""
-slug = "talking-with-singers-eva-maria-westbroek"
-title = "Talking with singers: Eva-Maria Westbroek"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-12-30T15:42:28+00:00"
+disclaimer: ""
+image_gallery: []
+preamble: |-
+  Dutch soprano Eva-Maria Westbroek is currently in London, in rehearsals for Tchaikovsky's [_The Queen of Spades_](https://www.roh.org.uk/productions/the-queen-of-spades-by-stefan-herheim), going up on 13 January at Covent Garden. The production by Stefan Herheim,co-produced by the ROH and Dutch National Opera, will be broadcast live in cinemas on 22 January (encored on 27 January).
 
-+++
+  Westbroek, famed for leave-it-all-on-the-stage roles like Minnie (_La fanciulla del West_), Sieglinde (_Die Walküre_), and Katerina (_Lady Macbeth of Mtsensk_), spoke with us about great London audiences and her love of animals.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546184839/media/2018/12/sqEvaMariaWestbroek-pc-FazilBerisha.jpg
+primary_image_credit: Fazil Berisha.
+related_articles:
+- articles/talking-with-singers-melody-moore.md
+- articles/talking-with-singers-keri-alkema.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/evamaria-westbroek.md
+short_description: '"The audiences in Covent Garden are just unbelievable, so generous
+  and warm! I am so grateful for this and absolutely love singing here."'
+slug: talking-with-singers-eva-maria-westbroek
+title: 'Talking with singers: Eva-Maria Westbroek'
+youtube_url: ""
+---
 ### Why do you sing professionally?
 
 I feel the luckiest person in the world to sing and be surrounded by music and inspiring people, and to make a living on top of that!

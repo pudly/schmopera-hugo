@@ -1,22 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2019-09-09T00:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567647468/media/2019/09/sqTheStoriesIntro_tqw4qt.jpg"
-primary_image_credit = ""
-related_articles = ["articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/domingo.md", "articles/when-opera-companies-protect-abusers.md"]
-related_companies = []
-related_people = []
-short_description = "Honestly, I wasn't even sure what I meant to do with these stories even as I was receiving them by the hour. What was to be gained by telling more stories of horrid behaviour? More cynicism? Even a boycott of opera?"
-slug = "thestories-are-coming-out-and-heres-why"
-title = "#TheStories are coming out, and here's why"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-09-09T00:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1567647468/media/2019/09/sqTheStoriesIntro_tqw4qt.jpg
+primary_image_credit: ""
+related_articles:
+- articles/thestories-part-9.md
+- articles/thestories-part-8.md
+- articles/thestories-part-10.md
+- articles/thestories-part-6.md
+- articles/thestories-part-5.md
+- articles/thestories-part-4.md
+- articles/thestories-part-3.md
+- articles/thestories-part-2.md
+- articles/thestories-part-i.md
+- articles/domingo.md
+- articles/when-opera-companies-protect-abusers.md
+related_companies: []
+related_people: []
+short_description: Honestly, I wasn't even sure what I meant to do with these stories
+  even as I was receiving them by the hour. What was to be gained by telling more
+  stories of horrid behaviour? More cynicism? Even a boycott of opera?
+slug: thestories-are-coming-out-and-heres-why
+title: '#TheStories are coming out, and here''s why'
+youtube_url: ""
+---
 You might have spotted in your recent feed my [call for stories](https://twitter.com/Schmopera/status/1162076277349715974/photo/1) of abuse, harassment, or assault in the opera and classical music worlds. #MeToo stories, essentially.
 
 I got my first submission within an hour of posting, and they continue today.

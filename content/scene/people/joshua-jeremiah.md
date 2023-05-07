@@ -1,27 +1,28 @@
-+++
-date = "2017-02-23T16:54:00+00:00"
-discipline = "Baritone"
-lastmod = "2017-02-23T16:56:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487868597011/2017-02-23---Joshua_Jeremiah.jpg.jpg"
-publishDate = "2017-02-23T16:54:00+00:00"
-related_companies = ["scene/companies/arizona-opera.md","scene/companies/nyc-opera-renaissance.md","scene/companies/loftopera.md"]
-slug = "joshua-jeremiah"
-title = "Joshua Jeremiah"
-website = "http://www.joshuajeremiahbaritone.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/JoshuaJeremiahBaritone/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/jbjcurly/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/jbjcurly"
-_template = "people_single"
-+++
+---
+date: "2017-02-23T16:54:00+00:00"
+discipline: Baritone
+lastmod: "2017-02-23T16:56:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487868597011/2017-02-23---Joshua_Jeremiah.jpg.jpg
+publishDate: "2017-02-23T16:54:00+00:00"
+related_companies:
+- scene/companies/arizona-opera.md
+- scene/companies/nyc-opera-renaissance.md
+- scene/companies/loftopera.md
+slug: joshua-jeremiah
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/JoshuaJeremiahBaritone/
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/jbjcurly/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/jbjcurly
+title: Joshua Jeremiah
+website: http://www.joshuajeremiahbaritone.com/
+---
 
 Joshua Jeremiah’s singing has been described by critics throughout the country as splendid, gorgeous, other-worldly, mellifluous and confident.
  

@@ -1,17 +1,30 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2018-02-05T11:53:00-05:00"
-lastmod = "2018-02-05T13:06:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517849262594/sq---17-18-03-MC-D-1526.jpg.jpg"
-publishDate = "2018-02-05T11:53:00-05:00"
-related_articles = ["articles/searching-for-superlatives-locs-suberb-rigoletto.md","articles/the-price-of-vengeance-rigoletto-at-roh.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/christopher-alden.md","scene/people/stephen-lord.md","scene/people/stephen-costello.md","scene/people/anna-christy.md","scene/people/neil-craighead.md","scene/people/lauren-eberwein.md","scene/people/roland-wood.md"]
-short_description = "We find ourselves in the domain of the Duke. He exerts his power over the masses through his manipulation of Rigoletto&#039;s remarkable skill for what is now popularly known as &quot;reading&quot; people."
-slug = "great-music-distracting-sexuality-rigoletto"
-title = "Great music &amp; distracting sexuality: Rigoletto"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2018-02-05T11:53:00-05:00"
+lastmod: "2018-02-05T13:06:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517849262594/sq---17-18-03-MC-D-1526.jpg.jpg
+publishDate: "2018-02-05T11:53:00-05:00"
+related_articles:
+- articles/searching-for-superlatives-locs-suberb-rigoletto.md
+- articles/the-price-of-vengeance-rigoletto-at-roh.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/christopher-alden.md
+- scene/people/stephen-lord.md
+- scene/people/stephen-costello.md
+- scene/people/anna-christy.md
+- scene/people/neil-craighead.md
+- scene/people/lauren-eberwein.md
+- scene/people/roland-wood.md
+short_description: We find ourselves in the domain of the Duke. He exerts his power
+  over the masses through his manipulation of Rigoletto&#039;s remarkable skill for
+  what is now popularly known as &quot;reading&quot; people.
+slug: great-music-distracting-sexuality-rigoletto
+title: 'Great music &amp; distracting sexuality: Rigoletto'
+---
 
 The story of *Rigoletto*, one of Giuseppe Verdi's masterpieces, is one of power, lust, love, and betrayal. Director Christopher Alden and designer Michael Levine have the entirety of the plot taking place in a 19th-century games room, where men of status would retire to play their games of chance, class, and power. This production - and the libretto by Francesca Maria Piave - highlights the class differences that Verdi was noticing at the time of his writing, and brings to the forefront a society that is part-and-parcel of why the 21st-century terms "toxic masculinity" and "patriarchy" exist at all. 
 

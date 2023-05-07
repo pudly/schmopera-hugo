@@ -1,23 +1,23 @@
-+++
-date = "2018-03-02T17:30:00-05:00"
-discipline = "Mezzo-soprano"
-lastmod = "2018-03-02T17:30:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520029621455/clare0417-504b-8x10.jpg.jpg"
-publishDate = "2018-03-02T17:30:00-05:00"
-related_companies = ["scene/companies/english-national-opera.md"]
-slug = "clare-presland"
-title = "Clare Presland"
-website = "https://www.clarepresland.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/clarepreslandmezzosoprano/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ClarePresland"
-_template = "people_single"
-+++
+---
+date: "2018-03-02T17:30:00-05:00"
+discipline: Mezzo-soprano
+lastmod: "2018-03-02T17:30:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520029621455/clare0417-504b-8x10.jpg.jpg
+publishDate: "2018-03-02T17:30:00-05:00"
+related_companies:
+- scene/companies/english-national-opera.md
+slug: clare-presland
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/clarepreslandmezzosoprano/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/ClarePresland
+title: Clare Presland
+website: https://www.clarepresland.com/
+---
 
 Deemed a 'major young artist with the potential to make an international impact,’ Clare Presland is a Chilcott Award winner. Most recent and future engagements include HERMIA *A Midsummer Night’s Dream* English National Opera and Aldeburgh Festival, VARVARA *Káťa Kabanová* Opera Holland Park, KOMPONIST *Ariadne auf Naxos* Longborough Festival, RED QUEEN Gerald Barry’s *Alice’s Adventures Under Ground* RTE Concert Orchestra, New Music Dublin, FENENA *Nabucco* Chelsea Opera Group, Cadogen Hall, *La Traviata* Théatre des Champs Elysées, as well as joining Royal Opera House, Covent Garden for *Written on Skin*.
 

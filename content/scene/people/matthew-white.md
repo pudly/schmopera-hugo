@@ -1,15 +1,18 @@
-+++
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571583773/media/2019/10/Matthew_White_Photo_Updated_2019_u0fh3k.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/palm-beach-opera.md", "scene/companies/cincinnati-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/edmonton-opera.md"]
-slug = "matthew-white"
-social_media = []
-title = "Matthew White"
-website = ""
-
-_template = "people_single"
-+++
+---
+_template: people_single
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571583773/media/2019/10/Matthew_White_Photo_Updated_2019_u0fh3k.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/palm-beach-opera.md
+- scene/companies/cincinnati-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/edmonton-opera.md
+slug: matthew-white
+social_media: []
+title: Matthew White
+website: ""
+---
 Tenor Matthew White recently made critically acclaimed debuts as Roméo in Gounod’s _Roméo et Juiliette_ with Cincinnati Opera and Pinkerton in Puccini’s _Madama Butterfly_ with the Princeton Festival.
 
 Engagements of the 2019-2020 season include multiple role and house debuts including the Duke in Verdi’s _Rigoletto_ with Edmonton Opera, the tenor soloist in Stravinsky’s _Pulcinella_ with Dallas Opera, Rodolfo in _La bohème_ with Opera Naples, and a return B.F. Pinkerton in _Madama Butterfly_ with Tulsa Opera. On the concert stage he will debut with the Florida Orchestra as the tenor soloist in Handel’s _Messiah_.

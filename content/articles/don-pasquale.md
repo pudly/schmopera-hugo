@@ -1,22 +1,30 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = "2019-02-20T00:36:44+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550623120/media/2019/02/sqDonPasquale.jpg"
-primary_image_credit = "Laura León as Norina and Paul La Rosa as Dr. Malatesta in Don Pasquale, Opera Fusion, 2019. Photo: Chris Barbu."
-related_articles = ["articles/shades-of-opera-how-to-tell-your-buffo-from-your-bel-canto.md", "articles/don-pasquale-a-colorful-season-starter-at-minnesota-opera.md"]
-related_companies = ["scene/companies/opera-fusion.md"]
-related_people = ["scene/people/paul-la-rosa.md", "scene/people/laura-león.md"]
-short_description = "Accompanied by a chamber orchestra seated on stage, the show had all the grand, theatrical trappings of opera, sized down into a portable, affordable package."
-slug = "small-company-big-laughs-opera-fusions-don-pasquale"
-title = "Small company, big laughs: Opera Fusion's Don Pasquale"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2019-02-20T00:36:44+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550623120/media/2019/02/sqDonPasquale.jpg
+primary_image_credit: 'Laura León as Norina and Paul La Rosa as Dr. Malatesta in Don
+  Pasquale, Opera Fusion, 2019. Photo: Chris Barbu.'
+related_articles:
+- articles/shades-of-opera-how-to-tell-your-buffo-from-your-bel-canto.md
+- articles/don-pasquale-a-colorful-season-starter-at-minnesota-opera.md
+related_companies:
+- scene/companies/opera-fusion.md
+related_people:
+- scene/people/paul-la-rosa.md
+- scene/people/laura-león.md
+short_description: Accompanied by a chamber orchestra seated on stage, the show had
+  all the grand, theatrical trappings of opera, sized down into a portable, affordable
+  package.
+slug: small-company-big-laughs-opera-fusions-don-pasquale
+title: 'Small company, big laughs: Opera Fusion''s Don Pasquale'
+youtube_url: ""
+---
 While residents of Pompano Beach, Florida can choose to travel forty minutes north to Palm Beach or south to Miami to attend performances of national renown, this smaller city played host to its very own cultural gem on February 16, when [Opera Fusion](/scene/companies/opera-fusion/) presented a lively _Don Pasquale_ that racked up laughs and delivered tender musical moments, building a sense of community along the way.
 
 Opera Fusion is a small company with a big heart. Their mission is "\[to make\] the classical voice more accessible and affordable in South Florida by showcasing local talent in intimate and non-traditional venues," according to their program notes. "We're proving to audiences that classical music isn't stuffy or elitist."

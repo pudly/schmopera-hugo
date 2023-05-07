@@ -1,22 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-01-13T18:37:28+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Utah Opera's production of _The Little Prince_ runs January 19-27. For details and ticket information, [click here.](https://utahopera.org/event/id/20196/)"
-preamble = "Calfornia-born baritone [Jared Bybee](/scene/people/jared-bybee/) is currently in Salt Lake City, gearing up for Utah Opera's production of Rachel Portman and Nicholas Wright's [_The Little Prince_](https://utahopera.org/event/id/20196/). Bybee sings the Pilot, opposite 11-year-old Nitai Fluchel in the title role. We spoke with Bybee about working on this opera, and his unexpected path to a singing career."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547404386/media/2019/01/JaredBybee.jpg"
-primary_image_credit = ""
-related_articles = ["articles/talking-with-singers-zachary-nelson.md", "articles/talking-with-singers-lucas-meachem.md"]
-related_companies = ["scene/companies/utah-opera.md"]
-related_people = ["scene/people/jared-bybee.md"]
-short_description = "Bybee sings the Pilot, opposite 11-year-old Nitai Fluchel in the title role. We spoke with Bybee about working on this opera, and his unexpected path to a singing career."
-slug = "talking-with-singers-jared-bybee"
-title = "Talking with singers: Jared Bybee"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-01-13T18:37:28+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Utah Opera's production of _The Little Prince_ runs January 19-27. For
+  details and ticket information, [click here.](https://utahopera.org/event/id/20196/)
+preamble: Calfornia-born baritone [Jared Bybee](/scene/people/jared-bybee/) is currently
+  in Salt Lake City, gearing up for Utah Opera's production of Rachel Portman and
+  Nicholas Wright's [_The Little Prince_](https://utahopera.org/event/id/20196/).
+  Bybee sings the Pilot, opposite 11-year-old Nitai Fluchel in the title role. We
+  spoke with Bybee about working on this opera, and his unexpected path to a singing
+  career.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1547404386/media/2019/01/JaredBybee.jpg
+primary_image_credit: ""
+related_articles:
+- articles/talking-with-singers-zachary-nelson.md
+- articles/talking-with-singers-lucas-meachem.md
+related_companies:
+- scene/companies/utah-opera.md
+related_people:
+- scene/people/jared-bybee.md
+short_description: Bybee sings the Pilot, opposite 11-year-old Nitai Fluchel in the
+  title role. We spoke with Bybee about working on this opera, and his unexpected
+  path to a singing career.
+slug: talking-with-singers-jared-bybee
+title: 'Talking with singers: Jared Bybee'
+youtube_url: ""
+---
 ### What was the most difficult part of your transition from medicine and economics to music? What was the easiest part?
 
 I think that when I first began to pursue music seriously, particularly opera, one of the biggest challenges was learning to come out of my shell and fully inhabit the musical or dramatic task at hand. In the medical field, things tend to be more serious and restrained, so it took a little bit of time to get comfortable engaging different sides of my personality and giving them to different characters. There's something about singing that's so personal… it's like you’re sharing your soul all the time with everybody, so it just takes time to feel confident that what you're sharing is authentic. In my case too, even though I took piano lessons as a kid and also played in the school band, I wasn't in drama or any choruses growing up, so the world of opera was a completely new experience for me.

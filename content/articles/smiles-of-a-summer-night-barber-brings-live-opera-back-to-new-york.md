@@ -1,22 +1,32 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2021-08-07T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1628190283/media/2021/08/sqTNnozze_StevenPisano_ihkkc0.jpg"
-primary_image_credit = "Hans Tashjian as Figaro in Il barbiere di Siviglia, Teatro Nuovo, 2021. Photo: Steven Pisano."
-related_articles = ["articles/in-review-the-barber-of-seville-at-the-coc.md", "articles/in-review-the-barber-of-seville-at-roh.md", "articles/barber-mo.md"]
-related_companies = ["scene/companies/teatro-nuovo.md"]
-related_people = ["scene/people/nicholas-simpson.md", "scene/people/hannah-ludwig.md", "scene/people/hans-tashjian.md"]
-short_description = "Indeed Barber, the most thoroughbred of warhorses and the ultimate comic opera, has the potential to delight anew with a sense of tradition that feels like innovation, even in a sprawling park on a smiling summer night."
-slug = "smiles-of-a-summer-night-barber-brings-live-opera-back-to-new-york"
-title = "Smiles of a Summer Night: Barber brings live opera back to New York"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2021-08-07T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1628190283/media/2021/08/sqTNnozze_StevenPisano_ihkkc0.jpg
+primary_image_credit: 'Hans Tashjian as Figaro in Il barbiere di Siviglia, Teatro
+  Nuovo, 2021. Photo: Steven Pisano.'
+related_articles:
+- articles/in-review-the-barber-of-seville-at-the-coc.md
+- articles/in-review-the-barber-of-seville-at-roh.md
+- articles/barber-mo.md
+related_companies:
+- scene/companies/teatro-nuovo.md
+related_people:
+- scene/people/nicholas-simpson.md
+- scene/people/hannah-ludwig.md
+- scene/people/hans-tashjian.md
+short_description: Indeed Barber, the most thoroughbred of warhorses and the ultimate
+  comic opera, has the potential to delight anew with a sense of tradition that feels
+  like innovation, even in a sprawling park on a smiling summer night.
+slug: smiles-of-a-summer-night-barber-brings-live-opera-back-to-new-york
+title: 'Smiles of a Summer Night: Barber brings live opera back to New York'
+youtube_url: ""
+---
 The night smiled, twice in fact, on two late July performances of Rossini's _Il barbiere di Siviglia_ in a semi-staged production by Teatro Nuovo. An ebullient New York City audience was delighted to be there for the return of live opera. Performing outdoors in the vast Damrosch Park at Lincoln Center, this _Barber_ would have played to better advantage in a smaller venue but an inviting park setting, with a socially distanced audience, heightened the pleasure of living and breathing opera. It was an occasion of considerable intelligence and charm.
 
 <figure data-type="image">

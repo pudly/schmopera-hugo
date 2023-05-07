@@ -1,18 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-01-19T23:54:00-05:00"
-lastmod = "2016-01-20T11:40:00-05:00"
-preamble = "Canadian mezzo-soprano [Wallis Giunta](/scene/people/wallis-giunta/) is getting ready to join the [Tapestry Opera](/scene/companies/tapestry-opera/) team for [*Songbook VI*](https://tapestryopera.com/songbook-vi/), the sixth annual concert of new operatic works presented by the emerging artists of Tapestry's New Opera 101 program. With her own extensive experience with traditional and new opera (Mozart's *Così fan tutte* at the Canadian Opera Company, Adams' *I Was Looking at the Ceiling and Then I Saw the Sky* at Teatro dell'opera di Roma), Giunta will work with these young artists alongside Tapestry's Resident Conductor [Jordan de Souza](/scene/people/jordan-de-souza/) to present [*Songbook VI*](https://tapestryopera.com/songbook-vi/), February 5 and 6, in their Distillery District studio. \n\nGiunta chats about working with Tapestry Opera, and the crucial role new music plays in the careers of opera singers today."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453265621744/2016-01-20---Wallis-Giunta.jpg.jpg"
-publishDate = "2016-01-20T11:31:00-05:00"
-related_articles = ["articles/he-saidshe-said-songbook-v.md","articles/he-saidshe-said-songbook-vi.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/wallis-giunta.md","scene/people/jordan-de-souza.md","scene/people/michael-mori.md"]
-short_description = "Canadian mezzo-soprano Wallis Giunta is getting ready to join the Tapestry Opera team for Songbook VI, the sixth annual concert of new operatic works presented by the emerging artists of Tapestry&#039;s New Opera 101 program. Giunta chats about working with Tapestry Opera, and the crucial role new music plays in the careers of opera singers today."
-slug = "wallis-giunta-songbook-vi"
-title = "Wallis Giunta &amp; Songbook VI"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-01-19T23:54:00-05:00"
+lastmod: "2016-01-20T11:40:00-05:00"
+preamble: "Canadian mezzo-soprano [Wallis Giunta](/scene/people/wallis-giunta/) is
+  getting ready to join the [Tapestry Opera](/scene/companies/tapestry-opera/) team
+  for [*Songbook VI*](https://tapestryopera.com/songbook-vi/), the sixth annual concert
+  of new operatic works presented by the emerging artists of Tapestry's New Opera
+  101 program. With her own extensive experience with traditional and new opera (Mozart's
+  *Così fan tutte* at the Canadian Opera Company, Adams' *I Was Looking at the Ceiling
+  and Then I Saw the Sky* at Teatro dell'opera di Roma), Giunta will work with these
+  young artists alongside Tapestry's Resident Conductor [Jordan de Souza](/scene/people/jordan-de-souza/)
+  to present [*Songbook VI*](https://tapestryopera.com/songbook-vi/), February 5 and
+  6, in their Distillery District studio. \n\nGiunta chats about working with Tapestry
+  Opera, and the crucial role new music plays in the careers of opera singers today."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453265621744/2016-01-20---Wallis-Giunta.jpg.jpg
+publishDate: "2016-01-20T11:31:00-05:00"
+related_articles:
+- articles/he-saidshe-said-songbook-v.md
+- articles/he-saidshe-said-songbook-vi.md
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/wallis-giunta.md
+- scene/people/jordan-de-souza.md
+- scene/people/michael-mori.md
+short_description: Canadian mezzo-soprano Wallis Giunta is getting ready to join the
+  Tapestry Opera team for Songbook VI, the sixth annual concert of new operatic works
+  presented by the emerging artists of Tapestry&#039;s New Opera 101 program. Giunta
+  chats about working with Tapestry Opera, and the crucial role new music plays in
+  the careers of opera singers today.
+slug: wallis-giunta-songbook-vi
+title: Wallis Giunta &amp; Songbook VI
+---
 
 ## What will your role be with Tapestry's *Songbook VI*?
 

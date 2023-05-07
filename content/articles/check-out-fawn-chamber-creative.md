@@ -1,18 +1,42 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-09-07T20:14:00-04:00"
-lastmod = "2015-09-10T08:46:00-04:00"
-preamble = "Photo: *L'Homme et le Ciel* workshop performance in the Open Ears Festival. l-r: [Larissa Koniuk](/scene/people/larissa-koniuk/) as Rhoda, [Gregory Finney](/scene/people/gregory-finney/) as Hermas, [Adanya Dunn](/scene/companies/adanya-dunn/) as The Messenger.\n\nBased in Toronto, [FAWN Chamber Creative](/scene/companies/fawn-chamber-creative/) is focused on getting Canadian music heard by new people. They mash up art forms, like their *Synesthesia* series combining new Canadian music, design, and film, and they commission new works like [Adam Scime](/scene/people/adam-scime/)'s [*L'homme et le ciel*](https://www.musicgallery.org/fawn-chamber-creative-lhomme-et-le-ciel/), which you can hear in Toronto this [December at the Music Gallery](https://www.musicgallery.org/fawn-chamber-creative-lhomme-et-le-ciel/).\n\nArtistic Director and Resident Stage Director Amanda Smith talks about paying careful attention to her audience, and why \"FAWN is the underground, gallery-hopping, club-going sibling of the opera world.\""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441671168390/Hermas-Ascends---squareResized.jpg.jpg"
-publishDate = "2015-09-10T08:00:00-04:00"
-related_articles = ["articles/check-out-the-friends-of-gravity.md","articles/check-out-loose-tea-music-theatre.md","articles/check-out-urbanvessel.md","articles/check-out-liederwolfe.md","articles/check-out-opera-after-hours.md","articles/check-out-myopera.md","articles/a-call-for-new-music-fawn-chamber-creative.md"]
-related_companies = ["scene/companies/fawn-chamber-creative.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/amanda-smith.md","scene/people/adam-scime.md","scene/people/adanya-dunn.md","scene/people/larissa-koniuk.md","scene/people/gregory-finney.md"]
-short_description = "Based in Toronto, FAWN Chamber Creative is focused on getting Canadian music heard by new people. They mash up art forms, like their Synesthesia series combining new Canadian music, design, and film, and they commission new works like Adam Scime&#039;s L&#039;homme et le ciel, which you can hear in Toronto this December at the Music Gallery."
-slug = "check-out-fawn-chamber-creative"
-title = "Check out: FAWN Chamber Creative"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-09-07T20:14:00-04:00"
+lastmod: "2015-09-10T08:46:00-04:00"
+preamble: |-
+  Photo: *L'Homme et le Ciel* workshop performance in the Open Ears Festival. l-r: [Larissa Koniuk](/scene/people/larissa-koniuk/) as Rhoda, [Gregory Finney](/scene/people/gregory-finney/) as Hermas, [Adanya Dunn](/scene/companies/adanya-dunn/) as The Messenger.
+
+  Based in Toronto, [FAWN Chamber Creative](/scene/companies/fawn-chamber-creative/) is focused on getting Canadian music heard by new people. They mash up art forms, like their *Synesthesia* series combining new Canadian music, design, and film, and they commission new works like [Adam Scime](/scene/people/adam-scime/)'s [*L'homme et le ciel*](https://www.musicgallery.org/fawn-chamber-creative-lhomme-et-le-ciel/), which you can hear in Toronto this [December at the Music Gallery](https://www.musicgallery.org/fawn-chamber-creative-lhomme-et-le-ciel/).
+
+  Artistic Director and Resident Stage Director Amanda Smith talks about paying careful attention to her audience, and why "FAWN is the underground, gallery-hopping, club-going sibling of the opera world."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441671168390/Hermas-Ascends---squareResized.jpg.jpg
+publishDate: "2015-09-10T08:00:00-04:00"
+related_articles:
+- articles/check-out-the-friends-of-gravity.md
+- articles/check-out-loose-tea-music-theatre.md
+- articles/check-out-urbanvessel.md
+- articles/check-out-liederwolfe.md
+- articles/check-out-opera-after-hours.md
+- articles/check-out-myopera.md
+- articles/a-call-for-new-music-fawn-chamber-creative.md
+related_companies:
+- scene/companies/fawn-chamber-creative.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/amanda-smith.md
+- scene/people/adam-scime.md
+- scene/people/adanya-dunn.md
+- scene/people/larissa-koniuk.md
+- scene/people/gregory-finney.md
+short_description: Based in Toronto, FAWN Chamber Creative is focused on getting Canadian
+  music heard by new people. They mash up art forms, like their Synesthesia series
+  combining new Canadian music, design, and film, and they commission new works like
+  Adam Scime&#039;s L&#039;homme et le ciel, which you can hear in Toronto this December
+  at the Music Gallery.
+slug: check-out-fawn-chamber-creative
+title: 'Check out: FAWN Chamber Creative'
+---
 
 ### 1. What is the mission behind FAWN Chamber Creative?
 

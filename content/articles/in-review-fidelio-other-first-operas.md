@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-01-22T13:31:00+00:00"
-lastmod = "2017-01-23T13:43:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485110015809/2017-01-22---Square---N68A0098.jpg.jpg"
-primary_image_credit = "Robert Dean Smith (Florestan) in Fidelio with the LPO, 2017. Photo: Simon Jay Price"
-publishDate = "2017-01-23T13:22:00+00:00"
-related_articles = ["articles/wendy-bryn-harmer-leads-sensitive-inspirational-fidelio.md"]
-related_people = ["scene/people/robert-dean-smith.md","scene/people/sofia-fomina.md","scene/people/kristinn-sigmundsson.md","scene/people/christopher-purves.md","scene/people/michael-konig.md"]
-short_description = "Yet it&#039;s a fascinating, almost humanizing thing, to hear Beethoven struggle with how to really write for the voice. It&#039;s a bit like listening to Verdi&#039;s Stiffelio, which was written after Nabucco and Macbeth and Ernani, but before Rigoletto and La traviata; one couldn&#039;t argue with Verdi&#039;s skills as a composer, but even he, the opera expert, found his slow and steady way to effortless vocal writing."
-slug = "in-review-fidelio-other-first-operas"
-title = "In review: Fidelio &amp; other first operas"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-01-22T13:31:00+00:00"
+lastmod: "2017-01-23T13:43:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485110015809/2017-01-22---Square---N68A0098.jpg.jpg
+primary_image_credit: 'Robert Dean Smith (Florestan) in Fidelio with the LPO, 2017.
+  Photo: Simon Jay Price'
+publishDate: "2017-01-23T13:22:00+00:00"
+related_articles:
+- articles/wendy-bryn-harmer-leads-sensitive-inspirational-fidelio.md
+related_people:
+- scene/people/robert-dean-smith.md
+- scene/people/sofia-fomina.md
+- scene/people/kristinn-sigmundsson.md
+- scene/people/christopher-purves.md
+- scene/people/michael-konig.md
+short_description: Yet it&#039;s a fascinating, almost humanizing thing, to hear Beethoven
+  struggle with how to really write for the voice. It&#039;s a bit like listening
+  to Verdi&#039;s Stiffelio, which was written after Nabucco and Macbeth and Ernani,
+  but before Rigoletto and La traviata; one couldn&#039;t argue with Verdi&#039;s
+  skills as a composer, but even he, the opera expert, found his slow and steady way
+  to effortless vocal writing.
+slug: in-review-fidelio-other-first-operas
+title: 'In review: Fidelio &amp; other first operas'
+---
 
 Hopefully, we're not the only opera fans that feel a vague sensation of riding an emotional rollercoaster when we hear Beethoven's *Fidelio*. On the one hand, the jabs and swells and surprises in that infamous [overture](https://en.wikipedia.org/wiki/Fidelio#The_overtures_to_Fidelio) prove that there's a reason Beethoven is a household name; when it comes to writing exciting music, Ludwig knows what's up. 
 

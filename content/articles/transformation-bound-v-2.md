@@ -1,18 +1,29 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2018-11-20T21:40:00-05:00"
-lastmod = "2018-11-20T21:40:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542767749820/sqBOUND676.jpg.jpg"
-primary_image_credit = "Miriam Khalil in BOUND, Against the Grain Theatre, 2018. Photo: Darryl Block Photography."
-publishDate = "2018-11-20T21:40:00-05:00"
-related_articles = ["articles/atgbound-a-shocking-immediate-connection.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/miriam-khalil.md","scene/people/david-trudgen.md","scene/people/andrew-haji.md","scene/people/justin-welsh.md"]
-short_description = "Although this iteration seems to be much more of a display of the the transformation of the score in particular, I did miss the theatricality of the original staging. I missed the solitary cells, the cold ambiance, the interrogations by the state."
-slug = "transformation-bound-v-2"
-title = "Transformation: BOUND v. 2"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2018-11-20T21:40:00-05:00"
+lastmod: "2018-11-20T21:40:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542767749820/sqBOUND676.jpg.jpg
+primary_image_credit: 'Miriam Khalil in BOUND, Against the Grain Theatre, 2018. Photo:
+  Darryl Block Photography.'
+publishDate: "2018-11-20T21:40:00-05:00"
+related_articles:
+- articles/atgbound-a-shocking-immediate-connection.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/miriam-khalil.md
+- scene/people/david-trudgen.md
+- scene/people/andrew-haji.md
+- scene/people/justin-welsh.md
+short_description: Although this iteration seems to be much more of a display of the
+  the transformation of the score in particular, I did miss the theatricality of the
+  original staging. I missed the solitary cells, the cold ambiance, the interrogations
+  by the state.
+slug: transformation-bound-v-2
+title: 'Transformation: BOUND v. 2'
+---
 
 Monday night, we were back in The Great Hall in Toronto's west end as [Against The Grain Theatre](/scene/people/against-the-grain-theatre/) opened their run of the next step in their ongoing development of [*BOUND*](http://againstthegraintheatre.com/bound/), a new opera by composer Kevin Lau. *BOUND* tells the story of four individuals (whittled down from seven in v.1) who are incarcerated by "The State" for various forms of civil "disobedience". We have a doctor trying to return to his home country after obtaining his training from "The State", a hijab-clad feisty journalist, a transgendered man, and a Muslim convert in individual cells undergoing interrogations.
 

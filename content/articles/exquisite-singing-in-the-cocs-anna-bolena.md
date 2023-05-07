@@ -1,15 +1,21 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2018-05-05T16:49:00-04:00"
-lastmod = "2018-05-05T21:57:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525552826463/17-18-06-MC-D-01111.jpg.jpg"
-primary_image_credit = "Keri Alkema as Giovanna Seymour and Christian Van Horn as Enrico VIII in the Canadian Opera Company’s production of Anna Bolena, 2018, photo: Michael Cooper."
-publishDate = "2018-05-05T21:57:00-04:00"
-short_description = "It&#039;s not the most dramatically fulfilling show but the singing is exquisite. The show definitely could have benefitted from (more than) a few judicious cuts. It&#039;s one thing when the text is repeated in a number, it&#039;s quite another when it&#039;s repeated in three or four."
-slug = "exquisite-singing-in-the-cocs-anna-bolena"
-title = "Exquisite singing in the COC&#039;s Anna Bolena"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2018-05-05T16:49:00-04:00"
+lastmod: "2018-05-05T21:57:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525552826463/17-18-06-MC-D-01111.jpg.jpg
+primary_image_credit: 'Keri Alkema as Giovanna Seymour and Christian Van Horn as Enrico
+  VIII in the Canadian Opera Company’s production of Anna Bolena, 2018, photo: Michael
+  Cooper.'
+publishDate: "2018-05-05T21:57:00-04:00"
+short_description: It&#039;s not the most dramatically fulfilling show but the singing
+  is exquisite. The show definitely could have benefitted from (more than) a few judicious
+  cuts. It&#039;s one thing when the text is repeated in a number, it&#039;s quite
+  another when it&#039;s repeated in three or four.
+slug: exquisite-singing-in-the-cocs-anna-bolena
+title: Exquisite singing in the COC&#039;s Anna Bolena
+---
 
 The Canadian Opera Company has brought out the third of their "Tudor Queen" operas to close out their 2017/18 season. Donizetti's [*Anna Bolena*](https://www.coc.ca/productions/13097) stars [Sondra Radvanovsky](/talking-with-singers-sondra-radvanovsky/) (#LaWowza) in the title role, and she's joined by a cast of phenomenal singers and actors to bring a stupendous production to the stage.
 

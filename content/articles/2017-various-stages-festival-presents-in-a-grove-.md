@@ -1,16 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-01-19T15:29:00+00:00"
-lastmod = "2017-01-24T10:36:00+00:00"
-preamble = "Roughly a month away is [Mahogany Opera Group](/scene/companies/mahogany-opera-group/)'s 2017 Various Stages Festival, which showcases new operas-in-progress with performances and critical feedback sessions. On **February 24th, 1pm** at London's Institute of Contemporary Arts, the Festival celebrates six new works, including\n[In A Grove](http://www.mahoganyoperagroup.co.uk/productions/various-stages-festival-2017/in-a-grove/), by composer Christopher Cerrone and librettist Stephanie Fleischmann. The opera, which \"plumbs the elusive nature of perception and truth and the harrowing terrain of love marred by violence,\" is inspired by Ryūnosuke Akutagawa's 1922 short story of the same name.\n\nWe spoke with Cerrone and Fleischmann about their work on *In a Grove*, and the unique creative process of adapting literature into opera."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484839928782/2017-01-19---In-A-Grove.jpg.jpg"
-publishDate = "2017-01-24T10:36:00+00:00"
-related_companies = ["scene/companies/mahogany-opera-group.md"]
-short_description = "&quot;We hope listeners will take away a sense of the tone of the piece, and a glimpse of what we intend to with it as a whole. Even though we will be somewhat limited in how much we can do spatially at Various Stages to give a sense of the immersive nature of the opera, we hope the audience will have a taste of what’s to come: a powerfully unsettling, haunting experience designed to be both confounding and crystalline, disjunctive yet deeply emotional.&quot;"
-slug = "2017-various-stages-festival-presents-in-a-grove-"
-title = "2017 Various Stages Festival presents: In a Grove "
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-01-19T15:29:00+00:00"
+lastmod: "2017-01-24T10:36:00+00:00"
+preamble: |-
+  Roughly a month away is [Mahogany Opera Group](/scene/companies/mahogany-opera-group/)'s 2017 Various Stages Festival, which showcases new operas-in-progress with performances and critical feedback sessions. On **February 24th, 1pm** at London's Institute of Contemporary Arts, the Festival celebrates six new works, including
+  [In A Grove](http://www.mahoganyoperagroup.co.uk/productions/various-stages-festival-2017/in-a-grove/), by composer Christopher Cerrone and librettist Stephanie Fleischmann. The opera, which "plumbs the elusive nature of perception and truth and the harrowing terrain of love marred by violence," is inspired by Ryūnosuke Akutagawa's 1922 short story of the same name.
+
+  We spoke with Cerrone and Fleischmann about their work on *In a Grove*, and the unique creative process of adapting literature into opera.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484839928782/2017-01-19---In-A-Grove.jpg.jpg
+publishDate: "2017-01-24T10:36:00+00:00"
+related_companies:
+- scene/companies/mahogany-opera-group.md
+short_description: '&quot;We hope listeners will take away a sense of the tone of
+  the piece, and a glimpse of what we intend to with it as a whole. Even though we
+  will be somewhat limited in how much we can do spatially at Various Stages to give
+  a sense of the immersive nature of the opera, we hope the audience will have a taste
+  of what’s to come: a powerfully unsettling, haunting experience designed to be both
+  confounding and crystalline, disjunctive yet deeply emotional.&quot;'
+slug: 2017-various-stages-festival-presents-in-a-grove-
+title: '2017 Various Stages Festival presents: In a Grove '
+---
 
 ## What can you tell us about the story of *In a Grove*? What appealed to you about Akutagawa's short story as a source material?
 

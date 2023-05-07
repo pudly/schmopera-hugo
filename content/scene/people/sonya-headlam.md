@@ -1,17 +1,17 @@
-+++
-date = "2017-01-04T14:21:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-01-04T14:26:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546830022/media/2019/01/SonyaHeadlam.jpg"
-primary_image_credit = "Iconography By Eric & Christopher"
-publishDate = "2017-01-04T14:21:00+00:00"
-related_companies = ["scene/companies/one-world-symphony.md"]
-slug = "sonya-headlam"
-title = "Sonya Headlam"
-website = "http://www.sonyaheadlam.com/"
-
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-01-04T14:21:00+00:00"
+discipline: Soprano
+lastmod: "2017-01-04T14:26:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546830022/media/2019/01/SonyaHeadlam.jpg
+primary_image_credit: Iconography By Eric & Christopher
+publishDate: "2017-01-04T14:21:00+00:00"
+related_companies:
+- scene/companies/one-world-symphony.md
+slug: sonya-headlam
+title: Sonya Headlam
+website: http://www.sonyaheadlam.com/
+---
 Soprano, Sonya Headlam is a passionate and dynamic performer and vocal artist. Her career has taken her all over the world, from South America, the Caribbean, Europe and Asia, and she remains active in the NY/NJ area as a performer of vocal recitals, chamber music, oratorio, and operatic repertoire. She has been lauded for her beautiful sound and a special ability to connect with her audience.
 
 Recent performances include appearances with the Rutgers Symphony Orchestra as First Fairy in Mendelssohn’s *A Midsummer Night’s Dream*, a production that was in conjunction with the American Repertory Ballet, at the State Theater of New Jersey, as well as the soloist in Leonard Bernstein’s Symphony no. 1. Career highlights include her critically acclaimed American Affairs and Ecstasy performances with One World Symphony, in addition to a solo Christmas concert, which was webcast live from Trinity Church Wall Street in downtown Manhattan. In 2010, Ms. Headlam made her Carnegie Hall debut as the soprano soloist in Vaughan Williams’ *Dona Nobis Pacem* and Haydn’s *Paukenmesse* with Distinguished Concerts International New York. In 2009 Ms. Headlam made her regional opera house debut with Fargo-Morehead Opera singing the role of Musetta in *La Bohème*. Other highlights from that year include Berlioz’s *Les nuits d’été* with One World Symphony, and her debut solo performance in Kingston, Jamaica in a vocal recital that was attended by Jamaica's Governor-General.

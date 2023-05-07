@@ -1,18 +1,38 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-07-24T10:10:00-04:00"
-lastmod = "2016-07-25T09:34:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469370769220/2016-07-24---Lucretia-TSFM-Square.jpg.jpg"
-primary_image_credit = "Emma Char as Lucretia in Against the Grain Theatre's The Rape of Lucretia, TSMF, 2016. Photo by Jorge Chaves."
-publishDate = "2016-07-24T10:45:00-04:00"
-related_articles = ["articles/anna-theodosakis-directing-the-rape-of-lucretia.md","articles/banff-diaries-the-midway-report.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
-related_people = ["scene/people/emma-char.md","scene/people/owen-mccausland.md","scene/people/chelsea-rus.md","scene/people/christopher-mokrzewski.md","scene/people/joel-ivany.md","scene/people/anna-theodosakis.md","scene/people/beste-kalender.md","scene/people/ellen-mcateer.md","scene/people/peter-rolfe-dauz.md","scene/people/iain-macneil.md"]
-short_description = "In the title role, mezzo-soprano Emma Char, was every bit of the descriptions we hear of Lucretia at the beginning of the show. Delicate, pure, and lovely on stage, she had a groundedness that I really enjoyed. The whole space seemed to calm down when she stepped on stage - which was made all the more thrilling when her character shifts to a darker place after the events of Act II. "
-slug = "in-review-the-rape-of-lucretia-at-tsmf"
-title = "In review: The Rape of Lucretia at TSMF"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-07-24T10:10:00-04:00"
+lastmod: "2016-07-25T09:34:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469370769220/2016-07-24---Lucretia-TSFM-Square.jpg.jpg
+primary_image_credit: Emma Char as Lucretia in Against the Grain Theatre's The Rape
+  of Lucretia, TSMF, 2016. Photo by Jorge Chaves.
+publishDate: "2016-07-24T10:45:00-04:00"
+related_articles:
+- articles/anna-theodosakis-directing-the-rape-of-lucretia.md
+- articles/banff-diaries-the-midway-report.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-banff-centre.md
+related_people:
+- scene/people/emma-char.md
+- scene/people/owen-mccausland.md
+- scene/people/chelsea-rus.md
+- scene/people/christopher-mokrzewski.md
+- scene/people/joel-ivany.md
+- scene/people/anna-theodosakis.md
+- scene/people/beste-kalender.md
+- scene/people/ellen-mcateer.md
+- scene/people/peter-rolfe-dauz.md
+- scene/people/iain-macneil.md
+short_description: 'In the title role, mezzo-soprano Emma Char, was every bit of the
+  descriptions we hear of Lucretia at the beginning of the show. Delicate, pure, and
+  lovely on stage, she had a groundedness that I really enjoyed. The whole space seemed
+  to calm down when she stepped on stage - which was made all the more thrilling when
+  her character shifts to a darker place after the events of Act II. '
+slug: in-review-the-rape-of-lucretia-at-tsmf
+title: 'In review: The Rape of Lucretia at TSMF'
+---
 
 Friday, July 22nd, 2016: the day Toronto almost melted. 
 

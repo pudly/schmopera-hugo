@@ -1,22 +1,25 @@
-+++
-author = ["authors/leah-borts-kuperman.md"]
-categories = "Meta"
-date = 2021-01-08T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1609964815/media/2021/01/sqPortia-White-1946_qdp4y5.jpg"
-primary_image_credit = "Portia White, Canadian contralto, photographed in 1946 by Yousuf Karsh."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "Opera Canada's anniversary edition is currently being offered as a free bonus to Opera Canada subscribers, and for a limited time, will be added to any new or renewed subscriptions. "
-slug = "opera-canada-magazine-celebrates-60-years"
-title = "Opera Canada magazine celebrates 60 years"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/leah-borts-kuperman.md
+categories: Meta
+date: "2021-01-08T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1609964815/media/2021/01/sqPortia-White-1946_qdp4y5.jpg
+primary_image_credit: Portia White, Canadian contralto, photographed in 1946 by Yousuf
+  Karsh.
+related_articles: []
+related_companies: []
+related_people: []
+short_description: 'Opera Canada''s anniversary edition is currently being offered
+  as a free bonus to Opera Canada subscribers, and for a limited time, will be added
+  to any new or renewed subscriptions. '
+slug: opera-canada-magazine-celebrates-60-years
+title: Opera Canada magazine celebrates 60 years
+youtube_url: ""
+---
 When founding editor Ruby Mercer launched [_Opera Canada_](https://operacanada.ca/) magazine in February 1960, it was little more than a humble 4-page, 8 ½ X 11 newsletter. 60 years later, it is Canada's oldest, continuously published arts journal, and to celebrate, _Opera Canada_ recently released a 60th anniversary collector's edition to commemorate this landmark milestone. The lavish, 96-page special edition looks back at Canada's rich opera heritage but significantly, from the point of view of today’s leading, as well as up-and-coming Canadian opera artists.
 
 <figure data-type="image">

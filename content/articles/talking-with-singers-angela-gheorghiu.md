@@ -1,19 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-02-02T16:13:00+00:00"
-lastmod = "2017-02-06T16:46:00+00:00"
-preamble = "Throughout her starry career on stages from Vienna to Sydney, Romanian-born soprano [Angela Gheorghiu](/scene/people/angela-gheorghiu/) has always had a significant relationship with the Royal Opera House. She made her debut at Covent Garden in 1992, as Zerlina in *Don Giovanni*; she has since returned for what have become definitive performances of *Tosca*, *La traviata*, *La rondine*, and *La bohème*, and to sing for the 1999 reopening of the Royal Opera. She has sung for Queen Elizabeth II and Barack Obama, and her extensive discography is Grammy award-winning.\n\nThis month, Gheorghiu is back in London to sing the title role in the first revival of David McVicar's [*Adriana Lecouvreur*](http://www.roh.org.uk/productions/adriana-lecouvreur-by-david-mcvicar) at the Royal Opera, alongside American tenor [Brian Jagde](/talking-with-singers-brian-jagde/) as Maurizio. She spoke with us about maintaining her own ideals in the rehearsal room, and staying true to her art form."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486053870722/2017-02-02---Angela_Gheorgiu_pc_Cosmin_Gogu.jpg.jpg"
-primary_image_credit = "Photo by Cosmin Gogu."
-publishDate = "2017-02-04T09:55:00+00:00"
-related_articles = ["articles/talking-with-singers-christine-goerke.md","articles/talking-with-singers-jamie-barton.md","articles/talking-with-singers-luca-pisaroni.md","articles/in-review-adriana-lecouvreur-at-roh.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/angela-gheorghiu.md"]
-short_description = "&quot;Often colleagues are scared to say &quot;no&quot;, they fear that they would no longer be invited any more. Everyone wants to be able to sing a lot. Sometimes singers want everything, too fast and too soon. Nobody really constructs a real career, a personality which may, in the future, fill the concert halls and theatres. Many colleagues have difficulties and concerns with modern productions, but once again, no-one has the courage to refuse to perform on this basis.&quot;"
-slug = "talking-with-singers-angela-gheorghiu"
-title = "Talking with singers: Angela Gheorghiu"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-02-02T16:13:00+00:00"
+lastmod: "2017-02-06T16:46:00+00:00"
+preamble: |-
+  Throughout her starry career on stages from Vienna to Sydney, Romanian-born soprano [Angela Gheorghiu](/scene/people/angela-gheorghiu/) has always had a significant relationship with the Royal Opera House. She made her debut at Covent Garden in 1992, as Zerlina in *Don Giovanni*; she has since returned for what have become definitive performances of *Tosca*, *La traviata*, *La rondine*, and *La bohème*, and to sing for the 1999 reopening of the Royal Opera. She has sung for Queen Elizabeth II and Barack Obama, and her extensive discography is Grammy award-winning.
+
+  This month, Gheorghiu is back in London to sing the title role in the first revival of David McVicar's [*Adriana Lecouvreur*](http://www.roh.org.uk/productions/adriana-lecouvreur-by-david-mcvicar) at the Royal Opera, alongside American tenor [Brian Jagde](/talking-with-singers-brian-jagde/) as Maurizio. She spoke with us about maintaining her own ideals in the rehearsal room, and staying true to her art form.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486053870722/2017-02-02---Angela_Gheorgiu_pc_Cosmin_Gogu.jpg.jpg
+primary_image_credit: Photo by Cosmin Gogu.
+publishDate: "2017-02-04T09:55:00+00:00"
+related_articles:
+- articles/talking-with-singers-christine-goerke.md
+- articles/talking-with-singers-jamie-barton.md
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/in-review-adriana-lecouvreur-at-roh.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/angela-gheorghiu.md
+short_description: '&quot;Often colleagues are scared to say &quot;no&quot;, they
+  fear that they would no longer be invited any more. Everyone wants to be able to
+  sing a lot. Sometimes singers want everything, too fast and too soon. Nobody really
+  constructs a real career, a personality which may, in the future, fill the concert
+  halls and theatres. Many colleagues have difficulties and concerns with modern productions,
+  but once again, no-one has the courage to refuse to perform on this basis.&quot;'
+slug: talking-with-singers-angela-gheorghiu
+title: 'Talking with singers: Angela Gheorghiu'
+---
 
 ## When the opera industry is as competitive as it is today, how can young singers have their opinions and voices heard without risking their career?
 

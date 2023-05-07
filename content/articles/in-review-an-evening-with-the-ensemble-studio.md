@@ -1,18 +1,42 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2017-02-25T11:04:00+00:00"
-lastmod = "2017-02-25T16:04:00+00:00"
-preamble = "Feature photo: Mezzo-soprano Emily D'Angelo performs in the Canadian Opera Company's An Evening with the Ensemble Studio on February 23, 2017, with the COC Orchestra conducted by COC Music Director Johannes Debus. Photographer: Bronwen Sharp."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488021447615/2017-02-25---Square---Ensemble-BS-9979.jpg.jpg"
-publishDate = "2017-02-25T15:58:00+00:00"
-related_articles = ["articles/ariodante-or-the-hebridean-handel.md","articles/in-review-cocflute-sparkles.md","articles/in-review-tsmfs-night-at-the-opera.md","articles/ensemble-studio-shines-in-a-lackluster-evening.md"]
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/emily-dangelo.md","scene/people/samantha-pickett.md","scene/people/bruno-roy.md","scene/people/danika-lorn.md","scene/people/lauren-eberwein.md","scene/people/mireille-asselin.md","scene/people/aaron-sheppard.md","scene/people/charles-sy.md","scene/people/johannes-debus.md","scene/people/megan-quick.md"]
-short_description = "With the incredible COC Orchestra on stage surrounded by the set of their current production of Mozart&#039;s The Magic Flute, the night opened with the overture and first five scenes of Mozart&#039;s La finta giardiniera, then the stunning Norma/Adalgisa duet scene from Norma. After intermission they closed out the night with the final string of scenes from Handel&#039;s Ariodante."
-slug = "in-review-an-evening-with-the-ensemble-studio"
-title = "In review: An Evening with the Ensemble Studio"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2017-02-25T11:04:00+00:00"
+lastmod: "2017-02-25T16:04:00+00:00"
+preamble: 'Feature photo: Mezzo-soprano Emily D''Angelo performs in the Canadian Opera
+  Company''s An Evening with the Ensemble Studio on February 23, 2017, with the COC
+  Orchestra conducted by COC Music Director Johannes Debus. Photographer: Bronwen
+  Sharp.'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488021447615/2017-02-25---Square---Ensemble-BS-9979.jpg.jpg
+publishDate: "2017-02-25T15:58:00+00:00"
+related_articles:
+- articles/ariodante-or-the-hebridean-handel.md
+- articles/in-review-cocflute-sparkles.md
+- articles/in-review-tsmfs-night-at-the-opera.md
+- articles/ensemble-studio-shines-in-a-lackluster-evening.md
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/emily-dangelo.md
+- scene/people/samantha-pickett.md
+- scene/people/bruno-roy.md
+- scene/people/danika-lorn.md
+- scene/people/lauren-eberwein.md
+- scene/people/mireille-asselin.md
+- scene/people/aaron-sheppard.md
+- scene/people/charles-sy.md
+- scene/people/johannes-debus.md
+- scene/people/megan-quick.md
+short_description: With the incredible COC Orchestra on stage surrounded by the set
+  of their current production of Mozart&#039;s The Magic Flute, the night opened with
+  the overture and first five scenes of Mozart&#039;s La finta giardiniera, then the
+  stunning Norma/Adalgisa duet scene from Norma. After intermission they closed out
+  the night with the final string of scenes from Handel&#039;s Ariodante.
+slug: in-review-an-evening-with-the-ensemble-studio
+title: 'In review: An Evening with the Ensemble Studio'
+---
 
 Thursday night as Toronto just finished setting a record high temperature, it turns out this super early sunshine wasn't the only thing burning up the 6ix.
 

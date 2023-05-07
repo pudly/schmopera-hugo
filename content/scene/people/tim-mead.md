@@ -1,24 +1,28 @@
-+++
-date = "2016-03-20T14:42:00+00:00"
-discipline = "Countertenor"
-lastmod = "2016-03-20T14:42:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458484936393/2016-03-20---Tim-Mead-Benjamin-Ealovega.jpg.jpg"
-primary_image_credit = "Benjamin Ealovega"
-publishDate = "2016-03-20T14:42:00+00:00"
-related_companies = ["scene/companies/vlaamse-opera.md","scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/glyndebourne.md","scene/companies/bayerische-staatsoper.md"]
-slug = "tim-mead"
-title = "Tim Mead"
-website = "http://www.tim-mead.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/TimMeadCountertenor"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/tim_mead"
-_template = "people_single"
-+++
+---
+date: "2016-03-20T14:42:00+00:00"
+discipline: Countertenor
+lastmod: "2016-03-20T14:42:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458484936393/2016-03-20---Tim-Mead-Benjamin-Ealovega.jpg.jpg
+primary_image_credit: Benjamin Ealovega
+publishDate: "2016-03-20T14:42:00+00:00"
+related_companies:
+- scene/companies/vlaamse-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/english-national-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/bayerische-staatsoper.md
+slug: tim-mead
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/TimMeadCountertenor
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/tim_mead
+title: Tim Mead
+website: http://www.tim-mead.com/
+---
 
 Counter-tenor Tim Mead is praised for his elegant and warm tone with faultless projection and stylish interpretations. His virtuosic performances have drawn much international attention, and he is recognised as one of the finest across the generations of counter-tenors.
 

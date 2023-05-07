@@ -1,22 +1,30 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = 2022-06-10T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1654901952/media/2022/06/sqRURTorrentofLight-photobyDahliaKatz-7378_nkdwcv.jpg"
-primary_image_credit = " R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz."
-related_articles = ["articles/spotlight-on-danielle-buonaiuto.md", "articles/in-review-tapestry-briefs-booster-shots.md"]
-related_companies = []
-related_people = ["scene/people/scott-belluz.md", "scene/people/peter-barrett.md", "scene/people/danielle-buonaiuto.md", "scene/people/krisztina-szab.md"]
-short_description = "Every part of the playing space could function as a projection screen. It was some of the most exciting tech I've ever seen in a show."
-slug = "a-torrent-of-light-the-future-of-opera"
-title = "A Torrent of Light: the future of opera"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2022-06-10T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1654901952/media/2022/06/sqRURTorrentofLight-photobyDahliaKatz-7378_nkdwcv.jpg
+primary_image_credit: ' R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia
+  Katz.'
+related_articles:
+- articles/spotlight-on-danielle-buonaiuto.md
+- articles/in-review-tapestry-briefs-booster-shots.md
+related_companies: []
+related_people:
+- scene/people/scott-belluz.md
+- scene/people/peter-barrett.md
+- scene/people/danielle-buonaiuto.md
+- scene/people/krisztina-szab.md
+short_description: Every part of the playing space could function as a projection
+  screen. It was some of the most exciting tech I've ever seen in a show.
+slug: a-torrent-of-light-the-future-of-opera
+title: 'A Torrent of Light: the future of opera'
+youtube_url: ""
+---
 > "Pour a torrent of light into our dark world." \~_Frankenstein_, by Mary Shelley.
 
 Hello, Schmop-tops,

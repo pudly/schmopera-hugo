@@ -1,18 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-05-20T11:59:00-04:00"
-lastmod = "2017-05-20T21:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495295657339/2017-05-20---AtGBoheme-Square.jpg.jpg"
-primary_image_credit = "Kimy McLaren and Owen McCausland in AtG's La bohème, 2017. Photo: Darryl Block Photography."
-publishDate = "2017-05-20T14:24:00-04:00"
-related_articles = ["articles/lovely-and-sincere-povs-la-bohme.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/owen-mccausland.md","scene/people/kimy-mclaren.md","scene/people/andrew-love.md","scene/people/adanya-dunn.md","scene/people/micah-schroeder.md","scene/people/kenneth-kellogg.md","scene/people/gregory-finney.md","scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md"]
-short_description = "There are a few moments that always kill me in La bohème. There&#039;s the sexy &quot;buona sera/good night&quot; that Rodolfo says to Mimì in Act I; there&#039;s that that part in Act IV where he tells her she&#039;s as pretty as a sunrise, and she corrects his poetry, saying it should be &quot;sunset&quot;. There&#039;s the look on Schaunard&#039;s face when their fun and games pull a sudden 180, and he&#039;s faced with the scene of a dying woman and a very sad friend."
-slug = "hype-atg-boheme"
-title = "Hype for a reason: AtG&#039;s La bohème"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-05-20T11:59:00-04:00"
+lastmod: "2017-05-20T21:56:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495295657339/2017-05-20---AtGBoheme-Square.jpg.jpg
+primary_image_credit: 'Kimy McLaren and Owen McCausland in AtG''s La bohème, 2017.
+  Photo: Darryl Block Photography.'
+publishDate: "2017-05-20T14:24:00-04:00"
+related_articles:
+- articles/lovely-and-sincere-povs-la-bohme.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/owen-mccausland.md
+- scene/people/kimy-mclaren.md
+- scene/people/andrew-love.md
+- scene/people/adanya-dunn.md
+- scene/people/micah-schroeder.md
+- scene/people/kenneth-kellogg.md
+- scene/people/gregory-finney.md
+- scene/people/joel-ivany.md
+- scene/people/christopher-mokrzewski.md
+short_description: There are a few moments that always kill me in La bohème. There&#039;s
+  the sexy &quot;buona sera/good night&quot; that Rodolfo says to Mimì in Act I; there&#039;s
+  that that part in Act IV where he tells her she&#039;s as pretty as a sunrise, and
+  she corrects his poetry, saying it should be &quot;sunset&quot;. There&#039;s the
+  look on Schaunard&#039;s face when their fun and games pull a sudden 180, and he&#039;s
+  faced with the scene of a dying woman and a very sad friend.
+slug: hype-atg-boheme
+title: 'Hype for a reason: AtG&#039;s La bohème'
+---
 
 With a few sneak peeks of the show under my belt, and more than a few dear friends involved in its creation, this bit of writing about [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/)'s revived [*La bohème*](http://againstthegraintheatre.com/la-boheme/) will hardly be the most objective thing I've ever published.
 

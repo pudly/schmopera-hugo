@@ -1,19 +1,28 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2018-05-14T20:20:00-04:00"
-lastmod = "2018-05-14T20:20:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526342647997/sq_37A0644.jpg.jpg"
-primary_image_credit = "Kelly Kaduce as Thaïs in Minnesota Opera's new production of Thaïs, 2018. Photo: Cory Weaver."
-publishDate = "2018-05-14T20:20:00-04:00"
-related_articles = ["articles/talking-with-singers-lucas-meachem.md"]
-related_companies = ["scene/companies/minnesota-opera.md"]
-related_people = ["scene/people/kelly-kaduce.md", "scene/people/lucas-meachem.md"]
-short_description = "I have liked every production in the Minnesota Opera this year, but after this one, I felt that the creative team had been holding out on us. Thaïs blew the rest of the season out of the water. The lighting (Marcus Dilliard), sets and costumes (Lorenzo Cutuli) were perfect. The creative team came out and took a bow, and they certainly deserved it."
-slug = "thaïs-dazzling-score-dazzling-set-dazzling-cast"
-title = "Thaïs: dazzling score, dazzling set, dazzling cast"
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2018-05-14T20:20:00-04:00"
+lastmod: "2018-05-14T20:20:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526342647997/sq_37A0644.jpg.jpg
+primary_image_credit: 'Kelly Kaduce as Thaïs in Minnesota Opera''s new production
+  of Thaïs, 2018. Photo: Cory Weaver.'
+publishDate: "2018-05-14T20:20:00-04:00"
+related_articles:
+- articles/talking-with-singers-lucas-meachem.md
+related_companies:
+- scene/companies/minnesota-opera.md
+related_people:
+- scene/people/kelly-kaduce.md
+- scene/people/lucas-meachem.md
+short_description: I have liked every production in the Minnesota Opera this year,
+  but after this one, I felt that the creative team had been holding out on us. Thaïs
+  blew the rest of the season out of the water. The lighting (Marcus Dilliard), sets
+  and costumes (Lorenzo Cutuli) were perfect. The creative team came out and took
+  a bow, and they certainly deserved it.
+slug: thaïs-dazzling-score-dazzling-set-dazzling-cast
+title: 'Thaïs: dazzling score, dazzling set, dazzling cast'
+---
 This wee, [*Thaïs*](https://mnopera.org/season/2017-2018/thais/) opened at Minnesota Opera. In one word, it was magnificent - and begs the question: why is this opera such a rarity? 
 
 Massenet's beautiful music just sneaks up from you. It began softly under the baton of [Christopher Franklin](https://mnopera.org/biography/christopher-franklin/), and within seconds reached the poignant beauty. The famous "Thaïs Meditation" was stunning, earning a prolonged applause, with even the maestro turning around and applauding with the audience.

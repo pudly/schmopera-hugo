@@ -1,18 +1,33 @@
-+++
-author = ["authors/caitlin-wood.md"]
-categories = "Op-ed"
-date = "2015-07-06T00:50:00-06:00"
-lastmod = "2015-07-10T00:16:00-06:00"
-preamble = "This is a post by guest contributor Caitlin Wood. Cait is here at The Banff Centre with [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/), singing Despina in *A Little Too Cozy*. I asked her how she was liking Banff, and she outdid herself with her response."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436237094615/BanffBlueRodeo.jpg.jpg"
-publishDate = "2015-07-10T08:16:00-06:00"
-related_articles = ["articles/banff-diaries-day-0.md","articles/atg-in-banff-2015.md","articles/more-atg-in-banff-2015.md","articles/against-the-grain-theatre-banffbound-in-2016.md","articles/spotlight-on-caitlin-wood.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md","scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/caitlin-wood.md"]
-short_description = "As the half way point of my time at The Banff Centre is coming up quickly, it seems like a great time to reflect on what it has been like staying in Banff and working on A Little Too Cozy."
-slug = "despina-in-banff"
-title = "Despina in Banff"
-+++
+---
+author:
+- authors/caitlin-wood.md
+categories: Op-ed
+date: "2015-07-06T00:50:00-06:00"
+lastmod: "2015-07-10T00:16:00-06:00"
+preamble: This is a post by guest contributor Caitlin Wood. Cait is here at The Banff
+  Centre with [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/),
+  singing Despina in *A Little Too Cozy*. I asked her how she was liking Banff, and
+  she outdid herself with her response.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436237094615/BanffBlueRodeo.jpg.jpg
+publishDate: "2015-07-10T08:16:00-06:00"
+related_articles:
+- articles/banff-diaries-day-0.md
+- articles/atg-in-banff-2015.md
+- articles/more-atg-in-banff-2015.md
+- articles/against-the-grain-theatre-banffbound-in-2016.md
+- articles/spotlight-on-caitlin-wood.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-banff-centre.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/caitlin-wood.md
+short_description: As the half way point of my time at The Banff Centre is coming
+  up quickly, it seems like a great time to reflect on what it has been like staying
+  in Banff and working on A Little Too Cozy.
+slug: despina-in-banff
+title: Despina in Banff
+---
 
 As the half way point of my time at [The Banff Centre](/scene/companies/the-banff-centre/) is coming up quickly, it seems like  a great time to reflect on what it has been like staying in Banff and working on *A Little Too Cozy*.
 

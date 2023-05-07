@@ -1,19 +1,32 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = "2017-10-15T18:37:00-04:00"
-lastmod = "2017-10-15T21:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546392800/media/2019/01/sqVOTurandot.jpg"
-primary_image_credit = "Amber Wagner (Turandot) & Sam Chung (The Emperor Altoum) in Turandot, Vancouver Opera, 2017. Photo: Tim Matheson."
-publishDate = "2017-10-15T21:07:00-04:00"
-related_articles = ["articles/talking-with-singers-othalie-graham.md", "articles/rohs-madama-butterfly-better-to-be-furious-than-bored.md", "articles/a-fascinating-marriage-of-art-forms-kayoi-komachi.md"]
-related_companies = ["scene/companies/vancouver-opera.md"]
-related_people = ["scene/people/amber-wagner.md", "scene/people/marianne-fiset.md", "scene/people/marcelo-puente.md"]
-short_description = "Given the size of the Chinese community in Vancouver, tackling Turandot is not only an ambitious project, but a potentially controversial one. However VO dealt with the controversies head-on, talking extensively in the program about the accusations of &quot;Orientalism&quot; in the score, and how they wanted to address those for a modern audience, and how these kinds of dialogues will continue to inform productions for years to come."
-slug = "a-grand-night-out-at-vancouver-operas-turandot"
-title = "A grand night out at Vancouver Opera&#039;s Turandot"
-
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2017-10-15T18:37:00-04:00"
+lastmod: "2017-10-15T21:07:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546392800/media/2019/01/sqVOTurandot.jpg
+primary_image_credit: 'Amber Wagner (Turandot) & Sam Chung (The Emperor Altoum) in
+  Turandot, Vancouver Opera, 2017. Photo: Tim Matheson.'
+publishDate: "2017-10-15T21:07:00-04:00"
+related_articles:
+- articles/talking-with-singers-othalie-graham.md
+- articles/rohs-madama-butterfly-better-to-be-furious-than-bored.md
+- articles/a-fascinating-marriage-of-art-forms-kayoi-komachi.md
+related_companies:
+- scene/companies/vancouver-opera.md
+related_people:
+- scene/people/amber-wagner.md
+- scene/people/marianne-fiset.md
+- scene/people/marcelo-puente.md
+short_description: Given the size of the Chinese community in Vancouver, tackling
+  Turandot is not only an ambitious project, but a potentially controversial one.
+  However VO dealt with the controversies head-on, talking extensively in the program
+  about the accusations of &quot;Orientalism&quot; in the score, and how they wanted
+  to address those for a modern audience, and how these kinds of dialogues will continue
+  to inform productions for years to come.
+slug: a-grand-night-out-at-vancouver-operas-turandot
+title: A grand night out at Vancouver Opera&#039;s Turandot
+---
 [Vancouver Opera](/scene/companies/vancouver-opera/)'s inaugural performance for the 2017-18 season is Puccini's [*Turandot*](https://www.vancouveropera.ca/Turandot). In an epic launch which will hopefully be setting the tone for the rest of the season, this production is grand on a scale you could only see in opera, an absolutely sumptuous feast for the eyes from beginning to end. 
 
 Given the size of the Chinese community in Vancouver, tackling *Turandot* is not only an ambitious project, but a potentially controversial one. However VO dealt with the controversies head-on, talking extensively in the program about the accusations of "Orientalism" in the score, and how they wanted to address those for a modern audience, and how these kinds of dialogues will continue to inform productions for years to come. They also projected the surtitles in both English and Chinese, in what is a VO first.

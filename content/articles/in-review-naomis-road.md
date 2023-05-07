@@ -1,18 +1,29 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-11-17T17:56:00+00:00"
-lastmod = "2016-12-07T22:49:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406128527/2016-11-16---Square---NaomisRoad-photobyDahliaKatz-9125.jpg.jpg"
-primary_image_credit = "Photo by Dahlia Katz."
-publishDate = "2016-11-18T10:58:00+00:00"
-related_articles = ["articles/oksana-g-its-so-out-of-this-world-and-yet-so-realistic.md","articles/tough-to-watch-oksana-g.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/erica-iris.md"]
-short_description = "As Canadians, we pride ourselves on our acceptance of others, our inclusivity, and our concern for the well-being of others - but our record is not unblemished. There have been many missteps and atrocities committed by Canadians from which we can&#039;t shy away. Especially now, when we see who&#039;s running for the leadership of one of Canada&#039;s major political parties. We can not let ourselves go back to a time when stories like the one I saw tonight were happening."
-slug = "in-review-naomis-road"
-title = "In review: Naomi&#039;s Road"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-11-17T17:56:00+00:00"
+lastmod: "2016-12-07T22:49:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406128527/2016-11-16---Square---NaomisRoad-photobyDahliaKatz-9125.jpg.jpg
+primary_image_credit: Photo by Dahlia Katz.
+publishDate: "2016-11-18T10:58:00+00:00"
+related_articles:
+- articles/oksana-g-its-so-out-of-this-world-and-yet-so-realistic.md
+- articles/tough-to-watch-oksana-g.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/erica-iris.md
+short_description: As Canadians, we pride ourselves on our acceptance of others, our
+  inclusivity, and our concern for the well-being of others - but our record is not
+  unblemished. There have been many missteps and atrocities committed by Canadians
+  from which we can&#039;t shy away. Especially now, when we see who&#039;s running
+  for the leadership of one of Canada&#039;s major political parties. We can not let
+  ourselves go back to a time when stories like the one I saw tonight were happening.
+slug: in-review-naomis-road
+title: 'In review: Naomi&#039;s Road'
+---
 
 On Wednesday, November 16th, 2016 my eyes were opened. It's already been a pretty stellar season for opera here in Toronto every company is pulling out all the stops. Tonight, however, I found myself being told a story that I should have been told long ago - a story I should have learned in school and a story that should be talked about and addressed more in today's society. 
 

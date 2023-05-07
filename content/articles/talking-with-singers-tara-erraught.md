@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-02-15T13:10:00-05:00"
-lastmod = "2018-04-05T11:44:00-04:00"
-preamble = "Before she dives in to the Komponist in Strauss' *Ariadne auf Naxos* in Munich, and Rosina in *Il barbiere di Siviglia* in Berlin, Irish mezzo-soprano [Tara Erraught](/scene/people/tara-erraught/) stop in London, to sing at Wigmore Hall in the Rosenblatt Recitals Series. On [**March 6, 7:30pm**](http://www.rosenblattrecitalseries.co.uk/recital.aspx?key=172), Erraught is joined by pianist [James Baillieu](/scene/people/james-baillieu/) and clarinettist Ulrich Pluta for a program of Schubert, Mozart, Rossini, and more obscure picks by Louis Spohr and and Franz Lachner. \n\nWe spoke with Erraught about how she gets into the trouser-role spirit, and the acute differences between singing opera, and giving a recital."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487182759626/2017-02-16---Tara_Erraught_pc_Christian_Kaufmann.jpg.jpg"
-primary_image_credit = "Photo: Christian Kaufmann."
-publishDate = "2017-02-16T04:08:00-05:00"
-related_people = ["scene/people/tara-erraught.md"]
-short_description = "&quot;I also adore singing Hansel, as I feel like I play exactly as my brother was when we were children, and let me tell you, boys have more fun! (They don&#039;t care about keeping their clothes clean, or sitting up straight, or how their hair looks... they just eat, play and are merry!)&quot;"
-slug = "talking-with-singers-tara-erraught"
-title = "Tara Erraught: &quot;My job is to tell a story.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-02-15T13:10:00-05:00"
+lastmod: "2018-04-05T11:44:00-04:00"
+preamble: "Before she dives in to the Komponist in Strauss' *Ariadne auf Naxos* in
+  Munich, and Rosina in *Il barbiere di Siviglia* in Berlin, Irish mezzo-soprano [Tara
+  Erraught](/scene/people/tara-erraught/) stop in London, to sing at Wigmore Hall
+  in the Rosenblatt Recitals Series. On [**March 6, 7:30pm**](http://www.rosenblattrecitalseries.co.uk/recital.aspx?key=172),
+  Erraught is joined by pianist [James Baillieu](/scene/people/james-baillieu/) and
+  clarinettist Ulrich Pluta for a program of Schubert, Mozart, Rossini, and more obscure
+  picks by Louis Spohr and and Franz Lachner. \n\nWe spoke with Erraught about how
+  she gets into the trouser-role spirit, and the acute differences between singing
+  opera, and giving a recital."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487182759626/2017-02-16---Tara_Erraught_pc_Christian_Kaufmann.jpg.jpg
+primary_image_credit: 'Photo: Christian Kaufmann.'
+publishDate: "2017-02-16T04:08:00-05:00"
+related_people:
+- scene/people/tara-erraught.md
+short_description: '&quot;I also adore singing Hansel, as I feel like I play exactly
+  as my brother was when we were children, and let me tell you, boys have more fun!
+  (They don&#039;t care about keeping their clothes clean, or sitting up straight,
+  or how their hair looks... they just eat, play and are merry!)&quot;'
+slug: talking-with-singers-tara-erraught
+title: 'Tara Erraught: &quot;My job is to tell a story.&quot;'
+---
 
 ## Why do you sing professionally?
 

@@ -1,18 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-10-05T12:22:00-04:00"
-lastmod = "2017-10-09T21:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507344493042/2017-10-07---square---Paul-de-Hueck%2C-courtesy-of-the-Leonard-Bernstein-Office%2C-Inc.jpg.jpg"
-primary_image_credit = "Leonard Bernstein. Photo: Paul de Hueck, courtesy of the Leonard Bernstein Office, Inc."
-publishDate = "2017-10-09T21:46:00-04:00"
-related_articles = ["articles/how-to-lead-your-pianist.md", "articles/how-to-play-for-singers.md", "articles/satire-meets-serious-singing-tots-candide.md", "articles/candide-projecting-the-best-of-all-possible-worlds.md"]
-related_companies = ["scene/companies/new-york-festival-of-song.md"]
-short_description = "&quot;I think he&#039;d be pretty proud of it,&quot; Barrett imagines of Bernstein&#039;s reaction to NYFOS&#039; entering its 30th season of thematic vocal programming in large and small venues around New York. Barrett adds in another surprising anecdote: &quot;In fact, he was our founding president.&quot;"
-slug = "leonard-bernstein-nyfos-i-think-hed-be-pretty-proud-of-it"
-title = "Leonard Bernstein &amp; NYFOS: &quot;I think he&#039;d be pretty proud of it.&quot;"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-10-05T12:22:00-04:00"
+lastmod: "2017-10-09T21:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507344493042/2017-10-07---square---Paul-de-Hueck%2C-courtesy-of-the-Leonard-Bernstein-Office%2C-Inc.jpg.jpg
+primary_image_credit: 'Leonard Bernstein. Photo: Paul de Hueck, courtesy of the Leonard
+  Bernstein Office, Inc.'
+publishDate: "2017-10-09T21:46:00-04:00"
+related_articles:
+- articles/how-to-lead-your-pianist.md
+- articles/how-to-play-for-singers.md
+- articles/satire-meets-serious-singing-tots-candide.md
+- articles/candide-projecting-the-best-of-all-possible-worlds.md
+related_companies:
+- scene/companies/new-york-festival-of-song.md
+short_description: '&quot;I think he&#039;d be pretty proud of it,&quot; Barrett imagines
+  of Bernstein&#039;s reaction to NYFOS&#039; entering its 30th season of thematic
+  vocal programming in large and small venues around New York. Barrett adds in another
+  surprising anecdote: &quot;In fact, he was our founding president.&quot;'
+slug: leonard-bernstein-nyfos-i-think-hed-be-pretty-proud-of-it
+title: 'Leonard Bernstein &amp; NYFOS: &quot;I think he&#039;d be pretty proud of
+  it.&quot;'
+---
 "He's sort of our patron saint," says Michael Barrett, pianist, conductor, and Associate Artistic Director of the New York Festival of Song (NYFOS), of Leonard Bernstein. "His music really lines up sympathetically with our mission, and what we do."
 
 NYFOS is entering its 30th season, and like many American organizations, its [season line-up](http://www.nyfos.org/events.html) is paying homage to Bernstein in the 100th year of his birth. On **November 7** at Merkin Concert Hall, they'll present a programme titled [_Take Care of This House: A Bernstein Celebration_](http://www.nyfos.org/single.html), which includes Bernstein's rarely performed _Songfest_. "I think that's going to be exciting because it's not played very much," says Barrett.

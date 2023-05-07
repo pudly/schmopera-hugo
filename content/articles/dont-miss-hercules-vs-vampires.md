@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-01-10T18:39:00-05:00"
-lastmod = "2018-01-11T20:27:00-05:00"
-preamble = "For one night only on **January 27**, Nashville Opera presents a unique operatic event not to be missed. [*Hercules vs Vampires*](http://www.nashvilleopera.org/hercules), the opera by composer Patrick Morganelli, is inspired by the 1961 cult-classic film by Mario Bava, *Hercules in the Underworld* (*Ercole al centro della terra*); Bava's film is projected in its entirety, and Morganelli's opera - conducted by Kelly Corcoran and directed by John Hoomes - provides a new original soundtrack.\n\nWe spoke with Morganelli about this ingenious project, and the fun combination of film and opera."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515626811573/2018-01-10---sq---Hercules-Vampires.jpg.jpg"
-publishDate = "2018-01-11T20:27:00-05:00"
-related_articles = ["articles/opera-meets-cult-film-hercules-vs-vampires.md"]
-related_companies = ["scene/companies/nashville-opera.md"]
-short_description = "&quot;There will certainly be places in the work where people will laugh at things onscreen which are unintentionally funny. This is a great thing, and I want audiences to laugh if they feel inclined, I want them to cheer Hercules and to boo the forces of evil.&quot;"
-slug = "dont-miss-hercules-vs-vampires"
-title = "Don&#039;t miss: Hercules vs Vampires"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-01-10T18:39:00-05:00"
+lastmod: "2018-01-11T20:27:00-05:00"
+preamble: |-
+  For one night only on **January 27**, Nashville Opera presents a unique operatic event not to be missed. [*Hercules vs Vampires*](http://www.nashvilleopera.org/hercules), the opera by composer Patrick Morganelli, is inspired by the 1961 cult-classic film by Mario Bava, *Hercules in the Underworld* (*Ercole al centro della terra*); Bava's film is projected in its entirety, and Morganelli's opera - conducted by Kelly Corcoran and directed by John Hoomes - provides a new original soundtrack.
+
+  We spoke with Morganelli about this ingenious project, and the fun combination of film and opera.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515626811573/2018-01-10---sq---Hercules-Vampires.jpg.jpg
+publishDate: "2018-01-11T20:27:00-05:00"
+related_articles:
+- articles/opera-meets-cult-film-hercules-vs-vampires.md
+related_companies:
+- scene/companies/nashville-opera.md
+short_description: '&quot;There will certainly be places in the work where people
+  will laugh at things onscreen which are unintentionally funny. This is a great thing,
+  and I want audiences to laugh if they feel inclined, I want them to cheer Hercules
+  and to boo the forces of evil.&quot;'
+slug: dont-miss-hercules-vs-vampires
+title: 'Don&#039;t miss: Hercules vs Vampires'
+---
 
 ## What's the most interesting part about combining opera with a film like *Hercules in the Underworld*?
  

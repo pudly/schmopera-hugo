@@ -1,22 +1,27 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2020-10-28T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "For further information and tickets, contact[ lesdelices.org](https://www.lesdelices.org/event/bewitched/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1603756860/media/2020/10/sqBewitched_nk2ly6.png"
-primary_image_credit = "Hannah De Priest in \"Bewitched\", presented by Les Délices, 2020."
-related_articles = ["articles/renee-fleming-brings-a-new-luster-to-dumbarton-oaks.md"]
-related_companies = []
-related_people = ["scene/people/hannah-de-priest.md"]
-short_description = "Nagy and her group appear in the perfect environment for their naturalistic style of video that revels in dramatic fades to black, subtle cross fades and deft use of camerawork and lighting. The passing from day to night, from a sun-filled hall to one of intense lighting and dramatic shadow, is visually alluring."
-slug = "bewitched-by-les-delices-captivating-in-cleveland"
-title = "\"Bewitched\" by Les Délices: Captivating in Cleveland"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2020-10-28T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: For further information and tickets, contact[ lesdelices.org](https://www.lesdelices.org/event/bewitched/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1603756860/media/2020/10/sqBewitched_nk2ly6.png
+primary_image_credit: Hannah De Priest in "Bewitched", presented by Les Délices, 2020.
+related_articles:
+- articles/renee-fleming-brings-a-new-luster-to-dumbarton-oaks.md
+related_companies: []
+related_people:
+- scene/people/hannah-de-priest.md
+short_description: Nagy and her group appear in the perfect environment for their
+  naturalistic style of video that revels in dramatic fades to black, subtle cross
+  fades and deft use of camerawork and lighting. The passing from day to night, from
+  a sun-filled hall to one of intense lighting and dramatic shadow, is visually alluring.
+slug: bewitched-by-les-delices-captivating-in-cleveland
+title: '"Bewitched" by Les Délices: Captivating in Cleveland'
+youtube_url: ""
+---
 Witches are people too, and they have relatable issues. Those mythological heavy hitters, Medea and Circé, are the subjects of "Bewitched," the first installment of _Embracing Change_, the four-concert virtual season being streamed by the Cleveland-based early music group, [Les Délices](https://www.lesdelices.org/event/bewitched/). Resorting respectively to filicide and transforming men into beasts, these mythic women are nonetheless captivating. Artistic director, Debra Nagy and her group don’t explain away their actions but they do provide edifying narrative context that amplifies the circumstances of the women behind the myths. Les Délices meets the pandemic head on with creative energy in this gracefully produced and beautifully performed concert.
 
 The four composers involved, all of the French baroque, are not widely known with the exception perhaps of Francois Couperin, whose "La Françoise Sonade" played by the ensemble, opens the program. "Medée" and "Circé", cantatas by Louis-Nicolas Clérambault and Colin de Blamont, sung by soprano [Hannah De Priest](/authors/hannah-de-priest/), flank "Le Vertigo," a work for solo harpsichord by Pancrace Royer played by Mark Edwards.

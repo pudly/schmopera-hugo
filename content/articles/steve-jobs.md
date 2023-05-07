@@ -1,22 +1,34 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = 2022-03-15T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1647391858/media/2022/03/sqSteve_is_inspired_by_simplicity_bchuu5.jpg"
-primary_image_credit = "John Moore as Steve Jobs in The (R)evolution of Steve Jobs, Lyric Opera of Kansas City, 2022. Photo: Don Ipock for Lyric Opera of Kansas City."
-related_articles = []
-related_companies = ["scene/companies/the-santa-fe-opera.md", "scene/companies/lyric-opera-of-kansas-city.md"]
-related_people = ["scene/people/michael-christie.md", "scene/people/billie-bruley.md", "scene/people/wei-wu.md", "scene/people/madison-leonard.md", "scene/people/sarah-larsen.md", "scene/people/john-moore.md"]
-short_description = "The dramatic irony of someone denying paternity (but yet still naming his first computer model after his daughter Lisa) who was no doubt questioning his own lineage is fascinating. Jobs' treatment of the women, and other people, in his life is a dark theme in the work."
-slug = "a-psyche-in-vignettes-steve-jobs-in-kansas-city"
-title = "A psyche in vignettes: Steve Jobs in Kansas City"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2022-03-15T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1647391858/media/2022/03/sqSteve_is_inspired_by_simplicity_bchuu5.jpg
+primary_image_credit: 'John Moore as Steve Jobs in The (R)evolution of Steve Jobs,
+  Lyric Opera of Kansas City, 2022. Photo: Don Ipock for Lyric Opera of Kansas City.'
+related_articles: []
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/lyric-opera-of-kansas-city.md
+related_people:
+- scene/people/michael-christie.md
+- scene/people/billie-bruley.md
+- scene/people/wei-wu.md
+- scene/people/madison-leonard.md
+- scene/people/sarah-larsen.md
+- scene/people/john-moore.md
+short_description: The dramatic irony of someone denying paternity (but yet still
+  naming his first computer model after his daughter Lisa) who was no doubt questioning
+  his own lineage is fascinating. Jobs' treatment of the women, and other people,
+  in his life is a dark theme in the work.
+slug: a-psyche-in-vignettes-steve-jobs-in-kansas-city
+title: 'A psyche in vignettes: Steve Jobs in Kansas City'
+youtube_url: ""
+---
 _The &#40;R)evolution of Steve Jobs_ with music by Mason Bates and libretto by Mark Campbell opened at Lyric Opera of Kansas City on March 11 at the Kauffman Center for three performances.
 
 The orchestra was conducted by [Michael Christie](/talking-with-conductors-michael-christie/), who conducted the world premiere and the Grammy Award-winning recording of _The &#40;R)evolution of Steve Jobs_ at [The Santa Fe Opera](/scene/companies/the-santa-fe-opera/). The orchestra played the complex score with finesse under his direction. Baritone [John Moore](/scene/people/john-moore/) sang the demanding title character. Jobs' spiritual leader Kobūn was sung by bass [Wei Wu](/scene/people/wei-wu/), who sang the role in the original production in 2017. Set and costumes were designed by Jacob A. Climer; the stage had a scaffold and projections above and each side of the stage of monitors. Projections were designed by S. Katy Tucker and Blake Manns.

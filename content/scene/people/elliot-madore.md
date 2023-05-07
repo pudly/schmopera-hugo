@@ -1,23 +1,33 @@
-+++
-date = "2019-04-07T17:26:08+00:00"
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554657724/media/2019/04/ElliotMadore.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/the-santa-fe-opera.md", "scene/companies/opernhaus-zurich.md", "scene/companies/salzburg-festival.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/opera-philadelphia.md", "scene/companies/glyndebourne.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/florida-grand-opera.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/san-francisco-opera.md", "scene/companies/manitoba-opera.md", "scene/companies/bayerische-staatsoper.md"]
-slug = "elliot-madore"
-title = "Elliot Madore"
-website = "https://elliotmadore.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/elliotmadore"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/elliotmadore"
-
-_template = "people_single"
-+++
+---
+date: "2019-04-07T17:26:08+00:00"
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1554657724/media/2019/04/ElliotMadore.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/salzburg-festival.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/glyndebourne.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/lyric-opera-of-kansas-city.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/manitoba-opera.md
+- scene/companies/bayerische-staatsoper.md
+slug: elliot-madore
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/elliotmadore
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/elliotmadore
+title: Elliot Madore
+website: https://elliotmadore.com/
+---
 Canadian baritone Elliot Madore has been praised for his “movie star quality” (Merkur) and “exceptional” artistry (New York Times).
 
 In the 2017-2018 season, he returns to the San Francisco Opera for the world premiere of John Adams’ _Girls of the Golden West_ directed by Peter Sellars and the Zurich Opera as Germano in _La scala di seta_. He will debut with the Berlin Philharmonic as The Cat/Grandfather Clock in _L’enfant et les sortilèges_ conducted by Seiji Ozawa, with the Bremen Kammerphilharmonie in _Pelléas et Melisande_ conducted by Mirga Gražinyte-Tyla, and with the Los Angeles Philharmonic singing Papageno’s arias with Gustavo Dudamel. He returns to the Tanglewood Music Festival to sing Bernstein’s _Songfest_ with the Boston Symphony Orchestra.

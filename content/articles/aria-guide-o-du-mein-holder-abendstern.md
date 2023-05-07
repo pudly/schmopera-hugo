@@ -1,17 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-02-21T04:46:00-07:00"
-lastmod = "2017-06-22T21:17:00-06:00"
-preamble = "Wolfram's aria is a pretty magical moment in Wagner's *Tannhäuser*. It's almost a stand-alone song within the opera, the minstrel having a musical soliloquy, and it feels much gentler, much more intimate than everything that has come before. Wolfram is singing to the evening star, thinking of Elizabeth and her sad love for Tannhäuser.\n\n\"O! du mein holder Abendstern\" is a popular choice for baritones, and it's no simple \"song\". Along with your teachers and coaches, we can help you on your way to channelling your inner Minnesinger."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498187729888/2017-06-22---Star.jpg.jpg"
-publishDate = "2017-02-21T07:38:00-07:00"
-related_articles = ["articles/aria-guides-lieben-hassen.md"]
-short_description = "Wolfram's aria is a pretty magical moment in Wagner's Tannhäuser. It's almost a stand-alone song within the opera, the minstrel having a musical soliloquy, and it feels much gentler, much more intimate than everything that has come before. Wolfram is singing to the evening star, thinking of Elizabeth and her sad love for Tannhäuser."
-slug = "aria-guide-o-du-mein-holder-abendstern"
-title = "Aria guides: \"O! du mein holder Abendstern\""
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-02-21T04:46:00-07:00"
+lastmod: "2017-06-22T21:17:00-06:00"
+preamble: |-
+  Wolfram's aria is a pretty magical moment in Wagner's *Tannhäuser*. It's almost a stand-alone song within the opera, the minstrel having a musical soliloquy, and it feels much gentler, much more intimate than everything that has come before. Wolfram is singing to the evening star, thinking of Elizabeth and her sad love for Tannhäuser.
 
-+++
+  "O! du mein holder Abendstern" is a popular choice for baritones, and it's no simple "song". Along with your teachers and coaches, we can help you on your way to channelling your inner Minnesinger.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498187729888/2017-06-22---Star.jpg.jpg
+publishDate: "2017-02-21T07:38:00-07:00"
+related_articles:
+- articles/aria-guides-lieben-hassen.md
+short_description: Wolfram's aria is a pretty magical moment in Wagner's Tannhäuser.
+  It's almost a stand-alone song within the opera, the minstrel having a musical soliloquy,
+  and it feels much gentler, much more intimate than everything that has come before.
+  Wolfram is singing to the evening star, thinking of Elizabeth and her sad love for
+  Tannhäuser.
+slug: aria-guide-o-du-mein-holder-abendstern
+title: 'Aria guides: "O! du mein holder Abendstern"'
+---
 <figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487677409519/Aria-Guide---Wolfram---annotated---p1.jpg.jpg) </figure>

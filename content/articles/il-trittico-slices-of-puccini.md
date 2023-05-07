@@ -1,22 +1,26 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = 2023-03-20T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679000308/media/2023/03/sq_Il_tabarro_521_jgl1u0.jpg"
-primary_image_credit = "Daewon Seo (Michele) and Gillian Watson (Giorgetta) in Il tabarro, Regina Opera, 2023. Photo: Steven Pisano."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "To this reviewer, Il Tabarro most certainly sounds like a Puccini opera – right from the opening chords which become a recurring motif – and there are several stand-alone solos that aren’t as famous as those from his other operas, but in the hands (or throat) of the right performer they can stop the show."
-slug = "il-trittico-slices-of-puccini"
-title = "Il trittico: slices of Puccini"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2023-03-20T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1679000308/media/2023/03/sq_Il_tabarro_521_jgl1u0.jpg
+primary_image_credit: 'Daewon Seo (Michele) and Gillian Watson (Giorgetta) in Il tabarro,
+  Regina Opera, 2023. Photo: Steven Pisano.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: To this reviewer, Il Tabarro most certainly sounds like a Puccini
+  opera – right from the opening chords which become a recurring motif – and there
+  are several stand-alone solos that aren’t as famous as those from his other operas,
+  but in the hands (or throat) of the right performer they can stop the show.
+slug: il-trittico-slices-of-puccini
+title: 'Il trittico: slices of Puccini'
+youtube_url: ""
+---
 It's a well-known fact that opera is an expensive endeavor – both for production companies and, often, for audiences. And it's also a given that there are fewer and fewer dollars supporting the arts in general. But there are small companies out there that manage to be great music-makers on mini- and micro-budgets. Such is the case with [Regina Opera](http://www.reginaopera.org/) and the [SAS Performing Arts Company](https://www.sasperformingarts.com/) in New York City.
 
 Puccini wrote three one-act operas (_Il trittico_) to be performed as one program. He was quite vehement that they should not be split up, but they do work on their own, and doing only one in these lean times offers a chance for companies with stretched resources to present a full cast or full orchestra or both.

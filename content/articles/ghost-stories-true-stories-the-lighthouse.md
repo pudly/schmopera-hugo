@@ -1,17 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-10-24T11:57:00-04:00"
-lastmod = "2017-10-24T22:28:00-04:00"
-preamble = "Following recent seasons of \"hard-hitting monologues\" like *Erwartung*, *Twice Through the Heart*, and *The Diary of One Who Disappeared*, [Shadwell Opera](/scene/companies/shadwell-opera/) is taking on the challenges of Peter Maxwell Davies' [*The Lighthouse*](https://www.hackneyshowroom.com/the-lighthouse/). Based on the true-story disappearance of three lighthouse keepers from the Outer Hebrides, Artistic Director Jack Furness teams up with Music Director Finnegan Downie Dear and designer Alex Berry for a \"multi-sensory experience that plays with the idea of theatrical immersion and suspension of disbelief\".\n\nPerformances of [*The Lighthouse*](https://www.hackneyshowroom.com/the-lighthouse/) run **November 3-12** at Hackney Showroom; we spoke with Furness about telling true stories, and directing shows that stay with an audience long after they end."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508860180332/2017-10-24---Jack-Furness.jpg.jpg"
-publishDate = "2017-10-24T22:07:00-04:00"
-related_articles = ["articles/in-review-erwartungtwice-through-the-heart.md","articles/killer-women-shadwell-operas-doublebill.md","articles/murky-works-shadwell-opera-presents-the-lighthouse.md"]
-related_companies = ["scene/companies/shadwell-opera.md"]
-short_description = "&quot;I think people are more suggestible than we like to admit. The operation of the so-called &quot;suspension of disbelief&quot; in the theatre is a great example of this. When I go to see a show, I spend the first period struggling to understand, to analyse, to engage, and then, at some point that I don&#039;t even recognise (if it&#039;s good) or notice, a switch goes in my brain and there I am, living entirely in the world of the play. How does that happen? Where else does that happen?&quot;"
-slug = "ghost-stories-true-stories-the-lighthouse"
-title = "Ghost stories &amp; true stories: The Lighthouse"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-10-24T11:57:00-04:00"
+lastmod: "2017-10-24T22:28:00-04:00"
+preamble: |-
+  Following recent seasons of "hard-hitting monologues" like *Erwartung*, *Twice Through the Heart*, and *The Diary of One Who Disappeared*, [Shadwell Opera](/scene/companies/shadwell-opera/) is taking on the challenges of Peter Maxwell Davies' [*The Lighthouse*](https://www.hackneyshowroom.com/the-lighthouse/). Based on the true-story disappearance of three lighthouse keepers from the Outer Hebrides, Artistic Director Jack Furness teams up with Music Director Finnegan Downie Dear and designer Alex Berry for a "multi-sensory experience that plays with the idea of theatrical immersion and suspension of disbelief".
+
+  Performances of [*The Lighthouse*](https://www.hackneyshowroom.com/the-lighthouse/) run **November 3-12** at Hackney Showroom; we spoke with Furness about telling true stories, and directing shows that stay with an audience long after they end.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508860180332/2017-10-24---Jack-Furness.jpg.jpg
+publishDate: "2017-10-24T22:07:00-04:00"
+related_articles:
+- articles/in-review-erwartungtwice-through-the-heart.md
+- articles/killer-women-shadwell-operas-doublebill.md
+- articles/murky-works-shadwell-opera-presents-the-lighthouse.md
+related_companies:
+- scene/companies/shadwell-opera.md
+short_description: '&quot;I think people are more suggestible than we like to admit.
+  The operation of the so-called &quot;suspension of disbelief&quot; in the theatre
+  is a great example of this. When I go to see a show, I spend the first period struggling
+  to understand, to analyse, to engage, and then, at some point that I don&#039;t
+  even recognise (if it&#039;s good) or notice, a switch goes in my brain and there
+  I am, living entirely in the world of the play. How does that happen? Where else
+  does that happen?&quot;'
+slug: ghost-stories-true-stories-the-lighthouse
+title: 'Ghost stories &amp; true stories: The Lighthouse'
+---
 
 ## What makes *The Lighthouse* the most challenging work yet for Shadwell Opera?
  

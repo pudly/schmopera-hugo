@@ -1,21 +1,30 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-01-18T19:27:14+00:00"
-disclaimer = ""
-image_gallery = []
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547839289/media/2019/01/sqIbis4.jpg"
-primary_image_credit = "Scott Ballantine and Britt Brown in The Scarlet Ibis, Boston Opera Collaborative, 2019. Photo: Dan Busler."
-related_articles = ["articles/varied-opera-bites-delivers-interesting-delectable-morsels.md", "articles/intimate-brewery-room-la-bohme-a-revelatory-triumph.md"]
-related_companies = ["scene/companies/boston-opera-collaborative.md"]
-related_people = ["scene/people/scott-ballantine.md", "scene/people/britt-brown.md", "scene/people/ann-fogler.md"]
-short_description = "Unfortunately, Weisman's score does not always meet the standard that Cote sets. The issue is that Weisman's music is often relatively one-note if something of little dramatic import is going on."
-slug = "uneven-scarlet-ibis-meditative-to-a-fault"
-title = "Uneven Scarlet Ibis Meditative To A Fault"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-01-18T19:27:14+00:00"
+disclaimer: ""
+image_gallery: []
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1547839289/media/2019/01/sqIbis4.jpg
+primary_image_credit: 'Scott Ballantine and Britt Brown in The Scarlet Ibis, Boston
+  Opera Collaborative, 2019. Photo: Dan Busler.'
+related_articles:
+- articles/varied-opera-bites-delivers-interesting-delectable-morsels.md
+- articles/intimate-brewery-room-la-bohme-a-revelatory-triumph.md
+related_companies:
+- scene/companies/boston-opera-collaborative.md
+related_people:
+- scene/people/scott-ballantine.md
+- scene/people/britt-brown.md
+- scene/people/ann-fogler.md
+short_description: Unfortunately, Weisman's score does not always meet the standard
+  that Cote sets. The issue is that Weisman's music is often relatively one-note if
+  something of little dramatic import is going on.
+slug: uneven-scarlet-ibis-meditative-to-a-fault
+title: Uneven Scarlet Ibis Meditative To A Fault
+youtube_url: ""
+---
 One adage that is frequently stated in the world of opera is that all opera lives and dies on the strength of its libretto: after all, you can have the best music in the world and it will not matter if it does not support a libretto that lacks dramatic direction and characterization. It is rare that one finds the opposite problem where a strong libretto is serviced by middling music, after all, but when one does find this situation it can be a little bit of a bummer.
 
 > The climactic thunderstorm scene's music is nothing short of spectacular once it finally gets going.

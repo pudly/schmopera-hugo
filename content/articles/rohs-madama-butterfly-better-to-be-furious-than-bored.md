@@ -1,18 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-03-31T10:02:00+01:00"
-lastmod = "2017-03-31T13:43:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490955761604/2017-03-31---Square-ERMONELA-JAHO-AS-CIO-CIO-SAN-ROH-PHOTO-BILL-COOPER.jpg.jpg"
-primary_image_credit = "Ermonela Jaho as Cio-Cio San, Madama Butterfly, ROH, 2017. Photo by Bill Cooper."
-publishDate = "2017-03-31T12:42:00+01:00"
-related_articles = ["articles/in-review-madam-butterfly-at-eno.md","articles/in-review-il-trittico-at-roh.md","articles/in-review-adriana-lecouvreur-at-roh.md","articles/a-grand-night-out-at-vancouver-operas-turandot.md","articles/making-the-connection-madama-butterfly-in-manitoba.md","articles/an-operas-evolving-relevance-turandot.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/ermonela-jaho.md","scene/people/elizabeth-deshong.md","scene/people/scott-hendricks.md","scene/people/carlo-bosi.md","scene/people/marcelo-puente.md"]
-short_description = "Yet there&#039;s something horridly patronising about how Puccini romanticises the Japanese. The music he writes for Cio-Cio San&#039;s family at the wedding is purposefully cacophonous, almost laughable sound effects and definitely not the reactions of fully-realised human beings. The story of Madama Butterfly existed before Puccini&#039;s opera, but there&#039;s a clear attraction to her youth and ignorance, and the idea of &quot;rescuing&quot; her from her &quot;shameful&quot; past as a geisha and making her a proud Westerner, as though in recovery from her savage Eastern upbringing."
-slug = "rohs-madama-butterfly-better-to-be-furious-than-bored"
-title = "ROH&#039;s Madama Butterfly: better to be furious than bored"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-03-31T10:02:00+01:00"
+lastmod: "2017-03-31T13:43:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490955761604/2017-03-31---Square-ERMONELA-JAHO-AS-CIO-CIO-SAN-ROH-PHOTO-BILL-COOPER.jpg.jpg
+primary_image_credit: Ermonela Jaho as Cio-Cio San, Madama Butterfly, ROH, 2017. Photo
+  by Bill Cooper.
+publishDate: "2017-03-31T12:42:00+01:00"
+related_articles:
+- articles/in-review-madam-butterfly-at-eno.md
+- articles/in-review-il-trittico-at-roh.md
+- articles/in-review-adriana-lecouvreur-at-roh.md
+- articles/a-grand-night-out-at-vancouver-operas-turandot.md
+- articles/making-the-connection-madama-butterfly-in-manitoba.md
+- articles/an-operas-evolving-relevance-turandot.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/ermonela-jaho.md
+- scene/people/elizabeth-deshong.md
+- scene/people/scott-hendricks.md
+- scene/people/carlo-bosi.md
+- scene/people/marcelo-puente.md
+short_description: Yet there&#039;s something horridly patronising about how Puccini
+  romanticises the Japanese. The music he writes for Cio-Cio San&#039;s family at
+  the wedding is purposefully cacophonous, almost laughable sound effects and definitely
+  not the reactions of fully-realised human beings. The story of Madama Butterfly
+  existed before Puccini&#039;s opera, but there&#039;s a clear attraction to her
+  youth and ignorance, and the idea of &quot;rescuing&quot; her from her &quot;shameful&quot;
+  past as a geisha and making her a proud Westerner, as though in recovery from her
+  savage Eastern upbringing.
+slug: rohs-madama-butterfly-better-to-be-furious-than-bored
+title: 'ROH&#039;s Madama Butterfly: better to be furious than bored'
+---
 
 There are few things more emotionally confusing than watching Puccini's *Madama Butterfly*. One man seems to embody all that is stereotypically loathed about Americans, and one woman seems to be a shining example of all the horrors that can happen to women, from selective education and naïveté, to having her children taken from her.
 

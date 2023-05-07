@@ -1,22 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = 2021-08-23T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Have a request for our Aria Guides? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "_Rigoletto_: it's rooted in the _commedia dell'arte_, it's super problematic, and it's got some of Verdi's most incredible music. I don't know about you guys, but it's at this moment in act II where I get the major goosebumps. Rigoletto sings this aria at the moment he learns that his boss's goons have kidnapped his daughter, Gilda. He begs them to give her back, in a crazy sweep of drama that starts at enraged and ends at desperation. With the careful input of your trust teachers and coaches, this Aria Guide can set you off on the right path with [\"Cortigiani, vil razza dannata\"](http://www.aria-database.com/search.php?sid=17c4a219f90ed13113005c7f57e7490c&X=1&individualAria=268) (\"Courtiers, vile, cursed race\"):"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1629745542/media/2021/08/AriaGuide_Cortigiani_gkllfp.jpg"
-primary_image_credit = ""
-related_articles = ["articles/aria-guides-aprite-un-po-quegli-occhi.md", "articles/aria-guides-come-paride-vezzoso.md", "articles/aria-guides-lieben-hassen.md"]
-related_companies = []
-related_people = []
-short_description = "Rigoletto sings this aria at the moment he learns that his boss's goons have kidnapped his daughter, Gilda. He begs them to give her back, in a crazy sweep of drama that starts at enraged and ends at desperation."
-slug = "aria-guides-cortigiani-vil-razza-dannata"
-title = "Aria guides: Cortigiani, vil razza dannata"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2021-08-23T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Have a request for our Aria Guides? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+preamble: '_Rigoletto_: it''s rooted in the _commedia dell''arte_, it''s super problematic,
+  and it''s got some of Verdi''s most incredible music. I don''t know about you guys,
+  but it''s at this moment in act II where I get the major goosebumps. Rigoletto sings
+  this aria at the moment he learns that his boss''s goons have kidnapped his daughter,
+  Gilda. He begs them to give her back, in a crazy sweep of drama that starts at enraged
+  and ends at desperation. With the careful input of your trust teachers and coaches,
+  this Aria Guide can set you off on the right path with ["Cortigiani, vil razza dannata"](http://www.aria-database.com/search.php?sid=17c4a219f90ed13113005c7f57e7490c&X=1&individualAria=268)
+  ("Courtiers, vile, cursed race"):'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1629745542/media/2021/08/AriaGuide_Cortigiani_gkllfp.jpg
+primary_image_credit: ""
+related_articles:
+- articles/aria-guides-aprite-un-po-quegli-occhi.md
+- articles/aria-guides-come-paride-vezzoso.md
+- articles/aria-guides-lieben-hassen.md
+related_companies: []
+related_people: []
+short_description: Rigoletto sings this aria at the moment he learns that his boss's
+  goons have kidnapped his daughter, Gilda. He begs them to give her back, in a crazy
+  sweep of drama that starts at enraged and ends at desperation.
+slug: aria-guides-cortigiani-vil-razza-dannata
+title: 'Aria guides: Cortigiani, vil razza dannata'
+youtube_url: ""
+---
 The music here **(1)** is so darn great, it's one of opera's great adrenaline rushes. Throughout this whole section, keep a swinging feeling of 2/2; it'll be much more freeing than the 4/4 that's actually marked, and it'll keep you from falling into the trap of dragging the tempo. Some baritones holler this section, citing Rigoletto's seething rage in this scene. I implore you, baritones, to sing it beautifully, and let the text and music do the dramatic work for you. This section is so powerful when you sing each note, including in the vicious dotted rhythms. Even more important are the non-dotted rhythms, like in "vil razza" - that's an important detail that relays rage more effectively than any baritonal woofing could.
 
 <figure data-type="image">

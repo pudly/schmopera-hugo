@@ -1,22 +1,34 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2021-10-03T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633281672/media/2021/10/sqBLO_MichelleJohnson_Marissa_Molinar_VictoriaLAwkward_CavalleriaRusticana_Liza_Voll_nxeher.jpg"
-primary_image_credit = "Michelle Johnson as Santuzza, with Marissa Molinar and Victora L. Awkward, in Cavalleria rusticana, Boston Lyric Opera, 2021. Photo: Liza Voll."
-related_articles = ["articles/pagliacci-alone-makes-festive-shocking-season-opener.md", "articles/fellow-travelers-a-cathartic-necessary-affair.md", "articles/overlapping-stories-fall-on-the-house-of-usher.md"]
-related_companies = ["scene/companies/boston-lyric-opera-1.md"]
-related_people = ["scene/people/chelea-basler.md", "scene/people/nina-yoshida-nelsen-1.md", "scene/people/javier-arrey.md", "scene/people/adam-diegel.md", "scene/people/michelle-johnson.md"]
-short_description = "I think the night, strangely, was best summed up by the opening act: BLO elected to open the evening with the prologue from Cavalleria's much-beloved double-bill partner, I Pagliacci, with Arrey singing Tonio's line."
-slug = "blo-cavalleria-a-welcome-if-not-triumphant-return"
-title = "BLO Cavalleria a welcome, if not triumphant, return"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2021-10-03T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1633281672/media/2021/10/sqBLO_MichelleJohnson_Marissa_Molinar_VictoriaLAwkward_CavalleriaRusticana_Liza_Voll_nxeher.jpg
+primary_image_credit: 'Michelle Johnson as Santuzza, with Marissa Molinar and Victora
+  L. Awkward, in Cavalleria rusticana, Boston Lyric Opera, 2021. Photo: Liza Voll.'
+related_articles:
+- articles/pagliacci-alone-makes-festive-shocking-season-opener.md
+- articles/fellow-travelers-a-cathartic-necessary-affair.md
+- articles/overlapping-stories-fall-on-the-house-of-usher.md
+related_companies:
+- scene/companies/boston-lyric-opera-1.md
+related_people:
+- scene/people/chelea-basler.md
+- scene/people/nina-yoshida-nelsen-1.md
+- scene/people/javier-arrey.md
+- scene/people/adam-diegel.md
+- scene/people/michelle-johnson.md
+short_description: 'I think the night, strangely, was best summed up by the opening
+  act: BLO elected to open the evening with the prologue from Cavalleria''s much-beloved
+  double-bill partner, I Pagliacci, with Arrey singing Tonio''s line.'
+slug: blo-cavalleria-a-welcome-if-not-triumphant-return
+title: BLO Cavalleria a welcome, if not triumphant, return
+youtube_url: ""
+---
 After almost a year and a half with virtually no live opera performances, it seems strange that I can finally say, "I am going to the opera tonight" and not mean, "sit at home in a bathrobe and pajama". But that is exactly what has happened in the Boston opera scene as of late: [Boston Lyric Opera](/scene/companies/boston-lyric-opera/) heralded the return of live performance with a beloved classic of the repertory, and did so with almost no real frills whatsoever in terms of where they performed it.
 
 In this case, after some changes of plans, they opted to host their return to live performance in the Leader Bank Pavilion with a semi-concert staging of [_Cavalleria rusticana_](https://blo.org/cavalleria-rusticana/). It seems strange that they opted to go with a rather short classic of the repertory, but I actually like the decision — sometimes all we really want to come back to is a classic done particularly well!

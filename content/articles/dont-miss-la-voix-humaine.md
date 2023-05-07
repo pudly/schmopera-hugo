@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-01-20T17:50:00-05:00"
-lastmod = "2016-01-21T10:23:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453332900712/La-voix-humaine-146---square.jpg.jpg"
-primary_image_credit = "Christina Campsall as \"Elle\" in La voix humaine. Photo by Stuart Lowe."
-publishDate = "2016-01-21T10:23:00-05:00"
-related_companies = ["scene/companies/royal-conservatory-of-music.md"]
-related_people = ["scene/people/christina-campsall.md"]
-short_description = "Campsall is an emerging singer to watch, and we were lucky to catch her and pianist Brahm Goldhamer in their dress rehearsal performance. She worked with &quot;phenomenal director&quot; Oliver Klöter to create a dense, claustrophobic telling of the one-sided phone conversation between a suicidal woman and her silent, invisible lover. &quot;He was very patient with me,&quot; says Campsall, who admits that Poulenc&#039;s music is challenging, and achieving her level of comfort with it is a long process. "
-slug = "dont-miss-la-voix-humaine"
-title = "Don&#039;t miss: La voix humaine"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-01-20T17:50:00-05:00"
+lastmod: "2016-01-21T10:23:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453332900712/La-voix-humaine-146---square.jpg.jpg
+primary_image_credit: Christina Campsall as "Elle" in La voix humaine. Photo by Stuart
+  Lowe.
+publishDate: "2016-01-21T10:23:00-05:00"
+related_companies:
+- scene/companies/royal-conservatory-of-music.md
+related_people:
+- scene/people/christina-campsall.md
+short_description: 'Campsall is an emerging singer to watch, and we were lucky to
+  catch her and pianist Brahm Goldhamer in their dress rehearsal performance. She
+  worked with &quot;phenomenal director&quot; Oliver Klöter to create a dense, claustrophobic
+  telling of the one-sided phone conversation between a suicidal woman and her silent,
+  invisible lover. &quot;He was very patient with me,&quot; says Campsall, who admits
+  that Poulenc&#039;s music is challenging, and achieving her level of comfort with
+  it is a long process. '
+slug: dont-miss-la-voix-humaine
+title: 'Don&#039;t miss: La voix humaine'
+---
 
 This **Sunday, January 24th**, mezzo-soprano [Christina Campsall](/scene/people/christina-campsall/) presents Poulenc's one-act, one-woman opera, [*La voix humaine*](https://www.facebook.com/events/541573745993031/), as part of The Glenn Gould School's "Free Recitals" series in **Mazzoleni Hall**. The opera is an adaptation of Jean Cocteau's play of the same name, and Poulenc worked with him and soprano Denise Duval toward its première in 1959 at the Théâtre National de l'Opéra-Comique in Paris.
 

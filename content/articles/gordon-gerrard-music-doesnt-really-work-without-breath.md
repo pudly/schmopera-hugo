@@ -1,17 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-08T13:25:00-04:00"
-lastmod = "2017-07-10T07:48:00-04:00"
-preamble = "Conductor [Gordon Gerrard](/scene/people/gordon-gerrard/) is an in-demand favourite among the Canadian operatic and symphonic scenes. He is Music Director of the Regina Symphony Orchestra, which kicks off its Masterworks Series on September 23 with solo percussionist Dame Evelyn Glennie. Later this season, Gerrard returns to the National Ballet to conduct [*The Nutcracker*](https://national.ballet.ca/Productions/2017-18-Season/The-Nutcracker), before he heads to the University of British Columbia for [*La Cenerentola*](https://music.ubc.ca/ubc-opera-presents-la-cenerentola) in February 2018.\n\nIt was a delight to chat with the passionately pragmatic Gerrard (who has some great writing of his own [up on the *Regina Leader Post*](http://leaderpost.com/author/gordon-gerrard)). He spoke about learning from singers, rehearsal time management, and taking literally one's job description.\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499534706158/2017-07-08---Gordon-Gerrard.jpg.jpg"
-publishDate = "2017-07-10T07:48:00-04:00"
-related_articles = ["articles/spotlight-on-christopher-allen.md","articles/talking-with-conductors-harry-bicket.md","articles/talking-with-conductors-riccardo-frizza.md","articles/talking-with-conductors-alexander-joel.md","articles/elektra-and-parsifal-yannick-at-the-met.md","articles/talking-with-conductors-lidiya-yankovskaya.md","articles/talking-with-conductors-damian-iorio.md"]
-related_people = ["scene/people/gordon-gerrard.md"]
-short_description = "&quot;My job is to get the orchestra to support how the singer wants the piece to go. My favourite singers are the ones who bring convincing ideas of the shapes they want to make in the music. If communication lines are open, I can act as the link between them and the players in the orchestra.&quot;"
-slug = "gordon-gerrard-music-doesnt-really-work-without-breath"
-title = "Gordon Gerrard: &quot;Music doesn&#039;t really work without breath.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-08T13:25:00-04:00"
+lastmod: "2017-07-10T07:48:00-04:00"
+preamble: |+
+  Conductor [Gordon Gerrard](/scene/people/gordon-gerrard/) is an in-demand favourite among the Canadian operatic and symphonic scenes. He is Music Director of the Regina Symphony Orchestra, which kicks off its Masterworks Series on September 23 with solo percussionist Dame Evelyn Glennie. Later this season, Gerrard returns to the National Ballet to conduct [*The Nutcracker*](https://national.ballet.ca/Productions/2017-18-Season/The-Nutcracker), before he heads to the University of British Columbia for [*La Cenerentola*](https://music.ubc.ca/ubc-opera-presents-la-cenerentola) in February 2018.
+
+  It was a delight to chat with the passionately pragmatic Gerrard (who has some great writing of his own [up on the *Regina Leader Post*](http://leaderpost.com/author/gordon-gerrard)). He spoke about learning from singers, rehearsal time management, and taking literally one's job description.
+
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499534706158/2017-07-08---Gordon-Gerrard.jpg.jpg
+publishDate: "2017-07-10T07:48:00-04:00"
+related_articles:
+- articles/spotlight-on-christopher-allen.md
+- articles/talking-with-conductors-harry-bicket.md
+- articles/talking-with-conductors-riccardo-frizza.md
+- articles/talking-with-conductors-alexander-joel.md
+- articles/elektra-and-parsifal-yannick-at-the-met.md
+- articles/talking-with-conductors-lidiya-yankovskaya.md
+- articles/talking-with-conductors-damian-iorio.md
+related_people:
+- scene/people/gordon-gerrard.md
+short_description: '&quot;My job is to get the orchestra to support how the singer
+  wants the piece to go. My favourite singers are the ones who bring convincing ideas
+  of the shapes they want to make in the music. If communication lines are open, I
+  can act as the link between them and the players in the orchestra.&quot;'
+slug: gordon-gerrard-music-doesnt-really-work-without-breath
+title: 'Gordon Gerrard: &quot;Music doesn&#039;t really work without breath.&quot;'
+---
 
 ## What do you think conductors and singers can learn from each other?
 

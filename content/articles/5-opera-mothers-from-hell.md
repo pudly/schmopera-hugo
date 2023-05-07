@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = 2017-05-12T19:58:00Z
-lastmod = "2018-05-12T20:27:00-04:00"
-preamble = "They're mean, mad, and even murderous: call it sexism, or call it a series of very loud Freudian slips, but the creators of opera have never been too kind to mothers. Still, Mother's Day is here; despite the generally poor representation they have in our favourite operas, these crazy mamas sure do get some great music."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526171263966/mothers.jpg.jpg"
-publishDate = "2017-05-13T09:07:00-04:00"
-related_articles = ["articles/8-contemporary-roles-to-covet.md", "articles/5-opera-crossovers-were-dying-to-see.md"]
-short_description = "They&#039;re mean, mad, and even murderous: call it sexism, or call it a series of very loud Freudian slips, but the creators of opera have never been too kind to mothers. Still, Mother&#039;s Day is fast approaching; despite the generally poor representation they have in our favourite operas, these crazy mamas sure do get some great music."
-slug = "5-opera-mothers-from-hell"
-title = "5 opera mothers from hell"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2017-05-12T19:58:00Z"
+lastmod: "2018-05-12T20:27:00-04:00"
+preamble: 'They''re mean, mad, and even murderous: call it sexism, or call it a series
+  of very loud Freudian slips, but the creators of opera have never been too kind
+  to mothers. Still, Mother''s Day is here; despite the generally poor representation
+  they have in our favourite operas, these crazy mamas sure do get some great music.'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526171263966/mothers.jpg.jpg
+publishDate: "2017-05-13T09:07:00-04:00"
+related_articles:
+- articles/8-contemporary-roles-to-covet.md
+- articles/5-opera-crossovers-were-dying-to-see.md
+short_description: 'They&#039;re mean, mad, and even murderous: call it sexism, or
+  call it a series of very loud Freudian slips, but the creators of opera have never
+  been too kind to mothers. Still, Mother&#039;s Day is fast approaching; despite
+  the generally poor representation they have in our favourite operas, these crazy
+  mamas sure do get some great music.'
+slug: 5-opera-mothers-from-hell
+title: 5 opera mothers from hell
+---
 ## The Queen of the Night in _Die Zauberflöte_
 
 If you saw the movie _Amadeus_, you chuckled as director Miloš Forman drew a clear comparison between Mozart's shrill mother-in-law and the impossibly high arias he wrote for the Queen of the Night in his infamous _Die Zauberflöte_. Mother to Pamina, the captive maiden whom Tamino helps to "rescue" from Sarastro, the Queen of the Night seems to embody the kind of mom who's super sweet when company is around (ie. princes named Tamino), but seems to bare her claws when left alone with her daughter.

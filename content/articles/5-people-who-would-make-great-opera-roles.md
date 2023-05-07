@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = 2016-10-23T14:57:00Z
-lastmod = "2016-10-25T18:52:00+01:00"
-preamble = "Thank goodness for people who live loudly and influentially; where else would we get great fodder for the new operas of the 21st century? Though we all love the supernatural, sometimes it's even better when you know an opera is based on a real person's life, like *Maria Stuarda*, *Giulio Cesare*, *Nixon in China*, and *Anna Nicole*. We've got five people to add to that list of people whose lives deserve an opera.\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477387711301/2016-10-25---Michelle-Obama-DNC.jpg.jpg"
-primary_image_credit = "Photo by Anthony Behar."
-publishDate = "2016-10-25T14:45:00+01:00"
-related_articles = ["articles/gibson-girls-and-the-great-opera-theyd-make.md", "articles/michael-christie-new-opera-that-the-box-office-loves.md", "articles/6-tv-shows-that-should-be-operas.md", "articles/4-opera-scenes-that-should-have-happened.md", "articles/diegetic-music-in-opera-3-ways-to-use-it.md", "articles/why-opera-fans-love-to-namedrop.md", "articles/ron-howard-to-direct-new-pavarotti-documentary.md", "articles/thomas-paine-in-violence-must-be-witnessed.md"]
-short_description = "Right up there with Donizetti&#039;s Tudor Queens, the hypothetical opera about Michelle Obama is packed with some serious history. The election of Barack Obama exposed the real racism that still exists in the United States; yet at the same time, the Obamas set a new bar for humanity and class among politicians."
-slug = "5-people-who-would-make-great-opera-roles"
-title = "5 people who would make great opera roles"
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-10-23T14:57:00Z"
+lastmod: "2016-10-25T18:52:00+01:00"
+preamble: |+
+  Thank goodness for people who live loudly and influentially; where else would we get great fodder for the new operas of the 21st century? Though we all love the supernatural, sometimes it's even better when you know an opera is based on a real person's life, like *Maria Stuarda*, *Giulio Cesare*, *Nixon in China*, and *Anna Nicole*. We've got five people to add to that list of people whose lives deserve an opera.
 
-+++
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477387711301/2016-10-25---Michelle-Obama-DNC.jpg.jpg
+primary_image_credit: Photo by Anthony Behar.
+publishDate: "2016-10-25T14:45:00+01:00"
+related_articles:
+- articles/gibson-girls-and-the-great-opera-theyd-make.md
+- articles/michael-christie-new-opera-that-the-box-office-loves.md
+- articles/6-tv-shows-that-should-be-operas.md
+- articles/4-opera-scenes-that-should-have-happened.md
+- articles/diegetic-music-in-opera-3-ways-to-use-it.md
+- articles/why-opera-fans-love-to-namedrop.md
+- articles/ron-howard-to-direct-new-pavarotti-documentary.md
+- articles/thomas-paine-in-violence-must-be-witnessed.md
+short_description: Right up there with Donizetti&#039;s Tudor Queens, the hypothetical
+  opera about Michelle Obama is packed with some serious history. The election of
+  Barack Obama exposed the real racism that still exists in the United States; yet
+  at the same time, the Obamas set a new bar for humanity and class among politicians.
+slug: 5-people-who-would-make-great-opera-roles
+title: 5 people who would make great opera roles
+---
 ## Anna Wintour
 
 Would she not make a great anti-heroine? If you don't know much about Anna Wintour, you likely know of Meryl Streep's performance in _The Devil Wears Prada_, loosely and unofficially based on the notoriously chilly _Vogue_ editor.

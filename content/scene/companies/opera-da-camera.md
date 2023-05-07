@@ -1,23 +1,24 @@
-+++
-date = "2015-04-04T20:52:00-04:00"
-lastmod = "2015-10-31T14:37:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446316639813/Logo---OdeC.jpg.jpg"
-publishDate = "2015-04-04T20:52:00-04:00"
-related_people = ["scene/people/valerie-belanger.md","scene/people/kathrin-welte.md"]
-slug = "opera-da-camera"
-title = "Opera da Camera"
-type_of_company = "Opera Company"
-website = "http://www.operadacamera.ca/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/operadacamera?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/OperadaCamera"
-_template = "company_single"
-+++
+---
+date: "2015-04-04T20:52:00-04:00"
+lastmod: "2015-10-31T14:37:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446316639813/Logo---OdeC.jpg.jpg
+publishDate: "2015-04-04T20:52:00-04:00"
+related_people:
+- scene/people/valerie-belanger.md
+- scene/people/kathrin-welte.md
+slug: opera-da-camera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/operadacamera?fref=ts
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/OperadaCamera
+title: Opera da Camera
+type_of_company: Opera Company
+website: http://www.operadacamera.ca/
+---
 
 Translated without embellishment from the Italian, Opera da Camera means chamber (Camera) work (Opera). A musical work in a chamber… in a room. More importantly, it is a work that promotes a sense of closeness, intimacy, a connection resonating directly between the audience and the musician.
 

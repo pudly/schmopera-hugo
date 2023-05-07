@@ -1,22 +1,29 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2021-10-24T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1635099637/media/2021/10/sqMassOpera_Traviata_Fourth_159_rey5fy.jpg"
-primary_image_credit = "David Bozón as Alfredo Germont in La traviata, MassOpera, 2021. Photo: Nile Scott Studios."
-related_articles = ["articles/in-review-la-traviata-at-the-coc.md", "articles/a-parisian-traviata-spectacle.md"]
-related_companies = ["scene/companies/massopera.md"]
-related_people = []
-short_description = "La traviata hosts what is probably opera's most well-beloved idiot plot: all of the characters make some fairly idiotic choices for the plot to progress as it does, and some characters can really come off as extremely unlikable as a result."
-slug = "installation-la-traviata-intimate-and-effective-production"
-title = "Installation La traviata intimate and effective production"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2021-10-24T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1635099637/media/2021/10/sqMassOpera_Traviata_Fourth_159_rey5fy.jpg
+primary_image_credit: 'David Bozón as Alfredo Germont in La traviata, MassOpera, 2021.
+  Photo: Nile Scott Studios.'
+related_articles:
+- articles/in-review-la-traviata-at-the-coc.md
+- articles/a-parisian-traviata-spectacle.md
+related_companies:
+- scene/companies/massopera.md
+related_people: []
+short_description: 'La traviata hosts what is probably opera''s most well-beloved
+  idiot plot: all of the characters make some fairly idiotic choices for the plot
+  to progress as it does, and some characters can really come off as extremely unlikable
+  as a result.'
+slug: installation-la-traviata-intimate-and-effective-production
+title: Installation La traviata intimate and effective production
+youtube_url: ""
+---
 _La traviata_ is often hailed as a classic of the operatic repertory, but I personally have always had a rather distant relationship with it. A part of that is the fact that it is very much from Verdi's early bel canto phase, and while it does leave those stylings behind in some ways as the opera progresses the tropes of the genre do still trap the opera, as they do in so much of Verdi's earlier work.
 
 But the bigger part for me is that _La traviata_ hosts what is probably opera's most well-beloved idiot plot: all of the characters make some fairly idiotic choices for the plot to progress as it does, and some characters can really come off as extremely unlikable as a result. Thus, for a production of _Traviata_ to grab me, the production has to pull some major gymnastics in order for me to get past both of these things.

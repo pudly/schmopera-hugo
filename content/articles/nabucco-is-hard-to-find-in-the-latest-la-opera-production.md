@@ -1,17 +1,30 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2017-10-15T19:07:00-04:00"
-lastmod = "2017-10-15T22:55:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508110142322/2017-10-16---square---nab_3005pr.jpg.jpg"
-publishDate = "2017-10-15T21:07:00-04:00"
-related_articles = ["articles/la-opera-scores-in-first-half-of-bizet-doubleheader.md","articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md","articles/placido-baritones-ripple.md"]
-related_companies = ["scene/companies/los-angeles-opera.md"]
-related_people = ["scene/people/plcido-domingo.md","scene/people/morris-robinson.md","scene/people/liudmyla-monastyrska.md","scene/people/mario-chang.md"]
-short_description = "Yes, there was a Verdi opera somewhere in those three and a half hours - and we got to see brilliant flashes at times of what the show should and could have been - but mostly we had to wade through a lot of concept and conceit to get there. It wasn&#039;t until Act IV (the final act) that our wishes came true: singing, acting and staging that actually touched the audience, and touched us deeply."
-slug = "nabucco-is-hard-to-find-in-the-latest-la-opera-production"
-title = "Nabucco is hard to find in the latest LA Opera production"
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2017-10-15T19:07:00-04:00"
+lastmod: "2017-10-15T22:55:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508110142322/2017-10-16---square---nab_3005pr.jpg.jpg
+publishDate: "2017-10-15T21:07:00-04:00"
+related_articles:
+- articles/la-opera-scores-in-first-half-of-bizet-doubleheader.md
+- articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md
+- articles/placido-baritones-ripple.md
+related_companies:
+- scene/companies/los-angeles-opera.md
+related_people:
+- scene/people/plcido-domingo.md
+- scene/people/morris-robinson.md
+- scene/people/liudmyla-monastyrska.md
+- scene/people/mario-chang.md
+short_description: 'Yes, there was a Verdi opera somewhere in those three and a half
+  hours - and we got to see brilliant flashes at times of what the show should and
+  could have been - but mostly we had to wade through a lot of concept and conceit
+  to get there. It wasn&#039;t until Act IV (the final act) that our wishes came true:
+  singing, acting and staging that actually touched the audience, and touched us deeply.'
+slug: nabucco-is-hard-to-find-in-the-latest-la-opera-production
+title: Nabucco is hard to find in the latest LA Opera production
+---
 
 A friend texted me as she was leaving the LA Opera production of [*Nabucco*](https://www.laopera.org/season/1718-Season/Nabucco/) and asked if I could explain the curtain call. The curtain call took some deciphering but it was simply the capper to a production that shouldn't have been called *Nabucco*, but rather "An Evening with Director Thaddeus Strassberger." 
 

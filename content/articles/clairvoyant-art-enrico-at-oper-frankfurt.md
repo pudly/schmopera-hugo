@@ -1,18 +1,32 @@
-+++
-author = ["authors/blanche-isral.md"]
-categories = "Review"
-date = "2018-01-24T11:08:00-05:00"
-lastmod = "2018-01-24T11:08:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516809837446/sq---3476_enrico04_gross.jpg.jpg"
-primary_image_credit = "Holger Falk plays the title role in Enrico, Oper Frankfurt, 2018. Photo: Barbara Aumüller."
-publishDate = "2018-01-24T11:08:00-05:00"
-related_articles = ["articles/misnomers-interstellar-sex-scenes-vasco-de-gama.md"]
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = ["scene/people/bjorn-burger.md","scene/people/angela-vallone.md","scene/people/samuel-levine.md","scene/people/juanita-lascarro.md","scene/people/holger-falk.md","scene/people/sebastian-geyer.md"]
-short_description = "After suffering trauma to the head while in character as Henry IV, Enrico (Holger Falk) regains consciousness still believing himself to be the 11th century emperor. So as not to rattle him, Enrico&#039;s relatives maintain an elaborate lie involving costumes, alternate personas and staff trained to appease him."
-slug = "clairvoyant-art-enrico-at-oper-frankfurt"
-title = "Clairvoyant art: Enrico at Oper Frankfurt"
-+++
+---
+author:
+- authors/blanche-isral.md
+categories: Review
+date: "2018-01-24T11:08:00-05:00"
+lastmod: "2018-01-24T11:08:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516809837446/sq---3476_enrico04_gross.jpg.jpg
+primary_image_credit: 'Holger Falk plays the title role in Enrico, Oper Frankfurt,
+  2018. Photo: Barbara Aumüller.'
+publishDate: "2018-01-24T11:08:00-05:00"
+related_articles:
+- articles/misnomers-interstellar-sex-scenes-vasco-de-gama.md
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people:
+- scene/people/bjorn-burger.md
+- scene/people/angela-vallone.md
+- scene/people/samuel-levine.md
+- scene/people/juanita-lascarro.md
+- scene/people/holger-falk.md
+- scene/people/sebastian-geyer.md
+short_description: After suffering trauma to the head while in character as Henry
+  IV, Enrico (Holger Falk) regains consciousness still believing himself to be the
+  11th century emperor. So as not to rattle him, Enrico&#039;s relatives maintain
+  an elaborate lie involving costumes, alternate personas and staff trained to appease
+  him.
+slug: clairvoyant-art-enrico-at-oper-frankfurt
+title: 'Clairvoyant art: Enrico at Oper Frankfurt'
+---
 
 A man suffering from cognitive damage exerts a tyrannical rule over the people around him. He believes himself to be a powerful leader. His entourage plays into this delusion, at first as a joke, then out of fear. The man is volatile and unpredictable. He strips down to his skivvies and sexually assaults a young woman. His traumatized and obedient relatives and staff tiptoe around him as if on eggshells. They lay careful plans when he is out of earshot to coax him in their favour. A doctor is brought in to evaluate his cognitive function. Despite his erratic speech and behaviour, the man declares that he is not crazy, and is in fact well aware of the lie that is being kept up for him. What started as a game has become a years-long living nightmare, and everyone is just trying to avoid a catastrophe.
 

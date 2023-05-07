@@ -1,17 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2017-02-01T10:30:00+00:00"
-lastmod = "2017-02-01T12:47:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485948003351/2017-02-01---Haus-Musik.jpg.jpg"
-publishDate = "2017-02-01T12:39:00+00:00"
-related_articles = ["articles/all-about-the-tafelmusik-baroque-summer-institute.md","articles/i-sang-along-at-tafelmusiks-messiah.md"]
-related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md","scene/companies/fawn-chamber-creative.md"]
-related_people = ["scene/people/amanda-smith.md"]
-short_description = "&quot;Adventure ensues as we experience the world around us for the first time through the eyes of the recently awoken Leeka, a curious and vivacious young woman from a galaxy far away.&quot;"
-slug = "dont-miss-haus-musik"
-title = "Don&#039;t miss: Haus Musik"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2017-02-01T10:30:00+00:00"
+lastmod: "2017-02-01T12:47:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485948003351/2017-02-01---Haus-Musik.jpg.jpg
+publishDate: "2017-02-01T12:39:00+00:00"
+related_articles:
+- articles/all-about-the-tafelmusik-baroque-summer-institute.md
+- articles/i-sang-along-at-tafelmusiks-messiah.md
+related_companies:
+- scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md
+- scene/companies/fawn-chamber-creative.md
+related_people:
+- scene/people/amanda-smith.md
+short_description: '&quot;Adventure ensues as we experience the world around us for
+  the first time through the eyes of the recently awoken Leeka, a curious and vivacious
+  young woman from a galaxy far away.&quot;'
+slug: dont-miss-haus-musik
+title: 'Don&#039;t miss: Haus Musik'
+---
 
 Tafelmusik rolls out its new "Classical alternative" concert programming with [Haus Musik](https://www.facebook.com/events/1709718326007552/), **February 2, 8pm** at Toronto's Longboat Hall, 1087 Queen St W.
 

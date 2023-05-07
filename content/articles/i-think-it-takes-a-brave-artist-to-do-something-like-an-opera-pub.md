@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-09-21T11:41:00-04:00"
-lastmod = "2017-09-26T17:56:00-04:00"
-preamble = "[Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) is gearing up for a brand new season of [Opera Pubs](/success-hype-the-first-season-of-opera-pubs-in-toronto/), their smash-success, line-up-out-the-door series of monthly open-mic-type events at Toronto's Amsterdam Bicycle Club. Starting with [OPUS POCUS on **October 5, 9pm**](http://againstthegraintheatre.com/opera-pub/), and continuing throughout the season on the first Thursday of every month, AtG's Opera Pubs showcase talented singers in a comfy pub environment where the pitchers are discounted and the music is truly live.\n\nWe spoke with David Eliakis, Toronto-based pianist and host of AtG's Opera Pubs, about the unique fun of playing without rehearsal for an up-close-and-personal audience of enthusiastic opera fans."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506008877866/2017-09-21---Opera-Pub-square---Block.jpg.jpg"
-primary_image_credit = "Neil Craighead sings in an AtG Opera Pub, with David Eliakis at the piano. Photo: Darryl Block."
-publishDate = "2017-09-26T09:51:00-04:00"
-related_articles = ["articles/atgs-opera-pubs-it-can-all-get-a-bit-wild.md","articles/success-hype-the-first-season-of-opera-pubs-in-toronto.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/indie-opera-to.md"]
-short_description = "&quot;There&#039;s nothing that compares to a rowdy, enthusiastic crowd cheering you on when you&#039;ve nailed that high note. You just don&#039;t get that in your usual recital/concert setting, and there really is nothing more gratifying. Of course, the singers involved are the biggest highlight for me. As a coach here in Toronto, I meet new singers on a daily basis, but there&#039;s something about meeting a singer on stage (literally) and performing for the first time with absolutely no rehearsal in front of a live audience that is absolutely thrilling.&quot;"
-slug = "i-think-it-takes-a-brave-artist-to-do-something-like-an-opera-pub"
-title = "&quot;I think it takes a brave artist to do something like an Opera Pub.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-09-21T11:41:00-04:00"
+lastmod: "2017-09-26T17:56:00-04:00"
+preamble: |-
+  [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) is gearing up for a brand new season of [Opera Pubs](/success-hype-the-first-season-of-opera-pubs-in-toronto/), their smash-success, line-up-out-the-door series of monthly open-mic-type events at Toronto's Amsterdam Bicycle Club. Starting with [OPUS POCUS on **October 5, 9pm**](http://againstthegraintheatre.com/opera-pub/), and continuing throughout the season on the first Thursday of every month, AtG's Opera Pubs showcase talented singers in a comfy pub environment where the pitchers are discounted and the music is truly live.
+
+  We spoke with David Eliakis, Toronto-based pianist and host of AtG's Opera Pubs, about the unique fun of playing without rehearsal for an up-close-and-personal audience of enthusiastic opera fans.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506008877866/2017-09-21---Opera-Pub-square---Block.jpg.jpg
+primary_image_credit: 'Neil Craighead sings in an AtG Opera Pub, with David Eliakis
+  at the piano. Photo: Darryl Block.'
+publishDate: "2017-09-26T09:51:00-04:00"
+related_articles:
+- articles/atgs-opera-pubs-it-can-all-get-a-bit-wild.md
+- articles/success-hype-the-first-season-of-opera-pubs-in-toronto.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/indie-opera-to.md
+short_description: '&quot;There&#039;s nothing that compares to a rowdy, enthusiastic
+  crowd cheering you on when you&#039;ve nailed that high note. You just don&#039;t
+  get that in your usual recital/concert setting, and there really is nothing more
+  gratifying. Of course, the singers involved are the biggest highlight for me. As
+  a coach here in Toronto, I meet new singers on a daily basis, but there&#039;s something
+  about meeting a singer on stage (literally) and performing for the first time with
+  absolutely no rehearsal in front of a live audience that is absolutely thrilling.&quot;'
+slug: i-think-it-takes-a-brave-artist-to-do-something-like-an-opera-pub
+title: '&quot;I think it takes a brave artist to do something like an Opera Pub.&quot;'
+---
 
 ## For you, how does an AtG Opera Pub compare to the average concert gig?
 

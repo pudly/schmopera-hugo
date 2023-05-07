@@ -1,18 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-04-23T20:55:00-04:00"
-lastmod = "2018-04-25T12:40:00-04:00"
-preamble = "**May 4 and 6**, the second annual Vancouver Opera Festival presents the chamber musical, [*Requiem for a Lost Girl*](https://www.vancouveropera.ca/2016/02/27/requiem-lost-girl-chamber-musical-homelessness/). Presented in collaboration with The Kettle Society and in cultural partnership with SFU's Goldcorp Centre for the Arts, *Requiem* is composed and conducted by Marcel Bergmann, and written and directed by Onalea Gilbertson with  writing and additional music by the Kettle Choir and Writers Guild; it will be performed by soloists from the Yulanda M. Faris Young Artist Program, members of the Vancouver Opera Chorus, the Vancouver Opera Orchestra and The Kettle Choir and Writers Guild. \n\n[*Requiem for a Lost Girl*](https://www.vancouveropera.ca/2016/02/27/requiem-lost-girl-chamber-musical-homelessness/) memorializes a young woman lost to the streets, exploring themes of homelessness, poverty, addiction, mental illness, and the plights of missing and murdered indigenous women.\n\nWe spoke with Gilbertson, and *Requiem* performer [Stephanie Tritchew](/spotlight-on-stephanie-tritchew/) about this must-see, powerful piece of theatre:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524531251010/sqRequiemforaLostGirl.jpg.jpg"
-publishDate = "2018-04-25T12:40:00-04:00"
-related_articles = ["articles/i-wrote-toward-tomorrow-to-bring-attention-to-this-crisis.md"]
-related_companies = ["scene/companies/vancouver-opera.md","scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md"]
-related_people = ["scene/people/stephanie-tritchew.md"]
-short_description = "&quot;The tragedy of her death and stigma that surrounded it is still with me. This experience is how I found my way into the themes of this piece.&quot;"
-slug = "requiem-for-a-lost-girl-is-based-on-a-true-story"
-title = "&quot;Requiem for a Lost Girl is based on a true story.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-04-23T20:55:00-04:00"
+lastmod: "2018-04-25T12:40:00-04:00"
+preamble: "**May 4 and 6**, the second annual Vancouver Opera Festival presents the
+  chamber musical, [*Requiem for a Lost Girl*](https://www.vancouveropera.ca/2016/02/27/requiem-lost-girl-chamber-musical-homelessness/).
+  Presented in collaboration with The Kettle Society and in cultural partnership with
+  SFU's Goldcorp Centre for the Arts, *Requiem* is composed and conducted by Marcel
+  Bergmann, and written and directed by Onalea Gilbertson with  writing and additional
+  music by the Kettle Choir and Writers Guild; it will be performed by soloists from
+  the Yulanda M. Faris Young Artist Program, members of the Vancouver Opera Chorus,
+  the Vancouver Opera Orchestra and The Kettle Choir and Writers Guild. \n\n[*Requiem
+  for a Lost Girl*](https://www.vancouveropera.ca/2016/02/27/requiem-lost-girl-chamber-musical-homelessness/)
+  memorializes a young woman lost to the streets, exploring themes of homelessness,
+  poverty, addiction, mental illness, and the plights of missing and murdered indigenous
+  women.\n\nWe spoke with Gilbertson, and *Requiem* performer [Stephanie Tritchew](/spotlight-on-stephanie-tritchew/)
+  about this must-see, powerful piece of theatre:"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524531251010/sqRequiemforaLostGirl.jpg.jpg
+publishDate: "2018-04-25T12:40:00-04:00"
+related_articles:
+- articles/i-wrote-toward-tomorrow-to-bring-attention-to-this-crisis.md
+related_companies:
+- scene/companies/vancouver-opera.md
+- scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md
+related_people:
+- scene/people/stephanie-tritchew.md
+short_description: '&quot;The tragedy of her death and stigma that surrounded it is
+  still with me. This experience is how I found my way into the themes of this piece.&quot;'
+slug: requiem-for-a-lost-girl-is-based-on-a-true-story
+title: '&quot;Requiem for a Lost Girl is based on a true story.&quot;'
+---
 
 ### What questions about homelessness and addiction does *Requiem for a Lost Girl* strive to answer?
 

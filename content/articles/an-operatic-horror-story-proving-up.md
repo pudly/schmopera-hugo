@@ -1,18 +1,34 @@
-+++
-author = ["authors/molly-simoneau.md"]
-categories = "Review"
-date = "2018-01-21T12:29:00-05:00"
-lastmod = "2018-01-21T18:22:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516555443085/sq---Christopher-Kenney-and-Leah-Hawkins-as-Pa-and-Ma-Zegner-in-Missy-Mazzoli's-Proving-Up.photo-Scott-Suchman.jpg.jpg"
-primary_image_credit = "Christopher Kenney and Leah Hawkins as Pa and Ma Zegner in Missy Mazzoli's Proving Up. Photo: Scott Suchman."
-publishDate = "2018-01-21T18:22:00-05:00"
-related_articles = ["articles/the-start-of-something-powerful-the-echo-drift.md","articles/oksana-g-its-so-out-of-this-world-and-yet-so-realistic.md","articles/new-season-offerings-from-esprit-orchestra.md"]
-related_companies = ["scene/companies/washington-national-opera.md"]
-related_people = ["scene/people/timothy-j-bruno.md","scene/people/leah-hawkins.md","scene/people/madison-leonard.md","scene/people/allegra-de-vita.md","scene/people/arnold-livingston-geis.md"]
-short_description = "This story also asks questions about the very nature of the American Dream. In the clutches of the Sodbuster, Miles is driven to question his entire mission. He asks &quot;Does a window make a home? Does a deed make the land yours?&quot; While these questions might have been better left implied rather than sung out loud, they lead to another question: Who really benefited from America&#039;s Manifest Destiny?"
-slug = "an-operatic-horror-story-proving-up"
-title = "An operatic horror story: Proving Up"
-+++
+---
+author:
+- authors/molly-simoneau.md
+categories: Review
+date: "2018-01-21T12:29:00-05:00"
+lastmod: "2018-01-21T18:22:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516555443085/sq---Christopher-Kenney-and-Leah-Hawkins-as-Pa-and-Ma-Zegner-in-Missy-Mazzoli's-Proving-Up.photo-Scott-Suchman.jpg.jpg
+primary_image_credit: 'Christopher Kenney and Leah Hawkins as Pa and Ma Zegner in
+  Missy Mazzoli''s Proving Up. Photo: Scott Suchman.'
+publishDate: "2018-01-21T18:22:00-05:00"
+related_articles:
+- articles/the-start-of-something-powerful-the-echo-drift.md
+- articles/oksana-g-its-so-out-of-this-world-and-yet-so-realistic.md
+- articles/new-season-offerings-from-esprit-orchestra.md
+related_companies:
+- scene/companies/washington-national-opera.md
+related_people:
+- scene/people/timothy-j-bruno.md
+- scene/people/leah-hawkins.md
+- scene/people/madison-leonard.md
+- scene/people/allegra-de-vita.md
+- scene/people/arnold-livingston-geis.md
+short_description: 'This story also asks questions about the very nature of the American
+  Dream. In the clutches of the Sodbuster, Miles is driven to question his entire
+  mission. He asks &quot;Does a window make a home? Does a deed make the land yours?&quot;
+  While these questions might have been better left implied rather than sung out loud,
+  they lead to another question: Who really benefited from America&#039;s Manifest
+  Destiny?'
+slug: an-operatic-horror-story-proving-up
+title: 'An operatic horror story: Proving Up'
+---
 
 The Washington National Opera's American Opera Initiative Festival kicked off on Friday night with the world premiere of *Proving Up*, a one-act opera by Missy Mazzoli and librettist Royce Vavrek. Mazzoli and Vavrek came to Washington fresh off the success of *Breaking the Waves*, which premiered to acclaim at Opera Philadelphia in 2016, and the Kennedy Center's Terrace Theater was electrified with excitement for their newest work.
 

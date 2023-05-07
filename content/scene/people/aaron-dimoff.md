@@ -1,15 +1,18 @@
-+++
-date = "2017-11-19T11:41:00-05:00"
-discipline = "Bass-baritone"
-lastmod = "2017-11-19T11:41:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511109590030/9long_orig.jpg.jpg"
-publishDate = "2017-11-19T11:41:00-05:00"
-related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md","scene/companies/calgary-opera.md","scene/companies/edmonton-opera.md"]
-slug = "aaron-dimoff"
-title = "Aaron Dimoff"
-website = "https://aarondimoff.weebly.com/"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-11-19T11:41:00-05:00"
+discipline: Bass-baritone
+lastmod: "2017-11-19T11:41:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511109590030/9long_orig.jpg.jpg
+publishDate: "2017-11-19T11:41:00-05:00"
+related_companies:
+- scene/companies/calgary-opera-emerging-artist-development-program.md
+- scene/companies/calgary-opera.md
+- scene/companies/edmonton-opera.md
+slug: aaron-dimoff
+title: Aaron Dimoff
+website: https://aarondimoff.weebly.com/
+---
 
 Ontario born Bass-Baritone Aaron Dimoff has gained a reputation as a versatile, powerhouse vocalist across western Canada and beyond.
 After studying with renowned Canadian baritones Kevin McMillan and Ted Baerg at the University of Western Ontario, and earning his Masters degree in Music, Aaron was offered a position with the Calgary Opera Emerging Artists in 2013. Aaron has since been rising in demand while keeping regular appearances with his home company, Calgary Opera. 

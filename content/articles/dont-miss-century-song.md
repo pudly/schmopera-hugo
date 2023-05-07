@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2017-04-21T18:46:00-04:00"
-lastmod = "2017-04-22T08:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492816234274/2017-04-21---Century_Song_1.jpg.jpg"
-primary_image_credit = "Neema Bickersteth, creator of Century Song. Photo by John Lauener."
-publishDate = "2017-04-22T08:39:00-04:00"
-related_articles = ["articles/in-review-obeah-opera.md","articles/in-review-tapex-tables-turned-or-go-see-this-show.md"]
-short_description = "&quot;Once I became comfortable with my ability as an opera singer, once I got to the point where I felt immersed in the form, then I began to question the form itself,&quot; says Bickersteth. &quot;I started to wonder how I, as a black person singing white European roles from another era, connect personally to this art form. It became problematic to connect with what I was trained to sing. I love the music, but I began to feel constricted in my expression of it. I began to look for other ways to fuse my training and love of classical music, with my dawning awareness of other modes of expression.&quot;"
-slug = "dont-miss-century-song"
-title = "Don&#039;t miss: Century Song"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2017-04-21T18:46:00-04:00"
+lastmod: "2017-04-22T08:39:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492816234274/2017-04-21---Century_Song_1.jpg.jpg
+primary_image_credit: Neema Bickersteth, creator of Century Song. Photo by John Lauener.
+publishDate: "2017-04-22T08:39:00-04:00"
+related_articles:
+- articles/in-review-obeah-opera.md
+- articles/in-review-tapex-tables-turned-or-go-see-this-show.md
+short_description: '&quot;Once I became comfortable with my ability as an opera singer,
+  once I got to the point where I felt immersed in the form, then I began to question
+  the form itself,&quot; says Bickersteth. &quot;I started to wonder how I, as a black
+  person singing white European roles from another era, connect personally to this
+  art form. It became problematic to connect with what I was trained to sing. I love
+  the music, but I began to feel constricted in my expression of it. I began to look
+  for other ways to fuse my training and love of classical music, with my dawning
+  awareness of other modes of expression.&quot;'
+slug: dont-miss-century-song
+title: 'Don&#039;t miss: Century Song'
+---
 
 Over at the Crow's Theatre until **April 29**, you can catch [*Century Song*](http://www.nightwoodtheatre.net/index.php/whats_on/century_song), the fascinating "live performance hybrid" created by soprano Neema Bickersteth that "melds classical song and movement to inhabit a century of Canadian women."
 

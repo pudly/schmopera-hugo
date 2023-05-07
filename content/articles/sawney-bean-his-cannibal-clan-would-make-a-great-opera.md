@@ -1,15 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2017-08-25T15:43:00-04:00"
-lastmod = "2017-08-27T11:45:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503794446689/2017-08-25---Scotland.jpg.jpg"
-publishDate = "2017-08-26T21:39:00-04:00"
-related_articles = ["articles/gibson-girls-and-the-great-opera-theyd-make.md","articles/dont-miss-bandits-in-the-valley.md"]
-short_description = "Whether you turn Sawney Bean himself into a booming basso profundo with a mean snarl and a taste for human flesh, or you tell the story of an anti-social family living among a mob-like community with a tendency toward exaggeration and gossip, the story is full of operatic qualities."
-slug = "sawney-bean-his-cannibal-clan-would-make-a-great-opera"
-title = "Sawney Bean &amp; his cannibal clan would make a great opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2017-08-25T15:43:00-04:00"
+lastmod: "2017-08-27T11:45:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503794446689/2017-08-25---Scotland.jpg.jpg
+publishDate: "2017-08-26T21:39:00-04:00"
+related_articles:
+- articles/gibson-girls-and-the-great-opera-theyd-make.md
+- articles/dont-miss-bandits-in-the-valley.md
+short_description: Whether you turn Sawney Bean himself into a booming basso profundo
+  with a mean snarl and a taste for human flesh, or you tell the story of an anti-social
+  family living among a mob-like community with a tendency toward exaggeration and
+  gossip, the story is full of operatic qualities.
+slug: sawney-bean-his-cannibal-clan-would-make-a-great-opera
+title: Sawney Bean &amp; his cannibal clan would make a great opera
+---
 
 Every once in a while, one comes across a story that grabs a tight hold on your attention. If you're a fan of combining music and theatre, one of your first reactions is to wonder whether or not that great story has yet been turned into an opera.
 

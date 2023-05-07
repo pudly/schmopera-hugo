@@ -1,19 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-06-19T15:38:00-06:00"
-lastmod = "2016-06-21T10:15:00-06:00"
-preamble = "Soprano [Samantha Pickett](/scene/people/samantha-pickett/) has a dramatic voice, a crackling energy about her work, and a wise attitude about the larger-than-life world of opera. We first met Samantha at The Banff Centre in 2015, where she sang the role of Anna in James Rolfe and Anna Chatterton's *Crush*, and she recently joined the very busy chorus for [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/)'s *AtG's Messiah* at Toronto's Harbourfront Centre Theatre. This fall, she'll join the [Canadian Opera Company](/scene/companies/canadian-opera-company/)'s Ensemble Studio for the 2016/17 season, and she's also the founder of [The Emerging Project](http://www.theemergingproject.com/), a \"a source of contemplation, inspiration & information for the up & coming international opera community.\"\n\nSamantha chats about finding the zen in singing, and tenor envy."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466372509758/2016-06-20---PickettHeadshot.jpg.jpg"
-primary_image_credit = "Photo by Cornelia Climek"
-publishDate = "2016-06-21T02:57:00-06:00"
-related_articles = ["articles/spotlight-on-stephanie-tritchew.md","articles/spotlight-on-sydney-mancasola.md","articles/talking-with-singers-jamie-barton.md","articles/dont-you-deserve-a-little-spotlight.md","articles/talking-with-singers-samantha-pickett.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
-related_people = ["scene/people/samantha-pickett.md"]
-short_description = "&quot;The actual concept of opera is quite simple: Remember all of those angst-laden journal entries, love letters and hyper-realistic hormone-induced dreams you would have as a teenager? Imagine if those came to life, accompanied by the most glorious soundtrack you can fathom. That&#039;s opera.&quot;"
-slug = "spotlight-on-samantha-pickett"
-title = "Spotlight on: Samantha Pickett"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-06-19T15:38:00-06:00"
+lastmod: "2016-06-21T10:15:00-06:00"
+preamble: |-
+  Soprano [Samantha Pickett](/scene/people/samantha-pickett/) has a dramatic voice, a crackling energy about her work, and a wise attitude about the larger-than-life world of opera. We first met Samantha at The Banff Centre in 2015, where she sang the role of Anna in James Rolfe and Anna Chatterton's *Crush*, and she recently joined the very busy chorus for [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/)'s *AtG's Messiah* at Toronto's Harbourfront Centre Theatre. This fall, she'll join the [Canadian Opera Company](/scene/companies/canadian-opera-company/)'s Ensemble Studio for the 2016/17 season, and she's also the founder of [The Emerging Project](http://www.theemergingproject.com/), a "a source of contemplation, inspiration & information for the up & coming international opera community."
+
+  Samantha chats about finding the zen in singing, and tenor envy.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466372509758/2016-06-20---PickettHeadshot.jpg.jpg
+primary_image_credit: Photo by Cornelia Climek
+publishDate: "2016-06-21T02:57:00-06:00"
+related_articles:
+- articles/spotlight-on-stephanie-tritchew.md
+- articles/spotlight-on-sydney-mancasola.md
+- articles/talking-with-singers-jamie-barton.md
+- articles/dont-you-deserve-a-little-spotlight.md
+- articles/talking-with-singers-samantha-pickett.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+related_people:
+- scene/people/samantha-pickett.md
+short_description: '&quot;The actual concept of opera is quite simple: Remember all
+  of those angst-laden journal entries, love letters and hyper-realistic hormone-induced
+  dreams you would have as a teenager? Imagine if those came to life, accompanied
+  by the most glorious soundtrack you can fathom. That&#039;s opera.&quot;'
+slug: spotlight-on-samantha-pickett
+title: 'Spotlight on: Samantha Pickett'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

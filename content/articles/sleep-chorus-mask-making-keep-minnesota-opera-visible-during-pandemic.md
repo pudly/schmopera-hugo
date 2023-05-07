@@ -1,22 +1,37 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Interview"
-date = 2020-05-17T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "[Minnesota Opera's 2020-21 season](https://mnopera.org/season/2020-2021/), scheduled to open on September 26 and running through May 23, includes _The Abduction from the Seraglio_, _Eugene Onegin_ and _Cinderella_. Two contemporary operas, _Blue_, a racially charged work by Jeanine Tesori and Tazewell Thompson, and _The Shining_ complete the season."
-preamble = "[Minnesota Opera](https://mnopera.org/season/2020-2021/at-home-with-mn-opera/)'s assistant conductor and chorus director Andrew Whitfield was busy producing a virtual production of \"Sleep Chorus\", from the Pulitzer Prize-winning opera [_Silent Night_](/kevin-puts-i-know-who-i-am-as-a-composer/) by Kevin Puts and Mark Campbell. The chorus gives voice to a Christmas night truce between warring soldiers in the trenches of World War I. Meanwhile, costume director Corinna Bakken along with costume and scene shop personnel and a raft of volunteers were busy in their homes sewing over 10,000 much-needed medical masks to protect against the Covid-19 virus.\n\nThe [company](https://mnopera.org/season/2020-2021/at-home-with-mn-opera/) launched the \"Sleep Chorus\" to promote a special fund raising drive to compensate artists on and off stage during the pandemic shutdown while the protective masks went to organizations without access to traditional health care resources including assisted-living homes, veterinarians, blood services, shelters, and more. I talked with Andrew Whitfield about these impressive undertakings."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1589567526/media/2020/05/sqMNOpera-SleepChorus_clrppm.jpg"
-primary_image_credit = ""
-related_articles = ["articles/covid.md", "articles/the-met-s-at-home-gala.md"]
-related_companies = ["scene/companies/minnesota-opera.md"]
-related_people = ["scene/people/kevin-puts.md"]
-short_description = "The company launched the \"Sleep Chorus\" to promote a special fund raising drive to compensate artists on and off stage during the pandemic shutdown while the protective masks went to organizations without access to traditional health care resources including assisted-living homes, veterinarians, blood services, shelters, and more"
-slug = "sleep-chorus-mask-making-keep-minnesota-opera-visible-during-pandemic"
-title = "\"Sleep Chorus\" & mask-making keep Minnesota Opera visible during pandemic"
-youtube_url = ""
+---
+author:
+- authors/john-hohmann.md
+categories: Interview
+date: "2020-05-17T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: '[Minnesota Opera''s 2020-21 season](https://mnopera.org/season/2020-2021/),
+  scheduled to open on September 26 and running through May 23, includes _The Abduction
+  from the Seraglio_, _Eugene Onegin_ and _Cinderella_. Two contemporary operas, _Blue_,
+  a racially charged work by Jeanine Tesori and Tazewell Thompson, and _The Shining_
+  complete the season.'
+preamble: |-
+  [Minnesota Opera](https://mnopera.org/season/2020-2021/at-home-with-mn-opera/)'s assistant conductor and chorus director Andrew Whitfield was busy producing a virtual production of "Sleep Chorus", from the Pulitzer Prize-winning opera [_Silent Night_](/kevin-puts-i-know-who-i-am-as-a-composer/) by Kevin Puts and Mark Campbell. The chorus gives voice to a Christmas night truce between warring soldiers in the trenches of World War I. Meanwhile, costume director Corinna Bakken along with costume and scene shop personnel and a raft of volunteers were busy in their homes sewing over 10,000 much-needed medical masks to protect against the Covid-19 virus.
 
-+++
+  The [company](https://mnopera.org/season/2020-2021/at-home-with-mn-opera/) launched the "Sleep Chorus" to promote a special fund raising drive to compensate artists on and off stage during the pandemic shutdown while the protective masks went to organizations without access to traditional health care resources including assisted-living homes, veterinarians, blood services, shelters, and more. I talked with Andrew Whitfield about these impressive undertakings.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1589567526/media/2020/05/sqMNOpera-SleepChorus_clrppm.jpg
+primary_image_credit: ""
+related_articles:
+- articles/covid.md
+- articles/the-met-s-at-home-gala.md
+related_companies:
+- scene/companies/minnesota-opera.md
+related_people:
+- scene/people/kevin-puts.md
+short_description: The company launched the "Sleep Chorus" to promote a special fund
+  raising drive to compensate artists on and off stage during the pandemic shutdown
+  while the protective masks went to organizations without access to traditional health
+  care resources including assisted-living homes, veterinarians, blood services, shelters,
+  and more
+slug: sleep-chorus-mask-making-keep-minnesota-opera-visible-during-pandemic
+title: '"Sleep Chorus" & mask-making keep Minnesota Opera visible during pandemic'
+youtube_url: ""
+---
 **You have the dual roles of assistant conductor and chorus master at Minnesota Opera. That sounds like a great job. Tell us about a typical day handling those position, especially in terms of the upcoming season, not that anyone has experienced anything "typical" in the last couple of months.**
 
 **Andrew Whitfield:** In spite of current events, things have been rather typical of any period in which we are not in production. We are looking at the upcoming season, and planning. At the moment there are a lot of interesting virtual projects that we have been working on as well. Obviously it is not the same as working with people in person, but I feel very fortunate to have the diversion of making art during these very weird times.

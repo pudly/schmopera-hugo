@@ -1,19 +1,43 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-04-27T13:11:00-04:00"
-lastmod = "2015-04-28T10:39:00-04:00"
-preamble = "The Bicycle Opera Project has [announced its 2015 season](http://bicycleopera.com/2015-season-announcement), which will take them from Toronto to Cape Breton, and back again. I'm so thrilled for BOP, who have a packed season of new Canadian works, including a couple of premieres. \n\nThey'll be heading out to Cape Breton to workshop Dean Burry and Lorna MacDonald's opera *The Bells of Baddeck*, on top of appearing at the Royal Conservatory's 21C Music Festival ([May 21st, 10pm, Mazzoleni Hall](http://performance.rcmusic.ca/event/21C/after_hours_1)), and touring their new production, *shadow box*, a collection of Canadian operas. Of course, they'll do all of this by bicycle, which I think is pretty rad. This season's BOP artists include:\n\n* Liza Balkan, stage director\n* Larissa Koniuk, soprano\n* Stephanie Tritchew, mezzo-soprano\n* Graham Thomson, tenor\n* Alexander Dobson\n* Christopher Enns, tenor\n* Geoffrey Sirett, baritone\n* Wesley Shen, piano\n* Ilana Waniuk, violin\n* Erika Nielsen, cello\n* Sonja Rainey, set designer/projectionist\n\nI had the chance to chat with soprano and Bicycle Opera Project co-founder [Larissa Koniuk](http://bicycleopera.com/artists/co-founders/) about their exciting season, and all those kilometres the team will cover this summer."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430154575919/BOP1.jpg.jpg"
-primary_image_credit = "Photo by Gary Lloyd-Rees"
-publishDate = "2015-04-28T10:29:00-04:00"
-related_articles = ["articles/the-case-for-nomadic-opera.md","articles/the-bicycle-opera-project-at-21c.md"]
-related_companies = ["scene/companies/the-bicycle-opera-project.md"]
-related_people = ["scene/people/larissa-koniuk.md","scene/people/geoffrey-sirett.md","scene/people/christopher-enns.md","scene/people/dean-burry.md"]
-short_description = "The Bicycle Opera Project has announced its 2015 season, which will take them from Toronto to Cape Breton, and back again. I&#039;m so thrilled for BOP, who have a packed season of new Canadian works, including a couple of premieres."
-slug = "chatting-with-the-bicycle-opera-project"
-title = "Chatting with the Bicycle Opera Project"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-04-27T13:11:00-04:00"
+lastmod: "2015-04-28T10:39:00-04:00"
+preamble: "The Bicycle Opera Project has [announced its 2015 season](http://bicycleopera.com/2015-season-announcement),
+  which will take them from Toronto to Cape Breton, and back again. I'm so thrilled
+  for BOP, who have a packed season of new Canadian works, including a couple of premieres.
+  \n\nThey'll be heading out to Cape Breton to workshop Dean Burry and Lorna MacDonald's
+  opera *The Bells of Baddeck*, on top of appearing at the Royal Conservatory's 21C
+  Music Festival ([May 21st, 10pm, Mazzoleni Hall](http://performance.rcmusic.ca/event/21C/after_hours_1)),
+  and touring their new production, *shadow box*, a collection of Canadian operas.
+  Of course, they'll do all of this by bicycle, which I think is pretty rad. This
+  season's BOP artists include:\n\n* Liza Balkan, stage director\n* Larissa Koniuk,
+  soprano\n* Stephanie Tritchew, mezzo-soprano\n* Graham Thomson, tenor\n* Alexander
+  Dobson\n* Christopher Enns, tenor\n* Geoffrey Sirett, baritone\n* Wesley Shen, piano\n*
+  Ilana Waniuk, violin\n* Erika Nielsen, cello\n* Sonja Rainey, set designer/projectionist\n\nI
+  had the chance to chat with soprano and Bicycle Opera Project co-founder [Larissa
+  Koniuk](http://bicycleopera.com/artists/co-founders/) about their exciting season,
+  and all those kilometres the team will cover this summer."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430154575919/BOP1.jpg.jpg
+primary_image_credit: Photo by Gary Lloyd-Rees
+publishDate: "2015-04-28T10:29:00-04:00"
+related_articles:
+- articles/the-case-for-nomadic-opera.md
+- articles/the-bicycle-opera-project-at-21c.md
+related_companies:
+- scene/companies/the-bicycle-opera-project.md
+related_people:
+- scene/people/larissa-koniuk.md
+- scene/people/geoffrey-sirett.md
+- scene/people/christopher-enns.md
+- scene/people/dean-burry.md
+short_description: The Bicycle Opera Project has announced its 2015 season, which
+  will take them from Toronto to Cape Breton, and back again. I&#039;m so thrilled
+  for BOP, who have a packed season of new Canadian works, including a couple of premieres.
+slug: chatting-with-the-bicycle-opera-project
+title: Chatting with the Bicycle Opera Project
+---
 
 ### 1. Can you tell us any details about what audiences will hear from BOP this summer?
 

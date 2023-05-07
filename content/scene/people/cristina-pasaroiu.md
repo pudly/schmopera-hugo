@@ -1,24 +1,28 @@
-+++
-date = "2018-05-31T21:15:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-05-31T21:17:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527815697309/1D6A1494.tiff_33cmk.jpg.jpg"
-primary_image_credit = "Patrik Hänggi."
-publishDate = "2018-05-31T21:17:00-04:00"
-related_companies = ["scene/companies/deutsche-oper-berlin.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/oper-frankfurt.md","scene/companies/vlaamse-opera.md","scene/companies/bayerische-staatsoper.md"]
-slug = "cristina-pasaroiu"
-title = "Cristina Pasaroiu"
-website = "http://cristina-pasaroiu.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/antoaneta.pasaroiu"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Cris_Pasaroiu"
-_template = "people_single"
-+++
+---
+date: "2018-05-31T21:15:00-04:00"
+discipline: Soprano
+lastmod: "2018-05-31T21:17:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527815697309/1D6A1494.tiff_33cmk.jpg.jpg
+primary_image_credit: Patrik Hänggi.
+publishDate: "2018-05-31T21:17:00-04:00"
+related_companies:
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/vlaamse-opera.md
+- scene/companies/bayerische-staatsoper.md
+slug: cristina-pasaroiu
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/antoaneta.pasaroiu
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Cris_Pasaroiu
+title: Cristina Pasaroiu
+website: http://cristina-pasaroiu.com/
+---
 
 Lauded by the *Frankfurter Allgemeine Zeitung* for her “highly intense stage and musical presence”, “the versatility of her soprano, poignant low notes, high notes and passage work, enormous stamina and nuanced expression”, Cristina Pasaroiu has been celebrated at many of the world’s most prestigious opera houses, concert halls and festivals.
 

@@ -1,22 +1,30 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = "2019-09-08T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "For more from East Van Opera, follow them on [Facebook](https://www.facebook.com/eastvanopera/) and [Twitter](https://twitter.com/eastvanopera)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567956255/media/2019/09/sqEastVanOpera171of356_bjgdc2.jpg"
-primary_image_credit = "Jason Cook (Beast) and Anna Shill (Belle) in Beauty's Beast, East Van Opera, 2019. Photo: Diamond's Edge Photography."
-related_articles = []
-related_companies = ["scene/companies/east-van-opera.md"]
-related_people = ["scene/people/anna-shill.md", "scene/people/allison-cociani.md", "scene/people/jason-cook.md"]
-short_description = "In this version, the Beast only has a year to earn the love of a woman, or his heart will stop. It's an interesting twist on the tale, that adds a sense of immediacy to the love story. "
-slug = "the-beast-steals-the-show-in-world-premiere-of-beautys-beast"
-title = "The Beast steals the show in world premiere of Beauty's Beast"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2019-09-08T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: For more from East Van Opera, follow them on [Facebook](https://www.facebook.com/eastvanopera/)
+  and [Twitter](https://twitter.com/eastvanopera).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1567956255/media/2019/09/sqEastVanOpera171of356_bjgdc2.jpg
+primary_image_credit: 'Jason Cook (Beast) and Anna Shill (Belle) in Beauty''s Beast,
+  East Van Opera, 2019. Photo: Diamond''s Edge Photography.'
+related_articles: []
+related_companies:
+- scene/companies/east-van-opera.md
+related_people:
+- scene/people/anna-shill.md
+- scene/people/allison-cociani.md
+- scene/people/jason-cook.md
+short_description: 'In this version, the Beast only has a year to earn the love of
+  a woman, or his heart will stop. It''s an interesting twist on the tale, that adds
+  a sense of immediacy to the love story. '
+slug: the-beast-steals-the-show-in-world-premiere-of-beautys-beast
+title: The Beast steals the show in world premiere of Beauty's Beast
+youtube_url: ""
+---
 With the rise of independent opera companies, both in Vancouver and around the world, it's wonderful to see new compositions by modern composers on season line-ups everywhere. As with Allison Cociani's newest work, [_Beauty's Beast_](https://eastvanopera.com/beautys-beast), it explores classic stories through a modern lens, using unconventional tonalities, harmonic tension, and a lush, challenging score.
 
 Opening the show is [Cociani](/scene/people/allison-cociani/) herself as the Enchantress. In a similar vein to Disney's _Beauty and the Beast_, we begin with a prologue: there is a cruel Prince who turns away an old woman seeking shelter for the night; the old woman curses the Prince to become a beast. In this version, the Beast only has a year to earn the love of a woman, or his heart will stop. It's an interesting twist on the tale, that adds a sense of immediacy to the love story.

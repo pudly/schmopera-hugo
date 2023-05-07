@@ -1,18 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-07-28T11:43:00-04:00"
-lastmod = "2015-07-29T08:53:00-04:00"
-preamble = "American stage director [James Marvel](/scene/people/james-marvel/)'s career has taken him across the United States and Canada (including the Centre for Opera Studies in Italy and Opera on the Avalon), not to mention gigs in South Africa, Belgium, Italy, Chile, Poland and South Korea. In 2014 he founded [Marvel Arts Management](http://www.marvelartsmanagement.com/), which has a roster of seven directors, four conductors, and four designers. James is a busy guy, which is why I was thrilled when he took the time to give such a smart and impassioned interview about his work. Enjoy."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438114086801/MarvelHeadshot.jpg.jpg"
-publishDate = "2015-07-29T08:11:00-04:00"
-related_articles = ["articles/spotlight-on-christopher-james-ray.md","articles/talking-with-singers-othalie-graham.md","articles/talking-with-directors-frederic-wakewalker.md","articles/talking-with-directors-jennifer-williams.md"]
-related_companies = ["scene/companies/wolf-trap-opera.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
-related_people = ["scene/people/james-marvel.md"]
-short_description = "American stage director James Marvel&#039;s work has taken him across the United States and Canada (including the Centre for Opera Studies in Italy and Opera on the Avalon), not to mention gigs in South Africa, Belgium, Italy, Chile, Poland and South Korea. In 2014 he started Marvel Arts Management, which has a roster of seven directors, four conductors, and four designers. "
-slug = "talking-with-directors-operas-marvel"
-title = "Talking with directors: opera&#039;s Marvel"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-07-28T11:43:00-04:00"
+lastmod: "2015-07-29T08:53:00-04:00"
+preamble: American stage director [James Marvel](/scene/people/james-marvel/)'s career
+  has taken him across the United States and Canada (including the Centre for Opera
+  Studies in Italy and Opera on the Avalon), not to mention gigs in South Africa,
+  Belgium, Italy, Chile, Poland and South Korea. In 2014 he founded [Marvel Arts Management](http://www.marvelartsmanagement.com/),
+  which has a roster of seven directors, four conductors, and four designers. James
+  is a busy guy, which is why I was thrilled when he took the time to give such a
+  smart and impassioned interview about his work. Enjoy.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438114086801/MarvelHeadshot.jpg.jpg
+publishDate: "2015-07-29T08:11:00-04:00"
+related_articles:
+- articles/spotlight-on-christopher-james-ray.md
+- articles/talking-with-singers-othalie-graham.md
+- articles/talking-with-directors-frederic-wakewalker.md
+- articles/talking-with-directors-jennifer-williams.md
+related_companies:
+- scene/companies/wolf-trap-opera.md
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+related_people:
+- scene/people/james-marvel.md
+short_description: 'American stage director James Marvel&#039;s work has taken him
+  across the United States and Canada (including the Centre for Opera Studies in Italy
+  and Opera on the Avalon), not to mention gigs in South Africa, Belgium, Italy, Chile,
+  Poland and South Korea. In 2014 he started Marvel Arts Management, which has a roster
+  of seven directors, four conductors, and four designers. '
+slug: talking-with-directors-operas-marvel
+title: 'Talking with directors: opera&#039;s Marvel'
+---
 
 ### 1. What turned you on to directing opera?
 

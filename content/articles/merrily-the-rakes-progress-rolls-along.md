@@ -1,15 +1,22 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-05-29T19:23:00-04:00"
-lastmod = "2018-05-30T11:18:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527636141197/sqRake5.jpg.jpg"
-primary_image_credit = "Ganson Salmon as Tom Rakewell in The Mannes Opera production of The Rake's Progress. Photo: Eugenia Ames."
-publishDate = "2018-05-30T11:18:00-04:00"
-short_description = "It is apparent that one doesn&#039;t question the avant-garde at Mannes, but welcomes it. Recent productions of Robert Ashley&#039;s conceptual Dust and Philip Glass&#039; rarely performed The Fall of the House of Usher reinforce that point. And there is enough invention in Stravinsky&#039;s composition and the beautiful libretto by W.H. Auden with Chester Kallman, (a satisfying read in its own right) to keep these gifted singers and musicians on their toes."
-slug = "merrily-the-rakes-progress-rolls-along"
-title = "Merrily The Rake&#039;s Progress rolls along"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-05-29T19:23:00-04:00"
+lastmod: "2018-05-30T11:18:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527636141197/sqRake5.jpg.jpg
+primary_image_credit: 'Ganson Salmon as Tom Rakewell in The Mannes Opera production
+  of The Rake''s Progress. Photo: Eugenia Ames.'
+publishDate: "2018-05-30T11:18:00-04:00"
+short_description: It is apparent that one doesn&#039;t question the avant-garde at
+  Mannes, but welcomes it. Recent productions of Robert Ashley&#039;s conceptual Dust
+  and Philip Glass&#039; rarely performed The Fall of the House of Usher reinforce
+  that point. And there is enough invention in Stravinsky&#039;s composition and the
+  beautiful libretto by W.H. Auden with Chester Kallman, (a satisfying read in its
+  own right) to keep these gifted singers and musicians on their toes.
+slug: merrily-the-rakes-progress-rolls-along
+title: Merrily The Rake&#039;s Progress rolls along
+---
 
 "I'll let you know when Stravinsky has a hit," chides Joe, the crass Broadway producer in Stephen Sondheim's *Merrily We Roll Along*. Joe is giving Sondheim's aspiring songwriting team the brush-off because he thinks their score is too avant-garde. Well, guess what Joe. Igor Stravinsky does have a hit. It's *The Rake's Progress* and The Mannes Opera had the good sense to produce it for two performances earlier this month.
 

@@ -1,17 +1,27 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2017-11-11T14:13:00-05:00"
-lastmod = "2017-11-11T21:42:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510427443354/2017-11-11---Jonathan-Crow_The-Lark-Ascending-Jag-Gundu.jpg.jpg"
-primary_image_credit = "Jonathan Crow, TSO concertmaster. Photo: Jag Gundu."
-publishDate = "2017-11-11T17:14:00-05:00"
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/allyson-mchardy.md","scene/people/colin-ainsworth.md","scene/people/brett-polegato.md","scene/people/measha-brueggergosman.md"]
-short_description = "AFGHANISTAN: Requiem for A Generation was not only a solemn concert to remember those men and women who have served, and just as importantly - continue to serve, in our Armed Forces, but also to remember those whose lives are touched by war. It was equal parts celebratory for our freedoms, respectful that we still have a way to go, and reverent to those who have gone before us."
-slug = "emotional-nights-with-the-tso"
-title = "Emotional nights with the TSO"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2017-11-11T14:13:00-05:00"
+lastmod: "2017-11-11T21:42:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510427443354/2017-11-11---Jonathan-Crow_The-Lark-Ascending-Jag-Gundu.jpg.jpg
+primary_image_credit: 'Jonathan Crow, TSO concertmaster. Photo: Jag Gundu.'
+publishDate: "2017-11-11T17:14:00-05:00"
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/allyson-mchardy.md
+- scene/people/colin-ainsworth.md
+- scene/people/brett-polegato.md
+- scene/people/measha-brueggergosman.md
+short_description: 'AFGHANISTAN: Requiem for A Generation was not only a solemn concert
+  to remember those men and women who have served, and just as importantly - continue
+  to serve, in our Armed Forces, but also to remember those whose lives are touched
+  by war. It was equal parts celebratory for our freedoms, respectful that we still
+  have a way to go, and reverent to those who have gone before us.'
+slug: emotional-nights-with-the-tso
+title: Emotional nights with the TSO
+---
 
 It was a very emotional night at Roy Thomson Hall. Audience were greeted at the door by an honour guard on horseback outside the main doors, service men and women in uniform dotted the lobby, and the bright red of poppies leapt from the lapels of people milling about. 
 

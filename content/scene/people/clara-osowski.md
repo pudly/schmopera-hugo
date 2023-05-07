@@ -1,23 +1,22 @@
-+++
-date = "2017-09-08T15:31:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-09-08T15:31:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504898948803/FULL%2BHEAD%2BCOLOR.jpg.jpg"
-primary_image_credit = "Leslie Crane"
-publishDate = "2017-09-08T15:31:00-04:00"
-slug = "clara-osowski"
-title = "Clara Osowski"
-website = "http://www.claraosowski.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/mezzosowski"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/clara-osowski"
-_template = "people_single"
-+++
+---
+date: "2017-09-08T15:31:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-09-08T15:31:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504898948803/FULL%2BHEAD%2BCOLOR.jpg.jpg
+primary_image_credit: Leslie Crane
+publishDate: "2017-09-08T15:31:00-04:00"
+slug: clara-osowski
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/mezzosowski
+- _template: people_single
+  platform: Soundcloud
+  template: social-media
+  url: https://soundcloud.com/clara-osowski
+title: Clara Osowski
+website: http://www.claraosowski.com/
+---
 
 Hailed for her artistry and “rich and radiant” voice (Urban Dial Milwaukee), Clara Osowski is an active soloist and chamber musician throughout the United States and Europe. Select opera credits include Ruth, (*Pirates of Penzance*), Venus (*Venus and Adonis*), Zita (*Gianni Schicchi*), Mother (*Amahl and the Night Visitors*), Dorabella (*Cosi fan tutte*), and Cavalier Ramiro (*La finta giardiniera*). She was a 2012 Metropolitan Opera National Council Upper-Midwest Regional Finalist, the winner of the 2014 Bel Canto Chorus Regional Artists Competition in Milwaukee, and recently named the runner-up in the 2016 Schubert Club Bruce P. Carlson Scholarship Competition. In 2017, Clara was the winner of the Houston Saengerbund Competition and became the first ever American prize winner when she placed second at Thomas Quasthoff's International Das Lied Competition in Heidelberg, Germny. Clara received her Bachelor of Musical Arts degree with emphasis in Voice from North Dakota State University in 2008, and Master of Arts Degree in Voice from the University of Iowa in 2010.
 

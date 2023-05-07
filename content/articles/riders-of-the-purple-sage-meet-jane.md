@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-02-23T10:50:00+00:00"
-lastmod = "2017-02-24T15:45:00+00:00"
-preamble = "This weekend marks the world premiere of [*Riders of the Purple Sage*](http://www.azopera.org/performances/riders-purple-sage), the new opera by [Craig Bohmler](/new-operas-craig-bohmlers-riders-of-the-purple-sage/) and Steven Mark Kohn, based on the novel by Zane Grey. The Western-inspired opera is the first world premiere by [Arizona Opera](/scene/companies/arizona-opera/), and the distinct landscape of the American Southwest is illuminated by the set design of artist Ed Mell.\n\nWe spoke with sopranos [Laura Wilde](/scene/people/laura-wilde/) and [Karin Wolverton](/scene/people/karin-wolverton/), who share the role of Jane Withersteen, the \"good Mormon girl\" who questions the role of the church and its traditions. They share insight on the process of bringing to life a brand new opera, and their favourite moments in Bohmler's score."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487847163826/2017-02-23---KarinWolvertonAsJane_credit_TimTrumble.jpg.jpg"
-primary_image_credit = "Karin Wolverton as Jane Withersteen in Riders of the Purple Sage. Photo by Tim Trumble."
-publishDate = "2017-02-24T15:41:00+00:00"
-related_articles = ["articles/riders-of-the-purple-sage-meet-lassiter.md"]
-short_description = "&quot;Lassiter enters Jane&#039;s life and turns everything upside down. She is intrigued by and attracted to him, but also knows that he is outside her faith and his anger and hatred for the church is unsettling for her. However, he is the only man in the opera who affirms and admires her strength, while lovingly pushing back against her long-held beliefs.&quot;"
-slug = "riders-of-the-purple-sage-meet-jane"
-title = "Riders of the Purple Sage: meet Jane"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-02-23T10:50:00+00:00"
+lastmod: "2017-02-24T15:45:00+00:00"
+preamble: |-
+  This weekend marks the world premiere of [*Riders of the Purple Sage*](http://www.azopera.org/performances/riders-purple-sage), the new opera by [Craig Bohmler](/new-operas-craig-bohmlers-riders-of-the-purple-sage/) and Steven Mark Kohn, based on the novel by Zane Grey. The Western-inspired opera is the first world premiere by [Arizona Opera](/scene/companies/arizona-opera/), and the distinct landscape of the American Southwest is illuminated by the set design of artist Ed Mell.
+
+  We spoke with sopranos [Laura Wilde](/scene/people/laura-wilde/) and [Karin Wolverton](/scene/people/karin-wolverton/), who share the role of Jane Withersteen, the "good Mormon girl" who questions the role of the church and its traditions. They share insight on the process of bringing to life a brand new opera, and their favourite moments in Bohmler's score.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487847163826/2017-02-23---KarinWolvertonAsJane_credit_TimTrumble.jpg.jpg
+primary_image_credit: Karin Wolverton as Jane Withersteen in Riders of the Purple
+  Sage. Photo by Tim Trumble.
+publishDate: "2017-02-24T15:41:00+00:00"
+related_articles:
+- articles/riders-of-the-purple-sage-meet-lassiter.md
+short_description: '&quot;Lassiter enters Jane&#039;s life and turns everything upside
+  down. She is intrigued by and attracted to him, but also knows that he is outside
+  her faith and his anger and hatred for the church is unsettling for her. However,
+  he is the only man in the opera who affirms and admires her strength, while lovingly
+  pushing back against her long-held beliefs.&quot;'
+slug: riders-of-the-purple-sage-meet-jane
+title: 'Riders of the Purple Sage: meet Jane'
+---
 
 ## What kind of person is Jane Withersteen?
 

@@ -1,17 +1,23 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = "2018-03-06T16:29:00-05:00"
-lastmod = "2018-03-06T16:29:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520371471413/sq---Alcina_728_C.jpg.jpg"
-primary_image_credit = "Alcina, American Baroque Opera Co., 2018. Photo: Karen Almond."
-publishDate = "2018-03-06T16:29:00-05:00"
-related_articles = ["articles/he-saidshe-said-alcina-at-opera-atelier.md"]
-related_companies = ["scene/companies/american-baroque-opera-co.md"]
-short_description = "Alcina is definitely a musician&#039;s opera: one goes to it not so much for the story, but for what Handel has entrusted his virtuoso cast to contribute to the plot through great lyric vocalism and expansive lines, with coloratura used quite sparingly, which renders this a difficult piece to make interesting."
-slug = "american-baroque-opera-cos-first-staged-opera-a-winner-in-alcina"
-title = "American Baroque Opera Co.&#039;s first staged opera a winner in Alcina"
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2018-03-06T16:29:00-05:00"
+lastmod: "2018-03-06T16:29:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520371471413/sq---Alcina_728_C.jpg.jpg
+primary_image_credit: 'Alcina, American Baroque Opera Co., 2018. Photo: Karen Almond.'
+publishDate: "2018-03-06T16:29:00-05:00"
+related_articles:
+- articles/he-saidshe-said-alcina-at-opera-atelier.md
+related_companies:
+- scene/companies/american-baroque-opera-co.md
+short_description: 'Alcina is definitely a musician&#039;s opera: one goes to it not
+  so much for the story, but for what Handel has entrusted his virtuoso cast to contribute
+  to the plot through great lyric vocalism and expansive lines, with coloratura used
+  quite sparingly, which renders this a difficult piece to make interesting.'
+slug: american-baroque-opera-cos-first-staged-opera-a-winner-in-alcina
+title: American Baroque Opera Co.&#039;s first staged opera a winner in Alcina
+---
 
 This past weekend, the [American Baroque Opera Company](/scene/people/american-baroque-opera-co/) had its first staged operatic performance, for which its previous season concerts were a very pleasing sampler. In presenting George Frideric Handel's *Alcina* this past weekend, they demonstrated a fresh, uncluttered approach to Baroque opera that I have long awaited in this part of the country, one which trusts that all the disparate elements in the production will combine together to form a cohesive whole.
 

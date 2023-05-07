@@ -1,18 +1,34 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2017-06-24T13:53:00-06:00"
-lastmod = "2017-06-24T15:17:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498336466478/2017-06-24---Sqaure---O5-The-Boatswain's-Mate-1.jpg.jpg"
-primary_image_credit = "The cast of Suffragette, Opera 5, 2017. Photo: Emily Ding Photography."
-publishDate = "2017-06-24T14:52:00-06:00"
-related_articles = ["articles/aams-king-arthur-a-missed-brexit.md","articles/recording-dame-smyth-pretty-good-for-a-woman.md"]
-related_companies = ["scene/companies/opera-5.md"]
-related_people = ["scene/people/alexandra-smither.md","scene/people/elizabeth-polese.md","scene/people/jeremy-ludwig.md","scene/people/kevin-myers.md","scene/people/alan-macdonald.md"]
-short_description = "Director Jessica Derventzis opened The Boatswain&#039;s Mate with a rousing British chorale vigorously waving Canadian Flags, Gay Pride Flags, and Trans Pride Flags - only to not introduce a single queer character. It seemed disjointed, out of place, and kind of pandering. While I respect that there are queers all over this industry, if you&#039;re going to wave our flags in your opening number of your show, we should at least be in the show somewhere. Ultimately, I felt like Dame Ethel Smyth&#039;s suffragette mentality and protest spirit was missing in the material."
-slug = "in-review-suffragette"
-title = "In review: Suffragette"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2017-06-24T13:53:00-06:00"
+lastmod: "2017-06-24T15:17:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498336466478/2017-06-24---Sqaure---O5-The-Boatswain's-Mate-1.jpg.jpg
+primary_image_credit: 'The cast of Suffragette, Opera 5, 2017. Photo: Emily Ding Photography.'
+publishDate: "2017-06-24T14:52:00-06:00"
+related_articles:
+- articles/aams-king-arthur-a-missed-brexit.md
+- articles/recording-dame-smyth-pretty-good-for-a-woman.md
+related_companies:
+- scene/companies/opera-5.md
+related_people:
+- scene/people/alexandra-smither.md
+- scene/people/elizabeth-polese.md
+- scene/people/jeremy-ludwig.md
+- scene/people/kevin-myers.md
+- scene/people/alan-macdonald.md
+short_description: Director Jessica Derventzis opened The Boatswain&#039;s Mate with
+  a rousing British chorale vigorously waving Canadian Flags, Gay Pride Flags, and
+  Trans Pride Flags - only to not introduce a single queer character. It seemed disjointed,
+  out of place, and kind of pandering. While I respect that there are queers all over
+  this industry, if you&#039;re going to wave our flags in your opening number of
+  your show, we should at least be in the show somewhere. Ultimately, I felt like
+  Dame Ethel Smyth&#039;s suffragette mentality and protest spirit was missing in
+  the material.
+slug: in-review-suffragette
+title: 'In review: Suffragette'
+---
 
 Dame Ethel Smyth: composer, activist, suffragette. 
 

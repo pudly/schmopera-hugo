@@ -1,19 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-06-07T04:14:00-06:00"
-lastmod = "2016-06-24T18:52:00-06:00"
-preamble = "Toronto-based mezzo-soprano [Shauna Yarnell](/scene/people/shauna-yarnell/) impressed us most recently in [Tapestry Opera](/scene/companies/tapestry-opera/)'s [*Songbook VI*](/he-saidshe-said-songbook-vi/), and in Luciano Berio's [*Folk Songs*](/in-review-puss-in-boots-berios-folk-songs/) with the Glenn Gould School. A rising figure in the Canadian scene, Shauna gives a smart interview about the new comedic opera show she's writing, about singing as \"energized talking\", and the importance of maintaining non-musical interests."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465294426702/2016-06-07---Shauna-Yarnell.jpg.jpg"
-primary_image_credit = "Photos: Emily Ding."
-publishDate = "2016-06-22T21:30:00-06:00"
-related_articles = ["articles/spotlight-on-sydney-mancasola.md","articles/spotlight-on-stephanie-tritchew.md","articles/spotlight-on-beth-hagerman.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/royal-conservatory-of-music.md"]
-related_people = ["scene/people/shauna-yarnell.md"]
-short_description = "&quot;I&#039;m a fitness junkie and I love cooking and baking. This year I have picked up tennis and it’s been a lot of fun. When you feel confident in various parts of your life you will feel less of a need to prove yourself when you are singing. This gives you more opportunity to take risks and trust yourself.&quot;"
-slug = "spotlight-on-shauna-yarnell"
-title = "Spotlight on: Shauna Yarnell"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-06-07T04:14:00-06:00"
+lastmod: "2016-06-24T18:52:00-06:00"
+preamble: Toronto-based mezzo-soprano [Shauna Yarnell](/scene/people/shauna-yarnell/)
+  impressed us most recently in [Tapestry Opera](/scene/companies/tapestry-opera/)'s
+  [*Songbook VI*](/he-saidshe-said-songbook-vi/), and in Luciano Berio's [*Folk Songs*](/in-review-puss-in-boots-berios-folk-songs/)
+  with the Glenn Gould School. A rising figure in the Canadian scene, Shauna gives
+  a smart interview about the new comedic opera show she's writing, about singing
+  as "energized talking", and the importance of maintaining non-musical interests.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465294426702/2016-06-07---Shauna-Yarnell.jpg.jpg
+primary_image_credit: 'Photos: Emily Ding.'
+publishDate: "2016-06-22T21:30:00-06:00"
+related_articles:
+- articles/spotlight-on-sydney-mancasola.md
+- articles/spotlight-on-stephanie-tritchew.md
+- articles/spotlight-on-beth-hagerman.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/royal-conservatory-of-music.md
+related_people:
+- scene/people/shauna-yarnell.md
+short_description: '&quot;I&#039;m a fitness junkie and I love cooking and baking.
+  This year I have picked up tennis and it’s been a lot of fun. When you feel confident
+  in various parts of your life you will feel less of a need to prove yourself when
+  you are singing. This gives you more opportunity to take risks and trust yourself.&quot;'
+slug: spotlight-on-shauna-yarnell
+title: 'Spotlight on: Shauna Yarnell'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

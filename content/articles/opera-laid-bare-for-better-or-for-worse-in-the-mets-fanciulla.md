@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2018-10-31T13:23:00-04:00"
-lastmod = "2018-11-02T09:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541012736000/sq_KLH3942a.jpg.jpg"
-primary_image_credit = "Jonas Kaufmann as Dick Johnson in La fanciulla del West, Metropolitan Opera, 2018. Photo: Ken Howard/Met Opera."
-publishDate = "2018-11-02T09:56:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/jonas-kaufmann.md","scene/people/evamaria-westbroek.md"]
-short_description = "It&#039;s funny how similar the opera-going experience is, be it at an opera house or the movies. Older audience members still kvetch about the venue - &quot;They should have it at TIFF,&quot; et cetera - and there&#039;s the usual mixture of apologies and harumphing as latecomers squeeze past their neighbours&#039; knees to find their mid-row seats."
-slug = "opera-laid-bare-for-better-or-for-worse-in-the-mets-fanciulla"
-title = "Opera laid bare, for better or for worse in the Met&#039;s Fanciulla"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2018-10-31T13:23:00-04:00"
+lastmod: "2018-11-02T09:56:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541012736000/sq_KLH3942a.jpg.jpg
+primary_image_credit: 'Jonas Kaufmann as Dick Johnson in La fanciulla del West, Metropolitan
+  Opera, 2018. Photo: Ken Howard/Met Opera.'
+publishDate: "2018-11-02T09:56:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/jonas-kaufmann.md
+- scene/people/evamaria-westbroek.md
+short_description: It&#039;s funny how similar the opera-going experience is, be it
+  at an opera house or the movies. Older audience members still kvetch about the venue
+  - &quot;They should have it at TIFF,&quot; et cetera - and there&#039;s the usual
+  mixture of apologies and harumphing as latecomers squeeze past their neighbours&#039;
+  knees to find their mid-row seats.
+slug: opera-laid-bare-for-better-or-for-worse-in-the-mets-fanciulla
+title: Opera laid bare, for better or for worse in the Met&#039;s Fanciulla
+---
 
 It had been a good handful of seasons since I last saw a live cinema broadcast in the Metropolitan Opera's *Live in HD* series. I had contented myself with the Met's *On Demand* collection, watching the archived videos on my own time, on my own couch. But for [*La fanciulla del West*](https://www.metopera.org/season/2018-19-season/la-fanciulla-del-west/) - and a bit for Jonas Kaufmann, I admit - I made the trek to my nearest Cineplex theatre.
 

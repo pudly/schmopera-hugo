@@ -1,19 +1,21 @@
-+++
-date = "2016-01-24T15:17:00-05:00"
-discipline = "Soprano"
-lastmod = "2016-01-24T15:18:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453666531252/2016-01-25---Naomi-Eberhard.jpg.jpg"
-publishDate = "2016-01-24T15:18:00-05:00"
-related_companies = ["scene/companies/opera-by-request.md","scene/companies/opera-on-the-avalon.md"]
-slug = "naomi-eberhard"
-title = "Naomi Eberhard"
-website = "http://www.naomieberhard.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Sopranistin247"
-_template = "people_single"
-+++
+---
+date: "2016-01-24T15:17:00-05:00"
+discipline: Soprano
+lastmod: "2016-01-24T15:18:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453666531252/2016-01-25---Naomi-Eberhard.jpg.jpg
+publishDate: "2016-01-24T15:18:00-05:00"
+related_companies:
+- scene/companies/opera-by-request.md
+- scene/companies/opera-on-the-avalon.md
+slug: naomi-eberhard
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Sopranistin247
+title: Naomi Eberhard
+website: http://www.naomieberhard.com/
+---
 
 Young dramatic soprano Naomi Eberhard, known for her round, steely voice is quickly establishing herself in the music of Verdi, Puccini and the Germanic repertoire. Her unique sound is recognized for its agility, power, nuance and thrilling upper register.
 

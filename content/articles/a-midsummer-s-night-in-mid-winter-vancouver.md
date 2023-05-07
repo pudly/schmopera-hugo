@@ -1,22 +1,32 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = 2023-02-27T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1677437812/media/2023/02/sq_VO-Dream-Bottom_Peter_McGillivray_surrounded_by_his_fellow_mechanicals-photo_by_Tim_Matheson_qzhi6f.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = ["scene/companies/vancouver-opera.md"]
-related_people = ["scene/people/daniel-moody.md", "scene/people/jason-cook.md", "scene/people/luka-kawabata.md", "scene/people/asitha-tennekoon.md", "scene/people/clarence-frazer.md", "scene/people/jonelle-sills.md", "scene/people/magali-simard-galdes.md", "scene/people/peter-mcgillivray.md"]
-short_description = "An absolute show-stealer, and it was obvious the performers were having as much fun with the scene as the audience was."
-slug = "a midsummers-night-in-mid-winter-vancouver"
-title = "A Midsummer’s Night in Mid-winter Vancouver"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2023-02-27T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1677437812/media/2023/02/sq_VO-Dream-Bottom_Peter_McGillivray_surrounded_by_his_fellow_mechanicals-photo_by_Tim_Matheson_qzhi6f.jpg
+primary_image_credit: ""
+related_articles: []
+related_companies:
+- scene/companies/vancouver-opera.md
+related_people:
+- scene/people/daniel-moody.md
+- scene/people/jason-cook.md
+- scene/people/luka-kawabata.md
+- scene/people/asitha-tennekoon.md
+- scene/people/clarence-frazer.md
+- scene/people/jonelle-sills.md
+- scene/people/magali-simard-galdes.md
+- scene/people/peter-mcgillivray.md
+short_description: An absolute show-stealer, and it was obvious the performers were
+  having as much fun with the scene as the audience was.
+slug: a midsummers-night-in-mid-winter-vancouver
+title: A Midsummer’s Night in Mid-winter Vancouver
+youtube_url: ""
+---
 With so many audiences being intimately familiar with the music that Mendelssohn wrote for _A Midsummer Night’s Dream_, Vancouver Opera opted for a departure from the familiar into the lesser known opera by Benjamin Britten. A more modernist take on the Elizabethan story, Britten departs somewhat from the original play, cutting the opening scenes in the court of Athens and begins as the four Athenian lovers are heading out into the forest.
 
 The setting for the woods is a concrete, brutalist set piece of multiple levels that rotates to give the actors the chance to chase, run, evade, hide, and eventually catch each other. We open with Lysander, played by tenor [Spencer Britten](/scene/people/spencer-britten/) and Hermia, played by mezzo-soprano [Hillary Tufford](/scene/people/hillary-tufford/) escaping into the woods to be married, free from the constraints of Athenian society. Britten and Tufford were very well-matched, with warm, sumptuous duets.

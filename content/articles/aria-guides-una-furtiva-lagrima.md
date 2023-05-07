@@ -1,18 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2015-10-20T15:55:00-06:00"
-lastmod = "2017-06-20T22:37:00-06:00"
-postamble = "Want to suggest or request an aria for our Aria Guides? Let us know at [hello@schmopera.com](mailto:hello@schmopera.com)!"
-preamble = "Tenors, we haven't forgotten about you. Continuing our series of Aria Guides, we're focusing on Nemorino's very lovely, very popular aria from _L'elisir d'amore_, \"Una furtiva lagrima\". It's one of those arias that can show a lot, and if you sing it well, it's great for auditions and crowd-pleasing concerts alike. It's not a easy feat to pull off this _bel canto_ staple, but here are a few tips meant to help."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498019845898/2017-06-21---Lagrima.jpg.jpg"
-publishDate = "2015-10-22T06:00:00-06:00"
-related_articles = ["articles/aria-guides-deh-vieni-non-tardar.md", "articles/aria-guides-the-counts-aria.md", "articles/aria-guides-una-voce-poco-fa.md", "articles/aria-guides-quando-men-vo.md", "articles/aria-guides-aprite-un-po-quegli-occhi.md", "articles/aria-guides-dalla-sua-pace.md", "articles/aria-guides-je-veux-vivre.md", "articles/aria-guide-dies-bildnis-ist-bezaubernd-schon.md", "articles/aria-guides-o-wie-angstlich.md", "articles/talking-with-singers-andrew-haji.md"]
-short_description = "Tenors, we haven't forgotten about you. Continuing our series of Aria Guides, we're focusing on Nemorino's very lovely, very popular aria from L'elisir d'amore, \"Una furtiva lagrima\". It's one of those arias that can show a lot, and if you sing it well, it's great for auditions and crowd-pleasing concerts alike. It's not a easy feat to pull off this bel canto staple, but here are a few tips meant to help."
-slug = "aria-guides-una-furtiva-lagrima"
-title = "Aria guides: Una furtiva lagrima"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2015-10-20T15:55:00-06:00"
+lastmod: "2017-06-20T22:37:00-06:00"
+postamble: Want to suggest or request an aria for our Aria Guides? Let us know at
+  [hello@schmopera.com](mailto:hello@schmopera.com)!
+preamble: Tenors, we haven't forgotten about you. Continuing our series of Aria Guides,
+  we're focusing on Nemorino's very lovely, very popular aria from _L'elisir d'amore_,
+  "Una furtiva lagrima". It's one of those arias that can show a lot, and if you sing
+  it well, it's great for auditions and crowd-pleasing concerts alike. It's not a
+  easy feat to pull off this _bel canto_ staple, but here are a few tips meant to
+  help.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498019845898/2017-06-21---Lagrima.jpg.jpg
+publishDate: "2015-10-22T06:00:00-06:00"
+related_articles:
+- articles/aria-guides-deh-vieni-non-tardar.md
+- articles/aria-guides-the-counts-aria.md
+- articles/aria-guides-una-voce-poco-fa.md
+- articles/aria-guides-quando-men-vo.md
+- articles/aria-guides-aprite-un-po-quegli-occhi.md
+- articles/aria-guides-dalla-sua-pace.md
+- articles/aria-guides-je-veux-vivre.md
+- articles/aria-guide-dies-bildnis-ist-bezaubernd-schon.md
+- articles/aria-guides-o-wie-angstlich.md
+- articles/talking-with-singers-andrew-haji.md
+short_description: Tenors, we haven't forgotten about you. Continuing our series of
+  Aria Guides, we're focusing on Nemorino's very lovely, very popular aria from L'elisir
+  d'amore, "Una furtiva lagrima". It's one of those arias that can show a lot, and
+  if you sing it well, it's great for auditions and crowd-pleasing concerts alike.
+  It's not a easy feat to pull off this bel canto staple, but here are a few tips
+  meant to help.
+slug: aria-guides-una-furtiva-lagrima
+title: 'Aria guides: Una furtiva lagrima'
+---
 <figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445465677598/Aria-Guide---Una-furtiva-lagrima---p1---Annotated---Cropped.jpg.jpg)
 </figure>
 

@@ -1,18 +1,28 @@
-+++
-author = ["authors/blanche-isral.md"]
-categories = "Review"
-date = "2017-11-25T09:34:00-05:00"
-lastmod = "2017-11-25T11:45:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511621528181/2017-11-24---square---3420_dermieter02_gross.jpg.jpg"
-primary_image_credit = "Baritone Björn Bürger as Georg in Der Mieter, Oper Frankfurt, 2017. Photo: Barbara Aumüller."
-publishDate = "2017-11-25T09:53:00-05:00"
-related_articles = ["articles/xenophobia-fake-news-mental-health-peter-grimes.md","articles/tarrare-the-freak-i-just-want-to-be-full.md"]
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = ["scene/people/bjorn-burger.md","scene/people/anja-petersen.md"]
-short_description = "Every scene change had us on the edge of our seats, hearts pounding, craning our necks to catch a glimpse of what was next. And just when the tension couldn&#039;t possibly mount any higher, it kept rising for what seemed like another agonizing half-hour. It was completely draining and very, very good."
-slug = "a-visceral-nightmarish-tourdeforce-der-mieter"
-title = "A visceral, nightmarish tour-de-force: Der Mieter"
-+++
+---
+author:
+- authors/blanche-isral.md
+categories: Review
+date: "2017-11-25T09:34:00-05:00"
+lastmod: "2017-11-25T11:45:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511621528181/2017-11-24---square---3420_dermieter02_gross.jpg.jpg
+primary_image_credit: 'Baritone Björn Bürger as Georg in Der Mieter, Oper Frankfurt,
+  2017. Photo: Barbara Aumüller.'
+publishDate: "2017-11-25T09:53:00-05:00"
+related_articles:
+- articles/xenophobia-fake-news-mental-health-peter-grimes.md
+- articles/tarrare-the-freak-i-just-want-to-be-full.md
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people:
+- scene/people/bjorn-burger.md
+- scene/people/anja-petersen.md
+short_description: Every scene change had us on the edge of our seats, hearts pounding,
+  craning our necks to catch a glimpse of what was next. And just when the tension
+  couldn&#039;t possibly mount any higher, it kept rising for what seemed like another
+  agonizing half-hour. It was completely draining and very, very good.
+slug: a-visceral-nightmarish-tourdeforce-der-mieter
+title: 'A visceral, nightmarish tour-de-force: Der Mieter'
+---
 
 "I'm not asking you to like me, I know that's impossible, because I'm not likeable, but at least do me the kindness of despising me enough to ignore me." - Roland Topor, *Le locataire chimérique*
 

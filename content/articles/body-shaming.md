@@ -1,22 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-Ed"
-date = 2022-04-21T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1650558117/media/2022/04/sqBeNice_mbpfta.jpg"
-primary_image_credit = ""
-related_articles = ["articles/once-agan-shushing-meanies.md"]
-related_companies = []
-related_people = []
-short_description = " It's my thought that reviewers who disparage singers' bodies are only telling us some ugly things about themselves: that they don't think fat people can fall in love or have romantic experiences, and that they don't have anything better to say about an opera production even after the two years of shit we all went through with stages being shuttered."
-slug = "opnion-critics-who-body-shame-are-bad-at-their-job"
-title = "Opinion: critics who body-shame are bad at their job"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-Ed
+date: "2022-04-21T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1650558117/media/2022/04/sqBeNice_mbpfta.jpg
+primary_image_credit: ""
+related_articles:
+- articles/once-agan-shushing-meanies.md
+related_companies: []
+related_people: []
+short_description: ' It''s my thought that reviewers who disparage singers'' bodies
+  are only telling us some ugly things about themselves: that they don''t think fat
+  people can fall in love or have romantic experiences, and that they don''t have
+  anything better to say about an opera production even after the two years of shit
+  we all went through with stages being shuttered.'
+slug: opnion-critics-who-body-shame-are-bad-at-their-job
+title: 'Opinion: critics who body-shame are bad at their job'
+youtube_url: ""
+---
 Opera fans in Canada might have noticed a flurry of activity around _Opera Canada_ magazine, and the [review they published by Bill Rankin](https://operacanada.ca/calgary-opera-sets-la-traviata-in-the-roaring-20s/) of Calgary Opera's recent production of _La traviata_.
 
 The story so far is this: Rankin's original review included [the following paragraph](https://www.instagram.com/p/CcjsF1EsfCN/?utm_source=ig_web_copy_link), in reference to stellar Canadian tenor Andrew Haji's performance as Alfredo:

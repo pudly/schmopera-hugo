@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-03-17T17:20:00+00:00"
-lastmod = "2017-03-20T12:21:00+00:00"
-preamble = "After great successes with *H.M.S. Pinafore* and *The Pirates of Penzance*, English theatre director Sasha Regan is looking forward to bringing her all-male concept to Gilbert & Sullivan's [*The Mikado*](http://www.allmalemikado.com/). Regan's \"wicked sense of fun\" translates into her imaginative take on classic G&S, setting it in 1950's England, and adding an all-male cast into the operetta's inherent layers of satire.\n\nThe \"all-male Mikado\" [tours the United Kingdom](http://www.allmalemikado.com/tour-dates/4593471380) between April and July of 2017. We spoke with Regan about her curious inspiration for single-sex G&S, and why the shows have remained favourites in the 21st century."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489771510016/2017-03-17---Sasha-Regan-The-Mikado---courtesy-of-Scott-Rylander.jpg.jpg"
-publishDate = "2017-03-20T11:54:00+00:00"
-related_articles = ["articles/in-review-the-pirates-of-penzance-at-eno.md","articles/in-review-ah-mikado.md"]
-short_description = "&quot;The innocence, the memories of laughter, the pure voices and the playfulness of us all dressing up. All of these elements remind me of school and when I wanted to stage a Gilbert &amp; Sullivan with a fresh take, my school days gave me the inspiration. I always try to retain that child-like, innocent feel in my productions.&quot;"
-slug = "dont-miss-sasha-regans-allmale-mikado"
-title = "Don&#039;t miss: Sasha Regan&#039;s All-male Mikado"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-03-17T17:20:00+00:00"
+lastmod: "2017-03-20T12:21:00+00:00"
+preamble: |-
+  After great successes with *H.M.S. Pinafore* and *The Pirates of Penzance*, English theatre director Sasha Regan is looking forward to bringing her all-male concept to Gilbert & Sullivan's [*The Mikado*](http://www.allmalemikado.com/). Regan's "wicked sense of fun" translates into her imaginative take on classic G&S, setting it in 1950's England, and adding an all-male cast into the operetta's inherent layers of satire.
+
+  The "all-male Mikado" [tours the United Kingdom](http://www.allmalemikado.com/tour-dates/4593471380) between April and July of 2017. We spoke with Regan about her curious inspiration for single-sex G&S, and why the shows have remained favourites in the 21st century.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489771510016/2017-03-17---Sasha-Regan-The-Mikado---courtesy-of-Scott-Rylander.jpg.jpg
+publishDate: "2017-03-20T11:54:00+00:00"
+related_articles:
+- articles/in-review-the-pirates-of-penzance-at-eno.md
+- articles/in-review-ah-mikado.md
+short_description: '&quot;The innocence, the memories of laughter, the pure voices
+  and the playfulness of us all dressing up. All of these elements remind me of school
+  and when I wanted to stage a Gilbert &amp; Sullivan with a fresh take, my school
+  days gave me the inspiration. I always try to retain that child-like, innocent feel
+  in my productions.&quot;'
+slug: dont-miss-sasha-regans-allmale-mikado
+title: 'Don&#039;t miss: Sasha Regan&#039;s All-male Mikado'
+---
 
 ## How did your early experience with theatre in a single-sex school extend to your all-male adaptations of G&S in your professional career? 
 

@@ -1,15 +1,16 @@
-+++
-date = "2017-05-21T17:48:00-04:00"
-discipline = "Pianist, composer"
-lastmod = "2017-05-21T17:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495403164038/9597410_orig.jpg.jpg"
-publishDate = "2017-05-21T17:48:00-04:00"
-related_companies = ["scene/companies/brooklyn-academy-of-music.md"]
-slug = "felix-jarrar"
-title = "Felix Jarrar"
-website = "http://www.felixjarrarmusic.com/"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-05-21T17:48:00-04:00"
+discipline: Pianist, composer
+lastmod: "2017-05-21T17:48:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495403164038/9597410_orig.jpg.jpg
+publishDate: "2017-05-21T17:48:00-04:00"
+related_companies:
+- scene/companies/brooklyn-academy-of-music.md
+slug: felix-jarrar
+title: Felix Jarrar
+website: http://www.felixjarrarmusic.com/
+---
 
 Composer-pianist Felix Jarrar won top awards as a teenager in regional piano competitions held by the Fairfield County Schubert Club, the Connecticut Music Teachers National Association, First United Methodist Church of Stamford, the University of Rhode Island, and the Eastern Connecticut Orchestra. Since 2008, he has performed at Carnegie Hall's Weill Recital Hall in New York City, Merkin Concert Hall, the Kosciuszko Foundation Recital Hall, and DiCapo Opera Theatre. These performance opportunities were the result of top prizes he won in competitions held by Bradshaw and Buono, the American Fine Arts Festival, American Protege, and the Golden Key Festival.
 

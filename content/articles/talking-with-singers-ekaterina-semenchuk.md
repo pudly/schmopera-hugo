@@ -1,19 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-11-23T11:37:00+00:00"
-lastmod = "2016-11-23T14:17:00+00:00"
-preamble = "Francesca Zambello's new production of [Verdi's *Aida*](http://sfopera.com/discover-opera/201617-season/aida/), with set designs by visual artist RETNA, is currently onstage at [San Francisco Opera](/scene/companies/san-francisco-opera/) until December 6; opposite [Brian Jagde](/talking-with-singers-brian-jagde/) as Radamès and [Leah Crocetto](/talking-with-singers-leah-crocetto/) as Aida, Russian soprano [Ekaterina Semenchuk](/scene/people/ekaterina-semenchuk/) reprises one of her signature roles as Amneris.\n\nWe spoke with Semenchuk about the rich, layered role of Amneries, and her passion for singing characters whose love \"causes a storm of emotions.\""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479901587123/2016-11-23---Ekaterina-Semenchuk-as-Amneris-in-Aida-Act-IV-Photo-Cory-Weaver.jpg.jpg"
-primary_image_credit = "Ekaterina Semenchuk as Amneris in San Francisco Opera's production of Aida. Photo by Cory Weaver."
-publishDate = "2016-11-23T14:17:00+00:00"
-related_articles = ["articles/talking-with-singers-brian-jagde.md","articles/talking-with-singers-leah-crocetto.md","articles/tamara-wilson-gives-a-flawless-aida-at-wno.md"]
-related_companies = ["scene/companies/san-francisco-opera.md"]
-related_people = ["scene/people/ekaterina-semenchuk.md"]
-short_description = "&quot;Amneris is one of the most difficult roles in the mezzo-soprano repertory. It requires intense concentration and incredible physical and moral commitment, not only in the last act as many people believe. At the very beginning of the opera, a careful, disturbing and somewhat ominous leitmotif of jealousy sounds. Amneris appears with it, lives with it throughout the opera, and by the last act the motive has become a storm.&quot;"
-slug = "talking-with-singers-ekaterina-semenchuk"
-title = "Talking with singers: Ekaterina Semenchuk"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-11-23T11:37:00+00:00"
+lastmod: "2016-11-23T14:17:00+00:00"
+preamble: |-
+  Francesca Zambello's new production of [Verdi's *Aida*](http://sfopera.com/discover-opera/201617-season/aida/), with set designs by visual artist RETNA, is currently onstage at [San Francisco Opera](/scene/companies/san-francisco-opera/) until December 6; opposite [Brian Jagde](/talking-with-singers-brian-jagde/) as Radamès and [Leah Crocetto](/talking-with-singers-leah-crocetto/) as Aida, Russian soprano [Ekaterina Semenchuk](/scene/people/ekaterina-semenchuk/) reprises one of her signature roles as Amneris.
+
+  We spoke with Semenchuk about the rich, layered role of Amneries, and her passion for singing characters whose love "causes a storm of emotions."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479901587123/2016-11-23---Ekaterina-Semenchuk-as-Amneris-in-Aida-Act-IV-Photo-Cory-Weaver.jpg.jpg
+primary_image_credit: Ekaterina Semenchuk as Amneris in San Francisco Opera's production
+  of Aida. Photo by Cory Weaver.
+publishDate: "2016-11-23T14:17:00+00:00"
+related_articles:
+- articles/talking-with-singers-brian-jagde.md
+- articles/talking-with-singers-leah-crocetto.md
+- articles/tamara-wilson-gives-a-flawless-aida-at-wno.md
+related_companies:
+- scene/companies/san-francisco-opera.md
+related_people:
+- scene/people/ekaterina-semenchuk.md
+short_description: '&quot;Amneris is one of the most difficult roles in the mezzo-soprano
+  repertory. It requires intense concentration and incredible physical and moral commitment,
+  not only in the last act as many people believe. At the very beginning of the opera,
+  a careful, disturbing and somewhat ominous leitmotif of jealousy sounds. Amneris
+  appears with it, lives with it throughout the opera, and by the last act the motive
+  has become a storm.&quot;'
+slug: talking-with-singers-ekaterina-semenchuk
+title: 'Talking with singers: Ekaterina Semenchuk'
+---
 
 ## What kind of a woman is Amneris? What do you think are some misconceptions about her character?
 

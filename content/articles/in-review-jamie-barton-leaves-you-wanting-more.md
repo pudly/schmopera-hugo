@@ -1,18 +1,29 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-09-30T09:29:00+01:00"
-lastmod = "2016-09-30T10:13:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475224156688/2016-09-30---Jamie-Barton-Peter-Oundjian-Jag-Photography.jpg.jpg"
-primary_image_credit = "Jamie Barton and Peter Oundjian with the TSO. Photo: Jag Photography"
-publishDate = "2016-09-30T09:56:00+01:00"
-related_articles = ["articles/renee-fleming-tso.md","articles/in-review-mahler-other-beauties-at-the-tso.md","articles/the-tso-does-danny-elfmans-music-from-the-films-of-tim-burton.md","articles/in-review-daniels-katz-at-wigmore-hall.md","articles/in-review-miss-hope-springs-at-wigmore-hall.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/jamie-barton.md"]
-short_description = "I know I often talk about the immense amount of amazingly talented singers, but I want to go on record and say it applies to all musicians - and last night was proof positive of that. That being said, this was Mahler, so the night belonged to the brass."
-slug = "in-review-jamie-barton-leaves-you-wanting-more"
-title = "In review: Jamie Barton leaves you wanting more"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-09-30T09:29:00+01:00"
+lastmod: "2016-09-30T10:13:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475224156688/2016-09-30---Jamie-Barton-Peter-Oundjian-Jag-Photography.jpg.jpg
+primary_image_credit: 'Jamie Barton and Peter Oundjian with the TSO. Photo: Jag Photography'
+publishDate: "2016-09-30T09:56:00+01:00"
+related_articles:
+- articles/renee-fleming-tso.md
+- articles/in-review-mahler-other-beauties-at-the-tso.md
+- articles/the-tso-does-danny-elfmans-music-from-the-films-of-tim-burton.md
+- articles/in-review-daniels-katz-at-wigmore-hall.md
+- articles/in-review-miss-hope-springs-at-wigmore-hall.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/jamie-barton.md
+short_description: I know I often talk about the immense amount of amazingly talented
+  singers, but I want to go on record and say it applies to all musicians - and last
+  night was proof positive of that. That being said, this was Mahler, so the night
+  belonged to the brass.
+slug: in-review-jamie-barton-leaves-you-wanting-more
+title: 'In review: Jamie Barton leaves you wanting more'
+---
 
 Fall is definitely in the air in Toronto, and the concert season is off to a great start.
 

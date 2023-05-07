@@ -1,22 +1,40 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2020-09-28T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1601221992/media/2020/09/sqMoV_xa4h1b.jpg"
-primary_image_credit = "Christoper Ainsley as Antonio sitting with Sigmund Freud in the Bregenz Festival production of André Tchaikowsky’s opera, The Merchant of Venice. Photo: EuroArts Music International GmbH."
-related_articles = ["articles/renee-fleming-brings-a-new-luster-to-dumbarton-oaks.md", "articles/the-emphatically-present-west-side-story.md", "articles/west-side-story.md"]
-related_companies = ["scene/companies/welsh-national-opera.md"]
-related_people = ["scene/people/adrian-erod.md", "scene/people/lauren-michelle.md", "scene/people/lester-lynch.md", "scene/people/christopher-ainslie.md", "scene/people/jason-bridges.md", "scene/people/kathryn-lewek.md", "scene/people/verena-gunz.md", "scene/people/magdalena-anna-hofmann.md", "scene/people/david-stout.md"]
-short_description = "Throughout his career his dedication to Shakespeare was unwavering. It was said that he could recite extended passages from Shakespeare's work with eloquence often surpassing that of cultivated speakers in his England, his adopted homeland."
-slug = "andre-tchaikowskys-only-opera-the-merchant-of-venice"
-title = "André Tchaikowsky's only opera: The Merchant of Venice"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2020-09-28T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1601221992/media/2020/09/sqMoV_xa4h1b.jpg
+primary_image_credit: 'Christoper Ainsley as Antonio sitting with Sigmund Freud in
+  the Bregenz Festival production of André Tchaikowsky’s opera, The Merchant of Venice.
+  Photo: EuroArts Music International GmbH.'
+related_articles:
+- articles/renee-fleming-brings-a-new-luster-to-dumbarton-oaks.md
+- articles/the-emphatically-present-west-side-story.md
+- articles/west-side-story.md
+related_companies:
+- scene/companies/welsh-national-opera.md
+related_people:
+- scene/people/adrian-erod.md
+- scene/people/lauren-michelle.md
+- scene/people/lester-lynch.md
+- scene/people/christopher-ainslie.md
+- scene/people/jason-bridges.md
+- scene/people/kathryn-lewek.md
+- scene/people/verena-gunz.md
+- scene/people/magdalena-anna-hofmann.md
+- scene/people/david-stout.md
+short_description: Throughout his career his dedication to Shakespeare was unwavering.
+  It was said that he could recite extended passages from Shakespeare's work with
+  eloquence often surpassing that of cultivated speakers in his England, his adopted
+  homeland.
+slug: andre-tchaikowskys-only-opera-the-merchant-of-venice
+title: 'André Tchaikowsky''s only opera: The Merchant of Venice'
+youtube_url: ""
+---
 The opera begins and ends on Freud's _chaise lounge_. Antonio, a young Venetian businessman is tossed on a sea of melancholy. He yearns to know why he so sad. Three acts later, he is back on the chaise in the opera's epilogue asking the same question.
 
 Such is the frame work for the brilliantly constructed _The Merchant of Venice_, the only opera written by pianist and composer, André Tchaikowsky. This incisive and beautifully calibrated adaptation of Shakespeare's most disturbing of comedies is ripe for production on this side of the Atlantic, if indeed the post-pandemic era spurs a renewed appetite for genius.

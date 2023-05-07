@@ -1,15 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-09-19T10:15:00+01:00"
-lastmod = "2016-09-19T13:39:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474284087699/2016-09-20---Church-Dome.jpg.jpg"
-publishDate = "2016-09-19T13:00:00+01:00"
-related_articles = ["articles/morbid-musings-art-death.md"]
-short_description = "Perhaps this happens because music is one of those things that can truly offer the exhilarating joy and sense of belonging that many religious seek. It&#039;s perhaps not the same thing, but in my work with music, I have experienced moments of happiness, awe, and admiration so great my whole self vibrates."
-slug = "music-religion-irony"
-title = "Music, religion, &amp; irony"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-09-19T10:15:00+01:00"
+lastmod: "2016-09-19T13:39:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474284087699/2016-09-20---Church-Dome.jpg.jpg
+publishDate: "2016-09-19T13:00:00+01:00"
+related_articles:
+- articles/morbid-musings-art-death.md
+short_description: Perhaps this happens because music is one of those things that
+  can truly offer the exhilarating joy and sense of belonging that many religious
+  seek. It&#039;s perhaps not the same thing, but in my work with music, I have experienced
+  moments of happiness, awe, and admiration so great my whole self vibrates.
+slug: music-religion-irony
+title: Music, religion, &amp; irony
+---
 
 Hi everyone, Jenna here.
 

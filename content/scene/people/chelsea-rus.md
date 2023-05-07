@@ -1,15 +1,18 @@
-+++
-date = "2016-05-14T22:18:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-05-14T22:18:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463260595651/2016-05-15---Chelsea-Rus.jpg.jpg"
-publishDate = "2016-05-14T22:18:00+01:00"
-related_companies = ["scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/opera-mcgill.md","scene/companies/the-banff-centre.md"]
-slug = "chelsea-rus"
-title = "Chelsea Rus"
-website = "http://www.chelsearussoprano.ca/home.html"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2016-05-14T22:18:00+01:00"
+discipline: Soprano
+lastmod: "2016-05-14T22:18:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463260595651/2016-05-15---Chelsea-Rus.jpg.jpg
+publishDate: "2016-05-14T22:18:00+01:00"
+related_companies:
+- scene/companies/latelier-lyrique-de-lopra-de-montral.md
+- scene/companies/opera-mcgill.md
+- scene/companies/the-banff-centre.md
+slug: chelsea-rus
+title: Chelsea Rus
+website: http://www.chelsearussoprano.ca/home.html
+---
 
 "The Lyric summit belonged to soprano Chelsea Rus as Lauretta. O Mio Babbino caro soared without losing its youthful spirit (and infectious six-eight metre.)" - *The Gazette*.
  

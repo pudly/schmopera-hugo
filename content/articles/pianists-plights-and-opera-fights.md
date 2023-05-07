@@ -1,16 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2014-08-20T13:45:00-06:00"
-lastmod = "2017-06-23T23:19:00-06:00"
-preamble = "For any of those brave pianists who dive into operatic repertoire, there's an acute awareness of playing music that's specifically *not* written for the piano. While some singers revel in how beautifully Verdi or Mozart or Strauss wrote for the voice, the pianist is, at that same moment, experiencing how poorly that same music feels under our ten fingers. It's a simple problem, and that's that pianists in the opera world are largely stand-ins for the orchestra. \n\nWhen we play opera, it's for a rehearsal or an audition or some other situation in which we're trying to give someone the general picture of how the music goes, for lack of 80 orchestral players to hire at the time. The pianistic discomfort doesn't even come from the problem of playing from crudely reduced vocal scores, or the fact that we're trying to follow the incoherent flailings of a man with a baton. The music of certain composers has a specific tactile connotation, and it has to do with stuff like the choice of key or the use of specific instrumental idioms. I'll give you some examples:\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498281422927/2017-06-23---Keyboard.jpg.jpg"
-publishDate = "2014-08-20T13:45:00-06:00"
-related_articles = ["articles/how-to-play-for-singers.md"]
-short_description = "For any of those brave pianists who dive into operatic repertoire, there’s an acute awareness of playing music that’s specifically not written for the piano. While some singers revel in how beautifully Verdi or Mozart or Strauss wrote for the voice, the pianist is, at that same moment, experiencing how poorly that same music feels under our ten fingers. It’s a simple problem, and that’s that pianists in the opera world are largely stand-ins for the orchestra. "
-slug = "pianists-plights-and-opera-fights"
-title = "Pianists&#039; plights and opera fights"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2014-08-20T13:45:00-06:00"
+lastmod: "2017-06-23T23:19:00-06:00"
+preamble: "For any of those brave pianists who dive into operatic repertoire, there's
+  an acute awareness of playing music that's specifically *not* written for the piano.
+  While some singers revel in how beautifully Verdi or Mozart or Strauss wrote for
+  the voice, the pianist is, at that same moment, experiencing how poorly that same
+  music feels under our ten fingers. It's a simple problem, and that's that pianists
+  in the opera world are largely stand-ins for the orchestra. \n\nWhen we play opera,
+  it's for a rehearsal or an audition or some other situation in which we're trying
+  to give someone the general picture of how the music goes, for lack of 80 orchestral
+  players to hire at the time. The pianistic discomfort doesn't even come from the
+  problem of playing from crudely reduced vocal scores, or the fact that we're trying
+  to follow the incoherent flailings of a man with a baton. The music of certain composers
+  has a specific tactile connotation, and it has to do with stuff like the choice
+  of key or the use of specific instrumental idioms. I'll give you some examples:\n"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498281422927/2017-06-23---Keyboard.jpg.jpg
+publishDate: "2014-08-20T13:45:00-06:00"
+related_articles:
+- articles/how-to-play-for-singers.md
+short_description: 'For any of those brave pianists who dive into operatic repertoire,
+  there’s an acute awareness of playing music that’s specifically not written for
+  the piano. While some singers revel in how beautifully Verdi or Mozart or Strauss
+  wrote for the voice, the pianist is, at that same moment, experiencing how poorly
+  that same music feels under our ten fingers. It’s a simple problem, and that’s that
+  pianists in the opera world are largely stand-ins for the orchestra. '
+slug: pianists-plights-and-opera-fights
+title: Pianists&#039; plights and opera fights
+---
 
 ## Rossini
 

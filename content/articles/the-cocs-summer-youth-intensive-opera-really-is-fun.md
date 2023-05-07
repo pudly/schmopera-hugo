@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2014-06-11T07:45:00-04:00"
-lastmod = "2015-04-23T16:16:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429819824849/IMG_0118_resized.jpg.jpg"
-publishDate = "2014-06-11T07:45:00-04:00"
-related_articles = ["articles/turning-opera-insideout-upsidedown-at-summer-opera-camp.md","articles/canadian-childrens-opera-companys-lullabies-from-kids-for-kids.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-short_description = "Each summer, the Canadian Opera Company presents the Summer Youth Intensive program, which is designed for young opera lovers, from grades 9 to 12. At the SYI, the participants bring their existing interests and skills, and refine them with the help of professionals in the operatic industry."
-slug = "the-cocs-summer-youth-intensive-opera-really-is-fun"
-title = "The COC&#039;s Summer Youth Intensive: Opera really is fun!"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2014-06-11T07:45:00-04:00"
+lastmod: "2015-04-23T16:16:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429819824849/IMG_0118_resized.jpg.jpg
+publishDate: "2014-06-11T07:45:00-04:00"
+related_articles:
+- articles/turning-opera-insideout-upsidedown-at-summer-opera-camp.md
+- articles/canadian-childrens-opera-companys-lullabies-from-kids-for-kids.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+short_description: Each summer, the Canadian Opera Company presents the Summer Youth
+  Intensive program, which is designed for young opera lovers, from grades 9 to 12.
+  At the SYI, the participants bring their existing interests and skills, and refine
+  them with the help of professionals in the operatic industry.
+slug: the-cocs-summer-youth-intensive-opera-really-is-fun
+title: 'The COC&#039;s Summer Youth Intensive: Opera really is fun!'
+---
 
 Each summer, the Canadian Opera Company presents the [Summer Youth Intensive](http://www.coc.ca/ExploreAndLearn/YoungAdults/SummerYouthIntensive.aspx) program, which is designed for young opera lovers, from grades 9 to 12. At the SYI, the participants bring their existing interests and skills, and refine them with the help of professionals in the operatic industry. They get masterclasses in vocal technique with voice instructors Mark Daboll and Karine St. Pierre, and in dramatic technique with dramaturge and director Markus Howard. They'll take a dramatic workshop with opera and theatre director Liza Balkan. Set designer Camellia Koo will teach them the ins and outs of production design, and Casey Hudecki will give a workshop in stage combat (how fun is that?). At the end of the program, music director Kyra Millan and director Lianne Seykora will lead a performance of operatic proportions for the participants' family and friends. For more details, check out the SYI's [complete faculty list and daily schedule](http://www.coc.ca/ExploreAndLearn/YoungAdults/SummerYouthIntensive/SYIPrograms.aspx).
 This year, the SYI will be performing _Brundibár_, written in 1938 by Czech composer Hans Krása. The piece has a [fascinating history](http://holocaustmusic.ort.org/places/theresienstadt/brundibar/): it was first performed in 1943 by children who had been interred at Terezín concentration camp during the Holocaust. This summer's SYI participants will perform the English adaptation of _Brudibár_ by American writer Tony Kushner (_Angels in America_, _Lincoln_).

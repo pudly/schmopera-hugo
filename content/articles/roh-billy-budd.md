@@ -1,23 +1,30 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-04-26T00:14:14+00:00"
-disclaimer = ""
-draft = false
-image_gallery = []
-postamble = "_Billy Budd_ is onstage at the Royal Opera House through 10 May. For details and ticket information, [click here](https://www.roh.org.uk/productions/billy-budd-by-deborah-warner)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556237961/media/2019/04/sq2860ashm_0843JacquesImbrailoasBillyBuddROH2019.jpg"
-primary_image_credit = "Jacques Imbrailo as Billy Budd in Billy Budd, ROH, 2019. Photo: Catherine Ashmore."
-related_articles = []
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/toby-spence.md", "scene/people/jacques-imbrailo.md"]
-short_description = "This production co-produced with Teatro Real, Madrid and Rome Opera is the first return of the opera to the Royal Opera stage in nearly 20 years and welcomes back the incomparable Deborah Warner, who has made a career staging Britten."
-slug = "transcendent-ambitious-billy-budd-at-roh"
-title = "Transcendent & ambitious: Billy Budd at ROH"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-04-26T00:14:14+00:00"
+disclaimer: ""
+draft: false
+image_gallery: []
+postamble: _Billy Budd_ is onstage at the Royal Opera House through 10 May. For details
+  and ticket information, [click here](https://www.roh.org.uk/productions/billy-budd-by-deborah-warner).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1556237961/media/2019/04/sq2860ashm_0843JacquesImbrailoasBillyBuddROH2019.jpg
+primary_image_credit: 'Jacques Imbrailo as Billy Budd in Billy Budd, ROH, 2019. Photo:
+  Catherine Ashmore.'
+related_articles: []
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/toby-spence.md
+- scene/people/jacques-imbrailo.md
+short_description: This production co-produced with Teatro Real, Madrid and Rome Opera
+  is the first return of the opera to the Royal Opera stage in nearly 20 years and
+  welcomes back the incomparable Deborah Warner, who has made a career staging Britten.
+slug: transcendent-ambitious-billy-budd-at-roh
+title: 'Transcendent & ambitious: Billy Budd at ROH'
+youtube_url: ""
+---
 There is something spiritual and incredibly empathetic about Britten's work. He shows a deep understanding of the human condition which is heartbreakingly expressed through his music. His 1964 grand opera _Billy Budd_ is a move away from the chamber form he had championed in previous works such as _Albert Herring_, _The Turn of the Screw_, and _The Rape of Lucretia_. 
 
 >It is a very special work of art and should be respected as such.

@@ -1,18 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-10-17T13:27:00-04:00"
-lastmod = "2017-10-18T10:38:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508260971133/2017-10-16---square---Arabella-MC-0629.jpg.jpg"
-primary_image_credit = "Erin Wall as Arabella and Tomasz Konieczny as Mandryka in the Canadian Opera Company’s new production of Arabella, 2017, photo: Michael Cooper."
-publishDate = "2017-10-18T10:38:00-04:00"
-related_articles = ["articles/tim-albery-flawed-operas-falling-empires.md","articles/review-arabella-or-poor-little-rich-girl.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-santa-fe-opera.md"]
-related_people = ["scene/people/erin-wall.md","scene/people/jane-archibald.md","scene/people/tomasz-konieczny.md","scene/people/michael-brandenburg.md","scene/people/john-fanning.md","scene/people/gundula-hintz.md","scene/people/claire-de-sevigne.md","scene/people/patrick-lange.md"]
-short_description = "A woman with a spine is somewhat of a rare find in opera, and so it&#039;s hard to admit that Arabella is a woman who warrants very little empathy - even from this female reviewer. Arabella&#039;s insistence on waiting for the &quot;right man&quot; among her train of suitors is something that&#039;s admirable and surprisingly contemporary even for this 1932 opera. "
-slug = "luxury-at-arms-length-arabella"
-title = "Luxury at arm&#039;s length: Arabella"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-10-17T13:27:00-04:00"
+lastmod: "2017-10-18T10:38:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508260971133/2017-10-16---square---Arabella-MC-0629.jpg.jpg
+primary_image_credit: 'Erin Wall as Arabella and Tomasz Konieczny as Mandryka in the
+  Canadian Opera Company’s new production of Arabella, 2017, photo: Michael Cooper.'
+publishDate: "2017-10-18T10:38:00-04:00"
+related_articles:
+- articles/tim-albery-flawed-operas-falling-empires.md
+- articles/review-arabella-or-poor-little-rich-girl.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-santa-fe-opera.md
+related_people:
+- scene/people/erin-wall.md
+- scene/people/jane-archibald.md
+- scene/people/tomasz-konieczny.md
+- scene/people/michael-brandenburg.md
+- scene/people/john-fanning.md
+- scene/people/gundula-hintz.md
+- scene/people/claire-de-sevigne.md
+- scene/people/patrick-lange.md
+short_description: 'A woman with a spine is somewhat of a rare find in opera, and
+  so it&#039;s hard to admit that Arabella is a woman who warrants very little empathy
+  - even from this female reviewer. Arabella&#039;s insistence on waiting for the
+  &quot;right man&quot; among her train of suitors is something that&#039;s admirable
+  and surprisingly contemporary even for this 1932 opera. '
+slug: luxury-at-arms-length-arabella
+title: 'Luxury at arm&#039;s length: Arabella'
+---
 
 When it offers nothing but good news - stunning music that seems to make a few early nods to the motifs of *Der Rosenkavalier*, and the central woman who holds herself with poise and self-respect - it's hard to articulate why Strauss' [*Arabella*](http://coc.ca/PerformancesAndTickets/1718Season/Arabella.aspx) had me perched squarely on the fence. It's a strange experience to spend three acts wavering between feeling swept away by stunning singing and lush worlds that seem to ooze romance, and feeling entirely suspicious and even exasperated by the battles picked by Arabella and her in-dire-straits-of-their-own-doing family.
 

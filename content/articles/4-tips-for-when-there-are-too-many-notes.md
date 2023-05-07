@@ -1,16 +1,47 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2015-06-03T21:00:00-04:00"
-lastmod = "2017-05-21T11:53:00-04:00"
-preamble = "When it comes to singing coloratura, it's easy to imagine that there are those who can, and those who cannot. \"She's always been able to move her voice,\" we say, as if it's a skill one is born with. That may be true, but it doesn't mean the rest of you will never sing fast notes. Your voice teacher is the first step in becoming a master of the scales and arpeggios, no doubt about that. We've found a few tricks that really speed up the learning process, specifically that difficult distance to cross between knowing what the notes are, and making them mean something."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495381518238/2017-05-21---Notes.jpg.jpg"
-publishDate = "2015-06-04T09:18:00-04:00"
-related_articles = ["articles/how-to-really-learn-a-song.md","articles/5-ways-to-build-your-rhythmic-chops.md","articles/pianists-3-tips-for-sounding-like-an-orchestra.md","articles/hot-topics-singers-who-scoop.md","articles/good-ideas-rehearsalasperformance.md","articles/4-traits-of-a-great-cadenza.md","articles/singable-text-when-composers-make-it-tricky.md","articles/hidden-secrets-of-the-soubrette.md","articles/vibrato-all-the-reasons-why.md","articles/4-weird-questions-for-opera-singers.md","articles/singers-masters-of-illusions.md","articles/3-ways-to-fight-boredom-at-the-opera.md","articles/talking-with-singers-jessica-pratt.md","articles/4-awesome-rage-arias-that-arent-the-queen-of-the-night.md","articles/4-english-language-habits-that-make-a-singers-life-harder.md","articles/the-practice-tip-you-dont-want-to-hear.md","articles/surprising-practice-tips-4-arias-to-try-too-fast.md","articles/a-singers-todo-list-4-tasks-to-keep-you-focused-this-year.md","articles/keeping-the-thread-momenttomoment-awareness-in-singing.md","articles/nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in.md"]
-short_description = "When it comes to singing coloratura, it&#039;s easy to imagine that there are those who can, and those who cannot. &quot;She&#039;s always been able to move her voice,&quot; we say, as if it&#039;s a skill one is born with. That may be true, but it doesn&#039;t mean the rest of you will never sing fast notes."
-slug = "4-tips-for-when-there-are-too-many-notes"
-title = "4 tips for when there are too many notes"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2015-06-03T21:00:00-04:00"
+lastmod: "2017-05-21T11:53:00-04:00"
+preamble: When it comes to singing coloratura, it's easy to imagine that there are
+  those who can, and those who cannot. "She's always been able to move her voice,"
+  we say, as if it's a skill one is born with. That may be true, but it doesn't mean
+  the rest of you will never sing fast notes. Your voice teacher is the first step
+  in becoming a master of the scales and arpeggios, no doubt about that. We've found
+  a few tricks that really speed up the learning process, specifically that difficult
+  distance to cross between knowing what the notes are, and making them mean something.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495381518238/2017-05-21---Notes.jpg.jpg
+publishDate: "2015-06-04T09:18:00-04:00"
+related_articles:
+- articles/how-to-really-learn-a-song.md
+- articles/5-ways-to-build-your-rhythmic-chops.md
+- articles/pianists-3-tips-for-sounding-like-an-orchestra.md
+- articles/hot-topics-singers-who-scoop.md
+- articles/good-ideas-rehearsalasperformance.md
+- articles/4-traits-of-a-great-cadenza.md
+- articles/singable-text-when-composers-make-it-tricky.md
+- articles/hidden-secrets-of-the-soubrette.md
+- articles/vibrato-all-the-reasons-why.md
+- articles/4-weird-questions-for-opera-singers.md
+- articles/singers-masters-of-illusions.md
+- articles/3-ways-to-fight-boredom-at-the-opera.md
+- articles/talking-with-singers-jessica-pratt.md
+- articles/4-awesome-rage-arias-that-arent-the-queen-of-the-night.md
+- articles/4-english-language-habits-that-make-a-singers-life-harder.md
+- articles/the-practice-tip-you-dont-want-to-hear.md
+- articles/surprising-practice-tips-4-arias-to-try-too-fast.md
+- articles/a-singers-todo-list-4-tasks-to-keep-you-focused-this-year.md
+- articles/keeping-the-thread-momenttomoment-awareness-in-singing.md
+- articles/nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in.md
+short_description: When it comes to singing coloratura, it&#039;s easy to imagine
+  that there are those who can, and those who cannot. &quot;She&#039;s always been
+  able to move her voice,&quot; we say, as if it&#039;s a skill one is born with.
+  That may be true, but it doesn&#039;t mean the rest of you will never sing fast
+  notes.
+slug: 4-tips-for-when-there-are-too-many-notes
+title: 4 tips for when there are too many notes
+---
 
 ### Break long runs into phrases
 

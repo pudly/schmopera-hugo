@@ -1,17 +1,31 @@
-+++
-author = ["authors/suzanne-vinnik.md","authors/sara-duchovnay.md"]
-categories = "Op-ed"
-date = "2016-08-23T06:15:00-04:00"
-lastmod = "2017-07-27T12:28:00-04:00"
-preamble = "This is the first of two [guest posts](/freetheknee-part-2-you-have-better-choices/) by sopranos [Suzanne Vinnik](/scene/people/suzanne-vinnik/) and [Sara Duchovnay](/scene/people/sara-duchovnay/). Vinnik is also the founder of [Shoperatic](https://www.facebook.com/shoperatic/) (formerly known as the Opera Diva Dress Collection) a community where singers can buy and rent concert wear, including some of Duchovnay's own merchandise.\n\nWith audition season fast approaching, Vinnik and Duchovnay address the idea of \"rules\" governing wardrobe choices for opera singers; with nearly 10,000 followers, the time has come to #freetheknee and rally for change within the industry."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501171895289/2017-07-27---Modern-Diva.jpg.jpg"
-publishDate = "2016-08-24T04:23:00-04:00"
-related_articles = ["articles/freetheknee-part-2-you-have-better-choices.md","articles/whats-your-opera-dress-code.md","articles/singers-its-the-annual-tax-season-conundrum.md","articles/just-in-time-for-fall-shoperatic.md","articles/talking-with-singers-sara-duchovnay.md"]
-related_people = ["scene/people/sara-duchovnay.md"]
-short_description = "If you view fashion and the way you dress as an extension of your artistic personality, why would you allow others to put you in a box and stifle you? After all, isn’t your goal to show the audition panel exactly who you are and what makes you special and unique?"
-slug = "a-letter-to-the-modern-diva"
-title = "A Letter to the Modern Diva"
-+++
+---
+author:
+- authors/suzanne-vinnik.md
+- authors/sara-duchovnay.md
+categories: Op-ed
+date: "2016-08-23T06:15:00-04:00"
+lastmod: "2017-07-27T12:28:00-04:00"
+preamble: |-
+  This is the first of two [guest posts](/freetheknee-part-2-you-have-better-choices/) by sopranos [Suzanne Vinnik](/scene/people/suzanne-vinnik/) and [Sara Duchovnay](/scene/people/sara-duchovnay/). Vinnik is also the founder of [Shoperatic](https://www.facebook.com/shoperatic/) (formerly known as the Opera Diva Dress Collection) a community where singers can buy and rent concert wear, including some of Duchovnay's own merchandise.
+
+  With audition season fast approaching, Vinnik and Duchovnay address the idea of "rules" governing wardrobe choices for opera singers; with nearly 10,000 followers, the time has come to #freetheknee and rally for change within the industry.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501171895289/2017-07-27---Modern-Diva.jpg.jpg
+publishDate: "2016-08-24T04:23:00-04:00"
+related_articles:
+- articles/freetheknee-part-2-you-have-better-choices.md
+- articles/whats-your-opera-dress-code.md
+- articles/singers-its-the-annual-tax-season-conundrum.md
+- articles/just-in-time-for-fall-shoperatic.md
+- articles/talking-with-singers-sara-duchovnay.md
+related_people:
+- scene/people/sara-duchovnay.md
+short_description: If you view fashion and the way you dress as an extension of your
+  artistic personality, why would you allow others to put you in a box and stifle
+  you? After all, isn’t your goal to show the audition panel exactly who you are and
+  what makes you special and unique?
+slug: a-letter-to-the-modern-diva
+title: A Letter to the Modern Diva
+---
 
 Dear Diva,
 

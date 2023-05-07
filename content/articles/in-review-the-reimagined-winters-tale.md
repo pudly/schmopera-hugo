@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-12-14T10:11:00+00:00"
-lastmod = "2016-12-14T11:22:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481712527313/2016-12-14---the-winters-tale-5.jpg.jpg"
-primary_image_credit = "Sadie Parsons (Hermione) and Héloïse Werner (Perdita) in The Hermes Experiment's The Winter's Tale. Photo by Cathy Pyle."
-publishDate = "2016-12-14T11:22:00+00:00"
-related_articles = ["articles/in-review-scenes-from-the-end.md","articles/talking-with-singers-heloise-werner.md","articles/pyramus-thisbe-and-canadian-opera-history.md"]
-related_people = ["scene/people/heloise-werner.md"]
-short_description = "Hovering somewhere between medieval inspiration and abstract improvisation, Kim Ashton&#039;s music served as evocative incidental music, offering subtext and commentary in what felt like a live version of a film score. With admirable listening skills, the quartet played from memory, removing one more barrier that can separate the audience from the creative process."
-slug = "in-review-the-reimagined-winters-tale"
-title = "In review: The (reimagined) Winter&#039;s Tale"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-12-14T10:11:00+00:00"
+lastmod: "2016-12-14T11:22:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481712527313/2016-12-14---the-winters-tale-5.jpg.jpg
+primary_image_credit: Sadie Parsons (Hermione) and Héloïse Werner (Perdita) in The
+  Hermes Experiment's The Winter's Tale. Photo by Cathy Pyle.
+publishDate: "2016-12-14T11:22:00+00:00"
+related_articles:
+- articles/in-review-scenes-from-the-end.md
+- articles/talking-with-singers-heloise-werner.md
+- articles/pyramus-thisbe-and-canadian-opera-history.md
+related_people:
+- scene/people/heloise-werner.md
+short_description: Hovering somewhere between medieval inspiration and abstract improvisation,
+  Kim Ashton&#039;s music served as evocative incidental music, offering subtext and
+  commentary in what felt like a live version of a film score. With admirable listening
+  skills, the quartet played from memory, removing one more barrier that can separate
+  the audience from the creative process.
+slug: in-review-the-reimagined-winters-tale
+title: 'In review: The (reimagined) Winter&#039;s Tale'
+---
 
 Before a packed crowd in the Cockpit Theatre, The Hermes Experiment presented *The Winter's Tale: Shakespeare musically reimagined*. Directed by Nina Brazier, Shakespeare's play is abridged to roughly one hour in length, and it's set to original music by Kim Ashton.
 

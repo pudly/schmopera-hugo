@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2016-04-16T11:39:00+01:00"
-lastmod = "2016-04-16T12:42:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460805589447/2016-04-16---Sheep.jpg.jpg"
-publishDate = "2016-04-16T12:30:00+01:00"
-related_articles = ["articles/birdcalls-and-spoilers.md","articles/hello-papagena.md"]
-short_description = "It&#039;s funny how imagination is strengthened by experience. Here in Britain, we&#039;ve seen grassy hills, greener than ever seemed possible in real life, and populated with the cutest, shaggiest sheep you&#039;ve ever seen. The Thames river is a heavy, looming landmark that&#039;s rarely blue, and it swerves and veers through the middle of London in a way that&#039;s unmistakable on a map."
-slug = "inspiration-seeing-it-for-oneself"
-title = "Inspiration: seeing it for oneself"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2016-04-16T11:39:00+01:00"
+lastmod: "2016-04-16T12:42:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460805589447/2016-04-16---Sheep.jpg.jpg
+publishDate: "2016-04-16T12:30:00+01:00"
+related_articles:
+- articles/birdcalls-and-spoilers.md
+- articles/hello-papagena.md
+short_description: It&#039;s funny how imagination is strengthened by experience.
+  Here in Britain, we&#039;ve seen grassy hills, greener than ever seemed possible
+  in real life, and populated with the cutest, shaggiest sheep you&#039;ve ever seen.
+  The Thames river is a heavy, looming landmark that&#039;s rarely blue, and it swerves
+  and veers through the middle of London in a way that&#039;s unmistakable on a map.
+slug: inspiration-seeing-it-for-oneself
+title: 'Inspiration: seeing it for oneself'
+---
 
 There is a bird here in London, that frequents the balcony outside where we often write. What kind of bird, we're not sure. ("Non ho studiato ornitologia.") But it makes some of the coolest little twitters and chirps, including a common phrase that sounds like that stereotypical whistle that men use to [catcall women](https://www.youtube.com/watch?v=Ydx7BsjOAoY) on the street, but slightly sped up, old-film style.
 

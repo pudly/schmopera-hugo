@@ -1,19 +1,19 @@
-+++
-date = "2016-10-24T10:25:00+01:00"
-discipline = "Pianist"
-lastmod = "2016-10-24T10:25:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477301018872/2016-10-24---James-Baillieu.jpg.jpg"
-primary_image_credit = "Kaupo Kikkas"
-publishDate = "2016-10-24T10:25:00+01:00"
-slug = "james-baillieu"
-title = "James Baillieu"
-website = "http://james-baillieu.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/jbaillieu"
-_template = "people_single"
-+++
+---
+date: "2016-10-24T10:25:00+01:00"
+discipline: Pianist
+lastmod: "2016-10-24T10:25:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477301018872/2016-10-24---James-Baillieu.jpg.jpg
+primary_image_credit: Kaupo Kikkas
+publishDate: "2016-10-24T10:25:00+01:00"
+slug: james-baillieu
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/jbaillieu
+title: James Baillieu
+website: http://james-baillieu.com/
+---
 
 Described by The Daily Telegraph as ‘in a class of his own’ James Baillieu has been the prize-winner of the Wigmore Hall Song Competition, Das Lied International Song Competition, Kathleen Ferrier and Richard Tauber Competitions. He was selected for representation by Young Classical Artists Trust (YCAT) in 2010 and in 2012 received a Borletti-Buitoni Trust Fellowship and a Geoffrey Parsons Memorial Trust Award and in 2016 was shortlisted for the Royal Philharmonic Society Outstanding Young Artist Award.
 

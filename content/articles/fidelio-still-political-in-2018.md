@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-04-15T20:50:00-04:00"
-lastmod = "2018-04-23T20:43:00-04:00"
-preamble = "As [Heartbeat Opera](/scene/companies/heartbeat-opera/) gears up for its fourth annual [Spring Festival](http://www.heartbeatopera.org/spring-festival-2018/), Artistic Director Ethan Heard is in rehearsals for his poignant adaptation of Beethoven's only opera, [*Fidelio*](https://www.heartbeatopera.org/fidelio) (**May 3-13**). Heard has written new English dialogue with Marcus Scott to bring the story of political prisoners into 2018; Heartbeat Opera's production features a primarily black cast, and a true \"Prisoners' Chorus\" of incarcerated members of 6 prison choirs across the Midwest.\n\nWe spoke with Heard about his [*Fidelio*](https://www.heartbeatopera.org/fidelio), and the unique research he did on the opera's relevant themes.\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523839803758/sqEthanHeard.jpg.jpg"
-primary_image_credit = "Ethan Heard, Co-Artistic Director of Heartbeat Opera and director of Fidelio, May 3-13 at Baruch Performing Arts Center."
-publishDate = "2018-04-23T20:43:00-04:00"
-related_articles = ["articles/real-prisoners-voices-make-heartbeat-operas-fidelio-resonate.md"]
-related_companies = ["scene/companies/heartbeat-opera.md"]
-short_description = "&quot;I hope people who know Fidelio already will be surprised and challenged to experience the opera in a new way. I hope newcomers to Fidelio will come away with admiration for Beethoven&#039;s beautiful music and appreciation of this story&#039;s powerful resonance today. I hope all audience members will take away questions and concerns that they continue to talk about and wrestle with.&quot;"
-slug = "fidelio-still-political-in-2018"
-title = "Fidelio: still political in 2018"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-04-15T20:50:00-04:00"
+lastmod: "2018-04-23T20:43:00-04:00"
+preamble: |+
+  As [Heartbeat Opera](/scene/companies/heartbeat-opera/) gears up for its fourth annual [Spring Festival](http://www.heartbeatopera.org/spring-festival-2018/), Artistic Director Ethan Heard is in rehearsals for his poignant adaptation of Beethoven's only opera, [*Fidelio*](https://www.heartbeatopera.org/fidelio) (**May 3-13**). Heard has written new English dialogue with Marcus Scott to bring the story of political prisoners into 2018; Heartbeat Opera's production features a primarily black cast, and a true "Prisoners' Chorus" of incarcerated members of 6 prison choirs across the Midwest.
+
+  We spoke with Heard about his [*Fidelio*](https://www.heartbeatopera.org/fidelio), and the unique research he did on the opera's relevant themes.
+
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523839803758/sqEthanHeard.jpg.jpg
+primary_image_credit: Ethan Heard, Co-Artistic Director of Heartbeat Opera and director
+  of Fidelio, May 3-13 at Baruch Performing Arts Center.
+publishDate: "2018-04-23T20:43:00-04:00"
+related_articles:
+- articles/real-prisoners-voices-make-heartbeat-operas-fidelio-resonate.md
+related_companies:
+- scene/companies/heartbeat-opera.md
+short_description: '&quot;I hope people who know Fidelio already will be surprised
+  and challenged to experience the opera in a new way. I hope newcomers to Fidelio
+  will come away with admiration for Beethoven&#039;s beautiful music and appreciation
+  of this story&#039;s powerful resonance today. I hope all audience members will
+  take away questions and concerns that they continue to talk about and wrestle with.&quot;'
+slug: fidelio-still-political-in-2018
+title: 'Fidelio: still political in 2018'
+---
 
 ## What about *Fidelio* did you see as adaptable and relevant to a contemporary story and new texts?
 

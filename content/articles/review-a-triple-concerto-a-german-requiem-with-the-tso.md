@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-09-28T15:47:00-04:00"
-lastmod = "2017-09-29T13:19:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506628223807/2017-09-28---square---TMC-Russell-Braun-Erin-Wall-Peter-Oundjian-Jag-Gundu.jpg.jpg"
-primary_image_credit = "The Toronto Mendelssohn Choir, Russell Braun, Erin Wall, and Peter Oundjian. Photo: Jag Gundu."
-publishDate = "2017-09-29T12:26:00-04:00"
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/erin-wall.md","scene/people/russell-braun.md"]
-short_description = "The three violin parts seem to babble, talk over each other, like a gaggle of enthusiastic talkers whose conversation borders on an argument. They echo each other in a three-fold cascade of gesture, single pitches splicing themselves into harmonies; there are moments of Strauss-like vocal writing, and what feels like an exciting nod towards the Toccata movement from John Adam&#039;s Violin Concerto."
-slug = "review-a-triple-concerto-a-german-requiem-with-the-tso"
-title = "Review: a Triple Concerto &amp; a German Requiem with the TSO"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-09-28T15:47:00-04:00"
+lastmod: "2017-09-29T13:19:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506628223807/2017-09-28---square---TMC-Russell-Braun-Erin-Wall-Peter-Oundjian-Jag-Gundu.jpg.jpg
+primary_image_credit: 'The Toronto Mendelssohn Choir, Russell Braun, Erin Wall, and
+  Peter Oundjian. Photo: Jag Gundu.'
+publishDate: "2017-09-29T12:26:00-04:00"
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/erin-wall.md
+- scene/people/russell-braun.md
+short_description: The three violin parts seem to babble, talk over each other, like
+  a gaggle of enthusiastic talkers whose conversation borders on an argument. They
+  echo each other in a three-fold cascade of gesture, single pitches splicing themselves
+  into harmonies; there are moments of Strauss-like vocal writing, and what feels
+  like an exciting nod towards the Toccata movement from John Adam&#039;s Violin Concerto.
+slug: review-a-triple-concerto-a-german-requiem-with-the-tso
+title: 'Review: a Triple Concerto &amp; a German Requiem with the TSO'
+---
 
 Peter Oundjian calls it "surely one of the most remarkable concerts of the year," the TSO's current program of Alexina Louie's *Triple Concerto for Three Violins and Orchestra* (a world premiere and TSO co-commission) and Brahms' iconic *Ein deutsches Requiem*, Op. 45. It's not totally clear what the link between the two pieces is, but when it comes to hearing Brahms' *Requiem*, at least, I have no objections.
 

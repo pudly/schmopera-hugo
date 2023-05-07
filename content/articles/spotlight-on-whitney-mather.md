@@ -1,19 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-06-07T04:05:00-06:00"
-lastmod = "2016-07-06T16:11:00-06:00"
-preamble = "Soprano [Whitney Mather](/scene/people/whitney-mather/) is a rising singer based in Toronto. Currently in Los Angeles to participate in Songfest, where the likes of Martin Katz, Margo Garrett, and Roger Vignoles offer high-quality masterclass training to young artists, she'll head next ot the Toronto Summer Music Festival in July. She'll begin her graduate studies at the University of Toronto, and she'll appear as Cupid in Opera Atelier's production of Charpentier's *Medée* in spring, 2017.\n\nShe chats with us about the roles she covets, and the young singer's much-needed \"sense of play\"."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465293997986/2016-06-07---Whitney-Mather.jpg.jpg"
-primary_image_credit = "Photo: Whitney Taylor, En Vogue Photography "
-publishDate = "2016-06-24T21:52:00-06:00"
-related_articles = ["articles/spotlight-on-stephanie-tritchew.md","articles/spotlight-on-beth-hagerman.md","articles/spotlight-on-amanda-majeski.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/opera-atelier.md","scene/companies/university-of-toronto-opera.md"]
-related_people = ["scene/people/whitney-mather.md"]
-short_description = "&quot;You get a rare opportunity to look into someone else&#039;s mind and heart and see the world how they do and it helps me to live with a little bit more grace than I may otherwise. It is also constantly a practice of bettering one&#039;s self, not only technically and musically, but personally, and I think that the grit required to look at yourself in such a critical way can only help you to be a better person in your every day life.&quot;"
-slug = "spotlight-on-whitney-mather"
-title = "Spotlight on: Whitney Mather"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-06-07T04:05:00-06:00"
+lastmod: "2016-07-06T16:11:00-06:00"
+preamble: |-
+  Soprano [Whitney Mather](/scene/people/whitney-mather/) is a rising singer based in Toronto. Currently in Los Angeles to participate in Songfest, where the likes of Martin Katz, Margo Garrett, and Roger Vignoles offer high-quality masterclass training to young artists, she'll head next ot the Toronto Summer Music Festival in July. She'll begin her graduate studies at the University of Toronto, and she'll appear as Cupid in Opera Atelier's production of Charpentier's *Medée* in spring, 2017.
+
+  She chats with us about the roles she covets, and the young singer's much-needed "sense of play".
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465293997986/2016-06-07---Whitney-Mather.jpg.jpg
+primary_image_credit: 'Photo: Whitney Taylor, En Vogue Photography '
+publishDate: "2016-06-24T21:52:00-06:00"
+related_articles:
+- articles/spotlight-on-stephanie-tritchew.md
+- articles/spotlight-on-beth-hagerman.md
+- articles/spotlight-on-amanda-majeski.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/opera-atelier.md
+- scene/companies/university-of-toronto-opera.md
+related_people:
+- scene/people/whitney-mather.md
+short_description: '&quot;You get a rare opportunity to look into someone else&#039;s
+  mind and heart and see the world how they do and it helps me to live with a little
+  bit more grace than I may otherwise. It is also constantly a practice of bettering
+  one&#039;s self, not only technically and musically, but personally, and I think
+  that the grit required to look at yourself in such a critical way can only help
+  you to be a better person in your every day life.&quot;'
+slug: spotlight-on-whitney-mather
+title: 'Spotlight on: Whitney Mather'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

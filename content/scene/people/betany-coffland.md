@@ -1,23 +1,23 @@
-+++
-date = "2016-03-08T11:20:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-03-08T11:20:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457435904118/2016-03-08---Betany-Coffland.jpg.jpg"
-publishDate = "2016-03-08T11:20:00+00:00"
-related_companies = ["scene/companies/the-juilliard-school.md"]
-slug = "betany-coffland"
-title = "Betany Coffland"
-website = "http://www.betanycoffland.com/index.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Chloris-Floral-830014150352574/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/chlorisfloral/"
-_template = "people_single"
-+++
+---
+date: "2016-03-08T11:20:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2016-03-08T11:20:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457435904118/2016-03-08---Betany-Coffland.jpg.jpg
+publishDate: "2016-03-08T11:20:00+00:00"
+related_companies:
+- scene/companies/the-juilliard-school.md
+slug: betany-coffland
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Chloris-Floral-830014150352574/
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/chlorisfloral/
+title: Betany Coffland
+website: http://www.betanycoffland.com/index.html
+---
 
 Betany Coffland, mezzo-soprano's performances have been hailed by *Opera News* as “extremely fine” and “a joy to watch,” and her tone has been described by The San Francisco Classical Voice as "plush" and "Italianate".
 

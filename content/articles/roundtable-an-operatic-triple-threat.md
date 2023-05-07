@@ -1,18 +1,30 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Interview"
-date = "2018-03-15T20:24:00-04:00"
-lastmod = "2018-03-19T12:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521246518643/PerezBernheimVanHorn.jpg.jpg"
-primary_image_credit = "Clockwise from left: Ailyn Pérez (Dario Acosta), Christian Van Horn (Simon Pauly), and Benjamin Bernheim (Richard Boll)."
-publishDate = "2018-03-18T18:23:00-04:00"
-related_articles = ["articles/talking-with-singers-ailyn-perez.md","articles/talking-with-singers-christian-van-horn.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/ailyn-prez.md","scene/people/benjamin-bernheim.md","scene/people/christian-van-horn.md"]
-short_description = "Lots of laughter punctuated our shop talk and often the most memorable moments occurred during the singers&#039; natural repartee. Below is a lightly-edited collection of answers to some of my questions, which I asked over the course of an hour-long conversation. Read on for a bit of insight into these three singers&#039; lives and work."
-slug = "roundtable-an-operatic-triple-threat"
-title = "Roundtable: an operatic triple threat"
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Interview
+date: "2018-03-15T20:24:00-04:00"
+lastmod: "2018-03-19T12:48:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521246518643/PerezBernheimVanHorn.jpg.jpg
+primary_image_credit: 'Clockwise from left: Ailyn Pérez (Dario Acosta), Christian
+  Van Horn (Simon Pauly), and Benjamin Bernheim (Richard Boll).'
+publishDate: "2018-03-18T18:23:00-04:00"
+related_articles:
+- articles/talking-with-singers-ailyn-perez.md
+- articles/talking-with-singers-christian-van-horn.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/ailyn-prez.md
+- scene/people/benjamin-bernheim.md
+- scene/people/christian-van-horn.md
+short_description: Lots of laughter punctuated our shop talk and often the most memorable
+  moments occurred during the singers&#039; natural repartee. Below is a lightly-edited
+  collection of answers to some of my questions, which I asked over the course of
+  an hour-long conversation. Read on for a bit of insight into these three singers&#039;
+  lives and work.
+slug: roundtable-an-operatic-triple-threat
+title: 'Roundtable: an operatic triple threat'
+---
 
 *Lyric Opera of Chicago is currently wrapping up its 2017/18 mainstage opera season with an innovative new production of Gounod's *Faust* under the direction of Kevin Newbury and maestro Emmanuel Villaume*. 
 

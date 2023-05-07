@@ -1,17 +1,51 @@
-+++
-author = ["authors/olivier-bergeron.md"]
-categories = "Interview"
-date = "2015-09-02T12:35:00-04:00"
-lastmod = "2015-09-07T15:01:00-04:00"
-preamble = "It is no wonder that opera collectors call Romanian soprano Virginia Zeani \"l’Assoluta.\" \n\nIn May 1948, Zeani made her stage début in Bologna, singing Violetta in *La traviata*; she went on as a last minute replacement, never having sung with orchestra and with no rehearsals. In her career, she would go on to sing 648 times. Throughout her illustrious 34 year career, Zeani's repertoire covered 69 operas and a wide range of roles, including Lucia di Lammermoor, Gilda, Elvira (*I puritani*), Senta, Aida and Magda Sorel (*The Consul*). She sang all three female leads of *The Tales of Hoffmann* in the same performance, and in 1957 she was the premiere Blanche de la Force in Poulenc’s *Dialogues des Carmélites* in Milan. \n\nZeani sang the stages of the Metropolitan Opera, La Scala, l’Opéra de Paris, Covent Garden and L’Opera di Roma and to sing alongside the likes of Beniamino Gigli, Franco Corelli, Alfredo Kraus, Luciano Pavarotti, Plácido Domingo, Shirley Verrett and Grace Bumbry, to name a few. \n\nAfter retiring from the stage in 1982, Zeani began teaching, and she held a studio at Indiana University with her husband, bass Nicola Rossi Lemeni, for 22 years. Many illustrious singers have come out of her studio, including Sylvia McNair, Angela Brown, Elizabeth Futral, Elīna Garanča, Vivica Genaux and Ailyn Perez. \n\nAt 89 years of age, her ravishing green eyes light up to the slightest mention of music and her warm heart is always ready to share its wisdom with whoever is willing to listen."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441294514979/Aida-Montr%C3%A9al-1965-(1)Square.jpg.jpg"
-publishDate = "2015-09-07T11:53:00-04:00"
-related_articles = ["articles/he-saidshe-said-aprile-millo-at-trinity-st-pauls.md","articles/talking-with-singers-othalie-graham.md","articles/talking-with-singers-gregory-kunde.md","articles/bronx-opera-50-years-counting.md","articles/lifelike-theatre-at-luminato-the-story-of-charlotte-salomon.md","articles/an-isolated-tenor-in-an-operatic-masterwork-les-contes-dhoffmann.md","articles/a-butterfly-but-not-from-puccini.md","articles/talking-with-singers-adela-zaharia.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md"]
-short_description = "It is no wonder that opera collectors call Romanian soprano Virginia Zeani &quot;l’Assoluta.&quot; In May 1948, Zeani made her stage début in Bologna, singing Violetta in La traviata; she went on as a last minute replacement, never having sung with orchestra and with no rehearsals. In her career, she would go on to sing 648 times."
-slug = "interviewing-the-greats-virginia-zeani"
-title = "Interviewing the Greats: Virginia Zeani"
-+++
+---
+author:
+- authors/olivier-bergeron.md
+categories: Interview
+date: "2015-09-02T12:35:00-04:00"
+lastmod: "2015-09-07T15:01:00-04:00"
+preamble: "It is no wonder that opera collectors call Romanian soprano Virginia Zeani
+  \"l’Assoluta.\" \n\nIn May 1948, Zeani made her stage début in Bologna, singing
+  Violetta in *La traviata*; she went on as a last minute replacement, never having
+  sung with orchestra and with no rehearsals. In her career, she would go on to sing
+  648 times. Throughout her illustrious 34 year career, Zeani's repertoire covered
+  69 operas and a wide range of roles, including Lucia di Lammermoor, Gilda, Elvira
+  (*I puritani*), Senta, Aida and Magda Sorel (*The Consul*). She sang all three female
+  leads of *The Tales of Hoffmann* in the same performance, and in 1957 she was the
+  premiere Blanche de la Force in Poulenc’s *Dialogues des Carmélites* in Milan. \n\nZeani
+  sang the stages of the Metropolitan Opera, La Scala, l’Opéra de Paris, Covent Garden
+  and L’Opera di Roma and to sing alongside the likes of Beniamino Gigli, Franco Corelli,
+  Alfredo Kraus, Luciano Pavarotti, Plácido Domingo, Shirley Verrett and Grace Bumbry,
+  to name a few. \n\nAfter retiring from the stage in 1982, Zeani began teaching,
+  and she held a studio at Indiana University with her husband, bass Nicola Rossi
+  Lemeni, for 22 years. Many illustrious singers have come out of her studio, including
+  Sylvia McNair, Angela Brown, Elizabeth Futral, Elīna Garanča, Vivica Genaux and
+  Ailyn Perez. \n\nAt 89 years of age, her ravishing green eyes light up to the slightest
+  mention of music and her warm heart is always ready to share its wisdom with whoever
+  is willing to listen."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441294514979/Aida-Montr%C3%A9al-1965-(1)Square.jpg.jpg
+publishDate: "2015-09-07T11:53:00-04:00"
+related_articles:
+- articles/he-saidshe-said-aprile-millo-at-trinity-st-pauls.md
+- articles/talking-with-singers-othalie-graham.md
+- articles/talking-with-singers-gregory-kunde.md
+- articles/bronx-opera-50-years-counting.md
+- articles/lifelike-theatre-at-luminato-the-story-of-charlotte-salomon.md
+- articles/an-isolated-tenor-in-an-operatic-masterwork-les-contes-dhoffmann.md
+- articles/a-butterfly-but-not-from-puccini.md
+- articles/talking-with-singers-adela-zaharia.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/teatro-alla-scala.md
+short_description: It is no wonder that opera collectors call Romanian soprano Virginia
+  Zeani &quot;l’Assoluta.&quot; In May 1948, Zeani made her stage début in Bologna,
+  singing Violetta in La traviata; she went on as a last minute replacement, never
+  having sung with orchestra and with no rehearsals. In her career, she would go on
+  to sing 648 times.
+slug: interviewing-the-greats-virginia-zeani
+title: 'Interviewing the Greats: Virginia Zeani'
+---
 
 #### 1. How did you find yourself, having been born in a small village in Transylvania, to sing on some of the greatest stages around the world?
 

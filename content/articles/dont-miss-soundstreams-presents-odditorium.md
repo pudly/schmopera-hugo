@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2017-03-01T15:47:00+00:00"
-lastmod = "2017-03-02T20:17:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488445925891/2017-03-02---CarlaHuhtanen.jpg.jpg"
-publishDate = "2017-03-02T09:12:00+00:00"
-related_articles = ["articles/in-review-squeezebox.md","articles/in-review-julie.md"]
-related_companies = ["scene/companies/soundstreams.md"]
-related_people = ["scene/people/carla-huhtanen.md","scene/people/andrea-ludwig.md"]
-short_description = "Amente-Nufe, Crown of Ariadne, Tantrika, and La testa d&#039;Adriana are the four selections from R. Murray Schafer&#039;s 12-piece musical/theatrical cycle, Patria, which will be presented in a newly-realized performance directed by Chris Abraham, with music direction by the contemporary musical guru himself, Dr. John Hess."
-slug = "dont-miss-soundstreams-presents-odditorium"
-title = "Don&#039;t miss: Soundstreams presents Odditorium"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2017-03-01T15:47:00+00:00"
+lastmod: "2017-03-02T20:17:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488445925891/2017-03-02---CarlaHuhtanen.jpg.jpg
+publishDate: "2017-03-02T09:12:00+00:00"
+related_articles:
+- articles/in-review-squeezebox.md
+- articles/in-review-julie.md
+related_companies:
+- scene/companies/soundstreams.md
+related_people:
+- scene/people/carla-huhtanen.md
+- scene/people/andrea-ludwig.md
+short_description: Amente-Nufe, Crown of Ariadne, Tantrika, and La testa d&#039;Adriana
+  are the four selections from R. Murray Schafer&#039;s 12-piece musical/theatrical
+  cycle, Patria, which will be presented in a newly-realized performance directed
+  by Chris Abraham, with music direction by the contemporary musical guru himself,
+  Dr. John Hess.
+slug: dont-miss-soundstreams-presents-odditorium
+title: 'Don&#039;t miss: Soundstreams presents Odditorium'
+---
 
 This week in Toronto, you can catch a performance of "one of the most radical and inventive Canadian works created in the past half-century", at Soundstreams' latest innovative concert, *Odditorium*, happening **March 2-5th** at Crow's Theatre, 345 Carlaw Ave.
 

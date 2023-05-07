@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-05-03T14:22:00-04:00"
-lastmod = "2015-04-27T18:05:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429836471370/Cousin-from-Nowhere-6321-1024x681.jpg.jpg"
-primary_image_credit = "Christopher Mayell and Lucia Cesaroni in TOT's Cousin from Nowhere. All photos by Emily Ding"
-publishDate = "2014-05-03T14:22:00-04:00"
-related_companies = ["scene/companies/toronto-operetta-theatre.md"]
-related_people = ["scene/people/charlotte-knight.md","scene/people/lucia-cesaroni.md","scene/people/gregory-finney.md","scene/people/christopher-mayell.md"]
-short_description = "I went to Toronto Operetta Theatre&#039;s Cousin From Nowhere, an English translation of Eduard Künneke&#039;s Das Vetter aus Dingsda. Whenever I go and hear TOT shows, I always end up hearing some new music that gets stuck in my head, sung by lovely Canadian talent. "
-slug = "in-review-cousin-from-nowhere"
-title = "In review: Cousin from Nowhere"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-05-03T14:22:00-04:00"
+lastmod: "2015-04-27T18:05:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429836471370/Cousin-from-Nowhere-6321-1024x681.jpg.jpg
+primary_image_credit: Christopher Mayell and Lucia Cesaroni in TOT's Cousin from Nowhere.
+  All photos by Emily Ding
+publishDate: "2014-05-03T14:22:00-04:00"
+related_companies:
+- scene/companies/toronto-operetta-theatre.md
+related_people:
+- scene/people/charlotte-knight.md
+- scene/people/lucia-cesaroni.md
+- scene/people/gregory-finney.md
+- scene/people/christopher-mayell.md
+short_description: 'I went to Toronto Operetta Theatre&#039;s Cousin From Nowhere,
+  an English translation of Eduard Künneke&#039;s Das Vetter aus Dingsda. Whenever
+  I go and hear TOT shows, I always end up hearing some new music that gets stuck
+  in my head, sung by lovely Canadian talent. '
+slug: in-review-cousin-from-nowhere
+title: 'In review: Cousin from Nowhere'
+---
 
 I went to [Toronto Operetta Theatre](http://www.torontooperetta.com/)'s _Cousin From Nowhere_, an English translation of Eduard Künneke's [_Das Vetter aus Dingsda_](http://de.wikipedia.org/wiki/Der_Vetter_aus_Dingsda). Whenever I go and hear TOT shows, I always end up hearing some new music that gets stuck in my head, sung by lovely Canadian talent. And _Cousin From Nowhere_, directed by [Guillermo Silva-Marin](http://www.silva-marin.com/) did exactly that. The can't-help-but-smile tunes got to me right away (conducted by [Jurgen Petrenko](http://www.jurgenpetrenko.com/biography.htm)), and the set made me think of old musicals like _My Fair Lady_ and _Carousel_. Kitschy, perhaps; but definitely _charmant_.
 

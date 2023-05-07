@@ -1,15 +1,22 @@
-+++
-author = ["authors/megan-moore.md","authors/caitleen-kahn.md","authors/florence-mak.md"]
-categories = "News"
-date = "2016-11-18T10:12:00+00:00"
-lastmod = "2016-11-19T12:57:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479464263468/2016-11-16---Lynx-Project.jpg.jpg"
-publishDate = "2016-11-19T12:52:00+00:00"
-related_companies = ["scene/companies/lynx-project.md"]
-short_description = "Hearing Ryan describe his greatest dream moved the Lynx team to find a way to use art song to elevate his voice and others like his. &quot;I want to see the world not by the whole, but by the all too beautiful small things.&quot; - Ryan, age 17."
-slug = "art-song-initiative-commissions-texts-by-children-with-autism"
-title = "Art song initiative commissions texts by children with autism"
-+++
+---
+author:
+- authors/megan-moore.md
+- authors/caitleen-kahn.md
+- authors/florence-mak.md
+categories: News
+date: "2016-11-18T10:12:00+00:00"
+lastmod: "2016-11-19T12:57:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479464263468/2016-11-16---Lynx-Project.jpg.jpg
+publishDate: "2016-11-19T12:52:00+00:00"
+related_companies:
+- scene/companies/lynx-project.md
+short_description: Hearing Ryan describe his greatest dream moved the Lynx team to
+  find a way to use art song to elevate his voice and others like his. &quot;I want
+  to see the world not by the whole, but by the all too beautiful small things.&quot;
+  - Ryan, age 17.
+slug: art-song-initiative-commissions-texts-by-children-with-autism
+title: Art song initiative commissions texts by children with autism
+---
 
 Lynx Project, an art song initiative, is thrilled to announce their 2017 Autism Advocacy Project. A team of five composers, Joel David Balzun, Emily Cooley, Juliana Hall, Aristéa Mellos, and Travis Reynolds, will set the words of four young men to music. What makes this collaboration unique is that these writers, between ages 12-17, have autism and are primarily non-verbal. 
 

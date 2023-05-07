@@ -1,22 +1,30 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-02-13T17:11:56+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "ENO's production of _Akhnaten_ runs through 7 March. For details and tickets, [click here](https://www.eno.org/whats-on/akhnaten/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550078281/media/2019/02/sqENOAkhnaten2019KatieStevensonandAnthonyRothCostanzoJaneHobson.jpg"
-primary_image_credit = "Anthony Roth Costanzo and Katie Stevenson in Akhnaten, English National Opera, 2019. Photo: Jane Hobson."
-related_articles = ["articles/transparent-glass-the-composer-turns-80.md"]
-related_companies = ["scene/companies/los-angeles-opera.md", "scene/companies/english-national-opera.md"]
-related_people = ["scene/people/anthony-roth-costanzo.md"]
-short_description = "Every bit of this production was beautifully and intricately crafted; from the dazzling, elaborate costumes, to the evocative colour palette, it was a fully immersive experience that was moving in the most unexpected ways."
-slug = "a-moving-spectacle-akhnaten"
-title = "A moving spectacle: Akhnaten"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-02-13T17:11:56+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ENO's production of _Akhnaten_ runs through 7 March. For details and tickets,
+  [click here](https://www.eno.org/whats-on/akhnaten/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550078281/media/2019/02/sqENOAkhnaten2019KatieStevensonandAnthonyRothCostanzoJaneHobson.jpg
+primary_image_credit: 'Anthony Roth Costanzo and Katie Stevenson in Akhnaten, English
+  National Opera, 2019. Photo: Jane Hobson.'
+related_articles:
+- articles/transparent-glass-the-composer-turns-80.md
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/anthony-roth-costanzo.md
+short_description: Every bit of this production was beautifully and intricately crafted;
+  from the dazzling, elaborate costumes, to the evocative colour palette, it was a
+  fully immersive experience that was moving in the most unexpected ways.
+slug: a-moving-spectacle-akhnaten
+title: 'A moving spectacle: Akhnaten'
+youtube_url: ""
+---
 [_Akhnaten_](https://www.eno.org/whats-on/akhnaten/) (1983) is the final in Philip Glass's trio of "Portrait" operas and centres around the 17-year reign of 18th-Dynasty Egyptian Pharaoh Akhnaten. The operas each focus on a great historical figure while exploring the fields of science, politics and in the case of _Akhnaten_, religion. A worshipper of the sun god, Aten, Akhnaten moved Egypt towards a quasi-monotheistic view which it has been speculated, may have partially inspired the monotheistic religion now known as Judaism. In this Olivier Award-winning joint production between the ENO, LA Opera, and Improbable, Glass's mesmerizing score is brought to life in a transcendent and moving spectacle.
 
 <figure data-type="image">

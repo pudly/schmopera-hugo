@@ -1,18 +1,33 @@
-+++
-author = ["authors/erik-flaten.md"]
-categories = "Review"
-date = "2017-09-17T18:25:00-04:00"
-lastmod = "2017-09-17T19:31:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505690234376/2017-09-17---square---04wsnbm_dm.jpg.jpg"
-primary_image_credit = "A sensitive soul, John Mack’s (baritone Adam Richardson) body houses a delicate spirit. Photo by Dominic M. Mercier."
-publishDate = "2017-09-17T19:31:00-04:00"
-related_articles = ["articles/a-refreshing-gateway-drug-the-magic-flute-at-o17.md","articles/a-stunning-premiere-elizabeth-cree.md"]
-related_companies = ["scene/companies/opera-philadelphia.md"]
-related_people = ["scene/people/lauren-whitehead.md","scene/people/kirstin-chvez.md","scene/people/john-holiday.md","scene/people/daniel-shirley.md","scene/people/adam-richardson.md","scene/people/aubrey-allicock.md"]
-short_description = "We Shall Not Be Moved asks hard questions about race, gender, flaws in our education system, and more. This work brings up parts of history that many would have us sweep under the rug. Great art has the ability to teach us the difficult lessons our education has deliberately excluded. After the performance was over, Bill T. Jones said that he wanted this opera to start a conversation."
-slug = "conversations-we-shall-not-be-moved"
-title = "Conversations &quot;of the most urgent nature&quot;: We Shall Not Be Moved"
-+++
+---
+author:
+- authors/erik-flaten.md
+categories: Review
+date: "2017-09-17T18:25:00-04:00"
+lastmod: "2017-09-17T19:31:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505690234376/2017-09-17---square---04wsnbm_dm.jpg.jpg
+primary_image_credit: A sensitive soul, John Mack’s (baritone Adam Richardson) body
+  houses a delicate spirit. Photo by Dominic M. Mercier.
+publishDate: "2017-09-17T19:31:00-04:00"
+related_articles:
+- articles/a-refreshing-gateway-drug-the-magic-flute-at-o17.md
+- articles/a-stunning-premiere-elizabeth-cree.md
+related_companies:
+- scene/companies/opera-philadelphia.md
+related_people:
+- scene/people/lauren-whitehead.md
+- scene/people/kirstin-chvez.md
+- scene/people/john-holiday.md
+- scene/people/daniel-shirley.md
+- scene/people/adam-richardson.md
+- scene/people/aubrey-allicock.md
+short_description: We Shall Not Be Moved asks hard questions about race, gender, flaws
+  in our education system, and more. This work brings up parts of history that many
+  would have us sweep under the rug. Great art has the ability to teach us the difficult
+  lessons our education has deliberately excluded. After the performance was over,
+  Bill T. Jones said that he wanted this opera to start a conversation.
+slug: conversations-we-shall-not-be-moved
+title: 'Conversations &quot;of the most urgent nature&quot;: We Shall Not Be Moved'
+---
 
 Sometimes opera transports us to another place where we can temporarily forget about the troubles of our world. Other times, our beloved art form forces us to confront some of the most prevalent controversies of our time. [*We Shall Not Be Moved*](https://www.operaphila.org/whats-on/on-stage-2017-2018/we-shall-not-be-moved/) premiered last night at the Wilma Theater, marking the third night and second world premiere of Opera Philadelphia's O17 festival. Brought to us by a true powerhouse creative team, which includes composer [Daniel Bernard Roumain](/truth-as-reconciliation-we-shall-not-be-moved/), librettist Marc Bamuthi Joseph, and legendary director, choreographer, and dramaturge Bill T. Jones, this groundbreaking and fearless work defies conventional opera in every aspect. As an innovative new piece, *We Shall Not Be Moved* takes on many of today's social justice issues, and boldly brings them to the forefront. 
 

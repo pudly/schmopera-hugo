@@ -1,17 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2015-11-27T14:21:00-05:00"
-lastmod = "2017-05-12T15:56:00-04:00"
-preamble = "For good reason, Don Giovanni is one of the most coveted baritone roles in opera. His aria, \"Deh vieni alla finestra,\" is an incredible scene, a picture of Don Juan in action, unencumbered by angry exes or jealous fiancés. He's serenading a nameless woman (Elvira's maid, technically), in that truly Spanish style, with a guitar outside her window. Mozart's music is perfect and Da Ponte's words are sexy, and the simplicity of it all gives us a chance to hear Giovanni do the thing he does better than anyone in the world. \n\nBaritones, this pick-up artistry is for you to master (at least in this aria), and this harder-than-it-looks aria is one to take to a voice teacher. In the meantime, here are a few ways to get a head start on the the tricky details. Follow along in the excerpts below, or starting on page 186 of [this score](http://javanese.imslp.info/files/imglnks/usimg/1/1a/IMSLP68957-PMLP36804-Mozart_-_Don_Giovanni_it-eng_Vocal_Score.pdf)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494618996268/2017-05-12---Window.jpg.jpg"
-publishDate = "2015-11-27T16:38:00-05:00"
-related_articles = ["articles/aria-guides-the-counts-aria.md", "articles/aria-guides-quando-men-vo.md", "articles/aria-guides-schweig-damit-dich-niemand-warnt.md"]
-short_description = "For good reason, Don Giovanni is one of the most coveted baritone roles in opera. His aria, &quot;Deh vieni alla finestra,&quot; is an incredible scene, a picture of Don Juan in action, unencumbered by angry exes or jealous fiancés. He&#039;s serenading a nameless woman (Elvira&#039;s maid, technically), in that truly Spanish style, with a guitar outside her window."
-slug = "aria-guides-deh-vieni-alla-finestra"
-title = "Aria guides: \"Deh vieni alla finestra\""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2015-11-27T14:21:00-05:00"
+lastmod: "2017-05-12T15:56:00-04:00"
+preamble: "For good reason, Don Giovanni is one of the most coveted baritone roles
+  in opera. His aria, \"Deh vieni alla finestra,\" is an incredible scene, a picture
+  of Don Juan in action, unencumbered by angry exes or jealous fiancés. He's serenading
+  a nameless woman (Elvira's maid, technically), in that truly Spanish style, with
+  a guitar outside her window. Mozart's music is perfect and Da Ponte's words are
+  sexy, and the simplicity of it all gives us a chance to hear Giovanni do the thing
+  he does better than anyone in the world. \n\nBaritones, this pick-up artistry is
+  for you to master (at least in this aria), and this harder-than-it-looks aria is
+  one to take to a voice teacher. In the meantime, here are a few ways to get a head
+  start on the the tricky details. Follow along in the excerpts below, or starting
+  on page 186 of [this score](http://javanese.imslp.info/files/imglnks/usimg/1/1a/IMSLP68957-PMLP36804-Mozart_-_Don_Giovanni_it-eng_Vocal_Score.pdf)."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494618996268/2017-05-12---Window.jpg.jpg
+publishDate: "2015-11-27T16:38:00-05:00"
+related_articles:
+- articles/aria-guides-the-counts-aria.md
+- articles/aria-guides-quando-men-vo.md
+- articles/aria-guides-schweig-damit-dich-niemand-warnt.md
+short_description: For good reason, Don Giovanni is one of the most coveted baritone
+  roles in opera. His aria, &quot;Deh vieni alla finestra,&quot; is an incredible
+  scene, a picture of Don Juan in action, unencumbered by angry exes or jealous fiancés.
+  He&#039;s serenading a nameless woman (Elvira&#039;s maid, technically), in that
+  truly Spanish style, with a guitar outside her window.
+slug: aria-guides-deh-vieni-alla-finestra
+title: 'Aria guides: "Deh vieni alla finestra"'
+---
 1. I'm a big advocate of singing pick-up notes, and this one is extra-important. Instead of just saying "Come to the window," Giovanni says "_Deh_ vieni," which is like saying "_Oh_ come," or _Please_ come..." It's the first note that the serenaded lady hears, and a good suitor sounds interested, but not desperate. Any Giovanni worth his salt knows that his easy, confident sound is more than enough.
    <figure data-type="image">
 

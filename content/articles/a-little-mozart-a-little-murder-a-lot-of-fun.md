@@ -1,15 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-07-09T16:51:00-06:00"
-lastmod = "2016-07-10T10:27:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468107270082/2016-07-09---NOS.jpg.jpg"
-publishDate = "2016-07-10T10:26:00-06:00"
-related_people = ["scene/people/joel-ivany.md","scene/people/adanya-dunn.md","scene/people/vanessa-oudereimerink.md"]
-short_description = "The audience congregates with the Marshalls as they arrive, and they follow the family inside for the gruesome discovery. As the family goes their separate ways throughout the gallery, audience members are invited to follow specific characters along their journeys. The entire show is performed twice, giving an opportunity for listeners to follow a different character the second time around, and gain some new information on the mysterious murder."
-slug = "a-little-mozart-a-little-murder-a-lot-of-fun"
-title = "A little Mozart, a little murder, a lot of fun"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-07-09T16:51:00-06:00"
+lastmod: "2016-07-10T10:27:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468107270082/2016-07-09---NOS.jpg.jpg
+publishDate: "2016-07-10T10:26:00-06:00"
+related_people:
+- scene/people/joel-ivany.md
+- scene/people/adanya-dunn.md
+- scene/people/vanessa-oudereimerink.md
+short_description: The audience congregates with the Marshalls as they arrive, and
+  they follow the family inside for the gruesome discovery. As the family goes their
+  separate ways throughout the gallery, audience members are invited to follow specific
+  characters along their journeys. The entire show is performed twice, giving an opportunity
+  for listeners to follow a different character the second time around, and gain some
+  new information on the mysterious murder.
+slug: a-little-mozart-a-little-murder-a-lot-of-fun
+title: A little Mozart, a little murder, a lot of fun
+---
 
 Over the last few seasons, [Joel Ivany](/scene/people/joel-ivany/) has been pushing the limits of what it means to mess with Mozart. The Artistic Director of [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) has written three new librettos, set to three "transladaptations" of Mozart's *Le nozze di Figaro* (*Figaro's Wedding*), *Don Giovanni* (*#UncleJohn*), and *Così fan tutte* (*A Little Too Cozy*); this summer at The Banff Centre, along with music director Miloš Repicky, Ivany has presented *No One's Safe*, a totally cool immersive theatre experience informally dubbed a "Mozart Murder Mystery Mashup".
 

@@ -1,16 +1,15 @@
-+++
-date = "2017-09-20T21:07:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-09-20T21:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546741213/media/2019/01/RomainBockler.jpg"
-primary_image_credit = "Baptiste Vignasse"
-publishDate = "2017-09-20T21:07:00-04:00"
-slug = "romain-bockler"
-title = "Romain Bockler"
-website = "http://www.romainbockler.com/"
-
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-09-20T21:07:00-04:00"
+discipline: Baritone
+lastmod: "2017-09-20T21:07:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546741213/media/2019/01/RomainBockler.jpg
+primary_image_credit: Baptiste Vignasse
+publishDate: "2017-09-20T21:07:00-04:00"
+slug: romain-bockler
+title: Romain Bockler
+website: http://www.romainbockler.com/
+---
 Romain Bockler se forme au CNSMD de Lyon où il obtient son Master avec la mention Très Bien, puis auprès de Cécile de Boever.
  
 Il se distingue lors de plusieurs Concours Internationaux : Premier prix du Concours International de Chant Baroque de Froville en 2013, Seconde Distinction à l’International Early Music Vocal Competition « Canticum Gaudium » à Poznan, et lauréat de l’Armel Opera Competition en Juin 2015, où il obtient le rôle principal dans la création scénique mondiale « Senza Sangue » (Peter Eötvös) lors de la saison 2016.

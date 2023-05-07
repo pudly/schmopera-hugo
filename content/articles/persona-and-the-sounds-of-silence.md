@@ -1,18 +1,29 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2017-11-11T14:33:00-05:00"
-lastmod = "2017-11-12T21:59:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510428422772/2017-11-11---square---persona_04pr.jpg.jpg"
-primary_image_credit = "Amanda Crider as Alma and Lacey Dorn as Elisabet in a scene from LA Opera's 2017 production of Persona. Photo: Larry Ho/LA Opera."
-publishDate = "2017-11-12T10:26:00-05:00"
-related_articles = ["articles/belle-bete-la-opera-beauty.md","articles/a-dreamy-psychological-thriller-vanessa-at-oper-frankfurt.md","articles/the-medium-opera-as-film-noir.md"]
-related_companies = ["scene/companies/los-angeles-opera.md"]
-related_people = ["scene/people/amanda-crider.md"]
-short_description = "It&#039;s Alma, played by mezzo-soprano Crider who must carry the show on her musical shoulders and she delivers a stunning performance, both as singer and as actress. Crider doesn&#039;t miss a beat capturing the emotional complexity of Alma&#039;s character while traversing the complexity of Keeril Makan&#039;s score."
-slug = "persona-and-the-sounds-of-silence"
-title = "Persona and the Sounds of Silence"
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2017-11-11T14:33:00-05:00"
+lastmod: "2017-11-12T21:59:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510428422772/2017-11-11---square---persona_04pr.jpg.jpg
+primary_image_credit: 'Amanda Crider as Alma and Lacey Dorn as Elisabet in a scene
+  from LA Opera''s 2017 production of Persona. Photo: Larry Ho/LA Opera.'
+publishDate: "2017-11-12T10:26:00-05:00"
+related_articles:
+- articles/belle-bete-la-opera-beauty.md
+- articles/a-dreamy-psychological-thriller-vanessa-at-oper-frankfurt.md
+- articles/the-medium-opera-as-film-noir.md
+related_companies:
+- scene/companies/los-angeles-opera.md
+related_people:
+- scene/people/amanda-crider.md
+short_description: It&#039;s Alma, played by mezzo-soprano Crider who must carry the
+  show on her musical shoulders and she delivers a stunning performance, both as singer
+  and as actress. Crider doesn&#039;t miss a beat capturing the emotional complexity
+  of Alma&#039;s character while traversing the complexity of Keeril Makan&#039;s
+  score.
+slug: persona-and-the-sounds-of-silence
+title: Persona and the Sounds of Silence
+---
 
 An opera about two women - one of whom doesn't sing - is a daring idea. The 1966 Ingmar Bergman film [*Persona*](https://www.laopera.org/season/1718-Season/persona/) (on which the opera is based) stars two women, one of whom doesn't speak. In the opera by composer Keeril Makan and librettist Jay Scheib, one of the lead characters is also silent, and the show becomes a musical monologue for the other. In the current [LA Opera Off Grand production](https://www.laopera.org/season/1718-Season/persona/) you have the push and pull of something that is at once a rather faithful adaptation and, at the same time, a work that is entirely original. The results are splendid.
 

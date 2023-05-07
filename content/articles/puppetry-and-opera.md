@@ -1,22 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-06-18T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Thomas Guthrie's production of _L'Orfeo_ runs [5 July](https://tickets.ncem.co.uk/en-GB/shows/monteverdi's%20l'orfeo/events) at YEMF, and [7 July](https://lso.co.uk/whats-on/icalrepeat.detail/2019/07/07/1665/-/i-fagiolini-music-theatre-for-all-l-orfeo.html) at LSO St. Luke's."
-preamble = "On [5 July at the York Early Music Festival](https://tickets.ncem.co.uk/en-GB/shows/monteverdi's%20l'orfeo/events), and [7 July at LSO St. Luke's](https://lso.co.uk/whats-on/icalrepeat.detail/2019/07/07/1665/-/i-fagiolini-music-theatre-for-all-l-orfeo.html) in London, stage director Thomas Guthrie is set to open his very special production of Monteverdi's _L'Orfeo_. In a partnership with I Fagiolini and Music and Theatre for All, Guthrie's _L'Orfeo_ uses ancient Greek mask and puppetry techniques.\n\nWe spoke with Guthrie about his fusion of opera and puppetry, and the special storytelling power that puppets have."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1560900169/media/2019/06/sqThomasGuthrie-TheresaPewal.jpg"
-primary_image_credit = "Photo: Theresa Pewal."
-related_articles = ["articles/tarrare-the-freak-i-just-want-to-be-full.md"]
-related_companies = []
-related_people = []
-short_description = "\"The biggest thing is believing yourself that the character is real, is alive. Then it draws on your own experiences, your own emotions, in order to communicate.\""
-slug = "thomas-guthrie-on-puppetry-and-opera-its-really-magical"
-title = "Thomas Guthrie on puppetry and opera: \"It's really magical.\""
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-06-18T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Thomas Guthrie's production of _L'Orfeo_ runs [5 July](https://tickets.ncem.co.uk/en-GB/shows/monteverdi's%20l'orfeo/events)
+  at YEMF, and [7 July](https://lso.co.uk/whats-on/icalrepeat.detail/2019/07/07/1665/-/i-fagiolini-music-theatre-for-all-l-orfeo.html)
+  at LSO St. Luke's.
+preamble: |-
+  On [5 July at the York Early Music Festival](https://tickets.ncem.co.uk/en-GB/shows/monteverdi's%20l'orfeo/events), and [7 July at LSO St. Luke's](https://lso.co.uk/whats-on/icalrepeat.detail/2019/07/07/1665/-/i-fagiolini-music-theatre-for-all-l-orfeo.html) in London, stage director Thomas Guthrie is set to open his very special production of Monteverdi's _L'Orfeo_. In a partnership with I Fagiolini and Music and Theatre for All, Guthrie's _L'Orfeo_ uses ancient Greek mask and puppetry techniques.
 
-+++
+  We spoke with Guthrie about his fusion of opera and puppetry, and the special storytelling power that puppets have.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1560900169/media/2019/06/sqThomasGuthrie-TheresaPewal.jpg
+primary_image_credit: 'Photo: Theresa Pewal.'
+related_articles:
+- articles/tarrare-the-freak-i-just-want-to-be-full.md
+related_companies: []
+related_people: []
+short_description: '"The biggest thing is believing yourself that the character is
+  real, is alive. Then it draws on your own experiences, your own emotions, in order
+  to communicate."'
+slug: thomas-guthrie-on-puppetry-and-opera-its-really-magical
+title: 'Thomas Guthrie on puppetry and opera: "It''s really magical."'
+youtube_url: ""
+---
 ## Why do you find puppets to be a powerful tool for opera? How do you pair puppetry with the importance of the human voice?
 
 Puppets are powerful tools for storytelling, simply because they inspire our imaginations. If they don't, they can't work. They engage us, as an audience, even though we know they aren't real, because when they are moved in a certain way, we can start to believe they are. Then we draw on our own imaginations to engage in the character, and the story being told. 

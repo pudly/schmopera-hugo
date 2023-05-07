@@ -1,28 +1,32 @@
-+++
-date = "2016-11-15T11:10:00+00:00"
-discipline = "Soprano"
-lastmod = "2016-11-15T11:22:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479208318542/2016-11-15---Brenda-Rae.jpg.jpg"
-primary_image_credit = "Kristin Hoebermann"
-related_companies = ["scene/companies/english-national-opera.md", "scene/companies/oper-frankfurt.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/staatsoper-berlin.md", "scene/companies/opera-philadelphia.md", "scene/companies/glyndebourne.md"]
-slug = "brenda-rae"
-title = "Brenda Rae"
-website = "http://www.brendarae.com/index.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/brendaraesoprano/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/braesingslalala"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/icicledove/"
-
-_template = "people_single"
-+++
+---
+date: "2016-11-15T11:10:00+00:00"
+discipline: Soprano
+lastmod: "2016-11-15T11:22:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479208318542/2016-11-15---Brenda-Rae.jpg.jpg
+primary_image_credit: Kristin Hoebermann
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/glyndebourne.md
+slug: brenda-rae
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/brendaraesoprano/?fref=ts
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/braesingslalala
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/icicledove/
+title: Brenda Rae
+website: http://www.brendarae.com/index.html
+---
 American soprano Brenda Rae is a highly sought after artist who regularly performs in many of the world’s leading opera houses, concert halls, and recital venues. At home in a wide range of repertoire, Brenda has been praised for her “tireless, golden soprano” (The Times), “dazzling, pinpoint coloratura” (Opera News), and “breathtaking mastery” (Frankfurter Rundschau).  
   
 Brenda Rae’s current season begins with one of her signature-roles, Lucia di Lammermoor, with Opera Philadelphia in a new Laurent Pelly production, followed by her Oper Zürich debut as Konstanze in Die Entführung aus dem Serail and a return to Oper Frankfurt in a role debut, Elvira in a new production of I Puritani. She then makes her much-anticipated Lyric Opera of Chicago debut as Ginevra in Ariodante and tours Europe and the United States as Semele with The English Concert and Harry Bicket, before returning to Milan’s La Scala for performances of Zerbinetta in Ariadne auf Naxos with Franz Welser-Möst. In recital, Brenda Rae will be heard at Wigmore Hall and at the Schubertiade in Hohenems. Future projects include debuts with the Metropolitan Opera, the Teatro Real in Madrid and returns to the Bayerische Staatsoper, the Wiener Staatsoper and the Hamburgische Staatsoper.  

@@ -1,22 +1,25 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2019-05-13T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "The [New York Opera Fest 2019 line-up](http://nyoperafest.com/2019/) continues through June 30."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557879697/media/2019/05/sqRJH7171-2.jpg"
-primary_image_credit = "La tragédie de Carmen, City Lyric Opera, 2019. Photo courtesy of City Lyric Opera."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "The singers playfully (or angrily) splash about, shoot each other with squirt guns and finally land dead in the (unheated) water for the violent finale."
-slug = "hearing-the-seldom-seen"
-title = "Hearing the Seldom Seen"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2019-05-13T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: The [New York Opera Fest 2019 line-up](http://nyoperafest.com/2019/) continues
+  through June 30.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1557879697/media/2019/05/sqRJH7171-2.jpg
+primary_image_credit: La tragédie de Carmen, City Lyric Opera, 2019. Photo courtesy
+  of City Lyric Opera.
+related_articles: []
+related_companies: []
+related_people: []
+short_description: The singers playfully (or angrily) splash about, shoot each other
+  with squirt guns and finally land dead in the (unheated) water for the violent finale.
+slug: hearing-the-seldom-seen
+title: Hearing the Seldom Seen
+youtube_url: ""
+---
 When an opera isn't revived very often, there's usually a good reason. Not always – sometimes it's simply because too much time has passed in this ephemeral art form. Opera companies, however, are continually searching for something rare to add some seasoning to their seasons, and that means rare titles. Under the umbrella of the [New York Opera Fest](http://nyoperafest.com/2019/), three seldom seen works were brought back from oblivion this week - featuring three different musical genres - and the results were just as diverse.
 
 The [little OPERA theatre of ny](/scene/companies/little-opera-theatre-of-ny/) (LOTNY), has done some digging and found silver, bringing back to life one of Benjamin Britten's final operas, _Owen Wingrave_ (1971). Originally written for BBC television and mostly forgotten since, it is well worth inclusion in the chamber repertory.  Britten returns to the scene of his greatest success - _The Turn of the Screw_, a ghost story based on a novella by Henry James. _Owen Wingrave_ is also the story of a haunting (also based on a work by Henry James.)  The ghosts in this opera only earn a few passing references, however, and so the dramatic ending isn't quite as frightening as it should be.  It’s one of the flaws in Myfawnwy Piper's rather surface libretto but Britten's music, as always, keeps the whole affair compelling.

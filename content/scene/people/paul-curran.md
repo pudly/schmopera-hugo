@@ -1,20 +1,30 @@
-+++
-date = "2016-07-03T11:37:00-06:00"
-discipline = "Stage director"
-lastmod = "2016-07-03T11:37:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467566469529/2016-07-03---Paul-Curran.jpg.jpg"
-primary_image_credit = "Christopher Bowen"
-publishDate = "2016-07-03T11:37:00-06:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/opera-philadelphia.md","scene/companies/welsh-national-opera.md","scene/companies/washington-national-opera.md","scene/companies/garsington-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-santa-fe-opera.md"]
-slug = "paul-curran"
-title = "Paul Curran"
-website = "http://www.paulcurrandirector.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/paulcurranopera/"
-_template = "people_single"
-+++
+---
+date: "2016-07-03T11:37:00-06:00"
+discipline: Stage director
+lastmod: "2016-07-03T11:37:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467566469529/2016-07-03---Paul-Curran.jpg.jpg
+primary_image_credit: Christopher Bowen
+publishDate: "2016-07-03T11:37:00-06:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/garsington-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-santa-fe-opera.md
+slug: paul-curran
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/paulcurranopera/
+title: Paul Curran
+website: http://www.paulcurrandirector.com/
+---
 
 Award winning director, Paul Curran, is a graduate in Directing of the National Institute of Dramatic Art, Sydney, and of the Finnish National Opera, Helsinki. 
 He was Artistic Director of the Norwegian National Opera from 2007 – 2011.

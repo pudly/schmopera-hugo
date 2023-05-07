@@ -1,19 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-09-27T16:19:00-04:00"
-lastmod = "2017-09-28T09:35:00-04:00"
-preamble = "Soprano [Jennifer Rowley](/scene/people/jennifer-rowley/) is in the middle of a three-run stretch of Puccini's *Tosca*, starting in August with The Finger Lakes Opera, and ending in January with David McVicar's new production at The Metropolitan Opera. Currently, she's in Nashville, set to open John Hoomes' production of [*Tosca* at Nashville Opera](http://www.nashvilleopera.org/tosca-copy/) on **October 5**.\n\nIt was a treat to talk with Rowley about the layers of learning that come with revisiting a role like Floria Tosca, her pre-performance routine, and what it truly means to be part of a career that is ever-changing.\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506543676931/2017-09-27---Rowley-Headshot-2017.jpg.jpg"
-primary_image_credit = "Photo: Matthew Holler Photography."
-publishDate = "2017-09-28T09:35:00-04:00"
-related_articles = ["articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md","articles/talking-with-singers-keri-alkema.md","articles/rowley-wins-the-night-in-nashville-operas-tosca.md","articles/steps-forward-for-operas-women-tosca-at-pbo.md","articles/braid-brilliant-in-tosca-role-debut.md","articles/talking-with-singers-vlada-borovko.md"]
-related_companies = ["scene/companies/nashville-opera.md"]
-related_people = ["scene/people/jennifer-rowley.md"]
-short_description = "&quot;There is always something to learn every time you do a role – from the very first time and all the times after. I find something new in the character and music every time I sing Tosca, and it astonishes me that I can add a layer to her character each and every time.&quot;"
-slug = "talking-with-singers-jennifer-rowley"
-title = "Talking with singers: Jennifer Rowley"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-09-27T16:19:00-04:00"
+lastmod: "2017-09-28T09:35:00-04:00"
+preamble: |+
+  Soprano [Jennifer Rowley](/scene/people/jennifer-rowley/) is in the middle of a three-run stretch of Puccini's *Tosca*, starting in August with The Finger Lakes Opera, and ending in January with David McVicar's new production at The Metropolitan Opera. Currently, she's in Nashville, set to open John Hoomes' production of [*Tosca* at Nashville Opera](http://www.nashvilleopera.org/tosca-copy/) on **October 5**.
+
+  It was a treat to talk with Rowley about the layers of learning that come with revisiting a role like Floria Tosca, her pre-performance routine, and what it truly means to be part of a career that is ever-changing.
+
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506543676931/2017-09-27---Rowley-Headshot-2017.jpg.jpg
+primary_image_credit: 'Photo: Matthew Holler Photography.'
+publishDate: "2017-09-28T09:35:00-04:00"
+related_articles:
+- articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md
+- articles/talking-with-singers-keri-alkema.md
+- articles/rowley-wins-the-night-in-nashville-operas-tosca.md
+- articles/steps-forward-for-operas-women-tosca-at-pbo.md
+- articles/braid-brilliant-in-tosca-role-debut.md
+- articles/talking-with-singers-vlada-borovko.md
+related_companies:
+- scene/companies/nashville-opera.md
+related_people:
+- scene/people/jennifer-rowley.md
+short_description: '&quot;There is always something to learn every time you do a role
+  – from the very first time and all the times after. I find something new in the
+  character and music every time I sing Tosca, and it astonishes me that I can add
+  a layer to her character each and every time.&quot;'
+slug: talking-with-singers-jennifer-rowley
+title: 'Talking with singers: Jennifer Rowley'
+---
 
 ## What kind of woman is Floria Tosca? Do you find there are any common misconceptions about her character?
 

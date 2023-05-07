@@ -1,16 +1,26 @@
-+++
-date = "2015-05-04T09:47:00-04:00"
-discipline = "Bass"
-lastmod = "2015-05-05T15:24:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430746941972/d9e556_5bb6d2ae731742f79424c11c9cb8d4da.jpg_srz_p_928_590_75_22_0.50_1.20_0.00_jpg_srz"
-primary_image_credit = "Shirley Suarez"
-publishDate = "2015-05-04T09:47:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/san-francisco-opera.md","scene/companies/merola-opera-program.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/seattle-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md"]
-slug = "john-relyea"
-title = "John Relyea"
-website = "http://www.johnrelyea.com/"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2015-05-04T09:47:00-04:00"
+discipline: Bass
+lastmod: "2015-05-05T15:24:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430746941972/d9e556_5bb6d2ae731742f79424c11c9cb8d4da.jpg_srz_p_928_590_75_22_0.50_1.20_0.00_jpg_srz
+primary_image_credit: Shirley Suarez
+publishDate: "2015-05-04T09:47:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/merola-opera-program.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/seattle-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/royal-opera-house.md
+- scene/companies/wiener-staatsoper.md
+slug: john-relyea
+title: John Relyea
+website: http://www.johnrelyea.com/
+---
 
 John Relyea continues to distinguish himself as one of today's finest basses.
  

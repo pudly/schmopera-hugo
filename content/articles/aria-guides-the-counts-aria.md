@@ -1,17 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2015-10-04T19:11:00-06:00"
-lastmod = "2017-06-22T21:16:00-06:00"
-preamble = "We're continuing our new series of [Aria Guides](/aria-guides-deh-vieni-non-tardar/) with more Mozart, this time for the men: baritones, it's your beloved Count's Aria from *Le nozze di Figaro*. Like all you aspiring Counts, I too love this aria to bits. It's got a recit that's both textbook and full of life. The aria is wild soliloquy, full of unnatural mood swings from a powerful man who realizes that he can't buy intelligence.\n\nFollow along with the score excerpts below, or start on page 139 of [this score](http://conquest.imslp.info/files/imglnks/usimg/8/89/IMSLP220533-SIBLEY1802.16871.abe9-39087011127240score.pdf). To request an aria guide, send us your suggestions! Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498187765453/2017-06-22---Count.jpg.jpg"
-publishDate = "2015-10-09T07:21:00-06:00"
-related_articles = ["articles/aria-guides-una-furtiva-lagrima.md", "articles/aria-guides-aprite-un-po-quegli-occhi.md", "articles/aria-guides-deh-vieni-alla-finestra.md", "articles/aria-guides-dalla-sua-pace.md", "articles/aria-guides-come-paride-vezzoso.md", "articles/aria-guides-insert-christmas-carol-here.md", "articles/aria-guides-sempre-libera.md", "articles/aria-guides-lieben-hassen.md"]
-short_description = "We're continuing our new series of Aria Guides with more Mozart, this time for the men: baritones, it's your beloved Count's Aria from Le nozze di Figaro. Like all you aspiring Counts, I too love this aria to bits. It's got a recit that's both textbook and full of life. The aria is wild soliloquy, full of unnatural mood swings from a powerful man who realizes that he can't buy intelligence."
-slug = "aria-guides-the-counts-aria"
-title = "Aria guides: the Count's Aria"
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2015-10-04T19:11:00-06:00"
+lastmod: "2017-06-22T21:16:00-06:00"
+preamble: |-
+  We're continuing our new series of [Aria Guides](/aria-guides-deh-vieni-non-tardar/) with more Mozart, this time for the men: baritones, it's your beloved Count's Aria from *Le nozze di Figaro*. Like all you aspiring Counts, I too love this aria to bits. It's got a recit that's both textbook and full of life. The aria is wild soliloquy, full of unnatural mood swings from a powerful man who realizes that he can't buy intelligence.
 
-+++
+  Follow along with the score excerpts below, or start on page 139 of [this score](http://conquest.imslp.info/files/imglnks/usimg/8/89/IMSLP220533-SIBLEY1802.16871.abe9-39087011127240score.pdf). To request an aria guide, send us your suggestions! Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498187765453/2017-06-22---Count.jpg.jpg
+publishDate: "2015-10-09T07:21:00-06:00"
+related_articles:
+- articles/aria-guides-una-furtiva-lagrima.md
+- articles/aria-guides-aprite-un-po-quegli-occhi.md
+- articles/aria-guides-deh-vieni-alla-finestra.md
+- articles/aria-guides-dalla-sua-pace.md
+- articles/aria-guides-come-paride-vezzoso.md
+- articles/aria-guides-insert-christmas-carol-here.md
+- articles/aria-guides-sempre-libera.md
+- articles/aria-guides-lieben-hassen.md
+short_description: 'We''re continuing our new series of Aria Guides with more Mozart,
+  this time for the men: baritones, it''s your beloved Count''s Aria from Le nozze
+  di Figaro. Like all you aspiring Counts, I too love this aria to bits. It''s got
+  a recit that''s both textbook and full of life. The aria is wild soliloquy, full
+  of unnatural mood swings from a powerful man who realizes that he can''t buy intelligence.'
+slug: aria-guides-the-counts-aria
+title: 'Aria guides: the Count''s Aria'
+---
 ### The Recit
 
 Baritones can find endless ways of delivering the lines in this recit; I'm likely to buy a lot of them myself. I find this recit to be a balance of speaking and singing (and some shouting); the only real "rule", in my opinion, is to find the important musical corners, and maintain some vocal integrity. To sum it up: sing first, and the drama comes out of that.

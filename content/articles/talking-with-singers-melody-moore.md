@@ -1,19 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-05-11T06:46:00-04:00"
-lastmod = "2017-08-30T13:13:00-04:00"
-preamble = "Soprano [Melody Moore](/scene/people/melody-moore/) calls the connection she has with Puccini's Floria Tosca \"incredibly strong\"; she has sung the role in Los Angeles and San Francisco, and in September she brings it to Jose Maria Condemi's production at [l'Opéra de Montréal](http://www.operademontreal.com/programmation/tosca#banner).\n\nMoore took the time to talk about some of the enviable roles she's had the chance to perform, about singing new opera, and what's left on her singing bucket list."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462963800486/2016-05-11---Melody-Moore-Chip-Gillespie.jpg.jpg"
-primary_image_credit = "Photo by Chip Gillespie."
-publishDate = "2016-05-11T10:18:00-04:00"
-related_articles = ["articles/talking-with-singers-jamie-barton.md","articles/talking-with-singers-christine-goerke.md","articles/talking-with-singers-othalie-graham.md","articles/talking-with-singers-nicole-cabell.md","articles/talking-with-singers-daniel-okulitch.md","articles/talking-with-singers-maria-mudryak.md","articles/talking-with-singers-ah-young-hong.md","articles/talking-with-singers-siobhan-stagg.md"]
-related_companies = ["scene/companies/washington-national-opera.md"]
-related_people = ["scene/people/melody-moore.md","scene/people/gregg-kallor.md"]
-short_description = "&quot;It feels like heaven to sing this music. It is a perfect &#039;lean&#039; into an orchestra that supports and urges forward. I suppose, in singing larger Puccini roles, that I began to see room for roles like Senta and Sieglinde, as did professional coaches and conductors surrounding me - who encouraged me to begin looking into Strauss, Wagner, and Janáček.&quot;"
-slug = "talking-with-singers-melody-moore"
-title = "Talking with singers: Melody Moore"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-05-11T06:46:00-04:00"
+lastmod: "2017-08-30T13:13:00-04:00"
+preamble: |-
+  Soprano [Melody Moore](/scene/people/melody-moore/) calls the connection she has with Puccini's Floria Tosca "incredibly strong"; she has sung the role in Los Angeles and San Francisco, and in September she brings it to Jose Maria Condemi's production at [l'Opéra de Montréal](http://www.operademontreal.com/programmation/tosca#banner).
+
+  Moore took the time to talk about some of the enviable roles she's had the chance to perform, about singing new opera, and what's left on her singing bucket list.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462963800486/2016-05-11---Melody-Moore-Chip-Gillespie.jpg.jpg
+primary_image_credit: Photo by Chip Gillespie.
+publishDate: "2016-05-11T10:18:00-04:00"
+related_articles:
+- articles/talking-with-singers-jamie-barton.md
+- articles/talking-with-singers-christine-goerke.md
+- articles/talking-with-singers-othalie-graham.md
+- articles/talking-with-singers-nicole-cabell.md
+- articles/talking-with-singers-daniel-okulitch.md
+- articles/talking-with-singers-maria-mudryak.md
+- articles/talking-with-singers-ah-young-hong.md
+- articles/talking-with-singers-siobhan-stagg.md
+related_companies:
+- scene/companies/washington-national-opera.md
+related_people:
+- scene/people/melody-moore.md
+- scene/people/gregg-kallor.md
+short_description: '&quot;It feels like heaven to sing this music. It is a perfect
+  &#039;lean&#039; into an orchestra that supports and urges forward. I suppose, in
+  singing larger Puccini roles, that I began to see room for roles like Senta and
+  Sieglinde, as did professional coaches and conductors surrounding me - who encouraged
+  me to begin looking into Strauss, Wagner, and Janáček.&quot;'
+slug: talking-with-singers-melody-moore
+title: 'Talking with singers: Melody Moore'
+---
 
 ## Your repertoire is a mix of coveted roles from traditional opera, as well as new opera (*The Passenger*, *Prima Donna*, *Heart of a Soldier*). Do you find any differences in the process of rehearsing and performing new versus traditional works?
 

@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2017-04-12T11:13:00+01:00"
-lastmod = "2017-04-12T13:30:00+01:00"
-preamble = "Just like any cult-like follower of an artistic genre, we spend more time than most thinking about imaginary opera character crossover stories. Would Manon and Musetta get along? Would Ellen Orford find anything to talk about with Rigoletto? And who would win in a duel: Papageno or Don Ottavio?\n\nWe've picked 5 of our favourite operatic crossovers that haven't yet happened, but probably should. If you've got more to add to the list, let us know!"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491997442962/2017-04-12---Crossover.jpg.jpg"
-publishDate = "2017-04-12T13:04:00+01:00"
-related_articles = ["articles/5-opera-mothers-from-hell.md"]
-short_description = "The combination of his belching, singing, and loud drunken soliloquies is enough to wake up the grouchy Fafner, a dragon who values his sleep. Surprisingly, Falstaff&#039;s jolly demeanour diffuses the usual rage that Fafner feels upon being woken up; the dragon takes the knight up on his offer for more wine, and the two get along famously."
-slug = "5-opera-crossovers-were-dying-to-see"
-title = "5 opera crossovers we&#039;re dying to see"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2017-04-12T11:13:00+01:00"
+lastmod: "2017-04-12T13:30:00+01:00"
+preamble: |-
+  Just like any cult-like follower of an artistic genre, we spend more time than most thinking about imaginary opera character crossover stories. Would Manon and Musetta get along? Would Ellen Orford find anything to talk about with Rigoletto? And who would win in a duel: Papageno or Don Ottavio?
+
+  We've picked 5 of our favourite operatic crossovers that haven't yet happened, but probably should. If you've got more to add to the list, let us know!
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491997442962/2017-04-12---Crossover.jpg.jpg
+publishDate: "2017-04-12T13:04:00+01:00"
+related_articles:
+- articles/5-opera-mothers-from-hell.md
+short_description: The combination of his belching, singing, and loud drunken soliloquies
+  is enough to wake up the grouchy Fafner, a dragon who values his sleep. Surprisingly,
+  Falstaff&#039;s jolly demeanour diffuses the usual rage that Fafner feels upon being
+  woken up; the dragon takes the knight up on his offer for more wine, and the two
+  get along famously.
+slug: 5-opera-crossovers-were-dying-to-see
+title: 5 opera crossovers we&#039;re dying to see
+---
 
 ## Violetta and Mimì
 

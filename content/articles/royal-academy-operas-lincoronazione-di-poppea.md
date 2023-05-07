@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-05-21T22:34:00+01:00"
-lastmod = "2016-05-22T10:39:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463868405575/2016-05-22---RAO-Poppea.jpg.jpg"
-primary_image_credit = "Photo courtesy of Robert Workman"
-publishDate = "2016-05-22T10:36:00+01:00"
-related_people = ["scene/people/emma-stannard.md","scene/people/nika-goric.md"]
-short_description = "Most importantly, not a note can go by without meaning. Monteverdi is generous with hints; he&#039;s a master of word-painting, illuminating words like &quot;sorrow&quot; and &quot;fly&quot; with musical gestures that are almost too obvious to miss. Something like Poppea almost echoes that bit by George Carlin on the blues: paraphrased, he says, &quot;it&#039;s not enough to know what notes to play, you have to know why they need to be played.&quot;"
-slug = "royal-academy-operas-lincoronazione-di-poppea"
-title = "Royal Academy Opera&#039;s L&#039;incoronazione di Poppea"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-05-21T22:34:00+01:00"
+lastmod: "2016-05-22T10:39:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463868405575/2016-05-22---RAO-Poppea.jpg.jpg
+primary_image_credit: Photo courtesy of Robert Workman
+publishDate: "2016-05-22T10:36:00+01:00"
+related_people:
+- scene/people/emma-stannard.md
+- scene/people/nika-goric.md
+short_description: 'Most importantly, not a note can go by without meaning. Monteverdi
+  is generous with hints; he&#039;s a master of word-painting, illuminating words
+  like &quot;sorrow&quot; and &quot;fly&quot; with musical gestures that are almost
+  too obvious to miss. Something like Poppea almost echoes that bit by George Carlin
+  on the blues: paraphrased, he says, &quot;it&#039;s not enough to know what notes
+  to play, you have to know why they need to be played.&quot;'
+slug: royal-academy-operas-lincoronazione-di-poppea
+title: Royal Academy Opera&#039;s L&#039;incoronazione di Poppea
+---
 
 The Royal Academy Opera just finished its performances of Monteverdi's *L'incoronazione di Poppea* this weekend, at Shoreditch Town Hall in London. It was a great reminder that, while Monteverdi's music is by no means "entry level opera", it's a fantastic pick for young singers honing their operatic skills.
 

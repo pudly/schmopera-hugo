@@ -1,24 +1,25 @@
-+++
-date = "2017-02-23T16:49:00+00:00"
-discipline = "Baritone"
-lastmod = "2017-02-23T16:49:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487868530793/2017-02-23---MorganSmith_credit_NicoHudak.jpg.jpg"
-primary_image_credit = "Nico Hudak."
-publishDate = "2017-02-23T16:49:00+00:00"
-related_companies = ["scene/companies/arizona-opera.md","scene/companies/the-dallas-opera.md"]
-slug = "morgan-smith"
-title = "Morgan Smith"
-website = "https://www.baritonemorgansmith.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/morgansmithbaritone/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/morgansmithbaritone/"
-_template = "people_single"
-+++
+---
+date: "2017-02-23T16:49:00+00:00"
+discipline: Baritone
+lastmod: "2017-02-23T16:49:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487868530793/2017-02-23---MorganSmith_credit_NicoHudak.jpg.jpg
+primary_image_credit: Nico Hudak.
+publishDate: "2017-02-23T16:49:00+00:00"
+related_companies:
+- scene/companies/arizona-opera.md
+- scene/companies/the-dallas-opera.md
+slug: morgan-smith
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/morgansmithbaritone/
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/morgansmithbaritone/
+title: Morgan Smith
+website: https://www.baritonemorgansmith.com/
+---
 
 I am from White Plains, New York, the son of a Presbyterian boy from Nashville and a Jewish girl from Manhattan. I am the third of four children, and was fortunate to have had a cello thrust in my hands at age 5. My family represented my first band, my first audience, my first collaborators.
  

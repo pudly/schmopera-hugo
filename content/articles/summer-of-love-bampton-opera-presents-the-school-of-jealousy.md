@@ -1,16 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-06-09T16:00:00-06:00"
-lastmod = "2017-06-12T22:16:00-06:00"
-preamble = "This summer, [Bampton Classical Opera](http://www.bamptonopera.org/events.htm) presents Salieri's *La scuola de' gelosi* (*The School of Jealousy*), an opera filled with the kind of history that opera fans love. The opera's 1783 Vienna performance featured singers Francesco Benucci and Nancy Storace, who would later become the first Figaro and Susanna in Mozart's *Le nozze di Figaro*. With similar titles and familiar themes, Salieri's piece was also a strong inspiration for Mozart and Da Ponte's *Così fan tutte*, or *La scuola degli amanti* (*The School of Lovers*).\n\nDirected by Jeremy Gray and conducted by Anthony Kraus, [*The School of Jealousy*](http://www.bamptonopera.org/events.htm) runs **July 21-22** at Bampton's Deanery Garden, Oxforshire, **August 28** at The Orangery Theatre, Westonbirt School, Glos, and **September 12** at St John's Smith Square, London. \n\nGray offers some fascinating insight on Salieri's opera, its connection to Mozart's work, and what audiences can expect from Bampton's touring production."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497046188068/2017-06-09---Bampton-Classical-Opera-The-School-of-Jealousy-image.jpg.jpg"
-publishDate = "2017-06-12T21:27:00-06:00"
-related_articles = ["articles/cosi-fan-tutte-misogynist-unreasonable.md"]
-short_description = "&quot;It&#039;s often blithely assumed that Mozart&#039;s great works sprang solely from his personal genius, fired by his collaboration with the quirky librettist Lorenzo da Ponte. But like many great artists, Mozart was something of a thieving magpie, and Da Ponte was more used to adapting and rewriting libretti than creating new works of his own.&quot;"
-slug = "summer-of-love-bampton-opera-presents-the-school-of-jealousy"
-title = "Summer of love: Bampton Opera presents The School of Jealousy"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-06-09T16:00:00-06:00"
+lastmod: "2017-06-12T22:16:00-06:00"
+preamble: "This summer, [Bampton Classical Opera](http://www.bamptonopera.org/events.htm)
+  presents Salieri's *La scuola de' gelosi* (*The School of Jealousy*), an opera filled
+  with the kind of history that opera fans love. The opera's 1783 Vienna performance
+  featured singers Francesco Benucci and Nancy Storace, who would later become the
+  first Figaro and Susanna in Mozart's *Le nozze di Figaro*. With similar titles and
+  familiar themes, Salieri's piece was also a strong inspiration for Mozart and Da
+  Ponte's *Così fan tutte*, or *La scuola degli amanti* (*The School of Lovers*).\n\nDirected
+  by Jeremy Gray and conducted by Anthony Kraus, [*The School of Jealousy*](http://www.bamptonopera.org/events.htm)
+  runs **July 21-22** at Bampton's Deanery Garden, Oxforshire, **August 28** at The
+  Orangery Theatre, Westonbirt School, Glos, and **September 12** at St John's Smith
+  Square, London. \n\nGray offers some fascinating insight on Salieri's opera, its
+  connection to Mozart's work, and what audiences can expect from Bampton's touring
+  production."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497046188068/2017-06-09---Bampton-Classical-Opera-The-School-of-Jealousy-image.jpg.jpg
+publishDate: "2017-06-12T21:27:00-06:00"
+related_articles:
+- articles/cosi-fan-tutte-misogynist-unreasonable.md
+short_description: '&quot;It&#039;s often blithely assumed that Mozart&#039;s great
+  works sprang solely from his personal genius, fired by his collaboration with the
+  quirky librettist Lorenzo da Ponte. But like many great artists, Mozart was something
+  of a thieving magpie, and Da Ponte was more used to adapting and rewriting libretti
+  than creating new works of his own.&quot;'
+slug: summer-of-love-bampton-opera-presents-the-school-of-jealousy
+title: 'Summer of love: Bampton Opera presents The School of Jealousy'
+---
 
 ## What should we know about an obscure opera like Salieri's *La scuola de' gelosi*?
 

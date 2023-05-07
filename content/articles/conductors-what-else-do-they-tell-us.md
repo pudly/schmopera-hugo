@@ -1,16 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-09-09T12:44:00-04:00"
-lastmod = "2015-09-11T09:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441976008909/BernsteinSquare.jpg.jpg"
-primary_image_credit = "Leonard Bernstein with the Cincinnati Symphony in 1977. Photo: James Garrett, New York Daily News via Getty Images."
-publishDate = "2015-09-11T09:08:00-04:00"
-related_articles = ["articles/potential-orchestra-mutiny-and-conductor-envy.md","articles/does-new-opera-raise-the-bar-for-performers.md","articles/new-opera-more-singer-input-needed.md","articles/watch-learn-maestros-at-work.md"]
-short_description = "When George Martin and The Beatles made Sgt. Pepper&#039;s Lonely Hearts Club Band in 1967, they made history by using the recording studio itself as a sort of &quot;instrument.&quot; Songs like &quot;A Day in the Life&quot;, or even &quot;With a Little Help from My Friends&quot; aren&#039;t easy to reproduce on a live stage, and the album isn&#039;t meant to be a preserved concert in the same way that Please Please Me is. "
-slug = "conductors-what-else-do-they-tell-us"
-title = "Conductors: what else do they tell us?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-09-09T12:44:00-04:00"
+lastmod: "2015-09-11T09:08:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441976008909/BernsteinSquare.jpg.jpg
+primary_image_credit: 'Leonard Bernstein with the Cincinnati Symphony in 1977. Photo:
+  James Garrett, New York Daily News via Getty Images.'
+publishDate: "2015-09-11T09:08:00-04:00"
+related_articles:
+- articles/potential-orchestra-mutiny-and-conductor-envy.md
+- articles/does-new-opera-raise-the-bar-for-performers.md
+- articles/new-opera-more-singer-input-needed.md
+- articles/watch-learn-maestros-at-work.md
+short_description: 'When George Martin and The Beatles made Sgt. Pepper&#039;s Lonely
+  Hearts Club Band in 1967, they made history by using the recording studio itself
+  as a sort of &quot;instrument.&quot; Songs like &quot;A Day in the Life&quot;, or
+  even &quot;With a Little Help from My Friends&quot; aren&#039;t easy to reproduce
+  on a live stage, and the album isn&#039;t meant to be a preserved concert in the
+  same way that Please Please Me is. '
+slug: conductors-what-else-do-they-tell-us
+title: 'Conductors: what else do they tell us?'
+---
 
 When George Martin and The Beatles made *Sgt. Pepper's Lonely Hearts Club Band* in 1967, they made history by using the recording studio itself as a sort of "instrument." Songs like "A Day in the Life", or even "With a Little Help from My Friends" aren't easy to reproduce on a live stage, and the album isn't meant to be a preserved concert in the same way that *Please Please Me* is. What's cool about *Sgt. Pepper* and all the inspired albums after it, is that the album itself is the medium; it's not a holding place until you can see a band live, but its own piece of art, like a novel. When you write music with the possibilities of a recording studio or other technology at your disposal, the palates of sound and rhythm can be endless; the playing field becomes exponentially immense. 
 

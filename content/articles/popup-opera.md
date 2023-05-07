@@ -1,18 +1,24 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2018-12-12T12:39:00-05:00"
-lastmod = "2018-12-12T13:36:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544636303849/sqOnSiteOpera-AmahlandtheNightVisitors01.jpg.jpg"
-primary_image_credit = "Amahl (Devin Zamir Coleman) in Amahl and the Night Visitors, On Site Opera, 2018. Photo: Pavel Antonov."
-publishDate = "2018-12-12T12:39:00-05:00"
-related_articles = ["articles/amahl-production-a-charming-gift-of-youthful-energy.md"]
-related_companies = ["scene/companies/on-site-opera.md"]
-short_description = "Menotti holds an unusual niche in musical history – he&#039;s one of the rare post-Puccini composers who continued in the romantic or verismo style while the opera world became mostly atonal and minimalist. He is also one of only a handful of composers – like Wagner – who wrote his own libretti."
-slug = "pop-up-opera"
-title = "&quot;Pop-Up Opera&quot;"
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2018-12-12T12:39:00-05:00"
+lastmod: "2018-12-12T13:36:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544636303849/sqOnSiteOpera-AmahlandtheNightVisitors01.jpg.jpg
+primary_image_credit: 'Amahl (Devin Zamir Coleman) in Amahl and the Night Visitors,
+  On Site Opera, 2018. Photo: Pavel Antonov.'
+publishDate: "2018-12-12T12:39:00-05:00"
+related_articles:
+- articles/amahl-production-a-charming-gift-of-youthful-energy.md
+related_companies:
+- scene/companies/on-site-opera.md
+short_description: Menotti holds an unusual niche in musical history – he&#039;s one
+  of the rare post-Puccini composers who continued in the romantic or verismo style
+  while the opera world became mostly atonal and minimalist. He is also one of only
+  a handful of composers – like Wagner – who wrote his own libretti.
+slug: pop-up-opera
+title: '&quot;Pop-Up Opera&quot;'
+---
 The idea of the "pop-up" restaurant or store has become part of the culture here in New York City. Thanks to On Site Opera (OSO), the city has also enjoyed "pop-up" opera in such eclectic locations as the Eldrige Street Synagogue and a Hell's Kitchen garage. Their latest, Menotti's *Amahl and the Night Visitors*, was presented at the Holy Apostles Church on Ninth Avenue for four sold-out and free-to-the-public performances (patrons were required only to bring a non-perishable food item). Although a community project to call attention to the homeless, it was anything but community theatre. 
 
 Menotti's *Amahl and the Night Visitors* was written in 1951 for a live television broadcast. For the TV-less, under-thirty generation, the nearest thing these days would be the live Broadway musicals on Fox and NBC. But those are merely revivals of shows that have already been presented on the stage.  There was a time when radio and, by extension, broadcast television, was generating so much revenue they could afford to do "crazy" things like commission original plays and operas.

@@ -1,29 +1,30 @@
-+++
-date = "2017-09-16T17:41:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-09-16T17:43:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546741484/media/2019/01/JessicaStrong.jpg"
-primary_image_credit = "Dustin Leader Photography"
-publishDate = "2017-09-16T17:41:00-04:00"
-related_companies = ["scene/companies/calgary-opera.md", "scene/companies/oper-frankfurt.md", "scene/companies/university-of-toronto-opera.md", "scene/companies/opera-nuova.md"]
-slug = "jessica-strong"
-title = "Jessica Strong"
-website = "https://www.jessicastrong.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Jessica-Strong-Soprano/136777606488207"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SopranoStrong"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/sopranostrong/"
-
-_template = "people_single"
-+++
+---
+date: "2017-09-16T17:41:00-04:00"
+discipline: Soprano
+lastmod: "2017-09-16T17:43:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546741484/media/2019/01/JessicaStrong.jpg
+primary_image_credit: Dustin Leader Photography
+publishDate: "2017-09-16T17:41:00-04:00"
+related_companies:
+- scene/companies/calgary-opera.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/university-of-toronto-opera.md
+- scene/companies/opera-nuova.md
+slug: jessica-strong
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Jessica-Strong-Soprano/136777606488207
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/SopranoStrong
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/sopranostrong/
+title: Jessica Strong
+website: https://www.jessicastrong.com/
+---
 Hailed as a “superb discovery” by Operà Magazine, Canadian soprano Jessica Strong has been praised for possessing “a powerful top, a seductive vibrato and assured coloratura” (Opera Canada).  
 
 This season Ms. Strong will return to her hometown in Winnipeg, Canada, to make her debut with Manitoba Opera as Donna Anna in _Don Giovanni_.  She also joins the Winnipeg Symphony Orchestra as the soprano soloist in Handel's _Messiah_. Recent highlights saw her debut the title role of Barber's _Vanessa,_ and star as Marta in Weinberg's rarely performed _Die Passagierin,_ both with Oper Frankfurt. She is thrilled to be a 2018 Research and Creation grant recipient from the Canada Council for the Arts, as well as a second time grant recipient from FACTOR (The Foundation Assisting Canadian Talent On Recording).

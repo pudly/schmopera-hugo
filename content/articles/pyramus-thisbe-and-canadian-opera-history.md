@@ -1,18 +1,33 @@
-+++
-author = ["authors/greg.md"]
-categories = "News"
-date = "2015-10-19T22:05:00-04:00"
-lastmod = "2015-10-20T08:31:00-04:00"
-preamble = "Photo: [Owen McCausland](/scene/people/owen-mccausland/) as Testo in *Il combattimento di Tancredi e Clorinda* from the Canadian Opera Company’s world premiere production of *Pyramus and Thisbe* (with *Lamento d’Arianna* and *Il combattimento di Tancredi e Clorinda*), 2015. Photo by Chris Hutcheson"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445307648458/PT-CH-023.jpg.jpg"
-publishDate = "2015-10-20T08:20:00-04:00"
-related_articles = ["articles/story-webs-original-romeo.md","articles/in-review-the-reimagined-winters-tale.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/krisztina-szab.md","scene/people/phillip-addis.md","scene/people/owen-mccausland.md","scene/people/johannes-debus.md","scene/people/christopher-alden.md"]
-short_description = "Sunday night I got to witness a dress rehearsal for an amazing thing happening here in Toronto. For the first time I saw a Canadian composer take a curtain call on the Canadian Opera Company stage after the performance of what will be a world premiere Canadian work."
-slug = "pyramus-thisbe-and-canadian-opera-history"
-title = "Pyramus, Thisbe, and Canadian opera history"
-+++
+---
+author:
+- authors/greg.md
+categories: News
+date: "2015-10-19T22:05:00-04:00"
+lastmod: "2015-10-20T08:31:00-04:00"
+preamble: 'Photo: [Owen McCausland](/scene/people/owen-mccausland/) as Testo in *Il
+  combattimento di Tancredi e Clorinda* from the Canadian Opera Company’s world premiere
+  production of *Pyramus and Thisbe* (with *Lamento d’Arianna* and *Il combattimento
+  di Tancredi e Clorinda*), 2015. Photo by Chris Hutcheson'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445307648458/PT-CH-023.jpg.jpg
+publishDate: "2015-10-20T08:20:00-04:00"
+related_articles:
+- articles/story-webs-original-romeo.md
+- articles/in-review-the-reimagined-winters-tale.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/krisztina-szab.md
+- scene/people/phillip-addis.md
+- scene/people/owen-mccausland.md
+- scene/people/johannes-debus.md
+- scene/people/christopher-alden.md
+short_description: Sunday night I got to witness a dress rehearsal for an amazing
+  thing happening here in Toronto. For the first time I saw a Canadian composer take
+  a curtain call on the Canadian Opera Company stage after the performance of what
+  will be a world premiere Canadian work.
+slug: pyramus-thisbe-and-canadian-opera-history
+title: Pyramus, Thisbe, and Canadian opera history
+---
 
 Sunday night I got to witness a dress rehearsal for an amazing thing happening here in Toronto. For the first time I saw a Canadian composer take a curtain call on the [Canadian Opera Company](/scene/companies/canadian-opera-company/) stage after the performance of what will be a world premiere Canadian work. 
 

@@ -1,22 +1,33 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = "2019-01-28T15:08:38+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "_Le nozze di Figaro_ runs at Florida Grand Opera though February 9. For details, [click here](https://tickets.fgo.org/Tickets/EventDetails.aspx?id=1715)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548726003/media/2019/01/sqFGODSC_5232.jpg"
-primary_image_credit = "Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol."
-related_articles = ["articles/a-luminous-lucia-at-florida-grand-opera.md"]
-related_companies = ["scene/companies/florida-grand-opera.md"]
-related_people = ["scene/people/calvin-griffin.md", "scene/people/elena-galván.md", "scene/people/lyubov-petrova.md", "scene/people/jonathan-michie.md"]
-short_description = "Florida Grand Opera's Le nozze di Figaro, which opened on January 26 at the Adrienne Arsht Centre in Miami, took an uncharacteristically introspective look at this iconic comedic favourite, in a production that asked all the right questions, but sacrificed some laughs along the way."
-slug = "the-women-rule-in-fgos-figaro"
-title = "The women rule in FGO's Figaro"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2019-01-28T15:08:38+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: _Le nozze di Figaro_ runs at Florida Grand Opera though February 9. For
+  details, [click here](https://tickets.fgo.org/Tickets/EventDetails.aspx?id=1715).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548726003/media/2019/01/sqFGODSC_5232.jpg
+primary_image_credit: 'Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris
+  Kakol.'
+related_articles:
+- articles/a-luminous-lucia-at-florida-grand-opera.md
+related_companies:
+- scene/companies/florida-grand-opera.md
+related_people:
+- scene/people/calvin-griffin.md
+- scene/people/elena-galván.md
+- scene/people/lyubov-petrova.md
+- scene/people/jonathan-michie.md
+short_description: Florida Grand Opera's Le nozze di Figaro, which opened on January
+  26 at the Adrienne Arsht Centre in Miami, took an uncharacteristically introspective
+  look at this iconic comedic favourite, in a production that asked all the right
+  questions, but sacrificed some laughs along the way.
+slug: the-women-rule-in-fgos-figaro
+title: The women rule in FGO's Figaro
+youtube_url: ""
+---
 Figaro thinks he's got it made. The Count has granted him and his fiancée the finest servants' quarters in the entire Almaviva estate, conveniently adjacent to the bedroom of the Count and Countess themselves. "Show me a better room," Figaro challenges his bride-to-be.
 
 All too often subjected to the Count's unwanted advances, and terrified by the thought of living next door to her harasser, Susanna balks at her supposed ally's failure to recognize the nefarious reason behind the Count's seeming generosity. Hands on her hips, she chides, "I am Susanna, and you are a fool!"

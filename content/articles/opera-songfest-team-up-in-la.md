@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2018-02-27T09:46:00-05:00"
-lastmod = "2018-02-27T17:23:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519742576992/sq---LA.jpg.jpg"
-publishDate = "2018-02-27T09:46:00-05:00"
-related_articles = ["articles/dont-miss-it-songfests-fastapproaching-2018-deadlines.md"]
-related_companies = ["scene/companies/songfest.md"]
-short_description = "It&#039;s an exciting step for the program, which focuses on the interpretation of art song. It&#039;s a place where voice lessons, coachings, and studio work between pianist and singer are distilled into the performing of song repertoire - a refreshing bit of clarity in the craft of communicating music and text to an audience."
-slug = "opera-songfest-team-up-in-la"
-title = "Opera &amp; Song(Fest) team up in LA"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2018-02-27T09:46:00-05:00"
+lastmod: "2018-02-27T17:23:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519742576992/sq---LA.jpg.jpg
+publishDate: "2018-02-27T09:46:00-05:00"
+related_articles:
+- articles/dont-miss-it-songfests-fastapproaching-2018-deadlines.md
+related_companies:
+- scene/companies/songfest.md
+short_description: It&#039;s an exciting step for the program, which focuses on the
+  interpretation of art song. It&#039;s a place where voice lessons, coachings, and
+  studio work between pianist and singer are distilled into the performing of song
+  repertoire - a refreshing bit of clarity in the craft of communicating music and
+  text to an audience.
+slug: opera-songfest-team-up-in-la
+title: Opera &amp; Song(Fest) team up in LA
+---
 
 Ahead of its 23rd season, [SongFest](http://www.songfest.us/) announces a new collaboration with LA Opera, launching the Marc & Eva Stern SongFest-Los Angeles Opera Fellowship Program.
 

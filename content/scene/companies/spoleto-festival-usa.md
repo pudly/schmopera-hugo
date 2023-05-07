@@ -1,32 +1,30 @@
-+++
-date = "2017-07-20T10:12:00-04:00"
-lastmod = "2017-07-20T10:12:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546480115/media/2019/01/Logo-SpoletoUSA.jpg"
-publishDate = "2017-07-20T10:12:00-04:00"
-related_people = ["scene/people/sarah-castle.md", "scene/people/philip-cokorinos.md"]
-slug = "spoleto-festival-usa"
-title = "Spoleto Festival USA"
-type_of_company = "Opera Festival"
-website = "https://spoletousa.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/SpoletoFestivalUSA/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/spoletofestival"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/spoletofestivalusa/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/SpoletoFestivalUSA"
-
-_template = "company_single"
-+++
+---
+date: "2017-07-20T10:12:00-04:00"
+lastmod: "2017-07-20T10:12:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546480115/media/2019/01/Logo-SpoletoUSA.jpg
+publishDate: "2017-07-20T10:12:00-04:00"
+related_people:
+- scene/people/sarah-castle.md
+- scene/people/philip-cokorinos.md
+slug: spoleto-festival-usa
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/SpoletoFestivalUSA/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/spoletofestival
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/spoletofestivalusa/
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/SpoletoFestivalUSA
+title: Spoleto Festival USA
+type_of_company: Opera Festival
+website: https://spoletousa.org/
+---
 For 17 days and nights each spring, Spoleto Festival USA fills Charleston, South Carolina’s historic theaters, churches, and outdoor spaces with performances by renowned artists as well as emerging performers in opera; theater; dance; and chamber, symphonic, choral, and jazz music. Now approaching its 42nd season, Spoleto Festival USA is internationally recognized as America’s premier performing arts festival.
 
 ### Mission

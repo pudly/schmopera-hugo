@@ -1,16 +1,20 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = "2018-04-16T12:57:00-04:00"
-lastmod = "2018-04-17T20:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897687427/sqOmahaOne180409ProvingUp4549.jpg.jpg"
-primary_image_credit = "Proving Up, Opera Omaha, 2018. Photo: James Matthew Daniel."
-publishDate = "2018-04-17T20:03:00-04:00"
-related_articles = ["articles/as-one-they-both-took-risks-that-paid-off.md"]
-short_description = "Personally, I felt like The Sodbuster was more of a symbolic spectre of death. Death must have been a powerful presence among settlers. It was an extremely perilous way of life, and people died frequently, often isolated and unknown. "
-slug = "confusing-creepy-proving-up"
-title = "Confusing &amp; creepy: Proving Up"
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2018-04-16T12:57:00-04:00"
+lastmod: "2018-04-17T20:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897687427/sqOmahaOne180409ProvingUp4549.jpg.jpg
+primary_image_credit: 'Proving Up, Opera Omaha, 2018. Photo: James Matthew Daniel.'
+publishDate: "2018-04-17T20:03:00-04:00"
+related_articles:
+- articles/as-one-they-both-took-risks-that-paid-off.md
+short_description: 'Personally, I felt like The Sodbuster was more of a symbolic spectre
+  of death. Death must have been a powerful presence among settlers. It was an extremely
+  perilous way of life, and people died frequently, often isolated and unknown. '
+slug: confusing-creepy-proving-up
+title: 'Confusing &amp; creepy: Proving Up'
+---
 
 *Little House on the Prairie* meets *The Shining*. This phrase truly encapsulated the visceral experience that is Opera Omaha's production of *Proving Up*. Composer Missy Mazzoli and librettist Royce Vavrek have crafted an opera that captures the dark side of the American dream that is so often glossed over. Based on the short story by Karen Russell, *Proving Up* focuses on settlers who struggle against adversity, work hard, and still do not succeed. This goes against the vision of the American West that has been idealized for years, but let's be real. For every pioneer that beat the odds, there had to be countless others that failed miserably. (Hell, I can't even make it through The Oregon Trail game without dying of dysentery!)
 

@@ -1,19 +1,21 @@
-+++
-date = "2016-05-19T11:16:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-05-19T11:16:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463652955487/2016-05-19---Stephanie-Windsor-Lewis.jpg.jpg"
-publishDate = "2016-05-19T11:16:00+01:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/the-metropolitan-opera.md"]
-slug = "stephanie-windsorlewis"
-title = "Stephanie Windsor-Lewis"
-website = "http://www.stephaniewindsorlewis.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/StephanieWL4"
-_template = "people_single"
-+++
+---
+date: "2016-05-19T11:16:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2016-05-19T11:16:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463652955487/2016-05-19---Stephanie-Windsor-Lewis.jpg.jpg
+publishDate: "2016-05-19T11:16:00+01:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/the-metropolitan-opera.md
+slug: stephanie-windsorlewis
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/StephanieWL4
+title: Stephanie Windsor-Lewis
+website: http://www.stephaniewindsorlewis.com/
+---
 
 British mezzo-soprano, Stephanie Windsor-Lewis, completed her studies as a young artist at the Teatro del Maggio Musicale Fiorentino, and at the Teatro Comunale di Bologna. Prior to this she studied at the Benjamin Britten International Opera School at the Royal College of Music with Ryland Davies and Tim Evans-Jones.
  

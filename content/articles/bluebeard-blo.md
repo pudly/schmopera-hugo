@@ -1,22 +1,32 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2023-03-23T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Boston Lyric Opera's production of [_Bluebeard's Castle_ and _Four Songs_ by Alma Mahler](https://blo.org/bluebeard) runs through March 26."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679618667/media/2023/03/sq_BLO_Bluebeard_Judith_Naomi_Louisa_O_Connell_comes_to_terms_with_her_potential_fate_in_BLO_s_Bluebeard_s_Castle_Four_Songs_sleafk.jpg"
-primary_image_credit = "Naomi Louisa O'Connell (Judith) in Boston Lyric Opera's production of Bartók's \"Bluebeard's Castle\" and Alma Mahler's \"Four Songs\", 2023. Photo by Liza Voll."
-related_articles = ["articles/in-review-bluebeards-castle-erwartung.md"]
-related_companies = ["scene/companies/boston-lyric-opera-1.md"]
-related_people = ["scene/people/naomi-louisa-o-connell.md", "scene/people/ryan-mckinny.md"]
-short_description = "The last of the four songs is actually quite dark in a way that fits the quizzically gothic ending of Bluebeard's Castle pretty perfectly, so it ended up forming an arc that actually did somehow add to one of opera's most perfect endings."
-slug = "bluebeards-music-shines-with-almas-highlights"
-title = "Bluebeard’s music shines, with Alma’s highlights"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2023-03-23T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Boston Lyric Opera's production of [_Bluebeard's Castle_ and _Four Songs_
+  by Alma Mahler](https://blo.org/bluebeard) runs through March 26.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1679618667/media/2023/03/sq_BLO_Bluebeard_Judith_Naomi_Louisa_O_Connell_comes_to_terms_with_her_potential_fate_in_BLO_s_Bluebeard_s_Castle_Four_Songs_sleafk.jpg
+primary_image_credit: Naomi Louisa O'Connell (Judith) in Boston Lyric Opera's production
+  of Bartók's "Bluebeard's Castle" and Alma Mahler's "Four Songs", 2023. Photo by
+  Liza Voll.
+related_articles:
+- articles/in-review-bluebeards-castle-erwartung.md
+related_companies:
+- scene/companies/boston-lyric-opera-1.md
+related_people:
+- scene/people/naomi-louisa-o-connell.md
+- scene/people/ryan-mckinny.md
+short_description: The last of the four songs is actually quite dark in a way that
+  fits the quizzically gothic ending of Bluebeard's Castle pretty perfectly, so it
+  ended up forming an arc that actually did somehow add to one of opera's most perfect
+  endings.
+slug: bluebeards-music-shines-with-almas-highlights
+title: Bluebeard’s music shines, with Alma’s highlights
+youtube_url: ""
+---
 Béla Bartók's _Duke Bluebeard's Castle_ is one of my favorite operas of all time: I have always loved its mysterious, colorful score, and it is one of a selection of operas I point people to when I want to introduce them to opera.
 
 So when I heard that [Boston Lyric Opera was producing it](https://blo.org/bluebeard), I was absolutely stoked. My curiosity was piqued even more when stage director Anne Bogart was brought back. After all, one of the great strengths of Bartók's opera is the way that Béla Balász' libretto maintains just the right level of ambiguity that you can play Judith and Bluebeard in any way you want, and that would play extremely well to a director whose eye for detail was instrumental in creating the vividly gendered world of BLO's 2019 production of [_The Handmaid’s Tale_](/installation-handmaids-tale-a-dramatic-chilling-staging/).

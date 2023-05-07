@@ -1,14 +1,19 @@
-+++
-date = "2016-10-27T13:44:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-10-27T13:48:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477572315404/2016-10-27---Hal-Cazalet-Feat.jpg.jpg"
-publishDate = "2016-10-27T13:48:00+01:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md","scene/companies/english-national-opera.md","scene/companies/opera-holland-park.md","scene/companies/opera-north.md"]
-slug = "hal-cazalet"
-title = "Hal Cazalet"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2016-10-27T13:44:00+01:00"
+discipline: Tenor
+lastmod: "2016-10-27T13:48:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477572315404/2016-10-27---Hal-Cazalet-Feat.jpg.jpg
+publishDate: "2016-10-27T13:48:00+01:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/glyndebourne.md
+- scene/companies/english-national-opera.md
+- scene/companies/opera-holland-park.md
+- scene/companies/opera-north.md
+slug: hal-cazalet
+title: Hal Cazalet
+---
 
 Hal Cazalet divides his time between the United States and Europe performing in Opera, Musical Theatre and Cabaret. After training at the Guildhall School of Music and Drama he went to the Juilliard Opera Centre, New York where he won the Shoshana Foundation Award.
 

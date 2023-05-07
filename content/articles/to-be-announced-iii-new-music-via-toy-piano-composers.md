@@ -1,17 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-11-13T17:19:00-05:00"
-lastmod = "2015-11-14T12:45:00-05:00"
-preamble = "[Toy Piano Composers](/scene/companies/toy-piano-composers/) is a Toronto-based collective of composers, currently in their eighth season of concerts presenting their new works. Next Saturday, November 21st, they're holding their next event, [*To Be Announced III*](https://www.facebook.com/events/1626884627575817/), a showcase of world premieres by five emerging composers, selected from their most recent call for works. Joseph Glaser, James Lowrie, Patrick McGraw, Julia Mermelstein, Matthew Tozer, and Xintong Wang will have their works premiered by the Toy Piano Composers Ensemble: Tim Crouch (flute), Anthony Thompson (clarinet), Etienne Levesque (percussion), Wesley Shen (piano), Sharon Lee (violin), Adam Scime (double bass), and Pratik Gandhi, conductor. \n\n*To Be Announced III* also features guest singers [Maureen Batt](/scene/people/maureen-batt/) and [Jesse Clarke](/scene/people/jesse-clark/), who were kind enough to give us an inside look at their process, and what's exciting about premiering new works."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447453410267/2015-11-13---TPC-Poster.jpg.jpg"
-publishDate = "2015-11-14T12:44:00-05:00"
-related_companies = ["scene/companies/toy-piano-composers.md"]
-related_people = ["scene/people/maureen-batt.md","scene/people/jesse-clark.md"]
-short_description = "Toy Piano Composers is a Toronto-based collective of composers, currently in their eighth season of concerts presenting their new works. Next Saturday, November 21st, they&#039;re holding their next event, To Be Announced III, a showcase of world premieres by five emerging composers, selected from their most recent call for works."
-slug = "to-be-announced-iii-new-music-via-toy-piano-composers"
-title = "To Be Announced III: new music via Toy Piano Composers"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-11-13T17:19:00-05:00"
+lastmod: "2015-11-14T12:45:00-05:00"
+preamble: "[Toy Piano Composers](/scene/companies/toy-piano-composers/) is a Toronto-based
+  collective of composers, currently in their eighth season of concerts presenting
+  their new works. Next Saturday, November 21st, they're holding their next event,
+  [*To Be Announced III*](https://www.facebook.com/events/1626884627575817/), a showcase
+  of world premieres by five emerging composers, selected from their most recent call
+  for works. Joseph Glaser, James Lowrie, Patrick McGraw, Julia Mermelstein, Matthew
+  Tozer, and Xintong Wang will have their works premiered by the Toy Piano Composers
+  Ensemble: Tim Crouch (flute), Anthony Thompson (clarinet), Etienne Levesque (percussion),
+  Wesley Shen (piano), Sharon Lee (violin), Adam Scime (double bass), and Pratik Gandhi,
+  conductor. \n\n*To Be Announced III* also features guest singers [Maureen Batt](/scene/people/maureen-batt/)
+  and [Jesse Clarke](/scene/people/jesse-clark/), who were kind enough to give us
+  an inside look at their process, and what's exciting about premiering new works."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447453410267/2015-11-13---TPC-Poster.jpg.jpg
+publishDate: "2015-11-14T12:44:00-05:00"
+related_companies:
+- scene/companies/toy-piano-composers.md
+related_people:
+- scene/people/maureen-batt.md
+- scene/people/jesse-clark.md
+short_description: Toy Piano Composers is a Toronto-based collective of composers,
+  currently in their eighth season of concerts presenting their new works. Next Saturday,
+  November 21st, they&#039;re holding their next event, To Be Announced III, a showcase
+  of world premieres by five emerging composers, selected from their most recent call
+  for works.
+slug: to-be-announced-iii-new-music-via-toy-piano-composers
+title: 'To Be Announced III: new music via Toy Piano Composers'
+---
 
 ## 1. How do you approach learning a brand new piece of music? 
 

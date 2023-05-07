@@ -1,18 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-06-23T22:00:00-06:00"
-lastmod = "2015-06-25T08:03:00-06:00"
-preamble = "Here at The Banff Centre, we're working on *Crush*, a new opera by composer [James Rolfe](/scene/people/james-rolfe/) and librettist [Anna Chatterton](/scene/people/anna-chatterton/). It's a fascinating piece, based on Mozart's *Don Giovanni*, this time featuring a female protagonist named Donna. I was thrilled when Anna and James offered to talks about the process of creating *Crush*. They both write eloquently about how they've collaborated on the piece; I've learned that whatever amount of work I sense has been put into writing an opera, doubling that amount is probably more accurate. "
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435240241950/IMG_20150622_095822.jpg.jpg"
-publishDate = "2015-06-25T08:00:00-06:00"
-related_articles = ["articles/more-atg-in-banff-2015.md","articles/banff-diaries-a-postlude.md","articles/breathe-the-latest-recordings-from-james-rolfe.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/the-banff-centre.md"]
-related_people = ["scene/people/james-rolfe.md","scene/people/anna-chatterton.md","scene/people/amiel-gladstone.md"]
-short_description = "Here at The Banff Centre, we&#039;re working on Crush, a new opera by composer James Rolfe and librettist Anna Chatterton. It&#039;s a fascinating piece, based on Mozart&#039;s Don Giovanni, this time featuring a female protagonist named Donna. I was thrilled when Anna and James offered to talks about the process of creating Crush. "
-slug = "james-rolfe-anna-chatterton-on-creating-crush"
-title = "James Rolfe &amp; Anna Chatterton, on creating Crush"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-06-23T22:00:00-06:00"
+lastmod: "2015-06-25T08:03:00-06:00"
+preamble: 'Here at The Banff Centre, we''re working on *Crush*, a new opera by composer
+  [James Rolfe](/scene/people/james-rolfe/) and librettist [Anna Chatterton](/scene/people/anna-chatterton/).
+  It''s a fascinating piece, based on Mozart''s *Don Giovanni*, this time featuring
+  a female protagonist named Donna. I was thrilled when Anna and James offered to
+  talks about the process of creating *Crush*. They both write eloquently about how
+  they''ve collaborated on the piece; I''ve learned that whatever amount of work I
+  sense has been put into writing an opera, doubling that amount is probably more
+  accurate. '
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435240241950/IMG_20150622_095822.jpg.jpg
+publishDate: "2015-06-25T08:00:00-06:00"
+related_articles:
+- articles/more-atg-in-banff-2015.md
+- articles/banff-diaries-a-postlude.md
+- articles/breathe-the-latest-recordings-from-james-rolfe.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-banff-centre.md
+related_people:
+- scene/people/james-rolfe.md
+- scene/people/anna-chatterton.md
+- scene/people/amiel-gladstone.md
+short_description: 'Here at The Banff Centre, we&#039;re working on Crush, a new opera
+  by composer James Rolfe and librettist Anna Chatterton. It&#039;s a fascinating
+  piece, based on Mozart&#039;s Don Giovanni, this time featuring a female protagonist
+  named Donna. I was thrilled when Anna and James offered to talks about the process
+  of creating Crush. '
+slug: james-rolfe-anna-chatterton-on-creating-crush
+title: James Rolfe &amp; Anna Chatterton, on creating Crush
+---
 
 ### How did you imagine this take on the Don Juan story, and why did you choose a female protagonist (Donna)?
 

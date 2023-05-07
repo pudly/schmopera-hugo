@@ -1,22 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2019-09-22T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "What are your Puccini tips? Leave a comment, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "Mimì's Act III aria is one of the gut-punch moments in Puccini's famed [_La bohème_](/aria-guides-mi-chiamano-mimi/). She sings it to Rodolfo right after they decide to break up. She talks about getting her things back from his place, and makes sure to say - maybe one too many times? - that they're separating without hard feelings.\n\nLyric sopranos fall easily in love with the music that Puccini writes for Mimì. As you work with your teacher on this aria, we can help you stay on track."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1568488249/media/2019/09/sqAriaGuide-Donde_sijzoy.jpg"
-primary_image_credit = ""
-related_articles = ["articles/aria-guides-mi-chiamano-mimi.md", "articles/aria-guides-je-suis-encor.md"]
-related_companies = []
-related_people = []
-short_description = "Lyric sopranos fall easily in love with the music that Puccini writes for Mimì. As you work with your teacher on this aria, we can help you stay on track."
-slug = "aria-guides-donde-lieta-usci"
-title = "Aria guides: Donde lieta uscì"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2019-09-22T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: What are your Puccini tips? Leave a comment, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+preamble: |-
+  Mimì's Act III aria is one of the gut-punch moments in Puccini's famed [_La bohème_](/aria-guides-mi-chiamano-mimi/). She sings it to Rodolfo right after they decide to break up. She talks about getting her things back from his place, and makes sure to say - maybe one too many times? - that they're separating without hard feelings.
 
-+++
+  Lyric sopranos fall easily in love with the music that Puccini writes for Mimì. As you work with your teacher on this aria, we can help you stay on track.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1568488249/media/2019/09/sqAriaGuide-Donde_sijzoy.jpg
+primary_image_credit: ""
+related_articles:
+- articles/aria-guides-mi-chiamano-mimi.md
+- articles/aria-guides-je-suis-encor.md
+related_companies: []
+related_people: []
+short_description: Lyric sopranos fall easily in love with the music that Puccini
+  writes for Mimì. As you work with your teacher on this aria, we can help you stay
+  on track.
+slug: aria-guides-donde-lieta-usci
+title: 'Aria guides: Donde lieta uscì'
+youtube_url: ""
+---
 * Simplicity is key at the start of this aria **(1)**. The range is easy, the rhythms are organic; Puccini doesn't want Mimì to give too much away just yet. Do be sure to sing the A-flat on the first part of of "**d'a**-mo-re"; it'll help your legato when you leap up to the E-flat.
 
   <figure data-type="image">

@@ -1,23 +1,26 @@
-+++
-date = "2019-02-19T00:36:53+00:00"
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550536469/media/2019/02/ZoieReams.jpg"
-primary_image_credit = "Simon Pauly."
-related_companies = ["scene/companies/des-moines-metro-opera.md", "scene/companies/wolf-trap-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/lyric-opera-of-chicago.md"]
-slug = "zoie-reams"
-title = "Zoie Reams"
-website = ""
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/mzozoie/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Mezzoie"
-
-_template = "people_single"
-+++
+---
+date: "2019-02-19T00:36:53+00:00"
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550536469/media/2019/02/ZoieReams.jpg
+primary_image_credit: Simon Pauly.
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/wolf-trap-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/lyric-opera-of-chicago.md
+slug: zoie-reams
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/mzozoie/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Mezzoie
+title: Zoie Reams
+website: ""
+---
 Mezzo-soprano Zoie Reams has been lauded by _Opera News_ for her “velvety mezzo” as well as how she “phrased with elegance and articulated coloratura nimbly.”
 
 In the 2018-19 season, Ms. Reams will make her opera debut at Lyric Opera of Chicago, singing Flora in _La Traviata_, as well as Suzuki in _Madama Butterfly_ at Opera Columbus. She will be singing the title role in Opera Louisiane’s production of _Carmen_. She will be making her company and role debut as Marget in Des Moines Metro Opera’s production of _Wozzeck._ On the symphonic front, Ms. Reams will performing Bernstein’s First Symphony, _Jeremiah_, with the Staatstheatre Cottbus Philharmonic Orchestra, as well as Handel’s _Messiah_ with the Auburn University Orchestra and the New Choral Society of Scarsdale, New York.

@@ -1,17 +1,29 @@
-+++
-author = ["authors/blanche-isral.md"]
-categories = "Review"
-date = "2018-02-26T15:30:00-05:00"
-lastmod = "2018-02-26T19:35:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519675857152/sq---image11.jpg.jpg"
-publishDate = "2018-02-26T19:35:00-05:00"
-related_articles = ["articles/clairvoyant-art-enrico-at-oper-frankfurt.md","articles/star-trek-and-the-opera.md"]
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = ["scene/people/brian-mulligan.md","scene/people/kirsten-mackinnon.md","scene/people/michael-spyres.md","scene/people/claudia-mahnke.md"]
-short_description = "In the 21st century, any production of an opera about a 15th-century colonizer is going to be about race and white guilt, whether it intends to be or not. While Kratzer adds in some key pieces of information that provide a certain degree of critical comment on the white colonial mindset, certain visual decisions throughout the production muddy that stance."
-slug = "misnomers-interstellar-sex-scenes-vasco-de-gama"
-title = "Misnomers &amp; interstellar sex scenes: Vasco de Gama"
-+++
+---
+author:
+- authors/blanche-isral.md
+categories: Review
+date: "2018-02-26T15:30:00-05:00"
+lastmod: "2018-02-26T19:35:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519675857152/sq---image11.jpg.jpg
+publishDate: "2018-02-26T19:35:00-05:00"
+related_articles:
+- articles/clairvoyant-art-enrico-at-oper-frankfurt.md
+- articles/star-trek-and-the-opera.md
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people:
+- scene/people/brian-mulligan.md
+- scene/people/kirsten-mackinnon.md
+- scene/people/michael-spyres.md
+- scene/people/claudia-mahnke.md
+short_description: In the 21st century, any production of an opera about a 15th-century
+  colonizer is going to be about race and white guilt, whether it intends to be or
+  not. While Kratzer adds in some key pieces of information that provide a certain
+  degree of critical comment on the white colonial mindset, certain visual decisions
+  throughout the production muddy that stance.
+slug: misnomers-interstellar-sex-scenes-vasco-de-gama
+title: 'Misnomers &amp; interstellar sex scenes: Vasco de Gama'
+---
 
 "Spoitus". That's the name my [friend](https://www.schmopera.com/scene/people/aj-glueckert/) came up with for the interstellar sex scenes in [Oper Frankfurt](/scene/companies/oper-frankfurt/)'s new production of Giacomo Meyerbeer's *L'Africaine/Vasco de Gama*, which premiered Sunday. Yes, it's that type of show. (Is that a type?)
 

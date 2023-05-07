@@ -1,17 +1,50 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-05-11T18:12:00+01:00"
-lastmod = "2017-03-12T15:38:00+00:00"
-preamble = "Part of our job is looking at lots and *lots* of photos of opera singers. We see their headshots in the programs at the opera, lighting up the home page of their websites, and making the rounds on Facebook after a particularly good photo shoot. So, it's hard not to notice, in the photo credits of all these headshots, that a few photographers seemed to be pretty popular among opera singers. Three of these popular photographers are [Dario Acosta](http://www.darioacosta.com/), [Bo Huang](http://www.bohuang.ca/), and [Emily Ding](http://www.emilydingphotography.com/). \n\nDario is based in New York City, and has photographed singers like [Anna Netrebko](/scene/people/anna-netrebko/), [Diana Damrau](/scene/people/diana-damrau/), and [Plácido Domingo](/scene/people/placido-domingo/). Bo Huang is based in the Toronto area, working with the likes of [Adrianne Pieczonka](/scene/people/adrianne-pieczonka/), [Simone Osborne](/scene/people/simone-osborne/), and [Krisztina Szabó](/scene/people/krisztina-szabo/). Also in Toronto, Emily Ding is an opera singer herself, and she photographs Canada's rising operatic stars ([Claire de Sévigné](/scene/people/claire-de-sevigne/), [Jessica Muirhead](/scene/people/jessica-muirhead/), [Gordon Bintner](/scene/people/gordon-bintner/)).\n\nWe reached out to these three photographers, to ask them about the unique melding of art that happens at their opera singer shoots."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489332167042/2017-03-12---Photography.jpg.jpg"
-publishDate = "2015-05-11T22:19:00+01:00"
-related_articles = ["articles/veronika-roux-opera-in-photographs.md","articles/dressing-opera-singers-chatting-with-costume-designer-meriem-bahri.md"]
-related_people = ["scene/people/krisztina-szab.md","scene/people/simone-osborne.md","scene/people/anna-netrebko.md","scene/people/adrianne-pieczonka.md","scene/people/claire-de-sevigne.md","scene/people/gordon-bintner.md","scene/people/dario-acosta.md","scene/people/emily-ding.md","scene/people/bo-huang.md"]
-short_description = "A few photographers seemed to be popular among opera singers. Three of these popular photographers are Bo Huang, Dario Acosta, and Emily Ding. Dario is based in New York City, and has photographed singers like Anna Netrebko, Diana Damrau, and Plácido Domingo. Bo Huang is based in the Toronto area, working with the likes of Adrianne Pieczonka, Simone Osborne, and Krisztina Szabó. Emily Ding is an opera singer herself, and she works with Canada&#039;s rising stars (Claire de Sévigné, Jessica Muirhead, Gordon Bintner)."
-slug = "photographing-the-opera-singer"
-title = "Photographing the opera singer"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-05-11T18:12:00+01:00"
+lastmod: "2017-03-12T15:38:00+00:00"
+preamble: "Part of our job is looking at lots and *lots* of photos of opera singers.
+  We see their headshots in the programs at the opera, lighting up the home page of
+  their websites, and making the rounds on Facebook after a particularly good photo
+  shoot. So, it's hard not to notice, in the photo credits of all these headshots,
+  that a few photographers seemed to be pretty popular among opera singers. Three
+  of these popular photographers are [Dario Acosta](http://www.darioacosta.com/),
+  [Bo Huang](http://www.bohuang.ca/), and [Emily Ding](http://www.emilydingphotography.com/).
+  \n\nDario is based in New York City, and has photographed singers like [Anna Netrebko](/scene/people/anna-netrebko/),
+  [Diana Damrau](/scene/people/diana-damrau/), and [Plácido Domingo](/scene/people/placido-domingo/).
+  Bo Huang is based in the Toronto area, working with the likes of [Adrianne Pieczonka](/scene/people/adrianne-pieczonka/),
+  [Simone Osborne](/scene/people/simone-osborne/), and [Krisztina Szabó](/scene/people/krisztina-szabo/).
+  Also in Toronto, Emily Ding is an opera singer herself, and she photographs Canada's
+  rising operatic stars ([Claire de Sévigné](/scene/people/claire-de-sevigne/), [Jessica
+  Muirhead](/scene/people/jessica-muirhead/), [Gordon Bintner](/scene/people/gordon-bintner/)).\n\nWe
+  reached out to these three photographers, to ask them about the unique melding of
+  art that happens at their opera singer shoots."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489332167042/2017-03-12---Photography.jpg.jpg
+publishDate: "2015-05-11T22:19:00+01:00"
+related_articles:
+- articles/veronika-roux-opera-in-photographs.md
+- articles/dressing-opera-singers-chatting-with-costume-designer-meriem-bahri.md
+related_people:
+- scene/people/krisztina-szab.md
+- scene/people/simone-osborne.md
+- scene/people/anna-netrebko.md
+- scene/people/adrianne-pieczonka.md
+- scene/people/claire-de-sevigne.md
+- scene/people/gordon-bintner.md
+- scene/people/dario-acosta.md
+- scene/people/emily-ding.md
+- scene/people/bo-huang.md
+short_description: A few photographers seemed to be popular among opera singers. Three
+  of these popular photographers are Bo Huang, Dario Acosta, and Emily Ding. Dario
+  is based in New York City, and has photographed singers like Anna Netrebko, Diana
+  Damrau, and Plácido Domingo. Bo Huang is based in the Toronto area, working with
+  the likes of Adrianne Pieczonka, Simone Osborne, and Krisztina Szabó. Emily Ding
+  is an opera singer herself, and she works with Canada&#039;s rising stars (Claire
+  de Sévigné, Jessica Muirhead, Gordon Bintner).
+slug: photographing-the-opera-singer
+title: Photographing the opera singer
+---
 
 ### What kind of presence do you find singers bring to a photo shoot? 
 

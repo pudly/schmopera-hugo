@@ -1,22 +1,30 @@
-+++
-author = ["authors/neil-weisensel.md"]
-categories = "Review"
-date = 2019-11-25T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Manitoba Opera's production of [_Susannah_](https://mbopera.ca/season/susannah/) is onstage through November 29."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574713480/media/2019/11/MOSusannahLaraCiekiewiczSusannah_xn8q5l.jpg"
-primary_image_credit = "Lara Ciekiewicz in the title role of Susannah, Manitoba Opera, 2019. Photo: R. Tinker."
-related_articles = ["articles/party-arias-the-traits-of-lesser-operas.md", "articles/susannah-is-the-great-original-american-opera.md"]
-related_companies = ["scene/companies/manitoba-opera.md"]
-related_people = ["scene/people/lara-ciekiewicz.md"]
-short_description = "I hope that Ciekiewicz gets many more opportunities to sing this role. You won't hear it sung better anywhere, and her outstanding dramatic ability helped us feel the heartbreak of Susannah's anguish and confusion. "
-slug = "ciekiewicz-shines-in-the-title-role-of-manitoba-operas-susannah/"
-title = "Ciekiewicz shines in the title role of Manitoba Opera's Susannah"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/neil-weisensel.md
+categories: Review
+date: "2019-11-25T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Manitoba Opera's production of [_Susannah_](https://mbopera.ca/season/susannah/)
+  is onstage through November 29.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1574713480/media/2019/11/MOSusannahLaraCiekiewiczSusannah_xn8q5l.jpg
+primary_image_credit: 'Lara Ciekiewicz in the title role of Susannah, Manitoba Opera,
+  2019. Photo: R. Tinker.'
+related_articles:
+- articles/party-arias-the-traits-of-lesser-operas.md
+- articles/susannah-is-the-great-original-american-opera.md
+related_companies:
+- scene/companies/manitoba-opera.md
+related_people:
+- scene/people/lara-ciekiewicz.md
+short_description: 'I hope that Ciekiewicz gets many more opportunities to sing this
+  role. You won''t hear it sung better anywhere, and her outstanding dramatic ability
+  helped us feel the heartbreak of Susannah''s anguish and confusion. '
+slug: ciekiewicz-shines-in-the-title-role-of-manitoba-operas-susannah/
+title: Ciekiewicz shines in the title role of Manitoba Opera's Susannah
+youtube_url: ""
+---
 Manitoba Opera's production of Carlisle Floyd's [_Susannah_](https://mbopera.ca/season/susannah/) is a thoughtful and courageous step outside the norms of the "10 most popular operas" that most  companies feel compelled to produce, in order to keep themselves afloat in the dime-squeezing world of presenting mainstage opera. By presenting this 20th-century American masterpiece, Manitoba Opera (MO) is helping lead their audience to discover important repertoire from the vast operatic canon, like Massenet's _Werther_ and Verdi's _Falstaff_ a few years back.
 
 > It's a testament to the talent in this city – and MO's willingness to hire local singers – that the show sounds so good.

@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-01-01T14:51:00-05:00"
-lastmod = "2016-01-12T10:45:00-05:00"
-preamble = "Opera and theatre are created by a huge number of people working together; on opening night, many of these people go unseen by the audience, especially if they do their job well. A fight director is one of those people; they join the rehearsal process as a specialist in staging duels, tussles, and brawls that looks like the real thing. Choreographing onstage combat can be a long and difficult task, resulting in a sequence that lasts minutes at most.\n\nWe spoke with two of these fight directors, both with experience working in opera. [Dr. John Lennox](http://www.artofcombat.org/art-of-combat---fight-directors.html) has worked as a fight director and teacher for the last 20 years, and he's the founder of [Art of Combat](http://www.artofcombat.org/), a company of fight directors that now has chapters in New York, Los Angeles, Edinburgh, and Sydney. [Meron Langsner, PhD,](http://www.meronlangsner.com/about-meron.html) works in theatre, film, and opera, as a fight director, movement specialist and educator; he's also a stage director, playwright, and author. Lennox and Langser offer up some fascinating details about what it takes to stage a fight, and how they keep everybody safe."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452480084898/2016-01-10---West-Side-Story.jpg.jpg"
-publishDate = "2016-01-12T09:00:00-05:00"
-related_articles = ["articles/the-pianists-tech-week-plight.md"]
-short_description = "Like much of rehearsing live theatre and opera, stage combat direction is one of those elements that goes unnoticed until done poorly. Enter the fight director, who specializes in staging duels, tussles, and brawls that looks like the real thing. Choreographing onstage combat can be a long and difficult task, resulting in a sequence that lasts minutes at most."
-slug = "how-its-made-stage-combat"
-title = "How it&#039;s made: stage combat"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-01-01T14:51:00-05:00"
+lastmod: "2016-01-12T10:45:00-05:00"
+preamble: |-
+  Opera and theatre are created by a huge number of people working together; on opening night, many of these people go unseen by the audience, especially if they do their job well. A fight director is one of those people; they join the rehearsal process as a specialist in staging duels, tussles, and brawls that looks like the real thing. Choreographing onstage combat can be a long and difficult task, resulting in a sequence that lasts minutes at most.
+
+  We spoke with two of these fight directors, both with experience working in opera. [Dr. John Lennox](http://www.artofcombat.org/art-of-combat---fight-directors.html) has worked as a fight director and teacher for the last 20 years, and he's the founder of [Art of Combat](http://www.artofcombat.org/), a company of fight directors that now has chapters in New York, Los Angeles, Edinburgh, and Sydney. [Meron Langsner, PhD,](http://www.meronlangsner.com/about-meron.html) works in theatre, film, and opera, as a fight director, movement specialist and educator; he's also a stage director, playwright, and author. Lennox and Langser offer up some fascinating details about what it takes to stage a fight, and how they keep everybody safe.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452480084898/2016-01-10---West-Side-Story.jpg.jpg
+publishDate: "2016-01-12T09:00:00-05:00"
+related_articles:
+- articles/the-pianists-tech-week-plight.md
+short_description: Like much of rehearsing live theatre and opera, stage combat direction
+  is one of those elements that goes unnoticed until done poorly. Enter the fight
+  director, who specializes in staging duels, tussles, and brawls that looks like
+  the real thing. Choreographing onstage combat can be a long and difficult task,
+  resulting in a sequence that lasts minutes at most.
+slug: how-its-made-stage-combat
+title: 'How it&#039;s made: stage combat'
+---
 
 ## What do you think makes the difference between an onstage fight that is so-so, versus believable?
  

@@ -1,22 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2019-10-02T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = "Two cities, and plenty to catch this fall. As you're marking your calendars, we've got a short list of must-see items - from bel canto to world premieres - based out of Boston and Toronto."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1570042046/media/2019/10/sqUpcomingFall2019_vmpoaj.jpg"
-primary_image_credit = "Clockwise from top: Teiya Kasahara for Amplified Opera; pianist Christina Petrowska Quilico; Tafelmusik Baroque Orchestra (photo: Cylla von Tiedemann); soprano Hibla Gerzmava."
-related_articles = ["articles/5-classical-voice-podcasts-to-try.md", "articles/4-ways-to-test-your-memory.md", "articles/the-opera-party-monologue.md"]
-related_companies = []
-related_people = ["scene/people/hibla-gerzmava.md", "scene/people/aria-umezawa.md", "scene/people/teiya-kasahara.md"]
-short_description = "Two cities, and plenty to catch this fall. As you're marking your calendars, we've got a short list of must-see items - from bel canto to world premieres - based out of Boston and Toronto."
-slug = "a-tale-of-two-cities-6-fall-items-to-catch-in-boston-toronto"
-title = "A tale of two cities: 6 fall items to catch in Boston & Toronto"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-10-02T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: Two cities, and plenty to catch this fall. As you're marking your calendars,
+  we've got a short list of must-see items - from bel canto to world premieres - based
+  out of Boston and Toronto.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1570042046/media/2019/10/sqUpcomingFall2019_vmpoaj.jpg
+primary_image_credit: 'Clockwise from top: Teiya Kasahara for Amplified Opera; pianist
+  Christina Petrowska Quilico; Tafelmusik Baroque Orchestra (photo: Cylla von Tiedemann);
+  soprano Hibla Gerzmava.'
+related_articles:
+- articles/5-classical-voice-podcasts-to-try.md
+- articles/4-ways-to-test-your-memory.md
+- articles/the-opera-party-monologue.md
+related_companies: []
+related_people:
+- scene/people/hibla-gerzmava.md
+- scene/people/aria-umezawa.md
+- scene/people/teiya-kasahara.md
+short_description: Two cities, and plenty to catch this fall. As you're marking your
+  calendars, we've got a short list of must-see items - from bel canto to world premieres
+  - based out of Boston and Toronto.
+slug: a-tale-of-two-cities-6-fall-items-to-catch-in-boston-toronto
+title: 'A tale of two cities: 6 fall items to catch in Boston & Toronto'
+youtube_url: ""
+---
 ## Boston Wagner Society
 
 On **October 5, 2pm** at Old South Church in Boston, [soprano Julia Rolwing and pianist Soyeon Kim](http://bostonwagnersociety.org/) offer up a recital fitting of a Wagner Society. On the programme are songs and piano solos by Wagner and Liszt, and memorable moments from _Lohengrin_, _Siegfried_, and _Tristan und Isolde_. [Tickets](https://www.eventbrite.com/e/wagner-and-liszt-tickets-63775079981) start at $10.

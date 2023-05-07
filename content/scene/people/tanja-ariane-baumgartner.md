@@ -1,23 +1,28 @@
-+++
-date = "2017-11-08T21:54:00-05:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-11-08T21:54:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510195826432/Tanja_Ariane_Baumgartner_pc_T_T_Fotografie_a_300dpi.jpg.jpg"
-publishDate = "2017-11-08T21:54:00-05:00"
-related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/deutsche-oper-berlin.md","scene/companies/salzburg-festival.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/staatsoper-berlin.md","scene/companies/royal-opera-house.md"]
-slug = "tanja-ariane-baumgartner"
-title = "Tanja Ariane Baumgartner"
-website = "https://tanjaarianebaumgartner.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/TanjaArianeBaumgartner"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Arianetanja"
-_template = "people_single"
-+++
+---
+date: "2017-11-08T21:54:00-05:00"
+discipline: Mezzo-soprano
+lastmod: "2017-11-08T21:54:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510195826432/Tanja_Ariane_Baumgartner_pc_T_T_Fotografie_a_300dpi.jpg.jpg
+publishDate: "2017-11-08T21:54:00-05:00"
+related_companies:
+- scene/companies/oper-frankfurt.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/salzburg-festival.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/royal-opera-house.md
+slug: tanja-ariane-baumgartner
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/TanjaArianeBaumgartner
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Arianetanja
+title: Tanja Ariane Baumgartner
+website: https://tanjaarianebaumgartner.com/
+---
 
 Tanja Ariane Baumgartner made her debut at Covent Garden in the summer of 2013, singing Clairon in Strauss*Cappriccio*, which was followed by Judith in Bartok's *Bluebeard’s Castle* at the Edinburgh Festival. She made her debut at the Deutsche Oper Berlin in May 2014, with Brangaene, and, during the 2014/15 season, will appear at the Hamburg State Opera and Konzertverein in Vienna for the first time. 
 

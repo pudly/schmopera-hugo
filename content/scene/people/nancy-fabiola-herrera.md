@@ -1,27 +1,34 @@
-+++
-date = "2019-01-21T21:51:34+00:00"
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548107321/media/2019/01/NancyFabiolaHerrera.jpg"
-primary_image_credit = "Fidelio Artist/Fernando Vásquez Morago"
-related_companies = ["scene/companies/gran-teatre-del-liceu.md", "scene/companies/seattle-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/opera-australia.md", "scene/companies/washington-national-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/houston-grand-opera.md"]
-slug = "nancy-fabiola-herrera"
-title = "Nancy Fabiola Herrera"
-website = "http://www.nancyfabiolaherrera.com/en"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Nancy-Fabiola-Herrera-P%C3%A1gina-Oficial-132073180161983/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/NFHerrera"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/Sundoves"
-
-_template = "people_single"
-+++
+---
+date: "2019-01-21T21:51:34+00:00"
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548107321/media/2019/01/NancyFabiolaHerrera.jpg
+primary_image_credit: Fidelio Artist/Fernando Vásquez Morago
+related_companies:
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/seattle-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opera-australia.md
+- scene/companies/washington-national-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/houston-grand-opera.md
+slug: nancy-fabiola-herrera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Nancy-Fabiola-Herrera-P%C3%A1gina-Oficial-132073180161983/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/NFHerrera
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/Sundoves
+title: Nancy Fabiola Herrera
+website: http://www.nancyfabiolaherrera.com/en
+---
 Spanish Mezzosoprano Nancy Fabiola Herrera entrances audiences and critics around the world. She stands out for the "beauty of her voice her outstanding musicality and commanding stage presence",  making the Spanish mezzo one of the most relevant artists of the opera scene today. Her "hypnotizing interpretation" of **Carmen** has made the specialized press called her **"The Carmen of the XXI Century".**
 
 Ms. Herrera enjoyed great successes on 2018, including the releases of two new recording.

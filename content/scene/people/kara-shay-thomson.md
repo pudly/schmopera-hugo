@@ -1,24 +1,28 @@
-+++
-date = "2018-09-23T15:39:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-09-23T15:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537731298274/Press_Photo.jpg.jpg"
-primary_image_credit = "Devon Cass"
-publishDate = "2018-09-23T15:39:00-04:00"
-related_companies = ["scene/companies/portland-opera.md","scene/companies/sarasota-opera.md","scene/companies/arizona-opera.md","scene/companies/utah-opera.md","scene/companies/odyssey-opera.md"]
-slug = "kara-shay-thomson"
-title = "Kara Shay Thomson"
-website = "http://karashaythomson.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/KaraShayThomson/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/TheKaraShay"
-_template = "people_single"
-+++
+---
+date: "2018-09-23T15:39:00-04:00"
+discipline: Soprano
+lastmod: "2018-09-23T15:39:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537731298274/Press_Photo.jpg.jpg
+primary_image_credit: Devon Cass
+publishDate: "2018-09-23T15:39:00-04:00"
+related_companies:
+- scene/companies/portland-opera.md
+- scene/companies/sarasota-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/utah-opera.md
+- scene/companies/odyssey-opera.md
+slug: kara-shay-thomson
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/KaraShayThomson/?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/TheKaraShay
+title: Kara Shay Thomson
+website: http://karashaythomson.com/
+---
 
 Recognized for the natural beauty of her voice and her sense of dramatic insight, American soprano Kara Shay Thomson is proving herself a versatile and essential artist on the operatic and concert stages. *Opera News* writes, "Kara Shay Thomson gave an elegant performance as Leonore in *Fidelio*, a welcome foray into Beethoven’s only opera. Thomson, known for her *Tosca* with Sarasota and other regional companies, was a galvanizing vocal presence right from 'Komm, Hoffnung,' spontaneous and powerful in her Act I aria to faithful married love." 
 

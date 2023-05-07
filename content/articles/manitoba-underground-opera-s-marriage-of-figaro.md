@@ -1,22 +1,25 @@
-+++
-author = ["authors/andrea-lett.md"]
-categories = "Review"
-date = 2022-09-09T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1662642469/media/2022/09/sqMUO_MF7_ikzqhx.jpg"
-primary_image_credit = "Matt Pauls as Bartolo in Manitoba Underground Opera's production of The Marriage of Figaro, 2022. Photo: Paul McKeen."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "As a singer transitioning out of a performing role and into the role of an audience member, board member, and now reviewer, it is surreal to watch this company grow as a spectator on the outside."
-slug = "a-queer-friendly-figaro-out-of-manitoba-underground-opera"
-title = "A queer-friendly Figaro out of Manitoba Underground Opera"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/andrea-lett.md
+categories: Review
+date: "2022-09-09T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1662642469/media/2022/09/sqMUO_MF7_ikzqhx.jpg
+primary_image_credit: 'Matt Pauls as Bartolo in Manitoba Underground Opera''s production
+  of The Marriage of Figaro, 2022. Photo: Paul McKeen.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: As a singer transitioning out of a performing role and into the
+  role of an audience member, board member, and now reviewer, it is surreal to watch
+  this company grow as a spectator on the outside.
+slug: a-queer-friendly-figaro-out-of-manitoba-underground-opera
+title: A queer-friendly Figaro out of Manitoba Underground Opera
+youtube_url: ""
+---
 [Manitoba Underground Opera](/scene/companies/manitoba-underground-opera/)'s new season aimed to provide an immersive theatrical experience that facilitated contemporary social commentary. The season, entitled "For Better or For Worse", featured the operas _Orphée and Eurydice_ and _The Marriage of Figaro_.	While I was unable to see _Orphée and Eurydice_, the production of _The Marriage of Figaro_ easily accomplished these goals, and then some.
 
 Community presence seemed to be large contributing factor when it came to MUO's success in ticket sales. Winnipeg summers are short and jam-packed with various shows, festivals, and activities. So, while folks in 2022 _are_ ready to experience art in person again, the sheer amount of live theatre in the city can make it difficult to draw a substantial crowd. However, MUO had won over Winnipeg's attendance, and their website indicated sold out shows.

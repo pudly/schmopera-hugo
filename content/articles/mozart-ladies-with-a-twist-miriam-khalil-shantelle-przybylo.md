@@ -1,17 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-12-03T23:28:00-05:00"
-lastmod = "2015-12-05T11:14:00-05:00"
-preamble = "[Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) has spent the last two summers at [The Banff Centre](/scene/companies/the-banff-centre/), workshopping Artistic Director Joel Ivany's \"transladaptations\" of operatic staples by Mozart and Da Ponte. In 2014, they put up *#UncleJohn* (based on *Don Giovanni*), featuring soprano [Miriam Khalil](/scene/people/miriam-khalil/) as Donna Elvira; Khalil has since reprised Elvira in *#UncleJohn* for two subsequent productions, in at Toronto's The Theatre Centre and at the Ottawa Chamber Music Festival. The following year at the Banff Centre, fellow Canadian soprano [Shantelle Przybylo](/scene/people/shantelle-przybylo/) took on the role of Felicity (also known as Fiordiligi) in AtG's *A Little Too Cozy*, based on *Così fan tutte*.\n\nIn 2016, both sopranos will sing their respective roles in Italian for the first time; in February, Przybylo joins the [Dutch Touring Opera](http://www.reisopera.nl/programma/cosi-fan-tutte/) production of *Così fan tutte* as Fiordiligi, and Khalil reprises Elvira in her more \"traditional\" form with [Opera Tampa](http://www.strazcenter.org/Events/Opera/Shows/1516_Opera/Don-Giovanni) in April. The two ladies talk about their unique trajectories with these characters, and what it's like to switch languages (and centuries)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449255752872/2015-12-03%20-%20MiriamShantelle.jpg.jpg"
-publishDate = "2015-12-05T11:14:00-05:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/indie-opera-to.md","scene/companies/the-banff-centre.md"]
-related_people = ["scene/people/miriam-khalil.md","scene/people/shantelle-przybylo.md"]
-short_description = "In 2014, they put up #UncleJohn (based on Don Giovanni), featuring soprano Miriam Khalil as Donna Elvira; Khalil has since reprised Elvira in #UncleJohn for two subsequent productions, in at Toronto&#039;s The Theatre Centre and at the Ottawa Chamber Music Festival. The following year at the Banff Centre, fellow Canadian soprano Shantelle Przybylo took on the role of Felicity (also known as Fiordiligi) in AtG&#039;s A Little Too Cozy, based on Così fan tutte."
-slug = "mozart-ladies-with-a-twist-miriam-khalil-shantelle-przybylo"
-title = "Mozart ladies with a twist: Miriam Khalil &amp; Shantelle Przybylo"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-12-03T23:28:00-05:00"
+lastmod: "2015-12-05T11:14:00-05:00"
+preamble: |-
+  [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) has spent the last two summers at [The Banff Centre](/scene/companies/the-banff-centre/), workshopping Artistic Director Joel Ivany's "transladaptations" of operatic staples by Mozart and Da Ponte. In 2014, they put up *#UncleJohn* (based on *Don Giovanni*), featuring soprano [Miriam Khalil](/scene/people/miriam-khalil/) as Donna Elvira; Khalil has since reprised Elvira in *#UncleJohn* for two subsequent productions, in at Toronto's The Theatre Centre and at the Ottawa Chamber Music Festival. The following year at the Banff Centre, fellow Canadian soprano [Shantelle Przybylo](/scene/people/shantelle-przybylo/) took on the role of Felicity (also known as Fiordiligi) in AtG's *A Little Too Cozy*, based on *Così fan tutte*.
+
+  In 2016, both sopranos will sing their respective roles in Italian for the first time; in February, Przybylo joins the [Dutch Touring Opera](http://www.reisopera.nl/programma/cosi-fan-tutte/) production of *Così fan tutte* as Fiordiligi, and Khalil reprises Elvira in her more "traditional" form with [Opera Tampa](http://www.strazcenter.org/Events/Opera/Shows/1516_Opera/Don-Giovanni) in April. The two ladies talk about their unique trajectories with these characters, and what it's like to switch languages (and centuries).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449255752872/2015-12-03%20-%20MiriamShantelle.jpg.jpg
+publishDate: "2015-12-05T11:14:00-05:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/indie-opera-to.md
+- scene/companies/the-banff-centre.md
+related_people:
+- scene/people/miriam-khalil.md
+- scene/people/shantelle-przybylo.md
+short_description: 'In 2014, they put up #UncleJohn (based on Don Giovanni), featuring
+  soprano Miriam Khalil as Donna Elvira; Khalil has since reprised Elvira in #UncleJohn
+  for two subsequent productions, in at Toronto&#039;s The Theatre Centre and at the
+  Ottawa Chamber Music Festival. The following year at the Banff Centre, fellow Canadian
+  soprano Shantelle Przybylo took on the role of Felicity (also known as Fiordiligi)
+  in AtG&#039;s A Little Too Cozy, based on Così fan tutte.'
+slug: mozart-ladies-with-a-twist-miriam-khalil-shantelle-przybylo
+title: 'Mozart ladies with a twist: Miriam Khalil &amp; Shantelle Przybylo'
+---
 
 ## Two unique character back-stories
 

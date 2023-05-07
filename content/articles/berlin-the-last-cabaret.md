@@ -1,22 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = 2020-01-22T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "[_BERLIN: The Last Cabaret_](https://cityoperavancouver.com/) runs Jan. 23-26 at Performance Works in Vancouver."
-preamble = "With its latest production, City Opera Vancouver is combining two things that opera fans love: world premieres and cabarets. [_BERLIN: The Last Cabaret_](https://cityoperavancouver.com/), running Jan. 23-26, is based on the real-life drama of Weimar-era cabaret artists under Nazi rule.\n\nWe spoke with Alan Corbishley, _BERLIN_ director and co-creator, about using cabaret as a way of telling the story of its Weimar artists."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1579747193/media/2020/01/sqBerlinLastCabaret_qqsmpu.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "\"We chose July 13, 1934 for our piece, the day Hitler made a speech claiming responsibility for the \"Night of the Long Knives,\" where two weeks prior, he ordered the S.A. division of the Nazi Party, including Röhm who uneasily protected Queer artists, massacred due to a purported threat of mutiny.\""
-slug = "disturbingly-relevant-berlin-the-last-cabaret"
-title = "\"Disturbingly relevant\": BERLIN: The Last Cabaret"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2020-01-22T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: '[_BERLIN: The Last Cabaret_](https://cityoperavancouver.com/) runs Jan.
+  23-26 at Performance Works in Vancouver.'
+preamble: |-
+  With its latest production, City Opera Vancouver is combining two things that opera fans love: world premieres and cabarets. [_BERLIN: The Last Cabaret_](https://cityoperavancouver.com/), running Jan. 23-26, is based on the real-life drama of Weimar-era cabaret artists under Nazi rule.
 
-+++
+  We spoke with Alan Corbishley, _BERLIN_ director and co-creator, about using cabaret as a way of telling the story of its Weimar artists.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1579747193/media/2020/01/sqBerlinLastCabaret_qqsmpu.jpg
+primary_image_credit: ""
+related_articles: []
+related_companies: []
+related_people: []
+short_description: '"We chose July 13, 1934 for our piece, the day Hitler made a speech
+  claiming responsibility for the "Night of the Long Knives," where two weeks prior,
+  he ordered the S.A. division of the Nazi Party, including Röhm who uneasily protected
+  Queer artists, massacred due to a purported threat of mutiny."'
+slug: disturbingly-relevant-berlin-the-last-cabaret
+title: '"Disturbingly relevant": BERLIN: The Last Cabaret'
+youtube_url: ""
+---
 ## How true-to-life is the story in _BERLIN: The Last Cabaret_?
 
 **Alan Corbishley**: The show is an interpretation of the Weimar era, based on our research and understanding of the Berlin cabaret scene and politics of the day.  The five characters created for this particular story are composites sourced from significant artists. With aspects and stories drawn from real life personalities such as Erich Mühsam, Ernst Busch, Karl Valentin, Trude Hesterberg, Trude Kolman, Sebastian Droste, Claire Waldorf, and Fritz Grünbaum to name but a few.

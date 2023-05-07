@@ -1,22 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = 2019-11-07T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Erin Wall stars in the Toronto Symphony Orchestra's in-concert presentation of [_Thaïs_](https://www.tso.ca/concert/thais-grand-opera-concert), conducted by Sir Andrew Davis, November 7 and 9."
-preamble = "On November 7 and 9 with the Toronto Symphony Orchestra, Canadian soprano [Erin Wall](/scene/people/erin-wall/) brings one of her signature roles - [Massenet's Thaïs](https://www.tso.ca/concert/thais-grand-opera-concert) - to the stage of Roy Thomson Hall. _Thaïs_, the 1893 opera about a courtesan's pursuit of love in all its forms, places high demands on any soprano who takes on its title role. It's a rare thing to hear on the opera stage, and rarer still in Canada.\n\nWe spoke with Wall about Thaïs, the woman and the challenging operatic role:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573073482/media/2019/11/sqErinWall-KristinHoebermann_jliiu0.jpg"
-primary_image_credit = "Photo: Kristin Hoebermann."
-related_articles = ["articles/talking-with-singers-sondra-radvanovsky.md", "articles/talking-with-singers-othalie-graham.md", "articles/talking-with-singers-corinne-winters.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/erin-wall.md"]
-short_description = "\"It's fairly extreme in its demands, and Massenet saved some of the hardest writing for the very end - the duet which closes the opera builds to two high Ds! It requires the singer to finesse a pianissimo one minute, and then have a huge fortissimo outburst over full orchestra the next!\""
-slug = "talking-with-singers-erin-wall"
-title = "Talking with singers: Erin Wall"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-11-07T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Erin Wall stars in the Toronto Symphony Orchestra's in-concert presentation
+  of [_Thaïs_](https://www.tso.ca/concert/thais-grand-opera-concert), conducted by
+  Sir Andrew Davis, November 7 and 9.
+preamble: |-
+  On November 7 and 9 with the Toronto Symphony Orchestra, Canadian soprano [Erin Wall](/scene/people/erin-wall/) brings one of her signature roles - [Massenet's Thaïs](https://www.tso.ca/concert/thais-grand-opera-concert) - to the stage of Roy Thomson Hall. _Thaïs_, the 1893 opera about a courtesan's pursuit of love in all its forms, places high demands on any soprano who takes on its title role. It's a rare thing to hear on the opera stage, and rarer still in Canada.
 
-+++
+  We spoke with Wall about Thaïs, the woman and the challenging operatic role:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1573073482/media/2019/11/sqErinWall-KristinHoebermann_jliiu0.jpg
+primary_image_credit: 'Photo: Kristin Hoebermann.'
+related_articles:
+- articles/talking-with-singers-sondra-radvanovsky.md
+- articles/talking-with-singers-othalie-graham.md
+- articles/talking-with-singers-corinne-winters.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/erin-wall.md
+short_description: '"It''s fairly extreme in its demands, and Massenet saved some
+  of the hardest writing for the very end - the duet which closes the opera builds
+  to two high Ds! It requires the singer to finesse a pianissimo one minute, and then
+  have a huge fortissimo outburst over full orchestra the next!"'
+slug: talking-with-singers-erin-wall
+title: 'Talking with singers: Erin Wall'
+youtube_url: ""
+---
 ## What kind of woman is Thaïs? What are some common misconceptions about her character?
 
 She's a courtesan and a performer - Massenet lists her as a comedienne. On a deeper level, when we meet her in the opera, she's exercising her power and her charm over the men in the cast, but underneath her shiny exterior, she's very unhappy - she's bored with her existence and knows that as she ages, her beauty will fade and she won't be able to carry on as she has been. She's feeling the passage of time and her own mortality, something I think we can all identify with as we age.

@@ -1,22 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = 2021-09-14T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "For more with Matthew Anchel, follow him on [Instagram](https://www.instagram.com/matthewanchel/), [TikTok](https://www.tiktok.com/@matthewanchel?), or visit his [website](https://www.matthewanchel.com/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1631552282/media/2021/09/MatthewAnchel_dbliqr.jpg"
-primary_image_credit = ""
-related_articles = ["articles/talking-with-singers-othalie-graham.md", "articles/talking-with-singers-luca-pisaroni.md"]
-related_companies = ["scene/companies/manhattan-school-of-music.md", "scene/companies/los-angeles-opera.md", "scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/matthew-anchel.md"]
-short_description = "\"What I think happens a lot, is that you have people who are maybe more stereotypically attractive in thin bodies, who maybe have medium voices — not the best voices in the world.\" These singers are well promoted, Anchel says, and they get opportunities to work with opera's best. \"So they get really good at singing, even though maybe their voice isn't that amazing.\""
-slug = "talking-with-singers-matthew-anchel"
-title = "Talking with singers: Matthew Anchel"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2021-09-14T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: For more with Matthew Anchel, follow him on [Instagram](https://www.instagram.com/matthewanchel/),
+  [TikTok](https://www.tiktok.com/@matthewanchel?), or visit his [website](https://www.matthewanchel.com/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1631552282/media/2021/09/MatthewAnchel_dbliqr.jpg
+primary_image_credit: ""
+related_articles:
+- articles/talking-with-singers-othalie-graham.md
+- articles/talking-with-singers-luca-pisaroni.md
+related_companies:
+- scene/companies/manhattan-school-of-music.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/matthew-anchel.md
+short_description: '"What I think happens a lot, is that you have people who are maybe
+  more stereotypically attractive in thin bodies, who maybe have medium voices — not
+  the best voices in the world." These singers are well promoted, Anchel says, and
+  they get opportunities to work with opera''s best. "So they get really good at singing,
+  even though maybe their voice isn''t that amazing."'
+slug: talking-with-singers-matthew-anchel
+title: 'Talking with singers: Matthew Anchel'
+youtube_url: ""
+---
 By anyone's account, American bass [Matthew Anchel](/scene/people/matthew-anchel/) is having a stellar 2021-22. He's settling in for a New York-based season, a string of contracts with The Metropolitan Opera that include covering in [_Die Meistersinger von Nürnberg_](https://www.metopera.org/season/2021-22-season/die-meistersinger-von-nurnberg/) and [_Don Carlos_](https://www.metopera.org/season/2021-22-season/don-carlos/), and making his mainstage debut in Laurent Pelly's production of [_Cendrillon_](https://www.metopera.org/season/2021-22-season/cinderella/), sharing the stage with Isabel Leonard, Emily D'Angelo, and Stephanie Blythe.
 
 "I love working at the Met so much," Anchel says. He acknowledges the more unsavory news stories about the Met, "But I have only ever been treated with professionalism and respect whenever I work there."

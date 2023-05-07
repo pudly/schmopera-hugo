@@ -1,18 +1,33 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2017-11-21T12:07:00-05:00"
-lastmod = "2017-11-21T13:16:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511284013827/2017-11-21---square---BC20171116_SEMIRAMIDE_0510-JOYCE-DIDONATO-AS-SEMIRAMIDE-C-ROH.-PHOTO-BILL-COOPER.jpg.jpg"
-primary_image_credit = "Joyce DiDonato in the title role of Semiramide, ROH, 2017. Photo: Bill Cooper."
-publishDate = "2017-11-21T12:07:00-05:00"
-related_articles = ["articles/watch-learn-maestros-at-work.md","articles/playing-bel-canto-4-tips-for-pianists.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/joyce-didonato.md","scene/people/lawrence-brownlee.md","scene/people/daniela-barcellona.md","scene/people/michele-pertusi.md","scene/people/mirco-palazzi.md","scene/people/jacquelyn-stucker.md"]
-short_description = "Remarkably, despite all the difficulties of this work, the cast took it all in stride, making it seem effortless as they thrilled with truly pristine singing. The singers also had the difficult job of filling a massive stage, sparse with sets or props. This was achieved by real presence and unteachable charisma, which the ensemble possessed in spades."
-slug = "the-olympics-of-singing-semiramide-at-roh"
-title = "The Olympics of Singing: Semiramide at ROH"
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2017-11-21T12:07:00-05:00"
+lastmod: "2017-11-21T13:16:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511284013827/2017-11-21---square---BC20171116_SEMIRAMIDE_0510-JOYCE-DIDONATO-AS-SEMIRAMIDE-C-ROH.-PHOTO-BILL-COOPER.jpg.jpg
+primary_image_credit: 'Joyce DiDonato in the title role of Semiramide, ROH, 2017.
+  Photo: Bill Cooper.'
+publishDate: "2017-11-21T12:07:00-05:00"
+related_articles:
+- articles/watch-learn-maestros-at-work.md
+- articles/playing-bel-canto-4-tips-for-pianists.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/joyce-didonato.md
+- scene/people/lawrence-brownlee.md
+- scene/people/daniela-barcellona.md
+- scene/people/michele-pertusi.md
+- scene/people/mirco-palazzi.md
+- scene/people/jacquelyn-stucker.md
+short_description: Remarkably, despite all the difficulties of this work, the cast
+  took it all in stride, making it seem effortless as they thrilled with truly pristine
+  singing. The singers also had the difficult job of filling a massive stage, sparse
+  with sets or props. This was achieved by real presence and unteachable charisma,
+  which the ensemble possessed in spades.
+slug: the-olympics-of-singing-semiramide-at-roh
+title: 'The Olympics of Singing: Semiramide at ROH'
+---
 
 The Olympics of Singing returned to the Royal Opera yesterday afternoon, as Rossini's *Semiramide* was staged in Covent Garden for the first time since the 19th century. Vocal fireworks flew through the house, showing the audience what true *bel canto* singing is all about. 
 

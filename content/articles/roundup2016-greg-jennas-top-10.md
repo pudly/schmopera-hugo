@@ -1,18 +1,56 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Editorial"
-date = "2016-12-13T10:37:00+00:00"
-lastmod = "2016-12-15T13:20:00+00:00"
-preamble = "Can you believe it, readers? It's nearly the end of 2016! What is this insanity?\n\nMany of you likely feel like there's plenty to forget about this year (like losing David Bowie, Robin Willians, Alan Rickman, Florence Henderson, Leonard Cohen, Prince, and *oh god make it stop*). But at the opera, at least, Greg and I have certainly seen some excellence. As 2016 starts to wrap up, and with all the fab shows and conversations with artists, the time is right for each of us to make a Top 10 list (because trying to narrow them down to a Top 5 seemed cruel).\n\nSo here goes, our respective Top 10 lists of 2016, in a rough order that doesn't really mean much:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481626198189/2016-12-13---Roundup.jpg.jpg"
-publishDate = "2016-12-15T10:05:00+00:00"
-related_articles = ["articles/international-opera-awards-2016-nominate-your-top-picks.md","articles/jennas-list-the-years-top-10-of-london.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/soundstreams.md","scene/companies/glyndebourne.md","scene/companies/against-the-grain-theatre.md","scene/companies/tapestry-opera.md","scene/companies/canadian-childrens-opera-company.md","scene/companies/tete-a-tete.md","scene/companies/workshopera.md","scene/companies/english-national-opera.md","scene/companies/scottish-opera.md"]
-related_people = ["scene/people/christine-goerke.md","scene/people/stefan-vinke.md","scene/people/carla-huhtanen.md","scene/people/sidney-outlaw.md","scene/people/joel-ivany.md","scene/people/anita-rachvelishvili.md","scene/people/dean-burry.md","scene/people/sondra-radvanovsky.md","scene/people/allan-clayton.md","scene/people/alice-coote.md","scene/people/gerald-finley.md","scene/people/lucia-cesaroni.md","scene/people/christopher-purves.md","scene/people/miriam-khalil.md","scene/people/jamie-barton.md"]
-short_description = "&quot;I totally loved interviewing baritone Sidney Outlaw. He has a peace and wisdom about him that translates into his work. He answers every tough question about the industry with some form of &quot;take it to the practice room.&quot; He was easy to talk with, and funny enough to make me wish we could have done a podcast out of it.&quot;"
-slug = "roundup2016-greg-jennas-top-10"
-title = "#Roundup2016: Greg &amp; Jenna&#039;s Top 10"
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Editorial
+date: "2016-12-13T10:37:00+00:00"
+lastmod: "2016-12-15T13:20:00+00:00"
+preamble: |-
+  Can you believe it, readers? It's nearly the end of 2016! What is this insanity?
+
+  Many of you likely feel like there's plenty to forget about this year (like losing David Bowie, Robin Willians, Alan Rickman, Florence Henderson, Leonard Cohen, Prince, and *oh god make it stop*). But at the opera, at least, Greg and I have certainly seen some excellence. As 2016 starts to wrap up, and with all the fab shows and conversations with artists, the time is right for each of us to make a Top 10 list (because trying to narrow them down to a Top 5 seemed cruel).
+
+  So here goes, our respective Top 10 lists of 2016, in a rough order that doesn't really mean much:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481626198189/2016-12-13---Roundup.jpg.jpg
+publishDate: "2016-12-15T10:05:00+00:00"
+related_articles:
+- articles/international-opera-awards-2016-nominate-your-top-picks.md
+- articles/jennas-list-the-years-top-10-of-london.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/soundstreams.md
+- scene/companies/glyndebourne.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/tapestry-opera.md
+- scene/companies/canadian-childrens-opera-company.md
+- scene/companies/tete-a-tete.md
+- scene/companies/workshopera.md
+- scene/companies/english-national-opera.md
+- scene/companies/scottish-opera.md
+related_people:
+- scene/people/christine-goerke.md
+- scene/people/stefan-vinke.md
+- scene/people/carla-huhtanen.md
+- scene/people/sidney-outlaw.md
+- scene/people/joel-ivany.md
+- scene/people/anita-rachvelishvili.md
+- scene/people/dean-burry.md
+- scene/people/sondra-radvanovsky.md
+- scene/people/allan-clayton.md
+- scene/people/alice-coote.md
+- scene/people/gerald-finley.md
+- scene/people/lucia-cesaroni.md
+- scene/people/christopher-purves.md
+- scene/people/miriam-khalil.md
+- scene/people/jamie-barton.md
+short_description: '&quot;I totally loved interviewing baritone Sidney Outlaw. He
+  has a peace and wisdom about him that translates into his work. He answers every
+  tough question about the industry with some form of &quot;take it to the practice
+  room.&quot; He was easy to talk with, and funny enough to make me wish we could
+  have done a podcast out of it.&quot;'
+slug: roundup2016-greg-jennas-top-10
+title: '#Roundup2016: Greg &amp; Jenna&#039;s Top 10'
+---
 
 ## Number 10:
 

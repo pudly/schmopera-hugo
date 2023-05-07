@@ -1,25 +1,25 @@
-+++
-date = "2015-06-08T22:48:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-09-19T11:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1621470452/media/2021/05/ypGjfXYw_hrmprk.jpg"
-primary_image_credit = "Cacao Produccines."
-publishDate = "2015-06-09T08:41:00-04:00"
-related_companies = ["scene/companies/oberlin-college-and-conservatory.md", "scene/companies/music-academy-of-the-west-voice-program.md"]
-slug = "julia-dawson"
-title = "Julia Dawson"
-website = "http://www.juliadawsonmezzo.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "http://www.juliadawsonmezzo.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/jsldawson"
-
-_template = "people_single"
-+++
+---
+date: "2015-06-08T22:48:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-09-19T11:39:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1621470452/media/2021/05/ypGjfXYw_hrmprk.jpg
+primary_image_credit: Cacao Produccines.
+publishDate: "2015-06-09T08:41:00-04:00"
+related_companies:
+- scene/companies/oberlin-college-and-conservatory.md
+- scene/companies/music-academy-of-the-west-voice-program.md
+slug: julia-dawson
+social_media:
+- platform: Facebook
+  template: social-media
+  url: http://www.juliadawsonmezzo.com/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/jsldawson
+title: Julia Dawson
+website: http://www.juliadawsonmezzo.com/
+---
 Hailed by Opera News as “radiant and riveting” and the New York Times as “beautiful in face and voice”, Canadian coloratura mezzo Julia Dawson is a winner of the George London Award and the Anny-Schlemm Preis and began her career at Oper Frankfurt as a member of the solo ensemble where she sang Angelina in “La cenerentola” and Goffredo in a new production of “Rinaldo” by Ted Huffman. Upcoming engagements include a return to Oper Frankfurt, debuts with the Toronto Symphony Orchestra and the French Radio Symphony under the baton of Barbara Hannigan, as well as a role debut at the Festival Gut Immling in Bavaria. 
 
 Ms. Dawson was a member of the solo ensemble at Oper Frankfurt from 2017-2019 where she is also a graduate of the Opernstudio. Important debuts in Frankfurt include Angelina in La Cenerentola, Goffredo in Ted Huffman’s new production of Rinaldo, and the Kitchen Boy in Rusalka as well as roles in new productions of Der Ferne Klang, Drei Opern von Ernst Krenek, Rigoletto, and Paul Bunyan amongst others. Ms. Dawson returned to Oper Frankfurt in the 19/20 season for Axinja in a new production of Lady Macbeth of Mtsensk. 

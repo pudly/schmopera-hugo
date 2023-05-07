@@ -1,18 +1,46 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-08-31T13:27:00-04:00"
-lastmod = "2015-09-01T08:29:00-04:00"
-preamble = "Ever watch an opera and think, \"I wonder if those two characters would be friends\"? Seems odd, maybe; I've always done it with TV and film characters, and when I got into opera, the trend continued. Like, I used to think about whether or not the Lion, the Tin Man, and the Scarecrow would all be friends if Dorothy weren't in the picture. Or in *The Little Mermaid*, what it would be like for Eric to hang out with Sebastian.\n\nIn opera, it's all about imagining that beautiful hypothetical scene, like Suzuki getting a rage aria directed at Cio-Cio San (*Madama Butterfly*), where she just shouts *\"He's never coming back!!\"* over and over (see photo above). Or the sad hilarity that could be the Marschallin sitting down for a forced-politeness tea with little Sophie (*Der Rosenkavalier*). I even get a dorky kick out of picturing Zerbinetta and Bacchus (*Ariadne auf Naxos*) making small-talk at a party. She'd be doing her usual flirty tactic for working the room, and Bacchus would just keep waxing philosophical, missing all of Zerbinetta's innuendos.\n\nSo here are four scenes that I'd pay extra to see inserted in some of my favourite operas:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441052371282/ButterflyB-MC-2876Square.jpg.jpg"
-primary_image_credit = "Elizabeth DeShong (Suzuki) & Kelly Kaduce (Cio-Cio San) in Madama Butterfly, COC, 2014. Photo: Michael Cooper."
-publishDate = "2015-09-01T08:00:00-04:00"
-related_articles = ["articles/opera-spin-off.md","articles/opera-spinoffs-round-two.md","articles/that-great-scene-in.md","articles/lost-history-operas-most-famous-premieres.md","articles/mildly-amusing-the-wiki-opera-game.md","articles/trousers-on-tv-4-animated-pants-roles.md","articles/5-people-who-would-make-great-opera-roles.md","articles/lohengrin-redux-an-opera-fanfic-contest.md","articles/4-awesome-rage-arias-that-arent-the-queen-of-the-night.md","articles/diegetic-music-in-opera-3-ways-to-use-it.md","articles/5-classical-voice-podcasts-to-try.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/welsh-national-opera.md"]
-short_description = "Above: Suzuki gets real with Cio-Cio San, just like we all wished she would (Not actually.) Ever watch an opera and think, &quot;I wonder if those two characters would be friends&quot;? Seems odd, maybe; I&#039;ve always done it with TV and film characters, and when I got into opera, the trend continued. Like, I used to think about whether or not the Lion, the Tin Man, and the Scarecrow would all be friends if Dorothy weren&#039;t in the picture. Or in The Little Mermaid, what it would be like for Eric to hang out with Sebastian."
-slug = "4-opera-scenes-that-should-have-happened"
-title = "4 Opera scenes that should have happened"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-08-31T13:27:00-04:00"
+lastmod: "2015-09-01T08:29:00-04:00"
+preamble: |-
+  Ever watch an opera and think, "I wonder if those two characters would be friends"? Seems odd, maybe; I've always done it with TV and film characters, and when I got into opera, the trend continued. Like, I used to think about whether or not the Lion, the Tin Man, and the Scarecrow would all be friends if Dorothy weren't in the picture. Or in *The Little Mermaid*, what it would be like for Eric to hang out with Sebastian.
+
+  In opera, it's all about imagining that beautiful hypothetical scene, like Suzuki getting a rage aria directed at Cio-Cio San (*Madama Butterfly*), where she just shouts *"He's never coming back!!"* over and over (see photo above). Or the sad hilarity that could be the Marschallin sitting down for a forced-politeness tea with little Sophie (*Der Rosenkavalier*). I even get a dorky kick out of picturing Zerbinetta and Bacchus (*Ariadne auf Naxos*) making small-talk at a party. She'd be doing her usual flirty tactic for working the room, and Bacchus would just keep waxing philosophical, missing all of Zerbinetta's innuendos.
+
+  So here are four scenes that I'd pay extra to see inserted in some of my favourite operas:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441052371282/ButterflyB-MC-2876Square.jpg.jpg
+primary_image_credit: 'Elizabeth DeShong (Suzuki) & Kelly Kaduce (Cio-Cio San) in
+  Madama Butterfly, COC, 2014. Photo: Michael Cooper.'
+publishDate: "2015-09-01T08:00:00-04:00"
+related_articles:
+- articles/opera-spin-off.md
+- articles/opera-spinoffs-round-two.md
+- articles/that-great-scene-in.md
+- articles/lost-history-operas-most-famous-premieres.md
+- articles/mildly-amusing-the-wiki-opera-game.md
+- articles/trousers-on-tv-4-animated-pants-roles.md
+- articles/5-people-who-would-make-great-opera-roles.md
+- articles/lohengrin-redux-an-opera-fanfic-contest.md
+- articles/4-awesome-rage-arias-that-arent-the-queen-of-the-night.md
+- articles/diegetic-music-in-opera-3-ways-to-use-it.md
+- articles/5-classical-voice-podcasts-to-try.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/welsh-national-opera.md
+short_description: 'Above: Suzuki gets real with Cio-Cio San, just like we all wished
+  she would (Not actually.) Ever watch an opera and think, &quot;I wonder if those
+  two characters would be friends&quot;? Seems odd, maybe; I&#039;ve always done it
+  with TV and film characters, and when I got into opera, the trend continued. Like,
+  I used to think about whether or not the Lion, the Tin Man, and the Scarecrow would
+  all be friends if Dorothy weren&#039;t in the picture. Or in The Little Mermaid,
+  what it would be like for Eric to hang out with Sebastian.'
+slug: 4-opera-scenes-that-should-have-happened
+title: 4 Opera scenes that should have happened
+---
 
 ### 1. Mimì meets Musetta
 

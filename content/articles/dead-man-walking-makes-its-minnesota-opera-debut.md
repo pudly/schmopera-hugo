@@ -1,18 +1,33 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2018-01-29T17:43:00-05:00"
-lastmod = "2018-01-29T21:42:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517269123898/sq---_37A2352.jpg.jpg"
-primary_image_credit = "Seth Carico as Joseph De Rocher in the Minnesota Opera premiere of Dead Man Walking. Photo: Cory Weaver."
-publishDate = "2018-01-29T20:59:00-05:00"
-related_articles = ["articles/in-review-dead-man-walking-at-miami-music-festival.md","articles/talking-with-singers-jnai-bridges.md"]
-related_companies = ["scene/companies/minnesota-opera.md"]
-related_people = ["scene/people/catherine-martin.md","scene/people/karen-slack.md","scene/people/seth-carico.md","scene/people/dennis-petersen.md","scene/people/emily-pulley.md","scene/people/jake-heggie.md","scene/people/joel-ivany.md"]
-short_description = "There were ominous prison guards lurking above the action throughout the whole opera, and a confusing element of the set was the huge American flag, which hung above center stage. What was the message? That Americans are the only ones who deal with capital punishment?"
-slug = "dead-man-walking-makes-its-minnesota-opera-debut"
-title = "Dead Man Walking makes its Minnesota Opera debut"
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2018-01-29T17:43:00-05:00"
+lastmod: "2018-01-29T21:42:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517269123898/sq---_37A2352.jpg.jpg
+primary_image_credit: 'Seth Carico as Joseph De Rocher in the Minnesota Opera premiere
+  of Dead Man Walking. Photo: Cory Weaver.'
+publishDate: "2018-01-29T20:59:00-05:00"
+related_articles:
+- articles/in-review-dead-man-walking-at-miami-music-festival.md
+- articles/talking-with-singers-jnai-bridges.md
+related_companies:
+- scene/companies/minnesota-opera.md
+related_people:
+- scene/people/catherine-martin.md
+- scene/people/karen-slack.md
+- scene/people/seth-carico.md
+- scene/people/dennis-petersen.md
+- scene/people/emily-pulley.md
+- scene/people/jake-heggie.md
+- scene/people/joel-ivany.md
+short_description: There were ominous prison guards lurking above the action throughout
+  the whole opera, and a confusing element of the set was the huge American flag,
+  which hung above center stage. What was the message? That Americans are the only
+  ones who deal with capital punishment?
+slug: dead-man-walking-makes-its-minnesota-opera-debut
+title: Dead Man Walking makes its Minnesota Opera debut
+---
 
 Opening night of the five-show run of Jake Heggie's [*Dead Man Walking*](http://www.mnopera.org/season/2017-2018/dead-man-walking/) was full of high intensity by the cast and creative team at Minnesota Opera. Following the company's precedence of presenting new works, this was a regional premiere. I took advantage of the late seating option to miss the graphic murder scene, but watched some from the monitors (it did not seem too explicit).
 

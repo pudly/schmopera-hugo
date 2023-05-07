@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-04-18T16:55:00-04:00"
-lastmod = "2018-04-30T21:41:00-04:00"
-preamble = "A student of renowned voice technician Richard Miller (*The Structure of Singing*) and a busy soprano performing worldwide, [**Jennifer Casey Cabot**](https://www.jennifercaseycabot.com/) is a teacher who practices what she preaches. \n\nCabot is on the [voice faculty of the Potomac Voice Instutite](https://www.potomacvocal.com/voice-faculty#), and we had the chance to talk with her about wearing three hats at work, and the feeling of being \"enveloped\" by good singing."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524862656671/sqCabot.jpg.jpg"
-primary_image_credit = "Photo: Alexander Vasiljev Photography."
-publishDate = "2018-04-30T21:41:00-04:00"
-related_articles = ["articles/the-voice-teacher-series-betsy-bishop.md","articles/the-voice-teacher-series-edith-wiens.md"]
-short_description = "&quot;Breath support is the foundation of everything we do as singers, so it is a constant focus in my studio to understand and integrate buoyancy, appoggio and breath pacing mastery.&quot;"
-slug = "the-voice-teacher-series-jennifer-casey-cabot"
-title = "The voice teacher series: Jennifer Casey Cabot"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-04-18T16:55:00-04:00"
+lastmod: "2018-04-30T21:41:00-04:00"
+preamble: "A student of renowned voice technician Richard Miller (*The Structure of
+  Singing*) and a busy soprano performing worldwide, [**Jennifer Casey Cabot**](https://www.jennifercaseycabot.com/)
+  is a teacher who practices what she preaches. \n\nCabot is on the [voice faculty
+  of the Potomac Voice Instutite](https://www.potomacvocal.com/voice-faculty#), and
+  we had the chance to talk with her about wearing three hats at work, and the feeling
+  of being \"enveloped\" by good singing."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524862656671/sqCabot.jpg.jpg
+primary_image_credit: 'Photo: Alexander Vasiljev Photography.'
+publishDate: "2018-04-30T21:41:00-04:00"
+related_articles:
+- articles/the-voice-teacher-series-betsy-bishop.md
+- articles/the-voice-teacher-series-edith-wiens.md
+short_description: '&quot;Breath support is the foundation of everything we do as
+  singers, so it is a constant focus in my studio to understand and integrate buoyancy,
+  appoggio and breath pacing mastery.&quot;'
+slug: the-voice-teacher-series-jennifer-casey-cabot
+title: 'The voice teacher series: Jennifer Casey Cabot'
+---
 
 ## What do you enjoy most about teaching voice?
 

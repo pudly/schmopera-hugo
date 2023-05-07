@@ -1,18 +1,38 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Review"
-date = "2016-02-07T21:22:00-05:00"
-lastmod = "2016-02-09T12:09:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454963622669/Songbook-4Square.jpg.jpg"
-primary_image_credit = "Photo by Dahlia Katz."
-publishDate = "2016-02-09T11:47:00-05:00"
-related_articles = ["articles/he-saidshe-said-songbook-v.md","articles/wallis-giunta-songbook-vi.md","articles/at-the-podium-jordan-de-souza.md","articles/dont-miss-rough-for-opera-15.md","articles/6-new-works-presented-at-various-stages-2017.md","articles/enticing-teasers-winter-shorts.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/beth-hagerman.md","scene/people/wallis-giunta.md","scene/people/jordan-de-souza.md","scene/people/michael-mori.md","scene/people/jonathan-macarthur.md","scene/people/shauna-yarnell.md","scene/people/andrew-staniland.md"]
-short_description = "This past weekend marked the sixth in Tapestry Opera&#039;s Songbook series, which present new Canadian opera, performed by emerging Canadian artists. It sounds like a simple concept, but these workshop-showcase concerts are consistently an intense and memorable event."
-slug = "he-saidshe-said-songbook-vi"
-title = "He said/she said: Songbook VI"
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Review
+date: "2016-02-07T21:22:00-05:00"
+lastmod: "2016-02-09T12:09:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454963622669/Songbook-4Square.jpg.jpg
+primary_image_credit: Photo by Dahlia Katz.
+publishDate: "2016-02-09T11:47:00-05:00"
+related_articles:
+- articles/he-saidshe-said-songbook-v.md
+- articles/wallis-giunta-songbook-vi.md
+- articles/at-the-podium-jordan-de-souza.md
+- articles/dont-miss-rough-for-opera-15.md
+- articles/6-new-works-presented-at-various-stages-2017.md
+- articles/enticing-teasers-winter-shorts.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/beth-hagerman.md
+- scene/people/wallis-giunta.md
+- scene/people/jordan-de-souza.md
+- scene/people/michael-mori.md
+- scene/people/jonathan-macarthur.md
+- scene/people/shauna-yarnell.md
+- scene/people/andrew-staniland.md
+short_description: This past weekend marked the sixth in Tapestry Opera&#039;s Songbook
+  series, which present new Canadian opera, performed by emerging Canadian artists.
+  It sounds like a simple concept, but these workshop-showcase concerts are consistently
+  an intense and memorable event.
+slug: he-saidshe-said-songbook-vi
+title: 'He said/she said: Songbook VI'
+---
 
 **Jenna**: This past weekend marked the sixth in [Tapestry Opera](/scene/companies/tapestry-opera/)'s *Songbook* series, which present new Canadian opera, performed by emerging Canadian artists. It sounds like a simple concept, but these workshop-showcase concerts are consistently an intense and memorable event. 
 

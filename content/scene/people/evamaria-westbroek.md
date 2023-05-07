@@ -1,21 +1,27 @@
-+++
-date = "2015-05-14T14:50:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-05-14T14:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546184809/media/2018/12/Eva2-pc-FazilBerisha.jpg"
-primary_image_credit = "Fazil Berisha."
-publishDate = "2015-05-14T14:54:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/opra-national-de-paris.md", "scene/companies/staatsoper-berlin.md", "scene/companies/teatro-alla-scala.md"]
-slug = "eva-maria-westbroek"
-title = "Eva-Maria Westbroek"
-website = "http://www.evamariawestbroek.com/#%21HOME%7CmainPage"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Eva-Maria-Westbroek/57725737250?fref=ts"
-
-_template = "people_single"
-+++
+---
+date: "2015-05-14T14:50:00-04:00"
+discipline: Soprano
+lastmod: "2015-05-14T14:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546184809/media/2018/12/Eva2-pc-FazilBerisha.jpg
+primary_image_credit: Fazil Berisha.
+publishDate: "2015-05-14T14:54:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/teatro-alla-scala.md
+slug: eva-maria-westbroek
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Eva-Maria-Westbroek/57725737250?fref=ts
+title: Eva-Maria Westbroek
+website: http://www.evamariawestbroek.com/#%21HOME%7CmainPage
+---
 Eva Maria Westbroek is one of the most acclaimed and widely-recognized classical singers in the world today. She has appeared at the great opera houses and festivals of the world, such as the Royal Opera House – Covent Garden, Opera National de Paris, Metropolitan Opera, Wiener Staatsoper, Deutsche Oper Berlin, Teatro alla Scala in Milan, Semperoper Dresden and Bavarian State Opera in Munich, as well as at the Bayreuth Festival, Salzburg Festival, and the Aix en Provence Festival. Westbroek commands a very wide repertoire of many different periods and styles, including such roles as Sieglinde in **_Die Walküre_**, Katerina in **_Lady Macbeth of Mtsensk_**, Minnie in **_La Fanciulla del West_**, Maddalena in **_Andrea Chénier_** and the title roles in **_Francesca da Rimini_**_,_ **_Jenufa_**, **_Manon Lescaut_**, and **_Katya Kabanova_**. She also starred in the sensationally received world premiere of Wayne Turnage’s opera **_Anne Nicole_** at Covent Garden. Westbroek’s most recent role debuts have been Marie in **_Wozzeck_** at the Dutch National Opera in Amsterdam and Isolde in **_Tristan und Isolde_**, first at the Semperoper Dresden and then in Baden-Baden.
 
 Eva Maria Westbroek began the 2017/2018 season as Leonora in the Dutch National Opera’s new production of **_La Forza del Destino_**, directed by Christoph Loy and conducted by Michele Mariotti. She then returned to the Bavarian State Opera as Giorgetta in a new production of **_Il Tabarro_** from Puccini’s **_Il Trittico_**, conducted by Kyril Petrenko. Westbroek also appeared as Santuzza in **_Cavalleria Rusticana_** at the Theatre Royale de la Monnaie in Brussels and as Katerina in **_Lady Macbeth of Mtsensk_**at Covent Garden. Invited as an Artist in Residence by the Concertgebeouw Orchestra, she sings three separate programs and participates in chamber concerts with the orchestra during the course of the season. In the summer of 2018, the artist will debut with the Western Australian Symphony in a concert performance of **_Tristan und Isolde_**, after which she will appear with the Melbourne Symphony Orchestra as Sieglinde in a concert performance of Act 1 of **_Die Walküre_**.

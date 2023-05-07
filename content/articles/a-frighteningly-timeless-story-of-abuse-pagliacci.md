@@ -1,18 +1,29 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = "2018-10-21T12:36:00-04:00"
-lastmod = "2018-10-21T21:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540156687491/sqTGradyPhoto-9143.jpg.jpg"
-primary_image_credit = "Photo: Thomas Grady."
-publishDate = "2018-10-21T21:05:00-04:00"
-related_articles = ["articles/in-review-il-trittico-at-roh.md"]
-related_companies = ["scene/companies/opera-omaha.md"]
-related_people = ["scene/people/leah-partridge.md","scene/people/jonathan-burton.md","scene/people/alexander-elliott.md","scene/people/todd-thomas.md"]
-short_description = "In the second act, it felt like Burton and Partridge were no longer holding back dramatically, and in their final confrontation during the play within a play, both singers delivered the most heart wrenching vocals of the opera. Their struggle was rife with emotional and physical violence, and predictably, it did not end well for Nedda or her lover, Silvio."
-slug = "a-frighteningly-timeless-story-of-abuse-pagliacci"
-title = "A frighteningly timeless story of abuse: Pagliacci"
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2018-10-21T12:36:00-04:00"
+lastmod: "2018-10-21T21:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540156687491/sqTGradyPhoto-9143.jpg.jpg
+primary_image_credit: 'Photo: Thomas Grady.'
+publishDate: "2018-10-21T21:05:00-04:00"
+related_articles:
+- articles/in-review-il-trittico-at-roh.md
+related_companies:
+- scene/companies/opera-omaha.md
+related_people:
+- scene/people/leah-partridge.md
+- scene/people/jonathan-burton.md
+- scene/people/alexander-elliott.md
+- scene/people/todd-thomas.md
+short_description: In the second act, it felt like Burton and Partridge were no longer
+  holding back dramatically, and in their final confrontation during the play within
+  a play, both singers delivered the most heart wrenching vocals of the opera. Their
+  struggle was rife with emotional and physical violence, and predictably, it did
+  not end well for Nedda or her lover, Silvio.
+slug: a-frighteningly-timeless-story-of-abuse-pagliacci
+title: 'A frighteningly timeless story of abuse: Pagliacci'
+---
 
 The storyline of *Pagliacci* is unfortunately just as realistic and relevant as when it premiered in 1892. Leoncavallo found his inspiration for the plot in a newspaper crime report, and he wouldn't have to look too hard to find similar cases of violence against women in a newspaper today. Sure the darker aspects of the story are surrounded by more lighthearted theatrical trappings, but at its core, the opera is less about clowns and more about the dangerous emotions of a jealous, abusive husband. Opera Omaha's production of *Pagliacci* delivered the classic contrast between the players' two worlds - the thin theatrical façade that hides their tumultuous emotions.
 

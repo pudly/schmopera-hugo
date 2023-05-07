@@ -1,18 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-09-24T09:09:00-04:00"
-lastmod = "2017-09-24T10:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506261885594/2017-09-24---square---Colm-Feore-Jag-Gundu.jpg.jpg"
-primary_image_credit = "Colm Feore hosting the TSO\"s Tribute to Glenn Gould. Photo: Jag Gundu."
-publishDate = "2017-09-24T10:22:00-04:00"
-related_articles = ["articles/in-review-seven-deadly-sins-at-tso.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/jan-lisiecki.md"]
-short_description = "Lisiecki had me stunned not over the deftness of his hands, but over his sense of breath, space, and chamber music. He left room for humanity in even the trickiest of passages, and he was constantly conscious of who his current duet partner was. He challenged the orchestra to play unbearably soft, and ferociously attacked the piano to achieve enormous volume, without ever leaving an ugly edge."
-slug = "memorable-nights-the-tsos-tribute-glenn-gould"
-title = "Memorable nights: the TSO&#039;s tribute Glenn Gould"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-09-24T09:09:00-04:00"
+lastmod: "2017-09-24T10:28:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506261885594/2017-09-24---square---Colm-Feore-Jag-Gundu.jpg.jpg
+primary_image_credit: 'Colm Feore hosting the TSO"s Tribute to Glenn Gould. Photo:
+  Jag Gundu.'
+publishDate: "2017-09-24T10:22:00-04:00"
+related_articles:
+- articles/in-review-seven-deadly-sins-at-tso.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/jan-lisiecki.md
+short_description: Lisiecki had me stunned not over the deftness of his hands, but
+  over his sense of breath, space, and chamber music. He left room for humanity in
+  even the trickiest of passages, and he was constantly conscious of who his current
+  duet partner was. He challenged the orchestra to play unbearably soft, and ferociously
+  attacked the piano to achieve enormous volume, without ever leaving an ugly edge.
+slug: memorable-nights-the-tsos-tribute-glenn-gould
+title: 'Memorable nights: the TSO&#039;s tribute Glenn Gould'
+---
 
 In this final quarter of Canada's 150th year, I cross my fingers and hope that I'm not the only one who is just a pinch weary of concerts and theatre that make a point of paying timely homage to our country. Happily, there was something organic and cohesive about the [Toronto Symphony Orchestra](/scene/companies/toronto-symphony-orchestra/)'s *A Tribute To Glenn Gould*, presented this weekend at Roy Thomson Hall. The simple ingredients for a great concert were there: great music, eye-popping performers, and a thematic link that was endearing and interesting.
 

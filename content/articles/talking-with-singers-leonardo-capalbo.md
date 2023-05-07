@@ -1,22 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-05-23T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[_Don Carlo_](https://grangeparkopera.co.uk/whats-on/don-carlo/), starring Leonardo Capalbo in the title role, runs at Grange Park Opera from 6- June to 9 July."
-preamble = "Italian-American tenor Leonardo Capalbo is in an enviable spot, as a tenor in demand for roles like Duca (_Rigoletto_), Alfredo (_La traviata_), and Rodolfo (_La bohème_). Next month, he steps into the title role in Verdi's [_Don Carlo_](https://grangeparkopera.co.uk/whats-on/don-carlo/) in Jo Davies' production at Grange Park Opera.\n\nCapalbo spoke with us about his ongoing love affair with singing, and how he uses varied repertoire to keep him in top vocal shape."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558633515/media/2019/05/sqLeonardoCapalbo.jpg"
-primary_image_credit = ""
-related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/talking-with-singers-lucas-meachem.md", "articles/talking-with-singers-christopher-purves.md"]
-related_companies = ["scene/companies/grange-park-opera.md"]
-related_people = []
-short_description = "\"I will not play Carlo as a wounded bird. He may lament the many things which he has lost in life, but his cries are not in vain.\""
-slug = "talking-with-singers-leonardo-capalbo"
-title = "Talking with singers: Leonardo Capalbo"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-05-23T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '[_Don Carlo_](https://grangeparkopera.co.uk/whats-on/don-carlo/), starring
+  Leonardo Capalbo in the title role, runs at Grange Park Opera from 6- June to 9
+  July.'
+preamble: |-
+  Italian-American tenor Leonardo Capalbo is in an enviable spot, as a tenor in demand for roles like Duca (_Rigoletto_), Alfredo (_La traviata_), and Rodolfo (_La bohème_). Next month, he steps into the title role in Verdi's [_Don Carlo_](https://grangeparkopera.co.uk/whats-on/don-carlo/) in Jo Davies' production at Grange Park Opera.
 
-+++
+  Capalbo spoke with us about his ongoing love affair with singing, and how he uses varied repertoire to keep him in top vocal shape.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1558633515/media/2019/05/sqLeonardoCapalbo.jpg
+primary_image_credit: ""
+related_articles:
+- articles/talking-with-singers-matthew-polenzani.md
+- articles/talking-with-singers-lucas-meachem.md
+- articles/talking-with-singers-christopher-purves.md
+related_companies:
+- scene/companies/grange-park-opera.md
+related_people: []
+short_description: '"I will not play Carlo as a wounded bird. He may lament the many
+  things which he has lost in life, but his cries are not in vain."'
+slug: talking-with-singers-leonardo-capalbo
+title: 'Talking with singers: Leonardo Capalbo'
+youtube_url: ""
+---
 ## Why do you sing professionally?
 
 Singing and I have had an epic and ongoing love affair for years. I am deeply committed to the success of our relationship!

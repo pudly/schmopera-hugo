@@ -1,15 +1,20 @@
-+++
-date = "2017-09-08T11:54:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-09-08T11:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504886017028/Photo2%20credit%20Christina%20Marshall.jpg.jpg"
-primary_image_credit = "Christina Marshall"
-publishDate = "2017-09-08T11:54:00-04:00"
-related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/calgary-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/opera-nuova.md","scene/companies/opera-on-the-avalon.md"]
-slug = "benjamin-butterfield"
-title = "Benjamin Butterfield"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-09-08T11:54:00-04:00"
+discipline: Tenor
+lastmod: "2017-09-08T11:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504886017028/Photo2%20credit%20Christina%20Marshall.jpg.jpg
+primary_image_credit: Christina Marshall
+publishDate: "2017-09-08T11:54:00-04:00"
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+- scene/companies/calgary-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/opera-nuova.md
+- scene/companies/opera-on-the-avalon.md
+slug: benjamin-butterfield
+title: Benjamin Butterfield
+---
 
 Praised by The New York Times as, “clarion-voiced and vibrant”, Benjamin Butterfield is known for his performances throughout North America, Europe, the Middle East, and Asia. He has performed with many of the world’s leading conductors including Sir Andrew Davis, James Conlon, Nicholas McGegan, Charles Dutoit, Leonard Slatkin, Bramwell Tovey, Seiji Ozawa, Bernard Labadie, Yannick Nezet-Seguin, Jeffrey Thomas, Trevor Pinnock, Bruno Weil and Marc Minkowski.
 

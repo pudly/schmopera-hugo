@@ -1,22 +1,33 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-04-16T01:24:58+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "_Faust_ runs at the Royal Opera House through 6 May. For details and ticket information, [click here](https://www.roh.org.uk/productions/faust-by-david-mcvicar)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1555378480/media/2019/04/sqROHFaustMichaelFabianoTristramKenton.jpg"
-primary_image_credit = "Michael Fabiano as Faust in Faust, ROH, 2019. Photo: Tristam Kenton."
-related_articles = ["articles/michael-fabiano-the-profound-effect-of-artsmart.md", "articles/talking-with-singers-erwin-schrott.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/mandy-fredrich.md", "scene/people/erwin-schrott.md", "scene/people/rolando-villazon.md"]
-short_description = "He subjects Faust to a writhing, grotesque circus; tormenting him with visions of a pregnant Marguerite, and a dead Valentin. Schrott is maniacal and callous, delighting in the pain of others and becoming more despicable every moment he is on stage."
-slug = "classic-lavish-faust-at-roh"
-title = "Classic & lavish: Faust at ROH"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-04-16T01:24:58+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: _Faust_ runs at the Royal Opera House through 6 May. For details and ticket
+  information, [click here](https://www.roh.org.uk/productions/faust-by-david-mcvicar).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1555378480/media/2019/04/sqROHFaustMichaelFabianoTristramKenton.jpg
+primary_image_credit: 'Michael Fabiano as Faust in Faust, ROH, 2019. Photo: Tristam
+  Kenton.'
+related_articles:
+- articles/michael-fabiano-the-profound-effect-of-artsmart.md
+- articles/talking-with-singers-erwin-schrott.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/mandy-fredrich.md
+- scene/people/erwin-schrott.md
+- scene/people/rolando-villazon.md
+short_description: He subjects Faust to a writhing, grotesque circus; tormenting him
+  with visions of a pregnant Marguerite, and a dead Valentin. Schrott is maniacal
+  and callous, delighting in the pain of others and becoming more despicable every
+  moment he is on stage.
+slug: classic-lavish-faust-at-roh
+title: 'Classic & lavish: Faust at ROH'
+youtube_url: ""
+---
 Gounod's most beloved of grand operas, _Faust_ receives the royal treatment in a revival of this 2005 David McVicar production at the Royal Opera that can only be described as lavish. We are immediately transported to 1870's Paris; a dark gothic cathedral looms over the far right of the stage, a bustling market square is filled with soldiers and shoppers, and under dazzling lights, a cabaret show is performed. Imposing set design by Charles Edwards, glitzy costumes by Brigitte Reiffenstuel, and striking lighting design by Paula Constable culminate to make this the perfect representation of the grandeur of opera.
 
 <figure data-type="image">

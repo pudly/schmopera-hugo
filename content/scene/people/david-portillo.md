@@ -1,22 +1,21 @@
-+++
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572811086/media/2019/11/DavidPortilloArielleDoneson_qhsgd2.jpg"
-primary_image_credit = "Arielle Doneson."
-related_companies = ["scene/companies/washington-national-opera.md"]
-slug = "david-portillo"
-title = "David Portillo"
-website = "https://davidportillotenor.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/davidportillotenor"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/elportillo"
-
-_template = "people_single"
-+++
+---
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1572811086/media/2019/11/DavidPortilloArielleDoneson_qhsgd2.jpg
+primary_image_credit: Arielle Doneson.
+related_companies:
+- scene/companies/washington-national-opera.md
+slug: david-portillo
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/davidportillotenor
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/elportillo
+title: David Portillo
+website: https://davidportillotenor.com/
+---
 Praised by Opera News for “high notes with ease, singing with a luxuriant warm glow that seduced the ear as he bounded about the stage with abandon,” American tenor David Portillo has established himself as a leading classical singer of his generation.
 
 In the 2019-2020 season, he will return to the Metropolitan Opera to debut the role of Steuermann in a new production of _Der fliegende Holländer_, conducted by Valery Gergiev and opposite Bryn Terfel, the Metropolitan Opera and Washington National Opera for performances of Tamino in _Die Zauberflöte_, Bayerische Staatsoper as Pasquale in _Orlando Paladino_, and Mr. Rodriguez in the world-premiere of _Awakenings_ by Tobias Picker at Opera The atre of St. Louis. David Portillo’s 2018-2019 season included a return to the Metropolitan Opera for a role debut as the Chevalier de la Force in _Dialogues des Carmélites_, a return to the Lyric Opera of Chicago for Arbace in _Idomeneo_ with Sir Andrew Davis, an opera he performed for his debut with the Teatro Real in Madrid, but as Idamante, and finally, Oper Frankfurt and the Glyndebourne Festival as Tamino.

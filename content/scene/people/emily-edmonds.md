@@ -1,18 +1,21 @@
-+++
-date = "2017-06-28T21:04:00-06:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-06-28T21:04:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498705327024/2017-06-28---Emily-Edmonds-Portrait-1.jpg.jpg"
-publishDate = "2017-06-28T21:04:00-06:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/scottish-opera.md","scene/companies/opera-holland-park.md"]
-slug = "emily-edmonds"
-title = "Emily Edmonds"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/emedmondssings"
-_template = "people_single"
-+++
+---
+date: "2017-06-28T21:04:00-06:00"
+discipline: Mezzo-soprano
+lastmod: "2017-06-28T21:04:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498705327024/2017-06-28---Emily-Edmonds-Portrait-1.jpg.jpg
+publishDate: "2017-06-28T21:04:00-06:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/scottish-opera.md
+- scene/companies/opera-holland-park.md
+slug: emily-edmonds
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/emedmondssings
+title: Emily Edmonds
+---
 
 Australian mezzo-soprano Emily Edmonds was a member of the Pacific Opera Company Young Artists Program and joined the Jette Parker Young Artists Programme at the start of the 2015/16 Season performing Aglaea/Atropos/Bacchus in *Orpheus* at the Sam Wanamaker Playhouse, Shakespeare’s Globe, Alms Sister in *Suor Angelica* and Käthchen in *Werther* on the main stage and in the world premiere of *4.48 Psychosis* in the Lyric Hammersmith.
  

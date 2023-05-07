@@ -1,16 +1,23 @@
-+++
-date = "2018-05-04T21:28:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2018-05-04T21:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666568820/media/2022/10/CarolynSproule-FayFox_h2v2em.jpg"
-publishDate = "2018-05-04T21:28:00-04:00"
-related_companies = ["scene/companies/pacific-opera-victoria.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/wolf-trap-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/merola-opera-program.md", "scene/companies/houston-grand-opera.md", "scene/companies/lopra-de-montral.md", "scene/companies/canadian-opera-company.md"]
-slug = "carolyn-sproule"
-title = "Carolyn Sproule"
-website = "https://www.carolynsproule.com/"
-
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2018-05-04T21:28:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2018-05-04T21:28:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1666568820/media/2022/10/CarolynSproule-FayFox_h2v2em.jpg
+publishDate: "2018-05-04T21:28:00-04:00"
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/wolf-trap-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/merola-opera-program.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/canadian-opera-company.md
+slug: carolyn-sproule
+title: Carolyn Sproule
+website: https://www.carolynsproule.com/
+---
 Acclaimed for her "sizeable rich tone and striking presence" (Opera Canada), "whose star is deservedly on the rise" (Opera News), Canadian mezzo-soprano Carolyn Sproule is engaged in the 2021-2022 to open **Houston Grand Opera**'s season as Carmen in Rob Ashford's dynamic production, conducted by Lidiya Yankovskaya. Ms. Sproule subsequently debuts at **Teatro dell'Opera di Roma** as Varvara in _Kát’a Kabanová_ in a Richard Jones production, conducted by David Robertson; returns to **The Metropolitan Opera** for their production of _Madama Butterfly_; and debuts at **Festival d'Aix-en-Provence** in a new production of _Salome_.  
   
 In the 2020-2021 season, Ms. Sproule debuted at **Opera Hong Kong** in the title role of _Carmen_, and was scheduled to debut at San Diego Opera as La Ciesca in _Gianni Schicchi_ and La Zelatrice in _Suor Angelica_ conducted by Yves Abel in a new production by Paul Curran; **Des Moines Metro Opera** as Pauline in _Pique Dame_; return to the **Minnesota Orchestra** for Beethoven’s _Missa Solemnis_ conducted by Osmo Vänskä; debut at **Pacific Opera Victoria** as Carmen; the **National Arts Centre** as the alto soloist in Handel’s _Messiah_; **English National Opera** as Dorabella in _Così fan Tutte_, as well as a return to **The Metropolitan Opera** roster for _Roberto Devereux_.  

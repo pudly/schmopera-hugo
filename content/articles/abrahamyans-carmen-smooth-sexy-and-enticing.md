@@ -1,18 +1,27 @@
-+++
-author = ["authors/daniel-weisman.md"]
-categories = "Review"
-date = "2018-05-05T16:24:00-04:00"
-lastmod = "2018-05-07T20:50:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525738389603/sq2C0A2849.jpg.jpg"
-primary_image_credit = "Carmen, The Atlanta Opera, 2018. Photo: Jeff Roffman."
-publishDate = "2018-05-07T20:14:00-04:00"
-related_articles = ["articles/akhmetshinas-devastating-carmen-at-wiltons-music-hall.md"]
-related_companies = ["scene/companies/the-atlanta-opera.md"]
-related_people = ["scene/people/varduhi-abrahamyan.md","scene/people/joseph-lattanzi.md","scene/people/nicole-cabell.md"]
-short_description = "There was a lot about this production that I enjoyed - Corner&#039;s staging keeps the energy and feel of Bizet&#039;s original piece while also allowing for Atlanta Opera&#039;s chorus to provide some of their trademark cheekiness within the larger chorus numbers."
-slug = "abrahamyans-carmen-smooth-sexy-and-enticing"
-title = "Abrahamyan&#039;s Carmen &quot;smooth, sexy, and enticing.&quot;"
-+++
+---
+author:
+- authors/daniel-weisman.md
+categories: Review
+date: "2018-05-05T16:24:00-04:00"
+lastmod: "2018-05-07T20:50:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525738389603/sq2C0A2849.jpg.jpg
+primary_image_credit: 'Carmen, The Atlanta Opera, 2018. Photo: Jeff Roffman.'
+publishDate: "2018-05-07T20:14:00-04:00"
+related_articles:
+- articles/akhmetshinas-devastating-carmen-at-wiltons-music-hall.md
+related_companies:
+- scene/companies/the-atlanta-opera.md
+related_people:
+- scene/people/varduhi-abrahamyan.md
+- scene/people/joseph-lattanzi.md
+- scene/people/nicole-cabell.md
+short_description: There was a lot about this production that I enjoyed - Corner&#039;s
+  staging keeps the energy and feel of Bizet&#039;s original piece while also allowing
+  for Atlanta Opera&#039;s chorus to provide some of their trademark cheekiness within
+  the larger chorus numbers.
+slug: abrahamyans-carmen-smooth-sexy-and-enticing
+title: Abrahamyan&#039;s Carmen &quot;smooth, sexy, and enticing.&quot;
+---
 
 The curtain rises on a behemoth of a set for The Atlanta Opera's current production of Georges Bizet's [*Carmen*](https://www.atlantaopera.org/performance/carmen/). The set, costumes, and lighting are effective in translating a perfect Sevillian setting for a traditional version of the opera masterpiece under the direction of Second Year Atlanta Opera Studio Artist Brenna Corner who has taken the reigns to bring the Spanish flair of *Carmen* to the Atlanta Opera stage.
 

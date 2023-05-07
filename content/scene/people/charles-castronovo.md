@@ -1,20 +1,26 @@
-+++
-date = "2015-09-21T21:57:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-09-21T22:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442887315533/CASTRONOVO-Charles-USE-FOR-11-12-SEASON-2-Credit-Pia-ClodiSquare.jpg.jpg"
-primary_image_credit = "Photo by Pia Clodi."
-publishDate = "2015-09-21T22:03:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/deutsche-oper-berlin.md"]
-slug = "charles-castronovo"
-title = "Charles Castronovo"
-website = "http://charlescastronovo.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/charlietenor"
-_template = "people_single"
-+++
+---
+date: "2015-09-21T21:57:00-04:00"
+discipline: Tenor
+lastmod: "2015-09-21T22:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442887315533/CASTRONOVO-Charles-USE-FOR-11-12-SEASON-2-Credit-Pia-ClodiSquare.jpg.jpg
+primary_image_credit: Photo by Pia Clodi.
+publishDate: "2015-09-21T22:03:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/royal-opera-house.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/deutsche-oper-berlin.md
+slug: charles-castronovo
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/charlietenor
+title: Charles Castronovo
+website: http://charlescastronovo.com/
+---
 
 Acclaimed internationally as one of the finest lyric tenors of his generation, Castronovo has also sung at most of the world’s leading opera houses such as the Royal Opera House, Covent Garden, Vienna State Opera, Berlin State Opera, Paris Opera, Bavarian State Opera, Munich, Theatre Royale de la Monnaie, Brussels, and many others including at the Salzburg and Aix en Provence Festivals. His repertoire spans from the great Mozart tenor roles in *Don Giovanni, Cosi Fan Tutte* and *Die Zauberfloete*, to Edgardo in *Lucia di Lammermoor*, Nemorino in *L’Elisir D’Amore* and Alfredo in *La Traviata*. In recent seasons Castronovo has also won wide acclaim for his performances as the title role in Faust, Romeo in *Romeo et Juliette*, the Duke in *Rigoletto*, Rodolfo in *La Boheme* and Tom Rakewell in *The Rakes Progress*. He starred in the title role of Daniel Catan’s *Il Postino* opposite Placido Domingo in the work’s world premiere in Los Angeles, as well as Paris and Santiago.
 

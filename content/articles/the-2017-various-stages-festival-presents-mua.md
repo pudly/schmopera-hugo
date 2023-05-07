@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-01-19T10:35:00+00:00"
-lastmod = "2017-01-19T14:26:00+00:00"
-preamble = "Next month, [Mahogany Opera Group](/scene/companies/mahogany-opera-group/) presents the third edition of its fascinating [Various Stages Festival](http://www.mahoganyoperagroup.co.uk/productions/various-stages-festival-2017/). The Festival showcases theatrical and musical work in progress; out of a pool of open submissions, Mahogany has chosen four pieces to be workshopped and presented, along with two additional works developed in partnership with other companies.\n\nOne of these showcased works is [*Mu'a (Rain)*](http://www.mahoganyoperagroup.co.uk/productions/various-stages-festival-2017/mua-rain/), by composer Dai Fujikura and director/choreographer Dam Van Huynh. Their \"movement opera\" is inspired by the practice of Vietnamese water puppetry, a tradition that dates as far back as the 11th century. We spoke with Fujikura and Van Huynh about creating *Mu'a*, ahead of its [presentation at Various Stages](http://www.mahoganyoperagroup.co.uk/productions/various-stages-festival-2017/), **February 24 at 1pm** at London's Institute of Contemporary Arts."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484824177398/2017-01-19---VSF17_Mua.jpg.jpg"
-publishDate = "2017-01-19T11:52:00+00:00"
-related_companies = ["scene/companies/mahogany-opera-group.md"]
-short_description = "&quot;I have always been fascinated by the magic of water puppetry, its deep roots in Vietnamese culture but at the same time from a different era. I am keen to see what will come out of this encounter between an ancient artform and a group of artists anchored in our XXIst century. This process will be the chance to connect those dots and hopefully shake our conception of what is considered as &#039;traditional&#039; versus &#039;contemporary&#039;.&quot;"
-slug = "the-2017-various-stages-festival-presents-mua"
-title = "The 2017 Various Stages Festival presents: Mu&#039;a"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-01-19T10:35:00+00:00"
+lastmod: "2017-01-19T14:26:00+00:00"
+preamble: |-
+  Next month, [Mahogany Opera Group](/scene/companies/mahogany-opera-group/) presents the third edition of its fascinating [Various Stages Festival](http://www.mahoganyoperagroup.co.uk/productions/various-stages-festival-2017/). The Festival showcases theatrical and musical work in progress; out of a pool of open submissions, Mahogany has chosen four pieces to be workshopped and presented, along with two additional works developed in partnership with other companies.
+
+  One of these showcased works is [*Mu'a (Rain)*](http://www.mahoganyoperagroup.co.uk/productions/various-stages-festival-2017/mua-rain/), by composer Dai Fujikura and director/choreographer Dam Van Huynh. Their "movement opera" is inspired by the practice of Vietnamese water puppetry, a tradition that dates as far back as the 11th century. We spoke with Fujikura and Van Huynh about creating *Mu'a*, ahead of its [presentation at Various Stages](http://www.mahoganyoperagroup.co.uk/productions/various-stages-festival-2017/), **February 24 at 1pm** at London's Institute of Contemporary Arts.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484824177398/2017-01-19---VSF17_Mua.jpg.jpg
+publishDate: "2017-01-19T11:52:00+00:00"
+related_companies:
+- scene/companies/mahogany-opera-group.md
+short_description: '&quot;I have always been fascinated by the magic of water puppetry,
+  its deep roots in Vietnamese culture but at the same time from a different era.
+  I am keen to see what will come out of this encounter between an ancient artform
+  and a group of artists anchored in our XXIst century. This process will be the chance
+  to connect those dots and hopefully shake our conception of what is considered as
+  &#039;traditional&#039; versus &#039;contemporary&#039;.&quot;'
+slug: the-2017-various-stages-festival-presents-mua
+title: 'The 2017 Various Stages Festival presents: Mu&#039;a'
+---
 
 ## What can you tell us about the narrative of *Mu'a*? How much does the practice of water puppetry act as a device to tell a story about old and new worlds?
 

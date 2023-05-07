@@ -1,18 +1,30 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-05-13T11:39:00+01:00"
-lastmod = "2016-05-13T15:12:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463136125511/2016-05-13---AGAINST-NATURE-Laurence-Lemieux-Geoffrey-Sirett_W0A3159_against-nature.jpg.jpg"
-primary_image_credit = "Goeffrey Sirett and Laurence Lemieux in Coleman Lemieux & Compagnie's Against Nature. Photo: Jeremy Mimnagh."
-publishDate = "2016-05-13T11:46:00+01:00"
-related_articles = ["articles/dont-miss-against-nature.md"]
-related_companies = ["scene/companies/coleman-lemieux-compagnie.md","scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/geoffrey-sirett.md","scene/people/alexander-dobson.md","scene/people/steven-philcox.md"]
-short_description = "The overall effect of the piece was enchanting. A moving piece of lyrical theatre that is a perfect fit for this time of year. Beautiful music with entrancing movement in a charming space that tells a nuanced and layered story. Toronto has had a great spring so far with regards to performing arts and events, and Against Nature is one of the reasons."
-slug = "in-review-against-nature"
-title = "In review: Against Nature"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-05-13T11:39:00+01:00"
+lastmod: "2016-05-13T15:12:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463136125511/2016-05-13---AGAINST-NATURE-Laurence-Lemieux-Geoffrey-Sirett_W0A3159_against-nature.jpg.jpg
+primary_image_credit: 'Goeffrey Sirett and Laurence Lemieux in Coleman Lemieux & Compagnie''s
+  Against Nature. Photo: Jeremy Mimnagh.'
+publishDate: "2016-05-13T11:46:00+01:00"
+related_articles:
+- articles/dont-miss-against-nature.md
+related_companies:
+- scene/companies/coleman-lemieux-compagnie.md
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/geoffrey-sirett.md
+- scene/people/alexander-dobson.md
+- scene/people/steven-philcox.md
+short_description: The overall effect of the piece was enchanting. A moving piece
+  of lyrical theatre that is a perfect fit for this time of year. Beautiful music
+  with entrancing movement in a charming space that tells a nuanced and layered story.
+  Toronto has had a great spring so far with regards to performing arts and events,
+  and Against Nature is one of the reasons.
+slug: in-review-against-nature
+title: 'In review: Against Nature'
+---
 
 On the southern tip of Cabbagetown in Toronto's east end is a beautiful yet unassuming brick building called The Citadel, which is the home to [Coleman Lemieux & Co](/scene/companies/coleman-lemieux-compagnie/). I had never noticed this space before and I'm glad I was able to see it for the first time during such an amazing and cool show. We were greeted and ushered into a small mirrored studio (with a cash bar - I DO love this trend) to wait to be escorted into the mainspace. It's not a huge house, but the seats are full and it has a nice and roomy stage. Off the the corner sat a trio of musicians (piano, violin, cello) in full costume. Then the show began. 
 

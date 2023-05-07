@@ -1,17 +1,26 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = "2018-05-03T13:31:00-04:00"
-lastmod = "2018-05-03T13:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525368185769/sqJESUSCHRISTSUPERSTAR_LYR180422_151_c.jpg.jpg"
-primary_image_credit = "Jesus Christ Superstar, Lyric Opera of Chicago, 2018. Photo: Todd Rosenberg."
-publishDate = "2018-05-03T13:31:00-04:00"
-related_articles = ["articles/sweeney-todd-demon-of-disguise.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-short_description = "&quot;He&#039;s a man. He&#039;s just a man.&quot; These lyrics, so central to Mary&#039;s song, seemed to me the springboard for Heath Saunders&#039; portrayal of Jesus. In Saunders&#039; performance we saw Jesus as a victim-of-circumstance, but in the most dire way. It wouldn&#039;t be enough to say that the vulnerability Saunders brought to the role was &quot;relatable&quot; or even &quot;human&quot;; it was sublime (or sublimated?) heartbreak."
-slug = "sublime-heartbreak-jesus-christ-superstar"
-title = "Sublime heartbreak: Jesus Christ Superstar"
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2018-05-03T13:31:00-04:00"
+lastmod: "2018-05-03T13:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525368185769/sqJESUSCHRISTSUPERSTAR_LYR180422_151_c.jpg.jpg
+primary_image_credit: 'Jesus Christ Superstar, Lyric Opera of Chicago, 2018. Photo:
+  Todd Rosenberg.'
+publishDate: "2018-05-03T13:31:00-04:00"
+related_articles:
+- articles/sweeney-todd-demon-of-disguise.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+short_description: '&quot;He&#039;s a man. He&#039;s just a man.&quot; These lyrics,
+  so central to Mary&#039;s song, seemed to me the springboard for Heath Saunders&#039;
+  portrayal of Jesus. In Saunders&#039; performance we saw Jesus as a victim-of-circumstance,
+  but in the most dire way. It wouldn&#039;t be enough to say that the vulnerability
+  Saunders brought to the role was &quot;relatable&quot; or even &quot;human&quot;;
+  it was sublime (or sublimated?) heartbreak.'
+slug: sublime-heartbreak-jesus-christ-superstar
+title: 'Sublime heartbreak: Jesus Christ Superstar'
+---
 
 I have a confession to make: before opening-night performance of *Jesus Christ Superstar* at [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/), I had never seen a live musical-theater production. Though I may be a neophyte when it comes to musical theater, I can only hope that you, dear reader, will embrace the impressions of an enthusiastic newcomer to the genre because…I loved this show and I want to tell you why!
  

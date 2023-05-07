@@ -1,18 +1,21 @@
-+++
-date = "2017-10-23T12:50:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-10-23T12:50:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508777348009/Ross-Ramgobin.jpg.jpg"
-publishDate = "2017-10-23T12:50:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/opera-holland-park.md","scene/companies/melos-sinfonia.md"]
-slug = "ross-ramgobin"
-title = "Ross Ramgobin"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/rossramgobin?lang=en"
-_template = "people_single"
-+++
+---
+date: "2017-10-23T12:50:00-04:00"
+discipline: Baritone
+lastmod: "2017-10-23T12:50:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508777348009/Ross-Ramgobin.jpg.jpg
+publishDate: "2017-10-23T12:50:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/opera-holland-park.md
+- scene/companies/melos-sinfonia.md
+slug: ross-ramgobin
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/rossramgobin?lang=en
+title: Ross Ramgobin
+---
 
 Runner Up in the 2014 What's On Stage Breakthrough in Opera Awards and Nominated in the Young Artist category at the 2015 International Opera Awards, British baritone Ross Ramgobin read English and Modern Drama Studies at Brunel University, London, before attending London’s Royal Academy of Music, studying with Glenville Hargreaves and Jonathan Papp, where he gained his MA (DIst.) in Vocal Studies and his Advanced Diploma from Royal Academy Opera. At the Royal Academy, his roles included Claudio *Béatrice et Bénédict*, Papageno *Die Zauberflöte* and the title role in *Eugene Onegin*.
 

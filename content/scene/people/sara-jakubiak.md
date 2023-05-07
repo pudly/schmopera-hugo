@@ -1,19 +1,24 @@
-+++
-date = "2017-10-09T11:56:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-10-09T11:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507564378878/JAKUBIAK-Sara-Ashley-Plante-755x1030.jpg.jpg"
-publishDate = "2017-10-09T11:56:00-04:00"
-related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/english-national-opera.md","scene/companies/minnesota-opera.md"]
-slug = "sara-jakubiak"
-title = "Sara Jakubiak"
-website = "http://www.sarajakubiak.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/SaraMichelleJakubiak/"
-_template = "people_single"
-+++
+---
+date: "2017-10-09T11:56:00-04:00"
+discipline: Soprano
+lastmod: "2017-10-09T11:56:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507564378878/JAKUBIAK-Sara-Ashley-Plante-755x1030.jpg.jpg
+publishDate: "2017-10-09T11:56:00-04:00"
+related_companies:
+- scene/companies/oper-frankfurt.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/english-national-opera.md
+- scene/companies/minnesota-opera.md
+slug: sara-jakubiak
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/SaraMichelleJakubiak/
+title: Sara Jakubiak
+website: http://www.sarajakubiak.com/
+---
 
 American soprano Sara Jakubiak has been praised by the New York Times for her “plush-voiced, impressive soprano” and by Opera News as a “talented, highly musical singer.”
 

@@ -1,22 +1,36 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = 2019-11-04T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Houston Grand Opera's production of [Saul](https://www.houstongrandopera.org/saul) is onstage through November 8."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572893414/media/2019/11/sqHGOSaul2019LynnLane-133_pd0tzv.jpg"
-primary_image_credit = "Christopher Purves in the title role of Saul, Houston Grand Opera, 2019. Photo: Lynn Lane."
-related_articles = ["articles/rigoletto.md", "articles/back-to-school-opera-a-practical-glossary.md", "articles/talking-with-singers-christopher-purves.md"]
-related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/keith-jameson.md", "scene/people/aryeh-nussbaum-cohen.md", "scene/people/christopher-purves.md", "scene/people/paul-appleby.md", "scene/people/andriana-chuchman.md"]
-short_description = "The performance I saw was a microcosm of Houston at her best, a perfect example of the glorious, if not uncontroversial, results of numerous talented individuals combining their efforts to create something far bigger than the sum of its parts."
-slug = "ambitious-epochal-saul-at-houston-grand-opera"
-title = "Ambitious & epochal: Saul at Houston Grand Opera"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2019-11-04T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Houston Grand Opera's production of [Saul](https://www.houstongrandopera.org/saul)
+  is onstage through November 8.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1572893414/media/2019/11/sqHGOSaul2019LynnLane-133_pd0tzv.jpg
+primary_image_credit: 'Christopher Purves in the title role of Saul, Houston Grand
+  Opera, 2019. Photo: Lynn Lane.'
+related_articles:
+- articles/rigoletto.md
+- articles/back-to-school-opera-a-practical-glossary.md
+- articles/talking-with-singers-christopher-purves.md
+related_companies:
+- scene/companies/houston-grand-opera.md
+related_people:
+- scene/people/keith-jameson.md
+- scene/people/aryeh-nussbaum-cohen.md
+- scene/people/christopher-purves.md
+- scene/people/paul-appleby.md
+- scene/people/andriana-chuchman.md
+short_description: The performance I saw was a microcosm of Houston at her best, a
+  perfect example of the glorious, if not uncontroversial, results of numerous talented
+  individuals combining their efforts to create something far bigger than the sum
+  of its parts.
+slug: ambitious-epochal-saul-at-houston-grand-opera
+title: 'Ambitious & epochal: Saul at Houston Grand Opera'
+youtube_url: ""
+---
 The North American premiere of Handel's masterwork [_Saul_](https://www.houstongrandopera.org/saul) took place in Houston recently to rapturous effect, under the auspices of Houston Grand Opera. I can justly say that the performance I saw was a microcosm of Houston at her best, a perfect example of the glorious, if not uncontroversial, results of numerous talented individuals combining their efforts to create something far bigger than the sum of its parts.
 
 <figure data-type="image">

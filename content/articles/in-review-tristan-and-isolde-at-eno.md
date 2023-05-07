@@ -1,18 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-06-10T12:03:00+01:00"
-lastmod = "2016-06-11T12:54:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465561988072/2016-06-10---ENO-Tristan-and-Isolde-Heid-Melton-and-Stuart-Skelton-9-Catherine-Ashmore---square.jpg.jpg"
-primary_image_credit = "Photo by Catherine Ashmore."
-publishDate = "2016-06-11T12:02:00+01:00"
-related_articles = ["articles/in-review-siegfried.md","articles/in-review-enos-the-magic-flute.md","articles/in-review-madam-butterfly-at-eno.md","articles/in-review-don-giovanni-at-eno.md","articles/in-review-tosca-at-eno.md","articles/in-review-lulu-at-eno.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/craig-colclough.md","scene/people/matthew-rose.md"]
-short_description = "Tristan&#039;s ship was full of looming angles and barriers, allowing for beautiful symmetry of the two would-be lovers and their respective servants. Act II seemed an otherworldly spot for Tristan and Isolde&#039;s nocturnal tryst; it looked like its own planet, or perhaps the very center of the earth, in either case clearly underlining the singular, primordial ur-love that this couple embodies. Act III was bleak, harsh white against thick black, evolving only to blood red and a charred vista of  dead rock, where Isolde and Tristan reunite in life for the last time."
-slug = "in-review-tristan-and-isolde-at-eno"
-title = "In review: Tristan and Isolde at ENO"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-06-10T12:03:00+01:00"
+lastmod: "2016-06-11T12:54:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465561988072/2016-06-10---ENO-Tristan-and-Isolde-Heid-Melton-and-Stuart-Skelton-9-Catherine-Ashmore---square.jpg.jpg
+primary_image_credit: Photo by Catherine Ashmore.
+publishDate: "2016-06-11T12:02:00+01:00"
+related_articles:
+- articles/in-review-siegfried.md
+- articles/in-review-enos-the-magic-flute.md
+- articles/in-review-madam-butterfly-at-eno.md
+- articles/in-review-don-giovanni-at-eno.md
+- articles/in-review-tosca-at-eno.md
+- articles/in-review-lulu-at-eno.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/craig-colclough.md
+- scene/people/matthew-rose.md
+short_description: Tristan&#039;s ship was full of looming angles and barriers, allowing
+  for beautiful symmetry of the two would-be lovers and their respective servants.
+  Act II seemed an otherworldly spot for Tristan and Isolde&#039;s nocturnal tryst;
+  it looked like its own planet, or perhaps the very center of the earth, in either
+  case clearly underlining the singular, primordial ur-love that this couple embodies.
+  Act III was bleak, harsh white against thick black, evolving only to blood red and
+  a charred vista of  dead rock, where Isolde and Tristan reunite in life for the
+  last time.
+slug: in-review-tristan-and-isolde-at-eno
+title: 'In review: Tristan and Isolde at ENO'
+---
 
 Daniel Kramer's is the first new production of [*Tristan and Isolde*](https://www.eno.org/whats-on/tristan-and-isolde/) at [English National Opera](/scene/companies/english-national-opera/) in 20 years, and after his recent appointment as ENO Artistic Director, his *Tristan* seemed like an unofficial introduction to his aesthetic. 
 

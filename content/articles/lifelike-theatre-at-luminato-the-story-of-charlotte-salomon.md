@@ -1,19 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-06-11T10:21:00-06:00"
-lastmod = "2017-06-12T08:59:00-06:00"
-preamble = "This week at Luminato Festival, you can catch a work-in-progress presentation of [*Charlotte: A Tri-Coloured Play with Music*](https://luminatofestival.com/2017/Events/Charlotte-A-Tri-Coloured-Play-with-Music), an extraordinary piece of theatre by scenograher [Pamela Howard](http://www.pamelahoward.co.uk/charlotte.html), librettist [Alon Nashman](http://www.alonnashman.com/) and composer [Aleš Březina](http://alesbrezina.cz/zivotopis/?lang=en), based on the life and works of Charlotte Salomon. Between 1941-1942 while hiding in the south of France, Salomon produced over 1000 paintings and a graphic *Singspiel* entitled, *Leben? oder Theater?*. Though Salomon was sent to Auschwitz at 26 - and pregnant - her works survived.\n\nOn the centenary of her birth, Luminato presents [*Charlotte*](https://luminatofestival.com/2017/Events/Charlotte-A-Tri-Coloured-Play-with-Music), June 16-18 at The Theatre Centre, 1115 Queen St. W. We spoke with Howard and Březina about their work and the extraordinary story of Charlotte Salomon."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497236969701/2017-06-11---Square---Charlotte-Photo-1.jpg.jpg"
-primary_image_credit = "Adanya Dunn as Charlotte in Charlotte: A Tri-Coloured Play with Music."
-publishDate = "2017-06-12T08:59:00-06:00"
-related_articles = ["articles/rehearsing-trauma-how-working-on-an-opera-helped-me-heal.md", "articles/interviewing-the-greats-virginia-zeani.md", "articles/dont-miss-luminatos-bearing.md", "articles/heggies-holocaust-operas-see-canadian-premiere.md"]
-related_people = ["scene/people/adanya-dunn.md"]
-short_description = "&quot;Charlotte has a sense of time running out for her, both from learning about the history of suicides in her family, and sensing the destiny that we all know lay ahead. The uniqueness of her work is that it survives, though she did not, in its complete form, and is a testament to the power of art to triumph over adversity.&quot;"
-slug = "life-like-theatre-at-luminato-the-story-of-charlotte-salomon"
-title = "Life-like theatre at Luminato: the story of Charlotte Salomon"
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-06-11T10:21:00-06:00"
+lastmod: "2017-06-12T08:59:00-06:00"
+preamble: |-
+  This week at Luminato Festival, you can catch a work-in-progress presentation of [*Charlotte: A Tri-Coloured Play with Music*](https://luminatofestival.com/2017/Events/Charlotte-A-Tri-Coloured-Play-with-Music), an extraordinary piece of theatre by scenograher [Pamela Howard](http://www.pamelahoward.co.uk/charlotte.html), librettist [Alon Nashman](http://www.alonnashman.com/) and composer [Aleš Březina](http://alesbrezina.cz/zivotopis/?lang=en), based on the life and works of Charlotte Salomon. Between 1941-1942 while hiding in the south of France, Salomon produced over 1000 paintings and a graphic *Singspiel* entitled, *Leben? oder Theater?*. Though Salomon was sent to Auschwitz at 26 - and pregnant - her works survived.
 
-+++
+  On the centenary of her birth, Luminato presents [*Charlotte*](https://luminatofestival.com/2017/Events/Charlotte-A-Tri-Coloured-Play-with-Music), June 16-18 at The Theatre Centre, 1115 Queen St. W. We spoke with Howard and Březina about their work and the extraordinary story of Charlotte Salomon.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497236969701/2017-06-11---Square---Charlotte-Photo-1.jpg.jpg
+primary_image_credit: 'Adanya Dunn as Charlotte in Charlotte: A Tri-Coloured Play
+  with Music.'
+publishDate: "2017-06-12T08:59:00-06:00"
+related_articles:
+- articles/rehearsing-trauma-how-working-on-an-opera-helped-me-heal.md
+- articles/interviewing-the-greats-virginia-zeani.md
+- articles/dont-miss-luminatos-bearing.md
+- articles/heggies-holocaust-operas-see-canadian-premiere.md
+related_people:
+- scene/people/adanya-dunn.md
+short_description: '&quot;Charlotte has a sense of time running out for her, both
+  from learning about the history of suicides in her family, and sensing the destiny
+  that we all know lay ahead. The uniqueness of her work is that it survives, though
+  she did not, in its complete form, and is a testament to the power of art to triumph
+  over adversity.&quot;'
+slug: life-like-theatre-at-luminato-the-story-of-charlotte-salomon
+title: 'Life-like theatre at Luminato: the story of Charlotte Salomon'
+---
 ## How is Charlotte Salomon's work unique among Jewish art from WWII?
 
 **Pamela Howard**: What is unique about her work is that in 2 years at the end of her very short life she painted 1200 touches from memory of her former life in Berlin, and put them together in the form of a "Singspiel" - a spoken song cycle reminiscent of popular music theatre heard and seen in Berlin in the 1920's. She called this "Singspiel" *Life or Theater* and in it is has the Proustian remembered story of her life, and the people in it. 

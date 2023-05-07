@@ -1,12 +1,16 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546832605/media/2019/01/WHICHER-PHOTO%202.jpg"
-related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/vancouver-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/opera-atelier.md", "scene/companies/toronto-symphony-orchestra.md"]
-slug = "monica-whicher"
-title = "Monica Whicher"
-
-_template = "people_single"
-+++
+---
+_template: people_single
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546832605/media/2019/01/WHICHER-PHOTO%202.jpg
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/vancouver-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/opera-atelier.md
+- scene/companies/toronto-symphony-orchestra.md
+slug: monica-whicher
+title: Monica Whicher
+---
 Style and musical elegance combined with an intuitive theatrical sense are the hallmarks of soprano **Monica Whicher**‘s performances on the concert and opera stage. Extravagantly praised for repertoire ranging from the title role in THAIS to the most intimate masterpieces of German Lieder, the Ontario native continues to captivate listeners from Lameque to Vancouver. Recent destinations included the Festival International de Musique Baroque de Lamèque, Edmonton’s Richard Eaton Singers, Vancouver’s Music in the Morning series, Orchestra London, ON and Toronto’s Amadeus Choir. Her latest recording with harpist Judy Loman was released to great acclaim and she is also prominently featured in the release of the continuing Ukrainian Artsong Project. She has also been heard in Brahms’ REQUIEM with Symphony Nova Scotia, MESSIAH with Vancouver Chamber Choir, WEIHNACHTSORATORIUM for Toronto Bach Consort, _Anna_ in STREET SCENE for VOICEBOX: Opera in Concert and Wolf’s ITALIANISCHES LIEDERBUCH for the University of Toronto\`s Faculty of Music Artist Series. For Early Music Vancouver, she appeared in the title role in Purcell’s DIDO AND AENEAS and AENEAS AND DIDO by Rolfe in Ottawa and Vancouver and for the Ottawa Choral Society in ELIJAH. Schubert claims her attention for the Off Centre Recital serie, at the University of Toronto’s Faculty of Music she will be heard in Mahler’s Symphony No. 4 and sings Bach’s WEIHNACHTSORATORIUM for the Amadeus Choir conducted by Lydia Adams.
 
 In previous seasons she was heard with the Thunder Bay Symphony, Symphony Nova Scotia and Ottawa’s Thirteen Strings in repertoire ranging from opera to Villa Lobos to Fauré and Bach. Ms. Whicher debuted with Houston’s Mercury Baroque as _Asprano_ in Vivaldi’s MONTEZUMA, the work’s premiere in North America. In addition to her residency at the Colours of Music Festival, her many recitals include the works Lysenko at Toronto’s Koerner Hall, engagements with the Talisker Players, the Ottawa Chamber Music Festival, the Leith Festival and the Indian River Festival. The varied aspects of her artistry are reflected in performances of Strauss’ VIER LETZTE LIEDER with Peter Oundjian and the Toronto Symphony, ELIJAH with the Calgary Philharmonic, Bach’s JOHANNES PASSION for the Amadeus Choir, Bach’s WEIHNACHTSORATORIUM with the National Arts Centre Orchestra, Mozart’s MASS IN C MINOR with the Kingston Symphony, and Grieg’s PEER GYNT with the Victoria Symphony.

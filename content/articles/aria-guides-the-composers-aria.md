@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2017-08-13T20:30:00-04:00"
-lastmod = "2017-08-14T21:36:00-04:00"
-preamble = "For mezzo-sopranos, there are few arias that are as exhilarating to sing as the Composer's Aria from Strauss' *Ariadne auf Naxos*. It's brisk, colourful, more than a little meta in subject matter, and it's a trouser role to boot. It's a densely packed aria that shows off your goods, and there's a fine line to tread between singing beautifully in the way that Strauss so often asks for, and pushing your voice into the realm of screaming.\n\nThis aria is tricky to learn, but tons of fun when it starts to sit right. With the work you do in the practice room and with your teachers and coaches, our latest Aria Guide will help you navigate the score and pace yourself in style."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502726954248/2017-08-14---Komponist.jpg.jpg"
-publishDate = "2017-08-14T21:36:00-04:00"
-related_articles = ["articles/aria-guides-parto-parto.md", "articles/aria-guides-va-laisse-couler-mes-larmes.md", "articles/aria-guides-il-mio-tesoro.md"]
-short_description = "It's brisk, colourful, more than a little meta in subject matter, and it's a trouser role to boot. It's a densely packed aria that shows off your goods, and there's a fine line to tread between singing beautifully in the way that Strauss so often asks for, and pushing your voice into the realm of screaming."
-slug = "aria-guides-the-composers-aria"
-title = "Aria guides: the Composer's Aria"
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2017-08-13T20:30:00-04:00"
+lastmod: "2017-08-14T21:36:00-04:00"
+preamble: |-
+  For mezzo-sopranos, there are few arias that are as exhilarating to sing as the Composer's Aria from Strauss' *Ariadne auf Naxos*. It's brisk, colourful, more than a little meta in subject matter, and it's a trouser role to boot. It's a densely packed aria that shows off your goods, and there's a fine line to tread between singing beautifully in the way that Strauss so often asks for, and pushing your voice into the realm of screaming.
 
-+++
+  This aria is tricky to learn, but tons of fun when it starts to sit right. With the work you do in the practice room and with your teachers and coaches, our latest Aria Guide will help you navigate the score and pace yourself in style.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502726954248/2017-08-14---Komponist.jpg.jpg
+publishDate: "2017-08-14T21:36:00-04:00"
+related_articles:
+- articles/aria-guides-parto-parto.md
+- articles/aria-guides-va-laisse-couler-mes-larmes.md
+- articles/aria-guides-il-mio-tesoro.md
+short_description: It's brisk, colourful, more than a little meta in subject matter,
+  and it's a trouser role to boot. It's a densely packed aria that shows off your
+  goods, and there's a fine line to tread between singing beautifully in the way that
+  Strauss so often asks for, and pushing your voice into the realm of screaming.
+slug: aria-guides-the-composers-aria
+title: 'Aria guides: the Composer''s Aria'
+---
  1. Much of this aria will be easier to sing if you think of it in 2/2, rather than 4/4. This opening section can feel a bit square, but it's really about channeling masculine energy. The first couple of phrases should sound a bit like someone who's just splashed some refreshing cold water on their face. Be diligent about holding "gut" for all four beats, and don't plan to take a breath in the little eighth rest in "Ich sehe jetzt alles mit anderen Augen!"<figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502670582547/Aria-guide---Komponist---annotated-1.jpg.jpg)

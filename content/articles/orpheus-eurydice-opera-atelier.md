@@ -1,17 +1,25 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Review"
-date = "2015-04-10T20:10:00-04:00"
-lastmod = "2015-04-13T16:16:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428711043690/Orpheus_Fotor.jpg.jpg"
-publishDate = "2015-04-10T20:10:00-04:00"
-related_articles = ["articles/in-review-opera-ateliers-armide.md"]
-related_companies = ["scene/companies/opera-atelier.md"]
-related_people = ["scene/people/meghan-lindsay.md","scene/people/peggy-kriha-dye.md","scene/people/mireille-lebel.md"]
-short_description = "A collaborative review with contributor Greg Finney of Opera Atelier production of Orpheus &amp; Eurydice at Opera Atelier."
-slug = "orpheus-eurydice-opera-atelier"
-title = "In review: Orpheus &amp; Eurydice at Opera Atelier"
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Review
+date: "2015-04-10T20:10:00-04:00"
+lastmod: "2015-04-13T16:16:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428711043690/Orpheus_Fotor.jpg.jpg
+publishDate: "2015-04-10T20:10:00-04:00"
+related_articles:
+- articles/in-review-opera-ateliers-armide.md
+related_companies:
+- scene/companies/opera-atelier.md
+related_people:
+- scene/people/meghan-lindsay.md
+- scene/people/peggy-kriha-dye.md
+- scene/people/mireille-lebel.md
+short_description: A collaborative review with contributor Greg Finney of Opera Atelier
+  production of Orpheus &amp; Eurydice at Opera Atelier.
+slug: orpheus-eurydice-opera-atelier
+title: 'In review: Orpheus &amp; Eurydice at Opera Atelier'
+---
 
 **Jenna:** Opera Atelier has opened its run of Gluck's [_Orpheus and Eurydice_](http://www.operaatelier.com/season/14-15-season/), set to play until April 19th at the Elgin Theatre. OA presented Berlioz's version of the score, which is one of the company's first dips into 19th-century repertoire, tangental as the dip may be. I'm not hugely familiar with the piece, and so the differences in Berlioz's version weren't apparent to me as a listener; I'd be curious to compare the scores. I do know that Gluck's score has moments of stunning beauty, and really neat orchestra effects (perhaps augmented by Berlioz) that sound ahead of their time.
 

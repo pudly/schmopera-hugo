@@ -1,23 +1,25 @@
-+++
-date = "2015-04-06T22:54:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-06T22:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428375122000/carla-huhtanen-2-Grimshaw.jpg.jpg"
-publishDate = "2015-04-06T22:54:00-04:00"
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/opera-atelier.md","scene/companies/talisker-players.md"]
-slug = "carla-huhtanen"
-title = "Carla Huhtanen"
-website = "http://www.carlahuhtanen.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Carla-Huhtanen/166916623322736"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/CarlaSoprano"
-_template = "people_single"
-+++
+---
+date: "2015-04-06T22:54:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-06T22:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428375122000/carla-huhtanen-2-Grimshaw.jpg.jpg
+publishDate: "2015-04-06T22:54:00-04:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/opera-atelier.md
+- scene/companies/talisker-players.md
+slug: carla-huhtanen
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Carla-Huhtanen/166916623322736
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/CarlaSoprano
+title: Carla Huhtanen
+website: http://www.carlahuhtanen.com/
+---
 
 <p>
 	Soprano Carla Huhtanen is in demand internationally for her soaring, translucent voice, winning stage presence, and her diverse repertoire. She debuted in the UK as Lisetta in Garsington Opera's La Gazzetta (Rossini) and returned as Serpetta in their production of Mozart's La Finta Giardiniera, a performance repeated at the Barbican Centre's Mostly Mozart series. She debuted in Italy at Gran Teatro la Fenice in Venice as Daisy Park in Gershwin's Lady, Be Good! and returned to La Fenice as Athenas in Cherubini's Anacron. In France, she sang the title role of Purcell's The Fairy Queen for Festival Mars en Baroque (Marseille, Tarascon, and Aix-en-Provence) and Angelica in Handel's Orlando for Theatre Gyptis (Marseille), Festival Musique au Coeur (Antibes) and Festival de Chartres. A reprise performance of Lady, Be Good! took her to Lisbon's Teatro Sao Carlos and she was featured soloist in a Leonard Bernstein Tribute with the Israel Philharmonic. She has been praised for her vivid, fine-toned, accurately placed coloratura (Independent) and her clarity of tone and smoothness of line matched only by her exquisite acting (Opera Now).

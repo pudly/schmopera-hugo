@@ -1,22 +1,34 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = 2020-02-20T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Vancouver Opera's production of [_The Barber of Seville_](https://www.vancouveropera.ca/the-barber-of-seville/) runs through February 23."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582249665/media/2020/02/sqVOBarberofSeville-focusonRosina-JulieBoulianne-photoTimMatheson_nulkpt.jpg"
-primary_image_credit = "Julie Boulianne as Rosina in The Barber of Seville, Vancouver Opera, 2020. Photo: Tim Matheson."
-related_articles = ["articles/a-definitive-hit-west-side-story-in-atlanta.md", "articles/star-repetiteur-there-is-such-a-thing.md", "articles/blo-barber-brings-delightful-laughter-amid-overdesign.md"]
-related_companies = ["scene/companies/vancouver-opera.md"]
-related_people = ["scene/people/julie-boulianne.md", "scene/people/isaiah-bell.md"]
-short_description = "Edward Nelson as the eponymous Barber was absolutely phenomenal. Commanding the stage from the moment he arrived, his rendition of \"Largo al factotum\" couldn’t have been better. Working the stage and the audience, he was absolutely charming, and even took the final verse at breakneck speed, all without missing a single note."
-slug = "a-bubble-gum-sweet-barber-in-vancouver"
-title = "A bubble-gum sweet Barber in Vancouver"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2020-02-20T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Vancouver Opera's production of [_The Barber of Seville_](https://www.vancouveropera.ca/the-barber-of-seville/)
+  runs through February 23.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1582249665/media/2020/02/sqVOBarberofSeville-focusonRosina-JulieBoulianne-photoTimMatheson_nulkpt.jpg
+primary_image_credit: 'Julie Boulianne as Rosina in The Barber of Seville, Vancouver
+  Opera, 2020. Photo: Tim Matheson.'
+related_articles:
+- articles/a-definitive-hit-west-side-story-in-atlanta.md
+- articles/star-repetiteur-there-is-such-a-thing.md
+- articles/blo-barber-brings-delightful-laughter-amid-overdesign.md
+related_companies:
+- scene/companies/vancouver-opera.md
+related_people:
+- scene/people/julie-boulianne.md
+- scene/people/isaiah-bell.md
+short_description: Edward Nelson as the eponymous Barber was absolutely phenomenal.
+  Commanding the stage from the moment he arrived, his rendition of "Largo al factotum"
+  couldn’t have been better. Working the stage and the audience, he was absolutely
+  charming, and even took the final verse at breakneck speed, all without missing
+  a single note.
+slug: a-bubble-gum-sweet-barber-in-vancouver
+title: A bubble-gum sweet Barber in Vancouver
+youtube_url: ""
+---
 [Vancouver Opera](/scene/companies/vancouver-opera/)'s second offering this season is a colourful re-imagining of [_The Barber of Seville_](https://www.vancouveropera.ca/the-barber-of-seville/). Resplendent in an artistic, Art Nouveau-meets-anime set, with pops of colour throughout, the set and production design is fun and light, and this is reflected throughout the entire show.
 
 Starting with the men’s chorus, hired by Almaviva to serenade Rosina under her window, they staged a mock orchestra, full of great moments of physical comedy and mayhem. [Isaiah Bell](/scene/people/isaiah-bell/) as Count Almaviva was brilliant, vocally inventive with incredible coloratura that was crisp and precise, and great comedic moments in his various disguises that were silly, fun, or ridiculous in equal measure.

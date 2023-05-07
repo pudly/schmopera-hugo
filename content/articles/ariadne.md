@@ -1,22 +1,31 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2019-07-21T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "To close their whirlwind season, Wolf Trap Opera will be presenting [Rossini's _The Barber of Seville_](https://www.wolftrap.org/calendar/performance/19filene/0809show19.aspx) for one night only at the open air pavilion, The Filene Center, on August 9."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1563820545/media/2019/07/sqARIADNE_0020.jpg"
-primary_image_credit = "(l-r) Victor Cardamone (Scaramuccio), Alexandra Nowakowski (Zerbinetta), Ron Dukes (Truffaldin) (front): Michael Pandolfo (Harlekin) in Wolf Trap Opera's 2019 production of Strauss' Ariadne auf Naxos. Photo: Scott Suchman for Wolf Trap Opera."
-related_articles = []
-related_companies = ["scene/companies/wolf-trap-opera.md"]
-related_people = []
-short_description = "On Friday, July 19, Wolf Trap Opera opened their second opera of their summer season with Strauss's Ariadne auf Naxos. An opera within an opera is always a difficult feat in my opinion, and the creative team made it an entertaining and comical evening."
-slug = "solid-subtle-direction-in-wtos-ariadne-auf-naxos"
-title = "Solid & subtle direction in WTO's Ariadne auf Naxos"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2019-07-21T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: To close their whirlwind season, Wolf Trap Opera will be presenting [Rossini's
+  _The Barber of Seville_](https://www.wolftrap.org/calendar/performance/19filene/0809show19.aspx)
+  for one night only at the open air pavilion, The Filene Center, on August 9.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1563820545/media/2019/07/sqARIADNE_0020.jpg
+primary_image_credit: '(l-r) Victor Cardamone (Scaramuccio), Alexandra Nowakowski
+  (Zerbinetta), Ron Dukes (Truffaldin) (front): Michael Pandolfo (Harlekin) in Wolf
+  Trap Opera''s 2019 production of Strauss'' Ariadne auf Naxos. Photo: Scott Suchman
+  for Wolf Trap Opera.'
+related_articles: []
+related_companies:
+- scene/companies/wolf-trap-opera.md
+related_people: []
+short_description: On Friday, July 19, Wolf Trap Opera opened their second opera of
+  their summer season with Strauss's Ariadne auf Naxos. An opera within an opera is
+  always a difficult feat in my opinion, and the creative team made it an entertaining
+  and comical evening.
+slug: solid-subtle-direction-in-wtos-ariadne-auf-naxos
+title: Solid & subtle direction in WTO's Ariadne auf Naxos
+youtube_url: ""
+---
 On Friday, July 19, Wolf Trap Opera opened their second opera of their summer season with Strauss's _Ariadne auf Naxos_. An opera within an opera is always a difficult feat in my opinion, and the creative team made it an entertaining and comical evening.
 
 The costumes by [Rooth Varland](https://www.roothvarland.net/) were colorful and well crafted. The Prima Donna/Ariadne, played by [Alexandria Shiner](https://opera.wolftrap.org/alexandria-shiner-soprano/) dressed in a fur lined dress and hat, as well as green face mask. In the opera she was dressed in a gorgeous blue flowing dress. Ms. Shiner impressed the house with a huge soprano voice. Seriously, the Bayreuth Festival is in her future.

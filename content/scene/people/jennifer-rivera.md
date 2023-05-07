@@ -1,23 +1,29 @@
-+++
-date = "2016-01-04T14:16:00-05:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-01-04T14:16:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451934841924/2016-01-04---JenniferRivera.jpg.jpg"
-publishDate = "2016-01-04T14:16:00-05:00"
-related_companies = ["scene/companies/florida-grand-opera.md","scene/companies/the-dallas-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/central-city-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-juilliard-school.md","scene/companies/the-metropolitan-opera.md"]
-slug = "jennifer-rivera"
-title = "Jennifer Rivera"
-website = "http://www.jenniferrivera.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "http://www.facebook.com/jenniferriveramezzo"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/jjennymr"
-_template = "people_single"
-+++
+---
+date: "2016-01-04T14:16:00-05:00"
+discipline: Mezzo-soprano
+lastmod: "2016-01-04T14:16:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451934841924/2016-01-04---JenniferRivera.jpg.jpg
+publishDate: "2016-01-04T14:16:00-05:00"
+related_companies:
+- scene/companies/florida-grand-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/central-city-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/the-juilliard-school.md
+- scene/companies/the-metropolitan-opera.md
+slug: jennifer-rivera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: http://www.facebook.com/jenniferriveramezzo
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/jjennymr
+title: Jennifer Rivera
+website: http://www.jenniferrivera.com/
+---
 
 Jennifer Rivera has earned a spot as one of the most sought after and versatile lyric mezzo-sopranos of her generation by consistently delivering exceptional vocalism, superb musicianship, and a powerful stage presence. Her successful European debut as Sesto in *La clemenza di Tito* with the Teatro Regio di Torino directed by Graham Vick and conducted by Roberto Abaddo was followed by her debut with the Berlin Staatsoper as Rosina in *Il barbiere di Siviglia*, and Nerone in a new production of *Agrippina* conducted by Rene Jacobs. She was then invited to sing Licida in *L’Olimpiade* by Pergolesi at the Innsbruck Early Music Festival, and returned to the Berlin Staatsoper as both Rosina, and as Ismene in a new production of *Antigone* by Traetta conducted by Maestro Jacobs.
 

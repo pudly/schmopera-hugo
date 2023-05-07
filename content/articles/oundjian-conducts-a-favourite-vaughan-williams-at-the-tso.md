@@ -1,18 +1,33 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2017-11-17T12:50:00-05:00"
-lastmod = "2017-11-18T09:31:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510940299895/2017-11-17---square---EIS%2C-Huhtanen%2C-DAngelo%2C-Wiliford%2C-Duncan-Jag-Gundu-TSO.jpg.jpg"
-primary_image_credit = "The EImer Iseler Singers, Carla Huhtanen, Emily D'Angelo, Lawrence Wiliford, and Tyler Duncan. Photo: Jag Gundu/TSO."
-publishDate = "2017-11-17T12:50:00-05:00"
-related_articles = ["articles/the-tso-does-danny-elfmans-music-from-the-films-of-tim-burton.md","articles/thrilling-nights-szymanowski-orff-with-the-tso.md","articles/artists-to-watch-teng-li.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/carla-huhtanen.md","scene/people/lawrence-wiliford.md","scene/people/emily-dangelo.md","scene/people/tyler-duncan.md"]
-short_description = "Soprano Carla Huhtanen sang with her bright, piercing yet warm tone and was a perfect fit for the composer&#039;s score. Her bloom over the apogee of each phrase was thrilling every time. Emily D&#039;Angelo brought a strong dark mezzo to the mix and flashed some incredibly impressive chest voice. Tenor Lawrence Williford demonstrated yet again why this kind of work is definitely in his wheelhouse, I found that his diction was the clearest throughout the piece."
-slug = "oundjian-conducts-a-favourite-vaughan-williams-at-the-tso"
-title = "Oundjian conducts a favourite: Vaughan Williams at the TSO"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2017-11-17T12:50:00-05:00"
+lastmod: "2017-11-18T09:31:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510940299895/2017-11-17---square---EIS%2C-Huhtanen%2C-DAngelo%2C-Wiliford%2C-Duncan-Jag-Gundu-TSO.jpg.jpg
+primary_image_credit: 'The EImer Iseler Singers, Carla Huhtanen, Emily D''Angelo,
+  Lawrence Wiliford, and Tyler Duncan. Photo: Jag Gundu/TSO.'
+publishDate: "2017-11-17T12:50:00-05:00"
+related_articles:
+- articles/the-tso-does-danny-elfmans-music-from-the-films-of-tim-burton.md
+- articles/thrilling-nights-szymanowski-orff-with-the-tso.md
+- articles/artists-to-watch-teng-li.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/carla-huhtanen.md
+- scene/people/lawrence-wiliford.md
+- scene/people/emily-dangelo.md
+- scene/people/tyler-duncan.md
+short_description: Soprano Carla Huhtanen sang with her bright, piercing yet warm
+  tone and was a perfect fit for the composer&#039;s score. Her bloom over the apogee
+  of each phrase was thrilling every time. Emily D&#039;Angelo brought a strong dark
+  mezzo to the mix and flashed some incredibly impressive chest voice. Tenor Lawrence
+  Williford demonstrated yet again why this kind of work is definitely in his wheelhouse,
+  I found that his diction was the clearest throughout the piece.
+slug: oundjian-conducts-a-favourite-vaughan-williams-at-the-tso
+title: 'Oundjian conducts a favourite: Vaughan Williams at the TSO'
+---
 
 What better music to listen to in November than Ralph Vaughan Williams, #AmIRight?
 

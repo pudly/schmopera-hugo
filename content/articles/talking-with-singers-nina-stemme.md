@@ -1,22 +1,28 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Interview"
-date = "2019-02-12T01:14:34+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549934293/media/2019/02/sqNinaStemme.jpg"
-primary_image_credit = "Soprano Nina Stemme. Photo: Neda Navaee."
-related_articles = ["articles/la-nilsson-celebrating-birgit-nilsson-at-100.md", "articles/loc-elektra.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/nina-stemme.md"]
-short_description = "She cautions that even in a prestigious YAP or ensemble studio, the opera directors are juggling many priorities and they simply want \"to get the most out of your voice right now.\""
-slug = "talking-with-singers-nina-stemme"
-title = "Talking with singers: Nina Stemme"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Interview
+date: "2019-02-12T01:14:34+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549934293/media/2019/02/sqNinaStemme.jpg
+primary_image_credit: 'Soprano Nina Stemme. Photo: Neda Navaee.'
+related_articles:
+- articles/la-nilsson-celebrating-birgit-nilsson-at-100.md
+- articles/loc-elektra.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/nina-stemme.md
+short_description: She cautions that even in a prestigious YAP or ensemble studio,
+  the opera directors are juggling many priorities and they simply want "to get the
+  most out of your voice right now."
+slug: talking-with-singers-nina-stemme
+title: 'Talking with singers: Nina Stemme'
+youtube_url: ""
+---
 Disarmingly approachable, keen to give advice and loathe to self-aggrandize, [Nina Stemme](/scene/people/nina-stemme/) is beloved not only for her impeccable, honest artistry but for her thoughtful, deeply personal interpretations of opera's most psychologically complex heroines, including Isolde, Salome, Brünnhilde, and Elektra, which she is singing this month at the [Lyric Opera of Chicago](/stemmes-elektra-visible-in-every-wild-look-and-lurching-step/) in a long-overdue company debut.
 
 As charmed as her career appears from the outside, Stemme is quick to challenge the commonly-held assumption that she's had anything resembling a meteoric rise. She came to study opera relatively late, graduating from the Stockholm Opera Studio at 30. While she had a string of successes early in her career as a Mozart-and-Puccini soprano, (among them, being a finalist at the 1993 BBC Cardiff Singer of the World Competition and winning the inaugural Operalia competition), her move to the dramatic repertoire that now defines her was a slow, methodical transition.

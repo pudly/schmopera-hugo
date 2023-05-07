@@ -1,22 +1,36 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = "2019-05-06T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Stephen Costello and Stephen Powell present _One Amazing Night_ on May 15 at the Balboa Theatre. For details and tickets, [click here](https://www.sdopera.org/season/2018-2019-season/one-amazing-night-2019)."
-preamble = "San Diego Opera is presenting [_One Amazing Night_](https://www.sdopera.org/season/2018-2019-season/one-amazing-night-2019) on May 15, 2019 at the Balboa Theater in San Diego with two American operatic stars, tenor Stephen Costello and baritone Stephen Powell. I had the opportunity to ask Stephen Costello some questions a few weeks before the recital while he was still busy singing the role of Alfredo Germont in _La Traviata_ at New York's Metropolitan Opera."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557186341/media/2019/05/sqStephenCostello-pc-SimonPauly.jpg"
-primary_image_credit = "Photo: Simon Pauly"
-related_articles = ["articles/talking-with-singers-clay-hilley.md", "articles/talking-with-singers-eleazar-rodriguez.md", "articles/talking-with-singers-stephen-powell.md"]
-related_companies = ["scene/companies/san-diego-opera.md"]
-related_people = ["scene/people/stephen-powell.md", "scene/people/stephen-costello.md"]
-short_description = "\"In my off time, I come home. My wife Yoon and I live in NY. She plays violin in the orchestra of the Metropolitan Opera. I don't get enough of a chance to see her and I'm hardly ever at home.\""
-slug = "talking-with-singers-stephen-costello"
-title = "Talking with singers: Stephen Costello"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/eva-cahen.md
+categories: Interview
+date: "2019-05-06T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Stephen Costello and Stephen Powell present _One Amazing Night_ on May
+  15 at the Balboa Theatre. For details and tickets, [click here](https://www.sdopera.org/season/2018-2019-season/one-amazing-night-2019).
+preamble: San Diego Opera is presenting [_One Amazing Night_](https://www.sdopera.org/season/2018-2019-season/one-amazing-night-2019)
+  on May 15, 2019 at the Balboa Theater in San Diego with two American operatic stars,
+  tenor Stephen Costello and baritone Stephen Powell. I had the opportunity to ask
+  Stephen Costello some questions a few weeks before the recital while he was still
+  busy singing the role of Alfredo Germont in _La Traviata_ at New York's Metropolitan
+  Opera.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1557186341/media/2019/05/sqStephenCostello-pc-SimonPauly.jpg
+primary_image_credit: 'Photo: Simon Pauly'
+related_articles:
+- articles/talking-with-singers-clay-hilley.md
+- articles/talking-with-singers-eleazar-rodriguez.md
+- articles/talking-with-singers-stephen-powell.md
+related_companies:
+- scene/companies/san-diego-opera.md
+related_people:
+- scene/people/stephen-powell.md
+- scene/people/stephen-costello.md
+short_description: '"In my off time, I come home. My wife Yoon and I live in NY. She
+  plays violin in the orchestra of the Metropolitan Opera. I don''t get enough of
+  a chance to see her and I''m hardly ever at home."'
+slug: talking-with-singers-stephen-costello
+title: 'Talking with singers: Stephen Costello'
+youtube_url: ""
+---
 **How is it different to do a recital than a whole opera?**
 
 A recital doesn't have nearly as many elements as an opera. There are no costume changes and no fittings. The orchestra is usually behind you rather than in front of you. In an opera, you might be on stage for an entire scene for 30 or 40 minutes. At a concert, you sing one aria, and then there might be someone else with you, or you could walk off the stage.

@@ -1,17 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-10-10T19:17:00-04:00"
-lastmod = "2017-10-17T10:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507906719458/2017-10-13---square---Brian-Mulligan-46-3615.ImagebyDarioAcosta.jpg.jpg"
-primary_image_credit = "Photo by Dario Acosta."
-publishDate = "2017-10-17T10:07:00-04:00"
-related_articles = ["articles/album-review-all-who-wander.md","articles/brian-mulligan-singing-jack-torrance.md"]
-related_people = ["scene/people/brian-mulligan.md"]
-short_description = "Mulligan has a thrilling quality in his voice, an open-throated sound that&#039;s masculine, honest, and completely appealing; his is an exhilarating balance between constant beauty and toeing a risky edge."
-slug = "a-bold-debut-album-brian-mulligan-sings-dominick-argento"
-title = "A bold debut album: Brian Mulligan sings Dominick Argento"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-10-10T19:17:00-04:00"
+lastmod: "2017-10-17T10:07:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507906719458/2017-10-13---square---Brian-Mulligan-46-3615.ImagebyDarioAcosta.jpg.jpg
+primary_image_credit: Photo by Dario Acosta.
+publishDate: "2017-10-17T10:07:00-04:00"
+related_articles:
+- articles/album-review-all-who-wander.md
+- articles/brian-mulligan-singing-jack-torrance.md
+related_people:
+- scene/people/brian-mulligan.md
+short_description: Mulligan has a thrilling quality in his voice, an open-throated
+  sound that&#039;s masculine, honest, and completely appealing; his is an exhilarating
+  balance between constant beauty and toeing a risky edge.
+slug: a-bold-debut-album-brian-mulligan-sings-dominick-argento
+title: 'A bold debut album: Brian Mulligan sings Dominick Argento'
+---
 
 American baritone [Brian Mulligan](/scene/people/brian-mulligan/) has released his [debut solo album](https://www.amazon.com/Dominick-Argento-Andree-Expedition-Virginia/dp/B071G991VV?SubscriptionId=AKIAIOCEBIGP6NUBL47A&tag=&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B071G991VV) on the [Naxos label](https://www.naxos.com/catalogue/item.asp?item_code=8.559828), lending his voice to the music of Dominick Argento. On the album are the composer's Pulitzer Prize-winning *From the Diary of Virginia Woolf* (1974) and *The Andrée Expedition* (1980), which sets letters and diary entries written by the members of the [tragic 1897 balloon expedition](https://en.wikipedia.org/wiki/S._A._Andr%C3%A9e%27s_Arctic_Balloon_Expedition_of_1897) to the North Pole.
 

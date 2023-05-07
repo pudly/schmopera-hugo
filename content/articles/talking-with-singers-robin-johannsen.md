@@ -1,18 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-02-15T14:55:00+00:00"
-lastmod = "2017-02-23T11:27:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487344060465/2017-02-15---Robin-Johannsen---Tatjana_Dachsel.jpg.jpg"
-primary_image_credit = "Photo: Tajana Dachsel."
-publishDate = "2017-02-23T10:21:00+00:00"
-related_articles = ["articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-othalie-graham.md"]
-related_companies = ["scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md"]
-related_people = ["scene/people/robin-johannsen.md"]
-short_description = "&quot;It&#039;s like a burning desire to connect with people,&quot; says Johannsen of her pursuit of opera. &quot;I think I do it because there&#039;s unfortunately nothing else that I can find that makes me have that feeling that I&#039;m doing what I&#039;m supposed to be doing.&quot; Not everyone finds a career that&#039;s fulfilling, let alone one &quot;where you really feel alive.&quot;"
-slug = "talking-with-singers-robin-johannsen"
-title = "Talking with singers: Robin Johannsen"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-02-15T14:55:00+00:00"
+lastmod: "2017-02-23T11:27:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487344060465/2017-02-15---Robin-Johannsen---Tatjana_Dachsel.jpg.jpg
+primary_image_credit: 'Photo: Tajana Dachsel.'
+publishDate: "2017-02-23T10:21:00+00:00"
+related_articles:
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/talking-with-singers-othalie-graham.md
+related_companies:
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+related_people:
+- scene/people/robin-johannsen.md
+short_description: '&quot;It&#039;s like a burning desire to connect with people,&quot;
+  says Johannsen of her pursuit of opera. &quot;I think I do it because there&#039;s
+  unfortunately nothing else that I can find that makes me have that feeling that
+  I&#039;m doing what I&#039;m supposed to be doing.&quot; Not everyone finds a career
+  that&#039;s fulfilling, let alone one &quot;where you really feel alive.&quot;'
+slug: talking-with-singers-robin-johannsen
+title: 'Talking with singers: Robin Johannsen'
+---
 
 "I originally wanted to sing all those Puccini roles, those Verdi roles," says Philadelphia-born soprano [Robin Johannsen](/scene/people/robin-johannsen/) of her early years with opera. As she gained professional experience, most notably at the [Deutsche Oper Berlin](/scene/companies/deutsche-oper-berlin/), Johannsen had a taste of the standard operatic roles for a young soprano; all the while, she received encouragement about how her voice would be well-suited to Baroque music.
 

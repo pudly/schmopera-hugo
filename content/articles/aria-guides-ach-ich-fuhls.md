@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2016-11-28T22:01:00+00:00"
-lastmod = "2016-11-29T21:37:00+00:00"
-postamble = "Have an aria you'd like to request for our Aria Guides series? Let us know in the comments below, or get in touch at [hello@schmopera.com.](mailto:hello@schmopera.com)"
-preamble = "Pamina's aria from Mozart's *Die Zauberflöte* feels like the epitome of sadness, an emotional archetype amplified by some of the saddest music in opera. By the time she sings \"Ach, ich fühl's,\" she's had a rough day. Her mother told her to stab Sarastro, and Tamino won't talk to her (because he's on a vow of silence, but Pamina doesn't know that) and he maybe doesn't love her anymore. \n\nIt's a deceptively simple aria, and the empty accompaniment can make a singer feel as though they're walking on eggshells. Along with help from your teachers and coaches, we can offer a few tips for keeping things simple, and creating the illusion of superhuman breath control."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480371015059/2016-11-28---Pamina.jpg.jpg"
-publishDate = "2016-11-29T15:29:00+00:00"
-related_articles = ["articles/aria-guides-deh-vieni-non-tardar.md", "articles/aria-guides-quando-men-vo.md", "articles/aria-guides-o-sleep-why-dost-thou-leave-me.md"]
-short_description = "It's a deceptively simple aria, and the empty accompaniment, a singer can easily feel as though they're walking on eggshells. Along with help from your teachers and coaches, we can offer a few tips for keeping things simple, and creating the illusion of superhuman breath control."
-slug = "aria-guides-ach-ich-fuhls"
-title = "Aria guides: Ach, ich fühl's"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2016-11-28T22:01:00+00:00"
+lastmod: "2016-11-29T21:37:00+00:00"
+postamble: Have an aria you'd like to request for our Aria Guides series? Let us know
+  in the comments below, or get in touch at [hello@schmopera.com.](mailto:hello@schmopera.com)
+preamble: "Pamina's aria from Mozart's *Die Zauberflöte* feels like the epitome of
+  sadness, an emotional archetype amplified by some of the saddest music in opera.
+  By the time she sings \"Ach, ich fühl's,\" she's had a rough day. Her mother told
+  her to stab Sarastro, and Tamino won't talk to her (because he's on a vow of silence,
+  but Pamina doesn't know that) and he maybe doesn't love her anymore. \n\nIt's a
+  deceptively simple aria, and the empty accompaniment can make a singer feel as though
+  they're walking on eggshells. Along with help from your teachers and coaches, we
+  can offer a few tips for keeping things simple, and creating the illusion of superhuman
+  breath control."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480371015059/2016-11-28---Pamina.jpg.jpg
+publishDate: "2016-11-29T15:29:00+00:00"
+related_articles:
+- articles/aria-guides-deh-vieni-non-tardar.md
+- articles/aria-guides-quando-men-vo.md
+- articles/aria-guides-o-sleep-why-dost-thou-leave-me.md
+short_description: It's a deceptively simple aria, and the empty accompaniment, a
+  singer can easily feel as though they're walking on eggshells. Along with help from
+  your teachers and coaches, we can offer a few tips for keeping things simple, and
+  creating the illusion of superhuman breath control.
+slug: aria-guides-ach-ich-fuhls
+title: 'Aria guides: Ach, ich fühl''s'
+---
  1. The key to this aria is in paying attention to downbeats, versus upbeats. There's a tendency to come in on this first phrase and sing "Ach" as though it's on a downbeat; instead, that "Ach" is part of a slow upbeat to "fühl's". To really begin to feel the slow dance of this aria, it helps to try singing it way too fast. Imagine a conductor were beating a 2-beat pattern in an easy, walking-paced tempo; by speeding it up, you'll be able to hear the swing of it, and see where the text leads over larger phrases.<figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480432576805/Aria-Guide---Ach-ich-fuhls---annotated---1.5.jpg.jpg)</figure>

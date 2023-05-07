@@ -1,18 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-09-10T12:08:00-04:00"
-lastmod = "2017-09-12T12:02:00-04:00"
-preamble = "Based in New York, [American Opera Projects](/scene/companies/american-opera-projects/) has built up a nearly 30-year history of developing new opera. Their work has resulted in over 30 world premieres, including *This is the Rill Speaking* (Hoiby/Schulgasser, 2008), [*Harriet Tubman: When I Crossed That Line to Freedom*](http://www.aopopera.org/tubman/) (Nkeiru Okoye, Irondale Center, 2014), and [*As One*](http://www.aopopera.org/AsOne/#) (Kaminsky/Cambell/Reed, BAM, 2014).\n\nAOP also offers the chance for composers and librettists to put their works-in-progress on their feet with the help of a cast of singers and a live audience, in their First Chance Development Workshops. This fall sees five such workshop productions, of [*Six. Twenty. Outrageous*](http://www.aopopera.org/events.html#620firstchance2017) (Davis/Frank/Fitch) September 18, [*The Echo Drift*](http://www.aopopera.org/events.html#EchoDriftScandinaviaHouse2017) (Karlsson/de Voss) October 5, and [*Gulliver's Travels*](http://www.aopopera.org/events.html#gulliver2017) (Bond/Greco) October 6, [*A Thousand Splendid Suns*](http://www.aopopera.org/events.html#suns2017) Nov. 18-19, and [*Wolf-In-Skins*](http://www.aopopera.org/events.html#wolfinskins2017), November 29-30.\n\nAs a librettist, [David Cote](/scene/people/david-cote/)'s operatic work is closely connected with American Opera Projects. With AOP, he has workshopped *Fade* and [*The Scarlet Ibis*](http://www.aopopera.org/scarletibis/) with composer Stefan Weisman, and [*Three Way*](/safe-words-masquerades-nashville-opera-presents-three-way/) with composer Robert Paterson. In progress with AOP are Cote's *We've Got Our Eye on You* with Nkeiru Okoye, and *American Atheist* with Weisman, based on the life and murder of atheist [Madalyn Murray O'Hair](https://en.wikipedia.org/wiki/Madalyn_Murray_O%27Hair).\n\nWe spoke with Cote about the function of an organization like American Opera Projects, and the enormous value of having a workshop environment for new opera."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505060919161/2017-09-10---AOP-square.jpg.jpg"
-primary_image_credit = "American Opera Project's Composers & The Voice, 2013-14 session, South Oxford Space, Brooklyn. Photo: Ted Gorodetzky."
-publishDate = "2017-09-12T10:15:00-04:00"
-related_articles = ["articles/how-did-we-do-second-movement-presents-rough-for-opera-16.md","articles/living-up-to-its-name-experiments-in-opera.md","articles/talking-with-composers-mark-adamo.md","articles/great-operas-dont-just-happen.md"]
-related_companies = ["scene/companies/american-opera-projects.md"]
-short_description = "&quot;You hear the work, and you hear the audience hearing the work. That&#039;s invaluable. As a theater critic, I am by nature self-critical. As an editor, I know the work can always be better. I want to see how the audience reacts. I want to hear their thoughts afterward. You won&#039;t take every suggestion to heart, but one good note can have a huge effect on the final outcome.&quot;"
-slug = "american-opera-projects-youre-seeing-the-opera-in-microcosm"
-title = "American Opera Projects: &quot;You&#039;re seeing the opera in microcosm.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-09-10T12:08:00-04:00"
+lastmod: "2017-09-12T12:02:00-04:00"
+preamble: |-
+  Based in New York, [American Opera Projects](/scene/companies/american-opera-projects/) has built up a nearly 30-year history of developing new opera. Their work has resulted in over 30 world premieres, including *This is the Rill Speaking* (Hoiby/Schulgasser, 2008), [*Harriet Tubman: When I Crossed That Line to Freedom*](http://www.aopopera.org/tubman/) (Nkeiru Okoye, Irondale Center, 2014), and [*As One*](http://www.aopopera.org/AsOne/#) (Kaminsky/Cambell/Reed, BAM, 2014).
+
+  AOP also offers the chance for composers and librettists to put their works-in-progress on their feet with the help of a cast of singers and a live audience, in their First Chance Development Workshops. This fall sees five such workshop productions, of [*Six. Twenty. Outrageous*](http://www.aopopera.org/events.html#620firstchance2017) (Davis/Frank/Fitch) September 18, [*The Echo Drift*](http://www.aopopera.org/events.html#EchoDriftScandinaviaHouse2017) (Karlsson/de Voss) October 5, and [*Gulliver's Travels*](http://www.aopopera.org/events.html#gulliver2017) (Bond/Greco) October 6, [*A Thousand Splendid Suns*](http://www.aopopera.org/events.html#suns2017) Nov. 18-19, and [*Wolf-In-Skins*](http://www.aopopera.org/events.html#wolfinskins2017), November 29-30.
+
+  As a librettist, [David Cote](/scene/people/david-cote/)'s operatic work is closely connected with American Opera Projects. With AOP, he has workshopped *Fade* and [*The Scarlet Ibis*](http://www.aopopera.org/scarletibis/) with composer Stefan Weisman, and [*Three Way*](/safe-words-masquerades-nashville-opera-presents-three-way/) with composer Robert Paterson. In progress with AOP are Cote's *We've Got Our Eye on You* with Nkeiru Okoye, and *American Atheist* with Weisman, based on the life and murder of atheist [Madalyn Murray O'Hair](https://en.wikipedia.org/wiki/Madalyn_Murray_O%27Hair).
+
+  We spoke with Cote about the function of an organization like American Opera Projects, and the enormous value of having a workshop environment for new opera.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505060919161/2017-09-10---AOP-square.jpg.jpg
+primary_image_credit: 'American Opera Project''s Composers & The Voice, 2013-14 session,
+  South Oxford Space, Brooklyn. Photo: Ted Gorodetzky.'
+publishDate: "2017-09-12T10:15:00-04:00"
+related_articles:
+- articles/how-did-we-do-second-movement-presents-rough-for-opera-16.md
+- articles/living-up-to-its-name-experiments-in-opera.md
+- articles/talking-with-composers-mark-adamo.md
+- articles/great-operas-dont-just-happen.md
+related_companies:
+- scene/companies/american-opera-projects.md
+short_description: '&quot;You hear the work, and you hear the audience hearing the
+  work. That&#039;s invaluable. As a theater critic, I am by nature self-critical.
+  As an editor, I know the work can always be better. I want to see how the audience
+  reacts. I want to hear their thoughts afterward. You won&#039;t take every suggestion
+  to heart, but one good note can have a huge effect on the final outcome.&quot;'
+slug: american-opera-projects-youre-seeing-the-opera-in-microcosm
+title: 'American Opera Projects: &quot;You&#039;re seeing the opera in microcosm.&quot;'
+---
 
 ## How has American Opera Projects played a role in your professional career?
 

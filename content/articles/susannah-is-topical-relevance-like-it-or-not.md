@@ -1,16 +1,22 @@
-+++
-author = ["authors/tracy-monaghan.md"]
-categories = "Review"
-date = "2018-04-11T09:39:00-04:00"
-lastmod = "2018-04-12T22:42:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523586467428/sq---SE5D1099.jpg.jpg"
-primary_image_credit = "Aaron Short and Chelsea Basler in Susannah, Nashville Opera, 2018. Photo by Anthony Popolo."
-publishDate = "2018-04-12T22:29:00-04:00"
-related_companies = ["scene/companies/nashville-opera.md"]
-short_description = "Susannah is the all-too-common story of a woman, accused and ostracized by her community, raped, and left with more questions than answers, and even less justice. Floyd&#039;s music, at once both modern and nostalgic, presents a challenge to its musicians that Nashville Opera&#039;s singers took on and largely conquered."
-slug = "susannah-is-topical-relevance-like-it-or-not"
-title = "Susannah is topical relevance, like it or not"
-+++
+---
+author:
+- authors/tracy-monaghan.md
+categories: Review
+date: "2018-04-11T09:39:00-04:00"
+lastmod: "2018-04-12T22:42:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523586467428/sq---SE5D1099.jpg.jpg
+primary_image_credit: Aaron Short and Chelsea Basler in Susannah, Nashville Opera,
+  2018. Photo by Anthony Popolo.
+publishDate: "2018-04-12T22:29:00-04:00"
+related_companies:
+- scene/companies/nashville-opera.md
+short_description: Susannah is the all-too-common story of a woman, accused and ostracized
+  by her community, raped, and left with more questions than answers, and even less
+  justice. Floyd&#039;s music, at once both modern and nostalgic, presents a challenge
+  to its musicians that Nashville Opera&#039;s singers took on and largely conquered.
+slug: susannah-is-topical-relevance-like-it-or-not
+title: Susannah is topical relevance, like it or not
+---
 
 The closing production of [Nashville Opera](/scene/companies/nashville-opera/)'s eclectic 2017-2018 season was Carlisle Floyd's [*Susannah*](http://www.nashvilleopera.org/susannah/), which ran from April 6-8. This season featured some truly fantastic singing, in no small part by this cast.
 

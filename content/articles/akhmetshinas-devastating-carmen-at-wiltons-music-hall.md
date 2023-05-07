@@ -1,17 +1,28 @@
-+++
-author = ["authors/vivian-darkbloom.md"]
-categories = "Review"
-date = "2017-11-06T10:21:00-05:00"
-lastmod = "2017-11-06T16:56:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509994470255/2017-11-06---Aigul-Akhmetshina-as-CARMEN--ROH.-PHOTO-BY-CLIVE-BARDA-16.jpg.jpg"
-publishDate = "2017-11-06T16:56:00-05:00"
-related_articles = ["articles/in-review-the-jette-parker-young-artists-present-oreste-.md","articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md","articles/talking-with-singers-aigul-akhmetshina.md","articles/androgyny-is-sexy-carmen-at-roh.md","articles/abrahamyans-carmen-smooth-sexy-and-enticing.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/aigul-akhmetshina.md"]
-short_description = "She was a vixen, but her sensuality was brilliantly balanced with a heartbreaking awareness of her own impending death. Her singing was gorgeous - a rich voice full of colour and flexibility that blossomed into an unexpectedly full, gorgeous sound in the top."
-slug = "akhmetshinas-devastating-carmen-at-wiltons-music-hall"
-title = "Akhmetshina&#039;s &quot;devastating&quot; Carmen at Wilton&#039;s Music Hall"
-+++
+---
+author:
+- authors/vivian-darkbloom.md
+categories: Review
+date: "2017-11-06T10:21:00-05:00"
+lastmod: "2017-11-06T16:56:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509994470255/2017-11-06---Aigul-Akhmetshina-as-CARMEN--ROH.-PHOTO-BY-CLIVE-BARDA-16.jpg.jpg
+publishDate: "2017-11-06T16:56:00-05:00"
+related_articles:
+- articles/in-review-the-jette-parker-young-artists-present-oreste-.md
+- articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md
+- articles/talking-with-singers-aigul-akhmetshina.md
+- articles/androgyny-is-sexy-carmen-at-roh.md
+- articles/abrahamyans-carmen-smooth-sexy-and-enticing.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/aigul-akhmetshina.md
+short_description: She was a vixen, but her sensuality was brilliantly balanced with
+  a heartbreaking awareness of her own impending death. Her singing was gorgeous -
+  a rich voice full of colour and flexibility that blossomed into an unexpectedly
+  full, gorgeous sound in the top.
+slug: akhmetshinas-devastating-carmen-at-wiltons-music-hall
+title: Akhmetshina&#039;s &quot;devastating&quot; Carmen at Wilton&#039;s Music Hall
+---
 
 On Friday night, I had the pleasure of attending the Jette Parker production of *La Tragédie de Carmen*. I wasn't sure how I'd feel about a reduction of such an iconic piece, but it was wonderfully done. The simplification actually served the dramatic shape of the characters. Director Gerard Jones made good use of the space at Wilton's Music Hall, crafting a show that had a wonderful sense of dramatic pacing balanced with humour and tragedy. The internal struggles of the characters became the focus due to the simplicity of the production and its staging. The young singers were also fabulous, carrying us through with consistent and compelling story-telling. 
 

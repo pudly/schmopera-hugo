@@ -1,22 +1,29 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2021-03-31T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1617070930/media/2021/03/LesDelices-WOG-square_blke3i.png"
-primary_image_credit = "Soprano Clara Rottsolk in Women of Genius, Les Délices, 2021. Video still courtesy of Les Délices."
-related_articles = ["articles/overlapping-stories-fall-on-the-house-of-usher.md", "articles/amici-e-rivali-two-gentlemen-and-friendly-rivalry-in-verona.md", "articles/bewitched-by-les-delices-captivating-in-cleveland.md"]
-related_companies = []
-related_people = []
-short_description = "The star of this particular show, composer Elisabeth Jacquet de la Guerre, was hardly left in the shadows. Having gained the support of Lous XIV, she was highly visible with frequent performance of her work. More importantly she enjoyed the rare privilege of having her work published."
-slug = "les-delices-presents-women-of-genius-in-the-ancien-regime"
-title = "Les Délices presents Women of Genius in the Ancien Régime"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2021-03-31T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1617070930/media/2021/03/LesDelices-WOG-square_blke3i.png
+primary_image_credit: Soprano Clara Rottsolk in Women of Genius, Les Délices, 2021.
+  Video still courtesy of Les Délices.
+related_articles:
+- articles/overlapping-stories-fall-on-the-house-of-usher.md
+- articles/amici-e-rivali-two-gentlemen-and-friendly-rivalry-in-verona.md
+- articles/bewitched-by-les-delices-captivating-in-cleveland.md
+related_companies: []
+related_people: []
+short_description: The star of this particular show, composer Elisabeth Jacquet de
+  la Guerre, was hardly left in the shadows. Having gained the support of Lous XIV,
+  she was highly visible with frequent performance of her work. More importantly she
+  enjoyed the rare privilege of having her work published.
+slug: les-delices-presents-women-of-genius-in-the-ancien-regime
+title: Les Délices presents Women of Genius in the Ancien Régime
+youtube_url: ""
+---
 Remember the [Ancien Régime](https://en.wikipedia.org/wiki/Ancien_R%C3%A9gime), that period of glittering royal splendor? It ran from the Late Middle Ages (circa 15th century) until 1789 when the French Revolution, to put it politely, abolished the monarchy and did away with the feudal system so enjoyed by the French nobility. It was also a time when the work of women artists was often left in the shadows. Were it not for Évrard Titon du Tillet, and the failure of his life goal to erect a memorial park to the greatest creative artists in France, they might have remained there.
 
 When the park, with its curious mounds of sculpture, proved beyond his reach, he settled on the creation of _Le parnasse françois_, a biographical dictionary including not only the artistic titans of France but also those who by virtue of their gender might otherwise have remained unrecognized or only minimally noted. Fortunately for the general scope of music history and specifically the research of Les Délices director, Debra Nagy, _Le parnasse françois_ illuminates the path towards the creation of _Women of Genius_. The most recent offering from this stunning Cleveland based ensemble turns the limitations of pandemic performance into yet another adventurous and elegantly entertaining streaming concert.

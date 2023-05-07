@@ -1,16 +1,22 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2018-10-28T12:49:00-04:00"
-lastmod = "2018-10-28T16:16:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540745177708/sqAbsentGrace.jpg.jpg"
-primary_image_credit = "Carley DeFranco in Opera Bites, Boston Opera Collaborative, 2018. Photo: Dan Busler."
-publishDate = "2018-10-28T12:49:00-04:00"
-related_companies = ["scene/companies/boston-opera-collaborative.md"]
-short_description = "Of course no wife would be spurred to murder her husband based on fortune cookie fortunes, but here it happens, and in exactly the kind of over-the-top manner that only opera can pull off. It was a joyous way to end the first half of the program."
-slug = "varied-opera-bites-delivers-interesting-delectable-morsels"
-title = "Varied Opera Bites delivers interesting &amp; delectable morsels"
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2018-10-28T12:49:00-04:00"
+lastmod: "2018-10-28T16:16:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540745177708/sqAbsentGrace.jpg.jpg
+primary_image_credit: 'Carley DeFranco in Opera Bites, Boston Opera Collaborative,
+  2018. Photo: Dan Busler.'
+publishDate: "2018-10-28T12:49:00-04:00"
+related_companies:
+- scene/companies/boston-opera-collaborative.md
+short_description: Of course no wife would be spurred to murder her husband based
+  on fortune cookie fortunes, but here it happens, and in exactly the kind of over-the-top
+  manner that only opera can pull off. It was a joyous way to end the first half of
+  the program.
+slug: varied-opera-bites-delivers-interesting-delectable-morsels
+title: Varied Opera Bites delivers interesting &amp; delectable morsels
+---
 
 Opera is frequently known as an art form infamous for its protracted length. In a sense, the art form almost operates on it; as a former music professor of mine once observed, if it takes a minute to speak it, it can usually take up to ten to set it to music, owing to the way the music needs room to speak on its own. So what, then, is a composer to do if they only have ten minutes to tell a story in music? As it turns out, quite a bit, and this is something that the [Boston Opera Collaborative](/scene/companies/boston-opera-collaborative/) set out to prove with its *Opera Bites* program, its fourth annual staging of a series of ten-minute operas.
 

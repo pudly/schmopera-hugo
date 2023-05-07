@@ -1,22 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2019-09-22T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "If you have an aria you'd like to see featured in our Aria Guides, let us know at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "This aria of Zerlina's, from Act II of _Don Giovanni_, is a prime example of how Mozart lays out a scene that looks simple, until you dig through the subtle layers. Zerlina and her fiancé, Masetto, have had a tough go since the start of this opera, and the latest is that Masetto has gotten beaten bloody by the Don. Zerlina finds him after the fact, and offers, essentially, to kiss it better. Sexual healing. TLC.\n\nThe plot thickens when we consider that earlier in the opera, Zerlina nearly left Masetto for a tryst with the Don, and pouted her way out of getting caught by basically daring Masetto to spank her for being bad. This \"Vedrai, carino\" can be taken as genuine love from Zerlina, or it can be a gross display of emasculation, the operatic equivalent of saying, \"Aw, did Masetto get a boo-boo?\"\n\nAlong with the work you'll do with your teacher and coach, our tips will help you peel back the layers:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569086919/media/2019/09/sqVedrai_xq45w0.jpg"
-primary_image_credit = ""
-related_articles = ["articles/aria-guides-parto-parto.md", "articles/aria-guides-quando-men-vo.md", "articles/aria-guides-deh-vieni-non-tardar.md", "articles/aria-guides-je-suis-encor.md"]
-related_companies = []
-related_people = []
-short_description = "The plot thickens when we consider that Zerlina nearly left Masetto for a tryst with the Don, and pouted her way out of getting caught by basically daring Masetto to spank her for being bad. This current aria can be taken as genuine love from Zerlina, or it can be a gross display of emasculation, the operatic equivalent of saying, \"Aw, did Masetto get a boo-boo?\""
-slug = "aria-guides-vedrai-carino"
-title = "Aria Guides: Vedrai, carino"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2019-09-22T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: If you have an aria you'd like to see featured in our Aria Guides, let
+  us know at [hello@schmopera.com](mailto:hello@schmopera.com).
+preamble: |-
+  This aria of Zerlina's, from Act II of _Don Giovanni_, is a prime example of how Mozart lays out a scene that looks simple, until you dig through the subtle layers. Zerlina and her fiancé, Masetto, have had a tough go since the start of this opera, and the latest is that Masetto has gotten beaten bloody by the Don. Zerlina finds him after the fact, and offers, essentially, to kiss it better. Sexual healing. TLC.
 
-+++
+  The plot thickens when we consider that earlier in the opera, Zerlina nearly left Masetto for a tryst with the Don, and pouted her way out of getting caught by basically daring Masetto to spank her for being bad. This "Vedrai, carino" can be taken as genuine love from Zerlina, or it can be a gross display of emasculation, the operatic equivalent of saying, "Aw, did Masetto get a boo-boo?"
+
+  Along with the work you'll do with your teacher and coach, our tips will help you peel back the layers:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569086919/media/2019/09/sqVedrai_xq45w0.jpg
+primary_image_credit: ""
+related_articles:
+- articles/aria-guides-parto-parto.md
+- articles/aria-guides-quando-men-vo.md
+- articles/aria-guides-deh-vieni-non-tardar.md
+- articles/aria-guides-je-suis-encor.md
+related_companies: []
+related_people: []
+short_description: The plot thickens when we consider that Zerlina nearly left Masetto
+  for a tryst with the Don, and pouted her way out of getting caught by basically
+  daring Masetto to spank her for being bad. This current aria can be taken as genuine
+  love from Zerlina, or it can be a gross display of emasculation, the operatic equivalent
+  of saying, "Aw, did Masetto get a boo-boo?"
+slug: aria-guides-vedrai-carino
+title: 'Aria Guides: Vedrai, carino'
+youtube_url: ""
+---
 * Something to keep in mind right from the start **(1)**: Zerlina has grown up a little since the last aria she sang ("Batti, batti"). She's lived more, and likely learned a bit about her body since her encounter with the Don. It's a bit similar to what a Susanna would feel in _Le nozze di Figaro_, when she arrives at "Deh vieni, non tardar". Zerlina's aria too has a nobility and a maturity about it, a roominess that we don't often associate with soubrette roles. The 3/8 time will give the tune a swinging feel of 1, but stay on the voice as you sustain each pitch. There's time to be deliberate, even with the grace notes in the melody.
 
   <figure data-type="image">

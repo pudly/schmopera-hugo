@@ -1,17 +1,23 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2018-05-12T17:27:00-04:00"
-lastmod = "2018-05-15T12:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526160248240/sq2018BLO-TAHITI-l-r-NFerreira-HJohnson-MBonde-VTurregano_sm.jpg.jpg"
-primary_image_credit = "(l-r) Neal Ferreira, Heather Johnson (Dinah), Mara Bonde, and Vincent Turregano in Trouble in Tahiti, Boston Lyric Opera, 2018. Photo: Liza Voll."
-publishDate = "2018-05-13T19:32:00-04:00"
-related_companies = ["scene/companies/boston-lyric-opera.md"]
-short_description = "As it turns out: with some very intelligent staging and committed performances from the cast, the tale of Sam and Dinah&#039;s dysfunctional marriage became the perfect backdrop for Arias. Thus, it became the kind of thought-provoking evening that I think Bernstein always strived for but never seemed to get through his music."
-slug = "profound-moving-bernstein-double-bill"
-title = "Profound, moving Bernstein double-bill"
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2018-05-12T17:27:00-04:00"
+lastmod: "2018-05-15T12:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526160248240/sq2018BLO-TAHITI-l-r-NFerreira-HJohnson-MBonde-VTurregano_sm.jpg.jpg
+primary_image_credit: '(l-r) Neal Ferreira, Heather Johnson (Dinah), Mara Bonde, and
+  Vincent Turregano in Trouble in Tahiti, Boston Lyric Opera, 2018. Photo: Liza Voll.'
+publishDate: "2018-05-13T19:32:00-04:00"
+related_companies:
+- scene/companies/boston-lyric-opera.md
+short_description: 'As it turns out: with some very intelligent staging and committed
+  performances from the cast, the tale of Sam and Dinah&#039;s dysfunctional marriage
+  became the perfect backdrop for Arias. Thus, it became the kind of thought-provoking
+  evening that I think Bernstein always strived for but never seemed to get through
+  his music.'
+slug: profound-moving-bernstein-double-bill
+title: Profound, moving Bernstein double-bill
+---
 I have never particularly liked a lot of Leonard Bernstein's concert music. For me, many of Bernstein's more serious works are marred by a sense that he is trying too hard to be serious and profound, and this quality of his music only seems to grow stronger the later into his output one dives. Thus, when the Boston Lyric Opera opted to pair [*Trouble in Tahiti* with the *Arias and Barcarolles*](https://blo.org/tahiti/?hsCtaTracking=7d1ec0b4-6415-4b37-8209-06d5d9b0fcb3%7C933d4a83-99ff-44a2-8a81-abe2356e440b), I was admittedly rather apprehensive: I like *Trouble in Tahiti* given that it doesn't take itself too seriously, but the *Arias and Barcarolles* comes from Bernstein's extremely late period where his pretensions got the better of his music. What would pairing *Trouble in Tahiti* with *Arias* do for the evening?
 
 As it turns out: with some very intelligent staging and committed performances from the cast, the tale of Sam and Dinah's dysfunctional marriage became the perfect backdrop for *Arias*. Thus, it became the kind of thought-provoking evening that I think Bernstein always strived for but never seemed to get through his music.

@@ -1,15 +1,21 @@
-+++
-date = "2017-11-19T11:57:00-05:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-11-19T11:58:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511110479040/HILL_PHOTO1_HIRES.jpg.jpg"
-publishDate = "2017-11-19T11:58:00-05:00"
-related_companies = ["scene/companies/calgary-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/the-metropolitan-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md"]
-slug = "andrea-hill"
-title = "Andrea Hill"
-website = "https://www.mezzoandrea.com/"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-11-19T11:57:00-05:00"
+discipline: Mezzo-soprano
+lastmod: "2017-11-19T11:58:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511110479040/HILL_PHOTO1_HIRES.jpg.jpg
+publishDate: "2017-11-19T11:58:00-05:00"
+related_companies:
+- scene/companies/calgary-opera.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/royal-opera-house.md
+- scene/companies/opra-national-de-paris.md
+slug: andrea-hill
+title: Andrea Hill
+website: https://www.mezzoandrea.com/
+---
 
 Last season saw mezzo Andrea Hill singing Mallika in Delibes’ *Lakmé* with Calgary Opera, Dritte Magd and Schleppeträgerin in *Elektra* at the Metropolitan Opera, as well as Flora in Verdi’s *La Traviata* at Royal Opera House. During the 2016/17 season, she sings Zweite Magd in *Elektra* at the Gran Teatre de Liceu in Spain, Komponist in *Ariadne auf Naxos* with Opéra national de Lorraine à Nancy, and performs Mozart’s *Requiem* with the Calgary Philharmonic to inaugurate a new concert hall in her hometown of Calgary, Alberta, Canada. She covers Stephano in the Metropolitan Opera’s Production of *Roméo et Juliette*. She debuts in 2017 with Pacific Opera Victoria as Karolka in *Jenufa* and Rosina in *Il Barbiere di Siviglia* for Calgary Opera. In 2018, she returns to the Metropolitan Opera reprising the role of Dritte Magd in *Elektra*, and Dryade in *Ariadne auf Naxos* for Festival d’Aix-en-Provence.
 

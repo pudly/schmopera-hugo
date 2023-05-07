@@ -1,17 +1,27 @@
-+++
-author = ["authors/erik-flaten.md"]
-categories = "Review"
-date = "2018-09-23T20:33:00-04:00"
-lastmod = "2018-09-23T20:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537749149309/sqNQP15DM.jpg.jpg"
-publishDate = "2018-09-23T20:33:00-04:00"
-related_articles = ["articles/sky-on-swings-a-mustsee-of-o18.md","articles/brenda-rae-earns-her-ovation-in-o18-lucia.md","articles/the-astonishing-product-glass-handel-at-o18.md"]
-related_companies = ["scene/companies/opera-philadelphia.md"]
-related_people = ["scene/people/patricia-racette.md","scene/people/christopher-allen.md"]
-short_description = "Delivering a one-person show is an arduous creative task to accomplish, and Racette does it with astonishing success. When the monodrama is finally over, it takes a moment to return to reality, as Racette has completely transported her audience to Poulenc and Cocteau&#039;s world."
-slug = "racette-an-unmissable-elle-in-o18s-ne-quittez-pas"
-title = "Racette an unmissable Elle in O18&#039;s Ne Quittez Pas"
-+++
+---
+author:
+- authors/erik-flaten.md
+categories: Review
+date: "2018-09-23T20:33:00-04:00"
+lastmod: "2018-09-23T20:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537749149309/sqNQP15DM.jpg.jpg
+publishDate: "2018-09-23T20:33:00-04:00"
+related_articles:
+- articles/sky-on-swings-a-mustsee-of-o18.md
+- articles/brenda-rae-earns-her-ovation-in-o18-lucia.md
+- articles/the-astonishing-product-glass-handel-at-o18.md
+related_companies:
+- scene/companies/opera-philadelphia.md
+related_people:
+- scene/people/patricia-racette.md
+- scene/people/christopher-allen.md
+short_description: Delivering a one-person show is an arduous creative task to accomplish,
+  and Racette does it with astonishing success. When the monodrama is finally over,
+  it takes a moment to return to reality, as Racette has completely transported her
+  audience to Poulenc and Cocteau&#039;s world.
+slug: racette-an-unmissable-elle-in-o18s-ne-quittez-pas
+title: Racette an unmissable Elle in O18&#039;s Ne Quittez Pas
+---
 
 Opera patrons in formal wear waiting in line to enter the Theatre of Living Arts for Saturday night's premiere of *Ne Quittez Pas* were in humorous contrast to the rock club surroundings and the other nearby South Street urban establishments. The venue has been transformed into a late 70's music club, complete with French rock music playing through the speakers. Opera Philadelphia's new production consists of an original prologue consisting of Poulenc art songs, and inspiration from Cocteau's *Les Enfants Terribles*, and poems of Apollinaire, followed by a more well-known *La voix humaine*.
 

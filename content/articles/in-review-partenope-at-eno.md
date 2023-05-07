@@ -1,18 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-03-16T09:26:00+00:00"
-lastmod = "2017-03-17T10:03:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489656315078/2017-03-16---Square---ENO-Partenope-Sarah-Tynan-Donald-Cooper.jpg.jpg"
-primary_image_credit = "Sarah Tynan in the title role of Partenope, English National Opera, 2017. Photo: Donald Cooper."
-publishDate = "2017-03-17T09:42:00+00:00"
-related_articles = ["articles/in-review-rigoletto-at-eno.md","articles/in-review-the-pirates-of-penzance-at-eno.md","articles/laughing-out-loud-the-barber-of-seville-at-eno.md","articles/a-fierce-mob-wife-rodelinda-at-eno.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/rupert-charlesworth.md","scene/people/patricia-bardon.md","scene/people/sarah-tynan.md","scene/people/james-laing.md","scene/people/stephanie-windsorlewis.md"]
-short_description = "There&#039;s no envy on our end for directors who put up Handel operas, and Partenope seems another which poses tricky dramaturgical questions; the biggest of these is the problem fo where these characters are, and why they share a common space. Alden&#039;s open-house concept, where everyone seems to hang out chez Partenope, works well; he finds an organic way to waver between real-time action and inner monologues, as though he hits &quot;pause&quot; and &quot;play&quot; on the general timeline of the story."
-slug = "in-review-partenope-at-eno"
-title = "In review: Partenope at ENO"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-03-16T09:26:00+00:00"
+lastmod: "2017-03-17T10:03:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489656315078/2017-03-16---Square---ENO-Partenope-Sarah-Tynan-Donald-Cooper.jpg.jpg
+primary_image_credit: 'Sarah Tynan in the title role of Partenope, English National
+  Opera, 2017. Photo: Donald Cooper.'
+publishDate: "2017-03-17T09:42:00+00:00"
+related_articles:
+- articles/in-review-rigoletto-at-eno.md
+- articles/in-review-the-pirates-of-penzance-at-eno.md
+- articles/laughing-out-loud-the-barber-of-seville-at-eno.md
+- articles/a-fierce-mob-wife-rodelinda-at-eno.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/rupert-charlesworth.md
+- scene/people/patricia-bardon.md
+- scene/people/sarah-tynan.md
+- scene/people/james-laing.md
+- scene/people/stephanie-windsorlewis.md
+short_description: There&#039;s no envy on our end for directors who put up Handel
+  operas, and Partenope seems another which poses tricky dramaturgical questions;
+  the biggest of these is the problem fo where these characters are, and why they
+  share a common space. Alden&#039;s open-house concept, where everyone seems to hang
+  out chez Partenope, works well; he finds an organic way to waver between real-time
+  action and inner monologues, as though he hits &quot;pause&quot; and &quot;play&quot;
+  on the general timeline of the story.
+slug: in-review-partenope-at-eno
+title: 'In review: Partenope at ENO'
+---
 
 Handel's setting of Silvio Stampiglia's wildly popular libretto, [*Partenope*](https://www.eno.org/whats-on/partenope/), is the best-known of the at least ten operatic versions from the 18th century. Though in his opera she is the Queen of Naples, Partenope is also the name of one of the sirens of Greek mythology, the half-bird, half-human creatures who lured sailors, fatally, with the sounds of their voices.
 

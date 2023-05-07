@@ -1,22 +1,38 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = 2022-05-15T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "The [COC's production of _La traviata_](https://www.coc.ca/productions/23083) runs through May 20, 2022."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1652706078/media/2022/05/sqCOC_Traviata_21-22-01-MC-D-0398_i9jqdc.jpg"
-primary_image_credit = "Amina Edris (in front) as Violetta and Matthew Polenzani as Alfredo in the Canadian Opera Company’s production of La Traviata, 2022, photo: Michael Cooper."
-related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/la-traviata-shows-houston-how-to-arise.md", "articles/installation-la-traviata-intimate-and-effective-production.md"]
-related_companies = ["scene/companies/houston-grand-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/jamie-groote.md", "scene/people/gregory-dahl.md", "scene/people/adam-luther.md", "scene/people/matthew-polenzani.md", "scene/people/simone-piazzola.md"]
-short_description = "Legato in spades and a magnetic presence on the stage that was at times hypnotizing, her \"Sempre libera\" (an aria that holds a particularly special place in the hearts of Queers in my generation) brought the house down."
-slug = "review-the-cocs-prima-la-musica-la-traviata"
-title = "Review: the COC's \"prima la musica\" La traviata"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2022-05-15T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: The [COC's production of _La traviata_](https://www.coc.ca/productions/23083)
+  runs through May 20, 2022.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1652706078/media/2022/05/sqCOC_Traviata_21-22-01-MC-D-0398_i9jqdc.jpg
+primary_image_credit: 'Amina Edris (in front) as Violetta and Matthew Polenzani as
+  Alfredo in the Canadian Opera Company’s production of La Traviata, 2022, photo:
+  Michael Cooper.'
+related_articles:
+- articles/talking-with-singers-matthew-polenzani.md
+- articles/la-traviata-shows-houston-how-to-arise.md
+- articles/installation-la-traviata-intimate-and-effective-production.md
+related_companies:
+- scene/companies/houston-grand-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/jamie-groote.md
+- scene/people/gregory-dahl.md
+- scene/people/adam-luther.md
+- scene/people/matthew-polenzani.md
+- scene/people/simone-piazzola.md
+short_description: Legato in spades and a magnetic presence on the stage that was
+  at times hypnotizing, her "Sempre libera" (an aria that holds a particularly special
+  place in the hearts of Queers in my generation) brought the house down.
+slug: review-the-cocs-prima-la-musica-la-traviata
+title: 'Review: the COC''s "prima la musica" La traviata'
+youtube_url: ""
+---
 Hello, Schmop-Tops!
 
 While still riding the high from my first trip across the boards since the world shut down two years ago, my first fully-staged opera as an audience member/reviewer — in person — happened to be one of the best ones any opera lover could have asked for: Verdi's _La traviata_.

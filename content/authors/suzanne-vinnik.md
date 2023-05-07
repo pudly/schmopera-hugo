@@ -1,21 +1,26 @@
-+++
-date = "2016-08-23T11:18:00+01:00"
-lastmod = "2016-08-23T11:18:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471947371938/jeiRD59jobaenuTJoLvi7A8beomBULopuAmMO6yRFQiZqkBivFNVKlJunN325g8afcXoC58XOr-3oBuathcdAawduZTy%3Dw1360-h1360"
-publishDate = "2016-08-23T11:18:00+01:00"
-short_bio = "Soprano, Suzanne Vinnik has appeared with some of the leading regional opera houses and international concert stages throughout her career and has been praised by the *New York Times* as a &quot;voice notable for its dramatic nuance&quot; and described by *Opera News* as &quot;Refreshing...[With] beautifully molded, vividly communicative phrasing.&quot;\n\nIn addition to singing, she is the founder of the popular Opera Diva Dress Collection (a network marketplace of over 6,200 female opera singers) and photographer. "
-slug = "suzanne-vinnik"
-title = "Suzanne Vinnik"
-website = "http://www.suzannevinnik.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/suzannevinniksoprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/suzannevinnik"
-+++
+---
+date: "2016-08-23T11:18:00+01:00"
+lastmod: "2016-08-23T11:18:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471947371938/jeiRD59jobaenuTJoLvi7A8beomBULopuAmMO6yRFQiZqkBivFNVKlJunN325g8afcXoC58XOr-3oBuathcdAawduZTy%3Dw1360-h1360
+publishDate: "2016-08-23T11:18:00+01:00"
+short_bio: "Soprano, Suzanne Vinnik has appeared with some of the leading regional
+  opera houses and international concert stages throughout her career and has been
+  praised by the *New York Times* as a &quot;voice notable for its dramatic nuance&quot;
+  and described by *Opera News* as &quot;Refreshing...[With] beautifully molded, vividly
+  communicative phrasing.&quot;\n\nIn addition to singing, she is the founder of the
+  popular Opera Diva Dress Collection (a network marketplace of over 6,200 female
+  opera singers) and photographer. "
+slug: suzanne-vinnik
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/suzannevinniksoprano
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/suzannevinnik
+title: Suzanne Vinnik
+website: http://www.suzannevinnik.com/
+---
 
 Soprano, Suzanne Vinnik has appeared with some of the leading regional opera houses and international concert stages throughout her career and has been praised by the *New York Times* as a "voice notable for its dramatic nuance" and described by *Opera News* as "Refreshing...[With] beautifully molded, vividly communicative phrasing."
 

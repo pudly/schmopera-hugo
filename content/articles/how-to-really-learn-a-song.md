@@ -1,16 +1,40 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2015-06-07T14:44:00-04:00"
-lastmod = "2017-11-22T16:51:00-05:00"
-preamble = "The universal steps to learning a song, I know you've all got them down. You can read music, count rhythms, learn language, and tell stories. A lot of the music I work with involves a pianist and singer, and duetting is all about communication. In the process of \"learning your part,\" it's easy to forget to look up (or down) at some of the other musical lines happening in tandem with your own. Pianists are often guilty of getting micro-focused on what they're playing, forgetting to read the singers' words. Conversely, singers often learn their songs without fully taking advantage of the information in the piano part. Here are a few ways to do that, and improve your song-learning system."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433720099034/SongScore.jpg.jpg"
-publishDate = "2015-06-08T08:00:00-04:00"
-related_articles = ["articles/how-to-lead-your-pianist.md","articles/4-tips-for-when-there-are-too-many-notes.md","articles/5-tips-for-university-auditionees.md","articles/music-school-auditions-4-tips-for-parents.md","articles/4-secrets-for-better-high-notes.md","articles/quick-tips-the-rolled-r-test.md","articles/4-traits-of-a-great-cadenza.md","articles/organizing-your-scores-a-serious-business.md","articles/4-ways-to-test-your-memory.md","articles/dont-miss-songfest-alumni-in-recital.md"]
-short_description = "The universal steps to learning a song, I know you&#039;ve all got them down. You can read music, count rhythms, learn language, and tell stories. A lot of the music I work with involves a pianist and singer, and duetting is all about communication. In the process of &quot;learning your part,&quot; it&#039;s easy to forget to look up (or down) at some of the other musical lines happening in tandem with your own. "
-slug = "how-to-really-learn-a-song"
-title = "How to really learn a song"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2015-06-07T14:44:00-04:00"
+lastmod: "2017-11-22T16:51:00-05:00"
+preamble: The universal steps to learning a song, I know you've all got them down.
+  You can read music, count rhythms, learn language, and tell stories. A lot of the
+  music I work with involves a pianist and singer, and duetting is all about communication.
+  In the process of "learning your part," it's easy to forget to look up (or down)
+  at some of the other musical lines happening in tandem with your own. Pianists are
+  often guilty of getting micro-focused on what they're playing, forgetting to read
+  the singers' words. Conversely, singers often learn their songs without fully taking
+  advantage of the information in the piano part. Here are a few ways to do that,
+  and improve your song-learning system.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433720099034/SongScore.jpg.jpg
+publishDate: "2015-06-08T08:00:00-04:00"
+related_articles:
+- articles/how-to-lead-your-pianist.md
+- articles/4-tips-for-when-there-are-too-many-notes.md
+- articles/5-tips-for-university-auditionees.md
+- articles/music-school-auditions-4-tips-for-parents.md
+- articles/4-secrets-for-better-high-notes.md
+- articles/quick-tips-the-rolled-r-test.md
+- articles/4-traits-of-a-great-cadenza.md
+- articles/organizing-your-scores-a-serious-business.md
+- articles/4-ways-to-test-your-memory.md
+- articles/dont-miss-songfest-alumni-in-recital.md
+short_description: 'The universal steps to learning a song, I know you&#039;ve all
+  got them down. You can read music, count rhythms, learn language, and tell stories.
+  A lot of the music I work with involves a pianist and singer, and duetting is all
+  about communication. In the process of &quot;learning your part,&quot; it&#039;s
+  easy to forget to look up (or down) at some of the other musical lines happening
+  in tandem with your own. '
+slug: how-to-really-learn-a-song
+title: How to really learn a song
+---
 
 ### Know your rhythm, know everyone's rhythm
 

@@ -1,14 +1,17 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2014-08-19T12:35:00-04:00"
-lastmod = "2015-04-16T22:21:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429237046030/Reddit-Has-Added-an-Embed-Option-for-Comments-476710-2.jpg.jpg"
-publishDate = "2014-08-19T12:35:00-04:00"
-short_description = "There is a dude out there on the Internet who has gotten the opera bug. Great news, we all say! Good choice, sir. Even better, the budding operaphile is reaching out via r/opera, asking how to get a proper introduction to opera. "
-slug = "roperas-jackpot-post"
-title = "r/opera&#039;s jackpot post"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2014-08-19T12:35:00-04:00"
+lastmod: "2015-04-16T22:21:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429237046030/Reddit-Has-Added-an-Embed-Option-for-Comments-476710-2.jpg.jpg
+publishDate: "2014-08-19T12:35:00-04:00"
+short_description: 'There is a dude out there on the Internet who has gotten the opera
+  bug. Great news, we all say! Good choice, sir. Even better, the budding operaphile
+  is reaching out via r/opera, asking how to get a proper introduction to opera. '
+slug: roperas-jackpot-post
+title: r/opera&#039;s jackpot post
+---
 
 There is a dude out there on the Internet who has gotten the opera bug. Great news, we all say! Good choice, sir. Even better, the budding operaphile is reaching out via [r/opera](http://www.reddit.com/r/opera/), asking how to get a proper introduction to opera. His post is titled, ["Help a noob expand his opera horizons"](http://np.reddit.com/r/opera/comments/2d917h/help_a_noob_expand_his_opera_horizons/), and he asks,
 

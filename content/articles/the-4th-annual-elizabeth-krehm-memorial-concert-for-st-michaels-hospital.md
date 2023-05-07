@@ -1,16 +1,24 @@
-+++
-author = ["authors/greg.md"]
-categories = "News"
-date = "2016-11-08T15:00:00+00:00"
-lastmod = "2016-11-12T16:07:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478617553659/2016-11-09---Memorial.jpg.jpg"
-publishDate = "2016-11-12T15:23:00+00:00"
-related_articles = ["articles/this-years-elizabeth-krehm-memorial-concert-a-followup.md"]
-related_people = ["scene/people/rachel-krehm.md"]
-short_description = "The program this year features Rachel Krehm herself, violinists Yosuke Kawasaki and Jessica Linnebach, and Evan Mitchell, music director of the Kingston Symphony and the Canzona Chamber Players Orchestra. They will be presenting a full program of Bach&#039;s Concerto for Two Violins in D minor, selected songs and arias by Mozart, Dvořák, and Strauss, and a performance of Beethoven&#039;s classic, Symphony no. 3 &quot;Eroica&quot;."
-slug = "the-4th-annual-elizabeth-krehm-memorial-concert-for-st-michaels-hospital"
-title = "The 4th annual Elizabeth Krehm Memorial Concert for St. Michael&#039;s Hospital"
-+++
+---
+author:
+- authors/greg.md
+categories: News
+date: "2016-11-08T15:00:00+00:00"
+lastmod: "2016-11-12T16:07:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478617553659/2016-11-09---Memorial.jpg.jpg
+publishDate: "2016-11-12T15:23:00+00:00"
+related_articles:
+- articles/this-years-elizabeth-krehm-memorial-concert-a-followup.md
+related_people:
+- scene/people/rachel-krehm.md
+short_description: The program this year features Rachel Krehm herself, violinists
+  Yosuke Kawasaki and Jessica Linnebach, and Evan Mitchell, music director of the
+  Kingston Symphony and the Canzona Chamber Players Orchestra. They will be presenting
+  a full program of Bach&#039;s Concerto for Two Violins in D minor, selected songs
+  and arias by Mozart, Dvořák, and Strauss, and a performance of Beethoven&#039;s
+  classic, Symphony no. 3 &quot;Eroica&quot;.
+slug: the-4th-annual-elizabeth-krehm-memorial-concert-for-st-michaels-hospital
+title: The 4th annual Elizabeth Krehm Memorial Concert for St. Michael&#039;s Hospital
+---
 
 Hello Schmop-Tops, 
 

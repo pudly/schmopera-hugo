@@ -1,18 +1,22 @@
-+++
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581215895/media/2020/02/MichaelKuhn_pbunfo.jpg"
-primary_image_credit = "Photo: Andrew Power."
-related_companies = ["scene/companies/on-site-opera.md", "scene/companies/virginia-opera.md", "scene/companies/florida-grand-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/opera-omaha.md"]
-slug = "michael-kuhn"
-title = "Michael Kuhn"
-website = "http://michaelkuhntenor.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/mrk814/"
-
-_template = "people_single"
-+++
+---
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1581215895/media/2020/02/MichaelKuhn_pbunfo.jpg
+primary_image_credit: 'Photo: Andrew Power.'
+related_companies:
+- scene/companies/on-site-opera.md
+- scene/companies/virginia-opera.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/opera-omaha.md
+slug: michael-kuhn
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/mrk814/
+title: Michael Kuhn
+website: http://michaelkuhntenor.com/
+---
 Described as “an artist of almost terrifying magnetism” (_New York Observer_), “polished, soignee and hot to trot” (The Houston Press), and praised for his "clear and robust" tenor (_Opera News_), Michael Kuhn is a versatile singing-actor equally at home in the fields of opera, musical theatre and concert repertoire.
 
 Michael recently made his debut at Carnegie Hall as the tenor soloist in Haydn’s _Mariazellermesse_ with MidAmerica Productions. In New York City, He has performed in two Off-Broadway runs of Vid Guerrerio’s _¡Figaro! 90210_ as Basel, and was most recently seen as Romano in the world premiere of Stonewall by Iain Bell and Mark Campbell, produced by New York City Opera in conjunction with the 50 year anniversary of the Stonewall Riots. Michael has performed throughout the US at companies such as Opera Theatre of St. Louis, Florida Grand Opera, Central City Opera, Virginia Opera, Syracuse Opera, The Caramoor Festival, The Princeton Festival, Opera in the Heights, Livermore Valley Opera and more. In the summer of 2018 he made his international debut with France’s Festival Lyrique-en-Mer as Spoletta in Tosca and as the tenor soloist in Haydn’s _Lord Nelson Mass_, and returns in 2019 as Normanno in _Lucia di Lammermoor_. Later this season, he portrays Martin in the upcoming staged workshop of STAY by John Glover and Kelley Rourke with On Site Opera on New York City’s Governor’s Island, and makes his debut with Opera Omaha as Pedrillo in _Die Entführung aus dem Serail_.

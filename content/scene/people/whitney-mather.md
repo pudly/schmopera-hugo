@@ -1,28 +1,31 @@
-+++
-date = "2016-06-24T22:27:00-06:00"
-discipline = "Soprano"
-lastmod = "2016-06-24T22:27:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466828635695/pRcVykDIg6ov-UI9KPM1dki9pzMgz0Qv5Jqk7cKB5t2UrCdx3yOISIr8qaB8hT3q5Cf7AuPL5_13u_1gKPhs5bkMhtI%3Dw680-h680-c"
-primary_image_credit = "Photo: En Vogue Photography"
-publishDate = "2016-06-24T22:27:00-06:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/tapestry-opera.md","scene/companies/opera-atelier.md","scene/companies/indie-opera-to.md","scene/companies/vera-causa-opera.md"]
-slug = "whitney-mather"
-title = "Whitney Mather"
-website = "http://whitneymather.com/#home"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/whitney.j.mather"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/WhitneyJMather"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/whitneymather/"
-_template = "people_single"
-+++
+---
+date: "2016-06-24T22:27:00-06:00"
+discipline: Soprano
+lastmod: "2016-06-24T22:27:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466828635695/pRcVykDIg6ov-UI9KPM1dki9pzMgz0Qv5Jqk7cKB5t2UrCdx3yOISIr8qaB8hT3q5Cf7AuPL5_13u_1gKPhs5bkMhtI%3Dw680-h680-c
+primary_image_credit: 'Photo: En Vogue Photography'
+publishDate: "2016-06-24T22:27:00-06:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/tapestry-opera.md
+- scene/companies/opera-atelier.md
+- scene/companies/indie-opera-to.md
+- scene/companies/vera-causa-opera.md
+slug: whitney-mather
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/whitney.j.mather
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/WhitneyJMather
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/whitneymather/
+title: Whitney Mather
+website: http://whitneymather.com/#home
+---
 
 Award winning soprano Whitney Mather is recognized for her considerable poise and expressivity and continues to shine in both opera and art song repertoires. Ms. Mather also enjoys the challenge of working in new music and is thrilled to be a part of the indie opera scene in Toronto. 
 

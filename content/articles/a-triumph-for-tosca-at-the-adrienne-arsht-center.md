@@ -1,22 +1,30 @@
-+++
-author = ["authors/samuel-loetscher.md"]
-categories = "Review"
-date = 2023-03-21T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679403180/media/2023/03/sqTosca_DSC7251_bkbuxm.jpg"
-primary_image_credit = "A scene from Florida Grand Opera's production of Tosca, 2023. Photo: Daniel Azoulay."
-related_articles = []
-related_companies = ["scene/companies/florida-grand-opera.md"]
-related_people = ["scene/people/toni-marie-palmertree.md", "scene/people/arturo-chacón-cruz.md", "scene/people/todd-thomas.md"]
-short_description = "Toni Marie Palmertree, who portrayed Floria Tosca, delivered a truly remarkable performance. Her voice was powerful, clear, and expressive, capturing the complex emotions of the character with ease. Palmertree's acting was equally impressive, embodying Tosca's fiery temperament and vulnerabilities masterfully."
-slug = "a-triumph-for-tosca-at-the-adrienne-arsht-center"
-title = "A Triumph for Tosca at the Adrienne Arsht Center"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/samuel-loetscher.md
+categories: Review
+date: "2023-03-21T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1679403180/media/2023/03/sqTosca_DSC7251_bkbuxm.jpg
+primary_image_credit: 'A scene from Florida Grand Opera''s production of Tosca, 2023.
+  Photo: Daniel Azoulay.'
+related_articles: []
+related_companies:
+- scene/companies/florida-grand-opera.md
+related_people:
+- scene/people/toni-marie-palmertree.md
+- scene/people/arturo-chacón-cruz.md
+- scene/people/todd-thomas.md
+short_description: Toni Marie Palmertree, who portrayed Floria Tosca, delivered a
+  truly remarkable performance. Her voice was powerful, clear, and expressive, capturing
+  the complex emotions of the character with ease. Palmertree's acting was equally
+  impressive, embodying Tosca's fiery temperament and vulnerabilities masterfully.
+slug: a-triumph-for-tosca-at-the-adrienne-arsht-center
+title: A Triumph for Tosca at the Adrienne Arsht Center
+youtube_url: ""
+---
 The opening night performance of _Tosca_ at the Adrienne Arsht Center on March 18th was a stunning production, led by an outstanding cast and creative team. [Florida Grand Opera](/scene/companies/florida-grand-opera/)'s production is a timeless tale of love, jealousy, and betrayal. Set in 19th-century Rome during the Napoleonic Wars, _Tosca_ follows its titular character who is torn from her love for Mario Cavaradossi by the corrupt police chief Scarpia.
 
 Cavaradossi, an artist and a political idealist, aids in the escape of a political prisoner, attracting the ire of Scarpia who believes that Cavaradossi has information that could be useful in capturing the escapee. However, Scarpia's motivations for arresting Cavaradossi go beyond his duty to protect the government when he ropes Tosca into his investigation.

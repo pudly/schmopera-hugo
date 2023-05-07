@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-05-29T20:56:00+01:00"
-lastmod = "2016-05-31T09:53:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464625036786/2016-05-31---Aurora-Orch-Rehearsal---Nick-Rutter.jpg.jpg"
-primary_image_credit = "Aurora Orchestra Principal Conductor Nicholas Collon in rehearsal. Photo: Nick Rutter."
-publishDate = "2016-05-30T21:32:00+01:00"
-related_articles = ["articles/great-nights-sketches-of-miles.md","articles/robert-ames-deep-minimalism-lco.md","articles/6-operas-to-creep-you-out.md","articles/dont-miss-accelerando-with-esprit-orchestra.md","articles/dont-miss-in-the-alps-with-the-aurora-orchestra.md"]
-related_companies = ["scene/companies/aurora-orchestra.md"]
-related_people = ["scene/people/marcus-farnsworth.md","scene/people/sarah-tynan.md"]
-short_description = "Farnsworth was the perfect surreal emcee-type. With direction by Martin Berry, Farnsworth&#039;s extraordinary character was layers thick, at once a gleeful child, enamoured with the music around him and the tales he tells, and an unpredictable psychopath. His vocal gymnastics were paired with delightful virtuosity on some of the toy instruments that Grüber includes in his scoring, like slide whistles and kazoos."
-slug = "aurora-orchestra-fun-frankenstein"
-title = "Aurora Orchestra, fun, &amp; Frankenstein!!"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-05-29T20:56:00+01:00"
+lastmod: "2016-05-31T09:53:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464625036786/2016-05-31---Aurora-Orch-Rehearsal---Nick-Rutter.jpg.jpg
+primary_image_credit: 'Aurora Orchestra Principal Conductor Nicholas Collon in rehearsal.
+  Photo: Nick Rutter.'
+publishDate: "2016-05-30T21:32:00+01:00"
+related_articles:
+- articles/great-nights-sketches-of-miles.md
+- articles/robert-ames-deep-minimalism-lco.md
+- articles/6-operas-to-creep-you-out.md
+- articles/dont-miss-accelerando-with-esprit-orchestra.md
+- articles/dont-miss-in-the-alps-with-the-aurora-orchestra.md
+related_companies:
+- scene/companies/aurora-orchestra.md
+related_people:
+- scene/people/marcus-farnsworth.md
+- scene/people/sarah-tynan.md
+short_description: Farnsworth was the perfect surreal emcee-type. With direction by
+  Martin Berry, Farnsworth&#039;s extraordinary character was layers thick, at once
+  a gleeful child, enamoured with the music around him and the tales he tells, and
+  an unpredictable psychopath. His vocal gymnastics were paired with delightful virtuosity
+  on some of the toy instruments that Grüber includes in his scoring, like slide whistles
+  and kazoos.
+slug: aurora-orchestra-fun-frankenstein
+title: Aurora Orchestra, fun, &amp; Frankenstein!!
+---
 
 Somehow, it wasn't until this past weekend that we experienced the surreal magic that is Heinz Karl Grüber's *Frankenstein!!*. Grüber's "pan-demonium" for chansonnier and orchestra fit in beautifully with [Aurora Orchestra](/scene/companies/aurora-orchestra/)'s [*Playing with Fire*](http://www.auroraorchestra.com/event/playing-with-fire/) programme at Royal Festival Hall, which was inspired by the story of Prometheus. *Frankenstein!!* was book-ended by two work of Beethoven's, his *The Creatures of Prometheus*, Op. 43, and a memorised (!) performance of his Symphony no. 5, Op. 67. The Aurora Orchestra played to a compact audience, packed into the choral pews on the stage of the RFH; an original film commissioned by Stanton Media was projected on a screen behind the performers to add to the eerie, risky vibe of the evening.
 

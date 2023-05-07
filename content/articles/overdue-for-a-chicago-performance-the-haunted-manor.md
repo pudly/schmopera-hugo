@@ -1,15 +1,23 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = "2017-11-08T09:31:00-05:00"
-lastmod = "2017-11-08T09:53:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510151745442/2017-11-08---square---PaSO-Hanted-Manor---Return-of-Hunters.jpg.jpg"
-publishDate = "2017-11-08T09:53:00-05:00"
-related_articles = ["articles/in-review-stiffelio.md","articles/in-review-bluebeards-castle-erwartung.md","articles/in-review-boris-godunov.md"]
-short_description = "I must confess a certain bias on my part for this opera. As both a Chicagoan and fellow Pole, this opera has had a special place in my heart since my childhood. I grew up with its melodies and rhythms and came to appreciate its historical significance in Polish Saturday School. Naturally, I was thrilled to learn of a Chicago production."
-slug = "overdue-for-a-chicago-performance-the-haunted-manor"
-title = "Overdue for a Chicago performance: The Haunted Manor"
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2017-11-08T09:31:00-05:00"
+lastmod: "2017-11-08T09:53:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510151745442/2017-11-08---square---PaSO-Hanted-Manor---Return-of-Hunters.jpg.jpg
+publishDate: "2017-11-08T09:53:00-05:00"
+related_articles:
+- articles/in-review-stiffelio.md
+- articles/in-review-bluebeards-castle-erwartung.md
+- articles/in-review-boris-godunov.md
+short_description: I must confess a certain bias on my part for this opera. As both
+  a Chicagoan and fellow Pole, this opera has had a special place in my heart since
+  my childhood. I grew up with its melodies and rhythms and came to appreciate its
+  historical significance in Polish Saturday School. Naturally, I was thrilled to
+  learn of a Chicago production.
+slug: overdue-for-a-chicago-performance-the-haunted-manor
+title: 'Overdue for a Chicago performance: The Haunted Manor'
+---
 
 There are certain opera productions that, once planned and announced, ride a wave of excitement, promotion and hype, promising a magnificent splash on opening night: an event not to be missed. Such was the case with Stanisław Moniuszko's (1819-1872) *Straszny Dwór* (*The Haunted Manor*), put on at Chicago's Copernicus Center by the Paderewski Symphony Orchestra, Chorus, and invited guest singers from Poland. 
 

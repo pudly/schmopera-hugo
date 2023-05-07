@@ -1,22 +1,27 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2019-11-02T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572741391/media/2019/11/sqAmyShoremountObra_AliseJordheim_piy3b9.jpg"
-primary_image_credit = "Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo: Kathy Wittman."
-related_articles = ["articles/reliably-bubbly-belle-hélène-a-delight.md", "articles/grand-if-overlong-henry-viii.md"]
-related_companies = ["scene/companies/odyssey-opera.md"]
-related_people = []
-short_description = "\"I absolutely believe the program's assertion that Pacini was Rossini's main rival for the bel canto crown during the peak of his career.\""
-slug = "revived-maria-regina-dinghilterra-a-crowd-pleasing-guilty-pleasure"
-title = "Revived Maria, Regina d’Inghilterra A Crowd-Pleasing Guilty Pleasure"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-11-02T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1572741391/media/2019/11/sqAmyShoremountObra_AliseJordheim_piy3b9.jpg
+primary_image_credit: 'Odyssey Opera''s production of Maria, Regina d''Inghilterra,
+  2019. Photo: Kathy Wittman.'
+related_articles:
+- articles/reliably-bubbly-belle-hélène-a-delight.md
+- articles/grand-if-overlong-henry-viii.md
+related_companies:
+- scene/companies/odyssey-opera.md
+related_people: []
+short_description: '"I absolutely believe the program''s assertion that Pacini was
+  Rossini''s main rival for the bel canto crown during the peak of his career."'
+slug: revived-maria-regina-dinghilterra-a-crowd-pleasing-guilty-pleasure
+title: Revived Maria, Regina d’Inghilterra A Crowd-Pleasing Guilty Pleasure
+youtube_url: ""
+---
 I have a minor confession to make: with a few very notable exceptions, I have never understood the appeal of the bel canto opera to any opera-going audience. I find bel canto operas to be exceedingly fluffy affairs with music that is frequently either too cheerful to be dramatic, or too perfunctory and by-the-numbers to be comedic.
 
 They are, with a few notable exceptions (primarily by Rossini and Bellini), operatic cotton candy: sweet, brightly-colored, and entirely full of hot air.

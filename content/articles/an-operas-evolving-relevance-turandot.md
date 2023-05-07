@@ -1,18 +1,34 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Review"
-date = "2018-01-14T20:16:00-05:00"
-lastmod = "2018-01-15T12:53:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978720270/sq---Josh-Lovell_Amber-Wagner_TURANDOT_LYR171202_318_c.Todd-Rosenberg.jpg.jpg"
-primary_image_credit = "Josh Lovell (Altoum) and Amber Wagner (Turandot) in Turandot, Lyric Opera of Chicago, 2017/18. Photo: Todd Rosenberg."
-publishDate = "2018-01-14T20:16:00-05:00"
-related_articles = ["articles/a-problematic-creaky-old-masterpiece-les-vpres-siciliennes.md","articles/rohs-madama-butterfly-better-to-be-furious-than-bored.md","articles/pass-the-tissues-a-beautiful-new-bohme-in-chicago.md","articles/glamour-fury-idomeneo-in-chicago.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/amber-wagner.md","scene/people/janai-brugger.md","scene/people/stefano-la-colla.md","scene/people/zachary-nelson.md"]
-short_description = "Ultimately, the vision of &quot;China&quot; that Puccini articulated with his Turandot is pure fantasy. While his scrupulousness in incorporating elements of Chinese music-making into his score is self-evident, there is little to suggest the other trappings of Turandot are anything other than an over-eagerness on the part of Puccini and his librettists to produce a spectacle that no one had seen before."
-slug = "an-operas-evolving-relevance-turandot"
-title = "An opera&#039;s evolving relevance: Turandot"
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Review
+date: "2018-01-14T20:16:00-05:00"
+lastmod: "2018-01-15T12:53:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978720270/sq---Josh-Lovell_Amber-Wagner_TURANDOT_LYR171202_318_c.Todd-Rosenberg.jpg.jpg
+primary_image_credit: 'Josh Lovell (Altoum) and Amber Wagner (Turandot) in Turandot,
+  Lyric Opera of Chicago, 2017/18. Photo: Todd Rosenberg.'
+publishDate: "2018-01-14T20:16:00-05:00"
+related_articles:
+- articles/a-problematic-creaky-old-masterpiece-les-vpres-siciliennes.md
+- articles/rohs-madama-butterfly-better-to-be-furious-than-bored.md
+- articles/pass-the-tissues-a-beautiful-new-bohme-in-chicago.md
+- articles/glamour-fury-idomeneo-in-chicago.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/amber-wagner.md
+- scene/people/janai-brugger.md
+- scene/people/stefano-la-colla.md
+- scene/people/zachary-nelson.md
+short_description: Ultimately, the vision of &quot;China&quot; that Puccini articulated
+  with his Turandot is pure fantasy. While his scrupulousness in incorporating elements
+  of Chinese music-making into his score is self-evident, there is little to suggest
+  the other trappings of Turandot are anything other than an over-eagerness on the
+  part of Puccini and his librettists to produce a spectacle that no one had seen
+  before.
+slug: an-operas-evolving-relevance-turandot
+title: 'An opera&#039;s evolving relevance: Turandot'
+---
 
 An imperious gold dragon coils around the stage of the Lyric this January, its enormous serpentine body and outstretched talons frame the stage for performances of [*Turandot*](https://www.lyricopera.org/concertstickets/calendar/2017-2018/productions/lyricopera/turandot-opera-tickets), Puccini's final and most lavish opera. This visually splendid production, designed by Allen Charles Klein, has the old-school spectacle you crave in a Turandot without the elaborate fussiness of Zeffirelli's famed Met production.
 

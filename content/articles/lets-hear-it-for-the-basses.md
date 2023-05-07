@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-04-13T16:53:00+01:00"
-lastmod = "2016-04-14T11:38:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460628385547/2016-04-14---Double-Bass.jpg.jpg"
-primary_image_credit = "Photo: Jenny Downing via Flickr."
-publishDate = "2016-04-14T11:38:00+01:00"
-related_articles = ["articles/fachisms-stereotypes-for-a-reason.md", "articles/talking-with-singers-christian-van-horn.md"]
-related_people = ["scene/people/christian-van-horn.md", "scene/people/neil-craighead.md", "scene/people/ain-anger.md", "scene/people/robert-pomakov.md", "scene/people/alain-coulombe.md"]
-short_description = "It can be a tough life for those basses; not only are they rarely the title role in an opera, but they spend a huge amount of kind being skeevy, grabby old men at the party, or money-hungry meddlers, or murderous recluses. When they&#039;re not any of those things, they&#039;re penniless philosophers making much out of the meaning of donating a coat, or morally questionable cult leaders, or four different faces of the devil."
-slug = "lets-hear-it-for-the-basses"
-title = "Let's hear it for the basses"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-04-13T16:53:00+01:00"
+lastmod: "2016-04-14T11:38:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460628385547/2016-04-14---Double-Bass.jpg.jpg
+primary_image_credit: 'Photo: Jenny Downing via Flickr.'
+publishDate: "2016-04-14T11:38:00+01:00"
+related_articles:
+- articles/fachisms-stereotypes-for-a-reason.md
+- articles/talking-with-singers-christian-van-horn.md
+related_people:
+- scene/people/christian-van-horn.md
+- scene/people/neil-craighead.md
+- scene/people/ain-anger.md
+- scene/people/robert-pomakov.md
+- scene/people/alain-coulombe.md
+short_description: It can be a tough life for those basses; not only are they rarely
+  the title role in an opera, but they spend a huge amount of kind being skeevy, grabby
+  old men at the party, or money-hungry meddlers, or murderous recluses. When they&#039;re
+  not any of those things, they&#039;re penniless philosophers making much out of
+  the meaning of donating a coat, or morally questionable cult leaders, or four different
+  faces of the devil.
+slug: lets-hear-it-for-the-basses
+title: Let's hear it for the basses
+---
 In an interview with Canadian bass [Robert Pomakov](/talking-with-singers-robert-pomakov/), he summed up the duties of his voice type on the operatic stage: "King, god, demon, loser".
 
 It can be a tough life for those basses; not only are they rarely the title role in an opera, but they spend a huge amount of time onstage being skeevy, [grabby old men](https://youtu.be/-kW4I0EFYoI) at the party, or [money-hungry meddlers](https://youtu.be/M1eNR5t9l7E?t=121), or [murderous recluses](https://youtu.be/FSFFR9lSVJc). When they're not any of those things, they're penniless philosophers making much out of the meaning of [donating a coat](https://youtu.be/_wVrHbnXnsk), or morally questionable [cult leaders](https://youtu.be/WvejdHpyofw), or four different [faces of the devil](https://youtu.be/x4xaEROTSUA?t=6155). To be fair, sometimes they're benevolent monks and flashy bullfighters, and it's a good thing there's Rossini, to make sure they get some well-deserved laughs.

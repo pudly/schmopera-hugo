@@ -1,22 +1,23 @@
-+++
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1677439474/media/2023/02/Hillary_Tufford_yorkqs.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/highlands-opera-studio.md", "scene/companies/vancouver-opera.md", "scene/companies/tapestry-opera.md"]
-slug = "hillary-tufford"
-title = "Hillary Tufford"
-website = "https://www.hillarytufford.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/profile.php?id=100085570975572"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/hillarytufford/"
-
-_template = "people_single"
-+++
+---
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1677439474/media/2023/02/Hillary_Tufford_yorkqs.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/highlands-opera-studio.md
+- scene/companies/vancouver-opera.md
+- scene/companies/tapestry-opera.md
+slug: hillary-tufford
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/profile.php?id=100085570975572
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/hillarytufford/
+title: Hillary Tufford
+website: https://www.hillarytufford.com/
+---
 Mezzo-soprano, Hillary Tufford is a versatile and engaging performer, noted for her “rich, velvety tone,”(Dawn Martens, _Opera Canada_). During the 21/22 season Hillary performed at Highlands Opera in the role of Olga in _Eugene Onegin_, and at Vancouver Opera as Lola in _Cavalleria rusticana_, Hebe in _HMS Pinafore_, and Berthe in Judith Weir’s _Blond Eckbert_. She also sang Rossini’s _Petite messe solennelle_ with both the Victoria Philharmonic Choir, as well as The Vancouver Bach Choir. This season Hillary looks forward to debuting Hermia in _A Midsummer Night’s Dream_ and Jean in _Le portrait de Manon_ at Vancouver Opera. She will also sing Handel’s _Messiah_ with ChoralWorks, Collingwood and ProMusica, London as well as Beethoven’s 9th Symphony with Kingston Symphony Orchestra. 
 
 Other role highlights include, Ramiro (_La finta giardiniera_), 2nd Witch (_Dido and Aeneas_), Clara (_The Light in the Piazza_), Cinderella’s Mother (_Into the Woods_) and Nadia in Tapestry Opera’s world premiere performance of Aaron Gervais’ _Oksana G_.

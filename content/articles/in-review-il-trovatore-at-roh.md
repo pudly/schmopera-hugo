@@ -1,18 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-12-05T10:39:00+00:00"
-lastmod = "2016-12-05T12:58:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480934233271/2016-12-5---2777ashm_665-664-ANITA-RACHVELISHVILI-AS-AZUCENA-NAJMIDDIN-MAVLYANOV-AS-MANRICO-ROH-PHOTOGRAPHER-CATHERINE-ASHMORE.jpg.jpg"
-primary_image_credit = "Anita Rachvelishvili (Azucena) and Najmiddin Mavlyanov (Manrico) in Il trovatore, ROH, 2016. Photographer: Catherine Ashmore."
-publishDate = "2016-12-05T12:46:00+00:00"
-related_articles = ["articles/in-review-lucia-di-lammermoor-at-roh.md","articles/in-review-tannhauser-at-roh.md","articles/jawdropping-the-nose-at-roh.md","articles/in-review-il-trovatore-at-oper-frankfurt.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/anita-rachvelishvili.md","scene/people/quinn-kelsey.md","scene/people/maria-agresta.md"]
-short_description = "First performed in 1853, just after Rigoletto and just before La traviata, Il trovatore gives unfortunate talking points to those who may say that opera plots are silly. There&#039;s the &quot;I burned the wrong baby&quot; bit, the &quot;it&#039;s too dark to tell who I&#039;m hugging&quot; bit, and there are all the opera-esque moments of oddly-timed shock and rage."
-slug = "in-review-il-trovatore-at-roh"
-title = "In review: Il trovatore at ROH"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-12-05T10:39:00+00:00"
+lastmod: "2016-12-05T12:58:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480934233271/2016-12-5---2777ashm_665-664-ANITA-RACHVELISHVILI-AS-AZUCENA-NAJMIDDIN-MAVLYANOV-AS-MANRICO-ROH-PHOTOGRAPHER-CATHERINE-ASHMORE.jpg.jpg
+primary_image_credit: 'Anita Rachvelishvili (Azucena) and Najmiddin Mavlyanov (Manrico)
+  in Il trovatore, ROH, 2016. Photographer: Catherine Ashmore.'
+publishDate: "2016-12-05T12:46:00+00:00"
+related_articles:
+- articles/in-review-lucia-di-lammermoor-at-roh.md
+- articles/in-review-tannhauser-at-roh.md
+- articles/jawdropping-the-nose-at-roh.md
+- articles/in-review-il-trovatore-at-oper-frankfurt.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/anita-rachvelishvili.md
+- scene/people/quinn-kelsey.md
+- scene/people/maria-agresta.md
+short_description: First performed in 1853, just after Rigoletto and just before La
+  traviata, Il trovatore gives unfortunate talking points to those who may say that
+  opera plots are silly. There&#039;s the &quot;I burned the wrong baby&quot; bit,
+  the &quot;it&#039;s too dark to tell who I&#039;m hugging&quot; bit, and there are
+  all the opera-esque moments of oddly-timed shock and rage.
+slug: in-review-il-trovatore-at-roh
+title: 'In review: Il trovatore at ROH'
+---
 
 David Bösch's production of [*Il trovatore*](http://www.roh.org.uk/productions/il-trovatore-by-david-bosch) - his debut with the [Royal Opera](/scene/companies/royal-opera-house/) - first went up in July of this year; until February 9, 2017, two more casts (and one extra Manrico) step into Bösch's bleak-yet-eclectic look at Verdi and his infamous troubadour.
 

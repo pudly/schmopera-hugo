@@ -1,22 +1,40 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = 2020-02-08T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "The Canadian Opera Company's production of [_Hansel and Gretel_](https://www.coc.ca/productions/18719) runs through February 21."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581177637/media/2020/02/sqCOC-HG-19-20-04-MC-D-1008_pkloxo.jpg"
-primary_image_credit = "Emily Fons as Hansel, Michael Colvin as The Witch and Simone Osborne as Gretel in the Canadian Opera Company's new production of Hansel and Gretel, 2020. Photo: Michael Cooper."
-related_articles = ["articles/in-review-bluebeards-castle-erwartung.md", "articles/talking-with-singers-blythe-gaissert.md", "articles/tweaking-the-brothers-grimm-in-oper-frankfurt-s-hänsel-und-gretel.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/joel-ivany.md", "scene/people/annasophie-neher.md", "scene/people/michael-colvin.md", "scene/people/krisztina-szab.md", "scene/people/russell-braun.md", "scene/people/emily-fons-1.md", "scene/people/emily-fons.md", "scene/people/simone-osborne.md"]
-short_description = "A wild visual ride from start to finish, it's great lighter fare to warm you up in the winter. I really appreciated the gestures (blunt as they were) to the fact that this started as traditionally holiday fare in Europe, yet didn't feel out of place a month after Twelfth Night. "
-slug = "a-feast-for-the-eyes-in-the-cocs-new-hansel-and-gretel"
-title = "A feast for the eyes in the COC's new Hansel and Gretel"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2020-02-08T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: The Canadian Opera Company's production of [_Hansel and Gretel_](https://www.coc.ca/productions/18719)
+  runs through February 21.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1581177637/media/2020/02/sqCOC-HG-19-20-04-MC-D-1008_pkloxo.jpg
+primary_image_credit: 'Emily Fons as Hansel, Michael Colvin as The Witch and Simone
+  Osborne as Gretel in the Canadian Opera Company''s new production of Hansel and
+  Gretel, 2020. Photo: Michael Cooper.'
+related_articles:
+- articles/in-review-bluebeards-castle-erwartung.md
+- articles/talking-with-singers-blythe-gaissert.md
+- articles/tweaking-the-brothers-grimm-in-oper-frankfurt-s-hänsel-und-gretel.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/joel-ivany.md
+- scene/people/annasophie-neher.md
+- scene/people/michael-colvin.md
+- scene/people/krisztina-szab.md
+- scene/people/russell-braun.md
+- scene/people/emily-fons-1.md
+- scene/people/emily-fons.md
+- scene/people/simone-osborne.md
+short_description: 'A wild visual ride from start to finish, it''s great lighter fare
+  to warm you up in the winter. I really appreciated the gestures (blunt as they were)
+  to the fact that this started as traditionally holiday fare in Europe, yet didn''t
+  feel out of place a month after Twelfth Night. '
+slug: a-feast-for-the-eyes-in-the-cocs-new-hansel-and-gretel
+title: A feast for the eyes in the COC's new Hansel and Gretel
+youtube_url: ""
+---
 You've heard the phrase, "A feast for the eyes," right? That's definitely what happened during opening night of the Canadian Opera Company's new production of Engelbert Humperdinck's classic _Hansel and Gretel_.
 
 The work is inspired by the fairy tale written by The Brothers Grimm, and started out as a series of songs composed, at the request of his sister, to be performed by her children for the holiday season. Humperdinck's sister, Adelheid Wette, came to him with a libretto, albeit with some judicious cuts to the Grimm version, and adding The Sandman and The Dew Fairy to protect the children through their night in the forest, that was markedly lighter than the original tale. The former protégé of Richard Wagner fell so in love with the songs that he fleshed them out into a full-scale operatic work. Wagner himself was noted to be a fan.

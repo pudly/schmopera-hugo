@@ -1,17 +1,23 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2018-02-25T19:55:00-05:00"
-lastmod = "2018-02-25T19:55:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519606104687/sq---whisper02Ian_Douglas.jpg.jpg"
-primary_image_credit = "David Lang's the whisper opera, NYU Skirball, 2018. Photo: Ian Douglas."
-publishDate = "2018-02-25T19:55:00-05:00"
-related_articles = ["articles/in-toronto-david-langs-the-whisper-opera.md"]
-related_people = ["scene/people/david-lang.md"]
-short_description = "Lang&#039;s music can feel voyeuristic, akin to watching a caged animal on display. The sonic vessel breaths and twitches while staying in place. The listener can examine and probe it at his leisure."
-slug = "david-langs-the-whisper-opera-has-intimacy-issues"
-title = "David Lang&#039;s the whisper opera has intimacy issues"
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2018-02-25T19:55:00-05:00"
+lastmod: "2018-02-25T19:55:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519606104687/sq---whisper02Ian_Douglas.jpg.jpg
+primary_image_credit: 'David Lang''s the whisper opera, NYU Skirball, 2018. Photo:
+  Ian Douglas.'
+publishDate: "2018-02-25T19:55:00-05:00"
+related_articles:
+- articles/in-toronto-david-langs-the-whisper-opera.md
+related_people:
+- scene/people/david-lang.md
+short_description: Lang&#039;s music can feel voyeuristic, akin to watching a caged
+  animal on display. The sonic vessel breaths and twitches while staying in place.
+  The listener can examine and probe it at his leisure.
+slug: david-langs-the-whisper-opera-has-intimacy-issues
+title: David Lang&#039;s the whisper opera has intimacy issues
+---
 
 Responding to the ability to access an endless digital musical archive, David Lang sought to create a piece "so quiet and so intimate and so personal to the performers that you needed to be right next to them or you would hear almost nothing". Lang's *the whisper opera* in its recent incarnation at the NYU Skirball Center was quiet, even hard to hear, but not intimate.
           	

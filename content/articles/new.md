@@ -1,22 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2020-08-11T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1596986230/media/2020/08/sqWellnessCheck_svtv17.jpg"
-primary_image_credit = ""
-related_articles = ["articles/in-defence-of-singers.md", "articles/crowded-flights.md", "articles/the-met-s-at-home-gala.md", "articles/covid.md"]
-related_companies = []
-related_people = []
-short_description = "I don't live in the vast world of opera, anymore, and it's fucking sad. I haven't had one of those heart-racing experiences at a live show since February. I haven't had that happy, vibrating commute home in the magical night-time after seeing something incredible; it's been a long time since I've felt the relief of taking off high heels at the end of the night, or placed those heels gently back on their shelf, for next time."
-slug = "tiny-worlds-admiring-singers-a-mid-pandemic-wellness-check"
-title = "Tiny worlds & admiring singers: a mid-pandemic wellness check"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2020-08-11T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1596986230/media/2020/08/sqWellnessCheck_svtv17.jpg
+primary_image_credit: ""
+related_articles:
+- articles/in-defence-of-singers.md
+- articles/crowded-flights.md
+- articles/the-met-s-at-home-gala.md
+- articles/covid.md
+related_companies: []
+related_people: []
+short_description: I don't live in the vast world of opera, anymore, and it's fucking
+  sad. I haven't had one of those heart-racing experiences at a live show since February.
+  I haven't had that happy, vibrating commute home in the magical night-time after
+  seeing something incredible; it's been a long time since I've felt the relief of
+  taking off high heels at the end of the night, or placed those heels gently back
+  on their shelf, for next time.
+slug: tiny-worlds-admiring-singers-a-mid-pandemic-wellness-check
+title: 'Tiny worlds & admiring singers: a mid-pandemic wellness check'
+youtube_url: ""
+---
 So, readers: How the &$%# are you?
 
 Are you finding a quarantine groove, yet? I imagine plenty of you are now deft at making bread, ordering groceries online, and remembering to keep a mask handy. You probably have a now-acute sense of what six-feet-apart looks like. You're probably a little Zoomed out.

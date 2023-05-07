@@ -1,16 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-06-18T13:38:00-06:00"
-lastmod = "2017-06-28T07:10:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498426647571/2017-06-25---JATA.jpg.jpg"
-primary_image_credit = "Josephine and The Artizans."
-publishDate = "2017-06-27T20:53:00-06:00"
-related_articles = ["articles/josephine-and-the-artizans-we-call-it-hiphopera.md"]
-short_description = "Above it all, Josephine&#039;s voice soars. Hardcore opera fans may have a tough time with JATA&#039;s almost instrumental use of the voice - its function melodic, a unique ingredient in their music&#039;s texture - yet it&#039;s a testament to Josephine&#039;s savvy straddling of classically-inspired songwriting and producing work that has commercial appeal."
-slug = "josephine-and-the-artizans-hiphopera-act-ii"
-title = "Josephine and The Artizans&#039; HipHopera: Act II"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-06-18T13:38:00-06:00"
+lastmod: "2017-06-28T07:10:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498426647571/2017-06-25---JATA.jpg.jpg
+primary_image_credit: Josephine and The Artizans.
+publishDate: "2017-06-27T20:53:00-06:00"
+related_articles:
+- articles/josephine-and-the-artizans-we-call-it-hiphopera.md
+short_description: Above it all, Josephine&#039;s voice soars. Hardcore opera fans
+  may have a tough time with JATA&#039;s almost instrumental use of the voice - its
+  function melodic, a unique ingredient in their music&#039;s texture - yet it&#039;s
+  a testament to Josephine&#039;s savvy straddling of classically-inspired songwriting
+  and producing work that has commercial appeal.
+slug: josephine-and-the-artizans-hiphopera-act-ii
+title: 'Josephine and The Artizans&#039; HipHopera: Act II'
+---
 
 They've just kicked off their 2017 summer festival tour, and [Josephine and The Artizans](/josephine-and-the-artizans-we-call-it-hip-hopera/) have a new EP to go with it. [*HipHopera: Act II*](http://www.josephineandtheartizans.com/music) is a sequel to *Act One*, and the UK-based group continues to find fun ways of fusing rap and hip-hop with classical voice and instruments. 
 

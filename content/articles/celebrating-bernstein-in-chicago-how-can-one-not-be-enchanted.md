@@ -1,18 +1,25 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = "2018-03-12T12:30:00-04:00"
-lastmod = "2018-03-12T13:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546218826/media/2018/12/sq-Bernstein-LOC-Susan-Graham-Kate-Baldwin-pc-Todd-Rosenberg.jpg"
-primary_image_credit = "Susan Graham and Kate Baldwin in Lyric Opera of Chicago's Celebrating 100 Years of Bernstein, 2018. Photo: Todd Rosenberg."
-publishDate = "2018-03-12T13:01:00-04:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/susan-graham.md"]
-short_description = "How can one not be enchanted? This is the same Bernstein-ian smile I recognize in my teachers&#039; recollections of their mentor, the same smile that, to my ears, permeates his whole artistic output, and the same smile that suffused the Lyric Opera of Chicago&#039;s commemorative Bernstein concert this past Saturday at the Lyric Opera House."
-slug = "celebrating-bernstein-in-chicago-how-can-one-not-be-enchanted"
-title = "Celebrating Bernstein in Chicago: &quot;How can one not be enchanted?&quot;"
-
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2018-03-12T12:30:00-04:00"
+lastmod: "2018-03-12T13:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546218826/media/2018/12/sq-Bernstein-LOC-Susan-Graham-Kate-Baldwin-pc-Todd-Rosenberg.jpg
+primary_image_credit: 'Susan Graham and Kate Baldwin in Lyric Opera of Chicago''s
+  Celebrating 100 Years of Bernstein, 2018. Photo: Todd Rosenberg.'
+publishDate: "2018-03-12T13:01:00-04:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/susan-graham.md
+short_description: How can one not be enchanted? This is the same Bernstein-ian smile
+  I recognize in my teachers&#039; recollections of their mentor, the same smile that,
+  to my ears, permeates his whole artistic output, and the same smile that suffused
+  the Lyric Opera of Chicago&#039;s commemorative Bernstein concert this past Saturday
+  at the Lyric Opera House.
+slug: celebrating-bernstein-in-chicago-how-can-one-not-be-enchanted
+title: 'Celebrating Bernstein in Chicago: &quot;How can one not be enchanted?&quot;'
+---
 I was only four years old when Leonard Bernstein died in 1990 – just too young to have had any real, direct contact with the man. I have, however, over the course of my education, had the good fortune of studying with two teachers who are bona fide Bernstein progeny (pianist André Watts and conductor Victor Yampolsky), whose personal and professional lives were formed by and indebted to the great artist. In lessons, "Lenny" was ever-present: "You know, Lenny used to say…", "When I did this with Lenny...", "Lenny had a marvelous way of...". Their Bernstein anecdotes were ample and I gleefully soaked up the details, hoping to extract as much vicarious wisdom and experience as possible. Over the years, and thanks to the treasure-trove that is YouTube, I've absorbed further Bernstein's prolific legacy: the composer, pianist, conductor, teacher, thinker, humanitarian.
 
 Yet, for all the man's copious talents and myriad achievements, for all his eloquence, erudition, enthusiasm, and energy, for all the contributions for which we love and celebrate him now, the thing that always impresses itself on me the most after watching his videos or listening to his music is…his smile. It's extraordinary: at once welcoming, empathetic, confident, vulnerable, sly, perceptive, poignantly communicative, deeply human, and simply infectious. Perhaps I'm being sentimental, but just watch this brief video of him "conducting" the Vienna Philharmonic in the fourth movement of Haydn’s Symphony No. 88:

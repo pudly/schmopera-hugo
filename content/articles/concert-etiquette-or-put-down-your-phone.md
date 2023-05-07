@@ -1,15 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-11-17T15:13:00-05:00"
-lastmod = "2017-09-24T10:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506263286924/2017-09-24---Phone.jpg.jpg"
-publishDate = "2015-11-19T08:30:00-05:00"
-related_articles = ["articles/singers-heres-how-to-use-social-media.md","articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md","articles/the-case-for-nomadic-opera.md","articles/united-we-stand-divided-we-fall.md","articles/the-coughing-phenomenon.md","articles/an-open-letter-to-a-rude-bunch-of-operagoers.md","articles/take-a-joke-have-a-nap.md","articles/arts-education-teaches-better-manners-more-preaching-to-the-choir.md","articles/4-new-years-resolutions-for-opera-fans.md"]
-short_description = "Alright, so I&#039;ve been thoroughly enjoying the 2015/16 season of opera and concerts so far, but I&#039;m a little dismayed that it&#039;s only November and we already need to talk about concert etiquette."
-slug = "concert-etiquette-or-put-down-your-phone"
-title = "Concert etiquette, or put down your phone"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-11-17T15:13:00-05:00"
+lastmod: "2017-09-24T10:28:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506263286924/2017-09-24---Phone.jpg.jpg
+publishDate: "2015-11-19T08:30:00-05:00"
+related_articles:
+- articles/singers-heres-how-to-use-social-media.md
+- articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md
+- articles/the-case-for-nomadic-opera.md
+- articles/united-we-stand-divided-we-fall.md
+- articles/the-coughing-phenomenon.md
+- articles/an-open-letter-to-a-rude-bunch-of-operagoers.md
+- articles/take-a-joke-have-a-nap.md
+- articles/arts-education-teaches-better-manners-more-preaching-to-the-choir.md
+- articles/4-new-years-resolutions-for-opera-fans.md
+short_description: Alright, so I&#039;ve been thoroughly enjoying the 2015/16 season
+  of opera and concerts so far, but I&#039;m a little dismayed that it&#039;s only
+  November and we already need to talk about concert etiquette.
+slug: concert-etiquette-or-put-down-your-phone
+title: Concert etiquette, or put down your phone
+---
 
 Alright, so I've been thoroughly enjoying the 2015/16 season of opera and concerts so far, but I'm a little dismayed that it's only November and we already need to talk about concert etiquette.
 

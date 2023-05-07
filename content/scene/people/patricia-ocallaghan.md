@@ -1,28 +1,30 @@
-+++
-date = "2017-09-15T12:50:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-09-15T12:50:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494205782/BLUE051.jpg.jpg"
-primary_image_credit = "Andrew MacNaughtan"
-publishDate = "2017-09-15T12:50:00-04:00"
-related_companies = ["scene/companies/toronto-masque-theatre.md","scene/companies/royal-opera-house.md","scene/companies/vancouver-opera.md","scene/companies/edmonton-opera.md"]
-slug = "patricia-ocallaghan"
-title = "Patricia O&#039;Callaghan"
-website = "http://www.patricia-ocallaghan.com/index.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Patricia-OCallaghan-91956824563"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/tdogocallaghan"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/patricia_ocallaghan/"
-_template = "people_single"
-+++
+---
+date: "2017-09-15T12:50:00-04:00"
+discipline: Soprano
+lastmod: "2017-09-15T12:50:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494205782/BLUE051.jpg.jpg
+primary_image_credit: Andrew MacNaughtan
+publishDate: "2017-09-15T12:50:00-04:00"
+related_companies:
+- scene/companies/toronto-masque-theatre.md
+- scene/companies/royal-opera-house.md
+- scene/companies/vancouver-opera.md
+- scene/companies/edmonton-opera.md
+slug: patricia-ocallaghan
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Patricia-OCallaghan-91956824563
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/tdogocallaghan
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/patricia_ocallaghan/
+title: Patricia O&#039;Callaghan
+website: http://www.patricia-ocallaghan.com/index.html
+---
 
 Patricia O’Callaghan is something of a wandering minstrel. Her fifteen-year career has taken her across genres, continents, and a range of disciplines and passions.
 

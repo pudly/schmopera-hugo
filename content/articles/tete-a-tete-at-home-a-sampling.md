@@ -1,22 +1,36 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = 2020-09-25T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Items on the Tête à Tête Opera Festival line-up are still [available for online viewing](https://www.tete-a-tete.org.uk/festival/2020-festival-whats-on/). Yay!"
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1601057690/media/2020/09/sqTAT_yovlfo.jpg"
-primary_image_credit = "Lars Fisher as Mr. Williams in The Trilobite, Or The Fall of Mr Williams, Tête à Tête Opera Festival, 2020. Photo: Claire Shovelton."
-related_articles = ["articles/angel-s-bone.md"]
-related_companies = ["scene/companies/tete-a-tete.md"]
-related_people = ["scene/people/cn-lester.md", "scene/people/peter-edge.md", "scene/people/anna-prowse.md", "scene/people/lars-fischer.md", "scene/people/lore-lixenberg.md", "scene/people/anna-braithwaite.md"]
-short_description = "These are strange times, and I am still not convinced that going virtual is the way. Has it afforded us some opportunities we would not have had otherwise? Sure. Has it required us to get creative in ways we could not have imagined? Certainly."
-slug = "tete-a-tete-at-home-a-sampling"
-title = "Tête à Tête at home: a sampling"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2020-09-25T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Items on the Tête à Tête Opera Festival line-up are still [available for
+  online viewing](https://www.tete-a-tete.org.uk/festival/2020-festival-whats-on/).
+  Yay!
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1601057690/media/2020/09/sqTAT_yovlfo.jpg
+primary_image_credit: 'Lars Fisher as Mr. Williams in The Trilobite, Or The Fall of
+  Mr Williams, Tête à Tête Opera Festival, 2020. Photo: Claire Shovelton.'
+related_articles:
+- articles/angel-s-bone.md
+related_companies:
+- scene/companies/tete-a-tete.md
+related_people:
+- scene/people/cn-lester.md
+- scene/people/peter-edge.md
+- scene/people/anna-prowse.md
+- scene/people/lars-fischer.md
+- scene/people/lore-lixenberg.md
+- scene/people/anna-braithwaite.md
+short_description: These are strange times, and I am still not convinced that going
+  virtual is the way. Has it afforded us some opportunities we would not have had
+  otherwise? Sure. Has it required us to get creative in ways we could not have imagined?
+  Certainly.
+slug: tete-a-tete-at-home-a-sampling
+title: 'Tête à Tête at home: a sampling'
+youtube_url: ""
+---
 I was able to catch a few live broadcasts from the [Tête à Tête festival](https://www.tete-a-tete.org.uk/festival/2020-festival-whats-on/) this season from the comfort of my own home over past week. While I feel that there can no replacement for live theatre, it was a real treat to skip the commute and the crowds. Tête à Tête deserve commendation for their dedication to putting the festival on this year, continuing to bring new theatre works to their audience as they do every summer.
 
 Of course, the programme had to be somewhat adapted to make allowances for COVID-19 restrictions and proper social distancing measures. This required some inventive re-working of pieces, reducing the number of live performers (and audience members) in the theatre, and making use of Zoom with all of its versatility. Most crucially, it included live broadcasts of all of the pieces on the festival bill, making the programme accessible to all.

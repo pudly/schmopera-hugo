@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2018-06-14T13:03:00-04:00"
-lastmod = "2018-06-14T13:50:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546220400/media/2018/12/sqO5Barber6.jpg"
-publishDate = "2018-06-14T13:03:00-04:00"
-related_companies = ["scene/companies/opera-5.md", "scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/stephanie-tritchew.md", "scene/people/jeremy-ludwig.md", "scene/people/giles-tomkins.md", "scene/people/kevin-myers.md", "scene/people/evan-mitchell.md"]
-short_description = "One great concept is putting guitarist Andrew Cloutier into the action. He plays all the recitatives - a perfect sound that piques interest without pulling focus - and he plays a wordless role as the accompanist to Almaviva&#039;s serenades to Rosina, and to Rosina&#039;s singing lesson with &quot;Don Alonso&quot;."
-slug = "opera-5s-barber-fab-singing-spanish-flair"
-title = "Opera 5&#039;s Barber: fab singing &amp; Spanish flair"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2018-06-14T13:03:00-04:00"
+lastmod: "2018-06-14T13:50:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546220400/media/2018/12/sqO5Barber6.jpg
+publishDate: "2018-06-14T13:03:00-04:00"
+related_companies:
+- scene/companies/opera-5.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/stephanie-tritchew.md
+- scene/people/jeremy-ludwig.md
+- scene/people/giles-tomkins.md
+- scene/people/kevin-myers.md
+- scene/people/evan-mitchell.md
+short_description: One great concept is putting guitarist Andrew Cloutier into the
+  action. He plays all the recitatives - a perfect sound that piques interest without
+  pulling focus - and he plays a wordless role as the accompanist to Almaviva&#039;s
+  serenades to Rosina, and to Rosina&#039;s singing lesson with &quot;Don Alonso&quot;.
+slug: opera-5s-barber-fab-singing-spanish-flair
+title: 'Opera 5&#039;s Barber: fab singing &amp; Spanish flair'
+---
 Opera 5's [_Il barbiere di Siviglia_](http://opera5.ca/barber/) is up and running at The Factory Theatre, marking the company's first production with its new leadership: Artistic Director Jessica Derventzis and Music Director Evan Mitchell.
 
 As one hopes, the stars of this _Barbiere_ are in the cast of singers. [Stephanie Tritchew](/spotlight-on-stephanie-tritchew/) is Rosina incarnate, a spicy, likable mix of girlish and old-soul, and with all the street smarts that help free Rosina from her house-arrest-type life with Dr. Bartolo. Hers was the best singing of the night; I haven't seen Tritchew in a role like this before, and it was exciting to hear the crystal-clear coloratura and fun abandon of Rossini's writing fit her like a glove.

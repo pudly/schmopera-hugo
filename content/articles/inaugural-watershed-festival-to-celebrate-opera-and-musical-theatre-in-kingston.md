@@ -1,22 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = 2021-05-23T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "The Watershed Festival runs online from May 25-28. Check out the [calendar of events](https://www.watershedmusictheatre.com/festivalschedule), and [register](https://events.eply.com/WatershedFestival) to tune in."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1621539835/media/2021/05/sqWatershed_vhcxnx.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/michael-mori.md", "scene/people/marion-newman.md", "scene/people/dean-burry.md"]
-short_description = "The virtual start to the Watershed Festival is no compromise, no placeholder for the in-person Festival set for spring 2022. \"Going virtual has a number of silver linings,\" says Burry. \"We've got people joining us from around the world, and I would imagine the best aspects of that kind of reach will always be a part of the festival moving forward.\""
-slug = "inaugural-watershed-festival-to-celebrate-opera-musical-theatre-in-kingston"
-title = "Inaugural Watershed Festival to celebrate opera & musical theatre in Kingston"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2021-05-23T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: The Watershed Festival runs online from May 25-28. Check out the [calendar
+  of events](https://www.watershedmusictheatre.com/festivalschedule), and [register](https://events.eply.com/WatershedFestival)
+  to tune in.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1621539835/media/2021/05/sqWatershed_vhcxnx.jpg
+primary_image_credit: ""
+related_articles: []
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/michael-mori.md
+- scene/people/marion-newman.md
+- scene/people/dean-burry.md
+short_description: The virtual start to the Watershed Festival is no compromise, no
+  placeholder for the in-person Festival set for spring 2022. "Going virtual has a
+  number of silver linings," says Burry. "We've got people joining us from around
+  the world, and I would imagine the best aspects of that kind of reach will always
+  be a part of the festival moving forward."
+slug: inaugural-watershed-festival-to-celebrate-opera-musical-theatre-in-kingston
+title: Inaugural Watershed Festival to celebrate opera & musical theatre in Kingston
+youtube_url: ""
+---
 Here in Canada, as the light at the end of a long pandemic tunnel starts to trickle in, the Queen's University Dan School of Drama and Music is wasting no time in celebrating the performing arts.
 
 Running from **May 25-28, 2021**, the inaugural [Watershed Festival](https://www.watershedmusictheatre.com/) is a first-of-its-kind online showcase of opera and musical theatre - two genres that, curiously, have been historically siloed despite their clear common ground. With the recent merging of the Queen's music and drama schools, the fusion of musical theatre and opera became particularly organic in the mid-sized city of Kingston, Ontario.

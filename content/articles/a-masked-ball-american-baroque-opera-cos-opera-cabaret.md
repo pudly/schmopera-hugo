@@ -1,17 +1,26 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = "2017-09-17T11:28:00-04:00"
-lastmod = "2017-09-17T15:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505670433175/2017-09-17---square---_KA38212.jpg.jpg"
-primary_image_credit = "Countertenor Nichola Garza in American Baroque Opera Co.'s Masquerade: Opera Cabaret, 2017. Photo by Karen Almond."
-publishDate = "2017-09-17T14:55:00-04:00"
-related_articles = ["articles/in-review-toronto-masque-theatre-indes-mecaniques.md","articles/in-review-isabel-bayrakdarian-and-tafelmusik.md","articles/wendy-bryn-harmer-leads-sensitive-inspirational-fidelio.md"]
-related_companies = ["scene/companies/american-baroque-opera-co.md"]
-short_description = "This group has succeeded in being a passionate representative of Baroque opera as not merely an outlier that &quot;comes before the real operas of Mozart, Puccini, Verdi, and Bizet&quot;, but as a vibrant, effusive, and brilliant genre sui generis that appreciates the love and devotion performers bring to it."
-slug = "a-masked-ball-american-baroque-opera-cos-opera-cabaret"
-title = "A masked ball: American Baroque Opera Co.&#039;s Opera Cabaret"
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2017-09-17T11:28:00-04:00"
+lastmod: "2017-09-17T15:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505670433175/2017-09-17---square---_KA38212.jpg.jpg
+primary_image_credit: 'Countertenor Nichola Garza in American Baroque Opera Co.''s
+  Masquerade: Opera Cabaret, 2017. Photo by Karen Almond.'
+publishDate: "2017-09-17T14:55:00-04:00"
+related_articles:
+- articles/in-review-toronto-masque-theatre-indes-mecaniques.md
+- articles/in-review-isabel-bayrakdarian-and-tafelmusik.md
+- articles/wendy-bryn-harmer-leads-sensitive-inspirational-fidelio.md
+related_companies:
+- scene/companies/american-baroque-opera-co.md
+short_description: This group has succeeded in being a passionate representative of
+  Baroque opera as not merely an outlier that &quot;comes before the real operas of
+  Mozart, Puccini, Verdi, and Bizet&quot;, but as a vibrant, effusive, and brilliant
+  genre sui generis that appreciates the love and devotion performers bring to it.
+slug: a-masked-ball-american-baroque-opera-cos-opera-cabaret
+title: 'A masked ball: American Baroque Opera Co.&#039;s Opera Cabaret'
+---
 
 The [American Baroque Opera Company](/scene/companies/american-baroque-opera-co/), based in the Dallas-Fort Worth area, had its inaugural concert this weekend at the AT&T Performing Arts Center's Hamon Hall, as part of the recently started Elevator Project. I went to the performance on Friday, September 15, at 8:00. It had a great deal to offer just about everyone, from opera newcomers to seasoned early music connoisseurs. This concert, which was called [*Masquerade: Opera Cabaret*](https://www.baroqueopera.org/new-page/), took the form of a Greatest Hits sampler, including several arias from their upcoming spring production of *Alcina*, several other "oldies but goodies", and several rare and virtuosic gems by Vivaldi and Porpora that gave a very promising hint of the repertoire that these intrepid performers intend to bring to the mainstream Texas consciousness.
 

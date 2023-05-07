@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-02-26T21:06:00-05:00"
-lastmod = "2018-03-01T08:11:00-05:00"
-preamble = "Lawrence Edelson founded American Lyric Theater in 2005 as a response to the dearth of opportunities for new opera to truly develop. In the thirteen years since, ALT has developed works like *The Golden Ticket* (2010), *The Long Walk* (2015), and most recently, *JFK* (2016). A key part of the workshopping of new projects is ALT's [Composer Librettist Development Program](https://www.altnyc.org/composer-librettist-development-program/) (CLDP), a mentorship and creation opportunity for the creators of opera.\n\nWe spoke with Edelson about the value of the CLDP, and the upcoming [*The Living Libretto: Opera in Eden*](https://www.altnyc.org/events/) on **March 18, 3pm** at the National Opera Center, the first public outing of three new works by resident artists of the program: *Bloodlines*, *Nana's Ghost*, and *The Tree of Eternal Youth*."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519772755526/sq---Lawrence-Edelson-and-Justin-F-Chen---photo-credit-David-Perlman.jpg.jpg"
-primary_image_credit = "Lawrence Edelson works with Justine Chen, composer of American Lyric Theater's in-progress opera, The Life and Death(s) of Alan Turing."
-publishDate = "2018-02-27T21:49:00-05:00"
-related_articles = ["articles/american-opera-projects-youre-seeing-the-opera-in-microcosm.md"]
-short_description = "&quot;We emphasize a very detailed outlining process at ALT, wherein the librettist and the composer create beat-by-beat outlines - for both the libretto and the score - before a word of the text or a note of the music is written. For a short piece, like those in the upcoming Living Libretto event, this might take one month. For a longer, full-length work, the planning process could take six months or more, especially if extensive research is required.&quot;"
-slug = "great-operas-dont-just-happen"
-title = "&quot;Great Operas Don&#039;t Just Happen.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-02-26T21:06:00-05:00"
+lastmod: "2018-03-01T08:11:00-05:00"
+preamble: |-
+  Lawrence Edelson founded American Lyric Theater in 2005 as a response to the dearth of opportunities for new opera to truly develop. In the thirteen years since, ALT has developed works like *The Golden Ticket* (2010), *The Long Walk* (2015), and most recently, *JFK* (2016). A key part of the workshopping of new projects is ALT's [Composer Librettist Development Program](https://www.altnyc.org/composer-librettist-development-program/) (CLDP), a mentorship and creation opportunity for the creators of opera.
+
+  We spoke with Edelson about the value of the CLDP, and the upcoming [*The Living Libretto: Opera in Eden*](https://www.altnyc.org/events/) on **March 18, 3pm** at the National Opera Center, the first public outing of three new works by resident artists of the program: *Bloodlines*, *Nana's Ghost*, and *The Tree of Eternal Youth*.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519772755526/sq---Lawrence-Edelson-and-Justin-F-Chen---photo-credit-David-Perlman.jpg.jpg
+primary_image_credit: Lawrence Edelson works with Justine Chen, composer of American
+  Lyric Theater's in-progress opera, The Life and Death(s) of Alan Turing.
+publishDate: "2018-02-27T21:49:00-05:00"
+related_articles:
+- articles/american-opera-projects-youre-seeing-the-opera-in-microcosm.md
+short_description: '&quot;We emphasize a very detailed outlining process at ALT, wherein
+  the librettist and the composer create beat-by-beat outlines - for both the libretto
+  and the score - before a word of the text or a note of the music is written. For
+  a short piece, like those in the upcoming Living Libretto event, this might take
+  one month. For a longer, full-length work, the planning process could take six months
+  or more, especially if extensive research is required.&quot;'
+slug: great-operas-dont-just-happen
+title: '&quot;Great Operas Don&#039;t Just Happen.&quot;'
+---
 
 ## Why is something like the CLDP a necessary part of the opera industry in the 21st century?
 

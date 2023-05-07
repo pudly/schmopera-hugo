@@ -1,22 +1,32 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2019-02-17T18:27:44+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550427838/media/2019/02/441FrankfurtHG2014.jpg"
-primary_image_credit = "Katharina Magiera (Hänsel), Louise Alder (Gretel) and Peter Marsh (The wicked witch; above) in Oper Frankfurt's 2014 production of Hänsel und Gretel. Photo: Monika Rittershaus."
-related_articles = ["articles/opera-adapts-a-medium-more-adept-at-adapting.md", "articles/concept-production-real-reason.md"]
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = ["scene/people/karen-vuong.md", "scene/people/cecelia-hall.md"]
-short_description = "The schtick tightened up during the second half and the story leavened. The actors seemed to relax into their characters' inner lives once their outer circumstances had a discernible logic. Liberated from conceptual mumbo jumbo, the score and libretto timed better with the on-stage action. Finally, things made sense."
-slug = "tweaking-the-brothers-grimm-in-oper-frankfurts-hansel-und-gretel"
-title = "Tweaking the Brothers Grimm in Oper Frankfurt's Hänsel und Gretel"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2019-02-17T18:27:44+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550427838/media/2019/02/441FrankfurtHG2014.jpg
+primary_image_credit: 'Katharina Magiera (Hänsel), Louise Alder (Gretel) and Peter
+  Marsh (The wicked witch; above) in Oper Frankfurt''s 2014 production of Hänsel und
+  Gretel. Photo: Monika Rittershaus.'
+related_articles:
+- articles/opera-adapts-a-medium-more-adept-at-adapting.md
+- articles/concept-production-real-reason.md
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people:
+- scene/people/karen-vuong.md
+- scene/people/cecelia-hall.md
+short_description: The schtick tightened up during the second half and the story leavened.
+  The actors seemed to relax into their characters' inner lives once their outer circumstances
+  had a discernible logic. Liberated from conceptual mumbo jumbo, the score and libretto
+  timed better with the on-stage action. Finally, things made sense.
+slug: tweaking-the-brothers-grimm-in-oper-frankfurts-hansel-und-gretel
+title: Tweaking the Brothers Grimm in Oper Frankfurt's Hänsel und Gretel
+youtube_url: ""
+---
 Oper Frankfurt's 2014 production of _Hänsel und Gretel_ (directed by Keith Warner), recently in revival, has enough conceptual story alterations to appear modern. However, the show only succeeds when it sticks closely to its source material.
 
 The production begins with an on-stage puppet show. A group of kids watches intently, Hänsel included (played by [Cecelia Hall](/scene/people/cecelia-hall/)). Hall blends in well with the children. As a boy, she throws her lanky frame around like an impetuous, fun-loving little doofus. Hall shaves a shade of richness off her voice for the role, giving her tone a nimbler effervescence.

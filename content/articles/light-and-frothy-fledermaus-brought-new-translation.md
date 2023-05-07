@@ -1,22 +1,26 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-04-07T00:08:43+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554595712/media/2019/04/sqDFpressimageAlfred.png"
-primary_image_credit = "Colin Campbell as Alfred in MassOpera's production of Die Fledermaus, 2019. Photo: Nile Scott Studios."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "In this regard, this adaptation takes advantage of every possibility of its updated New York setting for jokes. Rosalinda, for instance, is a star on an obvious Real Housewives knock-off in New York, and thus her husband's arrest and trial is very high-profile. "
-slug = "light-and-frothy-fledermaus-brought-new-translation"
-title = "Light and frothy Fledermaus brought new translation"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-04-07T00:08:43+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1554595712/media/2019/04/sqDFpressimageAlfred.png
+primary_image_credit: 'Colin Campbell as Alfred in MassOpera''s production of Die
+  Fledermaus, 2019. Photo: Nile Scott Studios.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: 'In this regard, this adaptation takes advantage of every possibility
+  of its updated New York setting for jokes. Rosalinda, for instance, is a star on
+  an obvious Real Housewives knock-off in New York, and thus her husband''s arrest
+  and trial is very high-profile. '
+slug: light-and-frothy-fledermaus-brought-new-translation
+title: Light and frothy Fledermaus brought new translation
+youtube_url: ""
+---
 With all of the serious productions of works being bandied around the Boston opera scene lately, I think one thing is more vitally important to recognize: sometimes, opera-goers just want to have a little bit of _fun_. When this is asked for, one can rarely go wrong with Johann Strauss II's _Die Fledermaus_, an operetta about people playing pranks on each other that is as silly as the music is bubbly. Thus, it has chosen the right time to come along in the Boston opera scene, considering what everyone else is doing.
 
 > In this regard, this adaptation takes advantage of every possibility of its updated New York setting for jokes.

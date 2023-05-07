@@ -1,19 +1,22 @@
-+++
-date = "2019-03-06T18:02:47+00:00"
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551895270/media/2019/03/EricFerring.jpg"
-primary_image_credit = "Kristin Hoebermann"
-related_companies = ["scene/companies/american-opera-projects.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/lyric-opera-of-chicago.md"]
-slug = "eric-ferring"
-title = "Eric Ferring"
-website = "https://www.ericferring.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ericferringtenor"
-
-_template = "people_single"
-+++
+---
+date: "2019-03-06T18:02:47+00:00"
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551895270/media/2019/03/EricFerring.jpg
+primary_image_credit: Kristin Hoebermann
+related_companies:
+- scene/companies/american-opera-projects.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/lyric-opera-of-chicago.md
+slug: eric-ferring
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/ericferringtenor
+title: Eric Ferring
+website: https://www.ericferring.com/
+---
 Tenor **Eric Ferring**, a native of Dubuque, Iowa, graduated magna cum laude from Drake University in 2014 with his Bachelor of Music in Vocal Performance and The Boston Conservatory in 2016 with his Master of Music in Opera Performance under the tutelage of Dr. Rebecca Folsom.
 
 Currently, Mr. Ferring is a member of the Ensemble of the Ryan Opera Center at the Lyric Opera of Chicago and will be singing Giuseppe/_La traviata_, Young Servant/_Elektra_, and covering Lurcanio/_Ariodante_ (among other roles) in Lyric’s 2018-2019 season.

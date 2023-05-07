@@ -1,18 +1,58 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-12-21T17:32:00-05:00"
-lastmod = "2015-12-27T19:05:00-05:00"
-preamble = "2015 is almost done, everyone! Slightly incredulous over here. It means it's time for some retrospective writing about notable moments in the opera scene for yet another calendar year. \n\nThe easy (?) part is naming some standout performances, like [*Bluebeard's Castle/Erwartung*](/in-review-bluebeards-castle-erwartung/) at the Canadian Opera Company, [*Death & Desire*](/in-review-bluebeards-castle-erwartung/) with Against the Grain Theatre, and [Sondra Radvanovsky's recital](/in-review-sondra-radvanovsky-at-koerner-hall/) at Koerner Hall. More importantly, 2015 started tangible conversations about looming issues around opera, the money it costs, and the reasons to produce it. Like water-cooler conversations, but with more substance.\n\nSo, here are a few of our notable moments from 2015, and why they deserve writing for posterity. "
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450751253619/2015-12-22---Roundup.jpg.jpg"
-publishDate = "2015-12-27T10:25:00-05:00"
-related_articles = ["articles/roundup2014.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-bicycle-opera-project.md","scene/companies/indie-opera-to.md","scene/companies/tapestry-opera.md","scene/companies/opera-lyra-ottawa.md","scene/companies/vancouver-opera.md","scene/companies/canadian-art-song-project.md"]
-related_people = ["scene/people/krisztina-szab.md","scene/people/joel-ivany.md","scene/people/wayne-gooding.md","scene/people/michael-mori.md","scene/people/alexander-neef.md","scene/people/larissa-koniuk.md","scene/people/stephanie-tritchew.md","scene/people/geoffrey-sirett.md","scene/people/christopher-enns.md","scene/people/david-pomeroy.md","scene/people/lauren-segal.md","scene/people/peter-barrett.md","scene/people/jordan-de-souza.md","scene/people/jacqueline-woodley.md","scene/people/christopher-mokrzewski.md","scene/people/jennifer-nichols.md","scene/people/ambur-braid.md","scene/people/carla-huhtanen.md"]
-short_description = "2015 is almost done, everyone! Slightly incredulous over here. It means it&#039;s time for some retrospective writing about notable moments in the opera scene for yet another calendar year. 2015 started tangible conversations about looming issues around opera, the money it costs, and the reasons to produce it. Like water-cooler conversations, but with more substance."
-slug = "roundup-2015"
-title = "Roundup, 2015"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-12-21T17:32:00-05:00"
+lastmod: "2015-12-27T19:05:00-05:00"
+preamble: "2015 is almost done, everyone! Slightly incredulous over here. It means
+  it's time for some retrospective writing about notable moments in the opera scene
+  for yet another calendar year. \n\nThe easy (?) part is naming some standout performances,
+  like [*Bluebeard's Castle/Erwartung*](/in-review-bluebeards-castle-erwartung/) at
+  the Canadian Opera Company, [*Death & Desire*](/in-review-bluebeards-castle-erwartung/)
+  with Against the Grain Theatre, and [Sondra Radvanovsky's recital](/in-review-sondra-radvanovsky-at-koerner-hall/)
+  at Koerner Hall. More importantly, 2015 started tangible conversations about looming
+  issues around opera, the money it costs, and the reasons to produce it. Like water-cooler
+  conversations, but with more substance.\n\nSo, here are a few of our notable moments
+  from 2015, and why they deserve writing for posterity. "
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450751253619/2015-12-22---Roundup.jpg.jpg
+publishDate: "2015-12-27T10:25:00-05:00"
+related_articles:
+- articles/roundup2014.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/indie-opera-to.md
+- scene/companies/tapestry-opera.md
+- scene/companies/opera-lyra-ottawa.md
+- scene/companies/vancouver-opera.md
+- scene/companies/canadian-art-song-project.md
+related_people:
+- scene/people/krisztina-szab.md
+- scene/people/joel-ivany.md
+- scene/people/wayne-gooding.md
+- scene/people/michael-mori.md
+- scene/people/alexander-neef.md
+- scene/people/larissa-koniuk.md
+- scene/people/stephanie-tritchew.md
+- scene/people/geoffrey-sirett.md
+- scene/people/christopher-enns.md
+- scene/people/david-pomeroy.md
+- scene/people/lauren-segal.md
+- scene/people/peter-barrett.md
+- scene/people/jordan-de-souza.md
+- scene/people/jacqueline-woodley.md
+- scene/people/christopher-mokrzewski.md
+- scene/people/jennifer-nichols.md
+- scene/people/ambur-braid.md
+- scene/people/carla-huhtanen.md
+short_description: 2015 is almost done, everyone! Slightly incredulous over here.
+  It means it&#039;s time for some retrospective writing about notable moments in
+  the opera scene for yet another calendar year. 2015 started tangible conversations
+  about looming issues around opera, the money it costs, and the reasons to produce
+  it. Like water-cooler conversations, but with more substance.
+slug: roundup-2015
+title: Roundup, 2015
+---
 
 ## When Don Giovanni wreaked his usual havoc
 

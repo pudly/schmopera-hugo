@@ -1,22 +1,43 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2019-09-09T00:30:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "If you have a true story of abuse or assault in the opera and classical music industries, send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com)."
-preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld at the author's request.\n\nThe following was submitted by American bass Zachary James."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571942686/media/2019/10/TheStories1-resized_aaxp9i.jpg"
-primary_image_credit = ""
-related_articles = ["articles/thestories-part-15.md", "articles/thestories-part-14.md", "articles/thestories-part-13.md", "articles/thestories-part-12.md", "articles/thestories-part-10-1.md", "articles/thestories-part-10-2.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-6.md", "articles/thestories-part-10.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/metoo-intro.md"]
-related_companies = []
-related_people = []
-short_description = "\"This isn't my only story of being on the other side of predatory behavior in professional settings, but it is an experience I think of regularly and one which has had a profound negative impact on my life.\""
-slug = "thestories-part-i"
-title = "#TheStories, part I"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-09-09T00:30:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: If you have a true story of abuse or assault in the opera and classical
+  music industries, send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com).
+preamble: |-
+  This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld at the author's request.
 
-+++
+  The following was submitted by American bass Zachary James.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571942686/media/2019/10/TheStories1-resized_aaxp9i.jpg
+primary_image_credit: ""
+related_articles:
+- articles/thestories-part-15.md
+- articles/thestories-part-14.md
+- articles/thestories-part-13.md
+- articles/thestories-part-12.md
+- articles/thestories-part-10-1.md
+- articles/thestories-part-10-2.md
+- articles/thestories-part-9.md
+- articles/thestories-part-8.md
+- articles/thestories-part-6.md
+- articles/thestories-part-10.md
+- articles/thestories-part-5.md
+- articles/thestories-part-4.md
+- articles/thestories-part-3.md
+- articles/thestories-part-2.md
+- articles/metoo-intro.md
+related_companies: []
+related_people: []
+short_description: '"This isn''t my only story of being on the other side of predatory
+  behavior in professional settings, but it is an experience I think of regularly
+  and one which has had a profound negative impact on my life."'
+slug: thestories-part-i
+title: '#TheStories, part I'
+youtube_url: ""
+---
 When I was a student at Florida State University I was cast in an opera being directed by a visiting guest stage director whom the university had hired from the "outside world", Marc Astafan.
 
 We were were under the impression he was a big deal and came from NYC and had various impressive professional credits and was highly influential. Growing up in Florida, this was one of the first moments of my life interacting with someone from the "real world" and I wanted to make a good impression. I was 20 and had just finished my sophomore year of college.

@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-08-19T09:45:00+01:00"
-lastmod = "2016-08-19T10:58:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471596933823/2016-08-19---Dream-Square.jpg.jpg"
-primary_image_credit = "A Midsummer Night’s Dream, Glyndebourne Festival 2016. Puck (David Evans). Photo by Robert Workman."
-publishDate = "2016-08-19T10:52:00+01:00"
-related_articles = ["articles/in-review-beatrice-et-benedict-at-glyndebourne.md","articles/in-review-hipermestra-at-glyndebourne.md","articles/too-much-magic-a-midsummer-nights-dream-at-eno.md"]
-related_companies = ["scene/companies/glyndebourne.md"]
-related_people = ["scene/people/kate-royal.md","scene/people/kathleen-kim.md","scene/people/benjamin-hulett.md","scene/people/duncan-rock.md"]
-short_description = "The royal fairy pair were delightfully complemented by David Evans as Puck, who was one part eerie, and one part utterly charming. He brought the audience to roaring applause at the finale, after an evening of chuckles and smitten murmuring from the crowd."
-slug = "in-review-a-midsummer-nights-dream-at-glyndebourne"
-title = "In review: A Midsummer Night&#039;s Dream at Glyndebourne"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-08-19T09:45:00+01:00"
+lastmod: "2016-08-19T10:58:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471596933823/2016-08-19---Dream-Square.jpg.jpg
+primary_image_credit: A Midsummer Night’s Dream, Glyndebourne Festival 2016. Puck
+  (David Evans). Photo by Robert Workman.
+publishDate: "2016-08-19T10:52:00+01:00"
+related_articles:
+- articles/in-review-beatrice-et-benedict-at-glyndebourne.md
+- articles/in-review-hipermestra-at-glyndebourne.md
+- articles/too-much-magic-a-midsummer-nights-dream-at-eno.md
+related_companies:
+- scene/companies/glyndebourne.md
+related_people:
+- scene/people/kate-royal.md
+- scene/people/kathleen-kim.md
+- scene/people/benjamin-hulett.md
+- scene/people/duncan-rock.md
+short_description: The royal fairy pair were delightfully complemented by David Evans
+  as Puck, who was one part eerie, and one part utterly charming. He brought the audience
+  to roaring applause at the finale, after an evening of chuckles and smitten murmuring
+  from the crowd.
+slug: in-review-a-midsummer-nights-dream-at-glyndebourne
+title: 'In review: A Midsummer Night&#039;s Dream at Glyndebourne'
+---
 
 Beyond the train full of folks in fancy dress, the packed bus that swerved through the impossibly narrow streets of Lewes and out to the broad countryside of Glyndebourne, the intoxicating gardens, and charming distant sounds of bleating sheep, was Peter Hall's production of *A Midsummer Night's Dream*. Aptly programmed alongside Berlioz's *Béatrice et Bénédict* in the 400th year since the death of William Shakespeare, Britten's opera is unabashedly a favourite of ours. The pages of the score are brimming over with magic, with novel sounds that still seem otherworldly, decades after its premiere in 1958.
 

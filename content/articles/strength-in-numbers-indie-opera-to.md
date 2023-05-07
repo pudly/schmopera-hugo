@@ -1,17 +1,56 @@
-+++
-author = ["authors/stephanie-applin.md"]
-categories = "Op-ed"
-date = "2016-10-28T10:35:00+01:00"
-lastmod = "2016-10-28T12:23:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477651803376/2016-10-28---Mori-Applin.jpg.jpg"
-primary_image_credit = "Michael Mori, Tapestry Opera Artistic Director, and Stephanie Applin, MYOpera General Director and IOTO Project Manager."
-publishDate = "2016-10-28T12:23:00+01:00"
-related_companies = ["scene/companies/indie-opera-to.md","scene/companies/tapestry-opera.md","scene/companies/opera-5.md","scene/companies/myopera.md","scene/companies/against-the-grain-theatre.md","scene/companies/fawn-chamber-creative.md","scene/companies/liederwolfe-opera-collective.md","scene/companies/essential-opera.md","scene/companies/the-bicycle-opera-project.md","scene/companies/renaissance.md","scene/companies/urbanvessel.md","scene/companies/loose-tea-music-theatre.md"]
-related_people = ["scene/people/kate-applin.md","scene/people/anna-theodosakis.md","scene/people/michael-mori.md","scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md","scene/people/aria-umezawa.md","scene/people/rachel-krehm.md","scene/people/amanda-smith.md","scene/people/debi-wong.md","scene/people/juliet-palmer.md","scene/people/alaina-viau.md","scene/people/maureen-ferguson.md","scene/people/erin-bardua.md","scene/people/adam-scime.md","scene/people/jonathan-macarthur.md","scene/people/miriam-khalil.md","scene/people/francesca-perez.md","scene/people/lindsay-michael.md","scene/people/larissa-koniuk.md","scene/people/geoffrey-sirett.md","scene/people/stephanie-tritchew.md","scene/people/christopher-enns.md"]
-short_description = "The launch of Indie Opera Toronto includes profiles of each company&#039;s history and creative teams, brand new photography by Dahlia Katz, integrated social media for the Indie Opera platforms and each company&#039;s own social media outlets, an integrated calendar for all upcoming productions and short films by Darren Bryant."
-slug = "strength-in-numbers-indie-opera-to"
-title = "Strength in numbers: Indie Opera T.O."
-+++
+---
+author:
+- authors/stephanie-applin.md
+categories: Op-ed
+date: "2016-10-28T10:35:00+01:00"
+lastmod: "2016-10-28T12:23:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477651803376/2016-10-28---Mori-Applin.jpg.jpg
+primary_image_credit: Michael Mori, Tapestry Opera Artistic Director, and Stephanie
+  Applin, MYOpera General Director and IOTO Project Manager.
+publishDate: "2016-10-28T12:23:00+01:00"
+related_companies:
+- scene/companies/indie-opera-to.md
+- scene/companies/tapestry-opera.md
+- scene/companies/opera-5.md
+- scene/companies/myopera.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/fawn-chamber-creative.md
+- scene/companies/liederwolfe-opera-collective.md
+- scene/companies/essential-opera.md
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/renaissance.md
+- scene/companies/urbanvessel.md
+- scene/companies/loose-tea-music-theatre.md
+related_people:
+- scene/people/kate-applin.md
+- scene/people/anna-theodosakis.md
+- scene/people/michael-mori.md
+- scene/people/joel-ivany.md
+- scene/people/christopher-mokrzewski.md
+- scene/people/aria-umezawa.md
+- scene/people/rachel-krehm.md
+- scene/people/amanda-smith.md
+- scene/people/debi-wong.md
+- scene/people/juliet-palmer.md
+- scene/people/alaina-viau.md
+- scene/people/maureen-ferguson.md
+- scene/people/erin-bardua.md
+- scene/people/adam-scime.md
+- scene/people/jonathan-macarthur.md
+- scene/people/miriam-khalil.md
+- scene/people/francesca-perez.md
+- scene/people/lindsay-michael.md
+- scene/people/larissa-koniuk.md
+- scene/people/geoffrey-sirett.md
+- scene/people/stephanie-tritchew.md
+- scene/people/christopher-enns.md
+short_description: The launch of Indie Opera Toronto includes profiles of each company&#039;s
+  history and creative teams, brand new photography by Dahlia Katz, integrated social
+  media for the Indie Opera platforms and each company&#039;s own social media outlets,
+  an integrated calendar for all upcoming productions and short films by Darren Bryant.
+slug: strength-in-numbers-indie-opera-to
+title: 'Strength in numbers: Indie Opera T.O.'
+---
 
 Hi Schmopera! My name is Stephanie Applin and I am the Project Manager of [Indie Opera Toronto](http://indieoperatoronto.ca/), the collective of independent opera companies in Toronto. 
 

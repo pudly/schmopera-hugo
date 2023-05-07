@@ -1,17 +1,29 @@
-+++
-author = ["authors/daniel-weisman.md"]
-categories = "Review"
-date = "2017-09-29T18:43:00-04:00"
-lastmod = "2017-10-02T15:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506952744507/2017-10-02---JB4A9001.jpg.jpg"
-primary_image_credit = "Jennifer Larmore in The Seven Deadly Sins, Atlanta Opera, 2017. Photo: Jeff Roffman Photography."
-publishDate = "2017-10-02T09:59:00-04:00"
-related_companies = ["scene/companies/the-atlanta-opera.md"]
-related_people = ["scene/people/jennifer-larmore.md","scene/people/christopher-dunham.md","scene/people/bryn-holdsworth.md"]
-short_description = "The laziness that the characters feel in having to get ready when the star diva hasn&#039;t arrived (sloth), the pride that Mr. Dunham&#039;s self-named character feels towards Ms. Holdsworth, Ms. Larmore&#039;s cameo can be seen as anger and covetousness towards Holdsworth&#039;s envy, Mr. Munson&#039;s alcoholism is addressed as gluttony, Ms. Holdsworth&#039;s lust towards Mr. Dunham, Mr. Munson, and Mr. Stolz, all is masterfully and subtly woven into the script by director Brian Clowdus, helping tie in his cabaret to the front-billed one-act."
-slug = "larmore-leads-sinful-success"
-title = "Larmore leads &quot;Sinful&quot; success"
-+++
+---
+author:
+- authors/daniel-weisman.md
+categories: Review
+date: "2017-09-29T18:43:00-04:00"
+lastmod: "2017-10-02T15:39:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506952744507/2017-10-02---JB4A9001.jpg.jpg
+primary_image_credit: 'Jennifer Larmore in The Seven Deadly Sins, Atlanta Opera, 2017.
+  Photo: Jeff Roffman Photography.'
+publishDate: "2017-10-02T09:59:00-04:00"
+related_companies:
+- scene/companies/the-atlanta-opera.md
+related_people:
+- scene/people/jennifer-larmore.md
+- scene/people/christopher-dunham.md
+- scene/people/bryn-holdsworth.md
+short_description: The laziness that the characters feel in having to get ready when
+  the star diva hasn&#039;t arrived (sloth), the pride that Mr. Dunham&#039;s self-named
+  character feels towards Ms. Holdsworth, Ms. Larmore&#039;s cameo can be seen as
+  anger and covetousness towards Holdsworth&#039;s envy, Mr. Munson&#039;s alcoholism
+  is addressed as gluttony, Ms. Holdsworth&#039;s lust towards Mr. Dunham, Mr. Munson,
+  and Mr. Stolz, all is masterfully and subtly woven into the script by director Brian
+  Clowdus, helping tie in his cabaret to the front-billed one-act.
+slug: larmore-leads-sinful-success
+title: Larmore leads &quot;Sinful&quot; success
+---
 
 Since taking over as General and Artistic Director in 2013, [Tomer Zvulun](/tomer-zvulun-the-atlanta-operas-intriguing-201718/) has been praised for revitalizing the image of [The Atlanta Opera](/scene/companies/the-atlanta-opera/) by bringing in new talent, extending the span of their season, helping start the Atlanta Opera Studio Program (now in its second year), and Atlanta Opera's Discoveries Series, a series dedicated to providing audiences with new or lesser known works presented in different venues than one would normally expect when going to see an opera. Past Discoveries performances have included Jake Heggie's *Three Decembers* and Mozart's [*The Secret Garden*](/la-finta-giardiniera-coming-to-a-garden-near-you/), which was presented last spring in conjunction with [On Site Opera](/scene/companies/on-site-opera/). This year has been no exception in expanding Zvulun's vision of The Atlanta Opera's success, presenting six full productions (two of which are presented as a part of the Discovery Series) and a studio tour meant to feature local Atlanta talent as well as the young artists in their Studio Program.
 

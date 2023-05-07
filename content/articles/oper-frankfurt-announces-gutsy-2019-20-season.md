@@ -1,22 +1,41 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Op-Ed"
-date = "2019-05-12T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Oper Frankfurt's 2019-20 season also features a new production of _Tristan und Isolde_ (Jan. 25-Jul. 2, 2020) and H.W. Henze's _Der Prinz von Homburg_ (Jun. 7-Jul. 4, 2020), a new concert production of Thomas' _Mignon_ (Apr. 17-19, 2020), and the premiere of a new opera by Lucia Ronchetti, _Inferno_ (Apr. 18-May 9, 2020), a joint production with Schauspiel Frankfurt."
-preamble = "Oper Frankfurt announced its [2019-20 season](https://oper-frankfurt.de/media/pdf/Saisonbroschuere_Netz_19_20.pdf) last week. Here are some highlights:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557702642/media/2019/05/sqOperFrankfurtAussenansicht-pc-BarbaraAumueller.jpg"
-primary_image_credit = "Photo: Barbara Aumüller."
-related_articles = []
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = ["scene/people/asmik-grigorian.md", "scene/people/christian-gerhaher.md", "scene/people/elizabeth-sutphen.md", "scene/people/lawrence-zazzo.md", "scene/people/gordon-bintner.md", "scene/people/rb-schlather.md", "scene/people/jakub-jozef-orlinski.md", "scene/people/ambur-braid.md", "scene/people/christopher-maltman.md"]
-short_description = "As far as I'm concerned, the more Shostakovich the better. The composer belongs to a group of masters – including Scriabin and Chopin – whose work reaches vocal music devotee's ears far less than it should. Lady Macbeth's explosive score teems with a pathos that lives up to its fascinating offstage history of censorship under Stalin."
-slug = "oper-frankfurt-announces-gutsy-2019-20-season"
-title = "Oper Frankfurt announces gutsy 2019-20 season"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Op-Ed
+date: "2019-05-12T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Oper Frankfurt's 2019-20 season also features a new production of _Tristan
+  und Isolde_ (Jan. 25-Jul. 2, 2020) and H.W. Henze's _Der Prinz von Homburg_ (Jun.
+  7-Jul. 4, 2020), a new concert production of Thomas' _Mignon_ (Apr. 17-19, 2020),
+  and the premiere of a new opera by Lucia Ronchetti, _Inferno_ (Apr. 18-May 9, 2020),
+  a joint production with Schauspiel Frankfurt.
+preamble: 'Oper Frankfurt announced its [2019-20 season](https://oper-frankfurt.de/media/pdf/Saisonbroschuere_Netz_19_20.pdf)
+  last week. Here are some highlights:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1557702642/media/2019/05/sqOperFrankfurtAussenansicht-pc-BarbaraAumueller.jpg
+primary_image_credit: 'Photo: Barbara Aumüller.'
+related_articles: []
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people:
+- scene/people/asmik-grigorian.md
+- scene/people/christian-gerhaher.md
+- scene/people/elizabeth-sutphen.md
+- scene/people/lawrence-zazzo.md
+- scene/people/gordon-bintner.md
+- scene/people/rb-schlather.md
+- scene/people/jakub-jozef-orlinski.md
+- scene/people/ambur-braid.md
+- scene/people/christopher-maltman.md
+short_description: As far as I'm concerned, the more Shostakovich the better. The
+  composer belongs to a group of masters – including Scriabin and Chopin – whose work
+  reaches vocal music devotee's ears far less than it should. Lady Macbeth's explosive
+  score teems with a pathos that lives up to its fascinating offstage history of censorship
+  under Stalin.
+slug: oper-frankfurt-announces-gutsy-2019-20-season
+title: Oper Frankfurt announces gutsy 2019-20 season
+youtube_url: ""
+---
 ## New productions
 
 **_Pénèlope_ (G. Fauré) - Dec. 1, 2019-Jan. 23, 2020**

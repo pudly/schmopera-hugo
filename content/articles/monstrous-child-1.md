@@ -1,22 +1,32 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-02-23T18:15:45+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "_The Monstrous Child_ is onstage at the Linbury Theatre through 3 March. For details and tickets, [click here](https://www.roh.org.uk/productions/the-monstrous-child-by-timothy-sheader)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550945700/media/2019/02/sqPR8A6410rMartaFontanalsSimmonsasHelROH2019.jpg"
-primary_image_credit = "Marta Fontanals-Simmons as Hel in The Monstrous Child, ROH, 2019. Photo: Stephen Cummiskey."
-related_articles = ["articles/tarrare-the-freak-i-just-want-to-be-full.md", "articles/monstrous-child.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/marta-fontanals-simmons.md", "scene/people/gavin-higgins.md"]
-short_description = "It was very much a young person's opera and was therefore theatrical in a way that is rarely seen in large scale opera productions. Though it is meant for a younger crowd, it wasn't overly simplified or polite. It was gritty, honest, and unapologetic."
-slug = "inventive-and-playful-monstrous-child"
-title = "Inventive and playful: The Monstrous Child"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-02-23T18:15:45+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: _The Monstrous Child_ is onstage at the Linbury Theatre through 3 March.
+  For details and tickets, [click here](https://www.roh.org.uk/productions/the-monstrous-child-by-timothy-sheader).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550945700/media/2019/02/sqPR8A6410rMartaFontanalsSimmonsasHelROH2019.jpg
+primary_image_credit: 'Marta Fontanals-Simmons as Hel in The Monstrous Child, ROH,
+  2019. Photo: Stephen Cummiskey.'
+related_articles:
+- articles/tarrare-the-freak-i-just-want-to-be-full.md
+- articles/monstrous-child.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/marta-fontanals-simmons.md
+- scene/people/gavin-higgins.md
+short_description: It was very much a young person's opera and was therefore theatrical
+  in a way that is rarely seen in large scale opera productions. Though it is meant
+  for a younger crowd, it wasn't overly simplified or polite. It was gritty, honest,
+  and unapologetic.
+slug: inventive-and-playful-monstrous-child
+title: 'Inventive and playful: The Monstrous Child'
+youtube_url: ""
+---
 This was an evening of firsts; the world premiere of a new opera and a chance for [The Royal Opera](/scene/companies/royal-opera-house/) to show off its newest venue, the intimate 400-seat, recently refurbished Linbury Theatre, part of the three year-long reconstruction of Covent Garden, a reconstruction project that is costing the Royal Opera no less the £50 million. All of this in an attempt to breath life into a tired, fussy space, and to hopefully begin to shake off the "elitist" label they've been carrying around for years. And what better way to showcase this sleek new venue, than to produce an exciting world premiere.
 
 > She is speaking directly to every young girl who has ever felt unlovable.

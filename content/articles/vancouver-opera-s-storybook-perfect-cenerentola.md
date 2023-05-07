@@ -1,22 +1,33 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = "2019-05-03T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Vancouver Opera's production of [_La Cenerentola_](https://www.vancouveropera.ca/cenerentola/) runs through May 12. For details and tickets, [click here](https://www.vancouveropera.ca/cenerentola/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556848863/media/2019/05/sqLaCenerentolaprincipals-TimMatheson.jpg"
-primary_image_credit = "The ensemble of Vancouver Opera's production of La Cenerentola, 2019. Photo: Tim Matheson."
-related_articles = ["articles/mo-figaro.md", "articles/opera-shorthand-how-to-speak-like-an-insider.md"]
-related_companies = ["scene/companies/vancouver-opera.md"]
-related_people = ["scene/people/charles-sy.md", "scene/people/peter-mcgillivray.md", "scene/people/simone-mcintosh.md"]
-short_description = "Rossini is incredibly unforgiving in his lighting-fast patter, overlapping harmonies, and blistering tempi in the ensembles, and every single one was perfectly precise, executed flawlessly, and were still all funny, evocative, and playful."
-slug = "vancouver-operas-storybook-perfect-cenerentola"
-title = "Vancouver Opera's Storybook Perfect Cenerentola"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2019-05-03T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Vancouver Opera's production of [_La Cenerentola_](https://www.vancouveropera.ca/cenerentola/)
+  runs through May 12. For details and tickets, [click here](https://www.vancouveropera.ca/cenerentola/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1556848863/media/2019/05/sqLaCenerentolaprincipals-TimMatheson.jpg
+primary_image_credit: 'The ensemble of Vancouver Opera''s production of La Cenerentola,
+  2019. Photo: Tim Matheson.'
+related_articles:
+- articles/mo-figaro.md
+- articles/opera-shorthand-how-to-speak-like-an-insider.md
+related_companies:
+- scene/companies/vancouver-opera.md
+related_people:
+- scene/people/charles-sy.md
+- scene/people/peter-mcgillivray.md
+- scene/people/simone-mcintosh.md
+short_description: Rossini is incredibly unforgiving in his lighting-fast patter,
+  overlapping harmonies, and blistering tempi in the ensembles, and every single one
+  was perfectly precise, executed flawlessly, and were still all funny, evocative,
+  and playful.
+slug: vancouver-operas-storybook-perfect-cenerentola
+title: Vancouver Opera's Storybook Perfect Cenerentola
+youtube_url: ""
+---
 Vancouver Opera's annual festival is off to a flying start with its comic offering of Rossini's classic [_La Cenerentola_](https://www.vancouveropera.ca/cenerentola/). The opera is filled with up and coming young stars, and doesn't disappoint for a moment.
 
 This production looks and feels like a children's storybook, from the wood-block print backdrops, to the over-the-top costumes and makeup, to the chorus choreography, and a wonderfully choreographed scene at the banquet table.

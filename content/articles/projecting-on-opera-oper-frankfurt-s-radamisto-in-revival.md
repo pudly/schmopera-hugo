@@ -1,22 +1,30 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2019-09-03T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567791117/media/2019/09/sqradamisto_2019-20_06_te9j94.jpg"
-primary_image_credit = "Kihwan Sim (Tiridate) and Jenny Carlstedt (Polissena) in Radamisto, Oper Frankfurt, 2019. Photo: Barbara Aumüller."
-related_articles = ["articles/a-visceral-nightmarish-tourdeforce-der-mieter.md", "articles/an-absolute-triumph-koskys-carmen.md", "articles/a-prodigy-grows-into-his-art.md"]
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = []
-short_description = "Then the production succumbs to another tired trope in an attempt to solve the problem of too little too late. Tiridate slits everyone's throat in the midst of their celebratory epilogue as if to ask: is it still opera if no one dies?"
-slug = "projecting-on-opera-oper-frankfurts-radamisto-in-revival"
-title = "Projecting on opera: Oper Frankfurt's Radamisto in revival"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2019-09-03T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1567791117/media/2019/09/sqradamisto_2019-20_06_te9j94.jpg
+primary_image_credit: 'Kihwan Sim (Tiridate) and Jenny Carlstedt (Polissena) in Radamisto,
+  Oper Frankfurt, 2019. Photo: Barbara Aumüller.'
+related_articles:
+- articles/a-visceral-nightmarish-tourdeforce-der-mieter.md
+- articles/an-absolute-triumph-koskys-carmen.md
+- articles/a-prodigy-grows-into-his-art.md
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people: []
+short_description: 'Then the production succumbs to another tired trope in an attempt
+  to solve the problem of too little too late. Tiridate slits everyone''s throat in
+  the midst of their celebratory epilogue as if to ask: is it still opera if no one
+  dies?'
+slug: projecting-on-opera-oper-frankfurts-radamisto-in-revival
+title: 'Projecting on opera: Oper Frankfurt''s Radamisto in revival'
+youtube_url: ""
+---
 Revivals bring unique challenges. Rehearsal periods are nerve-rackingly short, the original director is rarely involved, the production itself must remain relevant despite being displaced from its original context, and no revisions are allowed. If only directors could (and would) refine their productions each time they were mounted anew – if only opera companies had the budget for that – the at form would gain vitality.
 
 Oper Frankfurt's current revival of Handel's _Radamisto_ (directed by Tilmann Köhler) premiered in 2016. A lot has changed since then and a lot of art has become dated in the meantime. How relevant this production was when it premiered, though, is hard to tell.

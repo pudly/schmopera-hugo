@@ -1,18 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-01-05T16:57:00+00:00"
-lastmod = "2017-01-06T15:34:00+00:00"
-preamble = "If you're a fan of opera and opera singer, you likely know about [Barihunks](http://barihunks.blogspot.co.uk/). For nearly 10 years, Barihunks has been glorifying the beautiful voices - and abs - of opera's smooth-voiced baritones. Any baritone who claims that he's not tickled to be featured on Barihunks is a modest fibber; the cream of the crop even make it into the 10th-anniversary [\"Baritones in Bed\" calendar](http://www.lulu.com/shop/baritone-barihunks/my-calendar/calendar/product-22884318.html).\n\nWe spoke with Barihunks blogger Jack Michaels, about the sultry appeal of low voices, the blog's focus on health and fitness, and the respect and admiration he has for all working opera singers."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483700104009/2017-01-07---Barihunks.jpg.jpg"
-primary_image_credit = "Clockwise from left: baritones Anthony Reed, Malte Roesner, and Marco Vassalli. Photos by Jack Michaels."
-publishDate = "2017-01-06T10:19:00+00:00"
-related_articles = ["articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-massimo-cavalletti.md","articles/talking-with-singers-christopher-purves.md"]
-related_people = ["scene/people/luca-pisaroni.md","scene/people/dmitri-hvorostovsky.md","scene/people/bryn-terfel.md","scene/people/thomas-hampson.md","scene/people/mariusz-kwiecien.md"]
-short_description = "&quot;We have met some of the most remarkable, talented and delightful people over the 10 years that Barihunks has been in existence. We&#039;ve learned that opera is a tough business and hard on singers, which is why we post a &quot;No Bitchiness&quot; statement on our main page. Singers have all of the insecurities and anxieties of the non-performer, but amplified a hundred times.&quot;"
-slug = "barihunks-jack-michaels-we-are-in-a-golden-age-of-baritones"
-title = "Barihunks&#039; Jack Michaels: &quot;We are in a golden age of baritones&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-01-05T16:57:00+00:00"
+lastmod: "2017-01-06T15:34:00+00:00"
+preamble: |-
+  If you're a fan of opera and opera singer, you likely know about [Barihunks](http://barihunks.blogspot.co.uk/). For nearly 10 years, Barihunks has been glorifying the beautiful voices - and abs - of opera's smooth-voiced baritones. Any baritone who claims that he's not tickled to be featured on Barihunks is a modest fibber; the cream of the crop even make it into the 10th-anniversary ["Baritones in Bed" calendar](http://www.lulu.com/shop/baritone-barihunks/my-calendar/calendar/product-22884318.html).
+
+  We spoke with Barihunks blogger Jack Michaels, about the sultry appeal of low voices, the blog's focus on health and fitness, and the respect and admiration he has for all working opera singers.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483700104009/2017-01-07---Barihunks.jpg.jpg
+primary_image_credit: 'Clockwise from left: baritones Anthony Reed, Malte Roesner,
+  and Marco Vassalli. Photos by Jack Michaels.'
+publishDate: "2017-01-06T10:19:00+00:00"
+related_articles:
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/talking-with-singers-massimo-cavalletti.md
+- articles/talking-with-singers-christopher-purves.md
+related_people:
+- scene/people/luca-pisaroni.md
+- scene/people/dmitri-hvorostovsky.md
+- scene/people/bryn-terfel.md
+- scene/people/thomas-hampson.md
+- scene/people/mariusz-kwiecien.md
+short_description: '&quot;We have met some of the most remarkable, talented and delightful
+  people over the 10 years that Barihunks has been in existence. We&#039;ve learned
+  that opera is a tough business and hard on singers, which is why we post a &quot;No
+  Bitchiness&quot; statement on our main page. Singers have all of the insecurities
+  and anxieties of the non-performer, but amplified a hundred times.&quot;'
+slug: barihunks-jack-michaels-we-are-in-a-golden-age-of-baritones
+title: 'Barihunks&#039; Jack Michaels: &quot;We are in a golden age of baritones&quot;'
+---
 
 ## What is it about baritones? Doesn't everyone love the tenor?
 

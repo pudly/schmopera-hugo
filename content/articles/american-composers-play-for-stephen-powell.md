@@ -1,22 +1,30 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2020-10-19T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Stephen Powell's _American Composers At Play_ is [available for purchase](https://stephenpowell.us/recordings) via his website."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1602785547/media/2020/10/sqPowellAlbum_fxdad5.jpg"
-primary_image_credit = ""
-related_articles = ["articles/recording-dame-smyth-pretty-good-for-a-woman.md", "articles/american-opera-projects-youre-seeing-the-opera-in-microcosm.md", "articles/orlando-gender-bending-and-the-sound-of-androgyny-in-vienna.md"]
-related_companies = []
-related_people = ["scene/people/stephen-powell.md"]
-short_description = "Wrapping his selection of American art songs with works from poets who are celebrated and time-honored masters may partially explain why Powell has arranged the songs somewhat thematically rather than by composer. Whatever his rationale, \"Billy in the Darbies\" remains the soul of this undertaking."
-slug = "american-composers-play-for-stephen-powell"
-title = "American composers \"Play\" for Stephen Powell"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2020-10-19T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Stephen Powell's _American Composers At Play_ is [available for purchase](https://stephenpowell.us/recordings)
+  via his website.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1602785547/media/2020/10/sqPowellAlbum_fxdad5.jpg
+primary_image_credit: ""
+related_articles:
+- articles/recording-dame-smyth-pretty-good-for-a-woman.md
+- articles/american-opera-projects-youre-seeing-the-opera-in-microcosm.md
+- articles/orlando-gender-bending-and-the-sound-of-androgyny-in-vienna.md
+related_companies: []
+related_people:
+- scene/people/stephen-powell.md
+short_description: Wrapping his selection of American art songs with works from poets
+  who are celebrated and time-honored masters may partially explain why Powell has
+  arranged the songs somewhat thematically rather than by composer. Whatever his rationale,
+  "Billy in the Darbies" remains the soul of this undertaking.
+slug: american-composers-play-for-stephen-powell
+title: American composers "Play" for Stephen Powell
+youtube_url: ""
+---
 [Stephen Powell](/scene/people/stephen-powell/) is a hearty baritone entering his fourth decade as an opera singer. His first solo recording boasts the participation of four illustrious American composers - John Musto, William Bolcom, Lori Laitman, and Ricky Ian Gordon - all of whom provide piano accompaniment as well as their songs. As Powell puts it in his effusive notes to [_American Composers At Play_](https://stephenpowell.us/recordings), "For decades I've wanted to perform the work of living composers with the composers themselves playing their compositions...these four giants have liberated my American voice."
 
 Good for them. But in return they require keen interpretation, something quite removed from Powell's perfectly burnished tone and polished technique. There are many moments of fine singing, indeed one that feels genuinely definitive on this recording. Others simply set on the ear. They are not without energy or commitment, but lack a distinct voice, American or otherwise. We expect more connection from the close collaboration for which Powell expresses much gratitude.

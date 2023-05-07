@@ -1,22 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2019-12-28T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1577394233/media/2019/12/Roundup2019-2_j5ojja.jpg"
-primary_image_credit = ""
-related_articles = ["articles/metoo-intro.md", "articles/thestories-part-i.md", "articles/roundup-2015.md", "articles/roundup2016-greg-jennas-top-10.md", "articles/greg-jennas-roundup2017.md", "articles/2018-in-review-a-confession.md"]
-related_companies = ["scene/companies/amplified-opera.md"]
-related_people = ["scene/people/zachary-james.md", "scene/people/kathryn-lewek.md", "scene/people/tamara-wilson.md", "scene/people/teiya-kasahara.md"]
-short_description = "This year has certainly been different, though - and maybe you’ve noticed the change in tone since I’ve gone from being Schmopera’s primary voice, to its behind-the-scenes editor and sometimes-guest author."
-slug = "roundup-2019-or-why-id-prefer-to-just-look-ahead"
-title = "Roundup 2019, or why I'd prefer to just look ahead"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-12-28T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1577394233/media/2019/12/Roundup2019-2_j5ojja.jpg
+primary_image_credit: ""
+related_articles:
+- articles/metoo-intro.md
+- articles/thestories-part-i.md
+- articles/roundup-2015.md
+- articles/roundup2016-greg-jennas-top-10.md
+- articles/greg-jennas-roundup2017.md
+- articles/2018-in-review-a-confession.md
+related_companies:
+- scene/companies/amplified-opera.md
+related_people:
+- scene/people/zachary-james.md
+- scene/people/kathryn-lewek.md
+- scene/people/tamara-wilson.md
+- scene/people/teiya-kasahara.md
+short_description: This year has certainly been different, though - and maybe you’ve
+  noticed the change in tone since I’ve gone from being Schmopera’s primary voice,
+  to its behind-the-scenes editor and sometimes-guest author.
+slug: roundup-2019-or-why-id-prefer-to-just-look-ahead
+title: Roundup 2019, or why I'd prefer to just look ahead
+youtube_url: ""
+---
 So, I set out to write a roundup-type post for 2019, where I list my favourite shows or singers or whatevers of the last 12 months. I know it's a bit predictable and maybe even pandering, but I like doing that kind of thing. At the end of a year, especially at the end of a decade, it's nice to take stock even of something as unnecessary as a year's worth of opera-going.
 
 But if I'm entirely honest, I can't actually offer a fair roundup for this particular year. For a few reasons that I'll get into shortly, Schmopera has been ticking along as a hub of opera-loving content - often without me. I think that's essentially a good thing; we are now a far-reaching team of writers, who contribute reviews, [interviews](/talking-with-singers-nina-stemme/), [op-eds](/the-business-of-passion/), even [record recommendations](/4-singers-you-might-not-know-but-should/), and the content they produce has great impact with you, our readers.

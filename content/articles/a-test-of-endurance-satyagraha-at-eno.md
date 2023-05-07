@@ -1,18 +1,27 @@
-+++
-author = ["authors/vivian-darkbloom.md"]
-categories = "Review"
-date = "2018-02-02T09:26:00-05:00"
-lastmod = "2018-02-02T11:12:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517580353838/sq---ENO-Satyagraha-Toby-Spence-ENO-Chorus-3-Donald-Cooper.jpg.jpg"
-primary_image_credit = "Toby Spence (Gandhi) in Satyagraha, English National Opera, 2018. Photo: Donald Cooper."
-publishDate = "2018-02-02T09:26:00-05:00"
-related_articles = ["articles/transparent-glass-the-composer-turns-80.md","articles/talking-with-singers-jnai-bridges.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/toby-spence.md"]
-short_description = "Unfortunately, we have come to expect this lack of attention to aesthetics in the big opera houses, and as theatre and film move strides across the artistic plane, opera tends to fall flat on its face on its reliance with tradition, outdated gimmicks, and its clumsy and naive understanding of mass audience appeal."
-slug = "a-test-of-endurance-satyagraha-at-eno"
-title = "A test of endurance: Satyagraha at ENO"
-+++
+---
+author:
+- authors/vivian-darkbloom.md
+categories: Review
+date: "2018-02-02T09:26:00-05:00"
+lastmod: "2018-02-02T11:12:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517580353838/sq---ENO-Satyagraha-Toby-Spence-ENO-Chorus-3-Donald-Cooper.jpg.jpg
+primary_image_credit: 'Toby Spence (Gandhi) in Satyagraha, English National Opera,
+  2018. Photo: Donald Cooper.'
+publishDate: "2018-02-02T09:26:00-05:00"
+related_articles:
+- articles/transparent-glass-the-composer-turns-80.md
+- articles/talking-with-singers-jnai-bridges.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/toby-spence.md
+short_description: Unfortunately, we have come to expect this lack of attention to
+  aesthetics in the big opera houses, and as theatre and film move strides across
+  the artistic plane, opera tends to fall flat on its face on its reliance with tradition,
+  outdated gimmicks, and its clumsy and naive understanding of mass audience appeal.
+slug: a-test-of-endurance-satyagraha-at-eno
+title: 'A test of endurance: Satyagraha at ENO'
+---
 
 Although "Contemporary Opera for the 'Britain's Got Talent' Generation" might be an apt way to describe Phelim McDermott's *Satyagraha*, it would be unfair to both the performers and the audience to describe it as such, due to the mammoth stamina that is required by both parties during a performance of this epic Glass score. 
 

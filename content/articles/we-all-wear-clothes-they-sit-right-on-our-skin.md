@@ -1,19 +1,47 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-08-03T13:17:00-04:00"
-lastmod = "2017-08-04T10:38:00-04:00"
-preamble = "[The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/)'s touring production of [*Sweat*](/in-review-sweat/) has arrived in Toronto, playing at the Aki Studio at Daniels Spectrum **August 3-6**. \n\n\"*Sweat* takes us to the heart of a contemporary sweat shop. The garment industry has factories around the world from Mexico to Pakistan. Our factory is a fictional one made up of a kaleidoscope of nationalities represented by the women who work there. The show begins late one night in their dormitory, as the women get ready for bed and watch a horse race on TV.\"\n\nIt's a moving piece by composer [Juliet Palmer](/scene/people/juliet-palmer/) and librettist [Anna Chatterton](/scene/people/anna-chatterton/), and we were fortunate to chat with Bike Opera about what it means for them to bring the story of *Sweat* to Canadian audiences."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501780862561/2017-08-03---Square---Sweatstills-photobyDahliaKatz-4986.jpg.jpg"
-primary_image_credit = "Production image from Sweat, Bicycle Opera Project, 2017. Photo: Dahlia Katz."
-publishDate = "2017-08-03T22:40:00-04:00"
-related_articles = ["articles/in-review-sweat.md"]
-related_companies = ["scene/companies/the-bicycle-opera-project.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/juliet-palmer.md","scene/people/anna-chatterton.md","scene/people/larissa-koniuk.md","scene/people/geoffrey-sirett.md","scene/people/stephanie-tritchew.md","scene/people/emma-char.md","scene/people/caitlin-wood.md","scene/people/catherine-daniel.md","scene/people/keith-lam.md"]
-short_description = "&quot;This is the perfect opera for Bicycle Opera! It has given us an amazing opportunity to tour this work to locations outside of the regular concert venue, since we don&#039;t need a piano or any space for our instrumentalists. This year, we were able to bring the show to some spaces that had a direct connection to the material.&quot;"
-slug = "we-all-wear-clothes-they-sit-right-on-our-skin"
-title = "&quot;We all wear clothes. They sit right on our skin.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-08-03T13:17:00-04:00"
+lastmod: "2017-08-04T10:38:00-04:00"
+preamble: "[The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/)'s
+  touring production of [*Sweat*](/in-review-sweat/) has arrived in Toronto, playing
+  at the Aki Studio at Daniels Spectrum **August 3-6**. \n\n\"*Sweat* takes us to
+  the heart of a contemporary sweat shop. The garment industry has factories around
+  the world from Mexico to Pakistan. Our factory is a fictional one made up of a kaleidoscope
+  of nationalities represented by the women who work there. The show begins late one
+  night in their dormitory, as the women get ready for bed and watch a horse race
+  on TV.\"\n\nIt's a moving piece by composer [Juliet Palmer](/scene/people/juliet-palmer/)
+  and librettist [Anna Chatterton](/scene/people/anna-chatterton/), and we were fortunate
+  to chat with Bike Opera about what it means for them to bring the story of *Sweat*
+  to Canadian audiences."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501780862561/2017-08-03---Square---Sweatstills-photobyDahliaKatz-4986.jpg.jpg
+primary_image_credit: 'Production image from Sweat, Bicycle Opera Project, 2017. Photo:
+  Dahlia Katz.'
+publishDate: "2017-08-03T22:40:00-04:00"
+related_articles:
+- articles/in-review-sweat.md
+related_companies:
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/juliet-palmer.md
+- scene/people/anna-chatterton.md
+- scene/people/larissa-koniuk.md
+- scene/people/geoffrey-sirett.md
+- scene/people/stephanie-tritchew.md
+- scene/people/emma-char.md
+- scene/people/caitlin-wood.md
+- scene/people/catherine-daniel.md
+- scene/people/keith-lam.md
+short_description: '&quot;This is the perfect opera for Bicycle Opera! It has given
+  us an amazing opportunity to tour this work to locations outside of the regular
+  concert venue, since we don&#039;t need a piano or any space for our instrumentalists.
+  This year, we were able to bring the show to some spaces that had a direct connection
+  to the material.&quot;'
+slug: we-all-wear-clothes-they-sit-right-on-our-skin
+title: '&quot;We all wear clothes. They sit right on our skin.&quot;'
+---
 
 ## What is *Sweat* about? 
 

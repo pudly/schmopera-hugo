@@ -1,16 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2018-02-27T21:56:00-05:00"
-lastmod = "2018-02-28T18:29:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519786182752/March.jpg.jpg"
-publishDate = "2018-02-27T21:56:00-05:00"
-related_articles = ["articles/littleknown-gems-ariane-et-bachus.md"]
-related_companies = ["scene/companies/haymarket-opera-company.md"]
-short_description = "The opera by composer Stewart Copeland and librettist Jonathan Moore is based on the novel by Adolfo Bioy Casares, &quot;La invención de Morel&quot;. An escaped fugitive ends up on a strange island, falls in love, is abandoned, and begins to unravel before meeting the mad scientist Morel."
-slug = "three-cities-lots-of-options-coming-up-in-march"
-title = "Three cities, lots of options: coming up in March"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2018-02-27T21:56:00-05:00"
+lastmod: "2018-02-28T18:29:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519786182752/March.jpg.jpg
+publishDate: "2018-02-27T21:56:00-05:00"
+related_articles:
+- articles/littleknown-gems-ariane-et-bachus.md
+related_companies:
+- scene/companies/haymarket-opera-company.md
+short_description: The opera by composer Stewart Copeland and librettist Jonathan
+  Moore is based on the novel by Adolfo Bioy Casares, &quot;La invención de Morel&quot;.
+  An escaped fugitive ends up on a strange island, falls in love, is abandoned, and
+  begins to unravel before meeting the mad scientist Morel.
+slug: three-cities-lots-of-options-coming-up-in-march
+title: 'Three cities, lots of options: coming up in March'
+---
 
 Whether you're dealing with lion- or lamb-like weather, March offers some good operatic and musical picks on both coasts (and a little bit the Midwest).
 

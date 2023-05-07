@@ -1,19 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-09-04T12:33:00-04:00"
-lastmod = "2017-09-05T13:09:00-04:00"
-preamble = "Fresh off her [\"exceptional\" run as Norina](https://lisetteoropesa.com/career/2017/glyndebourne-don-pasquale) in Mariame Clément's *Don Pasquale* at this summer's Glyndebourne Festival, soprano [Lisette Oropesa](/scene/people/lisette-oropesa/) is gearing up to sing the title role in the first revival of Katie Mitchell's [controversial production of *Lucia di Lammermoor*](/in-review-lucia-di-lammermoor-at-roh/) at the Royal Opera House. The Cuban-American singer will spend the rest of her season at the Metropolitan Opera (Gretel in *Hänsel and Gretel*), the Bayerische Staatsoper (Konstanze in *Die Entführung aus dem Serail*), and Los Angeles Opera (Euridice in *Orfeo ed Euridice*, Lucia in *Lucia di Lammermoor*).\n\nBusy as she is, Oropesa took the time to chat about the roles that affect her most, the trick to standing out in a soprano-heavy opera world, and how she keeps a clear head amid her packed schedule."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504543252009/2017-09-04---Soprano-Lisette-Oropesa-Jason--Homa.jpg.jpg"
-primary_image_credit = "Photo: Jason Homa."
-publishDate = "2017-09-05T12:57:00-04:00"
-related_articles = ["articles/talking-with-singers-rena-harms.md","articles/talking-with-singers-corinne-winters.md","articles/talking-with-singers-jamie-barton.md","articles/a-lucia-with-agency-and-independence-at-the-royal-opera-house.md"]
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md","scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/lisette-oropesa.md"]
-short_description = "&quot;Ever since I was young I have been singing, and I can&#039;t remember a time when music was not a part of my life.  I truly feel that this is what I&#039;ve been put on this earth to do; namely, to share something divine through the gift of music.  If I can move even a single person, I know that I have done justice to the gift that has been given to me.&quot;"
-slug = "talking-with-singers-lisette-oropesa"
-title = "Talking with singers: Lisette Oropesa"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-09-04T12:33:00-04:00"
+lastmod: "2017-09-05T13:09:00-04:00"
+preamble: |-
+  Fresh off her ["exceptional" run as Norina](https://lisetteoropesa.com/career/2017/glyndebourne-don-pasquale) in Mariame Clément's *Don Pasquale* at this summer's Glyndebourne Festival, soprano [Lisette Oropesa](/scene/people/lisette-oropesa/) is gearing up to sing the title role in the first revival of Katie Mitchell's [controversial production of *Lucia di Lammermoor*](/in-review-lucia-di-lammermoor-at-roh/) at the Royal Opera House. The Cuban-American singer will spend the rest of her season at the Metropolitan Opera (Gretel in *Hänsel and Gretel*), the Bayerische Staatsoper (Konstanze in *Die Entführung aus dem Serail*), and Los Angeles Opera (Euridice in *Orfeo ed Euridice*, Lucia in *Lucia di Lammermoor*).
+
+  Busy as she is, Oropesa took the time to chat about the roles that affect her most, the trick to standing out in a soprano-heavy opera world, and how she keeps a clear head amid her packed schedule.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504543252009/2017-09-04---Soprano-Lisette-Oropesa-Jason--Homa.jpg.jpg
+primary_image_credit: 'Photo: Jason Homa.'
+publishDate: "2017-09-05T12:57:00-04:00"
+related_articles:
+- articles/talking-with-singers-rena-harms.md
+- articles/talking-with-singers-corinne-winters.md
+- articles/talking-with-singers-jamie-barton.md
+- articles/a-lucia-with-agency-and-independence-at-the-royal-opera-house.md
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/glyndebourne.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/lisette-oropesa.md
+short_description: '&quot;Ever since I was young I have been singing, and I can&#039;t
+  remember a time when music was not a part of my life.  I truly feel that this is
+  what I&#039;ve been put on this earth to do; namely, to share something divine through
+  the gift of music.  If I can move even a single person, I know that I have done
+  justice to the gift that has been given to me.&quot;'
+slug: talking-with-singers-lisette-oropesa
+title: 'Talking with singers: Lisette Oropesa'
+---
 
 ## Why do you sing?
 

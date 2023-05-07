@@ -1,33 +1,38 @@
-+++
-author = []
-categories = ""
-date = ""
-discipline = "Mezzo-soprano"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581462013/media/2020/02/DeborahNansteel_v2uogb.jpg"
-primary_image_credit = "Arielle Doneson"
-related_articles = []
-related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/merola-opera-program.md", "scene/companies/san-francisco-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/seattle-opera.md", "scene/companies/lyric-opera-of-chicago.md"]
-related_people = []
-short_description = ""
-slug = "deborah-nansteel"
-title = "Deborah Nansteel"
-website = "https://www.deborahnansteel.com/"
-youtube_url = ""
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Deborah-Nansteel-Mezzo-Soprano-179787165973546"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/deb.nansteel/"
-
-_template = "people_single"
-+++
+---
+author: []
+categories: ""
+date: ""
+discipline: Mezzo-soprano
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1581462013/media/2020/02/DeborahNansteel_v2uogb.jpg
+primary_image_credit: Arielle Doneson
+related_articles: []
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/merola-opera-program.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+related_people: []
+short_description: ""
+slug: deborah-nansteel
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Deborah-Nansteel-Mezzo-Soprano-179787165973546
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/deb.nansteel/
+title: Deborah Nansteel
+website: https://www.deborahnansteel.com/
+youtube_url: ""
+---
 “A formidable display of vocal power and dramatic assurance,” mezzo-soprano Deborah Nansteel is posed for international stardom having already performed in almost all of the leading opera companies in the US.  She made her début with The Metropolitan Opera as Alisa in _Lucia di Lammermoor_, her début with the Lyric Opera of Chicago as Gertrude in _Roméo et Juliette_, her Carnegie Hall début in Mozart’s Coronation Mass, and her New York Philharmonic début alongside Eric Owens in _In Their Footsteps: Great African American Singers and Their Legacy_.
 
 This summer, Ms. Nansteel performed the role of Mother/Ensemble in the world première of Blind Injustice with Cincinnati Opera and the role of Brigitta in Bard Music Festival’s _Die tote stadt_ in concert. 

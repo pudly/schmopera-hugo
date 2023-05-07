@@ -1,24 +1,30 @@
-+++
-date = "2015-05-18T15:23:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-05-18T15:31:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546831201/media/2019/01/PlacidoDomingo.jpg"
-publishDate = "2015-05-18T15:30:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/teatro-alla-scala.md", "scene/companies/los-angeles-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/staatsoper-berlin.md", "scene/companies/washington-national-opera.md", "scene/companies/dayton-opera.md"]
-slug = "plcido-domingo"
-title = "Plácido Domingo"
-website = "http://www.placidodomingo.com/inhalt.php?id=7486&menu_level=2&id_mnu=9912&id_kunden=1002"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/PlacidoDomingo?fref=ts&ref=br_tf"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/PlacidoDomingo"
-
-_template = "people_single"
-+++
+---
+date: "2015-05-18T15:23:00-04:00"
+discipline: Tenor
+lastmod: "2015-05-18T15:31:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546831201/media/2019/01/PlacidoDomingo.jpg
+publishDate: "2015-05-18T15:30:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/washington-national-opera.md
+- scene/companies/dayton-opera.md
+slug: plcido-domingo
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/PlacidoDomingo?fref=ts&ref=br_tf
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/PlacidoDomingo
+title: Plácido Domingo
+website: http://www.placidodomingo.com/inhalt.php?id=7486&menu_level=2&id_mnu=9912&id_kunden=1002
+---
 Years ago, a fan suggested that Plácido Domingo (whose name literally translates as “Placid Sunday”) should use the saying “If I rest, I rust™” as a motto. In fact, Domingo has been incessantly active since the age of sixteen ― and the more he has studied, travelled and performed, the more he has felt fulfilled and the deeper his love of music has become. 
 
 Domingo has been at home on the world’s stages for over half a century: as of the end of 2013, he had sung 3,687 performances of 144 roles, in addition to having conducted 526 performances and made numerous recordings. Few if any performers have ever been able to look back on such a successful and well-documented career – and at the age of seventy-two, he forges ahead with total, unabated commitment.

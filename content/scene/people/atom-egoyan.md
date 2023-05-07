@@ -1,19 +1,20 @@
-+++
-date = "2015-04-06T22:15:00-04:00"
-discipline = "Director"
-lastmod = "2015-04-06T22:15:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428372585224/Egoyan.jpg.jpg"
-publishDate = "2015-04-06T22:15:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md"]
-slug = "atom-egoyan"
-title = "Atom Egoyan"
-website = "http://www.egofilmarts.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Atom-Egoyan/104137336288624"
-_template = "people_single"
-+++
+---
+date: "2015-04-06T22:15:00-04:00"
+discipline: Director
+lastmod: "2015-04-06T22:15:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428372585224/Egoyan.jpg.jpg
+publishDate: "2015-04-06T22:15:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+slug: atom-egoyan
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Atom-Egoyan/104137336288624
+title: Atom Egoyan
+website: http://www.egofilmarts.com/
+---
 
 <p>
 	Atom Egoyan is a critically acclaimed filmmaker. He was born in Cairo, Egypt, in 1960, and he is an Officer of the Order of Canada. Egoyan has directed twelve feature films, as well as some short films and television episodes. His early work was based on his own material, and he received some notice for the film <em>Exotica</em> (1994), but it was Atom Egoyan's first attempt at adapted material that resulted in his best-known work, <em>The Sweet Hereafter</em> (1997), which landed him an Academy Award nomination for Best Director. Egoyan has directed several operas, including <em>Salome</em>, <em>Così fan tutte</em>, and the <em>Ring Cycle</em>, all at the Canadian Opera Company.

@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-09-04T16:48:00+01:00"
-lastmod = "2016-06-08T10:14:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441388095638/DomingoRigolettoSquare.jpg.jpg"
-primary_image_credit = "A scene from Rigoletto a Mantova. Photo: © RadaFilm/C. Gigliotti, 2010."
-publishDate = "2015-09-08T13:00:00+01:00"
-related_articles = ["articles/operalia-advertising.md","articles/graceful-exits-double-standards.md","articles/nabucco-is-hard-to-find-in-the-latest-la-opera-production.md","articles/a-great-loss-hvorostovsky-passes-at-55.md"]
-related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/washington-national-opera.md"]
-related_people = ["scene/people/plcido-domingo.md"]
-short_description = "The complaint is: legendary tenor Plácido Domingo has retired his notorious Don José, Cavaradossi, and Otello, and has started taking on baritone roles (Oreste in Iphigénie en Tauride, and the title roles in Simon Boccanegra and Rigoletto). The argument is that his singing these roles takes away a potential gig from a hard-working, vocally appropriate Verdi baritone."
-slug = "placido-baritones-ripple"
-title = "Plácido Domingo, Verdi baritones, and the ripple effect"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-09-04T16:48:00+01:00"
+lastmod: "2016-06-08T10:14:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441388095638/DomingoRigolettoSquare.jpg.jpg
+primary_image_credit: 'A scene from Rigoletto a Mantova. Photo: © RadaFilm/C. Gigliotti,
+  2010.'
+publishDate: "2015-09-08T13:00:00+01:00"
+related_articles:
+- articles/operalia-advertising.md
+- articles/graceful-exits-double-standards.md
+- articles/nabucco-is-hard-to-find-in-the-latest-la-opera-production.md
+- articles/a-great-loss-hvorostovsky-passes-at-55.md
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/washington-national-opera.md
+related_people:
+- scene/people/plcido-domingo.md
+short_description: 'The complaint is: legendary tenor Plácido Domingo has retired
+  his notorious Don José, Cavaradossi, and Otello, and has started taking on baritone
+  roles (Oreste in Iphigénie en Tauride, and the title roles in Simon Boccanegra and
+  Rigoletto). The argument is that his singing these roles takes away a potential
+  gig from a hard-working, vocally appropriate Verdi baritone.'
+slug: placido-baritones-ripple
+title: Plácido Domingo, Verdi baritones, and the ripple effect
+---
 
 The other day, a friend and colleague posted a curious paragraph on Facebook:
 

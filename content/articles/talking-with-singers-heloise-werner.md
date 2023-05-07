@@ -1,17 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-10-11T13:40:00+01:00"
-lastmod = "2017-04-08T12:19:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491650350219/2017-04-08---Werner-Rutter.jpg.jpg"
-primary_image_credit = "Photo by Nick Rutter."
-publishDate = "2016-10-14T09:45:00+01:00"
-related_articles = ["articles/in-review-scenes-from-the-end.md","articles/in-review-the-reimagined-winters-tale.md","articles/dont-miss-the-other-side-of-the-sea.md"]
-related_people = ["scene/people/heloise-werner.md"]
-short_description = "&quot;Getting a job at the Royal Opera House in the chorus, for me, even if that would be amazing for most other singers, I wouldn&#039;t like it.&quot; Werner is aware of the different pursuits of professional singers - career stability, for example. &quot;I can totally understand why most people aren&#039;t like me.&quot;"
-slug = "talking-with-singers-heloise-werner"
-title = "Talking with singers: Héloïse Werner"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-10-11T13:40:00+01:00"
+lastmod: "2017-04-08T12:19:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491650350219/2017-04-08---Werner-Rutter.jpg.jpg
+primary_image_credit: Photo by Nick Rutter.
+publishDate: "2016-10-14T09:45:00+01:00"
+related_articles:
+- articles/in-review-scenes-from-the-end.md
+- articles/in-review-the-reimagined-winters-tale.md
+- articles/dont-miss-the-other-side-of-the-sea.md
+related_people:
+- scene/people/heloise-werner.md
+short_description: '&quot;Getting a job at the Royal Opera House in the chorus, for
+  me, even if that would be amazing for most other singers, I wouldn&#039;t like it.&quot;
+  Werner is aware of the different pursuits of professional singers - career stability,
+  for example. &quot;I can totally understand why most people aren&#039;t like me.&quot;'
+slug: talking-with-singers-heloise-werner
+title: 'Talking with singers: Héloïse Werner'
+---
 
 With her mismatched earrings and generous smile, chatting with soprano [Héloïse Werner](/scene/people/heloise-werner/) was a breath of fresh air. The 25 year-old singer, cellist, composer, and producer is one of the most industrious young artists working today, and she shows no signs of letting up.
 

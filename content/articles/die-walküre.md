@@ -1,22 +1,32 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-01-29T02:43:19+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "For more with the London Philharmonic Orchestra, check out their [season line-up](https://www.lpo.org.uk/what-s-on/introduction-to-the-lpo-s-2018-19-london-season.html)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548730237/media/2019/01/sqValkyriesinLondonPhilharmonicOrchestraDieWalku%CC%88reatRoyalFestivalHallonSunday27thJanuary2019CreditSimonJayPrice.jpg"
-primary_image_credit = "The Valkyries in Die Walküre, London Philharmonic Orchestra, conducted by Vladimir Jurowski, 2019. Photo: Simon Jay Price."
-related_articles = ["articles/in-review-siegfried.md", "articles/in-review-fidelio-other-first-operas.md"]
-related_companies = []
-related_people = ["scene/people/claudia-mahnke.md", "scene/people/markus-marquardt.md", "scene/people/stuart-skelton.md", "content/scene/people/ruxandra-donose.md"]
-short_description = "This semi-staged production at the Southbank Centre's Royal Festival Hall with the London Philharmonic Orchestra had none of that. Well, except for the drama. There was a lot of drama."
-slug = "there-was-a-lot-of-drama-the-lpos-die-walkure"
-title = "There was a lot of drama: the LPO's Die Walküre"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-01-29T02:43:19+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: For more with the London Philharmonic Orchestra, check out their [season
+  line-up](https://www.lpo.org.uk/what-s-on/introduction-to-the-lpo-s-2018-19-london-season.html).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548730237/media/2019/01/sqValkyriesinLondonPhilharmonicOrchestraDieWalku%CC%88reatRoyalFestivalHallonSunday27thJanuary2019CreditSimonJayPrice.jpg
+primary_image_credit: 'The Valkyries in Die Walküre, London Philharmonic Orchestra,
+  conducted by Vladimir Jurowski, 2019. Photo: Simon Jay Price.'
+related_articles:
+- articles/in-review-siegfried.md
+- articles/in-review-fidelio-other-first-operas.md
+related_companies: []
+related_people:
+- scene/people/claudia-mahnke.md
+- scene/people/markus-marquardt.md
+- scene/people/stuart-skelton.md
+- content/scene/people/ruxandra-donose.md
+short_description: This semi-staged production at the Southbank Centre's Royal Festival
+  Hall with the London Philharmonic Orchestra had none of that. Well, except for the
+  drama. There was a lot of drama.
+slug: there-was-a-lot-of-drama-the-lpos-die-walkure
+title: 'There was a lot of drama: the LPO''s Die Walküre'
+youtube_url: ""
+---
 Wagner, for me, has always conjured up images of grandeur. I think of massive, fantastical set pieces, rich, other-worldly costumes, and heavy drama. This semi-staged production at the Southbank Centre's Royal Festival Hall with the [London Philharmonic Orchestra](https://www.lpo.org.uk/) had none of that. Well, except for the drama. There was a lot of drama. Expecting to be disappointed by the lack of production value, I was pleasantly surprised by how relieved I was for the lack of distractions in a production that was stripped back, subtle, and that touched at the very heart of the story. It is rare in opera for the orchestra to have so much of our attention, but this really made the music the primary focus and it presented a different and effective way to produce opera.
 
 <figure data-type="image">

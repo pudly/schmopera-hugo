@@ -1,20 +1,26 @@
-+++
-date = "2016-08-24T18:02:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-08-24T18:02:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581898233/media/2020/02/ElzavandenHeever-DarioAcosta5_nuvimp.jpg"
-publishDate = "2016-08-24T18:02:00+01:00"
-related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/english-national-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-dallas-opera.md", "scene/companies/bayerische-staatsoper.md"]
-slug = "elza-van-den-heever"
-title = "Elza van den Heever"
-website = "http://www.elzavandenheever.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://m.facebook.com/profile.php?id=775391559183451"
-
-_template = "people_single"
-+++
+---
+date: "2016-08-24T18:02:00+01:00"
+discipline: Soprano
+lastmod: "2016-08-24T18:02:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1581898233/media/2020/02/ElzavandenHeever-DarioAcosta5_nuvimp.jpg
+publishDate: "2016-08-24T18:02:00+01:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/bayerische-staatsoper.md
+slug: elza-van-den-heever
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://m.facebook.com/profile.php?id=775391559183451
+title: Elza van den Heever
+website: http://www.elzavandenheever.com/
+---
 “Blessed with a plush, dramatic voice capable of formidable power and dazzling high notes …” (Associated Press)
 
 Acclaimed soprano Elza van den Heever brings her signature vocalism and renowned stage presence to celebrated international venues in the 2019/20 season. Her first operatic engagement takes her to Vienna, where she debuts as Julia in a new production by Johannes Erath of Spontini’s _La Vestale_ at the Theater an der Wien. She later returns to The Metropolitan Opera to sing her first Marie in Berg’s _Wozzeck_ opposite baritone Peter Mattei and conducted by the Met’s Music Director Yannick Nézet-Séguin. This production, set to be a highlight of the Met Opera season, will also receive a Live in HD broadcast. 

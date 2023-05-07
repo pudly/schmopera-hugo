@@ -1,18 +1,33 @@
-+++
-author = ["authors/jessica-lane.md"]
-categories = "Review"
-date = "2016-04-28T09:49:00+01:00"
-lastmod = "2016-04-28T11:35:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461833960625/2016-04-28---45-Silva-and-Chorus.jpg.jpg"
-primary_image_credit = "Guillermo Silva-Marin as Juan and Chorus, in Toronto Operetta Theatre's Los Gavilanes. Photo: Gary Beechey."
-publishDate = "2016-04-28T11:35:00+01:00"
-related_articles = ["articles/in-review-earnest-the-importance-of-being.md","articles/in-review-la-belle-helene.md","articles/breaking-into-the-industry-a-vicious-cycle.md","articles/dont-miss-the-pirates-of-penzance-with-tot.md","articles/tots-pirates-of-penzance-a-glorious-thing.md"]
-related_companies = ["scene/companies/toronto-operetta-theatre.md"]
-related_people = ["scene/people/miriam-khalil.md","scene/people/ernesto-ramirez.md","scene/people/gregory-finney.md"]
-short_description = "In a word, charming. That is what I experienced tonight with Toronto Operetta Theatre and their Canadian premiere of Jacinto Guerrero’s Los Gavilanes at St. Lawrence Centre for the Arts. From the simple set to the period costumes, the Spanish orchestration and the simple, well-known tale of love lost (and then found), I was charmed."
-slug = "in-review-los-gavilanes-at-toronto-operetta-theatre"
-title = "In review: Los Gavilanes at Toronto Operetta Theatre"
-+++
+---
+author:
+- authors/jessica-lane.md
+categories: Review
+date: "2016-04-28T09:49:00+01:00"
+lastmod: "2016-04-28T11:35:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461833960625/2016-04-28---45-Silva-and-Chorus.jpg.jpg
+primary_image_credit: 'Guillermo Silva-Marin as Juan and Chorus, in Toronto Operetta
+  Theatre''s Los Gavilanes. Photo: Gary Beechey.'
+publishDate: "2016-04-28T11:35:00+01:00"
+related_articles:
+- articles/in-review-earnest-the-importance-of-being.md
+- articles/in-review-la-belle-helene.md
+- articles/breaking-into-the-industry-a-vicious-cycle.md
+- articles/dont-miss-the-pirates-of-penzance-with-tot.md
+- articles/tots-pirates-of-penzance-a-glorious-thing.md
+related_companies:
+- scene/companies/toronto-operetta-theatre.md
+related_people:
+- scene/people/miriam-khalil.md
+- scene/people/ernesto-ramirez.md
+- scene/people/gregory-finney.md
+short_description: In a word, charming. That is what I experienced tonight with Toronto
+  Operetta Theatre and their Canadian premiere of Jacinto Guerrero’s Los Gavilanes
+  at St. Lawrence Centre for the Arts. From the simple set to the period costumes,
+  the Spanish orchestration and the simple, well-known tale of love lost (and then
+  found), I was charmed.
+slug: in-review-los-gavilanes-at-toronto-operetta-theatre
+title: 'In review: Los Gavilanes at Toronto Operetta Theatre'
+---
 
 In a word, charming. That is what I experienced tonight with [Toronto Operetta Theatre](/scene/companies/toronto-operetta-theatre/) and their Canadian premiere of Jacinto Guerrero’s *Los Gavilanes* at St. Lawrence Centre for the Arts. From the simple set to the period costumes, the Spanish orchestration and the simple, well-known tale of love lost (and then found), I was charmed. 
 

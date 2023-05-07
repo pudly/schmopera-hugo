@@ -1,15 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2014-12-15T08:00:00-05:00"
-lastmod = "2015-04-13T22:27:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428978347085/TraviataPrelude.jpg.jpg"
-publishDate = "2014-12-15T08:00:00-05:00"
-related_articles = ["articles/tales-from-the-score-zerbinetta.md","articles/tales-from-the-score-peter-grimes.md","articles/tales-from-the-score-annas-innocence.md","articles/nerding-out-mozarts-blurry-barlines.md","articles/the-score-how-to-see-what-a-composer-sees.md"]
-short_description = "Verdi&#039;s La traviata is one of those operas, like Il barbiere di Siviglia or Die Walküre, that&#039;s so full of famous stories and tunes that the real significance of these moments is almost forgotten. But because it&#039;s Verdi, let&#039;s not dock him points for being obvious."
-slug = "tales-from-the-score-violetta"
-title = "Tales from the score: Violetta"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2014-12-15T08:00:00-05:00"
+lastmod: "2015-04-13T22:27:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428978347085/TraviataPrelude.jpg.jpg
+publishDate: "2014-12-15T08:00:00-05:00"
+related_articles:
+- articles/tales-from-the-score-zerbinetta.md
+- articles/tales-from-the-score-peter-grimes.md
+- articles/tales-from-the-score-annas-innocence.md
+- articles/nerding-out-mozarts-blurry-barlines.md
+- articles/the-score-how-to-see-what-a-composer-sees.md
+short_description: Verdi&#039;s La traviata is one of those operas, like Il barbiere
+  di Siviglia or Die Walküre, that&#039;s so full of famous stories and tunes that
+  the real significance of these moments is almost forgotten. But because it&#039;s
+  Verdi, let&#039;s not dock him points for being obvious.
+slug: tales-from-the-score-violetta
+title: 'Tales from the score: Violetta'
+---
 
 Verdi's _La traviata_ is one of those operas, like _Il barbiere di Siviglia_ or _Die Walküre_, that's so full of famous stories and tunes that the real significance of these moments is almost forgotten. But because it's Verdi, let's not dock him points for being obvious. I'm sure every opera fan has own favourite bits from _La traviata_, including the tragic first few bars, pictured above, that scream "foreshadowing! Foreshadowing!" very loudly in Italian. I chose a few musical moments that I feel act as dramatic checkpoints within the story of Violetta and her Alfredo.
 

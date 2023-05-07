@@ -1,19 +1,45 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Review"
-date = "2015-11-04T13:12:00-05:00"
-lastmod = "2015-11-04T21:28:00-05:00"
-preamble = "Last night, I went with [Greg Finney](https://twitter.com/gregory_finney) to [Centre Stage](http://coccentrestage.ca/), the [Canadian Opera Company](/scene/companies/canadian-opera-company/)'s Ensemble Studio Competition. The competition is the culmination of nationwide auditions, narrowing the 120 applicants down to eight young Canadian singers. Dressed in gorgeous gowns and suits (gifted to them from The Hudson's Bay Company's Queen Street store), finalists sing on the Four Seasons Centre stage, with the COC Orchestra led by Music Director Johannes Debus. It's a pretty big deal for these aspiring young singers.\n\nThe evening is separated into two rounds, one for the panel of judges and a private audience, followed by a second round for the public. This year, Greg and I were lucky enough to hear both rounds, and so we were each able to get a slightly broader look at these young artists. Here's what we thought, ladies first:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446663138166/2015-11-04---Centre-Stage-Winners---Square.jpg.jpg"
-primary_image_credit = "All photos by Michael Cooper."
-publishDate = "2015-11-04T14:26:00-05:00"
-related_articles = ["articles/centre-stage-2014-lets-hear-it-for-the-boys.md","articles/coc1617.md","articles/duets-for-lunch-uoft-opera-in-concert.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
-related_people = ["scene/people/lauren-eberwein.md","scene/people/pascale-spinney.md","scene/people/samantha-pickett.md","scene/people/bruno-roy.md","scene/people/marjorie-maltais.md","scene/people/eliza-johnson.md","scene/people/emily-dangelo.md","scene/people/zachary-read.md","scene/people/joyce-elkhoury.md","scene/people/andrew-haji.md"]
-short_description = "Last night, I went with Greg Finney to Centre Stage, the Canadian Opera Company&#039;s Ensemble Studio Competition. The competition is the culmination of nationwide auditions, narrowing the 120 applicants down to eight young Canadian singers. Dressed in gorgeous gowns and suits (gifted to them from The Hudson&#039;s Bay Company&#039;s Queen Street store), finalists sing on the Four Seasons Centre stage, with the COC Orchestra led by Music Director Johannes Debus. It&#039;s a pretty big deal for these aspiring young singers."
-slug = "she-saidhe-said-centre-stage-2015"
-title = "She said/He said: Centre Stage 2015"
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Review
+date: "2015-11-04T13:12:00-05:00"
+lastmod: "2015-11-04T21:28:00-05:00"
+preamble: |-
+  Last night, I went with [Greg Finney](https://twitter.com/gregory_finney) to [Centre Stage](http://coccentrestage.ca/), the [Canadian Opera Company](/scene/companies/canadian-opera-company/)'s Ensemble Studio Competition. The competition is the culmination of nationwide auditions, narrowing the 120 applicants down to eight young Canadian singers. Dressed in gorgeous gowns and suits (gifted to them from The Hudson's Bay Company's Queen Street store), finalists sing on the Four Seasons Centre stage, with the COC Orchestra led by Music Director Johannes Debus. It's a pretty big deal for these aspiring young singers.
+
+  The evening is separated into two rounds, one for the panel of judges and a private audience, followed by a second round for the public. This year, Greg and I were lucky enough to hear both rounds, and so we were each able to get a slightly broader look at these young artists. Here's what we thought, ladies first:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446663138166/2015-11-04---Centre-Stage-Winners---Square.jpg.jpg
+primary_image_credit: All photos by Michael Cooper.
+publishDate: "2015-11-04T14:26:00-05:00"
+related_articles:
+- articles/centre-stage-2014-lets-hear-it-for-the-boys.md
+- articles/coc1617.md
+- articles/duets-for-lunch-uoft-opera-in-concert.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+related_people:
+- scene/people/lauren-eberwein.md
+- scene/people/pascale-spinney.md
+- scene/people/samantha-pickett.md
+- scene/people/bruno-roy.md
+- scene/people/marjorie-maltais.md
+- scene/people/eliza-johnson.md
+- scene/people/emily-dangelo.md
+- scene/people/zachary-read.md
+- scene/people/joyce-elkhoury.md
+- scene/people/andrew-haji.md
+short_description: Last night, I went with Greg Finney to Centre Stage, the Canadian
+  Opera Company&#039;s Ensemble Studio Competition. The competition is the culmination
+  of nationwide auditions, narrowing the 120 applicants down to eight young Canadian
+  singers. Dressed in gorgeous gowns and suits (gifted to them from The Hudson&#039;s
+  Bay Company&#039;s Queen Street store), finalists sing on the Four Seasons Centre
+  stage, with the COC Orchestra led by Music Director Johannes Debus. It&#039;s a
+  pretty big deal for these aspiring young singers.
+slug: she-saidhe-said-centre-stage-2015
+title: 'She said/He said: Centre Stage 2015'
+---
 
 ## She said...
 

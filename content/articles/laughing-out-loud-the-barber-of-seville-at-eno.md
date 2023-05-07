@@ -1,18 +1,35 @@
-+++
-author = ["authors/vivian-darkbloom.md"]
-categories = "Review"
-date = "2017-10-07T13:27:00-04:00"
-lastmod = "2017-10-07T21:35:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507426101048/2017-10-08---square---ENO-Barber-of-Seville-Morgan-Pearse-Eleazar-Rodriguez-Robbie-Jack.jpg.jpg"
-primary_image_credit = "Morgan Pearse (Figaro) and Eleazar Rodríguez (Almaviva) in The Barber of Seville, ENO, 2017. Photo: Robbie Jack."
-publishDate = "2017-10-07T21:35:00-04:00"
-related_articles = ["articles/talking-with-singers-eleazar-rodriguez.md","articles/in-review-partenope-at-eno.md","articles/not-quite-review-coc-ensemble-barber-of-seville.md","articles/a-fierce-mob-wife-rodelinda-at-eno.md","articles/slapstick-done-right-burnaby-lyric-operas-barber.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/eleazar-rodriguez.md","scene/people/sarah-tynan.md","scene/people/morgan-pearse.md","scene/people/alan-opie.md","scene/people/alastair-miles.md"]
-short_description = "Count Almaviva was sung by Eleazar Rodríguez, a singer who had as much energy in his stage presence as he did in his singing. He brilliantly toed the line between goofy and sincerely lovestruck, playing the character of Almaviva full of youthful optimism and romantic determination. His singing, too, was wonderful - his lovely leggiero voice handled the technical demands of Rossini with ease."
-slug = "laughing-out-loud-the-barber-of-seville-at-eno"
-title = "Laughing out loud: The Barber of Seville at ENO"
-+++
+---
+author:
+- authors/vivian-darkbloom.md
+categories: Review
+date: "2017-10-07T13:27:00-04:00"
+lastmod: "2017-10-07T21:35:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507426101048/2017-10-08---square---ENO-Barber-of-Seville-Morgan-Pearse-Eleazar-Rodriguez-Robbie-Jack.jpg.jpg
+primary_image_credit: 'Morgan Pearse (Figaro) and Eleazar Rodríguez (Almaviva) in
+  The Barber of Seville, ENO, 2017. Photo: Robbie Jack.'
+publishDate: "2017-10-07T21:35:00-04:00"
+related_articles:
+- articles/talking-with-singers-eleazar-rodriguez.md
+- articles/in-review-partenope-at-eno.md
+- articles/not-quite-review-coc-ensemble-barber-of-seville.md
+- articles/a-fierce-mob-wife-rodelinda-at-eno.md
+- articles/slapstick-done-right-burnaby-lyric-operas-barber.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/eleazar-rodriguez.md
+- scene/people/sarah-tynan.md
+- scene/people/morgan-pearse.md
+- scene/people/alan-opie.md
+- scene/people/alastair-miles.md
+short_description: Count Almaviva was sung by Eleazar Rodríguez, a singer who had
+  as much energy in his stage presence as he did in his singing. He brilliantly toed
+  the line between goofy and sincerely lovestruck, playing the character of Almaviva
+  full of youthful optimism and romantic determination. His singing, too, was wonderful
+  - his lovely leggiero voice handled the technical demands of Rossini with ease.
+slug: laughing-out-loud-the-barber-of-seville-at-eno
+title: 'Laughing out loud: The Barber of Seville at ENO'
+---
 
 I'm traditionally not a Rossini fan, or even much of an Italian opera fan - I found myself sitting in the Coliseum, wondering why I was listening to the overture of Rossini's iconic [*Barber of Seville*](https://www.eno.org/whats-on/the-barber-of-seville/). I was prepared to be bored. But from the moment the curtain went up, I was captivated by the intense amount of energy and playfulness portrayed on the stage. There were a few hiccoughs, as there often are on an opening night (a few dropped props and a few dead moments in the comedy, as well as a few moments where the singers were not quite with the orchestra). Despite that, I found myself actually laughing out loud to the on-stage antics: all the leads had excellent comedic timing and the comedy was very cleverly considered. 
 

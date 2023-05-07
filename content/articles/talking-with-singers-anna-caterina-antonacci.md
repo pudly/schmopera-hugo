@@ -1,19 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-03-12T11:03:00+00:00"
-lastmod = "2017-03-13T09:05:00+00:00"
-preamble = "Italian soprano [Anna Caterina Antonacci](/scene/people/anna-caterina-antonacci/) has a rich relationship with [San Francisco Opera](/scene/companies/san-francisco-opera/). She made her company debut in 1992 in Rossini's *Ermione*, and returned in 1998 to sing in *Norma* opposite Carol Vaness. This year, she has returned for a compact run of performances of Poulenc's [*La voix humaine*](https://sfopera.com/sfoperalab/season-two/la-voix-humaine/) with pianist Donald Sulzen. Along with the operatic adaptation of a troubling, one-sided phone conversation, Antonacci will sing Debussy's erotic *Chansons de Bilitis*, Berlioz's *La mort d'Ophélie*, and Poulenc's *La fraîcheur et le feu*.\n\nWe spoke with Antonacci about her relationship with San Francisco Opera, Poulenc's captivating one-woman work, and her unfailing passion for the theatre."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489317292580/2017-03-12---ANTONACCI_Anna-Caterina_Photo-Benjamin-Ealovega-.jpg.jpg"
-primary_image_credit = "Photo: Benjamin Ealovega."
-publishDate = "2017-03-13T09:05:00+00:00"
-related_articles = ["articles/talking-with-singers-leah-crocetto.md","articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-marina-rebeka.md","articles/talking-with-singers-chen-reiss.md"]
-related_companies = ["scene/companies/san-francisco-opera.md"]
-related_people = ["scene/people/anna-caterina-antonacci.md"]
-short_description = "&quot;La voix humaine is unique because it&#039;s not really a monologue. The protagonist is speaking to her lover and hears his answers on the telephone. The challenge is to make the audience imagine the unheard part of the conversation, and have them participate in the drama.&quot;"
-slug = "talking-with-singers-anna-caterina-antonacci"
-title = "Talking with singers: Anna Caterina Antonacci"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-03-12T11:03:00+00:00"
+lastmod: "2017-03-13T09:05:00+00:00"
+preamble: |-
+  Italian soprano [Anna Caterina Antonacci](/scene/people/anna-caterina-antonacci/) has a rich relationship with [San Francisco Opera](/scene/companies/san-francisco-opera/). She made her company debut in 1992 in Rossini's *Ermione*, and returned in 1998 to sing in *Norma* opposite Carol Vaness. This year, she has returned for a compact run of performances of Poulenc's [*La voix humaine*](https://sfopera.com/sfoperalab/season-two/la-voix-humaine/) with pianist Donald Sulzen. Along with the operatic adaptation of a troubling, one-sided phone conversation, Antonacci will sing Debussy's erotic *Chansons de Bilitis*, Berlioz's *La mort d'Ophélie*, and Poulenc's *La fraîcheur et le feu*.
+
+  We spoke with Antonacci about her relationship with San Francisco Opera, Poulenc's captivating one-woman work, and her unfailing passion for the theatre.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489317292580/2017-03-12---ANTONACCI_Anna-Caterina_Photo-Benjamin-Ealovega-.jpg.jpg
+primary_image_credit: 'Photo: Benjamin Ealovega.'
+publishDate: "2017-03-13T09:05:00+00:00"
+related_articles:
+- articles/talking-with-singers-leah-crocetto.md
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/talking-with-singers-marina-rebeka.md
+- articles/talking-with-singers-chen-reiss.md
+related_companies:
+- scene/companies/san-francisco-opera.md
+related_people:
+- scene/people/anna-caterina-antonacci.md
+short_description: '&quot;La voix humaine is unique because it&#039;s not really a
+  monologue. The protagonist is speaking to her lover and hears his answers on the
+  telephone. The challenge is to make the audience imagine the unheard part of the
+  conversation, and have them participate in the drama.&quot;'
+slug: talking-with-singers-anna-caterina-antonacci
+title: 'Talking with singers: Anna Caterina Antonacci'
+---
 
 ## Why do you sing professionally?
 

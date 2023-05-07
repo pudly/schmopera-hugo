@@ -1,22 +1,34 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = 2019-12-13T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "The Royal Opera House's production of [_Otello_](https://www.roh.org.uk/tickets-and-events/otello-by-keith-warner-details) is onstage through 22 December."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1576260549/media/2019/12/sq0689GregoryKundeasOtelloOtelloROH2019_oizmf8.jpg"
-primary_image_credit = "Gregory Kunde in the title role of Otello, ROH, 2019. Photo: Catherine Ashmore."
-related_articles = ["articles/in-review-stiffelio.md", "articles/talking-with-singers-gerald-finely.md", "articles/talking-with-singers-gregory-kunde.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/ermonela-jaho.md", "scene/people/gregory-kunde.md"]
-short_description = "Though Otello may be the title character and tragic hero of the story, in truth it is Iago who is the most alluring character on stage. For four hundred odd years, Shakespeare’s infamous villain has captured the imaginations of audiences everywhere. Spanish baritone Carlos Alvarez played him with chilling ease."
-slug = "a-chilling-iago-a-devoted-otello-at-covent-garden"
-title = "A chilling Iago & a devoted Otello at Covent Garden"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-12-13T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: The Royal Opera House's production of [_Otello_](https://www.roh.org.uk/tickets-and-events/otello-by-keith-warner-details)
+  is onstage through 22 December.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1576260549/media/2019/12/sq0689GregoryKundeasOtelloOtelloROH2019_oizmf8.jpg
+primary_image_credit: 'Gregory Kunde in the title role of Otello, ROH, 2019. Photo:
+  Catherine Ashmore.'
+related_articles:
+- articles/in-review-stiffelio.md
+- articles/talking-with-singers-gerald-finely.md
+- articles/talking-with-singers-gregory-kunde.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/ermonela-jaho.md
+- scene/people/gregory-kunde.md
+short_description: Though Otello may be the title character and tragic hero of the
+  story, in truth it is Iago who is the most alluring character on stage. For four
+  hundred odd years, Shakespeare’s infamous villain has captured the imaginations
+  of audiences everywhere. Spanish baritone Carlos Alvarez played him with chilling
+  ease.
+slug: a-chilling-iago-a-devoted-otello-at-covent-garden
+title: A chilling Iago & a devoted Otello at Covent Garden
+youtube_url: ""
+---
 I have a potentially controversial confession to make; though I can appreciate the significant cultural impact Verdi’s music has had, I would not list him among my favourite composers. However, what I do enjoy about Verdi’s operas is the sense of grandeur. It feels very much as though you are experiencing opera in its truest form. The high drama, grand sweeping orchestra, and larger-than life characters are quintessentially operatic and, in the case of [_Otello_](https://www.roh.org.uk/tickets-and-events/otello-by-keith-warner-details), a nod to the renowned Shakespearean tragedy and everything it has come to stand for.
 
 Already committed to retirement after the success of Aida in 1871, Verdi was ultimately coaxed by his profit-hungry publisher to write again being given the opportunity to write an opera based on Shakespeare’s _Othello_. It is fortunate he didn’t stop with _Aida_ as he had originally intended, as _Otello_ features some of the most forward thinking, harmonically complex, and textually astute music the composer ever produced.

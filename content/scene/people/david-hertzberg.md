@@ -1,23 +1,23 @@
-+++
-date = "2017-09-19T17:51:00-04:00"
-discipline = "Composer"
-lastmod = "2017-09-19T18:23:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505857823570/download.jpeg.jpeg"
-publishDate = "2017-09-19T17:51:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md"]
-slug = "david-hertzberg"
-title = "David Hertzberg"
-website = "http://www.davidhertzbergmusic.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/hertzbergfarben"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/davidfarbenhertzberg/"
-_template = "people_single"
-+++
+---
+date: "2017-09-19T17:51:00-04:00"
+discipline: Composer
+lastmod: "2017-09-19T18:23:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505857823570/download.jpeg.jpeg
+publishDate: "2017-09-19T17:51:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+slug: david-hertzberg
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/hertzbergfarben
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/davidfarbenhertzberg/
+title: David Hertzberg
+website: http://www.davidhertzbergmusic.com/
+---
 
 Hailed as “opulently gifted” by Opera News and “utterly original” by *The New York Times*, the music of David Hertzberg (b. 1990, Los Angeles) is swiftly garnering recognition. 
 

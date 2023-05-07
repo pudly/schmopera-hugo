@@ -1,18 +1,29 @@
-+++
-author = ["authors/neil-weisensel.md"]
-categories = "Review"
-date = "2018-04-16T12:15:00-04:00"
-lastmod = "2018-04-17T11:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523898475000/sqAngelBlueViolettaAdamLutherAlfredoMBOperaLaTraviata2018.jpg.jpg"
-primary_image_credit = "Angel Blue (Violetta) and Adam Luther (Alfredo) in La traviata, Manitoba Opera, 2018. Photo: R. Tinker."
-publishDate = "2018-04-16T22:25:00-04:00"
-related_articles = ["articles/strong-ensemble-lifts-edmonton-opera-production-of-la-traviata.md"]
-related_companies = ["scene/companies/manitoba-opera.md"]
-related_people = ["scene/people/angel-blue.md","scene/people/adam-luther.md"]
-short_description = "What I found really interesting and different, was that in the second act, and even more in his final duet with Violetta, Ms. Blue had to bring her powerful voice down in volume to his, to match the fact that he was crooning, not full-out blasting as you usually have to do to be heard over an orchestra. As a result, their tender final scene, as she lay dying, was amazingly touching and intimate."
-slug = "heartfelt-and-intimate-manitoba-operas-la-traviata"
-title = "Heartfelt and intimate: Manitoba Opera&#039;s La Traviata"
-+++
+---
+author:
+- authors/neil-weisensel.md
+categories: Review
+date: "2018-04-16T12:15:00-04:00"
+lastmod: "2018-04-17T11:48:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523898475000/sqAngelBlueViolettaAdamLutherAlfredoMBOperaLaTraviata2018.jpg.jpg
+primary_image_credit: 'Angel Blue (Violetta) and Adam Luther (Alfredo) in La traviata,
+  Manitoba Opera, 2018. Photo: R. Tinker.'
+publishDate: "2018-04-16T22:25:00-04:00"
+related_articles:
+- articles/strong-ensemble-lifts-edmonton-opera-production-of-la-traviata.md
+related_companies:
+- scene/companies/manitoba-opera.md
+related_people:
+- scene/people/angel-blue.md
+- scene/people/adam-luther.md
+short_description: What I found really interesting and different, was that in the
+  second act, and even more in his final duet with Violetta, Ms. Blue had to bring
+  her powerful voice down in volume to his, to match the fact that he was crooning,
+  not full-out blasting as you usually have to do to be heard over an orchestra. As
+  a result, their tender final scene, as she lay dying, was amazingly touching and
+  intimate.
+slug: heartfelt-and-intimate-manitoba-operas-la-traviata
+title: 'Heartfelt and intimate: Manitoba Opera&#039;s La Traviata'
+---
 
 Manitoba Opera's production of Verdi's *La Traviata* has everything you need for a gratifying night of opera theatre: great voices, an excellent orchestra, and a beautiful set. Add to that the excitement of seeing live performers of the highest calibre, with all the variables that that can bring, and you have the recipe for a great night out.
 

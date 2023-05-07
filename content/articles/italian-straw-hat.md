@@ -1,22 +1,38 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2019-01-28T15:09:18+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[_The Italian Straw Hat_](https://mnopera.org/season/2018-2019/the-italian-straw-hat/) runs until February 3. Next up is [_The Fix_](https://mnopera.org/season/2018-2019/the-fix/) in March, and [_La traviata_](https://mnopera.org/season/2018-2019/la-traviata/) in May."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548710618/media/2019/01/sqT8A9354.jpg"
-primary_image_credit = "Christian Sanders as Viscount Achille de Rosalba, Victoria Vargas as Baronessa di Champigny, and Andrew Stenson as Fadinard in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver."
-related_articles = ["articles/kept-women-a-snapshot-of-life-in-la-rondine.md", "articles/silent-night-ages-well-in-minnesota-revival.md"]
-related_companies = ["scene/companies/minnesota-opera.md"]
-related_people = ["scene/people/christian-thurston.md", "scene/people/danielle-beckvermit.md", "scene/people/andrew-stenson.md", "scene/people/lisa-marie-rogali.md", "scene/people/victoria-vargas.md", "scene/people/christian-sanders.md"]
-short_description = "At times the stage was so overcrowded with schtick it was overwhelming. Banana jokes, chamber pot humor and smoke machines did not add to the talents of the cast or the beauty of the music."
-slug = "slapstick-overload-the-italian-straw-hat"
-title = "Slapstick overload: The Italian Straw Hat"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2019-01-28T15:09:18+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '[_The Italian Straw Hat_](https://mnopera.org/season/2018-2019/the-italian-straw-hat/)
+  runs until February 3. Next up is [_The Fix_](https://mnopera.org/season/2018-2019/the-fix/)
+  in March, and [_La traviata_](https://mnopera.org/season/2018-2019/la-traviata/)
+  in May.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548710618/media/2019/01/sqT8A9354.jpg
+primary_image_credit: 'Christian Sanders as Viscount Achille de Rosalba, Victoria
+  Vargas as Baronessa di Champigny, and Andrew Stenson as Fadinard in Minnesota Opera''s
+  The Italian Straw Hat, 2019. Photo: Cory Weaver.'
+related_articles:
+- articles/kept-women-a-snapshot-of-life-in-la-rondine.md
+- articles/silent-night-ages-well-in-minnesota-revival.md
+related_companies:
+- scene/companies/minnesota-opera.md
+related_people:
+- scene/people/christian-thurston.md
+- scene/people/danielle-beckvermit.md
+- scene/people/andrew-stenson.md
+- scene/people/lisa-marie-rogali.md
+- scene/people/victoria-vargas.md
+- scene/people/christian-sanders.md
+short_description: At times the stage was so overcrowded with schtick it was overwhelming.
+  Banana jokes, chamber pot humor and smoke machines did not add to the talents of
+  the cast or the beauty of the music.
+slug: slapstick-overload-the-italian-straw-hat
+title: 'Slapstick overload: The Italian Straw Hat'
+youtube_url: ""
+---
 _The Italian Straw Hat_ (_Il cappello di paglia di Firenze_) by Nino Rota was an interesting choice for the season at Minnesota Opera. After the romance of [_La rondine_](/kept-women-a-snapshot-of-life-in-la-rondine/) and the drama of [_Silent Night_](/silent-night-ages-well-in-minnesota-revival/), my system was a little shocked by the slapstick comedy at the Ordway on Saturday night.
 
 <figure data-type="image">

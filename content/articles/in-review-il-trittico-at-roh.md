@@ -1,19 +1,42 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-03-04T10:59:00+00:00"
-lastmod = "2016-03-04T13:01:00+00:00"
-preamble = "Photo: Rebecca Evans (Nella), Paolo Fanale (Rinuccio), Carlo Bosi (Gherardo), David Kempster (Marco), Gwynne Howell (Simone), Jeremy White (Betto), Marie McLaughlin (La Ciesca), Elena Zilio (Zita). ROH. Photographer: Bill Cooper."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457092742979/%C2%A9BC20160222_GIANNI_SCHICCHI_1478-SEE-PHOTO-CAPTIONS-LIST-(C)-ROH.-PHOTOGRAPHER-BILL-COOPER---square.jpg.jpg"
-primary_image_credit = "Photographer: Bill Cooper."
-publishDate = "2016-03-04T13:01:00+00:00"
-related_articles = ["articles/in-review-enos-the-magic-flute.md","articles/in-review-boris-godunov.md","articles/in-review-tannhauser-at-roh.md","articles/in-review-norma-at-roh.md","articles/in-review-cosi-fan-tutte-at-roh.md","articles/rohs-madama-butterfly-better-to-be-furious-than-bored.md","articles/an-astonishing-bryan-hymel-in-the-royal-operas-double-bill.md","articles/a-frighteningly-timeless-story-of-abuse-pagliacci.md","articles/feminism-confetti-ateliers-triplebill.md","articles/standout-performances-in-ava-doublebill.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/patricia-racette.md","scene/people/lucio-gallo.md","scene/people/carl-tanner.md","scene/people/ermonela-jaho.md"]
-short_description = "We were thrilled to get a three-for-one deal with our inaugural trip to the ROH, in the form of Richard Jones&#039; production of Puccini&#039;s Il trittico. The through line holding together the stories of Il tabarro, Suor Angelica and Gianni Schicchi was the original theme: the fact that Puccini wrote them. The shows looked as different as the stories they told, and it was a true feast for opera lovers with slight ADD."
-slug = "in-review-il-trittico-at-roh"
-title = "In review: Il trittico at ROH"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-03-04T10:59:00+00:00"
+lastmod: "2016-03-04T13:01:00+00:00"
+preamble: 'Photo: Rebecca Evans (Nella), Paolo Fanale (Rinuccio), Carlo Bosi (Gherardo),
+  David Kempster (Marco), Gwynne Howell (Simone), Jeremy White (Betto), Marie McLaughlin
+  (La Ciesca), Elena Zilio (Zita). ROH. Photographer: Bill Cooper.'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457092742979/%C2%A9BC20160222_GIANNI_SCHICCHI_1478-SEE-PHOTO-CAPTIONS-LIST-(C)-ROH.-PHOTOGRAPHER-BILL-COOPER---square.jpg.jpg
+primary_image_credit: 'Photographer: Bill Cooper.'
+publishDate: "2016-03-04T13:01:00+00:00"
+related_articles:
+- articles/in-review-enos-the-magic-flute.md
+- articles/in-review-boris-godunov.md
+- articles/in-review-tannhauser-at-roh.md
+- articles/in-review-norma-at-roh.md
+- articles/in-review-cosi-fan-tutte-at-roh.md
+- articles/rohs-madama-butterfly-better-to-be-furious-than-bored.md
+- articles/an-astonishing-bryan-hymel-in-the-royal-operas-double-bill.md
+- articles/a-frighteningly-timeless-story-of-abuse-pagliacci.md
+- articles/feminism-confetti-ateliers-triplebill.md
+- articles/standout-performances-in-ava-doublebill.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/patricia-racette.md
+- scene/people/lucio-gallo.md
+- scene/people/carl-tanner.md
+- scene/people/ermonela-jaho.md
+short_description: 'We were thrilled to get a three-for-one deal with our inaugural
+  trip to the ROH, in the form of Richard Jones&#039; production of Puccini&#039;s
+  Il trittico. The through line holding together the stories of Il tabarro, Suor Angelica
+  and Gianni Schicchi was the original theme: the fact that Puccini wrote them. The
+  shows looked as different as the stories they told, and it was a true feast for
+  opera lovers with slight ADD.'
+slug: in-review-il-trittico-at-roh
+title: 'In review: Il trittico at ROH'
+---
 
 Last night we had a debut of our own, our first visit to the Royal Opera House. The space is plush yet packed, ornate yet functional. We got turned around a few times in what seemed like endless stairways leading anywhere but our seats; yet despite the grandeur of the building, there was something charmingly everyday about the scene. We exercised will power against the intermission ice cream vendors, and our kind seat neighbour offered some wise advice about checking out the balcony overlooking the square in Covent Garden.
 

@@ -1,22 +1,35 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = 2021-11-05T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1636122898/media/2021/11/sqHGOCarmen_LynnLane-103_rvklq6.jpg"
-primary_image_credit = "Carolyn Sproule (Carmen) and Richard Trey Smagur (Don José) in Carmen, Houston Grand Opera, 2021. Photo: Lynn Lane."
-related_articles = ["articles/carmen-don-juan-and-gender-reversal-pants-roles-indeed.md"]
-related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/lidiya-yankovskaya.md", "scene/people/christian-pursell.md", "scene/people/blake-denson.md", "scene/people/sun-ly-pierce.md", "scene/people/raven-mcmillon.md", "scene/people/richard-trey-smagur.md", "scene/people/carolyn-sproule.md", "scene/people/heidi-stober.md"]
-short_description = " Everything about this production went out of its way to imbue the whole with artistic cohesion and integrity, even the elements that might have seemed vaguely avant-garde out of context."
-slug = "hgo-carmen-the-epitome-of-unity"
-title = "HGO Carmen \"the epitome of unity\""
-youtube_url = ""
-
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2021-11-05T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1636122898/media/2021/11/sqHGOCarmen_LynnLane-103_rvklq6.jpg
+primary_image_credit: 'Carolyn Sproule (Carmen) and Richard Trey Smagur (Don José)
+  in Carmen, Houston Grand Opera, 2021. Photo: Lynn Lane.'
+related_articles:
+- articles/carmen-don-juan-and-gender-reversal-pants-roles-indeed.md
+related_companies:
+- scene/companies/houston-grand-opera.md
+related_people:
+- scene/people/lidiya-yankovskaya.md
+- scene/people/christian-pursell.md
+- scene/people/blake-denson.md
+- scene/people/sun-ly-pierce.md
+- scene/people/raven-mcmillon.md
+- scene/people/richard-trey-smagur.md
+- scene/people/carolyn-sproule.md
+- scene/people/heidi-stober.md
+short_description: ' Everything about this production went out of its way to imbue
+  the whole with artistic cohesion and integrity, even the elements that might have
+  seemed vaguely avant-garde out of context.'
+slug: hgo-carmen-the-epitome-of-unity
+title: HGO Carmen "the epitome of unity"
+youtube_url: ""
+---
 The [Houston Grand Opera](/scene/companies/houston-grand-opera/) has chosen a winner in [_Carmen_](https://www.houstongrandopera.org/events-tickets/2021-22-season/carmen/) for its return to the stage at a time when unity is definitely at a premium. For all this work's ubiquity and universal appeal, HGO made an excellent case in Rob Ashford's production for its renown being no mere _pro forma_ concession, not an honor bestowed upon "the French opera that everyone does to virtue-signal about French opera." Everything about this production went out of its way to imbue the whole with artistic cohesion and integrity, even the elements that might have seemed vaguely _avant-garde_ out of context.
 
 <figure data-type="image">

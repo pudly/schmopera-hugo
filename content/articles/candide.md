@@ -1,22 +1,34 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = "2019-07-01T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Des Moines Metro Opera's production of [_Candide_](http://desmoinesmetroopera.org/productions/candide/) runs through July 20."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562036043/media/2019/07/sqDMMOCandideDSC_5530.jpg"
-primary_image_credit = "Candide, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera."
-related_articles = ["articles/candide-the-best-of-all-possible-productions.md"]
-related_companies = ["scene/companies/des-moines-metro-opera.md"]
-related_people = ["scene/people/corey-bix.md", "scene/people/emmett-o-hanlon.md", "scene/people/eliza-bonet.md", "scene/people/kyle-albertson.md", "scene/people/jonathan-johnson.md", "scene/people/deanna-breiwick.md"]
-short_description = "If you're looking for a theatrical farce that will leave you with a lot of questions about the human condition, then look no further than Des Moines Metro Opera's charming production of Candide."
-slug = "dont-let-the-upbeat-tunes-deceive-you-dmmos-candide"
-title = "Don't let the upbeat tunes deceive you: DMMO's Candide"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2019-07-01T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Des Moines Metro Opera's production of [_Candide_](http://desmoinesmetroopera.org/productions/candide/)
+  runs through July 20.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1562036043/media/2019/07/sqDMMOCandideDSC_5530.jpg
+primary_image_credit: 'Candide, Des Moines Metro Opera, 2019. Photo: Duane Tinkey
+  for Des Moines Metro Opera.'
+related_articles:
+- articles/candide-the-best-of-all-possible-productions.md
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+related_people:
+- scene/people/corey-bix.md
+- scene/people/emmett-o-hanlon.md
+- scene/people/eliza-bonet.md
+- scene/people/kyle-albertson.md
+- scene/people/jonathan-johnson.md
+- scene/people/deanna-breiwick.md
+short_description: If you're looking for a theatrical farce that will leave you with
+  a lot of questions about the human condition, then look no further than Des Moines
+  Metro Opera's charming production of Candide.
+slug: dont-let-the-upbeat-tunes-deceive-you-dmmos-candide
+title: 'Don''t let the upbeat tunes deceive you: DMMO''s Candide'
+youtube_url: ""
+---
 On the surface, [Leonard Bernstein's _Candide_](http://desmoinesmetroopera.org/productions/candide/) seems like a delightful theatrical comedy, but underneath the cheerful tunes and ridiculous plot, there is a deeper, darker undercurrent. Des Moines Metro Opera tackled this hard-to-define opera/operetta/musical about philosophy and human nature with unrelenting energy and flair, leaving the audience laughing and reflecting simultaneously.
 
 Candide and his companions travel to numerous countries throughout the story, and these rapid fire relocations pose quite a challenge to any production team. The scenic designer, Steven C. Kemp, took a strategically clever and colorful approach to this conundrum. Each location in the story was designated by a unique monochromatic color scheme. As the narrative progressed to a new city, set pieces in the designated color would appear, and then once the characters moved onto another place, a couple pieces of scenery would remain. By the end of the night, the stage was a rainbow of mismatched platforms, furniture, and backdrops, each reflecting part of Candide's chaotic journey and the contradictory lessons he learned.

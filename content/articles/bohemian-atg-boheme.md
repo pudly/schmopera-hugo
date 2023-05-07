@@ -1,17 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-05-12T11:33:00-04:00"
-lastmod = "2017-05-15T12:04:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494711672866/2017-05-13---Tranzac.jpg.jpg"
-publishDate = "2017-05-15T08:30:00-04:00"
-related_articles = ["articles/comprimario-romantic-story.md","articles/pass-the-tissues-a-beautiful-new-bohme-in-chicago.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md","scene/people/owen-mccausland.md","scene/people/andrew-love.md","scene/people/adanya-dunn.md","scene/people/kenneth-kellogg.md","scene/people/kimy-mclaren.md","scene/people/micah-schroeder.md","scene/people/gregory-finney.md"]
-short_description = "Poverty - and the limited options that come with it - is a major theme in the original story of 19th-century Paris. Today, young people across Toronto still have the same limitations, particularly those who choose to pursue the arts. &quot;There are a lot of constraints on their ability to live,&quot; says Mokrzewski. &quot;Bringing [La bohème] into this context exaggerates, almost, the underlying class stuff that was happening.&quot;"
-slug = "bohemian-atg-boheme"
-title = "&quot;A very Bohemian undertaking&quot;: AtG&#039;s La bohème"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-05-12T11:33:00-04:00"
+lastmod: "2017-05-15T12:04:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494711672866/2017-05-13---Tranzac.jpg.jpg
+publishDate: "2017-05-15T08:30:00-04:00"
+related_articles:
+- articles/comprimario-romantic-story.md
+- articles/pass-the-tissues-a-beautiful-new-bohme-in-chicago.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/joel-ivany.md
+- scene/people/christopher-mokrzewski.md
+- scene/people/owen-mccausland.md
+- scene/people/andrew-love.md
+- scene/people/adanya-dunn.md
+- scene/people/kenneth-kellogg.md
+- scene/people/kimy-mclaren.md
+- scene/people/micah-schroeder.md
+- scene/people/gregory-finney.md
+short_description: Poverty - and the limited options that come with it - is a major
+  theme in the original story of 19th-century Paris. Today, young people across Toronto
+  still have the same limitations, particularly those who choose to pursue the arts.
+  &quot;There are a lot of constraints on their ability to live,&quot; says Mokrzewski.
+  &quot;Bringing [La bohème] into this context exaggerates, almost, the underlying
+  class stuff that was happening.&quot;
+slug: bohemian-atg-boheme
+title: '&quot;A very Bohemian undertaking&quot;: AtG&#039;s La bohème'
+---
 
 "Would [Puccini] be proud? Probably not," says Joel Ivany with a wry smile, of [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/)'s updated, translated version of [*La bohème*](http://againstthegraintheatre.com/la-boheme/), playing at The Tranzac Club in Toronto **May 19 to June 2**. "I think he would think it was a very Bohemian undertaking," adds baritone [Andrew Love](/scene/people/andrew-love/), singing Marcello.
 

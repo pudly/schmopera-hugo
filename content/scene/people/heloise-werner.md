@@ -1,19 +1,19 @@
-+++
-date = "2016-10-13T13:36:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-10-13T13:38:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476361768294/2016-10-13---Werner-Rutter-Square.jpg.jpg"
-primary_image_credit = "Nick Rutter"
-publishDate = "2016-10-13T13:38:00+01:00"
-slug = "heloise-werner"
-title = "Héloïse Werner"
-website = "http://heloisewerner.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Heloise_Werner"
-_template = "people_single"
-+++
+---
+date: "2016-10-13T13:36:00+01:00"
+discipline: Soprano
+lastmod: "2016-10-13T13:38:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476361768294/2016-10-13---Werner-Rutter-Square.jpg.jpg
+primary_image_credit: Nick Rutter
+publishDate: "2016-10-13T13:38:00+01:00"
+slug: heloise-werner
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Heloise_Werner
+title: Héloïse Werner
+website: http://heloisewerner.com/
+---
 
 Héloïse Werner is a performer particularly interested in music as drama and music for the stage, experimenting with different genres and techniques.
 

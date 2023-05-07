@@ -1,22 +1,36 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2019-04-06T17:11:55+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "_Kopernikus_ runs through April 13. For details and ticket information, [click here](http://againstthegraintheatre.com/kopernikus-2/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554572203/media/2019/04/sq190403_ATG_KOPERNIKUS_703.jpg"
-primary_image_credit = "Danielle MacMillan as Agni in Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography."
-related_articles = []
-related_companies = ["scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/christopher-mokrzewski.md", "scene/people/joel-ivany.md", "scene/people/annemarie-macintosh.md", "scene/people/alain-coulombe.md", "scene/people/dion-mazerolle.md", "scene/people/bruno-roy.md", "scene/people/krisztina-szab.md", "scene/people/danielle-macmillan.md"]
-short_description = "The only visibly identifiable ritual is partway through the show, we see Agni become \"assimilated\" and she's changed from her warm golden-orange, mid-century style dress into a dark charcoal version of the clothes in which the other denizens of the afterlife are dressed."
-slug = "a-great-spectacle-kopernkius"
-title = "A great spectacle: Kopernikus"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2019-04-06T17:11:55+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: _Kopernikus_ runs through April 13. For details and ticket information,
+  [click here](http://againstthegraintheatre.com/kopernikus-2/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1554572203/media/2019/04/sq190403_ATG_KOPERNIKUS_703.jpg
+primary_image_credit: 'Danielle MacMillan as Agni in Kopernikus, Against the Grain
+  Theatre, 2019. Photo: Darryl Block Photography.'
+related_articles: []
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/christopher-mokrzewski.md
+- scene/people/joel-ivany.md
+- scene/people/annemarie-macintosh.md
+- scene/people/alain-coulombe.md
+- scene/people/dion-mazerolle.md
+- scene/people/bruno-roy.md
+- scene/people/krisztina-szab.md
+- scene/people/danielle-macmillan.md
+short_description: The only visibly identifiable ritual is partway through the show,
+  we see Agni become "assimilated" and she's changed from her warm golden-orange,
+  mid-century style dress into a dark charcoal version of the clothes in which the
+  other denizens of the afterlife are dressed.
+slug: a-great-spectacle-kopernkius
+title: 'A great spectacle: Kopernikus'
+youtube_url: ""
+---
 Claude Vivier's trip to the afterlife is definitely that. A trip.
 
 Billed as Canada's "Most Famous Unknown Opera", Claude Vivier's _Kopernikus_ is being presented in Toronto by Against the Grain Theatre. Stage directed by the company's Artistic Director Joel Ivany, co-directed and choreographed by Matjash Mrozewski with Musical Direction by Topher Mokrzewski the opera is an examination of what happens after death.

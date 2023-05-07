@@ -1,17 +1,26 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = "2018-03-26T21:38:00-04:00"
-lastmod = "2018-03-27T09:29:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522114263696/sq---PBO-Figaro-1.jpg.jpg"
-primary_image_credit = "David Adam Moore as The Count; Janai Brugger as Susanna; Irene Roberts as Cherubino in Le nozze di Figaro, Palm Beach Opera, 2018. Photo: Bruce Bennett"
-publishDate = "2018-03-26T21:38:00-04:00"
-related_articles = ["articles/too-many-jewels-the-search-for-meaning-pbos-candide.md","articles/steps-forward-for-operas-women-tosca-at-pbo.md"]
-related_companies = ["scene/companies/palm-beach-opera.md"]
-short_description = "Palm Beach Opera put on a great show, but it&#039;s worth noting that the aspects that made it so great – a stellar cast, thoughtful design, skillful interpretation – can be applied to any opera, regardless of inclusion in the Greatness canon."
-slug = "just-plain-great-pbos-le-nozze-di-figaro"
-title = "Just plain great: PBO&#039;s Le nozze di Figaro"
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2018-03-26T21:38:00-04:00"
+lastmod: "2018-03-27T09:29:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522114263696/sq---PBO-Figaro-1.jpg.jpg
+primary_image_credit: 'David Adam Moore as The Count; Janai Brugger as Susanna; Irene
+  Roberts as Cherubino in Le nozze di Figaro, Palm Beach Opera, 2018. Photo: Bruce
+  Bennett'
+publishDate: "2018-03-26T21:38:00-04:00"
+related_articles:
+- articles/too-many-jewels-the-search-for-meaning-pbos-candide.md
+- articles/steps-forward-for-operas-women-tosca-at-pbo.md
+related_companies:
+- scene/companies/palm-beach-opera.md
+short_description: Palm Beach Opera put on a great show, but it&#039;s worth noting
+  that the aspects that made it so great – a stellar cast, thoughtful design, skillful
+  interpretation – can be applied to any opera, regardless of inclusion in the Greatness
+  canon.
+slug: just-plain-great-pbos-le-nozze-di-figaro
+title: 'Just plain great: PBO&#039;s Le nozze di Figaro'
+---
 
 Whenever a Mozart opera crops up in a company's season brochure, vocabularies tend to drift toward eager superlatives. In his program note for Palm Beach Opera's production of [*Le Nozze di Figaro*](https://pbopera.org/event/le-nozze-di-figaro/), director Stephen Lawless touted the work as "undoubtedly the greatest operatic comedy, and arguably the greatest opera ever written."
 

@@ -1,22 +1,34 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = 2022-09-30T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Baritone Alfredo Daza is Diego Rivera, soprano Maria Katzarava is Catrina, the keeper of the souls, and countertenor Key’mon W. Murrah is Leonardo. Lorena Maza is the director and Roberto Kalb is the conductor. There will be four performances at the San Diego Civic Theater: October 29, November 1, 4, and 6. _El ultimó sueño de Frida y Diego_ is a co-production between San Diego Opera and San Francisco Opera."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1664560874/media/2022/09/sqSDO_Frida-y-Diego_ldkbb5.jpg"
-primary_image_credit = ""
-related_articles = ["articles/talking-with-composers-david-t-little.md", "articles/talking-with-singers-frederica-von-stade.md", "articles/talking-with-singers-stephanie-blythe-1.md"]
-related_companies = ["scene/companies/san-diego-opera.md"]
-related_people = ["scene/people/guadalupe-paz.md"]
-short_description = "\"Frida is very well portrayed in this music, which is fabulous,\" says Paz. \"The music reflects the pain that she was suffering. It reflects the great courage that she had in life. She was a kind of mischievous, rebel woman. That's very clear in the score and musically.\""
-slug = "a-very-original-genius-playing-frida-kahlo-at-san-diego-opera"
-title = "\"A very original genius\": playing Frida Kahlo at San Diego Opera"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/eva-cahen.md
+categories: Interview
+date: "2022-09-30T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: 'Baritone Alfredo Daza is Diego Rivera, soprano Maria Katzarava is Catrina,
+  the keeper of the souls, and countertenor Key’mon W. Murrah is Leonardo. Lorena
+  Maza is the director and Roberto Kalb is the conductor. There will be four performances
+  at the San Diego Civic Theater: October 29, November 1, 4, and 6. _El ultimó sueño
+  de Frida y Diego_ is a co-production between San Diego Opera and San Francisco Opera.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1664560874/media/2022/09/sqSDO_Frida-y-Diego_ldkbb5.jpg
+primary_image_credit: ""
+related_articles:
+- articles/talking-with-composers-david-t-little.md
+- articles/talking-with-singers-frederica-von-stade.md
+- articles/talking-with-singers-stephanie-blythe-1.md
+related_companies:
+- scene/companies/san-diego-opera.md
+related_people:
+- scene/people/guadalupe-paz.md
+short_description: '"Frida is very well portrayed in this music, which is fabulous,"
+  says Paz. "The music reflects the pain that she was suffering. It reflects the great
+  courage that she had in life. She was a kind of mischievous, rebel woman. That''s
+  very clear in the score and musically."'
+slug: a-very-original-genius-playing-frida-kahlo-at-san-diego-opera
+title: '"A very original genius": playing Frida Kahlo at San Diego Opera'
+youtube_url: ""
+---
 “It's kind of a dream come true for a Mexican singer, a woman, to sing this role,” says Mexican mezzo-soprano [Guadalupe Paz](/scene/people/guadalupe-paz/), about her role as Frida Kahlo in _El último sueño de Frida y Diego_ (_The Last Dream of Frida and Diego_), which premieres at the [San Diego Opera](/scene/companies/san-diego-opera/) on Saturday, October 29.  "I relate to Frida very humbly because she too works with feelings, sentiment, and art, and she communicates with the spectator of her paintings, through the paintings and the pain that she's drawing. I communicate with the audience through my instrument, but we are drawing with emotions, so we work with the same materials."
 
 _El último sueño de Frida y Diego_ explores the relationship between two of Mexico's greatest and most colorful artists, Frida Kahlo and Diego Rivera. Diego is at the end of his life in the opera and Frida comes back from the afterlife to help him cross over into the underworld. For twenty-four hours, they relive their tumultuous love, passion, and pain through their paintings. Set in 1957, the opera starts in a cemetery during día de los muertos (day of the dead) celebrations. Diego Rivera died about three years after Frida, but we learn that her spirit stayed away from him because she was so angry about their relationship. Guadalupe Paz describes the opera as "a feast of colors and music and art and life."

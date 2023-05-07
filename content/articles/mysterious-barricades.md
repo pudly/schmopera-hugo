@@ -1,22 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2019-09-05T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "All concerts are free to attend, and streamed free on September 14. For full details and to reserve tickets, visit the [Mysterious Barricades website](https://www.mysteriousbarricades.org/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567734373/media/2019/09/sqMBCollage_ogtsxs.jpg"
-primary_image_credit = "Bottom row, l-r: Russell Braun, baritone; Monica Whicher, soprano."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "In 15 cities across Canada, roughly 400 musicians are offering free live concerts, \"for the purpose of providing healing and connection to those who are affected by suicide, either in surviving a loss or in dealing with their own mental health issues.\""
-slug = "imagine-a-day-mysterious-barricades"
-title = "Imagine a day: Mysterious Barricades"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-09-05T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: All concerts are free to attend, and streamed free on September 14. For
+  full details and to reserve tickets, visit the [Mysterious Barricades website](https://www.mysteriousbarricades.org/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1567734373/media/2019/09/sqMBCollage_ogtsxs.jpg
+primary_image_credit: 'Bottom row, l-r: Russell Braun, baritone; Monica Whicher, soprano.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: In 15 cities across Canada, roughly 400 musicians are offering
+  free live concerts, "for the purpose of providing healing and connection to those
+  who are affected by suicide, either in surviving a loss or in dealing with their
+  own mental health issues."
+slug: imagine-a-day-mysterious-barricades
+title: 'Imagine a day: Mysterious Barricades'
+youtube_url: ""
+---
 [Mysterious Barricades](https://www.mysteriousbarricades.org/), the cross-Canada concert events for suicide awareness, prevention, and hope, is in its fourth annual iteration, running September 5-14, 2019.
 
 In 15 cities across Canada, roughly 400 musicians are offering free live concerts, "for the purpose of providing healing and connection to those who are affected by suicide, either in surviving a loss or in dealing with their own mental health issues."

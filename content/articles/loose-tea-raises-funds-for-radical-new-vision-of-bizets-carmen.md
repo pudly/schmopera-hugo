@@ -1,18 +1,33 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-11-24T13:49:00+00:00"
-lastmod = "2016-11-25T11:47:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480011117783/2016-11-24---LooseTEACarmen-byDahliaKatz-6282.jpg.jpg"
-primary_image_credit = "Erica Iris and Andrey Andreychik in Loose TEA Music Theatre's Carmen, 2016. Photo by Dahlia Katz."
-publishDate = "2016-11-25T11:27:00+00:00"
-related_articles = ["articles/erica-iris-singing-a-radically-revisionist-carmen.md","articles/meet-the-folks-alaina-viau-of-loose-tea.md"]
-related_companies = ["scene/companies/loose-tea-music-theatre.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/erica-iris.md","scene/people/alaina-viau.md","scene/people/beth-hagerman.md"]
-short_description = "Viau&#039;s new take on the story has John already married to Michaela who comes and pleads for his return home for the sake of their kids, as opposed to his mother in the original. Ricardo is an investment banker ready to support Carmen in her dream of opening her own watering hole in exchange for her feminine charms. John is infatuated with Carmen, as she treats him like he&#039;s still a human being - something he doesn&#039;t recognize in others after two violent turns in Afghanistan."
-slug = "loose-tea-raises-funds-for-radical-new-vision-of-bizets-carmen"
-title = "Loose TEA raises funds for radical new vision of Bizet&#039;s Carmen"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-11-24T13:49:00+00:00"
+lastmod: "2016-11-25T11:47:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480011117783/2016-11-24---LooseTEACarmen-byDahliaKatz-6282.jpg.jpg
+primary_image_credit: Erica Iris and Andrey Andreychik in Loose TEA Music Theatre's
+  Carmen, 2016. Photo by Dahlia Katz.
+publishDate: "2016-11-25T11:27:00+00:00"
+related_articles:
+- articles/erica-iris-singing-a-radically-revisionist-carmen.md
+- articles/meet-the-folks-alaina-viau-of-loose-tea.md
+related_companies:
+- scene/companies/loose-tea-music-theatre.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/erica-iris.md
+- scene/people/alaina-viau.md
+- scene/people/beth-hagerman.md
+short_description: Viau&#039;s new take on the story has John already married to Michaela
+  who comes and pleads for his return home for the sake of their kids, as opposed
+  to his mother in the original. Ricardo is an investment banker ready to support
+  Carmen in her dream of opening her own watering hole in exchange for her feminine
+  charms. John is infatuated with Carmen, as she treats him like he&#039;s still a
+  human being - something he doesn&#039;t recognize in others after two violent turns
+  in Afghanistan.
+slug: loose-tea-raises-funds-for-radical-new-vision-of-bizets-carmen
+title: Loose TEA raises funds for radical new vision of Bizet&#039;s Carmen
+---
 
 One of the best things about the Toronto [Indie Opera](/scene/companies/indie-opera-to/) scene, is the willingness to perform in venues not accustomed to housing operas. Yes, usually this finds you in a bar or a pub, but that's great. These places have beer, and taverns often play a very crucial role in some of our favourites in the canon. 
 

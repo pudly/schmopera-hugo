@@ -1,18 +1,33 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-05-01T18:28:00+01:00"
-lastmod = "2016-05-02T12:50:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462123945294/2016-05-01---MyOperaLucretiaSquare.jpg.jpg"
-primary_image_credit = "Christina Campsall as Lucretia in MyOpera's production of The Rape of Lucretia, 2016. Photo by William Ford Photography."
-publishDate = "2016-05-02T12:50:00+01:00"
-related_articles = ["articles/anna-theodosakis-directing-the-rape-of-lucretia.md","articles/in-review-carmen-at-the-coc.md","articles/new-roles-janaka-welihinda-of-myopera.md","articles/in-review-the-italian-girl-in-algiers-at-myopera.md","articles/starcrossd-lovers-cross-artistic-lines-in-new-coproduction.md"]
-related_companies = ["scene/companies/myopera.md"]
-related_people = ["scene/people/christina-campsall.md","scene/people/daevyd-pepper.md","scene/people/anna-theodosakis.md"]
-short_description = "It was incredibly close and intimate and I think it added to the stressful undercurrent of the entire score. The male and female chorus guide us through the horrific unfolding of events, there is a clear point of view from a feminine perspective, but one that was nobly sympathetic to the weakness of the men who are the catalyst to all this indignity."
-slug = "in-review-the-rape-of-lucretia"
-title = "In review: The Rape of Lucretia"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-05-01T18:28:00+01:00"
+lastmod: "2016-05-02T12:50:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462123945294/2016-05-01---MyOperaLucretiaSquare.jpg.jpg
+primary_image_credit: Christina Campsall as Lucretia in MyOpera's production of The
+  Rape of Lucretia, 2016. Photo by William Ford Photography.
+publishDate: "2016-05-02T12:50:00+01:00"
+related_articles:
+- articles/anna-theodosakis-directing-the-rape-of-lucretia.md
+- articles/in-review-carmen-at-the-coc.md
+- articles/new-roles-janaka-welihinda-of-myopera.md
+- articles/in-review-the-italian-girl-in-algiers-at-myopera.md
+- articles/starcrossd-lovers-cross-artistic-lines-in-new-coproduction.md
+related_companies:
+- scene/companies/myopera.md
+related_people:
+- scene/people/christina-campsall.md
+- scene/people/daevyd-pepper.md
+- scene/people/anna-theodosakis.md
+short_description: It was incredibly close and intimate and I think it added to the
+  stressful undercurrent of the entire score. The male and female chorus guide us
+  through the horrific unfolding of events, there is a clear point of view from a
+  feminine perspective, but one that was nobly sympathetic to the weakness of the
+  men who are the catalyst to all this indignity.
+slug: in-review-the-rape-of-lucretia
+title: 'In review: The Rape of Lucretia'
+---
 
 For my first show experience at Daniels Spectrum, I have to say I'm glad it was the one I saw tonight.
 

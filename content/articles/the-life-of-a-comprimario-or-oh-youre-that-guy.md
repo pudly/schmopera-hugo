@@ -1,17 +1,30 @@
-+++
-author = ["authors/greg.md"]
-categories = "Op-ed"
-date = "2015-11-20T10:57:00-05:00"
-lastmod = "2015-11-20T21:45:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448036040146/2015-11-20---Comprimario---Square.jpg.jpg"
-primary_image_credit = "Greg Finney as Figaro in La mère coupable, Summer Opera Lyric Theatre. Photo by Emily Ding."
-publishDate = "2015-11-21T08:45:00-05:00"
-related_articles = ["articles/how-i-acted-my-way-into-an-opera-career.md","articles/elitism-irony-and-the-phantom-of-the-opera.md","articles/5-important-roles-who-dont-get-an-aria.md","articles/schmopera-is-three.md","articles/oh-look-its-the-elitist-argument-again.md","articles/comprimario-romantic-story.md","articles/spotlight-on-michael-scott.md"]
-related_people = ["scene/people/gregory-finney.md","scene/people/david-cangelosi.md"]
-short_description = "So you want to be a comprimario? Great! There&#039;s lots of work for you if you&#039;re good it, but beware, it&#039;s not as glitzy and glamorous as playing Violetta or Don José, but it&#039;s just as labour-intensive."
-slug = "the-life-of-a-comprimario-or-oh-youre-that-guy"
-title = "The life of a comprimario, or &quot;Oh, you&#039;re that guy!&quot;"
-+++
+---
+author:
+- authors/greg.md
+categories: Op-ed
+date: "2015-11-20T10:57:00-05:00"
+lastmod: "2015-11-20T21:45:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448036040146/2015-11-20---Comprimario---Square.jpg.jpg
+primary_image_credit: Greg Finney as Figaro in La mère coupable, Summer Opera Lyric
+  Theatre. Photo by Emily Ding.
+publishDate: "2015-11-21T08:45:00-05:00"
+related_articles:
+- articles/how-i-acted-my-way-into-an-opera-career.md
+- articles/elitism-irony-and-the-phantom-of-the-opera.md
+- articles/5-important-roles-who-dont-get-an-aria.md
+- articles/schmopera-is-three.md
+- articles/oh-look-its-the-elitist-argument-again.md
+- articles/comprimario-romantic-story.md
+- articles/spotlight-on-michael-scott.md
+related_people:
+- scene/people/gregory-finney.md
+- scene/people/david-cangelosi.md
+short_description: So you want to be a comprimario? Great! There&#039;s lots of work
+  for you if you&#039;re good it, but beware, it&#039;s not as glitzy and glamorous
+  as playing Violetta or Don José, but it&#039;s just as labour-intensive.
+slug: the-life-of-a-comprimario-or-oh-youre-that-guy
+title: The life of a comprimario, or &quot;Oh, you&#039;re that guy!&quot;
+---
 
 So you want to be a [comprimario](https://en.wikipedia.org/wiki/Comprimario)? Great! There's lots of work for you if you're good it, but beware, it's not as glitzy and glamorous as playing [Violetta](https://www.youtube.com/watch?v=m7yKFQJEavU) or [Don José](https://www.youtube.com/watch?v=itB1UlPFln4), but it's just as labour-intensive. 
 

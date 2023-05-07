@@ -1,18 +1,27 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2018-04-08T20:44:00-04:00"
-lastmod = "2018-04-08T20:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523234528949/sq---ENO1718-The-Marriage-of-Figaro---Rhian-Lois%2C-Thomas-Oliemans-1-Alastair-Muir.jpg.jpg"
-primary_image_credit = "Rhian Lois and Thomas Oliemans in *The Marriage of Figaro*, ENO, 2018. Photo: Alastair Muir."
-publishDate = "2018-04-08T20:44:00-04:00"
-related_articles = ["articles/second-opinion-the-marriage-of-figaro-at-the-coc.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/lucy-crowe.md"]
-short_description = "It was most heartwarming to see the relationship between Lois and Thomas Oliemans as Susanna and Figaro. Oliemans seemed to go for a more casual Figaro, not quite the charismatic showman that one sees in other productions (or in The Barber of Seville for that matter). His was an unobtrusive Figaro, more content to go along with the schemes of others than to make up his own."
-slug = "classic-for-good-reason-the-marriage-of-figaro"
-title = "Classic for good reason: The Marriage of Figaro"
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2018-04-08T20:44:00-04:00"
+lastmod: "2018-04-08T20:44:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523234528949/sq---ENO1718-The-Marriage-of-Figaro---Rhian-Lois%2C-Thomas-Oliemans-1-Alastair-Muir.jpg.jpg
+primary_image_credit: 'Rhian Lois and Thomas Oliemans in *The Marriage of Figaro*,
+  ENO, 2018. Photo: Alastair Muir.'
+publishDate: "2018-04-08T20:44:00-04:00"
+related_articles:
+- articles/second-opinion-the-marriage-of-figaro-at-the-coc.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/lucy-crowe.md
+short_description: It was most heartwarming to see the relationship between Lois and
+  Thomas Oliemans as Susanna and Figaro. Oliemans seemed to go for a more casual Figaro,
+  not quite the charismatic showman that one sees in other productions (or in The
+  Barber of Seville for that matter). His was an unobtrusive Figaro, more content
+  to go along with the schemes of others than to make up his own.
+slug: classic-for-good-reason-the-marriage-of-figaro
+title: 'Classic for good reason: The Marriage of Figaro'
+---
 
 Each time I see another production of [*The Marriage of Figaro*](https://www.eno.org/whats-on/the-marriage-of-figaro/) I remember why it is done so often. Not only does it lend itself immensely well to scenic adaptation, the music and story are just so darn good. This one, a revival of Fiona Shaw's 2011 staging for English National Opera, particularly brings out the hilarious elements of the opera. Jeremy Sams' English translation works remarkably well, as usual. 
 

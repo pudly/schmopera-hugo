@@ -1,15 +1,20 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2018-04-13T15:27:00-04:00"
-lastmod = "2018-04-14T16:29:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523647099530/sq---BosOpColBoheme041018-0168.jpg.jpg"
-primary_image_credit = "Francis Rogers and Celeste Godin in La bohème, Boston Opera Collaborative, 2018. Photo courtesy of Boston Opera Collaborative."
-publishDate = "2018-04-14T16:29:00-04:00"
-short_description = "But actually, this is the big revelation of the production: the show works better when the cast is allowed to treat the show&#039;s lighter moments like a comedy, because it only highlights how truly tragic their situation is when reality comes crashing back in. "
-slug = "intimate-brewery-room-la-bohme-a-revelatory-triumph"
-title = "Intimate Brewery Room La Bohème A Revelatory Triumph"
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2018-04-13T15:27:00-04:00"
+lastmod: "2018-04-14T16:29:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523647099530/sq---BosOpColBoheme041018-0168.jpg.jpg
+primary_image_credit: Francis Rogers and Celeste Godin in La bohème, Boston Opera
+  Collaborative, 2018. Photo courtesy of Boston Opera Collaborative.
+publishDate: "2018-04-14T16:29:00-04:00"
+short_description: 'But actually, this is the big revelation of the production: the
+  show works better when the cast is allowed to treat the show&#039;s lighter moments
+  like a comedy, because it only highlights how truly tragic their situation is when
+  reality comes crashing back in. '
+slug: intimate-brewery-room-la-bohme-a-revelatory-triumph
+title: Intimate Brewery Room La Bohème A Revelatory Triumph
+---
 
 One of the great challenges of the opera world is constantly finding new ways to stage classics of the repertory. Poor Giacomo Puccini has been one of the greatest victims of this tendency of the opera world, and *La Bohème* perhaps has it the hardest of all his works: there's hardly anyone you can talk to in the world who isn't familiar with *La Bohème* or its modern-day recasting in *Rent*, and because of this staging the work in a new way is almost impossible. It is perhaps to the opera-lover's great relief, then, that the Boston Opera Collaborative has found a new way to stage the work by demolishing the distance between the audience and the action that breathes new life into the opera.
 

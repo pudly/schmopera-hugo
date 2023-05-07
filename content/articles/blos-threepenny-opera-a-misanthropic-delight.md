@@ -1,18 +1,31 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2018-03-24T20:31:00-04:00"
-lastmod = "2018-03-24T20:59:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521937792283/sq---BLO2018_3PO2.jpg.jpg"
-primary_image_credit = "Kelly Kaduce as Polly Peachum sings the iconic “Pirate Jenny” in the Boston Lyric Opera’s production of Weill and Brecht’s THE THREEPENNY OPERA, running March 16-25 at the Huntington Avenue Theatre. BLO.org. Photo: Liza Voll Photography."
-publishDate = "2018-03-24T20:31:00-04:00"
-related_articles = ["articles/in-review-the-threepenny-opera-.md","articles/vergesst-uns-nicht-adi-braun-on-weimar-cabaret.md","articles/schoenberg-in-hollywood-a-heap-of-excess.md"]
-related_companies = ["scene/companies/boston-lyric-opera.md"]
-related_people = ["scene/people/kelly-kaduce.md","scene/people/daniel-belcher.md"]
-short_description = "And then Kelly Kaduce came onstage: when her Polly Peachum walked on in an unglamorous wedding dress and unkempt black hair playing a sarcastic, monotone version of the typical operatic ingenue her character is written as, it became clear exactly what the work was setting out to do."
-slug = "blos-threepenny-opera-a-misanthropic-delight"
-title = "BLO&#039;s Threepenny Opera: a misanthropic delight"
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2018-03-24T20:31:00-04:00"
+lastmod: "2018-03-24T20:59:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521937792283/sq---BLO2018_3PO2.jpg.jpg
+primary_image_credit: 'Kelly Kaduce as Polly Peachum sings the iconic “Pirate Jenny”
+  in the Boston Lyric Opera’s production of Weill and Brecht’s THE THREEPENNY OPERA,
+  running March 16-25 at the Huntington Avenue Theatre. BLO.org. Photo: Liza Voll
+  Photography.'
+publishDate: "2018-03-24T20:31:00-04:00"
+related_articles:
+- articles/in-review-the-threepenny-opera-.md
+- articles/vergesst-uns-nicht-adi-braun-on-weimar-cabaret.md
+- articles/schoenberg-in-hollywood-a-heap-of-excess.md
+related_companies:
+- scene/companies/boston-lyric-opera.md
+related_people:
+- scene/people/kelly-kaduce.md
+- scene/people/daniel-belcher.md
+short_description: 'And then Kelly Kaduce came onstage: when her Polly Peachum walked
+  on in an unglamorous wedding dress and unkempt black hair playing a sarcastic, monotone
+  version of the typical operatic ingenue her character is written as, it became clear
+  exactly what the work was setting out to do.'
+slug: blos-threepenny-opera-a-misanthropic-delight
+title: 'BLO&#039;s Threepenny Opera: a misanthropic delight'
+---
 
 The world of Kurt Weill's *The Threepenny Opera* is a world not easily broken into by most audiences: even aside from the hyper-theatrical tappings in Bertold Brecht's libretto, it's a cold, unfeeling world filled with characters who are all so universally selfish and greedy that the only way for any ending to be considered just is - as one character observes - for all of the characters to hang, not just Macheath, the man around whom the entire work revolves. This poses a challenge for any company that decides to stage the work: how does one handle what is, essentially, a satirical morality tale?
 

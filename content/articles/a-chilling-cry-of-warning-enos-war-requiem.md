@@ -1,18 +1,28 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2018-11-18T17:15:00-05:00"
-lastmod = "2018-11-19T12:04:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542647057603/sqENOWarRequiemRoderickWilliamsDavidButtPhilipRichardHubertSmith.jpg.jpg"
-primary_image_credit = "David Butt Philip and Roderick Williams in Benjamin Britten's War Requiem, English National Opera, 2018. Photo: Richard Hubert Smith."
-publishDate = "2018-11-19T11:54:00-05:00"
-related_articles = ["articles/catharsis-is-the-wrong-word-brittens-war-requiem.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/roderick-williams.md","scene/people/david-butt-philip.md","scene/people/emma-bell.md"]
-short_description = "It is a piece that could have been so unabashedly English but instead it was a nationless, chilling cry of warning. It was a perverted mockery of the dangerous, power hungry nature of war. It was one long, beautiful moment of extended prayer."
-slug = "a-chilling-cry-of-warning-enos-war-requiem"
-title = "A chilling cry of warning: ENO&#039;s War Requiem"
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2018-11-18T17:15:00-05:00"
+lastmod: "2018-11-19T12:04:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542647057603/sqENOWarRequiemRoderickWilliamsDavidButtPhilipRichardHubertSmith.jpg.jpg
+primary_image_credit: 'David Butt Philip and Roderick Williams in Benjamin Britten''s
+  War Requiem, English National Opera, 2018. Photo: Richard Hubert Smith.'
+publishDate: "2018-11-19T11:54:00-05:00"
+related_articles:
+- articles/catharsis-is-the-wrong-word-brittens-war-requiem.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/roderick-williams.md
+- scene/people/david-butt-philip.md
+- scene/people/emma-bell.md
+short_description: It is a piece that could have been so unabashedly English but instead
+  it was a nationless, chilling cry of warning. It was a perverted mockery of the
+  dangerous, power hungry nature of war. It was one long, beautiful moment of extended
+  prayer.
+slug: a-chilling-cry-of-warning-enos-war-requiem
+title: 'A chilling cry of warning: ENO&#039;s War Requiem'
+---
 
 November has always been a time for reflection as the days grow shorter and the old year fades. But this year, the Centenary of the First World War, is particularly poignant. And how refreshing it is to watch a tribute that does not glorify or romanticise war but is instead a biting criticism of it, dripping with sarcasm and anger. This beautiful, fully staged production of Britten's *War Requiem*, designed by Wolfgang Tillmans and directed by Daniel Kramer, perfectly captured the violence and the reverence that is at the heart of this piece. The work lends itself perfectly to the operatic stage, having so much  exciting potential for storytelling. Latin text from the requiem mass is blended seamlessly with English text by Wilfred Owen, one of the best known poets of the First World War. There could have been no better fit for the voice of this piece than Owen, who was tragically killed in action in 1918 but whose posthumously published poetry, is a scathing outlook on the destruction of war. Britten, of course, was a famous pacifist and conscientious objector during WWII and so it is a natural fit.
  

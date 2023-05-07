@@ -1,16 +1,22 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = "2018-04-16T13:06:00-04:00"
-lastmod = "2018-04-17T16:32:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546228695/media/2018/12/sqSeraphicFire.jpg"
-publishDate = "2018-04-16T22:25:00-04:00"
-related_articles = ["articles/reaching-across-centuries-seraphic-fires-the-little-match-girl-passion.md"]
-short_description = "Pärt&#039;s trademark, soaring dissonances churning uninterrupted, punctuated by tense, expectant silences and delicate instrumental interludes. During the lecture preceding Seraphic Fire&#039;s April 14 performance, Artistic Director Patrick Dupré Quigley noted the symbolism behind this hardline continuity: a sense of predestination, advancing steadily through the traditional text toward the inevitable crucifixion."
-slug = "parts-passio-closes-seraphic-fires-passionate-season"
-title = "Pärt&#039;s Passio closes Seraphic Fire&#039;s passionate series"
-
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2018-04-16T13:06:00-04:00"
+lastmod: "2018-04-17T16:32:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546228695/media/2018/12/sqSeraphicFire.jpg
+publishDate: "2018-04-16T22:25:00-04:00"
+related_articles:
+- articles/reaching-across-centuries-seraphic-fires-the-little-match-girl-passion.md
+short_description: 'Pärt&#039;s trademark, soaring dissonances churning uninterrupted,
+  punctuated by tense, expectant silences and delicate instrumental interludes. During
+  the lecture preceding Seraphic Fire&#039;s April 14 performance, Artistic Director
+  Patrick Dupré Quigley noted the symbolism behind this hardline continuity: a sense
+  of predestination, advancing steadily through the traditional text toward the inevitable
+  crucifixion.'
+slug: parts-passio-closes-seraphic-fires-passionate-season
+title: Pärt&#039;s Passio closes Seraphic Fire&#039;s passionate series
+---
 The score to Arvo Pärt's monumental *Passio* includes only three tempo indications: the first seven measures are to be sung "on the slow side"; the last seven measures, "very slowly"; while the sixty-five minutes of intense, mesmerizing music in between are marked at an unrelenting 132 quarter-note beats per minute. Neither fermatas nor unmeasured pauses stem the flow; instead, rests are counted in strict metre.
 
 The result? Pärt's trademark, soaring dissonances churning uninterrupted, punctuated by tense, expectant silences and delicate instrumental interludes. During the lecture preceding Seraphic Fire's April 14 performance, Artistic Director Patrick Dupré Quigley noted the symbolism behind this hardline continuity: a sense of predestination, advancing steadily through the traditional text toward the inevitable crucifixion.

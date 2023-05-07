@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2018-02-17T13:07:00-05:00"
-lastmod = "2018-02-17T22:01:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518908897144/pexels-photo-277017.jpg.jpg"
-publishDate = "2018-02-17T13:07:00-05:00"
-related_articles = ["articles/missing-the-point-the-mets-201516-season.md","articles/when-art-is-not-enough-opera-activism.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-short_description = "But, compared with the offerings at places like Opera Philadelphia, Minnesota Opera, The Atlanta Opera, and a fast-growing proportion of other regional opera houses in the United States and Canada, the Metropolitan Opera is proving its status as an honest-to-God opera museum."
-slug = "the-mets-201819-seaszzzzzzzzz"
-title = "The Met&#039;s 2018/19 seas...zzzzzzzzz"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2018-02-17T13:07:00-05:00"
+lastmod: "2018-02-17T22:01:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518908897144/pexels-photo-277017.jpg.jpg
+publishDate: "2018-02-17T13:07:00-05:00"
+related_articles:
+- articles/missing-the-point-the-mets-201516-season.md
+- articles/when-art-is-not-enough-opera-activism.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+short_description: But, compared with the offerings at places like Opera Philadelphia,
+  Minnesota Opera, The Atlanta Opera, and a fast-growing proportion of other regional
+  opera houses in the United States and Canada, the Metropolitan Opera is proving
+  its status as an honest-to-God opera museum.
+slug: the-mets-201819-seaszzzzzzzzz
+title: The Met&#039;s 2018/19 seas...zzzzzzzzz
+---
 
 The Met announced their [2018/19 season](http://www.metopera.org/Season/2018-19-season/), and I'm almost too bored to look at the details.
 

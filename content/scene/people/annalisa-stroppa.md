@@ -1,28 +1,29 @@
-+++
-date = "2017-08-23T15:01:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-08-23T15:12:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503514394952/2017-08-23---Annalisa-Stroppa_foto-Victor-Santiago.jpg.jpg"
-primary_image_credit = "Victor Santiago"
-publishDate = "2017-08-23T15:01:00-04:00"
-related_companies = ["scene/companies/salzburg-festival.md","scene/companies/teatro-alla-scala.md","scene/companies/semperoper-dresden.md"]
-slug = "annalisa-stroppa"
-title = "Annalisa Stroppa"
-website = "http://www.annalisastroppa.it/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/AnnalisaStroppa/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/AnnalisaStroppa"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UC0V03DZHaNQ4LJw2PXbqbTQ"
-_template = "people_single"
-+++
+---
+date: "2017-08-23T15:01:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-08-23T15:12:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503514394952/2017-08-23---Annalisa-Stroppa_foto-Victor-Santiago.jpg.jpg
+primary_image_credit: Victor Santiago
+publishDate: "2017-08-23T15:01:00-04:00"
+related_companies:
+- scene/companies/salzburg-festival.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/semperoper-dresden.md
+slug: annalisa-stroppa
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/AnnalisaStroppa/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/AnnalisaStroppa
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UC0V03DZHaNQ4LJw2PXbqbTQ
+title: Annalisa Stroppa
+website: http://www.annalisastroppa.it/
+---
 
 Annalisa Stroppa began studying classic piano at an early age and later completed her
 studies in Liberal Arts. She received a Master Degree in Education Sciences and

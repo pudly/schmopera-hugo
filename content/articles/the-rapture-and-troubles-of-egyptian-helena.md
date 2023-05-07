@@ -1,22 +1,31 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-04-20T13:37:26+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Odyssey Opera's Helen of Troy-themed season continues in June with Offenbach's _La belle Hélène_. For details and tickets, [click here](https://www.odysseyopera.org/2019-offenbach-la-belle-helene/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1555782382/media/2019/04/sqOdysseyOperaOrchestraandEnsemble-pc-KathyWittman.jpg"
-primary_image_credit = "The Odyssey Opera Orchestra and Ensemble performing Die Aegyptische Helena, 2019. Photo: Kathy Wittman."
-related_articles = []
-related_companies = ["scene/companies/odyssey-opera.md"]
-related_people = ["scene/people/katrina-galka.md", "scene/people/kirsten-chambers.md", "scene/people/clay-hilley.md"]
-short_description = "The plot is rather fantastical even compared to some of Strauss' prior works, to the point that I would almost be tempted to call it hallucinogenic: Helen and Menelaus find themselves washed up on an island where a sorceress enchants Menelaus to fall in love with Helen all over again."
-slug = "the-rapture-and-troubles-of-egyptian-helena"
-title = "The rapture and troubles of Egyptian Helena"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-04-20T13:37:26+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Odyssey Opera's Helen of Troy-themed season continues in June with Offenbach's
+  _La belle Hélène_. For details and tickets, [click here](https://www.odysseyopera.org/2019-offenbach-la-belle-helene/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1555782382/media/2019/04/sqOdysseyOperaOrchestraandEnsemble-pc-KathyWittman.jpg
+primary_image_credit: 'The Odyssey Opera Orchestra and Ensemble performing Die Aegyptische
+  Helena, 2019. Photo: Kathy Wittman.'
+related_articles: []
+related_companies:
+- scene/companies/odyssey-opera.md
+related_people:
+- scene/people/katrina-galka.md
+- scene/people/kirsten-chambers.md
+- scene/people/clay-hilley.md
+short_description: 'The plot is rather fantastical even compared to some of Strauss''
+  prior works, to the point that I would almost be tempted to call it hallucinogenic:
+  Helen and Menelaus find themselves washed up on an island where a sorceress enchants
+  Menelaus to fall in love with Helen all over again.'
+slug: the-rapture-and-troubles-of-egyptian-helena
+title: The rapture and troubles of Egyptian Helena
+youtube_url: ""
+---
 Whenever one thinks of Richard Strauss and his operas, one inevitably thinks of his early efforts, particularly in _Salome_ and _Elektra_, his depraved early masterpieces with enough lurid content to stand as a benchmark for how opera can, in fact, venture into the gruesome in unexpected ways. What one always seems to forget, however, is that his music is frequently rapturous while doing so, and while some of his later operas lose the hyper-intense subject matter the lush music always remains, particularly when his plots concern themselves with the fantastical. This is especially true of his lesser-performed output, of which there are quite a few of these around.
 
 <figure data-type="image">

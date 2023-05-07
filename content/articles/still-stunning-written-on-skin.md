@@ -1,17 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-03-20T13:19:00+00:00"
-lastmod = "2016-03-20T15:08:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458485674293/2016-03-20---Benjamin-Matthew-Lloyd.jpg.jpg"
-primary_image_credit = "Composer George Benjamin. Photo by Matthew Lloyd."
-publishDate = "2016-03-20T14:55:00+00:00"
-related_articles = ["articles/in-review-written-on-skin.md","articles/in-review-jenufa-czech-philharmonic.md","articles/great-nights-the-dream-of-gerontius.md","articles/in-review-written-on-skin-at-roh.md","articles/fuelled-by-female-oppression-written-on-skin.md"]
-related_people = ["scene/people/barbara-hannigan.md","scene/people/christopher-purves.md","scene/people/victoria-simmonds.md","scene/people/tim-mead.md","scene/people/robert-murray.md"]
-short_description = "As one hopes, there were new layers uncovered with our second hearing of Written on Skin. Martin Crimp&#039;s libretto juxtaposes a story set in the 12th century, where a woman feels stifled in her marriage, and a man responds with a tightened grip on his wife, with images of the 21st century. Car-parks, airports, and concrete buildings pull against everything we know about Agnès: a woman married at 14, never taught to read or write, with a husband that confidently and explicitly declares her his property."
-slug = "still-stunning-written-on-skin"
-title = "Still stunning: Written on Skin"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-03-20T13:19:00+00:00"
+lastmod: "2016-03-20T15:08:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458485674293/2016-03-20---Benjamin-Matthew-Lloyd.jpg.jpg
+primary_image_credit: Composer George Benjamin. Photo by Matthew Lloyd.
+publishDate: "2016-03-20T14:55:00+00:00"
+related_articles:
+- articles/in-review-written-on-skin.md
+- articles/in-review-jenufa-czech-philharmonic.md
+- articles/great-nights-the-dream-of-gerontius.md
+- articles/in-review-written-on-skin-at-roh.md
+- articles/fuelled-by-female-oppression-written-on-skin.md
+related_people:
+- scene/people/barbara-hannigan.md
+- scene/people/christopher-purves.md
+- scene/people/victoria-simmonds.md
+- scene/people/tim-mead.md
+- scene/people/robert-murray.md
+short_description: 'As one hopes, there were new layers uncovered with our second
+  hearing of Written on Skin. Martin Crimp&#039;s libretto juxtaposes a story set
+  in the 12th century, where a woman feels stifled in her marriage, and a man responds
+  with a tightened grip on his wife, with images of the 21st century. Car-parks, airports,
+  and concrete buildings pull against everything we know about Agnès: a woman married
+  at 14, never taught to read or write, with a husband that confidently and explicitly
+  declares her his property.'
+slug: still-stunning-written-on-skin
+title: 'Still stunning: Written on Skin'
+---
 
 The Barbican Centre closed its *Benjamin at the Barbican* series last night, with a semi-staged performance of George Benjamin's opera with Martin Crimp, *Written on Skin*. Since its premiere at Aix-en-Provence in 2012, *Written on Skin* seems to pop up everywhere, nestling itself firmly among the gems of contemporary English opera. We had the chance to hear an in-concert performance of the work [last year with the Toronto Symphony Orchestra](/in-review-written-on-skin/), conducted by Benjamin, and featuring the cornerstone pair of singers from the world-premiere cast, baritone [Christopher Purves](/scene/people/christopher-purves/) as The Protector, and in the role of Agnès, soprano/conductor/übermensch, [Barbara Hannigan](/scene/people/barbara-hannigan/).
 

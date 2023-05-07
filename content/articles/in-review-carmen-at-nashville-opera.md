@@ -1,18 +1,37 @@
-+++
-author = ["authors/tracy-monaghan.md"]
-categories = "Review"
-date = "2017-04-09T11:16:00+01:00"
-lastmod = "2017-04-09T11:47:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491733209080/2017-04-09---Square-Nashville-Carmen.jpg.jpg"
-primary_image_credit = "Noah Stewart and Ginger Costa-Jackson in Nashville Opera's Carmen, 2017. Photo courtesy of Nashville Opera."
-publishDate = "2017-04-09T11:40:00+01:00"
-related_articles = ["articles/safe-words-masquerades-nashville-opera-presents-three-way.md","articles/in-review-carmen-at-the-coc.md","articles/an-absolute-triumph-koskys-carmen.md"]
-related_companies = ["scene/companies/nashville-opera.md"]
-related_people = ["scene/people/jeffrey-williams.md","scene/people/zachary-devin.md","scene/people/ginger-costajackson.md","scene/people/noah-stewart.md","scene/people/melisa-bonetti.md","scene/people/laura-wilde.md","scene/people/courtney-ruckman.md","scene/people/edward-parks.md"]
-short_description = "The story is all too familiar: girl meets boy, girl loves boy, when girl changes her mind...boy goes bananas. Carmen is a complicated role that requires both vocal dexterity and superior interpretive choices. Fortunately for us, Nashville Opera&#039;s Carmen, Ginger Costa-Jackson, goes above and beyond those requirements. Ms. Costa-Jackson, a native of Italy who has made a name for herself singing the titular role, was enchanting as Carmen."
-slug = "in-review-carmen-at-nashville-opera"
-title = "In review: Carmen at Nashville Opera"
-+++
+---
+author:
+- authors/tracy-monaghan.md
+categories: Review
+date: "2017-04-09T11:16:00+01:00"
+lastmod: "2017-04-09T11:47:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491733209080/2017-04-09---Square-Nashville-Carmen.jpg.jpg
+primary_image_credit: Noah Stewart and Ginger Costa-Jackson in Nashville Opera's Carmen,
+  2017. Photo courtesy of Nashville Opera.
+publishDate: "2017-04-09T11:40:00+01:00"
+related_articles:
+- articles/safe-words-masquerades-nashville-opera-presents-three-way.md
+- articles/in-review-carmen-at-the-coc.md
+- articles/an-absolute-triumph-koskys-carmen.md
+related_companies:
+- scene/companies/nashville-opera.md
+related_people:
+- scene/people/jeffrey-williams.md
+- scene/people/zachary-devin.md
+- scene/people/ginger-costajackson.md
+- scene/people/noah-stewart.md
+- scene/people/melisa-bonetti.md
+- scene/people/laura-wilde.md
+- scene/people/courtney-ruckman.md
+- scene/people/edward-parks.md
+short_description: 'The story is all too familiar: girl meets boy, girl loves boy,
+  when girl changes her mind...boy goes bananas. Carmen is a complicated role that
+  requires both vocal dexterity and superior interpretive choices. Fortunately for
+  us, Nashville Opera&#039;s Carmen, Ginger Costa-Jackson, goes above and beyond those
+  requirements. Ms. Costa-Jackson, a native of Italy who has made a name for herself
+  singing the titular role, was enchanting as Carmen.'
+slug: in-review-carmen-at-nashville-opera
+title: 'In review: Carmen at Nashville Opera'
+---
 
 [Nashville Opera](/scene/companies/nashville-opera/) closed its four-show, 2016-2017 season with Bizet's *Carmen*.  Director John Hoomes's decision to keep a mostly traditional treatment of the production gave the musicians the space to let Bizet's music speak for itself.  While the largely talented singers seized that opportunity, it seemed – in some cases – that said space allowed the focus to come off the characters themselves.
 

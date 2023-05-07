@@ -1,25 +1,32 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2019-11-15T05:00:00Z
-discipline = ""
-disclaimer = ""
-image_gallery = []
-postamble = "Boston Lyric Opera's production of [_Fellow Travelers_](https://blo.org/fellow-travelers/) is onstage through November 17."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573843051/media/2019/11/sqBLO2019-FellowTravelers-5128_kmt0gr.jpg"
-primary_image_credit = "(l-r) Jesse Blumberg (Fuller), Simon Dyer, and David McFerrin (Interrogators) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll."
-related_articles = ["articles/schoenberg-in-hollywood-a-heap-of-excess.md", "articles/fellow-travelers-is-luminous-in-chicago.md"]
-related_companies = ["scene/companies/boston-lyric-opera-1.md"]
-related_people = []
-short_description = "As Thomas Mallon said in the TalkBack after the performance, the suffering of LGBT+ people brought on by witch-hunting politicians in the 50s was unspeakable, and it is a place he hopes we never return to."
-slug = "fellow-travelers-a-cathartic-necessary-affair"
-social_media = []
-title = "Fellow Travelers a cathartic, necessary affair"
-website = ""
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-11-15T05:00:00Z"
+discipline: ""
+disclaimer: ""
+image_gallery: []
+postamble: Boston Lyric Opera's production of [_Fellow Travelers_](https://blo.org/fellow-travelers/)
+  is onstage through November 17.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1573843051/media/2019/11/sqBLO2019-FellowTravelers-5128_kmt0gr.jpg
+primary_image_credit: '(l-r) Jesse Blumberg (Fuller), Simon Dyer, and David McFerrin
+  (Interrogators) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll.'
+related_articles:
+- articles/schoenberg-in-hollywood-a-heap-of-excess.md
+- articles/fellow-travelers-is-luminous-in-chicago.md
+related_companies:
+- scene/companies/boston-lyric-opera-1.md
+related_people: []
+short_description: As Thomas Mallon said in the TalkBack after the performance, the
+  suffering of LGBT+ people brought on by witch-hunting politicians in the 50s was
+  unspeakable, and it is a place he hopes we never return to.
+slug: fellow-travelers-a-cathartic-necessary-affair
+social_media: []
+title: Fellow Travelers a cathartic, necessary affair
+website: ""
+youtube_url: ""
+---
 Whenever people discuss the state of the fight for gay rights across the past fifty years, I find there is a profound level of ignorance from people not familiar with LGBT+ history about exactly what kind of perils such people used to face in the past.
 
 Even fewer seem to understand the inhumane toll that such perils used to hold for them as well, or even how they relate to the struggles that befall such people even today. People might balk at the suggestion that opera could be a tool to help open a discussion about such things, but as BLO's general and artistic director Esther Nelson stated in a short pre-performance speech, opera can help other people feel empathy for those who are different.

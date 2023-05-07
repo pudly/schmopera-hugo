@@ -1,18 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-05-19T09:55:00+01:00"
-lastmod = "2016-05-19T13:42:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463651208261/2016-05-19---ENO-Madam-Butterfly-Rena-Harms-Tom-Bowles.jpg.jpg"
-primary_image_credit = "Rena Harms as Cio-Cio San in Madam Butterfly. Photo: Tom Bowles/English National Opera."
-publishDate = "2016-05-19T11:34:00+01:00"
-related_articles = ["articles/in-review-enos-the-magic-flute.md","articles/in-review-madama-butterfly.md","articles/in-review-tristan-and-isolde-at-eno.md","articles/in-review-don-giovanni-at-eno.md","articles/in-review-lulu-at-eno.md","articles/rohs-madama-butterfly-better-to-be-furious-than-bored.md","articles/making-the-connection-madama-butterfly-in-manitoba.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/david-butt-philip.md","scene/people/alun-rhysjenkins.md"]
-short_description = "A silent, stunning tableau, featuring dancer Ayano Honda in silhouette against a wash of saturated red, began the story; it gave way to a stage full of puppeteers, who spent the evening moving sets, providing ambient lighting, and playing a flock of birds. They smoothed the lines between the story&#039;s characters and the &quot;unseen&quot; bodies onstage, who also included three puppeteers bringing Cio-Cio San&#039;s son, Sorrow, to heartbreaking life."
-slug = "in-review-madam-butterfly-at-eno"
-title = "In review: Madam Butterfly at ENO"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-05-19T09:55:00+01:00"
+lastmod: "2016-05-19T13:42:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463651208261/2016-05-19---ENO-Madam-Butterfly-Rena-Harms-Tom-Bowles.jpg.jpg
+primary_image_credit: 'Rena Harms as Cio-Cio San in Madam Butterfly. Photo: Tom Bowles/English
+  National Opera.'
+publishDate: "2016-05-19T11:34:00+01:00"
+related_articles:
+- articles/in-review-enos-the-magic-flute.md
+- articles/in-review-madama-butterfly.md
+- articles/in-review-tristan-and-isolde-at-eno.md
+- articles/in-review-don-giovanni-at-eno.md
+- articles/in-review-lulu-at-eno.md
+- articles/rohs-madama-butterfly-better-to-be-furious-than-bored.md
+- articles/making-the-connection-madama-butterfly-in-manitoba.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/david-butt-philip.md
+- scene/people/alun-rhysjenkins.md
+short_description: A silent, stunning tableau, featuring dancer Ayano Honda in silhouette
+  against a wash of saturated red, began the story; it gave way to a stage full of
+  puppeteers, who spent the evening moving sets, providing ambient lighting, and playing
+  a flock of birds. They smoothed the lines between the story&#039;s characters and
+  the &quot;unseen&quot; bodies onstage, who also included three puppeteers bringing
+  Cio-Cio San&#039;s son, Sorrow, to heartbreaking life.
+slug: in-review-madam-butterfly-at-eno
+title: 'In review: Madam Butterfly at ENO'
+---
 
 Last night at the London Coliseum, we had the chance to hear live the late Anthony Minghella's production of [*Madam Butterfly*](https://www.eno.org/whats-on/madam-butterfly/), which was created by [English National Opera](/scene/companies/english-national-opera/) in 2005. With Michael Levine's simplistic and arresting set design, and delicious costumes by Han Feng, this treatment of *Butterfly* is one that seems to cling beautifully to those details in the libretto that have become uncomfortably affecting for contemporary audiences. The live singers find themselves in the middle of Bunraku performance, or Japanese puppet theatre, making brutal clarity out of all the times that Benjamin Franklin Pinkerton refers to Cio-Cio San as a plaything, a toy, anything but a woman.
 

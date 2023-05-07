@@ -1,18 +1,32 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = "2018-10-10T20:55:00-04:00"
-lastmod = "2018-10-12T14:31:00-04:00"
-preamble = "David T. Little's opera, [*Soldier Songs*](https://www.laopera.org/season/1819-season-la-opera-season/soldier-songs/), is being co-presented by the LA Opera with the Ford Theatres and Beth Morrison Projects at the Ford Theatres in LA on Saturday October 13. *Soldier Songs* brings together opera, theater, rock, and film in an examination of the impact of war to the individuals fighting it. "
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539219151632/sqdavidtlittlecolor.jpg.jpg"
-primary_image_credit = "David T. Little, composer of Soldier Songs."
-publishDate = "2018-10-10T20:55:00-04:00"
-related_articles = ["articles/talking-with-composers-omar-daniel.md","articles/talking-with-composers-alexina-louie.md","articles/talking-with-composers-andrew-staniland.md","articles/san-diego-opera-takes-a-detour-with-all-is-calm.md"]
-related_companies = ["scene/companies/los-angeles-opera.md"]
-short_description = "&quot;As the composer, I try to see both the forest and the trees - to feel the small details and the small moments while making sure the text is right, the high notes are being approached in just the right way, and I&#039;m also monitoring the large-scale form while keeping the pacing moving. It&#039;s multi-tasking at an intense level.&quot;"
-slug = "talking-with-composers-david-t-little"
-title = "Talking with composers: David T. Little"
-+++
+---
+author:
+- authors/eva-cahen.md
+categories: Interview
+date: "2018-10-10T20:55:00-04:00"
+lastmod: "2018-10-12T14:31:00-04:00"
+preamble: 'David T. Little''s opera, [*Soldier Songs*](https://www.laopera.org/season/1819-season-la-opera-season/soldier-songs/),
+  is being co-presented by the LA Opera with the Ford Theatres and Beth Morrison Projects
+  at the Ford Theatres in LA on Saturday October 13. *Soldier Songs* brings together
+  opera, theater, rock, and film in an examination of the impact of war to the individuals
+  fighting it. '
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539219151632/sqdavidtlittlecolor.jpg.jpg
+primary_image_credit: David T. Little, composer of Soldier Songs.
+publishDate: "2018-10-10T20:55:00-04:00"
+related_articles:
+- articles/talking-with-composers-omar-daniel.md
+- articles/talking-with-composers-alexina-louie.md
+- articles/talking-with-composers-andrew-staniland.md
+- articles/san-diego-opera-takes-a-detour-with-all-is-calm.md
+related_companies:
+- scene/companies/los-angeles-opera.md
+short_description: '&quot;As the composer, I try to see both the forest and the trees
+  - to feel the small details and the small moments while making sure the text is
+  right, the high notes are being approached in just the right way, and I&#039;m also
+  monitoring the large-scale form while keeping the pacing moving. It&#039;s multi-tasking
+  at an intense level.&quot;'
+slug: talking-with-composers-david-t-little
+title: 'Talking with composers: David T. Little'
+---
 
 ### What can you tell us about the process of writing an opera that the average person might find surprising?
 

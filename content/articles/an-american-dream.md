@@ -1,22 +1,29 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = "2019-03-19T17:01:24+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553015129/media/2019/03/sqSoYoungPark_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_195.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/nina-yoshida-nelsen.md", "scene/people/christopher-magiera.md", "scene/people/so-young-park.md", "scene/people/catherine-martin.md"]
-short_description = "With music by Jack Perla and libretto by Jessica Murphy Moo, An American Dream spotlights the lives of two families against the backdrop of Japanese internment by the U.S. government following the bombing of Pearl Harbor in 1941."
-slug = "an-american-dream-an-opera-that-hits-home"
-title = "An American Dream: an opera that hits home"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2019-03-19T17:01:24+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553015129/media/2019/03/sqSoYoungPark_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_195.jpg
+primary_image_credit: ""
+related_articles: []
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/nina-yoshida-nelsen.md
+- scene/people/christopher-magiera.md
+- scene/people/so-young-park.md
+- scene/people/catherine-martin.md
+short_description: With music by Jack Perla and libretto by Jessica Murphy Moo, An
+  American Dream spotlights the lives of two families against the backdrop of Japanese
+  internment by the U.S. government following the bombing of Pearl Harbor in 1941.
+slug: an-american-dream-an-opera-that-hits-home
+title: 'An American Dream: an opera that hits home'
+youtube_url: ""
+---
 The success of Lyric Unlimited, the LOC's civic outreach initiative, is founded on its ability to mount crucial new operas that resonate with the times and communities the program serves. Following last season's captivating [_Fellow Travelers_](/fellow-travelers-is-luminous-in-chicago/), Gregory Spears opera about the 1950's "lavender scare," Lyric Unlimited again impels Chicago audiences toward self- and historical-reflection with its run of [_An American Dream_](https://www.lyricopera.org/concertstickets/calendar/2018-2019/an-american-dream-opera-tickets), performed twice this past weekend at the Harris Theater for Music and Dance.
 
 With music by Jack Perla and libretto by Jessica Murphy Moo, _An American Dream_ spotlights the lives of two families against the backdrop of Japanese internment by the U.S. government following the bombing of Pearl Harbor in 1941.

@@ -1,17 +1,32 @@
-+++
-author = ["authors/hannah-de-priest.md","authors/michael-pecak.md"]
-categories = "Review"
-date = "2018-09-14T13:28:00-04:00"
-lastmod = "2018-09-14T19:49:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1536946355044/sqJnaiBridges.jpg.jpg"
-primary_image_credit = "J'Nai Bridges at the Stars of Lyric Opera in Millennium Park. Photo: Todd Rosenberg."
-publishDate = "2018-09-14T17:30:00-04:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/janai-brugger.md","scene/people/jnai-bridges.md","scene/people/rolando-villazon.md","scene/people/albina-shagimuratova.md","scene/people/zachary-nelson.md"]
-short_description = "The night&#039;s theme, (and requisite hashtag) #LongLivePassion was on-point — we were treated to some of opera&#039;s most impassioned moments from Puccini&#039;s beloved &quot;O mio babbino caro&quot; to the seductive &quot;Mon coeur s&#039;ouvre à ta voix&quot; from Saint-Saën&#039;s Samson et Dalila. It was a glamorous, fun-filled night that featured the headliners of the Lyric&#039;s upcoming production of La Bohéme as well as four young artists from the Patrick G. and Shirley W. Ryan Center."
-slug = "lyric-opera-kicks-off-a-starry-season-at-millennium-park"
-title = "Lyric Opera kicks off a starry season at Millennium Park"
-+++
+---
+author:
+- authors/hannah-de-priest.md
+- authors/michael-pecak.md
+categories: Review
+date: "2018-09-14T13:28:00-04:00"
+lastmod: "2018-09-14T19:49:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1536946355044/sqJnaiBridges.jpg.jpg
+primary_image_credit: 'J''Nai Bridges at the Stars of Lyric Opera in Millennium Park.
+  Photo: Todd Rosenberg.'
+publishDate: "2018-09-14T17:30:00-04:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/janai-brugger.md
+- scene/people/jnai-bridges.md
+- scene/people/rolando-villazon.md
+- scene/people/albina-shagimuratova.md
+- scene/people/zachary-nelson.md
+short_description: 'The night&#039;s theme, (and requisite hashtag) #LongLivePassion
+  was on-point — we were treated to some of opera&#039;s most impassioned moments
+  from Puccini&#039;s beloved &quot;O mio babbino caro&quot; to the seductive &quot;Mon
+  coeur s&#039;ouvre à ta voix&quot; from Saint-Saën&#039;s Samson et Dalila. It was
+  a glamorous, fun-filled night that featured the headliners of the Lyric&#039;s upcoming
+  production of La Bohéme as well as four young artists from the Patrick G. and Shirley
+  W. Ryan Center.'
+slug: lyric-opera-kicks-off-a-starry-season-at-millennium-park
+title: Lyric Opera kicks off a starry season at Millennium Park
+---
 
 While the [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/)'s official opening night is still a month away, Chicagoans got a substantial teaser this month at the annual Stars of the Lyric at Millennium Park. Two Chicago-based Schmopera contributors were on hand for the event - below they share their favorite moments from the evening and what they’re looking forward to most this season!
 

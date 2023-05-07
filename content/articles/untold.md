@@ -1,22 +1,27 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = 2020-08-24T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Alex Ho's _Untold_ is available for [online viewing](https://youtu.be/OOqLBSu4Rc4) until 1 September. To support Tangram, the suggested donation is £5."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1598312986/media/2020/08/sqUntold_qz3rpf.jpg"
-primary_image_credit = "Alex Ho's opera Untold, photographed by Zen Grisdale. "
-related_articles = []
-related_companies = []
-related_people = ["scene/people/keith-pun.md"]
-short_description = "This was a piece that did not feel as though it existed musically as a complete score but more so in the gathering of people together, in the physicality of the performance space, and in the unknowable magic that occurs in the moment of performance itself."
-slug = "untold-a-collaborative-tale-of-pride-and-grace"
-title = "Untold: a collaborative tale of pride and grace"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2020-08-24T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Alex Ho's _Untold_ is available for [online viewing](https://youtu.be/OOqLBSu4Rc4)
+  until 1 September. To support Tangram, the suggested donation is £5.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1598312986/media/2020/08/sqUntold_qz3rpf.jpg
+primary_image_credit: 'Alex Ho''s opera Untold, photographed by Zen Grisdale. '
+related_articles: []
+related_companies: []
+related_people:
+- scene/people/keith-pun.md
+short_description: This was a piece that did not feel as though it existed musically
+  as a complete score but more so in the gathering of people together, in the physicality
+  of the performance space, and in the unknowable magic that occurs in the moment
+  of performance itself.
+slug: untold-a-collaborative-tale-of-pride-and-grace
+title: 'Untold: a collaborative tale of pride and grace'
+youtube_url: ""
+---
 This week I had the privilege of watching a live stream event featuring composer Alex Ho's newest "Anti-opera", [_Untold_](https://youtu.be/OOqLBSu4Rc4), which is the latest output from [Tangram](https://www.tangramsound.com/ye-xian-a-story-untold.html), a newly formed artist collective whose aim is to celebrate Chinese culture through the performance of both Chinese and Western music while highlighting issues of transnational Chinese identity.
 
 "Anti-opera" in that, though it included all of the main components of traditional opera – voice, text, music, dance, and theatre – these were subverted to create something that remained purposefully nebulous, refusing to be slotted into any one genre.

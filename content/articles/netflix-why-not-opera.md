@@ -1,16 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = ""
-date = 2014-09-30T15:39:00Z
-lastmod = "2015-04-14T15:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633706769/media/2021/10/OperaNetflix_ytrl99.jpg"
-publishDate = "2014-09-30T11:39:00-04:00"
-related_articles = ["articles/googles-very-specific-opera-offerings.md", "articles/bring-back-opera-on-latenight-tv.md", "articles/opera-on-letterman.md", "articles/is-technology-making-it-harder-to-tell-stories.md", "articles/theres-still-no-opera-on-netflix.md", "articles/great-ideas-a-streamable-opera-miniseries.md", "articles/the-brief-history-of-madefortv-opera.md"]
-short_description = "It&#039;s a fair question, isn&#039;t it? I mean, anyone who&#039;s into opera and classical music knows that the Internet is not our friend. While there&#039;s always trusty YouTube to the rescue when you&#039;ve got an urge to watch that old Met Gala, or Jonas Kaufmann is anything at all. But wouldn&#039;t it be amazing to be able to browse an opera collection of old and new broadcasts? "
-slug = "netflix-why-not-opera"
-title = "Netflix: Why Not Opera?"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: ""
+date: "2014-09-30T15:39:00Z"
+lastmod: "2015-04-14T15:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1633706769/media/2021/10/OperaNetflix_ytrl99.jpg
+publishDate: "2014-09-30T11:39:00-04:00"
+related_articles:
+- articles/googles-very-specific-opera-offerings.md
+- articles/bring-back-opera-on-latenight-tv.md
+- articles/opera-on-letterman.md
+- articles/is-technology-making-it-harder-to-tell-stories.md
+- articles/theres-still-no-opera-on-netflix.md
+- articles/great-ideas-a-streamable-opera-miniseries.md
+- articles/the-brief-history-of-madefortv-opera.md
+short_description: 'It&#039;s a fair question, isn&#039;t it? I mean, anyone who&#039;s
+  into opera and classical music knows that the Internet is not our friend. While
+  there&#039;s always trusty YouTube to the rescue when you&#039;ve got an urge to
+  watch that old Met Gala, or Jonas Kaufmann is anything at all. But wouldn&#039;t
+  it be amazing to be able to browse an opera collection of old and new broadcasts? '
+slug: netflix-why-not-opera
+title: 'Netflix: Why Not Opera?'
+---
 It's a fair question, isn't it? I mean, anyone who's into opera and classical music knows that the [Internet is not our friend](/online-music-is-obscuring-opera/). While there's always trusty YouTube to the rescue when you've got an urge to watch [that old Met Gala](https://www.youtube.com/watch?v=IDEOaz8v54Q&list=PL67AC3AA6E9D76C48), or Jonas Kaufmann is anything at all. But wouldn't it be _amazing_ to be able to browse an opera collection of old and new broadcasts? Especially the new. Plenty of companies broadcast or stream live performances; imagine if they all became available to watch on Netflix?
 
 I decided not to begin this post with an assumption and do some searching for opera on Netflix. I started simply, with a search for "opera". I got a short list of suggestions "related to" _The Phantom of the Opera_ (including a _Power Rangers_ movie, no joke).I tried browsing categories, trying "Musicals" first. Turned up stuff like _Rent_, the Shirley Jones _Carousel_, and _Fiddler on the Roof _followed closely by _South Park: Bigger, Longer and Uncut_, _Shrek the Musical_, and lots and lots of Bollywood. I tried the "Music" category, and got plenty of music documentaries, musician biopics, the complete _Ken Burns: Jazz_, and a special with Stephen Fry about being a Jew who also loves Wagner (_Wagner & Me_).

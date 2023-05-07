@@ -1,17 +1,24 @@
-+++
-author = ["authors/thomas-pierce.md"]
-categories = "Review"
-date = "2017-12-04T20:58:00-05:00"
-lastmod = "2017-12-05T20:33:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512439110166/2017-12-04---square---Harriet-Eyley.jpg.jpg"
-primary_image_credit = "Harriet Eyley (The Vixen) in The Cunning Little Vixen, RCM, 2017."
-publishDate = "2017-12-05T20:33:00-05:00"
-related_articles = ["articles/sexy-operas-the-tale-of-januarie.md", "articles/in-review-albert-herring-at-uoft-opera.md"]
-short_description = "This is what makes The Cunning Little Vixen such a remarkable opera: in watching its complicated and confused characters, ironically half of whom are animals, we see so much of ourselves. Understanding these intricacies and subtleties, the RCM created a production which explored the contradictions and pretenses that comprise being human."
-slug = "reflective-stories-rcms-the-cunning-little-vixen"
-title = "Reflective stories: RCM&#039;s The Cunning Little Vixen"
-
-+++
+---
+author:
+- authors/thomas-pierce.md
+categories: Review
+date: "2017-12-04T20:58:00-05:00"
+lastmod: "2017-12-05T20:33:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512439110166/2017-12-04---square---Harriet-Eyley.jpg.jpg
+primary_image_credit: Harriet Eyley (The Vixen) in The Cunning Little Vixen, RCM,
+  2017.
+publishDate: "2017-12-05T20:33:00-05:00"
+related_articles:
+- articles/sexy-operas-the-tale-of-januarie.md
+- articles/in-review-albert-herring-at-uoft-opera.md
+short_description: 'This is what makes The Cunning Little Vixen such a remarkable
+  opera: in watching its complicated and confused characters, ironically half of whom
+  are animals, we see so much of ourselves. Understanding these intricacies and subtleties,
+  the RCM created a production which explored the contradictions and pretenses that
+  comprise being human.'
+slug: reflective-stories-rcms-the-cunning-little-vixen
+title: 'Reflective stories: RCM&#039;s The Cunning Little Vixen'
+---
 _The Cunning Little Vixen_ is an opera of complexity and ambiguity, evading simple characterisations. This gives it an appeal to cynical modern audiences that _Don Giovanni_ or _La Traviata_ could never hope to match. The Royal College of Music's production took full advantage of these nuances to allude to contemporary social issues.
 
 <figure data-type="image">

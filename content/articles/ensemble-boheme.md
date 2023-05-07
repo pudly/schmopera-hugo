@@ -1,22 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2019-05-09T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "The Canadian Opera Company's production of [_La bohème_](https://www.coc.ca/productions/16501) continues through May 22."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557447038/media/2019/05/sq18-19-05-E-MC-D-0779.jpg"
-primary_image_credit = "(l-r) Samuel Chan as Marcello and Andrew Haji as Rodolfo in the Canadian Opera Company’s production of La Bohème (Opera for Toronto, 2019), photo: Michael Cooper."
-related_articles = ["articles/ensemble-studio-shines-in-a-lackluster-evening.md"]
-related_companies = []
-related_people = ["scene/people/doug-macnaughton.md", "scene/people/neil-craighead.md", "scene/people/lauren-eberwein.md", "scene/people/joel-allison.md", "scene/people/samuel-chan.md", "scene/people/andrew-haji.md", "scene/people/lauren-margison.md"]
-short_description = "The preparation for this single show can stretch over an entire season, with input from the multiple teachers and coaches who come to work with the young artists throughout the year."
-slug = "a-very-canadian-la-boheme-the-latest-in-opera-for-toronto"
-title = "A very Canadian La bohème: the latest in Opera for Toronto"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2019-05-09T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: The Canadian Opera Company's production of [_La bohème_](https://www.coc.ca/productions/16501)
+  continues through May 22.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1557447038/media/2019/05/sq18-19-05-E-MC-D-0779.jpg
+primary_image_credit: '(l-r) Samuel Chan as Marcello and Andrew Haji as Rodolfo in
+  the Canadian Opera Company’s production of La Bohème (Opera for Toronto, 2019),
+  photo: Michael Cooper.'
+related_articles:
+- articles/ensemble-studio-shines-in-a-lackluster-evening.md
+related_companies: []
+related_people:
+- scene/people/doug-macnaughton.md
+- scene/people/neil-craighead.md
+- scene/people/lauren-eberwein.md
+- scene/people/joel-allison.md
+- scene/people/samuel-chan.md
+- scene/people/andrew-haji.md
+- scene/people/lauren-margison.md
+short_description: The preparation for this single show can stretch over an entire
+  season, with input from the multiple teachers and coaches who come to work with
+  the young artists throughout the year.
+slug: a-very-canadian-la-boheme-the-latest-in-opera-for-toronto
+title: 'A very Canadian La bohème: the latest in Opera for Toronto'
+youtube_url: ""
+---
 The Canadian Opera Company's production of _La bohème_ has been running smoothly, in the able hands of two casts. On Wednesday night, yet another group of singers stepped into the iconic roles of Puccini's bohemian tragedy, in a special (and free) performance that's part of the COC's new Opera for Toronto initiative.
 
 Each year, the COC sets aside a night to show off the young artists of the Ensemble Studio; historically, these have been as a gala-type showcase or a special production of their own. Last year's foray into the gala format didn't really do it for me, so I was pleased to see the COC return to what seems like the best option: a unique performance of an ongoing mainstage production, cast as thoroughly as possible with young artists.

@@ -1,18 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-07-08T23:29:00-06:00"
-lastmod = "2015-07-15T21:45:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437018026005/ShantelleSextet-RitaTaylorSquare.jpg.jpg"
-primary_image_credit = "All photos by Rita Taylor."
-publishDate = "2015-07-11T07:25:00-06:00"
-related_articles = ["articles/banff-diaries-day-0.md","articles/atg-in-banff-2015.md","articles/more-atg-in-banff-2015.md","articles/opera-karaoke-night-2015.md","articles/opera-karaoke-night-round-2.md","articles/putting-on-show-instrumentalists.md","articles/dont-miss-atgs-messiah.md","articles/constantly-new-the-kronos-quartet.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
-related_people = ["scene/people/shantelle-przybylo.md","scene/people/caitlin-wood.md","scene/people/aaron-sheppard.md","scene/people/brent-calis.md","scene/people/samantha-pickett.md","scene/people/clarence-frazer.md","scene/people/simone-mcintosh.md","scene/people/pascale-spinney.md","scene/people/bruno-roy.md"]
-short_description = "This week at The Banff Centre, the artists of Open Space: Opera in the 21st Century collaborated with the Master Class for Strings and Winds Program for an evening of chamber music at the Rolston Recital Hall. It sounds like your average chamber concert, but I promise you, it wasn&#039;t."
-slug = "music-as-theatre-a-chamber-concert-in-banff"
-title = "Music as Theatre: a chamber concert in Banff"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-07-08T23:29:00-06:00"
+lastmod: "2015-07-15T21:45:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437018026005/ShantelleSextet-RitaTaylorSquare.jpg.jpg
+primary_image_credit: All photos by Rita Taylor.
+publishDate: "2015-07-11T07:25:00-06:00"
+related_articles:
+- articles/banff-diaries-day-0.md
+- articles/atg-in-banff-2015.md
+- articles/more-atg-in-banff-2015.md
+- articles/opera-karaoke-night-2015.md
+- articles/opera-karaoke-night-round-2.md
+- articles/putting-on-show-instrumentalists.md
+- articles/dont-miss-atgs-messiah.md
+- articles/constantly-new-the-kronos-quartet.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-banff-centre.md
+related_people:
+- scene/people/shantelle-przybylo.md
+- scene/people/caitlin-wood.md
+- scene/people/aaron-sheppard.md
+- scene/people/brent-calis.md
+- scene/people/samantha-pickett.md
+- scene/people/clarence-frazer.md
+- scene/people/simone-mcintosh.md
+- scene/people/pascale-spinney.md
+- scene/people/bruno-roy.md
+short_description: 'This week at The Banff Centre, the artists of Open Space: Opera
+  in the 21st Century collaborated with the Master Class for Strings and Winds Program
+  for an evening of chamber music at the Rolston Recital Hall. It sounds like your
+  average chamber concert, but I promise you, it wasn&#039;t.'
+slug: music-as-theatre-a-chamber-concert-in-banff
+title: 'Music as Theatre: a chamber concert in Banff'
+---
 
 This week at [The Banff Centre](/scene/companies/the-banff-centre/), the artists of Open Space: Opera in the 21st Century collaborated with the Master Class for Strings and Winds Program for an evening of chamber music at the Rolston Recital Hall. It sounds like your average chamber concert, but I promise you, it wasn't.
 

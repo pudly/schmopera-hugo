@@ -1,18 +1,27 @@
-+++
-author = ["authors/daniel-weisman.md"]
-categories = "Review"
-date = "2018-04-09T12:55:00-04:00"
-lastmod = "2018-04-10T12:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523297302011/sq---JB4A7198.jpg.jpg"
-primary_image_credit = "Out of Darkness: Two Remain, the Atlanta Opera, 2018. Photo courtesy of The Atlanta Opera."
-publishDate = "2018-04-09T14:18:00-04:00"
-related_articles = ["articles/heggies-holocaust-operas-see-canadian-premiere.md","articles/meet-the-friends-their-seven-deadly-sins.md"]
-related_companies = ["scene/companies/the-atlanta-opera.md"]
-related_people = ["scene/people/elise-quagliata.md"]
-short_description = "The second act follows the story of Gad Beck, performed by actor Tom Key. Gad, an older man, is preparing for bed when the ghost of his lover, Manfred Lewin, appears to remind Gad of the horrors, though Gad, who has held on to Manfred&#039;s book of poetry and his picture, had spent years just trying to forget it."
-slug = "perfect-for-its-time-heggie-double-bill-in-atlanta"
-title = "Out of Darkness: Two Remain is perfect for its time"
-+++
+---
+author:
+- authors/daniel-weisman.md
+categories: Review
+date: "2018-04-09T12:55:00-04:00"
+lastmod: "2018-04-10T12:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523297302011/sq---JB4A7198.jpg.jpg
+primary_image_credit: 'Out of Darkness: Two Remain, the Atlanta Opera, 2018. Photo
+  courtesy of The Atlanta Opera.'
+publishDate: "2018-04-09T14:18:00-04:00"
+related_articles:
+- articles/heggies-holocaust-operas-see-canadian-premiere.md
+- articles/meet-the-friends-their-seven-deadly-sins.md
+related_companies:
+- scene/companies/the-atlanta-opera.md
+related_people:
+- scene/people/elise-quagliata.md
+short_description: The second act follows the story of Gad Beck, performed by actor
+  Tom Key. Gad, an older man, is preparing for bed when the ghost of his lover, Manfred
+  Lewin, appears to remind Gad of the horrors, though Gad, who has held on to Manfred&#039;s
+  book of poetry and his picture, had spent years just trying to forget it.
+slug: perfect-for-its-time-heggie-double-bill-in-atlanta
+title: 'Out of Darkness: Two Remain is perfect for its time'
+---
 
 Jake Heggie has done it again. He took my heart and soul, reeled me in like a hungry fish on the line with promises of an emotional connection and beautiful music and then he stomped my heart into the ground and spit on it for good measure and, the entire time, I let him, thanked him for it, and would gladly do it again.
 

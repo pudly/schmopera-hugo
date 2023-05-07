@@ -1,15 +1,20 @@
-+++
-date = "2015-04-17T22:24:00-04:00"
-discipline = "Conductor"
-lastmod = "2015-04-18T10:29:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429367367182/Lange_Patrick-Foto_Hoffotografen.jpg.jpg"
-primary_image_credit = "Photo: Hoffotografen."
-publishDate = "2015-04-17T22:24:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md"]
-slug = "patrick-lange"
-title = "Patrick Lange"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2015-04-17T22:24:00-04:00"
+discipline: Conductor
+lastmod: "2015-04-18T10:29:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429367367182/Lange_Patrick-Foto_Hoffotografen.jpg.jpg
+primary_image_credit: 'Photo: Hoffotografen.'
+publishDate: "2015-04-17T22:24:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/royal-opera-house.md
+- scene/companies/glyndebourne.md
+slug: patrick-lange
+title: Patrick Lange
+---
 
 Born in 1981 near Nuremberg, Patrick Lange, since 2008/09 the conductor of the Comic Opera Berlin, is a promising talent in the generation of young conductors. He began his musical career in the boys choir the Regensburg ‘Domspatzen’.
 

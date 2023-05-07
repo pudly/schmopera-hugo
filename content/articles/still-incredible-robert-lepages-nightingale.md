@@ -1,18 +1,31 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2018-05-04T11:23:00-04:00"
-lastmod = "2018-05-04T11:38:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525447894320/sqDSC_8040-2.jpg.jpg"
-primary_image_credit = "Owen McCausland as the Fisherman in the Canadian Opera Company's production of The Nightingale and Other Short Fables, 2018. Photo: Gaetz Photography."
-publishDate = "2018-05-04T11:38:00-04:00"
-related_articles = ["articles/falstaff-he-saidshe-said.md","articles/in-review-siegfried.md","articles/touching-traditional-eugene-onegin-in-vancouver.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/owen-mccausland.md","scene/people/jane-archibald.md","scene/people/michael-uloth.md","scene/people/lauren-eberwein.md"]
-short_description = "Whenever you see the name Robert Lepage you can rest assured you are in for a visual treat. If you&#039;ve been paying any attention to the theatre world at large you&#039;ll know that Lepage is known for turning heads and making audiences sit up and take note - this production is no exception. "
-slug = "still-incredible-robert-lepages-nightingale"
-title = "&quot;Still incredible&quot;: Robert Lepage&#039;s Nightingale"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2018-05-04T11:23:00-04:00"
+lastmod: "2018-05-04T11:38:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525447894320/sqDSC_8040-2.jpg.jpg
+primary_image_credit: 'Owen McCausland as the Fisherman in the Canadian Opera Company''s
+  production of The Nightingale and Other Short Fables, 2018. Photo: Gaetz Photography.'
+publishDate: "2018-05-04T11:38:00-04:00"
+related_articles:
+- articles/falstaff-he-saidshe-said.md
+- articles/in-review-siegfried.md
+- articles/touching-traditional-eugene-onegin-in-vancouver.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/owen-mccausland.md
+- scene/people/jane-archibald.md
+- scene/people/michael-uloth.md
+- scene/people/lauren-eberwein.md
+short_description: 'Whenever you see the name Robert Lepage you can rest assured you
+  are in for a visual treat. If you&#039;ve been paying any attention to the theatre
+  world at large you&#039;ll know that Lepage is known for turning heads and making
+  audiences sit up and take note - this production is no exception. '
+slug: still-incredible-robert-lepages-nightingale
+title: '&quot;Still incredible&quot;: Robert Lepage&#039;s Nightingale'
+---
 
 Whenever you see the name Robert Lepage you can rest assured you are in for a visual treat. If you've been paying any attention to the theatre world at large you'll know that Lepage is known for turning heads and making audiences sit up and take note - this production is no exception. 
 

@@ -1,19 +1,25 @@
-+++
-date = "2015-04-07T15:40:00-04:00"
-discipline = "Conductor, pianist"
-lastmod = "2015-04-07T15:40:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428435553345/Topher.jpg.jpg"
-publishDate = "2015-04-07T15:40:00-04:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/calgary-opera.md","scene/companies/opera-atelier.md","scene/companies/highlands-opera-studio.md"]
-slug = "christopher-mokrzewski"
-title = "Christopher Mokrzewski"
-website = "http://www.christophermokrzewski.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Tophski"
-_template = "people_single"
-+++
+---
+date: "2015-04-07T15:40:00-04:00"
+discipline: Conductor, pianist
+lastmod: "2015-04-07T15:40:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428435553345/Topher.jpg.jpg
+publishDate: "2015-04-07T15:40:00-04:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/calgary-opera.md
+- scene/companies/opera-atelier.md
+- scene/companies/highlands-opera-studio.md
+slug: christopher-mokrzewski
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Tophski
+title: Christopher Mokrzewski
+website: http://www.christophermokrzewski.com/
+---
 
 <p>
 	Conductor, pianist and vocal coach Christopher "Topher" Mokrzewski (pronounced <em>mok-SHEV-ski</em>) is a steadily rising figure in the worlds of Canadian opera, symphony and chamber music. He is Resident Conductor of Calgary Opera and Founding Music Director of Toronto's acclaimed indie opera company, Against the Grain Theatre. A graduate of the Canadian Opera Company Ensemble Studio, Mokrzewski has been described by music critic John Terauds as "one of those bright, eager, whip-smart young artists who could give even the most hardened cynic a jolt of optimism about the future of classical music and opera" and was named one of CBC Music's "Hot 30 Classical Musicians under 30" in 2013.

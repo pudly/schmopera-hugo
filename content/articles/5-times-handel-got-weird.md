@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-12-29T15:32:00-05:00"
-lastmod = "2015-12-30T16:02:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451438293948/Resized---ENO-Rodelinda-Christopher-Ainslie-Iestyn-Davies-c-Clive-Barda.jpg.jpg"
-primary_image_credit = "A scene from RIchard Jones' production of Rodelinda at ENO, 2014. Photo: Clive Barda/ENO"
-publishDate = "2015-12-30T10:19:00-05:00"
-related_articles = ["articles/4-weird-rehearsal-moments-from-the-piano-bench.md", "articles/if-opera-characters-went-to-the-opera.md", "articles/opera-lovers-their-unpopular-opinions.md", "articles/energy-boost-5-perky-patter-songs-.md"]
-short_description = "There&#039;s something about Handel&#039;s operas that seems to lend a particularly blank slate to directors. Some of the wackiest takes on opera by the most Regie of the &quot;concept&quot; directors happen in Baroque opera, and Handel&#039;s works get their fair share. That&#039;s not to say that none of these ideas work well, but they sure can be weird."
-slug = "5-times-handel-got-weird"
-title = "5 times Handel got weird"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-12-29T15:32:00-05:00"
+lastmod: "2015-12-30T16:02:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451438293948/Resized---ENO-Rodelinda-Christopher-Ainslie-Iestyn-Davies-c-Clive-Barda.jpg.jpg
+primary_image_credit: 'A scene from RIchard Jones'' production of Rodelinda at ENO,
+  2014. Photo: Clive Barda/ENO'
+publishDate: "2015-12-30T10:19:00-05:00"
+related_articles:
+- articles/4-weird-rehearsal-moments-from-the-piano-bench.md
+- articles/if-opera-characters-went-to-the-opera.md
+- articles/opera-lovers-their-unpopular-opinions.md
+- articles/energy-boost-5-perky-patter-songs-.md
+short_description: There&#039;s something about Handel&#039;s operas that seems to
+  lend a particularly blank slate to directors. Some of the wackiest takes on opera
+  by the most Regie of the &quot;concept&quot; directors happen in Baroque opera,
+  and Handel&#039;s works get their fair share. That&#039;s not to say that none of
+  these ideas work well, but they sure can be weird.
+slug: 5-times-handel-got-weird
+title: 5 times Handel got weird
+---
 There's something about Handel's operas that seems to lend a particularly blank slate to directors. Some of the wackiest takes on opera by the most _Regie_ of the "concept" directors happen in Baroque opera, and Handel's works get their fair share. That's not to say that none of these ideas work well, but they sure can be weird.
 
 Handel's music is nothing but layers of meaning; it's amazingly detailed, and at the same time, listeners can hear vastly different things. Those listeners include opera directors, a notoriously creative bunch, so anything can happen when it comes to onstage ideas: neon-light Handel, boobs-out-the-whole-show Handel, vaguely-Nazi-like Handel, even bald Handel.

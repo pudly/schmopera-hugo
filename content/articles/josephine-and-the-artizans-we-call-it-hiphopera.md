@@ -1,15 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-10-27T10:07:00-06:00"
-lastmod = "2017-06-25T15:31:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477947309628/2016-10-31---Artizans---Record-Union.jpg.jpg"
-publishDate = "2016-11-11T03:30:00-07:00"
-related_articles = ["articles/josephine-and-the-artizans-hiphopera-act-ii.md"]
-short_description = "The band is headed by Josephine Permaul, a classically-trained singer with a love for songwriting and genre fusion; her Artizans are rappers Jermaine Davidson and Michael Wordley, violinist Tanya Cracknell, cellist Marianne Hardisty, electric cellist Laura Dodds, keyboardist Thom Rowlands, and bassist/producer Debs Spanton."
-slug = "josephine-and-the-artizans-we-call-it-hiphopera"
-title = "Josephine and The Artizans: &quot;We call it hip-hopera.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-10-27T10:07:00-06:00"
+lastmod: "2017-06-25T15:31:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477947309628/2016-10-31---Artizans---Record-Union.jpg.jpg
+publishDate: "2016-11-11T03:30:00-07:00"
+related_articles:
+- articles/josephine-and-the-artizans-hiphopera-act-ii.md
+short_description: The band is headed by Josephine Permaul, a classically-trained
+  singer with a love for songwriting and genre fusion; her Artizans are rappers Jermaine
+  Davidson and Michael Wordley, violinist Tanya Cracknell, cellist Marianne Hardisty,
+  electric cellist Laura Dodds, keyboardist Thom Rowlands, and bassist/producer Debs
+  Spanton.
+slug: josephine-and-the-artizans-we-call-it-hiphopera
+title: 'Josephine and The Artizans: &quot;We call it hip-hopera.&quot;'
+---
 
 At first thought, the combination of hip-hop and opera seems less than obvious, but London-based hip-hopera band [Josephine and The Artizans](http://www.josephineandtheartizans.com/) are quickly turning audiences onto the idea.
 

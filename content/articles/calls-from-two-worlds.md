@@ -1,22 +1,29 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = 2022-11-15T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Regina Opera Company's production of [_The Telephone_ and _The Medium_](http://www.reginaopera.org/menotti.htm) is double-cast.  The performers described in this review return on November 20th."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1668565280/media/2022/11/sqTheTelephone_StevenPisano__09512_wxvlzj.jpg"
-primary_image_credit = "Chris Drago Fistonich as Ben in The Telephone, Regina Opera Company, 2022. Photo: Steven Pisano."
-related_articles = ["articles/no-explanation-needed.md", "articles/counterculture.md", "articles/two-different-servings-from-the-opera-fest-menu.md"]
-related_companies = []
-related_people = ["scene/people/chris-drago-fistonich.md"]
-short_description = "Both The Telephone and The Medium end with an unexpected turn and so the two operas result in a night of surprises."
-slug = "calls-from-two-worlds"
-title = "Calls From Two Worlds"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2022-11-15T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Regina Opera Company's production of [_The Telephone_ and _The Medium_](http://www.reginaopera.org/menotti.htm)
+  is double-cast.  The performers described in this review return on November 20th.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1668565280/media/2022/11/sqTheTelephone_StevenPisano__09512_wxvlzj.jpg
+primary_image_credit: 'Chris Drago Fistonich as Ben in The Telephone, Regina Opera
+  Company, 2022. Photo: Steven Pisano.'
+related_articles:
+- articles/no-explanation-needed.md
+- articles/counterculture.md
+- articles/two-different-servings-from-the-opera-fest-menu.md
+related_companies: []
+related_people:
+- scene/people/chris-drago-fistonich.md
+short_description: Both The Telephone and The Medium end with an unexpected turn and
+  so the two operas result in a night of surprises.
+slug: calls-from-two-worlds
+title: Calls From Two Worlds
+youtube_url: ""
+---
 Opera companies producing full productions post-pandemic are hard to find in New York outside of the Met at Lincoln Center. Many companies have gone dormant, so it's very good news to report that the [Regina Opera Company](http://www.reginaopera.org/) (now in its 53rd season) is still alive and singing.
 
 It's obvious from their choice of two short Menotti chamber operas (and the ultra-low budget production values of each) that the company has limited resources. However, as in the past, the singers and musicians are top tier.

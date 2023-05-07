@@ -1,18 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2018-10-25T23:35:00-04:00"
-lastmod = "2018-11-02T12:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540562072716/sq181023_40670.jpg.jpg"
-primary_image_credit = "Tyler Gledhill and Edwin Huizina in Inception, Opera Atelier, 2018. Photo: Bruce Zinger."
-publishDate = "2018-10-26T10:04:00-04:00"
-related_articles = ["articles/a-daring-desirous-doublebill-at-opera-atelier.md","articles/in-review-il-trittico-at-roh.md"]
-related_companies = ["scene/companies/opera-atelier.md"]
-related_people = ["scene/people/colin-ainsworth.md","scene/people/mireille-asselin.md","scene/people/meghan-lindsay.md","scene/people/allyson-mchardy.md"]
-short_description = "Thank goodness for one-act operas. They&#039;re like a shot of great espresso, or a single chocolate truffle - the kind of indulgence that&#039;s short-lived, but immediate and totally satisfying. Among all the lengthy, luxuriating opera we see - all the da capo arias and all the Wagner - compact one-acts like Actéon and Pygmalion allow even the most hardcore of opera fans to admit that their attention spans don&#039;t always like to be stretched so thin."
-slug = "feminism-confetti-ateliers-triplebill"
-title = "Feminism &amp; confetti: Atelier&#039;s triple-bill"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2018-10-25T23:35:00-04:00"
+lastmod: "2018-11-02T12:56:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540562072716/sq181023_40670.jpg.jpg
+primary_image_credit: 'Tyler Gledhill and Edwin Huizina in Inception, Opera Atelier,
+  2018. Photo: Bruce Zinger.'
+publishDate: "2018-10-26T10:04:00-04:00"
+related_articles:
+- articles/a-daring-desirous-doublebill-at-opera-atelier.md
+- articles/in-review-il-trittico-at-roh.md
+related_companies:
+- scene/companies/opera-atelier.md
+related_people:
+- scene/people/colin-ainsworth.md
+- scene/people/mireille-asselin.md
+- scene/people/meghan-lindsay.md
+- scene/people/allyson-mchardy.md
+short_description: Thank goodness for one-act operas. They&#039;re like a shot of
+  great espresso, or a single chocolate truffle - the kind of indulgence that&#039;s
+  short-lived, but immediate and totally satisfying. Among all the lengthy, luxuriating
+  opera we see - all the da capo arias and all the Wagner - compact one-acts like
+  Actéon and Pygmalion allow even the most hardcore of opera fans to admit that their
+  attention spans don&#039;t always like to be stretched so thin.
+slug: feminism-confetti-ateliers-triplebill
+title: 'Feminism &amp; confetti: Atelier&#039;s triple-bill'
+---
 
 Though the two short operas have been in [Opera Atelier](/scene/companies/opera-atelier/)'s repertory for nearly all of their 33 seasons, Charpentier's *Actéon* and Rameau's *Pygmalion* have been paired together for the first time in the current double-bill at the Elgin Theatre. And it's likely that I was among the many people in the audience who had never seen either opera before, period.
 

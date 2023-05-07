@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-07-13T11:24:00-04:00"
-lastmod = "2016-07-19T10:29:00-04:00"
-preamble = "We first met Montréal-based tenor [Pasquale d'Alessio](/scene/people/pasquale-dalessio/) at The Banff Centre in 2015, singing in *Crush*, a new opera by James Rolfe and Anna Chatterton. D'Alessio keeps busy as a singer, including an upcoming performance of the title role in *Faust* at Highlands Opera Studio in August, 2016. Offstage, he's a composer, and he's currently working on a new opera, *The Imaginings*. We asked d'Alessio about writing for singers, and combining fantasy with opera. \n\nYou can hear a sample of *The Imaginings* on [Soundcloud](https://soundcloud.com/modernfugues/the-imaginins-demosections)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468424654892/2016-07-13---Pasquale-Dalessio.jpg.jpg"
-publishDate = "2016-07-16T00:11:00-04:00"
-related_articles = ["articles/michael-christie-new-opera-that-the-box-office-loves.md","articles/elitism-irony-and-the-phantom-of-the-opera.md"]
-related_companies = ["scene/companies/stujess-productions.md"]
-related_people = ["scene/people/pasquale-dalessio.md"]
-short_description = "&quot;I&#039;ve been wanting to write an opera ever since I watched Amadeus. There has always been lingering ideas in my mind for a libretto. Using the paintings as characters came initially from Stu &amp; Jess productions commissioning me to adapt several poems into a song cycle based on classic paintings (Mona Lisa, Napoleon etc.); the initial poems had a humorous tone and sparked an idea.&quot;"
-slug = "new-works-the-imaginings"
-title = "New works: The Imaginings"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-07-13T11:24:00-04:00"
+lastmod: "2016-07-19T10:29:00-04:00"
+preamble: "We first met Montréal-based tenor [Pasquale d'Alessio](/scene/people/pasquale-dalessio/)
+  at The Banff Centre in 2015, singing in *Crush*, a new opera by James Rolfe and
+  Anna Chatterton. D'Alessio keeps busy as a singer, including an upcoming performance
+  of the title role in *Faust* at Highlands Opera Studio in August, 2016. Offstage,
+  he's a composer, and he's currently working on a new opera, *The Imaginings*. We
+  asked d'Alessio about writing for singers, and combining fantasy with opera. \n\nYou
+  can hear a sample of *The Imaginings* on [Soundcloud](https://soundcloud.com/modernfugues/the-imaginins-demosections)."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468424654892/2016-07-13---Pasquale-Dalessio.jpg.jpg
+publishDate: "2016-07-16T00:11:00-04:00"
+related_articles:
+- articles/michael-christie-new-opera-that-the-box-office-loves.md
+- articles/elitism-irony-and-the-phantom-of-the-opera.md
+related_companies:
+- scene/companies/stujess-productions.md
+related_people:
+- scene/people/pasquale-dalessio.md
+short_description: '&quot;I&#039;ve been wanting to write an opera ever since I watched
+  Amadeus. There has always been lingering ideas in my mind for a libretto. Using
+  the paintings as characters came initially from Stu &amp; Jess productions commissioning
+  me to adapt several poems into a song cycle based on classic paintings (Mona Lisa,
+  Napoleon etc.); the initial poems had a humorous tone and sparked an idea.&quot;'
+slug: new-works-the-imaginings
+title: 'New works: The Imaginings'
+---
 
 ## Where did the idea for the story of *The Imaginings* come from?
 

@@ -1,22 +1,29 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2021-10-24T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Enigma Chamber Opera's _Curlew River_ will be [available to stream](https://www.eventbrite.com/e/enigma-chamber-opera-presents-benjamin-brittens-curlew-river-tickets-180418415337) October 29-November 5."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1635101011/media/2021/10/sqEnigmaOpera_CurlewRiver_Matthew_DiBattista_and_Linus_Schafer_Goulthorpe_in_Enigma_Chamber_Opera_s_CURLEW_RIVER_Photo_by_Ashlee_Rose_Scott_gq2vjl.jpg"
-primary_image_credit = "Michael DiBattista as the Madwoman and Linus Schafer Goulthorpe as Spirit of the Boy in Enigma Chamber Opera's Curlew River, 2021. Photo: Ashlee Rose Scott."
-related_articles = ["articles/death-in-venice.md"]
-related_companies = []
-related_people = []
-short_description = "I chose my words very carefully when I call this Curlew River a transcendent experience: I am afraid I cannot fully explain the power that this particular production had and why it had that power, but I remember leaving the Cathedral Church of St. Paul feeling somewhat transformed by the experience. "
-slug = "enigma-operas-curlew-river-a-transcendent-experience"
-title = "Enigma Opera’s Curlew River a transcendent experience"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2021-10-24T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Enigma Chamber Opera's _Curlew River_ will be [available to stream](https://www.eventbrite.com/e/enigma-chamber-opera-presents-benjamin-brittens-curlew-river-tickets-180418415337)
+  October 29-November 5.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1635101011/media/2021/10/sqEnigmaOpera_CurlewRiver_Matthew_DiBattista_and_Linus_Schafer_Goulthorpe_in_Enigma_Chamber_Opera_s_CURLEW_RIVER_Photo_by_Ashlee_Rose_Scott_gq2vjl.jpg
+primary_image_credit: 'Michael DiBattista as the Madwoman and Linus Schafer Goulthorpe
+  as Spirit of the Boy in Enigma Chamber Opera''s Curlew River, 2021. Photo: Ashlee
+  Rose Scott.'
+related_articles:
+- articles/death-in-venice.md
+related_companies: []
+related_people: []
+short_description: 'I chose my words very carefully when I call this Curlew River
+  a transcendent experience: I am afraid I cannot fully explain the power that this
+  particular production had and why it had that power, but I remember leaving the
+  Cathedral Church of St. Paul feeling somewhat transformed by the experience. '
+slug: enigma-operas-curlew-river-a-transcendent-experience
+title: Enigma Opera’s Curlew River a transcendent experience
+youtube_url: ""
+---
 Whenever someone thinks of an opera, one of the first things that comes to mind is inevitably the scale of opera: typically, even at its most intimate it feels like it exists on a scale far grander than anything most people could ever put together. Thus, Benjamin Britten’' church operas present an interesting production challenge: what does a work specifically designed for performance in a church look like? And how does one convey anything like setting and such in a building with an immutable purpose?
 
 [Enigma Chamber Opera](https://www.facebook.com/enigmachamberopera/), a company formed just before the pandemic hit, sought to return to live performance with his _Curlew River_, and the answer they turned to was, for the most part, to play into a particular production conceit of the whole performance being a passion project more or less staged by poorer people, with the idea being that the production is a gift to us that the performers use to impart a message of "take comfort, things will get better". For my money, it was a production conceit that worked quite well on the whole, because it felt very integrated into the church setting.

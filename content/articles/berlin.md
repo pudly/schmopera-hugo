@@ -1,22 +1,28 @@
-+++
-author = ["authors/sam-darling.md"]
-categories = "Review"
-date = 2020-01-25T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "[_BERLIN: The Last Cabaret_](https://cityoperavancouver.com/) runs Jan. 23-26 at Performance Works in Vancouver."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1579967701/media/2020/01/sqCityOperaVancouver_Berlinsmall2_yv34vo.jpg"
-primary_image_credit = "Meaghan Chenosky. Photo: Diamond's Edge Photography."
-related_articles = ["articles/vergesst-uns-nicht-adi-braun-on-weimar-cabaret.md", "articles/berlin-the-last-cabaret.md"]
-related_companies = []
-related_people = []
-short_description = "With the world premiere nature of this show and the resurrection of some of this music, it should come as no surprise that the songs disappeared from our cultural lexicon because they’re not musically memorable. I kept waiting for a showstopper, but none were forthcoming"
-slug = "a-vital-and-contemporary-evening-in-berlin-the-last-cabaret"
-title = "A \"vital and contemporary\" evening in BERLIN: The Last Cabaret"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/sam-darling.md
+categories: Review
+date: "2020-01-25T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: '[_BERLIN: The Last Cabaret_](https://cityoperavancouver.com/) runs Jan.
+  23-26 at Performance Works in Vancouver.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1579967701/media/2020/01/sqCityOperaVancouver_Berlinsmall2_yv34vo.jpg
+primary_image_credit: 'Meaghan Chenosky. Photo: Diamond''s Edge Photography.'
+related_articles:
+- articles/vergesst-uns-nicht-adi-braun-on-weimar-cabaret.md
+- articles/berlin-the-last-cabaret.md
+related_companies: []
+related_people: []
+short_description: With the world premiere nature of this show and the resurrection
+  of some of this music, it should come as no surprise that the songs disappeared
+  from our cultural lexicon because they’re not musically memorable. I kept waiting
+  for a showstopper, but none were forthcoming
+slug: a-vital-and-contemporary-evening-in-berlin-the-last-cabaret
+title: 'A "vital and contemporary" evening in BERLIN: The Last Cabaret'
+youtube_url: ""
+---
 In a show that is heartbreakingly relevant and contemporary in its themes and anxiety, City Opera Vancouver presents the world premiere of the political satire, _BERLIN: The Last Cabaret_ from January 23–26, 2020, at Performance Works (sold out). Set in Nazi Germany on July 13, 1934, the biting satire of resurrected Weimar-era music set to English lyrics plumbs dark humor, to remind us to celebrate our freedom especially when it is in danger of being yanked away.
 
 Directed and co-created by Alan Corbishley and Joanna Garfinkel (dramaturg) in association with Sound the Alarm: Music/Theatre, and presented with the PuSh International Performing Arts Festival, a cabaret troupe tatters and falls apart before our eyes as Nazism swells outside the café doors. A group of six stalwarts, barely persevering to put on a show for us as their unseen sixth member, "Tommy", has disappeared, the five that remain have to decide whether to quit in fear or perform their work.

@@ -1,15 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-03-30T12:02:00+01:00"
-lastmod = "2017-04-04T17:47:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491233651140/2017-04-04---Repetiteur.jpg.jpg"
-publishDate = "2017-04-04T12:11:00+01:00"
-related_articles = ["articles/star-repetiteur-there-is-such-a-thing.md","articles/how-to-lead-your-pianist.md","articles/the-pianists-tech-week-plight.md"]
-short_description = "Centuries ago, the piano could act as a self-contained, portable element that encompassed the sound world of an orchestra; the role of the répétiteur has evolved organically out of this practice, and most rehearsal pianists are valuable assistants to conductors and liaisons for singers. Now, composers are now working with a sound spectrum that is larger than a piano can represent; to use a piano in rehearsal no longer achieves the goal of re-creating what the singers will hear when the &quot;real orchestra&quot; shows up."
-slug = "new-opera-repetiteur"
-title = "Is new opera putting the répétiteur out of a job?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-03-30T12:02:00+01:00"
+lastmod: "2017-04-04T17:47:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491233651140/2017-04-04---Repetiteur.jpg.jpg
+publishDate: "2017-04-04T12:11:00+01:00"
+related_articles:
+- articles/star-repetiteur-there-is-such-a-thing.md
+- articles/how-to-lead-your-pianist.md
+- articles/the-pianists-tech-week-plight.md
+short_description: Centuries ago, the piano could act as a self-contained, portable
+  element that encompassed the sound world of an orchestra; the role of the répétiteur
+  has evolved organically out of this practice, and most rehearsal pianists are valuable
+  assistants to conductors and liaisons for singers. Now, composers are now working
+  with a sound spectrum that is larger than a piano can represent; to use a piano
+  in rehearsal no longer achieves the goal of re-creating what the singers will hear
+  when the &quot;real orchestra&quot; shows up.
+slug: new-opera-repetiteur
+title: Is new opera putting the répétiteur out of a job?
+---
 
 Terrifying question for you: is new opera putting rehearsal pianists out of a job?
 

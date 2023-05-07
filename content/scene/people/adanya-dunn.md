@@ -1,24 +1,24 @@
-+++
-date = "2015-04-06T18:22:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-03-15T11:02:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1594146592/media/2020/07/Adanya_Dunn_Headshot_new_crop_s028nd.jpg"
-publishDate = "2015-04-06T18:22:00+01:00"
-related_companies = ["scene/companies/fawn-chamber-creative.md", "scene/companies/university-of-toronto-opera.md"]
-slug = "adanya-dunn"
-title = "Adanya Dunn"
-website = "http://www.adanyadunn.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/addydear"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/adanyadunn/"
-
-_template = "people_single"
-+++
+---
+date: "2015-04-06T18:22:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2017-03-15T11:02:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1594146592/media/2020/07/Adanya_Dunn_Headshot_new_crop_s028nd.jpg
+publishDate: "2015-04-06T18:22:00+01:00"
+related_companies:
+- scene/companies/fawn-chamber-creative.md
+- scene/companies/university-of-toronto-opera.md
+slug: adanya-dunn
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/addydear
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/adanyadunn/
+title: Adanya Dunn
+website: http://www.adanyadunn.com/
+---
 Canadian-Bulgarian lyric mezzo-soprano Adanya Dunn was named by the CBC as one of Canada’s “Top 30 Hot Classical Musicians Under 30” and was featured in _The Globe & Mail_ as one of six Canadian women who are “turning opera on its head and making the future bright for the art form”.
 
 A versatile performer, her 2019/20 season included highlights Mozart’s _Così fan tutte_ as Dorabella with the Bergen Symphony Orkest, Berio’s _Sequenza III_ at Belgium’s Festival 20/21 with the New European Ensemble, and various concerts in Amsterdam’s Dutch National Opera and Het Concertgebouw.

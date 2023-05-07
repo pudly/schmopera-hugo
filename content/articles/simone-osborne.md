@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-09-15T12:59:00-04:00"
-lastmod = "2017-09-25T23:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494538889/2017-09-15---Square---osborne4.jpg.jpg"
-primary_image_credit = "Photo: Bo Huang."
-publishDate = "2017-09-25T22:57:00-04:00"
-related_articles = ["articles/spotlight-on-amanda-majeski.md","articles/talking-with-singers-jamie-barton.md","articles/talking-with-singers-brenda-rae.md","articles/james-robinson-elixir.md","articles/he-saidshe-said-a-sweet-elixir-at-the-coc.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
-related_people = ["scene/people/simone-osborne.md","scene/people/gordon-bintner.md","scene/people/andrew-haji.md"]
-short_description = "&quot;For the first couple of seasons that I came back I still very much felt like I had to prove myself,&quot; says Osborne of returning to what she considers her home company. She admits to feeling pressure to bring consistently great performances to the COC, where the standard of artistry is high and the audiences are in-the-know. &quot;It&#039;s probably the pressure I put on myself.&quot;"
-slug = "simone-osborne"
-title = "Talking with singers: Simone Osborne"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-09-15T12:59:00-04:00"
+lastmod: "2017-09-25T23:09:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494538889/2017-09-15---Square---osborne4.jpg.jpg
+primary_image_credit: 'Photo: Bo Huang.'
+publishDate: "2017-09-25T22:57:00-04:00"
+related_articles:
+- articles/spotlight-on-amanda-majeski.md
+- articles/talking-with-singers-jamie-barton.md
+- articles/talking-with-singers-brenda-rae.md
+- articles/james-robinson-elixir.md
+- articles/he-saidshe-said-a-sweet-elixir-at-the-coc.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+related_people:
+- scene/people/simone-osborne.md
+- scene/people/gordon-bintner.md
+- scene/people/andrew-haji.md
+short_description: '&quot;For the first couple of seasons that I came back I still
+  very much felt like I had to prove myself,&quot; says Osborne of returning to what
+  she considers her home company. She admits to feeling pressure to bring consistently
+  great performances to the COC, where the standard of artistry is high and the audiences
+  are in-the-know. &quot;It&#039;s probably the pressure I put on myself.&quot;'
+slug: simone-osborne
+title: 'Talking with singers: Simone Osborne'
+---
 
 "I had a conversation with Jim Robinson, our director," says soprano [Simone Osborne](/scene/people/simone-osborne/) about her early days in rehearsal for [*The Elixir of Love* at the Canadian Opera Company](http://coc.ca/PerformancesAndTickets/1718Season/ElixirofLove.aspx). "I said to him, 'full disclosure, I really don't love it when Adina is played as a mean girl.'"
 

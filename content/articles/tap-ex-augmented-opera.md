@@ -1,24 +1,33 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2019-11-21T05:00:00+00:00"
-discipline = ""
-disclaimer = ""
-postamble = "[_TAP:EX Augmented Opera_](https://tapestryopera.com/tapex-augmented-opera/) plays at Sidewalk Labs until the 23rd."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574387625/media/2019/11/sqTapExAugmented-stills-photobyDahliaKatz-5959_dcq5jg.jpg"
-primary_image_credit = "TAP:EX Augmented Opera, Tapestry Opera, 2019. Photo: Dahlia Katz."
-related_articles = ["articles/in-review-bandits-in-the-valley.md", "articles/he-saidshe-said-tapex-metallurgy.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/lyndsay-promane.md", "scene/people/vanessa-oudereimerink.md", "scene/people/lauren-segal.md"]
-short_description = "As opera, and theatre in general, is forever evolving with the times, it's quite exciting to see new, cutting-edge approaches being used so successfully."
-slug = "tapex-augmented-opera-lives-up-to-its-name"
-social_media = []
-title = "TAP:EX Augmented Opera lives up to its name"
-website = ""
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2019-11-21T05:00:00+00:00"
+discipline: ""
+disclaimer: ""
+postamble: '[_TAP:EX Augmented Opera_](https://tapestryopera.com/tapex-augmented-opera/)
+  plays at Sidewalk Labs until the 23rd.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1574387625/media/2019/11/sqTapExAugmented-stills-photobyDahliaKatz-5959_dcq5jg.jpg
+primary_image_credit: 'TAP:EX Augmented Opera, Tapestry Opera, 2019. Photo: Dahlia
+  Katz.'
+related_articles:
+- articles/in-review-bandits-in-the-valley.md
+- articles/he-saidshe-said-tapex-metallurgy.md
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/lyndsay-promane.md
+- scene/people/vanessa-oudereimerink.md
+- scene/people/lauren-segal.md
+short_description: As opera, and theatre in general, is forever evolving with the
+  times, it's quite exciting to see new, cutting-edge approaches being used so successfully.
+slug: tapex-augmented-opera-lives-up-to-its-name
+social_media: []
+title: TAP:EX Augmented Opera lives up to its name
+website: ""
+youtube_url: ""
+---
 From the pianoforte to the iPod, the music world is constantly changing, and now we're staring down the barrel of the next great leap in technology. Augmented and virtual reality appear to be that next step. Both have been in the news quite a bit over the past few years - and rightly so. Augmented reality became a household term when a little app called Pokémon Go hit the market, and now we're seeing more and more people springing for their own VR headset for use at home. Every time there is a leap in technology, our entertainment changes.
 
 Tapestry Opera, Canada's leading presenter of strictly contemporary opera works, kicked off their 40th anniversary season with the latest instalment of _TAP:EX_. _TAP:EX Augmented Opera_ is a study of human memory explored through both AR and VR.

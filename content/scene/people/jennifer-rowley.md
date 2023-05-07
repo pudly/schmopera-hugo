@@ -1,25 +1,28 @@
-+++
-date = "2017-09-27T17:00:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-09-27T17:04:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546110056/media/2018/12/JenniferRowley.jpg"
-primary_image_credit = "Matthew Holler Photography"
-publishDate = "2017-09-27T17:03:00-04:00"
-related_companies = ["scene/companies/nashville-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/semperoper-dresden.md", "scene/companies/the-dallas-opera.md"]
-slug = "jennifer-rowley"
-title = "Jennifer Rowley"
-website = "http://jenniferrowley.com/index.asp"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Jennifer-Rowley-Fan-Page/237140069692"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/larowley1"
-
-_template = "people_single"
-+++
+---
+date: "2017-09-27T17:00:00-04:00"
+discipline: Soprano
+lastmod: "2017-09-27T17:04:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546110056/media/2018/12/JenniferRowley.jpg
+primary_image_credit: Matthew Holler Photography
+publishDate: "2017-09-27T17:03:00-04:00"
+related_companies:
+- scene/companies/nashville-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/semperoper-dresden.md
+- scene/companies/the-dallas-opera.md
+slug: jennifer-rowley
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Jennifer-Rowley-Fan-Page/237140069692
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/larowley1
+title: Jennifer Rowley
+website: http://jenniferrowley.com/index.asp
+---
 Soprano Jennifer Rowley’s triumphant Metropolitan Opera role début as Roxane in Alfano's *Cyrano de Bergerac* inspired universal critical praise, with *The New York Times* raving that this was a "break-through moment," further adding that for the heartbreaking final scene, "Ms. Rowley sang with an intensity of expression and a subtly embittered sound that suggested a singer for enormous gift and promise." *The New York Classical Review* echoed these statements, also calling this "a break out night for Ms. Rowley." *OperaWire* called her Roxane "the heart of the production," *The Observer* said she is "a supurb artist" and compared her beauty and expressive face to that of Marion Cotillard, while *ConcertoNet* called her Roxane "a revelation." Past Metropolitan Opera performances included her incredible house début as Musetta in *La bohème*, and in their productions of *Otello* and *Guillaume Tell*.
 
 This season, Rowley returns to The Metropolitan Opera to sing the title role in *Tosca* following her performance of the same role with Nashville Opera, participates in The Metropolitan Opera’s productions of *Il trovatore* and *Luisa Miller*, will perform John Rutter's *Requiem* with First United Methodist Church and sings the title role in Simon Mayr's rarely performed work *Medea* in Corinto at Will Crutchfield’s newly formed Teatro Nuovo. In future seasons, Ms. Rowley returns to The Metropolitan Opera for several engagements through 2020, makes a début at Dallas Opera, and makes role débuts as the title role in *Adriana Lecouvreur*, and Amelia in *Un ballo in Maschera*.

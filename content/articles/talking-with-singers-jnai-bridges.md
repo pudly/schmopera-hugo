@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-01-09T11:37:00+00:00"
-lastmod = "2017-01-10T10:35:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483965173589/2017-01-09---Bridges---S-Richards.jpg.jpg"
-primary_image_credit = "Photo by S. Richards Photography"
-publishDate = "2017-01-10T10:13:00+00:00"
-related_articles = ["articles/talking-with-singers-christine-goerke.md","articles/talking-with-singers-jorell-williams.md","articles/talking-with-singers-marina-rebeka.md","articles/in-review-dead-man-walking-at-miami-music-festival.md","articles/dead-man-walking-makes-its-minnesota-opera-debut.md","articles/a-test-of-endurance-satyagraha-at-eno.md","articles/talking-with-singers-john-holiday.md"]
-related_companies = ["scene/companies/los-angeles-opera.md"]
-related_people = ["scene/people/jnai-bridges.md"]
-short_description = "&quot;With track, she explains, &#039;you&#039;re competing against people, but really what you&#039;re trying to do is get your best time.&#039; Playing basketball as part of a team, &#039;you really have to be an integral part of the team that you&#039;re on,&#039; Bridges says. &#039;You have to be a player.&#039;&quot;"
-slug = "talking-with-singers-jnai-bridges"
-title = "Talking with singers: J&#039;Nai Bridges"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-01-09T11:37:00+00:00"
+lastmod: "2017-01-10T10:35:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483965173589/2017-01-09---Bridges---S-Richards.jpg.jpg
+primary_image_credit: Photo by S. Richards Photography
+publishDate: "2017-01-10T10:13:00+00:00"
+related_articles:
+- articles/talking-with-singers-christine-goerke.md
+- articles/talking-with-singers-jorell-williams.md
+- articles/talking-with-singers-marina-rebeka.md
+- articles/in-review-dead-man-walking-at-miami-music-festival.md
+- articles/dead-man-walking-makes-its-minnesota-opera-debut.md
+- articles/a-test-of-endurance-satyagraha-at-eno.md
+- articles/talking-with-singers-john-holiday.md
+related_companies:
+- scene/companies/los-angeles-opera.md
+related_people:
+- scene/people/jnai-bridges.md
+short_description: '&quot;With track, she explains, &#039;you&#039;re competing against
+  people, but really what you&#039;re trying to do is get your best time.&#039; Playing
+  basketball as part of a team, &#039;you really have to be an integral part of the
+  team that you&#039;re on,&#039; Bridges says. &#039;You have to be a player.&#039;&quot;'
+slug: talking-with-singers-jnai-bridges
+title: 'Talking with singers: J&#039;Nai Bridges'
+---
 
 "We're very sensitive beings," says American mezzo-soprano J'Nai Bridges of living the life of a singer. "We're being criticised all the time, and that's just the nature of the job." It's a mountainous task to develop the vocal technique needed to survive as an opera singer; it's another thing entirely to develop the thick skin that keeps a singer sane and healthy within a career that can depend on the opinions of others. "Inherently, whether we want to admit or not, we think about what people think of us," says Bridges, sympathising with singers who suffer from nerves and self-doubt onstage. "It's just natural, I think." 
 

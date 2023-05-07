@@ -1,22 +1,24 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2019-09-16T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Stay in the loop with Journey North Opera by following them on [Facebook](https://www.facebook.com/JourneyNorthOperaCo) and [Instagram](https://www.instagram.com/journeynorthopera/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1568688430/media/2019/09/sqOperaTease_ahpnqn.jpg"
-primary_image_credit = "OperaTease, Journey North Opera, 2019. Photo: Sara Erdman."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "I longed for more of this full integration of the two art forms, the burlesque and opera were truly crossing paths in this entertaining act. "
-slug = "burlesque-meets-opera-operatease"
-title = "Burlesque meets opera: OperaTease"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2019-09-16T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Stay in the loop with Journey North Opera by following them on [Facebook](https://www.facebook.com/JourneyNorthOperaCo)
+  and [Instagram](https://www.instagram.com/journeynorthopera/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1568688430/media/2019/09/sqOperaTease_ahpnqn.jpg
+primary_image_credit: 'OperaTease, Journey North Opera, 2019. Photo: Sara Erdman.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: 'I longed for more of this full integration of the two art forms,
+  the burlesque and opera were truly crossing paths in this entertaining act. '
+slug: burlesque-meets-opera-operatease
+title: 'Burlesque meets opera: OperaTease'
+youtube_url: ""
+---
 On Saturday evening, the Twin Cities newest opera company, Journey North Opera , had their second _OperaTease_ cabaret night. The show was held at the Minnsky Theater in Northeast Minneapolis, a theater/pole dancing fitness studio dedicated to the art of neo-burlesque and continuing the vaudeville tradition. The emcees for the night were JNO Artistic Director Colleen Meier, and comedian TifDynamite.
 
 <figure data-type="image">

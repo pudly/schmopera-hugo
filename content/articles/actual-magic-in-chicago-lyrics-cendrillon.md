@@ -1,17 +1,27 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Review"
-date = "2018-12-04T13:01:00-05:00"
-lastmod = "2018-12-04T13:20:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543946076500/sqAliceCoote_SiobhanStagg_CENDRILLON_LyricOperaofChicago_CamB-77_c.jpg.jpg"
-primary_image_credit = "Alice Coote and Siobhan Stagg in Cendrillon, Lyric Opera of Chicago, 2018. Photo: Lyric Opera of Chicago."
-publishDate = "2018-12-04T13:20:00-05:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/alice-coote.md","scene/people/siobhan-stagg.md"]
-short_description = "At this point, Alice Coote is virtually synonymous with this production of Cendrillon, having sung the role of Prince Charming in London, Barcelona, and New York in recent seasons. She brings a beautiful, rich tone and an affable touch to Prince Charming&#039;s moping. Stagg and Coote&#039;s duets are especially rapturous, with their beautifully-matched instruments making Act III&#039;s long-anticipated reunion all the more sublime."
-slug = "actual-magic-in-chicago-lyrics-cendrillon"
-title = "Actual magic in Chicago Lyric&#039;s Cendrillon"
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Review
+date: "2018-12-04T13:01:00-05:00"
+lastmod: "2018-12-04T13:20:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543946076500/sqAliceCoote_SiobhanStagg_CENDRILLON_LyricOperaofChicago_CamB-77_c.jpg.jpg
+primary_image_credit: 'Alice Coote and Siobhan Stagg in Cendrillon, Lyric Opera of
+  Chicago, 2018. Photo: Lyric Opera of Chicago.'
+publishDate: "2018-12-04T13:20:00-05:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/alice-coote.md
+- scene/people/siobhan-stagg.md
+short_description: At this point, Alice Coote is virtually synonymous with this production
+  of Cendrillon, having sung the role of Prince Charming in London, Barcelona, and
+  New York in recent seasons. She brings a beautiful, rich tone and an affable touch
+  to Prince Charming&#039;s moping. Stagg and Coote&#039;s duets are especially rapturous,
+  with their beautifully-matched instruments making Act III&#039;s long-anticipated
+  reunion all the more sublime.
+slug: actual-magic-in-chicago-lyrics-cendrillon
+title: Actual magic in Chicago Lyric&#039;s Cendrillon
+---
 
 Sandwiched between performances of the very serious [(and very good) *Il trovatore*](/history-making-cast-in-chicagos-il-trovatore/), Massenet's [*Cendrillon*](https://www.lyricopera.org/concertstickets/calendar/2018-2019/cendrillon-opera-tickets) is a much-needed counterweight to the Lyric Opera of Chicago's rather drama-packed 2018-2019 season.
 

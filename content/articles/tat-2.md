@@ -1,22 +1,28 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-08-08T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "The 2019 [Tête-à-Tête: The Opera Festival](https://www.tete-a-tete.org.uk/festival-calendar-at-a-glance-2018/) line-up continues through 10 August."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1565309721/media/2019/08/sqTAT2_ewkolp.jpg"
-primary_image_credit = "Of Body and Ghost, Tête à Tête: The Opera Festival, 2019. Photo: Claire Shovelton."
-related_articles = ["articles/tat.md"]
-related_companies = ["scene/companies/tete-a-tete.md"]
-related_people = []
-short_description = "What I like about The Tete-a-Tete Opera Festival is that it is always a mixed bag. It is an incredibly liberating thing to watch so many creative performers and theatre-makers experiment with the limitations of the form."
-slug = "a-freshly-mixed-bag-at-tete-a-tetes-opera-festival"
-title = "A freshly mixed bag at Tête-à-Tête's Opera Festival"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-08-08T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: 'The 2019 [Tête-à-Tête: The Opera Festival](https://www.tete-a-tete.org.uk/festival-calendar-at-a-glance-2018/)
+  line-up continues through 10 August.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1565309721/media/2019/08/sqTAT2_ewkolp.jpg
+primary_image_credit: 'Of Body and Ghost, Tête à Tête: The Opera Festival, 2019. Photo:
+  Claire Shovelton.'
+related_articles:
+- articles/tat.md
+related_companies:
+- scene/companies/tete-a-tete.md
+related_people: []
+short_description: What I like about The Tete-a-Tete Opera Festival is that it is
+  always a mixed bag. It is an incredibly liberating thing to watch so many creative
+  performers and theatre-makers experiment with the limitations of the form.
+slug: a-freshly-mixed-bag-at-tete-a-tetes-opera-festival
+title: A freshly mixed bag at Tête-à-Tête's Opera Festival
+youtube_url: ""
+---
 Two contrasting performances were presented in this back-to-back evening of theatre. First up was _Of Body and Ghost_; a dance-theatre-opera collaboration between composer/musician Kris Apple, writer/dramaturg Roswitha Gerlitz and director/choreographer Yolande Snaith that investigated the aging body through sound, movement, and storytelling.
 
 >With a single singer, violin, and electronics, they were able to create a sound that felt infinite.

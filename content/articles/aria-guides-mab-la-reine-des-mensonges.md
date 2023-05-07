@@ -1,22 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = 2020-08-18T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = "Hope you've had your coffee! This is Mercutio's aria from Act I of Gounod's _Roméo et Juliette_, based on Shakespeare's famous tragedy. This aria is a ballad to [Queen Mab](https://en.wikipedia.org/wiki/Queen_Mab), a mysterious fairy creature that gets into one's dreams; it's a breathless bit of excitement that sets up Mercutio as Roméo's outgoing, affable friend, so when he meets his end later in the opera, the loss sinks in deeply. With your teacher and coach, this Aria Guide is designed to help you dodge traps and stay breathing:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1592336238/media/2020/06/sqAriaGuide-Mab_daruom.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "This aria is a ballad to Queen Mab, a mysterious fairy creature that gets into one's dreams; it's a breathless bit of excitement that sets up Mercutio as Roméo's outgoing, affable friend, so when he meets his end later in the opera, the loss sinks in deeply."
-slug = "aria-guides-mab-la-reine-des-mensonges"
-title = "Aria guides: Mab, la reine des mensonges"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2020-08-18T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: 'Hope you''ve had your coffee! This is Mercutio''s aria from Act I of Gounod''s
+  _Roméo et Juliette_, based on Shakespeare''s famous tragedy. This aria is a ballad
+  to [Queen Mab](https://en.wikipedia.org/wiki/Queen_Mab), a mysterious fairy creature
+  that gets into one''s dreams; it''s a breathless bit of excitement that sets up
+  Mercutio as Roméo''s outgoing, affable friend, so when he meets his end later in
+  the opera, the loss sinks in deeply. With your teacher and coach, this Aria Guide
+  is designed to help you dodge traps and stay breathing:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1592336238/media/2020/06/sqAriaGuide-Mab_daruom.jpg
+primary_image_credit: ""
+related_articles: []
+related_companies: []
+related_people: []
+short_description: This aria is a ballad to Queen Mab, a mysterious fairy creature
+  that gets into one's dreams; it's a breathless bit of excitement that sets up Mercutio
+  as Roméo's outgoing, affable friend, so when he meets his end later in the opera,
+  the loss sinks in deeply.
+slug: aria-guides-mab-la-reine-des-mensonges
+title: 'Aria guides: Mab, la reine des mensonges'
+youtube_url: ""
+---
 <figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1590605313/media/2020/05/AriaGuide-Mab-p1-annotated_dt52qh.jpg)

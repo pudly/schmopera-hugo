@@ -1,19 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-03-15T16:56:00+00:00"
-lastmod = "2016-03-16T10:16:00+00:00"
-preamble = "Next month, Canadian soprano [Meghan Lindsay](/scene/people/meghan-lindsay/) is heading back to a familiar stage: Toronto's Elgin Theatre, where [Opera Atelier](/scene/companies/opera-atelier/) houses its productions of early opera. Their upcoming production of [Mozart's *Lucio Silla*](http://operaatelier.com/season/15-16-season/lucio-silla-apr-7-16-2016/) comes to Canada for the first time, after going up at the [Salzburg Festival](/scene/companies/salzburg-festival/) and [Teatro alla Scala](/scene/companies/teatro-alla-scala/). With Kresimir Spicer in the title role, and stellar sopranos [Mireille Asselin](/scene/people/mireille-asselin/) and [Peggy Kriha Dye](/scene/people/peggy-kriha-dye/), Lindsay takes on Giunia, a role that's full of \"lots of high notes, lots of coloratura!\"\n\nWe chat with Lindsay about singing old operas, pre-performance yoga, and \"finding value between contracts.\""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458062919957/2016-03-12---Meghan-Lindsay.jpg.jpg"
-primary_image_credit = "Photo by Jennifer Toole."
-publishDate = "2016-03-16T08:00:00+00:00"
-related_articles = ["articles/he-saidshe-said-alcina-at-opera-atelier.md","articles/mireille-asselins-phone-call-from-the-met.md"]
-related_companies = ["scene/companies/opera-atelier.md"]
-related_people = ["scene/people/meghan-lindsay.md","scene/people/peggy-kriha-dye.md","scene/people/mireille-asselin.md"]
-short_description = "&quot;To me, the most rewarding thing about a singing career is the relationships you form. I love the fact that music is another language that we can explore and play with. I really enjoy practicing and find that part of the process very gratifying. There&#039;s something very meditative in doing something every day and knowing that each day, there are going to be different challenges and changes to my situation, in my voice, in my interactions.&quot;"
-slug = "talking-with-singers-meghan-lindsay"
-title = "Talking with singers: Meghan Lindsay"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-03-15T16:56:00+00:00"
+lastmod: "2016-03-16T10:16:00+00:00"
+preamble: |-
+  Next month, Canadian soprano [Meghan Lindsay](/scene/people/meghan-lindsay/) is heading back to a familiar stage: Toronto's Elgin Theatre, where [Opera Atelier](/scene/companies/opera-atelier/) houses its productions of early opera. Their upcoming production of [Mozart's *Lucio Silla*](http://operaatelier.com/season/15-16-season/lucio-silla-apr-7-16-2016/) comes to Canada for the first time, after going up at the [Salzburg Festival](/scene/companies/salzburg-festival/) and [Teatro alla Scala](/scene/companies/teatro-alla-scala/). With Kresimir Spicer in the title role, and stellar sopranos [Mireille Asselin](/scene/people/mireille-asselin/) and [Peggy Kriha Dye](/scene/people/peggy-kriha-dye/), Lindsay takes on Giunia, a role that's full of "lots of high notes, lots of coloratura!"
+
+  We chat with Lindsay about singing old operas, pre-performance yoga, and "finding value between contracts."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458062919957/2016-03-12---Meghan-Lindsay.jpg.jpg
+primary_image_credit: Photo by Jennifer Toole.
+publishDate: "2016-03-16T08:00:00+00:00"
+related_articles:
+- articles/he-saidshe-said-alcina-at-opera-atelier.md
+- articles/mireille-asselins-phone-call-from-the-met.md
+related_companies:
+- scene/companies/opera-atelier.md
+related_people:
+- scene/people/meghan-lindsay.md
+- scene/people/peggy-kriha-dye.md
+- scene/people/mireille-asselin.md
+short_description: '&quot;To me, the most rewarding thing about a singing career is
+  the relationships you form. I love the fact that music is another language that
+  we can explore and play with. I really enjoy practicing and find that part of the
+  process very gratifying. There&#039;s something very meditative in doing something
+  every day and knowing that each day, there are going to be different challenges
+  and changes to my situation, in my voice, in my interactions.&quot;'
+slug: talking-with-singers-meghan-lindsay
+title: 'Talking with singers: Meghan Lindsay'
+---
 
 ## What kind of person is Giunia? What have you discovered about her in Mozart’s music?
 

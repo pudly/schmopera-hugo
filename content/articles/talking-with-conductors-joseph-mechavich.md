@@ -1,22 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-05-24T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "For more with Joseph Mechavich, follow him on [Facebook](https://www.facebook.com/Joseph-Mechavich-conductor-138355879677450) and [Twitter](https://twitter.com/mojoemech)."
-preamble = "Our chat with American conductor [Joseph Mechavich](/scene/people/joseph-mechavich/) was a refreshing one. With a career steeped in opera, new and old, the maestro is a sympathetic ally to the singers he conducts. Mechavich, fresh off Florida Grand Opera's production of [_Werther_](/a-dismal-opera-werther/), looks ahead to a season of contrasts: classics like _Carmen_ (Kentucky Opera) and _The Barber of Seville_ (Minnesota Opera), next to new American works like [_Everest_](https://austinopera.org/event/everest/) (Austin Opera) and [_Riders of the Purple Sage_](/new-operas-craig-bohmlers-riders-of-the-purple-sage/) (Arizona Opera).\n\nWe chat with Mechavich about rehearsal psychology, and his very favourite opera."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558890473/media/2019/05/sqMechavich2.jpg"
-primary_image_credit = ""
-related_articles = ["articles/gordon-gerrard-music-doesnt-really-work-without-breath.md", "articles/talking-with-conductors-carlo-rizzi.md"]
-related_companies = []
-related_people = ["scene/people/joseph-mechavic.md"]
-short_description = "\"It is essential that both the director and conductor celebrate the singer-actor and love the act of storytelling. The awesome feat of the singer producing their sound and getting that sound into the house should be respected.\""
-slug = "talking-with-conductors-joseph-mechavich"
-title = "Talking with conductors: Joseph Mechavich"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-05-24T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: For more with Joseph Mechavich, follow him on [Facebook](https://www.facebook.com/Joseph-Mechavich-conductor-138355879677450)
+  and [Twitter](https://twitter.com/mojoemech).
+preamble: |-
+  Our chat with American conductor [Joseph Mechavich](/scene/people/joseph-mechavich/) was a refreshing one. With a career steeped in opera, new and old, the maestro is a sympathetic ally to the singers he conducts. Mechavich, fresh off Florida Grand Opera's production of [_Werther_](/a-dismal-opera-werther/), looks ahead to a season of contrasts: classics like _Carmen_ (Kentucky Opera) and _The Barber of Seville_ (Minnesota Opera), next to new American works like [_Everest_](https://austinopera.org/event/everest/) (Austin Opera) and [_Riders of the Purple Sage_](/new-operas-craig-bohmlers-riders-of-the-purple-sage/) (Arizona Opera).
 
-+++
+  We chat with Mechavich about rehearsal psychology, and his very favourite opera.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1558890473/media/2019/05/sqMechavich2.jpg
+primary_image_credit: ""
+related_articles:
+- articles/gordon-gerrard-music-doesnt-really-work-without-breath.md
+- articles/talking-with-conductors-carlo-rizzi.md
+related_companies: []
+related_people:
+- scene/people/joseph-mechavic.md
+short_description: '"It is essential that both the director and conductor celebrate
+  the singer-actor and love the act of storytelling. The awesome feat of the singer
+  producing their sound and getting that sound into the house should be respected."'
+slug: talking-with-conductors-joseph-mechavich
+title: 'Talking with conductors: Joseph Mechavich'
+youtube_url: ""
+---
 ## When all is going well, what does it feel like to conduct an orchestra?
 
 There is an efficiency in my gesture when the pit and stage are synergistic. It becomes easy. We just breathe together. When it is going well, it reminds me of my favourite compliment, which I received from a friend who came to see me conduct for the first time, "I watched you during the prelude but once the action started I forgot you were there." It is not that the pit lays the soundtrack, but it is that everybody is committed to the drama on stage and to sharing that drama with the audience.

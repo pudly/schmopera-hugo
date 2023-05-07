@@ -1,33 +1,36 @@
-+++
-date = "2015-04-07T15:43:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-10-18T10:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1677441550/media/2023/02/DeSevigne_C_Nov2021-1_a89kvj.jpg"
-primary_image_credit = ""
-publishDate = "2015-04-07T15:43:00-04:00"
-related_companies = ["scene/companies/salzburg-festival.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/canadian-opera-company.md", "scene/companies/tapestry-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/opernhaus-zurich.md"]
-slug = "claire-de-sevigne"
-title = "Claire de Sévigné"
-website = "http://www.clairedesevigne.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Claire.de.Sevigne.Soprano/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ClairedeSevigne"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/clairedesevigne/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCFFIz8NbyNM-A1HYM4g6bxg"
-
-_template = "people_single"
-+++
+---
+date: "2015-04-07T15:43:00-04:00"
+discipline: Soprano
+lastmod: "2017-10-18T10:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1677441550/media/2023/02/DeSevigne_C_Nov2021-1_a89kvj.jpg
+primary_image_credit: ""
+publishDate: "2015-04-07T15:43:00-04:00"
+related_companies:
+- scene/companies/salzburg-festival.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/tapestry-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/opernhaus-zurich.md
+slug: claire-de-sevigne
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Claire.de.Sevigne.Soprano/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/ClairedeSevigne
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/clairedesevigne/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCFFIz8NbyNM-A1HYM4g6bxg
+title: Claire de Sévigné
+website: http://www.clairedesevigne.com/
+---
 Named one of CBC’s Top Young Canadian Classical Musicians, soprano Claire de Sévigné was recently nominated for a Classical Album of the Year JUNO award for her Naxos album of Vivaldi Cantatas with Kevin Mallon and the Aradia Ensemble. Recent successes have come with the Canadian Opera Company, Savonlinna Opera Festival, Opernhaus Zürich and Théâtre des Champs-Élysées as Blonde in _Die Entführung aus dem Serail,_ in which she was hailed for her “sparkling top notes and vocal brilliance, lightness and finesse”.
 
 The upcoming 2022/2023 season marks several role and house debuts for de Sévigné, including with Pacific Opera Victoria as the Nachtigall in their new production of Braunfel’s _Die Vögel_, and Opéra national de Montpellier as Erste Dame in Mozart’s _Die Zauberflöte._ To kick off the season, she appears in concert as Henriette in Halévy’s _L'Éclair_ with Grand Théâtre de Genève**.**

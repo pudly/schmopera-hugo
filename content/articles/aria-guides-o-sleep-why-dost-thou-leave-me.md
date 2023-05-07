@@ -1,18 +1,37 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-03-02T08:29:00-07:00"
-lastmod = "2017-06-20T22:46:00-06:00"
-postamble = "Have a request for our series of Aria Guides? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "Next up in our Aria Guides series: Handel. \"O sleep, why dost thou leave me?\", from his music drama/opera *Semele* is an understated stunner, a big departure from the rest of her note-littered, coloraturatastic arias. For young singers, it's a fantastic way of working on breath control, and singing in that \"not quite high enough\" register that many sopranos find difficult. Read on to find a few general guidelines to get you through this aria; along with your teachers and coaches, we can help keep things simple, and indulgent in the right ways.\n\n\\*Interesting little factoid: this aria is in E major, and in Handel's time, different keys had specific meanings. E major evokes joy, boisterousness, and a bright colour. It's worth noting that in Handel's *Giulio Cesare*, a few of Cleopatra's arias are in E major, including both \"Piangerò la sorte mia\" and \"Da tempeste il legno infranto\". There's more similarity between these two women than one may think. "
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553352754/media/2019/03/sqSleep.jpg"
-publishDate = "2016-03-03T05:12:00-07:00"
-related_articles = ["articles/aria-guides-deh-vieni-non-tardar.md", "articles/aria-guides-una-voce-poco-fa.md", "articles/aria-guides-quando-men-vo.md", "articles/aria-guides-ach-ich-fuhls.md"]
-short_description = "For young singers, it's a fantastic way of working on breath control, and singing in that \"not quite high enough\" register that many sopranos find difficult. Read on to find a few general guidelines to get you through this aria; along with your teachers and coaches, we can help keep things simple, and indulgent in the right ways."
-slug = "aria-guides-o-sleep-why-dost-thou-leave-me"
-title = "Aria guides: O sleep, why dost thou leave me?"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-03-02T08:29:00-07:00"
+lastmod: "2017-06-20T22:46:00-06:00"
+postamble: Have a request for our series of Aria Guides? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+preamble: "Next up in our Aria Guides series: Handel. \"O sleep, why dost thou leave
+  me?\", from his music drama/opera *Semele* is an understated stunner, a big departure
+  from the rest of her note-littered, coloraturatastic arias. For young singers, it's
+  a fantastic way of working on breath control, and singing in that \"not quite high
+  enough\" register that many sopranos find difficult. Read on to find a few general
+  guidelines to get you through this aria; along with your teachers and coaches, we
+  can help keep things simple, and indulgent in the right ways.\n\n\\*Interesting
+  little factoid: this aria is in E major, and in Handel's time, different keys had
+  specific meanings. E major evokes joy, boisterousness, and a bright colour. It's
+  worth noting that in Handel's *Giulio Cesare*, a few of Cleopatra's arias are in
+  E major, including both \"Piangerò la sorte mia\" and \"Da tempeste il legno infranto\".
+  There's more similarity between these two women than one may think. "
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553352754/media/2019/03/sqSleep.jpg
+publishDate: "2016-03-03T05:12:00-07:00"
+related_articles:
+- articles/aria-guides-deh-vieni-non-tardar.md
+- articles/aria-guides-una-voce-poco-fa.md
+- articles/aria-guides-quando-men-vo.md
+- articles/aria-guides-ach-ich-fuhls.md
+short_description: For young singers, it's a fantastic way of working on breath control,
+  and singing in that "not quite high enough" register that many sopranos find difficult.
+  Read on to find a few general guidelines to get you through this aria; along with
+  your teachers and coaches, we can help keep things simple, and indulgent in the
+  right ways.
+slug: aria-guides-o-sleep-why-dost-thou-leave-me
+title: 'Aria guides: O sleep, why dost thou leave me?'
+---
  1. There's so much to enjoy in this first phrase, and with the silence underneath Semele, Handel is hinting (loudly) that she should make the most of it. She just woke up, after all. It's important to stay connected to the written rhythms, even if you're going to take some liberty with them. There's tension in the way Semele begins singing on beat 2, and we should feel that syncopation, as gentle as it is. I'm a champion of coming in right _a tempo_, and then taking a bit of freedom while you're singing.
 
     It will help to organize these bars, too; this phrase has a bit of a division right before the trill on the A-natural. It's almost like the first few notes, starting and beginning on that B, are like a morning stretch, a very lovely yawn. Although you're singing "O" for the whole thing, it's as if the word "O" (if that counts as a word) actually begins at that A-natural trill. It doesn't mean you should take a breath in the middle of the phrase (this should all be done in one breath), but you should hear yourself begin to "speak" after the yawn is up.<figure data-type="image">

@@ -1,15 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-date = "2014-08-11T12:03:00-04:00"
-lastmod = "2015-04-16T23:01:00-04:00"
-preamble = "If you're an opera dork like me, you often see operatic potential wherever you go. Today's it's in TV. The [_Breaking Bad_ ](http://www.esquire.com/blogs/culture/breaking-bad-opera-interview)opera has already had its premiere, and it even includes the \"Bitch Aria\", sung by none other than Jesse Pinkman. Have a [listen here](https://www.youtube.com/watch?v=JQ2C77flKNk). And really, to make a great opera, one would just need all the same dramatic elements that one needs for great books, and for great TV. Here we go, spoilers and all:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429239330982/TV.jpg.jpg"
-publishDate = "2014-08-11T12:03:00-04:00"
-related_articles = ["articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md","articles/5-books-that-should-be-operas.md","articles/things-i-want-to-see-la-zombiata.md","articles/hello-papagena.md","articles/organizing-your-scores-a-serious-business.md","articles/5-people-who-would-make-great-opera-roles.md"]
-short_description = "If you&#039;re an opera dork like me, you often see operatic potential wherever you go. Today&#039;s it&#039;s in TV. The Breaking Bad opera has already had its premiere, and it even includes the &quot;Bitch Aria&quot;, sung by none other than Jesse Pinkman. Have a listen here. And really, to make a great opera, one would just need all the same dramatic elements that one needs for great books, and for great TV. Here we go, spoilers and all:"
-slug = "6-tv-shows-that-should-be-operas"
-title = "6 TV shows that should be operas"
-+++
+---
+author:
+- authors/jenna.md
+date: "2014-08-11T12:03:00-04:00"
+lastmod: "2015-04-16T23:01:00-04:00"
+preamble: 'If you''re an opera dork like me, you often see operatic potential wherever
+  you go. Today''s it''s in TV. The [_Breaking Bad_ ](http://www.esquire.com/blogs/culture/breaking-bad-opera-interview)opera
+  has already had its premiere, and it even includes the "Bitch Aria", sung by none
+  other than Jesse Pinkman. Have a [listen here](https://www.youtube.com/watch?v=JQ2C77flKNk).
+  And really, to make a great opera, one would just need all the same dramatic elements
+  that one needs for great books, and for great TV. Here we go, spoilers and all:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429239330982/TV.jpg.jpg
+publishDate: "2014-08-11T12:03:00-04:00"
+related_articles:
+- articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md
+- articles/5-books-that-should-be-operas.md
+- articles/things-i-want-to-see-la-zombiata.md
+- articles/hello-papagena.md
+- articles/organizing-your-scores-a-serious-business.md
+- articles/5-people-who-would-make-great-opera-roles.md
+short_description: 'If you&#039;re an opera dork like me, you often see operatic potential
+  wherever you go. Today&#039;s it&#039;s in TV. The Breaking Bad opera has already
+  had its premiere, and it even includes the &quot;Bitch Aria&quot;, sung by none
+  other than Jesse Pinkman. Have a listen here. And really, to make a great opera,
+  one would just need all the same dramatic elements that one needs for great books,
+  and for great TV. Here we go, spoilers and all:'
+slug: 6-tv-shows-that-should-be-operas
+title: 6 TV shows that should be operas
+---
 
 ### 1. _House of Cards_
 

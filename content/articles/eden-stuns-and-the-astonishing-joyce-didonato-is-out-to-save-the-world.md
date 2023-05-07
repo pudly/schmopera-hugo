@@ -1,22 +1,31 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2022-05-26T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "_Eden_ is available on Erato. Visit [joycedidonato.com](https://joycedidonato.com/) for more information. To learn more about the International Teaching Artists Collaborative and the Eden Project, visit [itac-collaborative.com](https://www.itac-collaborative.com/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1653487224/media/2022/05/sq_JoyceDiDonato_EDEN_gu88a4.png"
-primary_image_credit = "Joyce DiDonato is out to save the world with her new Erato recording, Eden, and a 45-venue global concert tour. Photo: Sergi Jasanada."
-related_articles = ["articles/why-we-all-love-florence-foster-jenkins.md", "articles/a-sunday-afternoon-at-carnegie-hall.md"]
-related_companies = []
-related_people = ["scene/people/joyce-didonato.md"]
-short_description = "Joyce DiDonato has made a stunning recording. Since we've become accustomed to her perfect technique, rich characterizations and commitment to the message as well as the music, this is not unusual. But with Eden, her new recording on Erato, this masterful mezzo-soprano quite simply astonishes."
-slug = "eden-stuns-and-the-astonishing-joyce-didonato-is-out-to-save-the-world"
-title = "EDEN stuns and the astonishing Joyce DiDonato is out to save the world"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2022-05-26T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: _Eden_ is available on Erato. Visit [joycedidonato.com](https://joycedidonato.com/)
+  for more information. To learn more about the International Teaching Artists Collaborative
+  and the Eden Project, visit [itac-collaborative.com](https://www.itac-collaborative.com/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1653487224/media/2022/05/sq_JoyceDiDonato_EDEN_gu88a4.png
+primary_image_credit: 'Joyce DiDonato is out to save the world with her new Erato
+  recording, Eden, and a 45-venue global concert tour. Photo: Sergi Jasanada.'
+related_articles:
+- articles/why-we-all-love-florence-foster-jenkins.md
+- articles/a-sunday-afternoon-at-carnegie-hall.md
+related_companies: []
+related_people:
+- scene/people/joyce-didonato.md
+short_description: Joyce DiDonato has made a stunning recording. Since we've become
+  accustomed to her perfect technique, rich characterizations and commitment to the
+  message as well as the music, this is not unusual. But with Eden, her new recording
+  on Erato, this masterful mezzo-soprano quite simply astonishes.
+slug: eden-stuns-and-the-astonishing-joyce-didonato-is-out-to-save-the-world
+title: EDEN stuns and the astonishing Joyce DiDonato is out to save the world
+youtube_url: ""
+---
 Joyce DiDonato has made a stunning recording. Since we've become accustomed to her perfect technique, rich characterizations and commitment to the message as well as the music, this is not unusual. But with _Eden_, her new recording on Erato, this masterful mezzo-soprano quite simply astonishes. As the world copes with war, the pandemic, and a politicized environment in crisis, DiDonato has chosen to embark on a spiritual journey, one guided by music, and most emphatically invites us to follow along. Her timing couldn't be better.
 
 The journey involves our relationship with nature and our inclination, if we have one, to save it. Sixteen arias, songs and orchestral works from several genres explore the centuries old fascination that composers have had with nature. Gluck, Handel, Mahler, Wagner and less familiar names populate the same garden as Ives, Copland and Oscar-winner, Rachel Portman. DiDonato greets each composer with her requisite skill and understanding. But more to the point, she conveys a disarming earnestness that transcends interpretation and even her vocal prowess.

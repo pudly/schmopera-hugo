@@ -1,22 +1,32 @@
-+++
-author = ["authors/david-todd.md"]
-categories = "How-To"
-date = 2023-03-26T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = "What is a repetiteur, and how exactly do they help in the opera-making process? This article, the first of a series (originally published on David Todd's blog, [_Opera with a Hot Toddy_](https://www.david-todd.co.uk/?page_id=770)) delving into one of opera's lesser-known roles, will hopefully help to address the black hole of information and support available to répétiteurs starting out in the world of opera..."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679528708/media/2023/03/Pianistseries_elton-john-446485_1920_v5pbpa.jpg"
-primary_image_credit = ""
-related_articles = ["articles/how-to-lead-your-pianist.md", "articles/how-to-play-for-singers.md"]
-related_companies = []
-related_people = []
-short_description = "You won't be bashing out the chords of \"Bennie and The Jets\" while singing along to your heart's content. Your task will be to play some of the most difficult ensemble moments in the entire opera repertoire, singing every part and every ensemble."
-slug = "the-elton-john-act"
-title = "The Elton John Act"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/david-todd.md
+categories: How-To
+date: "2023-03-26T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: What is a repetiteur, and how exactly do they help in the opera-making process?
+  This article, the first of a series (originally published on David Todd's blog,
+  [_Opera with a Hot Toddy_](https://www.david-todd.co.uk/?page_id=770)) delving into
+  one of opera's lesser-known roles, will hopefully help to address the black hole
+  of information and support available to répétiteurs starting out in the world of
+  opera...
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1679528708/media/2023/03/Pianistseries_elton-john-446485_1920_v5pbpa.jpg
+primary_image_credit: ""
+related_articles:
+- articles/how-to-lead-your-pianist.md
+- articles/how-to-play-for-singers.md
+related_companies: []
+related_people: []
+short_description: You won't be bashing out the chords of "Bennie and The Jets" while
+  singing along to your heart's content. Your task will be to play some of the most
+  difficult ensemble moments in the entire opera repertoire, singing every part and
+  every ensemble.
+slug: the-elton-john-act
+title: The Elton John Act
+youtube_url: ""
+---
 'And now, the time is wearing thin,  
 The murderer is still within,   
 The cast could just not find a lead,   

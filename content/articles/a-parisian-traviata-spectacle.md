@@ -1,22 +1,30 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = "2019-10-20T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Vancouver Opera's production of [_La traviata_](https://www.vancouveropera.ca/la-traviata/) is onstage through October 27."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571621657/media/2019/10/sqLaTraviataVancouverOpera2019EmilyDorn-TimMatheson_m7p6v6.jpg"
-primary_image_credit = "Emily Dorn as Violetta in La traviata, Vancouver Opera, 2019. Photo: Tim Matheson."
-related_articles = ["articles/4-traits-of-a-great-cadenza.md", "articles/heartfelt-and-intimate-manitoba-operas-la-traviata.md"]
-related_companies = ["scene/companies/vancouver-opera.md"]
-related_people = ["scene/people/emily-dorn.md", "scene/people/andrew-haji.md"]
-short_description = "This production is feast for the eyes and ears. So much to see and listen to, full of emotional highs and lows, and a stage full of amazing talent."
-slug = "a-parisian-traviata-spectacle"
-title = "A Parisian Traviata Spectacle"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2019-10-20T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Vancouver Opera's production of [_La traviata_](https://www.vancouveropera.ca/la-traviata/)
+  is onstage through October 27.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571621657/media/2019/10/sqLaTraviataVancouverOpera2019EmilyDorn-TimMatheson_m7p6v6.jpg
+primary_image_credit: 'Emily Dorn as Violetta in La traviata, Vancouver Opera, 2019.
+  Photo: Tim Matheson.'
+related_articles:
+- articles/4-traits-of-a-great-cadenza.md
+- articles/heartfelt-and-intimate-manitoba-operas-la-traviata.md
+related_companies:
+- scene/companies/vancouver-opera.md
+related_people:
+- scene/people/emily-dorn.md
+- scene/people/andrew-haji.md
+short_description: This production is feast for the eyes and ears. So much to see
+  and listen to, full of emotional highs and lows, and a stage full of amazing talent.
+slug: a-parisian-traviata-spectacle
+title: A Parisian Traviata Spectacle
+youtube_url: ""
+---
 This production of [Vancouver Opera's _La traviata_](https://www.vancouveropera.ca/la-traviata/) is a co-production with five Canadian companies (Manitoba Opera, Edmonton Opera, Pacific Opera Victoria, Vancouver Opera, and Opéra de Montréal), and one [I reviewed last season](/a-delight-for-the-senses-la-traviata-in-victoria/) for Pacific Opera Victoria.
 
 The setting is 1920s Paris, where Violetta is a showgirl, appearing at the top of the stairs in a sumptuous, Folies Bergère-style costume, overflowing with feathers and glitter, before she descends into a coughing fit betraying her declining health.

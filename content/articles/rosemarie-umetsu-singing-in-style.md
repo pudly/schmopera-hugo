@@ -1,17 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-06-09T09:21:00+01:00"
-lastmod = "2016-06-09T13:05:00+01:00"
-preamble = "Based out of her [Atelier](http://atelierrosemarieumetsu.com/home) in Toronto, designer [Rosemarie Umetsu](http://atelierrosemarieumetsu.com/biography) has an unique relationship with fashion and the performing arts. Her clients include artists like Joyce Di Donato, Jake Heggie, Gidon Saks, Angela Meade, and Pinchas Zukerman, and Umetsu often hosts salon evenings in her Yorkville studio. \n\nWith a long history of dressing opera singers, Umetsu was kind enough to offer some wisdom and advice about choosing flattering and comfortable gowns for stages of all sizes."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465460632869/2016-06-09---Rosemarie-Umetsu.jpg.jpg"
-primary_image_credit = "Photo by Derek Wong"
-publishDate = "2016-06-09T13:00:00+01:00"
-related_articles = ["articles/what-to-wear-to-an-audition-via-the-red-carpet.md","articles/schmoperanation.md"]
-short_description = "Based out of her Atelier in Toronto, designer Rosemarie Umetsu has an unique relationship with fashion and the performing arts. Her clients include artists like Joyce Di Donato, Jake Heggie, Gidon Saks, Angela Meade, and Pinchas Zukerman, and Umetsu often hosts salon evenings in her Yorkville studio. With a long history of dressing opera singers, Umetsu was kind enough to offer some wisdom and advice about choosing flattering and comfortable gowns for stages of all sizes."
-slug = "rosemarie-umetsu-singing-in-style"
-title = "Rosemarie Umetsu: singing in style"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-06-09T09:21:00+01:00"
+lastmod: "2016-06-09T13:05:00+01:00"
+preamble: "Based out of her [Atelier](http://atelierrosemarieumetsu.com/home) in Toronto,
+  designer [Rosemarie Umetsu](http://atelierrosemarieumetsu.com/biography) has an
+  unique relationship with fashion and the performing arts. Her clients include artists
+  like Joyce Di Donato, Jake Heggie, Gidon Saks, Angela Meade, and Pinchas Zukerman,
+  and Umetsu often hosts salon evenings in her Yorkville studio. \n\nWith a long history
+  of dressing opera singers, Umetsu was kind enough to offer some wisdom and advice
+  about choosing flattering and comfortable gowns for stages of all sizes."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465460632869/2016-06-09---Rosemarie-Umetsu.jpg.jpg
+primary_image_credit: Photo by Derek Wong
+publishDate: "2016-06-09T13:00:00+01:00"
+related_articles:
+- articles/what-to-wear-to-an-audition-via-the-red-carpet.md
+- articles/schmoperanation.md
+short_description: Based out of her Atelier in Toronto, designer Rosemarie Umetsu
+  has an unique relationship with fashion and the performing arts. Her clients include
+  artists like Joyce Di Donato, Jake Heggie, Gidon Saks, Angela Meade, and Pinchas
+  Zukerman, and Umetsu often hosts salon evenings in her Yorkville studio. With a
+  long history of dressing opera singers, Umetsu was kind enough to offer some wisdom
+  and advice about choosing flattering and comfortable gowns for stages of all sizes.
+slug: rosemarie-umetsu-singing-in-style
+title: 'Rosemarie Umetsu: singing in style'
+---
 
 ## When you help singers choose a gown for a performance, what are some criteria that you find unique?
 

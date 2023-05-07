@@ -1,18 +1,34 @@
-+++
-author = ["authors/tracy-monaghan.md"]
-categories = "Review"
-date = "2017-01-28T09:32:00+00:00"
-lastmod = "2017-01-28T10:55:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485596390728/2017-01-28---Nashville-Opera---Three-Way--20.jpg.jpg"
-primary_image_credit = "Matthew Treviño, baritone. Photo by Jason Lee Denton."
-publishDate = "2017-01-28T10:25:00+00:00"
-related_articles = ["articles/safe-words-masquerades-nashville-opera-presents-three-way.md","articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md"]
-related_companies = ["scene/companies/nashville-opera.md"]
-related_people = ["scene/people/matthew-trevino.md","scene/people/danielle-pastin.md","scene/people/wes-mason.md","scene/people/samuel-levine.md","scene/people/eliza-bonet.md","scene/people/courtney-ruckman.md","scene/people/jordan-rutter.md","scene/people/melisa-bonetti.md"]
-short_description = "Exposure to culture so outwardly, unabashedly about sex (whatever form it takes) will very likely challenge the typical Nashville Opera patron (#biblebelt). Three Way manages to take a subject that is most taboo, particularly in the American South, and – I think, I hope – manages to inspire its audiences to a greater understanding of their fellow person…which is something we all super need right now."
-slug = "in-review-three-way"
-title = "In review: Three Way"
-+++
+---
+author:
+- authors/tracy-monaghan.md
+categories: Review
+date: "2017-01-28T09:32:00+00:00"
+lastmod: "2017-01-28T10:55:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485596390728/2017-01-28---Nashville-Opera---Three-Way--20.jpg.jpg
+primary_image_credit: Matthew Treviño, baritone. Photo by Jason Lee Denton.
+publishDate: "2017-01-28T10:25:00+00:00"
+related_articles:
+- articles/safe-words-masquerades-nashville-opera-presents-three-way.md
+- articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md
+related_companies:
+- scene/companies/nashville-opera.md
+related_people:
+- scene/people/matthew-trevino.md
+- scene/people/danielle-pastin.md
+- scene/people/wes-mason.md
+- scene/people/samuel-levine.md
+- scene/people/eliza-bonet.md
+- scene/people/courtney-ruckman.md
+- scene/people/jordan-rutter.md
+- scene/people/melisa-bonetti.md
+short_description: Exposure to culture so outwardly, unabashedly about sex (whatever
+  form it takes) will very likely challenge the typical Nashville Opera patron (#biblebelt).
+  Three Way manages to take a subject that is most taboo, particularly in the American
+  South, and – I think, I hope – manages to inspire its audiences to a greater understanding
+  of their fellow person…which is something we all super need right now.
+slug: in-review-three-way
+title: 'In review: Three Way'
+---
 
 Rarely do we find a postmodern opera that builds in time for audiences to belly laugh, a postmodern opera that encapsulates the complexity and depth of evolving identity and sexuality, and a postmodern opera that is both elegant and accessible.  
 

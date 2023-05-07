@@ -1,22 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-09-24T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[_Il viaggio a Reims_](https://www.semperoper.de/en/whats-on/schedule/stid/Viaggio-en/61461.html), conducted by Francesco Lanzillotta and directed by Laura Scozzi, runs at Semperoper Dresden, Sept. 28 to Nov. 4."
-preamble = "Italian conductor Francesco Lanzillotta, Music Director of the Macerata Opera Festival, is currently in Dresden to help open Rossini's [_Il viaggio a Reims_](https://www.semperoper.de/spielplan/stuecke/stid/Viaggio-en/61461.html) (Sept. 28-Nov. 4). The production is the latest in Lanzillotta's impressive repertoire of _bel canto_ opera - classics like _La traviata_ and _L'elisir d'amore_ are scattered across his calendar - and Rossini's operas take a certain care from the podium.\n\nWe spoke with Lanzillotta ahead of his opening night at the Semperoper, about Rossini traps and opera's future:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569349774/media/2019/09/sqFrancescoLanzillotta-ManuelaGiusto_dsicfz.jpg"
-primary_image_credit = "Francesco Lanzillotta, conductor. Photo: Manuela Giusto."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "\"Even the idea of tempo should be very flexible depending on the meaning of the words. Sometimes, even if we don't have a change of tempo written in the score, we should understand when it is necessary to move the musical line forward.\""
-slug = "talking-with-conductors-francesco-lanzillotta"
-title = "Talking with conductors: Francesco Lanzillotta"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-09-24T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '[_Il viaggio a Reims_](https://www.semperoper.de/en/whats-on/schedule/stid/Viaggio-en/61461.html),
+  conducted by Francesco Lanzillotta and directed by Laura Scozzi, runs at Semperoper
+  Dresden, Sept. 28 to Nov. 4.'
+preamble: |-
+  Italian conductor Francesco Lanzillotta, Music Director of the Macerata Opera Festival, is currently in Dresden to help open Rossini's [_Il viaggio a Reims_](https://www.semperoper.de/spielplan/stuecke/stid/Viaggio-en/61461.html) (Sept. 28-Nov. 4). The production is the latest in Lanzillotta's impressive repertoire of _bel canto_ opera - classics like _La traviata_ and _L'elisir d'amore_ are scattered across his calendar - and Rossini's operas take a certain care from the podium.
 
-+++
+  We spoke with Lanzillotta ahead of his opening night at the Semperoper, about Rossini traps and opera's future:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569349774/media/2019/09/sqFrancescoLanzillotta-ManuelaGiusto_dsicfz.jpg
+primary_image_credit: 'Francesco Lanzillotta, conductor. Photo: Manuela Giusto.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: '"Even the idea of tempo should be very flexible depending on the
+  meaning of the words. Sometimes, even if we don''t have a change of tempo written
+  in the score, we should understand when it is necessary to move the musical line
+  forward."'
+slug: talking-with-conductors-francesco-lanzillotta
+title: 'Talking with conductors: Francesco Lanzillotta'
+youtube_url: ""
+---
 ## What are the unique skills necessary to conduct Rossini? What do you think are some common traps or pitfalls with his operas?
 
 The first skill is to know where the main accent of the musical phrase should be stressed. This idea also depends on where the strong accents of the words are and in general which kind of verse is used. In the Italian language there are many different kinds of verses like, "quinario, senario, settenario etc." with different characteristics and the music very often follows them.

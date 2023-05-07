@@ -1,15 +1,22 @@
-+++
-date = "2015-04-08T10:52:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-08T10:53:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428504796103/Lucy_Crowe_%25C2%25A9_Marco_Borggreve.jpg.jpg"
-primary_image_credit = "Marco Borggreve"
-publishDate = "2015-04-08T10:52:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/english-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/lyric-opera-of-chicago.md"]
-slug = "lucy-crowe"
-title = "Lucy Crowe"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2015-04-08T10:52:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-08T10:53:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428504796103/Lucy_Crowe_%25C2%25A9_Marco_Borggreve.jpg.jpg
+primary_image_credit: Marco Borggreve
+publishDate: "2015-04-08T10:52:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/royal-opera-house.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/english-national-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/lyric-opera-of-chicago.md
+slug: lucy-crowe
+title: Lucy Crowe
+---
 
 <p>
 	Lucy Crowe has established herself as one of the leading lyric sopranos of her generation. Described as having a voice of bell-like clarity with an impeccable vocal technique and powerful stage presence she has performed and recorded with many of the world's greatest conductors. These include Yannick Nézet-Séguin, Emannuelle Haïm, Sir Antonio Pappano, Sir John Eliot Gardiner, Sir Charles Mackerras, Sir Roger Norrington, Edward Gardner, Andris Nelsons, Iván Fischer, Esa-Pekka Salonen, Trevor Pinnock, Mark Minkowski and Harry Bicket. She made her Salzburg Festival debut under Ingo Metzmacher. She has given recitals throughout the UK including London's Wigmore Hall and made her her recital debut at Carnegie Hall last season.<br>

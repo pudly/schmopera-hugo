@@ -1,22 +1,29 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = "2019-02-03T14:42:19+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549235358/media/2019/02/sqHannigan.jpg"
-primary_image_credit = "Photo: Justin Holden, courtesy of the Cleveland Orchestra."
-related_articles = ["articles/new-opera-repetiteur.md", "articles/in-review-hannigan-grazinyte-tyle-BBC-proms.md"]
-related_companies = []
-related_people = ["scene/people/barbara-hannigan.md"]
-short_description = "Hannigan's well received turn at the podium, met by an immediate and unanimous standing ovation, should serve to demonstrate to the Cleveland Orchestra, and to classical music institutions across the continent and around the globe, that making an effort to include and elevate marginalized perspectives holds significance well beyond meeting a quota or \"catching up with the times.\""
-slug = "all-too-rare-hannigan-takes-the-podium-with-the-cleveland-orchestra"
-title = "All too rare: Hannigan takes the podium with the Cleveland Orchestra"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2019-02-03T14:42:19+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549235358/media/2019/02/sqHannigan.jpg
+primary_image_credit: 'Photo: Justin Holden, courtesy of the Cleveland Orchestra.'
+related_articles:
+- articles/new-opera-repetiteur.md
+- articles/in-review-hannigan-grazinyte-tyle-BBC-proms.md
+related_companies: []
+related_people:
+- scene/people/barbara-hannigan.md
+short_description: Hannigan's well received turn at the podium, met by an immediate
+  and unanimous standing ovation, should serve to demonstrate to the Cleveland Orchestra,
+  and to classical music institutions across the continent and around the globe, that
+  making an effort to include and elevate marginalized perspectives holds significance
+  well beyond meeting a quota or "catching up with the times."
+slug: all-too-rare-hannigan-takes-the-podium-with-the-cleveland-orchestra
+title: 'All too rare: Hannigan takes the podium with the Cleveland Orchestra'
+youtube_url: ""
+---
 From the moment the orchestra finished tuning and the stage lights dimmed to total darkness, it became clear that the evening’s dose of symphonic convention had ended along with the oboe's A-440. As Principal Flute Joshua Smith played the final notes of Debussy's slinking _Syrinx_ from an offstage hideaway that had audience members' heads swivelling futilely to find him, the stage lights brightened to reveal that Barbara Hannigan had already taken the podium. No sooner had the audience marvelled at her sudden appearance than she raised her arms and readied the next downbeat.
 
 > As the final lyrics of "I've Got Rhythm" so aptly pose, closing out the _Girl Crazy_ Suite with a showstopping high note fit for the Broadway stage – who could ask for anything more?

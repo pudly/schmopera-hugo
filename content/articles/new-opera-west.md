@@ -1,22 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = 2019-11-10T16:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "New Opera West's [_Pop-Up Opera @ Mimoda_](https://www.newoperawest.org/new-page-51) happens November 16-17."
-preamble = "[New Opera West](/scene/companies/new-opera-west/), the LA-based opera company with a mission to create and promote new works, is presenting a _Pop-Up Opera @ Mimoda_, showcasing five new mini-operas, November 16-17.\n\nWe spoke with NOW Co-Founders Emily Thebaut and Mark Lanz Weiser, about their call for new works, their love of comedic opera, and the company's place in LA's opera scene."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573415569/media/2019/11/sqNOWPopUp_udkqnb.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = ["scene/companies/new-opera-west.md"]
-related_people = []
-short_description = "\"The strength of any given piece is usually revealed fairly early in the process. Even a first run-through can indicate whether something is going to work or not.\""
-slug = "check-out-new-opera-west"
-title = "Check out: New Opera West"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-11-10T16:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: New Opera West's [_Pop-Up Opera @ Mimoda_](https://www.newoperawest.org/new-page-51)
+  happens November 16-17.
+preamble: |-
+  [New Opera West](/scene/companies/new-opera-west/), the LA-based opera company with a mission to create and promote new works, is presenting a _Pop-Up Opera @ Mimoda_, showcasing five new mini-operas, November 16-17.
 
-+++
+  We spoke with NOW Co-Founders Emily Thebaut and Mark Lanz Weiser, about their call for new works, their love of comedic opera, and the company's place in LA's opera scene.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1573415569/media/2019/11/sqNOWPopUp_udkqnb.jpg
+primary_image_credit: ""
+related_articles: []
+related_companies:
+- scene/companies/new-opera-west.md
+related_people: []
+short_description: '"The strength of any given piece is usually revealed fairly early
+  in the process. Even a first run-through can indicate whether something is going
+  to work or not."'
+slug: check-out-new-opera-west
+title: 'Check out: New Opera West'
+youtube_url: ""
+---
 ## How does New Opera West fit into LA's opera scene?
 
 **Emily Thebaut**: Los Angeles has an incredibly vibrant and evolving arts scene, which makes it the perfect place to launch New Opera West.  There are so many fantastic opera companies here that are doing really unique and avant-garde productions with the standard operatic repertoire and with new operas as well. We hope we can continue this trend of innovation within Los Angeles and make it a leading city in the promotion and creation of new music.

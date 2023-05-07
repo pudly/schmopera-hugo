@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-07-27T12:21:00-04:00"
-lastmod = "2017-07-30T11:16:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501172321258/Schoolyard%20Carmen.jpg.jpg"
-publishDate = "2017-07-30T10:27:00-04:00"
-related_articles = ["articles/shhdont-tell-them-its-opera.md"]
-related_companies = ["scene/companies/shoestring-opera.md"]
-related_people = ["scene/people/janaka-welihinda.md","scene/people/gillian-grossman.md"]
-short_description = "Hardcore opera fans will also get a kick out of a show like Schoolyard Carmen. It&#039;s entertaining to hear how the music is re-purposed, and there&#039;s an added layer of humour comparing the aria contexts of Bizet&#039;s work, and Shoestring Opera&#039;s. The &quot;Toreador Song&quot; was basically the same - a cocky kid telling everyone how great he really is - and Carmen&#039;s sombre Card Aria retains its fateful mood as the young newcomer to school ponders her destiny while sitting expectantly in the Vice Principal&#039;s office."
-slug = "cute-catchy-the-schoolyard-carmen"
-title = "Cute &amp; catchy: The Schoolyard Carmen"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-07-27T12:21:00-04:00"
+lastmod: "2017-07-30T11:16:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501172321258/Schoolyard%20Carmen.jpg.jpg
+publishDate: "2017-07-30T10:27:00-04:00"
+related_articles:
+- articles/shhdont-tell-them-its-opera.md
+related_companies:
+- scene/companies/shoestring-opera.md
+related_people:
+- scene/people/janaka-welihinda.md
+- scene/people/gillian-grossman.md
+short_description: Hardcore opera fans will also get a kick out of a show like Schoolyard
+  Carmen. It&#039;s entertaining to hear how the music is re-purposed, and there&#039;s
+  an added layer of humour comparing the aria contexts of Bizet&#039;s work, and Shoestring
+  Opera&#039;s. The &quot;Toreador Song&quot; was basically the same - a cocky kid
+  telling everyone how great he really is - and Carmen&#039;s sombre Card Aria retains
+  its fateful mood as the young newcomer to school ponders her destiny while sitting
+  expectantly in the Vice Principal&#039;s office.
+slug: cute-catchy-the-schoolyard-carmen
+title: 'Cute &amp; catchy: The Schoolyard Carmen'
+---
 
 The Carmen of Bizet's 1875 opera sought a certain kind of freedom, the kind that would liberate her from the law, and from the definition of "permissible woman". Very different, yet comparable in nobility, the Carmen of [Shoestring Opera](/scene/companies/shoestring-opera/)'s *The Schoolyard Carmen* seeks freedom from the shackles of the schoolday grind.
 

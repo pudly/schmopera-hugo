@@ -1,19 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-10-21T10:02:00+01:00"
-lastmod = "2016-10-21T11:05:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477041979863/2016-10-22---The_Nose_0064-THE-NOSE-AT-ROYAL-OPERA-HOUSE-ROH-PHOTO-BY-BILL-COOPER.jpg.jpg"
-primary_image_credit = "The Nose, Royal Opera House, 2016. Photo by Bill Cooper."
-publishDate = "2016-10-21T10:55:00+01:00"
-related_articles = ["articles/in-review-les-contes-dhoffmann.md", "articles/in-review-il-trovatore-at-roh.md", "articles/in-review-the-merchant-of-venice.md", "articles/a-refreshing-gateway-drug-the-magic-flute-at-o17.md", "articles/vos-merry-widow-a-comedic-tourdeforce.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/martin-winkler.md", "scene/people/peter-bronder.md"]
-short_description = "The Nose - particularly in Kosky&#039;s production - is truly an ensemble opera, and every single detail felt part of a curious world, one hard to describe, yet perfectly recognizable. The dancers, the Royal Opera House chorus, even the curious balalaika player in exaggerated traditional costume - it was completely, delightfully, ridiculous."
-slug = "jaw-dropping-the-nose-at-roh"
-title = "Jaw-dropping: The Nose at ROH"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-10-21T10:02:00+01:00"
+lastmod: "2016-10-21T11:05:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477041979863/2016-10-22---The_Nose_0064-THE-NOSE-AT-ROYAL-OPERA-HOUSE-ROH-PHOTO-BY-BILL-COOPER.jpg.jpg
+primary_image_credit: The Nose, Royal Opera House, 2016. Photo by Bill Cooper.
+publishDate: "2016-10-21T10:55:00+01:00"
+related_articles:
+- articles/in-review-les-contes-dhoffmann.md
+- articles/in-review-il-trovatore-at-roh.md
+- articles/in-review-the-merchant-of-venice.md
+- articles/a-refreshing-gateway-drug-the-magic-flute-at-o17.md
+- articles/vos-merry-widow-a-comedic-tourdeforce.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/martin-winkler.md
+- scene/people/peter-bronder.md
+short_description: The Nose - particularly in Kosky&#039;s production - is truly an
+  ensemble opera, and every single detail felt part of a curious world, one hard to
+  describe, yet perfectly recognizable. The dancers, the Royal Opera House chorus,
+  even the curious balalaika player in exaggerated traditional costume - it was completely,
+  delightfully, ridiculous.
+slug: jaw-dropping-the-nose-at-roh
+title: 'Jaw-dropping: The Nose at ROH'
+---
 Well, when we found ourselves staring, jaw agape, at a line of gigantic tap-dancing noses, there was no other option but to guffaw.
 
 <figure data-type="image">

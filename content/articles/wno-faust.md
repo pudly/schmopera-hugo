@@ -1,22 +1,37 @@
-+++
-author = ["authors/molly-simoneau.md"]
-categories = "Review"
-date = "2019-03-18T15:52:29+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Washington National Opera's production of _Faust_ runs through March 30. For details and ticket information, [click here](http://www.kennedy-center.org/calendar/event/OTOSD)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552947140/media/2019/03/sqMargueriteErinWallWNOFaustScottSuchman.jpg"
-primary_image_credit = "Erin Wall as Marguerite in Faust, Washington National Opera, 2019. Photo: Scott Suchman."
-related_articles = ["articles/constructive-frustration-from-roh-s-queen-of-spades.md", "articles/a-problematic-creaky-old-masterpiece-les-vpres-siciliennes.md"]
-related_companies = ["scene/companies/washington-national-opera.md"]
-related_people = ["scene/people/raymond-aceto.md", "scene/people/allegra-de-vita.md", "scene/people/joshua-hopkins.md", "scene/people/marcelo-puente.md", "scene/people/erin-wall.md"]
-short_description = "It doesn't help that Gounod's setting is about as dusty as operas get, focusing more on the downfall (and ultimate redemption in death, of course) of Marguerite, than on Faust's own psychological struggle, this opera always comes off like a parody of a 19th-century morality play, which was only emphasized by Staley's design which could have been pulled straight out of a European theater from 150 years ago."
-slug = "overstaying-its-welcome-wnos-faust"
-title = "Overstaying its welcome: WNO's Faust"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/molly-simoneau.md
+categories: Review
+date: "2019-03-18T15:52:29+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Washington National Opera's production of _Faust_ runs through March 30.
+  For details and ticket information, [click here](http://www.kennedy-center.org/calendar/event/OTOSD).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1552947140/media/2019/03/sqMargueriteErinWallWNOFaustScottSuchman.jpg
+primary_image_credit: 'Erin Wall as Marguerite in Faust, Washington National Opera,
+  2019. Photo: Scott Suchman.'
+related_articles:
+- articles/constructive-frustration-from-roh-s-queen-of-spades.md
+- articles/a-problematic-creaky-old-masterpiece-les-vpres-siciliennes.md
+related_companies:
+- scene/companies/washington-national-opera.md
+related_people:
+- scene/people/raymond-aceto.md
+- scene/people/allegra-de-vita.md
+- scene/people/joshua-hopkins.md
+- scene/people/marcelo-puente.md
+- scene/people/erin-wall.md
+short_description: It doesn't help that Gounod's setting is about as dusty as operas
+  get, focusing more on the downfall (and ultimate redemption in death, of course)
+  of Marguerite, than on Faust's own psychological struggle, this opera always comes
+  off like a parody of a 19th-century morality play, which was only emphasized by
+  Staley's design which could have been pulled straight out of a European theater
+  from 150 years ago.
+slug: overstaying-its-welcome-wnos-faust
+title: 'Overstaying its welcome: WNO''s Faust'
+youtube_url: ""
+---
 The Faust legend traces its roots back to the 16th century. The story was adapted as an English language play by Shakespeare contemporary Christopher Marlowe, and more famously by Goethe in the 19th century. Off the top of my head, I'm aware of three operatic settings of the tale, and a cursory glance at Wikipedia tells me there are 2 more on top of that (plus a musical by Randy Newman?) as well as several films. This is an _old_ story. The kind that infiltrates culture. Every time you mention someone making "a deal with the devil," you're referencing this ancient allegory.
 
 <figure data-type="image">

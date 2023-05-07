@@ -1,22 +1,29 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2022-08-19T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1660923486/media/2022/08/sqWWA_naivyt.jpg"
-primary_image_credit = "Ariana DeBose (Anita) and David Alvarez (Bernardo) energize \"America\" with grit and spirit in Steven Spielberg's remake of West Side Story. Photo: © Disney."
-related_articles = ["articles/a-definitive-hit-west-side-story-in-atlanta.md", "articles/the-emphatically-present-west-side-story.md"]
-related_companies = []
-related_people = []
-short_description = "It would be unreasonable to expect these star-crossed lovers to create a more charmingly romantic balcony scene and \"Tonight.\" They are literally heaven-sent when singing their vows in \"One Hand, One Heart\" amidst sunlight streaming through stained glass at the MET Museum’s Cloisters."
-slug = "the-accommodating-cool-of-spielbergs-west-side-story"
-title = "The Accommodating \"Cool\" of Spielberg’s West Side Story"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2022-08-19T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1660923486/media/2022/08/sqWWA_naivyt.jpg
+primary_image_credit: 'Ariana DeBose (Anita) and David Alvarez (Bernardo) energize
+  "America" with grit and spirit in Steven Spielberg''s remake of West Side Story.
+  Photo: © Disney.'
+related_articles:
+- articles/a-definitive-hit-west-side-story-in-atlanta.md
+- articles/the-emphatically-present-west-side-story.md
+related_companies: []
+related_people: []
+short_description: It would be unreasonable to expect these star-crossed lovers to
+  create a more charmingly romantic balcony scene and "Tonight." They are literally
+  heaven-sent when singing their vows in "One Hand, One Heart" amidst sunlight streaming
+  through stained glass at the MET Museum’s Cloisters.
+slug: the-accommodating-cool-of-spielbergs-west-side-story
+title: The Accommodating "Cool" of Spielberg’s West Side Story
+youtube_url: ""
+---
 "Cool," that jazzy number from _West Side Story_, is one of the most accommodating songs ever written for a Broadway musical. Leonard Bernstein's composition keeps its brazen, staccato tone but Stephen Sondheim's incisive lyric has come to support surprisingly different storylines. From the 1957 Broadway trailblazer to Robert Wise's lauded 1961 film and most recently in Steven Spielberg's revisionist remake, "Cool" has been used to convey vastly different messages but manages in the process to keep its own cool.
 
 Two years ago when we surveyed the major recording of this epic classic, a cast album of the newest Broadway revival and a soundtrack from the Spielberg film were anticipated. The revival didn't reopen after the pandemic shutdown and to our knowledge, remains unrecorded. For similar reasons the film's release was delayed a full year but now we have a distinctive new addition to the collection, albeit with issues that may rile those who find annoying a couple of fleeting "feel good" numbers that manage to work, just not in the score's context.

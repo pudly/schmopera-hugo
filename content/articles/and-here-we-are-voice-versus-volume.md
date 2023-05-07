@@ -1,16 +1,23 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-05-10T20:54:00-04:00"
-lastmod = "2018-05-10T20:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525999867472/SQimage1.jpg.jpg"
-primary_image_credit = " A lizard in a teapot and a deer, one of the shadow puppet projections from The Experiment In Opera production of Matthew Welch's And Here We Are.  Photo: Jeanette Oi-Suk Yew"
-publishDate = "2018-05-10T20:54:00-04:00"
-related_companies = ["scene/companies/experiments-in-opera.md"]
-short_description = "The opera is billed as a shadow puppetry opera. That sounds interesting but it is a concept that, while lending a certain artistic edge, falls short of fulfilling the promise of collaborative storytelling. The impression it leaves is more that of a crutch, which Welch&#039;s fine composition does not need. "
-slug = "and-here-we-are-voice-versus-volume"
-title = "And Here We Are: voice versus volume"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-05-10T20:54:00-04:00"
+lastmod: "2018-05-10T20:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525999867472/SQimage1.jpg.jpg
+primary_image_credit: ' A lizard in a teapot and a deer, one of the shadow puppet
+  projections from The Experiment In Opera production of Matthew Welch''s And Here
+  We Are.  Photo: Jeanette Oi-Suk Yew'
+publishDate: "2018-05-10T20:54:00-04:00"
+related_companies:
+- scene/companies/experiments-in-opera.md
+short_description: 'The opera is billed as a shadow puppetry opera. That sounds interesting
+  but it is a concept that, while lending a certain artistic edge, falls short of
+  fulfilling the promise of collaborative storytelling. The impression it leaves is
+  more that of a crutch, which Welch&#039;s fine composition does not need. '
+slug: and-here-we-are-voice-versus-volume
+title: 'And Here We Are: voice versus volume'
+---
 
 It's voice versus volume in [Experiments In Opera](/scene/companies/experiments-in-opera/)'s presentation of Matthew Welch's [*And Here We Are*](http://experimentsinopera.com/portfolio-item/and-here-we-are/), which he also conducts. The opera is based on a memoir of Edgar Kneedler, a detainee in a World War II interment camp. With few exceptions, the individual style and vocal quality that the three supporting singers bring to their roles, is compromised by the production's high-octane acoustics. Baritone Daniel Neer, who wrote the lumbering libretto, sings Kneedler who dominates as he supplies the narrative. One wonders if this didn't set out to be a series of soliloquies.
 

@@ -1,22 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = 2019-11-12T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Catch Rachel Willis-Sørensen in [_Don Giovanni_](https://www.lyricopera.org/productions/2019-20/don-giovanni/) at Lyric Opera of Chicago, Nov. 14-Dec. 8."
-preamble = "Lyric Opera of Chicago is gearing up for its production of [_Don Giovanni_](https://www.lyricopera.org/productions/2019-20/don-giovanni/) (Nov. 14-Dec. 8), and among the impressive cast is soprano Rachel Willis-Sørensen as Donna Anna. \n\nWillis-Sørensen has made a signature role out of Donna Anna, after singing it most recently at the Royal Opera House and the Metropolitan Opera. We spoke with the soprano about the dramatic subtleties of Anna, and the work it takes to make her music feel easy."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573602677/media/2019/11/sqRachelWillis-SorensenOliviaRenaud_s1bs9i.jpg"
-primary_image_credit = "Rachel Willis-Sørensen, soprano. Photo by Olivia Renaud."
-related_articles = ["articles/tales-from-the-score-annas-innocence.md", "articles/talking-with-singers-lucas-meachem.md", "articles/spotlight-on-amanda-majeski.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/rachel-willis-sorensen.md"]
-short_description = "\"I used to think that you can be exactly yourself, but what I have learned is that not everyone deserves to see you that way. Your family and close friends and some trusted colleagues can see you how you are, but it is ok to present more a guarded version of yourself until you find who is trustworthy.\""
-slug = "talking-with-singers-rachel-willis-sorensen"
-title = "Talking with singers: Rachel Willis-Sørensen"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-11-12T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Catch Rachel Willis-Sørensen in [_Don Giovanni_](https://www.lyricopera.org/productions/2019-20/don-giovanni/)
+  at Lyric Opera of Chicago, Nov. 14-Dec. 8.
+preamble: "Lyric Opera of Chicago is gearing up for its production of [_Don Giovanni_](https://www.lyricopera.org/productions/2019-20/don-giovanni/)
+  (Nov. 14-Dec. 8), and among the impressive cast is soprano Rachel Willis-Sørensen
+  as Donna Anna. \n\nWillis-Sørensen has made a signature role out of Donna Anna,
+  after singing it most recently at the Royal Opera House and the Metropolitan Opera.
+  We spoke with the soprano about the dramatic subtleties of Anna, and the work it
+  takes to make her music feel easy."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1573602677/media/2019/11/sqRachelWillis-SorensenOliviaRenaud_s1bs9i.jpg
+primary_image_credit: Rachel Willis-Sørensen, soprano. Photo by Olivia Renaud.
+related_articles:
+- articles/tales-from-the-score-annas-innocence.md
+- articles/talking-with-singers-lucas-meachem.md
+- articles/spotlight-on-amanda-majeski.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/rachel-willis-sorensen.md
+short_description: '"I used to think that you can be exactly yourself, but what I
+  have learned is that not everyone deserves to see you that way. Your family and
+  close friends and some trusted colleagues can see you how you are, but it is ok
+  to present more a guarded version of yourself until you find who is trustworthy."'
+slug: talking-with-singers-rachel-willis-sorensen
+title: 'Talking with singers: Rachel Willis-Sørensen'
+youtube_url: ""
+---
 ## Why do you sing opera professionally?
 
 I sing professionally because it is amazing to do something which I love doing, and make my living doing it. People say if you love what you do, you will never work a day in your life. Not every single element is pure pleasure, but the parts that are, like performing with colleagues at a world class level, performing in beautiful halls, and being able to touch people with my message…well, I can't imagine anything better.

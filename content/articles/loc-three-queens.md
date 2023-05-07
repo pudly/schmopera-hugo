@@ -1,25 +1,37 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = 2019-12-02T05:00:00Z
-discipline = ""
-disclaimer = ""
-image_gallery = []
-postamble = "Sondra Radvanovsky returns to Chicago in February 2020 to make her role debut as Lisa in LOC's production of Tchaikovsky's [_The Queen of Spades_](https://www.lyricopera.org/productions/2019-20/queen-of-spades/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1575329716/media/2019/12/sqSondraRadvanovsky_THETHREEQUEENS_ANNABOLENA_LyricOperaofChicago_LYR191129_040_ecgb3x.jpg"
-primary_image_credit = "Sondra Radvanovsky (Anna Bolena) in The Three Queens, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg."
-related_articles = ["articles/talking-with-singers-sondra-radvanovsky.md", "articles/in-review-sondra-radvanovsky-at-koerner-hall.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/riccardo-frizza.md", "scene/people/sondra-radvanovsky.md"]
-short_description = "Billed as selected excerpts from three operas, the event comes across on paper as a kind of combination Donizetti-teaser and superstar feature concert. Yet, the experience was remarkably gratifying artistically thanks not only to the operas’ shared backstories, but also to director Matthew Ozawa’s unity of concept through the scenes and, of course, Radvanovsky’s riveting portrayal of Anne Boleyn, Mary Stuart, and Elizabeth I.  "
-slug = "sondras-three-queens-earn-thunderous-ovation-in-chicago"
-social_media = []
-title = "Sondra's Three Queens earn \"thunderous ovation\" in Chicago"
-website = ""
-youtube_url = ""
-
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2019-12-02T05:00:00Z"
+discipline: ""
+disclaimer: ""
+image_gallery: []
+postamble: Sondra Radvanovsky returns to Chicago in February 2020 to make her role
+  debut as Lisa in LOC's production of Tchaikovsky's [_The Queen of Spades_](https://www.lyricopera.org/productions/2019-20/queen-of-spades/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1575329716/media/2019/12/sqSondraRadvanovsky_THETHREEQUEENS_ANNABOLENA_LyricOperaofChicago_LYR191129_040_ecgb3x.jpg
+primary_image_credit: 'Sondra Radvanovsky (Anna Bolena) in The Three Queens, Lyric
+  Opera of Chicago, 2019. Photo: Todd Rosenberg.'
+related_articles:
+- articles/talking-with-singers-sondra-radvanovsky.md
+- articles/in-review-sondra-radvanovsky-at-koerner-hall.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/riccardo-frizza.md
+- scene/people/sondra-radvanovsky.md
+short_description: 'Billed as selected excerpts from three operas, the event comes
+  across on paper as a kind of combination Donizetti-teaser and superstar feature
+  concert. Yet, the experience was remarkably gratifying artistically thanks not only
+  to the operas’ shared backstories, but also to director Matthew Ozawa’s unity of
+  concept through the scenes and, of course, Radvanovsky’s riveting portrayal of Anne
+  Boleyn, Mary Stuart, and Elizabeth I.  '
+slug: sondras-three-queens-earn-thunderous-ovation-in-chicago
+social_media: []
+title: Sondra's Three Queens earn "thunderous ovation" in Chicago
+website: ""
+youtube_url: ""
+---
 As a post-Thanksgiving treat for Chicago opera-lovers, [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/) presents three performances of _Three Queens_, featuring soprano [Sondra Radvanovsky](/talking-with-singers-sondra-radvanovsky/) in finales from Donizetti's Tudor operas: _Anna Bolena_, _Maria Stuarda_, and _Roberto Devereux_.
 
 Billed as selected excerpts from three operas, the event comes across on paper as a kind of combination Donizetti-teaser and superstar feature concert. Yet, the experience was remarkably gratifying artistically thanks not only to the operas' shared backstories, but also to director Matthew Ozawa's unity of concept through the scenes and, of course, Radvanovsky's riveting portrayal of Anne Boleyn, Mary Stuart, and Elizabeth I.

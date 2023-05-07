@@ -1,22 +1,33 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Interview"
-date = 2022-01-29T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Calgary Opera's production of Lehár's [_The Merry Widow_](https://calgaryopera.com/21-22/merry-widow) opens Saturday, January 29, with two subsequent performances on February 2 and 4. The production is directed by Omer Ben Seadia and features the Calgary Philharmonic Orchestra conducted by Tania Miller."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1643466927/media/2022/01/sqCalgaryOpera_MerryWidow_AvivaFortunata_TrudieLee_gwqcxa.jpg"
-primary_image_credit = "Aviva Fortunata as Hanna Glawari in Calgary Opera's production of The Merry Widow, 2022. Photo: Trudie Lee."
-related_articles = ["articles/enchanting-production-brings-calgary-opera-back-to-live-in-person-audience.md", "articles/calgary-opera-names-jonathan-brandani-new-artistic-director.md"]
-related_companies = []
-related_people = ["scene/people/andrew-love.md", "scene/people/colin-ainsworth.md", "scene/people/jacqueline-woodley.md", "scene/people/aviva-fortunata.md"]
-short_description = "Inside Calgary Opera’s preparations for The Merry Widow in spite of COVID."
-slug = "a-merry-return-to-the-mainstage"
-title = "A Merry Return to the Mainstage"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Interview
+date: "2022-01-29T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Calgary Opera's production of Lehár's [_The Merry Widow_](https://calgaryopera.com/21-22/merry-widow)
+  opens Saturday, January 29, with two subsequent performances on February 2 and 4.
+  The production is directed by Omer Ben Seadia and features the Calgary Philharmonic
+  Orchestra conducted by Tania Miller.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1643466927/media/2022/01/sqCalgaryOpera_MerryWidow_AvivaFortunata_TrudieLee_gwqcxa.jpg
+primary_image_credit: 'Aviva Fortunata as Hanna Glawari in Calgary Opera''s production
+  of The Merry Widow, 2022. Photo: Trudie Lee.'
+related_articles:
+- articles/enchanting-production-brings-calgary-opera-back-to-live-in-person-audience.md
+- articles/calgary-opera-names-jonathan-brandani-new-artistic-director.md
+related_companies: []
+related_people:
+- scene/people/andrew-love.md
+- scene/people/colin-ainsworth.md
+- scene/people/jacqueline-woodley.md
+- scene/people/aviva-fortunata.md
+short_description: Inside Calgary Opera’s preparations for The Merry Widow in spite
+  of COVID.
+slug: a-merry-return-to-the-mainstage
+title: A Merry Return to the Mainstage
+youtube_url: ""
+---
 Ever since I performed in my first opera many, many moons ago, I've been hooked by the rush of production week. That call over the intercom to take your places for the top of the show. The sound of the orchestra tuning. My eyes adjusting to the darkened hall under the lights and controlling my breathing to make sure my first entry is on point and in tune. The energy you get from the audience's reactions to cheeky dialogue or a show-stopping number.
 
 Very few things could compare to performing a live opera including costumes, choreography, sets, lights, orchestra, and, of course, singers. All week, as [Calgary Opera](/scene/companies/calgary-opera/) prepares for opening night of Lehár's [_The Merry Widow_](https://calgaryopera.com/21-22/merry-widow), I could definitely feel the excitement building to a fevered pitch — at least from my vantage point as a member of the chorus.

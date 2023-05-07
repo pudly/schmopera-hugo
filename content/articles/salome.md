@@ -1,22 +1,39 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = 2023-02-07T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Salome runs at the Four Seasons Centre for the Performing Arts for [five more shows](https://www.coc.ca/productions/23495), February 9, 11, 17, 19, and 24, 2023."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675780472/media/2023/02/sqCOCSalome_22-23-04-MC-D-0670_hq4v4l.jpg"
-primary_image_credit = "Ambur Braid as Salome (front) and Karita Mattila as Herodias (back) in the Canadian Opera Company’s production of Salome, 2023, photo: Michael Cooper."
-related_articles = ["articles/mewsy-goes-to-the-opera.md", "articles/strange-sensual-energy-salome-at-roh.md"]
-related_companies = []
-related_people = ["scene/people/carolyn-sproule.md", "scene/people/michael-colvin.md", "scene/people/jacques-arsenault.md", "scene/people/adam-luther.md", "scene/people/giles-tomkins.md", "scene/people/karita-mattila.md", "scene/people/michael-schade.md", "scene/people/owen-mccausland.md", "scene/people/ambur-braid.md"]
-short_description = "What's always drawn me to Braid on stage is her innate dramaticism. She understands character, nuance, backstory, and everything that an actor's actor loves to see another actor exercise on the stage."
-slug = "justice-is-served-in-the-cocs-salome"
-title = "Justice is served in the COC's Salome"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2023-02-07T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Salome runs at the Four Seasons Centre for the Performing Arts for [five
+  more shows](https://www.coc.ca/productions/23495), February 9, 11, 17, 19, and 24,
+  2023.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1675780472/media/2023/02/sqCOCSalome_22-23-04-MC-D-0670_hq4v4l.jpg
+primary_image_credit: 'Ambur Braid as Salome (front) and Karita Mattila as Herodias
+  (back) in the Canadian Opera Company’s production of Salome, 2023, photo: Michael
+  Cooper.'
+related_articles:
+- articles/mewsy-goes-to-the-opera.md
+- articles/strange-sensual-energy-salome-at-roh.md
+related_companies: []
+related_people:
+- scene/people/carolyn-sproule.md
+- scene/people/michael-colvin.md
+- scene/people/jacques-arsenault.md
+- scene/people/adam-luther.md
+- scene/people/giles-tomkins.md
+- scene/people/karita-mattila.md
+- scene/people/michael-schade.md
+- scene/people/owen-mccausland.md
+- scene/people/ambur-braid.md
+short_description: What's always drawn me to Braid on stage is her innate dramaticism.
+  She understands character, nuance, backstory, and everything that an actor's actor
+  loves to see another actor exercise on the stage.
+slug: justice-is-served-in-the-cocs-salome
+title: Justice is served in the COC's Salome
+youtube_url: ""
+---
 Hello Schmop-Tops! I've missed you! I've been off doing a few shows and recovering from the dark times, and let me tell you: what a way to come back to the game.
 
 I was lucky, because basically my first show back on the circuit was opening night of [COC's _Salome_](https://www.coc.ca/productions/23495). Acclaimed Canadian director Atom Egoyan helms this production with Johannes Debus leading the show from the pit.

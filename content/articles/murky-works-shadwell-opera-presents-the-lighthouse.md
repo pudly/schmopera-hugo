@@ -1,18 +1,31 @@
-+++
-author = ["authors/vivian-darkbloom.md"]
-categories = "Review"
-date = "2017-11-14T17:20:00-05:00"
-lastmod = "2017-11-14T21:09:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510698213319/2017-11-13---Paul-Curievici%2C-Pauls-Putnins%2C-Owain-Browne%2C-The-Lighthouse%2C-Shadwell-Opera%2C-directed-by-Jack-Furness%2C-Photo-Nick-Rutter-2017.jpg.jpg"
-primary_image_credit = "Paul Curievici, Pauls Putnins, Owain Browne, The Lighthouse, Shadwell Opera, directed by Jack Furness. Photo: Nick Rutter."
-publishDate = "2017-11-14T21:09:00-05:00"
-related_articles = ["articles/ghost-stories-true-stories-the-lighthouse.md","articles/in-review-erwartungtwice-through-the-heart.md","articles/dont-miss-the-rcms-unsettling-doublebill.md"]
-related_companies = ["scene/companies/shadwell-opera.md"]
-related_people = ["scene/people/paul-curievici.md","scene/people/owain-browne.md","scene/people/pauls-putnins.md"]
-short_description = "The confusion in the space translated into some confusion about the plot. Unfortunately, it wasn’t very clear that the trio of sailors from the opening were sitting before a board of inquiry, which also made the ending quite difficult to follow when it came. The first part of the opera was murky and perhaps could have been more interesting in its staging."
-slug = "murky-works-shadwell-opera-presents-the-lighthouse"
-title = "Murky works: Shadwell Opera presents The Lighthouse"
-+++
+---
+author:
+- authors/vivian-darkbloom.md
+categories: Review
+date: "2017-11-14T17:20:00-05:00"
+lastmod: "2017-11-14T21:09:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510698213319/2017-11-13---Paul-Curievici%2C-Pauls-Putnins%2C-Owain-Browne%2C-The-Lighthouse%2C-Shadwell-Opera%2C-directed-by-Jack-Furness%2C-Photo-Nick-Rutter-2017.jpg.jpg
+primary_image_credit: 'Paul Curievici, Pauls Putnins, Owain Browne, The Lighthouse,
+  Shadwell Opera, directed by Jack Furness. Photo: Nick Rutter.'
+publishDate: "2017-11-14T21:09:00-05:00"
+related_articles:
+- articles/ghost-stories-true-stories-the-lighthouse.md
+- articles/in-review-erwartungtwice-through-the-heart.md
+- articles/dont-miss-the-rcms-unsettling-doublebill.md
+related_companies:
+- scene/companies/shadwell-opera.md
+related_people:
+- scene/people/paul-curievici.md
+- scene/people/owain-browne.md
+- scene/people/pauls-putnins.md
+short_description: The confusion in the space translated into some confusion about
+  the plot. Unfortunately, it wasn’t very clear that the trio of sailors from the
+  opening were sitting before a board of inquiry, which also made the ending quite
+  difficult to follow when it came. The first part of the opera was murky and perhaps
+  could have been more interesting in its staging.
+slug: murky-works-shadwell-opera-presents-the-lighthouse
+title: 'Murky works: Shadwell Opera presents The Lighthouse'
+---
 
 [Shadwell Opera](/scene/companies/shadwell-opera/) is a brave young company based in East London - they continue to present exciting and innovative music from the 20th and 21st centuries. I was intrigued to see their production of Peter Maxwell Davies' dark, macabre monster, [*The Lighthouse*](https://www.hackneyshowroom.com/the-lighthouse/). They chose the Hackney Showroom to present the opera, an unconventional space in East London nestled amongst artist studios. I loved the venue - it was the perfect space for such a strange and atmospheric work. 
 

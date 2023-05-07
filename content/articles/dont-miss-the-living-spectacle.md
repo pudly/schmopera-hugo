@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-10-19T22:43:00-04:00"
-lastmod = "2015-10-21T09:38:00-04:00"
-preamble = "On November 7th, the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/) presents a concert of new music, featuring some of my favourite artists. Sopranos [Ambur Braid](/talking-with-singers-ambur-braid/) and [Carla Huhtanen](/scene/people/carla-huhtanen/) join pianist [Steven Philcox](http://www.canadianartsongproject.ca/about/) and dancer [Jennifer Nichols](https://twitter.com/JennEMethod) in a showcase of a brand new song cycle by Erik Ross *The Living Spectacle*, and music by Brian Harman (*Sewing the Earthworm*), Libby Larsen, and Richard Strauss. I spoke with Canadian Art Song Project co-founders Lawrence Wiliford and Steven Philcox, and composers Erik Ross and Brian Harman about putting this evening together to showcase Canadian music and the people that create it.\n\n*The Living Spectacle* happens November 7th at 7:30pm at The Extension Room, 30 Eastern Ave. For details and tickets, follow the box office links below."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445308457010/spectacle.jpg.jpg"
-primary_image_credit = "Clockwise from top left: Carla Huhtanen, soprano, Jennifer Nichols, dancer, Ambur Braid, soprano, Steven Philcox, pianist."
-publishDate = "2015-10-21T09:38:00-04:00"
-related_companies = ["scene/companies/canadian-art-song-project.md"]
-related_people = ["scene/people/lawrence-wiliford.md","scene/people/carla-huhtanen.md","scene/people/ambur-braid.md","scene/people/jennifer-nichols.md","scene/people/steven-philcox.md"]
-short_description = "On November 7th, the Canadian Art Song Project presents a concert of new music, featuring some of my favourite artists. Sopranos Ambur Braid and Carla Huhtanen join pianist Steven Philcox and dancer Jennifer Nichols in a showcase of a brand new song cycle by Erik Ross The Living Spectacle, and music by Brian Harman (Sewing the Earthworm), Libby Larsen, and Richard Strauss."
-slug = "dont-miss-the-living-spectacle"
-title = "Don&#039;t miss: The Living Spectacle"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-10-19T22:43:00-04:00"
+lastmod: "2015-10-21T09:38:00-04:00"
+preamble: |-
+  On November 7th, the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/) presents a concert of new music, featuring some of my favourite artists. Sopranos [Ambur Braid](/talking-with-singers-ambur-braid/) and [Carla Huhtanen](/scene/people/carla-huhtanen/) join pianist [Steven Philcox](http://www.canadianartsongproject.ca/about/) and dancer [Jennifer Nichols](https://twitter.com/JennEMethod) in a showcase of a brand new song cycle by Erik Ross *The Living Spectacle*, and music by Brian Harman (*Sewing the Earthworm*), Libby Larsen, and Richard Strauss. I spoke with Canadian Art Song Project co-founders Lawrence Wiliford and Steven Philcox, and composers Erik Ross and Brian Harman about putting this evening together to showcase Canadian music and the people that create it.
+
+  *The Living Spectacle* happens November 7th at 7:30pm at The Extension Room, 30 Eastern Ave. For details and tickets, follow the box office links below.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445308457010/spectacle.jpg.jpg
+primary_image_credit: 'Clockwise from top left: Carla Huhtanen, soprano, Jennifer
+  Nichols, dancer, Ambur Braid, soprano, Steven Philcox, pianist.'
+publishDate: "2015-10-21T09:38:00-04:00"
+related_companies:
+- scene/companies/canadian-art-song-project.md
+related_people:
+- scene/people/lawrence-wiliford.md
+- scene/people/carla-huhtanen.md
+- scene/people/ambur-braid.md
+- scene/people/jennifer-nichols.md
+- scene/people/steven-philcox.md
+short_description: On November 7th, the Canadian Art Song Project presents a concert
+  of new music, featuring some of my favourite artists. Sopranos Ambur Braid and Carla
+  Huhtanen join pianist Steven Philcox and dancer Jennifer Nichols in a showcase of
+  a brand new song cycle by Erik Ross The Living Spectacle, and music by Brian Harman
+  (Sewing the Earthworm), Libby Larsen, and Richard Strauss.
+slug: dont-miss-the-living-spectacle
+title: 'Don&#039;t miss: The Living Spectacle'
+---
 
 ## 1. Can you tell us about programming this concert?
 

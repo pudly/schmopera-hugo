@@ -1,19 +1,31 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-03-17T16:12:00+00:00"
-lastmod = "2016-03-17T17:50:00+00:00"
-preamble = "Editor's note: if you love the title of this review, [you'll really love our T-shirts](http://store.schmopera.com/collections/t-shirts/products/opera-is-boys-being-girls-being-boys-womens-t-shirt)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458232109584/2016-03-17---Square---Alcina_-Nicola-Betts-Photography.jpg.jpg"
-primary_image_credit = "l-r: Meghan Jamieson as Alcina, Christina Campsall as Ruggiero. Photo by Nicola Betts Photography"
-publishDate = "2016-03-17T16:48:00+00:00"
-related_articles = ["articles/he-saidshe-said-alcina-at-opera-atelier.md","articles/sleek-storytelling-costly-illusions-wnos-alcina.md"]
-related_companies = ["scene/companies/royal-conservatory-of-music.md"]
-related_people = ["scene/people/christina-campsall.md","scene/people/asitha-tennekoon.md","scene/people/keith-lam.md"]
-short_description = "The stage was filled with some amazing talent to watch. All the singers did a remarkable job keeping up with Taurins&#039;s spritely, yet well-informed tempi, while there were some hallmarks of the &quot;student production&quot; it&#039;s definitely one of the better ones I&#039;ve seen - not just at GGS, but overall. "
-slug = "boys-who-are-girls-who-love-girls-that-are-boys-or-handels-alcina"
-title = "Boys who are girls who love girls that are boys, or, Handel&#039;s Alcina"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-03-17T16:12:00+00:00"
+lastmod: "2016-03-17T17:50:00+00:00"
+preamble: 'Editor''s note: if you love the title of this review, [you''ll really love
+  our T-shirts](http://store.schmopera.com/collections/t-shirts/products/opera-is-boys-being-girls-being-boys-womens-t-shirt).'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458232109584/2016-03-17---Square---Alcina_-Nicola-Betts-Photography.jpg.jpg
+primary_image_credit: 'l-r: Meghan Jamieson as Alcina, Christina Campsall as Ruggiero.
+  Photo by Nicola Betts Photography'
+publishDate: "2016-03-17T16:48:00+00:00"
+related_articles:
+- articles/he-saidshe-said-alcina-at-opera-atelier.md
+- articles/sleek-storytelling-costly-illusions-wnos-alcina.md
+related_companies:
+- scene/companies/royal-conservatory-of-music.md
+related_people:
+- scene/people/christina-campsall.md
+- scene/people/asitha-tennekoon.md
+- scene/people/keith-lam.md
+short_description: 'The stage was filled with some amazing talent to watch. All the
+  singers did a remarkable job keeping up with Taurins&#039;s spritely, yet well-informed
+  tempi, while there were some hallmarks of the &quot;student production&quot; it&#039;s
+  definitely one of the better ones I&#039;ve seen - not just at GGS, but overall. '
+slug: boys-who-are-girls-who-love-girls-that-are-boys-or-handels-alcina
+title: Boys who are girls who love girls that are boys, or, Handel&#039;s Alcina
+---
 
 On Wednesday, March 16th I filed into my amazing seat (yet another one - thanks, [Royal Conservatory](/scene/companies/royal-conservatory-of-music/)) in Koerner Hall to take in the students and guests of the Glenn Gould School, performing Handel's magical, mystery tour de force, *Alcina*. 
 

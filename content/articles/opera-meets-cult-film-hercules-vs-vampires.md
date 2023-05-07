@@ -1,16 +1,23 @@
-+++
-author = ["authors/tracy-monaghan.md"]
-categories = "Review"
-date = "2018-02-01T16:51:00-05:00"
-lastmod = "2018-02-02T16:28:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517521454256/-RR9ZlOWpgEbInG5i_J_3boI2_JEeYXsOyUEMjmjbUQZkEf2Jej0oklXpRAa_iZggolK0dBq5DMtyp90234BARBuqfmv%3Dw1360-h1360-c"
-publishDate = "2018-02-01T21:23:00-05:00"
-related_articles = ["articles/dont-miss-hercules-vs-vampires.md","articles/erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional.md"]
-related_companies = ["scene/companies/nashville-opera.md"]
-short_description = "The evening was a charming departure from what we think is &quot;traditional&quot; opera: ticket holders were encouraged to dress up in costumes to match the spooky theme of the opera, to react organically during the piece, and to generally be a bit less stuffy than normal."
-slug = "opera-meets-cult-film-hercules-vs-vampires"
-title = "Opera meets cult film: Hercules vs. Vampires"
-+++
+---
+author:
+- authors/tracy-monaghan.md
+categories: Review
+date: "2018-02-01T16:51:00-05:00"
+lastmod: "2018-02-02T16:28:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517521454256/-RR9ZlOWpgEbInG5i_J_3boI2_JEeYXsOyUEMjmjbUQZkEf2Jej0oklXpRAa_iZggolK0dBq5DMtyp90234BARBuqfmv%3Dw1360-h1360-c
+publishDate: "2018-02-01T21:23:00-05:00"
+related_articles:
+- articles/dont-miss-hercules-vs-vampires.md
+- articles/erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional.md
+related_companies:
+- scene/companies/nashville-opera.md
+short_description: 'The evening was a charming departure from what we think is &quot;traditional&quot;
+  opera: ticket holders were encouraged to dress up in costumes to match the spooky
+  theme of the opera, to react organically during the piece, and to generally be a
+  bit less stuffy than normal.'
+slug: opera-meets-cult-film-hercules-vs-vampires
+title: 'Opera meets cult film: Hercules vs. Vampires'
+---
 
 In a special, one-night only event, Nashville Opera presented Patrick Morganelli's *Hercules vs. Vampires*, an opera he composed to partner with the 1961 B-horror film *Hercules in the Haunted World*, directed by Mario Bava. The evening was a charming departure from what we think is "traditional" opera: ticket holders were encouraged to dress up in costumes to match the spooky theme of the opera, to react organically during the piece, and to generally be a bit less stuffy than normal. Additionally, Nashville Opera priced the tickets modestly, making the opera more accessible to attend. Director John Hoomes chose to cast mostly young singers, several from its Mary Ragland Emerging Artists program, and many of whom made their Nashville Opera debuts in *Hercules*.
 

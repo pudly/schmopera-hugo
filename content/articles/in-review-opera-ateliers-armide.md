@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-10-31T11:59:00-04:00"
-lastmod = "2015-10-31T13:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446309191963/2015-10-30---OAArmide---Bruce-Zinger---Square.jpg.jpg"
-primary_image_credit = "Colin Ainsworth (Renaud) and Peggy Kriha Dye (Armide) in Opera Atelier's Armide. Photo by Bruce Zinger."
-publishDate = "2015-10-31T13:07:00-04:00"
-related_articles = ["articles/orpheus-eurydice-opera-atelier.md","articles/he-saidshe-said-alcina-at-opera-atelier.md","articles/a-daring-desirous-doublebill-at-opera-atelier.md"]
-related_companies = ["scene/companies/opera-atelier.md"]
-related_people = ["scene/people/peggy-kriha-dye.md","scene/people/colin-ainsworth.md","scene/people/meghan-lindsay.md","scene/people/carla-huhtanen.md","scene/people/stephen-hegedus.md","scene/people/aaron-ferguson.md"]
-short_description = "Earlier this month I spoke with OA Artistic Director Marshall Pynkoski, who said, &quot;love can be something that saves people or destroys people. Love is amoral. Love cuts through like a knife – anyone in love is cut open. Love is more powerful than hate, but that doesn’t mean it’s a happy ending.&quot;"
-slug = "in-review-opera-ateliers-armide"
-title = "In review: Opera Atelier&#039;s Armide"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-10-31T11:59:00-04:00"
+lastmod: "2015-10-31T13:07:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446309191963/2015-10-30---OAArmide---Bruce-Zinger---Square.jpg.jpg
+primary_image_credit: Colin Ainsworth (Renaud) and Peggy Kriha Dye (Armide) in Opera
+  Atelier's Armide. Photo by Bruce Zinger.
+publishDate: "2015-10-31T13:07:00-04:00"
+related_articles:
+- articles/orpheus-eurydice-opera-atelier.md
+- articles/he-saidshe-said-alcina-at-opera-atelier.md
+- articles/a-daring-desirous-doublebill-at-opera-atelier.md
+related_companies:
+- scene/companies/opera-atelier.md
+related_people:
+- scene/people/peggy-kriha-dye.md
+- scene/people/colin-ainsworth.md
+- scene/people/meghan-lindsay.md
+- scene/people/carla-huhtanen.md
+- scene/people/stephen-hegedus.md
+- scene/people/aaron-ferguson.md
+short_description: Earlier this month I spoke with OA Artistic Director Marshall Pynkoski,
+  who said, &quot;love can be something that saves people or destroys people. Love
+  is amoral. Love cuts through like a knife – anyone in love is cut open. Love is
+  more powerful than hate, but that doesn’t mean it’s a happy ending.&quot;
+slug: in-review-opera-ateliers-armide
+title: 'In review: Opera Atelier&#039;s Armide'
+---
 
 Torquato Tasso's 1581 poem *La Gerusalemme liberata* has already taken up a large portion of my 2015/16 opera season. I just finished working on the Canadian Opera Company's current [triple bill](http://www.coc.ca/PerformancesAndTickets/1516Season/PyramusandThisbe.aspx), which includes Monteverdi's scena *Il combattimento di Tancredi e Clorinda*; the scene's libretto comes from Tasso's poem, in which the Christian Crusader Tancredi falls in love with Clorinda, a Muslim warrior, and kills her mistakenly in a night-cloaked battle.
 

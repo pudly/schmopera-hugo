@@ -1,28 +1,28 @@
-+++
-date = "2016-11-05T16:36:00+00:00"
-discipline = "Soprano"
-lastmod = "2016-11-05T16:36:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478363608634/c5cc4c_fa6d15bc63b74f3f9b31fad5da5047d1.jpg.jpg"
-primary_image_credit = "Robert Catto"
-publishDate = "2016-11-05T16:36:00+00:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/shadwell-opera.md"]
-slug = "madeleine-pierard"
-title = "Madeleine Pierard"
-website = "http://www.madeleinepierard.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/madeleine.pierard"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/maddypierard"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/mpierard"
-_template = "people_single"
-+++
+---
+date: "2016-11-05T16:36:00+00:00"
+discipline: Soprano
+lastmod: "2016-11-05T16:36:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478363608634/c5cc4c_fa6d15bc63b74f3f9b31fad5da5047d1.jpg.jpg
+primary_image_credit: Robert Catto
+publishDate: "2016-11-05T16:36:00+00:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/shadwell-opera.md
+slug: madeleine-pierard
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/madeleine.pierard
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/maddypierard
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/mpierard
+title: Madeleine Pierard
+website: http://www.madeleinepierard.com/
+---
 
 Lyric soprano Madeleine Pierard excels in adventurous repertoire, ranging from baroque and bel canto masterpieces to 20th century and contemporary compositions, and is noted for her outstanding vocal dexterity and electrifying stage presence. A native New Zealander, she studied at the Royal College of Music and the National Opera Studio, garnering numerous awards including the Lexus Song Quest, Lies Askonas and Royal Overseas League prizes, and was subsequently awarded a coveted place on the Jette Parker Young Artists Programme at The Royal Opera House, Covent Garden. She is a New Generation Artist with the Arts Foundation of New Zealand and studies with Yvonne Kenny.
  

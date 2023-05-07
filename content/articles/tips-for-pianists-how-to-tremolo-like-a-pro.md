@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2017-01-24T10:39:00+00:00"
-lastmod = "2017-01-24T17:17:00+00:00"
-preamble = "Sometimes a tremolo is just a tremolo, but sometimes there's more to it than that. Pianists, when you're playing orchestral reductions of opera scores, the pages can seem littered with tremolos. At worst, they can make you feel like you're a living player-piano in an old saloon; at best, they offer the textures and forward propulsion that can make an orchestra such a thrilling beast.\n\nWe've summed up three big categories of tremolos that pop up in the pages of piano-vocal opera scores, and how to make them all sound as orchestral as possible."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485272563514/2017-01-23---Tremolo.jpg.jpg"
-publishDate = "2017-01-24T17:11:00+00:00"
-related_articles = ["articles/the-opera-pianists-list-o-priorities.md","articles/pianists-3-tips-for-sounding-like-an-orchestra.md","articles/the-pianists-tech-week-plight.md"]
-short_description = "In a case like this, sometimes a slower tremolo yields better results on the piano. If you try for speed, it&#039;ll likely sound a bit drier, a bit more percussive; a slow tremolo lets you just sit in the sound that already exists, and your muscles will be relaxed enough to sustain it."
-slug = "tips-for-pianists-how-to-tremolo-like-a-pro"
-title = "Tips for pianists: how to tremolo like a pro"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2017-01-24T10:39:00+00:00"
+lastmod: "2017-01-24T17:17:00+00:00"
+preamble: |-
+  Sometimes a tremolo is just a tremolo, but sometimes there's more to it than that. Pianists, when you're playing orchestral reductions of opera scores, the pages can seem littered with tremolos. At worst, they can make you feel like you're a living player-piano in an old saloon; at best, they offer the textures and forward propulsion that can make an orchestra such a thrilling beast.
+
+  We've summed up three big categories of tremolos that pop up in the pages of piano-vocal opera scores, and how to make them all sound as orchestral as possible.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485272563514/2017-01-23---Tremolo.jpg.jpg
+publishDate: "2017-01-24T17:11:00+00:00"
+related_articles:
+- articles/the-opera-pianists-list-o-priorities.md
+- articles/pianists-3-tips-for-sounding-like-an-orchestra.md
+- articles/the-pianists-tech-week-plight.md
+short_description: In a case like this, sometimes a slower tremolo yields better results
+  on the piano. If you try for speed, it&#039;ll likely sound a bit drier, a bit more
+  percussive; a slow tremolo lets you just sit in the sound that already exists, and
+  your muscles will be relaxed enough to sustain it.
+slug: tips-for-pianists-how-to-tremolo-like-a-pro
+title: 'Tips for pianists: how to tremolo like a pro'
+---
 
 ## When it's the timpani
 

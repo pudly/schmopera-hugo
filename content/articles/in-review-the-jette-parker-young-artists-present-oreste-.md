@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-11-13T12:08:00+00:00"
-lastmod = "2016-11-14T12:14:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479120396655/2016-11-15---Square-161107_0964-oreste-adj-ANGELA-SIMKIN-AS-ORESTE-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg"
-primary_image_credit = "Angela Simkin as Oreste, (c) ROH, 2016. Photo by Clive Barda."
-publishDate = "2016-11-14T12:13:00+00:00"
-related_articles = ["articles/dynamic-and-physical-rinaldo-at-oper-frankfurt.md","articles/akhmetshinas-devastating-carmen-at-wiltons-music-hall.md","articles/a-product-of-great-artistry-the-return-of-ulysses-at-the-roundhouse.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/vlada-borovko.md","scene/people/angela-simkin.md","scene/people/thomas-atkins.md","scene/people/jennifer-davis.md","scene/people/simon-shibambu.md","scene/people/nick-fletcher.md","scene/people/emily-edmonds.md"]
-short_description = "The action unfolds in the graffiti-covered, industrial corners of what could be any contemporary city. During the overture, we were treated with a picture of the goings-on under Toante: a ruthless leader, his witless captain of the guard, and a near-mad Ifigenia, who through rogue mascara, bludgeons to death one unlucky visitor with a hammer. Narrative hook, indeed."
-slug = "in-review-the-jette-parker-young-artists-present-oreste-"
-title = "In review: the Jette Parker Young Artists present Oreste "
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-11-13T12:08:00+00:00"
+lastmod: "2016-11-14T12:14:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479120396655/2016-11-15---Square-161107_0964-oreste-adj-ANGELA-SIMKIN-AS-ORESTE-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg
+primary_image_credit: Angela Simkin as Oreste, (c) ROH, 2016. Photo by Clive Barda.
+publishDate: "2016-11-14T12:13:00+00:00"
+related_articles:
+- articles/dynamic-and-physical-rinaldo-at-oper-frankfurt.md
+- articles/akhmetshinas-devastating-carmen-at-wiltons-music-hall.md
+- articles/a-product-of-great-artistry-the-return-of-ulysses-at-the-roundhouse.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/vlada-borovko.md
+- scene/people/angela-simkin.md
+- scene/people/thomas-atkins.md
+- scene/people/jennifer-davis.md
+- scene/people/simon-shibambu.md
+- scene/people/nick-fletcher.md
+- scene/people/emily-edmonds.md
+short_description: 'The action unfolds in the graffiti-covered, industrial corners
+  of what could be any contemporary city. During the overture, we were treated with
+  a picture of the goings-on under Toante: a ruthless leader, his witless captain
+  of the guard, and a near-mad Ifigenia, who through rogue mascara, bludgeons to death
+  one unlucky visitor with a hammer. Narrative hook, indeed.'
+slug: in-review-the-jette-parker-young-artists-present-oreste-
+title: 'In review: the Jette Parker Young Artists present Oreste '
+---
 
 Two hundred and eighty-two years after its first performance as part of the 1734/35 Covent Garden season, members of the Royal Opera's Jette Parker Young Artists Programme have put up *Oreste* at Wilton's Music Hall. *Oreste* is one of three *pasticcio* operas by Handel; set to an anonymous libretto after Euripides' *Iphigenia in Tauris* and Barlocci's *L'Oreste*, it is essentially a collection of previously-written music. The *pasticcio* caught on in the 18th century, in part because the genre allowed for audiences to hear popular arias again.
 

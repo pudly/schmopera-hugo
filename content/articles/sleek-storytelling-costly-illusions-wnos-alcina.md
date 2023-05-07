@@ -1,17 +1,29 @@
-+++
-author = ["authors/molly-simoneau.md"]
-categories = "Review"
-date = "2017-11-06T10:25:00-05:00"
-lastmod = "2017-11-06T16:53:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509995388800/2017-11-06---square---Angela-Meade-sings-the-title-role-in-WNO's-Alcina.2.creditScottSuchman.jpg.jpg"
-publishDate = "2017-11-06T14:43:00-05:00"
-related_articles = ["articles/tamara-wilson-gives-a-flawless-aida-at-wno.md","articles/boys-who-are-girls-who-love-girls-that-are-boys-or-handels-alcina.md"]
-related_companies = ["scene/companies/washington-national-opera.md"]
-related_people = ["scene/people/angela-meade.md","scene/people/elizabeth-deshong.md","scene/people/daniela-mack.md","scene/people/ying-fang.md"]
-short_description = "Is the cold harsh truth better than a comforting lie? That is the question asked by Handel&#039;s Alcina, an opera filled with lies and illusions; the beauty of Alcina&#039;s island, Bradamante&#039;s disguise as Ricciardo, and Ruggiero&#039;s enchanted love for Alcina are all falsehoods whose exposure have serious emotional consequences for the characters of this story."
-slug = "sleek-storytelling-costly-illusions-wnos-alcina"
-title = "Sleek storytelling &amp; costly illusions: WNO&#039;s Alcina"
-+++
+---
+author:
+- authors/molly-simoneau.md
+categories: Review
+date: "2017-11-06T10:25:00-05:00"
+lastmod: "2017-11-06T16:53:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509995388800/2017-11-06---square---Angela-Meade-sings-the-title-role-in-WNO's-Alcina.2.creditScottSuchman.jpg.jpg
+publishDate: "2017-11-06T14:43:00-05:00"
+related_articles:
+- articles/tamara-wilson-gives-a-flawless-aida-at-wno.md
+- articles/boys-who-are-girls-who-love-girls-that-are-boys-or-handels-alcina.md
+related_companies:
+- scene/companies/washington-national-opera.md
+related_people:
+- scene/people/angela-meade.md
+- scene/people/elizabeth-deshong.md
+- scene/people/daniela-mack.md
+- scene/people/ying-fang.md
+short_description: Is the cold harsh truth better than a comforting lie? That is the
+  question asked by Handel&#039;s Alcina, an opera filled with lies and illusions;
+  the beauty of Alcina&#039;s island, Bradamante&#039;s disguise as Ricciardo, and
+  Ruggiero&#039;s enchanted love for Alcina are all falsehoods whose exposure have
+  serious emotional consequences for the characters of this story.
+slug: sleek-storytelling-costly-illusions-wnos-alcina
+title: 'Sleek storytelling &amp; costly illusions: WNO&#039;s Alcina'
+---
 
 Is the cold harsh truth better than a comforting lie?  That is the question asked by Handel's *Alcina*, an opera filled with lies and illusions; the beauty of Alcina's island, Bradamante's disguise as Ricciardo, and Ruggiero's enchanted love for Alcina are all falsehoods whose exposure have serious emotional consequences for the characters of this story. "Ignorance is bliss," so the idiom says, and yet another reminds that "the truth will set you free."
 

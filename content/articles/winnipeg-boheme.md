@@ -1,22 +1,35 @@
-+++
-author = ["authors/neil-weisensel.md"]
-categories = "Review"
-date = "2019-10-07T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Against the Grain Theatre's [production of _La bohème_](http://againstthegraintheatre.com/la-boheme/) continues its cross-Canada tour through Nov. 7."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1570494536/media/2019/10/sqOP190927_DSC4071_dznjel.jpg"
-primary_image_credit = "Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo: Jessica Wittman."
-related_articles = ["articles/transladapted-bohème-offers-fresh-intimate-production-for-national-tour.md", "articles/hype-atg-boheme.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/jonelle-sills.md", "scene/people/gregory-finney.md", "scene/people/marcel-dentremont.md", "scene/people/giles-tomkins.md", "scene/people/danika-lorn.md", "scene/people/clarence-frazer.md"]
-short_description = "Ivany told me that there are always audience members at these performances for whom opera is a new experience, and I think bringing opera to new audiences in this manner is a fantastic idea."
-slug = "immersed-and-captivated-by-atgs-boheme-in-winnipeg"
-title = "Immersed and captivated by AtG's Bohème in Winnipeg"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/neil-weisensel.md
+categories: Review
+date: "2019-10-07T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Against the Grain Theatre's [production of _La bohème_](http://againstthegraintheatre.com/la-boheme/)
+  continues its cross-Canada tour through Nov. 7.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1570494536/media/2019/10/sqOP190927_DSC4071_dznjel.jpg
+primary_image_credit: 'Against the Grain Theatre''s touring production of La bohème,
+  photographed in Banff, AB, 2019. Photo: Jessica Wittman.'
+related_articles:
+- articles/transladapted-bohème-offers-fresh-intimate-production-for-national-tour.md
+- articles/hype-atg-boheme.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/jonelle-sills.md
+- scene/people/gregory-finney.md
+- scene/people/marcel-dentremont.md
+- scene/people/giles-tomkins.md
+- scene/people/danika-lorn.md
+- scene/people/clarence-frazer.md
+short_description: Ivany told me that there are always audience members at these performances
+  for whom opera is a new experience, and I think bringing opera to new audiences
+  in this manner is a fantastic idea.
+slug: immersed-and-captivated-by-atgs-boheme-in-winnipeg
+title: Immersed and captivated by AtG's Bohème in Winnipeg
+youtube_url: ""
+---
 Two of my worlds collided when I went to see opera at The Pyramid Cabaret. I was a regular at the Pyramid (and its 90s predecessor, The Spectrum) and saw a lot of great bands there in the 80s and 90s, including The Bourbon Tabernacle Choir and… well, the rest is a blur. It was that kind of place.
 
 As soon as I found out that Joel Ivany's Against the Grain Theatre was going to present Puccini's timeless masterpiece _La Bohème_ at my old haunt, I knew I had to be there. Ivany has been steadily gaining nationwide attention for his imaginative re-renderings of classic operas, from Mozart to Puccini and much more.

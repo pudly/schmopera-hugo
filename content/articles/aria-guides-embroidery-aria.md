@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2017-08-13T20:35:00-04:00"
-lastmod = "2017-08-14T12:27:00-04:00"
-preamble = "Have you ever been faced with an ugly truth that's hard to deny? That's the gist of the stunning \"Embroidery Aria\", sung by Ellen Orford in Britten's *Peter Grimes*. She's one of the few people in her small English town who is sympathetic to her friend Peter, and the ostracism he's feeling from his community; yet when she finds the sweater that belonged to a young boy that Peter enlisted to help on his fishing boat, she's forced to put her personal feelings for her friend up against what might be damning evidence of his actions.\n\nThe \"Embroidery Aria\" is no easy sing, and as you work on it in the practice room and with your teachers and coaches, we can help you get off on the right track with our latest Aria Guide:\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502726825769/2017-08-14---Embroidery.jpg.jpg"
-publishDate = "2017-08-14T12:27:00-04:00"
-related_articles = ["articles/aria-guides-mi-chiamano-mimi.md", "articles/aria-guides-je-suis-encor.md", "articles/aria-guides-schweig-damit-dich-niemand-warnt.md"]
-short_description = "Have you ever been faced with an ugly truth that's hard to deny? That's the gist of the stunning \"Embroidery Aria\", sung by Ellen Orford in Britten's Peter Grimes. The Embroidery Aria is no easy sing, and as you work on it in the practice room and with your teachers and coaches, we can help you get off on the right track with our latest Aria Guide:"
-slug = "aria-guides-embroidery-aria"
-title = "Aria guides: Embroidery Aria"
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2017-08-13T20:35:00-04:00"
+lastmod: "2017-08-14T12:27:00-04:00"
+preamble: |+
+  Have you ever been faced with an ugly truth that's hard to deny? That's the gist of the stunning "Embroidery Aria", sung by Ellen Orford in Britten's *Peter Grimes*. She's one of the few people in her small English town who is sympathetic to her friend Peter, and the ostracism he's feeling from his community; yet when she finds the sweater that belonged to a young boy that Peter enlisted to help on his fishing boat, she's forced to put her personal feelings for her friend up against what might be damning evidence of his actions.
 
-+++
+  The "Embroidery Aria" is no easy sing, and as you work on it in the practice room and with your teachers and coaches, we can help you get off on the right track with our latest Aria Guide:
+
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502726825769/2017-08-14---Embroidery.jpg.jpg
+publishDate: "2017-08-14T12:27:00-04:00"
+related_articles:
+- articles/aria-guides-mi-chiamano-mimi.md
+- articles/aria-guides-je-suis-encor.md
+- articles/aria-guides-schweig-damit-dich-niemand-warnt.md
+short_description: 'Have you ever been faced with an ugly truth that''s hard to deny?
+  That''s the gist of the stunning "Embroidery Aria", sung by Ellen Orford in Britten''s
+  Peter Grimes. The Embroidery Aria is no easy sing, and as you work on it in the
+  practice room and with your teachers and coaches, we can help you get off on the
+  right track with our latest Aria Guide:'
+slug: aria-guides-embroidery-aria
+title: 'Aria guides: Embroidery Aria'
+---
 1. In case you needed another reminder that Britten is a genius, check this out: the most prominent method of [word painting](https://en.wikipedia.org/wiki/Word_painting) in this aria is also the key to singing it well. Like embroidery work, the winding tune should feel like an unbroken thread, where every twist and turn is accounted for. "Embroidery Aria" is written well for the voice, in that if the instrument is being used efficiently, the aria almost "sings itself". Glossing over details - letting harmless sixteenth notes go un-sung - will make it feel difficult and lengthy. Get a great start on this first note, on "em-", leaving lots of room for a vibrating vowel before you say the letter M; you can use a legato-friendly rolled R in "-broidery" to help connect that first note to the rest of the phrase.<figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502670730957/Aria-guide---Embroidery---annotated-1.jpg.jpg) </figure>

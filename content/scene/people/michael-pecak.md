@@ -1,18 +1,17 @@
-+++
-discipline = "Conductor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1643828623/media/2022/02/sqMichael_Pecak_arbljn.jpg"
-primary_image_credit = ""
-related_companies = []
-slug = "michael-pecak"
-title = "Michael Pecak"
-website = "https://www.michaelpecak.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/michael_pecak/"
-
-_template = "people_single"
-+++
+---
+discipline: Conductor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1643828623/media/2022/02/sqMichael_Pecak_arbljn.jpg
+primary_image_credit: ""
+related_companies: []
+slug: michael-pecak
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/michael_pecak/
+title: Michael Pecak
+website: https://www.michaelpecak.com/
+---
 Polish-American conductor and pianist Michael Pecak performs to great acclaim throughout the United States, Canada, and Europe. As a conductor, Michael collaborates with numerous American opera companies and festivals, including Chicago Opera Theater, Florida Grand Opera, Opera Saratoga, Opera Festival of Chicago, Winter Opera St. Louis, and Miami Music Festival among others. Based in his hometown of Chicago, Michael is on the music staff at the Northwestern University Opera Theater. As Music Director of the Chicago Citywide Symphony Orchestra, Michael leads major symphonic works by Beethoven, Dvorak, Brahms, Mozart, Tchaikovsky, and others. He has also collaborated with the Baltimore Chamber Orchestra and the Cameristi del Maggio Musicale Fiorentino in Italy.
 
 During the 2020-2021 season, Michael worked with Chicago Opera Theater on their virtual pandemic productions of “Rimsky Rebooted”, the midwest premiere of Kamala Sankaram’s _Taking Up Serpents_, as well as a chamber performance of Catán’s _La hija de Rappaccini_ in the Chicago Field Museum. Looking ahead, the 2021-2022 season has Michael working with the Opera Festival of Chicago in their inaugural season’s performances of Wolf-Ferrari’s _Il Segreto di Susanna_ and Puccini’s _Il Tabarro_. Also, Michael rejoins COT for performances of Bizet’s _Carmen_, Errollyn Wallen’s _Quamino’s Map_, as well as Wang Lu’s _The Beekeeper_, which will mark Michael’s company conducting debut.

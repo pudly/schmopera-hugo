@@ -1,27 +1,42 @@
-+++
-date = "2016-04-08T14:52:00+01:00"
-lastmod = "2016-04-08T14:52:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460123531962/Logo---Classical-Opera.jpg.jpg"
-publishDate = "2016-04-08T14:52:00+01:00"
-related_people = ["scene/people/ian-page.md","scene/people/gemma-summerfield.md","scene/people/stuart-jackson.md","scene/people/angela-simkin.md","scene/people/jennifer-france.md","scene/people/tom-verney.md","scene/people/david-shipley.md","scene/people/jacques-imbrailo.md","scene/people/ben-johnson.md","scene/people/james-laing.md","scene/people/helen-sherman.md","scene/people/sam-furness.md","scene/people/lawrence-zazzo.md","scene/people/louise-alder.md","scene/people/eleanor-dennis.md","scene/people/christopher-ainslie.md","scene/people/rupert-enticknap.md"]
-slug = "classical-opera"
-title = "Classical Opera"
-type_of_company = "Period Orchestra"
-website = "http://www.classicalopera.co.uk/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/classicaloperalondon"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/classicalopera"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCTM89s_yyfRz7Jxai0D34UA"
-_template = "company_single"
-+++
+---
+date: "2016-04-08T14:52:00+01:00"
+lastmod: "2016-04-08T14:52:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460123531962/Logo---Classical-Opera.jpg.jpg
+publishDate: "2016-04-08T14:52:00+01:00"
+related_people:
+- scene/people/ian-page.md
+- scene/people/gemma-summerfield.md
+- scene/people/stuart-jackson.md
+- scene/people/angela-simkin.md
+- scene/people/jennifer-france.md
+- scene/people/tom-verney.md
+- scene/people/david-shipley.md
+- scene/people/jacques-imbrailo.md
+- scene/people/ben-johnson.md
+- scene/people/james-laing.md
+- scene/people/helen-sherman.md
+- scene/people/sam-furness.md
+- scene/people/lawrence-zazzo.md
+- scene/people/louise-alder.md
+- scene/people/eleanor-dennis.md
+- scene/people/christopher-ainslie.md
+- scene/people/rupert-enticknap.md
+slug: classical-opera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/classicaloperalondon
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/classicalopera
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCTM89s_yyfRz7Jxai0D34UA
+title: Classical Opera
+type_of_company: Period Orchestra
+website: http://www.classicalopera.co.uk/
+---
 
 Established in 1997 Classical Opera is one of the leading exponents of the music of Mozart and his contemporaries.
 

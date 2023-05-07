@@ -1,26 +1,26 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1640984400/media/2021/12/EdenTremayne_shohqy.jpg"
-primary_image_credit = "Brent Calis."
-related_companies = ["scene/companies/san-diego-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/calgary-opera.md"]
-slug = "eden-tremayne"
-title = "Eden Tremayne"
-website = "http://edentremayne.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/edentremayne/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/EdenTremayne"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/eden.tremayne"
-
-_template = "people_single"
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1640984400/media/2021/12/EdenTremayne_shohqy.jpg
+primary_image_credit: Brent Calis.
+related_companies:
+- scene/companies/san-diego-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/calgary-opera.md
+slug: eden-tremayne
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/edentremayne/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/EdenTremayne
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/eden.tremayne
+title: Eden Tremayne
+website: http://edentremayne.com/
+---
 Eden Tremayne is a Canadian Opera singer recognized for her heartfelt singing and dynamic stage portrayals. Ms. Tremayne is returning for her third year as a McPhee Artist for **Calgary** **Opera**’s 2021-22 season. This season on the mainstage Eden will sing le Feu, le Rossignol and la Bergère in Ravel’s _L’Enfant et les Sortilèges_ as well as cover both Valencienne in _The Merry Widow_ and Violetta in _La Traviata_.
 
 In the 2019-2020 season, Eden had her **Calgary Opera** mainstage debut as Clotilde in Bellini’s _Norma_ and covered Musetta in Puccini’s _La bohème._ She was set to perform the role of Najade in Strauss’s _Ariadne auf Naxos_, as well as Hero in _Béatrice et Bénédict_ but those shows were cancelled due to the covid-19 pandemic.

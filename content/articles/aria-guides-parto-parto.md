@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2016-05-10T17:20:00-04:00"
-lastmod = "2017-05-15T16:29:00-04:00"
-postamble = "Do you have a request for our Aria Guides series? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "Sesto's Act I aria from *La clemenza di Tito* is somewhat of an Olympian feat for mezzo-sopranos. Packed into about 5 minutes, the aria has it all: a big, wide range, sustained lyric singing, and some intimidating coloratura saved for the end. The latest in our series of [Aria Guides](http://www.schmopera.com/search-results/?q=aria%20guides&page=1) is dedicated to easing the learning curve for all aspiring Sestos, a supportive start to go with your invaluable time spent with your teachers and coaches."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553365917/media/2019/03/sqParto.jpg"
-publishDate = "2016-05-11T06:30:00-04:00"
-related_articles = ["articles/aria-guides-va-laisse-couler-mes-larmes.md", "articles/aria-guides-didos-lament.md", "articles/aria-guides-the-composers-aria.md"]
-short_description = "Sesto's Act I aria from La clemenza di Tito is somewhat of an Olympian feat for mezzo-sopranos. Packed into about 5 minutes, the aria has it all: a big, wide range, sustained lyric singing, and some intimidating coloratura saved for the end. The latest in our series of Aria Guides is dedicated to easing the learning curve for all aspiring Sestos, a supportive start to go with your invaluable time spent with your teachers and coaches."
-slug = "aria-guides-parto-parto"
-title = "Aria guides: Parto, parto"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2016-05-10T17:20:00-04:00"
+lastmod: "2017-05-15T16:29:00-04:00"
+postamble: Do you have a request for our Aria Guides series? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+preamble: 'Sesto''s Act I aria from *La clemenza di Tito* is somewhat of an Olympian
+  feat for mezzo-sopranos. Packed into about 5 minutes, the aria has it all: a big,
+  wide range, sustained lyric singing, and some intimidating coloratura saved for
+  the end. The latest in our series of [Aria Guides](http://www.schmopera.com/search-results/?q=aria%20guides&page=1)
+  is dedicated to easing the learning curve for all aspiring Sestos, a supportive
+  start to go with your invaluable time spent with your teachers and coaches.'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553365917/media/2019/03/sqParto.jpg
+publishDate: "2016-05-11T06:30:00-04:00"
+related_articles:
+- articles/aria-guides-va-laisse-couler-mes-larmes.md
+- articles/aria-guides-didos-lament.md
+- articles/aria-guides-the-composers-aria.md
+short_description: 'Sesto''s Act I aria from La clemenza di Tito is somewhat of an
+  Olympian feat for mezzo-sopranos. Packed into about 5 minutes, the aria has it all:
+  a big, wide range, sustained lyric singing, and some intimidating coloratura saved
+  for the end. The latest in our series of Aria Guides is dedicated to easing the
+  learning curve for all aspiring Sestos, a supportive start to go with your invaluable
+  time spent with your teachers and coaches.'
+slug: aria-guides-parto-parto
+title: 'Aria guides: Parto, parto'
+---
  1. These initial "partos" can seem very significant, with all the regality and noble silence leading up to them. Mezzos, you can keep these short phrases simple, almost like a brief chance to test the waters as you get into this aria; the first two bars you sing can be treated like an extended pick-up beat to the "ma tu" to come. Be sure that the word "parto" keeps its natural inflection, meaning that the "-to" syllable should be lighter and shorter (yes, Mozart wrote two quarter notes, but like any good composer, rhythm is always contextualized by the natural pulse of the language).<figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462959781465/Aria-Guide---Parto---annotated-1-1.jpg.jpg)

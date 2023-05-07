@@ -1,25 +1,25 @@
-+++
-date = "2015-04-07T16:13:00-04:00"
-discipline = "Composer"
-lastmod = "2015-04-07T16:13:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428437562630/David-Lang-Photo-Credit-Peter-Serling.jpg.jpg"
-primary_image_credit = "Peter Serling"
-publishDate = "2015-04-07T16:13:00-04:00"
-related_companies = ["scene/companies/soundstreams.md", "scene/companies/american-opera-projects.md"]
-slug = "david-lang"
-title = "David Lang"
-website = "http://davidlangmusic.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/David-Lang/142037569238754"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/davidlangmusic"
-
-_template = "people_single"
-+++
+---
+date: "2015-04-07T16:13:00-04:00"
+discipline: Composer
+lastmod: "2015-04-07T16:13:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428437562630/David-Lang-Photo-Credit-Peter-Serling.jpg.jpg
+primary_image_credit: Peter Serling
+publishDate: "2015-04-07T16:13:00-04:00"
+related_companies:
+- scene/companies/soundstreams.md
+- scene/companies/american-opera-projects.md
+slug: david-lang
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/David-Lang/142037569238754
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/davidlangmusic
+title: David Lang
+website: http://davidlangmusic.com/
+---
 Passionate, prolific, and complicated, composer David Lang embodies the restless spirit of invention. Lang is at the same time deeply versed in the classical tradition and committed to music that resists categorization, constantly creating new forms.
 
 Lang is one of America’s most performed composers. Many of his works resemble each other only in the fierce intelligence and clarity of vision that inform their structures. His catalogue is extensive, and his opera, orchestra, chamber and solo works are by turns ominous, ethereal, urgent, hypnotic, unsettling and very emotionally direct. Much of his work seeks to expand the definition of virtuosity in music — even the deceptively simple pieces can be fiendishly difficult to play and require incredible concentration by musicians and audiences alike.

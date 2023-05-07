@@ -1,22 +1,36 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2020-03-02T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "[_Agrippina_](https://www.metopera.org/season/2019-20-season/agrippina/) runs at The Metropolitan Opera through March 7."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1583169117/media/2020/03/sqAgrippina-MetOpera-MartySohl_qt1kqz.jpg"
-primary_image_credit = "Joyce DiDonato in the title role of Handel’s Agrippina on the stairway to any empty throne. Photo: Marty Sohl/Met Opera."
-related_articles = ["articles/ariodante-or-the-hebridean-handel.md", "articles/spectacle-art-dragus-maximus.md", "articles/talking-with-singers-kate-lindsey.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/matthew-rose.md", "scene/people/luca-pisaroni.md", "scene/people/harry-bicket.md", "scene/people/iestyn-davies.md", "scene/people/kate-lindsey.md", "scene/people/joyce-didonato.md"]
-short_description = " This production doesn’t need that dumpster fire when it can rummage through an abundance of its own trash. Quite simply the elephant is an acknowledgment that bad behavior by people in power is timeless."
-slug = "agrippina-and-the-elephants-in-the-room"
-title = "Agrippina and the elephants in the room"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2020-03-02T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: '[_Agrippina_](https://www.metopera.org/season/2019-20-season/agrippina/)
+  runs at The Metropolitan Opera through March 7.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1583169117/media/2020/03/sqAgrippina-MetOpera-MartySohl_qt1kqz.jpg
+primary_image_credit: 'Joyce DiDonato in the title role of Handel’s Agrippina on the
+  stairway to any empty throne. Photo: Marty Sohl/Met Opera.'
+related_articles:
+- articles/ariodante-or-the-hebridean-handel.md
+- articles/spectacle-art-dragus-maximus.md
+- articles/talking-with-singers-kate-lindsey.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/matthew-rose.md
+- scene/people/luca-pisaroni.md
+- scene/people/harry-bicket.md
+- scene/people/iestyn-davies.md
+- scene/people/kate-lindsey.md
+- scene/people/joyce-didonato.md
+short_description: ' This production doesn’t need that dumpster fire when it can rummage
+  through an abundance of its own trash. Quite simply the elephant is an acknowledgment
+  that bad behavior by people in power is timeless.'
+slug: agrippina-and-the-elephants-in-the-room
+title: Agrippina and the elephants in the room
+youtube_url: ""
+---
 Agrippina is not alone. There are a couple of elephants in the room.
 
 One of them references a political party mascot and fortunately it isn’t an orange blimp with yellow hair. This production doesn’t need that dumpster fire when it can rummage through an abundance of its own trash. Quite simply the elephant is an acknowledgment that bad behavior by people in power is timeless. So much so that David McVicar’s eye-popping updating of _Agrippina_, Handel’s sharp and melodic opera from 1709, is actually just keeping up.

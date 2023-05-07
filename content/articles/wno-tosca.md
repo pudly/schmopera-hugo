@@ -1,22 +1,35 @@
-+++
-author = ["authors/molly-simoneau.md"]
-categories = "Review"
-date = "2019-05-12T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "WNO's [production of _Tosca_](http://www.kennedy-center.org/calendar/event/OTOSF) runs through May 25."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557686388/media/2019/05/sqWNOTosca.jpg"
-primary_image_credit = "Keri Alkema in the title role of Tosca, Washington National Opera, 2019. Photo: Scott Suchman."
-related_articles = ["articles/talking-with-singers-craig-colclough.md", "articles/talking-with-singers-keri-alkema.md", "articles/braid-brilliant-in-tosca-role-debut.md"]
-related_companies = ["scene/companies/washington-national-opera.md"]
-related_people = ["scene/people/david-cangelosi.md", "scene/people/alan-held.md", "scene/people/riccardo-massi.md", "scene/people/keri-alkema.md"]
-short_description = "To me, Tosca is just about a perfect piece of theater. I think it's funny that it often gets dismissed as absurdly over-the-top melodrama, especially in this moment in time when Game of Thrones is so wildly popular, and the latest Avengers instalment is the highest grossing movie in theaters."
-slug = "alkema-a-world-class-tosca-at-wno"
-title = "Alkema a world-class Tosca at WNO"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/molly-simoneau.md
+categories: Review
+date: "2019-05-12T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: WNO's [production of _Tosca_](http://www.kennedy-center.org/calendar/event/OTOSF)
+  runs through May 25.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1557686388/media/2019/05/sqWNOTosca.jpg
+primary_image_credit: 'Keri Alkema in the title role of Tosca, Washington National
+  Opera, 2019. Photo: Scott Suchman.'
+related_articles:
+- articles/talking-with-singers-craig-colclough.md
+- articles/talking-with-singers-keri-alkema.md
+- articles/braid-brilliant-in-tosca-role-debut.md
+related_companies:
+- scene/companies/washington-national-opera.md
+related_people:
+- scene/people/david-cangelosi.md
+- scene/people/alan-held.md
+- scene/people/riccardo-massi.md
+- scene/people/keri-alkema.md
+short_description: To me, Tosca is just about a perfect piece of theater. I think
+  it's funny that it often gets dismissed as absurdly over-the-top melodrama, especially
+  in this moment in time when Game of Thrones is so wildly popular, and the latest
+  Avengers instalment is the highest grossing movie in theaters.
+slug: alkema-a-world-class-tosca-at-wno
+title: Alkema a world-class Tosca at WNO
+youtube_url: ""
+---
 I have to admit it: I'm a bit obsessed with _Tosca_. Of all the performances I've [reviewed for Schmopera](/authors/molly-simoneau/), _Tosca_ is the one that I know the best, inside and out. I just love this opera! I've probably heard just about every recording (I'm partial to Callas/Di Stefano/Gobbi 1953) and seen it live half a dozen times. I own the score, and as a singer, I've pored over the rambling first act love duet, marvelling at how brilliantly Puccini sets the text, alternating the musical mood from flirtatious staccato, to lustful and languid, to declamatory and frantic, and back around to the rich, luxurious melodies for which he is known best. I love Scarpia's bombastic theme which opens the opera, but isn't heard at all in the third act, after he is killed. And my friends all roll their eyes at parties when I get on the subject again of how time stops when Tosca sings "Vissi d'arte," and how that is one of the most magical moments in the operatic canon.
 
 To me, _Tosca_ is just about a perfect piece of theater. I think it's funny that it often gets dismissed as absurdly over-the-top melodrama, especially in this moment in time when _Game of Thrones_ is so wildly popular, and the latest _Avengers_ instalment is the highest grossing movie in theaters. Don't we crave these kinds of stories? Stories about political intrigue, love, lust, sex, rape, torture, murder, suicide? _Tosca_ is par for the course nowadays.

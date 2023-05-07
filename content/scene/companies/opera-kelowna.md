@@ -1,28 +1,27 @@
-+++
-address = ""
-email = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1563655303/media/2019/07/Logo-OperaKelowna.jpg"
-primary_image_credit = ""
-related_people = ["scene/people/stephanie-tritchew.md", "scene/people/aaron-durand.md"]
-slug = "opera-kelowna"
-title = "Opera Kelowna"
-type_of_company = "Opera Company"
-website = "https://www.operakelowna.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/OperaKelowna"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/operakelowna"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/operakelowna/"
-
-_template = "company_single"
-+++
+---
+address: ""
+email: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1563655303/media/2019/07/Logo-OperaKelowna.jpg
+primary_image_credit: ""
+related_people:
+- scene/people/stephanie-tritchew.md
+- scene/people/aaron-durand.md
+slug: opera-kelowna
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/OperaKelowna
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/operakelowna
+- _template: company_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/operakelowna/
+title: Opera Kelowna
+type_of_company: Opera Company
+website: https://www.operakelowna.com/
+---
 Opera Kelowna is a registered, non-profit, charitable status society and member of the Canadian Association of Professional Opera Companies.
 
 Opera Kelowna is dedicated to equipping, educating, enlightening, enriching and entertaining diverse audiences through professional operatic performing arts and programming.

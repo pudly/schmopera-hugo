@@ -1,22 +1,25 @@
-+++
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1647736133/media/2022/03/Pene_Pati_tqhxjb.jpg"
-primary_image_credit = "Mark Leedom."
-related_companies = ["scene/companies/wiener-staatsoper.md", "scene/companies/san-francisco-opera.md", "scene/companies/san-diego-opera.md", "scene/companies/staatsoper-berlin.md", "scene/companies/opra-national-de-paris.md"]
-slug = "pene-pati"
-title = "Pene Pati"
-website = "https://www.penepati.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/PenePatiTenor/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/pene.pati/"
-
-_template = "people_single"
-+++
+---
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1647736133/media/2022/03/Pene_Pati_tqhxjb.jpg
+primary_image_credit: Mark Leedom.
+related_companies:
+- scene/companies/wiener-staatsoper.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/san-diego-opera.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/opra-national-de-paris.md
+slug: pene-pati
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/PenePatiTenor/
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/pene.pati/
+title: Pene Pati
+website: https://www.penepati.com/
+---
 Samoan tenor Pene Pati is a graduate of San Francisco Opera’s Adler Program where, under Music Director Nicola Luisotti, he made an acclaimed 2017 debut as Il Duca di Mantova in Verdi’s _Rigoletto_, and has subsequently been hailed ​‘the most exceptional tenor discovery of the last decade’ (_Opéra-Online_) following his first performances as Percy in Donizetti’s _Anna Bolena_ at Opéra national de Bordeaux in the 2018/2019 season. Subsequent productions of Gounod’s _Roméo et Juliette_ at San Francisco Opera and Opéra national de Bordeaux as well as Alfredo in Verdi’s _La traviata_ at Moscow’s historic Bolshoi Theatre have secured Pati’s position as one of the most sought-after tenors of his day.
 
 In the upcoming season, Pati debuts at Opéra National de Paris (_L’Elisir d’amore_), Teatro San Carlo di Napoli (_Lucia di Lammermoor_), Wiener Staatsoper (_Anna Bolena_), San Diego Opera (_Roméo et Juliette_), Staatsoper Berlin (_La traviata_) and Festival d’Aix-en-Provence (_Moïse et Pharaon_). In concert, he adds Mahler’s _Das Lied von der Erde_ to his repertoire in St Pölten under Hans Graf, joins The Cleveland Orchestra and Franz Welser-Möst in concert performances of _Otello_, and appears at Théâtre des Champs-Elysées as part of Les Grands Voix in Massenet’s _Thaïs_ with l’Orchestre National de France and Pierre Bleuse.

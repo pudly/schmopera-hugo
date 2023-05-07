@@ -1,19 +1,44 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-09-13T16:47:00-04:00"
-lastmod = "2017-09-14T22:03:00-04:00"
-preamble = "Starting this month, [On Site Opera](/scene/companies/on-site-opera/) presents [*Rhoda and the Fossil Hunt*](http://osopera.org/productions/rhodafossilhunt/), a brand new site-specific opera for young audiences by composer John Musto and librettist Eric Einhorn. The new work, co-commissioned by [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/)'s Lyric Unlimited and Pittsburgh Opera, has its debut run in New York, at the American Museum of Natural History's Hall of Saurichsian Dinosaurs. \n\nThe unorthodox opera venue is fitting for the story of [*Rhoda and the Fossil Hunt*](http://osopera.org/productions/rhodafossilhunt/), which is based on the true experiences of Rhoda Knight Kalt (soprano Jennifer Zetland) and her trips to the American Museum of Natural History with her grandfather, Charles R. Knight (baritone Robert Orth); Knight was an artist, commissioned by paleontologist and AMNH president Dr. Henry Fairfield Osborn (tenor Patrick Cook) to create paintings and sculptures of prehistoric animals. Rhoda's hunt for missing fossils happens around Dinosaur Hall, while audiences learn about the relationship between science and the arts.\n\nWe spoke with Robert Orth about *Rhoda and the Fossil Hunt*; he chats about the unique fun of opera for young audiences, and his take on the arts/science common ground."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505335623375/2017-09-13---On-Site-Opera---Rhoda-and-the-Fossil-Hunt-promo-photo-credit-Shervin-Lainez-06.jpg.jpg"
-primary_image_credit = "Rhoda and the Fossil Hunt, presented by On Site Opera. Photo: Shervin Lainez"
-publishDate = "2017-09-14T21:45:00-04:00"
-related_articles = ["articles/toni-castells-new-operas-new-science.md","articles/vibrato-all-the-reasons-why.md","articles/robert-picardo-giving-cassini-the-farewell-it-deserves.md"]
-related_companies = ["scene/companies/on-site-opera.md"]
-related_people = ["scene/people/robert-orth.md"]
-short_description = "&quot;Composers have included scientific subjects and references, from Mozart&#039;s send-up of the real Dr. Mesmer in Così fan tutte, to John Adams&#039; Dr. Atomic about Robert Oppenheimer and the creation of the atomic bomb. The very act of scientific discovery is a creative one.&quot;"
-slug = "rhoda-and-the-fossil-hunt-where-opera-meets-science"
-title = "Rhoda and the Fossil Hunt: where opera meets science"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-09-13T16:47:00-04:00"
+lastmod: "2017-09-14T22:03:00-04:00"
+preamble: "Starting this month, [On Site Opera](/scene/companies/on-site-opera/) presents
+  [*Rhoda and the Fossil Hunt*](http://osopera.org/productions/rhodafossilhunt/),
+  a brand new site-specific opera for young audiences by composer John Musto and librettist
+  Eric Einhorn. The new work, co-commissioned by [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/)'s
+  Lyric Unlimited and Pittsburgh Opera, has its debut run in New York, at the American
+  Museum of Natural History's Hall of Saurichsian Dinosaurs. \n\nThe unorthodox opera
+  venue is fitting for the story of [*Rhoda and the Fossil Hunt*](http://osopera.org/productions/rhodafossilhunt/),
+  which is based on the true experiences of Rhoda Knight Kalt (soprano Jennifer Zetland)
+  and her trips to the American Museum of Natural History with her grandfather, Charles
+  R. Knight (baritone Robert Orth); Knight was an artist, commissioned by paleontologist
+  and AMNH president Dr. Henry Fairfield Osborn (tenor Patrick Cook) to create paintings
+  and sculptures of prehistoric animals. Rhoda's hunt for missing fossils happens
+  around Dinosaur Hall, while audiences learn about the relationship between science
+  and the arts.\n\nWe spoke with Robert Orth about *Rhoda and the Fossil Hunt*; he
+  chats about the unique fun of opera for young audiences, and his take on the arts/science
+  common ground."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505335623375/2017-09-13---On-Site-Opera---Rhoda-and-the-Fossil-Hunt-promo-photo-credit-Shervin-Lainez-06.jpg.jpg
+primary_image_credit: 'Rhoda and the Fossil Hunt, presented by On Site Opera. Photo:
+  Shervin Lainez'
+publishDate: "2017-09-14T21:45:00-04:00"
+related_articles:
+- articles/toni-castells-new-operas-new-science.md
+- articles/vibrato-all-the-reasons-why.md
+- articles/robert-picardo-giving-cassini-the-farewell-it-deserves.md
+related_companies:
+- scene/companies/on-site-opera.md
+related_people:
+- scene/people/robert-orth.md
+short_description: '&quot;Composers have included scientific subjects and references,
+  from Mozart&#039;s send-up of the real Dr. Mesmer in Così fan tutte, to John Adams&#039;
+  Dr. Atomic about Robert Oppenheimer and the creation of the atomic bomb. The very
+  act of scientific discovery is a creative one.&quot;'
+slug: rhoda-and-the-fossil-hunt-where-opera-meets-science
+title: 'Rhoda and the Fossil Hunt: where opera meets science'
+---
 
 ## What do you find uniquely enjoyable about performing for young audiences?
 

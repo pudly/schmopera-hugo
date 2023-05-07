@@ -1,22 +1,32 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = 2020-03-02T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1583170420/media/2020/03/sqETOCOSIFANTUTTEThomas_ElwinFerrandoFrederickLongGuglielmoRICHARDHUBERTSMITH_opaq12.jpg"
-primary_image_credit = "Tom Elwin as Ferrando (left) and Frederick Long as Guglielmo in English Touring Opera's production of Così fan tutte, 2020. Photo: Richard Hubert Smith."
-related_articles = ["articles/an-open-letter-to-audition-candidates.md", "articles/cosi-fan-tutte-misogynist-unreasonable.md", "articles/atg-boheme.md"]
-related_companies = []
-related_people = []
-short_description = "This performance of Mozart’s Così fan tutte marks the start of English Touring Opera’s spring tour which will also feature Handel’s Giulio Cesare as well as Bach’s St. John Passion in an impressive eighteen cities across the country. ETO’s extensive tours are the direct result of their clear mandate which is to bring accessible opera to cities and theatres across England where it would otherwise not be performed."
-slug = "solid-simple-cosi-fan-tutte-from-english-touring-opera"
-title = "Solid & simple Così fan tutte from English Touring Opera"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2020-03-02T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1583170420/media/2020/03/sqETOCOSIFANTUTTEThomas_ElwinFerrandoFrederickLongGuglielmoRICHARDHUBERTSMITH_opaq12.jpg
+primary_image_credit: 'Tom Elwin as Ferrando (left) and Frederick Long as Guglielmo
+  in English Touring Opera''s production of Così fan tutte, 2020. Photo: Richard Hubert
+  Smith.'
+related_articles:
+- articles/an-open-letter-to-audition-candidates.md
+- articles/cosi-fan-tutte-misogynist-unreasonable.md
+- articles/atg-boheme.md
+related_companies: []
+related_people: []
+short_description: This performance of Mozart’s Così fan tutte marks the start of
+  English Touring Opera’s spring tour which will also feature Handel’s Giulio Cesare
+  as well as Bach’s St. John Passion in an impressive eighteen cities across the country.
+  ETO’s extensive tours are the direct result of their clear mandate which is to bring
+  accessible opera to cities and theatres across England where it would otherwise
+  not be performed.
+slug: solid-simple-cosi-fan-tutte-from-english-touring-opera
+title: Solid & simple Così fan tutte from English Touring Opera
+youtube_url: ""
+---
 The Hackney Empire – The English Touring Opera’s home in London when they are not on the road - holds a faded grandeur that adds to its sense of charm. A small space for opera, even for European standards at 1200 seats, it feels welcoming, laidback, and intimate. Every seat provides a vantage point that allows the performer to connect with the audience and an opportunity for the audience to feel close to the action which can be a thrilling way to experience live music.
 
 <figure data-type="image">

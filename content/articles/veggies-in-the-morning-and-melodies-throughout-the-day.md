@@ -1,16 +1,20 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Interview"
-date = "2018-11-04T13:36:00-05:00"
-lastmod = "2018-11-05T07:18:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541363892449/sqIMG_3418.jpg.jpg"
-primary_image_credit = "Photo: Loren Lester."
-publishDate = "2018-11-04T21:04:00-05:00"
-related_articles = ["articles/a-world-premiere-anna-christie.md"]
-short_description = "Then one day in the car, he heard a completely original Melody that suddenly came into his head and he began to cry. From there on - and to this day - melodies have come to Mr. Thomas &quot;incessantly.&quot; A composer was born."
-slug = "veggies-in-the-morning-and-melodies-throughout-the-day"
-title = "&quot;Veggies in the morning, and melodies throughout the day&quot;"
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Interview
+date: "2018-11-04T13:36:00-05:00"
+lastmod: "2018-11-05T07:18:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541363892449/sqIMG_3418.jpg.jpg
+primary_image_credit: 'Photo: Loren Lester.'
+publishDate: "2018-11-04T21:04:00-05:00"
+related_articles:
+- articles/a-world-premiere-anna-christie.md
+short_description: Then one day in the car, he heard a completely original Melody
+  that suddenly came into his head and he began to cry. From there on - and to this
+  day - melodies have come to Mr. Thomas &quot;incessantly.&quot; A composer was born.
+slug: veggies-in-the-morning-and-melodies-throughout-the-day
+title: '&quot;Veggies in the morning, and melodies throughout the day&quot;'
+---
 
 When composer Edward Thomas needed a librettist for his opera based on the Eugene O'Neill play *Desire Under the Elms*, he did the sensible thing: he looked in the newspaper and in the phone book. (This was 1987 when people still used such things.) In the newspaper he observed that Joe Masteroff was enjoying a revival of his great musical *Cabaret* (for which he wrote the book) so Mr. Thomas simply looked up Mr. Masteroff's number and called him. Thus was born a collaboration that produced a musical and two operas.
 

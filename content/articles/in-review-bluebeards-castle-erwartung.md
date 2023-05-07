@@ -1,18 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-05-06T17:07:00-04:00"
-lastmod = "2015-06-03T16:57:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430946263145/Erwartung-MC-0760Square.jpg.jpg"
-primary_image_credit = "Krisztina Szabó as The Woman in Erwartung, 2015. Photo by Michael Cooper."
-publishDate = "2015-05-09T09:29:00-04:00"
-related_articles = ["articles/coc1617.md","articles/dean-burry-on-the-highwayman.md","articles/killer-women-shadwell-operas-doublebill.md","articles/in-review-scenes-from-the-end.md","articles/a-lopsided-bloody-doublebill-at-hackney-empire.md","articles/folk-songs-esprit-szabo.md","articles/belle-bete-la-opera-beauty.md","articles/overdue-for-a-chicago-performance-the-haunted-manor.md","articles/an-astonishing-bryan-hymel-in-the-royal-operas-double-bill.md","articles/metrowest-double-bill-provides-thrills-delights-despite-mismatch.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/krisztina-szab.md","scene/people/johannes-debus.md","scene/people/john-relyea.md","scene/people/ekaterina-gubanova.md","scene/people/robert-lepage.md"]
-short_description = "Last night I was able to check off one of my must-sees. For a while I felt like the only opera fan in Toronto who hadn&#039;t seen Robert Lepage&#039;s double bill of Bluebeard&#039;s Castle/Erwartung, but I fixed that. The production couldn&#039;t have brought more hype along with it, and I usually try and ignore hype so that it doesn&#039;t skew my otherwise fine enjoyment of a production. The rumours turned out to be true, and I was amazed."
-slug = "in-review-bluebeards-castle-erwartung"
-title = "In review: Bluebeard&#039;s Castle/ Erwartung"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-05-06T17:07:00-04:00"
+lastmod: "2015-06-03T16:57:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430946263145/Erwartung-MC-0760Square.jpg.jpg
+primary_image_credit: Krisztina Szabó as The Woman in Erwartung, 2015. Photo by Michael
+  Cooper.
+publishDate: "2015-05-09T09:29:00-04:00"
+related_articles:
+- articles/coc1617.md
+- articles/dean-burry-on-the-highwayman.md
+- articles/killer-women-shadwell-operas-doublebill.md
+- articles/in-review-scenes-from-the-end.md
+- articles/a-lopsided-bloody-doublebill-at-hackney-empire.md
+- articles/folk-songs-esprit-szabo.md
+- articles/belle-bete-la-opera-beauty.md
+- articles/overdue-for-a-chicago-performance-the-haunted-manor.md
+- articles/an-astonishing-bryan-hymel-in-the-royal-operas-double-bill.md
+- articles/metrowest-double-bill-provides-thrills-delights-despite-mismatch.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/krisztina-szab.md
+- scene/people/johannes-debus.md
+- scene/people/john-relyea.md
+- scene/people/ekaterina-gubanova.md
+- scene/people/robert-lepage.md
+short_description: Last night I was able to check off one of my must-sees. For a while
+  I felt like the only opera fan in Toronto who hadn&#039;t seen Robert Lepage&#039;s
+  double bill of Bluebeard&#039;s Castle/Erwartung, but I fixed that. The production
+  couldn&#039;t have brought more hype along with it, and I usually try and ignore
+  hype so that it doesn&#039;t skew my otherwise fine enjoyment of a production. The
+  rumours turned out to be true, and I was amazed.
+slug: in-review-bluebeards-castle-erwartung
+title: 'In review: Bluebeard&#039;s Castle/ Erwartung'
+---
 
 Last night I was able to check off one of my must-sees. For a while I felt like the only opera fan in Toronto who hadn't seen Robert Lepage's double bill of *Bluebeard's Castle/Erwartung*, but I fixed that. The production couldn't have brought more hype along with it, and I usually try and ignore hype so that it doesn't skew my otherwise fine enjoyment of a production. The rumours turned out to be true, and I was amazed.
 

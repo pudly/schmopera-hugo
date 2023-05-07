@@ -1,22 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = 2020-06-25T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Have a suggestion for a future Aria Guide? Let us know in the comments below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "This aria from the final act of _La bohème_ is two pages of what's stunning about a great bass. Colline, the philosopher among his band of bohemians, is doing his part after Mimì shows up at his apartment, looking for his friend Rodolfo and dying of tuberculosis. He decides to pawn his coat to help pay for a doctor, and because he's a philosopher, the decision is a weighty one. Along with your teacher and coach, this Aria Guide can get you off to a good start with the short and sweet \"Vecchia zimarra\":"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1592334304/media/2020/06/sqAriaGuide-VecchiaZimarra_dsml07.jpg"
-primary_image_credit = ""
-related_articles = ["articles/aria-guides-aprite-un-po-quegli-occhi.md", "articles/aria-guides-schweig-damit-dich-niemand-warnt.md", "articles/aria-guide-o-du-mein-holder-abendstern.md"]
-related_companies = []
-related_people = []
-short_description = "This aria from the final act of La bohème is two pages of what's stunning about a great bass. Colline, the philosopher among his band of bohemians, is doing his part after Mimì shows up at his apartment, looking for his friend Rodolfo and dying of tuberculosis. He decides to pawn his coat to help pay for a doctor, and because he's a philosopher, the decision is a weighty one"
-slug = "aria-guides-vecchia-zimarra"
-title = "Aria guides: Vecchia zimarra"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2020-06-25T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Have a suggestion for a future Aria Guide? Let us know in the comments
+  below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+preamble: 'This aria from the final act of _La bohème_ is two pages of what''s stunning
+  about a great bass. Colline, the philosopher among his band of bohemians, is doing
+  his part after Mimì shows up at his apartment, looking for his friend Rodolfo and
+  dying of tuberculosis. He decides to pawn his coat to help pay for a doctor, and
+  because he''s a philosopher, the decision is a weighty one. Along with your teacher
+  and coach, this Aria Guide can get you off to a good start with the short and sweet
+  "Vecchia zimarra":'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1592334304/media/2020/06/sqAriaGuide-VecchiaZimarra_dsml07.jpg
+primary_image_credit: ""
+related_articles:
+- articles/aria-guides-aprite-un-po-quegli-occhi.md
+- articles/aria-guides-schweig-damit-dich-niemand-warnt.md
+- articles/aria-guide-o-du-mein-holder-abendstern.md
+related_companies: []
+related_people: []
+short_description: This aria from the final act of La bohème is two pages of what's
+  stunning about a great bass. Colline, the philosopher among his band of bohemians,
+  is doing his part after Mimì shows up at his apartment, looking for his friend Rodolfo
+  and dying of tuberculosis. He decides to pawn his coat to help pay for a doctor,
+  and because he's a philosopher, the decision is a weighty one
+slug: aria-guides-vecchia-zimarra
+title: 'Aria guides: Vecchia zimarra'
+youtube_url: ""
+---
 <figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1590606094/media/2020/05/AriaGuide-Vecchia-p1-annotated_ldonn6.jpg)

@@ -1,18 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-05-30T21:35:00-04:00"
-lastmod = "2018-06-01T09:01:00-04:00"
-preamble = "British-Italian conductor [Damian Iorio](/scene/people/damian-iorio/) has spent his 2017/18 season on podiums from the UK to Japan. Currently, he is in Paris, rehearsing [*Boris Godunov*](https://www.operadeparis.fr/en/season-17-18/opera/boris-godounov) at Opéra Bastille (**June 7 to July 12**).\n\nIt was great to talk with Iorio about the psychology of working with an orchestra, and his unofficial résumé of duets with famous singers."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527730017553/sqDamianIorio.jpg.jpg"
-publishDate = "2018-05-31T11:42:00-04:00"
-related_articles = ["articles/gordon-gerrard-music-doesnt-really-work-without-breath.md"]
-related_companies = ["scene/companies/opra-national-de-paris.md"]
-related_people = ["scene/people/damian-iorio.md"]
-short_description = "&quot;Regardless of whether I am with a new orchestra or not, I wish everyone a &#039;good morning&#039; and then start playing immediately. It is important not to waste any time and both sides need to learn about each other.&quot;"
-slug = "talking-with-conductors-damian-iorio"
-title = "Talking with conductors: Damian Iorio"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-05-30T21:35:00-04:00"
+lastmod: "2018-06-01T09:01:00-04:00"
+preamble: |-
+  British-Italian conductor [Damian Iorio](/scene/people/damian-iorio/) has spent his 2017/18 season on podiums from the UK to Japan. Currently, he is in Paris, rehearsing [*Boris Godunov*](https://www.operadeparis.fr/en/season-17-18/opera/boris-godounov) at Opéra Bastille (**June 7 to July 12**).
+
+  It was great to talk with Iorio about the psychology of working with an orchestra, and his unofficial résumé of duets with famous singers.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527730017553/sqDamianIorio.jpg.jpg
+publishDate: "2018-05-31T11:42:00-04:00"
+related_articles:
+- articles/gordon-gerrard-music-doesnt-really-work-without-breath.md
+related_companies:
+- scene/companies/opra-national-de-paris.md
+related_people:
+- scene/people/damian-iorio.md
+short_description: '&quot;Regardless of whether I am with a new orchestra or not,
+  I wish everyone a &#039;good morning&#039; and then start playing immediately. It
+  is important not to waste any time and both sides need to learn about each other.&quot;'
+slug: talking-with-conductors-damian-iorio
+title: 'Talking with conductors: Damian Iorio'
+---
 
 ### What does it feel like to conduct an orchestra and singers, when everything is going right?
 

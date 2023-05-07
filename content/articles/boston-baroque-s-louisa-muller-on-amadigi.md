@@ -1,22 +1,36 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Interview"
-date = 2022-04-25T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = "As Boston Baroque geared up for its recent star-studded run of Handel's [_Amadigi di Gaula_](https://baroque.boston/handel-amadigi-di-gaula-2022), featuring Anthony Roth Costanzo and Daniela Mack, contributor Arturo Fernandez sat down with director Louisa Muller to chat about obscure Handel operas, and what to do with all those _da capo_ arias:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1650905442/media/2022/04/sqDanielMack_PhotoCreditGBHProductionGroup_tec1jn.jpg"
-primary_image_credit = "Daniela Mack (right) as Dardano in Boston Baroque's in Amadigi di Gaula, 2022. Photo: GBH Production Group."
-related_articles = ["articles/talking-with-singers-daniela-mack.md", "articles/arc.md"]
-related_companies = ["scene/companies/boston-baroque.md"]
-related_people = ["scene/people/amanda-forsythe.md", "scene/people/daniela-mack.md", "scene/people/anthony-roth-costanzo.md"]
-short_description = "\"I think the way that I've approached it has been a little bit more of thinking about time expanding and thinking about the things that happen, not happening in real time, so that we take and use da capo arias, we just take a real dive into people's emotional states.\""
-slug = "boston-baroques-louisa-muller-on-amadigi-di-gaula"
-title = "Boston Baroque's Louisa Muller on Amadigi di Gaula"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Interview
+date: "2022-04-25T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: 'As Boston Baroque geared up for its recent star-studded run of Handel''s
+  [_Amadigi di Gaula_](https://baroque.boston/handel-amadigi-di-gaula-2022), featuring
+  Anthony Roth Costanzo and Daniela Mack, contributor Arturo Fernandez sat down with
+  director Louisa Muller to chat about obscure Handel operas, and what to do with
+  all those _da capo_ arias:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1650905442/media/2022/04/sqDanielMack_PhotoCreditGBHProductionGroup_tec1jn.jpg
+primary_image_credit: 'Daniela Mack (right) as Dardano in Boston Baroque''s in Amadigi
+  di Gaula, 2022. Photo: GBH Production Group.'
+related_articles:
+- articles/talking-with-singers-daniela-mack.md
+- articles/arc.md
+related_companies:
+- scene/companies/boston-baroque.md
+related_people:
+- scene/people/amanda-forsythe.md
+- scene/people/daniela-mack.md
+- scene/people/anthony-roth-costanzo.md
+short_description: '"I think the way that I''ve approached it has been a little bit
+  more of thinking about time expanding and thinking about the things that happen,
+  not happening in real time, so that we take and use da capo arias, we just take
+  a real dive into people''s emotional states."'
+slug: boston-baroques-louisa-muller-on-amadigi-di-gaula
+title: Boston Baroque's Louisa Muller on Amadigi di Gaula
+youtube_url: ""
+---
 **Arturo Fernandez:** How many projector screens is that \[in the space\]?
 
 **Louisa Muller:** Let's see. Oh, it's a good question. So there's six in the back and then five on the sides and then we're still sorting out exactly what's happening across the front \[of the stage\]. I think those ones are all moving up to where that one is, but then and also it will just be the level of the stage.

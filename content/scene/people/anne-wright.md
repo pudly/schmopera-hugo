@@ -1,27 +1,27 @@
-+++
-date = "2017-11-27T18:15:00-05:00"
-discipline = "Soprano"
-lastmod = "2017-11-27T18:15:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511824464281/3873020_orig.jpg.jpg"
-publishDate = "2017-11-27T18:15:00-05:00"
-related_companies = ["scene/companies/songfest.md","scene/companies/music-academy-of-the-west-voice-program.md"]
-slug = "anne-wright"
-title = "Anne Wright"
-website = "https://annewright.weebly.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Anne-Wright-soprano-97147699585/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/wright.anne/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCScKBYT-xjDDSsgg340GPeA"
-_template = "people_single"
-+++
+---
+date: "2017-11-27T18:15:00-05:00"
+discipline: Soprano
+lastmod: "2017-11-27T18:15:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511824464281/3873020_orig.jpg.jpg
+publishDate: "2017-11-27T18:15:00-05:00"
+related_companies:
+- scene/companies/songfest.md
+- scene/companies/music-academy-of-the-west-voice-program.md
+slug: anne-wright
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Anne-Wright-soprano-97147699585/
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/wright.anne/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCScKBYT-xjDDSsgg340GPeA
+title: Anne Wright
+website: https://annewright.weebly.com/
+---
 
 American soprano Anne Wright has been praised for her "radiant and perfectly controlled soprano voice... created for the long lines of the great Richard Strauss roles." (Graz Kleine Zeitung). 
 

@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-05-30T16:42:00-04:00"
-lastmod = "2018-06-02T18:29:00-04:00"
-preamble = "Romanian soprano [Cristina Pasaroiu](/scene/people/cristina-pasaroiu/) fills her calendar with delicious soprano roles like Adriana Lecouvreur, Violetta (*La traviata*), Magda (*La rondine*), and Mimì (*La bohème*), and this season she made role debuts as Liù in *Turandot* at the Deutsche Oper Berlin, and just last month  as Manon at the Korean National Opera in Seoul. This summer, she'll bring another signature role to the Bregenz Festival, as Micaëla in [*Carmen*](https://bregenzerfestspiele.com/en/programme/carmen-0). \n\nIt was a treat to talk with Pasaroiu about bel canto, Massenet's Manon, and her simple bit of career wisdom."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527815551683/sq1D6A1960.jpg.jpg"
-primary_image_credit = "Photo: Patrik Hänggi."
-publishDate = "2018-06-01T21:45:00-04:00"
-related_articles = ["articles/talking-with-singers-nino-machaidze.md","articles/talking-with-singers-corinne-winters.md"]
-related_people = ["scene/people/cristina-pasaroiu.md"]
-short_description = "&quot;Everything is relative. You have just to be true with yourself, to know where your limits and qualities are and try to be always sincere.&quot;"
-slug = "talking-with-singers-cristina-pasaroiu"
-title = "Talking with singers: Cristina Pasaroiu"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-05-30T16:42:00-04:00"
+lastmod: "2018-06-02T18:29:00-04:00"
+preamble: "Romanian soprano [Cristina Pasaroiu](/scene/people/cristina-pasaroiu/)
+  fills her calendar with delicious soprano roles like Adriana Lecouvreur, Violetta
+  (*La traviata*), Magda (*La rondine*), and Mimì (*La bohème*), and this season she
+  made role debuts as Liù in *Turandot* at the Deutsche Oper Berlin, and just last
+  month  as Manon at the Korean National Opera in Seoul. This summer, she'll bring
+  another signature role to the Bregenz Festival, as Micaëla in [*Carmen*](https://bregenzerfestspiele.com/en/programme/carmen-0).
+  \n\nIt was a treat to talk with Pasaroiu about bel canto, Massenet's Manon, and
+  her simple bit of career wisdom."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527815551683/sq1D6A1960.jpg.jpg
+primary_image_credit: 'Photo: Patrik Hänggi.'
+publishDate: "2018-06-01T21:45:00-04:00"
+related_articles:
+- articles/talking-with-singers-nino-machaidze.md
+- articles/talking-with-singers-corinne-winters.md
+related_people:
+- scene/people/cristina-pasaroiu.md
+short_description: '&quot;Everything is relative. You have just to be true with yourself,
+  to know where your limits and qualities are and try to be always sincere.&quot;'
+slug: talking-with-singers-cristina-pasaroiu
+title: 'Talking with singers: Cristina Pasaroiu'
+---
 
 ## What do you love about singing bel canto opera? What does the style demand of the voice?
 

@@ -1,15 +1,24 @@
-+++
-author = ["authors/eva-cahen.md"]
-date = "2018-09-25T16:53:00-04:00"
-lastmod = "2018-09-25T18:55:00-04:00"
-preamble = "Morris Robinson, the American bass, is appearing as the Grand Inquisitor in [*Don Carlo*](https://www.laopera.org/season/1819-season-la-opera-season/don-carlo/) by Giuseppe Verdi September 22, 29, October 4, 7, 11, and 14 and as Parsi Rustomji in [*Satyagraha*](https://www.laopera.org/season/1819-season-la-opera-season/satyagraha/) by Philip Glass October 20, 27, November 1, 4, 8, and 11 at the LA Opera."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537916014869/sqMorrisRobinsonrig_2568pr-KenHowardLAOpera.jpg.jpg"
-primary_image_credit = "Morris Robinson as Sparafucile in LA Opera's 2018 production of Rigoletto. Photo: Ken Howard/LA Opera."
-publishDate = "2018-09-25T18:55:00-04:00"
-short_description = "&quot;At the age of 29, I auditioned for the Choral Arts Society in Washington where I sang some of the pieces I did in high school. Norman Scribner, the director for many years of the Choral Arts Society sat with his mouth open and told me there weren&#039;t many people who could make a sound like that.&quot;"
-slug = "talking-with-singers-morris-robinson"
-title = "Talking with singers: Morris Robinson"
-+++
+---
+author:
+- authors/eva-cahen.md
+date: "2018-09-25T16:53:00-04:00"
+lastmod: "2018-09-25T18:55:00-04:00"
+preamble: Morris Robinson, the American bass, is appearing as the Grand Inquisitor
+  in [*Don Carlo*](https://www.laopera.org/season/1819-season-la-opera-season/don-carlo/)
+  by Giuseppe Verdi September 22, 29, October 4, 7, 11, and 14 and as Parsi Rustomji
+  in [*Satyagraha*](https://www.laopera.org/season/1819-season-la-opera-season/satyagraha/)
+  by Philip Glass October 20, 27, November 1, 4, 8, and 11 at the LA Opera.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537916014869/sqMorrisRobinsonrig_2568pr-KenHowardLAOpera.jpg.jpg
+primary_image_credit: 'Morris Robinson as Sparafucile in LA Opera''s 2018 production
+  of Rigoletto. Photo: Ken Howard/LA Opera.'
+publishDate: "2018-09-25T18:55:00-04:00"
+short_description: '&quot;At the age of 29, I auditioned for the Choral Arts Society
+  in Washington where I sang some of the pieces I did in high school. Norman Scribner,
+  the director for many years of the Choral Arts Society sat with his mouth open and
+  told me there weren&#039;t many people who could make a sound like that.&quot;'
+slug: talking-with-singers-morris-robinson
+title: 'Talking with singers: Morris Robinson'
+---
 
 ### On singing
 

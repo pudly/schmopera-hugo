@@ -1,15 +1,26 @@
-+++
-discipline = "Bass-baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558537070/media/2019/05/Robert%20Hayward%20Jul%202014%20colour%20credit%20Bogdan%20Frymorgen-1.jpg"
-primary_image_credit = "Bogdan Frymorgen"
-related_companies = ["scene/companies/welsh-national-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/l-opéra-de-montréal.md", "scene/companies/opera-north.md", "scene/companies/the-grange-festival.md", "scene/companies/scottish-opera.md", "scene/companies/minnesota-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/san-diego-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/oper-frankfurt.md", "scene/companies/english-national-opera.md"]
-slug = "robert-hayward"
-social_media = []
-title = "Robert Hayward"
-website = ""
-
-_template = "people_single"
-+++
+---
+_template: people_single
+discipline: Bass-baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1558537070/media/2019/05/Robert%20Hayward%20Jul%202014%20colour%20credit%20Bogdan%20Frymorgen-1.jpg
+primary_image_credit: Bogdan Frymorgen
+related_companies:
+- scene/companies/welsh-national-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/l-opéra-de-montréal.md
+- scene/companies/opera-north.md
+- scene/companies/the-grange-festival.md
+- scene/companies/scottish-opera.md
+- scene/companies/minnesota-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/san-diego-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/english-national-opera.md
+slug: robert-hayward
+social_media: []
+title: Robert Hayward
+website: ""
+---
 Robert Hayward studied at the Guildhall School of Music and Drama where he sang several roles including Figaro/_The Marriage of Figaro_ and the title role in Verdi's _Falstaff_. Following a year at the National Opera Studio, he joined Glyndebourne Touring Opera and made his professional opera debut singing the title role of _Don Giovanni_ in 1986.
 
 Since then his roles have included Figaro and Count/_Le Nozze di Figaro_, the title roles in _Don Giovanni_ and _Eugene Onegin_, Marcello/_La Bohème_, Mandryka/_Arabella_, Theseus/_A Midsummer Night's Dream_, Haushofmeister/_Capriccio_, Tomsky/_The Queen of Spades_, Escamillo/_Carmen_, Sharpless/_Butterfly_, Robert Tchaikovsky's _Iolanta_, Golaud/_Pelleas et Melisande_, Jokanaan/_Salome_, Germont/_Traviata_, High Priest/_Samson and Delila_, Nick Shadow/_The Rake's Progress_, Ford/_Falstaff_, Pizarro/Beethoven’s _Leonore_ and _Fidelio_, Khovansky/_Khovanshchina_, Shishkov/_From the House of the Dead_, Scarpia/_Tosca_, Iago/_Otello_, Baron Prus/_Makropolous Case_, Dr Schön/_Lulu_, Simone in Zemlinsky’s _Florentine Tragedy_, Amfortas/_Parsifal_, Telramund/_Lohengrin_, Kurwenal/_Tristan_, Wotan/_The Ring_, the title roles in Dallapiccola _Il prigioniero_, _Bluebeard’s Castle_, _Saul_, _Falstaff_, _Macbeth_, _The Flying Dutchman_ and _Mazeppa_.

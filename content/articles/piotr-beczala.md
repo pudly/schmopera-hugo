@@ -1,18 +1,28 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Interview"
-date = "2018-02-28T20:42:00-05:00"
-lastmod = "2018-02-28T22:13:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870447037/sq---piotrbecza%2Be%CC%81aflubackerhighlights005.jpg.jpg"
-primary_image_credit = "Piotr Beczała and Martin Katz in recital, Lyric Opera of Chicago, 2018. Photo: Kyle Flubacker."
-publishDate = "2018-02-28T20:55:00-05:00"
-related_articles = ["articles/searching-for-superlatives-locs-suberb-rigoletto.md","articles/a-dreamy-indulgence-the-pearl-fishers-in-chicago.md","articles/fleming-enchants-luscious-morsels-of-postopera-career.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/piotr-beczala.md"]
-short_description = "&quot;I am pleased to say that, in my experience, audiences outside Poland respond to Polish music with great satisfaction and enthusiasm. I appeared one-and-a-half months ago in Zürich with this same program and the great majority of the audience seemed smitten with the Polish portion of the program.&quot;"
-slug = "piotr-beczala"
-title = "A &quot;rare event&quot; at Chicago Lyric: Piotr Beczała in recital"
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Interview
+date: "2018-02-28T20:42:00-05:00"
+lastmod: "2018-02-28T22:13:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870447037/sq---piotrbecza%2Be%CC%81aflubackerhighlights005.jpg.jpg
+primary_image_credit: 'Piotr Beczała and Martin Katz in recital, Lyric Opera of Chicago,
+  2018. Photo: Kyle Flubacker.'
+publishDate: "2018-02-28T20:55:00-05:00"
+related_articles:
+- articles/searching-for-superlatives-locs-suberb-rigoletto.md
+- articles/a-dreamy-indulgence-the-pearl-fishers-in-chicago.md
+- articles/fleming-enchants-luscious-morsels-of-postopera-career.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/piotr-beczala.md
+short_description: '&quot;I am pleased to say that, in my experience, audiences outside
+  Poland respond to Polish music with great satisfaction and enthusiasm. I appeared
+  one-and-a-half months ago in Zürich with this same program and the great majority
+  of the audience seemed smitten with the Polish portion of the program.&quot;'
+slug: piotr-beczala
+title: 'A &quot;rare event&quot; at Chicago Lyric: Piotr Beczała in recital'
+---
 
 The components of the modern-day singing career, with all the associated commercial forces and media dictates, often conspire to produce an offspring that can only be described as paradoxical. A vocal recital — just one lone singer and a pianist performing ephemeral works of musical poetry — is the very definition of an intimate affair. To hold such an event in a 3,563-seat theater is a bit like trying to pillow-talk in…well, a 3,563-seat theater: there's some cognitive dissonance with the notion. Rare are the artists who, through a combination of personality and intensity of communication, transcend the space and reach an audience as if on an individual basis. Renowned tenor [Piotr Beczała](/scene/people/piotr-beczala/) and esteemed collaborative pianist [Martin Katz](/scene/people/martin-katz/) succeeded brilliantly in squaring this circle in their recital on the main stage of the Lyric Opera of Chicago this past Sunday.
 

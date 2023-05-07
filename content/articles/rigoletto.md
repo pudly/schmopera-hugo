@@ -1,22 +1,35 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = "2019-10-23T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Houston Grand Opera's [production of _Rigoletto_](https://www.houstongrandopera.org/rigoletto) is onstage through November 1."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571884517/media/2019/10/sqHGORigolettoLynnLane-2-resized_dlrepv.jpg"
-primary_image_credit = "Michael Mayes in the title role of Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane."
-related_articles = ["articles/the-price-of-vengeance-rigoletto-at-roh.md", "articles/searching-for-superlatives-locs-suberb-rigoletto.md"]
-related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/mané-galoyan.md", "scene/people/arturo-chacón-cruz.md", "scene/people/zoie-reams.md", "scene/people/david-shipley.md", "scene/people/michael-mayes.md"]
-short_description = "As Rigoletto leaves the party, we see the true depth of his character. As Mayes interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work. "
-slug = "moral-dilemmas-an-excellent-quartet-hgos-rigoletto"
-title = "Moral dilemmas & an excellent quartet: HGO's Rigoletto"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2019-10-23T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Houston Grand Opera's [production of _Rigoletto_](https://www.houstongrandopera.org/rigoletto)
+  is onstage through November 1.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571884517/media/2019/10/sqHGORigolettoLynnLane-2-resized_dlrepv.jpg
+primary_image_credit: 'Michael Mayes in the title role of Rigoletto, Houston Grand
+  Opera, 2019. Photo: Lynn Lane.'
+related_articles:
+- articles/the-price-of-vengeance-rigoletto-at-roh.md
+- articles/searching-for-superlatives-locs-suberb-rigoletto.md
+related_companies:
+- scene/companies/houston-grand-opera.md
+related_people:
+- scene/people/mané-galoyan.md
+- scene/people/arturo-chacón-cruz.md
+- scene/people/zoie-reams.md
+- scene/people/david-shipley.md
+- scene/people/michael-mayes.md
+short_description: 'As Rigoletto leaves the party, we see the true depth of his character.
+  As Mayes interprets him, the jester is very fidgety, his routines a compulsive series
+  of tics that he feels compelled to practice even when nobody else is around, very
+  much the modern laborer trapped in his work. '
+slug: moral-dilemmas-an-excellent-quartet-hgos-rigoletto
+title: 'Moral dilemmas & an excellent quartet: HGO''s Rigoletto'
+youtube_url: ""
+---
 When one goes to the opera today for a season-opening warhorse such as Giuseppe Verdi's [_Rigoletto_](https://www.houstongrandopera.org/rigoletto), one senses that the motivation is often for the pleasure of listening to something with many comfortably familiar moments.
 
 Certainly [Houston Grand Opera](/scene/companies/houston-grand-opera/)'s production of this ably provides this in spades for many persons under the impression, in their wisdom, that they know this piece like the back of their hands. And yet the whole evening provided a very striking and adventurous experience for those who sought a fresh take on what guidebooks recommend as an easily digestible first opera for newcomers to the art form. After all, "_Rigoletto_ is a short opera," as anyone who has watched the PBS show _Arthur_ can relate.

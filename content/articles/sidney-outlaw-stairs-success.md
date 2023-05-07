@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-09-24T14:59:00+01:00"
-lastmod = "2016-09-27T13:09:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474725623578/2016-09-22---Sidney-Outlaw.jpg.jpg"
-primary_image_credit = "Photo: Hai Tran"
-publishDate = "2016-09-27T12:53:00+01:00"
-related_articles = ["articles/talking-with-singers-luca-pisaroni.md","articles/spotlight-on-musa-ngqungwana.md","articles/talking-with-singers-othalie-graham.md","articles/talking-with-singers-jorell-williams.md","articles/talking-with-singers-craig-irvin.md","articles/spotlight-on-alexander-hajek.md","articles/two-emerging-singers-to-make-their-carnegie-hall-debut-in-2017.md","articles/spotlight-on-iain-macneil.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/sidney-outlaw.md"]
-short_description = "&quot;I try my best to lead by example,&quot; he says. Outlaw sees his singing as an opportunity for putting something positive in the world, &quot;to perform and sing and be a blessing in people&#039;s lives, so if they have that kind of hate in their heart, when I&#039;m done with them, they don&#039;t any more.&quot;"
-slug = "sidney-outlaw-stairs-success"
-title = "Talking with singers: Sidney Outlaw"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-09-24T14:59:00+01:00"
+lastmod: "2016-09-27T13:09:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474725623578/2016-09-22---Sidney-Outlaw.jpg.jpg
+primary_image_credit: 'Photo: Hai Tran'
+publishDate: "2016-09-27T12:53:00+01:00"
+related_articles:
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/spotlight-on-musa-ngqungwana.md
+- articles/talking-with-singers-othalie-graham.md
+- articles/talking-with-singers-jorell-williams.md
+- articles/talking-with-singers-craig-irvin.md
+- articles/spotlight-on-alexander-hajek.md
+- articles/two-emerging-singers-to-make-their-carnegie-hall-debut-in-2017.md
+- articles/spotlight-on-iain-macneil.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/sidney-outlaw.md
+short_description: '&quot;I try my best to lead by example,&quot; he says. Outlaw
+  sees his singing as an opportunity for putting something positive in the world,
+  &quot;to perform and sing and be a blessing in people&#039;s lives, so if they have
+  that kind of hate in their heart, when I&#039;m done with them, they don&#039;t
+  any more.&quot;'
+slug: sidney-outlaw-stairs-success
+title: 'Talking with singers: Sidney Outlaw'
+---
 
 New York-based baritone [Sidney Outlaw](/scene/people/sidney-outlaw/) likens his career as a singer to a quote from actress [Jenifer Lewis](imdb.com/name/nm0507338/): "The elevator to success is broken, honey. Take the stairs."
 

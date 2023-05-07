@@ -1,16 +1,28 @@
-+++
-author = ["authors/vanessa-chumbley.md"]
-categories = "Op-ed"
-date = "2016-10-28T14:45:00+01:00"
-lastmod = "2016-10-28T17:21:00+01:00"
-preamble = "This is a crosspost by guest contributor Vanessa Chumbley, originally published on [BayArt.org.](https://bayart.org/2016/09/07/why-our-artistic-roots-matter/) To submit writing to Schmopera.com, get in touch at [contribute@schmopera.com.](mailto:contribute@schmopera.com)"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477662483669/2016-10-28---Garden.jpg.jpg"
-publishDate = "2016-10-28T14:52:00+01:00"
-related_articles = ["articles/when-lost-find-roots.md","articles/baby-opera-singers-getting-angry-for-the-right-reasons.md","articles/shhdont-tell-them-its-opera.md","articles/more-than-the-scream-dear-edvard.md"]
-short_description = "It&#039;s no secret that many professionals in the arts struggle to make ends meet. There is little to no job security, financial stability, or benefits that people in other fields often take for granted. Artistic professionals are often self employed or freelancers. It is an unfortunate reality of our field that artists are sometimes asked to provide their services for free, in exchange for &quot;great exposure&quot;. What a steaming pile of horse shit."
-slug = "why-our-artistic-roots-matter"
-title = "Why our artistic roots matter"
-+++
+---
+author:
+- authors/vanessa-chumbley.md
+categories: Op-ed
+date: "2016-10-28T14:45:00+01:00"
+lastmod: "2016-10-28T17:21:00+01:00"
+preamble: This is a crosspost by guest contributor Vanessa Chumbley, originally published
+  on [BayArt.org.](https://bayart.org/2016/09/07/why-our-artistic-roots-matter/) To
+  submit writing to Schmopera.com, get in touch at [contribute@schmopera.com.](mailto:contribute@schmopera.com)
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477662483669/2016-10-28---Garden.jpg.jpg
+publishDate: "2016-10-28T14:52:00+01:00"
+related_articles:
+- articles/when-lost-find-roots.md
+- articles/baby-opera-singers-getting-angry-for-the-right-reasons.md
+- articles/shhdont-tell-them-its-opera.md
+- articles/more-than-the-scream-dear-edvard.md
+short_description: It&#039;s no secret that many professionals in the arts struggle
+  to make ends meet. There is little to no job security, financial stability, or benefits
+  that people in other fields often take for granted. Artistic professionals are often
+  self employed or freelancers. It is an unfortunate reality of our field that artists
+  are sometimes asked to provide their services for free, in exchange for &quot;great
+  exposure&quot;. What a steaming pile of horse shit.
+slug: why-our-artistic-roots-matter
+title: Why our artistic roots matter
+---
 
 You've probably noticed how the artistic community has taken up arms over this [most recent scandal](http://www.abc10.com/news/local/lincoln/wells-fargos-new-ad-campaign-upsets-artists/313394967) in a Wells Fargo ad campaign. The implied message that being a dancer, actor, musician, or artist is all fine and good for the extra curricular section of your college application, but an unworthy profession has struck a very negative chord among artistic professionals from Broadway to Hollywood.
 

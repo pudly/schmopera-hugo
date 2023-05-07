@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2015-10-04T20:09:00-04:00"
-lastmod = "2015-10-18T00:49:00-04:00"
-postamble = "Questions? Want to request an aria for our Aria Guides? Let us know in the comments below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "Readers, we've got a new treat for you! Welcome to our new series of posts that take you through popular arias of all voice types, step by step. We'll point out tips and tricks for making the learning process efficient, and try to answer as many FAQs about the repertoire as we can. To request an aria guide, send us your suggestions! Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).\n\nWe're starting with \"Deh vieni, non tardar,\" Susanna's famous aria from Mozart's *Le nozze di Figaro*. Use the excerpts for reference, or get the bigger picture on page 199 of [the vocal score](http://petrucci.mus.auth.gr/imglnks/usimg/8/89/IMSLP220533-SIBLEY1802.16871.abe9-39087011127240score.pdf) via IMSLP."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553351864/media/2019/03/sqDehVieni.jpg"
-publishDate = "2015-10-07T08:00:00-04:00"
-related_articles = ["articles/aria-guides-una-furtiva-lagrima.md", "articles/song-guides-die-nacht.md", "articles/aria-guides-o-sleep-why-dost-thou-leave-me.md", "articles/aria-guides-mi-chiamano-mimi.md", "articles/aria-guides-ach-ich-fuhls.md", "articles/aria-guides-didos-lament.md"]
-short_description = "Readers, we've got a new treat for you! Welcome to our new series of posts that take you through popular arias of all voice types, step by step. We'll point out tips and tricks for making the learning process efficient, and try to answer as many FAQs about the repertoire as we can."
-slug = "aria-guides-deh-vieni-non-tardar"
-title = "Aria guides: Deh vieni, non tardar"
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2015-10-04T20:09:00-04:00"
+lastmod: "2015-10-18T00:49:00-04:00"
+postamble: Questions? Want to request an aria for our Aria Guides? Let us know in
+  the comments below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+preamble: |-
+  Readers, we've got a new treat for you! Welcome to our new series of posts that take you through popular arias of all voice types, step by step. We'll point out tips and tricks for making the learning process efficient, and try to answer as many FAQs about the repertoire as we can. To request an aria guide, send us your suggestions! Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
 
-+++
+  We're starting with "Deh vieni, non tardar," Susanna's famous aria from Mozart's *Le nozze di Figaro*. Use the excerpts for reference, or get the bigger picture on page 199 of [the vocal score](http://petrucci.mus.auth.gr/imglnks/usimg/8/89/IMSLP220533-SIBLEY1802.16871.abe9-39087011127240score.pdf) via IMSLP.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553351864/media/2019/03/sqDehVieni.jpg
+publishDate: "2015-10-07T08:00:00-04:00"
+related_articles:
+- articles/aria-guides-una-furtiva-lagrima.md
+- articles/song-guides-die-nacht.md
+- articles/aria-guides-o-sleep-why-dost-thou-leave-me.md
+- articles/aria-guides-mi-chiamano-mimi.md
+- articles/aria-guides-ach-ich-fuhls.md
+- articles/aria-guides-didos-lament.md
+short_description: Readers, we've got a new treat for you! Welcome to our new series
+  of posts that take you through popular arias of all voice types, step by step. We'll
+  point out tips and tricks for making the learning process efficient, and try to
+  answer as many FAQs about the repertoire as we can.
+slug: aria-guides-deh-vieni-non-tardar
+title: 'Aria guides: Deh vieni, non tardar'
+---
 ### The Recit
 
 <figure data-type="image">

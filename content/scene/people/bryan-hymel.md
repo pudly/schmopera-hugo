@@ -1,24 +1,35 @@
-+++
-date = "2017-10-13T21:38:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-10-13T21:38:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507945128421/Bryan_Hymell-5371-2.jpg.jpg"
-primary_image_credit = "Dario Acosta"
-publishDate = "2017-10-13T21:38:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md","scene/companies/canadian-opera-company.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/english-national-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/the-santa-fe-opera.md","scene/companies/houston-grand-opera.md","scene/companies/merola-opera-program.md"]
-slug = "bryan-hymel"
-title = "Bryan Hymel"
-website = "http://bryanhymel.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/BryanHymeltenor"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/results?search_query=Bryan+Hymel"
-_template = "people_single"
-+++
+---
+date: "2017-10-13T21:38:00-04:00"
+discipline: Tenor
+lastmod: "2017-10-13T21:38:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507945128421/Bryan_Hymell-5371-2.jpg.jpg
+primary_image_credit: Dario Acosta
+publishDate: "2017-10-13T21:38:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/english-national-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/merola-opera-program.md
+slug: bryan-hymel
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/BryanHymeltenor
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/results?search_query=Bryan+Hymel
+title: Bryan Hymel
+website: http://bryanhymel.com/
+---
 
 Hailed by the Frankfurter Allgemeine Zeitung for his “range of expression and vocal power combined with the subtle art of characterization,” tenor Bryan Hymel is the winner of the 2013 Olivier Award for Outstanding Achievement in Opera for his trio of performances in Les Troyens, Robert le diable, and Rusalka at London’s Royal Opera House. The New York Times praised his “unflagging stamina and impetuous abandon” during his 2012 Metropolitan Opera debut as Énée in Les Troyens, for which he was presented with the Metropolitan Opera’s Beverly Sills Artist Award. An exclusive recording artist for Warner Classics, his first solo album Héroïque debuted at number 3 on the Billboard Classical Music chart, and earned Hymel the coveted Georges Thill Prize by the Académie Nationale du Disque Lyrique and the Newcomer of the Year Award from ECHO Klassik.
 

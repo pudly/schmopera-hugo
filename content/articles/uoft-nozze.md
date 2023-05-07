@@ -1,25 +1,33 @@
-+++
-author = ["authors/alexandra-delle-donne.md"]
-categories = "Review"
-date = 2019-11-24T05:00:00Z
-discipline = ""
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574647216/media/2019/11/sqUofTFigaroIMG_1058_x77deq.jpg"
-primary_image_credit = "The University of Toronto Opera Division's production of Le nozze di Figaro, 2019. Photo by Richard Lu."
-related_articles = ["articles/in-review-albert-herring-at-uoft-opera.md", "articles/5-important-roles-who-dont-get-an-aria.md", "articles/opera-nerd-meets-grammar-freak.md"]
-related_companies = ["scene/companies/university-of-toronto-opera.md"]
-related_people = []
-short_description = "Incredible music, a beautiful set, and even stunning costumes too. Lisa Magill perfectly rounds out the production with her classic designs. She successfully fits the designs to the 18th century, and manages to have everyone looking their absolute best."
-slug = "a-perfect-fit-figaro-in-uoft-operas-nozze"
-social_media = []
-title = "A perfect-fit Figaro in UofT Opera's Nozze"
-website = ""
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alexandra-delle-donne.md
+categories: Review
+date: "2019-11-24T05:00:00Z"
+discipline: ""
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1574647216/media/2019/11/sqUofTFigaroIMG_1058_x77deq.jpg
+primary_image_credit: The University of Toronto Opera Division's production of Le
+  nozze di Figaro, 2019. Photo by Richard Lu.
+related_articles:
+- articles/in-review-albert-herring-at-uoft-opera.md
+- articles/5-important-roles-who-dont-get-an-aria.md
+- articles/opera-nerd-meets-grammar-freak.md
+related_companies:
+- scene/companies/university-of-toronto-opera.md
+related_people: []
+short_description: Incredible music, a beautiful set, and even stunning costumes too.
+  Lisa Magill perfectly rounds out the production with her classic designs. She successfully
+  fits the designs to the 18th century, and manages to have everyone looking their
+  absolute best.
+slug: a-perfect-fit-figaro-in-uoft-operas-nozze
+social_media: []
+title: A perfect-fit Figaro in UofT Opera's Nozze
+website: ""
+youtube_url: ""
+---
 Mozart's [_Le nozze di Figaro_](https://uoftopera.ca/productions/) is an all-time, fan-favourite classic. The libretto by Lorenzo Da Ponte is exceedingly witty, fun, and well executed by the opera division at the University of Toronto. Conductor Sandra Horst expertly and flawlessly creates a beautiful sound complimenting the synchronicity of the orchestra and the singers. The overture particularly highlights the incredible passage work stellarly played by the strings who are all perfectly in sync with one another.
 
 When we have a beautiful overture, it must be accompanied by an exquisite set, no? Production designer Fred Perruzza does not disappoint. It is such a sight to behold as the curtain rises to these bright blue walls and warm yellow tones. This warmness is also accompanied by the brilliant lighting design that constantly keeps us well lit. It truly sets the tone for the opening number, a fun and comedic interaction between Figaro (Korin Thomas-Smith), and Susanna (Maeve Palmer).

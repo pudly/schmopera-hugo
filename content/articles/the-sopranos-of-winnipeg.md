@@ -1,22 +1,33 @@
-+++
-author = ["authors/neil-weisensel.md"]
-categories = "Review"
-date = 2020-11-12T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1605192974/media/2020/11/sqMO-TSOW-LidaSzkwarek_i7liox.jpg"
-primary_image_credit = "Lida Szkwarek in The Sopranos of Winnipeg, November 7, 2020. Photo courtesy of Manitoba Opera."
-related_articles = ["articles/heartfelt-and-intimate-manitoba-operas-la-traviata.md", "articles/susannah-is-topical-relevance-like-it-or-not.md"]
-related_companies = ["scene/companies/manitoba-opera.md"]
-related_people = ["scene/people/lida-szkwarek.md", "scene/people/tracy-dahl.md", "scene/people/andriana-chuchman.md", "scene/people/lara-ciekiewicz.md", "scene/people/andrea-lett.md"]
-short_description = "I'm going to write this as a live-blog, as one of the advantages of attending virtually is you can type as you listen, instead of having to remember all your thoughts from the concert!"
-slug = "an-embarrassment-of-riches-the-sopranos-of-winnipeg"
-title = "An embarrassment of riches: The Sopranos of Winnipeg"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/neil-weisensel.md
+categories: Review
+date: "2020-11-12T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1605192974/media/2020/11/sqMO-TSOW-LidaSzkwarek_i7liox.jpg
+primary_image_credit: Lida Szkwarek in The Sopranos of Winnipeg, November 7, 2020.
+  Photo courtesy of Manitoba Opera.
+related_articles:
+- articles/heartfelt-and-intimate-manitoba-operas-la-traviata.md
+- articles/susannah-is-topical-relevance-like-it-or-not.md
+related_companies:
+- scene/companies/manitoba-opera.md
+related_people:
+- scene/people/lida-szkwarek.md
+- scene/people/tracy-dahl.md
+- scene/people/andriana-chuchman.md
+- scene/people/lara-ciekiewicz.md
+- scene/people/andrea-lett.md
+short_description: I'm going to write this as a live-blog, as one of the advantages
+  of attending virtually is you can type as you listen, instead of having to remember
+  all your thoughts from the concert!
+slug: an-embarrassment-of-riches-the-sopranos-of-winnipeg
+title: 'An embarrassment of riches: The Sopranos of Winnipeg'
+youtube_url: ""
+---
 As I settled in to watch Manitoba Operas's livestream of _The Sopranos of Winnipeg_ this past Saturday November 7th , I was struck by a sudden sense of calm. My life lately, like many others I'm sure, has been a blur of non-stop Zoom teaching, meetings, and other online affairs. Tonight, I was only a spectator, nobody would be looking at me. How novel!
 
 For a city of well under a million inhabitants, Winnipeg certainly boasts more top notch sopranos-per-capita than, I would hazard a guess, practically any city in the world. Why is that, I wonder? Part of the why, is the great teaching available at our local universities, University of Manitoba, Canadian Mennonite University and Brandon University. Others on the YouTube chat for tonight's concert (a very cool thing to be able to do by the way!) are also appreciative of our embarrassment of riches in the soprano category. Another why - you can actually live here on a singer's salary! Yet another reason is that singing is baked into the fabric of this cold, barren climate. Singing warms the heart, I guess…

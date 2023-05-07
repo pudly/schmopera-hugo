@@ -1,16 +1,25 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2017-11-10T18:59:00-05:00"
-lastmod = "2017-11-11T12:50:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510358744624/2017-11-10---square---TPIV05cBenjamin_Heller.jpg.jpg"
-primary_image_credit = "Andrew Mayer, Eddie Rodriguez Jr. (background) in Thomas Paine in Violence, 2017. Photo: Benjamin Heller."
-publishDate = "2017-11-10T19:39:00-05:00"
-related_articles = ["articles/nasty-women-great-operas-opera-5s-suffragette.md","articles/5-people-who-would-make-great-opera-roles.md"]
-short_description = "Enthroned eight feet off the ground, she presides like an oracle. Below is bedlam. Four hyperactive, dapper, brown men run her subconscious. The &quot;Manchorus&quot; (played tirelessly by Paul Pinto, Andrew Mayer, Christian Luu, and Eddie Rodriguez Jr.) frenetically shuffles about, sharply turning and gesturing, maneuvering papers, tables, panels, electronics, and punctuating Paine&#039;s speeches with tight, high, vocal stabs for dramatic and comedic effect."
-slug = "thomas-paine-in-violence-must-be-witnessed"
-title = "Thomas Paine in Violence &quot;must be witnessed.&quot;"
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2017-11-10T18:59:00-05:00"
+lastmod: "2017-11-11T12:50:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510358744624/2017-11-10---square---TPIV05cBenjamin_Heller.jpg.jpg
+primary_image_credit: 'Andrew Mayer, Eddie Rodriguez Jr. (background) in Thomas Paine
+  in Violence, 2017. Photo: Benjamin Heller.'
+publishDate: "2017-11-10T19:39:00-05:00"
+related_articles:
+- articles/nasty-women-great-operas-opera-5s-suffragette.md
+- articles/5-people-who-would-make-great-opera-roles.md
+short_description: Enthroned eight feet off the ground, she presides like an oracle.
+  Below is bedlam. Four hyperactive, dapper, brown men run her subconscious. The &quot;Manchorus&quot;
+  (played tirelessly by Paul Pinto, Andrew Mayer, Christian Luu, and Eddie Rodriguez
+  Jr.) frenetically shuffles about, sharply turning and gesturing, maneuvering papers,
+  tables, panels, electronics, and punctuating Paine&#039;s speeches with tight, high,
+  vocal stabs for dramatic and comedic effect.
+slug: thomas-paine-in-violence-must-be-witnessed
+title: Thomas Paine in Violence &quot;must be witnessed.&quot;
+---
 
 During the Obama administration, America's ship was turning in the right direction for progressives. Social programs developed. People fantasized about ideas far on the horizon becoming realities like universal health care and universal basic income. Not so today, as the left wades through the daily fog of egocentrism and hatred tweeted out by our bungling Huckster in Chief. How would America's founders reconcile today's frightening mess of a nation?
 

@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-04-04T19:43:00+01:00"
-lastmod = "2016-04-05T10:33:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459795500620/2016-04-04---Anna-Devin.jpg.jpg"
-primary_image_credit = "Photo: Victoria Cadisch."
-publishDate = "2016-04-05T09:47:00+01:00"
-related_articles = ["articles/talking-with-singers-elizabeth-deshong.md","articles/talking-with-singers-leah-crocetto.md","articles/talking-with-singers-christine-goerke.md","articles/a-very-happy-20th-birthday-for-classical-opera.md"]
-related_companies = ["scene/companies/welsh-national-opera.md","scene/companies/teatro-alla-scala.md"]
-related_people = ["scene/people/anna-devin.md"]
-short_description = "Devin feels &quot;completely at home in Handel&quot; and relishes the collaborative process of pulling the music off the page. &quot;You can&#039;t actually be wrong; you can have a difference of opinion between you and the conductor, but there&#039;s nothing to say that you&#039;re wrong. And I quite like that, because it means we can have interesting discussions about why you should do one thing and why you shouldn&#039;t do another.&quot;"
-slug = "talking-with-singers-anna-devin"
-title = "Talking with singers: Anna Devin"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-04-04T19:43:00+01:00"
+lastmod: "2016-04-05T10:33:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459795500620/2016-04-04---Anna-Devin.jpg.jpg
+primary_image_credit: 'Photo: Victoria Cadisch.'
+publishDate: "2016-04-05T09:47:00+01:00"
+related_articles:
+- articles/talking-with-singers-elizabeth-deshong.md
+- articles/talking-with-singers-leah-crocetto.md
+- articles/talking-with-singers-christine-goerke.md
+- articles/a-very-happy-20th-birthday-for-classical-opera.md
+related_companies:
+- scene/companies/welsh-national-opera.md
+- scene/companies/teatro-alla-scala.md
+related_people:
+- scene/people/anna-devin.md
+short_description: Devin feels &quot;completely at home in Handel&quot; and relishes
+  the collaborative process of pulling the music off the page. &quot;You can&#039;t
+  actually be wrong; you can have a difference of opinion between you and the conductor,
+  but there&#039;s nothing to say that you&#039;re wrong. And I quite like that, because
+  it means we can have interesting discussions about why you should do one thing and
+  why you shouldn&#039;t do another.&quot;
+slug: talking-with-singers-anna-devin
+title: 'Talking with singers: Anna Devin'
+---
 
 Irish soprano [Anna Devin](/scene/people/anna-devin/) was enjoying a rare week at home, when she spoke with us between performances of Susanna in [Welsh National Opera](/scene/companies/welsh-national-opera/)'s touring production of *The Marriage of Figaro*. "When you're in the UK when you're not so far from home, you can spend an awful lot of time trying to get home for a night," says Devin. "When I've had the year that I've had," she says, "I need to maximize the time I have at home, otherwise I'd never see my husband."
 

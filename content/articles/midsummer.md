@@ -1,22 +1,32 @@
-+++
-author = ["authors/erik-flaten.md"]
-categories = "Review"
-date = "2019-02-12T14:53:08+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Opera Philadelphia's production of _A Midsummer Night's Dream_ runs through February 17. For details and ticket information, [click here](https://www.operaphila.org/whats-on/on-stage-2018-2019/midsummer-nights-dream/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550007493/media/2019/02/sqMidsummer.jpg"
-primary_image_credit = "Oberon (Tim Mead) presents Puck (Miltos Yerolemou) with the magic flower in A Midsummer Night's Dream, Opera Philadelphia, 2019. Photo: Kelly & Massa for Opera Philadelphia."
-related_articles = ["articles/too-much-magic-a-midsummer-nights-dream-at-eno.md"]
-related_companies = ["scene/companies/opera-philadelphia.md"]
-related_people = ["scene/people/tim-mead.md", "scene/people/anna-christy.md", "scene/people/matthew-rose.md"]
-short_description = "For those looking to escape into a Shakespearean fantasy world filled with fairies, comical misunderstandings, and top-notch singing, this production of Midsummer is not to be missed."
-slug = "uncluttered-magic-in-carsens-midsummer"
-title = "Uncluttered magic in Carsen's Midsummer"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/erik-flaten.md
+categories: Review
+date: "2019-02-12T14:53:08+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Opera Philadelphia's production of _A Midsummer Night's Dream_ runs through
+  February 17. For details and ticket information, [click here](https://www.operaphila.org/whats-on/on-stage-2018-2019/midsummer-nights-dream/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550007493/media/2019/02/sqMidsummer.jpg
+primary_image_credit: 'Oberon (Tim Mead) presents Puck (Miltos Yerolemou) with the
+  magic flower in A Midsummer Night''s Dream, Opera Philadelphia, 2019. Photo: Kelly
+  & Massa for Opera Philadelphia.'
+related_articles:
+- articles/too-much-magic-a-midsummer-nights-dream-at-eno.md
+related_companies:
+- scene/companies/opera-philadelphia.md
+related_people:
+- scene/people/tim-mead.md
+- scene/people/anna-christy.md
+- scene/people/matthew-rose.md
+short_description: For those looking to escape into a Shakespearean fantasy world
+  filled with fairies, comical misunderstandings, and top-notch singing, this production
+  of Midsummer is not to be missed.
+slug: uncluttered-magic-in-carsens-midsummer
+title: Uncluttered magic in Carsen's Midsummer
+youtube_url: ""
+---
 Robert Carsen's staging of Benjamin Britten's [_A Midsummer Night's Dream_](https://www.operaphila.org/whats-on/on-stage-2018-2019/midsummer-nights-dream/) made its U. S. premiere on Friday night at Philadelphia's Academy of Music. Having received critical acclaim across Europe for over 25 years, Carsen's fun-filled and whimsical production finally had its chance to delight an American audience thanks to Opera Philadelphia's innovative and out-of-the-box approach to programming its opera season.
 
 >Music is not always required to make us smile and laugh, but it certainly does not hurt from time to time if it does.

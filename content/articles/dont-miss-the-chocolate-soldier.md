@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-04-26T16:38:00-04:00"
-lastmod = "2017-04-26T17:12:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493240678701/2017-04-25---Square---Chocolate-Soldier.jpg.jpg"
-primary_image_credit = "Gregory Finney and Eugenia Dermentzis in The Chocolate Soldier, Toronto Operetta Theatre, 2017. Photo: Gary Beechey."
-publishDate = "2017-04-26T17:08:00-04:00"
-related_articles = ["articles/tots-pirates-of-penzance-a-glorious-thing.md","articles/in-review-ah-mikado.md"]
-related_companies = ["scene/companies/toronto-operetta-theatre.md"]
-related_people = ["scene/people/michael-nyby.md","scene/people/jennifer-taverner.md","scene/people/gregory-finney.md"]
-short_description = "If the central love story doesn&#039;t entice you, go for the brilliant performances in the supporting cast. Mezzo-soprano Eugenia Dermentzis is a scene-stealer as Aurelia, her face an exaggerated picture of uppity, bewildered, and scheming; even with her polished mezzo, her presence onstage is something delightfully out of a Pixar film. Plus, The Chocolate Soldier is a beautiful chance to catch Schmopera&#039;s own Gregory Finney onstage as the patriarch Popoff."
-slug = "dont-miss-the-chocolate-soldier"
-title = "Don&#039;t miss: The Chocolate Soldier"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-04-26T16:38:00-04:00"
+lastmod: "2017-04-26T17:12:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493240678701/2017-04-25---Square---Chocolate-Soldier.jpg.jpg
+primary_image_credit: 'Gregory Finney and Eugenia Dermentzis in The Chocolate Soldier,
+  Toronto Operetta Theatre, 2017. Photo: Gary Beechey.'
+publishDate: "2017-04-26T17:08:00-04:00"
+related_articles:
+- articles/tots-pirates-of-penzance-a-glorious-thing.md
+- articles/in-review-ah-mikado.md
+related_companies:
+- scene/companies/toronto-operetta-theatre.md
+related_people:
+- scene/people/michael-nyby.md
+- scene/people/jennifer-taverner.md
+- scene/people/gregory-finney.md
+short_description: If the central love story doesn&#039;t entice you, go for the brilliant
+  performances in the supporting cast. Mezzo-soprano Eugenia Dermentzis is a scene-stealer
+  as Aurelia, her face an exaggerated picture of uppity, bewildered, and scheming;
+  even with her polished mezzo, her presence onstage is something delightfully out
+  of a Pixar film. Plus, The Chocolate Soldier is a beautiful chance to catch Schmopera&#039;s
+  own Gregory Finney onstage as the patriarch Popoff.
+slug: dont-miss-the-chocolate-soldier
+title: 'Don&#039;t miss: The Chocolate Soldier'
+---
 
 Running until **April 30**, Oscar Straus' [*The Chocolate Soldier*](http://www.torontooperetta.com/shows.html) is the latest offering of beautiful tunes and charming humour from [Toronto Operetta Theatre](/scene/companies/toronto-operetta-theatre/). With lots of soul from the pit, Peter Tiefenbach leads singers and orchestra through the operetta based on the play by George Bernard Shaw, with a score full of next-door exoticism befitting of a tale set in 19th-century Bulgaria.
 

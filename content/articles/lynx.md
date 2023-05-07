@@ -1,22 +1,31 @@
-+++
-author = ["authors/caitleen-kahn.md"]
-categories = "Op-Ed"
-date = 2022-01-07T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "\\**_Some of our writers prefer person-first language, and others prefer identity-first. We alternate depending on context and whom we are talking about._"
-preamble = "_“Autistic children really want to be heard and speak for themselves. Being autistic somewhat conditions me to being passed over when someone asks a question and they look at my mom for the answer. I want people to take the time to communicate with autistic people and actually hear us for we have a lot to say.”_ – Rithik Sinhasan, 2017 Amplify Series writer."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1641414739/media/2022/01/sq_LYNX_AmplifySeries_rlumuk.jpg"
-primary_image_credit = "Anna Laurenzo recording at Guarneri Hall for LYNX's Amplify Series album, beautiful small things, ArtistShare, 2022."
-related_articles = []
-related_companies = ["scene/companies/lynx-project.md"]
-related_people = []
-short_description = "To date, LYNX has worked with fifteen young writers and fifteen composers on new commissions which range in topic from experiences as a person with autism to climate change to favorite foods."
-slug = "lynx-elevates-its-amplify-series-with-new-anthology"
-title = "LYNX elevates its Amplify Series with new anthology"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/caitleen-kahn.md
+categories: Op-Ed
+date: "2022-01-07T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: \**_Some of our writers prefer person-first language, and others prefer
+  identity-first. We alternate depending on context and whom we are talking about._
+preamble: _“Autistic children really want to be heard and speak for themselves. Being
+  autistic somewhat conditions me to being passed over when someone asks a question
+  and they look at my mom for the answer. I want people to take the time to communicate
+  with autistic people and actually hear us for we have a lot to say.”_ – Rithik Sinhasan,
+  2017 Amplify Series writer.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1641414739/media/2022/01/sq_LYNX_AmplifySeries_rlumuk.jpg
+primary_image_credit: Anna Laurenzo recording at Guarneri Hall for LYNX's Amplify
+  Series album, beautiful small things, ArtistShare, 2022.
+related_articles: []
+related_companies:
+- scene/companies/lynx-project.md
+related_people: []
+short_description: To date, LYNX has worked with fifteen young writers and fifteen
+  composers on new commissions which range in topic from experiences as a person with
+  autism to climate change to favorite foods.
+slug: lynx-elevates-its-amplify-series-with-new-anthology
+title: LYNX elevates its Amplify Series with new anthology
+youtube_url: ""
+---
 What started as a small initiative to share the voices and stories of the nonspeaking autistic community** evolved into concerts around the US, an album and anthology, and close relationships with a community that changed the way [LYNX](/scene/companies/lynx-project/)'s members saw the world.
 
 Through the [Amplify Series](https://www.lynxproject.org/amplify-about-new), formerly Autism Advocacy Series, LYNX collects poetry and prose written by autistic individuals who are primarily nonspeaking, and commission composers to set their words as song. These youth communicate by spelling words on a letterboard, iPad, or keyboard. Their rich inner lives often go unnoticed or unacknowledged by those not directly connected to the autism or the letterboarding community.

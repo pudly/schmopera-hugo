@@ -1,18 +1,29 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = "2018-11-08T12:39:00-05:00"
-lastmod = "2018-11-08T20:47:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541725097138/sqBurkhardFritz_SIEGFRIED_LyricOperaofChicago_LYR181030_0656_c.jpg.jpg"
-primary_image_credit = "Burkhard Fritz in the title role of Siegfried, Lyric Opera of Chicago, 2018. Photo: Todd Rosenberg."
-publishDate = "2018-11-08T20:11:00-05:00"
-related_articles = ["articles/in-review-siegfried.md","articles/talking-with-singers-christine-goerke.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/christine-goerke.md","scene/people/eric-owens.md"]
-short_description = "Pountney&#039;s concept for this Siegfried is rooted in his perception of the eponymous character&#039;s childlike naiveté and exuberance. Much of this production is experienced through the eyes of the young hero, but with some unabashed anachronisms. Siegfried&#039;s scenes were awash with primary colors taken straight out of a Crayola Crayon box."
-slug = "inflatable-beasts-vocal-brilliance-locs-siegfried"
-title = "Inflatable beasts &amp; vocal brilliance: LOC&#039;s Siegfried"
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2018-11-08T12:39:00-05:00"
+lastmod: "2018-11-08T20:47:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541725097138/sqBurkhardFritz_SIEGFRIED_LyricOperaofChicago_LYR181030_0656_c.jpg.jpg
+primary_image_credit: 'Burkhard Fritz in the title role of Siegfried, Lyric Opera
+  of Chicago, 2018. Photo: Todd Rosenberg.'
+publishDate: "2018-11-08T20:11:00-05:00"
+related_articles:
+- articles/in-review-siegfried.md
+- articles/talking-with-singers-christine-goerke.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/christine-goerke.md
+- scene/people/eric-owens.md
+short_description: Pountney&#039;s concept for this Siegfried is rooted in his perception
+  of the eponymous character&#039;s childlike naiveté and exuberance. Much of this
+  production is experienced through the eyes of the young hero, but with some unabashed
+  anachronisms. Siegfried&#039;s scenes were awash with primary colors taken straight
+  out of a Crayola Crayon box.
+slug: inflatable-beasts-vocal-brilliance-locs-siegfried
+title: 'Inflatable beasts &amp; vocal brilliance: LOC&#039;s Siegfried'
+---
 
 How to sum up a five-hour night of Wagner at the Lyric Opera of Chicago? I'm tempted to simply leave it at: "Go. It's amazing!" Saturday's opening of [*Siegfried*](https://www.lyricopera.org/concertstickets/calendar/2018-2019/siegfried-opera-tickets), LOC's new production of the penultimate opera in Wagner's *Ring Cycle*, was overwhelming, invigorating, and awe-inspiring.
 

@@ -1,15 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2014-02-10T15:04:00-05:00"
-lastmod = "2015-04-28T21:58:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272306834/16289_1_miscellaneous_digital_art_black-white_headphones_headphones.jpg.jpg"
-publishDate = "2014-02-10T15:04:00-05:00"
-related_articles = ["articles/googles-very-specific-opera-offerings.md","articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md","articles/is-technology-making-it-harder-to-tell-stories.md","articles/theres-still-no-opera-on-netflix.md"]
-short_description = "As I sat for the nth time scrolling through my music library on my computer, trying to find that really cool bit between this aria and that finale, I switched from recording to recording, hoping that the track division would be different, and perhaps more conducive to my finding that super neat chord progression."
-slug = "online-music-is-obscuring-opera"
-title = "Online Music is Obscuring Opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2014-02-10T15:04:00-05:00"
+lastmod: "2015-04-28T21:58:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272306834/16289_1_miscellaneous_digital_art_black-white_headphones_headphones.jpg.jpg
+publishDate: "2014-02-10T15:04:00-05:00"
+related_articles:
+- articles/googles-very-specific-opera-offerings.md
+- articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md
+- articles/is-technology-making-it-harder-to-tell-stories.md
+- articles/theres-still-no-opera-on-netflix.md
+short_description: As I sat for the nth time scrolling through my music library on
+  my computer, trying to find that really cool bit between this aria and that finale,
+  I switched from recording to recording, hoping that the track division would be
+  different, and perhaps more conducive to my finding that super neat chord progression.
+slug: online-music-is-obscuring-opera
+title: Online Music is Obscuring Opera
+---
 
 As I sat for the nth time scrolling through my music library on my computer, trying to find that really cool bit between this aria and that finale, I switched from recording to recording, hoping that the track division would be different, and perhaps more conducive to my finding that super neat chord progression. And it took me so long to find the thing that my determination wilted. It was somewhere in that chunk of 9:41 or something, and, sure that I had combed through every second of that stupid clip in vain, I was experiencing an acute sensation of oncoming dementia.
 

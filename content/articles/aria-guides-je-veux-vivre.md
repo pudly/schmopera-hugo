@@ -1,19 +1,40 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-01-11T11:26:00-05:00"
-lastmod = "2016-01-12T12:25:00-05:00"
-preamble = "Continuing our series of Aria Guides, it's time for something French: \"Je veux vivre\" from Gounod's *Roméo et Juliette*. \n\nThis is Juliette's first aria, and she sings it after her nurse *yet again* brings up the fact that she has to get married to Paris. Juliette is young, and that can either mean she's giddy and exciteable, or that she's nervous and insecure about things like arranged marriages and being only 13 or so. \"Je veux vivre\" is a hugely popular pick for audition packages; it's not too long, it shows off some coloratura, and it's a great opportunity to show polished acting chops. Along with tried-and-true methods like voice teachers, coaches, and good old practice time, we offer up some handy tips for making the learning process a little easier. \n\nYou can follow along starting on page 49 of [this score](http://imslp.nl/imglnks/usimg/e/e3/IMSLP21548-PMLP49624-Gounod-RometJulietteVSch.pdf), or use the notated excerpts below."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553353915/media/2019/03/sqVivre.jpg"
-primary_image_credit = ""
-publishDate = "2016-01-12T12:00:00-05:00"
-related_articles = ["articles/aria-guides-aprite-un-po-quegli-occhi.md", "articles/aria-guides-una-voce-poco-fa.md", "articles/aria-guides-una-furtiva-lagrima.md"]
-related_people = ["scene/people/nadine-sierra.md"]
-short_description = "This is Juliette's first aria from Gounod's Roméo et Juliette, and she sings it after her nurse yet again brings up the fact that she has to get married to Paris. Juliette is young, and that can either mean she's giddy and excitable, or that she's nervous and insecure about things like arranged marriages and being only 13 or so. \"Je veux vivre\" is a hugely popular pick for audition packages; it's not too long, it shows off some coloratura, and it's a great opportunity to show polished acting chops. "
-slug = "aria-guides-je-veux-vivre"
-title = "Aria Guides: Je veux vivre"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-01-11T11:26:00-05:00"
+lastmod: "2016-01-12T12:25:00-05:00"
+preamble: "Continuing our series of Aria Guides, it's time for something French: \"Je
+  veux vivre\" from Gounod's *Roméo et Juliette*. \n\nThis is Juliette's first aria,
+  and she sings it after her nurse *yet again* brings up the fact that she has to
+  get married to Paris. Juliette is young, and that can either mean she's giddy and
+  exciteable, or that she's nervous and insecure about things like arranged marriages
+  and being only 13 or so. \"Je veux vivre\" is a hugely popular pick for audition
+  packages; it's not too long, it shows off some coloratura, and it's a great opportunity
+  to show polished acting chops. Along with tried-and-true methods like voice teachers,
+  coaches, and good old practice time, we offer up some handy tips for making the
+  learning process a little easier. \n\nYou can follow along starting on page 49 of
+  [this score](http://imslp.nl/imglnks/usimg/e/e3/IMSLP21548-PMLP49624-Gounod-RometJulietteVSch.pdf),
+  or use the notated excerpts below."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553353915/media/2019/03/sqVivre.jpg
+primary_image_credit: ""
+publishDate: "2016-01-12T12:00:00-05:00"
+related_articles:
+- articles/aria-guides-aprite-un-po-quegli-occhi.md
+- articles/aria-guides-una-voce-poco-fa.md
+- articles/aria-guides-una-furtiva-lagrima.md
+related_people:
+- scene/people/nadine-sierra.md
+short_description: 'This is Juliette''s first aria from Gounod''s Roméo et Juliette,
+  and she sings it after her nurse yet again brings up the fact that she has to get
+  married to Paris. Juliette is young, and that can either mean she''s giddy and excitable,
+  or that she''s nervous and insecure about things like arranged marriages and being
+  only 13 or so. "Je veux vivre" is a hugely popular pick for audition packages; it''s
+  not too long, it shows off some coloratura, and it''s a great opportunity to show
+  polished acting chops. '
+slug: aria-guides-je-veux-vivre
+title: 'Aria Guides: Je veux vivre'
+---
  1. What a way to start an aria, am I right? This line takes a lot of patient practice, and drilling the intonation is easier if you check your pitch on the piano, in four octaves - hearing the pitch is much easier than with a single note to match. Take advantage of the articulations that Gounod writes, too; you can be almost instrumental in the way you attack each note, and this squareness will help you stay in tune. The last detail to make your life easier: make sure that the last C-natural of Juliette's first bar is easy and vibrating.<figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452532571714/Aria-Guide---Je-veux-vivre-1---annotated.jpg.jpg) </figure>

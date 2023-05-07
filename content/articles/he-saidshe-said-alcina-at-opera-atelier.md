@@ -1,19 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-10-25T12:37:00-04:00"
-lastmod = "2015-04-14T10:15:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547912330/media/2019/01/OAAlcina.png"
-primary_image_credit = "Photo by Bruce Zinger"
-publishDate = "2014-10-25T12:37:00-04:00"
-related_articles = ["articles/in-review-opera-ateliers-armide.md", "articles/talking-with-singers-meghan-lindsay.md", "articles/boys-who-are-girls-who-love-girls-that-are-boys-or-handels-alcina.md", "articles/all-about-the-tafelmusik-baroque-summer-institute.md", "articles/american-baroque-opera-cos-first-staged-opera-a-winner-in-alcina.md", "articles/a-daring-desirous-doublebill-at-opera-atelier.md"]
-related_companies = ["scene/companies/opera-atelier.md"]
-related_people = ["scene/people/wallis-giunta.md", "scene/people/mireille-lebel.md", "scene/people/meghan-lindsay.md", "scene/people/mireille-asselin.md"]
-short_description = "Greg and I headed to the Elgin Theatre to see opening night of Opera Atelier&#039;s Alcina, and we teamed up on another joint review. Bonus: Greg can speak intelligently about Atelier Ballet, something I won&#039;t pretend to know well."
-slug = "he-saidshe-said-alcina-at-opera-atelier"
-title = "He Said/She Said: Alcina at Opera Atelier"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-10-25T12:37:00-04:00"
+lastmod: "2015-04-14T10:15:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1547912330/media/2019/01/OAAlcina.png
+primary_image_credit: Photo by Bruce Zinger
+publishDate: "2014-10-25T12:37:00-04:00"
+related_articles:
+- articles/in-review-opera-ateliers-armide.md
+- articles/talking-with-singers-meghan-lindsay.md
+- articles/boys-who-are-girls-who-love-girls-that-are-boys-or-handels-alcina.md
+- articles/all-about-the-tafelmusik-baroque-summer-institute.md
+- articles/american-baroque-opera-cos-first-staged-opera-a-winner-in-alcina.md
+- articles/a-daring-desirous-doublebill-at-opera-atelier.md
+related_companies:
+- scene/companies/opera-atelier.md
+related_people:
+- scene/people/wallis-giunta.md
+- scene/people/mireille-lebel.md
+- scene/people/meghan-lindsay.md
+- scene/people/mireille-asselin.md
+short_description: 'Greg and I headed to the Elgin Theatre to see opening night of
+  Opera Atelier&#039;s Alcina, and we teamed up on another joint review. Bonus: Greg
+  can speak intelligently about Atelier Ballet, something I won&#039;t pretend to
+  know well.'
+slug: he-saidshe-said-alcina-at-opera-atelier
+title: 'He Said/She Said: Alcina at Opera Atelier'
+---
 ### On the singing
 
 **Jenna**: I thought the singing was fantastic from the four leading ladies (lady singers, with variable genders). In the title role, soprano [Meghan Lindsay](http://www.meghanlindsay.com/) was fierce and manipulative; she made use of her warm, velvety middle range, and let her high notes rip with metallic ring. Alcina is a role that features lots of disingenuousness, and I thought Meghan made a clear distinction between Alcina's moments of honesty and her moments of lies. Very Queen-like. As Ruggiero, Alcina's lover-du-jour, mezzo-soprano [Allyson McHardy](http://www.allysonmchardy.com/) was spectacular. I've gotten to know Allyson's singing a bit over the years, and it's always a treat to hear her in Handel; it's really her thing. Allyson is a pro when it comes to pants roles, and Ruggiero was no exception. She had fantastic coloratura and stunning, still rendition of "Verdi prati". She sang with an honest, manly sound, and she paced her vocal colour palate wisely; she created a Ruggiero who really "spoke" differently to Alcina than to his lost-now-found fiancée, Bradamante. Speaking of whom, mezzo-soprano [Wallis Giunta](http://wallisgiunta.com/site/) showed off some seriously polished singing as Ruggiero's fiancée (who is at times dressed as a man, to give the pants role confusion another layer). She had incredible coloratura in a few damn-difficult arias, and I loved how she smartly used her chest voice to deal with the role's low writing. I liked that she ornamented her _da capos_ to show off her higher range, keeping Bradamante a lighter "male" foil to Ruggiero.

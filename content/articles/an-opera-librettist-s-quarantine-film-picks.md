@@ -1,22 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = 2020-05-14T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Opera nuts, what are your go-to film choices for quarantine times? Leave them in the comments, or at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "If you couldn't tell by his operatic adaptations of films like Lars von Trier's [_Breaking the Waves_](https://www.operaphila.org/whats-on/digital-festival/breaking-the-waves/), and Carlos Reygadas' [_Silent Light_](https://www.banffcentre.ca/events/opera-silent-light/20190706/1930), Canadian librettist [Royce Vavrek](/scene/people/royce-vavrek/) is a movie buff. So, since we've all got more time on our hands than usual, I figured it would be an opera fan's obvious choice to get their film recommendations from a like-minded, enthusiastic mind like Vavrek's.\n\nBefore we jump into it, I'll pass along a strong caveat: you won't spot _Breaking the Waves_ or _Silent Light_ (or Atom Egoyan's [_Adoration_](https://www.bethmorrisonprojects.org/adoration)) in this list, and it's not because Vavrek doesn't love those films. He's looking beyond the works he's had a chance to adapt, and offering up \"familiar friends\" in a time where familiarity counts for a lot."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1589501169/media/2020/05/sqRoyceVavrekbyRicardoBeas_t5tmzu.jpg"
-primary_image_credit = "Royce Vavrek, librettist. Photo by Ricardo Beas."
-related_articles = ["articles/when-disney-made-a-cartoon-about-an-operasinging-whale.md", "articles/5-books-that-should-be-operas.md", "articles/5-classical-voice-podcasts-to-try.md"]
-related_companies = []
-related_people = ["scene/people/royce-vavrek.md"]
-short_description = "\"Probably my favorite comedy.  No matter how many times I see this movie, I can’t help but laugh my ass off.  I will go anywhere for Melissa McCarthy.\""
-slug = "an-opera-librettists-quarantine-film-picks"
-title = "An opera librettist's quarantine film picks"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2020-05-14T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Opera nuts, what are your go-to film choices for quarantine times? Leave
+  them in the comments, or at [hello@schmopera.com](mailto:hello@schmopera.com).
+preamble: |-
+  If you couldn't tell by his operatic adaptations of films like Lars von Trier's [_Breaking the Waves_](https://www.operaphila.org/whats-on/digital-festival/breaking-the-waves/), and Carlos Reygadas' [_Silent Light_](https://www.banffcentre.ca/events/opera-silent-light/20190706/1930), Canadian librettist [Royce Vavrek](/scene/people/royce-vavrek/) is a movie buff. So, since we've all got more time on our hands than usual, I figured it would be an opera fan's obvious choice to get their film recommendations from a like-minded, enthusiastic mind like Vavrek's.
 
-+++
+  Before we jump into it, I'll pass along a strong caveat: you won't spot _Breaking the Waves_ or _Silent Light_ (or Atom Egoyan's [_Adoration_](https://www.bethmorrisonprojects.org/adoration)) in this list, and it's not because Vavrek doesn't love those films. He's looking beyond the works he's had a chance to adapt, and offering up "familiar friends" in a time where familiarity counts for a lot.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1589501169/media/2020/05/sqRoyceVavrekbyRicardoBeas_t5tmzu.jpg
+primary_image_credit: Royce Vavrek, librettist. Photo by Ricardo Beas.
+related_articles:
+- articles/when-disney-made-a-cartoon-about-an-operasinging-whale.md
+- articles/5-books-that-should-be-operas.md
+- articles/5-classical-voice-podcasts-to-try.md
+related_companies: []
+related_people:
+- scene/people/royce-vavrek.md
+short_description: '"Probably my favorite comedy.  No matter how many times I see
+  this movie, I can’t help but laugh my ass off.  I will go anywhere for Melissa McCarthy."'
+slug: an-opera-librettists-quarantine-film-picks
+title: An opera librettist's quarantine film picks
+youtube_url: ""
+---
 ## _All About My Mother_, Pedro Almodovar
 
 "Almodovar is an absolute genius, and for me, [this film](https://www.criterion.com/films/29569-all-about-my-mother) is his _magnum opus_. The performance of Antonia San Juan as Agrado is as delicious and fabulous as they come."

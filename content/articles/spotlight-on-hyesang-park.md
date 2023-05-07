@@ -1,19 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-06-09T16:51:00-06:00"
-lastmod = "2017-06-18T22:16:00-06:00"
-preamble = "South Korean soprano [Hyesang Park](/scene/people/hyesang-park/) is currently in Lewes, UK, making her debut at the [Glyndebourne Festival](/scene/companies/glyndebourne/) as Najade in [Ariadne auf Naxos](http://www.glyndebourne.com/tickets-and-whats-on/events/2017/ariadne-auf-naxos/), running June 25 to July 27. Winner the 2016 Gerda Lissner Foundation International Competition and the 2015 Operalia Competition Zarzuela Prize, Park is a current member of the Metropolitan Opera's Lindemann Young Artist Development Programme.\n\nIn our latest Spotlight interview, Park talks about her definitions of a well-rounded performer, and offers some of her own singer-friendly travel tips."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497048784270/2017-06-09---HYESANG_PARK_pc_Dario_Acosta.jpg.jpg"
-primary_image_credit = "Photo: Dario Acosta."
-publishDate = "2017-06-18T21:58:00-06:00"
-related_articles = ["articles/spotlight-on-rihab-chaieb.md","articles/spotlight-on-amanda-majeski.md"]
-related_companies = ["scene/companies/glyndebourne.md"]
-related_people = ["scene/people/hyesang-park.md"]
-short_description = "&quot;I have such a big responsibility about my singing. This is not about filling my pocket with money, not about having a big reputation, not even about my own joy and happiness. I feel I have to try to open another door.&quot;"
-slug = "spotlight-on-hyesang-park"
-title = "Spotlight on: Hyesang Park"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-06-09T16:51:00-06:00"
+lastmod: "2017-06-18T22:16:00-06:00"
+preamble: |-
+  South Korean soprano [Hyesang Park](/scene/people/hyesang-park/) is currently in Lewes, UK, making her debut at the [Glyndebourne Festival](/scene/companies/glyndebourne/) as Najade in [Ariadne auf Naxos](http://www.glyndebourne.com/tickets-and-whats-on/events/2017/ariadne-auf-naxos/), running June 25 to July 27. Winner the 2016 Gerda Lissner Foundation International Competition and the 2015 Operalia Competition Zarzuela Prize, Park is a current member of the Metropolitan Opera's Lindemann Young Artist Development Programme.
+
+  In our latest Spotlight interview, Park talks about her definitions of a well-rounded performer, and offers some of her own singer-friendly travel tips.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497048784270/2017-06-09---HYESANG_PARK_pc_Dario_Acosta.jpg.jpg
+primary_image_credit: 'Photo: Dario Acosta.'
+publishDate: "2017-06-18T21:58:00-06:00"
+related_articles:
+- articles/spotlight-on-rihab-chaieb.md
+- articles/spotlight-on-amanda-majeski.md
+related_companies:
+- scene/companies/glyndebourne.md
+related_people:
+- scene/people/hyesang-park.md
+short_description: '&quot;I have such a big responsibility about my singing. This
+  is not about filling my pocket with money, not about having a big reputation, not
+  even about my own joy and happiness. I feel I have to try to open another door.&quot;'
+slug: spotlight-on-hyesang-park
+title: 'Spotlight on: Hyesang Park'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

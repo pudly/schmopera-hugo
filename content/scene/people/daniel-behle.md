@@ -1,26 +1,24 @@
-+++
-date = "2016-09-23T12:20:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-09-23T12:20:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474629485907/2016-09-23---Daniel_Behle---Borggreve.jpg.jpg"
-primary_image_credit = "Marco Borggreve"
-publishDate = "2016-09-23T12:20:00+01:00"
-slug = "daniel-behle"
-title = "Daniel Behle"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/danielbehletenor"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/teilzeitdiva"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/behlepr"
-_template = "people_single"
-+++
+---
+date: "2016-09-23T12:20:00+01:00"
+discipline: Tenor
+lastmod: "2016-09-23T12:20:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474629485907/2016-09-23---Daniel_Behle---Borggreve.jpg.jpg
+primary_image_credit: Marco Borggreve
+publishDate: "2016-09-23T12:20:00+01:00"
+slug: daniel-behle
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/danielbehletenor
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/teilzeitdiva
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/behlepr
+title: Daniel Behle
+---
 
 Daniel Behle is one of the most versatile German tenors and is equally successful in the concert, lied and opera genres. His extensive repertoire ranges from Baroque masterpieces to Classical and Romantic works to compositions of the 20th and 21st centuries.
 

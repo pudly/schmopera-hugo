@@ -1,17 +1,21 @@
-+++
-author = ["authors/neil-craighead.md"]
-categories = ""
-date = 2018-05-09T01:25:00Z
-lastmod = "2018-05-09T20:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525830022070/FourSingers.jpg.jpg"
-primary_image_credit = "Clockwise from top left: bass Nicola Ghiuselev, tenor Joseph Schmidt, soprano Dorothy Kirsten, and mezzo-soprano Elena Obraztsova. "
-publishDate = "2018-05-09T20:07:00-04:00"
-related_articles = ["articles/8-contemporary-roles-to-covet.md"]
-short_description = "I browsed through some boxes and found records by Caruso, Bjoerling, Pavarotti, Tozzi, and on and on. I didn&#039;t even own a record player, but I purchased about $45 worth of vinyl at about $5 per record, and so began my latest obsession. "
-slug = "4-singers-you-might-not-know-but-should"
-title = "4 singers you might not know - but should"
-
-+++
+---
+author:
+- authors/neil-craighead.md
+categories: ""
+date: "2018-05-09T01:25:00Z"
+lastmod: "2018-05-09T20:07:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525830022070/FourSingers.jpg.jpg
+primary_image_credit: 'Clockwise from top left: bass Nicola Ghiuselev, tenor Joseph
+  Schmidt, soprano Dorothy Kirsten, and mezzo-soprano Elena Obraztsova. '
+publishDate: "2018-05-09T20:07:00-04:00"
+related_articles:
+- articles/8-contemporary-roles-to-covet.md
+short_description: 'I browsed through some boxes and found records by Caruso, Bjoerling,
+  Pavarotti, Tozzi, and on and on. I didn&#039;t even own a record player, but I purchased
+  about $45 worth of vinyl at about $5 per record, and so began my latest obsession. '
+slug: 4-singers-you-might-not-know-but-should
+title: 4 singers you might not know - but should
+---
 Last summer I was in Quebec City, and one day as I happened along the Grand Allée Ouest I came upon an old church with the doors open and a [Big Mama Thornton](https://www.youtube.com/watch?v=wxoGvBQtjpM&feature=youtu.be) record wailing away at high volume. Intrigued, I went in for a closer look and discovered that in fact the church had been converted into a record shop and used book store.
 
 I browsed through some boxes and found records by Caruso, Bjoerling, Pavarotti, Tozzi, and on and on. I didn't even own a record player, but I purchased about $45 worth of vinyl at about $5 per record, and so began my latest obsession.

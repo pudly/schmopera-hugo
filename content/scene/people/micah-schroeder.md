@@ -1,17 +1,22 @@
-+++
-date = "2017-05-13T19:18:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-05-13T19:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546747195/media/2019/01/MicahSchroeder.jpg"
-primary_image_credit = "Michelle Doherty"
-publishDate = "2017-05-13T19:18:00-04:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md", "scene/companies/cowtown-opera-company.md", "scene/companies/the-banff-centre.md", "scene/companies/university-of-toronto-opera.md", "scene/companies/opera-nuova.md", "scene/companies/saskatoon-opera.md"]
-slug = "micah-schroeder"
-title = "Micah Schroeder"
-website = "http://micahschroeder.com/"
-
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-05-13T19:18:00-04:00"
+discipline: Baritone
+lastmod: "2017-05-13T19:28:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546747195/media/2019/01/MicahSchroeder.jpg
+primary_image_credit: Michelle Doherty
+publishDate: "2017-05-13T19:18:00-04:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/cowtown-opera-company.md
+- scene/companies/the-banff-centre.md
+- scene/companies/university-of-toronto-opera.md
+- scene/companies/opera-nuova.md
+- scene/companies/saskatoon-opera.md
+slug: micah-schroeder
+title: Micah Schroeder
+website: http://micahschroeder.com/
+---
 Native of Vancouver, British Columbia, baritone, Micah Schroeder holds a Bachelor of Music and Master of Music Degree from the University of British Columbia in Opera Performance and a Diploma in Opera Studies from the University of Toronto.
  
 This season, Mr. Schroeder appears as Pluton in *Orphée aux enfers* and Argenio in Handel's *Imeneo* with UofT Opera. This spring Mr. Schroeder joins Against the Grain Theatre in their production of *La Bohème* singing the role of Schaunard. Mr. Schroeder also joins Against the Grain Theatre as a fellow at the Banff Centre for the Arts and Creativity singing the role of Baryton-martin in Claude Vivier's *Kopernikus*.

@@ -1,18 +1,29 @@
-+++
-author = ["authors/molly-simoneau.md"]
-categories = "Review"
-date = "2018-05-07T11:05:00-04:00"
-lastmod = "2018-05-07T20:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525705419433/SopranoEmilyPogorelcCunegondeandTenoAlekShraderCandideinWNOsproductionofCandide_creditScottSuchman.jpg.jpg"
-primary_image_credit = "Emily Pogorelc (Cunegonde) and Alek Shrader (Candide) in Candide, Washington National Opera, 2018. Photo: Scott Suchman."
-publishDate = "2018-05-07T11:52:00-04:00"
-related_articles = ["articles/candide-the-best-of-all-possible-productions.md","articles/too-many-jewels-the-search-for-meaning-pbos-candide.md"]
-related_companies = ["scene/companies/washington-national-opera.md"]
-related_people = ["scene/people/alek-shrader.md","scene/people/emily-pogorelc.md"]
-short_description = "The production is the focal point of the Kennedy Center&#039;s programming in honor of Bernstein&#039;s 100th birthday, and amounts to the most enjoyable night of theater offered by WNO this season with its just-right combination of thrilling music, vocal gymnastics, impressive theatrical effects, belly-aching comedy, and effective storytelling."
-slug = "grappling-with-daily-life-wnos-candide"
-title = "Grappling with daily life: WNO&#039;s Candide"
-+++
+---
+author:
+- authors/molly-simoneau.md
+categories: Review
+date: "2018-05-07T11:05:00-04:00"
+lastmod: "2018-05-07T20:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525705419433/SopranoEmilyPogorelcCunegondeandTenoAlekShraderCandideinWNOsproductionofCandide_creditScottSuchman.jpg.jpg
+primary_image_credit: 'Emily Pogorelc (Cunegonde) and Alek Shrader (Candide) in Candide,
+  Washington National Opera, 2018. Photo: Scott Suchman.'
+publishDate: "2018-05-07T11:52:00-04:00"
+related_articles:
+- articles/candide-the-best-of-all-possible-productions.md
+- articles/too-many-jewels-the-search-for-meaning-pbos-candide.md
+related_companies:
+- scene/companies/washington-national-opera.md
+related_people:
+- scene/people/alek-shrader.md
+- scene/people/emily-pogorelc.md
+short_description: The production is the focal point of the Kennedy Center&#039;s
+  programming in honor of Bernstein&#039;s 100th birthday, and amounts to the most
+  enjoyable night of theater offered by WNO this season with its just-right combination
+  of thrilling music, vocal gymnastics, impressive theatrical effects, belly-aching
+  comedy, and effective storytelling.
+slug: grappling-with-daily-life-wnos-candide
+title: 'Grappling with daily life: WNO&#039;s Candide'
+---
 
 As I sat down to the computer to write my review of Saturday night's premiere of [Washington National Opera](/scene/companies/washington-national-opera/) Artistic Director Francesca Zambello's [production of *Candide*](http://www.kennedy-center.org/calendar/event/OSOSF), I began by glancing at the front page of a couple major US newspapers. "Storms, Missteps, and an Ailing Grid Left Puerto Rico in the Dark," "SpaceX using Rocket Technology that could Endanger Lives, Nasa Advisers Say," "Hawaii's Big Island Rocked by Historic Earthquake as Lava Flow Threatens Homes," "Bombing Kills at least 14 Afghans Registering to Vote." Tragedies happen everywhere, every day. People motivated by greed or power commit evil acts over and over again. They always have, and they always will. It's this daily, unrelenting horror of life that Leonard Bernstein's adaptation of the Voltaire classic attempts to grapple with, and somehow does it hilariously.
 

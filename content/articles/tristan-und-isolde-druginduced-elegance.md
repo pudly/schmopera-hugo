@@ -1,15 +1,20 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-04-16T22:03:00-04:00"
-lastmod = "2018-04-17T20:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523930611399/sqCH1379245_Original.jpg.jpg"
-primary_image_credit = "Photo: Chris Lee/Boston Symphony Orchestra."
-publishDate = "2018-04-17T20:03:00-04:00"
-short_description = "Caught between duty, desire and despondence, Kaufmann&#039;s Tristan navigated with a melancholic and determined grace, building to fanatical splendor only to dissolve in hallucinatory turmoil. Whether he can sustain all of this vocally and emotionally in a full production is a question that the opera world eagerly waits to have answered."
-slug = "tristan-und-isolde-druginduced-elegance"
-title = "Tristan und Isolde: drug-induced elegance"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-04-16T22:03:00-04:00"
+lastmod: "2018-04-17T20:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523930611399/sqCH1379245_Original.jpg.jpg
+primary_image_credit: 'Photo: Chris Lee/Boston Symphony Orchestra.'
+publishDate: "2018-04-17T20:03:00-04:00"
+short_description: Caught between duty, desire and despondence, Kaufmann&#039;s Tristan
+  navigated with a melancholic and determined grace, building to fanatical splendor
+  only to dissolve in hallucinatory turmoil. Whether he can sustain all of this vocally
+  and emotionally in a full production is a question that the opera world eagerly
+  waits to have answered.
+slug: tristan-und-isolde-druginduced-elegance
+title: 'Tristan und Isolde: drug-induced elegance'
+---
 
 Whatever was going on between Richard Wagner and Mathilde Wesendonk, we should be grateful for it. In 1858 Wagner moved into a cottage on the Zürich estate of Mathilde and Otto Wesendonk where he began composing *Tristan und Isolde*, his immortal ode to love and death. We don't know if their relationship was spiritual or physical, or a bit of both, but we do know that it had an influence on Wagner as he set this Celtic legend to music.
 

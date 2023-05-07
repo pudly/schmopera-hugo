@@ -1,16 +1,22 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2018-05-14T20:41:00-04:00"
-lastmod = "2018-05-14T21:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526344706274/RebeccaSilvermanEdwardJowleSamuelJenkins.jpg.jpg"
-primary_image_credit = "Rebecca Silverman, Edward Jowle, Samuel Jenkins. Photo courtesy of Tête à Tête."
-publishDate = "2018-05-14T21:25:00-04:00"
-related_companies = ["scene/companies/tete-a-tete.md"]
-short_description = "In spite of the fact that it&#039;s hard to tell a story in twenty minutes, I walked away from this exciting evening hungry for more short bonbons of opera. I was grateful for the theme of the evening, which the creative teams either ran with or ran away from. "
-slug = "5-frankensteinthemed-shorts-leave-you-wanting-more"
-title = "5 Frankenstein-themed shorts leave you wanting more"
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2018-05-14T20:41:00-04:00"
+lastmod: "2018-05-14T21:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526344706274/RebeccaSilvermanEdwardJowleSamuelJenkins.jpg.jpg
+primary_image_credit: Rebecca Silverman, Edward Jowle, Samuel Jenkins. Photo courtesy
+  of Tête à Tête.
+publishDate: "2018-05-14T21:25:00-04:00"
+related_companies:
+- scene/companies/tete-a-tete.md
+short_description: 'In spite of the fact that it&#039;s hard to tell a story in twenty
+  minutes, I walked away from this exciting evening hungry for more short bonbons
+  of opera. I was grateful for the theme of the evening, which the creative teams
+  either ran with or ran away from. '
+slug: 5-frankensteinthemed-shorts-leave-you-wanting-more
+title: 5 Frankenstein-themed shorts leave you wanting more
+---
 
 In what I hope will emerge as a trend in London, The Royal College of Music and [Tête à Tête](/scene/companies/tete-a-tete/) presented five new one-act chamber operas in one night, all inspired by Frankenstein; or, the Modern Prometheus, following the 200 year anniversary of Mary Shelley's novel. Five separate teams of composers and librettists collaborated to create these operas, which all benefited greatly from bright and skilled direction from Bill Bankes-Jones, as well as innovative design from Sarah Booth and Ralph Stokeld. The orchestra dazzled under the baton of Natalie Murray Beale and outstanding students from the RCM in the pit.
 

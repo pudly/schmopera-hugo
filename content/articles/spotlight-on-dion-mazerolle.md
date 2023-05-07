@@ -1,16 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-05-29T09:54:00-04:00"
-lastmod = "2017-06-01T21:03:00-04:00"
-preamble = "From Dulcamara (*L'elisir d'amore*) to the Four Villains (*Les contes d'Hoffmann*) to the title role in Salieri's *Falstaff*, New Brunswick-born baritone [Dion Mazerolle](/scene/people/dion-mazerolle/) is as versatile as he is busy. He just finished the Toronto run of Peter Hinton's new production of *Louis Riel*, and this summer he reprises his role of F.X. Lemieux for additional performances at Ottawa's [National Arts Centre](https://nac-cna.ca/en/event/13660) and at [Opéra de Québec](http://festivaloperaquebec.com/en/louis-riel/). \n\nMazerolle took the time to chat about everything from being a respectful and reliable understudy, to his musical roots in Acadian \"jam sessions\"."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496066419811/2017-05-29---Dion-Mazerolle.jpg.jpg"
-publishDate = "2017-06-01T21:02:00-04:00"
-related_people = ["scene/people/dion-mazerolle.md"]
-short_description = "&quot;Good singing for me means communicating. In and after school, we learn how to sing, breathe, how to create legato, vocal colour, control of sound, pronunciation but we do all this toward the ultimate goal of communicating something to our audience. Whether it is from opera, recital or oratorio, we are here to tell a story. When you achieve it, you feel like you have a purpose.&quot;"
-slug = "spotlight-on-dion-mazerolle"
-title = "Spotlight on: Dion Mazerolle"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-05-29T09:54:00-04:00"
+lastmod: "2017-06-01T21:03:00-04:00"
+preamble: "From Dulcamara (*L'elisir d'amore*) to the Four Villains (*Les contes d'Hoffmann*)
+  to the title role in Salieri's *Falstaff*, New Brunswick-born baritone [Dion Mazerolle](/scene/people/dion-mazerolle/)
+  is as versatile as he is busy. He just finished the Toronto run of Peter Hinton's
+  new production of *Louis Riel*, and this summer he reprises his role of F.X. Lemieux
+  for additional performances at Ottawa's [National Arts Centre](https://nac-cna.ca/en/event/13660)
+  and at [Opéra de Québec](http://festivaloperaquebec.com/en/louis-riel/). \n\nMazerolle
+  took the time to chat about everything from being a respectful and reliable understudy,
+  to his musical roots in Acadian \"jam sessions\"."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496066419811/2017-05-29---Dion-Mazerolle.jpg.jpg
+publishDate: "2017-06-01T21:02:00-04:00"
+related_people:
+- scene/people/dion-mazerolle.md
+short_description: '&quot;Good singing for me means communicating. In and after school,
+  we learn how to sing, breathe, how to create legato, vocal colour, control of sound,
+  pronunciation but we do all this toward the ultimate goal of communicating something
+  to our audience. Whether it is from opera, recital or oratorio, we are here to tell
+  a story. When you achieve it, you feel like you have a purpose.&quot;'
+slug: spotlight-on-dion-mazerolle
+title: 'Spotlight on: Dion Mazerolle'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

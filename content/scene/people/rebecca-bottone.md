@@ -1,22 +1,20 @@
-+++
-date = "2017-03-22T12:15:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-03-22T12:15:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546829660/media/2019/01/RebeccaBottone.jpg"
-publishDate = "2017-03-22T12:15:00+00:00"
-slug = "rebecca-bottone"
-title = "Rebecca Bottone"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/RebeccaBottoneTeacher/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Bigpinkbutton"
-
-_template = "people_single"
-+++
+---
+date: "2017-03-22T12:15:00+00:00"
+discipline: Soprano
+lastmod: "2017-03-22T12:15:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546829660/media/2019/01/RebeccaBottone.jpg
+publishDate: "2017-03-22T12:15:00+00:00"
+slug: rebecca-bottone
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/RebeccaBottoneTeacher/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Bigpinkbutton
+title: Rebecca Bottone
+---
 Rebecca Bottone was born in Bedfordshire and is a graduate of the Royal Academy of Music. 
 
 Recent and future engagements include Queen Tye *Akhnaten* at English National Opera‚ Giunia *Lucio Silla* (Buxton Festival)‚ Weltgeist *Die Schuldigkeit des ersten Gebots* (Classical Opera)‚ *Peter Pan* and Yniold *Pelléas et Mélisande* (Welsh National Opera)‚ Yum Yum *The Mikado*‚ Clorinda *La Cenerentola* and Mabel *The Pirates of Penzance* (Scottish Opera)‚ Constance *The Sorcerer* (National Gilbert & Sullivan Company)‚ Ilia *Idomeneo* at Blackheath Halls‚ and Hugh Wood’s *Epithalamion* at the BBC Proms.

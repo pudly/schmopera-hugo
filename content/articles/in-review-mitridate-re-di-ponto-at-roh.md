@@ -1,17 +1,33 @@
-+++
-author = ["authors/patricia-auchterlonie.md"]
-categories = "Review"
-date = "2017-07-02T21:20:00-06:00"
-lastmod = "2017-07-02T22:32:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499052874749/2017-07-02---Square---MITRIDATE-RE-DI-PONTO-PRODUCTION-IMAGE-ROH-PHOTO-BY-BILL-COOPER.jpg.jpg"
-primary_image_credit = "Mitridate, re di Ponto, ROH, 2017. Photo by Bill Cooper."
-publishDate = "2017-07-02T22:19:00-06:00"
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/lucy-crowe.md","scene/people/rupert-charlesworth.md","scene/people/vlada-borovko.md","scene/people/jennifer-davis.md","scene/people/albina-shagimuratova.md","scene/people/bejun-mehta.md","scene/people/michael-spyres.md","scene/people/francesca-chiejina.md"]
-short_description = "Overall, the quality of the production was incredibly high. It was visually stunning, particularly the unusual costuming. The aesthetic and movement choices of the production did inspire some conflict in me though. It was fantastic to see such a bold exploration of gender fluidity and campiness fearlessly played out with the costuming and physical characterisation of the singers. I also loved the aesthetic value of the costuming and set - the rich colours really brought this over-the-top world to life."
-slug = "in-review-mitridate-re-di-ponto-at-roh"
-title = "In review: Mitridate, re di Ponto at ROH"
-+++
+---
+author:
+- authors/patricia-auchterlonie.md
+categories: Review
+date: "2017-07-02T21:20:00-06:00"
+lastmod: "2017-07-02T22:32:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499052874749/2017-07-02---Square---MITRIDATE-RE-DI-PONTO-PRODUCTION-IMAGE-ROH-PHOTO-BY-BILL-COOPER.jpg.jpg
+primary_image_credit: Mitridate, re di Ponto, ROH, 2017. Photo by Bill Cooper.
+publishDate: "2017-07-02T22:19:00-06:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/lucy-crowe.md
+- scene/people/rupert-charlesworth.md
+- scene/people/vlada-borovko.md
+- scene/people/jennifer-davis.md
+- scene/people/albina-shagimuratova.md
+- scene/people/bejun-mehta.md
+- scene/people/michael-spyres.md
+- scene/people/francesca-chiejina.md
+short_description: Overall, the quality of the production was incredibly high. It
+  was visually stunning, particularly the unusual costuming. The aesthetic and movement
+  choices of the production did inspire some conflict in me though. It was fantastic
+  to see such a bold exploration of gender fluidity and campiness fearlessly played
+  out with the costuming and physical characterisation of the singers. I also loved
+  the aesthetic value of the costuming and set - the rich colours really brought this
+  over-the-top world to life.
+slug: in-review-mitridate-re-di-ponto-at-roh
+title: 'In review: Mitridate, re di Ponto at ROH'
+---
 
 I love being surprised when I go to the opera, but I find it’s a rare occurrence. I am often delighted and moved, but rarely surprised. On this occasion, *Mitridate, Re di Ponto* was full of the unexpected. First of all, I really wasn’t expecting to enjoy the piece the way I did. Usually four hours of back-to-back *da capo* arias is my idea of torture (that's not to say I don't like *da capo* arias, but an hour is enough!). But this production was captivating from the beginning - campy, full of colour and stunning aesthetic value, but particularly, full of incredibly refined and beautiful singing. 
 

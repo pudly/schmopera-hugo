@@ -1,18 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-03-24T15:44:00+00:00"
-lastmod = "2017-03-28T08:42:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490370440510/2017-03-24---Matthew-Polenzani---Fay-Fox.jpg.jpg"
-primary_image_credit = "Photo by Fay Fox."
-publishDate = "2017-03-27T10:45:00+01:00"
-related_articles = ["articles/talking-with-singers-rene-barbera.md","articles/talking-with-singers-craig-irvin.md","articles/talking-with-singers-riccardo-massi.md","articles/spotlight-on-michael-scott.md","articles/santa-fe-santelli.md","articles/spotlight-on-eric-barry.md","articles/talking-with-singers-carl-tanner.md","articles/talking-with-singers-andrew-haji.md","articles/a-dreamy-indulgence-the-pearl-fishers-in-chicago.md","articles/talking-with-singers-andrea-care.md","articles/talking-with-singers-john-holiday.md","articles/talking-with-singers-levente-molnr.md","articles/glamour-fury-idomeneo-in-chicago.md","articles/talking-with-singers-thomas-hampson.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/matthew-polenzani.md"]
-short_description = "&quot;If you&#039;re going through a divorce, or there&#039;s been a death in the family, or your children are misbehaving, or whatever it is, that stuff can be difficult on a voice.&quot; Polenzani has watched his own colleagues go through tough times in their offstage lives, and the personal costs are certainly audible in a singer&#039;s voice. &quot;On the other hand, I also know singers who have been through divorce who are singing better afterwards, because the stress of a failing marriage was difficult on their voices.&quot;"
-slug = "talking-with-singers-matthew-polenzani"
-title = "Talking with singers: Matthew Polenzani"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-03-24T15:44:00+00:00"
+lastmod: "2017-03-28T08:42:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490370440510/2017-03-24---Matthew-Polenzani---Fay-Fox.jpg.jpg
+primary_image_credit: Photo by Fay Fox.
+publishDate: "2017-03-27T10:45:00+01:00"
+related_articles:
+- articles/talking-with-singers-rene-barbera.md
+- articles/talking-with-singers-craig-irvin.md
+- articles/talking-with-singers-riccardo-massi.md
+- articles/spotlight-on-michael-scott.md
+- articles/santa-fe-santelli.md
+- articles/spotlight-on-eric-barry.md
+- articles/talking-with-singers-carl-tanner.md
+- articles/talking-with-singers-andrew-haji.md
+- articles/a-dreamy-indulgence-the-pearl-fishers-in-chicago.md
+- articles/talking-with-singers-andrea-care.md
+- articles/talking-with-singers-john-holiday.md
+- articles/talking-with-singers-levente-molnr.md
+- articles/glamour-fury-idomeneo-in-chicago.md
+- articles/talking-with-singers-thomas-hampson.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/matthew-polenzani.md
+short_description: '&quot;If you&#039;re going through a divorce, or there&#039;s
+  been a death in the family, or your children are misbehaving, or whatever it is,
+  that stuff can be difficult on a voice.&quot; Polenzani has watched his own colleagues
+  go through tough times in their offstage lives, and the personal costs are certainly
+  audible in a singer&#039;s voice. &quot;On the other hand, I also know singers who
+  have been through divorce who are singing better afterwards, because the stress
+  of a failing marriage was difficult on their voices.&quot;'
+slug: talking-with-singers-matthew-polenzani
+title: 'Talking with singers: Matthew Polenzani'
+---
 
 Freshly off an acclaimed run as the title role in Mozart's *Idomeneo* at the Metropolitan Opera, star tenor [Matthew Polenzani](/scene/people/matthew-polenzani/) has little time to come down before diving into two more productions in New York. "I think there's a sequence where I have a show on a Friday, a show on a Saturday, then the Met Gala which is on Sunday. So that's going to be a little tiring," he says, clearly happy in his [busy schedule](http://matthewpolenzani.com/schedule/) at one of the world's top houses.
 

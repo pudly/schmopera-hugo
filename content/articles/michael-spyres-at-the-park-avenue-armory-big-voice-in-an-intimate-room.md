@@ -1,22 +1,31 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2022-09-14T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1663076020/media/2022/09/sqPAA_MichaelSpyres_Recital_kjql9w.jpg"
-primary_image_credit = "Tenor Michael Spyres in recital with pianist Mathieu Pordoy in Park Avenue Armory’s Board of Officers Room. Photo by Da Ping Luo, courtesy of Park Avenue Armory."
-related_articles = ["articles/renee-fleming-brings-a-new-luster-to-dumbarton-oaks.md", "articles/michael-spyres-the-baritenor-difficult-to-compartmentalize-but-a-spectacular-85-minute-listen.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/emily-dangelo.md", "scene/people/michael-spyres.md"]
-short_description = "Spyres was at home, in his element and began the downsizing process to serenade us with exquisite high notes that seemed to come out of nowhere only to blossom as the poet found his with love and the universe."
-slug = "michael-spyres-at-the-park-avenue-armory-big-voice-in-an-intimate-room"
-title = "Michael Spyres at the Park Avenue Armory: big voice in an intimate room"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2022-09-14T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1663076020/media/2022/09/sqPAA_MichaelSpyres_Recital_kjql9w.jpg
+primary_image_credit: Tenor Michael Spyres in recital with pianist Mathieu Pordoy
+  in Park Avenue Armory’s Board of Officers Room. Photo by Da Ping Luo, courtesy of
+  Park Avenue Armory.
+related_articles:
+- articles/renee-fleming-brings-a-new-luster-to-dumbarton-oaks.md
+- articles/michael-spyres-the-baritenor-difficult-to-compartmentalize-but-a-spectacular-85-minute-listen.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/emily-dangelo.md
+- scene/people/michael-spyres.md
+short_description: Spyres was at home, in his element and began the downsizing process
+  to serenade us with exquisite high notes that seemed to come out of nowhere only
+  to blossom as the poet found his with love and the universe.
+slug: michael-spyres-at-the-park-avenue-armory-big-voice-in-an-intimate-room
+title: 'Michael Spyres at the Park Avenue Armory: big voice in an intimate room'
+youtube_url: ""
+---
 [Michael Spyres](/scene/people/michael-spyres/)' recent recital in the Board of Officers Room at the Park Avenue Armory marked his New York solo recital debut. It left no doubt that this powerhouse tenor, when taking on Mozart's _Idomeneo_ at the MET later this month, will fill the sprawling house with burnished sound and buoyant theatricality.
 
 The room is intimate, the voice spectacularly large. And not until Listz's "Tre sonette del Petrarch" and the encores that followed, did he and the room finally coalesce. This is not to say that there weren’t moments of impressive sensitivity and vocal agility before taking on Liszt's Italianate sonnets and two encores, including Beethoven's somber "In questa tomba obscura" and the romantic if obsessive "Enfant, si j'étais roi" by Liszt, all neatly attuned to his surroundings.

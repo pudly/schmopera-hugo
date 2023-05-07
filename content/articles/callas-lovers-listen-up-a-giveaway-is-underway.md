@@ -1,15 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2017-10-22T15:44:00-04:00"
-lastmod = "2017-10-30T21:00:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508702156378/2017-10-22---Callas.jpg.jpg"
-primary_image_credit = "Photo: Warner Classics."
-publishDate = "2017-10-30T21:00:00-04:00"
-short_description = "At the end of November, our Patreon supporters who pledge $15/month or more will be entered into a draw for the 42-disc box set. Tell your friends, and if you&#039;ve not done it yet, consider becoming a patron of Schmopera&#039;s; your contribution will help us continue to offer more smart, ad-free content from around the opera-loving world."
-slug = "callas-lovers-listen-up-a-giveaway-is-underway"
-title = "Callas lovers, listen up: a giveaway is underway!"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2017-10-22T15:44:00-04:00"
+lastmod: "2017-10-30T21:00:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508702156378/2017-10-22---Callas.jpg.jpg
+primary_image_credit: 'Photo: Warner Classics.'
+publishDate: "2017-10-30T21:00:00-04:00"
+short_description: At the end of November, our Patreon supporters who pledge $15/month
+  or more will be entered into a draw for the 42-disc box set. Tell your friends,
+  and if you&#039;ve not done it yet, consider becoming a patron of Schmopera&#039;s;
+  your contribution will help us continue to offer more smart, ad-free content from
+  around the opera-loving world.
+slug: callas-lovers-listen-up-a-giveaway-is-underway
+title: 'Callas lovers, listen up: a giveaway is underway!'
+---
 
 Readers, we're feeling generous this month!
 

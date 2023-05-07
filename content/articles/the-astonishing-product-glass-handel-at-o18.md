@@ -1,18 +1,30 @@
-+++
-author = ["authors/erik-flaten.md"]
-categories = "Review"
-date = "2018-09-24T20:32:00-04:00"
-lastmod = "2018-09-24T20:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537835215918/sqGLASSHANDEL6.jpg.jpg"
-primary_image_credit = "Anthony Roth Costanzo in Glass Handel, costumed by Raf Simons for Calvin Klein. Photo by Dominic M. Mercier."
-publishDate = "2018-09-24T20:32:00-04:00"
-related_articles = ["articles/sky-on-swings-a-mustsee-of-o18.md","articles/brenda-rae-earns-her-ovation-in-o18-lucia.md","articles/racette-an-unmissable-elle-in-o18s-ne-quittez-pas.md","articles/counterculture.md"]
-related_companies = ["scene/companies/opera-philadelphia.md"]
-related_people = ["scene/people/anthony-roth-costanzo.md"]
-short_description = "As the audience made their way to seats, there was a rising sense of tension. We had been informed at least six times that we would be moved around during this multimedia event. One had to question why there were so many disclaimers. Do we really want a stranger moving our chairs during a performance? Well, it turns out, yes we do."
-slug = "the-astonishing-product-glass-handel-at-o18"
-title = "The astonishing product: Glass Handel at O18"
-+++
+---
+author:
+- authors/erik-flaten.md
+categories: Review
+date: "2018-09-24T20:32:00-04:00"
+lastmod: "2018-09-24T20:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537835215918/sqGLASSHANDEL6.jpg.jpg
+primary_image_credit: Anthony Roth Costanzo in Glass Handel, costumed by Raf Simons
+  for Calvin Klein. Photo by Dominic M. Mercier.
+publishDate: "2018-09-24T20:32:00-04:00"
+related_articles:
+- articles/sky-on-swings-a-mustsee-of-o18.md
+- articles/brenda-rae-earns-her-ovation-in-o18-lucia.md
+- articles/racette-an-unmissable-elle-in-o18s-ne-quittez-pas.md
+- articles/counterculture.md
+related_companies:
+- scene/companies/opera-philadelphia.md
+related_people:
+- scene/people/anthony-roth-costanzo.md
+short_description: As the audience made their way to seats, there was a rising sense
+  of tension. We had been informed at least six times that we would be moved around
+  during this multimedia event. One had to question why there were so many disclaimers.
+  Do we really want a stranger moving our chairs during a performance? Well, it turns
+  out, yes we do.
+slug: the-astonishing-product-glass-handel-at-o18
+title: 'The astonishing product: Glass Handel at O18'
+---
 
 On Sunday night, a crowd gathered at The Barnes Foundation for a fusion of art, fashion, dance, film, and opera. The world premiere of this multi-faceted artistic experience took place at The Barnes Foundation, and it goes by the name *Glass Handel*. Produced by countertenor [Anthony Roth Costanzo](/scene/people/anthony-roth-costanzo/) and several others, including [Opera Philadelphia](/scene/companies/opera-philadelphia/), *Glass Handel* is a triumph of opera entrepreneurship. 
 

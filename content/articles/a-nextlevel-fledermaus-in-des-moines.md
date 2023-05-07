@@ -1,19 +1,30 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = "2018-06-25T10:07:00-04:00"
-lastmod = "2018-06-26T16:45:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530045801775/sqiDSC_4878.jpg.jpg"
-primary_image_credit = "A scene from Die Fledermaus, Des Moines Metro Opera, 2018. Photo: (c) Duane Tinkey for Des Moines Metro Opera."
-publishDate = "2018-06-26T16:45:00-04:00"
-related_articles = ["articles/rusalka-opera-at-its-most-operatic.md", "articles/as-one-they-both-took-risks-that-paid-off.md"]
-related_companies = ["scene/companies/des-moines-metro-opera.md"]
-related_people = ["scene/people/craig-irvin.md", "scene/people/susannah-biller.md", "scene/people/anna-christy.md"]
-short_description = "Although Frosch is a relatively minor character in the operetta, Brian Frutiger quite frankly stole the entire last act in my opinion. His physical comedy and drunken slur had the audience in stitches during his first scene, and I think he could have kept ad libbing for an hour without any complaints from the crowd."
-slug = "a-next-level-fledermaus-in-des-moines"
-title = "A next-level Fledermaus in Des Moines"
-
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2018-06-25T10:07:00-04:00"
+lastmod: "2018-06-26T16:45:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530045801775/sqiDSC_4878.jpg.jpg
+primary_image_credit: 'A scene from Die Fledermaus, Des Moines Metro Opera, 2018.
+  Photo: (c) Duane Tinkey for Des Moines Metro Opera.'
+publishDate: "2018-06-26T16:45:00-04:00"
+related_articles:
+- articles/rusalka-opera-at-its-most-operatic.md
+- articles/as-one-they-both-took-risks-that-paid-off.md
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+related_people:
+- scene/people/craig-irvin.md
+- scene/people/susannah-biller.md
+- scene/people/anna-christy.md
+short_description: Although Frosch is a relatively minor character in the operetta,
+  Brian Frutiger quite frankly stole the entire last act in my opinion. His physical
+  comedy and drunken slur had the audience in stitches during his first scene, and
+  I think he could have kept ad libbing for an hour without any complaints from the
+  crowd.
+slug: a-next-level-fledermaus-in-des-moines
+title: A next-level Fledermaus in Des Moines
+---
 Flappers, flirtation, and farce! [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/)'s production of *Die Fledermaus* was genuinely fun from start to finish. Johann Strauss's operetta is famous for its delightful party scenes, making it a perfect choice for their gala night performance.
 
 I had the pleasure of attending Des Moines Metro Opera's first [Young Friends at the Opera] (http://desmoinesmetroopera.org/youngfriends/) event prior to the performance. The group enjoyed cocktails and socialized on the stage, followed by a dinner and a brief informative lecture on *Die Fledermaus*. We were even serenaded by the Young Artists during our dinner which was a nice surprise. If you are looking for a fun way to treat yourself and enhance your opera going experience, then I highly recommend it. (Not to mention the price is definitely a bargain.) I sincerely hope that the opera company continues these kinds of events geared towards younger audience members in their future seasons.

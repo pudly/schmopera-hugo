@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-15T13:38:00-04:00"
-lastmod = "2017-07-16T21:38:00-04:00"
-preamble = "Onstage at [The Santa Fe Opera](/scene/companies/the-santa-fe-opera/)'s 2017 season is Johann Strauss II's catchy classic, [*Die Fledermaus*](https://www.santafeopera.org/operas-and-ticketing/die-fledermaus) (running until **August 26**). Stage director and Opera Memphis General Director Ned Canty brings a new production to the Santa Fe stage, with a stellar cast that includes [Susan Graham](/scene/people/susan-graham/) (Orlofsky), [Jane Archibald](/scene/people/jane-archibald/) (Adele) and [Joshua Hopkins](/scene/people/joshua-hopkins/) (Dr. Falke).\n\nCanty chats about the juicy details - or \"the salt we add to the caramel\" - in a seemingly harmless piece like *Die Fledermaus*."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500141458714/2017-07-17---Square-Fledermaus.jpg.jpg"
-primary_image_credit = "Gabriel von Eisenstein (Kurt Streit) and the Santa Fe Opera Chorus. Photo credit: Ken Howard for Santa Fe Opera, 2017."
-publishDate = "2017-07-16T21:27:00-04:00"
-related_articles = ["articles/die-fledermaus-die-flederfabulous.md","articles/in-review-the-marriage-of-figaro.md"]
-related_companies = ["scene/companies/the-santa-fe-opera.md"]
-short_description = "&quot;We did try to find some nuance at the very end of the piece, making Rosalinda&#039;s forgiveness a little more hard won. In both operas, I believe that this &quot;one crazy night&quot; is the thing that the marriages needed to figure out that question of what is this marriage without children. (Yes, Mère Coupable exists, but I file it with Go Set a Watchman. In my heart and soul the Count and Countess fall back in love, and Atticus Finch is not a bigot.&quot;"
-slug = "ned-cantys-die-fledermaus-a-pleasant-persistent-buzz-of-happiness"
-title = "Ned Canty&#039;s Die Fledermaus: &quot;A pleasant, persistent buzz of happiness.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-15T13:38:00-04:00"
+lastmod: "2017-07-16T21:38:00-04:00"
+preamble: |-
+  Onstage at [The Santa Fe Opera](/scene/companies/the-santa-fe-opera/)'s 2017 season is Johann Strauss II's catchy classic, [*Die Fledermaus*](https://www.santafeopera.org/operas-and-ticketing/die-fledermaus) (running until **August 26**). Stage director and Opera Memphis General Director Ned Canty brings a new production to the Santa Fe stage, with a stellar cast that includes [Susan Graham](/scene/people/susan-graham/) (Orlofsky), [Jane Archibald](/scene/people/jane-archibald/) (Adele) and [Joshua Hopkins](/scene/people/joshua-hopkins/) (Dr. Falke).
+
+  Canty chats about the juicy details - or "the salt we add to the caramel" - in a seemingly harmless piece like *Die Fledermaus*.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500141458714/2017-07-17---Square-Fledermaus.jpg.jpg
+primary_image_credit: 'Gabriel von Eisenstein (Kurt Streit) and the Santa Fe Opera
+  Chorus. Photo credit: Ken Howard for Santa Fe Opera, 2017.'
+publishDate: "2017-07-16T21:27:00-04:00"
+related_articles:
+- articles/die-fledermaus-die-flederfabulous.md
+- articles/in-review-the-marriage-of-figaro.md
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+short_description: '&quot;We did try to find some nuance at the very end of the piece,
+  making Rosalinda&#039;s forgiveness a little more hard won. In both operas, I believe
+  that this &quot;one crazy night&quot; is the thing that the marriages needed to
+  figure out that question of what is this marriage without children. (Yes, Mère Coupable
+  exists, but I file it with Go Set a Watchman. In my heart and soul the Count and
+  Countess fall back in love, and Atticus Finch is not a bigot.&quot;'
+slug: ned-cantys-die-fledermaus-a-pleasant-persistent-buzz-of-happiness
+title: 'Ned Canty&#039;s Die Fledermaus: &quot;A pleasant, persistent buzz of happiness.&quot;'
+---
 
 ## Where does *Die Fledermaus* fall, between the spectrum of "serious opera" and "crowd-pleasing fluff"?
 

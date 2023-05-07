@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2014-08-15T12:18:00-04:00"
-lastmod = "2015-04-16T22:43:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429238134206/CarmenJamesMorgan.jpg.jpg"
-primary_image_credit = "Photo by James Morgan"
-publishDate = "2014-08-15T12:18:00-04:00"
-related_articles = ["articles/who-are-our-comprimarias-why-arent-they-funnier.md","articles/and-she-was-an-opera-singer.md","articles/la-opera-scores-in-first-half-of-bizet-doubleheader.md"]
-short_description = "Earlier this summer I was listening to the brilliant Graham Forst (husband of the formidable Judith Forst) give a talk on the history of the Don Juan character. He was talking about how Don Juan comes from the concept of Dionysus or Bacchus, these figures of indulgences that sound so fun. "
-slug = "carmen-don-juan-and-gender-reversal-pants-roles-indeed"
-title = "Carmen, Don Juan, and gender reversal: pants roles indeed"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2014-08-15T12:18:00-04:00"
+lastmod: "2015-04-16T22:43:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429238134206/CarmenJamesMorgan.jpg.jpg
+primary_image_credit: Photo by James Morgan
+publishDate: "2014-08-15T12:18:00-04:00"
+related_articles:
+- articles/who-are-our-comprimarias-why-arent-they-funnier.md
+- articles/and-she-was-an-opera-singer.md
+- articles/la-opera-scores-in-first-half-of-bizet-doubleheader.md
+short_description: 'Earlier this summer I was listening to the brilliant Graham Forst
+  (husband of the formidable Judith Forst) give a talk on the history of the Don Juan
+  character. He was talking about how Don Juan comes from the concept of Dionysus
+  or Bacchus, these figures of indulgences that sound so fun. '
+slug: carmen-don-juan-and-gender-reversal-pants-roles-indeed
+title: 'Carmen, Don Juan, and gender reversal: pants roles indeed'
+---
 
 Earlier this summer I was listening to the brilliant Graham Forst (husband of the formidable Judith Forst) give a talk on the history of the Don Juan character. He was talking about how Don Juan comes from the concept of Dionysus or Bacchus, these figures of indulgences that sound so fun. Graham was trying to get a feel from the room about what we thought of the character of Don Juan; the answer is strongly. We feel strongly about Don Juan, whether we're disgusted by or jealous of him. It got me thinking about the notion of a female Don Juan, and whether or not Carmen was the best equivalent. But she's really not. Her seducing of important men (soldier, bullfighter) is out of a motivation to get more power, or more freedom, and she may even have accidentally fallen in love with Don José along the way. Don Juan already has status and a good amount of power and freedom; his seductions of women are compulsive, immediately self-serving, and they definitely don't linger in his mind afterwards (if he can help it). It struck me that the idea of sexual conquest generally means a man convinced a woman to sleep with him. It's not the same "chase" from woman to man; Carmen, in order to become a Doña Juan, wouldn't really have to do much, and she'd sadly get shoved out of society for being a harlot faster than anyone could admire her determination.
 

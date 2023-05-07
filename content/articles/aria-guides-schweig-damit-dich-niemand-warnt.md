@@ -1,17 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-11-28T18:54:00+00:00"
-lastmod = "2016-12-01T11:19:00+00:00"
-preamble = "*Der Freischütz* is an action-packed story about girls, guns, and selling one's soul to the devil. Caspar is a man who owes his soul to the devil, and when he sings \"Schweig! damit dich Niemand warnt,\" he plans to substitute Max's soul instead of his own. This aria is difficult, even erratic, but it's mostly about finding the most energy-efficient way of singing. Caspar's aria is a schizophrenic rambling of a desperate man, and Weber's score is packed with traps that cost you breath and beauty of sound, and it's an aria that takes patience and time with your teachers and coaches.\n\nWe can offer some starting points, to help you pace yourself, avoid the traps, and keep breathing.\n\nPhoto: [Rob Albright](https://www.flickr.com/photos/8015956@N04/) via [Flickr.](https://creativecommons.org/licenses/by-nc/2.0/legalcode)"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480367694994/2016-11-28---Gun.jpg.jpg"
-publishDate = "2016-12-01T11:19:00+00:00"
-related_articles = ["articles/aria-guides-aprite-un-po-quegli-occhi.md", "articles/aria-guides-deh-vieni-alla-finestra.md", "articles/aria-guides-come-paride-vezzoso.md", "articles/aria-guides-embroidery-aria.md"]
-short_description = "Der Freischütz is an action-packed story about girls, guns, and selling one&#039;s soul to the devil. Caspar is a man who owes his soul to the devil, and when he sings &quot;Schweig! damit dich Niemand warnt,&quot; he plans to substitute Max&#039;s soul instead of his own. Caspar&#039;s aria is a schizophrenic rambling of a desperate man, and Weber&#039;s score is packed with traps that cost you breath and beauty of sound, and it&#039;s an aria that takes patience and time with your teachers and coaches."
-slug = "aria-guides-schweig-damit-dich-niemand-warnt"
-title = "Aria guides: \"Schweig! damit dich Niemand warnt\""
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-11-28T18:54:00+00:00"
+lastmod: "2016-12-01T11:19:00+00:00"
+preamble: |-
+  *Der Freischütz* is an action-packed story about girls, guns, and selling one's soul to the devil. Caspar is a man who owes his soul to the devil, and when he sings "Schweig! damit dich Niemand warnt," he plans to substitute Max's soul instead of his own. This aria is difficult, even erratic, but it's mostly about finding the most energy-efficient way of singing. Caspar's aria is a schizophrenic rambling of a desperate man, and Weber's score is packed with traps that cost you breath and beauty of sound, and it's an aria that takes patience and time with your teachers and coaches.
 
-+++
+  We can offer some starting points, to help you pace yourself, avoid the traps, and keep breathing.
+
+  Photo: [Rob Albright](https://www.flickr.com/photos/8015956@N04/) via [Flickr.](https://creativecommons.org/licenses/by-nc/2.0/legalcode)
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480367694994/2016-11-28---Gun.jpg.jpg
+publishDate: "2016-12-01T11:19:00+00:00"
+related_articles:
+- articles/aria-guides-aprite-un-po-quegli-occhi.md
+- articles/aria-guides-deh-vieni-alla-finestra.md
+- articles/aria-guides-come-paride-vezzoso.md
+- articles/aria-guides-embroidery-aria.md
+short_description: Der Freischütz is an action-packed story about girls, guns, and
+  selling one&#039;s soul to the devil. Caspar is a man who owes his soul to the devil,
+  and when he sings &quot;Schweig! damit dich Niemand warnt,&quot; he plans to substitute
+  Max&#039;s soul instead of his own. Caspar&#039;s aria is a schizophrenic rambling
+  of a desperate man, and Weber&#039;s score is packed with traps that cost you breath
+  and beauty of sound, and it&#039;s an aria that takes patience and time with your
+  teachers and coaches.
+slug: aria-guides-schweig-damit-dich-niemand-warnt
+title: 'Aria guides: "Schweig! damit dich Niemand warnt"'
+---
  1. Make a meal out of the consonant cluster at the beginning of "Schweig!" For the first one, you can achieve the mood of a _piano_ dynamic by maximizing those consonants, without having to under-sing. For the _forte_ "Schweig!" right after, don't work too hard for it; let the pitch ring comfortably in your easiest sound, and let the dynamic contrast come simply from the upward leap of a major 6th. When you dive back down for "damit dich Niemand warnt," keep the sound placed forward, being true to the vowels in the text. The \[v\] sound in "warnt" is a great way of maintaining that placement as you move from the D in "Niemand" and the low A for "warnt".<figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480431980204/Aria-Guide---Schweig---annotated---1.5.jpg.jpg)</figure>

@@ -1,17 +1,27 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-04-12T22:27:00-04:00"
-lastmod = "2018-04-13T17:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523586145261/sq---6Q5A0562.jpg.jpg"
-primary_image_credit = "Jessica Fishenfeld and Scott Joiner during the poignant conclusion of Big Jim and the Small-Time Investors. Photo: Travis Magee."
-publishDate = "2018-04-12T22:27:00-04:00"
-related_articles = ["articles/opera-technology-hither-and-yon.md"]
-related_people = ["scene/people/scott-joiner.md","scene/people/jessica-fishenfeld.md"]
-short_description = "If the title sounds more like a riff on Dion and the Belmonts or Martha Reeves and the Vandellas, in a way, it is. Big Jim sings, or more precisely, croons, about getting rich by investing in his interactive &quot;reality&quot; fantasy goggles. His small-time investors hum along. Big Jim appears live to the audience but only on suggested video screens to his investors. They are the ultimate back-up singers."
-slug = "big-jim-and-the-smalltime-investors-a-story-often-told"
-title = "Big Jim and the Small-time Investors: a story often told"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-04-12T22:27:00-04:00"
+lastmod: "2018-04-13T17:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523586145261/sq---6Q5A0562.jpg.jpg
+primary_image_credit: 'Jessica Fishenfeld and Scott Joiner during the poignant conclusion
+  of Big Jim and the Small-Time Investors. Photo: Travis Magee.'
+publishDate: "2018-04-12T22:27:00-04:00"
+related_articles:
+- articles/opera-technology-hither-and-yon.md
+related_people:
+- scene/people/scott-joiner.md
+- scene/people/jessica-fishenfeld.md
+short_description: If the title sounds more like a riff on Dion and the Belmonts or
+  Martha Reeves and the Vandellas, in a way, it is. Big Jim sings, or more precisely,
+  croons, about getting rich by investing in his interactive &quot;reality&quot; fantasy
+  goggles. His small-time investors hum along. Big Jim appears live to the audience
+  but only on suggested video screens to his investors. They are the ultimate back-up
+  singers.
+slug: big-jim-and-the-smalltime-investors-a-story-often-told
+title: 'Big Jim and the Small-time Investors: a story often told'
+---
 
 The best stories are the ones told over and over again. How fortunate we are then, to have one of the oldest sung and played with such musical verve and theatrical invention. The story, that of getting rich quick, is summed up in the title of the late Eric Salzman's opera, *Big Jim and the Small-Time Investors*. This week Cutting Edge Concerts New Music Festival 2018 presented the first fully staged production of this timely and innovative work.
 

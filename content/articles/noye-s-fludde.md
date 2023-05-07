@@ -1,22 +1,28 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-07-06T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[_Noye's Fludde_](https://www.eno.org/whats-on/noyes-fludde/) is onstage through 13 July."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562864178/media/2019/07/sqThecastofNoyesFluddeatTheatreRoyalStratfordEast.jpg"
-primary_image_credit = "The cast of Noye's Fludde at Theatre Royal Stratford East, English National Opera, 2019. Photo by Marc Brenner."
-related_articles = []
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/marcus-farnsworth.md"]
-short_description = "There was a palpable feeling of euphoria when the storm finally clears and Noah and his family realise, they have been spared. Their surprise, relief, and gratitude was genuine and infectious."
-slug = "simple-joys-in-noyes-fludde"
-title = "Simple joys in Noye's Fludde"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-07-06T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '[_Noye''s Fludde_](https://www.eno.org/whats-on/noyes-fludde/) is onstage
+  through 13 July.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1562864178/media/2019/07/sqThecastofNoyesFluddeatTheatreRoyalStratfordEast.jpg
+primary_image_credit: The cast of Noye's Fludde at Theatre Royal Stratford East, English
+  National Opera, 2019. Photo by Marc Brenner.
+related_articles: []
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/marcus-farnsworth.md
+short_description: There was a palpable feeling of euphoria when the storm finally
+  clears and Noah and his family realise, they have been spared. Their surprise, relief,
+  and gratitude was genuine and infectious.
+slug: simple-joys-in-noyes-fludde
+title: Simple joys in Noye's Fludde
+youtube_url: ""
+---
 The English National Opera have stood staunchly by their mandate "opera for all" with this [production of Britten's _Noye's Fludde_](https://www.eno.org/whats-on/noyes-fludde/), a collaborative effort with the Theatre Royal Stratford East and the ENO Baylis programme which takes an active role in outreach and advocating for the accessibility of opera. Though the ENO have a long-standing tradition of performing Britten's work dating back to the world premiere of _Peter Grimes_ in 1945, this is the first time they have staged his short but sweet telling of the Noah's Arc story. 
 
 >Their surprise, relief, and gratitude was genuine and infectious.

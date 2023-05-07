@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2018-02-21T07:47:00-05:00"
-lastmod = "2018-02-21T08:42:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519219912908/sq---KA_3357_a-1.jpg.jpg"
-primary_image_credit = "Ailyn Pérez (Tatyana Bakst) and Joyce Di Donato (Arden Scott) in Great Scott, The Dallas Opera, 2015. Photo: Karen Almond."
-publishDate = "2018-02-21T08:42:00-05:00"
-related_companies = ["scene/companies/the-dallas-opera.md"]
-related_people = ["scene/people/joyce-didonato.md","scene/people/ailyn-prez.md","scene/people/anthony-roth-costanzo.md","scene/people/jake-heggie.md"]
-short_description = "But really, who can argue with the riotous laughter that makes this recording something worthy of a listen? In opera, contemporary or otherwise, it’s a big deal to get an audience who reacts not only to what they see (and what was it they saw that was so funny? Ah, the plight of the live audio recording), but to details in the libretto."
-slug = "we-took-a-real-chance-with-great-scott"
-title = "&quot;We took a real chance with Great Scott.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2018-02-21T07:47:00-05:00"
+lastmod: "2018-02-21T08:42:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519219912908/sq---KA_3357_a-1.jpg.jpg
+primary_image_credit: 'Ailyn Pérez (Tatyana Bakst) and Joyce Di Donato (Arden Scott)
+  in Great Scott, The Dallas Opera, 2015. Photo: Karen Almond.'
+publishDate: "2018-02-21T08:42:00-05:00"
+related_companies:
+- scene/companies/the-dallas-opera.md
+related_people:
+- scene/people/joyce-didonato.md
+- scene/people/ailyn-prez.md
+- scene/people/anthony-roth-costanzo.md
+- scene/people/jake-heggie.md
+short_description: But really, who can argue with the riotous laughter that makes
+  this recording something worthy of a listen? In opera, contemporary or otherwise,
+  it’s a big deal to get an audience who reacts not only to what they see (and what
+  was it they saw that was so funny? Ah, the plight of the live audio recording),
+  but to details in the libretto.
+slug: we-took-a-real-chance-with-great-scott
+title: '&quot;We took a real chance with Great Scott.&quot;'
+---
 
 "There are so many dark stories out there today for new operas," says American composer Jake Heggie, "that to hear people laughing riotously and having a great time in the opera house is really wonderful and refreshing." Heggie is speaking of his opera with librettist Terrence McNally, *Great Scott*, which this year sees the [recording release its world premiere performance](http://www.warnerclassics.com/shop/3252560,0190295940782/joyce-didonato-great-scott) in October, 2015, at [The Dallas Opera](/scene/companies/the-dallas-opera/)'s Winspear Opera House.
 

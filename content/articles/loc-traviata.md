@@ -1,22 +1,33 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = "2019-02-18T22:00:50+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "_La Traviata_ runs at the Lyric Opera House for nine more performances through March 22. For details and ticket information, [click here](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550530429/media/2019/02/AlbinaShagimuratova_ZeljkoLucic_LATRAVIATA_LyricOperaofChicago_LYR190213_292.jpg"
-primary_image_credit = "Željko Lučić (Germont) and Albina Shagimuratova (Violetta) in La traviata, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg."
-related_articles = []
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/zoie-reams.md", "scene/people/lauren-decker.md", "scene/people/željko-lučić.md", "scene/people/giorgio-berrugi-1.md", "scene/people/albina-shagimuratova.md"]
-short_description = "Director Arin Arbus returns to re-mount her production of La traviata from LOC's 2013-14 season. Conductor Michael Christie, making his own LOC debut with this run, brings his expertise in new music to bear on this classic score, leading the LOC orchestra with urgency and dramatic sensitivity."
-slug = "left-wanting-more-la-traviata-in-chicago"
-title = "Left wanting more: La traviata in Chicago"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2019-02-18T22:00:50+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: _La Traviata_ runs at the Lyric Opera House for nine more performances
+  through March 22. For details and ticket information, [click here](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550530429/media/2019/02/AlbinaShagimuratova_ZeljkoLucic_LATRAVIATA_LyricOperaofChicago_LYR190213_292.jpg
+primary_image_credit: 'Željko Lučić (Germont) and Albina Shagimuratova (Violetta)
+  in La traviata, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.'
+related_articles: []
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/zoie-reams.md
+- scene/people/lauren-decker.md
+- scene/people/željko-lučić.md
+- scene/people/giorgio-berrugi-1.md
+- scene/people/albina-shagimuratova.md
+short_description: Director Arin Arbus returns to re-mount her production of La traviata
+  from LOC's 2013-14 season. Conductor Michael Christie, making his own LOC debut
+  with this run, brings his expertise in new music to bear on this classic score,
+  leading the LOC orchestra with urgency and dramatic sensitivity.
+slug: left-wanting-more-la-traviata-in-chicago
+title: 'Left wanting more: La traviata in Chicago'
+youtube_url: ""
+---
 The [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/)'s 2018-19 season has been punctuated by several Italian blockbusters, including Puccini's _La bohème_, Verdi's _Il Trovatore_, and, as of this weekend, _La traviata_.
 
 [Albina Shagimuratova](/scene/people/albina-shagimuratova/) has become something of a regular feature at LOC, having sung Gilda (2012-13), Lucia (2016-17), and Elvira (2017-18) to great acclaim, she now returns as the iconic Violetta Valéry. The 19th-century Italian coloratura roles are Shagimuratova's calling cards and it's easy to hear why: unforced in its brilliance and seamless in its lyricism, her instrument is virtually perfect for this repertoire. And the audience, rightfully, acknowledged this fact with an instantaneous ovation at the final curtain of Saturday's performance.

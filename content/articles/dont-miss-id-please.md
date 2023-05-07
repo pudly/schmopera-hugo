@@ -1,17 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-08T13:40:00-04:00"
-lastmod = "2017-07-10T21:52:00-04:00"
-preamble = "At this summer's [Tête à Tête](/scene/companies/tete-a-tete/) opera festival, you can catch the debut performance of [*ID, Please*](http://www.tete-a-tete.org.uk/event/id-please/), the new opera by composer Soosan Lolavar and librettist Daniel Hirsch. With terms like \"Brexit\" and \"Muslim ban\" at the front of our minds, *ID, Please* tells a particularly timely story of unnamed characters at an unknown border control station.\n\n\"*ID, Please* has become a complex process through which I work through my feelings of instability in the new world order, my fears for immigrant communities across the world and my concerns for the safety of my family and friends,\" says British-Iranian composer Soosan Lolavar, who herself was almost prevented from attending rehearsals of her opera in the United States following the first \"Muslim ban\" in early 2017.\n\nLolavar speaks eloquently about her work, and the troubling contemporary history that inspires its story."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499724189237/2017-07-10---Airport.jpg.jpg"
-publishDate = "2017-07-10T21:50:00-04:00"
-related_articles = ["articles/art-is-not-action.md","articles/tete-a-tete.md","articles/when-art-is-not-enough-opera-activism.md","articles/aams-king-arthur-a-missed-brexit.md"]
-related_companies = ["scene/companies/tete-a-tete.md"]
-short_description = "&quot;I hope the music takes us through many of the emotions experienced by those crossing borders: fear, hope, suspicion, regret, anger, boredom, alienation and joy. We see glimpses into the lives of many passengers played by two singers and yet we never really find out what happens to them; whether they make it across the border or are stuck in the perjury of border control forever.&quot;"
-slug = "dont-miss-id-please"
-title = "Don&#039;t miss: ID, Please"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-08T13:40:00-04:00"
+lastmod: "2017-07-10T21:52:00-04:00"
+preamble: |-
+  At this summer's [Tête à Tête](/scene/companies/tete-a-tete/) opera festival, you can catch the debut performance of [*ID, Please*](http://www.tete-a-tete.org.uk/event/id-please/), the new opera by composer Soosan Lolavar and librettist Daniel Hirsch. With terms like "Brexit" and "Muslim ban" at the front of our minds, *ID, Please* tells a particularly timely story of unnamed characters at an unknown border control station.
+
+  "*ID, Please* has become a complex process through which I work through my feelings of instability in the new world order, my fears for immigrant communities across the world and my concerns for the safety of my family and friends," says British-Iranian composer Soosan Lolavar, who herself was almost prevented from attending rehearsals of her opera in the United States following the first "Muslim ban" in early 2017.
+
+  Lolavar speaks eloquently about her work, and the troubling contemporary history that inspires its story.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499724189237/2017-07-10---Airport.jpg.jpg
+publishDate: "2017-07-10T21:50:00-04:00"
+related_articles:
+- articles/art-is-not-action.md
+- articles/tete-a-tete.md
+- articles/when-art-is-not-enough-opera-activism.md
+- articles/aams-king-arthur-a-missed-brexit.md
+related_companies:
+- scene/companies/tete-a-tete.md
+short_description: '&quot;I hope the music takes us through many of the emotions experienced
+  by those crossing borders: fear, hope, suspicion, regret, anger, boredom, alienation
+  and joy. We see glimpses into the lives of many passengers played by two singers
+  and yet we never really find out what happens to them; whether they make it across
+  the border or are stuck in the perjury of border control forever.&quot;'
+slug: dont-miss-id-please
+title: 'Don&#039;t miss: ID, Please'
+---
 
 ## What is it about the issues relating to xenophobia and suspicion of migrants that you thought would adapt well into an operatic performance?
 

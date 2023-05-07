@@ -1,22 +1,34 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = 2022-04-26T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "SDO's production of [_Aging Magician_](https://www.sdopera.org/season/2019-2020-season/aging-magician) runs at the Balboa Theatre in San Diego, May 13-14, 2022."
-preamble = "**Note to readers:** this interview was originally published in March, 2020, shortly before San Diego Opera's _Aging Magician_ (and most other things) was postponed. The production has returned as part of SDO's 2021-22 line-up, and it's set to run at the Balboa Theatre for three performances, May 13-14, 2022. Contributor Eva Cahen spoke with librettist Rinde Eckert back in 2020, and it's an interview that ages well:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1583344153/media/2020/03/sqSDOAgingMagicianASU_0485_oexepf.jpg"
-primary_image_credit = "Aging Magician at ASU. Photo by Jill Steinberg."
-related_articles = ["articles/talking-with-singers-stephen-costello.md", "articles/8-contemporary-roles-to-covet.md"]
-related_companies = ["scene/companies/san-diego-opera.md"]
-related_people = []
-short_description = "\"After years of creating work after work, it becomes your life,\" he says about why he is an artist. \"Initially, I was drawn to things just because I was fascinated by ideas. The traditional world was not where I belonged. I knew I wanted to be in the arts and I had an impulse to perform.\""
-slug = "magic-everywhere-in-sdos-aging-magician"
-title = "Magic everywhere in SDO's Aging Magician"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/eva-cahen.md
+categories: Interview
+date: "2022-04-26T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: SDO's production of [_Aging Magician_](https://www.sdopera.org/season/2019-2020-season/aging-magician)
+  runs at the Balboa Theatre in San Diego, May 13-14, 2022.
+preamble: '**Note to readers:** this interview was originally published in March,
+  2020, shortly before San Diego Opera''s _Aging Magician_ (and most other things)
+  was postponed. The production has returned as part of SDO''s 2021-22 line-up, and
+  it''s set to run at the Balboa Theatre for three performances, May 13-14, 2022.
+  Contributor Eva Cahen spoke with librettist Rinde Eckert back in 2020, and it''s
+  an interview that ages well:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1583344153/media/2020/03/sqSDOAgingMagicianASU_0485_oexepf.jpg
+primary_image_credit: Aging Magician at ASU. Photo by Jill Steinberg.
+related_articles:
+- articles/talking-with-singers-stephen-costello.md
+- articles/8-contemporary-roles-to-covet.md
+related_companies:
+- scene/companies/san-diego-opera.md
+related_people: []
+short_description: '"After years of creating work after work, it becomes your life,"
+  he says about why he is an artist. "Initially, I was drawn to things just because
+  I was fascinated by ideas. The traditional world was not where I belonged. I knew
+  I wanted to be in the arts and I had an impulse to perform."'
+slug: magic-everywhere-in-sdos-aging-magician
+title: Magic everywhere in SDO's Aging Magician
+youtube_url: ""
+---
 "Our lives are very large worlds within very small frames. If you delve into us, we’re all heroes in our own story," says Rinde Eckert, the librettist of [_Aging Magician_](https://www.sdopera.org/season/2021-2022-season/aging-magician), which will be performed as part of San Diego Opera's dētour series for three West Coast premiere performances May 13 and 14. Eckert is also the titular Magician of the opera, which traces the large-world life and journey of Harold, a clockmaker in New York, who is also writing a book about an aging magician that he wants to leave as a legacy. As the story unfolds, at times the lines become blurred between Harold and the magician.
 
 > "He's creating a whole world in his shop."

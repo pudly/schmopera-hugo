@@ -1,17 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2018-11-08T21:00:00-05:00"
-lastmod = "2018-11-12T16:57:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541728535181/sqAdriannespeaking-PhotobyCaitlinCucci-image003.jpg.jpg"
-primary_image_credit = "Adrianne Pieczonka at IRCPA's New Singing Stars, Zoomer Hall. Photo by Caitlin Cucco."
-publishDate = "2018-11-09T09:06:00-05:00"
-related_people = ["scene/people/sara-schabas.md", "scene/people/teiya-kasahara.md", "scene/people/gwenna-fairchildtaylor.md"]
-short_description = "Following the concert, IRCPA awarded its annual &quot;Career Blueprint&quot; to soprano Sara Schabas, who had wowed the crowd - both live and those watching and listening live on The New Classical FM - with her crystalline singing of a snippet of Strauss&#039; Der Rosenkavalier."
-slug = "resources-visibility-for-ircpas-new-singing-stars"
-title = "Resources &amp; visibility for IRCPA&#039;s New Singing Stars"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2018-11-08T21:00:00-05:00"
+lastmod: "2018-11-12T16:57:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541728535181/sqAdriannespeaking-PhotobyCaitlinCucci-image003.jpg.jpg
+primary_image_credit: Adrianne Pieczonka at IRCPA's New Singing Stars, Zoomer Hall.
+  Photo by Caitlin Cucco.
+publishDate: "2018-11-09T09:06:00-05:00"
+related_people:
+- scene/people/sara-schabas.md
+- scene/people/teiya-kasahara.md
+- scene/people/gwenna-fairchildtaylor.md
+short_description: Following the concert, IRCPA awarded its annual &quot;Career Blueprint&quot;
+  to soprano Sara Schabas, who had wowed the crowd - both live and those watching
+  and listening live on The New Classical FM - with her crystalline singing of a snippet
+  of Strauss&#039; Der Rosenkavalier.
+slug: resources-visibility-for-ircpas-new-singing-stars
+title: Resources &amp; visibility for IRCPA&#039;s New Singing Stars
+---
 Among the young artist programmes and summer opera workshops - all in general agreement over their aim to help young singers make the leap from academia to career - is the International Resource Centre for Performing Artists. The organization has, for 35 years, produced workshops and encounters that connect emerging artists with their professional, established counterparts, in the hopes of facilitating the all-important practice of networking.
 
 Most recently, IRCPA sent eleven young singers to mentor with Canadian operatic superstar Adrianne Pieczonka. They each sang for her in a working session - the latest in IRCPA's romantically titled "Encounters with..." - and the work culminated in _New Singing Stars_, the November 5th concert at Toronto's Zoomer Hall.

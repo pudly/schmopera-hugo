@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Review"
-date = "2017-07-31T12:02:00-04:00"
-lastmod = "2017-08-01T12:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501600877917/2017-08-01---SOLT-square.jpg.jpg"
-primary_image_credit = "A scene from Night Blooming Cereus, SOLT, 2017. Photo: Emily Ding."
-publishDate = "2017-08-01T11:31:00-04:00"
-related_articles = ["articles/falstaff-he-saidshe-said.md","articles/ariodante-or-the-hebridean-handel.md"]
-short_description = "Night Blooming Cereus and A Northern Lights Dream have little in common except the fact that they&#039;re Canadian operas, set in the worlds of small-town Shakespeare, Ontario."
-slug = "in-review-solts-canadian-doublebill"
-title = "In review: SOLT&#039;s Canadian double-bill"
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Review
+date: "2017-07-31T12:02:00-04:00"
+lastmod: "2017-08-01T12:28:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501600877917/2017-08-01---SOLT-square.jpg.jpg
+primary_image_credit: 'A scene from Night Blooming Cereus, SOLT, 2017. Photo: Emily
+  Ding.'
+publishDate: "2017-08-01T11:31:00-04:00"
+related_articles:
+- articles/falstaff-he-saidshe-said.md
+- articles/ariodante-or-the-hebridean-handel.md
+short_description: Night Blooming Cereus and A Northern Lights Dream have little in
+  common except the fact that they&#039;re Canadian operas, set in the worlds of small-town
+  Shakespeare, Ontario.
+slug: in-review-solts-canadian-doublebill
+title: 'In review: SOLT&#039;s Canadian double-bill'
+---
 
 **Jenna**: On this year's line-up for [Summer Opera Lyric Theatre](http://www.solt.ca/) is a double-bill of Canadian operas, featuring John Beckwith's *Night Blooming Cereus* and Michael Rose's newly commissioned *A Northern Lights Dream*. The two one-acts, sung by two casts until **August 5**, are refreshing, alongside a season of standards that also includes Bizet's *Carmen* (until **August 6**) and Mozart's *The Marriage of Figaro* (until **August 4**).
 

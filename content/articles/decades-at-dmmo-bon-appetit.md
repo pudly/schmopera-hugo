@@ -1,22 +1,24 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = "2019-07-21T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1563820262/media/2019/07/sqBonAppetitDSC_9138.jpg"
-primary_image_credit = "Bon Appetit!, Des Moines Metro Opera, 2019. Photo: Duane Tinkey."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "At the end of the performance, the audience was served the very chocolate cake depicted in the opera, bringing the experience full circle. A decadent finish to a decadent evening."
-slug = "decadence-at-dmmo-bon-appetit"
-title = "Decadence at DMMO: Bon Appetit!"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2019-07-21T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1563820262/media/2019/07/sqBonAppetitDSC_9138.jpg
+primary_image_credit: 'Bon Appetit!, Des Moines Metro Opera, 2019. Photo: Duane Tinkey.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: At the end of the performance, the audience was served the very
+  chocolate cake depicted in the opera, bringing the experience full circle. A decadent
+  finish to a decadent evening.
+slug: decadence-at-dmmo-bon-appetit
+title: 'Decadence at DMMO: Bon Appetit!'
+youtube_url: ""
+---
 This summer [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/) partnered with the [Iowa Culinary Institute](https://www.dmacc.edu/ici/Pages/welcome.aspx) to create a full operatic dining experience in celebration of Julia Child and Lee Hoiby's _Bon Appétit!_ The culinary students had studied and prepared French cuisine, allowing the guests to indulge their appetites as they enjoyed the theatrical performance. The audience could literally have their cake and eat it too!
 
 The evening began with champagne, hors d'oeuvres, and culinary-themed cabaret songs performed by four of the opera's apprentice artists: Quinn Bernegger, Catherine Goode, Robert Gerold, and Joyner Horn. The musical selections, although somewhat difficult to hear over the buzz of the crowd, kicked off the evening with a charming, lighthearted atmosphere that paired perfectly with the bubbly drinks.

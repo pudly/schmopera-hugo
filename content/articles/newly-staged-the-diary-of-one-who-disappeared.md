@@ -1,16 +1,22 @@
-+++
-author = ["authors/michael-calderone.md"]
-categories = "Review"
-date = "2018-01-24T20:11:00-05:00"
-lastmod = "2018-01-26T20:11:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516841879592/sq---32546229403_47f4d8e53c_o.jpg.jpg"
-primary_image_credit = "Photo: Jan Versweyveld."
-publishDate = "2018-01-25T18:03:00-05:00"
-related_articles = ["articles/in-review-death-desire.md"]
-short_description = "The singers gave gripping and intensely theatrical performances. Yet the atmosphere created was meditative, as their judicious movements possessed calm and reserve. The singing was nuanced, if at times a bit uneven. In the tenor Peter Gijsbertsen&#039;s highest register, some passages sounded tense and forced, but these were also the moments of most impassioned emotional intensity."
-slug = "newly-staged-the-diary-of-one-who-disappeared"
-title = "Newly staged: The Diary of One Who Disappeared"
-+++
+---
+author:
+- authors/michael-calderone.md
+categories: Review
+date: "2018-01-24T20:11:00-05:00"
+lastmod: "2018-01-26T20:11:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516841879592/sq---32546229403_47f4d8e53c_o.jpg.jpg
+primary_image_credit: 'Photo: Jan Versweyveld.'
+publishDate: "2018-01-25T18:03:00-05:00"
+related_articles:
+- articles/in-review-death-desire.md
+short_description: The singers gave gripping and intensely theatrical performances.
+  Yet the atmosphere created was meditative, as their judicious movements possessed
+  calm and reserve. The singing was nuanced, if at times a bit uneven. In the tenor
+  Peter Gijsbertsen&#039;s highest register, some passages sounded tense and forced,
+  but these were also the moments of most impassioned emotional intensity.
+slug: newly-staged-the-diary-of-one-who-disappeared
+title: 'Newly staged: The Diary of One Who Disappeared'
+---
 
 In a new staging of *The Diary of the One Who Vanished*, the Belgian director Ivo van Hove adds rich new layers of meaning to Janáček's song cycle. Presented at Grand Théâtre de Luxembourg on January 4 and 5, 2018, the production inserted new music from the Belgian composer Annelies van Parys and recitations of Janáček's letters to his young muse Kamila Stösslová into to the body of Janáček's 22-movement song cycle. 
 

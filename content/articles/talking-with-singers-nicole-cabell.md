@@ -1,18 +1,48 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-11-28T23:50:00+00:00"
-lastmod = "2016-10-18T21:00:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476820801008/2015-12-01---Nicole-Cabell---Devon-Cass.jpg.jpg"
-primary_image_credit = "Photo by Devon Cass."
-publishDate = "2015-12-01T13:52:00+00:00"
-related_articles = ["articles/talking-with-singers-elizabeth-caballero.md","articles/talking-with-singers-elizabeth-deshong.md","articles/talking-with-singers-peter-mcgillivray.md","articles/andrew-staples-messiah-and-multitasking.md","articles/talking-with-singers-leah-crocetto.md","articles/spotlight-on-michael-nyby.md","articles/spotlight-on-aidan-ferguson.md","articles/talking-with-singers-christine-goerke.md","articles/spotlight-on-rolando-sanz.md","articles/arianna-zukerman-youve-got-to-live-your-truth.md","articles/paul-appleby-telling-stories-at-wigmore-hall.md","articles/spotlight-on-lara-ciekiewicz.md","articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-christian-van-horn.md","articles/talking-with-singers-jamie-barton.md","articles/talking-with-singers-corinne-winters.md","articles/talking-with-singers-melody-moore.md","articles/what-weve-learned-by-talking-with-108-opera-singers.md","articles/talking-with-singers-keri-alkema.md","articles/talking-with-singers-marina-rebeka.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/nicole-cabell.md","scene/people/renee-fleming.md","scene/people/thomas-hampson.md"]
-short_description = "&quot;There&#039;s a part of me, and every singer I know, that wants to settle down and have a normal job and a family, and all that. But then there&#039;s this other part, and I think if you don&#039;t have this, you&#039;re gonna have a hard time. There&#039;s this other part where you&#039;re really restless if you&#039;re not aways going, and having crazy adventures. *Wanderlust*, I guess. I have that in me.&quot; "
-slug = "talking-with-singers-nicole-cabell"
-title = "Talking with singers: Nicole Cabell"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-11-28T23:50:00+00:00"
+lastmod: "2016-10-18T21:00:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476820801008/2015-12-01---Nicole-Cabell---Devon-Cass.jpg.jpg
+primary_image_credit: Photo by Devon Cass.
+publishDate: "2015-12-01T13:52:00+00:00"
+related_articles:
+- articles/talking-with-singers-elizabeth-caballero.md
+- articles/talking-with-singers-elizabeth-deshong.md
+- articles/talking-with-singers-peter-mcgillivray.md
+- articles/andrew-staples-messiah-and-multitasking.md
+- articles/talking-with-singers-leah-crocetto.md
+- articles/spotlight-on-michael-nyby.md
+- articles/spotlight-on-aidan-ferguson.md
+- articles/talking-with-singers-christine-goerke.md
+- articles/spotlight-on-rolando-sanz.md
+- articles/arianna-zukerman-youve-got-to-live-your-truth.md
+- articles/paul-appleby-telling-stories-at-wigmore-hall.md
+- articles/spotlight-on-lara-ciekiewicz.md
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/talking-with-singers-christian-van-horn.md
+- articles/talking-with-singers-jamie-barton.md
+- articles/talking-with-singers-corinne-winters.md
+- articles/talking-with-singers-melody-moore.md
+- articles/what-weve-learned-by-talking-with-108-opera-singers.md
+- articles/talking-with-singers-keri-alkema.md
+- articles/talking-with-singers-marina-rebeka.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/nicole-cabell.md
+- scene/people/renee-fleming.md
+- scene/people/thomas-hampson.md
+short_description: '&quot;There&#039;s a part of me, and every singer I know, that
+  wants to settle down and have a normal job and a family, and all that. But then
+  there&#039;s this other part, and I think if you don&#039;t have this, you&#039;re
+  gonna have a hard time. There&#039;s this other part where you&#039;re really restless
+  if you&#039;re not aways going, and having crazy adventures. *Wanderlust*, I guess.
+  I have that in me.&quot; '
+slug: talking-with-singers-nicole-cabell
+title: 'Talking with singers: Nicole Cabell'
+---
 
 "You know, if I suppose you let that pressure get to your head, you'd never sing," laughs Nicole Cabell, who's currently sharing the role of Hanna with fellow star soprano [Renée Fleming](/scene/people/renee-fleming/), in Lyric Opera of Chicago's [*The Merry Widow*](https://www.lyricopera.org/concertstickets/calendar/2015-2016/productions/lyricopera/the-merry-widow). 
 

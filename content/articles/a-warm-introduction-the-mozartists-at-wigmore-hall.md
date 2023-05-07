@@ -1,18 +1,28 @@
-+++
-author = ["authors/thomas-pierce.md"]
-categories = "Review"
-date = "2017-09-19T20:38:00-04:00"
-lastmod = "2017-09-20T21:34:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505956211348/2017-09-20---The-Mozartists-Ian-Page-and-Louise-Alder-curtain-call-c.-Fane-Henderson.jpg.jpg"
-primary_image_credit = "The Mozartists, conductor Ian Page, and Louise Alder take a curtain call. Photo: Fane Henderson."
-publishDate = "2017-09-20T21:34:00-04:00"
-related_articles = ["articles/ian-page-mozart-imagination.md","articles/in-review-classical-operas-il-vologeso.md"]
-related_companies = ["scene/companies/classical-opera.md"]
-related_people = ["scene/people/louise-alder.md"]
-short_description = "On the 18th of September a new musical group, The Mozartists, was launched at Wigmore Hall. The creation of Classical Opera conductor and Artistic Director Ian Page, it aims to cultivate the music of Mozart and his contemporaries, as suggested by the name. So with the blessing of the Soul of Music on the cupola above, The Mozartists gave a successful debut."
-slug = "a-warm-introduction-the-mozartists-at-wigmore-hall"
-title = "A warm introduction: The Mozartists at Wigmore Hall"
-+++
+---
+author:
+- authors/thomas-pierce.md
+categories: Review
+date: "2017-09-19T20:38:00-04:00"
+lastmod: "2017-09-20T21:34:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505956211348/2017-09-20---The-Mozartists-Ian-Page-and-Louise-Alder-curtain-call-c.-Fane-Henderson.jpg.jpg
+primary_image_credit: 'The Mozartists, conductor Ian Page, and Louise Alder take a
+  curtain call. Photo: Fane Henderson.'
+publishDate: "2017-09-20T21:34:00-04:00"
+related_articles:
+- articles/ian-page-mozart-imagination.md
+- articles/in-review-classical-operas-il-vologeso.md
+related_companies:
+- scene/companies/classical-opera.md
+related_people:
+- scene/people/louise-alder.md
+short_description: On the 18th of September a new musical group, The Mozartists, was
+  launched at Wigmore Hall. The creation of Classical Opera conductor and Artistic
+  Director Ian Page, it aims to cultivate the music of Mozart and his contemporaries,
+  as suggested by the name. So with the blessing of the Soul of Music on the cupola
+  above, The Mozartists gave a successful debut.
+slug: a-warm-introduction-the-mozartists-at-wigmore-hall
+title: 'A warm introduction: The Mozartists at Wigmore Hall'
+---
 
 On the 18th of September a new musical group, The Mozartists, was launched at Wigmore Hall. The creation of [Classical Opera](/scene/companies/classical-opera/) conductor and Artistic Director [Ian Page](/ian-page-mozart-imagination/), it aims to cultivate the music of Mozart and his contemporaries, as suggested by the name. So with the blessing of the *Soul of Music* on the cupola above, The Mozartists gave a successful debut. 
 

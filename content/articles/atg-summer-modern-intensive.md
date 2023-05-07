@@ -1,22 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-08-11T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[_This is Prophetic!_](http://againstthegraintheatre.com/prophetic/) happens August 21-22, 7:30pm, at the MacMillan Theatre."
-preamble = "Canadian indie opera staple Against the Grain Theatre has kicked off its 2019 [Summer Modern Intensive](http://againstthegraintheatre.com/prophetic/), a two-week workshop that centres on the canon of contemporary opera. This year, AtG joins with the opera folk at the University of Toronto to train young singers and pianists in the unique skill set that is performing 20th- and 21st-century opera.\n\nThe Intensive culminates with two performances of [_This is Prophetic!_](http://againstthegraintheatre.com/prophetic/), a program of contemporary opera scenes, August 21-22 at the MacMillan Theatre. We spoke with AtG Artistic Director Joel Ivany about his niche summer opera program."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1565533628/media/2019/08/sqATG_GardenParty_oiqtmf.jpg"
-primary_image_credit = "The Summer Modern Intensive Garden Party, Against the Grain Theatre, 2018. Photo: Darryl Block Photography."
-related_articles = ["articles/hype-atg-boheme.md", "articles/kopernikus.md"]
-related_companies = ["scene/companies/university-of-toronto-opera.md", "scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/joel-ivany.md"]
-short_description = "\"The singers all study or have studied music and want to immerse themselves in the process and see how far they can stretch themselves.  It can be daunting, but they are up for the challenge.\""
-slug = "atgs-summer-modern-intensive-they-are-eager-period"
-title = "AtG & UofT's Summer Modern Intensive: \"They are eager. Period.\""
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-08-11T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '[_This is Prophetic!_](http://againstthegraintheatre.com/prophetic/) happens
+  August 21-22, 7:30pm, at the MacMillan Theatre.'
+preamble: |-
+  Canadian indie opera staple Against the Grain Theatre has kicked off its 2019 [Summer Modern Intensive](http://againstthegraintheatre.com/prophetic/), a two-week workshop that centres on the canon of contemporary opera. This year, AtG joins with the opera folk at the University of Toronto to train young singers and pianists in the unique skill set that is performing 20th- and 21st-century opera.
 
-+++
+  The Intensive culminates with two performances of [_This is Prophetic!_](http://againstthegraintheatre.com/prophetic/), a program of contemporary opera scenes, August 21-22 at the MacMillan Theatre. We spoke with AtG Artistic Director Joel Ivany about his niche summer opera program.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1565533628/media/2019/08/sqATG_GardenParty_oiqtmf.jpg
+primary_image_credit: 'The Summer Modern Intensive Garden Party, Against the Grain
+  Theatre, 2018. Photo: Darryl Block Photography.'
+related_articles:
+- articles/hype-atg-boheme.md
+- articles/kopernikus.md
+related_companies:
+- scene/companies/university-of-toronto-opera.md
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/joel-ivany.md
+short_description: '"The singers all study or have studied music and want to immerse
+  themselves in the process and see how far they can stretch themselves.  It can be
+  daunting, but they are up for the challenge."'
+slug: atgs-summer-modern-intensive-they-are-eager-period
+title: 'AtG & UofT''s Summer Modern Intensive: "They are eager. Period."'
+youtube_url: ""
+---
 ## How does AtG's Summer Modern Intensive fit in with Canada's network of opera training programs?
 
 AtG is always trying to be as involved in what is going on in the world of opera across Canada.  When we look at the landscape of the bounty of useful and successful training programs, we'd thought we try to offer us something [different and unique](http://againstthegraintheatre.com/prophetic/).  It's a chance for singers from Toronto and outside, who may not be able to travel to Edmonton, Banff, Vancouver, Italy or Newfoundland to work in the big city and collaborate with a different group faculty and singers.

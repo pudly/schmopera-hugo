@@ -1,29 +1,36 @@
-+++
-date = "2015-10-28T11:44:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-10-28T11:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1657550373/media/2022/07/NadineSierra_MerriCyr_pxd8fc.jpg"
-primary_image_credit = "Merri Cyr."
-publishDate = "2015-10-28T11:44:00-04:00"
-related_companies = ["scene/companies/palm-beach-opera.md", "scene/companies/staatsoper-berlin.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/boston-lyric-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/opra-national-de-paris.md", "scene/companies/teatro-alla-scala.md", "scene/companies/florida-grand-opera.md", "scene/companies/seattle-opera.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "nadine-sierra"
-title = "Nadine Sierra"
-website = "http://nadinesierra.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/nadine.sierra/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/NadineSierra"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/nadinecsierra"
-
-_template = "people_single"
-+++
+---
+date: "2015-10-28T11:44:00-04:00"
+discipline: Soprano
+lastmod: "2015-10-28T11:44:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1657550373/media/2022/07/NadineSierra_MerriCyr_pxd8fc.jpg
+primary_image_credit: Merri Cyr.
+publishDate: "2015-10-28T11:44:00-04:00"
+related_companies:
+- scene/companies/palm-beach-opera.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/boston-lyric-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/the-metropolitan-opera.md
+slug: nadine-sierra
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/nadine.sierra/
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/NadineSierra
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/nadinecsierra
+title: Nadine Sierra
+website: http://nadinesierra.com/
+---
 "Her voice with its pure, incisive and delicate timbre radiates tenderness in the middle register, while she floats her golden high register to the limits of audibility." _– Le Monde_
 
 Praised for her vocal beauty, seamless technique, and abundant musicality, Nadine Sierra is being hailed as one of the most promising, young talents in opera today. She was named the Richard Tucker Award Winner in 2017 and was awarded the 2018 Beverly Sills Artist Award by the Metropolitan Opera. Having made a string of successful debuts at the Met, Teatro alla Scala, Opéra national de Paris, and Staatsoper Berlin, she has become a fixture at many of the top houses around the world. On August 24th, 2018, her debut album, _There’s a Place for Us_, was released under the Deutsche Grammophon-Universal Music labels. Her second solo album, _Made For Opera_, is scheduled for release on March 4th 2022 for Deutsche Grammophon.

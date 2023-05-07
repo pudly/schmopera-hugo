@@ -1,19 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-12-03T12:01:00+00:00"
-lastmod = "2016-12-03T13:29:00+00:00"
-preamble = "Roles like Rigoletto, Simon Boccanegra, and Scarpia in *Tosca* are what fill the calendar of Tbilisi-born baritone [George Gagnidze](/scene/people/george-gagnidze/). He is currently in San Francisco, singing Amonasro in Francesca Zambello's new production of [*Aida*](http://sfopera.com/discover-opera/201617-season/aida/); next season, he reprises Amonasro at the Metropolitan Opera, before heading to Deutsche Oper Berlin to sing Carlo Gérard in *Andrea Chénier*, and Scarpia in *Tosca*.\n\nGagnidze spoke about what helps him stay fresh with his signature roles, how studying Mussolini helped him play a more convincing villain."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480767730849/2016-12-3---George_Gagnidze_Maik_Reishaus.jpg.jpg"
-primary_image_credit = "Photo by Maik Reishaus"
-publishDate = "2016-12-03T13:11:00+00:00"
-related_articles = ["articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-bryan-register.md","articles/talking-with-singers-craig-irvin.md"]
-related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/george-gagnidze.md"]
-short_description = "&quot;The tendency nowadays is for lyrical voices to take on dramatic roles, Wagner, Verdi and Strauss when they should sing Mozart. Just a few days ago a young baritone sang for me and asked me for my advice. A beautiful voice, but he was very young. He sang Amonasro for me and told me his wish is to sing Wagner. I suggested he should study the Count in Le nozze di Figaro, Don Giovanni and Papageno for now. Then the voice will develop...&quot;"
-slug = "talking-with-singers-george-gagnidze"
-title = "Talking with singers: George Gagnidze"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-12-03T12:01:00+00:00"
+lastmod: "2016-12-03T13:29:00+00:00"
+preamble: |-
+  Roles like Rigoletto, Simon Boccanegra, and Scarpia in *Tosca* are what fill the calendar of Tbilisi-born baritone [George Gagnidze](/scene/people/george-gagnidze/). He is currently in San Francisco, singing Amonasro in Francesca Zambello's new production of [*Aida*](http://sfopera.com/discover-opera/201617-season/aida/); next season, he reprises Amonasro at the Metropolitan Opera, before heading to Deutsche Oper Berlin to sing Carlo Gérard in *Andrea Chénier*, and Scarpia in *Tosca*.
+
+  Gagnidze spoke about what helps him stay fresh with his signature roles, how studying Mussolini helped him play a more convincing villain.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480767730849/2016-12-3---George_Gagnidze_Maik_Reishaus.jpg.jpg
+primary_image_credit: Photo by Maik Reishaus
+publishDate: "2016-12-03T13:11:00+00:00"
+related_articles:
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/talking-with-singers-bryan-register.md
+- articles/talking-with-singers-craig-irvin.md
+related_companies:
+- scene/companies/san-francisco-opera.md
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/george-gagnidze.md
+short_description: '&quot;The tendency nowadays is for lyrical voices to take on dramatic
+  roles, Wagner, Verdi and Strauss when they should sing Mozart. Just a few days ago
+  a young baritone sang for me and asked me for my advice. A beautiful voice, but
+  he was very young. He sang Amonasro for me and told me his wish is to sing Wagner.
+  I suggested he should study the Count in Le nozze di Figaro, Don Giovanni and Papageno
+  for now. Then the voice will develop...&quot;'
+slug: talking-with-singers-george-gagnidze
+title: 'Talking with singers: George Gagnidze'
+---
 
 ## How do you keep roles fresh as you sing them in various productions? 
 

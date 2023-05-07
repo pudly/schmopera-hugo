@@ -1,18 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-04-18T16:56:00-04:00"
-lastmod = "2015-04-27T21:19:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839149729/Alice-Hercules1-1024x643.jpg.jpg"
-primary_image_credit = "All photos by Michael Cooper"
-publishDate = "2014-04-18T16:56:00-04:00"
-related_articles = []
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/alice-coote.md","scene/people/lucy-crowe.md","scene/people/eric-owens.md"]
-short_description = "I went and saw Hercules at the Canadian Opera Company on Tuesday, and it was the jackpot of incredible talent onstage. It&#039;s directed by the one-of-a-kind Peter Sellars, conducted by the brilliant Harry Bicket, and Eric Owens and Alice Coote star as the soldier and soldier&#039;s wife. Beautiful. And it really was a stunning spectacle, one with an uncomfortably true message."
-slug = "in-review-hercules"
-title = "In review: Hercules"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-04-18T16:56:00-04:00"
+lastmod: "2015-04-27T21:19:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839149729/Alice-Hercules1-1024x643.jpg.jpg
+primary_image_credit: All photos by Michael Cooper
+publishDate: "2014-04-18T16:56:00-04:00"
+related_articles: []
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/alice-coote.md
+- scene/people/lucy-crowe.md
+- scene/people/eric-owens.md
+short_description: I went and saw Hercules at the Canadian Opera Company on Tuesday,
+  and it was the jackpot of incredible talent onstage. It&#039;s directed by the one-of-a-kind
+  Peter Sellars, conducted by the brilliant Harry Bicket, and Eric Owens and Alice
+  Coote star as the soldier and soldier&#039;s wife. Beautiful. And it really was
+  a stunning spectacle, one with an uncomfortably true message.
+slug: in-review-hercules
+title: 'In review: Hercules'
+---
 
 I went and saw [_Hercules_](http://www.coc.ca/PerformancesAndTickets/1314Season/Hercules.aspx) at the Canadian Opera Company on Tuesday, and it was the jackpot of incredible talent onstage. It's directed by the one-of-a-kind [Peter Sellars](http://en.wikipedia.org/wiki/Peter_Sellars), conducted by the brilliant [Harry Bicket](http://www.askonasholt.co.uk/artists/conductors/harry-bicket), and [Eric Owens](http://imgartists.com/artist/eric_owens) and [Alice Coote](http://imgartists.com/artist/alice_coote) star as the soldier and soldier's wife. Beautiful. And it really was a stunning spectacle, one with an uncomfortably true message. [I saw Sellars speak about this production](/peter-sellars-all-my-subtexts-were-understatements/), and what it tells us about the effect of war, absence and PTSD have on a solider and his family. Based on Sophocles' play _Women of Trachis_, Handel's _Hercules_ really is about the hero's family. It's clear that both Sophocles and Handel knew that as well; Hercules himself sings little in comparison with his wife Dejanira, his son Hyllus and his prisoner, Iöle.
 

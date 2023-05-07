@@ -1,18 +1,28 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2018-05-04T19:01:00-04:00"
-lastmod = "2018-05-05T22:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475116573/sqDSC_6417.jpg.jpg"
-primary_image_credit = "Heartbeat Opera's Don Giovanni, 2018. Photo: Russ Rowland."
-publishDate = "2018-05-04T20:51:00-04:00"
-related_articles = ["articles/don-giovanni-strengthened-by-reinterpretation.md"]
-related_companies = ["scene/companies/heartbeat-opera.md"]
-related_people = ["scene/people/samarie-alicea.md","scene/people/leela-subramaniam.md","scene/people/felicia-moore.md"]
-short_description = "From the overture&#039;s opening measures, the band produced genuine chamber music. Gleb Kanasevich, whose playing I&#039;ve admired since his conservatory days, had increased responsibility as the lone wind. Schlosberg&#039;s orchestration demands fast arpeggiated chords, virtuosic melodies, and character-driven phrases to compensate for the missing winds and brass."
-slug = "heartbeats-giovanni-successfully-bucks-tradition"
-title = "Heartbeat&#039;s Giovanni successfully bucks tradition"
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2018-05-04T19:01:00-04:00"
+lastmod: "2018-05-05T22:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475116573/sqDSC_6417.jpg.jpg
+primary_image_credit: 'Heartbeat Opera''s Don Giovanni, 2018. Photo: Russ Rowland.'
+publishDate: "2018-05-04T20:51:00-04:00"
+related_articles:
+- articles/don-giovanni-strengthened-by-reinterpretation.md
+related_companies:
+- scene/companies/heartbeat-opera.md
+related_people:
+- scene/people/samarie-alicea.md
+- scene/people/leela-subramaniam.md
+- scene/people/felicia-moore.md
+short_description: From the overture&#039;s opening measures, the band produced genuine
+  chamber music. Gleb Kanasevich, whose playing I&#039;ve admired since his conservatory
+  days, had increased responsibility as the lone wind. Schlosberg&#039;s orchestration
+  demands fast arpeggiated chords, virtuosic melodies, and character-driven phrases
+  to compensate for the missing winds and brass.
+slug: heartbeats-giovanni-successfully-bucks-tradition
+title: Heartbeat&#039;s Giovanni successfully bucks tradition
+---
 
 No spoilers. I guarantee you won't guess what happens after "Act 1" of [Heartbeat Opera](/scene/companies/heartbeat-opera/)'s new production of Mozart's *Don Giovanni* (Directed by Louisa Proske). See the show. Find out.
 

@@ -1,22 +1,33 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = 2023-02-27T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1677440596/media/2023/02/sq_The_Birds_Pacific_Opera_0593_raqldc.jpg"
-primary_image_credit = "Claire de Sévigné in The Birds, Pacific Opera Victoria, 2023. Photo: David Cooper."
-related_articles = []
-related_companies = ["scene/companies/pacific-opera-victoria.md"]
-related_people = ["scene/people/nathan-keoughan.md", "scene/people/peter-barrett.md", "scene/people/justin-welsh.md", "scene/people/jacqueline-woodley.md", "scene/people/adrian-kramer.md", "scene/people/claire-de-sevigne.md"]
-short_description = "De Sévigné’s performance was ethereal and lovely. With a fuller, more mature sound that has maintained all of its agility and height, she soared effortlessly in lengthy, dazzling coloratura over ensembles, duets, and choruses with incredible skill."
-slug = "fantasy-is-for-the-birds"
-title = "Fantasy is for The Birds"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2023-02-27T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1677440596/media/2023/02/sq_The_Birds_Pacific_Opera_0593_raqldc.jpg
+primary_image_credit: 'Claire de Sévigné in The Birds, Pacific Opera Victoria, 2023.
+  Photo: David Cooper.'
+related_articles: []
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+related_people:
+- scene/people/nathan-keoughan.md
+- scene/people/peter-barrett.md
+- scene/people/justin-welsh.md
+- scene/people/jacqueline-woodley.md
+- scene/people/adrian-kramer.md
+- scene/people/claire-de-sevigne.md
+short_description: De Sévigné’s performance was ethereal and lovely. With a fuller,
+  more mature sound that has maintained all of its agility and height, she soared
+  effortlessly in lengthy, dazzling coloratura over ensembles, duets, and choruses
+  with incredible skill.
+slug: fantasy-is-for-the-birds
+title: Fantasy is for The Birds
+youtube_url: ""
+---
 In a long history of creative new productions, [Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/) brings an imaginative, fantastical rendition of Braunfels' opera _The Birds_. With a score reminiscent of movie-score-meets-Richard-Strauss, POV decided to take this metaphysical/mythological story and ground it very much in Braunfels' reality for its Canadian premiere. It was written while he was serving in the German trenches of WWI, and that is exactly where our story begins.
 
 Hoffegut, played by tenor [Adrian Kramer](/scene/people/adrian-kramer/), and Ratefreund, played by [Peter Barrett](/scene/people/peter-barrett/), begin the show as soldiers in a front line WWI trench in 1918 in Germany. While reminiscing about their lot and the drudgery and sadness around them, they imagine a life living with the Birds.

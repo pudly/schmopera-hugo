@@ -1,18 +1,32 @@
-+++
-author = ["authors/vivian-darkbloom.md"]
-categories = "Review"
-date = "2017-09-29T19:14:00-04:00"
-lastmod = "2017-09-30T08:49:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506775588092/2017-09-29---square---ENO-Aida-Latonia-Moore-4-Tristram-Kenton.jpg.jpg"
-primary_image_credit = "Latonia Moore in the title role of Aida, ENO, 2017. Photo: Tristam Kenton."
-publishDate = "2017-09-30T08:48:00-04:00"
-related_articles = ["articles/tamara-wilson-gives-a-flawless-aida-at-wno.md","articles/in-review-rigoletto-at-eno.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/gwyn-hughes-jones.md","scene/people/musa-ngqungwana.md","scene/people/michelle-deyoung.md","scene/people/latonia-moore.md"]
-short_description = "This production was very beautiful from a visual perspective. The sets were colossal, drawing the audience into a strange fantasy world. It was full of stunning tableaus, especially those that included the whole cast, the chorus and the wonderful acrobatic ensemble, Improbable. The lighting design was particularly clever, illuminating the production in a way which seemed almost symbolistc. For me, the most stunning moment of the whole production was the strange ending."
-slug = "stellar-singing-curious-costumes-in-enos-aida"
-title = "Stellar singing &amp; curious costumes in ENO&#039;s Aida"
-+++
+---
+author:
+- authors/vivian-darkbloom.md
+categories: Review
+date: "2017-09-29T19:14:00-04:00"
+lastmod: "2017-09-30T08:49:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506775588092/2017-09-29---square---ENO-Aida-Latonia-Moore-4-Tristram-Kenton.jpg.jpg
+primary_image_credit: 'Latonia Moore in the title role of Aida, ENO, 2017. Photo:
+  Tristam Kenton.'
+publishDate: "2017-09-30T08:48:00-04:00"
+related_articles:
+- articles/tamara-wilson-gives-a-flawless-aida-at-wno.md
+- articles/in-review-rigoletto-at-eno.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/gwyn-hughes-jones.md
+- scene/people/musa-ngqungwana.md
+- scene/people/michelle-deyoung.md
+- scene/people/latonia-moore.md
+short_description: This production was very beautiful from a visual perspective. The
+  sets were colossal, drawing the audience into a strange fantasy world. It was full
+  of stunning tableaus, especially those that included the whole cast, the chorus
+  and the wonderful acrobatic ensemble, Improbable. The lighting design was particularly
+  clever, illuminating the production in a way which seemed almost symbolistc. For
+  me, the most stunning moment of the whole production was the strange ending.
+slug: stellar-singing-curious-costumes-in-enos-aida
+title: Stellar singing &amp; curious costumes in ENO&#039;s Aida
+---
 
 ENO opened their 2017/2018 with a beautiful, heartfelt production of Verdi's masterpiece, *Aida*. This show always surprises me - it's never quite what you expect. The music isn't typical of Verdi's work and neither is the story. The atmosphere of the work is otherworldly and strangely stark, despite the presence of the requisite bombastic full chorus moments. This production didn't disappoint. Director Phelim McDermott never wasted an opportunity to fill the hall with beauty, both visual and emotional. The production was one of contrasts - sleek lines against lush textures, bright against dark, and the delicacy of love against the rigid world of military might.
 

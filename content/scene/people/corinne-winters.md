@@ -1,32 +1,37 @@
-+++
-date = "2016-04-23T20:51:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-04-23T20:51:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461440794230/2016-04-23---Corinne-Winters-Fay-Fox.jpg.jpg"
-primary_image_credit = "Fay Fox"
-publishDate = "2016-04-23T20:51:00+01:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/opernhaus-zurich.md","scene/companies/royal-opera-house.md","scene/companies/san-diego-opera.md","scene/companies/arizona-opera.md","scene/companies/opera-lyra-ottawa.md","scene/companies/the-santa-fe-opera.md","scene/companies/opera-theatre-of-st-louis.md"]
-slug = "corinne-winters"
-title = "Corinne Winters"
-website = "http://corinnewinters.com/home/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/cmwsoprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/CMWSoprano"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/cmwsoprano/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=pHFxTNoGrOI&list=PLGD5AXWxIXdwAYWvXsZRlcjP5tH4zYggX"
-_template = "people_single"
-+++
+---
+date: "2016-04-23T20:51:00+01:00"
+discipline: Soprano
+lastmod: "2016-04-23T20:51:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461440794230/2016-04-23---Corinne-Winters-Fay-Fox.jpg.jpg
+primary_image_credit: Fay Fox
+publishDate: "2016-04-23T20:51:00+01:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/royal-opera-house.md
+- scene/companies/san-diego-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/opera-lyra-ottawa.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+slug: corinne-winters
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/cmwsoprano
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/CMWSoprano
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/cmwsoprano/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/watch?v=pHFxTNoGrOI&list=PLGD5AXWxIXdwAYWvXsZRlcjP5tH4zYggX
+title: Corinne Winters
+website: http://corinnewinters.com/home/
+---
 
 Acclaimed by The New York Times as “an outstanding actress, as well as a singer of extraordinary grace and finesse”, soprano Corinne Winters is a recent nominee in the International Opera Awards Young Singer category. In the 2015/16 season, Corinne debuts with Opernhaus Zürich as Melisande in a new production of Pelléas et Mélisande directed by Dmitri Tcherniakov. She makes dual role and orchestra debuts as Alice Ford alongside Ambrogio Maestri’s Falstaff with the City of Birmingham Symphony Orchestra, and as Fiordiligi in Così fan tutte with the Accademia Nazionale di Santa Cecilia under the baton of Semyon Bychkov. Corinne returns to the English National Opera as Mimì in a new Benedict Andrews production of La bohème, and makes her role debut as Desdemona in a new production of Otello with Opera Vlaanderen.
 

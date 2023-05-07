@@ -1,22 +1,32 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = 2021-07-26T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1626825145/media/2021/07/sqDMMO-Travelers-JosephLattanziChristianSanders_oosbsf.jpg"
-primary_image_credit = "Joseph Lattanzi (Hawkins Fuller) and Christian Sanders (Timothy Laughlin) in Des Moines Metro Opera's production of Fellow Traveles, 2021. Photo: Duane Tinkey."
-related_articles = ["articles/fellow-travelers-is-luminous-in-chicago.md", "articles/fellow-travelers-a-cathartic-necessary-affair.md"]
-related_companies = ["scene/companies/des-moines-metro-opera.md"]
-related_people = ["scene/people/christian-sanders.md", "scene/people/joseph-lattanzi.md"]
-short_description = "The heart wrenching scenes we did get were truly compelling, but I found myself getting impatient in the less exciting sections. The brief flashes of forbidden passion just weren’t enough to keep the momentum going, and I just wanted them to skip to the juicy parts!"
-slug = "dmmos-fellow-travelers-no-happy-ending-but-perseverance"
-title = "DMMO's Fellow Travelers: no happy ending, but perseverance"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2021-07-26T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1626825145/media/2021/07/sqDMMO-Travelers-JosephLattanziChristianSanders_oosbsf.jpg
+primary_image_credit: 'Joseph Lattanzi (Hawkins Fuller) and Christian Sanders (Timothy
+  Laughlin) in Des Moines Metro Opera''s production of Fellow Traveles, 2021. Photo:
+  Duane Tinkey.'
+related_articles:
+- articles/fellow-travelers-is-luminous-in-chicago.md
+- articles/fellow-travelers-a-cathartic-necessary-affair.md
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+related_people:
+- scene/people/christian-sanders.md
+- scene/people/joseph-lattanzi.md
+short_description: The heart wrenching scenes we did get were truly compelling, but
+  I found myself getting impatient in the less exciting sections. The brief flashes
+  of forbidden passion just weren’t enough to keep the momentum going, and I just
+  wanted them to skip to the juicy parts!
+slug: dmmos-fellow-travelers-no-happy-ending-but-perseverance
+title: 'DMMO''s Fellow Travelers: no happy ending, but perseverance'
+youtube_url: ""
+---
 There are a few recently composed American operas that seem to be making the rounds throughout regional opera companies, and [_Fellow Travelers_](https://desmoinesmetroopera.org/productions/fellowtravelers/), written by Gregory Spears and Greg Pierce, has clearly captured the attention of the opera world since its premiere in 2016. [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/) brought this touching tale of forbidden love and hidden identities to the stage for an exclusive one night performance, a contemporary operatic work surrounded by the vintage beauty of the historical Hoyt Sherman Place.
 
 Carolyn Watson led the orchestra in a deft and nuanced performance of Gregory Spears' score. The orchestration encompassed a wide variety of emotions, often ranging from intimate to cinematic and sometimes managed to capture both feelings simultaneously. Spears also slips in subtle references to other operatic styles with hints of baroque dances or bel canto ornamentation. While the score calls for a small chamber orchestra, it was often difficult to hear certain singers over the ensemble. This is a common acoustic problem in Hoyt Sherman Place's performance space due to the lack of a true orchestra pit which resulted in the instruments being level with the audience. This issue was particularly prevalent with the lower voices in the cast but only when the orchestration was at its fullest. During the post show talk back with the opera's creative team, it became clear that the score for _Fellow Travelers_ is deceptively tricky. The music gives the impression of simplicity, but both the singers and orchestra navigated the changing time signatures and vulnerable melodies with precision and heart. Watson admitted in the panel discussions that this was her first time conducting this opera, and I wholeheartedly hope that she will get further opportunities to explore this work and bring her musical insights to Spears' composition.

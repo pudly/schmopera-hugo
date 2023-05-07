@@ -1,17 +1,27 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = "2017-09-12T10:19:00-04:00"
-lastmod = "2017-09-13T12:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505237921168/2017-09-12---square---Blu-Rhythm-Collective-CCP-Final-performance-1-c.-Michael-Brosilow.jpg.jpg"
-primary_image_credit = "Blu Rhythm Collective, Community Created Performances, 2017. Photo: Michael Brosilow."
-publishDate = "2017-09-12T13:48:00-04:00"
-related_articles = ["articles/in-review-stars-of-lyric-opera.md","articles/in-review-obeah-opera.md","articles/he-saidshe-said-tapex-metallurgy.md","articles/orphee.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-short_description = "The stories they shared were uniquely told yet, sadly, all too familiar in today’s social and political climate. Drawn from the performers&#039; own lived experiences, messages of solidarity and discrimination, faith and dejection, success and failure were accented against that complex mosaic of a backdrop: Chicago."
-slug = "the-positive-impact-of-community-created-performances"
-title = "The &quot;positive impact&quot; of Community Created Performances"
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2017-09-12T10:19:00-04:00"
+lastmod: "2017-09-13T12:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505237921168/2017-09-12---square---Blu-Rhythm-Collective-CCP-Final-performance-1-c.-Michael-Brosilow.jpg.jpg
+primary_image_credit: 'Blu Rhythm Collective, Community Created Performances, 2017.
+  Photo: Michael Brosilow.'
+publishDate: "2017-09-12T13:48:00-04:00"
+related_articles:
+- articles/in-review-stars-of-lyric-opera.md
+- articles/in-review-obeah-opera.md
+- articles/he-saidshe-said-tapex-metallurgy.md
+- articles/orphee.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+short_description: 'The stories they shared were uniquely told yet, sadly, all too
+  familiar in today’s social and political climate. Drawn from the performers&#039;
+  own lived experiences, messages of solidarity and discrimination, faith and dejection,
+  success and failure were accented against that complex mosaic of a backdrop: Chicago.'
+slug: the-positive-impact-of-community-created-performances
+title: The &quot;positive impact&quot; of Community Created Performances
+---
 
 Maya Angelou once asserted that "there is no greater agony than bearing an untold story inside of you." The three groups that performed at the Harris Theater this past Sunday afternoon commanded a full house with the urgency and creativity of their respective stories. [Kuumba Lynx](http://www.kuumbalynx.com/), [YOLO Boomers](https://www.youtube.com/watch?v=5HhHc41UtB8), and [Blu Rhythm Collective](https://www.facebook.com/Blurhythmchicago/) – groups of Chicago artists from diverse neighborhoods and of varying ages – were the selected finalists of this year's [Community Created Performances](https://www.lyricopera.org/concertstickets/calendar/2017-2018-other/productions/lyricopera/community-created-performances), an outreach program part of the Chicago Voices initiative (spearheaded by Renée Fleming) and all under the aegis of the [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/). With $10,000 and a Lyric-hired creative team, each group utilized their talents in dance, song, hip-hop, script- and lyrics-writing to develop their distinct narratives into fully staged music-theater productions.
  

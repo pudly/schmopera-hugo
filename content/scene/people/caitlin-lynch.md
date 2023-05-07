@@ -1,16 +1,24 @@
-+++
-date = "2019-02-26T23:44:10+00:00"
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551224546/media/2019/02/CaitlinLynch.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/the-dallas-opera.md", "scene/companies/spoleto-festival-usa.md", "scene/companies/des-moines-metro-opera.md", "scene/companies/arizona-opera.md", "scene/companies/english-national-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/seattle-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/palm-beach-opera.md"]
-slug = "caitlin-lynch"
-social_media = []
-title = "Caitlin Lynch"
-website = "https://www.caitlinlynchsoprano.com/"
-
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2019-02-26T23:44:10+00:00"
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551224546/media/2019/02/CaitlinLynch.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/the-dallas-opera.md
+- scene/companies/spoleto-festival-usa.md
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/palm-beach-opera.md
+slug: caitlin-lynch
+social_media: []
+title: Caitlin Lynch
+website: https://www.caitlinlynchsoprano.com/
+---
 Declared “luminous” by the _New York Times_ and “eloquent” by the _Wall Street Journal_, soprano Caitlin Lynch is captivating audiences with her portrayals of iconic leading ladies. With a repertoire that encompasses Mozart to Verdi and Handel to Heggie, Ms. Lynch brings her dynamic portrayals of both classic and contemporary operas to stages around the world.
 
 This season, the soprano makes her company debut with **San Diego Opera**, singing the Countess in _Le nozze di Figaro_. She makes returns to **Palm Beach Opera** as Donna Anna in _Don Giovanni,_ and to the **Seiji Ozawa Music Academy** as Micaëla in _Carmen_. The summer brings a return to **Chautauqua Opera**, debuting the role of Marie Antoinette in _Ghosts of Versailles._ Future seasons include an appearance with **Arizona Opera**.

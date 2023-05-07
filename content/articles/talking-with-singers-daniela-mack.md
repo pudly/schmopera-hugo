@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-09-03T15:48:00+02:00"
-lastmod = "2016-09-10T09:28:00+02:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472911088396/2016-09-03---Daniela-Mack---Simon-Pauly-Square.jpg.jpg"
-primary_image_credit = "Photo by Simon Pauly."
-publishDate = "2016-09-10T09:09:00+02:00"
-related_articles = ["articles/talking-with-singers-marina-rebeka.md","articles/talking-with-singers-brenda-rae.md","articles/elizabeth-cree-kevin-puts.md","articles/a-stunning-premiere-elizabeth-cree.md","articles/talking-with-singers-beste-kalender.md"]
-related_people = ["scene/people/daniela-mack.md"]
-short_description = "&quot;One of the big motivators for me will be setting an example for her so that she will also be able to follow whatever her passion is, and to show her that that&#039;s a possibility.&quot;"
-slug = "talking-with-singers-daniela-mack"
-title = "Talking with singers: Daniela Mack"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-09-03T15:48:00+02:00"
+lastmod: "2016-09-10T09:28:00+02:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472911088396/2016-09-03---Daniela-Mack---Simon-Pauly-Square.jpg.jpg
+primary_image_credit: Photo by Simon Pauly.
+publishDate: "2016-09-10T09:09:00+02:00"
+related_articles:
+- articles/talking-with-singers-marina-rebeka.md
+- articles/talking-with-singers-brenda-rae.md
+- articles/elizabeth-cree-kevin-puts.md
+- articles/a-stunning-premiere-elizabeth-cree.md
+- articles/talking-with-singers-beste-kalender.md
+related_people:
+- scene/people/daniela-mack.md
+short_description: '&quot;One of the big motivators for me will be setting an example
+  for her so that she will also be able to follow whatever her passion is, and to
+  show her that that&#039;s a possibility.&quot;'
+slug: talking-with-singers-daniela-mack
+title: 'Talking with singers: Daniela Mack'
+---
 
 "It's a big year," agrees mezzo-soprano [Daniela Mack](/scene/people/daniela-mack/), about her season of major company debuts. In February 2017, Mack will make her Metropolitan Opera debut as the Kitchen Boy in *Rusalka*; for now, she's concentrating on her debut at the Royal Opera House, where she'll sing Rosina in [Moshe Leiser and Patrice Caurier's *Il barbiere di Siviglia*](http://www.roh.org.uk/productions/il-barbiere-di-siviglia-by-moshe-leiser-and-patrice-caurier), opening September 13. 
 

@@ -1,19 +1,25 @@
-+++
-date = "2017-12-19T18:37:00-05:00"
-discipline = "Soprano"
-lastmod = "2017-12-19T18:37:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513726590160/Jacquelyn%2BWagner%2BPhoto%2B1%2BLarge.jpg.jpg"
-publishDate = "2017-12-19T18:37:00-05:00"
-related_companies = ["scene/companies/vlaamse-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/bayerische-staatsoper.md","scene/companies/minnesota-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/gran-teatre-del-liceu.md"]
-slug = "jacquelyn-wagner"
-title = "Jacquelyn Wagner"
-website = "http://www.jacquelynwagner.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Jacquelyn-Wagner-1493387444311157/?ref=hl"
-_template = "people_single"
-+++
+---
+date: "2017-12-19T18:37:00-05:00"
+discipline: Soprano
+lastmod: "2017-12-19T18:37:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513726590160/Jacquelyn%2BWagner%2BPhoto%2B1%2BLarge.jpg.jpg
+publishDate: "2017-12-19T18:37:00-05:00"
+related_companies:
+- scene/companies/vlaamse-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/minnesota-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/gran-teatre-del-liceu.md
+slug: jacquelyn-wagner
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Jacquelyn-Wagner-1493387444311157/?ref=hl
+title: Jacquelyn Wagner
+website: http://www.jacquelynwagner.com/
+---
 
 “Jacquelyn Wagner is something like a shooting star”, wrote Michael S. Zerban, in: Opernnetz, May 5, 2013 after her huge success as Suor Angelica/*Suor Angelica* in a new production at the Opera Cologne (Will Humburg;Eva Maria Höckmayr). 
 

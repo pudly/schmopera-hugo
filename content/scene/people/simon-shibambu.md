@@ -1,25 +1,25 @@
-+++
-date = "2016-11-14T06:46:00-05:00"
-discipline = "Bass-baritone"
-lastmod = "2017-10-06T21:27:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546110277/media/2018/12/SimonShibambupcChrisGloag.jpg"
-primary_image_credit = "Chris Gloag"
-publishDate = "2016-11-14T06:47:00-05:00"
-related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/salzburg-festival.md"]
-slug = "simon-shibambu"
-title = "Simon Shibambu"
-website = "http://www.simonshibambu.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/SSShibambu/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SimonShibambu"
-
-_template = "people_single"
-+++
+---
+date: "2016-11-14T06:46:00-05:00"
+discipline: Bass-baritone
+lastmod: "2017-10-06T21:27:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546110277/media/2018/12/SimonShibambupcChrisGloag.jpg
+primary_image_credit: Chris Gloag
+publishDate: "2016-11-14T06:47:00-05:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/salzburg-festival.md
+slug: simon-shibambu
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/SSShibambu/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/SimonShibambu
+title: Simon Shibambu
+website: http://www.simonshibambu.com/
+---
 Rising bass Simon Shibambu recently graduated from the Royal College of Music,
 and in 2017 enters his second season as a member of the Jette Parker Young Artists
 Programme at the Royal Opera House, Covent Garden. Born in Johannesburg, South

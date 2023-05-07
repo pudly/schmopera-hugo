@@ -1,14 +1,19 @@
-+++
-date = "2017-03-22T12:27:00+00:00"
-discipline = "Tenor"
-lastmod = "2017-03-22T12:27:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490185110326/2017-03-22---Sam-Furness.jpg.jpg"
-publishDate = "2017-03-22T12:27:00+00:00"
-related_companies = ["scene/companies/garsington-opera.md","scene/companies/classical-opera.md","scene/companies/northern-ireland-opera.md","scene/companies/opera-holland-park.md","scene/companies/scottish-opera.md"]
-slug = "sam-furness"
-title = "Sam Furness"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-03-22T12:27:00+00:00"
+discipline: Tenor
+lastmod: "2017-03-22T12:27:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490185110326/2017-03-22---Sam-Furness.jpg.jpg
+publishDate: "2017-03-22T12:27:00+00:00"
+related_companies:
+- scene/companies/garsington-opera.md
+- scene/companies/classical-opera.md
+- scene/companies/northern-ireland-opera.md
+- scene/companies/opera-holland-park.md
+- scene/companies/scottish-opera.md
+slug: sam-furness
+title: Sam Furness
+---
 
 Described as having "all the makings of a star" in *The Guardian*, and hailed as "a lyric tenor clearly going places" in *Opera* magazine, young tenor Sam Furness was winner of the prestigious Royal Academy of Music Club Prize in 2012. Since graduting, he has sung major roles for Scottish Opera and in Florence, Santiago and Toulouse, always earning praise for his compelling acting and innate musicality.
 

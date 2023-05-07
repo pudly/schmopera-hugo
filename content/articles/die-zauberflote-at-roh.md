@@ -1,18 +1,35 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2017-09-13T09:41:00-04:00"
-lastmod = "2017-09-13T10:36:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505310182345/2017-09-12---square---Die-Zauberflote-09-09-17-ROH-3585-SIOBHAN-STAGG-AS-PAMINA%2C-MAURO-PETER-AS-TAMINO%2C-MIKA-KARES-AS-SARASTRO-(C)-ROH.-PHOTO-TRISTRAM-KENTON.jpg.jpg"
-primary_image_credit = "Siobhan Stagg (Pamina), Mauro Peter (Tamino) and Mika Kares (Sarastro) in Die Zauberflöte, ROH, 2017. Photo: Tristam Kenton. "
-publishDate = "2017-09-13T10:33:00-04:00"
-related_articles = ["articles/in-review-peter-deutsch-at-wigmore-hall.md","articles/in-review-cocflute-sparkles.md","articles/a-refreshing-gateway-drug-the-magic-flute-at-o17.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/siobhan-stagg.md","scene/people/mauro-peter.md","scene/people/mika-kares.md","scene/people/julia-jones.md","scene/people/sabine-devieilhe.md","scene/people/peter-bronder.md"]
-short_description = "Speaking of maniacal, the Monostatos of Peter Bronder brought the house down. This creepy and twisted creature slithered about the stage, more screaming his lines than singing, which made the actions of him and his evil band of goons thrilling to watch. Bronder is the kind of performer who we could glean meaning from only seeing his eyes peering through a black curtain - every movement is filled with intention."
-slug = "die-zauberflote-at-roh"
-title = "Brisk &amp; wicked: Die Zauberflöte at ROH"
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2017-09-13T09:41:00-04:00"
+lastmod: "2017-09-13T10:36:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505310182345/2017-09-12---square---Die-Zauberflote-09-09-17-ROH-3585-SIOBHAN-STAGG-AS-PAMINA%2C-MAURO-PETER-AS-TAMINO%2C-MIKA-KARES-AS-SARASTRO-(C)-ROH.-PHOTO-TRISTRAM-KENTON.jpg.jpg
+primary_image_credit: 'Siobhan Stagg (Pamina), Mauro Peter (Tamino) and Mika Kares
+  (Sarastro) in Die Zauberflöte, ROH, 2017. Photo: Tristam Kenton. '
+publishDate: "2017-09-13T10:33:00-04:00"
+related_articles:
+- articles/in-review-peter-deutsch-at-wigmore-hall.md
+- articles/in-review-cocflute-sparkles.md
+- articles/a-refreshing-gateway-drug-the-magic-flute-at-o17.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/siobhan-stagg.md
+- scene/people/mauro-peter.md
+- scene/people/mika-kares.md
+- scene/people/julia-jones.md
+- scene/people/sabine-devieilhe.md
+- scene/people/peter-bronder.md
+short_description: Speaking of maniacal, the Monostatos of Peter Bronder brought the
+  house down. This creepy and twisted creature slithered about the stage, more screaming
+  his lines than singing, which made the actions of him and his evil band of goons
+  thrilling to watch. Bronder is the kind of performer who we could glean meaning
+  from only seeing his eyes peering through a black curtain - every movement is filled
+  with intention.
+slug: die-zauberflote-at-roh
+title: 'Brisk &amp; wicked: Die Zauberflöte at ROH'
+---
 
 Fifteen years after its first performance, the David McVicar production of [*Die Zauberflöte*](http://www.roh.org.uk/productions/die-zauberflote-by-david-mcvicar) opened last night at the [Royal Opera House](/scene/companies/royal-opera-house/) in Covent Garden. Being one of the quickest *Flutes* that I've ever seen, conductor [Julia Jones](/scene/people/julia-jones/) did seem in a hurry to get through the evening. In some cases, I was grateful for these speedy tempi - it's easy to remember waiting for the second act to get to the final chorus as the music of Sarastro's men drags through mud. There was no mud in Jones' *Flute*, although at times the high-speed sacrificed the text of the singers.
 

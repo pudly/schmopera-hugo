@@ -1,18 +1,41 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2017-10-11T12:44:00-04:00"
-lastmod = "2017-10-11T23:17:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507741049261/2017-10-11---Arabella-MC-0724.jpg.jpg"
-primary_image_credit = "Erin Wall as Arabella (foreground) and Jane Archibald as Zdenka in the Canadian Opera Company’s new production of Arabella, 2017, photo: Michael Cooper."
-publishDate = "2017-10-11T22:49:00-04:00"
-related_articles = ["articles/tim-albery-flawed-operas-falling-empires.md","articles/in-review-gotterdammerung-at-the-coc.md","articles/luxury-at-arms-length-arabella.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-santa-fe-opera.md","scene/companies/minnesota-opera.md"]
-related_people = ["scene/people/erin-wall.md","scene/people/jane-archibald.md","scene/people/john-fanning.md","scene/people/megan-latham.md","scene/people/patrick-lange.md","scene/people/claire-de-sevigne.md","scene/people/corey-bix.md","scene/people/gundula-hintz.md","scene/people/michael-brandenburg.md"]
-short_description = "Unlike the song-dialogue-song-dialogue-duet-quintet-dialogue-finale formula of operetta - which uses dance forms like polka, czardas, and waltzes - in Arabella, we find characteristic soaring beauty and dramatic pulse in a through-composed score which is what we love about Herr Strauss&#039;s music. The appealing play between consonant and dissonant harmonies, lush strings, and emphatic brass were handled masterfully well from the pit under the baton of maestro Patrick Lange. "
-slug = "review-arabella-or-poor-little-rich-girl"
-title = "Review: Arabella, or &quot;Poor Little Rich Girl&quot;"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2017-10-11T12:44:00-04:00"
+lastmod: "2017-10-11T23:17:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507741049261/2017-10-11---Arabella-MC-0724.jpg.jpg
+primary_image_credit: 'Erin Wall as Arabella (foreground) and Jane Archibald as Zdenka
+  in the Canadian Opera Company’s new production of Arabella, 2017, photo: Michael
+  Cooper.'
+publishDate: "2017-10-11T22:49:00-04:00"
+related_articles:
+- articles/tim-albery-flawed-operas-falling-empires.md
+- articles/in-review-gotterdammerung-at-the-coc.md
+- articles/luxury-at-arms-length-arabella.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/minnesota-opera.md
+related_people:
+- scene/people/erin-wall.md
+- scene/people/jane-archibald.md
+- scene/people/john-fanning.md
+- scene/people/megan-latham.md
+- scene/people/patrick-lange.md
+- scene/people/claire-de-sevigne.md
+- scene/people/corey-bix.md
+- scene/people/gundula-hintz.md
+- scene/people/michael-brandenburg.md
+short_description: 'Unlike the song-dialogue-song-dialogue-duet-quintet-dialogue-finale
+  formula of operetta - which uses dance forms like polka, czardas, and waltzes -
+  in Arabella, we find characteristic soaring beauty and dramatic pulse in a through-composed
+  score which is what we love about Herr Strauss&#039;s music. The appealing play
+  between consonant and dissonant harmonies, lush strings, and emphatic brass were
+  handled masterfully well from the pit under the baton of maestro Patrick Lange. '
+slug: review-arabella-or-poor-little-rich-girl
+title: 'Review: Arabella, or &quot;Poor Little Rich Girl&quot;'
+---
 
 Heya, Schmop-Tops! Your friendly neighbourhood [Greg](/authors/greg/) is back to start off my season, and let me tell you, it starts on a high note - lots of 'em!
 

@@ -1,29 +1,36 @@
-+++
-date = "2015-04-12T21:42:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-09-17T15:05:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581276848/media/2020/02/TamaraWilson-CassandraKay_nsttw9.jpg"
-primary_image_credit = "Cassandra Kay"
-publishDate = "2015-04-12T21:42:00-04:00"
-related_companies = ["scene/companies/oper-frankfurt.md", "scene/companies/opernhaus-zurich.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/florida-grand-opera.md", "scene/companies/teatro-alla-scala.md", "scene/companies/houston-grand-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/washington-national-opera.md"]
-slug = "tamara-wilson"
-title = "Tamara Wilson"
-website = "https://www.tamarawilsonsoprano.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/tamarawilsonsoprano?fref=ts"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/tamara_wilson_soprano/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UC6jidviYzIjuBRq_5mzIgzQ/feed"
-
-_template = "people_single"
-+++
+---
+date: "2015-04-12T21:42:00-04:00"
+discipline: Soprano
+lastmod: "2017-09-17T15:05:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1581276848/media/2020/02/TamaraWilson-CassandraKay_nsttw9.jpg
+primary_image_credit: Cassandra Kay
+publishDate: "2015-04-12T21:42:00-04:00"
+related_companies:
+- scene/companies/oper-frankfurt.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/washington-national-opera.md
+slug: tamara-wilson
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/tamarawilsonsoprano?fref=ts
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/tamara_wilson_soprano/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UC6jidviYzIjuBRq_5mzIgzQ/feed
+title: Tamara Wilson
+website: https://www.tamarawilsonsoprano.com/
+---
 Soprano Tamara Wilson is quickly gaining international recognition for her interpretations of Verdi, Mozart, Strauss and Wagner. She is the 2016 recipient of the prestigious Richard Tucker Award, an annual prize conferred by the Richard Tucker Music Foundation given to a rising American opera singer on the "threshold of an major international career."
 
 Other recent honors include a 2016 Olivier Award nomination and receipt of the 'Revelation Prize' by the Argentine Musical Critics Association. Ms. Wilson is also a Grand Prize Winner of the Annual Francisco Viñas Competition held at the Gran Teatre del Liceu in Barcelona, Spain.

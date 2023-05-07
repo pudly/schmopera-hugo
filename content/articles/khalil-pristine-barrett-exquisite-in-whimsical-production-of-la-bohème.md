@@ -1,22 +1,34 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Review"
-date = 2019-11-12T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Calgary Opera's production of [_La bohème_](https://www.calgaryopera.com/19-20/la_boheme) runs through November 15 at the Southern Alberta Jubilee Auditorium."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573570241/media/2019/11/sq342_calgaryopera_MiriamKhalil_AntoineBelanger_photoHarderLeePhotography_poqlfz.jpg"
-primary_image_credit = "Miriam Khalil (Mimì) and Antoine Bélanger (Rodolfo) in La bohème, Calgary Opera, 2019. Photo: Harder Lee Photography."
-related_articles = ["articles/tales-from-the-score-bohemians-in-love.md", "articles/hype-atg-boheme.md"]
-related_companies = ["scene/companies/calgary-opera.md"]
-related_people = ["scene/people/peter-mcgillivray.md", "scene/people/neil-craighead.md", "scene/people/peter-barrett.md", "scene/people/miriam-khalil.md"]
-short_description = "Calgary-born director Brenna Corner should be celebrated for her vision in making this production so memorable. Her sense of whimsy permeated everything, from the character relationships to the set design, resulting in an experience where one can sit back and let the drama unfold."
-slug = "khalil-pristine-barrett-exquisite-in-whimsical-production-of-la-boheme"
-title = "Khalil \"pristine,\" Barrett \"exquisite\" in whimsical production of La bohème"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Review
+date: "2019-11-12T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Calgary Opera's production of [_La bohème_](https://www.calgaryopera.com/19-20/la_boheme)
+  runs through November 15 at the Southern Alberta Jubilee Auditorium.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1573570241/media/2019/11/sq342_calgaryopera_MiriamKhalil_AntoineBelanger_photoHarderLeePhotography_poqlfz.jpg
+primary_image_credit: 'Miriam Khalil (Mimì) and Antoine Bélanger (Rodolfo) in La bohème,
+  Calgary Opera, 2019. Photo: Harder Lee Photography.'
+related_articles:
+- articles/tales-from-the-score-bohemians-in-love.md
+- articles/hype-atg-boheme.md
+related_companies:
+- scene/companies/calgary-opera.md
+related_people:
+- scene/people/peter-mcgillivray.md
+- scene/people/neil-craighead.md
+- scene/people/peter-barrett.md
+- scene/people/miriam-khalil.md
+short_description: Calgary-born director Brenna Corner should be celebrated for her
+  vision in making this production so memorable. Her sense of whimsy permeated everything,
+  from the character relationships to the set design, resulting in an experience where
+  one can sit back and let the drama unfold.
+slug: khalil-pristine-barrett-exquisite-in-whimsical-production-of-la-boheme
+title: Khalil "pristine," Barrett "exquisite" in whimsical production of La bohème
+youtube_url: ""
+---
 Puccini's _La bohème_ will forever hold a soft spot in my heart. As a plucky boy soprano, it was the first opera in which I ever performed. So with such an emotional attachment with the story and music of _La bohème_, my expectations are understandably high for Calgary Opera's season-opening production.
 
 Consider my expectations not only met, but far exceeded.

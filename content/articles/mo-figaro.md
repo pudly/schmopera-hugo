@@ -1,22 +1,34 @@
-+++
-author = ["authors/neil-weisensel.md"]
-categories = "Review"
-date = "2019-04-07T17:12:30+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "_The Barber of Seville_ runs at Manitoba Opera through April 12. For details and ticket information, [click here](https://mbopera.ca/season/the-barber-of-seville/). "
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554760004/media/2019/04/sqTNK1285.jpg"
-primary_image_credit = "Elliot Madore as Figaro in The Barber of Seville, Manitoba Opera, 2019. Photo: R. Tinker."
-related_articles = ["articles/laughing-out-loud-the-barber-of-seville-at-eno.md", "articles/a-perfect-fit-the-overcoat.md"]
-related_companies = ["scene/companies/manitoba-opera.md"]
-related_people = ["scene/people/andrea-lett.md", "scene/people/elliot-madore.md", "scene/people/andrew-owens.md", "scene/people/giles-tomkins.md", "scene/people/andrea-hill.md"]
-short_description = "The highly engaged audience was obviously enthralled with all elements of this production, laughing uproariously at onstage antics and giving hearty applause where appropriate (including at one especially effective lighting gag)."
-slug = "a-timeless-treat-manitoba-operas-barber-of-seville"
-title = "A timeless treat: Manitoba Opera's Barber of Seville"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/neil-weisensel.md
+categories: Review
+date: "2019-04-07T17:12:30+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '_The Barber of Seville_ runs at Manitoba Opera through April 12. For details
+  and ticket information, [click here](https://mbopera.ca/season/the-barber-of-seville/). '
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1554760004/media/2019/04/sqTNK1285.jpg
+primary_image_credit: 'Elliot Madore as Figaro in The Barber of Seville, Manitoba
+  Opera, 2019. Photo: R. Tinker.'
+related_articles:
+- articles/laughing-out-loud-the-barber-of-seville-at-eno.md
+- articles/a-perfect-fit-the-overcoat.md
+related_companies:
+- scene/companies/manitoba-opera.md
+related_people:
+- scene/people/andrea-lett.md
+- scene/people/elliot-madore.md
+- scene/people/andrew-owens.md
+- scene/people/giles-tomkins.md
+- scene/people/andrea-hill.md
+short_description: The highly engaged audience was obviously enthralled with all elements
+  of this production, laughing uproariously at onstage antics and giving hearty applause
+  where appropriate (including at one especially effective lighting gag).
+slug: a-timeless-treat-manitoba-operas-barber-of-seville
+title: 'A timeless treat: Manitoba Opera''s Barber of Seville'
+youtube_url: ""
+---
 Occasionally opera transcends the limitations of its genre and becomes simply a highly entertaining night at the theatre, albeit with some of the best music ever written, performed by full symphony orchestra and world-class singers. Manitoba Opera's _Barber of Seville_ is one of those occasions. Opera is, first and foremost, theatre, and it is the theatrical element of opera that I found especially intriguing tonight. I forgot that I was seeing an opera as I became enamoured with the characters, intrigued by their motivations, and utterly engrossed in this farcical Rossini tale that includes multiple disguises, star-crossed lovers, a clever barber and many hilarious sight gags.
 
 > It's not often you can come away from an opera being impressed at how good the direction and acting is, but it's certainly the case here.

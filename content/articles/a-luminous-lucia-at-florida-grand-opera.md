@@ -1,18 +1,30 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = "2017-11-13T14:08:00-05:00"
-lastmod = "2017-11-13T18:09:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510600667370/2017-11-13---square---Lucia-Anna-Christy-2-Photo-Credit-Chris-Kakol.jpg.jpg"
-primary_image_credit = "Anna Christy as Lucia in Lucia di Lammermoor, Florida Grand Opera, 2017. Photo: Chris Kakol."
-publishDate = "2017-11-13T18:09:00-05:00"
-related_articles = ["articles/a-lucia-with-agency-and-independence-at-the-royal-opera-house.md","articles/in-review-lucia-di-lammermoor-at-roh.md"]
-related_companies = ["scene/companies/florida-grand-opera.md"]
-related_people = ["scene/people/simon-dyer.md","scene/people/haeran-hong.md","scene/people/jesus-leon.md"]
-short_description = "Soprano Haeran Hong in the title role was superb. Her performance from start to finish was a spellbinding display of virtuosity and musical imagination; her mad scene cadenza felt effortless, almost improvised. She captured a range of emotion and colour to rival the soaring range of notes — flawlessly executed — that comprise Donizetti&#039;s challenging score."
-slug = "a-luminous-lucia-at-florida-grand-opera"
-title = "A luminous Lucia at Florida Grand Opera"
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2017-11-13T14:08:00-05:00"
+lastmod: "2017-11-13T18:09:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510600667370/2017-11-13---square---Lucia-Anna-Christy-2-Photo-Credit-Chris-Kakol.jpg.jpg
+primary_image_credit: 'Anna Christy as Lucia in Lucia di Lammermoor, Florida Grand
+  Opera, 2017. Photo: Chris Kakol.'
+publishDate: "2017-11-13T18:09:00-05:00"
+related_articles:
+- articles/a-lucia-with-agency-and-independence-at-the-royal-opera-house.md
+- articles/in-review-lucia-di-lammermoor-at-roh.md
+related_companies:
+- scene/companies/florida-grand-opera.md
+related_people:
+- scene/people/simon-dyer.md
+- scene/people/haeran-hong.md
+- scene/people/jesus-leon.md
+short_description: Soprano Haeran Hong in the title role was superb. Her performance
+  from start to finish was a spellbinding display of virtuosity and musical imagination;
+  her mad scene cadenza felt effortless, almost improvised. She captured a range of
+  emotion and colour to rival the soaring range of notes — flawlessly executed — that
+  comprise Donizetti&#039;s challenging score.
+slug: a-luminous-lucia-at-florida-grand-opera
+title: A luminous Lucia at Florida Grand Opera
+---
 
 The [*Lucia di Lammermoor*](http://tickets.fgo.org/Tickets/EventDetails.aspx?id=1592) "mad scene" is, to say the least, iconic. Gowned in nuptial white and bathed in blood, Lucia sings to the hallucinated spectre of her lover, Edgardo, after having murdered Arturo, the nobleman she was forced to marry. A quick YouTube survey turns up widely varied interpretations — Lucias who are defiant, urgent, and dangerous; or Lucias who are broken and frail, ethereal tropes of female mental fragility.
 

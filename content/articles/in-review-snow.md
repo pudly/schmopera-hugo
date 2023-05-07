@@ -1,17 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-02-23T11:01:00+00:00"
-lastmod = "2017-02-23T13:47:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487849468895/2017-02-23---Square-NR-17-02-17-112.jpg.jpg"
-primary_image_credit = "Photo by Nick Rutter."
-publishDate = "2017-02-23T13:47:00+00:00"
-related_articles = ["articles/tarrare-the-freak-i-just-want-to-be-full.md","articles/delightfully-creepy-mahogany-opera-groups-the-rattler.md","articles/in-review-pop-up-operas-i-capuleti-e-i-montecchi.md"]
-related_people = ["scene/people/alice-privett.md","scene/people/rick-zwart.md","scene/people/polly-leech.md","scene/people/alison-langer.md","scene/people/cliff-zammit-stevens.md"]
-short_description = "&quot;The absence of the narrative episode in which Snow White is bewitched into suspended animation by her jealous stepmother leaves a tantalizing question about how our heroine comes to be interred in a casket,&quot; writes Hurley in his director&#039;s notes. &quot;Snow White&#039;s implied death became the conceptual starting point for approaching the three operas as a through-drama; a young woman at the end of her life searches her past for clues to her tragedy.&quot;"
-slug = "in-review-snow"
-title = "In review: Snow"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-02-23T11:01:00+00:00"
+lastmod: "2017-02-23T13:47:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487849468895/2017-02-23---Square-NR-17-02-17-112.jpg.jpg
+primary_image_credit: Photo by Nick Rutter.
+publishDate: "2017-02-23T13:47:00+00:00"
+related_articles:
+- articles/tarrare-the-freak-i-just-want-to-be-full.md
+- articles/delightfully-creepy-mahogany-opera-groups-the-rattler.md
+- articles/in-review-pop-up-operas-i-capuleti-e-i-montecchi.md
+related_people:
+- scene/people/alice-privett.md
+- scene/people/rick-zwart.md
+- scene/people/polly-leech.md
+- scene/people/alison-langer.md
+- scene/people/cliff-zammit-stevens.md
+short_description: '&quot;The absence of the narrative episode in which Snow White
+  is bewitched into suspended animation by her jealous stepmother leaves a tantalizing
+  question about how our heroine comes to be interred in a casket,&quot; writes Hurley
+  in his director&#039;s notes. &quot;Snow White&#039;s implied death became the conceptual
+  starting point for approaching the three operas as a through-drama; a young woman
+  at the end of her life searches her past for clues to her tragedy.&quot;'
+slug: in-review-snow
+title: 'In review: Snow'
+---
 
 Three one-act operas, set by three composers and one librettist, make up *Snow*, the new work presented by [The Opera Story](http://theoperastory.com/) based on the lesser-known corners of the story of Snow White.
 

@@ -1,29 +1,36 @@
-+++
-date = "2015-04-14T10:21:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-14T10:21:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550427185/media/2019/02/MireilleAsselinBoHuang.jpg"
-primary_image_credit = "Photo by Bo Huang."
-publishDate = "2015-04-14T10:21:00-04:00"
-related_companies = ["scene/companies/garsington-opera.md", "scene/companies/soundstreams.md", "scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/odyssey-opera.md", "scene/companies/opera-atelier.md", "scene/companies/canadian-opera-company.md", "scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/wolf-trap-opera.md"]
-slug = "mireille-asselin"
-title = "Mireille Asselin"
-website = "http://www.mireilleasselin.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Mireille-Asselin-Soprano/192666657416098?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MireilleSoprano"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/mireilleasselin/"
-
-_template = "people_single"
-+++
+---
+date: "2015-04-14T10:21:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-14T10:21:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550427185/media/2019/02/MireilleAsselinBoHuang.jpg
+primary_image_credit: Photo by Bo Huang.
+publishDate: "2015-04-14T10:21:00-04:00"
+related_companies:
+- scene/companies/garsington-opera.md
+- scene/companies/soundstreams.md
+- scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/odyssey-opera.md
+- scene/companies/opera-atelier.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/wolf-trap-opera.md
+slug: mireille-asselin
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Mireille-Asselin-Soprano/192666657416098?fref=ts
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/MireilleSoprano
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/mireilleasselin/
+title: Mireille Asselin
+website: http://www.mireilleasselin.com/
+---
 A singer deemed “a treasure” by The Toronto Star and praised by Opera Canada as a “soprano that charms and brightens a room”, Mireille Asselin enjoys a diverse, international career spanning concert, opera and recital work. To date, Mireille has sung five seasons at the Metropolitan Opera, where she debuted as Poussette in MANON. She then made waves by jumping in as Adele for opening night of DIE FLEDERMAUS under the baton of James Levine, giving a performance that critics raved “stole the show”, hailing it as one of New York’s “most enchanting” of the season.
 
 In 2019-2020 Mireille makes debuts with Théâtre des Champs Elysées in Paris (Zerlina, DON GIOVANNI), l’Orchestre de Chambre de Paris (Mozart’s REQUIEM), the Milwaukee Symphony (Handel’s MESSIAH) and the Caramoor Festival (Venus, Rameau’s DARDANUS). She also returns to sing at Carnegie Hall (Bach’s CHRISTMAS ORATORIO), Columbus Opera (Monteverdi’s POPPEA), and Opera Atelier (Zerlina, DON GIOVANNI). In addition, she will perform extensively with the Mirror Visions Ensemble in recitals across North America and her recording of Haydn’s HARMONIEMESSE with the Handel and Haydn Society will be released on the CORO label.

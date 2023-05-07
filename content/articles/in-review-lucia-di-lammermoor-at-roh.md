@@ -1,18 +1,44 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-04-08T10:27:00+01:00"
-lastmod = "2017-01-09T10:29:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460109525136/2016-04-08---PR8A1676-DIANA-DAMRAU-AS-LUCIA-ROH-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg.jpg"
-primary_image_credit = "Diana Damrau as Lucia in the ROH's Lucia di Lammermoor. Photo by Stephen Cummiskey."
-publishDate = "2016-04-08T11:24:00+01:00"
-related_articles = ["articles/in-review-tcherniakovs-don-giovanni.md","articles/when-critics-are-jerks.md","articles/once-agan-shushing-meanies.md","articles/in-review-tannhauser-at-roh.md","articles/in-review-norma-at-roh.md","articles/in-review-cosi-fan-tutte-at-roh.md","articles/in-review-les-contes-dhoffmann.md","articles/in-review-il-trovatore-at-roh.md","articles/in-review-der-rosenkavalier-at-roh.md","articles/in-review-la-traviata-at-roh.md","articles/booing-at-the-opera-why.md","articles/in-review-adriana-lecouvreur-at-roh.md","articles/in-review-the-exterminating-angel-at-roh.md","articles/a-lucia-with-agency-and-independence-at-the-royal-opera-house.md","articles/a-luminous-lucia-at-florida-grand-opera.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/diana-damrau.md","scene/people/charles-castronovo.md","scene/people/ludovic-tezier.md"]
-short_description = "There was Lucia, embodying the most horrible, messy, inappropriate and inconvenient lows in a woman&#039;s life. By showing us all these unseen scenes, Mitchell managed to create a real relationship not only between Lucia and Edgardo, but between Lucia and Alisa, sung and acted beautifully by Rachael Lloyd. The gross differences between victory and loss, men&#039;s stories and women&#039;s, were powerful."
-slug = "in-review-lucia-di-lammermoor-at-roh"
-title = "In review: Lucia di Lammermoor at ROH"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-04-08T10:27:00+01:00"
+lastmod: "2017-01-09T10:29:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460109525136/2016-04-08---PR8A1676-DIANA-DAMRAU-AS-LUCIA-ROH-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg.jpg
+primary_image_credit: Diana Damrau as Lucia in the ROH's Lucia di Lammermoor. Photo
+  by Stephen Cummiskey.
+publishDate: "2016-04-08T11:24:00+01:00"
+related_articles:
+- articles/in-review-tcherniakovs-don-giovanni.md
+- articles/when-critics-are-jerks.md
+- articles/once-agan-shushing-meanies.md
+- articles/in-review-tannhauser-at-roh.md
+- articles/in-review-norma-at-roh.md
+- articles/in-review-cosi-fan-tutte-at-roh.md
+- articles/in-review-les-contes-dhoffmann.md
+- articles/in-review-il-trovatore-at-roh.md
+- articles/in-review-der-rosenkavalier-at-roh.md
+- articles/in-review-la-traviata-at-roh.md
+- articles/booing-at-the-opera-why.md
+- articles/in-review-adriana-lecouvreur-at-roh.md
+- articles/in-review-the-exterminating-angel-at-roh.md
+- articles/a-lucia-with-agency-and-independence-at-the-royal-opera-house.md
+- articles/a-luminous-lucia-at-florida-grand-opera.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/diana-damrau.md
+- scene/people/charles-castronovo.md
+- scene/people/ludovic-tezier.md
+short_description: There was Lucia, embodying the most horrible, messy, inappropriate
+  and inconvenient lows in a woman&#039;s life. By showing us all these unseen scenes,
+  Mitchell managed to create a real relationship not only between Lucia and Edgardo,
+  but between Lucia and Alisa, sung and acted beautifully by Rachael Lloyd. The gross
+  differences between victory and loss, men&#039;s stories and women&#039;s, were
+  powerful.
+slug: in-review-lucia-di-lammermoor-at-roh
+title: 'In review: Lucia di Lammermoor at ROH'
+---
 
 The hype surrounding [Katie Mitchell](http://www.roh.org.uk/people/katie-mitchell)'s new production of *Lucia di Lammermoor*, currently on at the [Royal Opera House](/scene/companies/royal-opera-house/), was no empty threat. Much had been made of the warnings sent out to subscribers that this *Lucia* would feature violence and shocking scenes, and [Diana Damrau](/scene/people/diana-damrau/) herself [told *The Guardian*](http://www.theguardian.com/music/2016/mar/20/be-ready-for-blood-diana-damrau) that audiences would feel "shaken" after seeing it. "Shaken" is right, in every positive meaning of that word.
 

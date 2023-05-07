@@ -1,19 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-02-12T18:27:00-05:00"
-lastmod = "2018-02-13T09:05:00-05:00"
-preamble = "American countertenor [John Holiday](/scene/people/john-holiday/) sings [Handel](https://www.youtube.com/watch?v=-TmQG2GkX1c) as comfortably as he does jazz and spirituals, even [accompanying himself at the piano](https://www.youtube.com/watch?v=yf7xu0f91wk). Joining the ranks of Denyce Graves, Eric Owens, and Lawrence Brownlee, Holiday is the 2017 Winner of the Marian Anderson Vocal Award; in conjuction with the award, he will make his [Kennedy Center recital debut](http://www.kennedy-center.org/calendar/event/OSOCC) on **February 15**.\n\nIt was a treat to talk with Holiday about the great care he takes with his craft, the importance of a support system, and music as his \"sanctuary\"."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518478051521/sq---John-Holiday%2C-credit-Fay-Fox-02.jpg.jpg"
-primary_image_credit = "Photo by Fay Fox."
-publishDate = "2018-02-13T09:05:00-05:00"
-related_articles = ["articles/talking-with-singers-jnai-bridges.md","articles/talking-with-singers-jorell-williams.md","articles/talking-with-singers-matthew-polenzani.md"]
-related_companies = ["scene/companies/washington-national-opera.md"]
-related_people = ["scene/people/john-holiday.md"]
-short_description = "&quot;I can remember dragging myself out of my third floor dorm room, in Mary Hay Hall (sidenote: Above my room, there was a plaque that read &#039;Future Leaders of Tomorrow&#039;), and being late to those required acting classes for music majors.  Ladies and gentlemen, if you&#039;re reading, take advantage of those classes.  You&#039;ll be thankful you did.&quot;"
-slug = "talking-with-singers-john-holiday"
-title = "Talking with singers: John Holiday"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-02-12T18:27:00-05:00"
+lastmod: "2018-02-13T09:05:00-05:00"
+preamble: |-
+  American countertenor [John Holiday](/scene/people/john-holiday/) sings [Handel](https://www.youtube.com/watch?v=-TmQG2GkX1c) as comfortably as he does jazz and spirituals, even [accompanying himself at the piano](https://www.youtube.com/watch?v=yf7xu0f91wk). Joining the ranks of Denyce Graves, Eric Owens, and Lawrence Brownlee, Holiday is the 2017 Winner of the Marian Anderson Vocal Award; in conjuction with the award, he will make his [Kennedy Center recital debut](http://www.kennedy-center.org/calendar/event/OSOCC) on **February 15**.
+
+  It was a treat to talk with Holiday about the great care he takes with his craft, the importance of a support system, and music as his "sanctuary".
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518478051521/sq---John-Holiday%2C-credit-Fay-Fox-02.jpg.jpg
+primary_image_credit: Photo by Fay Fox.
+publishDate: "2018-02-13T09:05:00-05:00"
+related_articles:
+- articles/talking-with-singers-jnai-bridges.md
+- articles/talking-with-singers-jorell-williams.md
+- articles/talking-with-singers-matthew-polenzani.md
+related_companies:
+- scene/companies/washington-national-opera.md
+related_people:
+- scene/people/john-holiday.md
+short_description: '&quot;I can remember dragging myself out of my third floor dorm
+  room, in Mary Hay Hall (sidenote: Above my room, there was a plaque that read &#039;Future
+  Leaders of Tomorrow&#039;), and being late to those required acting classes for
+  music majors.  Ladies and gentlemen, if you&#039;re reading, take advantage of those
+  classes.  You&#039;ll be thankful you did.&quot;'
+slug: talking-with-singers-john-holiday
+title: 'Talking with singers: John Holiday'
+---
 
 ## Why do you sing professionally?
 

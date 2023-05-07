@@ -1,17 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-03-22T11:10:00-04:00"
-lastmod = "2015-04-24T09:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883305749/Herring.jpg.jpg"
-publishDate = "2014-03-22T11:10:00-04:00"
-related_articles = ["articles/in-review-the-telephone-the-medium.md","articles/joel-ivany-were-throwing-a-salon.md","articles/duets-for-lunch-uoft-opera-in-concert.md","articles/reflective-stories-rcms-the-cunning-little-vixen.md"]
-related_companies = ["scene/companies/university-of-toronto-opera.md"]
-related_people = ["scene/people/ryan-downey.md","scene/people/adanya-dunn.md","scene/people/iain-macneil.md","scene/people/joel-ivany.md","scene/people/william-ford.md","scene/people/laurelle-jade-froese.md"]
-short_description = "So much celebration happened on Thursday night. Director Joel Ivany celebrated the opening night of his production of Benjamin Britten&#039;s Albert Herring in the MacMillan theatre at the University of Toronto. UofT celebrated the 50th anniversary of its first opera performance in 1964: Albert Herring. And of course, everyone celebrated Albert the Good."
-slug = "in-review-albert-herring-at-uoft-opera"
-title = "In review: Albert Herring at UofT Opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-03-22T11:10:00-04:00"
+lastmod: "2015-04-24T09:56:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883305749/Herring.jpg.jpg
+publishDate: "2014-03-22T11:10:00-04:00"
+related_articles:
+- articles/in-review-the-telephone-the-medium.md
+- articles/joel-ivany-were-throwing-a-salon.md
+- articles/duets-for-lunch-uoft-opera-in-concert.md
+- articles/reflective-stories-rcms-the-cunning-little-vixen.md
+related_companies:
+- scene/companies/university-of-toronto-opera.md
+related_people:
+- scene/people/ryan-downey.md
+- scene/people/adanya-dunn.md
+- scene/people/iain-macneil.md
+- scene/people/joel-ivany.md
+- scene/people/william-ford.md
+- scene/people/laurelle-jade-froese.md
+short_description: 'So much celebration happened on Thursday night. Director Joel
+  Ivany celebrated the opening night of his production of Benjamin Britten&#039;s
+  Albert Herring in the MacMillan theatre at the University of Toronto. UofT celebrated
+  the 50th anniversary of its first opera performance in 1964: Albert Herring. And
+  of course, everyone celebrated Albert the Good.'
+slug: in-review-albert-herring-at-uoft-opera
+title: 'In review: Albert Herring at UofT Opera'
+---
 
 So much celebration happened on Thursday night. Director [Joel Ivany](http://www.joelivany.com/index/biography.html) celebrated the opening night of his production of Benjamin Britten's _Albert Herring_ in the MacMillan theatre at the University of Toronto. UofT celebrated the [50th anniversary](http://performance.rcmusic.ca/event/university-toronto-faculty-music-presents-brbritten-albert-herring-2) of its first opera performance in 1964: _Albert Herring_. And of course, everyone celebrated Albert the Good.
 

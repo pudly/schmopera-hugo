@@ -1,15 +1,17 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666561784/media/2022/10/EttaFung_h2mpm1.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/the-banff-centre.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/edmonton-opera.md"]
-slug = "etta-fung"
-social_media = []
-title = "Etta Fung"
-website = "https://www.ettafung.com/"
-
-_template = "people_single"
-+++
+---
+_template: people_single
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1666561784/media/2022/10/EttaFung_h2mpm1.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/the-banff-centre.md
+- scene/companies/lyric-opera-of-kansas-city.md
+- scene/companies/edmonton-opera.md
+slug: etta-fung
+social_media: []
+title: Etta Fung
+website: https://www.ettafung.com/
+---
 Coloratura soprano Etta Fung is known for her "charm and verve" (Opera Today) and powerful stage presence. Etta made her European debut as Gretel (Hänsel und Gretel) at the Neue Eutiner Festspiele (2011) in Eutin, Germany and received critical acclaim in the Hamburger Abendblatt: "(Fung) acted with great enthusiasm, her powerful soprano voice underscoring the Wagnerian sounds of the score". Since then Etta has performed actively in Europe. She appeared as Susanna (Le Nozze di Figaro) in the Trentino Music Festival at Mezzano, Italy; and La Fée (Cendrillon) and die Königin der Nacht (Die Zauberflöte) in the Siena Music Festival.
 
 Etta made her American debut as Peep-Bo (Mikado) with the Lyric Opera of Kansas City (2012-2013). Other roles she has performed in the United States include Musetta (La Bohème), Susanna (Le Nozze di Figaro), Lucia (Rape of Lucretia), Pamina (Die Zauberflöte), Gretel (Hänsel und Gretel), Atalanta (Serse) and Anne Trulove (The Rake's Progress) and the cover of Adele (Die Fledermaus) at Martina Arroyo's Prelude to Performance.

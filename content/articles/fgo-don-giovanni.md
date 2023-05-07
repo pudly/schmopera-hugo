@@ -1,25 +1,34 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = 2019-11-21T05:00:00Z
-discipline = ""
-disclaimer = ""
-image_gallery = []
-postamble = "Florida Grand Opera's production of [_Don Giovanni_](https://tickets.fgo.org/Tickets/EventDetails.aspx?id=1881) is onstage through December 7."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574351674/media/2019/11/20191114_Don_Giovanni_173A6470_mdrkmj.jpg"
-primary_image_credit = "Florida Grand Opera's production of Don Giovanni, 2019. Photo: Daniel Azoulay."
-related_articles = ["articles/in-review-tcherniakovs-don-giovanni.md", "articles/boc-s-don-giovanni-smart-and-relevant.md"]
-related_companies = ["scene/companies/florida-grand-opera.md"]
-related_people = ["scene/people/elizabeth-caballero.md"]
-short_description = "The over-the-top, 50's-horror-movie vibes of the opera's finale? Go ahead and laugh (some in the audience did). But an aria cataloguing thousands of victims of rape; a rapist sharply calling a survivor of his violence \"You bitch!\" – we should feel uncomfortable laughing at these moments."
-slug = "rightly-uncomfortable-fgos-don-giovanni"
-social_media = []
-title = "Rightly uncomfortable: FGO's Don Giovanni"
-website = ""
-youtube_url = ""
-
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2019-11-21T05:00:00Z"
+discipline: ""
+disclaimer: ""
+image_gallery: []
+postamble: Florida Grand Opera's production of [_Don Giovanni_](https://tickets.fgo.org/Tickets/EventDetails.aspx?id=1881)
+  is onstage through December 7.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1574351674/media/2019/11/20191114_Don_Giovanni_173A6470_mdrkmj.jpg
+primary_image_credit: 'Florida Grand Opera''s production of Don Giovanni, 2019. Photo:
+  Daniel Azoulay.'
+related_articles:
+- articles/in-review-tcherniakovs-don-giovanni.md
+- articles/boc-s-don-giovanni-smart-and-relevant.md
+related_companies:
+- scene/companies/florida-grand-opera.md
+related_people:
+- scene/people/elizabeth-caballero.md
+short_description: The over-the-top, 50's-horror-movie vibes of the opera's finale?
+  Go ahead and laugh (some in the audience did). But an aria cataloguing thousands
+  of victims of rape; a rapist sharply calling a survivor of his violence "You bitch!"
+  – we should feel uncomfortable laughing at these moments.
+slug: rightly-uncomfortable-fgos-don-giovanni
+social_media: []
+title: 'Rightly uncomfortable: FGO''s Don Giovanni'
+website: ""
+youtube_url: ""
+---
 _Content warning: Rape, sexual assault_
 
 ***

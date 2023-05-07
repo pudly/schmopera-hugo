@@ -1,22 +1,32 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2019-06-17T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1560816767/media/2019/06/sqAsOne.jpg"
-primary_image_credit = "Jorell Williams (left) and Briana Elyse Hunter as Hannah in AS ONE. Presented by Kaufman Music Center in association with New York City Opera and American Opera Projects. Photo: Steven Pisano Photography."
-related_articles = ["articles/as-one-they-both-took-risks-that-paid-off.md"]
-related_companies = ["scene/companies/american-opera-projects.md"]
-related_people = ["scene/people/briana-elyse-hunter.md", "scene/people/jorell-williams.md"]
-short_description = "It’s a truly original idea. Two performers (a mezzo soprano and baritone,) portraying two sides of the same coin: a transgender character named Hannah. Born a boy and dressed like a boy in sneakers and a letterman jacket, Hannah (in the baritone phase of their life) secretly wears a blouse underneath because “it feels so right,” as they deliver their newspapers on a paper route."
-slug = "when-its-not-about-the-music-per-se"
-title = "When it's not about the music per se"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2019-06-17T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1560816767/media/2019/06/sqAsOne.jpg
+primary_image_credit: 'Jorell Williams (left) and Briana Elyse Hunter as Hannah in
+  AS ONE. Presented by Kaufman Music Center in association with New York City Opera
+  and American Opera Projects. Photo: Steven Pisano Photography.'
+related_articles:
+- articles/as-one-they-both-took-risks-that-paid-off.md
+related_companies:
+- scene/companies/american-opera-projects.md
+related_people:
+- scene/people/briana-elyse-hunter.md
+- scene/people/jorell-williams.md
+short_description: 'It’s a truly original idea. Two performers (a mezzo soprano and
+  baritone,) portraying two sides of the same coin: a transgender character named
+  Hannah. Born a boy and dressed like a boy in sneakers and a letterman jacket, Hannah
+  (in the baritone phase of their life) secretly wears a blouse underneath because
+  “it feels so right,” as they deliver their newspapers on a paper route.'
+slug: when-its-not-about-the-music-per-se
+title: When it's not about the music per se
+youtube_url: ""
+---
 Laura Kaminsky's opera _As One_ is billed as "the most produced opera written in the 21st century" and on almost every level you can understand why.  A well-executed concept, a timely story, a clever director, and two compelling performances add up to a satisfying evening, even though the music does not exactly add up to an opera.  Program notes admit that the evening is more of a song cycle but it's a meandering one at that. Ms. Kaminsky has composed some very good string quartet music that straddles both the 19th and 20th century in style, but the vocals are essentially nothing but recitative hanging above it all. The effect is one of voices hovering over an inviting landscape without finding anywhere to land.
 
 >It's a singularly "on the nose" moment in an otherwise subtle and symbolic tale from two adept storytellers.

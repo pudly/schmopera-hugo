@@ -1,22 +1,37 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-03-31T22:39:58+00:00"
-disclaimer = "Content Warning: A real-life experience with sexual assault is discussed in this review. Permission was granted from the victim to discuss the assault in question. Reader discretion is heavily advised."
-image_gallery = []
-postamble = "Boston Opera Collaborative's production of _Don Giovanni_ runs through April 6. For details and ticket information, [click here](https://www.bostonoperacollaborative.org/don-giovanni-march-19)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554072100/media/2019/03/sqBOCDonG032619-2964.jpg"
-primary_image_credit = "Junhan Choi (Don Giovanni) in Boston Opera Collaborative's production of Don Giovanni, 2019. Photo: Dan Busler."
-related_articles = ["articles/in-review-tcherniakovs-don-giovanni.md", "articles/when-don-giovanni-is-the-don.md", "articles/rehearsing-trauma-how-working-on-an-opera-helped-me-heal.md"]
-related_companies = ["scene/companies/boston-opera-collaborative.md"]
-related_people = ["scene/people/jessica-jane-jacobs.md", "scene/people/fran-rogers.md", "scene/people/john-bitsas.md", "scene/people/junhan-choi.md"]
-short_description = "From the beginning, the production ensures that you do not forget this is about the Me Too movement: the show begins with a slideshow of people like Harvey Weinstein and others that is prefaced with Trump's now-infamous \"grab them by the pussy\" comments. "
-slug = "bocs-don-giovanni-smart-and-relevant"
-title = "BOC's Don Giovanni smart and relevant"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-03-31T22:39:58+00:00"
+disclaimer: 'Content Warning: A real-life experience with sexual assault is discussed
+  in this review. Permission was granted from the victim to discuss the assault in
+  question. Reader discretion is heavily advised.'
+image_gallery: []
+postamble: Boston Opera Collaborative's production of _Don Giovanni_ runs through
+  April 6. For details and ticket information, [click here](https://www.bostonoperacollaborative.org/don-giovanni-march-19).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1554072100/media/2019/03/sqBOCDonG032619-2964.jpg
+primary_image_credit: 'Junhan Choi (Don Giovanni) in Boston Opera Collaborative''s
+  production of Don Giovanni, 2019. Photo: Dan Busler.'
+related_articles:
+- articles/in-review-tcherniakovs-don-giovanni.md
+- articles/when-don-giovanni-is-the-don.md
+- articles/rehearsing-trauma-how-working-on-an-opera-helped-me-heal.md
+related_companies:
+- scene/companies/boston-opera-collaborative.md
+related_people:
+- scene/people/jessica-jane-jacobs.md
+- scene/people/fran-rogers.md
+- scene/people/john-bitsas.md
+- scene/people/junhan-choi.md
+short_description: 'From the beginning, the production ensures that you do not forget
+  this is about the Me Too movement: the show begins with a slideshow of people like
+  Harvey Weinstein and others that is prefaced with Trump''s now-infamous "grab them
+  by the pussy" comments. '
+slug: bocs-don-giovanni-smart-and-relevant
+title: BOC's Don Giovanni smart and relevant
+youtube_url: ""
+---
 It is a very common thread in present-day opera performance that directors will often try to mold a classic of the operatic repertoire in a way that comments on themes and topics relevant to the modern day and not necessarily to the time of the opera's origin. Frequently, this is met with disastrous results, as the works typically do not have the plasticity necessary to stand up to such a treatment. However, some parts of the operatic repertory do stand up to reinvention better than others: of these, perhaps the likeliest candidates for reinterpretation are Wolfgang Amadeus Mozart's collaborations with Lorenzo da Ponte: after all, these are works whose gender politics have had to be constantly reinterpreted as time has marched on.
 
 Thus, we come to [Boston Opera Collaborative](/scene/companies/boston-opera-collaborative/)'s production of _Don Giovanni_, which is presently playing in the Ben Franklin Institute of Technology. _Don Giovanni_ in particular has such strong themes surrounding gender politics and sexual violence that producing it today will brush up with the #MeToo movement in some way. Perhaps realizing that a production of an opera about a serial womanizer which begins with an off-stage rape would engage with #MeToo no matter how it's played, stage co-directors Patricia-Maria Weinmann and Greg Smucker choose to completely embrace the #MeToo element in practically every part of the production, and it does so in ways that are surprising and incredibly smart in a way that ties into Mozart and Da Ponte's work beautifully.

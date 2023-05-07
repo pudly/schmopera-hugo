@@ -1,24 +1,29 @@
-+++
-date = "2015-04-07T14:11:00+01:00"
-discipline = "Bass-baritone"
-lastmod = "2016-03-22T19:40:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458675587009/2016-03-22---Christian_van_Horn_Simon_Pauley.jpg.jpg"
-primary_image_credit = "Simon Pauley"
-publishDate = "2015-04-07T14:11:00+01:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/los-angeles-opera.md"]
-slug = "christian-van-horn"
-title = "Christian van Horn"
-website = "http://www.christianvanhorn.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Christian-Van-Horn-Bass-baritone/81970265797"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/VanHornCVH"
-_template = "people_single"
-+++
+---
+date: "2015-04-07T14:11:00+01:00"
+discipline: Bass-baritone
+lastmod: "2016-03-22T19:40:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458675587009/2016-03-22---Christian_van_Horn_Simon_Pauley.jpg.jpg
+primary_image_credit: Simon Pauley
+publishDate: "2015-04-07T14:11:00+01:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/los-angeles-opera.md
+slug: christian-van-horn
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Christian-Van-Horn-Bass-baritone/81970265797
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/VanHornCVH
+title: Christian van Horn
+website: http://www.christianvanhorn.com/
+---
 
 <p>
 	American bass-baritone Christian Van Horn has appeared with many of the world's most prestegious opera companies, including San Francisco Opera, the Metropolitan Opera, Lyric Opera of Chicago, Bayerische Staatsoper, the Salzburg Festival, Los Angeles Opera, Grand Théâtre du Genève, and Canadian Opera Company. His roles include the title role in <em>Le nozze di Figaro</em>, the Four Villains in <em>Les Contes d'Hoffmann</em>, Mephistopheles in <em>Faust</em>, Raimondo in <em>Lucia di Lammermoor</em>, Banquo in <em>Macbeth</em>, Colline in <em>La Bohème</em>, and Claudio in <em>Aggrippina</em>. Mr. Van Horn has also appeared as a concert soloist with the Berlin Philharmonic, Chicago Symphony Orchestra and the Los Angeles Philharmonic among others.

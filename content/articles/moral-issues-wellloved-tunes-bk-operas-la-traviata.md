@@ -1,17 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-08-02T13:26:00-04:00"
-lastmod = "2017-08-08T20:25:00-04:00"
-preamble = "Based in Melbourne, Australia, [BK Opera](/scene/companies/bk-opera/) is set to open its production of [*La traviata*](https://www.bkopera.com.au/la-traviata-2017), **August 18-26**. BK Opera is all about \"the 'bare bones' of the opera, stripping away the usual pomp and circumstance to find the raw emotion at the heart of these pieces. No sets. No props. No microphones. Just beautiful music and amazing singers.\"\n\nVerdi's *Traviata* is a prime choice for bringing focus on great music and great singing, and we had the chance to chat with BK Opera conductor [James Penn](https://www.bkopera.com.au/james-penn) about what makes the opera and its characters so timeless."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502236396458/2017-08-09---BK-Traviata-Square.jpg.jpg"
-primary_image_credit = "Promotional image courtesy of BK Opera."
-publishDate = "2017-08-08T19:54:00-04:00"
-related_companies = ["scene/companies/bk-opera.md"]
-short_description = "&quot;I think the idea that Violetta is a delicate, fragile person who sacrifices herself for a man is a problematic one. She makes the decision to leave Alfredo with a heavy heart and is independent and strong - which then makes her death all the more heart-wrenching.&quot;"
-slug = "moral-issues-wellloved-tunes-bk-operas-la-traviata"
-title = "Moral issues &amp; well-loved tunes: BK Opera&#039;s La traviata"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-08-02T13:26:00-04:00"
+lastmod: "2017-08-08T20:25:00-04:00"
+preamble: |-
+  Based in Melbourne, Australia, [BK Opera](/scene/companies/bk-opera/) is set to open its production of [*La traviata*](https://www.bkopera.com.au/la-traviata-2017), **August 18-26**. BK Opera is all about "the 'bare bones' of the opera, stripping away the usual pomp and circumstance to find the raw emotion at the heart of these pieces. No sets. No props. No microphones. Just beautiful music and amazing singers."
+
+  Verdi's *Traviata* is a prime choice for bringing focus on great music and great singing, and we had the chance to chat with BK Opera conductor [James Penn](https://www.bkopera.com.au/james-penn) about what makes the opera and its characters so timeless.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502236396458/2017-08-09---BK-Traviata-Square.jpg.jpg
+primary_image_credit: Promotional image courtesy of BK Opera.
+publishDate: "2017-08-08T19:54:00-04:00"
+related_companies:
+- scene/companies/bk-opera.md
+short_description: '&quot;I think the idea that Violetta is a delicate, fragile person
+  who sacrifices herself for a man is a problematic one. She makes the decision to
+  leave Alfredo with a heavy heart and is independent and strong - which then makes
+  her death all the more heart-wrenching.&quot;'
+slug: moral-issues-wellloved-tunes-bk-operas-la-traviata
+title: 'Moral issues &amp; well-loved tunes: BK Opera&#039;s La traviata'
+---
 
 ## What elements of "immorality" that surrounded La traviata when it was first written do you think still hold weight today?
 

@@ -1,19 +1,33 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = "2018-02-20T16:26:00-05:00"
-lastmod = "2018-02-21T16:06:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519161900489/sq---La-Boheme_0640.jpg.jpg"
-primary_image_credit = "Jason Slayden (Rodolfo), Lucia Cesaroni (Mimì), Stephen Hegedus, and Brett Polegato (Marcello) in Pacific Opera Victoria's production of La Bohème, February 2018. Photo: David Cooper."
-publishDate = "2018-02-20T16:26:00-05:00"
-related_articles = ["articles/hype-atg-boheme.md"]
-related_companies = ["scene/companies/pacific-opera-victoria.md"]
-related_people = ["scene/people/lucia-cesaroni.md", "scene/people/sharleen-joynt.md", "scene/people/brett-polegato.md", "scene/people/stephen-hegedus.md", "scene/people/andrew-love.md", "scene/people/jason-slayden.md"]
-short_description = "In this version, Mimì is far more coquettish - obviously trying to catch Rodolfo&#039;s interest in a more seductive way than is typical of the demure Mimì we typically expect. Slayden&#039;s &quot;Che gelida manina&quot; was absolutely breathtaking, his voice resonant and brilliant, and he absolutely brought the house down with his flawless performance."
-slug = "lovely-and-sincere-povs-la-bohème"
-title = "Lovely and sincere: POV&#039;s La Bohème"
-
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2018-02-20T16:26:00-05:00"
+lastmod: "2018-02-21T16:06:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519161900489/sq---La-Boheme_0640.jpg.jpg
+primary_image_credit: 'Jason Slayden (Rodolfo), Lucia Cesaroni (Mimì), Stephen Hegedus,
+  and Brett Polegato (Marcello) in Pacific Opera Victoria''s production of La Bohème,
+  February 2018. Photo: David Cooper.'
+publishDate: "2018-02-20T16:26:00-05:00"
+related_articles:
+- articles/hype-atg-boheme.md
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+related_people:
+- scene/people/lucia-cesaroni.md
+- scene/people/sharleen-joynt.md
+- scene/people/brett-polegato.md
+- scene/people/stephen-hegedus.md
+- scene/people/andrew-love.md
+- scene/people/jason-slayden.md
+short_description: In this version, Mimì is far more coquettish - obviously trying
+  to catch Rodolfo&#039;s interest in a more seductive way than is typical of the
+  demure Mimì we typically expect. Slayden&#039;s &quot;Che gelida manina&quot; was
+  absolutely breathtaking, his voice resonant and brilliant, and he absolutely brought
+  the house down with his flawless performance.
+slug: lovely-and-sincere-povs-la-bohème
+title: 'Lovely and sincere: POV&#039;s La Bohème'
+---
 *La Bohème* is a show that has become an absolute staple of the opera calendar. You can often set your watch by how often a company produces it, so the challenge always becomes breathing new life into a show that is performed so often, by so many companies across the globe. [Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/) finds many clever, inventive ways to do this in their recent production.
 
 <figure data-type="image">

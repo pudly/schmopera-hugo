@@ -1,18 +1,33 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2017-10-10T21:56:00-04:00"
-lastmod = "2017-10-11T13:19:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507688218996/2017-10-10---square---DN2_7009.jpg.jpg"
-primary_image_credit = "Craig Colclough in the title character of Don Pasquale, Minnesota Opera, 2017. Photo: Dan Norman."
-publishDate = "2017-10-11T11:27:00-04:00"
-related_articles = ["articles/talking-with-singers-craig-colclough.md","articles/talking-with-singers-zachary-nelson.md","articles/silent-night-ages-well-in-minnesota-revival.md"]
-related_companies = ["scene/companies/minnesota-opera.md"]
-related_people = ["scene/people/david-walton.md","scene/people/susannah-biller.md","scene/people/craig-colclough.md"]
-short_description = "This production had an entertaining concept, though I wish it had been taken further. The &quot;release&quot; of the technicolor was not gradual enough to stay present in the audience minds in the second and third act. Additionally, Doctor Malatesta&#039;s apparel was changed into vibrant colors but the Don&#039;s was not. It would have been interesting for his clothes to change when he is at the end of his rope with Norina; then, when there was a happy ending to switch back to black and white."
-slug = "don-pasquale-a-colorful-season-starter-at-minnesota-opera"
-title = "Don Pasquale: a colorful season starter at Minnesota Opera"
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2017-10-10T21:56:00-04:00"
+lastmod: "2017-10-11T13:19:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507688218996/2017-10-10---square---DN2_7009.jpg.jpg
+primary_image_credit: 'Craig Colclough in the title character of Don Pasquale, Minnesota
+  Opera, 2017. Photo: Dan Norman.'
+publishDate: "2017-10-11T11:27:00-04:00"
+related_articles:
+- articles/talking-with-singers-craig-colclough.md
+- articles/talking-with-singers-zachary-nelson.md
+- articles/silent-night-ages-well-in-minnesota-revival.md
+related_companies:
+- scene/companies/minnesota-opera.md
+related_people:
+- scene/people/david-walton.md
+- scene/people/susannah-biller.md
+- scene/people/craig-colclough.md
+short_description: This production had an entertaining concept, though I wish it had
+  been taken further. The &quot;release&quot; of the technicolor was not gradual enough
+  to stay present in the audience minds in the second and third act. Additionally,
+  Doctor Malatesta&#039;s apparel was changed into vibrant colors but the Don&#039;s
+  was not. It would have been interesting for his clothes to change when he is at
+  the end of his rope with Norina; then, when there was a happy ending to switch back
+  to black and white.
+slug: don-pasquale-a-colorful-season-starter-at-minnesota-opera
+title: 'Don Pasquale: a colorful season starter at Minnesota Opera'
+---
 
 [Minnesota Opera](/scene/companies/minnesota-opera/) opened their 55th Anniversary season with a well-received production of Donizetti's [*Don Pasquale*](http://www.mnopera.org/season/2017-2018/don-pasquale/). The production by Chuck Hudson was set in 1950s Hollywood, with Don Pasquale as a Norma Desmond-like character, a famous screen actor from the bygone days of silent films (complete with a bald butler carrying a pet gorilla). During the overture, a video screen came down to introduce the character Don Pasquale to the audience. What ensued was a silent film starring the cast of the production (reminiscent to Rolando Villazon's production of Donizetti's *L'elisir d'amore* at Baden-Baden Festspielhaus). *The Sheik of Arabia* was the Don's crowning glory in the 1920s, but, in trying to repeat the success, the sequel to *Sheik* was a flop. Newspaper reels and clippings with headlines of "Talkies all the rage" segued the audience into the first act of the opera. 
 

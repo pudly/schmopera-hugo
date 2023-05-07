@@ -1,18 +1,40 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-10-28T10:02:00-04:00"
-lastmod = "2015-11-02T22:23:00-05:00"
-preamble = "When it comes to the opera stage, Shakespeare gets his share of representation. There's Gounod's *Roméo et Juliette*, Britten's *A Midsummer Night's Dream*, Thomas Adès' *The Tempest*, and of course, Verdi's *Otello* and *Falstaff*. There's also *Hamlet*, the opera by Ambroise Thomas, but did you know there's an Italian *Amleto* (#essereononessere), composed by one of Verdi's contemporaries with text by Shakespeare-friendly librettist [Arrigo Boito](https://en.wikipedia.org/wiki/Arrigo_Boito)? \n\nConductor and composer Anthony Barrese has spent a good part of the last decade reconstructing and creating a critical edition of Franco Faccio's lost opera based on the Bard's most famous play. *Amleto* was lost after Faccio withdrew it, following less-than-stellar reception during its 1871 remount. *Amleto* was finally produced again in 2014, at Opera Southwest in Albuquerque, NM, and in May it goes up as part of [Opera Delaware](/scene/companies/opera-delaware/)'s 2015/16 season.\n\nBarrese was kind enough to talk about how he revived Faccio's lost opera, and what it was like to see it onstage. For more on *Amleto*, [click here](http://anthonybarrese.com/projects/amleto-project/)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446042566483/BarreseSquare.jpg.jpg"
-publishDate = "2015-11-03T08:22:00-05:00"
-related_articles = ["articles/dont-miss-the-amici-ensemble-reimagines-don-giovanni.md"]
-related_companies = ["scene/companies/opera-delaware.md"]
-related_people = ["scene/people/anthony-barrese.md"]
-short_description = "There&#039;s Gounod&#039;s Roméo et Juliette, Britten&#039;s A Midsummer Night&#039;s Dream, Thomas Adès&#039; The Tempest, and of course, Verdi&#039;s Otello and Falstaff. There&#039;s also Hamlet, the opera by Ambroise Thomas, but did you know there&#039;s an Italian Amleto (#essereononessere), composed by one of Verdi&#039;s contemporaries with text by Shakespeare-friendly librettist Arrigo Boito?"
-slug = "reconstructing-a-lost-opera-amleto"
-title = "Reconstructing a lost opera: Amleto"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-10-28T10:02:00-04:00"
+lastmod: "2015-11-02T22:23:00-05:00"
+preamble: "When it comes to the opera stage, Shakespeare gets his share of representation.
+  There's Gounod's *Roméo et Juliette*, Britten's *A Midsummer Night's Dream*, Thomas
+  Adès' *The Tempest*, and of course, Verdi's *Otello* and *Falstaff*. There's also
+  *Hamlet*, the opera by Ambroise Thomas, but did you know there's an Italian *Amleto*
+  (#essereononessere), composed by one of Verdi's contemporaries with text by Shakespeare-friendly
+  librettist [Arrigo Boito](https://en.wikipedia.org/wiki/Arrigo_Boito)? \n\nConductor
+  and composer Anthony Barrese has spent a good part of the last decade reconstructing
+  and creating a critical edition of Franco Faccio's lost opera based on the Bard's
+  most famous play. *Amleto* was lost after Faccio withdrew it, following less-than-stellar
+  reception during its 1871 remount. *Amleto* was finally produced again in 2014,
+  at Opera Southwest in Albuquerque, NM, and in May it goes up as part of [Opera Delaware](/scene/companies/opera-delaware/)'s
+  2015/16 season.\n\nBarrese was kind enough to talk about how he revived Faccio's
+  lost opera, and what it was like to see it onstage. For more on *Amleto*, [click
+  here](http://anthonybarrese.com/projects/amleto-project/)."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446042566483/BarreseSquare.jpg.jpg
+publishDate: "2015-11-03T08:22:00-05:00"
+related_articles:
+- articles/dont-miss-the-amici-ensemble-reimagines-don-giovanni.md
+related_companies:
+- scene/companies/opera-delaware.md
+related_people:
+- scene/people/anthony-barrese.md
+short_description: There&#039;s Gounod&#039;s Roméo et Juliette, Britten&#039;s A
+  Midsummer Night&#039;s Dream, Thomas Adès&#039; The Tempest, and of course, Verdi&#039;s
+  Otello and Falstaff. There&#039;s also Hamlet, the opera by Ambroise Thomas, but
+  did you know there&#039;s an Italian Amleto (#essereononessere), composed by one
+  of Verdi&#039;s contemporaries with text by Shakespeare-friendly librettist Arrigo
+  Boito?
+slug: reconstructing-a-lost-opera-amleto
+title: 'Reconstructing a lost opera: Amleto'
+---
 
 ## 1. How did *Amleto* get “lost”?
 

@@ -1,22 +1,27 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = 2020-03-16T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1584407663/media/2020/03/sqHGOco-MariansSong-PhotographerLynnLane-126_ijwria.jpg"
-primary_image_credit = "Zoie Reams as Marian Anderson in Marian's Song, HGO, 2020. Photo: Lynn Lane."
-related_articles = []
-related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/zoie-reams.md"]
-short_description = "Some variant of this sentence appears in many a history textbook at some point, but only rarely can it hope to make the sheer impact that Marian's Song did in Houston Grand Opera's world premiere performance. "
-slug = "marians-song-a-poignant-hopefuly-message"
-title = "Marian's Song: a poignant, hopeful message"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2020-03-16T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1584407663/media/2020/03/sqHGOco-MariansSong-PhotographerLynnLane-126_ijwria.jpg
+primary_image_credit: 'Zoie Reams as Marian Anderson in Marian''s Song, HGO, 2020.
+  Photo: Lynn Lane.'
+related_articles: []
+related_companies:
+- scene/companies/houston-grand-opera.md
+related_people:
+- scene/people/zoie-reams.md
+short_description: 'Some variant of this sentence appears in many a history textbook
+  at some point, but only rarely can it hope to make the sheer impact that Marian''s
+  Song did in Houston Grand Opera''s world premiere performance. '
+slug: marians-song-a-poignant-hopefuly-message
+title: 'Marian''s Song: a poignant, hopeful message'
+youtube_url: ""
+---
 On Easter Sunday, 1939, Marian Anderson made history by performing her famous open-air concert on the steps of the Lincoln Memorial. Some variant of this sentence appears in many a history textbook at some point, but only rarely can it hope to make the sheer impact that _Marian's Song_ did in [Houston Grand Opera](/scene/companies/houston-grand-opera/)'s world premiere performance. Certainly, persons who have effected lasting change and serve as a model to others are ripe as potential operatic subjects.
 
 As poignant as the hopeful message communicated in _Marian’s Song_ was, I perceived it as a classic case of _Prima le parole, poi la musica_. Indeed, the libretto, by Poet Laureate Emeritus of Houston Deborah D.E.E.P. Mouton, was muscular, supple, and commanding. Assertive yet malleable enough to convey its author’s adept pen, it was quite ideal as a libretto. Combined in an experimental fashion with spoken word, video projections, and music by Damien Sneed, the work had all the elements that should have resulted in an enlightening finished product. However, combined, these elements felt overcrowded as they competed to be perceptible. Indeed, one of the phrases Marian sings, "\[We\] fought for space," was ironically emblematic of the whole hour-long work.

@@ -1,22 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2019-04-24T16:12:48+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556123872/media/2019/04/sqTiCMuse9.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = []
-related_people = ["scene/people/danika-lorn.md", "scene/people/krisztina-szab.md", "scene/people/teiya-kasahara.md", "scene/people/julie-nesrallah.md", "scene/people/hyejin-kwon.md", "scene/people/anna-theodosakis.md", "scene/people/aaron-durand.md", "scene/people/michael-nyby.md"]
-short_description = "You'll also hear soprano/composer Danika Lorèn's curiously titled The Secret Lives of Vegetables, and in a guarantee for laughs, the song cycle by Toronto favourite Peter Tiefenbach, Chansons de mon placard."
-slug = "upcoming-gems-small-but-might-not-to-be-missed"
-title = "Upcoming gems: Small but mighty & not to be missed"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-04-24T16:12:48+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1556123872/media/2019/04/sqTiCMuse9.jpg
+primary_image_credit: ""
+related_articles: []
+related_companies: []
+related_people:
+- scene/people/danika-lorn.md
+- scene/people/krisztina-szab.md
+- scene/people/teiya-kasahara.md
+- scene/people/julie-nesrallah.md
+- scene/people/hyejin-kwon.md
+- scene/people/anna-theodosakis.md
+- scene/people/aaron-durand.md
+- scene/people/michael-nyby.md
+short_description: You'll also hear soprano/composer Danika Lorèn's curiously titled
+  The Secret Lives of Vegetables, and in a guarantee for laughs, the song cycle by
+  Toronto favourite Peter Tiefenbach, Chansons de mon placard.
+slug: upcoming-gems-small-but-might-not-to-be-missed
+title: 'Upcoming gems: Small but mighty & not to be missed'
+youtube_url: ""
+---
 This spring, opera fans in Toronto can expect some lighter fare to go with the warming weather.
 
 On **May 1, 7pm** at Lula Lounge (1585 Dundas St. W), check out the latest from Tongue in Cheek Productions: [_Democracy in Action_](https://www.tongueincheekproductions.com/democracyinaction). Though the title feels timely, the political stakes aren't costly with this night of singing. The audience holds the power here - with the help of online polls, and a "wide array of eclectic selections", listeners can cast their vote and hear the results.

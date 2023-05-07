@@ -1,15 +1,19 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2018-12-16T13:39:00-05:00"
-lastmod = "2018-12-17T11:16:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544986720784/sq2018.jpg.jpg"
-publishDate = "2018-12-16T14:01:00-05:00"
-related_articles = ["articles/opera-other-trysts-a-love-story.md"]
-short_description = "I guess that&#039;s my 2018 year-in-review: finding my way back to opera. It certainly helped to have, always bubbling in the background like happy reminders, the insatiable enthusiasm for opera of our writers and readers. So, thanks."
-slug = "2018-in-review-a-confession"
-title = "2018 in review: a confession"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2018-12-16T13:39:00-05:00"
+lastmod: "2018-12-17T11:16:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544986720784/sq2018.jpg.jpg
+publishDate: "2018-12-16T14:01:00-05:00"
+related_articles:
+- articles/opera-other-trysts-a-love-story.md
+short_description: 'I guess that&#039;s my 2018 year-in-review: finding my way back
+  to opera. It certainly helped to have, always bubbling in the background like happy
+  reminders, the insatiable enthusiasm for opera of our writers and readers. So, thanks.'
+slug: 2018-in-review-a-confession
+title: '2018 in review: a confession'
+---
 
 It's the time of year where all the media outlets are wont to do a "year in review" sort of piece. Whatever your focus - cars, gadgets, politics, opera - Decembers are usually for taking stock of the highs and lows of the 11 preceding months.
 

@@ -1,18 +1,37 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-10-01T20:34:00-04:00"
-lastmod = "2017-10-11T10:42:00-04:00"
-preamble = "\"Don thy codpieces, neck ruffs, and farthingales,\" advise the folks at Heartbeat Opera, \"Shakespeare cometh!\" The New York-based indie opera company is gearing up for its fourth annual Halloween Drag Extravaganza, [\"All the World's a Drag!\"](https://nationalsawdust.org/event/all-the-worlds-a-drag-shakespeares-queens-clowns-and-fairies/) Presented on **October 30 and 31** at National Sawdust, this year's Extravaganza takes on a Shakespearean theme, paying dazzling homage to the music of Verdi, Purcell, Bernstein, and more.\n\nHeartbeat Opera's connection with drag is both unique and organic. \"My personal connection to drag comes not from a background as a drag performer, but rather from a vital interest in theatre as participation,\" says Louisa Proske, co-Artistic Director the company. \"When we founded an opera company, that question became: how can OPERA be participatory? We developed the Heartbeat Opera Drag Extravaganza as a joyful and complex answer to this question.\"\n\nThe extravagance of opera, paired with the exaggeration and glitter of drag performers, is no far-fetched combination. \"Suddenly you create a truly otherworldly space where beauty reigns, rules can be bent, and the audience are invited to REVEL and INVENT THEMSELVES,\" says Proske. \"That, for me, is the magic of drag.\"\n\nWe spoke with Ethan Heard, Heartbeat Opera's other co-Artistic Director, about this year's Drag Extravaganza, opera's long-standing relationship with gender and theatre, and the personal tastes of Heard's onstage persona, Trixie Spirit."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507661060725/2017-10-10---square---DSC_7828-photo-by-Russ-Rowland.jpg.jpg"
-primary_image_credit = "Heartbeat Opera's Drag Extravaganza, \"Miss Handel\" at National Sawdust. Photo: Russ Rowland."
-publishDate = "2017-10-10T21:24:00-04:00"
-related_articles = ["articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md","articles/breeches-trousers-and-pants.md","articles/don-giovanni-strengthened-by-reinterpretation.md","articles/spectacle-art-dragus-maximus.md"]
-related_companies = ["scene/companies/heartbeat-opera.md"]
-short_description = "&quot;Opera has been a home for drag for centuries! Think: pants roles like Cherubino. Moreover, opera is about big emotion expressed in grand, often over-the-top ways. The Queen of the Night&#039;s famous aria from The Magic Flute embodies rage and power with delightful virtuosity. Drag performers channel big emotions in grand ways too. Plus, opera and drag both demand fabulous costumes and wigs!&quot;"
-slug = "a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza"
-title = "&quot;A truly otherworldly space&quot;: Heartbeat Opera&#039;s Drag Extravaganza"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-10-01T20:34:00-04:00"
+lastmod: "2017-10-11T10:42:00-04:00"
+preamble: |-
+  "Don thy codpieces, neck ruffs, and farthingales," advise the folks at Heartbeat Opera, "Shakespeare cometh!" The New York-based indie opera company is gearing up for its fourth annual Halloween Drag Extravaganza, ["All the World's a Drag!"](https://nationalsawdust.org/event/all-the-worlds-a-drag-shakespeares-queens-clowns-and-fairies/) Presented on **October 30 and 31** at National Sawdust, this year's Extravaganza takes on a Shakespearean theme, paying dazzling homage to the music of Verdi, Purcell, Bernstein, and more.
+
+  Heartbeat Opera's connection with drag is both unique and organic. "My personal connection to drag comes not from a background as a drag performer, but rather from a vital interest in theatre as participation," says Louisa Proske, co-Artistic Director the company. "When we founded an opera company, that question became: how can OPERA be participatory? We developed the Heartbeat Opera Drag Extravaganza as a joyful and complex answer to this question."
+
+  The extravagance of opera, paired with the exaggeration and glitter of drag performers, is no far-fetched combination. "Suddenly you create a truly otherworldly space where beauty reigns, rules can be bent, and the audience are invited to REVEL and INVENT THEMSELVES," says Proske. "That, for me, is the magic of drag."
+
+  We spoke with Ethan Heard, Heartbeat Opera's other co-Artistic Director, about this year's Drag Extravaganza, opera's long-standing relationship with gender and theatre, and the personal tastes of Heard's onstage persona, Trixie Spirit.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507661060725/2017-10-10---square---DSC_7828-photo-by-Russ-Rowland.jpg.jpg
+primary_image_credit: 'Heartbeat Opera''s Drag Extravaganza, "Miss Handel" at National
+  Sawdust. Photo: Russ Rowland.'
+publishDate: "2017-10-10T21:24:00-04:00"
+related_articles:
+- articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md
+- articles/breeches-trousers-and-pants.md
+- articles/don-giovanni-strengthened-by-reinterpretation.md
+- articles/spectacle-art-dragus-maximus.md
+related_companies:
+- scene/companies/heartbeat-opera.md
+short_description: '&quot;Opera has been a home for drag for centuries! Think: pants
+  roles like Cherubino. Moreover, opera is about big emotion expressed in grand, often
+  over-the-top ways. The Queen of the Night&#039;s famous aria from The Magic Flute
+  embodies rage and power with delightful virtuosity. Drag performers channel big
+  emotions in grand ways too. Plus, opera and drag both demand fabulous costumes and
+  wigs!&quot;'
+slug: a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza
+title: '&quot;A truly otherworldly space&quot;: Heartbeat Opera&#039;s Drag Extravaganza'
+---
 
 ## What do you think opera and drag have most closely in common?
 

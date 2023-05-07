@@ -1,22 +1,26 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2019-07-26T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1564424654/media/2019/07/sqFledermausImage-2.png"
-primary_image_credit = "KrisAnne Weiss (Orlofsky) in Die Fledermaus, Opera on the Lake, 2019. Photo courtesy of Opera on the Lake."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "Characters would regularly go and stand at the bar to the right of the stage and \"hang out\" while the action was happening. This made for a very relaxed, fun and interactive atmosphere. In the Prince's aria during the party scene, Falke brought up a random audience member to take part in the festivities."
-slug = "opera-on-the-lake-makes-charismatic-debut-with-die-fledermaus"
-title = "Opera on the Lake makes charismatic debut with Die Fledermaus"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2019-07-26T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1564424654/media/2019/07/sqFledermausImage-2.png
+primary_image_credit: KrisAnne Weiss (Orlofsky) in Die Fledermaus, Opera on the Lake,
+  2019. Photo courtesy of Opera on the Lake.
+related_articles: []
+related_companies: []
+related_people: []
+short_description: Characters would regularly go and stand at the bar to the right
+  of the stage and "hang out" while the action was happening. This made for a very
+  relaxed, fun and interactive atmosphere. In the Prince's aria during the party scene,
+  Falke brought up a random audience member to take part in the festivities.
+slug: opera-on-the-lake-makes-charismatic-debut-with-die-fledermaus
+title: Opera on the Lake makes charismatic debut with Die Fledermaus
+youtube_url: ""
+---
 Opera on the Lake had their debut performance this week, in the Lakeside Pavilion on Lake Como in St. Paul. The audience was greeted by the extremely charismatic founder, star and director of the night, [Anne Wieben](http://www.annewieben.com/). She gave a brief speech about her brand new company, as well as a plug for tax deductible donations, and off we went into Strauss's _Die Fledermaus_.
 
 <figure data-type="image">

@@ -1,16 +1,23 @@
-+++
-author = ["authors/john-hohmann.md"]
-date = "2018-06-09T19:07:00-04:00"
-lastmod = "2018-06-09T19:45:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528585355053/sqCH1384301_Original.jpg.jpg"
-primary_image_credit = "Mirga Gražinyte-Tyla conducts the MET Orchestra, Carnegie Hall, 2018. Photo: Chris Lee."
-publishDate = "2018-06-09T19:45:00-04:00"
-related_articles = ["articles/michael-tilson-thomas-takes-on-ruggles-mozart-mahler.md"]
-short_description = "Levine filed his suit a couple of months ago, on the day that the Met&#039;s new production of Così fan tutte, a specialty of his, opened without him. The timing of both suits was sadly ironic. The Met&#039;s move on May 18 must have affected at least some of the musicians in this band, that is still so much Levine&#039;s creation, as they prepared to open their Carnegie Hall series with Debussy&#039;s &quot;Prelude to the Afternoon of a Fawn.&quot;"
-slug = "musicians-of-the-met-orchestra-days-of-their-lives"
-title = "Musicians of the MET Orchestra: Days of Their Lives"
-
-+++
+---
+author:
+- authors/john-hohmann.md
+date: "2018-06-09T19:07:00-04:00"
+lastmod: "2018-06-09T19:45:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528585355053/sqCH1384301_Original.jpg.jpg
+primary_image_credit: 'Mirga Gražinyte-Tyla conducts the MET Orchestra, Carnegie Hall,
+  2018. Photo: Chris Lee.'
+publishDate: "2018-06-09T19:45:00-04:00"
+related_articles:
+- articles/michael-tilson-thomas-takes-on-ruggles-mozart-mahler.md
+short_description: Levine filed his suit a couple of months ago, on the day that the
+  Met&#039;s new production of Così fan tutte, a specialty of his, opened without
+  him. The timing of both suits was sadly ironic. The Met&#039;s move on May 18 must
+  have affected at least some of the musicians in this band, that is still so much
+  Levine&#039;s creation, as they prepared to open their Carnegie Hall series with
+  Debussy&#039;s &quot;Prelude to the Afternoon of a Fawn.&quot;
+slug: musicians-of-the-met-orchestra-days-of-their-lives
+title: 'Musicians of the MET Orchestra: Days of Their Lives'
+---
 Wednesday, May 18 was not the best day in the life of the orchestra of the Metropolitan Opera, otherwise knows as the MET Orchestra. It should have been at least a very good one, considering that it was the beginning of the annual series that former music director, [James Levine](/levines-ugly-exit-the-disposable-met/), was instrumental in creating - three on-stage appearances at Carnegie Hall.
 
 But it was also the day that the Met, countering Levine's lawsuit that claimed breach of contract and character defamation, sued him back. The opera company cited evidence that Levine "used his reputation and position of power to prey upon and abuse artists."

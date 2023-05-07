@@ -1,18 +1,42 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-04-07T14:11:00+01:00"
-lastmod = "2017-04-08T14:05:00+01:00"
-preamble = "Well, it's been just over a year since I started running wildly around London, trying not to miss any of the city's endless operatic offerings. On top of the many, **many** shows, I'll miss the charming little ice creams at intermission (sorry, interval), and the weird named for different seating sections (what the hell are the stalls), and of course, the sheer quantity of things to see and hear all year long. \n\nOf course, no exit would be complete without a round-up of sorts. So, in no particular order, I've summed up the year's spectacles into 10 particularly memorable picks."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491656523096/2017-04-08---London.jpg.jpg"
-publishDate = "2017-04-08T14:05:00+01:00"
-related_articles = ["articles/roundup2016-greg-jennas-top-10.md"]
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/tete-a-tete.md"]
-related_people = ["scene/people/heloise-werner.md","scene/people/diana-damrau.md","scene/people/martin-winkler.md","scene/people/andrew-shore.md","scene/people/matthias-goerne.md","scene/people/ambur-braid.md","scene/people/allan-clayton.md"]
-short_description = "Well, it&#039;s been just over a year since I started running wildly around London, trying not to miss any of the city&#039;s endless operatic offerings. On top of the many, many shows, I&#039;ll miss the charming little ice creams at intermission (sorry, interval), and the weird named for different seating sections (what the hell are the stalls), and of course, the sheer quantity of things to see and hear all year long."
-slug = "jennas-list-the-years-top-10-of-london"
-title = "Jenna&#039;s list: the year&#039;s Top 10 of London"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-04-07T14:11:00+01:00"
+lastmod: "2017-04-08T14:05:00+01:00"
+preamble: "Well, it's been just over a year since I started running wildly around
+  London, trying not to miss any of the city's endless operatic offerings. On top
+  of the many, **many** shows, I'll miss the charming little ice creams at intermission
+  (sorry, interval), and the weird named for different seating sections (what the
+  hell are the stalls), and of course, the sheer quantity of things to see and hear
+  all year long. \n\nOf course, no exit would be complete without a round-up of sorts.
+  So, in no particular order, I've summed up the year's spectacles into 10 particularly
+  memorable picks."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491656523096/2017-04-08---London.jpg.jpg
+publishDate: "2017-04-08T14:05:00+01:00"
+related_articles:
+- articles/roundup2016-greg-jennas-top-10.md
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/english-national-opera.md
+- scene/companies/tete-a-tete.md
+related_people:
+- scene/people/heloise-werner.md
+- scene/people/diana-damrau.md
+- scene/people/martin-winkler.md
+- scene/people/andrew-shore.md
+- scene/people/matthias-goerne.md
+- scene/people/ambur-braid.md
+- scene/people/allan-clayton.md
+short_description: Well, it&#039;s been just over a year since I started running wildly
+  around London, trying not to miss any of the city&#039;s endless operatic offerings.
+  On top of the many, many shows, I&#039;ll miss the charming little ice creams at
+  intermission (sorry, interval), and the weird named for different seating sections
+  (what the hell are the stalls), and of course, the sheer quantity of things to see
+  and hear all year long.
+slug: jennas-list-the-years-top-10-of-london
+title: 'Jenna&#039;s list: the year&#039;s Top 10 of London'
+---
 
 ## *The Depraved Appetite of Tarrare the Freak* at Wilton's Music Hall
 

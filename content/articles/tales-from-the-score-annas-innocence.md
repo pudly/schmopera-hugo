@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-date = 2014-11-23T14:00:00Z
-lastmod = "2015-04-13T22:36:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573611503/media/2019/11/DonGiovanniMartySohlMetOpera_wvx9dh.jpg"
-primary_image_credit = "Rachel Willis-Sørensen as Donna Anna, The Metropolitan Opera, 2019. Photo: Marty Sohl/Metropolitan Opera."
-publishDate = "2014-11-23T09:00:00-05:00"
-related_articles = ["articles/tales-from-the-score-violetta.md", "articles/tales-from-the-score-deh-vieni-non-tardar.md"]
-short_description = "If you love opera, you probably love Mozart&#039;s Don Giovanni. The jury is out, however, on the question of whether or not you like Donna Anna. &quot;Hmm, tough one,&quot; say you. Mozart and Da Ponte start this story of Don Juan just after his encounter with Donna Anna, which means we can only infer information from the last pieces of their post-coital conversation. "
-slug = "tales-from-the-score-annas-innocence"
-title = "Tales from the score: Anna&#039;s innocence"
-
-+++
+---
+author:
+- authors/jenna.md
+date: "2014-11-23T14:00:00Z"
+lastmod: "2015-04-13T22:36:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1573611503/media/2019/11/DonGiovanniMartySohlMetOpera_wvx9dh.jpg
+primary_image_credit: 'Rachel Willis-Sørensen as Donna Anna, The Metropolitan Opera,
+  2019. Photo: Marty Sohl/Metropolitan Opera.'
+publishDate: "2014-11-23T09:00:00-05:00"
+related_articles:
+- articles/tales-from-the-score-violetta.md
+- articles/tales-from-the-score-deh-vieni-non-tardar.md
+short_description: 'If you love opera, you probably love Mozart&#039;s Don Giovanni.
+  The jury is out, however, on the question of whether or not you like Donna Anna.
+  &quot;Hmm, tough one,&quot; say you. Mozart and Da Ponte start this story of Don
+  Juan just after his encounter with Donna Anna, which means we can only infer information
+  from the last pieces of their post-coital conversation. '
+slug: tales-from-the-score-annas-innocence
+title: 'Tales from the score: Anna&#039;s innocence'
+---
 If you love opera, you probably love Mozart's _Don Giovanni_. The jury is out, however, on the question of whether or not you like Donna Anna. "Hmm, tough one," say you. Mozart and Da Ponte start this story of Don Juan just after his encounter with Donna Anna, which means we can only infer information from the last pieces of their post-coital conversation. Anna is angry with Giovanni because he doesn't want to stick around, but she runs off when she hears her father coming. When Anna sees Giovanni again, she's with her boyfriend, Ottavio, and they both have already found her father dead. Anna silently puts it together that her one-night-stand was her dad's killer, and when she goes to tell Ottavio, she realizes she also has to tell him how she knows Giovanni in the first place. Hence, all the juicy musical dishonesty in Mozart's writing for Donna Anna. I skip ahead in the opera to bring you my examples.
 
 ## Exhibit A:

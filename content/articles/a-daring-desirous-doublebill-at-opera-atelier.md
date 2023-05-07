@@ -1,19 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2018-10-15T20:24:00-04:00"
-lastmod = "2018-10-15T20:27:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539648427302/sq180109_00206.jpg.jpg"
-primary_image_credit = "Artist of Atelier Ballet Edward Tracz poses as the stag in Actéon. Photo by Bruce Zinger."
-publishDate = "2018-10-15T20:27:00-04:00"
-related_articles = ["articles/in-review-opera-ateliers-armide.md", "articles/he-saidshe-said-alcina-at-opera-atelier.md", "articles/feminism-confetti-ateliers-triplebill.md"]
-related_companies = ["scene/companies/opera-atelier.md"]
-related_people = ["scene/people/colin-ainsworth.md"]
-short_description = "Such longevity puts it among the upper echelon of Canadian opera companies in Canada - a feat more impressive when we consider that Atelier performs exclusively 17th- and 18th-century baroque opera. It&#039;s almost impossible to resist saying it: &quot;If it ain&#039;t baroque, don&#039;t fix it.&quot;"
-slug = "a-daring-desirous-double-bill-at-opera-atelier"
-title = "A daring &amp; desirous double-bill at Opera Atelier"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2018-10-15T20:24:00-04:00"
+lastmod: "2018-10-15T20:27:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539648427302/sq180109_00206.jpg.jpg
+primary_image_credit: Artist of Atelier Ballet Edward Tracz poses as the stag in Actéon.
+  Photo by Bruce Zinger.
+publishDate: "2018-10-15T20:27:00-04:00"
+related_articles:
+- articles/in-review-opera-ateliers-armide.md
+- articles/he-saidshe-said-alcina-at-opera-atelier.md
+- articles/feminism-confetti-ateliers-triplebill.md
+related_companies:
+- scene/companies/opera-atelier.md
+related_people:
+- scene/people/colin-ainsworth.md
+short_description: 'Such longevity puts it among the upper echelon of Canadian opera
+  companies in Canada - a feat more impressive when we consider that Atelier performs
+  exclusively 17th- and 18th-century baroque opera. It&#039;s almost impossible to
+  resist saying it: &quot;If it ain&#039;t baroque, don&#039;t fix it.&quot;'
+slug: a-daring-desirous-double-bill-at-opera-atelier
+title: A daring &amp; desirous double-bill at Opera Atelier
+---
 Since 1985, Co-Artistic Directors Marshall Pynkoski and Jeannette Lajeunesse Zingg have grown [Opera Atelier](/scene/companies/opera-atelier/)'s presence like a slow burn, maintaining two productions a year based out of Toronto. In 33 seasons, Atelier has expanded internationally, touring as far as Japan, and becoming a regular import at the Royal Opera House of Versailles; this season the company makes its first trip to Chicago, at the Harris Theater for Music and Dance.
 
 The company also employs the closest thing the Canadian opera scene has to a European-style house ensemble. Audience members who regularly attend Atelier's productions are familiar the work of their core creative team: stage director Marshall Pynkoski, choreographer Jeannette Lajeunesse Zingg, Resident Music Director David Fallis, and Resident Set Designer Gerard Gauci. Onstage are the returning faces of the Atelier Ballet, and a rotating ensemble of singers - including some refreshing debuts - who are well versed in the stylistic demands of baroque opera.

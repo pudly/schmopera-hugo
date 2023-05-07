@@ -1,18 +1,26 @@
-+++
-author = ["authors/michelle-telford.md"]
-categories = "Editorial"
-date = "2015-04-10T21:20:00-04:00"
-lastmod = "2015-04-12T18:57:00-04:00"
-preamble = "This is a guest post by Michelle Telford, custom surtitlist with Saskatoon Opera. \"Seeing is for suckers, and sleep is for the weak.\" - Michelle.\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715008105/4-Thats-Better.jpg.jpg"
-primary_image_credit = "Michelle Telford"
-publishDate = "2015-03-25T09:20:00-04:00"
-related_articles = ["articles/tales-from-stage-management.md","articles/problems-we-didnt-know-we-had-surtitles.md","articles/vera-causa-opera-opera-for-all.md"]
-related_companies = ["scene/companies/saskatoon-opera.md"]
-short_description = "This is a guest post by Michelle Telford, custom surtitlist with Saskatoon Opera. &quot;Seeing is for suckers, and sleep is for the weak.&quot; - Michelle."
-slug = "michelle-telford"
-title = "Michelle Telford, Creating Custom Surtitles for Opera Today"
-+++
+---
+author:
+- authors/michelle-telford.md
+categories: Editorial
+date: "2015-04-10T21:20:00-04:00"
+lastmod: "2015-04-12T18:57:00-04:00"
+preamble: |
+  This is a guest post by Michelle Telford, custom surtitlist with Saskatoon Opera. "Seeing is for suckers, and sleep is for the weak." - Michelle.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715008105/4-Thats-Better.jpg.jpg
+primary_image_credit: Michelle Telford
+publishDate: "2015-03-25T09:20:00-04:00"
+related_articles:
+- articles/tales-from-stage-management.md
+- articles/problems-we-didnt-know-we-had-surtitles.md
+- articles/vera-causa-opera-opera-for-all.md
+related_companies:
+- scene/companies/saskatoon-opera.md
+short_description: This is a guest post by Michelle Telford, custom surtitlist with
+  Saskatoon Opera. &quot;Seeing is for suckers, and sleep is for the weak.&quot; -
+  Michelle.
+slug: michelle-telford
+title: Michelle Telford, Creating Custom Surtitles for Opera Today
+---
 
 In the English-speaking world of non-English language opera, a surtitlist's work is vital - some wouldn't agree, but every day a surtitlist has to wake up and ignore the haters. Surtitles have had their share of critique from the snob-pera folks (not that I'm against any form of opera, from the purest of the purists to Fat Mike's new "Home Street Home") but for many companies, they're essential to the success of a production by providing a more universal accessibility. 
 

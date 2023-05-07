@@ -1,18 +1,37 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-08-03T12:39:00-04:00"
-lastmod = "2017-08-03T13:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501778798035/2017-08-03---Square---Sweatstills-photobyDahliaKatz-4998.jpg.jpg"
-primary_image_credit = "Production image from Sweat, Bicycle Opera Project, 2017. Photo: Dahlia Katz."
-publishDate = "2017-08-03T13:05:00-04:00"
-related_articles = ["articles/when-art-is-not-enough-opera-activism.md","articles/art-is-not-action.md","articles/we-all-wear-clothes-they-sit-right-on-our-skin.md"]
-related_companies = ["scene/companies/the-bicycle-opera-project.md"]
-related_people = ["scene/people/stephanie-tritchew.md","scene/people/larissa-koniuk.md","scene/people/jennifer-nichols.md","scene/people/keith-lam.md","scene/people/emma-char.md","scene/people/caitlin-wood.md","scene/people/geoffrey-sirett.md","scene/people/catherine-daniel.md"]
-short_description = "It&#039;s a story that confirms one&#039;s hunches about where their $12 tank tops come from, and one that addresses the unresolved truths that are sadly outweighed by the temptations of corporate profit and customer convenience (&quot;If I don&#039;t buy it, someone else will.&quot;). The opera itself is a cross between an ensemble piece and a vaguely heroic story of one factory worker who fights for fair treatment."
-slug = "in-review-sweat"
-title = "In review: Sweat"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-08-03T12:39:00-04:00"
+lastmod: "2017-08-03T13:08:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501778798035/2017-08-03---Square---Sweatstills-photobyDahliaKatz-4998.jpg.jpg
+primary_image_credit: 'Production image from Sweat, Bicycle Opera Project, 2017. Photo:
+  Dahlia Katz.'
+publishDate: "2017-08-03T13:05:00-04:00"
+related_articles:
+- articles/when-art-is-not-enough-opera-activism.md
+- articles/art-is-not-action.md
+- articles/we-all-wear-clothes-they-sit-right-on-our-skin.md
+related_companies:
+- scene/companies/the-bicycle-opera-project.md
+related_people:
+- scene/people/stephanie-tritchew.md
+- scene/people/larissa-koniuk.md
+- scene/people/jennifer-nichols.md
+- scene/people/keith-lam.md
+- scene/people/emma-char.md
+- scene/people/caitlin-wood.md
+- scene/people/geoffrey-sirett.md
+- scene/people/catherine-daniel.md
+short_description: It&#039;s a story that confirms one&#039;s hunches about where
+  their $12 tank tops come from, and one that addresses the unresolved truths that
+  are sadly outweighed by the temptations of corporate profit and customer convenience
+  (&quot;If I don&#039;t buy it, someone else will.&quot;). The opera itself is a
+  cross between an ensemble piece and a vaguely heroic story of one factory worker
+  who fights for fair treatment.
+slug: in-review-sweat
+title: 'In review: Sweat'
+---
 
 In mid-July, the [Bicycle Opera Project](scene/companies/the-bicycle-opera-project/) began its touring production of [*Sweat*](http://bicycleopera.com/upcoming-sweat/), the *a cappella* opera for 9 singers by composer [Juliet Palmer](/scene/people/juliet-palmer/) and librettist [Anna Chatterton](/scene/people/anna-chatterton/). In this production directed by Banuta Rubess, BOP is giving *Sweat* its Canadian premiere, bringing to Ontario audiences the bleak story of the lives of women who work in the garment industry's sweat shops. Happily, Schmopera got to watch a technical run in their current space, the Aki Studio at Toronto's Daniels Spectrum.
 

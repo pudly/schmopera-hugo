@@ -1,22 +1,29 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = 2019-11-02T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Opera Omaha's production of [_Madama Butterfly_](https://www.operaomaha.org/season-tickets/current-season/2020/madama-butterfly) runs through November 3."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572742481/media/2019/11/sqKanekoMB15_d5lpzx.jpg"
-primary_image_credit = "Opera Omaha's production of Madama Butterfly, 2019. Photo: Thomas Grady."
-related_articles = ["articles/when-art-is-not-enough-opera-activism.md", "articles/in-review-madam-butterfly-at-eno.md"]
-related_companies = ["scene/companies/opera-omaha.md"]
-related_people = []
-short_description = "\"Son's entire demeanor shifted in this scene from distraught mess to calm intensity. The effect was quite jarring, ending the opera with a truly tragic shock.\""
-slug = "karah-son-a-true-jewel-of-opera-omahas-madama-butterfly"
-title = "Karah Son a \"true jewel\" of Opera Omaha's Madama Butterfly"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2019-11-02T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Opera Omaha's production of [_Madama Butterfly_](https://www.operaomaha.org/season-tickets/current-season/2020/madama-butterfly)
+  runs through November 3.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1572742481/media/2019/11/sqKanekoMB15_d5lpzx.jpg
+primary_image_credit: 'Opera Omaha''s production of Madama Butterfly, 2019. Photo:
+  Thomas Grady.'
+related_articles:
+- articles/when-art-is-not-enough-opera-activism.md
+- articles/in-review-madam-butterfly-at-eno.md
+related_companies:
+- scene/companies/opera-omaha.md
+related_people: []
+short_description: '"Son''s entire demeanor shifted in this scene from distraught
+  mess to calm intensity. The effect was quite jarring, ending the opera with a truly
+  tragic shock."'
+slug: karah-son-a-true-jewel-of-opera-omahas-madama-butterfly
+title: Karah Son a "true jewel" of Opera Omaha's Madama Butterfly
+youtube_url: ""
+---
 Polka dots and Puccini! Opera Omaha's production of [_Madama Butterfly_](https://www.operaomaha.org/season-tickets/current-season/2020/madama-butterfly) is an intriguing marriage of modern art and musical drama. This opera classic intermingled with a kaleidoscope of colors and patterns to create a unique experience that celebrates collaboration between the visual and musical arts.
 
 This production is a revival of Opera Omaha's 2006 collaboration with Japanese ceramic artist and Omaha resident, Jun Kaneko. This was Kaneko's first foray into the art form, and his signature style was splashed across the stage from start to finish. The set design was minimalist but featured an overwhelming amount of color. At times the spiral shaped setting felt sterile and unwelcoming, and at other times, the use of multiple projections and colored streamers transformed the space into a chaotic cacophony.

@@ -1,19 +1,27 @@
-+++
-author = ["authors/vivian-darkbloom.md"]
-categories = "Review"
-date = "2018-01-14T17:40:00-05:00"
-lastmod = "2018-01-14T21:16:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546194736/media/2018/12/sq---PR8A8347-RODERICK-WILLIAMS-AS-ULYSSES-ROH-ROUNDHOUSE-PHOTO-BY-STEPHEN-CUMMISKEY.jpg"
-primary_image_credit = "Roderick Williams as Ulysses in The Return of Ulysses, The Roundhouse, ROH, 2018. Photo: Stephen Cummiskey."
-publishDate = "2018-01-14T18:38:00-05:00"
-related_articles = ["articles/in-review-the-jette-parker-young-artists-present-oreste-.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/samuel-boden.md"]
-short_description = "The undeniable star of the show was the spectacular Roderick Williams. His performance was completely committed, both vocally and from an acting perspective. He savoured every word of recitative, brought out every moment of power and beauty in the music he performed. He welcomed his audience into the space with his unique, natural warmth, making the production a joy from beginning to end."
-slug = "a-product-of-great-artistry-the-return-of-ulysses-at-the-roundhouse"
-title = "A product of great artistry: The Return of Ulysses at the Roundhouse"
-
-+++
+---
+author:
+- authors/vivian-darkbloom.md
+categories: Review
+date: "2018-01-14T17:40:00-05:00"
+lastmod: "2018-01-14T21:16:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546194736/media/2018/12/sq---PR8A8347-RODERICK-WILLIAMS-AS-ULYSSES-ROH-ROUNDHOUSE-PHOTO-BY-STEPHEN-CUMMISKEY.jpg
+primary_image_credit: 'Roderick Williams as Ulysses in The Return of Ulysses, The
+  Roundhouse, ROH, 2018. Photo: Stephen Cummiskey.'
+publishDate: "2018-01-14T18:38:00-05:00"
+related_articles:
+- articles/in-review-the-jette-parker-young-artists-present-oreste-.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/samuel-boden.md
+short_description: The undeniable star of the show was the spectacular Roderick Williams.
+  His performance was completely committed, both vocally and from an acting perspective.
+  He savoured every word of recitative, brought out every moment of power and beauty
+  in the music he performed. He welcomed his audience into the space with his unique,
+  natural warmth, making the production a joy from beginning to end.
+slug: a-product-of-great-artistry-the-return-of-ulysses-at-the-roundhouse
+title: 'A product of great artistry: The Return of Ulysses at the Roundhouse'
+---
 Monteverdi never fails to delight me - this production particularly shone because of the spectacular playing from the Early Opera Company, who shaped every moment with sensitivity and musicianship. Their playing brought the whole show to life. Every phrase had direction and beauty, every moment of the recit was full of colour and life.
 
 Generally, the production was witty and well-paced all around. It benefitted from terribly clever staging by John Fulljames, with a rotating platform surrounding the orchestra. The direction made fabulous use of the versatility of the space, creating a story which flowed naturally across the venue. There were only one or two moments towards the end of the show where the pace slowed and it dragged a little. I was also not convinced by the decision to do the production in English - it seemed unnecessary, when it was presented with clear and succinct surtitles.

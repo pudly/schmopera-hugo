@@ -1,18 +1,55 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-09-01T11:06:00-04:00"
-lastmod = "2017-08-09T19:15:00-04:00"
-preamble = "The summer winds down, and school and other seasonal activities (like opera!) are soon back in session. In anticipation of a brand new season of opera-going, I figured a practical crash-course was in order. For some of the basics, I can direct you to a few posts:\n\n- [Operatic Voice Types](/fach-isms-stereotypes-for-a-reason/)\n- [What Conductors Really Do](/spotlight-on-christopher-james-ray/)\n- [What a Répétiteur Is](/star-repetiteur-there-is-such-a-thing/)\n- and [How Singers Do Some of Their Tricks](/claire-de-sevigne-sing-fast-high/)\n\nSince this crash-course is indeed practical, I've chosen a few terms from the opera dictionary you'll need to have in your back pocket as you check out upcoming opera, 2015/16-style."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502320517718/2017-08-10---Glossary.jpg.jpg"
-publishDate = "2015-09-02T07:30:00-04:00"
-related_articles = ["articles/opera-in-summer.md","articles/the-future-of-opera-is-indie.md","articles/in-review-jenufa-czech-philharmonic.md","articles/falstaff-in-cambridge.md","articles/a-faq-checklist-for-opera-newbies.md","articles/shades-of-opera-how-to-tell-your-buffo-from-your-bel-canto.md","articles/5-reasons-to-get-your-drama-fix-from-oratorio.md","articles/shorthand-ii-proben-facher.md","articles/in-review-the-mississauga-symphony-presents-carmen.md","articles/dont-miss-schoolyard-carmen-at-tsmf.md"]
-related_companies = ["scene/companies/voicebox-opera-in-concert.md","scene/companies/canadian-opera-company.md","scene/companies/opera-da-camera.md","scene/companies/cowtown-opera-company.md","scene/companies/myopera.md","scene/companies/essential-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/the-bicycle-opera-project.md","scene/companies/stujess-productions.md","scene/companies/opera-by-request.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/joel-ivany.md","scene/people/geoffrey-sirett.md","scene/people/claire-de-sevigne.md","scene/people/christopher-james-ray.md","scene/people/natalya-matyusheva.md"]
-short_description = "The summer winds down, and school and other seasonal activities (like opera!) are soon back in session. In anticipation of a brand new season of opera-going, I figured a practical crash-course was in order."
-slug = "back-to-school-opera-a-practical-glossary"
-title = "Back to school opera: a practical glossary"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-09-01T11:06:00-04:00"
+lastmod: "2017-08-09T19:15:00-04:00"
+preamble: |-
+  The summer winds down, and school and other seasonal activities (like opera!) are soon back in session. In anticipation of a brand new season of opera-going, I figured a practical crash-course was in order. For some of the basics, I can direct you to a few posts:
+
+  - [Operatic Voice Types](/fach-isms-stereotypes-for-a-reason/)
+  - [What Conductors Really Do](/spotlight-on-christopher-james-ray/)
+  - [What a Répétiteur Is](/star-repetiteur-there-is-such-a-thing/)
+  - and [How Singers Do Some of Their Tricks](/claire-de-sevigne-sing-fast-high/)
+
+  Since this crash-course is indeed practical, I've chosen a few terms from the opera dictionary you'll need to have in your back pocket as you check out upcoming opera, 2015/16-style.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502320517718/2017-08-10---Glossary.jpg.jpg
+publishDate: "2015-09-02T07:30:00-04:00"
+related_articles:
+- articles/opera-in-summer.md
+- articles/the-future-of-opera-is-indie.md
+- articles/in-review-jenufa-czech-philharmonic.md
+- articles/falstaff-in-cambridge.md
+- articles/a-faq-checklist-for-opera-newbies.md
+- articles/shades-of-opera-how-to-tell-your-buffo-from-your-bel-canto.md
+- articles/5-reasons-to-get-your-drama-fix-from-oratorio.md
+- articles/shorthand-ii-proben-facher.md
+- articles/in-review-the-mississauga-symphony-presents-carmen.md
+- articles/dont-miss-schoolyard-carmen-at-tsmf.md
+related_companies:
+- scene/companies/voicebox-opera-in-concert.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/opera-da-camera.md
+- scene/companies/cowtown-opera-company.md
+- scene/companies/myopera.md
+- scene/companies/essential-opera.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/stujess-productions.md
+- scene/companies/opera-by-request.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/joel-ivany.md
+- scene/people/geoffrey-sirett.md
+- scene/people/claire-de-sevigne.md
+- scene/people/christopher-james-ray.md
+- scene/people/natalya-matyusheva.md
+short_description: The summer winds down, and school and other seasonal activities
+  (like opera!) are soon back in session. In anticipation of a brand new season of
+  opera-going, I figured a practical crash-course was in order.
+slug: back-to-school-opera-a-practical-glossary
+title: 'Back to school opera: a practical glossary'
+---
 
 ### In-Concert
 

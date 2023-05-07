@@ -1,22 +1,28 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2020-12-08T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "[_Stardust_](https://heliosopera.com/projects/stardust/) has two more performances, December 11 and 13."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1607196695/media/2020/12/sqSD_1JohndelosSantosKeithBrowning_egyxdw.jpg"
-primary_image_credit = "Image: Keith Browning/John de los Santos."
-related_articles = []
-related_companies = ["scene/companies/helios-opera.md"]
-related_people = ["scene/people/felix-jarrar.md", "scene/people/victoria-davis.md"]
-short_description = "It is a journey that does evolve over the course of the three songs, and textually speaking it is such an interesting journey I honestly wish there were more songs devoted to it."
-slug = "stardust-a-strong-highlight-of-poc-talent"
-title = "Stardust a strong highlight of POC talent"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2020-12-08T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: '[_Stardust_](https://heliosopera.com/projects/stardust/) has two more
+  performances, December 11 and 13.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1607196695/media/2020/12/sqSD_1JohndelosSantosKeithBrowning_egyxdw.jpg
+primary_image_credit: 'Image: Keith Browning/John de los Santos.'
+related_articles: []
+related_companies:
+- scene/companies/helios-opera.md
+related_people:
+- scene/people/felix-jarrar.md
+- scene/people/victoria-davis.md
+short_description: It is a journey that does evolve over the course of the three songs,
+  and textually speaking it is such an interesting journey I honestly wish there were
+  more songs devoted to it.
+slug: stardust-a-strong-highlight-of-poc-talent
+title: Stardust a strong highlight of POC talent
+youtube_url: ""
+---
 In the wake of Black Lives Matter protests that have sprung up in the wake of George Floyd's death, many spheres of our social lives have had to ask themselves the ways in which they can elevate black voices in what they do. The opera world is no exception, and in particular I have been privy to a bunch of emails from Boston-area opera companies designed to address these issues. Some in the Boston area were already trending towards addressing this with things like [MassOpera](/scene/companies/massopera/)'s workshop for Dan Shore's [_Freedom Ride_](/operatic-journeys-massopera-presents-freedom-ride/), but as always there is still more work to be done, particularly to boost such voices on the creative side in addition to the singing side.
 
 > It is such an interesting journey I honestly wish there were more songs devoted to it.

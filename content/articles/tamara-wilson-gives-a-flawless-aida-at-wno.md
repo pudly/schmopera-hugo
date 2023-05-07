@@ -1,18 +1,32 @@
-+++
-author = ["authors/molly-simoneau.md"]
-categories = "Review"
-date = "2017-09-17T15:01:00-04:00"
-lastmod = "2017-09-17T21:37:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505677162194/2017-09-17---square---Tamara-Wilson-Aida-and-Yonghoon-Lee-Radames.Aida.photo-by-Scott-Suchman.jpg.jpg"
-primary_image_credit = "Tamara Wilson (Aida) and Yonghoon Lee (Radamès) in Aida, Washington National Opera, 2017. Photo: Scott Suchman."
-publishDate = "2017-09-17T21:27:00-04:00"
-related_articles = ["articles/talking-with-singers-ekaterina-semenchuk.md","articles/no-opera-is-not-misogynist.md","articles/stellar-singing-curious-costumes-in-enos-aida.md","articles/sleek-storytelling-costly-illusions-wnos-alcina.md"]
-related_companies = ["scene/companies/washington-national-opera.md"]
-related_people = ["scene/people/tamara-wilson.md","scene/people/yonghoon-lee.md","scene/people/gordon-hawkins.md","scene/people/soloman-howard.md","scene/people/ekaterina-semenchuk.md"]
-short_description = "While Zambello&#039;s attempt to create a modern, stylized Aida may have failed, this performance is a delight for the ears. Tamara Wilson&#039;s flawless performance alone is worth making the trip to the Kennedy Center."
-slug = "tamara-wilson-gives-a-flawless-aida-at-wno"
-title = "Tamara Wilson gives a &quot;flawless&quot; Aida at WNO"
-+++
+---
+author:
+- authors/molly-simoneau.md
+categories: Review
+date: "2017-09-17T15:01:00-04:00"
+lastmod: "2017-09-17T21:37:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505677162194/2017-09-17---square---Tamara-Wilson-Aida-and-Yonghoon-Lee-Radames.Aida.photo-by-Scott-Suchman.jpg.jpg
+primary_image_credit: 'Tamara Wilson (Aida) and Yonghoon Lee (Radamès) in Aida, Washington
+  National Opera, 2017. Photo: Scott Suchman.'
+publishDate: "2017-09-17T21:27:00-04:00"
+related_articles:
+- articles/talking-with-singers-ekaterina-semenchuk.md
+- articles/no-opera-is-not-misogynist.md
+- articles/stellar-singing-curious-costumes-in-enos-aida.md
+- articles/sleek-storytelling-costly-illusions-wnos-alcina.md
+related_companies:
+- scene/companies/washington-national-opera.md
+related_people:
+- scene/people/tamara-wilson.md
+- scene/people/yonghoon-lee.md
+- scene/people/gordon-hawkins.md
+- scene/people/soloman-howard.md
+- scene/people/ekaterina-semenchuk.md
+short_description: While Zambello&#039;s attempt to create a modern, stylized Aida
+  may have failed, this performance is a delight for the ears. Tamara Wilson&#039;s
+  flawless performance alone is worth making the trip to the Kennedy Center.
+slug: tamara-wilson-gives-a-flawless-aida-at-wno
+title: Tamara Wilson gives a &quot;flawless&quot; Aida at WNO
+---
 
 It's not a new idea to invite well-known artists to join an opera production's design team; Marc Chagall's famous 1967 *Magic Flute* production for [The Metropolitan Opera](/scene/companies/the-metropolitan-opera/) comes to mind as a notable example, and William Kentridge's productions of *The Nose* and [*Lulu*](/in-review-lulu-at-eno/) have run at the Met and [English National Opera](/scene/companies/english-national-opera/) to acclaim in the last decade. 
 

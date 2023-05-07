@@ -1,23 +1,30 @@
-+++
-date = "2015-04-06T19:31:00+01:00"
-discipline = "Tenor"
-lastmod = "2017-03-15T11:29:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489577373656/2017-03-15---Alek-Shrader.jpg.jpg"
-primary_image_credit = "Peter Schaaf"
-publishDate = "2015-04-06T19:31:00+01:00"
-related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/seattle-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/welsh-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/canadian-opera-company.md","scene/companies/glyndebourne.md","scene/companies/los-angeles-opera.md"]
-slug = "alek-shrader"
-title = "Alek Shrader"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Alek-Shrader/139288442912?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/alekshrader"
-_template = "people_single"
-+++
+---
+date: "2015-04-06T19:31:00+01:00"
+discipline: Tenor
+lastmod: "2017-03-15T11:29:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489577373656/2017-03-15---Alek-Shrader.jpg.jpg
+primary_image_credit: Peter Schaaf
+publishDate: "2015-04-06T19:31:00+01:00"
+related_companies:
+- scene/companies/san-francisco-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/glyndebourne.md
+- scene/companies/los-angeles-opera.md
+slug: alek-shrader
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Alek-Shrader/139288442912?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/alekshrader
+title: Alek Shrader
+---
 
 The brilliant lyric tenor Alek Shrader continues to impress audiences with the “luxury of his phrasing, the clarity of his diction and the sensitivity and expressiveness of his characterizations”. Mr. Shrader makes several debuts in the 2016-2017 season, including at Wigmore Hall in a recital with pianist Roger Vignoles, with Opera de Oviedo in Spain performing Ferrando in *Così fan tutte*, and with the Minnesota Opera as Endimione in a production of Vicente Martín y Soler’s *Diana’s Garden*. He then returns to the Arizona Opera for performances of Don Ramiro in *La Cenerentola* and to the Santa Fe Opera to sing Oronte in Handel’s *Alcina*. Future projects include returns to the San Francisco Opera, the Santa Fe Opera, the Seattle Opera and Opera de Oviedo.
 

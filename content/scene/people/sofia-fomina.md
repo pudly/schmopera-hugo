@@ -1,14 +1,14 @@
-+++
-date = "2016-11-16T12:19:00+00:00"
-discipline = "Soprano"
-lastmod = "2016-11-16T12:22:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479298717286/2016-11-16---Sofia-Fomina-credit-Alecsandra-Raluca-Dragoi-Olga-Martinez.jpg.jpg"
-primary_image_credit = "Alecsandra Raluca Dragoi Photography and Olga Martinez Designs"
-publishDate = "2016-11-16T12:22:00+00:00"
-slug = "sofia-fomina"
-title = "Sofia Fomina"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2016-11-16T12:19:00+00:00"
+discipline: Soprano
+lastmod: "2016-11-16T12:22:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479298717286/2016-11-16---Sofia-Fomina-credit-Alecsandra-Raluca-Dragoi-Olga-Martinez.jpg.jpg
+primary_image_credit: Alecsandra Raluca Dragoi Photography and Olga Martinez Designs
+publishDate: "2016-11-16T12:22:00+00:00"
+slug: sofia-fomina
+title: Sofia Fomina
+---
 
 Rising star soprano Sofia Fomina made a sensational debut at the Royal Opera House, Covent Garden, in December 2012 as Isabelle in Laurent Pelly’s new production of *Robert Le Diable*. Shortly afterwards, she made debuts with the Bayerische Staatsoper and Zürich Opernhaus and was nominated by German magazine Opernwelt as Nachwuchskünstlerin des Jahres (Newcomer of the year), following her role debut as Gilda. Last season she garnered huge success at Bayersiche Staatsoper singing Oscar in a new production of *Un Ballo in Maschera* conducted by Zubin Mehta:
 

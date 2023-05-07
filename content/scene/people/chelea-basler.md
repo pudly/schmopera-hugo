@@ -1,18 +1,23 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633282824/media/2021/10/ChelseaBasler_clea6g.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/des-moines-metro-opera.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/nashville-opera.md", "scene/companies/virginia-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/boston-lyric-opera-1.md"]
-slug = "chelsea-basler"
-title = "Chelsea Basler"
-website = "https://www.chelseabasler.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/operafish11/"
-
-_template = "people_single"
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1633282824/media/2021/10/ChelseaBasler_clea6g.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/nashville-opera.md
+- scene/companies/virginia-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/boston-lyric-opera-1.md
+slug: chelsea-basler
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/operafish11/
+title: Chelsea Basler
+website: https://www.chelseabasler.com/
+---
 Grammy Award-nominated soprano Chelsea Basler continues to make her mark in an extensive array of operatic roles due to her unique combination of vocal appeal and artistry. Praised for her "luminous voice" with its "easy soaring range,” she has also been noted for her "wonderful acting" and ultimately deemed "simply superb.” During the 2020-21 season, Ms. Basler was scheduled to return to the Metropolitan Opera to cover Micaëla in _Carmen_ (COVID19), perform the role of Julia Lowell in Borzoni’s _The Copper Queen_ with Arizona Opera (COVID19), perform with Emmanuel Music as Angela in Weill’s _Firebrand of Florence_ (COVID19), and perform as the soprano soloist in Beethoven’s Ninth Symphony with Cape Symphony (COVID19 – postponed until 2022). In the summer of 2020, she was proud to be part of Boston Lyric Opera’s virtual performance of _The Fall of the House of Usher_, singing the role of Madeline. In the summer of 2021, she will return to the Newport Music Festival for a recital and in the fall of 2021, she returns to Boston Lyric Opera as Lola in _Cavalleria rusticana_.
 
 In the spring of 2019, Ms. Basler returned to Boston Lyric Opera for the East Coast premiere production of Poul Ruders' _The Handmaid's Tale_, as Moira and made  a company debut with Boston Midsummer Opera as Clorinda in _La cenerentola_. In the fall of 2019, Ms. Basler joined the Metropolitan Opera roster, covering Poussette in _Manon_, rejoined BLO to sing Mary Johnson in the New England Premier of Fellow Travelers, making her Boston Youth Symphony Orchestra debut as the High Priestess in _Aida_, her Odyssey Opera debut as Penelope in Benjamin Britten’s _Gloriana_ (COVID19) and returning to the Metropolitan Opera to cover Musetta in _La bohème_ (COVID19). In the summer of 2019, Ms. Basler performed the role of Angela in Kurt Weill’s _Firebrand of Florence_ at Jordan Hall in Boston and Ozawa Hall at Tanglewood.

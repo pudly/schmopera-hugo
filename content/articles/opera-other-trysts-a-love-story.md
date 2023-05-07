@@ -1,15 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2017-10-25T13:44:00-04:00"
-lastmod = "2017-10-26T23:18:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508955057517/2017-10-25---Baby.jpg.jpg"
-publishDate = "2017-10-26T23:18:00-04:00"
-related_articles = ["articles/the-heart-and-the-art.md","articles/childfree-opera-singers-happiness.md","articles/singers-its-time-to-expand-your-dating-pool.md","articles/2018-in-review-a-confession.md"]
-short_description = "My focus was so great that it likely made me a not-very-interesting person to those outside of my opera bubble, but I didn&#039;t care. In the years of academia, summer opera programs, and YAP audition circuits, there was always someone with whom I could talk about my love affair with opera. We were all smitten, it seemed."
-slug = "opera-other-trysts-a-love-story"
-title = "Opera &amp; other trysts: a love story"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2017-10-25T13:44:00-04:00"
+lastmod: "2017-10-26T23:18:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508955057517/2017-10-25---Baby.jpg.jpg
+publishDate: "2017-10-26T23:18:00-04:00"
+related_articles:
+- articles/the-heart-and-the-art.md
+- articles/childfree-opera-singers-happiness.md
+- articles/singers-its-time-to-expand-your-dating-pool.md
+- articles/2018-in-review-a-confession.md
+short_description: My focus was so great that it likely made me a not-very-interesting
+  person to those outside of my opera bubble, but I didn&#039;t care. In the years
+  of academia, summer opera programs, and YAP audition circuits, there was always
+  someone with whom I could talk about my love affair with opera. We were all smitten,
+  it seemed.
+slug: opera-other-trysts-a-love-story
+title: 'Opera &amp; other trysts: a love story'
+---
 
 It may be old news for some of you, but readers, I have an announcement: I'm having a baby.
 

@@ -1,16 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-03-05T13:56:00+00:00"
-lastmod = "2016-03-06T15:52:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457188176933/2016-03-05---Wigmore-Hall.jpg.jpg"
-publishDate = "2016-03-05T15:15:00+00:00"
-related_articles = ["articles/in-review-sondra-radvanovsky-at-koerner-hall.md","articles/in-review-dmitri-hvorostovsky-at-koerner-hall.md","articles/in-review-quinn-kelseys-songs-from-the-heart.md","articles/paul-appleby-telling-stories-at-wigmore-hall.md","articles/ian-rosenblatt-its-all-about-the-voice.md","articles/in-review-javier-camarena-at-wigmore-hall.md","articles/in-review-bryn-terfel-at-koerner-hall.md","articles/in-review-chris-thile-at-wigmore-hall.md","articles/in-review-kitty-whately-joseph-middleton-at-wigmore-hall.md","articles/fierce-recitals-karita-mattila-at-wigmore-hall.md"]
-related_people = ["scene/people/paul-appleby.md"]
-short_description = "It&#039;s noteworthy when a singer, in the midst of a busy schedule on the opera stage, is equally dedicated to his work in recital. Tenor Paul Appleby is a thoughtful artist, and he seems to relish the chance not only to tell many small stories in one sitting, but to collect them into a larger story arc of his own creation."
-slug = "in-review-paul-appleby-at-wigmore-hall"
-title = "In review: Paul Appleby at Wigmore Hall"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-03-05T13:56:00+00:00"
+lastmod: "2016-03-06T15:52:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457188176933/2016-03-05---Wigmore-Hall.jpg.jpg
+publishDate: "2016-03-05T15:15:00+00:00"
+related_articles:
+- articles/in-review-sondra-radvanovsky-at-koerner-hall.md
+- articles/in-review-dmitri-hvorostovsky-at-koerner-hall.md
+- articles/in-review-quinn-kelseys-songs-from-the-heart.md
+- articles/paul-appleby-telling-stories-at-wigmore-hall.md
+- articles/ian-rosenblatt-its-all-about-the-voice.md
+- articles/in-review-javier-camarena-at-wigmore-hall.md
+- articles/in-review-bryn-terfel-at-koerner-hall.md
+- articles/in-review-chris-thile-at-wigmore-hall.md
+- articles/in-review-kitty-whately-joseph-middleton-at-wigmore-hall.md
+- articles/fierce-recitals-karita-mattila-at-wigmore-hall.md
+related_people:
+- scene/people/paul-appleby.md
+short_description: It&#039;s noteworthy when a singer, in the midst of a busy schedule
+  on the opera stage, is equally dedicated to his work in recital. Tenor Paul Appleby
+  is a thoughtful artist, and he seems to relish the chance not only to tell many
+  small stories in one sitting, but to collect them into a larger story arc of his
+  own creation.
+slug: in-review-paul-appleby-at-wigmore-hall
+title: 'In review: Paul Appleby at Wigmore Hall'
+---
 
 It's noteworthy when a singer, in the midst of a busy schedule on the opera stage, is equally dedicated to his work in recital. Tenor [Paul Appleby](/scene/people/paul-appleby/) is a thoughtful artist, and he seems to relish the chance not only to tell many small stories in one sitting, but to collect them into a larger story arc of his own creation. While we wouldn't have been opposed to hearing arias from some of Appleby's signature roles like Ferrando (*Così fan tutte*) and Tom Rakewell (*The Rake's Progress*), it's impressive that he stayed within the confines (broad as they are) of song. 
 

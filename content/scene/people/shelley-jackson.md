@@ -1,24 +1,25 @@
-+++
-date = "2016-07-13T08:59:00-06:00"
-discipline = "Soprano"
-lastmod = "2016-07-13T08:59:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468421651358/2016-07-13---Shelley-Jackson---Hoebermann.jpg.jpg"
-primary_image_credit = "Kristin Hoebermann"
-publishDate = "2016-07-13T08:59:00-06:00"
-related_companies = ["scene/companies/opernhaus-zurich.md","scene/companies/the-santa-fe-opera.md"]
-slug = "shelley-jackson"
-title = "Shelley Jackson"
-website = "http://shelleyjacksonsoprano.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/sjacksonsoprano"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UC4KARXRn-nCGFLwTtItRg2g"
-_template = "people_single"
-+++
+---
+date: "2016-07-13T08:59:00-06:00"
+discipline: Soprano
+lastmod: "2016-07-13T08:59:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468421651358/2016-07-13---Shelley-Jackson---Hoebermann.jpg.jpg
+primary_image_credit: Kristin Hoebermann
+publishDate: "2016-07-13T08:59:00-06:00"
+related_companies:
+- scene/companies/opernhaus-zurich.md
+- scene/companies/the-santa-fe-opera.md
+slug: shelley-jackson
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/sjacksonsoprano
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UC4KARXRn-nCGFLwTtItRg2g
+title: Shelley Jackson
+website: http://shelleyjacksonsoprano.com/
+---
 
 Shelley Jackson is a young American soprano in her second year of the International Opera Studio of Opernhaus Zürich, where this season she makes her role debuts as Musetta in a new production of *La bohème*, and Micaëla in *Carmen*. Last season as a first year studio member, she created the protagonist role of Song- Lian in the world premiere production of *Rote Laterne* by Christian Jost, conducted by Alain Altinoglu. Her performance was universally hailed as "clear, bright, and brilliant" (Tages-Anzeiger) and "offers a balance of exciting sureness and incredible force" (Opéra Magazine). Ms. Jackson was also seen as Maid Marian in *Robin Hood* and die Vertraute in *Elektra*. Her assignments in the bel canto repertoire in Zürich include the covers of Cecilia Bartoli as Countess Adele in *Le comte Ory*, Diana Damrau as Adina in *L'elisir d'amore*, and Giulietta in a new production of *I Capuleti ed i Montecchi* led by Fabio Luisi. In the upcoming season, she will make her debut at the Teatro Massimo Palermo as Micaëla in Calixto Bieto's production of *Carmen*.
 

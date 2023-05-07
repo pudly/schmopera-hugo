@@ -1,18 +1,45 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-05-30T10:06:00+01:00"
-lastmod = "2016-05-30T16:54:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464599839586/2016-05-31---RHW-L-to-R-top-to-bottom-Keith-Klassen-as-Oscar-Peter-McGillivray-as-Bassett-Asitha-Tennekoon-Stephane-Mayer-Aaron-Durand-Sean-Clark-Elaina-Moreau-Erica-Iris.jpg.jpg"
-primary_image_credit = "A scene from Tapestry Opera's production of Rocking Horse Winner. Photo: Dahlia Katz."
-publishDate = "2016-05-30T10:24:00+01:00"
-related_articles = ["articles/dont-miss-rocking-horse-winner.md","articles/in-review-mdea-undone.md","articles/in-review-the-devil-inside.md","articles/new-operas-craig-bohmlers-riders-of-the-purple-sage.md","articles/dont-miss-glory-denied-at-nashville-opera.md","articles/dont-miss-naomis-road.md","articles/crosscanada-opera-the-overcoat-comes-to-toronto-vancouver.md","articles/oksana-g-its-so-out-of-this-world-and-yet-so-realistic.md","articles/tough-to-watch-oksana-g.md","articles/cosmic-grandeur-and-human-frailty-crossing.md","articles/materialism-turns-tragic-dont-miss-the-overcoat.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/asitha-tennekoon.md","scene/people/carla-huhtanen.md","scene/people/peter-mcgillivray.md","scene/people/keith-klassen.md","scene/people/michael-mori.md","scene/people/jordan-de-souza.md","scene/people/anna-chatterton.md"]
-short_description = "As the autistic son, Paul, Asitha Tennekoon is a revelation. His beautiful leggiero tenor was perfect for playing the delicate Paul. It bridged the gap between full Mozart opera and contemporary musical theatre. But to be honest, his acting is the reason to see this show. I&#039;ve been watching Asitha grow as a performer over the last couple of years and I have to say that this could literally be a breakout role for this young man. It was endearing, truthful, and raw. "
-slug = "in-review-rocking-horse-winner"
-title = "In review: Rocking Horse Winner"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-05-30T10:06:00+01:00"
+lastmod: "2016-05-30T16:54:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464599839586/2016-05-31---RHW-L-to-R-top-to-bottom-Keith-Klassen-as-Oscar-Peter-McGillivray-as-Bassett-Asitha-Tennekoon-Stephane-Mayer-Aaron-Durand-Sean-Clark-Elaina-Moreau-Erica-Iris.jpg.jpg
+primary_image_credit: 'A scene from Tapestry Opera''s production of Rocking Horse
+  Winner. Photo: Dahlia Katz.'
+publishDate: "2016-05-30T10:24:00+01:00"
+related_articles:
+- articles/dont-miss-rocking-horse-winner.md
+- articles/in-review-mdea-undone.md
+- articles/in-review-the-devil-inside.md
+- articles/new-operas-craig-bohmlers-riders-of-the-purple-sage.md
+- articles/dont-miss-glory-denied-at-nashville-opera.md
+- articles/dont-miss-naomis-road.md
+- articles/crosscanada-opera-the-overcoat-comes-to-toronto-vancouver.md
+- articles/oksana-g-its-so-out-of-this-world-and-yet-so-realistic.md
+- articles/tough-to-watch-oksana-g.md
+- articles/cosmic-grandeur-and-human-frailty-crossing.md
+- articles/materialism-turns-tragic-dont-miss-the-overcoat.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/asitha-tennekoon.md
+- scene/people/carla-huhtanen.md
+- scene/people/peter-mcgillivray.md
+- scene/people/keith-klassen.md
+- scene/people/michael-mori.md
+- scene/people/jordan-de-souza.md
+- scene/people/anna-chatterton.md
+short_description: 'As the autistic son, Paul, Asitha Tennekoon is a revelation. His
+  beautiful leggiero tenor was perfect for playing the delicate Paul. It bridged the
+  gap between full Mozart opera and contemporary musical theatre. But to be honest,
+  his acting is the reason to see this show. I&#039;ve been watching Asitha grow as
+  a performer over the last couple of years and I have to say that this could literally
+  be a breakout role for this young man. It was endearing, truthful, and raw. '
+slug: in-review-rocking-horse-winner
+title: 'In review: Rocking Horse Winner'
+---
 
 On one of the hottest days Toronto has seen so far in 2016, I tore myself away from a patio in the distillery district - anyone who lives in Toronto knows how hard that is to do on a hot Saturday afternoon - and made my way through the Old Town of York over to the Berkeley Street Theatre for [Tapestry Opera](/scene/companies/tapestry-opera/)'s *Rocking Horse Winner*.
 

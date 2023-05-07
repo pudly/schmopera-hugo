@@ -1,18 +1,28 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Review"
-date = "2018-02-05T14:07:00-05:00"
-lastmod = "2018-02-05T16:22:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517857437326/sq---Onegin-146.jpg.jpg"
-primary_image_credit = "Lara Ciekiewicz as Tatyana in Eugene Onegin, Calgary Opera, 2018."
-publishDate = "2018-02-05T14:07:00-05:00"
-related_articles = ["articles/spotlight-on-lara-ciekiewicz.md"]
-related_companies = ["scene/companies/calgary-opera.md"]
-related_people = ["scene/people/phillip-addis.md","scene/people/adam-luther.md"]
-short_description = "Addis carries himself with poise and swagger that underscore his character&#039;s coldness. But in the third act, Addis unleashes a full range of his acting and vocal ability when his character finally recognizes his love for Tatyana. His vibrant voice is pierced with desperation as he pleads with Tatyana, who refuses to act on her feelings for him."
-slug = "ciekiewicz-triumphant-in-calgary-operas-onegin"
-title = "Ciekiewicz &quot;triumphant&quot; in Calgary Opera&#039;s Onegin"
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Review
+date: "2018-02-05T14:07:00-05:00"
+lastmod: "2018-02-05T16:22:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517857437326/sq---Onegin-146.jpg.jpg
+primary_image_credit: Lara Ciekiewicz as Tatyana in Eugene Onegin, Calgary Opera,
+  2018.
+publishDate: "2018-02-05T14:07:00-05:00"
+related_articles:
+- articles/spotlight-on-lara-ciekiewicz.md
+related_companies:
+- scene/companies/calgary-opera.md
+related_people:
+- scene/people/phillip-addis.md
+- scene/people/adam-luther.md
+short_description: Addis carries himself with poise and swagger that underscore his
+  character&#039;s coldness. But in the third act, Addis unleashes a full range of
+  his acting and vocal ability when his character finally recognizes his love for
+  Tatyana. His vibrant voice is pierced with desperation as he pleads with Tatyana,
+  who refuses to act on her feelings for him.
+slug: ciekiewicz-triumphant-in-calgary-operas-onegin
+title: Ciekiewicz &quot;triumphant&quot; in Calgary Opera&#039;s Onegin
+---
 
 Leave it to the sweeping, lush music of Tchaikovsky to warm up an otherwise frigid winter night in Calgary.
 

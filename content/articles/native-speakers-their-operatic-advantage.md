@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-05-29T12:17:00-06:00"
-lastmod = "2015-06-30T22:55:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435622804229/Map.jpg.jpg"
-publishDate = "2015-06-30T07:56:00-06:00"
-related_articles = ["articles/6-learn-language.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/jonas-kaufmann.md","scene/people/diana-damrau.md","scene/people/plcido-domingo.md"]
-short_description = "I can&#039;t vouch for native speakers of German, Italian, French, Russian, etc., but for singers whose first language is English, the idea of &quot;singing in one&#039;s native tongue&quot; is a frightful one. English can be a tricky language to sing, especially if you&#039;re born in North America. "
-slug = "native-speakers-their-operatic-advantage"
-title = "Native speakers &amp; their operatic advantage"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-05-29T12:17:00-06:00"
+lastmod: "2015-06-30T22:55:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435622804229/Map.jpg.jpg
+publishDate: "2015-06-30T07:56:00-06:00"
+related_articles:
+- articles/6-learn-language.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/jonas-kaufmann.md
+- scene/people/diana-damrau.md
+- scene/people/plcido-domingo.md
+short_description: 'I can&#039;t vouch for native speakers of German, Italian, French,
+  Russian, etc., but for singers whose first language is English, the idea of &quot;singing
+  in one&#039;s native tongue&quot; is a frightful one. English can be a tricky language
+  to sing, especially if you&#039;re born in North America. '
+slug: native-speakers-their-operatic-advantage
+title: Native speakers &amp; their operatic advantage
+---
 
 I can't vouch for native speakers of German, Italian, French, Russian, etc., but for singers whose first language is English, the idea of "singing in one's native tongue" is a frightful one. English can be a tricky language to sing, especially if you're born in North America. Our vowels are dull, and there are lots of schwas replacing what could be lovely bright vowels (my name, for example is Jenna, often pronounced [dʒɛnə]).
 

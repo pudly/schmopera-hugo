@@ -1,22 +1,22 @@
-+++
-author = []
-date = "2019-02-20T01:04:44+00:00"
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550624370/media/2019/02/LauraLeon.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = ["scene/companies/florida-grand-opera.md"]
-related_people = []
-slug = "laura-leon"
-title = "Laura León"
-website = ""
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Laura-Leon-Soprano-142207299314061/"
-
-_template = "people_single"
-+++
+---
+author: []
+date: "2019-02-20T01:04:44+00:00"
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550624370/media/2019/02/LauraLeon.jpg
+primary_image_credit: ""
+related_articles: []
+related_companies:
+- scene/companies/florida-grand-opera.md
+related_people: []
+slug: laura-leon
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Laura-Leon-Soprano-142207299314061/
+title: Laura León
+website: ""
+---
 Laura Martínez León is a natural Cuban soprano. She emigrated from Cuba to the United States in 2005 and is currently a Young Artist at Florida Grand Opera where she is covering Yvette in _The Passenger_ and Norina in _Don Pasquale_.
 
 Laura was last seen performing as a Young Artist at Florida Grand Opera’s numerous Outreach performances as Norina and as Cecilia Valdés. She was also seen as a Diva in the raising show _Dueling Divas_ with Opera Fusion this past October of 2015 and as a soloist with the prestigious Enrique Chia in a concert offered by the Cuban Research Institute of Miami on the past December 7th a presented by Florida International University.

@@ -1,17 +1,23 @@
-+++
-author = ["authors/lara-secordhaid.md"]
-categories = "Review"
-date = "2018-10-29T20:46:00-04:00"
-lastmod = "2018-10-31T13:24:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540860117841/sqBoyleDSC_1104.jpg.jpg"
-primary_image_credit = "Dragus Maximus, Heartbeat Opera, 2018. Photo: Russ Rowland."
-publishDate = "2018-10-29T21:36:00-04:00"
-related_articles = ["articles/a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza.md"]
-related_companies = ["scene/companies/heartbeat-opera.md"]
-short_description = "The show, a revue of Baroque arias and a world premiere by music director Daniel Schlosberg, incorporated masterful singing, a costumed 6-piece band, gender bending, lip syncing, imaginative costumes and dazzling makeup in the intimate venue of Roulette Theatre in Brooklyn."
-slug = "spectacle-art-dragus-maximus"
-title = "Spectacle &amp; art: Dragus Maximus"
-+++
+---
+author:
+- authors/lara-secordhaid.md
+categories: Review
+date: "2018-10-29T20:46:00-04:00"
+lastmod: "2018-10-31T13:24:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540860117841/sqBoyleDSC_1104.jpg.jpg
+primary_image_credit: 'Dragus Maximus, Heartbeat Opera, 2018. Photo: Russ Rowland.'
+publishDate: "2018-10-29T21:36:00-04:00"
+related_articles:
+- articles/a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza.md
+related_companies:
+- scene/companies/heartbeat-opera.md
+short_description: The show, a revue of Baroque arias and a world premiere by music
+  director Daniel Schlosberg, incorporated masterful singing, a costumed 6-piece band,
+  gender bending, lip syncing, imaginative costumes and dazzling makeup in the intimate
+  venue of Roulette Theatre in Brooklyn.
+slug: spectacle-art-dragus-maximus
+title: 'Spectacle &amp; art: Dragus Maximus'
+---
 
 Heartbeat Opera's *Dragus Maximus: A Homersexual Opera Odyssey* was a treat for the eyes and ears and an appeal to the Love that unites us, of which we must constantly be reminded.
 

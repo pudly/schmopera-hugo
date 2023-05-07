@@ -1,16 +1,23 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2017-10-10T09:19:00-04:00"
-lastmod = "2017-10-10T21:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507658669577/2017-10-10---rough-for-opera-CAN-YOU-GIVE-UP-YOUR-SEAT-PLEASE-credit-Nick-Rutter.jpg.jpg"
-primary_image_credit = "rough for opera #16, Can You Give Up Your Seat, Please? Photo: Nick Rutter."
-publishDate = "2017-10-10T21:24:00-04:00"
-related_articles = ["articles/how-to-throw-a-funeral-for-a-viola.md","articles/american-opera-projects-youre-seeing-the-opera-in-microcosm.md"]
-short_description = "All of the pieces were presented as works in progress, with the possibility of expansion or revision pending audience feedback. Being in this kind of environment, even as a spectator, was thrilling, with everyone in the room contributing to the creative process that goes into creating a piece of music theatre."
-slug = "how-did-we-do-second-movement-presents-rough-for-opera-16"
-title = "&quot;How did we do?&quot; Second Movement Presents: rough for opera #16"
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2017-10-10T09:19:00-04:00"
+lastmod: "2017-10-10T21:28:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507658669577/2017-10-10---rough-for-opera-CAN-YOU-GIVE-UP-YOUR-SEAT-PLEASE-credit-Nick-Rutter.jpg.jpg
+primary_image_credit: 'rough for opera #16, Can You Give Up Your Seat, Please? Photo:
+  Nick Rutter.'
+publishDate: "2017-10-10T21:24:00-04:00"
+related_articles:
+- articles/how-to-throw-a-funeral-for-a-viola.md
+- articles/american-opera-projects-youre-seeing-the-opera-in-microcosm.md
+short_description: All of the pieces were presented as works in progress, with the
+  possibility of expansion or revision pending audience feedback. Being in this kind
+  of environment, even as a spectator, was thrilling, with everyone in the room contributing
+  to the creative process that goes into creating a piece of music theatre.
+slug: how-did-we-do-second-movement-presents-rough-for-opera-16
+title: '&quot;How did we do?&quot; Second Movement Presents: rough for opera #16'
+---
 
 Monday night was the sixteenth edition of *rough for opera*, a "scratch night" for new opera presented by Second Movement at The Cockpit in Marylebone. The format of the night provides a safe space for creative teams to present short works in front of an audience, with the added bonus of receiving audience feedback at the end of each performance. In addition to an informal discussion led by Professor Paul Barker following each piece, the audience was invited to fill out a feedback form, where we could describe what we saw as effective or ineffective, enjoyable or unenjoyable. 
 

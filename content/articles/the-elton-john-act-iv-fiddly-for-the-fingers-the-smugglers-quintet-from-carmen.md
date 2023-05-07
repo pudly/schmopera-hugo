@@ -1,22 +1,37 @@
-+++
-author = ["authors/david-todd.md"]
-categories = "How-To"
-date = 2023-04-08T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = "This article is one of a series called [\"The Elton John Act\"](/the-elton-john-act/), which aims to de-mystify the process of becoming an operatic répétiteur and assist anyone wishing to audition as one in the German-speaking operatic system. Here we continue with the \"Smugglers’ Quintet\" from Bizet’s opera Carmen."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1680468173/media/2023/04/sqPianistseries_Carmen_ctc3ho.jpg"
-primary_image_credit = "There is an inbuilt feeling of illicit excitement that runs throughout this fun-filled excerpt, and a wonderful sense of camaraderie between the characters is developed throughout. Photo: Robert Workman."
-related_articles = ["articles/the-elton-john-act-vii-don-t-stop-playing-never-look-back-the-dreaded-sight-reading.md", "articles/the-elton-john-act-vi-between-the-sheets-the-opening-of-der-rosenkavalier.md", "articles/the-elton-john-act-v-riding-the-rollercoaster-the-act-ii-finale-from-le-nozze-di-figaro.md", "articles/pianist-s-progress-i-the-elton-john-act.md", "articles/pianist-s-progress-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra.md", "articles/pianist-s-progress-ii-trampolines-tongue-twisters-the-set-audition-excerptsexcerpts.md"]
-related_companies = []
-related_people = []
-short_description = "Though this excerpt can be frustrating at times due to its technical challenges, I promise it gets easier. Nevertheless, if I can, I always avoid starting with it in an audition, as it works best for me when my fingers are a little warmed up and I'm feeling a little more comfortable with my surroundings."
-slug = "the-elton-john-act-iv-fiddly-for-the-fingers-the-smugglers-quintet-from-carmen"
-title = "The Elton John Act IV: Fiddly for the Fingers – The \"Smugglers’ Quintet\" from Carmen"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/david-todd.md
+categories: How-To
+date: "2023-04-08T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: This article is one of a series called ["The Elton John Act"](/the-elton-john-act/),
+  which aims to de-mystify the process of becoming an operatic répétiteur and assist
+  anyone wishing to audition as one in the German-speaking operatic system. Here we
+  continue with the "Smugglers’ Quintet" from Bizet’s opera Carmen.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1680468173/media/2023/04/sqPianistseries_Carmen_ctc3ho.jpg
+primary_image_credit: 'There is an inbuilt feeling of illicit excitement that runs
+  throughout this fun-filled excerpt, and a wonderful sense of camaraderie between
+  the characters is developed throughout. Photo: Robert Workman.'
+related_articles:
+- articles/the-elton-john-act-vii-don-t-stop-playing-never-look-back-the-dreaded-sight-reading.md
+- articles/the-elton-john-act-vi-between-the-sheets-the-opening-of-der-rosenkavalier.md
+- articles/the-elton-john-act-v-riding-the-rollercoaster-the-act-ii-finale-from-le-nozze-di-figaro.md
+- articles/pianist-s-progress-i-the-elton-john-act.md
+- articles/pianist-s-progress-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra.md
+- articles/pianist-s-progress-ii-trampolines-tongue-twisters-the-set-audition-excerptsexcerpts.md
+related_companies: []
+related_people: []
+short_description: Though this excerpt can be frustrating at times due to its technical
+  challenges, I promise it gets easier. Nevertheless, if I can, I always avoid starting
+  with it in an audition, as it works best for me when my fingers are a little warmed
+  up and I'm feeling a little more comfortable with my surroundings.
+slug: the-elton-john-act-iv-fiddly-for-the-fingers-the-smugglers-quintet-from-carmen
+title: 'The Elton John Act IV: Fiddly for the Fingers – The "Smugglers’ Quintet" from
+  Carmen'
+youtube_url: ""
+---
 * Opera: _Carmen_
 * Composer: Georges Bizet
 * Length of Scene to learn: Beginning of Quintet Scene No. 15 to the end of the scene ("avec soi") before the next recitative.

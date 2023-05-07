@@ -1,22 +1,30 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2022-07-11T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1657549194/media/2022/07/SqMETorchestra_CH11216986_quqrmx.jpg"
-primary_image_credit = "Maestro Yannick Nézet-Séguin and the MET Orchestra playing to a full house at Carnegie Hall. Photo: Chris Lee."
-related_articles = []
-related_companies = []
-related_people = ["scene/people/missy-mazzoli.md", "scene/people/yannick-nezet-seguin.md", "scene/people/brandon-jovanovich.md", "scene/people/ryan-speedo-green.md", "scene/people/nadine-sierra.md", "scene/people/christine-goerke.md"]
-short_description = "The blazing orchestra doesn't so much compensate for the lack of the sword and tree but more accurately supplants the need for such paraphernalia."
-slug = "the-met-orchestra-reigns-and-goerke-sings-sieglinde"
-title = "The MET Orchestra reigns and Goerke sings Sieglinde"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2022-07-11T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1657549194/media/2022/07/SqMETorchestra_CH11216986_quqrmx.jpg
+primary_image_credit: 'Maestro Yannick Nézet-Séguin and the MET Orchestra playing
+  to a full house at Carnegie Hall. Photo: Chris Lee.'
+related_articles: []
+related_companies: []
+related_people:
+- scene/people/missy-mazzoli.md
+- scene/people/yannick-nezet-seguin.md
+- scene/people/brandon-jovanovich.md
+- scene/people/ryan-speedo-green.md
+- scene/people/nadine-sierra.md
+- scene/people/christine-goerke.md
+short_description: The blazing orchestra doesn't so much compensate for the lack of
+  the sword and tree but more accurately supplants the need for such paraphernalia.
+slug: the-met-orchestra-reigns-and-goerke-sings-sieglinde
+title: The MET Orchestra reigns and Goerke sings Sieglinde
+youtube_url: ""
+---
 As the erotic energy of Strauss' _Don Juan_ gave way to its fateful conclusion, an audible gasp was heard in the audience. It diffused what was otherwise a profound and breathtaking moment of silence. The mighty MET Orchestra, reigning on stage for the second of its three concerts at Carnegie Hall, performed this complexly orchestrated tone poem with consummate power and precision that is arguably unmatched in the higher echelons of opera orchestras or symphony orchestras for that matter.
 
 The evening was headlined by Wagner's _Die Walküre_, Act I with soprano [Christine Goerke](/talking-with-singers-christine-goerke/), the MET's current Brünnhilde, singing Sieglinde for the first time. But is was the Strauss and [Yannick Nézet-Séguin](/scene/people/yannick-nezet-seguin/)'s conducting, thoughtful and gyroscopically nimble, that immediately captivated the full house.

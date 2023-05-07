@@ -1,19 +1,26 @@
-+++
-date = "2015-04-07T03:18:00+01:00"
-discipline = "Soprano"
-lastmod = "2017-02-10T19:53:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1611881591/media/2021/01/A._Fortunata_Headshot_ppdgsr.jpg"
-publishDate = "2015-04-07T03:18:00+01:00"
-related_companies = ["scene/companies/pacific-opera-victoria.md", "scene/companies/calgary-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/the-dallas-opera.md", "scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/canadian-opera-company.md", "scene/companies/merola-opera-program.md", "scene/companies/cardiff-singer-of-the-world-competition.md"]
-slug = "aviva-fortunata"
-title = "Aviva Fortunata"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/avivafortunata"
-
-_template = "people_single"
-+++
+---
+date: "2015-04-07T03:18:00+01:00"
+discipline: Soprano
+lastmod: "2017-02-10T19:53:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1611881591/media/2021/01/A._Fortunata_Headshot_ppdgsr.jpg
+publishDate: "2015-04-07T03:18:00+01:00"
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/calgary-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/merola-opera-program.md
+- scene/companies/cardiff-singer-of-the-world-competition.md
+slug: aviva-fortunata
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/avivafortunata
+title: Aviva Fortunata
+---
 Canadian-Italian soprano Aviva Fortunata, named twice as one of CBC’s Top 30 Canadian Classical Artists Under 30, is earning international attention with her “velvety timbre”, “gleaming tone”, and voice “of diva soprano quality and strength”. To great acclaim, she stepped in last-minute to replace an ailing colleague in the title role of _Norma_ at The Dallas Opera, securing the _bel canto_ heroine as one of Ms. Fortunata’s signature roles.
 
 Postponed due to COVID-19, Ms. Fortunata’s rescheduled 2020-21 season sees her as Donna Anna in Pacific Opera Victoria’s upcoming production of _Don Giovanni_ (TBD), and as Hanna Glawari in Calgary Opera’s _The Merry Widow_ (2022).

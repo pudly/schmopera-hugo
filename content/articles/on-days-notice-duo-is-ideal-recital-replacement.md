@@ -1,16 +1,23 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2018-11-22T11:35:00-05:00"
-lastmod = "2018-11-23T11:14:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542904299836/sqliederabend_christiane_karg_simon_lepper_barbara_aumueller_05.jpg.jpg"
-primary_image_credit = "Christiane Karg (soprano) & Simon Lepper Ruf (piano) in recital with the Frankfurter Liederabend, 2018. Photo: Barbara Aumüller."
-publishDate = "2018-11-22T11:35:00-05:00"
-related_companies = ["scene/companies/oper-frankfurt.md"]
-short_description = "Ms. Karg reassured the audience that she had recently performed the two Debussy sets anchoring her program – for this year&#039;s centenary of his death – though never with pianist Simon Lepper (her usual collaborator, the eminent Gerold Huber, was booked). Ms. Karg and Mr. Lepper had never shared the stage before Tuesday night."
-slug = "on-days-notice-duo-is-ideal-recital-replacement"
-title = "On day&#039;s notice, duo is ideal recital replacement"
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2018-11-22T11:35:00-05:00"
+lastmod: "2018-11-23T11:14:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542904299836/sqliederabend_christiane_karg_simon_lepper_barbara_aumueller_05.jpg.jpg
+primary_image_credit: 'Christiane Karg (soprano) & Simon Lepper Ruf (piano) in recital
+  with the Frankfurter Liederabend, 2018. Photo: Barbara Aumüller.'
+publishDate: "2018-11-22T11:35:00-05:00"
+related_companies:
+- scene/companies/oper-frankfurt.md
+short_description: Ms. Karg reassured the audience that she had recently performed
+  the two Debussy sets anchoring her program – for this year&#039;s centenary of his
+  death – though never with pianist Simon Lepper (her usual collaborator, the eminent
+  Gerold Huber, was booked). Ms. Karg and Mr. Lepper had never shared the stage before
+  Tuesday night.
+slug: on-days-notice-duo-is-ideal-recital-replacement
+title: On day&#039;s notice, duo is ideal recital replacement
+---
 
 Vocal folds are fickle. Sickness can render them unusable, but the show must go on. Christiane Karg, a former Oper Frankfurt ensemble member, who performed a program of Debussy, Satie, and Wagner songs Tuesday night, was booked on one day's notice to replace an ailing Hanna-Elisabeth Müller.
  

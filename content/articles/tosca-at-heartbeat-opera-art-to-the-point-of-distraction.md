@@ -1,22 +1,33 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = 2023-04-17T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "[Heartbeat Opera's production of _Tosca_](https://www.heartbeatopera.org/tosca-2023) runs for two more performances, on April 21 and 23, 2023."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1681780343/media/2023/04/sqHeartbeatOpera_Tosca_HBTOSCA7_or4wlh.jpg"
-primary_image_credit = "Anush Avetisyan as Tosca in Heartbeat Opera's production of Tosca, 2023. Photo; Russ Rowland. "
-related_articles = ["articles/in-review-tosca-at-the-coc.md", "articles/wno-tosca.md"]
-related_companies = ["scene/companies/heartbeat-opera.md"]
-related_people = ["scene/people/gustavo-feulian.md", "scene/people/chad-kranak.md", "scene/people/anush-avetisyan.md"]
-short_description = "Shadi G can only get to her concept by imposing an element which proves to be downright distracting. She has added to the cast two non-singing members of \"the secret police\" who are ominously watching the proceedings and who even try, on several occasions, to arrest members of the cast."
-slug = "tosca-at-heartbeat-opera-art-to-the-point-of-distraction"
-title = "Tosca at Heartbeat Opera: art to the point of distraction"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2023-04-17T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: '[Heartbeat Opera''s production of _Tosca_](https://www.heartbeatopera.org/tosca-2023)
+  runs for two more performances, on April 21 and 23, 2023.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1681780343/media/2023/04/sqHeartbeatOpera_Tosca_HBTOSCA7_or4wlh.jpg
+primary_image_credit: 'Anush Avetisyan as Tosca in Heartbeat Opera''s production of
+  Tosca, 2023. Photo; Russ Rowland. '
+related_articles:
+- articles/in-review-tosca-at-the-coc.md
+- articles/wno-tosca.md
+related_companies:
+- scene/companies/heartbeat-opera.md
+related_people:
+- scene/people/gustavo-feulian.md
+- scene/people/chad-kranak.md
+- scene/people/anush-avetisyan.md
+short_description: Shadi G can only get to her concept by imposing an element which
+  proves to be downright distracting. She has added to the cast two non-singing members
+  of "the secret police" who are ominously watching the proceedings and who even try,
+  on several occasions, to arrest members of the cast.
+slug: tosca-at-heartbeat-opera-art-to-the-point-of-distraction
+title: 'Tosca at Heartbeat Opera: art to the point of distraction'
+youtube_url: ""
+---
 [Heartbeat Opera](/scene/companies/heartbeat-opera/) celebrates its 10th anniversary next season and its mission is to create "radically imagined adaptations."
 
 But it's a constant and obvious question: when do adaptations muddle a great opera and when do they enlighten? Director [Shadi G](https://www.shadighaheri.com/) has a political statement to make about the world today and has found a vehicle in one of the greatest works ever composed: Puccini's _Tosca_. The plot of _Tosca_ was originally set in 1800 Rome, but Shadi G sees a parallel and sets her production in modern-day Iran. (Supertitles are in both English and Farsi.) You can understand her impulse; the plot of _Tosca_ involves government corruption, political prisoners, sexual subjugation of women, artists victimized by an autocratic state and the hypocrisy of theocracy. However, even though the finale takes place on a rooftop with a panoramic view of Tehran in the background and assassins in modern dress in the foreground, there is little (if not confusing) connective tissue to Shadi G's concept in the preceding acts. She does change Tosca's line "What a sin! You have undone my hair" to "What a sin! You have seen my hair," a modern reference to the current anti-hijab movement, but otherwise it's the traditional Ilicia and Giacosa libretto which retains the storyline about Napoleon and Rome.

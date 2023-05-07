@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-12-07T12:42:00+00:00"
-lastmod = "2016-12-07T17:58:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481129242930/2016-12-7---Falstaff.jpg.jpg"
-primary_image_credit = "Clockwise from top left: Clockwise from top left: Daisy Evans , Keel Watson, Timothy Redmond, and Mark Stone."
-publishDate = "2016-12-07T15:00:00+00:00"
-related_articles = ["articles/back-to-school-opera-a-practical-glossary.md","articles/opera-in-concert-uncluttered-or-uninteresting.md"]
-short_description = "&quot;There is something very exciting about staging grand opera in an intimate venue,&quot; says Redmond, &quot;that brings a power and intensity to the performances that one can sometimes miss in a large opera house. With an orchestra of 80, a chorus of nearly 100, and an international cast of soloists, it&#039;s an exciting sound!&quot;"
-slug = "falstaff-in-cambridge"
-title = "Falstaff in Cambridge"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-12-07T12:42:00+00:00"
+lastmod: "2016-12-07T17:58:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481129242930/2016-12-7---Falstaff.jpg.jpg
+primary_image_credit: 'Clockwise from top left: Clockwise from top left: Daisy Evans
+  , Keel Watson, Timothy Redmond, and Mark Stone.'
+publishDate: "2016-12-07T15:00:00+00:00"
+related_articles:
+- articles/back-to-school-opera-a-practical-glossary.md
+- articles/opera-in-concert-uncluttered-or-uninteresting.md
+short_description: '&quot;There is something very exciting about staging grand opera
+  in an intimate venue,&quot; says Redmond, &quot;that brings a power and intensity
+  to the performances that one can sometimes miss in a large opera house. With an
+  orchestra of 80, a chorus of nearly 100, and an international cast of soloists,
+  it&#039;s an exciting sound!&quot;'
+slug: falstaff-in-cambridge
+title: Falstaff in Cambridge
+---
 
 Established in 1887, the Cambridge Philharmonic is one of Britain's oldest and most established musical societies. Singers like Kathleen Ferrier, Peter Pears, and Philip Langridge all performed there, and in the past decade under Principal Conductor [Timothy Redmond](http://cam-phil.org.uk/bio/TimRedmond.html), the Philharmonic has presented in-concert opera performances as part of their season. 
 

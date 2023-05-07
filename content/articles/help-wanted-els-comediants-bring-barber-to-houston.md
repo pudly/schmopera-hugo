@@ -1,16 +1,24 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = "2018-02-07T11:29:00-05:00"
-lastmod = "2018-02-07T16:15:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518020949716/sq---hgo---the-barber-of-seville---2018---photographer-lynn-lane-142-3000x2000.jpg.jpg"
-primary_image_credit = "Sofia Selowsky (Rosina) and David Portillo (Count Almaviva) in Il barbiere di Siviglia, Houston Grand Opera, 2018. Photo: Lynn Lane."
-publishDate = "2018-02-07T16:15:00-05:00"
-related_companies = ["scene/companies/houston-grand-opera.md"]
-short_description = "At any rate, the production focuses on the perennial problem of &quot;finding good help these days;&quot; do the servants really care about their employers&#039; tribulations? Is it any wonder that Bartolo&#039;s (Peixin Chen) house is falling apart? Indeed, the Houston Grand Opera Chorus were skilled at portraying a motley group of musicians who just need to keep their voices down once in a while, lest they attract the attention of the bayonet-armed, plume-graced Seville gendarmes."
-slug = "help-wanted-els-comediants-bring-barber-to-houston"
-title = "Help wanted: Els Comediants bring Barber to Houston"
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2018-02-07T11:29:00-05:00"
+lastmod: "2018-02-07T16:15:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518020949716/sq---hgo---the-barber-of-seville---2018---photographer-lynn-lane-142-3000x2000.jpg.jpg
+primary_image_credit: 'Sofia Selowsky (Rosina) and David Portillo (Count Almaviva)
+  in Il barbiere di Siviglia, Houston Grand Opera, 2018. Photo: Lynn Lane.'
+publishDate: "2018-02-07T16:15:00-05:00"
+related_companies:
+- scene/companies/houston-grand-opera.md
+short_description: At any rate, the production focuses on the perennial problem of
+  &quot;finding good help these days;&quot; do the servants really care about their
+  employers&#039; tribulations? Is it any wonder that Bartolo&#039;s (Peixin Chen)
+  house is falling apart? Indeed, the Houston Grand Opera Chorus were skilled at portraying
+  a motley group of musicians who just need to keep their voices down once in a while,
+  lest they attract the attention of the bayonet-armed, plume-graced Seville gendarmes.
+slug: help-wanted-els-comediants-bring-barber-to-houston
+title: 'Help wanted: Els Comediants bring Barber to Houston'
+---
 
 The year 1816 was undoubtedly one of the most important ones for opera as we know it, largely because of the 24-year-old Gioachino Rossini. Not only did he revolutionize the world of serious opera with the Naples premiere of his masterful *Otello*, which transformed onstage death in Italian opera (a very French thing) into a trend that would last the entirety of the century, but he had also earlier that year in Rome bequeathed onto the musical world one of his final Italian comic operas, *Il barbiere di Siviglia*, the exemplar of the genre. Though I am indeed inclined to view his serious operas as more musically inspired, indeed, as better compositions, [Houston Grand Opera's performance](http://www.houstongrandopera.org/thebarberofseville) of this on Mendelssohn's birthday was quite genial. Certainly the fact that HM King Felipe VI had recently celebrated his 50th birthday served to put me in a very good mood to appreciate it.
 

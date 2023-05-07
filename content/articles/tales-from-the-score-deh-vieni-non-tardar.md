@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2016-07-19T11:40:00-04:00"
-lastmod = "2016-07-19T13:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468948368937/2016-07-19---Figaro-MC-1107.jpg.jpg"
-primary_image_credit = "Josef Wagner (Figaro), Jane Archibald (Susanna) in the COC’s production of The Marriage of Figaro, 2016, photo: Michael Cooper"
-publishDate = "2016-07-19T13:48:00-04:00"
-related_articles = ["articles/tales-from-the-score-zerbinetta.md","articles/tales-from-the-score-annas-innocence.md"]
-short_description = "This aria is so often sung that we can become immune to its effect in the context of the entire opera. It&#039;s incredibly difficult to play all the musical and dramatic layers when singing the aria alone in an audition or concert. But it can be tons of fun to pretend (to pretend to pretend, really) that Susanna is imagining herself a Real Lady, and finally gets the chance to try it out. It&#039;s very Eliza Doolittle, when you think about it."
-slug = "tales-from-the-score-deh-vieni-non-tardar"
-title = "Tales from the score: Deh vieni, non tardar"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2016-07-19T11:40:00-04:00"
+lastmod: "2016-07-19T13:48:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468948368937/2016-07-19---Figaro-MC-1107.jpg.jpg
+primary_image_credit: 'Josef Wagner (Figaro), Jane Archibald (Susanna) in the COC’s
+  production of The Marriage of Figaro, 2016, photo: Michael Cooper'
+publishDate: "2016-07-19T13:48:00-04:00"
+related_articles:
+- articles/tales-from-the-score-zerbinetta.md
+- articles/tales-from-the-score-annas-innocence.md
+short_description: This aria is so often sung that we can become immune to its effect
+  in the context of the entire opera. It&#039;s incredibly difficult to play all the
+  musical and dramatic layers when singing the aria alone in an audition or concert.
+  But it can be tons of fun to pretend (to pretend to pretend, really) that Susanna
+  is imagining herself a Real Lady, and finally gets the chance to try it out. It&#039;s
+  very Eliza Doolittle, when you think about it.
+slug: tales-from-the-score-deh-vieni-non-tardar
+title: 'Tales from the score: Deh vieni, non tardar'
+---
 
 [Susanna's aria](/aria-guides-deh-vieni-non-tardar/) from the final act of *Le nozze di Figaro* is constantly fascinating. At its simplest, it's a seductive call into the dark for her lover. Yet, Susanna has planned this tryst with the Countess; they are disguised as each other, hoping to trap the Count in his dirty ways. To complicate things further, Figaro has heard about Susanna's plans, and Susanna has heard that Figaro has heard. This aria is a layers-thick trick, which Susanna sings to Figaro, making him think she's singing to the Count (and enjoying it). 
 

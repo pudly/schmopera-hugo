@@ -1,16 +1,29 @@
-+++
-author = ["authors/jenna.md","authors/collin-shay.md"]
-categories = "Review"
-date = "2017-04-07T12:27:00+01:00"
-lastmod = "2017-04-08T12:38:00+01:00"
-preamble = "Contributors [Collin](/authors/collin-shay/) and [Jenna](/authors/jenna-douglas/) both caught Ensemble Prisma Wien and Bernarda Fink at Wigmore Hall. Both brought their notebooks, and enough disagreement arose to warrant this special double review. For more like this, check out [Greg](/authors/greg/) and Jenna's [\"He said/She said\" review of Robert Carsen's *Falstaff*](/falstaff-he-saidshe-said/), & our [season round-up](/greg-jennas-201415-opera-season-roundup/) over wisdom-enhancing wine."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491567411995/2017-04-07---Bernarda-Fink.jpg.jpg"
-publishDate = "2017-04-07T14:34:00+01:00"
-related_articles = ["articles/paul-appleby-telling-stories-at-wigmore-hall.md","articles/in-review-peter-deutsch-at-wigmore-hall.md"]
-short_description = "Ensemble Prisma Wien&#039;s debut concert at Wigmore Hall was a successful combination of excellent artists, and the kind of music that seems to flow organically from the group&#039;s dynamic. The Ensemble gave us music by Haydn, Schubert and Dvořák, all effortless melodists whose tunes feel as though they&#039;ve always existed."
-slug = "in-review-times-two-ensemble-prisma-wien-bernarda-fink"
-title = "In review times two: Ensemble Prisma Wien &amp; Bernarda Fink"
-+++
+---
+author:
+- authors/jenna.md
+- authors/collin-shay.md
+categories: Review
+date: "2017-04-07T12:27:00+01:00"
+lastmod: "2017-04-08T12:38:00+01:00"
+preamble: Contributors [Collin](/authors/collin-shay/) and [Jenna](/authors/jenna-douglas/)
+  both caught Ensemble Prisma Wien and Bernarda Fink at Wigmore Hall. Both brought
+  their notebooks, and enough disagreement arose to warrant this special double review.
+  For more like this, check out [Greg](/authors/greg/) and Jenna's ["He said/She said"
+  review of Robert Carsen's *Falstaff*](/falstaff-he-saidshe-said/), & our [season
+  round-up](/greg-jennas-201415-opera-season-roundup/) over wisdom-enhancing wine.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491567411995/2017-04-07---Bernarda-Fink.jpg.jpg
+publishDate: "2017-04-07T14:34:00+01:00"
+related_articles:
+- articles/paul-appleby-telling-stories-at-wigmore-hall.md
+- articles/in-review-peter-deutsch-at-wigmore-hall.md
+short_description: Ensemble Prisma Wien&#039;s debut concert at Wigmore Hall was a
+  successful combination of excellent artists, and the kind of music that seems to
+  flow organically from the group&#039;s dynamic. The Ensemble gave us music by Haydn,
+  Schubert and Dvořák, all effortless melodists whose tunes feel as though they&#039;ve
+  always existed.
+slug: in-review-times-two-ensemble-prisma-wien-bernarda-fink
+title: 'In review times two: Ensemble Prisma Wien &amp; Bernarda Fink'
+---
 
 **Jenna**: Great chamber groups can remind you of the simple pleasures found in listening to music; the small exchanges between musicians feel as though you're in on a secret, and inevitably you grow to "know" the players and their roles. [Ensemble Prisma Wien](https://ensemble-prisma.jimdo.com/)'s debut concert at Wigmore Hall was a successful combination of excellent artists, and the kind of music that seems to flow organically from the group's dynamic. The Ensemble gave us music by Haydn, Schubert and Dvořák, all effortless melodists whose tunes feel as though they've always existed. 
 

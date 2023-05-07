@@ -1,22 +1,26 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-05-22T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558537727/media/2019/05/P1570316.jpg"
-primary_image_credit = "Silla, Cambridge Chamber Ensemble, 2019. Photo courtesy of Cambridge Chamber Ensemble."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "If the themes are supposed to be timeless (and, indeed, as clear and obviously sketched out as they are in the opera's text), then should it not stand to reason that those themes would still ring true regardless of whether or not it was set in Ancient Rome or in America in 2019?"
-slug = "clumsy-silla-victim-of-inept-direction"
-title = "Clumsy Silla victim of inept direction"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-05-22T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1558537727/media/2019/05/P1570316.jpg
+primary_image_credit: Silla, Cambridge Chamber Ensemble, 2019. Photo courtesy of Cambridge
+  Chamber Ensemble.
+related_articles: []
+related_companies: []
+related_people: []
+short_description: If the themes are supposed to be timeless (and, indeed, as clear
+  and obviously sketched out as they are in the opera's text), then should it not
+  stand to reason that those themes would still ring true regardless of whether or
+  not it was set in Ancient Rome or in America in 2019?
+slug: clumsy-silla-victim-of-inept-direction
+title: Clumsy Silla victim of inept direction
+youtube_url: ""
+---
 My frequent readers here at Schmopera will likely notice that I often make reference to how the stage and music directors will interpret a work, for better and worse. In my estimation, this is necessary in talking about opera: the role of the directors of any production cannot be understated, for without a solid grasp of either the musical side or the dramatic side of an opera, an entire production can fall apart before anything else gets accounted for. Thankfully, it is exceedingly rare that both aspects fail so spectacularly that the production as a whole suffers for it, but when this happens it invariably leads to failure.
 
 > The night was plagued with numerous synchronization issues between the four-person orchestra and the rest of the vocal ensemble.

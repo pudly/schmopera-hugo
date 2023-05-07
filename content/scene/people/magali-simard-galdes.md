@@ -1,25 +1,26 @@
-+++
-date = "2018-05-08T11:24:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-05-08T11:24:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525792873152/RSBA-Magali%2520Simard-Galde%25CC%2580s-1%2520%25C2%25A9%2520Brent%2520Calis_display.jpg.jpg"
-primary_image_credit = "Brent Calis"
-publishDate = "2018-05-08T11:24:00-04:00"
-related_companies = ["scene/companies/lopra-de-montral.md", "scene/companies/vancouver-opera.md", "scene/companies/tapestry-opera.md"]
-slug = "magali-simard-galdes"
-title = "Magali Simard-Galdès"
-website = "http://magalisimardgaldes.com/en"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/msimardgaldes"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MagaliGaldes"
-
-_template = "people_single"
-+++
+---
+date: "2018-05-08T11:24:00-04:00"
+discipline: Soprano
+lastmod: "2018-05-08T11:24:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525792873152/RSBA-Magali%2520Simard-Galde%25CC%2580s-1%2520%25C2%25A9%2520Brent%2520Calis_display.jpg.jpg
+primary_image_credit: Brent Calis
+publishDate: "2018-05-08T11:24:00-04:00"
+related_companies:
+- scene/companies/lopra-de-montral.md
+- scene/companies/vancouver-opera.md
+- scene/companies/tapestry-opera.md
+slug: magali-simard-galdes
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/msimardgaldes
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/MagaliGaldes
+title: Magali Simard-Galdès
+website: http://magalisimardgaldes.com/en
+---
 Magali Simard-Galdès is a young Canadian soprano renowned for her shimmering tone, her refined musicality and her magnetic stage presence.
 
 She made an acclaimed German debut in november 2020 at Oper Köln in the role of **Agnès** in Written on Skin (Benjamin). The production was streamed online due to covid-19 restrictions and a studio recording with the Gürzenich Orchester under François-Xavier Roth will be released in 2022.

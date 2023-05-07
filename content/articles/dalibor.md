@@ -1,22 +1,35 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2019-03-03T17:29:57+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[_Dalibor_](https://oper-frankfurt.de/de/spielplan/dalibor/) runs at Oper Frankfurt through March 30. For details and tickets, [click here](https://oper-frankfurt.de/de/spielplan/dalibor/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551636460/media/2019/03/sq3815dalibor02.jpg"
-primary_image_credit = "Izabela Matuła (Milada) und Aleš Briscein (Dalibor) in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus."
-related_articles = ["articles/a-visceral-nightmarish-tourdeforce-der-mieter.md", "articles/tweaking-the-brothers-grimm-in-oper-frankfurt-s-hänsel-und-gretel.md"]
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = ["scene/people/theo-lebow.md", "scene/people/gordon-bintner.md", "scene/people/izabela-matuła.md", "scene/people/angela-vallone.md", "scene/people/thomas-faulkner.md", "scene/people/aleš-briscein.md"]
-short_description = "The program's narrative is constructed from carefully monitored, highly produced confessionals. Applause signs and sensational graphics provoke tailored reactions from the studio audience, which itself seems on the show's payroll."
-slug = "smetanas-dalibor-gets-reality-show-treatment-at-oper-frankfurt"
-title = "Smetana's Dalibor gets reality show treatment at Oper Frankfurt"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2019-03-03T17:29:57+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '[_Dalibor_](https://oper-frankfurt.de/de/spielplan/dalibor/) runs at Oper
+  Frankfurt through March 30. For details and tickets, [click here](https://oper-frankfurt.de/de/spielplan/dalibor/).'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551636460/media/2019/03/sq3815dalibor02.jpg
+primary_image_credit: 'Izabela Matuła (Milada) und Aleš Briscein (Dalibor) in Dalibor,
+  Oper Frankfurt, 2019. Photo: Monika Rittershaus.'
+related_articles:
+- articles/a-visceral-nightmarish-tourdeforce-der-mieter.md
+- articles/tweaking-the-brothers-grimm-in-oper-frankfurt-s-hänsel-und-gretel.md
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people:
+- scene/people/theo-lebow.md
+- scene/people/gordon-bintner.md
+- scene/people/izabela-matuła.md
+- scene/people/angela-vallone.md
+- scene/people/thomas-faulkner.md
+- scene/people/aleš-briscein.md
+short_description: The program's narrative is constructed from carefully monitored,
+  highly produced confessionals. Applause signs and sensational graphics provoke tailored
+  reactions from the studio audience, which itself seems on the show's payroll.
+slug: smetanas-dalibor-gets-reality-show-treatment-at-oper-frankfurt
+title: Smetana's Dalibor gets reality show treatment at Oper Frankfurt
+youtube_url: ""
+---
 A new production of [Bedřich Smetana's _Dalibor_](https://oper-frankfurt.de/de/spielplan/dalibor/) premiered recently at [Oper Frankfurt](/scene/companies/oper-frankfurt/).
 
 Smetana, known by North American audiences for his opera _The Bartered Bride_, is the composer most responsible for the formation of a Czech national musical identity. With _Dalibor_ – a 15th-century knight who faces his feudal overlord despite certain doom –Smetana created a symbolic, revolutionary figure for Czechs of the late 19th century, who were resisting Austrian oppression.

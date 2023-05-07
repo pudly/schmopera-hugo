@@ -1,17 +1,27 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-05-14T21:24:00-04:00"
-lastmod = "2018-05-15T09:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526347404391/sqAT9A0573Orphic.jpg.jpg"
-primary_image_credit = "Bobbi Jene Smith and Anthony Roth Costanzo in Orphic Moments, National Sawdust, 2018. Photo: Eric Baiano."
-publishDate = "2018-05-14T21:24:00-04:00"
-related_articles = ["articles/futuristic-baroque-burlesque-orphe.md","articles/orpheus-eurydice-in-the-hands-of-a-theatrical-genius.md","articles/simulacrum-futuristic-angst-and-dance.md"]
-related_people = ["scene/people/anthony-roth-costanzo.md"]
-short_description = "The work has finally reached a larger New York audience with two performances in an elegantly expanded version at Lincoln Center&#039;s Rose Theater. It features the 130-member MasterVoices and the Orchestra of St. Luke&#039;s. Smartly directed by Zack Winokur, the production has a sleek and courtly feel, enhance by Stacey Berman&#039;s stylish costumes."
-slug = "ravishing-orphic-moments-with-gluck-aucoin-costanzo"
-title = "Ravishing Orphic Moments with Gluck, Aucoin &amp; Costanzo"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-05-14T21:24:00-04:00"
+lastmod: "2018-05-15T09:39:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526347404391/sqAT9A0573Orphic.jpg.jpg
+primary_image_credit: 'Bobbi Jene Smith and Anthony Roth Costanzo in Orphic Moments,
+  National Sawdust, 2018. Photo: Eric Baiano.'
+publishDate: "2018-05-14T21:24:00-04:00"
+related_articles:
+- articles/futuristic-baroque-burlesque-orphe.md
+- articles/orpheus-eurydice-in-the-hands-of-a-theatrical-genius.md
+- articles/simulacrum-futuristic-angst-and-dance.md
+related_people:
+- scene/people/anthony-roth-costanzo.md
+short_description: The work has finally reached a larger New York audience with two
+  performances in an elegantly expanded version at Lincoln Center&#039;s Rose Theater.
+  It features the 130-member MasterVoices and the Orchestra of St. Luke&#039;s. Smartly
+  directed by Zack Winokur, the production has a sleek and courtly feel, enhance by
+  Stacey Berman&#039;s stylish costumes.
+slug: ravishing-orphic-moments-with-gluck-aucoin-costanzo
+title: Ravishing Orphic Moments with Gluck, Aucoin &amp; Costanzo
+---
 
 Ravishing best describes the subtly titled *Orphic Moments*, the joining of Christoph Gluck's *Orfeo ed Euridice* and Matthew Aucoin's *The Orphic Moment*. First produced by the acclaimed countertenor, [Anthony Roth Costanzo](/scene/people/anthony-roth-costanzo/), who sings Orfeo, at Brooklyn's National Sawdust, it moved on to the Salzburg State Theater.
 

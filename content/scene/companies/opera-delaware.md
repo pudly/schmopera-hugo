@@ -1,23 +1,23 @@
-+++
-date = "2015-10-28T11:30:00-04:00"
-lastmod = "2015-10-28T11:31:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446046303123/OD.jpg.jpg"
-publishDate = "2015-10-28T11:30:00-04:00"
-related_people = ["scene/people/anthony-barrese.md"]
-slug = "opera-delaware"
-title = "Opera Delaware"
-type_of_company = "Opera Company"
-website = "http://www.operade.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Opera-Delaware-Inc-111514505553714/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/OperaDelaware"
-_template = "company_single"
-+++
+---
+date: "2015-10-28T11:30:00-04:00"
+lastmod: "2015-10-28T11:31:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446046303123/OD.jpg.jpg
+publishDate: "2015-10-28T11:30:00-04:00"
+related_people:
+- scene/people/anthony-barrese.md
+slug: opera-delaware
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Opera-Delaware-Inc-111514505553714/?fref=ts
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/OperaDelaware
+title: Opera Delaware
+type_of_company: Opera Company
+website: http://www.operade.org/
+---
 
 ## Our Mission:
 

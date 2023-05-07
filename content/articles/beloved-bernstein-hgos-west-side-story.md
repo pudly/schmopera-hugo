@@ -1,17 +1,24 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = "2018-04-25T15:45:00-04:00"
-lastmod = "2018-04-25T17:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524685175131/sqhgo---west-side-story---photographer-lynn-lane-30-3000x2000.jpg.jpg"
-primary_image_credit = "Andrea Carroll (Maria) and Norman Reinhardt (Tony) in West Side Story, Houston Grand Opera, 2018. Photo: Lynn Lane."
-publishDate = "2018-04-25T17:28:00-04:00"
-related_articles = ["articles/a-definitive-hit-west-side-story-in-atlanta.md"]
-related_companies = ["scene/companies/houston-grand-opera.md"]
-short_description = "HGO hit the nail on the head in making West Side Story come across as a highly successful play with songs, with Jerome Robbins&#039;s choreography being by far the lead attraction of the evening in terms of its sheer power of unspoken expression."
-slug = "beloved-bernstein-hgos-west-side-story"
-title = "Beloved Bernstein: HGO&#039;s West Side Story"
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2018-04-25T15:45:00-04:00"
+lastmod: "2018-04-25T17:28:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524685175131/sqhgo---west-side-story---photographer-lynn-lane-30-3000x2000.jpg.jpg
+primary_image_credit: 'Andrea Carroll (Maria) and Norman Reinhardt (Tony) in West
+  Side Story, Houston Grand Opera, 2018. Photo: Lynn Lane.'
+publishDate: "2018-04-25T17:28:00-04:00"
+related_articles:
+- articles/a-definitive-hit-west-side-story-in-atlanta.md
+related_companies:
+- scene/companies/houston-grand-opera.md
+short_description: HGO hit the nail on the head in making West Side Story come across
+  as a highly successful play with songs, with Jerome Robbins&#039;s choreography
+  being by far the lead attraction of the evening in terms of its sheer power of unspoken
+  expression.
+slug: beloved-bernstein-hgos-west-side-story
+title: 'Beloved Bernstein: HGO&#039;s West Side Story'
+---
 
 The production of *West Side Story* that [Houston Grand Opera](/scene/companies/houston-grand-opera/) mounted this past Friday in the centennial year of its composer, the magisterially versatile Leonard Bernstein, proved itself to have been long overdue. I have always been a fan of his music, which brilliantly integrates elements of the culture of the United States into a cohesive whole; though this Broadway musical, the first one I have seen in a long time, rather underwhelmed me in certain aspects in comparison to the hype with which it has been promoted.
 

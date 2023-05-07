@@ -1,18 +1,32 @@
-+++
-author = ["authors/molly-simoneau.md"]
-categories = "Review"
-date = "2018-03-04T17:16:00-05:00"
-lastmod = "2018-03-04T19:50:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520201776500/sq---Baritone-Quinn-Kelsey-Rodrigo-and-bass-baritone-Eric-Owens-King-Philip-in-WNO's-Don-Carlo_credit-Scott-Suchman.jpg.jpg"
-primary_image_credit = "Quinn Kelsey (Rodrigo) and Eric Owens (King Philip) in Washington National Opera's Don Carlo, 2018. Photo: Scott Suchman."
-publishDate = "2018-03-04T19:50:00-05:00"
-related_articles = ["articles/tim-albery-flawed-operas-falling-empires.md","articles/talking-with-singers-jamie-barton.md"]
-related_companies = ["scene/companies/washington-national-opera.md"]
-related_people = ["scene/people/eric-owens.md","scene/people/leah-crocetto.md","scene/people/jamie-barton.md","scene/people/russell-thomas.md"]
-short_description = "If you were asked to come up with a fantasy cast for a hypothetical production of Don Carlo, you&#039;d be have a hard time assembling a lineup better than the one at Saturday night&#039;s performance. Tenor Russell Thomas sings the title role with clarity and passion, and not a hint of the strain which is all too common in this repertoire. Throughout their duet, his voice blends seamlessly with Quinn Kelsey’s Rodrigo. "
-slug = "barton-leads-fantasy-cast-in-wnos-don-carlo"
-title = "Barton leads &quot;fantasy cast&quot; in WNO&#039;s Don Carlo"
-+++
+---
+author:
+- authors/molly-simoneau.md
+categories: Review
+date: "2018-03-04T17:16:00-05:00"
+lastmod: "2018-03-04T19:50:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520201776500/sq---Baritone-Quinn-Kelsey-Rodrigo-and-bass-baritone-Eric-Owens-King-Philip-in-WNO's-Don-Carlo_credit-Scott-Suchman.jpg.jpg
+primary_image_credit: 'Quinn Kelsey (Rodrigo) and Eric Owens (King Philip) in Washington
+  National Opera''s Don Carlo, 2018. Photo: Scott Suchman.'
+publishDate: "2018-03-04T19:50:00-05:00"
+related_articles:
+- articles/tim-albery-flawed-operas-falling-empires.md
+- articles/talking-with-singers-jamie-barton.md
+related_companies:
+- scene/companies/washington-national-opera.md
+related_people:
+- scene/people/eric-owens.md
+- scene/people/leah-crocetto.md
+- scene/people/jamie-barton.md
+- scene/people/russell-thomas.md
+short_description: 'If you were asked to come up with a fantasy cast for a hypothetical
+  production of Don Carlo, you&#039;d be have a hard time assembling a lineup better
+  than the one at Saturday night&#039;s performance. Tenor Russell Thomas sings the
+  title role with clarity and passion, and not a hint of the strain which is all too
+  common in this repertoire. Throughout their duet, his voice blends seamlessly with
+  Quinn Kelsey’s Rodrigo. '
+slug: barton-leads-fantasy-cast-in-wnos-don-carlo
+title: Barton leads &quot;fantasy cast&quot; in WNO&#039;s Don Carlo
+---
 
 "The peace you seek can only be found in heaven."
 

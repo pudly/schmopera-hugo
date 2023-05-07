@@ -1,22 +1,34 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = "2019-03-18T21:58:51+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Florida Grand Opera's production of _Frida_ runs through March 30. For details and tickets, [click here](https://tickets.fgo.org/Tickets/EventDetails.aspx?id=1718)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552948764/media/2019/03/sqDSC_2080.jpg"
-primary_image_credit = "Catalina Cuervo in the title role of Frida, Florida Grand Opera, 2019. Photo: Chris Kakol."
-related_articles = ["articles/florencia-en-el-amazonas.md", "articles/in-review-cosi-fan-tutte-at-roh.md"]
-related_companies = ["scene/companies/florida-grand-opera.md"]
-related_people = ["scene/people/jessica-e-jones.md", "scene/people/zaray-rodriguez.md", "scene/people/catalina-cuervo.md"]
-short_description = "Frida Kahlo was Mexican, an artist, a woman, disabled, queer, Communist. Though the pacing of the opera was choppy and piecemeal, resembling a biopic in its sweeping depiction of her teenage romance, her life-altering bus accident, her revolutionary politics, and her turbulent marriage, the format was well suited to highlight the many intersecting facets of Kahlo's complex and richly lived biography."
-slug = "appropriately-strange-frida-at-fgo"
-title = "Appropriately strange: Frida at FGO"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2019-03-18T21:58:51+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Florida Grand Opera's production of _Frida_ runs through March 30. For
+  details and tickets, [click here](https://tickets.fgo.org/Tickets/EventDetails.aspx?id=1718).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1552948764/media/2019/03/sqDSC_2080.jpg
+primary_image_credit: 'Catalina Cuervo in the title role of Frida, Florida Grand Opera,
+  2019. Photo: Chris Kakol.'
+related_articles:
+- articles/florencia-en-el-amazonas.md
+- articles/in-review-cosi-fan-tutte-at-roh.md
+related_companies:
+- scene/companies/florida-grand-opera.md
+related_people:
+- scene/people/jessica-e-jones.md
+- scene/people/zaray-rodriguez.md
+- scene/people/catalina-cuervo.md
+short_description: Frida Kahlo was Mexican, an artist, a woman, disabled, queer, Communist.
+  Though the pacing of the opera was choppy and piecemeal, resembling a biopic in
+  its sweeping depiction of her teenage romance, her life-altering bus accident, her
+  revolutionary politics, and her turbulent marriage, the format was well suited to
+  highlight the many intersecting facets of Kahlo's complex and richly lived biography.
+slug: appropriately-strange-frida-at-fgo
+title: 'Appropriately strange: Frida at FGO'
+youtube_url: ""
+---
 A screeching chorus of monkeys, a lesson in Mexican political history, an ode to menstruation, a Broadway showtune about eyebrows. To call Florida Grand Opera's production of _Frida_ "eclectic" would be like calling Frida Kahlo's life "unusual" – the understatement of the century.
 
 Performed at the Miramar Cultural Centre, a midsize community arts venue a far cry from the grand stage of FGO's usual home in downtown Miami, _Frida_ was presented with community outreach in mind. Before the show, guests were greeted by an outdoor performance from Ballet Folklorico Ameyal, a Miami-based Mexican folk music and dance ensemble who later made a delightful onstage cameo as wedding merrymakers. Later, exiting after curtain call, audience members were handed a carnation as they walked out the door.

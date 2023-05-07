@@ -1,22 +1,29 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-03-17T16:15:51+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Sarah Connolly returns to Wigmore Hall on 24 April, 2019. For details and tickets, [click here](https://wigmore-hall.org.uk/whats-on/dame-sarah-connolly-robin-tritschler-malcolm-martineau-201904241930)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552839420/media/2019/03/sqSarahConnollyJanCapinski.jpg"
-primary_image_credit = "Photo: Jan Capinski."
-related_articles = ["articles/in-review-jamie-barton-at-wigmore-hall.md", "articles/at-arms-length-goerne-hinterhauser-in-recital.md"]
-related_companies = []
-related_people = ["scene/people/sarah-connolly.md"]
-short_description = "Connolly, whose prolific contribution to classical performance over the course of her career - a career that has now made her a household name - garnered palpable excitement from the audience from the moment she walked on stage. She carries a sense of poise and authority as a performer, yet showed great vulnerability."
-slug = "greater-than-the-sum-of-its-parts-sarah-connolly-at-wigmore-hall"
-title = "Greater than the sum of its parts: Sarah Connolly at Wigmore Hall"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-03-17T16:15:51+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Sarah Connolly returns to Wigmore Hall on 24 April, 2019. For details and
+  tickets, [click here](https://wigmore-hall.org.uk/whats-on/dame-sarah-connolly-robin-tritschler-malcolm-martineau-201904241930).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1552839420/media/2019/03/sqSarahConnollyJanCapinski.jpg
+primary_image_credit: 'Photo: Jan Capinski.'
+related_articles:
+- articles/in-review-jamie-barton-at-wigmore-hall.md
+- articles/at-arms-length-goerne-hinterhauser-in-recital.md
+related_companies: []
+related_people:
+- scene/people/sarah-connolly.md
+short_description: Connolly, whose prolific contribution to classical performance
+  over the course of her career - a career that has now made her a household name
+  - garnered palpable excitement from the audience from the moment she walked on stage.
+  She carries a sense of poise and authority as a performer, yet showed great vulnerability.
+slug: greater-than-the-sum-of-its-parts-sarah-connolly-at-wigmore-hall
+title: 'Greater than the sum of its parts: Sarah Connolly at Wigmore Hall'
+youtube_url: ""
+---
 So often song recitals can feel disjunct; a gratuitous show rather than a well-crafted and meaningful reflection. Not so with this recital featuring works by Zemlinsky, Schumann, and Argento given by Wigmore Hall's Artist in Residence this year, Dame Sarah Connolly and Julius Drake. This was a fastidiously perfected programme which centred around storytelling from the female perspective and did so in a way that was uniquely contemplative.
 
 >She carries a sense of poise and authority as a performer, yet showed great vulnerability.

@@ -1,24 +1,26 @@
-+++
-date = "2015-11-25T11:31:00-05:00"
-discipline = "Soprano"
-lastmod = "2015-11-25T11:31:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448469013739/2015-11-25---Nicola-Beller-Carbone.jpg.jpg"
-primary_image_credit = "Photo by Caroline Laberge"
-publishDate = "2015-11-25T11:31:00-05:00"
-related_companies = ["scene/companies/lopra-de-montral.md","scene/companies/canadian-opera-company.md","scene/companies/deutsche-oper-berlin.md"]
-slug = "nicola-beller-carbone"
-title = "Nicola Beller Carbone"
-website = "http://www.bellercarbone.it/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/NicolaBellerCarboneSoprano?ref=hl"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UC5nZyAe5w7aMg6FkG60gd9w"
-_template = "people_single"
-+++
+---
+date: "2015-11-25T11:31:00-05:00"
+discipline: Soprano
+lastmod: "2015-11-25T11:31:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448469013739/2015-11-25---Nicola-Beller-Carbone.jpg.jpg
+primary_image_credit: Photo by Caroline Laberge
+publishDate: "2015-11-25T11:31:00-05:00"
+related_companies:
+- scene/companies/lopra-de-montral.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/deutsche-oper-berlin.md
+slug: nicola-beller-carbone
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/NicolaBellerCarboneSoprano?ref=hl
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UC5nZyAe5w7aMg6FkG60gd9w
+title: Nicola Beller Carbone
+website: http://www.bellercarbone.it/
+---
 
 Soprano Nicola Beller Carbone is sought after in a variety of leading roles such as Salome, Marietta, Tosca, and Marie (*Wozzeck*).
  

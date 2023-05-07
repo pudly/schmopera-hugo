@@ -1,18 +1,38 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-02-14T15:33:00-05:00"
-lastmod = "2016-02-14T18:29:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455481757275/Figaro-MC-0137-(1)Square.jpg.jpg"
-primary_image_credit = "Josef Wagner (Figaro) and Uli Kirsch (Cherubim) in the COC’s production of The Marriage of Figaro, 2016, photo: Michael Cooper."
-publishDate = "2016-02-15T08:17:00-05:00"
-related_articles = ["articles/review-sondra-slays-in-bellini-masterwork.md","articles/classic-for-good-reason-the-marriage-of-figaro.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/jane-archibald.md","scene/people/josef-wagner.md","scene/people/russell-braun.md","scene/people/erin-wall.md","scene/people/emily-fons.md","scene/people/sasha-djihanian.md","scene/people/doug-macnaughton.md","scene/people/jeanphilippe-fortierlazure.md","scene/people/robert-pomakov.md","scene/people/michael-colvin.md"]
-short_description = "While I loved the added element of the character &quot;Cherubim&quot; representing the chaos that can be wreaked by the basest desires of each of the characters, I feel like we lost a lot of the original Beaumarchais and Da Ponte brilliance. A lot of the sexuality seemed gratuitous, I think in this examination of class and propriety, there has to be a level of decorum and innuendo, or it just looks like you&#039;re trying to &quot;sex up some Mozart&quot;."
-slug = "second-opinion-the-marriage-of-figaro-at-the-coc"
-title = "Second opinion: The Marriage of Figaro at the COC"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-02-14T15:33:00-05:00"
+lastmod: "2016-02-14T18:29:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455481757275/Figaro-MC-0137-(1)Square.jpg.jpg
+primary_image_credit: 'Josef Wagner (Figaro) and Uli Kirsch (Cherubim) in the COC’s
+  production of The Marriage of Figaro, 2016, photo: Michael Cooper.'
+publishDate: "2016-02-15T08:17:00-05:00"
+related_articles:
+- articles/review-sondra-slays-in-bellini-masterwork.md
+- articles/classic-for-good-reason-the-marriage-of-figaro.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/jane-archibald.md
+- scene/people/josef-wagner.md
+- scene/people/russell-braun.md
+- scene/people/erin-wall.md
+- scene/people/emily-fons.md
+- scene/people/sasha-djihanian.md
+- scene/people/doug-macnaughton.md
+- scene/people/jeanphilippe-fortierlazure.md
+- scene/people/robert-pomakov.md
+- scene/people/michael-colvin.md
+short_description: While I loved the added element of the character &quot;Cherubim&quot;
+  representing the chaos that can be wreaked by the basest desires of each of the
+  characters, I feel like we lost a lot of the original Beaumarchais and Da Ponte
+  brilliance. A lot of the sexuality seemed gratuitous, I think in this examination
+  of class and propriety, there has to be a level of decorum and innuendo, or it just
+  looks like you&#039;re trying to &quot;sex up some Mozart&quot;.
+slug: second-opinion-the-marriage-of-figaro-at-the-coc
+title: 'Second opinion: The Marriage of Figaro at the COC'
+---
 
 First and foremost, I loved the show. 
 

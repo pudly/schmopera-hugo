@@ -1,15 +1,27 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Editorial"
-date = "2016-05-28T11:06:00+01:00"
-draft = true
-lastmod = "2016-05-28T22:44:00+01:00"
-related_articles = ["articles/greg-jennas-opera-roundup-201516.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md","scene/companies/city-of-london-sinfonia.md"]
-related_people = ["scene/people/javier-camarena.md","scene/people/stefan-vinke.md","scene/people/christine-goerke.md","scene/people/alan-held.md","scene/people/diana-damrau.md","scene/people/charles-castronovo.md"]
-slug = "greg-jennas-opera-roundup-201516"
-title = "Greg &amp; Jenna&#039;s Opera Roundup, 2015/16"
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Editorial
+date: "2016-05-28T11:06:00+01:00"
+draft: true
+lastmod: "2016-05-28T22:44:00+01:00"
+related_articles:
+- articles/greg-jennas-opera-roundup-201516.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/royal-opera-house.md
+- scene/companies/city-of-london-sinfonia.md
+related_people:
+- scene/people/javier-camarena.md
+- scene/people/stefan-vinke.md
+- scene/people/christine-goerke.md
+- scene/people/alan-held.md
+- scene/people/diana-damrau.md
+- scene/people/charles-castronovo.md
+slug: greg-jennas-opera-roundup-201516
+title: Greg &amp; Jenna&#039;s Opera Roundup, 2015/16
+---
 
 ## Jenna loved: *Siegfried* at the COC
 

@@ -1,19 +1,20 @@
-+++
-date = "2017-01-21T16:49:00+00:00"
-discipline = "Composer"
-lastmod = "2017-01-21T16:51:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485017378087/2017-01-21---Analia-Lludgar.jpg.jpg"
-publishDate = "2017-01-21T16:49:00+00:00"
-related_companies = ["scene/companies/esprit-orchestra.md"]
-slug = "analia-lludgar"
-title = "Analia Lludgar"
-website = "http://www.analiallugdar.net/"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/analia-llugdar"
-_template = "people_single"
-+++
+---
+date: "2017-01-21T16:49:00+00:00"
+discipline: Composer
+lastmod: "2017-01-21T16:51:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485017378087/2017-01-21---Analia-Lludgar.jpg.jpg
+publishDate: "2017-01-21T16:49:00+00:00"
+related_companies:
+- scene/companies/esprit-orchestra.md
+slug: analia-lludgar
+social_media:
+- _template: people_single
+  platform: Soundcloud
+  template: social-media
+  url: https://soundcloud.com/analia-llugdar
+title: Analia Lludgar
+website: http://www.analiallugdar.net/
+---
 
 Born in Argentina, composer Analia Llugdar initially studied piano and composition at the Cordoba National University, Argentina. She continued her composition studies at the University of Montréal, where she completed a Master’s degree with José Evangelista and a Ph.D. in Music composition with Denis Gougeon.
 

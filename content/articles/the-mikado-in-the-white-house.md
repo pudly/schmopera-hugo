@@ -1,22 +1,27 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2019-05-02T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Performances of Bronx Opera's _The Mikado_ conclude May 4 at 7:30 and May 5 at 2:30, with alternating casts. For details, [click here](http://bronxopera.org/2019-season/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556848153/media/2019/05/sqBronxDSC_6229.jpg"
-primary_image_credit = "Bronx Opera's production of The Mikado, 2019. Photo: Vincent Jones II."
-related_articles = []
-related_companies = ["scene/companies/bronx-opera.md"]
-related_people = []
-short_description = "Although meant to generate laughs at the expense of privileged white people, it's extremely difficult today to present this show, even as gently written as it is, without entering dangerous racist waters."
-slug = "the-mikado-in-the-white-house"
-title = "The Mikado in the White House"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2019-05-02T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Performances of Bronx Opera's _The Mikado_ conclude May 4 at 7:30 and May
+  5 at 2:30, with alternating casts. For details, [click here](http://bronxopera.org/2019-season/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1556848153/media/2019/05/sqBronxDSC_6229.jpg
+primary_image_credit: 'Bronx Opera''s production of The Mikado, 2019. Photo: Vincent
+  Jones II.'
+related_articles: []
+related_companies:
+- scene/companies/bronx-opera.md
+related_people: []
+short_description: Although meant to generate laughs at the expense of privileged
+  white people, it's extremely difficult today to present this show, even as gently
+  written as it is, without entering dangerous racist waters.
+slug: the-mikado-in-the-white-house
+title: The Mikado in the White House
+youtube_url: ""
+---
 The fourth annual New York Opera Fest has begun and the next two months of eclectic productions, from traditional to cutting edge, promise everything from the ridiculous to the sublime. Both adjectives are apropos to the presentation of Gilbert and Sullivan's _The Mikado_ at The Bronx Opera.
 
 To be sure, there is some marvellous music-making up at the Bronx Opera from the mighty but modestly sized orchestra and chorus. The 32 musicians under the baton of Michael Spierman (including only one bass and one percussionist) give a full and almost flawless tribute to the music of Sir Arthur Sullivan.  Though the opera is written with the men and women of the chorus in a mostly "split squad" format, talented chorus master Michael C. Haigler gets the most out of both sexes: even when there are only about nine men or ten women on stage they sound twice as big.

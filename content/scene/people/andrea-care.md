@@ -1,28 +1,34 @@
-+++
-date = "2018-01-30T12:12:00-05:00"
-discipline = "Tenor"
-lastmod = "2018-01-30T12:12:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517332217162/Andrea-Care%CC%80_-pc-Juan-Carranza.jpg.jpg"
-primary_image_credit = "Juan Carranza"
-publishDate = "2018-01-30T12:12:00-05:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/canadian-opera-company.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/la-monnaie.md","scene/companies/wiener-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/deutsche-oper-berlin.md"]
-slug = "andrea-care"
-title = "Andrea Carè"
-website = "http://andreacare.it/it/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/andreacaretenore/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/andreacaretenor"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/AndreaCaretenore/"
-_template = "people_single"
-+++
+---
+date: "2018-01-30T12:12:00-05:00"
+discipline: Tenor
+lastmod: "2018-01-30T12:12:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517332217162/Andrea-Care%CC%80_-pc-Juan-Carranza.jpg.jpg
+primary_image_credit: Juan Carranza
+publishDate: "2018-01-30T12:12:00-05:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/la-monnaie.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/deutsche-oper-berlin.md
+slug: andrea-care
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/andreacaretenore/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/andreacaretenor
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/AndreaCaretenore/
+title: Andrea Carè
+website: http://andreacare.it/it/
+---
 
 Andrea Carè is one of the most prominent operatic tenors of the new generation of Italian artists. After studying at the Giuseppe Verdi Conservatory in Turin, he went
 on to win the Spoleto International Opera Com- petition (2005). He had the privilege to be a pupil of Luciano Pavarotti and he is also a protégé of legendary soprano Raina Kabaivanska.

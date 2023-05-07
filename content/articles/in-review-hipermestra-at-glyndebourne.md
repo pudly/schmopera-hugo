@@ -1,17 +1,29 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2017-05-30T08:42:00-04:00"
-lastmod = "2017-05-30T08:49:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496148209163/Square-Hipermestra-Glyndebourne-2493.jpg.jpg"
-primary_image_credit = "Hipermestra (Emőke Baráth) in Hipermestra, Glyndebourne, 2017. Photo: Tristam Kenton."
-publishDate = "2017-05-30T08:49:00-04:00"
-related_articles = ["articles/in-review-a-midsummer-nights-dream-at-glyndebourne.md","articles/in-review-beatrice-et-benedict-at-glyndebourne.md","articles/in-review-hamlet-at-glyndebourne.md","articles/in-review-the-cradle-will-rock.md","articles/in-review-collision-at-grimeborn.md"]
-related_companies = ["scene/companies/glyndebourne.md"]
-short_description = "Fifty brides, a giant flying peacock, and appropriated costumes from the middle east are all present in Glyndebourne’s new production of Hipermestra by Cavalli. Long-established Glyndebourne veterans William Christie and Graham Vick collaborated to bring this opera to life for the first time since the seventeenth century."
-slug = "in-review-hipermestra-at-glyndebourne"
-title = "In review: Hipermestra at Glyndebourne"
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2017-05-30T08:42:00-04:00"
+lastmod: "2017-05-30T08:49:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496148209163/Square-Hipermestra-Glyndebourne-2493.jpg.jpg
+primary_image_credit: 'Hipermestra (Emőke Baráth) in Hipermestra, Glyndebourne, 2017.
+  Photo: Tristam Kenton.'
+publishDate: "2017-05-30T08:49:00-04:00"
+related_articles:
+- articles/in-review-a-midsummer-nights-dream-at-glyndebourne.md
+- articles/in-review-beatrice-et-benedict-at-glyndebourne.md
+- articles/in-review-hamlet-at-glyndebourne.md
+- articles/in-review-the-cradle-will-rock.md
+- articles/in-review-collision-at-grimeborn.md
+related_companies:
+- scene/companies/glyndebourne.md
+short_description: Fifty brides, a giant flying peacock, and appropriated costumes
+  from the middle east are all present in Glyndebourne’s new production of Hipermestra
+  by Cavalli. Long-established Glyndebourne veterans William Christie and Graham Vick
+  collaborated to bring this opera to life for the first time since the seventeenth
+  century.
+slug: in-review-hipermestra-at-glyndebourne
+title: 'In review: Hipermestra at Glyndebourne'
+---
 
 Fifty brides, a giant flying peacock, and appropriated costumes from the middle east are all present in Glyndebourne’s new production of *Hipermestra* by Cavalli. Long-established Glyndebourne veterans William Christie and Graham Vick collaborated to bring this opera to life for the first time since the seventeenth century.
 

@@ -1,17 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-04-08T21:10:00-04:00"
-lastmod = "2018-04-08T21:20:00-04:00"
-preamble = "Laurence Osborn's new full-length opera, [*The Mother*](https://mahoganyoperagroup.co.uk/productions/the-mother/), sees its world premiere this month at the Polish Social and Cultural Association (POSK). Commissioned by [Mahogany Opera Group](/scene/companies/mahogany-opera-group/), *The Mother* is based on the 1924 play of the same name by Polish playwright Stanisław Ignacy Witkiewicz (known as Witkacy), which tells an \"anarchist, surrealist\" story of the relationship between one mother and her son.\n\nWe spoke with mezzo-soprano Lore Lixenberg, who sings the title role in Mahogany Opera's staged concert world premiere of *The Mother*, April 25; she gives an enthralling insight into her curious character, and what audiences can expect at the show."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523236206177/Lore-Lixenberg.jpg.jpg"
-publishDate = "2018-04-08T21:19:00-04:00"
-related_articles = ["articles/talking-with-directors-frederic-wakewalker.md","articles/uncomfortable-premieres-the-mother.md"]
-related_companies = ["scene/companies/mahogany-opera-group.md"]
-short_description = "&quot;The satire and explosiveness is in the score, as Laurence is playing around with Witkacy&#039;s pure form and putting that into music. Also the performance is actually a staged concert that is often a financial decision for a company, opera is expensive, but has the benefit of really putting more focus on the score and the structure of the piece and in my opinion gives an opera performance a certain clarity.&quot;"
-slug = "lore-lixenberg-is-the-mother"
-title = "Lore Lixenberg is The Mother"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-04-08T21:10:00-04:00"
+lastmod: "2018-04-08T21:20:00-04:00"
+preamble: |-
+  Laurence Osborn's new full-length opera, [*The Mother*](https://mahoganyoperagroup.co.uk/productions/the-mother/), sees its world premiere this month at the Polish Social and Cultural Association (POSK). Commissioned by [Mahogany Opera Group](/scene/companies/mahogany-opera-group/), *The Mother* is based on the 1924 play of the same name by Polish playwright Stanisław Ignacy Witkiewicz (known as Witkacy), which tells an "anarchist, surrealist" story of the relationship between one mother and her son.
+
+  We spoke with mezzo-soprano Lore Lixenberg, who sings the title role in Mahogany Opera's staged concert world premiere of *The Mother*, April 25; she gives an enthralling insight into her curious character, and what audiences can expect at the show.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523236206177/Lore-Lixenberg.jpg.jpg
+publishDate: "2018-04-08T21:19:00-04:00"
+related_articles:
+- articles/talking-with-directors-frederic-wakewalker.md
+- articles/uncomfortable-premieres-the-mother.md
+related_companies:
+- scene/companies/mahogany-opera-group.md
+short_description: '&quot;The satire and explosiveness is in the score, as Laurence
+  is playing around with Witkacy&#039;s pure form and putting that into music. Also
+  the performance is actually a staged concert that is often a financial decision
+  for a company, opera is expensive, but has the benefit of really putting more focus
+  on the score and the structure of the piece and in my opinion gives an opera performance
+  a certain clarity.&quot;'
+slug: lore-lixenberg-is-the-mother
+title: Lore Lixenberg is The Mother
+---
 
 ## What kind of woman is The Mother?
 

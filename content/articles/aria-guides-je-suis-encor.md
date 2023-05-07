@@ -1,16 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2016-09-20T16:28:00+01:00"
-lastmod = "2016-09-22T09:43:00+01:00"
-preamble = "Massenet's *Manon*, based on the novel by Abbé Prévost, is the story of a young woman with a large appetite for life, yet born within the confines of 18th-century France. Manon is a fascinating reflection of her audience; some may find her naïve, some may find her opportunistic. Be she benevolent or otherwise, Manon is a challenging, beautiful, and layered role for sopranos, starting with this aria in Act I, \"Je suis encor tout étourdie.\"\n\nIt's the first time we meet Manon, and she has just stepped out of the carriage that took her on her very first journey. Despite her being *en route* to a convent, Manon still finds excitement in all the new things surrounding her.\n\nAlong with your trusted teachers and coaches, we can offer up some tips and tricks to get you started with Manon, one of Massenet's many complicated ladies."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474482987221/2016-09-22---Manon.jpg.jpg"
-publishDate = "2016-09-22T09:29:00+01:00"
-related_articles = ["articles/aria-guides-embroidery-aria.md"]
-short_description = "It&#039;s the first time we meet Manon, and she has just stepped out of the carriage that took her on her very first journey. Despite her being *en route* to a convent, Manon still finds excitement in all the new things surrounding her. Along with your trusted teachers and coaches, we can offer up some tips and tricks to get you started with Manon, one of Massenet&#039;s many complicated ladies."
-slug = "aria-guides-je-suis-encor"
-title = "Aria guides: &quot;Je suis encor tout étourdie&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2016-09-20T16:28:00+01:00"
+lastmod: "2016-09-22T09:43:00+01:00"
+preamble: |-
+  Massenet's *Manon*, based on the novel by Abbé Prévost, is the story of a young woman with a large appetite for life, yet born within the confines of 18th-century France. Manon is a fascinating reflection of her audience; some may find her naïve, some may find her opportunistic. Be she benevolent or otherwise, Manon is a challenging, beautiful, and layered role for sopranos, starting with this aria in Act I, "Je suis encor tout étourdie."
+
+  It's the first time we meet Manon, and she has just stepped out of the carriage that took her on her very first journey. Despite her being *en route* to a convent, Manon still finds excitement in all the new things surrounding her.
+
+  Along with your trusted teachers and coaches, we can offer up some tips and tricks to get you started with Manon, one of Massenet's many complicated ladies.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474482987221/2016-09-22---Manon.jpg.jpg
+publishDate: "2016-09-22T09:29:00+01:00"
+related_articles:
+- articles/aria-guides-embroidery-aria.md
+short_description: It&#039;s the first time we meet Manon, and she has just stepped
+  out of the carriage that took her on her very first journey. Despite her being *en
+  route* to a convent, Manon still finds excitement in all the new things surrounding
+  her. Along with your trusted teachers and coaches, we can offer up some tips and
+  tricks to get you started with Manon, one of Massenet&#039;s many complicated ladies.
+slug: aria-guides-je-suis-encor
+title: 'Aria guides: &quot;Je suis encor tout étourdie&quot;'
+---
 
 1. There's a natural quality about French when it's sung, and Massenet seems to go to a lot of trouble to notate the effect. You can see it in these tenuto markings above "suis" and "-cor," where Massenet insists on keeping the stress of the sentence in a few specific places. This aria is all about Manon's wonder at new places and sights, and by following the tenuto markings, it's easier to get that sense of wide-eyed awe. It's kind of like the subtext of each tenuto note should be "woooowwwwww."<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474385308106/Aria-Guide---Manon---p1---cut---resized.jpg.jpg)
 </figure>

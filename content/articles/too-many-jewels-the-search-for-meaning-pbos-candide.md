@@ -1,19 +1,31 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = "2018-02-25T18:51:00-05:00"
-lastmod = "2018-02-25T19:19:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546218548/media/2018/12/Miles-Alissa.jpg"
-primary_image_credit = "Miles Mykkanen and Alisa Jordheim in Candide, Palm Beach Opera, 2018. Photo: Bruce Bennett."
-publishDate = "2018-02-25T19:19:00-05:00"
-related_articles = ["articles/candide-the-best-of-all-possible-productions.md", "articles/just-plain-great-pbos-le-nozze-di-figaro.md", "articles/grappling-with-daily-life-wnos-candide.md"]
-related_companies = ["scene/companies/palm-beach-opera.md"]
-related_people = ["scene/people/tobias-greenhalgh.md", "scene/people/kasia-borowiec.md", "scene/people/miles-mykkanen.md", "scene/people/alisa-jordheim.md"]
-short_description = "&quot;How can such ghastly horrors befall a world where all is for the best?&quot; Candide asks. We may not live in the best of all possible worlds, but when the music fades and the curtain falls, it&#039;s our job to try and make the world a little better."
-slug = "too-many-jewels-the-search-for-meaning-pbos-candide"
-title = "Too many jewels &amp; the search for meaning: PBO&#039;s Candide"
-
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2018-02-25T18:51:00-05:00"
+lastmod: "2018-02-25T19:19:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546218548/media/2018/12/Miles-Alissa.jpg
+primary_image_credit: 'Miles Mykkanen and Alisa Jordheim in Candide, Palm Beach Opera,
+  2018. Photo: Bruce Bennett.'
+publishDate: "2018-02-25T19:19:00-05:00"
+related_articles:
+- articles/candide-the-best-of-all-possible-productions.md
+- articles/just-plain-great-pbos-le-nozze-di-figaro.md
+- articles/grappling-with-daily-life-wnos-candide.md
+related_companies:
+- scene/companies/palm-beach-opera.md
+related_people:
+- scene/people/tobias-greenhalgh.md
+- scene/people/kasia-borowiec.md
+- scene/people/miles-mykkanen.md
+- scene/people/alisa-jordheim.md
+short_description: '&quot;How can such ghastly horrors befall a world where all is
+  for the best?&quot; Candide asks. We may not live in the best of all possible worlds,
+  but when the music fades and the curtain falls, it&#039;s our job to try and make
+  the world a little better.'
+slug: too-many-jewels-the-search-for-meaning-pbos-candide
+title: 'Too many jewels &amp; the search for meaning: PBO&#039;s Candide'
+---
 Any opera containing the line "I am, I admit, extremely fond of the potato" is, one can safely assume, not meant to be taken too seriously. Yet [Palm Beach Opera's _Candide_](https://pbopera.org/event/candide/), which opened on February 23, took on sombre meaning in a region still reeling from the tragic shooting at Stoneman Douglas High School only a week earlier.
 
 "30,000 people pointlessly die – probably for the best of all possible reasons," remarked narrator Pangloss – portrayed by Broadway habitué Ron Raines – upon the siege of Westphalia and the massacre of its eccentric residents. Though Raines recited the words with lighthearted sarcasm, the circumstances beyond the sheltering walls of the concert hall wove poignancy into the cynical libretto. The quip may well have been parroting any number of Second Amendment apologists who have paraded across the news cycle over the past ten days: Seventeen teenagers are dead, but at least our freedom is intact. All's for the best.

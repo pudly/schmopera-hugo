@@ -1,22 +1,30 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2019-05-28T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[_Jubilee_](https://www.arenastage.org/tickets/season-landing/jubilee/) runs until June 9."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1559087504/media/2019/05/sqlores_production_jubilee_05.jpg"
-primary_image_credit = "(L to R) Simone Paulwell (America Robinson), V. Savoy McIlwain (Thomas Rutling), Sean-Maurice Lynch (Frederick Loudin), Jaysen Wright (Edmund Watkins), Lisa Arrindell (Ella Sheppard) and Greg Watkins (Benjamin Holmes) in Jubilee running April 26 through June 2, 2019 at Arena Stage at the Mead Center for American Theater. Photo by Margot Schulman."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "This mix of breaking down the fourth wall, group narratives and of course, lots of singing provided for a wonderful and unique theater experience. I have had little to no experience with the Negro Spiritual genre, and Jubilee was truly educational experience."
-slug = "jubilee-a-truly-educational-experience"
-title = "Jubilee: a truly educational experience"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2019-05-28T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '[_Jubilee_](https://www.arenastage.org/tickets/season-landing/jubilee/)
+  runs until June 9.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1559087504/media/2019/05/sqlores_production_jubilee_05.jpg
+primary_image_credit: (L to R) Simone Paulwell (America Robinson), V. Savoy McIlwain
+  (Thomas Rutling), Sean-Maurice Lynch (Frederick Loudin), Jaysen Wright (Edmund Watkins),
+  Lisa Arrindell (Ella Sheppard) and Greg Watkins (Benjamin Holmes) in Jubilee running
+  April 26 through June 2, 2019 at Arena Stage at the Mead Center for American Theater.
+  Photo by Margot Schulman.
+related_articles: []
+related_companies: []
+related_people: []
+short_description: This mix of breaking down the fourth wall, group narratives and
+  of course, lots of singing provided for a wonderful and unique theater experience.
+  I have had little to no experience with the Negro Spiritual genre, and Jubilee was
+  truly educational experience.
+slug: jubilee-a-truly-educational-experience
+title: 'Jubilee: a truly educational experience'
+youtube_url: ""
+---
 [_Jubilee: An Inspirational A Cappella Tribute_](https://www.arenastage.org/tickets/season-landing/jubilee/) is in its debut production at Arena Stage at the Mead Center in Washington D.C. Written and directed by [Tazewell Thompson](http://www.tazewellthompson.com/about/), the work follows the journey of the Jubilee Singers of Fisk University, an a cappella group that raised funds for the first accredited African American College.
 
 The thirteen-member cast had many classically trained singers, and it showed. In the beginning, the cast came out doing vocalises and warm ups, before immediately launching into a full bodied rendition of "Ain't that good news". After the group narration in the exposition, very talented actress Ms. Lisa Arrindell assumed the character of Mr. White ("our WHITE choir director" as the cast repeated whenever his name was mentioned). Then a cringe-worthy (and much too real for many musicians) rehearsal ensued. Mr. White brow beat the choir for being off, not in tune, not "feeling" the music to his satisfaction.

@@ -1,18 +1,26 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = "2018-04-22T17:19:00-04:00"
-lastmod = "2018-04-22T17:19:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524431799435/sqRinaldo_0864.jpg.jpg"
-primary_image_credit = "Andrey Nemzer (Rinaldo) in Pacific Opera Victoria's production of Rinaldo, 2018. Photo: David Cooper."
-publishDate = "2018-04-22T17:19:00-04:00"
-related_companies = ["scene/companies/pacific-opera-victoria.md"]
-related_people = ["scene/people/david-trudgen.md", "scene/people/christopher-dunham.md", "scene/people/jennifer-taverner.md", "scene/people/stephanie-lessard.md"]
-short_description = "As they fall asleep, the magical characters of Rinaldo are transported into their living room to enact the story to the children&#039;s delight. It&#039;s one part steampunk, one part fantasy movie, one part 50s B-movie, and 100% delightful."
-slug = "pacific-opera-victorias-steampunk-meets-fantasy-rinaldo"
-title = "Pacific Opera Victoria&#039;s steampunk-meets-fantasy Rinaldo"
-
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2018-04-22T17:19:00-04:00"
+lastmod: "2018-04-22T17:19:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524431799435/sqRinaldo_0864.jpg.jpg
+primary_image_credit: 'Andrey Nemzer (Rinaldo) in Pacific Opera Victoria''s production
+  of Rinaldo, 2018. Photo: David Cooper.'
+publishDate: "2018-04-22T17:19:00-04:00"
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+related_people:
+- scene/people/david-trudgen.md
+- scene/people/christopher-dunham.md
+- scene/people/jennifer-taverner.md
+- scene/people/stephanie-lessard.md
+short_description: As they fall asleep, the magical characters of Rinaldo are transported
+  into their living room to enact the story to the children&#039;s delight. It&#039;s
+  one part steampunk, one part fantasy movie, one part 50s B-movie, and 100% delightful.
+slug: pacific-opera-victorias-steampunk-meets-fantasy-rinaldo
+title: Pacific Opera Victoria&#039;s steampunk-meets-fantasy Rinaldo
+---
 Baroque opera doesn't tend to get the air time of most other periods - for every one performance, you'll see a dozen Puccinis, Mozarts or Verdis. But [Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/) shows the relevance, flexibility, and brilliance of the genre in one of the most innovative, magical productions I've ever seen in their current mounting of [*Rinaldo*](https://www.pov.bc.ca/rinaldo.html).
 
 In this setting of *Rinaldo*, the show opens with a soldier heading off to WWII as the mother and children grieve. As they fall asleep, the magical characters of *Rinaldo* are transported into their living room to enact the story to the children's delight. It's one part steampunk, one part fantasy movie, one part 50s B-movie, and 100% delightful.

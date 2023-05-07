@@ -1,22 +1,31 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-02-17T17:53:14+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550425749/media/2019/02/sqMireilleAsselinMeghanLindsay.jpg"
-primary_image_credit = "Mireille Asselin and Meghan Lindsay in Paride ed Elena, Odyssey Opera, 2019. Photo: Kathy Wittman, Ball Square Films."
-related_articles = ["articles/orphee.md", "articles/odyssey-operas-giovanna-darco-bold-and-flawed.md"]
-related_companies = ["scene/companies/odyssey-opera.md"]
-related_people = ["scene/people/erica-schuller.md", "scene/people/meghan-lindsay.md", "scene/people/mireille-asselin.md"]
-short_description = "Their voices pulled and pushed at Gluck’s music and Calzabigi's text, stretching and pulling and coloring every last note that made practically their entire run through the opera feel important."
-slug = "chemistry-sizzles-onstage-in-paride-ed-elena"
-title = "Chemistry sizzles onstage in Paride ed Elena"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-02-17T17:53:14+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550425749/media/2019/02/sqMireilleAsselinMeghanLindsay.jpg
+primary_image_credit: 'Mireille Asselin and Meghan Lindsay in Paride ed Elena, Odyssey
+  Opera, 2019. Photo: Kathy Wittman, Ball Square Films.'
+related_articles:
+- articles/orphee.md
+- articles/odyssey-operas-giovanna-darco-bold-and-flawed.md
+related_companies:
+- scene/companies/odyssey-opera.md
+related_people:
+- scene/people/erica-schuller.md
+- scene/people/meghan-lindsay.md
+- scene/people/mireille-asselin.md
+short_description: Their voices pulled and pushed at Gluck’s music and Calzabigi's
+  text, stretching and pulling and coloring every last note that made practically
+  their entire run through the opera feel important.
+slug: chemistry-sizzles-onstage-in-paride-ed-elena
+title: Chemistry sizzles onstage in Paride ed Elena
+youtube_url: ""
+---
 Whenever one opts to say that an early opera was performed with fiery tenacity, I imagine the average opera-goer inevitably finds themselves asking "how does this get performed like that?" It can often get lost that audience expectations in the earlier days of opera were far, far different from what they are today, and in this light it is all too easy for early opera performance to get mired in the length and the padding that often accompanies these operas. But what is often forgotten is that this earlier music is activated when a singer approaches it with an eye for detail and attention, and when done right the drama can reach dramatic highs that Verdi and Wagner would have been jealous of.
 
 <figure data-type="image">

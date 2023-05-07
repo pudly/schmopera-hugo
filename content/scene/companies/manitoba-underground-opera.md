@@ -1,28 +1,25 @@
-+++
-address = "36 Wadham Bay, Winnipeg, MB R3T3K3"
-email = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1662643799/media/2022/09/Logo_MUO_lglmt1.jpg"
-primary_image_credit = ""
-related_people = []
-slug = "manitoba-underground-opera"
-title = "Manitoba Underground Opera"
-type_of_company = "Opera Company"
-website = "https://manitobaundergroundopera.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/mbundergroundopera/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/manitoba_underground/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/mbUNDERGROUND10"
-
-_template = "company_single"
-+++
+---
+address: 36 Wadham Bay, Winnipeg, MB R3T3K3
+email: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1662643799/media/2022/09/Logo_MUO_lglmt1.jpg
+primary_image_credit: ""
+related_people: []
+slug: manitoba-underground-opera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/mbundergroundopera/
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/manitoba_underground/
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/mbUNDERGROUND10
+title: Manitoba Underground Opera
+type_of_company: Opera Company
+website: https://manitobaundergroundopera.com/
+---
 ### Who we are
 
 Manitoba Underground Opera presents a festival each August that includes mainstage operas, concerts, and free outreach events. Opera was originally an artform that resonated with people from all walks of life, and our goal is to continue that tradition by making classical works relevant to the modern world. Whether we’re reimagining _Don Giovanni_ as a #metoo era parable, examining the issue of social media bullying with _Dido and Aeneas_, or presenting an original operatic digital miniseries at the height of the pandemic, you always know that an MUO production will be like nothing you’ve seen before.

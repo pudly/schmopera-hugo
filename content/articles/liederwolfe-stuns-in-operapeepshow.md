@@ -1,18 +1,33 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-04-29T16:15:00+01:00"
-lastmod = "2016-04-29T16:49:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461942960766/YE-B-Cypb7jdM_XNhw-_B9Lksb7ITY4sMhvRTBLNpbKhytfuFKn5-dbR873piqCyzizZtlwMItMry-x4LheS44ZPvrWSMA%3Dw680-h680-c"
-primary_image_credit = "Photo: Marilis Cardinal"
-publishDate = "2016-04-29T16:45:00+01:00"
-related_articles = ["articles/liederwolfe-stuns-in-operapeepshow.md","articles/the-future-of-opera-is-indie.md","articles/bumping-elbows-at-cfos-long-christmas-dinner.md"]
-related_companies = ["scene/companies/liederwolfe-opera-collective.md","scene/companies/essential-opera.md","scene/companies/urbanvessel.md","scene/companies/renaissance.md","scene/companies/indie-opera-to.md","scene/companies/myopera.md"]
-related_people = ["scene/people/francesca-perez.md","scene/people/lindsay-michael.md"]
-short_description = "To say that it was unique would be a broad understatement. Upon arrival, you are greeted at the door and presented a key which gets you into the event, and then you are ushered downstairs where you get to choose, à la carte, which combination of the companies presenting you wished to check out."
-slug = "liederwolfe-stuns-in-operapeepshow"
-title = "Liederwölfe stuns in #OperaPeepShow"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-04-29T16:15:00+01:00"
+lastmod: "2016-04-29T16:49:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461942960766/YE-B-Cypb7jdM_XNhw-_B9Lksb7ITY4sMhvRTBLNpbKhytfuFKn5-dbR873piqCyzizZtlwMItMry-x4LheS44ZPvrWSMA%3Dw680-h680-c
+primary_image_credit: 'Photo: Marilis Cardinal'
+publishDate: "2016-04-29T16:45:00+01:00"
+related_articles:
+- articles/liederwolfe-stuns-in-operapeepshow.md
+- articles/the-future-of-opera-is-indie.md
+- articles/bumping-elbows-at-cfos-long-christmas-dinner.md
+related_companies:
+- scene/companies/liederwolfe-opera-collective.md
+- scene/companies/essential-opera.md
+- scene/companies/urbanvessel.md
+- scene/companies/renaissance.md
+- scene/companies/indie-opera-to.md
+- scene/companies/myopera.md
+related_people:
+- scene/people/francesca-perez.md
+- scene/people/lindsay-michael.md
+short_description: To say that it was unique would be a broad understatement. Upon
+  arrival, you are greeted at the door and presented a key which gets you into the
+  event, and then you are ushered downstairs where you get to choose, à la carte,
+  which combination of the companies presenting you wished to check out.
+slug: liederwolfe-stuns-in-operapeepshow
+title: 'Liederwölfe stuns in #OperaPeepShow'
+---
 
 Standing proudly kitty-corner to the impressive and beautiful Four Seasons Centre, at the northwest corner of Queen Street West and University Avenue, is the heritage building Campbell House, a treasure trove of historical artefacts from the early 19th-century.
 

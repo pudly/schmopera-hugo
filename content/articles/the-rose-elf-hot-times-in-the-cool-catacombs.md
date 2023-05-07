@@ -1,17 +1,25 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-06-21T18:41:00-04:00"
-lastmod = "2018-06-21T18:41:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529620312128/sqTRE5.jpg.jpg"
-primary_image_credit = "The Rose Elf (Samantha Hankey) Photo: Matthew Placek."
-publishDate = "2018-06-21T18:41:00-04:00"
-related_articles = ["articles/rb-schlather-susan-b-anthony-connecting-opera-with-community.md","articles/talking-with-singers-samantha-hankey.md"]
-related_people = ["scene/people/rb-schlather.md","scene/people/samantha-hankey.md"]
-short_description = "Early in the opera the lovers share a moment in which they assume the role of rose petals and enfold the elf, quite literally, within themselves. It was a wildly passionate action, which, like the presence of a life-size elf, distorts our sense of reality, even within the confines of this dark fairy tale."
-slug = "the-rose-elf-hot-times-in-the-cool-catacombs"
-title = "The Rose Elf: Hot Times In The Cool Catacombs"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-06-21T18:41:00-04:00"
+lastmod: "2018-06-21T18:41:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529620312128/sqTRE5.jpg.jpg
+primary_image_credit: 'The Rose Elf (Samantha Hankey) Photo: Matthew Placek.'
+publishDate: "2018-06-21T18:41:00-04:00"
+related_articles:
+- articles/rb-schlather-susan-b-anthony-connecting-opera-with-community.md
+- articles/talking-with-singers-samantha-hankey.md
+related_people:
+- scene/people/rb-schlather.md
+- scene/people/samantha-hankey.md
+short_description: Early in the opera the lovers share a moment in which they assume
+  the role of rose petals and enfold the elf, quite literally, within themselves.
+  It was a wildly passionate action, which, like the presence of a life-size elf,
+  distorts our sense of reality, even within the confines of this dark fairy tale.
+slug: the-rose-elf-hot-times-in-the-cool-catacombs
+title: 'The Rose Elf: Hot Times In The Cool Catacombs'
+---
 
 The hot and exotic topic concerning the world premiere of *The Rose Elf*, David Hertzberg’s disturbingly romantic opera, and the entire series, *The Angel's Share*, has been the setting - the cool and austere Catacombs of Green-Wood Cemetery. Created at a time when the fear of being buried alive still lingered, it is a dark and somber sanctuary located in Brooklyn. One walks into this interment area, built in the 1850's, through an ornate entrance in the side of a large and sloping hill.
 

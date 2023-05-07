@@ -1,22 +1,27 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2019-06-01T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1559066216/media/2019/05/kopernikus_30.jpg"
-primary_image_credit = "Kopernikus, Americas Society/Music of the Americas, New York Opera Fest, 2019. Photo: Nicolas Manassi/Roey Yohai Studios for Americas Society."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "Opera composers who write their own libretti are rare and with good reason.  Musicians train in the land of notes and chords but structuring a good piece of theatre requires a different skill set. In the case of The Impossible She, presented by Rhymes with Opera (as part of the New York Opera Fest) composer Daniel Thomas Davis should have stuck with what he does best."
-slug = "no-explanation-needed"
-title = "No Explanation Needed"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2019-06-01T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1559066216/media/2019/05/kopernikus_30.jpg
+primary_image_credit: 'Kopernikus, Americas Society/Music of the Americas, New York
+  Opera Fest, 2019. Photo: Nicolas Manassi/Roey Yohai Studios for Americas Society.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: Opera composers who write their own libretti are rare and with
+  good reason.  Musicians train in the land of notes and chords but structuring a
+  good piece of theatre requires a different skill set. In the case of The Impossible
+  She, presented by Rhymes with Opera (as part of the New York Opera Fest) composer
+  Daniel Thomas Davis should have stuck with what he does best.
+slug: no-explanation-needed
+title: No Explanation Needed
+youtube_url: ""
+---
 Opera composers who write their own libretti are rare and with good reason.  Musicians train in the land of notes and chords but structuring a good piece of theatre requires a different skill set. In the case of _The Impossible She_, presented by Rhymes with Opera (as part of the New York Opera Fest) composer Daniel Thomas Davis should have stuck with what he does best.
 
 _The Impossible She_ is yet another sexual-identity discovery story but it contains a bit of unknown history to some: the heroine is humanitarian and former First Lady Eleanor Roosevelt.  Eleanor (soprano Elisabeth Halliday) realizes that she is in love with a woman (journalist Lorena "Hick" Hickock, played by soprano Bonnie Lander) and the timing couldn't be worse – Mrs. Roosevelt's husband, FDR, has just been elected President of the United States. It's 1932 and a lesbian in the White House is something that would be beyond scandalous. And so, Eleanor and "Hick" have to hide their affair, and, are ultimately kept apart for fear of public condemnation.

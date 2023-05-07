@@ -1,16 +1,24 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2018-09-28T15:19:00-04:00"
-lastmod = "2018-09-28T22:35:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538162044319/sq3679_losthighway16_gross.jpg.jpg"
-primary_image_credit = "John Brancy (Pete) and Elizabeth Rider (Alice) in Lost Highway, Oper Frankfurt, 2018. Photo: Monika Rittershaus."
-publishDate = "2018-09-28T22:35:00-04:00"
-related_people = ["scene/people/john-brancy.md","scene/people/rupert-enticknap.md"]
-short_description = "For an opera, the score doesn&#039;t have much singing. Mr. Eddy&#039;s part is the most unique, full of guttural throat clicks, pops, screams, and burps. At one point he babbles like a tape on fast forward, an unexpectedly thrilling effect live. The character comes off more comic than scary, but who cares with such entertaining music."
-slug = "opera-adapts-a-medium-more-adept-at-adapting"
-title = "Opera adapts a medium more adept at adapting"
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2018-09-28T15:19:00-04:00"
+lastmod: "2018-09-28T22:35:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538162044319/sq3679_losthighway16_gross.jpg.jpg
+primary_image_credit: 'John Brancy (Pete) and Elizabeth Rider (Alice) in Lost Highway,
+  Oper Frankfurt, 2018. Photo: Monika Rittershaus.'
+publishDate: "2018-09-28T22:35:00-04:00"
+related_people:
+- scene/people/john-brancy.md
+- scene/people/rupert-enticknap.md
+short_description: For an opera, the score doesn&#039;t have much singing. Mr. Eddy&#039;s
+  part is the most unique, full of guttural throat clicks, pops, screams, and burps.
+  At one point he babbles like a tape on fast forward, an unexpectedly thrilling effect
+  live. The character comes off more comic than scary, but who cares with such entertaining
+  music.
+slug: opera-adapts-a-medium-more-adept-at-adapting
+title: Opera adapts a medium more adept at adapting
+---
 
 As much flack as Hollywood gets for retooling old properties, mainstream contemporary opera could be similarly chided for borrowing from film. Heggie's hit *Dead Man Walking* was a star studded movie, itself adapted from a book. He also recently redid *It's a Wonderful Life*. I doubt *Cold Mountain* (Jennifer Higdon) and *Brokeback Mountain* (Charles Wuorinen) would have been mounted with such fanfare had the movies not achieved critical success. Kevin Puts's Pulitzer Prize-winning *Silent Night* is based on the screenplay for *Joyeux Noël*, and Thomas Adés' *Exterminating Angel*, Missy Mazzoli's *Breaking the Waves*, and Nico Muhly's *Marnie* all adapt works by revered art film directors. How does Yuval Sharon's new Oper Frankfurt production of Olga Neuwirth's 2003 adaptation of David Lynch's classic film [*Lost Highway*](https://oper-frankfurt.de/en/season-calendar/lost-highway/) fit into the movie-opera paradigm?
  

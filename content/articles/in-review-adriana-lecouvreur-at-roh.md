@@ -1,18 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-02-08T11:21:00+00:00"
-lastmod = "2017-02-08T13:42:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486553878776/2017-02-08---0133-ANGELA-GHEORGHIU-AS-ADRIANA-LECOUVREUR-BRIAN-JAGDE-AS-MAURIZIO-ROH-PHOTO-BY-CATHERINE-ASHMORE.jpg.jpg"
-primary_image_credit = "Angela Gheorghiu (Adriana) and Brian Jagde (Maurizio) in Adriana Lecouvreur at the Royal Opera House. Photo: Catherine Ashmore."
-publishDate = "2017-02-08T12:56:00+00:00"
-related_articles = ["articles/in-review-lucia-di-lammermoor-at-roh.md","articles/talking-with-singers-angela-gheorghiu.md","articles/talking-with-singers-brian-jagde.md","articles/she-said-they-said-crossed-wires-in-buenos-aires.md","articles/rohs-madama-butterfly-better-to-be-furious-than-bored.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/brian-jagde.md","scene/people/gerald-finley.md","scene/people/angela-gheorghiu.md","scene/people/angela-simkin.md","scene/people/vlada-borovko.md","scene/people/thomas-atkins.md","scene/people/simon-shibambu.md","scene/people/ksenia-dudnikova-.md"]
-short_description = "In his role debut as Maurizio, Brian Jagde was a total standout performance. An athletic, strapping Count, Jagde had all the virile charisma that actor-types love. His sound was a throaty, grounded tenor with unreal beauty, and he wisely chose a handful of moments to show almost impossible volume. With Gheorghiu, Jagde created an honest relationship between Maurizio and Adriana. They had chemistry and respect for each other, reminiscent of Tosca and Cavaradossi. "
-slug = "in-review-adriana-lecouvreur-at-roh"
-title = "In review: Adriana Lecouvreur at ROH"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-02-08T11:21:00+00:00"
+lastmod: "2017-02-08T13:42:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486553878776/2017-02-08---0133-ANGELA-GHEORGHIU-AS-ADRIANA-LECOUVREUR-BRIAN-JAGDE-AS-MAURIZIO-ROH-PHOTO-BY-CATHERINE-ASHMORE.jpg.jpg
+primary_image_credit: 'Angela Gheorghiu (Adriana) and Brian Jagde (Maurizio) in Adriana
+  Lecouvreur at the Royal Opera House. Photo: Catherine Ashmore.'
+publishDate: "2017-02-08T12:56:00+00:00"
+related_articles:
+- articles/in-review-lucia-di-lammermoor-at-roh.md
+- articles/talking-with-singers-angela-gheorghiu.md
+- articles/talking-with-singers-brian-jagde.md
+- articles/she-said-they-said-crossed-wires-in-buenos-aires.md
+- articles/rohs-madama-butterfly-better-to-be-furious-than-bored.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/brian-jagde.md
+- scene/people/gerald-finley.md
+- scene/people/angela-gheorghiu.md
+- scene/people/angela-simkin.md
+- scene/people/vlada-borovko.md
+- scene/people/thomas-atkins.md
+- scene/people/simon-shibambu.md
+- scene/people/ksenia-dudnikova-.md
+short_description: 'In his role debut as Maurizio, Brian Jagde was a total standout
+  performance. An athletic, strapping Count, Jagde had all the virile charisma that
+  actor-types love. His sound was a throaty, grounded tenor with unreal beauty, and
+  he wisely chose a handful of moments to show almost impossible volume. With Gheorghiu,
+  Jagde created an honest relationship between Maurizio and Adriana. They had chemistry
+  and respect for each other, reminiscent of Tosca and Cavaradossi. '
+slug: in-review-adriana-lecouvreur-at-roh
+title: 'In review: Adriana Lecouvreur at ROH'
+---
 
 David McVicar's production at the Royal Opera House marked our first time hearing Cilea's *verismo* staple, *Adriana Lecouvreur*. We knew we'd be in store for sweeping, beautiful music, and a beautiful tale based on the true story of [Adrienne Lecouvreur](https://en.wikipedia.org/wiki/Adrienne_Lecouvreur), the famed French actress notably involved with [Maurice de Saxe](https://en.wikipedia.org/wiki/Maurice,_comte_de_Saxe) and whose death remains a suspicious mystery.
 

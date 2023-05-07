@@ -1,16 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-05-17T09:55:00+01:00"
-lastmod = "2016-05-18T08:03:00+01:00"
-preamble = "There are only so many stories that we tell with all of our art. Though they can go through an infinite number of permutations, situations, and reasons for conflict, the fundamentals of all of these stories can be collected neatly into a much smaller list of Offical Stories. Christopher Booker even boiled down all the world's stories into 7 categories, in his book, [*The Seven Basic Plots*](https://en.wikipedia.org/wiki/The_Seven_Basic_Plots).\n\nThat's why it's fairly easy, and even ridiculously hilarious, to find some modern-day equivalents to some of opera's best characters, in the form of pop songs. It's endlessly amusing to imagine Cherubino singing the [Beastie Boys' \"Girls\"](https://www.youtube.com/watch?v=GoFB2R_AUwM), or to draw a clear line between Carmen and the [Pussycat Dolls song, \"Dont' Cha\"](https://www.youtube.com/watch?v=YNSxNsr4wmA). \n\nWe want to get a bit more specific, though. We've got a list of 5 songs that offer a fair comparison to some of your favourite operatic arias. The game of \"name that aria\" is officially on:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463481585596/2016-05-17--MIcrophone.jpg.jpg"
-publishDate = "2016-05-17T11:45:00+01:00"
-related_articles = ["articles/hello-papagena.md","articles/so-can-we-hear-hologram-callas-soon.md"]
-short_description = "That&#039;s why it&#039;s fairly easy, and even ridiculously hilarious, to find some modern-day equivalents to some of opera&#039;s best characters, in the form of pop songs. It&#039;s endlessly amusing to imagine Cherubino singing the Beastie Boys&#039; &quot;Girls&quot;, or to draw a clear line between Carmen and the Pussycat Dolls song, &quot;Dont&#039; Cha&quot;."
-slug = "5-popish-songs-their-operatic-equivalents"
-title = "5 pop(ish) songs &amp; their operatic equivalents"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-05-17T09:55:00+01:00"
+lastmod: "2016-05-18T08:03:00+01:00"
+preamble: "There are only so many stories that we tell with all of our art. Though
+  they can go through an infinite number of permutations, situations, and reasons
+  for conflict, the fundamentals of all of these stories can be collected neatly into
+  a much smaller list of Offical Stories. Christopher Booker even boiled down all
+  the world's stories into 7 categories, in his book, [*The Seven Basic Plots*](https://en.wikipedia.org/wiki/The_Seven_Basic_Plots).\n\nThat's
+  why it's fairly easy, and even ridiculously hilarious, to find some modern-day equivalents
+  to some of opera's best characters, in the form of pop songs. It's endlessly amusing
+  to imagine Cherubino singing the [Beastie Boys' \"Girls\"](https://www.youtube.com/watch?v=GoFB2R_AUwM),
+  or to draw a clear line between Carmen and the [Pussycat Dolls song, \"Dont' Cha\"](https://www.youtube.com/watch?v=YNSxNsr4wmA).
+  \n\nWe want to get a bit more specific, though. We've got a list of 5 songs that
+  offer a fair comparison to some of your favourite operatic arias. The game of \"name
+  that aria\" is officially on:"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463481585596/2016-05-17--MIcrophone.jpg.jpg
+publishDate: "2016-05-17T11:45:00+01:00"
+related_articles:
+- articles/hello-papagena.md
+- articles/so-can-we-hear-hologram-callas-soon.md
+short_description: That&#039;s why it&#039;s fairly easy, and even ridiculously hilarious,
+  to find some modern-day equivalents to some of opera&#039;s best characters, in
+  the form of pop songs. It&#039;s endlessly amusing to imagine Cherubino singing
+  the Beastie Boys&#039; &quot;Girls&quot;, or to draw a clear line between Carmen
+  and the Pussycat Dolls song, &quot;Dont&#039; Cha&quot;.
+slug: 5-popish-songs-their-operatic-equivalents
+title: 5 pop(ish) songs &amp; their operatic equivalents
+---
 
 ## *One Fine Day* (The Chiffons)
 

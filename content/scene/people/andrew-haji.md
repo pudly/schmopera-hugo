@@ -1,32 +1,35 @@
-+++
-date = "2015-04-07T02:28:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-05-11T10:03:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428369928078/AndrewHaji.jpg.jpg"
-publishDate = "2015-04-07T02:28:00+01:00"
-related_companies = ["scene/companies/opera-theatre-of-st-louis.md", "scene/companies/salzburg-festival.md", "scene/companies/calgary-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/edmonton-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
-slug = "andrew-haji"
-title = "Andrew Haji"
-website = "http://www.andrewhaji.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/andrewhaji"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/andrewhaji"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/andrewhaji"
-[[social_media]]
-platform = "Linkedin"
-template = "social-media"
-url = "https://www.linkedin.com/in/andrewhaji/"
-
-_template = "people_single"
-+++
+---
+date: "2015-04-07T02:28:00+01:00"
+discipline: Tenor
+lastmod: "2016-05-11T10:03:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428369928078/AndrewHaji.jpg.jpg
+publishDate: "2015-04-07T02:28:00+01:00"
+related_companies:
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/salzburg-festival.md
+- scene/companies/calgary-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/edmonton-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+slug: andrew-haji
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/andrewhaji
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/andrewhaji
+- platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/andrewhaji
+- _template: people_single
+  platform: Linkedin
+  template: social-media
+  url: https://www.linkedin.com/in/andrewhaji/
+title: Andrew Haji
+website: http://www.andrewhaji.com/
+---
 Canadian tenor Andrew Haji is quickly becoming one of the most sought-after voices on both the operatic and concert stages. Winner of the Grand Prix at the 50th International Vocal Competition in ‘s-Hertogenbosch and the Montreal International Music Competition’s Oratorio Prize, Haji recently performed Bach’s _Matthäus-Passion_ with Pinnock and the National Arts Centre Orchestra and _Messiah_ for the Toronto Symphony – Debus conducting.
 
 An exciting season in 2020-2021 is in the plans and includes Alfredo in _La traviata_ for Calgary Opera, _Elijah_ for Symphony Nova Scotia, Rodolfo in _La bohème_ for Edmonton Opera and a recital for the Jeffery Concert Series of London, Ontario. These projects will be subject to health advisories caused by the global pandemic.

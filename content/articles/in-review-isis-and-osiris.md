@@ -1,18 +1,34 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-04-04T17:33:00+01:00"
-lastmod = "2016-04-04T18:16:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459788624997/2016-04-04---Lucia-Cesaroni-as-ISIS-Michael-Barrett-as-Osiris-photo-by-Gary-Beechey.jpg.jpg"
-primary_image_credit = "Lucia Cesaroni as Isis and Michael Barrett as Osiris. Photo by Gary Beechey."
-publishDate = "2016-04-04T18:16:00+01:00"
-related_articles = ["articles/talking-with-singers-lucia-cesaroni.md","articles/dion-mazerolle-the-quick-study.md","articles/elitism-irony-and-the-phantom-of-the-opera.md","articles/dont-miss-waltz-rivals.md","articles/tots-pirates-of-penzance-a-glorious-thing.md"]
-related_companies = ["scene/companies/voicebox-opera-in-concert.md"]
-related_people = ["scene/people/lucia-cesaroni.md","scene/people/michael-nyby.md","scene/people/michael-barrett.md"]
-short_description = "As Isis, Cesaroni was a revelation. Her incomparable voice flew throughout the Jane Mallett with ease and aplomb, and I&#039;ve said this before, she just gets better every time I hear her. Her darker colour belies the height and beauty she can achieve at the top of her register and every note is properly placed and spins and sparkles. Her characterization of (as she puts it) &quot;the bad b*tch in charge&quot; was a genuine treat."
-slug = "in-review-isis-and-osiris"
-title = "In review: Isis and Osiris"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-04-04T17:33:00+01:00"
+lastmod: "2016-04-04T18:16:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459788624997/2016-04-04---Lucia-Cesaroni-as-ISIS-Michael-Barrett-as-Osiris-photo-by-Gary-Beechey.jpg.jpg
+primary_image_credit: Lucia Cesaroni as Isis and Michael Barrett as Osiris. Photo
+  by Gary Beechey.
+publishDate: "2016-04-04T18:16:00+01:00"
+related_articles:
+- articles/talking-with-singers-lucia-cesaroni.md
+- articles/dion-mazerolle-the-quick-study.md
+- articles/elitism-irony-and-the-phantom-of-the-opera.md
+- articles/dont-miss-waltz-rivals.md
+- articles/tots-pirates-of-penzance-a-glorious-thing.md
+related_companies:
+- scene/companies/voicebox-opera-in-concert.md
+related_people:
+- scene/people/lucia-cesaroni.md
+- scene/people/michael-nyby.md
+- scene/people/michael-barrett.md
+short_description: As Isis, Cesaroni was a revelation. Her incomparable voice flew
+  throughout the Jane Mallett with ease and aplomb, and I&#039;ve said this before,
+  she just gets better every time I hear her. Her darker colour belies the height
+  and beauty she can achieve at the top of her register and every note is properly
+  placed and spins and sparkles. Her characterization of (as she puts it) &quot;the
+  bad b*tch in charge&quot; was a genuine treat.
+slug: in-review-isis-and-osiris
+title: 'In review: Isis and Osiris'
+---
 
 I spent a snowy, blustery, Sunday afternoon in the comfort of the St. Lawrence Centre's Jane Mallett Theatre to witness the culmination of over four years of preparation for the world premiere of Peter-Anthony Togni and Sharon Singer's *Isis and Osiris: Gods of Egypt*. Presented by the new incarnation of one of Toronto's oldest opera companies, [VOICEBOX: Opera In Concert](/scene/companies/voicebox-opera-in-concert/), *Isis and Osiris* was from start to finish a delicious, musical feast. 
 

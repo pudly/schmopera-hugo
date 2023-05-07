@@ -1,27 +1,27 @@
-+++
-date = "2017-11-11T14:55:00-05:00"
-discipline = "Soprano"
-lastmod = "2017-11-11T14:55:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510429950077/m01-683x1024.jpg.jpg"
-publishDate = "2017-11-11T14:55:00-05:00"
-related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/canadian-opera-company.md"]
-slug = "measha-brueggergosman"
-title = "Measha Brueggergosman"
-website = "http://www.measha.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Measha.B"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MeashaBG"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/MeashaBG"
-_template = "people_single"
-+++
+---
+date: "2017-11-11T14:55:00-05:00"
+discipline: Soprano
+lastmod: "2017-11-11T14:55:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510429950077/m01-683x1024.jpg.jpg
+publishDate: "2017-11-11T14:55:00-05:00"
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+- scene/companies/canadian-opera-company.md
+slug: measha-brueggergosman
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Measha.B
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/MeashaBG
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/MeashaBG
+title: Measha Brueggergosman
+website: http://www.measha.com/
+---
 
 Motivated and hungry for new experiences, Ms. Brueggergosman’s career effortlessly embraces the broadest array of performance platforms and musical styles and genres.
 

@@ -1,17 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-09-26T17:36:00-04:00"
-lastmod = "2017-09-28T21:49:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506611300063/2017-09-29---Canadian.jpg.jpg"
-publishDate = "2017-09-28T21:49:00-04:00"
-related_articles = ["articles/the-stars-align-for-toronto-masque-theatres-final-season.md","articles/a-full-house-for-canadian-art-song-at-21c.md"]
-related_companies = ["scene/companies/toronto-masque-theatre.md","scene/companies/canadian-art-song-project.md","scene/companies/esprit-orchestra.md"]
-related_people = ["scene/people/lawrence-wiliford.md","scene/people/alexina-louie.md"]
-short_description = "Wiliford joked that it &quot;took an American&quot; to found the Canadian Art Song Project, which focuses on getting new Canadian song repertoire written, performed, and recorded. Coming from the more fostering environment in the United States, Wiliford was surprised that Canadian performers weren&#039;t as quick to step into the role of champion for their own new music. Similarly, Alex Pauk admits that founding the Esprit Orchestra came out of his and other composers&#039; frustration with the dearth of groups willing to program Canadian material."
-slug = "whats-the-deal-with-canadian-music"
-title = "What&#039;s the deal with Canadian music?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-09-26T17:36:00-04:00"
+lastmod: "2017-09-28T21:49:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506611300063/2017-09-29---Canadian.jpg.jpg
+publishDate: "2017-09-28T21:49:00-04:00"
+related_articles:
+- articles/the-stars-align-for-toronto-masque-theatres-final-season.md
+- articles/a-full-house-for-canadian-art-song-at-21c.md
+related_companies:
+- scene/companies/toronto-masque-theatre.md
+- scene/companies/canadian-art-song-project.md
+- scene/companies/esprit-orchestra.md
+related_people:
+- scene/people/lawrence-wiliford.md
+- scene/people/alexina-louie.md
+short_description: Wiliford joked that it &quot;took an American&quot; to found the
+  Canadian Art Song Project, which focuses on getting new Canadian song repertoire
+  written, performed, and recorded. Coming from the more fostering environment in
+  the United States, Wiliford was surprised that Canadian performers weren&#039;t
+  as quick to step into the role of champion for their own new music. Similarly, Alex
+  Pauk admits that founding the Esprit Orchestra came out of his and other composers&#039;
+  frustration with the dearth of groups willing to program Canadian material.
+slug: whats-the-deal-with-canadian-music
+title: What&#039;s the deal with Canadian music?
+---
 
 Larry Beckwith, Artistic Director of [Toronto Masque Theatre](/scene/companies/toronto-masque-theatre/), addressed his audience at the company's first salon evening of the [2017/18 season](/the-stars-align-for-toronto-masque-theatres-final-season/), entitled *Canada in Words and Music*. He expressed a wish that he could present something larger than a simple snapshot of Canadian music, but rather a comprehensive history of music coming out of our still-young country. Perhaps Beckwith didn't give himself enough credit, since the evening's combination of music and conversation certainly did achieve something comprehensive; perhaps even more importantly, TMT's first salon gave valuable context to the topic of music in Canada.
 

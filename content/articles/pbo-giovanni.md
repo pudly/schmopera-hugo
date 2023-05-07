@@ -1,22 +1,31 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = "2019-02-26T23:31:29+00:00"
-disclaimer = "Content warning: Rape, sexual assault."
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551279783/media/2019/02/SQPBODG2.jpg"
-primary_image_credit = "Andrei Bondarenko and Danielle MacMillan in Don Giovanni, Palm Beach Opera, 2019. Photo courtesy of Palm Beach Opera."
-related_articles = []
-related_companies = ["scene/companies/palm-beach-opera.md"]
-related_people = ["scene/people/caitlin-lynch.md", "scene/people/joshua-bloom.md", "scene/people/danielle-macmillan.md", "scene/people/danielle-pastin.md"]
-short_description = "In her program note, McIntyre wrote that Don Giovanni is an opera \"replete with grey areas, starting with Giovanni's own moral ambiguity.\" But in reality, the libretto couldn't be clearer, from the violent rape in the very opening scene to his refusal to repent in the grim finale."
-slug = "pbo-does-overdue-justice-to-don-giovanni"
-title = "PBO does overdue justice to Don Giovanni"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2019-02-26T23:31:29+00:00"
+disclaimer: 'Content warning: Rape, sexual assault.'
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551279783/media/2019/02/SQPBODG2.jpg
+primary_image_credit: Andrei Bondarenko and Danielle MacMillan in Don Giovanni, Palm
+  Beach Opera, 2019. Photo courtesy of Palm Beach Opera.
+related_articles: []
+related_companies:
+- scene/companies/palm-beach-opera.md
+related_people:
+- scene/people/caitlin-lynch.md
+- scene/people/joshua-bloom.md
+- scene/people/danielle-macmillan.md
+- scene/people/danielle-pastin.md
+short_description: In her program note, McIntyre wrote that Don Giovanni is an opera
+  "replete with grey areas, starting with Giovanni's own moral ambiguity." But in
+  reality, the libretto couldn't be clearer, from the violent rape in the very opening
+  scene to his refusal to repent in the grim finale.
+slug: pbo-does-overdue-justice-to-don-giovanni
+title: PBO does overdue justice to Don Giovanni
+youtube_url: ""
+---
 "What a clear and lovely night, perfect for hunting women."
 
 On paper and in the light of day, the words seem almost laughable, a cartoonishly evil quip dreamed up by a predatory caricature. But on February 24, amid the shadowy silhouettes of [Palm Beach Opera](/scene/companies/palm-beach-opera/)'s film noir–inspired Don Giovanni, the line felt all too real.

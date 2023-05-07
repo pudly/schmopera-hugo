@@ -1,18 +1,27 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2018-03-26T20:48:00-04:00"
-lastmod = "2018-03-26T20:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522109537666/sq---MACBETH_0847-Anna-Netrebko-as-Lady-Macbeth-ROH.-PHOTO-BY-Bill-Cooper.jpg.jpg"
-primary_image_credit = "Anna Netrebko as Lady Macbeth in Macbeth, ROH, 2018. Photo: Michael Cooper."
-publishDate = "2018-03-26T20:48:00-04:00"
-related_articles = ["articles/a-string-of-pearls-from-bizet-and-la-opera.md","articles/androgyny-is-sexy-carmen-at-roh.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/anna-netrebko.md"]
-short_description = "What Verdi does illustrate brilliantly is the power struggle and fight for status between this couple. Who is the driving force behind all of these horrible acts? It could be either one of the power-hungry duo, although at times it&#039;s clear that behind every powerful man there is an even more powerful woman."
-slug = "the-lady-steals-the-spotlight-in-rohs-macbeth"
-title = "The Lady steals the spotlight in ROH&#039;s Macbeth"
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2018-03-26T20:48:00-04:00"
+lastmod: "2018-03-26T20:48:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522109537666/sq---MACBETH_0847-Anna-Netrebko-as-Lady-Macbeth-ROH.-PHOTO-BY-Bill-Cooper.jpg.jpg
+primary_image_credit: 'Anna Netrebko as Lady Macbeth in Macbeth, ROH, 2018. Photo:
+  Michael Cooper.'
+publishDate: "2018-03-26T20:48:00-04:00"
+related_articles:
+- articles/a-string-of-pearls-from-bizet-and-la-opera.md
+- articles/androgyny-is-sexy-carmen-at-roh.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/anna-netrebko.md
+short_description: What Verdi does illustrate brilliantly is the power struggle and
+  fight for status between this couple. Who is the driving force behind all of these
+  horrible acts? It could be either one of the power-hungry duo, although at times
+  it&#039;s clear that behind every powerful man there is an even more powerful woman.
+slug: the-lady-steals-the-spotlight-in-rohs-macbeth
+title: The Lady steals the spotlight in ROH&#039;s Macbeth
+---
 
 [Anna Netrebko](/scene/people/anna-netrebko/) triumphed yesterday as Lady Macbeth in the third revival of Phyllida Lloyd's 2002 production of [*Macbeth* for The Royal Opera](http://www.roh.org.uk/productions/macbeth-by-phyllida-lloyd). While sitting through this opera it almost felt as if the piece was a vehicle for her to show her capability as an artist. Lloyd's production remains current and the drama of Verdi's opera alone is enough reason to get tickets for this show.
 

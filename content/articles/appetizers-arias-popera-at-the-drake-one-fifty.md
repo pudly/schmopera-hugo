@@ -1,17 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2018-03-01T20:40:00-05:00"
-lastmod = "2018-03-01T21:01:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519953472023/sq---drake.jpg.jpg"
-publishDate = "2018-03-01T21:01:00-05:00"
-related_articles = ["articles/atgs-opera-pubs-it-can-all-get-a-bit-wild.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
-related_people = ["scene/people/samantha-pickett.md","scene/people/bruno-roy.md","scene/people/stephane-mayer.md"]
-short_description = "Popera! has a chic air of exclusivity to it, the menu items like &quot;Love Elixir&quot; cocktails and &quot;Opera Cake&quot; seeming positively swanky when paired with Mozart. My only wish is that the event grows in size - as in, more singing, please. I could have done with a couple of sets&#039; worth of singing, perhaps over appetizers as well as cocktails, with a bonus handful of sweet picks - some Andrew Lloyd Webber, say - for dessert."
-slug = "appetizers-arias-popera-at-the-drake-one-fifty"
-title = "Appetizers &amp; arias: Popera! at the Drake One Fifty"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2018-03-01T20:40:00-05:00"
+lastmod: "2018-03-01T21:01:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519953472023/sq---drake.jpg.jpg
+publishDate: "2018-03-01T21:01:00-05:00"
+related_articles:
+- articles/atgs-opera-pubs-it-can-all-get-a-bit-wild.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+related_people:
+- scene/people/samantha-pickett.md
+- scene/people/bruno-roy.md
+- scene/people/stephane-mayer.md
+short_description: Popera! has a chic air of exclusivity to it, the menu items like
+  &quot;Love Elixir&quot; cocktails and &quot;Opera Cake&quot; seeming positively
+  swanky when paired with Mozart. My only wish is that the event grows in size - as
+  in, more singing, please. I could have done with a couple of sets&#039; worth of
+  singing, perhaps over appetizers as well as cocktails, with a bonus handful of sweet
+  picks - some Andrew Lloyd Webber, say - for dessert.
+slug: appetizers-arias-popera-at-the-drake-one-fifty
+title: 'Appetizers &amp; arias: Popera! at the Drake One Fifty'
+---
 
 A welcome addition to the cool decor at the Drake One Fifty - a mix of classy, organic, and even diner-chic - was the bar-adjacent grand piano. 
 

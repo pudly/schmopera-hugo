@@ -1,16 +1,19 @@
-+++
-date = "2017-02-25T12:03:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-02-25T12:03:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488023996900/2017-02-25---Megan-Quick---pc---Bronwen-Sharp.jpg.jpg"
-primary_image_credit = "Bronwen Sharp."
-publishDate = "2017-02-25T12:03:00+00:00"
-related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
-slug = "megan-quick"
-title = "Megan Quick"
-website = "http://www.meganquick.com/"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-02-25T12:03:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2017-02-25T12:03:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488023996900/2017-02-25---Megan-Quick---pc---Bronwen-Sharp.jpg.jpg
+primary_image_credit: Bronwen Sharp.
+publishDate: "2017-02-25T12:03:00+00:00"
+related_companies:
+- scene/companies/university-of-toronto-opera.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+slug: megan-quick
+title: Megan Quick
+website: http://www.meganquick.com/
+---
 
 Megan Quick, a native of Brockville, Ontario, is very excited to be joining the 2016/17 Canadian Opera Company Ensemble program. She studies with with Wendy Nielsen, and recently completed two years at the University of Toronto (Toronto, Ontario). She holds a Diploma of Operatic Performance from the University of Toronto (May 2016), a  Masters in Performance (2013) from Guildhall School of Music and Drama (London, England) and a Bachelor of Music (2011) from Dalhousie University (Halifax, Nova Scotia).
 

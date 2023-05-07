@@ -1,19 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-01-19T16:58:00+00:00"
-lastmod = "2017-01-21T15:29:00+00:00"
-preamble = "Santa Fe-born soprano [Rena Harms](/scene/people/rena-harms/) sang her first performances of Cio-Cio San in Anthony Minghella's famed production of *Madama Butterfly* at [English National Opera](/scene/companies/english-national-opera/), and this season, she has two more opportunities to dig deeper into the role. She is currently in rehearsals with director Matthew Ozawa for [Arizona Opera](http://www.azopera.org/performances/madama-butterfly/cast)'s upcoming production of *Butterfly*, January 28th to February 5th; in May, Harms reprises Cio-Cio San once again with [Opera Theater of Saint Louis.](https://www.opera-stl.org/season-and-events/productions/madame-butterfly-2017)\n\nWe spoke with Harms about growing to love a difficult role like Butterfly, her post-rehearsal craft skills, and realizing that as a professional singer, there's no real \"I made it!\" moment.\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484847271408/2017-01-19---Harms.jpg.jpg"
-primary_image_credit = "Photo by Fay Fox."
-publishDate = "2017-01-21T15:06:00+00:00"
-related_articles = ["articles/talking-with-singers-lisette-oropesa.md"]
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/arizona-opera.md"]
-related_people = ["scene/people/rena-harms.md"]
-short_description = "&quot;The first time I saw Madama Butterfly I actually found Cio-Cio San to be a hard pill to swallow. She can come across very weak and silly if one is not careful in her portrayal. Without her own drive and motivation she seems doomed from the start and her plight becomes uninteresting. I think it is important to relate to the audience that it is her inner strength that drives her to make life-changing decisions.&quot;"
-slug = "talking-with-singers-rena-harms"
-title = "Talking with singers: Rena Harms"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-01-19T16:58:00+00:00"
+lastmod: "2017-01-21T15:29:00+00:00"
+preamble: |+
+  Santa Fe-born soprano [Rena Harms](/scene/people/rena-harms/) sang her first performances of Cio-Cio San in Anthony Minghella's famed production of *Madama Butterfly* at [English National Opera](/scene/companies/english-national-opera/), and this season, she has two more opportunities to dig deeper into the role. She is currently in rehearsals with director Matthew Ozawa for [Arizona Opera](http://www.azopera.org/performances/madama-butterfly/cast)'s upcoming production of *Butterfly*, January 28th to February 5th; in May, Harms reprises Cio-Cio San once again with [Opera Theater of Saint Louis.](https://www.opera-stl.org/season-and-events/productions/madame-butterfly-2017)
+
+  We spoke with Harms about growing to love a difficult role like Butterfly, her post-rehearsal craft skills, and realizing that as a professional singer, there's no real "I made it!" moment.
+
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484847271408/2017-01-19---Harms.jpg.jpg
+primary_image_credit: Photo by Fay Fox.
+publishDate: "2017-01-21T15:06:00+00:00"
+related_articles:
+- articles/talking-with-singers-lisette-oropesa.md
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/arizona-opera.md
+related_people:
+- scene/people/rena-harms.md
+short_description: '&quot;The first time I saw Madama Butterfly I actually found Cio-Cio
+  San to be a hard pill to swallow. She can come across very weak and silly if one
+  is not careful in her portrayal. Without her own drive and motivation she seems
+  doomed from the start and her plight becomes uninteresting. I think it is important
+  to relate to the audience that it is her inner strength that drives her to make
+  life-changing decisions.&quot;'
+slug: talking-with-singers-rena-harms
+title: 'Talking with singers: Rena Harms'
+---
 
 ## Why do you sing professionally?
 

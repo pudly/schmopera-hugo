@@ -1,17 +1,30 @@
-+++
-author = ["authors/erik-flaten.md"]
-categories = "Review"
-date = "2018-09-22T14:00:00-04:00"
-lastmod = "2018-10-03T13:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537638374029/sqLucia4.jpg.jpg"
-publishDate = "2018-09-22T14:00:00-04:00"
-related_articles = ["articles/sky-on-swings-a-mustsee-of-o18.md","articles/a-stunning-premiere-elizabeth-cree.md","articles/racette-an-unmissable-elle-in-o18s-ne-quittez-pas.md","articles/the-astonishing-product-glass-handel-at-o18.md"]
-related_companies = ["scene/companies/opera-philadelphia.md"]
-related_people = ["scene/people/brenda-rae.md","scene/people/christian-van-horn.md","scene/people/adrian-kramer.md"]
-short_description = "As a musical force, opera is an art form that relies on the power of the unamplified human voice to move audiences. The voices of this cast undoubtedly provide the power to bring this opera to life. Whether you have never seen Lucia before, or you are a bel canto connoisseur, these vocalists and musicians make for a rewarding and awe-inspiring night at the opera."
-slug = "brenda-rae-earns-her-ovation-in-o18-lucia"
-title = "Brenda Rae earns her ovation in O18 Lucia"
-+++
+---
+author:
+- authors/erik-flaten.md
+categories: Review
+date: "2018-09-22T14:00:00-04:00"
+lastmod: "2018-10-03T13:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537638374029/sqLucia4.jpg.jpg
+publishDate: "2018-09-22T14:00:00-04:00"
+related_articles:
+- articles/sky-on-swings-a-mustsee-of-o18.md
+- articles/a-stunning-premiere-elizabeth-cree.md
+- articles/racette-an-unmissable-elle-in-o18s-ne-quittez-pas.md
+- articles/the-astonishing-product-glass-handel-at-o18.md
+related_companies:
+- scene/companies/opera-philadelphia.md
+related_people:
+- scene/people/brenda-rae.md
+- scene/people/christian-van-horn.md
+- scene/people/adrian-kramer.md
+short_description: As a musical force, opera is an art form that relies on the power
+  of the unamplified human voice to move audiences. The voices of this cast undoubtedly
+  provide the power to bring this opera to life. Whether you have never seen Lucia
+  before, or you are a bel canto connoisseur, these vocalists and musicians make for
+  a rewarding and awe-inspiring night at the opera.
+slug: brenda-rae-earns-her-ovation-in-o18-lucia
+title: Brenda Rae earns her ovation in O18 Lucia
+---
 
 On Friday night, [Opera Philadelphia](/scene/companies/opera-philadelphia/) unveiled a new co-production with the Wiener Staatsoper of Donizetti's [*Lucia di Lammermoor*](https://www.operaphila.org/whats-on/on-stage-2018-2019/lucia-di-lammermoor/). This bel canto staple is O18 festival's most "conventional" offering, but it still delivers plenty of cutting-edge, vibrant and fresh elements. A popular 19th-century tragedy, *Lucia* balances out the rest of the O18 festival's less traditional offerings. Excellent casting and impressive musical preparation make this production an excellent reminder of why we love opera.
 

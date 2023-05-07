@@ -1,17 +1,23 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2018-11-27T20:08:00-05:00"
-lastmod = "2018-11-27T21:11:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543367230729/sqENOLabohe%CC%80meNatalyaRomaniwJonathanTetelmanRobertWorkman3.jpg.jpg"
-primary_image_credit = "Jonathan Tetelman and Natalya Romaniw in La bohème, English National Opera, 2018. Photo: Robert Workman."
-publishDate = "2018-11-27T20:43:00-05:00"
-related_companies = ["scene/companies/english-national-opera.md"]
-short_description = "Rodolfo and Mimì shared what felt like a genuine chemistry. Sung by Welsh soprano Natalya Romaniw making her ENO debut, it was a subtle and heartfelt performance. There was something classic about her sound that I really loved. It was a true triumph. Musetta, sung by ENO Harewood Artist Nadine Benjamin, was unfortunately the weakest character for me."
-slug = "everyday-people-spectacular-emotions-la-bohème"
-title = "Everyday people &amp; spectacular emotions: La bohème"
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2018-11-27T20:08:00-05:00"
+lastmod: "2018-11-27T21:11:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543367230729/sqENOLabohe%CC%80meNatalyaRomaniwJonathanTetelmanRobertWorkman3.jpg.jpg
+primary_image_credit: 'Jonathan Tetelman and Natalya Romaniw in La bohème, English
+  National Opera, 2018. Photo: Robert Workman.'
+publishDate: "2018-11-27T20:43:00-05:00"
+related_companies:
+- scene/companies/english-national-opera.md
+short_description: Rodolfo and Mimì shared what felt like a genuine chemistry. Sung
+  by Welsh soprano Natalya Romaniw making her ENO debut, it was a subtle and heartfelt
+  performance. There was something classic about her sound that I really loved. It
+  was a true triumph. Musetta, sung by ENO Harewood Artist Nadine Benjamin, was unfortunately
+  the weakest character for me.
+slug: everyday-people-spectacular-emotions-la-bohème
+title: 'Everyday people &amp; spectacular emotions: La bohème'
+---
 This was the fourth remount of Jonathan Miller's classic production of *La bohème* since its premiere at the ENO in 2009, and the revival direction this time around was deftly handled by Natascha Metherell. A standard production, it takes the ideals of the original 19th century piece and moves them forward into the 1930's. 
 
 The Bohemian lifestyle was at its peak in the years after the First World War in Paris as people distracted themselves from their sorrow in a city that was gradually becoming more liberal. It calls to mind Hemingway; the listless, wandering lifestyle of excess, spending beyond one's means. This is the Paris people love to romanticize. 

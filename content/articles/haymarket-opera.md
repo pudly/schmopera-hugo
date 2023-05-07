@@ -1,22 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = 2020-10-26T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Haymarket Opera Company's [10th-anniversary season](http://www.haymarketopera.org/anniversaryseason) starts October 30 with Handel's [_Acis and Galatea_](http://www.haymarketopera.org/acis). Individual tickets are $25, or $40 for all three productions."
-preamble = "Old meets new on October 30, when Haymarket Opera Company launches its all-digital [10th Anniversary Season](http://www.haymarketopera.org/anniversaryseason). The Chicago-based producers of baroque and classical opera are replacing their usual mainstage season with cinematic productions of three Handel operas: _Acis and Galatea_, (streaming Oct. 30-Nov. 8), _Apollo e Dafne_ (Mar. 5-14, 2021), and _Orlando_ (Spring 2021, dates TBD).\n\nWe spoke with Haymarket General Director Chase Hopkins, about taking baroque opera out of the proscenium theatre, and streaming it online."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1603646448/media/2020/10/sqHaymarket-AcisRehearsal-AnnaCillan_jt0uos.jpg"
-primary_image_credit = "Haymarket Opera Company in rehearsal for its digital 2020-21 season. Photo by Anna Cillan."
-related_articles = []
-related_companies = ["scene/companies/haymarket-opera-company.md"]
-related_people = []
-short_description = "\"What does 18th-century opera have to offer us now when we face such existential challenges? Haymarket's tenth season highlights the transformational power of beauty as presented through myth, storytelling, and exquisitely timeless music by one of western music's most empathetic and compassionate composers.\""
-slug = "haymarket-opera-companys-10th-anniversary-season-goes-cinematic"
-title = "Haymarket Opera Company's 10th Anniversary Season goes cinematic "
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2020-10-26T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Haymarket Opera Company's [10th-anniversary season](http://www.haymarketopera.org/anniversaryseason)
+  starts October 30 with Handel's [_Acis and Galatea_](http://www.haymarketopera.org/acis).
+  Individual tickets are $25, or $40 for all three productions.
+preamble: |-
+  Old meets new on October 30, when Haymarket Opera Company launches its all-digital [10th Anniversary Season](http://www.haymarketopera.org/anniversaryseason). The Chicago-based producers of baroque and classical opera are replacing their usual mainstage season with cinematic productions of three Handel operas: _Acis and Galatea_, (streaming Oct. 30-Nov. 8), _Apollo e Dafne_ (Mar. 5-14, 2021), and _Orlando_ (Spring 2021, dates TBD).
 
-+++
+  We spoke with Haymarket General Director Chase Hopkins, about taking baroque opera out of the proscenium theatre, and streaming it online.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1603646448/media/2020/10/sqHaymarket-AcisRehearsal-AnnaCillan_jt0uos.jpg
+primary_image_credit: Haymarket Opera Company in rehearsal for its digital 2020-21
+  season. Photo by Anna Cillan.
+related_articles: []
+related_companies:
+- scene/companies/haymarket-opera-company.md
+related_people: []
+short_description: '"What does 18th-century opera have to offer us now when we face
+  such existential challenges? Haymarket''s tenth season highlights the transformational
+  power of beauty as presented through myth, storytelling, and exquisitely timeless
+  music by one of western music''s most empathetic and compassionate composers."'
+slug: haymarket-opera-companys-10th-anniversary-season-goes-cinematic
+title: 'Haymarket Opera Company''s 10th Anniversary Season goes cinematic '
+youtube_url: ""
+---
 ## How did you decide on the three operas in Haymarket's 10th anniversary season?
 
 **Chase Hopkins:** The three operas for Haymarket's 10th Anniversary Season were chosen with a dual commitment to the safety of artists and audiences, while also considering how to imagine filming Baroque opera for online performances. Arriving at a milestone such as Haymarket's 10th season requires programming which is appropriately momentous -- but how to work within the parameters of pandemic precautions? We are lucky to be able to draw upon some of the repertoire's great masterpieces which call for relatively small forces.

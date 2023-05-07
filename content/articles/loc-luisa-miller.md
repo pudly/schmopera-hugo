@@ -1,22 +1,36 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = "2019-10-15T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Lyric Opera of Chicago's [production of _Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/) runs through October 31."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571168903/media/2019/10/sqQuinnKelsey_KrassimiraStoyanova_LUISAMILLER_LyricOperaofChicago_LYR191008_427_y3wu71.jpg"
-primary_image_credit = "Krassimira Stoyanova (Luisa) and Quinn Kelsey (Miller) in Luisa Miller, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg."
-related_articles = ["articles/roundtable-an-operatic-triple-threat.md", "articles/loc-barber.md", "articles/talking-with-conductors-enrique-mazzola.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/christian-van-horn.md", "scene/people/enrique-mazzola.md", "scene/people/quinn-kelsey.md", "scene/people/joseph-calleja.md", "scene/people/krassimira-stoyanova.md"]
-short_description = "While in the first act, the singers interacted awkwardly, with little to no dramatic commitment to their movements or singing, in the final moments of the show, the principals all rose to the occasion, singing and acting with dramatic impetus that temporarily stopped time. "
-slug = "luisa-miller-a-suberbly-shaped-start-to-chicagos-early-verdi-venture"
-title = "Luisa Miller a \"superbly shaped\" start to Chicago's early Verdi venture"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2019-10-15T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Lyric Opera of Chicago's [production of _Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/)
+  runs through October 31.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571168903/media/2019/10/sqQuinnKelsey_KrassimiraStoyanova_LUISAMILLER_LyricOperaofChicago_LYR191008_427_y3wu71.jpg
+primary_image_credit: 'Krassimira Stoyanova (Luisa) and Quinn Kelsey (Miller) in Luisa
+  Miller, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.'
+related_articles:
+- articles/roundtable-an-operatic-triple-threat.md
+- articles/loc-barber.md
+- articles/talking-with-conductors-enrique-mazzola.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/christian-van-horn.md
+- scene/people/enrique-mazzola.md
+- scene/people/quinn-kelsey.md
+- scene/people/joseph-calleja.md
+- scene/people/krassimira-stoyanova.md
+short_description: 'While in the first act, the singers interacted awkwardly, with
+  little to no dramatic commitment to their movements or singing, in the final moments
+  of the show, the principals all rose to the occasion, singing and acting with dramatic
+  impetus that temporarily stopped time. '
+slug: luisa-miller-a-suberbly-shaped-start-to-chicagos-early-verdi-venture
+title: Luisa Miller a "superbly shaped" start to Chicago's early Verdi venture
+youtube_url: ""
+---
 With this weekend's opening of [_Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/), Lyric Opera of Chicago launches what is planned to be a multi-season exploration of Verdi's early operas. [Enrique Mazzola](/talking-with-conductors-enrique-mazzola/), LOC’s music director designate, is slated to lead the cycle. If this weekend's opening night performance of _Luisa Miller_ is anything to go by, Chicago audiences will be treated to dynamic, superbly shaped, and dramatically incisive interpretations of Verdi.
 
 The undisputed stars of last night's performance were the Lyric Opera Orchestra and Mazzola himself. The LOC Orchestra rarely disappoints, but they were in truly exceptional form Saturday night. From the opening whirls of the overture to the sublime stasis of the finale, the LOC Orchestra wowed with a vibrant palette of colors, virtuosic precision, and three-dimensional textures. A special shout out must be given to principal clarinetist Charlene Zimmerman for her gorgeously played solos. No doubt, Maestro Mazzola was an invigorating and inspirational presence, particularly as this is the very repertoire that established his reputation as one of today's leading interpreters of Italian bel canto. It will be exciting to see how Mazzola will continue to mold this orchestra over the coming years.

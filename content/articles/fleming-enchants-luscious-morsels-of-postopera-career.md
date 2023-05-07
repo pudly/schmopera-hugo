@@ -1,17 +1,24 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Review"
-date = "2018-09-27T12:40:00-04:00"
-lastmod = "2018-09-28T08:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538079908375/sqRenee_Fleming_-_Poemes_3_cropped_-_credit_Andrew_Eccles_Decca.jpg.jpg"
-primary_image_credit = "Photo: Decca/Andrew Eccles."
-publishDate = "2018-09-28T08:48:00-04:00"
-related_articles = ["articles/piotr-beczala.md","articles/in-review-der-rosenkavalier-at-roh.md"]
-related_people = ["scene/people/renee-fleming.md"]
-short_description = "When soprano Renée Fleming offers a concert without any operatic repertoire, you wonder what the &quot;People&#039;s Diva&quot; will sing. Not surprisingly, in front of a capacity crowd, Fleming delivered with luscious morsels of her career after opera."
-slug = "fleming-enchants-luscious-morsels-of-postopera-career"
-title = "Fleming enchants: luscious morsels of post-opera career"
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Review
+date: "2018-09-27T12:40:00-04:00"
+lastmod: "2018-09-28T08:48:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538079908375/sqRenee_Fleming_-_Poemes_3_cropped_-_credit_Andrew_Eccles_Decca.jpg.jpg
+primary_image_credit: 'Photo: Decca/Andrew Eccles.'
+publishDate: "2018-09-28T08:48:00-04:00"
+related_articles:
+- articles/piotr-beczala.md
+- articles/in-review-der-rosenkavalier-at-roh.md
+related_people:
+- scene/people/renee-fleming.md
+short_description: When soprano Renée Fleming offers a concert without any operatic
+  repertoire, you wonder what the &quot;People&#039;s Diva&quot; will sing. Not surprisingly,
+  in front of a capacity crowd, Fleming delivered with luscious morsels of her career
+  after opera.
+slug: fleming-enchants-luscious-morsels-of-postopera-career
+title: 'Fleming enchants: luscious morsels of post-opera career'
+---
 
 She's graced opera stages around the world and is perhaps one of the most recognized classical singers of our generation.
 

@@ -1,20 +1,25 @@
-+++
-date = "2017-08-03T12:59:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-08-03T12:59:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501779501193/Daniel-38.jpeg.jpeg"
-publishDate = "2017-08-03T12:59:00-04:00"
-related_companies = ["scene/companies/latelier-lyrique-de-lopra-de-montral.md", "scene/companies/lopra-de-montral.md", "scene/companies/highlands-opera-studio.md", "scene/companies/manitoba-opera.md", "scene/companies/edmonton-opera.md", "scene/companies/the-bicycle-opera-project.md"]
-slug = "catherine-daniel"
-title = "Catherine Daniel"
-website = "http://catherinedaniel.com/bio/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/mezzocathyd/"
-
-_template = "people_single"
-+++
+---
+date: "2017-08-03T12:59:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-08-03T12:59:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501779501193/Daniel-38.jpeg.jpeg
+publishDate: "2017-08-03T12:59:00-04:00"
+related_companies:
+- scene/companies/latelier-lyrique-de-lopra-de-montral.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/highlands-opera-studio.md
+- scene/companies/manitoba-opera.md
+- scene/companies/edmonton-opera.md
+- scene/companies/the-bicycle-opera-project.md
+slug: catherine-daniel
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/mezzocathyd/
+title: Catherine Daniel
+website: http://catherinedaniel.com/bio/
+---
 Catherine Daniel, mezzo- soprano is currently based in Toronto, Ontario, Canada. Her upcoming projects for this season include: a Messiah with Orchestre de Sherbrooke, The Opéra de Montréal Gala and Singing Third Lady with Edmonton Opera’s _Magic Flute_.
 
 This summer Catherine joined 18 other singers at the Highlands Opera Studio for a residency and performances of William Walton’s _The Bear_. Ms. Daniel sang the role of Popova directed by Richard Margison and conducted by Wayne Strongman.

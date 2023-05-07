@@ -1,22 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2019-02-22T23:12:04+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Next up from Opera Atelier is _Idomeneo_, running April 4-13 at the Mirvish Theatre. For details and tickets, [click here](https://www.operaatelier.com/idomeneo)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550877066/media/2019/02/sqOAROM.jpg"
-primary_image_credit = "Violinist/composer Edwin Huizinga and dancer/choreographer Tyler Gledhill perform Inception, Royal Ontario Museum 2019. Photo: Bruce Zinger/Opera Atelier."
-related_articles = ["articles/a-daring-desirous-doublebill-at-opera-atelier.md"]
-related_companies = ["scene/companies/opera-atelier.md"]
-related_people = ["scene/people/jesse-blumberg.md", "scene/people/mireille-asselin.md"]
-short_description = "If anyone doubted the longevity of Opera Atelier's plans to commission new works, they've been quick to prove themselves. It makes me more curious to hear their mainstage season, knowing that the company has more than one baroque trick up their sleeve."
-slug = "baroque-novelty-from-opera-atelier-the-angel-speaks"
-title = "Baroque novelty from Opera Atelier: The Angel Speaks"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2019-02-22T23:12:04+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Next up from Opera Atelier is _Idomeneo_, running April 4-13 at the Mirvish
+  Theatre. For details and tickets, [click here](https://www.operaatelier.com/idomeneo).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550877066/media/2019/02/sqOAROM.jpg
+primary_image_credit: 'Violinist/composer Edwin Huizinga and dancer/choreographer
+  Tyler Gledhill perform Inception, Royal Ontario Museum 2019. Photo: Bruce Zinger/Opera
+  Atelier.'
+related_articles:
+- articles/a-daring-desirous-doublebill-at-opera-atelier.md
+related_companies:
+- scene/companies/opera-atelier.md
+related_people:
+- scene/people/jesse-blumberg.md
+- scene/people/mireille-asselin.md
+short_description: If anyone doubted the longevity of Opera Atelier's plans to commission
+  new works, they've been quick to prove themselves. It makes me more curious to hear
+  their mainstage season, knowing that the company has more than one baroque trick
+  up their sleeve.
+slug: baroque-novelty-from-opera-atelier-the-angel-speaks
+title: 'Baroque novelty from Opera Atelier: The Angel Speaks'
+youtube_url: ""
+---
 [Opera Atelier](/scene/companies/opera-atelier/) is gearing up for its April production of Mozart's [_Idomeneo_](https://www.operaatelier.com/idomeneo), and with its recent concert at the Royal Ontario Museum, creating an early draw for the eyes and ears.
 
 Last year, they presented _Harmonia Sacra_, a concert displaying singers, baroque chamber orchestra, and Artists of the Atelier Ballet in the runway stage of the ROM's Currelly Gallery. The concert included the world premiere of _Inception_, a new work for baroque violin and dancer by Edwin Huizinga and Tyler Gledhill, which marked OA's very first new commission.

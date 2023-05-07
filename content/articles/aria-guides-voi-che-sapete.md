@@ -1,22 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = 2020-06-21T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = "I kind of can't believe we haven't done an Aria Guide for this bread-and-butter pick for trouser role mezzos. This aria is such a great moment in Mozart's _Le nozze di Figaro_; it's meant to be a stand-alone tune, as Cherubino is giving an impromptu recital (read: Susanna told him to) of the new song he wrote. The dramatic tension comes out of the fact that Cherubino is singing for the Countess, on whom he has a hopeless, teenage crush. \n\n\"Voi che sapete\" is about puberty, becoming girl-crazy, and involuntary bodily functions that are fun but also difficult to hide. It's one of those Mozart arias that seems simple, but demands a lot in the details. With your teacher and coach, this Aria Guide can help Cherubinos-to-be get started:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1592005825/media/2020/06/sqAriaGuide-VoiCheSapete_rbqtge.jpg"
-primary_image_credit = ""
-related_articles = ["articles/aria-guides-una-voce-poco-fa.md", "articles/aria-guides-parto-parto.md", "articles/aria-guides-didos-lament.md"]
-related_companies = []
-related_people = []
-short_description = "\"Voi che sapete\" is about puberty, becoming girl-crazy, and involuntary bodily functions that are fun but also difficult to hide. It's one of those Mozart arias that seems simple, but demands a lot in the details. With your teacher and coach, this Aria Guide can help Cherubinos-to-be get started:"
-slug = "aria-guides-voi-che-sapete"
-title = "Aria guides: Voi, che sapete"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2020-06-21T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: "I kind of can't believe we haven't done an Aria Guide for this bread-and-butter
+  pick for trouser role mezzos. This aria is such a great moment in Mozart's _Le nozze
+  di Figaro_; it's meant to be a stand-alone tune, as Cherubino is giving an impromptu
+  recital (read: Susanna told him to) of the new song he wrote. The dramatic tension
+  comes out of the fact that Cherubino is singing for the Countess, on whom he has
+  a hopeless, teenage crush. \n\n\"Voi che sapete\" is about puberty, becoming girl-crazy,
+  and involuntary bodily functions that are fun but also difficult to hide. It's one
+  of those Mozart arias that seems simple, but demands a lot in the details. With
+  your teacher and coach, this Aria Guide can help Cherubinos-to-be get started:"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1592005825/media/2020/06/sqAriaGuide-VoiCheSapete_rbqtge.jpg
+primary_image_credit: ""
+related_articles:
+- articles/aria-guides-una-voce-poco-fa.md
+- articles/aria-guides-parto-parto.md
+- articles/aria-guides-didos-lament.md
+related_companies: []
+related_people: []
+short_description: '"Voi che sapete" is about puberty, becoming girl-crazy, and involuntary
+  bodily functions that are fun but also difficult to hide. It''s one of those Mozart
+  arias that seems simple, but demands a lot in the details. With your teacher and
+  coach, this Aria Guide can help Cherubinos-to-be get started:'
+slug: aria-guides-voi-che-sapete
+title: 'Aria guides: Voi, che sapete'
+youtube_url: ""
+---
 * This first phrase **(1)** is simple and straightforward, and leaves you lots of room to decide on how confident a performer Cherubino is. The first two bars can easily pass for mechanical or unmusical, if your Cherubino is a shy starter; if he's on the braver side, there's a bit of machismo in this angular, swaggery beginning. You can do a lot with the \[v\] in "Voi", giving it some spin and pitch ahead of time so your vowel lands right on the downbeat. (Conductors love that.)
 
 <figure data-type="image">

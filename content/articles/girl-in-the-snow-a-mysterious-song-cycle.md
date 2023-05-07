@@ -1,22 +1,28 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2021-05-20T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1621562920/media/2021/05/GirlintheSnow-Albumcover_uswbsz.jpg"
-primary_image_credit = "Image courtesy of Acis."
-related_articles = ["articles/video-premiere-the-mystery-of-the-world-according-to-julia-dawson.md"]
-related_companies = []
-related_people = ["scene/people/julia-dawson.md"]
-short_description = "Though distinctly modern in all respects, Girl In The Snow possesses a timeless patina. Ordway's ambitious and naturalistic poetry, both dreamy, even fancifully at moments, is also marked with underlying tension and foreboding. Such variety seasons the work. His composition, written for solo piano accompanying mezzo-soprano voice, is resonant, often propulsive and grippingly abstract. "
-slug = "girl-in-the-snow-a-mysterious-song-cycle"
-title = "Girl in the Snow: a mysterious song cycle"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2021-05-20T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1621562920/media/2021/05/GirlintheSnow-Albumcover_uswbsz.jpg
+primary_image_credit: Image courtesy of Acis.
+related_articles:
+- articles/video-premiere-the-mystery-of-the-world-according-to-julia-dawson.md
+related_companies: []
+related_people:
+- scene/people/julia-dawson.md
+short_description: 'Though distinctly modern in all respects, Girl In The Snow possesses
+  a timeless patina. Ordway''s ambitious and naturalistic poetry, both dreamy, even
+  fancifully at moments, is also marked with underlying tension and foreboding. Such
+  variety seasons the work. His composition, written for solo piano accompanying mezzo-soprano
+  voice, is resonant, often propulsive and grippingly abstract. '
+slug: girl-in-the-snow-a-mysterious-song-cycle
+title: 'Girl in the Snow: a mysterious song cycle'
+youtube_url: ""
+---
 Sometimes musical experiences are enhanced when they appear in close proximity to one another. Such was the case when listening to [_Girl In The Snow_](/video-premiere-the-mystery-of-the-world-according-to-julia-dawson/), a beautiful and mysterious song cycle by Scott Ordway. Just a few days prior I had viewed _The Waves in Quarantine_, Lisa Peterson’s pandemic inspired streaming treatment of David Bucknam’s musical adaptation of _The Waves_ by Virginia Woolf.
 
 These are deeply introspective pieces, both non-linear as they move in and out of stream of consciousness storytelling. Despite their sense of longing and isolation, exposure to them induces feelings of emotional and intellectual satisfaction. They are ravishing if melancholic excursions. This being Schmopera, we are here to ponder _Girl In The Snow_. Still I would urge readers to visit [Berkeleyrep.org](https://berkeleyrep.org/) before May 28 to ride _The Waves In Quarantine_ and take a most convergent journey with Virginia Woolf and David Bucknam.

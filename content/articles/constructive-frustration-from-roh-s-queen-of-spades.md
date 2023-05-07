@@ -1,22 +1,30 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-01-21T16:01:55+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "The Queen of Spades runs through February 1. For details and ticket information, [click here.](https://www.roh.org.uk/productions/the-queen-of-spades-by-stefan-herheim)"
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548085420/media/2019/01/sq1351TheQueenOfSpadesProductionImageROH2018.jpg"
-primary_image_credit = "A scene from The Queen of Spades, ROH, 2019. Photo: Catherine Ashmore."
-related_articles = ["articles/roh-traviata.md", "articles/androgyny-is-sexy-carmen-at-roh.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/evamaria-westbroek.md"]
-short_description = "I think it is a good thing to have my sensibilities questioned. An opera score does not always need to be taken at face value and can be up to individual interpretation."
-slug = "constructive-frustration-from-rohs-queen-of-spades"
-title = "Constructive frustration from ROH's Queen of Spades"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-01-21T16:01:55+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: The Queen of Spades runs through February 1. For details and ticket information,
+  [click here.](https://www.roh.org.uk/productions/the-queen-of-spades-by-stefan-herheim)
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548085420/media/2019/01/sq1351TheQueenOfSpadesProductionImageROH2018.jpg
+primary_image_credit: 'A scene from The Queen of Spades, ROH, 2019. Photo: Catherine
+  Ashmore.'
+related_articles:
+- articles/roh-traviata.md
+- articles/androgyny-is-sexy-carmen-at-roh.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/evamaria-westbroek.md
+short_description: I think it is a good thing to have my sensibilities questioned.
+  An opera score does not always need to be taken at face value and can be up to individual
+  interpretation.
+slug: constructive-frustration-from-rohs-queen-of-spades
+title: Constructive frustration from ROH's Queen of Spades
+youtube_url: ""
+---
 This production of Tchaikovsky’s _Queen of Spades_ designed by Philipp Fürhofer and directed by Stefan Herheim is a highly conceptual piece that places the focus on the composer. Herheim is attempting to create a window into the composer's mind at the time this piece was being written. To assist in establishing this, he made the controversial choice to have the singer cast as Prince Yeletsky also play the role of Tchaikovsky.
 
 > I left the theatre with mixed feelings. I could not say that I enjoyed every aspect of this production but I think we should always be bold in opera.

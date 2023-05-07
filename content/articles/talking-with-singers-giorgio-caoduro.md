@@ -1,22 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = 2020-02-13T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Welsh National Opera's production of[ _Les vêpres siciliennes_](https://wno.org.uk/whats-on/les-v%C3%AApres-siciliennes-verdi#overview) runs 15 February through 9 May, touring from Cardiff to Birmingham."
-preamble = "This weekend, Italian baritone [Giorgio Caoduro](/scene/people/giorgio-caoduro/) opens David Pountney's production of _Les vêpres siciliennes_ at Welsh National Opera, where he sings the role of Guy de Montfort. Performances start in Cardiff on 15 February, and tour through May to Llandudno, Bristol, Southampton, Milton Keynes, Plymouth, and Birmingham.\n\nWe spoke with Caoduro about falling in love with opera via cassette tape, and how his work draws him out of his natural introvert state."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581622127/media/2020/02/GiorgioCaoduro_jnslnl.jpg"
-primary_image_credit = ""
-related_articles = ["articles/talking-with-singers-melody-moore.md", "articles/talking-with-singers-thomas-hampson.md", "articles/talking-with-singers-luca-pisaroni.md"]
-related_companies = ["scene/companies/welsh-national-opera.md"]
-related_people = ["scene/people/giorgio-caodura.md"]
-short_description = "\"I fell in love right away for the voices, especially the low voices. I remember like it was yesterday: 'I want to become a baritone or a bass and I want to sing in big opera houses!' Little did I know that in very few years I’d begin studying and making my professional debut. This year I will actually celebrate my 20th year of career.\""
-slug = "talking-with-singers-giorgio-caoduro"
-title = "Talking with singers: Giorgio Caoduro"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2020-02-13T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Welsh National Opera's production of[ _Les vêpres siciliennes_](https://wno.org.uk/whats-on/les-v%C3%AApres-siciliennes-verdi#overview)
+  runs 15 February through 9 May, touring from Cardiff to Birmingham.
+preamble: |-
+  This weekend, Italian baritone [Giorgio Caoduro](/scene/people/giorgio-caoduro/) opens David Pountney's production of _Les vêpres siciliennes_ at Welsh National Opera, where he sings the role of Guy de Montfort. Performances start in Cardiff on 15 February, and tour through May to Llandudno, Bristol, Southampton, Milton Keynes, Plymouth, and Birmingham.
 
-+++
+  We spoke with Caoduro about falling in love with opera via cassette tape, and how his work draws him out of his natural introvert state.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1581622127/media/2020/02/GiorgioCaoduro_jnslnl.jpg
+primary_image_credit: ""
+related_articles:
+- articles/talking-with-singers-melody-moore.md
+- articles/talking-with-singers-thomas-hampson.md
+- articles/talking-with-singers-luca-pisaroni.md
+related_companies:
+- scene/companies/welsh-national-opera.md
+related_people:
+- scene/people/giorgio-caodura.md
+short_description: '"I fell in love right away for the voices, especially the low
+  voices. I remember like it was yesterday: ''I want to become a baritone or a bass
+  and I want to sing in big opera houses!'' Little did I know that in very few years
+  I’d begin studying and making my professional debut. This year I will actually celebrate
+  my 20th year of career."'
+slug: talking-with-singers-giorgio-caoduro
+title: 'Talking with singers: Giorgio Caoduro'
+youtube_url: ""
+---
 ## Why do you sing professionally?
 
 Since I was a teenager I was utterly in love with classical music, and in particular, opera (which made me kind of a nerd). Back then we didn’t have internet, so no YouTube or Spotify or anything like that, and having the chance to listen to classical music was much harder than it is now. I still remember my first two opera audio cassettes! It was _Barber of Seville_ and _Elixir of Love_. 

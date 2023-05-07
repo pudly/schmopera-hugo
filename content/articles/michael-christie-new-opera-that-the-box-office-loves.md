@@ -1,18 +1,40 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-07-03T11:57:00-06:00"
-lastmod = "2016-07-14T11:52:00-06:00"
-preamble = "We had the chance to meet [Michael Christie](/scene/people/michael-christie/), conductor and Music Director of [Minnesota Opera](/scene/companies/minnesota-opera/), when he was paying a visit to the young artists of [Open Space: Opera in the 21st Century](https://www.banffcentre.ca/announcing-2016-open-space-participants?utm_source=The+Banff+Centre&utm_campaign=55856bf7e4-Arts_Performing+Arts_Apr_2016_Newsletter&utm_medium=email&utm_term=0_ad4acfe1fe-55856bf7e4-) at The Banff Centre. We asked him about Minnesota's strong history with new works, and the trends they continue to set across the opera world."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468174748266/2016-07-10---Christie.jpg.jpg"
-publishDate = "2016-07-13T21:08:00-06:00"
-related_articles = ["articles/8-contemporary-roles-to-covet.md","articles/new-works-the-imaginings.md","articles/new-operas-craig-bohmlers-riders-of-the-purple-sage.md","articles/5-people-who-would-make-great-opera-roles.md","articles/opera-philadelphia-puts-the-mets-201718-season-to-shame.md","articles/55-years-of-minnesota-opera-a-gala-celebration.md"]
-related_companies = ["scene/companies/minnesota-opera.md","scene/companies/tapestry-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
-related_people = ["scene/people/michael-christie.md","scene/people/kevin-puts.md"]
-short_description = "It seems, when an audience is left to decide what they deem &quot;opera&quot;, that they respond positively to hearing new works; Christie credits the community surrounding Minnesota Opera for the consistent support. &quot;In some communities, new music doesn&#039;t go over quite as well,&quot; he explains. &quot;Minnesota is a very particular community; I feel very lucky to be there.&quot;"
-slug = "michael-christie-new-opera-that-the-box-office-loves"
-title = "Michael Christie: new opera that the box office loves"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-07-03T11:57:00-06:00"
+lastmod: "2016-07-14T11:52:00-06:00"
+preamble: 'We had the chance to meet [Michael Christie](/scene/people/michael-christie/),
+  conductor and Music Director of [Minnesota Opera](/scene/companies/minnesota-opera/),
+  when he was paying a visit to the young artists of [Open Space: Opera in the 21st
+  Century](https://www.banffcentre.ca/announcing-2016-open-space-participants?utm_source=The+Banff+Centre&utm_campaign=55856bf7e4-Arts_Performing+Arts_Apr_2016_Newsletter&utm_medium=email&utm_term=0_ad4acfe1fe-55856bf7e4-)
+  at The Banff Centre. We asked him about Minnesota''s strong history with new works,
+  and the trends they continue to set across the opera world.'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468174748266/2016-07-10---Christie.jpg.jpg
+publishDate: "2016-07-13T21:08:00-06:00"
+related_articles:
+- articles/8-contemporary-roles-to-covet.md
+- articles/new-works-the-imaginings.md
+- articles/new-operas-craig-bohmlers-riders-of-the-purple-sage.md
+- articles/5-people-who-would-make-great-opera-roles.md
+- articles/opera-philadelphia-puts-the-mets-201718-season-to-shame.md
+- articles/55-years-of-minnesota-opera-a-gala-celebration.md
+related_companies:
+- scene/companies/minnesota-opera.md
+- scene/companies/tapestry-opera.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-banff-centre.md
+related_people:
+- scene/people/michael-christie.md
+- scene/people/kevin-puts.md
+short_description: It seems, when an audience is left to decide what they deem &quot;opera&quot;,
+  that they respond positively to hearing new works; Christie credits the community
+  surrounding Minnesota Opera for the consistent support. &quot;In some communities,
+  new music doesn&#039;t go over quite as well,&quot; he explains. &quot;Minnesota
+  is a very particular community; I feel very lucky to be there.&quot;
+slug: michael-christie-new-opera-that-the-box-office-loves
+title: 'Michael Christie: new opera that the box office loves'
+---
 
 ## Selling out new opera
 

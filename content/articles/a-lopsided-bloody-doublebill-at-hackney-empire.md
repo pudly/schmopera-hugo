@@ -1,17 +1,27 @@
-+++
-author = ["authors/vivian-darkbloom.md"]
-categories = "Review"
-date = "2017-09-20T20:37:00-04:00"
-lastmod = "2017-09-20T21:36:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505954725944/2017-09-20---square---Senza-Sangue-14---Albane-Carre%CC%80re-as--The-Woman-and-Romain-Bockler-as-The-Man.jpg.jpg"
-primary_image_credit = "Albane Carrère as The Woman and Romain Bockler as The Man in Senza Sangue, Hackney Empire, 2017. Photo: Anett Kállay-Tóth."
-publishDate = "2017-09-20T21:33:00-04:00"
-related_articles = ["articles/in-review-bluebeards-castle-erwartung.md"]
-related_people = ["scene/people/albane-carrere.md","scene/people/romain-bockler.md","scene/people/adrienn-miksch.md"]
-short_description = "The second piece of the programme was Bartók&#039;s staggering Bluebeard&#039;s Castle. Bluebeard&#039;s lush mystery couldn&#039;t have provided a stronger contrast to tense grey world of Senza Sangue. This production too began with a bare stage, but through the brilliant lighting design of Philippe Grosperrin, each of Bluebeard&#039;s seven forbidden rooms came to light."
-slug = "a-lopsided-bloody-doublebill-at-hackney-empire"
-title = "A lopsided &amp; bloody double-bill at Hackney Empire"
-+++
+---
+author:
+- authors/vivian-darkbloom.md
+categories: Review
+date: "2017-09-20T20:37:00-04:00"
+lastmod: "2017-09-20T21:36:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505954725944/2017-09-20---square---Senza-Sangue-14---Albane-Carre%CC%80re-as--The-Woman-and-Romain-Bockler-as-The-Man.jpg.jpg
+primary_image_credit: 'Albane Carrère as The Woman and Romain Bockler as The Man
+  in Senza Sangue, Hackney Empire, 2017. Photo: Anett Kállay-Tóth.'
+publishDate: "2017-09-20T21:33:00-04:00"
+related_articles:
+- articles/in-review-bluebeards-castle-erwartung.md
+related_people:
+- scene/people/albane-carrere.md
+- scene/people/romain-bockler.md
+- scene/people/adrienn-miksch.md
+short_description: The second piece of the programme was Bartók&#039;s staggering
+  Bluebeard&#039;s Castle. Bluebeard&#039;s lush mystery couldn&#039;t have provided
+  a stronger contrast to tense grey world of Senza Sangue. This production too began
+  with a bare stage, but through the brilliant lighting design of Philippe Grosperrin,
+  each of Bluebeard&#039;s seven forbidden rooms came to light.
+slug: a-lopsided-bloody-doublebill-at-hackney-empire
+title: A lopsided &amp; bloody double-bill at Hackney Empire
+---
 
 Every trip to the [Hackney Empire](https://hackneyempire.co.uk/whats-on/senza-sangue-bluebeards-castle/) is an experience; I'm always surprised that the building manages to be equal parts kitschy and elegant. The space also has a surprisingly wonderful acoustic as well as clear sight lines and a big stage. It's wonderful for opera, although it doesn't have an orchestra pit.
 

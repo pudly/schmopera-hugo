@@ -1,19 +1,41 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2015-06-03T11:14:00-04:00"
-lastmod = "2015-06-03T16:42:00-04:00"
-preamble = "A blank white room. A black table. A grand piano. A big white box. A crowded room. Exposed brick walls. An excited buzz. [Neubacher Schor Contemporary](http://neubachershor.com/) gallery on Brock street in Toronto's super hip Queen West district was the perfect setting for Against The Grain's season closer. \n\nYes. I love AtG's work. That is known. But they earned that love because they never fail to produce top quality theatre. They do not disappoint. "
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433344551220/2295.jpg.jpg"
-primary_image_credit = "Photo by Darryl Block"
-publishDate = "2015-06-03T11:23:00-04:00"
-related_articles = ["articles/dont-miss-atgs-messiah.md","articles/roxanna-walitzki-exquisite-corpse.md","articles/killer-women-shadwell-operas-doublebill.md","articles/joel-ivany-were-throwing-a-salon.md","articles/in-review-scenes-from-the-end.md","articles/the-invictus-games-come-to-the-rba.md","articles/newly-staged-the-diary-of-one-who-disappeared.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/krisztina-szab.md","scene/people/stephen-hegedus.md","scene/people/christopher-mokrzewski.md","scene/people/joel-ivany.md"]
-short_description = "Death &amp; Desire is a blending of two art song cycles. One, Die schöne \nMüllerin by the art song emperor, Franz Schubert and the second by France&#039;s master of the bird call, Olivier Messiaen, called Harawi. It&#039;s not an opera in the traditional sense, as per usual with AtG. It is, however, one of the most coherent, artistic and thrilling examples of lyric theatre to date."
-slug = "in-review-death-desire"
-title = "In review: Death &amp; Desire"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2015-06-03T11:14:00-04:00"
+lastmod: "2015-06-03T16:42:00-04:00"
+preamble: "A blank white room. A black table. A grand piano. A big white box. A crowded
+  room. Exposed brick walls. An excited buzz. [Neubacher Schor Contemporary](http://neubachershor.com/)
+  gallery on Brock street in Toronto's super hip Queen West district was the perfect
+  setting for Against The Grain's season closer. \n\nYes. I love AtG's work. That
+  is known. But they earned that love because they never fail to produce top quality
+  theatre. They do not disappoint. "
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433344551220/2295.jpg.jpg
+primary_image_credit: Photo by Darryl Block
+publishDate: "2015-06-03T11:23:00-04:00"
+related_articles:
+- articles/dont-miss-atgs-messiah.md
+- articles/roxanna-walitzki-exquisite-corpse.md
+- articles/killer-women-shadwell-operas-doublebill.md
+- articles/joel-ivany-were-throwing-a-salon.md
+- articles/in-review-scenes-from-the-end.md
+- articles/the-invictus-games-come-to-the-rba.md
+- articles/newly-staged-the-diary-of-one-who-disappeared.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/krisztina-szab.md
+- scene/people/stephen-hegedus.md
+- scene/people/christopher-mokrzewski.md
+- scene/people/joel-ivany.md
+short_description: "Death &amp; Desire is a blending of two art song cycles. One,
+  Die schöne \nMüllerin by the art song emperor, Franz Schubert and the second by
+  France&#039;s master of the bird call, Olivier Messiaen, called Harawi. It&#039;s
+  not an opera in the traditional sense, as per usual with AtG. It is, however, one
+  of the most coherent, artistic and thrilling examples of lyric theatre to date."
+slug: in-review-death-desire
+title: 'In review: Death &amp; Desire'
+---
 
 *Death & Desire* is a blending of two art song cycles. One, *Die schöne 
 Müllerin* by the art song emperor, Franz Schubert and the second by France's master of the bird call, Olivier Messiaen, called *Harawi*. It's not an opera in the traditional sense, as per usual with AtG. It is, however, one of the most coherent, artistic and thrilling examples of lyric theatre to date.

@@ -1,15 +1,16 @@
-+++
-date = "2015-10-26T23:07:00-04:00"
-lastmod = "2015-10-26T23:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445915476204/OWS.jpg.jpg"
-publishDate = "2015-10-26T23:11:00-04:00"
-related_people = ["scene/people/sonya-headlam.md"]
-slug = "one-world-symphony"
-title = "One World Symphony"
-type_of_company = "Orchestra"
-website = "http://www.oneworldsymphony.org/index.shtml"
-_template = "company_single"
-+++
+---
+_template: company_single
+date: "2015-10-26T23:07:00-04:00"
+lastmod: "2015-10-26T23:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445915476204/OWS.jpg.jpg
+publishDate: "2015-10-26T23:11:00-04:00"
+related_people:
+- scene/people/sonya-headlam.md
+slug: one-world-symphony
+title: One World Symphony
+type_of_company: Orchestra
+website: http://www.oneworldsymphony.org/index.shtml
+---
 
 ## VISION
 

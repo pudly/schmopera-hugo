@@ -1,19 +1,21 @@
-+++
-date = "2016-01-24T20:22:00+00:00"
-discipline = "Soprano"
-lastmod = "2016-04-28T10:03:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461834218204/2016-04-28---Jessica-Lane.jpg.jpg"
-publishDate = "2016-01-24T20:22:00+00:00"
-related_companies = ["scene/companies/myopera.md","scene/companies/halifax-summer-opera-festival.md"]
-slug = "jessica-lane"
-title = "Jessica Lane"
-website = "http://www.jessicalanesoprano.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/irrelevantdiva"
-_template = "people_single"
-+++
+---
+date: "2016-01-24T20:22:00+00:00"
+discipline: Soprano
+lastmod: "2016-04-28T10:03:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461834218204/2016-04-28---Jessica-Lane.jpg.jpg
+publishDate: "2016-01-24T20:22:00+00:00"
+related_companies:
+- scene/companies/myopera.md
+- scene/companies/halifax-summer-opera-festival.md
+slug: jessica-lane
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/irrelevantdiva
+title: Jessica Lane
+website: http://www.jessicalanesoprano.com/
+---
 
 Jessica is a young, up and coming, award winning, Toronto based soprano .
  

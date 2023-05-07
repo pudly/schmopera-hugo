@@ -1,19 +1,45 @@
-+++
-author = ["authors/greg.md"]
-categories = "Interview"
-date = "2017-12-31T19:22:00-05:00"
-lastmod = "2018-01-01T09:30:00-05:00"
-preamble = "Each holiday season, after all the Christmas carols, Nativity pageants, and *Messiahs* are done, it's time for another holiday tradition here in Toronto, taken from the customs of Vienna and Prague: heading to the opera house on New Year's Day to guzzle champagne and see the classics like *Die Fledermaus*, *Countess Maritza*, *The Merry Widow* and *The Student Prince*. The holiday operetta has also found a home here in Canada with Toronto Operetta Theatre. \n\nTOT has been in operation here in Toronto for over 30 years, and it's the only company in Canada that focuses entirely on operetta, basically the grand aunt of today's musical theatre. This year's offering for the holiday season is the classic by composer Leonard Bernstein, *Candide*, starring [Tonatiuh Abrego](/scene/people/tonatiuh-abrego/) in the title role, and featuring [Nicholas Borg](/scene/people/nicholas-borg/) (Narrator/Pangloss/Martin), [Vania Chan](/scene/people/vania-chan/) (Cunégonde), and TOT favourite Elizabeth Beeler (Old Woman). \n\nI asked them questions about the differences between opera and operetta, what *Candide* is actually about, and what kind of music they listen to for fun. \n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514765568210/2017-12-31---Beller%2C-Chan-We-are-Women.jpg.jpg"
-primary_image_credit = "(l-r) Elizabeth Beeler (Old Woman) and Vania Chan (Cunégonde) in Candide, Toronto Operetta Theatre, 2017. Photo by Gary Beechey."
-publishDate = "2017-12-31T19:22:00-05:00"
-related_articles = ["articles/what-the-eff-is-a-zarzuela-anyway.md","articles/in-review-ah-mikado.md"]
-related_companies = ["scene/companies/toronto-operetta-theatre.md"]
-related_people = ["scene/people/tonatiuh-abrego.md","scene/people/vania-chan.md","scene/people/nicholas-borg.md"]
-short_description = "&quot;I feel the piece itself is a deep commentary on the organization of mankind, a musing on the structures we put in place to prevent chaos, and a mirror into the follies of our past and in some cases our present. It is an accounting of worth through the eyes of the innocent, when we still look for the best possible world.&quot;"
-slug = "tots-candide-its-very-sincere-and-passionate-"
-title = "TOT&#039;s Candide: &quot;It&#039;s very sincere and passionate.&quot; "
-+++
+---
+author:
+- authors/greg.md
+categories: Interview
+date: "2017-12-31T19:22:00-05:00"
+lastmod: "2018-01-01T09:30:00-05:00"
+preamble: "Each holiday season, after all the Christmas carols, Nativity pageants,
+  and *Messiahs* are done, it's time for another holiday tradition here in Toronto,
+  taken from the customs of Vienna and Prague: heading to the opera house on New Year's
+  Day to guzzle champagne and see the classics like *Die Fledermaus*, *Countess Maritza*,
+  *The Merry Widow* and *The Student Prince*. The holiday operetta has also found
+  a home here in Canada with Toronto Operetta Theatre. \n\nTOT has been in operation
+  here in Toronto for over 30 years, and it's the only company in Canada that focuses
+  entirely on operetta, basically the grand aunt of today's musical theatre. This
+  year's offering for the holiday season is the classic by composer Leonard Bernstein,
+  *Candide*, starring [Tonatiuh Abrego](/scene/people/tonatiuh-abrego/) in the title
+  role, and featuring [Nicholas Borg](/scene/people/nicholas-borg/) (Narrator/Pangloss/Martin),
+  [Vania Chan](/scene/people/vania-chan/) (Cunégonde), and TOT favourite Elizabeth
+  Beeler (Old Woman). \n\nI asked them questions about the differences between opera
+  and operetta, what *Candide* is actually about, and what kind of music they listen
+  to for fun. \n\n"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514765568210/2017-12-31---Beller%2C-Chan-We-are-Women.jpg.jpg
+primary_image_credit: (l-r) Elizabeth Beeler (Old Woman) and Vania Chan (Cunégonde)
+  in Candide, Toronto Operetta Theatre, 2017. Photo by Gary Beechey.
+publishDate: "2017-12-31T19:22:00-05:00"
+related_articles:
+- articles/what-the-eff-is-a-zarzuela-anyway.md
+- articles/in-review-ah-mikado.md
+related_companies:
+- scene/companies/toronto-operetta-theatre.md
+related_people:
+- scene/people/tonatiuh-abrego.md
+- scene/people/vania-chan.md
+- scene/people/nicholas-borg.md
+short_description: '&quot;I feel the piece itself is a deep commentary on the organization
+  of mankind, a musing on the structures we put in place to prevent chaos, and a mirror
+  into the follies of our past and in some cases our present. It is an accounting
+  of worth through the eyes of the innocent, when we still look for the best possible
+  world.&quot;'
+slug: tots-candide-its-very-sincere-and-passionate-
+title: 'TOT&#039;s Candide: &quot;It&#039;s very sincere and passionate.&quot; '
+---
 
 ## Is this your first foray into operetta? Is this your first time working with TOT? 
 

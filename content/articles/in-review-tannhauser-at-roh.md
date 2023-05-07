@@ -1,18 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-04-27T09:44:00+01:00"
-lastmod = "2016-04-27T11:48:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461752007127/2016-04-16---Tannhauser-Square---Clive-Barda.jpg.jpg"
-primary_image_credit = "Tannhäuser Production Image, (c) ROH. Photo by Clive Barda."
-publishDate = "2016-04-27T11:32:00+01:00"
-related_articles = ["articles/in-review-boris-godunov.md","articles/in-review-lucia-di-lammermoor-at-roh.md","articles/in-review-il-trittico-at-roh.md","articles/in-review-norma-at-roh.md","articles/in-review-cosi-fan-tutte-at-roh.md","articles/in-review-les-contes-dhoffmann.md","articles/in-review-il-trovatore-at-roh.md","articles/kinder-schafft-neues-die-meistersinger-von-nrnberg.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/peter-seiffert.md","scene/people/emma-bell.md","scene/people/christian-gerhaher.md","scene/people/stephen-milling.md"]
-short_description = "The dancers moved in a constant, fluid canon, the men tirelessly chasing the teasing women, hurling themselves across a long spinning banquet table, trading clothes and bending their bodies like elastic rag dolls. Visually, it was the high point of the production, relaxing into what became a static tale. It&#039;s not inappropriate, to place the audience in the shoes of Tannhäuser himself, who goes from the heights of pleasure and excitement, and returns to the mortal world; indeed, no human stimulation would quite meet of Venusberg."
-slug = "in-review-tannhauser-at-roh"
-title = "In review: Tannhäuser at ROH"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-04-27T09:44:00+01:00"
+lastmod: "2016-04-27T11:48:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461752007127/2016-04-16---Tannhauser-Square---Clive-Barda.jpg.jpg
+primary_image_credit: Tannhäuser Production Image, (c) ROH. Photo by Clive Barda.
+publishDate: "2016-04-27T11:32:00+01:00"
+related_articles:
+- articles/in-review-boris-godunov.md
+- articles/in-review-lucia-di-lammermoor-at-roh.md
+- articles/in-review-il-trittico-at-roh.md
+- articles/in-review-norma-at-roh.md
+- articles/in-review-cosi-fan-tutte-at-roh.md
+- articles/in-review-les-contes-dhoffmann.md
+- articles/in-review-il-trovatore-at-roh.md
+- articles/kinder-schafft-neues-die-meistersinger-von-nrnberg.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/peter-seiffert.md
+- scene/people/emma-bell.md
+- scene/people/christian-gerhaher.md
+- scene/people/stephen-milling.md
+short_description: The dancers moved in a constant, fluid canon, the men tirelessly
+  chasing the teasing women, hurling themselves across a long spinning banquet table,
+  trading clothes and bending their bodies like elastic rag dolls. Visually, it was
+  the high point of the production, relaxing into what became a static tale. It&#039;s
+  not inappropriate, to place the audience in the shoes of Tannhäuser himself, who
+  goes from the heights of pleasure and excitement, and returns to the mortal world;
+  indeed, no human stimulation would quite meet of Venusberg.
+slug: in-review-tannhauser-at-roh
+title: 'In review: Tannhäuser at ROH'
+---
 
 Opening night of *Tannhäuser* at Covent Garden had all the makings of excellence; the production is by Tim Albery, and designed by Michael Levine, and the notorious Heldentenor [Peter Seiffert](/scene/people/peter-seiffert/) took the title role. There was indeed excellence onstage, yet cohesion and consistency were what we craved.
 

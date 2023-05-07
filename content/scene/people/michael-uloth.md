@@ -1,19 +1,22 @@
-+++
-date = "2017-07-28T22:23:00-04:00"
-discipline = "Bass"
-lastmod = "2017-07-28T22:23:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501294870049/2017-07-25---Michael-Uloth.jpg.jpg"
-publishDate = "2017-07-28T22:23:00-04:00"
-related_companies = ["scene/companies/seattle-opera.md","scene/companies/canadian-opera-company.md","scene/companies/glimmerglass-festival.md"]
-slug = "michael-uloth"
-title = "Michael Uloth"
-website = "http://www.michaeluloth.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ooloth"
-_template = "people_single"
-+++
+---
+date: "2017-07-28T22:23:00-04:00"
+discipline: Bass
+lastmod: "2017-07-28T22:23:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501294870049/2017-07-25---Michael-Uloth.jpg.jpg
+publishDate: "2017-07-28T22:23:00-04:00"
+related_companies:
+- scene/companies/seattle-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/glimmerglass-festival.md
+slug: michael-uloth
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/ooloth
+title: Michael Uloth
+website: http://www.michaeluloth.com/
+---
 
 I never dreamed I'd be an opera singer. I enrolled in a voice performance degree at Wilfrid Laurier University as a way to keep things interesting while completing my B.A. in English, and unexpectedly fell in love with singing. I decided to pursue a Masters degree in opera at the University of Toronto, and then spent three years in the Canadian Opera Company Ensemble Studio program and one year in the Seattle Opera Young Artists Program.
 

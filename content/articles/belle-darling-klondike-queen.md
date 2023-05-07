@@ -1,22 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = 2019-11-11T02:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "The 2019 FireWorks Festival continues with [_Grief Circus_](https://www.alumnaetheatre.com/grief-circus.html), Nov. 13-17, and [_If the Shoe Fits_](https://www.alumnaetheatre.com/if-the-shoe-fits.html), Nov. 20-24."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573411612/media/2019/11/sq_DSC0459_cskgoi.jpg"
-primary_image_credit = "Lindsay Sutherland Boal as Klondike Kate in Belle Darling Klondike Queen, FireWorks Festival, Alumnae Theatre, 2019. Photo: Bruce Peters."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "It's not just a historical vaudeville hoot, but it's as different as it could be from the other two on the line-up - the social-media tragedy of Crystal Wood's Grief Circus, and the feminist-Cinderella of If the Shoe Fits."
-slug = "a-fab-kick-off-to-the-fireworks-festival-belle-darling-klondike-queen"
-title = "A fab kick-off to the FireWorks Festival: Belle Darling Klondike Queen"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2019-11-11T02:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: The 2019 FireWorks Festival continues with [_Grief Circus_](https://www.alumnaetheatre.com/grief-circus.html),
+  Nov. 13-17, and [_If the Shoe Fits_](https://www.alumnaetheatre.com/if-the-shoe-fits.html),
+  Nov. 20-24.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1573411612/media/2019/11/sq_DSC0459_cskgoi.jpg
+primary_image_credit: 'Lindsay Sutherland Boal as Klondike Kate in Belle Darling Klondike
+  Queen, FireWorks Festival, Alumnae Theatre, 2019. Photo: Bruce Peters.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: It's not just a historical vaudeville hoot, but it's as different
+  as it could be from the other two on the line-up - the social-media tragedy of Crystal
+  Wood's Grief Circus, and the feminist-Cinderella of If the Shoe Fits.
+slug: a-fab-kick-off-to-the-fireworks-festival-belle-darling-klondike-queen
+title: 'A fab kick-off to the FireWorks Festival: Belle Darling Klondike Queen'
+youtube_url: ""
+---
 Toronto's Alumnae Theatre is in the midst of its [2019 FireWorks Festival](https://www.alumnaetheatre.com/fireworks-festival.html), which puts up three new plays by three Canadian women. I caught the first chapter, Natalie Frijia's [_Belle Darling Klondike Queen_](https://www.alumnaetheatre.com/belle-darling-klondike-queen.html); it's not just a historical vaudeville hoot, but it's as different as it could be from the other two on the line-up - the social-media tragedy of Crystal Wood's [_Grief Circus_](https://www.alumnaetheatre.com/grief-circus.html), and the feminist-Cinderella of [_If the Shoe Fits_](https://www.alumnaetheatre.com/if-the-shoe-fits.html).
 
 _Belle Darling Klondike Queen_ is named for Kathleen Rockwell, the dancer and vaudeville star of the Klondike Gold Rush. Up in Alaska and the Yukon during the height of the Rush - just after the so-called ["stampede"](https://en.wikipedia.org/wiki/Klondike_Gold_Rush#Beginning_of_the_stampede_(July_1897)) of 1897-98 - Rockwell was known as Klondike Kate.

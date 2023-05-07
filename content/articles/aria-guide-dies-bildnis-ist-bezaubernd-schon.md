@@ -1,17 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2016-05-13T10:56:00+01:00"
-lastmod = "2016-05-25T23:10:00+01:00"
-preamble = "Next up for our Aria Guides: the tenor's favourite scary aria, \"Dies Bildnis ist bezaubernd schön\" from Mozart's _Die Zauberflöte_. It's an aria about love at first sight, about idealism, and about proving that music can be difficult to sing even if there are no B-flats or crazy coloratura. Along with your teachers and coaches, we can help with some tricky corners of this aria, and even get you confident about adding it to your audition package. A bold move, and why not?"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553306691/media/2019/03/sqBildnis.jpg"
-publishDate = "2016-05-13T12:31:00+01:00"
-related_articles = ["articles/aria-guides-una-furtiva-lagrima.md", "articles/aria-guides-dalla-sua-pace.md", "articles/aria-guides-una-voce-poco-fa.md", "articles/aria-guides-il-mio-tesoro.md"]
-short_description = "Next up for our Aria Guides: the tenor's favourite scary aria, \"Dies Bildnis ist bezaubernd schön\" from Mozart's Die Zauberflöte. It's an aria about love at first sight, about idealism, and about proving that music can be difficult to sing even if there are no B-flats or crazy coloratura. Along with your teachers and coaches, we can help with some tricky corners of this aria, and even get you confident about adding it to your audition package."
-slug = "aria-guide-dies-bildnis-ist-bezaubernd-schon"
-title = "Aria Guides: Dies Bildnis ist bezaubernd schön"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2016-05-13T10:56:00+01:00"
+lastmod: "2016-05-25T23:10:00+01:00"
+preamble: 'Next up for our Aria Guides: the tenor''s favourite scary aria, "Dies Bildnis
+  ist bezaubernd schön" from Mozart''s _Die Zauberflöte_. It''s an aria about love
+  at first sight, about idealism, and about proving that music can be difficult to
+  sing even if there are no B-flats or crazy coloratura. Along with your teachers
+  and coaches, we can help with some tricky corners of this aria, and even get you
+  confident about adding it to your audition package. A bold move, and why not?'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553306691/media/2019/03/sqBildnis.jpg
+publishDate: "2016-05-13T12:31:00+01:00"
+related_articles:
+- articles/aria-guides-una-furtiva-lagrima.md
+- articles/aria-guides-dalla-sua-pace.md
+- articles/aria-guides-una-voce-poco-fa.md
+- articles/aria-guides-il-mio-tesoro.md
+short_description: 'Next up for our Aria Guides: the tenor''s favourite scary aria,
+  "Dies Bildnis ist bezaubernd schön" from Mozart''s Die Zauberflöte. It''s an aria
+  about love at first sight, about idealism, and about proving that music can be difficult
+  to sing even if there are no B-flats or crazy coloratura. Along with your teachers
+  and coaches, we can help with some tricky corners of this aria, and even get you
+  confident about adding it to your audition package.'
+slug: aria-guide-dies-bildnis-ist-bezaubernd-schon
+title: 'Aria Guides: Dies Bildnis ist bezaubernd schön'
+---
 <figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463133406870/Aria-Guide---Tamino---annotated---p1.jpg.jpg)

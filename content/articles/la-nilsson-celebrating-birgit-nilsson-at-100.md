@@ -1,22 +1,29 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Op-Ed"
-date = "2019-02-02T08:14:50+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548957086/media/2019/01/sqBNPg4.jpg"
-primary_image_credit = "Nilsson's mischievous personality comes through even in this formal portrait. Photo courtesy of Decca Classics."
-related_articles = ["articles/the-rose-elf-hot-times-in-the-cool-catacombs.md", "articles/summer-nights-at-the-opera-an-observation.md", "articles/the-medium-opera-as-film-noir.md"]
-related_companies = []
-related_people = []
-short_description = "The box seems to generate its own energy. Covered in sophisticated hues of copper and gray with a resplendent image of Birgit Nilsson as Brünnhilde, who had surely passed through hair and make-up before leaving Valhalla, it is of monolithic proportions."
-slug = "la-nilsson-celebrating-birgit-nilsson-at-100"
-title = "La Nilsson: celebrating Birgit Nilsson at 100"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Op-Ed
+date: "2019-02-02T08:14:50+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548957086/media/2019/01/sqBNPg4.jpg
+primary_image_credit: Nilsson's mischievous personality comes through even in this
+  formal portrait. Photo courtesy of Decca Classics.
+related_articles:
+- articles/the-rose-elf-hot-times-in-the-cool-catacombs.md
+- articles/summer-nights-at-the-opera-an-observation.md
+- articles/the-medium-opera-as-film-noir.md
+related_companies: []
+related_people: []
+short_description: The box seems to generate its own energy. Covered in sophisticated
+  hues of copper and gray with a resplendent image of Birgit Nilsson as Brünnhilde,
+  who had surely passed through hair and make-up before leaving Valhalla, it is of
+  monolithic proportions.
+slug: la-nilsson-celebrating-birgit-nilsson-at-100
+title: 'La Nilsson: celebrating Birgit Nilsson at 100'
+youtube_url: ""
+---
 The box seems to generate its own energy. Covered in sophisticated hues of copper and gray with a resplendent image of Birgit Nilsson as Brünnhilde, who had surely passed through hair and make-up before leaving Valhalla, it is of monolithic proportions. The subtle click of padded magnets on the front gives the impression of substance and staying power, in short the essence of Nilsson.
 
 <figure data-type="image">

@@ -1,18 +1,32 @@
-+++
-author = ["authors/blanche-isral.md"]
-categories = "Review"
-date = "2017-09-16T16:56:00-04:00"
-lastmod = "2017-09-17T13:23:00-04:00"
-preamble = "Main image: Canadian Jessica Strong (Vanessa) and Barbara Zechmeister (the Old Baroness; on floor facing away) in *Vanessa*, Oper Frankfurt, 2017. Photo: Barbara Aumüller."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505666756073/2017-09-17---square---vanessa_2017-18_barbara_aumueller_07.jpg.jpg"
-publishDate = "2017-09-17T12:46:00-04:00"
-related_articles = ["articles/in-review-il-trovatore-at-oper-frankfurt.md","articles/the-future-of-opera-is-indie.md","articles/persona-and-the-sounds-of-silence.md"]
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = ["scene/people/jessica-strong.md","scene/people/jenny-carlstedt.md"]
-short_description = "Thoma presents the trio of women as three generations of the same person: Erika, the Baroness and Vanessa herself are all one immortal woman, eternally alone and suffering, stuck in time forever and unable to move forward. The Baroness embodies Vanessa&#039;s future as a bitter widow, while her niece Erika represents her past as a hopeful, beautiful, innocent young girl. As Erika laments, &quot;Sometimes I am her niece/But mostly her shadow&quot;."
-slug = "a-dreamy-psychological-thriller-vanessa-at-oper-frankfurt"
-title = "A dreamy psychological thriller: Vanessa at Oper Frankfurt"
-+++
+---
+author:
+- authors/blanche-isral.md
+categories: Review
+date: "2017-09-16T16:56:00-04:00"
+lastmod: "2017-09-17T13:23:00-04:00"
+preamble: 'Main image: Canadian Jessica Strong (Vanessa) and Barbara Zechmeister (the
+  Old Baroness; on floor facing away) in *Vanessa*, Oper Frankfurt, 2017. Photo: Barbara
+  Aumüller.'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505666756073/2017-09-17---square---vanessa_2017-18_barbara_aumueller_07.jpg.jpg
+publishDate: "2017-09-17T12:46:00-04:00"
+related_articles:
+- articles/in-review-il-trovatore-at-oper-frankfurt.md
+- articles/the-future-of-opera-is-indie.md
+- articles/persona-and-the-sounds-of-silence.md
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people:
+- scene/people/jessica-strong.md
+- scene/people/jenny-carlstedt.md
+short_description: 'Thoma presents the trio of women as three generations of the same
+  person: Erika, the Baroness and Vanessa herself are all one immortal woman, eternally
+  alone and suffering, stuck in time forever and unable to move forward. The Baroness
+  embodies Vanessa&#039;s future as a bitter widow, while her niece Erika represents
+  her past as a hopeful, beautiful, innocent young girl. As Erika laments, &quot;Sometimes
+  I am her niece/But mostly her shadow&quot;.'
+slug: a-dreamy-psychological-thriller-vanessa-at-oper-frankfurt
+title: 'A dreamy psychological thriller: Vanessa at Oper Frankfurt'
+---
 
 Three generations of almost identical women await the [Oper Frankfurt](/scene/companies/opera-frankfurt/) audience as they find their seats for Samuel Barber's [*Vanessa*](http://www.oper-frankfurt.de/en/season-calendar/vanessa/?id_datum=892). Frozen in time, they are behind a translucent scrim, seated separately and each wrapped up in their own world. Even after conductor Rasmus Baumann reaches the podium and after the clapping dies down, they remain frozen, this time joined by the audience, for another full minute. Further emphasizing Vanessa's 20-year wait, a very slow and gradual fade of lights leads into the beginning of the opera.
 

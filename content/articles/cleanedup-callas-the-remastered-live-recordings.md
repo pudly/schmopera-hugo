@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-10-10T21:22:00-04:00"
-lastmod = "2017-10-18T19:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507916109485/2017-10-13---Callas-Live-SQ.jpg.jpg"
-publishDate = "2017-10-18T19:39:00-04:00"
-related_articles = ["articles/opera-technology-hither-and-yon.md","articles/maria-by-callas-destiny-is-destiny-there-is-no-way-out.md"]
-short_description = "What does an opera lover in the 21st century do with something like Warner Classics&#039; recently released Maria Callas Live Remastered Recordings (1949-1964)? The first thing would be to squeal with glee: the box set includes live recordings of 20 full operas, 5 filmed recitals, and a book detailing each of the iconic roles sung by Callas."
-slug = "cleanedup-callas-the-remastered-live-recordings"
-title = "Cleaned-up Callas: the remastered live recordings"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-10-10T21:22:00-04:00"
+lastmod: "2017-10-18T19:39:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507916109485/2017-10-13---Callas-Live-SQ.jpg.jpg
+publishDate: "2017-10-18T19:39:00-04:00"
+related_articles:
+- articles/opera-technology-hither-and-yon.md
+- articles/maria-by-callas-destiny-is-destiny-there-is-no-way-out.md
+short_description: 'What does an opera lover in the 21st century do with something
+  like Warner Classics&#039; recently released Maria Callas Live Remastered Recordings
+  (1949-1964)? The first thing would be to squeal with glee: the box set includes
+  live recordings of 20 full operas, 5 filmed recitals, and a book detailing each
+  of the iconic roles sung by Callas.'
+slug: cleanedup-callas-the-remastered-live-recordings
+title: 'Cleaned-up Callas: the remastered live recordings'
+---
 
 For many younger opera fans - the kind who have a balance of love and reverence for the art and its artists - getting a big stack of remastered live recordings of Maria Callas presents as much joy as it does a sense of responsibility. The art (or science, even) of listening to recordings has changed in recent decades; it's an activity that has shifted for many from a slow and methodical process of collecting and comparing long-form media (like full-length opera recordings), to a ravenous grasping at the endless small bites available online (like instantly turning up 50+ different versions of "Sempre libera" on YouTube).
 

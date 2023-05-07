@@ -1,18 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-12-07T22:36:00-05:00"
-lastmod = "2017-12-08T11:10:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512703844661/2017-12-08---sq---BOUND_MEDIA_012.jpg.jpg"
-primary_image_credit = "Topher Mokrzewski, Music Director, and Miriam Khalil, soprano, rehearsing BOUND, Against the Grain Theatre, 2017. Photo by Darryl Block."
-publishDate = "2017-12-07T22:46:00-05:00"
-related_articles = ["articles/art-is-not-action.md","articles/a-response-to-our-response.md","articles/equal-parts-stressful-and-reverent-atgbound.md","articles/transformation-bound-v-2.md","articles/unraveling-bound-v2-second-time-is-also-a-charm.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md","scene/people/miriam-khalil.md","scene/people/justin-welsh.md","scene/people/david-trudgen.md"]
-short_description = "A certain type of demographic goes to the opera, and perhaps there&#039;s only a small amount of overlap between that demographic and those who may understand more clearly what it feels like to be detained, mistreated, or bound by others&#039; rules."
-slug = "atgbound-a-shocking-immediate-connection"
-title = "#AtGBound: &quot;A shocking, immediate connection.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-12-07T22:36:00-05:00"
+lastmod: "2017-12-08T11:10:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512703844661/2017-12-08---sq---BOUND_MEDIA_012.jpg.jpg
+primary_image_credit: Topher Mokrzewski, Music Director, and Miriam Khalil, soprano,
+  rehearsing BOUND, Against the Grain Theatre, 2017. Photo by Darryl Block.
+publishDate: "2017-12-07T22:46:00-05:00"
+related_articles:
+- articles/art-is-not-action.md
+- articles/a-response-to-our-response.md
+- articles/equal-parts-stressful-and-reverent-atgbound.md
+- articles/transformation-bound-v-2.md
+- articles/unraveling-bound-v2-second-time-is-also-a-charm.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/joel-ivany.md
+- scene/people/christopher-mokrzewski.md
+- scene/people/miriam-khalil.md
+- scene/people/justin-welsh.md
+- scene/people/david-trudgen.md
+short_description: A certain type of demographic goes to the opera, and perhaps there&#039;s
+  only a small amount of overlap between that demographic and those who may understand
+  more clearly what it feels like to be detained, mistreated, or bound by others&#039;
+  rules.
+slug: atgbound-a-shocking-immediate-connection
+title: '#AtGBound: &quot;A shocking, immediate connection.&quot;'
+---
 
 "It'll be a shocking, immediate connection to what is going on in the world today," says Joel Ivany, Artistic Director of Against the Grain Theatre, on the company's upcoming workshop production, [*BOUND*](http://againstthegraintheatre.com/bound/). 
 

@@ -1,19 +1,45 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-05-01T12:07:00+01:00"
-lastmod = "2016-05-02T21:36:00+01:00"
-preamble = "\"Can you fall in love with someone you’ve never met?\" That's the big question on the minds of the four hopeful, love-seeking contestants on the dating game show [*A Little Too Cozy*](http://againstthegraintheatre.com/a-little-too-cozy/). Felicity and Dora have been getting to know Elmo and Fernando in that classically romantic way, texting. Soon, they'll join host Donald Alfonso and talent relations guru Despina for the finale episode of *A Little Too Cozy*, where they'll finally be able to go on a face-to-face date with the objects of their text-affections.\n\nWe asked Felicity, Elmo, Dora, and Fernando about how their romances have blossomed so far, and whether or not they think they'll find true love on *A Little Too Cozy*.\n\n[Click here](http://againstthegraintheatre.com/a-little-too-cozy/) for full details, and to [snag your seats](http://againstthegraintheatre.ticketleap.com/a-little-too-cozy/) for the live show at CBC Toronto's Studio 42."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462102262404/2016-05-01---Cozy-6---Don-Lee---The-Banff-Centre.jpg.jpg"
-primary_image_credit = "The cast of Against the Grain Theatre’s A Little Too Cozy. Photo: Don Lee, The Banff Centre."
-publishDate = "2016-05-02T15:11:00+01:00"
-related_articles = ["articles/cosi-fan-tutte-misogynist-unreasonable.md","articles/a-little-too-cozy-offcamera-with-don-l-fonzo-despina.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/the-banff-centre.md"]
-related_people = ["scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md","scene/people/rihab-chaieb.md","scene/people/shantelle-przybylo.md","scene/people/aaron-sheppard.md","scene/people/clarence-frazer.md","scene/people/caitlin-wood.md","scene/people/cairan-ryan.md"]
-short_description = "&quot;Can you fall in love with someone you’ve never met?&quot; That&#039;s the big question on the minds of the four hopeful, love-seeking contestants on A Little Too Cozy. Felicity and Dora have been getting to know Elmo and Fernando in that classically romantic way, texting. Soon, they&#039;ll join host Donald Alfonso and talent relations guru Despina for the finale episode of A Little Too Cozy, where they&#039;ll finally be able to go on a face-to-face date with the objects of their text-affections."
-slug = "meet-the-contestants-of-a-little-too-cozy"
-title = "Meet the contestants of A Little Too Cozy!"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-05-01T12:07:00+01:00"
+lastmod: "2016-05-02T21:36:00+01:00"
+preamble: |-
+  "Can you fall in love with someone you’ve never met?" That's the big question on the minds of the four hopeful, love-seeking contestants on the dating game show [*A Little Too Cozy*](http://againstthegraintheatre.com/a-little-too-cozy/). Felicity and Dora have been getting to know Elmo and Fernando in that classically romantic way, texting. Soon, they'll join host Donald Alfonso and talent relations guru Despina for the finale episode of *A Little Too Cozy*, where they'll finally be able to go on a face-to-face date with the objects of their text-affections.
+
+  We asked Felicity, Elmo, Dora, and Fernando about how their romances have blossomed so far, and whether or not they think they'll find true love on *A Little Too Cozy*.
+
+  [Click here](http://againstthegraintheatre.com/a-little-too-cozy/) for full details, and to [snag your seats](http://againstthegraintheatre.ticketleap.com/a-little-too-cozy/) for the live show at CBC Toronto's Studio 42.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462102262404/2016-05-01---Cozy-6---Don-Lee---The-Banff-Centre.jpg.jpg
+primary_image_credit: 'The cast of Against the Grain Theatre’s A Little Too Cozy.
+  Photo: Don Lee, The Banff Centre.'
+publishDate: "2016-05-02T15:11:00+01:00"
+related_articles:
+- articles/cosi-fan-tutte-misogynist-unreasonable.md
+- articles/a-little-too-cozy-offcamera-with-don-l-fonzo-despina.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-banff-centre.md
+related_people:
+- scene/people/joel-ivany.md
+- scene/people/christopher-mokrzewski.md
+- scene/people/rihab-chaieb.md
+- scene/people/shantelle-przybylo.md
+- scene/people/aaron-sheppard.md
+- scene/people/clarence-frazer.md
+- scene/people/caitlin-wood.md
+- scene/people/cairan-ryan.md
+short_description: '&quot;Can you fall in love with someone you’ve never met?&quot;
+  That&#039;s the big question on the minds of the four hopeful, love-seeking contestants
+  on A Little Too Cozy. Felicity and Dora have been getting to know Elmo and Fernando
+  in that classically romantic way, texting. Soon, they&#039;ll join host Donald Alfonso
+  and talent relations guru Despina for the finale episode of A Little Too Cozy, where
+  they&#039;ll finally be able to go on a face-to-face date with the objects of their
+  text-affections.'
+slug: meet-the-contestants-of-a-little-too-cozy
+title: Meet the contestants of A Little Too Cozy!
+---
 
 ## What was your first thought when you found out you’d be a contestant on *A Little Too Cozy*?
 

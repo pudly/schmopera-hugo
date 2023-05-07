@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-09-13T23:43:00+01:00"
-lastmod = "2016-09-14T10:34:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473807100251/2016-09-14---VITO-PRIANTE-AS-FIGARO-DANIELA-MACK-AS-ROSINA-IL-BARBIERE-DI-SIVIGLIA-ROH-PHOTO-MARK-DOUET.jpg.jpg"
-primary_image_credit = "Vito Priante as Figaro, Daniela Mack as Rosina, Il barbiere di Siviglia. © ROH. Photo by Mark Douet."
-publishDate = "2016-09-14T10:15:00+01:00"
-related_articles = ["articles/in-review-norma-at-roh.md","articles/in-review-cosi-fan-tutte-at-roh.md","articles/calgary-opera-delivers-comedy-gold-with-wellcast-barber.md","articles/leonard-reigns-as-rosina-in-wnos-barber.md","articles/opera-5-new-faces-new-show.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/javier-camarena.md","scene/people/daniela-mack.md","scene/people/vito-priante.md"]
-short_description = "In theory, having a cast of big, hall-filling voices can seem like a pointless exercise (a futile precaution?), when the whole opera is designed to clear the way for easy, flexible, and funny singing. Yet this cast was a complete win from top to bottom; as they each sang their first notes of the evening, we were struck (and satisfied) with how these rich, go-big-or-go-home voices managed everything from dizzying coloratura to cackling comedy."
-slug = "in-review-the-barber-of-seville-at-roh"
-title = "In review: The Barber of Seville at ROH"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-09-13T23:43:00+01:00"
+lastmod: "2016-09-14T10:34:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473807100251/2016-09-14---VITO-PRIANTE-AS-FIGARO-DANIELA-MACK-AS-ROSINA-IL-BARBIERE-DI-SIVIGLIA-ROH-PHOTO-MARK-DOUET.jpg.jpg
+primary_image_credit: Vito Priante as Figaro, Daniela Mack as Rosina, Il barbiere
+  di Siviglia. © ROH. Photo by Mark Douet.
+publishDate: "2016-09-14T10:15:00+01:00"
+related_articles:
+- articles/in-review-norma-at-roh.md
+- articles/in-review-cosi-fan-tutte-at-roh.md
+- articles/calgary-opera-delivers-comedy-gold-with-wellcast-barber.md
+- articles/leonard-reigns-as-rosina-in-wnos-barber.md
+- articles/opera-5-new-faces-new-show.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/javier-camarena.md
+- scene/people/daniela-mack.md
+- scene/people/vito-priante.md
+short_description: In theory, having a cast of big, hall-filling voices can seem like
+  a pointless exercise (a futile precaution?), when the whole opera is designed to
+  clear the way for easy, flexible, and funny singing. Yet this cast was a complete
+  win from top to bottom; as they each sang their first notes of the evening, we were
+  struck (and satisfied) with how these rich, go-big-or-go-home voices managed everything
+  from dizzying coloratura to cackling comedy.
+slug: in-review-the-barber-of-seville-at-roh
+title: 'In review: The Barber of Seville at ROH'
+---
 
 The neat thing about *Il barbiere di Siviglia* is that it can become as grand or as intimate as you like. The production by Moshe Leiser and Patrice Caurier, which opened last night at the [Royal Opera House](http://www.roh.org.uk/productions/il-barbiere-di-siviglia-by-moshe-leiser-and-patrice-caurier), has a curious knack for reaping the benefits of both. Christian Fenouillat's set design seems to shrink the stage, and thrust it right out towards the audience; it's an effect delightfully reminiscent of when we went to see the Marionetten Theater in Salzburg. The production finds its roots along that tricky spectrum between real people and exaggerated archetypes.
 

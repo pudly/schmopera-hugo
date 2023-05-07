@@ -1,22 +1,28 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = "2019-09-09T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1568074222/media/2019/09/sqCallas3_o1maxy.jpg"
-primary_image_credit = "BASE Hologram interactive concert performance with Roy Orbison and Maria Callas at the Jazz at Lincoln Center Frederick P. Rose Hall on Sunday January 14, 2018, in New York. Photo by Evan Agostini for BASE Hologram."
-related_articles = ["articles/go-see-this-carla-huhtanen-and-nicole-lizee-in-tapex-tables-turned.md", "articles/cleanedup-callas-the-remastered-live-recordings.md"]
-related_companies = []
-related_people = []
-short_description = "Coming into this concert, I wasn’t exactly sure what to expect. Coming out of it, however, I felt a rekindled appreciation for Callas as a stage artist."
-slug = "an-audible-huff-of-awe-and-amusement-maria-callas-in-concert"
-title = "An audible huff of awe and amusement: Maria Callas in Concert"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2019-09-09T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1568074222/media/2019/09/sqCallas3_o1maxy.jpg
+primary_image_credit: BASE Hologram interactive concert performance with Roy Orbison
+  and Maria Callas at the Jazz at Lincoln Center Frederick P. Rose Hall on Sunday
+  January 14, 2018, in New York. Photo by Evan Agostini for BASE Hologram.
+related_articles:
+- articles/go-see-this-carla-huhtanen-and-nicole-lizee-in-tapex-tables-turned.md
+- articles/cleanedup-callas-the-remastered-live-recordings.md
+related_companies: []
+related_people: []
+short_description: Coming into this concert, I wasn’t exactly sure what to expect.
+  Coming out of it, however, I felt a rekindled appreciation for Callas as a stage
+  artist.
+slug: an-audible-huff-of-awe-and-amusement-maria-callas-in-concert
+title: 'An audible huff of awe and amusement: Maria Callas in Concert'
+youtube_url: ""
+---
 It was surreal to hold a ticket with the words "Maria Callas in Concert" printed on it. But sure enough, this past Saturday evening, I was in possession of just such a ticket, eagerly waiting for "La Divina's" return to the stage of Chicago's Lyric Opera House for a one-night only performance.
 
 Created by the company [BASE Hologram](https://basehologram.com), the Maria Callas Hologram Concert has been touring worldwide for a few years before making its Chicago debut this weekend. Conductor Eímear Noone and director Stephen Wadsworth, the creative team behind this tour, have put together an event that is as much a celebration of theatrical technology as it is of the famous soprano herself. In recent years, holograms have resurrected artists such as the late Tupac Shakur, Roy Orbison, and Whitney Houston to name a few (the latter two by BASE Hologram). Maria Callas, though, is the first classical musician to have been revived in such a way.

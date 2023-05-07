@@ -1,22 +1,28 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2019-08-11T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1565652694/media/2019/08/sqBARBEROFSEVILLE_0569-TaylorRavenRosina-ChrisBozekaCountAlmaviva_wk1ngq.jpg"
-primary_image_credit = "The Barber of Seville, Wolf Trap Opera, 2019. Photo courtesy of Wolf Trap Opera."
-related_articles = ["articles/wto.md"]
-related_companies = ["scene/companies/wolf-trap-opera.md"]
-related_people = []
-short_description = "This was a co-production with multiple opera houses around the world, including Houston Grand Opera and Opera Australia. As usual, the individuals in the company were top notch vocally, but unfortunately the production over all fell flat."
-slug = "little-room-for-creativity-in-fonts-wto-barber"
-title = "Little room for creativity in Font's WTO Barber"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2019-08-11T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1565652694/media/2019/08/sqBARBEROFSEVILLE_0569-TaylorRavenRosina-ChrisBozekaCountAlmaviva_wk1ngq.jpg
+primary_image_credit: The Barber of Seville, Wolf Trap Opera, 2019. Photo courtesy
+  of Wolf Trap Opera.
+related_articles:
+- articles/wto.md
+related_companies:
+- scene/companies/wolf-trap-opera.md
+related_people: []
+short_description: This was a co-production with multiple opera houses around the
+  world, including Houston Grand Opera and Opera Australia. As usual, the individuals
+  in the company were top notch vocally, but unfortunately the production over all
+  fell flat.
+slug: little-room-for-creativity-in-fonts-wto-barber
+title: Little room for creativity in Font's WTO Barber
+youtube_url: ""
+---
 Friday, August 9, at the Filene Center for the Performing Arts at Wolf Trap, the Young Artist Program at Wolf Trap Opera presented Rossini's _The Barber of Seville_. This was a co-production with multiple opera houses around the world, including Houston Grand Opera and Opera Australia. As usual, the individuals in the company were top notch vocally, but unfortunately the production over all fell flat.
 
 <figure data-type="image">

@@ -1,19 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-08-12T03:34:00-04:00"
-lastmod = "2015-09-04T08:39:00-04:00"
-preamble = "American choreographer, director and conductor [Mark Morris](/scene/people/mark-morris/) is one of those people that's difficult to introduce. He has worked with the likes of Peter Sellars, Yo-Yo Ma, and Mikhail Baryshnikov, and opera lovers will know his choreography in Adams' *Nixon in China*, and his direction/choreography of Gluck's *Orfeo ed Euridice*, both at the Metropolitan Opera.\n\nHis company, the [Mark Morris Dance Group](/scene/companies/mark-morris-dance-group/), is a tight group of dancers, designers, and musicians, and they travel across the globe, presenting an average of 90 shows a year. \n\nI met Morris for a brief chat at The Banff Centre this past summer, where he seemed to speak about everything. His frank passion for theatre stayed with me, and made me want to talk more and more. Morris was kind enough to indulge me in a honest interview about how he's been able to do all that he does."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441224982387/Mark-Morris_Amber-Star-Merkens_2015-selectSquare.jpg.jpg"
-primary_image_credit = "Photo by Amber Star Merkens."
-publishDate = "2015-09-04T08:00:00-04:00"
-related_articles = ["articles/united-we-stand-divided-we-fall.md"]
-related_companies = ["scene/companies/mark-morris-dance-group.md"]
-related_people = ["scene/people/mark-morris.md"]
-short_description = "American choreographer, dancer, director and conductor Mark Morris is one of those people that&#039;s difficult to introduce. He has worked with the likes of Peter Sellars, Yo-Yo Ma, and Mikhail Baryshnikov, and has a firm hand in dance and opera today. His company, the Mark Morris Dance Group, is a tight group of dancers, designers, and musicians, and they travel across the globe, presenting an average of 90 shows a year."
-slug = "mark-morris-clarity"
-title = "Mark Morris: &quot;Clarity.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-08-12T03:34:00-04:00"
+lastmod: "2015-09-04T08:39:00-04:00"
+preamble: "American choreographer, director and conductor [Mark Morris](/scene/people/mark-morris/)
+  is one of those people that's difficult to introduce. He has worked with the likes
+  of Peter Sellars, Yo-Yo Ma, and Mikhail Baryshnikov, and opera lovers will know
+  his choreography in Adams' *Nixon in China*, and his direction/choreography of Gluck's
+  *Orfeo ed Euridice*, both at the Metropolitan Opera.\n\nHis company, the [Mark Morris
+  Dance Group](/scene/companies/mark-morris-dance-group/), is a tight group of dancers,
+  designers, and musicians, and they travel across the globe, presenting an average
+  of 90 shows a year. \n\nI met Morris for a brief chat at The Banff Centre this past
+  summer, where he seemed to speak about everything. His frank passion for theatre
+  stayed with me, and made me want to talk more and more. Morris was kind enough to
+  indulge me in a honest interview about how he's been able to do all that he does."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441224982387/Mark-Morris_Amber-Star-Merkens_2015-selectSquare.jpg.jpg
+primary_image_credit: Photo by Amber Star Merkens.
+publishDate: "2015-09-04T08:00:00-04:00"
+related_articles:
+- articles/united-we-stand-divided-we-fall.md
+related_companies:
+- scene/companies/mark-morris-dance-group.md
+related_people:
+- scene/people/mark-morris.md
+short_description: American choreographer, dancer, director and conductor Mark Morris
+  is one of those people that&#039;s difficult to introduce. He has worked with the
+  likes of Peter Sellars, Yo-Yo Ma, and Mikhail Baryshnikov, and has a firm hand in
+  dance and opera today. His company, the Mark Morris Dance Group, is a tight group
+  of dancers, designers, and musicians, and they travel across the globe, presenting
+  an average of 90 shows a year.
+slug: mark-morris-clarity
+title: 'Mark Morris: &quot;Clarity.&quot;'
+---
 
 ### 1. Why do you think your work, and your company, have stayed so strong and so relevant over several decades?
 

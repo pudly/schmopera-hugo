@@ -1,16 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-08-05T14:01:00+01:00"
-lastmod = "2016-08-06T11:51:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470405117868/2016-08-05---Naked-Cello.jpg.jpg"
-primary_image_credit = "Her right hand got cropped out, but she's holding that bow wrong. Photo: commons.wikimedia.org."
-publishDate = "2016-08-06T11:51:00+01:00"
-related_articles = ["articles/unpaid-artists-and-all-the-ways-they-can-stay-that-way.md","articles/the-business-of-passion.md"]
-short_description = "Judge if you must, but the whole image of a naked cellist playing a wedding gig had us thinking about the realities of nude music-making. Upon further consideration, the idea may be better in fantasy than in reality."
-slug = "nude-musicians-less-hot-than-it-sounds"
-title = "Nude musicians: less hot than it sounds"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-08-05T14:01:00+01:00"
+lastmod: "2016-08-06T11:51:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470405117868/2016-08-05---Naked-Cello.jpg.jpg
+primary_image_credit: 'Her right hand got cropped out, but she''s holding that bow
+  wrong. Photo: commons.wikimedia.org.'
+publishDate: "2016-08-06T11:51:00+01:00"
+related_articles:
+- articles/unpaid-artists-and-all-the-ways-they-can-stay-that-way.md
+- articles/the-business-of-passion.md
+short_description: Judge if you must, but the whole image of a naked cellist playing
+  a wedding gig had us thinking about the realities of nude music-making. Upon further
+  consideration, the idea may be better in fantasy than in reality.
+slug: nude-musicians-less-hot-than-it-sounds
+title: 'Nude musicians: less hot than it sounds'
+---
 
 You may have heard about the [weird ad](http://slippedisc.com/2016/08/wanted-nude-cellist-for-wedding-gender-specific/) posted on Craigslist, calling for a "naked female cellist" to play for a wedding at a nudist resort in Georgia. The poster insists he/she is serious, paying "serious money" of "500 or more", and that they prefer the "St Sean concerto" (which can only (?) translate to the [Saint-Saëns Cello Concerto](https://youtu.be/Cx6UDgi9TEA)).
 

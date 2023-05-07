@@ -1,19 +1,22 @@
-+++
-date = "2016-04-02T10:35:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-04-02T10:35:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459530026540/2016-04-02---Julie-Ludwig.jpg.jpg"
-publishDate = "2016-04-02T10:35:00+01:00"
-related_companies = ["scene/companies/opera-5.md","scene/companies/essential-opera.md","scene/companies/indie-opera-to.md"]
-slug = "julie-ludwig"
-title = "Julie Ludwig"
-website = "http://julieludwig.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/JulieLudwigSop"
-_template = "people_single"
-+++
+---
+date: "2016-04-02T10:35:00+01:00"
+discipline: Soprano
+lastmod: "2016-04-02T10:35:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459530026540/2016-04-02---Julie-Ludwig.jpg.jpg
+publishDate: "2016-04-02T10:35:00+01:00"
+related_companies:
+- scene/companies/opera-5.md
+- scene/companies/essential-opera.md
+- scene/companies/indie-opera-to.md
+slug: julie-ludwig
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/JulieLudwigSop
+title: Julie Ludwig
+website: http://julieludwig.com/
+---
 
 Soprano Julie Ludwig is a versatile young performer, praised for her interpretations of soubrette and lyric coloratura repertoire. Increasingly in demand as a concert soloist, during the 2015-16 season Julie looks forward to performances of Fauré’s *Requiem*, Vivaldi’s *Gloria*, Rutter’s *Magnificat*, Mozart’s *Vesperae solennes de confessore*, and Cantatas 4 and 21 by Bach. Additionally, she will join the Windsor Symphony Orchestra as Musetta in *La Boheme* and Opera 5 as Adele in *Die Fledermaus*.
 

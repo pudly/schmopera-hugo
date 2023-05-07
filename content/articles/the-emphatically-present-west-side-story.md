@@ -1,22 +1,30 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Op-Ed"
-date = 2020-08-03T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1596480300/media/2020/08/sqBernsteinWestSideStory4_kcvkgj.jpg"
-primary_image_credit = "Leonard Bernstein at the podium with the pick-up orchestra he assembled for the 1984 recording of “West Side Story” featuring a cast of internationally acclaimed opera singers including Jose Carreras, Kiri Ti Kanawa, Tatiana Troyanos and Marilyn Horne.\nPhoto: Courtesy Deutsche Grammophon © Unitel."
-related_articles = ["articles/la-nilsson-celebrating-birgit-nilsson-at-100.md", "articles/west-side-story.md"]
-related_companies = []
-related_people = []
-short_description = "Through the years the original Broadway cast recording, abridged as it is to fit the time limitations of a single “long-playing” vinyl disk, has remained the pinnacle of its major recordings. The soundtrack of the hugely successful film recruited legions of fans plus a few detractors, Bernstein among them, who found it overblown. "
-slug = "the-emphatically-present-west-side-story"
-title = "The Emphatically Present “West Side Story”"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Op-Ed
+date: "2020-08-03T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1596480300/media/2020/08/sqBernsteinWestSideStory4_kcvkgj.jpg
+primary_image_credit: |-
+  Leonard Bernstein at the podium with the pick-up orchestra he assembled for the 1984 recording of “West Side Story” featuring a cast of internationally acclaimed opera singers including Jose Carreras, Kiri Ti Kanawa, Tatiana Troyanos and Marilyn Horne.
+  Photo: Courtesy Deutsche Grammophon © Unitel.
+related_articles:
+- articles/la-nilsson-celebrating-birgit-nilsson-at-100.md
+- articles/west-side-story.md
+related_companies: []
+related_people: []
+short_description: 'Through the years the original Broadway cast recording, abridged
+  as it is to fit the time limitations of a single “long-playing” vinyl disk, has
+  remained the pinnacle of its major recordings. The soundtrack of the hugely successful
+  film recruited legions of fans plus a few detractors, Bernstein among them, who
+  found it overblown. '
+slug: the-emphatically-present-west-side-story
+title: The Emphatically Present “West Side Story”
+youtube_url: ""
+---
 _West Side Story_ is back. The current Broadway revival of the 1957 Leonard Bernstein/Stephen Sondheim musical is slated for a spring resumption with the projected lifting of the pandemic shutdown, and we await the holiday arrival of Steven Spielberg’s remake of the 1961 film. But _West Side Story_ never really left. It is always and emphatically with us.
 
 This Broadway classic with a book by Arthur Laurents, inspired as we all know by Shakespeare’s _Romeo and Juliet_, has been a cultural benchmark since its inception and more than six decades later its cultural vibrancy and social relevance remain acutely present. Secure in its place with Bernstein's trail-blazing score and Sondheim's timeless lyrics, it speaks to us as much about class inequities and racial injustice as it does tragic romance.

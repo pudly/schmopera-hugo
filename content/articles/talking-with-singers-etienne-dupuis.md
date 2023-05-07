@@ -1,22 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = 2022-04-08T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1649352664/media/2022/04/sqETIENNE_DUPUIS_DarioAcosta_itpnyr.jpg"
-primary_image_credit = "Photo by Dario Acosta."
-related_articles = ["articles/anna-1.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/nicole-car.md", "scene/people/etienne-dupuis.md"]
-short_description = "“My answer was always the same, and I think confinement has just strengthened it,” Dupuis says. “It's because, emotionally, we need to share something communally.” "
-slug = "talking-with-singers-etienne-dupuis"
-title = "Talking with singers: Étienne Dupuis"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2022-04-08T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1649352664/media/2022/04/sqETIENNE_DUPUIS_DarioAcosta_itpnyr.jpg
+primary_image_credit: Photo by Dario Acosta.
+related_articles:
+- articles/anna-1.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/nicole-car.md
+- scene/people/etienne-dupuis.md
+short_description: '“My answer was always the same, and I think confinement has just
+  strengthened it,” Dupuis says. “It''s because, emotionally, we need to share something
+  communally.” '
+slug: talking-with-singers-etienne-dupuis
+title: 'Talking with singers: Étienne Dupuis'
+youtube_url: ""
+---
 When I asked him about his memories of the start of the pandemic, [Étienne Dupuis](/scene/people/etienne-dupuis/) laughed at the thought of what he knows is a strange flex:
 
 “I brag about how Nicole and I knew how long it was going to be from the beginning,” says the Canadian baritone, referring to his wife, Australian soprano [Nicole Car](/scene/people/nicole-car/). Both singers were working at The Metropolitan Opera during that fateful March in 2020; Car's final performance of _Così fan tutte_ had been cancelled, and Dupuis was on the eve of his final dress rehearsal for _Werther_ (also cancelled).

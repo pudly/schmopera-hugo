@@ -1,14 +1,23 @@
-+++
-date = "2017-09-15T20:37:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2017-09-15T20:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505521980215/Cokorinos.P.Headshot.jpg.jpg"
-publishDate = "2017-09-15T20:37:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/houston-grand-opera.md","scene/companies/florida-grand-opera.md","scene/companies/palm-beach-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/los-angeles-opera.md","scene/companies/edmonton-opera.md","scene/companies/calgary-opera.md","scene/companies/spoleto-festival-usa.md"]
-slug = "philip-cokorinos"
-title = "Philip Cokorinos"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-09-15T20:37:00-04:00"
+discipline: Bass-baritone
+lastmod: "2017-09-15T20:39:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505521980215/Cokorinos.P.Headshot.jpg.jpg
+publishDate: "2017-09-15T20:37:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/palm-beach-opera.md
+- scene/companies/lyric-opera-of-kansas-city.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/edmonton-opera.md
+- scene/companies/calgary-opera.md
+- scene/companies/spoleto-festival-usa.md
+slug: philip-cokorinos
+title: Philip Cokorinos
+---
 
 Hailed by Opera News for his “comedic high jinks” and “first-rate singing,” Philip Cokorinos was winner of the Metropolitan Opera National Council Auditions in 1985, and went on to sing his début during the Met’s 1987-1988 season. Since then, he appeared in more than 400 performances of 40 operas at The Met, including “Live from The Met” telecasts of Don Giovanni; the world première of *The Ghosts of Versailles*; and The Met’s premières of *Sly*, *Cyrano de Bergerac*, and *The Gambler*, to name a few. He appeared many times in their productions of the standard repertoire including *Tosca*, *La bohème*, *La fanciulla del West*, *La traviata*, *Adriana Lecouvreur*, *La rondine*, *Die Meistersinger von Nürnberg*, *Macbeth*, *Manon*, *Don Carlo*, *Tosca*, *Il barbiere di Siviglia*, *Manon Lescaut*, *Le nozze di Figaro*, under the baton of Maestro James Levine, and Shostakovich’s verismo expressionist opera *Lady Macbeth of the Mtsensk*. His recent appearances at this esteemed house include several The Metropolitan Opera Live in HD broadcasts including *Manon*, *La fanciulla del West*, *The Nose*, *Werther*, *Manon Lescaut*, *Le nozze di Figaro*, *La bohème* and *Lady Macbeth of Mtsensk*. This season, Mr. Cokorinos will perform as Zuniga in *Carmen* in a return to Los Angeles Opera and return to The Metropolitan Opera for their productions of *Le nozze di Figaro*, *Tosca*, and *La bohème*. Mr. Cokorinos will also be performing in New York City Opera’s production of *L’amore dei tre re* and as a soloist at The Metropolitan Opera Guild’s 83rd Annual Luncheon. 
 

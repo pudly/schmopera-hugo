@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-02-27T12:22:00+00:00"
-lastmod = "2017-02-28T11:25:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488280027751/2017-02-28---Square-VSF17_Samples_James-Berry_023.jpg.jpg"
-primary_image_credit = "The Various Stages Festival, presented by Mahogany Opera Group, 2017. Photo by James Berry."
-publishDate = "2017-02-28T11:25:00+00:00"
-related_articles = ["articles/in-review-tapestry-briefs-booster-shots.md","articles/he-saidshe-said-songbook-vi.md","articles/uncomfortable-premieres-the-mother.md"]
-related_companies = ["scene/companies/mahogany-opera-group.md"]
-short_description = "What was fascinating was hearing the questions that the creators of the works posed to the listeners. They offered their own inspiration for artistic choices, wondering if their intended affect made its way to the audience. Perhaps it&#039;s a good test to run works-in-process by an audience of industry folks and critics; if an opera can impress them, they&#039;re likely in good shape for general audiences."
-slug = "6-new-works-presented-at-various-stages-2017"
-title = "6 new works presented at Various Stages 2017"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-02-27T12:22:00+00:00"
+lastmod: "2017-02-28T11:25:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488280027751/2017-02-28---Square-VSF17_Samples_James-Berry_023.jpg.jpg
+primary_image_credit: The Various Stages Festival, presented by Mahogany Opera Group,
+  2017. Photo by James Berry.
+publishDate: "2017-02-28T11:25:00+00:00"
+related_articles:
+- articles/in-review-tapestry-briefs-booster-shots.md
+- articles/he-saidshe-said-songbook-vi.md
+- articles/uncomfortable-premieres-the-mother.md
+related_companies:
+- scene/companies/mahogany-opera-group.md
+short_description: What was fascinating was hearing the questions that the creators
+  of the works posed to the listeners. They offered their own inspiration for artistic
+  choices, wondering if their intended affect made its way to the audience. Perhaps
+  it&#039;s a good test to run works-in-process by an audience of industry folks and
+  critics; if an opera can impress them, they&#039;re likely in good shape for general
+  audiences.
+slug: 6-new-works-presented-at-various-stages-2017
+title: 6 new works presented at Various Stages 2017
+---
 
 [Mahogany Opera Group](/scene/companies/mahogany-opera-group/) has presented the third iteration of its [Various Stages festival](https://www.mahoganyoperagroup.co.uk/productions/various-stages-festival-2017/), which showcases works-in-development in an intimate setting designed to encourage feedback between the creators and the audience.
 

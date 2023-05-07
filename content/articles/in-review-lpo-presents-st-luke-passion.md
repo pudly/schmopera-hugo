@@ -1,16 +1,22 @@
-+++
-author = ["authors/collin-shay.md"]
-categories = "Review"
-date = "2017-03-05T10:09:00+01:00"
-lastmod = "2017-03-06T09:39:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488728376301/2017-03-05---Penderecki-Square.jpg.jpg"
-primary_image_credit = "Photo: Simon Jay Price."
-publishDate = "2017-03-06T09:28:00+01:00"
-related_articles = ["articles/in-review-strauss-brahms-at-the-barbican.md","articles/heavy-nights-schoenberg-brahms-the-lpo-and-goerne.md"]
-short_description = "What struck us most about this performance was how clear these characters appeared to this modern audience. The passion is truly a timeless story, and to see these thousand-year-old character’s come to life in an extremely relatable way is why we yearn to keep seeing passions performed."
-slug = "in-review-lpo-presents-st-luke-passion"
-title = "In review: LPO presents St. Luke Passion"
-+++
+---
+author:
+- authors/collin-shay.md
+categories: Review
+date: "2017-03-05T10:09:00+01:00"
+lastmod: "2017-03-06T09:39:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488728376301/2017-03-05---Penderecki-Square.jpg.jpg
+primary_image_credit: 'Photo: Simon Jay Price.'
+publishDate: "2017-03-06T09:28:00+01:00"
+related_articles:
+- articles/in-review-strauss-brahms-at-the-barbican.md
+- articles/heavy-nights-schoenberg-brahms-the-lpo-and-goerne.md
+short_description: What struck us most about this performance was how clear these
+  characters appeared to this modern audience. The passion is truly a timeless story,
+  and to see these thousand-year-old character’s come to life in an extremely relatable
+  way is why we yearn to keep seeing passions performed.
+slug: in-review-lpo-presents-st-luke-passion
+title: 'In review: LPO presents St. Luke Passion'
+---
 
 "Passion season" kicks off early this year, as Saturday evening we were treated to a stunning performance of Krzysztof Penderecki’s *St. Luke Passion*. 
 

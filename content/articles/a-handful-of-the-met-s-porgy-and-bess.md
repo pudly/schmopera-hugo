@@ -1,22 +1,32 @@
-+++
-author = ["authors/michael-zarathuscook.md"]
-categories = "Review"
-date = 2020-02-04T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1580866081/media/2020/02/sqPBNC_1255a_d5mm0z.jpg"
-primary_image_credit = "Kevin Short as Porgy and Angel Blue as Bess in The Gershwins' \"Porgy and Bess.\" Photo: Ken Howard / Met Opera."
-related_articles = []
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/eric-owens.md", "scene/people/angel-blue.md"]
-short_description = "Even with Gershwin's best intentions in demanding that this opera only ever be produced with an all-black cast, it is nonetheless apparent that this was and is an opera written for the white gaze. Be it the cringe-inducing libretto, the caricatured depiction of Southern accents (both white and black), the depiction of the hyper-saturation of religion in black communities (on and on with talk of the \"promised land\") and the gross exaggeration of Bess as the quintessential portrait of semper femina."
-slug = "a-handful-of-the-mets-porgy-and-bess"
-title = "A handful of the Met's Porgy and Bess"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/michael-zarathuscook.md
+categories: Review
+date: "2020-02-04T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1580866081/media/2020/02/sqPBNC_1255a_d5mm0z.jpg
+primary_image_credit: 'Kevin Short as Porgy and Angel Blue as Bess in The Gershwins''
+  "Porgy and Bess." Photo: Ken Howard / Met Opera.'
+related_articles: []
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/eric-owens.md
+- scene/people/angel-blue.md
+short_description: Even with Gershwin's best intentions in demanding that this opera
+  only ever be produced with an all-black cast, it is nonetheless apparent that this
+  was and is an opera written for the white gaze. Be it the cringe-inducing libretto,
+  the caricatured depiction of Southern accents (both white and black), the depiction
+  of the hyper-saturation of religion in black communities (on and on with talk of
+  the "promised land") and the gross exaggeration of Bess as the quintessential portrait
+  of semper femina.
+slug: a-handful-of-the-mets-porgy-and-bess
+title: A handful of the Met's Porgy and Bess
+youtube_url: ""
+---
 If you're looking for a handful of popcorn to go along with some opera, or a handful of an opera with some popcorn on the side, either way you should see the Met's _Porgy and Bess_. Broadcasted live and in high definition - though of course nothing compares to the live experience - it's a marvel of the camera work that adds extra dimensions to the experience.
 
 That said, even with all the close-ups and fancy cuts, outstanding cast of singers and dancers, perfectly believable sets and costumes—the cringe-worthiness of _Porgy and Bess_ is nevertheless an ineluctable feature of this stellar production. It's a complicated experience, but one still worth having, inasmuch as an all-black cast on an opera stage is a few and far between thing (more on that later). The main thing is that this production succeeds as a hybrid: a hybrid of opera and musical theatre, of classical and jazz inspirations, of stage and screen, dance and voice, of the vestiges of a racist past and a self-conscious present, and - again - popcorn and opera: an underestimated combination.

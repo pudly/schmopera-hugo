@@ -1,22 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = 2021-09-27T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Opera Theatre of St. Louis's 2021 Outdoor Festival is available to stream through September 30."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1632319222/media/2021/09/sqOTSL_hfj1m7.jpg"
-primary_image_credit = "Jarrett Porter as Neil Armstrong in Steven Mackey and Rinde Eckert's Moon Tea, Opera Theatre of St. Louis's New Works, Bold Voices Lab, 2021. Photo: Eric Woolsey."
-related_articles = ["articles/happening-now-otsl-s-digital-2021.md"]
-related_companies = ["scene/companies/opera-theatre-of-st-louis.md"]
-related_people = ["scene/people/joshua-blue.md", "scene/people/patricia-racette.md", "scene/people/monica-dewey.md", "scene/people/markel-reed.md", "scene/people/nicole-cabell.md", "scene/people/will-liverman.md"]
-short_description = "The Tongue & The Lash features some of the night's best singing. Markel Reed as Baldwin orates with a steely baritone that comes with some bite; tenor Jonathan Johnson exudes an easy power that's slightly unnerving — even a bit colonialist — in his portrayal of Buckley, fan of racial segregation."
-slug = "before-its-gone-gems-out-of-opera-theatre-of-st-louis"
-title = "Before it's gone: gems out of Opera Theatre of St. Louis"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2021-09-27T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Opera Theatre of St. Louis's 2021 Outdoor Festival is available to stream
+  through September 30.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1632319222/media/2021/09/sqOTSL_hfj1m7.jpg
+primary_image_credit: 'Jarrett Porter as Neil Armstrong in Steven Mackey and Rinde
+  Eckert''s Moon Tea, Opera Theatre of St. Louis''s New Works, Bold Voices Lab, 2021.
+  Photo: Eric Woolsey.'
+related_articles:
+- articles/happening-now-otsl-s-digital-2021.md
+related_companies:
+- scene/companies/opera-theatre-of-st-louis.md
+related_people:
+- scene/people/joshua-blue.md
+- scene/people/patricia-racette.md
+- scene/people/monica-dewey.md
+- scene/people/markel-reed.md
+- scene/people/nicole-cabell.md
+- scene/people/will-liverman.md
+short_description: The Tongue & The Lash features some of the night's best singing.
+  Markel Reed as Baldwin orates with a steely baritone that comes with some bite;
+  tenor Jonathan Johnson exudes an easy power that's slightly unnerving — even a bit
+  colonialist — in his portrayal of Buckley, fan of racial segregation.
+slug: before-its-gone-gems-out-of-opera-theatre-of-st-louis
+title: 'Before it''s gone: gems out of Opera Theatre of St. Louis'
+youtube_url: ""
+---
 These days, small wins are worth a lot — and I count it as a small win that I can watch Opera Theatre of St. Louis's 2021 Outdoor Festival from way up here in Canada.
 
 The Festival, which includes six performance events from OTSL's 2021 season, is [available to stream](https://opera-stl.org/streaming) through September 30, and I'm officially recommending it. It's a great mix of standards (_Gianni Schicchi_), near-standards (_La voix humaine_), rarities (_Highway 1, U.S.A._), and world premieres ([_New Works, Bold Voices Lab_](https://opera-stl.org/nwbv-lab)).

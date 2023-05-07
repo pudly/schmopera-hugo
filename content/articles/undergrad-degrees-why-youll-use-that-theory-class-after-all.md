@@ -1,16 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-03-21T08:48:00-06:00"
-lastmod = "2017-06-18T16:13:00-06:00"
-preamble = "\"Why do I need to know set theory, or the history of Medieval polyphony, or Baroque dance notation, or Pythagorean tuning, or Schenkerian analysis, or whether or not Schubert was gay?\"\n\nMusicians aren't alone; with most professional disciplines that require a decent level of education, there's a chasm between what people learn in the classroom, and what they're asked to do in the workplace. Such is life. It's a mystery why some music students sigh and whinge over harmonic analysis assignments or piano skills assignment; the bored sounds often come with some quip about how they'd \"never use this outside of school\", because they'd heard that there was little demand for chord identification in the workplace.\n\nIt's true that \"school\", whatever that means to you, isn't for everyone. No formalized system of learning will fit all, and musicians perhaps have an advantage when it comes to examples of successful rebels of the education system. That's different than deeming a university course \"not practical\" or \"pointless\". It's a funny, bold thing to decide that you know that much about the topic, before finishing the course. Simply put, *you don't know what you don't know*.\n\nWe wanted to take the time to vouch for the value in some of the more irritating courses that are a part of most post-secondary music degrees:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497823397269/2017-06-19---Music.jpg.jpg"
-publishDate = "2016-03-22T03:45:00-06:00"
-related_articles = ["articles/3-life-lessons-that-practice-rooms-can-teach-you.md","articles/3-ways-to-fight-boredom-at-the-opera.md","articles/nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in.md"]
-short_description = "It&#039;s true that &quot;school&quot;, whatever that means to you, isn&#039;t for everyone. No formalized system of learning will fit all, and musicians perhaps have an advantage when it comes to examples of successful rebels of the education system. That&#039;s different than deeming a university course &quot;not practical&quot; or &quot;pointless&quot;. It&#039;s a funny, bold thing to decide that you know that much about the topic, before finishing the course. Simply put, you don&#039;t know what you don&#039;t know."
-slug = "undergrad-degrees-why-youll-use-that-theory-class-after-all"
-title = "Undergrad degrees &amp; why you&#039;ll use that theory class after all"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-03-21T08:48:00-06:00"
+lastmod: "2017-06-18T16:13:00-06:00"
+preamble: |-
+  "Why do I need to know set theory, or the history of Medieval polyphony, or Baroque dance notation, or Pythagorean tuning, or Schenkerian analysis, or whether or not Schubert was gay?"
+
+  Musicians aren't alone; with most professional disciplines that require a decent level of education, there's a chasm between what people learn in the classroom, and what they're asked to do in the workplace. Such is life. It's a mystery why some music students sigh and whinge over harmonic analysis assignments or piano skills assignment; the bored sounds often come with some quip about how they'd "never use this outside of school", because they'd heard that there was little demand for chord identification in the workplace.
+
+  It's true that "school", whatever that means to you, isn't for everyone. No formalized system of learning will fit all, and musicians perhaps have an advantage when it comes to examples of successful rebels of the education system. That's different than deeming a university course "not practical" or "pointless". It's a funny, bold thing to decide that you know that much about the topic, before finishing the course. Simply put, *you don't know what you don't know*.
+
+  We wanted to take the time to vouch for the value in some of the more irritating courses that are a part of most post-secondary music degrees:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497823397269/2017-06-19---Music.jpg.jpg
+publishDate: "2016-03-22T03:45:00-06:00"
+related_articles:
+- articles/3-life-lessons-that-practice-rooms-can-teach-you.md
+- articles/3-ways-to-fight-boredom-at-the-opera.md
+- articles/nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in.md
+short_description: It&#039;s true that &quot;school&quot;, whatever that means to
+  you, isn&#039;t for everyone. No formalized system of learning will fit all, and
+  musicians perhaps have an advantage when it comes to examples of successful rebels
+  of the education system. That&#039;s different than deeming a university course
+  &quot;not practical&quot; or &quot;pointless&quot;. It&#039;s a funny, bold thing
+  to decide that you know that much about the topic, before finishing the course.
+  Simply put, you don&#039;t know what you don&#039;t know.
+slug: undergrad-degrees-why-youll-use-that-theory-class-after-all
+title: Undergrad degrees &amp; why you&#039;ll use that theory class after all
+---
 
 ## Theory & analysis
 

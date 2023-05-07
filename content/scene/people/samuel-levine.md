@@ -1,19 +1,20 @@
-+++
-date = "2017-01-28T09:50:00+00:00"
-discipline = "Tenor"
-lastmod = "2017-01-28T09:54:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485597107997/2017-01-28---Samuel-Levine.jpg.jpg"
-publishDate = "2017-01-28T09:51:00+00:00"
-related_companies = ["scene/companies/nashville-opera.md"]
-slug = "samuel-levine"
-title = "Samuel Levine"
-website = "http://samuellevinetenor.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SLevineSinger"
-_template = "people_single"
-+++
+---
+date: "2017-01-28T09:50:00+00:00"
+discipline: Tenor
+lastmod: "2017-01-28T09:54:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485597107997/2017-01-28---Samuel-Levine.jpg.jpg
+publishDate: "2017-01-28T09:51:00+00:00"
+related_companies:
+- scene/companies/nashville-opera.md
+slug: samuel-levine
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/SLevineSinger
+title: Samuel Levine
+website: http://samuellevinetenor.com/
+---
 
 Sam Levine has emerged as an elegant, robust tenor on the cusp of a major career. He is a second-year candidate for the Artist Diploma in Opera Studies at the Juilliard School, where he appears this season as Váňa Kudrjaš in *Káťa Kabanová*; outside engagements for 2016-17 include Carmen with Bay Chamber Concerts and Boston Lyric Opera, his debut at National Sawdust as Lurcanio in R.B. Schlather’s workshop production of *Ariodante*, the roles of Joe and Marcus in the world premiere of *Three Way* at Nashville Opera and the Brooklyn Academy of Music. Highlights of last season included performances as Le Mari in *Les Mamelles de Tiresias* (where his performance was called “wonderfully appealing” by the New York Times), in recital with Steven Blier under the auspices of NYFOS@Juilliard and the 5 Boroughs Music Festival, and as First Armed Guard in *Die Zauberflöte*, all at Juilliard, Testo  in Monteverdi’s *Il Combattimento di Tancredi e Clorinda* with Cantata Profana, a debut with Bard SummerScape in two roles in James Darrah’s production of Mascagni’s *Iris*, and his role debut as Lenski in *Eugene Onegin* with Eugene Opera, which won critical praise for “mastery of character and seamless legato.” (The Register-Guard)
 

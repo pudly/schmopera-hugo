@@ -1,20 +1,24 @@
-+++
-date = "2017-10-01T17:18:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-10-01T17:18:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506892430545/9666705_orig.jpg.jpg"
-primary_image_credit = "Cathy Joy Photography"
-publishDate = "2017-10-01T17:18:00-04:00"
-related_companies = ["scene/companies/haymarket-opera-company.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/chicago-fringe-opera.md","scene/companies/lyric-opera-of-chicago.md"]
-slug = "scott-brunscheen"
-title = "Scott Brunscheen"
-website = "http://www.scottjbrunscheen.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/sjbtenor/"
-_template = "people_single"
-+++
+---
+date: "2017-10-01T17:18:00-04:00"
+discipline: Tenor
+lastmod: "2017-10-01T17:18:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506892430545/9666705_orig.jpg.jpg
+primary_image_credit: Cathy Joy Photography
+publishDate: "2017-10-01T17:18:00-04:00"
+related_companies:
+- scene/companies/haymarket-opera-company.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/chicago-fringe-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+slug: scott-brunscheen
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/sjbtenor/
+title: Scott Brunscheen
+website: http://www.scottjbrunscheen.com/
+---
 
 Scott J Brunscheen's "sweet and substantial lyric tenor" (Chicago Tribune) continues to gain recognition in a wide range of operatic and concert repertoire. Engagements during the 2016-17 season include Haydn's *L’isola disabitata* with Haymarket Opera, Purcell's *The Fairy Queen* with Chicago Opera Theater and Long Beach Opera, the world premiere of Stewart Copeland's *The Invention of Morel* at Chicago Opera Theater, Mozart's *Die Zauberflote* with Madison Opera, and performances with Madison Bach Musicians.
 

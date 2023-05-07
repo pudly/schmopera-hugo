@@ -1,23 +1,24 @@
-+++
-date = "2017-09-15T13:26:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2017-09-15T13:26:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505496276150/975e75-258b8f2d3c284087a2e166093c1b042c_orig.jpg.jpg"
-publishDate = "2017-09-15T13:26:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/opera-on-the-avalon.md"]
-slug = "thomas-shivone"
-title = "Thomas Shivone"
-website = "http://www.thomasshivone.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/tshivone"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/tshivone/"
-_template = "people_single"
-+++
+---
+date: "2017-09-15T13:26:00-04:00"
+discipline: Bass-baritone
+lastmod: "2017-09-15T13:26:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505496276150/975e75-258b8f2d3c284087a2e166093c1b042c_orig.jpg.jpg
+publishDate: "2017-09-15T13:26:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/opera-on-the-avalon.md
+slug: thomas-shivone
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/tshivone
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/tshivone/
+title: Thomas Shivone
+website: http://www.thomasshivone.com/
+---
 
 Thomas Shivone, a bass-baritone,  has received critical acclaim for both singing and acting in opera, concert, and recitals. He is a recent graduate of the Curtis Institute of Music in Philadelphia and earned a Masters Degree in Voice and Opera.
 

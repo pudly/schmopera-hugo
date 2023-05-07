@@ -1,21 +1,39 @@
-+++
-author = ["authors/greg.md", "authors/jenna.md"]
-categories = "Editorial"
-date = "2018-12-30T16:57:03+00:00"
-disclaimer = ""
-image_gallery = []
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546189070/media/2018/12/sqFledermaus.jpg"
-primary_image_credit = "Adam Fisher (Eisenstein) and Lara Ciekiewicz (Rosalinde) in Die Fledermaus, Toronto Operetta Theatre, 2018. Photo: Gary Beechey, BDS Studios."
-related_articles = []
-related_companies = ["scene/companies/tongue-in-cheek-productions.md", "scene/companies/canadian-opera-company.md", "scene/companies/toronto-operetta-theatre.md", "scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/vanessa-oudereimerink.md", "scene/people/natalya-matyusheva.md", "scene/people/lauren-margison.md", "scene/people/andrew-haji.md", "scene/people/tyler-duncan.md", "scene/people/allyson-mchardy.md", "scene/people/claire-de-sevigne.md", "scene/people/caitlin-wood.md", "scene/people/michael-robertbroder.md", "scene/people/adam-fisher.md", "scene/people/lara-ciekiewicz.md"]
-short_description = "There's little wrong, though, with heading into a new year with good tunes in one's head, and an acute anticipation of good things to come."
-slug = "holiday-recap-forbiddens-traditions"
-title = "Holiday recap: forbiddens & traditions "
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+- authors/jenna.md
+categories: Editorial
+date: "2018-12-30T16:57:03+00:00"
+disclaimer: ""
+image_gallery: []
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546189070/media/2018/12/sqFledermaus.jpg
+primary_image_credit: 'Adam Fisher (Eisenstein) and Lara Ciekiewicz (Rosalinde) in
+  Die Fledermaus, Toronto Operetta Theatre, 2018. Photo: Gary Beechey, BDS Studios.'
+related_articles: []
+related_companies:
+- scene/companies/tongue-in-cheek-productions.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/toronto-operetta-theatre.md
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/vanessa-oudereimerink.md
+- scene/people/natalya-matyusheva.md
+- scene/people/lauren-margison.md
+- scene/people/andrew-haji.md
+- scene/people/tyler-duncan.md
+- scene/people/allyson-mchardy.md
+- scene/people/claire-de-sevigne.md
+- scene/people/caitlin-wood.md
+- scene/people/michael-robertbroder.md
+- scene/people/adam-fisher.md
+- scene/people/lara-ciekiewicz.md
+short_description: There's little wrong, though, with heading into a new year with
+  good tunes in one's head, and an acute anticipation of good things to come.
+slug: holiday-recap-forbiddens-traditions
+title: 'Holiday recap: forbiddens & traditions '
+youtube_url: ""
+---
 It's good to be back, readers. Not just back, but improved: for a short while, we handed the Schmopera reins over to our superb man behind the scenes, [Andrej](https://twitter.com/dr_drej), who has given the site a makeover from the inside out - thanks for noticing!
 
 The technical work gave us little choice except to take a luxurious bit of vacation from writing (no complaints); still, we were out and about, catching shows and saving our notes for the New Year.

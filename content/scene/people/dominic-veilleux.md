@@ -1,22 +1,21 @@
-+++
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1640984143/media/2021/12/DominicVeilleux_ujztxe.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/calgary-opera.md"]
-slug = "dominic-veilleux"
-title = "Dominic Veilleux"
-website = "https://www.dominicveilleux.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/dominicveilleuxbaryton/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/DominicVeilleux"
-
-_template = "people_single"
-+++
+---
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1640984143/media/2021/12/DominicVeilleux_ujztxe.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/calgary-opera.md
+slug: dominic-veilleux
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/dominicveilleuxbaryton/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/DominicVeilleux
+title: Dominic Veilleux
+website: https://www.dominicveilleux.com/
+---
 Doté d’une voix riche et puissante, le baryton-basse Dominic Veilleux est présentement membre du Programme de développement des artistes de l’Opéra de Calgary.
 
 À l'Atelier lyrique du Conservatoire de musique de Québec, on a pu l'entendre dans les rôles de Leporello (_Don Giovanni_), Guglielmo (_Cosi fan tutte_), Brunner fils (_Les trois Valses_), Antonio et Bartolo (_Le nozze di Figaro_), de rôles divers (_Burnt Toast_) et Franz (_Le Directeur de théâtre_). À l’Université de Montréal, il a interprété les rôles de Bottom (_A Midsummer Night’s Dream_), Don Alfonso (Cosi fan tutte) Huascar (_Les Indes galantes_) et du Baron de Gondremarck (_La Vie parisienne_). 

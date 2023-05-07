@@ -1,20 +1,26 @@
-+++
-date = "2018-03-18T21:25:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-03-18T21:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521422543456/_J1A4011.jpg.jpg"
-primary_image_credit = "Kristin Hoebermann"
-publishDate = "2018-03-18T21:25:00-04:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/los-angeles-opera.md","scene/companies/the-dallas-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/des-moines-metro-opera.md","scene/companies/wolf-trap-opera.md"]
-slug = "vanessa-becerra"
-title = "Vanessa Becerra"
-website = "https://www.vanessabecerra.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/vrae18/"
-_template = "people_single"
-+++
+---
+date: "2018-03-18T21:25:00-04:00"
+discipline: Soprano
+lastmod: "2018-03-18T21:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521422543456/_J1A4011.jpg.jpg
+primary_image_credit: Kristin Hoebermann
+publishDate: "2018-03-18T21:25:00-04:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/wolf-trap-opera.md
+slug: vanessa-becerra
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/vrae18/
+title: Vanessa Becerra
+website: https://www.vanessabecerra.com/
+---
 
 Emerging soprano Vanessa Becerra has received acclaim for her “opulent” and “silvery” voice, and for her dynamic stage presence. A graduate of LA Opera’s Domingo-Colburn-Stein Young Artist Program, her performances during her tenure included Papagena in *Die Zauberflöte*, Barbarina in *Le nozze di Figaro*, and Annina in *La traviata*. She was also featured as Gossip 2 in the Grammy nominated recording of *The Ghosts of Versailles*. A native of Fort Worth, Texas, Ms. Becerra made her professional debut with Fort Worth Opera in 2014, in the highly acclaimed production of *With Blood With Ink* for which she was praised for her “passionate theatrical intensity” (Wall Street Journal) and  her “irresistible characterization” (Opera News).
 

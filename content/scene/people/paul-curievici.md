@@ -1,23 +1,28 @@
-+++
-date = "2017-11-14T17:37:00-05:00"
-discipline = "Tenor"
-lastmod = "2017-11-14T17:37:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510699010683/017_Paul_Curievici017%2520low%2520res%2520website.jpg.jpg"
-publishDate = "2017-11-14T17:37:00-05:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/shadwell-opera.md","scene/companies/scottish-opera.md","scene/companies/northern-ireland-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/grange-park-opera.md"]
-slug = "paul-curievici"
-title = "Paul Curievici"
-website = "https://www.paulcurievici.co.uk/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/paulcurievicitenor/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/paulcurievici"
-_template = "people_single"
-+++
+---
+date: "2017-11-14T17:37:00-05:00"
+discipline: Tenor
+lastmod: "2017-11-14T17:37:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510699010683/017_Paul_Curievici017%2520low%2520res%2520website.jpg.jpg
+publishDate: "2017-11-14T17:37:00-05:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/shadwell-opera.md
+- scene/companies/scottish-opera.md
+- scene/companies/northern-ireland-opera.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/grange-park-opera.md
+slug: paul-curievici
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/paulcurievicitenor/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/paulcurievici
+title: Paul Curievici
+website: https://www.paulcurievici.co.uk/
+---
 
 Paul Curievici’s current and future plans include a revival of Gerald Barry’s *The Importance of Being Earnest* Barbican and Lincoln Center with the New York Philharmonic, DIONYSUS cover *The Bassarids* Opera di Roma *Les Enfants Terribles* The Royal Ballet,  DON CURZIO/DON BASILIO *Le nozze di Figaro* Scottish Opera,  JACK *The Rise and Fall of the City of Mahagonny* Landestheater Salzburg,  RAUL *The Exterminating Angel* Royal Danish Opera Copenhagen and PEDRILLO *Die Entführung aus dem Serail* Grange Festival.
 

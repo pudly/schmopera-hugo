@@ -1,16 +1,18 @@
-+++
-date = "2019-01-20T19:58:36+00:00"
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548014231/media/2019/01/NealFerreira.jpg"
-primary_image_credit = "Tim Gurczak Photography"
-related_companies = ["scene/companies/florida-grand-opera.md", "scene/companies/odyssey-opera.md", "scene/companies/boston-lyric-opera.md"]
-slug = "neal-ferreira"
-social_media = []
-title = "Neal Ferreira"
-website = "http://www.nealferreira.com/"
-
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2019-01-20T19:58:36+00:00"
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548014231/media/2019/01/NealFerreira.jpg
+primary_image_credit: Tim Gurczak Photography
+related_companies:
+- scene/companies/florida-grand-opera.md
+- scene/companies/odyssey-opera.md
+- scene/companies/boston-lyric-opera.md
+slug: neal-ferreira
+social_media: []
+title: Neal Ferreira
+website: http://www.nealferreira.com/
+---
 Praised for his "rich, powerful voice" and "bravura-filled stage presence," Neal Ferreira is a promising lyric tenor with a handsome, masculine tone quality to which he brings a cultivated vocalism and eloquent expression. Dubbed a “Boston mainstay” by the Boston Globe, he most recently appeared with Boston Lyric Opera as a member of the Jazz Trio in Bernstein’s **_Trouble in Tahiti_**, and with the Boston Youth Symphony Orchestra as Le Remendado in **_Carmen_**.
 
 This October, Ferreira created the role of Master Turner in the world premiere of **_Brother Nat_**, a new opera based on Nat Turner’s historic slave insurrection of 1831, with book/lyrics by Jabari Asim and Liana Asim and music by Allyssa Jones. Upcoming engagements include his role debut as Tamino in **_The Magic Flute_** with the Boston Youth Symphony Orchestra at Symphony Hall in March 2019, as well as his first performance of the tenor solos in Beethoven’s **_Symphony No. 9_** with the Wellesley Symphony Orchestra in May 2019. In June 2019 he will return to Emmanuel Music to sing the role of Captain Macheath in Benjamin Britten's version of **_The Beggar's Opera_**.

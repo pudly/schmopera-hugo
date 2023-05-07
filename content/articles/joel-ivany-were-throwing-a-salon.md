@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-11-03T14:55:00+00:00"
-lastmod = "2016-11-05T15:04:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478261356742/2016-11-04---Ivany.jpg.jpg"
-primary_image_credit = "Photo by Nicola Novak."
-publishDate = "2016-11-05T14:43:00+00:00"
-related_articles = ["articles/in-review-puss-in-boots-berios-folk-songs.md","articles/in-review-albert-herring-at-uoft-opera.md","articles/in-review-death-desire.md"]
-related_companies = ["scene/companies/royal-conservatory-of-music.md"]
-related_people = ["scene/people/joel-ivany.md"]
-short_description = "&quot;You&#039;re going to be mingling in the lobby and in the auditorium, and you&#039;re going to be meeting these people from the salon, which are the students from the school.&quot; It&#039;s a &quot;play-within-a-play&quot; idea, where the Cendrillon audiences live in the same world as the singers who perform the opera. The members of the cast each have two roles to play: their part in Viardot&#039;s opera, and the &quot;character&quot; who exists offstage during the salon evening."
-slug = "joel-ivany-were-throwing-a-salon"
-title = "Joel Ivany: &quot;We&#039;re throwing a salon.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-11-03T14:55:00+00:00"
+lastmod: "2016-11-05T15:04:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478261356742/2016-11-04---Ivany.jpg.jpg
+primary_image_credit: Photo by Nicola Novak.
+publishDate: "2016-11-05T14:43:00+00:00"
+related_articles:
+- articles/in-review-puss-in-boots-berios-folk-songs.md
+- articles/in-review-albert-herring-at-uoft-opera.md
+- articles/in-review-death-desire.md
+related_companies:
+- scene/companies/royal-conservatory-of-music.md
+related_people:
+- scene/people/joel-ivany.md
+short_description: '&quot;You&#039;re going to be mingling in the lobby and in the
+  auditorium, and you&#039;re going to be meeting these people from the salon, which
+  are the students from the school.&quot; It&#039;s a &quot;play-within-a-play&quot;
+  idea, where the Cendrillon audiences live in the same world as the singers who perform
+  the opera. The members of the cast each have two roles to play: their part in Viardot&#039;s
+  opera, and the &quot;character&quot; who exists offstage during the salon evening.'
+slug: joel-ivany-were-throwing-a-salon
+title: 'Joel Ivany: &quot;We&#039;re throwing a salon.&quot;'
+---
 
 For most opera lovers, the Cinderella story conjures up the blazing coloratura in Rossini's *La Cenerentola* and the shimmering sounds of Massenet's *Cendrillon*. Pauline Viardot - whose name does not quickly come to mind as an opera composer - wrote her *Cendrillon* alongside contemporaries like Meyerbeer, Debussy, and Gounod.
 

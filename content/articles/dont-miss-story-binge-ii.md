@@ -1,15 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-11-17T11:47:00+00:00"
-lastmod = "2016-11-18T14:36:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479385496134/2016-11-16---Books.jpg.jpg"
-publishDate = "2016-11-18T13:10:00+00:00"
-related_companies = ["scene/companies/experiments-in-opera.md"]
-short_description = "This year&#039;s line-up is an intriguing collection of opera shorts and scenes from larger works, telling stories about everything: break-ups, moving to Mars, copyright infringement, women from the Bible, life as a POW, and even different societal perceptions of AIDS."
-slug = "dont-miss-story-binge-ii"
-title = "Don&#039;t miss: Story Binge II"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-11-17T11:47:00+00:00"
+lastmod: "2016-11-18T14:36:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479385496134/2016-11-16---Books.jpg.jpg
+publishDate: "2016-11-18T13:10:00+00:00"
+related_companies:
+- scene/companies/experiments-in-opera.md
+short_description: 'This year&#039;s line-up is an intriguing collection of opera
+  shorts and scenes from larger works, telling stories about everything: break-ups,
+  moving to Mars, copyright infringement, women from the Bible, life as a POW, and
+  even different societal perceptions of AIDS.'
+slug: dont-miss-story-binge-ii
+title: 'Don&#039;t miss: Story Binge II'
+---
 
 Are you an opera fan with a short attention span? On **December 15, 7:30pm ET**, head over to Kaufman Music Center's Merkin Concert Hall for [*Story Binge II*](http://experimentsinopera.com/portfolio-item/1876/), a night of five operatic premieres by five New York-based composers. It's the second annual *Binge* , presented by [Experiments in Opera](http://experimentsinopera.com/about/).
 

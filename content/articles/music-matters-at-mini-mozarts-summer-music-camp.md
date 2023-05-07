@@ -1,17 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-10-22T19:54:00-04:00"
-lastmod = "2015-10-26T10:03:00-04:00"
-preamble = "Most artists want to touch the lives of others with their work, and I spoke recently with a few Canada-based singers who have found a very tangible way to do some good with their talent. Tenor [Paul Williamson](/scene/people/paul-williamson/) and soprano [Allison Cecilia Arends](/scene/people/allison-arends/) travelled last summer to Kingston, Jamaica, where they held their inaugural Mini Mozarts Summer Camp with the St. Andrew Parish Foundation. Mezzo-soprano Kathleen Promane, the newest addition to Mini Mozarts Summer Camp joined Paul and Allison in Kingston this fall to sing in a benefit concert for the Foundation. \n\nMini Mozarts participants come from communities living in extreme poverty; in addition to daily meals, campers get a fun introduction to music, games, arts and crafts, and performances of their own. Paul, Allison, and Kathleen talk about the work they've been able to do in Kingston, and what it feels like to be able to give to a community in need. \"They do not take anything for granted, since they have very little.\""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445826553725/MiniMozarts.jpg.jpg"
-publishDate = "2015-10-26T09:00:00-04:00"
-related_articles = ["articles/hear-the-premiere-of-abraham-support-the-syrian-refugee-program.md","articles/dont-miss-shoestring-operas-hansel-gretel.md"]
-related_people = ["scene/people/allison-arends.md","scene/people/paul-williamson.md"]
-short_description = "Most artists want to touch the lives of others with their work, and I spoke recently with a few Canada-based singers who have found a very tangible way to do some good with their talent. Tenor Paul Williamson and soprano Allison Cecilia Arends travelled last summer to Kingston, Jamaica, where they held their inaugural Mini Mozarts Summer Camp with the St. Andrew Parish Foundation. "
-slug = "music-matters-at-mini-mozarts-summer-music-camp"
-title = "Music Matters at Mini Mozarts Summer Music Camp"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-10-22T19:54:00-04:00"
+lastmod: "2015-10-26T10:03:00-04:00"
+preamble: "Most artists want to touch the lives of others with their work, and I spoke
+  recently with a few Canada-based singers who have found a very tangible way to do
+  some good with their talent. Tenor [Paul Williamson](/scene/people/paul-williamson/)
+  and soprano [Allison Cecilia Arends](/scene/people/allison-arends/) travelled last
+  summer to Kingston, Jamaica, where they held their inaugural Mini Mozarts Summer
+  Camp with the St. Andrew Parish Foundation. Mezzo-soprano Kathleen Promane, the
+  newest addition to Mini Mozarts Summer Camp joined Paul and Allison in Kingston
+  this fall to sing in a benefit concert for the Foundation. \n\nMini Mozarts participants
+  come from communities living in extreme poverty; in addition to daily meals, campers
+  get a fun introduction to music, games, arts and crafts, and performances of their
+  own. Paul, Allison, and Kathleen talk about the work they've been able to do in
+  Kingston, and what it feels like to be able to give to a community in need. \"They
+  do not take anything for granted, since they have very little.\""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445826553725/MiniMozarts.jpg.jpg
+publishDate: "2015-10-26T09:00:00-04:00"
+related_articles:
+- articles/hear-the-premiere-of-abraham-support-the-syrian-refugee-program.md
+- articles/dont-miss-shoestring-operas-hansel-gretel.md
+related_people:
+- scene/people/allison-arends.md
+- scene/people/paul-williamson.md
+short_description: 'Most artists want to touch the lives of others with their work,
+  and I spoke recently with a few Canada-based singers who have found a very tangible
+  way to do some good with their talent. Tenor Paul Williamson and soprano Allison
+  Cecilia Arends travelled last summer to Kingston, Jamaica, where they held their
+  inaugural Mini Mozarts Summer Camp with the St. Andrew Parish Foundation. '
+slug: music-matters-at-mini-mozarts-summer-music-camp
+title: Music Matters at Mini Mozarts Summer Music Camp
+---
 
 ## 1. What drove you to start this summer camp in Kingston, Jamaica?
 

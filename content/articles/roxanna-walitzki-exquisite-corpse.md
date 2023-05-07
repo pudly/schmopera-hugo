@@ -1,18 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-05-15T16:07:00+01:00"
-lastmod = "2016-05-16T11:03:00+01:00"
-preamble = "Mezzo-soprano and performance artist [Roxanna Walitzki](/scene/people/roxanna-walitzki/) is set to unveil her latest project on **May 20**. Her new EP, [*Exquisite Corpse*](http://www.roxannawalitzki.com/exquisite-corpse), is a collection of uniquely arranged French art songs; Walitzki incorporates electronic music, manipulated sounds, vocal glitches, and \"sweeping guitar notes\" by [Anomie Belle](http://anomiebelle.tumblr.com/), into the existing piano and voice lines of Debussy's *Ariettes Oubliées* and Fauré's *Le jardin clos*.\n\n*Exquisite Corpse* was originally conceived as a collaboration with Walitzki's sister, visual artist [Redd Walitzki](http://www.reddwalitzki.com/), and the digital release of the EP will include limited edition prints of Redd's work from her [exhibition of the same name](http://www.moderneden.com/pages/exquisite-corpse), seen at San Francisco's Modern Eden Gallery in the fall of 2015.\n\nWe spoke with Roxanna about her novel work, and her unique response to the inspiration of these famed French composers. "
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463324840761/2016-05-15---Exquisite-Corpse-Album-Cover.jpg.jpg"
-primary_image_credit = "Artwork by Redd Walitzki."
-publishDate = "2016-05-15T22:26:00+01:00"
-related_articles = ["articles/in-review-death-desire.md","articles/the-art-of-defining-a-singer-and-squashing-anomalies.md"]
-related_people = ["scene/people/roxanna-walitzki.md"]
-short_description = "&quot;I only recently began down this path, but have received mostly positive feedback about my approach. What I do isn&#039;t what most people expect when picturing electronic-meets-classical (it&#039;s a far cry from things like The Fifth Element aria and other techno-driven reinterpretations), but the layering of textures can be helpful to those less accustomed to listening to art songs. It adds another emotive dimension to tune into, and I try to stay attuned to, and respectful of, what made the compositions great in the first place.&quot;"
-slug = "roxanna-walitzki-exquisite-corpse"
-title = "Roxanna Walitzki: Exquisite Corpse"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-05-15T16:07:00+01:00"
+lastmod: "2016-05-16T11:03:00+01:00"
+preamble: "Mezzo-soprano and performance artist [Roxanna Walitzki](/scene/people/roxanna-walitzki/)
+  is set to unveil her latest project on **May 20**. Her new EP, [*Exquisite Corpse*](http://www.roxannawalitzki.com/exquisite-corpse),
+  is a collection of uniquely arranged French art songs; Walitzki incorporates electronic
+  music, manipulated sounds, vocal glitches, and \"sweeping guitar notes\" by [Anomie
+  Belle](http://anomiebelle.tumblr.com/), into the existing piano and voice lines
+  of Debussy's *Ariettes Oubliées* and Fauré's *Le jardin clos*.\n\n*Exquisite Corpse*
+  was originally conceived as a collaboration with Walitzki's sister, visual artist
+  [Redd Walitzki](http://www.reddwalitzki.com/), and the digital release of the EP
+  will include limited edition prints of Redd's work from her [exhibition of the same
+  name](http://www.moderneden.com/pages/exquisite-corpse), seen at San Francisco's
+  Modern Eden Gallery in the fall of 2015.\n\nWe spoke with Roxanna about her novel
+  work, and her unique response to the inspiration of these famed French composers. "
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463324840761/2016-05-15---Exquisite-Corpse-Album-Cover.jpg.jpg
+primary_image_credit: Artwork by Redd Walitzki.
+publishDate: "2016-05-15T22:26:00+01:00"
+related_articles:
+- articles/in-review-death-desire.md
+- articles/the-art-of-defining-a-singer-and-squashing-anomalies.md
+related_people:
+- scene/people/roxanna-walitzki.md
+short_description: '&quot;I only recently began down this path, but have received
+  mostly positive feedback about my approach. What I do isn&#039;t what most people
+  expect when picturing electronic-meets-classical (it&#039;s a far cry from things
+  like The Fifth Element aria and other techno-driven reinterpretations), but the
+  layering of textures can be helpful to those less accustomed to listening to art
+  songs. It adds another emotive dimension to tune into, and I try to stay attuned
+  to, and respectful of, what made the compositions great in the first place.&quot;'
+slug: roxanna-walitzki-exquisite-corpse
+title: 'Roxanna Walitzki: Exquisite Corpse'
+---
 
 ## What made you choose these songs, and how did you come up with the aesthetic of the new arrangements?
 

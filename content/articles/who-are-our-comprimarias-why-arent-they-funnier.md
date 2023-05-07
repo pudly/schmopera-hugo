@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-12-28T14:47:00-05:00"
-lastmod = "2015-12-29T12:36:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451358040382/2015-12-27%20-%20Zerbinetta.jpg.jpg"
-primary_image_credit = "Christopher Enns, Jane Archibald (Zerbinetta) and John Easterlin in the COC's Ariadne auf Naxos. Photo: Michael Cooper."
-publishDate = "2015-12-29T12:36:00-05:00"
-related_articles = ["articles/carmen-don-juan-and-gender-reversal-pants-roles-indeed.md","articles/a-sweet-girl-on-the-podium-can-make-ones-thoughts-drift-toward-something-else.md","articles/hidden-secrets-of-the-soubrette.md","articles/women-in-the-arts-is-it-our-turn-yet.md"]
-short_description = "I have a sneaking suspicion that labels like &quot;Charaktersopran&quot; or &quot;Charaktermezzosopran&quot;, as pure equivalents to *comprimario* tenors or *buffo* basses, are slightly off-putting to women. It may be because the available supporting roles for women seem too serious, or too important to the plot, to be &quot;downsized&quot; with the &quot;character&quot; classification."
-slug = "who-are-our-comprimarias-why-arent-they-funnier"
-title = "Who are our comprimarias, &amp; why aren&#039;t they funnier?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-12-28T14:47:00-05:00"
+lastmod: "2015-12-29T12:36:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451358040382/2015-12-27%20-%20Zerbinetta.jpg.jpg
+primary_image_credit: 'Christopher Enns, Jane Archibald (Zerbinetta) and John Easterlin
+  in the COC''s Ariadne auf Naxos. Photo: Michael Cooper.'
+publishDate: "2015-12-29T12:36:00-05:00"
+related_articles:
+- articles/carmen-don-juan-and-gender-reversal-pants-roles-indeed.md
+- articles/a-sweet-girl-on-the-podium-can-make-ones-thoughts-drift-toward-something-else.md
+- articles/hidden-secrets-of-the-soubrette.md
+- articles/women-in-the-arts-is-it-our-turn-yet.md
+short_description: I have a sneaking suspicion that labels like &quot;Charaktersopran&quot;
+  or &quot;Charaktermezzosopran&quot;, as pure equivalents to *comprimario* tenors
+  or *buffo* basses, are slightly off-putting to women. It may be because the available
+  supporting roles for women seem too serious, or too important to the plot, to be
+  &quot;downsized&quot; with the &quot;character&quot; classification.
+slug: who-are-our-comprimarias-why-arent-they-funnier
+title: Who are our comprimarias, &amp; why aren&#039;t they funnier?
+---
 
 When we think of comprimario roles, they're usually male. Monostatos (*Die Zauberflöte*), Dr. Bartolo (*Il barbiere di Siviglia*), Bardolfo and Pistola (*Falstaff*), Goro (*Madama Butterfly*), all dudes, unless the director is concept-productioning the &$%# out of the show. Comprimario characters have the potential to steal the show, especially if they're given great comedy, like Dr. Blind in *Die Fledermaus* or the "Four Servants" in *Les contes d'Hoffmann*.
 

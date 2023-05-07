@@ -1,22 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2022-01-26T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "_P.S. Hilariously,_ [_this_](/help-the-pandemic-has-made-me-opera-conservative/) _is how I felt about everything about four months ago._"
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1643223547/media/2022/01/Beethoven_yshnak.jpg"
-primary_image_credit = ""
-related_articles = ["articles/covid.md"]
-related_companies = ["scene/companies/houston-grand-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/l-opéra-de-montréal.md", "scene/companies/edmonton-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/calgary-opera.md", "scene/companies/canadian-opera-company.md"]
-related_people = []
-short_description = "In the before times, I was all for stories that had big emotions and swept me out of reality; now, it feels futile to expect that a great high note can affect us with the same ease that it did before we all lost ourselves to a public health emergency."
-slug = "opera-creeps-back-to-canada-it-reminds-me-of-beethoven"
-title = "Opera creeps back to Canada & it reminds me of Beethoven"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2022-01-26T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: _P.S. Hilariously,_ [_this_](/help-the-pandemic-has-made-me-opera-conservative/)
+  _is how I felt about everything about four months ago._
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1643223547/media/2022/01/Beethoven_yshnak.jpg
+primary_image_credit: ""
+related_articles:
+- articles/covid.md
+related_companies:
+- scene/companies/houston-grand-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/l-opéra-de-montréal.md
+- scene/companies/edmonton-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/calgary-opera.md
+- scene/companies/canadian-opera-company.md
+related_people: []
+short_description: In the before times, I was all for stories that had big emotions
+  and swept me out of reality; now, it feels futile to expect that a great high note
+  can affect us with the same ease that it did before we all lost ourselves to a public
+  health emergency.
+slug: opera-creeps-back-to-canada-it-reminds-me-of-beethoven
+title: Opera creeps back to Canada & it reminds me of Beethoven
+youtube_url: ""
+---
 Who else wants off the rollercoaster?!
 
 Readers, if you're like me, you've become a hardened version of an opera fan. You swat away feelings of hope when you see a season announcement from a major company. You read about last-minute show cancellations  - or last-minute virtual pivots - with an audible amount of _yeah, seems about right_ in your resigned sigh.

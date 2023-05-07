@@ -1,15 +1,20 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2018-06-22T20:51:00-04:00"
-lastmod = "2018-06-22T21:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529714626644/sq006125_fa45b08dd38f438e99133f3f98486e25_mv2_d_4129_4432_s_4_2.jpg.jpg"
-primary_image_credit = "Chelsea Beatty (left) and Arielle Rogers in Divas. Photo by TStop Pictures."
-publishDate = "2018-06-22T20:51:00-04:00"
-short_description = "But of course, I would be remiss if I did not mention Arielle Rogers as Sisieretta Jones. Arielle Rogers had easily the most to do throughout the night: Sisieretta eventually became the emotional core of the evening, and that is no small task."
-slug = "an-insightful-relevant-look-at-divas"
-title = "An Insightful, Relevant Look At Divas"
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2018-06-22T20:51:00-04:00"
+lastmod: "2018-06-22T21:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529714626644/sq006125_fa45b08dd38f438e99133f3f98486e25_mv2_d_4129_4432_s_4_2.jpg.jpg
+primary_image_credit: Chelsea Beatty (left) and Arielle Rogers in Divas. Photo by
+  TStop Pictures.
+publishDate: "2018-06-22T20:51:00-04:00"
+short_description: 'But of course, I would be remiss if I did not mention Arielle
+  Rogers as Sisieretta Jones. Arielle Rogers had easily the most to do throughout
+  the night: Sisieretta eventually became the emotional core of the evening, and that
+  is no small task.'
+slug: an-insightful-relevant-look-at-divas
+title: An Insightful, Relevant Look At Divas
+---
 
 In Laura Neill's [new play *Divas*](http://www.operahub.org/upcoming), nine historical opera divas find themselves trapped in a set of barriers in the afterlife, in which they spend the entire play debating ways to get out. At one of the divas' suggestions that they start relating the stories of their lives, Swedish diva Jenny Lind wryly asks something along the lines of "has this become story time now?" At around the time she initially asked, I felt like she was speaking for the audience, which by that point had been treated to a monologue and aria by no less than Adelina Patti herself.
 

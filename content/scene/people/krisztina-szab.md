@@ -1,20 +1,27 @@
-+++
-date = "2015-04-07T23:04:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-06-10T14:20:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428462214253/SzaboBoHuang_Fotor.jpg.jpg"
-publishDate = "2015-04-07T23:04:00-04:00"
-related_companies = ["scene/companies/tapestry-opera.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/canadian-opera-company.md", "scene/companies/calgary-opera.md", "scene/companies/opra-de-qubec.md", "scene/companies/edmonton-opera.md", "scene/companies/off-centre-music-salon.md", "scene/companies/esprit-orchestra.md"]
-slug = "krisztina-szab"
-title = "Krisztina Szabó"
-website = "http://www.krisztinaszabo.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/KSzabs72"
-
-_template = "people_single"
-+++
+---
+date: "2015-04-07T23:04:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-06-10T14:20:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428462214253/SzaboBoHuang_Fotor.jpg.jpg
+publishDate: "2015-04-07T23:04:00-04:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/calgary-opera.md
+- scene/companies/opra-de-qubec.md
+- scene/companies/edmonton-opera.md
+- scene/companies/off-centre-music-salon.md
+- scene/companies/esprit-orchestra.md
+slug: krisztina-szab
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/KSzabs72
+title: Krisztina Szabó
+website: http://www.krisztinaszabo.com/
+---
 Hungarian-Canadian mezzo-soprano Krisztina Szabó is highly sought after in both North America and Europe as an artist of supreme musicianship and stagecraft, and has become known for her promotion and performance of contemporary Canadian works. Among her many laudatory reviews, _Opera Canada_  declared her to be an “exceptional talent” after her performance of the title role of Dido in Purcell’s _Dido and Aeneas_, and after a performance with Tapestry Opera, the music blog, _Schmopera_ wrote that “her instrument is one-of-a-kind and she has cemented herself as a darling of Canadian experimental music and opera…her sensibility and sensitivity to the material is truly inspiring”.  In her hometown of Toronto, Canada, she has been nominated twice for a Dora Award for Outstanding Female Performance.
 
 In the 2017-18 season, Krisztina Szabó made her Royal Opera and Netherlands Opera débuts in George Benjamin’s new opera, _Lessons in Love and Violence_. She also appeared as Angel/Marie in Benjamin’s _Written on Skin_ for both Opera Philadelphia and the Holland Festival.  Other highlights include the performance and recording of prestigious Canadian composer, Ana Sokolovic’s _Pesma_ with Ensemble Contemporain de Montréal and the world premiere of Jeffrey Ryan’s _Emily Carr in Seven Scenes_ for Canadian Art Song Project.

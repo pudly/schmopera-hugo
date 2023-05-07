@@ -1,18 +1,30 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = "2018-01-21T12:55:00-05:00"
-lastmod = "2018-01-21T18:31:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516557234468/sq---hgo---elektra---piano-rehearsal---photographer-lynn-lane-26-3000x2000.jpg.jpg"
-primary_image_credit = "Christine Goerke (Elektra) in Elektra, Houston Grand Opera, 2018. Photo: Lynn Lane."
-publishDate = "2018-01-21T18:31:00-05:00"
-related_articles = ["articles/in-review-elektra.md","articles/talking-with-singers-christine-goerke.md"]
-related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/christine-goerke.md","scene/people/tamara-wilson.md","scene/people/greer-grimsley.md"]
-short_description = "If Strauss had not given Elektra so much deceptively tender waltz music of her own, then Chrysothemis&#039;s tender accompaniments (waltzes about mammaries) would come across as a moment of respite; however, by the time Chrysothemis is introduced, we know Elektra so well that nobody comes across as anything else other than a foil to her. "
-slug = "on-a-mental-precipice-hgos-elektra"
-title = "On a mental precipice: HGO&#039;s Elektra"
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2018-01-21T12:55:00-05:00"
+lastmod: "2018-01-21T18:31:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516557234468/sq---hgo---elektra---piano-rehearsal---photographer-lynn-lane-26-3000x2000.jpg.jpg
+primary_image_credit: 'Christine Goerke (Elektra) in Elektra, Houston Grand Opera,
+  2018. Photo: Lynn Lane.'
+publishDate: "2018-01-21T18:31:00-05:00"
+related_articles:
+- articles/in-review-elektra.md
+- articles/talking-with-singers-christine-goerke.md
+related_companies:
+- scene/companies/houston-grand-opera.md
+related_people:
+- scene/people/christine-goerke.md
+- scene/people/tamara-wilson.md
+- scene/people/greer-grimsley.md
+short_description: 'If Strauss had not given Elektra so much deceptively tender waltz
+  music of her own, then Chrysothemis&#039;s tender accompaniments (waltzes about
+  mammaries) would come across as a moment of respite; however, by the time Chrysothemis
+  is introduced, we know Elektra so well that nobody comes across as anything else
+  other than a foil to her. '
+slug: on-a-mental-precipice-hgos-elektra
+title: 'On a mental precipice: HGO&#039;s Elektra'
+---
 
 After a turbulent week which demonstrated to Houston the value of preparing for winter weather with an abundance of foresight, a German opera about revengeful Grecian princesses might be the last thing on people's minds. On the other hand, Richard Strauss's *Elektra* rather emphasizes the importance of expecting the unexpected, so it was actually very fitting that Houston Grand Opera's striking opening performance of this music drama was what ended a very chaotic week. 
 

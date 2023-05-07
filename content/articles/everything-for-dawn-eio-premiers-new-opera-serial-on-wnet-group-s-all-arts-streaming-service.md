@@ -1,22 +1,35 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2022-11-01T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "All Arts is available online nationwide through AllArts.org, the free All Arts app on all major streaming platforms and @AllArtsTV on YouTube, Facebook, Instagram, Twitter and TikTok. For all the ways to watch, visit [AllArts.org/Everywhere](https://www.allarts.org/everywhere/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1667351068/media/2022/11/EiO_Britt-Hewitt-and-Aaron-Engebreth-Photo-by-Aaron-Siegel-scaled_thqmgp.jpg"
-primary_image_credit = "Britt Hewitt and Aaron Engebreth in Experiments in Opera's production of Everything For Dawn. Photo by Aaron Siegel."
-related_articles = ["articles/living-up-to-its-name-experiments-in-opera.md", "articles/confessions-art-songs-that-are-deeply-personal.md"]
-related_companies = ["scene/companies/experiments-in-opera.md"]
-related_people = ["scene/people/sishel-claverie.md", "scene/people/laura-strickling.md", "scene/people/meroe-khalia-adeeb.md", "scene/people/joshua-conyers.md", "scene/people/eliza-bonet-1.md", "scene/people/britt-hewitt.md"]
-short_description = "short"
-slug = "everything-for-dawn-eio-premieres-new-opera-serial-on-wnet-groups-all-arts-streaming-service"
-title = "Everything For Dawn: EiO premieres new opera-serial on WNET Group’s All Arts streaming service"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2022-11-01T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: All Arts is available online nationwide through AllArts.org, the free All
+  Arts app on all major streaming platforms and @AllArtsTV on YouTube, Facebook, Instagram,
+  Twitter and TikTok. For all the ways to watch, visit [AllArts.org/Everywhere](https://www.allarts.org/everywhere/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1667351068/media/2022/11/EiO_Britt-Hewitt-and-Aaron-Engebreth-Photo-by-Aaron-Siegel-scaled_thqmgp.jpg
+primary_image_credit: Britt Hewitt and Aaron Engebreth in Experiments in Opera's production
+  of Everything For Dawn. Photo by Aaron Siegel.
+related_articles:
+- articles/living-up-to-its-name-experiments-in-opera.md
+- articles/confessions-art-songs-that-are-deeply-personal.md
+related_companies:
+- scene/companies/experiments-in-opera.md
+related_people:
+- scene/people/sishel-claverie.md
+- scene/people/laura-strickling.md
+- scene/people/meroe-khalia-adeeb.md
+- scene/people/joshua-conyers.md
+- scene/people/eliza-bonet-1.md
+- scene/people/britt-hewitt.md
+short_description: short
+slug: everything-for-dawn-eio-premieres-new-opera-serial-on-wnet-groups-all-arts-streaming-service
+title: 'Everything For Dawn: EiO premieres new opera-serial on WNET Group’s All Arts
+  streaming service'
+youtube_url: ""
+---
 No we're not on the cusp of rebooting [_opera seria_](https://en.wikipedia.org/wiki/Opera_seria), but serialized opera, or at least one constituting a genuine mini-series, is waiting to be watched. If operas are perceived as long and attention spans most definitely short, this newest effort from the Brooklyn-based [Experiments in Opera](/scene/companies/experiements-in-opera/) might serve to level the playing field. The series is currently available on [All Arts](https://www.allarts.org/programs/everything-for-dawn/), the streaming service of The WNET Group and widely accessible, free of charge.
 
 _Everything for Dawn_ is an opera in 10 installments, each running 20 minutes or so, with talk-backs following most. Viewers then are obligated to only 30 minutes of viewing at a time. Six writers, who ostensibly worked in a dedicated writer's room, contributed the librettos. Further testing the spirit of collaboration, each installment, with titles like "Stick With Me, Brother," and "Into a White Box" is by a different composer.

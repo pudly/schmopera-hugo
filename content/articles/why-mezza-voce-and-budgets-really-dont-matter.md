@@ -1,15 +1,21 @@
-+++
-author = ["authors/christopher-enns.md"]
-categories = "Op-ed"
-date = "2016-11-29T18:12:00+00:00"
-lastmod = "2016-11-30T16:16:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480443871710/2016-11-29---Crumpled-Bill.jpg.jpg"
-publishDate = "2016-11-30T16:02:00+00:00"
-related_articles = ["articles/what-crippling-stage-fright-taught-me-about-money.md"]
-short_description = "There are a million ways to communicate an awesome idea. I sing opera. Maybe you paint on canvas, or channel your soul through the words of Shakespeare. There are also a million ways to make peace with money. I use financial planning and teach it to others, but that doesn&#039;t mean it&#039;s the right tool for you."
-slug = "why-mezza-voce-and-budgets-really-dont-matter"
-title = "Why &#039;mezza voce&#039; and budgets really don&#039;t matter"
-+++
+---
+author:
+- authors/christopher-enns.md
+categories: Op-ed
+date: "2016-11-29T18:12:00+00:00"
+lastmod: "2016-11-30T16:16:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480443871710/2016-11-29---Crumpled-Bill.jpg.jpg
+publishDate: "2016-11-30T16:02:00+00:00"
+related_articles:
+- articles/what-crippling-stage-fright-taught-me-about-money.md
+short_description: There are a million ways to communicate an awesome idea. I sing
+  opera. Maybe you paint on canvas, or channel your soul through the words of Shakespeare.
+  There are also a million ways to make peace with money. I use financial planning
+  and teach it to others, but that doesn&#039;t mean it&#039;s the right tool for
+  you.
+slug: why-mezza-voce-and-budgets-really-dont-matter
+title: Why &#039;mezza voce&#039; and budgets really don&#039;t matter
+---
 
 Budgets don't matter.
 

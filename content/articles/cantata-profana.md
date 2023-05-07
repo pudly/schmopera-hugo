@@ -1,21 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-01-10T01:29:24+00:00"
-disclaimer = ""
-image_gallery = []
-preamble = "New York-based ensemble [Cantata Profana](https://www.cantataprofana.com/meet-cp) is gearing up for its latest concert, [_Visions of Silence_](https://www.cantataprofana.com/tickets), January 18 & 19 at St. Peter's Chelsea. The headlining piece on the programme is Salvatore Sciarrino's \"Ecstasy in One Act\", _Infinito Nero_ (1998); the work is scored for voice and eight instruments, each representing one of the eight scribes who took down the words of 17th-century visionary and saint, [Maria Maddalena de' Pazzi](https://en.wikipedia.org/wiki/Mary_Magdalene_de%27_Pazzi). We spoke with Jacob Ashworth, violinist, conductor, and Cantata Profana Artistic Director, about the ensemble's insatiable hunt for excellent music."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547084016/media/2019/01/sqJacobAshworthHeadshot.jpg"
-primary_image_credit = "Photo by David Fung."
-related_articles = ["articles/heartbeats-giovanni-successfully-bucks-tradition.md", "articles/a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza.md"]
-related_companies = []
-related_people = []
-short_description = "\"If you want to see our bucket list, there's about a hundred pages of endless Google docs of repertoire ideas that we've been marinating for years. Some pieces stay on the list because they are just waiting for the right venue, the right collaborators, the right concert.\""
-slug = "cantata-profana-set-to-present-a-total-masterpiece-in-visions-of-silence"
-title = "Cantata Profana set to present \"a total masterpiece\" in Visions of Silence"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-01-10T01:29:24+00:00"
+disclaimer: ""
+image_gallery: []
+preamble: New York-based ensemble [Cantata Profana](https://www.cantataprofana.com/meet-cp)
+  is gearing up for its latest concert, [_Visions of Silence_](https://www.cantataprofana.com/tickets),
+  January 18 & 19 at St. Peter's Chelsea. The headlining piece on the programme is
+  Salvatore Sciarrino's "Ecstasy in One Act", _Infinito Nero_ (1998); the work is
+  scored for voice and eight instruments, each representing one of the eight scribes
+  who took down the words of 17th-century visionary and saint, [Maria Maddalena de'
+  Pazzi](https://en.wikipedia.org/wiki/Mary_Magdalene_de%27_Pazzi). We spoke with
+  Jacob Ashworth, violinist, conductor, and Cantata Profana Artistic Director, about
+  the ensemble's insatiable hunt for excellent music.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1547084016/media/2019/01/sqJacobAshworthHeadshot.jpg
+primary_image_credit: Photo by David Fung.
+related_articles:
+- articles/heartbeats-giovanni-successfully-bucks-tradition.md
+- articles/a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza.md
+related_companies: []
+related_people: []
+short_description: '"If you want to see our bucket list, there''s about a hundred
+  pages of endless Google docs of repertoire ideas that we''ve been marinating for
+  years. Some pieces stay on the list because they are just waiting for the right
+  venue, the right collaborators, the right concert."'
+slug: cantata-profana-set-to-present-a-total-masterpiece-in-visions-of-silence
+title: Cantata Profana set to present "a total masterpiece" in Visions of Silence
+youtube_url: ""
+---
 ### What are the creative advantages of Cantata Profana's dual focus on early music and new music?
 
 To me all of music history is just one ever-expanding epic story. So I like to be able to draw on any part of that story when making a show. We're lucky to have such a wealth of specialities in the group on every kind of period and modern instrument, so we can create fresh, new connections across enormous stretches of time and geography with the conviction that we're really inhabiting each style. Or put another way, we're all nerds about such different kinds of music that we can plop ourselves in any time period or musical genre and chances it'll be someone's wheelhouse and they can teach the rest of us. And that’s how we learn together as a group and how we've tackled so much repertoire over the years.

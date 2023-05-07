@@ -1,22 +1,36 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = 2020-01-23T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "The Canadian Opera Company's production of [_The Barber of Seville_](https://www.coc.ca/productions/18712) runs at the Four Seasons Centre through February 7."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1579809835/media/2020/01/19-20-03-MC-D-1348_kjg2sd.jpg"
-primary_image_credit = "(l-r) Renato Girolami as Bartolo and Vito Priante as Figaro in the Canadian Opera Company’s production of The Barber of Seville, 2020, photo: Michael Cooper."
-related_articles = ["articles/hadrian-a-true-grand-opera.md", "articles/not-quite-review-coc-ensemble-barber-of-seville.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/simona-genga.md", "scene/people/joel-allison.md", "scene/people/santiago-ballerini.md", "scene/people/vito-priante.md", "scene/people/emily-dangelo.md"]
-short_description = "Directed by Joan Font with choreography by Xevi Dorca, this revival of the 2015 production with set and costumes by Joan Guillén, is described in the program notes by the director as \"action that could happen\" in the 19th century, or even today in Toronto. I do beg to differ."
-slug = "leading-ladies-steal-barber-of-seville-at-coc"
-title = "Leading ladies steal Barber of Seville at COC"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2020-01-23T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: The Canadian Opera Company's production of [_The Barber of Seville_](https://www.coc.ca/productions/18712)
+  runs at the Four Seasons Centre through February 7.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1579809835/media/2020/01/19-20-03-MC-D-1348_kjg2sd.jpg
+primary_image_credit: '(l-r) Renato Girolami as Bartolo and Vito Priante as Figaro
+  in the Canadian Opera Company’s production of The Barber of Seville, 2020, photo:
+  Michael Cooper.'
+related_articles:
+- articles/hadrian-a-true-grand-opera.md
+- articles/not-quite-review-coc-ensemble-barber-of-seville.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/simona-genga.md
+- scene/people/joel-allison.md
+- scene/people/santiago-ballerini.md
+- scene/people/vito-priante.md
+- scene/people/emily-dangelo.md
+short_description: Directed by Joan Font with choreography by Xevi Dorca, this revival
+  of the 2015 production with set and costumes by Joan Guillén, is described in the
+  program notes by the director as "action that could happen" in the 19th century,
+  or even today in Toronto. I do beg to differ.
+slug: leading-ladies-steal-barber-of-seville-at-coc
+title: Leading ladies steal Barber of Seville at COC
+youtube_url: ""
+---
 The Canadian Opera Company started off their 2020 with one of the biggest hits of the canon: Rossini's _The Barber of Seville_. It's the first chapter of the Beaumarchais trilogy that also brings us Mozart's _Le nozze di Figaro_; it's in this instalment where we see a young Count Almaviva trying to woo and wed the ward of Doctor Bartolo, Rosina. (Which adds a bizarre layer when you think of the sextet in the Mozart, but I digress...)
 
 To do so, Almaviva must bamboozle Bartolo, Don Basilio, Rosina herself, and the entire constabulary. Yes, it's a comedy. Yes, he succeeds. Yes, there's a wedding. Yes, they repeat what they say, _a lot_. #BelCanto

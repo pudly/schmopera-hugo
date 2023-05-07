@@ -1,17 +1,28 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = "2017-10-23T13:27:00-04:00"
-lastmod = "2017-10-24T23:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508779445548/2017-10-23---square---hgo---la-traviata---2017---photographer-lynn-lane-187-3000x2000.jpg.jpg"
-publishDate = "2017-10-24T20:42:00-04:00"
-related_articles = ["articles/a-shining-violetta-in-washington.md","articles/strong-ensemble-lifts-edmonton-opera-production-of-la-traviata.md"]
-related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/albina-shagimuratova.md","scene/people/dimitri-pittas.md","scene/people/richard-trey-smagur.md"]
-short_description = "I would say that this production is a very reasonable first opera to go to, all things considered, and that this is a production which will have delights to offer any but the most snobbish operagoer. For the seasoned conoisseur, it will offer orchestral variety, fluent dramatic text-setting, and proof that Italian composers can simultaneously manage subtlety ands passion."
-slug = "la-traviata-shows-houston-how-to-arise"
-title = "La traviata shows Houston how to arise"
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2017-10-23T13:27:00-04:00"
+lastmod: "2017-10-24T23:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508779445548/2017-10-23---square---hgo---la-traviata---2017---photographer-lynn-lane-187-3000x2000.jpg.jpg
+publishDate: "2017-10-24T20:42:00-04:00"
+related_articles:
+- articles/a-shining-violetta-in-washington.md
+- articles/strong-ensemble-lifts-edmonton-opera-production-of-la-traviata.md
+related_companies:
+- scene/companies/houston-grand-opera.md
+related_people:
+- scene/people/albina-shagimuratova.md
+- scene/people/dimitri-pittas.md
+- scene/people/richard-trey-smagur.md
+short_description: I would say that this production is a very reasonable first opera
+  to go to, all things considered, and that this is a production which will have delights
+  to offer any but the most snobbish operagoer. For the seasoned conoisseur, it will
+  offer orchestral variety, fluent dramatic text-setting, and proof that Italian composers
+  can simultaneously manage subtlety ands passion.
+slug: la-traviata-shows-houston-how-to-arise
+title: La traviata shows Houston how to arise
+---
 
 (A disclaimer for those expecting references to the momentous sporting events of Saturday last: the only bases in this review are double basses.)
 

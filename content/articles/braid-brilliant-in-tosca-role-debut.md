@@ -1,18 +1,29 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Review"
-date = "2018-04-21T20:52:00-04:00"
-lastmod = "2018-04-24T10:35:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524358290021/sqTosca.jpg.jpg"
-primary_image_credit = "Ambur Braid (Tosca) and Gregory Dahl (Scarpia) in Tosca, Calgary Opera, 2018. Photo: Trudie Lee."
-publishDate = "2018-04-22T10:16:00-04:00"
-related_articles = ["articles/talking-with-singers-jennifer-rowley.md"]
-related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md"]
-related_people = ["scene/people/ambur-braid.md","scene/people/gregory-dahl.md","scene/people/luc-robert.md","scene/people/geoffrey-schellenberg.md"]
-short_description = "Her performance was made more exquisite by the fact she sang the whole aria on the floor, often in positions that would make most voice teachers and coaches cringe. And yet, her sound never suffered, maintaining her presence well above the swell of the orchestra, in nothing short of a world-class performance."
-slug = "braid-brilliant-in-tosca-role-debut"
-title = "Braid &quot;brilliant&quot; in Tosca role debut"
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Review
+date: "2018-04-21T20:52:00-04:00"
+lastmod: "2018-04-24T10:35:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524358290021/sqTosca.jpg.jpg
+primary_image_credit: 'Ambur Braid (Tosca) and Gregory Dahl (Scarpia) in Tosca, Calgary
+  Opera, 2018. Photo: Trudie Lee.'
+publishDate: "2018-04-22T10:16:00-04:00"
+related_articles:
+- articles/talking-with-singers-jennifer-rowley.md
+related_companies:
+- scene/companies/calgary-opera-emerging-artist-development-program.md
+related_people:
+- scene/people/ambur-braid.md
+- scene/people/gregory-dahl.md
+- scene/people/luc-robert.md
+- scene/people/geoffrey-schellenberg.md
+short_description: Her performance was made more exquisite by the fact she sang the
+  whole aria on the floor, often in positions that would make most voice teachers
+  and coaches cringe. And yet, her sound never suffered, maintaining her presence
+  well above the swell of the orchestra, in nothing short of a world-class performance.
+slug: braid-brilliant-in-tosca-role-debut
+title: Braid &quot;brilliant&quot; in Tosca role debut
+---
 
 When you debut a role as iconic as Floria Tosca, when do you suppose you have your best performance during the course of a three-show run?
 

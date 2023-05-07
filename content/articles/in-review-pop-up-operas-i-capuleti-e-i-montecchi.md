@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-04-05T13:29:00+01:00"
-lastmod = "2017-04-05T16:11:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491403021716/2017-04-04---Pop-Up-Opera-Bellini-I-Capuleti-e-I-Montecchi-Alice-Privett-as-Giulietta-courtesy-Richard-Lakos.jpg.jpg"
-primary_image_credit = "Alice Privett as Giulietta in I Capuleti e i Montecchi, Pop Up Opera, 2017. Photo by Richard Lakos."
-publishDate = "2017-04-05T15:47:00+01:00"
-related_articles = ["articles/in-review-norma-at-roh.md","articles/in-review-snow.md"]
-related_companies = ["scene/companies/popup-opera.md"]
-related_people = ["scene/people/alice-privett.md","scene/people/flora-mcintosh.md","scene/people/cliff-zammit-stevens.md","scene/people/andrew-tipple.md","scene/people/richard-immergluck.md"]
-short_description = "Pop Up Opera&#039;s touring production of I Capuleti e i Montecchi has traveled across the southern UK for nearly a month, and it&#039;s impressive that the production, directed by James Hurley, feels at home in its latest London venue. The action takes place in the round, and the cast of five make a handful of forays into the crowd; it&#039;s one of the advantages - responsibilities, even - of performing with an audience at arm&#039;s length."
-slug = "in-review-pop-up-operas-i-capuleti-e-i-montecchi"
-title = "In review: Pop Up Opera&#039;s I Capuleti e i Montecchi"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-04-05T13:29:00+01:00"
+lastmod: "2017-04-05T16:11:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491403021716/2017-04-04---Pop-Up-Opera-Bellini-I-Capuleti-e-I-Montecchi-Alice-Privett-as-Giulietta-courtesy-Richard-Lakos.jpg.jpg
+primary_image_credit: Alice Privett as Giulietta in I Capuleti e i Montecchi, Pop
+  Up Opera, 2017. Photo by Richard Lakos.
+publishDate: "2017-04-05T15:47:00+01:00"
+related_articles:
+- articles/in-review-norma-at-roh.md
+- articles/in-review-snow.md
+related_companies:
+- scene/companies/popup-opera.md
+related_people:
+- scene/people/alice-privett.md
+- scene/people/flora-mcintosh.md
+- scene/people/cliff-zammit-stevens.md
+- scene/people/andrew-tipple.md
+- scene/people/richard-immergluck.md
+short_description: Pop Up Opera&#039;s touring production of I Capuleti e i Montecchi
+  has traveled across the southern UK for nearly a month, and it&#039;s impressive
+  that the production, directed by James Hurley, feels at home in its latest London
+  venue. The action takes place in the round, and the cast of five make a handful
+  of forays into the crowd; it&#039;s one of the advantages - responsibilities, even
+  - of performing with an audience at arm&#039;s length.
+slug: in-review-pop-up-operas-i-capuleti-e-i-montecchi
+title: 'In review: Pop Up Opera&#039;s I Capuleti e i Montecchi'
+---
 
 The raw concrete cylinder of the Thames Tunnel Shaft at the Brunel Museum is a delicious spot for an opera. The acoustics are generous, the space is adaptive, and for companies like [Pop Up Opera](/scene/companies/pop-up-opera/), who specialize in unorthodox performance venues, there's a gritty, blank-slate quality that's conducive to getting creative with classic operas.
 

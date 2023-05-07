@@ -1,22 +1,28 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2022-02-16T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1645020381/media/2022/02/sqSundayCarnegie_Thurman.jpg_udtfpl.jpg"
-primary_image_credit = "Uma Thurman as the Narrator in André Previn and Tom Stoppard's \"Penelope\". Photo: Chris Lee."
-related_articles = ["articles/renee-fleming-tso.md", "articles/renee-fleming-brings-a-new-luster-to-dumbarton-oaks.md"]
-related_companies = []
-related_people = ["scene/people/renee-fleming.md"]
-short_description = "The composite was a perceptive and refreshingly theatrical portrait of a complex and insightful woman, a musically shimmering, angry and sometimes languid conclusion to an extraordinary Sunday afternoon at Carnegie Hall."
-slug = "a-sunday-afternoon-at-carnegie-hall"
-title = "A Sunday afternoon at Carnegie Hall"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2022-02-16T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1645020381/media/2022/02/sqSundayCarnegie_Thurman.jpg_udtfpl.jpg
+primary_image_credit: 'Uma Thurman as the Narrator in André Previn and Tom Stoppard''s
+  "Penelope". Photo: Chris Lee.'
+related_articles:
+- articles/renee-fleming-tso.md
+- articles/renee-fleming-brings-a-new-luster-to-dumbarton-oaks.md
+related_companies: []
+related_people:
+- scene/people/renee-fleming.md
+short_description: The composite was a perceptive and refreshingly theatrical portrait
+  of a complex and insightful woman, a musically shimmering, angry and sometimes languid
+  conclusion to an extraordinary Sunday afternoon at Carnegie Hall.
+slug: a-sunday-afternoon-at-carnegie-hall
+title: A Sunday afternoon at Carnegie Hall
+youtube_url: ""
+---
 On paper this concert looked like a gala event with a roster of artists too starry for a Sunday afternoon—even at Carnegie Hall. It was a heady group headlined by Renée Fleming and the Emerson String Quartet. Also included were the distinctive pianist Simone Dinnerstein and acclaimed actress Uma Thurman.
 
 They were assembled not to make star turns, but to perform the New York premiere of the late Andre Previn's final composition, the monodrama _Penelope_. The libretto is by none other than Tom Stoppard, drawn from the story of Odysseus and Penelope in Homer’s _Odyssey_. But Homer's patient Queen of Ithaca would have to wait until after intermission. First there was a dream of a program that subtly evoked themes associated with Penelope’s dilemma. However celebrated the artists, the afternoon succeeded with an abiding philosophical spirit and stunning modesty.

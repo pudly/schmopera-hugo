@@ -1,18 +1,21 @@
-+++
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558572973/media/2019/05/NjabuloMadlala.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/grange-park-opera.md", "scene/companies/opera-holland-park.md", "scene/companies/english-national-opera.md", "scene/companies/royal-opera-house.md"]
-slug = "njabulo-madlala"
-title = "Njabulo Madlala"
-website = "http://njabulomadlala.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Njabza"
-
-_template = "people_single"
-+++
+---
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1558572973/media/2019/05/NjabuloMadlala.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/grange-park-opera.md
+- scene/companies/opera-holland-park.md
+- scene/companies/english-national-opera.md
+- scene/companies/royal-opera-house.md
+slug: njabulo-madlala
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Njabza
+title: Njabulo Madlala
+website: http://njabulomadlala.com/
+---
 Njabulo Madlala was born in Durban, South Africa. In 2002 he won a scholarship to study at the Guildhall School of Music & Drama for graduate and postgraduate studies. He went on to study for a further year at the Cardiff International Academy of Voice with Dennis O’Neill. Additionally, Njabulo has been a Britten Pears Young Artist, a Samling Artist and a young artist at the Ravinia International Festival in the USA.
 
 Among his accolades Njabulo is the winner of the 2010 Kathleen Ferrier Award, 2012 Singers Section Final of the Royal Overseas League Competition, the 2012 Lorna Viol Memorial Prize, the Royal Overseas League Trophy for the most outstanding musician from overseas and Standard Bank Young Artist Award for 2014.

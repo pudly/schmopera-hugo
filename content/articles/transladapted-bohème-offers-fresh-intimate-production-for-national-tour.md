@@ -1,22 +1,38 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Review"
-date = "2019-09-30T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Following its performances in Banff and Calgary, [Against the Grain Theatre's travelling production](http://againstthegraintheatre.com/la-boheme/) hits 7 more cities before arriving in Toronto on October 11. The tour concludes with three performances in Whitehorse (Nov. 4-5) and Dawson City, Yukon (Nov. 7)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569891183/media/2019/10/sqATG_Banff-5014_txy2h3.jpg"
-primary_image_credit = "The cast of La bohème, Against the Grain Theatre, 2019: (l-r) Jonelle Sills (Mimì), Marcel D'Entremont (Rodolfo), Andrew Adridge (Schaunard), Giles Tomkins (Colline), Clarence Frazer (Marcello), Danika Lorèn (Musetta) and Gregory Finney (Benoit/Alcindoro). Photo courtesy of The Banff Centre."
-related_articles = []
-related_companies = ["scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/giles-tomkins.md", "scene/people/marcel-dentremont.md", "scene/people/jonelle-sills.md", "scene/people/clarence-frazer.md", "scene/people/gregory-finney.md", "scene/people/danika-lorn.md"]
-short_description = "At the same time, the limited set design accentuates the quality of the music to tell the story of La bohème, from the virtuosic one-man orchestra in pianist David Eliakis, to the cast. And in a smaller space, the story becomes even more intimate and heart-wrenching."
-slug = "transladapted-boheme-offers-fresh-intimate-production-for-national-tour"
-title = "\"Transladapted\" Bohème offers fresh, intimate production for national tour"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Review
+date: "2019-09-30T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Following its performances in Banff and Calgary, [Against the Grain Theatre's
+  travelling production](http://againstthegraintheatre.com/la-boheme/) hits 7 more
+  cities before arriving in Toronto on October 11. The tour concludes with three performances
+  in Whitehorse (Nov. 4-5) and Dawson City, Yukon (Nov. 7).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569891183/media/2019/10/sqATG_Banff-5014_txy2h3.jpg
+primary_image_credit: 'The cast of La bohème, Against the Grain Theatre, 2019: (l-r)
+  Jonelle Sills (Mimì), Marcel D''Entremont (Rodolfo), Andrew Adridge (Schaunard),
+  Giles Tomkins (Colline), Clarence Frazer (Marcello), Danika Lorèn (Musetta) and
+  Gregory Finney (Benoit/Alcindoro). Photo courtesy of The Banff Centre.'
+related_articles: []
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/giles-tomkins.md
+- scene/people/marcel-dentremont.md
+- scene/people/jonelle-sills.md
+- scene/people/clarence-frazer.md
+- scene/people/gregory-finney.md
+- scene/people/danika-lorn.md
+short_description: At the same time, the limited set design accentuates the quality
+  of the music to tell the story of La bohème, from the virtuosic one-man orchestra
+  in pianist David Eliakis, to the cast. And in a smaller space, the story becomes
+  even more intimate and heart-wrenching.
+slug: transladapted-boheme-offers-fresh-intimate-production-for-national-tour
+title: '"Transladapted" Bohème offers fresh, intimate production for national tour'
+youtube_url: ""
+---
 If you were in Calgary, this weekend, how did you spend the snowy Saturday night? For the first time in a long time, I went to the bar. But not just any bar: this is the travelling bar of Toronto-based Against the Grain Theatre, and its touring production of Puccini's _La bohème_.
 
 For its 10th season, Against the Grain (AtG) takes its acclaimed production of Giacomo Puccini's classic across the country. On this night, the company's convoy of minivans and U-hauls pulled into Calgary, fresh off a performance in Banff the night before. The English-language performance is a new libretto by AtG founder Joel Ivany, which includes opportunities to transplant the production from 1830 Paris to 2019 Canada. The themes, however, remain as prevalent as ever: starving artists trying to make a living in an increasingly expensive world, the bond of friendship, and the tragedy of a life cut short too soon.

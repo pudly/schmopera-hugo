@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-11-15T13:51:00-05:00"
-lastmod = "2015-11-18T17:45:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447886426197/2015-11-14---GGSOperaSquare.jpg.jpg"
-primary_image_credit = "Shauna Yarnell, Lillan Brooks, and Christina Campsall in Luciano Berio's Folk Songs. Photo by Stuart Lowe,"
-publishDate = "2015-11-15T14:57:00-05:00"
-related_articles = ["articles/joel-ivany-were-throwing-a-salon.md"]
-related_companies = ["scene/companies/royal-conservatory-of-music.md"]
-related_people = ["scene/people/liza-balkan.md","scene/people/christina-campsall.md"]
-short_description = "The Glenn Gould School presented its fall opera this week, a double bill of Xavier Montsalvatge&#039;s El gato con botas (Puss in Boots), and Luciano Berio&#039;s Folk Songs. The two shows are objectively different in musical style and dramatic inspiration, but director Liza Balkan writes that pairing El gato and Folk Songs &quot;is a desire for storytelling that embraces surprise, humour, truth, freedom of play, and a willingness to be fearless and intimate with you, the audience.&quot;"
-slug = "in-review-puss-in-boots-berios-folk-songs"
-title = "In review: Puss in Boots &amp; Berio&#039;s Folk Songs"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-11-15T13:51:00-05:00"
+lastmod: "2015-11-18T17:45:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447886426197/2015-11-14---GGSOperaSquare.jpg.jpg
+primary_image_credit: Shauna Yarnell, Lillan Brooks, and Christina Campsall in Luciano
+  Berio's Folk Songs. Photo by Stuart Lowe,
+publishDate: "2015-11-15T14:57:00-05:00"
+related_articles:
+- articles/joel-ivany-were-throwing-a-salon.md
+related_companies:
+- scene/companies/royal-conservatory-of-music.md
+related_people:
+- scene/people/liza-balkan.md
+- scene/people/christina-campsall.md
+short_description: The Glenn Gould School presented its fall opera this week, a double
+  bill of Xavier Montsalvatge&#039;s El gato con botas (Puss in Boots), and Luciano
+  Berio&#039;s Folk Songs. The two shows are objectively different in musical style
+  and dramatic inspiration, but director Liza Balkan writes that pairing El gato and
+  Folk Songs &quot;is a desire for storytelling that embraces surprise, humour, truth,
+  freedom of play, and a willingness to be fearless and intimate with you, the audience.&quot;
+slug: in-review-puss-in-boots-berios-folk-songs
+title: 'In review: Puss in Boots &amp; Berio&#039;s Folk Songs'
+---
 
 The Glenn Gould School presented its fall opera this week, a double bill of Xavier Montsalvatge's *El gato con botas* (*Puss in Boots*), and Luciano Berio's *Folk Songs*. The two shows are objectively different in musical style and dramatic inspiration, but director [Liza Balkan](/meet-the-director-liza-balkan/) writes that pairing *El gato* and *Folk Songs* "is a desire for storytelling that embraces surprise, humour, truth, freedom of play, and a willingness to be fearless and intimate with you, the audience."
 

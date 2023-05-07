@@ -1,18 +1,32 @@
-+++
-author = ["authors/thomas-pierce.md"]
-categories = "Review"
-date = "2017-12-19T21:03:00-05:00"
-lastmod = "2017-12-19T21:03:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513735176151/sq---DOMINIC-SEDGWICK-AS-MARULLO%2C-DIMITIRI-PLATANIAS-AS-RIGOLETTO-ROH.-PHOTO-BY-MARK-DOUET_31B2186.jpg.jpg"
-primary_image_credit = "Dimitri Platanias in the title role of Rigoletto, ROH, 2017. Photo: Mark Douet."
-publishDate = "2017-12-19T21:03:00-05:00"
-related_articles = ["articles/in-review-rigoletto-at-eno.md","articles/searching-for-superlatives-locs-suberb-rigoletto.md","articles/great-music-distracting-sexuality-rigoletto.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/rolando-villazon.md","scene/people/dimitri-platanias.md","scene/people/sofia-fomina.md","scene/people/lucy-crowe.md"]
-short_description = "A patch of barbed wire symbolised Gilda&#039;s fragility in this ruthless world. Giovanna, Gilda&#039;s nurse, meets the Duke and the two converse through the fence. A slit in the middle of it, hinting at Gilda&#039;s sexuality, becomes the medium for the Duke to bribe Giovanna, and he punches his fist through it in boorish coarseness. Gilda is clearly too pure for this world."
-slug = "the-price-of-vengeance-rigoletto-at-roh"
-title = "The price of vengeance: Rigoletto at ROH"
-+++
+---
+author:
+- authors/thomas-pierce.md
+categories: Review
+date: "2017-12-19T21:03:00-05:00"
+lastmod: "2017-12-19T21:03:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513735176151/sq---DOMINIC-SEDGWICK-AS-MARULLO%2C-DIMITIRI-PLATANIAS-AS-RIGOLETTO-ROH.-PHOTO-BY-MARK-DOUET_31B2186.jpg.jpg
+primary_image_credit: 'Dimitri Platanias in the title role of Rigoletto, ROH, 2017.
+  Photo: Mark Douet.'
+publishDate: "2017-12-19T21:03:00-05:00"
+related_articles:
+- articles/in-review-rigoletto-at-eno.md
+- articles/searching-for-superlatives-locs-suberb-rigoletto.md
+- articles/great-music-distracting-sexuality-rigoletto.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/rolando-villazon.md
+- scene/people/dimitri-platanias.md
+- scene/people/sofia-fomina.md
+- scene/people/lucy-crowe.md
+short_description: A patch of barbed wire symbolised Gilda&#039;s fragility in this
+  ruthless world. Giovanna, Gilda&#039;s nurse, meets the Duke and the two converse
+  through the fence. A slit in the middle of it, hinting at Gilda&#039;s sexuality,
+  becomes the medium for the Duke to bribe Giovanna, and he punches his fist through
+  it in boorish coarseness. Gilda is clearly too pure for this world.
+slug: the-price-of-vengeance-rigoletto-at-roh
+title: 'The price of vengeance: Rigoletto at ROH'
+---
 
 Vendetta: that infamous word, tarnished by association with Mafia bloodshed and *The Godfather*. Vendettas have a nasty tendency to self-perpetuate, as each act of retribution in turn generates further reprisals, ad infinitum. The burning lust for revenge can be passed on for generations, until groups have long forgotten why they despise their opponents in the first place. Vendetta plays a central role in Verdi's opera *Rigoletto*. After all, one of the eponymous character's most celebrated arias is "Si! Vendetta, tremenda vendetta!"
 

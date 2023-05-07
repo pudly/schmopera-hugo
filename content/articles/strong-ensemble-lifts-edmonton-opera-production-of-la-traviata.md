@@ -1,18 +1,29 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Review"
-date = "2018-10-22T12:32:00-04:00"
-lastmod = "2018-10-22T19:40:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540225858795/sq01MITCHELL_Violetta.jpg.jpg"
-primary_image_credit = "Laquita Mitchell as Violetta in La traviata, Edmonton Opera, 2018. Photo: Nanc Price."
-publishDate = "2018-10-22T19:40:00-04:00"
-related_articles = ["articles/heartfelt-and-intimate-manitoba-operas-la-traviata.md","articles/la-traviata-shows-houston-how-to-arise.md"]
-related_companies = ["scene/companies/edmonton-opera.md"]
-related_people = ["scene/people/laquita-mitchell.md","scene/people/jason-bridges.md","scene/people/james-westman.md"]
-short_description = "The night, however, belonged to baritone James Westman and his standout performance of Giorgio Germont, Alfredo&#039;s father. Westman has considerable longevity with this role; he will play Germont for the 200th time in the spring of 2019 in a celebrated career that has spanned two decades."
-slug = "strong-ensemble-lifts-edmonton-opera-production-of-la-traviata"
-title = "Strong ensemble lifts Edmonton Opera production of La traviata"
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Review
+date: "2018-10-22T12:32:00-04:00"
+lastmod: "2018-10-22T19:40:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540225858795/sq01MITCHELL_Violetta.jpg.jpg
+primary_image_credit: 'Laquita Mitchell as Violetta in La traviata, Edmonton Opera,
+  2018. Photo: Nanc Price.'
+publishDate: "2018-10-22T19:40:00-04:00"
+related_articles:
+- articles/heartfelt-and-intimate-manitoba-operas-la-traviata.md
+- articles/la-traviata-shows-houston-how-to-arise.md
+related_companies:
+- scene/companies/edmonton-opera.md
+related_people:
+- scene/people/laquita-mitchell.md
+- scene/people/jason-bridges.md
+- scene/people/james-westman.md
+short_description: The night, however, belonged to baritone James Westman and his
+  standout performance of Giorgio Germont, Alfredo&#039;s father. Westman has considerable
+  longevity with this role; he will play Germont for the 200th time in the spring
+  of 2019 in a celebrated career that has spanned two decades.
+slug: strong-ensemble-lifts-edmonton-opera-production-of-la-traviata
+title: Strong ensemble lifts Edmonton Opera production of La traviata
+---
 
 Giuseppe Verdi got a lot of things right with *La traviata*: lush music for a story with universal themes such as love, sacrifice and redemption, and beautiful music for the larger-than-life characters. Walking into the opening-night performance of [*La traviata*](https://www.edmontonopera.com/2018-19/la-traviata/) with [Edmonton Opera](/scene/companies/edmonton-opera/), you could feel the energy of both excitement and expectation.
 

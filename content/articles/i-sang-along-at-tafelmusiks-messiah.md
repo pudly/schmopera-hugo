@@ -1,19 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-12-22T09:16:00-05:00"
-lastmod = "2015-04-12T18:24:00-04:00"
-preamble = "Ivars Taurins in character as George Friedrich Handel at Tafelmusik's 28th annual Sing-Along Messiah."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428876123686/Ivars_Taurins_Handel1.jpg.jpg"
-primary_image_credit = "Photo: Gary Beechey."
-publishDate = "2014-12-22T09:16:00-05:00"
-related_articles = ["articles/all-about-the-tafelmusik-baroque-summer-institute.md","articles/thank-you-for-the-music.md","articles/he-saidshe-said-a-tale-of-two-messiahs.md","articles/dont-miss-haus-musik.md","articles/dont-miss-the-drama-devotion-of-agostino-steffani.md"]
-related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md"]
-related_people = ["scene/people/brett-polegato.md","scene/people/lydia-teuscher.md"]
-short_description = "Sunday, December 21st was 2014’s Winter Soltice, and it was an apt day to head over to Massey Hall and hear Tafelmusik’s 28th annual Sing-Along Messiah. I had actually never been to a Sing-Along Messiah, save for the obligatory singing-along of the Hallelujah Chorus at all the other Messiahs I’ve seen. "
-slug = "i-sang-along-at-tafelmusiks-messiah"
-title = "I sang along at Tafelmusik&#039;s Messiah"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-12-22T09:16:00-05:00"
+lastmod: "2015-04-12T18:24:00-04:00"
+preamble: Ivars Taurins in character as George Friedrich Handel at Tafelmusik's 28th
+  annual Sing-Along Messiah.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428876123686/Ivars_Taurins_Handel1.jpg.jpg
+primary_image_credit: 'Photo: Gary Beechey.'
+publishDate: "2014-12-22T09:16:00-05:00"
+related_articles:
+- articles/all-about-the-tafelmusik-baroque-summer-institute.md
+- articles/thank-you-for-the-music.md
+- articles/he-saidshe-said-a-tale-of-two-messiahs.md
+- articles/dont-miss-haus-musik.md
+- articles/dont-miss-the-drama-devotion-of-agostino-steffani.md
+related_companies:
+- scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md
+related_people:
+- scene/people/brett-polegato.md
+- scene/people/lydia-teuscher.md
+short_description: 'Sunday, December 21st was 2014’s Winter Soltice, and it was an
+  apt day to head over to Massey Hall and hear Tafelmusik’s 28th annual Sing-Along
+  Messiah. I had actually never been to a Sing-Along Messiah, save for the obligatory
+  singing-along of the Hallelujah Chorus at all the other Messiahs I’ve seen. '
+slug: i-sang-along-at-tafelmusiks-messiah
+title: I sang along at Tafelmusik&#039;s Messiah
+---
 
 Sunday, December 21st was 2014's Winter Soltice, and it was an apt day to head over to Massey Hall and hear [Tafelmusik's 28th annual Sing-Along _Messiah_](http://www.tafelmusik.org/concert-calendar/concert/sing-along-messiah-massey-hall). I had actually never been to a Sing-Along _Messiah_, save for the obligatory singing-along of the Hallelujah Chorus at all the other _Messiahs_ I've seen. So it was really neat for me to turn off of Yonge St. and see a crowd of people outside the theatre, plenty of them clutching a Novello edition of Handel's _Messiah_ under their arm. Toronto _Messiah_-goers come prepared. I opted for trusting my memory with the choruses instead, although I'll admit to sneaking a glance at my neighbour's score on a few occasions.
 

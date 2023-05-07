@@ -1,15 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-04-10T21:06:00-04:00"
-lastmod = "2015-04-12T18:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714180897/EvelynNesbit.jpg.jpg"
-publishDate = "2015-03-30T09:05:00-04:00"
-related_articles = ["articles/why-we-all-love-florence-foster-jenkins.md","articles/5-people-who-would-make-great-opera-roles.md","articles/schoenbergbach-other-unlikely-pairs-atg-theatre-heads-to-tiff.md","articles/sawney-bean-his-cannibal-clan-would-make-a-great-opera.md","articles/dont-miss-bandits-in-the-valley.md"]
-short_description = " I think the story, the mythology, even, of the Gibson Girl would make a great opera in itself. The story could speak about women, men, the media, the human urge to follow trends; there&#039;s even a story in the lives of Mr. and Mrs. Gibson, whose understanding of social issues seemed ahead of their time."
-slug = "gibson-girls-and-the-great-opera-theyd-make"
-title = "Gibson Girls, and the Great Opera They&#039;d Make"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-04-10T21:06:00-04:00"
+lastmod: "2015-04-12T18:48:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714180897/EvelynNesbit.jpg.jpg
+publishDate: "2015-03-30T09:05:00-04:00"
+related_articles:
+- articles/why-we-all-love-florence-foster-jenkins.md
+- articles/5-people-who-would-make-great-opera-roles.md
+- articles/schoenbergbach-other-unlikely-pairs-atg-theatre-heads-to-tiff.md
+- articles/sawney-bean-his-cannibal-clan-would-make-a-great-opera.md
+- articles/dont-miss-bandits-in-the-valley.md
+short_description: ' I think the story, the mythology, even, of the Gibson Girl would
+  make a great opera in itself. The story could speak about women, men, the media,
+  the human urge to follow trends; there&#039;s even a story in the lives of Mr. and
+  Mrs. Gibson, whose understanding of social issues seemed ahead of their time.'
+slug: gibson-girls-and-the-great-opera-theyd-make
+title: Gibson Girls, and the Great Opera They&#039;d Make
+---
 
 I came across this BBC [article](http://www.bbc.com/culture/story/20141222-the-worlds-first-supermodel) about Evelyn Nesbit, who was one of the first supermodels at the turn of the 20th century. She was just 14 years old when she began her modelling career, posing artists on the streets of Philadelphia, who favoured her as their muse for paintings and sketches. After she moved with her mother to New York City in 1900, Evelyn quickly became one of America's most sought-after models. She was on the covers of _Vanity Fair_, _Ladies' Home Journal_,_ Harper's Bazaar_, and _Cosmopolitan, _and posed for ads for Coca-Cola; she was even a chorus girl on Broadway. 
 

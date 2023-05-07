@@ -1,15 +1,20 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2018-03-19T17:08:00-04:00"
-lastmod = "2018-03-20T14:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521493648003/sq---Hypercube-2.jpg.jpg"
-publishDate = "2018-03-20T14:25:00-04:00"
-related_articles = ["articles/review-alice-and-the-patriarchy.md"]
-short_description = "In the second section, the ensemble collectively sustained a layered, nuanced, morphing wail. Imagine an emergency foghorn exploding a metropolitan soundscape, triggering car alarms, and galvanizing old-timey constables to lay on their whistles. Think a Lichtenstein-ian Whaam! Blam! Pop! in musical form."
-slug = "review-new-music-quartet-entertains-and-bores"
-title = "Review: New music quartet entertains and bores"
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2018-03-19T17:08:00-04:00"
+lastmod: "2018-03-20T14:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521493648003/sq---Hypercube-2.jpg.jpg
+publishDate: "2018-03-20T14:25:00-04:00"
+related_articles:
+- articles/review-alice-and-the-patriarchy.md
+short_description: In the second section, the ensemble collectively sustained a layered,
+  nuanced, morphing wail. Imagine an emergency foghorn exploding a metropolitan soundscape,
+  triggering car alarms, and galvanizing old-timey constables to lay on their whistles.
+  Think a Lichtenstein-ian Whaam! Blam! Pop! in musical form.
+slug: review-new-music-quartet-entertains-and-bores
+title: 'Review: New music quartet entertains and bores'
+---
 
 The American playwright David Mamet appeared on Marc Maron's [hit interview podcast WTF](http://www.wtfpod.com/podcast/episode-898-david-mamet) this week and unsurprisingly said, "the only thing theater's good for is to entertain people. It doesn't change the world." The part about changing the world is up for grabs. But what's not worth debating is that theater must entertain. Music must too. And contemporary classical music, in its nicher than niche microcosm, is particularly susceptible to forgetting that responsibility. What qualifies as entertaining falls on a broad continuum, but nothing risks boring an audience more than atonal new music that doesn't groove.
 

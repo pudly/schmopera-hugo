@@ -1,18 +1,18 @@
-+++
-date = "2016-11-04T10:58:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-06-01T22:12:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993219347/2017-05-28---Fisher.jpg.jpg"
-primary_image_credit = "Veronika Roux"
-publishDate = "2016-11-04T10:58:00-04:00"
-slug = "adam-fisher"
-title = "Adam Fisher"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/adam_jm_fisher"
-_template = "people_single"
-+++
+---
+date: "2016-11-04T10:58:00-04:00"
+discipline: Tenor
+lastmod: "2017-06-01T22:12:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993219347/2017-05-28---Fisher.jpg.jpg
+primary_image_credit: Veronika Roux
+publishDate: "2016-11-04T10:58:00-04:00"
+slug: adam-fisher
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/adam_jm_fisher
+title: Adam Fisher
+---
 
 Canadian tenor Adam Fisher is rapidly gaining attention for his charismatic stage presence in a wide range of repertoire. Critics hailed his debut as Pedrillo in Opera Atelier’s production of Mozart’s *Abduction from the Seraglio* and his performance in City Opera Vancouver’s world premiere of Margaret Atwood and Tobin Stokes’ opera *Pauline* drew critical acclaim.
  

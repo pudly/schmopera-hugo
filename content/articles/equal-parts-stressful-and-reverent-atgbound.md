@@ -1,18 +1,36 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2017-12-15T12:00:00-05:00"
-lastmod = "2017-12-15T17:12:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513357165751/sq---Danika-Lore%CC%80n-Darryl-Block-Photography.jpg.jpg"
-primary_image_credit = "Danika Lorèn in BOUND, Against the Grain Theatre, 2017. Photo: Darryl Block Photography."
-publishDate = "2017-12-15T12:08:00-05:00"
-related_articles = ["articles/atgbound-a-shocking-immediate-connection.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/danika-lorn.md","scene/people/victoria-marshall.md","scene/people/miriam-khalil.md","scene/people/michael-uloth.md","scene/people/christopher-mokrzewski.md","scene/people/joel-ivany.md","scene/people/asitha-tennekoon.md","scene/people/justin-welsh.md","scene/people/david-trudgen.md"]
-short_description = "Never a stranger to tackling contemporary subject matter, Against the Grain once again confirms its position as a leader of the pack in the world of underground, indie opera. BOUND is currently finishing the first stage of its multi-year workshop journey, and the direction it&#039;s heading in is both exciting and scary - in very good ways."
-slug = "equal-parts-stressful-and-reverent-atgbound"
-title = "Equal parts stressful and reverent: #AtGBound"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2017-12-15T12:00:00-05:00"
+lastmod: "2017-12-15T17:12:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513357165751/sq---Danika-Lore%CC%80n-Darryl-Block-Photography.jpg.jpg
+primary_image_credit: 'Danika Lorèn in BOUND, Against the Grain Theatre, 2017. Photo:
+  Darryl Block Photography.'
+publishDate: "2017-12-15T12:08:00-05:00"
+related_articles:
+- articles/atgbound-a-shocking-immediate-connection.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/danika-lorn.md
+- scene/people/victoria-marshall.md
+- scene/people/miriam-khalil.md
+- scene/people/michael-uloth.md
+- scene/people/christopher-mokrzewski.md
+- scene/people/joel-ivany.md
+- scene/people/asitha-tennekoon.md
+- scene/people/justin-welsh.md
+- scene/people/david-trudgen.md
+short_description: Never a stranger to tackling contemporary subject matter, Against
+  the Grain once again confirms its position as a leader of the pack in the world
+  of underground, indie opera. BOUND is currently finishing the first stage of its
+  multi-year workshop journey, and the direction it&#039;s heading in is both exciting
+  and scary - in very good ways.
+slug: equal-parts-stressful-and-reverent-atgbound
+title: 'Equal parts stressful and reverent: #AtGBound'
+---
 
 Since its debut, [Against the Grain Theatre](/scene/companies-against-the-grain-theatre/) has been turning opera on its ear, and turning heads. Their award-winning, innovative programming takes the tried-and-true classics (*Così fan tutte*, *Messiah*, *La bohème*) and brought them to life with a new, modern perspective. 
 

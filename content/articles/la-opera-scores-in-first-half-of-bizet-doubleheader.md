@@ -1,19 +1,37 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2017-09-15T19:39:00-04:00"
-lastmod = "2017-09-16T09:19:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505520495584/2017-09-15---square---car_0638.jpg.jpg"
-primary_image_credit = "Ana Maria Martinez in the title role of LA Opera's production of Carmen, 2017. Photo: Ken Howard/LA Opera."
-publishDate = "2017-09-16T09:19:00-04:00"
-related_articles = ["articles/in-review-carmen-at-the-coc.md", "articles/carmen-don-juan-and-gender-reversal-pants-roles-indeed.md", "articles/nabucco-is-hard-to-find-in-the-latest-la-opera-production.md", "articles/a-dreamy-indulgence-the-pearl-fishers-in-chicago.md"]
-related_companies = ["scene/companies/los-angeles-opera.md"]
-related_people = ["scene/people/riccardo-massi.md", "scene/people/ana-maria-martinez.md", "scene/people/philip-cokorinos.md", "scene/people/theo-hoffman.md", "scene/people/kelley-oconnor.md", "scene/people/liv-redpath.md", "scene/people/amanda-woodbury.md", "scene/people/brandon-jovanovich.md"]
-short_description = "If you&#039;re someone who has seen little or no opera, Carmen is perhaps the perfect place to start because it&#039;s a perfect show; the libretto and score are true partners. Although the show runs about three and a half hours, the drama is so compelling and the music is so beautiful, you never find yourself looking at your watch (or, depending on your age, the clock on your cellphone)."
-slug = "la-opera-scores-in-first-half-of-bizet-double-header"
-title = "LA Opera scores in first half of Bizet double-header"
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2017-09-15T19:39:00-04:00"
+lastmod: "2017-09-16T09:19:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505520495584/2017-09-15---square---car_0638.jpg.jpg
+primary_image_credit: 'Ana Maria Martinez in the title role of LA Opera''s production
+  of Carmen, 2017. Photo: Ken Howard/LA Opera.'
+publishDate: "2017-09-16T09:19:00-04:00"
+related_articles:
+- articles/in-review-carmen-at-the-coc.md
+- articles/carmen-don-juan-and-gender-reversal-pants-roles-indeed.md
+- articles/nabucco-is-hard-to-find-in-the-latest-la-opera-production.md
+- articles/a-dreamy-indulgence-the-pearl-fishers-in-chicago.md
+related_companies:
+- scene/companies/los-angeles-opera.md
+related_people:
+- scene/people/riccardo-massi.md
+- scene/people/ana-maria-martinez.md
+- scene/people/philip-cokorinos.md
+- scene/people/theo-hoffman.md
+- scene/people/kelley-oconnor.md
+- scene/people/liv-redpath.md
+- scene/people/amanda-woodbury.md
+- scene/people/brandon-jovanovich.md
+short_description: If you&#039;re someone who has seen little or no opera, Carmen
+  is perhaps the perfect place to start because it&#039;s a perfect show; the libretto
+  and score are true partners. Although the show runs about three and a half hours,
+  the drama is so compelling and the music is so beautiful, you never find yourself
+  looking at your watch (or, depending on your age, the clock on your cellphone).
+slug: la-opera-scores-in-first-half-of-bizet-double-header
+title: LA Opera scores in first half of Bizet double-header
+---
 [LA Opera](/scene/companies/los-angeles-opera/), now in its fourth decade (bravi!), begins its 2017-18 season with [*Carmen*](https://www.laopera.org/season/1718-Season/Carmen/), also known as "Bizet's Greatest Hits." Georges Bizet, alas, died too young to see *Carmen* become one of the most beloved operas of all time. He also died long before practically every one of his melodies was co-opted by the film and advertising industries, making the music instantly recognizable and popular for completely different reasons.
 
 If you're someone who has seen little or no opera, *Carmen* is perhaps the perfect place to start because it's a perfect show; the libretto and score are true partners. Although the show runs about three and a half hours, the drama is so compelling and the music is so beautiful, you never find yourself looking at your watch (or, depending on your age, the clock on your cellphone).

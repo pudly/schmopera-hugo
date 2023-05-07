@@ -1,22 +1,28 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = 2023-02-08T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675825296/media/2023/02/sqCarnegie_Sun_banner_CH11305206_xy2a2e.jpg"
-primary_image_credit = "Tenor Zhuohan Sun and pianist Yuriko Watanabe, SongStudio Young Artists Recital, Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor."
-related_articles = ["articles/the-met-s-at-home-gala.md", "articles/renee-fleming-brings-a-new-luster-to-dumbarton-oaks.md"]
-related_companies = []
-related_people = []
-short_description = "If opera can be seen as a circle struggling to widen the circumference of its audience, concerts consisting of song alone are a much smaller and much more esoteric circle. Ms. Fleming is trying to change that and is currently devoting her life to ensuring that there will be at least one more generation of song artists. "
-slug = "songstudio-leid-ing-the-way"
-title = "SongStudio: Lied-ing the way"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2023-02-08T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1675825296/media/2023/02/sqCarnegie_Sun_banner_CH11305206_xy2a2e.jpg
+primary_image_credit: 'Tenor Zhuohan Sun and pianist Yuriko Watanabe, SongStudio Young
+  Artists Recital, Zankel Hall/Carnegie Hall, February 4, 2023. Photo: Jennifer Taylor.'
+related_articles:
+- articles/the-met-s-at-home-gala.md
+- articles/renee-fleming-brings-a-new-luster-to-dumbarton-oaks.md
+related_companies: []
+related_people: []
+short_description: 'If opera can be seen as a circle struggling to widen the circumference
+  of its audience, concerts consisting of song alone are a much smaller and much more
+  esoteric circle. Ms. Fleming is trying to change that and is currently devoting
+  her life to ensuring that there will be at least one more generation of song artists. '
+slug: songstudio-leid-ing-the-way
+title: 'SongStudio: Lied-ing the way'
+youtube_url: ""
+---
 Renée Fleming has been called "the people's diva," but her current moniker should be the "leader in lieder," or even "the high priestess of song," as a teacher to emerging singers. She has had her hand in a number of mentoring programs, including VOICES at the Kennedy Center in Washington, D.C., and VocalARTS in Aspen, Colorado.
 
 Since 2017 she has been the guiding force behind [SongStudio](https://www.carnegiehall.org/Education/Programs/Workshops/Song-Studio), presented under the auspices of the Weill Music Institute at Carnegie Hall. Developing artists from all over the world are put through what is described as a "rigorous" audition process with ten pianists and ten vocalists making the final cut. Those lucky and talented few, receive one-on-one lessons from Ms. Fleming during the day for a week, and then master classes at night with other famous singer/musician teachers. The program concludes with a showcase recital at Carnegie's Zankel Hall. Teachers of the four master classes in the just-concluded 2023 edition of SongStudio, featured soprano Golda Schultz, mezzo Jamie Barton, pianist Hartmut Holl and Ms. Fleming herself. This reporter was able to attend the master classes by Ms. Fleming and Ms. Barton and the concluding concert.  (The students also receive some instruction on how to market and produce their work.)

@@ -1,18 +1,37 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-05-16T11:19:00-04:00"
-lastmod = "2015-05-16T12:37:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431787866269/BarberES-MC-2537Square.jpg.jpg"
-primary_image_credit = "The COC Ensemble Studio in The Barber of Seville. Photo by Michael Cooper."
-publishDate = "2015-05-16T12:34:00-04:00"
-related_articles = ["articles/quasi-review-the-ensemble-studios-figaro.md","articles/laughing-out-loud-the-barber-of-seville-at-eno.md"]
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/clarence-frazer.md","scene/people/charlotte-burrage.md","scene/people/karine-boucher.md","scene/people/jeanphilippe-fortierlazure.md","scene/people/andrew-haji.md","scene/people/iain-macneil.md","scene/people/gordon-bintner.md","scene/people/jennifer-szeto.md","scene/people/joshua-hopkins.md"]
-short_description = "After much hype and much rehearsal, the young artists of the Canadian Opera Company Ensemble Studio had their go at The Barber of Seville on the Four Seasons Centre Stage. This is a yearly offering for the Ensemble Studio; for one performance a year, they step into the roles of a mainstage production, which they&#039;ve also been following as understudies."
-slug = "not-quite-review-coc-ensemble-barber-of-seville"
-title = "(not quite) In review: The COC Ensemble Studio&#039;s Barber of Seville"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-05-16T11:19:00-04:00"
+lastmod: "2015-05-16T12:37:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431787866269/BarberES-MC-2537Square.jpg.jpg
+primary_image_credit: The COC Ensemble Studio in The Barber of Seville. Photo by Michael
+  Cooper.
+publishDate: "2015-05-16T12:34:00-04:00"
+related_articles:
+- articles/quasi-review-the-ensemble-studios-figaro.md
+- articles/laughing-out-loud-the-barber-of-seville-at-eno.md
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/clarence-frazer.md
+- scene/people/charlotte-burrage.md
+- scene/people/karine-boucher.md
+- scene/people/jeanphilippe-fortierlazure.md
+- scene/people/andrew-haji.md
+- scene/people/iain-macneil.md
+- scene/people/gordon-bintner.md
+- scene/people/jennifer-szeto.md
+- scene/people/joshua-hopkins.md
+short_description: After much hype and much rehearsal, the young artists of the Canadian
+  Opera Company Ensemble Studio had their go at The Barber of Seville on the Four
+  Seasons Centre Stage. This is a yearly offering for the Ensemble Studio; for one
+  performance a year, they step into the roles of a mainstage production, which they&#039;ve
+  also been following as understudies.
+slug: not-quite-review-coc-ensemble-barber-of-seville
+title: '(not quite) In review: The COC Ensemble Studio&#039;s Barber of Seville'
+---
 
 After much hype and *much* rehearsal, the young artists of the Canadian Opera Company Ensemble Studio had their go at *The Barber of Seville* on the Four Seasons Centre Stage. This is a yearly offering for the Ensemble Studio; for one performance a year, they step into the roles of a mainstage production, which they've also been following as understudies. As much as there's the obvious hard work involved, this performance is always a bit special. The audience is filled with family and friends of the cast, and everyone is aware that we're seeing a very tangible product of these young singers' growing skills. Because I'm one of these invested friends (and I got to see [a few previews of the show](/a-preview-of-the-barber-of-seville-from-the-coc-ensemble-studio/)) I won't attempt to give an unbiased review of the show. 
 

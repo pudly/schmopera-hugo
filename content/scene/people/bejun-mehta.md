@@ -1,28 +1,38 @@
-+++
-date = "2017-07-02T22:06:00-06:00"
-discipline = "Countertenor"
-lastmod = "2017-07-02T22:07:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499054697963/2017-07-02---BejunMehta-JosepMolina.jpg.jpg"
-primary_image_credit = "Josep Molina/MolinaVisuals"
-publishDate = "2017-07-02T22:06:00-06:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/opernhaus-zurich.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/staatsoper-berlin.md","scene/companies/glyndebourne.md","scene/companies/los-angeles-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/bayerische-staatsoper.md","scene/companies/la-monnaie.md","scene/companies/gran-teatre-del-liceu.md"]
-slug = "bejun-mehta"
-title = "Bejun Mehta"
-website = "http://bejunmehta.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/bejunmehta.countertenor/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/bejunmehta"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/bejunmehta1"
-_template = "people_single"
-+++
+---
+date: "2017-07-02T22:06:00-06:00"
+discipline: Countertenor
+lastmod: "2017-07-02T22:07:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499054697963/2017-07-02---BejunMehta-JosepMolina.jpg.jpg
+primary_image_credit: Josep Molina/MolinaVisuals
+publishDate: "2017-07-02T22:06:00-06:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/salzburg-festival.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/glyndebourne.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/la-monnaie.md
+- scene/companies/gran-teatre-del-liceu.md
+slug: bejun-mehta
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/bejunmehta.countertenor/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/bejunmehta
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/bejunmehta1
+title: Bejun Mehta
+website: http://bejunmehta.com/
+---
 
 Bejun Mehta is one of the most acclaimed countertenors in the world. He is a regular guest at the world’s great opera houses, including the Royal Opera House, Covent Garden, the Opéra Nationale de Paris, Theater an der Wien, the Berlin State Opera, the Bavarian State Opera Munich, the Théâtre Royal de La Monnaie, De Nederlandse Opera, Gran Teatre del Liceu Barcelona, Teatro Real Madrid, the Zurich Opera, the Metropolitan Opera, Chicago Lyric Opera, the Los Angeles Opera, as well as the Salzburg, Glyndebourne, and Aix-en-Provence Festivals and the Wiener Festwochen.
 

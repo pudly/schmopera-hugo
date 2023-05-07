@@ -1,15 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-04-10T21:00:00-04:00"
-lastmod = "2015-04-12T00:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713797758/GehryPrague.jpg.jpg"
-publishDate = "2015-03-31T09:00:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md"]
-short_description = "Canadian architect Frank Gehry will design a production of Gluck&#039;s Orpheus and Eurydice, to be directed by Jürgen Flimm, the Staatsoper&#039;s Intendant. At the podium will be Daniel Barenboim, in case the idea wasn’t impressive enough."
-slug = "orpheus-and-eurydice-designed-by-frank-gehry"
-title = "Orpheus and Eurydice, designed by Frank Gehry"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-04-10T21:00:00-04:00"
+lastmod: "2015-04-12T00:07:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713797758/GehryPrague.jpg.jpg
+publishDate: "2015-03-31T09:00:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+short_description: Canadian architect Frank Gehry will design a production of Gluck&#039;s
+  Orpheus and Eurydice, to be directed by Jürgen Flimm, the Staatsoper&#039;s Intendant.
+  At the podium will be Daniel Barenboim, in case the idea wasn’t impressive enough.
+slug: orpheus-and-eurydice-designed-by-frank-gehry
+title: Orpheus and Eurydice, designed by Frank Gehry
+---
 
 <p>
 	I read some 

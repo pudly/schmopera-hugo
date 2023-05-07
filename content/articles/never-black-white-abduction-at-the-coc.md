@@ -1,18 +1,34 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2018-02-09T11:43:00-05:00"
-lastmod = "2018-02-09T17:22:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518193482982/sq---17-18-04-MC-D-1013.jpg.jpg"
-primary_image_credit = "Claire de Sévigné as Blonde and Owen McCausland as Pedrillo in the Canadian Opera Company’s new production of The Abduction from the Seraglio, 2018. Photo: Michael Cooper."
-publishDate = "2018-02-09T11:52:00-05:00"
-related_articles = ["articles/spotlight-on-owen-mccausland.md","articles/in-review-peter-deutsch-at-wigmore-hall.md","articles/jane-archibald-more-than-the-sum-of-all-those-notes.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/jane-archibald.md","scene/people/mauro-peter.md","scene/people/claire-de-sevigne.md","scene/people/owen-mccausland.md"]
-short_description = "It was a decidedly more positive portrayal of the &quot;Mohameddans&quot; as they&#039;re called in a new prologue by Mouawad. However, we are sort of expected to gloss over the fact that Bassa Selim is involved in the slave trade (he hands Blonde off to Osmin as property) and reward him for being &quot;kind&quot; to Konstanze and Blonde  - meaning he didn&#039;t imprison them or send them to the kitchens, but to the bedrooms."
-slug = "never-black-white-abduction-at-the-coc"
-title = "Never black &amp; white: Abduction at the COC"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2018-02-09T11:43:00-05:00"
+lastmod: "2018-02-09T17:22:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518193482982/sq---17-18-04-MC-D-1013.jpg.jpg
+primary_image_credit: 'Claire de Sévigné as Blonde and Owen McCausland as Pedrillo
+  in the Canadian Opera Company’s new production of The Abduction from the Seraglio,
+  2018. Photo: Michael Cooper.'
+publishDate: "2018-02-09T11:52:00-05:00"
+related_articles:
+- articles/spotlight-on-owen-mccausland.md
+- articles/in-review-peter-deutsch-at-wigmore-hall.md
+- articles/jane-archibald-more-than-the-sum-of-all-those-notes.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/jane-archibald.md
+- scene/people/mauro-peter.md
+- scene/people/claire-de-sevigne.md
+- scene/people/owen-mccausland.md
+short_description: It was a decidedly more positive portrayal of the &quot;Mohameddans&quot;
+  as they&#039;re called in a new prologue by Mouawad. However, we are sort of expected
+  to gloss over the fact that Bassa Selim is involved in the slave trade (he hands
+  Blonde off to Osmin as property) and reward him for being &quot;kind&quot; to Konstanze
+  and Blonde  - meaning he didn&#039;t imprison them or send them to the kitchens,
+  but to the bedrooms.
+slug: never-black-white-abduction-at-the-coc
+title: 'Never black &amp; white: Abduction at the COC'
+---
 
 Opening night for Mozart's [*The Abduction from the Seraglio*](https://www.coc.ca/productions/13570) (*Die Entführung aus dem Serail*) took place Wednesday night, bringing to the stage director Wadji Mouawad's new take on the work. First performed at Opera de Lyon in 2016, Mouawad's artistic vision has been called "an agent of change" by the *New York Times*. 
 

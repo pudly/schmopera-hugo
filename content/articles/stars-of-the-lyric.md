@@ -1,22 +1,31 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Review"
-date = "2019-09-07T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "You can read more about the Lyric Opera of Chicago's [upcoming season](https://www.lyricopera.org/seasontickets/2019-20-season/). We at Schmopera are looking forward to covering their entire performance calendar in 2019-20... Stay tuned!"
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567902935/media/2019/09/sqStarsofLyric_gafadk.jpg"
-primary_image_credit = "Sir Andrew Davis conducts Stars of Lyric Opera at Millennium Park, 2019. Photo: Todd Rosenberg."
-related_articles = ["articles/inflatable-beasts-vocal-brilliance-locs-siegfried.md", "articles/audra-mcdonald-and-the-art-of-perfection.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = []
-short_description = "The night's program veered amiably from operatic hits and season teasers to some truly deep cuts of the repertoire, like Fernand's aria from Donizetti's rarely-performed La favorite, gamely sung by the always-appealing, always spot-on Lawrence Brownlee."
-slug = "stars-of-the-lyric"
-title = "Stars of Lyric Opera: a cheery season preview at Millennium Park"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Review
+date: "2019-09-07T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: You can read more about the Lyric Opera of Chicago's [upcoming season](https://www.lyricopera.org/seasontickets/2019-20-season/).
+  We at Schmopera are looking forward to covering their entire performance calendar
+  in 2019-20... Stay tuned!
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1567902935/media/2019/09/sqStarsofLyric_gafadk.jpg
+primary_image_credit: 'Sir Andrew Davis conducts Stars of Lyric Opera at Millennium
+  Park, 2019. Photo: Todd Rosenberg.'
+related_articles:
+- articles/inflatable-beasts-vocal-brilliance-locs-siegfried.md
+- articles/audra-mcdonald-and-the-art-of-perfection.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people: []
+short_description: The night's program veered amiably from operatic hits and season
+  teasers to some truly deep cuts of the repertoire, like Fernand's aria from Donizetti's
+  rarely-performed La favorite, gamely sung by the always-appealing, always spot-on
+  Lawrence Brownlee.
+slug: stars-of-the-lyric
+title: 'Stars of Lyric Opera: a cheery season preview at Millennium Park'
+youtube_url: ""
+---
 Chicago's Millennium Park was packed on Friday night for what always feels like the final hurrah of the city's outdoor concert season: [_Stars of Lyric Opera_](https://www.lyricopera.org/productions/lyric-opera/stars-of-lyric-opera-at-millennium-park/). With an ever-so-slight chill in the air, we threw on our jackets (for the first time in months!) and eagerly scooted into our orange plastic chairs for a cheery preview of the Lyric Opera of Chicago's 2019-2020 season.
 
 <figure data-type="image">

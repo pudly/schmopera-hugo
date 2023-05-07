@@ -1,18 +1,34 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2017-06-15T08:35:00-06:00"
-lastmod = "2017-06-16T07:48:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497537267941/2017-06-15---Hegedus-Sirett-Bell-McCausland-Wallis-Giunta-Jennifer-Jag-Gundu.jpg.jpg"
-primary_image_credit = "l-r: Stephen Hegedus, Geoff Sirett, IsaiahBell, Own McCausland, Wallis Giunta, & Jennifer Nichols. Photo: Jag Gundu."
-publishDate = "2017-06-15T21:29:00-06:00"
-related_articles = ["articles/he-saidshe-said-mozarts-requiem-at-tso.md","articles/rehearsing-a-messiah-that-moves.md","articles/memorable-nights-the-tsos-tribute-glenn-gould.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/wallis-giunta.md","scene/people/owen-mccausland.md","scene/people/isaiah-bell.md","scene/people/geoffrey-sirett.md","scene/people/stephen-hegedus.md","scene/people/jennifer-nichols.md","scene/people/joel-ivany.md"]
-short_description = "Ivany seems to take a different tack with their relationship. It almost seems this time around as though Anna I (the singer) is actually part of Anna II&#039;s (the dancer) demise. She seems to be the one encouraging her sister to indulge in the seven sins in order to make their money. #CouPIMPgh."
-slug = "in-review-seven-deadly-sins-at-tso"
-title = "In review: The Seven Deadly Sins at TSO"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2017-06-15T08:35:00-06:00"
+lastmod: "2017-06-16T07:48:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497537267941/2017-06-15---Hegedus-Sirett-Bell-McCausland-Wallis-Giunta-Jennifer-Jag-Gundu.jpg.jpg
+primary_image_credit: 'l-r: Stephen Hegedus, Geoff Sirett, IsaiahBell, Own McCausland,
+  Wallis Giunta, & Jennifer Nichols. Photo: Jag Gundu.'
+publishDate: "2017-06-15T21:29:00-06:00"
+related_articles:
+- articles/he-saidshe-said-mozarts-requiem-at-tso.md
+- articles/rehearsing-a-messiah-that-moves.md
+- articles/memorable-nights-the-tsos-tribute-glenn-gould.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/wallis-giunta.md
+- scene/people/owen-mccausland.md
+- scene/people/isaiah-bell.md
+- scene/people/geoffrey-sirett.md
+- scene/people/stephen-hegedus.md
+- scene/people/jennifer-nichols.md
+- scene/people/joel-ivany.md
+short_description: 'Ivany seems to take a different tack with their relationship.
+  It almost seems this time around as though Anna I (the singer) is actually part
+  of Anna II&#039;s (the dancer) demise. She seems to be the one encouraging her sister
+  to indulge in the seven sins in order to make their money. #CouPIMPgh.'
+slug: in-review-seven-deadly-sins-at-tso
+title: 'In review: The Seven Deadly Sins at TSO'
+---
 
 Wednesday night was a fab night for music in Toronto with the [Toronto Symphony Orchestra](/scene/companies/toronto-symphony-orchestra/).
 

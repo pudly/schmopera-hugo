@@ -1,22 +1,31 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = 2019-11-12T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Oper Frankfurt's production of [_Lady Macbeth of Mtsensk_](https://oper-frankfurt.de/de/spielplan/lady-macbeth-von-mzensk/) is onstage through December 12."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573603398/media/2019/11/sq4138_ladymacbethvonmzensk12_gross_xsddnt.jpg"
-primary_image_credit = "Anja Kampe (Katerina Ismailowa) in Lady Macbeth of Mtsensk, Oper Frankfurt, 2019. Photo: Barbara Aumüller."
-related_articles = ["articles/a-visceral-nightmarish-tourdeforce-der-mieter.md", "articles/a-star-soprano-and-a-stellar-debut-in-oper-frankfurt-s-manon-lescaut.md"]
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = []
-short_description = "Both Kampe and Golovnin are extraordinary in terms of vocal technique and stamina. Neither voice diminished noticeably by the end of what is an enormously challenging sing. But neither voice translates the overwhelming circumstances of the opera into music that matches its stakes. Points for consistency, but where was the drama?"
-slug = "the-evil-banality-of-lady-macbeth-of-mtsensk-at-oper-frankfurt"
-title = "The evil banality of Lady Macbeth of Mtsensk at Oper Frankfurt"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2019-11-12T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Oper Frankfurt's production of [_Lady Macbeth of Mtsensk_](https://oper-frankfurt.de/de/spielplan/lady-macbeth-von-mzensk/)
+  is onstage through December 12.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1573603398/media/2019/11/sq4138_ladymacbethvonmzensk12_gross_xsddnt.jpg
+primary_image_credit: 'Anja Kampe (Katerina Ismailowa) in Lady Macbeth of Mtsensk,
+  Oper Frankfurt, 2019. Photo: Barbara Aumüller.'
+related_articles:
+- articles/a-visceral-nightmarish-tourdeforce-der-mieter.md
+- articles/a-star-soprano-and-a-stellar-debut-in-oper-frankfurt-s-manon-lescaut.md
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people: []
+short_description: Both Kampe and Golovnin are extraordinary in terms of vocal technique
+  and stamina. Neither voice diminished noticeably by the end of what is an enormously
+  challenging sing. But neither voice translates the overwhelming circumstances of
+  the opera into music that matches its stakes. Points for consistency, but where
+  was the drama?
+slug: the-evil-banality-of-lady-macbeth-of-mtsensk-at-oper-frankfurt
+title: The evil banality of Lady Macbeth of Mtsensk at Oper Frankfurt
+youtube_url: ""
+---
 Paradoxically the most authoritarian rulers are usually the pettiest. After Joseph Stalin and his cronies attended a performance of Dmitri Shostakovich's wildly popular opera [_Lady Macbeth of Mtsensk_](https://oper-frankfurt.de/de/spielplan/lady-macbeth-von-mzensk/) (currently at [Oper Frankfurt](/scene/companies/oper-frankfurt/) in a new production by Anselm Weber), the dictator directed the creation of a now infamous critique in a 1936 issue of the Soviet magazine _Pravda_ that lambasted, and implicitly threatened, Shostakovich and his two-year old work.
 
 The [bad-faith argument](https://sutalkmusic.files.wordpress.com/2012/11/muddle-instead-of-music.pdf) went that by rejecting clear, simple melodies in favor of cacophonous musical chaos, the composer distorted opera and "ignored the demand of Soviet Culture that all coarseness and savagery be abolished from every corner of Soviet life." The opera was banned by the Soviets for nearly three decades.

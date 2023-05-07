@@ -1,22 +1,24 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-06-23T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1561327973/media/2019/06/sqLittlePrince1976.jpg"
-primary_image_credit = "The Little Prince, NEMPAC, 2019. Photo: Sabrina Ornae."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "One may ask oneself if the hyper-tonal, rather simplistic harmonic and melodic language of the source is perhaps too accessible for opera, but in my case I am not so certain it could have been done any other way."
-slug = "nempacs-innocent-affecting-slightly-uneven-little-prince"
-title = "NEMPAC's innocent, affecting, slightly uneven Little Prince"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-06-23T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1561327973/media/2019/06/sqLittlePrince1976.jpg
+primary_image_credit: 'The Little Prince, NEMPAC, 2019. Photo: Sabrina Ornae.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: One may ask oneself if the hyper-tonal, rather simplistic harmonic
+  and melodic language of the source is perhaps too accessible for opera, but in my
+  case I am not so certain it could have been done any other way.
+slug: nempacs-innocent-affecting-slightly-uneven-little-prince
+title: NEMPAC's innocent, affecting, slightly uneven Little Prince
+youtube_url: ""
+---
 Antoine de Saint-Exupéry's novella _Le Petit Prince_ presents two rather daunting challenges to anyone who hopes to adapt it out of its literary form and into a stage-based format, and both are to do with its fantastical story related through the sphere of child-like purity. One involves the fantastically symbolic nature of the plot, with its use of stellar setting that I imagine would be difficult for any stage director. The other then asks the tale's adapter to maintain the sense of wonder and innocence that the novella holds, for it is this on which any adaptation of it lives or dies.
 
 Thus, we come to Rachel Portman's _The Little Prince_, her enchanting two-act opera on the subject, presented by the North End Music & Performing Arts Center's Opera Project. Certainly on the question of innocence she delivers. One may ask oneself if the hyper-tonal, rather simplistic harmonic and melodic language of the source is perhaps too accessible for opera, but in my case I am not so certain it could have been done any other way: the simplicity of the musical language interacts exceedingly well with the childlike nature of the opera's source, and the score finds really lovely ways to paint its text. It is ultimately pleasant music, if it does perhaps become a little too one-note owing to a not-so-poetic libretto and a second act which continues on too long after its thematic climax with the scene between the Prince and the Fox.

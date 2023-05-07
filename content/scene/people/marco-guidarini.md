@@ -1,16 +1,28 @@
-+++
-date = "2015-09-21T21:45:00-04:00"
-discipline = "Conductor"
-lastmod = "2015-09-21T21:45:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442886118441/Guidarini_1_-_c_Josef_Rabara.jpg.jpg"
-primary_image_credit = "Photo by Josef Rabara"
-publishDate = "2015-09-21T21:45:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md","scene/companies/the-dallas-opera.md","scene/companies/san-diego-opera.md","scene/companies/welsh-national-opera.md","scene/companies/scottish-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/los-angeles-opera.md","scene/companies/english-national-opera.md"]
-slug = "marco-guidarini"
-title = "Marco Guidarini"
-website = "http://www.marcoguidarini.com/home.html"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2015-09-21T21:45:00-04:00"
+discipline: Conductor
+lastmod: "2015-09-21T21:45:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442886118441/Guidarini_1_-_c_Josef_Rabara.jpg.jpg
+primary_image_credit: Photo by Josef Rabara
+publishDate: "2015-09-21T21:45:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/san-diego-opera.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/scottish-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/english-national-opera.md
+slug: marco-guidarini
+title: Marco Guidarini
+website: http://www.marcoguidarini.com/home.html
+---
 
 Marco Guidarini studied conducting with Franco Ferrara and became assistant to Sir John-Elliot Gardiner in Lyon making his operatic debut there with *Falstaff*. He went on to conduct at the opera houses of New York (Metropolitan), Los Angeles, Dallas, Minneapolis, Sydney, Nice, Montpellier, Marseille, Barcelona, Seville, Bologna, Naples, Berlin (Deutsche Oper), Munich (Bayerische Staatsoper), Leipzig, Welsh National Opera, Scottish Opera, English National Opera, Stockholm, Copenhagen and at many festivals.
 

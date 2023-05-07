@@ -1,18 +1,44 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-02-07T22:27:00-05:00"
-lastmod = "2016-02-08T16:36:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454904851685/Figaro-MC-1107-(1)---square.jpg.jpg"
-primary_image_credit = "Josef Wagner (Figaro) and Jane Archibald (Susanna) in the COC’s production of The Marriage of Figaro. Photo: Michael Cooper"
-publishDate = "2016-02-08T12:26:00-05:00"
-related_articles = ["articles/in-review-siegfried.md","articles/in-review-the-barber-of-seville-at-the-coc.md","articles/in-review-tcherniakovs-don-giovanni.md","articles/ariodante-or-the-hebridean-handel.md","articles/coc1718.md","articles/ned-cantys-die-fledermaus-a-pleasant-persistent-buzz-of-happiness.md","articles/chiaroscuro-classics-the-marriage-of-figaro.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/salzburg-festival.md"]
-related_people = ["scene/people/jane-archibald.md","scene/people/russell-braun.md","scene/people/josef-wagner.md","scene/people/erin-wall.md","scene/people/robert-pomakov.md","scene/people/doug-macnaughton.md","scene/people/jeanphilippe-fortierlazure.md","scene/people/sasha-djihanian.md","scene/people/emily-fons.md","scene/people/johannes-debus.md","scene/people/jordan-de-souza.md","scene/people/michael-colvin.md"]
-short_description = "The comedy in Mozart&#039;s masterpiece isn&#039;t lost on Guth, but he makes a strong focal point out psychoanalyzing the characters, exploring how they perceive their relationships with each other, and how they deal with any emotion related to lust."
-slug = "in-review-the-marriage-of-figaro"
-title = "In review: The Marriage of Figaro"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-02-07T22:27:00-05:00"
+lastmod: "2016-02-08T16:36:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454904851685/Figaro-MC-1107-(1)---square.jpg.jpg
+primary_image_credit: 'Josef Wagner (Figaro) and Jane Archibald (Susanna) in the COC’s
+  production of The Marriage of Figaro. Photo: Michael Cooper'
+publishDate: "2016-02-08T12:26:00-05:00"
+related_articles:
+- articles/in-review-siegfried.md
+- articles/in-review-the-barber-of-seville-at-the-coc.md
+- articles/in-review-tcherniakovs-don-giovanni.md
+- articles/ariodante-or-the-hebridean-handel.md
+- articles/coc1718.md
+- articles/ned-cantys-die-fledermaus-a-pleasant-persistent-buzz-of-happiness.md
+- articles/chiaroscuro-classics-the-marriage-of-figaro.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/salzburg-festival.md
+related_people:
+- scene/people/jane-archibald.md
+- scene/people/russell-braun.md
+- scene/people/josef-wagner.md
+- scene/people/erin-wall.md
+- scene/people/robert-pomakov.md
+- scene/people/doug-macnaughton.md
+- scene/people/jeanphilippe-fortierlazure.md
+- scene/people/sasha-djihanian.md
+- scene/people/emily-fons.md
+- scene/people/johannes-debus.md
+- scene/people/jordan-de-souza.md
+- scene/people/michael-colvin.md
+short_description: The comedy in Mozart&#039;s masterpiece isn&#039;t lost on Guth,
+  but he makes a strong focal point out psychoanalyzing the characters, exploring
+  how they perceive their relationships with each other, and how they deal with any
+  emotion related to lust.
+slug: in-review-the-marriage-of-figaro
+title: 'In review: The Marriage of Figaro'
+---
 
 Mozart's *The Marriage of Figaro* is up and running at the [Canadian Opera Company](/scene/companies/canadian-opera-company/), pairing the curiosity over Claus Guth's Ingmar Bergman-inspired production with the anticipation of a cast full of top-notch singers, which includes a big nod to Canadian talent. The comedy in Mozart's masterpiece isn't lost on Guth, but he makes a strong focal point out of psychoanalyzing the characters, exploring how they perceive their relationships with each other, and how they deal with any emotion related to lust.
 

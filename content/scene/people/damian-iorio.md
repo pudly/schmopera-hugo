@@ -1,19 +1,21 @@
-+++
-date = "2018-05-30T21:10:00-04:00"
-discipline = "Conductor"
-lastmod = "2018-05-30T21:10:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527728988082/Damian-13-crop%20copy.jpg.jpg"
-publishDate = "2018-05-30T21:10:00-04:00"
-related_companies = ["scene/companies/opra-national-de-paris.md","scene/companies/glyndebourne.md"]
-slug = "damian-iorio"
-title = "Damian Iorio"
-website = "http://www.damianiorio.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "http://facebook.com/damianiorio"
-_template = "people_single"
-+++
+---
+date: "2018-05-30T21:10:00-04:00"
+discipline: Conductor
+lastmod: "2018-05-30T21:10:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527728988082/Damian-13-crop%20copy.jpg.jpg
+publishDate: "2018-05-30T21:10:00-04:00"
+related_companies:
+- scene/companies/opra-national-de-paris.md
+- scene/companies/glyndebourne.md
+slug: damian-iorio
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: http://facebook.com/damianiorio
+title: Damian Iorio
+website: http://www.damianiorio.com/
+---
 
 Born in London into a distinguished family of Italian and English musicians, Damian Iorio is a dynamic and gifted conductor, and enjoys an international career. Having begun his professional life as a violinist, following studies at the Royal Northern College of Music and Indiana University, Damian went on to study conducting at St Petersburg State Conservatoire whilst serving as a member of the Danish National Radio Symphony Orchestra.
 

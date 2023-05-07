@@ -1,23 +1,26 @@
-+++
-date = "2015-04-12T15:59:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-10-11T11:17:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428850339591/osborne5.jpg.jpg"
-primary_image_credit = "Bo Huang."
-publishDate = "2015-04-12T15:59:00+01:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/vancouver-opera.md","scene/companies/edmonton-opera.md"]
-slug = "simone-osborne"
-title = "Simone Osborne"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Simone-Osborne-Soprano/187728413498"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SimoneOsborne"
-_template = "people_single"
-+++
+---
+date: "2015-04-12T15:59:00+01:00"
+discipline: Soprano
+lastmod: "2016-10-11T11:17:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428850339591/osborne5.jpg.jpg
+primary_image_credit: Bo Huang.
+publishDate: "2015-04-12T15:59:00+01:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/vancouver-opera.md
+- scene/companies/edmonton-opera.md
+slug: simone-osborne
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Simone-Osborne-Soprano/187728413498
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/SimoneOsborne
+title: Simone Osborne
+---
 
 <p>
 	Canadian soprano Simone Osborne has been hailed as "a joy to hear" (Los Angeles Times) with "a sweet and clear sound, sensitive phrasing and gleaming sustained high notes" (New York Times). Ms. Osborne was one of the youngest winners of the Metropolitan Opera National Council Auditions and recently completed her tenure as a member of the Canadian Opera Company Studio Ensemble.

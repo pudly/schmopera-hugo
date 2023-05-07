@@ -1,15 +1,23 @@
-+++
-date = "2017-04-04T13:04:00+01:00"
-discipline = "Soprano"
-lastmod = "2017-04-04T13:08:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491307299562/639620BADG-2.jpg.jpg"
-publishDate = "2017-04-04T13:04:00+01:00"
-related_companies = ["scene/companies/wiener-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/opernhaus-zurich.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/bayerische-staatsoper.md","scene/companies/semperoper-dresden.md","scene/companies/salzburg-festival.md"]
-slug = "krassimira-stoyanova"
-title = "Krassimira Stoyanova"
-website = "http://krassimira-stoyanova.com/"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-04-04T13:04:00+01:00"
+discipline: Soprano
+lastmod: "2017-04-04T13:08:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491307299562/639620BADG-2.jpg.jpg
+publishDate: "2017-04-04T13:04:00+01:00"
+related_companies:
+- scene/companies/wiener-staatsoper.md
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/semperoper-dresden.md
+- scene/companies/salzburg-festival.md
+slug: krassimira-stoyanova
+title: Krassimira Stoyanova
+website: http://krassimira-stoyanova.com/
+---
 
 Krassimira Stoyanova is one of the leading sopranos of our time, highly acclaimed by press and public alike.
 

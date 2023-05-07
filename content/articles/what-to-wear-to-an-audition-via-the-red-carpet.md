@@ -1,16 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-06-14T12:12:00-04:00"
-lastmod = "2015-06-16T10:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434295730054/JenniferL.jpg.jpg"
-primary_image_credit = "Jennifer Lawrence's Dior gown at the 2013 Oscars is not audition-appropriate, but it's fantastic."
-publishDate = "2015-06-14T13:42:00-04:00"
-related_articles = ["articles/5-tips-for-university-auditionees.md","articles/in-defence-of-singers.md","articles/if-you-could-accessorize-with-opera.md","articles/browse-suzanne-vinniks-opera-diva-dress-collection.md","articles/wolf-trap-audition-conversation.md","articles/psychology-audition.md","articles/rosemarie-umetsu-singing-in-style.md"]
-short_description = "Auditions are fun, right? Completely fun. I know it gets old sometimes, but I always did find the ritual of dressing for an audition quite calming. Something to do other than be nervous, I figure. I do like the mini fashion-show with which I&#039;m presented at any audition venue; I like noticing which mezzos stubbornly wear their best dress to sing Siebel (why not?), and whether or not the baritones are the type to match their shoes to their whatever."
-slug = "what-to-wear-to-an-audition-via-the-red-carpet"
-title = "What to wear to an audition, via the red carpet"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-06-14T12:12:00-04:00"
+lastmod: "2015-06-16T10:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434295730054/JenniferL.jpg.jpg
+primary_image_credit: Jennifer Lawrence's Dior gown at the 2013 Oscars is not audition-appropriate,
+  but it's fantastic.
+publishDate: "2015-06-14T13:42:00-04:00"
+related_articles:
+- articles/5-tips-for-university-auditionees.md
+- articles/in-defence-of-singers.md
+- articles/if-you-could-accessorize-with-opera.md
+- articles/browse-suzanne-vinniks-opera-diva-dress-collection.md
+- articles/wolf-trap-audition-conversation.md
+- articles/psychology-audition.md
+- articles/rosemarie-umetsu-singing-in-style.md
+short_description: Auditions are fun, right? Completely fun. I know it gets old sometimes,
+  but I always did find the ritual of dressing for an audition quite calming. Something
+  to do other than be nervous, I figure. I do like the mini fashion-show with which
+  I&#039;m presented at any audition venue; I like noticing which mezzos stubbornly
+  wear their best dress to sing Siebel (why not?), and whether or not the baritones
+  are the type to match their shoes to their whatever.
+slug: what-to-wear-to-an-audition-via-the-red-carpet
+title: What to wear to an audition, via the red carpet
+---
 
 Auditions are fun, right? Completely fun. I know it gets old sometimes, but I always did find the ritual of dressing for an audition quite calming. Something to do other than be nervous, I figure. I do like the mini fashion-show with which I'm presented at any audition venue; I like noticing which mezzos stubbornly wear their best dress to sing Siebel (why not?), and whether or not the baritones are the type to match their shoes to their whatever (hey, [Cameron McPhail](/scene/people/cameron-mcphail/)). 
 

@@ -1,19 +1,45 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-10-17T10:06:00+01:00"
-lastmod = "2016-10-17T13:29:00+01:00"
-preamble = "Above: Jane Archibald as Ginevra (on bed) with Alice Coote as Ariodante and Johannes Weisser as the King of Scotland (in front row) in the Canadian Opera Company's production of *Ariodante*, 2016. Photo by Michael Cooper."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476703260380/2016-10-17---Square---Ariodante-MC-1727.jpg.jpg"
-primary_image_credit = "Photo by Michael Cooper."
-publishDate = "2016-10-17T13:29:00+01:00"
-related_articles = ["articles/review-sondra-slays-in-bellini-masterwork.md","articles/in-review-the-marriage-of-figaro.md","articles/spotlight-on-owen-mccausland.md","articles/in-review-der-rosenkavalier-at-roh.md","articles/coc1718.md","articles/in-review-an-evening-with-the-ensemble-studio.md","articles/in-review-solts-canadian-doublebill.md","articles/dynamic-and-physical-rinaldo-at-oper-frankfurt.md","articles/littleknown-gems-ariane-et-bachus.md","articles/opera-is-artifice-giulio-cesares-conquest-of-houston.md","articles/eugene-onegin-or-the-time-tatyana-dodged-a-bullet.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/alice-coote.md","scene/people/jane-archibald.md","scene/people/ambur-braid.md","scene/people/owen-mccausland.md","scene/people/johannes-debus.md","scene/people/johannes-weisser.md","scene/people/varduhi-abrahamyan.md"]
-short_description = "As Dalinda, Ambur Braid delivers the most nuanced and moving performance. As the meek and quiet and withdrawn maiden, you&#039;re drawn in to her from the moment the curtain rises. Then she sings, and she pours every ounce of Dalinda&#039;s yearning, innocence, and devotion into every note she sang. She had the remarkable ability to blend into the scenery and be all you can see at the same time."
-slug = "ariodante-or-the-hebridean-handel"
-title = "Ariodante, or the Hebridean Handel"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-10-17T10:06:00+01:00"
+lastmod: "2016-10-17T13:29:00+01:00"
+preamble: 'Above: Jane Archibald as Ginevra (on bed) with Alice Coote as Ariodante
+  and Johannes Weisser as the King of Scotland (in front row) in the Canadian Opera
+  Company''s production of *Ariodante*, 2016. Photo by Michael Cooper.'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476703260380/2016-10-17---Square---Ariodante-MC-1727.jpg.jpg
+primary_image_credit: Photo by Michael Cooper.
+publishDate: "2016-10-17T13:29:00+01:00"
+related_articles:
+- articles/review-sondra-slays-in-bellini-masterwork.md
+- articles/in-review-the-marriage-of-figaro.md
+- articles/spotlight-on-owen-mccausland.md
+- articles/in-review-der-rosenkavalier-at-roh.md
+- articles/coc1718.md
+- articles/in-review-an-evening-with-the-ensemble-studio.md
+- articles/in-review-solts-canadian-doublebill.md
+- articles/dynamic-and-physical-rinaldo-at-oper-frankfurt.md
+- articles/littleknown-gems-ariane-et-bachus.md
+- articles/opera-is-artifice-giulio-cesares-conquest-of-houston.md
+- articles/eugene-onegin-or-the-time-tatyana-dodged-a-bullet.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/alice-coote.md
+- scene/people/jane-archibald.md
+- scene/people/ambur-braid.md
+- scene/people/owen-mccausland.md
+- scene/people/johannes-debus.md
+- scene/people/johannes-weisser.md
+- scene/people/varduhi-abrahamyan.md
+short_description: As Dalinda, Ambur Braid delivers the most nuanced and moving performance.
+  As the meek and quiet and withdrawn maiden, you&#039;re drawn in to her from the
+  moment the curtain rises. Then she sings, and she pours every ounce of Dalinda&#039;s
+  yearning, innocence, and devotion into every note she sang. She had the remarkable
+  ability to blend into the scenery and be all you can see at the same time.
+slug: ariodante-or-the-hebridean-handel
+title: Ariodante, or the Hebridean Handel
+---
 
 Rounding out my Canadian Opera Company [double header](/review-sondra-slays-in-bellini-masterwork/) this weekend, I took my seat to take in Richard Jones's production of Handel's [*Ariodante*](http://www.coc.ca/PerformancesAndTickets/1617Season/Ariodante.aspx). Sunday matinee crowds are a neat mix, but I love when a show is so engrossing that you forget you're in a crowd at all. 
 

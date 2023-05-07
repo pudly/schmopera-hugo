@@ -1,16 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2016-03-17T17:21:00+00:00"
-lastmod = "2016-03-18T16:32:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458317032217/2016-03-18---Growth.jpg.jpg"
-publishDate = "2016-03-18T16:23:00+00:00"
-related_articles = ["articles/the-case-for-nomadic-opera.md","articles/bills-and-business-models.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/english-national-opera.md","scene/companies/the-bicycle-opera-project.md","scene/companies/toy-piano-composers.md","scene/companies/against-the-grain-theatre.md","scene/companies/tapestry-opera.md"]
-short_description = "All of this is nearing an uncomfortable suggestion. We ask, honestly and without further insinuations: when was the last time that the chorus, or the orchestra, was the most memorable element of an opera?"
-slug = "operas-survival-tightened-belts-callous-questions"
-title = "Opera&#039;s survival: tightened belts &amp; callous questions"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2016-03-17T17:21:00+00:00"
+lastmod: "2016-03-18T16:32:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458317032217/2016-03-18---Growth.jpg.jpg
+publishDate: "2016-03-18T16:23:00+00:00"
+related_articles:
+- articles/the-case-for-nomadic-opera.md
+- articles/bills-and-business-models.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/english-national-opera.md
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/toy-piano-composers.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/tapestry-opera.md
+short_description: 'All of this is nearing an uncomfortable suggestion. We ask, honestly
+  and without further insinuations: when was the last time that the chorus, or the
+  orchestra, was the most memorable element of an opera?'
+slug: operas-survival-tightened-belts-callous-questions
+title: 'Opera&#039;s survival: tightened belts &amp; callous questions'
+---
 
 [English National Opera](http://www.theguardian.com/commentisfree/2016/feb/16/english-national-opera-eno-cultural-treasure-value-for-money) currently holds the spotlight in the ongoing story of opera companies who are pressured to tighten their belts. The spotlight status has been passed from New York City Opera, to San Diego Opera, to Opera Lyra Ottawa, and very publicly to The Metropolitan Opera; these companies faced financial struggles for various reasons, and not all of them survived.
 

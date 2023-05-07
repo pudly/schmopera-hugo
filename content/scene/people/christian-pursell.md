@@ -1,26 +1,27 @@
-+++
-discipline = "Bass-baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1636121956/media/2021/11/ChristianPursell_TaiPowerSeeff_lhh5sz.jpg"
-primary_image_credit = "Tai Power Seeff."
-related_companies = ["scene/companies/opera-theatre-of-st-louis.md", "scene/companies/cincinnati-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/san-francisco-opera.md"]
-slug = "christian-pursell"
-title = "Christian Pursell"
-website = "https://www.christianpursell.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ChristianPursell/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/cppursell/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/cppursell"
-
-_template = "people_single"
-+++
+---
+discipline: Bass-baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1636121956/media/2021/11/ChristianPursell_TaiPowerSeeff_lhh5sz.jpg
+primary_image_credit: Tai Power Seeff.
+related_companies:
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/cincinnati-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/san-francisco-opera.md
+slug: christian-pursell
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/ChristianPursell/
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/cppursell/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/cppursell
+title: Christian Pursell
+website: https://www.christianpursell.com/
+---
 Hailing from the Santa Cruz mountains of California, bass-baritone Christian Pursell is a rising star among the next generation of singers. His post-pandemic season kicks off with his role debut as Escamillo in _Carmen_ at Cincinnati Opera in July 2021, followed by appearances as Escamillo with Houston Grand Opera, Hawaii Opera Theatre, and Opera Theatre of Saint Louis. Mr. Pursell returns to the Bay Area in December 2021 to perform in Handel’s _Messiah_ with San Francisco Symphony, and will join Arizona Musicfest in February 2022 for Beethoven’s Symphony No. 9.
 
 A graduate of the prestigious Adler Fellowship at San Francisco Opera, Mr. Pursell’s performance credits with the company include Lieutenant Ratcliffe in _Billy Budd_, Walter Raleigh in _Roberto Devereux_ the Jailer in _Tosca_, Count Lamoral in _Arabella_ under the baton of Marc Albrecht, and an Angel in _It’s a Wonderful Life_ conducted by Patrick Summers. Previous roles performed include Marcello in _La Bohème_, Belcore in _L’Elisir d’Amore_, Pandolfe in _Cendrillon_, Harašta in _The Cunning Little Vixen_, and Liberto/Littore in _L’Incoronazione di Poppea_.

@@ -1,25 +1,33 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = 2019-11-29T05:00:00Z
-discipline = ""
-disclaimer = ""
-image_gallery = []
-postamble = "English National Opera's production of [_Orphée_](https://www.eno.org/whats-on/orphee/) is onstage through 29 November."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574965073/media/2019/11/sq2876ashm_0804_ngp2z0.jpg"
-primary_image_credit = "Jennifer France in ENO's production of Orphée, 2019. Photo: Catherine Ashmore."
-related_articles = ["articles/orpheus-eurydice-opera-atelier.md", "articles/futuristic-baroque-burlesque-orphe.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/jennifer-france.md"]
-short_description = "Much like past productions I've seen at ENO, the singing was a bit of a mixed bag. Many of the characters were played by young singers at the beginning of their careers. Naturally, some flourished while others struggled to keep up."
-slug = "jones-reflects-glass-in-enos-orphee"
-social_media = []
-title = "Jones reflects Glass in ENO's Orphée"
-website = ""
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-11-29T05:00:00Z"
+discipline: ""
+disclaimer: ""
+image_gallery: []
+postamble: English National Opera's production of [_Orphée_](https://www.eno.org/whats-on/orphee/)
+  is onstage through 29 November.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1574965073/media/2019/11/sq2876ashm_0804_ngp2z0.jpg
+primary_image_credit: 'Jennifer France in ENO''s production of Orphée, 2019. Photo:
+  Catherine Ashmore.'
+related_articles:
+- articles/orpheus-eurydice-opera-atelier.md
+- articles/futuristic-baroque-burlesque-orphe.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/jennifer-france.md
+short_description: Much like past productions I've seen at ENO, the singing was a
+  bit of a mixed bag. Many of the characters were played by young singers at the beginning
+  of their careers. Naturally, some flourished while others struggled to keep up.
+slug: jones-reflects-glass-in-enos-orphee
+social_media: []
+title: Jones reflects Glass in ENO's Orphée
+website: ""
+youtube_url: ""
+---
 English National Opera presents a new production of Philip Glass' _Orphée_, a modern reimagining of the Orpheus myth inspired by the 1950 Jean Cocteau film of the same name.
 
 Director/designer Netia Jonas borrowed heavily from the film in the design of the production and overall visual presentation. The characters directly mirrored those in the film in dress and mannerism. Video projections designed by Jones feature key moments from the film, intermingled with abstract scenes that add depth and texture to the production. The piece called for a few instances of clever problem solving which the production delivered on. Crucial to the story telling were the moments when characters would step through mirrors into the other world. To achieve this, they made use of a camera pointed at the mirror and a screen facing the audience so that the audience could see what the characters were seeing when looking into the mirror. This gifted the mirrors with an almost sentient quality as though the other world that lay just on the other side of the glass, was looking into us, just as we were looking into it.

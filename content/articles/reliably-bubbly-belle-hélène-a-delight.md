@@ -1,22 +1,29 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-06-15T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1560645047/media/2019/06/sqAlanSchneider_GingerCostaJackson_AdamFisher.jpg"
-primary_image_credit = "Odyssey Opera's La belle Hélène by Jacques Offenbach. Photo: Kathy Wittman."
-related_articles = []
-related_companies = ["scene/companies/odyssey-opera.md"]
-related_people = ["scene/people/adam-fisher.md", "scene/people/ginger-costajackson.md"]
-short_description = "But even with the small missteps, Odyssey Opera once again hit a home run. La Belle Hélène is that rare Offenbach operetta that doesn’t necessarily run like a clockwork mouse in terms of efficiency, but with the right cast it can still prove to be a fun, lighthearted evening at the opera."
-slug = "reliably-bubbly-belle-helene-a-delight"
-title = "Reliably bubbly Belle Hélène a delight"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-06-15T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1560645047/media/2019/06/sqAlanSchneider_GingerCostaJackson_AdamFisher.jpg
+primary_image_credit: 'Odyssey Opera''s La belle Hélène by Jacques Offenbach. Photo:
+  Kathy Wittman.'
+related_articles: []
+related_companies:
+- scene/companies/odyssey-opera.md
+related_people:
+- scene/people/adam-fisher.md
+- scene/people/ginger-costajackson.md
+short_description: But even with the small missteps, Odyssey Opera once again hit
+  a home run. La Belle Hélène is that rare Offenbach operetta that doesn’t necessarily
+  run like a clockwork mouse in terms of efficiency, but with the right cast it can
+  still prove to be a fun, lighthearted evening at the opera.
+slug: reliably-bubbly-belle-helene-a-delight
+title: Reliably bubbly Belle Hélène a delight
+youtube_url: ""
+---
 There is some unexplainable property of Jacques Offenbach's music that always catches a listener by surprise: no matter what the cost, there is always an undercurrent of fun that runs through every score of his. It is also typically rather quick-paced, in that no matter what happens it strings you along for the ride. This is one of the main souls of the Offenbach operetta, and in performance this music is irresistibly bubbly and happy, and it can help carry an audience through even a not-so-great script.
 
 Thus, we come to _La Belle Hélène_, his send-up of Paris' courtship of Helen that forms the closer for Odyssey Opera's half-season exploration of Helen of Troy. Ironically, _Belle Hélène_ displays the other part of the Offenbach operetta by virtue of its half-absence: in a proper Offenbach operetta, the subject it chooses to set is lampooned via extreme exaggeration on every front. However, Henri Meilhac and Ludovic Halévy perhaps did not go far enough in the exaggeration in this work, leaving translator Richard Duployen precious little room to add to the absurdity of the proceedings. Paris and Helen are both perhaps a little too straight-laced against how eccentric everyone else in the cast is, and while they do get some humor in they are perhaps too sincere in their amorous intentions for the biting parody that works such as _Orphée aux Enfers_ and _La Vie Parisienne_ work up.

@@ -1,24 +1,27 @@
-+++
-date = "2015-04-23T04:18:00+01:00"
-discipline = "Baritone"
-lastmod = "2016-09-27T10:19:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474967947706/2016-09-22---Sidney-Outlaw.jpg.jpg"
-primary_image_credit = "Hai Tran"
-publishDate = "2015-04-23T04:18:00+01:00"
-related_companies = ["scene/companies/florida-grand-opera.md","scene/companies/merola-opera-program.md","scene/companies/san-francisco-opera.md","scene/companies/the-metropolitan-opera.md"]
-slug = "sidney-outlaw"
-title = "Sidney Outlaw"
-website = "http://sidneyoutlaw.com"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/BaritoneSidneyOutlaw?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SidneyOutlaw"
-_template = "people_single"
-+++
+---
+date: "2015-04-23T04:18:00+01:00"
+discipline: Baritone
+lastmod: "2016-09-27T10:19:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474967947706/2016-09-22---Sidney-Outlaw.jpg.jpg
+primary_image_credit: Hai Tran
+publishDate: "2015-04-23T04:18:00+01:00"
+related_companies:
+- scene/companies/florida-grand-opera.md
+- scene/companies/merola-opera-program.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/the-metropolitan-opera.md
+slug: sidney-outlaw
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/BaritoneSidneyOutlaw?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/SidneyOutlaw
+title: Sidney Outlaw
+website: http://sidneyoutlaw.com
+---
 
 Lauded by The New York Times as a “terrific singer” and The San Francisco Chronicle as “an opera powerhouse”, Sidney Outlaw was the Grand Prize winner of the Concurso Internacional de Canto Montserrat Caballé in 2010 and continues to delight audiences in the U.S. and abroad with his rich and versatile baritone and engaging stage presence.
 

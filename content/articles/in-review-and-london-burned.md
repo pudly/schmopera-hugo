@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-10-29T12:34:00+01:00"
-lastmod = "2016-10-31T17:43:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477935295846/2016-10-31---Temple-Music-281.jpg.jpg"
-primary_image_credit = "Raphaela Papadakis in And London Burned, Temple Church, 2016. Photo by Chris Christodoulou."
-publishDate = "2016-10-29T13:52:00+01:00"
-related_people = ["scene/people/alessandro-fisher.md"]
-short_description = "It was the stories of the Londoners, represented by Gwilym Bowen, Aoife O&#039;Sullivan, and Andrew Rupp (who also sang the Duke of York and Dryden), that earned even more fear than the tale of the fire itself; they were the horrifying story of *people* during a disaster. There were the carters who inflated their prices to evil proportions; there were those who wasted time blaming the fire on sin or the Dutch or the year 1666; there were looters, racists, and useless officials. It&#039;s terrifying to consider, in a disaster, how a city is at the mercy of its citizens."
-slug = "in-review-and-london-burned"
-title = "In review: And London Burned"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-10-29T12:34:00+01:00"
+lastmod: "2016-10-31T17:43:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477935295846/2016-10-31---Temple-Music-281.jpg.jpg
+primary_image_credit: Raphaela Papadakis in And London Burned, Temple Church, 2016.
+  Photo by Chris Christodoulou.
+publishDate: "2016-10-29T13:52:00+01:00"
+related_people:
+- scene/people/alessandro-fisher.md
+short_description: It was the stories of the Londoners, represented by Gwilym Bowen,
+  Aoife O&#039;Sullivan, and Andrew Rupp (who also sang the Duke of York and Dryden),
+  that earned even more fear than the tale of the fire itself; they were the horrifying
+  story of *people* during a disaster. There were the carters who inflated their prices
+  to evil proportions; there were those who wasted time blaming the fire on sin or
+  the Dutch or the year 1666; there were looters, racists, and useless officials.
+  It&#039;s terrifying to consider, in a disaster, how a city is at the mercy of its
+  citizens.
+slug: in-review-and-london-burned
+title: 'In review: And London Burned'
+---
 
 In this 350th year since the [Great Fire of London](https://en.wikipedia.org/wiki/Great_Fire_of_London) in September of 1666, Temple Church has commissioned the new opera by [Matt Rogers](http://www.gameshowoutpatient.com/) and [Sally O'Reilly](http://www.sallyoreilly.org.uk/), *And London Burned*. 
 

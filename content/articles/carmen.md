@@ -1,22 +1,32 @@
-+++
-author = ["authors/jane-richardson.md"]
-categories = "Review"
-date = 2022-10-09T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1665346842/media/2022/10/sqLOKC_2carmen_1824_b_skkqa7.jpg"
-primary_image_credit = "Ginger Costa-Jackson in the title role of Lyric Opera of Kansas City's production of Carmen, 2022. Photo: Don Ipock."
-related_articles = ["articles/carmen-don-juan-and-gender-reversal-pants-roles-indeed.md"]
-related_companies = ["scene/companies/lyric-opera-of-kansas-city.md"]
-related_people = ["scene/people/robert-mellon.md", "scene/people/eric-fennell.md", "scene/people/andrea-carroll.md", "scene/people/ginger-costajackson.md"]
-short_description = "I wasn't sure where Jackson's interpretation lands on the scale of \"bad girl\", which was the main tag the company used in advertisements. On one hand, there was an impressively choreographed fight in the beginning between Carmen and another factory girl, where we saw Carmen's aggression. "
-slug = "carmen-doesnt-quite-commit-at-lyric-opera-of-kansas-city"
-title = "Carmen doesn't quite commit at Lyric Opera of Kansas City"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jane-richardson.md
+categories: Review
+date: "2022-10-09T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1665346842/media/2022/10/sqLOKC_2carmen_1824_b_skkqa7.jpg
+primary_image_credit: 'Ginger Costa-Jackson in the title role of Lyric Opera of Kansas
+  City''s production of Carmen, 2022. Photo: Don Ipock.'
+related_articles:
+- articles/carmen-don-juan-and-gender-reversal-pants-roles-indeed.md
+related_companies:
+- scene/companies/lyric-opera-of-kansas-city.md
+related_people:
+- scene/people/robert-mellon.md
+- scene/people/eric-fennell.md
+- scene/people/andrea-carroll.md
+- scene/people/ginger-costajackson.md
+short_description: 'I wasn''t sure where Jackson''s interpretation lands on the scale
+  of "bad girl", which was the main tag the company used in advertisements. On one
+  hand, there was an impressively choreographed fight in the beginning between Carmen
+  and another factory girl, where we saw Carmen''s aggression. '
+slug: carmen-doesnt-quite-commit-at-lyric-opera-of-kansas-city
+title: Carmen doesn't quite commit at Lyric Opera of Kansas City
+youtube_url: ""
+---
 Lyric Opera of Kansas City opened their season with the classic opera _Carmen_. Rising star [Ginger Costa-Jackson](/scene/people/ginger-costa-jackson/) sang the title character with enthusiasm and energy, opposite [Eric Fennell](/scene/people/eric-fennell/) as Don José and [Robert Mellon](/scene/people/robert-mellon/) as Escamillo. Mellon's voice rang through the Kauffman Center with ease, and [Andrea Carroll](/scene/people/andrea-carroll/) sang a sweet Micaëla, and she had a shimmering luxurious sound.
 
 <figure data-type="image">

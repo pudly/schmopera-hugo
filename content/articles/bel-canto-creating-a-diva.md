@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2018-10-26T19:47:00-04:00"
-lastmod = "2018-10-26T19:53:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540597048713/sqBelCanto.jpg.jpg"
-primary_image_credit = "l-r: Renée Fleming (photo: Andrew Eccles/Decca); Julianne Moore in Bel Canto (still courtesy of Pacific Northwest Pictures)."
-publishDate = "2018-10-26T19:53:00-04:00"
-related_articles = ["articles/diegetic-music-in-opera-3-ways-to-use-it.md"]
-related_people = ["scene/people/renee-fleming.md"]
-short_description = "The term diva has been somewhat hijacked in 21st-century North America; &quot;Mostly now, it means bad behaviour,&quot; Fleming admits. Still, the character of Roxane has qualities that are charmingly familiar to those in the opera industry. Her ease in high-profile social situations, her ability to articulate what she does and does not want, her general fearlessness - these are the qualities of people like Sondra Radvanovsky, Anna Netrebko, and of course, Fleming."
-slug = "bel-canto-creating-a-diva"
-title = "Bel Canto: creating a diva"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2018-10-26T19:47:00-04:00"
+lastmod: "2018-10-26T19:53:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540597048713/sqBelCanto.jpg.jpg
+primary_image_credit: 'l-r: Renée Fleming (photo: Andrew Eccles/Decca); Julianne Moore
+  in Bel Canto (still courtesy of Pacific Northwest Pictures).'
+publishDate: "2018-10-26T19:53:00-04:00"
+related_articles:
+- articles/diegetic-music-in-opera-3-ways-to-use-it.md
+related_people:
+- scene/people/renee-fleming.md
+short_description: The term diva has been somewhat hijacked in 21st-century North
+  America; &quot;Mostly now, it means bad behaviour,&quot; Fleming admits. Still,
+  the character of Roxane has qualities that are charmingly familiar to those in the
+  opera industry. Her ease in high-profile social situations, her ability to articulate
+  what she does and does not want, her general fearlessness - these are the qualities
+  of people like Sondra Radvanovsky, Anna Netrebko, and of course, Fleming.
+slug: bel-canto-creating-a-diva
+title: 'Bel Canto: creating a diva'
+---
 
 She may be officially [retired](https://www.nytimes.com/2017/04/05/arts/music/the-diva-departs-renee-flemings-farewell-to-opera.html) from the opera stage, but no one can accuse Renée Fleming of slowing down. She has a new album out on Decca Records - the self-explanatory *Renée Fleming - Broadway!* - and she continues her role at Lyric Opera of Chicago as Creative Consultant. In fact, LOC has a [star-studded gala](https://www.lyricopera.org/concertstickets/calendar/2018-2019/renee-fleming-25th-anniversary-tickets?utm_source=Newsletter&utm_medium=email&utm_content=PRESS+RELEASE%3A+Lyric+Announces+Guest+Artists+for+Ren%C3%A9e+Fleming+25th+Anniversary+Concert&utm_campaign=1819+RF+concert) in store to celebrate 25 years of Fleming's "extraordinary commitment to Chicago and her unparalleled contributions to our art form."
 

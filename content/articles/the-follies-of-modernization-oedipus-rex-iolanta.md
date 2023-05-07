@@ -1,17 +1,26 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2018-11-04T16:17:00-05:00"
-lastmod = "2018-11-05T07:13:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541373420390/sq3715_03oedipusrex_gross.jpg.jpg"
-primary_image_credit = "Peter Marsh (Oedipus) in Oedipus Rex, Oper Frankfurt, 2018. Photo: Barbara Aumüller."
-publishDate = "2018-11-04T18:17:00-05:00"
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = ["scene/people/robert-pomakov.md"]
-short_description = "It&#039;s a crass move to co-opt sexual assault as a means to artificially raise an opera&#039;s stakes. It also causes serious dramaturgical issues. By screwing around with the plot, the director has given herself the irreconcilable task of manufacturing staging that respects the repercussions of Iolanta&#039;s assault, while spinning an idyllic, fairytale love story, with a libretto that only supports the latter."
-slug = "the-follies-of-modernization-oedipus-rex-iolanta"
-title = "The follies of modernization: Oedipus Rex &amp; Iolanta"
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2018-11-04T16:17:00-05:00"
+lastmod: "2018-11-05T07:13:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541373420390/sq3715_03oedipusrex_gross.jpg.jpg
+primary_image_credit: 'Peter Marsh (Oedipus) in Oedipus Rex, Oper Frankfurt, 2018.
+  Photo: Barbara Aumüller.'
+publishDate: "2018-11-04T18:17:00-05:00"
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people:
+- scene/people/robert-pomakov.md
+short_description: It&#039;s a crass move to co-opt sexual assault as a means to artificially
+  raise an opera&#039;s stakes. It also causes serious dramaturgical issues. By screwing
+  around with the plot, the director has given herself the irreconcilable task of
+  manufacturing staging that respects the repercussions of Iolanta&#039;s assault,
+  while spinning an idyllic, fairytale love story, with a libretto that only supports
+  the latter.
+slug: the-follies-of-modernization-oedipus-rex-iolanta
+title: 'The follies of modernization: Oedipus Rex &amp; Iolanta'
+---
 
 Convention is convention. No matter the parameters, adherence to convention can make for dull theater. The mainstream operatic paradigm has common elements that while once modern or "stylized" have become pat: naturalistic acting broadened to accommodate music, slow motion or highly choreographed chorus pantomimes, projections (always projections), an added plot twist or shocking tableau to spruce up old material. There's nothing inherently wrong with any of these staging tricks, but when they're employed in an obligatory way, they risk sterilizing a piece's more adventurous intentions.
  

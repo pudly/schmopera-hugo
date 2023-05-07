@@ -1,17 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-03-12T21:42:00-04:00"
-lastmod = "2018-03-14T10:44:00-04:00"
-preamble = "Described \"without exaggeration, as a perfect novel\", Adolfo Bioy Casares' [*The Invention of Morel*](https://www.longbeachopera.org/the-invention-of-morel#about) is adapted into an opera by librettist/director Jonathan Moore and composer Stewart Copeland (as in, the drummer and co-founder of The Police). The opera, based on Casares' futuristic story about love and questioning reality, had its first successful run at Chicago Opera Theater last year, and this month sees the second part of its co-world premiere at [Long Beach Opera (**March 17-25**)](https://www.longbeachopera.org/the-invention-of-morel#about). \n\nWe spoke with two singers from the cast of [*The Invention of Morel*](https://www.longbeachopera.org/the-invention-of-morel#about): tenor Nathan Granner, who sings the titular Morel, and soprano Jamie Chamberlin, who sings Faustine."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520904975050/IMG_7486.jpg.jpg"
-primary_image_credit = "(l-r) Kimberly E. Jones as Dora, Nathan Granner as Morel, and Valerie Vinzant as Faustine in The Invention of Morel, Chicago Opera Theater, 2017. Photo: Liz Lauren."
-publishDate = "2018-03-13T20:21:00-04:00"
-related_articles = ["articles/twice-on-this-island.md","articles/dont-miss-the-love-potion.md","articles/psycho-meets-sartre-at-the-nigredo-hotel.md"]
-short_description = "&quot;He is a super-genius who has created an invention that will change life as we know it. He is in obsessive love with Faustine. He has invited Faustine and the remaining characters (in the opera) to the island to woo Faustine. His gambit is to spend the rest of his days with her. ...which is kinda creepy on any level.&quot;"
-slug = "a-futuristic-love-story-the-invention-of-morel"
-title = "A futuristic love story: The Invention of Morel"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-03-12T21:42:00-04:00"
+lastmod: "2018-03-14T10:44:00-04:00"
+preamble: "Described \"without exaggeration, as a perfect novel\", Adolfo Bioy Casares'
+  [*The Invention of Morel*](https://www.longbeachopera.org/the-invention-of-morel#about)
+  is adapted into an opera by librettist/director Jonathan Moore and composer Stewart
+  Copeland (as in, the drummer and co-founder of The Police). The opera, based on
+  Casares' futuristic story about love and questioning reality, had its first successful
+  run at Chicago Opera Theater last year, and this month sees the second part of its
+  co-world premiere at [Long Beach Opera (**March 17-25**)](https://www.longbeachopera.org/the-invention-of-morel#about).
+  \n\nWe spoke with two singers from the cast of [*The Invention of Morel*](https://www.longbeachopera.org/the-invention-of-morel#about):
+  tenor Nathan Granner, who sings the titular Morel, and soprano Jamie Chamberlin,
+  who sings Faustine."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520904975050/IMG_7486.jpg.jpg
+primary_image_credit: '(l-r) Kimberly E. Jones as Dora, Nathan Granner as Morel, and
+  Valerie Vinzant as Faustine in The Invention of Morel, Chicago Opera Theater, 2017.
+  Photo: Liz Lauren.'
+publishDate: "2018-03-13T20:21:00-04:00"
+related_articles:
+- articles/twice-on-this-island.md
+- articles/dont-miss-the-love-potion.md
+- articles/psycho-meets-sartre-at-the-nigredo-hotel.md
+short_description: '&quot;He is a super-genius who has created an invention that will
+  change life as we know it. He is in obsessive love with Faustine. He has invited
+  Faustine and the remaining characters (in the opera) to the island to woo Faustine.
+  His gambit is to spend the rest of his days with her. ...which is kinda creepy on
+  any level.&quot;'
+slug: a-futuristic-love-story-the-invention-of-morel
+title: 'A futuristic love story: The Invention of Morel'
+---
 
 ## What do you think this story says about humans and their concept of "reality"?
 

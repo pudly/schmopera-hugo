@@ -1,22 +1,36 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = "2019-01-29T18:54:04+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Next up from Palm Beach Opera is [_Don Giovanni_, February 22-24](https://pbopera.org/event/don-giovanni/), and [_Die Fledermaus_, March 22-24](https://pbopera.org/event/die-fledermaus/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548788491/media/2019/01/sq7P9A9323.jpg"
-primary_image_credit = "Kristina Mkhitaryan as Violetta in La traviata, Palm Beach Opera, 2019. Photo: Bruce Bennett."
-related_articles = ["articles/steps-forward-for-operas-women-tosca-at-pbo.md", "articles/too-many-jewels-the-search-for-meaning-pbos-candide.md", "articles/summer-opera-nights-in-palm-beach.md"]
-related_companies = ["scene/companies/palm-beach-opera.md"]
-related_people = ["scene/people/emily-blair.md", "scene/people/natalie-rose-havens.md", "scene/people/ben-schaefer.md", "scene/people/massimo-cavalletti.md", "scene/people/kristina-mkhitaryan.md"]
-short_description = "Like the jewels she wore (and there were many), soprano Kristina Mkhitaryan sparkled in the starring role, singing with agility, clarity, and show-stopping emotional depth. Her soft, liquid entrances in \"Addio, del passato\" melded impeccably with the plaintive oboe solo."
-slug = "a-real-woman-shines-through-reductive-traviata-in-palm-beach"
-title = "A real woman shines through reductive Traviata in Palm Beach"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2019-01-29T18:54:04+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Next up from Palm Beach Opera is [_Don Giovanni_, February 22-24](https://pbopera.org/event/don-giovanni/),
+  and [_Die Fledermaus_, March 22-24](https://pbopera.org/event/die-fledermaus/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548788491/media/2019/01/sq7P9A9323.jpg
+primary_image_credit: 'Kristina Mkhitaryan as Violetta in La traviata, Palm Beach
+  Opera, 2019. Photo: Bruce Bennett.'
+related_articles:
+- articles/steps-forward-for-operas-women-tosca-at-pbo.md
+- articles/too-many-jewels-the-search-for-meaning-pbos-candide.md
+- articles/summer-opera-nights-in-palm-beach.md
+related_companies:
+- scene/companies/palm-beach-opera.md
+related_people:
+- scene/people/emily-blair.md
+- scene/people/natalie-rose-havens.md
+- scene/people/ben-schaefer.md
+- scene/people/massimo-cavalletti.md
+- scene/people/kristina-mkhitaryan.md
+short_description: Like the jewels she wore (and there were many), soprano Kristina
+  Mkhitaryan sparkled in the starring role, singing with agility, clarity, and show-stopping
+  emotional depth. Her soft, liquid entrances in "Addio, del passato" melded impeccably
+  with the plaintive oboe solo.
+slug: a-real-woman-shines-through-reductive-traviata-in-palm-beach
+title: A real woman shines through reductive Traviata in Palm Beach
+youtube_url: ""
+---
 The problematics in _La traviata_ are par for the course – another operatic woman who tragically dies after having sacrificed her personal happiness and fortune for the sake of a particularly doting stalker – but Verdi's famed fallen heroine is one of few to command her own narrative with genuine agency, making choices driven by morality, reason, and awareness of her own mortality.
 
 To deem the plot feminist would be generous, but it's worth noting that Verdi composed the work while living happily out of wedlock with renowned soprano [Giuseppina Strepponi](https://en.wikipedia.org/wiki/Giuseppina_Strepponi). The couple were frequently subjected to sanctimonious society gossip, making it hardly a leap to see in Violetta an operatic woman victimized not by the violence of men – for once – but by the oppression of stigma and societal double-standard.

@@ -1,17 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-03-25T08:00:00-04:00"
-lastmod = "2015-04-24T09:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429882789900/Stiffelio-764x1024.jpg.jpg"
-publishDate = "2014-03-25T08:00:00-04:00"
-related_articles = ["articles/in-review-the-mississauga-symphony-presents-carmen.md","articles/verdi-at-204-toscanini-at-150-the-2017-festival-verdi.md","articles/overdue-for-a-chicago-performance-the-haunted-manor.md"]
-related_companies = ["scene/companies/voicebox-opera-in-concert.md"]
-related_people = ["scene/people/ernesto-ramirez.md","scene/people/laura-albino.md","scene/people/geoffrey-sirett.md"]
-short_description = "On Sunday, I attended the final show of the season by Voicebox: Opera in Concert at the St. Lawrence Centre for the Arts. They presented Verdi&#039;s Stiffelio, one of his lesser-known opera written after Nabucco and Ernani, but before La traviata and La forza del destino. I&#039;d certainly never heard of it, so I was curious."
-slug = "in-review-stiffelio"
-title = "In Review: Stiffelio"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-03-25T08:00:00-04:00"
+lastmod: "2015-04-24T09:47:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429882789900/Stiffelio-764x1024.jpg.jpg
+publishDate: "2014-03-25T08:00:00-04:00"
+related_articles:
+- articles/in-review-the-mississauga-symphony-presents-carmen.md
+- articles/verdi-at-204-toscanini-at-150-the-2017-festival-verdi.md
+- articles/overdue-for-a-chicago-performance-the-haunted-manor.md
+related_companies:
+- scene/companies/voicebox-opera-in-concert.md
+related_people:
+- scene/people/ernesto-ramirez.md
+- scene/people/laura-albino.md
+- scene/people/geoffrey-sirett.md
+short_description: 'On Sunday, I attended the final show of the season by Voicebox:
+  Opera in Concert at the St. Lawrence Centre for the Arts. They presented Verdi&#039;s
+  Stiffelio, one of his lesser-known opera written after Nabucco and Ernani, but before
+  La traviata and La forza del destino. I&#039;d certainly never heard of it, so I
+  was curious.'
+slug: in-review-stiffelio
+title: 'In Review: Stiffelio'
+---
 
 On Sunday, I attended the final show of the season by [Voicebox: Opera in Concert](http://www.operainconcert.com/) at the [St. Lawrence Centre for the Arts](http://www.stlc.com/). They presented Verdi's [_Stiffelio_](http://en.wikipedia.org/wiki/Stiffelio#), one of his lesser-known opera written after _Nabucco_ and _Ernani_, but before _La traviata_ and _La forza del destino_. I'd certainly never heard of it, so I was curious.
 

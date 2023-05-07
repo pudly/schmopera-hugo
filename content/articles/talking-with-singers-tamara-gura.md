@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-02-18T12:48:00-05:00"
-lastmod = "2018-02-18T22:22:00-05:00"
-preamble = "American mezzo-soprano [Tamara Gura](/scene/people/tamara-gura/) just finished a run of Adalgisa in *Norma* at the Hessisches Staatstheater in Wiesbaden, the most recent in a string of coveted role debuts including Nicklausse (*Les contes d'Hoffmann*) in Salzburg, Isabella (*L'italiana in Algeri*) in Weimar, and Carmen in Essen, Wiesbaden, and Darmstadt. \n\nGura is currently in Bangkok, singing in Michael Tippett's *A Child of Our Time* with Siam Opera. We spoke with her about loving her nomadic lifestyle, and the in-hindsight advice she'd give her younger self."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518976108102/sq---Tamara-Gura.jpg.jpg"
-primary_image_credit = "Photo: Uwe Arens."
-publishDate = "2018-02-18T22:08:00-05:00"
-related_people = ["scene/people/tamara-gura.md"]
-short_description = "&quot;Trust your uniqueness and what you have to say. Make it your goal to find out what that is and how you can share it with the world. Take your time so that you enjoy each step of the process.&quot;"
-slug = "talking-with-singers-tamara-gura"
-title = "Talking with singers: Tamara Gura"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-02-18T12:48:00-05:00"
+lastmod: "2018-02-18T22:22:00-05:00"
+preamble: "American mezzo-soprano [Tamara Gura](/scene/people/tamara-gura/) just finished
+  a run of Adalgisa in *Norma* at the Hessisches Staatstheater in Wiesbaden, the most
+  recent in a string of coveted role debuts including Nicklausse (*Les contes d'Hoffmann*)
+  in Salzburg, Isabella (*L'italiana in Algeri*) in Weimar, and Carmen in Essen, Wiesbaden,
+  and Darmstadt. \n\nGura is currently in Bangkok, singing in Michael Tippett's *A
+  Child of Our Time* with Siam Opera. We spoke with her about loving her nomadic lifestyle,
+  and the in-hindsight advice she'd give her younger self."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518976108102/sq---Tamara-Gura.jpg.jpg
+primary_image_credit: 'Photo: Uwe Arens.'
+publishDate: "2018-02-18T22:08:00-05:00"
+related_people:
+- scene/people/tamara-gura.md
+short_description: '&quot;Trust your uniqueness and what you have to say. Make it
+  your goal to find out what that is and how you can share it with the world. Take
+  your time so that you enjoy each step of the process.&quot;'
+slug: talking-with-singers-tamara-gura
+title: 'Talking with singers: Tamara Gura'
+---
 
 ## Why do you sing professionally?
 

@@ -1,23 +1,25 @@
-+++
-date = "2015-04-07T15:58:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-07T15:58:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428436615402/DanielledeNiese-Website.jpg.jpg"
-publishDate = "2015-04-07T15:58:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md"]
-slug = "danielle-de-niese"
-title = "Danielle de Niese"
-website = "http://www.danielledeniese.com/en/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/danielledeniese"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Danielledeniese"
-_template = "people_single"
-+++
+---
+date: "2015-04-07T15:58:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-07T15:58:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428436615402/DanielledeNiese-Website.jpg.jpg
+publishDate: "2015-04-07T15:58:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/royal-opera-house.md
+slug: danielle-de-niese
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/danielledeniese
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Danielledeniese
+title: Danielle de Niese
+website: http://www.danielledeniese.com/en/
+---
 
 <p>
 	Opera Soprano Danielle de Niese is more than just the most magnetic presence in modern classical music, or the woman described by the New York Times magazine as "opera's coolest soprano." She's also the performer who's shredding the classical rulebook with her unique combination of artistic credibility and exotic 21st century allure.

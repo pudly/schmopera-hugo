@@ -1,22 +1,34 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-03-29T18:37:06+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "The Royal Opera's production of _La forza del destino_ continues through 22 April. For details and ticket information, [click here](https://www.roh.org.uk/productions/la-forza-del-destino-by-christof-loy-)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553885623/media/2019/03/sq0430JonasKaufmannasDonAlvaroLudovicTezierasDonCarloROH2019photographbyBillCooper.jpg"
-primary_image_credit = "Jonas Kaufmann (Don Alvaro) and Ludovic Tézier (Don Carlo) in La forza del destino, ROH, 2019. Photo: Bill Cooper."
-related_articles = ["articles/in-review-il-trovatore-at-roh.md", "articles/opera-laid-bare-for-better-or-for-worse-in-the-mets-fanciulla.md", "articles/constructive-frustration-from-roh-s-queen-of-spades.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/ferruccio-furlanetto.md", "scene/people/ludovic-tezier.md", "scene/people/liudmyla-monastyrska.md", "scene/people/jonas-kaufmann.md"]
-short_description = "This was a fairly standard production with a bit of a modern twist from designer Christian Schmidt, directed by Christof Loy. A star-studded production, it is currently enjoying a near sold out run at the Royal Opera."
-slug = "the-powers-of-fate-great-singing-la-forza-del-destino"
-title = "The powers of fate & great singing: La forza del destino"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-03-29T18:37:06+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: The Royal Opera's production of _La forza del destino_ continues through
+  22 April. For details and ticket information, [click here](https://www.roh.org.uk/productions/la-forza-del-destino-by-christof-loy-).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553885623/media/2019/03/sq0430JonasKaufmannasDonAlvaroLudovicTezierasDonCarloROH2019photographbyBillCooper.jpg
+primary_image_credit: 'Jonas Kaufmann (Don Alvaro) and Ludovic Tézier (Don Carlo)
+  in La forza del destino, ROH, 2019. Photo: Bill Cooper.'
+related_articles:
+- articles/in-review-il-trovatore-at-roh.md
+- articles/opera-laid-bare-for-better-or-for-worse-in-the-mets-fanciulla.md
+- articles/constructive-frustration-from-roh-s-queen-of-spades.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/ferruccio-furlanetto.md
+- scene/people/ludovic-tezier.md
+- scene/people/liudmyla-monastyrska.md
+- scene/people/jonas-kaufmann.md
+short_description: This was a fairly standard production with a bit of a modern twist
+  from designer Christian Schmidt, directed by Christof Loy. A star-studded production,
+  it is currently enjoying a near sold out run at the Royal Opera.
+slug: the-powers-of-fate-great-singing-la-forza-del-destino
+title: 'The powers of fate & great singing: La forza del destino'
+youtube_url: ""
+---
 It is undoubted that Verdi is one of the greatest operatic composers of all time and whose works remain beloved by many. His 1869 revised version [_La forza del destino_](https://www.roh.org.uk/productions/la-forza-del-destino-by-christof-loy-) is one of his greatest. It offers a level complexity and maturity not present in some of his earlier works that hints at what is to come with master-works like _Don Carlo_, _Otello_, and _Falstaff_.
 
 Here Verdi tackles what is perhaps one of the biggest themes in opera; fate. The overbearing, all-consuming character in this opera. He also raises questions about politics, nationalism, racism, and religiosity.

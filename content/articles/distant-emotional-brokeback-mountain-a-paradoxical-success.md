@@ -1,18 +1,23 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2018-06-01T22:13:00-04:00"
-lastmod = "2018-07-02T18:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546219956/media/2018/12/sqSS053018NYCO0347.jpg"
-primary_image_credit = "Brokeback Mountain, New York City Opera, 2018. Photo: Sarah Schatz."
-publishDate = "2018-06-01T22:13:00-04:00"
-related_companies = ["scene/companies/nyc-opera-renaissance.md"]
-related_people = ["scene/people/daniel-okulitch.md"]
-short_description = "I would say that Wuorinen has done Proulx&#039;s story justice, and breathed new, interesting life into what is already considered an important narrative in LGBTQ storytelling."
-slug = "distant-emotional-brokeback-mountain-a-paradoxical-success"
-title = "Distant, Emotional Brokeback Mountain A Paradoxical Success"
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2018-06-01T22:13:00-04:00"
+lastmod: "2018-07-02T18:48:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546219956/media/2018/12/sqSS053018NYCO0347.jpg
+primary_image_credit: 'Brokeback Mountain, New York City Opera, 2018. Photo: Sarah
+  Schatz.'
+publishDate: "2018-06-01T22:13:00-04:00"
+related_companies:
+- scene/companies/nyc-opera-renaissance.md
+related_people:
+- scene/people/daniel-okulitch.md
+short_description: I would say that Wuorinen has done Proulx&#039;s story justice,
+  and breathed new, interesting life into what is already considered an important
+  narrative in LGBTQ storytelling.
+slug: distant-emotional-brokeback-mountain-a-paradoxical-success
+title: Distant, Emotional Brokeback Mountain A Paradoxical Success
+---
 Ever since Ang Lee's seminal film version of Annie Proulx's short story *Brokeback Mountain*, many have called the tale of two gay cowboys an important story in the world of LGBTQ representation. With this thought in mind, the production notes of [New York City Opera's production of Charles Wuorinen's opera](https://nycopera.com/shows/brokeback-mountain/) based on the same source seem to indicate misplaced priorities on the part of the creative staff: much is made of how the music emulates the landscapes the story takes place in, to the point that one might be forgiven if they felt the emotional core of this tale is lost. And yet, those who are familiar with the original short story know that this is exactly the same impressionistic effect Proulx employed: her prose contains many descriptions of the Wyoming countryside, and gives merely impressions of moments. This oddly gives the short story much of its emotional weight; the effect the concentration on the landscape has is that it prevents the story from indulging in the kind of schmaltz that might otherwise tarnish a story such as this, which thus amplifies the palpable sense of regret that Ennis Del Mar feels by the story's conclusion.
 
 This paradox thrives in the center of Wuorinen's score, which is Boulezian in a way that might initially seem out of place to depict a romance. At first, the strident, incessant dissonance featured throughout seems cold and distant; the opera also moves at a breakneck pace, to the point that some of the first act's dramatic beats barely had enough time to land. However, as the opera treads on to its tragic finale, the score's outright denial of maudlin sentiment becomes its greatest strength: this became apparent in the handling of the dramatic beats in the second act, and even despite the dissonance in the rest of the score Ennis' discovery of Jack's death felt like a punch to the gut in just the right way.

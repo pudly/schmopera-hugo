@@ -1,22 +1,31 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = 2020-02-13T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581538341/media/2020/02/sq0060PeterTantsitsClaudiaBoyleandSamFurnessROH2020_aw6ko5.jpg"
-primary_image_credit = " Alice's Adventures Under Ground, ROH, 2020. Photo by Clive Barda."
-related_articles = ["articles/is-opera-really-for-everyone.md", "articles/jerry-lewis-opera-faces.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = []
-short_description = "Clocking in at about 55 minutes, this bit-sized, child-friendly opera is perfect for a family outing. It’s outrageous, laugh-out-loud humour can be enjoyed by all ages. There is no doubt that Barry has created a masterpiece of modern opera. His frenetic, ambitious writing does not feel overly academic or unapproachable; there is a slightly wild and surprising nature to his music which immerses the listener into the world that McDonald has created onstage."
-slug = "wild-untamable-strangeness-alices-adventures-under-ground"
-title = "Wild, untamable strangeness: Alice's Adventures Under Ground"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2020-02-13T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1581538341/media/2020/02/sq0060PeterTantsitsClaudiaBoyleandSamFurnessROH2020_aw6ko5.jpg
+primary_image_credit: ' Alice''s Adventures Under Ground, ROH, 2020. Photo by Clive
+  Barda.'
+related_articles:
+- articles/is-opera-really-for-everyone.md
+- articles/jerry-lewis-opera-faces.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people: []
+short_description: Clocking in at about 55 minutes, this bit-sized, child-friendly
+  opera is perfect for a family outing. It’s outrageous, laugh-out-loud humour can
+  be enjoyed by all ages. There is no doubt that Barry has created a masterpiece of
+  modern opera. His frenetic, ambitious writing does not feel overly academic or unapproachable;
+  there is a slightly wild and surprising nature to his music which immerses the listener
+  into the world that McDonald has created onstage.
+slug: wild-untamable-strangeness-alices-adventures-under-ground
+title: 'Wild, untamable strangeness: Alice''s Adventures Under Ground'
+youtube_url: ""
+---
 Gerald Barry’s newest opera _Alice’s Adventures Under Ground_ gets its first ever staging in this Royal Opera production designed and directed by Antony McDonald after making its European premiere in concert at The Barbican with the Britten Sinfonia in 2016. Emblematic of Barry’s characteristic raucous and fun style, this production is full to bursting with joyful weirdness and perfectly captures the strange and wonderful essence that is central to the original Lewis Carroll stories.
 
 Clocking in at about 55 minutes, this bit-sized, child-friendly opera is perfect for a family outing. It’s outrageous, laugh-out-loud humour can be enjoyed by all ages. There is no doubt that Barry has created a masterpiece of modern opera. His frenetic, ambitious writing does not feel overly academic or unapproachable; there is a slightly wild and surprising nature to his music which immerses the listener into the world that McDonald has created onstage.

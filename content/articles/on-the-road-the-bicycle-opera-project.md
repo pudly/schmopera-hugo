@@ -1,19 +1,46 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-07-28T14:08:00-04:00"
-lastmod = "2015-08-01T11:48:00-04:00"
-preamble = "[The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/) has never been busier. Currently, the group of cycling singers are finishing up a month-long run of [Dean Burry](/scene/people/dean-burry/)'s new opera, *The Bells of Baddeck*, and on Monday they begin their East Coast tour (August 3-11 in Nova Scotia, August 14-September 6 in Ontario, all by bike!) of *shadow box*, a tight collection of Canadian scenes and by people like [James Rolfe](/james-rolfe-anna-chatterton-on-creating-crush/), [Chris Thornborrow](http://www.schmopera.com/chris-thornborrow-on-composing-with-kids/), and Tobin Stokes. I had a chance to hear a preview of *shadow box* this spring, and I'm so thrilled for the artistic quality of this production.\n\n*The Bells of Baddeck* tells the story of Alexander Graham Bell, and it's not the one you think you know. I spoke with soprano and Artistic Director [Larissa Koniuk](/scene/people/larissa-koniuk/), BOP singers [Stephanie Tritchew](/scene/people/stephanie-tritchew/) and [Christopher Enns](/scene/people/christopher-enns/), and *Baddeck* librettist, Lorna MacDonald, about what sounds like a summer of operatic proportions.\n\n*shadow box* tours August 3-September 6. For details and tickets, follow the box office links below."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438127214502/Training-ride.jpg.jpg"
-primary_image_credit = "Soprano Stephanie Tritchew on a Bicycle Opera Project training ride. Photo: Geoffrey Sirett."
-publishDate = "2015-08-01T11:48:00-04:00"
-related_articles = ["articles/the-bicycle-opera-project-at-21c.md","articles/in-review-shadow-box.md","articles/on-the-road-jmc-romeo-juliette.md","articles/great-ideas-portland-opera-a-la-cart.md"]
-related_companies = ["scene/companies/the-bicycle-opera-project.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/larissa-koniuk.md","scene/people/geoffrey-sirett.md","scene/people/christopher-enns.md","scene/people/stephanie-tritchew.md","scene/people/liza-balkan.md","scene/people/giles-tomkins.md","scene/people/chris-thornborrow.md","scene/people/james-rolfe.md","scene/people/michael-christie.md"]
-short_description = "The Bicycle Opera Project has never been busier. Currently, the group of cycling singers are finishing up a month-long run of Dean Burry&#039;s new opera, The Bells of Baddeck, and on Monday they begin their East Coast tour (August 3-11 in Nova Scotia, August 14-September 6 in Ontario, all by bike!) of shadow box, a tight collection of Canadian scenes and by people like James Rolfe, Chris Thornborrow, and Tobin Stokes."
-slug = "on-the-road-the-bicycle-opera-project"
-title = "On the road: the Bicycle Opera Project"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-07-28T14:08:00-04:00"
+lastmod: "2015-08-01T11:48:00-04:00"
+preamble: |-
+  [The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/) has never been busier. Currently, the group of cycling singers are finishing up a month-long run of [Dean Burry](/scene/people/dean-burry/)'s new opera, *The Bells of Baddeck*, and on Monday they begin their East Coast tour (August 3-11 in Nova Scotia, August 14-September 6 in Ontario, all by bike!) of *shadow box*, a tight collection of Canadian scenes and by people like [James Rolfe](/james-rolfe-anna-chatterton-on-creating-crush/), [Chris Thornborrow](http://www.schmopera.com/chris-thornborrow-on-composing-with-kids/), and Tobin Stokes. I had a chance to hear a preview of *shadow box* this spring, and I'm so thrilled for the artistic quality of this production.
+
+  *The Bells of Baddeck* tells the story of Alexander Graham Bell, and it's not the one you think you know. I spoke with soprano and Artistic Director [Larissa Koniuk](/scene/people/larissa-koniuk/), BOP singers [Stephanie Tritchew](/scene/people/stephanie-tritchew/) and [Christopher Enns](/scene/people/christopher-enns/), and *Baddeck* librettist, Lorna MacDonald, about what sounds like a summer of operatic proportions.
+
+  *shadow box* tours August 3-September 6. For details and tickets, follow the box office links below.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438127214502/Training-ride.jpg.jpg
+primary_image_credit: 'Soprano Stephanie Tritchew on a Bicycle Opera Project training
+  ride. Photo: Geoffrey Sirett.'
+publishDate: "2015-08-01T11:48:00-04:00"
+related_articles:
+- articles/the-bicycle-opera-project-at-21c.md
+- articles/in-review-shadow-box.md
+- articles/on-the-road-jmc-romeo-juliette.md
+- articles/great-ideas-portland-opera-a-la-cart.md
+related_companies:
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/larissa-koniuk.md
+- scene/people/geoffrey-sirett.md
+- scene/people/christopher-enns.md
+- scene/people/stephanie-tritchew.md
+- scene/people/liza-balkan.md
+- scene/people/giles-tomkins.md
+- scene/people/chris-thornborrow.md
+- scene/people/james-rolfe.md
+- scene/people/michael-christie.md
+short_description: The Bicycle Opera Project has never been busier. Currently, the
+  group of cycling singers are finishing up a month-long run of Dean Burry&#039;s
+  new opera, The Bells of Baddeck, and on Monday they begin their East Coast tour
+  (August 3-11 in Nova Scotia, August 14-September 6 in Ontario, all by bike!) of
+  shadow box, a tight collection of Canadian scenes and by people like James Rolfe,
+  Chris Thornborrow, and Tobin Stokes.
+slug: on-the-road-the-bicycle-opera-project
+title: 'On the road: the Bicycle Opera Project'
+---
 
 ### 1. Can you give us an idea of what *The Bells of Baddeck* is about?
 

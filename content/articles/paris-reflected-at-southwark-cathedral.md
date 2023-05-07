@@ -1,18 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-04-21T09:50:00+01:00"
-lastmod = "2016-04-21T12:10:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461235507927/2016-04-21---CLS-2015-16-Season-Finale-Credit-James-Berry.jpg.jpg"
-primary_image_credit = "Photo by James Berry."
-publishDate = "2016-04-21T12:05:00+01:00"
-related_articles = ["articles/great-nights-sketches-of-miles.md","articles/review-the-personal-side-of-bachs-b-minor-mass.md"]
-related_companies = ["scene/companies/city-of-london-sinfonia.md"]
-related_people = ["scene/people/helen-charlston.md","scene/people/charlotte-bray.md"]
-short_description = "The whole evening was one that urged us to simply close our eyes and listen. It&#039;s always refreshing to hear a well-honed orchestra with so much attention paid to the experience, rather than relying simply on the deep roots of traditional classical concert tropes."
-slug = "paris-reflected-at-southwark-cathedral"
-title = "Paris Reflected at Southwark Cathedral"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-04-21T09:50:00+01:00"
+lastmod: "2016-04-21T12:10:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461235507927/2016-04-21---CLS-2015-16-Season-Finale-Credit-James-Berry.jpg.jpg
+primary_image_credit: Photo by James Berry.
+publishDate: "2016-04-21T12:05:00+01:00"
+related_articles:
+- articles/great-nights-sketches-of-miles.md
+- articles/review-the-personal-side-of-bachs-b-minor-mass.md
+related_companies:
+- scene/companies/city-of-london-sinfonia.md
+related_people:
+- scene/people/helen-charlston.md
+- scene/people/charlotte-bray.md
+short_description: The whole evening was one that urged us to simply close our eyes
+  and listen. It&#039;s always refreshing to hear a well-honed orchestra with so much
+  attention paid to the experience, rather than relying simply on the deep roots of
+  traditional classical concert tropes.
+slug: paris-reflected-at-southwark-cathedral
+title: Paris Reflected at Southwark Cathedral
+---
 
 The [City of London Sinfonia](/scene/companies/city-of-london-sinfonia/) closed its RE:Imagine series last night at the Southwark Cathedral, with *Paris Reflected*, a concert that brought listeners into the *Belle Époque*. It was the time of Debussy, Fauré, Ravel, Monet, Manet, Pissarro, the building of Paris' Sacré-Coeur Basilica, and The Great War. The latter hung over so much of the art and music of the time, yet it's always a surprising reminder to experience it, and to see and hear all the light and kindness in these works.
 

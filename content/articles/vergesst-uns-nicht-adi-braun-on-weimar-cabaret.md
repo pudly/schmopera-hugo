@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-12-10T19:44:00-05:00"
-lastmod = "2015-12-18T10:10:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449795824874/2015-12-12---Adi-Braun.jpg.jpg"
-publishDate = "2015-12-18T10:06:00-05:00"
-related_articles = ["articles/adi-braun-the-moderne-frau.md","articles/blos-threepenny-opera-a-misanthropic-delight.md"]
-related_companies = ["scene/companies/royal-conservatory-of-music.md","scene/companies/canadian-opera-company.md","scene/companies/opera-atelier.md"]
-related_people = ["scene/people/adi-braun.md"]
-short_description = "In the Weimar era, there seemed to be a cabaret for just about anybody. The dinner-theatre style of cabaret was common, says Adi, but there were also &quot;comedy clubs, gay cabarets and political cabarets, [and] each cabaret likely had its own audience.&quot;"
-slug = "vergesst-uns-nicht-adi-braun-on-weimar-cabaret"
-title = "&quot;Vergesst uns nicht!&quot;: Adi Braun on Weimar cabaret"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-12-10T19:44:00-05:00"
+lastmod: "2015-12-18T10:10:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449795824874/2015-12-12---Adi-Braun.jpg.jpg
+publishDate: "2015-12-18T10:06:00-05:00"
+related_articles:
+- articles/adi-braun-the-moderne-frau.md
+- articles/blos-threepenny-opera-a-misanthropic-delight.md
+related_companies:
+- scene/companies/royal-conservatory-of-music.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/opera-atelier.md
+related_people:
+- scene/people/adi-braun.md
+short_description: In the Weimar era, there seemed to be a cabaret for just about
+  anybody. The dinner-theatre style of cabaret was common, says Adi, but there were
+  also &quot;comedy clubs, gay cabarets and political cabarets, [and] each cabaret
+  likely had its own audience.&quot;
+slug: vergesst-uns-nicht-adi-braun-on-weimar-cabaret
+title: '&quot;Vergesst uns nicht!&quot;: Adi Braun on Weimar cabaret'
+---
 
 Jazz and cabaret singer Adi Braun comes by music honestly. She was born in Toronto, but grew up in Europe, a part of a musical family that included two famed Canadian baritones, her father [Victor Braun](http://www.thecanadianencyclopedia.ca/en/article/victor-braun-emc/), and her brother [Russell Braun](/scene/people/russell-braun/). Adi too started along a classical trajectory, studying at the University of Toronto and the Royal Conservatory of Music, and singing with the [Canadian Opera Company](/scene/companies/canadian-opera-company/) and [Opera Atelier](/scene/people/opera-atelier/). Starting in the 1990s, she began "to sing sideways", gravitating more closely to jazz and cabaret.
 

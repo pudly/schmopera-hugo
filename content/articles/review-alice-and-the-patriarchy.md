@@ -1,16 +1,24 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2018-03-21T20:11:00-04:00"
-lastmod = "2018-03-21T20:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521677311730/sq---ALICE_Adela-Wagner-1.jpg.jpg"
-primary_image_credit = "Composer Mary Prescott in dress rehearsal for ALICE. (l-r) Hannah Kurth, Blake Burroughs, Augusta Caso, Mary Kate Vom Lehn, Sara Noble, Mary Prescott, Katie Zaffrann, Cara Search, Kannan Vasudevan. Photo credit: Adela Wagner."
-publishDate = "2018-03-21T20:11:00-04:00"
-related_articles = ["articles/review-new-music-quartet-entertains-and-bores.md","articles/spotlight-on-jeremy-hirsch.md"]
-short_description = "The gallery setting served Prescott&#039;s creation. The piece thrives on intimacy. The audience benefits from the freedom to wander around, whisper to their neighbor, and collectively figuring out how to behave in and interact in the brightly lit environment."
-slug = "review-alice-and-the-patriarchy"
-title = "Review: ALICE and the Patriarchy"
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2018-03-21T20:11:00-04:00"
+lastmod: "2018-03-21T20:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521677311730/sq---ALICE_Adela-Wagner-1.jpg.jpg
+primary_image_credit: 'Composer Mary Prescott in dress rehearsal for ALICE. (l-r)
+  Hannah Kurth, Blake Burroughs, Augusta Caso, Mary Kate Vom Lehn, Sara Noble, Mary
+  Prescott, Katie Zaffrann, Cara Search, Kannan Vasudevan. Photo credit: Adela Wagner.'
+publishDate: "2018-03-21T20:11:00-04:00"
+related_articles:
+- articles/review-new-music-quartet-entertains-and-bores.md
+- articles/spotlight-on-jeremy-hirsch.md
+short_description: The gallery setting served Prescott&#039;s creation. The piece
+  thrives on intimacy. The audience benefits from the freedom to wander around, whisper
+  to their neighbor, and collectively figuring out how to behave in and interact in
+  the brightly lit environment.
+slug: review-alice-and-the-patriarchy
+title: 'Review: ALICE and the Patriarchy'
+---
 
 Composer Mary Prescott is easy to root for. Spend a few afternoons churning through [*Where We Go When*](http://mary-prescott.com/wherewegowhen/?offset=1314062220000), and you'll see what I mean.
 

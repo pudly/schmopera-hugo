@@ -1,20 +1,22 @@
-+++
-date = "2017-11-13T17:52:00-05:00"
-discipline = "Soprano"
-lastmod = "2017-11-13T17:52:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510613373463/fullsizeimage_18463.jpg.jpg"
-primary_image_credit = "S.N. de Vries"
-publishDate = "2017-11-13T17:52:00-05:00"
-related_companies = ["scene/companies/minnesota-opera.md","scene/companies/bayerische-staatsoper.md"]
-slug = "johanni-van-oostrum"
-title = "Johanni van Oostrum"
-website = "http://www.johannivanoostrum.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/JohannivanOostrum/?fref=ts"
-_template = "people_single"
-+++
+---
+date: "2017-11-13T17:52:00-05:00"
+discipline: Soprano
+lastmod: "2017-11-13T17:52:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510613373463/fullsizeimage_18463.jpg.jpg
+primary_image_credit: S.N. de Vries
+publishDate: "2017-11-13T17:52:00-05:00"
+related_companies:
+- scene/companies/minnesota-opera.md
+- scene/companies/bayerische-staatsoper.md
+slug: johanni-van-oostrum
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/JohannivanOostrum/?fref=ts
+title: Johanni van Oostrum
+website: http://www.johannivanoostrum.com/
+---
 
 South African Soprano, Johanni van Oostrum came to the attention of the international opera scene when, at short notice, she successfully took over the role of Marschallin in Richard Strauss' *Der Rosenkavalier* under the baton of Sir Simon Rattle at the Dutch National Opera in Amsterdam with the Rotterdam Philharmonic Orchestra. She has since come to prominence singing leading soprano roles by Mozart, Wagner and Strauss. 
 

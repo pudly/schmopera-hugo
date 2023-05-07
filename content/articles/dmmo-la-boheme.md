@@ -1,22 +1,31 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = "2019-07-01T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Des Moines Metro Opera's [production of _La bohème_](http://desmoinesmetroopera.org/productions/boheme/) runs through July 21."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562029435/media/2019/07/sqDMMOBohemeDSC_4076.jpg"
-primary_image_credit = "La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera."
-related_articles = ["articles/a-fiercely-queer-opera-for-halloween.md", "articles/hype-atg-boheme.md"]
-related_companies = ["scene/companies/des-moines-metro-opera.md"]
-related_people = ["scene/people/joshua-guerrero.md"]
-short_description = "The main factor that makes or breaks a production of La bohème is the cast. The six lead characters must have comedic timing, dramatic chops, and believable chemistry. This opera is so popular precisely because all the characters are realistic and likeable."
-slug = "bring-your-tissues-to-dmmos-la-boheme"
-title = "Bring your tissues to DMMO's La bohème"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2019-07-01T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Des Moines Metro Opera's [production of _La bohème_](http://desmoinesmetroopera.org/productions/boheme/)
+  runs through July 21.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1562029435/media/2019/07/sqDMMOBohemeDSC_4076.jpg
+primary_image_credit: 'La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey
+  for Des Moines Metro Opera.'
+related_articles:
+- articles/a-fiercely-queer-opera-for-halloween.md
+- articles/hype-atg-boheme.md
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+related_people:
+- scene/people/joshua-guerrero.md
+short_description: The main factor that makes or breaks a production of La bohème
+  is the cast. The six lead characters must have comedic timing, dramatic chops, and
+  believable chemistry. This opera is so popular precisely because all the characters
+  are realistic and likeable.
+slug: bring-your-tissues-to-dmmos-la-boheme
+title: Bring your tissues to DMMO's La bohème
+youtube_url: ""
+---
 [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/) delivers an archetypal production of [Puccini's _La Bohème_](http://desmoinesmetroopera.org/productions/boheme/) for their 47th summer season. This beloved opera has been a fan favorite for decades, and while there have been many interpretations that modernize the setting (such as outer space or hipsters?), sometimes the standard approach is best. Audiences have romanticized the bohemian lifestyle and the Latin Quarter for so long that it has become a timeless aesthetic, so why change something that already works?
 
 The design teams created a classic production that felt familiar and realistic. From the impoverished intimacy of the artists' apartment to the bustling chaos at Café Momus, the scenery, lighting, costumes, hair, and make up all combined to create a cohesive environment for Puccini's beloved characters to inhabit.

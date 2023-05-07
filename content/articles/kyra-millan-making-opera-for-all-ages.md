@@ -1,19 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-03-12T18:08:00-04:00"
-lastmod = "2018-03-13T09:15:00-04:00"
-preamble = "With pianist Christina Faye, soprano and arts educator Kyra Millan makes up one half of [Millan & Faye](http://kyra-millan.com/millan-and-faye/), the musical comedy duo that shares opera with audiences young and not-so-young. Millan & Faye bring their [show for young audiences](http://files.coc.ca/pdfs/concert180315.pdf) to the Richard Bradshaw Amphitheatre on **March 15 at noon**, as part of the Canadian Opera Company's Free Concert Series.\n\nWe spoke with Millan about easy-to-break barriers between opera and new audiences, and her great advice about exposing young people to an old art form."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520892359472/sq---HighResMarch15RBA_1%5B1%5D.jpg.jpg"
-primary_image_credit = "Soprano Kyra Millan and an Opera for All Ages participant, photo: Lara Hintelmann."
-publishDate = "2018-03-13T09:15:00-04:00"
-related_articles = ["articles/the-case-for-music-education.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/kyra-millan.md"]
-short_description = "&quot;The singing can sound silly to some at first, because it is a very intense, open sound, but with some of the best music ever written in the hands of a skilled artist, live music can bypass the intellect and resonate directly with the soul and heart.&quot;"
-slug = "kyra-millan-making-opera-for-all-ages"
-title = "Kyra Millan: making Opera for All Ages"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-03-12T18:08:00-04:00"
+lastmod: "2018-03-13T09:15:00-04:00"
+preamble: |-
+  With pianist Christina Faye, soprano and arts educator Kyra Millan makes up one half of [Millan & Faye](http://kyra-millan.com/millan-and-faye/), the musical comedy duo that shares opera with audiences young and not-so-young. Millan & Faye bring their [show for young audiences](http://files.coc.ca/pdfs/concert180315.pdf) to the Richard Bradshaw Amphitheatre on **March 15 at noon**, as part of the Canadian Opera Company's Free Concert Series.
+
+  We spoke with Millan about easy-to-break barriers between opera and new audiences, and her great advice about exposing young people to an old art form.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520892359472/sq---HighResMarch15RBA_1%5B1%5D.jpg.jpg
+primary_image_credit: 'Soprano Kyra Millan and an Opera for All Ages participant,
+  photo: Lara Hintelmann.'
+publishDate: "2018-03-13T09:15:00-04:00"
+related_articles:
+- articles/the-case-for-music-education.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/kyra-millan.md
+short_description: '&quot;The singing can sound silly to some at first, because it
+  is a very intense, open sound, but with some of the best music ever written in the
+  hands of a skilled artist, live music can bypass the intellect and resonate directly
+  with the soul and heart.&quot;'
+slug: kyra-millan-making-opera-for-all-ages
+title: 'Kyra Millan: making Opera for All Ages'
+---
 
 ## What do young people like about opera?
 

@@ -1,16 +1,22 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2018-02-18T09:59:00-05:00"
-lastmod = "2018-02-19T21:09:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519092318147/sq---LUQ_7392.jpg.jpg"
-primary_image_credit = "(left to right) Suzanna Guzmán (Lupita), Juan Mendoza (Chucho) in Cruzar la Cara de la Luna, 2018."
-publishDate = "2018-02-19T21:09:00-05:00"
-related_articles = ["articles/vos-merry-widow-a-comedic-tourdeforce.md"]
-short_description = "Director Guerrero, using only a small acting space and nothing more than a door, a chair and bed as set pieces, utilized beautiful and, in some cases, symbolic rear projections to underpin the production, which is as much about the heart-breaking issue of immigration as it is about the heart-felt music."
-slug = "viva-la-operetta"
-title = "&quot;Viva la operetta!&quot;"
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2018-02-18T09:59:00-05:00"
+lastmod: "2018-02-19T21:09:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519092318147/sq---LUQ_7392.jpg.jpg
+primary_image_credit: (left to right) Suzanna Guzmán (Lupita), Juan Mendoza (Chucho)
+  in Cruzar la Cara de la Luna, 2018.
+publishDate: "2018-02-19T21:09:00-05:00"
+related_articles:
+- articles/vos-merry-widow-a-comedic-tourdeforce.md
+short_description: Director Guerrero, using only a small acting space and nothing
+  more than a door, a chair and bed as set pieces, utilized beautiful and, in some
+  cases, symbolic rear projections to underpin the production, which is as much about
+  the heart-breaking issue of immigration as it is about the heart-felt music.
+slug: viva-la-operetta
+title: '&quot;Viva la operetta!&quot;'
+---
 
 For someone who knows virtually nothing about mariachi (like this reviewer), the production of *Cruzar La Cara De La Luna* was an eye-opening experience. It was a chance to not only hear, for the first time, the most famous mariachi band in the world ([Mariachi Vargas De Tecalitlan](https://www.youtube.com/watch?v=8NWSWg7c0Ec)), but a chance to see that mariachi, as a genre, can sustain a lovely and poignant book musical. Commissioned by and premiered at Houston Grand Opera in 2010, this is the Los Angeles premiere of the work (for one weekend only at the Younes and Soraya Nazarian Center for the Performing Arts, formerly the Valley Performing Arts Center on the campus of CSUN.)
 

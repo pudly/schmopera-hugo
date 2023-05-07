@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-02-20T11:12:00+00:00"
-lastmod = "2017-02-21T17:36:00+00:00"
-preamble = "[The Atlanta Opera](/scene/companies/the-atlanta-opera/) has announced an exciting season for 2017/18, with great picks for opera fans of all sorts. Wagner's *The Flying Dutchman* kicks off the mainstage season in November 2017, along with favourites like *Carmen*, *La fille du régiment*, and even *Sweeney Todd*. TAO's expanded Discoveries Series features Weill's *The Seven Deadly Sins*, and the first fully-staged production of Jake Heggie's *Out of Darkness*.\n\nTomer Zvulun, Artistic Director of The Atlanta Opera and director of *The Flying Dutchman*, talks about discovering Wagner, and what he's most excited about in 2017/18."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487589262044/2017-02-20---TomerZvulun_credit_JeffRoffman.jpg.jpg"
-primary_image_credit = "Tomer Zvulun, Artistic Director of The Atlanta Opera. Photo: Jeff Roffman."
-publishDate = "2017-02-21T11:21:00+00:00"
-related_articles = ["articles/creators-in-concert-jake-heggie.md","articles/in-review-the-seven-deadly-sins.md","articles/talking-with-singers-christine-goerke.md","articles/la-finta-giardiniera-coming-to-a-garden-near-you.md"]
-related_companies = ["scene/companies/the-atlanta-opera.md"]
-short_description = "&quot;There are countless books about Wagner, his work, philosophy and creative process. It is an incredibly rich and profound world and one can be immersed in it for a lifetime and still be a newbie. It is especially meaningful to me as an Israeli who did not have access to his music as there have been a ban on his music in Israel for decades. Perhaps that element of the forbidden made his music even more attractive to me.&quot;"
-slug = "tomer-zvulun-the-atlanta-operas-intriguing-201718"
-title = "Tomer Zvulun: The Atlanta Opera&#039;s intriguing 2017/18"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-02-20T11:12:00+00:00"
+lastmod: "2017-02-21T17:36:00+00:00"
+preamble: |-
+  [The Atlanta Opera](/scene/companies/the-atlanta-opera/) has announced an exciting season for 2017/18, with great picks for opera fans of all sorts. Wagner's *The Flying Dutchman* kicks off the mainstage season in November 2017, along with favourites like *Carmen*, *La fille du régiment*, and even *Sweeney Todd*. TAO's expanded Discoveries Series features Weill's *The Seven Deadly Sins*, and the first fully-staged production of Jake Heggie's *Out of Darkness*.
+
+  Tomer Zvulun, Artistic Director of The Atlanta Opera and director of *The Flying Dutchman*, talks about discovering Wagner, and what he's most excited about in 2017/18.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487589262044/2017-02-20---TomerZvulun_credit_JeffRoffman.jpg.jpg
+primary_image_credit: 'Tomer Zvulun, Artistic Director of The Atlanta Opera. Photo:
+  Jeff Roffman.'
+publishDate: "2017-02-21T11:21:00+00:00"
+related_articles:
+- articles/creators-in-concert-jake-heggie.md
+- articles/in-review-the-seven-deadly-sins.md
+- articles/talking-with-singers-christine-goerke.md
+- articles/la-finta-giardiniera-coming-to-a-garden-near-you.md
+related_companies:
+- scene/companies/the-atlanta-opera.md
+short_description: '&quot;There are countless books about Wagner, his work, philosophy
+  and creative process. It is an incredibly rich and profound world and one can be
+  immersed in it for a lifetime and still be a newbie. It is especially meaningful
+  to me as an Israeli who did not have access to his music as there have been a ban
+  on his music in Israel for decades. Perhaps that element of the forbidden made his
+  music even more attractive to me.&quot;'
+slug: tomer-zvulun-the-atlanta-operas-intriguing-201718
+title: 'Tomer Zvulun: The Atlanta Opera&#039;s intriguing 2017/18'
+---
 
 ## What are some highlights of 2017/18 that you personally look forward to most?
 

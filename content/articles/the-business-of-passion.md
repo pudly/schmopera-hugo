@@ -1,17 +1,30 @@
-+++
-author = ["authors/isaiah-bell.md"]
-categories = "Op-ed"
-date = "2014-05-24T08:00:00-04:00"
-lastmod = "2017-08-10T10:34:00-04:00"
-preamble = "This is a guest post by Canadian tenor, composer and brilliant auteur, Isaiah Bell. He's [written for Schmopera before](/on-the-ego/). Enjoy."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502375690082/2017-08-10---Passion.jpg.jpg"
-publishDate = "2014-05-24T08:00:00-04:00"
-related_articles = ["articles/on-the-ego.md","articles/and-i-know-things-now.md","articles/we-dont-have-to-starve-dreaming-of-an-artistic-middle-class.md","articles/morbid-musings-art-death.md","articles/nude-musicians-less-hot-than-it-sounds.md","articles/the-time-i-spilled-some-secrets-into-a-microphone.md","articles/conundrums-singing-on-command.md","articles/selfdoubt-the-accidental-manual.md"]
-related_people = ["scene/people/isaiah-bell.md"]
-short_description = "I kind of dread being asked what I do. That’s an awful thing to say, given what an interesting and unique job I have, but it’s true. At a non-music party [NMP, for your future reference!] or in a cab, the conversation usually starts something like this:\n“So you’re travelling a lot for work – what’s your job?”"
-slug = "the-business-of-passion"
-title = "The Business of Passion"
-+++
+---
+author:
+- authors/isaiah-bell.md
+categories: Op-ed
+date: "2014-05-24T08:00:00-04:00"
+lastmod: "2017-08-10T10:34:00-04:00"
+preamble: This is a guest post by Canadian tenor, composer and brilliant auteur, Isaiah
+  Bell. He's [written for Schmopera before](/on-the-ego/). Enjoy.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502375690082/2017-08-10---Passion.jpg.jpg
+publishDate: "2014-05-24T08:00:00-04:00"
+related_articles:
+- articles/on-the-ego.md
+- articles/and-i-know-things-now.md
+- articles/we-dont-have-to-starve-dreaming-of-an-artistic-middle-class.md
+- articles/morbid-musings-art-death.md
+- articles/nude-musicians-less-hot-than-it-sounds.md
+- articles/the-time-i-spilled-some-secrets-into-a-microphone.md
+- articles/conundrums-singing-on-command.md
+- articles/selfdoubt-the-accidental-manual.md
+related_people:
+- scene/people/isaiah-bell.md
+short_description: |-
+  I kind of dread being asked what I do. That’s an awful thing to say, given what an interesting and unique job I have, but it’s true. At a non-music party [NMP, for your future reference!] or in a cab, the conversation usually starts something like this:
+  “So you’re travelling a lot for work – what’s your job?”
+slug: the-business-of-passion
+title: The Business of Passion
+---
 
 I kind of dread being asked what I do. That's an awful thing to say, given what an interesting and unique job I have, but it's true. At a non-music party [NMP, for your future reference!] or in a cab, the conversation usually starts something like this:
 "So you're travelling a lot for work – what's your job?"

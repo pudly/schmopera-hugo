@@ -1,16 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-10-29T22:05:00-04:00"
-lastmod = "2015-10-30T22:19:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446174947386/10-15-29---505-DundasSquare.jpg.jpg"
-publishDate = "2015-10-30T09:58:00-04:00"
-related_companies = ["scene/companies/loose-tea-music-theatre.md","scene/companies/fawn-chamber-creative.md"]
-related_people = ["scene/people/jennifer-krabbe.md","scene/people/cairan-ryan.md","scene/people/jonathan-macarthur.md","scene/people/amanda-smith.md","scene/people/alaina-viau.md"]
-short_description = "Last night I went to Mây on Dundas West for one of the most compact, strange evenings of music theatre I&#039;ve ever seen. Canadian tenor Jonathan MacArthur, Loose TEA Music Theatre Artistic Director Alaina Viau, and Fawn Chamber Creative Artistic Director Amanda Smith have collaborated on Toronto Darknet Market, a fundraising event for Medée Toronto&#039;s 2016 production of Medée by Charpentier."
-slug = "weird-wonderful-toronto-darknet-market"
-title = "Weird &amp; wonderful: Toronto Darknet Market"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-10-29T22:05:00-04:00"
+lastmod: "2015-10-30T22:19:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446174947386/10-15-29---505-DundasSquare.jpg.jpg
+publishDate: "2015-10-30T09:58:00-04:00"
+related_companies:
+- scene/companies/loose-tea-music-theatre.md
+- scene/companies/fawn-chamber-creative.md
+related_people:
+- scene/people/jennifer-krabbe.md
+- scene/people/cairan-ryan.md
+- scene/people/jonathan-macarthur.md
+- scene/people/amanda-smith.md
+- scene/people/alaina-viau.md
+short_description: Last night I went to Mây on Dundas West for one of the most compact,
+  strange evenings of music theatre I&#039;ve ever seen. Canadian tenor Jonathan MacArthur,
+  Loose TEA Music Theatre Artistic Director Alaina Viau, and Fawn Chamber Creative
+  Artistic Director Amanda Smith have collaborated on Toronto Darknet Market, a fundraising
+  event for Medée Toronto&#039;s 2016 production of Medée by Charpentier.
+slug: weird-wonderful-toronto-darknet-market
+title: 'Weird &amp; wonderful: Toronto Darknet Market'
+---
 
 Last night I went to [Mây](http://www.maytoronto.com/) on Dundas West for one of the most compact, *strange* evenings of music theatre I've ever seen. Canadian tenor [Jonathan MacArthur](/scene/people/jonathan-macarthur/), [Loose TEA Music Theatre](/scene/companies/loose-tea-music-theatre/) Artistic Director Alaina Viau, and [Fawn Chamber Creative](/scene/companies/fawn-chamber-collective/) Artistic Director [Amanda Smith](/scene/people/amanda-smith/) have collaborated on Toronto Darknet Market, a fundraising event for Medée Toronto's 2016 production of *Medée* by Charpentier.
 

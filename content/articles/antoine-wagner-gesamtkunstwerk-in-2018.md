@@ -1,17 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-07-04T16:29:00-04:00"
-lastmod = "2018-07-04T17:42:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530736137589/Antoine-wagner-portrait1.jpg.jpg"
-primary_image_credit = "Photo: Thomas Birkett."
-publishDate = "2018-07-04T17:42:00-04:00"
-related_articles = ["articles/in-review-siegfried.md","articles/kinder-schafft-neues-die-meistersinger-von-nrnberg.md"]
-related_people = ["scene/people/alan-held.md"]
-short_description = "He remembers an early-1990s summer at the Bayreuth Festival, during the creation of the now-famed Harry Kupfer production of the Ring Cycle, conducted by Daniel Barenboim. Antoine and Barenboim&#039;s son, David, had renamed all of their He-Man figurines after Wagnerian characters."
-slug = "antoine-wagner-gesamtkunstwerk-in-2018"
-title = "Antoine Wagner: Gesamtkunstwerk in 2018"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-07-04T16:29:00-04:00"
+lastmod: "2018-07-04T17:42:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530736137589/Antoine-wagner-portrait1.jpg.jpg
+primary_image_credit: 'Photo: Thomas Birkett.'
+publishDate: "2018-07-04T17:42:00-04:00"
+related_articles:
+- articles/in-review-siegfried.md
+- articles/kinder-schafft-neues-die-meistersinger-von-nrnberg.md
+related_people:
+- scene/people/alan-held.md
+short_description: He remembers an early-1990s summer at the Bayreuth Festival, during
+  the creation of the now-famed Harry Kupfer production of the Ring Cycle, conducted
+  by Daniel Barenboim. Antoine and Barenboim&#039;s son, David, had renamed all of
+  their He-Man figurines after Wagnerian characters.
+slug: antoine-wagner-gesamtkunstwerk-in-2018
+title: 'Antoine Wagner: Gesamtkunstwerk in 2018'
+---
 
 This July at Miami's New World Symphony Center, the Miami Music Festival's [Wagner Institute](https://www.miamiwagnerinstitute.com/) presents an evening that pairs the tension between opera and technology with the formidable term, [*Gesamtkunstwerk*](https://en.wikipedia.org/wiki/Gesamtkunstwerk).
 

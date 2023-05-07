@@ -1,15 +1,23 @@
-+++
-date = "2016-02-14T18:28:00-05:00"
-discipline = "Tenor"
-lastmod = "2016-02-14T18:28:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455492399181/2016-02-14---Michael-Colvin.jpg.jpg"
-publishDate = "2016-02-14T18:28:00-05:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/vancouver-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/manitoba-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/opera-lyra-ottawa.md"]
-slug = "michael-colvin"
-title = "Michael Colvin"
-website = "http://www.michaelcolvin.com/"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2016-02-14T18:28:00-05:00"
+discipline: Tenor
+lastmod: "2016-02-14T18:28:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455492399181/2016-02-14---Michael-Colvin.jpg.jpg
+publishDate: "2016-02-14T18:28:00-05:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/royal-opera-house.md
+- scene/companies/english-national-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/manitoba-opera.md
+- scene/companies/lyric-opera-of-kansas-city.md
+- scene/companies/opera-lyra-ottawa.md
+slug: michael-colvin
+title: Michael Colvin
+website: http://www.michaelcolvin.com/
+---
 
 Hailed in Opera News as possessing “one of the most beautiful lyric tenor instruments around” Irish-Canadian tenor Michael Colvin has appeared to critical acclaim on opera and concert stages throughout Canada, the USA, UK and Europe. His 2014-2015 season concluded with his debut at The Royal Opera Covent Garden as Rodolphe in Rossini’s GUILLAUME TELL conducted by Antonio Pappano. The year also included a return to the Canadian Opera Company for the roles of Goro in MADAMA BUTTERFLY and Dr. Caius in FALSTAFF, Herod in SALOME for Opera Ireland, Jaquino for Manitoba Opera’s FIDELIO and MESSIAHs in Newfoundland and in Montreal. He joined Bramwell Tovey and the Vancouver Symphony for Rimsky-Korsakov’s MOZART AND SALIERI and also was seen in Brussels and Paris as Jaquino, with the St. Paul Chamber Orchestra in Beethoven’s Symphony No. 9 and the Toronto Mendelssohn Choir in Pärts’ PASSIO. In 2013-2014, he was at the English National Opera where he first essayed the title role in PETER GRIMES. He also appeared as Bob Boles in PETER GRIMES with the London Philharmonic in Europe and was back in London for English National Opera’s revival of the Britten work. Vancouver Opera audiences heard him as the Mayor in ALBERT HERRING, and further dates included Calgary for Beethoven’s Symphony No. 9, Halifax for Symphony Nova Scotia’s MESSIAH and Montreal for Bach’s JOHANNES PASSION.
 

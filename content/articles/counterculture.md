@@ -1,17 +1,24 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2018-12-13T16:17:00-05:00"
-lastmod = "2018-12-13T16:17:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735662054/sqGLASSHANDEL1.jpg.jpg"
-primary_image_credit = "Anthony Roth Costanzo in Glass Handel. Photo: Dominic M. Mercier."
-publishDate = "2018-12-13T16:17:00-05:00"
-related_articles = ["articles/the-astonishing-product-glass-handel-at-o18.md"]
-related_people = ["scene/people/anthony-roth-costanzo.md"]
-short_description = "There was literally something for everyone who enjoys culture. Though many elements tied together, in the end it had the same effect as a large, complex mosaic - no surprise since it was the result of a collaboration between many:  Mr. Costanzo conceived the project in conjunction with the artistic directors of Visionaire and National Sawdust, which is known for its interdisciplinary productions."
-slug = "counterculture"
-title = "Counter/Culture"
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2018-12-13T16:17:00-05:00"
+lastmod: "2018-12-13T16:17:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735662054/sqGLASSHANDEL1.jpg.jpg
+primary_image_credit: 'Anthony Roth Costanzo in Glass Handel. Photo: Dominic M. Mercier.'
+publishDate: "2018-12-13T16:17:00-05:00"
+related_articles:
+- articles/the-astonishing-product-glass-handel-at-o18.md
+related_people:
+- scene/people/anthony-roth-costanzo.md
+short_description: 'There was literally something for everyone who enjoys culture.
+  Though many elements tied together, in the end it had the same effect as a large,
+  complex mosaic - no surprise since it was the result of a collaboration between
+  many:  Mr. Costanzo conceived the project in conjunction with the artistic directors
+  of Visionaire and National Sawdust, which is known for its interdisciplinary productions.'
+slug: counterculture
+title: Counter/Culture
+---
 
 In the performance piece *Glass Handel*, renowned countertenor Anthony Roth Costanzo sang in the middle of a three-ring "circus" of art, dance and music. While his voice was the center of attention, there were a lot of other things to experience, depending on where you were sitting.  But that wasn't a problem, because of the ingenious "people movers" concept, where everyone in the audience was literally picked up in his or her chair and transported, via cart, to other locations during the approximately one-hour program.  
 

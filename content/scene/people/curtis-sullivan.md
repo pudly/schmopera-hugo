@@ -1,14 +1,21 @@
-+++
-date = "2017-01-08T11:53:00+00:00"
-discipline = "Baritone"
-lastmod = "2017-01-08T11:55:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483876389064/2017-01-08---Curtis-Sullivan.jpg.jpg"
-publishDate = "2017-01-08T11:53:00+00:00"
-related_companies = ["scene/companies/opera-atelier.md","scene/companies/toronto-operetta-theatre.md","scene/companies/calgary-opera.md","scene/companies/vancouver-opera.md","scene/companies/san-francisco-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/tapestry-opera.md"]
-slug = "curtis-sullivan"
-title = "Curtis Sullivan"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-01-08T11:53:00+00:00"
+discipline: Baritone
+lastmod: "2017-01-08T11:55:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483876389064/2017-01-08---Curtis-Sullivan.jpg.jpg
+publishDate: "2017-01-08T11:53:00+00:00"
+related_companies:
+- scene/companies/opera-atelier.md
+- scene/companies/toronto-operetta-theatre.md
+- scene/companies/calgary-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/tapestry-opera.md
+slug: curtis-sullivan
+title: Curtis Sullivan
+---
 
 A suave baritone sound has assured Curtis Sullivan of success in a variety of musical idioms. On the opera stage, he starred as Count Almaviva in Opera Atelier’s *The Marriage of Figaro* in Toronto and Tokyo and he has also been heard for Opera Atelier in Charpentier’s *Medée*, as Sarastro in *Die Zauberflöte* and as Neptune in *Idomeneo*. For the Stratford Festival, he was cast as Giuseppe in *The Gondoliers* directed by Brian Macdonald. Sondheim’s innovative music theatre work, *Passion*, was his assignment at the Canadian Stage in Toronto where he starred as the brooding romantic hero, Giorgio.  In another change of pace, the Banff Centre alumnus appeared in the Classical Kids production of *Tchaikovsky Discovers America* with the Houston Symphony, Oklahoma City Philharmonic, San Diego Symphony, and the National Symphony Orchestra at the Kennedy Center. 
 

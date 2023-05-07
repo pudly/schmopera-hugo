@@ -1,22 +1,28 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2022-10-23T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Enigma Chamber Opera's production of _Prodigal Son_ is [available to stream](https://www.eventbrite.com/e/enigma-chamber-opera-presents-benjamin-brittens-the-prodigal-son-tickets-428822960017) through November 4, 2022."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666563829/media/2022/10/sqEnigma_Matthew_DiBattista_in_Enigma_Chamber_Opera_s_PRODIGAL_SON_Photo_by_Ashlee_Rose_Scott_ml8lq3.jpg"
-primary_image_credit = "Matthew DiBattista in Enigma Chamber Opera’s PRODIGAL SON. Photo by Ashlee Rose Scott."
-related_articles = ["articles/catharsis-is-the-wrong-word-brittens-war-requiem.md", "articles/enigma-opera-s-curlew-river-a-transcendent-experience.md"]
-related_companies = []
-related_people = []
-short_description = "The attention to detail in the characterizations extended to everyone else afterwards, as well. Matthew DiBattista brought a certain hesitancy to the Younger Son that made him endearing, even when he sang more confidently."
-slug = "show-stealers-in-enigma-chamber-operas-prodigal-son"
-title = "Show stealers in Enigma Chamber Opera's Prodigal Son"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2022-10-23T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Enigma Chamber Opera's production of _Prodigal Son_ is [available to stream](https://www.eventbrite.com/e/enigma-chamber-opera-presents-benjamin-brittens-the-prodigal-son-tickets-428822960017)
+  through November 4, 2022.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1666563829/media/2022/10/sqEnigma_Matthew_DiBattista_in_Enigma_Chamber_Opera_s_PRODIGAL_SON_Photo_by_Ashlee_Rose_Scott_ml8lq3.jpg
+primary_image_credit: Matthew DiBattista in Enigma Chamber Opera’s PRODIGAL SON. Photo
+  by Ashlee Rose Scott.
+related_articles:
+- articles/catharsis-is-the-wrong-word-brittens-war-requiem.md
+- articles/enigma-opera-s-curlew-river-a-transcendent-experience.md
+related_companies: []
+related_people: []
+short_description: The attention to detail in the characterizations extended to everyone
+  else afterwards, as well. Matthew DiBattista brought a certain hesitancy to the
+  Younger Son that made him endearing, even when he sang more confidently.
+slug: show-stealers-in-enigma-chamber-operas-prodigal-son
+title: Show stealers in Enigma Chamber Opera's Prodigal Son
+youtube_url: ""
+---
 In last year’s opera season, I had the chance to review [Enigma Chamber Opera](https://enigmachamberopera.org/)'s luminous production of Benjamin Britten’s [_Curlew River_](/enigma-operas-curlew-river-a-transcendent-experience/), a production that still lives on in my mind an entire year later. It is perhaps fortunate, then, that Enigma Chamber Opera has decided to dedicate its next offerings on producing the other two church operas in Britten's arsenal, and they have elected to start with [_Prodigal Son_](https://www.eventbrite.com/e/enigma-chamber-opera-presents-benjamin-brittens-the-prodigal-son-tickets-428822960017). It is always risky to go on a series in the same venue that uses a surprisingly similar staging conceit of performers using found objects as props in a church; unless the works are sufficiently different from each other, you are going to inevitably draw comparisons between all three.
 
 <figure data-type="image">

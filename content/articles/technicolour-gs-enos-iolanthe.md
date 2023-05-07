@@ -1,18 +1,28 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2018-02-18T10:24:00-05:00"
-lastmod = "2018-02-19T09:20:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518967333824/sq---ENO-Iolanthe-Marcus-Farnsworth-Ellie-Laugharne-Clive-Barda.jpg.jpg"
-primary_image_credit = "Marcus Farnsworth and Ellie Laugharne in Iolanthe, English National Opera, 2018. Photo: Clive Barda."
-publishDate = "2018-02-19T09:20:00-05:00"
-related_articles = ["articles/in-review-the-pirates-of-penzance-at-eno.md","articles/in-review-ah-mikado.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/andrew-shore.md"]
-short_description = "There were cheap laughs as well - seeing an MP with the hair of Boris Johnson was funny once, but the second time was over-doing it. An unwelcome flamingo made its way onto the stage for apparently no reason at all. The two-person cow suit made me feel like I was at a Christmas panto and not the London Coliseum - not to say that&#039;s an entirely bad thing."
-slug = "technicolour-gs-enos-iolanthe"
-title = "Technicolour G&amp;S: ENO&#039;s Iolanthe"
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2018-02-18T10:24:00-05:00"
+lastmod: "2018-02-19T09:20:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518967333824/sq---ENO-Iolanthe-Marcus-Farnsworth-Ellie-Laugharne-Clive-Barda.jpg.jpg
+primary_image_credit: 'Marcus Farnsworth and Ellie Laugharne in Iolanthe, English
+  National Opera, 2018. Photo: Clive Barda.'
+publishDate: "2018-02-19T09:20:00-05:00"
+related_articles:
+- articles/in-review-the-pirates-of-penzance-at-eno.md
+- articles/in-review-ah-mikado.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/andrew-shore.md
+short_description: There were cheap laughs as well - seeing an MP with the hair of
+  Boris Johnson was funny once, but the second time was over-doing it. An unwelcome
+  flamingo made its way onto the stage for apparently no reason at all. The two-person
+  cow suit made me feel like I was at a Christmas panto and not the London Coliseum
+  - not to say that&#039;s an entirely bad thing.
+slug: technicolour-gs-enos-iolanthe
+title: 'Technicolour G&amp;S: ENO&#039;s Iolanthe'
+---
 
 A new production of [*Iolanthe*](https://www.eno.org/whats-on/iolanthe/) runs at English National Opera that is as full of gags as it was of colour. The operetta, whose main purpose is to serve as a satirical commentary on 19th-century parliament, follows the story of Iolanthe, a fairy who has married and had a child with a mortal, a crime punishable by her banishment. Iolanthe's son, Strephon, must become a member of parliament in order to marry his love, Phyllis. Cal McCrystal presents this classic Gilbert and Sullivan show as a storybook fantasy, juxtaposing the chorus of fairies with the members of parliament in a great spectacle of gender wars.
 

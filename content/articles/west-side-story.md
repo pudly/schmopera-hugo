@@ -1,22 +1,29 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = "2019-05-20T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Lyric Opera of Chicago's production of [_West Side Story_](https://www.lyricopera.org/productions/2018-19/west-side-story/) runs through June 2."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558395347/media/2019/05/sqAmandaCastro_WESTSIDESTORY_LyricOperaofChicago_LYR190502_346.jpg"
-primary_image_credit = "Amanda Castro (Anita) in West Side Story, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg."
-related_articles = ["articles/beloved-bernstein-hgos-west-side-story.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = []
-short_description = "Even though, of course, I knew of this story's roots in Romeo and Juliet, I was nonetheless shocked and heartbroken by these characters' deaths in the Rumble scene and then watching the rapid unraveling of Maria and Tony's lives in Act II."
-slug = "theres-a-place-for-us-at-locs-west-side-story"
-title = "There's a place for us at LOC's West Side Story"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2019-05-20T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Lyric Opera of Chicago's production of [_West Side Story_](https://www.lyricopera.org/productions/2018-19/west-side-story/)
+  runs through June 2.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1558395347/media/2019/05/sqAmandaCastro_WESTSIDESTORY_LyricOperaofChicago_LYR190502_346.jpg
+primary_image_credit: 'Amanda Castro (Anita) in West Side Story, Lyric Opera of Chicago,
+  2019. Photo: Todd Rosenberg.'
+related_articles:
+- articles/beloved-bernstein-hgos-west-side-story.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people: []
+short_description: Even though, of course, I knew of this story's roots in Romeo and
+  Juliet, I was nonetheless shocked and heartbroken by these characters' deaths in
+  the Rumble scene and then watching the rapid unraveling of Maria and Tony's lives
+  in Act II.
+slug: theres-a-place-for-us-at-locs-west-side-story
+title: There's a place for us at LOC's West Side Story
+youtube_url: ""
+---
 Cutting through the inordinately stubborn winter weather this year, _West Side Story_ at the Lyric Opera of Chicago could not have come at a more opportune time: it's the hottest show in the city right now and instantly dispels any lingering winter blues.
 
 >Conductor James Lowe brings to life Bernstein's dazzling score with ebullience and an ear for expressive nuance.

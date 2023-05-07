@@ -1,18 +1,40 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-10-17T16:39:00+01:00"
-lastmod = "2016-10-18T16:48:00+01:00"
-preamble = "Originally commissioned by [Opera Theater of Saint Louis](/scene/companies/opera-theater-of-st-louis/) in 2014, *27*, the opera by Ricky Ian Gordon and Royce Vavrek, is getting its New York premiere this week, as part of the 75th anniversary season of MasterVoices. On [October 20 and 21](http://www.nycitycenter.org/tickets/productionNew.aspx?performanceNumber=10076#.WAT2T5MrJE4), the opera about the life and relationship of Gertrude Stein and Alice B. Toklas will come to the [New York City Center](http://www.nycitycenter.org/tickets/productionNew.aspx?performanceNumber=10076#.WAT2T5MrJE4), starring the iconic [Stephanie Blythe](/scene/people/stephanie-blythe/) as Stein, and Heidi Stober as Toklas.\n\nThe semi-staged production features direction by James Robinson, and conductor Ted Sperling leads the Orchestra of St. Luke's. The [New York premiere of *27*](http://www.nycitycenter.org/tickets/productionNew.aspx?performanceNumber=10076#.WAT2T5MrJE4) features newly-composed music for the MasterVoices chorus, expanded from its original three-voice form. \n\nWe spoke with Gordon and Vavrek about this new presentation of their opera, and about their unique perspective on the story of Gertrude Stein, Alice B. Tolkas, and their salons at 27 rue de Fleurus in Paris.\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476719707669/2016-10-18---Square-27.jpg.jpg"
-primary_image_credit = "Elizabeth Futral, Theo Lebow, Tobias Greenhalgh, and Daniel Brevik in OTSL’s 2014 production of 27. Photo: Ken Howard."
-publishDate = "2016-10-18T16:00:00+01:00"
-related_companies = ["scene/companies/opera-theatre-of-st-louis.md"]
-related_people = ["scene/people/stephanie-blythe.md","scene/people/royce-vavrek.md"]
-short_description = "&quot;The idea was inspired by the idea of writing an opera for Stephanie, because of the personal relationship I have with her and knowing how her favorite thing to do is PRESIDE! It seemed a perfect fit and it has been a dream. She is an outsized voice and personality like Stein, it is a perfect fit. Stephanie has enormous love, artistry, courage, basically, BALLS!&quot;"
-slug = "gordon-vavreks-27-the-new-york-premiere"
-title = "Gordon &amp; Vavrek&#039;s 27: the New York premiere"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-10-17T16:39:00+01:00"
+lastmod: "2016-10-18T16:48:00+01:00"
+preamble: "Originally commissioned by [Opera Theater of Saint Louis](/scene/companies/opera-theater-of-st-louis/)
+  in 2014, *27*, the opera by Ricky Ian Gordon and Royce Vavrek, is getting its New
+  York premiere this week, as part of the 75th anniversary season of MasterVoices.
+  On [October 20 and 21](http://www.nycitycenter.org/tickets/productionNew.aspx?performanceNumber=10076#.WAT2T5MrJE4),
+  the opera about the life and relationship of Gertrude Stein and Alice B. Toklas
+  will come to the [New York City Center](http://www.nycitycenter.org/tickets/productionNew.aspx?performanceNumber=10076#.WAT2T5MrJE4),
+  starring the iconic [Stephanie Blythe](/scene/people/stephanie-blythe/) as Stein,
+  and Heidi Stober as Toklas.\n\nThe semi-staged production features direction by
+  James Robinson, and conductor Ted Sperling leads the Orchestra of St. Luke's. The
+  [New York premiere of *27*](http://www.nycitycenter.org/tickets/productionNew.aspx?performanceNumber=10076#.WAT2T5MrJE4)
+  features newly-composed music for the MasterVoices chorus, expanded from its original
+  three-voice form. \n\nWe spoke with Gordon and Vavrek about this new presentation
+  of their opera, and about their unique perspective on the story of Gertrude Stein,
+  Alice B. Tolkas, and their salons at 27 rue de Fleurus in Paris.\n"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476719707669/2016-10-18---Square-27.jpg.jpg
+primary_image_credit: 'Elizabeth Futral, Theo Lebow, Tobias Greenhalgh, and Daniel
+  Brevik in OTSL’s 2014 production of 27. Photo: Ken Howard.'
+publishDate: "2016-10-18T16:00:00+01:00"
+related_companies:
+- scene/companies/opera-theatre-of-st-louis.md
+related_people:
+- scene/people/stephanie-blythe.md
+- scene/people/royce-vavrek.md
+short_description: '&quot;The idea was inspired by the idea of writing an opera for
+  Stephanie, because of the personal relationship I have with her and knowing how
+  her favorite thing to do is PRESIDE! It seemed a perfect fit and it has been a dream.
+  She is an outsized voice and personality like Stein, it is a perfect fit. Stephanie
+  has enormous love, artistry, courage, basically, BALLS!&quot;'
+slug: gordon-vavreks-27-the-new-york-premiere
+title: 'Gordon &amp; Vavrek&#039;s 27: the New York premiere'
+---
 
 ## What prompted you to focus on this aspect in the life of Gertrude Stein, her relationship with Alice B. Toklas?
 

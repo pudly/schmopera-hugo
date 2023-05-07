@@ -1,22 +1,30 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = "2019-04-07T00:27:07+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "_Les enfants terribles_ runs at Opera Omaha through April 14. For details and ticket information, [click here](https://www.operaomaha.org/season-tickets/current-season/2018-2019-season/les-enfants-terribles)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554772073/media/2019/04/sqDSC05604.jpg"
-primary_image_credit = "Les enfants terribles, Opera Omaha, 2019. Photo: Adam Larsen."
-related_articles = []
-related_companies = ["scene/companies/opera-omaha.md"]
-related_people = ["scene/people/theo-hoffman.md", "scene/people/naomi-louisa-o-connell.md", "scene/people/vanessa-becerra.md", "scene/people/adrian-kramer.md"]
-short_description = "The dynamics between the siblings made me uncomfortable in a variety of ways. There were sexual undertones spliced in with disturbingly infantile antics. Clearly everyone in this opera needed to go to therapy."
-slug = "disturbing-fascinating-les-enfants-terribles-in-omaha"
-title = "Disturbing & fascinating: Les enfants terribles in Omaha"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2019-04-07T00:27:07+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: _Les enfants terribles_ runs at Opera Omaha through April 14. For details
+  and ticket information, [click here](https://www.operaomaha.org/season-tickets/current-season/2018-2019-season/les-enfants-terribles).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1554772073/media/2019/04/sqDSC05604.jpg
+primary_image_credit: 'Les enfants terribles, Opera Omaha, 2019. Photo: Adam Larsen.'
+related_articles: []
+related_companies:
+- scene/companies/opera-omaha.md
+related_people:
+- scene/people/theo-hoffman.md
+- scene/people/naomi-louisa-o-connell.md
+- scene/people/vanessa-becerra.md
+- scene/people/adrian-kramer.md
+short_description: The dynamics between the siblings made me uncomfortable in a variety
+  of ways. There were sexual undertones spliced in with disturbingly infantile antics.
+  Clearly everyone in this opera needed to go to therapy.
+slug: disturbing-fascinating-les-enfants-terribles-in-omaha
+title: 'Disturbing & fascinating: Les enfants terribles in Omaha'
+youtube_url: ""
+---
 Opera Omaha's production of _Les enfants terribles_ is a strange and mesmerizing exploration of dissociation and escapism. There are no certainties - only abstract visuals, raw emotions, and atmospheric music. Philip Glass' opera, based on the novel by Jean Cocteau, triggers reactions that are powerful but hard to understand. The more I tried to wrap my brain around the piece the more confused I became. The music and the story refuse to be defined. All the audience can do is surrender to the transient emotions without over analyzing - a feat that is easier said than done.
 
 The story centers around siblings Paul and Elisabeth and their private, fantasy world. The plot is a bit confusing, so feel free to read the [full synopsis here](https://operaamerica.org/applications/NAWD/newworks/details.aspx?id=1141) before proceeding.

@@ -1,16 +1,24 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-06-30T12:31:00-04:00"
-lastmod = "2018-07-02T20:23:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530376184706/sqVAIMediumimage1.jpg.jpg"
-primary_image_credit = "Marie Powers as Madame Flora in The Medium. Photo: Courtesy of Video Artists International, Inc./vaimusic.com."
-publishDate = "2018-06-30T12:31:00-04:00"
-related_articles = ["articles/persona-and-the-sounds-of-silence.md","articles/erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional.md"]
-short_description = "The film deserves broader exposure. Seven decades after Menotti composed the score and wrote the libretto, both still sound ever so inventive and contemporary. As a film director Menotti nurtured a naturalistic atmosphere in which it appears inevitable that his characters sing and in the process he has created a finely honed example of operatic film noir. "
-slug = "the-medium-opera-as-film-noir"
-title = "The Medium: opera as film noir"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-06-30T12:31:00-04:00"
+lastmod: "2018-07-02T20:23:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530376184706/sqVAIMediumimage1.jpg.jpg
+primary_image_credit: 'Marie Powers as Madame Flora in The Medium. Photo: Courtesy
+  of Video Artists International, Inc./vaimusic.com.'
+publishDate: "2018-06-30T12:31:00-04:00"
+related_articles:
+- articles/persona-and-the-sounds-of-silence.md
+- articles/erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional.md
+short_description: 'The film deserves broader exposure. Seven decades after Menotti
+  composed the score and wrote the libretto, both still sound ever so inventive and
+  contemporary. As a film director Menotti nurtured a naturalistic atmosphere in which
+  it appears inevitable that his characters sing and in the process he has created
+  a finely honed example of operatic film noir. '
+slug: the-medium-opera-as-film-noir
+title: 'The Medium: opera as film noir'
+---
 
 Madame Flora, or Baba as her daughter refers to her with fearful affection, is a blousy, boozy, and conniving crook at heart. When we meet her at the beginning of Gian Carlo Menotti's 1951 film adaptation of his opera, *The Medium*, she is sitting on the stairs outside an apartment door.  A hand emerges offering a few forints (we are in Budapest) that she reluctantly accepts; yet she continues to wait. The door opens wider, revealing a woman holding a small child. When offered a locket, she gives it a cursory inspection, takes it, and heads straight to a pawnshop. There, when offered a meager sum, she casts a wearily suspicious glance at the proprietor, and coaxes him into a better deal.
 

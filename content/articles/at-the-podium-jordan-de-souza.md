@@ -1,19 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-02-04T11:54:00-05:00"
-lastmod = "2016-02-05T00:03:00-05:00"
-preamble = "Conductor and keyboardist [Jordan de Souza](/scene/people/jordan-de-souza/) is currently assisting maestro [Johannes Debus](/johannes-debus-falstaff-comedy-and-teamwork/) on the [Canadian Opera Company](/scene/companies/canadian-opera-company/)'s production of [*The Marriage of Figaro*](http://www.coc.ca/PerformancesAndTickets/1516Season/TheMarriageofFigaro.aspx), and he'll be taking the podium for two performances, February 23 and 25.\n\nHe talks with us about high pressure gigs, uncovering Mozart's meaning, and leading the fantastic Canadian Opera Company Orchestra.\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454606608307/2016-02-04---Jordan-de-Souza.jpg.jpg"
-primary_image_credit = "Photo by Brent Calis."
-publishDate = "2016-02-05T08:03:00-05:00"
-related_articles = ["articles/potential-orchestra-mutiny-and-conductor-envy.md","articles/spotlight-on-christopher-james-ray.md","articles/spotlight-on-christopher-allen.md","articles/he-saidshe-said-songbook-vi.md","articles/power-plays-and-crossing-lines-.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/jordan-de-souza.md"]
-short_description = "Conductor and keyboardist Jordan de Souza is currently assisting maestro Johannes Debus on the Canadian Opera Company&#039;s production of The Marriage of Figaro, and he&#039;ll be taking the podium for two performances, February 23 and 25. He talks with us about high pressure gigs, uncovering Mozart&#039;s meaning, and leading the fantastic Canadian Opera Company Orchestra."
-slug = "at-the-podium-jordan-de-souza"
-title = "At the podium: Jordan de Souza"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-02-04T11:54:00-05:00"
+lastmod: "2016-02-05T00:03:00-05:00"
+preamble: |+
+  Conductor and keyboardist [Jordan de Souza](/scene/people/jordan-de-souza/) is currently assisting maestro [Johannes Debus](/johannes-debus-falstaff-comedy-and-teamwork/) on the [Canadian Opera Company](/scene/companies/canadian-opera-company/)'s production of [*The Marriage of Figaro*](http://www.coc.ca/PerformancesAndTickets/1516Season/TheMarriageofFigaro.aspx), and he'll be taking the podium for two performances, February 23 and 25.
+
+  He talks with us about high pressure gigs, uncovering Mozart's meaning, and leading the fantastic Canadian Opera Company Orchestra.
+
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454606608307/2016-02-04---Jordan-de-Souza.jpg.jpg
+primary_image_credit: Photo by Brent Calis.
+publishDate: "2016-02-05T08:03:00-05:00"
+related_articles:
+- articles/potential-orchestra-mutiny-and-conductor-envy.md
+- articles/spotlight-on-christopher-james-ray.md
+- articles/spotlight-on-christopher-allen.md
+- articles/he-saidshe-said-songbook-vi.md
+- articles/power-plays-and-crossing-lines-.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/jordan-de-souza.md
+short_description: Conductor and keyboardist Jordan de Souza is currently assisting
+  maestro Johannes Debus on the Canadian Opera Company&#039;s production of The Marriage
+  of Figaro, and he&#039;ll be taking the podium for two performances, February 23
+  and 25. He talks with us about high pressure gigs, uncovering Mozart&#039;s meaning,
+  and leading the fantastic Canadian Opera Company Orchestra.
+slug: at-the-podium-jordan-de-souza
+title: 'At the podium: Jordan de Souza'
+---
 
 ## Do you feel hype or pressure for your performances of Figaro at the COC?
 

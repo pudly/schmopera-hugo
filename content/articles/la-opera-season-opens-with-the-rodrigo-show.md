@@ -1,17 +1,28 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2018-09-23T19:44:00-04:00"
-lastmod = "2018-09-25T10:21:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746208598/sqdc_t8a2655_pr.jpg.jpg"
-primary_image_credit = "Plácido Domingo as Rodrigo and Ferruccio Furlanetto as King Philip II in LA Opera's 2018 production of Don Carlo. Photo: Cory Weaver/LA Opera."
-publishDate = "2018-09-24T10:40:00-04:00"
-related_companies = ["scene/companies/los-angeles-opera.md"]
-related_people = ["scene/people/plcido-domingo.md","scene/people/morris-robinson.md","scene/people/ana-maria-martinez.md","scene/people/ramon-vargas.md","scene/people/anna-smirnova.md"]
-short_description = "Morris Robinson hits his third home run in a row at LA Opera as the blind, self-righteous, single-minded Grand Inquisitor.  Having wowed us as Zaccaria in Nabucco, and Sparafucile in Rigoletto, he’s become a regular at LA Opera and he lifts any production to the sublime in any role that he plays."
-slug = "la-opera-season-opens-with-the-rodrigo-show"
-title = "LA Opera season opens with The Rodrigo Show"
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2018-09-23T19:44:00-04:00"
+lastmod: "2018-09-25T10:21:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746208598/sqdc_t8a2655_pr.jpg.jpg
+primary_image_credit: 'Plácido Domingo as Rodrigo and Ferruccio Furlanetto as King
+  Philip II in LA Opera''s 2018 production of Don Carlo. Photo: Cory Weaver/LA Opera.'
+publishDate: "2018-09-24T10:40:00-04:00"
+related_companies:
+- scene/companies/los-angeles-opera.md
+related_people:
+- scene/people/plcido-domingo.md
+- scene/people/morris-robinson.md
+- scene/people/ana-maria-martinez.md
+- scene/people/ramon-vargas.md
+- scene/people/anna-smirnova.md
+short_description: Morris Robinson hits his third home run in a row at LA Opera as
+  the blind, self-righteous, single-minded Grand Inquisitor.  Having wowed us as Zaccaria
+  in Nabucco, and Sparafucile in Rigoletto, he’s become a regular at LA Opera and
+  he lifts any production to the sublime in any role that he plays.
+slug: la-opera-season-opens-with-the-rodrigo-show
+title: LA Opera season opens with The Rodrigo Show
+---
 
 The good news is that Placido Domingo doesn't appear to be retiring any time soon. The great news is that he is still a phenom. If you were an opera lover who arrived at [LA Opera](/scene/companies/los-angeles-opera/) last night in a time machine (from an era when there was no Domingo) you would have been knocked out by the performance of the man playing Rodrigo in Verdi's *Don Carlo*. You would have concluded that this is a man at the top of his game, somewhere in the middle of his career. No doubt you then would have been stunned to learn that this Rodrigo is in fact 77 years old, and further stunned to learn that he was once perhaps the greatest tenor in his field and that he reinvented himself to become one of the greatest baritones. 
 

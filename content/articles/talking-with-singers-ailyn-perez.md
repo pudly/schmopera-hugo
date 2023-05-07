@@ -1,18 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-02-11T17:09:00+00:00"
-lastmod = "2017-02-20T15:31:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486833196309/2017-02-10---Ailyn-Perez---Rebecca-Fay.jpg.jpg"
-primary_image_credit = "Photo: Rebecca Fay"
-publishDate = "2017-02-20T10:31:00+00:00"
-related_articles = ["articles/talking-with-singers-christine-goerke.md","articles/talking-with-singers-sondra-radvanovsky.md","articles/talking-with-singers-corinne-winters.md","articles/arts-money-waste.md","articles/talking-with-singers-zachary-nelson.md","articles/talking-with-singers-brenda-rae.md","articles/a-kind-of-twisted-egotistical-apotheosis-faust-in-chicago.md","articles/roundtable-an-operatic-triple-threat.md"]
-related_companies = ["scene/companies/teatro-alla-scala.md","scene/companies/the-metropolitan-opera.md","scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/ailyn-prez.md"]
-short_description = "&quot;I would tell everybody that the work is real,&quot; she says with a laugh. &quot;Just because now you&#039;ve sung at the Metropolitan Opera or have a new production, or have reached your dream role...the work still remains.&quot; Pérez describes it as having to &quot;reintroduce yourself all the time,&quot; taking charge of her own professional choices and constantly looking ahead to the next project."
-slug = "talking-with-singers-ailyn-perez"
-title = "Talking with singers: Ailyn Pérez"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-02-11T17:09:00+00:00"
+lastmod: "2017-02-20T15:31:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486833196309/2017-02-10---Ailyn-Perez---Rebecca-Fay.jpg.jpg
+primary_image_credit: 'Photo: Rebecca Fay'
+publishDate: "2017-02-20T10:31:00+00:00"
+related_articles:
+- articles/talking-with-singers-christine-goerke.md
+- articles/talking-with-singers-sondra-radvanovsky.md
+- articles/talking-with-singers-corinne-winters.md
+- articles/arts-money-waste.md
+- articles/talking-with-singers-zachary-nelson.md
+- articles/talking-with-singers-brenda-rae.md
+- articles/a-kind-of-twisted-egotistical-apotheosis-faust-in-chicago.md
+- articles/roundtable-an-operatic-triple-threat.md
+related_companies:
+- scene/companies/teatro-alla-scala.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/houston-grand-opera.md
+related_people:
+- scene/people/ailyn-prez.md
+short_description: '&quot;I would tell everybody that the work is real,&quot; she
+  says with a laugh. &quot;Just because now you&#039;ve sung at the Metropolitan Opera
+  or have a new production, or have reached your dream role...the work still remains.&quot;
+  Pérez describes it as having to &quot;reintroduce yourself all the time,&quot; taking
+  charge of her own professional choices and constantly looking ahead to the next
+  project.'
+slug: talking-with-singers-ailyn-perez
+title: 'Talking with singers: Ailyn Pérez'
+---
 
 "There's stage fright no matter where you sing," says soprano [Ailyn Pérez](/scene/people/ailyn-perez/), who's currently in Milan to sing what has become one of her signature roles, Violetta Valéry, in Liliana Cavani's production of [*La traviata*](http://www.teatroallascala.org/en/season/2016-2017/opera/traviata.html) at the famed [Teatro alla Scala](/scene/companies/teatro-alla-scala/). "Maybe it's just part of being a soprano," she muses, "but there is nothing that I sing that doesn't have a legacy behind it of great, great singers."
 

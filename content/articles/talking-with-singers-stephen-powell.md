@@ -1,22 +1,34 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = "2019-01-30T00:48:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "San Diego Opera's production of _Rigoletto_ runs February 2-10. For details, [click here](https://www.sdopera.org/season/2018-2019-season/rigoletto)."
-preamble = "American baritone Stephen Powell is singing the title role in _Rigoletto_ at the San Diego Opera on February 2, 5, 8, and 10. The production is directed by Michael Cavanagh and the conductor is Steven White. Alisa Jordheim is Gilda and Scott Quinn is the Duke of Mantua."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548813295/media/2019/01/sqSDORigolettoPowell.jpg"
-primary_image_credit = "San Diego Opera presents Verdi's masterpiece, Rigoletto, February 2-10, 2019, starring Stephen Powell (pictured) in the title role. Photo by Cory Weaver for The Portland Opera."
-related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/talking-with-singers-morris-robinson.md"]
-related_companies = ["scene/companies/san-diego-opera.md"]
-related_people = ["scene/people/stephen-powell.md"]
-short_description = "I wanted to be Billy Joel when I was growing up because he was a classically trained pianist too. He wrote his own music, sang his own stuff, arranged his own music, his songs, and told a story."
-slug = "talking-with-singers-stephen-powell"
-title = "Talking with singers: Stephen Powell"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/eva-cahen.md
+categories: Interview
+date: "2019-01-30T00:48:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: San Diego Opera's production of _Rigoletto_ runs February 2-10. For details,
+  [click here](https://www.sdopera.org/season/2018-2019-season/rigoletto).
+preamble: American baritone Stephen Powell is singing the title role in _Rigoletto_
+  at the San Diego Opera on February 2, 5, 8, and 10. The production is directed by
+  Michael Cavanagh and the conductor is Steven White. Alisa Jordheim is Gilda and
+  Scott Quinn is the Duke of Mantua.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548813295/media/2019/01/sqSDORigolettoPowell.jpg
+primary_image_credit: San Diego Opera presents Verdi's masterpiece, Rigoletto, February
+  2-10, 2019, starring Stephen Powell (pictured) in the title role. Photo by Cory
+  Weaver for The Portland Opera.
+related_articles:
+- articles/talking-with-singers-matthew-polenzani.md
+- articles/talking-with-singers-morris-robinson.md
+related_companies:
+- scene/companies/san-diego-opera.md
+related_people:
+- scene/people/stephen-powell.md
+short_description: I wanted to be Billy Joel when I was growing up because he was
+  a classically trained pianist too. He wrote his own music, sang his own stuff, arranged
+  his own music, his songs, and told a story.
+slug: talking-with-singers-stephen-powell
+title: 'Talking with singers: Stephen Powell'
+youtube_url: ""
+---
 **Why do you sing?**
 
 The human voice is, without disrespect to other instruments, the most immediate and visceral. As human beings, we all have a voice and we all have the same bodies. Even people who are not musicians or have no musical knowledge can relate to that. You can witness it in how people follow music in everyday life, whether it's classical, rock, pop or jazz. The things we talk about most are the voices and the singers, or bands, like the Beatles. In opera it's really about the voice.

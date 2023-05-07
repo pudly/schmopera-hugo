@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-10-24T12:32:00+01:00"
-lastmod = "2016-10-25T19:39:00+01:00"
-preamble = "\"Orchestra Underground: Contempo-Scary Music\" is the great title that the [American Composers Orchestra](http://www.americancomposers.org/2016/09/04/orchestra-underground-contempo-scary/) gave to their [Halloween-themed season opener at Zankel Hall, **October 28 at 7:30pm**](http://www.americancomposers.org/2016/09/04/orchestra-underground-contempo-scary/). On the spooky programme are Bernard Herrmann's *Psycho Suite* (after Hitchock's film), the world premiere of Judith Shatin's *Black Moon*, Paul Moravec's *The Overlook Hotel Suite* (based on his opera, and Stephen King's novel, *The Shining*), and David del Tredici's scena for soprano/narrator and orchestra, *Dracula*.\n\nNancy Allen Lundy sings del Tredici's surreal, spooky piece, which is a setting of Alfred Corn's poem, \"My Neighbor, the Distinguished Count.\" We spoke with Allen about the singer-as-narrator, and becoming the lady who livies next-door to Count Dracula.\n\nFor full details and ticket information about \"Contempo-Scary Music\" on October 28, [click here.](http://www.americancomposers.org/2016/09/04/orchestra-underground-contempo-scary/)"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477309061253/2016-10-24---NancyAllenLundy---Dracula---MasatakaSuemitsu.jpg.jpg"
-primary_image_credit = "Photo by Masataka Suemitsu"
-publishDate = "2016-10-25T09:26:00+01:00"
-related_articles = ["articles/opera-in-virtual-reality-the-parksville-murders.md","articles/spooky-shows-the-telltale-heart.md","articles/6-operas-to-creep-you-out.md"]
-related_people = ["scene/people/nancy-allen-lundy.md"]
-short_description = "&quot;Alfred Corn is the brilliant wordsmith of this beguiling story. I can&#039;t say enough about how beautifully crafted the text is. The words are like music, tripping and bubbling off the tongue. They are a pleasure to speak, and every phrase is an economic distillation of words to convey intention.&quot;"
-slug = "draculas-neighbour-nancy-allen-lundy"
-title = "Dracula&#039;s neighbour: Nancy Allen Lundy"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-10-24T12:32:00+01:00"
+lastmod: "2016-10-25T19:39:00+01:00"
+preamble: |-
+  "Orchestra Underground: Contempo-Scary Music" is the great title that the [American Composers Orchestra](http://www.americancomposers.org/2016/09/04/orchestra-underground-contempo-scary/) gave to their [Halloween-themed season opener at Zankel Hall, **October 28 at 7:30pm**](http://www.americancomposers.org/2016/09/04/orchestra-underground-contempo-scary/). On the spooky programme are Bernard Herrmann's *Psycho Suite* (after Hitchock's film), the world premiere of Judith Shatin's *Black Moon*, Paul Moravec's *The Overlook Hotel Suite* (based on his opera, and Stephen King's novel, *The Shining*), and David del Tredici's scena for soprano/narrator and orchestra, *Dracula*.
+
+  Nancy Allen Lundy sings del Tredici's surreal, spooky piece, which is a setting of Alfred Corn's poem, "My Neighbor, the Distinguished Count." We spoke with Allen about the singer-as-narrator, and becoming the lady who livies next-door to Count Dracula.
+
+  For full details and ticket information about "Contempo-Scary Music" on October 28, [click here.](http://www.americancomposers.org/2016/09/04/orchestra-underground-contempo-scary/)
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477309061253/2016-10-24---NancyAllenLundy---Dracula---MasatakaSuemitsu.jpg.jpg
+primary_image_credit: Photo by Masataka Suemitsu
+publishDate: "2016-10-25T09:26:00+01:00"
+related_articles:
+- articles/opera-in-virtual-reality-the-parksville-murders.md
+- articles/spooky-shows-the-telltale-heart.md
+- articles/6-operas-to-creep-you-out.md
+related_people:
+- scene/people/nancy-allen-lundy.md
+short_description: '&quot;Alfred Corn is the brilliant wordsmith of this beguiling
+  story. I can&#039;t say enough about how beautifully crafted the text is. The words
+  are like music, tripping and bubbling off the tongue. They are a pleasure to speak,
+  and every phrase is an economic distillation of words to convey intention.&quot;'
+slug: draculas-neighbour-nancy-allen-lundy
+title: 'Dracula&#039;s neighbour: Nancy Allen Lundy'
+---
 
 ## What kind of lady is Dracula's neighbour?
 

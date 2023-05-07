@@ -1,25 +1,35 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = 2019-11-19T05:00:00Z
-discipline = ""
-disclaimer = ""
-image_gallery = []
-postamble = "Oper Frankfurt's [_Tamerlano_](https://oper-frankfurt.de/de/spielplan/tamerlano/) is onstage through November 24."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574134014/media/2019/11/sq4152_tamerlano07_dxqhvj.jpg"
-primary_image_credit = "(l-r) Lawrence Zazzo (Tamerlano) and Brennan Hall (Andronico) in Tamerlano, Oper Frankfurt, 2019. Photo: Monika Rittershaus."
-related_articles = ["articles/dalibor.md", "articles/an-absolute-triumph-koskys-carmen.md"]
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = ["scene/people/lawrence-zazzo.md", "scene/people/rb-schlather.md"]
-short_description = "The characters begin as caricatures. Tamerlano (Lawrence Zazzo), a sadistic Southwestern oil baron who's a cross between Yosemite Sam and Daniel Day Lewis's tics in There Will Be Blood, has a grin (and mustache) glued to his face."
-slug = "patience-rewarded-in-oper-frankfurts-tamerlano"
-social_media = []
-title = "Patience rewarded in Oper Frankfurt's Tamerlano"
-website = ""
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2019-11-19T05:00:00Z"
+discipline: ""
+disclaimer: ""
+image_gallery: []
+postamble: Oper Frankfurt's [_Tamerlano_](https://oper-frankfurt.de/de/spielplan/tamerlano/)
+  is onstage through November 24.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1574134014/media/2019/11/sq4152_tamerlano07_dxqhvj.jpg
+primary_image_credit: '(l-r) Lawrence Zazzo (Tamerlano) and Brennan Hall (Andronico)
+  in Tamerlano, Oper Frankfurt, 2019. Photo: Monika Rittershaus.'
+related_articles:
+- articles/dalibor.md
+- articles/an-absolute-triumph-koskys-carmen.md
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people:
+- scene/people/lawrence-zazzo.md
+- scene/people/rb-schlather.md
+short_description: The characters begin as caricatures. Tamerlano (Lawrence Zazzo),
+  a sadistic Southwestern oil baron who's a cross between Yosemite Sam and Daniel
+  Day Lewis's tics in There Will Be Blood, has a grin (and mustache) glued to his
+  face.
+slug: patience-rewarded-in-oper-frankfurts-tamerlano
+social_media: []
+title: Patience rewarded in Oper Frankfurt's Tamerlano
+website: ""
+youtube_url: ""
+---
 Some indie opera tropes have grown too tired to contribute much to spontaneous, surprising story telling. Examples include placing a character or two onstage before the audience enters, the orchestra being part of the _mise en scène_ and participating gamely in a few meta jokes, characters moving in ambiguous slow motion during transitions, sets looking slapdash and minimalist, the score being benignly altered, singers melodramatically intoning texts, and the fourth wall being broken, a lot.
 
 Director R.B. Schlather utilizes all of the above techniques in the first act of his new _Tamerlano_ (Handel) at Oper Frankfurt's hip alternate venue, the Bockenheimer Depot.

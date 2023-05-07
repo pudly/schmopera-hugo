@@ -1,24 +1,28 @@
-+++
-date = "2017-11-06T14:29:00-05:00"
-discipline = "Soprano"
-lastmod = "2017-11-06T14:31:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509996367771/YING_FANG-8741_V2.jpg.jpg"
-primary_image_credit = "Courtesy of IMG Artists"
-publishDate = "2017-11-06T14:29:00-05:00"
-related_companies = ["scene/companies/washington-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/opernhaus-zurich.md","scene/companies/vancouver-opera.md","scene/companies/opera-philadelphia.md"]
-slug = "ying-fang"
-title = "Ying Fang"
-website = "http://www.yingfangsoprano.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/yingfangsoprano/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/sopranoying"
-_template = "people_single"
-+++
+---
+date: "2017-11-06T14:29:00-05:00"
+discipline: Soprano
+lastmod: "2017-11-06T14:31:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509996367771/YING_FANG-8741_V2.jpg.jpg
+primary_image_credit: Courtesy of IMG Artists
+publishDate: "2017-11-06T14:29:00-05:00"
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/vancouver-opera.md
+- scene/companies/opera-philadelphia.md
+slug: ying-fang
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/yingfangsoprano/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/sopranoying
+title: Ying Fang
+website: http://www.yingfangsoprano.com/
+---
 
 Soprano Ying Fang has been hailed by the New York Times for her “pure and moving soprano, phrasing with scrupulous respect for the line and traveling with assurance through the mercurial moods,” as well as “singing with a fresh, appealing soprano and acting with coquettish flair.”
 

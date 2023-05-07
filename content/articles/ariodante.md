@@ -1,22 +1,36 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Review"
-date = "2019-03-06T16:53:22+00:00"
-disclaimer = "_Be advised that there may be elements of this production, (especially in Act II), that may be distressing to some individuals, as the action includes a depiction of sexual assault._"
-image_gallery = []
-postamble = "_Ariodante_ runs at Lyric Opera of Chicago through March 17. For details and tickets, [click here](https://www.lyricopera.org/concertstickets/calendar/2018-2019/ariodante-opera-tickets)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551891487/media/2019/03/sqBrendaRaeKyleKetelsenARIODANTET8A1874.jpg"
-primary_image_credit = "Brenda Rae and Kyle Ketelsen in Ariodante, Lyric Opera of Chicago, 2019. Photo: Cory Weaver."
-related_articles = ["articles/pass-the-tissues-a-beautiful-new-bohme-in-chicago.md", "articles/ariodante-or-the-hebridean-handel.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/iestyn-davies.md", "scene/people/heidi-stober.md", "scene/people/kyle-ketelsen.md", "scene/people/alice-coote.md", "scene/people/brenda-rae.md"]
-short_description = "This Ariodante exemplifies what I hope to see more of from the Lyric in future seasons: creative, specific staging performed by committed and compelling singer-actors, with top-notch direction in the pit."
-slug = "chicago-ariodante-pulses-with-emotion-and-suspense"
-title = "Chicago Ariodante pulses with emotion and suspense"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Review
+date: "2019-03-06T16:53:22+00:00"
+disclaimer: _Be advised that there may be elements of this production, (especially
+  in Act II), that may be distressing to some individuals, as the action includes
+  a depiction of sexual assault._
+image_gallery: []
+postamble: _Ariodante_ runs at Lyric Opera of Chicago through March 17. For details
+  and tickets, [click here](https://www.lyricopera.org/concertstickets/calendar/2018-2019/ariodante-opera-tickets).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551891487/media/2019/03/sqBrendaRaeKyleKetelsenARIODANTET8A1874.jpg
+primary_image_credit: 'Brenda Rae and Kyle Ketelsen in Ariodante, Lyric Opera of Chicago,
+  2019. Photo: Cory Weaver.'
+related_articles:
+- articles/pass-the-tissues-a-beautiful-new-bohme-in-chicago.md
+- articles/ariodante-or-the-hebridean-handel.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/iestyn-davies.md
+- scene/people/heidi-stober.md
+- scene/people/kyle-ketelsen.md
+- scene/people/alice-coote.md
+- scene/people/brenda-rae.md
+short_description: 'This Ariodante exemplifies what I hope to see more of from the
+  Lyric in future seasons: creative, specific staging performed by committed and compelling
+  singer-actors, with top-notch direction in the pit.'
+slug: chicago-ariodante-pulses-with-emotion-and-suspense
+title: Chicago Ariodante pulses with emotion and suspense
+youtube_url: ""
+---
 Though some will apparently never recover from the "indignity" of watching [Danielle de Niese slide off a pair of knickers](/pass-the-tissues-a-beautiful-new-bohème-in-chicago/) during "Quando m'en vo" last fall, I for one was eager to see Richard Jones' production of [_Ariodante_](https://www.lyricopera.org/concertstickets/calendar/2018-2019/ariodante-opera-tickets), a four-way co-production between Aix-en-Provence, Canadian Opera Company, and the Dutch National Opera that shifts the plot to a Scotland village in the 1960's, replete with ruddy-cheeked, red-haired villagers bedecked in thick wool sweaters and all the requisite flannel. A clever set design by ULTZ, (who also designed the costumes), gives us a three-way cross-section of a building, meaning disparate action can occur in three different spaces simultaneously: a kitchen/ante-room, an all-purpose village meeting room, and Ginevra's bedroom.
 
 Like virtually all of Handel's works for the stage, _Ariodante_ is a rumination on deception, heartbreak, and—perhaps most of all—the pain of women in traumatic circumstances. In the hands of Richard Jones, (with director Benjamin Davis helming this revival), _Ariodante_ additionally becomes an illustration of the many, wretched ways a woman's sexuality is controlled, denied, or weaponized for the benefit of men. The claustrophobic, patriarchal village is the vise that grips Ginevra, played to plucky perfection by [Brenda Rae](/talking-with-singers-brenda-rae/), in her Lyric debut.

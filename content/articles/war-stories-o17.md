@@ -1,18 +1,32 @@
-+++
-author = ["authors/erik-flaten.md"]
-categories = "Review"
-date = "2017-09-18T15:25:00-04:00"
-lastmod = "2017-09-18T21:42:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505766130532/2071-09-18---square---war-stories02.jpg.jpg"
-primary_image_credit = "Daniel (Craig Verm) & Sorrel (Cecelia Hall) in I Have No Stories to Tell You. Photo: Dominic M. Mercier/Opera Philadelphia."
-publishDate = "2017-09-18T21:42:00-04:00"
-related_articles = ["articles/catharsis-is-the-wrong-word-brittens-war-requiem.md"]
-related_companies = ["scene/companies/opera-philadelphia.md"]
-related_people = ["scene/people/rachel-calloway.md","scene/people/sarah-tucker.md","scene/people/abigail-levis.md","scene/people/cecelia-hall.md","scene/people/samuel-levine.md","scene/people/craig-verm.md"]
-short_description = "Beecher&#039;s score is a gripping manifestation of the heart-breaking and heavy content of the libretto. His choice to use the same instruments that were used in the Monteverdi is a brilliant blend of past and present. From the very first eerie sounds that welcome us into the world of the piece, one hears similarities to George Crumb&#039;s Black Angels, which is a response to the Vietnam War."
-slug = "war-stories-o17"
-title = "&quot;Humanity&#039;s bond to war&quot;: War Stories at O17"
-+++
+---
+author:
+- authors/erik-flaten.md
+categories: Review
+date: "2017-09-18T15:25:00-04:00"
+lastmod: "2017-09-18T21:42:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505766130532/2071-09-18---square---war-stories02.jpg.jpg
+primary_image_credit: 'Daniel (Craig Verm) & Sorrel (Cecelia Hall) in I Have No Stories
+  to Tell You. Photo: Dominic M. Mercier/Opera Philadelphia.'
+publishDate: "2017-09-18T21:42:00-04:00"
+related_articles:
+- articles/catharsis-is-the-wrong-word-brittens-war-requiem.md
+related_companies:
+- scene/companies/opera-philadelphia.md
+related_people:
+- scene/people/rachel-calloway.md
+- scene/people/sarah-tucker.md
+- scene/people/abigail-levis.md
+- scene/people/cecelia-hall.md
+- scene/people/samuel-levine.md
+- scene/people/craig-verm.md
+short_description: Beecher&#039;s score is a gripping manifestation of the heart-breaking
+  and heavy content of the libretto. His choice to use the same instruments that were
+  used in the Monteverdi is a brilliant blend of past and present. From the very first
+  eerie sounds that welcome us into the world of the piece, one hears similarities
+  to George Crumb&#039;s Black Angels, which is a response to the Vietnam War.
+slug: war-stories-o17
+title: '&quot;Humanity&#039;s bond to war&quot;: War Stories at O17'
+---
 
 Whiskey and beer. Wine and Cheese. Sonny and Cher. Beecher and Monteverdi. Last night at the Philadelphia Museum of Art, a nearly-sold out performance immersed an audience in a perfect pairing of two great operas. [*War Stories*](https://www.operaphila.org/whats-on/on-stage-2017-2018/war-stories/) is a double-bill program, which was first presented to New York City audiences in 2014 at the Metropolitan Museum of Art. The night combines *Il combattimento di Tancredi e Clorinda* by Monteverdi and *I Have No Stories To Tell You*, with music by Lembit Beecher and incredible libretto by Hannah Moscovitch. In between the two contrasting works, audiences are invited into the Arms and Armor Exhibit. 
 

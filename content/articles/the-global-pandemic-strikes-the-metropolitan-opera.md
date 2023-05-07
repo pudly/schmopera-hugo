@@ -1,22 +1,29 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Op-Ed"
-date = 2020-03-19T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1584665767/media/2020/03/sqMetInterior_qqf5vx.jpg"
-primary_image_credit = "Photo by Jonathan Tichler/Metropolitan Opera."
-related_articles = ["articles/levines-ugly-exit-the-disposable-met.md", "articles/some-uncomfortable-questions-about-the-levine-business.md", "articles/when-opera-companies-protect-abusers.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = []
-short_description = "How sad that in announcing the Met’s 2020-21 season and the addition of the first European tour by the Met Orchestra in 20 years, it has taken this course. 26 opera companies in North America have waived Force Majeure and many have adopted plans to pay their soloists at least 50% of their fees."
-slug = "the-global-pandemic-strikes-the-metropolitan-opera"
-title = "The global pandemic strikes The Metropolitan Opera"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Op-Ed
+date: "2020-03-19T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1584665767/media/2020/03/sqMetInterior_qqf5vx.jpg
+primary_image_credit: Photo by Jonathan Tichler/Metropolitan Opera.
+related_articles:
+- articles/levines-ugly-exit-the-disposable-met.md
+- articles/some-uncomfortable-questions-about-the-levine-business.md
+- articles/when-opera-companies-protect-abusers.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people: []
+short_description: How sad that in announcing the Met’s 2020-21 season and the addition
+  of the first European tour by the Met Orchestra in 20 years, it has taken this course.
+  26 opera companies in North America have waived Force Majeure and many have adopted
+  plans to pay their soloists at least 50% of their fees.
+slug: the-global-pandemic-strikes-the-metropolitan-opera
+title: The global pandemic strikes The Metropolitan Opera
+youtube_url: ""
+---
 The Metropolitan Opera has gone dark, as have so many other organizations around the world to do its part in mitigating the coronavirus pandemic. The protection of human life takes precedence over art even as we acknowledge how vital and nourishing art is to life. It is unfortunate then that as General Manager Peter Gelb adheres to Center for Disease Control recommendations to control the spread of COVID-19 he has opted to abandon his soloists by evoking the Force Majeure provision in the AGMA collective bargaining agreement to avoid payment to Met soloists during the cancellation period.
 
 > Of course, the stakes are higher for the major companies - but so are the resources.

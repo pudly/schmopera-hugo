@@ -1,18 +1,29 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = "2018-05-04T21:19:00-04:00"
-lastmod = "2018-05-04T21:34:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525482584996/sq195A4268.jpg.jpg"
-primary_image_credit = "Svetlana Aksenova as Tatyana in Eugene Onegin, Vancouver Opera, 2018. Photo: Tim Matheson."
-publishDate = "2018-05-04T21:19:00-04:00"
-related_articles = ["articles/still-incredible-robert-lepages-nightingale.md","articles/touching-traditional-eugene-onegin-in-vancouver.md"]
-related_companies = ["scene/companies/vancouver-opera.md"]
-related_people = ["scene/people/alexey-dolgov.md","scene/people/carolyn-sproule.md","scene/people/svetlana-aksenova.md"]
-short_description = "As one of the few non-Russian principals, one would think she&#039;d be at a disadvantage, but her diction was so flawless, that a native Russian speaker in attendance was amazed that it wasn&#039;t her first language. I hope this role becomes a staple in her repertoire. "
-slug = "touching-traditional-eugene-onegin-in-vancouver"
-title = "Touching &amp; traditional: Eugene Onegin in Vancouver"
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2018-05-04T21:19:00-04:00"
+lastmod: "2018-05-04T21:34:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525482584996/sq195A4268.jpg.jpg
+primary_image_credit: 'Svetlana Aksenova as Tatyana in Eugene Onegin, Vancouver Opera,
+  2018. Photo: Tim Matheson.'
+publishDate: "2018-05-04T21:19:00-04:00"
+related_articles:
+- articles/still-incredible-robert-lepages-nightingale.md
+- articles/touching-traditional-eugene-onegin-in-vancouver.md
+related_companies:
+- scene/companies/vancouver-opera.md
+related_people:
+- scene/people/alexey-dolgov.md
+- scene/people/carolyn-sproule.md
+- scene/people/svetlana-aksenova.md
+short_description: 'As one of the few non-Russian principals, one would think she&#039;d
+  be at a disadvantage, but her diction was so flawless, that a native Russian speaker
+  in attendance was amazed that it wasn&#039;t her first language. I hope this role
+  becomes a staple in her repertoire. '
+slug: touching-traditional-eugene-onegin-in-vancouver
+title: 'Touching &amp; traditional: Eugene Onegin in Vancouver'
+---
 
 Vancouver Opera's [*Eugene Onegin*](https://www.vancouveropera.ca/2017/04/27/eugene-onegin/) is the starter of the 2018 Vancouver Opera Festival, kicked off with Russian splendour amidst Russian recitals, cultural performances and more. This production of *Onegin* by Tom Diamond is very true to its Russian roots, and has many charming touches to add to the setting and feel. From beautiful traditional Russian clothing, to traditional dancers, to the hay bales and sheaves of wheat in the field, these elements helped bring the setting to life. In addition, a cast of primarily Russian singers brought a great depth to a complex language not often heard in North American opera houses. 
 

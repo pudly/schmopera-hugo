@@ -1,18 +1,21 @@
-+++
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1667352669/media/2022/11/SishelClaverie_p6nhhg.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/houston-grand-opera.md", "scene/companies/heartbeat-opera.md", "scene/companies/utah-opera.md", "scene/companies/the-santa-fe-opera.md"]
-slug = "sishel-claverie"
-title = "Sishel Claverie"
-website = "https://www.sishelclaverie.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/sishelmabelle/"
-
-_template = "people_single"
-+++
+---
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1667352669/media/2022/11/SishelClaverie_p6nhhg.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/houston-grand-opera.md
+- scene/companies/heartbeat-opera.md
+- scene/companies/utah-opera.md
+- scene/companies/the-santa-fe-opera.md
+slug: sishel-claverie
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/sishelmabelle/
+title: Sishel Claverie
+website: https://www.sishelclaverie.com/
+---
 Mexican Mezzo-soprano Sishel Claverie enjoys a versatile career in opera, musical theater, new music and multidisciplinary collaborations.
 
 A champion of new operatic works, Ms. Claverie has been involved in a number of world premieres, including: the role of Renata in the alternate cast of HGO's Mariachi-opera **_El Milagro del Recuerdo_**, and Carmelita in Ted Rosenthal's jazz-opera **_Dear Erich_**, produced by the New York City Opera. This year, Sishel will create several roles, including: Gloria in the video-opera series **_Everything for Dawn _**by Experiments in Opera, the role of Fia in **_Pietá _**by Jake Landau, and the Cheshire Cat in the new comedic opera **_Alice_**, by Amu Scurria, produced by Music _off_ Main. She will also workshop Jorge Sosa's latest work, the monodrama **_Generación Perdida_**, in collaboration with Aural Compass Projects.

@@ -1,17 +1,26 @@
-+++
-author = ["authors/greg.md"]
-categories = "News"
-date = "2016-09-19T19:19:00+01:00"
-lastmod = "2016-09-20T17:37:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474309143329/2016-09-21---COP-2.jpg.jpg"
-publishDate = "2016-09-20T17:37:00+01:00"
-related_articles = ["articles/be-in-on-the-secret-confidential-opera-project.md"]
-related_companies = ["scene/companies/confidential-opera-project.md"]
-related_people = ["scene/people/teiya-kasahara.md","scene/people/aaron-durand.md","scene/people/asitha-tennekoon.md","scene/people/gregory-finney.md"]
-short_description = "After an incredibly successful first show in June, we are #stokedissimo to bring you another one of the opera world&#039;s most beloved works, sung by some of the best up-and-coming talent here in Toronto. "
-slug = "shh-confidential-opera-project-is-back"
-title = "Shh! Confidential Opera Project is back!"
-+++
+---
+author:
+- authors/greg.md
+categories: News
+date: "2016-09-19T19:19:00+01:00"
+lastmod: "2016-09-20T17:37:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474309143329/2016-09-21---COP-2.jpg.jpg
+publishDate: "2016-09-20T17:37:00+01:00"
+related_articles:
+- articles/be-in-on-the-secret-confidential-opera-project.md
+related_companies:
+- scene/companies/confidential-opera-project.md
+related_people:
+- scene/people/teiya-kasahara.md
+- scene/people/aaron-durand.md
+- scene/people/asitha-tennekoon.md
+- scene/people/gregory-finney.md
+short_description: 'After an incredibly successful first show in June, we are #stokedissimo
+  to bring you another one of the opera world&#039;s most beloved works, sung by some
+  of the best up-and-coming talent here in Toronto. '
+slug: shh-confidential-opera-project-is-back
+title: Shh! Confidential Opera Project is back!
+---
 
 Hello, Schmop-Tops!
 

@@ -1,18 +1,32 @@
-+++
-author = ["authors/erik-flaten.md"]
-categories = "Review"
-date = "2017-09-19T14:54:00-04:00"
-lastmod = "2017-09-19T22:20:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505848295680/2017-09-19---Square---20170917-img_8402.jpg.jpg"
-primary_image_credit = "The Fairy Prince (Rihab Chaieb) and Lola (Maeve Höglund) in The Wake World, Opera Philadelphia, 2017. Photo: Dominic Mercier."
-publishDate = "2017-09-19T21:25:00-04:00"
-related_articles = ["articles/david-hertzbergs-the-wake-world-a-strange-and-sexy-synergy.md","articles/spotlight-on-rihab-chaieb.md","articles/rb-schlather-susan-b-anthony-connecting-opera-with-community.md"]
-related_companies = ["scene/companies/opera-philadelphia.md"]
-related_people = ["scene/people/maeve-hoglund.md","scene/people/rihab-chaieb.md","scene/people/david-hertzberg.md","scene/people/rb-schlather.md","scene/people/samantha-hankey.md"]
-short_description = "The audience literally follows Lola (Maeve Höglund) as she embarks on a wild love story with The Fairy Prince (Rihab Chaieb). Soprano Maeve Höglund sings exquisitely and brings an infectious wonder to the role. Rihab Chaieb has a rapturous voice, full of lush colors."
-slug = "an-organic-integration-the-wake-world"
-title = "An organic integration: The Wake World"
-+++
+---
+author:
+- authors/erik-flaten.md
+categories: Review
+date: "2017-09-19T14:54:00-04:00"
+lastmod: "2017-09-19T22:20:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505848295680/2017-09-19---Square---20170917-img_8402.jpg.jpg
+primary_image_credit: 'The Fairy Prince (Rihab Chaieb) and Lola (Maeve Höglund) in
+  The Wake World, Opera Philadelphia, 2017. Photo: Dominic Mercier.'
+publishDate: "2017-09-19T21:25:00-04:00"
+related_articles:
+- articles/david-hertzbergs-the-wake-world-a-strange-and-sexy-synergy.md
+- articles/spotlight-on-rihab-chaieb.md
+- articles/rb-schlather-susan-b-anthony-connecting-opera-with-community.md
+related_companies:
+- scene/companies/opera-philadelphia.md
+related_people:
+- scene/people/maeve-hoglund.md
+- scene/people/rihab-chaieb.md
+- scene/people/david-hertzberg.md
+- scene/people/rb-schlather.md
+- scene/people/samantha-hankey.md
+short_description: The audience literally follows Lola (Maeve Höglund) as she embarks
+  on a wild love story with The Fairy Prince (Rihab Chaieb). Soprano Maeve Höglund
+  sings exquisitely and brings an infectious wonder to the role. Rihab Chaieb has
+  a rapturous voice, full of lush colors.
+slug: an-organic-integration-the-wake-world
+title: 'An organic integration: The Wake World'
+---
 
 [*The Wake World*](https://www.operaphila.org/whats-on/on-stage-2017-2018/the-wake-world/) by David Hertzberg, with a libretto drawn from Aleister Crowley's story of the same name had its premiere last night at Philadelphia's Barnes Foundation. To use the [composer's own words](https://www.youtube.com/watch?v=Ve7XtgFUp4M), the production was "pretty wacky."
 

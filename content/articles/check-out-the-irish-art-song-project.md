@@ -1,22 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2019-11-19T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574215175/media/2019/11/sqJohnDairine_vvn5do.jpg"
-primary_image_credit = "Dáirine Ní Mheadhra and John Hess."
-related_articles = ["articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md", "articles/3-ways-your-english-is-showing.md"]
-related_companies = []
-related_people = []
-short_description = "“Even though I was brought up speaking Irish Gaelic, it didn't occur to me to commission composers to write on Irish Gaelic texts,” says Ní Mheadhra. “Colonization does weird things to a country.”"
-slug = "check-out-the-irish-art-song-project"
-title = "Check out: the Irish Art Song Project"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-11-19T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1574215175/media/2019/11/sqJohnDairine_vvn5do.jpg
+primary_image_credit: Dáirine Ní Mheadhra and John Hess.
+related_articles:
+- articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md
+- articles/3-ways-your-english-is-showing.md
+related_companies: []
+related_people: []
+short_description: “Even though I was brought up speaking Irish Gaelic, it didn't
+  occur to me to commission composers to write on Irish Gaelic texts,” says Ní Mheadhra.
+  “Colonization does weird things to a country.”
+slug: check-out-the-irish-art-song-project
+title: 'Check out: the Irish Art Song Project'
+youtube_url: ""
+---
 Before you even knew it was a problem, the team at the [Irish Art Song Project](https://www.cmc.ie/AmhrainEalaineGhaeilge) have solved the issue of singing in the Irish language.
 
 Led by Artistic Director Dáirine Ní Mheadhra and pianist John Hess - names you may remember from Canada's Queen of Puddings Theatre - the Irish Art Song Project is a resource that provides spoken recordings, word-for-word translations, and phonetic guides for singing in Irish (or Gaelic, as most non-Irish call the language), all free for download.

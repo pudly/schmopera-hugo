@@ -1,19 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-08-28T16:49:00+01:00"
-lastmod = "2016-08-29T12:22:00+01:00"
-preamble = "Photo: Barbara Hannigan performs Hans Abrahamsen’s let me tell you with Mirga Gražinytė-Tyla and the City of Birmingham Symphony Orchestra at the BBC Proms 2016."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472399882872/2016-086-28---BBC-Chris-Christodoulou.jpg.jpg"
-primary_image_credit = "Photo courtesy of BBC/Chris Christodoulou."
-publishDate = "2016-08-29T12:17:00+01:00"
-related_articles = ["articles/in-review-written-on-skin.md","articles/fostering-maestras-the-institute-for-women-conductors-at-the-dallas-opera.md","articles/opera-in-concert-uncluttered-or-uninteresting.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/barbara-hannigan.md"]
-short_description = "Abrahamsen&#039;s score is full of novel and surreal sounds, including an extraordinary moment of what feels like a heavenly choir and orchestra, shimmering with texture and treats for the ear. Throughout the score is a vocal motif, stretching words through repeated syllables, almost like a slow-motion version of a Baroque goat-trill."
-slug = "in-review-hannigan-grazinyte-tyle-BBC-proms"
-title = "In review: Hannigan &amp; Gražinytė-Tyla at the BBC Proms"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-08-28T16:49:00+01:00"
+lastmod: "2016-08-29T12:22:00+01:00"
+preamble: 'Photo: Barbara Hannigan performs Hans Abrahamsen’s let me tell you with
+  Mirga Gražinytė-Tyla and the City of Birmingham Symphony Orchestra at the BBC Proms
+  2016.'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472399882872/2016-086-28---BBC-Chris-Christodoulou.jpg.jpg
+primary_image_credit: Photo courtesy of BBC/Chris Christodoulou.
+publishDate: "2016-08-29T12:17:00+01:00"
+related_articles:
+- articles/in-review-written-on-skin.md
+- articles/fostering-maestras-the-institute-for-women-conductors-at-the-dallas-opera.md
+- articles/opera-in-concert-uncluttered-or-uninteresting.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/barbara-hannigan.md
+short_description: Abrahamsen&#039;s score is full of novel and surreal sounds, including
+  an extraordinary moment of what feels like a heavenly choir and orchestra, shimmering
+  with texture and treats for the ear. Throughout the score is a vocal motif, stretching
+  words through repeated syllables, almost like a slow-motion version of a Baroque
+  goat-trill.
+slug: in-review-hannigan-grazinyte-tyle-BBC-proms
+title: 'In review: Hannigan &amp; Gražinytė-Tyla at the BBC Proms'
+---
 
 Saturday night was BBC Prom 55 at the Royal Albert Hall; the City of Birmingham Symphony Orchestra, under Lithuanian maestra [Mirga Gražinytė-Tyla](http://www.classicfm.com/artists/mirga-grazinyte-tyla/news/cbso-new-conductor-music-director/#9utRVBAuFB2coXl1.97), shared the stage with Canadian soprano Barbara Hannigan for what was an evening of firsts.
 

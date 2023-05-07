@@ -1,22 +1,32 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = 2020-02-09T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Houston Grand Opera's production of [_Aida_](https://www.houstongrandopera.org/aida) runs through February 16. "
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581279748/media/2020/02/sqHGO-AIDA-2020-LynnLane-270_ow1edt.jpg"
-primary_image_credit = " in Houston Grand Opera's production of Aida, 2020. Photo: Lynn Lane."
-related_articles = []
-related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/melody-moore.md", "scene/people/tamara-wilson.md", "scene/people/russell-thomas.md"]
-short_description = "Throughout the production, one could see many of these geometric shapes infiltrating the scene at many different points. Characters maneuver around them and discuss plans in their shadow. This rendered the Act III trio somewhat difficult to follow if you were seated on one of the sides of the theatre, given the lines of sight. "
-slug = "transcendent-music-uneven-staging-in-hgos-aida"
-title = "Transcendent music & uneven staging in HGO's Aida"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2020-02-09T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: 'Houston Grand Opera''s production of [_Aida_](https://www.houstongrandopera.org/aida)
+  runs through February 16. '
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1581279748/media/2020/02/sqHGO-AIDA-2020-LynnLane-270_ow1edt.jpg
+primary_image_credit: ' in Houston Grand Opera''s production of Aida, 2020. Photo:
+  Lynn Lane.'
+related_articles: []
+related_companies:
+- scene/companies/houston-grand-opera.md
+related_people:
+- scene/people/melody-moore.md
+- scene/people/tamara-wilson.md
+- scene/people/russell-thomas.md
+short_description: 'Throughout the production, one could see many of these geometric
+  shapes infiltrating the scene at many different points. Characters maneuver around
+  them and discuss plans in their shadow. This rendered the Act III trio somewhat
+  difficult to follow if you were seated on one of the sides of the theatre, given
+  the lines of sight. '
+slug: transcendent-music-uneven-staging-in-hgos-aida
+title: Transcendent music & uneven staging in HGO's Aida
+youtube_url: ""
+---
 Giuseppe Verdi’s _Aida_ came across in Houston Grand Opera’s recent rendition as a well-oiled machine. Even though [Phelim McDermott's new staging](https://www.houstongrandopera.org/aida) was uneven, it had many aspects that led me to understand how little I really knew this piece. Certainly, the big moments in _Aida_ are inescapable, even ubiquitous, in the artistic world. But when combined with all the little moments that this production highlighted, which one has to take along with the "greatest hits," it illuminated me greatly as to just how much a master of drama Verdi certainly is.
 
 I use the word "illuminated" with intent, as light was a very pivotal concept for this production. The prelude, for instance, opened with a controlled opening of the curtains to reveal a blazing pillar of triangular light. Perhaps this was to represent an obelisk or even a pyramid, though the sides were so steep as to resemble the Nubian pyramids of the Late Period. Throughout the production, one could see many of these geometric shapes infiltrating the scene at many different points. Characters maneuver around them and discuss plans in their shadow. This rendered the Act III trio somewhat difficult to follow if you were seated on one of the sides of the theatre, given the lines of sight.

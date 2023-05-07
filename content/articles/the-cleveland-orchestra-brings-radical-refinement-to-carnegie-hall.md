@@ -1,22 +1,27 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2023-02-01T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675133178/media/2023/01/ClevelandOrchestra_RogerMastroianni_aljfjb.jpg"
-primary_image_credit = "Franz Walser-Most, Music Director of the Cleveland Orchestra on the podium at Carnegie Hall. Photo: Roger Mastroianni."
-related_articles = []
-related_companies = []
-related_people = ["scene/people/daryl-freedman.md", "scene/people/julian-pregardien.md"]
-short_description = "With the first Berg-to-Schubert transition, virtually seamless though that was hardly the primary intent, Welser-Möst made clear that these works, written just over a century apart, were part of a musical continuum."
-slug = "the-cleveland-orchesta-brings-radical-refinement-to-carnegie-hall"
-title = "The Cleveland Orchestra brings radical refinement to Carnegie Hall"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2023-02-01T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1675133178/media/2023/01/ClevelandOrchestra_RogerMastroianni_aljfjb.jpg
+primary_image_credit: 'Franz Walser-Most, Music Director of the Cleveland Orchestra
+  on the podium at Carnegie Hall. Photo: Roger Mastroianni.'
+related_articles: []
+related_companies: []
+related_people:
+- scene/people/daryl-freedman.md
+- scene/people/julian-pregardien.md
+short_description: With the first Berg-to-Schubert transition, virtually seamless
+  though that was hardly the primary intent, Welser-Möst made clear that these works,
+  written just over a century apart, were part of a musical continuum.
+slug: the-cleveland-orchesta-brings-radical-refinement-to-carnegie-hall
+title: The Cleveland Orchestra brings radical refinement to Carnegie Hall
+youtube_url: ""
+---
 The talk of the town, at least in classical music circles, has been the rehabilitated acoustics of the newly minted David Geffen Hall. But the constant is the sublime experience of hearing a world-class ensemble in the acoustic sanctuary that is Carnegie Hall.
 
 Such was the case recently when long-time maestro Franz Welser-Möst and the Cleveland Orchestra performed Schubert's Symphony No. 8 "Unfinished" and Mass No. 6, paired with three pieces from Berg’s Lyric Suite. The orchestra, its chorus and five soloists catered to and basked in the hall's warm and crisp (let's call it toasty) sound in a program that was quite simply one of radical refinement.

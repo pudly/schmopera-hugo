@@ -1,19 +1,25 @@
-+++
-date = "2015-05-25T13:04:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-05-25T13:04:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432573352969/stephanie-blythe-6ac64fe5a3683920.jpg.jpg"
-publishDate = "2015-05-25T13:04:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/seattle-opera.md","scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md"]
-slug = "stephanie-blythe"
-title = "Stephanie Blythe"
-website = "http://www.stephanieblythemezzo.com/f"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/StephanieBlytheMezzo?fref=ts"
-_template = "people_single"
-+++
+---
+date: "2015-05-25T13:04:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-05-25T13:04:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432573352969/stephanie-blythe-6ac64fe5a3683920.jpg.jpg
+publishDate: "2015-05-25T13:04:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/opra-national-de-paris.md
+slug: stephanie-blythe
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/StephanieBlytheMezzo?fref=ts
+title: Stephanie Blythe
+website: http://www.stephanieblythemezzo.com/f
+---
 
 Mezzo-soprano Stephanie Blythe is considered to be one of the most highly respected and critically acclaimed artists of her generation.
 

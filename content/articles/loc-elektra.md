@@ -1,22 +1,33 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Review"
-date = "2019-02-04T19:15:32+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "You can see [Strauss' _Elektra_ at the Lyric Opera of Chicago](https://www.lyricopera.org/concertstickets/calendar/2018-2019/elektra-opera-tickets) on select dates between now and February 22nd. I recommending reading a little Jung before you head to the theater!"
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549581054/media/2019/02/sqNinaStemmeELEKTRALyricOperaofChicago.jpg"
-primary_image_credit = "Nina Stemme in Elektra, Lyric Opera of Chicago, 2019. Photo: Cory Weaver."
-related_articles = ["articles/inflatable-beasts-vocal-brilliance-locs-siegfried.md", "articles/elektra.md"]
-related_companies = []
-related_people = ["scene/people/elza-van-den-heever.md", "scene/people/michaela-martens.md", "scene/people/nina-stemme.md"]
-short_description = "Every facet of this production is thoughtful and dramatic, so much so that even the actors aren't immune from its terrors. It was announced before curtain that Stemme sustained a knee injury during a rehearsal (one look at the steeply raked set and you'll wonder the whole cast isn't on crutches!)."
-slug = "stemmes-elektra-visible-in-every-wild-look-and-lurching-step"
-title = "Stemme's Elektra visible in every wild look and lurching step"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Review
+date: "2019-02-04T19:15:32+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: You can see [Strauss' _Elektra_ at the Lyric Opera of Chicago](https://www.lyricopera.org/concertstickets/calendar/2018-2019/elektra-opera-tickets)
+  on select dates between now and February 22nd. I recommending reading a little Jung
+  before you head to the theater!
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549581054/media/2019/02/sqNinaStemmeELEKTRALyricOperaofChicago.jpg
+primary_image_credit: 'Nina Stemme in Elektra, Lyric Opera of Chicago, 2019. Photo:
+  Cory Weaver.'
+related_articles:
+- articles/inflatable-beasts-vocal-brilliance-locs-siegfried.md
+- articles/elektra.md
+related_companies: []
+related_people:
+- scene/people/elza-van-den-heever.md
+- scene/people/michaela-martens.md
+- scene/people/nina-stemme.md
+short_description: Every facet of this production is thoughtful and dramatic, so much
+  so that even the actors aren't immune from its terrors. It was announced before
+  curtain that Stemme sustained a knee injury during a rehearsal (one look at the
+  steeply raked set and you'll wonder the whole cast isn't on crutches!).
+slug: stemmes-elektra-visible-in-every-wild-look-and-lurching-step
+title: Stemme's Elektra visible in every wild look and lurching step
+youtube_url: ""
+---
 [Nina Stemme](/scene/people/nina-stemme/), the powerful soprano known around the world for her commanding leading roles, scorches the stage as an unparalleled Elektra at the Lyric this month. If you have the chance to experience her historic Chicago debut, seize it. You will be mesmerized by the size and beauty of her incredible voice. Stemme imbues every phrase, word, and _note_ with expressivity and nuance, giving no indication (despite the role's notorious difficulty) that she is conserving or rationing her vocal strength. Singing Elektra is often compared to summiting Mount Everest—requiring diligent preparation and uncommon physical and mental endurance just to get through it. Yet Stemme performs with grace and energy, never once hinting at any strenuous exertion. An artist renowned for her intellect and self-discipline as well as her vocal prowess, Stemme is also a deeply engaging actor. Her very personal understanding of the multi-faceted Elektra is visible in every wild look and lurching step.
 
 <figure data-type="image">

@@ -1,18 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-03-19T21:54:00-04:00"
-lastmod = "2018-03-21T11:44:00-04:00"
-preamble = "Armenian-Canadian soprano [Isabel Bayrakdarian](/scene/people/isabel-bayrakdarian/)'s 2018 album, *Mother of Light: Armenian hymns & chants in praise of Mary*, is up for a Juno Award in the Classical Album of the Year category. The Awards are announced on March 25, and a win this year would bring the soprano's Juno count up to five.\n\nNext month, Bayrakdarian is also helping the Amici Chamber Ensemble celebrate 30 years, with their [April 27 concert at Koerner Hall](https://www.rcmusic.com/performance/event/amici-chamber-ensemble-bayrakdarian). We spoke with her history with the Ensemble, the unique balance of singing with a chamber group, and the sense of \"immeasurable joy\" when she performs."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521569978885/sq---Isabel-bayrakdarian-vert.jpg.jpg"
-primary_image_credit = "Photo: Dario Acosta."
-publishDate = "2018-03-21T11:44:00-04:00"
-related_articles = []
-related_people = ["scene/people/isabel-bayrakdarian.md"]
-short_description = "And right in between, there&#039;s the chamber group experience, which feels intimate enough that you don&#039;t need a conductor, but there&#039;s a constant sense of awareness of the need to be very sensitive to each instrument enveloping you (literally and figuratively) on stage.  So there&#039;s more conscious give and take  - teamwork - to make the collective work and shine."
-slug = "talking-with-singers-isabel-bayrakdarian"
-title = "Talking with singers: Isabel Bayrakdarian"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-03-19T21:54:00-04:00"
+lastmod: "2018-03-21T11:44:00-04:00"
+preamble: |-
+  Armenian-Canadian soprano [Isabel Bayrakdarian](/scene/people/isabel-bayrakdarian/)'s 2018 album, *Mother of Light: Armenian hymns & chants in praise of Mary*, is up for a Juno Award in the Classical Album of the Year category. The Awards are announced on March 25, and a win this year would bring the soprano's Juno count up to five.
+
+  Next month, Bayrakdarian is also helping the Amici Chamber Ensemble celebrate 30 years, with their [April 27 concert at Koerner Hall](https://www.rcmusic.com/performance/event/amici-chamber-ensemble-bayrakdarian). We spoke with her history with the Ensemble, the unique balance of singing with a chamber group, and the sense of "immeasurable joy" when she performs.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521569978885/sq---Isabel-bayrakdarian-vert.jpg.jpg
+primary_image_credit: 'Photo: Dario Acosta.'
+publishDate: "2018-03-21T11:44:00-04:00"
+related_articles: []
+related_people:
+- scene/people/isabel-bayrakdarian.md
+short_description: And right in between, there&#039;s the chamber group experience,
+  which feels intimate enough that you don&#039;t need a conductor, but there&#039;s
+  a constant sense of awareness of the need to be very sensitive to each instrument
+  enveloping you (literally and figuratively) on stage.  So there&#039;s more conscious
+  give and take  - teamwork - to make the collective work and shine.
+slug: talking-with-singers-isabel-bayrakdarian
+title: 'Talking with singers: Isabel Bayrakdarian'
+---
 
 ## What do you think it takes for a group like the Amici Chamber Ensemble to reach 30 seasons?
 

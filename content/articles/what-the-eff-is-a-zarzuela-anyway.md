@@ -1,17 +1,34 @@
-+++
-author = ["authors/greg.md"]
-categories = "Op-ed"
-date = "2016-04-27T14:28:00+01:00"
-lastmod = "2016-04-27T15:00:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461764709013/2016-04-27---Zarza.jpg.jpg"
-publishDate = "2016-04-27T14:55:00+01:00"
-related_articles = ["articles/elitism-irony-and-the-phantom-of-the-opera.md","articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md","articles/dont-miss-waltz-rivals.md","articles/shades-of-opera-how-to-tell-your-buffo-from-your-bel-canto.md","articles/tots-candide-its-very-sincere-and-passionate-.md","articles/satire-meets-serious-singing-tots-candide.md"]
-related_companies = ["scene/companies/toronto-operetta-theatre.md"]
-related_people = ["scene/people/ernesto-ramirez.md","scene/people/miriam-khalil.md","scene/people/gregory-finney.md"]
-short_description = "A sparrow hawk is known in the wild for stealing the chicks of other birds from their nests. This Zarzuela tells the story of Juan, a man who left his poor fishing village in search of adventure and fortune in Peru. He returns twenty years later a millionaire - and that&#039;s when things get sticky. He agrees to marry Rosaura, a young maiden in the village who happens to be in love with Gustavo (the only guy in the village who&#039;s paid off his debts), and takes her from the young man&#039;s arms. See the metaphor?"
-slug = "what-the-eff-is-a-zarzuela-anyway"
-title = "What the eff is a Zarzuela, anyway?"
-+++
+---
+author:
+- authors/greg.md
+categories: Op-ed
+date: "2016-04-27T14:28:00+01:00"
+lastmod: "2016-04-27T15:00:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461764709013/2016-04-27---Zarza.jpg.jpg
+publishDate: "2016-04-27T14:55:00+01:00"
+related_articles:
+- articles/elitism-irony-and-the-phantom-of-the-opera.md
+- articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md
+- articles/dont-miss-waltz-rivals.md
+- articles/shades-of-opera-how-to-tell-your-buffo-from-your-bel-canto.md
+- articles/tots-candide-its-very-sincere-and-passionate-.md
+- articles/satire-meets-serious-singing-tots-candide.md
+related_companies:
+- scene/companies/toronto-operetta-theatre.md
+related_people:
+- scene/people/ernesto-ramirez.md
+- scene/people/miriam-khalil.md
+- scene/people/gregory-finney.md
+short_description: A sparrow hawk is known in the wild for stealing the chicks of
+  other birds from their nests. This Zarzuela tells the story of Juan, a man who left
+  his poor fishing village in search of adventure and fortune in Peru. He returns
+  twenty years later a millionaire - and that&#039;s when things get sticky. He agrees
+  to marry Rosaura, a young maiden in the village who happens to be in love with Gustavo
+  (the only guy in the village who&#039;s paid off his debts), and takes her from
+  the young man&#039;s arms. See the metaphor?
+slug: what-the-eff-is-a-zarzuela-anyway
+title: What the eff is a Zarzuela, anyway?
+---
 
 [Wikipedia](https://en.wikipedia.org/wiki/Zarzuela) states the following: "Zarzuela (Spanish pronunciation: [θarˈθwela]) is a Spanish lyric-dramatic genre that alternates between spoken and sung scenes, the latter incorporating operatic and popular song, as well as dance."
 

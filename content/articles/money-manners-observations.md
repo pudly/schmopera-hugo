@@ -1,15 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2017-10-19T20:03:00-04:00"
-lastmod = "2017-10-26T23:19:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508859269872/2017-10-24---Rich.jpg.jpg"
-publishDate = "2017-10-26T23:19:00-04:00"
-related_articles = ["articles/the-opera-party-monologue.md","articles/the-opera-posse-phenomenon.md"]
-short_description = "There&#039;s a funny catch, though, because when you&#039;re sitting in those pricey sections of the opera house, your neighbours are likely of a certain demographic; basically, they&#039;re sitting in those seats because they&#039;re good, and they can afford them. The important thing to note here is not that there are wealthy people who go to the opera, but that there&#039;s likely a stark difference between their tax bracket, and that of someone who writes about opera for a living."
-slug = "money-manners-observations"
-title = "Money &amp; manners: one critic&#039;s observations from her really great opera seats"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2017-10-19T20:03:00-04:00"
+lastmod: "2017-10-26T23:19:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508859269872/2017-10-24---Rich.jpg.jpg
+publishDate: "2017-10-26T23:19:00-04:00"
+related_articles:
+- articles/the-opera-party-monologue.md
+- articles/the-opera-posse-phenomenon.md
+short_description: There&#039;s a funny catch, though, because when you&#039;re sitting
+  in those pricey sections of the opera house, your neighbours are likely of a certain
+  demographic; basically, they&#039;re sitting in those seats because they&#039;re
+  good, and they can afford them. The important thing to note here is not that there
+  are wealthy people who go to the opera, but that there&#039;s likely a stark difference
+  between their tax bracket, and that of someone who writes about opera for a living.
+slug: money-manners-observations
+title: 'Money &amp; manners: one critic&#039;s observations from her really great
+  opera seats'
+---
 
 Readers, a bit of anecdotal observation for you:
 

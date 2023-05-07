@@ -1,22 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-Ed"
-date = 2020-04-23T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1587685390/media/2020/04/COVID-broken_cg2zvk.jpg"
-primary_image_credit = ""
-related_articles = ["articles/art-is-not-action.md", "articles/how-to-throw-a-funeral-for-a-viola.md", "articles/music-the-musicians-therapy-except-when-its-not.md"]
-related_companies = []
-related_people = []
-short_description = "I guess the most humbling thing about this is realizing how utterly in love I am with something that the rest of the world just might deem unessential. Like, in the big-scheme, unessential; the line-up for government aid is already enormous, and priorities have already become clear. The performing arts are certainly a staple of human society...but opera?"
-slug = "isolation-blogging-its-out-there"
-title = "Isolation blogging: it's &@%#ed out there"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-Ed
+date: "2020-04-23T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1587685390/media/2020/04/COVID-broken_cg2zvk.jpg
+primary_image_credit: ""
+related_articles:
+- articles/art-is-not-action.md
+- articles/how-to-throw-a-funeral-for-a-viola.md
+- articles/music-the-musicians-therapy-except-when-its-not.md
+related_companies: []
+related_people: []
+short_description: I guess the most humbling thing about this is realizing how utterly
+  in love I am with something that the rest of the world just might deem unessential.
+  Like, in the big-scheme, unessential; the line-up for government aid is already
+  enormous, and priorities have already become clear. The performing arts are certainly
+  a staple of human society...but opera?
+slug: isolation-blogging-its-out-there
+title: 'Isolation blogging: it''s &@%#ed out there'
+youtube_url: ""
+---
 Readers, what the %$&# just happened?!
 
 The world is closed. Like, check-your-place-in-the-world, do-you-really-need-to-do-that-thing, what-does-your-mask-say-about-your-personality, closed. It's freaky how fast it happened, at least for me. I went to the office some day early last month, haven't been back since. Somewhere between March 10-13, my inbox became littered with press releases announcing cancellations from the Met on downwards, and I was blinking like an idiot who couldn't grasp that maybe sometimes mass gatherings are dangerous.

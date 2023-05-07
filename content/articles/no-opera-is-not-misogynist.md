@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-07-21T11:54:00-04:00"
-lastmod = "2017-07-24T13:24:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500852873622/2017-07-23---Women.jpg.jpg"
-publishDate = "2017-07-24T13:08:00-04:00"
-related_articles = ["articles/opera-culprits-women-with-low-selfesteem.md","articles/audition-season-or-the-annual-festival-of-shattered-dreams.md","articles/tamara-wilson-gives-a-flawless-aida-at-wno.md","articles/facts-leaps-taking-unnecessary-offence.md"]
-short_description = "Certainly, if you look at opera&#039;s plots in a vacuum, perhaps you could find evidence of misogyny. But it would entirely miss the point of opera - art, really - to ignore the opinions of its composers and librettists."
-slug = "no-opera-is-not-misogynist"
-title = "No, opera is not misogynist"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-07-21T11:54:00-04:00"
+lastmod: "2017-07-24T13:24:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500852873622/2017-07-23---Women.jpg.jpg
+publishDate: "2017-07-24T13:08:00-04:00"
+related_articles:
+- articles/opera-culprits-women-with-low-selfesteem.md
+- articles/audition-season-or-the-annual-festival-of-shattered-dreams.md
+- articles/tamara-wilson-gives-a-flawless-aida-at-wno.md
+- articles/facts-leaps-taking-unnecessary-offence.md
+short_description: Certainly, if you look at opera&#039;s plots in a vacuum, perhaps
+  you could find evidence of misogyny. But it would entirely miss the point of opera
+  - art, really - to ignore the opinions of its composers and librettists.
+slug: no-opera-is-not-misogynist
+title: No, opera is not misogynist
+---
 
 "How can I love an artform that is so consistently, insistently cruel to its female characters?" asked Charlotte Higgins in her article for *The Guardian*, ["Is opera the most misogynistic art form?"](https://www.theguardian.com/music/2016/feb/26/is-opera-the-most-misogynistic-art-form) 
 

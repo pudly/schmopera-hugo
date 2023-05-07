@@ -1,22 +1,34 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = "2019-01-21T20:52:46+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "HGO's production of _Florencia en el Amazonas_ runs through February 3. For details, [click here](https://www.houstongrandopera.org/florenciaenelamazonas)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548103901/media/2019/01/sqHGO-Florencia-2019-OrchestraDressRehearsal-PhotographerLynnLane-159.jpg"
-primary_image_credit = "Ana María Martínez as Florencia Grimaldi in Florencia en el Amazonas, HGO, 2019. Photo: Lynn Lane."
-related_articles = ["articles/a-butterfly-but-not-from-puccini.md"]
-related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/joshua-guerrero.md", "scene/people/alicia-gianni.md", "scene/people/norman-garrett.md", "scene/people/ana-maria-martinez.md"]
-short_description = "Martínez's inimitable dulcet vibrato tones had a way of embodying the butterflies into which her character eventually transforms. Anybody wanting an avenue to approach this opera would do well to begin with her music, which offers this opera's most audible links with the traditional Puccinian repertoire which is her specialty."
-slug = "florencia-en-el-amazonas-takes-on-a-life-of-its-own-at-hgo"
-title = "Florencia en el Amazonas takes on a life of its own at HGO"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2019-01-21T20:52:46+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: HGO's production of _Florencia en el Amazonas_ runs through February 3.
+  For details, [click here](https://www.houstongrandopera.org/florenciaenelamazonas).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548103901/media/2019/01/sqHGO-Florencia-2019-OrchestraDressRehearsal-PhotographerLynnLane-159.jpg
+primary_image_credit: 'Ana María Martínez as Florencia Grimaldi in Florencia en el
+  Amazonas, HGO, 2019. Photo: Lynn Lane.'
+related_articles:
+- articles/a-butterfly-but-not-from-puccini.md
+related_companies:
+- scene/companies/houston-grand-opera.md
+related_people:
+- scene/people/joshua-guerrero.md
+- scene/people/alicia-gianni.md
+- scene/people/norman-garrett.md
+- scene/people/ana-maria-martinez.md
+short_description: Martínez's inimitable dulcet vibrato tones had a way of embodying
+  the butterflies into which her character eventually transforms. Anybody wanting
+  an avenue to approach this opera would do well to begin with her music, which offers
+  this opera's most audible links with the traditional Puccinian repertoire which
+  is her specialty.
+slug: florencia-en-el-amazonas-takes-on-a-life-of-its-own-at-hgo
+title: Florencia en el Amazonas takes on a life of its own at HGO
+youtube_url: ""
+---
 Houston Grand Opera's legacy of promoting contemporary operas was triumphantly vindicated on the opening night of their production of Daniel Catán's [_Florencia en el Amazonas_](https://www.houstongrandopera.org/florenciaenelamazonas), a drama concerning people's helplessness in the face of nature in all its raw power. Inspired by characters drawn from the magical realist works of Colombian author Gabriel García Márquez, this work could be truly said to have taken on a life of its own with the number of fans it has inspired (what with it having brought Spanish-language opera into its own in this country beyond what even the Metropolitan Opera's 1916 premiere of _Goyescas_ could dream of accomplishing), though this is in no way to describe this work as a passing fad, for it is quite simply a profound masterwork that cannot fail to leave a provocative impression.
 
 > _Florencia en el Amazonas_ is the epitome of the best elements of opera mixed together with an elusive authentic modernist sense of adventure.

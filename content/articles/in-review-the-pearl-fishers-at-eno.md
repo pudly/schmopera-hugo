@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-10-20T10:18:00+01:00"
-lastmod = "2016-10-20T12:47:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476959147238/2016-10-21---Square---ENO-The-Pearl-Fishers-Robert-McPherson-and-Claudia-Boyle-Robbie-Jack.jpg.jpg"
-primary_image_credit = "Robert McPherson (Nadir) and Claudia Boyle (Leïla) in ENO's The Pearl Fishers, 2016. Photo by Robbie Jack."
-publishDate = "2016-10-20T11:55:00+01:00"
-related_articles = ["articles/a-string-of-pearls-from-bizet-and-la-opera.md"]
-related_companies = ["scene/companies/english-national-opera.md"]
-related_people = ["scene/people/robert-mcpherson.md","scene/people/claudia-boyle.md","scene/people/jacques-imbrailo.md"]
-short_description = "The ENO Chorus had a busy night, and they delivered solid, precise crowd scenes, full of sparkling individuality. With the booming James Creswell as Nourabad, they created a world that drew us in. Under maestro Roland Böer, the ENO Orchestra had a lush, rich sound; at times it overpowered, yet perhaps it was only a problem for the orchestra-level seats."
-slug = "in-review-the-pearl-fishers-at-eno"
-title = "In review: The Pearl Fishers at ENO"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-10-20T10:18:00+01:00"
+lastmod: "2016-10-20T12:47:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476959147238/2016-10-21---Square---ENO-The-Pearl-Fishers-Robert-McPherson-and-Claudia-Boyle-Robbie-Jack.jpg.jpg
+primary_image_credit: Robert McPherson (Nadir) and Claudia Boyle (Leïla) in ENO's
+  The Pearl Fishers, 2016. Photo by Robbie Jack.
+publishDate: "2016-10-20T11:55:00+01:00"
+related_articles:
+- articles/a-string-of-pearls-from-bizet-and-la-opera.md
+related_companies:
+- scene/companies/english-national-opera.md
+related_people:
+- scene/people/robert-mcpherson.md
+- scene/people/claudia-boyle.md
+- scene/people/jacques-imbrailo.md
+short_description: The ENO Chorus had a busy night, and they delivered solid, precise
+  crowd scenes, full of sparkling individuality. With the booming James Creswell as
+  Nourabad, they created a world that drew us in. Under maestro Roland Böer, the ENO
+  Orchestra had a lush, rich sound; at times it overpowered, yet perhaps it was only
+  a problem for the orchestra-level seats.
+slug: in-review-the-pearl-fishers-at-eno
+title: 'In review: The Pearl Fishers at ENO'
+---
 
 Penny Woolcock's production of Bizet's *The Pearl Fishers* opened its second revival last night at [English National Opera](/scene/companies/english-national-opera/). The design by Dick Bird (sets), Kevin Pollard (costumes), and Jennifer Schriever (lighting) created a picture of contemporary Sri Lanka; by day it was alive and slightly claustrophobic, and by night it was layers-deep with stunning depictions of city lights and rolling waves. The image of divers, descending for pearls, was a lovely opening, beautifully done by eight aerialists.
 

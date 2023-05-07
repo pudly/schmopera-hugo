@@ -1,16 +1,21 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = "2018-05-20T21:47:00-04:00"
-lastmod = "2018-05-20T21:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526867048582/sqLPotion-TD-085.jpg.jpg"
-primary_image_credit = "Bernard Holcomb as Tristan and Jamie Chamberlin as Isolde in The Love Potion, Long Beach Opera, 2018. Photo: Keith Ian Polakoff."
-publishDate = "2018-05-20T21:47:00-04:00"
-related_articles = ["articles/dont-miss-the-love-potion.md"]
-short_description = "Mr. Mitisek and Long Beach Opera have built their world-renowned reputations on new works and the discovery of neglected treasures from the past. Mr. Martin&#039;s 1942 opera does not fit into either category."
-slug = "love-potion-number-nein"
-title = "Love Potion Number Nein"
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2018-05-20T21:47:00-04:00"
+lastmod: "2018-05-20T21:47:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526867048582/sqLPotion-TD-085.jpg.jpg
+primary_image_credit: 'Bernard Holcomb as Tristan and Jamie Chamberlin as Isolde in
+  The Love Potion, Long Beach Opera, 2018. Photo: Keith Ian Polakoff.'
+publishDate: "2018-05-20T21:47:00-04:00"
+related_articles:
+- articles/dont-miss-the-love-potion.md
+short_description: Mr. Mitisek and Long Beach Opera have built their world-renowned
+  reputations on new works and the discovery of neglected treasures from the past.
+  Mr. Martin&#039;s 1942 opera does not fit into either category.
+slug: love-potion-number-nein
+title: Love Potion Number Nein
+---
 
 Andreas Mitisek will soon be celebrating his twenty years at the helm of Long Beach Opera. In fact, next month there will be an evening devoted to highlights from many of his triumphs over the last two decades. He is a bona fide musical and theatrical visionary. So one wonders what attracted him to [Frank Martin's *The Love Potion*](https://www.longbeachopera.org/the-season/the-love-potion), which is neither musically or dramatically compelling. Written as an oratorio, it doesn't appear that it's meant to be an opera. (Written in German, this was an English translation.)
 

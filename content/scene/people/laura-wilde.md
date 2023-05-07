@@ -1,16 +1,21 @@
-+++
-date = "2017-02-23T16:29:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-02-23T16:29:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487867330124/2017-02-23---Laura_Wilde_pc_Kelly_Kruse.jpg.jpg"
-primary_image_credit = "Kelly Kruse"
-publishDate = "2017-02-23T16:29:00+00:00"
-related_companies = ["scene/companies/arizona-opera.md","scene/companies/nashville-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/english-national-opera.md","scene/companies/lyric-opera-of-chicago.md"]
-slug = "laura-wilde"
-title = "Laura Wilde"
-website = "http://www.laurawildesoprano.com/"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-02-23T16:29:00+00:00"
+discipline: Soprano
+lastmod: "2017-02-23T16:29:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487867330124/2017-02-23---Laura_Wilde_pc_Kelly_Kruse.jpg.jpg
+primary_image_credit: Kelly Kruse
+publishDate: "2017-02-23T16:29:00+00:00"
+related_companies:
+- scene/companies/arizona-opera.md
+- scene/companies/nashville-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/english-national-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+slug: laura-wilde
+title: Laura Wilde
+website: http://www.laurawildesoprano.com/
+---
 
 American soprano Laura Wilde, winner of a 2016 Sara Tucker Study Grant from the Richard Tucker Foundation, as well as the 2016 Luminarts Women’s Voice Fellowship, has been praised by Opera News as having, “a ravishingly beautiful sound, [and] a fine sense of style and character.” For the 2016/17 season, Ms. Wilde will return to the Lyric Opera of Chicago for a role debut as Freia in David Pountney’s new production of *Das Rheingold*, conducted by Sir Andrew Davis.  Other operatic engagements include the world premiere of Craig Bohmler’s *Riders of the Purple Sage* at Arizona Opera, where Ms. Wilde will portray the role of Jane Withersteen, Michaela in *Carmen* with Nashville Opera and a return to Opera Theatre of Saint Louis as a principal artist as Vitellia in *La Clemenza di Tito*. Additionally, she will present a solo recital and masterclass at South Dakota State University with pianist Craig Terry.
 

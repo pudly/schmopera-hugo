@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2017-08-26T21:02:00-04:00"
-lastmod = "2017-08-27T22:31:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503887175158/2017-08-27---Product.jpg.jpg"
-publishDate = "2017-08-27T22:31:00-04:00"
-related_articles = ["articles/fat-phobia-in-opera-its-a-thing.md","articles/once-agan-shushing-meanies.md"]
-short_description = "But with a minimal amount of online vetting, a professional musician should be able to tell the difference between an organization which is about presenting concerts that put their artists in the spotlight, and one that offers &quot;background wallpaper&quot; in a variety of patterns and colours. There&#039;s nothing wrong with either, but each come with their own set of expectations."
-slug = "bodyshaming-productselling-knowing-the-difference"
-title = "Body-shaming, product-selling, &amp; knowing the difference"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2017-08-26T21:02:00-04:00"
+lastmod: "2017-08-27T22:31:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503887175158/2017-08-27---Product.jpg.jpg
+publishDate: "2017-08-27T22:31:00-04:00"
+related_articles:
+- articles/fat-phobia-in-opera-its-a-thing.md
+- articles/once-agan-shushing-meanies.md
+short_description: But with a minimal amount of online vetting, a professional musician
+  should be able to tell the difference between an organization which is about presenting
+  concerts that put their artists in the spotlight, and one that offers &quot;background
+  wallpaper&quot; in a variety of patterns and colours. There&#039;s nothing wrong
+  with either, but each come with their own set of expectations.
+slug: bodyshaming-productselling-knowing-the-difference
+title: Body-shaming, product-selling, &amp; knowing the difference
+---
 
 Over the span of mere days, the Toronto-based Sheraton Cadwell Orchestra earned lots of attention; first by [sending a super body-shaming email](http://www.cbc.ca/news/canada/toronto/orchestra-email-outrage-1.4260556) to its artists about some of their performance wardrobe choices, and subsequently by announcing that the [organization would dissolve](https://www.thestar.com/news/gta/2017/08/24/orchestra-shuts-in-response-to-reaction-to-its-body-shaming-email.html). If you've not yet read the email from Sheraton Cadwell:
 

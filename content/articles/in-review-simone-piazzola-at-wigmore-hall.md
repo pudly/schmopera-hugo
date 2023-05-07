@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-11-02T12:55:00+00:00"
-lastmod = "2016-11-02T16:05:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478091329664/2016-11-02---Simone-Piazzola.jpg.jpg"
-publishDate = "2016-11-02T15:47:00+00:00"
-related_articles = ["articles/in-review-alek-shrader-at-wigmore-hall.md","articles/in-review-jamie-barton-at-wigmore-hall.md"]
-related_people = ["scene/people/simone-piazzola.md","scene/people/giuseppe-vaccaro.md"]
-short_description = "The pair paid homage to their Italian roots with a programme of Donizetti, Verdi, Mozart, and songs by Paolo Tosti. In fact, the Tosti songs that Piazzola and Vaccaro chose were first performed in London - and did you know: Tosti taught at the Royal Academy of Music, became a British citizen in 1906, and was knighted by King Edward VII in 1908?"
-slug = "in-review-simone-piazzola-at-wigmore-hall"
-title = "In review: Simone Piazzola at Wigmore Hall"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-11-02T12:55:00+00:00"
+lastmod: "2016-11-02T16:05:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478091329664/2016-11-02---Simone-Piazzola.jpg.jpg
+publishDate: "2016-11-02T15:47:00+00:00"
+related_articles:
+- articles/in-review-alek-shrader-at-wigmore-hall.md
+- articles/in-review-jamie-barton-at-wigmore-hall.md
+related_people:
+- scene/people/simone-piazzola.md
+- scene/people/giuseppe-vaccaro.md
+short_description: 'The pair paid homage to their Italian roots with a programme of
+  Donizetti, Verdi, Mozart, and songs by Paolo Tosti. In fact, the Tosti songs that
+  Piazzola and Vaccaro chose were first performed in London - and did you know: Tosti
+  taught at the Royal Academy of Music, became a British citizen in 1906, and was
+  knighted by King Edward VII in 1908?'
+slug: in-review-simone-piazzola-at-wigmore-hall
+title: 'In review: Simone Piazzola at Wigmore Hall'
+---
 
 The 2016/17 season of [Rosenblatt Recitals](/ian-rosenblatt-its-all-about-the-voice/) continued last night with baritone [Simone Piazzola](/scene/people/simone-piazzola/) and pianist [Giuseppe Vaccaro](/scene/people/giuseppe-vaccaro/) at Wigmore Hall. 
 

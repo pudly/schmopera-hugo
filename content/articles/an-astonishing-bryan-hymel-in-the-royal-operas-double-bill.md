@@ -1,17 +1,28 @@
-+++
-author = ["authors/vivian-darkbloom.md"]
-categories = "Review"
-date = "2017-12-04T19:11:00-05:00"
-lastmod = "2018-02-12T09:48:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512432377325/2017-12-04---square---2810ashm_368-Bryan-Hymel-as-CANIO-in-Pagliacci---ROH.-PHOTO-BY-Catherine-Ashmore.jpg.jpg"
-publishDate = "2017-12-04T20:11:00-05:00"
-related_articles = ["articles/in-review-il-trittico-at-roh.md","articles/in-review-bluebeards-castle-erwartung.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/bryan-hymel.md","scene/people/elina-garanca.md","scene/people/carmen-giannattasio.md","scene/people/mark-s-doss.md"]
-short_description = "The singing, in particular, was phenomenal. Elīna Garanča was nothing short of flawless as Santuzza. Her voice was warm, with a steely edge and full of raw emotional power. She made everything she could have out of the character, singing with true beauty and mastery. Opposite her, Bryan Hymel sang a stunning Turiddu."
-slug = "an-astonishing-bryan-hymel-in-the-royal-operas-double-bill"
-title = "An &quot;astonishing&quot; Bryan Hymel in the Royal Opera&#039;s double bill"
-+++
+---
+author:
+- authors/vivian-darkbloom.md
+categories: Review
+date: "2017-12-04T19:11:00-05:00"
+lastmod: "2018-02-12T09:48:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512432377325/2017-12-04---square---2810ashm_368-Bryan-Hymel-as-CANIO-in-Pagliacci---ROH.-PHOTO-BY-Catherine-Ashmore.jpg.jpg
+publishDate: "2017-12-04T20:11:00-05:00"
+related_articles:
+- articles/in-review-il-trittico-at-roh.md
+- articles/in-review-bluebeards-castle-erwartung.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/bryan-hymel.md
+- scene/people/elina-garanca.md
+- scene/people/carmen-giannattasio.md
+- scene/people/mark-s-doss.md
+short_description: The singing, in particular, was phenomenal. Elīna Garanča was nothing
+  short of flawless as Santuzza. Her voice was warm, with a steely edge and full of
+  raw emotional power. She made everything she could have out of the character, singing
+  with true beauty and mastery. Opposite her, Bryan Hymel sang a stunning Turiddu.
+slug: an-astonishing-bryan-hymel-in-the-royal-operas-double-bill
+title: An &quot;astonishing&quot; Bryan Hymel in the Royal Opera&#039;s double bill
+---
 
 I always find *Cavalleria rusticana* and *Pagliacci* to be an unfair pairing: *Pagliacci* upstages *Rusticana* in basically every way. The story is considerably better, more interesting, better paced and more complex. The music has the same imbalance: *Pagliacci*'s score is infinitely more varied and detailed, full of beauty and emotion that *Rusticana* never quite reaches. I appreciate that's not an opinion everyone shares, but every time I see a production of the pair, I'm bored by *Rusticana* and then absolutely floored by *Pagliacci*.
 

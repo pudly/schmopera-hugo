@@ -1,33 +1,41 @@
-+++
-date = "2017-11-09T19:59:00-05:00"
-discipline = "Bass-baritone"
-lastmod = "2017-11-09T19:59:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679619500/media/2023/03/RyanMcKinny_phvjgo.jpg"
-primary_image_credit = "Simon Pauly"
-publishDate = "2017-11-09T19:59:00-05:00"
-related_companies = ["scene/companies/boston-lyric-opera-1.md", "scene/companies/san-francisco-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/english-national-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/canadian-opera-company.md"]
-slug = "ryan-mckinny"
-title = "Ryan McKinny"
-website = "http://www.ryanmckinny.com/en/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Ryan-McKinny-279216232111937/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/RyanMcKinny"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/ryanmckinny/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCp7MApLdyaDIJ_AAUkz58yw"
-
-_template = "people_single"
-+++
+---
+date: "2017-11-09T19:59:00-05:00"
+discipline: Bass-baritone
+lastmod: "2017-11-09T19:59:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1679619500/media/2023/03/RyanMcKinny_phvjgo.jpg
+primary_image_credit: Simon Pauly
+publishDate: "2017-11-09T19:59:00-05:00"
+related_companies:
+- scene/companies/boston-lyric-opera-1.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/canadian-opera-company.md
+slug: ryan-mckinny
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Ryan-McKinny-279216232111937/?fref=ts
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/RyanMcKinny
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/ryanmckinny/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCp7MApLdyaDIJ_AAUkz58yw
+title: Ryan McKinny
+website: http://www.ryanmckinny.com/en/
+---
 Recognized by _Opera News_ as “one of the finest singers of his generation,” American bass-baritone Ryan McKinny has earned his reputation as an artist with something to say. His relentless curiosity informs riveting character portrayals and beautifully crafted performances, reminding audiences of their shared humanity with characters on stage and screen.
 
 This season, Ryan McKinny brings his commanding bass-baritone and incisive characterization to stage dramas spanning three centuries. At LA Opera, he makes his first appearances as one of opera’s most menacing villains, singing Scarpia opposite Angel Blue as Tosca and Michael Fabiano as Cavaradossi. Also in Los Angeles, Ryan re-teams with composer and conductor John Adams, reprising his role as Clarence in _Girls of the Golden West_ at LA Philharmonic. He returns to Seattle Opera as Kurwenal in Wagner’s epic _Tristan und Isolde_ and to Houston Grand Opera as Jochannan in _Salome_. Ryan also makes a dual role and house debut as Bluebeard in _Bluebeard’s Castle_ at Boston Lyric Opera, before concluding the season with a three-city tour of Jake Heggie and Gene Scheer’s _For a Look or a Touch_, commissioned by Music of Remembrance, with performances in Seattle, San Francisco, and Chicago. Just announced: Ryan will star opposite Joyce DiDonato in Heggie’s _Dead Man Walking_ on opening night of the Metropolitan Opera’s 23/24 season.

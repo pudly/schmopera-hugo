@@ -1,18 +1,29 @@
-+++
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546831973/media/2019/01/BrianMulligan.jpg"
-primary_image_credit = "IMG Artists"
-related_companies = ["scene/companies/los-angeles-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/houston-grand-opera.md", "scene/companies/english-national-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/the-juilliard-school.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/minnesota-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/opernhaus-zurich.md", "scene/companies/oper-frankfurt.md", "scene/companies/san-francisco-opera.md"]
-slug = "brian-mulligan"
-title = "Brian Mulligan"
-website = "https://brianmulligan.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/brianthebaritone/"
-
-_template = "people_single"
-+++
+---
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546831973/media/2019/01/BrianMulligan.jpg
+primary_image_credit: IMG Artists
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/the-juilliard-school.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/minnesota-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/san-francisco-opera.md
+slug: brian-mulligan
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/brianthebaritone/
+title: Brian Mulligan
+website: https://brianmulligan.com/
+---
 Baritone Brian Mulligan is equally renowned as an interpreter of classic works by Verdi, Wagner and Strauss as well as of the most challenging twentieth and twenty-first century operas.  His striking stage portrayals have taken him to leading opera houses throughout Europe and North America.  He makes regular appearances with the leading US orchestras and in recital.
 
 Brian Mulligan begins the 2018/9 season in recital with the Vocal Arts DC at the Kennedy Center with pianist Timothy Long.  He presents the world premiere of _Walden_ by Gregory Spears, a work written for him based on texts by iconic American writer Henry David Thoreau.  The recital also features _From the Diary of Virginia Woolf_ by Domenick Argento which Mulligan recently recorded on an acclaimed disc for Naxos.

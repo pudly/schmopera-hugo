@@ -1,17 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2016-06-07T09:01:00-06:00"
-lastmod = "2016-07-10T10:27:00-06:00"
-preamble = "Belcore's aria from *L'elisir d'amore* is all about laying it on thick. He's after Adina, just like the opera's underdog/hero, Nemorino; he pulls out all the stops, like referencing literature, giving her flowers, and generally bragging about how awesome he is at life. It's a relatively rare moment of comedy for a baritone, although the aria doesn't come without its challenges. Along with your teachers and coaches, we offer up a few tips for wading through coloratura, and getting the best comedic bang for your buck."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468004512058/2016-07-08---Belcore.jpg.jpg"
-publishDate = "2016-07-08T21:18:00-06:00"
-related_articles = ["articles/aria-guides-aprite-un-po-quegli-occhi.md", "articles/aria-guides-the-counts-aria.md", "articles/aria-guides-schweig-damit-dich-niemand-warnt.md", "articles/aria-guides-sempre-libera.md", "articles/aria-guides-lieben-hassen.md"]
-short_description = "Belcore's aria from L'elisir d'amore is all about laying it on thick. He's after Adina, just like the opera's underdog/hero, Nemorino; he pulls out all the stops, like referencing literature, giving her flowers, and generally bragging about how awesome he is at life. It's a relatively rare moment of comedy for a baritone, although the aria doesn't come without its challenges. "
-slug = "aria-guides-come-paride-vezzoso"
-title = "Aria guides: \"Come Paride vezzoso\""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2016-06-07T09:01:00-06:00"
+lastmod: "2016-07-10T10:27:00-06:00"
+preamble: Belcore's aria from *L'elisir d'amore* is all about laying it on thick.
+  He's after Adina, just like the opera's underdog/hero, Nemorino; he pulls out all
+  the stops, like referencing literature, giving her flowers, and generally bragging
+  about how awesome he is at life. It's a relatively rare moment of comedy for a baritone,
+  although the aria doesn't come without its challenges. Along with your teachers
+  and coaches, we offer up a few tips for wading through coloratura, and getting the
+  best comedic bang for your buck.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468004512058/2016-07-08---Belcore.jpg.jpg
+publishDate: "2016-07-08T21:18:00-06:00"
+related_articles:
+- articles/aria-guides-aprite-un-po-quegli-occhi.md
+- articles/aria-guides-the-counts-aria.md
+- articles/aria-guides-schweig-damit-dich-niemand-warnt.md
+- articles/aria-guides-sempre-libera.md
+- articles/aria-guides-lieben-hassen.md
+short_description: 'Belcore''s aria from L''elisir d''amore is all about laying it
+  on thick. He''s after Adina, just like the opera''s underdog/hero, Nemorino; he
+  pulls out all the stops, like referencing literature, giving her flowers, and generally
+  bragging about how awesome he is at life. It''s a relatively rare moment of comedy
+  for a baritone, although the aria doesn''t come without its challenges. '
+slug: aria-guides-come-paride-vezzoso
+title: 'Aria guides: "Come Paride vezzoso"'
+---
 1. Right off the bat, Donizetti writes a pillar of _bel canto_ style, and that's the dotted rhythm, versus the triplet. It may sound like a subtle different, but singing this first phrase with a triplet feel completely changes the character of the music. There's something pompous and overdone about sticking to the tight dotted rhythms, which is exactly what Belcore is all about. Think of the dots as double or triple dots, and pull as much vowel time out of the long note as you can.<figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465311641645/Belcore---annotated---1.jpg.jpg)

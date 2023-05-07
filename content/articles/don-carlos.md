@@ -1,22 +1,34 @@
-+++
-author = ["authors/melissa-ratcliff.md", "authors/jenna.md"]
-categories = "Interview"
-date = 2023-03-10T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Heroic Opera's [production of _Don Carlo_](https://heroicopera.com/events/) runs March 30-April 2, 2023 at The Annex in Vancouver."
-preamble = "Vancouver-based [Heroic Opera](/scene/companies/heroic-opera/) is set to unveil its new production of Verdi's [_Don Carlo_](https://heroicopera.com/events/), and it stars Schmopera contributor [Melissa Ratcliff](/authors/melissa-ratcliff/) in the delicious role of Princess Eboli. Heroic Opera's production is offered in Italian with English subtitles, and it marks the first time in nearly a decade that _Don Carlo_ has come to Vancouver. We asked Melissa about the show's timeless messaging and Heroic Opera's dystopian take on Verdi:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1678373817/media/2023/03/sqHeroicOpera_DOnCarlos_MelissaRatcliff_eboli_2_tepb9x.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = ["scene/companies/heroic-opera.md"]
-related_people = []
-short_description = "\"The characters are flawed, but some take those flaws and make their world better, and others use it to the detriment of others. Power doesn't have to be evil, but the intersection of power, greed, and relentless injustice is terrifying.\""
-slug = "heroic-operas-don-carlo"
-title = "Expect the Spanish Inquisition at Heroic Opera's Don Carlo"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+- authors/jenna.md
+categories: Interview
+date: "2023-03-10T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Heroic Opera's [production of _Don Carlo_](https://heroicopera.com/events/)
+  runs March 30-April 2, 2023 at The Annex in Vancouver.
+preamble: 'Vancouver-based [Heroic Opera](/scene/companies/heroic-opera/) is set to
+  unveil its new production of Verdi''s [_Don Carlo_](https://heroicopera.com/events/),
+  and it stars Schmopera contributor [Melissa Ratcliff](/authors/melissa-ratcliff/)
+  in the delicious role of Princess Eboli. Heroic Opera''s production is offered in
+  Italian with English subtitles, and it marks the first time in nearly a decade that
+  _Don Carlo_ has come to Vancouver. We asked Melissa about the show''s timeless messaging
+  and Heroic Opera''s dystopian take on Verdi:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1678373817/media/2023/03/sqHeroicOpera_DOnCarlos_MelissaRatcliff_eboli_2_tepb9x.jpg
+primary_image_credit: ""
+related_articles: []
+related_companies:
+- scene/companies/heroic-opera.md
+related_people: []
+short_description: '"The characters are flawed, but some take those flaws and make
+  their world better, and others use it to the detriment of others. Power doesn''t
+  have to be evil, but the intersection of power, greed, and relentless injustice
+  is terrifying."'
+slug: heroic-operas-don-carlo
+title: Expect the Spanish Inquisition at Heroic Opera's Don Carlo
+youtube_url: ""
+---
 ## What do you think Verdi's _Don Carlo_ has to say about big topics like love, family, and politics?
 
 **Melissa Ratcliff:** I think right now, more than ever, we're seeing the themes of _Don Carlo_ repeating - in seeing the extremities of religion mixing with absolutism in politics, and how dangerous a mix that is for everyone that is caught in the crossfire. Book burnings, mass shootings, threats of incredible violence happening at the intersection of extreme religion, politics, and power. I think right now we're all worried about the state of our world, and where things could end up if this kind of extremism continues.

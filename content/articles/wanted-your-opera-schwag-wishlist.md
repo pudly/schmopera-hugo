@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-03-01T14:50:00+00:00"
-lastmod = "2017-03-03T12:25:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488543354044/UeRNBCC5DBsakrnLS5Et6IULQdwibTZLCnX1g5eoNxEIDJkTJChawaN7yvYeAFBgN2MuFHv2dFArMePBqpq9tyrveP5xsw%3Dw680-h680-c"
-publishDate = "2017-03-03T12:17:00+00:00"
-related_articles = ["articles/introducingthe-schmug.md","articles/schwag-the-schmopera-store.md"]
-short_description = "You probably already love our t-shirts, hoodies, mugs, and doggie gear - but what else do your operaphilic hearts desire? Tote bags? Baseball caps? Phone cases? Posters? Maybe you want more colours to choose from, or you&#039;ve got a great idea for a new design. Do you want to see your favourite opera reference, immortalized in material goods?"
-slug = "wanted-your-opera-schwag-wishlist"
-title = "Wanted: your opera schwag wish-list"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-03-01T14:50:00+00:00"
+lastmod: "2017-03-03T12:25:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488543354044/UeRNBCC5DBsakrnLS5Et6IULQdwibTZLCnX1g5eoNxEIDJkTJChawaN7yvYeAFBgN2MuFHv2dFArMePBqpq9tyrveP5xsw%3Dw680-h680-c
+publishDate: "2017-03-03T12:17:00+00:00"
+related_articles:
+- articles/introducingthe-schmug.md
+- articles/schwag-the-schmopera-store.md
+short_description: You probably already love our t-shirts, hoodies, mugs, and doggie
+  gear - but what else do your operaphilic hearts desire? Tote bags? Baseball caps?
+  Phone cases? Posters? Maybe you want more colours to choose from, or you&#039;ve
+  got a great idea for a new design. Do you want to see your favourite opera reference,
+  immortalized in material goods?
+slug: wanted-your-opera-schwag-wishlist
+title: 'Wanted: your opera schwag wish-list'
+---
 
 Readers, we want your help!
 

@@ -1,22 +1,35 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = 2020-02-11T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581445745/media/2020/02/sqOO-Seraglio-tgradyphoto-06738_hstb7h.jpg"
-primary_image_credit = "The Abduction from the Seraglio, Opera Omaha, 2020. Photo: Thomas Grady."
-related_articles = ["articles/strong-despite-the-details-rigoletto-in-minnesota.md", "articles/aria-guides-o-wie-angstlich.md"]
-related_companies = ["scene/companies/opera-omaha.md"]
-related_people = ["scene/people/amanda-woodbury.md", "scene/people/jack-swanson.md", "scene/people/ashley-emerson.md", "scene/people/michael-kuhn.md", "scene/people/erik-anstine.md"]
-short_description = "Opera Omaha’s production of The Abduction from the Seraglio brings vintage nightclub glam to Mozart’s beloved comedic Singspiel. The audience gets to enjoy the playful plot without all the dated humor and Turkish stereotypes that came with the original opera setting, a choice that allowed the virtuosic vocals to reign supreme."
-slug = "virtuosit-vocals-reign-supreme-in-opera-omahas-abduction"
-title = "Virtuosic vocals reign supreme in Opera Omaha's Abduction"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2020-02-11T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1581445745/media/2020/02/sqOO-Seraglio-tgradyphoto-06738_hstb7h.jpg
+primary_image_credit: 'The Abduction from the Seraglio, Opera Omaha, 2020. Photo:
+  Thomas Grady.'
+related_articles:
+- articles/strong-despite-the-details-rigoletto-in-minnesota.md
+- articles/aria-guides-o-wie-angstlich.md
+related_companies:
+- scene/companies/opera-omaha.md
+related_people:
+- scene/people/amanda-woodbury.md
+- scene/people/jack-swanson.md
+- scene/people/ashley-emerson.md
+- scene/people/michael-kuhn.md
+- scene/people/erik-anstine.md
+short_description: Opera Omaha’s production of The Abduction from the Seraglio brings
+  vintage nightclub glam to Mozart’s beloved comedic Singspiel. The audience gets
+  to enjoy the playful plot without all the dated humor and Turkish stereotypes that
+  came with the original opera setting, a choice that allowed the virtuosic vocals
+  to reign supreme.
+slug: virtuosit-vocals-reign-supreme-in-opera-omahas-abduction
+title: Virtuosic vocals reign supreme in Opera Omaha's Abduction
+youtube_url: ""
+---
 [Opera Omaha](/scene/companies/opera-omaha/)’s production of _The Abduction from the Seraglio_ brings vintage nightclub glam to Mozart’s beloved comedic Singspiel. The audience gets to enjoy the playful plot without all the dated humor and Turkish stereotypes that came with the original opera setting, a choice that allowed the virtuosic vocals to reign supreme.
 
 Rather than 16th-century Turkey, this production took place in 1930s Germany. Scenic designer Steven Kemp contrasted the grim exterior of Pasha’s kitchy Turkish-themed nightclub with pink neon and enticing advertisements. Inside the swank establishment was luxurious and colorful, an exotic oasis from the outside world. The rotating set allowed the audience to see backstage into the dressing rooms as well as the glitzy showfloor. Costume designer Neil Fortin explored both traditional European formal wear and Middle Eastern inspired costumes. Showgirls danced around in flowy turquoise, surrounded by stern men in tuxedos and military uniforms. Alison Moritz’s stage direction featured flirty choreography, slapstick humor, and realistic human interaction. The overall effect was a fantasy world with dark undertones. Pleasure always has a price.

@@ -1,22 +1,34 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = "2019-10-17T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "San Diego Opera's [production of Aida](https://www.sdopera.org/season/2019-2020-season/aida), starring Michelle Bradley in the title role, runs October 19-27."
-preamble = "American soprano [Michelle Bradley](/scene/people/michelle-bradley/) is opening the San Diego Opera 2019-2020 season singing the leading role in a new theatrical production of [_Aida_](https://www.sdopera.org/season/2019-2020-season/aida). The production features set elements and costumes with Joseph Colaneri as the conductor and Alan Hicks as the director. It runs for four performances, October 19-27."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571189076/media/2019/10/sqDarioAcosta-MichelleBradley_lhdob7.jpg"
-primary_image_credit = "Photo: Dario Acosta."
-related_articles = ["articles/talking-with-singers-sondra-radvanovsky.md", "articles/talking-with-singers-christine-goerke.md"]
-related_companies = ["scene/companies/san-diego-opera.md"]
-related_people = ["scene/people/michelle-bradley.md"]
-short_description = "\"The hard part is when I lock myself in a room and go over the score, figure out who the character is, make sure I get every pianissimo and forte, and accent and legato. When I come here, it's already engrained in me. I can just go where the director tells me to go.\""
-slug = "talking-with-singers-michelle-bradley"
-title = "Talking with singers: Michelle Bradley"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/eva-cahen.md
+categories: Interview
+date: "2019-10-17T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: San Diego Opera's [production of Aida](https://www.sdopera.org/season/2019-2020-season/aida),
+  starring Michelle Bradley in the title role, runs October 19-27.
+preamble: American soprano [Michelle Bradley](/scene/people/michelle-bradley/) is
+  opening the San Diego Opera 2019-2020 season singing the leading role in a new theatrical
+  production of [_Aida_](https://www.sdopera.org/season/2019-2020-season/aida). The
+  production features set elements and costumes with Joseph Colaneri as the conductor
+  and Alan Hicks as the director. It runs for four performances, October 19-27.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571189076/media/2019/10/sqDarioAcosta-MichelleBradley_lhdob7.jpg
+primary_image_credit: 'Photo: Dario Acosta.'
+related_articles:
+- articles/talking-with-singers-sondra-radvanovsky.md
+- articles/talking-with-singers-christine-goerke.md
+related_companies:
+- scene/companies/san-diego-opera.md
+related_people:
+- scene/people/michelle-bradley.md
+short_description: '"The hard part is when I lock myself in a room and go over the
+  score, figure out who the character is, make sure I get every pianissimo and forte,
+  and accent and legato. When I come here, it''s already engrained in me. I can just
+  go where the director tells me to go."'
+slug: talking-with-singers-michelle-bradley
+title: 'Talking with singers: Michelle Bradley'
+youtube_url: ""
+---
 ## On singing Aida
 
 I've done Aida in Nancy and in Erfurt. I'm getting this role under my belt but it's still a new experience each time. Different conductors do different things and you realize there are things you never saw before. I'm looking forward to how I'm going to develop her this time.

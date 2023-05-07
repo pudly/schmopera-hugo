@@ -1,17 +1,29 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Review"
-date = "2018-05-04T18:40:00-04:00"
-lastmod = "2018-05-04T20:50:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525476137150/06_Kirby-MacIntosh.jpg.jpg"
-primary_image_credit = "Johnathon Kirby and Anne-Marie MacIntosh in Così fan tutte, Calgary Opera's Emerging Artists, 2018. Photo: Jan van der Hooft."
-publishDate = "2018-05-04T20:50:00-04:00"
-related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md"]
-related_people = ["scene/people/morgan-traynor.md","scene/people/jillian-bonner.md","scene/people/annemarie-macintosh.md","scene/people/johnathon-kirby.md","scene/people/geoffrey-schellenberg.md","scene/people/daevyd-pepper.md"]
-short_description = "Of course, the success of Così fan tutte rests with the six singers and the magic they create both individually and in various combinations of duets, trios and more. For this production, two of the characters - Ferrando and Despina - are double cast, while the other four characters remain constant for the run."
-slug = "simpler-cos-offers-sizzle-substance-for-emerging-artists"
-title = "Simpler Così offers sizzle &amp; substance for Emerging Artists"
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Review
+date: "2018-05-04T18:40:00-04:00"
+lastmod: "2018-05-04T20:50:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525476137150/06_Kirby-MacIntosh.jpg.jpg
+primary_image_credit: 'Johnathon Kirby and Anne-Marie MacIntosh in Così fan tutte,
+  Calgary Opera''s Emerging Artists, 2018. Photo: Jan van der Hooft.'
+publishDate: "2018-05-04T20:50:00-04:00"
+related_companies:
+- scene/companies/calgary-opera-emerging-artist-development-program.md
+related_people:
+- scene/people/morgan-traynor.md
+- scene/people/jillian-bonner.md
+- scene/people/annemarie-macintosh.md
+- scene/people/johnathon-kirby.md
+- scene/people/geoffrey-schellenberg.md
+- scene/people/daevyd-pepper.md
+short_description: Of course, the success of Così fan tutte rests with the six singers
+  and the magic they create both individually and in various combinations of duets,
+  trios and more. For this production, two of the characters - Ferrando and Despina
+  - are double cast, while the other four characters remain constant for the run.
+slug: simpler-cos-offers-sizzle-substance-for-emerging-artists
+title: Simpler Così offers sizzle &amp; substance for Emerging Artists
+---
 
 Ever go to a performance where it's all sizzle and no substance? Where the production put so much effort into special effects that it overshadows what was most important?
 

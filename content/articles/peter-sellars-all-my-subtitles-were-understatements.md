@@ -1,18 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-04-24T09:34:00-04:00"
-lastmod = "2015-04-27T12:50:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429882292309/SellarsHeadshot-764x1024.jpg.jpg"
-publishDate = "2014-04-03T09:34:00-04:00"
-related_articles = ["articles/in-review-hercules.md","articles/daniel-belcher-returns-to-the-long-walk.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-short_description = "Hercules opens on April 5th, at the Canadian Opera Company, and it features a spectacular cast: Eric Owens (Hercules), Alice Coote (Dejanira) and David Daniels (Lichas) headline this special production. Go and see it."
-slug = "peter-sellars-all-my-subtitles-were-understatements"
-title = "Peter Sellars: all my subtitles were understatements"
-
-youtube_url ="https://www.youtube.com/watch?v=FcZ-AWpGJ-k&"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-04-24T09:34:00-04:00"
+lastmod: "2015-04-27T12:50:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429882292309/SellarsHeadshot-764x1024.jpg.jpg
+publishDate: "2014-04-03T09:34:00-04:00"
+related_articles:
+- articles/in-review-hercules.md
+- articles/daniel-belcher-returns-to-the-long-walk.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+short_description: 'Hercules opens on April 5th, at the Canadian Opera Company, and
+  it features a spectacular cast: Eric Owens (Hercules), Alice Coote (Dejanira) and
+  David Daniels (Lichas) headline this special production. Go and see it.'
+slug: peter-sellars-all-my-subtitles-were-understatements
+title: 'Peter Sellars: all my subtitles were understatements'
+youtube_url: https://www.youtube.com/watch?v=FcZ-AWpGJ-k&
+---
 
 _Hercules_ opens on April 5th, at the [Canadian Opera Company](http://www.coc.ca/Home.aspx), and it features a spectacular cast: [Eric Owens](http://imgartists.com/artist/eric_owens) (Hercules), [Alice Coote](http://imgartists.com/artist/alice_coote) (Dejanira) and [David Daniels](http://www.danielssings.com/) (Lichas) headline this special production. Go and see it. For ticket information, click [here](http://www.coc.ca/PerformancesAndTickets/1314Season/Hercules.aspx).
 

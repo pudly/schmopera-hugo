@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-01-30T21:07:00-05:00"
-lastmod = "2018-02-01T10:16:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517435634108/sq---Schabas-1.jpg.jpg"
-primary_image_credit = "Photo: Jim Roe."
-publishDate = "2018-01-31T20:35:00-05:00"
-related_articles = ["articles/spotlight-on-sara-schabas.md","articles/lifelike-theatre-at-luminato-the-story-of-charlotte-salomon.md","articles/perfect-for-its-time-heggie-double-bill-in-atlanta.md"]
-related_people = ["scene/people/sara-schabas.md","scene/people/jake-heggie.md"]
-short_description = "&quot;What we wanted to explore in these pieces is, what it is to survive when you&#039;re not necessarily doing heroic things, you&#039;re just surviving,&quot; Heggie says of his Holocaust-themed one-acts. &quot;What Krystyna had to do in order to survive was not heroic, it was horrifying.&quot;"
-slug = "heggies-holocaust-operas-see-canadian-premiere"
-title = "Heggie&#039;s Holocaust operas see Canadian premiere"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-01-30T21:07:00-05:00"
+lastmod: "2018-02-01T10:16:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517435634108/sq---Schabas-1.jpg.jpg
+primary_image_credit: 'Photo: Jim Roe.'
+publishDate: "2018-01-31T20:35:00-05:00"
+related_articles:
+- articles/spotlight-on-sara-schabas.md
+- articles/lifelike-theatre-at-luminato-the-story-of-charlotte-salomon.md
+- articles/perfect-for-its-time-heggie-double-bill-in-atlanta.md
+related_people:
+- scene/people/sara-schabas.md
+- scene/people/jake-heggie.md
+short_description: '&quot;What we wanted to explore in these pieces is, what it is
+  to survive when you&#039;re not necessarily doing heroic things, you&#039;re just
+  surviving,&quot; Heggie says of his Holocaust-themed one-acts. &quot;What Krystyna
+  had to do in order to survive was not heroic, it was horrifying.&quot;'
+slug: heggies-holocaust-operas-see-canadian-premiere
+title: Heggie&#039;s Holocaust operas see Canadian premiere
+---
 
 On **February 10 and 11**, the new Toronto-based Electric Bond Opera Ensemble presents the Canadian premiere of two one-act operas by Jake Heggie and Gene Scheer, [*Farewell, Auschwitz* and *Another Sunrise*](https://www.beth-tzedec.org/page/hub/category/event-another-sunrise-farewell-auschwitz-opera).
 

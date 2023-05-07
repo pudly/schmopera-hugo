@@ -1,16 +1,23 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2018-11-21T10:41:00-05:00"
-lastmod = "2018-11-21T10:41:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542814650600/sq181112_0366CarlosA%CC%81lvarezasSimonBoccanegraROH2018.jpg.jpg"
-primary_image_credit = "Carlos Álvarez as Simon Boccanegra in Simon Boccanegra, Royal Opera House, 2018. Photo: Clive Barda."
-publishDate = "2018-11-21T10:41:00-05:00"
-related_companies = ["scene/companies/royal-opera-house.md"]
-short_description = "But I was completely captivated by Ferruccio Furlanetto&#039;s Fiesco. He was the aged, revenge-hungry villain whilst still being able to inspire pity. And though it was a voice approaching the end of a long career, he had such a commanding and assured presence on stage that one couldn&#039;t help but be carried along with him."
-slug = "idealistic-lavish-simon-boccanegra-at-roh"
-title = "Idealistic &amp; lavish: Simon Boccanegra at ROH"
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2018-11-21T10:41:00-05:00"
+lastmod: "2018-11-21T10:41:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542814650600/sq181112_0366CarlosA%CC%81lvarezasSimonBoccanegraROH2018.jpg.jpg
+primary_image_credit: 'Carlos Álvarez as Simon Boccanegra in Simon Boccanegra, Royal
+  Opera House, 2018. Photo: Clive Barda.'
+publishDate: "2018-11-21T10:41:00-05:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+short_description: But I was completely captivated by Ferruccio Furlanetto&#039;s
+  Fiesco. He was the aged, revenge-hungry villain whilst still being able to inspire
+  pity. And though it was a voice approaching the end of a long career, he had such
+  a commanding and assured presence on stage that one couldn&#039;t help but be carried
+  along with him.
+slug: idealistic-lavish-simon-boccanegra-at-roh
+title: 'Idealistic &amp; lavish: Simon Boccanegra at ROH'
+---
 
 I have a confession to make: I enjoy a good remount. And it was this revival of Elijah Moshinsky's 1991 production of *Simon Boccanegra* that convinced me of it. As someone who often goes into a Verdi opera with a slight sense of trepidation (no, he's not my favourite composer), I have to admit, I was completely taken with it. From the very opening of the prologue the scale of this piece is definitively established. 
 

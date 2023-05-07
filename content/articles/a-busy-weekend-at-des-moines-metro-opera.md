@@ -1,22 +1,31 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = 2021-07-26T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1626801869/media/2021/07/sqDMMO-Platee-JonasHacker-DuaneTinkey_rkxlnw.jpg"
-primary_image_credit = "Jonas Hacker as Mercury in Des Moines Metro Opera's production of Platée, 2021. Photo: Duane Tinkey."
-related_articles = []
-related_companies = ["scene/companies/des-moines-metro-opera.md"]
-related_people = ["scene/people/elizabeth-sutphen.md", "scene/people/taylor-stayton.md", "scene/people/sara-gartland.md", "scene/people/zoie-reams.md", "scene/people/john-holiday.md"]
-short_description = "The pandemic may have put performances on hiatus, but audiences are back and eager to enjoy live theater with all the passion and perseverance of the human experience. Welcome back, opera. We've missed you!"
-slug = "a-busy-weekend-at-des-moines-metro-opera"
-title = "A busy weekend at Des Moines Metro Opera"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2021-07-26T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1626801869/media/2021/07/sqDMMO-Platee-JonasHacker-DuaneTinkey_rkxlnw.jpg
+primary_image_credit: 'Jonas Hacker as Mercury in Des Moines Metro Opera''s production
+  of Platée, 2021. Photo: Duane Tinkey.'
+related_articles: []
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+related_people:
+- scene/people/elizabeth-sutphen.md
+- scene/people/taylor-stayton.md
+- scene/people/sara-gartland.md
+- scene/people/zoie-reams.md
+- scene/people/john-holiday.md
+short_description: The pandemic may have put performances on hiatus, but audiences
+  are back and eager to enjoy live theater with all the passion and perseverance of
+  the human experience. Welcome back, opera. We've missed you!
+slug: a-busy-weekend-at-des-moines-metro-opera
+title: A busy weekend at Des Moines Metro Opera
+youtube_url: ""
+---
 After more than a year without theatrical performances, [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/)'s summer season was a welcome reunion with live opera. Walking into the theater felt like coming home after a long and lonely pandemic, and their COVID precautions made the experience both welcoming and safe. It was clear that every opera lover in the audience was more than happy to wear their masks and keep their distance, because each and every one of us was ready to dive back into our favorite art form and regain just a little bit of our lost community as we reveled in the beauty of music.
 
 ## _Sweeney Todd_

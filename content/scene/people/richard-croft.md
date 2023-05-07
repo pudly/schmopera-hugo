@@ -1,15 +1,24 @@
-+++
-date = "2016-01-06T11:46:00-05:00"
-discipline = "Tenor"
-lastmod = "2016-01-06T11:46:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452098604543/2016-01-06---Richard-Croft.jpg.jpg"
-publishDate = "2016-01-06T11:46:00-05:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/salzburg-festival.md","scene/companies/san-francisco-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/wiener-staatsoper.md","scene/companies/houston-grand-opera.md","scene/companies/washington-national-opera.md","scene/companies/glyndebourne.md"]
-slug = "richard-croft"
-title = "Richard Croft"
-website = "http://richardcroft.net/"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2016-01-06T11:46:00-05:00"
+discipline: Tenor
+lastmod: "2016-01-06T11:46:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452098604543/2016-01-06---Richard-Croft.jpg.jpg
+publishDate: "2016-01-06T11:46:00-05:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/salzburg-festival.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/glyndebourne.md
+slug: richard-croft
+title: Richard Croft
+website: http://richardcroft.net/
+---
 
 American tenor Richard Croft is internationally renowned for his performances with leading opera companies and orchestras around the world, including the Metropolitan Opera, Vienna Staatsoper, Teatro alla Scala, Opera National de Paris, Berlin Staatsoper, the Salzburg Festival, and Festival d’Aix-en-Provence, as well as the Berlin Philharmonic, Leipzig Gewandhaus, Cleveland Orchestra, New York Philharmonic, and Boston Symphony Orchestra. His clarion voice, superlative musicianship, and commanding stage presence allow him to pursue a wide breadth of repertoire from Handel and Mozart to the music of today’s composers.
 

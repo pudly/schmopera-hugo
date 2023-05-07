@@ -1,18 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-02-12T14:00:00-05:00"
-lastmod = "2016-02-13T11:25:00-05:00"
-preamble = "Baritone [Phillip Addis](/scene/people/phillip-addis/) and pianist [Emily Hamper](/scene/people/emily-hamper/) are preparing for the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/)'s upcoming concert, [*The Pilgrim Soul*](http://www.canadianartsongproject.ca/concert-season/#feb19), **February 19th, 7:30pm at Enoch Turner Schoolhouse**. The husband-and-wife team are longtime collaborators, and for this concert they'll present a program of music by Canadians Chester Duncan, Larysa Kuzmenko, Imant Raminsh, plus works by Dominick Argento and Gustav Mahler.\n\nAddis and Hamper spoke with us about *The Pilgrim Soul*, about the themes in Canadian art song, and about their unique partnership."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455305269116/pilgrimSquare.jpg.jpg"
-publishDate = "2016-02-13T09:00:00-05:00"
-related_articles = ["articles/aptly-named-the-living-spectacle.md","articles/in-review-ash-roses.md"]
-related_companies = ["scene/companies/canadian-art-song-project.md"]
-related_people = ["scene/people/phillip-addis.md","scene/people/emily-hamper.md"]
-short_description = "Baritone Phillip Addis and pianist Emily Hamper are preparing for the Canadian Art Song Project&#039;s upcoming concert, The Pilgrim Soul, February 19th, 7:30pm at Enoch Turner Schoolhouse. The husband-and-wife team are longtime collaborators, and for this concert they&#039;ll present a program of music by Canadians Chester Duncan, Larysa Kuzmenko, Imant Raminsh, plus works by Dominick Argento and Gustav Mahler."
-slug = "phillip-addis-emily-hamper-the-pilgrim-soul"
-title = "Phillip Addis &amp; Emily Hamper: The Pilgrim Soul"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-02-12T14:00:00-05:00"
+lastmod: "2016-02-13T11:25:00-05:00"
+preamble: |-
+  Baritone [Phillip Addis](/scene/people/phillip-addis/) and pianist [Emily Hamper](/scene/people/emily-hamper/) are preparing for the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/)'s upcoming concert, [*The Pilgrim Soul*](http://www.canadianartsongproject.ca/concert-season/#feb19), **February 19th, 7:30pm at Enoch Turner Schoolhouse**. The husband-and-wife team are longtime collaborators, and for this concert they'll present a program of music by Canadians Chester Duncan, Larysa Kuzmenko, Imant Raminsh, plus works by Dominick Argento and Gustav Mahler.
+
+  Addis and Hamper spoke with us about *The Pilgrim Soul*, about the themes in Canadian art song, and about their unique partnership.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455305269116/pilgrimSquare.jpg.jpg
+publishDate: "2016-02-13T09:00:00-05:00"
+related_articles:
+- articles/aptly-named-the-living-spectacle.md
+- articles/in-review-ash-roses.md
+related_companies:
+- scene/companies/canadian-art-song-project.md
+related_people:
+- scene/people/phillip-addis.md
+- scene/people/emily-hamper.md
+short_description: Baritone Phillip Addis and pianist Emily Hamper are preparing for
+  the Canadian Art Song Project&#039;s upcoming concert, The Pilgrim Soul, February
+  19th, 7:30pm at Enoch Turner Schoolhouse. The husband-and-wife team are longtime
+  collaborators, and for this concert they&#039;ll present a program of music by Canadians
+  Chester Duncan, Larysa Kuzmenko, Imant Raminsh, plus works by Dominick Argento and
+  Gustav Mahler.
+slug: phillip-addis-emily-hamper-the-pilgrim-soul
+title: 'Phillip Addis &amp; Emily Hamper: The Pilgrim Soul'
+---
 
 ## What can you tell us about the Canadian works on this concert? 
 

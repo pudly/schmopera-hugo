@@ -1,18 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2015-11-06T13:47:00-05:00"
-lastmod = "2015-11-09T08:00:00-05:00"
-postamble = "Want to request an aria? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)!"
-preamble = "For our next instalment of Aria Guides, we're sticking with the tried and true pick of divas around the world, \"Quando me'n vo\" from Puccini's *La bohème*. It's got everything you really want in an aria: girl tries to make her ex-boyfriend jealous, and she does it by singing sexy lines and shimmering high notes. The basics of this aria are really about great technique and great rhythm, and your voice teacher is the one to ask about the former. This guide will help you keep the easy stuff easy, and get you to a place where you can bring Musetta off the page.\n\nFollow along with the excerpts below, or starting on page 129 of [this score](http://javanese.imslp.info/files/imglnks/usimg/2/24/IMSLP21947-PMLP50378-Puccini_-_La_Boh__me__vocal_score_.pdf)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553306195/media/2019/03/sqQuando.jpg"
-publishDate = "2015-11-09T07:55:00-05:00"
-related_articles = ["articles/aria-guides-una-furtiva-lagrima.md", "articles/aria-guides-una-voce-poco-fa.md", "articles/aria-guides-deh-vieni-alla-finestra.md", "articles/aria-guides-dalla-sua-pace.md", "articles/song-guides-widmung.md", "articles/aria-guides-o-sleep-why-dost-thou-leave-me.md", "articles/aria-guides-mi-chiamano-mimi.md", "articles/aria-guides-il-mio-tesoro.md", "articles/aria-guides-ach-ich-fuhls.md", "articles/aria-guides-sempre-libera.md"]
-short_description = "For our next instalment of Aria Guides, we're sticking with the tried and true pick of divas around the world, \"Quando me'n vo\" from Puccini's La bohème. It's got everything you really want in an aria: girl tries to make her ex-boyfriend jealous, and she does it by singing sexy lines and shimmering high notes."
-slug = "aria-guides-quando-men-vo"
-title = "Aria Guides: Quando m'en vo"
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2015-11-06T13:47:00-05:00"
+lastmod: "2015-11-09T08:00:00-05:00"
+postamble: Want to request an aria? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)!
+preamble: |-
+  For our next instalment of Aria Guides, we're sticking with the tried and true pick of divas around the world, "Quando me'n vo" from Puccini's *La bohème*. It's got everything you really want in an aria: girl tries to make her ex-boyfriend jealous, and she does it by singing sexy lines and shimmering high notes. The basics of this aria are really about great technique and great rhythm, and your voice teacher is the one to ask about the former. This guide will help you keep the easy stuff easy, and get you to a place where you can bring Musetta off the page.
 
-+++
+  Follow along with the excerpts below, or starting on page 129 of [this score](http://javanese.imslp.info/files/imglnks/usimg/2/24/IMSLP21947-PMLP50378-Puccini_-_La_Boh__me__vocal_score_.pdf).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553306195/media/2019/03/sqQuando.jpg
+publishDate: "2015-11-09T07:55:00-05:00"
+related_articles:
+- articles/aria-guides-una-furtiva-lagrima.md
+- articles/aria-guides-una-voce-poco-fa.md
+- articles/aria-guides-deh-vieni-alla-finestra.md
+- articles/aria-guides-dalla-sua-pace.md
+- articles/song-guides-widmung.md
+- articles/aria-guides-o-sleep-why-dost-thou-leave-me.md
+- articles/aria-guides-mi-chiamano-mimi.md
+- articles/aria-guides-il-mio-tesoro.md
+- articles/aria-guides-ach-ich-fuhls.md
+- articles/aria-guides-sempre-libera.md
+short_description: 'For our next instalment of Aria Guides, we''re sticking with the
+  tried and true pick of divas around the world, "Quando me''n vo" from Puccini''s
+  La bohème. It''s got everything you really want in an aria: girl tries to make her
+  ex-boyfriend jealous, and she does it by singing sexy lines and shimmering high
+  notes.'
+slug: aria-guides-quando-men-vo
+title: 'Aria Guides: Quando m''en vo'
+---
  1. The very first note of "Quando m'en vo" is fairly exposed for the soprano, who's expected to produce an endless line of stunningly beautiful sound. One simpler way of looking at this phrase is thinking of the first two bars as a pick-up to the third. An Italian speaking "quando m'en vo" would naturally move towards "vo'", so it's not far off from what the text wants. Imagining an extended pick up is a way to avoid landing heavily on downbeats, and it'll open up more technical possibilities for you colour this first phrase. For the full legato experience, sing through the letter N in the words "quando" and "me'n"; you can afford more of a double-consonant effect in these spots, which will encourage you to maintain pitch and vibrato into the consonants.
  2. Be diligent with the grace note in this phrase (and the others in this aria), and be sure that the grace note pitch is truly in your voice. Practice it slowly and out of metric time, to get your body to treat that F-sharp like an honest-to-goodness note, and not a passing squeak. You'll be able to adapt easily to various conductors and their various tempi.<figure data-type="image">
 

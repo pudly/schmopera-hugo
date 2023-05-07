@@ -1,17 +1,27 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2018-04-16T13:02:00-04:00"
-lastmod = "2018-04-16T22:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897895104/sqBostonBaroqueFidelio.jpg.jpg"
-primary_image_credit = "William Burden as Florestan in Fidelio, Boston Baroque, 2018. Photo: Kathy Wittman."
-publishDate = "2018-04-16T22:25:00-04:00"
-related_articles = ["articles/a-masked-ball-american-baroque-opera-cos-opera-cabaret.md","articles/in-review-fidelio-other-first-operas.md","articles/real-prisoners-voices-make-heartbeat-operas-fidelio-resonate.md"]
-related_people = ["scene/people/anna-christy.md"]
-short_description = "It is a great thing, then, that Boston Baroque has mostly found the right cast with which to lead this reading of the opera, especially with Wendy Bryn Harmer. By the end of it, I felt as inspired by Harmer&#039;s portrayal of Leonore as the other characters on the stage: and really, is that not the most important feeling one should have coming out of an opera where good triumphs over evil?"
-slug = "wendy-bryn-harmer-leads-sensitive-inspirational-fidelio"
-title = "Wendy Bryn Harmer Leads Sensitive, Inspirational Fidelio"
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2018-04-16T13:02:00-04:00"
+lastmod: "2018-04-16T22:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897895104/sqBostonBaroqueFidelio.jpg.jpg
+primary_image_credit: 'William Burden as Florestan in Fidelio, Boston Baroque, 2018.
+  Photo: Kathy Wittman.'
+publishDate: "2018-04-16T22:25:00-04:00"
+related_articles:
+- articles/a-masked-ball-american-baroque-opera-cos-opera-cabaret.md
+- articles/in-review-fidelio-other-first-operas.md
+- articles/real-prisoners-voices-make-heartbeat-operas-fidelio-resonate.md
+related_people:
+- scene/people/anna-christy.md
+short_description: 'It is a great thing, then, that Boston Baroque has mostly found
+  the right cast with which to lead this reading of the opera, especially with Wendy
+  Bryn Harmer. By the end of it, I felt as inspired by Harmer&#039;s portrayal of
+  Leonore as the other characters on the stage: and really, is that not the most important
+  feeling one should have coming out of an opera where good triumphs over evil?'
+slug: wendy-bryn-harmer-leads-sensitive-inspirational-fidelio
+title: Wendy Bryn Harmer Leads Sensitive, Inspirational Fidelio
+---
 
 Beethoven's *Fidelio* is the home of one of the stranger paradoxes of the opera world. On the one hand, the music is wonderful, and it does contain quite a large amount of drama within each of the individual numbers. On the other hand, however, the story that Beethoven's score supports suffers from uneven pacing spent developing characters who do not figure prominently into the main conflict of the narrative. This is a duality that any opera company would find daunting when staging the work, but when done right, the show can feel absolutely inspiring. Thankfully, the performance that Boston Baroque gave on Jordan Hall's stage managed to impart this joyous feeling with a briskly-paced show that managed to take out most of the air pockets endemic to the work.
 

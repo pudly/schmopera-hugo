@@ -1,22 +1,33 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = "2019-05-04T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Vancouver Opera's production of _Faust_ runs through May 5. For details and ticket information, [click here](https://www.vancouveropera.ca/faust/). "
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556998691/media/2019/05/sqFaust-RobertPomakovandchorus-pc-TimMatheson.jpg"
-primary_image_credit = "Robert Pomakov (Méphistophélès) and the Vancouver Opera Chorus in Vancouver Opera's production of Faust, 2019. Photo: Tim Matheson."
-related_articles = ["articles/a-prodigy-grows-into-his-art.md", "articles/roh-faust.md"]
-related_companies = []
-related_people = ["scene/people/mireille-lebel.md", "scene/people/robert-pomakov.md", "scene/people/david-pomeroy.md", "scene/people/simone-osborne.md"]
-short_description = "The austere, dark sets and costuming were paired with relatively austere stage direction from François Racine. While the intention may have been to let the music speak for itself, in this case it seemed to slow the pace of the show, and gave the performers little to do on stage."
-slug = "pomakov-a-dominating-devil-in-vancouver-operas-faust"
-title = "Pomakov a dominating devil in Vancouver Opera's Faust"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2019-05-04T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: 'Vancouver Opera''s production of _Faust_ runs through May 5. For details
+  and ticket information, [click here](https://www.vancouveropera.ca/faust/). '
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1556998691/media/2019/05/sqFaust-RobertPomakovandchorus-pc-TimMatheson.jpg
+primary_image_credit: 'Robert Pomakov (Méphistophélès) and the Vancouver Opera Chorus
+  in Vancouver Opera''s production of Faust, 2019. Photo: Tim Matheson.'
+related_articles:
+- articles/a-prodigy-grows-into-his-art.md
+- articles/roh-faust.md
+related_companies: []
+related_people:
+- scene/people/mireille-lebel.md
+- scene/people/robert-pomakov.md
+- scene/people/david-pomeroy.md
+- scene/people/simone-osborne.md
+short_description: The austere, dark sets and costuming were paired with relatively
+  austere stage direction from François Racine. While the intention may have been
+  to let the music speak for itself, in this case it seemed to slow the pace of the
+  show, and gave the performers little to do on stage.
+slug: pomakov-a-dominating-devil-in-vancouver-operas-faust
+title: Pomakov a dominating devil in Vancouver Opera's Faust
+youtube_url: ""
+---
 Vancouver Opera's Festival mainstage feature is Gounod's _Faust_, the tragic story of the man who sells his soul to the devil for youth and love.
 
 In this production, borrowed from Montreal, the set is stark and austere, with floor-to-ceiling columns that form the scenery as they move to make the different settings of each act. They're visually striking, and give the entire settling a feeling of darkness, and being closed in, which adds to the tension of the drama.

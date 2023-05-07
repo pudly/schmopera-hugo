@@ -1,15 +1,30 @@
-+++
-date = "2017-07-15T17:46:00-04:00"
-discipline = "Conductor"
-draft = true
-lastmod = "2017-07-15T17:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500154961771/2017-07-16---Bicket-Richard-Haughton.jpg.jpg"
-primary_image_credit = "Richard Haughton"
-related_companies = ["scene/companies/the-santa-fe-opera.md","scene/companies/english-national-opera.md","scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/houston-grand-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/scottish-opera.md","scene/companies/opera-australia.md","scene/companies/welsh-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/minnesota-opera.md","scene/companies/los-angeles-opera.md","scene/companies/opera-north.md"]
-slug = "harry-bicket"
-title = "Harry Bicket"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-07-15T17:46:00-04:00"
+discipline: Conductor
+draft: true
+lastmod: "2017-07-15T17:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500154961771/2017-07-16---Bicket-Richard-Haughton.jpg.jpg
+primary_image_credit: Richard Haughton
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/royal-opera-house.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/scottish-opera.md
+- scene/companies/opera-australia.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/minnesota-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/opera-north.md
+slug: harry-bicket
+title: Harry Bicket
+---
 
 Internationally renowned as an opera and concert conductor of distinction, Harry Bicket is especially noted for his interpretation of baroque and classical repertoire and in 2007 became Artistic Director of The English Concert, one of the UK’s finest period orchestras. He became Chief Conductor of Santa Fe Opera in 2013 and opened the 2014 season with a critically-acclaimed *Fidelio*. Born in Liverpool, he studied at the Royal College of Music and Oxford University and is an accomplished harpsichordist.
 

@@ -1,22 +1,34 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = "2019-07-09T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Des Moines Metro Opera's [production of _Wozzeck_](http://desmoinesmetroopera.org/productions/wozzeck/) is onstage through July 19."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562776594/media/2019/07/sqWozzeckDSC_7802.jpg"
-primary_image_credit = "Wozzeck, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera."
-related_articles = []
-related_companies = ["scene/companies/des-moines-metro-opera.md"]
-related_people = ["scene/people/michael-mayes.md", "scene/people/sara-gartland.md", "scene/people/corey-trahan.md", "scene/people/gregory-warren.md", "scene/people/zachary-james.md"]
-short_description = "Certain characters and scenes were exaggerated and grotesque, accentuating Wozzeck's unreliable interpretation of reality. Other moments, however, were unsettling precisely because they felt so realistic. The omnipresent menacing atmosphere was palpable throughout the opera, and McIntyre did not pull any punches when it came to the pivotal murder scene."
-slug = "raw-exposed-wozzeck"
-title = "Raw & exposed: Wozzeck"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2019-07-09T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Des Moines Metro Opera's [production of _Wozzeck_](http://desmoinesmetroopera.org/productions/wozzeck/)
+  is onstage through July 19.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1562776594/media/2019/07/sqWozzeckDSC_7802.jpg
+primary_image_credit: 'Wozzeck, Des Moines Metro Opera, 2019. Photo: Duane Tinkey
+  for Des Moines Metro Opera.'
+related_articles: []
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+related_people:
+- scene/people/michael-mayes.md
+- scene/people/sara-gartland.md
+- scene/people/corey-trahan.md
+- scene/people/gregory-warren.md
+- scene/people/zachary-james.md
+short_description: Certain characters and scenes were exaggerated and grotesque, accentuating
+  Wozzeck's unreliable interpretation of reality. Other moments, however, were unsettling
+  precisely because they felt so realistic. The omnipresent menacing atmosphere was
+  palpable throughout the opera, and McIntyre did not pull any punches when it came
+  to the pivotal murder scene.
+slug: raw-exposed-wozzeck
+title: 'Raw & exposed: Wozzeck'
+youtube_url: ""
+---
 Des Moines Metro Opera's production of Alban Berg's _Wozzeck_ was a powerful theatrical experience. The atonal masterpiece is 98 minutes of psychological thriller in operatic form, immersing the audience in the dark and disturbing world of an unstable mind. It was absolutely riveting and sometimes hard to watch, but the emotions, whether good or bad, were always intense.
 
 Shout out to the spectacular, ALL FEMALE production team that created the bleak and menacing atmosphere of Wozzeck's troubled existence. Vita Tzykun's scenic design highlighted the fragmented nature of the plot through the use of layered metallic panels. These panels cut through each scene, revealing off-kilter vignettes for Wozzeck's interactions with different characters. The lighting design by Kate Ashton strategically focused or diffused Wozzeck's perspective throughout his experiences, warm and soft when he thought of Marie then harsh and direct when he felt antagonized. The only time that the setting and lighting felt natural is during the murder scene, his most heinous act contrasted by the most unassuming environment.

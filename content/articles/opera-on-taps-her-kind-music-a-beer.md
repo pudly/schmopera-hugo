@@ -1,16 +1,24 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-04-29T19:51:00-04:00"
-lastmod = "2018-04-30T17:55:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525044907322/sqDSC_7132_preview.jpg.jpg"
-primary_image_credit = " Mila Henry (piano) and Kacey Cardin perform \"Inhibitionist\" by Rachel Peters. Her Kind, Opera On Tap, 2018. Photo: Laura Thomson."
-publishDate = "2018-04-29T20:49:00-04:00"
-related_people = ["scene/people/kacey-cardin.md","scene/people/chelsea-feltman.md"]
-short_description = "Her Kind opened mysteriously enough as the sopranos entered costumed in dissimilar black outfits, their heads covered in grey veils. Standing strategically around the periphery of the playing area, they produced a polyphonic sound evoking the solemnity and religiosity of Hildegard&#039;s composition concerning salvation and the Virgin Mother."
-slug = "opera-on-taps-her-kind-music-a-beer"
-title = "Opera On Tap&#039;s Her Kind: music &amp; a beer"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-04-29T19:51:00-04:00"
+lastmod: "2018-04-30T17:55:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525044907322/sqDSC_7132_preview.jpg.jpg
+primary_image_credit: ' Mila Henry (piano) and Kacey Cardin perform "Inhibitionist"
+  by Rachel Peters. Her Kind, Opera On Tap, 2018. Photo: Laura Thomson.'
+publishDate: "2018-04-29T20:49:00-04:00"
+related_people:
+- scene/people/kacey-cardin.md
+- scene/people/chelsea-feltman.md
+short_description: Her Kind opened mysteriously enough as the sopranos entered costumed
+  in dissimilar black outfits, their heads covered in grey veils. Standing strategically
+  around the periphery of the playing area, they produced a polyphonic sound evoking
+  the solemnity and religiosity of Hildegard&#039;s composition concerning salvation
+  and the Virgin Mother.
+slug: opera-on-taps-her-kind-music-a-beer
+title: 'Opera On Tap&#039;s Her Kind: music &amp; a beer'
+---
 
 Hildegard von Bingen, that ever-relevant 11th-century saint, who was an author, mystic, poet, theologian, and, among other things, a composer, would likely be pleased with the company she keeps in *Her Kind, A Classical Cabaret Celebrating Womankind*, presented by the agile and intelligent Opera On Tap, New York. In residence at the Flea in Tribeca, its gracefully produced and thought-provoking evening began with the company's five sopranos singing Hildegard's "Quia ergo feminia," part one, arranged by company director and *Her Kind* creator, Sara Noble.
 

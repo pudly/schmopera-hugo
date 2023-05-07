@@ -1,22 +1,31 @@
-+++
-author = ["authors/neil-weisensel.md"]
-categories = "Review"
-date = 2022-04-14T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1649863965/media/2022/04/sqMO_galaconcert_Photo2_qj6ypt.jpg"
-primary_image_credit = "Mezzo-soprano Catherine Daniel in Manitoba Opera's Gala Concert, 2022. Photo: C. Corneau."
-related_articles = []
-related_companies = ["scene/companies/manitoba-opera.md"]
-related_people = ["scene/people/lizzy-hoyt.md", "scene/people/david-pomeroy.md", "scene/people/james-westman.md", "scene/people/lara-ciekiewicz.md", "scene/people/catherine-daniel.md"]
-short_description = "The crowd rose to their feet after this aria, applauding and cheering an downright incredible performance. And her singing in the final quartet, from Verdi's Rigoletto, reminded me of Denyce Graves."
-slug = "daniel-shines-in-manitoba-operas-gala-concert"
-title = "Daniel shines in Manitoba Opera's Gala Concert"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/neil-weisensel.md
+categories: Review
+date: "2022-04-14T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1649863965/media/2022/04/sqMO_galaconcert_Photo2_qj6ypt.jpg
+primary_image_credit: 'Mezzo-soprano Catherine Daniel in Manitoba Opera''s Gala Concert,
+  2022. Photo: C. Corneau.'
+related_articles: []
+related_companies:
+- scene/companies/manitoba-opera.md
+related_people:
+- scene/people/lizzy-hoyt.md
+- scene/people/david-pomeroy.md
+- scene/people/james-westman.md
+- scene/people/lara-ciekiewicz.md
+- scene/people/catherine-daniel.md
+short_description: The crowd rose to their feet after this aria, applauding and cheering
+  an downright incredible performance. And her singing in the final quartet, from
+  Verdi's Rigoletto, reminded me of Denyce Graves.
+slug: daniel-shines-in-manitoba-operas-gala-concert
+title: Daniel shines in Manitoba Opera's Gala Concert
+youtube_url: ""
+---
 This month's Gala Concert at Winnipeg's Centennial Concert Hall, presented by [Manitoba Opera](/scene/companies/manitoba-opera/), was a veritable cornucopia of operatic hits, featuring top Canadian talent supported by the Winnipeg Symphony Orchestra under the steady baton of Maestro Tyrone Paterson.
 
 It’s been a long, frustrating 28 months since Manitoba opera last staged a large-scale work on the mainstage, Carlisle Floyd's _Susannah_ in November of 2019. None of  us knew that our world was on the cusp of tumultuous change. The program presented last night was in fact a replacement of Rossini’s _La Cenerentola_, which will now appear this fall. As a replacement concert, however, I am happy to report that it was pretty darn entertaining!

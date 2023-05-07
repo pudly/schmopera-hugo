@@ -1,22 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2019-04-21T23:55:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "For a listing of upcoming events with the TSO, [click here](https://www.tso.ca/concerts)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1555893644/media/2019/04/sqTSOAmadeusChoirElmerIselerSingersMatthewHallsMahlerResurrectionSymphony-pc-JagGundu.jpg"
-primary_image_credit = "The Toronto Symphony Orchestra, the Amadeus Choir, the Elmer Iseler Singers and maestro Matthew Halls perform Mahler's Resurrection Symphony, 2019. Photo: Jag Gundu."
-related_articles = ["articles/star-wars.md", "articles/mahlers-2nd-in-memory-of-elizabeth-krehm.md", "articles/magic-theatre-jurowski-and-oaes-resurrection-symphony.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/joélle-harvey.md", "scene/people/marienicole-lemieux.md"]
-short_description = "So confident was I that I almost took it for granted; so, when Mahler's music began, it was as though it dragged me by the nape of my neck through an emotional rollercoaster I didn't know I needed."
-slug = "mahlers-resurrection-symphony-so-hopeful-itll-make-you-cry"
-title = "Mahler's Resurrection Symphony: so hopeful it'll make you cry"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2019-04-21T23:55:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: For a listing of upcoming events with the TSO, [click here](https://www.tso.ca/concerts).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1555893644/media/2019/04/sqTSOAmadeusChoirElmerIselerSingersMatthewHallsMahlerResurrectionSymphony-pc-JagGundu.jpg
+primary_image_credit: 'The Toronto Symphony Orchestra, the Amadeus Choir, the Elmer
+  Iseler Singers and maestro Matthew Halls perform Mahler''s Resurrection Symphony,
+  2019. Photo: Jag Gundu.'
+related_articles:
+- articles/star-wars.md
+- articles/mahlers-2nd-in-memory-of-elizabeth-krehm.md
+- articles/magic-theatre-jurowski-and-oaes-resurrection-symphony.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/joélle-harvey.md
+- scene/people/marienicole-lemieux.md
+short_description: So confident was I that I almost took it for granted; so, when
+  Mahler's music began, it was as though it dragged me by the nape of my neck through
+  an emotional rollercoaster I didn't know I needed.
+slug: mahlers-resurrection-symphony-so-hopeful-itll-make-you-cry
+title: 'Mahler''s Resurrection Symphony: so hopeful it''ll make you cry'
+youtube_url: ""
+---
 If there's ever a safe bet to be made, it's that hearing a live performance of a Mahler symphony will conjure up true catharsis. The Toronto Symphony Orchestra just finished three performances of Mahler's Symphony No. 2 - titled "Resurrection"; when I confirmed my plans to attend, I felt an acute sensation of confidence that my night out at Roy Thomson Hall would be impactful.
 
 So confident was I that I almost took it for granted; so, when Mahler's music began, it was as though it dragged me by the nape of my neck through an emotional rollercoaster I didn't know I needed.

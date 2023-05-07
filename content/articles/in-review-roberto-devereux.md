@@ -1,18 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2014-05-01T08:30:00-04:00"
-lastmod = "2015-04-23T21:19:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838384029/1121-Elisabetta-Credit-Michael-Cooper-673x1024.jpg.jpg"
-primary_image_credit = "All photos by Michael Cooper"
-publishDate = "2014-05-01T08:30:00-04:00"
-related_articles = ["articles/dont-miss-sondra-radvanovsky-at-koerner-hall.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/sondra-radvanovsky.md","scene/people/russell-braun.md","scene/people/allyson-mchardy.md"]
-short_description = "Since the dress rehearsal of the Canadian Opera Company&#039;s Roberto Devereux, my Facebook and Twitter feeds have been flipping out about American soprano Sondra Radvanovksy&#039;s performance as Queen Elizabeth I. So I was really eager to see it for myself."
-slug = "in-review-roberto-devereux"
-title = "In review: Roberto Devereux"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2014-05-01T08:30:00-04:00"
+lastmod: "2015-04-23T21:19:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838384029/1121-Elisabetta-Credit-Michael-Cooper-673x1024.jpg.jpg
+primary_image_credit: All photos by Michael Cooper
+publishDate: "2014-05-01T08:30:00-04:00"
+related_articles:
+- articles/dont-miss-sondra-radvanovsky-at-koerner-hall.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/sondra-radvanovsky.md
+- scene/people/russell-braun.md
+- scene/people/allyson-mchardy.md
+short_description: Since the dress rehearsal of the Canadian Opera Company&#039;s
+  Roberto Devereux, my Facebook and Twitter feeds have been flipping out about American
+  soprano Sondra Radvanovksy&#039;s performance as Queen Elizabeth I. So I was really
+  eager to see it for myself.
+slug: in-review-roberto-devereux
+title: 'In review: Roberto Devereux'
+---
 
 Since the dress rehearsal of the Canadian Opera Company's [_Roberto Devereux,_](http://www.coc.ca/PerformancesAndTickets/1314Season/RobertoDevereux.aspx) my Facebook and Twitter feeds have been flipping out about American soprano [Sondra Radvanovksy](http://www.sondraradvanovsky.com/)'s performance as Queen Elizabeth I. So I was really eager to see it for myself.
 

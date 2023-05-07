@@ -1,14 +1,15 @@
-+++
-date = "2015-04-12T10:51:00-04:00"
-discipline = "Artistic Director, Opera Australia"
-lastmod = "2015-04-12T10:51:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428850167728/Lyndon%2520Terracini.jpg.jpg"
-publishDate = "2015-04-12T10:51:00-04:00"
-related_companies = ["scene/companies/opera-australia.md"]
-slug = "lyndon-terracini"
-title = "Lyndon Terracini"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2015-04-12T10:51:00-04:00"
+discipline: Artistic Director, Opera Australia
+lastmod: "2015-04-12T10:51:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428850167728/Lyndon%2520Terracini.jpg.jpg
+publishDate: "2015-04-12T10:51:00-04:00"
+related_companies:
+- scene/companies/opera-australia.md
+slug: lyndon-terracini
+title: Lyndon Terracini
+---
 
 <p>
 	Lyndon Terracini is the Artistic Director of Opera Australia, and has also enjoyed a highly successful international opera career as well as a successful career as an actor, director and writer.

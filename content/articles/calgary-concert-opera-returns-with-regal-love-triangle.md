@@ -1,22 +1,30 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Interview"
-date = 2022-09-18T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Calgary Concert Opera and Opera By Request co-present Donizetti's _Roberto Devereux_ on **September 17 in Okotoks, Alberta and September 19 in Calgary**. Tickets are available via [Calgary Concert Opera's website](https://calgaryconcertopera.com/upcoming-events)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1663515750/media/2022/09/sqDevereux_RamirezKing.jpeg_xcotv2.jpg"
-primary_image_credit = "Ernesto Ramírez (Devereux) and Barbara King (Sara) in Roberto Devereux, co-produced by Opera By Request and Calgary Concert Opera Company. Photo courtesy of Calgary Concert Opera Company."
-related_articles = []
-related_companies = ["scene/companies/opera-by-request.md"]
-related_people = ["scene/people/ernesto-ramirez.md"]
-short_description = "\"This production of Roberto Devereux will be a really intimate performance for the audience,\" says King. \"In this format, you'll really feel the emotions Donizetti has woven so brilliantly in his music.\""
-slug = "calgary-concert-opera-returns-with-regal-love-triangle"
-title = "Calgary Concert Opera returns with regal love triangle"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Interview
+date: "2022-09-18T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Calgary Concert Opera and Opera By Request co-present Donizetti's _Roberto
+  Devereux_ on **September 17 in Okotoks, Alberta and September 19 in Calgary**. Tickets
+  are available via [Calgary Concert Opera's website](https://calgaryconcertopera.com/upcoming-events).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1663515750/media/2022/09/sqDevereux_RamirezKing.jpeg_xcotv2.jpg
+primary_image_credit: Ernesto Ramírez (Devereux) and Barbara King (Sara) in Roberto
+  Devereux, co-produced by Opera By Request and Calgary Concert Opera Company. Photo
+  courtesy of Calgary Concert Opera Company.
+related_articles: []
+related_companies:
+- scene/companies/opera-by-request.md
+related_people:
+- scene/people/ernesto-ramirez.md
+short_description: '"This production of Roberto Devereux will be a really intimate
+  performance for the audience," says King. "In this format, you''ll really feel the
+  emotions Donizetti has woven so brilliantly in his music."'
+slug: calgary-concert-opera-returns-with-regal-love-triangle
+title: Calgary Concert Opera returns with regal love triangle
+youtube_url: ""
+---
 After two years away due to the COVID pandemic, [Calgary Concert Opera Company](https://calgaryconcertopera.com/) returns with a two-night production of Donizetti's _Roberto Devereux_. The co-production with Ontario-based [Opera By Request](/scene/companies/opera-by-request/) was originally intended to celebrate 70 years of the reign of Queen Elizabeth II. With the monarch's recent passing, the production will now serve as a memorial to the Queen.
 
 "We're going to dedicate a performance to her living memory," says mezzo-soprano Barbara King, co-founder of Calgary Concert Opera, who is also starring as Sara, Duchess of Nottingham in the opera. "We will definitely have a moment of silence to dedicate to her life."

@@ -1,15 +1,20 @@
-+++
-date = "2017-02-03T10:21:00+00:00"
-discipline = "Tenor"
-lastmod = "2017-02-03T10:23:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486117274409/2017-02-03---Joshua-Guerrero.jpg.jpg"
-primary_image_credit = "Gabriel Guzman"
-publishDate = "2017-02-03T10:22:00+00:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/los-angeles-opera.md","scene/companies/opernhaus-zurich.md","scene/companies/salzburg-festival.md","scene/companies/the-santa-fe-opera.md"]
-slug = "joshua-guerrero"
-title = "Joshua Guerrero"
-_template = "people_single"
-+++
+---
+_template: people_single
+date: "2017-02-03T10:21:00+00:00"
+discipline: Tenor
+lastmod: "2017-02-03T10:23:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486117274409/2017-02-03---Joshua-Guerrero.jpg.jpg
+primary_image_credit: Gabriel Guzman
+publishDate: "2017-02-03T10:22:00+00:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/salzburg-festival.md
+- scene/companies/the-santa-fe-opera.md
+slug: joshua-guerrero
+title: Joshua Guerrero
+---
 
 Proclaimed a “gifted young tenor” by the New York Times, Joshua Guerrero returned to the Los Angeles Opera in his role debut as Macduff in *Macbeth* with Plácido Domingo as Macbeth and James Conlon conducting which will be released commercially on Sony DVD. He debuts in the same role at the Zurich Opera with Gianandrea Noseda conducting and makes his London debut at the English National Opera as the Duke of Mantova in Jonathan Miller's famous production of *Rigoletto*. In concert, he will tour Europe with Gustavo Dudamel and the Simón Bolivar Orchestra singing Beethoven's Symphony No. 9 and sing Haydn's Creation with Dudamel and the LA Philharmonic. He will make his Baltimore Symphony Orchestra debut with Marin Alsop in Beethoven's Symphony No. 9 and was a featured soloist at the Richard Tucker Music Foundation Gala at Carnegie Hall.
 

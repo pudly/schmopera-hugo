@@ -1,22 +1,37 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Review"
-date = 2019-11-17T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Lyric Opera of Chicago's production of [_Don Giovanni_ ](https://www.lyricopera.org/productions/2019-20/don-giovanni/)runs through December 8."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574035300/media/2019/11/sqFang_LucasGIOVANNI_LyricOperaofChicago_227_nrg1fh.jpg"
-primary_image_credit = "Ying Fang (Zerlina) and Lucas Meachem (Don Giovanni) in Don Giovanni, Lyric Opera of Chicago, 2019. Photo: Kyle Flubacker."
-related_articles = ["articles/talking-with-singers-rachel-willis-sørensen.md", "articles/spotlight-on-amanda-majeski.md", "articles/don-giovanni-strengthened-by-reinterpretation.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/brandon-cedel.md", "scene/people/ying-fang.md", "scene/people/ben-bliss.md", "scene/people/lucas-meachem.md", "scene/people/amanda-majeski.md", "scene/people/rachel-willis-sorensen.md"]
-short_description = "For generations of (male) musicologists, the character Don Giovanni has been something of an egalitarian sex god. These academics propped up their vision of Don-G-as-political-progressive with weak evidence, citing his willingness (compulsion?) to sleep with any woman, even fat, poor, and old ones. "
-slug = "a-don-giovanni-with-style-in-chicago"
-title = "A Don Giovanni with style in Chicago"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Review
+date: "2019-11-17T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Lyric Opera of Chicago's production of [_Don Giovanni_ ](https://www.lyricopera.org/productions/2019-20/don-giovanni/)runs
+  through December 8.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1574035300/media/2019/11/sqFang_LucasGIOVANNI_LyricOperaofChicago_227_nrg1fh.jpg
+primary_image_credit: 'Ying Fang (Zerlina) and Lucas Meachem (Don Giovanni) in Don
+  Giovanni, Lyric Opera of Chicago, 2019. Photo: Kyle Flubacker.'
+related_articles:
+- articles/talking-with-singers-rachel-willis-sørensen.md
+- articles/spotlight-on-amanda-majeski.md
+- articles/don-giovanni-strengthened-by-reinterpretation.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/brandon-cedel.md
+- scene/people/ying-fang.md
+- scene/people/ben-bliss.md
+- scene/people/lucas-meachem.md
+- scene/people/amanda-majeski.md
+- scene/people/rachel-willis-sorensen.md
+short_description: 'For generations of (male) musicologists, the character Don Giovanni
+  has been something of an egalitarian sex god. These academics propped up their vision
+  of Don-G-as-political-progressive with weak evidence, citing his willingness (compulsion?)
+  to sleep with any woman, even fat, poor, and old ones. '
+slug: a-don-giovanni-with-style-in-chicago
+title: A Don Giovanni with style in Chicago
+youtube_url: ""
+---
 _Don Giovanni_, that most inimitable of Mozart's collaborations with librettist Lorenzo Da Ponte, is something of an operatic Rorschach test; tell me what you think is funny about _Don Giovanni_ and I could guess your age, average annual income, and definitely your gender. Personally, I don't believe this work has persisted as a canonical hit for centuries because it's \~hilarious\~ but rather because its intrinsic complexities are borne out in a well-paced work of theater that happens to contain some of the best music Mozart wrote for voices.
 
 <figure data-type="image">

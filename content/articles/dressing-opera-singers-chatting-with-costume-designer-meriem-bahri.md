@@ -1,16 +1,22 @@
-+++
-author = ["authors/hannah-de-priest.md"]
-categories = "Interview"
-date = "2018-05-16T21:27:00-04:00"
-lastmod = "2018-05-21T20:55:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526867790493/sqMeriem.jpg.jpg"
-publishDate = "2018-05-21T20:55:00-04:00"
-related_articles = ["articles/photographing-the-opera-singer.md"]
-related_companies = ["scene/companies/haymarket-opera-company.md"]
-short_description = "For years, she pushed her love of fashion and drawing to the side until, while studying in Lille, she happened to meet the couturiere designing and building costumes for her local amateur dance troupe. The couturiere showed Bahri how to use a sewing machine and she was hooked."
-slug = "dressing-opera-singers-chatting-with-costume-designer-meriem-bahri"
-title = "Dressing opera singers: chatting with costume designer Meriem Bahri"
-+++
+---
+author:
+- authors/hannah-de-priest.md
+categories: Interview
+date: "2018-05-16T21:27:00-04:00"
+lastmod: "2018-05-21T20:55:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526867790493/sqMeriem.jpg.jpg
+publishDate: "2018-05-21T20:55:00-04:00"
+related_articles:
+- articles/photographing-the-opera-singer.md
+related_companies:
+- scene/companies/haymarket-opera-company.md
+short_description: For years, she pushed her love of fashion and drawing to the side
+  until, while studying in Lille, she happened to meet the couturiere designing and
+  building costumes for her local amateur dance troupe. The couturiere showed Bahri
+  how to use a sewing machine and she was hooked.
+slug: dressing-opera-singers-chatting-with-costume-designer-meriem-bahri
+title: 'Dressing opera singers: chatting with costume designer Meriem Bahri'
+---
 
 Costume designer [Meriem Bahri](http://meriembahri.com/) is beloved in the baroque opera world for her detail-oriented, imaginative work for companies including [Haymarket Opera Company](/scene/companies/haymarket-opera-company/), the Newberry Consort, and Opera Lafayette. *The New York Times* has described her costumes as "gorgeous and evocative." John von Rhein of the *Chicago Tribune* likened a production with Bahri's designs as "a veritable 17th-century fashion parade." Her work brims with historical detail and whimsy, with figures festooned with extravagant headdresses and dressed in impeccably draped brocades. 
 

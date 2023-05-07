@@ -1,22 +1,30 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Interview"
-date = "2019-10-05T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Lyric Opera of Chicago's production of [_Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/) runs Oct. 12-31."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1570226877/media/2019/10/sqEnriqueMazzolaJean-BaptisteMillot_v2phae.jpg"
-primary_image_credit = "Photo: Jean-Baptiste Millot."
-related_articles = ["articles/3-ways-to-have-a-great-first-rehearsal.md", "articles/talking-with-conductors-harry-bicket.md", "articles/talking-with-conductors-lidiya-yankovskaya.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/enrique-mazzola.md"]
-short_description = "\"Luisa is a character totally surrounded by men who, in that time, control her life. But her father speaks up for her. This makes me think, 'Bravo, Giuseppe! You are speaking about important things for your time.'\""
-slug = "talking-with-conductors-enrique-mazzola"
-title = "Talking with conductors: Enrique Mazzola"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Interview
+date: "2019-10-05T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Lyric Opera of Chicago's production of [_Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/)
+  runs Oct. 12-31.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1570226877/media/2019/10/sqEnriqueMazzolaJean-BaptisteMillot_v2phae.jpg
+primary_image_credit: 'Photo: Jean-Baptiste Millot.'
+related_articles:
+- articles/3-ways-to-have-a-great-first-rehearsal.md
+- articles/talking-with-conductors-harry-bicket.md
+- articles/talking-with-conductors-lidiya-yankovskaya.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/enrique-mazzola.md
+short_description: '"Luisa is a character totally surrounded by men who, in that time,
+  control her life. But her father speaks up for her. This makes me think, ''Bravo,
+  Giuseppe! You are speaking about important things for your time.''"'
+slug: talking-with-conductors-enrique-mazzola
+title: 'Talking with conductors: Enrique Mazzola'
+youtube_url: ""
+---
 [Enrique Mazzola](/scene/people/enrique-mazzola/) has been a hot topic lately in the opera world. And rightfully so. Just a few weeks ago, Lyric Opera of Chicago announced that the acclaimed Italian conductor will become the company's [new music director as of the 2021-22 season](https://www.lyricopera.org/about-lyric-opera/leadership/announcement/).
 
 Lyric audiences got to know Mazzola in recent seasons in Donizetti's _Lucia di Lammermoor_ (2016-17) and Bellini's _I puritani_ (2017-18). He's currently in town preparing Verdi's [_Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/), which opens October 12 at the Lyric Opera House, and which kicks off the company's early-Verdi series planned over the course of the next few years, and all to be conducted by Maestro Mazzola.

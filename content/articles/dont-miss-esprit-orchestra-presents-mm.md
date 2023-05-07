@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-11-17T11:03:00+00:00"
-lastmod = "2016-11-17T15:11:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479382505777/2016-11-16---Esprit-Orchestra-Huang.jpg.jpg"
-primary_image_credit = "Photo by Bo Huang."
-publishDate = "2016-11-17T15:01:00+00:00"
-related_companies = ["scene/companies/esprit-orchestra.md"]
-short_description = "The &quot;M&quot; in Leroux&#039;s m&#039;M is the phonetic interpretation of the French word for &quot;love&quot; (&quot;aime&quot;); complementary to the concerto grosso form - a handful of musicians playing alongside a large ensemble - Leroux offers that &quot;&#039;m&#039; represents a small group of instrumentalists within the orchestra, and &#039;M&#039; represents the remaining larger combination of players surrounding the small group.&quot;"
-slug = "dont-miss-esprit-orchestra-presents-mm"
-title = "Don&#039;t miss: Esprit Orchestra presents m&#039;M"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-11-17T11:03:00+00:00"
+lastmod: "2016-11-17T15:11:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479382505777/2016-11-16---Esprit-Orchestra-Huang.jpg.jpg
+primary_image_credit: Photo by Bo Huang.
+publishDate: "2016-11-17T15:01:00+00:00"
+related_companies:
+- scene/companies/esprit-orchestra.md
+short_description: The &quot;M&quot; in Leroux&#039;s m&#039;M is the phonetic interpretation
+  of the French word for &quot;love&quot; (&quot;aime&quot;); complementary to the
+  concerto grosso form - a handful of musicians playing alongside a large ensemble
+  - Leroux offers that &quot;&#039;m&#039; represents a small group of instrumentalists
+  within the orchestra, and &#039;M&#039; represents the remaining larger combination
+  of players surrounding the small group.&quot;
+slug: dont-miss-esprit-orchestra-presents-mm
+title: 'Don&#039;t miss: Esprit Orchestra presents m&#039;M'
+---
 
 The Esprit Orchestra's programme for its second concert of the season is essentially one attention-grabbing piece after another. 
 

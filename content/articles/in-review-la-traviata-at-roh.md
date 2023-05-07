@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-01-26T13:31:00+00:00"
-lastmod = "2017-01-26T17:07:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485448627035/2017-01-26---La-Traviata-13-01-17-ROH-1119x2-JOYCE-EL-KHOURY-AS-VIOLETTA-VALERY-SERGEY-ROMANOVSKY-AS-ALFREDO-GERMONT-ROH-PHOTO-BY-TRISTRAM-KENTON.jpg.jpg"
-primary_image_credit = "Joyce El-Khoury (Violetta), Sergey Romanovsky (Alfredo) in La traviata, ROH, 2017. Photo: Tristam Kenton."
-publishDate = "2017-01-26T17:00:00+00:00"
-related_articles = ["articles/in-review-la-traviata-at-the-coc.md","articles/in-review-lucia-di-lammermoor-at-roh.md","articles/a-shining-violetta-in-washington.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/joyce-elkhoury.md","scene/people/artur-rucinski.md","scene/people/sergey-romanovsky.md"]
-short_description = "The broad-strokes architecture of the opera&#039;s four sets are a clean contrast against the ladies&#039; luxurious dresses, even against the messy humanity of Verdi&#039;s simple, classic tale of love and the opinions of others. Joyce El-Khoury&#039;s Violetta comes with easy charisma, and a strong desire to maintain composure and dignity. El-Khoury matured along with Violetta&#039;s story, yet somehow retained a young voice, full of the best intentions. Her third-act aria, &quot;Addio del passato&quot; was the highlight of the night."
-slug = "in-review-la-traviata-at-roh"
-title = "In review: La traviata at ROH"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-01-26T13:31:00+00:00"
+lastmod: "2017-01-26T17:07:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485448627035/2017-01-26---La-Traviata-13-01-17-ROH-1119x2-JOYCE-EL-KHOURY-AS-VIOLETTA-VALERY-SERGEY-ROMANOVSKY-AS-ALFREDO-GERMONT-ROH-PHOTO-BY-TRISTRAM-KENTON.jpg.jpg
+primary_image_credit: 'Joyce El-Khoury (Violetta), Sergey Romanovsky (Alfredo) in
+  La traviata, ROH, 2017. Photo: Tristam Kenton.'
+publishDate: "2017-01-26T17:00:00+00:00"
+related_articles:
+- articles/in-review-la-traviata-at-the-coc.md
+- articles/in-review-lucia-di-lammermoor-at-roh.md
+- articles/a-shining-violetta-in-washington.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/joyce-elkhoury.md
+- scene/people/artur-rucinski.md
+- scene/people/sergey-romanovsky.md
+short_description: The broad-strokes architecture of the opera&#039;s four sets are
+  a clean contrast against the ladies&#039; luxurious dresses, even against the messy
+  humanity of Verdi&#039;s simple, classic tale of love and the opinions of others.
+  Joyce El-Khoury&#039;s Violetta comes with easy charisma, and a strong desire to
+  maintain composure and dignity. El-Khoury matured along with Violetta&#039;s story,
+  yet somehow retained a young voice, full of the best intentions. Her third-act aria,
+  &quot;Addio del passato&quot; was the highlight of the night.
+slug: in-review-la-traviata-at-roh
+title: 'In review: La traviata at ROH'
+---
 
 For as much as we babble on about what's new and creative about opera, a good production of Verdi's [*La traviata*](http://www.roh.org.uk/productions/la-traviata-by-richard-eyre) can be like a palate cleanser, a reminder of the difference between so-called "museum pieces" and operas which are simply timeless.
 

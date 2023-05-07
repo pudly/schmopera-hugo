@@ -1,23 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = 2020-08-11T04:00:00Z
-disclaimer = ""
-draft = true
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1596983092/media/2020/08/sqDoretta_u5rqrx.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "short"
-slug = "aria-guides-chi-il-bel-sogno-di-doretta"
-title = "Aria guides: Chi il bel sogno di Doretta"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2020-08-11T04:00:00Z"
+disclaimer: ""
+draft: true
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1596983092/media/2020/08/sqDoretta_u5rqrx.jpg
+primary_image_credit: ""
+related_articles: []
+related_companies: []
+related_people: []
+short_description: short
+slug: aria-guides-chi-il-bel-sogno-di-doretta
+title: 'Aria guides: Chi il bel sogno di Doretta'
+youtube_url: ""
+---
 <figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1590608941/media/2020/05/AriaGuide-Doretta-p1-annotated_wxfggt.jpg)

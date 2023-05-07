@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2015-11-27T17:59:00-05:00"
-lastmod = "2015-11-28T20:18:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448759320828/2015-11-29---Gabriel-Dharmoo-Cr%C3%A9dit-Jonathan-Goulet.jpg.jpg"
-primary_image_credit = "Gabriel Dharmoo. Photo by Jonathan Goulet."
-publishDate = "2015-11-29T09:00:00-05:00"
-related_articles = ["articles/dont-miss-atgs-messiah.md"]
-related_companies = ["scene/companies/soundstreams.md","scene/companies/toronto-symphony-orchestra.md","scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md","scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/carla-huhtanen.md","scene/people/ashlie-corcoran.md"]
-short_description = "These days, you can hear your beloved Messiah any way you like it. Soundstreams is trying out a brand new way to hear Handel&#039;s ubiquitous, beloved work. On December 7 and 8, as part of their Ear Candy series, Soundstreams presents Electric Messiah, or, &quot;Handel goes Underground: A stripped down, surround-sound electro-improv Messiah for today’s Toronto.&quot;"
-slug = "dont-miss-electric-messiah"
-title = "Don&#039;t miss: Electric Messiah"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2015-11-27T17:59:00-05:00"
+lastmod: "2015-11-28T20:18:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448759320828/2015-11-29---Gabriel-Dharmoo-Cr%C3%A9dit-Jonathan-Goulet.jpg.jpg
+primary_image_credit: Gabriel Dharmoo. Photo by Jonathan Goulet.
+publishDate: "2015-11-29T09:00:00-05:00"
+related_articles:
+- articles/dont-miss-atgs-messiah.md
+related_companies:
+- scene/companies/soundstreams.md
+- scene/companies/toronto-symphony-orchestra.md
+- scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/carla-huhtanen.md
+- scene/people/ashlie-corcoran.md
+short_description: 'These days, you can hear your beloved Messiah any way you like
+  it. Soundstreams is trying out a brand new way to hear Handel&#039;s ubiquitous,
+  beloved work. On December 7 and 8, as part of their Ear Candy series, Soundstreams
+  presents Electric Messiah, or, &quot;Handel goes Underground: A stripped down, surround-sound
+  electro-improv Messiah for today’s Toronto.&quot;'
+slug: dont-miss-electric-messiah
+title: 'Don&#039;t miss: Electric Messiah'
+---
 
 These days, you can hear your beloved *Messiah* any way you like it. [Soundstreams](/scene/companies/soundstreams/) is trying out a brand new way to hear Handel's ubiquitous, beloved work. On December 7 and 8, as part of their [Ear Candy](http://www.soundstreams.ca/performances/ear-candy/) series, Soundstreams presents [*Electric Messiah*](http://www.soundstreams.ca/performances/ear-candy/electric-messiah/), or, "Handel goes Underground: A stripped down, surround-sound electro-improv *Messiah* for today’s Toronto." 
 

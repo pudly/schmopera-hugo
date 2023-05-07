@@ -1,18 +1,35 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-05-04T17:33:00+01:00"
-lastmod = "2016-05-04T18:00:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462379676267/2016-05-05---Pisaroni-as-Maometto-II---Photo-by-Michael-Cooper.jpg.jpg"
-primary_image_credit = "Luca Pisaroni as Maometto II in the Canadian Opera Company's production of Maometto II. Photo: Michael Cooper."
-publishDate = "2016-05-04T18:00:00+01:00"
-related_articles = ["articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-leah-crocetto.md","articles/talking-with-singers-elizabeth-deshong.md","articles/in-review-carmen-at-the-coc.md","articles/review-sondra-slays-in-bellini-masterwork.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-santa-fe-opera.md"]
-related_people = ["scene/people/luca-pisaroni.md","scene/people/leah-crocetto.md","scene/people/elizabeth-deshong.md","scene/people/harry-bicket.md"]
-short_description = "David Alden&#039;s production of Maometto, a work that until the revival in Santa Fe in 2012 hadn&#039;t been performed in it&#039;s entirety since Naples in 1820, was exactly what I think the COC needed in its season at this point. A simple, easy to digest set and staging, with a thrilling orchestra and incomparable vocals. I can&#039;t... I just can&#039;t get over the voices I heard last night."
-slug = "in-review-maometto-ii"
-title = "In review: Maometto II"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-05-04T17:33:00+01:00"
+lastmod: "2016-05-04T18:00:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462379676267/2016-05-05---Pisaroni-as-Maometto-II---Photo-by-Michael-Cooper.jpg.jpg
+primary_image_credit: 'Luca Pisaroni as Maometto II in the Canadian Opera Company''s
+  production of Maometto II. Photo: Michael Cooper.'
+publishDate: "2016-05-04T18:00:00+01:00"
+related_articles:
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/talking-with-singers-leah-crocetto.md
+- articles/talking-with-singers-elizabeth-deshong.md
+- articles/in-review-carmen-at-the-coc.md
+- articles/review-sondra-slays-in-bellini-masterwork.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-santa-fe-opera.md
+related_people:
+- scene/people/luca-pisaroni.md
+- scene/people/leah-crocetto.md
+- scene/people/elizabeth-deshong.md
+- scene/people/harry-bicket.md
+short_description: David Alden&#039;s production of Maometto, a work that until the
+  revival in Santa Fe in 2012 hadn&#039;t been performed in it&#039;s entirety since
+  Naples in 1820, was exactly what I think the COC needed in its season at this point.
+  A simple, easy to digest set and staging, with a thrilling orchestra and incomparable
+  vocals. I can&#039;t... I just can&#039;t get over the voices I heard last night.
+slug: in-review-maometto-ii
+title: 'In review: Maometto II'
+---
 
 The Four Seasons Centre for the Performing Arts in downtown Toronto was packed to the rafters last night for the third performance of Gioachino Rossini's rarely performed [*Maometto II*](http://www.coc.ca/PerformancesAndTickets/1516Season/MaomettoII.aspx), with libretto by Cesare della Valle. 
 

@@ -1,16 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-06-06T21:53:00-04:00"
-lastmod = "2018-06-07T15:46:00-04:00"
-preamble = "It has been nearly 20 years since the death of [Matthew Shepard](https://en.wikipedia.org/wiki/Matthew_Shepard), who was a student at the University of Wyoming when he was beaten, tortured, and left tied to a fence in the cold on October 6, 1998. His death brought international focus on hate crime legislation, resulting in the \"Matthew Shepard Act\", passed by US Congress in 2009.\n\nOn top of activism, Matthew Shepard is remembered through art. Composer and conductor [Craig Hella Johnson](http://www.craighellajohnson.com/) has written his choral drama, [*Considering Matthew Shepard*](https://www.fordtheatres.org/calendar/considering-matthew-shepard), performed by GRAMMY Award-winning Conspirare choir on June 15-16 as part of the City of West Hollywood and WeHo Arts' *One City One Pride* LGBTQ Arts Festival. \n\nWe spoke with Johnson about his word, what it means to present it during this year's Pride Month, and what the 20 years since Shepard's death have brought to the lives of those in the LGBTQ+ community."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528336265437/sqCMSCHJdetail_goulden_0898.jpg.jpg"
-primary_image_credit = "Photo: James Goulden."
-publishDate = "2018-06-07T11:22:00-04:00"
-short_description = "I love the word &quot;consideration&quot; - and its meaning to think about something carefully and thoughtfully, to bring one&#039;s attention to something. With this piece, I am inviting people, through music, to consider the story of Matthew Shepard&#039;s life, and in particular, how he died. "
-slug = "considering-matthew-shepard-20-years-later"
-title = "Considering Matthew Shepard: 20 years later"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-06-06T21:53:00-04:00"
+lastmod: "2018-06-07T15:46:00-04:00"
+preamble: "It has been nearly 20 years since the death of [Matthew Shepard](https://en.wikipedia.org/wiki/Matthew_Shepard),
+  who was a student at the University of Wyoming when he was beaten, tortured, and
+  left tied to a fence in the cold on October 6, 1998. His death brought international
+  focus on hate crime legislation, resulting in the \"Matthew Shepard Act\", passed
+  by US Congress in 2009.\n\nOn top of activism, Matthew Shepard is remembered through
+  art. Composer and conductor [Craig Hella Johnson](http://www.craighellajohnson.com/)
+  has written his choral drama, [*Considering Matthew Shepard*](https://www.fordtheatres.org/calendar/considering-matthew-shepard),
+  performed by GRAMMY Award-winning Conspirare choir on June 15-16 as part of the
+  City of West Hollywood and WeHo Arts' *One City One Pride* LGBTQ Arts Festival.
+  \n\nWe spoke with Johnson about his word, what it means to present it during this
+  year's Pride Month, and what the 20 years since Shepard's death have brought to
+  the lives of those in the LGBTQ+ community."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528336265437/sqCMSCHJdetail_goulden_0898.jpg.jpg
+primary_image_credit: 'Photo: James Goulden.'
+publishDate: "2018-06-07T11:22:00-04:00"
+short_description: 'I love the word &quot;consideration&quot; - and its meaning to
+  think about something carefully and thoughtfully, to bring one&#039;s attention
+  to something. With this piece, I am inviting people, through music, to consider
+  the story of Matthew Shepard&#039;s life, and in particular, how he died. '
+slug: considering-matthew-shepard-20-years-later
+title: 'Considering Matthew Shepard: 20 years later'
+---
 
 ### What does it mean to you to consider Matthew Shepard?
 

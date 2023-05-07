@@ -1,18 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2015-11-09T18:09:00-05:00"
-lastmod = "2015-11-10T11:25:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447110626778/2015-11-09---SondraR-Square.jpg.jpg"
-primary_image_credit = "Photo by Pavel Antonov"
-publishDate = "2015-11-10T11:20:00-05:00"
-related_articles = ["articles/in-review-roberto-devereux.md"]
-related_companies = ["scene/companies/royal-conservatory-of-music.md"]
-related_people = ["scene/people/sondra-radvanovsky.md"]
-short_description = "Her performance of Queen Elizabeth I stayed with me a long time after seeing the Canadian Opera Company&#039;s 2014 production of Roberto Devereux, so Sondra Radvanovsky&#039;s upcoming recital at Toronto&#039;s Koerner Hall is on my absolutely-do-not-miss list."
-slug = "dont-miss-sondra-radvanovsky-at-koerner-hall"
-title = "Don&#039;t miss: Sondra Radvanovsky at Koerner Hall"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2015-11-09T18:09:00-05:00"
+lastmod: "2015-11-10T11:25:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447110626778/2015-11-09---SondraR-Square.jpg.jpg
+primary_image_credit: Photo by Pavel Antonov
+publishDate: "2015-11-10T11:20:00-05:00"
+related_articles:
+- articles/in-review-roberto-devereux.md
+related_companies:
+- scene/companies/royal-conservatory-of-music.md
+related_people:
+- scene/people/sondra-radvanovsky.md
+short_description: Her performance of Queen Elizabeth I stayed with me a long time
+  after seeing the Canadian Opera Company&#039;s 2014 production of Roberto Devereux,
+  so Sondra Radvanovsky&#039;s upcoming recital at Toronto&#039;s Koerner Hall is
+  on my absolutely-do-not-miss list.
+slug: dont-miss-sondra-radvanovsky-at-koerner-hall
+title: 'Don&#039;t miss: Sondra Radvanovsky at Koerner Hall'
+---
 
 Her performance of Queen Elizabeth I stayed with me a long time after seeing the Canadian Opera Company's 2014 production of [*Roberto Devereux*](/in-review-roberto-devereux/), so Sondra Radvanovsky's upcoming [recital at Toronto's Koerner Hall](http://performance.rcmusic.ca/event/show-one-productions-presentsbrsondra-radvanovsky-recital), presented by Show One Productions, is on my absolutely-do-not-miss list.
 

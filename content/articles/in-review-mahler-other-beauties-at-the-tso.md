@@ -1,18 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-11-13T12:10:00-05:00"
-lastmod = "2015-11-13T13:41:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447437064879/2015-11-13---OsborneSanderlingTSO---pc-Malcolm-Cook.jpg.jpg"
-primary_image_credit = "Simone Osborne and maestro Michael Sanderling with the Toronto Symphony Orchestra, November 12th, 2015. Photo by Malcolm Cook."
-publishDate = "2015-11-13T13:04:00-05:00"
-related_articles = ["articles/heavy-nights-schoenberg-brahms-the-lpo-and-goerne.md","articles/in-review-jamie-barton-leaves-you-wanting-more.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/simone-osborne.md"]
-short_description = "I took a break from straight-up opera last night, and headed to Roy Thomson Hall to hear the Toronto Symphony Orchestra in the latest instalment of their ongoing Decades Project, in partnership with the AGO, which looks deeply at the music of the early 20th century, last night in particular, 1900-1909. These years brought us a large orchestra, with lush, creative sound palates that are a clear predecessor to soon-to-come film scores. It&#039;s the culmination of all the Romantic music coming out of the 19th century, and all the experimentation and industry of the early 1900s. A simplified way of describing it is, &quot;more is more&quot;."
-slug = "in-review-mahler-other-beauties-at-the-tso"
-title = "In review: Mahler &amp; other beauties at the TSO"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-11-13T12:10:00-05:00"
+lastmod: "2015-11-13T13:41:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447437064879/2015-11-13---OsborneSanderlingTSO---pc-Malcolm-Cook.jpg.jpg
+primary_image_credit: Simone Osborne and maestro Michael Sanderling with the Toronto
+  Symphony Orchestra, November 12th, 2015. Photo by Malcolm Cook.
+publishDate: "2015-11-13T13:04:00-05:00"
+related_articles:
+- articles/heavy-nights-schoenberg-brahms-the-lpo-and-goerne.md
+- articles/in-review-jamie-barton-leaves-you-wanting-more.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/simone-osborne.md
+short_description: I took a break from straight-up opera last night, and headed to
+  Roy Thomson Hall to hear the Toronto Symphony Orchestra in the latest instalment
+  of their ongoing Decades Project, in partnership with the AGO, which looks deeply
+  at the music of the early 20th century, last night in particular, 1900-1909. These
+  years brought us a large orchestra, with lush, creative sound palates that are a
+  clear predecessor to soon-to-come film scores. It&#039;s the culmination of all
+  the Romantic music coming out of the 19th century, and all the experimentation and
+  industry of the early 1900s. A simplified way of describing it is, &quot;more is
+  more&quot;.
+slug: in-review-mahler-other-beauties-at-the-tso
+title: 'In review: Mahler &amp; other beauties at the TSO'
+---
 
 I took a break from straight-up opera last night, and headed to Roy Thomson Hall to hear the [Toronto Symphony Orchestra](/scene/companies/toronto-symphony-orchestra/) in the latest instalment of their ongoing [*Decades Project*](http://www.tso.ca/en-ca/concerts-and-tickets/2015-2016-Season/The-Decades-Project.aspx), in partnership with the AGO, which looks deeply at the music of the early 20th century, last night in particular, 1900-1909. These years brought us a large orchestra, with lush, creative sound palates that are a clear predecessor to soon-to-come film scores. It's the culmination of all the Romantic music coming out of the 19th century, and all the experimentation and industry of the early 1900s. A simplified way of describing it is, "more is more".
 

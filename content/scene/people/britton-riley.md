@@ -1,19 +1,22 @@
-+++
-date = "2015-07-20T13:34:00-04:00"
-discipline = "Cellist"
-lastmod = "2015-07-20T13:34:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437413605511/B.-RileySquare.jpg.jpg"
-publishDate = "2015-07-20T13:34:00-04:00"
-related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/the-banff-centre.md","scene/companies/royal-conservatory-of-music.md"]
-slug = "britton-riley"
-title = "Britton Riley"
-website = "http://www.brittonriley.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/profile.php?id=3420746"
-_template = "people_single"
-+++
+---
+date: "2015-07-20T13:34:00-04:00"
+discipline: Cellist
+lastmod: "2015-07-20T13:34:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437413605511/B.-RileySquare.jpg.jpg
+publishDate: "2015-07-20T13:34:00-04:00"
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+- scene/companies/the-banff-centre.md
+- scene/companies/royal-conservatory-of-music.md
+slug: britton-riley
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/profile.php?id=3420746
+title: Britton Riley
+website: http://www.brittonriley.com/
+---
 
 Considered among “Canada’s most promising and brilliant young musicians,” Canadian-American cellist Britton Riley enjoys a diverse musical career as an artist, teacher, and recording engineer. Before his appointment as Assistant Principal Cello of the Calgary Philharmonic Orchestra at the age of twenty-six, he performed regularly with the Toronto and Detroit Symphony Orchestras and was a Rebanks Fellow at the Royal Conservatory of Music. His performances have been recorded for film and radio by Sony Pictures, CBC Radio 2, Classical KUSC, and the DSO’s Live from Orchestra Hall series. At the beginning of the 2015-16 season, he will return to Toronto to join the Toronto Symphony Orchestra.
 

@@ -1,22 +1,28 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = 2020-02-03T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "[Houston Grand Opera's production of _La favorite_](https://www.houstongrandopera.org/favorite) continues through February 9."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1580659110/media/2020/02/sqHGO-LaFavorite-2020-OrchestraDressRehearsal-PhotographerLynnLane-206_bl4hwm.jpg"
-primary_image_credit = "Houston Grand Opera's production of La favorite, 2020. Photo: Lynn Lane."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "Mezzo Jamie Barton inhabited the lead role of Léonor very naturally indeed, especially in her aria “O mon Fernand,” itself a perfect example of Donizetti’s felicitous employment of confident Parisian harpists and wind players in prominent positions. Such inspired orchestrational choices are the sort of thing that give great singers an optimal point to start their dramatic conceptions of such arias."
-slug = "last-minute-surprises-a-star-performance-by-barton-hgos-la-favorite"
-title = "Last-minute surprises & a star performance by Barton: HGO's La Favorite"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2020-02-03T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: '[Houston Grand Opera''s production of _La favorite_](https://www.houstongrandopera.org/favorite)
+  continues through February 9.'
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1580659110/media/2020/02/sqHGO-LaFavorite-2020-OrchestraDressRehearsal-PhotographerLynnLane-206_bl4hwm.jpg
+primary_image_credit: 'Houston Grand Opera''s production of La favorite, 2020. Photo:
+  Lynn Lane.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: Mezzo Jamie Barton inhabited the lead role of Léonor very naturally
+  indeed, especially in her aria “O mon Fernand,” itself a perfect example of Donizetti’s
+  felicitous employment of confident Parisian harpists and wind players in prominent
+  positions. Such inspired orchestrational choices are the sort of thing that give
+  great singers an optimal point to start their dramatic conceptions of such arias.
+slug: last-minute-surprises-a-star-performance-by-barton-hgos-la-favorite
+title: 'Last-minute surprises & a star performance by Barton: HGO''s La Favorite'
+youtube_url: ""
+---
 One could argue that, in a particularly eccentric way, Gaetano Donizetti succeeded in achieving the 19th-century equivalent of the [EGOT](https://en.wikipedia.org/wiki/List_of_people_who_have_won_Academy,_Emmy,_Grammy,_and_Tony_Awards) (Emmy, Grammy, Oscar, Tony): He was one of the few major composers to write for all three of the major opera houses in Paris - the city that served as one of his main bases (along with Vienna) in the last years of his life.
 
 These three performance venues exhibited him tackling several different operatic genres with a sure compositional hand. Before his eventual, premature decline into the haze of mental illness, he would famously write the last major opera buffa of the first half of the century, _Don Pasquale_, for the Théâtre-Italien; he would give the Opéra-Comique the delightful _La fille du régiment_; and he would give the Paris Opera several grandiose works only slightly toned down from the model of grand opera set by Meyerbeer, Halévy, and Auber. Houston Grand Opera made a compelling case for why [_La favorite_](https://www.houstongrandopera.org/favorite) has historically been so fondly thought of among these later works.

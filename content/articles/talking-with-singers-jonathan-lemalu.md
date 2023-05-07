@@ -1,19 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-06-09T20:47:00-04:00"
-lastmod = "2018-06-11T20:18:00-04:00"
-preamble = "New Zealand-born bass [Jonathan Lemalu](/scene/people/jonathan-lemalu/) is currently in the UK, in rehearsals for John Copley's production of [*The Abduction from the Seraglio*](https://thegrangefestival.co.uk/operas/the-abduction-from-the-seraglio/), running **June 24 to July 7** at The Grange Festival. Lemalu's calendar is often filled with Mozart's low-voiced roles like Sarastro (*Die Zauberflöte*), Leporello (*Don Giovanni*), and Figaro (*Le nozze di Figaro*); *Abduction*'s Osmin, a notoriously tricky sing, is not for the faint-hearted bass.\n\nWe spoke with Lemalu about the the singer's long-game, and the joy of playing the villain."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528591566217/sqCreditSussieAhlburg6.jpg.jpg"
-primary_image_credit = "Photo: Sussie Ahlburg."
-publishDate = "2018-06-11T18:45:00-04:00"
-related_articles = ["articles/talking-with-singers-christian-van-horn.md","articles/talking-with-singers-ashley-riches.md"]
-related_companies = ["scene/companies/the-grange-festival.md"]
-related_people = ["scene/people/jonathan-lemalu.md"]
-short_description = "&quot;That it is a long-term process which never stops.  From vocal improvement, to linguistic and stylistic authenticity, to stagecraft, to continually trying to make the business work as much for you, as you for it.&quot;"
-slug = "talking-with-singers-jonathan-lemalu"
-title = "Talking with singers: Jonathan Lemalu"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-06-09T20:47:00-04:00"
+lastmod: "2018-06-11T20:18:00-04:00"
+preamble: |-
+  New Zealand-born bass [Jonathan Lemalu](/scene/people/jonathan-lemalu/) is currently in the UK, in rehearsals for John Copley's production of [*The Abduction from the Seraglio*](https://thegrangefestival.co.uk/operas/the-abduction-from-the-seraglio/), running **June 24 to July 7** at The Grange Festival. Lemalu's calendar is often filled with Mozart's low-voiced roles like Sarastro (*Die Zauberflöte*), Leporello (*Don Giovanni*), and Figaro (*Le nozze di Figaro*); *Abduction*'s Osmin, a notoriously tricky sing, is not for the faint-hearted bass.
+
+  We spoke with Lemalu about the the singer's long-game, and the joy of playing the villain.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528591566217/sqCreditSussieAhlburg6.jpg.jpg
+primary_image_credit: 'Photo: Sussie Ahlburg.'
+publishDate: "2018-06-11T18:45:00-04:00"
+related_articles:
+- articles/talking-with-singers-christian-van-horn.md
+- articles/talking-with-singers-ashley-riches.md
+related_companies:
+- scene/companies/the-grange-festival.md
+related_people:
+- scene/people/jonathan-lemalu.md
+short_description: '&quot;That it is a long-term process which never stops.  From
+  vocal improvement, to linguistic and stylistic authenticity, to stagecraft, to continually
+  trying to make the business work as much for you, as you for it.&quot;'
+slug: talking-with-singers-jonathan-lemalu
+title: 'Talking with singers: Jonathan Lemalu'
+---
 
 ## Why do you sing professionally?
 

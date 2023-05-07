@@ -1,16 +1,25 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2015-08-08T13:21:00-04:00"
-lastmod = "2015-09-16T18:45:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1439057639073/rPm-Obeah-Opera-2015-1017Resized.jpg.jpg"
-primary_image_credit = "All photos by Racheal McCaig."
-publishDate = "2015-08-08T14:17:00-04:00"
-related_articles = ["articles/nicole-brooks-on-obeah-opera.md","articles/great-nights-sketches-of-miles.md","articles/in-review-ayre.md","articles/dont-miss-century-song.md","articles/the-positive-impact-of-community-created-performances.md"]
-short_description = "Friday, August 7th, 2015. This is the day I finally understood why the human race began singing and dancing in the first place. I don&#039;t know how or why it started, but I was reminded of how blessed we are by its presence in our lives."
-slug = "in-review-obeah-opera"
-title = "In review: Obeah Opera"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2015-08-08T13:21:00-04:00"
+lastmod: "2015-09-16T18:45:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1439057639073/rPm-Obeah-Opera-2015-1017Resized.jpg.jpg
+primary_image_credit: All photos by Racheal McCaig.
+publishDate: "2015-08-08T14:17:00-04:00"
+related_articles:
+- articles/nicole-brooks-on-obeah-opera.md
+- articles/great-nights-sketches-of-miles.md
+- articles/in-review-ayre.md
+- articles/dont-miss-century-song.md
+- articles/the-positive-impact-of-community-created-performances.md
+short_description: Friday, August 7th, 2015. This is the day I finally understood
+  why the human race began singing and dancing in the first place. I don&#039;t know
+  how or why it started, but I was reminded of how blessed we are by its presence
+  in our lives.
+slug: in-review-obeah-opera
+title: 'In review: Obeah Opera'
+---
 
 Friday, August 7th, 2015. This is the day I finally understood why the human race began singing and dancing in the first place. I don't know how or why it started, but I was reminded of how blessed we are by its presence in our lives.
 

@@ -1,22 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-10-29T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Opera Atelier's production of [_Don Giovanni_](https://www.operaatelier.com/season-and-tickets/2019-2020/mozart-don-giovanni), starring [Douglas Williams](/scene/people/douglas-williams/) in the title role, is onstage at the the Ed Mirvish Theatre Oct. 31-Nov. 9."
-preamble = "Opera Atelier is set to revive its 2011 production of _Don Giovanni_, this time starring bass-baritone [Douglas Williams](/scene/people/douglas-williams/) in the title role. \n\nMozart's Giovanni is a role that continues offers new layers, new angles from which to observe the famed womanizer, and Williams' perspective is some of the most compelling deconstruction of the Don we've heard yet."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572373169/media/2019/10/DouglasWilliams_dr1mrf.jpg"
-primary_image_credit = ""
-related_articles = ["articles/talking-with-singers-luca-pisaroni.md", "articles/talking-with-singers-christopher-purves.md"]
-related_companies = ["scene/companies/opera-atelier.md"]
-related_people = ["scene/people/douglas-williams.md"]
-short_description = "\"At the moment I'm thinking of a project where I can bring singing and nature together. Probably a video. Probably somewhere in Nevada. Maybe text by Robinson Jeffers. Maybe music by me.\""
-slug = "talking-with-singers-douglas-williams"
-title = "Talking with singers: Douglas Williams"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-10-29T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Opera Atelier's production of [_Don Giovanni_](https://www.operaatelier.com/season-and-tickets/2019-2020/mozart-don-giovanni),
+  starring [Douglas Williams](/scene/people/douglas-williams/) in the title role,
+  is onstage at the the Ed Mirvish Theatre Oct. 31-Nov. 9.
+preamble: "Opera Atelier is set to revive its 2011 production of _Don Giovanni_, this
+  time starring bass-baritone [Douglas Williams](/scene/people/douglas-williams/)
+  in the title role. \n\nMozart's Giovanni is a role that continues offers new layers,
+  new angles from which to observe the famed womanizer, and Williams' perspective
+  is some of the most compelling deconstruction of the Don we've heard yet."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1572373169/media/2019/10/DouglasWilliams_dr1mrf.jpg
+primary_image_credit: ""
+related_articles:
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/talking-with-singers-christopher-purves.md
+related_companies:
+- scene/companies/opera-atelier.md
+related_people:
+- scene/people/douglas-williams.md
+short_description: '"At the moment I''m thinking of a project where I can bring singing
+  and nature together. Probably a video. Probably somewhere in Nevada. Maybe text
+  by Robinson Jeffers. Maybe music by me."'
+slug: talking-with-singers-douglas-williams
+title: 'Talking with singers: Douglas Williams'
+youtube_url: ""
+---
 ## Why do you sing professionally?
 
 Since I was a child I wanted to work in a theater. I also loved music and took it seriously, and I was attracted to musical challenges. When I really feel like I am at my best usually it's because both these early urges are being satisfied equally: the creative side of inventing and exploring a character, and the cerebral side of discipline, language, and making music with many people at the same time.

@@ -1,20 +1,25 @@
-+++
-date = "2017-01-22T19:01:00+00:00"
-discipline = "Tenor"
-lastmod = "2017-01-22T19:01:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485111509611/2017-01-22---Ben-Johnson-Chris-Gloag.jpg.jpg"
-primary_image_credit = "Chris Gloag"
-publishDate = "2017-01-22T19:01:00+00:00"
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/english-national-opera.md","scene/companies/opera-holland-park.md","scene/companies/scottish-opera.md","scene/companies/classical-opera.md"]
-slug = "ben-johnson"
-title = "Ben Johnson"
-website = "http://www.benjohnsontenor.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/tenorbenjohnson"
-_template = "people_single"
-+++
+---
+date: "2017-01-22T19:01:00+00:00"
+discipline: Tenor
+lastmod: "2017-01-22T19:01:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485111509611/2017-01-22---Ben-Johnson-Chris-Gloag.jpg.jpg
+primary_image_credit: Chris Gloag
+publishDate: "2017-01-22T19:01:00+00:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/english-national-opera.md
+- scene/companies/opera-holland-park.md
+- scene/companies/scottish-opera.md
+- scene/companies/classical-opera.md
+slug: ben-johnson
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/tenorbenjohnson
+title: Ben Johnson
+website: http://www.benjohnsontenor.com/
+---
 
 Acclaimed tenor Ben Johnson represented England in BBC Cardiff Singer of the World 2013 and won the Audience Prize. Johnson is a former BBC Radio 3 New Generation Artist, 2008 winner of the Kathleen Ferrier Award, 2011 Wigmore Hall Emerging Talent, and a 2013-2015 English National Opera Harewood Artist. He is the Founder and Chief Conductor of the Southrepps Sinfonia as well as joint Artistic Director of the Southrepps Classical Music Festival. He is professor of singing at the Royal Academy of Music in London.
 

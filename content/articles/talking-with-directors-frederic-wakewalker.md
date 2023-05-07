@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-11-02T20:11:00+00:00"
-lastmod = "2016-11-10T11:01:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478119433038/2016-11-02---Frederic-Wake-Walker.jpg.jpg"
-publishDate = "2016-11-10T10:53:00+00:00"
-related_articles = ["articles/talking-with-directors-operas-marvel.md", "articles/4-shows-to-perk-up-the-postholiday-blues.md", "articles/lore-lixenberg-is-the-mother.md"]
-related_companies = ["scene/companies/mahogany-opera-group.md", "scene/companies/teatro-alla-scala.md"]
-related_people = ["scene/people/frederic-wakewalker.md"]
-short_description = "&quot;I love going into these places and working with kids,&quot; says Wake-Walker. &quot;It&#039;s wonderful. I learn so much.&quot; He jokes that working primary school students is &quot;pretty much the same&quot; as directing the singers at La Scala, and adds that for any aspiring director, young people offer valuable learning experiences. &quot;Kids ask questions that even the pros at La Scala are sometimes a little bit embarrassed to ask.&quot;"
-slug = "talking-with-directors-frederic-wake-walker"
-title = "Talking with directors: Frederic Wake-Walker"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-11-02T20:11:00+00:00"
+lastmod: "2016-11-10T11:01:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478119433038/2016-11-02---Frederic-Wake-Walker.jpg.jpg
+publishDate: "2016-11-10T10:53:00+00:00"
+related_articles:
+- articles/talking-with-directors-operas-marvel.md
+- articles/4-shows-to-perk-up-the-postholiday-blues.md
+- articles/lore-lixenberg-is-the-mother.md
+related_companies:
+- scene/companies/mahogany-opera-group.md
+- scene/companies/teatro-alla-scala.md
+related_people:
+- scene/people/frederic-wakewalker.md
+short_description: '&quot;I love going into these places and working with kids,&quot;
+  says Wake-Walker. &quot;It&#039;s wonderful. I learn so much.&quot; He jokes that
+  working primary school students is &quot;pretty much the same&quot; as directing
+  the singers at La Scala, and adds that for any aspiring director, young people offer
+  valuable learning experiences. &quot;Kids ask questions that even the pros at La
+  Scala are sometimes a little bit embarrassed to ask.&quot;'
+slug: talking-with-directors-frederic-wake-walker
+title: 'Talking with directors: Frederic Wake-Walker'
+---
 Director [Frederic Wake-Walker](/scene/people/frederic-wake-walker/) recently opened his new production of *Le nozze di Figaro* at [Teatro alla Scala](/scene/companies/teatro-alla-scala/), the first to take the place of the 1981 staging by the late Giorgio Strehler. "It was a pretty funny gig to follow," says Wake-Walker of taking over the legacy of someone he calls "the greatest director to have worked at La Scala." 
 
 The "funny gig" is no small house debut for Wake-Walker, and he "relished" the opportunity to add his voice to the long, illustrious history of La Scala. With his *Figaro*, he found focus and direction by paying homage to Strehler, and referencing his production. "I do that with everything. I don't just create something abstractly. I think very much about the context in which the production takes place," he explains. "I think if you're going to make theatre that feels really alive and really connected to the audience, then you have to recognize where you are, and where you've come from to get to that point."

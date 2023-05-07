@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2018-11-29T12:07:00-05:00"
-lastmod = "2018-11-29T19:42:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543524050768/sqOpenChambers-3.jpg.jpg"
-primary_image_credit = "Rachel Krehm and Vadim Serebryany in Open Chambers, Opera 5, 2018. Photo: Dahlia Katz."
-publishDate = "2018-11-29T15:41:00-05:00"
-related_companies = ["scene/companies/opera-5.md"]
-related_people = ["scene/people/rachel-krehm.md","scene/people/jacqueline-woodley.md"]
-short_description = "Hansen is a lover of chamber music, but is less enamoured with the traditional setting of chamber music performances. He writes in his director&#039;s notes, &quot;Audiences understand they&#039;ll arrive to a venue and see chairs set out awaiting the musicians, organized along very standard and - let&#039;s just say it - totally uninspired, predictable placements so that the musicians can see and hear each other.&quot;"
-slug = "scattered-symbols-in-opera-5s-open-chambers"
-title = "Scattered symbols in Opera 5&#039;s Open Chambers"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2018-11-29T12:07:00-05:00"
+lastmod: "2018-11-29T19:42:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543524050768/sqOpenChambers-3.jpg.jpg
+primary_image_credit: 'Rachel Krehm and Vadim Serebryany in Open Chambers, Opera 5,
+  2018. Photo: Dahlia Katz.'
+publishDate: "2018-11-29T15:41:00-05:00"
+related_companies:
+- scene/companies/opera-5.md
+related_people:
+- scene/people/rachel-krehm.md
+- scene/people/jacqueline-woodley.md
+short_description: Hansen is a lover of chamber music, but is less enamoured with
+  the traditional setting of chamber music performances. He writes in his director&#039;s
+  notes, &quot;Audiences understand they&#039;ll arrive to a venue and see chairs
+  set out awaiting the musicians, organized along very standard and - let&#039;s just
+  say it - totally uninspired, predictable placements so that the musicians can see
+  and hear each other.&quot;
+slug: scattered-symbols-in-opera-5s-open-chambers
+title: Scattered symbols in Opera 5&#039;s Open Chambers
+---
 
 Toronto-based indie opera company [Opera 5](/scene/companies/opera-5/) has launched its first expanded season, making room among their mainstage operatic productions for chamber music. Their inaugurual iteration of [*Open Chambers*](http://opera5.ca/openchambers/) was a staging by Patrick Hansen of Paul Hindemith's Oboe Sonata and *Die Serenaden* for soprano, oboe, cello, and viola, and of Shostakovich's *Seven Romances on Poems of Alexander Blok, Op. 127*.
 

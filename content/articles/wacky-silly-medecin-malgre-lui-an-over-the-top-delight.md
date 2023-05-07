@@ -1,16 +1,22 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2018-11-10T12:27:00-05:00"
-lastmod = "2018-11-10T13:27:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541870795258/sqWhitneyRobinson_StephenSalters.jpg.jpg"
-primary_image_credit = "Whitney Robinson and Stephen Salters in Le médecin malgré lui"
-publishDate = "2018-11-10T12:27:00-05:00"
-related_companies = ["scene/companies/odyssey-opera.md"]
-short_description = "But of course, Stephen Salters proved to be the definitive star of the night with the way he played the role of Sganarelle. Salters proved to be an extremely versatile performer whose comedy was absolutely on point throughout the whole, be it from his tasteful vocal colorations in his drinking song to the exasperation towards his near-hanging at the end of the opera."
-slug = "wacky-silly-medecin-malgre-lui-an-over-the-top-delight"
-title = "Wacky &amp; silly Médecin malgré lui an over-the-top delight"
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2018-11-10T12:27:00-05:00"
+lastmod: "2018-11-10T13:27:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541870795258/sqWhitneyRobinson_StephenSalters.jpg.jpg
+primary_image_credit: Whitney Robinson and Stephen Salters in Le médecin malgré lui
+publishDate: "2018-11-10T12:27:00-05:00"
+related_companies:
+- scene/companies/odyssey-opera.md
+short_description: But of course, Stephen Salters proved to be the definitive star
+  of the night with the way he played the role of Sganarelle. Salters proved to be
+  an extremely versatile performer whose comedy was absolutely on point throughout
+  the whole, be it from his tasteful vocal colorations in his drinking song to the
+  exasperation towards his near-hanging at the end of the opera.
+slug: wacky-silly-medecin-malgre-lui-an-over-the-top-delight
+title: Wacky &amp; silly Médecin malgré lui an over-the-top delight
+---
 
 Molière as a playwright was a man given to the silly and over-the-top when it came to lampooning the conventions of his time. This is especially so for any adaptations of plays starring his Sganarelle character, who often received lengthy monologues thanks to the fact Molière played him rather often in productions. It is thus that we arrive at the central issue surrounding Gounod's rarely-performed opera (accompanied, in this case, by recitatives by Erik Satie) based on his [*Le médecin malgré lui*](https://www.odysseyopera.org/2018-gounod-le-medecin-malgre-lui/): in order for any performance of this opera to work, the singers have to play directly into the absurdity.
 

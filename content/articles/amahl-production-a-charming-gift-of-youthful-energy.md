@@ -1,17 +1,24 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Review"
-date = "2018-12-10T20:16:00-05:00"
-lastmod = "2018-12-11T19:57:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544490933750/sq004_MeganMiceliMotherwithPfeifer.jpg.jpg"
-primary_image_credit = "Megan Miceli and Aidan Pfeifer in Amahl and the Night Visitors, Calgary Opera, 2018. Photo: Trudie Lee."
-publishDate = "2018-12-11T19:57:00-05:00"
-related_articles = ["articles/a-hit-with-the-kids-wow-factor.md","articles/popup-opera.md"]
-related_companies = ["scene/companies/calgary-opera.md"]
-short_description = "Amahl&#039;s widowed mother, played by soprano Megan Miceli, was another bright star of this production. Like Pfeifer, Miceli&#039;s portrayal was honest and nuanced, her round, vibrant tone filling the performance space with ease."
-slug = "amahl-production-a-charming-gift-of-youthful-energy"
-title = "Amahl production a charming gift of youthful energy"
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Review
+date: "2018-12-10T20:16:00-05:00"
+lastmod: "2018-12-11T19:57:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544490933750/sq004_MeganMiceliMotherwithPfeifer.jpg.jpg
+primary_image_credit: 'Megan Miceli and Aidan Pfeifer in Amahl and the Night Visitors,
+  Calgary Opera, 2018. Photo: Trudie Lee.'
+publishDate: "2018-12-11T19:57:00-05:00"
+related_articles:
+- articles/a-hit-with-the-kids-wow-factor.md
+- articles/popup-opera.md
+related_companies:
+- scene/companies/calgary-opera.md
+short_description: Amahl&#039;s widowed mother, played by soprano Megan Miceli, was
+  another bright star of this production. Like Pfeifer, Miceli&#039;s portrayal was
+  honest and nuanced, her round, vibrant tone filling the performance space with ease.
+slug: amahl-production-a-charming-gift-of-youthful-energy
+title: Amahl production a charming gift of youthful energy
+---
 
 The hustle and bustle of the holiday shopping season definitely brings its share of stress and anxiety as people shop for that perfect gift for that special someone.
 

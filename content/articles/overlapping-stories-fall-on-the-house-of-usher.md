@@ -1,22 +1,28 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2021-03-01T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1614021540/media/2021/02/sqBLO-2021-USHER-Luna-in-the-Detention-Yard_hv557v.png"
-primary_image_credit = "Luna in the detention yard | Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera."
-related_articles = ["articles/la-nilsson-celebrating-birgit-nilsson-at-100.md", "articles/fellow-travelers-a-cathartic-necessary-affair.md"]
-related_companies = ["scene/companies/boston-lyric-opera-1.md"]
-related_people = []
-short_description = "The additions are debatable but the film stands as a considerable artistic achievement and is testament to the resilience of opera in the pandemic era. At its core it is quite a luxury in and of itself."
-slug = "overlapping-stories-fall-on-the-house-of-usher"
-title = "Overlapping Stories Fall on the House of Usher"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2021-03-01T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1614021540/media/2021/02/sqBLO-2021-USHER-Luna-in-the-Detention-Yard_hv557v.png
+primary_image_credit: 'Luna in the detention yard | Boston Lyric Opera''s 2021 operabox.tv
+  production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.'
+related_articles:
+- articles/la-nilsson-celebrating-birgit-nilsson-at-100.md
+- articles/fellow-travelers-a-cathartic-necessary-affair.md
+related_companies:
+- scene/companies/boston-lyric-opera-1.md
+related_people: []
+short_description: The additions are debatable but the film stands as a considerable
+  artistic achievement and is testament to the resilience of opera in the pandemic
+  era. At its core it is quite a luxury in and of itself.
+slug: overlapping-stories-fall-on-the-house-of-usher
+title: Overlapping Stories Fall on the House of Usher
+youtube_url: ""
+---
 Three years ago I had the pleasure of reviewing the Philip Glass opera, _The Fall of the House of Usher_ when it was presented by the Mannes School of Music/New School. Fifty people were gathered in a single U-shaped row of the intimate Stiefel Concert Hall to hear this stunningly sung and played chamber opera. Employing visual electronics, perspective altering scenery and an orchestra behind a lace curtain, this eerie production had a romantic and gothic allure. Looking back, a live performance like this taking place in a pre-pandemic world was a sublime luxury.
 
 <figure data-type="image">

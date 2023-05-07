@@ -1,22 +1,31 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2019-10-14T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Oper Frankfurt's production of [_Manon Lescaut_](https://oper-frankfurt.de/de/spielplan/manon-lescaut/) runs through November 23."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571017980/media/2019/10/sq4107_manonlescaut07_gross_zfalki.jpg"
-primary_image_credit = "Asmik Grigorian (Manon Lescaut) in Manon Lescaut, Oper Frankfurt, 2019. Photo: Barbara Aumüller."
-related_articles = ["articles/in-review-manon-lescaut-at-roh.md"]
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = ["scene/people/joshua-guerrero.md", "scene/people/asmik-grigorian.md"]
-short_description = "In Puccini's anodyne libretto however, des Grieux and Manon become unwitting martyrs. Des Grieux's self-pity is sublimated into hopeless romanticism too pure for a cruel world. Manon, mercurial and unparsable in the novella, is given a clearly defined voice and a straight-forward moral compass."
-slug = "a-star-soprano-and-a-stellar-debut-in-oper-frankfurts-manon-lescaut"
-title = "A star soprano and a stellar debut in Oper Frankfurt's Manon Lescaut"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2019-10-14T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Oper Frankfurt's production of [_Manon Lescaut_](https://oper-frankfurt.de/de/spielplan/manon-lescaut/)
+  runs through November 23.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571017980/media/2019/10/sq4107_manonlescaut07_gross_zfalki.jpg
+primary_image_credit: 'Asmik Grigorian (Manon Lescaut) in Manon Lescaut, Oper Frankfurt,
+  2019. Photo: Barbara Aumüller.'
+related_articles:
+- articles/in-review-manon-lescaut-at-roh.md
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people:
+- scene/people/joshua-guerrero.md
+- scene/people/asmik-grigorian.md
+short_description: In Puccini's anodyne libretto however, des Grieux and Manon become
+  unwitting martyrs. Des Grieux's self-pity is sublimated into hopeless romanticism
+  too pure for a cruel world. Manon, mercurial and unparsable in the novella, is given
+  a clearly defined voice and a straight-forward moral compass.
+slug: a-star-soprano-and-a-stellar-debut-in-oper-frankfurts-manon-lescaut
+title: A star soprano and a stellar debut in Oper Frankfurt's Manon Lescaut
+youtube_url: ""
+---
 The characters in Abbé Prévost's 1731 novella _Histoire du Chevalier des Grieux et de Manon Lescaut_ are irredeemable, des Grieux most of all. Despite controlling the novella's narrative, the young man comes off as a sociopath. The plot reads like a gussied up litany of his crimes, from petty thievery to armed robbery to cold blooded murder. He's defined less by a drive towards noble love (as in Puccini's opera) than by an inexhaustible depth of self-pity and a willingness to shamelessly leverage status and wealth (often precariously obtained, despite his status) to save himself at the expense of others, including, fatally, Manon.
 
 <figure data-type="image">

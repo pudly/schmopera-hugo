@@ -1,18 +1,31 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = "2017-11-08T20:08:00-05:00"
-lastmod = "2017-11-08T21:58:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510189665022/2017-11-09---Christine-Goerke_DIE-WALKU%CC%88RE_37A5016a_c.Cory-Weaver.jpg.jpg"
-primary_image_credit = "Christine Goerke (Brünnhilde) in Die Walküre, Lyric Opera of Chicago, 2017. Photo: Cory Weaver."
-publishDate = "2017-11-08T21:58:00-05:00"
-related_articles = ["articles/in-review-die-walkre-at-the-coc.md","articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/christine-goerke.md","scene/people/brandon-jovanovich.md","scene/people/elisabet-strid.md","scene/people/tanja-ariane-baumgartner.md","scene/people/eric-owens.md"]
-short_description = "This is a dark and ponderous tale that is driven by the psychologies of the handful of principal characters who share between themselves several lengthy dialogues. Wagner&#039;s worlds are inherently immense and overly ambitious (that is, garish) productions of his Ring in particular merely distract."
-slug = "die-walkure"
-title = "&quot;Truly gripping&quot;: Die Walküre at Lyric Opera of Chicago"
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2017-11-08T20:08:00-05:00"
+lastmod: "2017-11-08T21:58:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510189665022/2017-11-09---Christine-Goerke_DIE-WALKU%CC%88RE_37A5016a_c.Cory-Weaver.jpg.jpg
+primary_image_credit: 'Christine Goerke (Brünnhilde) in Die Walküre, Lyric Opera of
+  Chicago, 2017. Photo: Cory Weaver.'
+publishDate: "2017-11-08T21:58:00-05:00"
+related_articles:
+- articles/in-review-die-walkre-at-the-coc.md
+- articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/christine-goerke.md
+- scene/people/brandon-jovanovich.md
+- scene/people/elisabet-strid.md
+- scene/people/tanja-ariane-baumgartner.md
+- scene/people/eric-owens.md
+short_description: This is a dark and ponderous tale that is driven by the psychologies
+  of the handful of principal characters who share between themselves several lengthy
+  dialogues. Wagner&#039;s worlds are inherently immense and overly ambitious (that
+  is, garish) productions of his Ring in particular merely distract.
+slug: die-walkure
+title: '&quot;Truly gripping&quot;: Die Walküre at Lyric Opera of Chicago'
+---
 
 With this month's run of [Wagner's *Die Walküre*](https://www.lyricopera.org/concertstickets/calendar/2017-2018/productions/lyricopera/die-walkure-opera-tickets), the Lyric Opera of Chicago marks a glorious second installment of their new four-year-long *Ring Cycle*. Sir Andrew Davis (to whom this production is dedicated in honor of his 30th anniversary on the LOC podium) and director David Pountney brought aural and visual splendor that was at once poignantly understated and epic in all the right degrees.
 

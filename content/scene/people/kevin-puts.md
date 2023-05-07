@@ -1,20 +1,21 @@
-+++
-date = "2016-11-08T10:37:00+00:00"
-discipline = "Composer"
-lastmod = "2016-11-08T11:58:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478601464090/Kevin_Puts_HS.jpg.jpg"
-primary_image_credit = "David White."
-publishDate = "2016-11-08T10:38:00+00:00"
-related_companies = ["scene/companies/minnesota-opera.md"]
-slug = "kevin-puts"
-title = "Kevin Puts"
-website = "http://www.kevinputs.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/KevinPutsMusic"
-_template = "people_single"
-+++
+---
+date: "2016-11-08T10:37:00+00:00"
+discipline: Composer
+lastmod: "2016-11-08T11:58:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478601464090/Kevin_Puts_HS.jpg.jpg
+primary_image_credit: David White.
+publishDate: "2016-11-08T10:38:00+00:00"
+related_companies:
+- scene/companies/minnesota-opera.md
+slug: kevin-puts
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/KevinPutsMusic
+title: Kevin Puts
+website: http://www.kevinputs.com/
+---
 
 Winner of the 2012 Pulitzer Prize for his debut opera *Silent Night*, Kevin Puts has been hailed as one of the most important composers of his generation. Critically acclaimed for a richly colored, harmonic, and freshly melodic musical voice that has also been described as “emotional, compelling, and relevant,” his works, which include two operas, four symphonies, and several concertos, have been commissioned, performed, and recorded by leading orchestras, ensembles and soloists throughout the world.
 

@@ -1,15 +1,22 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2018-10-08T12:36:00-04:00"
-lastmod = "2018-10-08T19:17:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539016330719/sq_T8A7044.jpg.jpg"
-primary_image_credit = "Celine Byrne as Magda in Minnesota Opera's new production of La Rondine. Photo by Cory Weaver."
-publishDate = "2018-10-08T12:46:00-04:00"
-short_description = "The choice of making La Rondine and Verdi&#039;s La Traviata the book ends to the season is interesting. It is interesting to look at two &quot;kept women&quot; who fall in love with the young and impetus tenor, retire to the countryside, and then after a while have to part ways out of shame of their past and in the name of honor. Magda goes back to her old life and Ruggero is left heart broken. Magda had a choice, and ultimately Violetta does not."
-slug = "kept-women-a-snapshot-of-life-in-la-rondine"
-title = "Kept women &amp; a snapshot of life in La Rondine"
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2018-10-08T12:36:00-04:00"
+lastmod: "2018-10-08T19:17:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539016330719/sq_T8A7044.jpg.jpg
+primary_image_credit: Celine Byrne as Magda in Minnesota Opera's new production of
+  La Rondine. Photo by Cory Weaver.
+publishDate: "2018-10-08T12:46:00-04:00"
+short_description: The choice of making La Rondine and Verdi&#039;s La Traviata the
+  book ends to the season is interesting. It is interesting to look at two &quot;kept
+  women&quot; who fall in love with the young and impetus tenor, retire to the countryside,
+  and then after a while have to part ways out of shame of their past and in the name
+  of honor. Magda goes back to her old life and Ruggero is left heart broken. Magda
+  had a choice, and ultimately Violetta does not.
+slug: kept-women-a-snapshot-of-life-in-la-rondine
+title: Kept women &amp; a snapshot of life in La Rondine
+---
 
 The past few weeks have been an intense news cycle, and my mind has been going a mile a minute. So when I sat down in the Ordway Theater for [Minnesota Opera](/scene/companies/minnesota-opera/)'s season opener, *La Rondine*, I was a little taken aback. Isn't Puccini supposed to be full of suicide and violence? Shouldn't  there be explosive highs and lows to the music and drama? With *La Rondine*, Puccini gives us an introspective look at a snapshot of life. There is not a lot of background of any of the characters, in fact a good deal of the opera is just conversation about...well, life.
 

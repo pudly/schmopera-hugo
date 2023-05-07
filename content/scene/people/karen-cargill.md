@@ -1,18 +1,24 @@
-+++
-date = "2017-02-03T12:46:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-02-03T12:51:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486125989044/2017-02-03---Karen-Cargill.jpg.jpg"
-publishDate = "2017-02-03T12:48:00+00:00"
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/scottish-opera.md","scene/companies/canadian-opera-company.md","scene/companies/salzburg-festival.md","scene/companies/deutsche-oper-berlin.md"]
-slug = "karen-cargill"
-title = "Karen Cargill"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/cargillmezzo"
-_template = "people_single"
-+++
+---
+date: "2017-02-03T12:46:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2017-02-03T12:51:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486125989044/2017-02-03---Karen-Cargill.jpg.jpg
+publishDate: "2017-02-03T12:48:00+00:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/royal-opera-house.md
+- scene/companies/scottish-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/salzburg-festival.md
+- scene/companies/deutsche-oper-berlin.md
+slug: karen-cargill
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/cargillmezzo
+title: Karen Cargill
+---
 
 Scottish mezzo-soprano Karen Cargill was the winner of the 2002 Kathleen Ferrier Award.
 

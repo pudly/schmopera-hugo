@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-08-20T11:39:00+01:00"
-lastmod = "2016-08-20T14:40:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471697124465/2016-08-20---BB---RichardHubertSmith.jpg.jpg"
-primary_image_credit = "Bénédict (Paul Appleby) and Béatrice (Stéphanie d'Oustrac). Glyndebourne, 2016. Photo: Richard Hubert Smith."
-publishDate = "2016-08-20T14:22:00+01:00"
-related_articles = ["articles/in-review-a-midsummer-nights-dream-at-glyndebourne.md","articles/in-review-hipermestra-at-glyndebourne.md","articles/in-review-hamlet-at-glyndebourne.md"]
-related_companies = ["scene/companies/glyndebourne.md"]
-related_people = ["scene/people/paul-appleby.md","scene/people/philippe-sly.md","scene/people/annecatherine-gillet.md","scene/people/katarina-bradic.md"]
-short_description = "In the great gag scenes with the Glyndebourne Chorus, Lionel Lhote was a big bite of extra comedy as Somarone, the music master. Lhote seemed a delightful buffo combination of the Komponist from Ariadne auf Naxos, Bottom from A Midsummer Night&#039;s Dream, and Bartolo from Il barbiere di Siviglia. "
-slug = "in-review-beatrice-et-benedict-at-glyndebourne"
-title = "In review: Béatrice et Bénédict at Glyndebourne"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-08-20T11:39:00+01:00"
+lastmod: "2016-08-20T14:40:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471697124465/2016-08-20---BB---RichardHubertSmith.jpg.jpg
+primary_image_credit: 'Bénédict (Paul Appleby) and Béatrice (Stéphanie d''Oustrac).
+  Glyndebourne, 2016. Photo: Richard Hubert Smith.'
+publishDate: "2016-08-20T14:22:00+01:00"
+related_articles:
+- articles/in-review-a-midsummer-nights-dream-at-glyndebourne.md
+- articles/in-review-hipermestra-at-glyndebourne.md
+- articles/in-review-hamlet-at-glyndebourne.md
+related_companies:
+- scene/companies/glyndebourne.md
+related_people:
+- scene/people/paul-appleby.md
+- scene/people/philippe-sly.md
+- scene/people/annecatherine-gillet.md
+- scene/people/katarina-bradic.md
+short_description: 'In the great gag scenes with the Glyndebourne Chorus, Lionel Lhote
+  was a big bite of extra comedy as Somarone, the music master. Lhote seemed a delightful
+  buffo combination of the Komponist from Ariadne auf Naxos, Bottom from A Midsummer
+  Night&#039;s Dream, and Bartolo from Il barbiere di Siviglia. '
+slug: in-review-beatrice-et-benedict-at-glyndebourne
+title: 'In review: Béatrice et Bénédict at Glyndebourne'
+---
 
 Laurent Pelly's production of *Beatrice et Benedict* rounded out our Shakespeare-themed time at Glyndebourne this summer. Much like the rain that doused the gardens on this Friday afternoon, *B and B* is a refreshing version of a love story, one that rings more true to the average person than an easy, reciprocated declaration of love. Shakespeare pokes fun at how fragile we are with others - how we crave emotional safety before taking a leap of love - and how much easier it is to be defensive than to be honest.
 

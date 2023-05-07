@@ -1,19 +1,40 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-07-28T13:59:00-04:00"
-lastmod = "2015-09-18T09:05:00-04:00"
-preamble = "You've met [The Friends of Gravity](/check-out-the-friends-of-gravity/), of Toronto's Indie Opera T.O. collective. Now, see them in action. [Next weekend](https://www.universe.com/events/the-seven-deadly-sins-by-kurt-weill-tickets-toronto-FXN47) on September 25th and 26th, The Friends debut with a sexy little number:\n\n\"Cabaret band, silent film, inverted morality & more, in a pocket-sized production of Kurt Weill and Bertolt Brecht’s *Die Sieben Todsünden* (*The Seven Deadly Sins*).\"\n\nShows are at 8pm at St. Bartholomew's Anglican Church, 509 Dundas St. E. For tickets and details, follow the box office links below. In the meantime, get to know The Friends themselves: soloist [Stephanie Conn](/scene/people/stephanie-conn/) (singing Anna) and conductor [Scott Gabriel](/scene/people/scott-gabriel/). \n\nHope to see you all at the show!"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442579530648/Anna-Gates-distillerySquare.jpg.jpg"
-primary_image_credit = "Perhaps the beginnings of of a gluttonous day? Photo courtesy of The Friends of Gravity."
-publishDate = "2015-09-18T08:52:00-04:00"
-related_articles = ["articles/check-out-the-friends-of-gravity.md","articles/the-future-of-opera-is-indie.md","articles/in-review-the-seven-deadly-sins.md","articles/perfect-for-its-time-heggie-double-bill-in-atlanta.md"]
-related_companies = ["scene/companies/the-friends-of-gravity.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/stephanie-conn.md","scene/people/scott-gabriel.md"]
-short_description = "You&#039;ve met The Friends of Gravity, of Toronto&#039;s Indie Opera T.O. collective. Now, see them in action. Next weekend on September 25th and 26th, The Friends present a sexy little number."
-slug = "meet-the-friends-their-seven-deadly-sins"
-title = "Meet the Friends &amp; their Seven Deadly Sins"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-07-28T13:59:00-04:00"
+lastmod: "2015-09-18T09:05:00-04:00"
+preamble: "You've met [The Friends of Gravity](/check-out-the-friends-of-gravity/),
+  of Toronto's Indie Opera T.O. collective. Now, see them in action. [Next weekend](https://www.universe.com/events/the-seven-deadly-sins-by-kurt-weill-tickets-toronto-FXN47)
+  on September 25th and 26th, The Friends debut with a sexy little number:\n\n\"Cabaret
+  band, silent film, inverted morality & more, in a pocket-sized production of Kurt
+  Weill and Bertolt Brecht’s *Die Sieben Todsünden* (*The Seven Deadly Sins*).\"\n\nShows
+  are at 8pm at St. Bartholomew's Anglican Church, 509 Dundas St. E. For tickets and
+  details, follow the box office links below. In the meantime, get to know The Friends
+  themselves: soloist [Stephanie Conn](/scene/people/stephanie-conn/) (singing Anna)
+  and conductor [Scott Gabriel](/scene/people/scott-gabriel/). \n\nHope to see you
+  all at the show!"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442579530648/Anna-Gates-distillerySquare.jpg.jpg
+primary_image_credit: Perhaps the beginnings of of a gluttonous day? Photo courtesy
+  of The Friends of Gravity.
+publishDate: "2015-09-18T08:52:00-04:00"
+related_articles:
+- articles/check-out-the-friends-of-gravity.md
+- articles/the-future-of-opera-is-indie.md
+- articles/in-review-the-seven-deadly-sins.md
+- articles/perfect-for-its-time-heggie-double-bill-in-atlanta.md
+related_companies:
+- scene/companies/the-friends-of-gravity.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/stephanie-conn.md
+- scene/people/scott-gabriel.md
+short_description: You&#039;ve met The Friends of Gravity, of Toronto&#039;s Indie
+  Opera T.O. collective. Now, see them in action. Next weekend on September 25th and
+  26th, The Friends present a sexy little number.
+slug: meet-the-friends-their-seven-deadly-sins
+title: Meet the Friends &amp; their Seven Deadly Sins
+---
 
 ### 1. How did you first get into opera?
 

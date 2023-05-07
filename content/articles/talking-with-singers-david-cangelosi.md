@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2014-03-05T09:00:00-05:00"
-lastmod = "2015-04-27T18:44:00-04:00"
-preamble = "American tenor David Cangelosi has worked with, well, everyone. We're talking Conlon, Ozawa, Boulez, Zeffirelli, and Plácido himself, and he made his Met debut singing Wagner with James Levine. David has even graced the stage of the Four Seasons Centre here in Toronto, appearing most recently as Spoletta (_Tosca_, 2012) and Dr. Blind (_Die Fledermaus_, 2012).  [You may recall some bright green undies?](http://www.davidcangelosi.com/gallery/nggallery/photo-gallery/die-fledermaus-coc-2012/image/die-fledermaus-coc-2012-6/) David is that colleague whose enviable career easily makes him the most interesting man in the room. We couldn't wait to ask him about it."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430174437632/CangelosiSquare.jpg.jpg"
-publishDate = "2014-03-05T09:00:00-05:00"
-related_articles = []
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/david-cangelosi.md"]
-short_description = "American tenor David Cangelosi has worked with, well, everyone. We&#039;re talking Conlon, Ozawa, Boulez, Zeffirelli, and Plácido himself, and he made his Met debut singing Wagner with James Levine. David has even graced the stage of the Four Seasons Centre here in Toronto, appearing most recently as Spoletta (Tosca, 2012) and Dr. Blind (Die Fledermaus, 2012)."
-slug = "talking-with-singers-david-cangelosi"
-title = "Talking with Singers: David Cangelosi"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2014-03-05T09:00:00-05:00"
+lastmod: "2015-04-27T18:44:00-04:00"
+preamble: American tenor David Cangelosi has worked with, well, everyone. We're talking
+  Conlon, Ozawa, Boulez, Zeffirelli, and Plácido himself, and he made his Met debut
+  singing Wagner with James Levine. David has even graced the stage of the Four Seasons
+  Centre here in Toronto, appearing most recently as Spoletta (_Tosca_, 2012) and
+  Dr. Blind (_Die Fledermaus_, 2012).  [You may recall some bright green undies?](http://www.davidcangelosi.com/gallery/nggallery/photo-gallery/die-fledermaus-coc-2012/image/die-fledermaus-coc-2012-6/) David
+  is that colleague whose enviable career easily makes him the most interesting man
+  in the room. We couldn't wait to ask him about it.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430174437632/CangelosiSquare.jpg.jpg
+publishDate: "2014-03-05T09:00:00-05:00"
+related_articles: []
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/david-cangelosi.md
+short_description: American tenor David Cangelosi has worked with, well, everyone.
+  We&#039;re talking Conlon, Ozawa, Boulez, Zeffirelli, and Plácido himself, and he
+  made his Met debut singing Wagner with James Levine. David has even graced the stage
+  of the Four Seasons Centre here in Toronto, appearing most recently as Spoletta
+  (Tosca, 2012) and Dr. Blind (Die Fledermaus, 2012).
+slug: talking-with-singers-david-cangelosi
+title: 'Talking with Singers: David Cangelosi'
+---
 
 
 

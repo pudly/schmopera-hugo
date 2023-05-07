@@ -1,22 +1,31 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = 2022-11-26T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Angel's Bone runs through November 27, 2022. [Full details are available here](https://reopera.ca/angels-bone/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1669475041/media/2022/11/sqAngelsBone_Production_7_fty9nk.jpg"
-primary_image_credit = "Winona Myles (left) as Girl Angel and Asitha Tennekoon (right) as Boy Angel and in Angel’s Bone. Photo by Jess MacAleese. (Note: for this performance, Girl Angel was portrayed by Eliza Bagg.)"
-related_articles = ["articles/angel-s-bone.md"]
-related_companies = []
-related_people = ["scene/people/alexander-dobson.md", "scene/people/asitha-tennekoon.md"]
-short_description = "One audience member commented “If you enjoyed this opera, you weren’t paying attention” and I think that’s bang on. This piece is difficult. From the music, to the staging, to the subject matter, this production is disturbing, unsettling and extremely raw. "
-slug = "angels-bone-disturbing-the-comfortable"
-title = "Angel's Bone: Disturbing the comfortable"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2022-11-26T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Angel's Bone runs through November 27, 2022. [Full details are available
+  here](https://reopera.ca/angels-bone/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1669475041/media/2022/11/sqAngelsBone_Production_7_fty9nk.jpg
+primary_image_credit: 'Winona Myles (left) as Girl Angel and Asitha Tennekoon (right)
+  as Boy Angel and in Angel’s Bone. Photo by Jess MacAleese. (Note: for this performance,
+  Girl Angel was portrayed by Eliza Bagg.)'
+related_articles:
+- articles/angel-s-bone.md
+related_companies: []
+related_people:
+- scene/people/alexander-dobson.md
+- scene/people/asitha-tennekoon.md
+short_description: 'One audience member commented “If you enjoyed this opera, you
+  weren’t paying attention” and I think that’s bang on. This piece is difficult. From
+  the music, to the staging, to the subject matter, this production is disturbing,
+  unsettling and extremely raw. '
+slug: angels-bone-disturbing-the-comfortable
+title: 'Angel''s Bone: Disturbing the comfortable'
+youtube_url: ""
+---
 [Re:Naissance Opera](https://reopera.ca/) and Sound the Alarm Music Theatre have a reputation for taking risks and bringing modern, relevant productions to Vancouver and across the country, and they certainly succeeded with _Angel’s Bone_, a co-production with [Loose Tea Music Theatre](/scene/companies/loose-tea-music-theatre/), Array Music, and Turning Point Ensemble.
 
 The stage is set with a number of white pillars on which projections are laid throughout the performance. Before it begins, statistics about human trafficking in Canada and across the world are projected, informing the audience of how prevalent and insidious of a problem it is, even in today, and how most of the victims are children. This production has been informed by a "Social Context Committee" throughout the development process, consisting of social workers, sex trafficking survivors, and other experts in this area. They introduce the piece and its importance to give a sense of the immediacy and personal nature of the performance.

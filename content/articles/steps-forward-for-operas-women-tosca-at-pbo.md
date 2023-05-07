@@ -1,18 +1,30 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = "2018-01-27T21:23:00-05:00"
-lastmod = "2018-01-27T21:23:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517105417942/1tosca_Bruce_Bennett%5B1%5D.jpg.jpg"
-primary_image_credit = "Photo: Bruce Bennett."
-publishDate = "2018-01-27T21:23:00-05:00"
-related_articles = ["articles/talking-with-singers-jennifer-rowley.md","articles/talking-with-singers-riccardo-massi.md","articles/talking-with-singers-keri-alkema.md","articles/just-plain-great-pbos-le-nozze-di-figaro.md"]
-related_companies = ["scene/companies/palm-beach-opera.md"]
-related_people = ["scene/people/riccardo-massi.md","scene/people/keri-alkema.md","scene/people/michael-chioldi.md"]
-short_description = "In a world where consent is so often coerced – Tosca&#039;s world, and ours – it&#039;s impossible not to draw comparisons to stories of #MeToo, #TimesUp, and a slew of fallen titans. It&#039;s easy to imagine Scarpia as a man who might have a button hidden beneath his desk to lock his office door."
-slug = "steps-forward-for-operas-women-tosca-at-pbo"
-title = "Steps forward for opera&#039;s women: Tosca at PBO"
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2018-01-27T21:23:00-05:00"
+lastmod: "2018-01-27T21:23:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517105417942/1tosca_Bruce_Bennett%5B1%5D.jpg.jpg
+primary_image_credit: 'Photo: Bruce Bennett.'
+publishDate: "2018-01-27T21:23:00-05:00"
+related_articles:
+- articles/talking-with-singers-jennifer-rowley.md
+- articles/talking-with-singers-riccardo-massi.md
+- articles/talking-with-singers-keri-alkema.md
+- articles/just-plain-great-pbos-le-nozze-di-figaro.md
+related_companies:
+- scene/companies/palm-beach-opera.md
+related_people:
+- scene/people/riccardo-massi.md
+- scene/people/keri-alkema.md
+- scene/people/michael-chioldi.md
+short_description: 'In a world where consent is so often coerced – Tosca&#039;s world,
+  and ours – it&#039;s impossible not to draw comparisons to stories of #MeToo, #TimesUp,
+  and a slew of fallen titans. It&#039;s easy to imagine Scarpia as a man who might
+  have a button hidden beneath his desk to lock his office door.'
+slug: steps-forward-for-operas-women-tosca-at-pbo
+title: 'Steps forward for opera&#039;s women: Tosca at PBO'
+---
 
 When Tosca falls to her death from atop the Castel Sant'Angelo, the soldiers standing guard look on in shock – all but one, hovering in the background at stage right, who slowly removes his cap. It's a small motion, barely noticable amid the high-flying drama of the opera's final scene – but there's meaning in it, too – sadness, horror, and respect – as though to say, If only things had turned out differently.
 

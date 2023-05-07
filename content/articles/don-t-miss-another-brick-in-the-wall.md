@@ -1,22 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = 2019-11-05T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "_Another Brick in the Wall_ is onstage in [Toronto](http://anotherbrickopera.com/en/?section=tickets), November 13-23, and in [Vancouver](https://www.vancouveropera.ca/another-brick-in-the-wall-the-opera/) April 23-May 2."
-preamble = "After its 2017 premiere in Montréal, [_Another Brick in the Wall: The Opera_](http://anotherbrickopera.com/en/?section=tickets) comes to Toronto for a much-anticipated run of shows, Nov. 13-23 at Meridian Hall.\n\nThe opera is inspired by the essential 1979 album, _The Wall_, featuring lyrics by Roger Waters and music by Canadian composer Julien Bilodeau. It tells the story of Pink, a rockstar singer, and his arc from fame to insanity. We spoke with baritone [Nathan Keoughan](/scene/people/nathan-keoughan/), who sings Pink, about the grand-opera roots of _Another Brick in the Wall._"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572921454/media/2019/11/sq3-AnotherBrickintheWall-photosbyYvesRenaud_ym4sgp.jpg"
-primary_image_credit = "Another Brick in the Wall. Photo by Yves Renaud."
-related_articles = ["articles/opera-spin-off.md", "articles/hadrian-a-true-grand-opera.md"]
-related_companies = ["scene/companies/lopra-de-montral.md", "scene/companies/cincinnati-opera.md"]
-related_people = ["scene/people/nathan-keoughan.md"]
-short_description = "\"The show itself is a grandiose spectacle indicative of traditional opera productions, but more importantly the score written by Julien Bilodeau is incredibly rich, beautiful, impressive and clever.\""
-slug = "a-grandiose-spectacle-in-another-brick-in-the-wall-the-opera"
-title = "\"A grandiose spectacle\" in Another Brick in the Wall: The Opera"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-11-05T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: _Another Brick in the Wall_ is onstage in [Toronto](http://anotherbrickopera.com/en/?section=tickets),
+  November 13-23, and in [Vancouver](https://www.vancouveropera.ca/another-brick-in-the-wall-the-opera/)
+  April 23-May 2.
+preamble: |-
+  After its 2017 premiere in Montréal, [_Another Brick in the Wall: The Opera_](http://anotherbrickopera.com/en/?section=tickets) comes to Toronto for a much-anticipated run of shows, Nov. 13-23 at Meridian Hall.
 
-+++
+  The opera is inspired by the essential 1979 album, _The Wall_, featuring lyrics by Roger Waters and music by Canadian composer Julien Bilodeau. It tells the story of Pink, a rockstar singer, and his arc from fame to insanity. We spoke with baritone [Nathan Keoughan](/scene/people/nathan-keoughan/), who sings Pink, about the grand-opera roots of _Another Brick in the Wall._
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1572921454/media/2019/11/sq3-AnotherBrickintheWall-photosbyYvesRenaud_ym4sgp.jpg
+primary_image_credit: Another Brick in the Wall. Photo by Yves Renaud.
+related_articles:
+- articles/opera-spin-off.md
+- articles/hadrian-a-true-grand-opera.md
+related_companies:
+- scene/companies/lopra-de-montral.md
+- scene/companies/cincinnati-opera.md
+related_people:
+- scene/people/nathan-keoughan.md
+short_description: '"The show itself is a grandiose spectacle indicative of traditional
+  opera productions, but more importantly the score written by Julien Bilodeau is
+  incredibly rich, beautiful, impressive and clever."'
+slug: a-grandiose-spectacle-in-another-brick-in-the-wall-the-opera
+title: '"A grandiose spectacle" in Another Brick in the Wall: The Opera'
+youtube_url: ""
+---
 ## What kind of person is Pink?
 
 Pink is your quintessential jaded rocker whose fame and ego have grown into an unbearable burden, resulting in a mental break. The psychosis that follows is what plays out in the plot of the opera/film and is narrated by the album.

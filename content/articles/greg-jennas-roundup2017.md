@@ -1,18 +1,58 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Editorial"
-date = "2017-12-29T00:03:00-05:00"
-lastmod = "2017-12-29T11:53:00-05:00"
-preamble = "Can you believe it's that time already? The end of the twelfth month is upon us, and we have a duty to reflect on the year. 2017 brought lots of goodies: high notes, great conversations, and even a puppet opera. [Greg](/authors/greg/) and [Jenna](/authors/jenna/) whittled down the year's riches to their top 5 picks:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514523949108/2017-12-29---Roundup2017.jpg.jpg"
-publishDate = "2017-12-29T11:29:00-05:00"
-related_articles = ["articles/stop-shaming-adele.md","articles/talking-with-singers-christine-goerke.md","articles/talking-with-singers-christopher-purves.md","articles/art-is-not-action.md"]
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/canadian-opera-company.md","scene/companies/against-the-grain-theatre.md","scene/companies/toronto-symphony-orchestra.md","scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/christine-goerke.md","scene/people/andreas-schager.md","scene/people/barbara-hannigan.md","scene/people/christopher-purves.md","scene/people/michael-schade.md","scene/people/susan-platts.md","scene/people/wallis-giunta.md","scene/people/jennifer-nichols.md","scene/people/joel-ivany.md","scene/people/miriam-khalil.md","scene/people/michael-uloth.md","scene/people/justin-welsh.md","scene/people/danika-lorn.md","scene/people/victoria-marshall.md","scene/people/asitha-tennekoon.md","scene/people/david-trudgen.md","scene/people/natalya-matyusheva.md","scene/people/jacqueline-woodley.md","scene/people/adam-fisher.md","scene/people/owen-mccausland.md","scene/people/isaiah-bell.md","scene/people/stephen-hegedus.md","scene/people/geoffrey-sirett.md"]
-short_description = "Can you believe it&#039;s that time already? The end of the twelfth month is upon us, and we have a duty to reflect on the year. 2017 brought lots of goodies: high notes, great conversations, and even a puppet opera. Greg and Jenna whittled down the year&#039;s riches to their top 5 picks:"
-slug = "greg-jennas-roundup2017"
-title = "Greg &amp; Jenna&#039;s #RoundUp2017"
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Editorial
+date: "2017-12-29T00:03:00-05:00"
+lastmod: "2017-12-29T11:53:00-05:00"
+preamble: 'Can you believe it''s that time already? The end of the twelfth month is
+  upon us, and we have a duty to reflect on the year. 2017 brought lots of goodies:
+  high notes, great conversations, and even a puppet opera. [Greg](/authors/greg/)
+  and [Jenna](/authors/jenna/) whittled down the year''s riches to their top 5 picks:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514523949108/2017-12-29---Roundup2017.jpg.jpg
+publishDate: "2017-12-29T11:29:00-05:00"
+related_articles:
+- articles/stop-shaming-adele.md
+- articles/talking-with-singers-christine-goerke.md
+- articles/talking-with-singers-christopher-purves.md
+- articles/art-is-not-action.md
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/toronto-symphony-orchestra.md
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/christine-goerke.md
+- scene/people/andreas-schager.md
+- scene/people/barbara-hannigan.md
+- scene/people/christopher-purves.md
+- scene/people/michael-schade.md
+- scene/people/susan-platts.md
+- scene/people/wallis-giunta.md
+- scene/people/jennifer-nichols.md
+- scene/people/joel-ivany.md
+- scene/people/miriam-khalil.md
+- scene/people/michael-uloth.md
+- scene/people/justin-welsh.md
+- scene/people/danika-lorn.md
+- scene/people/victoria-marshall.md
+- scene/people/asitha-tennekoon.md
+- scene/people/david-trudgen.md
+- scene/people/natalya-matyusheva.md
+- scene/people/jacqueline-woodley.md
+- scene/people/adam-fisher.md
+- scene/people/owen-mccausland.md
+- scene/people/isaiah-bell.md
+- scene/people/stephen-hegedus.md
+- scene/people/geoffrey-sirett.md
+short_description: 'Can you believe it&#039;s that time already? The end of the twelfth
+  month is upon us, and we have a duty to reflect on the year. 2017 brought lots of
+  goodies: high notes, great conversations, and even a puppet opera. Greg and Jenna
+  whittled down the year&#039;s riches to their top 5 picks:'
+slug: greg-jennas-roundup2017
+title: 'Greg &amp; Jenna&#039;s #RoundUp2017'
+---
 
 ## [*The Depraved Appetite of Tarrare the Freak*](/tarrare-the-freak-i-just-want-to-be-full/)
 

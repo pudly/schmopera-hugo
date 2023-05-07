@@ -1,22 +1,28 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = 2021-04-16T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1618325228/media/2021/04/CBCpink_square_curp3r.png"
-primary_image_credit = ""
-related_articles = ["articles/angel-s-bone.md", "articles/i-used-to-sing.md", "articles/the-met-s-at-home-gala.md"]
-related_companies = []
-related_people = []
-short_description = "How inspiring to think that even despite our limitations, creativity has a hard time being quelled. If you are craving some relief from the monotony of your day or are in need of a pause to enjoy some music, both concerts are currently streaming and are available to watch until May 13th."
-slug = "oepraupclose-presents-songs-of-solace-and-spring"
-title = "OperaUpClose Presents ‘Songs of Solace and Spring’"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2021-04-16T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1618325228/media/2021/04/CBCpink_square_curp3r.png
+primary_image_credit: ""
+related_articles:
+- articles/angel-s-bone.md
+- articles/i-used-to-sing.md
+- articles/the-met-s-at-home-gala.md
+related_companies: []
+related_people: []
+short_description: How inspiring to think that even despite our limitations, creativity
+  has a hard time being quelled. If you are craving some relief from the monotony
+  of your day or are in need of a pause to enjoy some music, both concerts are currently
+  streaming and are available to watch until May 13th.
+slug: oepraupclose-presents-songs-of-solace-and-spring
+title: OperaUpClose Presents ‘Songs of Solace and Spring’
+youtube_url: ""
+---
 This spring, OperaUpClose invites all to join them for a coffee break in two mini virtual concerts. The "At Home" concert series was first launched in May of 2020 as a way to brighten audiences’ spirits by bringing them informal concerts to be enjoyed from the comfort of the home, and to offer us all some well-deserved respite from our current moment.
 
 For the past 12 years, OperaUpClose have provided intimate re-workings of popular repertoire with updated and relevant English translations, as well as championed new repertoire and showcased up-and-coming British talent. Their aim has been to provide innovative performances to broad audiences across the country. Their newest project – the "Coffee Break Concerts" - are a harmonious transition to a virtual form of storytelling that feels like a real extension of that aim.

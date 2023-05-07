@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-11-29T20:33:00+00:00"
-lastmod = "2016-11-30T11:48:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480451775081/2016-11-29---Chinese-Opera-square.jpg.jpg"
-publishDate = "2016-11-30T11:48:00+00:00"
-related_articles = ["articles/erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional.md"]
-short_description = "&quot;Not unlike Canada, China is an immense country with many peoples and cultures scattered across its vastness,&quot; explains Music Director Zhang Gaoxiang by translator. &quot;In Enchanting China, we share the voices of these many places and introduce Canadians to Chinese music’s cultural richness. We hope Toronto will be intrigued to experience our country’s version of the orchestra – and be spellbound by the music that it weaves.&quot;"
-slug = "dont-miss-enchanting-china"
-title = "Don&#039;t miss: Enchanting China"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-11-29T20:33:00+00:00"
+lastmod: "2016-11-30T11:48:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480451775081/2016-11-29---Chinese-Opera-square.jpg.jpg
+publishDate: "2016-11-30T11:48:00+00:00"
+related_articles:
+- articles/erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional.md
+short_description: '&quot;Not unlike Canada, China is an immense country with many
+  peoples and cultures scattered across its vastness,&quot; explains Music Director
+  Zhang Gaoxiang by translator. &quot;In Enchanting China, we share the voices of
+  these many places and introduce Canadians to Chinese music’s cultural richness.
+  We hope Toronto will be intrigued to experience our country’s version of the orchestra
+  – and be spellbound by the music that it weaves.&quot;'
+slug: dont-miss-enchanting-china
+title: 'Don&#039;t miss: Enchanting China'
+---
 
 With all our verbosity about opera, we'll admit we're a bit light on the topic of [Peking opera](https://en.wikipedia.org/wiki/Peking_opera). 
 

@@ -1,27 +1,25 @@
-+++
-date = "2019-01-18T19:42:03+00:00"
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547840349/media/2019/01/ScottBallantine.png"
-primary_image_credit = ""
-related_companies = ["scene/companies/boston-opera-collaborative.md"]
-slug = "scott-ballantine"
-title = "Scott Ballantine"
-website = "https://www.scottballantine.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/sbbaritone"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SBbaritone"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/sbbaritone/"
-
-_template = "people_single"
-+++
+---
+date: "2019-01-18T19:42:03+00:00"
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1547840349/media/2019/01/ScottBallantine.png
+primary_image_credit: ""
+related_companies:
+- scene/companies/boston-opera-collaborative.md
+slug: scott-ballantine
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/sbbaritone
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/SBbaritone
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/sbbaritone/
+title: Scott Ballantine
+website: https://www.scottballantine.com/
+---
 Baritone, Scott Ballantine, maintains a busy performing schedule year-round in New England and across the United States. He has worked with companies such as Utah Festival Opera and Musical Theatre, Boston Lyric Opera, Connecticut Lyric Opera, MassOpera, Opera Steamboat, Odyssey Opera and the Janiec Opera Company. A recent young artist with the Janiec Opera Company in Brevard, NC, Ballantine had his role debut as Sharpless in _Madama Butterfly_, covered the role of Maximillian in _Candide_, and was a Street Singer Soloist in Bernstein’s _Massunder_ the baton of Maestro Keith Lockhart. Following his performances in North Carolina, Ballantine joined the Southern Vermont Lyric Theatre as Baron in _La Traviata_.
 
 In the 2018-19 season, Ballantine returns as a young artist with Boston Opera Collaborative to sing the title role in _Don Giovanni_ and will portray the role of Father in _The Scarlet Ibis_. Following his engagements with BOC, Ballantine will make his company debut with the Natchez Festival of Music. There, he will sing the role of Miles Gloriosus in Sondheim’s _A Funny Thing Happened on the Way to the Forum_ and cover Marcello in _La Bohème_.

@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = ""
-date = 2017-08-10T22:07:00Z
-lastmod = "2017-11-22T16:36:00-05:00"
-preamble = "Singers have a better handle than most when it comes to mastering foreign languages. Rolled R's, umlauts, they do it all. For singers whose mother tongue is English, there are a few common traps that come up when they're asked to sing in any of the other common operatic languages. In the name of commiseration, and even offering a few tips, we've got our top four foreign-language tongue-twisters:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502457510582/2017-08-11---Tongue.jpg.jpg"
-publishDate = "2017-08-11T09:21:00-04:00"
-related_articles = ["articles/3-ways-your-english-is-showing.md", "articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md"]
-short_description = "Without enough nasal quality in those very particular French vowels, you&#039;ll sound like an awkward American, speaking Italian with a bad head cold; go too far with your nasality, and you can be accused of making a gross mockery of what French sounds like to non-French people."
-slug = "4-foreign-language-challenges-for-singers"
-title = "4 foreign language challenges for singers"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: ""
+date: "2017-08-10T22:07:00Z"
+lastmod: "2017-11-22T16:36:00-05:00"
+preamble: 'Singers have a better handle than most when it comes to mastering foreign
+  languages. Rolled R''s, umlauts, they do it all. For singers whose mother tongue
+  is English, there are a few common traps that come up when they''re asked to sing
+  in any of the other common operatic languages. In the name of commiseration, and
+  even offering a few tips, we''ve got our top four foreign-language tongue-twisters:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502457510582/2017-08-11---Tongue.jpg.jpg
+publishDate: "2017-08-11T09:21:00-04:00"
+related_articles:
+- articles/3-ways-your-english-is-showing.md
+- articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md
+short_description: Without enough nasal quality in those very particular French vowels,
+  you&#039;ll sound like an awkward American, speaking Italian with a bad head cold;
+  go too far with your nasality, and you can be accused of making a gross mockery
+  of what French sounds like to non-French people.
+slug: 4-foreign-language-challenges-for-singers
+title: 4 foreign language challenges for singers
+---
 ## "Gli" in Italian
 
 For a Romance language that's fairly straightforward, the confusing sounds of the word "gli" come as quite a surprise. It's one of the words that mean "the" in Italian, and the pesky combination of G and L show up not just in "gli" itself, but in other combinations of articles like "agli", "quegli" and "dagli".

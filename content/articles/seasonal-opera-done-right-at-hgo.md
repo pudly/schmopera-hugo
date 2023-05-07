@@ -1,18 +1,33 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = "2017-12-10T13:48:00-05:00"
-lastmod = "2017-12-10T21:26:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512930648773/2017-12-10---sq---hgo---the-house-without-a-christmas-tree---2017---photographer-lynn-lane-149-copy.jpg.jpg"
-primary_image_credit = "The House Without a Christmas Tree, HGO, 2017. Photo: Lynn Lane."
-publishDate = "2017-12-10T13:48:00-05:00"
-related_articles = ["articles/opera-is-artifice-giulio-cesares-conquest-of-houston.md","articles/its-official-breaking-the-waves-wins-best-new-opera.md","articles/8-contemporary-roles-to-covet.md"]
-related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/lauren-snouffer.md","scene/people/megan-mikailovna-samarin.md","scene/people/daniel-belcher.md","scene/people/heidi-stober.md"]
-short_description = "Rarely have I ever been able to use the word &quot;effervescent&quot; to describe performances of newly-composed operas, but that is exactly the word I used to describe this one upon its conclusion. This work came as a breath of fresh air. It did not try overly hard to be anything other than a setting of a good story which happened to be set at Christmastime, and that is precisely why I perceive this work as having longevity."
-slug = "seasonal-opera-done-right-at-hgo"
-title = "Seasonal opera done right at HGO"
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2017-12-10T13:48:00-05:00"
+lastmod: "2017-12-10T21:26:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512930648773/2017-12-10---sq---hgo---the-house-without-a-christmas-tree---2017---photographer-lynn-lane-149-copy.jpg.jpg
+primary_image_credit: 'The House Without a Christmas Tree, HGO, 2017. Photo: Lynn
+  Lane.'
+publishDate: "2017-12-10T13:48:00-05:00"
+related_articles:
+- articles/opera-is-artifice-giulio-cesares-conquest-of-houston.md
+- articles/its-official-breaking-the-waves-wins-best-new-opera.md
+- articles/8-contemporary-roles-to-covet.md
+related_companies:
+- scene/companies/houston-grand-opera.md
+related_people:
+- scene/people/lauren-snouffer.md
+- scene/people/megan-mikailovna-samarin.md
+- scene/people/daniel-belcher.md
+- scene/people/heidi-stober.md
+short_description: Rarely have I ever been able to use the word &quot;effervescent&quot;
+  to describe performances of newly-composed operas, but that is exactly the word
+  I used to describe this one upon its conclusion. This work came as a breath of fresh
+  air. It did not try overly hard to be anything other than a setting of a good story
+  which happened to be set at Christmastime, and that is precisely why I perceive
+  this work as having longevity.
+slug: seasonal-opera-done-right-at-hgo
+title: Seasonal opera done right at HGO
+---
 
 In their so-far three-year odyssey of Christmas opera commissions, [Houston Grand Opera](/scene/companies/houston-grand-opera/) has finally managed to unearth that elusive commodity: a modern opera set around the holiday season that inherently possesses at least a modicum of universality and staying power. For though their stated goal of finding the exact equivalent of Pyotr Tchaikovsky's immortal ballet *Shchelkunchik* may well be ambitious and unrealizable without a dedicated aristocracy, yet Ricky Ian Gordon's newest opera, [*The House without a Christmas Tree*](http://www.houstongrandopera.org/the-house-without-a-christmas-tree), is indeed a greatly heartwarming piece, which is ultimately what matters for audiences accustomed to cinema, and a greatly sophisticated one, which is what matters for connoisseurs.
 

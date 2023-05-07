@@ -1,18 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2018-01-24T16:26:00-05:00"
-lastmod = "2018-01-24T20:36:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516828894697/sq---KLP180123-_DSC1292.jpg.jpg"
-primary_image_credit = "Joshua Guerrero and Andrea Grant (on piano) perform in the Richard Bradshaw Amphitheatre, photo: Kevin Lloyd."
-publishDate = "2018-01-24T20:36:00-05:00"
-related_articles = ["articles/jane-archibald-more-than-the-sum-of-all-those-notes.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/joshua-guerrero.md"]
-short_description = "It was one of those recitals that really does let you get to know an artist more. He was honest, open, and almost wide-eyed about his art; happily, he has the serious chops to back up the biography."
-slug = "autobiographical-recitals-joshua-guerrero-in-the-amphitheatre"
-title = "Autobiographical recitals: Joshua Guerrero in the Amphitheatre"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2018-01-24T16:26:00-05:00"
+lastmod: "2018-01-24T20:36:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516828894697/sq---KLP180123-_DSC1292.jpg.jpg
+primary_image_credit: 'Joshua Guerrero and Andrea Grant (on piano) perform in the
+  Richard Bradshaw Amphitheatre, photo: Kevin Lloyd.'
+publishDate: "2018-01-24T20:36:00-05:00"
+related_articles:
+- articles/jane-archibald-more-than-the-sum-of-all-those-notes.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/joshua-guerrero.md
+short_description: It was one of those recitals that really does let you get to know
+  an artist more. He was honest, open, and almost wide-eyed about his art; happily,
+  he has the serious chops to back up the biography.
+slug: autobiographical-recitals-joshua-guerrero-in-the-amphitheatre
+title: 'Autobiographical recitals: Joshua Guerrero in the Amphitheatre'
+---
 
 Tuesday's recital - part of the Canadian Opera Company's [Free Concert Series](https://www.coc.ca/plan-your-visit/free-concert-series) in the Richard Bradshaw Amphitheatre - seemed to suit the day's merciful bit of warm weather. 
 

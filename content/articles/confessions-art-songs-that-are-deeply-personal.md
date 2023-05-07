@@ -1,22 +1,30 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2020-12-23T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "_Confessions_ is available now on [Yarlung Records](https://www.yarlungrecords.com/product/confessions/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1608595717/media/2020/12/195448187984_wfxon6.jpg"
-primary_image_credit = "Photo: Arielle Doneson. Album cover design: Jennifer Bruce."
-related_articles = ["articles/la-nilsson-celebrating-birgit-nilsson-at-100.md", "articles/orlando-gender-bending-and-the-sound-of-androgyny-in-vienna.md", "articles/the-medium-opera-as-film-noir.md"]
-related_companies = []
-related_people = ["scene/people/laura-strickling.md"]
-short_description = "When contemplating the content for Confessions, soprano, Laura Strickling's recent recording of contemporary art songs by American composers, all of whom occupy the highest ranks of the genre, she was guided by a keen ear for quality and vocal suitability. She was also guided by a commitment to create, out of these fragile entities, a strong and satisfying musical program."
-slug = "confessions-art-songs-that-are-deeply-personal"
-title = "Confessions: Art Songs That Are Deeply Personal"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2020-12-23T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: _Confessions_ is available now on [Yarlung Records](https://www.yarlungrecords.com/product/confessions/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1608595717/media/2020/12/195448187984_wfxon6.jpg
+primary_image_credit: 'Photo: Arielle Doneson. Album cover design: Jennifer Bruce.'
+related_articles:
+- articles/la-nilsson-celebrating-birgit-nilsson-at-100.md
+- articles/orlando-gender-bending-and-the-sound-of-androgyny-in-vienna.md
+- articles/the-medium-opera-as-film-noir.md
+related_companies: []
+related_people:
+- scene/people/laura-strickling.md
+short_description: When contemplating the content for Confessions, soprano, Laura
+  Strickling's recent recording of contemporary art songs by American composers, all
+  of whom occupy the highest ranks of the genre, she was guided by a keen ear for
+  quality and vocal suitability. She was also guided by a commitment to create, out
+  of these fragile entities, a strong and satisfying musical program.
+slug: confessions-art-songs-that-are-deeply-personal
+title: 'Confessions: Art Songs That Are Deeply Personal'
+youtube_url: ""
+---
 An art song is by nature deeply personal. A poem or a passage of prose ignites the composer, melding with the composition. Eschewing the conventions of popular song, and in relatively free form, it consumes a few moments in which it distills a fleeting and quite particular essence. What emerges is wholly unique in form and content. It is also fragile.
 
 When contemplating the content for [_Confessions_](https://www.yarlungrecords.com/product/confessions/), soprano [Laura Strickling](/scene/people/laura-strickling/)'s recent recording of contemporary art songs by American composers, all of whom occupy the highest ranks of the genre, she was guided by a keen ear for quality and vocal suitability. She was also guided by a commitment to create, out of these fragile entities, a strong and satisfying musical program.

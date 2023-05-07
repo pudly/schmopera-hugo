@@ -1,17 +1,24 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2018-04-08T21:01:00-04:00"
-lastmod = "2018-04-08T21:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523235648972/sq---DanielSutin_HaeranHong.jpg.jpg"
-primary_image_credit = "Daniel Sutin and Haeran Hong in Giovanna D'Arco, Odyssey Opera, 2018. Photo: Kathy Wittman."
-publishDate = "2018-04-08T21:01:00-04:00"
-related_articles = ["articles/odyssey-operas-grand-la-reine-de-saba-a-great-season-opener.md"]
-related_companies = ["scene/companies/odyssey-opera.md"]
-short_description = "Of course, Verdi also uses park-and-bark arias and ensembles throughout the score (what opera of that time would be complete without them?), but there is enough musically interesting material going on throughout the whole that it becomes almost criminal that the music serves the libretto it does."
-slug = "odyssey-operas-giovanna-darco-bold-and-flawed"
-title = "Odyssey Opera&#039;s Giovanna D&#039;Arco Bold and Flawed"
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2018-04-08T21:01:00-04:00"
+lastmod: "2018-04-08T21:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523235648972/sq---DanielSutin_HaeranHong.jpg.jpg
+primary_image_credit: 'Daniel Sutin and Haeran Hong in Giovanna D''Arco, Odyssey Opera,
+  2018. Photo: Kathy Wittman.'
+publishDate: "2018-04-08T21:01:00-04:00"
+related_articles:
+- articles/odyssey-operas-grand-la-reine-de-saba-a-great-season-opener.md
+related_companies:
+- scene/companies/odyssey-opera.md
+short_description: Of course, Verdi also uses park-and-bark arias and ensembles throughout
+  the score (what opera of that time would be complete without them?), but there is
+  enough musically interesting material going on throughout the whole that it becomes
+  almost criminal that the music serves the libretto it does.
+slug: odyssey-operas-giovanna-darco-bold-and-flawed
+title: Odyssey Opera&#039;s Giovanna D&#039;Arco Bold and Flawed
+---
 
 A big problem with many of Giuseppe Verdi's early operas is how they brush up against the conventions of Italian opera: one frequently gets the distinct feeling watching any performance of Verdi's early works that he would have been able to produce much better results, had he eschewed the bel canto trappings of his time. This is especially true of his efforts in *Giovanna D'Arco*, a production of which ended Odyssey Opera's season-long exploration of various rarely-performed musical settings of the life of Joan of Arc.
 

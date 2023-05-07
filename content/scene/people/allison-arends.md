@@ -1,23 +1,26 @@
-+++
-date = "2015-04-06T19:59:00+01:00"
-discipline = "Soprano"
-lastmod = "2017-03-15T11:57:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428346615446/123aarends-web-1.jpg.jpg"
-publishDate = "2015-04-06T19:59:00+01:00"
-related_companies = ["scene/companies/opera-atelier.md","scene/companies/opera-by-request.md","scene/companies/saskatoon-opera.md","scene/companies/tapestry-opera.md"]
-slug = "allison-arends"
-title = "Allison Arends"
-website = "http://www.allisonarends.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Allison-Cecilia-Arends-Soprano/126706117358632"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ACA_Soprano"
-_template = "people_single"
-+++
+---
+date: "2015-04-06T19:59:00+01:00"
+discipline: Soprano
+lastmod: "2017-03-15T11:57:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428346615446/123aarends-web-1.jpg.jpg
+publishDate: "2015-04-06T19:59:00+01:00"
+related_companies:
+- scene/companies/opera-atelier.md
+- scene/companies/opera-by-request.md
+- scene/companies/saskatoon-opera.md
+- scene/companies/tapestry-opera.md
+slug: allison-arends
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Allison-Cecilia-Arends-Soprano/126706117358632
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/ACA_Soprano
+title: Allison Arends
+website: http://www.allisonarends.com/
+---
 
 Canadian soprano Allison Cecilia Arends is quickly making her mark as a versatile singer whose “voice is stunningly beautiful and [is used] with intelligence and great sensitivity” (Hnatyshyn Foundation). Highly sought-after as an interpreter of opera, new music, and concert repertoire, she is noted for having “charmed listeners with her lyrical upper tones” and for her “empathetic acting” (Opera Canada).
 

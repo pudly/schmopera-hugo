@@ -1,16 +1,22 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2017-12-22T12:08:00-05:00"
-lastmod = "2017-12-24T10:54:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514074262401/2017-12-23---sq---image2.jpg.jpg"
-primary_image_credit = "GLMMR, Book of Dreams, National Sawdust 2017. Photo: VIta Tzykun."
-publishDate = "2017-12-23T15:39:00-05:00"
-related_articles = ["articles/spotlight-on-jeremy-hirsch.md","articles/cosmic-grandeur-and-human-frailty-crossing.md"]
-short_description = "GLMMR&#039;s creative team has constructed a scenario in which a Promethean ur-man (David Adam Moore) grapples with a deity-like overseer (pre-recorded narration by new-music impresario Beth Morrison), as he searches for identity in a world bereft of humankind."
-slug = "cautiously-aspirational-book-of-dreams"
-title = "Cautiously aspirational: Book of Dreams"
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2017-12-22T12:08:00-05:00"
+lastmod: "2017-12-24T10:54:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514074262401/2017-12-23---sq---image2.jpg.jpg
+primary_image_credit: 'GLMMR, Book of Dreams, National Sawdust 2017. Photo: VIta Tzykun.'
+publishDate: "2017-12-23T15:39:00-05:00"
+related_articles:
+- articles/spotlight-on-jeremy-hirsch.md
+- articles/cosmic-grandeur-and-human-frailty-crossing.md
+short_description: GLMMR&#039;s creative team has constructed a scenario in which
+  a Promethean ur-man (David Adam Moore) grapples with a deity-like overseer (pre-recorded
+  narration by new-music impresario Beth Morrison), as he searches for identity in
+  a world bereft of humankind.
+slug: cautiously-aspirational-book-of-dreams
+title: 'Cautiously aspirational: Book of Dreams'
+---
 
 A blinded wanderer chained to the earth navigates a desolate landscape. No humans in sight. Chafed, he claws his way onto a mound of sand in an expansive, bleached desert. A menacing haze of sound builds, builds, into a diffuse burst. Momentary quiet. Rustling. The din emerges again. The bone-white surroundings assert their harsh brightness. Alone, crouched into himself, the wanderer pleads.
 

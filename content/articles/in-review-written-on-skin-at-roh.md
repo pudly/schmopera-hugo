@@ -1,18 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-01-14T14:53:00+00:00"
-lastmod = "2017-01-19T17:49:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484406271712/2017-01-17---6837-CHRISTOPHER-PURVES-AS-THE-PROTECTOR-BARBARA-HANNIGAN-AS-AGNES-ROH-PHOTO-STEPHEN-CUMMISKEY.jpg.jpg"
-primary_image_credit = "Barbara Hannigan (Agnès) and Christopher Purves (The Protector) in Written On Skin, ROH, 2016. Photo by Stephen Cummiskey."
-publishDate = "2017-01-14T16:17:00+00:00"
-related_articles = ["articles/still-stunning-written-on-skin.md","articles/talking-with-singers-christopher-purves.md","articles/in-review-the-exterminating-angel-at-roh.md","articles/discomfort-louis-riel-at-the-coc.md","articles/talking-with-conductors-oliver-zeffman.md","articles/fuelled-by-female-oppression-written-on-skin.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/barbara-hannigan.md","scene/people/christopher-purves.md"]
-short_description = "What&#039;s most thrilling about this Written on Skin was how the piece itself shone through Mitchell&#039;s production. Phrases from the libretto - like &quot;blame her for everything&quot; - leapt out as though shouted; Benjamin&#039;s use of the glass armonica - the instrument of &quot;hysteria&quot; - is well-timed and significant. Though it didn&#039;t overshadow the human stories of Agnès and The Protector, there was clear commentary on free will, and the cruelty inherent in God&#039;s creation of man."
-slug = "in-review-written-on-skin-at-roh"
-title = "In review: Written On Skin at ROH"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-01-14T14:53:00+00:00"
+lastmod: "2017-01-19T17:49:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484406271712/2017-01-17---6837-CHRISTOPHER-PURVES-AS-THE-PROTECTOR-BARBARA-HANNIGAN-AS-AGNES-ROH-PHOTO-STEPHEN-CUMMISKEY.jpg.jpg
+primary_image_credit: Barbara Hannigan (Agnès) and Christopher Purves (The Protector)
+  in Written On Skin, ROH, 2016. Photo by Stephen Cummiskey.
+publishDate: "2017-01-14T16:17:00+00:00"
+related_articles:
+- articles/still-stunning-written-on-skin.md
+- articles/talking-with-singers-christopher-purves.md
+- articles/in-review-the-exterminating-angel-at-roh.md
+- articles/discomfort-louis-riel-at-the-coc.md
+- articles/talking-with-conductors-oliver-zeffman.md
+- articles/fuelled-by-female-oppression-written-on-skin.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/barbara-hannigan.md
+- scene/people/christopher-purves.md
+short_description: What&#039;s most thrilling about this Written on Skin was how the
+  piece itself shone through Mitchell&#039;s production. Phrases from the libretto
+  - like &quot;blame her for everything&quot; - leapt out as though shouted; Benjamin&#039;s
+  use of the glass armonica - the instrument of &quot;hysteria&quot; - is well-timed
+  and significant. Though it didn&#039;t overshadow the human stories of Agnès and
+  The Protector, there was clear commentary on free will, and the cruelty inherent
+  in God&#039;s creation of man.
+slug: in-review-written-on-skin-at-roh
+title: 'In review: Written On Skin at ROH'
+---
 
 It was a noticeably different crowd than usual at the ROH's *Written on Skin*, the dense and evocative 2012 opera by George Benjamin and Martin Crimp. Particularly for an opening night, the demographic was certainly young; with nearly five years between the premiere of Katie Mitchell's production and this season's revival, audiences in London seemed invested in the life of one of the 21st century's most important English-language operas.
 

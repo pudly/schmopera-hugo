@@ -1,27 +1,27 @@
-+++
-date = "2017-05-22T21:47:00-04:00"
-discipline = "Composer"
-lastmod = "2017-05-22T21:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495503936204/Gervais.png.png"
-publishDate = "2017-05-22T21:47:00-04:00"
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
-slug = "aaron-gervais"
-title = "Aaron Gervais"
-website = "https://aarongervais.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/artmusicpromotion"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/aarongervais"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/aaron-gervais-composer"
-_template = "people_single"
-+++
+---
+date: "2017-05-22T21:47:00-04:00"
+discipline: Composer
+lastmod: "2017-05-22T21:47:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495503936204/Gervais.png.png
+publishDate: "2017-05-22T21:47:00-04:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+slug: aaron-gervais
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/artmusicpromotion
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/aarongervais
+- _template: people_single
+  platform: Soundcloud
+  template: social-media
+  url: https://soundcloud.com/aaron-gervais-composer
+title: Aaron Gervais
+website: https://aarongervais.com/
+---
 
 Based in San Francisco, composer Aaron Gervais works with ensembles and presenters across North America and Europe. He is particularly interested in humour, found materials, quotation/collage, and the sociological aspects of how people use music. As such, Aaron’s output ranges from the introspectively sombre to the irreverently slapstick, and critics have described his musical approach with statements from “I cried tears of laughter” to “unique, unsettling” and “this is just really great fun.” Over the past few years, Aaron’s work has centered around chamber music, vocal music, and opera, although orchestral music, live electronics, and pieces for dance and theatre also feature in his work.
 

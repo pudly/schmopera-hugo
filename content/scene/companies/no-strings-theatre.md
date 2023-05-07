@@ -1,24 +1,23 @@
-+++
-date = "2015-06-11T20:37:00-04:00"
-lastmod = "2015-06-11T20:37:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546481469/media/2019/01/Logo-NoStringsTheatre.jpg"
-publishDate = "2015-06-11T20:37:00-04:00"
-related_people = ["scene/people/charlotte-knight.md"]
-slug = "no-strings-theatre"
-title = "No Strings Theatre"
-type_of_company = "Theatre Company"
-website = "http://www.nostringstheatre.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/nostringstheatretoronto?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/nostringstheatr"
-
-_template = "company_single"
-+++
+---
+date: "2015-06-11T20:37:00-04:00"
+lastmod: "2015-06-11T20:37:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546481469/media/2019/01/Logo-NoStringsTheatre.jpg
+publishDate: "2015-06-11T20:37:00-04:00"
+related_people:
+- scene/people/charlotte-knight.md
+slug: no-strings-theatre
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/nostringstheatretoronto?fref=ts
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/nostringstheatr
+title: No Strings Theatre
+type_of_company: Theatre Company
+website: http://www.nostringstheatre.com/
+---
 ### Our Mission Statement
 
 No Strings Theatre is a registered not-for-profit charitable organization with a mission to provide opportunity for young people to develop their skills in all aspects of the music theatre arts—singing, dancing, acting, production—under the guidance of trained professional artists.

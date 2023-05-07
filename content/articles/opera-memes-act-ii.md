@@ -1,15 +1,19 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2014-08-19T15:04:00-04:00"
-lastmod = "2015-04-16T22:15:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429236904782/AnnaNicole.png"
-publishDate = "2014-08-19T15:04:00-04:00"
-related_articles = ["articles/opera-memes-a-deconstruction.md"]
-short_description = "A while back, I got impatient with a bunch of opera memes that were circulating around the Internet. It has happened again, partly thanks to the Opera Memes Facebook page. Here we go, for Act II of the Opera Memes Deconstruction:"
-slug = "opera-memes-act-ii"
-title = "Opera Memes, Act II"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2014-08-19T15:04:00-04:00"
+lastmod: "2015-04-16T22:15:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429236904782/AnnaNicole.png
+publishDate: "2014-08-19T15:04:00-04:00"
+related_articles:
+- articles/opera-memes-a-deconstruction.md
+short_description: 'A while back, I got impatient with a bunch of opera memes that
+  were circulating around the Internet. It has happened again, partly thanks to the
+  Opera Memes Facebook page. Here we go, for Act II of the Opera Memes Deconstruction:'
+slug: opera-memes-act-ii
+title: Opera Memes, Act II
+---
 
 A while back, [I got impatient](/opera-memes-a-deconstruction/) with a bunch of opera memes that were circulating around the Internet. It has happened again, partly thanks to the[ Opera Memes Facebook page](https://www.facebook.com/OperaSingerMemes). Here we go, for Act II of the Opera Memes Deconstruction:
 

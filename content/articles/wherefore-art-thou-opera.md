@@ -1,15 +1,22 @@
-+++
-author = ["authors/kimberly-barber.md"]
-categories = "Op-ed"
-date = "2018-11-14T16:08:00-05:00"
-lastmod = "2018-11-14T20:31:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542241838101/sqmagnify.jpg.jpg"
-publishDate = "2018-11-14T16:58:00-05:00"
-related_articles = ["articles/when-art-is-not-enough-opera-activism.md","articles/art-is-not-action.md"]
-short_description = "It becomes an important responsibility of artists to comment on the topics of the day, no matter how messy or fraught. It can no longer stand for us present a particular historic piece of theatre art &quot;as-is&quot; and to satisfy ourselves with platitudes about how &quot;that&#039;s how it was written, it&#039;s just of its time&quot;."
-slug = "wherefore-art-thou-opera"
-title = "Wherefore art thou, opera?"
-+++
+---
+author:
+- authors/kimberly-barber.md
+categories: Op-ed
+date: "2018-11-14T16:08:00-05:00"
+lastmod: "2018-11-14T20:31:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542241838101/sqmagnify.jpg.jpg
+publishDate: "2018-11-14T16:58:00-05:00"
+related_articles:
+- articles/when-art-is-not-enough-opera-activism.md
+- articles/art-is-not-action.md
+short_description: It becomes an important responsibility of artists to comment on
+  the topics of the day, no matter how messy or fraught. It can no longer stand for
+  us present a particular historic piece of theatre art &quot;as-is&quot; and to satisfy
+  ourselves with platitudes about how &quot;that&#039;s how it was written, it&#039;s
+  just of its time&quot;.
+slug: wherefore-art-thou-opera
+title: Wherefore art thou, opera?
+---
 
 Opera: dead or alive?
 

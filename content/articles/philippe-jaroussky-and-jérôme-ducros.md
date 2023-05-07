@@ -1,22 +1,29 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = 2020-01-18T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1579368692/media/2020/01/sqPhilippeJaroussky_xpwxzf.jpg"
-primary_image_credit = "Photo: 2019 Parlophone Records Ltd."
-related_articles = ["articles/in-review-jamie-barton-at-wigmore-hall.md", "articles/in-review-paul-appleby-at-wigmore-hall.md"]
-related_companies = []
-related_people = []
-short_description = "The Schubert-song recital is a staple and one that I find, for the most part, to be overdone. There is no denying the composer’s immense and invaluable contribution to the lieder repertory. His songs are like golden threads in the intricate tapestry that is the history of German lieder, but personally, I find that a recital programme of unrelated Schubert song to be lacking in imagination when there is a wide variety of song repertoire to be programmed in interesting and new ways."
-slug = "classic-not-overdone-philippe-jaroussky-and-jerome-ducros-at-wigmore-hall"
-title = "Classic, not overdone: Philippe Jaroussky and Jérôme Ducros at Wigmore Hall"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2020-01-18T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1579368692/media/2020/01/sqPhilippeJaroussky_xpwxzf.jpg
+primary_image_credit: 'Photo: 2019 Parlophone Records Ltd.'
+related_articles:
+- articles/in-review-jamie-barton-at-wigmore-hall.md
+- articles/in-review-paul-appleby-at-wigmore-hall.md
+related_companies: []
+related_people: []
+short_description: The Schubert-song recital is a staple and one that I find, for
+  the most part, to be overdone. There is no denying the composer’s immense and invaluable
+  contribution to the lieder repertory. His songs are like golden threads in the intricate
+  tapestry that is the history of German lieder, but personally, I find that a recital
+  programme of unrelated Schubert song to be lacking in imagination when there is
+  a wide variety of song repertoire to be programmed in interesting and new ways.
+slug: classic-not-overdone-philippe-jaroussky-and-jerome-ducros-at-wigmore-hall
+title: 'Classic, not overdone: Philippe Jaroussky and Jérôme Ducros at Wigmore Hall'
+youtube_url: ""
+---
 I always feel a sense of comfort when I step into the theatre at Wigmore Hall. The lofty hall with its grand yet understated gilded art nouveau cupola warmly beckon to the listener, welcoming us into the space. For over a century, Wigmore Hall has stood as one of the world’s leading centres for chamber and vocal music and a song recital in the hall is a veritable rite of passage for any performer.
 
 I make my way to my seat through a crowd that is humming with anticipation. We are here to listen to countertenor Philippe Jaroussky and pianist Jérôme Ducros perform a recital of Schubert song. Jaroussky, who has garnered somewhat of a cult-like following over the years and who has primarily made a name for himself in the realm of 18th-century music, is making a foray into German lieder, much to the curiosity and speculation of the audience.

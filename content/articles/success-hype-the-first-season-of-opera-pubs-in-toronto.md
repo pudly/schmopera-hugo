@@ -1,18 +1,37 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-05-06T23:02:00-04:00"
-lastmod = "2017-05-07T13:42:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494125968154/2017-05-04---Opera-Pub-Square.jpg.jpg"
-primary_image_credit = "Joel Ivany, Artistic Director of Against the Grain Theatre, at an Opera Pub. Photo: Darryl Block, courtesy AtG."
-publishDate = "2017-05-07T11:09:00-04:00"
-related_articles = ["articles/atgs-opera-pubs-it-can-all-get-a-bit-wild.md","articles/the-future-of-opera-is-indie.md","articles/i-think-it-takes-a-brave-artist-to-do-something-like-an-opera-pub.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md","scene/people/adam-fisher.md","scene/people/jonathan-macarthur.md","scene/people/alexander-dobson.md","scene/people/andrew-love.md"]
-short_description = "The success of the Opera Pubs brings to light something that is - and should be - considered seriously among operatic circles across the globe: the potential for circular gratification among those on the inside. In Toronto, the audiences of most operatic events include familiar faces - fans, colleagues, and friends of those involved in the show; these are a beautiful group of folks, full of support and delight for the work done in their city. But any opera company worth the hype is constantly seeking audiences full of new faces, an ever-widening pool of interested listeners."
-slug = "success-hype-the-first-season-of-opera-pubs-in-toronto"
-title = "Success &amp; hype: the first season of Opera Pubs in Toronto"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-05-06T23:02:00-04:00"
+lastmod: "2017-05-07T13:42:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494125968154/2017-05-04---Opera-Pub-Square.jpg.jpg
+primary_image_credit: 'Joel Ivany, Artistic Director of Against the Grain Theatre,
+  at an Opera Pub. Photo: Darryl Block, courtesy AtG.'
+publishDate: "2017-05-07T11:09:00-04:00"
+related_articles:
+- articles/atgs-opera-pubs-it-can-all-get-a-bit-wild.md
+- articles/the-future-of-opera-is-indie.md
+- articles/i-think-it-takes-a-brave-artist-to-do-something-like-an-opera-pub.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/joel-ivany.md
+- scene/people/christopher-mokrzewski.md
+- scene/people/adam-fisher.md
+- scene/people/jonathan-macarthur.md
+- scene/people/alexander-dobson.md
+- scene/people/andrew-love.md
+short_description: 'The success of the Opera Pubs brings to light something that is
+  - and should be - considered seriously among operatic circles across the globe:
+  the potential for circular gratification among those on the inside. In Toronto,
+  the audiences of most operatic events include familiar faces - fans, colleagues,
+  and friends of those involved in the show; these are a beautiful group of folks,
+  full of support and delight for the work done in their city. But any opera company
+  worth the hype is constantly seeking audiences full of new faces, an ever-widening
+  pool of interested listeners.'
+slug: success-hype-the-first-season-of-opera-pubs-in-toronto
+title: 'Success &amp; hype: the first season of Opera Pubs in Toronto'
+---
 
 There are few events in the Canadian opera scene that have garnered as much hype as the Opera Pubs presented by Toronto's [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/). Like most good things, the premise is simple: a mixture of the opera-savvy and the opera-curious gather at the Amsterdam Bicycle Club, and a handful of opera singers share the work of performing a few sets' worth of arias and duets.
 

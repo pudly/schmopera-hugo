@@ -1,25 +1,30 @@
-+++
-date = "2015-04-22T19:30:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-22T19:30:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1662127930/media/2022/09/CaitlinWood_untk3m.jpg"
-primary_image_credit = "Photo: Emily Ding"
-publishDate = "2015-04-22T19:30:00-04:00"
-related_companies = ["scene/companies/pacific-opera-victoria.md", "scene/companies/toronto-operetta-theatre.md", "scene/companies/edmonton-opera.md", "scene/companies/tapestry-opera.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/vancouver-opera.md", "scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md"]
-slug = "caitlin-wood"
-title = "Caitlin Wood"
-website = "http://www.caitlinwood.ca/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/caitlinpwood"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/caitwood7/"
-
-_template = "people_single"
-+++
+---
+date: "2015-04-22T19:30:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-22T19:30:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1662127930/media/2022/09/CaitlinWood_untk3m.jpg
+primary_image_credit: 'Photo: Emily Ding'
+publishDate: "2015-04-22T19:30:00-04:00"
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/toronto-operetta-theatre.md
+- scene/companies/edmonton-opera.md
+- scene/companies/tapestry-opera.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/vancouver-opera.md
+- scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md
+slug: caitlin-wood
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/caitlinpwood
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/caitwood7/
+title: Caitlin Wood
+website: http://www.caitlinwood.ca/
+---
 Alberta‐born soprano Caitlin Wood was “absolutely vibrant” and showed “great comic flair” in her debut as Susanna in Vancouver Opera Festival’s _The Marriage of Figar_o. Caitlin portrayed Ava in City Opera Vancouver’s 2017 world premiere of Marie Clements/Brian Current’s powerful opera _Missing_, showing “exquisite vulnerability”.
 
 Caitlin begins this season in Pacific Opera Victoria’s _Il Trittico_ and reprises the role of Ava in the company’s touring production of Missing.

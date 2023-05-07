@@ -1,19 +1,32 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2018-04-27T21:09:00-04:00"
-lastmod = "2018-04-28T11:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524877647023/sqORPHEE_1236.jpg.jpg"
-primary_image_credit = "Darryl Block Photography. Mireille Asselin (Eurydice) and Siman Chung  (Orphée)."
-publishDate = "2018-04-28T11:11:00-04:00"
-related_articles = ["articles/ravishing-orphic-moments-with-gluck-aucoin-costanzo.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md", "scene/companies/the-banff-centre.md"]
-related_people = ["scene/people/mireille-asselin.md", "scene/people/joel-ivany.md", "scene/people/christopher-mokrzewski.md", "scene/people/siman-chung.md", "scene/people/marcy-richardson.md"]
-short_description = "Undoubtedly, the standout performance of the show goes to the remarkable Company XIV. These six dancers, in some of the most exquisite costuming I&#039;ve ever seen, moved throughout the show functioning much in the way a Greek chorus would. Their physicality representing the off-stage chorus as well as the virtual one compiled by singers from around the world submitting recordings of themselves."
-slug = "futuristic-baroque-burlesque-orphée"
-title = "Futuristic Baroque burlesque: Orphée"
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2018-04-27T21:09:00-04:00"
+lastmod: "2018-04-28T11:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524877647023/sqORPHEE_1236.jpg.jpg
+primary_image_credit: Darryl Block Photography. Mireille Asselin (Eurydice) and Siman
+  Chung  (Orphée).
+publishDate: "2018-04-28T11:11:00-04:00"
+related_articles:
+- articles/ravishing-orphic-moments-with-gluck-aucoin-costanzo.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-banff-centre.md
+related_people:
+- scene/people/mireille-asselin.md
+- scene/people/joel-ivany.md
+- scene/people/christopher-mokrzewski.md
+- scene/people/siman-chung.md
+- scene/people/marcy-richardson.md
+short_description: Undoubtedly, the standout performance of the show goes to the remarkable
+  Company XIV. These six dancers, in some of the most exquisite costuming I&#039;ve
+  ever seen, moved throughout the show functioning much in the way a Greek chorus
+  would. Their physicality representing the off-stage chorus as well as the virtual
+  one compiled by singers from around the world submitting recordings of themselves.
+slug: futuristic-baroque-burlesque-orphée
+title: 'Futuristic Baroque burlesque: Orphée'
+---
 *Orpheus and Eurydice* is one of the original classic love stories. The story of a man who literally walks into the afterlife to bring his beloved back with him. The catch? He has to lead her back to the land of the living without looking at her. There's the river Styx, denizens of the Underwold, and even Love herself shows up to tangle up in this mess. 
 
 Toronto firecrackers [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) are at it again, reimagining another classic to appeal to modern day tastes. This time around it's Gluck's *Orphée* that is getting the AtG treatment, in a co-production with Opera Columbus and the Banff Centre for Arts and Creativity. 

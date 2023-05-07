@@ -1,19 +1,23 @@
-+++
-date = "2015-04-06T22:51:00-04:00"
-discipline = "Baritone"
-lastmod = "2015-04-06T22:51:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428375082871/MCPHAIL-PHOTO_credit_-Vroux_Fotor.jpg.jpg"
-primary_image_credit = "Veronika Roux-Vlachova"
-publishDate = "2015-04-06T22:51:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/against-the-grain-theatre.md","scene/companies/opera-on-the-avalon.md"]
-slug = "cameron-mcphail"
-title = "Cameron McPhail"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Cameron_McPhail"
-_template = "people_single"
-+++
+---
+date: "2015-04-06T22:51:00-04:00"
+discipline: Baritone
+lastmod: "2015-04-06T22:51:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428375082871/MCPHAIL-PHOTO_credit_-Vroux_Fotor.jpg.jpg
+primary_image_credit: Veronika Roux-Vlachova
+publishDate: "2015-04-06T22:51:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/opera-on-the-avalon.md
+slug: cameron-mcphail
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Cameron_McPhail
+title: Cameron McPhail
+---
 
 <p>
 	A 2014 winner of the George London Foundation Competition, Canadian baritone Cameron McPhail joined the Canadian Opera Company for the 2012-13 season as a member of the Ensemble Studio where he made his company debut as Premiere Officier in Poulenc's <em>Dialogues des Carmelites</em>. During the 2013-14 season he returned to Canadian Opera Company with mainstage appearances as Schaunard in <em>La Bohème</em>, Guglielmo in <em>Così fan Tutte</em>, and Silvano in <em>Un Ballo in Maschera</em>; along with covering Ned Keene in <em>Peter Grimes</em> and The Duke of Nottingham in <em>Roberto Devereux</em>. During Summer 2014 Mr. McPhail sang Marcello in <em>La Bohème</em> with Opera on the Avalon and the title role in <em>Don Giovanni</em> and Barber's "Dover Beach" with Banff Festival Opera. His appearances during the 2014-15 season include Carmina Burana with the Florida Orchestra and Festival International de Lanaudière, Messiah with the Edmonton Symphony, and a concert with the Johnstown (PA) Symphony. He also creates the role of Rev. Colgate in a world premiere concert staging of Gregory Vajda's opera <em>Georgia Bottoms</em> with the Huntsville Symphony.

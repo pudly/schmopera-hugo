@@ -1,18 +1,35 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2017-07-17T10:25:00-04:00"
-lastmod = "2017-07-17T21:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500303496232/2017-07-17---Square-PRODUCTION-IMAGE-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg"
-primary_image_credit = "A production image from the Royal Opera House Jette Parker Young Artists summer performance. Photo: Clive Barda/ROH."
-publishDate = "2017-07-17T21:54:00-04:00"
-related_articles = ["articles/spotlight-on-emily-edmonds.md","articles/spotlight-on-jennifer-davis.md","articles/talking-with-singers-david-shipley.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/jennifer-davis.md","scene/people/david-shipley.md","scene/people/vlada-borovko.md","scene/people/simon-shibambu.md","scene/people/angela-simkin.md","scene/people/francesca-chiejina.md","scene/people/thomas-atkins.md"]
-short_description = "The audience&#039;s favorite seemed to be a duet between Francesca Chiejina and Thomas Atkins from L&#039;amico Fritz - their two strong voices were very well matched to each other and each full of character and vibrancy. The pair had some of the best chemistry on stage, everyone grinning at Chiejina&#039;s sultry consumption of a cherry."
-slug = "in-review-the-jpya-summer-performance-"
-title = "In review: the JPYA summer performance "
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2017-07-17T10:25:00-04:00"
+lastmod: "2017-07-17T21:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500303496232/2017-07-17---Square-PRODUCTION-IMAGE-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg
+primary_image_credit: 'A production image from the Royal Opera House Jette Parker
+  Young Artists summer performance. Photo: Clive Barda/ROH.'
+publishDate: "2017-07-17T21:54:00-04:00"
+related_articles:
+- articles/spotlight-on-emily-edmonds.md
+- articles/spotlight-on-jennifer-davis.md
+- articles/talking-with-singers-david-shipley.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/jennifer-davis.md
+- scene/people/david-shipley.md
+- scene/people/vlada-borovko.md
+- scene/people/simon-shibambu.md
+- scene/people/angela-simkin.md
+- scene/people/francesca-chiejina.md
+- scene/people/thomas-atkins.md
+short_description: The audience&#039;s favorite seemed to be a duet between Francesca
+  Chiejina and Thomas Atkins from L&#039;amico Fritz - their two strong voices were
+  very well matched to each other and each full of character and vibrancy. The pair
+  had some of the best chemistry on stage, everyone grinning at Chiejina&#039;s sultry
+  consumption of a cherry.
+slug: in-review-the-jpya-summer-performance-
+title: 'In review: the JPYA summer performance '
+---
 
 Sunday night was a rare peep into the journey of becoming a professional singer: the singers from the [Royal Opera House](/scene/companies/royal-opera-house/)'s Jette Parker Young Artist Programme took to the mainstage of Covent Garden to present a set of opera scenes from Mozart to Mascagni.
 

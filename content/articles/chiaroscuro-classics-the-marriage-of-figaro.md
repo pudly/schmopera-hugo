@@ -1,18 +1,33 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2017-11-13T17:38:00-05:00"
-lastmod = "2017-11-13T18:07:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510614192903/2017-11-13---square---DN4_8689.jpg.jpg"
-primary_image_credit = "Johanni van Oostrum as Countess Almaviva and Jacques Imbrailo as Count Almaviva and The Marriage of Figaro. Photo: Dan Norman."
-publishDate = "2017-11-13T18:07:00-05:00"
-related_articles = ["articles/in-review-the-marriage-of-figaro.md","articles/nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in.md"]
-related_companies = ["scene/companies/minnesota-opera.md"]
-related_people = ["scene/people/jacques-imbrailo.md","scene/people/nadia-fayad.md","scene/people/richard-ollarsaba.md","scene/people/johanni-van-oostrum.md","scene/people/angela-mortellaro.md"]
-short_description = "Even with the dark elements, the piece did not lose its comic lightness. It was still an evening full of laughs and slapstick, but the more serious aspects were brought forth. Along with this unexpected episode, Mortellaro&#039;s characterization of Susanna in the final two acts deviated from the common chipper portrayal of this sassy maid. She was a bride-to-be who truly didn&#039;t want to go along with the Countess&#039; plan to trap the Count."
-slug = "chiaroscuro-classics-the-marriage-of-figaro"
-title = "Chiaroscuro classics: The Marriage of Figaro"
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2017-11-13T17:38:00-05:00"
+lastmod: "2017-11-13T18:07:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510614192903/2017-11-13---square---DN4_8689.jpg.jpg
+primary_image_credit: 'Johanni van Oostrum as Countess Almaviva and Jacques Imbrailo
+  as Count Almaviva and The Marriage of Figaro. Photo: Dan Norman.'
+publishDate: "2017-11-13T18:07:00-05:00"
+related_articles:
+- articles/in-review-the-marriage-of-figaro.md
+- articles/nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in.md
+related_companies:
+- scene/companies/minnesota-opera.md
+related_people:
+- scene/people/jacques-imbrailo.md
+- scene/people/nadia-fayad.md
+- scene/people/richard-ollarsaba.md
+- scene/people/johanni-van-oostrum.md
+- scene/people/angela-mortellaro.md
+short_description: Even with the dark elements, the piece did not lose its comic lightness.
+  It was still an evening full of laughs and slapstick, but the more serious aspects
+  were brought forth. Along with this unexpected episode, Mortellaro&#039;s characterization
+  of Susanna in the final two acts deviated from the common chipper portrayal of this
+  sassy maid. She was a bride-to-be who truly didn&#039;t want to go along with the
+  Countess&#039; plan to trap the Count.
+slug: chiaroscuro-classics-the-marriage-of-figaro
+title: 'Chiaroscuro classics: The Marriage of Figaro'
+---
 
 On November 11, [*The Marriage of Figaro*](http://www.mnopera.org/season/2017-2018/the-marriage-of-figaro/) opened at [Minnesota Opera](/scene/companies/minnesota-opera/) at the Ordway Performing Arts Center. The show was headed by [Richard Ollarsaba](/scene/people/richard-ollarsaba/) as Figaro, and [Angela Mortellaro](/scene/people/angela-mortellaro/) as his bride, Susanna. The Countess was sung by South African soprano [Johanni Van Oostrum](/scene/people/johanni-van-oostrum/). Her luscious high notes filled the hall.  [Adriana Zabala](http://www.mnopera.org/biography/adriana-zabala-2/) sang an energetic Cherubino. Count Almaviva, [Jacques Imbrailo](/scene/people/jacques-imbrailo/), was appropriately slimy, but lacked palpable outrage and anger in the first two acts.
 

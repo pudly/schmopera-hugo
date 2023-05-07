@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-04-25T10:30:00+01:00"
-lastmod = "2016-04-25T13:51:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461588377579/2016-04-25---CooteClaytonFinley.jpg.jpg"
-primary_image_credit = "Clockwise from top left: Allan Clayton, Alice Coote, Gerald Finley."
-publishDate = "2016-04-25T13:51:00+01:00"
-related_articles = ["articles/still-stunning-written-on-skin.md","articles/in-review-enos-the-magic-flute.md"]
-related_people = ["scene/people/allan-clayton.md","scene/people/alice-coote.md","scene/people/gerald-finley.md"]
-short_description = "Coote and Clayton shared perfect moments of acknowledgement from their places on opposite sides of the conductor&#039;s podium. She was stunning to watch; she had such specificity on her face, from her almost-shy greeting of Gerontius, to her wise, tour-guide qualities as she takes him through his first moments in the afterlife."
-slug = "great-nights-the-dream-of-gerontius"
-title = "Great nights: The Dream of Gerontius"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-04-25T10:30:00+01:00"
+lastmod: "2016-04-25T13:51:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461588377579/2016-04-25---CooteClaytonFinley.jpg.jpg
+primary_image_credit: 'Clockwise from top left: Allan Clayton, Alice Coote, Gerald
+  Finley.'
+publishDate: "2016-04-25T13:51:00+01:00"
+related_articles:
+- articles/still-stunning-written-on-skin.md
+- articles/in-review-enos-the-magic-flute.md
+related_people:
+- scene/people/allan-clayton.md
+- scene/people/alice-coote.md
+- scene/people/gerald-finley.md
+short_description: Coote and Clayton shared perfect moments of acknowledgement from
+  their places on opposite sides of the conductor&#039;s podium. She was stunning
+  to watch; she had such specificity on her face, from her almost-shy greeting of
+  Gerontius, to her wise, tour-guide qualities as she takes him through his first
+  moments in the afterlife.
+slug: great-nights-the-dream-of-gerontius
+title: 'Great nights: The Dream of Gerontius'
+---
 
 It's said that Edward Elgar wasn't satisfied with calling his *The Dream of Gerontius* an oratorio, and it's not hard to see why. Last night's performance by the London Symphony Orchestra, under Sir Mark Elder, had the look of an oratorio, with singers holding scores and in-concert dress filling the stage of the Barbican Centre's Hall, yet the work itself was full of such specificity and honed drama that it felt, well, operatic.
 

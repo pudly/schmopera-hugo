@@ -1,19 +1,22 @@
-+++
-date = "2015-04-07T08:58:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-07T08:59:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428411552037/CharlotteKnight.jpg.jpg"
-publishDate = "2015-04-07T08:58:00-04:00"
-related_companies = ["scene/companies/toronto-operetta-theatre.md","scene/companies/halifax-summer-opera-festival.md","scene/companies/no-strings-theatre.md"]
-slug = "charlotte-knight"
-title = "Charlotte Knight"
-website = "http://charlotteknightsoprano.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/charlotteknightsoprano"
-_template = "people_single"
-+++
+---
+date: "2015-04-07T08:58:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-07T08:59:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428411552037/CharlotteKnight.jpg.jpg
+publishDate: "2015-04-07T08:58:00-04:00"
+related_companies:
+- scene/companies/toronto-operetta-theatre.md
+- scene/companies/halifax-summer-opera-festival.md
+- scene/companies/no-strings-theatre.md
+slug: charlotte-knight
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/charlotteknightsoprano
+title: Charlotte Knight
+website: http://charlotteknightsoprano.com/
+---
 
 <p>
 	A "promising talent" (Opera Canada), soprano <strong>Charlotte Knight</strong> is establishing herself as an emerging artist on both opera and concert stages across Canada.

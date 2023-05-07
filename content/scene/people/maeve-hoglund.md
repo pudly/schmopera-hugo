@@ -1,24 +1,25 @@
-+++
-date = "2017-09-19T15:21:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-09-19T15:21:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505848782252/Press_Photo.jpg.jpg"
-primary_image_credit = "S. Richards Photography"
-publishDate = "2017-09-19T15:21:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/on-site-opera.md"]
-slug = "maeve-hoglund"
-title = "Maeve Höglund"
-website = "http://maevehoglund.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/maeve.hoglund"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/maevehoglund"
-_template = "people_single"
-+++
+---
+date: "2017-09-19T15:21:00-04:00"
+discipline: Soprano
+lastmod: "2017-09-19T15:21:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505848782252/Press_Photo.jpg.jpg
+primary_image_credit: S. Richards Photography
+publishDate: "2017-09-19T15:21:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/on-site-opera.md
+slug: maeve-hoglund
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/maeve.hoglund
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/maevehoglund
+title: Maeve Höglund
+website: http://maevehoglund.com/
+---
 
 The New York Times praised Maeve Höglund as “a striking soprano,” and one who “stands out among singers.” For her performance of *Carmina Burana* with Tuscan Symphony Orchestra, Green Valley News proclaimed that "Höglund possesses a crystalline range in both chest and head tones and the unerring ear required in this late-romantic/early modernist piece. She had no trouble staying atop the large orchestra and chorus with powerful and a pleasantly penetrating timbre." Her performance of the Princess in *Die Prinzessin auf der Erbse* with Gotham Chamber Opera was described as “portrayed with flair by the excellent soprano Maeve Höglund” while the Kurt Weill Newsletter observed “the hyper-fussy Princess (the stunning-voiced soprano Maeve Höglund) toss[ed] restlessly in bed....Höglund reaffirmed her status as the evening’s vocal stand-out after intermission, in the Hindemith.”
 

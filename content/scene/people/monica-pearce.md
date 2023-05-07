@@ -1,24 +1,25 @@
-+++
-date = "2016-03-11T21:19:00+00:00"
-discipline = "Composer"
-lastmod = "2016-03-11T21:19:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457731093973/2016-03-11---MonicaPearceHeadshot.jpg.jpg"
-primary_image_credit = "Terry Lim"
-publishDate = "2016-03-11T21:19:00+00:00"
-related_companies = ["scene/companies/toy-piano-composers.md","scene/companies/the-bicycle-opera-project.md"]
-slug = "monica-pearce"
-title = "Monica Pearce"
-website = "http://www.monicapearce.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Monica-Pearce-218295761601381/?ref=bookmarks"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/monicampearce"
-_template = "people_single"
-+++
+---
+date: "2016-03-11T21:19:00+00:00"
+discipline: Composer
+lastmod: "2016-03-11T21:19:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457731093973/2016-03-11---MonicaPearceHeadshot.jpg.jpg
+primary_image_credit: Terry Lim
+publishDate: "2016-03-11T21:19:00+00:00"
+related_companies:
+- scene/companies/toy-piano-composers.md
+- scene/companies/the-bicycle-opera-project.md
+slug: monica-pearce
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Monica-Pearce-218295761601381/?ref=bookmarks
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/monicampearce
+title: Monica Pearce
+website: http://www.monicapearce.com/
+---
 
 Monica Pearce, originally from Prince Edward Island, is a composer of new classical/contemporary music with a particular affinity for solo and chamber music, opera, and electronics. After completing her Bachelor of Music at Mount Allison University with a focus on piano and composition, studying with David Rogosin (piano) and Ian Crutchley and James Code (composition), Monica completed her Masters of Music in Composition at the University of Toronto with the mentorship of Alexander Rapoport and Gary Kulesha. She currently studies composition independently with Linda Catlin Smith.
 

@@ -1,22 +1,27 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = 2022-11-21T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1669126432/media/2022/11/sqUncovered__ChrisCarr_RachelPolicar_Altar_k9ieic.jpg"
-primary_image_credit = "Chris Carr (Levi) and Rachel Policar (Leah) in Uncovered, produced by City Lyric Opera and premiered at HERE Arts Center, 2022. Photo: Carol Rosegg."
-related_articles = ["articles/counterculture.md", "articles/watch-with-headphones-rumspringawakening.md"]
-related_companies = []
-related_people = []
-short_description = "There is an unfortunate trend currently in live theater. It’s not clear if the demand is coming from audiences or from theater companies who are either listening to their audiences or to the bottom line of their budgets. "
-slug = "running-time"
-title = "Running Time"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2022-11-21T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1669126432/media/2022/11/sqUncovered__ChrisCarr_RachelPolicar_Altar_k9ieic.jpg
+primary_image_credit: 'Chris Carr (Levi) and Rachel Policar (Leah) in Uncovered, produced
+  by City Lyric Opera and premiered at HERE Arts Center, 2022. Photo: Carol Rosegg.'
+related_articles:
+- articles/counterculture.md
+- articles/watch-with-headphones-rumspringawakening.md
+related_companies: []
+related_people: []
+short_description: 'There is an unfortunate trend currently in live theater. It’s
+  not clear if the demand is coming from audiences or from theater companies who are
+  either listening to their audiences or to the bottom line of their budgets. '
+slug: running-time
+title: Running Time
+youtube_url: ""
+---
 There is an unfortunate trend currently in live theater. It's not clear if the demand is coming from audiences or from theater companies who are either listening to their audiences or to the bottom line of their budgets. The trend is to present works that have no intermission, and this may satisfy those who have short attention spans and force artists to make decisions about potential overindulgence. But it can also be harmful when it comes to telling a complete and compelling story.
 
 [_Uncovered_](https://www.citylyricopera.org/uncovered), a new opera with a running time of 90 minutes (with no intermission) is a strong example of a work of art compromised by the need to avoid the more traditional two-act or multi-act formats. [The New York premiere](https://www.citylyricopera.org/uncovered) of this work at the HERE Arts Center has a lot going for it…a LOT…but the enormous potential of a full, satisfying meal is reduced to a sometimes delicious appetizer of Swiss cheese.

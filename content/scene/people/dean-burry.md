@@ -1,20 +1,22 @@
-+++
-date = "2015-04-07T16:21:00-04:00"
-discipline = "Composer"
-lastmod = "2015-04-07T16:21:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1621707175/media/2021/05/Watershed-DeanBurryWatershedArtisticDirector_yhrdun.jpg"
-publishDate = "2015-04-07T16:21:00-04:00"
-related_companies = ["scene/companies/opera-lyra-ottawa.md", "scene/companies/canadian-opera-company.md", "scene/companies/canadian-childrens-opera-company.md"]
-slug = "dean-burry"
-title = "Dean Burry"
-website = "http://www.deanburry.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/dmburry"
-
-_template = "people_single"
-+++
+---
+date: "2015-04-07T16:21:00-04:00"
+discipline: Composer
+lastmod: "2015-04-07T16:21:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1621707175/media/2021/05/Watershed-DeanBurryWatershedArtisticDirector_yhrdun.jpg
+publishDate: "2015-04-07T16:21:00-04:00"
+related_companies:
+- scene/companies/opera-lyra-ottawa.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-childrens-opera-company.md
+slug: dean-burry
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/dmburry
+title: Dean Burry
+website: http://www.deanburry.com/
+---
 Composer and librettist Dean Burry is a storyteller. In addition to his extensive work in the opera and concert music fields, he has become one of the world’s leading composers of children’s opera, his works receiving performances across Canada, the United States, Europe, China and Brazil. At over 600 performances, his opera _The Brothers Grimm_ is one of the most produced operas of the twenty-first century and his operatic adaptation of J.R.R. Tolkien’s _The Hobbit_ recently received its European premiere to sold out houses in Ljubljana, Slovenia. His recent engagement as Artistic Director of the Canadian Children’s Opera Company saw the organization double in size, and included the creation of the first ever Toronto Festival of Children’s Opera, a European tour of the critically-acclaimed production _Brundibàr_, and a star-studded 50th Anniversary Gala at the Four Seasons Centre for the Performing Arts. In addition to a professorship at the Glenn Gould Professional School in Toronto, Burry is the director of the Opera Creation Lab (Centre for Opera Studies in Italy) in Sulmona, Italy and lectures internationally on opera composition and the Canadian operatic canon. Burry is currently an Assistant Professor at the Dan School of Drama and Music at Queen’s University and Artistic Director of the school’s Music Theatre Creation Program.
 
 Burry was born in St. John’s, Newfoundland, but grew up in the small town of Gander. As both his parents’ families came from small outport communities, he spent a great deal of time by the ocean and out in his father’s boat. Music is in the blood of Newfoundlanders, and it was in this environment that Burry began his own artistic journey. Early piano lessons were not completely satisfying, and it wasn’t until a teacher encouraged his desire for composition, at age 10, that music became a passion. Theatre was another great interest and soon he was writing plays and music for the school drama club. His first produced script, _Good Gods_, won the local drama festival in 1987.

@@ -1,17 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-09-26T17:40:00-04:00"
-lastmod = "2017-09-27T09:49:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506473989348/2017-09-26---RBA.jpg.jpg"
-publishDate = "2017-09-26T21:11:00-04:00"
-related_articles = ["articles/lieder-for-lunch-the-coc-ensemble-studio-in-recital.md","articles/in-review-opra-de-montrals-atelier-lyrique-joins-the-coc-ensemble-studio.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
-related_people = ["scene/people/simone-mcintosh.md","scene/people/stephane-mayer.md","scene/people/danika-lorn.md","scene/people/bruno-roy.md","scene/people/megan-quick.md","scene/people/lauren-eberwein.md","scene/people/samuel-chan.md","scene/people/rachael-kerr.md","scene/people/samantha-pickett.md"]
-short_description = "With the help of pianists Stéphane Mayer and Rachael Kerr, the seven singers of the 2017/18 Ensemble Studio broke the ice with a single aria each, showing off their start-of-season stuff. It was a collection of picks from the standard operatic canon for this concert entitled, Meet the Ensemble Studio; safe as their choices may have been, the young singers each made strong statements about what they were offering the rapt audience."
-slug = "meeting-for-lunch-the-coc-ensemble-studio-in-recital"
-title = "Meeting for lunch: the COC Ensemble Studio in recital"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-09-26T17:40:00-04:00"
+lastmod: "2017-09-27T09:49:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506473989348/2017-09-26---RBA.jpg.jpg
+publishDate: "2017-09-26T21:11:00-04:00"
+related_articles:
+- articles/lieder-for-lunch-the-coc-ensemble-studio-in-recital.md
+- articles/in-review-opra-de-montrals-atelier-lyrique-joins-the-coc-ensemble-studio.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+related_people:
+- scene/people/simone-mcintosh.md
+- scene/people/stephane-mayer.md
+- scene/people/danika-lorn.md
+- scene/people/bruno-roy.md
+- scene/people/megan-quick.md
+- scene/people/lauren-eberwein.md
+- scene/people/samuel-chan.md
+- scene/people/rachael-kerr.md
+- scene/people/samantha-pickett.md
+short_description: With the help of pianists Stéphane Mayer and Rachael Kerr, the
+  seven singers of the 2017/18 Ensemble Studio broke the ice with a single aria each,
+  showing off their start-of-season stuff. It was a collection of picks from the standard
+  operatic canon for this concert entitled, Meet the Ensemble Studio; safe as their
+  choices may have been, the young singers each made strong statements about what
+  they were offering the rapt audience.
+slug: meeting-for-lunch-the-coc-ensemble-studio-in-recital
+title: 'Meeting for lunch: the COC Ensemble Studio in recital'
+---
 
 Just like the ubiquitous sirens along University Avenue that permeate the sounds coming from the Richard Bradshaw Amphitheatre, the new season of the COC's [Free Concert Series](http://www.coc.ca/PerformancesAndTickets/FreeConcertSeries.aspx) begins with its annual introduction to the young artists of the Ensemble Studio.
 

@@ -1,20 +1,23 @@
-+++
-date = "2017-10-02T13:43:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-10-02T13:43:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506965969041/download%20(3).jpeg.jpeg"
-primary_image_credit = "Kristin Hoebermann"
-publishDate = "2017-10-02T13:43:00-04:00"
-related_companies = ["scene/companies/minnesota-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/wolf-trap-opera.md"]
-slug = "nadia-fayad"
-title = "Nadia Fayad"
-website = "http://www.nadiafayad.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/nfayad/"
-_template = "people_single"
-+++
+---
+date: "2017-10-02T13:43:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-10-02T13:43:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506965969041/download%20(3).jpeg.jpeg
+primary_image_credit: Kristin Hoebermann
+publishDate: "2017-10-02T13:43:00-04:00"
+related_companies:
+- scene/companies/minnesota-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/wolf-trap-opera.md
+slug: nadia-fayad
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/nfayad/
+title: Nadia Fayad
+website: http://www.nadiafayad.com/
+---
 
 American mezzo-soprano Nadia Fayad, acclaimed by Opera News  for her "richly expressive lower register" and by the Wall Street Journal as displaying "a remarkably potent mezzo-soprano", is quickly making a name for herself at home and abroad. She is passionate about conveying honesty and theatrical expression in her diverse roles in a variety of genres.
 

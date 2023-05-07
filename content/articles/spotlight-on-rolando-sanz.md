@@ -1,19 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-02-03T18:14:00-05:00"
-lastmod = "2016-02-16T17:33:00-05:00"
-preamble = "Tenor [Rolando Sanz](/scene/people/rolando-sanz/) has an enviable schedule, singing roles like Alfredo in *La traviata*, Nemorino in *L'elisir d'amore*, and Rodolfo in *La bohème*. He reprises Alfredo with Ash Lawn Opera in May, and he's currently juggling understudy responsibilities at [The Metropolitan Opera](/scene/people/the-metropolitan-opera/) for their ongoing production of *Otello*.\n\nDespite his busy schedule, Sanz found time to talk about his bucket list roles, and all the things \"good singing\" can mean. \"One does not need to \"appreciate\" singing to know what good singing is...we all know it when we hear it, and the goosebumps are proof positive of that.\""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454541282516/2016-02-03---Rolando-Sanz-Square.jpg.jpg"
-primary_image_credit = "Photo by Kristin Hoebermann."
-publishDate = "2016-02-17T08:00:00-05:00"
-related_articles = ["articles/talking-with-singers-elizabeth-deshong.md","articles/talking-with-singers-nicole-cabell.md","articles/talking-with-singers-othalie-graham.md","articles/talking-with-singers-christine-goerke.md","articles/spotlight-on-diego-silva.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/rolando-sanz.md"]
-short_description = "&quot;I became a singer because it was the way I found best to express myself. Some people express themselves best with a paintbrush, or on the soccer field, or by going into politics. Since I was young, I always found my sense of self-expression was connected to music. What began as a hobby as a child has turned into a career as a professional opera singer.&quot;"
-slug = "spotlight-on-rolando-sanz"
-title = "Spotlight on: Rolando Sanz"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-02-03T18:14:00-05:00"
+lastmod: "2016-02-16T17:33:00-05:00"
+preamble: |-
+  Tenor [Rolando Sanz](/scene/people/rolando-sanz/) has an enviable schedule, singing roles like Alfredo in *La traviata*, Nemorino in *L'elisir d'amore*, and Rodolfo in *La bohème*. He reprises Alfredo with Ash Lawn Opera in May, and he's currently juggling understudy responsibilities at [The Metropolitan Opera](/scene/people/the-metropolitan-opera/) for their ongoing production of *Otello*.
+
+  Despite his busy schedule, Sanz found time to talk about his bucket list roles, and all the things "good singing" can mean. "One does not need to "appreciate" singing to know what good singing is...we all know it when we hear it, and the goosebumps are proof positive of that."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454541282516/2016-02-03---Rolando-Sanz-Square.jpg.jpg
+primary_image_credit: Photo by Kristin Hoebermann.
+publishDate: "2016-02-17T08:00:00-05:00"
+related_articles:
+- articles/talking-with-singers-elizabeth-deshong.md
+- articles/talking-with-singers-nicole-cabell.md
+- articles/talking-with-singers-othalie-graham.md
+- articles/talking-with-singers-christine-goerke.md
+- articles/spotlight-on-diego-silva.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/rolando-sanz.md
+short_description: '&quot;I became a singer because it was the way I found best to
+  express myself. Some people express themselves best with a paintbrush, or on the
+  soccer field, or by going into politics. Since I was young, I always found my sense
+  of self-expression was connected to music. What began as a hobby as a child has
+  turned into a career as a professional opera singer.&quot;'
+slug: spotlight-on-rolando-sanz
+title: 'Spotlight on: Rolando Sanz'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

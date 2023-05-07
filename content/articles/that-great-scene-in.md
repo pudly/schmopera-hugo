@@ -1,14 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-date = "2014-03-12T09:00:00-04:00"
-lastmod = "2015-04-26T00:15:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430021689642/scene-720x480.jpg.jpg"
-publishDate = "2014-03-12T09:00:00-04:00"
-related_articles = ["articles/4-opera-scenes-that-should-have-happened.md"]
-short_description = "I&#039;m on the House of Cards train, because I&#039;m always rooting for the underdog. Kevin Spacey&#039;s the underdog, right? Anyway, I watched this brilliant scene play out in one of the episodes; it was one of those incredible scenes where both parties have clear objectives, but one party&#039;s objective is to screw the other party over. "
-slug = "that-great-scene-in"
-title = "That great scene in..."
-+++
+---
+author:
+- authors/jenna.md
+date: "2014-03-12T09:00:00-04:00"
+lastmod: "2015-04-26T00:15:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430021689642/scene-720x480.jpg.jpg
+publishDate: "2014-03-12T09:00:00-04:00"
+related_articles:
+- articles/4-opera-scenes-that-should-have-happened.md
+short_description: 'I&#039;m on the House of Cards train, because I&#039;m always
+  rooting for the underdog. Kevin Spacey&#039;s the underdog, right? Anyway, I watched
+  this brilliant scene play out in one of the episodes; it was one of those incredible
+  scenes where both parties have clear objectives, but one party&#039;s objective
+  is to screw the other party over. '
+slug: that-great-scene-in
+title: That great scene in...
+---
 
 I'm on the _House of Cards_ train, because I'm always rooting for the underdog. Kevin Spacey's the underdog, right? Anyway, I watched this brilliant scene play out in one of the episodes; it was one of those incredible scenes where both parties have clear objectives, but one party's objective is to _screw the other party over_. I don't know what it says about me that I love scenes like this, but it's what makes me love Quentin Tarantino. Christoph Waltz, anyone?
 

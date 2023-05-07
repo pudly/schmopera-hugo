@@ -1,22 +1,32 @@
-+++
-author = ["authors/michael-zarathuscook.md"]
-categories = "Review"
-date = 2020-02-23T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582316264/media/2020/02/sqTapJacqueline-photobyDahliaKatz-0337_cfn7zb.jpg"
-primary_image_credit = "Marnie Breckenridge and Matt Haimovitz in Jacqueline, Tapestry Opera, 2020. Photo: Dahlia Katz."
-related_articles = ["articles/a-perfect-fit-the-overcoat.md", "articles/talking-with-singers-marnie-breckenridge.md"]
-related_companies = ["scene/companies/tapestry-opera.md", "scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/marnie-breckenridge.md"]
-short_description = "The opera provides two alternative voices to reveal the complexities of du Pré's personhood; music written for the voice in a way reveals her public personality, along with hear-say gathered from relationships and journals, while music written for the cello presents a quieter inner voice, the private room of her spiritual thoughts."
-slug = "jacqueline-come-for-the-music-stay-for-everything-else"
-title = "Jacqueline: Come for the music, stay for everything else"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/michael-zarathuscook.md
+categories: Review
+date: "2020-02-23T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1582316264/media/2020/02/sqTapJacqueline-photobyDahliaKatz-0337_cfn7zb.jpg
+primary_image_credit: 'Marnie Breckenridge and Matt Haimovitz in Jacqueline, Tapestry
+  Opera, 2020. Photo: Dahlia Katz.'
+related_articles:
+- articles/a-perfect-fit-the-overcoat.md
+- articles/talking-with-singers-marnie-breckenridge.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/marnie-breckenridge.md
+short_description: The opera provides two alternative voices to reveal the complexities
+  of du Pré's personhood; music written for the voice in a way reveals her public
+  personality, along with hear-say gathered from relationships and journals, while
+  music written for the cello presents a quieter inner voice, the private room of
+  her spiritual thoughts.
+slug: jacqueline-come-for-the-music-stay-for-everything-else
+title: 'Jacqueline: Come for the music, stay for everything else'
+youtube_url: ""
+---
 Tapestry Opera continues their 40th anniversary season with _Jacqueline_, a commission for Canadian librettist Royce Vavrek and American composer Luna Pearl Woolf; the end result, directed by Tapestry Artistic Director Michael Mori, is something of a living retrospective of the life and times—and plight—of seminal cellist Jacquelin du Pré. A living retrospective because one-half of the two-person show is cellist Matt Haimovitz, who in his teens enjoyed a relationship with an ailing du Pré, at the invitation of her husband and music partner Daniel Barenboim. His presence on stage and behind his instrument added a silent narrative to the work, adding equal parts gravitas and relatability. There's an ambiguous line of separation between his performance from the fact of the personal memories he was sharing through music.
 
 <figure data-type="image">

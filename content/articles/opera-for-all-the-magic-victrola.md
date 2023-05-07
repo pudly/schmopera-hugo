@@ -1,18 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-11-30T22:06:00-05:00"
-lastmod = "2017-12-02T17:33:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512253336103/2017-11-30---square---DSC_4141.jpg.jpg"
-primary_image_credit = "James Dunn as Sam and Megan Dunn as Gracie in the Canadian Opera Company’s new production of The Magic Victrola (Opera for Young Audiences, 2017), photo: Gaetz Photography."
-publishDate = "2017-12-02T17:33:00-05:00"
-related_articles = ["articles/for-kids-grownups-alike-the-scorpions-sting.md","articles/a-hit-with-the-kids-wow-factor.md"]
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/andrew-haji.md","scene/people/danika-lorn.md","scene/people/megan-quick.md","scene/people/simone-mcintosh.md","scene/people/samuel-chan.md","scene/people/bruno-roy.md","scene/people/lauren-eberwein.md","scene/people/samantha-pickett.md","scene/people/stephane-mayer.md"]
-short_description = "The Magic Victrola features opera&#039;s top-shelf tunes: the Lakmé Flower Duet, Carmen&#039;s &quot;Habanera&quot;, the infamous &quot;O mio babbino caro&quot; from Gianni Schicchi; perhaps less well-known are the picks that stand for larger operatic truths, like the textbook bel canto of &quot;Quanto è bella&quot; (L&#039;elisir d&#039;amore), the delicious coloratura of the &quot;Doll Song&quot; (Les contes d&#039;Hoffmann), and timeless scenes from The Magic Flute."
-slug = "opera-for-all-the-magic-victrola"
-title = "Opera for all: The Magic Victrola"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-11-30T22:06:00-05:00"
+lastmod: "2017-12-02T17:33:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512253336103/2017-11-30---square---DSC_4141.jpg.jpg
+primary_image_credit: 'James Dunn as Sam and Megan Dunn as Gracie in the Canadian
+  Opera Company’s new production of The Magic Victrola (Opera for Young Audiences,
+  2017), photo: Gaetz Photography.'
+publishDate: "2017-12-02T17:33:00-05:00"
+related_articles:
+- articles/for-kids-grownups-alike-the-scorpions-sting.md
+- articles/a-hit-with-the-kids-wow-factor.md
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/andrew-haji.md
+- scene/people/danika-lorn.md
+- scene/people/megan-quick.md
+- scene/people/simone-mcintosh.md
+- scene/people/samuel-chan.md
+- scene/people/bruno-roy.md
+- scene/people/lauren-eberwein.md
+- scene/people/samantha-pickett.md
+- scene/people/stephane-mayer.md
+short_description: 'The Magic Victrola features opera&#039;s top-shelf tunes: the
+  Lakmé Flower Duet, Carmen&#039;s &quot;Habanera&quot;, the infamous &quot;O mio
+  babbino caro&quot; from Gianni Schicchi; perhaps less well-known are the picks that
+  stand for larger operatic truths, like the textbook bel canto of &quot;Quanto è
+  bella&quot; (L&#039;elisir d&#039;amore), the delicious coloratura of the &quot;Doll
+  Song&quot; (Les contes d&#039;Hoffmann), and timeless scenes from The Magic Flute.'
+slug: opera-for-all-the-magic-victrola
+title: 'Opera for all: The Magic Victrola'
+---
 
 Opera purists may recoil from the idea of a revue-type show, of a mash-up of hits from the most beloved works from the canon, tied loosely together with a makeshift plot and connect-the-dots dialogue. Essentially, that's what a young-audience-friendly piece like *The Magic Victrola* is. Yet the current [production by the Canadian Opera Company](http://www.coc.ca/PerformancesAndTickets/1718Season/OperaforYoungAudiences.aspx) is well done, wrapped up tightly with a smart bow; it's a reminder that excellent artistry - be it singing, direction, or design - can result in an exception to anyone's aesthetic rule.
 

@@ -1,16 +1,22 @@
-+++
-author = ["authors/vivian-darkbloom.md"]
-categories = "Review"
-date = "2018-05-23T11:43:00-04:00"
-lastmod = "2018-05-23T19:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527090081733/sqiTheOpera20.jpg.jpg"
-primary_image_credit = "'i' - The Opera, Waste Paper Opera, 2018. Photo: Frank Gallaugher."
-publishDate = "2018-05-23T11:43:00-04:00"
-related_articles = ["articles/killer-women-shadwell-operas-doublebill.md","articles/tarrare-the-freak-i-just-want-to-be-full.md"]
-short_description = "The design of the opera, under the obviously careful eye of Kofen, felt almost Bauhaus-inspired, which really worked with the bonkers nature of both the libretto (also by Kofen) and the music and the DIY nature of the costumes (mostly made out of waste paper, hence the company&#039;s name)."
-slug = "i-opera-run-by-the-cool-kids"
-title = "&#039;i&#039;: opera run by the cool kids"
-+++
+---
+author:
+- authors/vivian-darkbloom.md
+categories: Review
+date: "2018-05-23T11:43:00-04:00"
+lastmod: "2018-05-23T19:56:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527090081733/sqiTheOpera20.jpg.jpg
+primary_image_credit: '''i'' - The Opera, Waste Paper Opera, 2018. Photo: Frank Gallaugher.'
+publishDate: "2018-05-23T11:43:00-04:00"
+related_articles:
+- articles/killer-women-shadwell-operas-doublebill.md
+- articles/tarrare-the-freak-i-just-want-to-be-full.md
+short_description: The design of the opera, under the obviously careful eye of Kofen,
+  felt almost Bauhaus-inspired, which really worked with the bonkers nature of both
+  the libretto (also by Kofen) and the music and the DIY nature of the costumes (mostly
+  made out of waste paper, hence the company&#039;s name).
+slug: i-opera-run-by-the-cool-kids
+title: '&#039;i&#039;: opera run by the cool kids'
+---
 
 Upon entering the upstairs room of the Balham Bowles Club, one senses a strange juxtaposition between ballroom and working men's club. The stage area looks a little tired and the décor more akin to a dining room than a makeshift opera house. As people took to their seats, the energy seemed slightly odd...perhaps people were uncertain of what to expect from the show, titled [*'i' - The Opera*](http://www.wastepaperopera.com/i---the-opera.html), that marketed itself as the world's first opera partially written by a neural network. 
 

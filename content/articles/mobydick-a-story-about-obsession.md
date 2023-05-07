@@ -1,19 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-01-11T17:33:00-05:00"
-lastmod = "2018-01-12T13:57:00-05:00"
-preamble = "As part of Utah Opera's 40th anniversary season, Jake Heggie's *Moby-Dick* will see its first new staging since its original production, premiered at The Dallas Opera in 2010. Kristine McIntyre directs the new production, running **January 20-28**; *Moby-Dick* marks her latest collaboration with Heggie, after directing his *Dead Man Walking* (Des Moines Metro Opera, Madison Opera) and *The End of the Affair* (Lyric Opera of Kansas City).\n\nWe spoke with McIntyre about the unique responsibility of directing a contemporary opera, and her take on the role of the opera director."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515718883616/2018-01-11---Moby-Dick-sq.jpg.jpg"
-primary_image_credit = "Roger Honeywell as Captain Ahab in Kristine McIntyre's production of Moby-Dick, Utah Opera, 2018. Photo courtesy of Utah Opera."
-publishDate = "2018-01-11T20:13:00-05:00"
-related_companies = ["scene/companies/utah-opera.md"]
-related_people = ["scene/people/roger-honeywell.md"]
-short_description = "&quot;I think Moby-Dick is ultimately about the redeeming power of friendship - and how an open heart can literally save your life. It&#039;s no accident that in both the book and the opera, Greenhorn (Ishmael) is saved from drowning by floating on the coffin on his new dear friend Queequeg, who is a &#039;foreigner&#039; and a &#039;savage.&#039;&quot;"
-slug = "moby-dick-a-story-about-obsession"
-title = "Moby-Dick: &quot;A story about obsession.&quot;"
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-01-11T17:33:00-05:00"
+lastmod: "2018-01-12T13:57:00-05:00"
+preamble: |-
+  As part of Utah Opera's 40th anniversary season, Jake Heggie's *Moby-Dick* will see its first new staging since its original production, premiered at The Dallas Opera in 2010. Kristine McIntyre directs the new production, running **January 20-28**; *Moby-Dick* marks her latest collaboration with Heggie, after directing his *Dead Man Walking* (Des Moines Metro Opera, Madison Opera) and *The End of the Affair* (Lyric Opera of Kansas City).
 
-+++
+  We spoke with McIntyre about the unique responsibility of directing a contemporary opera, and her take on the role of the opera director.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515718883616/2018-01-11---Moby-Dick-sq.jpg.jpg
+primary_image_credit: Roger Honeywell as Captain Ahab in Kristine McIntyre's production
+  of Moby-Dick, Utah Opera, 2018. Photo courtesy of Utah Opera.
+publishDate: "2018-01-11T20:13:00-05:00"
+related_companies:
+- scene/companies/utah-opera.md
+related_people:
+- scene/people/roger-honeywell.md
+short_description: '&quot;I think Moby-Dick is ultimately about the redeeming power
+  of friendship - and how an open heart can literally save your life. It&#039;s no
+  accident that in both the book and the opera, Greenhorn (Ishmael) is saved from
+  drowning by floating on the coffin on his new dear friend Queequeg, who is a &#039;foreigner&#039;
+  and a &#039;savage.&#039;&quot;'
+slug: moby-dick-a-story-about-obsession
+title: 'Moby-Dick: &quot;A story about obsession.&quot;'
+---
 ### What are some unique pressures/challenges that come with creating a new production of a well-received contemporary opera? How do these differ from presenting a new production of a more traditional staple like *La bohème* or *Le nozze di Figaro*?
 
 I think the biggest issue is that when people see a world premiere of a new American opera, they think that the production is the piece. But there's always more story to tell, different choices to be made. For *Moby-Dick* in particular, because the original production was based almost entirely on projections, some people have trouble seeing beyond that to the opera itself. They don't know if the piece can exist beyond those particular visuals. But of course, this is a wonderful piece, and there is so much in it, and I can't wait to show people another vision of the opera. I have a completely different take on it, so it's really about getting people to come and experience the piece anew. 

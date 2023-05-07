@@ -1,22 +1,35 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Review"
-date = "2019-10-20T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Edmonton Opera’s production of Verdi's [Rigoletto](https://www.edmontonopera.com/2019-20/rigoletto) runs October 19, 22 and 25 at the Northern Alberta Jubilee Auditorium."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571583046/media/2019/10/sqRigolettoGildaJamesWestmanSharleenJoynt_mg7khm.jpg"
-primary_image_credit = "James Westman and Sharleen Joynt in Rigoletto, Edmonton Opera, 2019. Photo: Madison Kerr."
-related_articles = ["articles/cleanedup-callas-the-remastered-live-recordings.md", "articles/aria-guides-parmi-veder-le-lagrime.md", "articles/great-music-distracting-sexuality-rigoletto.md"]
-related_companies = ["scene/companies/edmonton-opera.md"]
-related_people = ["scene/people/matthew-white.md", "scene/people/james-westman.md", "scene/people/sharleen-joynt.md"]
-short_description = "With Rigoletto, Edmonton Opera connects with a wide spectrum of themes that most people will identify: the danger of power that goes unchecked, the fear when those closest to you are threatened, and the purity of love and being loved. If you've never seen an opera before, this is a production that will definitely get you hooked."
-slug = "joynt-angelic-in-canadian-debut-as-gilda-in-edmonton-operas-rigoletto"
-title = "Joynt angelic in Canadian debut as Gilda in Edmonton Opera's Rigoletto"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Review
+date: "2019-10-20T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Edmonton Opera’s production of Verdi's [Rigoletto](https://www.edmontonopera.com/2019-20/rigoletto)
+  runs October 19, 22 and 25 at the Northern Alberta Jubilee Auditorium.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571583046/media/2019/10/sqRigolettoGildaJamesWestmanSharleenJoynt_mg7khm.jpg
+primary_image_credit: 'James Westman and Sharleen Joynt in Rigoletto, Edmonton Opera,
+  2019. Photo: Madison Kerr.'
+related_articles:
+- articles/cleanedup-callas-the-remastered-live-recordings.md
+- articles/aria-guides-parmi-veder-le-lagrime.md
+- articles/great-music-distracting-sexuality-rigoletto.md
+related_companies:
+- scene/companies/edmonton-opera.md
+related_people:
+- scene/people/matthew-white.md
+- scene/people/james-westman.md
+- scene/people/sharleen-joynt.md
+short_description: 'With Rigoletto, Edmonton Opera connects with a wide spectrum of
+  themes that most people will identify: the danger of power that goes unchecked,
+  the fear when those closest to you are threatened, and the purity of love and being
+  loved. If you''ve never seen an opera before, this is a production that will definitely
+  get you hooked.'
+slug: joynt-angelic-in-canadian-debut-as-gilda-in-edmonton-operas-rigoletto
+title: Joynt angelic in Canadian debut as Gilda in Edmonton Opera's Rigoletto
+youtube_url: ""
+---
 Not all "first times" can be memorable.
 
 For [Edmonton Opera](/scene/companies/edmonton-opera/) audiences, however, the performance of [Sharleen Joynt](/scene/people/sharleen-joynt/) as a mainstage coloratura soprano will be one to remember for a long time. As Gilda in Edmonton Opera's production of Verdi's _Rigoletto_, Joynt shimmers with an angelic quality that is simply heavenly. Navigating Verdi's writing with ease, Joynt simply captivated the audience, portraying Gilda with purity and innocence. Her performance of the aria "Caro nome" was particularly exquisite; her expressiveness made Gilda a shining light amid the darker themes of lust, betrayal, and vengeance.

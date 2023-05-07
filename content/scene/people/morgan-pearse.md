@@ -1,25 +1,26 @@
-+++
-date = "2017-10-07T13:33:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-10-07T13:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546740668/media/2019/01/MorganPearse.jpg"
-primary_image_credit = "Eric Melear"
-publishDate = "2017-10-07T13:33:00-04:00"
-related_companies = ["scene/companies/english-national-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/wolf-trap-opera.md"]
-slug = "morgan-pearse"
-title = "Morgan Pearse"
-website = "https://www.morganpearse.co.uk/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/morganpearsebaritone/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/baritoneaus"
-
-_template = "people_single"
-+++
+---
+date: "2017-10-07T13:33:00-04:00"
+discipline: Baritone
+lastmod: "2017-10-07T13:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546740668/media/2019/01/MorganPearse.jpg
+primary_image_credit: Eric Melear
+publishDate: "2017-10-07T13:33:00-04:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/wolf-trap-opera.md
+slug: morgan-pearse
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/morganpearsebaritone/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/baritoneaus
+title: Morgan Pearse
+website: https://www.morganpearse.co.uk/
+---
 Morgan Pearse from Sydney, Australia is already widely recognised as one of the most exciting and talented baritones of his generation.
  
 Having made his professional début with English National Opera in 2015/16 singing Figaro in *The Barber of Seville*, Morgan returns to sing the role again at the beginning of the 2017/18 season. The rest of this season will include concerts with the Moscow Philharmonic Orchestra and Musica Viva orchestras in Russia and the Netherlands Radio Filharmonisch at the Concertgebouw, his first solo recital at the Wigmore Hall with Simon Lepper, as well as performances of roles with Opera New Zealand and the Badisches Staatstheater. Previously, Morgan has enjoyed success with performances of the title role in the Verbier Festival Academy production of *Don Giovanni*, Valens in *Theodora* in the Karlsruhe Händelfestpiele, the title role in *Le nozze di Figaro* and Papageno in *Die Zauberflöte* for the Badisches Staatstheater, covering the title role in *Billy Budd* for the Bolshoi Theatre, Sid in *Albert Herring* for the Buxton Festival and Nero in Kaiser's *Octavia* for the Innsbruck Festival of Early Music.

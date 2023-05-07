@@ -1,18 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-06-21T22:06:00-06:00"
-lastmod = "2017-06-26T21:51:00-06:00"
-preamble = "Irish-born, London-based soprano [Jennifer Davis](/scene/people/jennifer-davis/) is a Jette Parker Young Artist at the [Royal Opera House](/scene/people/royal-opera-house/), and she's currently in the middle of a run of [*Mitridate, re di Ponto* at Covent Garden](http://www.roh.org.uk/productions/mitridate-re-di-ponto-by-graham-vick) (onstage until July 7). Roles like Donna Anna (*Don Giovanni*), the Governess (*The Turn of the Screw*), and Adina (*L'elisir d'amore*) keep Davis busy onstage, and she first caught our attention as Ifigenia in Handel's [*Oreste*](/in-review-the-jette-parker-young-artists-present-oreste/) at Wilton's Music Hall.\n\nDavis comes by music honestly; she chats about being surrounded by music and singing in her youth, and the undeniable love she has developed for opera and the stage."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498104480090/2017-06-22---Jennifer-Davis---square.jpg.jpg"
-publishDate = "2017-06-26T21:21:00-06:00"
-related_articles = ["articles/talking-with-singers-david-shipley.md","articles/talking-with-singers-corinne-winters.md","articles/talking-with-singers-sondra-radvanovsky.md","articles/spotlight-on-emily-edmonds.md","articles/spotlight-on-alice-privett.md","articles/in-review-the-jpya-summer-performance-.md","articles/talking-with-singers-vlada-borovko.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/jennifer-davis.md"]
-short_description = "&quot;Honestly, I think that most of my learning has taken place in a rehearsal room. It&#039;s there that you get to explore yourself and you also gain so much from your colleagues; their input cannot be emphasised enough. The conversations you have in those spaces are where a lot of my own self-discovery and development have taken place.&quot;"
-slug = "spotlight-on-jennifer-davis"
-title = "Spotlight on: Jennifer Davis"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-06-21T22:06:00-06:00"
+lastmod: "2017-06-26T21:51:00-06:00"
+preamble: |-
+  Irish-born, London-based soprano [Jennifer Davis](/scene/people/jennifer-davis/) is a Jette Parker Young Artist at the [Royal Opera House](/scene/people/royal-opera-house/), and she's currently in the middle of a run of [*Mitridate, re di Ponto* at Covent Garden](http://www.roh.org.uk/productions/mitridate-re-di-ponto-by-graham-vick) (onstage until July 7). Roles like Donna Anna (*Don Giovanni*), the Governess (*The Turn of the Screw*), and Adina (*L'elisir d'amore*) keep Davis busy onstage, and she first caught our attention as Ifigenia in Handel's [*Oreste*](/in-review-the-jette-parker-young-artists-present-oreste/) at Wilton's Music Hall.
+
+  Davis comes by music honestly; she chats about being surrounded by music and singing in her youth, and the undeniable love she has developed for opera and the stage.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498104480090/2017-06-22---Jennifer-Davis---square.jpg.jpg
+publishDate: "2017-06-26T21:21:00-06:00"
+related_articles:
+- articles/talking-with-singers-david-shipley.md
+- articles/talking-with-singers-corinne-winters.md
+- articles/talking-with-singers-sondra-radvanovsky.md
+- articles/spotlight-on-emily-edmonds.md
+- articles/spotlight-on-alice-privett.md
+- articles/in-review-the-jpya-summer-performance-.md
+- articles/talking-with-singers-vlada-borovko.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/jennifer-davis.md
+short_description: '&quot;Honestly, I think that most of my learning has taken place
+  in a rehearsal room. It&#039;s there that you get to explore yourself and you also
+  gain so much from your colleagues; their input cannot be emphasised enough. The
+  conversations you have in those spaces are where a lot of my own self-discovery
+  and development have taken place.&quot;'
+slug: spotlight-on-jennifer-davis
+title: 'Spotlight on: Jennifer Davis'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

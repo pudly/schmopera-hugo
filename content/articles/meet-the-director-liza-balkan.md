@@ -1,18 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-11-01T14:28:00-05:00"
-lastmod = "2015-11-06T15:41:00-05:00"
-preamble = "[Liza Balkan](/scene/people/liza-balkan/) is a Canadian dancer, actor, writer, and director of theatre and opera. After seeing her fantastic work with [The Bicycle Opera Project](/in-review-shadow-box/) this summer, I spoke with Balkan between rehearsals at The Glenn Gould School for their upcoming production of Xavier Montsalvatge's *Puss in Boots*, with Luciano Berio's *Folk Songs*. She talks about her work with Canada's fringe opera scene, and what it feels like to hear the words she writes set to music.\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446512239093/2015-11-02---Liza-Balkan---Square.jpg.jpg"
-publishDate = "2015-11-03T11:57:00-05:00"
-related_articles = ["articles/opera-directors-an-unfair-disadvantage.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/the-bicycle-opera-project.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/liza-balkan.md"]
-short_description = "&quot;Why do I do it? I love telling stories.&quot; Balkan agrees that the process can be different from theatre to opera, from workshop to finished product, but it&#039;s always inspiring. &quot;The collective minds in a room, what can be created that way is just so delicious.&quot;"
-slug = "meet-the-director-liza-balkan"
-title = "Meet the director: Liza Balkan"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-11-01T14:28:00-05:00"
+lastmod: "2015-11-06T15:41:00-05:00"
+preamble: |
+  [Liza Balkan](/scene/people/liza-balkan/) is a Canadian dancer, actor, writer, and director of theatre and opera. After seeing her fantastic work with [The Bicycle Opera Project](/in-review-shadow-box/) this summer, I spoke with Balkan between rehearsals at The Glenn Gould School for their upcoming production of Xavier Montsalvatge's *Puss in Boots*, with Luciano Berio's *Folk Songs*. She talks about her work with Canada's fringe opera scene, and what it feels like to hear the words she writes set to music.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446512239093/2015-11-02---Liza-Balkan---Square.jpg.jpg
+publishDate: "2015-11-03T11:57:00-05:00"
+related_articles:
+- articles/opera-directors-an-unfair-disadvantage.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/liza-balkan.md
+short_description: '&quot;Why do I do it? I love telling stories.&quot; Balkan agrees
+  that the process can be different from theatre to opera, from workshop to finished
+  product, but it&#039;s always inspiring. &quot;The collective minds in a room, what
+  can be created that way is just so delicious.&quot;'
+slug: meet-the-director-liza-balkan
+title: 'Meet the director: Liza Balkan'
+---
 
 ## From theatre to opera
 

@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-To"
-date = "2015-12-13T20:49:00-05:00"
-lastmod = "2015-12-15T10:03:00-05:00"
-preamble = "Ah, Don Ottavio. Is he the lame duck of *Don Giovanni*, or is he the quiet hero that doesn't get a lot of high notes? Whatever your opinions on the useless/heartfelt role of Ottavio, you can't deny that his arias are difficult, and often thankless. \"Dalla sua pace\" is an introductory piece to Ottavio's character; we get that he's sympathetic to Donna Anna's emotional highs and lows, and we know we'll never meet a more dedicated man when it comes to love.\n\nTenors, as you get to work on \"Dalla sua pace\" (a stunner when done well), be sure to involve your voice teachers. In the meantime, we can help get you off to a great start with a few tips from experience."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553303174/media/2019/03/DallaSuaPace.jpg"
-primary_image_credit = ""
-publishDate = "2015-12-15T10:03:00-05:00"
-related_articles = ["articles/aria-guides-quando-men-vo.md", "articles/aria-guides-una-furtiva-lagrima.md", "articles/aria-guides-the-counts-aria.md", "articles/aria-guide-dies-bildnis-ist-bezaubernd-schon.md", "articles/aria-guides-il-mio-tesoro.md", "articles/aria-guides-o-wie-angstlich.md", "articles/aria-guides-un-aura-amorosa.md"]
-short_description = "Ah, Don Ottavio. Is he the lame duck of Don Giovanni, or is he the quiet hero that doesn't get a lot of high notes? Whatever your opinions on the useless/heartfelt role of Ottavio, you can't deny that his arias are difficult, and often thankless. \"Dalla sua pace\" is an introductory piece to Ottavio's character; we get that he's sympathetic to Donna Anna's emotional highs and lows, and we know we'll never meet a more dedicated man when it comes to love."
-slug = "aria-guides-dalla-sua-pace"
-title = "Aria guides: Dalla sua pace"
+---
+author:
+- authors/jenna.md
+categories: How-To
+date: "2015-12-13T20:49:00-05:00"
+lastmod: "2015-12-15T10:03:00-05:00"
+preamble: |-
+  Ah, Don Ottavio. Is he the lame duck of *Don Giovanni*, or is he the quiet hero that doesn't get a lot of high notes? Whatever your opinions on the useless/heartfelt role of Ottavio, you can't deny that his arias are difficult, and often thankless. "Dalla sua pace" is an introductory piece to Ottavio's character; we get that he's sympathetic to Donna Anna's emotional highs and lows, and we know we'll never meet a more dedicated man when it comes to love.
 
-+++
+  Tenors, as you get to work on "Dalla sua pace" (a stunner when done well), be sure to involve your voice teachers. In the meantime, we can help get you off to a great start with a few tips from experience.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553303174/media/2019/03/DallaSuaPace.jpg
+primary_image_credit: ""
+publishDate: "2015-12-15T10:03:00-05:00"
+related_articles:
+- articles/aria-guides-quando-men-vo.md
+- articles/aria-guides-una-furtiva-lagrima.md
+- articles/aria-guides-the-counts-aria.md
+- articles/aria-guide-dies-bildnis-ist-bezaubernd-schon.md
+- articles/aria-guides-il-mio-tesoro.md
+- articles/aria-guides-o-wie-angstlich.md
+- articles/aria-guides-un-aura-amorosa.md
+short_description: Ah, Don Ottavio. Is he the lame duck of Don Giovanni, or is he
+  the quiet hero that doesn't get a lot of high notes? Whatever your opinions on the
+  useless/heartfelt role of Ottavio, you can't deny that his arias are difficult,
+  and often thankless. "Dalla sua pace" is an introductory piece to Ottavio's character;
+  we get that he's sympathetic to Donna Anna's emotional highs and lows, and we know
+  we'll never meet a more dedicated man when it comes to love.
+slug: aria-guides-dalla-sua-pace
+title: 'Aria guides: Dalla sua pace'
+---
 1. The overarching challenge in this aria is to keep it moving. The first bars offer the tenor no pulse onto which to latch, so he needs to create it himself. Mentally subdividing into sixteenth notes can help find direction; it also helps to take these first phrases in two-bar sections, with the first measure always leading into the second. On the little embellishments under "dipende" and "piace", there needs to be rhythm in them despite the stillness in the accompaniment. One little note: there are varying options for text underlay for "piace"; often the "-ce" is placed two sixteenth notes later, on the E-natural. In my opinion, the high G on the second syllable gives the impression of incorrect word stress, and moving the "-ce" later helps keep the word intact.<figure data-type="image">
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450060104806/Aria-Guide---Dalla---p1---annotated.jpg.jpg)

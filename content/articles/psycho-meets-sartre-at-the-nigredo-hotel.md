@@ -1,17 +1,23 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = "2018-09-21T12:52:00-04:00"
-lastmod = "2018-09-21T16:20:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537548732192/sqNigredo_Promo9of188.jpg.jpg"
-primary_image_credit = "Tyler Duncan in Nigredo Hotel, City Opera Vancouver, 2018. Photo by Michelle Koebke, Diamond's Edge Photography."
-publishDate = "2018-09-21T12:52:00-04:00"
-related_articles = ["articles/a-futuristic-love-story-the-invention-of-morel.md"]
-related_people = ["scene/people/tyler-duncan.md","scene/people/sarah-vardy.md"]
-short_description = "Director Alan Corbishley describes Nigredo (blackening) as a process that ancient alchemists believed was necessary to create the Philosopher&#039;s Stone, and thus find immortality. In psychology, this process is a metaphor for the &quot;dark night of the soul&quot; that is necessary for a person to confront in order to reach acceptance of oneself.\n"
-slug = "psycho-meets-sartre-at-the-nigredo-hotel"
-title = "Psycho meets Sartre at the Nigredo Hotel"
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2018-09-21T12:52:00-04:00"
+lastmod: "2018-09-21T16:20:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537548732192/sqNigredo_Promo9of188.jpg.jpg
+primary_image_credit: Tyler Duncan in Nigredo Hotel, City Opera Vancouver, 2018. Photo
+  by Michelle Koebke, Diamond's Edge Photography.
+publishDate: "2018-09-21T12:52:00-04:00"
+related_articles:
+- articles/a-futuristic-love-story-the-invention-of-morel.md
+related_people:
+- scene/people/tyler-duncan.md
+- scene/people/sarah-vardy.md
+short_description: |
+  Director Alan Corbishley describes Nigredo (blackening) as a process that ancient alchemists believed was necessary to create the Philosopher&#039;s Stone, and thus find immortality. In psychology, this process is a metaphor for the &quot;dark night of the soul&quot; that is necessary for a person to confront in order to reach acceptance of oneself.
+slug: psycho-meets-sartre-at-the-nigredo-hotel
+title: Psycho meets Sartre at the Nigredo Hotel
+---
 
 City Opera Vancouver's newest production of [*Nigredo Hotel*](http://cityoperavancouver.com/nigredo-hotel) is one part Carl Jung, one part 50s thriller movie, and a profound trip into the darkest parts of the human mind. 
 
