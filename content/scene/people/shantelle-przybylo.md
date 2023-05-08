@@ -1,18 +1,23 @@
-+++
-date = "2015-04-22T19:39:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-22T19:42:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429745815677/Shantelle.jpg.jpg"
-publishDate = "2015-04-22T19:39:00-04:00"
-related_companies = ["scene/companies/washington-national-opera.md","scene/companies/tapestry-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
-slug = "shantelle-przybylo"
-title = "Shantelle Przybylo"
-website = "http://againstthegraintheatre.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/przybylo"
-+++
+---
+date: "2015-04-22T19:39:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-22T19:42:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429745815677/Shantelle.jpg.jpg
+publishDate: "2015-04-22T19:39:00-04:00"
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/tapestry-opera.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-banff-centre.md
+slug: shantelle-przybylo
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/przybylo
+title: Shantelle Przybylo
+website: http://againstthegraintheatre.com/
+---
 
 Canadian soprano Shantelle Przybylo is a recent graduate of Washington National Opera’s Domingo-Cafritz Young Artist Program. At WNO, she sang Pamina and Papagena in *The Magic Flute*, Giannetta in *L’Elisir d’Amore*, Gretel in *Hansel and Gretel*, as well as Zerlina in *Don Giovanni*, a role which she reprised at the Green Mountain Opera Festival in summer 2013.
 

@@ -1,16 +1,33 @@
-+++
-author = ["authors/christopher-mokrzewski.md"]
-categories = "Editorial"
-date = "2016-11-10T10:56:00+00:00"
-lastmod = "2017-01-17T11:35:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478805992437/2016-11-10---Action.jpg.jpg"
-publishDate = "2016-11-11T11:00:00+00:00"
-related_articles = ["articles/why-we-must-keep-on-keepin-on.md", "articles/things-more-important-than-opera.md", "articles/a-response-to-our-response.md", "articles/arts-money-waste.md", "articles/arts-education-teaches-better-manners-more-preaching-to-the-choir.md", "articles/dont-miss-id-please.md", "articles/when-art-is-not-enough-opera-activism.md", "articles/in-review-sweat.md", "articles/getting-vexed-over-wagner-other-narcissisms.md", "articles/atgbound-a-shocking-immediate-connection.md", "articles/greg-jennas-roundup2017.md", "articles/leaning-into-the-discomfort.md", "articles/wherefore-art-thou-opera.md"]
-short_description = "If you seek change, do more: engage, vote, donate and work for your political party, protest, write petitions, run for office, do not take money from dubious sources out of alleged necessity and do not support or enlist those artists who do. It is our duty, as artists, and as citizens, the be a part of the process."
-slug = "art-is-not-action"
-title = "Art is not action"
-
-+++
+---
+author:
+- authors/christopher-mokrzewski.md
+categories: Editorial
+date: "2016-11-10T10:56:00+00:00"
+lastmod: "2017-01-17T11:35:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478805992437/2016-11-10---Action.jpg.jpg
+publishDate: "2016-11-11T11:00:00+00:00"
+related_articles:
+- articles/why-we-must-keep-on-keepin-on.md
+- articles/things-more-important-than-opera.md
+- articles/a-response-to-our-response.md
+- articles/arts-money-waste.md
+- articles/arts-education-teaches-better-manners-more-preaching-to-the-choir.md
+- articles/dont-miss-id-please.md
+- articles/when-art-is-not-enough-opera-activism.md
+- articles/in-review-sweat.md
+- articles/getting-vexed-over-wagner-other-narcissisms.md
+- articles/atgbound-a-shocking-immediate-connection.md
+- articles/greg-jennas-roundup2017.md
+- articles/leaning-into-the-discomfort.md
+- articles/wherefore-art-thou-opera.md
+short_description: 'If you seek change, do more: engage, vote, donate and work for
+  your political party, protest, write petitions, run for office, do not take money
+  from dubious sources out of alleged necessity and do not support or enlist those
+  artists who do. It is our duty, as artists, and as citizens, the be a part of the
+  process.'
+slug: art-is-not-action
+title: Art is not action
+---
 When is the last time you felt this badly?
 
 It's been less than twenty four hours (at the time of writing) since Il Duce (aka Donald Trump) went from seemingly impossible presidential hopeful to president-elect, and still, for the most part and for so many of us, the shock has not worn off.

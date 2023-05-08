@@ -1,22 +1,34 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = 2022-03-23T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1648045042/media/2022/03/sqAmplified1_xcur8i.jpg"
-primary_image_credit = "Aria Umezawa and Teiya Kasahara, two co-founders of Amplified Opera. Photo: Dahlia Katz."
-related_articles = ["articles/inaugural-watershed-festival-to-celebrate-opera-and-musical-theatre-in-kingston.md", "articles/good-ideas-rehearsalasperformance.md", "articles/aria-umezawa-opera-5s-die-fledermaus-with-surprises.md"]
-related_companies = ["scene/companies/amplified-opera.md"]
-related_people = ["scene/people/megan-miceli.md", "scene/people/marion-newman.md", "scene/people/aria-umezawa.md", "scene/people/teiya-kasahara.md"]
-short_description = "It's been quite the long-haul here in the GTA, but it's great to be back on the beat. After two years out of the habit, it was great to find myself at the Museum of Contemporary Art to check out Amplified Opera's first offering in their concert series — after several delays — AMPLIFY 1.0."
-slug = "review-re-telling-stories-with-amplify-1-0"
-title = "Review: Re-telling stories with Amplify 1.0"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2022-03-23T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1648045042/media/2022/03/sqAmplified1_xcur8i.jpg
+primary_image_credit: 'Aria Umezawa and Teiya Kasahara, two co-founders of Amplified
+  Opera. Photo: Dahlia Katz.'
+related_articles:
+- articles/inaugural-watershed-festival-to-celebrate-opera-and-musical-theatre-in-kingston.md
+- articles/good-ideas-rehearsalasperformance.md
+- articles/aria-umezawa-opera-5s-die-fledermaus-with-surprises.md
+related_companies:
+- scene/companies/amplified-opera.md
+related_people:
+- scene/people/megan-miceli.md
+- scene/people/marion-newman.md
+- scene/people/aria-umezawa.md
+- scene/people/teiya-kasahara.md
+short_description: It's been quite the long-haul here in the GTA, but it's great to
+  be back on the beat. After two years out of the habit, it was great to find myself
+  at the Museum of Contemporary Art to check out Amplified Opera's first offering
+  in their concert series — after several delays — AMPLIFY 1.0.
+slug: review-re-telling-stories-with-amplify-1-0
+title: 'Review: Re-telling stories with Amplify 1.0'
+youtube_url: ""
+---
 Hello, Schmop-Tops!
 
 Did ya miss me? I missed you.
@@ -25,7 +37,9 @@ It's been quite the long-haul here in the GTA, but it's great to be back on the 
 
 The newest company-in-residence with the [Canadian Opera Company](/scene/companies/canadian-opera-company/), Amplified Opera, co-founded by [Aria Umezawa](/scene/people/aria-umezawa/), [Teiya Kasahara](/scene/people/teiya-kasahara/), [Asitha Tennekoon](/scene/people/asitha-tennekoon/), and [Marion Newman](/scene/people/marion-newman/), has partnered with MOCA to present this series surrounded by the immersive exhibit, _I AM YOUR RELATIVE_ by Jeffrey Gibson — a vivid, explosion of colours, texts, and images all collected from his past decade of work prioritizing the voices of Indigenous, Black, Brown, and queer voices. The piece is intended to be used by MOCA to host a variety of interdisciplinary presentations.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1648045123/media/2022/03/Amplified1_JonathonTopher_ifg6q2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1648045123/media/2022/03/Amplified1_JonathonTopher_ifg6q2.jpg)
 
 <figcaption>Jonathan Christopher and Topher Mokrzewski in MisogyME, Amplify 1.0, Amplified Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
@@ -39,7 +53,9 @@ Featuring pieces from _Le nozze di Figaro_ to _Hamilton_ and almost everything i
 
 The through-line of the piece did get a little disjointed as Mohammed led some of the curations. The points of interjection that consisted mainly of a single quote were more effective, but the longer and more informative they became, the more it drew away from the flow of the show.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1648045168/media/2022/03/Amplified1_Panel_jyhfuh.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1648045168/media/2022/03/Amplified1_Panel_jyhfuh.jpg)
 
 <figcaption>Topher Mokrzewski, Jonathan Christopher, and Michael Mohammed is discussion for MisogyME, Amplifiy 1.0, Amplified Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
@@ -53,7 +69,9 @@ Overall, the show was effective and brought up many important questions that we 
 
 Second up was _WRECKONCILIATION_, featuring Cree-Metis baritone Jonathon Adams and Kwagiulth and Sto:lo First Nations mezzo Marion Newman-Nege'ga, with violinist Kathleen Kajiokav, cellist Keiran Campbell, and harpsichordist Chirstopher Bagan performing the works of Henry Purcell alongside a piece composed by Newman-Nege'ga.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1648046268/media/2022/03/Amplified1_MarionJon_i6expm.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1648046268/media/2022/03/Amplified1_MarionJon_i6expm.jpg)
 
 <figcaption>Marion Newman-Nege'ga and Jonathon Adams in WRECKONCILIATION, Amplify 1.0, Amplified Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
@@ -65,7 +83,9 @@ Adams sang with an elegant, delicate line and with exquisite ornamentation. Newm
 
 Rounding out the programme was _SPOTLIGHT: Out on a Limb_, featuring soprano Megan Miceli, pianist and trumpeter Jennifer Pols, and director Bridget Ramzy. Now, this was quite the unique programme. _SPOTLIGHT_ was a discussion centered around disability and the differently-abled. Both performers, Miceli and Pols, are missing one of their hands.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1648046323/media/2022/03/Amplified1_Megan_bxuzlp.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1648046323/media/2022/03/Amplified1_Megan_bxuzlp.jpg)
 
 <figcaption>Megan Miceli and pianist Jennifer Pols in SPOTLIGHT: Out on a Limb, Amplify 1.0, Amplified Opera, 2022. Photo: Dahlia Katz.</figcaption>
 

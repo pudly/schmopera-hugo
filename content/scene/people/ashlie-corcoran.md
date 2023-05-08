@@ -1,19 +1,23 @@
-+++
-date = "2015-04-06T22:09:00-04:00"
-discipline = "Director"
-lastmod = "2015-04-06T22:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428372278988/AshlieCorcoran-pc-MichaelCooper.jpg.jpg"
-primary_image_credit = "Michael Cooper"
-publishDate = "2015-04-06T22:09:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/cowtown-opera-company.md","scene/companies/opera-north.md"]
-slug = "ashlie-corcoran"
-title = "Ashlie Corcoran"
-website = "http://www.ashliecorcoran.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/AshlieCorcoran"
-+++
+---
+date: "2015-04-06T22:09:00-04:00"
+discipline: Director
+lastmod: "2015-04-06T22:09:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428372278988/AshlieCorcoran-pc-MichaelCooper.jpg.jpg
+primary_image_credit: Michael Cooper
+publishDate: "2015-04-06T22:09:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/cowtown-opera-company.md
+- scene/companies/opera-north.md
+slug: ashlie-corcoran
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/AshlieCorcoran
+title: Ashlie Corcoran
+website: http://www.ashliecorcoran.com/
+---
 
 <p>
 	Originally from White Rock, British Columbia, Ashlie directs both theatre and opera, working across Canada and internationally.

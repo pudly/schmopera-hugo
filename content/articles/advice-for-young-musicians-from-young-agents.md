@@ -1,17 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-04-11T20:28:00-04:00"
-lastmod = "2015-04-11T20:28:00-04:00"
-preamble = "<p>\n\tBy some fortuitous chance, I had the opportunity to talk with two young agents about getting work in the opera and classical music industry. <a href=\"https://www.linkedin.com/profile/view?id=58667232\" target=\"_blank\">Alia Rosenstock</a> is with Dean Artists Management, and you may have seen her <a href=\"http://schmopera.com/talking-with-agents-alia-rosenstock/\" target=\"_blank\">earlier interview</a> with me about her work representing opera singers. Percussionist Allison Bent was an artist representative with <a href=\"http://www.andrewkwanartists.com/About_Us/about_us.html\" target=\"_blank\">Andrew Kwan Artists</a>, and is now the Orchestra Personnel Administrator for the TSO. Alia works in the world of singers, and Allison comes from the instrumental side; since I asked them both for their advice for young musicians seeking work, I thought it would be a good idea to compile their answers together. To work in the arts is to negotiate a vague, subjective industry, but musicians can always count on the important of a solid technique. Says Alia,\"I understand that you get nervous when you're auditioning, but you have to have enough faith in your technique…to be able to go in there and do your best.\" With that as a given I asked Allison and Alia about their two big points of consensus.\n</p>"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428798350726/AliaAllison.jpg.jpg"
-publishDate = "2015-02-09T09:28:00-05:00"
-related_companies = ["scene/companies/dean-artists-management.md","scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/allison-bent.md","scene/people/alia-rosenstock.md"]
-short_description = "By some fortuitous chance, I had the opportunity to talk with two young agents about getting work in the opera and classical music industry. Alia Rosenstock is with Dean Artists Management, and you may have seen her earlier interview with me about her work representing opera singers. Percussionist Allison Bent was an artist representative with Andrew Kwan Artists, and is now the Orchestra Personnel Administrator for the TSO."
-slug = "advice-for-young-musicians-from-young-agents"
-title = "Advice for Young Musicians, from Young Agents"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-04-11T20:28:00-04:00"
+lastmod: "2015-04-11T20:28:00-04:00"
+preamble: "<p>\n\tBy some fortuitous chance, I had the opportunity to talk with two
+  young agents about getting work in the opera and classical music industry. <a href=\"https://www.linkedin.com/profile/view?id=58667232\"
+  target=\"_blank\">Alia Rosenstock</a> is with Dean Artists Management, and you may
+  have seen her <a href=\"http://schmopera.com/talking-with-agents-alia-rosenstock/\"
+  target=\"_blank\">earlier interview</a> with me about her work representing opera
+  singers. Percussionist Allison Bent was an artist representative with <a href=\"http://www.andrewkwanartists.com/About_Us/about_us.html\"
+  target=\"_blank\">Andrew Kwan Artists</a>, and is now the Orchestra Personnel Administrator
+  for the TSO. Alia works in the world of singers, and Allison comes from the instrumental
+  side; since I asked them both for their advice for young musicians seeking work,
+  I thought it would be a good idea to compile their answers together. To work in
+  the arts is to negotiate a vague, subjective industry, but musicians can always
+  count on the important of a solid technique. Says Alia,\"I understand that you get
+  nervous when you're auditioning, but you have to have enough faith in your technique…to
+  be able to go in there and do your best.\" With that as a given I asked Allison
+  and Alia about their two big points of consensus.\n</p>"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428798350726/AliaAllison.jpg.jpg
+publishDate: "2015-02-09T09:28:00-05:00"
+related_companies:
+- scene/companies/dean-artists-management.md
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/allison-bent.md
+- scene/people/alia-rosenstock.md
+short_description: By some fortuitous chance, I had the opportunity to talk with two
+  young agents about getting work in the opera and classical music industry. Alia
+  Rosenstock is with Dean Artists Management, and you may have seen her earlier interview
+  with me about her work representing opera singers. Percussionist Allison Bent was
+  an artist representative with Andrew Kwan Artists, and is now the Orchestra Personnel
+  Administrator for the TSO.
+slug: advice-for-young-musicians-from-young-agents
+title: Advice for Young Musicians, from Young Agents
+---
 
 <h2>Being a Good Colleague</h2>
 <p>

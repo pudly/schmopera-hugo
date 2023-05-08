@@ -1,16 +1,48 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-05-28T20:28:00+01:00"
-lastmod = "2016-05-30T11:34:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464557686346/2016-05-30---Coffee.jpg.jpg"
-publishDate = "2016-05-29T22:40:00+01:00"
-related_articles = ["articles/talking-with-singers-bryan-register.md","articles/talking-with-singers-christine-goerke.md","articles/talking-with-singers-nicole-cabell.md","articles/talking-with-singers-luca-pisaroni.md","articles/spotlight-on-angel-blue.md","articles/spotlight-on-claire-kuttler.md","articles/spotlight-onwho.md","articles/a-singer-and-her-ego.md","articles/talking-with-singers-kiandra-howarth.md"]
-related_people = ["scene/people/jennifer-holloway.md","scene/people/alek-shrader.md","scene/people/alice-coote.md","scene/people/heidi-melton.md","scene/people/ambur-braid.md","scene/people/keith-lam.md","scene/people/lara-ciekiewicz.md","scene/people/amanda-majeski.md","scene/people/alan-held.md","scene/people/jeremy-bowes.md","scene/people/danielle-macmillan.md","scene/people/othalie-graham.md","scene/people/elizabeth-deshong.md","scene/people/simone-osborne.md","scene/people/jorell-williams.md","scene/people/christine-goerke.md","scene/people/luca-pisaroni.md"]
-short_description = "Since we started Schmopera in late 2013, we have interviewed 108 singers. One hundred and eight! We&#039;re proud of that number, and we&#039;re by no means done. This site began partly out of our huge admiration for what singers do, and our respect for their skill and thick skins. We thought it might be a good milestone, at roughly 100 conversations with 100 singers, to take stock of what they&#039;ve told us."
-slug = "what-weve-learned-by-talking-with-108-opera-singers"
-title = "What we&#039;ve learned by talking with 108 opera singers"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-05-28T20:28:00+01:00"
+lastmod: "2016-05-30T11:34:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464557686346/2016-05-30---Coffee.jpg.jpg
+publishDate: "2016-05-29T22:40:00+01:00"
+related_articles:
+- articles/talking-with-singers-bryan-register.md
+- articles/talking-with-singers-christine-goerke.md
+- articles/talking-with-singers-nicole-cabell.md
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/spotlight-on-angel-blue.md
+- articles/spotlight-on-claire-kuttler.md
+- articles/spotlight-onwho.md
+- articles/a-singer-and-her-ego.md
+- articles/talking-with-singers-kiandra-howarth.md
+related_people:
+- scene/people/jennifer-holloway.md
+- scene/people/alek-shrader.md
+- scene/people/alice-coote.md
+- scene/people/heidi-melton.md
+- scene/people/ambur-braid.md
+- scene/people/keith-lam.md
+- scene/people/lara-ciekiewicz.md
+- scene/people/amanda-majeski.md
+- scene/people/alan-held.md
+- scene/people/jeremy-bowes.md
+- scene/people/danielle-macmillan.md
+- scene/people/othalie-graham.md
+- scene/people/elizabeth-deshong.md
+- scene/people/simone-osborne.md
+- scene/people/jorell-williams.md
+- scene/people/christine-goerke.md
+- scene/people/luca-pisaroni.md
+short_description: Since we started Schmopera in late 2013, we have interviewed 108
+  singers. One hundred and eight! We&#039;re proud of that number, and we&#039;re
+  by no means done. This site began partly out of our huge admiration for what singers
+  do, and our respect for their skill and thick skins. We thought it might be a good
+  milestone, at roughly 100 conversations with 100 singers, to take stock of what
+  they&#039;ve told us.
+slug: what-weve-learned-by-talking-with-108-opera-singers
+title: What we&#039;ve learned by talking with 108 opera singers
+---
 
 Since we started Schmopera in late 2013, we have interviewed 108 singers. One hundred and eight! We're proud of that number, and we're by no means done.
 

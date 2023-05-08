@@ -1,26 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-01-10T01:29:24+00:00"
-disclaimer = ""
-image_gallery = []
-preamble = "New York-based ensemble [Cantata Profana](https://www.cantataprofana.com/meet-cp) is gearing up for its latest concert, [_Visions of Silence_](https://www.cantataprofana.com/tickets), January 18 & 19 at St. Peter's Chelsea. The headlining piece on the programme is Salvatore Sciarrino's \"Ecstasy in One Act\", _Infinito Nero_ (1998); the work is scored for voice and eight instruments, each representing one of the eight scribes who took down the words of 17th-century visionary and saint, [Maria Maddalena de' Pazzi](https://en.wikipedia.org/wiki/Mary_Magdalene_de%27_Pazzi). We spoke with Jacob Ashworth, violinist, conductor, and Cantata Profana Artistic Director, about the ensemble's insatiable hunt for excellent music."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547084016/media/2019/01/sqJacobAshworthHeadshot.jpg"
-primary_image_credit = "Photo by David Fung."
-related_articles = ["articles/heartbeats-giovanni-successfully-bucks-tradition.md", "articles/a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza.md"]
-related_companies = []
-related_people = []
-short_description = "\"If you want to see our bucket list, there's about a hundred pages of endless Google docs of repertoire ideas that we've been marinating for years. Some pieces stay on the list because they are just waiting for the right venue, the right collaborators, the right concert.\""
-slug = "cantata-profana-set-to-present-a-total-masterpiece-in-visions-of-silence"
-title = "Cantata Profana set to present \"a total masterpiece\" in Visions of Silence"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-01-10T01:29:24+00:00"
+disclaimer: ""
+image_gallery: []
+preamble: New York-based ensemble [Cantata Profana](https://www.cantataprofana.com/meet-cp)
+  is gearing up for its latest concert, [_Visions of Silence_](https://www.cantataprofana.com/tickets),
+  January 18 & 19 at St. Peter's Chelsea. The headlining piece on the programme is
+  Salvatore Sciarrino's "Ecstasy in One Act", _Infinito Nero_ (1998); the work is
+  scored for voice and eight instruments, each representing one of the eight scribes
+  who took down the words of 17th-century visionary and saint, [Maria Maddalena de'
+  Pazzi](https://en.wikipedia.org/wiki/Mary_Magdalene_de%27_Pazzi). We spoke with
+  Jacob Ashworth, violinist, conductor, and Cantata Profana Artistic Director, about
+  the ensemble's insatiable hunt for excellent music.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1547084016/media/2019/01/sqJacobAshworthHeadshot.jpg
+primary_image_credit: Photo by David Fung.
+related_articles:
+- articles/heartbeats-giovanni-successfully-bucks-tradition.md
+- articles/a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza.md
+related_companies: []
+related_people: []
+short_description: '"If you want to see our bucket list, there''s about a hundred
+  pages of endless Google docs of repertoire ideas that we''ve been marinating for
+  years. Some pieces stay on the list because they are just waiting for the right
+  venue, the right collaborators, the right concert."'
+slug: cantata-profana-set-to-present-a-total-masterpiece-in-visions-of-silence
+title: Cantata Profana set to present "a total masterpiece" in Visions of Silence
+youtube_url: ""
+---
 ### What are the creative advantages of Cantata Profana's dual focus on early music and new music?
 
 To me all of music history is just one ever-expanding epic story. So I like to be able to draw on any part of that story when making a show. We're lucky to have such a wealth of specialities in the group on every kind of period and modern instrument, so we can create fresh, new connections across enormous stretches of time and geography with the conviction that we're really inhabiting each style. Or put another way, we're all nerds about such different kinds of music that we can plop ourselves in any time period or musical genre and chances it'll be someone's wheelhouse and they can teach the rest of us. And that’s how we learn together as a group and how we've tackled so much repertoire over the years.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1547084613/media/2019/01/CPgroupphoto.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1547084613/media/2019/01/CPgroupphoto.jpg)
 
 <figcaption>The members of Cantata Profana. Photo by Henry Chan.</figcaption>
 
@@ -34,7 +49,9 @@ How do we go about programming our concerts? How does the sausage get made, as o
 
 But other times a whole program comes from the smallest germ. I remember a show that included a staged semi-production of Monteverdi's famous _Il Combattimento di Tancredi e Clorinda_ that I swear came from this yen I had to do a 2-minute Webern choral work ("Entflieht auf leichten Kähnen", op. 2) for four solo voices. Other times we start from an idea or a text or a story, like our _Phaedra_ concert from our second season, and the music comes from there. But we search always through hundreds of pieces looking for the connections that fascinate us, trying to tell a new story each time.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1547084648/media/2019/01/AliceArash.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1547084648/media/2019/01/AliceArash.jpg)
 
 <figcaption>Soprano Alice Teyssier (photo: Blaise Hayward) and lutenist Arash Noori (photo: Russ Rowland), two performers on Cantata Profana's Visions of Silence programme, January 18-19, 2019.</figcaption>
 
@@ -44,7 +61,9 @@ But other times a whole program comes from the smallest germ. I remember a show 
 
 Sometimes getting the actual music itself is a difficulty. Searching for publishers, or particularly for baroque music, searching through libraries is great fun. There's also a wonderful sort of global community for anyone interested in obscure music, so that if you found out that someone out there has done the piece, chances are they are excited about the music and if you can reach them, they'll be delighted to help you find it, or send you a copy. For the Ustvolskaya, it's a good thing our clarinetist and Associate Artistic Director Gleb Kanasevich speaks Russian, because all the score indications are in Cyrillic. But in general I'd say programming obscure music is only ever a minor hassle and more people should do it!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1547084880/media/2019/01/CantataProfanaComposers.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1547084880/media/2019/01/CantataProfanaComposers.jpg)
 
 <figcaption>Clockwise from top left: composers Tarquinio Merula, Salvatore Sciarrino (photo: Philippe Gontier), Galina Ustvolskaya, and Alvin Lucier.</figcaption>
 

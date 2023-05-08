@@ -1,14 +1,17 @@
-+++
-date = "2015-07-20T15:46:00-04:00"
-discipline = "Director, playwright"
-lastmod = "2015-07-20T15:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437421597777/AmielGladstone_Headshot-(1)Square.jpg.jpg"
-publishDate = "2015-07-20T15:46:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-banff-centre.md"]
-slug = "amiel-gladstone"
-title = "Amiel Gladstone"
-website = "http://www.amielgladstone.com/"
-+++
+---
+_template: people_single
+date: "2015-07-20T15:46:00-04:00"
+discipline: Director, playwright
+lastmod: "2015-07-20T15:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437421597777/AmielGladstone_Headshot-(1)Square.jpg.jpg
+publishDate: "2015-07-20T15:46:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-banff-centre.md
+slug: amiel-gladstone
+title: Amiel Gladstone
+website: http://www.amielgladstone.com/
+---
 
 Amiel Gladstone is a West Coast based writer and director.
 

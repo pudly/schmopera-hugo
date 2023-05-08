@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-02-26T21:06:00-05:00"
-lastmod = "2018-03-01T08:11:00-05:00"
-preamble = "Lawrence Edelson founded American Lyric Theater in 2005 as a response to the dearth of opportunities for new opera to truly develop. In the thirteen years since, ALT has developed works like *The Golden Ticket* (2010), *The Long Walk* (2015), and most recently, *JFK* (2016). A key part of the workshopping of new projects is ALT's [Composer Librettist Development Program](https://www.altnyc.org/composer-librettist-development-program/) (CLDP), a mentorship and creation opportunity for the creators of opera.\n\nWe spoke with Edelson about the value of the CLDP, and the upcoming [*The Living Libretto: Opera in Eden*](https://www.altnyc.org/events/) on **March 18, 3pm** at the National Opera Center, the first public outing of three new works by resident artists of the program: *Bloodlines*, *Nana's Ghost*, and *The Tree of Eternal Youth*."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519772755526/sq---Lawrence-Edelson-and-Justin-F-Chen---photo-credit-David-Perlman.jpg.jpg"
-primary_image_credit = "Lawrence Edelson works with Justine Chen, composer of American Lyric Theater's in-progress opera, The Life and Death(s) of Alan Turing."
-publishDate = "2018-02-27T21:49:00-05:00"
-related_articles = ["articles/american-opera-projects-youre-seeing-the-opera-in-microcosm.md"]
-short_description = "&quot;We emphasize a very detailed outlining process at ALT, wherein the librettist and the composer create beat-by-beat outlines - for both the libretto and the score - before a word of the text or a note of the music is written. For a short piece, like those in the upcoming Living Libretto event, this might take one month. For a longer, full-length work, the planning process could take six months or more, especially if extensive research is required.&quot;"
-slug = "great-operas-dont-just-happen"
-title = "&quot;Great Operas Don&#039;t Just Happen.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-02-26T21:06:00-05:00"
+lastmod: "2018-03-01T08:11:00-05:00"
+preamble: |-
+  Lawrence Edelson founded American Lyric Theater in 2005 as a response to the dearth of opportunities for new opera to truly develop. In the thirteen years since, ALT has developed works like *The Golden Ticket* (2010), *The Long Walk* (2015), and most recently, *JFK* (2016). A key part of the workshopping of new projects is ALT's [Composer Librettist Development Program](https://www.altnyc.org/composer-librettist-development-program/) (CLDP), a mentorship and creation opportunity for the creators of opera.
+
+  We spoke with Edelson about the value of the CLDP, and the upcoming [*The Living Libretto: Opera in Eden*](https://www.altnyc.org/events/) on **March 18, 3pm** at the National Opera Center, the first public outing of three new works by resident artists of the program: *Bloodlines*, *Nana's Ghost*, and *The Tree of Eternal Youth*.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519772755526/sq---Lawrence-Edelson-and-Justin-F-Chen---photo-credit-David-Perlman.jpg.jpg
+primary_image_credit: Lawrence Edelson works with Justine Chen, composer of American
+  Lyric Theater's in-progress opera, The Life and Death(s) of Alan Turing.
+publishDate: "2018-02-27T21:49:00-05:00"
+related_articles:
+- articles/american-opera-projects-youre-seeing-the-opera-in-microcosm.md
+short_description: '&quot;We emphasize a very detailed outlining process at ALT, wherein
+  the librettist and the composer create beat-by-beat outlines - for both the libretto
+  and the score - before a word of the text or a note of the music is written. For
+  a short piece, like those in the upcoming Living Libretto event, this might take
+  one month. For a longer, full-length work, the planning process could take six months
+  or more, especially if extensive research is required.&quot;'
+slug: great-operas-dont-just-happen
+title: '&quot;Great Operas Don&#039;t Just Happen.&quot;'
+---
 
 ## Why is something like the CLDP a necessary part of the opera industry in the 21st century?
 
@@ -31,7 +42,9 @@ We emphasize a very detailed outlining process at ALT, wherein the librettist an
 
 The other thing that I feel is critical, is the participation of a skilled dramaturg. A dramaturg's job in the new works development process is a kind of diagnostician to help the composer and librettist realize their vision. When developing a new opera, those involved (writers, performers, director, conductor) can become very close to the work and aren't always able to look at the piece objectively. This isn't to suggest that those 'in the trenches' aren't an important part of the process, but an objective set of eyes and ears - someone focused solely on the work itself and not their role in realizing the work - is invaluable. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519774916510/Librettists.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519774916510/Librettists.jpg.jpg)
 <figcaption>Clockwise from top left: Julian Crouch (librettist, *The Tree of Eternal Youth*), Lila Palmer (librettist, *Bloodlines*), and Lorene Cary (librettist, *Nana's Ghost*).</figcaption>
 </figure>
 
@@ -49,7 +62,9 @@ The CLDP has fostered the careers of some of the most exciting artists working i
 
 Since our upcoming event focuses on the libretto, I have to mention Royce Vavrek - probably our most prominent alum. Royce was in the inaugural class of the CLDP in the 2007-08 season, and has become one of the most in demand librettists in the world. We were thrilled to co-commission *JFK* with Fort Worth Opera from him and David T. Little. (David is not an alum of the program, but the two of them met at ALT's first CLDP event in 2008, in which two of Royce's first works were featured!) *The Long Walk*, by Jeremy Howard Beck and Stephanie Fleischmann, is a work that I was personally very involved in, having both commissioned it at ALT, and having produced the world premiere at Opera Saratoga. I believe *The Long Walk* is one of the greatest operas to have been written so far in the 21st century. It's already received three productions (at Opera Saratoga, Utah Opera, and Pittsburgh Opera), and deserves to be heard and seen everywhere.  
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519774874857/THE-LONG-WALK---Daniel-Belcher-and-Heather-Johnson---Photo-Gary-David-Gold---Opera-Saratoga.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519774874857/THE-LONG-WALK---Daniel-Belcher-and-Heather-Johnson---Photo-Gary-David-Gold---Opera-Saratoga.jpg.jpg)
 <figcaption></figcaption>
 </figure>
 

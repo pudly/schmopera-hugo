@@ -1,18 +1,30 @@
-+++
-date = "2015-09-29T16:50:00-04:00"
-discipline = "Baritone"
-lastmod = "2015-09-29T16:50:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443559731267/Peter-Mattei-1---foto-H%C3%9Ckan-FlankSquare.jpg.jpg"
-primary_image_credit = "Photo: Hükan Flank"
-publishDate = "2015-09-29T16:50:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/staatsoper-berlin.md","scene/companies/wiener-staatsoper.md","scene/companies/san-francisco-opera.md","scene/companies/opernhaus-zurich.md","scene/companies/bayerische-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/salzburg-festival.md","scene/companies/opra-national-de-paris.md"]
-slug = "peter-mattei"
-title = "Peter Mattei"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Peter_Mattei?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-+++
+---
+date: "2015-09-29T16:50:00-04:00"
+discipline: Baritone
+lastmod: "2015-09-29T16:50:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443559731267/Peter-Mattei-1---foto-H%C3%9Ckan-FlankSquare.jpg.jpg
+primary_image_credit: 'Photo: Hükan Flank'
+publishDate: "2015-09-29T16:50:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/royal-opera-house.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/salzburg-festival.md
+- scene/companies/opra-national-de-paris.md
+slug: peter-mattei
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Peter_Mattei?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+title: Peter Mattei
+---
 
 The Swedish baritone Peter Mattei has established himself as one of the most sought after singers of his generation and has worked with conductors such as Sir Georg Solti, Claudio Abbado, Daniel Barenboim, Riccardo Muti, Sir Colin Davis, Riccardo Chailly, James Levine, Antonio Pappano, Zubin Mehta, Herbert Blomstedt, Esa-Pekka Salonen, Sir John Eliot Gardiner, Gustavo Dudamel, Jeffrey Tate, Sir Andrew Davis, Daniel Harding and others.
 

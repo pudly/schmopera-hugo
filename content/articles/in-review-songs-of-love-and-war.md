@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-01-23T11:39:00-05:00"
-lastmod = "2015-04-11T22:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428806586208/RBAJAn22.jpg.jpg"
-primary_image_credit = "Jenna Douglas"
-publishDate = "2015-01-23T11:39:00-05:00"
-related_articles = ["articles/catharsis-is-the-wrong-word-brittens-war-requiem.md"]
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md"]
-related_people = ["scene/people/andrew-haji.md","scene/people/jeanphilippe-fortierlazure.md","scene/people/jennifer-szeto.md","scene/people/clarence-frazer.md"]
-short_description = "At lunchtime on Thursday, January 22nd, members of the COC Ensemble Studio gave a concert in the Richard Bradshaw Amphitheatre. Just past the 25th anniversary of the fall of the Berlin Wall, the music on this concert dealt with themes of war, love, and separation; we heard songs by Erich Korngold, Charles Ives, Hanns Eisler, and Francis Poulenc. "
-slug = "in-review-songs-of-love-and-war"
-title = "In review: Songs of Love and War"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-01-23T11:39:00-05:00"
+lastmod: "2015-04-11T22:44:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428806586208/RBAJAn22.jpg.jpg
+primary_image_credit: Jenna Douglas
+publishDate: "2015-01-23T11:39:00-05:00"
+related_articles:
+- articles/catharsis-is-the-wrong-word-brittens-war-requiem.md
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+related_people:
+- scene/people/andrew-haji.md
+- scene/people/jeanphilippe-fortierlazure.md
+- scene/people/jennifer-szeto.md
+- scene/people/clarence-frazer.md
+short_description: 'At lunchtime on Thursday, January 22nd, members of the COC Ensemble
+  Studio gave a concert in the Richard Bradshaw Amphitheatre. Just past the 25th anniversary
+  of the fall of the Berlin Wall, the music on this concert dealt with themes of war,
+  love, and separation; we heard songs by Erich Korngold, Charles Ives, Hanns Eisler,
+  and Francis Poulenc. '
+slug: in-review-songs-of-love-and-war
+title: 'In review: Songs of Love and War'
+---
 
 <p>At lunchtime on Thursday, January 22nd, members of the COC Ensemble Studio gave a <a href="http://www.coc.ca/PerformancesAndTickets/FreeConcertSeries.aspx" target="_blank">concert in the Richard Bradshaw Amphitheatre</a>. Just past the 25th anniversary of the fall of the Berlin Wall, the music on this concert dealt with themes of war, love, and separation; we heard songs by Erich Korngold, Charles Ives, Hanns Eisler, and Francis Poulenc. It was a great, beautiful recital that featured fantastic pairings of singers and songs.</p><p>Baritone <a href="https://twitter.com/clarencefrazer" target="_blank">Clarence Frazer</a> sang most of the German rep, starting with Korngold's&nbsp;<em>Fünf Lieder</em>, Op. 38. Clarence is sounding great, especially in this rep. It's not been long since I heard Clarence sing, and I thought he sounded noticeably&nbsp;different. He sang with a clarity and a freedom that allowed him to really enjoy the German poetry. I thought the style of the songs, all gorgeous and film-score-like, suited Clarence perfectly. It was the most present and open sound I've heard from him, and I loved it. &nbsp;Two of the Korngold songs have English texts, including a setting of Shakespeare's "My Mistress' Eyes"; honestly, Clarence, you slayed me a bit with this one. Bravo.</p><p>Bass-baritone<a href="http://www.coc.ca/ExploreAndLearn/NewToOpera/OnlineLearningCentre/ParlandoTheCOCBlog.aspx?EntryID=25769" target="_blank"> Iain MacNeil</a> was the perfect fit for Ives'&nbsp;<em>Three Songs of War</em>. He spoke about the songs before singing, and it was clear that he had respect for the poems, and for the stories of the songs' creators. It showed in his singing, using his focused sound to&nbsp;spend lots of energy on delivering text. I wondered if he almost took the songs too seriously; those songs are a surprisingly big sing, and I thought he could have gotten away with less voice and a more speech-like approach. He did show a beautiful range in colour, from thrilling full voice to sudden <i>pianissimo</i>. Attention to detail: I like it.</p><p>Iain and Clarence shared the singing of nine songs from Hanns Eisler's <em>Das Hollywooder Liederbuch</em>,&nbsp;most of which were set to texts by Bertolt Brecht. The songs are completely cool, some of them miniature. Clarence soared over the melodrama in these songs, and Iain again was totally connected to the poetry. Awesome choice for these two singers.</p><p>Then, the tenors showed up. <a href="https://twitter.com/jfortierlazure" target="_blank">Jean-Philippe Fortier-Lazure</a> sang a perfect,&nbsp;<em>perfect</em>&nbsp;delivery of Poulenc's&nbsp;<em>Deux poèmes de Louis Aragon</em>. This pair of songs is so immediate in message, so unashamed to talk about the squalor of war, that it always floors me with its beauty. Jean-Philippe risked so much in&nbsp;<em>C</em>; he got angry, he got sad, he hung that beautiful note on "délaissé---e". It was&nbsp;<em>so beautiful</em>.&nbsp;"Fêtes galantes" was wicked. Jean-Philippe had an obvious advantage with all that French set at warp speed, but there was so much detail in every single line of that ugly poem that it was mesmerizing. And then he sang&nbsp;<em>Bleuet</em> and I just died. That song, plus Jean-Philippe's commitment to it, was the total package.</p><p>Finally, tenor<a href="http://www.andrewhaji.com/" target="_blank"> Andrew Haji</a> closed the concert with "What passing bells", from Benjamin Britten's&nbsp;<em>War Requiem</em>. He spoke beautifully about the piece&nbsp;before he sang, and set up the gravity of the message. Andrew's voice seems perfectly suited to so many different styles, it's fascinating; of course, the Britten-tenor style is no exception. He had great ring in his sound, and brought to life&nbsp;all the details in the score, letting them serve the words. It was a wonderful finish to the program.</p><p>A big nod goes to pianist <a href="https://twitter.com/szetojenn" target="_blank">Jennifer Szeto</a>, who played the entire concert. It was a dense program with a huge stylistic span, and she was appropriately chameleon-like with every new set of songs. I especially liked her understated, feathery Poulenc. There's a certain sound that pianists seek in French rep, and I liked Jennifer's version of it. Brava!</p><p>If you haven't yet, check out the <a href="http://www.coc.ca/PerformancesAndTickets/FreeConcertSeries.aspx" target="_blank">Free Concert Series</a> in the Richard Bradshaw Amphitheatre every Tuesday and Thursday at noon. <a href="http://www.coc.ca/PerformancesAndTickets/FreeConcertSeries/February.aspx" target="_blank">Notable and coming up</a>: COC Ensemble members Aviva Fortunata and Karine Boucher perform Messiaen's&nbsp;<em>Poèmes pour Mi</em> with pianist Liz Upchurch and violinist Kerry DuWors. <a href="http://files.coc.ca/pdfs/FreeConcertSeriesBrochure1415.pdf" target="_blank">Click here to see&nbsp;the full schedule</a>.</p>

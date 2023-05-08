@@ -1,20 +1,29 @@
-+++
-date = "2017-10-29T12:26:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-10-29T12:26:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1636132915/media/2021/11/HeidiStober_SimonPauly_wowt2n.jpg"
-primary_image_credit = "Simon Pauly"
-publishDate = "2017-10-29T12:26:00-04:00"
-related_companies = ["scene/companies/houston-grand-opera.md", "scene/companies/opera-philadelphia.md", "scene/companies/san-francisco-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/garsington-opera.md", "scene/companies/semperoper-dresden.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "heidi-stober"
-title = "Heidi Stober"
-website = "http://www.heidistober.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/heidistober"
-
-+++
+---
+date: "2017-10-29T12:26:00-04:00"
+discipline: Soprano
+lastmod: "2017-10-29T12:26:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1636132915/media/2021/11/HeidiStober_SimonPauly_wowt2n.jpg
+primary_image_credit: Simon Pauly
+publishDate: "2017-10-29T12:26:00-04:00"
+related_companies:
+- scene/companies/houston-grand-opera.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/garsington-opera.md
+- scene/companies/semperoper-dresden.md
+- scene/companies/the-metropolitan-opera.md
+slug: heidi-stober
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/heidistober
+title: Heidi Stober
+website: http://www.heidistober.com/
+---
 “Stober’s instrument is the type of distinctly American lyric soprano that makes the rest of the world listen.” Opera News: One to Watch – November 2018
 
 Stunning audiences with her sterling lyric voice and incisive stage personality, soprano Heidi Stober has established herself as a house favourite at leading companies on both sides of the Atlantic. Since her critically acclaimed debut at the Deutsche Oper Berlin in the autumn of 2008, Heidi has cultivated a long-standing relationship with the company, with recent roles including Donna Elvira _Don Giovanni_, Micaela _Carmen_, Marguerite Faust, Adina _L’elisir d’amore_, and Liu _Turandot_.

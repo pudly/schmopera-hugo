@@ -1,19 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-06-09T16:42:00-06:00"
-lastmod = "2017-06-14T23:03:00-06:00"
-preamble = "Canadian soprano [Jennifer Taverner](/scene/people/jennifer-taverner/) is currently at The Banff Centre for Arts and Creativity to sing in Claude Vivier's \"opéra rituel du mort\", [*Kopernikus*](https://www.banffcentre.ca/events/kopernikus/20170706/1930). It's a far cry from her work as Nadina in Toronto Operetta Theatre's [*The Chocolate Soldier*](/dont-miss-the-chocolate-soldier/), or her upcoming work as Armida in Pacific Opera Victoria's [*Rinaldo*](http://www.pov.bc.ca/rinaldo.html), yet versatility is a constant in Taverner's work.\n\nShe spoke with us about getting the Broadway bug as a child, and the value of a well-sung *Messiah*."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497048022672/2017-06-09---Taverner---Haldane.jpg.jpg"
-primary_image_credit = "Photo: Christina Haldane."
-publishDate = "2017-06-14T22:21:00-06:00"
-related_articles = ["articles/spotlight-on-abigail-levis.md","articles/spotlight-on-beth-hagerman.md","articles/spotlight-on-amanda-majeski.md","articles/talking-with-singers-vlada-borovko.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/toronto-operetta-theatre.md","scene/companies/pacific-opera-victoria.md"]
-related_people = ["scene/people/jennifer-taverner.md"]
-short_description = "&quot;Sure, you need to possess the chops, but it won&#039;t get you very far if you&#039;re not an engaging performer, skilled musician, and all-around good colleague. Be professional, be prepared, be respectful and pleasant to work with. Remember, there are eyes and ears on you at every rehearsal and performance, so treat it like an audition and be the best you can be in that moment.&quot;"
-slug = "spotlight-on-jennifer-taverner"
-title = "Spotlight on: Jennifer Taverner"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-06-09T16:42:00-06:00"
+lastmod: "2017-06-14T23:03:00-06:00"
+preamble: |-
+  Canadian soprano [Jennifer Taverner](/scene/people/jennifer-taverner/) is currently at The Banff Centre for Arts and Creativity to sing in Claude Vivier's "opéra rituel du mort", [*Kopernikus*](https://www.banffcentre.ca/events/kopernikus/20170706/1930). It's a far cry from her work as Nadina in Toronto Operetta Theatre's [*The Chocolate Soldier*](/dont-miss-the-chocolate-soldier/), or her upcoming work as Armida in Pacific Opera Victoria's [*Rinaldo*](http://www.pov.bc.ca/rinaldo.html), yet versatility is a constant in Taverner's work.
+
+  She spoke with us about getting the Broadway bug as a child, and the value of a well-sung *Messiah*.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497048022672/2017-06-09---Taverner---Haldane.jpg.jpg
+primary_image_credit: 'Photo: Christina Haldane.'
+publishDate: "2017-06-14T22:21:00-06:00"
+related_articles:
+- articles/spotlight-on-abigail-levis.md
+- articles/spotlight-on-beth-hagerman.md
+- articles/spotlight-on-amanda-majeski.md
+- articles/talking-with-singers-vlada-borovko.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/toronto-operetta-theatre.md
+- scene/companies/pacific-opera-victoria.md
+related_people:
+- scene/people/jennifer-taverner.md
+short_description: '&quot;Sure, you need to possess the chops, but it won&#039;t get
+  you very far if you&#039;re not an engaging performer, skilled musician, and all-around
+  good colleague. Be professional, be prepared, be respectful and pleasant to work
+  with. Remember, there are eyes and ears on you at every rehearsal and performance,
+  so treat it like an audition and be the best you can be in that moment.&quot;'
+slug: spotlight-on-jennifer-taverner
+title: 'Spotlight on: Jennifer Taverner'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 
@@ -31,7 +47,9 @@ To me, good singing isn't necessarily perfect singing. As an audience member, I'
 
 Personally, I like to think I've achieved good singing when I can get out of my head and just be in the moment. When I can let go and focus on what I'm saying or feeling, rather than the position of my soft palate! When I feel like I'm singing well, it comes with a sense of freedom and confidence knowing that all I need to do is breathe, open my mouth, and my voice will do what I want it to do.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497048153860/2017-06-09---Taverner---Haldane-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497048153860/2017-06-09---Taverner---Haldane-2.jpg.jpg)
 <figcaption>Jennifer Taverner, soprano. Photo by Christina Haldane.</figcaption>
 </figure>
 

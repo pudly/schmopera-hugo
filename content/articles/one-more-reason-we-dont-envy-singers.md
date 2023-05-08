@@ -1,18 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-05-17T17:29:00+01:00"
-lastmod = "2016-05-19T13:39:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463579542502/2016-05-19---Netrebko-by-Ruven-Afanador.jpg.jpg"
-primary_image_credit = "Anna Netrebko. Photo: Ruven Afanador."
-publishDate = "2016-05-18T23:34:00+01:00"
-related_articles = ["articles/in-defence-of-singers.md","articles/psychology-audition.md","articles/how-was-it-and-other-dangerous-questions.md","articles/when-singers-call-in-sick.md","articles/reason-947-we-dont-envy-singers-singing-on-camera.md"]
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/anna-netrebko.md","scene/people/cecilia-bartoli.md","scene/people/sondra-radvanovsky.md"]
-short_description = "The story of Bartoli&#039;s Bernstein, plus Netrebko&#039;s evaded Norma, combine in an example of one big plight of opera singers today: they&#039;re damned if they do, and they&#039;re damned if they don&#039;t. Bartoli did; she took a role that seemed an odd choice, and plenty of unfavourable reviews of McKinley&#039;s West Side Story seemed to have an undercurrent of &quot;I told you so&quot;. She should have shown more self-awareness, more respect for the demands of Bernstein&#039;s score, right?"
-slug = "one-more-reason-we-dont-envy-singers"
-title = "One more reason we don&#039;t envy singers"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-05-17T17:29:00+01:00"
+lastmod: "2016-05-19T13:39:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463579542502/2016-05-19---Netrebko-by-Ruven-Afanador.jpg.jpg
+primary_image_credit: 'Anna Netrebko. Photo: Ruven Afanador.'
+publishDate: "2016-05-18T23:34:00+01:00"
+related_articles:
+- articles/in-defence-of-singers.md
+- articles/psychology-audition.md
+- articles/how-was-it-and-other-dangerous-questions.md
+- articles/when-singers-call-in-sick.md
+- articles/reason-947-we-dont-envy-singers-singing-on-camera.md
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/anna-netrebko.md
+- scene/people/cecilia-bartoli.md
+- scene/people/sondra-radvanovsky.md
+short_description: 'The story of Bartoli&#039;s Bernstein, plus Netrebko&#039;s evaded
+  Norma, combine in an example of one big plight of opera singers today: they&#039;re
+  damned if they do, and they&#039;re damned if they don&#039;t. Bartoli did; she
+  took a role that seemed an odd choice, and plenty of unfavourable reviews of McKinley&#039;s
+  West Side Story seemed to have an undercurrent of &quot;I told you so&quot;. She
+  should have shown more self-awareness, more respect for the demands of Bernstein&#039;s
+  score, right?'
+slug: one-more-reason-we-dont-envy-singers
+title: One more reason we don&#039;t envy singers
+---
 
 You've likely heard about [Anna Netrebko](/scene/people/anna-netrebko/)'s decision to withdraw from the title role in *Norma* at both the Royal Opera House and the Metropolitan Opera next season. The Met has since secured the more-than-capable [Sondra Radvanovsky](/scene/people/sondra-radvanovsky/) to replace her, and Sonya Yoncheva will sing the role at Covent Garden.
 

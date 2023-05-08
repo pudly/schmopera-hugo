@@ -1,27 +1,28 @@
-+++
-date = "2016-11-16T12:15:00+00:00"
-discipline = "Tenor"
-lastmod = "2016-11-16T16:51:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479298414532/2016-11-16---Vittorio-Grigolo.jpg.jpg"
-primary_image_credit = "Alex D. James"
-publishDate = "2016-11-16T12:15:00+00:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md"]
-slug = "vittorio-grigolo"
-title = "Vittorio Grigòlo"
-website = "http://www.vittoriogrigolo.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/VittorioGrigolo"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/vittoriogrigolo"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/VittorioGrigoloTenor"
-+++
+---
+date: "2016-11-16T12:15:00+00:00"
+discipline: Tenor
+lastmod: "2016-11-16T16:51:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479298414532/2016-11-16---Vittorio-Grigolo.jpg.jpg
+primary_image_credit: Alex D. James
+publishDate: "2016-11-16T12:15:00+00:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+slug: vittorio-grigolo
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/VittorioGrigolo
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/vittoriogrigolo
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/VittorioGrigoloTenor
+title: Vittorio Grigòlo
+website: http://www.vittoriogrigolo.com/
+---
 
 Italy announces a formidable return to the opera stage with the young Italian tenor, Vittorio Grigòlo. His exceptional vocal and dramatic talents have been widely praised by the world's press. Vittorio's 2010 debut at London’s Royal Opera House Covent Garden as Des Grieux in *Manon* was described as "the most sensational debut to be heard at Covent Garden for some time. He’s got everything the role demands – a voice that flows, terrific looks, an instinctive sense of theatre". - *The Guardian*
 

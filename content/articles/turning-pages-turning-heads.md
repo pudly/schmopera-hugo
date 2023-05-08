@@ -1,15 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-04-12T00:31:00+01:00"
-lastmod = "2016-06-05T20:16:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428794740446/pageturner.jpg.jpg"
-publishDate = "2015-02-13T16:31:00+00:00"
-related_articles = ["articles/pianists-3-tips-for-sounding-like-an-orchestra.md","articles/playing-bel-canto-4-tips-for-pianists.md"]
-short_description = "Pianists, can we talk about page-turning for a minute? Nothing ignites panic in a pianist quite like that horrible feeling of two pages, disguised as one, inexplicably stuck together. The subsequent scuffle between index finger and thumb can escalate into the unthinkable: having to turn the page with both hands. I’ve never been a fan of having a designated page-turner seated beside me at the piano, because I like my bubble of personal space when I play; my stubbornness on this issue has only grown stronger since I’ve been playing opera scores. "
-slug = "turning-pages-turning-heads"
-title = "Turning Pages, Turning Heads"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-04-12T00:31:00+01:00"
+lastmod: "2016-06-05T20:16:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428794740446/pageturner.jpg.jpg
+publishDate: "2015-02-13T16:31:00+00:00"
+related_articles:
+- articles/pianists-3-tips-for-sounding-like-an-orchestra.md
+- articles/playing-bel-canto-4-tips-for-pianists.md
+short_description: 'Pianists, can we talk about page-turning for a minute? Nothing
+  ignites panic in a pianist quite like that horrible feeling of two pages, disguised
+  as one, inexplicably stuck together. The subsequent scuffle between index finger
+  and thumb can escalate into the unthinkable: having to turn the page with both hands.
+  I’ve never been a fan of having a designated page-turner seated beside me at the
+  piano, because I like my bubble of personal space when I play; my stubbornness on
+  this issue has only grown stronger since I’ve been playing opera scores. '
+slug: turning-pages-turning-heads
+title: Turning Pages, Turning Heads
+---
 
 Pianists, can we talk about page-turning for a minute? Nothing ignites panic in a pianist quite like that horrible feeling of two pages, disguised as one, inexplicably stuck together. The subsequent scuffle between index finger and thumb can escalate into the unthinkable: having to turn the page with *both hands*. I've never been a fan of having a designated page-turner seated beside me at the piano, because I like my bubble of personal space when I play; my stubbornness on this issue has only grown stronger since I've been playing opera scores. Even neatly reduced piano-vocal scores have aggressively placed page turns, and in those chorus scenes, you're lucky to fit more than eight bars on two pages. To add insult to injury, the number of other people in the rehearsal room who care that frequent page turns can throw off a pianist's groove, is exactly zero.
 

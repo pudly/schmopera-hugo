@@ -1,18 +1,31 @@
-+++
-author = ["authors/melissa-ratcliff.md"]
-categories = "Review"
-date = "2018-01-22T09:28:00-05:00"
-lastmod = "2018-01-23T09:37:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516631291150/sq-0-VO-Ying-Fang-as-Adina%2C-Stephen-Hegedus-as-Dulcamara-cred-Tim-Matheson-5x8.jpg.jpg"
-primary_image_credit = "Ying Fang (Adina) and Stephen Hegedus (Dulcamara) in L'elisir d'amore, Vancouver Opera, 2018. Photo: Tim Matheson."
-publishDate = "2018-01-23T09:37:00-05:00"
-related_articles = ["articles/james-robinson-elixir.md","articles/talking-with-singers-andrew-haji.md"]
-related_companies = ["scene/companies/vancouver-opera.md"]
-related_people = ["scene/people/andrew-haji.md","scene/people/stephen-hegedus.md","scene/people/brett-polegato.md","scene/people/ying-fang.md"]
-short_description = "&quot;Hegedus was brilliant in his comic interplay between the fake face he gives to the other characters and the interjections with his assistant, or his interludes to himself. When he believes his elixir is actually working in Act II, his reactions are incredibly funny, without taking anything away from his beautiful vocal performance.&quot;"
-slug = "lighter-fare-vancouver-operas-the-elixir-of-love"
-title = "Lighter fare: Vancouver Opera&#039;s The Elixir of Love"
-+++
+---
+author:
+- authors/melissa-ratcliff.md
+categories: Review
+date: "2018-01-22T09:28:00-05:00"
+lastmod: "2018-01-23T09:37:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516631291150/sq-0-VO-Ying-Fang-as-Adina%2C-Stephen-Hegedus-as-Dulcamara-cred-Tim-Matheson-5x8.jpg.jpg
+primary_image_credit: 'Ying Fang (Adina) and Stephen Hegedus (Dulcamara) in L''elisir
+  d''amore, Vancouver Opera, 2018. Photo: Tim Matheson.'
+publishDate: "2018-01-23T09:37:00-05:00"
+related_articles:
+- articles/james-robinson-elixir.md
+- articles/talking-with-singers-andrew-haji.md
+related_companies:
+- scene/companies/vancouver-opera.md
+related_people:
+- scene/people/andrew-haji.md
+- scene/people/stephen-hegedus.md
+- scene/people/brett-polegato.md
+- scene/people/ying-fang.md
+short_description: '&quot;Hegedus was brilliant in his comic interplay between the
+  fake face he gives to the other characters and the interjections with his assistant,
+  or his interludes to himself. When he believes his elixir is actually working in
+  Act II, his reactions are incredibly funny, without taking anything away from his
+  beautiful vocal performance.&quot;'
+slug: lighter-fare-vancouver-operas-the-elixir-of-love
+title: 'Lighter fare: Vancouver Opera&#039;s The Elixir of Love'
+---
 
 The second production in Vancouver Opera's 2017/18 season, this production of [*L'elisir d'amore*](https://www.vancouveropera.ca/L-Elisir-d-amore) takes place in Canada in the early 1900s. With a gazebo setting that looks like it could play double duty for a performance of *The Music Man*, this production is light, and incredibly funny, and complete with an ice cream truck and a sidecar Vespa that drive on and off the stage. 
 

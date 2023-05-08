@@ -1,18 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-07-20T11:42:00-04:00"
-lastmod = "2015-09-09T08:42:00-04:00"
-preamble = "Vancouver based company [Opera After Hours](/scene/companies/opera-after-hours/) is all about looking twice at historical opera repertoire. Led by Artistic Directors [Christopher Bagan](/scene/people/christopher-bagan/) (historical keyboardist) and [Debi Wong](/scene/people/debi-wong/) (mezzo-soprano), Opera After Hours had its inaugural production last summer, with *#DidoAndAeneas*; they took the story in a new direction, focusing on issues of cyberbullying and collaborating with [Stop-A-Bully Canada](http://www.stopabully.ca/). Debi and Christopher chat about their unique mission, and the problem/solution of so-called \"tradition.\""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437410496479/OperaAfterHoursLogo.png"
-publishDate = "2015-09-02T12:00:00-04:00"
-related_articles = ["articles/check-out-loose-tea-music-theatre.md","articles/check-out-urbanvessel.md","articles/check-out-the-friends-of-gravity.md","articles/check-out-liederwolfe.md","articles/check-out-opera-5.md","articles/check-out-fawn-chamber-creative.md","articles/check-out-myopera.md"]
-related_companies = ["scene/companies/renaissance.md"]
-related_people = ["scene/people/debi-wong.md","scene/people/christopher-bagan.md"]
-short_description = "Vancouver based company Opera After Hours is all about looking twice at historical opera repertoire. Led by Artistic Directors Christopher Bagan (historical keyboardist) and Debi Wong (mezzo-soprano), Opera After Hours had its inaugural production last summer, with #DidoAndAeneas; they took the story in a new direction, focusing on issues of cyberbullying and collaborating with Stop-A-Bully Canada. "
-slug = "check-out-opera-after-hours"
-title = "Check out: Opera After Hours"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-07-20T11:42:00-04:00"
+lastmod: "2015-09-09T08:42:00-04:00"
+preamble: Vancouver based company [Opera After Hours](/scene/companies/opera-after-hours/)
+  is all about looking twice at historical opera repertoire. Led by Artistic Directors
+  [Christopher Bagan](/scene/people/christopher-bagan/) (historical keyboardist) and
+  [Debi Wong](/scene/people/debi-wong/) (mezzo-soprano), Opera After Hours had its
+  inaugural production last summer, with *#DidoAndAeneas*; they took the story in
+  a new direction, focusing on issues of cyberbullying and collaborating with [Stop-A-Bully
+  Canada](http://www.stopabully.ca/). Debi and Christopher chat about their unique
+  mission, and the problem/solution of so-called "tradition."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437410496479/OperaAfterHoursLogo.png
+publishDate: "2015-09-02T12:00:00-04:00"
+related_articles:
+- articles/check-out-loose-tea-music-theatre.md
+- articles/check-out-urbanvessel.md
+- articles/check-out-the-friends-of-gravity.md
+- articles/check-out-liederwolfe.md
+- articles/check-out-opera-5.md
+- articles/check-out-fawn-chamber-creative.md
+- articles/check-out-myopera.md
+related_companies:
+- scene/companies/renaissance.md
+related_people:
+- scene/people/debi-wong.md
+- scene/people/christopher-bagan.md
+short_description: 'Vancouver based company Opera After Hours is all about looking
+  twice at historical opera repertoire. Led by Artistic Directors Christopher Bagan
+  (historical keyboardist) and Debi Wong (mezzo-soprano), Opera After Hours had its
+  inaugural production last summer, with #DidoAndAeneas; they took the story in a
+  new direction, focusing on issues of cyberbullying and collaborating with Stop-A-Bully
+  Canada. '
+slug: check-out-opera-after-hours
+title: 'Check out: Opera After Hours'
+---
 
 ### 1. Can you tell us about the mission behind Opera After Hours?
 

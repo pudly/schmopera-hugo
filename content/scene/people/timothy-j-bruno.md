@@ -1,15 +1,18 @@
-+++
-date = "2018-01-21T17:25:00-05:00"
-discipline = "Bass"
-lastmod = "2018-01-21T17:25:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546624331/media/2019/01/TimothyJBruno.jpg"
-publishDate = "2018-01-21T17:25:00-05:00"
-related_companies = ["scene/companies/washington-national-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/wolf-trap-opera.md"]
-slug = "timothy-j-bruno"
-title = "Timothy J. Bruno"
-website = "http://www.timothyjbruno.com/"
-
-+++
+---
+_template: people_single
+date: "2018-01-21T17:25:00-05:00"
+discipline: Bass
+lastmod: "2018-01-21T17:25:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546624331/media/2019/01/TimothyJBruno.jpg
+publishDate: "2018-01-21T17:25:00-05:00"
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/wolf-trap-opera.md
+slug: timothy-j-bruno
+title: Timothy J. Bruno
+website: http://www.timothyjbruno.com/
+---
 2018-19 marks the finale of Mr. Bruno’s affiliation as a Domingo-Cafritz Young Artist with the Washington National Opera. He will have his role debuts at the WNO as Dottore Grenvil in _La Traviata_ followed by the French General in _Silent Night_. In 2019, he will create the role of Daddy in WNO’s world-premiere of _Taking Up Serpents_ by Kamala Sankaram and Jerre Dye as part of the American Opera Initiative. With the New Orleans Opera, he will star as Osmin in _Abduction from the Seraglio_. Back at WNO, he will cover the role of Méphistophélès in _Faust_, and then appears in the world-premiere of Liszt’s lost opera, _Sardanapale_, performing Beleso at the Library of Congress.  In the summer, he returns to Des Moines Metro Opera for Colline in _La bohème_ and the First Apprentice in _Wozzeck_.  
 
 ![17Edit.jpg](https://static1.squarespace.com/static/5335a1d5e4b044cf7c29ffc2/t/59e627ebcd39c32f0b64908e/1508255732541/17Edit.jpg?format=750w)

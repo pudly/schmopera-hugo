@@ -1,29 +1,38 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2021-11-12T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1636503005/media/2021/11/sqObscuraNox_ivrojz.jpg"
-primary_image_credit = "Julia Dawson, coloratura mezzo-soprano and producer in a scene from Obscura Nox. Photo: Thilo Jäger."
-related_articles = ["articles/girl-in-the-snow-a-mysterious-song-cycle.md", "articles/video-premiere-the-mystery-of-the-world-according-to-julia-dawson.md"]
-related_companies = []
-related_people = ["scene/people/julia-dawson.md"]
-short_description = "Under Mary Birnbaum's assured direction this harrowing and cerebral story moves in a refreshingly linear way. The extraordinary melding of music, voice, dance and photography, not to mention Plato's philosophical discourse, have melded in a way that leaves us artistically and emotionally sated."
-slug = "obscura-nox-plato-meets-mozart-and-iman-habibi-in-remarkable-short-film"
-title = "Obscura Nox: Plato meets Mozart and Iman Habibi in remarkable short film"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2021-11-12T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1636503005/media/2021/11/sqObscuraNox_ivrojz.jpg
+primary_image_credit: 'Julia Dawson, coloratura mezzo-soprano and producer in a scene
+  from Obscura Nox. Photo: Thilo Jäger.'
+related_articles:
+- articles/girl-in-the-snow-a-mysterious-song-cycle.md
+- articles/video-premiere-the-mystery-of-the-world-according-to-julia-dawson.md
+related_companies: []
+related_people:
+- scene/people/julia-dawson.md
+short_description: Under Mary Birnbaum's assured direction this harrowing and cerebral
+  story moves in a refreshingly linear way. The extraordinary melding of music, voice,
+  dance and photography, not to mention Plato's philosophical discourse, have melded
+  in a way that leaves us artistically and emotionally sated.
+slug: obscura-nox-plato-meets-mozart-and-iman-habibi-in-remarkable-short-film
+title: 'Obscura Nox: Plato meets Mozart and Iman Habibi in remarkable short film'
+youtube_url: ""
+---
 Plato might have been clever enough to begin a discussion of the remarkable short film _Obscura Nox_. Not only because it's a re-telling of his foundational treatise "Allegory of the Cave" but because he excelled at reasoning. Actually, he invented it.
 
 For starters, with all of its existential angst the film never slips into melodrama. This is a taut and refreshing surprise of an adaptation brought to life in visually vibrant and compelling terms. The story is a journey from the intellectual complacency of empirical knowledge to the uncharted waters of philosophical reasoning. The journey is literally immersive.
 
 Then there is the marvelous coloratura mezzo soprano [Julia Dawson](/scene/people/julia-dawson/) whose vocal classification sums up the remarkable range she displays here with such agility and musical understanding. Her primary role in _Obscura Nox_ is not as singer alone but as the producer who conceived of this Frankfurt-based project. With fellow producer and sound engineer Alexander Brusencev they made it happen. Together they assembled a trans-Atlantic team including director Mary Birnbaum, choreographer Claudia Schreier, director of photography Thilo Jäger and lead dancer Evie Poaros.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1636503063/media/2021/11/ObscuraNox_2_sflznh.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1636503063/media/2021/11/ObscuraNox_2_sflznh.jpg)
 
 <figcaption>Evie Poaros, lead dancer in a shadowy scene from Obscura Nox. Photo: Thilo Jäger.</figcaption>  
 </figure>
@@ -32,7 +41,9 @@ Of course teaming _Exsultate Jubilate_, Mozart's paean to spiritual celebration 
 
 The chamber ensemble performing Mozart and Habibi is led by violinist Guillaume Faraut and includes musicians from the Frankfurt Opera, Deutsche Radio Philharmonic, Stattstheater Darmstadt and the Bayreuth Festival Orchestra. A sparkling freshness distinguishes the Mozart while Habibi is performed with absorbing tension.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1636503082/media/2021/11/ObscuraNox_3_cdfmmj.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1636503082/media/2021/11/ObscuraNox_3_cdfmmj.jpg)
 
 <figcaption>Evie Poaros dancing the ominous stranger in a scene from Obscura Nox. Photo: Thilo Jäger.</figcaption>  
 </figure>
@@ -41,7 +52,9 @@ As the film begins a young woman (Dawson) dances blissfully within her comfort z
 
 We have been in what appears to be an empty warehouse or raw gallery space engulfed in shadows, a subtle acknowledgement of how Plato depicted empirical knowledge. Then the young woman appears alone on a loading dock, a clear indication that transition is imminent. Blood appears, not in any ghastly sense and not necessarily belonging to the young woman. She smears it on her face and it drapes over her body as she sings of flames. We next see her on rugged ground heading towards a lake.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1636503125/media/2021/11/ObscuraNox_4_mlbozw.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1636503125/media/2021/11/ObscuraNox_4_mlbozw.jpg)
 
 <figcaption>Julia Dawson, coloratura mezzo-soprano and producer meets the sun in a scene from Obscura Nox. Photo: Thilo Jäger.</figcaption>  
 </figure>
@@ -52,14 +65,18 @@ Under Mary Birnbaum's assured direction this harrowing and cerebral story moves 
 
 This isn't Dawson’s first cinematic attempt. Last year she recorded Scott Ordway's fine collection of art songs [_Girl in the Snow_](/girl-in-the-snow-a-mysterious-song-cycle/) and followed up with a Brusencev instigated video from the recording [_The Mystery of the World_](/video-premiere-the-mystery-of-the-world-according-to-julia-dawson/) that premiered on this website. During the pandemic Dawson has created opportunities not only for herself but for many artists and technicians (some 50 were involved in _Obscura Nox_) who might otherwise have been sidelined by cancelled performances and projects.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1636503153/media/2021/11/ObscuraNox_5_pulth7.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1636503153/media/2021/11/ObscuraNox_5_pulth7.jpg)
 
 <figcaption>Iman Habibi, Iranian-Canadian composer whose music appears with Mozart's Exsultate Jubilate in Obscura Nox. Photo: Deborah Grimmett.</figcaption>  
 </figure>
 
 But what does the unmitigated accomplishment of _Obscura Nox_ mean for opera or things operatic? It could mean plenty. We know that opera is the great amalgam of music, theater and increasingly visual technology. Here those elements are scaled so that enterprising artists can create it for themselves. And let's be blunt, the knee-jerk response to opera in the non-opera world is that it's long and in a foreign language. We're dealing with a 26-minute film here—aided by subtitles. Such appealing efforts have got to attract new and younger audiences if properly promoted. Take note PBS, CBC, BBC and all those other networks looking for new and attention-getting content.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1636503161/media/2021/11/ObscuraNox_Poster_mbchmb.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1636503161/media/2021/11/ObscuraNox_Poster_mbchmb.jpg)
 
 <figcaption>Poster for the Julia Dawson & Alexander Brusencev production Obscura Nox. Photo: Exsultate Project.</figcaption>  
 </figure>

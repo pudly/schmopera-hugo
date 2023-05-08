@@ -1,22 +1,25 @@
-+++
-author = ["authors/charlotte-gagnon.md"]
-categories = "Op-Ed"
-date = "2019-09-03T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567537346/media/2019/09/sqTouringLife_nuf8nx.jpg"
-primary_image_credit = "Photo: @revacphotography"
-related_articles = ["articles/i-didnt-get-in-a-short-story-about-clarity.md"]
-related_companies = []
-related_people = []
-short_description = "We were away for six weeks in the fall and four in the spring, touring our opera in remote parts of Québec and Ontario. It may not have been France, but I have had some of the best moments in my professional life. "
-slug = "5-items-to-make-touring-life-more-fun"
-title = "5 items to make touring life more fun"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/charlotte-gagnon.md
+categories: Op-Ed
+date: "2019-09-03T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1567537346/media/2019/09/sqTouringLife_nuf8nx.jpg
+primary_image_credit: 'Photo: @revacphotography'
+related_articles:
+- articles/i-didnt-get-in-a-short-story-about-clarity.md
+related_companies: []
+related_people: []
+short_description: 'We were away for six weeks in the fall and four in the spring,
+  touring our opera in remote parts of Québec and Ontario. It may not have been France,
+  but I have had some of the best moments in my professional life. '
+slug: 5-items-to-make-touring-life-more-fun
+title: 5 items to make touring life more fun
+youtube_url: ""
+---
 When I started studying classical singing, I often fantasised about my life as a professional opera singer. I would tour the world, singing in all the greatest Opera Houses, spending only 2 or 3 months per year in my fantastic loft in New York. I pictured myself in a luxurious hotel in Paris, sitting on a charming balcony overlooking the Seine, eating my perfect breakfast served by the Michelin 3-star hotel restaurant before rushing to rehearsal in a perfect car driven by a perfect chauffeur provided by the opera house, sitting beside my perfect assistant who would, of course, make sure that my perfect and gorgeous French private yoga instructor would be available for an afternoon session just before my dress rehearsal of _Werther_, in which I would be starring as Charlotte.
 
 Well, it turns out that my life has unfolded a bit differently… 

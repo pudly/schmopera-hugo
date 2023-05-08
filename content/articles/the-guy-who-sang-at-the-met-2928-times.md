@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-11-28T16:00:00-05:00"
-lastmod = "2015-11-28T16:19:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448744951754/2015-11-28%20-%20Met.jpg.jpg"
-publishDate = "2015-11-28T16:19:00-05:00"
-related_articles = ["articles/whats-on-at-the-met-201617.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-short_description = "In what can be deemed the Great Find of the Weekend, check out this list of artists who have had the most performers at The Metropolitan Opera. I can&#039;t vouch for detail-accuracy, and since it&#039;s a Wikipedia article, go ahead and take it with a grain of salt. That said, have a look at the ten singers with the most Met stage time:"
-slug = "the-guy-who-sang-at-the-met-2928-times"
-title = "The guy who sang at the Met 2,928 times"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-11-28T16:00:00-05:00"
+lastmod: "2015-11-28T16:19:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448744951754/2015-11-28%20-%20Met.jpg.jpg
+publishDate: "2015-11-28T16:19:00-05:00"
+related_articles:
+- articles/whats-on-at-the-met-201617.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+short_description: 'In what can be deemed the Great Find of the Weekend, check out
+  this list of artists who have had the most performers at The Metropolitan Opera.
+  I can&#039;t vouch for detail-accuracy, and since it&#039;s a Wikipedia article,
+  go ahead and take it with a grain of salt. That said, have a look at the ten singers
+  with the most Met stage time:'
+slug: the-guy-who-sang-at-the-met-2928-times
+title: The guy who sang at the Met 2,928 times
+---
 
 In what can be deemed the Great Find of the Weekend, check out [this list](https://en.wikipedia.org/wiki/List_of_performers_at_the_Metropolitan_Opera) of artists who have had the most performers at [The Metropolitan Opera](/scene/companies/the-metropolitan-opera/). I can't vouch for how accurate (or up-to-date) the list is, and since it's a Wikipedia article, go ahead and take it with a grain of salt. That said, have a look at the ten singers with the most Met stage time:
 

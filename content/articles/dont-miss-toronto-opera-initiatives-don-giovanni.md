@@ -1,15 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-02-11T11:29:00-05:00"
-lastmod = "2016-02-11T11:32:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455207926267/TOIGiovanni.jpg.jpg"
-publishDate = "2016-02-11T11:32:00-05:00"
-related_articles = ["articles/toronto-opera-initiatives-don-giovanni.md"]
-short_description = "Need a last-minute-Valentine&#039;s-Day opera fix? This Saturday at 7pm at College Street United Church, Toronto Opera Initiative presents Mozart&#039;s tale of romance and love (?), Don Giovanni. The cast is full of exciting young artists, including baritone Andrey Andreychik in the title role, and Toronto Opera Initiative founder and General Manager, Jaclyn Grossman as Donna Anna."
-slug = "dont-miss-toronto-opera-initiatives-don-giovanni"
-title = "Don&#039;t miss: Toronto Opera Initiative&#039;s Don Giovanni"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-02-11T11:29:00-05:00"
+lastmod: "2016-02-11T11:32:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455207926267/TOIGiovanni.jpg.jpg
+publishDate: "2016-02-11T11:32:00-05:00"
+related_articles:
+- articles/toronto-opera-initiatives-don-giovanni.md
+short_description: Need a last-minute-Valentine&#039;s-Day opera fix? This Saturday
+  at 7pm at College Street United Church, Toronto Opera Initiative presents Mozart&#039;s
+  tale of romance and love (?), Don Giovanni. The cast is full of exciting young artists,
+  including baritone Andrey Andreychik in the title role, and Toronto Opera Initiative
+  founder and General Manager, Jaclyn Grossman as Donna Anna.
+slug: dont-miss-toronto-opera-initiatives-don-giovanni
+title: 'Don&#039;t miss: Toronto Opera Initiative&#039;s Don Giovanni'
+---
 
 Need a last-minute-Valentine's-Day opera fix? This **Saturday, February 13th at 7pm at College Street United Church**, [Toronto Opera Initiative](https://www.facebook.com/events/1040623135968658/) presents Mozart's tale of romance and love (?), *Don Giovanni*.
 

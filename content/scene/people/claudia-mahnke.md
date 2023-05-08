@@ -1,13 +1,18 @@
-+++
-date = "2018-02-26T19:50:00-05:00"
-discipline = "Mezzo-soprano"
-lastmod = "2018-02-26T19:50:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519692539004/00000052_1_hd.jpg.jpg"
-publishDate = "2018-02-26T19:50:00-05:00"
-related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/san-francisco-opera.md"]
-slug = "claudia-mahnke"
-title = "Claudia Mahnke"
-+++
+---
+_template: people_single
+date: "2018-02-26T19:50:00-05:00"
+discipline: Mezzo-soprano
+lastmod: "2018-02-26T19:50:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519692539004/00000052_1_hd.jpg.jpg
+publishDate: "2018-02-26T19:50:00-05:00"
+related_companies:
+- scene/companies/oper-frankfurt.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/san-francisco-opera.md
+slug: claudia-mahnke
+title: Claudia Mahnke
+---
 
 Claudia Mahnke has become one of the most important mezzosopranos due to her Brangäne and Fricka at Bayreuth Festival, Judith in Bartok‘s Bluebeard’s Castle at Staatsoper Hamburg and Didon in Les Troyens at Oper Frankfurt in the recent seaosns. Her engagements in 2017/18 include Kundry in a new new production of Parsifal at Staatsoper Hamburg, Judith in Bluebeard’s Castle at Oper Frankfurt, where she will appear as well as Selika in Meyerbeer‘s L‘ Africaine and Fricka in Rheingold. At Sächsische Staatsoper Dresden she will sing Iokaste in Strawinsky‘s Oedipus Rex. Concert engagements will bring her to National Youth Orchestra, where she will perform Judith in Bluebeard’s Castle and to Lausanne, where she will appear in Mahler’s Lied von der Erde with Simone Young conducting.
 

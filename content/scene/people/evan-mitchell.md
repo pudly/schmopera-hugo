@@ -1,13 +1,15 @@
-+++
-date = "2015-10-25T18:20:00-04:00"
-discipline = "Conductor"
-lastmod = "2015-10-25T18:40:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445811525716/EvanMitchell.jpg.jpg"
-publishDate = "2015-10-25T18:20:00-04:00"
-related_companies = ["scene/companies/opera-5.md"]
-slug = "evan-mitchell"
-title = "Evan Mitchell"
-+++
+---
+_template: people_single
+date: "2015-10-25T18:20:00-04:00"
+discipline: Conductor
+lastmod: "2015-10-25T18:40:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445811525716/EvanMitchell.jpg.jpg
+publishDate: "2015-10-25T18:20:00-04:00"
+related_companies:
+- scene/companies/opera-5.md
+slug: evan-mitchell
+title: Evan Mitchell
+---
 
 Evan Mitchell is proving to be one of Canada's most innovative and sought-after young conductors. Having recently finished hugely successful residencies as Assistant Conductor of the Vancouver and Kitchener-Waterloo Symphony Orchestras, Mr. Mitchell has assumed the post of Music Director with the Kingston Symphony Association for the 2014-2015 season. He has garnered significant critical success as well as consistent praise for his approach, execution and musical results.
 

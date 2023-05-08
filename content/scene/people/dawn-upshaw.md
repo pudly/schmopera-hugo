@@ -1,22 +1,24 @@
-+++
-date = "2015-04-07T16:19:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-07T16:19:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428437907348/DawnUpshawc-pc-BrookeIrish.jpg.jpg"
-primary_image_credit = "Brooke Irish"
-publishDate = "2015-04-07T16:19:00-04:00"
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/the-metropolitan-opera.md"]
-slug = "dawn-upshaw"
-title = "Dawn Upshaw"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Dawn-Upshaw/105495122818214"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/DawnUpshaw"
-+++
+---
+date: "2015-04-07T16:19:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-07T16:19:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428437907348/DawnUpshawc-pc-BrookeIrish.jpg.jpg
+primary_image_credit: Brooke Irish
+publishDate: "2015-04-07T16:19:00-04:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/the-metropolitan-opera.md
+slug: dawn-upshaw
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Dawn-Upshaw/105495122818214
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/DawnUpshaw
+title: Dawn Upshaw
+---
 
 <p>
 	Joining a rare natural warmth with a fierce commitment to the transforming communicative power of music, <b>Dawn Upshaw</b> has achieved worldwide celebrity as a singer of opera and concert repertoire ranging from the sacred works of Bach to the freshest sounds of today. Her ability to reach to the heart of music and text has earned her both the devotion of an exceptionally diverse audience, and the awards and distinctions accorded to only the most distinguished of artists. In 2007, she was named a Fellow of the MacArthur Foundation, the first vocal artist to be awarded the five-year "genius" prize, and in 2008 she was named a Fellow of the American Academy of Arts &amp; Sciences.

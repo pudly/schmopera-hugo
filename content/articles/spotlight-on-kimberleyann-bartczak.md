@@ -1,18 +1,48 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-07-20T16:24:00-04:00"
-lastmod = "2015-07-27T08:02:00-04:00"
-preamble = "[Kimberley-Ann Bartzcak]() is a current member of the [Yulanda M. Faris Young Artists Program](http://www.vancouveropera.ca/about/artists/young_artists_program) at [Vancouver Opera](/scene/companies/vancouver-opera/); at VO, she's a pianist, coach and répétiteur, but she's also a driven young conductor who's beginning to make waves. I always thing young conductors are some of the bravest folks around (not to mention a woman in what's arguably a man's world), so I was curious to ask Kim about her experience on the podium. She chats about French opera, and what singers and instruments have in common (hint: everything)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437422287673/Black-and-white.jpg.jpg"
-publishDate = "2015-07-27T08:02:00-04:00"
-related_articles = ["articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-christopher-james-ray.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-lida-szkwarek.md","articles/spotlight-on-emily-peragine.md","articles/spotlight-on-kelsey-vicary.md","articles/spotlight-on-julia-dawson.md","articles/spotlight-on-william-ford.md","articles/spotlight-on-peter-bass.md","articles/spotlight-on-maeve-palmer.md","articles/spotlight-on-keith-lam.md","articles/spotlight-on-cairan-ryan.md","articles/spotlight-on-christopher-allen.md"]
-related_companies = ["scene/companies/vancouver-opera.md","scene/companies/opera-on-the-avalon.md"]
-related_people = ["scene/people/kimberleyann-bartczak.md"]
-short_description = "Kimberley-Ann Bartzcak is a current member of the Yulanda M. Faris Young Artists Program at Vancouver Opera; at VO, she&#039;s a pianist, coach and répétiteur, but she&#039;s also a driven young conductor who&#039;s beginning to make waves. I always thing young conductors are some of the bravest folks around (not to mention a woman in what&#039;s arguably a man&#039;s world), so I was curious to ask Kim about her experience on the podium. "
-slug = "spotlight-on-kimberleyann-bartczak"
-title = "Spotlight on: Kimberley-Ann Bartczak"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-07-20T16:24:00-04:00"
+lastmod: "2015-07-27T08:02:00-04:00"
+preamble: '[Kimberley-Ann Bartzcak]() is a current member of the [Yulanda M. Faris
+  Young Artists Program](http://www.vancouveropera.ca/about/artists/young_artists_program)
+  at [Vancouver Opera](/scene/companies/vancouver-opera/); at VO, she''s a pianist,
+  coach and répétiteur, but she''s also a driven young conductor who''s beginning
+  to make waves. I always thing young conductors are some of the bravest folks around
+  (not to mention a woman in what''s arguably a man''s world), so I was curious to
+  ask Kim about her experience on the podium. She chats about French opera, and what
+  singers and instruments have in common (hint: everything).'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437422287673/Black-and-white.jpg.jpg
+publishDate: "2015-07-27T08:02:00-04:00"
+related_articles:
+- articles/spotlight-on-charlotte-knight.md
+- articles/spotlight-on-danielle-macmillan.md
+- articles/spotlight-on-christopher-james-ray.md
+- articles/spotlight-on-maikai-nash.md
+- articles/spotlight-on-lida-szkwarek.md
+- articles/spotlight-on-emily-peragine.md
+- articles/spotlight-on-kelsey-vicary.md
+- articles/spotlight-on-julia-dawson.md
+- articles/spotlight-on-william-ford.md
+- articles/spotlight-on-peter-bass.md
+- articles/spotlight-on-maeve-palmer.md
+- articles/spotlight-on-keith-lam.md
+- articles/spotlight-on-cairan-ryan.md
+- articles/spotlight-on-christopher-allen.md
+related_companies:
+- scene/companies/vancouver-opera.md
+- scene/companies/opera-on-the-avalon.md
+related_people:
+- scene/people/kimberleyann-bartczak.md
+short_description: 'Kimberley-Ann Bartzcak is a current member of the Yulanda M. Faris
+  Young Artists Program at Vancouver Opera; at VO, she&#039;s a pianist, coach and
+  répétiteur, but she&#039;s also a driven young conductor who&#039;s beginning to
+  make waves. I always thing young conductors are some of the bravest folks around
+  (not to mention a woman in what&#039;s arguably a man&#039;s world), so I was curious
+  to ask Kim about her experience on the podium. '
+slug: spotlight-on-kimberleyann-bartczak
+title: 'Spotlight on: Kimberley-Ann Bartczak'
+---
 
 ### 1. How does the role of the conductor differ between opera and symphonic work?
 

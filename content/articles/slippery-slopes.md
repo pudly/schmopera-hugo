@@ -1,12 +1,13 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-04-11T11:55:00+01:00"
-draft = true
-lastmod = "2017-04-11T13:34:00+01:00"
-slug = "slippery-slopes"
-title = "Slippery slopes"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-04-11T11:55:00+01:00"
+draft: true
+lastmod: "2017-04-11T13:34:00+01:00"
+slug: slippery-slopes
+title: Slippery slopes
+---
 
 You've likely heard it said by singers for decades: opera is all about the voice. It's not correct to say that it's *only* about the voice, but it's certainly hard for opera to be the affective art that it is without that one element firmly in place.
 

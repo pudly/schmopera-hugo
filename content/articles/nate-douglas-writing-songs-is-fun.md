@@ -1,15 +1,19 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-08-02T12:22:00+01:00"
-lastmod = "2016-08-05T12:58:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470314151136/2016-08-04---Nate.jpg.jpg"
-primary_image_credit = "Photo by Lindsay Sawyer."
-publishDate = "2016-08-05T12:50:00+01:00"
-short_description = "&quot;I know a lot of people that like to sing and play, but they don&#039;t really like it the way I like it,&quot; admits Douglas. &quot;If you really like something you&#039;ll just keep doing it. I didn&#039;t know how much I like it until really recently.&quot;"
-slug = "nate-douglas-writing-songs-is-fun"
-title = "Nate Douglas: &quot;Writing songs is fun.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-08-02T12:22:00+01:00"
+lastmod: "2016-08-05T12:58:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470314151136/2016-08-04---Nate.jpg.jpg
+primary_image_credit: Photo by Lindsay Sawyer.
+publishDate: "2016-08-05T12:50:00+01:00"
+short_description: '&quot;I know a lot of people that like to sing and play, but they
+  don&#039;t really like it the way I like it,&quot; admits Douglas. &quot;If you
+  really like something you&#039;ll just keep doing it. I didn&#039;t know how much
+  I like it until really recently.&quot;'
+slug: nate-douglas-writing-songs-is-fun
+title: 'Nate Douglas: &quot;Writing songs is fun.&quot;'
+---
 
 "The best audiences are in Québec. There's something about French-Canadian culture, music, art, they just love it," says guitarist and singer/songwriter [Nate Douglas](http://www.natedouglasguitar.com/) of the Celtic fiddle music that takes up a sizeable slice of his performing schedule. Douglas has toured with the likes of fiddle greats Doug Leahy and [Natalie MacMaster](http://www.nataliemacmaster.com/), and he plays a mix of Celtic music and jazz/rock fusion with various bands around North America.
 
@@ -41,7 +45,9 @@ Professional musicians know that the love of their work is incredibly strong, an
 
 And when his wife can make the trip to hear him play? "You almost don't even need to talk about the gig after," says Douglas, "because you were both there, you both lived it."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470315191800/2016-08-04---Nate-Recording-Collage.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470315191800/2016-08-04---Nate-Recording-Collage.jpg.jpg)
 <figcaption>Clockwise from top left: Nate Douglas, Tom Fitzgerald, James Law, and Tara Douglas, recording at Phase One Studios, Toronto, 2016. Photos by Lindsay Sawyer.</figcaption>
 </figure>
 

@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2017-06-01T08:26:00-06:00"
-lastmod = "2017-06-05T20:08:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496418266199/2017-06-02---Fear.jpg.jpg"
-publishDate = "2017-06-05T20:08:00-06:00"
-related_articles = ["articles/what-crippling-stage-fright-taught-me-about-money.md","articles/whos-afraid-of-the-aging-singer.md"]
-short_description = "One singer admitted an irrational fear of finding himself standing downstage centre, unable to do anything but open and close his mouth silently and dumbly, like a carp. A conductor told me that he rarely uses a baton, for fear of letting it slip out of his hands and fly into the eyeball of his concertmaster. A certain director is afraid of accidentally preparing the wrong opera."
-slug = "what-are-your-irrational-stage-fears"
-title = "What are your irrational stage fears?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2017-06-01T08:26:00-06:00"
+lastmod: "2017-06-05T20:08:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496418266199/2017-06-02---Fear.jpg.jpg
+publishDate: "2017-06-05T20:08:00-06:00"
+related_articles:
+- articles/what-crippling-stage-fright-taught-me-about-money.md
+- articles/whos-afraid-of-the-aging-singer.md
+short_description: One singer admitted an irrational fear of finding himself standing
+  downstage centre, unable to do anything but open and close his mouth silently and
+  dumbly, like a carp. A conductor told me that he rarely uses a baton, for fear of
+  letting it slip out of his hands and fly into the eyeball of his concertmaster.
+  A certain director is afraid of accidentally preparing the wrong opera.
+slug: what-are-your-irrational-stage-fears
+title: What are your irrational stage fears?
+---
 
 Mine is falling onstage.
 

@@ -1,22 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2019-10-20T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "If you have a true story of sexual harassment, abuse, or assault within the opera and classical music industries, you can send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com)."
-preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld at the author's request."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571941706/media/2019/10/TheStories14-resized_rp9owr.jpg"
-primary_image_credit = ""
-related_articles = ["articles/thestories-part-15.md", "articles/thestories-part-14.md", "articles/thestories-part-12.md", "articles/thestories-part-10-1.md", "articles/thestories-part-10-2.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md"]
-related_companies = []
-related_people = []
-short_description = "\"It seems to be quite a non-standardized industry, so many people think they can dictate how 'the industry' is run, and they can tell that to young, inexperienced, bright-eyed bushy-tailed students, and do whatever they want.\""
-slug = "thestories-part-13"
-title = "#TheStories, part 13"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-10-20T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: If you have a true story of sexual harassment, abuse, or assault within
+  the opera and classical music industries, you can send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com).
+preamble: This is one part in a series of personal accounts of harassment, abuse,
+  and assault in the opera and classical music industries. These stories are published
+  as told to me, with some names and details withheld at the author's request.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571941706/media/2019/10/TheStories14-resized_rp9owr.jpg
+primary_image_credit: ""
+related_articles:
+- articles/thestories-part-15.md
+- articles/thestories-part-14.md
+- articles/thestories-part-12.md
+- articles/thestories-part-10-1.md
+- articles/thestories-part-10-2.md
+- articles/thestories-part-9.md
+- articles/thestories-part-8.md
+- articles/thestories-part-10.md
+- articles/thestories-part-6.md
+- articles/thestories-part-5.md
+- articles/thestories-part-4.md
+- articles/thestories-part-3.md
+- articles/thestories-part-2.md
+- articles/thestories-part-i.md
+related_companies: []
+related_people: []
+short_description: '"It seems to be quite a non-standardized industry, so many people
+  think they can dictate how ''the industry'' is run, and they can tell that to young,
+  inexperienced, bright-eyed bushy-tailed students, and do whatever they want."'
+slug: thestories-part-13
+title: '#TheStories, part 13'
+youtube_url: ""
+---
 In my case, it was just some local company.
 
 I was assaulted during a performance of _Cavalleria rusticana_. I was the Turiddu, and my ex-boss was the Santuzza, much older than me. She said some highly inappropriate things to me in the past, like, "If you were 20 years younger, I'd bone you." Despite the conversations trying to stop this behaviour, she continued.

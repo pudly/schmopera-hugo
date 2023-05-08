@@ -1,15 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-08-03T04:11:00-04:00"
-lastmod = "2017-01-02T20:35:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481457239188/2016-12-11---Fog.jpg.jpg"
-publishDate = "2016-08-07T13:44:00-04:00"
-related_articles = ["articles/the-opera-posse-phenomenon.md","articles/artists-administration-reputations.md","articles/substance-abuse-in-the-opera-industry-yup-but-why.md","articles/operas-sexual-assault-secret.md","articles/some-uncomfortable-questions-about-the-levine-business.md"]
-short_description = "Jokes about double-entendre music terms (&quot;fingering,&quot; &quot;tongue tension,&quot; &quot;G-string,&quot; etc.), invasion of personal space (teaching by demonstration), and (perhaps) innocent flirting; all of these commonplace pieces of sexual harassment are perhaps more dangerous when combined with a captive audience of sorts."
-slug = "musicians-sexual-harassment-blurred-lines"
-title = "Musicians, sexual harassment, &amp; blurred lines"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-08-03T04:11:00-04:00"
+lastmod: "2017-01-02T20:35:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481457239188/2016-12-11---Fog.jpg.jpg
+publishDate: "2016-08-07T13:44:00-04:00"
+related_articles:
+- articles/the-opera-posse-phenomenon.md
+- articles/artists-administration-reputations.md
+- articles/substance-abuse-in-the-opera-industry-yup-but-why.md
+- articles/operas-sexual-assault-secret.md
+- articles/some-uncomfortable-questions-about-the-levine-business.md
+short_description: Jokes about double-entendre music terms (&quot;fingering,&quot;
+  &quot;tongue tension,&quot; &quot;G-string,&quot; etc.), invasion of personal space
+  (teaching by demonstration), and (perhaps) innocent flirting; all of these commonplace
+  pieces of sexual harassment are perhaps more dangerous when combined with a captive
+  audience of sorts.
+slug: musicians-sexual-harassment-blurred-lines
+title: Musicians, sexual harassment, &amp; blurred lines
+---
 
 It was slightly eerie to listen to [Lauren Pierce describe](http://www.insidethearts.com/audience/going-confidently-in-the-direction-of-her-dreams/) some uncomfortable moments during a contract subbing as a double bassist in an orchestra. She recalled a man, a fellow orchestra member, whose seat was behind Pierce's, who spent a few rehearsals moving from friendly with her, to suggestive, to crossing lines.
 

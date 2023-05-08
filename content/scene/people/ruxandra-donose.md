@@ -1,15 +1,26 @@
-+++
-date = "2019-01-29T03:06:53+00:00"
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548730998/media/2019/01/RuxandraDonose-pc-NicolaeAlexa.jpg"
-primary_image_credit = "Nicolae Alexa"
-related_companies = ["scene/companies/bayerische-staatsoper.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/glyndebourne.md", "scene/companies/los-angeles-opera.md", "scene/companies/grange-park-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/english-national-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/opernhaus-zurich.md"]
-slug = "ruxandra-donose"
-social_media = []
-title = "Ruxandra Donose"
-website = "http://www.ruxandradonose.com/"
-
-+++
+---
+_template: people_single
+date: "2019-01-29T03:06:53+00:00"
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548730998/media/2019/01/RuxandraDonose-pc-NicolaeAlexa.jpg
+primary_image_credit: Nicolae Alexa
+related_companies:
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/glyndebourne.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/grange-park-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/english-national-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/opernhaus-zurich.md
+slug: ruxandra-donose
+social_media: []
+title: Ruxandra Donose
+website: http://www.ruxandradonose.com/
+---
 Among the most renowned singers of her generation, Ruxandra Donose has captured critical and popular acclaim in leading opera houses and concert halls around the world. Particularly associated with the Mozart and French lyric repertoire, she has transitioned in recent year to the German dramatic repertoire, enjoying huge successes as Kundry Parsifal, with Sir Simon Rattle and the Berlin Philharmonic and Elektra in Manfred Trojan’s _Orest_ at Opernhaus Zürich. This season she maker eagerly anticipated debuts as Fricka in Dieter Dorn’s production of _The Ring Cycle_ at Grand Théâtre de Genève and as Sieglinde _Die Walküre_ with Vladimir Jurowski and the London Philharmonic Orchestra as well as returning to Grange Park to reprise her acclaimed portrayal of Eboli _Don Carlo_.
 
 Recent engagements saw her making debuts as _Norma_ at Opéra de Rouen; Jocasta in Enescu’s _Oedipe_ at the Enescu Festival in Bucharest and the Royal Festival Hall with the London Philharmonic Orchestra under the baton of Vladimir Jurowski; Eboli _Don Carlo_ at Grange Park; and Eduige _Rodelinda_ at the Bolshoi Theatre in Moscow.

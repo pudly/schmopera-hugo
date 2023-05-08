@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2014-11-24T08:00:00-05:00"
-lastmod = "2015-04-13T22:30:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428978544677/UnpaidArtists.png"
-publishDate = "2014-11-24T08:00:00-05:00"
-related_articles = ["articles/tshirts-and-tender-artists.md","articles/nude-musicians-less-hot-than-it-sounds.md"]
-short_description = "I came across two separate articles the other day, on the topic of artists working without pay. The first was this open letter to Oprah, written by Revolva, a professional hula hoop act and vaudeville performer. Apparently, Oprah&#039;s The Life You Want Weekend tour invited Revolva to work for their San Jose stop earlier this month. The catch: she&#039;d be working for free."
-slug = "unpaid-artists-and-all-the-ways-they-can-stay-that-way"
-title = "Unpaid Artists, and all the ways they can stay that way"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2014-11-24T08:00:00-05:00"
+lastmod: "2015-04-13T22:30:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428978544677/UnpaidArtists.png
+publishDate: "2014-11-24T08:00:00-05:00"
+related_articles:
+- articles/tshirts-and-tender-artists.md
+- articles/nude-musicians-less-hot-than-it-sounds.md
+short_description: 'I came across two separate articles the other day, on the topic
+  of artists working without pay. The first was this open letter to Oprah, written
+  by Revolva, a professional hula hoop act and vaudeville performer. Apparently, Oprah&#039;s
+  The Life You Want Weekend tour invited Revolva to work for their San Jose stop earlier
+  this month. The catch: she&#039;d be working for free.'
+slug: unpaid-artists-and-all-the-ways-they-can-stay-that-way
+title: Unpaid Artists, and all the ways they can stay that way
+---
 
 I came across two separate articles the other day, on the topic of artists working without pay. The first was [this open letter to Oprah](http://revolva.net/2014/11/13/an-open-letter-to-oprah/), written by Revolva, a professional [hula hoop act ](http://youtu.be/Zhg_9-Pl5k8)and vaudeville performer. Apparently, Oprah's [_The Life You Want Weekend_](http://www.oprahweekend.com/events) tour invited Revolva to work for their San Jose stop earlier this month. The catch: she'd be working for free. Now, I love me a good open letter from an artist standing up for his or her own professional respect (she didn't take the gig), and this instance seemed to me a gross imbalance of value between employer and artist. She writes, "Events that are netting a metric butt-ton of money are just being unethical to offer artists nothing—or free tickets—or a child’s birthday party rates. And if that’s what’s happening, maybe someone should speak up and say, 'Is this tour about how to achieve to your ‘ideal life’ REALLY going to rattle its tin cup and ask local artists for a free act?'" Revolva doesn't post her booking rates on her website, but I can't imagine that it would put too much of a dent in the budget for an event like _The Life You Want Weekend_. I mean, it's Oprah, of all things, including speakers like Deepak Chopra. Tickets run from $99-$999\. I assume there's some money being made. Just not by Revolva.
 

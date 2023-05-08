@@ -1,14 +1,20 @@
-+++
-date = "2016-10-13T11:19:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-10-13T11:19:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476353721765/7262a3_0b5e080856e44d39bbc32274dc0d40b0.jpg.jpg"
-publishDate = "2016-10-13T11:19:00+01:00"
-related_companies = ["scene/companies/loftopera.md","scene/companies/the-metropolitan-opera.md","scene/companies/seattle-opera.md","scene/companies/nyc-opera-renaissance.md","scene/companies/on-site-opera.md"]
-slug = "elizabeth-pojanowski"
-title = "Elizabeth Pojanowski"
-website = "http://www.elizabethpojanowski.com/"
-+++
+---
+_template: people_single
+date: "2016-10-13T11:19:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2016-10-13T11:19:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476353721765/7262a3_0b5e080856e44d39bbc32274dc0d40b0.jpg.jpg
+publishDate: "2016-10-13T11:19:00+01:00"
+related_companies:
+- scene/companies/loftopera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/nyc-opera-renaissance.md
+- scene/companies/on-site-opera.md
+slug: elizabeth-pojanowski
+title: Elizabeth Pojanowski
+website: http://www.elizabethpojanowski.com/
+---
 
 American mezzo-soprano Elizabeth Pojanowski is gaining renown in theaters and concert halls not only for her voice but for her electric stage presence and keen interpretation of new works. Opera News writes that in Chautauqua Opera’s production of *The Cunning Little Vixen*, “her Fox provided a charming love interest and a warm, clear timbre.”  In 2015, she sang Dorabella in Annapolis Opera’s production of *Cosìfan tutte* and also originated the role of Sadie in the critically acclaimed world premiere of Ricky Ian Gordon’s beautiful opera *Morning Star* with Cincinnati Opera.  She began 2016 performing Cherubino *Le nozze di Figaro* with Seattle Opera, and this summer will perform Isolier *Le comte Ory* with Loft Opera.
 

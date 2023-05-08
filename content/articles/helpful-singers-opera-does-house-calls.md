@@ -1,15 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-03-29T09:11:00+01:00"
-lastmod = "2016-03-29T11:34:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459245328057/2016-03-29---Front-Door.jpg.jpg"
-publishDate = "2016-03-29T11:09:00+01:00"
-related_articles = ["articles/music-the-musicians-therapy-except-when-its-not.md","articles/the-heart-and-the-art.md","articles/in-defence-of-singers.md"]
-short_description = "To singers and others immersed in opera, this may seem like a surprising way for people to seek therapy; our first reaction was to go through a mental list of arias, and imagine what operatic excerpts would serve to help people with their modern-day problems. It&#039;s an amazing test of time for the repertoire, and for the singers, who choose arias for people going through romantic troubles, problems with children or parents, bereavement, symptoms of depression, or the good old &quot;sick of being single&quot;."
-slug = "helpful-singers-opera-does-house-calls"
-title = "Helpful singers: opera does house calls"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-03-29T09:11:00+01:00"
+lastmod: "2016-03-29T11:34:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459245328057/2016-03-29---Front-Door.jpg.jpg
+publishDate: "2016-03-29T11:09:00+01:00"
+related_articles:
+- articles/music-the-musicians-therapy-except-when-its-not.md
+- articles/the-heart-and-the-art.md
+- articles/in-defence-of-singers.md
+short_description: To singers and others immersed in opera, this may seem like a surprising
+  way for people to seek therapy; our first reaction was to go through a mental list
+  of arias, and imagine what operatic excerpts would serve to help people with their
+  modern-day problems. It&#039;s an amazing test of time for the repertoire, and for
+  the singers, who choose arias for people going through romantic troubles, problems
+  with children or parents, bereavement, symptoms of depression, or the good old &quot;sick
+  of being single&quot;.
+slug: helpful-singers-opera-does-house-calls
+title: 'Helpful singers: opera does house calls'
+---
 
 We recently caught [Tim Jonze's article](http://www.theguardian.com/music/2016/mar/27/home-therapy-opera-singers-anxious-stressed-ease-worries) for *The Guardian* about [Opera Helps](http://www.operahelps.com/), a UK-based project started by artist and opera enthusiast [Joshua Sofaer](http://www.joshuasofaer.com/2016/02/opera-helps-uk-tour/). The premise is beautifully succinct: if you're feeling down, stressed, or burdened by a problem, you can [fill out an application](http://www.operahelps.com/#apply), and Opera Helps will respond. "If we can meet their needs, a professional opera singer will visit their home and listen to the problem. Then the singer will select the aria that relates to the problem. The aria will be sung to the participant as they relax in their preferred room."
 

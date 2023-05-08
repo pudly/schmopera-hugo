@@ -1,15 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-04-10T22:38:00-04:00"
-lastmod = "2015-04-10T22:38:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428719807440/RCM_Fotor.jpg.jpg"
-publishDate = "2015-03-12T10:38:00-04:00"
-related_articles = ["articles/entire-mfa-class-drops-out-of-usc.md","articles/wells-fargo-isnt-antiarts-everyone.md"]
-short_description = "I&#039;m not saying that music degrees are a financial black hole, but they cost either as much or near as much as many science degrees. The disparity begs an unpopular question: is it ethical for universities to charge such similar tuition for a music degree as they do for a science degree?"
-slug = "is-the-cost-of-a-music-degree-ethical"
-title = "Is the Cost of a Music Degree Ethical?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-04-10T22:38:00-04:00"
+lastmod: "2015-04-10T22:38:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428719807440/RCM_Fotor.jpg.jpg
+publishDate: "2015-03-12T10:38:00-04:00"
+related_articles:
+- articles/entire-mfa-class-drops-out-of-usc.md
+- articles/wells-fargo-isnt-antiarts-everyone.md
+short_description: 'I&#039;m not saying that music degrees are a financial black hole,
+  but they cost either as much or near as much as many science degrees. The disparity
+  begs an unpopular question: is it ethical for universities to charge such similar
+  tuition for a music degree as they do for a science degree?'
+slug: is-the-cost-of-a-music-degree-ethical
+title: Is the Cost of a Music Degree Ethical?
+---
 
 <p>
 	I loved my time in university. For the first time in my life, I was surrounded with everything I needed to do exactly what I wanted: make music, listen to music, scour libraries for music, nerd out about music. I even found like-minded friends, and our relationships grew out of our mutual love of our work. I still remember those inspiring times, even when I look back with exasperation on the disproportionate amount of training for the amount of payback (financial and otherwise). I've touched before on the topic of outdated curriculum for music students, and how the lack of emphasis on self-management and entrepreneurship puts music grads into trouble in the real world. But consider the savvy music student who really does know how to manage his own business and how to market himself. Consider that this student went to school in the United States, say, where an undergraduate degree can put 20-somethings into 6-figure debt. What are the chances that the student will make enough money to a) pay back their student loans in a reasonable amount of time, and b) have a comfortable life, family included, on top of that?

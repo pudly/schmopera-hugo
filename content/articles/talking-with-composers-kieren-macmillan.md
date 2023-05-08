@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-03T15:03:00-06:00"
-lastmod = "2017-07-08T09:07:00-06:00"
-preamble = "Toronto-based composer [Kieren MacMillan](/scene/people/kieren-macmillan/)'s body of work includes chamber operas, musicals, film and TV scores; when he's not writing music,  he's an in-demand pianist, music director, and singer. MacMillan is currently writing a new song cycle for [HAVEN trio](http://www.haventrio.com/) and a large-scale work for the MIT Symphony Orchestra; plus, you can see him as Judge Turpin in [*Sweeney Todd*](http://www.sweeneytoronto.com/) this October.\n\nMacMillan offers an honest interview about perfectionism, \"guilty pleasure\" music, and being a chameleon-like composer."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499229708826/2017-07-05---MacMillan-square.jpg.jpg"
-publishDate = "2017-07-07T22:56:00-06:00"
-related_articles = ["articles/talking-with-composers-alexina-louie.md","articles/talking-with-composers-cecilia-livingston.md"]
-related_people = ["scene/people/kieren-macmillan.md"]
-short_description = "&quot;I think people believe I can punch in at 9AM, and by 5PM I&#039;ll have written a few minutes of music I&#039;m proud to send out the door. There are lots of composers who can, of course — I truly wish I were one of them, but it can take me hours or even days to get out of one mindset and into &#039;the zone&#039; of music composition.&quot;"
-slug = "talking-with-composers-kieren-macmillan"
-title = "Talking with composers: Kieren MacMillan"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-03T15:03:00-06:00"
+lastmod: "2017-07-08T09:07:00-06:00"
+preamble: |-
+  Toronto-based composer [Kieren MacMillan](/scene/people/kieren-macmillan/)'s body of work includes chamber operas, musicals, film and TV scores; when he's not writing music,  he's an in-demand pianist, music director, and singer. MacMillan is currently writing a new song cycle for [HAVEN trio](http://www.haventrio.com/) and a large-scale work for the MIT Symphony Orchestra; plus, you can see him as Judge Turpin in [*Sweeney Todd*](http://www.sweeneytoronto.com/) this October.
+
+  MacMillan offers an honest interview about perfectionism, "guilty pleasure" music, and being a chameleon-like composer.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499229708826/2017-07-05---MacMillan-square.jpg.jpg
+publishDate: "2017-07-07T22:56:00-06:00"
+related_articles:
+- articles/talking-with-composers-alexina-louie.md
+- articles/talking-with-composers-cecilia-livingston.md
+related_people:
+- scene/people/kieren-macmillan.md
+short_description: '&quot;I think people believe I can punch in at 9AM, and by 5PM
+  I&#039;ll have written a few minutes of music I&#039;m proud to send out the door.
+  There are lots of composers who can, of course — I truly wish I were one of them,
+  but it can take me hours or even days to get out of one mindset and into &#039;the
+  zone&#039; of music composition.&quot;'
+slug: talking-with-composers-kieren-macmillan
+title: 'Talking with composers: Kieren MacMillan'
+---
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

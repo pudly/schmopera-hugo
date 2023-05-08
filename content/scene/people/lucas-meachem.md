@@ -1,30 +1,37 @@
-+++
-date = "2018-01-16T19:46:00-05:00"
-discipline = "Baritone"
-lastmod = "2018-01-16T19:46:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516149089702/lucasMeachem-14.jpg.jpg"
-publishDate = "2018-01-16T19:46:00-05:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/canadian-opera-company.md","scene/companies/glyndebourne.md","scene/companies/wiener-staatsoper.md","scene/companies/the-santa-fe-opera.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/houston-grand-opera.md","scene/companies/the-metropolitan-opera.md"]
-slug = "lucas-meachem"
-title = "Lucas Meachem"
-website = "http://lucasmeachem.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/LucasBaritone"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/LucasMeachem"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/lucasmeachem/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCc0Fon1_s_AZZU8J3wMeREA"
-+++
+---
+date: "2018-01-16T19:46:00-05:00"
+discipline: Baritone
+lastmod: "2018-01-16T19:46:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516149089702/lucasMeachem-14.jpg.jpg
+publishDate: "2018-01-16T19:46:00-05:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/glyndebourne.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-metropolitan-opera.md
+slug: lucas-meachem
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/LucasBaritone
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/LucasMeachem
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/lucasmeachem/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCc0Fon1_s_AZZU8J3wMeREA
+title: Lucas Meachem
+website: http://lucasmeachem.com/
+---
 
 American baritone Lucas Meachem is an internationally sought-after performer whose compelling lyric baritone voice and dramatic interpretations have led him to the world’s most important operatic stages. Hailed by critics as “vocally faultless and a natural actor” (Classical Chicago Review) with “a clear baritone whose fragments can pierce the soul” (Forum Opera), and “a rockstar of opera” (Opera Pulse). Meachem has found both critical and commercial success at home and abroad. His latest award came at the 2016 Grammys where he took home a Grammy for Best Opera Recording as Figaro in Los Angeles Opera’s Production of *The Ghosts of Versailles*. Named the winner of San Francisco Opera’s inaugural “Emerging Star of the Year” Award in 2016, Meachem highlighted this previous season with a triumphant return to San Francisco in September as Dr. Malatesta in Laurent Pelly’s production of Donizetti’s comic masterpiece *Don Pasquale*. 
 

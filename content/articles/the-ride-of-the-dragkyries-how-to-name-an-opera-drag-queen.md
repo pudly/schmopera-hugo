@@ -1,17 +1,34 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Humour"
-date = "2017-01-06T10:02:00-05:00"
-lastmod = "2017-10-25T20:51:00-04:00"
-preamble = "There's a curious relationship between opera and drag queens; in hindsight, it's the most natural symbiosis one could think of, since exaggeration and imagination are at the heart of both art forms. Toronto's Opera 5 featured Pearle Harbour in their fab production of [*Die Fledermaus*](/die-fledermaus-die-fleder-fabulous/), and RuPaul's Drag Racer [Latrice Royale](https://www.instagram.com/p/BNiIxZeB0bE/) made an awesome appearance at The Metropolitan Opera's #FUN40 in December.\n\nBecause we just couldn't help ourselves, Greg & Jenna have imagined 10 hypothetical drag queens from the world of opera, and we've delved into the fine art of creating operatic drag names for all of them. Enjoy.\n\n**Note: though it may be hilarious, the strong language in this post may not be entirely safe for work.**"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508979062252/2017-10-26---Drag-Queen.jpg.jpg"
-publishDate = "2017-01-13T04:53:00-05:00"
-related_articles = ["articles/die-fledermaus-die-flederfabulous.md","articles/talking-with-singers-jamie-barton.md","articles/a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza.md","articles/die-walkure.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/opera-5.md"]
-short_description = "The attention-seeking Lucia wears her di Glammermore tartan with pride, and just a titch of morbidity. She likes cemeteries, believes in ghosts, and she has the wild eyes of someone with a past - someone you don&#039;t want to piss off. One is never quite sure if that smear of red on her kilt is from her lipstick, or from something more sinister."
-slug = "the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen"
-title = "The Ride of the Dragkyries: how to name an opera drag queen"
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Humour
+date: "2017-01-06T10:02:00-05:00"
+lastmod: "2017-10-25T20:51:00-04:00"
+preamble: |-
+  There's a curious relationship between opera and drag queens; in hindsight, it's the most natural symbiosis one could think of, since exaggeration and imagination are at the heart of both art forms. Toronto's Opera 5 featured Pearle Harbour in their fab production of [*Die Fledermaus*](/die-fledermaus-die-fleder-fabulous/), and RuPaul's Drag Racer [Latrice Royale](https://www.instagram.com/p/BNiIxZeB0bE/) made an awesome appearance at The Metropolitan Opera's #FUN40 in December.
+
+  Because we just couldn't help ourselves, Greg & Jenna have imagined 10 hypothetical drag queens from the world of opera, and we've delved into the fine art of creating operatic drag names for all of them. Enjoy.
+
+  **Note: though it may be hilarious, the strong language in this post may not be entirely safe for work.**
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508979062252/2017-10-26---Drag-Queen.jpg.jpg
+publishDate: "2017-01-13T04:53:00-05:00"
+related_articles:
+- articles/die-fledermaus-die-flederfabulous.md
+- articles/talking-with-singers-jamie-barton.md
+- articles/a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza.md
+- articles/die-walkure.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opera-5.md
+short_description: The attention-seeking Lucia wears her di Glammermore tartan with
+  pride, and just a titch of morbidity. She likes cemeteries, believes in ghosts,
+  and she has the wild eyes of someone with a past - someone you don&#039;t want to
+  piss off. One is never quite sure if that smear of red on her kilt is from her lipstick,
+  or from something more sinister.
+slug: the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen
+title: 'The Ride of the Dragkyries: how to name an opera drag queen'
+---
 
 ### Lucia di Glammermore
 

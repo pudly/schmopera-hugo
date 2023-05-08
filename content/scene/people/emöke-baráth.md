@@ -1,17 +1,18 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1560465518/media/2019/06/EmokeBarath.jpg"
-primary_image_credit = "Emmanuel Jacques"
-related_companies = ["scene/companies/glyndebourne.md"]
-slug = "emoke-barath"
-title = "Emöke Baráth"
-website = ""
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/emokebarathsoprano/"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1560465518/media/2019/06/EmokeBarath.jpg
+primary_image_credit: Emmanuel Jacques
+related_companies:
+- scene/companies/glyndebourne.md
+slug: emoke-barath
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/emokebarathsoprano/
+title: Emöke Baráth
+website: ""
+---
 Hungarian soprano Emőke Baráth began her musical education studying the piano and the harp. She began singing at the age of 18 following the teaching of Professor Julia Paszthy at the Franz Liszt academy in Budapest. During the 2011/2012 school year, she also studied at the Luigi Cherubini Conservatory in Florence.
 
 In 2009, she received the third prize at the 44th Anton Dvorak International Competition (Czech republic). In 2011, she won the First Prize and the award of the Public at the Second International Singing Competition for Baroque Opera in Innsbruck (Austria). The same year, she won the Grand Prix of Verbier Festival Academy (Switzerland).

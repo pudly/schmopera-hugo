@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-07-26T15:11:00-04:00"
-lastmod = "2016-07-31T10:57:00-04:00"
-preamble = "Baritone Will Liverman seems to be a vocal chameleon, singing everything from Tarquinius in *The Rape of Lucretia* to Figaro in *Il barbiere di Siviglia* to Dizzy Gillespie in *Charlie Parker's Yardbird*. In August, he heads to Seattle Opera to sing Raimbaud in *Le comte Ory*, and in 2017 he'll reprise the role of Dizzy Gillespie at Madison Opera. In his refreshing interview, Liverman attests to the value of learning languages, his coloratura-soprano-envy, and his failed attempt at a career in the NBA."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469560872224/2016-07-26---Will-Liverman-S.-Richards.jpg.jpg"
-primary_image_credit = "Photo by S. Richards"
-publishDate = "2016-07-28T20:29:00-04:00"
-related_articles = ["articles/spotlight-on-william-ford.md","articles/spotlight-on-maikai-nash.md","articles/talking-with-singers-jorell-williams.md","articles/talking-with-singers-othalie-graham.md"]
-related_people = ["scene/people/will-liverman.md"]
-short_description = "&quot;I enjoy singing because of the rush I get every time I&#039;m onstage. There&#039;s absolutely nothing like it and there&#039;s nothing better than having that chance to move someone to tears or laughter through the power of music and performance.&quot;"
-slug = "spotlight-on-will-liverman"
-title = "Spotlight on: Will Liverman"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-07-26T15:11:00-04:00"
+lastmod: "2016-07-31T10:57:00-04:00"
+preamble: Baritone Will Liverman seems to be a vocal chameleon, singing everything
+  from Tarquinius in *The Rape of Lucretia* to Figaro in *Il barbiere di Siviglia*
+  to Dizzy Gillespie in *Charlie Parker's Yardbird*. In August, he heads to Seattle
+  Opera to sing Raimbaud in *Le comte Ory*, and in 2017 he'll reprise the role of
+  Dizzy Gillespie at Madison Opera. In his refreshing interview, Liverman attests
+  to the value of learning languages, his coloratura-soprano-envy, and his failed
+  attempt at a career in the NBA.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469560872224/2016-07-26---Will-Liverman-S.-Richards.jpg.jpg
+primary_image_credit: Photo by S. Richards
+publishDate: "2016-07-28T20:29:00-04:00"
+related_articles:
+- articles/spotlight-on-william-ford.md
+- articles/spotlight-on-maikai-nash.md
+- articles/talking-with-singers-jorell-williams.md
+- articles/talking-with-singers-othalie-graham.md
+related_people:
+- scene/people/will-liverman.md
+short_description: '&quot;I enjoy singing because of the rush I get every time I&#039;m
+  onstage. There&#039;s absolutely nothing like it and there&#039;s nothing better
+  than having that chance to move someone to tears or laughter through the power of
+  music and performance.&quot;'
+slug: spotlight-on-will-liverman
+title: 'Spotlight on: Will Liverman'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

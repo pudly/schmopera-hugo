@@ -1,15 +1,22 @@
-+++
-author = ["authors/vanessa-chumbley.md"]
-categories = "Op-ed"
-date = "2017-04-18T12:56:00+01:00"
-lastmod = "2017-04-19T11:12:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492517001092/2017-04-18---Full-time.jpg.jpg"
-publishDate = "2017-04-18T20:10:00+01:00"
-related_articles = ["articles/giving-up-caring-too-little-and-other-taboos.md","articles/when-lost-find-roots.md"]
-short_description = "Throughout my freelance life, more often than not, the workload-to-compensation ratio was astronomically out of balance, but it soon became apparent that this was more of the rule than the exception. And of course, most of us accept these conditions because this is how we get work and experience, in the hopes that it will lead to bigger and better gigs where that ratio will hopefully seem a little more civilized."
-slug = "taking-the-leap-from-freelance-to-fulltime"
-title = "Taking the leap from freelance to full-time"
-+++
+---
+author:
+- authors/vanessa-chumbley.md
+categories: Op-ed
+date: "2017-04-18T12:56:00+01:00"
+lastmod: "2017-04-19T11:12:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492517001092/2017-04-18---Full-time.jpg.jpg
+publishDate: "2017-04-18T20:10:00+01:00"
+related_articles:
+- articles/giving-up-caring-too-little-and-other-taboos.md
+- articles/when-lost-find-roots.md
+short_description: Throughout my freelance life, more often than not, the workload-to-compensation
+  ratio was astronomically out of balance, but it soon became apparent that this was
+  more of the rule than the exception. And of course, most of us accept these conditions
+  because this is how we get work and experience, in the hopes that it will lead to
+  bigger and better gigs where that ratio will hopefully seem a little more civilized.
+slug: taking-the-leap-from-freelance-to-fulltime
+title: Taking the leap from freelance to full-time
+---
 
 >"The future isn’t just something that happens. It’s a brutal force with a great sense of humor that will steamroll you, if you’re not watching." -- Aloha
 

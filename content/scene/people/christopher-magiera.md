@@ -1,15 +1,22 @@
-+++
-date = "2019-03-19T17:28:46+00:00"
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553016322/media/2019/03/ChristopherMagiera.jpg"
-primary_image_credit = "Christie Pham."
-related_companies = ["scene/companies/vancouver-opera.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/english-national-opera.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "christopher-magiera"
-social_media = []
-title = "Christopher Magiera"
-website = "http://www.christophermagieramusic.com/"
-
-+++
+---
+_template: people_single
+date: "2019-03-19T17:28:46+00:00"
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553016322/media/2019/03/ChristopherMagiera.jpg
+primary_image_credit: Christie Pham.
+related_companies:
+- scene/companies/vancouver-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/english-national-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-metropolitan-opera.md
+slug: christopher-magiera
+social_media: []
+title: Christopher Magiera
+website: http://www.christophermagieramusic.com/
+---
 Christopher Magiera has been noted for his “manly, vibrant baritone of uncommon distinction” (Opera Today) and was praised by The New York Times for his performance in _The Death of Klinghoffer_: “Among a uniformly outstanding cast, Christopher Magiera, a handsome baritone, stands out as a warm, brave and sympathetic Captain.” Mr. Magiera has been seen on stages throughout the world in leading baritone repertoire with renowned conductors such as Kent Nagano, Riccardo Frizza, Asher Fisch, Vladimir Jurowski, Emmanuel Villaume, Stephen Lord, Pier Giorgio Morandi and Frederic Chaslin.  
 
 In the 2017-18 season, Christopher Magiera reprised the role of Sharpless with Opera Naples, was soloist in Bach's _Ich habe genug_ -  BWV 82 - with the Depaul Concert Orchestra, and joined the Lyric Opera of Chicago for their production of Gregory Spears' _Fellow Travelers_. Upcoming engagements in 2018-19 include Robert in _Iolanta_ and Gardiner in _Moby Dick_ with Chicago Opera Theater, and Jim Crowley in a new production of Jack Perla's _An American Dream_ with Lyric Opera of Chicago.

@@ -1,30 +1,37 @@
-+++
-date = "2016-10-13T11:25:00+01:00"
-lastmod = "2016-10-13T11:26:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476354380785/Logo---OSO.jpg.jpg"
-publishDate = "2016-10-13T11:25:00+01:00"
-related_people = ["scene/people/gregg-kallor.md","scene/people/elizabeth-pojanowski.md","scene/people/robert-orth.md","scene/people/maeve-hoglund.md","scene/people/jennifer-zetlan.md","scene/people/marc-molomot.md","scene/people/blythe-gaissert.md","scene/people/emily-pulley.md","scene/people/alisa-jordheim.md"]
-slug = "on-site-opera"
-title = "On Site Opera"
-type_of_company = "Opera Company"
-website = "http://osopera.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/OnSiteOpera/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/onsiteopera"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/onsiteopera/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/c/osoperaorgoso"
-+++
+---
+date: "2016-10-13T11:25:00+01:00"
+lastmod: "2016-10-13T11:26:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476354380785/Logo---OSO.jpg.jpg
+publishDate: "2016-10-13T11:25:00+01:00"
+related_people:
+- scene/people/gregg-kallor.md
+- scene/people/elizabeth-pojanowski.md
+- scene/people/robert-orth.md
+- scene/people/maeve-hoglund.md
+- scene/people/jennifer-zetlan.md
+- scene/people/marc-molomot.md
+- scene/people/blythe-gaissert.md
+- scene/people/emily-pulley.md
+- scene/people/alisa-jordheim.md
+slug: on-site-opera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/OnSiteOpera/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/onsiteopera
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/onsiteopera/
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/c/osoperaorgoso
+title: On Site Opera
+type_of_company: Opera Company
+website: http://osopera.org/
+---
 
 Embarking on its sixth season of producing immersive site-specific opera, On Site Opera (OSO) has established itself as one of New York City’s most imaginative, nimble opera companies by doing more than simply staging musically and dramatically rich works outside of the opera house. OSO’s team of General & Artistic Director, Eric Einhorn, Music Director, Geoffrey McDonald, and Executive Director/Producer, Jessica Kiger have pushed the boundaries of operatic storytelling, producing operas in locations that allow singers and audiences alike to immerse themselves in the narrative. Reviewing the first chapter of *The Figaro Project*, in which OSO is staging lesser-known operatic adaptations of French playwright Pierre-Augustin Caron de Beaumarchais’ (1732-1799) famed trilogy of Figaro plays, Anthony Tommasini of *The New York Times* wrote, “This visionary company could be on to something big.” He also noted that the “space proved ideal for the intrigues of the opera.”
 

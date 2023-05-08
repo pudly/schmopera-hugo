@@ -1,18 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2014-03-05T13:50:00-05:00"
-lastmod = "2015-04-27T18:36:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430174169607/McPhailSquare.jpg.jpg"
-primary_image_credit = "Photo by Veronika Roux"
-publishDate = "2014-03-05T13:50:00-05:00"
-related_articles = ["articles/tune-into-cardiff-2015.md"]
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md"]
-related_people = ["scene/people/cameron-mcphail.md"]
-short_description = "Last month, fellow colleague and buddy Cameron McPhail was named a winner of the George London Foundation Awards Competition. Way to go, Cam! I asked the COC Ensemble Studio member how it felt:"
-slug = "cameron-mcphail-on-competing"
-title = "Cameron McPhail: On Competing"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2014-03-05T13:50:00-05:00"
+lastmod: "2015-04-27T18:36:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430174169607/McPhailSquare.jpg.jpg
+primary_image_credit: Photo by Veronika Roux
+publishDate: "2014-03-05T13:50:00-05:00"
+related_articles:
+- articles/tune-into-cardiff-2015.md
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+related_people:
+- scene/people/cameron-mcphail.md
+short_description: 'Last month, fellow colleague and buddy Cameron McPhail was named
+  a winner of the George London Foundation Awards Competition. Way to go, Cam! I asked
+  the COC Ensemble Studio member how it felt:'
+slug: cameron-mcphail-on-competing
+title: 'Cameron McPhail: On Competing'
+---
 
 Last month, fellow colleague and buddy Cameron McPhail was [named a winner](http://artsbeat.blogs.nytimes.com/2014/02/24/george-london-vocal-contest-recognizes-american-and-canadian-singers/?_php=true&_type=blogs&smid=tw-nytimesmusic&seid=auto&_r=0) of the [George London Foundation Awards Competition](http://georgelondon.org/?page_id=57). Way to go, Cam! I asked the [COC Ensemble Studio member](http://www.coc.ca/aboutthecoc/companymembers/EnsembleStudio.aspx) how it felt:
 

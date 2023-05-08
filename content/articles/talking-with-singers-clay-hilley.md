@@ -1,19 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-12-20T12:05:00-05:00"
-lastmod = "2018-01-02T12:04:00-05:00"
-preamble = "This weekend on [Saturday, January 6](http://www.wagnersocietyny.org/flyerrecital010618.pdf), the Wagner Society of New York presents tenor [Clay Hilley](/scene/people/clay-hilley/) in recital, after awarding him their Top Prize, the Robert Launch Award in 2015. Among young tenors, Hilley has stepped into the exciting worlds of Heldentenor repertoire, taking on hefty roles like Siegfried, Calaf, Parsifal, and Samson.\n\nWe spoke with Hilley about the fun challenges of Heldentenor repertoire, and what it's like to study closely with fellow tenor and mentor [Jon Fredric West](http://www.guybarzilayartists.com/Jon-Fredric-West)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514656211135/2017-12-30---Clay-Hilley.jpg.jpg"
-primary_image_credit = "Photo: Bethany Davis Photography."
-publishDate = "2018-01-02T11:54:00-05:00"
-related_articles = ["articles/talking-with-singers-brian-jagde.md", "articles/talking-with-singers-bryan-register.md", "articles/talking-with-singers-beste-kalender.md"]
-related_people = ["scene/people/clay-hilley.md"]
-short_description = "&quot;Another temporary obstacle is youth. For the longest time, the toughest thing for me was evading debt collectors long enough to absorb as much as I could about style, language, and technique to eventually earn enough coins to appease them, however temporarily. Impresarios are justifiably skeptical of 30 year old self-proclaimed &quot;Heldentenors.&quot; It takes a while to prove yourself to the casting crowd.&quot;"
-slug = "talking-with-singers-clay-hilley"
-title = "Talking with singers: Clay Hilley"
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-12-20T12:05:00-05:00"
+lastmod: "2018-01-02T12:04:00-05:00"
+preamble: |-
+  This weekend on [Saturday, January 6](http://www.wagnersocietyny.org/flyerrecital010618.pdf), the Wagner Society of New York presents tenor [Clay Hilley](/scene/people/clay-hilley/) in recital, after awarding him their Top Prize, the Robert Launch Award in 2015. Among young tenors, Hilley has stepped into the exciting worlds of Heldentenor repertoire, taking on hefty roles like Siegfried, Calaf, Parsifal, and Samson.
 
-+++
+  We spoke with Hilley about the fun challenges of Heldentenor repertoire, and what it's like to study closely with fellow tenor and mentor [Jon Fredric West](http://www.guybarzilayartists.com/Jon-Fredric-West).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514656211135/2017-12-30---Clay-Hilley.jpg.jpg
+primary_image_credit: 'Photo: Bethany Davis Photography.'
+publishDate: "2018-01-02T11:54:00-05:00"
+related_articles:
+- articles/talking-with-singers-brian-jagde.md
+- articles/talking-with-singers-bryan-register.md
+- articles/talking-with-singers-beste-kalender.md
+related_people:
+- scene/people/clay-hilley.md
+short_description: '&quot;Another temporary obstacle is youth. For the longest time,
+  the toughest thing for me was evading debt collectors long enough to absorb as much
+  as I could about style, language, and technique to eventually earn enough coins
+  to appease them, however temporarily. Impresarios are justifiably skeptical of 30
+  year old self-proclaimed &quot;Heldentenors.&quot; It takes a while to prove yourself
+  to the casting crowd.&quot;'
+slug: talking-with-singers-clay-hilley
+title: 'Talking with singers: Clay Hilley'
+---
 ## Why do you sing professionally?
 
 It chose me, I think. Before I was born my dear grandmother - my "NayNay" - used to pray for a musical grandkid.  When I showed up, it didn't take long for me to get my hands on a cassette tape of _Peter and the Wolf_.  It's alleged that I would carry a child's battery-powered boombox all about, listening to the piece over and over and over.  This instilled both a great appreciation for classical music, and an all-consuming fear of wolves.  The latter I've been able to shake somewhat; the former not so much.

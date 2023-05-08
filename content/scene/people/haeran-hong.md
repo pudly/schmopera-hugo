@@ -1,13 +1,18 @@
-+++
-date = "2017-11-13T14:40:00-05:00"
-discipline = "Soprano"
-lastmod = "2017-11-13T14:41:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510601807725/Hong.H.headshot.jpg.jpg"
-publishDate = "2017-11-13T14:40:00-05:00"
-related_companies = ["scene/companies/florida-grand-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-juilliard-school.md"]
-slug = "haeran-hong"
-title = "Haeran Hong"
-+++
+---
+_template: people_single
+date: "2017-11-13T14:40:00-05:00"
+discipline: Soprano
+lastmod: "2017-11-13T14:41:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510601807725/Hong.H.headshot.jpg.jpg
+publishDate: "2017-11-13T14:40:00-05:00"
+related_companies:
+- scene/companies/florida-grand-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/the-juilliard-school.md
+slug: haeran-hong
+title: Haeran Hong
+---
 
 Soprano Haeran Hong, named the International Queen Elizabeth Grand Prize winner, has been noted as “charming of form, manner, and voice.” In her young, yet fast-paced career, she has performed various leading roles including Adina in *L’elisir d’amore*, Gilda in *Rigoletto*, and Pamina in *Die Zauberflöte*. This season, Ms. Hong will perform the title role of *Lucia di Lammermoor* with Florida Grand Opera, the title role in Verdi’s *Giovanna d’Arco* with Odyssey Opera, and will return to The Metropolitan Opera as Flower Maiden in *Parsifal*.
 

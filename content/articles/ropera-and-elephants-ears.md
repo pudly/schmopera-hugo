@@ -1,14 +1,16 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-04-10T20:46:00-04:00"
-lastmod = "2015-04-12T16:42:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713070178/ElephantEars.jpg.jpg"
-publishDate = "2015-04-02T09:46:00-04:00"
-short_description = "I was perusing the opera corner of Reddit and came across a fantastic post by a user who needed help in naming that opera tune that he/she had just heard."
-slug = "ropera-and-elephants-ears"
-title = "R/Opera and Elephant&#039;s Ears"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-04-10T20:46:00-04:00"
+lastmod: "2015-04-12T16:42:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713070178/ElephantEars.jpg.jpg
+publishDate: "2015-04-02T09:46:00-04:00"
+short_description: I was perusing the opera corner of Reddit and came across a fantastic
+  post by a user who needed help in naming that opera tune that he/she had just heard.
+slug: ropera-and-elephants-ears
+title: R/Opera and Elephant&#039;s Ears
+---
 
 I was perusing the opera corner of Reddit (r/opera) and came across a [fantastic post](http://www.reddit.com/r/opera/comments/3168tw/opera_about_elephants_ears/) by a user who needed help in naming that opera tune that he/she had just heard. 
 

@@ -1,15 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-09-03T19:53:00+02:00"
-lastmod = "2016-09-06T23:14:00+02:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472984298426/2016-09-04---Canada.jpg.jpg"
-publishDate = "2016-09-06T11:09:00+02:00"
-related_people = ["scene/people/russell-braun.md","scene/people/tracy-dahl.md","scene/people/liz-upchurch.md","scene/people/monica-whicher.md"]
-short_description = "Led by President and mezzo-soprano Elizabeth Turnbull, Mysterious Barricades is named after a favourite piece of music of her late husband, Chris&#039;, who sadly took his own life last year. The organization has organized an incredible 18-hour series of concerts happening across Canada, starting at sunrise in St. John&#039;s, NL, and ending at sunset in Victoria, BC."
-slug = "mysterious-barricades-crosscanada-concerts-for-hope"
-title = "Mysterious Barricades: Cross-Canada concerts for hope"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-09-03T19:53:00+02:00"
+lastmod: "2016-09-06T23:14:00+02:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472984298426/2016-09-04---Canada.jpg.jpg
+publishDate: "2016-09-06T11:09:00+02:00"
+related_people:
+- scene/people/russell-braun.md
+- scene/people/tracy-dahl.md
+- scene/people/liz-upchurch.md
+- scene/people/monica-whicher.md
+short_description: Led by President and mezzo-soprano Elizabeth Turnbull, Mysterious
+  Barricades is named after a favourite piece of music of her late husband, Chris&#039;,
+  who sadly took his own life last year. The organization has organized an incredible
+  18-hour series of concerts happening across Canada, starting at sunrise in St. John&#039;s,
+  NL, and ending at sunset in Victoria, BC.
+slug: mysterious-barricades-crosscanada-concerts-for-hope
+title: 'Mysterious Barricades: Cross-Canada concerts for hope'
+---
 
 On **September 10, World Suicide Prevention Day**, 13 Canadian cities will host free, live-streamed concerts presented by the Mysterious Barricades Concert Society, [*A Cross-Canada Concert for Suicide Awareness, Prevention and Hope*.](http://www.mysteriousbarricades.org/)
 

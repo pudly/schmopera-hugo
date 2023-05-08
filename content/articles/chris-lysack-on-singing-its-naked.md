@@ -1,17 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-11-04T09:18:00-05:00"
-lastmod = "2015-11-06T09:14:00-05:00"
-preamble = "Canadian-born tenor Chris Lysack brings a lot to the table when he takes on roles like Florestan (*Fidelio*), Walther von Stolzing in *Die Meistersinger von Nürnberg*, and the Prince in *Rusalka*. He studied voice at the [Manhattan School of Music](/scene/companies/manhattan-school-of-music/), after he earned a Doctor of Music as a pianist, and a PhD in French literature, both from Indiana University. \n\nChris is between performances of two concurrent roles, Cavaradossi in [Theater Aachen](http://www.theateraachen.de/index.php?page=detail_event&id_event_date=13493362)'s production of *Tosca*, and his very first Peter Grimes at [Theater Bremen](http://www.theaterbremen.de/de_DE/kalender/peter-grimes.13254405). In thoughtful, eloquent interview, Chris talks about wearing singer hats and pianist hats, working across the pond, and the tough love that comes with this career."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446656286830/2015-11-04---Chris-Lysack---Square.jpg.jpg"
-primary_image_credit = "Photo: Rebecca Fay Photography"
-publishDate = "2015-11-06T08:00:00-05:00"
-related_people = ["scene/people/chris-lysack.md"]
-short_description = "Canadian-born tenor Chris Lysack brings a lot to the table when he takes on roles like Florestan (Fidelio), Walther von Stolzing in Die Meistersinger von Nürnberg, and the Prince in Rusalka. He studied voice at the Manhattan School of Music, after he earned a Doctor of Music as a pianist, and a PhD in French literature, both from Indiana University."
-slug = "chris-lysack-on-singing-its-naked"
-title = "Chris Lysack, on singing: &quot;It’s naked.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-11-04T09:18:00-05:00"
+lastmod: "2015-11-06T09:14:00-05:00"
+preamble: "Canadian-born tenor Chris Lysack brings a lot to the table when he takes
+  on roles like Florestan (*Fidelio*), Walther von Stolzing in *Die Meistersinger
+  von Nürnberg*, and the Prince in *Rusalka*. He studied voice at the [Manhattan School
+  of Music](/scene/companies/manhattan-school-of-music/), after he earned a Doctor
+  of Music as a pianist, and a PhD in French literature, both from Indiana University.
+  \n\nChris is between performances of two concurrent roles, Cavaradossi in [Theater
+  Aachen](http://www.theateraachen.de/index.php?page=detail_event&id_event_date=13493362)'s
+  production of *Tosca*, and his very first Peter Grimes at [Theater Bremen](http://www.theaterbremen.de/de_DE/kalender/peter-grimes.13254405).
+  In thoughtful, eloquent interview, Chris talks about wearing singer hats and pianist
+  hats, working across the pond, and the tough love that comes with this career."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446656286830/2015-11-04---Chris-Lysack---Square.jpg.jpg
+primary_image_credit: 'Photo: Rebecca Fay Photography'
+publishDate: "2015-11-06T08:00:00-05:00"
+related_people:
+- scene/people/chris-lysack.md
+short_description: Canadian-born tenor Chris Lysack brings a lot to the table when
+  he takes on roles like Florestan (Fidelio), Walther von Stolzing in Die Meistersinger
+  von Nürnberg, and the Prince in Rusalka. He studied voice at the Manhattan School
+  of Music, after he earned a Doctor of Music as a pianist, and a PhD in French literature,
+  both from Indiana University.
+slug: chris-lysack-on-singing-its-naked
+title: 'Chris Lysack, on singing: &quot;It’s naked.&quot;'
+---
 
 ## 1. What sort of balance exists for you between singing, piano, and your passion for literature? How often do they cross over?
 
@@ -25,7 +40,9 @@ probably makes it easier to learn new roles.
 Sometimes the two worlds collide unexpectedly. For example in January of this year, due to some unresolvable scheduling issues, I had a trio performance as a pianist with the concertmaster and one of the cellists from the Hamburg Philharmonic—and it was a big program, too, with trios by Beethoven, Schumann, and Tchaikovsky—and then two hours later, about 125 km away, was in makeup to sing my last Walther von Stolzing in *Die 
 Meistersinger von Nürnberg* in Bremen. I actually posted that whole day’s happenings using the hashtag #ThisDayIsEvenLongerThanAGermanNoun. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446671779373/2015-11-04---LysackJenufa.jpg.jpg)<figcaption>Chris Lysack in *Jenůfa*, Theater Aachen, 2015. Photo: Carl Brunn.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446671779373/2015-11-04---LysackJenufa.jpg.jpg)<figcaption>Chris Lysack in *Jenůfa*, Theater Aachen, 2015. Photo: Carl Brunn.</figcaption>
 </figure>
 
 ## 2. How did you discover that your voice fit this exciting repertoire?
@@ -48,7 +65,9 @@ All of these composers (Britten, Wagner, Puccini, and Janáček) were primarily 
 
 And then, speaking of musical transcendence, let’s not forget *Fidelio*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446672046873/2015-11-04---LysackRusalka.jpg.jpg)<figcaption>Chris Lysack in *Rusalka*, Theater Aachen, 2013. Photo: Ludwig Koerfer.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446672046873/2015-11-04---LysackRusalka.jpg.jpg)<figcaption>Chris Lysack in *Rusalka*, Theater Aachen, 2013. Photo: Ludwig Koerfer.</figcaption>
 </figure>
 
 ## 4. As a Canadian singer abroad, what advice do you have for young singers in North America hoping to gain work in Europe?

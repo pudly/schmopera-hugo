@@ -1,17 +1,21 @@
-+++
-date = "2016-06-10T23:27:00+01:00"
-discipline = "Bass"
-lastmod = "2016-06-10T23:27:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465597472608/2016-06-10---Matthew-Rose.jpg.jpg"
-publishDate = "2016-06-10T23:27:00+01:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md"]
-slug = "matthew-rose"
-title = "Matthew Rose"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/roseandfriends"
-+++
+---
+date: "2016-06-10T23:27:00+01:00"
+discipline: Bass
+lastmod: "2016-06-10T23:27:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465597472608/2016-06-10---Matthew-Rose.jpg.jpg
+publishDate: "2016-06-10T23:27:00+01:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/glyndebourne.md
+slug: matthew-rose
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/roseandfriends
+title: Matthew Rose
+---
 
 In the 2015/2016 season Matthew Rose makes his debut at the Lyric Opera of Chicago as Baron Ochs *Der Rosenkavalier*, and sings Raimondo *Lucia di Lammermoor* for the Royal Opera House, King Marke *Tristan and Isolde* for English National Opera, and Bottom *A Midsummer Night's Dream* for the Glyndebourne Festival.
 

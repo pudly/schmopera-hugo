@@ -1,13 +1,18 @@
-+++
-date = "2017-03-31T12:35:00+01:00"
-discipline = "Tenor"
-lastmod = "2017-03-31T12:35:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490960080122/pqme5stbyefsydd1dbli"
-publishDate = "2017-03-31T12:35:00+01:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md"]
-slug = "carlo-bosi"
-title = "Carlo Bosi"
-+++
+---
+_template: people_single
+date: "2017-03-31T12:35:00+01:00"
+discipline: Tenor
+lastmod: "2017-03-31T12:35:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490960080122/pqme5stbyefsydd1dbli
+publishDate: "2017-03-31T12:35:00+01:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/opra-national-de-paris.md
+slug: carlo-bosi
+title: Carlo Bosi
+---
 
 Carlo Bosi is one of the greatest comprimario Tenors of his generation, highly requested by theatres and festivals both in Italy (Teatro alla Scala in Milan, Opera di Firenze, Teatro Comunale in Bologna, Rossini Opera Festival in Pesaro, Arena di Verona, Teatro Regio in Turin and Teatro Carlo Felice in Genoa, just to mention a few) and internationally (i.e. Grand Théâtre de Monte Carlo, Grand Théâtre de Genève, Teatro de la Maestranza in Sevilla, De Nationale Opera in Amsterdam, Opéra national de Paris, Royal Opera House in London, Festival Internacional de Santander and The Israeli Opera in Tel Aviv).
 

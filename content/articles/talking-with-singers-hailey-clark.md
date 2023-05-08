@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-05-13T20:59:00-04:00"
-lastmod = "2018-05-13T21:17:00-04:00"
-preamble = "American soprano [Hailey Clark](/scene/people/hailey-clark/) is currently in Switzerland, where she is nearly through her first season with the ensemble at Theater Basel. She is set to sing the role of Anne Trulove in a new production of [*The Rake's Progress*](https://www.theater-basel.ch/Schedule/The-Rakes-Progress/oYxgCgJO/Pv4Ya/), directed by Lydia Steier, running **May 18 to June 24**. She will share the stage with fellow American singers Matthew Newlin as Tom Rakewell and Seth Carico as Nick Shadow.\n\nWe spoke with Clark about the nuances of playing an archetypal role like Anne Trulove, and how she balances her artistic profession with the realities of being an entrepreneur."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526257682779/sqHaileyClark7.jpg.jpg"
-primary_image_credit = "Photo: Eric Melear."
-publishDate = "2018-05-13T20:59:00-04:00"
-related_articles = ["articles/spotlight-on-shelley-jackson.md"]
-related_people = ["scene/people/hailey-clark.md"]
-short_description = "&quot;The sooner you can define who you are and what you do best, the easier it is for people to identify and understand your &quot;brand.&quot; This is an artistic field, of course, but it&#039;s also a business, and in order for companies to sell tickets and keep the art form alive, it&#039;s important for them to know the three-dimensional artist that they’re hiring and trusting to tell their story.&quot;"
-slug = "talking-with-singers-hailey-clark"
-title = "Talking with singers: Hailey Clark"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-05-13T20:59:00-04:00"
+lastmod: "2018-05-13T21:17:00-04:00"
+preamble: |-
+  American soprano [Hailey Clark](/scene/people/hailey-clark/) is currently in Switzerland, where she is nearly through her first season with the ensemble at Theater Basel. She is set to sing the role of Anne Trulove in a new production of [*The Rake's Progress*](https://www.theater-basel.ch/Schedule/The-Rakes-Progress/oYxgCgJO/Pv4Ya/), directed by Lydia Steier, running **May 18 to June 24**. She will share the stage with fellow American singers Matthew Newlin as Tom Rakewell and Seth Carico as Nick Shadow.
+
+  We spoke with Clark about the nuances of playing an archetypal role like Anne Trulove, and how she balances her artistic profession with the realities of being an entrepreneur.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526257682779/sqHaileyClark7.jpg.jpg
+primary_image_credit: 'Photo: Eric Melear.'
+publishDate: "2018-05-13T20:59:00-04:00"
+related_articles:
+- articles/spotlight-on-shelley-jackson.md
+related_people:
+- scene/people/hailey-clark.md
+short_description: '&quot;The sooner you can define who you are and what you do best,
+  the easier it is for people to identify and understand your &quot;brand.&quot; This
+  is an artistic field, of course, but it&#039;s also a business, and in order for
+  companies to sell tickets and keep the art form alive, it&#039;s important for them
+  to know the three-dimensional artist that they’re hiring and trusting to tell their
+  story.&quot;'
+slug: talking-with-singers-hailey-clark
+title: 'Talking with singers: Hailey Clark'
+---
 
 ## Why do you sing professionally?
 
@@ -36,7 +47,9 @@ It's easy looking at this story with broad strokes to think that Anne is silly a
 
 Our director Lydia Steier has taken great care in defining relationships between each character, and I feel fortunate that my colleagues, (Seth Carico singing Nick Shadow, Eve-Maud Hubeaux as Baba the Turk, and tenor Matthew Newlin in the title role), are incredibly giving, adaptable and dynamic actors able to make this an even more relatable tale.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526259464333/_U2_5530_Clark_Newlin_Carico-c-LucianHunziker.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526259464333/_U2_5530_Clark_Newlin_Carico-c-LucianHunziker.jpg.jpg)
 <figcaption>Hailey Clark, Matthew Newlin, and Seth Carico in *The Rake's Progress*, Theater Basel, 2018. Photo: Lucian Hunziger.</figcaption>
 </figure>
 

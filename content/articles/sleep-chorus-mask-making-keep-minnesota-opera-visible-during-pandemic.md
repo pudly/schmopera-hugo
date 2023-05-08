@@ -1,22 +1,37 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Interview"
-date = 2020-05-17T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "[Minnesota Opera's 2020-21 season](https://mnopera.org/season/2020-2021/), scheduled to open on September 26 and running through May 23, includes _The Abduction from the Seraglio_, _Eugene Onegin_ and _Cinderella_. Two contemporary operas, _Blue_, a racially charged work by Jeanine Tesori and Tazewell Thompson, and _The Shining_ complete the season."
-preamble = "[Minnesota Opera](https://mnopera.org/season/2020-2021/at-home-with-mn-opera/)'s assistant conductor and chorus director Andrew Whitfield was busy producing a virtual production of \"Sleep Chorus\", from the Pulitzer Prize-winning opera [_Silent Night_](/kevin-puts-i-know-who-i-am-as-a-composer/) by Kevin Puts and Mark Campbell. The chorus gives voice to a Christmas night truce between warring soldiers in the trenches of World War I. Meanwhile, costume director Corinna Bakken along with costume and scene shop personnel and a raft of volunteers were busy in their homes sewing over 10,000 much-needed medical masks to protect against the Covid-19 virus.\n\nThe [company](https://mnopera.org/season/2020-2021/at-home-with-mn-opera/) launched the \"Sleep Chorus\" to promote a special fund raising drive to compensate artists on and off stage during the pandemic shutdown while the protective masks went to organizations without access to traditional health care resources including assisted-living homes, veterinarians, blood services, shelters, and more. I talked with Andrew Whitfield about these impressive undertakings."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1589567526/media/2020/05/sqMNOpera-SleepChorus_clrppm.jpg"
-primary_image_credit = ""
-related_articles = ["articles/covid.md", "articles/the-met-s-at-home-gala.md"]
-related_companies = ["scene/companies/minnesota-opera.md"]
-related_people = ["scene/people/kevin-puts.md"]
-short_description = "The company launched the \"Sleep Chorus\" to promote a special fund raising drive to compensate artists on and off stage during the pandemic shutdown while the protective masks went to organizations without access to traditional health care resources including assisted-living homes, veterinarians, blood services, shelters, and more"
-slug = "sleep-chorus-mask-making-keep-minnesota-opera-visible-during-pandemic"
-title = "\"Sleep Chorus\" & mask-making keep Minnesota Opera visible during pandemic"
-youtube_url = ""
+---
+author:
+- authors/john-hohmann.md
+categories: Interview
+date: "2020-05-17T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: '[Minnesota Opera''s 2020-21 season](https://mnopera.org/season/2020-2021/),
+  scheduled to open on September 26 and running through May 23, includes _The Abduction
+  from the Seraglio_, _Eugene Onegin_ and _Cinderella_. Two contemporary operas, _Blue_,
+  a racially charged work by Jeanine Tesori and Tazewell Thompson, and _The Shining_
+  complete the season.'
+preamble: |-
+  [Minnesota Opera](https://mnopera.org/season/2020-2021/at-home-with-mn-opera/)'s assistant conductor and chorus director Andrew Whitfield was busy producing a virtual production of "Sleep Chorus", from the Pulitzer Prize-winning opera [_Silent Night_](/kevin-puts-i-know-who-i-am-as-a-composer/) by Kevin Puts and Mark Campbell. The chorus gives voice to a Christmas night truce between warring soldiers in the trenches of World War I. Meanwhile, costume director Corinna Bakken along with costume and scene shop personnel and a raft of volunteers were busy in their homes sewing over 10,000 much-needed medical masks to protect against the Covid-19 virus.
 
-+++
+  The [company](https://mnopera.org/season/2020-2021/at-home-with-mn-opera/) launched the "Sleep Chorus" to promote a special fund raising drive to compensate artists on and off stage during the pandemic shutdown while the protective masks went to organizations without access to traditional health care resources including assisted-living homes, veterinarians, blood services, shelters, and more. I talked with Andrew Whitfield about these impressive undertakings.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1589567526/media/2020/05/sqMNOpera-SleepChorus_clrppm.jpg
+primary_image_credit: ""
+related_articles:
+- articles/covid.md
+- articles/the-met-s-at-home-gala.md
+related_companies:
+- scene/companies/minnesota-opera.md
+related_people:
+- scene/people/kevin-puts.md
+short_description: The company launched the "Sleep Chorus" to promote a special fund
+  raising drive to compensate artists on and off stage during the pandemic shutdown
+  while the protective masks went to organizations without access to traditional health
+  care resources including assisted-living homes, veterinarians, blood services, shelters,
+  and more
+slug: sleep-chorus-mask-making-keep-minnesota-opera-visible-during-pandemic
+title: '"Sleep Chorus" & mask-making keep Minnesota Opera visible during pandemic'
+youtube_url: ""
+---
 **You have the dual roles of assistant conductor and chorus master at Minnesota Opera. That sounds like a great job. Tell us about a typical day handling those position, especially in terms of the upcoming season, not that anyone has experienced anything "typical" in the last couple of months.**
 
 **Andrew Whitfield:** In spite of current events, things have been rather typical of any period in which we are not in production. We are looking at the upcoming season, and planning. At the moment there are a lot of interesting virtual projects that we have been working on as well. Obviously it is not the same as working with people in person, but I feel very fortunate to have the diversion of making art during these very weird times.
@@ -25,7 +40,9 @@ youtube_url = ""
 
 **AW:** Yes. I sent them the video of me conducting with Allen playing. I didn’t use a click-track for this chorus which I think was a good choice. Having a metronome slamming your eardrums, in my opinion, is antithetical to music-making. In the end, what you might lack in 100% precision, you get back in feeling.
 
-<figure data-type="video">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/HTbwy2wyudY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/HTbwy2wyudY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -37,7 +54,9 @@ youtube_url = ""
 
 **AW:** The MET made the very courageous decision to do their gala live. You lost some of the technical polish that you can achieve in post-production, but I think it was a good choice.  Seeing all those great artists in their living rooms was about as intimate as you can possibly get. As far as the technical prowess of the Minnesota Opera Chorus, I'll just say that I benefit from having a lot of millennials in my chorus.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589566970/media/2020/05/MNO-SilentLightChorus-collage_bz5mng.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1589566970/media/2020/05/MNO-SilentLightChorus-collage_bz5mng.jpg)
 
 <figcaption>Kevin Puts (right) and Mark Campbell (bottom left), composer and librettist of Silent Night, and Andrew Whitfield (top left), Assistant Conductor and Chorus Master, Minnesota Opera.</figcaption>
 
@@ -55,7 +74,9 @@ youtube_url = ""
 
 **AW:** I think everyone in the costume and scene departments were very inspired by the initiative. It was moving to hear about the reactions of the healthcare workers when they were delivered. And they even sent me two masks, which are not only functional, but also fashionable.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589566954/media/2020/05/MNO-facemasks_pvnxdh.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1589566954/media/2020/05/MNO-facemasks_pvnxdh.jpg)
 
 <figcaption>Protective masks were made by Minnesota Opera costume and scene shop personnel. Over 10,000 masks were distributed to health care workers, assisted-living homes, veterinarians, blood services, shelters, and other places in need. These masks pictured were made for MN Opera board members from material used is costumes for past productions including La Traviata, Carmen, and The Manchurian Candidate. Photo: MN Opera</figcaption>
 
@@ -69,7 +90,9 @@ youtube_url = ""
 
 **AW:** The piece we are working on is called "Light Shall Lift Us". It was premiered in 2016 in memory of the victims of the Pulse nightclub shooting in Orlando, Florida. We have assembled over 100 of the most prominent singers in the business, including Ailyn Perez, Mary Dunleavy, Emily Pulley, Cecilia Lopez, Brenda Rae, Sasha Cooke, Daniela Mack, Jennifer Cano, Joyce Castle, Victoria Livengood, Matthew Polenzani, David Portillo, William Burden, Alek Shrader, Edward Parks, Soloman Howard, and Morris Robinson; all of whom donated their services. Although I look forward to being in front of a live ensemble again, I can't imagine ever having the opportunity to work with a more glittering array of artists.
 
-<figure data-type="video">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/u8A8fIGbYyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/u8A8fIGbYyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 

@@ -1,17 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-10-02T20:33:00-04:00"
-lastmod = "2017-10-03T20:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506991083968/2017-10-02---Robinson%2C-James.jpg.jpg"
-publishDate = "2017-10-03T20:43:00-04:00"
-related_articles = ["articles/simone-osborne.md","articles/talking-with-singers-andrew-haji.md","articles/tim-albery-flawed-operas-falling-empires.md","articles/he-saidshe-said-a-sweet-elixir-at-the-coc.md","articles/lighter-fare-vancouver-operas-the-elixir-of-love.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/opera-theatre-of-st-louis.md"]
-related_people = ["scene/people/simone-osborne.md","scene/people/gordon-bintner.md","scene/people/andrew-haji.md","scene/people/james-robinson.md"]
-short_description = "&quot;I&#039;m always the first person to say, &#039;Ok, I had a bad idea, let&#039;s try something else&#039;,&quot; he says, smiling. &quot;When singers feel that they are part of the discovery process, making choices on their own, they memorize it faster, they&#039;re more reliable, they&#039;re more comfortable, and they sing better.&quot;"
-slug = "james-robinson-elixir"
-title = "James Robinson&#039;s Elixir of Love: &quot;I think it&#039;s one of the best comedies.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-10-02T20:33:00-04:00"
+lastmod: "2017-10-03T20:56:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506991083968/2017-10-02---Robinson%2C-James.jpg.jpg
+publishDate: "2017-10-03T20:43:00-04:00"
+related_articles:
+- articles/simone-osborne.md
+- articles/talking-with-singers-andrew-haji.md
+- articles/tim-albery-flawed-operas-falling-empires.md
+- articles/he-saidshe-said-a-sweet-elixir-at-the-coc.md
+- articles/lighter-fare-vancouver-operas-the-elixir-of-love.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/opera-theatre-of-st-louis.md
+related_people:
+- scene/people/simone-osborne.md
+- scene/people/gordon-bintner.md
+- scene/people/andrew-haji.md
+- scene/people/james-robinson.md
+short_description: '&quot;I&#039;m always the first person to say, &#039;Ok, I had
+  a bad idea, let&#039;s try something else&#039;,&quot; he says, smiling. &quot;When
+  singers feel that they are part of the discovery process, making choices on their
+  own, they memorize it faster, they&#039;re more reliable, they&#039;re more comfortable,
+  and they sing better.&quot;'
+slug: james-robinson-elixir
+title: 'James Robinson&#039;s Elixir of Love: &quot;I think it&#039;s one of the best
+  comedies.&quot;'
+---
 
 "You know what I wish I could sing?" poses director James Robinson, responding to my half-serious challenge of "If-You-Were-A-Singer". He prefaces his answer, recalling a particularly memorable performance he saw at The Santa Fe Opera: "Tatiana Troyanos was performing the title role of *Ariodante*. I wish I could sing that." Laughing, he adds one important caveat, "I also wish I could sing it with Troyanos' voice!"
 
@@ -21,7 +38,9 @@ title = "James Robinson&#039;s Elixir of Love: &quot;I think it&#039;s one of th
 
 "Nemorino is not really what you would consider heroic. He's a nice guy who tries really hard." As for Adina's other suitor, "Belcore is a bit of a vain, glorious military guy." The combination of the simple guy, the admired woman, the blustering show-off, and the con-man make for "an odd group of people," but Robinson's aim is to tell a story that aligns the audience with the good guy. "When the circumstances are right, and you have a really good cast, you're rooting for Nemorino, and you hope it works out for him."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506991077068/2017-10-02---Elixir-of-Love---photo-credit-Ken-Howard---Photo-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506991077068/2017-10-02---Elixir-of-Love---photo-credit-Ken-Howard---Photo-2.jpg.jpg)
 <figcaption>A scene from the Opera Theatre of Saint Louis production of *The Elixir of Love*, 2014. Photo: Ken Howard.</figcaption>
 </figure>
 

@@ -1,17 +1,28 @@
-+++
-author = ["authors/frank-pesci.md"]
-categories = "Op-ed"
-date = "2017-05-10T14:47:00-06:00"
-lastmod = "2017-06-25T10:15:00-06:00"
-preamble = "This is an essay originally published on [*New Music Box*](http://www.newmusicbox.org/articles/a-fine-mess-an-emerging-opera-composer-vs-the-american-new-opera-machine/), re-posted here with permission from the author."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494450726593/2017-05-11---Puzzle.jpg.jpg"
-publishDate = "2017-05-12T10:22:00-06:00"
-related_articles = ["articles/the-future-of-opera-is-indie.md","articles/preparing-for-performance-what-i-didnt-know-i-knew.md","articles/the-big-and-everpresent-whats-next.md"]
-related_companies = ["scene/companies/fort-worth-opera.md"]
-short_description = "I soon learned that cold-shopping an out-of-the-box stage work is a thorny, if not downright impossible, proposition.  In the autumn of 2015, I reached out to roughly 200 small- to medium-sized American opera companies. In a 100-word email, I introduced myself and asked for a five-to-ten-minute phone conversation about trends in the commissioning and production of new opera (a subject that obviously interested me but was benign enough for an initial discussion)."
-slug = "fine-mess-composer-new-opera"
-title = "A fine mess: an emerging opera composer vs. the American new opera machine"
-+++
+---
+author:
+- authors/frank-pesci.md
+categories: Op-ed
+date: "2017-05-10T14:47:00-06:00"
+lastmod: "2017-06-25T10:15:00-06:00"
+preamble: This is an essay originally published on [*New Music Box*](http://www.newmusicbox.org/articles/a-fine-mess-an-emerging-opera-composer-vs-the-american-new-opera-machine/),
+  re-posted here with permission from the author.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494450726593/2017-05-11---Puzzle.jpg.jpg
+publishDate: "2017-05-12T10:22:00-06:00"
+related_articles:
+- articles/the-future-of-opera-is-indie.md
+- articles/preparing-for-performance-what-i-didnt-know-i-knew.md
+- articles/the-big-and-everpresent-whats-next.md
+related_companies:
+- scene/companies/fort-worth-opera.md
+short_description: I soon learned that cold-shopping an out-of-the-box stage work
+  is a thorny, if not downright impossible, proposition.  In the autumn of 2015, I
+  reached out to roughly 200 small- to medium-sized American opera companies. In a
+  100-word email, I introduced myself and asked for a five-to-ten-minute phone conversation
+  about trends in the commissioning and production of new opera (a subject that obviously
+  interested me but was benign enough for an initial discussion).
+slug: fine-mess-composer-new-opera
+title: 'A fine mess: an emerging opera composer vs. the American new opera machine'
+---
 
 By the time you read this, I will be nearing the culmination of Fort Worth Opera's ["Frontiers"](http://www.fwopera.org/operas/frontiers/) showcase — a major step into the American new opera scene for an emerging composer. In these essays, I intend to chronicle my experience preparing for, and participating in, this opportunity. As a point of entry, I’ll detail how I got myself into this mess to begin with.
 
@@ -23,7 +34,9 @@ About six years into this project came an opportunity. Axe 2 Ice Productions was
 
 Time being very short, I surgically cut away at Poe's original text, coalescing the action into a single scene with a brief introduction and afterword.  The original version came to 15 minutes with piano accompaniment.  I trimmed it down to around 8 minutes for Bent Wit and scored it for their house band.  A year later, Boston Opera Collaborative presented the original 15-minute version on a program that was aptly titled "Opera Goes to Hell." Three years later, I expanded the work in order to realize a more complete adaptation of Poe's story, resulting in a three-act, 90-minute piano/vocal score.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494449557906/OperKoelnNeuenStaatenhaus.jpg.jpg)<figcaption>the Opera Köln Neuen Staatenhaus. Photo: Frank Pesci.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494449557906/OperKoelnNeuenStaatenhaus.jpg.jpg)<figcaption>the Opera Köln Neuen Staatenhaus. Photo: Frank Pesci.</figcaption>
 </figure>
 
 ## Good for me…now what?

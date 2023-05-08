@@ -1,20 +1,40 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-03-23T12:32:00+00:00"
-lastmod = "2016-10-18T18:11:00+01:00"
-postamble = "The Canadian Opera Company presents Bizet's _Carmen_, April 12 to May 15 at the Four Seasons Centre for the Performing Arts. For details and ticket information, follow our box office links below."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458736329820/2016-03-22---Christian_van_Horn_Simon_Pauley.jpg.jpg"
-primary_image_credit = "Photo by Simon Pauly."
-publishDate = "2016-03-23T13:10:00+00:00"
-related_articles = ["articles/spotlight-on-amanda-majeski.md", "articles/talking-with-singers-othalie-graham.md", "articles/talking-with-singers-nicole-cabell.md", "articles/talking-with-singers-luca-pisaroni.md", "articles/lets-hear-it-for-the-basses.md", "articles/talking-with-singers-russell-thomas.md", "articles/talking-with-singers-christian-bowers.md", "articles/talking-with-singers-alfred-walker.md", "articles/a-kind-of-twisted-egotistical-apotheosis-faust-in-chicago.md", "articles/roundtable-an-operatic-triple-threat.md", "articles/talking-with-singers-jonathan-lemalu.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/christian-van-horn.md"]
-short_description = "Carmen will mark Van Horn&#039;s third contract with the Canadian Opera Company, and it&#039;s a place he likes to be. &quot;It&#039;s a world-class company,&quot; he says. &quot;It always has been, but especially in the last five years, specifically since Alexander [Neef] got here, he&#039;s really turned this into a place to be. There&#039;s not a singer in the world that doesn&#039;t want to sing at COC.&quot;"
-slug = "talking-with-singers-christian-van-horn"
-title = "Talking with singers: Christian Van Horn"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-03-23T12:32:00+00:00"
+lastmod: "2016-10-18T18:11:00+01:00"
+postamble: The Canadian Opera Company presents Bizet's _Carmen_, April 12 to May 15
+  at the Four Seasons Centre for the Performing Arts. For details and ticket information,
+  follow our box office links below.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458736329820/2016-03-22---Christian_van_Horn_Simon_Pauley.jpg.jpg
+primary_image_credit: Photo by Simon Pauly.
+publishDate: "2016-03-23T13:10:00+00:00"
+related_articles:
+- articles/spotlight-on-amanda-majeski.md
+- articles/talking-with-singers-othalie-graham.md
+- articles/talking-with-singers-nicole-cabell.md
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/lets-hear-it-for-the-basses.md
+- articles/talking-with-singers-russell-thomas.md
+- articles/talking-with-singers-christian-bowers.md
+- articles/talking-with-singers-alfred-walker.md
+- articles/a-kind-of-twisted-egotistical-apotheosis-faust-in-chicago.md
+- articles/roundtable-an-operatic-triple-threat.md
+- articles/talking-with-singers-jonathan-lemalu.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/christian-van-horn.md
+short_description: Carmen will mark Van Horn&#039;s third contract with the Canadian
+  Opera Company, and it&#039;s a place he likes to be. &quot;It&#039;s a world-class
+  company,&quot; he says. &quot;It always has been, but especially in the last five
+  years, specifically since Alexander [Neef] got here, he&#039;s really turned this
+  into a place to be. There&#039;s not a singer in the world that doesn&#039;t want
+  to sing at COC.&quot;
+slug: talking-with-singers-christian-van-horn
+title: 'Talking with singers: Christian Van Horn'
+---
 "I kind of ran from it for a long time," says American bass-baritone [Christian Van Horn](/scene/people/christian-van-horn/) of singing his first Escamillo, in the [Canadian Opera Company's upcoming production of _Carmen_](http://www.coc.ca/PerformancesAndTickets/1516Season/Carmen.aspx). He's no stranger to the opera; he has sung eight productions of Bizet's infamous work as Zuniga, and he kept his ears open during rehearsals. "I got to watch a lot of bass-baritones sing Escamillo, some had good success, some did not. I just had this great first-row view of how to do it."
 
 Now that Van Horn has "decided to stop running" from Escamillo, one of the most notable operatic roles for a bass-baritone, he senses that the floodgates have been opened. "Once you say you'll do it, then they just multiply," he laughs.
@@ -39,7 +59,9 @@ Van Horn is working for the first time with director [Joel Ivany](/scene/people/
 
 In rehearsal for Escamillo's mega-famous entrance, "the first thing I said to \[Joel\], I said, 'I don't really want to get on a table. Let's not be cliché and get on the stupid table'. And he said, 'Ok', and I said, 'Oh, we're going to be best friends.'" At 6'6", Van Horn likes to sing with his feet on the ground, despite some conventional staging for the Toreador Song. "I don't think the biggest guy in the room needs to get on the table," he adds with a laugh.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458736718266/2016-03-23---Boheme-Met.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458736718266/2016-03-23---Boheme-Met.jpg.jpg)
 <figcaption>l-r: Joshua Hopkins, Irina Lungu, Alexsei Markov, Maija Kovalevska, Joseph Calleja, and Christian Van Horn, taking a curtain call at The Metropolitan Opera's _La bohème_, 2014. Photo via christianvanhorn.com.</figcaption>
 </figure>
 

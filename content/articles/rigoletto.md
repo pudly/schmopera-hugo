@@ -1,22 +1,35 @@
-+++
-author = ["authors/andrew-schneider.md"]
-categories = "Review"
-date = "2019-10-23T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Houston Grand Opera's [production of _Rigoletto_](https://www.houstongrandopera.org/rigoletto) is onstage through November 1."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571884517/media/2019/10/sqHGORigolettoLynnLane-2-resized_dlrepv.jpg"
-primary_image_credit = "Michael Mayes in the title role of Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane."
-related_articles = ["articles/the-price-of-vengeance-rigoletto-at-roh.md", "articles/searching-for-superlatives-locs-suberb-rigoletto.md"]
-related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/mané-galoyan.md", "scene/people/arturo-chacón-cruz.md", "scene/people/zoie-reams.md", "scene/people/david-shipley.md", "scene/people/michael-mayes.md"]
-short_description = "As Rigoletto leaves the party, we see the true depth of his character. As Mayes interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work. "
-slug = "moral-dilemmas-an-excellent-quartet-hgos-rigoletto"
-title = "Moral dilemmas & an excellent quartet: HGO's Rigoletto"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/andrew-schneider.md
+categories: Review
+date: "2019-10-23T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Houston Grand Opera's [production of _Rigoletto_](https://www.houstongrandopera.org/rigoletto)
+  is onstage through November 1.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571884517/media/2019/10/sqHGORigolettoLynnLane-2-resized_dlrepv.jpg
+primary_image_credit: 'Michael Mayes in the title role of Rigoletto, Houston Grand
+  Opera, 2019. Photo: Lynn Lane.'
+related_articles:
+- articles/the-price-of-vengeance-rigoletto-at-roh.md
+- articles/searching-for-superlatives-locs-suberb-rigoletto.md
+related_companies:
+- scene/companies/houston-grand-opera.md
+related_people:
+- scene/people/mané-galoyan.md
+- scene/people/arturo-chacón-cruz.md
+- scene/people/zoie-reams.md
+- scene/people/david-shipley.md
+- scene/people/michael-mayes.md
+short_description: 'As Rigoletto leaves the party, we see the true depth of his character.
+  As Mayes interprets him, the jester is very fidgety, his routines a compulsive series
+  of tics that he feels compelled to practice even when nobody else is around, very
+  much the modern laborer trapped in his work. '
+slug: moral-dilemmas-an-excellent-quartet-hgos-rigoletto
+title: 'Moral dilemmas & an excellent quartet: HGO''s Rigoletto'
+youtube_url: ""
+---
 When one goes to the opera today for a season-opening warhorse such as Giuseppe Verdi's [_Rigoletto_](https://www.houstongrandopera.org/rigoletto), one senses that the motivation is often for the pleasure of listening to something with many comfortably familiar moments.
 
 Certainly [Houston Grand Opera](/scene/companies/houston-grand-opera/)'s production of this ably provides this in spades for many persons under the impression, in their wisdom, that they know this piece like the back of their hands. And yet the whole evening provided a very striking and adventurous experience for those who sought a fresh take on what guidebooks recommend as an easily digestible first opera for newcomers to the art form. After all, "_Rigoletto_ is a short opera," as anyone who has watched the PBS show _Arthur_ can relate.
@@ -27,7 +40,9 @@ The production featured imposing Corinthian columns surrounded by many drab buil
 
 Indeed, as the prelude opened, one saw the chorus stealthily emerge with their animal masks, with all their attendant implications of vice and excess. There were certainly enough masks to merit comparison with Classical Theatre Company's concurrent production of [_Lysistrata_](https://classicaltheatre.org/production/lysistrata/).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843195/media/2019/10/HGORigoletto2019LynnLane-1_jkzi9z.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571843195/media/2019/10/HGORigoletto2019LynnLane-1_jkzi9z.jpg)
 
 <figcaption>The HGO Chorus in HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 
@@ -39,7 +54,9 @@ Yet the gangsters have personalities that occasionally can be glimpsed, and one 
 
 This court is no longer a merely treacherous yet cultured Tudor-era gentlemen's club that requires Cromwellian wile to negotiate successfully, but a dystopian fortress of vice malevolent towards everyone within its grasp, especially the females. And Rigoletto hates just about every minute of gratifying the whims of these pretended socialites. (Clearly the Duchess's page - sung by Elena Villalón - has not been through orientation.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843208/media/2019/10/HGORigolettoLynnLane-20_wo7es2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571843208/media/2019/10/HGORigolettoLynnLane-20_wo7es2.jpg)
 
 <figcaption>Dorothy Gal as Countess Ceprano, Daniel Noyola as Count Ceprano, Arturo Chacón-Cruz as Duke of Mantua, and Michael Mayes as Rigoletto in HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 
@@ -53,7 +70,9 @@ And the objects of his attention, the jaded yet eager-to-please Countess of Cepr
 
 As Rigoletto leaves the party, we see the true depth of his character. As Mayes interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843220/media/2019/10/HGORigolettoLynnLane-52_k8p5ud.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571843220/media/2019/10/HGORigolettoLynnLane-52_k8p5ud.jpg)
 
 <figcaption>Arturo Chacón Cruzas (Duke of Mantua) and Mané Galoyanas (Gilda) HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 
@@ -69,7 +88,9 @@ Nicholas Newton's Monterone is perfectly imposing for the underestimated role th
 
 Given that this production has him bludgeoned and stabbed multiple times before our potentate friend unceremoniously fires a pistol into his head, his appearance is all the more stark and martyrish.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843499/media/2019/10/HGORigolettoLynnLane-197_xvql2h.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571843499/media/2019/10/HGORigolettoLynnLane-197_xvql2h.jpg)
 
 <figcaption>Mané Galoyanas Gilda HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 
@@ -79,7 +100,9 @@ With a piece with as many numbers as this, I will restrict myself to a few to hi
 
 Speaking of cohesion, "Bella figlia d'amore" certainly stood out in this production, particularly as Maddalena ([Zoie Reams](/scene/people/zoie-reams/)), in her sultry sonorousness, shied not from performing her game of seduction with relish. Given this production's take on the Duke's cult of personality being a vehicle for the scoundrel's own amusement, one certainly asks, who is he trying to impress here? (It's not as if anyone is watching, right?)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843249/media/2019/10/HGORigolettoLynnLane-147_qhmew6.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571843249/media/2019/10/HGORigolettoLynnLane-147_qhmew6.jpg)
 
 <figcaption>Michael Mayes (Rigoletto) and Mané Galoyan (Gilda) HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 
@@ -91,7 +114,9 @@ Most devastatingly, in the final duet following the celebrated storm, Gilda is r
 
 It simultaneously prolongs the finality of crossing the void, and making it all the more tragic for Rigoletto to see his daughter nihilistically reduced to flesh and bone due to his thirst for vengeance - a thirst which has gradually evolved through the whole piece, and has not occurred instantaneously upon encountering his daughter disheveled at the Duke's palace.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843275/media/2019/10/HGORigolettoLynnLane-173_t8xdoe.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1571843275/media/2019/10/HGORigolettoLynnLane-173_t8xdoe.jpg)
 
 <figcaption>Arturo Chacón-Cruz (Duke of Mantua) and the HGO Chorus in HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 

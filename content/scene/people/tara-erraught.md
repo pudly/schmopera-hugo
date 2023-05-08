@@ -1,24 +1,26 @@
-+++
-date = "2015-04-23T00:08:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2018-03-20T21:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429762024363/Erraught.jpg.jpg"
-primary_image_credit = "Kristin Speed."
-publishDate = "2015-04-23T00:08:00-04:00"
-related_companies = ["scene/companies/glyndebourne.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/irish-national-opera.md"]
-slug = "tara-erraught"
-title = "Tara Erraught"
-website = "http://www.taraerraught.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Tara-Erraught/300712583393259?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/TaraErraught"
-
-+++
+---
+date: "2015-04-23T00:08:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2018-03-20T21:28:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429762024363/Erraught.jpg.jpg
+primary_image_credit: Kristin Speed.
+publishDate: "2015-04-23T00:08:00-04:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/irish-national-opera.md
+slug: tara-erraught
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Tara-Erraught/300712583393259?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/TaraErraught
+title: Tara Erraught
+website: http://www.taraerraught.com/
+---
 A rich, radiant voice, expansive range and dynamic stage presence are the hallmarks of Irish mezzo-soprano Tara Erraught. With a wide repertoire that includes Bellini, Dvorak, Gounod, Mozart, Puccini, Rossini, Strauss and Verdi, as well as contemporary composers, she enjoys an ever-growing international career on the opera, orchestra and recital stages. In recent seasons Ms. Erraught has sung world premieres, made numerous role debuts, and appeared in recitals and concerts throughout the United States, Canada, Denmark, France, Ireland, Japan, Mexico, Spain, Germany, and the United Kingdom.
 
 A highlight of the season 2019/20 is La Cenerentola at the Metropolitan Opera in New York where she is performing Angelina. With the same opera she will be guest again at the Irish National Opera. Beside that she will return to Munich and will sing in Hänsel und Gretel (Hänsel), in Cosi fan tutte (Despina) and in Orlando Paladino (Alcina). In Barbier von Sevilla she will sing the role of Rosina and will be guest at the Wiener Staatsoper and at the Staatsoper Berlin unter den Linden. Afterwards she will sing again at the Staatsoper Berlin in Don Giovanni. Beside that she will give recitals in Eppan, Barcelona, Munich and Leeds and she will return to the Schubertiade in Hohenems.

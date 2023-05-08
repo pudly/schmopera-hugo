@@ -1,27 +1,61 @@
-+++
-date = "2016-04-27T21:28:00+01:00"
-lastmod = "2016-04-27T21:28:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1565562407/media/2019/08/Logo-MO_kvighl.png"
-publishDate = "2016-04-27T21:28:00+01:00"
-related_people = ["scene/people/will-liverman.md", "scene/people/craig-irvin.md", "scene/people/nancy-allen-lundy.md", "scene/people/brian-jagde.md", "scene/people/kevin-puts.md", "scene/people/karin-wolverton.md", "scene/people/harry-bicket.md", "scene/people/missy-mazzoli.md", "scene/people/lester-lynch.md", "scene/people/roger-honeywell.md", "scene/people/alfred-walker.md", "scene/people/matt-boehler.md", "scene/people/troy-cook.md", "scene/people/rachel-sterrenberg.md", "scene/people/mary-evelyn-hangley.md", "scene/people/andres-acosta.md", "scene/people/nadia-fayad.md", "scene/people/andrew-wilkowske.md", "scene/people/james-robinson.md", "scene/people/sara-jakubiak.md", "scene/people/david-walton.md", "scene/people/susannah-biller.md", "scene/people/amber-wagner.md", "scene/people/richard-ollarsaba.md", "scene/people/johanni-van-oostrum.md", "scene/people/angela-mortellaro.md", "scene/people/john-tessier.md", "scene/people/jacquelyn-wagner.md", "scene/people/julien-behr.md", "scene/people/greer-grimsley.md", "scene/people/catherine-martin.md", "scene/people/karen-slack.md", "scene/people/seth-carico.md", "scene/people/dennis-petersen.md", "scene/people/emily-pulley.md", "scene/people/dominick-chenes.md"]
-slug = "minnesota-opera"
-title = "Minnesota Opera"
-type_of_company = "Opera Company"
-website = "http://www.mnopera.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/MinnesotaOpera/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/mnopera"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/MinnesotaOpera"
-
-+++
+---
+date: "2016-04-27T21:28:00+01:00"
+lastmod: "2016-04-27T21:28:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1565562407/media/2019/08/Logo-MO_kvighl.png
+publishDate: "2016-04-27T21:28:00+01:00"
+related_people:
+- scene/people/will-liverman.md
+- scene/people/craig-irvin.md
+- scene/people/nancy-allen-lundy.md
+- scene/people/brian-jagde.md
+- scene/people/kevin-puts.md
+- scene/people/karin-wolverton.md
+- scene/people/harry-bicket.md
+- scene/people/missy-mazzoli.md
+- scene/people/lester-lynch.md
+- scene/people/roger-honeywell.md
+- scene/people/alfred-walker.md
+- scene/people/matt-boehler.md
+- scene/people/troy-cook.md
+- scene/people/rachel-sterrenberg.md
+- scene/people/mary-evelyn-hangley.md
+- scene/people/andres-acosta.md
+- scene/people/nadia-fayad.md
+- scene/people/andrew-wilkowske.md
+- scene/people/james-robinson.md
+- scene/people/sara-jakubiak.md
+- scene/people/david-walton.md
+- scene/people/susannah-biller.md
+- scene/people/amber-wagner.md
+- scene/people/richard-ollarsaba.md
+- scene/people/johanni-van-oostrum.md
+- scene/people/angela-mortellaro.md
+- scene/people/john-tessier.md
+- scene/people/jacquelyn-wagner.md
+- scene/people/julien-behr.md
+- scene/people/greer-grimsley.md
+- scene/people/catherine-martin.md
+- scene/people/karen-slack.md
+- scene/people/seth-carico.md
+- scene/people/dennis-petersen.md
+- scene/people/emily-pulley.md
+- scene/people/dominick-chenes.md
+slug: minnesota-opera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/MinnesotaOpera/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/mnopera
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/MinnesotaOpera
+title: Minnesota Opera
+type_of_company: Opera Company
+website: http://www.mnopera.org/
+---
 In 1963, the commission of a world premiere sparked the creation of a small Twin Cities opera company spotlighting the rare and avant-garde. Fifty years later, Minnesota Opera is one of the nation’s largest and most distinguished opera companies, known for its world-class artistry and innovative productions.
 
 Minnesota Opera’s roots were planted when the Walker Art Center commissioned Dominick Argento to compose an opera (The Masque of Angels) for its performing arts program, Center Opera. Center Opera focused on the composition and performance of new works by American composers, and, under the influence of the Walker Art Center, emphasized visual design. Known as a progressive, “alternative” opera production company throughout the 1970s, Minnesota Opera merged with the St. Paul Opera in 1976, and through the 1980s, began to shift its focus to include more “traditional” repertoire.

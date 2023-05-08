@@ -1,16 +1,24 @@
-+++
-author = ["authors/blanche-isral.md"]
-categories = "Op-ed"
-date = "2015-10-15T23:17:00-04:00"
-lastmod = "2015-10-17T13:24:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444965675752/GriefSquare.jpg.jpg"
-publishDate = "2015-10-16T08:00:00-04:00"
-related_articles = ["articles/the-future-of-opera-is-indie.md","articles/tosca-the-nyco-renaissance.md","articles/a-diction-lesson-french-canadian-swearing.md"]
-related_companies = ["scene/companies/opera-lyra-ottawa.md"]
-short_description = "There has been a distraught and saddened buzz in the opera community ever since Opera Lyra announced an immediate halt of its 2015-2016 season due to severe budget shortfalls. As the opera world absorbs this difficult hit, reactions on social media are evolving in line with the five stages of grief."
-slug = "opera-lyra-and-the-five-stages-of-grief"
-title = "Opera Lyra and the Five Stages of Grief"
-+++
+---
+author:
+- authors/blanche-isral.md
+categories: Op-ed
+date: "2015-10-15T23:17:00-04:00"
+lastmod: "2015-10-17T13:24:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444965675752/GriefSquare.jpg.jpg
+publishDate: "2015-10-16T08:00:00-04:00"
+related_articles:
+- articles/the-future-of-opera-is-indie.md
+- articles/tosca-the-nyco-renaissance.md
+- articles/a-diction-lesson-french-canadian-swearing.md
+related_companies:
+- scene/companies/opera-lyra-ottawa.md
+short_description: There has been a distraught and saddened buzz in the opera community
+  ever since Opera Lyra announced an immediate halt of its 2015-2016 season due to
+  severe budget shortfalls. As the opera world absorbs this difficult hit, reactions
+  on social media are evolving in line with the five stages of grief.
+slug: opera-lyra-and-the-five-stages-of-grief
+title: Opera Lyra and the Five Stages of Grief
+---
 
 There has been a distraught and saddened buzz in the opera community ever since [Opera Lyra](/scene/companies/opera-lyra-ottawa/) announced an [immediate halt](/opera-lyras-immediate-shutdown/) of its 2015-2016 season due to severe budget shortfalls. As the opera world absorbs this difficult hit, reactions on social media are evolving in line with the five stages of grief:
 

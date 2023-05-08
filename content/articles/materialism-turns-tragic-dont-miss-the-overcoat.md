@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-03-18T17:06:00-04:00"
-lastmod = "2018-03-23T10:59:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521407190631/Geoffrey-Sirett-as-Akakiy-in-The-Overcoat-A-Musical-Tailoring_Photo-Credit-Dahlia-Katz.jpg.jpg"
-primary_image_credit = "Geoffrey Sirett as Akakiy in The Overcoat, a co-production from Tapestry Opera, Canadian Stage, and Vancouver Opera. Photo by Dahlia Katz."
-publishDate = "2018-03-20T20:28:00-04:00"
-related_articles = ["articles/in-review-rocking-horse-winner.md","articles/in-review-tapestry-briefs-booster-shots.md","articles/a-perfect-fit-the-overcoat.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/vancouver-opera.md"]
-related_people = ["scene/people/geoffrey-sirett.md","scene/people/asitha-tennekoon.md"]
-short_description = "&quot;The overcoat is stunning,&quot; says baritone Geoffrey Sirett, who is set to sing the role of Akakiy. &quot;It transforms his life, because it is so beautiful and immaculately designed, and it gives him his five minutes of fame.&quot;"
-slug = "materialism-turns-tragic-dont-miss-the-overcoat"
-title = "Materialism turns tragic: don&#039;t miss The Overcoat"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-03-18T17:06:00-04:00"
+lastmod: "2018-03-23T10:59:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521407190631/Geoffrey-Sirett-as-Akakiy-in-The-Overcoat-A-Musical-Tailoring_Photo-Credit-Dahlia-Katz.jpg.jpg
+primary_image_credit: Geoffrey Sirett as Akakiy in The Overcoat, a co-production from
+  Tapestry Opera, Canadian Stage, and Vancouver Opera. Photo by Dahlia Katz.
+publishDate: "2018-03-20T20:28:00-04:00"
+related_articles:
+- articles/in-review-rocking-horse-winner.md
+- articles/in-review-tapestry-briefs-booster-shots.md
+- articles/a-perfect-fit-the-overcoat.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/vancouver-opera.md
+related_people:
+- scene/people/geoffrey-sirett.md
+- scene/people/asitha-tennekoon.md
+short_description: '&quot;The overcoat is stunning,&quot; says baritone Geoffrey Sirett,
+  who is set to sing the role of Akakiy. &quot;It transforms his life, because it
+  is so beautiful and immaculately designed, and it gives him his five minutes of
+  fame.&quot;'
+slug: materialism-turns-tragic-dont-miss-the-overcoat
+title: 'Materialism turns tragic: don&#039;t miss The Overcoat'
+---
 
 *The Overcoat*, the 1842 Ukrainian short story by Nikolai Gogol, sees its second adaptation this month in a [co-production with Tapestry Opera, Canadian Stage, and Vancouver Opera](https://tapestryopera.com/the-overcoat-a-musical-tailoring/). Director and playwright Morris Panych first imagined *The Overcoat* 20 years ago with movement director Wendy Gorling, as a piece of "silent-theatre" underscored by selected music by Dmitri Shostakovich. Now, Panych and his creative team revisit the story, adapted into an opera with an original score by James Rolfe (*Beatrice Chancy*, *Crush*, *Elijah's Kite*).
 
@@ -28,7 +40,9 @@ With a name like Akakiy Akakiyevich - a fabricated Ukrainian name with scatologi
 
 The role of Akakiy is certainly an exaggeration, a caricature of men and women with fluctuating self-worth, yet his story is one that resonates with reality. It may sound like hyperbole, but it's certainly relatable to put unreasonable expectations onto our material possessions. "This coat gives him an importance," says tenor Asitha Tennekoon, who sings The Manager. "This coat raises his status in the eyes of his colleagues."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521410037511/SirettTennekoon.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521410037511/SirettTennekoon.jpg.jpg)
 <figcaption>Geoffrey Sirett (left) and Asitha Tennekoon, both singing in the world premiere production of Morris Panych and James Rolfe's *The Overcoat*, 2018.</figcaption>
 </figure>
 

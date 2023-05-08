@@ -1,31 +1,35 @@
-+++
-date = "2015-11-28T23:00:00+00:00"
-discipline = "Baritone"
-lastmod = "2016-10-26T12:54:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448753414774/2015-11-29---John-Brancy.jpg.jpg"
-primary_image_credit = "Gerard Collett"
-publishDate = "2015-11-28T23:00:00+00:00"
-related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/opera-lyra-ottawa.md","scene/companies/edmonton-opera.md","scene/companies/the-juilliard-school.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/glyndebourne.md"]
-slug = "john-brancy"
-title = "John Brancy"
-website = "http://www.johnbrancy.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/johnbrancybaritone"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/JohnBrancy"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/johnbrancy/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/johnbrancy"
-+++
+---
+date: "2015-11-28T23:00:00+00:00"
+discipline: Baritone
+lastmod: "2016-10-26T12:54:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448753414774/2015-11-29---John-Brancy.jpg.jpg
+primary_image_credit: Gerard Collett
+publishDate: "2015-11-28T23:00:00+00:00"
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/opera-lyra-ottawa.md
+- scene/companies/edmonton-opera.md
+- scene/companies/the-juilliard-school.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/glyndebourne.md
+slug: john-brancy
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/johnbrancybaritone
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/JohnBrancy
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/johnbrancy/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/johnbrancy
+title: John Brancy
+website: http://www.johnbrancy.com/
+---
 
 Baritone John Brancy is on the verge of an exciting and diverse performing career, and has been hailed by the New York Times as “a vibrant, resonant presence”. He is the 2015 Jensen Foundation Vocal Competition Winner and the 2013 Winner of the Marilyn Horne Song Competition. 
 

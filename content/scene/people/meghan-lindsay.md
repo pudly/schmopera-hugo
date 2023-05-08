@@ -1,30 +1,27 @@
-+++
-date = "2015-04-08T15:58:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-03-12T20:15:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550427425/media/2019/02/MeghanLindsay.jpg"
-publishDate = "2015-04-08T15:58:00+01:00"
-slug = "meghan-lindsay"
-title = "Meghan Lindsay"
-website = "http://www.meghanlindsay.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Meghan-Lindsay/197950806891286"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/meghanjlindsay"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCj7kra9HBLQXQHvoXjtlmOQ"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/meghanjlindsay/"
-
-+++
+---
+date: "2015-04-08T15:58:00+01:00"
+discipline: Soprano
+lastmod: "2016-03-12T20:15:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550427425/media/2019/02/MeghanLindsay.jpg
+publishDate: "2015-04-08T15:58:00+01:00"
+slug: meghan-lindsay
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Meghan-Lindsay/197950806891286
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/meghanjlindsay
+- platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCj7kra9HBLQXQHvoXjtlmOQ
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/meghanjlindsay/
+title: Meghan Lindsay
+website: http://www.meghanlindsay.com/
+---
 Canadian soprano Meghan Lindsay has been praised by OPERA NEWS for a voice that "shines with greater vocal strength and control than ever before and dazzles with her coloratura passages.” Following a performance of Alcina celebrated as "graced with a bright, limpid instrument, luscious timbre and superb technique," Meghan returned to Opera Atelier as Amour in Gluck’s _Orphée et Eurydice_, Giunia in the Canadian premiere of Mozart’s _Lucio Silla_, Belinda and _Dido and Aeneas_, and Minerva in _Il ritorno d'ulisse in patria._ A frequent interpreter of French Baroque repertoire, Meghan has performed the roles of Sidonie/Nymphe des Eaux (Lully's _Armide_), Vénus (Lully's _Persée_), and Nérine (Charpentier's _Medée)_ at The Royal Opera House of the Palace of Versailles. In 2018/19, Meghan's role debuts include Sandrina in _La Finta Giardiniera_ (Opera Nova Scotia), Arethuze/Hunter and Galatée in a double bill of _Actéon_ and _Pygmalion_ (Opera Atelier/Royal Opera Versailles/Harris Theatre Chicago), Paride in Gluck's _Paride ed Elena_ (Odyssey Opera), and Ilia in _Idomeneo_ (Opera Atelier)
 
 Meghan made her recording debut with the Grammy-nominated early music company, Ars Lyrica, in a recording and ‘modern world’ premiere of Scarlatti’s _La Sposa dei Cantici_. Equally at home in Romantic repertoire, Meghan has performed the the title role of Luisa Miller with Opera Nova Scotia, Mimi in _La bohème_ with The Northern Lights Festival, and Agathe in _Der Freischütz_. She made her U.S. operatic debut with Opera Columbus as Donna Anna in _Don Giovanni_ and performed Sidonie/Nymphe des Eaux in Lully's _Armide_ with the Glimmerglass Festival.

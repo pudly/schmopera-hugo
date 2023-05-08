@@ -1,17 +1,26 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2017-04-11T13:39:00+01:00"
-lastmod = "2017-04-11T14:10:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546394226/media/2019/01/KittyWhately.gif"
-publishDate = "2017-04-11T14:10:00+01:00"
-related_articles = ["articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md", "articles/in-review-paul-appleby-at-wigmore-hall.md", "articles/in-review-sondra-radvanovskys-stunning-london-recital-debut.md", "articles/in-review-rowan-pierce-the-london-handel-players.md"]
-related_people = ["scene/people/kitty-whately.md"]
-short_description = "But from Whately&#039;s performance, you would never know the extenuating circumstances at play. Her demeanor was calm and elegant, her expression was engaged, and we felt like we were watching someone who just revels in the joy of singing. Together with pianist Joseph Middleton, the two acted as painters together, showing us beautiful scenes in a program inspired by themes of nature."
-slug = "in-review-kitty-whately-joseph-middleton-at-wigmore-hall"
-title = "In review: Kitty Whately &amp; Joseph Middleton at Wigmore Hall"
-
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2017-04-11T13:39:00+01:00"
+lastmod: "2017-04-11T14:10:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546394226/media/2019/01/KittyWhately.gif
+publishDate: "2017-04-11T14:10:00+01:00"
+related_articles:
+- articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md
+- articles/in-review-paul-appleby-at-wigmore-hall.md
+- articles/in-review-sondra-radvanovskys-stunning-london-recital-debut.md
+- articles/in-review-rowan-pierce-the-london-handel-players.md
+related_people:
+- scene/people/kitty-whately.md
+short_description: But from Whately&#039;s performance, you would never know the extenuating
+  circumstances at play. Her demeanor was calm and elegant, her expression was engaged,
+  and we felt like we were watching someone who just revels in the joy of singing.
+  Together with pianist Joseph Middleton, the two acted as painters together, showing
+  us beautiful scenes in a program inspired by themes of nature.
+slug: in-review-kitty-whately-joseph-middleton-at-wigmore-hall
+title: 'In review: Kitty Whately &amp; Joseph Middleton at Wigmore Hall'
+---
 The pressure must have been high for [Kitty Whately](/scene/people/kitty-whately/) at Wigmore Hall on Monday afternoon - not only was she stepping in at the last possible minute for a recital meant to be given by [Sarah Connolly](/scene/people/sarah-connolly/), but this recital was live broadcast on BBC Radio 3. What's more is that the repertoire is some of Britain's favorite music: from Stanford to Warlock to Vaughan Williams, it was the early 20th century's greatest hits from England, and much of the more experienced recital-goers in the audience probably knew parts of this program from memory.
 
 But from Whately's performance, you would never know the extenuating circumstances at play. Her demeanor was calm and elegant, her expression was engaged, and we felt like we were watching someone who just revels in the joy of singing. Together with pianist Joseph Middleton, the two acted as painters together, showing us beautiful scenes in a program inspired by themes of nature.

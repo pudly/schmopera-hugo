@@ -1,19 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-10-31T22:37:00+00:00"
-lastmod = "2016-11-02T13:57:00+00:00"
-preamble = "South African soprano [Elza van den Heever](/scene/people/elza-van-den-heever/) is currently in Toronto to sing one of her signature roles, Bellini's Norma; shared with  [Sondra Radvanovsky](/review-sondra-slays-in-bellini-masterwork/), van den Heever sings the final four performances of Kevin Newbury's [*Norma* at the Canadian Opera Company](http://www.coc.ca/PerformancesAndTickets/1617Season/Norma.aspx). Like Elsa in *Lohengrin* and the Elisabettas of *Maria Stuarda* and *Don Carlo*, Norma is one of the enviable roles which fill van den Heever's calendar.\n\nShe chats about Bellini's iconic role, singing smart, and her favourite spots in Toronto."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953267442/2016-10-31---Elza_by-Dario-Acosta-2.jpg.jpg"
-primary_image_credit = "Photo by Dario Acosta."
-publishDate = "2016-11-02T13:33:00+00:00"
-related_articles = ["articles/talking-with-singers-othalie-graham.md","articles/talking-with-singers-jamie-barton.md","articles/talking-with-singers-luca-pisaroni.md","articles/spotlight-on-amanda-majeski.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/elza-van-den-heever.md"]
-short_description = "&quot;&#039;Casta Diva&#039; alone is of course that one moment of magic that craves to be sung to absolute precision - problem is, at least for me, that the aria is truly very low in the soprano tessitura and makes it just incredibly difficult and uncomfortable if you&#039;re nervous. It’s at the top of the show where you are most vulnerable and scared and nerves often get in the way.&quot;"
-slug = "talking-with-singers-elza-van-den-heever"
-title = "Talking with singers: Elza van den Heever"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-10-31T22:37:00+00:00"
+lastmod: "2016-11-02T13:57:00+00:00"
+preamble: |-
+  South African soprano [Elza van den Heever](/scene/people/elza-van-den-heever/) is currently in Toronto to sing one of her signature roles, Bellini's Norma; shared with  [Sondra Radvanovsky](/review-sondra-slays-in-bellini-masterwork/), van den Heever sings the final four performances of Kevin Newbury's [*Norma* at the Canadian Opera Company](http://www.coc.ca/PerformancesAndTickets/1617Season/Norma.aspx). Like Elsa in *Lohengrin* and the Elisabettas of *Maria Stuarda* and *Don Carlo*, Norma is one of the enviable roles which fill van den Heever's calendar.
+
+  She chats about Bellini's iconic role, singing smart, and her favourite spots in Toronto.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953267442/2016-10-31---Elza_by-Dario-Acosta-2.jpg.jpg
+primary_image_credit: Photo by Dario Acosta.
+publishDate: "2016-11-02T13:33:00+00:00"
+related_articles:
+- articles/talking-with-singers-othalie-graham.md
+- articles/talking-with-singers-jamie-barton.md
+- articles/talking-with-singers-luca-pisaroni.md
+- articles/spotlight-on-amanda-majeski.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/elza-van-den-heever.md
+short_description: '&quot;&#039;Casta Diva&#039; alone is of course that one moment
+  of magic that craves to be sung to absolute precision - problem is, at least for
+  me, that the aria is truly very low in the soprano tessitura and makes it just incredibly
+  difficult and uncomfortable if you&#039;re nervous. It’s at the top of the show
+  where you are most vulnerable and scared and nerves often get in the way.&quot;'
+slug: talking-with-singers-elza-van-den-heever
+title: 'Talking with singers: Elza van den Heever'
+---
 
 ## What kind of woman is Norma? What qualities do you think you and her share?
 
@@ -21,7 +35,9 @@ Norma is a woman driven by emotion - deep emotion and feeling.  She is bound by 
 
 I think I share her "crazy" emotional side - I can get quite irrational and over emphatic.  
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953471698/2016-10-31---Elza-Norma-MC-2259.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953471698/2016-10-31---Elza-Norma-MC-2259.jpg.jpg)
 <figcaption>Elza van den Heever as Norma in the Canadian Opera Company production of *Norma*, 2016, photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -35,7 +51,9 @@ Tremendous pressure! Norma is iconic for a reason… the role is super difficult
 
 But it is oh so rewarding! I don't think I have ever had so much fun on stage as I have had singing and playing Norma.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953485792/2016-10-31---Elza_by-Dario-Acosta-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953485792/2016-10-31---Elza_by-Dario-Acosta-1.jpg.jpg)
 <figcaption>Elza van den Heever, soprano. Photo by Dario Acosta.</figcaption>
 </figure>
 

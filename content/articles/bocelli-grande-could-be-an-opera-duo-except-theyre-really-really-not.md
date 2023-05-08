@@ -1,15 +1,30 @@
-+++
-author = ["authors/greg.md"]
-categories = "Op-ed"
-date = "2015-10-15T13:38:00-04:00"
-lastmod = "2015-10-18T12:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445141707615/Untitled-1.jpg.jpg"
-publishDate = "2015-10-16T12:33:00-04:00"
-related_articles = ["articles/elitism-irony-and-the-phantom-of-the-opera.md","articles/online-music-is-obscuring-opera.md","articles/erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional.md","articles/muppets-at-the-opera.md","articles/pavarotti-and-all-his-friends.md","articles/a-tale-of-big-hair-at-the-met.md","articles/grease-live-a-rant.md","articles/be-in-on-the-secret-confidential-opera-project.md","articles/what-the-eff-is-a-zarzuela-anyway.md"]
-short_description = "So, Andrea Bocelli has &quot;graced&quot; us (and probably a BILLION wedding receptions hence) with a new duet called &quot;E Piú ti Penso&quot;, and although it is kinda sorta pretty, it&#039;s totally rubbing me the wrong way. It has all the proper ingredients: string ensemble, a video shot through a soft-filtered lens, a pretty pop princess, and it&#039;s written by Ennio Morricone. MORRICONE!!!"
-slug = "bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not"
-title = "Bocelli &amp; Grande: could be an opera duo, except they&#039;re really, really not"
-+++
+---
+author:
+- authors/greg.md
+categories: Op-ed
+date: "2015-10-15T13:38:00-04:00"
+lastmod: "2015-10-18T12:07:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445141707615/Untitled-1.jpg.jpg
+publishDate: "2015-10-16T12:33:00-04:00"
+related_articles:
+- articles/elitism-irony-and-the-phantom-of-the-opera.md
+- articles/online-music-is-obscuring-opera.md
+- articles/erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional.md
+- articles/muppets-at-the-opera.md
+- articles/pavarotti-and-all-his-friends.md
+- articles/a-tale-of-big-hair-at-the-met.md
+- articles/grease-live-a-rant.md
+- articles/be-in-on-the-secret-confidential-opera-project.md
+- articles/what-the-eff-is-a-zarzuela-anyway.md
+short_description: 'So, Andrea Bocelli has &quot;graced&quot; us (and probably a BILLION
+  wedding receptions hence) with a new duet called &quot;E Piú ti Penso&quot;, and
+  although it is kinda sorta pretty, it&#039;s totally rubbing me the wrong way. It
+  has all the proper ingredients: string ensemble, a video shot through a soft-filtered
+  lens, a pretty pop princess, and it&#039;s written by Ennio Morricone. MORRICONE!!!'
+slug: bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not
+title: 'Bocelli &amp; Grande: could be an opera duo, except they&#039;re really, really
+  not'
+---
 
 So, Andrea Bocelli has "graced" us (and probably a BILLION wedding receptions hence) with a new duet called ["E Piú ti Penso"](https://youtu.be/Z8SYtmvEI9U), and although it is kinda sorta pretty, it's totally rubbing me the wrong way. It has all the proper ingredients: string ensemble, a video shot through a soft-filtered lens, a pretty pop princess, and it's written by [Ennio Morricone](https://en.wikipedia.org/wiki/Ennio_Morricone). MORRICONE!!!
 

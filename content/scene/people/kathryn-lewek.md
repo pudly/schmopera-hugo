@@ -1,21 +1,31 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572812052/media/2019/11/Kathryn_Lewek_WEB_SMALL-15_qx7jid.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/welsh-national-opera.md", "scene/companies/english-national-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/houston-grand-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/teatro-alla-scala.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/washington-national-opera.md", "scene/companies/nashville-opera.md"]
-slug = "kathryn-lewek"
-title = "Kathryn Lewek"
-website = "https://www.kathrynlewek.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/kathrynleweksoprano/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/KathrynLewek"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1572812052/media/2019/11/Kathryn_Lewek_WEB_SMALL-15_qx7jid.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/welsh-national-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/lyric-opera-of-kansas-city.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/washington-national-opera.md
+- scene/companies/nashville-opera.md
+slug: kathryn-lewek
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/kathrynleweksoprano/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/KathrynLewek
+title: Kathryn Lewek
+website: https://www.kathrynlewek.com/
+---
 Kathryn Lewek has established herself as one of opera’s most thrilling coloratura sopranos of this generation, performing some of the most vocally challenging roles in the repertoire, joining the top-ranking operatic performers of all time.
 
 Following her “especially brilliant” début as Ginevra in **_Ariodante_** with the Salzburger Pfingstfestspiele in Austria, opposite Cecilia Bartoli, where Ms. Lewek “perform\[ed\] a miracle” and thrilled audiences with “a rich (and richly differentiated) soprano voice \[that\] has not been experienced for a long time” she returned this summer in Barrie Kosky’s new production of **_Orphée aux Enfers_** “ravishingly” singing the “the raunchy, full-throttle” role of Eurydice, once again wowing critics and audiences alike for her versatility as a performer and prompting Opera Wire to exclaim her Artist of the Week and a 5 page spread in Salzburg’s official festival magazine.

@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-06-09T17:06:00-06:00"
-lastmod = "2017-06-10T12:51:00-06:00"
-preamble = "Toronto-based composer [Chris Thornborrow](/scene/people/chris-thornborrow/) is an inspired collaborator, and his work is balanced across the city's diverse musical scene. His operatic work has been heard at [Tapestry Opera](/scene/companies/tapestry-opera/), [The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/), and [FAWN Chamber Creative](/scene/companies/fawn-chamber-creative/), and he is a founding member of the emerging composers' collective, [Toy Piano Composers](/scene/companies/toy-piano-composers/).\n\nHe spoke with us about his work with young people, working independently of inspiration, and his long-standing earworm."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497049542807/2017-06-09---Chris-Thornborrow.jpg.jpg"
-publishDate = "2017-06-10T10:11:00-06:00"
-related_articles = ["articles/talking-with-composers-aaron-gervais.md","articles/talking-with-composers-ivan-barbotin.md","articles/talking-with-composers-cecilia-livingston.md"]
-related_companies = ["scene/companies/the-bicycle-opera-project.md","scene/companies/tapestry-opera.md","scene/companies/canadian-opera-company.md","scene/companies/fawn-chamber-creative.md"]
-related_people = ["scene/people/chris-thornborrow.md"]
-short_description = "&quot;My instrumental music has been described as complex, clear, powerfully virtuosic, and playful. The operas I&#039;ve written have ranged from side-splittingly funny to chilling, although one critic felt &#039;it did not work.&#039; Some of the work I&#039;ve done in film has been called elegiac, rumbly, and brashly percussive.&quot;"
-slug = "talking-with-composers-chris-thornborrow"
-title = "Talking with composers: Chris Thornborrow"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-06-09T17:06:00-06:00"
+lastmod: "2017-06-10T12:51:00-06:00"
+preamble: |-
+  Toronto-based composer [Chris Thornborrow](/scene/people/chris-thornborrow/) is an inspired collaborator, and his work is balanced across the city's diverse musical scene. His operatic work has been heard at [Tapestry Opera](/scene/companies/tapestry-opera/), [The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/), and [FAWN Chamber Creative](/scene/companies/fawn-chamber-creative/), and he is a founding member of the emerging composers' collective, [Toy Piano Composers](/scene/companies/toy-piano-composers/).
+
+  He spoke with us about his work with young people, working independently of inspiration, and his long-standing earworm.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497049542807/2017-06-09---Chris-Thornborrow.jpg.jpg
+publishDate: "2017-06-10T10:11:00-06:00"
+related_articles:
+- articles/talking-with-composers-aaron-gervais.md
+- articles/talking-with-composers-ivan-barbotin.md
+- articles/talking-with-composers-cecilia-livingston.md
+related_companies:
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/tapestry-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/fawn-chamber-creative.md
+related_people:
+- scene/people/chris-thornborrow.md
+short_description: '&quot;My instrumental music has been described as complex, clear,
+  powerfully virtuosic, and playful. The operas I&#039;ve written have ranged from
+  side-splittingly funny to chilling, although one critic felt &#039;it did not work.&#039;
+  Some of the work I&#039;ve done in film has been called elegiac, rumbly, and brashly
+  percussive.&quot;'
+slug: talking-with-composers-chris-thornborrow
+title: 'Talking with composers: Chris Thornborrow'
+---
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

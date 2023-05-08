@@ -1,26 +1,27 @@
-+++
-date = "2019-03-18T22:06:56+00:00"
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552946649/media/2019/03/CatalinaCuervo.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/arizona-opera.md", "scene/companies/the-atlanta-opera.md", "scene/companies/florida-grand-opera.md"]
-slug = "catalina-cuervo"
-title = "Catalina Cuervo"
-website = "http://catalinacuervo.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/sopranocatalinacuervo"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/catacuervo"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/catalinacuervos/"
-
-+++
+---
+date: "2019-03-18T22:06:56+00:00"
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1552946649/media/2019/03/CatalinaCuervo.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/arizona-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/florida-grand-opera.md
+slug: catalina-cuervo
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/sopranocatalinacuervo
+- platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/catacuervo
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/catalinacuervos/
+title: Catalina Cuervo
+website: http://catalinacuervo.com/
+---
 Known as the "Fiery Soprano", Colombian born Catalina Cuervo holds the distinction of having performed the most productions of Piazzolla's _Maria de Buenos Aires_ in the world in the history of the opera.
 
 Ms. Cuervo has performed the role of Maria for numerous prestigious companies including Florida Grand Opera, The Atlanta Opera, Cincinnati Opera, and Syracuse Opera to name a few of about fifteen productions.

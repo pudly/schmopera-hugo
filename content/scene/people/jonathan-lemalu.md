@@ -1,15 +1,23 @@
-+++
-date = "2018-06-11T18:47:00-04:00"
-discipline = "Bass"
-lastmod = "2018-06-11T18:51:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528757175974/Credit%20Sussie%20Ahlburg%206.jpg.jpg"
-primary_image_credit = "Sussie Ahlburg."
-publishDate = "2018-06-11T18:47:00-04:00"
-related_companies = ["scene/companies/the-grange-festival.md","scene/companies/english-national-opera.md","scene/companies/oper-frankfurt.md","scene/companies/seattle-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md"]
-slug = "jonathan-lemalu"
-title = "Jonathan Lemalu"
-website = "https://jonathanlemalu.com/"
-+++
+---
+_template: people_single
+date: "2018-06-11T18:47:00-04:00"
+discipline: Bass
+lastmod: "2018-06-11T18:51:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528757175974/Credit%20Sussie%20Ahlburg%206.jpg.jpg
+primary_image_credit: Sussie Ahlburg.
+publishDate: "2018-06-11T18:47:00-04:00"
+related_companies:
+- scene/companies/the-grange-festival.md
+- scene/companies/english-national-opera.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/seattle-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/glyndebourne.md
+slug: jonathan-lemalu
+title: Jonathan Lemalu
+website: https://jonathanlemalu.com/
+---
 
 Grammy award winning bass baritone Jonathan Lemalu continues to be in great demand on the global stage as an opera singer, concert performer, recitalist and recording artist.  His critically acclaimed performances of the leading bass-baritone roles from Mozart’s *Die Zauberflöte*, *Don Giovanni*, *Le nozze di Figaro* and *Idomeneo*, Handel’s *Saul*, *Orlando*, *Rinaldo*, *La Resurezzione*, *Samson*, *Jeptha* and *Belshazzar* have taken him to the Metropolitan Opera in New York and on tour to Japan, The Royal Opera House, Glyndebourne Festival, Lyric Opera of Chicago, Salzburg Festival, Bayerische Staatsoper, Theater an der Wien, English National Opera, Cincinnati Opera, Opera Australia, Hamburg Staatsoper, BBC Proms and music festivals in Edinburgh, Styriarte, Gstaad, Tanglewood and Ravinia under the baton of such conductors as Sir Andrew Davis, Sir Simon Rattle, Sir Charles MacKerras, Zubin Mehta, Nikolaus Harnoncourt, Sir Roger Norrington, Rene Jacobs, Vladimir Jurowski and Ivor Bolton.
 

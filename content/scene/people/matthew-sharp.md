@@ -1,19 +1,23 @@
-+++
-date = "2016-04-18T09:47:00+01:00"
-discipline = "Baritone, cellist, actor"
-lastmod = "2016-04-20T11:02:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460969246419/2016-04-18---Matthew-Sharp.jpg.jpg"
-primary_image_credit = "Raphael Klatzko"
-publishDate = "2016-04-18T09:50:00+01:00"
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/opera-north.md","scene/companies/mahogany-opera-group.md"]
-slug = "matthew-sharp"
-title = "Matthew Sharp"
-website = "http://www.matthewsharp.net/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/mattdjsharp"
-+++
+---
+date: "2016-04-18T09:47:00+01:00"
+discipline: Baritone, cellist, actor
+lastmod: "2016-04-20T11:02:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460969246419/2016-04-18---Matthew-Sharp.jpg.jpg
+primary_image_credit: Raphael Klatzko
+publishDate: "2016-04-18T09:50:00+01:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/opera-north.md
+- scene/companies/mahogany-opera-group.md
+slug: matthew-sharp
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/mattdjsharp
+title: Matthew Sharp
+website: http://www.matthewsharp.net/
+---
 
 - "Extraordinary cellist, virile baritone, compelling actor - Matthew Sharp's astonishingly comprehensive versatility." (*The Daily Telegraph*)
 

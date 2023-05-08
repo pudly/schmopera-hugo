@@ -1,24 +1,36 @@
-+++
-date = "2016-07-26T15:20:00-04:00"
-discipline = "Baritone"
-lastmod = "2016-07-26T15:20:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1630956506/media/2021/09/WillLivermanJaclynSimpson_jodx9w.jpg"
-primary_image_credit = "Jacklyn Simpson"
-publishDate = "2016-07-26T15:20:00-04:00"
-related_companies = ["scene/companies/virginia-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/portland-opera.md", "scene/companies/utah-opera.md", "scene/companies/the-juilliard-school.md", "scene/companies/opera-philadelphia.md", "scene/companies/english-national-opera.md", "scene/companies/seattle-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-dallas-opera.md", "scene/companies/minnesota-opera.md", "scene/companies/wolf-trap-opera.md", "scene/companies/glimmerglass-festival.md"]
-slug = "will-liverman"
-title = "Will Liverman"
-website = "http://www.willliverman.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/WillLivermanBaritone/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/willie1525/"
-
-+++
+---
+date: "2016-07-26T15:20:00-04:00"
+discipline: Baritone
+lastmod: "2016-07-26T15:20:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1630956506/media/2021/09/WillLivermanJaclynSimpson_jodx9w.jpg
+primary_image_credit: Jacklyn Simpson
+publishDate: "2016-07-26T15:20:00-04:00"
+related_companies:
+- scene/companies/virginia-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/portland-opera.md
+- scene/companies/utah-opera.md
+- scene/companies/the-juilliard-school.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/english-national-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/minnesota-opera.md
+- scene/companies/wolf-trap-opera.md
+- scene/companies/glimmerglass-festival.md
+slug: will-liverman
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/WillLivermanBaritone/
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/willie1525/
+title: Will Liverman
+website: http://www.willliverman.com/
+---
 Called “a voice for this historic moment” (_The Washington Post_), baritone Will Liverman continues to bring his compelling performances to audiences nationwide. He will star in the Metropolitan Opera’s reopening production of Terence Blanchard’s _Fire Shut Up in My Bones_ in fall 2021, in addition to reprising his roles in _Akhnaten_ (Horemhab) and _The Magic Flute_ (Papageno) during the Met’s 2021-2022 season.
 
 Following a summer at Opera Theatre of St. Louis and Aspen Music Festival, additional highlights of Will’s 2021-2022 season include the reprisal of _Fire Shut Up in My Bones_ with Lyric Opera of Chicago, Florence Price’s _Song to the Dark Virgin_ with Chicago Sinfonietta, Jonathan Dove’s _Flight_ with The Dallas Opera, and Leonard Bernstein’s _Mass_ as part of a 50th Anniversary Celebration at The Kennedy Center.

@@ -1,17 +1,26 @@
-+++
-author = ["authors/greg.md"]
-categories = "Op-ed"
-date = "2017-01-05T10:43:00+00:00"
-lastmod = "2017-01-06T10:56:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483613404276/2017-01-05---JDD-Florian-Kalotay.jpg.jpg"
-primary_image_credit = "Photo: Florian Katolay"
-publishDate = "2017-01-06T10:47:00+00:00"
-related_articles = ["articles/generally-awesome-mezzo-joyce-didonato-saves-my-writers-block.md","articles/remember-me-but-ah-forget-my-fate.md"]
-related_people = ["scene/people/joyce-didonato.md"]
-short_description = "&quot;It reminds them that that part of them is perhaps not lost in a place that is dehumanizing a lot of the time&quot; the two-time Grammy Award-winner said in an interview with The Today Show on NBC. &quot;The first day I was there... my instinct was &#039;Don&#039;t make eye contact, don&#039;t make eye contact&#039; and forty-five minutes later I was staring into the eyes of these inmates and we were singing to each other.&quot;"
-slug = "didonato-inspires-inmates-through-song"
-title = "DiDonato inspires inmates through song"
-+++
+---
+author:
+- authors/greg.md
+categories: Op-ed
+date: "2017-01-05T10:43:00+00:00"
+lastmod: "2017-01-06T10:56:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483613404276/2017-01-05---JDD-Florian-Kalotay.jpg.jpg
+primary_image_credit: 'Photo: Florian Katolay'
+publishDate: "2017-01-06T10:47:00+00:00"
+related_articles:
+- articles/generally-awesome-mezzo-joyce-didonato-saves-my-writers-block.md
+- articles/remember-me-but-ah-forget-my-fate.md
+related_people:
+- scene/people/joyce-didonato.md
+short_description: '&quot;It reminds them that that part of them is perhaps not lost
+  in a place that is dehumanizing a lot of the time&quot; the two-time Grammy Award-winner
+  said in an interview with The Today Show on NBC. &quot;The first day I was there...
+  my instinct was &#039;Don&#039;t make eye contact, don&#039;t make eye contact&#039;
+  and forty-five minutes later I was staring into the eyes of these inmates and we
+  were singing to each other.&quot;'
+slug: didonato-inspires-inmates-through-song
+title: DiDonato inspires inmates through song
+---
 
 My Beloved Schmop-Tops! Happy New Year!
 

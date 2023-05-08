@@ -1,18 +1,27 @@
-+++
-date = "2019-02-05T13:28:01+00:00"
-discipline = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549373175/media/2019/02/VitoPriante.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/salzburg-festival.md", "scene/companies/gran-teatre-del-liceu.md", "scene/companies/staatsoper-berlin.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/teatro-alla-scala.md", "scene/companies/opra-national-de-paris.md", "scene/companies/wiener-staatsoper.md", "scene/companies/royal-opera-house.md", "scene/companies/canadian-opera-company.md"]
-slug = "vito-priante"
-title = "Vito Priante"
-website = ""
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/VitoPriante"
-
-+++
+---
+date: "2019-02-05T13:28:01+00:00"
+discipline: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549373175/media/2019/02/VitoPriante.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/salzburg-festival.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/royal-opera-house.md
+- scene/companies/canadian-opera-company.md
+slug: vito-priante
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/VitoPriante
+title: Vito Priante
+website: ""
+---
 Baritone Vito Priante’s voice has been described as elegant and burnished, stylish and seductive, agile and lively. A rising operatic star, he has performed across Europe in venerable theatres including La Scala in Milan, the State Operas in Vienna, Munich, Berlin, Teatro San Carlo in Naples, Opéra de Lyon, ROH Covent Garden, Barcelona, the Teatro dell’Opera di Roma, at the Salzburg and Edinburgh festivals, and with internationally renowned conductors Riccardo Muti, Daniel Barenboim, Ivor Bolton, and Daniel Harding among others.
 
 **PERFORMANCES  

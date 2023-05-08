@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2017-05-02T16:04:00-04:00"
-lastmod = "2017-05-03T09:16:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493756923625/2017-05-02---Nap.jpg.jpg"
-publishDate = "2017-05-03T09:16:00-04:00"
-related_articles = ["articles/booing-at-the-opera-why.md","articles/concert-etiquette-or-put-down-your-phone.md"]
-short_description = "We may feel a bit miffed, but for the people who did find Roker&#039;s joke blatantly funny, we are not going to change their minds by shouting &quot;disrespect!&quot; and tsk-tsking them for laughing. If the feared stereotype is that opera is uptight and snoozeworthy, we are not proving them otherwise by telling Roker that he&#039;s &quot;embarrassing&quot;."
-slug = "take-a-joke-have-a-nap"
-title = "Take a joke, have a nap"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2017-05-02T16:04:00-04:00"
+lastmod: "2017-05-03T09:16:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493756923625/2017-05-02---Nap.jpg.jpg
+publishDate: "2017-05-03T09:16:00-04:00"
+related_articles:
+- articles/booing-at-the-opera-why.md
+- articles/concert-etiquette-or-put-down-your-phone.md
+short_description: We may feel a bit miffed, but for the people who did find Roker&#039;s
+  joke blatantly funny, we are not going to change their minds by shouting &quot;disrespect!&quot;
+  and tsk-tsking them for laughing. If the feared stereotype is that opera is uptight
+  and snoozeworthy, we are not proving them otherwise by telling Roker that he&#039;s
+  &quot;embarrassing&quot;.
+slug: take-a-joke-have-a-nap
+title: Take a joke, have a nap
+---
 
 So, the other night [Al Roker fell asleep at the opera:](https://www.nytimes.com/2017/05/02/arts/music/al-roker-sleeping-at-der-rosenkavalier-opera.html)
 

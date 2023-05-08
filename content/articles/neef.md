@@ -1,22 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2020-08-27T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1598575514/media/2020/08/sqFSC2_nlwiih.jpg"
-primary_image_credit = "The Canadian Opera Company's Four Seasons Centre for the Performing Arts. Photo: Tim Griffith."
-related_articles = ["articles/the-met-s-at-home-gala.md", "articles/domingo.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = []
-short_description = "I think Neef has been playing a different game than Canadian opera fans. He was making the COC a new hub in the international opera scene, and we were loving the big gets onstage."
-slug = "well-okay-au-revoir-i-guess"
-title = "Well okay, au revoir, I guess?"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2020-08-27T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1598575514/media/2020/08/sqFSC2_nlwiih.jpg
+primary_image_credit: 'The Canadian Opera Company''s Four Seasons Centre for the Performing
+  Arts. Photo: Tim Griffith.'
+related_articles:
+- articles/the-met-s-at-home-gala.md
+- articles/domingo.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people: []
+short_description: I think Neef has been playing a different game than Canadian opera
+  fans. He was making the COC a new hub in the international opera scene, and we were
+  loving the big gets onstage.
+slug: well-okay-au-revoir-i-guess
+title: Well okay, au revoir, I guess?
+youtube_url: ""
+---
 Alright. This one's for the Canadians.
 
 Alexander Neef, General Director of the Canadian Opera Company, [announced this week](https://www.coc.ca/COC-news1?EntryID=22075) that he would be starting his new job earlier than planned. As of September 1, he'll be the General Director of the Paris Opera - a post he was supposed to start in 2021, after finishing his final season at the COC.

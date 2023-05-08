@@ -1,26 +1,28 @@
-+++
-date = "2017-07-18T16:14:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-07-18T16:14:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500408693479/Coit.Sarah.Headshot.jpg.jpg"
-publishDate = "2017-07-18T16:14:00-04:00"
-related_companies = ["scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/utah-opera.md"]
-slug = "sarah-coit"
-title = "Sarah Coit"
-website = "http://www.sarahcoit.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/scoitsings/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SarahCoit"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/srosecoit/"
-+++
+---
+date: "2017-07-18T16:14:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-07-18T16:14:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500408693479/Coit.Sarah.Headshot.jpg.jpg
+publishDate: "2017-07-18T16:14:00-04:00"
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/utah-opera.md
+slug: sarah-coit
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/scoitsings/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/SarahCoit
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/srosecoit/
+title: Sarah Coit
+website: http://www.sarahcoit.com/
+---
 
 Sarah Coit is a native of Spring Hill, FL. Her repertoire includes such roles as Nancy in *Albert Herring*, Rosina in *Il barbiere di Siviglia*, Cherubino in *Le Nozze di Figaro*, Sister Helen Prejean in *Dead Man Walking*, the title role in *Giulio Cesare*, and the Waitress in the World Premiere of Michael Ching’s *Speed Dating Tonight*. 
 

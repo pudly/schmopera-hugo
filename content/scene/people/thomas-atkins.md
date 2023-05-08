@@ -1,19 +1,21 @@
-+++
-date = "2016-10-03T16:35:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-10-03T16:35:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475508857808/2016-10-03---Tom_Atkins.jpg.jpg"
-primary_image_credit = "Bob Curtis Photography"
-publishDate = "2016-10-03T16:35:00+01:00"
-related_companies = ["scene/companies/royal-opera-house.md"]
-slug = "thomas-atkins"
-title = "Thomas Atkins"
-website = "http://www.thomasatkinstenor.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/AtkinsTenor"
-+++
+---
+date: "2016-10-03T16:35:00+01:00"
+discipline: Tenor
+lastmod: "2016-10-03T16:35:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475508857808/2016-10-03---Tom_Atkins.jpg.jpg
+primary_image_credit: Bob Curtis Photography
+publishDate: "2016-10-03T16:35:00+01:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+slug: thomas-atkins
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/AtkinsTenor
+title: Thomas Atkins
+website: http://www.thomasatkinstenor.com/
+---
 
 Thomas recently completed the Opera Course at the Guildhall School of Music & Drama, under the tutelage of Adrian Thompson. In 2013 he was awarded the New Zealand Arts Foundation Patronage Award. Recent concert performances include Soloist alongside Dame Kiri Te Kanawa at the 2014 Yakushiji Otobutai, Japan and Dritter Lakai in excerpts from Der Rosenkavalier with the London Symphony Orchestra conducted by Sir Mark Elder.
 

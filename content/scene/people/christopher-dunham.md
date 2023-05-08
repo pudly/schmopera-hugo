@@ -1,18 +1,23 @@
-+++
-date = "2017-09-29T19:03:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-09-29T19:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506726086544/1409662_orig.jpg.jpg"
-publishDate = "2017-09-29T19:03:00-04:00"
-related_companies = ["scene/companies/the-atlanta-opera.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/lopra-de-montral.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md"]
-slug = "christopher-dunham"
-title = "Christopher Dunham"
-website = "http://www.christopherdunham.net/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/CDunhamBaritone"
-+++
+---
+date: "2017-09-29T19:03:00-04:00"
+discipline: Baritone
+lastmod: "2017-09-29T19:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506726086544/1409662_orig.jpg.jpg
+publishDate: "2017-09-29T19:03:00-04:00"
+related_companies:
+- scene/companies/the-atlanta-opera.md
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/latelier-lyrique-de-lopra-de-montral.md
+slug: christopher-dunham
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/CDunhamBaritone
+title: Christopher Dunham
+website: http://www.christopherdunham.net/
+---
 
 Christopher Dunham a native of Niagara Falls, Ontario, has captivated audiences across Canada with his lyric baritone voice and as far as the Adriatic coast of Italy. A recent graduate from L'atelier lyrique de l'Opéra de Montréal his roles include: Figaro *Barber of Seville*, Mercutio *Romeo et Juliette*, Escamillo *Carmen*, Don Giovanni *Don Giovanni*, Eisenstein *Die Fledermaus* and Dandini *La Cenerentola*.
  

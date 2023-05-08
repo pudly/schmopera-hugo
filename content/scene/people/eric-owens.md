@@ -1,23 +1,25 @@
-+++
-date = "2015-04-07T17:03:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2015-04-07T17:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428440536122/Eric_Owens_-_Audition_Headshot_-_credit_Dario_Acosta.jpg.jpg"
-primary_image_credit = "Dario Acosta."
-publishDate = "2015-04-07T17:03:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/lyric-opera-of-chicago.md"]
-slug = "eric-owens"
-title = "Eric Owens"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ericowensbass"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/EricOwensSinger"
-
-+++
+---
+date: "2015-04-07T17:03:00-04:00"
+discipline: Bass-baritone
+lastmod: "2015-04-07T17:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428440536122/Eric_Owens_-_Audition_Headshot_-_credit_Dario_Acosta.jpg.jpg
+primary_image_credit: Dario Acosta.
+publishDate: "2015-04-07T17:03:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+slug: eric-owens
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/ericowensbass
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/EricOwensSinger
+title: Eric Owens
+---
 Bass-baritone Eric Owens has a unique reputation as an esteemed interpreter of classic works and a champion of new music. Equally at home in orchestral, recital, and operatic repertoire, Mr. Owens brings his powerful poise, expansive voice, and instinctive acting faculties to stages around the world.
 
 In the 2020-2021 season, Mr. Owens performs Sarastro in _The Magic Flute_ and Ferrando in _Il trovatore_ at the Glimmerglass Festival, while serving as Artist in Residence for the festival’s Young Artist Program. He also sings in a pop-up concert in New York City alongside other soloists and members of the Metropolitan Opera Chorus and Orchestra, led by Yannick Nézet-Séguin. Previously scheduled engagements include returns to the Metropolitan Opera as Vodnik in _Rusalka_, San Francisco Opera as Rocco in _Fidelio_, Los Angeles Opera as Ramfis in _Aida_, and Washington National Opera as Don Fernando in _Fidelio_, as well as performances of Beethoven’s _Missa Solemnis_ with the Philadelphia Orchestra.

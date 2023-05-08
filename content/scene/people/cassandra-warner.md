@@ -1,23 +1,25 @@
-+++
-date = "2017-07-25T18:54:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-07-26T00:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501023221282/2017-07-17---CassandraWarner0231photobyKevinPatrickRobbins.jpg.jpg"
-primary_image_credit = "Kevin Patrick Robbins"
-publishDate = "2017-07-25T18:54:00-04:00"
-related_companies = ["scene/companies/confidential-opera-project.md","scene/companies/loose-tea-music-theatre.md"]
-slug = "cassandra-warner"
-title = "Cassandra Warner"
-website = "http://cassandrawarner.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/cassandra.warner.37"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/operacass/"
-+++
+---
+date: "2017-07-25T18:54:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-07-26T00:07:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501023221282/2017-07-17---CassandraWarner0231photobyKevinPatrickRobbins.jpg.jpg
+primary_image_credit: Kevin Patrick Robbins
+publishDate: "2017-07-25T18:54:00-04:00"
+related_companies:
+- scene/companies/confidential-opera-project.md
+- scene/companies/loose-tea-music-theatre.md
+slug: cassandra-warner
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/cassandra.warner.37
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/operacass/
+title: Cassandra Warner
+website: http://cassandrawarner.com/
+---
 
 Hailed by critics as a “powerful mezzo” and “sensory epiphany”, Canadian opera singer Cassandra Warner has garnered international acclaim. With a diverse array of performing experience in opera, concert, international competition and specialty events, she has appeared with such high profile companies as Opera Atelier of Toronto, Vancouver Opera, Calgary Opera, and Opera Toulon of France. She has performed such roles as Dorabella in *Cosi fan tutte*, Second Lady in *The Magic Flute*, Rose Maurrant in *Street Scene*, Maddalena in *Rigoletto*, The Saloon Singer in *The Inventor*, Carmen in *La Tragedie de Carmen* and the title role of *Cendrillon* in the Glenn Gould School's *Cendrillon* at Koerner Hall.
 

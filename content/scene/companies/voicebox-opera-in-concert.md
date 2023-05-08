@@ -1,22 +1,45 @@
-+++
-date = "2015-04-04T20:59:00-04:00"
-lastmod = "2015-10-31T15:05:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446318312936/Logo---OIC.jpg.jpg"
-publishDate = "2015-04-04T20:59:00-04:00"
-related_people = ["scene/people/adam-luther.md","scene/people/colin-ainsworth.md","scene/people/ernesto-ramirez.md","scene/people/geoffrey-sirett.md","scene/people/gregory-finney.md","scene/people/jennifer-taverner.md","scene/people/joni-henson.md","scene/people/laura-albino.md","scene/people/leighann-allen.md","scene/people/leslie-ann-bradley.md","scene/people/christina-campsall.md","scene/people/michelle-garlough.md","scene/people/michle-bogdanowicz.md","scene/people/janaka-welihinda.md","scene/people/natalya-matyusheva.md","scene/people/virginia-hatfield.md","scene/people/james-levesque.md","scene/people/dion-mazerolle.md","scene/people/lara-ciekiewicz.md","scene/people/justin-ralph.md","scene/people/vania-chan.md","scene/people/andrey-andreychik.md","scene/people/david-trudgen.md"]
-slug = "voicebox-opera-in-concert"
-title = "VOICEBOX: Opera in Concert"
-type_of_company = "Opera Company"
-website = "http://www.operainconcert.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/OperaInConcert?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/OperainConcert"
-+++
+---
+date: "2015-04-04T20:59:00-04:00"
+lastmod: "2015-10-31T15:05:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446318312936/Logo---OIC.jpg.jpg
+publishDate: "2015-04-04T20:59:00-04:00"
+related_people:
+- scene/people/adam-luther.md
+- scene/people/colin-ainsworth.md
+- scene/people/ernesto-ramirez.md
+- scene/people/geoffrey-sirett.md
+- scene/people/gregory-finney.md
+- scene/people/jennifer-taverner.md
+- scene/people/joni-henson.md
+- scene/people/laura-albino.md
+- scene/people/leighann-allen.md
+- scene/people/leslie-ann-bradley.md
+- scene/people/christina-campsall.md
+- scene/people/michelle-garlough.md
+- scene/people/michle-bogdanowicz.md
+- scene/people/janaka-welihinda.md
+- scene/people/natalya-matyusheva.md
+- scene/people/virginia-hatfield.md
+- scene/people/james-levesque.md
+- scene/people/dion-mazerolle.md
+- scene/people/lara-ciekiewicz.md
+- scene/people/justin-ralph.md
+- scene/people/vania-chan.md
+- scene/people/andrey-andreychik.md
+- scene/people/david-trudgen.md
+slug: voicebox-opera-in-concert
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/OperaInConcert?fref=ts
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/OperainConcert
+title: 'VOICEBOX: Opera in Concert'
+type_of_company: Opera Company
+website: http://www.operainconcert.com/
+---
 
 <p>
 	Opera in Concert, founded by Stuart Hamilton, C.M., made its debut on October 21st 1974 with Ambroise Thomas' HAMLET at the St. Lawrence Centre's Jane Mallett Theatre. Never before heard in Canada, Thomas' treatment of the Shakespeare play was a revelation, establishing a remarkable precedent: audiences were ready for unknown repertoire that showcased young Canadian talent presented in a format that was unadorned and direct. With a single stroke the Opera in Concert vision of rarely heard works sung by remarkable artists attained validity with opera professionals and the opera loving public. Soon enough, Opera in Concert expanded to as many as four operas per season with a full sized Choral component under Robert Cooper, C.M., an orchestra component for each season and THE BACKGROUNDER with Iain Scott.

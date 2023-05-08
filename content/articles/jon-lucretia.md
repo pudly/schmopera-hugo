@@ -1,22 +1,27 @@
-+++
-author = ["authors/callie-cooper.md"]
-categories = "Review"
-date = "2019-09-09T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1568160735/media/2019/09/sqRoLCastPortait_fqarnc.jpg"
-primary_image_credit = ""
-related_articles = ["articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md"]
-related_companies = ["scene/companies/journey-north-opera.md"]
-related_people = []
-short_description = "The Male Chorus (sung fiercely and with crystal clear diction by tenor Wesley Frye) was dressed as half man half stag. The Female Chorus, played by lyric soprano Amy Wolf was a more feminine version and also had antlers. The head pieces were quite ornate. "
-slug = "a-lucretia-rich-in-symbolism-from-journey-opera-north"
-title = "A Lucretia rich in symbolism from Journey North Opera"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/callie-cooper.md
+categories: Review
+date: "2019-09-09T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1568160735/media/2019/09/sqRoLCastPortait_fqarnc.jpg
+primary_image_credit: ""
+related_articles:
+- articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md
+related_companies:
+- scene/companies/journey-north-opera.md
+related_people: []
+short_description: 'The Male Chorus (sung fiercely and with crystal clear diction
+  by tenor Wesley Frye) was dressed as half man half stag. The Female Chorus, played
+  by lyric soprano Amy Wolf was a more feminine version and also had antlers. The
+  head pieces were quite ornate. '
+slug: a-lucretia-rich-in-symbolism-from-journey-opera-north
+title: A Lucretia rich in symbolism from Journey North Opera
+youtube_url: ""
+---
 After a four-year hiatus, Journey North Opera resumes their artistic activities with Britten's _The Rape of Lucretia_ at The Minnsky Theater in North West Minneapolis. Producer Colleen Meier introduced the show to the audience by saying that it was "just the perfect time" to put on an ambitious production of the musically difficult and thematically dark Britten opera. Given the #MeToo movement and most recently, the allegations of harassment against Plácido Domingo, I tend to agree.
 
 > This Male Chorus seems bloodthirsty throughout.

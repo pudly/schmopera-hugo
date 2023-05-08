@@ -1,16 +1,21 @@
-+++
-date = "2015-04-06T20:11:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-03-15T12:17:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428347416910/AndreaLudwig-pc-BoHuang.jpg.jpg"
-primary_image_credit = "Bo Huang"
-publishDate = "2015-04-06T20:11:00+01:00"
-related_companies = ["scene/companies/opera-philadelphia.md", "scene/companies/edmonton-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/tapestry-opera.md", "scene/companies/talisker-players.md"]
-slug = "andrea-ludwig"
-title = "Andrea Ludwig"
-website = "http://andrealudwig.ca/"
-
-+++
+---
+_template: people_single
+date: "2015-04-06T20:11:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2017-03-15T12:17:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428347416910/AndreaLudwig-pc-BoHuang.jpg.jpg
+primary_image_credit: Bo Huang
+publishDate: "2015-04-06T20:11:00+01:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/edmonton-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/tapestry-opera.md
+- scene/companies/talisker-players.md
+slug: andrea-ludwig
+title: Andrea Ludwig
+website: http://andrealudwig.ca/
+---
 Born and raised in Regina, Saskatchewan, Juno-nominated mezzo soprano Andrea Ludwig is an artist of tremendous depth, musicality and scope. Her charm, warmth and easy sense of humour are perfect for the stage and her vibrant musicality makes her a favourite to all her audiences. Her versatility and ability to interpret many styles are impeccable.
 
 Hailed by Halifax Chronicle Herald critic Stephen Pedersen as having “tones of silver and gold,” Andrea has appeared with the Canadian Opera Company in numerous roles including Nireno in Handel’s *Julius Ceasar*, the Second Niece in Britten’s *Peter Grimes*, Flora in *The Turn of the Screw*, Moira in Paul Ruder’s *The Handmaid’s Tale*, and Liesgen in Bach’s *Coffee Cantata*.

@@ -1,27 +1,25 @@
-+++
-date = "2017-07-10T10:02:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-07-10T10:05:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546743648/media/2019/01/VincentRanallo.jpg"
-primary_image_credit = "Caroline Laberge"
-publishDate = "2017-07-10T10:02:00-04:00"
-slug = "vincent-ranallo"
-title = "Vincent Ranallo"
-website = "https://vincentranallo.wordpress.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/vincentranallo/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/vincent_ranallo"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/vincentranallo"
-
-+++
+---
+date: "2017-07-10T10:02:00-04:00"
+discipline: Baritone
+lastmod: "2017-07-10T10:05:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546743648/media/2019/01/VincentRanallo.jpg
+primary_image_credit: Caroline Laberge
+publishDate: "2017-07-10T10:02:00-04:00"
+slug: vincent-ranallo
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/vincentranallo/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/vincent_ranallo
+- _template: people_single
+  platform: Soundcloud
+  template: social-media
+  url: https://soundcloud.com/vincentranallo
+title: Vincent Ranallo
+website: https://vincentranallo.wordpress.com/
+---
 Baritone Vincent Ranallo leads a career oriented mainly toward concert and creation. Known for the beauty and expressiveness of his voice and the contagious conviction of his interpretations, he performs with a growing number of ensembles and at festivals and venues such as Ear Heart Music and Roulette (New York), Athelas New Music Festival (Copenhagen ), New Music Concerts (Toronto), GroundSwell (Winnipeg), NeWorks (Calgary), Ottawa Chamberfest, New Music Creators (Ottawa), the Orford Arts Centre, Aventa (Victoria BC), the McGill chamber Orchestra , I Musici, the Orchestre Métropolitain, l’Ensemble contemporaine de Montréal (ECM+), Les Enfants terribles, the SMCQ, KORÈ, Chants libres, Nouvel ensemble Moderne (NEM), Bradyworks, Codes d’accès, Métropolis bleu, MusiMars, Montreal Baroque, Aradia Ensemble (Toronto) Quatuor Bozzini, Paramirabo.
 
 His artistic approach is enriched by the influences of theatre and dance, starting with his classical dance training with Les Grands Ballets Canadiens and numerous collaborations with choreographers such as Marie-Josée Chartier and Estelle Clareton. He was invited to create a work written for him by Gabriel Charpentier in the Montreal Baroque in June 2004 festival and in the North American premiere of Don Quichotte chez la duchesse de Joseph Bodin de Boismortier, he embodied Sancho Panza with Nouvele Sinfonie under the baton of Hervé Niquet. This production has also been awarded an OPUS price from the Conseil québécois de la Musique.

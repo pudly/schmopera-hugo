@@ -1,26 +1,26 @@
-+++
-date = "2015-10-26T17:40:00-04:00"
-lastmod = "2015-10-26T17:41:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445895709136/OGRLogo.jpg.jpg"
-publishDate = "2015-10-26T17:41:00-04:00"
-related_people = ["scene/people/elizabeth-caballero.md"]
-slug = "opera-grand-rapids"
-title = "Opera Grand Rapids"
-type_of_company = "Opera Company"
-website = "http://www.operagr.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Opera.Grand.Rapids"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/operagr"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/OperaGR/videos"
-+++
+---
+date: "2015-10-26T17:40:00-04:00"
+lastmod: "2015-10-26T17:41:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445895709136/OGRLogo.jpg.jpg
+publishDate: "2015-10-26T17:41:00-04:00"
+related_people:
+- scene/people/elizabeth-caballero.md
+slug: opera-grand-rapids
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Opera.Grand.Rapids
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/operagr
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/OperaGR/videos
+title: Opera Grand Rapids
+type_of_company: Opera Company
+website: http://www.operagr.org/
+---
 
 Opera Grand Rapids began in 1967 as the dream of a handful of opera-loving Grand Rapidians. Today, we are the longest-running professional opera company in Michigan. Located in the heart of West Michigan, Opera Grand Rapids’ productions are produced and presented locally. For its productions, Opera Grand Rapids engages some of the world’s most talented artists, stage directors, conductors, choreographers, set designers, costume designers, and others, in addition to the regional Grand Rapids Symphony Orchestra, and Opera Grand Rapids Chorus and Children’s Chorus.
 

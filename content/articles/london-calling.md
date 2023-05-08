@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-02-28T18:28:00+00:00"
-lastmod = "2016-02-29T09:19:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456737297691/2016-02-29---London.jpg.jpg"
-publishDate = "2016-02-29T09:15:00+00:00"
-related_articles = ["articles/in-review-strauss-brahms-at-the-barbican.md","articles/canadians-abroad-the-quarterly-report.md"]
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/mahogany-opera-group.md"]
-related_people = ["scene/people/renee-fleming.md"]
-short_description = "Well, readers, after much anticipation and a slight delay, Schmopera has made it to London. It&#039;s an amazing thing to be in a city with not only a myriad of opera companies large and small, but great pickings of arts and cultural centres offering up a buffet of musical options."
-slug = "london-calling"
-title = "London Calling"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-02-28T18:28:00+00:00"
+lastmod: "2016-02-29T09:19:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456737297691/2016-02-29---London.jpg.jpg
+publishDate: "2016-02-29T09:15:00+00:00"
+related_articles:
+- articles/in-review-strauss-brahms-at-the-barbican.md
+- articles/canadians-abroad-the-quarterly-report.md
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/mahogany-opera-group.md
+related_people:
+- scene/people/renee-fleming.md
+short_description: Well, readers, after much anticipation and a slight delay, Schmopera
+  has made it to London. It&#039;s an amazing thing to be in a city with not only
+  a myriad of opera companies large and small, but great pickings of arts and cultural
+  centres offering up a buffet of musical options.
+slug: london-calling
+title: London Calling
+---
 
 Well, readers, after much anticipation and a slight delay, Schmopera has made it to London. It's an amazing thing to be in a city with not only a myriad of opera companies large and small, but great pickings of arts and cultural centres offering up a buffet of musical options.
 

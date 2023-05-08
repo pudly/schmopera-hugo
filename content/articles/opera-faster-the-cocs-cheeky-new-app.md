@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-03-07T16:19:00+00:00"
-lastmod = "2016-03-08T18:42:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457368765001/COC-Totes.jpg.jpg"
-primary_image_credit = "Photo via reddit."
-publishDate = "2016-03-08T18:36:00+00:00"
-related_articles = ["articles/coc1617.md","articles/singers-heres-how-to-use-social-media.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/alexander-neef.md"]
-short_description = "The app is somewhat startlingly named &quot;MyCOC&quot;. Now, if you go to the COC&#039;s website, you&#039;ll see a graphic promoting the app, and it looks slightly less unsettling with the &quot;My&quot; next to their palindromic logo. We at Schmopera are the first to profess our love for Canada&#039;s largest opera company, and the fantastic shows they put up. But this seems like the straw that breaks the camel&#039;s back (or some other body part) when it comes to marketing with a tricky acronym. "
-slug = "opera-faster-the-cocs-cheeky-new-app"
-title = "Opera, faster: the COC&#039;s cheeky new app"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-03-07T16:19:00+00:00"
+lastmod: "2016-03-08T18:42:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457368765001/COC-Totes.jpg.jpg
+primary_image_credit: Photo via reddit.
+publishDate: "2016-03-08T18:36:00+00:00"
+related_articles:
+- articles/coc1617.md
+- articles/singers-heres-how-to-use-social-media.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/alexander-neef.md
+short_description: 'The app is somewhat startlingly named &quot;MyCOC&quot;. Now,
+  if you go to the COC&#039;s website, you&#039;ll see a graphic promoting the app,
+  and it looks slightly less unsettling with the &quot;My&quot; next to their palindromic
+  logo. We at Schmopera are the first to profess our love for Canada&#039;s largest
+  opera company, and the fantastic shows they put up. But this seems like the straw
+  that breaks the camel&#039;s back (or some other body part) when it comes to marketing
+  with a tricky acronym. '
+slug: opera-faster-the-cocs-cheeky-new-app
+title: 'Opera, faster: the COC&#039;s cheeky new app'
+---
 
 In time for its spring season of Bizet's [*Carmen*](http://www.coc.ca/PerformancesAndTickets/1516Season/Carmen.aspx) and Rossini's [*Maometto II*](http://www.coc.ca/PerformancesAndTickets/1516Season/MaomettoII.aspx), the [Canadian Opera Company](/scene/companies/canadian-opera-company/) has launched a new app on the [App Store](https://itunes.apple.com/us/app/canadian-opera-company/id1083737596?mt=8) and [Google Play Store](https://play.google.com/store/apps/details?id=com.instantencore.coc_5117243&hl=en_GB). 
 

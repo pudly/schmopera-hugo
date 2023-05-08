@@ -1,31 +1,29 @@
-+++
-address = ""
-email = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1647014118/media/2022/03/Logo_OperaInReach_bd4nm7.jpg"
-primary_image_credit = ""
-related_people = ["scene/people/daevyd-pepper.md"]
-slug = "opera-inreach"
-title = "Opera InReach"
-type_of_company = "Opera Outreach Collective"
-website = "https://www.operainreach.com/home"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/operainreach/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/operainreach"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/operainreach"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCpUVLxsMST1axFNUsntQoNg"
-
-+++
+---
+address: ""
+email: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1647014118/media/2022/03/Logo_OperaInReach_bd4nm7.jpg
+primary_image_credit: ""
+related_people:
+- scene/people/daevyd-pepper.md
+slug: opera-inreach
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/operainreach/
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/operainreach
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/operainreach
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCpUVLxsMST1axFNUsntQoNg
+title: Opera InReach
+type_of_company: Opera Outreach Collective
+website: https://www.operainreach.com/home
+---
 We are **visionaries**. We are **activists**.
 
 ## We have a **voice**.

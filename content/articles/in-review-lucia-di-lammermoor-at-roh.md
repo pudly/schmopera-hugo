@@ -1,22 +1,50 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-04-08T10:27:00+01:00"
-lastmod = "2017-01-09T10:29:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460109525136/2016-04-08---PR8A1676-DIANA-DAMRAU-AS-LUCIA-ROH-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg.jpg"
-primary_image_credit = "Diana Damrau as Lucia in the ROH's Lucia di Lammermoor. Photo by Stephen Cummiskey."
-publishDate = "2016-04-08T11:24:00+01:00"
-related_articles = ["articles/in-review-tcherniakovs-don-giovanni.md","articles/when-critics-are-jerks.md","articles/once-agan-shushing-meanies.md","articles/in-review-tannhauser-at-roh.md","articles/in-review-norma-at-roh.md","articles/in-review-cosi-fan-tutte-at-roh.md","articles/in-review-les-contes-dhoffmann.md","articles/in-review-il-trovatore-at-roh.md","articles/in-review-der-rosenkavalier-at-roh.md","articles/in-review-la-traviata-at-roh.md","articles/booing-at-the-opera-why.md","articles/in-review-adriana-lecouvreur-at-roh.md","articles/in-review-the-exterminating-angel-at-roh.md","articles/a-lucia-with-agency-and-independence-at-the-royal-opera-house.md","articles/a-luminous-lucia-at-florida-grand-opera.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/diana-damrau.md","scene/people/charles-castronovo.md","scene/people/ludovic-tezier.md"]
-short_description = "There was Lucia, embodying the most horrible, messy, inappropriate and inconvenient lows in a woman&#039;s life. By showing us all these unseen scenes, Mitchell managed to create a real relationship not only between Lucia and Edgardo, but between Lucia and Alisa, sung and acted beautifully by Rachael Lloyd. The gross differences between victory and loss, men&#039;s stories and women&#039;s, were powerful."
-slug = "in-review-lucia-di-lammermoor-at-roh"
-title = "In review: Lucia di Lammermoor at ROH"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-04-08T10:27:00+01:00"
+lastmod: "2017-01-09T10:29:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460109525136/2016-04-08---PR8A1676-DIANA-DAMRAU-AS-LUCIA-ROH-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg.jpg
+primary_image_credit: Diana Damrau as Lucia in the ROH's Lucia di Lammermoor. Photo
+  by Stephen Cummiskey.
+publishDate: "2016-04-08T11:24:00+01:00"
+related_articles:
+- articles/in-review-tcherniakovs-don-giovanni.md
+- articles/when-critics-are-jerks.md
+- articles/once-agan-shushing-meanies.md
+- articles/in-review-tannhauser-at-roh.md
+- articles/in-review-norma-at-roh.md
+- articles/in-review-cosi-fan-tutte-at-roh.md
+- articles/in-review-les-contes-dhoffmann.md
+- articles/in-review-il-trovatore-at-roh.md
+- articles/in-review-der-rosenkavalier-at-roh.md
+- articles/in-review-la-traviata-at-roh.md
+- articles/booing-at-the-opera-why.md
+- articles/in-review-adriana-lecouvreur-at-roh.md
+- articles/in-review-the-exterminating-angel-at-roh.md
+- articles/a-lucia-with-agency-and-independence-at-the-royal-opera-house.md
+- articles/a-luminous-lucia-at-florida-grand-opera.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/diana-damrau.md
+- scene/people/charles-castronovo.md
+- scene/people/ludovic-tezier.md
+short_description: There was Lucia, embodying the most horrible, messy, inappropriate
+  and inconvenient lows in a woman&#039;s life. By showing us all these unseen scenes,
+  Mitchell managed to create a real relationship not only between Lucia and Edgardo,
+  but between Lucia and Alisa, sung and acted beautifully by Rachael Lloyd. The gross
+  differences between victory and loss, men&#039;s stories and women&#039;s, were
+  powerful.
+slug: in-review-lucia-di-lammermoor-at-roh
+title: 'In review: Lucia di Lammermoor at ROH'
+---
 
 The hype surrounding [Katie Mitchell](http://www.roh.org.uk/people/katie-mitchell)'s new production of *Lucia di Lammermoor*, currently on at the [Royal Opera House](/scene/companies/royal-opera-house/), was no empty threat. Much had been made of the warnings sent out to subscribers that this *Lucia* would feature violence and shocking scenes, and [Diana Damrau](/scene/people/diana-damrau/) herself [told *The Guardian*](http://www.theguardian.com/music/2016/mar/20/be-ready-for-blood-diana-damrau) that audiences would feel "shaken" after seeing it. "Shaken" is right, in every positive meaning of that word.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460109680368/2016-04-08---PR8A2773-DIANA-DAMRAU-AS-LUCIA-RACHAEL-LLOYD-AS-ALISA-ROH-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460109680368/2016-04-08---PR8A2773-DIANA-DAMRAU-AS-LUCIA-RACHAEL-LLOYD-AS-ALISA-ROH-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg.jpg)
 <figcaption>Diana Damrau as Lucia, Rachael Lloyd as Alisa, ROH. Photographer: Stephen Cummiskey.</figcaption>
 </figure>
 
@@ -24,7 +52,9 @@ First, the singing. In the title role, Damrau was the most human Lucia we've eve
 
 As her lover Edgardo, [Charles Castronovo](/scene/people/charles-castronovo/) was more perfection. His dark sound holds surprising agility, and he matched Damrau with risky soft singing and specific meaning in his vocal choices. He too was a real man, and the richness in his voice seemed to help Edgardo stand alone among the other supporting tenors. Together, Damrau and Castronovo were strong singing actors, executing what could have been an extremely risky "concept" in this production.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460109816772/2016-04-08-0-PR8A0538-DIANA-DAMRAU-AS-LUCIA-CHARLES-CASTRONOVO-AS-EDGARDO-ROH-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460109816772/2016-04-08-0-PR8A0538-DIANA-DAMRAU-AS-LUCIA-CHARLES-CASTRONOVO-AS-EDGARDO-ROH-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg.jpg)
 <figcaption>Diana Damrau as Lucia, Charles Castronovo as Edgardo, ROH. Photographer: Stephen Cummiskey.</figcaption>
 </figure>
 
@@ -32,7 +62,9 @@ Ludovic Tézier's Enrico was strong and menacing, with a laser-like focus to his
 
 At its most basic, Katie Mitchell's production is feminist. More interestingly, it landed on the successful side of what can be considered a director's superimposition of a new story. We've [discussed in depth](/panel-regietheater/) the fine line between a director who uses an existing opera to [tell a story that isn't there](/concept-production-real-reason/), and one who uncovers something hidden and organic instead. Readers, take note: **spoilers ahead**.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460110040142/2016-04-08---SC1_7536-PRODUCTION-IMAGE-ROH-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460110040142/2016-04-08---SC1_7536-PRODUCTION-IMAGE-ROH-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg.jpg)
 <figcaption>Photographer: Stephen Cummiskey.</figcaption>
 </figure>
 
@@ -40,7 +72,9 @@ Mitchell, along with designer Vicki Mortimer, spent the entire production reveal
 
 The creative team earned a healthy amount of boos from the audience as they took their curtain calls, and it's easy to figure out what angered the crowd so. Lucia's first duet with Edgardo comes with a quickie scene; it could have been gratuitous, but it felt very real. Instantly we understood that this couple had the meet-and-screw routine down pat; they were exchanging practical information while checking off what was understandably a priority on their to-do list. Mitchell made sure the sex scene wasn't fluff, since it began an important arc that became the crux of Lucia's downfall. We later see Lucia hunched over a toilet, vomiting; in an impressively mimed scene, next door to the looming Enrico, Lucia and her maid, Alisa, conclude that she's pregnant. Another chance for fluffy shock value, but Mitchell's arc continued.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460110083730/2016-04-08---PR8A1524-LUDOVIC-TEZIER-AS-ENRICO-ASHTON-DIANA-DAMRAU-AS-LUCIA-ROH-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460110083730/2016-04-08---PR8A1524-LUDOVIC-TEZIER-AS-ENRICO-ASHTON-DIANA-DAMRAU-AS-LUCIA-ROH-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg.jpg)
 <figcaption>Ludovic Tézier as Enrico Ashton, Diana Damrau as Lucia, ROH. Photographer: Stephen Cummiskey.</figcaption>
 </figure>
 
@@ -48,7 +82,9 @@ The split-scene trend also included a look at one of the biggest voids in Donize
 
 There was Lucia, embodying the most horrible, messy, inappropriate and inconvenient lows in a woman's life. By showing us all these unseen scenes, Mitchell managed to create a real relationship not only between Lucia and Edgardo, but between Lucia and Alisa, sung and acted beautifully by Rachael Lloyd. The gross differences between victory and loss, men's stories and women's, were powerful. There was a horrifying contrast in the final scene, with Lucia's running bath infecting the sound of Castronovo's unreal singing of his last aria. This is what it means to have a "feminist take" on an opera, and the combination of opportunity and choice were complete and organic.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460110127101/2016-04-08---PR8A3391-CHARLES-CASTRONOVO-AS-EDGARDO-DIANA-DAMRAU-AS-LUCIA-ROH.-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460110127101/2016-04-08---PR8A3391-CHARLES-CASTRONOVO-AS-EDGARDO-DIANA-DAMRAU-AS-LUCIA-ROH.-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg.jpg)
 <figcaption>Charles Castronovo as Edgardo, Diana Damrau as Lucia, ROH. Photographer: Stephen Cummiskey.</figcaption>
 </figure>
 

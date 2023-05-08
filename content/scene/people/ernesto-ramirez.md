@@ -1,18 +1,22 @@
-+++
-date = "2015-04-07T16:52:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-04-07T16:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428439884204/Edgar.jpg.jpg"
-publishDate = "2015-04-07T16:52:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/pacific-opera-victoria.md","scene/companies/voicebox-opera-in-concert.md"]
-slug = "ernesto-ramirez"
-title = "Ernesto Ramirez"
-website = "http://www.ernestoramirez.ca/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/EERfido"
-+++
+---
+date: "2015-04-07T16:52:00-04:00"
+discipline: Tenor
+lastmod: "2015-04-07T16:52:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428439884204/Edgar.jpg.jpg
+publishDate: "2015-04-07T16:52:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/voicebox-opera-in-concert.md
+slug: ernesto-ramirez
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/EERfido
+title: Ernesto Ramirez
+website: http://www.ernestoramirez.ca/
+---
 
 <p>
 	Mexican tenor Ernesto Ramírez is garnering rave reviews for his distinctive Italianate sound, his youthful exuberance, and for his expressive musicality.

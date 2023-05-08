@@ -1,19 +1,24 @@
-+++
-date = "2015-04-18T18:41:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2015-04-18T18:42:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429396953247/sly1.jpg.jpg"
-primary_image_credit = "Photo by Adam Scotti"
-publishDate = "2015-04-18T18:41:00-04:00"
-related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/opera-mcgill.md"]
-slug = "philippe-sly"
-title = "Philippe Sly"
-website = "http://philippesly.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/philippesly"
-+++
+---
+date: "2015-04-18T18:41:00-04:00"
+discipline: Bass-baritone
+lastmod: "2015-04-18T18:42:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429396953247/sly1.jpg.jpg
+primary_image_credit: Photo by Adam Scotti
+publishDate: "2015-04-18T18:41:00-04:00"
+related_companies:
+- scene/companies/san-francisco-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/opera-mcgill.md
+slug: philippe-sly
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/philippesly
+title: Philippe Sly
+website: http://philippesly.com/
+---
 
 French-Canadian bass-baritone Philippe Sly is already gaining international notoriety for his “beautiful, blooming tone and magnetic stage presence” (*San Francisco Chronicle*). Mr. Sly is the first prize winner of the prestigious 2012 Concours Musical International de Montréal and a grand prize winner of the 2011 Metropolitan Opera National Council Auditions singing the varied repertoire of Mozart, Bach, Handel, Stravinsky and Wagner. Recently, he was awarded Concert of the Year in Romantic, Post-Romantic and Impressionist Music at the 16th annual ceremony of the Prix Opus in Québec.
 

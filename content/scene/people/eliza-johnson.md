@@ -1,23 +1,27 @@
-+++
-date = "2015-05-29T08:57:00-04:00"
-discipline = "Soprano"
-draft = true
-lastmod = "2015-05-29T08:58:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432904272405/eliza_johnnson_1_headshot-crop-u630.jpg.jpg"
-primary_image_credit = "Terry Manzo"
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/highlands-opera-studio.md","scene/companies/university-of-toronto-opera.md"]
-slug = "eliza-johnson"
-title = "Eliza Johnson"
-website = "http://elizajohnson.ca/index.html"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ElizaJohnsonSop"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UC5XUkKZUW1Nb0f9wr6uKEZg?spfreload=10"
-+++
+---
+date: "2015-05-29T08:57:00-04:00"
+discipline: Soprano
+draft: true
+lastmod: "2015-05-29T08:58:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432904272405/eliza_johnnson_1_headshot-crop-u630.jpg.jpg
+primary_image_credit: Terry Manzo
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/highlands-opera-studio.md
+- scene/companies/university-of-toronto-opera.md
+slug: eliza-johnson
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/ElizaJohnsonSop
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UC5XUkKZUW1Nb0f9wr6uKEZg?spfreload=10
+title: Eliza Johnson
+website: http://elizajohnson.ca/index.html
+---
 
 Canadian/American Soprano Eliza Johnson has been praised for her fine acting prowess and even lyric tone.  She was most recently seen as Pamina/Second Lady with the Opera Lyra Ottawa’s Opera Studio production of *The Magic Flute* (11/14) and competed as the only soprano finalist in the 2014 COC Centre Stage Competition.
  

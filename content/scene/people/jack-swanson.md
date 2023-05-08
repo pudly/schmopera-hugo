@@ -1,27 +1,30 @@
-+++
-date = "2018-02-16T21:49:00-05:00"
-discipline = "Tenor"
-lastmod = "2018-02-16T21:49:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518835618935/Jack%20Swanson%20(c)%20Craig%20Vanderschaegen.jpg.jpg"
-primary_image_credit = "Craig Vanderschaegen."
-publishDate = "2018-02-16T21:49:00-05:00"
-related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/glyndebourne.md","scene/companies/the-santa-fe-opera.md","scene/companies/des-moines-metro-opera.md"]
-slug = "jack-swanson"
-title = "Jack Swanson"
-website = "https://www.jackswansontenor.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/tenorvswild/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/tenorvswild/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCIuHLGJqNpXU-D-NYpKC1VA"
-+++
+---
+date: "2018-02-16T21:49:00-05:00"
+discipline: Tenor
+lastmod: "2018-02-16T21:49:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518835618935/Jack%20Swanson%20(c)%20Craig%20Vanderschaegen.jpg.jpg
+primary_image_credit: Craig Vanderschaegen.
+publishDate: "2018-02-16T21:49:00-05:00"
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/des-moines-metro-opera.md
+slug: jack-swanson
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/tenorvswild/
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/tenorvswild/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCIuHLGJqNpXU-D-NYpKC1VA
+title: Jack Swanson
+website: https://www.jackswansontenor.com/
+---
 
 With an affinity for high lyric repertoire and some of opera's most acrobatic arias, young American tenor Jack Swanson is quickly becoming one of the most sought after voices in opera. In Europe, he makes his debut on the Glyndebourne Tour this season as Conte Almaviva (*Il barbiere di Siviglia*) and with Orchestre National de Lyon in a series of concerts celebrating the Leonard Bernstein centenary. 
 

@@ -1,18 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-01-08T10:40:00-05:00"
-lastmod = "2016-01-09T12:09:00-05:00"
-preamble = "Canadian-American baritone Michael Nyby keeps a busy schedule singing on both sides of the border. He's an incredibly versatile artist, who sings everything from Falke (*Die Fledermaus*) to *Carmina Burana* to Count Almaviva (*Le nozze di Figaro*) to the role of William Dale in the world premiere production of *Silent Night* with Minnesota Opera. For Michael, 2016 begins with Schaunard, Escamillo, and the world premiere of *Isis and Osiris*, presented by VOICEBOX: Opera In Concert. \n\nHe found time to chat with us, about why singing is so difficult, and why it's completely worth the work."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452267401528/2016-01-08---Michael-Nyby.jpg.jpg"
-publishDate = "2016-01-09T12:09:00-05:00"
-related_articles = ["articles/spotlight-on-keith-lam.md","articles/spotlight-on-marjorie-maltais.md","articles/talking-with-singers-nicole-cabell.md"]
-related_companies = ["scene/companies/edmonton-opera.md"]
-related_people = ["scene/people/michael-nyby.md"]
-short_description = "&quot;The singer must be a master of their own unique and peculiar instrument, an adept musician with an intricate understanding of rhythm, pitch, function, gesture, etc., functionally proficient in a handful of languages, and a capable dramatic actor. To top it off, the singer must be all of these things at once.&quot;"
-slug = "spotlight-on-michael-nyby"
-title = "Spotlight on: Michael Nyby"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-01-08T10:40:00-05:00"
+lastmod: "2016-01-09T12:09:00-05:00"
+preamble: "Canadian-American baritone Michael Nyby keeps a busy schedule singing on
+  both sides of the border. He's an incredibly versatile artist, who sings everything
+  from Falke (*Die Fledermaus*) to *Carmina Burana* to Count Almaviva (*Le nozze di
+  Figaro*) to the role of William Dale in the world premiere production of *Silent
+  Night* with Minnesota Opera. For Michael, 2016 begins with Schaunard, Escamillo,
+  and the world premiere of *Isis and Osiris*, presented by VOICEBOX: Opera In Concert.
+  \n\nHe found time to chat with us, about why singing is so difficult, and why it's
+  completely worth the work."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452267401528/2016-01-08---Michael-Nyby.jpg.jpg
+publishDate: "2016-01-09T12:09:00-05:00"
+related_articles:
+- articles/spotlight-on-keith-lam.md
+- articles/spotlight-on-marjorie-maltais.md
+- articles/talking-with-singers-nicole-cabell.md
+related_companies:
+- scene/companies/edmonton-opera.md
+related_people:
+- scene/people/michael-nyby.md
+short_description: '&quot;The singer must be a master of their own unique and peculiar
+  instrument, an adept musician with an intricate understanding of rhythm, pitch,
+  function, gesture, etc., functionally proficient in a handful of languages, and
+  a capable dramatic actor. To top it off, the singer must be all of these things
+  at once.&quot;'
+slug: spotlight-on-michael-nyby
+title: 'Spotlight on: Michael Nyby'
+---
 
 ## Why do you sing, and why are you pursuing it professionally?
 
@@ -24,7 +41,9 @@ Now let’s play it on a piano. *doot-DOOT-doot-doot-doot-DOOT-doot* Sorry piani
 
 As for why I sing professionally, well, that’s a tough one. I’m sure I’ve asked myself that question many times and never came up with a suitable answer. After all, it is a rather silly thing to do as a career. Ultimately it comes down to two things: 1) I’m relatively good at it, and 2) it exists as a somewhat viable career option. Remember how good it felt belting out Beethoven in the last paragraph? If you had the opportunity to earn your keep doing that for the rest of your life, why wouldn’t you do it? 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452267483579/2016-01-08---NybyCarmina.jpg.jpg)<figcaption>Baritone Michael Nyby singing Orff's *Carmina Burana* with the Thunder Bay Symphony Orchestra.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452267483579/2016-01-08---NybyCarmina.jpg.jpg)<figcaption>Baritone Michael Nyby singing Orff's *Carmina Burana* with the Thunder Bay Symphony Orchestra.</figcaption>
 </figure>
 
 ## What does "good singing" mean to you? What does it feel like when you achieve it?
@@ -45,7 +64,9 @@ As for the second part of the question, singers need to stop making excuses. “
 
 Too many young singers blame failure and rejection on external sources. I know I’ve made these excuses in the past, but eventually one must realize that failure and rejection are just part of the business. If you’re good enough, eventually you’ll work. If you’re not getting any jobs, work harder to become a better singer. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452267533858/2016-01-08---NybyMerryWidow.jpg.jpg)<figcaption>Nyby as Danilo in Edmonton Opera's *The Merry Widow*.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452267533858/2016-01-08---NybyMerryWidow.jpg.jpg)<figcaption>Nyby as Danilo in Edmonton Opera's *The Merry Widow*.</figcaption>
 </figure>
 
 ## Do you have any “bucket list” roles you’d like to sing (realistically or otherwise)?

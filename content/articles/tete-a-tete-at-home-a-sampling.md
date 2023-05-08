@@ -1,29 +1,45 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = 2020-09-25T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Items on the Tête à Tête Opera Festival line-up are still [available for online viewing](https://www.tete-a-tete.org.uk/festival/2020-festival-whats-on/). Yay!"
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1601057690/media/2020/09/sqTAT_yovlfo.jpg"
-primary_image_credit = "Lars Fisher as Mr. Williams in The Trilobite, Or The Fall of Mr Williams, Tête à Tête Opera Festival, 2020. Photo: Claire Shovelton."
-related_articles = ["articles/angel-s-bone.md"]
-related_companies = ["scene/companies/tete-a-tete.md"]
-related_people = ["scene/people/cn-lester.md", "scene/people/peter-edge.md", "scene/people/anna-prowse.md", "scene/people/lars-fischer.md", "scene/people/lore-lixenberg.md", "scene/people/anna-braithwaite.md"]
-short_description = "These are strange times, and I am still not convinced that going virtual is the way. Has it afforded us some opportunities we would not have had otherwise? Sure. Has it required us to get creative in ways we could not have imagined? Certainly."
-slug = "tete-a-tete-at-home-a-sampling"
-title = "Tête à Tête at home: a sampling"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2020-09-25T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Items on the Tête à Tête Opera Festival line-up are still [available for
+  online viewing](https://www.tete-a-tete.org.uk/festival/2020-festival-whats-on/).
+  Yay!
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1601057690/media/2020/09/sqTAT_yovlfo.jpg
+primary_image_credit: 'Lars Fisher as Mr. Williams in The Trilobite, Or The Fall of
+  Mr Williams, Tête à Tête Opera Festival, 2020. Photo: Claire Shovelton.'
+related_articles:
+- articles/angel-s-bone.md
+related_companies:
+- scene/companies/tete-a-tete.md
+related_people:
+- scene/people/cn-lester.md
+- scene/people/peter-edge.md
+- scene/people/anna-prowse.md
+- scene/people/lars-fischer.md
+- scene/people/lore-lixenberg.md
+- scene/people/anna-braithwaite.md
+short_description: These are strange times, and I am still not convinced that going
+  virtual is the way. Has it afforded us some opportunities we would not have had
+  otherwise? Sure. Has it required us to get creative in ways we could not have imagined?
+  Certainly.
+slug: tete-a-tete-at-home-a-sampling
+title: 'Tête à Tête at home: a sampling'
+youtube_url: ""
+---
 I was able to catch a few live broadcasts from the [Tête à Tête festival](https://www.tete-a-tete.org.uk/festival/2020-festival-whats-on/) this season from the comfort of my own home over past week. While I feel that there can no replacement for live theatre, it was a real treat to skip the commute and the crowds. Tête à Tête deserve commendation for their dedication to putting the festival on this year, continuing to bring new theatre works to their audience as they do every summer.
 
 Of course, the programme had to be somewhat adapted to make allowances for COVID-19 restrictions and proper social distancing measures. This required some inventive re-working of pieces, reducing the number of live performers (and audience members) in the theatre, and making use of Zoom with all of its versatility. Most crucially, it included live broadcasts of all of the pieces on the festival bill, making the programme accessible to all.
 
 The programme of over 50 events taking place over a span of two weeks felt thematically harmonious as we all begin to reflect on the utter weirdness the pandemic has landed us in through the making, watching, and performing of art.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601057803/media/2020/09/TAT-Persephone-Shovelton_bhr8i5.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1601057803/media/2020/09/TAT-Persephone-Shovelton_bhr8i5.jpg)
 
 <figcaption>Anna Braithwaite (Persephone/Singer) and Clare O’Connell (Chimera/Cellist) in Persephone's Dream, Tête à Tête Opera Festival, 2020. Photo: Claire Shovelton.</figcaption>
 
@@ -35,7 +51,9 @@ Now, more than six months into COVID and this altered way of life, we are beginn
 
 This project was a truly collaborative effort. Holland Williams wrote the libretto and then enlisted the talents of Gavin Alexander, Kevin Grist, and [Anna Braithwaite](/scene/people/anna-braithwaite/) for the music. Braithwaite performs the role of Persephone on stage and is joined by cellist Clare O’Connell who in addition to her beautiful playing, voices the character of Chimera. They are accompanied by a "Chorus of Curious Eyes" projected on screen, streamed live over Zoom.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601057890/media/2020/09/TAT-BIRD-1-Shovelton_gdblbs.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1601057890/media/2020/09/TAT-BIRD-1-Shovelton_gdblbs.jpg)
 
 <figcaption>Lore Lixberg in BIRD, Tête à Tête Opera Festival, 2020. Photo: Claire Shovelton.</figcaption>
 
@@ -45,7 +63,9 @@ In a time when connecting with other humans creatively has become a technical ch
 
 Two of the other pieces I saw were similar in that they had to be adapted for a socially distanced and virtual-friendly performance setting but also shared a common musical language that was based heavily on electronics and field recording samples. They are Lore Lixenberg’s [_BIRD_](https://www.tete-a-tete.org.uk/event/bird/) and Elfyn Jones’ [_Trilobite, Or the Fall Of Mr. Williams_](https://www.tete-a-tete.org.uk/event/the-trilobite-or-the-fall-of-mr-williams-interactive-broadcast/). _BIRD_ is a 30-minute piece with concept, composition, and performance by mezzo-soprano [Lore Lixenberg](/lore-lixenberg-is-the-mother/). The core of this piece is a film made up of both found and recorded images and clips featuring birds. It is sometimes utterly bizarre and sometimes soothingly Attenborough-esque.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601057920/media/2020/09/TAT-Trilobite-Shovelton_nf0tnk.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1601057920/media/2020/09/TAT-Trilobite-Shovelton_nf0tnk.jpg)
 
 <figcaption>Lars Fischer in The Trilobite, Or The Fall of Mr Williams, Tête à Tête Opera Festival, 2020. Photo: Claire Shovelton.</figcaption>
 
@@ -59,7 +79,9 @@ Elfyn Jones’ _Trilobite, Or the Fall Of Mr. Williams_ is the third and final p
 
 Of all the pieces I heard over the course of the festival, this one is the most traditional in sound and structure. Fischer is the only performer on stage but gives a dramatic and thoroughly convincing performance all on his own. The visuals on screen depicted through various Zoom backgrounds, and outdoor locations along with the electronic soundscape assist in setting a scene very effectively. This is a piece that takes advantage of technology in place of a set and costuming and does so very capably.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601057945/media/2020/09/TAT-WSIS-Shovelton_n84lzz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1601057945/media/2020/09/TAT-WSIS-Shovelton_n84lzz.jpg)
 
 <figcaption>CN Lester in We Sing/I Sang, Tête à Tête Opera Festival, 2020. Photo: Claire Shovelton.</figcaption>
 

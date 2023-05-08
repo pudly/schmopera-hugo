@@ -1,13 +1,22 @@
-+++
-date = "2017-10-15T20:45:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-10-15T20:45:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508114631425/161%20colour%20hi-res%20-%20LM%2022Sep2016.jpg.jpg"
-publishDate = "2017-10-15T20:45:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/los-angeles-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/houston-grand-opera.md","scene/companies/gran-teatre-del-liceu.md"]
-slug = "liudmyla-monastyrska"
-title = "Liudmyla Monastyrska"
-+++
+---
+_template: people_single
+date: "2017-10-15T20:45:00-04:00"
+discipline: Soprano
+lastmod: "2017-10-15T20:45:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508114631425/161%20colour%20hi-res%20-%20LM%2022Sep2016.jpg.jpg
+publishDate: "2017-10-15T20:45:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/gran-teatre-del-liceu.md
+slug: liudmyla-monastyrska
+title: Liudmyla Monastyrska
+---
 
 Ukrainian Liudmyla Monastyrska’s rich, dramatic soprano has caught the attention of press andaudiences alike since 1996, when she made her stage debutas Tatiana in Tchaikovsky’s *Eugene Onegin* in Kiev. A modern artist with a classic sensibility regarding the art of singing, Ms. Monastyrska is acclaimed for her lush, powerful, compelling performances and superb technical command. Her relationships with European, American and Asian opera houses have continued toexpand following her highly acclaimed European 2010 debut with Deutsche Oper Berlin in the title role of Puccini’s *Tosca*. 
 

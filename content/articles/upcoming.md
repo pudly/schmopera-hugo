@@ -1,22 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2019-05-21T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Are you excited about an upcoming event, and think we should know about it? Let us know at [hello@schmopera.com](mailto:hello@schmopera.com)!"
-preamble = "Readers, a few items of note in the coming weeks:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558488034/media/2019/05/sqUpcomingJune2019.jpg"
-primary_image_credit = "Clockwise from top: Chunky in Heat artwork courtesy of Experiments in Opera; composer Laura Kaminsky (photo: Rebecca Allan); Cantata Profana (photo: Rune Øster Mortensen)."
-related_articles = []
-related_companies = ["scene/companies/new-york-festival-of-song.md", "scene/companies/experiments-in-opera.md", "scene/companies/fawn-chamber-creative.md"]
-related_people = []
-short_description = "“Although this piece isn't directly about the myth,\" says stage director Amanda Smith, \"I imagine that in Pandora we see what happens when the jar, or box, is opened a second time.\""
-slug = "pandora-lucretia-chunky-upcoming-must-sees"
-title = "Pandora, Lucretia & Chunky: upcoming must-sees"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-05-21T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Are you excited about an upcoming event, and think we should know about
+  it? Let us know at [hello@schmopera.com](mailto:hello@schmopera.com)!
+preamble: 'Readers, a few items of note in the coming weeks:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1558488034/media/2019/05/sqUpcomingJune2019.jpg
+primary_image_credit: 'Clockwise from top: Chunky in Heat artwork courtesy of Experiments
+  in Opera; composer Laura Kaminsky (photo: Rebecca Allan); Cantata Profana (photo:
+  Rune Øster Mortensen).'
+related_articles: []
+related_companies:
+- scene/companies/new-york-festival-of-song.md
+- scene/companies/experiments-in-opera.md
+- scene/companies/fawn-chamber-creative.md
+related_people: []
+short_description: “Although this piece isn't directly about the myth," says stage
+  director Amanda Smith, "I imagine that in Pandora we see what happens when the jar,
+  or box, is opened a second time."
+slug: pandora-lucretia-chunky-upcoming-must-sees
+title: 'Pandora, Lucretia & Chunky: upcoming must-sees'
+youtube_url: ""
+---
 ## _Pandora_
 
 The latest from Toronto-based **FAWN Chamber Creative**, the new opera-ballet sees its [world premiere run](https://fawnchambercreative.ticketleap.com/pandora/) from May 23-25 at Geary Lane (260 Geary Ave.). _Pandora_ is the product of librettist David James Brock, and composers Joseph Glaser, Kit Soden, and David Storen.

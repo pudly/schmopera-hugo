@@ -1,20 +1,21 @@
-+++
-email = "mlesliewilkinson@gmail.com."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1601844774/media/2020/10/FBB7369C-B960-4974-9C32-5697158C26C7-removebg_mkaftv.jpg"
-short_bio = "Dr. Mark is an Ottawa-based contributor who writes about the science of the voice: how it works, how to use it, how to fix it, and how to be a human being along the way. His musings as a successful baritone, photographer, writer, and yoga teacher can be found on both Instagram and Twitter at @marklwilkinson."
-slug = "mark-wilkinson"
-title = "Mark Wilkinson"
-website = ""
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/marklwilkinson/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/marklwilkinson"
-
-+++
+---
+email: mlesliewilkinson@gmail.com.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1601844774/media/2020/10/FBB7369C-B960-4974-9C32-5697158C26C7-removebg_mkaftv.jpg
+short_bio: 'Dr. Mark is an Ottawa-based contributor who writes about the science of
+  the voice: how it works, how to use it, how to fix it, and how to be a human being
+  along the way. His musings as a successful baritone, photographer, writer, and yoga
+  teacher can be found on both Instagram and Twitter at @marklwilkinson.'
+slug: mark-wilkinson
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/marklwilkinson/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/marklwilkinson
+title: Mark Wilkinson
+website: ""
+---
 Dr. Mark Wilkinson has led a joyful professional life unhindered by boundaries, combining the best of the arts, movement, science, and leadership into a career as an actor/opera singer, photographer, yoga teacher, writer, public servant, English-French translator, fervent volunteer, and voice care specialist.
 
 He has been seen and heard on stages, screens, and soundwaves throughout Canada as a baritone soloist, recitalist, chamber musician, voice-over artist, and national anthem singer. He owes a debt of gratitude to all of his colleagues, whose generosity in sharing the stage has taught him so much.

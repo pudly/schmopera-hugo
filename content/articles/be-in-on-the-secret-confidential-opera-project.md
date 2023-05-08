@@ -1,17 +1,31 @@
-+++
-author = ["authors/greg.md"]
-categories = "News"
-date = "2016-04-09T11:45:00+01:00"
-lastmod = "2016-04-09T11:59:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460199122598/2016-04-09---COP.jpg.jpg"
-publishDate = "2016-04-09T11:59:00+01:00"
-related_articles = ["articles/elitism-irony-and-the-phantom-of-the-opera.md","articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md","articles/opera-haters-they-exist-thats-alright.md","articles/shh-confidential-opera-project-is-back.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md","scene/companies/confidential-opera-project.md"]
-related_people = ["scene/people/gregory-finney.md"]
-short_description = "My goal with applying it to opera is to help de-mystify the whole thing. I want the audience to experience the magic that you&#039;re only privy to on the first sing-through of a score - I know my fellow singers will agree that the first sing-through is probably one of the most fun rehearsals for a show. There will be mis-steps, but there are also moments of supreme beauty and magic that come from the adrenaline that pumps through these talented artists&#039; veins."
-slug = "be-in-on-the-secret-confidential-opera-project"
-title = "Be in on the secret: Confidential Opera Project"
-+++
+---
+author:
+- authors/greg.md
+categories: News
+date: "2016-04-09T11:45:00+01:00"
+lastmod: "2016-04-09T11:59:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460199122598/2016-04-09---COP.jpg.jpg
+publishDate: "2016-04-09T11:59:00+01:00"
+related_articles:
+- articles/elitism-irony-and-the-phantom-of-the-opera.md
+- articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md
+- articles/opera-haters-they-exist-thats-alright.md
+- articles/shh-confidential-opera-project-is-back.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+- scene/companies/confidential-opera-project.md
+related_people:
+- scene/people/gregory-finney.md
+short_description: My goal with applying it to opera is to help de-mystify the whole
+  thing. I want the audience to experience the magic that you&#039;re only privy to
+  on the first sing-through of a score - I know my fellow singers will agree that
+  the first sing-through is probably one of the most fun rehearsals for a show. There
+  will be mis-steps, but there are also moments of supreme beauty and magic that come
+  from the adrenaline that pumps through these talented artists&#039; veins.
+slug: be-in-on-the-secret-confidential-opera-project
+title: 'Be in on the secret: Confidential Opera Project'
+---
 
 Guys, I'm having a baby. 
 
@@ -29,7 +43,7 @@ There's no need for opera glasses, gowns or tuxes. Just come and be comfortable 
 
 We were very fortunate to find a wonderful partner in [Tapestry Opera](/scene/comapnies/tapestry-opera/). They'll be hosting us in their divine Ernest Balmer Studio (9 Trinity Street, Studio #316) in the historical Distillery District here in Toronto. Our debut is **Sunday, June 26th at 2PM**. Tickets are $25 and can be [purchased right here](http://www.confidentialopera.com/#!submit/chul). 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460199181092/2016-04-09---COP-poster.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460199181092/2016-04-09---COP-poster.jpg.jpg)
 </figure>
 
 Over at [Confidential Opera Project](https://twitter.com/ConOperaProject) we believe that opera can be fun and spontaneous, and still beautiful - and we're ready to prove it! I promise you our first show IS one of your favourites, and we have some superb talent lined up to transport you away. 

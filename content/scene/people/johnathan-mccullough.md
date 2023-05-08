@@ -1,18 +1,25 @@
-+++
-date = "2017-09-15T14:15:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-09-15T14:15:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505499130118/johnathan%2520mccullough%2520head%2520shot%25202017.jpg.jpg"
-publishDate = "2017-09-15T14:15:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/glimmerglass-festival.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/los-angeles-opera.md","scene/companies/houston-grand-opera.md"]
-slug = "johnathan-mccullough"
-title = "Johnathan McCullough"
-website = "https://mcculloughbaritone.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/johnmcbaritone"
-+++
+---
+date: "2017-09-15T14:15:00-04:00"
+discipline: Baritone
+lastmod: "2017-09-15T14:15:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505499130118/johnathan%2520mccullough%2520head%2520shot%25202017.jpg.jpg
+publishDate: "2017-09-15T14:15:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/houston-grand-opera.md
+slug: johnathan-mccullough
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/johnmcbaritone
+title: Johnathan McCullough
+website: https://mcculloughbaritone.com/
+---
 
 Baritone Johnathan McCullough spends the 2017/18 season as an Emerging Artist at Opera Philadelphia where he will sing Mr. Greatorex in the world premiere of Elizabeth Cree by Kevin Puts and Mark Campbell, as well as Moralès in a new production of Carmen. At the Komische Oper Berlin, he will return for a new Calixto Bieto production of Schreker's Die Gezeichneten after his recent successful debut as Oromasès in a new production of Rameau's Zoroastre conducted by Christian Curnyn. He will cover the role of Hawkins Fuller in Fellow Travelers at the Lyric Opera of Chicago. In concert, he will sing *Carmina burana* with the Boise Philharmonic.
 

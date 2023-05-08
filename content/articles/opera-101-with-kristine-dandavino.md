@@ -1,18 +1,35 @@
-+++
-author = ["authors/greg.md"]
-categories = "Interview"
-date = "2016-04-01T17:10:00+01:00"
-lastmod = "2016-04-02T11:57:00+01:00"
-preamble = "\"*Fach*: a German word that classifies singers by vocal type, is very important in opera. The Fach sytem was created in Germany to help opera houses hire singers based on the weight, size and colour of their voices.\" - Kristine Dandavino\n\nOn **Sunday, April 10**, [Oshawa Opera](/scene/companies/oshawa-opera/) will be taking us back to school with their upcoming [*Opera 101: What the Fach?*](http://www.theoshawaopera.com/#!opera-101/lsi5s) Sixteen local singers and emcee Alexis Ward will take the stage, with Artistic Director [Kristine Dandavino](/scene/people/kristine-dandavino/) at the piano to bring us the highlights of the \"standard canon\". We had a quick Q&A with Kristine to find out more about this show. "
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459591365869/2016-04-02---Kristine-Dandavino.jpg.jpg"
-publishDate = "2016-04-02T11:43:00+01:00"
-related_articles = ["articles/kristine-dandavino-on-oshawa-opera.md","articles/suor-angelica-at-oshawa-opera.md"]
-related_companies = ["scene/companies/oshawa-opera.md"]
-related_people = ["scene/people/kristine-dandavino.md"]
-short_description = "On Sunday, April 10, Oshawa Opera will be taking us back to school with their upcoming Opera 101: What the Fach? Sixteen local singers and emcee Alexis Ward will take the stage, with Artistic Director Kristine Dandavino at the piano to bring us the highlights of the &quot;standard canon&quot;. We had a quick Q&amp;A with Kristine to find out more about this show."
-slug = "opera-101-with-kristine-dandavino"
-title = "Opera 101 with Kristine Dandavino"
-+++
+---
+author:
+- authors/greg.md
+categories: Interview
+date: "2016-04-01T17:10:00+01:00"
+lastmod: "2016-04-02T11:57:00+01:00"
+preamble: "\"*Fach*: a German word that classifies singers by vocal type, is very
+  important in opera. The Fach sytem was created in Germany to help opera houses hire
+  singers based on the weight, size and colour of their voices.\" - Kristine Dandavino\n\nOn
+  **Sunday, April 10**, [Oshawa Opera](/scene/companies/oshawa-opera/) will be taking
+  us back to school with their upcoming [*Opera 101: What the Fach?*](http://www.theoshawaopera.com/#!opera-101/lsi5s)
+  Sixteen local singers and emcee Alexis Ward will take the stage, with Artistic Director
+  [Kristine Dandavino](/scene/people/kristine-dandavino/) at the piano to bring us
+  the highlights of the \"standard canon\". We had a quick Q&A with Kristine to find
+  out more about this show. "
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459591365869/2016-04-02---Kristine-Dandavino.jpg.jpg
+publishDate: "2016-04-02T11:43:00+01:00"
+related_articles:
+- articles/kristine-dandavino-on-oshawa-opera.md
+- articles/suor-angelica-at-oshawa-opera.md
+related_companies:
+- scene/companies/oshawa-opera.md
+related_people:
+- scene/people/kristine-dandavino.md
+short_description: 'On Sunday, April 10, Oshawa Opera will be taking us back to school
+  with their upcoming Opera 101: What the Fach? Sixteen local singers and emcee Alexis
+  Ward will take the stage, with Artistic Director Kristine Dandavino at the piano
+  to bring us the highlights of the &quot;standard canon&quot;. We had a quick Q&amp;A
+  with Kristine to find out more about this show.'
+slug: opera-101-with-kristine-dandavino
+title: Opera 101 with Kristine Dandavino
+---
 
 ### Can you give us the "Cole's Notes" version of the history of Oshawa Opera?
 

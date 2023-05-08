@@ -1,21 +1,22 @@
-+++
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556846330/media/2019/05/Dominick-Corbacio.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/florida-grand-opera.md", "scene/companies/opera-saratoga.md"]
-slug = "dominick-corbacio"
-title = "Dominick Corbacio"
-website = ""
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/dommc33"
-[[social_media]]
-platform = "Linkedin"
-template = "social-media"
-url = "https://www.linkedin.com/in/dominick-corbacio-a7468a100/"
-
-+++
+---
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1556846330/media/2019/05/Dominick-Corbacio.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/florida-grand-opera.md
+- scene/companies/opera-saratoga.md
+slug: dominick-corbacio
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/dommc33
+- _template: people_single
+  platform: Linkedin
+  template: social-media
+  url: https://www.linkedin.com/in/dominick-corbacio-a7468a100/
+title: Dominick Corbacio
+website: ""
+---
 Hailed as "Heartbreakingly intense", tenor Dominick Corbacio is a quickly emerging young artist with a rapidly growing repertoire spanning opera, oratorio, and art song.
 
 A native of Syracuse, NY, he recently performed as the tenor soloist in Handel's _Messiah_ with the Hamilton Masterworks Chorale and Symphoria in Upstate New York. In October 2015 he was featured as a guest artist at the Metropolitan Museum of Art in Mingwei’s performance art piece Sonic Blossom. He was subsequently praised by The New York Times for having given “one excellent performance after another…”. 

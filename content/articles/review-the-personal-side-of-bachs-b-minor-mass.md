@@ -1,15 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-03-28T17:43:00+01:00"
-lastmod = "2017-03-29T14:48:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490784548200/2017-03-29---Southbank.jpg.jpg"
-publishDate = "2017-03-29T14:40:00+01:00"
-related_articles = ["articles/he-saidshe-said-mozarts-requiem-at-tso.md","articles/paris-reflected-at-southwark-cathedral.md","articles/in-review-strauss-brahms-at-the-barbican.md"]
-short_description = "The mass text exists well outside of the personal experiences of any composer who sets it; yet in the case of Bach, and the amount of sadness that followed him throughout his life, it&#039;s not difficult to imagine him speaking these desperate words in his own voice. Bach would consider that a great blasphemy, no doubt. A man almost as famous for his piety as for his music, it&#039;s no wonder he devoted himself and his extraordinary work to God."
-slug = "review-the-personal-side-of-bachs-b-minor-mass"
-title = "Review: the personal side of Bach&#039;s B minor Mass"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-03-28T17:43:00+01:00"
+lastmod: "2017-03-29T14:48:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490784548200/2017-03-29---Southbank.jpg.jpg
+publishDate: "2017-03-29T14:40:00+01:00"
+related_articles:
+- articles/he-saidshe-said-mozarts-requiem-at-tso.md
+- articles/paris-reflected-at-southwark-cathedral.md
+- articles/in-review-strauss-brahms-at-the-barbican.md
+short_description: The mass text exists well outside of the personal experiences of
+  any composer who sets it; yet in the case of Bach, and the amount of sadness that
+  followed him throughout his life, it&#039;s not difficult to imagine him speaking
+  these desperate words in his own voice. Bach would consider that a great blasphemy,
+  no doubt. A man almost as famous for his piety as for his music, it&#039;s no wonder
+  he devoted himself and his extraordinary work to God.
+slug: review-the-personal-side-of-bachs-b-minor-mass
+title: 'Review: the personal side of Bach&#039;s B minor Mass'
+---
 
 It's a similar sentiment when we listen to Mozart's *Requiem*: J.S. Bach's B minor Mass is a work that feels inexplicably autobiographical. The mass text exists well outside of the personal experiences of any composer who sets it; yet in the case of Bach, and the amount of sadness that followed him throughout his life, it's not difficult to imagine him speaking these desperate words in his own voice. Bach would consider that a great blasphemy, no doubt. A man almost as famous for his piety as for his music, it's no wonder he devoted himself and his extraordinary work to God; even if he had lived in a time and place where religiosity had been less prevalent, the untimely deaths of both of his parents, one of his wives, and ten of his children wouold amount to reason enough to seek meaning in the church.
 

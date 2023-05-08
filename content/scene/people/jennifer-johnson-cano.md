@@ -1,17 +1,22 @@
-+++
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557423455/media/2019/05/JenniferJohnsonCano.jpg"
-primary_image_credit = "Lisa Mazzucco."
-related_companies = ["scene/companies/des-moines-metro-opera.md", "scene/companies/arizona-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/boston-lyric-opera.md"]
-slug = "jennifer-johnson-cano"
-title = "Jennifer Johnson Cano"
-website = "http://www.jenniferjohnsoncano.net/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/JennJohnsonCanoMezzo/"
-
-+++
+---
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1557423455/media/2019/05/JenniferJohnsonCano.jpg
+primary_image_credit: Lisa Mazzucco.
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/boston-lyric-opera.md
+slug: jennifer-johnson-cano
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/JennJohnsonCanoMezzo/
+title: Jennifer Johnson Cano
+website: http://www.jenniferjohnsoncano.net/
+---
 A naturally gifted singer noted for her commanding stage presence and profound artistry, Jennifer Johnson Cano has garnered critical acclaim.  During the 2018-2019 season, she returns to The Metropolitan Opera as Emilia in _Otello_ and Meg Page in _Falstaff_ and makes her role debut as Offred in Poul Ruders’s _The Handmaid’s Tale_ with Boston Lyric Opera. 
 
 Ms. Cano’s orchestral engagements include Bernstein’s _Jeremiah_ Symphony with the Pittsburgh Symphony Orchestra, Mahler’s _Das Lied von der Erde_ with the Colorado Springs Philharmonic, and Beethoven’s Ninth Symphony with the Pittsburgh and Cincinnati Symphonies.  A dedicated recitalist and chamber musician, she joins tenor Matthew Polenzani and pianist Julius Drake at Carnegie Hall for an evening of Schubert, Beethoven, Brahms and Janáček’s _The Diary of One Who Disappeared_.  She will return to Chamber Music of Lincoln Center’s Alice Tully Hall for a performance of Ravel's _Sheherazade_ and Falla's _Psyche_.  Ms. Cano will also be part of two world premiere performances this season; Paul Moravec’s _A New Country_ and  Gregg Kallor’s _Sketches from Frankenstein Suite_.

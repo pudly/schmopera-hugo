@@ -1,28 +1,36 @@
-+++
-date = "2015-04-13T17:51:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-13T17:51:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1644284239/media/2022/02/Miriam_Khalil-shayne-gray-print-5696_PREFERRED_gakpgs.jpg"
-primary_image_credit = "Shayne Gray Photography."
-publishDate = "2015-04-13T17:51:00-04:00"
-related_companies = ["scene/companies/the-banff-centre.md", "scene/companies/calgary-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/minnesota-opera.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/canadian-opera-company.md", "scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/opera-lyra-ottawa.md", "scene/companies/glyndebourne.md", "scene/companies/edmonton-opera.md"]
-slug = "miriam-khalil"
-title = "Miriam Khalil"
-website = "http://www.miriamkhalil.com/Home.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Soprano.MiriamKhalil?fref=ts&ref=br_tf"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SongbirdKhalil"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/songbirdkhalil/"
-
-+++
+---
+date: "2015-04-13T17:51:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-13T17:51:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1644284239/media/2022/02/Miriam_Khalil-shayne-gray-print-5696_PREFERRED_gakpgs.jpg
+primary_image_credit: Shayne Gray Photography.
+publishDate: "2015-04-13T17:51:00-04:00"
+related_companies:
+- scene/companies/the-banff-centre.md
+- scene/companies/calgary-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/minnesota-opera.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/opera-lyra-ottawa.md
+- scene/companies/glyndebourne.md
+- scene/companies/edmonton-opera.md
+slug: miriam-khalil
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Soprano.MiriamKhalil?fref=ts&ref=br_tf
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/SongbirdKhalil
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/songbirdkhalil/
+title: Miriam Khalil
+website: http://www.miriamkhalil.com/Home.html
+---
 Two time Juno nominated artist, Miriam Khalil has established herself as one of Canada’s most versatile and expressive performers. She has become increasingly known for her non traditional performances of opera, art song and concert repertoire.
 
 She has sung on numerous opera stages across North America and the UK, including a stint at the renowned Glyndebourne Festival Opera (GFO) in the United Kingdom. Notable roles include Mimì in _La Bohème_ (Canadian Opera Company, Minnesota Opera, Opera Hamilton, Calgary Opera, Edmonton Opera and Against the Grain Theatre (AtG)); Donna Elvira in _Don Giovanni_ (Opera Tampa and AtG/The Banff Centre/Ottawa International Chamber Music Festival); Mélisande in _Pelléas et Mélisande_ (AtG); the Governess in The _Turn of the Screw_ (AtG); Cleopatra in _Giulio Cesare_ (GFO); Almirena in _Rinaldo_ (GFO); Susanna in _Le Nozze di Figaro_ (Pacific Opera Victoria, Opera Lyra Ottawa and AtG), Alcina (Fargo Moorhead Opera), Marzelline in _Fidelio_ (Pacific Opera Victoria) and Mamah Cheney in Hagen's _Shining Brow_ (Urban Arias) among others.

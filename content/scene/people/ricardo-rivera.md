@@ -1,22 +1,27 @@
-+++
-date = "2018-10-09T19:50:00-04:00"
-discipline = "Baritone"
-lastmod = "2018-10-09T19:50:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539128937754/650_J1A4130.jpg.jpg"
-publishDate = "2018-10-09T19:50:00-04:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/opera-philadelphia.md","scene/companies/houston-grand-opera.md","scene/companies/san-diego-opera.md","scene/companies/the-santa-fe-opera.md"]
-slug = "ricardo-rivera"
-title = "Ricardo Rivera"
-website = "http://ricardoriverabaritone.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/BaritoneRicardoRivera/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/BaritoneRicardo"
-+++
+---
+date: "2018-10-09T19:50:00-04:00"
+discipline: Baritone
+lastmod: "2018-10-09T19:50:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539128937754/650_J1A4130.jpg.jpg
+publishDate: "2018-10-09T19:50:00-04:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/san-diego-opera.md
+- scene/companies/the-santa-fe-opera.md
+slug: ricardo-rivera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/BaritoneRicardoRivera/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/BaritoneRicardo
+title: Ricardo Rivera
+website: http://ricardoriverabaritone.com/
+---
 
 In the spring of 2015, baritone Ricardo Rivera — who was a semi-finalist in the Met Opera National Council Auditions — made major debuts at Lyric Opera of Chicago, Houston Grand Opera, and San Diego Opera in the world premiere of *El pasado nunca se termina*, directed by Broadway and opera director Leonard Foglia, in the leading role of Acalán.  
 

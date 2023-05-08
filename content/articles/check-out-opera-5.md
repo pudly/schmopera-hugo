@@ -1,19 +1,51 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-07-22T16:50:00-04:00"
-lastmod = "2015-09-07T22:23:00-04:00"
-preamble = "Artistic Director [Aria Umezawa](/scene/people/aria-umezawa/) and General Director [Rachel Krehm](/scene/people/rachel-krehm/), also known as the ladies of [Opera 5](/scene/companies/opera-5/), said to me that although they take their work and their art very seriously, they don't take themselves seriously. I think that's a great way to sum up Opera 5, a Toronto-based company that creates a full opera-going experience for its audiences. They commission new works, put up rarely heard operas, and pair their performances with food, drink, and atmosphere suggestive of the evening's entertainment.  \n\nAria and Rachel are also strong supporters of building their own audiences, and their video series, [*Opera Cheats*](https://www.youtube.com/user/OperaFive) is one of the creative ways they've found to do just that. I was able to chat with both of them about their aesthetic, their beliefs in opera, and the shows they're still keen to put up.\n\nTo kick off the 2015/16 season, Opera 5 is having its annual gala, Opera 500, on September 29th at The Extension Room. Get dressed up, bid on singers, win prizes, and press the MYSTERIOUS RED BUTTON. The event starts at 7pm, tickets are $25. For more details and to buy tickets, follow the box office links below."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438207828983/Opera5Boheme.jpg.jpg"
-primary_image_credit = "A scene from Opera 5's Opera Cheats: La bohème."
-publishDate = "2015-09-08T12:00:00-04:00"
-related_articles = ["articles/check-out-the-friends-of-gravity.md","articles/check-out-urbanvessel.md","articles/check-out-loose-tea-music-theatre.md","articles/check-out-liederwolfe.md","articles/check-out-opera-after-hours.md","articles/check-out-myopera.md","articles/aria-umezawa-opera-5s-die-fledermaus-with-surprises.md"]
-related_companies = ["scene/companies/opera-5.md"]
-related_people = ["scene/people/rachel-krehm.md","scene/people/aria-umezawa.md"]
-short_description = "Artistic Director Aria Umezawa and General Director Rachel Krehm, also known as the ladies of Opera 5, said to me that although they take their work and their art very seriously, they don&#039;t take themselves seriously. I think that&#039;s a great way to sum up Opera 5, a Toronto-based company that creates a full opera-going experience for its audiences. They commission new works, put up rarely heard operas, and pair their performances with food, drink, and atmosphere suggestive of the evening&#039;s entertainment. "
-slug = "check-out-opera-5"
-title = "Check out: Opera 5"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-07-22T16:50:00-04:00"
+lastmod: "2015-09-07T22:23:00-04:00"
+preamble: "Artistic Director [Aria Umezawa](/scene/people/aria-umezawa/) and General
+  Director [Rachel Krehm](/scene/people/rachel-krehm/), also known as the ladies of
+  [Opera 5](/scene/companies/opera-5/), said to me that although they take their work
+  and their art very seriously, they don't take themselves seriously. I think that's
+  a great way to sum up Opera 5, a Toronto-based company that creates a full opera-going
+  experience for its audiences. They commission new works, put up rarely heard operas,
+  and pair their performances with food, drink, and atmosphere suggestive of the evening's
+  entertainment.  \n\nAria and Rachel are also strong supporters of building their
+  own audiences, and their video series, [*Opera Cheats*](https://www.youtube.com/user/OperaFive)
+  is one of the creative ways they've found to do just that. I was able to chat with
+  both of them about their aesthetic, their beliefs in opera, and the shows they're
+  still keen to put up.\n\nTo kick off the 2015/16 season, Opera 5 is having its annual
+  gala, Opera 500, on September 29th at The Extension Room. Get dressed up, bid on
+  singers, win prizes, and press the MYSTERIOUS RED BUTTON. The event starts at 7pm,
+  tickets are $25. For more details and to buy tickets, follow the box office links
+  below."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438207828983/Opera5Boheme.jpg.jpg
+primary_image_credit: 'A scene from Opera 5''s Opera Cheats: La bohème.'
+publishDate: "2015-09-08T12:00:00-04:00"
+related_articles:
+- articles/check-out-the-friends-of-gravity.md
+- articles/check-out-urbanvessel.md
+- articles/check-out-loose-tea-music-theatre.md
+- articles/check-out-liederwolfe.md
+- articles/check-out-opera-after-hours.md
+- articles/check-out-myopera.md
+- articles/aria-umezawa-opera-5s-die-fledermaus-with-surprises.md
+related_companies:
+- scene/companies/opera-5.md
+related_people:
+- scene/people/rachel-krehm.md
+- scene/people/aria-umezawa.md
+short_description: 'Artistic Director Aria Umezawa and General Director Rachel Krehm,
+  also known as the ladies of Opera 5, said to me that although they take their work
+  and their art very seriously, they don&#039;t take themselves seriously. I think
+  that&#039;s a great way to sum up Opera 5, a Toronto-based company that creates
+  a full opera-going experience for its audiences. They commission new works, put
+  up rarely heard operas, and pair their performances with food, drink, and atmosphere
+  suggestive of the evening&#039;s entertainment. '
+slug: check-out-opera-5
+title: 'Check out: Opera 5'
+---
 
 ### 1. What is the mission behind Opera 5?
 

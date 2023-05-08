@@ -1,29 +1,36 @@
-+++
-author = ["authors/sam-darling.md"]
-categories = "Review"
-date = 2020-03-03T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "The VAM Symphony Orchestra performance line-up is available [on their website](https://vancouveracademyofmusic.com/events/vamso-orpheum-series/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1583202618/media/2020/03/sqVAMSO-LindsayElliottPhotography_xynrf2.jpg"
-primary_image_credit = "Photo: Lindsay Elliott Photography."
-related_articles = ["articles/the-coughing-phenomenon.md", "articles/concert-etiquette-or-put-down-your-phone.md"]
-related_companies = []
-related_people = []
-short_description = "Under the assured baton of conductor emeritus Leslie Dala, the program brought together the young professional-level orchestra with the veteran vocals of amateur Vancouver Bach Choir, along with four professional soloists, and featured a delightful performance of Concerto No. 4 by Ian Parker at the keys"
-slug = "an-enduring-beethovens-ninth-with-the-vancouver-academy-of-music"
-title = "An enduring Beethoven's Ninth with the Vancouver Academy of Music"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/sam-darling.md
+categories: Review
+date: "2020-03-03T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: The VAM Symphony Orchestra performance line-up is available [on their website](https://vancouveracademyofmusic.com/events/vamso-orpheum-series/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1583202618/media/2020/03/sqVAMSO-LindsayElliottPhotography_xynrf2.jpg
+primary_image_credit: 'Photo: Lindsay Elliott Photography.'
+related_articles:
+- articles/the-coughing-phenomenon.md
+- articles/concert-etiquette-or-put-down-your-phone.md
+related_companies: []
+related_people: []
+short_description: Under the assured baton of conductor emeritus Leslie Dala, the
+  program brought together the young professional-level orchestra with the veteran
+  vocals of amateur Vancouver Bach Choir, along with four professional soloists, and
+  featured a delightful performance of Concerto No. 4 by Ian Parker at the keys
+slug: an-enduring-beethovens-ninth-with-the-vancouver-academy-of-music
+title: An enduring Beethoven's Ninth with the Vancouver Academy of Music
+youtube_url: ""
+---
 Vancouver Academy of Music celebrated its 50th-anniversary [season](https://vancouveracademyofmusic.com/events/vamso-orpheum-series/) with a special presentation in honour of late maestro Ludwig van Beethoven in the year of his sestercentennial with the program _Resounding Joy: Beethoven’s Ninth Symphony_ at the Orpheum Theatre.
 
 Under the assured baton of conductor emeritus [Leslie Dala](http://www.lesliedala.com/about/), the program brought together the young professional-level orchestra with the veteran vocals of amateur Vancouver Bach Choir, along with four professional soloists, and featured a delightful performance of Concerto No. 4 by [Ian Parker](http://www.ianparker.ca/) at the keys. A merging of such varied talents sometimes achieved Beethoven’s vision but more often didn’t gel quite as well as the sum of its beautiful parts.
 
 These Beethoven works are a common sound in our pop culture; Symphony No. 9's few famous measures in particular are now a ditty even the least music-savvy person will recognize. It is a work rarely staged due to the required size of the participants – sheer scale intended to convey grandeur and awe to the audience. In this staging the strings were sometimes a bit overwhelmed by other sections. This was an issue in the piano concerto in particular as Beethoven’s almost modern sense of sudden shifting dynamics couldn’t pop as it should with the sections not balanced and the brass sometimes entering the piece with hesitancy. Parker’s peppy performance would often save the orchestra by him attacking the molto vivace passages with a ferocity and joy that carried along both the audience and the participants. His full expressive performance seemed to be flawless to my ear but I must admit I was distracted.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1583258905/media/2020/03/VAMCollage-DalaParker_vdf2rg.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1583258905/media/2020/03/VAMCollage-DalaParker_vdf2rg.jpg)
 
 <figcaption>(l-r) Leslie Dala, conductor, and Ian Parker, pianist.</figcaption>
 

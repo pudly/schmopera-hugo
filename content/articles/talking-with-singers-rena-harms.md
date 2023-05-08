@@ -1,19 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-01-19T16:58:00+00:00"
-lastmod = "2017-01-21T15:29:00+00:00"
-preamble = "Santa Fe-born soprano [Rena Harms](/scene/people/rena-harms/) sang her first performances of Cio-Cio San in Anthony Minghella's famed production of *Madama Butterfly* at [English National Opera](/scene/companies/english-national-opera/), and this season, she has two more opportunities to dig deeper into the role. She is currently in rehearsals with director Matthew Ozawa for [Arizona Opera](http://www.azopera.org/performances/madama-butterfly/cast)'s upcoming production of *Butterfly*, January 28th to February 5th; in May, Harms reprises Cio-Cio San once again with [Opera Theater of Saint Louis.](https://www.opera-stl.org/season-and-events/productions/madame-butterfly-2017)\n\nWe spoke with Harms about growing to love a difficult role like Butterfly, her post-rehearsal craft skills, and realizing that as a professional singer, there's no real \"I made it!\" moment.\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484847271408/2017-01-19---Harms.jpg.jpg"
-primary_image_credit = "Photo by Fay Fox."
-publishDate = "2017-01-21T15:06:00+00:00"
-related_articles = ["articles/talking-with-singers-lisette-oropesa.md"]
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/arizona-opera.md"]
-related_people = ["scene/people/rena-harms.md"]
-short_description = "&quot;The first time I saw Madama Butterfly I actually found Cio-Cio San to be a hard pill to swallow. She can come across very weak and silly if one is not careful in her portrayal. Without her own drive and motivation she seems doomed from the start and her plight becomes uninteresting. I think it is important to relate to the audience that it is her inner strength that drives her to make life-changing decisions.&quot;"
-slug = "talking-with-singers-rena-harms"
-title = "Talking with singers: Rena Harms"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-01-19T16:58:00+00:00"
+lastmod: "2017-01-21T15:29:00+00:00"
+preamble: |+
+  Santa Fe-born soprano [Rena Harms](/scene/people/rena-harms/) sang her first performances of Cio-Cio San in Anthony Minghella's famed production of *Madama Butterfly* at [English National Opera](/scene/companies/english-national-opera/), and this season, she has two more opportunities to dig deeper into the role. She is currently in rehearsals with director Matthew Ozawa for [Arizona Opera](http://www.azopera.org/performances/madama-butterfly/cast)'s upcoming production of *Butterfly*, January 28th to February 5th; in May, Harms reprises Cio-Cio San once again with [Opera Theater of Saint Louis.](https://www.opera-stl.org/season-and-events/productions/madame-butterfly-2017)
+
+  We spoke with Harms about growing to love a difficult role like Butterfly, her post-rehearsal craft skills, and realizing that as a professional singer, there's no real "I made it!" moment.
+
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484847271408/2017-01-19---Harms.jpg.jpg
+primary_image_credit: Photo by Fay Fox.
+publishDate: "2017-01-21T15:06:00+00:00"
+related_articles:
+- articles/talking-with-singers-lisette-oropesa.md
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/arizona-opera.md
+related_people:
+- scene/people/rena-harms.md
+short_description: '&quot;The first time I saw Madama Butterfly I actually found Cio-Cio
+  San to be a hard pill to swallow. She can come across very weak and silly if one
+  is not careful in her portrayal. Without her own drive and motivation she seems
+  doomed from the start and her plight becomes uninteresting. I think it is important
+  to relate to the audience that it is her inner strength that drives her to make
+  life-changing decisions.&quot;'
+slug: talking-with-singers-rena-harms
+title: 'Talking with singers: Rena Harms'
+---
 
 ## Why do you sing professionally?
 
@@ -29,7 +43,9 @@ I am currently doing a production at Arizona Opera and this *Butterfly* is very 
 
 I am sure my third production later this season at Opera Theater of St. Louis will also bring new things to light. With such an complex role, I strive to find new things every time I play her, and it's one of the most thrilling things about getting to repeat a role.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484850265194/2017-01-19---2016_ENOMadameButterfly_2016_ThomasBowles.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484850265194/2017-01-19---2016_ENOMadameButterfly_2016_ThomasBowles.jpg.jpg)
 <figcaption>Rena Harms (Cio-Cio San) and David Butt Philip (Pinkerton) in *Madame Butterfly* at English National Opera, 2016. Photo by Thomas Bowles.</figcaption>
 </figure>
 
@@ -37,7 +53,9 @@ I am sure my third production later this season at Opera Theater of St. Louis wi
 
 It's interesting to think about an Italian composer writing about an American in Japan at a time when cultures were far more isolated. There must have been a lot of guessing involved. Despite this limitation, he created very human and engaging characters. I think Puccini's choice to create a very strong heroine and a weaker, or less appealing hero was ahead of his time. He shows so much humanity in these characters. They are idealistic and flawed, filled with desire and hope. I think he must have cared for them, seeing their strengths even as he saw their faults.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484847328185/2017-01-19---Harms-2.jpg.jpg)<figcaption>Rena Harms, soprano. Photo by Fay Fox.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484847328185/2017-01-19---Harms-2.jpg.jpg)<figcaption>Rena Harms, soprano. Photo by Fay Fox.</figcaption>
 </figure>
 
 ## What do you like to do with your free time while you're away from home on a gig? 

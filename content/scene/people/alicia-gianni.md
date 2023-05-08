@@ -1,26 +1,27 @@
-+++
-date = "2019-01-21T21:57:30+00:00"
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548107758/media/2019/01/AliciaGianni.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/arizona-opera.md", "scene/companies/florida-grand-opera.md", "scene/companies/houston-grand-opera.md"]
-slug = "alicia-gianni"
-title = "Alicia Gianni"
-website = "http://aliciagianni.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/AliciaGianni"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/AliciaGianni"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/AliciaGianni"
-
-+++
+---
+date: "2019-01-21T21:57:30+00:00"
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548107758/media/2019/01/AliciaGianni.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/arizona-opera.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/houston-grand-opera.md
+slug: alicia-gianni
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/AliciaGianni
+- platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/AliciaGianni
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/AliciaGianni
+title: Alicia Gianni
+website: http://aliciagianni.com/
+---
 American Soprano Alicia Gianni, whose performances have been described as “charming, impressive” and “powerfully real,” has enjoyed successes on both operatic and concert stages, including nominations for Houston’s Best Jazz Vocalist by the Houston Press Music Awards. Such nominations have followed concerts in Las Vegas for T-Mobile, Magic Johnson, and _The Late Late Show’s_ Craig Ferguson. The 2016-’17 season began with a role debut as Giannetta in Houston Grand Opera’s _L’Elisir D’amore_ and was followed by a successful debut as Adina in Opera Birmingham’s production of _L’Elisir D’amore_. Ms. Gianni also debuted with Musical Bridges in San Antonio as a featured soloist in their Mozart concert and will perform several private parties this season including various musical theater repertoire and jazz standards. She recently completed a triple soprano role for the workshop of Houston Grand Opera’s World Premiere of _The House Without A Christmas Tree_, by Ricky Ian Gordon and Royce Vavrek to premiere in the ’17-’18.
 
 Audiences found Ms. Gianni’s performances as Papagena for HGO’s production of _The Magic Flute_ both memorable and comedic at The Wortham Center, The Miller Outdoor Theater, and The Cynthia Mitchell Pavillion (2015). She ended the 2015-’16 season as the official cover for Margaret Hughes in Carlisle Floyd’s world premiere _Prince of Players,_ commissioned by HGO and with Christmas Cabarets at Opera Birmingham and Arizona Opera. Ms. Gianni then returned home for Houston First’s New Year’s Eve Broadway Concert at HGO as a featured soloist. In her performance and role debut as Petra in HGO’s _A Little Night Music_ (2014)_,_ critics acclaimed, “with her thrilling rendition of “The Miller’s Son,” Alicia Gianni as Petra stole the highpoint of the second act…celebrating lustiness, experience, and adventure, and Gianni finished her emphatic phrases with long, non-vibrato belting. She was absolutely thrilling in every respect.” (Theodore Bale, Culture Map 2014). Others hailed, “Gianni inhabits the earthy, saucy serving girl Petra; she scores a knockout with her dynamic rendition of her provocative “The Miller’s Son,” (Everett Evans, Houston Chronicle 2014) or “Gianni enlivens the strange role of Petra, a kind of lady-in-waiting, with a sublimely earthy, world-weary nobility, especially in her Act II number about the course of any marriage.” (John DeMers, Houston Arts Week 2014).

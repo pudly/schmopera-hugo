@@ -1,26 +1,32 @@
-+++
-date = "2015-05-25T21:37:00-04:00"
-lastmod = "2015-10-31T14:26:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446315995845/Logo---MAW.jpg.jpg"
-publishDate = "2015-05-25T21:37:00-04:00"
-related_people = ["scene/people/marilyn-horne.md","scene/people/warren-jones.md","scene/people/julia-dawson.md","scene/people/marjorie-maltais.md","scene/people/rena-harms.md","scene/people/benjamin-dickerson.md","scene/people/anne-wright.md"]
-slug = "music-academy-of-the-west-voice-program"
-title = "Music Academy of the West - Voice Program"
-type_of_company = "Summer training program"
-website = "http://www.musicacademy.org/#"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/MusicAcademyoftheWest"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MusicAcademyW"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/MusicAcademyWest"
-+++
+---
+date: "2015-05-25T21:37:00-04:00"
+lastmod: "2015-10-31T14:26:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446315995845/Logo---MAW.jpg.jpg
+publishDate: "2015-05-25T21:37:00-04:00"
+related_people:
+- scene/people/marilyn-horne.md
+- scene/people/warren-jones.md
+- scene/people/julia-dawson.md
+- scene/people/marjorie-maltais.md
+- scene/people/rena-harms.md
+- scene/people/benjamin-dickerson.md
+- scene/people/anne-wright.md
+slug: music-academy-of-the-west-voice-program
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/MusicAcademyoftheWest
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/MusicAcademyW
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/MusicAcademyWest
+title: Music Academy of the West - Voice Program
+type_of_company: Summer training program
+website: http://www.musicacademy.org/#
+---
 
 Under the direction of celebrated mezzo-soprano Marilyn Horne, the Music Academy Voice Program offers intensive training for young singers who demonstrate the potential for careers in music. Fellows are coached in singing technique, diction, interpretation, style, and presentation, and explore the literature of opera, musical theatre, and song.
 

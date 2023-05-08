@@ -1,14 +1,19 @@
-+++
-date = "2017-05-02T12:54:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2017-05-02T12:55:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493743812071/2017-05-02---Andrew-Tees.jpg.jpg"
-publishDate = "2017-05-02T12:54:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/toronto-operetta-theatre.md","scene/companies/toronto-symphony-orchestra.md"]
-slug = "andrew-tees"
-title = "Andrew Tees"
-website = "http://andrewtees.com/"
-+++
+---
+_template: people_single
+date: "2017-05-02T12:54:00-04:00"
+discipline: Bass-baritone
+lastmod: "2017-05-02T12:55:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493743812071/2017-05-02---Andrew-Tees.jpg.jpg
+publishDate: "2017-05-02T12:54:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/toronto-operetta-theatre.md
+- scene/companies/toronto-symphony-orchestra.md
+slug: andrew-tees
+title: Andrew Tees
+website: http://andrewtees.com/
+---
 
 Baritone Andrew Tees is one of the most dynamic singers of his generation. Blessed with a rich baritone, he is at home whether singing opera, oratorio, pops, or music theatre.
 

@@ -1,19 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-10-16T20:47:00-04:00"
-lastmod = "2018-10-17T12:28:00-04:00"
-preamble = "Hungarian baritone [Levente Molnár](/scene/people/levente-molnar/) is joining the Hungarian State Opera as it makes its U.S. debut at Lincoln Center's Koch Theater, October 30 to November 11. The HSO will present four operas by Hungarian composers, including Ferenc Erkel's *Bánk bán*, in which Molnár will sing the title role.\n\nErkel, the 19th-century composer, conductor, pianist, and past Music Director of the Hungarian State Opera, is dubbed the \"father of Hungarian grand opera\". His *Bánk bán*, considered a national opera of Hungary, is certainly obscure in North America; the HSO's current production by Attila Vidnyánszky will mark an important introduction of the opera to American audiences.\n\nWe spoke with Molnár about the intense character of Bánk bán, and the significance of bringing a major piece of his Hungarian culture across the Atlantic."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539789158851/sqmolnar_levente.jpg.jpg"
-primary_image_credit = "Levente Molnár, baritone."
-publishDate = "2018-10-17T11:29:00-04:00"
-related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/talking-with-singers-gyula-nagy.md"]
-related_people = ["scene/people/levente-molnar.md"]
-short_description = "&quot;I have learnt a lot but there is still a lot to learn. The most important thing I&#039;ve learned is that the calling is not only about professionalism and talent. Many other factors also play a role in the career of a professional singer, some of which might be harmful to the art itself.&quot;"
-slug = "talking-with-singers-levente-molnár"
-title = "Talking with singers: Levente Molnár"
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-10-16T20:47:00-04:00"
+lastmod: "2018-10-17T12:28:00-04:00"
+preamble: |-
+  Hungarian baritone [Levente Molnár](/scene/people/levente-molnar/) is joining the Hungarian State Opera as it makes its U.S. debut at Lincoln Center's Koch Theater, October 30 to November 11. The HSO will present four operas by Hungarian composers, including Ferenc Erkel's *Bánk bán*, in which Molnár will sing the title role.
 
-+++
+  Erkel, the 19th-century composer, conductor, pianist, and past Music Director of the Hungarian State Opera, is dubbed the "father of Hungarian grand opera". His *Bánk bán*, considered a national opera of Hungary, is certainly obscure in North America; the HSO's current production by Attila Vidnyánszky will mark an important introduction of the opera to American audiences.
+
+  We spoke with Molnár about the intense character of Bánk bán, and the significance of bringing a major piece of his Hungarian culture across the Atlantic.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539789158851/sqmolnar_levente.jpg.jpg
+primary_image_credit: Levente Molnár, baritone.
+publishDate: "2018-10-17T11:29:00-04:00"
+related_articles:
+- articles/talking-with-singers-matthew-polenzani.md
+- articles/talking-with-singers-gyula-nagy.md
+related_people:
+- scene/people/levente-molnar.md
+short_description: '&quot;I have learnt a lot but there is still a lot to learn. The
+  most important thing I&#039;ve learned is that the calling is not only about professionalism
+  and talent. Many other factors also play a role in the career of a professional
+  singer, some of which might be harmful to the art itself.&quot;'
+slug: talking-with-singers-levente-molnár
+title: 'Talking with singers: Levente Molnár'
+---
 ### Why do you sing, particularly in the field of opera?
 
 First and foremost, because of a love for the art form. When a person doesn't really love opera, I always feel that they don't know the genre well enough, and just haven't yet found what will give them a real cathartic experience. I didn't use to know opera either until a lovely teacher of mine got me acquainted with it. For this I am eternally grateful to her. I already had a good singing voice as a child and took part in folk song competitions. I loved singing; it gave me something other subjects like the sciences never could. Singing connected me to the world and to God. It gave me a certainty, an answer to the question of who I am, where my path lies in this vast forest of life where we have to make choices every single second.

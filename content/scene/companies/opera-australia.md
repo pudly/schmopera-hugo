@@ -1,22 +1,36 @@
-+++
-date = "2015-04-04T20:44:00-04:00"
-lastmod = "2015-04-04T20:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428194361234/OperaAustraliaLogo.jpg.jpg"
-publishDate = "2015-04-04T20:44:00-04:00"
-related_people = ["scene/people/lyndon-terracini.md","scene/people/jennifer-condon.md","scene/people/johan-botha.md","scene/people/lise-lindstrom.md","scene/people/stuart-skelton.md","scene/people/gabor-bretz.md","scene/people/liparit-avetisyan.md","scene/people/riccardo-massi.md","scene/people/harry-bicket.md","scene/people/sarah-castle.md","scene/people/yonghoon-lee.md","scene/people/alexander-lewis.md","scene/people/amber-wagner.md","scene/people/hiromi-omura.md"]
-slug = "opera-australia"
-title = "Opera Australia"
-type_of_company = "Opera Company"
-website = "https://opera.org.au/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/OperaAustralia?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/OperaAustralia"
-+++
+---
+date: "2015-04-04T20:44:00-04:00"
+lastmod: "2015-04-04T20:44:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428194361234/OperaAustraliaLogo.jpg.jpg
+publishDate: "2015-04-04T20:44:00-04:00"
+related_people:
+- scene/people/lyndon-terracini.md
+- scene/people/jennifer-condon.md
+- scene/people/johan-botha.md
+- scene/people/lise-lindstrom.md
+- scene/people/stuart-skelton.md
+- scene/people/gabor-bretz.md
+- scene/people/liparit-avetisyan.md
+- scene/people/riccardo-massi.md
+- scene/people/harry-bicket.md
+- scene/people/sarah-castle.md
+- scene/people/yonghoon-lee.md
+- scene/people/alexander-lewis.md
+- scene/people/amber-wagner.md
+- scene/people/hiromi-omura.md
+slug: opera-australia
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/OperaAustralia?fref=ts
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/OperaAustralia
+title: Opera Australia
+type_of_company: Opera Company
+website: https://opera.org.au/
+---
 
 <p>
 	Opera Australia is Australia's national opera company, presenting more than 700 performances and playing to more than half a million people each year.

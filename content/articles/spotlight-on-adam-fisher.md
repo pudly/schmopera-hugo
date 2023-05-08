@@ -1,19 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-05-28T13:37:00-04:00"
-lastmod = "2017-06-02T19:49:00-04:00"
-preamble = "Equal parts uplifting and heartbreaking, Canadian tenor [Adam Fisher](/scene/people/adam-fisher/) most recently sang the role of Father Alexander in [Tapestry Opera](/scene/companies/tapestry-opera/)'s world premiere production of [*Oksana G.*](/tough-to-watch-oksana-g/). With a unexpected past as a heavy metal drummer and a strong connection to music theatre and pop singers, Fisher brings a refreshing energy to the stage that seems fuelled by curiosity for the stage in its broadest sense.\n\nFisher heads next to Los Angeles, to sing the title role in Lou Harrison's [*Young Caesar* with the LA Philharmonic](http://www.laphil.com/tickets/young-caesar/2017-06-13). He talks about lesser-known corners of history, dream roles, and the difference between singing that's \"flashy\" versus \"connected\"."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993287998/2017-05-28---Adam-Fisher.jpg.jpg"
-primary_image_credit = "Photo: Veronika Roux."
-publishDate = "2017-06-02T19:07:00-04:00"
-related_articles = ["articles/spotlight-on-christina-haldane.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/adam-fisher.md"]
-short_description = "&quot;For me, exercise and the outdoors has always cathartic. Getting outside for a bike ride or weight training during a contract is such a great release for me. It&#039;s kinda like meditation and gives me a place to let out all the baggage built up from the process of creating art.&quot;"
-slug = "spotlight-on-adam-fisher"
-title = "Spotlight on: Adam Fisher"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-05-28T13:37:00-04:00"
+lastmod: "2017-06-02T19:49:00-04:00"
+preamble: |-
+  Equal parts uplifting and heartbreaking, Canadian tenor [Adam Fisher](/scene/people/adam-fisher/) most recently sang the role of Father Alexander in [Tapestry Opera](/scene/companies/tapestry-opera/)'s world premiere production of [*Oksana G.*](/tough-to-watch-oksana-g/). With a unexpected past as a heavy metal drummer and a strong connection to music theatre and pop singers, Fisher brings a refreshing energy to the stage that seems fuelled by curiosity for the stage in its broadest sense.
+
+  Fisher heads next to Los Angeles, to sing the title role in Lou Harrison's [*Young Caesar* with the LA Philharmonic](http://www.laphil.com/tickets/young-caesar/2017-06-13). He talks about lesser-known corners of history, dream roles, and the difference between singing that's "flashy" versus "connected".
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993287998/2017-05-28---Adam-Fisher.jpg.jpg
+primary_image_credit: 'Photo: Veronika Roux.'
+publishDate: "2017-06-02T19:07:00-04:00"
+related_articles:
+- articles/spotlight-on-christina-haldane.md
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/adam-fisher.md
+short_description: '&quot;For me, exercise and the outdoors has always cathartic.
+  Getting outside for a bike ride or weight training during a contract is such a great
+  release for me. It&#039;s kinda like meditation and gives me a place to let out
+  all the baggage built up from the process of creating art.&quot;'
+slug: spotlight-on-adam-fisher
+title: 'Spotlight on: Adam Fisher'
+---
 
 ## Why do you sing? 
 
@@ -23,7 +33,9 @@ Before I started singing I was a drummer in a heavy metal band. Most of my means
 
 I then dedicated my time to learn how to express that to others and move them as much as I was moved that day. In a nutshell, I love the challenge that music offers you as a performer. Always asking myself, where is the core of the song and how do I tell that story to the audience?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993850316/2017-05-28---Fisher---Atelier.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993850316/2017-05-28---Fisher---Atelier.jpg.jpg)
 <figcaption>Adam Fisher (Pedrillo) in *The Abduction from the Seraglio*, Opera Atelier. Photo: Bruce Zinger.</figcaption>
 </figure>
 
@@ -37,7 +49,9 @@ Take care of yourself. Your physical and emotional health are so important to su
 
 For me, exercise and the outdoors has always been cathartic. Getting outside for a bike ride or weight training during a contract is such a great release for me. It's kinda like meditation and gives me a place to let out all the baggage built up from the process of creating art. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993860555/2017-05-28---Fisher---Oksana.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993860555/2017-05-28---Fisher---Oksana.jpg.jpg)
 <figcaption>Adam Fisher (Father Alexander) with Natalya Gennadi (Oksana) in rehearsal for *Oksana G.*, Tapestry Opera. Photo courtesy of Tapestry Opera.</figcaption>
 </figure>
 
@@ -49,7 +63,9 @@ A young Gaius Julius Caesar was sent to collect tribute from King Nicomedes, and
 
 Exploring this side of his character is very interesting to me. Finding how to approach the idea of sexual identity and how much society needs to label people. In my opinion, if Gaius were alive today, he would be labeled a bisexual and possibly endure similar scrutiny if he were running for public office. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993871142/2017-05-28---Fisher---Midsummer.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993871142/2017-05-28---Fisher---Midsummer.jpg.jpg)
 <figcaption>Adam Fisher (Lysander) with John Brancy (Demetrius) and Lauren Segal (Hermia) in *A Midsummer Night's Dream*, Pacific Opera Victora. Photo: David Cooper.</figcaption>
 </figure>
 

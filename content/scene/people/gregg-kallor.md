@@ -1,27 +1,27 @@
-+++
-date = "2016-10-13T11:13:00+01:00"
-discipline = "Pianist, composer"
-lastmod = "2016-10-13T11:13:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476353498195/2016-10-13---Gregg_Kallor.jpg.jpg"
-primary_image_credit = "David White"
-publishDate = "2016-10-13T11:13:00+01:00"
-related_companies = ["scene/companies/on-site-opera.md"]
-slug = "gregg-kallor"
-title = "Gregg Kallor"
-website = "http://greggkallor.com/site/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/greggkallormusic"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/greggkallor"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/greggkallor"
-+++
+---
+date: "2016-10-13T11:13:00+01:00"
+discipline: Pianist, composer
+lastmod: "2016-10-13T11:13:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476353498195/2016-10-13---Gregg_Kallor.jpg.jpg
+primary_image_credit: David White
+publishDate: "2016-10-13T11:13:00+01:00"
+related_companies:
+- scene/companies/on-site-opera.md
+slug: gregg-kallor
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/greggkallormusic
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/greggkallor
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/greggkallor
+title: Gregg Kallor
+website: http://greggkallor.com/site/
+---
 
 Gregg Kallor is a composer and pianist whose music fuses the classical and jazz traditions he loves into a new, deeply personal language. The New York Times writes: "At home in both jazz and classical forms, [Kallor] writes music of unaffected emotional directness. Leavened with flashes of oddball humor, his works succeed in drawing in the listener - not as consumer or worshipful celebrant, but in a spirit of easygoing camaraderie."
 

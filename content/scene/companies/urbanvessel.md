@@ -1,22 +1,23 @@
-+++
-date = "2015-05-21T15:14:00-04:00"
-lastmod = "2015-05-21T15:14:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432235659421/zSgEEu4j.png.png"
-publishDate = "2015-05-21T15:14:00-04:00"
-related_people = ["scene/people/juliet-palmer.md"]
-slug = "urbanvessel"
-title = "Urbanvessel"
-type_of_company = "Opera/Theatre Company"
-website = "https://urbanvessel.wordpress.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/urbanvessel"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/urbanvessel"
-+++
+---
+date: "2015-05-21T15:14:00-04:00"
+lastmod: "2015-05-21T15:14:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432235659421/zSgEEu4j.png.png
+publishDate: "2015-05-21T15:14:00-04:00"
+related_people:
+- scene/people/juliet-palmer.md
+slug: urbanvessel
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/urbanvessel
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/urbanvessel
+title: Urbanvessel
+type_of_company: Opera/Theatre Company
+website: https://urbanvessel.wordpress.com/
+---
 
 At the intersection of multiple disciplines and cultures, Urbanvessel forges new connections, reflects contemporary life, and subverts social assumptions. Centred in the power of the human voice, Urbanvessel‘s creative works aim to alter our audience’s perspective on their world.
 

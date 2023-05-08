@@ -1,12 +1,13 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-02-01T22:09:00-05:00"
-draft = true
-lastmod = "2016-02-03T12:00:00-05:00"
-slug = "voice-types-for-politicians"
-title = "Voice types for politicians"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-02-01T22:09:00-05:00"
+draft: true
+lastmod: "2016-02-03T12:00:00-05:00"
+slug: voice-types-for-politicians
+title: Voice types for politicians
+---
 
 Since it's 2016, the world is once again graced with the 10-month countdown to the election of the 45th President of the United States. The insanity of it all is sadly akin to some of the best fictional drama we consume daily, with no shortage of heroes and villains.
 

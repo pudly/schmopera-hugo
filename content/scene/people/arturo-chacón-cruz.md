@@ -1,28 +1,33 @@
-+++
-author = []
-categories = ""
-date = ""
-discipline = "Tenor"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571842390/media/2019/10/ArturoChaconCruz_lsdl9u.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = ["scene/companies/gran-teatre-del-liceu.md", "scene/companies/wiener-staatsoper.md", "scene/companies/los-angeles-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/houston-grand-opera.md"]
-related_people = []
-short_description = ""
-slug = "arturo-chacon-cruz"
-title = "Arturo Chacón-Cruz"
-website = "http://arturochaconcruz.com/home/"
-youtube_url = ""
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/arturochaconcruz/"
-
-+++
+---
+author: []
+categories: ""
+date: ""
+discipline: Tenor
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571842390/media/2019/10/ArturoChaconCruz_lsdl9u.jpg
+primary_image_credit: ""
+related_articles: []
+related_companies:
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/houston-grand-opera.md
+related_people: []
+short_description: ""
+slug: arturo-chacon-cruz
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/arturochaconcruz/
+title: Arturo Chacón-Cruz
+website: http://arturochaconcruz.com/home/
+youtube_url: ""
+---
 Arturo Chacón-Cruz, a native of Sonora, Mexico, has established himself in recent years as a leading tenor with exciting appearances in renowned theaters and concert halls across the globe. He has sung over 50 roles in more than 25 countries.
 
 Since winning Plácido Domingo’s Operalia Competition in 2005, Arturo’s career has seen a successful and steady development. His repertoire spans from Bellini and Donizetti to Puccini and Verdi. Some of his more sought after roles are: Rodolfo, the Duke of Mantua, Alfredo, Jacopo Foscari, Gabriele Adorno, B.F. Pinkerton, Hoffmann, Werther, and Romeo to name a few.

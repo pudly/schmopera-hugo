@@ -1,15 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-05-30T14:03:00-04:00"
-lastmod = "2017-05-31T12:49:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171635729/2017-05-30---Toronto.jpg.jpg"
-publishDate = "2017-05-31T12:34:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/tapestry-opera.md","scene/companies/opera-atelier.md","scene/companies/canadian-childrens-opera-company.md","scene/companies/against-the-grain-theatre.md","scene/companies/indie-opera-to.md"]
-short_description = "None of this is to minimize the work and merit of the 2017 Dora Award nominees. Yet it&#039;s a list that&#039;s desperately incomplete. Perhaps the juror qualifications exclude too many people with knowledgeable and unbiased connections to the Toronto industry. More importantly, maybe the TAPA membership qualifications are prohibitive to what much of Toronto&#039;s opera and theatre scenes can manage."
-slug = "doras2017-yes-and"
-title = "#Doras2017: &quot;yes, and...&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-05-30T14:03:00-04:00"
+lastmod: "2017-05-31T12:49:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171635729/2017-05-30---Toronto.jpg.jpg
+publishDate: "2017-05-31T12:34:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/tapestry-opera.md
+- scene/companies/opera-atelier.md
+- scene/companies/canadian-childrens-opera-company.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/indie-opera-to.md
+short_description: None of this is to minimize the work and merit of the 2017 Dora
+  Award nominees. Yet it&#039;s a list that&#039;s desperately incomplete. Perhaps
+  the juror qualifications exclude too many people with knowledgeable and unbiased
+  connections to the Toronto industry. More importantly, maybe the TAPA membership
+  qualifications are prohibitive to what much of Toronto&#039;s opera and theatre
+  scenes can manage.
+slug: doras2017-yes-and
+title: '#Doras2017: &quot;yes, and...&quot;'
+---
 
 The [nominations](https://tapa.ca/blog/announcement-nominations-for-the-38th-annual-dora-mavor-moore-awards-announced-tapa/) for the 2017 Dora Mavor Moore Awards are announced, and there's a familiar sentiment that follows, a mix of pride and unfinished business.
 
@@ -33,11 +45,17 @@ At any rate, congratulations are in order for all the nominees. Theatre-goers in
 
 For a full list of the 2017 Dora Mavor Award Opera Division nominees, check out the PDFs below:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171501839/2017-DORA-NOMINEES-GRID-FINAL2-6.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171501839/2017-DORA-NOMINEES-GRID-FINAL2-6.jpg.jpg)
 </figure>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171509553/2017-DORA-NOMINEES-GRID-FINAL2-7.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171509553/2017-DORA-NOMINEES-GRID-FINAL2-7.jpg.jpg)
 </figure>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171518988/2017-DORA-NOMINEES-GRID-FINAL2-8.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171518988/2017-DORA-NOMINEES-GRID-FINAL2-8.jpg.jpg)
 </figure>

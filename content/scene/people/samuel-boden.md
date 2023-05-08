@@ -1,19 +1,21 @@
-+++
-date = "2018-01-14T18:57:00-05:00"
-discipline = "Tenor"
-lastmod = "2018-01-14T18:57:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515974075202/samuel-boden-1.jpg.jpg"
-primary_image_credit = "Marco Borggreve."
-publishDate = "2018-01-14T18:57:00-05:00"
-related_companies = ["scene/companies/royal-opera-house.md"]
-slug = "samuel-boden"
-title = "Samuel Boden"
-website = "http://www.samuelboden.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SamBodenTenor"
-+++
+---
+date: "2018-01-14T18:57:00-05:00"
+discipline: Tenor
+lastmod: "2018-01-14T18:57:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515974075202/samuel-boden-1.jpg.jpg
+primary_image_credit: Marco Borggreve.
+publishDate: "2018-01-14T18:57:00-05:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+slug: samuel-boden
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/SamBodenTenor
+title: Samuel Boden
+website: http://www.samuelboden.com/
+---
 
 British tenor Samuel Boden began his professional career as a chef before studying singing with John Wakefield at Trinity Laban Conservatoire.
 

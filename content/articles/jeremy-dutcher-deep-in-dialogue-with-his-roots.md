@@ -1,15 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2018-06-06T21:20:00-04:00"
-lastmod = "2018-06-07T11:22:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528334392317/DutcherKasaharaMacArthur.jpg.jpg"
-primary_image_credit = "Clockwise from left: Jeremy Dutcher (Matt Barnes), Teiya Kasahara, and Jonathan MacArthur (Stu McLeod)."
-publishDate = "2018-06-07T11:22:00-04:00"
-short_description = "&quot;It&#039;s crucial for us to make sure that we&#039;re using our language and passing it on to the next generation. If you lose the language, you&#039;re not just losing words; you&#039;re losing an entire way of seeing and experiencing the world from a distinctly indigenous perspective.&quot;"
-slug = "jeremy-dutcher-deep-in-dialogue-with-his-roots"
-title = "Jeremy Dutcher: &quot;deep in dialogue&quot; with his roots"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2018-06-06T21:20:00-04:00"
+lastmod: "2018-06-07T11:22:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528334392317/DutcherKasaharaMacArthur.jpg.jpg
+primary_image_credit: 'Clockwise from left: Jeremy Dutcher (Matt Barnes), Teiya Kasahara,
+  and Jonathan MacArthur (Stu McLeod).'
+publishDate: "2018-06-07T11:22:00-04:00"
+short_description: '&quot;It&#039;s crucial for us to make sure that we&#039;re using
+  our language and passing it on to the next generation. If you lose the language,
+  you&#039;re not just losing words; you&#039;re losing an entire way of seeing and
+  experiencing the world from a distinctly indigenous perspective.&quot;'
+slug: jeremy-dutcher-deep-in-dialogue-with-his-roots
+title: 'Jeremy Dutcher: &quot;deep in dialogue&quot; with his roots'
+---
 
 Tenor, composer, activist, and musicologist Jeremy Dutcher is mid-tour of his *Wolastoqiyik Lintuwakonawa*, an album of "collaborative compositions" that makes a significant nod to his Wolastoq First Nation roots.
 

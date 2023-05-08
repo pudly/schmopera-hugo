@@ -1,17 +1,25 @@
-+++
-date = "2015-05-04T12:54:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-05-19T16:22:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432066672163/gubanova-ekaterina_326660_Fotor.jpg.jpg"
-publishDate = "2015-05-04T12:54:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/deutsche-oper-berlin.md","scene/companies/teatro-alla-scala.md"]
-slug = "ekaterina-gubanova"
-title = "Ekaterina Gubanova"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/GubanovaMezzo"
-+++
+---
+date: "2015-05-04T12:54:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-05-19T16:22:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432066672163/gubanova-ekaterina_326660_Fotor.jpg.jpg
+publishDate: "2015-05-04T12:54:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/royal-opera-house.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/teatro-alla-scala.md
+slug: ekaterina-gubanova
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/GubanovaMezzo
+title: Ekaterina Gubanova
+---
 
 Ekaterina Gubanova is one of the finest mezzo-sopranos to appear in recent generations. Past and future appearances include engagements at such opera houses as the Metropolitan Opera, the Teatro alla Scala, the Royal Opera House in Covent Garden, the Bayerische Staatsoper, the Wiener Staatsoper, the Berliner Staatsoper, the Deutsche Oper Berlin, the Lyric Opera of Chicago, the Teatro Real in Madrid and the Gran Teatre del Liceu in Barcelona. Gubanova was born in Moscow and began her musical studies as a pianist. An honorary graduate in choral conducting, Ekaterina studied opera singing at the Moscow Tchaikovsky Conservatoire and the Sibelius Academy  (Helsinki) before becoming a member of the Young Artists programme at the Royal Opera House in London.
 

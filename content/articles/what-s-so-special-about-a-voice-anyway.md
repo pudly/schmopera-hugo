@@ -1,22 +1,29 @@
-+++
-author = ["authors/marcia-whitehead.md"]
-categories = "Op-Ed"
-date = 2021-01-08T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1609881456/media/2021/01/sqNewLeaf_lztm8b.jpg"
-primary_image_credit = ""
-related_articles = ["articles/in-defence-of-singers.md", "articles/music-the-musicians-therapy-except-when-its-not.md", "articles/when-opera-companies-protect-abusers.md", "articles/how-to-throw-a-funeral-for-a-viola.md"]
-related_companies = []
-related_people = []
-short_description = "I practiced every day. And every day I wanted to give up. I took detailed notes of what was wrong with my voice. My daily practice videos documented slumped shoulders, and a variety of hair cuts. On rare days I just stared into the camera. What was all of this for?"
-slug = "whats-so-special-about-a-voice-anyway"
-title = "What's so special about a voice, anyway?"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/marcia-whitehead.md
+categories: Op-Ed
+date: "2021-01-08T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1609881456/media/2021/01/sqNewLeaf_lztm8b.jpg
+primary_image_credit: ""
+related_articles:
+- articles/in-defence-of-singers.md
+- articles/music-the-musicians-therapy-except-when-its-not.md
+- articles/when-opera-companies-protect-abusers.md
+- articles/how-to-throw-a-funeral-for-a-viola.md
+related_companies: []
+related_people: []
+short_description: I practiced every day. And every day I wanted to give up. I took
+  detailed notes of what was wrong with my voice. My daily practice videos documented
+  slumped shoulders, and a variety of hair cuts. On rare days I just stared into the
+  camera. What was all of this for?
+slug: whats-so-special-about-a-voice-anyway
+title: What's so special about a voice, anyway?
+youtube_url: ""
+---
 I'm afraid it's too late.
 
 I am a professional singer. I _was_ a professional singer. People used to pay me.
