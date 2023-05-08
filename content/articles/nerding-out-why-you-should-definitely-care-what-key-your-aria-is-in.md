@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = ""
-date = 2017-10-30T01:56:00Z
-lastmod = "2017-10-30T12:00:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509327496024/2017-10-29---Colours.jpg.jpg"
-publishDate = "2017-10-29T22:07:00-04:00"
-related_articles = ["articles/undergrad-degrees-why-youll-use-that-theory-class-after-all.md", "articles/4-tips-for-when-there-are-too-many-notes.md", "articles/4-ways-to-give-notes-still-be-liked.md", "articles/chiaroscuro-classics-the-marriage-of-figaro.md"]
-short_description = "So. Back to the key of your aria. Basically, in the Baroque and Classical eras, the out-of-tuneness of various keys became associated with different affects. The theory was that a listener could be swayed to feel differently when they heard music played in G major versus in B-flat major, or in d minor versus f minor."
-slug = "nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in"
-title = "Nerding out: why you should definitely care what key your aria is in"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: ""
+date: "2017-10-30T01:56:00Z"
+lastmod: "2017-10-30T12:00:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509327496024/2017-10-29---Colours.jpg.jpg
+publishDate: "2017-10-29T22:07:00-04:00"
+related_articles:
+- articles/undergrad-degrees-why-youll-use-that-theory-class-after-all.md
+- articles/4-tips-for-when-there-are-too-many-notes.md
+- articles/4-ways-to-give-notes-still-be-liked.md
+- articles/chiaroscuro-classics-the-marriage-of-figaro.md
+short_description: So. Back to the key of your aria. Basically, in the Baroque and
+  Classical eras, the out-of-tuneness of various keys became associated with different
+  affects. The theory was that a listener could be swayed to feel differently when
+  they heard music played in G major versus in B-flat major, or in d minor versus
+  f minor.
+slug: nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in
+title: 'Nerding out: why you should definitely care what key your aria is in'
+---
 Singers, how closely do you pay attention to the key signature of the arias you sing? You know how to read music, of course - but that's not why I ask. Turns out, there can be a fascinating dramatic significance to the key in which an aria is written.
 
 The reason why is somewhat long (and totally fascinating for some, so [check out Pythagorean tuning](https://en.wikipedia.org/wiki/Pythagorean_tuning)), but the gist is this: there's math involved in the tuning of intervals, and for some mysterious reason, the math doesn't actually allow every key to sound alike. Basically, a perfect fifth in C major (C-G, for example), will sound very different from a perfect fifth in C-sharp major (C#-G#). That means that when it comes time to tune a piano or a harpsichord - where the pitches are fixed - the tuner or player actually has to prioritize certain keys over others. Often, the result is a keyboard where "round keys" like C, G, and D major are decently in tune, and more mathematically complicated ones like a-flat minor sound mighty twangy.
@@ -45,7 +53,9 @@ Melancholic **d minor** is a shared key for the unlikely pairing of both the sed
 
 And one of the saddest: the **f minor** of Barbarina's little arietta, "L'ho perduta" from the final act of _Le nozze di Figaro_. Oftentimes it's a silly scene of "the help" having made a silly blunder; yet in this key of deep depression and longing for the grave, it's a reality check into Barbarina's potential fate (being fired from her job is really only the beginning).
 
-<figure data-type="video">{{% md %}}<iframe width="896" height="672" src="https://www.youtube.com/embed/2Og3y4hRN1g" title="Le Nozze di Figaro-L'ho Perduta...Me Meschina!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="896" height="672" src="https://www.youtube.com/embed/2Og3y4hRN1g" title="Le Nozze di Figaro-L'ho Perduta...Me Meschina!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 

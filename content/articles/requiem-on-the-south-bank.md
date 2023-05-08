@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-05-24T09:59:00+01:00"
-lastmod = "2016-05-24T13:22:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464083865911/2016-05-24---Southbank.gif"
-publishDate = "2016-05-24T13:22:00+01:00"
-related_articles = ["articles/he-saidshe-said-mozarts-requiem-at-tso.md","articles/heavy-nights-schoenberg-brahms-the-lpo-and-goerne.md"]
-related_people = ["scene/people/david-soar.md","scene/people/maria-gulik.md","scene/people/john-hudson.md"]
-short_description = "From our place in history, with well over a century of hindsight, Verdi&#039;s Requiem can feel like a meta work; it&#039;s as though these beloved characters make a cameo, like a &quot;operatic special&quot;, sharing the stage to perform a work that seems to evoke a first-person delivery by Verdi of these texts."
-slug = "requiem-on-the-south-bank"
-title = "Requiem on the South Bank"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-05-24T09:59:00+01:00"
+lastmod: "2016-05-24T13:22:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464083865911/2016-05-24---Southbank.gif
+publishDate: "2016-05-24T13:22:00+01:00"
+related_articles:
+- articles/he-saidshe-said-mozarts-requiem-at-tso.md
+- articles/heavy-nights-schoenberg-brahms-the-lpo-and-goerne.md
+related_people:
+- scene/people/david-soar.md
+- scene/people/maria-gulik.md
+- scene/people/john-hudson.md
+short_description: From our place in history, with well over a century of hindsight,
+  Verdi&#039;s Requiem can feel like a meta work; it&#039;s as though these beloved
+  characters make a cameo, like a &quot;operatic special&quot;, sharing the stage
+  to perform a work that seems to evoke a first-person delivery by Verdi of these
+  texts.
+slug: requiem-on-the-south-bank
+title: Requiem on the South Bank
+---
 
 Verdi's *Requiem* is surrounded, on all sides, by opera. It was written between *Aïda* and *Simon Boccanegra*, and the soprano solo was sung often by Teresa Stolz, who sang the title role in *Aïda*'s European premiere in Milan. The *Requiem* was initially in memory of Rossini; later, Verdi revised the "Libera me" to remember the poet Alessandro Manzoni, most famous for his *I promessi sposi* (*The Betrothed*).
 

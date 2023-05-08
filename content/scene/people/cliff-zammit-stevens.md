@@ -1,26 +1,26 @@
-+++
-date = "2017-01-25T13:23:00+00:00"
-discipline = "Tenor"
-lastmod = "2017-02-23T12:34:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485350598041/2017-01-25---Cliff-Zammitt-Stevens.jpg.jpg"
-publishDate = "2017-01-25T13:23:00+00:00"
-related_companies = ["scene/companies/popup-opera.md"]
-slug = "cliff-zammit-stevens"
-title = "Cliff Zammit Stevens"
-website = "http://www.cliffzammitstevens.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/cliffzammitstevens?ref=hl"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/czammitstevens"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/czammitstevens/"
-+++
+---
+date: "2017-01-25T13:23:00+00:00"
+discipline: Tenor
+lastmod: "2017-02-23T12:34:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485350598041/2017-01-25---Cliff-Zammitt-Stevens.jpg.jpg
+publishDate: "2017-01-25T13:23:00+00:00"
+related_companies:
+- scene/companies/popup-opera.md
+slug: cliff-zammit-stevens
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/cliffzammitstevens?ref=hl
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/czammitstevens
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/czammitstevens/
+title: Cliff Zammit Stevens
+website: http://www.cliffzammitstevens.com/
+---
 
 Tenor Cliff Zammit Stevens, currently supported by the BOV Joseph Calleja Foundation has been described as a ‘Revelation’ (Daily Express), and ‘Shows exceptional promise’ (Opera magazine). Cliff is a recent Masters in Performance graduate from the RCM generously supported by the Malta Arts Scholarship Scheme and Janatha Stubbs. He started his vocal training at the age of 14 with renowned soprano Gillian Zammit whom he continues to study with from time to time together with his mentor Juliette Bisazza.
 

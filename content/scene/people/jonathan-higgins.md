@@ -1,21 +1,21 @@
-+++
-date = "2017-02-09T13:24:00+00:00"
-discipline = "Composer"
-draft = true
-lastmod = "2017-02-09T13:24:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486646687062/2017-02-09---Higgins.jpg.jpg"
-slug = "jonathan-higgins"
-title = "Jonathan Higgins"
-website = "http://www.jphiggins.co.uk/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/j_p_higgins"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/j_p_higgins"
-+++
+---
+date: "2017-02-09T13:24:00+00:00"
+discipline: Composer
+draft: true
+lastmod: "2017-02-09T13:24:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486646687062/2017-02-09---Higgins.jpg.jpg
+slug: jonathan-higgins
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/j_p_higgins
+- _template: people_single
+  platform: Soundcloud
+  template: social-media
+  url: https://soundcloud.com/j_p_higgins
+title: Jonathan Higgins
+website: http://www.jphiggins.co.uk/
+---
 
 I am a composer from England who is currently based in Sheffield where I am completing an MA in Sonic Arts, supported by the Julian Payne Scholarship. For the past year I have been working for Furnace Park in Sheffield as part of their ‘Sheaf Prospects’ soundscaping and composition project. My music is often densely gestural and noise based with influences from beat and glitch based music.
 

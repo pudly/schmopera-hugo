@@ -1,15 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-05-21T21:45:00-04:00"
-lastmod = "2018-05-28T11:42:00-04:00"
-preamble = "If you've ever considered what \"Canadian music\" sounds like, you know that the answer is layered and diverse. on Saturday, **June 2 at 8pm** at Alliance Française Theatre, an all-female trio of musicians answer for themselves, in a program of new music entitled [*No Place Like Home*](http://spectrummusic.ca/event/details/no-place-like-home/). Presented by Spectrum Music and the Toronto Composers Collective, Patty Chan (Erhu), Di Zhang (Yangqin), and Zimen Qin (Gu Zheng) perform distinctly Canadian music that reflects on individual stories of origin.\n\nWe spoke with two of the event's composers (Shannon Graham and Chelsea McBridge) and with Patty Chan about this unique program, and what it means to tell stories of home in Canada."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526953531288/Spectrum-NoPlaceLikeHome.jpg.jpg"
-publishDate = "2018-05-24T13:51:00-04:00"
-short_description = "&quot;And to have a home, it&#039;s also important to have a place that is not-home - which is easy enough to define if you only feel at home in one place, but much more difficult when, say, you fly across the world and feel like you understand the heartbeat of a totally foreign city. That feeling isn&#039;t home-as-a-place, that feeling is home-as-a-mental-state.&quot;"
-slug = "dont-miss-no-place-like-home"
-title = "Don&#039;t miss: No Place Like Home"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-05-21T21:45:00-04:00"
+lastmod: "2018-05-28T11:42:00-04:00"
+preamble: |-
+  If you've ever considered what "Canadian music" sounds like, you know that the answer is layered and diverse. on Saturday, **June 2 at 8pm** at Alliance Française Theatre, an all-female trio of musicians answer for themselves, in a program of new music entitled [*No Place Like Home*](http://spectrummusic.ca/event/details/no-place-like-home/). Presented by Spectrum Music and the Toronto Composers Collective, Patty Chan (Erhu), Di Zhang (Yangqin), and Zimen Qin (Gu Zheng) perform distinctly Canadian music that reflects on individual stories of origin.
+
+  We spoke with two of the event's composers (Shannon Graham and Chelsea McBridge) and with Patty Chan about this unique program, and what it means to tell stories of home in Canada.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526953531288/Spectrum-NoPlaceLikeHome.jpg.jpg
+publishDate: "2018-05-24T13:51:00-04:00"
+short_description: '&quot;And to have a home, it&#039;s also important to have a place
+  that is not-home - which is easy enough to define if you only feel at home in one
+  place, but much more difficult when, say, you fly across the world and feel like
+  you understand the heartbeat of a totally foreign city. That feeling isn&#039;t
+  home-as-a-place, that feeling is home-as-a-mental-state.&quot;'
+slug: dont-miss-no-place-like-home
+title: 'Don&#039;t miss: No Place Like Home'
+---
 
 ## Where did the idea of *No Place Like Home* come from?
 
@@ -19,7 +27,9 @@ The theme "No Place Like Home" came from the ideas of birth place, diaspora, tra
 
 **Patty Chan, Concertmaster of the Toronto Chinese Orchestra (Erhu)**: To me, home is wherever your heart is. It's not a specific place. I believe that home is where you are loved and where you feel safe. The two pieces that I have written were inspired by searching for commonalities in different cultures, but also celebrating their diversity. In multicultural Canada, I think this is one of our strengths.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526953361486/PattyChan.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526953361486/PattyChan.jpg.jpg)
 <figcaption>Patty Chan, Concertmaster of the Toronto Chinese Orchestra (Erhu).</figcaption>
 </figure>
 
@@ -33,7 +43,9 @@ The theme "No Place Like Home" came from the ideas of birth place, diaspora, tra
 
 And to have a home, it's also important to have a place that is not-home - which is easy enough to define if you only feel at home in one place, but much more difficult when, say, you fly across the world and feel like you understand the heartbeat of a totally foreign city. That feeling isn't home-as-a-place, that feeling is home-as-a-mental-state.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526953414622/SpectrumTrio.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526953414622/SpectrumTrio.jpg.jpg)
 <figcaption>(l-r) Cynthia Qin (Gu Zheng/Chinese Harp) and Di Zhang (Yangqin/Chinese Dulcimer), members of the Toronto Chinese Orchestra, performing *No Place Like Home*.</figcaption>
 </figure>
 

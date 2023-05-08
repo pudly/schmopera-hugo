@@ -1,22 +1,23 @@
-+++
-date = "2017-10-01T17:26:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-10-01T17:26:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506893034823/download.jpeg.jpeg"
-publishDate = "2017-10-01T17:26:00-04:00"
-related_companies = ["scene/companies/haymarket-opera-company.md"]
-slug = "nathalie-colas"
-title = "Nathalie Colas"
-website = "http://www.nathalie-colas.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/nathaliecolassoprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/NColasSoprano"
-+++
+---
+date: "2017-10-01T17:26:00-04:00"
+discipline: Soprano
+lastmod: "2017-10-01T17:26:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506893034823/download.jpeg.jpeg
+publishDate: "2017-10-01T17:26:00-04:00"
+related_companies:
+- scene/companies/haymarket-opera-company.md
+slug: nathalie-colas
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/nathaliecolassoprano
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/NColasSoprano
+title: Nathalie Colas
+website: http://www.nathalie-colas.com/
+---
 
 Soprano Nathalie Colas is a versatile and curious musician, artist, producer and music advocate.
 

@@ -1,14 +1,18 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-10-17T14:02:00+01:00"
-lastmod = "2017-01-09T10:57:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483959416750/2017-01-10---.jpg.jpg"
-publishDate = "2016-10-20T13:09:00+01:00"
-short_description = "So, take 10 minutes today to see if your management page really is a one-stop place for your current biography, your website and social media feeds, and great downloadable photos. You know, all that stuff that you worked hard at and for which you paid dearly."
-slug = "artists-management-pages-a-psa-for-singers"
-title = "Artists management pages: a PSA for singers"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-10-17T14:02:00+01:00"
+lastmod: "2017-01-09T10:57:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483959416750/2017-01-10---.jpg.jpg
+publishDate: "2016-10-20T13:09:00+01:00"
+short_description: So, take 10 minutes today to see if your management page really
+  is a one-stop place for your current biography, your website and social media feeds,
+  and great downloadable photos. You know, all that stuff that you worked hard at
+  and for which you paid dearly.
+slug: artists-management-pages-a-psa-for-singers
+title: 'Artists management pages: a PSA for singers'
+---
 
 Hello, singers!
 

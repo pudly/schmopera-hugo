@@ -1,15 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-08-13T17:20:00+01:00"
-lastmod = "2016-08-15T09:49:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471107639903/2016-08-13---Olympics.jpg.jpg"
-publishDate = "2016-08-15T09:02:00+01:00"
-related_articles = ["articles/opera-spin-off.md","articles/the-opera-workout.md","articles/hot-topics-singers-who-scoop.md"]
-short_description = "But in competition, singers are judged on the big picture that comes out of countless achievements in vocal technique, foreign language skills, dramatic training and general charisma (can that be taught?). So, what if, like the Olympics, competitions were broken down into these smaller parts? Like gymnasts or track-and-field stars?"
-slug = "the-opera-olympics-its-time"
-title = "The Opera Olympics: it&#039;s time"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-08-13T17:20:00+01:00"
+lastmod: "2016-08-15T09:49:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471107639903/2016-08-13---Olympics.jpg.jpg
+publishDate: "2016-08-15T09:02:00+01:00"
+related_articles:
+- articles/opera-spin-off.md
+- articles/the-opera-workout.md
+- articles/hot-topics-singers-who-scoop.md
+short_description: But in competition, singers are judged on the big picture that
+  comes out of countless achievements in vocal technique, foreign language skills,
+  dramatic training and general charisma (can that be taught?). So, what if, like
+  the Olympics, competitions were broken down into these smaller parts? Like gymnasts
+  or track-and-field stars?
+slug: the-opera-olympics-its-time
+title: 'The Opera Olympics: it&#039;s time'
+---
 
 Opera is where you'll find the Olympic athletes of singers. The training is constant and rigorous, and they do things with their bodies that most other people can't.
 

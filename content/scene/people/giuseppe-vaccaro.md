@@ -1,25 +1,24 @@
-+++
-date = "2016-11-02T13:12:00+00:00"
-discipline = "Conductor, pianist, composer"
-lastmod = "2016-11-02T13:20:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478092287888/2d5526_8a7c77c511dd47f1a7d01f0473c946b5~mv2.jpg.jpg"
-publishDate = "2016-11-02T13:12:00+00:00"
-slug = "giuseppe-vaccaro"
-title = "Giuseppe Vaccaro"
-website = "http://www.giuseppevaccaro.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/giuseppevaccaroconductor/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ppevaccaro"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCR07xtzwvGJc1WCmYM83SGw"
-+++
+---
+date: "2016-11-02T13:12:00+00:00"
+discipline: Conductor, pianist, composer
+lastmod: "2016-11-02T13:20:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478092287888/2d5526_8a7c77c511dd47f1a7d01f0473c946b5~mv2.jpg.jpg
+publishDate: "2016-11-02T13:12:00+00:00"
+slug: giuseppe-vaccaro
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/giuseppevaccaroconductor/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/ppevaccaro
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCR07xtzwvGJc1WCmYM83SGw
+title: Giuseppe Vaccaro
+website: http://www.giuseppevaccaro.com/
+---
 
 Diplomato in Pianoforte (con lode e menzione), Musica da Camera (con lode), Direzione d'Orchestra (con lode), Composizione (con ottimi voti) si è formato presso il conservatorio “V. Bellini” di Palermo per poi perfezionarsi a Parma presso il conservatorio “A. Boito”. I Docenti di riferimento per la sua formazione accademica sono stati: R.Plano e D. Sollima, per il repertorio solistico; P. Maurizzi per il repertorio cameristico; L. Tessadrelli, E. Ballio, A.M. Turcotte e S. Chinca per Contrappunto e Composizione; G. Damiani e L. Bonelli per la Lettura della Partitura; P. Veneri per la Direzione d'Orchestra. 
 

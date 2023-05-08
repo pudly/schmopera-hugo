@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-04-26T11:08:00-04:00"
-lastmod = "2015-04-26T12:50:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430063884629/IMG_20150426_115138.jpg.jpg"
-publishDate = "2015-04-26T12:45:00-04:00"
-related_articles = ["articles/metro-youth-operas-kate-applin-on-MYOBeaBen.md"]
-related_companies = ["scene/companies/myopera.md"]
-related_people = ["scene/people/simone-mcintosh.md","scene/people/asitha-tennekoon.md","scene/people/alison-wong.md","scene/people/kate-applin.md"]
-short_description = "Yesterday I went to hear Metro Youth Opera&#039;s production of Berlioz&#039; Béatrice &amp; Bénédict at Daniels Spectrum. I hadn&#039;t seen the opera before, and whenever I plan to see a piece for the first time, I rarely look up details like a plot synopsis. I&#039;m one of those people that thinks that opera fans should have the option of enjoying a piece without needing to do homework, and I was pleased that MYO&#039;s B&amp;B was clear and entertaining, language barriers (and Shakespeare) aside."
-slug = "in-review-beatrice-benedict-at-myo"
-title = "In review: Béatrice &amp; Bénédict at MYO"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-04-26T11:08:00-04:00"
+lastmod: "2015-04-26T12:50:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430063884629/IMG_20150426_115138.jpg.jpg
+publishDate: "2015-04-26T12:45:00-04:00"
+related_articles:
+- articles/metro-youth-operas-kate-applin-on-MYOBeaBen.md
+related_companies:
+- scene/companies/myopera.md
+related_people:
+- scene/people/simone-mcintosh.md
+- scene/people/asitha-tennekoon.md
+- scene/people/alison-wong.md
+- scene/people/kate-applin.md
+short_description: Yesterday I went to hear Metro Youth Opera&#039;s production of
+  Berlioz&#039; Béatrice &amp; Bénédict at Daniels Spectrum. I hadn&#039;t seen the
+  opera before, and whenever I plan to see a piece for the first time, I rarely look
+  up details like a plot synopsis. I&#039;m one of those people that thinks that opera
+  fans should have the option of enjoying a piece without needing to do homework,
+  and I was pleased that MYO&#039;s B&amp;B was clear and entertaining, language barriers
+  (and Shakespeare) aside.
+slug: in-review-beatrice-benedict-at-myo
+title: 'In review: Béatrice &amp; Bénédict at MYO'
+---
 
 Yesterday I went to hear [Metro Youth Opera](http://www.metroyouthopera.ca/)'s production of Berlioz' *Béatrice & Bénédict* at Daniels Spectrum. I hadn't seen the opera before, and whenever I plan to see a piece for the first time, I rarely look up details like a plot synopsis. I'm one of those people that thinks that opera fans should have the option of enjoying a piece without needing to do homework, and I was pleased that MYO's *B&B* was clear and entertaining, language barriers (and Shakespeare) aside.
 

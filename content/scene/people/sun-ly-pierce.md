@@ -1,14 +1,16 @@
-+++
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1636122334/media/2021/11/Sun-LyPierce_MicahGleason_ot8emc.jpg"
-primary_image_credit = "Micah Gleason."
-related_companies = ["scene/companies/des-moines-metro-opera.md", "scene/companies/houston-grand-opera.md"]
-slug = "sun-ly-pierce"
-social_media = []
-title = "Sun-Ly Pierce"
-website = "https://www.sunlypiercemezzo.com/"
-
-+++
+---
+_template: people_single
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1636122334/media/2021/11/Sun-LyPierce_MicahGleason_ot8emc.jpg
+primary_image_credit: Micah Gleason.
+related_companies:
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/houston-grand-opera.md
+slug: sun-ly-pierce
+social_media: []
+title: Sun-Ly Pierce
+website: https://www.sunlypiercemezzo.com/
+---
 Chinese-American mezzo-soprano Sun-Ly Pierce is quickly distinguishing herself as an exciting communicator and artist in the opera world.
 
 During the 2021-22 season, she will debut four new roles at Houston Grand Opera: Stéphano (_Roméo et Juliette_) directed by Tomer Zvulun; cover Blanche de la Force and sing Sister Mathilde (_Dialogues des Carmélites_) directed by Francesca Zambello and conducted by music director Patrick Summers; Second Lady (_Die Zauberflöte_) in the Barrie Kosky and Suzanne Andrade production under the baton of Jane Glover; and Mercédès (_Carmen_) led by Lidiya Yankovskaya. She will also debut at Des Moines Metro Opera as Second Lady in their production of _Die Zauberflöte_ conducted by Christopher Allen.

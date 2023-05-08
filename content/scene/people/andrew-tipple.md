@@ -1,13 +1,16 @@
-+++
-date = "2017-04-05T15:51:00+01:00"
-discipline = "Bass"
-lastmod = "2017-04-05T15:52:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491403837044/A%2520Tipple%25201.jpg.jpg"
-publishDate = "2017-04-05T15:52:00+01:00"
-related_companies = ["scene/companies/garsington-opera.md","scene/companies/popup-opera.md"]
-slug = "andrew-tipple"
-title = "Andrew Tipple"
-+++
+---
+_template: people_single
+date: "2017-04-05T15:51:00+01:00"
+discipline: Bass
+lastmod: "2017-04-05T15:52:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491403837044/A%2520Tipple%25201.jpg.jpg
+publishDate: "2017-04-05T15:52:00+01:00"
+related_companies:
+- scene/companies/garsington-opera.md
+- scene/companies/popup-opera.md
+slug: andrew-tipple
+title: Andrew Tipple
+---
 
 Andrew studied at the Royal Academy of Music and later the Royal Conservatoire of Scotland where he was a member of the Alexander Gibson Opera School, graduating in 2013. Whilst there he was the recipient of the ABRSM Scholarship.
 

@@ -1,17 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-09-24T13:46:00+01:00"
-lastmod = "2016-09-26T10:28:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474880178965/2016-09-25---Girls.jpg.jpg"
-primary_image_credit = "Photo: Pexels."
-publishDate = "2016-09-26T10:23:00+01:00"
-related_articles = ["articles/who-are-our-comprimarias-why-arent-they-funnier.md","articles/fachisms-stereotypes-for-a-reason.md","articles/dont-miss-everybodys-got-a-story.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md","scene/companies/mahogany-opera-group.md","scene/companies/indie-opera-to.md","scene/companies/cowtown-opera-company.md","scene/companies/stujess-productions.md","scene/companies/opera-da-camera.md"]
-short_description = "And what if they remain ignored? What if women never make up 50% of our conductor, choreographers, and General Directors? Does that mean that our artistic experiences have been, and will always be, limited? Are we missing out on masterpieces without more women calling the artistic shots? Are there certain avenues of the arts that women are simply less interested in pursuing, like technical direction or stage direction?"
-slug = "women-in-the-arts-is-it-our-turn-yet"
-title = "Women in the arts: is it our turn, yet?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-09-24T13:46:00+01:00"
+lastmod: "2016-09-26T10:28:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474880178965/2016-09-25---Girls.jpg.jpg
+primary_image_credit: 'Photo: Pexels.'
+publishDate: "2016-09-26T10:23:00+01:00"
+related_articles:
+- articles/who-are-our-comprimarias-why-arent-they-funnier.md
+- articles/fachisms-stereotypes-for-a-reason.md
+- articles/dont-miss-everybodys-got-a-story.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/royal-opera-house.md
+- scene/companies/mahogany-opera-group.md
+- scene/companies/indie-opera-to.md
+- scene/companies/cowtown-opera-company.md
+- scene/companies/stujess-productions.md
+- scene/companies/opera-da-camera.md
+short_description: And what if they remain ignored? What if women never make up 50%
+  of our conductor, choreographers, and General Directors? Does that mean that our
+  artistic experiences have been, and will always be, limited? Are we missing out
+  on masterpieces without more women calling the artistic shots? Are there certain
+  avenues of the arts that women are simply less interested in pursuing, like technical
+  direction or stage direction?
+slug: women-in-the-arts-is-it-our-turn-yet
+title: 'Women in the arts: is it our turn, yet?'
+---
 
 Last week we went to the [Advance Symposium](http://www.tonictheatre-advance.co.uk/) led by Lucy Kerbel of London's [Tonic Theatre](http://www.tonictheatre.co.uk/), where they and 9 other arts organizations presented [research on the topic of gender imbalances](http://www.tonictheatre-advance.co.uk/advance-2016/insights/) in theatre, dance, and opera.
 

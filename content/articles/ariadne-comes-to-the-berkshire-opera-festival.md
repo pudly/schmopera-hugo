@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-08-02T13:15:00-04:00"
-lastmod = "2017-08-08T14:48:00-04:00"
-preamble = "After their successful inaugural production of *Madama Butterfly* in 2016, the Massachusetts-based [Berkshire Opera Festival](/scene/companies/berkshire-opera-festival/) is gearing up for its second season, presenting Richard Strauss' [*Ariadne auf Naxos*](https://www.berkshireoperafestival.org/ariadne-auf-naxos), **August 26, 29, & September 1** at The Colonial Theatre. Staged by General Director Jonathon Loy and conducted by Artistic Director Brian Garman, BOF welcomes soprano Marcy Stonikas as Ariadne, tenor Kevin Ray as Bacchus, and soprano Nicole Haslett as Zerbinetta.\n\nWe spoke with Garman and Loy about what it's like to run an opera company in its early stages, and the fun of taking a step outside the operatic \"top 10\" with their second season.\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501694257283/2017-08-02---Ariadne-Set-design---opera.jpg.jpg"
-primary_image_credit = "Scenic design by Stephen Dobay, for Ariadne auf Naxos at Berkshire Opera Festival, 2017."
-publishDate = "2017-08-08T11:23:00-04:00"
-related_companies = ["scene/companies/berkshire-opera-festival.md"]
-short_description = "&quot;I anticipate that with the Berkshire Opera Festival staff and the talent we bring in, artists and designers, that we will have similar if not greater success than last year. In addition, producing a lesser-know piece like Ariadne doesn’t worry us because the Berkshire audience is a sophisticated one. They do not need to recognize a name in order to attend a show. Exploring the entire operatic repertoire is a part of the Berkshire Opera Festival mission.&quot;"
-slug = "ariadne-comes-to-the-berkshire-opera-festival"
-title = "Ariadne comes to the Berkshire Opera Festival"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-08-02T13:15:00-04:00"
+lastmod: "2017-08-08T14:48:00-04:00"
+preamble: |
+  After their successful inaugural production of *Madama Butterfly* in 2016, the Massachusetts-based [Berkshire Opera Festival](/scene/companies/berkshire-opera-festival/) is gearing up for its second season, presenting Richard Strauss' [*Ariadne auf Naxos*](https://www.berkshireoperafestival.org/ariadne-auf-naxos), **August 26, 29, & September 1** at The Colonial Theatre. Staged by General Director Jonathon Loy and conducted by Artistic Director Brian Garman, BOF welcomes soprano Marcy Stonikas as Ariadne, tenor Kevin Ray as Bacchus, and soprano Nicole Haslett as Zerbinetta.
+
+  We spoke with Garman and Loy about what it's like to run an opera company in its early stages, and the fun of taking a step outside the operatic "top 10" with their second season.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501694257283/2017-08-02---Ariadne-Set-design---opera.jpg.jpg
+primary_image_credit: Scenic design by Stephen Dobay, for Ariadne auf Naxos at Berkshire
+  Opera Festival, 2017.
+publishDate: "2017-08-08T11:23:00-04:00"
+related_companies:
+- scene/companies/berkshire-opera-festival.md
+short_description: '&quot;I anticipate that with the Berkshire Opera Festival staff
+  and the talent we bring in, artists and designers, that we will have similar if
+  not greater success than last year. In addition, producing a lesser-know piece like
+  Ariadne doesn’t worry us because the Berkshire audience is a sophisticated one.
+  They do not need to recognize a name in order to attend a show. Exploring the entire
+  operatic repertoire is a part of the Berkshire Opera Festival mission.&quot;'
+slug: ariadne-comes-to-the-berkshire-opera-festival
+title: Ariadne comes to the Berkshire Opera Festival
+---
 
 ## What advice do you have for artists who are interested in starting their own opera company?
 
@@ -23,7 +34,7 @@ title = "Ariadne comes to the Berkshire Opera Festival"
 
 **JL**: I anticipate that with the Berkshire Opera Festival staff and the talent we bring in, artists and designers, that we will have similar if not greater success than last year.  In addition, producing a lesser-know piece like *Ariadne* doesn’t worry us because the Berkshire audience is a sophisticated one.  They do not need to recognize a name in order to attend a show.  Exploring the entire operatic repertoire is a part of the Berkshire Opera Festival mission.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502207025082/2017-08-08---BOF-team.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502207025082/2017-08-08---BOF-team.jpg.jpg)
 <figcaption>(l-r) Berkshire Opera Festival's Brian Garman, Artistic Director, and Jonathan Loy, General Director.</figcaption>
 </figure>
 

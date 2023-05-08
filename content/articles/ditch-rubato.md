@@ -1,20 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2017-09-29T11:39:00-04:00"
-lastmod = "2017-09-29T21:50:00-04:00"
-preamble = "What would opera singers be without their stretchy, malleable tempos? More specifically, where would they be without the unwritten rules - \"performance practice\", they're often called - about when you simply **must** take some extra time? Opera is no place for heartless clockwork; but when it comes to mastering operatic skills, sometimes being a cold metronome is a clarifying experiment.\n\nWe've picked three examples of places where ignoring tradition (and many recordings) can help you see the forest for the trees:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506702339440/2017-09-29---Clock.jpg.jpg"
-publishDate = "2017-09-29T21:33:00-04:00"
-related_articles = ["articles/the-practice-tip-you-dont-want-to-hear.md","articles/surprising-practice-tips-4-arias-to-try-too-fast.md"]
-short_description = "What would opera singers be without their stretchy, malleable tempos? More specifically, where would they be without the unwritten rules - &quot;performance practice&quot;, they&#039;re often called - about when you simply must take some extra time? Opera is no place for heartless clockwork; but when it comes to mastering operatic skills, sometimes being a cold metronome is a clarifying experiment."
-slug = "ditch-rubato"
-title = "Tick tock, singers! 3 spots to ditch the rubato (for now)"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2017-09-29T11:39:00-04:00"
+lastmod: "2017-09-29T21:50:00-04:00"
+preamble: |-
+  What would opera singers be without their stretchy, malleable tempos? More specifically, where would they be without the unwritten rules - "performance practice", they're often called - about when you simply **must** take some extra time? Opera is no place for heartless clockwork; but when it comes to mastering operatic skills, sometimes being a cold metronome is a clarifying experiment.
+
+  We've picked three examples of places where ignoring tradition (and many recordings) can help you see the forest for the trees:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506702339440/2017-09-29---Clock.jpg.jpg
+publishDate: "2017-09-29T21:33:00-04:00"
+related_articles:
+- articles/the-practice-tip-you-dont-want-to-hear.md
+- articles/surprising-practice-tips-4-arias-to-try-too-fast.md
+short_description: What would opera singers be without their stretchy, malleable tempos?
+  More specifically, where would they be without the unwritten rules - &quot;performance
+  practice&quot;, they&#039;re often called - about when you simply must take some
+  extra time? Opera is no place for heartless clockwork; but when it comes to mastering
+  operatic skills, sometimes being a cold metronome is a clarifying experiment.
+slug: ditch-rubato
+title: Tick tock, singers! 3 spots to ditch the rubato (for now)
+---
 
 ## The mini-cadenza in "Caro nome"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506702119015/2017-09-29---Caro-Nome.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506702119015/2017-09-29---Caro-Nome.jpg.jpg)
 </figure>
 
 This aria from *Rigoletto* contains one of the most common unwritten rules in operatic repertoire: thou shalt make a gloriously stretchy moment out of the trip from the A-sharp up to that sexy C-natural, and then slide back into tempo. Some sopranos even grab an extra bit of time in the last note of the bar, hanging on to the first syllable of "sarà!"
@@ -25,7 +37,9 @@ The thing about stretching the tempo, though, is that there has to be a tempo in
 
 ## Those high notes in "O mio babbino caro"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506702126833/2017-09-29---Babbino.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506702126833/2017-09-29---Babbino.jpg.jpg)
 </figure>
 
 It's almost a crime to sing this aria from *Gianni Schicchi* without some extra hang time on the high A-flat at the end of this first line. It's the beginning of a trend of milking high A-flats throughout this aria, all of which add up to Lauretta's beautiful - if a bit whiny - pleading with her father to let her marry the guy she loves. 
@@ -36,7 +50,9 @@ While this aria is still fresh, resist the urge to habitually add extra time on 
 
 ## *That moment* in "Vainement, ma bien aimée"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506702132491/2017-09-29---Vainement.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506702132491/2017-09-29---Vainement.jpg.jpg)
 </figure>
 
 There's a glaring difference in this example from Lalo's *Le roi d'Ys*: here, there's actually a *rallentando* marked in the score. So, if you have permission from the composer to slow down and enjoy yourself, why be a masochist who makes an exercise out of speeding through the bar as though there's no change in tempo?

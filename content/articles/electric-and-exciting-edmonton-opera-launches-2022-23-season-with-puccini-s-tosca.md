@@ -1,22 +1,38 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Review"
-date = 2022-10-24T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "For more information, please visit the [Edmonton Opera website](https://www.edmontonopera.com/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666614289/media/2022/10/sqEO_01-Tosca_Karen_Slack_and_Cavaradossi_David_Pomeroy_Photo_by_Nanc_Price_bxjauz.jpg"
-primary_image_credit = "Karen Slack (Tosca) and David Pomeroy (Cavaradossi) in Edmonton Opera's production of Puccini's Tosca, 2022. Photo: Nanc Price."
-related_articles = []
-related_companies = ["scene/companies/edmonton-opera.md"]
-related_people = ["scene/people/etta-fung.md", "scene/people/joel-ivany.md", "scene/people/adrianne-pieczonka.md", "scene/people/vartan-gabrielian.md", "scene/people/lauren-margison.md", "scene/people/siman-chung.md", "scene/people/sharleen-joynt.md", "scene/people/mireille-asselin.md", "scene/people/david-pomeroy.md", "scene/people/peter-barrett.md", "scene/people/karen-slack.md"]
-short_description = "On October 22, Edmonton Opera launched what it describes as an “electric and exciting” 2022-23 season with one of Giacomo Puccini’s well-known dramas: Tosca. "
-slug = "electric-exciting-edmonton-opera-launches-2022-23-season-with-puccinis-tosca"
-title = "“Electric and exciting”: Edmonton Opera launches 2022-23 season with Puccini’s Tosca"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Review
+date: "2022-10-24T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: For more information, please visit the [Edmonton Opera website](https://www.edmontonopera.com/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1666614289/media/2022/10/sqEO_01-Tosca_Karen_Slack_and_Cavaradossi_David_Pomeroy_Photo_by_Nanc_Price_bxjauz.jpg
+primary_image_credit: 'Karen Slack (Tosca) and David Pomeroy (Cavaradossi) in Edmonton
+  Opera''s production of Puccini''s Tosca, 2022. Photo: Nanc Price.'
+related_articles: []
+related_companies:
+- scene/companies/edmonton-opera.md
+related_people:
+- scene/people/etta-fung.md
+- scene/people/joel-ivany.md
+- scene/people/adrianne-pieczonka.md
+- scene/people/vartan-gabrielian.md
+- scene/people/lauren-margison.md
+- scene/people/siman-chung.md
+- scene/people/sharleen-joynt.md
+- scene/people/mireille-asselin.md
+- scene/people/david-pomeroy.md
+- scene/people/peter-barrett.md
+- scene/people/karen-slack.md
+short_description: 'On October 22, Edmonton Opera launched what it describes as an
+  “electric and exciting” 2022-23 season with one of Giacomo Puccini’s well-known
+  dramas: Tosca. '
+slug: electric-exciting-edmonton-opera-launches-2022-23-season-with-puccinis-tosca
+title: '“Electric and exciting”: Edmonton Opera launches 2022-23 season with Puccini’s
+  Tosca'
+youtube_url: ""
+---
 On October 22, Edmonton Opera launched what it describes as an “electric and exciting” 2022-23 season with one of Giacomo Puccini’s well-known dramas: _Tosca_.
 
 “Grand opera is back,” says Joel Ivany, Artistic Director of Edmonton Opera. "It's important to remind our core patrons that these big operas mean a lot to a certain group of people. And for those who don’t know these big operas, this is a wonderful introduction to what this multicultural artform is."
@@ -25,14 +41,18 @@ Starring as Tosca is American soprano [Karen Slack](/scene/people/karen-slack/) 
 
 On opening night, Slack carried herself with the right mix of grace and fire befitting one of opera's great diva roles. Blessed with luscious vibrant tones that reverberated through the auditorium, Slack embodied everything from deep passion for her beloved Cavaradossi, to desperation as Scarpia manipulates her into submission. Her performance of the famed Act II aria "Vissi d’arte" (in which her character reflects on her fate, how the life of Cavaradossi is at the mercy of Scarpia and why God has seemingly abandoned her) is heartachingly beautiful and a highlight of the evening.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666614484/media/2022/10/EO_02-Tosca_Karen_Slack_Photo_by_Nanc_Price_xf43nx.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666614484/media/2022/10/EO_02-Tosca_Karen_Slack_Photo_by_Nanc_Price_xf43nx.jpg)
 
 <figcaption>Karen Slack in the title role of Edmonton Opera's production of Puccini's Tosca, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
 
 In his role debut as Baron Scarpia, baritone [Peter Barrett](/scene/people/peter-barrett/) turns in a performance to be celebrated. Last seen by Edmonton Opera audiences as Marcello in the February 2022 production of Puccini's _La bohème_, Barrett demonstrates both vocal and acting versatility as the antagonistic chief of police. From his first appearance on stage, Barrett commands attention with a swagger and authoritative presence, and backs it up with vocals that make you sit up in your seat with interest. The role of Scarpia demands a performer of substantive ability, especially in Act Two when the character imprisons and tortures Cavaradossi and manipulates Tosca for his own sadistic means. Barrett’s interpretation and delivery of Scarpia is truly substantive and is a role debut to be remembered.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666614598/media/2022/10/EO_03-Scarpia_Peter_Barrett_Photo_by_Nanc_Price_vhynmo.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666614598/media/2022/10/EO_03-Scarpia_Peter_Barrett_Photo_by_Nanc_Price_vhynmo.jpg)
 
 <figcaption>Peter Barrett as Baron Scarpia in Edmonton Opera's production of Puccini's Tosca, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
@@ -41,7 +61,9 @@ The cast of supporting characters should be commended for making the most of the
 
 The work of Intimacy Coordinator Janine Waddell and Lighting Designer Jason Hand deserve special attention. Waddell's work in Act Two, in which Scarpia and his henchmen interact with increased violence toward both Cavaradossi and Tosca, is especially effective. Scarpia's advances on Tosca were especially menacing and spine tingling. And in some expert lighting on the "Vissi d'arte" aria, Tosca sings in a spotlight while the shadow of Scarpia looms on the wall behind her, which underscores the desperate situation about which she sings.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666614637/media/2022/10/EO_04-Tosca_Karen_Slack_Photo_by_Nanc_Price_fasfss.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666614637/media/2022/10/EO_04-Tosca_Karen_Slack_Photo_by_Nanc_Price_fasfss.jpg)
 
 <figcaption>Karen Slack in the title role of Edmonton Opera's production of Puccini's Tosca, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
@@ -52,7 +74,9 @@ The Edmonton Opera chorus, expertly prepared by Chorusmaster Shannon Hiebert, pe
 
 The night, however, belonged to tenor [David Pomeroy](/scene/people/david-pomeroy/) as the painter Mario Cavaradossi. Pomeroy has a voice that fills this hall with vibrancy and life — even when he is being tortured off stage. Edmonton Opera audiences celebrated him as Prince Calaf in the 2017 performance of _Turandot_ and were treated again to a masterful nuanced performance in _Tosca_. His on-stage chemistry with Slack is authentic while his singing is simply world-class. His rendition of the famous aria "E lucevan le stelle", which he sings as he awaits his execution, was a true highlight on this night. With such ease and fullness in his voice, especially in its higher register, Pomeroy thrills the audience with a commanding performance.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666614655/media/2022/10/EO_05-Cavaradossi_David_Pomeroy_and_the_Sacristan_Jin_Yu_Photo_by_Nanc_Price_fas5fg.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666614655/media/2022/10/EO_05-Cavaradossi_David_Pomeroy_and_the_Sacristan_Jin_Yu_Photo_by_Nanc_Price_fas5fg.jpg)
 
 <figcaption>David Pomeroy (Cavaradossi) and Jin Yu (Sacristan, right) in Edmonton Opera's production of Puccini's Tosca, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
@@ -71,7 +95,9 @@ As part of making this production "brand new", Ivany says this production of _Or
 
 Edmonton Opera’s production of _Orphée+_ will open January 28, with additional performances on January 31 and February 3. The production stars South Korean countertenor [Siman Chung](/scene/people/siman-chung/) as Orphée, Ottawa-born soprano [Sharleen Joynt](/scene/people/sharleen-joynt/) as Eurydice, and Etta Fung as Amour. The production, to be sung in French with English subtitles, will be conducted by Sandra Horst and directed by Ivany.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666561476/media/2022/10/EO_Orphee_f51ymt.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666561476/media/2022/10/EO_Orphee_f51ymt.jpg)
 
 <figcaption>Siman Chung, Sharleen Joynt and Etta Fung star in EO’s production of Gluck’s Orphée+.</figcaption>  
 </figure>
@@ -90,7 +116,9 @@ The production stars soprano [Mireille Asselin](/scene/people/mireille-asselin/)
 
 Edmonton Opera's production of Pergolesi's _Stabat Mater_ will open March 30 and has three subsequent performances on March 31 and April 1, including a matinee (note: the performances on March 31 and the evening of April 1 are reportedly sold out). It will be directed by Jennifer Tarver.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666561373/media/2022/10/EO_StabatMater_ejzowq.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666561373/media/2022/10/EO_StabatMater_ejzowq.jpg)
 
 <figcaption>Mireille Asselin and Magid El-Bushra star in EO’s production of Pergolesi’s Stabat Mater.</figcaption>  
 </figure>
@@ -103,6 +131,8 @@ In addition to a full season on the mainstage, Edmonton Opera launches its inaug
 
 This year’s finalists for the first-ever Rumbold Vocal Prize include Lauren Margison (soprano), Vartan Gabrielian (bass-baritone), Madison Montambault (mezzo soprano), and Spencer Britten (tenor). On October 29, the finalists will participate in a masterclass by renowned Canadian soprano Adrianne Pieczonka and a recital at the Northern Alberta Jubilee Auditorium. Judges for this year’s competition include Karen Slack (star of EO’s production of _Tosca_), Simon Rivard (conductor for EO’s production of Tosca) and Shannon Hiebert (EO Chorusmaster).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1666561645/media/2022/10/EO22-23_banner_website_Full_Season_Narrow_alvh9o.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1666561645/media/2022/10/EO22-23_banner_website_Full_Season_Narrow_alvh9o.jpg)
 
 </figure>

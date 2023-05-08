@@ -1,26 +1,26 @@
-+++
-date = "2019-01-20T20:09:54+00:00"
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548014703/media/2019/01/MichelleTrainor.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/odyssey-opera.md", "scene/companies/boston-lyric-opera.md"]
-slug = "michelle-trainor"
-title = "Michelle Trainor"
-website = "https://michelletrainor.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Sopranomichelletrainor/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Mtrainor76"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/opera76/"
-
-+++
+---
+date: "2019-01-20T20:09:54+00:00"
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548014703/media/2019/01/MichelleTrainor.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/odyssey-opera.md
+- scene/companies/boston-lyric-opera.md
+slug: michelle-trainor
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Sopranomichelletrainor/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/Mtrainor76
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/opera76/
+title: Michelle Trainor
+website: https://michelletrainor.com/
+---
 Opera News hailed that "Michelle Trainor gave one of the most satisfying performances of the evening...her voice is richer and more expressive than ever" for her portrayal of Brangain in Boston Lyric Opera’s _The Love Potion_. The Musical Intelligencer has called her performance of _Hagar’s Lament_ "spell-binding and intense" and The Wall Street Journal acclaimed that she "displayed a powerful, penetrating soprano as Brangain." Michelle performed with the Tuscia Opera Festival in Viterbo, Italy where she was praised by Filippo Tadonlini for her "intense and full-bodied vocalism". 
 
 This season will be bringing many debut roles for Ms. Trainor. The season begins with the role of Benoni in Gounod’s lesser known work, _La Reine de Saba_ with Odyssey Opera followed by the role of Berta in Rossini’s _The Barber of Seville_ with Boston Lyric Opera. She makes her debut with Michigan Opera Theatre as Berta in their production of _The Barber of Seville_ directed by Christopher Mattaliano and will be making her debut with Boston Modern Orchestra Project in their performance of _Haroun and the Sea of Stories_ singing the roles Oneeta/Princess/Batcheat. In the spring she will be singing the role of Ofglen in Ruder’s _The Handmaid’s Tale_ directed by Anne Bogart with Boston Lyric Opera and is excited to revisit the character Mrs. Peachum, in Britten’s, _The Beggar’s Opera_ with Emmanuel Music. 

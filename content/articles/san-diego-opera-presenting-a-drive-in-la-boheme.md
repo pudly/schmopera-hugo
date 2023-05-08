@@ -1,27 +1,41 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = 2020-10-08T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1602026180/media/2020/10/sqSDOBoheme_ou64lz.jpg"
-primary_image_credit = "La bohème is part of San Diego Opera's 2020-2021 Season. Photo by Yves Renaud, courtesy of Opéra de Montréal."
-related_articles = ["articles/aging-magician.md", "articles/talking-with-singers-stephen-costello.md", "articles/talking-with-singers-frederica-von-stade.md"]
-related_companies = ["scene/companies/san-diego-opera.md"]
-related_people = ["scene/people/keturah-stickann.md", "scene/people/ana-maria-martinez.md", "scene/people/joshua-guerrero.md"]
-short_description = "“It's going to be like a torpedo of Mimì and Rodolfo's emotional trajectory. There's no pause to reflect. It's going to go straight through from the moment they meet until the end. As a director that's very exciting. It makes us shine a light on some of the emotional aspects that sometimes get glossed over,\" she adds. "
-slug = "san-diego-operas-drive-in-la-boheme-a-step-forward"
-title = "San Diego Opera's drive-in La bohème a step forward"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/eva-cahen.md
+categories: Interview
+date: "2020-10-08T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1602026180/media/2020/10/sqSDOBoheme_ou64lz.jpg
+primary_image_credit: La bohème is part of San Diego Opera's 2020-2021 Season. Photo
+  by Yves Renaud, courtesy of Opéra de Montréal.
+related_articles:
+- articles/aging-magician.md
+- articles/talking-with-singers-stephen-costello.md
+- articles/talking-with-singers-frederica-von-stade.md
+related_companies:
+- scene/companies/san-diego-opera.md
+related_people:
+- scene/people/keturah-stickann.md
+- scene/people/ana-maria-martinez.md
+- scene/people/joshua-guerrero.md
+short_description: '“It''s going to be like a torpedo of Mimì and Rodolfo''s emotional
+  trajectory. There''s no pause to reflect. It''s going to go straight through from
+  the moment they meet until the end. As a director that''s very exciting. It makes
+  us shine a light on some of the emotional aspects that sometimes get glossed over,"
+  she adds. '
+slug: san-diego-operas-drive-in-la-boheme-a-step-forward
+title: San Diego Opera's drive-in La bohème a step forward
+youtube_url: ""
+---
 "I'm really grateful that San Diego Opera has had the courage to move forward with this," says tenor [Joshua Guerrero](/autobiographical-recitals-joshua-guerrero-in-the-amphitheatre/) about the company's upcoming [presentation of _La bohème_](https://www.sdopera.org/season/2020-2021-season/la-boheme), opening October 24, with additional performances October 27, 30, and November 1, 2020. This production of Puccini's opera will stand out for many reasons, not least for its star singers, [Ana María Martínez](/scene/people/ana-maria-martinez/) as Mimì, and Guerrero, as Rodolfo, but also because it will be presented in a parking lot, as a drive-in.
 
 "I believe wholeheartedly that as a community, this is what people need. People need an excuse to go out, people need again some sort of normalcy in their life. Even if we can't get back to the theater, at least we’re paying homage to it by way of performance and while it will be in a car and outside, people will get that sensation and that connection that they were longing for," Guerrero says.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1602025995/media/2020/10/SDOGuerreroMartinez_caahaa.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1602025995/media/2020/10/SDOGuerreroMartinez_caahaa.jpg)
 
 <figcaption>Ana María Martínez (left) and Joshua Guerrero, singing Mimì and Rodolfo in San Diego Opera's 2020 production of La bohème.</figcaption>
 
@@ -37,7 +51,9 @@ The duration of the production will be 90 minutes, with no intermissions, no cho
 
 "It's going to be like a torpedo of Mimì and Rodolfo's emotional trajectory. There's no pause to reflect. It's going to go straight through from the moment they meet until the end. As a director that's very exciting. It makes us shine a light on some of the emotional aspects that sometimes get glossed over," she adds.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601747754/media/2020/10/SDOBoheme1_i7kymz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1601747754/media/2020/10/SDOBoheme1_i7kymz.jpg)
 
 <figcaption>La bohème is part of San Diego Opera's 2020-2021 Season. Photo by Yves Renaud, Courtesy of Opéra de Montréal.</figcaption>
 

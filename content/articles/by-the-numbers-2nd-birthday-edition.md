@@ -1,16 +1,21 @@
-+++
-author = ["authors/drej.md"]
-categories = "Meta"
-date = "2016-01-02T21:44:00-05:00"
-lastmod = "2016-01-03T11:24:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451798998521/by-the-numbers.jpg.jpg"
-publishDate = "2016-01-02T21:44:00-05:00"
-related_articles = ["articles/schmopera-is-two.md", "articles/schmopera-is-one.md"]
-short_description = "Meet Andrej, our co-founder and brain behind all things technical here at Schmopera. Since we&#039;re kicking off our third year in operation, and Schmopera has grown from a blog into a brand, we figured it was a good time for Andrej to fill you in on the technical happenings from behind-the-scenes."
-slug = "by-the-numbers-2nd-birthday-edition"
-title = "By the Numbers: 2nd birthday edition"
-
-+++
+---
+author:
+- authors/drej.md
+categories: Meta
+date: "2016-01-02T21:44:00-05:00"
+lastmod: "2016-01-03T11:24:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451798998521/by-the-numbers.jpg.jpg
+publishDate: "2016-01-02T21:44:00-05:00"
+related_articles:
+- articles/schmopera-is-two.md
+- articles/schmopera-is-one.md
+short_description: Meet Andrej, our co-founder and brain behind all things technical
+  here at Schmopera. Since we&#039;re kicking off our third year in operation, and
+  Schmopera has grown from a blog into a brand, we figured it was a good time for
+  Andrej to fill you in on the technical happenings from behind-the-scenes.
+slug: by-the-numbers-2nd-birthday-edition
+title: 'By the Numbers: 2nd birthday edition'
+---
 ## Hi Everyone!
 
 Just about two years ago now, [Jenna](http://twitter.com/jennamariepiano) and [myself](http://twitter.com/dr_drej) launched this crazy journey and semi-corporial entity named Schmopera. It has been incredibly exciting to watch its growth over the last two years, and I wanted to take an opportunity to poke my head from the woodworks and share a little bit of what we've been able to accomplish over the last seven hundred and thirty days or so...

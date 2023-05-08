@@ -1,22 +1,25 @@
-+++
-date = "2015-06-27T10:40:00-06:00"
-email = "sing@edwardatkinson.com"
-lastmod = "2015-06-27T10:40:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435423090475/EAtkinsonHS-9_BW.jpg.jpg"
-publishDate = "2015-06-27T10:40:00-06:00"
-short_bio = "Edward Atkinson, tenor, is a native of New Brunswick, Canada. In 2010, he completed his Bachelor’s of Music in Organ Performance at the Townsend School of Music at Mercer University in Georgia. He is currently pursuing a Performer&#039;s Diploma and Master’s degree at the Jacobs School of Music, under the tutelage of Patricia Havranek. His past voice teachers include Virginia Zeani and Timothy Noble."
-slug = "edward-atkinson"
-title = "Edward Atkinson"
-website = "http://www.edwardatkinson.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "http://www.facebook.com/edwardatkinson"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "http://www.twitter.com/edwardatkinson"
-+++
+---
+date: "2015-06-27T10:40:00-06:00"
+email: sing@edwardatkinson.com
+lastmod: "2015-06-27T10:40:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435423090475/EAtkinsonHS-9_BW.jpg.jpg
+publishDate: "2015-06-27T10:40:00-06:00"
+short_bio: Edward Atkinson, tenor, is a native of New Brunswick, Canada. In 2010,
+  he completed his Bachelor’s of Music in Organ Performance at the Townsend School
+  of Music at Mercer University in Georgia. He is currently pursuing a Performer&#039;s
+  Diploma and Master’s degree at the Jacobs School of Music, under the tutelage of
+  Patricia Havranek. His past voice teachers include Virginia Zeani and Timothy Noble.
+slug: edward-atkinson
+social_media:
+- platform: Facebook
+  template: social-media
+  url: http://www.facebook.com/edwardatkinson
+- platform: Twitter
+  template: social-media
+  url: http://www.twitter.com/edwardatkinson
+title: Edward Atkinson
+website: http://www.edwardatkinson.com/
+---
 
 Edward Atkinson, tenor, is a native of New Brunswick, Canada. In 2010, he completed his Bachelor’s of Music in Organ Performance at the Townsend School of Music at Mercer University in Georgia. He is currently pursuing a Performer's Diploma and Master’s degree at the Jacobs School of Music, under the tutelage of Patricia Havranek. His past voice teachers include Virginia Zeani and Timothy Noble.
 

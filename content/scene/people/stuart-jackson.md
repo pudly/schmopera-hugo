@@ -1,15 +1,18 @@
-+++
-date = "2016-04-29T13:38:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-04-29T13:38:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461933393878/2016-04-29---Stuart-Jackson.jpg.jpg"
-primary_image_credit = "Martin Sigmund "
-publishDate = "2016-04-29T13:38:00+01:00"
-related_companies = ["scene/companies/classical-opera.md","scene/companies/glyndebourne.md"]
-slug = "stuart-jackson"
-title = "Stuart Jackson"
-website = "http://www.stuartjacksontenor.com/"
-+++
+---
+_template: people_single
+date: "2016-04-29T13:38:00+01:00"
+discipline: Tenor
+lastmod: "2016-04-29T13:38:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461933393878/2016-04-29---Stuart-Jackson.jpg.jpg
+primary_image_credit: 'Martin Sigmund '
+publishDate: "2016-04-29T13:38:00+01:00"
+related_companies:
+- scene/companies/classical-opera.md
+- scene/companies/glyndebourne.md
+slug: stuart-jackson
+title: Stuart Jackson
+website: http://www.stuartjacksontenor.com/
+---
 
 Stuart was a choral scholar at Christ Church, Oxford, studying Biological Sciences, before completing his training at the Royal Academy of Music in 2013 where he studied with Ryland Davies.
 

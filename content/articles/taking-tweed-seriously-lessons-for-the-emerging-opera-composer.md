@@ -1,17 +1,28 @@
-+++
-author = ["authors/frank-pesci.md"]
-categories = "Op-ed"
-date = "2017-06-25T09:43:00-06:00"
-lastmod = "2017-06-25T22:44:00-06:00"
-preamble = "This is the second in a series of essays by composer and guest contributor Frank Pesci. In four installments originally published on [New Music Box](http://www.newmusicbox.org/articles/author/frank-pesci/), Pesci recounts his participation in Fort Worth Opera's [Frontiers](http://www.fwopera.org/operas/frontiers/) showcase, a major opportunity for emerging American composers. "
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498406034583/2017-06-24---Pitch.jpg.jpg"
-publishDate = "2017-06-25T22:05:00-06:00"
-related_articles = ["articles/preparing-for-performance-what-i-didnt-know-i-knew.md"]
-related_companies = ["scene/companies/fort-worth-opera.md"]
-short_description = "I could easily represent myself as a safe choice, saying, in effect, &quot;I&#039;m not going to be a problem for you. I’m not one of those crazy egocentric composers who is going to make ridiculous demands and make you sorry you wanted to work with me.&quot; I can assuage these preconceptions with a picture that pretty much sums me up: &quot;I&#039;m normal!  I&#039;m a nice guy! I&#039;m wearing tweed, for God&#039;s sake!&quot;"
-slug = "taking-tweed-seriously-lessons-for-the-emerging-opera-composer"
-title = "Taking tweed seriously: lessons for the emerging opera composer"
-+++
+---
+author:
+- authors/frank-pesci.md
+categories: Op-ed
+date: "2017-06-25T09:43:00-06:00"
+lastmod: "2017-06-25T22:44:00-06:00"
+preamble: 'This is the second in a series of essays by composer and guest contributor
+  Frank Pesci. In four installments originally published on [New Music Box](http://www.newmusicbox.org/articles/author/frank-pesci/),
+  Pesci recounts his participation in Fort Worth Opera''s [Frontiers](http://www.fwopera.org/operas/frontiers/)
+  showcase, a major opportunity for emerging American composers. '
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498406034583/2017-06-24---Pitch.jpg.jpg
+publishDate: "2017-06-25T22:05:00-06:00"
+related_articles:
+- articles/preparing-for-performance-what-i-didnt-know-i-knew.md
+related_companies:
+- scene/companies/fort-worth-opera.md
+short_description: 'I could easily represent myself as a safe choice, saying, in effect,
+  &quot;I&#039;m not going to be a problem for you. I’m not one of those crazy egocentric
+  composers who is going to make ridiculous demands and make you sorry you wanted
+  to work with me.&quot; I can assuage these preconceptions with a picture that pretty
+  much sums me up: &quot;I&#039;m normal!  I&#039;m a nice guy! I&#039;m wearing tweed,
+  for God&#039;s sake!&quot;'
+slug: taking-tweed-seriously-lessons-for-the-emerging-opera-composer
+title: 'Taking tweed seriously: lessons for the emerging opera composer'
+---
 
 "I am becoming a better opera composer" is my brand, to borrow a word from the marketing world. When I was in non-profit administration, we would talk about this quite a bit. We were trying to distill our "soul" — what drove us, as an organization, to do what we did — and then make that into something recognizable to the public that we could, in turn, utilize at fundraising time.  While not my favorite term, The Brand provides a compass, an overarching explanation as to why I make my decisions regarding my work and how I advance plans that will hopefully lead to collaboration. Just saying it — identifying The Brand — doesn't necessarily translate into anybody buying what I am selling, but it does remind me of my true north.
 
@@ -27,7 +38,9 @@ In my admin days, the "brand" discussion was always followed by the obsessive fo
 
 The same thinking applies when prepping myself to pitch completed, current, and dreamed - about opera projects. With these pitches, I throw things against the wall in hopes that either they will stick or result in a "positive rejection" (a pass on the project at hand, but an expressed interest in a potential future collaboration).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498405930561/PesciInTweeds.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498405930561/PesciInTweeds.jpg.jpg)
 <figcaption>Frank Pesci in a tweed jacket inside Bass Hall for a performance by the Ft. Worth Opera.</figcaption>
 </figure>
 

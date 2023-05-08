@@ -1,22 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-03-08T01:38:59+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "For a full line-up of events at the 2019 New Generation Festival, [visit their website](https://www.newgenerationfestival.org/en/2019)."
-preamble = "Happening in the Gardens of the Palazzo Corsini in Florence, the New Generation Festival is an annual festival that celebrates young and emerging artists in everything from opera to jazz. Kicking off the 2019 Festival, which runs August 28-31, is a proper classic: Mozart's _Le nozze di Figaro_.\n\nSouth African stage director Victoria Stevens is set to span centuries with her _Figaro_, placing Mozart's Classical opera in the late baroque Palazzo Corsini, and adding technological surprises of the 21st century.\n\nWe spoke with Stevens about her place in this year's New Generation Festival, and her lofty plans for her free time in Florence."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552009616/media/2019/03/sqVictoriaStevens.jpg"
-primary_image_credit = "Victoria Stevens, stage director."
-related_articles = ["articles/how-lucky-are-we-the-children-of-opera.md", "articles/talking-with-directors-jennifer-williams.md"]
-related_companies = []
-related_people = []
-short_description = "\"I am also excited to have a predominantly female production team around me, made up of inspiring women with strong ideas and the conviction to realise them.\""
-slug = "a-figaro-for-a-new-generation-victoria-stevens"
-title = "A Figaro for a New Generation: Victoria Stevens"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-03-08T01:38:59+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: For a full line-up of events at the 2019 New Generation Festival, [visit
+  their website](https://www.newgenerationfestival.org/en/2019).
+preamble: |-
+  Happening in the Gardens of the Palazzo Corsini in Florence, the New Generation Festival is an annual festival that celebrates young and emerging artists in everything from opera to jazz. Kicking off the 2019 Festival, which runs August 28-31, is a proper classic: Mozart's _Le nozze di Figaro_.
 
-+++
+  South African stage director Victoria Stevens is set to span centuries with her _Figaro_, placing Mozart's Classical opera in the late baroque Palazzo Corsini, and adding technological surprises of the 21st century.
+
+  We spoke with Stevens about her place in this year's New Generation Festival, and her lofty plans for her free time in Florence.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1552009616/media/2019/03/sqVictoriaStevens.jpg
+primary_image_credit: Victoria Stevens, stage director.
+related_articles:
+- articles/how-lucky-are-we-the-children-of-opera.md
+- articles/talking-with-directors-jennifer-williams.md
+related_companies: []
+related_people: []
+short_description: '"I am also excited to have a predominantly female production team
+  around me, made up of inspiring women with strong ideas and the conviction to realise
+  them."'
+slug: a-figaro-for-a-new-generation-victoria-stevens
+title: 'A Figaro for a New Generation: Victoria Stevens'
+youtube_url: ""
+---
 ### What do you think is the message of Mozart's Le nozze di Figaro? Do you find there are any common misconceptions about the characters or the piece?
 
 At face value, Mozart and da Ponte's setting of Beaumarchais's contentious play _La folle journée, ou le Mariage de Figaro_ presents as a comedic romp in which witty underclass triumphs over powdered, plump aristocracy—and all's well that ends well.
@@ -41,7 +51,9 @@ This opera unfolds around the notion of disguise and of pretense: each character
 
 I am also excited to have a predominantly female production team around me, made up of inspiring women with strong ideas and the conviction to realise them.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552009961/media/2019/03/VictoriaStevensBW.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1552009961/media/2019/03/VictoriaStevensBW.jpg)
 
 <figcaption>Victoria Stevens, stage director.</figcaption>
 

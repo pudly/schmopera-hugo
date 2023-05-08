@@ -1,23 +1,30 @@
-+++
-date = "2016-03-04T12:18:00+00:00"
-discipline = "Soprano"
-lastmod = "2016-03-04T12:18:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457093748649/JAHO-Ermonela-Half-body-bwSquare.jpg.jpg"
-primary_image_credit = "Via Zemsky/Green Artist Management"
-publishDate = "2016-03-04T12:18:00+00:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/staatsoper-berlin.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md"]
-slug = "ermonela-jaho"
-title = "Ermonela Jaho"
-website = "http://www.ermonelajaho.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Ermonela.Jaho.Soprano/?ref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ErmonelaJaho"
-+++
+---
+date: "2016-03-04T12:18:00+00:00"
+discipline: Soprano
+lastmod: "2016-03-04T12:18:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457093748649/JAHO-Ermonela-Half-body-bwSquare.jpg.jpg
+primary_image_credit: Via Zemsky/Green Artist Management
+publishDate: "2016-03-04T12:18:00+00:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+slug: ermonela-jaho
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Ermonela.Jaho.Soprano/?ref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/ErmonelaJaho
+title: Ermonela Jaho
+website: http://www.ermonelajaho.com/
+---
 
 The Albanian born soprano Ermonela Jaho is currently booked for years in advance at the most prestigious opera world stages like Royal Opera House in London, Opera National de Paris, Metropolitan of New York, Wiener Staatsoper, Bayeriche Staatsoper, Teatro Real in Madrid, Liceu of Barcelona, La Scala in Milano, Berliner Staatsoper etc.
 

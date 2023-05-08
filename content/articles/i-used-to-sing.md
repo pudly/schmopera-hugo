@@ -1,22 +1,27 @@
-+++
-author = ["authors/mark-wilkinson.md"]
-categories = "Op-Ed"
-date = 2020-10-04T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = "In a pandemic-ridden world, this is my call for kindness, patience, and compassion. It all begins with schmoozing."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1601845216/media/2020/10/sqIUsedtoSing_go49pl.jpg"
-primary_image_credit = ""
-related_articles = ["articles/how-to-throw-a-funeral-for-a-viola.md", "articles/how-to-lead-your-pianist.md", "articles/how-to-empathize-with-singers.md"]
-related_companies = []
-related_people = []
-short_description = "In a pandemic-ridden world, this is my call for kindness, patience, and compassion. It all begins with schmoozing."
-slug = "i-used-to-sing"
-title = "\"I used to sing\""
-youtube_url = ""
-
-+++
+---
+author:
+- authors/mark-wilkinson.md
+categories: Op-Ed
+date: "2020-10-04T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: In a pandemic-ridden world, this is my call for kindness, patience, and
+  compassion. It all begins with schmoozing.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1601845216/media/2020/10/sqIUsedtoSing_go49pl.jpg
+primary_image_credit: ""
+related_articles:
+- articles/how-to-throw-a-funeral-for-a-viola.md
+- articles/how-to-lead-your-pianist.md
+- articles/how-to-empathize-with-singers.md
+related_companies: []
+related_people: []
+short_description: In a pandemic-ridden world, this is my call for kindness, patience,
+  and compassion. It all begins with schmoozing.
+slug: i-used-to-sing
+title: '"I used to sing"'
+youtube_url: ""
+---
 Schmoozing is a funny word. It brings up endless memories for singers of hobnobbing at parties, receiving the congratulations of audience members after performances, and the thought of quite possibly ingratiating oneself with a rich patron (and fellow singers know I'm only half-joking).
 
 It also brings up a dreaded moment for many. It's that moment when someone with a degree in singing finds themselves in front of a singer-colleague and utters that humbling phrase: "Oh, I used to sing."

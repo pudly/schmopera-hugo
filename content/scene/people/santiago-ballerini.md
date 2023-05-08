@@ -1,22 +1,25 @@
-+++
-date = "2018-02-26T14:10:00-05:00"
-discipline = "Tenor"
-lastmod = "2018-02-26T14:10:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519672072841/BALLERINI-Santiago-Gabriel-Machado-.png.png"
-publishDate = "2018-02-26T14:10:00-05:00"
-related_companies = ["scene/companies/the-atlanta-opera.md","scene/companies/the-dallas-opera.md","scene/companies/the-metropolitan-opera.md"]
-slug = "santiago-ballerini"
-title = "Santiago Ballerini"
-website = "http://santiagoballerini.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Santiago-Ballerini-1001803793194118"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/santiagoballerini"
-+++
+---
+date: "2018-02-26T14:10:00-05:00"
+discipline: Tenor
+lastmod: "2018-02-26T14:10:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519672072841/BALLERINI-Santiago-Gabriel-Machado-.png.png
+publishDate: "2018-02-26T14:10:00-05:00"
+related_companies:
+- scene/companies/the-atlanta-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/the-metropolitan-opera.md
+slug: santiago-ballerini
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Santiago-Ballerini-1001803793194118
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/santiagoballerini
+title: Santiago Ballerini
+website: http://santiagoballerini.com/
+---
 
 Argentinian tenor Santiago Ballerini is recognized as one of the leading tenors in the Bel Canto repertoire, having appeared at many of the major opera houses in South and North America. In the current season, he debuts as Tonio in *La fille du regiment* at the Atlanta Opera, returns to the Teatro Municipal in Rio de Janeiro as Don Ramiro in *La Cenerentola*, makes his European debut as Gualtiero in *Il pirata* at the Opéra National de Bordeaux, and appears at the Teatro Nuovo’s inaugural festival at SUNY Purchase’s Performing Arts Center as Argiro in *Tancredi*. Ballerini will begin the season singing a concert of arias at the Dallas Opera.
 

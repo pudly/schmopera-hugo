@@ -1,18 +1,42 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-09-22T19:21:00-04:00"
-lastmod = "2015-09-23T20:19:00-04:00"
-preamble = "This interview is part of our ongoing series of features on young working artists in the opera industry. If you think you'd be a great candidate for an interview, or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442964184191/HeadshotCairanRyanHighDefSquare.jpg.jpg"
-publishDate = "2015-09-24T08:00:00-04:00"
-related_articles = ["articles/spotlight-on-laurelle-jade-froese.md","articles/spotlight-on-marjorie-maltais.md","articles/spotlight-on-william-ford.md","articles/spotlight-on-kimberleyann-bartczak.md","articles/spotlight-on-julia-dawson.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-peter-bass.md","articles/spotlight-on-christopher-james-ray.md","articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-sara-schabas.md","articles/spotlight-on-jeremy-bowes.md","articles/spotlight-on-james-westman.md","articles/spotlight-on-abigail-levis.md"]
-related_companies = ["scene/companies/highlands-opera-studio.md","scene/companies/against-the-grain-theatre.md","scene/companies/lopra-de-montral.md"]
-related_people = ["scene/people/cairan-ryan.md"]
-short_description = "&quot;I sing because it is a holistic musical experience. It&#039;s the only thing I can think of that comes close to complete participation of your brain, body, and what some people may call a soul. At its peak, it unites all three into a living, breathing instrument, that&#039;s always completely unique and arrestingly different. I sing to always find that unity.&quot;"
-slug = "spotlight-on-cairan-ryan"
-title = "Spotlight on: Cairan Ryan"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-09-22T19:21:00-04:00"
+lastmod: "2015-09-23T20:19:00-04:00"
+preamble: This interview is part of our ongoing series of features on young working
+  artists in the opera industry. If you think you'd be a great candidate for an interview,
+  or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442964184191/HeadshotCairanRyanHighDefSquare.jpg.jpg
+publishDate: "2015-09-24T08:00:00-04:00"
+related_articles:
+- articles/spotlight-on-laurelle-jade-froese.md
+- articles/spotlight-on-marjorie-maltais.md
+- articles/spotlight-on-william-ford.md
+- articles/spotlight-on-kimberleyann-bartczak.md
+- articles/spotlight-on-julia-dawson.md
+- articles/spotlight-on-maikai-nash.md
+- articles/spotlight-on-peter-bass.md
+- articles/spotlight-on-christopher-james-ray.md
+- articles/spotlight-on-danielle-macmillan.md
+- articles/spotlight-on-sara-schabas.md
+- articles/spotlight-on-jeremy-bowes.md
+- articles/spotlight-on-james-westman.md
+- articles/spotlight-on-abigail-levis.md
+related_companies:
+- scene/companies/highlands-opera-studio.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/lopra-de-montral.md
+related_people:
+- scene/people/cairan-ryan.md
+short_description: '&quot;I sing because it is a holistic musical experience. It&#039;s
+  the only thing I can think of that comes close to complete participation of your
+  brain, body, and what some people may call a soul. At its peak, it unites all three
+  into a living, breathing instrument, that&#039;s always completely unique and arrestingly
+  different. I sing to always find that unity.&quot;'
+slug: spotlight-on-cairan-ryan
+title: 'Spotlight on: Cairan Ryan'
+---
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 
@@ -28,7 +52,9 @@ Breathing's also a good one. When you get bogged down with worrying about what s
 
 It's a never-ending process, and we continue to aspire to good singing until the day we shuffle off this mortal coil, to the big practice room in the sky. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442964321815/AlittletooCozyAlfonsoBanff2015.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442964321815/AlittletooCozyAlfonsoBanff2015.jpg.jpg)
 <figcaption>Cairan Ryan as Donald Alfonso in Against the Grain Theatre's *A Little Too Cozy*, 2015. Photo: Don Lee/The Banff Centre.</figcaption>
 </figure>
 

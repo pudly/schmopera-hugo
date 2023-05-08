@@ -1,18 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-04-10T21:45:00-04:00"
-lastmod = "2015-04-10T23:18:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428716409730/La-Belle-Helene-089-2.jpg.jpg"
-primary_image_credit = "Stuart Lowe"
-publishDate = "2015-03-19T09:45:00-04:00"
-related_articles = ["articles/in-review-los-gavilanes-at-toronto-operetta-theatre.md"]
-related_companies = ["scene/companies/royal-conservatory-of-music.md"]
-related_people = ["scene/people/joel-ivany.md","scene/people/christina-campsall.md","scene/people/asitha-tennekoon.md"]
-short_description = "Last night I went to see opening night of the Glenn Gould School&#039;s production of Offenbach&#039;s La belle Hélène."
-slug = "in-review-la-belle-helene"
-title = "In review: La belle Hélène"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-04-10T21:45:00-04:00"
+lastmod: "2015-04-10T23:18:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428716409730/La-Belle-Helene-089-2.jpg.jpg
+primary_image_credit: Stuart Lowe
+publishDate: "2015-03-19T09:45:00-04:00"
+related_articles:
+- articles/in-review-los-gavilanes-at-toronto-operetta-theatre.md
+related_companies:
+- scene/companies/royal-conservatory-of-music.md
+related_people:
+- scene/people/joel-ivany.md
+- scene/people/christina-campsall.md
+- scene/people/asitha-tennekoon.md
+short_description: Last night I went to see opening night of the Glenn Gould School&#039;s
+  production of Offenbach&#039;s La belle Hélène.
+slug: in-review-la-belle-helene
+title: 'In review: La belle Hélène'
+---
 
 <p>
 	Last night I went to see opening night of the Glenn Gould School's production of Offenbach's 

@@ -1,16 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-06-14T12:12:00-04:00"
-lastmod = "2015-06-16T10:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434295730054/JenniferL.jpg.jpg"
-primary_image_credit = "Jennifer Lawrence's Dior gown at the 2013 Oscars is not audition-appropriate, but it's fantastic."
-publishDate = "2015-06-14T13:42:00-04:00"
-related_articles = ["articles/5-tips-for-university-auditionees.md","articles/in-defence-of-singers.md","articles/if-you-could-accessorize-with-opera.md","articles/browse-suzanne-vinniks-opera-diva-dress-collection.md","articles/wolf-trap-audition-conversation.md","articles/psychology-audition.md","articles/rosemarie-umetsu-singing-in-style.md"]
-short_description = "Auditions are fun, right? Completely fun. I know it gets old sometimes, but I always did find the ritual of dressing for an audition quite calming. Something to do other than be nervous, I figure. I do like the mini fashion-show with which I&#039;m presented at any audition venue; I like noticing which mezzos stubbornly wear their best dress to sing Siebel (why not?), and whether or not the baritones are the type to match their shoes to their whatever."
-slug = "what-to-wear-to-an-audition-via-the-red-carpet"
-title = "What to wear to an audition, via the red carpet"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-06-14T12:12:00-04:00"
+lastmod: "2015-06-16T10:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434295730054/JenniferL.jpg.jpg
+primary_image_credit: Jennifer Lawrence's Dior gown at the 2013 Oscars is not audition-appropriate,
+  but it's fantastic.
+publishDate: "2015-06-14T13:42:00-04:00"
+related_articles:
+- articles/5-tips-for-university-auditionees.md
+- articles/in-defence-of-singers.md
+- articles/if-you-could-accessorize-with-opera.md
+- articles/browse-suzanne-vinniks-opera-diva-dress-collection.md
+- articles/wolf-trap-audition-conversation.md
+- articles/psychology-audition.md
+- articles/rosemarie-umetsu-singing-in-style.md
+short_description: Auditions are fun, right? Completely fun. I know it gets old sometimes,
+  but I always did find the ritual of dressing for an audition quite calming. Something
+  to do other than be nervous, I figure. I do like the mini fashion-show with which
+  I&#039;m presented at any audition venue; I like noticing which mezzos stubbornly
+  wear their best dress to sing Siebel (why not?), and whether or not the baritones
+  are the type to match their shoes to their whatever.
+slug: what-to-wear-to-an-audition-via-the-red-carpet
+title: What to wear to an audition, via the red carpet
+---
 
 Auditions are fun, right? Completely fun. I know it gets old sometimes, but I always did find the ritual of dressing for an audition quite calming. Something to do other than be nervous, I figure. I do like the mini fashion-show with which I'm presented at any audition venue; I like noticing which mezzos stubbornly wear their best dress to sing Siebel (why not?), and whether or not the baritones are the type to match their shoes to their whatever (hey, [Cameron McPhail](/scene/people/cameron-mcphail/)). 
 
@@ -22,7 +36,9 @@ I figured I'd nod to celebrities, who actually *do live* in scrutiny of what the
 
 ### The classic catch-all dress
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434299766348/KateObamaAdele.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434299766348/KateObamaAdele.jpg.jpg)
 <figcaption>Kate Middleton in Diane von Furstenberg, Michelle Obama in Oscar de la Renta, and Adele in Valentino.</figcaption>
 </figure>
 
@@ -30,7 +46,9 @@ Three great ladies, right? The thing about these dresses is that they look great
 
 ### The black option
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434300794654/AuditionBlack.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434300794654/AuditionBlack.jpg.jpg)
 <figcaption>Michelle Williams in Louis Vuitton, Jennifer Aniston in Burberry, and Heidi Klum in her LBD.</figcaption>
 </figure>
 
@@ -38,7 +56,9 @@ I'm a pianist, so I love wearing black. I think it's a great audition option, es
 
 ### Dressing to get remembered
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434301834445/AuditionBranchingOut.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434301834445/AuditionBranchingOut.jpg.jpg)
 <figcaption>Emma Watson in Elie Saab, Cate Blanchett in Lanvin, Mindy Kaling in Tadashi Shoji.</figcaption>
 </figure>
 
@@ -46,7 +66,9 @@ In red-carpet terms, these dresses are hardly screaming "remember me!" the way B
 
 ### Not for an audition...
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434302017839/CuteButNoAudition.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434302017839/CuteButNoAudition.jpg.jpg)
 <figcaption>Sofia Vergara's top half, Taylor Swift in Zuhair Murad, Natalie Portman in Givenchy.
 </figcaption>
 </figure>
@@ -55,7 +77,9 @@ So, Sofia looks pretty great, but no one should ever wear this to an audition. I
 
 ### Points for enthusiasm
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434302559305/SillyAudition.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434302559305/SillyAudition.jpg.jpg)
 <figcaption>Cate Blanchett in Dior, and Rihanna in Giambattista Valli.</figcaption>
 </figure>
 

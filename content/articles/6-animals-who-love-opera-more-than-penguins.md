@@ -1,15 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-05-11T18:16:00+01:00"
-lastmod = "2016-05-16T13:20:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463057389030/2016-05-12---Penguins.jpg.jpg"
-publishDate = "2016-05-12T14:03:00+01:00"
-related_articles = ["articles/instruments-can-sing-too.md","articles/see-you-do-need-opera-to-survive.md","articles/apian-opera-dont-miss-the-swarm.md"]
-short_description = "If you haven&#039;t yet heard, there&#039;s a certain waddle of penguins (apparently it&#039;s &quot;waddle&quot;, not &quot;flock&quot;!) in Antarctica that get totally freaked out by the sound of a tenor:\n"
-slug = "6-animals-who-love-opera-more-than-penguins"
-title = "6 animals who love opera more than penguins"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-05-11T18:16:00+01:00"
+lastmod: "2016-05-16T13:20:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463057389030/2016-05-12---Penguins.jpg.jpg
+publishDate: "2016-05-12T14:03:00+01:00"
+related_articles:
+- articles/instruments-can-sing-too.md
+- articles/see-you-do-need-opera-to-survive.md
+- articles/apian-opera-dont-miss-the-swarm.md
+short_description: |
+  If you haven&#039;t yet heard, there&#039;s a certain waddle of penguins (apparently it&#039;s &quot;waddle&quot;, not &quot;flock&quot;!) in Antarctica that get totally freaked out by the sound of a tenor:
+slug: 6-animals-who-love-opera-more-than-penguins
+title: 6 animals who love opera more than penguins
+---
 
 If you haven't yet heard, there's a certain waddle of penguins (apparently it's "waddle", not "flock"!) in Antarctica that get totally freaked out by the sound of a tenor. 
 

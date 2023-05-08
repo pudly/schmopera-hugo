@@ -1,14 +1,19 @@
-+++
-date = "2015-12-30T16:06:00-05:00"
-discipline = "Soprano"
-lastmod = "2015-12-30T16:06:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451509450571/2015-12-20---Lydia-Teuscher.jpg.jpg"
-primary_image_credit = "via Askonas Holt."
-publishDate = "2015-12-30T16:06:00-05:00"
-related_companies = ["scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/glyndebourne.md","scene/companies/salzburg-festival.md"]
-slug = "lydia-teuscher"
-title = "Lydia Teuscher"
-+++
+---
+_template: people_single
+date: "2015-12-30T16:06:00-05:00"
+discipline: Soprano
+lastmod: "2015-12-30T16:06:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451509450571/2015-12-20---Lydia-Teuscher.jpg.jpg
+primary_image_credit: via Askonas Holt.
+publishDate: "2015-12-30T16:06:00-05:00"
+related_companies:
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/glyndebourne.md
+- scene/companies/salzburg-festival.md
+slug: lydia-teuscher
+title: Lydia Teuscher
+---
 
 Lydia Teuscher was born in Freiburg, Germany and studied at the Welsh College of Music and Drama and at the Hochschule für Musik in Mannheim. Early appearances included the Göttingen Handel Festival, the Stadttheater Heidelberg and the Nationaltheater Mannheim.
 

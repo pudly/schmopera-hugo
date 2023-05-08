@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-12-08T19:32:00-05:00"
-lastmod = "2017-12-10T21:12:00-05:00"
-preamble = "Soprano [Ah Young Hong](/scene/people/ah-young-hong/) has up her sleeve impressive roles like Poppea (*L'incoronazione di Poppea*), Morgana (*Alcina*), and Gilda (*Rigoletto*); yet she's also made a significant impression as an interpreter of new and brand-new music. This season, she sings two new productions of Michael Hersch's monodrama *On the Threshold of Winter* in Chicago and Salt Lake City, and she'll release the debut recording of Hersch's song cycle *a breath upwards*. In the spring, she'll take Kurtág's *Kafka Fragments* - along with violinist Patricia Kopatchinskaja - to the Ojai Festival, UC Berkeley, and Aldeburgh.\n\nIn a great chat, Hong talks about her trip from piano to pre-med to singing, and being a true advocate for the music she performs."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512778546214/2017-12-09---RNA_PCRichardAnderson.jpg.jpg"
-primary_image_credit = "Photo: Richard Anderson."
-publishDate = "2017-12-08T20:13:00-05:00"
-related_articles = ["articles/talking-with-singers-charlotte-mundy.md","articles/talking-with-singers-melody-moore.md","articles/spotlight-on-beth-hagerman.md"]
-related_people = ["scene/people/ah-young-hong.md"]
-short_description = "&quot;Honestly, I still don&#039;t think I know anything about this career. My focus is purely on the music. I&#039;m afraid I&#039;m terrible at giving advice about the career. Just do what you love - never mind your bills aren&#039;t paid!&quot;"
-slug = "talking-with-singers-ah-young-hong"
-title = "Talking with singers: Ah Young Hong"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-12-08T19:32:00-05:00"
+lastmod: "2017-12-10T21:12:00-05:00"
+preamble: |-
+  Soprano [Ah Young Hong](/scene/people/ah-young-hong/) has up her sleeve impressive roles like Poppea (*L'incoronazione di Poppea*), Morgana (*Alcina*), and Gilda (*Rigoletto*); yet she's also made a significant impression as an interpreter of new and brand-new music. This season, she sings two new productions of Michael Hersch's monodrama *On the Threshold of Winter* in Chicago and Salt Lake City, and she'll release the debut recording of Hersch's song cycle *a breath upwards*. In the spring, she'll take Kurtág's *Kafka Fragments* - along with violinist Patricia Kopatchinskaja - to the Ojai Festival, UC Berkeley, and Aldeburgh.
+
+  In a great chat, Hong talks about her trip from piano to pre-med to singing, and being a true advocate for the music she performs.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512778546214/2017-12-09---RNA_PCRichardAnderson.jpg.jpg
+primary_image_credit: 'Photo: Richard Anderson.'
+publishDate: "2017-12-08T20:13:00-05:00"
+related_articles:
+- articles/talking-with-singers-charlotte-mundy.md
+- articles/talking-with-singers-melody-moore.md
+- articles/spotlight-on-beth-hagerman.md
+related_people:
+- scene/people/ah-young-hong.md
+short_description: '&quot;Honestly, I still don&#039;t think I know anything about
+  this career. My focus is purely on the music. I&#039;m afraid I&#039;m terrible
+  at giving advice about the career. Just do what you love - never mind your bills
+  aren&#039;t paid!&quot;'
+slug: talking-with-singers-ah-young-hong
+title: 'Talking with singers: Ah Young Hong'
+---
 
 ## What drove you to a professional career in singing?
  

@@ -1,15 +1,20 @@
-+++
-date = "2019-01-15T18:57:22+00:00"
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547578423/media/2019/01/IgorGOLOVATENKO.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/salzburg-festival.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/opra-national-de-paris.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/royal-opera-house.md"]
-slug = "igor-golovatenko"
-social_media = []
-title = "Igor Golovatenko"
-website = ""
-
-+++
+---
+_template: people_single
+date: "2019-01-15T18:57:22+00:00"
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1547578423/media/2019/01/IgorGOLOVATENKO.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/salzburg-festival.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/royal-opera-house.md
+slug: igor-golovatenko
+social_media: []
+title: Igor Golovatenko
+website: ""
+---
 Igor Golovatenko has quickly made a name for himself on both the concert platform and operatic stage since his debut in the 2006 Russian premiere of Delius’ **_Eine Messe des Lebens_** with the Russian National Philarmonic Orchestra, conducted by Vladimir Spivakov. Having studied at the Moscow Academy of the Choral Arts with Professor Dmitry Vdovin, Golovatenko was awarded First Prize at the St Petersburg Three Centuries of Classical Romance Competition and Second Prize at Dresden’s International Competizione dell’Opera.
 
 A leading baritone at the Bolshoi Opera, Igor Golovatenko will return there this season as Andrei Tchelkalov in **_Boris Godunov_**, Lescaut in **_Manon Lescaut_**, Rodrigo in **_Don Carlos_**, and Robert in **_Iolanta_**. He has previously appeared at the Bolshoi as Germont in **_La Traviata_**, Posa in **_Don Carlos_**, and Marcello in **_La Boheme_**. In recent seasons, Golovatenko has made a number of significant debuts: Severo in Donizetti’s **_Poliuto_** at the Glyndebourne Festival, Sharpless in **_Madama Butterfly_** at the Teatro Colon in Buenos Aires, Guy de Montfort in **_Les Vêpres Siciliennes_** at the Teatro San Carlo in Naples, and di Luna in **_Il Trovatore_** at the Bavarian State Opera in Munich. This season, Golovatenko will also debut at the Salzburg Festival as Prince Yeletsky in **_Pique Dame_**, appear at the Opéra de Bordeaux as Ernesto in **_Il Pirata_**, and sing Mahler’s **_Symphony No. 8_** at the BBC Wales’s Proms in the Park. Future engagements include his debut at the Metropolitan Opera

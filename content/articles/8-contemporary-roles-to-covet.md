@@ -1,19 +1,49 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-01-09T21:48:00-05:00"
-lastmod = "2016-01-10T16:21:00-05:00"
-preamble = "Singers have always been quick to notice a great role in an opera, and put it on their to-do list, be it for the near or distance future. 20th-century operatic roles like Carlisle Floyd's Susannah and Corigliano's Marie Antoinette have found their way into the mainstream repertoire; as a result, arias from these operas appear on singers' audition packages, the true test of an opera that has caught on with the public. \n\nAs we creep further into the 2010s, there exists enough new opera to take stock of the 21st-century roles deserving of our attention. Who are the Anne Trueloves, the Captain Veres, the Chiang Ch'ings of today? To help answer those great questions, we offer up 8 delicious roles from operas of this generation."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452459165385/2016-01-09---LunaAriel---Ken-Howard_Met.jpg.jpg"
-primary_image_credit = "Audrey Luna as Ariel in Thomas Adès' The Tempest, The Metropolitan Opera, 2012. Photo: Ken Howard/Metropolitan Opera"
-publishDate = "2016-01-10T16:17:00-05:00"
-related_articles = ["articles/cecilia-bartoli-atonal-music-creates-a-barrier-between-composer-and-singer.md","articles/michael-christie-new-opera-that-the-box-office-loves.md","articles/4-arias-their-common-misconceptions.md","articles/5-opera-mothers-from-hell.md","articles/seasonal-opera-done-right-at-hgo.md","articles/4-reasons-to-get-excited-about-opera-in-2018.md","articles/4-singers-you-might-not-know-but-should.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/opera-philadelphia.md","scene/companies/the-dallas-opera.md","scene/companies/bayerische-staatsoper.md"]
-related_people = ["scene/people/david-daniels.md","scene/people/barbara-hannigan.md","scene/people/robert-lepage.md","scene/people/michael-christie.md","scene/people/royce-vavrek.md"]
-short_description = "As we creep further into the 2010s, there exists enough new opera to take stock of the 21st-century roles deserving of our attention. Who are the Anne Trueloves, the Captain Veres, the Chiang Ch&#039;ings of today? To help answer those great questions, we offer up 8 delicious roles from operas of this generation."
-slug = "8-contemporary-roles-to-covet"
-title = "8 contemporary roles to covet"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-01-09T21:48:00-05:00"
+lastmod: "2016-01-10T16:21:00-05:00"
+preamble: "Singers have always been quick to notice a great role in an opera, and
+  put it on their to-do list, be it for the near or distance future. 20th-century
+  operatic roles like Carlisle Floyd's Susannah and Corigliano's Marie Antoinette
+  have found their way into the mainstream repertoire; as a result, arias from these
+  operas appear on singers' audition packages, the true test of an opera that has
+  caught on with the public. \n\nAs we creep further into the 2010s, there exists
+  enough new opera to take stock of the 21st-century roles deserving of our attention.
+  Who are the Anne Trueloves, the Captain Veres, the Chiang Ch'ings of today? To help
+  answer those great questions, we offer up 8 delicious roles from operas of this
+  generation."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452459165385/2016-01-09---LunaAriel---Ken-Howard_Met.jpg.jpg
+primary_image_credit: 'Audrey Luna as Ariel in Thomas Adès'' The Tempest, The Metropolitan
+  Opera, 2012. Photo: Ken Howard/Metropolitan Opera'
+publishDate: "2016-01-10T16:17:00-05:00"
+related_articles:
+- articles/cecilia-bartoli-atonal-music-creates-a-barrier-between-composer-and-singer.md
+- articles/michael-christie-new-opera-that-the-box-office-loves.md
+- articles/4-arias-their-common-misconceptions.md
+- articles/5-opera-mothers-from-hell.md
+- articles/seasonal-opera-done-right-at-hgo.md
+- articles/4-reasons-to-get-excited-about-opera-in-2018.md
+- articles/4-singers-you-might-not-know-but-should.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/bayerische-staatsoper.md
+related_people:
+- scene/people/david-daniels.md
+- scene/people/barbara-hannigan.md
+- scene/people/robert-lepage.md
+- scene/people/michael-christie.md
+- scene/people/royce-vavrek.md
+short_description: As we creep further into the 2010s, there exists enough new opera
+  to take stock of the 21st-century roles deserving of our attention. Who are the
+  Anne Trueloves, the Captain Veres, the Chiang Ch&#039;ings of today? To help answer
+  those great questions, we offer up 8 delicious roles from operas of this generation.
+slug: 8-contemporary-roles-to-covet
+title: 8 contemporary roles to covet
+---
 
 ## Ariel in *The Tempest*
 

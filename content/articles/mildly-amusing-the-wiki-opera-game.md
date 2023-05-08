@@ -1,15 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-08-22T20:34:00+01:00"
-lastmod = "2016-08-24T13:31:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472037623820/2016-08-24---Click.jpg.jpg"
-publishDate = "2016-08-24T12:31:00+01:00"
-related_articles = ["articles/4-opera-scenes-that-should-have-happened.md","articles/fachmecom-a-new-fun-game.md","articles/opera-spinoffs-round-two.md","articles/ways-to-procrastinate-the-plotgenerated-opera.md"]
-short_description = "Well, how about the opera version of the Wikipedia Game*? The premise is simple: go to the Wikipedia home page, and on the left hand side, click on &quot;random article.&quot; Starting from this random page, the goal is to get to the Wiki article on &quot;Opera&quot; in as few clicks as possible, using only the hyperlinked words within each page along the way."
-slug = "mildly-amusing-the-wiki-opera-game"
-title = "Mildly amusing: the Wiki Opera Game"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-08-22T20:34:00+01:00"
+lastmod: "2016-08-24T13:31:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472037623820/2016-08-24---Click.jpg.jpg
+publishDate: "2016-08-24T12:31:00+01:00"
+related_articles:
+- articles/4-opera-scenes-that-should-have-happened.md
+- articles/fachmecom-a-new-fun-game.md
+- articles/opera-spinoffs-round-two.md
+- articles/ways-to-procrastinate-the-plotgenerated-opera.md
+short_description: 'Well, how about the opera version of the Wikipedia Game*? The
+  premise is simple: go to the Wikipedia home page, and on the left hand side, click
+  on &quot;random article.&quot; Starting from this random page, the goal is to get
+  to the Wiki article on &quot;Opera&quot; in as few clicks as possible, using only
+  the hyperlinked words within each page along the way.'
+slug: mildly-amusing-the-wiki-opera-game
+title: 'Mildly amusing: the Wiki Opera Game'
+---
 
 Do you like opera? How about silly games?
 

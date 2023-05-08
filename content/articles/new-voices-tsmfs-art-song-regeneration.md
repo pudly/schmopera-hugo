@@ -1,16 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-07-23T20:23:00-04:00"
-lastmod = "2017-07-25T09:45:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500917583521/2017-07-24---TSMF-Art-Song.jpg.jpg"
-publishDate = "2017-07-24T21:30:00-04:00"
-related_articles = ["articles/casp-commission-sokolovic.md","articles/lovely-lunches-the-coc-ensemble-studio-in-recital.md"]
-related_people = ["scene/people/steven-philcox.md","scene/people/evanna-lai.md","scene/people/sinead-white.md","scene/people/bahareh-poureslami.md","scene/people/adam-harris.md","scene/people/joel-allison.md","scene/people/sydney-baedke.md","scene/people/victoria-marshall.md"]
-short_description = "Hearing final-product concerts like this second Art Song reGENERATION is a bit like looking through a keyhole, piquing plenty of curiosity about these singers&#039; work in a broader sense. Their performances spoke of a combination of thoughtful artists and excellent mentors."
-slug = "new-voices-tsmfs-art-song-regeneration"
-title = "New voices: TSMF&#039;s Art Song ReGENERATION"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-07-23T20:23:00-04:00"
+lastmod: "2017-07-25T09:45:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500917583521/2017-07-24---TSMF-Art-Song.jpg.jpg
+publishDate: "2017-07-24T21:30:00-04:00"
+related_articles:
+- articles/casp-commission-sokolovic.md
+- articles/lovely-lunches-the-coc-ensemble-studio-in-recital.md
+related_people:
+- scene/people/steven-philcox.md
+- scene/people/evanna-lai.md
+- scene/people/sinead-white.md
+- scene/people/bahareh-poureslami.md
+- scene/people/adam-harris.md
+- scene/people/joel-allison.md
+- scene/people/sydney-baedke.md
+- scene/people/victoria-marshall.md
+short_description: Hearing final-product concerts like this second Art Song reGENERATION
+  is a bit like looking through a keyhole, piquing plenty of curiosity about these
+  singers&#039; work in a broader sense. Their performances spoke of a combination
+  of thoughtful artists and excellent mentors.
+slug: new-voices-tsmfs-art-song-regeneration
+title: 'New voices: TSMF&#039;s Art Song ReGENERATION'
+---
 
 With this past weekend's Art Song reGENERATION, the Art Song Fellows of the [Toronto Summer Music Academy](http://www.torontosummermusic.com/academy/artofsong/) gave their second of two recitals at Walter Hall. Eight singers and four pianists delivered short sets of polished song performances, prepared with the help of coaches [Steven Philcox](/scene/people/steven-philcox/) and Martin Katz and Finnish soprano and mentor [Soile Isokoski](https://en.wikipedia.org/wiki/Soile_Isokoski). 
 

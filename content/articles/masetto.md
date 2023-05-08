@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2014-05-16T13:14:00-04:00"
-lastmod = "2015-04-23T20:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429833770127/Aaron-Durand-1024x819.jpg.jpg"
-publishDate = "2014-05-16T13:14:00-04:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
-related_people = ["scene/people/aaron-durand.md"]
-short_description = "Vancouver-based baritone Aaron Durand is joining Against the Grain Theatre at the Banff Centre to sing the role of Masetto in Uncle John. He answered my questions about what fun about Banff, and about the mind of Masetto, Mozart&#039;s favourite doormat."
-slug = "masetto"
-title = "Masetto"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2014-05-16T13:14:00-04:00"
+lastmod: "2015-04-23T20:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429833770127/Aaron-Durand-1024x819.jpg.jpg
+publishDate: "2014-05-16T13:14:00-04:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-banff-centre.md
+related_people:
+- scene/people/aaron-durand.md
+short_description: Vancouver-based baritone Aaron Durand is joining Against the Grain
+  Theatre at the Banff Centre to sing the role of Masetto in Uncle John. He answered
+  my questions about what fun about Banff, and about the mind of Masetto, Mozart&#039;s
+  favourite doormat.
+slug: masetto
+title: Masetto
+---
 
 Vancouver-based baritone [Aaron Durand](https://twitter.com/Gingervanni) is joining Against the Grain Theatre at the Banff Centre to sing the role of Masetto in [_Uncle John_](https://www.facebook.com/events/1494928980723400/). He answered my questions about what fun about Banff, and about the mind of Masetto, Mozart's favourite doormat.
 

@@ -1,29 +1,47 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = 2022-03-21T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "San Diego Opera's production of [_Roméo et Juliette_](https://www.sdopera.org/season/2021-2022-season/romeo-et-juliette) runs through April 3. "
-preamble = "On March 26, tenor [Pene Pati](/scene/people/pene-pati/) makes his [San Diego Opera](/scene/companies/san-diego-opera/) debut as Roméo in Charles Gounod’s [_Roméo et Juliette_](https://www.sdopera.org/season/2021-2022-season/romeo-et-juliette) opposite soprano Nicole Cabell as Juliette. Yves Abel conducts, and director Matthew Ozawa also makes his SDO debut. Contributor Eva Cahen spoke with Pati between rehearsals:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1647735387/media/2022/03/Pene_Pati_cok7el.jpg"
-primary_image_credit = "Tenor Pene Pati. Photo: Mark Leedom."
-related_articles = ["articles/talking-with-singers-eleazar-rodriguez.md", "articles/talking-with-singers-christian-van-horn.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/san-diego-opera.md"]
-related_people = ["scene/people/pene-pati.md", "scene/people/nicole-cabell.md"]
-short_description = "\"I like having the feeling that I can bring a poster home from the Wiener Staatsoper or from the Met or from the San Francisco Opera and it has his name on it rather than mine. I feel like it's a good tribute to the man who’s raised me. I also sing for my island of Samoa and I sing for the Pacific people who don't really have this opportunity.\""
-slug = "talking-with-singers-pene-pati"
-title = "Talking with singers: Pene Pati"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/eva-cahen.md
+categories: Interview
+date: "2022-03-21T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: 'San Diego Opera''s production of [_Roméo et Juliette_](https://www.sdopera.org/season/2021-2022-season/romeo-et-juliette)
+  runs through April 3. '
+preamble: 'On March 26, tenor [Pene Pati](/scene/people/pene-pati/) makes his [San
+  Diego Opera](/scene/companies/san-diego-opera/) debut as Roméo in Charles Gounod’s
+  [_Roméo et Juliette_](https://www.sdopera.org/season/2021-2022-season/romeo-et-juliette)
+  opposite soprano Nicole Cabell as Juliette. Yves Abel conducts, and director Matthew
+  Ozawa also makes his SDO debut. Contributor Eva Cahen spoke with Pati between rehearsals:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1647735387/media/2022/03/Pene_Pati_cok7el.jpg
+primary_image_credit: 'Tenor Pene Pati. Photo: Mark Leedom.'
+related_articles:
+- articles/talking-with-singers-eleazar-rodriguez.md
+- articles/talking-with-singers-christian-van-horn.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/san-diego-opera.md
+related_people:
+- scene/people/pene-pati.md
+- scene/people/nicole-cabell.md
+short_description: '"I like having the feeling that I can bring a poster home from
+  the Wiener Staatsoper or from the Met or from the San Francisco Opera and it has
+  his name on it rather than mine. I feel like it''s a good tribute to the man who’s
+  raised me. I also sing for my island of Samoa and I sing for the Pacific people
+  who don''t really have this opportunity."'
+slug: talking-with-singers-pene-pati
+title: 'Talking with singers: Pene Pati'
+youtube_url: ""
+---
 ## On the San Diego Opera production of _Roméo et Juliette_
 
 "The other productions I've done of _Roméo et Juliette_ have been very classical. This one is quite unique. It's mixing in the old school idea of restrictions of lovers versus the new school idea of things being more free these days. However, the idea is still the same. Though society has changed, the idea of this love has really not changed since it was written. I'm really excited about this production. The color palette is fantastic, and it looks like it will appeal to everybody.
 
 "This is my first time in San Diego, my first time working with Matthew and my first time with [Nicole](/talking-with-singers-nicole-cabell/), though I've admired Nicole for a long time from a distance. She has an incredible sound and an incredible voice. I'm very much looking forward to working with her."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647735613/media/2022/03/SDO_PenePati_rehearsal_ifplob.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1647735613/media/2022/03/SDO_PenePati_rehearsal_ifplob.jpg)
 
 <figcaption>Pene Pati in rehearsal for Roméo et Juliette with San Diego Opera, 2022. Photo courtesy of San Diego Opera.</figcaption>  
 </figure>
@@ -46,7 +64,9 @@ youtube_url = ""
 
 "I sing for my dad and for my mom. I like having the feeling that I can bring a poster home from the Wiener Staatsoper or from the Met or from the San Francisco Opera and it has his name on it rather than mine. I feel like it's a good tribute to the man who’s raised me. I also sing for my island of Samoa and I sing for the Pacific people who don't really have this opportunity."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647735766/media/2022/03/PenePati_SimonFowlerParlophone_a4vok1.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1647735766/media/2022/03/PenePati_SimonFowlerParlophone_a4vok1.jpg)
 
 <figcaption>Tenor Pene Pati. Photo: Simon Fowler and Parlophone Records Ltd.</figcaption>  
 </figure>
@@ -79,7 +99,9 @@ youtube_url = ""
 
 "I both support the Metropolitan Opera and at the same time, I feel it's unfair to the artists.  I just hope that one day we can just do arts and let art be that.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1647735859/media/2022/03/PenePati_SimonFowlerParlophone_2_alpqbh.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1647735859/media/2022/03/PenePati_SimonFowlerParlophone_2_alpqbh.jpg)
 
 <figcaption>Tenor Pene Pati. Photo: Simon Fowler and Parlophone Records Ltd.</figcaption>  
 </figure>

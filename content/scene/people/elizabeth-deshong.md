@@ -1,23 +1,31 @@
-+++
-date = "2015-04-07T16:56:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-04-07T16:58:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428440212368/4724-Elizabeth-DeShong-HI-RES-version-3-copy.jpg.jpg"
-primary_image_credit = "Kristin Hoebermann"
-publishDate = "2015-04-07T16:56:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/glyndebourne.md","scene/companies/los-angeles-opera.md","scene/companies/english-national-opera.md","scene/companies/wiener-staatsoper.md"]
-slug = "elizabeth-deshong"
-title = "Elizabeth DeShong"
-website = "http://www.elizabethdeshong.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/elizabethgdeshong"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/egdeshong"
-+++
+---
+date: "2015-04-07T16:56:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-04-07T16:58:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428440212368/4724-Elizabeth-DeShong-HI-RES-version-3-copy.jpg.jpg
+primary_image_credit: Kristin Hoebermann
+publishDate: "2015-04-07T16:56:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/wiener-staatsoper.md
+slug: elizabeth-deshong
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/elizabethgdeshong
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/egdeshong
+title: Elizabeth DeShong
+website: http://www.elizabethdeshong.com/
+---
 
 <p>
 	When Elizabeth DeShong sang the title role of Rossini's La Cenerentola, at the <strong>Glyndebourne Festival</strong> The Guardian wrote: . . "this is, quite simply, one of the great operatic performances. It is dominated by DeShong, whose voice combines a contralto opulence with blazing top notes and some of the most staggering coloratura you will ever hear..."

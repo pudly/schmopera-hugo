@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-04-20T20:17:00-04:00"
-lastmod = "2017-05-01T08:25:00-04:00"
-preamble = "Versatile and unforgettable, Canadian soprano [Caitlin Wood](/scene/people/caitlin-wood/) is currently onstage as Susanna in the [Vancouver Opera Festival](/scene/companies/vancouver-opera/)'s production of [*The Marriage of Figaro*](https://www.vancouveropera.ca/the-Marriage-of-Figaro), running at the Vancouver Playhouse until **May 18**. A favourite on Canada's west coast, you might have heard her as Johanna in *Sweeney Todd*, or as Frasquita in *Carmen*, both at Vancouver Opera; she also sang a sassy Despina in [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/)'s productions of [*A Little Too Cozy*](https://www.vancouveropera.ca/the-Marriage-of-Figaro) in Banff and Toronto.\n\nWe spoke with Wood about the kind of singing that makes her feel \"free\", and the value of being a sponge for all things artistic."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492734099953/2017-04-20---Caitlin-Wood.jpg.jpg"
-publishDate = "2017-05-01T08:25:00-04:00"
-related_articles = ["articles/despina-in-banff.md","articles/talking-with-singers-audrey-luna.md"]
-related_companies = ["scene/companies/vancouver-opera.md"]
-related_people = ["scene/people/caitlin-wood.md"]
-short_description = "&quot;Being a good colleague will get you much further and faster than being just a &#039;good singer&#039;. People want to work with talented singers but they also want to make the experience as pleasant as possible. Be on time, know your music, be respectful in rehearsals, and be generous with your colleagues.&quot;"
-slug = "spotlight-on-caitlin-wood"
-title = "Spotlight on: Caitlin Wood"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-04-20T20:17:00-04:00"
+lastmod: "2017-05-01T08:25:00-04:00"
+preamble: |-
+  Versatile and unforgettable, Canadian soprano [Caitlin Wood](/scene/people/caitlin-wood/) is currently onstage as Susanna in the [Vancouver Opera Festival](/scene/companies/vancouver-opera/)'s production of [*The Marriage of Figaro*](https://www.vancouveropera.ca/the-Marriage-of-Figaro), running at the Vancouver Playhouse until **May 18**. A favourite on Canada's west coast, you might have heard her as Johanna in *Sweeney Todd*, or as Frasquita in *Carmen*, both at Vancouver Opera; she also sang a sassy Despina in [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/)'s productions of [*A Little Too Cozy*](https://www.vancouveropera.ca/the-Marriage-of-Figaro) in Banff and Toronto.
+
+  We spoke with Wood about the kind of singing that makes her feel "free", and the value of being a sponge for all things artistic.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492734099953/2017-04-20---Caitlin-Wood.jpg.jpg
+publishDate: "2017-05-01T08:25:00-04:00"
+related_articles:
+- articles/despina-in-banff.md
+- articles/talking-with-singers-audrey-luna.md
+related_companies:
+- scene/companies/vancouver-opera.md
+related_people:
+- scene/people/caitlin-wood.md
+short_description: '&quot;Being a good colleague will get you much further and faster
+  than being just a &#039;good singer&#039;. People want to work with talented singers
+  but they also want to make the experience as pleasant as possible. Be on time, know
+  your music, be respectful in rehearsals, and be generous with your colleagues.&quot;'
+slug: spotlight-on-caitlin-wood
+title: 'Spotlight on: Caitlin Wood'
+---
 
 ## What does "good singing" mean to you? What does it feel like when you achieve it?
 
@@ -20,7 +31,9 @@ Good singing to me is the marriage of technique and dedication to the text. Prop
 
 When I'm able to achieve this it feels like I am free. There is nothing blocking or inhibiting what I am trying to express.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493603329144/2017-04-30---Vancouver-Opera--Sweeney-Todd--Johanna.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493603329144/2017-04-30---Vancouver-Opera--Sweeney-Todd--Johanna.jpg.jpg)
 <figcaption>Caitlin Wood as Johanna in Vancouver Opera's *Sweeney Todd*.</figcaption>
 </figure>
 
@@ -36,7 +49,9 @@ More: Get out and see more art! Whether it be opera, theater, ballet, musicals, 
 
 Less: Comparing themselves to others. There are a million and one ways to make a career in this business, so don't feel like you are failing or falling behind just because you aren't following the same exact same path as others. Your time and energy is precious so use it to find your path instead of wondering why yours isn't identical to someone else's.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493603319794/2017-04-30---EO-Cinderella.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493603319794/2017-04-30---EO-Cinderella.jpg.jpg)
 <figcaption>Caitlin Wood as Clorinda in Edmonton Opera's *Cinderella*.</figcaption>
 </figure>
 
@@ -48,7 +63,9 @@ A role that I'm not quite ready for, but would love to sing in five to ten years
 
 Ok, so full warning I am very aware that I will never get to sing this last one, but if I could switch out my voice with another fach for the night I would definitely sing the Commendatore from *Don Giovanni*. Lucky basses, they have in my opinion one of the most epic scenes in opera with the Commendatore dragging Don Giovanni to hell. Maybe in my next life!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493603310654/2017-04-30---IMG_0632.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493603310654/2017-04-30---IMG_0632.jpg.jpg)
 <figcaption>Caitlin Wood in action at Vancouver Opera's *BMO Overture: All That Glitters*. Photo by Jonathan Cruz.</figcaption>
 </figure>
 

@@ -1,15 +1,23 @@
-+++
-author = ["authors/collin-shay.md"]
-categories = "Review"
-date = "2017-03-26T14:20:00+01:00"
-lastmod = "2017-03-26T14:37:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490534530419/2017-03-26---Chris-Thile.jpg.jpg"
-publishDate = "2017-03-26T14:25:00+01:00"
-related_articles = ["articles/in-review-paul-appleby-at-wigmore-hall.md","articles/in-review-javier-camarena-at-wigmore-hall.md","articles/in-review-jamie-barton-at-wigmore-hall.md","articles/in-review-laura-mvula-with-the-lso.md"]
-short_description = "The virtuosity of his mandolin playing reminded us of the pristine coloratura of singers like Marilyn Horne or Joan Sutherland - every note is perfect, and every note has purpose. We hear every note in its exact place, and even as Thile was playing in just one voice, we heard how the harmony progressed."
-slug = "in-review-chris-thile-at-wigmore-hall"
-title = "In review: Chris Thile at Wigmore Hall"
-+++
+---
+author:
+- authors/collin-shay.md
+categories: Review
+date: "2017-03-26T14:20:00+01:00"
+lastmod: "2017-03-26T14:37:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490534530419/2017-03-26---Chris-Thile.jpg.jpg
+publishDate: "2017-03-26T14:25:00+01:00"
+related_articles:
+- articles/in-review-paul-appleby-at-wigmore-hall.md
+- articles/in-review-javier-camarena-at-wigmore-hall.md
+- articles/in-review-jamie-barton-at-wigmore-hall.md
+- articles/in-review-laura-mvula-with-the-lso.md
+short_description: The virtuosity of his mandolin playing reminded us of the pristine
+  coloratura of singers like Marilyn Horne or Joan Sutherland - every note is perfect,
+  and every note has purpose. We hear every note in its exact place, and even as Thile
+  was playing in just one voice, we heard how the harmony progressed.
+slug: in-review-chris-thile-at-wigmore-hall
+title: 'In review: Chris Thile at Wigmore Hall'
+---
 
 How often do you get a glimpse into the mind of a musical genius? Lucky for us, Chris Thile gave a solo recital at Wigmore Hall on Friday night. The vibe of Wigmore was quite unusually lively, as the young audience sat in an excited anticipation of the virtuosic mandolin player.
 

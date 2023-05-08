@@ -1,18 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-03-16T22:13:00-04:00"
-lastmod = "2018-03-18T21:38:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521252761254/sq---cropped-ncraighead-8241.jpg.jpg"
-primary_image_credit = "Photo: Dahlia Katz."
-publishDate = "2018-03-18T21:38:00-04:00"
-related_articles = ["articles/talking-with-singers-luca-pisaroni.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
-related_people = ["scene/people/neil-craighead.md"]
-short_description = "If he could go back and give himself some advice, however, Craighead would add in some encouragement. &quot;I would tell myself that I was on the right track,&quot; he says. &quot;I had a lot of the right instincts and a lot of the right tools given to me, but I just needed to trust them.&quot;"
-slug = "talking-with-singers-neil-craighead"
-title = "Talking with singers: Neil Craighead"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-03-16T22:13:00-04:00"
+lastmod: "2018-03-18T21:38:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521252761254/sq---cropped-ncraighead-8241.jpg.jpg
+primary_image_credit: 'Photo: Dahlia Katz.'
+publishDate: "2018-03-18T21:38:00-04:00"
+related_articles:
+- articles/talking-with-singers-luca-pisaroni.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+related_people:
+- scene/people/neil-craighead.md
+short_description: If he could go back and give himself some advice, however, Craighead
+  would add in some encouragement. &quot;I would tell myself that I was on the right
+  track,&quot; he says. &quot;I had a lot of the right instincts and a lot of the
+  right tools given to me, but I just needed to trust them.&quot;
+slug: talking-with-singers-neil-craighead
+title: 'Talking with singers: Neil Craighead'
+---
 
 Among the paths taken by young Canadian opera singers, bass-baritone [Neil Craighead](/scene/people/neil-craighead/)'s was one of the most coveted. "I was extremely fortunate," he says of his quick transition from an undergraduate degree at the University of British Columbia, to Opera NUOVA - a rite-of-passage Canadian summer opera program - and beginning four influential years as a member of the Canadian Opera Company's Ensemble Studio program. 
 
@@ -30,7 +38,9 @@ Other notable changes since he began his professional life are Craighead's wife 
 
 In other cases, he brings his family with him, like he'll do for his upcoming performances in [*Carmen* at Opéra de Québec](http://www.operadequebec.com/programmation/carmen-bizet/) and his role debut as [Scarpia in in Opera on the Avalon's *Tosca*](http://operaontheavalon.com/tosca/). "It's either that, or I'm not going to see [my family] for two-thirds, three-quarters of the year, and that's just not an acceptable option," Craighead says. "You need an incredibly supportive partner if you're going to be a professional singer with a family."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521252642771/tito1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521252642771/tito1.jpg.jpg)
 <figcaption>Neil Craighead as Publio and Rihab Chaieb as Sesto in the Ensemble Studio Performance of the Canadian Opera Company’s production of *La clemenza di Tito*, 2013. Conductor Daniel Cohen, director Christopher Alden, set designer Andrew Cavanaugh Holland, costume designer Terese Wadden and lighting designer Gary Marder. Photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -46,7 +56,9 @@ Craighead's helpful lessons with Howard - a similar voice type to his own - are 
 
 If he could go back and give himself some advice, however, Craighead would add in some encouragement. "I would tell myself that I was on the right track," he says. "I had a lot of the right instincts and a lot of the right tools given to me, but I just needed to trust them."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521252655507/neil-lep.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521252655507/neil-lep.jpg.jpg)
 <figcaption>Neil Craighead as Leporello in *#UncleJohn* with Against the Grain Theatre, 2014.</figcaption>
 </figure>
 
@@ -60,7 +72,9 @@ He used to stick to one satisfactory recording of the operas he listened to, but
 
 Craighead's style of critical listening has never been easier to adopt. "YouTube is an incredible resource," particularly for those who like to go down the rabbit-hole of suggested videos. A single aria is a digestible way to start, choosing one artist as a springboard to other singers' interpretations. "Just click on them and listen to their version," says Craighead. "What is it that you find more thrilling about one version compared to another?"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521252663724/ncraighead-8275.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521252663724/ncraighead-8275.jpg.jpg)
 <figcaption>Neil Craighead, bass-baritone. Photo: Dahlia Katz.</figcaption>
 </figure>
 

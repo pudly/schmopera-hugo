@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-11-15T13:51:00-05:00"
-lastmod = "2015-11-18T17:45:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447886426197/2015-11-14---GGSOperaSquare.jpg.jpg"
-primary_image_credit = "Shauna Yarnell, Lillan Brooks, and Christina Campsall in Luciano Berio's Folk Songs. Photo by Stuart Lowe,"
-publishDate = "2015-11-15T14:57:00-05:00"
-related_articles = ["articles/joel-ivany-were-throwing-a-salon.md"]
-related_companies = ["scene/companies/royal-conservatory-of-music.md"]
-related_people = ["scene/people/liza-balkan.md","scene/people/christina-campsall.md"]
-short_description = "The Glenn Gould School presented its fall opera this week, a double bill of Xavier Montsalvatge&#039;s El gato con botas (Puss in Boots), and Luciano Berio&#039;s Folk Songs. The two shows are objectively different in musical style and dramatic inspiration, but director Liza Balkan writes that pairing El gato and Folk Songs &quot;is a desire for storytelling that embraces surprise, humour, truth, freedom of play, and a willingness to be fearless and intimate with you, the audience.&quot;"
-slug = "in-review-puss-in-boots-berios-folk-songs"
-title = "In review: Puss in Boots &amp; Berio&#039;s Folk Songs"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-11-15T13:51:00-05:00"
+lastmod: "2015-11-18T17:45:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447886426197/2015-11-14---GGSOperaSquare.jpg.jpg
+primary_image_credit: Shauna Yarnell, Lillan Brooks, and Christina Campsall in Luciano
+  Berio's Folk Songs. Photo by Stuart Lowe,
+publishDate: "2015-11-15T14:57:00-05:00"
+related_articles:
+- articles/joel-ivany-were-throwing-a-salon.md
+related_companies:
+- scene/companies/royal-conservatory-of-music.md
+related_people:
+- scene/people/liza-balkan.md
+- scene/people/christina-campsall.md
+short_description: The Glenn Gould School presented its fall opera this week, a double
+  bill of Xavier Montsalvatge&#039;s El gato con botas (Puss in Boots), and Luciano
+  Berio&#039;s Folk Songs. The two shows are objectively different in musical style
+  and dramatic inspiration, but director Liza Balkan writes that pairing El gato and
+  Folk Songs &quot;is a desire for storytelling that embraces surprise, humour, truth,
+  freedom of play, and a willingness to be fearless and intimate with you, the audience.&quot;
+slug: in-review-puss-in-boots-berios-folk-songs
+title: 'In review: Puss in Boots &amp; Berio&#039;s Folk Songs'
+---
 
 The Glenn Gould School presented its fall opera this week, a double bill of Xavier Montsalvatge's *El gato con botas* (*Puss in Boots*), and Luciano Berio's *Folk Songs*. The two shows are objectively different in musical style and dramatic inspiration, but director [Liza Balkan](/meet-the-director-liza-balkan/) writes that pairing *El gato* and *Folk Songs* "is a desire for storytelling that embraces surprise, humour, truth, freedom of play, and a willingness to be fearless and intimate with you, the audience."
 
@@ -20,7 +31,9 @@ They used Mazzoleni Concert Hall for the production, a more intimate space than 
 
 *El gato con botas* featured good singing across the board. As El Gato, Meghan had a clear, friendly sound and I could tell she enjoyed singing in Spanish. As The Miller, who is gifted El Gato in his father's will, Alvaro Vasquez Robles was a sweet, wide-eyed foil to his pet. Jocelyn Fralick was a lovely Princess; hers is a voice I hadn't heard before, and I anticipate a full, rich sound from her in the coming years. I was really impressed with Diego Catala as The King. He didn't push his voice beyond its limits, but he showed off a healthy warmth that will continue to grow. In one of the coolest roles I've heard in a while was Gabriel Sanchez-Ortega as The Ogre. He has a booming bass sound that's a little wild, but totally his own. With voices like his, settling can take a while; I'm happy to be patient with Sanchez-Ortega, since I think there's a special sound in there.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447886517438/2015-11-14---GGSOperaPussinBoots.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447886517438/2015-11-14---GGSOperaPussinBoots.jpg.jpg)
 <figcaption>The cast of GGS Opera's production of *Puss in Boots*. Photo by Stuart Lowe.</figcaption>
 </figure>
 

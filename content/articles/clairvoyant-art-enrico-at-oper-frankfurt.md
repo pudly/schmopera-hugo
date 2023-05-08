@@ -1,24 +1,40 @@
-+++
-author = ["authors/blanche-isral.md"]
-categories = "Review"
-date = "2018-01-24T11:08:00-05:00"
-lastmod = "2018-01-24T11:08:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516809837446/sq---3476_enrico04_gross.jpg.jpg"
-primary_image_credit = "Holger Falk plays the title role in Enrico, Oper Frankfurt, 2018. Photo: Barbara Aumüller."
-publishDate = "2018-01-24T11:08:00-05:00"
-related_articles = ["articles/misnomers-interstellar-sex-scenes-vasco-de-gama.md"]
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = ["scene/people/bjorn-burger.md","scene/people/angela-vallone.md","scene/people/samuel-levine.md","scene/people/juanita-lascarro.md","scene/people/holger-falk.md","scene/people/sebastian-geyer.md"]
-short_description = "After suffering trauma to the head while in character as Henry IV, Enrico (Holger Falk) regains consciousness still believing himself to be the 11th century emperor. So as not to rattle him, Enrico&#039;s relatives maintain an elaborate lie involving costumes, alternate personas and staff trained to appease him."
-slug = "clairvoyant-art-enrico-at-oper-frankfurt"
-title = "Clairvoyant art: Enrico at Oper Frankfurt"
-+++
+---
+author:
+- authors/blanche-isral.md
+categories: Review
+date: "2018-01-24T11:08:00-05:00"
+lastmod: "2018-01-24T11:08:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516809837446/sq---3476_enrico04_gross.jpg.jpg
+primary_image_credit: 'Holger Falk plays the title role in Enrico, Oper Frankfurt,
+  2018. Photo: Barbara Aumüller.'
+publishDate: "2018-01-24T11:08:00-05:00"
+related_articles:
+- articles/misnomers-interstellar-sex-scenes-vasco-de-gama.md
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people:
+- scene/people/bjorn-burger.md
+- scene/people/angela-vallone.md
+- scene/people/samuel-levine.md
+- scene/people/juanita-lascarro.md
+- scene/people/holger-falk.md
+- scene/people/sebastian-geyer.md
+short_description: After suffering trauma to the head while in character as Henry
+  IV, Enrico (Holger Falk) regains consciousness still believing himself to be the
+  11th century emperor. So as not to rattle him, Enrico&#039;s relatives maintain
+  an elaborate lie involving costumes, alternate personas and staff trained to appease
+  him.
+slug: clairvoyant-art-enrico-at-oper-frankfurt
+title: 'Clairvoyant art: Enrico at Oper Frankfurt'
+---
 
 A man suffering from cognitive damage exerts a tyrannical rule over the people around him. He believes himself to be a powerful leader. His entourage plays into this delusion, at first as a joke, then out of fear. The man is volatile and unpredictable. He strips down to his skivvies and sexually assaults a young woman. His traumatized and obedient relatives and staff tiptoe around him as if on eggshells. They lay careful plans when he is out of earshot to coax him in their favour. A doctor is brought in to evaluate his cognitive function. Despite his erratic speech and behaviour, the man declares that he is not crazy, and is in fact well aware of the lie that is being kept up for him. What started as a game has become a years-long living nightmare, and everyone is just trying to avoid a catastrophe.
 
 Sound familiar? 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516809871730/3473_enrico07_gross.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516809871730/3473_enrico07_gross.jpg.jpg)
 <figcaption>(l-r) Frederic Jost (Ordulfo), Holger Falk (Enrico) and Björn Bürger (Arialdo) in *Enrico*, Oper Frankfurt, 2018. Photo: Barbara Aumüller.</figcaption>
 </figure>
 
@@ -34,7 +50,9 @@ After suffering trauma to the head while in character as Henry IV, Enrico (Holge
 
 Enrico then declares that he has, in fact, been aware of his true identity for some time, but has consciously chosen not to return to the scary reality of the 20th century. (Here, Enrico removes his robes - ["the emperor has no clothes"](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes). As he still exhibits all the same deranged symptoms, it is unclear whether Enrico is a cool and calculated manipulator or a deluded, confused victim. When the emboldened visitors finally confront Enrico, he becomes violent, assaulting Frida ([Angela Vallone](/scene/people/angela-vallone/)) and stabbing Belcredi (Sebastian Geyer). 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516809896330/3469_enrico11_gross.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516809896330/3469_enrico11_gross.jpg.jpg)
 <figcaption>Juanita Lascarro (Marchesa Matilda Spina; front left), Holger Falk (Enrico; front right), Sebastian Geyer (Barone Tito Belcredi); in background: Peter Marsh (Landolfo), Samuel Levine (Bertoldo), Björn Bürger (Arialdo) in Oper Frankfurt's *Enrico*. Photo: Barbara Aumüller.</figcaption>
 </figure>
 

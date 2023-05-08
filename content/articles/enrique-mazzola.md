@@ -1,22 +1,29 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Interview"
-date = 2020-12-08T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1607278872/media/2020/12/sqEnriqueMazzola-ToddRosenberg_ed1dyh.jpg"
-primary_image_credit = "Photo: Todd Rosenberg."
-related_articles = ["articles/piotr-beczala.md", "articles/talking-with-conductors-enrique-mazzola.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/enrique-mazzola.md"]
-short_description = "\"Our city\" – It was a phrase that came up often in our conversation. It's clear Maestro Mazzola already has one foot firmly planted in his newly adopted hometown. As he confessed, he is excited to spend his first holiday season in Chicago despite health restrictions and cancellations."
-slug = "catching-up-with-enrique-mazzola"
-title = "Catching up with Enrique Mazzola"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Interview
+date: "2020-12-08T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1607278872/media/2020/12/sqEnriqueMazzola-ToddRosenberg_ed1dyh.jpg
+primary_image_credit: 'Photo: Todd Rosenberg.'
+related_articles:
+- articles/piotr-beczala.md
+- articles/talking-with-conductors-enrique-mazzola.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/enrique-mazzola.md
+short_description: '"Our city" – It was a phrase that came up often in our conversation.
+  It''s clear Maestro Mazzola already has one foot firmly planted in his newly adopted
+  hometown. As he confessed, he is excited to spend his first holiday season in Chicago
+  despite health restrictions and cancellations.'
+slug: catching-up-with-enrique-mazzola
+title: Catching up with Enrique Mazzola
+youtube_url: ""
+---
 When I [first spoke](/talking-with-conductors-enrique-mazzola/) with conductor Enrique Mazzola in October 2019, he had just been announced Lyric Opera of Chicago's new music director designate and preparing Verdi's _Luisa Miller_. Brimming with energy and excitement, the Maestro was keen to share his vision and ambitions for the future of Lyric and setting the tone for his tenure as its new leader.
 
 Since that time, the whole world has been flipped upside down due to COVID-19. Yet despite the ongoing pandemic, Mazzola's enthusiasm and optimism remains infectious (forgive the pun). In a recent Zoom interview, I caught up with Maestro, who is currently in the U.S. balancing regional conducting work (most recently with the Detroit Symphony Orchestra) and meeting the pandemic-related challenges facing Lyric with a smile and an eye toward the future, laying the groundwork for when he officially takes the reins as Lyric's music director in the 2021-2022 season.

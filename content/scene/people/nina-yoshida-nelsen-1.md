@@ -1,21 +1,30 @@
-+++
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633282613/media/2021/10/NinaYoshidaNelsen_bkyed1.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/sarasota-opera.md", "scene/companies/the-atlanta-opera.md", "scene/companies/utah-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-juilliard-school.md", "scene/companies/portland-opera.md", "scene/companies/seattle-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/chicago-opera-theater.md", "scene/companies/boston-lyric-opera-1.md"]
-slug = "nina-yoshida-nelsen"
-title = "Nina Yoshida Nelsen"
-website = "http://www.ninayoshidanelsen.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/nina.nelsen"
-[[social_media]]
-platform = "Linkedin"
-template = "social-media"
-url = "https://www.linkedin.com/in/nina-nelsen-a8634832/"
-
-+++
+---
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1633282613/media/2021/10/NinaYoshidaNelsen_bkyed1.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/sarasota-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/utah-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-juilliard-school.md
+- scene/companies/portland-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/chicago-opera-theater.md
+- scene/companies/boston-lyric-opera-1.md
+slug: nina-yoshida-nelsen
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/nina.nelsen
+- _template: people_single
+  platform: Linkedin
+  template: social-media
+  url: https://www.linkedin.com/in/nina-nelsen-a8634832/
+title: Nina Yoshida Nelsen
+website: http://www.ninayoshidanelsen.com/
+---
 Hailed as a “rich voiced, expressive mezzo-soprano” by San Francisco Classical Voice and “appealingly direct and honest in tone and bearing,” by Richard Dyer of the _Boston Globe_, Nina Yoshida Nelsen made her New York City Opera debut with great success as Suzuki in _Madama Butterfly_, conducted by George Manahan.
 
 In the 2021-2022 season Nina Yoshida Nelsen makes her Boston Lyric Opera debut as Mama Lucia in _Cavalleria Rusticana_.  She also makes her Bard Opera debut singing Mother Chen in Huang Ruo’s _An American Soldier_, with performances at Jazz at Lincoln Center.  She then returns to Opera Santa Barbara for a double bill of _El Amor Brujo_ and Frugola in _Il Tabarro_. Nina makes her Chicago Opera Theater debut singing Queen Queen Sophine in Mark Adamo’s Becoming Santa Claus.  In the spring, she sings Mama in Jack Perla’s _An American Dream_ at Kentucky Opera and the Alto Solo in Beethoven’s 9th Symphony with the Rhode Island Philharmonic.  

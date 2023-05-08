@@ -1,21 +1,23 @@
-+++
-date = "2017-09-07T18:07:00-04:00"
-lastmod = "2018-09-24T10:57:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504822036912/Headshot.jpg.jpg"
-publishDate = "2017-09-07T18:07:00-04:00"
-short_bio = "Pianist, teacher, and Music Director, Erik Flaten was born and raised in Eastern Washington State. Erik has been heard as both a soloist and collaborative pianist in his native Pacific Northwest, as well as in major cities including Seattle, Portland, San Francisco, Los Angeles, Philadelphia and New York City."
-slug = "erik-flaten"
-title = "Erik Flaten"
-website = "http://www.erikflaten.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/erik.flaten.3"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ErikFlaten"
-+++
+---
+date: "2017-09-07T18:07:00-04:00"
+lastmod: "2018-09-24T10:57:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504822036912/Headshot.jpg.jpg
+publishDate: "2017-09-07T18:07:00-04:00"
+short_bio: Pianist, teacher, and Music Director, Erik Flaten was born and raised in
+  Eastern Washington State. Erik has been heard as both a soloist and collaborative
+  pianist in his native Pacific Northwest, as well as in major cities including Seattle,
+  Portland, San Francisco, Los Angeles, Philadelphia and New York City.
+slug: erik-flaten
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/erik.flaten.3
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/ErikFlaten
+title: Erik Flaten
+website: http://www.erikflaten.com/
+---
 
 Pianist, teacher, and Music Director, Erik Flaten was born and raised in Eastern Washington State.  Erik has been heard as both a soloist and as a collaborative pianist in his native Pacific Northwest, as well as in major cities including Seattle, Portland, San Francisco, Los Angeles, Philadelphia and New York City. Most recently, Erik was Music Director of the National Tour of the Broadway show, Cabaret. *Broadway World* stated, "Flaten and his band are given their own richly deserved moments in the spotlight at the top of Act Two and the music director himself is given the well-earned final bow at the end of the curtain call." This summer, Erik served as the conductor of the acclaimed Off-Broadway production of *Sweeney Todd*. 
 

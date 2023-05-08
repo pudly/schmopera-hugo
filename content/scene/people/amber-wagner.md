@@ -1,21 +1,29 @@
-+++
-date = "2017-10-15T18:46:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-10-15T18:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508107544712/Amber_Wagner_pc_TK_1_300dpi.jpg.jpg"
-publishDate = "2017-10-15T18:50:00-04:00"
-related_companies = ["scene/companies/vancouver-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-metropolitan-opera.md","scene/companies/opera-australia.md","scene/companies/minnesota-opera.md","scene/companies/arizona-opera.md","scene/companies/palm-beach-opera.md","scene/companies/washington-national-opera.md"]
-slug = "amber-wagner"
-title = "Amber Wagner"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/coachdiva80/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/wagnersoprano"
-+++
+---
+date: "2017-10-15T18:46:00-04:00"
+discipline: Soprano
+lastmod: "2017-10-15T18:52:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508107544712/Amber_Wagner_pc_TK_1_300dpi.jpg.jpg
+publishDate: "2017-10-15T18:50:00-04:00"
+related_companies:
+- scene/companies/vancouver-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opera-australia.md
+- scene/companies/minnesota-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/palm-beach-opera.md
+- scene/companies/washington-national-opera.md
+slug: amber-wagner
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/coachdiva80/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/wagnersoprano
+title: Amber Wagner
+---
 
 American soprano Amber Wagner has been featured in Opera News as one of twenty-five artists poised to break out and become a major force in classical music in the coming decade. In a recent review of Wagner's *Der fliegende Holländer* at the Metropolitan Opera, the New York Times described her as possessing a "powerful, gleaming and richly expressive voice [which] was ideal for the music."
 

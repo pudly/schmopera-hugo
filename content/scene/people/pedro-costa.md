@@ -1,14 +1,14 @@
-+++
-date = "2017-09-06T21:40:00-04:00"
-discipline = "Pianist"
-lastmod = "2017-09-06T21:40:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546742644/media/2019/01/PedroCosta.jpg"
-publishDate = "2017-09-06T21:40:00-04:00"
-slug = "pedro-costa"
-title = "Pedro Costa"
-website = "https://www.pedro-costa.com/"
-
-+++
+---
+_template: people_single
+date: "2017-09-06T21:40:00-04:00"
+discipline: Pianist
+lastmod: "2017-09-06T21:40:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546742644/media/2019/01/PedroCosta.jpg
+publishDate: "2017-09-06T21:40:00-04:00"
+slug: pedro-costa
+title: Pedro Costa
+website: https://www.pedro-costa.com/
+---
 Pedro Costa was awarded in 2013 with the 1st Prize at the Interpretation Competition of Estoril, with the “Prize Helena Sá e Costa” and the 2nd Prize at the competition “New Tenuto” in Brussels. He was also the winner of the competitions “Florinda Santos” (2012), International Competition “Cidade do Fundão (2012), “ConCursos Competition” in Aveiro (2011), “Lopes-Graça Competition” (2008) and “St. Cecília Competition” in Porto (2007). 
 
 Since then, he has been performing solo, chamber music and lied recitals in many concert halls in Portugal, Belgium, Holland, Austria, Germany, and Italy. He played as well in Music Festivals like Automn Festival of Aveiro, Harmos Classical in Porto, International Music Festival of Espinho, International Music Festival of Póvoa do Varzim, Music Festival “Cistermúsica” in Alcobaça” and “L’Europe en Musique” Festival in Brussels.

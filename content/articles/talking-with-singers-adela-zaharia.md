@@ -1,17 +1,24 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = "2018-05-26T17:25:00-04:00"
-lastmod = "2018-05-29T09:29:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527459289056/_LPP4373.jpg.jpg"
-primary_image_credit = "Photo: Liviu Popa."
-publishDate = "2018-05-27T18:16:00-04:00"
-related_articles = ["articles/talking-with-singers-michael-fabiano.md","articles/interviewing-the-greats-virginia-zeani.md"]
-related_companies = ["scene/companies/los-angeles-opera.md"]
-short_description = "I have different favorite singers, especially for the roles that I am singing. For Traviata, it&#039;s the great Virginia Zeani or Anna Moffo, for Konstanze in Entführung it&#039;s Eda Moser. For her interpretation, energy on stage, and the passion that goes into the singing, it&#039;s of course Maria Callas."
-slug = "talking-with-singers-adela-zaharia"
-title = "Talking with singers: Adela Zaharia"
-+++
+---
+author:
+- authors/eva-cahen.md
+categories: Interview
+date: "2018-05-26T17:25:00-04:00"
+lastmod: "2018-05-29T09:29:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527459289056/_LPP4373.jpg.jpg
+primary_image_credit: 'Photo: Liviu Popa.'
+publishDate: "2018-05-27T18:16:00-04:00"
+related_articles:
+- articles/talking-with-singers-michael-fabiano.md
+- articles/interviewing-the-greats-virginia-zeani.md
+related_companies:
+- scene/companies/los-angeles-opera.md
+short_description: I have different favorite singers, especially for the roles that
+  I am singing. For Traviata, it&#039;s the great Virginia Zeani or Anna Moffo, for
+  Konstanze in Entführung it&#039;s Eda Moser. For her interpretation, energy on stage,
+  and the passion that goes into the singing, it&#039;s of course Maria Callas.
+slug: talking-with-singers-adela-zaharia
+title: 'Talking with singers: Adela Zaharia'
+---
 
 *Adela Zaharia is singing the role of Gilda at the LA Opera from May 27 to June 3, 2018. She was the first place winner of the 2017 Operalia competition. She hails from Arad in Romania and currently lives in Dusseldorf, where she has a contract with Deutsche Oper am Rhein.*
 
@@ -57,7 +64,9 @@ The entire Operalia experience has been a dream for me. I honestly didn't realiz
 
 Thinking about it beforehand, I was extremely intimidated but when I met him after the second round, as we were talking about the repertoire we would choose for the third round, the first thing that struck me was how human, warm and open he is. After shaking hands with him and seeing what an amazing and generous person he is, after seeing the good and positive energy that surrounds him, I couldn't be nervous anymore during the coaching. I was just ready to take in all the tips and knowledge he had to share. I was like a sponge trying to assimilate as much as I could.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527459347591/HDAdela.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527459347591/HDAdela.jpg.jpg)
 <figcaption>Adela Zaharia, soprano. Photo: Kartal Karadegik.</figcaption>
 </figure>
 

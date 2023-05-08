@@ -1,16 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2014-06-23T11:30:00-04:00"
-lastmod = "2015-04-23T15:42:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429818074870/Tamar2.jpg.jpg"
-publishDate = "2014-06-23T11:30:00-04:00"
-related_articles = ["articles/may-she-never-work-again.md"]
-related_companies = ["scene/companies/opera-australia.md"]
-short_description = "After an impressive media tempest, soprano Tamar Iveri will not be appearing as Desdemona in Opera Australia&#039;s upcoming production of Otello. OA made the decision to replace Tamar after the singer&#039;s homophobic remarks were made public. "
-slug = "desdemona-down"
-title = "Desdemona Down"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2014-06-23T11:30:00-04:00"
+lastmod: "2015-04-23T15:42:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429818074870/Tamar2.jpg.jpg
+publishDate: "2014-06-23T11:30:00-04:00"
+related_articles:
+- articles/may-she-never-work-again.md
+related_companies:
+- scene/companies/opera-australia.md
+short_description: 'After an impressive media tempest, soprano Tamar Iveri will not
+  be appearing as Desdemona in Opera Australia&#039;s upcoming production of Otello.
+  OA made the decision to replace Tamar after the singer&#039;s homophobic remarks
+  were made public. '
+slug: desdemona-down
+title: Desdemona Down
+---
 
 After an impressive media tempest, soprano Tamar Iveri will not be appearing as Desdemona in Opera Australia's upcoming production of _Otello_. OA made the [decision to replace Tamar](http://www.limelightmagazine.com.au/Article/388712,opera-australia-parts-company-with-tamar-iveri.aspx) after the singer's [homophobic remarks](may-she-never-work-again/) were made public. She recently gave a prickly, quasi-apology on her [Facebook page](https://www.facebook.com/tamariverisoprano/posts/10152123104307204?fref=nf), but it didn't seem to be swaying many opera lovers and LGBT non-haters.
 

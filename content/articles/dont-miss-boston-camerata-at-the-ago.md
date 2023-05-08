@@ -1,15 +1,20 @@
-+++
-author = ["authors/greg.md"]
-categories = "News"
-date = "2017-01-12T17:21:00+00:00"
-lastmod = "2017-01-13T18:06:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484242032124/2017-01-12---AGO.jpg.jpg"
-primary_image_credit = "Photo: commons.wikimedia.org."
-publishDate = "2017-01-13T17:25:00+00:00"
-short_description = "As part of the presentation, the Boston Camerata has been invited to perform a collection of devotional music from the 16th century. Under the direction of Anne Azéma, the period ensemble consists of four vocalists, and period instruments such as lutes, violas da gamba, vielle, harp and a hurdy gurdy. Yup. A hurdy gurdy. #HurdyGurdy"
-slug = "dont-miss-boston-camerata-at-the-ago"
-title = "Don&#039;t miss: Boston Camerata at the AGO"
-+++
+---
+author:
+- authors/greg.md
+categories: News
+date: "2017-01-12T17:21:00+00:00"
+lastmod: "2017-01-13T18:06:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484242032124/2017-01-12---AGO.jpg.jpg
+primary_image_credit: 'Photo: commons.wikimedia.org.'
+publishDate: "2017-01-13T17:25:00+00:00"
+short_description: 'As part of the presentation, the Boston Camerata has been invited
+  to perform a collection of devotional music from the 16th century. Under the direction
+  of Anne Azéma, the period ensemble consists of four vocalists, and period instruments
+  such as lutes, violas da gamba, vielle, harp and a hurdy gurdy. Yup. A hurdy gurdy.
+  #HurdyGurdy'
+slug: dont-miss-boston-camerata-at-the-ago
+title: 'Don&#039;t miss: Boston Camerata at the AGO'
+---
 
 The Art Gallery of Ontario is presenting a collection of works entitled [*Small Wonders: Gothic Boxwood Miniatures*](https://www.ago.net/small-wonders-gothic-boxwood-miniatures). The collection opened on November 5, 2016 and runs through until January 22nd. 
 

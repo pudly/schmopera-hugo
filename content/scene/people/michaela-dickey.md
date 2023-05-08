@@ -1,19 +1,25 @@
-+++
-date = "2015-12-19T10:50:00-05:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-12-19T10:50:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450540129503/2015-12-19---Michaela-Dickey.jpg.jpg"
-primary_image_credit = "Brent Calis"
-publishDate = "2015-12-19T10:50:00-05:00"
-related_companies = ["scene/companies/opera-mcgill.md","scene/companies/opera-nuova.md","scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md","scene/companies/pacific-opera-victoria.md"]
-slug = "michaela-dickey"
-title = "Michaela Dickey"
-website = "https://michaeladickey.wordpress.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://twitter.com/MichaelaDickey"
-+++
+---
+date: "2015-12-19T10:50:00-05:00"
+discipline: Mezzo-soprano
+lastmod: "2015-12-19T10:50:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450540129503/2015-12-19---Michaela-Dickey.jpg.jpg
+primary_image_credit: Brent Calis
+publishDate: "2015-12-19T10:50:00-05:00"
+related_companies:
+- scene/companies/opera-mcgill.md
+- scene/companies/opera-nuova.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-banff-centre.md
+- scene/companies/pacific-opera-victoria.md
+slug: michaela-dickey
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://twitter.com/MichaelaDickey
+title: Michaela Dickey
+website: https://michaeladickey.wordpress.com/
+---
 
 Mezzo-soprano Michaela Dickey, from 100 Mile House BC, holds both a Masters of Music and Artist Diploma in Voice and Opera Performance at McGill University, a Bachelor of Music in Opera Performance at the University of British Columbia and Diplomas in Voice Performance and Teaching from the Victoria Conservatory of Music. Over the years, Michaela has had the unique opportunity to work with incredible Canadian and American artists and grow and develop her art at some of the most esteemed institutions and summer programs in Canada.
 

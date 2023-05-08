@@ -1,22 +1,235 @@
-+++
-date = "2015-03-29T22:32:00-04:00"
-lastmod = "2015-07-07T20:50:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436316601953/14e6a52fe3d575d47921.jpeg.jpeg"
-publishDate = "2015-03-29T22:32:00-04:00"
-related_people = ["scene/people/adrianne-pieczonka.md","scene/people/adam-luther.md","scene/people/adrian-kramer.md","scene/people/alan-held.md","scene/people/alek-shrader.md","scene/people/alexina-louie.md","scene/people/alice-coote.md","scene/people/allyson-mchardy.md","scene/people/ambur-braid.md","scene/people/ana-sokolovic.md","scene/people/andrea-ludwig.md","scene/people/andrew-haji.md","scene/people/anna-christy.md","scene/people/ashlie-corcoran.md","scene/people/atom-egoyan.md","scene/people/aviva-fortunata.md","scene/people/ben-heppner.md","scene/people/betty-waynne-allison.md","scene/people/cameron-mcphail.md","scene/people/charlotte-burrage.md","scene/people/christopher-enns.md","scene/people/christian-van-horn.md","scene/people/christine-goerke.md","scene/people/christopher-mokrzewski.md","scene/people/claire-de-sevigne.md","scene/people/clarence-frazer.md","scene/people/colin-ainsworth.md","scene/people/conrad-siebert.md","scene/people/david-cangelosi.md","scene/people/david-daniels.md","scene/people/david-pomeroy.md","scene/people/dean-burry.md","scene/people/dimitri-pittas.md","scene/people/doug-macnaughton.md","scene/people/ernesto-ramirez.md","scene/people/elizabeth-deshong.md","scene/people/eric-owens.md","scene/people/erin-wall.md","scene/people/geoffrey-sirett.md","scene/people/gerald-finley.md","scene/people/gordon-bintner.md","scene/people/gregory-dahl.md","scene/people/heidi-melton.md","scene/people/ileana-montalbetti.md","scene/people/isabel-bayrakdarian.md","scene/people/issachah-savage.md","scene/people/james-westman.md","scene/people/jane-archibald.md","scene/people/jennifer-holloway.md","scene/people/jessica-muirhead.md","scene/people/joni-henson.md","scene/people/karine-boucher.md","scene/people/kelly-kaduce.md","scene/people/joel-ivany.md","scene/people/krisztina-szab.md","scene/people/laura-albino.md","scene/people/lauren-segal.md","scene/people/joshua-hopkins.md","scene/people/leslie-dala.md","scene/people/liz-upchurch.md","scene/people/lucy-crowe.md","scene/people/owen-mccausland.md","scene/people/jeanphilippe-fortierlazure.md","scene/people/alexander-neef.md","scene/people/rihab-chaieb.md","scene/people/russell-braun.md","scene/people/kyle-ketelsen.md","scene/people/zachary-nelson.md","scene/people/simone-osborne.md","scene/people/michael-schade.md","scene/people/sasha-djihanian.md","scene/people/tom-diamond.md","scene/people/wendy-nielsen.md","scene/people/robert-pomakov.md","scene/people/tamara-wilson.md","scene/people/isabel-leonard.md","scene/people/wallis-giunta.md","scene/people/miriam-khalil.md","scene/people/mireille-asselin.md","scene/people/serena-malfi.md","scene/people/teiya-kasahara.md","scene/people/patricia-racette.md","scene/people/patrick-lange.md","scene/people/peter-barrett.md","scene/people/philippe-sly.md","scene/people/robert-gleadow.md","scene/people/aaron-sheppard.md","scene/people/sondra-radvanovsky.md","scene/people/stephen-costello.md","scene/people/susan-graham.md","scene/people/tom-corbeil.md","scene/people/tracy-dahl.md","scene/people/john-relyea.md","scene/people/ekaterina-gubanova.md","scene/people/jacqueline-woodley.md","scene/people/neil-craighead.md","scene/people/iain-macneil.md","scene/people/michle-bogdanowicz.md","scene/people/jordan-de-souza.md","scene/people/layla-claire.md","scene/people/zoe-band.md","scene/people/dimitri-katotakis.md","scene/people/james-rolfe.md","scene/people/anna-chatterton.md","scene/people/judith-forst.md","scene/people/aaron-schwebel.md","scene/people/amiel-gladstone.md","scene/people/richard-margison.md","scene/people/phillip-addis.md","scene/people/marco-guidarini.md","scene/people/ekaterina-siurina.md","scene/people/charles-castronovo.md","scene/people/stefan-vinke.md","scene/people/wolfgang-ablingersperrhacke.md","scene/people/rachel-andrist.md","scene/people/hyejin-kwon.md","scene/people/johan-reuter.md","scene/people/samantha-pickett.md","scene/people/joyce-elkhoury.md","scene/people/jesse-clark.md","scene/people/john-macmaster.md","scene/people/nicola-beller-carbone.md","scene/people/anthony-roth-costanzo.md","scene/people/adi-braun.md","scene/people/virginia-hatfield.md","scene/people/james-levesque.md","scene/people/josef-wagner.md","scene/people/frdric-antoun.md","scene/people/jeremy-bowes.md","scene/people/robert-lepage.md","scene/people/john-fanning.md","scene/people/emily-fons.md","scene/people/michael-colvin.md","scene/people/megan-latham.md","scene/people/paul-appleby.md","scene/people/michael-barrett.md","scene/people/bruce-sledge.md","scene/people/russell-thomas.md","scene/people/paul-curran.md","scene/people/elza-van-den-heever.md","scene/people/steven-cole.md","scene/people/keri-alkema.md","scene/people/craig-irvin.md","scene/people/alexander-hajek.md","scene/people/dimitry-ivashchenko.md","scene/people/johannes-weisser.md","scene/people/varduhi-abrahamyan.md","scene/people/erica-iris.md","scene/people/ryan-harper.md","scene/people/scott-hendricks.md","scene/people/tomasz-konieczny.md","scene/people/andrew-shore.md","scene/people/samuel-chan.md","scene/people/meredith-arwardy.md","scene/people/kimberly-barber.md","scene/people/elena-tsallagova.md","scene/people/michael-konig.md","scene/people/marienicole-lemieux.md","scene/people/andreas-schager.md","scene/people/karen-cargill.md","scene/people/megan-quick.md","scene/people/ferruccio-furlanetto.md","scene/people/riccardo-massi.md","scene/people/stephane-mayer.md","scene/people/andrew-tees.md","scene/people/lawrence-zazzo.md","scene/people/markus-marquardt.md","scene/people/kenneth-kellogg.md","scene/people/harry-bicket.md","scene/people/lester-lynch.md","scene/people/roger-honeywell.md","scene/people/michael-uloth.md","scene/people/julia-jones.md","scene/people/robert-orth.md","scene/people/matt-boehler.md","scene/people/kelley-oconnor.md","scene/people/brandon-jovanovich.md","scene/people/cecelia-hall.md","scene/people/rb-schlather.md","scene/people/andriana-chuchman.md","scene/people/james-robinson.md","scene/people/alan-opie.md","scene/people/alfredo-daza.md","scene/people/corey-bix.md","scene/people/gundula-hintz.md","scene/people/michael-brandenburg.md","scene/people/bryan-hymel.md","scene/people/riccardo-frizza.md","scene/people/ryan-mckinny.md","scene/people/measha-brueggergosman.md","scene/people/mark-s-doss.md","scene/people/justin-welsh.md","scene/people/clay-hilley.md","scene/people/joseph-kaiser.md","scene/people/david-leigh.md","scene/people/susan-bullock.md","scene/people/wilhelm-schwinghammer.md","scene/people/kirsten-mackinnon.md","scene/people/johannes-kammler.md","scene/people/atalla-ayan.md","scene/people/lucas-meachem.md","scene/people/andrzej-filonczyk.md","scene/people/onay-kose.md","scene/people/elizabeth-mcdonald.md","scene/people/andrea-care.md","scene/people/roland-wood.md","scene/people/miles-mykkanen.md","scene/people/michele-capalbo.md","scene/people/carolyn-sproule.md","scene/people/annasophie-neher.md","scene/people/thomas-glenn.md","scene/people/eric-cutler.md","scene/people/simona-genga.md"]
-slug = "canadian-opera-company"
-title = "Canadian Opera Company"
-type_of_company = "Opera Company"
-website = "http://coc.ca"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/canadianoperacompany"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/CanadianOpera"
-+++
+---
+date: "2015-03-29T22:32:00-04:00"
+lastmod: "2015-07-07T20:50:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436316601953/14e6a52fe3d575d47921.jpeg.jpeg
+publishDate: "2015-03-29T22:32:00-04:00"
+related_people:
+- scene/people/adrianne-pieczonka.md
+- scene/people/adam-luther.md
+- scene/people/adrian-kramer.md
+- scene/people/alan-held.md
+- scene/people/alek-shrader.md
+- scene/people/alexina-louie.md
+- scene/people/alice-coote.md
+- scene/people/allyson-mchardy.md
+- scene/people/ambur-braid.md
+- scene/people/ana-sokolovic.md
+- scene/people/andrea-ludwig.md
+- scene/people/andrew-haji.md
+- scene/people/anna-christy.md
+- scene/people/ashlie-corcoran.md
+- scene/people/atom-egoyan.md
+- scene/people/aviva-fortunata.md
+- scene/people/ben-heppner.md
+- scene/people/betty-waynne-allison.md
+- scene/people/cameron-mcphail.md
+- scene/people/charlotte-burrage.md
+- scene/people/christopher-enns.md
+- scene/people/christian-van-horn.md
+- scene/people/christine-goerke.md
+- scene/people/christopher-mokrzewski.md
+- scene/people/claire-de-sevigne.md
+- scene/people/clarence-frazer.md
+- scene/people/colin-ainsworth.md
+- scene/people/conrad-siebert.md
+- scene/people/david-cangelosi.md
+- scene/people/david-daniels.md
+- scene/people/david-pomeroy.md
+- scene/people/dean-burry.md
+- scene/people/dimitri-pittas.md
+- scene/people/doug-macnaughton.md
+- scene/people/ernesto-ramirez.md
+- scene/people/elizabeth-deshong.md
+- scene/people/eric-owens.md
+- scene/people/erin-wall.md
+- scene/people/geoffrey-sirett.md
+- scene/people/gerald-finley.md
+- scene/people/gordon-bintner.md
+- scene/people/gregory-dahl.md
+- scene/people/heidi-melton.md
+- scene/people/ileana-montalbetti.md
+- scene/people/isabel-bayrakdarian.md
+- scene/people/issachah-savage.md
+- scene/people/james-westman.md
+- scene/people/jane-archibald.md
+- scene/people/jennifer-holloway.md
+- scene/people/jessica-muirhead.md
+- scene/people/joni-henson.md
+- scene/people/karine-boucher.md
+- scene/people/kelly-kaduce.md
+- scene/people/joel-ivany.md
+- scene/people/krisztina-szab.md
+- scene/people/laura-albino.md
+- scene/people/lauren-segal.md
+- scene/people/joshua-hopkins.md
+- scene/people/leslie-dala.md
+- scene/people/liz-upchurch.md
+- scene/people/lucy-crowe.md
+- scene/people/owen-mccausland.md
+- scene/people/jeanphilippe-fortierlazure.md
+- scene/people/alexander-neef.md
+- scene/people/rihab-chaieb.md
+- scene/people/russell-braun.md
+- scene/people/kyle-ketelsen.md
+- scene/people/zachary-nelson.md
+- scene/people/simone-osborne.md
+- scene/people/michael-schade.md
+- scene/people/sasha-djihanian.md
+- scene/people/tom-diamond.md
+- scene/people/wendy-nielsen.md
+- scene/people/robert-pomakov.md
+- scene/people/tamara-wilson.md
+- scene/people/isabel-leonard.md
+- scene/people/wallis-giunta.md
+- scene/people/miriam-khalil.md
+- scene/people/mireille-asselin.md
+- scene/people/serena-malfi.md
+- scene/people/teiya-kasahara.md
+- scene/people/patricia-racette.md
+- scene/people/patrick-lange.md
+- scene/people/peter-barrett.md
+- scene/people/philippe-sly.md
+- scene/people/robert-gleadow.md
+- scene/people/aaron-sheppard.md
+- scene/people/sondra-radvanovsky.md
+- scene/people/stephen-costello.md
+- scene/people/susan-graham.md
+- scene/people/tom-corbeil.md
+- scene/people/tracy-dahl.md
+- scene/people/john-relyea.md
+- scene/people/ekaterina-gubanova.md
+- scene/people/jacqueline-woodley.md
+- scene/people/neil-craighead.md
+- scene/people/iain-macneil.md
+- scene/people/michle-bogdanowicz.md
+- scene/people/jordan-de-souza.md
+- scene/people/layla-claire.md
+- scene/people/zoe-band.md
+- scene/people/dimitri-katotakis.md
+- scene/people/james-rolfe.md
+- scene/people/anna-chatterton.md
+- scene/people/judith-forst.md
+- scene/people/aaron-schwebel.md
+- scene/people/amiel-gladstone.md
+- scene/people/richard-margison.md
+- scene/people/phillip-addis.md
+- scene/people/marco-guidarini.md
+- scene/people/ekaterina-siurina.md
+- scene/people/charles-castronovo.md
+- scene/people/stefan-vinke.md
+- scene/people/wolfgang-ablingersperrhacke.md
+- scene/people/rachel-andrist.md
+- scene/people/hyejin-kwon.md
+- scene/people/johan-reuter.md
+- scene/people/samantha-pickett.md
+- scene/people/joyce-elkhoury.md
+- scene/people/jesse-clark.md
+- scene/people/john-macmaster.md
+- scene/people/nicola-beller-carbone.md
+- scene/people/anthony-roth-costanzo.md
+- scene/people/adi-braun.md
+- scene/people/virginia-hatfield.md
+- scene/people/james-levesque.md
+- scene/people/josef-wagner.md
+- scene/people/frdric-antoun.md
+- scene/people/jeremy-bowes.md
+- scene/people/robert-lepage.md
+- scene/people/john-fanning.md
+- scene/people/emily-fons.md
+- scene/people/michael-colvin.md
+- scene/people/megan-latham.md
+- scene/people/paul-appleby.md
+- scene/people/michael-barrett.md
+- scene/people/bruce-sledge.md
+- scene/people/russell-thomas.md
+- scene/people/paul-curran.md
+- scene/people/elza-van-den-heever.md
+- scene/people/steven-cole.md
+- scene/people/keri-alkema.md
+- scene/people/craig-irvin.md
+- scene/people/alexander-hajek.md
+- scene/people/dimitry-ivashchenko.md
+- scene/people/johannes-weisser.md
+- scene/people/varduhi-abrahamyan.md
+- scene/people/erica-iris.md
+- scene/people/ryan-harper.md
+- scene/people/scott-hendricks.md
+- scene/people/tomasz-konieczny.md
+- scene/people/andrew-shore.md
+- scene/people/samuel-chan.md
+- scene/people/meredith-arwardy.md
+- scene/people/kimberly-barber.md
+- scene/people/elena-tsallagova.md
+- scene/people/michael-konig.md
+- scene/people/marienicole-lemieux.md
+- scene/people/andreas-schager.md
+- scene/people/karen-cargill.md
+- scene/people/megan-quick.md
+- scene/people/ferruccio-furlanetto.md
+- scene/people/riccardo-massi.md
+- scene/people/stephane-mayer.md
+- scene/people/andrew-tees.md
+- scene/people/lawrence-zazzo.md
+- scene/people/markus-marquardt.md
+- scene/people/kenneth-kellogg.md
+- scene/people/harry-bicket.md
+- scene/people/lester-lynch.md
+- scene/people/roger-honeywell.md
+- scene/people/michael-uloth.md
+- scene/people/julia-jones.md
+- scene/people/robert-orth.md
+- scene/people/matt-boehler.md
+- scene/people/kelley-oconnor.md
+- scene/people/brandon-jovanovich.md
+- scene/people/cecelia-hall.md
+- scene/people/rb-schlather.md
+- scene/people/andriana-chuchman.md
+- scene/people/james-robinson.md
+- scene/people/alan-opie.md
+- scene/people/alfredo-daza.md
+- scene/people/corey-bix.md
+- scene/people/gundula-hintz.md
+- scene/people/michael-brandenburg.md
+- scene/people/bryan-hymel.md
+- scene/people/riccardo-frizza.md
+- scene/people/ryan-mckinny.md
+- scene/people/measha-brueggergosman.md
+- scene/people/mark-s-doss.md
+- scene/people/justin-welsh.md
+- scene/people/clay-hilley.md
+- scene/people/joseph-kaiser.md
+- scene/people/david-leigh.md
+- scene/people/susan-bullock.md
+- scene/people/wilhelm-schwinghammer.md
+- scene/people/kirsten-mackinnon.md
+- scene/people/johannes-kammler.md
+- scene/people/atalla-ayan.md
+- scene/people/lucas-meachem.md
+- scene/people/andrzej-filonczyk.md
+- scene/people/onay-kose.md
+- scene/people/elizabeth-mcdonald.md
+- scene/people/andrea-care.md
+- scene/people/roland-wood.md
+- scene/people/miles-mykkanen.md
+- scene/people/michele-capalbo.md
+- scene/people/carolyn-sproule.md
+- scene/people/annasophie-neher.md
+- scene/people/thomas-glenn.md
+- scene/people/eric-cutler.md
+- scene/people/simona-genga.md
+slug: canadian-opera-company
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/canadianoperacompany
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/CanadianOpera
+title: Canadian Opera Company
+type_of_company: Opera Company
+website: http://coc.ca
+---
 
 Based in Toronto, the Canadian Opera Company is the largest producer of opera in Canada and one of the largest in North America. The company enjoys an international reputation for artistic excellence and creative innovation.
 

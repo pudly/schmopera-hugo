@@ -1,18 +1,26 @@
-+++
-date = "2016-03-08T13:48:00+00:00"
-discipline = "Baritone"
-lastmod = "2016-03-08T13:48:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457444473312/2016-03-08---Stephen-Gadd.jpg.jpg"
-publishDate = "2016-03-08T13:48:00+00:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/welsh-national-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/salzburg-festival.md","scene/companies/the-dallas-opera.md"]
-slug = "stephen-gadd"
-title = "Stephen Gadd"
-website = "http://stephengadd.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/_Stephen_Gadd"
-+++
+---
+date: "2016-03-08T13:48:00+00:00"
+discipline: Baritone
+lastmod: "2016-03-08T13:48:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457444473312/2016-03-08---Stephen-Gadd.jpg.jpg
+publishDate: "2016-03-08T13:48:00+00:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/royal-opera-house.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/salzburg-festival.md
+- scene/companies/the-dallas-opera.md
+slug: stephen-gadd
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/_Stephen_Gadd
+title: Stephen Gadd
+website: http://stephengadd.com/
+---
 
 English baritone Stephen Gadd won the Kathleen Ferrier Memorial Scholarship, and was a finalist in the inaugural Plácido Domingo Operalia Competition. A boy chorister at Coventry Cathedral, he was a choral scholar at St John’s College, Cambridge, and studied singing at the Royal Northern College of Music.
 

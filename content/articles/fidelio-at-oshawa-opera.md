@@ -1,17 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-10-25T18:44:00-04:00"
-lastmod = "2015-10-26T11:11:00-04:00"
-preamble = "[Oshawa Opera](/scene/companies/oshawa-opera/) continues its season with *Fidelio* on November 15th. The in-concert performance features mezzo-soprano Brigitte Bogar as Leonora and tenor Jason Lamont as her husband, Florestan. Pianist Kate Carver plays Beethoven's score, and Oshawa Opera Artistic Director [Kristine Dandavino](/scene/people/kristine-dandavino/) narrates. \n\nI spoke with Kristine and Brigitte about Beethoven's only opera, about choosing happy endings and taking on not-your-average pants role. *Fidelio* plays at Kingsview United Church, 505 Adelaide Avenue East, Oshawa, at 3pm on November 15th. Admission is $25 (free for kids!); for details, follow the box office links below."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445813075538/Fidelio.jpg.jpg"
-publishDate = "2015-10-26T11:01:00-04:00"
-related_companies = ["scene/companies/oshawa-opera.md"]
-related_people = ["scene/people/kristine-dandavino.md"]
-short_description = "Oshawa Opera continues its season with Fidelio on November 15th. The in-concert performance features mezzo-soprano Brigitte Bogar as Leonora and tenor Jason Lamont as her husband, Florestan. Pianist Kate Carver plays Beethoven&#039;s score, and Oshawa Opera Artistic Director Kristine Dandavino narrates."
-slug = "fidelio-at-oshawa-opera"
-title = "Fidelio at Oshawa Opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-10-25T18:44:00-04:00"
+lastmod: "2015-10-26T11:11:00-04:00"
+preamble: "[Oshawa Opera](/scene/companies/oshawa-opera/) continues its season with
+  *Fidelio* on November 15th. The in-concert performance features mezzo-soprano Brigitte
+  Bogar as Leonora and tenor Jason Lamont as her husband, Florestan. Pianist Kate
+  Carver plays Beethoven's score, and Oshawa Opera Artistic Director [Kristine Dandavino](/scene/people/kristine-dandavino/)
+  narrates. \n\nI spoke with Kristine and Brigitte about Beethoven's only opera, about
+  choosing happy endings and taking on not-your-average pants role. *Fidelio* plays
+  at Kingsview United Church, 505 Adelaide Avenue East, Oshawa, at 3pm on November
+  15th. Admission is $25 (free for kids!); for details, follow the box office links
+  below."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445813075538/Fidelio.jpg.jpg
+publishDate: "2015-10-26T11:01:00-04:00"
+related_companies:
+- scene/companies/oshawa-opera.md
+related_people:
+- scene/people/kristine-dandavino.md
+short_description: Oshawa Opera continues its season with Fidelio on November 15th.
+  The in-concert performance features mezzo-soprano Brigitte Bogar as Leonora and
+  tenor Jason Lamont as her husband, Florestan. Pianist Kate Carver plays Beethoven&#039;s
+  score, and Oshawa Opera Artistic Director Kristine Dandavino narrates.
+slug: fidelio-at-oshawa-opera
+title: Fidelio at Oshawa Opera
+---
 
 ## 1. Why did you choose Fidelio?
 
@@ -25,7 +39,9 @@ I won't lie, producing a concert version of *Fidelio*, in Oshawa, sung in German
 
 I love Leonora's strength and courage, and the determination that keeps her going. The hardest part is that unlike a lot of other female characters she is not driven by the cliche - a need to "get her man" nor is she focused on or longing for an impossible love - she is simply being a faithful wife fighting for her husband's freedom. So therefore she is possibly the most theatrically demanding character to portray on stage.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445871570786/Brigitte.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445871570786/Brigitte.jpg.jpg)
 <figcaption>Brigitte Bogar, singing Leonora in Oshawa Opera's *Fidelio*.</figcaption>
 </figure>
 
@@ -35,7 +51,9 @@ I love Leonora's strength and courage, and the determination that keeps her goin
 
 **Brigitte**: I wouldn't say that it is more difficult to sing than any other opera. It is certainly different to singing Mozart or Bellini, but not that different from Wagner or Strauss. The main difficulty is the sheer length of the second act which is almost relentless, but it is also used by Beethoven to show the way the characters are going through such a hard time. But I do find this far easier to sing than his 9th Symphony. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445871627211/3dySiMhcrPaRoOG3Kul-WhHcnm7Lhhgfx89fjR846jPna98lc-HtOQUSsOSPpLaOooxNCHJ2RqCJISpfNv4ZS1Wkz6myhA%3Dw680-h680-c)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445871627211/3dySiMhcrPaRoOG3Kul-WhHcnm7Lhhgfx89fjR846jPna98lc-HtOQUSsOSPpLaOooxNCHJ2RqCJISpfNv4ZS1Wkz6myhA%3Dw680-h680-c)
 <figcaption>Oshawa Opera Artistic Director Kristine Dandavino.</figcaption>
 </figure>
 

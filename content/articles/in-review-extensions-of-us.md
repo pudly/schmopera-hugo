@@ -1,15 +1,21 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2014-11-16T10:00:00-05:00"
-lastmod = "2015-04-13T23:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428980878414/Extensions-Collage-720x720.jpg.jpg"
-publishDate = "2014-11-16T10:00:00-05:00"
-related_people = ["scene/people/lucia-cesaroni.md","scene/people/adrian-kramer.md","scene/people/maikai-nash.md"]
-short_description = "On a cool Thursday night I trotted down to the Extension Room at 30 Eastern Avenue for Extensions of Us, featuring Lucia Cesaroni, Adrian Kramer, Jennifer Nichols and Justin De Bernardi with Maika&#039;i Nash on piano."
-slug = "in-review-extensions-of-us"
-title = "In review: Extensions of Us"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2014-11-16T10:00:00-05:00"
+lastmod: "2015-04-13T23:09:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428980878414/Extensions-Collage-720x720.jpg.jpg
+publishDate: "2014-11-16T10:00:00-05:00"
+related_people:
+- scene/people/lucia-cesaroni.md
+- scene/people/adrian-kramer.md
+- scene/people/maikai-nash.md
+short_description: On a cool Thursday night I trotted down to the Extension Room at
+  30 Eastern Avenue for Extensions of Us, featuring Lucia Cesaroni, Adrian Kramer,
+  Jennifer Nichols and Justin De Bernardi with Maika&#039;i Nash on piano.
+slug: in-review-extensions-of-us
+title: 'In review: Extensions of Us'
+---
 
  a cool Thursday night I trotted down to the Extension Room at 30 Eastern Avenue for _Extensions of Us_, featuring [Lucia Cesaroni](http://luciacesaroni.com/), [Adrian Kramer](https://twitter.com/aitkramer), [Jennifer Nichols](https://twitter.com/jennemethod) and [Justin De Bernardi](https://twitter.com/justindebz) with [Maika'i Nash](http://maikai.ca/) on piano.
 I walked into the jam-packed modern space at the [Extension Room](http://www.extensionmethod.com/) to white painted brick walls, a vintage sign on the back wall, chandeliers, a few cruiser tables, an affordable bar, and a banquet spread worthy of a shout out from my tummy (more of us should be doing this at recitals).

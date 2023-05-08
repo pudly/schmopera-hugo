@@ -1,18 +1,24 @@
-+++
-date = "2017-04-03T10:57:00+01:00"
-discipline = "Tenor"
-lastmod = "2017-04-03T10:57:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491213275798/2017-04-03---Noah-Stewart.jpg.jpg"
-publishDate = "2017-04-03T10:57:00+01:00"
-related_companies = ["scene/companies/nashville-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/royal-opera-house.md","scene/companies/the-atlanta-opera.md","scene/companies/arizona-opera.md"]
-slug = "noah-stewart"
-title = "Noah Stewart"
-website = "http://noahstewart.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/noahsofficial"
-+++
+---
+date: "2017-04-03T10:57:00+01:00"
+discipline: Tenor
+lastmod: "2017-04-03T10:57:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491213275798/2017-04-03---Noah-Stewart.jpg.jpg
+publishDate: "2017-04-03T10:57:00+01:00"
+related_companies:
+- scene/companies/nashville-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/royal-opera-house.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/arizona-opera.md
+slug: noah-stewart
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/noahsofficial
+title: Noah Stewart
+website: http://noahstewart.com/
+---
 
 Lauded for his distinctive timbre, magnetic stage presence and movie star good looks, Noah has become one of operas most sought after international performers. He is especially recognized for his portrayals in the romantic Italian & French repertory and is a frequent guest artist with major opera companies and concert halls around the world.
 

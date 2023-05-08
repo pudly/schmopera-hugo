@@ -1,34 +1,37 @@
-+++
-date = "2017-09-15T21:48:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-09-15T21:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505526346859/RachelHeadshot.jpeg.jpeg"
-publishDate = "2017-09-15T21:48:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/minnesota-opera.md","scene/companies/english-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-dallas-opera.md","scene/companies/opera-theatre-of-st-louis.md"]
-slug = "rachel-sterrenberg"
-title = "Rachel Sterrenberg"
-website = "http://www.rachelsterrenberg.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/rachelsterrenberg"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/rachsterrenberg"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/rachel_sterrenberg/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UC4klI8k--Tyqui55Kg1ou1w"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/rachel-sterrenberg"
-+++
+---
+date: "2017-09-15T21:48:00-04:00"
+discipline: Soprano
+lastmod: "2017-09-15T21:48:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505526346859/RachelHeadshot.jpeg.jpeg
+publishDate: "2017-09-15T21:48:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/minnesota-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+slug: rachel-sterrenberg
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/rachelsterrenberg
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/rachsterrenberg
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/rachel_sterrenberg/
+- platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UC4klI8k--Tyqui55Kg1ou1w
+- _template: people_single
+  platform: Soundcloud
+  template: social-media
+  url: https://soundcloud.com/rachel-sterrenberg
+title: Rachel Sterrenberg
+website: http://www.rachelsterrenberg.com/
+---
 
 The 2017-2018 season holds several exciting debuts and returns for Ms. Sterrenberg. She begins the season with her home company of Opera Philadelphia as Pamina in their highly anticipated East Coast Premiere of the Barrie Kosky *Die Zauberflöte*, as part of their inaugural Festival O17. She goes on to sing Annina (La traviata) in her company debut with The Dallas Opera, and returns to Madison Opera for their new production of Daniel Catan’s *Florencia en el Amazonas*, portraying the role of Rosalba. She is also slated as a featured guest with the Oregon Mozart Players for a concert of Mozart lieder and Mahler’s Sympony No. 4 under the baton of Maestro Kelly Kuo.
 

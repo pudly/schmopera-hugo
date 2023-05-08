@@ -1,15 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-04-11T00:03:00-04:00"
-lastmod = "2015-04-11T00:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428724949221/Ericsson_1939.jpg.jpg"
-publishDate = "2015-02-20T09:03:00-05:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/brooklyn-academy-of-music.md"]
-short_description = "A remount is a weird thing for the artists involved. The sets, costumes, stagings, and (hopefully) the music stay the same, but the casting is rarely identical between productions. This means the newcomers have to insert themselves into the movements of another. This may seem like Acting 101, but the catch comes when the new singer is looking for some motivation for their movements, motivation that’s stronger than “that’s what they did the last time”."
-slug = "remounts-or-what-did-they-do-the-last-time"
-title = "Remounts, or &quot;What did they do the last time?&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-04-11T00:03:00-04:00"
+lastmod: "2015-04-11T00:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428724949221/Ericsson_1939.jpg.jpg
+publishDate: "2015-02-20T09:03:00-05:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/brooklyn-academy-of-music.md
+short_description: A remount is a weird thing for the artists involved. The sets,
+  costumes, stagings, and (hopefully) the music stay the same, but the casting is
+  rarely identical between productions. This means the newcomers have to insert themselves
+  into the movements of another. This may seem like Acting 101, but the catch comes
+  when the new singer is looking for some motivation for their movements, motivation
+  that’s stronger than “that’s what they did the last time”.
+slug: remounts-or-what-did-they-do-the-last-time
+title: Remounts, or &quot;What did they do the last time?&quot;
+---
 
 <p>
 	This week, I'm helping out on a remount production of <em>Semele</em>. I first worked on it in 2012 during my time in the COC Ensemble Studio, and this March, Zhang Huan's <em>Semele</em> is heading to the Brooklyn Academy of Music.

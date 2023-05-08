@@ -1,17 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-03-17T09:52:00+00:00"
-lastmod = "2017-03-17T13:03:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489746723458/2017-03-16---Radvanovsky---Eccles.jpg.jpg"
-primary_image_credit = "Photo by Andrew Eccles."
-publishDate = "2017-03-17T12:50:00+00:00"
-related_articles = ["articles/ivan-magri-wigmore.md","articles/in-review-kitty-whately-joseph-middleton-at-wigmore-hall.md"]
-related_people = ["scene/people/sondra-radvanovsky.md"]
-short_description = "Looking around the crowd in Cadogan Hall, we&#039;ve never seen so many people wiping their eyes or stifling sniffles. Radvanovsky pairs truly excellent singing with her whole heart and soul; she&#039;s honest and candid with her audiences, and with that bridge of personal connection come all the listeners&#039; waterworks."
-slug = "in-review-sondra-radvanovskys-stunning-london-recital-debut"
-title = "In review: Sondra Radvanovsky&#039;s stunning London recital debut"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-03-17T09:52:00+00:00"
+lastmod: "2017-03-17T13:03:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489746723458/2017-03-16---Radvanovsky---Eccles.jpg.jpg
+primary_image_credit: Photo by Andrew Eccles.
+publishDate: "2017-03-17T12:50:00+00:00"
+related_articles:
+- articles/ivan-magri-wigmore.md
+- articles/in-review-kitty-whately-joseph-middleton-at-wigmore-hall.md
+related_people:
+- scene/people/sondra-radvanovsky.md
+short_description: Looking around the crowd in Cadogan Hall, we&#039;ve never seen
+  so many people wiping their eyes or stifling sniffles. Radvanovsky pairs truly excellent
+  singing with her whole heart and soul; she&#039;s honest and candid with her audiences,
+  and with that bridge of personal connection come all the listeners&#039; waterworks.
+slug: in-review-sondra-radvanovskys-stunning-london-recital-debut
+title: 'In review: Sondra Radvanovsky&#039;s stunning London recital debut'
+---
 
 [Sondra Radvanovsky](/talking-with-singers-sondra-radvanovsky/)'s London recital debut was one of those occasions where four encores seem the obvious result. With pianist Anthony Manoli, Radvanovsky sang for the [Rosenblatt Recitals series](http://www.rosenblattrecitalseries.co.uk/recital.aspx?key=173) at Cadogan Hall; she brought us everything Bellini to Barber, plus two great gowns. 
 

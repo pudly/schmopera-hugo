@@ -1,22 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-03-26T16:23:24+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "_Faust_ runs at the Royal Opera House from 11 April to 6 May. For details and ticket information, [click here](https://www.roh.org.uk/productions/faust-by-david-mcvicar)."
-preamble = "Uruguayan bass-baritone Erwin Schrott is gearing up to get devilish: he's set to sing the role of Méphistophélès in Gounod's _Faust_, opposite Diana Damrau as Marguerite and Michael Fabiano in the title role. The production by David McVicar runs 11 April to 6 May, including a live cinema broadcast on 30 April.\n\nLike most bass-baritones, Schrott is accustomed to playing villains - devils, womanizers, and entitled Counts - and he enthusiastically unpacks the character of Méphistophélès in our great chat."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553617642/media/2019/03/sqErwinSchrottDarioAcosta.jpg"
-primary_image_credit = "Photo: Dario Acosta."
-related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/talking-with-singers-luca-pisaroni.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/erwin-schrott.md"]
-short_description = "\"Let's face it: if we had the chance to clone ourselves in a younger self and keep our memories or our soul…I wonder how many of us will take the chance immediately.\""
-slug = "talking-with-singers-erwin-schrott"
-title = "Talking with singers: Erwin Schrott"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-03-26T16:23:24+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: _Faust_ runs at the Royal Opera House from 11 April to 6 May. For details
+  and ticket information, [click here](https://www.roh.org.uk/productions/faust-by-david-mcvicar).
+preamble: |-
+  Uruguayan bass-baritone Erwin Schrott is gearing up to get devilish: he's set to sing the role of Méphistophélès in Gounod's _Faust_, opposite Diana Damrau as Marguerite and Michael Fabiano in the title role. The production by David McVicar runs 11 April to 6 May, including a live cinema broadcast on 30 April.
 
-+++
+  Like most bass-baritones, Schrott is accustomed to playing villains - devils, womanizers, and entitled Counts - and he enthusiastically unpacks the character of Méphistophélès in our great chat.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553617642/media/2019/03/sqErwinSchrottDarioAcosta.jpg
+primary_image_credit: 'Photo: Dario Acosta.'
+related_articles:
+- articles/talking-with-singers-matthew-polenzani.md
+- articles/talking-with-singers-luca-pisaroni.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/erwin-schrott.md
+short_description: '"Let''s face it: if we had the chance to clone ourselves in a
+  younger self and keep our memories or our soul…I wonder how many of us will take
+  the chance immediately."'
+slug: talking-with-singers-erwin-schrott
+title: 'Talking with singers: Erwin Schrott'
+youtube_url: ""
+---
 ### Why do you sing professionally?
 
 Singing makes me happy and I am honoured to do what I love to do. The first time that I stepped on a stage at the very early age, I somehow knew that I wanted to play music, sing and perform every day - if possible. My heart and soul are grateful and thankful for what I do and I will not like to change my job for anything in the whole world.
@@ -43,7 +53,9 @@ I think that he even understands love, but he just finds it overrated. It is thr
 
 That's the exact moment when he appears, when we feel left alone and short of answers, or at a time where we start to redefine certain aspects or beliefs about life. Let's face it: if we had the chance to clone ourselves in a younger self and keep our memories or our soul…I wonder how many of us will take the chance immediately.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553617999/media/2019/03/ErwinSchrottDarioAcosta2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1553617999/media/2019/03/ErwinSchrottDarioAcosta2.jpg)
 
 <figcaption>Erwin Schrott, bass. Photo: Dario Acosta.</figcaption>
 
@@ -63,7 +75,9 @@ We need the villains; because of them we have the most beautiful moments in oper
 
 Jokes aside, I see the villains and all the characters like the many layers of a whole. Every character in the opera is part of a whole being that represents the beauty of humanity in a more detailed way than when we are simply labelled as good or bad, black or white. We are all of it, we have it all in us, we are part of the whole and opera usually does good work of reminding us.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553617734/media/2019/03/ERWIN_SCHROTT2-copyr%20DARIO%20ACOSTA.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1553617734/media/2019/03/ERWIN_SCHROTT2-copyr%20DARIO%20ACOSTA.jpg)
 
 <figcaption>Erwin Schrott, bass. Photo: Dario Acosta.</figcaption>
 

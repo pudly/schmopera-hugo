@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-02-20T09:05:00-05:00"
-lastmod = "2016-02-20T09:50:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455977947882/2016-02-20---FAWN-light-dimmer---square.jpg.jpg"
-primary_image_credit = "Photo via FAWN Chamber Creative."
-publishDate = "2016-02-20T09:34:00-05:00"
-related_articles = ["articles/check-out-fawn-chamber-creative.md","articles/in-review-fawn-operas-lhomme-et-le-ciel.md","articles/gareth-matteys-belladonna-is-unashamedly-queer.md"]
-related_companies = ["scene/companies/fawn-chamber-creative.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/amanda-smith.md"]
-short_description = "Composers interested in submitting must do so by March 18, 2016, and FAWN is accepting a 1-5 minute recording of their work, plus the corresponding score, a bio, résumé, and a short summary of their compositional interests. The instrumentation is specific, and works must be include some or all of: tenor (voice), cello, electronics, percussion, and acoustic guitar."
-slug = "a-call-for-new-music-fawn-chamber-creative"
-title = "A call for new music: FAWN Chamber Creative"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-02-20T09:05:00-05:00"
+lastmod: "2016-02-20T09:50:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455977947882/2016-02-20---FAWN-light-dimmer---square.jpg.jpg
+primary_image_credit: Photo via FAWN Chamber Creative.
+publishDate: "2016-02-20T09:34:00-05:00"
+related_articles:
+- articles/check-out-fawn-chamber-creative.md
+- articles/in-review-fawn-operas-lhomme-et-le-ciel.md
+- articles/gareth-matteys-belladonna-is-unashamedly-queer.md
+related_companies:
+- scene/companies/fawn-chamber-creative.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/amanda-smith.md
+short_description: 'Composers interested in submitting must do so by March 18, 2016,
+  and FAWN is accepting a 1-5 minute recording of their work, plus the corresponding
+  score, a bio, résumé, and a short summary of their compositional interests. The
+  instrumentation is specific, and works must be include some or all of: tenor (voice),
+  cello, electronics, percussion, and acoustic guitar.'
+slug: a-call-for-new-music-fawn-chamber-creative
+title: 'A call for new music: FAWN Chamber Creative'
+---
 
 Composers, this one's for you!
 

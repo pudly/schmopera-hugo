@@ -1,19 +1,42 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-04-01T12:49:00+01:00"
-lastmod = "2017-04-03T17:26:00+01:00"
-preamble = "After making a splash with their [brand new triple-bill](http://www.schmopera.com/safe-words-masquerades-nashville-opera-presents-three-way/) in January, [Nashville Opera](/scene/companies/nashville-opera/) presents the well-loved - and equally sultry - [Carmen](http://www.nashvilleopera.org/carmen). Mezzo-soprano [Ginger Costa-Jackson](/scene/people/ginger-costa-jackson/) stars in the title role, meeting her match opposite [Noah Stewart](/scene/people/noah-stewart/) as Don José.\n\n[Carmen plays **April 6-8**](http://www.nashvilleopera.org/carmen) at Nashville's Andrew Jackson Hall. We spoke with Costa-Jackson and Stewart about playing infamous roles, feminists ahead of their time, and scenes that leave you on the edge of your seat."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491047285139/2017-04-02---Nashville-Carmen.jpg.jpg"
-primary_image_credit = "From top left: Noah Stewart, Ginger Costa-Jackson, Costa-Jackson rehearsing Carmen at Nashville Opera. Photo: Jonathan Pfahl."
-publishDate = "2017-04-03T17:26:00+01:00"
-related_articles = ["articles/in-review-three-way.md","articles/in-review-carmen-at-the-coc.md","articles/in-review-the-mississauga-symphony-presents-carmen.md","articles/talking-with-singers-jennifer-rowley.md","articles/nabucco-is-hard-to-find-in-the-latest-la-opera-production.md","articles/akhmetshinas-devastating-carmen-at-wiltons-music-hall.md","articles/ryan-mckinny-modern-meaning-in-a-gold-rushera-opera.md","articles/talking-with-singers-aigul-akhmetshina.md","articles/androgyny-is-sexy-carmen-at-roh.md","articles/susannah-is-the-great-original-american-opera.md"]
-related_companies = ["scene/companies/nashville-opera.md"]
-related_people = ["scene/people/ginger-costajackson.md","scene/people/noah-stewart.md"]
-short_description = "&quot;I think that neither Carmen nor José are hero nor villain, but people who make bad choices. I think that&#039;s why Carmen is perhaps the most performed opera of all time, partly because of its tragic love story. The stories of crimes and passion have documented throughout human history. We know these people and can identify with how they might feel or felt, based up personal experiences or from stories we have heard or read about.&quot;"
-slug = "nashville-operas-carmen-she-dies-because-she-told-a-man-no"
-title = "Nashville Opera&#039;s Carmen: &quot;She dies because she told a man, &#039;no&#039;.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-04-01T12:49:00+01:00"
+lastmod: "2017-04-03T17:26:00+01:00"
+preamble: |-
+  After making a splash with their [brand new triple-bill](http://www.schmopera.com/safe-words-masquerades-nashville-opera-presents-three-way/) in January, [Nashville Opera](/scene/companies/nashville-opera/) presents the well-loved - and equally sultry - [Carmen](http://www.nashvilleopera.org/carmen). Mezzo-soprano [Ginger Costa-Jackson](/scene/people/ginger-costa-jackson/) stars in the title role, meeting her match opposite [Noah Stewart](/scene/people/noah-stewart/) as Don José.
+
+  [Carmen plays **April 6-8**](http://www.nashvilleopera.org/carmen) at Nashville's Andrew Jackson Hall. We spoke with Costa-Jackson and Stewart about playing infamous roles, feminists ahead of their time, and scenes that leave you on the edge of your seat.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491047285139/2017-04-02---Nashville-Carmen.jpg.jpg
+primary_image_credit: 'From top left: Noah Stewart, Ginger Costa-Jackson, Costa-Jackson
+  rehearsing Carmen at Nashville Opera. Photo: Jonathan Pfahl.'
+publishDate: "2017-04-03T17:26:00+01:00"
+related_articles:
+- articles/in-review-three-way.md
+- articles/in-review-carmen-at-the-coc.md
+- articles/in-review-the-mississauga-symphony-presents-carmen.md
+- articles/talking-with-singers-jennifer-rowley.md
+- articles/nabucco-is-hard-to-find-in-the-latest-la-opera-production.md
+- articles/akhmetshinas-devastating-carmen-at-wiltons-music-hall.md
+- articles/ryan-mckinny-modern-meaning-in-a-gold-rushera-opera.md
+- articles/talking-with-singers-aigul-akhmetshina.md
+- articles/androgyny-is-sexy-carmen-at-roh.md
+- articles/susannah-is-the-great-original-american-opera.md
+related_companies:
+- scene/companies/nashville-opera.md
+related_people:
+- scene/people/ginger-costajackson.md
+- scene/people/noah-stewart.md
+short_description: '&quot;I think that neither Carmen nor José are hero nor villain,
+  but people who make bad choices. I think that&#039;s why Carmen is perhaps the most
+  performed opera of all time, partly because of its tragic love story. The stories
+  of crimes and passion have documented throughout human history. We know these people
+  and can identify with how they might feel or felt, based up personal experiences
+  or from stories we have heard or read about.&quot;'
+slug: nashville-operas-carmen-she-dies-because-she-told-a-man-no
+title: 'Nashville Opera&#039;s Carmen: &quot;She dies because she told a man, &#039;no&#039;.&quot;'
+---
 
 ## What do you find inspiring and challenging about singing famous roles like Carmen and Don José? 
 

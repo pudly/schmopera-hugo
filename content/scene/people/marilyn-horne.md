@@ -1,14 +1,20 @@
-+++
-date = "2015-05-18T15:20:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-05-18T15:21:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431976554347/0224_052004_03.jpg.jpg"
-primary_image_credit = "Marty Umans"
-publishDate = "2015-05-18T15:21:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/oberlin-college-and-conservatory.md","scene/companies/music-academy-of-the-west-voice-program.md"]
-slug = "marilyn-horne"
-title = "Marilyn Horne"
-+++
+---
+_template: people_single
+date: "2015-05-18T15:20:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-05-18T15:21:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431976554347/0224_052004_03.jpg.jpg
+primary_image_credit: Marty Umans
+publishDate: "2015-05-18T15:21:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/oberlin-college-and-conservatory.md
+- scene/companies/music-academy-of-the-west-voice-program.md
+slug: marilyn-horne
+title: Marilyn Horne
+---
 
 She has been called the "Star Spangled Singer" and "the Heifetz of singers." In 2002, after a career in which for over four decades Marilyn Horne had dominated her field, Opera News said, “Marilyn Horne – whose face and song have been in the light – in so many places, in so many styles, through so many media, for so many years – may be the most influential singer in American history.”  
 

@@ -1,17 +1,26 @@
-+++
-date = "2018-11-14T16:06:00-05:00"
-lastmod = "2018-11-14T18:18:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542229534786/wblouse2.jpg.jpg"
-publishDate = "2018-11-14T16:06:00-05:00"
-short_bio = "Canadian mezzo-soprano Kimberly Barber recently celebrated 30 years of continued activity on international operatic and concert stages (Paris, Chicago, New York City, London, Rome, Tokyo, Frankfurt, Montreal, Seattle and Toronto are among her stomping grounds) in a diverse and eclectic repertoire. Her return to Toronto&#039;s Tapestry Opera in May 2017, creating the role of the fortune-teller Asa in the world premiere of *Oksana G.*, garnered rave reviews and a Dora Award nomination for Best Ensemble. Her newly commissioned work, *This Land* (Abigail Richardson-Schulte), saw her join forces with TorQ Percussion Quartet, storyteller Rene Meshake and harpist Angela Schwarzkopf in a world premiere with *Numus* in Waterloo, Ontario (May 2017)."
-slug = "kimberly-barber"
-title = "Kimberly Barber"
-website = "https://www.kimberlybarber.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/thislandcanada"
-+++
+---
+date: "2018-11-14T16:06:00-05:00"
+lastmod: "2018-11-14T18:18:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542229534786/wblouse2.jpg.jpg
+publishDate: "2018-11-14T16:06:00-05:00"
+short_bio: Canadian mezzo-soprano Kimberly Barber recently celebrated 30 years of
+  continued activity on international operatic and concert stages (Paris, Chicago,
+  New York City, London, Rome, Tokyo, Frankfurt, Montreal, Seattle and Toronto are
+  among her stomping grounds) in a diverse and eclectic repertoire. Her return to
+  Toronto&#039;s Tapestry Opera in May 2017, creating the role of the fortune-teller
+  Asa in the world premiere of *Oksana G.*, garnered rave reviews and a Dora Award
+  nomination for Best Ensemble. Her newly commissioned work, *This Land* (Abigail
+  Richardson-Schulte), saw her join forces with TorQ Percussion Quartet, storyteller
+  Rene Meshake and harpist Angela Schwarzkopf in a world premiere with *Numus* in
+  Waterloo, Ontario (May 2017).
+slug: kimberly-barber
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/thislandcanada
+title: Kimberly Barber
+website: https://www.kimberlybarber.com/
+---
 
 If childhood pursuits were any indication, it would have been obvious that Kimberly Barber would have a bright future on world stages and in the hallowed halls of academe. Favourite early roles were Catwoman and alter ego (strongly modelled on "It" girls of the day, Lulu and Petula Clark) Lynn Warner, played out to excess in her suburban Willowdale basement. A close second in the make-believe sweepstakes was the role of teacher, probably because she was so bossy.
 

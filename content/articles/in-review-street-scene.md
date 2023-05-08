@@ -1,16 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-02-02T10:51:00-05:00"
-lastmod = "2015-04-11T22:05:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1427062263560/montague1914.jpg.jpg"
-publishDate = "2015-02-02T10:51:00-05:00"
-related_companies = ["scene/companies/voicebox-opera-in-concert.md"]
-related_people = ["scene/people/colin-ainsworth.md","scene/people/jennifer-taverner.md","scene/people/monica-whicher.md","scene/people/gregory-finney.md","scene/people/leighann-allen.md","scene/people/michelle-garlough.md"]
-short_description = "On Sunday afternoon I went to see VOICEBOX: Opera In Concert&#039;s production of Street Scene at the St. Lawrence Centre for the Arts. Kurt Weill&#039;s &quot;American Opera&quot;, with text by Elmer Rice and Langston Hughes, is a fantastic piece, and I agreed with Artistic Director Guillermo Silva-Marin when he said that the show doesn&#039;t get done enough."
-slug = "in-review-street-scene"
-title = "In review: Street Scene"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-02-02T10:51:00-05:00"
+lastmod: "2015-04-11T22:05:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1427062263560/montague1914.jpg.jpg
+publishDate: "2015-02-02T10:51:00-05:00"
+related_companies:
+- scene/companies/voicebox-opera-in-concert.md
+related_people:
+- scene/people/colin-ainsworth.md
+- scene/people/jennifer-taverner.md
+- scene/people/monica-whicher.md
+- scene/people/gregory-finney.md
+- scene/people/leighann-allen.md
+- scene/people/michelle-garlough.md
+short_description: 'On Sunday afternoon I went to see VOICEBOX: Opera In Concert&#039;s
+  production of Street Scene at the St. Lawrence Centre for the Arts. Kurt Weill&#039;s
+  &quot;American Opera&quot;, with text by Elmer Rice and Langston Hughes, is a fantastic
+  piece, and I agreed with Artistic Director Guillermo Silva-Marin when he said that
+  the show doesn&#039;t get done enough.'
+slug: in-review-street-scene
+title: 'In review: Street Scene'
+---
 
 <p>
 	On Sunday afternoon I went to see<a href="http://www.operainconcert.com/" target="_blank"> VOICEBOX: Opera In Concert</a>'s production of <a href="http://www.operainconcert.com/Street.html" target="_blank"><em>Street Scene</em> </a>at the St. Lawrence Centre for the Arts. Kurt Weill's "American Opera", with text by Elmer Rice and Langston Hughes, is a fantastic piece, and I agreed with Artistic Director Guillermo Silva-Marin when he said that the show doesn't get done enough. I've had the personal fortune to work on two productions of <em>Street</em> <em>Scene</em>;<em> </em>and it's a beautifully written story about people we all understand, and about real life, which doesn't adhere to happy endings or perfect timing. <em>Street Scene</em> is one of those great ensemble pieces, with a large cast, each one vital in creating Weill's world, where the characters are equal parts unique people, and representative of different facets of human nature. The big cast also calls for lots of different kinds of singing (and I think it's a great show to put up at schools and summer programs), and it was a good choice for Opera In Concert, which does a great job of putting Canada's talent onstage.

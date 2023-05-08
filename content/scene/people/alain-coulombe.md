@@ -1,18 +1,30 @@
-+++
-date = "2015-04-06T19:03:00+01:00"
-discipline = "Bass"
-lastmod = "2017-03-15T11:21:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489576865522/2017-03-15---Alain-Coulombe.jpg.jpg"
-publishDate = "2015-04-06T19:03:00+01:00"
-related_companies = ["scene/companies/calgary-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/lopra-de-montral.md","scene/companies/opra-de-qubec.md","scene/companies/vancouver-opera.md","scene/companies/edmonton-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/against-the-grain-theatre.md","scene/companies/opera-atelier.md","scene/companies/opera-lyra-ottawa.md","scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md"]
-slug = "alain-coulombe"
-title = "Alain Coulombe"
-website = "http://www.alaincoulombe.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = ""
-+++
+---
+date: "2015-04-06T19:03:00+01:00"
+discipline: Bass
+lastmod: "2017-03-15T11:21:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489576865522/2017-03-15---Alain-Coulombe.jpg.jpg
+publishDate: "2015-04-06T19:03:00+01:00"
+related_companies:
+- scene/companies/calgary-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/opra-de-qubec.md
+- scene/companies/vancouver-opera.md
+- scene/companies/edmonton-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/opera-atelier.md
+- scene/companies/opera-lyra-ottawa.md
+- scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md
+slug: alain-coulombe
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: ""
+title: Alain Coulombe
+website: http://www.alaincoulombe.com/
+---
 
 One of the most commanding and exciting singers of his generation, admired for his musical and dramatic versatility, French-Canadian bass Alain Coulombe is a favourite of international critics and audiences alike. In a career spanning over 25 years, he has collaborated with outstanding conductors such as Seiji Ozawa, Rafael Frühbeck de Burgos, Yannick Nézet-Séguin, Helmut Rilling, Richard Bradshaw, Kent Nagano, Bernard Labadie, Mark Albrecht, Edoardo Muller, Alain Altinoglu, Ingo Metzmacher and Richard Bonynge.
 

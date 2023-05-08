@@ -1,22 +1,24 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = "2019-07-21T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1563820262/media/2019/07/sqBonAppetitDSC_9138.jpg"
-primary_image_credit = "Bon Appetit!, Des Moines Metro Opera, 2019. Photo: Duane Tinkey."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "At the end of the performance, the audience was served the very chocolate cake depicted in the opera, bringing the experience full circle. A decadent finish to a decadent evening."
-slug = "decadence-at-dmmo-bon-appetit"
-title = "Decadence at DMMO: Bon Appetit!"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2019-07-21T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1563820262/media/2019/07/sqBonAppetitDSC_9138.jpg
+primary_image_credit: 'Bon Appetit!, Des Moines Metro Opera, 2019. Photo: Duane Tinkey.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: At the end of the performance, the audience was served the very
+  chocolate cake depicted in the opera, bringing the experience full circle. A decadent
+  finish to a decadent evening.
+slug: decadence-at-dmmo-bon-appetit
+title: 'Decadence at DMMO: Bon Appetit!'
+youtube_url: ""
+---
 This summer [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/) partnered with the [Iowa Culinary Institute](https://www.dmacc.edu/ici/Pages/welcome.aspx) to create a full operatic dining experience in celebration of Julia Child and Lee Hoiby's _Bon Appétit!_ The culinary students had studied and prepared French cuisine, allowing the guests to indulge their appetites as they enjoyed the theatrical performance. The audience could literally have their cake and eat it too!
 
 The evening began with champagne, hors d'oeuvres, and culinary-themed cabaret songs performed by four of the opera's apprentice artists: Quinn Bernegger, Catherine Goode, Robert Gerold, and Joyner Horn. The musical selections, although somewhat difficult to hear over the buzz of the crowd, kicked off the evening with a charming, lighthearted atmosphere that paired perfectly with the bubbly drinks.
@@ -25,7 +27,9 @@ The evening began with champagne, hors d'oeuvres, and culinary-themed cabaret so
 
 Once the guests' culinary and musical appetites were sufficiently whetted, dinner was served. The crowd moved to the performance space, the institute's main atrium transformed by scenic designer Adam Crinson and lighting designer Nate Wheatley into a colorful cooking show set. The signature blue and yellow kitchen was cheerful and nostalgic, and in combination with Heather Lesieur's retro costumes and Sarah Norton's hair and make up design, it instantly encapsulated the 1960s in America. The effect was familiar kitsch, just the right touch of humor and reverence.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563820304/media/2019/07/BonAppetitDSC_9181.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1563820304/media/2019/07/BonAppetitDSC_9181.jpg)
 
 <figcaption>Bon Appetit!, Des Moines Metro Opera, 2019. Photo: Duane Tinkey.</figcaption>
 
@@ -41,7 +45,9 @@ Finally the musical main course had arrived, and Joyce Castle took the stage. Ca
 
 > A decadent finish to a decadent evening.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563820318/media/2019/07/BonAppetitDSC_0679.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1563820318/media/2019/07/BonAppetitDSC_0679.jpg)
 
 <figcaption>Bon Appetit!, Des Moines Metro Opera, 2019. Photo: Duane Tinkey.</figcaption>
 
@@ -57,7 +63,9 @@ At the end of the performance, the audience was served the very chocolate cake d
 
 The performance I attended was also live streamed by Iowa Public Television, an appropriate tie-in since Julia Child’s shows have been a revered presence on public television for decades. You can watch the entire broadcast of the opera on the [Iowa Public Television website](http://www.iptv.org/video/story/34155/des-moines-metro-opera-presents-bon-appetit). If you want to enjoy some cake with it, you'll have to try the recipe yourself, I'm afraid.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563820330/media/2019/07/BonAppetitDSC_0724.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1563820330/media/2019/07/BonAppetitDSC_0724.jpg)
 
 <figcaption>Bon Appetit!, Des Moines Metro Opera, 2019. Photo: Duane Tinkey.</figcaption>
 

@@ -1,16 +1,21 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-06-15T20:07:00-04:00"
-lastmod = "2018-07-09T12:37:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529107444772/CopyofPIL_4252.jpg.jpg"
-primary_image_credit = "Simulacrum, Path New Music, 2018. Photo: Pierre Lidar."
-publishDate = "2018-06-15T20:07:00-04:00"
-related_articles = ["articles/ravishing-orphic-moments-with-gluck-aucoin-costanzo.md"]
-short_description = "Broadly interpreted and playing to the opera&#039;s self styled emphasis on technology, Simulacrum is about the conflict between man and machine. More specifically, it is a story of futuristic angst told against a backdrop of techno-existentialism. "
-slug = "simulacrum-futuristic-angst-and-dance"
-title = "Simulacrum: Futuristic angst and dance"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-06-15T20:07:00-04:00"
+lastmod: "2018-07-09T12:37:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529107444772/CopyofPIL_4252.jpg.jpg
+primary_image_credit: 'Simulacrum, Path New Music, 2018. Photo: Pierre Lidar.'
+publishDate: "2018-06-15T20:07:00-04:00"
+related_articles:
+- articles/ravishing-orphic-moments-with-gluck-aucoin-costanzo.md
+short_description: 'Broadly interpreted and playing to the opera&#039;s self styled
+  emphasis on technology, Simulacrum is about the conflict between man and machine.
+  More specifically, it is a story of futuristic angst told against a backdrop of
+  techno-existentialism. '
+slug: simulacrum-futuristic-angst-and-dance
+title: 'Simulacrum: Futuristic angst and dance'
+---
 
 The word *simulacrum*, is having quite a run these days. Rooted in Latin, it has been used at least twice in the last two years, first as the title of a ballet and currently as that of an opera, the inaugural project of Path New Music, that played earlier this month for three performances at the 3LD Art and Technology Center in New York's financial district. The meaning of simulacrum ranges from a
 likeness and similarity to an unreal or vague semblance. 
@@ -20,7 +25,9 @@ The ballet, presented by the Norwegian National Ballet in 2016 brought a young A
 The opera, about a young dancer who loses her leg and has a conflicted
 relationship with its bionic replacement and also her partner in dancing and life, appears to occupy the latter. Broadly interpreted and playing to the opera's self styled emphasis on technology, *Simulacrum* is about the conflict between human and machine. More specifically, it is a story of futuristic angst told against a backdrop of techno-existentialism.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529107556517/CopyofPIL_4377.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529107556517/CopyofPIL_4377.jpg.jpg)
 <figcaption>*Simulacrum*, Path New Music, 2018. Photo: Pierre Lidar.</figcaption>
 </figure>
 
@@ -29,7 +36,9 @@ Path New Music describes itself as an upstart artist collective of composures, m
 As is sometimes the case with works that wear their technological prowess on their sleeve, the most effective elements were not technological. There were five dancers, oddly costumed, but sharp and vivid from their initial entrance in which they portrayed pedestrian traffic encroaching on Lydia, the dancer who lost her leg. Evita Zacharioglou's aggressive and insistent choreography along with Kyle
 Soble's astute lighting created most of the evening’s technological tumult. Individual LED lights were briefly worn while Lydia's bionic leg and Elias's shirt intermittently blinked.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529107547080/CopyofPIL_4142.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529107547080/CopyofPIL_4142.jpg.jpg)
 <figcaption>*Simulacrum*, Path New Music, 2018. Photo: Pierre Lidar.</figcaption>
 </figure>
 
@@ -46,7 +55,9 @@ Having established its atonal disposition, the opera finds plaintive romance in 
 The opera takes a melodic turn with Meng Wang's scene in which Lydia and
 Elias hope her bionic leg would make both of them whole again. Wang mingles baroque tinged phrases with amorphous cosmic rhythms maintaining the distinction of each in a grippingly harmoniously manner. This was in captivating contrast to what had preceded and would follow. It clearly underlined the dilemma of human vs. machine.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1531084915639/Dancers.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1531084915639/Dancers.jpg.jpg)
 <figcaption>Dancer, Dante J. Norris and dancer/choreographer, Evita Zacarioglou in a screen shot from the Simulacrum video presented by Path New Music.</figcaption>
 </figure>
 
@@ -55,7 +66,9 @@ like Lydia and Elias, one strained to comprehend the whole.
 
 With the exception of Futing's prelude, the score was recorded and played back to accompany the singers. The voices and music were mixed to produce a hyper and unnatural sound. Michael Raymond Massoud was the conductor. Kexin Li's performance of the prelude on the vibraphone was an event in itself. The brief work is spacious and ethereal. In retrospect it was a subtle and organic expression of the clamor to come. Li used a variety of implements to strike, caress, and otherwise coax the vibraphone with lovely control and elegance. The performance had begun as we observed this graceful musician.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529107537396/CopyofPIL_4379.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529107537396/CopyofPIL_4379.jpg.jpg)
 <figcaption>*Simulacrum*, Path New Music, 2018. Photo: Pierre Lidar.</figcaption>
 </figure>
 

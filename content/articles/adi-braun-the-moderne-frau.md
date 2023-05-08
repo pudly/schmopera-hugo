@@ -1,17 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-09-11T12:48:00-04:00"
-lastmod = "2017-09-18T13:57:00-04:00"
-preamble = "Canadian jazz and cabaret singer [Adi Braun](/scene/people/adi-braun/) has released her fifth album, [*Adi Braun - Moderne Frau*](https://www.rcmusic.com/performing/event/1718/moderne-frau), which pays impressive homage to the unmistakable music of [Weimar Berlin](/vergesst-uns-nicht-adi-braun-on-weimar-cabaret/). Between the two World Wars (1918-1933), Berlin was a buzzing place for the arts and sciences, for intellectuals and innovators; the cabaret scene was strong, and largely fuelled by women. \n\nIn *Moderne Frau*, Braun features the music of leading German composers Kurt Weill, Franz Grothe, and Mischa Spoliansky; also on the album are three original songs, all of which are catchy, touching, and uncannily stylish. Braun and her band have fun with this music, and it's hard to turn down a chance to hear a new voice bringing to life classics like \"Mack the Knife\", \"Speak Low\", and \"Surabaya Johnny\".\n\nAhead of her [CD launch concert](https://www.rcmusic.com/performing/event/1718/moderne-frau) on **October 22, 7:30pm at the RCM's Temerty Theatre**, we spoke with Braun about the familiar political climate that inspired this music, and her fascination with the women of Weimar cabaret.\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505607325673/MODERNE%20FRAU%20FINAL%20COVER.jpg.jpg"
-publishDate = "2017-09-18T13:51:00-04:00"
-related_articles = ["articles/vergesst-uns-nicht-adi-braun-on-weimar-cabaret.md","articles/in-review-the-seven-deadly-sins.md"]
-related_people = ["scene/people/adi-braun.md"]
-short_description = "&quot;Any form of art is always influenced by the socio-political climate of its time.  Certainly the freedom gained by the abolishing of the strict Wilhelmine regime was one part in creating a much more liberal and fertile ground for artistic expression. Yet with the rise of the Nazis artists saw and feared what was to come and expressed this in their works of art.  The courage that performers had to give these often very risqué songs life is admirable.&quot;"
-slug = "adi-braun-the-moderne-frau"
-title = "Adi Braun, the Moderne Frau"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-09-11T12:48:00-04:00"
+lastmod: "2017-09-18T13:57:00-04:00"
+preamble: "Canadian jazz and cabaret singer [Adi Braun](/scene/people/adi-braun/)
+  has released her fifth album, [*Adi Braun - Moderne Frau*](https://www.rcmusic.com/performing/event/1718/moderne-frau),
+  which pays impressive homage to the unmistakable music of [Weimar Berlin](/vergesst-uns-nicht-adi-braun-on-weimar-cabaret/).
+  Between the two World Wars (1918-1933), Berlin was a buzzing place for the arts
+  and sciences, for intellectuals and innovators; the cabaret scene was strong, and
+  largely fuelled by women. \n\nIn *Moderne Frau*, Braun features the music of leading
+  German composers Kurt Weill, Franz Grothe, and Mischa Spoliansky; also on the album
+  are three original songs, all of which are catchy, touching, and uncannily stylish.
+  Braun and her band have fun with this music, and it's hard to turn down a chance
+  to hear a new voice bringing to life classics like \"Mack the Knife\", \"Speak Low\",
+  and \"Surabaya Johnny\".\n\nAhead of her [CD launch concert](https://www.rcmusic.com/performing/event/1718/moderne-frau)
+  on **October 22, 7:30pm at the RCM's Temerty Theatre**, we spoke with Braun about
+  the familiar political climate that inspired this music, and her fascination with
+  the women of Weimar cabaret.\n\n"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505607325673/MODERNE%20FRAU%20FINAL%20COVER.jpg.jpg
+publishDate: "2017-09-18T13:51:00-04:00"
+related_articles:
+- articles/vergesst-uns-nicht-adi-braun-on-weimar-cabaret.md
+- articles/in-review-the-seven-deadly-sins.md
+related_people:
+- scene/people/adi-braun.md
+short_description: '&quot;Any form of art is always influenced by the socio-political
+  climate of its time.  Certainly the freedom gained by the abolishing of the strict
+  Wilhelmine regime was one part in creating a much more liberal and fertile ground
+  for artistic expression. Yet with the rise of the Nazis artists saw and feared what
+  was to come and expressed this in their works of art.  The courage that performers
+  had to give these often very risqué songs life is admirable.&quot;'
+slug: adi-braun-the-moderne-frau
+title: Adi Braun, the Moderne Frau
+---
 
 ## Why have you been so drawn to Weimar cabaret?
  

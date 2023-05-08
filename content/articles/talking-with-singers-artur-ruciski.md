@@ -1,19 +1,26 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Interview"
-date = "2018-12-08T20:04:00-05:00"
-lastmod = "2018-12-10T10:22:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544317434795/sqArtur4_by-Andrzej-Swietlik-1000x1490.jpg.jpg"
-primary_image_credit = "Artur Ruciński, baritone. Photo: Andrzej Swietlik."
-publishDate = "2018-12-10T10:22:00-05:00"
-related_articles = ["articles/historymaking-cast-in-chicagos-il-trovatore.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/artur-rucinski.md"]
-short_description = "We discussed all things opera: the career, the &quot;life,&quot; the work, the music. Naturally, as compatriots, we touched on Polish music and reminisced on our experiences at the F. Chopin Academy of Music in Warsaw where we both studied, albeit ten years apart. We conversed in Polish. Below I provide an English translation of our conversation, edited solely to account for grammatical and syntactic necessities."
-slug = "talking-with-singers-artur-ruciński"
-title = "Talking with singers: Artur Ruciński"
-
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Interview
+date: "2018-12-08T20:04:00-05:00"
+lastmod: "2018-12-10T10:22:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544317434795/sqArtur4_by-Andrzej-Swietlik-1000x1490.jpg.jpg
+primary_image_credit: 'Artur Ruciński, baritone. Photo: Andrzej Swietlik.'
+publishDate: "2018-12-10T10:22:00-05:00"
+related_articles:
+- articles/historymaking-cast-in-chicagos-il-trovatore.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/artur-rucinski.md
+short_description: 'We discussed all things opera: the career, the &quot;life,&quot;
+  the work, the music. Naturally, as compatriots, we touched on Polish music and reminisced
+  on our experiences at the F. Chopin Academy of Music in Warsaw where we both studied,
+  albeit ten years apart. We conversed in Polish. Below I provide an English translation
+  of our conversation, edited solely to account for grammatical and syntactic necessities.'
+slug: talking-with-singers-artur-ruciński
+title: 'Talking with singers: Artur Ruciński'
+---
 This Sunday, December 9, Chicago audiences had their final opportunity to see an unforgettable *Il trovatore*. A revival of Sir David McVicar's breathtaking production, this show features a cast that has "legendary" stamped all over it. Before the run closes, I had an opportunity to meet Polish baritone Artur Ruciński, who sings Count di Luna, and who makes a stellar LOC debut in this production.  
  
 It's a privilege to meet some of Poland's operatic stars currently gracing the world’s most prestigious stages. Last season I interviewed tenor Piotr Beczała before his [vocal recital with pianist Martin Katz](/piotr-beczala/). Sitting together over some lovely pear-infused tea, Mr. Ruciński was a consummate gentleman, as thoughtful and generous in person as he is on stage.
@@ -38,7 +45,9 @@ We discussed all things opera: the career, the "life," the work, the music. Natu
 
 **AR**: I've been having a wonderful time in Chicago and at the Lyric with this production. I feel very comfortable here and I'm grateful for the public's warm reception of me.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544317306700/ArturRucinnski_ILTROVATORE_LyricOperaofChicago_LYR181114_074.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544317306700/ArturRucinnski_ILTROVATORE_LyricOperaofChicago_LYR181114_074.jpg.jpg)
 <figcaption>Artur Ruciński (Conte di Luna) in *Il trovatore*, Lyric Opera of Chicago, 2018. Photo: Todd Rosenberg.</figcaption>
 </figure>
  
@@ -56,7 +65,9 @@ I feel that, unfortunately, there seems to be a tendency these days for certain 
 
 **AR**: There is always something new to be learned and discovered in these great works. It's a genuine pleasure for me to reopen a score after a period of time. I don't think I could ever get tired of certain roles. Certain roles fascinate me no end. And the ones that suit me especially, that sit in my voice well, those give me endless satisfaction. One such role is the Count di Luna. Whenever stepping into a new production, I always try to add a new layer to the character, both dramatically and musically, particularly those moments and nuances that bring out the character's inner complexities. Working with many different conductors and directors, one learns constantly. I mean, in a score like *Trovatore*, let's just say it: Verdi was a genius and there are great depths to be explored. It's one of the best parts of this career.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544317357669/Artur6_by-Andrzej-Swietlik-1000x826.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544317357669/Artur6_by-Andrzej-Swietlik-1000x826.jpg.jpg)
 <figcaption>Artur Ruciński, baritone. Photo: Andrzej Swietlik.</figcaption>
 </figure>
  

@@ -1,29 +1,30 @@
-+++
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633283510/media/2021/10/JavierArrey_okiynu.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/cardiff-singer-of-the-world-competition.md", "scene/companies/wiener-staatsoper.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/washington-national-opera.md"]
-slug = "javier-arrey"
-title = "Javier Arrey"
-website = "https://www.javierarrey.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/javier.arrey.1"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/javierarrey1"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/javier.arrey/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCD5F4hlhYqEqZ9vedT4zybA"
-
-+++
+---
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1633283510/media/2021/10/JavierArrey_okiynu.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/cardiff-singer-of-the-world-competition.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/washington-national-opera.md
+slug: javier-arrey
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/javier.arrey.1
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/javierarrey1
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/javier.arrey/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCD5F4hlhYqEqZ9vedT4zybA
+title: Javier Arrey
+website: https://www.javierarrey.com/
+---
 Heralded as one of the most sought after and versatile baritones of the emerging generation, Chilean-American baritone Javier Arrey recently did his Metropolitan Opera debut as Schaunard (_La Bohème_) in the classic Franco Zeffirelli production and joined the roster of The Metropolitan Opera; he also did an acclaimed debut at the Wiener Staatsoper as Marcello in _La Bohème_.
 
 Engagements in recent seasons include, among others: Garibaldo (_Rodelinda_) and Sharpless (_Madama Butterfly_) at the Teatro Municipal de Santiago, Valdeburgo (_La Straniera_) at Washington Concert Opera, Marcello (_La Bohème_) at the Washington National Opera, Giovanni (_Don Giovanni_) at the Estates Theater in Prague and Castleton Festival, Alphonse (_La Favorite_) with Washington Concert Opera under Antony Walker. Following an acclaimed debut as Jago (_Otello_) at the Castleton Festival under Lorin Maazel, a performance _The Washington Post_ described as “menaced and connived but \[Arrey\] did so subtly and with a voice so lovely to listen to that his scheming seemed all the more threatening.”; Praises came also from Mo. Lorin Maazel who published: “Jago was stunningly sung and acted by Javier Arrey \[who\] manages to give shape to the jealous demon within Otello”.

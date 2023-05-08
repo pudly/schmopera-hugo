@@ -1,15 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2015-09-12T17:37:00-04:00"
-lastmod = "2015-09-21T10:22:00-04:00"
-preamble = "Technically, a singer's deadline for learning and perfecting a role is opening night. In reality, the ubiquitous deadline for opera singers is the first day of music rehearsals with the conductor. In this rehearsal, most singers want to a) sing incredibly well, b) make the conductor happy and c) not embarrass themselves in front of colleagues. Sure, the list of Things You Can't Control is long indeed; but you can create a great rehearsal environment for yourself, using these three things that you *can* control:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442104980599/RehearsalRoom.jpg.jpg"
-publishDate = "2015-09-13T08:59:00-04:00"
-short_description = "Technically, a singer&#039;s deadline for learning and perfecting a role is opening night. In reality, the ubiquitous deadline for opera singers is the first day of music rehearsals with the conductor. In this rehearsal, most singers want to a) sing incredibly well, b) make the conductor happy and c) not embarrass themselves in front of colleagues."
-slug = "3-ways-to-have-a-great-first-rehearsal"
-title = "3 ways to have a great first rehearsal"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2015-09-12T17:37:00-04:00"
+lastmod: "2015-09-21T10:22:00-04:00"
+preamble: 'Technically, a singer''s deadline for learning and perfecting a role is
+  opening night. In reality, the ubiquitous deadline for opera singers is the first
+  day of music rehearsals with the conductor. In this rehearsal, most singers want
+  to a) sing incredibly well, b) make the conductor happy and c) not embarrass themselves
+  in front of colleagues. Sure, the list of Things You Can''t Control is long indeed;
+  but you can create a great rehearsal environment for yourself, using these three
+  things that you *can* control:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442104980599/RehearsalRoom.jpg.jpg
+publishDate: "2015-09-13T08:59:00-04:00"
+short_description: Technically, a singer&#039;s deadline for learning and perfecting
+  a role is opening night. In reality, the ubiquitous deadline for opera singers is
+  the first day of music rehearsals with the conductor. In this rehearsal, most singers
+  want to a) sing incredibly well, b) make the conductor happy and c) not embarrass
+  themselves in front of colleagues.
+slug: 3-ways-to-have-a-great-first-rehearsal
+title: 3 ways to have a great first rehearsal
+---
 
 ### 1. Prepare for the uncomfortable
 

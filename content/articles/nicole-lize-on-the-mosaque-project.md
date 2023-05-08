@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-07-13T20:13:00-04:00"
-lastmod = "2018-07-17T19:53:00-04:00"
-preamble = "What does Canadian music sound like? It's a question that the members of Ensemble Made in Canada address with their newly commissioned [Musical Mosaïque](https://www.ensemblemadeincanada.com/mosaique-project/about-the-project/), a suite for piano quartet written by 14 different Canadian composers who make a musical nod to a particular province, territory, or region of the country.\n\nSaskatchewan native Nicole Lizée, with her compelling and eclectic style inspired by everything from rave culture to Alfred Hitchcock, makes her contribution to the Musical Mosaïque by paying homage to her home province. We spoke with Lizée about her musical aesthetic, and what it means to be a part of this very Canadian project."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1531871591258/sqNicole-Lizee-Nov-2013-11.jpg.jpg"
-primary_image_credit = "Photo: Murray Lightburn."
-publishDate = "2018-07-17T19:53:00-04:00"
-related_articles = ["articles/sarah-slean-on-the-mosaque-project.md","articles/canada-sounds-like-mosaque-project.md"]
-short_description = "&quot;For the past few years I&#039;ve been thinking a lot about Canadian culture - or Canadiana - and, more specifically, Saskatchewan culture and identity. I&#039;ve written two large-scale works in addition to this one that explores this as a premise. I feel I&#039;ve just started this exploration.&quot;"
-slug = "nicole-lize-on-the-mosaque-project"
-title = "Nicole Lizée on the Mosaïque Project"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-07-13T20:13:00-04:00"
+lastmod: "2018-07-17T19:53:00-04:00"
+preamble: |-
+  What does Canadian music sound like? It's a question that the members of Ensemble Made in Canada address with their newly commissioned [Musical Mosaïque](https://www.ensemblemadeincanada.com/mosaique-project/about-the-project/), a suite for piano quartet written by 14 different Canadian composers who make a musical nod to a particular province, territory, or region of the country.
+
+  Saskatchewan native Nicole Lizée, with her compelling and eclectic style inspired by everything from rave culture to Alfred Hitchcock, makes her contribution to the Musical Mosaïque by paying homage to her home province. We spoke with Lizée about her musical aesthetic, and what it means to be a part of this very Canadian project.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1531871591258/sqNicole-Lizee-Nov-2013-11.jpg.jpg
+primary_image_credit: 'Photo: Murray Lightburn.'
+publishDate: "2018-07-17T19:53:00-04:00"
+related_articles:
+- articles/sarah-slean-on-the-mosaque-project.md
+- articles/canada-sounds-like-mosaque-project.md
+short_description: '&quot;For the past few years I&#039;ve been thinking a lot about
+  Canadian culture - or Canadiana - and, more specifically, Saskatchewan culture and
+  identity. I&#039;ve written two large-scale works in addition to this one that explores
+  this as a premise. I feel I&#039;ve just started this exploration.&quot;'
+slug: nicole-lize-on-the-mosaque-project
+title: Nicole Lizée on the Mosaïque Project
+---
 
 ## What does it mean to you to be one of the 14 composers creating this Musical Mosaïque?
 

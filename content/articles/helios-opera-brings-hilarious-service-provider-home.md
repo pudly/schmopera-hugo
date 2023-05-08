@@ -1,27 +1,34 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2021-11-12T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1636498589/media/2021/11/sqHeliosOpera_Fight_still_ykjwow.jpg"
-primary_image_credit = "A still from Helios Opera's production of Service Provider, 2021. Image: Julien Rohel/Theodora Cottarel."
-related_articles = ["articles/an-open-letter-to-a-rude-bunch-of-operagoers.md"]
-related_companies = ["scene/companies/helios-opera.md"]
-related_people = []
-short_description = "Service Provider is essentially an opera all about cell phone use; the characters are on cell phones for most of the run-time, pretty much ignoring everything around them."
-slug = "helios-opera-brings-hilarious-service-provider-home"
-title = "Helios Opera brings hilarious Service Provider home"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2021-11-12T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1636498589/media/2021/11/sqHeliosOpera_Fight_still_ykjwow.jpg
+primary_image_credit: 'A still from Helios Opera''s production of Service Provider,
+  2021. Image: Julien Rohel/Theodora Cottarel.'
+related_articles:
+- articles/an-open-letter-to-a-rude-bunch-of-operagoers.md
+related_companies:
+- scene/companies/helios-opera.md
+related_people: []
+short_description: Service Provider is essentially an opera all about cell phone use;
+  the characters are on cell phones for most of the run-time, pretty much ignoring
+  everything around them.
+slug: helios-opera-brings-hilarious-service-provider-home
+title: Helios Opera brings hilarious Service Provider home
+youtube_url: ""
+---
 Some companies have elected to return to live performance in this later stage of the COVID-19 pandemic, but as time goes on it has become eminently clear that the pandemic has completely changed the game in some ways that cannot be denied. It seems, for instance, that some companies are still interested in doing digitally-produced opera. This is something that I actually think is a great thing for a variety of reasons, one of the least being that it can provide a platform to present new work that has fewer audience hurdles than the traditional in-person performance.
 
 Enter the reliably excellent [Helios Opera](/scene/companies/helios-opera/), which has opted to take its all-digital approach to a new thirty-minute work in [_Service Provider_](https://heliosopera.com/projects/service-provider/), a comedy in which half the characters cannot stay off their cell phones. This represents a kind of big artistic leap for Helios Opera: where in the past they have focused on smaller projects with only one singer, here they have graduated to a project that is somewhat larger in scale than their previous work in that they have four principal singers and a small cast of extras that populated the restaurant the work takes place in. It was really nice to see that they could take that leap.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1636498625/media/2021/11/HeliosOpera_Still_1_b396yk.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1636498625/media/2021/11/HeliosOpera_Still_1_b396yk.jpg)
 
 <figcaption>A still from Helios Opera's production of Service Provider, 2021. Image: Julien Rohel/Theodora Cottarel.</figcaption>  
 </figure>
@@ -36,7 +43,9 @@ It also helps that, musically, the work makes sense. Comic opera is a very trick
 
 I also rather liked how the married couple at the center of the story got some of their comedy in: the way Autumn interrupts Beau when he's trying to speak about his day involves such an abrupt shift in music that it drew a laugh out of me even as the scene grew more tense. And that is to say nothing of how it integrates cell phone ringing seamlessly into the score.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1636498638/media/2021/11/HeliosOpera_Still_2_p8ixex.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1636498638/media/2021/11/HeliosOpera_Still_2_p8ixex.jpg)
 
 <figcaption>A still from Helios Opera's production of Service Provider, 2021. Image: Julien Rohel/Theodora Cottarel.</figcaption>  
 </figure>

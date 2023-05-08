@@ -1,14 +1,18 @@
-+++
-author = ["authors/laura-attridge.md"]
-categories = "Op-ed"
-date = "2017-07-16T10:27:00-04:00"
-lastmod = "2017-07-17T08:13:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500216289621/2017-07-16---Letter.jpg.jpg"
-publishDate = "2017-07-17T08:13:00-04:00"
-short_description = "Panels don&#039;t often offer feedback to candidates: it&#039;s time-consuming and usually difficult to successfully administrate in the aftermath of a set of auditions. So here&#039;s a general note I wish I could send to everyone who auditions for me:"
-slug = "an-open-letter-to-audition-candidates"
-title = "An open letter to audition candidates"
-+++
+---
+author:
+- authors/laura-attridge.md
+categories: Op-ed
+date: "2017-07-16T10:27:00-04:00"
+lastmod: "2017-07-17T08:13:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500216289621/2017-07-16---Letter.jpg.jpg
+publishDate: "2017-07-17T08:13:00-04:00"
+short_description: 'Panels don&#039;t often offer feedback to candidates: it&#039;s
+  time-consuming and usually difficult to successfully administrate in the aftermath
+  of a set of auditions. So here&#039;s a general note I wish I could send to everyone
+  who auditions for me:'
+slug: an-open-letter-to-audition-candidates
+title: An open letter to audition candidates
+---
 
 Dear Audition Candidate,
 

@@ -1,16 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-08-03T12:50:00+01:00"
-lastmod = "2016-08-04T10:33:00+01:00"
-preamble = "Google reviews: why do people leave them? They give 1-5 star ratings, and leave a little comment about their good, bad, or so-so time at restaurants, concert venues, museums, and any other site on Earth that Google knows about. The premise seems to be entice (or warn) others about these places of business, since apparently, everyone's an expert.\n\nSo, are Google reviews unbiased? Horribly biased? Have the bad ones been weeded out by the company in question, and have the good ones been planted by pseudonyms with ulterior motives? For now, the question is moot. We got curious about what the anonymous (?) Internet had to say about some of the world's biggest opera houses.\n\nNote: a general [sic] applies throughout the piece, since we think spelling and grammar issues are part of the Google review experience."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470235093333/2016-08-03---Opera-Houses.jpg.jpg"
-publishDate = "2016-08-04T10:11:00+01:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/houston-grand-opera.md","scene/companies/san-francisco-opera.md","scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/canadian-opera-company.md"]
-short_description = "It seems that $7 sausage/beer deal is appealing, if a distant goal: &quot;Only complaint is that the concession stands are too far away to make it there and back comfortably during intermission.&quot; The only other complaint? The length of Les Troyens: &quot;It was much too long at 5 hours with two 30-minute intermission breaks.&quot;"
-slug = "6-opera-houses-googlereviewed"
-title = "6 opera houses, Google-reviewed"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-08-03T12:50:00+01:00"
+lastmod: "2016-08-04T10:33:00+01:00"
+preamble: |-
+  Google reviews: why do people leave them? They give 1-5 star ratings, and leave a little comment about their good, bad, or so-so time at restaurants, concert venues, museums, and any other site on Earth that Google knows about. The premise seems to be entice (or warn) others about these places of business, since apparently, everyone's an expert.
+
+  So, are Google reviews unbiased? Horribly biased? Have the bad ones been weeded out by the company in question, and have the good ones been planted by pseudonyms with ulterior motives? For now, the question is moot. We got curious about what the anonymous (?) Internet had to say about some of the world's biggest opera houses.
+
+  Note: a general [sic] applies throughout the piece, since we think spelling and grammar issues are part of the Google review experience.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470235093333/2016-08-03---Opera-Houses.jpg.jpg
+publishDate: "2016-08-04T10:11:00+01:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/canadian-opera-company.md
+short_description: 'It seems that $7 sausage/beer deal is appealing, if a distant
+  goal: &quot;Only complaint is that the concession stands are too far away to make
+  it there and back comfortably during intermission.&quot; The only other complaint?
+  The length of Les Troyens: &quot;It was much too long at 5 hours with two 30-minute
+  intermission breaks.&quot;'
+slug: 6-opera-houses-googlereviewed
+title: 6 opera houses, Google-reviewed
+---
 
 ## Lincoln Center
 

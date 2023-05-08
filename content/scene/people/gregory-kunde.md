@@ -1,27 +1,29 @@
-+++
-date = "2016-06-16T23:42:00-06:00"
-discipline = "Tenor"
-lastmod = "2016-06-16T23:45:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466141973052/2016-06-17---Gregory-Kunde-credit-Chris-Gloag.jpg.jpg"
-primary_image_credit = "Chris Gloag"
-publishDate = "2016-06-16T23:45:00-06:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/gran-teatre-del-liceu.md"]
-slug = "gregory-kunde"
-title = "Gregory Kunde"
-website = "http://www.gregorykunde.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/gregorykundeofficial/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MaestroGKC"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCvwnVoap_cif-C0Uep4UQVA"
-+++
+---
+date: "2016-06-16T23:42:00-06:00"
+discipline: Tenor
+lastmod: "2016-06-16T23:45:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466141973052/2016-06-17---Gregory-Kunde-credit-Chris-Gloag.jpg.jpg
+primary_image_credit: Chris Gloag
+publishDate: "2016-06-16T23:45:00-06:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/gran-teatre-del-liceu.md
+slug: gregory-kunde
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/gregorykundeofficial/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/MaestroGKC
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCvwnVoap_cif-C0Uep4UQVA
+title: Gregory Kunde
+website: http://www.gregorykunde.com/
+---
 
 Acclaimed throughout his career for his performances in French and Italian bel canto roles, Kunde has more recently earned a formidable reputation in Verdi and other dramatic repertoire. Since his critically acclaimed debut as Verdi’s Otello at La Fenice in 2012, he has performed this signature role in Valencia, Genoa, Salerno, Florence, Turin, Tokyo, Osaka, Nagoya, Seoul, and São Paulo. Other Verdi debuts in recent seasons include Arrigo *I vespri siciliani* and Riccardo *Un ballo in maschera* (Turin), Radames *Aida* (São Paulo), and Don Alvaro *La forza del destino* (Valencia). In the 2012/13 season, Kunde earned the unique distinction of being the only tenor in recorded history to perform both Rossini’s *Otello* and Verdi’s *Otello* in the same season – something he repeated last season and will do again this season.
 

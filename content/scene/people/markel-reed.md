@@ -1,21 +1,24 @@
-+++
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1632699992/media/2021/09/MarkelReed_awru1t.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/utah-opera.md", "scene/companies/bronx-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/opera-theatre-of-st-louis.md"]
-slug = "markel-reed"
-title = "Markel Reed"
-website = "https://www.markelreed.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/mightiermouse85/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/castrorigoletto"
-
-+++
+---
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1632699992/media/2021/09/MarkelReed_awru1t.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/utah-opera.md
+- scene/companies/bronx-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+slug: markel-reed
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/mightiermouse85/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/castrorigoletto
+title: Markel Reed
+website: https://www.markelreed.com/
+---
 Markel Reed, a native of Charlotte, North Carolina, has been featured in various concerts, recitals and performances throughout the U.S., Canada and in Europe. His repertoire includes: Schaunard in _La Bohème_, Il Conte in _Le Nozze di Figaro_, _Don Giovanni_ and Leporello in _Don Giovanni_, Papageno in _Die Zauberflöte_, and John Sorel in _The Consul_.
 
 As a passionate conveyor of the operatic repertoire, Mr. Reed is a wonderful interpreter of both the standard, as well as contemporary works. 

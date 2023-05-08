@@ -1,25 +1,24 @@
-+++
-date = "2016-11-02T12:56:00+00:00"
-discipline = "Baritone"
-lastmod = "2016-11-02T12:56:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478091232275/2016-11-02---Simone-Piazzola.jpg.jpg"
-publishDate = "2016-11-02T12:56:00+00:00"
-slug = "simone-piazzola"
-title = "Simone Piazzola"
-website = "http://simonepiazzola.it/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/SimonePiazzolaBaritono/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/simonepiazzola"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/vivaverdi2010"
-+++
+---
+date: "2016-11-02T12:56:00+00:00"
+discipline: Baritone
+lastmod: "2016-11-02T12:56:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478091232275/2016-11-02---Simone-Piazzola.jpg.jpg
+publishDate: "2016-11-02T12:56:00+00:00"
+slug: simone-piazzola
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/SimonePiazzolaBaritono/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/simonepiazzola
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/vivaverdi2010
+title: Simone Piazzola
+website: http://simonepiazzola.it/
+---
 
 Born in Verona in 1985, he began at 11 years old his musical studies with the soprano Alda Borelli Morgan. In 2004 he took part in various concerts organized by Fondazione Arena di Verona. In 2005 he won the first prize in the “Marie Kraja” in Tirana and in 2007 the Competition “Comunità Europea” of Teatro Lirico Sperimentale in Spoleto.
 

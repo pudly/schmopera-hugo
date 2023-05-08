@@ -1,18 +1,37 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-04-12T19:22:00+01:00"
-lastmod = "2017-04-13T14:39:00+01:00"
-preamble = "Starting with a kickoff party on **April 27th**, and ending with a new works concert on **June 23**, the 2017 New York Opera Fest is a dizzying collection of opera, presented by the City's most creative and iconic companies. The 20+ events offer something for everyone, from operatic classics like [*Falstaff*](http://nyoperafest.com/2017/falstaff/) to exciting new works like Tom Cipullo's [*Glory Denied*](http://nyoperafest.com/2017/glory-denied/) and Robert Paterson's [*Three Way*](http://nyoperafest.com/2017/three-way/). \n\nWe spoke with NYOF head Peter Szep, about the rapidly growing New York Opera Alliance, the community focus on this year's Festival, and the events he's personally excited about. [Click here](http://nyoperafest.com/2017/) for full details and to book tickets."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492029696810/2017-04-12---HYOF.jpg.jpg"
-primary_image_credit = "Peter Szep, head of the New York Opera Fest"
-publishDate = "2017-04-13T14:39:00+01:00"
-related_articles = ["articles/bronx-opera-50-years-counting.md","articles/the-future-of-opera-is-indie.md"]
-related_companies = ["scene/companies/bronx-opera.md","scene/companies/on-site-opera.md","scene/companies/opera-on-tap.md","scene/companies/new-york-opera-alliance.md"]
-short_description = "&quot;New York is a magnet for talented and ambitious people, and we are seeing the benefits of the flowering of civic opera companies in the 60&#039;s onward who exposed people at a very young age to opera, and who are now grown up and want to participate and create. We are also seeing the benefits of our more connected industry.&quot;"
-slug = "dont-miss-the-2nd-annual-new-york-opera-fest"
-title = "Don&#039;t miss: the 2nd annual New York Opera Fest"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-04-12T19:22:00+01:00"
+lastmod: "2017-04-13T14:39:00+01:00"
+preamble: "Starting with a kickoff party on **April 27th**, and ending with a new
+  works concert on **June 23**, the 2017 New York Opera Fest is a dizzying collection
+  of opera, presented by the City's most creative and iconic companies. The 20+ events
+  offer something for everyone, from operatic classics like [*Falstaff*](http://nyoperafest.com/2017/falstaff/)
+  to exciting new works like Tom Cipullo's [*Glory Denied*](http://nyoperafest.com/2017/glory-denied/)
+  and Robert Paterson's [*Three Way*](http://nyoperafest.com/2017/three-way/). \n\nWe
+  spoke with NYOF head Peter Szep, about the rapidly growing New York Opera Alliance,
+  the community focus on this year's Festival, and the events he's personally excited
+  about. [Click here](http://nyoperafest.com/2017/) for full details and to book tickets."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492029696810/2017-04-12---HYOF.jpg.jpg
+primary_image_credit: Peter Szep, head of the New York Opera Fest
+publishDate: "2017-04-13T14:39:00+01:00"
+related_articles:
+- articles/bronx-opera-50-years-counting.md
+- articles/the-future-of-opera-is-indie.md
+related_companies:
+- scene/companies/bronx-opera.md
+- scene/companies/on-site-opera.md
+- scene/companies/opera-on-tap.md
+- scene/companies/new-york-opera-alliance.md
+short_description: '&quot;New York is a magnet for talented and ambitious people,
+  and we are seeing the benefits of the flowering of civic opera companies in the
+  60&#039;s onward who exposed people at a very young age to opera, and who are now
+  grown up and want to participate and create. We are also seeing the benefits of
+  our more connected industry.&quot;'
+slug: dont-miss-the-2nd-annual-new-york-opera-fest
+title: 'Don&#039;t miss: the 2nd annual New York Opera Fest'
+---
 
 ## What kind of reception did the first NYOF receive? 
 

@@ -1,13 +1,19 @@
-+++
-date = "2017-01-26T14:09:00+00:00"
-discipline = "Tenor"
-lastmod = "2017-01-26T14:10:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485439711309/2017-01-26---Liparit-Avetisyan.jpg.jpg"
-publishDate = "2017-01-26T14:10:00+00:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/deutsche-oper-berlin.md","scene/companies/oper-frankfurt.md","scene/companies/opera-australia.md","scene/companies/semperoper-dresden.md"]
-slug = "liparit-avetisyan"
-title = "Liparit Avetisyan"
-+++
+---
+_template: people_single
+date: "2017-01-26T14:09:00+00:00"
+discipline: Tenor
+lastmod: "2017-01-26T14:10:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485439711309/2017-01-26---Liparit-Avetisyan.jpg.jpg
+publishDate: "2017-01-26T14:10:00+00:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/opera-australia.md
+- scene/companies/semperoper-dresden.md
+slug: liparit-avetisyan
+title: Liparit Avetisyan
+---
 
 After making his European stage debut as Fenton in the new production of *Falstaff* at the Cologne Opera in October of 2016, Armenian tenor Liparit Avetisyan has been invited to make several other important debuts in the current season: Rodolfo in *La Boheme* with the Frankfurt Opera and Alfredo in *La Traviata* with Opera Australia in Sydney. In the 2017/18 season, Avetisyan will sing Alfredo at the Hamburg State Opera, Berlin State Opera and Semperoper Dresden, and appear as Rodolfo at the Deutsche Oper Berlin. He will also make his French stage debut as Lensky in *Eugene Onegin* at the Opera du Rhin in Strasbourg and adds the role of Nemorino in *L’Elisir d’Amore* to his repertoire in Dresden.
 

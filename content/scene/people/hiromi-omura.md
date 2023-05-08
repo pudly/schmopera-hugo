@@ -1,14 +1,19 @@
-+++
-date = "2017-11-21T13:00:00-05:00"
-discipline = "Soprano"
-lastmod = "2017-11-21T13:00:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511286929821/OMURA_PHOTO3.jpg.jpg"
-publishDate = "2017-11-21T13:00:00-05:00"
-related_companies = ["scene/companies/manitoba-opera.md","scene/companies/lopra-de-montral.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opera-australia.md"]
-slug = "hiromi-omura"
-title = "Hiromi Omura"
-website = "http://www.hiromiomura.com/"
-+++
+---
+_template: people_single
+date: "2017-11-21T13:00:00-05:00"
+discipline: Soprano
+lastmod: "2017-11-21T13:00:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511286929821/OMURA_PHOTO3.jpg.jpg
+publishDate: "2017-11-21T13:00:00-05:00"
+related_companies:
+- scene/companies/manitoba-opera.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/opera-australia.md
+slug: hiromi-omura
+title: Hiromi Omura
+website: http://www.hiromiomura.com/
+---
 
 Hiromi Omura was born in Tokyo, Japan. After obtaining her Master of Arts in singing at the Tokyo National University of Fine Arts and Music, she moved to Italy, training in Mantua and Milan. She then transferred to France to join the Opera Studio CNIPAL in Marseille.
 

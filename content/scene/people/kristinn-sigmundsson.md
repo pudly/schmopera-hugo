@@ -1,13 +1,21 @@
-+++
-date = "2017-01-22T19:02:00+00:00"
-discipline = "Bass"
-lastmod = "2017-01-22T19:11:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485111837245/2017-01-22---Kristinn-Sigmundsson.jpg.jpg"
-publishDate = "2017-01-22T19:11:00+00:00"
-related_companies = ["scene/companies/opra-national-de-paris.md","scene/companies/bayerische-staatsoper.md","scene/companies/semperoper-dresden.md","scene/companies/la-monnaie.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/houston-grand-opera.md"]
-slug = "kristinn-sigmundsson"
-title = "Kristinn Sigmundsson"
-+++
+---
+_template: people_single
+date: "2017-01-22T19:02:00+00:00"
+discipline: Bass
+lastmod: "2017-01-22T19:11:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485111837245/2017-01-22---Kristinn-Sigmundsson.jpg.jpg
+publishDate: "2017-01-22T19:11:00+00:00"
+related_companies:
+- scene/companies/opra-national-de-paris.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/semperoper-dresden.md
+- scene/companies/la-monnaie.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/houston-grand-opera.md
+slug: kristinn-sigmundsson
+title: Kristinn Sigmundsson
+---
 
 Lauded for his portrayal of Baron Ochs in *Der Rosenkavalier* that he “dealt in revelations,” the Financial Times further praises Icelandic bass Kristinn Sigmundsson, “His tone dark and his dynamic range broad, he exuded raw power, crusty lust and comic bravado, all reinforced by a trace of gravitas.” 
 

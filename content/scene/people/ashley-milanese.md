@@ -1,18 +1,22 @@
-+++
-date = "2017-09-15T22:17:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-09-15T22:18:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505528150529/DuaqvMNn.jpg.jpg"
-publishDate = "2017-09-15T22:17:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/curtis-institute-of-music.md"]
-slug = "ashley-milanese"
-title = "Ashley Milanese"
-website = "https://www.ashleymilanese.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ashleymilanese"
-+++
+---
+date: "2017-09-15T22:17:00-04:00"
+discipline: Soprano
+lastmod: "2017-09-15T22:18:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505528150529/DuaqvMNn.jpg.jpg
+publishDate: "2017-09-15T22:17:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/curtis-institute-of-music.md
+slug: ashley-milanese
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/ashleymilanese
+title: Ashley Milanese
+website: https://www.ashleymilanese.com/
+---
 
 Sopranonown for her “masterful and show-stopping performance of Zerbinetta”, soprano ASHLEY MILANESE is “both a superb actress and singer”. Milanese is quickly emerging as an exciting young presence in the operatic world.  
 

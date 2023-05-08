@@ -1,17 +1,25 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-10-07T10:36:00+01:00"
-lastmod = "2016-10-07T10:59:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475833511541/2016-10-07---Rajaton-Steven-Reineke-Jag-Photography.jpg.jpg"
-primary_image_credit = "Rajaton, with conductor Steven Reineke. Photo by Jag Photography."
-publishDate = "2016-10-07T10:46:00+01:00"
-related_articles = ["articles/i-sang-along-at-tafelmusiks-messiah.md","articles/erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-short_description = "I would highly recommend checking out the TSO Pops series. It&#039;s a great way to stay in touch with the orchestra and their incredible versatility, but it&#039;s also nice to sit and relax and hear some of your favourite tunes from the pop side of life. I love Mahler too, but every now and again one needs a little disco in their life."
-slug = "thank-you-for-the-music"
-title = "&quot;Thank you for the music...&quot;"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-10-07T10:36:00+01:00"
+lastmod: "2016-10-07T10:59:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475833511541/2016-10-07---Rajaton-Steven-Reineke-Jag-Photography.jpg.jpg
+primary_image_credit: Rajaton, with conductor Steven Reineke. Photo by Jag Photography.
+publishDate: "2016-10-07T10:46:00+01:00"
+related_articles:
+- articles/i-sang-along-at-tafelmusiks-messiah.md
+- articles/erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+short_description: I would highly recommend checking out the TSO Pops series. It&#039;s
+  a great way to stay in touch with the orchestra and their incredible versatility,
+  but it&#039;s also nice to sit and relax and hear some of your favourite tunes from
+  the pop side of life. I love Mahler too, but every now and again one needs a little
+  disco in their life.
+slug: thank-you-for-the-music
+title: '&quot;Thank you for the music...&quot;'
+---
 
 Hello Schmop-Tops, 
 

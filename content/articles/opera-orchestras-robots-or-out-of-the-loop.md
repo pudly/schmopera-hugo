@@ -1,15 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-10-03T13:10:00-04:00"
-lastmod = "2015-10-07T09:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444224898593/Pit.jpg.jpg"
-publishDate = "2015-10-07T09:30:00-04:00"
-related_articles = ["articles/putting-on-show-instrumentalists.md","articles/everything-i-know-about-the-piano-i-learned-from-singers.md","articles/potential-orchestra-mutiny-and-conductor-envy.md","articles/pianists-3-tips-for-sounding-like-an-orchestra.md"]
-short_description = "I&#039;ve written before about the emotional rollercoaster caused by the arrival of the orchestra. In short: you, the singer/pianist/director/passionate stage manager, have spent weeks in music and staging rehearsals for a particular show, and you&#039;ve no doubt grown close to the piece, and all your favourite moments in this particular production. For pianists, the way they play the score is informed by what they see being built up onstage; if it&#039;s an interesting rehearsal process, I&#039;ll probably play the score differently at the end of it than at the beginning, because I&#039;ll know more things about this story now."
-slug = "opera-orchestras-robots-or-out-of-the-loop"
-title = "Opera orchestras: robots, or out of the loop?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-10-03T13:10:00-04:00"
+lastmod: "2015-10-07T09:56:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444224898593/Pit.jpg.jpg
+publishDate: "2015-10-07T09:30:00-04:00"
+related_articles:
+- articles/putting-on-show-instrumentalists.md
+- articles/everything-i-know-about-the-piano-i-learned-from-singers.md
+- articles/potential-orchestra-mutiny-and-conductor-envy.md
+- articles/pianists-3-tips-for-sounding-like-an-orchestra.md
+short_description: 'I&#039;ve written before about the emotional rollercoaster caused
+  by the arrival of the orchestra. In short: you, the singer/pianist/director/passionate
+  stage manager, have spent weeks in music and staging rehearsals for a particular
+  show, and you&#039;ve no doubt grown close to the piece, and all your favourite
+  moments in this particular production. For pianists, the way they play the score
+  is informed by what they see being built up onstage; if it&#039;s an interesting
+  rehearsal process, I&#039;ll probably play the score differently at the end of it
+  than at the beginning, because I&#039;ll know more things about this story now.'
+slug: opera-orchestras-robots-or-out-of-the-loop
+title: 'Opera orchestras: robots, or out of the loop?'
+---
 
 I've [written before](/the-pianists-tech-week-plight/) about the emotional rollercoaster caused by the arrival of the orchestra. In short: you, the singer/pianist/director/passionate stage manager, have spent weeks in music and staging rehearsals for a particular show, and you've no doubt grown close to the piece, and all your favourite moments in this particular production. For pianists, the way they play the score is informed by what they see being built up onstage; if it's an interesting rehearsal process, I'll probably play the score differently at the end of it than at the beginning, because I'll know more things about this story now.
 

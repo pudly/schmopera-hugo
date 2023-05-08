@@ -1,26 +1,80 @@
-+++
-date = "2015-09-22T22:08:00-04:00"
-lastmod = "2015-09-22T22:16:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442974566329/mzl.sksqinsh.png.png"
-publishDate = "2015-09-22T22:16:00-04:00"
-related_people = ["scene/people/alexandrs-antonenko.md","scene/people/johan-botha.md","scene/people/matthew-polenzani.md","scene/people/mariusz-kwiecen.md","scene/people/marco-berti.md","scene/people/joseph-calleja.md","scene/people/juan-diego-florez.md","scene/people/gregory-kunde.md","scene/people/steven-cole.md","scene/people/vito-priante.md","scene/people/marco-armiliato.md","scene/people/sabina-puertolas.md","scene/people/jessica-pratt.md","scene/people/massimo-cavalletti.md","scene/people/george-gagnidze.md","scene/people/scott-hendricks.md","scene/people/maria-katzarava.md","scene/people/andrew-shore.md","scene/people/michael-konig.md","scene/people/robert-dean-smith.md","scene/people/artur-rucinski.md","scene/people/marienicole-lemieux.md","scene/people/michle-losier.md","scene/people/roberto-alagna.md","scene/people/patricia-bardon.md","scene/people/saimir-pirgu.md","scene/people/violeta-urmana.md","scene/people/krassimira-stoyanova.md","scene/people/bejun-mehta.md","scene/people/michael-spyres.md","scene/people/harry-bicket.md","scene/people/brandon-jovanovich.md","scene/people/ben-bliss.md","scene/people/yonghoon-lee.md","scene/people/toby-spence.md","scene/people/rb-schlather.md","scene/people/nino-machaidze.md","scene/people/michael-volle.md","scene/people/liudmyla-monastyrska.md","scene/people/mario-chang.md","scene/people/riccardo-frizza.md","scene/people/laurent-naouri.md","scene/people/anita-hartig.md","scene/people/paul-curievici.md","scene/people/andrea-hill.md","scene/people/mirco-palazzi.md","scene/people/jacquelyn-wagner.md","scene/people/wilhelm-schwinghammer.md","scene/people/greer-grimsley.md","scene/people/andrea-care.md","scene/people/piotr-beczala.md","scene/people/maxim-mironov.md","scene/people/taylor-stayton.md","scene/people/paolo-bordogna.md","scene/people/cristina-pasaroiu.md"]
-slug = "gran-teatre-del-liceu"
-title = "Gran Teatre del Liceu"
-type_of_company = "Opera Company"
-website = "http://www.liceubarcelona.cat/en.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/liceu?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Liceu_cat"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://instagram.com/liceu_opera_barcelona/"
-+++
+---
+date: "2015-09-22T22:08:00-04:00"
+lastmod: "2015-09-22T22:16:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442974566329/mzl.sksqinsh.png.png
+publishDate: "2015-09-22T22:16:00-04:00"
+related_people:
+- scene/people/alexandrs-antonenko.md
+- scene/people/johan-botha.md
+- scene/people/matthew-polenzani.md
+- scene/people/mariusz-kwiecen.md
+- scene/people/marco-berti.md
+- scene/people/joseph-calleja.md
+- scene/people/juan-diego-florez.md
+- scene/people/gregory-kunde.md
+- scene/people/steven-cole.md
+- scene/people/vito-priante.md
+- scene/people/marco-armiliato.md
+- scene/people/sabina-puertolas.md
+- scene/people/jessica-pratt.md
+- scene/people/massimo-cavalletti.md
+- scene/people/george-gagnidze.md
+- scene/people/scott-hendricks.md
+- scene/people/maria-katzarava.md
+- scene/people/andrew-shore.md
+- scene/people/michael-konig.md
+- scene/people/robert-dean-smith.md
+- scene/people/artur-rucinski.md
+- scene/people/marienicole-lemieux.md
+- scene/people/michle-losier.md
+- scene/people/roberto-alagna.md
+- scene/people/patricia-bardon.md
+- scene/people/saimir-pirgu.md
+- scene/people/violeta-urmana.md
+- scene/people/krassimira-stoyanova.md
+- scene/people/bejun-mehta.md
+- scene/people/michael-spyres.md
+- scene/people/harry-bicket.md
+- scene/people/brandon-jovanovich.md
+- scene/people/ben-bliss.md
+- scene/people/yonghoon-lee.md
+- scene/people/toby-spence.md
+- scene/people/rb-schlather.md
+- scene/people/nino-machaidze.md
+- scene/people/michael-volle.md
+- scene/people/liudmyla-monastyrska.md
+- scene/people/mario-chang.md
+- scene/people/riccardo-frizza.md
+- scene/people/laurent-naouri.md
+- scene/people/anita-hartig.md
+- scene/people/paul-curievici.md
+- scene/people/andrea-hill.md
+- scene/people/mirco-palazzi.md
+- scene/people/jacquelyn-wagner.md
+- scene/people/wilhelm-schwinghammer.md
+- scene/people/greer-grimsley.md
+- scene/people/andrea-care.md
+- scene/people/piotr-beczala.md
+- scene/people/maxim-mironov.md
+- scene/people/taylor-stayton.md
+- scene/people/paolo-bordogna.md
+- scene/people/cristina-pasaroiu.md
+slug: gran-teatre-del-liceu
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/liceu?fref=ts
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/Liceu_cat
+- _template: company_single
+  platform: Instagram
+  template: social-media
+  url: https://instagram.com/liceu_opera_barcelona/
+title: Gran Teatre del Liceu
+type_of_company: Opera Company
+website: http://www.liceubarcelona.cat/en.html
+---
 
 Barcelona's opera house, the Gran Teatre del Liceu, was founded on the Rambla in 1847 and has continued over the years to fulfil its role as a culture and arts centre
 

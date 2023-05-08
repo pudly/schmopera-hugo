@@ -1,15 +1,17 @@
-+++
-date = "2017-10-01T17:30:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-10-01T17:30:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506893248436/download%20(1).jpeg.jpeg"
-primary_image_credit = "Kristin Hoebermann"
-publishDate = "2017-10-01T17:30:00-04:00"
-related_companies = ["scene/companies/haymarket-opera-company.md"]
-slug = "kristin-knutson"
-title = "Kristin Knutson"
-website = "http://www.kristinknutson.com/"
-+++
+---
+_template: people_single
+date: "2017-10-01T17:30:00-04:00"
+discipline: Soprano
+lastmod: "2017-10-01T17:30:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506893248436/download%20(1).jpeg.jpeg
+primary_image_credit: Kristin Hoebermann
+publishDate: "2017-10-01T17:30:00-04:00"
+related_companies:
+- scene/companies/haymarket-opera-company.md
+slug: kristin-knutson
+title: Kristin Knutson
+website: http://www.kristinknutson.com/
+---
 
 Soprano Kristin Knutson will appear as Ariane in *Ariane et Bachus* with Haymarket Opera Company in the fall of 2017. This modern day premiere of Marin Marais' tragédie-lyrique will be performed in the spirit of the Baroque period in Chicago's Athenaeum Theatre.
 

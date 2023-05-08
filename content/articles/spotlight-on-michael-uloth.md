@@ -1,17 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-25T15:39:00-04:00"
-lastmod = "2017-07-28T22:26:00-04:00"
-preamble = "[Michael Uloth](/scene/people/michael-uloth/) admits it right off the bat: \"I've never been satisfied doing just one thing.\" The Toronto-based bass also [designs websites](http://www.michaeluloth.com/web-design/), teaches English, and helps people with their [personal finances](http://www.michaeluloth.com/tax-quote/). As an opera singer, Uloth is a graduate of the young artist programmes at the [Canadian Opera Company](/scene/companies/canadian-opera-company/) and [Seattle Opera](/scene/companies/seattle-opera/), and he's graced the stages of Glimmerglass Opera, Saskatoon Opera, and Opéra national de Lyon. Earlier this summer, Uloth joined [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) at The Banff Centre for Joel Ivany's new production of Vivier's *Kopernikus*.\n\nPlenty of singers vouch for the importance of variety and time spent outside the world of opera, yet not everyone succeeds at practicing what they preach. Uloth gave us a fab interview about \"accidentally\" falling into singing, gaining perspective from an operatic hiatus, and figuring out the best way of being a great colleague."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501022618450/2017-07-25---Michael-Uloth.jpg.jpg"
-publishDate = "2017-07-28T22:25:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/seattle-opera.md","scene/companies/the-banff-centre.md","scene/companies/glimmerglass-festival.md"]
-related_people = ["scene/people/michael-uloth.md"]
-short_description = "&quot;Sooner or later, other jobs feel like work, but singing never does. My desire to become a better singer makes every chance to sing feel fun. Singing also reminds me to be playful and creative, which has always been a helpful balance to my overly cerebral and organized approach to life — something I missed while I was away.&quot;"
-slug = "spotlight-on-michael-uloth"
-title = "Spotlight on: Michael Uloth"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-25T15:39:00-04:00"
+lastmod: "2017-07-28T22:26:00-04:00"
+preamble: |-
+  [Michael Uloth](/scene/people/michael-uloth/) admits it right off the bat: "I've never been satisfied doing just one thing." The Toronto-based bass also [designs websites](http://www.michaeluloth.com/web-design/), teaches English, and helps people with their [personal finances](http://www.michaeluloth.com/tax-quote/). As an opera singer, Uloth is a graduate of the young artist programmes at the [Canadian Opera Company](/scene/companies/canadian-opera-company/) and [Seattle Opera](/scene/companies/seattle-opera/), and he's graced the stages of Glimmerglass Opera, Saskatoon Opera, and Opéra national de Lyon. Earlier this summer, Uloth joined [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) at The Banff Centre for Joel Ivany's new production of Vivier's *Kopernikus*.
+
+  Plenty of singers vouch for the importance of variety and time spent outside the world of opera, yet not everyone succeeds at practicing what they preach. Uloth gave us a fab interview about "accidentally" falling into singing, gaining perspective from an operatic hiatus, and figuring out the best way of being a great colleague.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501022618450/2017-07-25---Michael-Uloth.jpg.jpg
+publishDate: "2017-07-28T22:25:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/seattle-opera.md
+- scene/companies/the-banff-centre.md
+- scene/companies/glimmerglass-festival.md
+related_people:
+- scene/people/michael-uloth.md
+short_description: '&quot;Sooner or later, other jobs feel like work, but singing
+  never does. My desire to become a better singer makes every chance to sing feel
+  fun. Singing also reminds me to be playful and creative, which has always been a
+  helpful balance to my overly cerebral and organized approach to life — something
+  I missed while I was away.&quot;'
+slug: spotlight-on-michael-uloth
+title: 'Spotlight on: Michael Uloth'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

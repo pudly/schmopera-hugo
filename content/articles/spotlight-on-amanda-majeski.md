@@ -1,19 +1,50 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-02-03T17:09:00-05:00"
-lastmod = "2017-08-20T11:29:00-04:00"
-preamble = "American lyric soprano [Amanda Majeski](/scene/people/amanda-majeski/) was named \"Best Breakout Star\" by *Chicago* magazine, and she's living up to the title. Roles like Vitellia in *La clemenza di Tito*, Eva in *Die Meistersinger von Nürnberg* and Countess Almaviva in *Le nozze di Figaro* have kept her busy in recent years; this summer, she made her debut as Cleopatra in *Giulio Cesare* at Teatro Colón.\n\nThis season, she'll bring her Vitellia to the Paris Opera in Willy Decker's production of *La clemenza di Tito*, before returning to the Metropolitan Opera to sing Fiordiligi in Phelim McDermott's new *Così fan tutte*. Majeski managed to find some time to give us a beautiful interview about singing, the importance of being multi-lingual, and her enormous dedication to her work."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503242661272/2017-08-20---Amanda-Majeski.jpg.jpg"
-primary_image_credit = "Photo: Fay Fox."
-publishDate = "2016-02-04T10:26:00-05:00"
-related_articles = ["articles/spotlight-on-christopher-james-ray.md","articles/talking-with-singers-elizabeth-deshong.md","articles/talking-with-singers-christine-goerke.md","articles/talking-with-singers-christian-van-horn.md","articles/spotlight-on-angel-blue.md","articles/spotlight-on-musa-ngqungwana.md","articles/spotlight-on-sydney-mancasola.md","articles/spotlight-on-beth-hagerman.md","articles/spotlight-on-stephanie-tritchew.md","articles/spotlight-on-whitney-mather.md","articles/spotlight-on-vanessa-oudereimerink.md","articles/spotlight-on-shelley-jackson.md","articles/spotlight-on-claire-kuttler.md","articles/talking-with-singers-marina-rebeka.md","articles/talking-with-singers-elza-van-den-heever.md","articles/talking-with-singers-jessica-pratt.md","articles/spotlight-on-jennifer-taverner.md","articles/spotlight-on-hyesang-park.md","articles/spotlight-on-anush-hovhannisyan.md","articles/simone-osborne.md","articles/talking-with-singers-kiandra-howarth.md","articles/rusalka-opera-at-its-most-operatic.md"]
-related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/amanda-majeski.md"]
-short_description = "&quot;There is truly something special that happens when all that work comes together for moments on a stage in front of an openhearted audience. For that evening, everyone in the room is held together by and shares that same music; there is something so beautifully uplifting about that. It’s truly infectious!&quot;"
-slug = "spotlight-on-amanda-majeski"
-title = "Spotlight on: Amanda Majeski"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-02-03T17:09:00-05:00"
+lastmod: "2017-08-20T11:29:00-04:00"
+preamble: |-
+  American lyric soprano [Amanda Majeski](/scene/people/amanda-majeski/) was named "Best Breakout Star" by *Chicago* magazine, and she's living up to the title. Roles like Vitellia in *La clemenza di Tito*, Eva in *Die Meistersinger von Nürnberg* and Countess Almaviva in *Le nozze di Figaro* have kept her busy in recent years; this summer, she made her debut as Cleopatra in *Giulio Cesare* at Teatro Colón.
+
+  This season, she'll bring her Vitellia to the Paris Opera in Willy Decker's production of *La clemenza di Tito*, before returning to the Metropolitan Opera to sing Fiordiligi in Phelim McDermott's new *Così fan tutte*. Majeski managed to find some time to give us a beautiful interview about singing, the importance of being multi-lingual, and her enormous dedication to her work.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503242661272/2017-08-20---Amanda-Majeski.jpg.jpg
+primary_image_credit: 'Photo: Fay Fox.'
+publishDate: "2016-02-04T10:26:00-05:00"
+related_articles:
+- articles/spotlight-on-christopher-james-ray.md
+- articles/talking-with-singers-elizabeth-deshong.md
+- articles/talking-with-singers-christine-goerke.md
+- articles/talking-with-singers-christian-van-horn.md
+- articles/spotlight-on-angel-blue.md
+- articles/spotlight-on-musa-ngqungwana.md
+- articles/spotlight-on-sydney-mancasola.md
+- articles/spotlight-on-beth-hagerman.md
+- articles/spotlight-on-stephanie-tritchew.md
+- articles/spotlight-on-whitney-mather.md
+- articles/spotlight-on-vanessa-oudereimerink.md
+- articles/spotlight-on-shelley-jackson.md
+- articles/spotlight-on-claire-kuttler.md
+- articles/talking-with-singers-marina-rebeka.md
+- articles/talking-with-singers-elza-van-den-heever.md
+- articles/talking-with-singers-jessica-pratt.md
+- articles/spotlight-on-jennifer-taverner.md
+- articles/spotlight-on-hyesang-park.md
+- articles/spotlight-on-anush-hovhannisyan.md
+- articles/simone-osborne.md
+- articles/talking-with-singers-kiandra-howarth.md
+- articles/rusalka-opera-at-its-most-operatic.md
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+related_people:
+- scene/people/amanda-majeski.md
+short_description: '&quot;There is truly something special that happens when all that
+  work comes together for moments on a stage in front of an openhearted audience.
+  For that evening, everyone in the room is held together by and shares that same
+  music; there is something so beautifully uplifting about that. It’s truly infectious!&quot;'
+slug: spotlight-on-amanda-majeski
+title: 'Spotlight on: Amanda Majeski'
+---
 
 ## Why do you sing, and why are you doing it professionally? 
 

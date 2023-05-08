@@ -1,25 +1,25 @@
-+++
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1628191251/media/2021/08/NicholasSimpson_JJIgnotz_cslhqw.jpg"
-primary_image_credit = "JJ.Ignotz."
-related_companies = ["scene/companies/teatro-nuovo.md", "scene/companies/little-opera-theatre-of-ny.md"]
-slug = "nicholas-simpson"
-title = "Nicholas Simpson"
-website = "https://nicholassimpsontenor.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/TenorSimpson"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/nicholassimpsontenor/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UC9G9pdehmopHsb8KlpJTQ6w"
-
-+++
+---
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1628191251/media/2021/08/NicholasSimpson_JJIgnotz_cslhqw.jpg
+primary_image_credit: JJ.Ignotz.
+related_companies:
+- scene/companies/teatro-nuovo.md
+- scene/companies/little-opera-theatre-of-ny.md
+slug: nicholas-simpson
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/TenorSimpson
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/nicholassimpsontenor/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UC9G9pdehmopHsb8KlpJTQ6w
+title: Nicholas Simpson
+website: https://nicholassimpsontenor.com/
+---
 Tenor Nicholas Simpson "possesses a voice that is flexible, but powerful...he literally stunned the public with his technical and expressive capability" (Corriere di Rimini) and has been praised by _Opera News_, for his "bel canto bona fides” and performances which "immediately seized attention with his full-bodied, brightly projected voice." Nicholas has just concluded performances as Don Jose in _Carmen_, and as a soloist in opera and musical theater cabarets while traveling through Italy, France, Spain, Jordan, Egypt, India, Australia, and New Zealand on the Azamara Quest in conjunction with Magic City Opera.
 
 Nicholas has recently been heard as King Charles II in the New York premiere of Carlisle Floyd’s newest opera, _The Prince of Players_, with the Little Opera Theatre of New York, and as the tenor soloist in Beethoven’s 9th Symphony with Performance Santa Fe, under the baton of Joseph Illick. 

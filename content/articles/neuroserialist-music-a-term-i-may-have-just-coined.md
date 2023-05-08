@@ -1,14 +1,18 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2014-02-10T10:00:00-05:00"
-lastmod = "2015-04-28T20:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430268387098/Pages%252Bfrom%252BVarga_First_Proof.jpg.jpg"
-publishDate = "2014-02-10T10:00:00-05:00"
-short_description = "Professor Eduardo Miranda at the University of Plymouth is conducting a really neat experiment. It involves having a subject wear a cap that measures brain waves, and those measurements are sent to a computer. The computer program then assigns various types of brainwave activity to a set musical phrase. "
-slug = "neuroserialist-music-a-term-i-may-have-just-coined"
-title = "Neuroserialist music: a term I may have just coined"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2014-02-10T10:00:00-05:00"
+lastmod: "2015-04-28T20:47:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430268387098/Pages%252Bfrom%252BVarga_First_Proof.jpg.jpg
+publishDate: "2014-02-10T10:00:00-05:00"
+short_description: 'Professor Eduardo Miranda at the University of Plymouth is conducting
+  a really neat experiment. It involves having a subject wear a cap that measures
+  brain waves, and those measurements are sent to a computer. The computer program
+  then assigns various types of brainwave activity to a set musical phrase. '
+slug: neuroserialist-music-a-term-i-may-have-just-coined
+title: 'Neuroserialist music: a term I may have just coined'
+---
 
 Professor Eduardo Miranda at the University of Plymouth is conducting a really neat [experiment](http://www.bbc.co.uk/news/technology-26089075). It involves having a subject wear a cap that measures brain waves, and those measurements are sent to a computer. The computer program then assigns various types of brainwave activity to a set musical phrase. In the room is a cellist who plays the small phrases as they appear, all based on the subject's thoughts.
 

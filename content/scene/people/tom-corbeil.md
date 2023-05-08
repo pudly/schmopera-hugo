@@ -1,13 +1,19 @@
-+++
-date = "2015-04-23T00:12:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2015-04-23T00:12:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429762290001/Corbeil.jpg.jpg"
-publishDate = "2015-04-23T00:12:00-04:00"
-related_companies = ["scene/companies/opera-north.md","scene/companies/canadian-opera-company.md","scene/companies/florida-grand-opera.md","scene/companies/merola-opera-program.md","scene/companies/san-francisco-opera.md"]
-slug = "tom-corbeil"
-title = "Tom Corbeil"
-+++
+---
+_template: people_single
+date: "2015-04-23T00:12:00-04:00"
+discipline: Bass-baritone
+lastmod: "2015-04-23T00:12:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429762290001/Corbeil.jpg.jpg
+publishDate: "2015-04-23T00:12:00-04:00"
+related_companies:
+- scene/companies/opera-north.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/merola-opera-program.md
+- scene/companies/san-francisco-opera.md
+slug: tom-corbeil
+title: Tom Corbeil
+---
 
 Bass-baritone Tom Corbeil garners attention regularly across North America for his vocal presence and stagecraft.  Engagements for the 2013-2014 included his return to the Canadian Opera Company for both Colline in La bohème and Swallow in Peter Grimes and debuts with Nashville Opera as Basilio in Il barbiere di Siviglia, Hobart Baroque in Australia as Zoroastro in Handel’s Orlando, and UrbanArias as Luciano/Chucho in Bastianello & Lucrezia with UrbanArias. This season includes Count Horn/Samuel in Un ballo in maschera with Austin Lyric Opera.
 

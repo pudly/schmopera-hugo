@@ -1,16 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-04-10T21:13:00-04:00"
-lastmod = "2015-04-10T21:13:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714696371/UncleJohn-Audience.jpg.jpg"
-publishDate = "2015-03-27T09:13:00-04:00"
-related_articles = ["articles/chatting-with-the-bicycle-opera-project.md","articles/concert-etiquette-or-put-down-your-phone.md","articles/operas-survival-tightened-belts-callous-questions.md","articles/is-it-time-for-the-met-to-move.md"]
-related_companies = ["scene/companies/opera-5.md","scene/companies/the-bicycle-opera-project.md","scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/tapestry-opera.md","scene/companies/lopra-de-montral.md"]
-short_description = "I&#039;m always an advocate of up-close theatre, but the need for large-scale, overwhelming productions of Verdi, Wagner, and the likes, is legitimate. But what would happen if Canada&#039;s larger opera companies took a portion of their productions out of their main stage?"
-slug = "the-case-for-nomadic-opera"
-title = "The Case for Nomadic Opera"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-04-10T21:13:00-04:00"
+lastmod: "2015-04-10T21:13:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714696371/UncleJohn-Audience.jpg.jpg
+publishDate: "2015-03-27T09:13:00-04:00"
+related_articles:
+- articles/chatting-with-the-bicycle-opera-project.md
+- articles/concert-etiquette-or-put-down-your-phone.md
+- articles/operas-survival-tightened-belts-callous-questions.md
+- articles/is-it-time-for-the-met-to-move.md
+related_companies:
+- scene/companies/opera-5.md
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/tapestry-opera.md
+- scene/companies/lopra-de-montral.md
+short_description: I&#039;m always an advocate of up-close theatre, but the need for
+  large-scale, overwhelming productions of Verdi, Wagner, and the likes, is legitimate.
+  But what would happen if Canada&#039;s larger opera companies took a portion of
+  their productions out of their main stage?
+slug: the-case-for-nomadic-opera
+title: The Case for Nomadic Opera
+---
 
 <p>
 	The opera scene in Canada can be divided into two broad groups: those with real estate, and those without. Companies like the <a href="http://www.coc.ca/" target="_blank" data-mce-href="http://www.coc.ca/">Canadian Opera Company</a> own the Four Seasons Centre, which they use for their whole season. Other companies, like <a href="http://www.operafive.com/" target="_blank" data-mce-href="http://www.operafive.com/">Opera 5</a>, move between various venues for their shows. There is indeed a blurry line between a company owning its primary performance space, and a company's having a history of regular use in a specific venue, the way <a href="http://www.operademontreal.com/en" target="_blank" data-mce-href="http://www.operademontreal.com/en">l'Opéra de Montréal</a> uses space at Place des Arts. Generally speaking, though, larger opera companies have a fixed performance venue, and smaller, independent companies are more nomadic.

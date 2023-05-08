@@ -1,26 +1,26 @@
-+++
-date = "2019-02-06T18:25:59+00:00"
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549475643/media/2019/02/PumezaFull.jpg"
-primary_image_credit = "Decca/Simon Fowler."
-related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/the-dallas-opera.md"]
-slug = "pumeza-matshikiza"
-title = "Pumeza Matshikiza"
-website = "http://pumezamatshikiza.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/PumezaOfficial"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/PumezaSoprano"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCDYp6HTKPmQtePgqAAEx0cA"
-
-+++
+---
+date: "2019-02-06T18:25:59+00:00"
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549475643/media/2019/02/PumezaFull.jpg
+primary_image_credit: Decca/Simon Fowler.
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/the-dallas-opera.md
+slug: pumeza-matshikiza
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/PumezaOfficial
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/PumezaSoprano
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCDYp6HTKPmQtePgqAAEx0cA
+title: Pumeza Matshikiza
+website: http://pumezamatshikiza.com/
+---
 Described as "one of today's most exciting new operatic voices" (_Independent_), South African soprano Pumeza Matshikiza is one of today’s rising opera stars. Being an exclusive Decca Classics recording artist, her debut album “Voice of Hope” was released in 2014, featuring arias and traditional and popular African songs. Her second album “Arias” was released in May 2016.
 
 Pumeza Matshikiza kicks off the 18/19 season with her role and house debut in the title role of Dvořák's **_Rusalka_** at the Stadttheater Klagenfurt and her US debut performing one of her signature roles, Mimì in Puccini’s **_La Bohème_**, with Dallas Opera. Besides that, the soprano is also heard on the concert stage: she sings solo concerts with Bilkent Symphony Orchestra, under Vladimir Fanshil’s conducting, and with Folkwang Kammerorchester, under the baton of Johannes Klumpp, and gives a solo recital with Simon Lepper at Opera North in Leeds. Closing the season, she joins stage with Rolando Villazón at the renowned Grafenegg Festival and the Klassik am Dom Festival Linz.

@@ -1,23 +1,32 @@
-+++
-date = "2018-01-17T21:25:00-05:00"
-discipline = "Mezzo-soprano"
-lastmod = "2018-01-17T21:25:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516242224176/19.jpg.jpg"
-primary_image_credit = "Tara Tomlinson"
-publishDate = "2018-01-17T21:25:00-05:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/beth-morrison-projects.md","scene/companies/american-opera-projects.md","scene/companies/on-site-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/san-diego-opera.md","scene/companies/sarasota-opera.md","scene/companies/des-moines-metro-opera.md","scene/companies/san-francisco-opera.md"]
-slug = "blythe-gaissert"
-title = "Blythe Gaissert"
-website = "http://www.blythegaissert.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/BlytheGaissert/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/bspirit2"
-+++
+---
+date: "2018-01-17T21:25:00-05:00"
+discipline: Mezzo-soprano
+lastmod: "2018-01-17T21:25:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516242224176/19.jpg.jpg
+primary_image_credit: Tara Tomlinson
+publishDate: "2018-01-17T21:25:00-05:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/beth-morrison-projects.md
+- scene/companies/american-opera-projects.md
+- scene/companies/on-site-opera.md
+- scene/companies/lyric-opera-of-kansas-city.md
+- scene/companies/san-diego-opera.md
+- scene/companies/sarasota-opera.md
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/san-francisco-opera.md
+slug: blythe-gaissert
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/BlytheGaissert/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/bspirit2
+title: Blythe Gaissert
+website: http://www.blythegaissert.com/
+---
 
 Mezzo-Soprano Blythe Gaissert has established herself as a fresh and exciting artist in great demand in the United States for opera, concert and recital engagements. This Texas native has received great praise from critics for her rich sound and intense, dramatic interpretations of operatic roles.
 

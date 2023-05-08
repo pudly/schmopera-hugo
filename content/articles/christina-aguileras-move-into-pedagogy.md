@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2016-04-05T20:03:00+01:00"
-lastmod = "2016-04-06T13:48:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459886504668/Christina-Aguilera.jpg.jpg"
-primary_image_credit = "Photo: commons.wikimedia.org."
-publishDate = "2016-04-06T13:45:00+01:00"
-related_articles = ["articles/grease-live-a-rant.md","articles/10-pop-singers-with-pipes.md","articles/13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys.md","articles/great-nights-sketches-of-miles.md"]
-short_description = "We don&#039;t know why it&#039;s so annoying that she does her &quot;vocal scales&quot; on the words &quot;Ave Maria&quot; (maybe it alludes to something a bit more classical). And ironically, her demonstration of the &quot;wrong&quot; way is easier on our ears than the &quot;right&quot; way, which upon hearing makes our throats sympathetically tighten."
-slug = "christina-aguileras-move-into-pedagogy"
-title = "Christina Aguilera&#039;s move into pedagogy"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2016-04-05T20:03:00+01:00"
+lastmod: "2016-04-06T13:48:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459886504668/Christina-Aguilera.jpg.jpg
+primary_image_credit: 'Photo: commons.wikimedia.org.'
+publishDate: "2016-04-06T13:45:00+01:00"
+related_articles:
+- articles/grease-live-a-rant.md
+- articles/10-pop-singers-with-pipes.md
+- articles/13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys.md
+- articles/great-nights-sketches-of-miles.md
+short_description: We don&#039;t know why it&#039;s so annoying that she does her
+  &quot;vocal scales&quot; on the words &quot;Ave Maria&quot; (maybe it alludes to
+  something a bit more classical). And ironically, her demonstration of the &quot;wrong&quot;
+  way is easier on our ears than the &quot;right&quot; way, which upon hearing makes
+  our throats sympathetically tighten.
+slug: christina-aguileras-move-into-pedagogy
+title: Christina Aguilera&#039;s move into pedagogy
+---
 
 In one of the more odd developments since [Miranda Sings](https://www.youtube.com/user/mirandasings08) (but less funny), Christina Aguilera has taken to giving vocal masterclasses.
 

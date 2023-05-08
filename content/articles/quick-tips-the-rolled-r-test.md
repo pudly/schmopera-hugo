@@ -1,15 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2015-09-25T10:24:00-04:00"
-lastmod = "2017-11-11T14:20:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510428033601/2017-11-11---rolled-R.jpg.jpg"
-publishDate = "2015-09-29T08:00:00-04:00"
-related_articles = ["articles/4-secrets-for-better-high-notes.md","articles/how-to-really-learn-a-song.md","articles/how-to-play-for-singers.md","articles/kristen-seikaly-on-how-to-learn-a-role.md","articles/how-to-lead-your-pianist.md","articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md","articles/hot-topics-singers-who-scoop.md","articles/how-much-to-tell-your-students-about-the-voice.md","articles/dear-me-advice-to-my-freshman-self.md","articles/3-ways-your-english-is-showing.md","articles/4-english-language-habits-that-make-a-singers-life-harder.md","articles/the-practice-tip-you-dont-want-to-hear.md"]
-short_description = "What I&#039;ve found is that rolled Rs in a singer&#039;s text can act as a sort of litmus test for where that singer is maintaining their resonance. As a coach, if I ask for more consonants in an Italian aria, and a rolled R seems difficult to project, the problem usually lies in the preceding vowel."
-slug = "quick-tips-the-rolled-r-test"
-title = "Quick tips: the rolled R test"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2015-09-25T10:24:00-04:00"
+lastmod: "2017-11-11T14:20:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510428033601/2017-11-11---rolled-R.jpg.jpg
+publishDate: "2015-09-29T08:00:00-04:00"
+related_articles:
+- articles/4-secrets-for-better-high-notes.md
+- articles/how-to-really-learn-a-song.md
+- articles/how-to-play-for-singers.md
+- articles/kristen-seikaly-on-how-to-learn-a-role.md
+- articles/how-to-lead-your-pianist.md
+- articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md
+- articles/hot-topics-singers-who-scoop.md
+- articles/how-much-to-tell-your-students-about-the-voice.md
+- articles/dear-me-advice-to-my-freshman-self.md
+- articles/3-ways-your-english-is-showing.md
+- articles/4-english-language-habits-that-make-a-singers-life-harder.md
+- articles/the-practice-tip-you-dont-want-to-hear.md
+short_description: What I&#039;ve found is that rolled Rs in a singer&#039;s text
+  can act as a sort of litmus test for where that singer is maintaining their resonance.
+  As a coach, if I ask for more consonants in an Italian aria, and a rolled R seems
+  difficult to project, the problem usually lies in the preceding vowel.
+slug: quick-tips-the-rolled-r-test
+title: 'Quick tips: the rolled R test'
+---
 
 Singers, do you like a good rolled R? I know not everyone has the lingual facility to do this, and plenty of us English speakers have to practice making a sound that's so foreign to our own language. I'm not about to get into teaching rolled Rs (although [this article](http://www.trevorhuxham.com/2014/02/10-tips-for-rolling-spanish-r.html), [this Reddit thread](https://www.reddit.com/r/linguistics/comments/15l3tm/please_help_me_roll_my_rs_my_life_depends_on_this/), or [this video](https://www.youtube.com/watch?v=cjoOD8SVhos) may help.
 

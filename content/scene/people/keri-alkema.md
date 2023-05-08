@@ -1,23 +1,30 @@
-+++
-date = "2016-09-03T14:46:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-09-03T14:47:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472910118414/2016-09-03---Keri-Alkema-Dario-Acosta.jpg.jpg"
-primary_image_credit = "Dario Acosta"
-publishDate = "2016-09-03T14:47:00+01:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/canadian-opera-company.md","scene/companies/the-santa-fe-opera.md","scene/companies/glyndebourne.md","scene/companies/opera-north.md","scene/companies/washington-national-opera.md","scene/companies/palm-beach-opera.md"]
-slug = "keri-alkema"
-title = "Keri Alkema"
-website = "http://www.kerialkema.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Keri-Alkema-160366764016251/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/KeriAlkema"
-+++
+---
+date: "2016-09-03T14:46:00+01:00"
+discipline: Soprano
+lastmod: "2016-09-03T14:47:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472910118414/2016-09-03---Keri-Alkema-Dario-Acosta.jpg.jpg
+primary_image_credit: Dario Acosta
+publishDate: "2016-09-03T14:47:00+01:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/opera-north.md
+- scene/companies/washington-national-opera.md
+- scene/companies/palm-beach-opera.md
+slug: keri-alkema
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Keri-Alkema-160366764016251/?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/KeriAlkema
+title: Keri Alkema
+website: http://www.kerialkema.com/
+---
 
 A voice with an “appealing brew of dark and creamy colors” (*New York Times*), lirico-spinto soprano Keri Alkema has been praised for her “tonal opulence” (*Washington Post*) and “incisive musicality”. (*New York Times*) 
 

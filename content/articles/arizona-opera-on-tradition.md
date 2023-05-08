@@ -1,18 +1,28 @@
-+++
-author = ["authors/joshua-borths.md"]
-categories = "Editorial"
-date = "2015-06-05T16:02:00-04:00"
-lastmod = "2015-06-11T18:44:00-04:00"
-preamble = "This is a piece by written Josh Borths, Education Manager at [Arizona Opera](http://www.azopera.org/), for AO's great [blog](http://www.azopera.org/blog/). To read the original article, [click here](http://www.azopera.org/blog/what-traditional-opera)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433558423137/ArizonaFlute.jpg.jpg"
-primary_image_credit = "Photo by Tim Trumble, from Arizona Opera's 2015 production of The Magic Flute"
-publishDate = "2015-06-11T18:37:00-04:00"
-related_articles = ["articles/who-cares-what-bring-on-the-why.md","articles/opera-for-firsttimers-thinking-outside-the-box.md"]
-related_companies = ["scene/companies/arizona-opera.md"]
-short_description = "“Is this going to be a traditional production?” As the Education Manager at Arizona Opera, this is the question I am asked most about operas in our upcoming seasons, and I must confess, I don’t really know how to answer it. After all, what tradition are we talking about?"
-slug = "arizona-opera-on-tradition"
-title = "Arizona Opera, on tradition"
-+++
+---
+author:
+- authors/joshua-borths.md
+categories: Editorial
+date: "2015-06-05T16:02:00-04:00"
+lastmod: "2015-06-11T18:44:00-04:00"
+preamble: This is a piece by written Josh Borths, Education Manager at [Arizona Opera](http://www.azopera.org/),
+  for AO's great [blog](http://www.azopera.org/blog/). To read the original article,
+  [click here](http://www.azopera.org/blog/what-traditional-opera).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433558423137/ArizonaFlute.jpg.jpg
+primary_image_credit: Photo by Tim Trumble, from Arizona Opera's 2015 production of
+  The Magic Flute
+publishDate: "2015-06-11T18:37:00-04:00"
+related_articles:
+- articles/who-cares-what-bring-on-the-why.md
+- articles/opera-for-firsttimers-thinking-outside-the-box.md
+related_companies:
+- scene/companies/arizona-opera.md
+short_description: “Is this going to be a traditional production?” As the Education
+  Manager at Arizona Opera, this is the question I am asked most about operas in our
+  upcoming seasons, and I must confess, I don’t really know how to answer it. After
+  all, what tradition are we talking about?
+slug: arizona-opera-on-tradition
+title: Arizona Opera, on tradition
+---
 
 “Is this going to be a traditional production?”
 

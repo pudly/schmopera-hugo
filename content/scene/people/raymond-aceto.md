@@ -1,15 +1,29 @@
-+++
-date = "2019-03-18T21:35:52+00:00"
-discipline = "Bass"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552944881/media/2019/03/RaymondAceto.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/l-opéra-de-montréal.md", "scene/companies/seattle-opera.md", "scene/companies/opera-philadelphia.md", "scene/companies/canadian-opera-company.md", "scene/companies/oper-frankfurt.md", "scene/companies/spoleto-festival-usa.md", "scene/companies/the-dallas-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/san-francisco-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/washington-national-opera.md"]
-slug = "raymond-aceto"
-social_media = []
-title = "Raymond Aceto"
-website = "http://www.raymondaceto.com/"
-
-+++
+---
+_template: people_single
+date: "2019-03-18T21:35:52+00:00"
+discipline: Bass
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1552944881/media/2019/03/RaymondAceto.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/l-opéra-de-montréal.md
+- scene/companies/seattle-opera.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/spoleto-festival-usa.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/washington-national-opera.md
+slug: raymond-aceto
+social_media: []
+title: Raymond Aceto
+website: http://www.raymondaceto.com/
+---
 American bass Raymond Aceto has established an important presence among the world’s leading opera companies and symphony orchestras. His performances continue to gather both popular and critical acclaim. Of his performance as Baron Scarpia, The Houston Chronicle hailed, “Raymond Aceto oozes suave villainy as the evil Baron Scarpia, his voice a dark rumble of menace and lust as he plots to destroy Cavaradossi and conquer Tosca…intelligent characterization distinguishes Aceto’s Scarpia as more than a cartoon villain. Commanding in voice and presence, implacable in his lust for Tosca, he is nonetheless subtle in his calculations. It’s his smiling ease that confirms how dangerous he is.”
 
 Aceto’s 2018-2019 season begins with his return to the Metropolitan Opera for performances in Bizet’s _Les Pêcheurs de Perles_ under conductor Emmanuel Villaume and in Sir Richard Eyre’s production of _Carmen_. Following his 2016 debut at Washington National Opera in Francesca Zambello’s _RING_ Cycle, he returns to the Kennedy Center in 2019 as Méphistophélès in Gounod’s _Faust_. He reprised the roles of Hunding and Fafner in Zambello’s _RING_ Cycle with the San Francisco Opera in June, led by Donald Runnicles. On the concert stage this season he performs Beethoven’s _Symphony No. 9_ with the Las Vegas and Louisiana Philharmonics.

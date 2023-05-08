@@ -1,22 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2019-10-02T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = "Two cities, and plenty to catch this fall. As you're marking your calendars, we've got a short list of must-see items - from bel canto to world premieres - based out of Boston and Toronto."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1570042046/media/2019/10/sqUpcomingFall2019_vmpoaj.jpg"
-primary_image_credit = "Clockwise from top: Teiya Kasahara for Amplified Opera; pianist Christina Petrowska Quilico; Tafelmusik Baroque Orchestra (photo: Cylla von Tiedemann); soprano Hibla Gerzmava."
-related_articles = ["articles/5-classical-voice-podcasts-to-try.md", "articles/4-ways-to-test-your-memory.md", "articles/the-opera-party-monologue.md"]
-related_companies = []
-related_people = ["scene/people/hibla-gerzmava.md", "scene/people/aria-umezawa.md", "scene/people/teiya-kasahara.md"]
-short_description = "Two cities, and plenty to catch this fall. As you're marking your calendars, we've got a short list of must-see items - from bel canto to world premieres - based out of Boston and Toronto."
-slug = "a-tale-of-two-cities-6-fall-items-to-catch-in-boston-toronto"
-title = "A tale of two cities: 6 fall items to catch in Boston & Toronto"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-10-02T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: Two cities, and plenty to catch this fall. As you're marking your calendars,
+  we've got a short list of must-see items - from bel canto to world premieres - based
+  out of Boston and Toronto.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1570042046/media/2019/10/sqUpcomingFall2019_vmpoaj.jpg
+primary_image_credit: 'Clockwise from top: Teiya Kasahara for Amplified Opera; pianist
+  Christina Petrowska Quilico; Tafelmusik Baroque Orchestra (photo: Cylla von Tiedemann);
+  soprano Hibla Gerzmava.'
+related_articles:
+- articles/5-classical-voice-podcasts-to-try.md
+- articles/4-ways-to-test-your-memory.md
+- articles/the-opera-party-monologue.md
+related_companies: []
+related_people:
+- scene/people/hibla-gerzmava.md
+- scene/people/aria-umezawa.md
+- scene/people/teiya-kasahara.md
+short_description: Two cities, and plenty to catch this fall. As you're marking your
+  calendars, we've got a short list of must-see items - from bel canto to world premieres
+  - based out of Boston and Toronto.
+slug: a-tale-of-two-cities-6-fall-items-to-catch-in-boston-toronto
+title: 'A tale of two cities: 6 fall items to catch in Boston & Toronto'
+youtube_url: ""
+---
 ## Boston Wagner Society
 
 On **October 5, 2pm** at Old South Church in Boston, [soprano Julia Rolwing and pianist Soyeon Kim](http://bostonwagnersociety.org/) offer up a recital fitting of a Wagner Society. On the programme are songs and piano solos by Wagner and Liszt, and memorable moments from _Lohengrin_, _Siegfried_, and _Tristan und Isolde_. [Tickets](https://www.eventbrite.com/e/wagner-and-liszt-tickets-63775079981) start at $10.
@@ -29,7 +41,9 @@ On **October 10, 11, and 12** at the Ernest Balmer Studio in Toronto's Distiller
 
 You can catch each concert individually, or with an [all-access pass](https://www.eventbrite.com/e/amplify-all-concerts-pass-2019-tickets-73320472507) for the whole series. All concerts start at 7:30pm.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570071330/media/2019/10/AmplifyCollage_podjkz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570071330/media/2019/10/AmplifyCollage_podjkz.jpg)
 
 <figcaption>The co-founders of Amplified Opera (l-r): Teiya Kasahara, opera singer and theatre creator, and Aria Umezawa, stage director.</figcaption>
 
@@ -49,7 +63,9 @@ Pacini, a missing link of sorts among 19th-century Italian composers, wrote over
 
 This fully staged production of [_Maria, Regina d'Inghilterra_](https://www.bostontheatrescene.com/season/maria-regina-dInghilterra/) runs November 1 and 3.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570070634/media/2019/10/FayFoxShoremount-Obra_qozy27.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570070634/media/2019/10/FayFoxShoremount-Obra_qozy27.jpg)
 
 <figcaption>Amy Shoremount-Obra, soprano, singing the title role in Odyssey Opera's Maria, Regina d'Inghilterra. Photo: Fay Fox.</figcaption>
 
@@ -65,7 +81,9 @@ Spicing up a program of Mozart and Tchaikovsky, Sinfonia Toronto presents a [nig
 
 The evening's soloists are Canadian virtuosi Christina Petrowska Quilico (piano) and Marc Djokic (violin). Nurhan Arman conducts. [Tickets](http://www.sinfoniatoronto.com/web/page.aspx?title=Mozart+%26+Tchaikovsky) start at just $15.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570070922/media/2019/10/MarcDjokic_vgj5i2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1570070922/media/2019/10/MarcDjokic_vgj5i2.jpg)
 
 <figcaption>Violinist Marc Djokic.</figcaption>
 

@@ -1,22 +1,29 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-03-17T16:15:51+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Sarah Connolly returns to Wigmore Hall on 24 April, 2019. For details and tickets, [click here](https://wigmore-hall.org.uk/whats-on/dame-sarah-connolly-robin-tritschler-malcolm-martineau-201904241930)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552839420/media/2019/03/sqSarahConnollyJanCapinski.jpg"
-primary_image_credit = "Photo: Jan Capinski."
-related_articles = ["articles/in-review-jamie-barton-at-wigmore-hall.md", "articles/at-arms-length-goerne-hinterhauser-in-recital.md"]
-related_companies = []
-related_people = ["scene/people/sarah-connolly.md"]
-short_description = "Connolly, whose prolific contribution to classical performance over the course of her career - a career that has now made her a household name - garnered palpable excitement from the audience from the moment she walked on stage. She carries a sense of poise and authority as a performer, yet showed great vulnerability."
-slug = "greater-than-the-sum-of-its-parts-sarah-connolly-at-wigmore-hall"
-title = "Greater than the sum of its parts: Sarah Connolly at Wigmore Hall"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-03-17T16:15:51+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Sarah Connolly returns to Wigmore Hall on 24 April, 2019. For details and
+  tickets, [click here](https://wigmore-hall.org.uk/whats-on/dame-sarah-connolly-robin-tritschler-malcolm-martineau-201904241930).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1552839420/media/2019/03/sqSarahConnollyJanCapinski.jpg
+primary_image_credit: 'Photo: Jan Capinski.'
+related_articles:
+- articles/in-review-jamie-barton-at-wigmore-hall.md
+- articles/at-arms-length-goerne-hinterhauser-in-recital.md
+related_companies: []
+related_people:
+- scene/people/sarah-connolly.md
+short_description: Connolly, whose prolific contribution to classical performance
+  over the course of her career - a career that has now made her a household name
+  - garnered palpable excitement from the audience from the moment she walked on stage.
+  She carries a sense of poise and authority as a performer, yet showed great vulnerability.
+slug: greater-than-the-sum-of-its-parts-sarah-connolly-at-wigmore-hall
+title: 'Greater than the sum of its parts: Sarah Connolly at Wigmore Hall'
+youtube_url: ""
+---
 So often song recitals can feel disjunct; a gratuitous show rather than a well-crafted and meaningful reflection. Not so with this recital featuring works by Zemlinsky, Schumann, and Argento given by Wigmore Hall's Artist in Residence this year, Dame Sarah Connolly and Julius Drake. This was a fastidiously perfected programme which centred around storytelling from the female perspective and did so in a way that was uniquely contemplative.
 
 >She carries a sense of poise and authority as a performer, yet showed great vulnerability.
@@ -29,7 +36,9 @@ Connolly, whose prolific contribution to classical performance over the course o
 
 Following the Zemlinsky was Schumann's favoured _Gedichte der Königin Maria Stuart_ which was aided in performance by the addition of text recited by actress Emily Berrington. The text for these readings was devised by Laura Tunbridge and based on Schiller's 1800 play _Maria Stuart_, perhaps the most celebrated dramatic rendition of the venerated tale. Interestingly though, Schumann's text was not based on the Schiller. It instead, was taken from a collection assembled and translated by Gisbert Freiherr Von Vincke and tells a slightly different account of events. It is doubtful that any of these poems chosen by Schumann were Mary's own words, many of them having been mistakenly attributed to her, but this does not make the poems nor Schumann's settings any less meaningful or valid.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552839783/media/2019/03/SarahConnollyPeterWarren.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1552839783/media/2019/03/SarahConnollyPeterWarren.jpg)
 
 <figcaption>Sarah Connolly, mezzo-soprano. Photo: Peter Warren.</figcaption>
 

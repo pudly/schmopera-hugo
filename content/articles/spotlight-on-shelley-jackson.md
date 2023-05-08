@@ -1,19 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-07-13T16:27:00+02:00"
-lastmod = "2017-03-07T10:51:00+01:00"
-preamble = "After singing Musetta with [Opernhaus Zürich](/scene/companies/opernhaus-zurich/) in 2015, American soprano [Shelley Jackson](/scene/people/shelley-jackson/) is currently in Salzburg, to take on that **other** great role in *La bohème*, Mimì, with the Salzburg Landestheater. She'll soon head to Hampshire, UK, to sing Micaëla at the Grange Festival Opera's production of *Carmen*. As part of our Spotlight series, Jackson chats with us about the importance of language skills, about trusting her instincts, and about learning to foster \"the most complex relationship you will have.\""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468420917140/2016-07-13---Shelley-Jackson---Hoebermann.jpg.jpg"
-primary_image_credit = "Photo: Kristin Hoebermann"
-publishDate = "2016-07-15T17:50:00+02:00"
-related_articles = ["articles/spotlight-on-amanda-majeski.md","articles/spotlight-on-sydney-mancasola.md","articles/spotlight-on-beth-hagerman.md","articles/spotlight-on-musa-ngqungwana.md","articles/talking-with-singers-hailey-clark.md"]
-related_companies = ["scene/companies/opernhaus-zurich.md","scene/companies/the-santa-fe-opera.md"]
-related_people = ["scene/people/shelley-jackson.md"]
-short_description = "&quot;Trust your instincts, combined with these few people you trust. At the end, it is you getting up onstage, and you alone are responsible for working out your issues. Feed your person, love your life and live it fully, and that will be all come out onstage.&quot;"
-slug = "spotlight-on-shelley-jackson"
-title = "Spotlight on: Shelley Jackson"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-07-13T16:27:00+02:00"
+lastmod: "2017-03-07T10:51:00+01:00"
+preamble: After singing Musetta with [Opernhaus Zürich](/scene/companies/opernhaus-zurich/)
+  in 2015, American soprano [Shelley Jackson](/scene/people/shelley-jackson/) is currently
+  in Salzburg, to take on that **other** great role in *La bohème*, Mimì, with the
+  Salzburg Landestheater. She'll soon head to Hampshire, UK, to sing Micaëla at the
+  Grange Festival Opera's production of *Carmen*. As part of our Spotlight series,
+  Jackson chats with us about the importance of language skills, about trusting her
+  instincts, and about learning to foster "the most complex relationship you will
+  have."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468420917140/2016-07-13---Shelley-Jackson---Hoebermann.jpg.jpg
+primary_image_credit: 'Photo: Kristin Hoebermann'
+publishDate: "2016-07-15T17:50:00+02:00"
+related_articles:
+- articles/spotlight-on-amanda-majeski.md
+- articles/spotlight-on-sydney-mancasola.md
+- articles/spotlight-on-beth-hagerman.md
+- articles/spotlight-on-musa-ngqungwana.md
+- articles/talking-with-singers-hailey-clark.md
+related_companies:
+- scene/companies/opernhaus-zurich.md
+- scene/companies/the-santa-fe-opera.md
+related_people:
+- scene/people/shelley-jackson.md
+short_description: '&quot;Trust your instincts, combined with these few people you
+  trust. At the end, it is you getting up onstage, and you alone are responsible for
+  working out your issues. Feed your person, love your life and live it fully, and
+  that will be all come out onstage.&quot;'
+slug: spotlight-on-shelley-jackson
+title: 'Spotlight on: Shelley Jackson'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

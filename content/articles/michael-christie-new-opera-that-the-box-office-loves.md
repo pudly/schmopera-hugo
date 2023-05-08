@@ -1,18 +1,40 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-07-03T11:57:00-06:00"
-lastmod = "2016-07-14T11:52:00-06:00"
-preamble = "We had the chance to meet [Michael Christie](/scene/people/michael-christie/), conductor and Music Director of [Minnesota Opera](/scene/companies/minnesota-opera/), when he was paying a visit to the young artists of [Open Space: Opera in the 21st Century](https://www.banffcentre.ca/announcing-2016-open-space-participants?utm_source=The+Banff+Centre&utm_campaign=55856bf7e4-Arts_Performing+Arts_Apr_2016_Newsletter&utm_medium=email&utm_term=0_ad4acfe1fe-55856bf7e4-) at The Banff Centre. We asked him about Minnesota's strong history with new works, and the trends they continue to set across the opera world."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468174748266/2016-07-10---Christie.jpg.jpg"
-publishDate = "2016-07-13T21:08:00-06:00"
-related_articles = ["articles/8-contemporary-roles-to-covet.md","articles/new-works-the-imaginings.md","articles/new-operas-craig-bohmlers-riders-of-the-purple-sage.md","articles/5-people-who-would-make-great-opera-roles.md","articles/opera-philadelphia-puts-the-mets-201718-season-to-shame.md","articles/55-years-of-minnesota-opera-a-gala-celebration.md"]
-related_companies = ["scene/companies/minnesota-opera.md","scene/companies/tapestry-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
-related_people = ["scene/people/michael-christie.md","scene/people/kevin-puts.md"]
-short_description = "It seems, when an audience is left to decide what they deem &quot;opera&quot;, that they respond positively to hearing new works; Christie credits the community surrounding Minnesota Opera for the consistent support. &quot;In some communities, new music doesn&#039;t go over quite as well,&quot; he explains. &quot;Minnesota is a very particular community; I feel very lucky to be there.&quot;"
-slug = "michael-christie-new-opera-that-the-box-office-loves"
-title = "Michael Christie: new opera that the box office loves"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-07-03T11:57:00-06:00"
+lastmod: "2016-07-14T11:52:00-06:00"
+preamble: 'We had the chance to meet [Michael Christie](/scene/people/michael-christie/),
+  conductor and Music Director of [Minnesota Opera](/scene/companies/minnesota-opera/),
+  when he was paying a visit to the young artists of [Open Space: Opera in the 21st
+  Century](https://www.banffcentre.ca/announcing-2016-open-space-participants?utm_source=The+Banff+Centre&utm_campaign=55856bf7e4-Arts_Performing+Arts_Apr_2016_Newsletter&utm_medium=email&utm_term=0_ad4acfe1fe-55856bf7e4-)
+  at The Banff Centre. We asked him about Minnesota''s strong history with new works,
+  and the trends they continue to set across the opera world.'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468174748266/2016-07-10---Christie.jpg.jpg
+publishDate: "2016-07-13T21:08:00-06:00"
+related_articles:
+- articles/8-contemporary-roles-to-covet.md
+- articles/new-works-the-imaginings.md
+- articles/new-operas-craig-bohmlers-riders-of-the-purple-sage.md
+- articles/5-people-who-would-make-great-opera-roles.md
+- articles/opera-philadelphia-puts-the-mets-201718-season-to-shame.md
+- articles/55-years-of-minnesota-opera-a-gala-celebration.md
+related_companies:
+- scene/companies/minnesota-opera.md
+- scene/companies/tapestry-opera.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-banff-centre.md
+related_people:
+- scene/people/michael-christie.md
+- scene/people/kevin-puts.md
+short_description: It seems, when an audience is left to decide what they deem &quot;opera&quot;,
+  that they respond positively to hearing new works; Christie credits the community
+  surrounding Minnesota Opera for the consistent support. &quot;In some communities,
+  new music doesn&#039;t go over quite as well,&quot; he explains. &quot;Minnesota
+  is a very particular community; I feel very lucky to be there.&quot;
+slug: michael-christie-new-opera-that-the-box-office-loves
+title: 'Michael Christie: new opera that the box office loves'
+---
 
 ## Selling out new opera
 
@@ -24,7 +46,9 @@ Christie is Music Director at a company which thrives on a programming model man
 
 Minnesota Opera has hard evidence that new opera is capable of attracting audiences, and even selling out the house. For the spring 2016 premiere of *The Shining*, says Christie, "standing room and normal seats were pre-sold. The only thing you could get were turnbacks." He also saw a "crazy demographic shift," with a big jump in single-ticket buyers, many of whom were notably under 40.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468174863775/2016-07-09---The-Shining.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468174863775/2016-07-09---The-Shining.jpg.jpg)
 <figcaption>Brian Mulligan as Jack Torrance in *The Shining*, 2016. Photo: Ken Howard for Minnesota Opera.</figcaption></figure>
 
 Minnesota isn't the only house with world premieres to its name; it's impressive and exciting to hold a rich history of new works, but Christie also values the positive audience reception and strong box office sales. "Not only does it provide great ammunition for partnering companies," he says, "but also for our audience, to say, 'if you're thinking about coming to see a Minnesota Opera production, you might want to think about buying your tickets early.'"
@@ -33,7 +57,9 @@ Minnesota isn't the only house with world premieres to its name; it's impressive
 
 Christie is optimistic that "we've built up enough momentum on the side of new work in general that we could actually present something that's original." Without existing tropes or expectations, audiences will be free to "see the connection to whatever human condition it is, rather than relying on the fact that it's the title of a book that they might not have actually read."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468175065153/2016-07-09---Christie-Michal-Daniel.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468175065153/2016-07-09---Christie-Michal-Daniel.jpg.jpg)
 <figcaption>Michael Christie, Music Director of Minnesota Opera. Photo by Michal Daniel.</figcaption></figure>
 
 ## New challenges for singers
@@ -48,7 +74,9 @@ The works themselves offer technical challenges to any singer, and Christie note
 
 Fortunately for singers, the aesthetic for new works has shifted towards being more melody-friendly. In North America, influences like jazz and musical theatre have resulted in more harmonic resolutions, and even some hummable tunes for the audience's post-premiere enjoyment. "Not only the singers, but the producing companies have started looking purposefully for people who have that disposition," agrees Christie. "I rarely have heard an opera audience say, "that's just crap because it sounds like musical theatre." I've often heard them say, "Phew, a tune, that's great!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468174827330/2016-07-09---Silent-Night.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468174827330/2016-07-09---Silent-Night.jpg.jpg)
 <figcaption>*Silent Night*, 2011. Photo: Michal Daniel for Minnesota Opera.</figcaption></figure>
 
 ## The future is bright

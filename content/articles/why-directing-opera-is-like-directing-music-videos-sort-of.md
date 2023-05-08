@@ -1,15 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-04-21T12:36:00-04:00"
-lastmod = "2015-04-21T13:50:00-04:00"
-preamble = "It occurred to me that directing a music video has a lot in common with directing an opera. The music video director starts with basically the same tools as the opera director: they're working with music and words. There are endless ways a director can visualize a song, and music videos have evolved from relatively [simple videorecordings](https://www.youtube.com/watch?v=s3Q80mk7bxE) of an artist playing (think an in-concert opera), to [full-on short films](https://www.youtube.com/watch?v=EVBsypHzF3U), born out of a great song (a little bit like opera directors who stage oratorio or song cycles).\n\nGood music videos have the same stuff about them as good operatic productions. They start with inspiration from the song (or score), they allow for the artist to bring his or her personality to the mix, and the end result should be greater than the sum of its parts (the parts being what we hear and what we see).\n\nBear with me, readers, as I show you a few more examples of the common roots in opera and music video direction."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429635429463/1268990682_1-6.jpg.jpg"
-publishDate = "2015-04-21T13:00:00-04:00"
-short_description = "It occurred to me that directing a music video has a lot in common with directing an opera. The music video director starts with basically the same tools as the opera director: they&#039;re working with music and words. There are endless ways a director can visualize a song, and music videos have evolved from relatively simple videorecordings of an artist playing or singing (think an in-concert opera), to full-on short films, born out of a great song (a little bit like opera directors who stage oratorio or song cycles)."
-slug = "why-directing-opera-is-like-directing-music-videos-sort-of"
-title = "Why directing opera is like directing music videos (sort of)"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-04-21T12:36:00-04:00"
+lastmod: "2015-04-21T13:50:00-04:00"
+preamble: |-
+  It occurred to me that directing a music video has a lot in common with directing an opera. The music video director starts with basically the same tools as the opera director: they're working with music and words. There are endless ways a director can visualize a song, and music videos have evolved from relatively [simple videorecordings](https://www.youtube.com/watch?v=s3Q80mk7bxE) of an artist playing (think an in-concert opera), to [full-on short films](https://www.youtube.com/watch?v=EVBsypHzF3U), born out of a great song (a little bit like opera directors who stage oratorio or song cycles).
+
+  Good music videos have the same stuff about them as good operatic productions. They start with inspiration from the song (or score), they allow for the artist to bring his or her personality to the mix, and the end result should be greater than the sum of its parts (the parts being what we hear and what we see).
+
+  Bear with me, readers, as I show you a few more examples of the common roots in opera and music video direction.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429635429463/1268990682_1-6.jpg.jpg
+publishDate: "2015-04-21T13:00:00-04:00"
+short_description: 'It occurred to me that directing a music video has a lot in common
+  with directing an opera. The music video director starts with basically the same
+  tools as the opera director: they&#039;re working with music and words. There are
+  endless ways a director can visualize a song, and music videos have evolved from
+  relatively simple videorecordings of an artist playing or singing (think an in-concert
+  opera), to full-on short films, born out of a great song (a little bit like opera
+  directors who stage oratorio or song cycles).'
+slug: why-directing-opera-is-like-directing-music-videos-sort-of
+title: Why directing opera is like directing music videos (sort of)
+---
 
 ### Organic surrealism
 

@@ -1,24 +1,27 @@
-+++
-date = "2015-04-17T22:07:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-17T22:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1631215207/media/2021/09/PatriciaRacette_KateRussell_rgal04.jpg"
-primary_image_credit = "Kate Russell."
-publishDate = "2015-04-17T22:07:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/houston-grand-opera.md"]
-slug = "patricia-racette"
-title = "Patricia Racette"
-website = "http://patriciaracette.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/divapatriciaracette"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/patriciaracette"
-
-+++
+---
+date: "2015-04-17T22:07:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-17T22:07:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1631215207/media/2021/09/PatriciaRacette_KateRussell_rgal04.jpg
+primary_image_credit: Kate Russell.
+publishDate: "2015-04-17T22:07:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/houston-grand-opera.md
+slug: patricia-racette
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/divapatriciaracette
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/patriciaracette
+title: Patricia Racette
+website: http://patriciaracette.com/
+---
 Soprano Patricia Racette has appeared in the most acclaimed opera houses of the world including the Metropolitan Opera, San Francisco Opera, Lyric Opera of Chicago, Canadian Opera Company, Royal Opera House, La Scala, Paris Opera, Theater an der Wien, Gran Teatro del Liceu, and the Bayerische Staatsoper. Established as a great interpreter of Janáček and Puccini, she has gained particular acclaim for her portrayals of the title roles of Madama Butterfly, Tosca, Jenufa, Kátya Kabanová, and all three lead soprano roles in _Il Trittico_. Her repertory now expands to include triumphant portrayals of Strauss’s Salome, Minnie in _La Fancuilla del West_, Katerina in _Lady Macbeth of Mtsensk_, Magda in Menotti’s _The Consul_, Anna Maurrant in _Street Scene_, Kostelnička in _Jenufa_, and Elle in _La voix humaine_. In the fall of 2019, she will add to this list Sister Helen in Jake Heggie’s _Dead Man Walking_ which she performs at the Lyric Opera of Chicago. She has been a favorite on The Met: Live in HD series as both leading lady in _Madama Butterfly_, _Tosca_, and _Peter Grimes_ as well as the celebrated host for multiple other productions.
 
 A champion of new works, Ms. Racette has created roles in a number of world premieres, including Leslie Crosbie in Paul Moravec’s _The Letter_ at The Santa Fe Opera, Roberta Alden in Tobias Picker’s _An American Tragedy_ at the Metropolitan Opera, the title role in Tobias Picker’s _Emmeline_ at the Santa Fe Opera (broadcast on PBS/Albany Records audio), Love Simpson in Carlisle Floyd’s _Cold Sassy Tree_ at the Houston Grand Opera, and most recently, the title role in Tobias Picker’s _Dolores Claiborne_ at the San Francisco Opera.

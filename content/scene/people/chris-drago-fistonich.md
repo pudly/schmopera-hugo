@@ -1,21 +1,20 @@
-+++
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1668566470/media/2022/11/ChrisDragoFistonich_hjardo.jpg"
-primary_image_credit = ""
-related_companies = []
-slug = "chris-drago-fistonich"
-title = "Chris Drago Fistonich"
-website = "https://www.chrisfistonich.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/chrisfistonich/?hl=en"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ChrisFistonich"
-
-+++
+---
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1668566470/media/2022/11/ChrisDragoFistonich_hjardo.jpg
+primary_image_credit: ""
+related_companies: []
+slug: chris-drago-fistonich
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/chrisfistonich/?hl=en
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/ChrisFistonich
+title: Chris Drago Fistonich
+website: https://www.chrisfistonich.com/
+---
 Baritone Chris Fistonich, currently residing in Princeton, New Jersey, is a PhD Immunologist and cybersecurity researcher turned opera singer. Chris has been hailed as a "voluminous, beefy baritone" with "supple variation of dynamics" (South Florida Classical Review), and as "simply great" (Art Burst Miami).
 
 Upcoming engagements include Escamillo (_Carmen_) with Music on Site, and Ben Upthegrove (_The Telephone_) and Mr. Gobineau (_The Medium_) with Regina Opera.

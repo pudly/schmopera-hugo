@@ -1,17 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-07-04T13:41:00-06:00"
-lastmod = "2015-07-08T12:51:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436038798378/Concert-Audience.jpg.jpg"
-publishDate = "2015-07-08T07:15:00-06:00"
-related_articles = ["articles/banff-diaries-the-midway-report.md","articles/just-in-the-crowdsourced-melody-is-complete.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
-related_people = ["scene/people/caitlin-wood.md"]
-short_description = "Friday night was the second Opera Karaoke night at the Royal Canadian Legion in Banff, AB, and the most amazing thing happened. Soprano Caitlin Wood (singing Despina in A Little Too Cozy) showed off her coloratura chops with Handel&#039;s &quot;Da tempeste,&quot; Cleopatra&#039;s flashiest aria from Giulio Cesare. We weren&#039;t performing for a particularly opera-savvy crowd, and in my own experience, the older the aria, the bigger the risk of boredom for this kind of audience."
-slug = "when-the-crowd-went-wild-for-handel"
-title = "When the crowd went wild for Handel"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-07-04T13:41:00-06:00"
+lastmod: "2015-07-08T12:51:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436038798378/Concert-Audience.jpg.jpg
+publishDate: "2015-07-08T07:15:00-06:00"
+related_articles:
+- articles/banff-diaries-the-midway-report.md
+- articles/just-in-the-crowdsourced-melody-is-complete.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-banff-centre.md
+related_people:
+- scene/people/caitlin-wood.md
+short_description: Friday night was the second Opera Karaoke night at the Royal Canadian
+  Legion in Banff, AB, and the most amazing thing happened. Soprano Caitlin Wood (singing
+  Despina in A Little Too Cozy) showed off her coloratura chops with Handel&#039;s
+  &quot;Da tempeste,&quot; Cleopatra&#039;s flashiest aria from Giulio Cesare. We
+  weren&#039;t performing for a particularly opera-savvy crowd, and in my own experience,
+  the older the aria, the bigger the risk of boredom for this kind of audience.
+slug: when-the-crowd-went-wild-for-handel
+title: When the crowd went wild for Handel
+---
 
 Friday night was the second Opera Karaoke night in downtown Banff, AB, and the most amazing thing happened. 
 

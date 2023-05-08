@@ -1,15 +1,23 @@
-+++
-author = ["authors/isaiah-bell.md"]
-categories = "Op-ed"
-date = "2017-05-30T15:15:00-04:00"
-lastmod = "2017-05-31T11:04:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496173034533/2017-05-30---Self-Doubt.jpg.jpg"
-publishDate = "2017-05-30T20:23:00-04:00"
-related_articles = ["articles/on-the-ego.md","articles/the-business-of-passion.md","articles/in-defense-of-the-day-job-.md"]
-short_description = "I can a) quit doing this thing I love and just sit in a corner, or, b) do a diffident, guarded, joyless job of it because I&#039;m hyper-aware of their negative opinions, and making room for their big important opinions is more important to me than my own fulfilment and mental health. (The latter is my default — that&#039;s where I&#039;m most likely to go when the self-doubt gets to me.)"
-slug = "selfdoubt-the-accidental-manual"
-title = "Self-Doubt: The Accidental Manual"
-+++
+---
+author:
+- authors/isaiah-bell.md
+categories: Op-ed
+date: "2017-05-30T15:15:00-04:00"
+lastmod: "2017-05-31T11:04:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496173034533/2017-05-30---Self-Doubt.jpg.jpg
+publishDate: "2017-05-30T20:23:00-04:00"
+related_articles:
+- articles/on-the-ego.md
+- articles/the-business-of-passion.md
+- articles/in-defense-of-the-day-job-.md
+short_description: I can a) quit doing this thing I love and just sit in a corner,
+  or, b) do a diffident, guarded, joyless job of it because I&#039;m hyper-aware of
+  their negative opinions, and making room for their big important opinions is more
+  important to me than my own fulfilment and mental health. (The latter is my default
+  — that&#039;s where I&#039;m most likely to go when the self-doubt gets to me.)
+slug: selfdoubt-the-accidental-manual
+title: 'Self-Doubt: The Accidental Manual'
+---
 
 An unsuspecting friend of mine recently posted on Facebook, "Any cures for (unfounded) self-doubt? Do you just tell your brain to knock it off?" How could she have known (how could anyone have known) that this was like giving Donald Trump the final exam question, "Are you good at making deals? Explain aloud, using accentuating hand gestures." 
  

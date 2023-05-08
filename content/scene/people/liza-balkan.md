@@ -1,23 +1,25 @@
-+++
-date = "2015-07-31T17:31:00-04:00"
-discipline = "Director, writer, actor, teacher"
-lastmod = "2015-08-01T14:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438444979586/LizaHeadshot.jpg.jpg"
-publishDate = "2015-07-31T17:35:00-04:00"
-related_companies = ["scene/companies/tapestry-opera.md", "scene/companies/indie-opera-to.md", "scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
-slug = "liza-balkan"
-title = "Liza Balkan"
-website = "http://lizabalkan.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/liza.balkan"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/balkan_liza"
-
-+++
+---
+date: "2015-07-31T17:31:00-04:00"
+discipline: Director, writer, actor, teacher
+lastmod: "2015-08-01T14:47:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438444979586/LizaHeadshot.jpg.jpg
+publishDate: "2015-07-31T17:35:00-04:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+slug: liza-balkan
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/liza.balkan
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/balkan_liza
+title: Liza Balkan
+website: http://lizabalkan.com/
+---
 Liza Balkan is an Ontario based, multi- disciplinary theatre artist who works as an opera and theatre director, librettist, writer, educator, dramaturg and actor – one discipline informing the other. In conjunction with her thirst for inquiry, her early years as a dancer and a singer guide her innate sense of physicality and musicality in her approach to all her practices and disciplines. Liza is committed to inclusionary practices, process, communal dialogue, and building confident, joyful, respectful and inspiring spaces in which to create with others.
 
 Liza’s collaborations as a librettist have been produced by Tapestry Opera, 5 Boroughs Song Book (NYC), Brooklyn Art Song Society (NYC), Scrag Mountain Music (Vermont), Opera McGill and Bicycle Opera Project.  Most recently, she wrote the libretto for _Gould’s Wall_, her multi- Dora nominated opera work in collaboration with composer Brian Current. It had its world premiere on and around the historic wall at Koerner Hall/RCM in August 2022. In 2021 she created, directed and wrote the lyrics for the song cycle, _So,how’s it been?_, inspired by experiences of many residents of a small city through the first year of the pandemic. It was performed outdoors at Here for Now Theatre in Stratford, Ontario. Liza collaborated with composer Lembit Beecher on the opera work _After the Fires_, about the CZU Complex Fires in California in 2020. It had its world premiere in Brooklyn in May 2022 and is being produced, with a Canadian cast, by RCM/Koerner Hall in January 2023 as part of the 21C Festival.

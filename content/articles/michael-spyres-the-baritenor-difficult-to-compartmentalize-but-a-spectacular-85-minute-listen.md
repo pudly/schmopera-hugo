@@ -1,29 +1,41 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2022-09-01T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1661971487/media/2022/08/Michael_Spyres_Baritenor_CD_Digi_Cover_06_ydkh0f.jpg"
-primary_image_credit = "BariTenor, features a collection of 18 arias from the Baritone and Tenor repertoires spanning three centuries and 15 composers in a record-setting 85 minute recording. Photo: Warner/Erato."
-related_articles = ["articles/fachisms-stereotypes-for-a-reason.md", "articles/amici-e-rivali-two-gentlemen-and-friendly-rivalry-in-verona.md"]
-related_companies = []
-related_people = ["scene/people/lawrence-brownlee.md", "scene/people/michael-spyres.md"]
-short_description = "The recording, a luxurious and record-setting 85 minutes of burnished virtuosity, is spread over 18 arias spanning three centuries and 15 composers. Spyres straddles the tenor and baritone repertoires so stylishly as to approach a state of operatic titillation, if there was was such a thing."
-slug = "michael-spyres-the-baritenor-difficult-to-compartmentalize-but-spectacular-85-min-listen"
-title = "Michael Spyres the BariTenor, difficult to compartmentalize — but a spectacular 85-minute listen"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2022-09-01T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1661971487/media/2022/08/Michael_Spyres_Baritenor_CD_Digi_Cover_06_ydkh0f.jpg
+primary_image_credit: 'BariTenor, features a collection of 18 arias from the Baritone
+  and Tenor repertoires spanning three centuries and 15 composers in a record-setting
+  85 minute recording. Photo: Warner/Erato.'
+related_articles:
+- articles/fachisms-stereotypes-for-a-reason.md
+- articles/amici-e-rivali-two-gentlemen-and-friendly-rivalry-in-verona.md
+related_companies: []
+related_people:
+- scene/people/lawrence-brownlee.md
+- scene/people/michael-spyres.md
+short_description: The recording, a luxurious and record-setting 85 minutes of burnished
+  virtuosity, is spread over 18 arias spanning three centuries and 15 composers. Spyres
+  straddles the tenor and baritone repertoires so stylishly as to approach a state
+  of operatic titillation, if there was was such a thing.
+slug: michael-spyres-the-baritenor-difficult-to-compartmentalize-but-spectacular-85-min-listen
+title: Michael Spyres the BariTenor, difficult to compartmentalize — but a spectacular
+  85-minute listen
+youtube_url: ""
+---
 [Michael Spyres](/scene/people/michael-spyres/), the extraordinary baritone, tenor (and, when called upon, countertenor) is not easily compartmentalized. Starting out as a baritone he spent several years in that vocal range before realizing his tenor capabilities. For the record the term baritone derives from the Greek meaning “heavy” while tenor is Latin for "to hold." Spyres, then, must combine the dark and _heavy_ lower range with the ability to produce and to _hold_ coloratura expressions. He does all of that—and more.
 
 Baritenor is not simply a clever name for _BariTenor_, the terrific new recording from Spyres. It's also a type of voice, albeit a rare one, that doesn't easily fit into the traditional "_Fach_" system (German for "compartment") used throughout the world but especially in German-speaking countries to classify the voices of opera singers. These types and sub-types, many overlapping each other, are assigned so as not to enlist a singer for a role unsuited to his or her voice. But in Spyres' case he needs multiple listings.
 
 The recording, a luxurious and record-setting 85 minutes of burnished virtuosity, is spread over 18 arias spanning three centuries and 15 composers. Spyres straddles the tenor and baritone repertoires so stylishly as to approach a state of operatic titillation, if there was was such a thing. This baritenor is by turns, dramatic, delightful and daring, though never self-consciously so. The voice may be rare, but he's a natural.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1661971959/media/2022/08/MS_in_studio_vnzgau.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1661971959/media/2022/08/MS_in_studio_vnzgau.jpg)
 
 <figcaption>Baritenor, Michael Spyres in the studio. Photo: Warner/Erato.</figcaption>
 
@@ -37,7 +49,9 @@ The sour intent behind the sweetly sung "Deh, vieni alla finestra" from _Don Gio
 
 No less can be said about the tenor arias. The opening "Fuor del mar" from _Idomeneo_ is performed with gravitas and tortured uncertainty. That high-flying "Ah! mes amis, quel jour de fête!" from _La fille du régiment_ floats as much coloratura delight as the fluidly sung "Aux bords lointains" (_In fernem Land_) from _Lohengrin_ does its solemn revelation.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1661971989/media/2022/08/marko-letonja-est-de-retour-a-strasbourg-dr-photo-charlotte-aleman-1646753092_w5wqgx.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1661971989/media/2022/08/marko-letonja-est-de-retour-a-strasbourg-dr-photo-charlotte-aleman-1646753092_w5wqgx.jpg)
 
 <figcaption>The Orchestra Philharmonique de Strasbourg lead by Marko Letonja accompanies Michael Spyres on BariTenor along with Choeur de l'Opéra national du Rhin. Photo: Charlotte Aleman.</figcaption>
 
@@ -49,7 +63,9 @@ Then there's Spyres touched by Shakespeare. First there is Rossini’s rousing a
 
 Hailing from the Ozarks, [Spyres presented a recital](https://www.youtube.com/embed/QjdaUNF0ihY) of four selections from _BariTenor_ at the Ozark Lyric Opera in Springfield, Missouri, of which he is artistic director. Teaming with Warner/Erato, the performance was [captured on video](https://www.youtube.com/embed/QjdaUNF0ihY) to celebrate its launch. Available on YouTube, it's worth viewing to experience Spyres' vocal versatility and stage presence with only piano accompaniment.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1661972061/media/2022/08/PAA_Board_Of_Officers_Room_James_Ewing_05_amvya0.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1661972061/media/2022/08/PAA_Board_Of_Officers_Room_James_Ewing_05_amvya0.jpg)
 
 <figcaption>Michael Spyres will present a recital in the intimate and elegant Board of Officers Room at the Park Avenue Armory in New York on September 7th and 9th featuring works by Berlioz, Beethoven and Liszt. Photo: Park Avenue Armory.</figcaption>
 

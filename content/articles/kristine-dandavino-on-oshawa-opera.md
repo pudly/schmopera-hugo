@@ -1,20 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-01-09T09:00:00-05:00"
-lastmod = "2015-04-11T23:35:00-04:00"
-postamble = "For details about upcoming performances from Oshawa Opera, [visit their website](http://www.theoshawaopera.com/). "
-preamble = "In the midst of grim news for plenty of North American companies, I love to hear about new places to catch some opera. Mezzo-soprano [Kristine Dandavino](/scene/people/kristine-dandavino/) is Artistic Director of [Oshawa Opera](http://www.theoshawaopera.com/), founded in 2013, and looking forward to finishing its second season this April with _La traviata_ on April 19th, and a reprisal of _Norma_ on April 25th. I'm always in awe of people who start opera companies, no matter what size, and so I took the chance to ask Kristine a bit about this new company in what is perhaps an unlikely community for opera.\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551579631/media/2019/03/KristineDandavino.jpg"
-publishDate = "2015-01-09T09:00:00-05:00"
-related_articles = ["articles/suor-angelica-at-oshawa-opera.md", "articles/dont-miss-viva-verdi.md", "articles/opera-101-with-kristine-dandavino.md", "articles/vera-causa-opera-opera-for-all.md"]
-related_companies = ["scene/companies/oshawa-opera.md"]
-related_people = ["scene/people/kristine-dandavino.md"]
-short_description = "In the midst of grim news for plenty of North American companies, I love to hear about new places to catch some opera. Mezzo-soprano Kristine Dandavino is Artistic Director of Oshawa Opera, founded in 2013, and looking forward to finishing its second season this April with La traviata on April 19th, and a reprisal of Norma on April 25th. I’m always in awe of people who start opera companies, no matter what size, and so I took the chance to ask Kristine a bit about this new company in what is perhaps an unlikely community for opera. "
-slug = "kristine-dandavino-on-oshawa-opera"
-title = "Kristine Dandavino on Oshawa Opera"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-01-09T09:00:00-05:00"
+lastmod: "2015-04-11T23:35:00-04:00"
+postamble: 'For details about upcoming performances from Oshawa Opera, [visit their
+  website](http://www.theoshawaopera.com/). '
+preamble: |
+  In the midst of grim news for plenty of North American companies, I love to hear about new places to catch some opera. Mezzo-soprano [Kristine Dandavino](/scene/people/kristine-dandavino/) is Artistic Director of [Oshawa Opera](http://www.theoshawaopera.com/), founded in 2013, and looking forward to finishing its second season this April with _La traviata_ on April 19th, and a reprisal of _Norma_ on April 25th. I'm always in awe of people who start opera companies, no matter what size, and so I took the chance to ask Kristine a bit about this new company in what is perhaps an unlikely community for opera.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551579631/media/2019/03/KristineDandavino.jpg
+publishDate: "2015-01-09T09:00:00-05:00"
+related_articles:
+- articles/suor-angelica-at-oshawa-opera.md
+- articles/dont-miss-viva-verdi.md
+- articles/opera-101-with-kristine-dandavino.md
+- articles/vera-causa-opera-opera-for-all.md
+related_companies:
+- scene/companies/oshawa-opera.md
+related_people:
+- scene/people/kristine-dandavino.md
+short_description: 'In the midst of grim news for plenty of North American companies,
+  I love to hear about new places to catch some opera. Mezzo-soprano Kristine Dandavino
+  is Artistic Director of Oshawa Opera, founded in 2013, and looking forward to finishing
+  its second season this April with La traviata on April 19th, and a reprisal of Norma
+  on April 25th. I’m always in awe of people who start opera companies, no matter
+  what size, and so I took the chance to ask Kristine a bit about this new company
+  in what is perhaps an unlikely community for opera. '
+slug: kristine-dandavino-on-oshawa-opera
+title: Kristine Dandavino on Oshawa Opera
+---
 ### Why did you start Oshawa Opera?
 
 Why not? Oshawa Opera was born in April 2013, around 1:00 AM during a sleepless night when our daughter Zoé was still not sleeping through the night (she was 3 at the time). As I tried in vain to make her sleep, I thought about what would make me really happy. Oshawa was always known as motor city, my husband and I moved here in 2005 to start our family. At the time, I wondered why we moved here and wondered how a musician could thrive living in an industrial city. Oshawa is growing as a bedroom community to Toronto and as a university city, the community is diverse and the desire for culture is growing. The city of Oshawa has launched a big initiative with [Culture Counts](http://www.oshawa.ca/culturecounts/) and I figured, this is the time. This is the time to start building an opera company in Oshawa, not in 10 years, now. Other than the Opera Lyra and Opera York, there are not that many opportunities in Ontario for opera singers to continue to build their craft. Yes, there are several indie companies in Toronto but, not everyone can get to Toronto to hear these singers. A lot of seniors have told me, they used to to go to the COC but, they no longer have the stamina to travel to Toronto so, they are happy they can hear opera in Oshawa and get home in time for dinner! 

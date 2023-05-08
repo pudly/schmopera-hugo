@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-04-01T17:39:00+01:00"
-lastmod = "2016-04-02T15:52:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459529111842/2016-04-02---She's-the-One.jpg.jpg"
-publishDate = "2016-04-02T15:52:00+01:00"
-related_articles = ["articles/in-review-essential-operas-triple-bill.md"]
-related_companies = ["scene/companies/essential-opera.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/maureen-batt.md","scene/people/erin-bardua.md"]
-short_description = "&quot;Women are at the centre of each story in this programme,&quot; says Bardua. &quot;Some are tied together by classic Canadian imagery, like tempestuous weather and isolation. Others are more intimate and personal - mother-daughter relationships, or questioning sexuality.&quot;"
-slug = "dont-miss-shes-the-one"
-title = "Don&#039;t miss: She&#039;s The One"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-04-01T17:39:00+01:00"
+lastmod: "2016-04-02T15:52:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459529111842/2016-04-02---She's-the-One.jpg.jpg
+publishDate: "2016-04-02T15:52:00+01:00"
+related_articles:
+- articles/in-review-essential-operas-triple-bill.md
+related_companies:
+- scene/companies/essential-opera.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/maureen-batt.md
+- scene/people/erin-bardua.md
+short_description: '&quot;Women are at the centre of each story in this programme,&quot;
+  says Bardua. &quot;Some are tied together by classic Canadian imagery, like tempestuous
+  weather and isolation. Others are more intimate and personal - mother-daughter relationships,
+  or questioning sexuality.&quot;'
+slug: dont-miss-shes-the-one
+title: 'Don&#039;t miss: She&#039;s The One'
+---
 
 Next **Friday, April 8th, 7:30pm** at Heliconian Hall, [Essential Opera](/scene/companies/essential-opera/) presents *She's The One*, a concert that celebrates and explores women's lives, through excerpts from Canadian and American contemporary opera.
 

@@ -1,31 +1,33 @@
-+++
-date = "2015-11-13T09:54:00-05:00"
-discipline = "Baritone"
-lastmod = "2015-11-13T09:54:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1680021763/media/2023/03/dam-jw-211108_jorell_williams_headshot_8x10_cmyk_koi8qw.jpg"
-publishDate = "2015-11-13T09:54:00-05:00"
-related_companies = ["scene/companies/seattle-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/opera-on-the-avalon.md", "scene/companies/american-opera-projects.md"]
-slug = "jorell-williams"
-title = "Jorell Williams"
-website = "http://www.jorellmwilliams.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/JWBaritone/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/JojoNoire"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/Jorellogram/"
-[[social_media]]
-platform = "Linkedin"
-template = "social-media"
-url = "https://www.linkedin.com/in/jorell-williams-307963b/"
-
-+++
+---
+date: "2015-11-13T09:54:00-05:00"
+discipline: Baritone
+lastmod: "2015-11-13T09:54:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1680021763/media/2023/03/dam-jw-211108_jorell_williams_headshot_8x10_cmyk_koi8qw.jpg
+publishDate: "2015-11-13T09:54:00-05:00"
+related_companies:
+- scene/companies/seattle-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/opera-on-the-avalon.md
+- scene/companies/american-opera-projects.md
+slug: jorell-williams
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/JWBaritone/?fref=ts
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/JojoNoire
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/Jorellogram/
+- _template: people_single
+  platform: Linkedin
+  template: social-media
+  url: https://www.linkedin.com/in/jorell-williams-307963b/
+title: Jorell Williams
+website: http://www.jorellmwilliams.com/
+---
 Jorell Williams has been hailed by Opera News as having “a solid vocal core and easy, natural production” and the New York Times for being “magnificent” and “rich toned”.
 
 An American operatic baritone with a wide variety of experience from standard repertoire to premiere pieces, Jorell begins the 2022-23 season debuting as **Escamillo** in Pacific Opera Victoria’s production of Bizet’s _Carmen_, followed by _Carmina Burana_ with Toronto’s Amadeus Choir, Händel’s _Messiah_ with the Elmer Iseler Singers and also with National Philharmonic Orchestra in Maryland. Jorell is a soloist in Michael Tippett’s _A Child of Our Time_ with the Duluth Superior Symphony, appears in concert with Finger Lakes Opera and LyricFest Philadelphia.

@@ -1,22 +1,26 @@
-+++
-date = "2016-01-12T16:23:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-03-15T11:15:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452615695868/2016-11-12---Aidan-Ferguson.jpg.jpg"
-publishDate = "2016-01-12T16:23:00+00:00"
-related_companies = ["scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/pacific-opera-victoria.md","scene/companies/lopra-de-montral.md","scene/companies/opera-mcgill.md"]
-slug = "aidan-ferguson"
-title = "Aidan Ferguson"
-website = "http://www.aidanferguson.ca/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/AidanFergusonmezzo/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/amfergu"
-+++
+---
+date: "2016-01-12T16:23:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2017-03-15T11:15:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452615695868/2016-11-12---Aidan-Ferguson.jpg.jpg
+publishDate: "2016-01-12T16:23:00+00:00"
+related_companies:
+- scene/companies/latelier-lyrique-de-lopra-de-montral.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/opera-mcgill.md
+slug: aidan-ferguson
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/AidanFergusonmezzo/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/amfergu
+title: Aidan Ferguson
+website: http://www.aidanferguson.ca/
+---
 
 Aidan Ferguson is gaining a strong reputation for her beautiful artistry and ability. Following her recent performance of Mère Marie de L’Incarnation with l’Opéra de Montréal, the Montreal Gazette wrote, “Aidan Ferguson produced the strongest singing of the evening.” Ms. Ferguson established her career as a mezzo-soprano both across Canada and as a member of Theater Basel in Switzerland, where she appeared as Emilia in *Otello*, Nicklausse in *Les Contes d’Hoffmann*, the title role in *the Rape of Lucretia*, and Zweite Magd in Strauss’ *Daphne*. Since returning to Canada, she has re-focused her repertoire, moving toward soprano roles under the mentorship of Frances Ginzer. Ms. Ferguson’s 2017 season continues with the Overseer in Edmonton Opera’s *Elektra*, which she recently sang for l’Opéra de Montréal.
 

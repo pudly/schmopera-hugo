@@ -1,18 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-13T18:56:00-04:00"
-lastmod = "2017-08-02T11:05:00-04:00"
-preamble = "Soprano [Adelaide Boedecker](/scene/people/adelaide-boedecker/) is spending her second summer at [Santa Fe Opera](/scene/companies/the-santa-fe-opera/) as an Apprentice Singer, taking on the role of Ida in *Die Fledermaus*, and covering Chrisann in Mason Bates' *The (R)evolution of Steve Jobs*. From 2014-2016 she was a Resident Artist at Pittsburgh Opera, where she balanced roles like Despina (*Così fan tutte*) and Anna (*Nabucco*) with contemporary work like Beth in Adamo's *Little Women* and Alice in Ricky Ian Gordon's *27*. In the 2017/18 season, she'll sing Micaëla in *La tragédie de Carmen* with Opera Birmingham.\n\nBoedecker chats about being happily busy as a SFO Apprentice Singer, and finding time to relax at the [spa](https://www.ojospa.com/)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500399486807/2017-07-18---BOEDECKER.jpg.jpg"
-publishDate = "2017-08-02T11:05:00-04:00"
-related_articles = ["articles/young-singers-in-santa-fe-jessica-e-jones.md","articles/talking-with-singers-brenda-rae.md","articles/talking-with-singers-sasha-cooke.md"]
-related_companies = ["scene/companies/the-santa-fe-opera.md"]
-related_people = ["scene/people/adelaide-boedecker.md"]
-short_description = "&quot;Everything about the Santa Fe Opera made me want to apply for the apprentice program.  I had dreamt of working here for a long time, after hearing my teacher and her husband speak so fondly of the company.  It was a dream come true when I got the job!&quot;"
-slug = "young-singers-in-santa-fe-adelaide-boedecker"
-title = "Young singers in Santa Fe: Adelaide Boedecker"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-13T18:56:00-04:00"
+lastmod: "2017-08-02T11:05:00-04:00"
+preamble: |-
+  Soprano [Adelaide Boedecker](/scene/people/adelaide-boedecker/) is spending her second summer at [Santa Fe Opera](/scene/companies/the-santa-fe-opera/) as an Apprentice Singer, taking on the role of Ida in *Die Fledermaus*, and covering Chrisann in Mason Bates' *The (R)evolution of Steve Jobs*. From 2014-2016 she was a Resident Artist at Pittsburgh Opera, where she balanced roles like Despina (*Così fan tutte*) and Anna (*Nabucco*) with contemporary work like Beth in Adamo's *Little Women* and Alice in Ricky Ian Gordon's *27*. In the 2017/18 season, she'll sing Micaëla in *La tragédie de Carmen* with Opera Birmingham.
+
+  Boedecker chats about being happily busy as a SFO Apprentice Singer, and finding time to relax at the [spa](https://www.ojospa.com/).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500399486807/2017-07-18---BOEDECKER.jpg.jpg
+publishDate: "2017-08-02T11:05:00-04:00"
+related_articles:
+- articles/young-singers-in-santa-fe-jessica-e-jones.md
+- articles/talking-with-singers-brenda-rae.md
+- articles/talking-with-singers-sasha-cooke.md
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+related_people:
+- scene/people/adelaide-boedecker.md
+short_description: '&quot;Everything about the Santa Fe Opera made me want to apply
+  for the apprentice program.  I had dreamt of working here for a long time, after
+  hearing my teacher and her husband speak so fondly of the company.  It was a dream
+  come true when I got the job!&quot;'
+slug: young-singers-in-santa-fe-adelaide-boedecker
+title: 'Young singers in Santa Fe: Adelaide Boedecker'
+---
 
 ## Can you describe a day in the life of an apprentice singer at Santa Fe Opera?
 

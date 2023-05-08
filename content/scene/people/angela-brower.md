@@ -1,23 +1,29 @@
-+++
-date = "2016-09-23T12:37:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-03-15T12:29:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474630549858/2016-09-23---Angela-Brower.jpg.jpg"
-primary_image_credit = "Patrick Vogel"
-publishDate = "2016-09-23T12:37:00+01:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/bayerische-staatsoper.md","scene/companies/glimmerglass-festival.md","scene/companies/wiener-staatsoper.md","scene/companies/san-francisco-opera.md"]
-slug = "angela-brower"
-title = "Angela Brower"
-website = "http://angelabrower.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/browerangela"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/angela_brower"
-+++
+---
+date: "2016-09-23T12:37:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2017-03-15T12:29:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474630549858/2016-09-23---Angela-Brower.jpg.jpg
+primary_image_credit: Patrick Vogel
+publishDate: "2016-09-23T12:37:00+01:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/salzburg-festival.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/san-francisco-opera.md
+slug: angela-brower
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/browerangela
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/angela_brower
+title: Angela Brower
+website: http://angelabrower.com/
+---
 
 Rising mezzo-soprano Angela Brower was raised in Arizona and studied at the Arizona State University and at the Indiana University. In addition to earning several awards and prizes during her studies, she performed at the Glimmerglass Opera as a part of the 2008 "Young American Artists Program".  From there she was invited into the Junges Ensemble of the Bayerische Staatsoper where she was a member from 2008 to 2010. Her portrayal of Dorabella (*Così fan tutte*) earned her particular attention on the main stage of the Nationaltheater.
 

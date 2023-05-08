@@ -1,21 +1,23 @@
-+++
-date = "2016-08-12T10:05:00+01:00"
-lastmod = "2016-08-12T10:19:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470993381877/2016-08-07---MichaelFabiano_Arielle-Doneson.jpg.jpg"
-publishDate = "2016-08-12T10:05:00+01:00"
-short_bio = "Mr. Fabiano has performed at many of the world’s leading opera houses; a list that includes: the Metropolitan Opera, San Francisco Opera, Teatro Real, Opéra National de Paris, Dutch National Opera, La Scala, Asociacíon Bilbaina de Amigos de la Ópera, Dresden Semperoper, Deutsche Oper Berlin, English National Opera, and the Teatro San Carlo. In addition, he has graced concert stages with some of the world’s most acclaimed orchestras such as the Cleveland Orchestra, San Francisco Symphony, Los Angeles Philharmonic, Philadelphia Orchestra, Oslo Philharmonic, and the Vienna Symphony.\n\nPhoto: Arielle Doneson."
-slug = "michael-fabiano"
-title = "Michael Fabiano"
-website = "http://michaelfabianotenor.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Michael-Fabiano-309732654941/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MichaelFabiano"
-+++
+---
+date: "2016-08-12T10:05:00+01:00"
+lastmod: "2016-08-12T10:19:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470993381877/2016-08-07---MichaelFabiano_Arielle-Doneson.jpg.jpg
+publishDate: "2016-08-12T10:05:00+01:00"
+short_bio: |-
+  Mr. Fabiano has performed at many of the world’s leading opera houses; a list that includes: the Metropolitan Opera, San Francisco Opera, Teatro Real, Opéra National de Paris, Dutch National Opera, La Scala, Asociacíon Bilbaina de Amigos de la Ópera, Dresden Semperoper, Deutsche Oper Berlin, English National Opera, and the Teatro San Carlo. In addition, he has graced concert stages with some of the world’s most acclaimed orchestras such as the Cleveland Orchestra, San Francisco Symphony, Los Angeles Philharmonic, Philadelphia Orchestra, Oslo Philharmonic, and the Vienna Symphony.
+
+  Photo: Arielle Doneson.
+slug: michael-fabiano
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Michael-Fabiano-309732654941/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/MichaelFabiano
+title: Michael Fabiano
+website: http://michaelfabianotenor.com/
+---
 
 Of Michael Fabiano’s debut as Lensky in Tchaikovsky’s *Eugene Onegin* at the Royal Opera, The Sunday Times in London wrote: “I can’t think of a Lensky at Covent Garden who has held the audience so spellbound in 40 years of Onegin-going… a glorious debut.” The recipient of the 2014 Beverly Sills Artist Award and the 2014 Richard Tucker Award, Mr. Fabiano is the first singer to win both awards in the same year, and is considered one of the greatest tenors in the world today.
 

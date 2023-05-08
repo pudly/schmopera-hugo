@@ -1,22 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2022-02-28T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1646072875/media/2022/02/sqAnnaNetrebko_z31li8.jpg"
-primary_image_credit = "Photo by Julian Hargreaves."
-related_articles = ["articles/crowded-flights.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = []
-short_description = "At the same time, if you wear blackface in 2019, you've got to be quite stubborn indeed not to apologize for it. And if you're an opera singer who insists that opera-singing shouldn't be interrupted by a pandemic, I think that you show a really low level of humility."
-slug = "opera-politics-blurry-lines-being-kind"
-title = "Opera + politics + blurry lines + being kind"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2022-02-28T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1646072875/media/2022/02/sqAnnaNetrebko_z31li8.jpg
+primary_image_credit: Photo by Julian Hargreaves.
+related_articles:
+- articles/crowded-flights.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people: []
+short_description: At the same time, if you wear blackface in 2019, you've got to
+  be quite stubborn indeed not to apologize for it. And if you're an opera singer
+  who insists that opera-singing shouldn't be interrupted by a pandemic, I think that
+  you show a really low level of humility.
+slug: opera-politics-blurry-lines-being-kind
+title: Opera + politics + blurry lines + being kind
+youtube_url: ""
+---
 Over the weekend the Metropolitan Opera announced that it "can no longer engage with artists or institutions that support Putin or are supported by him." 
 
 It's a gesture of solidary and respect for Ukraine that is relatively small but certainly impactful. I'll admit I'm surprised by such decisive action from a big old institution like the Met — even pleasantly so.

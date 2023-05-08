@@ -1,18 +1,22 @@
-+++
-date = "2015-04-07T22:39:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-04-07T22:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428460476924/Julie_Boulianne_2_-_credit_Julien_Faug%25C3%25A8re%2C_ATMA_Classique.jpg.jpg"
-primary_image_credit = "Julien Faugère"
-publishDate = "2015-04-07T22:39:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/vancouver-opera.md","scene/companies/toronto-symphony-orchestra.md"]
-slug = "julie-boulianne"
-title = "Julie Boulianne"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/juli_bou"
-+++
+---
+date: "2015-04-07T22:39:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-04-07T22:39:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428460476924/Julie_Boulianne_2_-_credit_Julien_Faug%25C3%25A8re%2C_ATMA_Classique.jpg.jpg
+primary_image_credit: Julien Faugère
+publishDate: "2015-04-07T22:39:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/toronto-symphony-orchestra.md
+slug: julie-boulianne
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/juli_bou
+title: Julie Boulianne
+---
 
 <p>
 	Winner of the Prix Lyrique from the Jeunes Ambassadeurs Lyriques, French-Canadian Julie Boulianne has been acclaimed for the agility and expressive power of her dark-hued mezzo-soprano in a wide repertoire, with a special focus on the music of Mozart and Rossini. Possessing a voice The New York Times calls "subtle and pure," she distinguished herself in the role of Isolier in Rossini's <em>Le Comte Ory</em> while still a member of the Juilliard Opera Center.

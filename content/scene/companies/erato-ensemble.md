@@ -1,18 +1,20 @@
-+++
-date = "2015-09-18T11:40:00-04:00"
-lastmod = "2015-09-18T11:40:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442590638774/EratoSquare.jpg.jpg"
-publishDate = "2015-09-18T11:40:00-04:00"
-related_people = ["scene/people/michael-park.md"]
-slug = "erato-ensemble"
-title = "Erato Ensemble"
-type_of_company = "Chamber ensemble"
-website = "http://www.eratoensemble.com/Home_Page.php"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/EratoEnsemble"
-+++
+---
+date: "2015-09-18T11:40:00-04:00"
+lastmod: "2015-09-18T11:40:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442590638774/EratoSquare.jpg.jpg
+publishDate: "2015-09-18T11:40:00-04:00"
+related_people:
+- scene/people/michael-park.md
+slug: erato-ensemble
+social_media:
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/EratoEnsemble
+title: Erato Ensemble
+type_of_company: Chamber ensemble
+website: http://www.eratoensemble.com/Home_Page.php
+---
 
 ERATO is an art-song chamber collective formed in 2006 by tenor/composer William George and soprano/composer Catherine Laub. 
 

@@ -1,21 +1,24 @@
-+++
-date = "2015-06-16T15:19:00+01:00"
-lastmod = "2016-04-28T10:03:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461834182277/2016-04-28---Jessica-Lane.jpg.jpg"
-publishDate = "2015-06-16T15:19:00+01:00"
-short_bio = "Jessica is a young, up and coming soprano in the Greater Toronto Area. She has recently\ngraduated with her Masters of Music in Performance and Literature from the University\nof Western Ontario under the instruction of Canadian renowned mezzo-soprano, Anita\nKrause. Jessica also has her own blog, [the irrelevant diva](http://theirreleventdiva.blogspot.ca/)."
-slug = "jessica-lane"
-title = "Jessica Lane"
-website = "http://www.jessicalanesoprano.com/#!blank/c3os"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/jessica.lane.mezzo"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/irrelevantdiva"
-+++
+---
+date: "2015-06-16T15:19:00+01:00"
+lastmod: "2016-04-28T10:03:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461834182277/2016-04-28---Jessica-Lane.jpg.jpg
+publishDate: "2015-06-16T15:19:00+01:00"
+short_bio: |-
+  Jessica is a young, up and coming soprano in the Greater Toronto Area. She has recently
+  graduated with her Masters of Music in Performance and Literature from the University
+  of Western Ontario under the instruction of Canadian renowned mezzo-soprano, Anita
+  Krause. Jessica also has her own blog, [the irrelevant diva](http://theirreleventdiva.blogspot.ca/).
+slug: jessica-lane
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/jessica.lane.mezzo
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/irrelevantdiva
+title: Jessica Lane
+website: http://www.jessicalanesoprano.com/#!blank/c3os
+---
 
 Jessica is a young, up and coming soprano in the Greater Toronto Area. She has recently
 graduated with her Masters of Music in Performance and Literature from the University

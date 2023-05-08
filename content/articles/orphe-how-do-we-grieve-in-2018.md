@@ -1,18 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-04-10T22:19:00-04:00"
-lastmod = "2018-04-11T12:02:00-04:00"
-preamble = "Against the Grain Theatre's spring production is upon us, and it boasts all the innovation and surprises for which the award-winning company is known. In collaboration with Opera Columbus, Banff Centre for Arts and Creativity, and NYC's Company XIV, AtG presents [*Orphée⁺*](http://againstthegraintheatre.com/orphee/), April 26-28 at the Fleck Dance Theatre in Toronto's Harbourfront Centre. Gluck and Berlioz's score is transformed with new orchestration and arrangements, and the production by Joel Ivany features burlesque dancers, aerialists, and a \"virtual chorus\". \n\nWe spoke with Ivany and AtG Music Director Topher Mokrzewski about all the curiosity inherent in their [*Orphée⁺*](http://againstthegraintheatre.com/orphee/), and what audiences can expect this month:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523412995166/sq---Marcy-hi-res.jpg.jpg"
-primary_image_credit = "Aerialist Marcy Richardson, singing Amour in Orphée⁺."
-publishDate = "2018-04-10T22:19:00-04:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
-related_people = ["scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md"]
-short_description = "&quot;The key is to employ all these elements to further enhance and heighten the experience of the drama - that is to say, these are not random tricks that have been selected for novelty&#039;s sake. Despite the number of collaborators, there is a unity of purpose behind every device, and I think they coalesce beautifully.&quot;"
-slug = "orphe-how-do-we-grieve-in-2018"
-title = "Orphée⁺: &quot;How do we grieve in 2018?&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-04-10T22:19:00-04:00"
+lastmod: "2018-04-11T12:02:00-04:00"
+preamble: "Against the Grain Theatre's spring production is upon us, and it boasts
+  all the innovation and surprises for which the award-winning company is known. In
+  collaboration with Opera Columbus, Banff Centre for Arts and Creativity, and NYC's
+  Company XIV, AtG presents [*Orphée⁺*](http://againstthegraintheatre.com/orphee/),
+  April 26-28 at the Fleck Dance Theatre in Toronto's Harbourfront Centre. Gluck and
+  Berlioz's score is transformed with new orchestration and arrangements, and the
+  production by Joel Ivany features burlesque dancers, aerialists, and a \"virtual
+  chorus\". \n\nWe spoke with Ivany and AtG Music Director Topher Mokrzewski about
+  all the curiosity inherent in their [*Orphée⁺*](http://againstthegraintheatre.com/orphee/),
+  and what audiences can expect this month:"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523412995166/sq---Marcy-hi-res.jpg.jpg
+primary_image_credit: Aerialist Marcy Richardson, singing Amour in Orphée⁺.
+publishDate: "2018-04-10T22:19:00-04:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-banff-centre.md
+related_people:
+- scene/people/joel-ivany.md
+- scene/people/christopher-mokrzewski.md
+short_description: '&quot;The key is to employ all these elements to further enhance
+  and heighten the experience of the drama - that is to say, these are not random
+  tricks that have been selected for novelty&#039;s sake. Despite the number of collaborators,
+  there is a unity of purpose behind every device, and I think they coalesce beautifully.&quot;'
+slug: orphe-how-do-we-grieve-in-2018
+title: 'Orphée⁺: &quot;How do we grieve in 2018?&quot;'
+---
 
 ## What does the "⁺" denote in this adaptation of *Orphée et Eurydice*?
 
@@ -20,7 +37,7 @@ title = "Orphée⁺: &quot;How do we grieve in 2018?&quot;"
 
 **Topher**: The plus also conveys the message that this production is comprised of more than its traditional parts. You'll be encountering the piece, from a musical and dramatic perspective, pretty much as it was originally conceived (no significant cuts or libretto adaptations) but with all manner of additional theatrical elements deployed to enhance the telling of the tale. Dancers, aerialists, electronic instruments, sound design. It's an *Orphée* viewed, to a degree, through the lens of our time and is, as such, a little more than a recreation of the work as the original creators conceived it.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523462556067/Orphee---PastedGraphic-3.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523462556067/Orphee---PastedGraphic-3.jpg.jpg)
 <figcaption>*Orphée⁺* rehearsal photo by Joel Ivany.</figcaption>
 </figure>
 
@@ -31,7 +48,7 @@ title = "Orphée⁺: &quot;How do we grieve in 2018?&quot;"
 
 **Topher**:  I think the diversity of elements at play in this production is a benefit and not a hindrance. The key is to employ all these elements to further enhance and heighten the experience of the drama - that is to say, these are not random tricks that have been selected for novelty's sake. Despite the number of collaborators, there is a unity of purpose behind every device, and I think they coalesce beautifully.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523462496593/Orphee---PastedGraphic-7.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523462496593/Orphee---PastedGraphic-7.jpg.jpg)
 <figcaption>*Orphée⁺* costume sketch by Zane Pihlstrom.</figcaption>
 </figure>
 
@@ -42,7 +59,7 @@ title = "Orphée⁺: &quot;How do we grieve in 2018?&quot;"
 
 **Topher**: It should be stated that this piece already exists in numerous forms - French, Italian, Gluck, Berlioz, countertenor, mezzo. It's been in a constant state of flux for several hundred years. I look at this project as a continuation of that process of discovery and re-invention. We're standing on the shoulders of giants, and have tried to take some of the very fine ideas already explored by persons much brighter than ourselves, shuffle them round, and re-imagine them in a musical/visual language closer to the sort we're familiar with today.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523412819351/Joel-Topher-Nikola-Novak.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523412819351/Joel-Topher-Nikola-Novak.jpg.jpg)
 <figcaption>(l-r) Against the Grain Theatre Artistic Director Joel Ivany and Music Director Topher Mokrzewski. Photos by Nikola Novak.</figcaption>
 </figure>
 

@@ -1,19 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2014-09-24T11:46:00-04:00"
-lastmod = "2015-04-27T17:55:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548019094/media/2019/01/COCEnsembleNewbies.jpg"
-primary_image_credit = "COC General Director Alexander Neef & Music Director Johannes Debus with new Ensemble singers. Photo: Michael Cooper."
-publishDate = "2014-09-24T11:46:00-04:00"
-related_articles = ["articles/centre-stage-7-finalists-compete-in-the-cocs-ensemble-studio-competition-gala.md", "articles/centre-stage-2014-lets-hear-it-for-the-boys.md", "articles/coc1516-the-new-ensemble-studio.md", "articles/opera-for-lunch-the-roh-young-artists-in-concert.md"]
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/jeanphilippe-fortierlazure.md", "scene/people/karine-boucher.md", "scene/people/iain-macneil.md", "scene/people/andrew-haji.md", "scene/people/charlotte-burrage.md", "scene/people/clarence-frazer.md", "scene/people/jennifer-szeto.md"]
-short_description = "Yesterday in the Richard Bradshaw Amphitheatre, the Canadian Opera Company&#039;s Ensemble Studio kicked off the new season of the Free Concert Series. This year there are three new singers and one new pianist in the Ensemble. I&#039;ll admit the concert wasn&#039;t my first encounter with the COC young artists; I&#039;ve had the opportunity to see them at work in recent weeks, but I was no less excited to hear them all sing their &quot;introductory&quot; arias."
-slug = "the-coc-ensemble-studio-meet-the-newbies"
-title = "The COC Ensemble Studio: Meet the Newbies"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2014-09-24T11:46:00-04:00"
+lastmod: "2015-04-27T17:55:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548019094/media/2019/01/COCEnsembleNewbies.jpg
+primary_image_credit: 'COC General Director Alexander Neef & Music Director Johannes
+  Debus with new Ensemble singers. Photo: Michael Cooper.'
+publishDate: "2014-09-24T11:46:00-04:00"
+related_articles:
+- articles/centre-stage-7-finalists-compete-in-the-cocs-ensemble-studio-competition-gala.md
+- articles/centre-stage-2014-lets-hear-it-for-the-boys.md
+- articles/coc1516-the-new-ensemble-studio.md
+- articles/opera-for-lunch-the-roh-young-artists-in-concert.md
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/jeanphilippe-fortierlazure.md
+- scene/people/karine-boucher.md
+- scene/people/iain-macneil.md
+- scene/people/andrew-haji.md
+- scene/people/charlotte-burrage.md
+- scene/people/clarence-frazer.md
+- scene/people/jennifer-szeto.md
+short_description: Yesterday in the Richard Bradshaw Amphitheatre, the Canadian Opera
+  Company&#039;s Ensemble Studio kicked off the new season of the Free Concert Series.
+  This year there are three new singers and one new pianist in the Ensemble. I&#039;ll
+  admit the concert wasn&#039;t my first encounter with the COC young artists; I&#039;ve
+  had the opportunity to see them at work in recent weeks, but I was no less excited
+  to hear them all sing their &quot;introductory&quot; arias.
+slug: the-coc-ensemble-studio-meet-the-newbies
+title: 'The COC Ensemble Studio: Meet the Newbies'
+---
 Yesterday in the Richard Bradshaw Amphitheatre, the Canadian Opera Company's [Ensemble Studio](http://www.coc.ca/AboutTheCOC/CompanyMembers/EnsembleStudio.aspx) kicked off the new season of the [Free Concert Series](http://www.coc.ca/performancesandtickets/freeconcertseries.aspx). This year there are three new singers and one new pianist in the Ensemble. I'll admit the concert wasn't my first encounter with the COC young artists; I've had the opportunity to see them at work in recent weeks, but I was no less excited to hear them all sing their "introductory" arias. I'm a past member of the COC Ensemble, and I have a clear memory of how nerve-wracking this annual inaugural concert is. As refreshing and impressive as the Amphitheatre is, there's something intimidating about the light-filled space, with the audience around and above you. For this[ _Meet the Artists_](http://files.coc.ca/pdfs/concert140923.pdf) concert, the phrase "sing for Grandma" comes to mind.
 
 The Ensemble Studio wasn't entirely in top health (three out of the nine singers were sadly out sick), but they really are a strong group this year. The new members in particular were super exciting to hear. Bass-baritone [Iain MacNeil](http://www.iainmacneil.com/bio) started off with "Rivolgete a lui lo sguardo" (_Così fan tutte_). He has a warm and clear sound, already much richer than when I heard him last, as Sid in UofT's _Albert Herring_. I'm excited to hear him develop more boom in his voice; he's off to a solid start at the COC this season.

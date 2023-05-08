@@ -1,24 +1,31 @@
-+++
-date = "2017-07-25T10:09:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-07-25T10:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1649696279/media/2022/04/SydneyBaedke_qz4jan.jpg"
-primary_image_credit = "Daniel Denino"
-publishDate = "2017-07-25T10:09:00-04:00"
-related_companies = ["scene/companies/the-santa-fe-opera.md", "scene/companies/manitoba-opera.md", "scene/companies/the-banff-centre.md", "scene/companies/brott-opera.md", "scene/companies/opera-on-the-avalon.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/opera-nuova.md", "scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
-slug = "sydney-baedke"
-title = "Sydney Baedke"
-website = "https://www.sydneybaedkesoprano.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/sydneythesoprano/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/sydneybaedkesoprano"
-
-+++
+---
+date: "2017-07-25T10:09:00-04:00"
+discipline: Soprano
+lastmod: "2017-07-25T10:09:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1649696279/media/2022/04/SydneyBaedke_qz4jan.jpg
+primary_image_credit: Daniel Denino
+publishDate: "2017-07-25T10:09:00-04:00"
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/manitoba-opera.md
+- scene/companies/the-banff-centre.md
+- scene/companies/brott-opera.md
+- scene/companies/opera-on-the-avalon.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/opera-nuova.md
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+slug: sydney-baedke
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/sydneythesoprano/
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/sydneybaedkesoprano
+title: Sydney Baedke
+website: https://www.sydneybaedkesoprano.com/
+---
 Described as a "rising star to watch" by _Opera Canada_, soprano Sydney Baedke was recently named one of Canada's top emerging musicians under 30 by the CBC (2021). Praised for her "shimmering" coloratura (_Opera News_), she began her vocal training at age five in her native Alberta and has since made emerging artist appearances across Canada, the United States, and Europe. She looks forward to making her principle artist debut at Opera on the Avalon as Beatrice in Heggie & Sheer's _Three Decembers_ in June 2022.
 
 Sydney made her professional debut in 2019 as La Fortuna & Valletto in Tim Albery's critically acclaimed production of Monteverdi's _The Coronation of Poppea_ at Opera Theatre of Saint Louis, where she also covered Gilda in _Rigoletto_ as a member of the Gerdine Young Artist Program. Unfortunately Sydney's return to Saint Louis as Frasquita in their 2020 production of _Carmen_ was postponed due to the global pandemic. She recently spent the 2021 summer season as a member of the renowned Apprentice Program for Singers at the Santa Fe Opera, where she covered Tatyana in _Eugene Onegin_ and appeared as Antonia in an excerpt from _Les Contes d'Hoffmann_ in the annual Apprentice Scenes Showcase. 2021 also saw Sydney star in the title role of Brott Opera's digital, abridged production of Estacio's iconic Canadian opera, _Filumena_.

@@ -1,25 +1,24 @@
-+++
-date = "2015-05-23T23:32:00-04:00"
-discipline = "Mezzo-soprano"
-draft = true
-lastmod = "2015-05-23T23:32:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432438241100/Kristen.png.png"
-slug = "kristen-seikaly"
-title = "Kristen Seikaly"
-website = "http://www.kristenseikaly.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/MezzoSeikaly"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/KristenSeikaly"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/Seikaly22"
-+++
+---
+date: "2015-05-23T23:32:00-04:00"
+discipline: Mezzo-soprano
+draft: true
+lastmod: "2015-05-23T23:32:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432438241100/Kristen.png.png
+slug: kristen-seikaly
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/MezzoSeikaly
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/KristenSeikaly
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/Seikaly22
+title: Kristen Seikaly
+website: http://www.kristenseikaly.com/
+---
 
 Kristen Seikaly, mezzo-soprano, has been hailed as an “energetic” and “engaging
 performer,” known for bringing passion and life to the stage. Kristen’s full and partial

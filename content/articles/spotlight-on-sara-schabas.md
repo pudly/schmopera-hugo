@@ -1,19 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-10-04T18:05:00-04:00"
-lastmod = "2015-10-05T08:34:00-04:00"
-preamble = "Canadian soprano [Sara Schabas](/scene/people/sara-schabas/) has learned, in her still-young career, how much singing can mean to an audience. She knows that it takes more than technique to move listeners, and she knows that her work is valuable on stages of all sizes and shapes. Sara sings to give back, bringing music to patients in hospitals and care facilities through charities like [Songs By Heart](http://www.songsbyheart.org/about.html) and [Sharing Notes](http://www.sharing-notes.org/). She's also got the stuff for the big stage, taking on roles like Susanna, Lauretta, and Papagena in Canada and the United States. Sara talks about her love of French composers, and how living a diverse life makes her an engaging singer.\n\nThis interview is part of our ongoing series of features on young working artists in the opera industry. If you think you'd be a great candidate for an interview, or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443996471606/SaraSquare.jpg.jpg"
-primary_image_credit = "Photo: Kristen Miccoli"
-publishDate = "2015-10-05T08:00:00-04:00"
-related_articles = ["articles/spotlight-on-lida-szkwarek.md","articles/spotlight-on-emily-peragine.md","articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-william-ford.md","articles/spotlight-on-keith-lam.md","articles/spotlight-on-laurelle-jade-froese.md","articles/spotlight-on-marjorie-maltais.md","articles/spotlight-on-michelle-siemens.md","articles/spotlight-on-cairan-ryan.md","articles/spotlight-on-christopher-james-ray.md","articles/heggies-holocaust-operas-see-canadian-premiere.md"]
-related_companies = ["scene/companies/opera-on-the-avalon.md","scene/companies/dayton-opera.md"]
-related_people = ["scene/people/sara-schabas.md"]
-short_description = "Canadian soprano Sara Schabas has learned, in her still-young career, how much singing can mean to an audience. She knows that it takes more than technique to move listeners, and she knows that her work is valuable on stages of all sizes and shapes. Sara sings to give back, bringing music to patients in hospitals and care facilities through charities like Songs By Heart and Sharing Notes. "
-slug = "spotlight-on-sara-schabas"
-title = "Spotlight on: Sara Schabas"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-10-04T18:05:00-04:00"
+lastmod: "2015-10-05T08:34:00-04:00"
+preamble: |-
+  Canadian soprano [Sara Schabas](/scene/people/sara-schabas/) has learned, in her still-young career, how much singing can mean to an audience. She knows that it takes more than technique to move listeners, and she knows that her work is valuable on stages of all sizes and shapes. Sara sings to give back, bringing music to patients in hospitals and care facilities through charities like [Songs By Heart](http://www.songsbyheart.org/about.html) and [Sharing Notes](http://www.sharing-notes.org/). She's also got the stuff for the big stage, taking on roles like Susanna, Lauretta, and Papagena in Canada and the United States. Sara talks about her love of French composers, and how living a diverse life makes her an engaging singer.
+
+  This interview is part of our ongoing series of features on young working artists in the opera industry. If you think you'd be a great candidate for an interview, or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443996471606/SaraSquare.jpg.jpg
+primary_image_credit: 'Photo: Kristen Miccoli'
+publishDate: "2015-10-05T08:00:00-04:00"
+related_articles:
+- articles/spotlight-on-lida-szkwarek.md
+- articles/spotlight-on-emily-peragine.md
+- articles/spotlight-on-charlotte-knight.md
+- articles/spotlight-on-william-ford.md
+- articles/spotlight-on-keith-lam.md
+- articles/spotlight-on-laurelle-jade-froese.md
+- articles/spotlight-on-marjorie-maltais.md
+- articles/spotlight-on-michelle-siemens.md
+- articles/spotlight-on-cairan-ryan.md
+- articles/spotlight-on-christopher-james-ray.md
+- articles/heggies-holocaust-operas-see-canadian-premiere.md
+related_companies:
+- scene/companies/opera-on-the-avalon.md
+- scene/companies/dayton-opera.md
+related_people:
+- scene/people/sara-schabas.md
+short_description: 'Canadian soprano Sara Schabas has learned, in her still-young
+  career, how much singing can mean to an audience. She knows that it takes more than
+  technique to move listeners, and she knows that her work is valuable on stages of
+  all sizes and shapes. Sara sings to give back, bringing music to patients in hospitals
+  and care facilities through charities like Songs By Heart and Sharing Notes. '
+slug: spotlight-on-sara-schabas
+title: 'Spotlight on: Sara Schabas'
+---
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 
@@ -27,7 +49,9 @@ When I sing opera and art songs in a professional context, it’s that visceral 
 
 When I’m singing well, it generally means I’m singing with a full body engagement (heart, body, soul) that comes from a deep connection to what I’m singing. I get swept up in the music and character and all of a sudden phrases feel way less long and I start singing from my heart and forget about all the technical things I worry about in the practise room. It’s sorta magical. :) 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443996694042/Schabas.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443996694042/Schabas.jpg.jpg)
 <figcaption>Photo by Kristen Miccoli.</figcaption>
 </figure>
 

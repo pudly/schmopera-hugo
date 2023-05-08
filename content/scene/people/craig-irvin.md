@@ -1,18 +1,26 @@
-+++
-date = "2016-09-27T14:10:00+01:00"
-discipline = "Baritone"
-lastmod = "2016-09-27T14:28:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474981761616/2016-09-26---Craig-Irvin-Full.jpg.jpg"
-publishDate = "2016-09-27T14:10:00+01:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/minnesota-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/opera-north.md","scene/companies/nashville-opera.md","scene/companies/los-angeles-opera.md"]
-slug = "craig-irvin"
-title = "Craig Irvin"
-website = "http://www.craigirvinbaritone.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/baritoneirvin"
-+++
+---
+date: "2016-09-27T14:10:00+01:00"
+discipline: Baritone
+lastmod: "2016-09-27T14:28:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474981761616/2016-09-26---Craig-Irvin-Full.jpg.jpg
+publishDate: "2016-09-27T14:10:00+01:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/minnesota-opera.md
+- scene/companies/wolf-trap-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/opera-north.md
+- scene/companies/nashville-opera.md
+- scene/companies/los-angeles-opera.md
+slug: craig-irvin
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/baritoneirvin
+title: Craig Irvin
+website: http://www.craigirvinbaritone.com/
+---
 
 Baritone Craig Irvin brings a vibrant sound and commitment to character to each role he portrays.  Craig recently made role and company debuts with Wolf Trap Opera as the Villains in *The Tales of Hoffmann* and then returned to Wolf Trap in 2012 for Leporello in *Don Giovanni*. Additionally, he debuted with Minnesota Opera in the world premier of Kevin Puts’ new opera *Silent Night*, appeared with the Canadian Opera Company as Betto in *Gianni Schicchi* and covered the role of Simone in *A Florentine Tragedy*, and joined the cast of *Simon Boccanegra* with Los Angeles Opera covering the role of Paolo.  
 

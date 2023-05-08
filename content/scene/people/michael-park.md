@@ -1,26 +1,26 @@
-+++
-date = "2015-09-17T18:28:00-04:00"
-discipline = "Composer, pianist"
-lastmod = "2015-09-17T18:32:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442528885029/Erato-Cropped-HeadshotResized.jpg.jpg"
-publishDate = "2015-09-17T18:32:00-04:00"
-related_companies = ["scene/companies/erato-ensemble.md"]
-slug = "michael-park"
-title = "Michael Park"
-website = "http://www.michaelpark.ca/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/mumblymumbly"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCS_AylYV8Dh-OCb7pqBu8uw"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/michaeljpark"
-+++
+---
+date: "2015-09-17T18:28:00-04:00"
+discipline: Composer, pianist
+lastmod: "2015-09-17T18:32:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442528885029/Erato-Cropped-HeadshotResized.jpg.jpg
+publishDate: "2015-09-17T18:32:00-04:00"
+related_companies:
+- scene/companies/erato-ensemble.md
+slug: michael-park
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/mumblymumbly
+- platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCS_AylYV8Dh-OCb7pqBu8uw
+- _template: people_single
+  platform: Soundcloud
+  template: social-media
+  url: https://soundcloud.com/michaeljpark
+title: Michael Park
+website: http://www.michaelpark.ca/
+---
 
 Michael Park is a composer and pianist with a keen interest in speech, humour, and collaboration. His music aims to give audiences an experience beyond the realm of traditional concert-going.
 

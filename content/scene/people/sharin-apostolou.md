@@ -1,27 +1,29 @@
-+++
-date = "2016-09-11T19:07:00+02:00"
-discipline = "Soprano"
-lastmod = "2016-09-11T19:07:00+02:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473613591137/2016-09-11---Sharin-Apostolou-HS.jpg.jpg"
-primary_image_credit = "Billy B Photography"
-publishDate = "2016-09-11T19:07:00+02:00"
-related_companies = ["scene/companies/glimmerglass-festival.md","scene/companies/portland-opera.md","scene/companies/central-city-opera.md"]
-slug = "sharin-apostolou"
-title = "Sharin Apostolou"
-website = "http://www.sharinapostolou.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://facebook.com/sharin.apostolou/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SuperGreek"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/supergreek/"
-+++
+---
+date: "2016-09-11T19:07:00+02:00"
+discipline: Soprano
+lastmod: "2016-09-11T19:07:00+02:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473613591137/2016-09-11---Sharin-Apostolou-HS.jpg.jpg
+primary_image_credit: Billy B Photography
+publishDate: "2016-09-11T19:07:00+02:00"
+related_companies:
+- scene/companies/glimmerglass-festival.md
+- scene/companies/portland-opera.md
+- scene/companies/central-city-opera.md
+slug: sharin-apostolou
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://facebook.com/sharin.apostolou/?fref=ts
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/SuperGreek
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/supergreek/
+title: Sharin Apostolou
+website: http://www.sharinapostolou.com/
+---
 
 Sharin Apostolou came to the attention of the operatic world after jumping in on opening night in the title role of Handel’s Rodelinda at Portland Opera. She was lauded by The Oregonian for “her lovely, high, clear voice, and her coloratura -- the dazzlingly fast music that says 'Don't mess with me' -- was exuberant…she covered the musical terrain without fear,” and by Crosscut Seattle for, “[taking] on an impossibly daunting role with fearless flair, unraveling a sweet lyric coloratura voice of real promise.”
  

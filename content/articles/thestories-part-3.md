@@ -1,22 +1,45 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2019-09-15T16:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "If you have a true story of abuse or assault in the opera and classical music industries, send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com)."
-preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some details withheld at the author's request.\n\nThe following was submitted by Canadian mezzo-soprano [Kimberly Barber](/authors/kimberly-barber/), who asked that I exclude all other names."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571942571/media/2019/10/TheStories3-resized_e0ns5s.jpg"
-primary_image_credit = ""
-related_articles = ["articles/thestories-part-15.md", "articles/thestories-part-14.md", "articles/thestories-part-13.md", "articles/thestories-part-12.md", "articles/thestories-part-10-1.md", "articles/thestories-part-10-2.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/metoo-intro.md"]
-related_companies = []
-related_people = []
-short_description = "\"Finally, the evening was over and he offered to take me home in a cab. When we arrived at my apartment, he reached over and attempted to kiss me, pressing his body against me. I brushed him off and pushed him away, saying I didn’t want that and that I was in a relationship. He backed off and he drove away.\""
-slug = "thestories-part-3"
-title = "#TheStories, part 3"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-09-15T16:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: If you have a true story of abuse or assault in the opera and classical
+  music industries, send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com).
+preamble: |-
+  This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some details withheld at the author's request.
 
-+++
+  The following was submitted by Canadian mezzo-soprano [Kimberly Barber](/authors/kimberly-barber/), who asked that I exclude all other names.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571942571/media/2019/10/TheStories3-resized_e0ns5s.jpg
+primary_image_credit: ""
+related_articles:
+- articles/thestories-part-15.md
+- articles/thestories-part-14.md
+- articles/thestories-part-13.md
+- articles/thestories-part-12.md
+- articles/thestories-part-10-1.md
+- articles/thestories-part-10-2.md
+- articles/thestories-part-9.md
+- articles/thestories-part-8.md
+- articles/thestories-part-10.md
+- articles/thestories-part-6.md
+- articles/thestories-part-5.md
+- articles/thestories-part-4.md
+- articles/thestories-part-2.md
+- articles/thestories-part-i.md
+- articles/metoo-intro.md
+related_companies: []
+related_people: []
+short_description: '"Finally, the evening was over and he offered to take me home
+  in a cab. When we arrived at my apartment, he reached over and attempted to kiss
+  me, pressing his body against me. I brushed him off and pushed him away, saying
+  I didn’t want that and that I was in a relationship. He backed off and he drove
+  away."'
+slug: thestories-part-3
+title: '#TheStories, part 3'
+youtube_url: ""
+---
 I was first hired in a production led by a renowned opera director at Vancouver Opera. I was led to believe that this director truly believed in my talents as a singer and artist, and was given several opportunities by him to audition for important persons in the business.
 
 Ultimately, I was hired by a prominent company in Europe to perform in a production that would be directed by him. Around the same time, I was also singing in Frankfurt (at the beginning of my fest contract in 1989) in a production that he was directing.

@@ -1,18 +1,22 @@
-+++
-date = "2016-05-14T22:12:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-05-14T22:12:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463260281577/2016-05-15---Emma-Char.jpg.jpg"
-publishDate = "2016-05-14T22:12:00+01:00"
-related_companies = ["scene/companies/lopra-de-montral.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-banff-centre.md"]
-slug = "emma-char"
-title = "Emma Char"
-website = "http://emmacharmezzo.weebly.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/emmacharmezzo"
-+++
+---
+date: "2016-05-14T22:12:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2016-05-14T22:12:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463260281577/2016-05-15---Emma-Char.jpg.jpg
+publishDate: "2016-05-14T22:12:00+01:00"
+related_companies:
+- scene/companies/lopra-de-montral.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/the-banff-centre.md
+slug: emma-char
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/emmacharmezzo
+title: Emma Char
+website: http://emmacharmezzo.weebly.com/
+---
 
 Born in Kitchener - Waterloo, Ontario and raised in the Philadelphia area, Emma Char has recently crossed the border back to Canada to make debuts with Opéra de Montréal, I Musici de Montréal, Les Violons du Roy and Ensemble Caprice. 
 

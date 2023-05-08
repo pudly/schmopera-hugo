@@ -1,16 +1,24 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2018-03-13T16:52:00-04:00"
-lastmod = "2018-03-13T16:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520974195611/sq---water.jpg.jpg"
-publishDate = "2018-03-13T16:52:00-04:00"
-related_articles = ["articles/soundstreams-musik-ende.md","articles/in-review-squeezebox.md"]
-related_companies = ["scene/companies/soundstreams.md"]
-short_description = "Michelle Colton, Aiyun Huang, and Ryan Scott showed what true musical versatility means, playing timpani, water (yes, they actually played the water - sometimes with cups to create a neat effect that reminded me of horses galloping through water), cymbals (which they would then dip in the water to create new effects), singing prayer bowls and that&#039;s just in the first two movements."
-slug = "transfixing-soundstreams-presents-tan-duns-water-passion"
-title = "Transfixing: Soundstreams presents Tan Dun&#039;s Water Passion"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2018-03-13T16:52:00-04:00"
+lastmod: "2018-03-13T16:52:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520974195611/sq---water.jpg.jpg
+publishDate: "2018-03-13T16:52:00-04:00"
+related_articles:
+- articles/soundstreams-musik-ende.md
+- articles/in-review-squeezebox.md
+related_companies:
+- scene/companies/soundstreams.md
+short_description: Michelle Colton, Aiyun Huang, and Ryan Scott showed what true musical
+  versatility means, playing timpani, water (yes, they actually played the water -
+  sometimes with cups to create a neat effect that reminded me of horses galloping
+  through water), cymbals (which they would then dip in the water to create new effects),
+  singing prayer bowls and that&#039;s just in the first two movements.
+slug: transfixing-soundstreams-presents-tan-duns-water-passion
+title: 'Transfixing: Soundstreams presents Tan Dun&#039;s Water Passion'
+---
 
 [Soundstreams](/scene/companies/soundstreams/) can pride itself in a tradition of presenting bold works by bold composers, and Friday night was no exception. Based on *Bach's St. Matthew Passion* (*Matthäus-Passion*) and commissioned by the Bachakadmie Stuttgart led by Helmut Rilling to commemorate 250th year of Bach's death, Chinese Composer Tan Dun's *Water Passion After St. Matthew* is a work so unique and creative yet accessible that I was transfixed. 
 
@@ -20,7 +28,9 @@ The stage was set up with a series of clear glass basins, lit from beneath, and 
 
 The choir, Soundstreams's own Choir 21 were incredible. Their dynamic range was incredible and their tuning was spine-tingling. The diction could have been a little crisper, but I'm not sure that is really a priority in this kind of a work. Their haunting harmonies and the divisions of the female and male voices added a neat dimension to the production of the sound. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520974165387/Soundstreams_TanDun_WaterPassion-122.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520974165387/Soundstreams_TanDun_WaterPassion-122.jpg.jpg)
 <figcaption>David Fallis, soprano Carla Huhtanen and Choir 21. Photo by Trevor Haldenby.</figcaption>
 </figure>
 

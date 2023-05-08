@@ -1,18 +1,27 @@
-+++
-date = "2019-03-04T16:43:47+00:00"
-discipline = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551717295/media/2019/03/RyanKuster.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/opera-saratoga.md", "scene/companies/nashville-opera.md", "scene/companies/merola-opera-program.md", "scene/companies/san-francisco-opera.md", "scene/companies/wolf-trap-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/arizona-opera.md", "scene/companies/florida-grand-opera.md", "scene/companies/american-baroque-opera-co.md"]
-slug = "ryan-kuster"
-title = "Ryan Kuster"
-website = "http://www.ryankuster.com/home.html"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/RyanKusterBassB"
-
-+++
+---
+date: "2019-03-04T16:43:47+00:00"
+discipline: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551717295/media/2019/03/RyanKuster.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/opera-saratoga.md
+- scene/companies/nashville-opera.md
+- scene/companies/merola-opera-program.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/wolf-trap-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/american-baroque-opera-co.md
+slug: ryan-kuster
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/RyanKusterBassB
+title: Ryan Kuster
+website: http://www.ryankuster.com/home.html
+---
 Bass-baritone Ryan Kuster has been acclaimed for his “full and rich voice” (Dallas Observor), a “commanding stage presence” (Arts Knoxville) and is “at the beginning of an important career” (Opera Warhorses). He has most recently appeared as the Old Hebrew in _Samson et Dalila_ and the Doctor in _La traviata_ with The Dallas Opera, Theseus in _A Midsummer Night’s Dream_ with Virginia Opera, Pan in the workshop performance of _The Tree of Eternal Youth_ with American Lyric Theater, and as the Bass Soloist in Beethoven’s _Missa Solemnis_ with Marywood University.
 
 Upcoming performances this season consist of his return to Opera Colorado with his debut of the title role in _Le Nozze di Figaro_ and also his return to Virginia Opera to sing Carl Olsen in _Street Scene_.  

@@ -1,14 +1,17 @@
-+++
-date = "2017-03-12T11:20:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-03-12T12:09:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489317598813/2017-03-12---ANTONACCI_Anna-Caterina_Photo-Benjamin-Ealovega-.jpg.jpg"
-primary_image_credit = "Benjamin Ealovega"
-publishDate = "2017-03-12T12:09:00+00:00"
-related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/royal-opera-house.md"]
-slug = "anna-caterina-antonacci"
-title = "Anna Caterina Antonacci"
-+++
+---
+_template: people_single
+date: "2017-03-12T11:20:00+00:00"
+discipline: Soprano
+lastmod: "2017-03-12T12:09:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489317598813/2017-03-12---ANTONACCI_Anna-Caterina_Photo-Benjamin-Ealovega-.jpg.jpg
+primary_image_credit: Benjamin Ealovega
+publishDate: "2017-03-12T12:09:00+00:00"
+related_companies:
+- scene/companies/san-francisco-opera.md
+- scene/companies/royal-opera-house.md
+slug: anna-caterina-antonacci
+title: Anna Caterina Antonacci
+---
 
 Anna Caterina Antonacci is widely acknowledged as a major artist and her extraordinary vocal timbre and great acting skills have enabled her to perform a vast and varied repertoire in some of the world's most important theatres. She has scored notable personal success as Cassandre *Les Troyens* with Sir John Eliot Gardiner at the Théâtre du Châtelet Paris, *Incoronazione di Poppea* at the Théâtre des Champs Elysées, as well as the title role in *Medea* in Toulouse, at the Teatro Regio Turin and the Châtelet Paris.
 

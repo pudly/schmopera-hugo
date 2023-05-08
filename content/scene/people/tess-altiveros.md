@@ -1,18 +1,19 @@
-+++
-date = "2019-04-02T02:23:01+00:00"
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554171597/media/2019/04/TessAltiveros.jpg"
-primary_image_credit = "Pinehurst Photography"
-related_companies = ["scene/companies/seattle-opera.md"]
-slug = "tess-altiveros"
-title = "Tess Altiveros"
-website = "http://www.tessaltiveros.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/tessaltiveros/"
-
-+++
+---
+date: "2019-04-02T02:23:01+00:00"
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1554171597/media/2019/04/TessAltiveros.jpg
+primary_image_credit: Pinehurst Photography
+related_companies:
+- scene/companies/seattle-opera.md
+slug: tess-altiveros
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/tessaltiveros/
+title: Tess Altiveros
+website: http://www.tessaltiveros.com/
+---
 Praised for "a ripe, sensual lyric soprano"(Opera News) and a "captivating combination of skilled singing and magnetic acting" (Pioneer Press), soprano Tess Altiveros is equally at home in a vast range of repertoire from the 17th century to the 21st, making her highly sought after for a wide array of concert and operatic work alike.  Her recent portrayal of E in Seattle Opera's acclaimed _O+E_ “stole the show” according to The Stranger, while her Euridice/Proserpina in the West Coast tour of Monteverdi's _L'Orfeo_ under Grammy winning conductor, Stephen Stubbs was described by Vancouver Classical Music as“an artful combination of facial expression, gesture, and vocal suavity...infusing both characters with tenderness and charm as well as dignity.”
 
 Other roles include Clorinda in Seattle Opera's _The Combat_, Hannah in _The Merry Widow_ (Inland Northwest Opera), Pamina in _Die Zauberflöte_ (Pacific Symphony), Maria in _West Side Story_ (Central City Opera/Boulder Philharmonic), Bach _St. Matthew Passion_ (Colorado Symphony, staged), Donna Elvira in _Don Giovanni_ (Skylark Opera Theatre), Musetta in _La Bohème_ under the baton of Mo. Andrew Litton (Colorado Symphony), Carmen in _La Tragédie de Carmen_ (Skylark Opera Theatre), Susanna in _The Marriage of Figaro_ (Angels & Demons Entertainment), Miss Jessel in _Turn of the Screw_ (Eugene Opera) and leading ladies with Vespertine Opera Theater (_Les Mamelles de Tirésias_, _La Voix Humaine_, _La Bohème_).  

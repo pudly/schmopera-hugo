@@ -1,14 +1,18 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2014-09-23T09:00:00-04:00"
-lastmod = "2015-04-15T17:23:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429132908954/Riccardo_Muti.jpg.jpg"
-publishDate = "2014-09-23T09:00:00-04:00"
-short_description = "Conductors are dropping like flies in Europe. Riccardo Muti just resigned as chief conductor from Teatro dell&#039;Opera di Roma. “Despite all my efforts to contribute to your cause,” Muti said, “there are no conditions to ensure the serenity necessary for the success of the production.&quot;"
-slug = "and-he-never-came-back"
-title = "And he never came back"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2014-09-23T09:00:00-04:00"
+lastmod: "2015-04-15T17:23:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429132908954/Riccardo_Muti.jpg.jpg
+publishDate: "2014-09-23T09:00:00-04:00"
+short_description: Conductors are dropping like flies in Europe. Riccardo Muti just
+  resigned as chief conductor from Teatro dell&#039;Opera di Roma. “Despite all my
+  efforts to contribute to your cause,” Muti said, “there are no conditions to ensure
+  the serenity necessary for the success of the production.&quot;
+slug: and-he-never-came-back
+title: And he never came back
+---
 
 Conductors are dropping like flies in Europe. Riccardo Muti just [resigned](http://www.theguardian.com/world/2014/sep/22/riccardo-muti-severs-ties-opera-rome) as chief conductor from Teatro dell'Opera di Roma. “Despite all my efforts to contribute to your cause,” [Muti said](http://www.wqxr.org/#!/story/riccardo-muti-quits-rome-opera-conductor/), “there are no conditions to ensure the serenity necessary for the success of the production." The details are vague, but it's clear there are irreconcilable differences between Muti and the Opera di Roma's general management.
 

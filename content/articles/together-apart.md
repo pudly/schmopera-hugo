@@ -1,22 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = 2020-05-25T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1590345133/media/2020/05/sqTogetherApart_ucs9sn.jpg"
-primary_image_credit = ""
-related_articles = ["articles/the-angel-speaks.md", "articles/angel-s-bone.md", "articles/the-met-s-at-home-gala.md"]
-related_companies = ["scene/companies/opera-atelier.md"]
-related_people = ["scene/people/allyson-mchardy.md", "scene/people/mireille-lebel.md", "scene/people/measha-brueggergosman.md", "scene/people/meghan-lindsay.md", "scene/people/wallis-giunta.md", "scene/people/colin-ainsworth.md"]
-short_description = "A total treat, though, was pianist Angela Hewitt's bit of Rameau. She was friendly and humble, and got right to the point with her camera angle, aimed at her energetic and nimble hands. Hewitt's contribution showed us how this whole thing can work well; it's solidified my hunch that finding the way to do this on-screen thing is uniquely difficult for opera singers."
-slug = "opera-ateliers-together-apart-a-direct-line-to-their-great-artists"
-title = "Opera Atelier's Together/Apart a direct line to their great artists"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2020-05-25T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1590345133/media/2020/05/sqTogetherApart_ucs9sn.jpg
+primary_image_credit: ""
+related_articles:
+- articles/the-angel-speaks.md
+- articles/angel-s-bone.md
+- articles/the-met-s-at-home-gala.md
+related_companies:
+- scene/companies/opera-atelier.md
+related_people:
+- scene/people/allyson-mchardy.md
+- scene/people/mireille-lebel.md
+- scene/people/measha-brueggergosman.md
+- scene/people/meghan-lindsay.md
+- scene/people/wallis-giunta.md
+- scene/people/colin-ainsworth.md
+short_description: A total treat, though, was pianist Angela Hewitt's bit of Rameau.
+  She was friendly and humble, and got right to the point with her camera angle, aimed
+  at her energetic and nimble hands. Hewitt's contribution showed us how this whole
+  thing can work well; it's solidified my hunch that finding the way to do this on-screen
+  thing is uniquely difficult for opera singers.
+slug: opera-ateliers-together-apart-a-direct-line-to-their-great-artists
+title: Opera Atelier's Together/Apart a direct line to their great artists
+youtube_url: ""
+---
 The other night, I tuned into [_Together/Apart_](https://www.operaatelier.com/season-and-tickets/2020-2021-season/together-apart-opera-atelier), the virtual showcase presented by [Opera Atelier](/scene/companies/opera-atelier/). I'm not sure what I expected from this company, but I can admit to some skepticism; it's quite a pivot for any company to move from live productions to remotely curated video specials, I think it's even more drastic for OA, which has spend the last three decades producing baroque and classical opera with major nods to all things traditional (some may read: old).
 
 But, I liked it. It helped that in the 15-artist line-up there were some seriously charismatic folks. [Colin Ainsworth](/scene/people/colin-ainsworth/)'s bright smile and friendly sound, [Allyson McHardy](/scene/people/allyson-mchardy/)'s moment of musical comedy, [Wallis Giunta](/scene/people/wallis-giunta/)'s eager Cherubino & memorable set decorations - it was all refreshing and genuine, particularly out of Opera Atelier's notorious and ubiquitous aesthetic in its live shows.

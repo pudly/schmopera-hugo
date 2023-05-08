@@ -1,20 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-01-28T12:37:00-05:00"
-lastmod = "2018-01-29T09:18:00-05:00"
-preamble = "London-based conductor [George Jackson](/scene/people/george-jackson/) is the winner of the 2012 Jeunesses Musicales Conducting Competition in Bucharest, and the 2015 Aspen Conducting Prize. At major opera houses in New York, Paris, and Vienna, he has assisted under Robert Spano and Yves Abel.\n\nJackson is currently in Rijeka, making his debut with the Orchestra of the  Croatian National Theatre. Later this season, he makes his debut with [Opera Holland Park](/scene/companies/opera-holland-park/), conducting a new production of *Così fan tutte*.\n\nWe spoke with Jackson about the rush of conducting an orchestra, and the challenge of building up \"flying hours\" as a young maestro."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546195261/media/2018/12/George-Jackson-pc-Alexa-Wilding.jpg"
-primary_image_credit = "Photo: Alexa Wilding."
-publishDate = "2018-01-28T21:05:00-05:00"
-related_articles = ["articles/talking-with-conductors-oliver-zeffman.md", "articles/talking-with-conductors-harry-bicket.md"]
-related_companies = ["scene/companies/opera-holland-park.md"]
-related_people = ["scene/people/george-jackson.md"]
-short_description = "&quot;Walking into the rehearsal room with a new orchestra is pure psychology: I find that my antennae are up, reading the room&#039;s complex dynamics in the first few minutes.  It&#039;s part of the job that I love most, because it&#039;s essentially a multiplied version of one-to-one interaction.&quot;"
-slug = "talking-with-conductors-george-jackson"
-title = "Talking with conductors: George Jackson"
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-01-28T12:37:00-05:00"
+lastmod: "2018-01-29T09:18:00-05:00"
+preamble: |-
+  London-based conductor [George Jackson](/scene/people/george-jackson/) is the winner of the 2012 Jeunesses Musicales Conducting Competition in Bucharest, and the 2015 Aspen Conducting Prize. At major opera houses in New York, Paris, and Vienna, he has assisted under Robert Spano and Yves Abel.
 
-+++
+  Jackson is currently in Rijeka, making his debut with the Orchestra of the  Croatian National Theatre. Later this season, he makes his debut with [Opera Holland Park](/scene/companies/opera-holland-park/), conducting a new production of *Così fan tutte*.
+
+  We spoke with Jackson about the rush of conducting an orchestra, and the challenge of building up "flying hours" as a young maestro.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546195261/media/2018/12/George-Jackson-pc-Alexa-Wilding.jpg
+primary_image_credit: 'Photo: Alexa Wilding.'
+publishDate: "2018-01-28T21:05:00-05:00"
+related_articles:
+- articles/talking-with-conductors-oliver-zeffman.md
+- articles/talking-with-conductors-harry-bicket.md
+related_companies:
+- scene/companies/opera-holland-park.md
+related_people:
+- scene/people/george-jackson.md
+short_description: '&quot;Walking into the rehearsal room with a new orchestra is
+  pure psychology: I find that my antennae are up, reading the room&#039;s complex
+  dynamics in the first few minutes.  It&#039;s part of the job that I love most,
+  because it&#039;s essentially a multiplied version of one-to-one interaction.&quot;'
+slug: talking-with-conductors-george-jackson
+title: 'Talking with conductors: George Jackson'
+---
 ## What does it feel like to conduct an orchestra when everything is going "right"?
 
 It's the best feeling in the world!  The level of communication within the orchestra is completely open, and everybody can read each other's mind, like a giant string quartet.  A good analogy is probably with driving a car: you no longer consciously "change gear" or "check the mirrors", and can really focus on "the journey".

@@ -1,22 +1,23 @@
-+++
-date = "2016-09-30T14:11:00+01:00"
-lastmod = "2016-09-30T14:19:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475241094512/Logo---Gestalt-Arts.jpg.jpg"
-publishDate = "2016-09-30T14:11:00+01:00"
-related_people = ["scene/people/christine-buras.md"]
-slug = "gestalt-arts"
-title = "Gestalt Arts"
-type_of_company = "Opera Company"
-website = "http://www.gestaltarts.co.uk/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Gestaltarts/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/GestaltArts"
-+++
+---
+date: "2016-09-30T14:11:00+01:00"
+lastmod: "2016-09-30T14:19:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475241094512/Logo---Gestalt-Arts.jpg.jpg
+publishDate: "2016-09-30T14:11:00+01:00"
+related_people:
+- scene/people/christine-buras.md
+slug: gestalt-arts
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Gestaltarts/
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/GestaltArts
+title: Gestalt Arts
+type_of_company: Opera Company
+website: http://www.gestaltarts.co.uk/
+---
 
 Gestalt means "The whole is more than the sum of the parts".
 

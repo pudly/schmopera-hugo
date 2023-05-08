@@ -1,29 +1,33 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666563165/media/2022/10/AndreaNunez_ufauft.jpg"
-primary_image_credit = "Brent Calis"
-related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md", "scene/companies/calgary-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/canadian-opera-company.md", "scene/companies/latelier-lyrique-de-lopra-de-montral.md", "scene/companies/lopra-de-montral.md", "scene/companies/pacific-opera-victoria.md"]
-slug = "andrea-nunez"
-title = "Andrea Nuñez"
-website = "https://www.andreanunezsoprano.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/andienunez/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCVXo3Oe-2rKafFsLAAlHA4g?view_as=subscriber"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/anunezsoprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/andreacnunez"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1666563165/media/2022/10/AndreaNunez_ufauft.jpg
+primary_image_credit: Brent Calis
+related_companies:
+- scene/companies/calgary-opera-emerging-artist-development-program.md
+- scene/companies/calgary-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/latelier-lyrique-de-lopra-de-montral.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/pacific-opera-victoria.md
+slug: andrea-nunez
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/andienunez/
+- platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCVXo3Oe-2rKafFsLAAlHA4g?view_as=subscriber
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/anunezsoprano
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/andreacnunez
+title: Andrea Nuñez
+website: https://www.andreanunezsoprano.com/
+---
 Praised for her "blinding brilliance," Canadian Soprano **Andrea Núñez** is establishing herself as a versatile young artist.
 
 Upcoming this season, Andrea makes her house debut at Pacific Opera Victoria, singing Frasquita in their production of Bizet’s _Carmen_, returns to Toronto Operetta Theatre for Adele in _Die Fledermaus_, and looks forward to debuting Juliette in Gounod’s _Roméo et Juliette_. She recently completed a residency at National Sawdust, working with celebrated librettist Royce Vavrek and composer Vivian Fung on a cycle of songs centred on her identity and experiences as a multi-racial Canadian, supported by the Canada Council for the Arts.

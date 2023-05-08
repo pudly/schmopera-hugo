@@ -1,17 +1,22 @@
-+++
-date = "2017-12-15T12:14:00-05:00"
-discipline = "Countertenor"
-lastmod = "2017-12-15T12:14:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513358084251/TRUDGEN-PHOTO.JPG.JPG"
-publishDate = "2017-12-15T12:14:00-05:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/pacific-opera-victoria.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/opera-theatre-of-st-louis.md"]
-slug = "david-trudgen"
-title = "David Trudgen"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/davidtrudgen"
-+++
+---
+date: "2017-12-15T12:14:00-05:00"
+discipline: Countertenor
+lastmod: "2017-12-15T12:14:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513358084251/TRUDGEN-PHOTO.JPG.JPG
+publishDate: "2017-12-15T12:14:00-05:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/voicebox-opera-in-concert.md
+- scene/companies/opera-theatre-of-st-louis.md
+slug: david-trudgen
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/davidtrudgen
+title: David Trudgen
+---
 
 The Chicago Tribune declared Canadian counter-tenor David Trudgen as “the next generation’s answer to David Daniels” for his appearance as Medoro in Chicago Opera Theater’s production of Handel’s ORLANDO conducted by Raymond Leppard. This season Mr. Trudgen appears as Goffredo in Pacific Opera Victoria’s production of RINALDO, Bertarido in RODELINDA for VOICEBOX: Opera in Concert, as well as the workshop of BOUND with Against the Grain Theatre.
 

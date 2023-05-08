@@ -1,23 +1,25 @@
-+++
-date = "2017-10-27T17:13:00-04:00"
-discipline = "Countertenor"
-lastmod = "2017-10-27T17:13:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546739448/media/2019/01/ChristopherLowrey.jpg"
-publishDate = "2017-10-27T17:13:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/glyndebourne.md", "scene/companies/english-national-opera.md"]
-slug = "christopher-lowrey"
-title = "Christopher Lowrey"
-website = "http://www.christopherlowrey.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ChristopherLowreyCountertenor/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ChrisALowrey"
-
-+++
+---
+date: "2017-10-27T17:13:00-04:00"
+discipline: Countertenor
+lastmod: "2017-10-27T17:13:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546739448/media/2019/01/ChristopherLowrey.jpg
+publishDate: "2017-10-27T17:13:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/glyndebourne.md
+- scene/companies/english-national-opera.md
+slug: christopher-lowrey
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/ChristopherLowreyCountertenor/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/ChrisALowrey
+title: Christopher Lowrey
+website: http://www.christopherlowrey.com/
+---
 Upcoming engagements include a concert tour of Pergolesi _Stabat Mater_ with superstar French soprano Sandrine Piau and Les Talens Lyriques, conducted by Christophe Rousset, which will also be released as a recording later this year, a concert of Bach and Vivaldi in Hong Kong with British group Arcangelo, directed by Jonathan Cohen, Handel _Theodora_ (Didymus) with Potsdamer Winteroper, a world premiere of a new 17th-century work by Legrenzi, _La Divisione del Mondo_ (Marte) for l’Opéra national du Rhin in Strasbourg and Nancy, a North American and European tour of Handel _Semele_ (Athamus) with The English Concert directed by Harry Bicket, culminating in Christopher’s Carnegie Hall debut, and Steffani _Orlando Generoso_ (Ruggiero) for the Boston Early Music Festival, conducted by Stephen Stubbs and Paul O’Dette.
 
 Recent operatic roles include Handel _Arminio_ (title role) for the Göttingen Handel Festival, which will soon be released on commercial recording, Handel _Rinaldo_ (Argante) with Kammerorchester Basel at Théâtre des Champs-Élysées in Paris, the Halle Handel Festival, and St Martinskirche in Basel, Handel _Orlando_ (Medoro) with La Nuova Musica at St John’s Smith Square London, Christopher’s English National Opera debut in both Handel _Rodelinda_ (Unulfo) and Muhly _Marnie_(Terry, cover), Handel _Tamerlano_ (title role) with Les Talens Lyriques for Ambronay Festival, and Dean _Hamlet_(Guildenstern) for the Adelaide Festival.

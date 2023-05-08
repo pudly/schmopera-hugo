@@ -1,16 +1,29 @@
-+++
-author = ["authors/jenna.md","authors/jessica-lane.md"]
-categories = "Interview"
-date = "2016-08-01T11:54:00+01:00"
-lastmod = "2016-08-02T11:41:00+01:00"
-preamble = "Each summer at the [Kammeroper Schloss Rheinsberg](https://www.kammeroper-schloss-rheinsberg.de/) (Chamber Opera at Rheinsberg Castle), young singers from around the world foster their craft and gain valuable performance and networking experience in Germany. This year, they present three productions (Handel's *Alcina*, Puccini's *Tosca*, and the new *Mozart in 90 Minutes*), cast by the winners of the Kammeroper Schloss' vocal competition.\n\nCanada is well-represented this summer in Rheinsberg's production of *Tosca*, including stage director Brian Deedrick, conductor [Gordon Gerrard](/scene/people/gordon-gerrard/), baritone Tyler Fitzgerald (Scarpia), and soprano (and Schmopera contributor) [Jessica Lane](/scene/people/jessica-lane/), who sings the title role. We had the chance to chat with these four artists about the value of spending time at Kammeroper Schloss Rheinsberg, and the special experience of working with a truly international team.\n\n*Tosca* opens August 6th, and runs for 8 performances until August 13th at Rheinsberg's Heckentheater. [Click here](http://shop.reservix.de/off/login_check.php?id=c6ec16e8cf3cd5077514ebef590a1f763d4616b372ef8900411779bf6bedf213&vID=13813) to book your tickets."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470076790939/2016-08-01---Rheinsberg-Castle.jpg.jpg"
-publishDate = "2016-08-02T10:57:00+01:00"
-related_people = ["scene/people/jessica-lane.md","scene/people/gordon-gerrard.md"]
-short_description = "&quot;I think the most important thing I&#039;ve learned working in Germany over the summer is patience and flexibility during the rehearsal process. With so many people coming from various backgrounds and with so much interpreting and so many languages, you have to be patient with both yourself and everyone else as we all slowly but surely figure out the story we want to tell.&quot;"
-slug = "tales-from-the-kammeroper-at-rheinsberg-castle"
-title = "Tales from the Kammeroper at Rheinsberg Castle"
-+++
+---
+author:
+- authors/jenna.md
+- authors/jessica-lane.md
+categories: Interview
+date: "2016-08-01T11:54:00+01:00"
+lastmod: "2016-08-02T11:41:00+01:00"
+preamble: |-
+  Each summer at the [Kammeroper Schloss Rheinsberg](https://www.kammeroper-schloss-rheinsberg.de/) (Chamber Opera at Rheinsberg Castle), young singers from around the world foster their craft and gain valuable performance and networking experience in Germany. This year, they present three productions (Handel's *Alcina*, Puccini's *Tosca*, and the new *Mozart in 90 Minutes*), cast by the winners of the Kammeroper Schloss' vocal competition.
+
+  Canada is well-represented this summer in Rheinsberg's production of *Tosca*, including stage director Brian Deedrick, conductor [Gordon Gerrard](/scene/people/gordon-gerrard/), baritone Tyler Fitzgerald (Scarpia), and soprano (and Schmopera contributor) [Jessica Lane](/scene/people/jessica-lane/), who sings the title role. We had the chance to chat with these four artists about the value of spending time at Kammeroper Schloss Rheinsberg, and the special experience of working with a truly international team.
+
+  *Tosca* opens August 6th, and runs for 8 performances until August 13th at Rheinsberg's Heckentheater. [Click here](http://shop.reservix.de/off/login_check.php?id=c6ec16e8cf3cd5077514ebef590a1f763d4616b372ef8900411779bf6bedf213&vID=13813) to book your tickets.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470076790939/2016-08-01---Rheinsberg-Castle.jpg.jpg
+publishDate: "2016-08-02T10:57:00+01:00"
+related_people:
+- scene/people/jessica-lane.md
+- scene/people/gordon-gerrard.md
+short_description: '&quot;I think the most important thing I&#039;ve learned working
+  in Germany over the summer is patience and flexibility during the rehearsal process.
+  With so many people coming from various backgrounds and with so much interpreting
+  and so many languages, you have to be patient with both yourself and everyone else
+  as we all slowly but surely figure out the story we want to tell.&quot;'
+slug: tales-from-the-kammeroper-at-rheinsberg-castle
+title: Tales from the Kammeroper at Rheinsberg Castle
+---
 
 ## Can you describe a day in the life at this summer's Rheinsberg Festival?
 
@@ -30,7 +43,9 @@ We work 10-2 or until it gets so hot on the stage we all lose it. Then, it's bac
 
 All that, and remembering to put on enough sunscreen and mosquito repellent to get you through the outdoor session in the outdoor theatre, dating from 1758.  But then, there's a five-hour break for the crew to work on the set, and for the stage floor to cool off enough to keep a dead Scarpia from developing third-degree burns on his back. Thank goodness for red wine and fellowship at the end of the day.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470075831616/h4Pn-x4S2t3LCVFrMGMkVAx-eDcs0fysIpeQNVjDdLx4AihOupfoZb-c-8CrIGSIHJzK7pPMFf8hrKiGAXSkOXxJDl6n%3Dw1360-h1360)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470075831616/h4Pn-x4S2t3LCVFrMGMkVAx-eDcs0fysIpeQNVjDdLx4AihOupfoZb-c-8CrIGSIHJzK7pPMFf8hrKiGAXSkOXxJDl6n%3Dw1360-h1360)
 <figcaption>Jessica Lane, soprano & participant, Kammeroper Schloss Rheinsberg, 2016.</figcaption>
 </figure>
 
@@ -50,7 +65,9 @@ I think it’s important that when you make the commitment to spend time in Germ
 
 In this way, I feel like I'll know what to expect coming into production in a European country should I get the opportunity to again. It's a whole lot of gesturing, explaining in fragmented languages, laughing and crying but it's a little like altitude training in that now that we've done this, everything else will be easier.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470076348839/2016-08-01---Gordon-Gerrard-HS2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470076348839/2016-08-01---Gordon-Gerrard-HS2.jpg.jpg)
 <figcaption>Gordon Gerrard, conductor, *Tosca* at Kammeroper Schloss Rheinsberg, 2016.</figcaption>
 </figure>
 
@@ -64,7 +81,9 @@ This line-up explored so much repertoire and every possible style of singing (in
 
 **Deedrick**: As with any show in a smaller venue, **Alcina**, **Tosca** and the many concerts give the singers an opportunity to learn a new role, to try it out in a relatively safe location, to learn about the highs - and lows - of European "Regietheater", and to work in an incredibly international environment.  I know this sounds kinda corny, but the United Nations atmosphere of this Rheinsberg summer is one of the most important things that will stay with me forever: we've all come together with this mutual love for music and art. VISSI D'ARTE!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470134463695/2016-08-02---Tyler-Fitzgerald.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470134463695/2016-08-02---Tyler-Fitzgerald.jpg.jpg)
 <figcaption>Baritone Tyler Fitzgerald, singing Scarpia in *Tosca* at the Kammeroper Schloss Rheinsberg.</figcaption>
 </figure>
 

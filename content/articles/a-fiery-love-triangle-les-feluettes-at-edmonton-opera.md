@@ -1,18 +1,32 @@
-+++
-author = ["authors/oliver-munar.md"]
-categories = "Review"
-date = "2017-10-23T14:09:00-04:00"
-lastmod = "2017-10-24T12:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508782553526/2017-10-23---IMG_0755.jpg.jpg"
-primary_image_credit = "Zachary Read (left) and Jean-Michel Richer in Les feluettes, Edmonton Opera, 2017. Photo: Nanc Price."
-publishDate = "2017-10-23T15:25:00-04:00"
-related_articles = ["articles/humility-and-hadrian.md","articles/operas-sexual-assault-secret.md"]
-related_companies = ["scene/companies/edmonton-opera.md"]
-related_people = ["scene/people/zachary-read.md","scene/people/gordon-gietz.md","scene/people/dominique-cote.md","scene/people/jeanmichel-richer.md","scene/people/gino-quilico.md"]
-short_description = "Kevin March&#039;s score is a tour de force: truly sensitive and theatrical. It was tender and loving when it needed to be, with subtle dissonances that hint of the conflict lurking in the shadows. The score magnificently plays homage to the musical language of Debussy and other great French composers of the early 20th century."
-slug = "a-fiery-love-triangle-les-feluettes-at-edmonton-opera"
-title = "A fiery love triangle: Les feluettes at Edmonton Opera"
-+++
+---
+author:
+- authors/oliver-munar.md
+categories: Review
+date: "2017-10-23T14:09:00-04:00"
+lastmod: "2017-10-24T12:08:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508782553526/2017-10-23---IMG_0755.jpg.jpg
+primary_image_credit: 'Zachary Read (left) and Jean-Michel Richer in Les feluettes,
+  Edmonton Opera, 2017. Photo: Nanc Price.'
+publishDate: "2017-10-23T15:25:00-04:00"
+related_articles:
+- articles/humility-and-hadrian.md
+- articles/operas-sexual-assault-secret.md
+related_companies:
+- scene/companies/edmonton-opera.md
+related_people:
+- scene/people/zachary-read.md
+- scene/people/gordon-gietz.md
+- scene/people/dominique-cote.md
+- scene/people/jeanmichel-richer.md
+- scene/people/gino-quilico.md
+short_description: 'Kevin March&#039;s score is a tour de force: truly sensitive and
+  theatrical. It was tender and loving when it needed to be, with subtle dissonances
+  that hint of the conflict lurking in the shadows. The score magnificently plays
+  homage to the musical language of Debussy and other great French composers of the
+  early 20th century.'
+slug: a-fiery-love-triangle-les-feluettes-at-edmonton-opera
+title: 'A fiery love triangle: Les feluettes at Edmonton Opera'
+---
 
 Imagine your favourite opera. Chances are, the plot likely has an all-consuming love at the centre of it. 
 
@@ -24,7 +38,7 @@ To open its 2017-18 season, [Edmonton Opera](/scene/companies/edmonton-opera/) p
 
 Set at a Quebec prison in 1952, guards pace about the stage silently as opera patrons take their seats. And when the opera begins, we learn of the roots of the conflict: an all-consuming love Bilodeau (now a bishop, played by tenor [Gordon Gietz](/scene/people/gordon-gietz/)) harboured for Simon Doucet (a prisoner, played by baritone [Gino Quilico](/scene/people/gino-quilico/)). Doucet enlists his fellow inmates to reenact the events leading to Doucet's incarceration.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508782939358/2017-10-23---IMG_0870.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508782939358/2017-10-23---IMG_0870.jpg.jpg)
 <figcaption>Jean-Michel Richer (left) and Zachary Read in *Les feluettes*. Photo: Nanc Price, Edmonton Opera, 2017.</figcaption>
 </figure>
 
@@ -34,7 +48,7 @@ Tenor Jean-Michel Richer embodies the innocence of Count Vallier de Tilly. More 
 
 Two other standouts include men who depicted female characters. As the aristocratic Lydie-Anne de Rozier, [Daniel Cabena](/scene/people/daniel-cabena/) is a countertenor of the highest quality: a rich, vibrant higher register with the depth of the lower registers. De Rozier is a pathological liar, at first for personal gain but also to spare the feelings of the Countess. Cabena offers poignant scenes as a woman in love with a man who is in love with another. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508783023120/2017-10-23---IMG_0947.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508783023120/2017-10-23---IMG_0947.jpg.jpg)
 <figcaption>Gordon Gietz (left), Gino Quilico, and Zachary Read (background) in *Les feluettes*. Photo: Nanc Price, Edmonton Opera, 2017.</figcaption>
 </figure>
 

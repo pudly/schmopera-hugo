@@ -1,19 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-08-08T20:17:00-04:00"
-lastmod = "2017-08-10T09:15:00-04:00"
-preamble = "On the exciting line-up for this year's [O17 Festival](https://www.operaphila.org/festival/) is the world premiere of [Opera Philadelphia](/scene/companies/opera-philadelphia/)'s Composer in Residence David Hertzberg's [*The Wake World*](https://www.operaphila.org/whats-on/on-stage-2017-2018/the-wake-world/), **September 18-25**. With director R.B. Schlather, Hertzberg's work is designed to give audiences a one-of-a-kind experience of the galleries of The Barnes Foundation, focusing on the fascinating lives of Dr. Albert C. Barnes (1872-1951) and Aleister Crowley (1875-1947).\n\nHertzberg spoke with us about his unique new work, and the \"beyond rad\" experience of writing an opera to feature the Opera Philadelphia Chorus."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502238171140/2017-08-09---Wake-World-square.jpg.jpg"
-primary_image_credit = "The Light Court, Barnes Foundation. © Tom Crane & Benjamin Riley, 2012."
-publishDate = "2017-08-10T09:15:00-04:00"
-related_articles = ["articles/an-organic-integration-the-wake-world.md","articles/feminist-truths-the-mother-of-us-all.md"]
-related_companies = ["scene/companies/opera-philadelphia.md"]
-related_people = ["scene/people/david-hertzberg.md"]
-short_description = "&quot;I hope people enjoy the show (!), maybe even get carried away, and that afterwards they experience the collection, and maybe even opera, or dare I say, art in general, with fresh ears and eyes.&quot;"
-slug = "david-hertzbergs-the-wake-world-a-strange-and-sexy-synergy"
-title = "David Hertzberg&#039;s The Wake World: &quot;A strange and sexy synergy.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-08-08T20:17:00-04:00"
+lastmod: "2017-08-10T09:15:00-04:00"
+preamble: |-
+  On the exciting line-up for this year's [O17 Festival](https://www.operaphila.org/festival/) is the world premiere of [Opera Philadelphia](/scene/companies/opera-philadelphia/)'s Composer in Residence David Hertzberg's [*The Wake World*](https://www.operaphila.org/whats-on/on-stage-2017-2018/the-wake-world/), **September 18-25**. With director R.B. Schlather, Hertzberg's work is designed to give audiences a one-of-a-kind experience of the galleries of The Barnes Foundation, focusing on the fascinating lives of Dr. Albert C. Barnes (1872-1951) and Aleister Crowley (1875-1947).
+
+  Hertzberg spoke with us about his unique new work, and the "beyond rad" experience of writing an opera to feature the Opera Philadelphia Chorus.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502238171140/2017-08-09---Wake-World-square.jpg.jpg
+primary_image_credit: The Light Court, Barnes Foundation. © Tom Crane & Benjamin Riley,
+  2012.
+publishDate: "2017-08-10T09:15:00-04:00"
+related_articles:
+- articles/an-organic-integration-the-wake-world.md
+- articles/feminist-truths-the-mother-of-us-all.md
+related_companies:
+- scene/companies/opera-philadelphia.md
+related_people:
+- scene/people/david-hertzberg.md
+short_description: '&quot;I hope people enjoy the show (!), maybe even get carried
+  away, and that afterwards they experience the collection, and maybe even opera,
+  or dare I say, art in general, with fresh ears and eyes.&quot;'
+slug: david-hertzbergs-the-wake-world-a-strange-and-sexy-synergy
+title: 'David Hertzberg&#039;s The Wake World: &quot;A strange and sexy synergy.&quot;'
+---
 
 ## How do the eccentricities of Barnes and Crowley intersect in *The Wake World*?
 
@@ -23,7 +34,9 @@ If you've ever had the chance to go to the Barnes or look at pictures, you will 
 
 In a curious kind of way, I felt that Crowley's work in the seemingly distant worlds of magic (or Magick, as he spelled it) and mysticism - correlating and amalgamating mystical symbols from across time, across different mythic and religions traditions, creating lexicons where colors, numbers, fragrances, and astrological associations dissolve into otherwise indescribable but incredibly precise feelings - seemed like such a clear literary parallel to what Barnes was doing with his Cézannes and pietàs. In dreaming up *The Wake World*, I wanted to create a musical and dramatic journey that would explode this shared quality, and hopefully, illuminate and transform the experience of the collection and the space.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502241382793/2017-08-09---Hertzberg-Schlather.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502241382793/2017-08-09---Hertzberg-Schlather.jpg.jpg)
 <figcaption>Composer David Hertzberg (left) and director R.B. Schlather. Photo: Dominic M. Mercier.</figcaption>
 </figure>
 
@@ -48,7 +61,9 @@ While there certainly are challenges in creating a site-specific piece (many of 
 
 A question I often asked myself while trying to dream this thing into existence was, "How can I make this feel like an organic activation of the space/collection?" and my intuition is that this is something we will be continuing to ask ourselves as this wacky febrile dream comes to life in production.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502241283939/2017-08-09---ensemble-view-room-1-north-wall-philadelphia-2012-photo-2017-the-barnes-foundation.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502241283939/2017-08-09---ensemble-view-room-1-north-wall-philadelphia-2012-photo-2017-the-barnes-foundation.jpg.jpg)
 <figcaption>Ensemble view, Room 1, north wall. Photo: © 2017 The Barnes Foundation.</figcaption>
 </figure>
 

@@ -1,19 +1,46 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-07-28T14:08:00-04:00"
-lastmod = "2015-08-01T11:48:00-04:00"
-preamble = "[The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/) has never been busier. Currently, the group of cycling singers are finishing up a month-long run of [Dean Burry](/scene/people/dean-burry/)'s new opera, *The Bells of Baddeck*, and on Monday they begin their East Coast tour (August 3-11 in Nova Scotia, August 14-September 6 in Ontario, all by bike!) of *shadow box*, a tight collection of Canadian scenes and by people like [James Rolfe](/james-rolfe-anna-chatterton-on-creating-crush/), [Chris Thornborrow](http://www.schmopera.com/chris-thornborrow-on-composing-with-kids/), and Tobin Stokes. I had a chance to hear a preview of *shadow box* this spring, and I'm so thrilled for the artistic quality of this production.\n\n*The Bells of Baddeck* tells the story of Alexander Graham Bell, and it's not the one you think you know. I spoke with soprano and Artistic Director [Larissa Koniuk](/scene/people/larissa-koniuk/), BOP singers [Stephanie Tritchew](/scene/people/stephanie-tritchew/) and [Christopher Enns](/scene/people/christopher-enns/), and *Baddeck* librettist, Lorna MacDonald, about what sounds like a summer of operatic proportions.\n\n*shadow box* tours August 3-September 6. For details and tickets, follow the box office links below."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438127214502/Training-ride.jpg.jpg"
-primary_image_credit = "Soprano Stephanie Tritchew on a Bicycle Opera Project training ride. Photo: Geoffrey Sirett."
-publishDate = "2015-08-01T11:48:00-04:00"
-related_articles = ["articles/the-bicycle-opera-project-at-21c.md","articles/in-review-shadow-box.md","articles/on-the-road-jmc-romeo-juliette.md","articles/great-ideas-portland-opera-a-la-cart.md"]
-related_companies = ["scene/companies/the-bicycle-opera-project.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/larissa-koniuk.md","scene/people/geoffrey-sirett.md","scene/people/christopher-enns.md","scene/people/stephanie-tritchew.md","scene/people/liza-balkan.md","scene/people/giles-tomkins.md","scene/people/chris-thornborrow.md","scene/people/james-rolfe.md","scene/people/michael-christie.md"]
-short_description = "The Bicycle Opera Project has never been busier. Currently, the group of cycling singers are finishing up a month-long run of Dean Burry&#039;s new opera, The Bells of Baddeck, and on Monday they begin their East Coast tour (August 3-11 in Nova Scotia, August 14-September 6 in Ontario, all by bike!) of shadow box, a tight collection of Canadian scenes and by people like James Rolfe, Chris Thornborrow, and Tobin Stokes."
-slug = "on-the-road-the-bicycle-opera-project"
-title = "On the road: the Bicycle Opera Project"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-07-28T14:08:00-04:00"
+lastmod: "2015-08-01T11:48:00-04:00"
+preamble: |-
+  [The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/) has never been busier. Currently, the group of cycling singers are finishing up a month-long run of [Dean Burry](/scene/people/dean-burry/)'s new opera, *The Bells of Baddeck*, and on Monday they begin their East Coast tour (August 3-11 in Nova Scotia, August 14-September 6 in Ontario, all by bike!) of *shadow box*, a tight collection of Canadian scenes and by people like [James Rolfe](/james-rolfe-anna-chatterton-on-creating-crush/), [Chris Thornborrow](http://www.schmopera.com/chris-thornborrow-on-composing-with-kids/), and Tobin Stokes. I had a chance to hear a preview of *shadow box* this spring, and I'm so thrilled for the artistic quality of this production.
+
+  *The Bells of Baddeck* tells the story of Alexander Graham Bell, and it's not the one you think you know. I spoke with soprano and Artistic Director [Larissa Koniuk](/scene/people/larissa-koniuk/), BOP singers [Stephanie Tritchew](/scene/people/stephanie-tritchew/) and [Christopher Enns](/scene/people/christopher-enns/), and *Baddeck* librettist, Lorna MacDonald, about what sounds like a summer of operatic proportions.
+
+  *shadow box* tours August 3-September 6. For details and tickets, follow the box office links below.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438127214502/Training-ride.jpg.jpg
+primary_image_credit: 'Soprano Stephanie Tritchew on a Bicycle Opera Project training
+  ride. Photo: Geoffrey Sirett.'
+publishDate: "2015-08-01T11:48:00-04:00"
+related_articles:
+- articles/the-bicycle-opera-project-at-21c.md
+- articles/in-review-shadow-box.md
+- articles/on-the-road-jmc-romeo-juliette.md
+- articles/great-ideas-portland-opera-a-la-cart.md
+related_companies:
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/larissa-koniuk.md
+- scene/people/geoffrey-sirett.md
+- scene/people/christopher-enns.md
+- scene/people/stephanie-tritchew.md
+- scene/people/liza-balkan.md
+- scene/people/giles-tomkins.md
+- scene/people/chris-thornborrow.md
+- scene/people/james-rolfe.md
+- scene/people/michael-christie.md
+short_description: The Bicycle Opera Project has never been busier. Currently, the
+  group of cycling singers are finishing up a month-long run of Dean Burry&#039;s
+  new opera, The Bells of Baddeck, and on Monday they begin their East Coast tour
+  (August 3-11 in Nova Scotia, August 14-September 6 in Ontario, all by bike!) of
+  shadow box, a tight collection of Canadian scenes and by people like James Rolfe,
+  Chris Thornborrow, and Tobin Stokes.
+slug: on-the-road-the-bicycle-opera-project
+title: 'On the road: the Bicycle Opera Project'
+---
 
 ### 1. Can you give us an idea of what *The Bells of Baddeck* is about?
 
@@ -21,7 +48,9 @@ title = "On the road: the Bicycle Opera Project"
 
 AGB and Mabel traveled to Baddeck, Nova Scotia and soon fell in love with its landscape and Gaelic charm, establishing their estate, Beinn Bhreagh, atop a red mountain on the scenic Bras d’Or Lake. Mabel and AGB had a beautiful relationship and would walk everyday together at 5pm before dinner, holding hands so that AGB could tell Mabel about stories from the day with their unique hand spelling system.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438127445131/At-the-top-of-Beinn-Bhreagh-with-the-great-grandchildren.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438127445131/At-the-top-of-Beinn-Bhreagh-with-the-great-grandchildren.jpg.jpg)
 <figcaption>At the top of Beinn Bhreagh with the Bell great grandchildren. L-r: Mimi Mekler, Stephanie Higgins, Gardiner Fairchild, Hugh Muler. Photo: Larissa Koniuk</figcaption>
 </figure>
 
@@ -47,7 +76,9 @@ The tour was incredible and the "Big House" was better than a museum. It was one
 
 If you’re interested, you can read more about our visit to Beinn Bhreagh [here](bicycleopera.com/bells-of-baddeck-opens-in-baddeck/).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438127744951/In-front-of-the-Big-House-at-Beinn-Bhreagh.jpg.jpg)<figcaption>Larissa Koniuk and Stephanie Tritchew in front of the Big House at Beinn Bhreagh. Photo: Geoffrey Sirett.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438127744951/In-front-of-the-Big-House-at-Beinn-Bhreagh.jpg.jpg)<figcaption>Larissa Koniuk and Stephanie Tritchew in front of the Big House at Beinn Bhreagh. Photo: Geoffrey Sirett.</figcaption>
 </figure>
 
 **Chris Enns**: Introducing myself to one of Bell’s great-grandsons, I told him I was playing Lieutenant Thomas Selfridge (one of the airmen that helped Mr. Bell with his experiments) and instantly his eyes turned glassy.
@@ -58,7 +89,9 @@ In opera we spend most of our time telling fictional stories, or if they were on
 
 And it’s even more than just the people, it’s the place itself. There’s an intangible when you’re surrounded with a set steeped in history, you can’t help but react to it. It changes you. Being here... in Baddeck to sing the story of the Bell family, is far different than it would be if we were singing it in Toronto.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438127838071/Opening-night-reception-with-Dean-Burry.jpg.jpg)<figcaption>L-r: Stephanie Tritchew, Larissa Koniuk, Giles Tomkins, Erika Nielsen, Chris Enns, Dean Burry, Lauren Klein, at the opening night reception for *The Bells of Baddeck*. Photo: Geoffrey Sirett.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438127838071/Opening-night-reception-with-Dean-Burry.jpg.jpg)<figcaption>L-r: Stephanie Tritchew, Larissa Koniuk, Giles Tomkins, Erika Nielsen, Chris Enns, Dean Burry, Lauren Klein, at the opening night reception for *The Bells of Baddeck*. Photo: Geoffrey Sirett.</figcaption>
 </figure>
 
 ### 3. How has it been to collaborate with Dean Burry?
@@ -75,7 +108,9 @@ He has created some truly beautiful music for *The Bells of Baddeck*. Mabel’s 
 
 **Chris**: The feedback has been overwhelming. The community has been so supportive! It’s so fun to be in a place that doesn’t get much classical music exposure, but has an incredible arts scene. The musical talent in Cape Breton is ridiculous, and being able to add our operatic slant on it has been fun. They teach us fiddle tunes, we teach them how to ... um... sing really loud? Mainly we learn sweet fiddle tunes.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438128112207/The-kids-loving-their-lollipop-bouquets-from-BOP.jpg.jpg)<figcaption>Kids from the *Bells* cast enjoy their lollipop bouquets. Photo: Geoffrey Sirett.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438128112207/The-kids-loving-their-lollipop-bouquets-from-BOP.jpg.jpg)<figcaption>Kids from the *Bells* cast enjoy their lollipop bouquets. Photo: Geoffrey Sirett.</figcaption>
 </figure>
 
 We’ve also had a lot of feedback on the story itself. It means so much to this community, but more than just Baddeck, or Cape Breton. I met a woman in line for my morning coffee yesterday from the Clarke School in Philadelphia. The Clarke School is a school that Alexander Graham Bell taught at, and Mabel attended (it’s actually where they met) and still exists today. She was so excited that we had told that part of the story and told me how much amazing work the Clarke school is still doing today.
@@ -86,7 +121,9 @@ We’ve also had a lot of feedback on the story itself. It means so much to this
 
 **Larissa**: We live in the beautiful wilderness outside of Baddeck and every day we cycle a short 5 kilometers into Baddeck alongside the Bras d’Or. We pass rocky shores complete with starfish, see herons take flight, and sailboats blow around Baddeck Bay in front of the Cape Breton red cliffs. When we pass the lighthouse we’re close, and then we spend the day in the cute town rehearsing for shadow box, with Bells of Baddeck shows in the evenings four times a week. We’ve been living with amazing colleagues in a big cottage by the lake and sharing meals together.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438128218398/Hike-at-Uisge-Bahn-Falls.jpg.jpg)<figcaption>l-r: Stephanie Tritchew, Giles Tomkins, Larissa Koniuk, Geoffrey Sirett, and Erika Nielsen, enjoying a hike to Uisge Bahn falls. Photo: Geoff's camera's self-timer.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438128218398/Hike-at-Uisge-Bahn-Falls.jpg.jpg)<figcaption>l-r: Stephanie Tritchew, Giles Tomkins, Larissa Koniuk, Geoffrey Sirett, and Erika Nielsen, enjoying a hike to Uisge Bahn falls. Photo: Geoff's camera's self-timer.</figcaption>
 </figure>
 
 We’ve gone on one major training ride so far (yikes, we should get out on some more training rides!) to a beautiful hike to Uisge Bahn falls. And perhaps my favourite experience so far has been attending an authentic Cape Breton square dance at a nearby town with top-notch fiddlers and charming local people who didn’t mind giving us a shove in the right direction. At the close out of *Bells of Baddeck*, we open our own show, *shadow box* and tour it to Nova Scotia audiences August 3rd through 11th, before returning home to Ontario to tour for three more weeks!

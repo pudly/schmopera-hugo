@@ -1,19 +1,21 @@
-+++
-date = "2016-05-24T14:53:00-04:00"
-discipline = "Conductor"
-lastmod = "2016-05-24T14:53:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546830313/media/2019/01/HughBrunt.gif"
-publishDate = "2016-05-24T14:53:00-04:00"
-related_companies = ["scene/companies/london-contemporary-orchestra.md", "scene/companies/city-of-london-sinfonia.md"]
-slug = "hugh-brunt"
-title = "Hugh Brunt"
-website = "http://www.hughbrunt.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/hughbrunt"
-
-+++
+---
+date: "2016-05-24T14:53:00-04:00"
+discipline: Conductor
+lastmod: "2016-05-24T14:53:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546830313/media/2019/01/HughBrunt.gif
+publishDate: "2016-05-24T14:53:00-04:00"
+related_companies:
+- scene/companies/london-contemporary-orchestra.md
+- scene/companies/city-of-london-sinfonia.md
+slug: hugh-brunt
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/hughbrunt
+title: Hugh Brunt
+website: http://www.hughbrunt.com/
+---
 “The furious panache of the LCO’s performance, expertly channelled by the conductor Hugh Brunt, was overwhelming” - *The Times*
 
 Hugh Brunt is co-Artistic Director and Principal Conductor of the London Contemporary Orchestra, winners of the Ensemble category at the Royal Philharmonic Society Music Awards 2015. Since 2008, he has led the LCO in innovative programmes at UK and European venues and festivals including the Roundhouse, Barbican, Royal Opera House, Open’er Festival (Poland), Royal Festival Hall, Victoria Hall (Geneva), Village Underground and Latitude Festival, and live on BBC Radio 3.

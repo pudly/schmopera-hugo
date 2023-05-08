@@ -1,19 +1,22 @@
-+++
-date = "2018-09-21T13:21:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-09-21T13:21:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537550329625/download.jpeg.jpeg"
-primary_image_credit = "Ophelia & Romeo Photography."
-publishDate = "2018-09-21T13:21:00-04:00"
-related_companies = ["scene/companies/highlands-opera-studio.md","scene/companies/pacific-opera-victoria.md"]
-slug = "sarah-vardy"
-title = "Sarah Vardy"
-website = "http://sarahvardy.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/sarah.vardysoprano"
-+++
+---
+date: "2018-09-21T13:21:00-04:00"
+discipline: Soprano
+lastmod: "2018-09-21T13:21:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537550329625/download.jpeg.jpeg
+primary_image_credit: Ophelia & Romeo Photography.
+publishDate: "2018-09-21T13:21:00-04:00"
+related_companies:
+- scene/companies/highlands-opera-studio.md
+- scene/companies/pacific-opera-victoria.md
+slug: sarah-vardy
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/sarah.vardysoprano
+title: Sarah Vardy
+website: http://sarahvardy.com/
+---
 
 Acclaimed for her “emotional yet unaffected quality of performance with true clear voice”, soprano Sarah Vardy impresses and delights audiences across Canada, Europe, Mexico, and China. “She stands out wherever she sings with a combination of vocal passion and rich characterization and musicality.” Her European debut of Tosca was “Victorious” and she continues to “convey deep emotion and rich and unique vocal tones.”
 
